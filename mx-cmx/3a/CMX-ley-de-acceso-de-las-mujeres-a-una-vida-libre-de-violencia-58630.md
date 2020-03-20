@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2020-01-22"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -102,11 +102,15 @@ XI. Parto Humanizado: Modelo de atención a las mujeres durante el parto y el pu
 
 El modelo incluye de manera explícita y directa, las opiniones, necesidades y valoraciones emocionales de las mujeres y sus familias en los procesos de atención del parto y puerperio, incorporando medidas para erradicar las barreras culturales y de género que dificultan el acceso de las mujeres a los servicios de salud, reconociendo la diversidad cultural existente, y los aportes de la partería tradicional y otros aportes clínico terapéuticos de salud no convencionales.
 
-XII. Persona agresora: Quien o quienes infligen algún tipo de violencia contra las mujeres en cualquiera de sus tipos y modalidades;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+XII. Persona agresora: Quien o quienes infligen algún tipo de violencia contra las mujeres en cualquiera de sus tipos y modalidades, así como quienes se encuentren registrados en el Registro Público de Personas Agresores Sexuales;
 
 XIII. Perspectiva de género: Visión crítica, explicativa, analítica y alternativa que aborda las relaciones entre los géneros y que permite enfocar y comprender las desigualdades construidas socialmente entre mujeres y hombres y establece acciones gubernamentales para disminuir las brechas de desigualdad entre mujeres y hombres;
 
-XIV. Procuraduría: La Procuraduría General de Justicia del Distrito Federal;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+XIV. Fiscalía: La Fiscalía General de Justicia de la Ciudad de México;
 
 XV. Red de información de violencia contra las mujeres: El sistema de recolección, procesamiento y clasificación de la información producida por las dependencias y entidades señaladas en esta Ley;
 
@@ -131,6 +135,10 @@ XXIII. Violencia contra las mujeres: Toda acción u omisión que, basada en su g
 > <small>(ADICIONADA, G.O. 19 DE JULIO DE 2017)</small>
 
 XXIV. Declaratoria de Alerta por violencia contra las mujeres: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 2020)</small>
+
+XXV. Registro: El Registro Público de Personas Agresores Sexuales.
 
 ###### Artículo 4.
 
@@ -168,9 +176,15 @@ Las mujeres víctimas de cualquier tipo de violencia tendrán los derechos sigui
 
 I. Ser tratadas con respeto a su integridad y el ejercicio pleno de sus derechos;
 
-> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 20 DE MARZO DE 2020)</small>
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, la libertad o seguridad de la víctima o de las víctimas indirectas;
+II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, la libertad o seguridad de la víctima o de las víctimas indirectas.
+
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+Incluyendo para efectos de prevención de riesgo de sufrir algún acto de violencia sexual, el que exista un Registro PÚBLICO de Personas Agresoras Sexuales, en los términos y bajo las características que señale la normatividad aplicable;
 
 III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
 
@@ -366,11 +380,11 @@ III. Todas aquellas que se consideren necesarias para atender, erradicar y sanci
 
 ### CAPÍTULO I. DE LA COORDINACIÓN INTERINSTITUCIONAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
 
 ###### Artículo 11.
 
-Para la efectiva aplicación de la presente Ley, las dependencias y entidades del Distrito Federal establecerán una coordinación interinstitucional, entre las Secretarías de Gobierno, Desarrollo Social, Seguridad Pública, Trabajo y Fomento al Empleo, Salud, Educación, Cultura, Desarrollo Urbano y Vivienda, Procuraduría General de Justicia, Consejería Jurídica y de Servicios Legales, Secretaría de las Mujeres, Procuraduría Social, Sistema de Transporte Público, Sistema para el Desarrollo Integral de la Familia del Distrito Federal y los dieciséis Órganos Político Administrativos.
+Para la efectiva aplicación de la presente Ley, las dependencias y entidades de la Ciudad de México establecerán una coordinación interinstitucional, entre las Secretarías de Gobierno, Desarrollo Social, Seguridad Ciudadana, Trabajo y Fomento al Empleo, Salud, Educación, Cultura, Desarrollo Urbano y Vivienda, Fiscalía General de Justicia, Consejería Jurídica y de Servicios Legales, Secretaría de las Mujeres, Procuraduría Social, Sistema de Transporte Público, Sistema para el Desarrollo Integral de la Familia de la Ciudad de México y los dieciséis Órganos Político Administrativos.
 
 La coordinación interinstitucional establecida en esta Ley se coordinará con el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
@@ -388,6 +402,10 @@ La prevención es el conjunto de acciones que deberán llevar a cabo las depende
 
 La prevención comprende medidas generales y especiales, entre las que deberán privilegiarse las de carácter no penal.
 
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+Así como las medidas de seguridad que determine el órgano jurisdiccional en materia de registro de personas sentenciadas por delitos relacionados con violencia sexual.
+
 > <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 ###### Artículo 14.
@@ -403,6 +421,14 @@ Serán consideradas como medidas especiales de prevención aquellas que permitan
 I. Contar con una atención preferente, ágil, pronta y expedita cuando se encuentren realizando algún trámite, solicitando algún servicio o participando de algún procedimiento ante cualquier Autoridad Local;
 
 II. Ser atendidas con prontitud y diligencia por los particulares que brinden algún servicio público.
+
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+###### Artículo 14 Ter.
+
+Se crea el Registro PÚBLICO de Personas Agresoras Sexuales de la Ciudad de México, como mecanismo efectivo de prevención y protección para los efectos de atender al factor de riesgo de reincidencia y repetición de conductas de violencia sexual, a favor de víctimas o potenciales víctimas de esta violencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
 
@@ -429,6 +455,22 @@ V. Remitir la información y estadísticas a la red de información de violencia
 VI. Establecer mecanismos internos para la denuncia del personal que incurra en violencia institucional; y
 
 VII. Las demás que señalen la (sic) disposiciones legales.
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+###### Artículo 15 Bis.
+
+Son obligaciones de la Secretaría de Gobierno las siguientes:
+
+I. Publicar en su portal web oficial, el Registro Público de Personas Agresoras Sexuales, registrando a la persona sentenciada, una vez que cause ejecutoria la sentencia;
+
+II. Participar en la Coordinación Interinstitucional y en las acciones de prevención y erradicación de la violencia que prevé esta Ley;
+
+III. Establecer los lineamientos para crear, organizar, implementar, gestionar, actualizar, monitorear y evaluar el funcionamiento del Registro Público de Agresores Sexuales;
+
+IV. Expedir los mecanismos que permitan inscribir, acceder, rectificar, cancelar y oponerse cuando resulte procedente, la información contenida en el Registro, y
+
+V. Suscribir los convenios con instituciones públicas, privadas y académicas necesarios para el cumplimiento de su objeto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2019)</small>
 
@@ -586,9 +628,11 @@ III. Realizar con otras dependencias campañas de prevención de la violencia co
 
 IV. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 24.
 
-El Sistema para el Desarrollo Integral de la Familia del Distrito Federal deberá:
+El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México deberá:
 
 I. Diseñar y promover campañas de información de prevención de la violencia contra las mujeres;
 
@@ -596,35 +640,49 @@ II. Desarrollar campañas de difusión sobre los servicios que brinda;
 
 III. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres;
 
-IV. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora; y
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+IV. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora de violencia sexual; siempre y cuando exista un modelo de abordaje psicoterapéutico debidamente probado en sus beneficios y alcances y supervisado por la Secretaria de la Mujer y
 
 V. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 25.
 
-La Secretaría de Seguridad Pública deberá:
+La Secretaría de Seguridad Ciudadana deberá:
 
-I. Elaborar e implementar en coordinación con la Procuraduría, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+I. Elaborar e implementar en coordinación con la Fiscalía, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva, así como a aquellas donde residan un mayor número de personas inscritas en el Registro;
 
 II. Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia;
 
-III. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+III. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado. Debiendo en todo momento estar actualizadas las consultas al Registro;
 
 IV. Diseñar la política integral para la prevención de delitos violentos contra las mujeres;
 
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
-V. Realizar, en coordinación con la Secretaría de las Mujeres campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres;
+V. Realizar, en coordinación con la Secretaría de las Mujeres campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres, incluyendo los de carácter sexual, y las consultas al Registro;
 
 VI. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres; y
 
 VII. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
+I. Elaborar e instrumentar en coordinación con la Secretaria de Seguridad Pública, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 26.
 
-La Procuraduría deberá:
+La Fiscalía deberá:
 
-I. Elaborar e instrumentar en coordinación con la Secretaria de Seguridad Pública, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+I. Elaborar e instrumentar en coordinación con la Secretaria de Seguridad Ciudadana, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número (sic) personas inscritas en el Registro;
 
 II. Realizar investigaciones para detectar y desarticular redes de prostitución, corrupción, trata de personas y otros delitos de los que son víctimas las mujeres;
 
@@ -644,9 +702,9 @@ VI. Crear bases de datos que contengan información de carácter público a efec
 
 VII. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de los procedimientos penales y sentencias que se dictan en contra de las mujeres responsables de delitos;
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
-VIII. Crear un sistema de registro público de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victima! para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, los vinculados a proceso, aquellos en que se haya dictado el auto de apertura a juicio oral, los sancionados y aquellos en los que procedió la reparación del daño;
+VIII. Crear un sistema de registro público de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima, pero nunca datos personales que permita su localización o identificación y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, las personas sentenciadas y que la autoridad jurisdiccional ordena se inscriban en el Registro, los vinculados a proceso, aquellos en que se haya dictado el auto de apertura a juicio oral, los sancionados y aquellos en los que procedió la reparación del daño;
 
 > <small>(ADICIONADA, G.O. 25 DE JULIO DE 2012)</small>
 
@@ -886,7 +944,13 @@ I. De prevención, que será coordinado por la Secretaría de las Mujeres;
 
 II. De atención, que será coordinado por la Dirección de Igualdad; y
 
-III. De acceso a la justicia, el cual será coordinado por la Procuraduría.
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+III. De acceso a la justicia, el cual será coordinado por la Fiscalía.
+
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 2020)</small>
+
+IV. De Protección y Registro de Agresores
 
 ###### Artículo 48.
 
@@ -986,7 +1050,9 @@ El acceso a la justicia de las mujeres, es el conjunto de acciones jurídicas qu
 
 Las acciones de acceso a la justicia consisten en:
 
-I. Implementar de manera pronta y eficaz medidas de protección para las mujeres víctimas de violencia o en riesgo de serlo, para salvaguardar su integridad física y psíquica, así como su patrimonio, tomando en cuenta las condiciones de vulnerabilidad en las que se encuentren;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+I. Implementar de manera pronta y eficaz medidas de protección para las mujeres víctimas de violencia o en riesgo de serlo, para salvaguardar su integridad física y psíquica, así como su patrimonio, tomando en cuenta las condiciones de vulnerabilidad en las que se encuentren. Considerando para los casos de riesgo de violencia sexual el Registro puntual de los agresores;
 
 II. Actuar con la debida diligencia para orientar, acompañar y representar a las mujeres víctimas de violencia en los procedimientos en que participen, con el fin de que sean sancionados los actos de violencia cometidos en su contra, así como para hacer efectiva la reparación del daño; y
 
@@ -1004,9 +1070,9 @@ En la esfera de la procuración y administración de justicia, se contará con a
 
 La representación legal que se proporcione a las víctimas, consistirá en el patrocinio y asesoría legal especializada, en asuntos del fuero común, en materia penal, civil, familiar, arrendamiento y laboral de la siguiente manera:
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
-I.- En materia penal a cargo de la Procuraduría a través de una asesora o un asesor jurídico;
+I. En materia penal a cargo de la instancia de atención a víctimas a través de una asesora o un asesor jurídico;
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1020,13 +1086,15 @@ b) A cargo de la Dirección de Igualdad a través de las abogadas de las mujeres
 
 IV. En materia laboral a cargo de la Procuraduría de la Defensa del Trabajo, a través de personal jurídico adscrito a la Subprocuraduría de Atención a Mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 58.
 
-La Procuraduría, desde la perspectiva de género, deberá:
+La Fiscalía, desde la perspectiva de género, deberá:
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
-l. Proporcionar representación legal en materia penal a las mujeres víctimas de violencia, a través de asesoras o asesores jurídicos;
+I. Verificar que exista la representación legal en materia penal a las mujeres víctimas de violencia, a través de asesoras o asesores jurídicos;
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1062,11 +1130,15 @@ VII.- Implementar los mecanismos necesarios que permitan, en los casos de violen
 
 VIII.- Las demás que le atribuyen otros ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 59.
 
-La Secretaría de Seguridad Pública, desde la perspectiva de género, deberá:
+La Secretaría de Seguridad Ciudadana, desde la perspectiva de género, deberá:
 
-I. Conformar un cuerpo policíaco especializado en atender y proteger a las víctimas de violencia, y brindar las medidas de protección que establece esta Ley;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+I. Conformar un cuerpo policíaco especializado en atender y proteger a las víctimas de violencia, y brindar las medidas de protección y de monitoreo del Registro que establece esta Ley;
 
 II. Crear mecanismos de coordinación y colaboración con las dependencias encargadas de la seguridad pública en las distintas entidades federativas que coadyuven en la ejecución de las medidas que garanticen la seguridad de las víctimas; y
 
@@ -1091,6 +1163,26 @@ III. Canalizar a la Dirección de Igualdad a las víctimas que tengan necesidad 
 IV. Promover las denuncias correspondientes por hechos que la ley señale como delitos cometidos en agravio de sus defendidas, que se encuentren internas en los centros de reinserción social y penitenciarias; y
 
 V. Las demás que le atribuyan otros ordenamientos legales.
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+###### Artículo 60 Bis.
+
+Son funciones de la Subsecretaría del Sistema Penitenciario:
+
+I. Organizar, administrar, actualizar y resguardar la información contenida en el Registro en términos de las leyes aplicables, lineamientos y protocolos para la recepción, procesamiento, consulta y resguardo de la información que se expidan para tal efecto;
+
+II. Realizar y elaborar estudios, investigaciones y estadísticas con los datos contenidos en el Registro, respetando la información de datos personales conforme a la normatividad aplicable para la elaboración de políticas públicas;
+
+III. Recibir de los órganos jurisdiccionales, la entrega de los datos de las personas sentenciadas con ejecutoria para registro de los mismos.
+
+IV. Adoptar las medidas necesarias para asegurar la veracidad, integridad y accesibilidad de la información, así como la protección de los datos personales contenidos, en el Registro de conformidad con la normativa aplicable, aplicando los lineamientos y protocolos respectivos;
+
+V. Proporcionar información sobre los agresores sexuales a las autoridades locales competentes de conformidad con la normatividad aplicable;
+
+VI. Vigilar el uso correcto de la información contenida en el Registro y, en su caso, sancionar o dar vista a la autoridad competente respecto del uso indebido de la información,
+
+VII. Las demás que prevean otras disposiciones legales.
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1220,9 +1312,9 @@ V. La entrega inmediata de objetos de uso personal y documentos de identidad de 
 
 VI.- Vigilancia en el domicilio de la víctima u ofendido;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
 
-VII. Custodia personal y o (sic) domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Procuraduría General de Justicia del Distrito Federal y de la Secretaría de Seguridad Pública del Distrito Federal, según corresponda, con base a la disponibilidad de personal con el que estas instancias cuenten.
+VII.- Custodia personal y o (sic) domiciliaria a las víctimas, que estará a cargo de los cuerpos policiales adscritos a la Fiscalía y de la Secretaría de Seguridad Ciudadana, según corresponda, con base a la disponibilidad de personal con el que estas instancias cuenten;
 
 VIII.- Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;
 
@@ -1236,25 +1328,29 @@ X. Reingreso de la mujer y en su caso víctimas indirectas al domicilio, una vez
 
 Para el cumplimiento de esta medida se garantizará el acompañamiento, del Ministerio Público y del personal de la policía de investigación, a la víctima de violencia para acceder al domicilio, lugar de trabajo u otro, en cualquier caso, podrá ser acompañada de una persona de su confianza. En caso de que no haya personal de policía de investigación disponible, el acompañamiento será a cargo de personal de cualquier institución de seguridad pública que garantice la seguridad de las víctimas.
 
-> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 2020)</small>
 
-XI. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho.
-
-> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-XII. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que la persona agresora o su familia puedan ubicar a la víctima.
+XI. Ordenar al agresor que entregue el pasaporte si existiere de sus hijas e hijos menores de 18 años, para el resguardo del mismo, hasta en tanto el juez de lo familiar no determine la custodia o el régimen de visitas según sea el caso;
 
 > <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
-XIII. Implementar medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación.
+XII. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho.
 
 > <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
-XIV. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, vida, libertad y seguridad de la mujer y las víctimas indirectas en situación de violencia.
+XIII. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que la persona agresora o su familia puedan ubicar a la víctima.
+
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Implementar medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación.
 
 > <small>(ADICIONADA, G.O. 22 DE ENERO DE 2020)</small>
 
 XV. La interrupción, bloqueo, destrucción o eliminación de imágenes, audios, videos de contenido sexual íntimo de una persona, sin su consentimiento; de medios impresos, redes sociales, plataforma digital o cualquier dispositivo o medio tecnológico.
+
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, vida, libertad y seguridad de la mujer y las víctimas indirectas en situación de violencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
@@ -1394,6 +1490,92 @@ Los servidores públicos del Distrito Federal serán responsables por todo acto 
 
 La responsabilidad de los servidores públicos será sancionada por los órganos de control competentes de conformidad con la legislación aplicable, sin menoscabo de las acciones penales, civiles o cualquier otra que se derive de su incumplimiento.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE MARZO DE 2020)</small>
+
+## TÍTULO SEPTIMO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE MARZO DE 2020)</small>
+
+### CAPITULO UNICO. REGISTRO PÚBLICO DE PERSONAS AGRESORAS SEXUALES
+
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+###### Artículo 79.
+
+El Registro PÚBLICO de Personas Agresoras Sexuales de la Ciudad de México constituye un sistema de información DE CARÁCTER PÚBLICO que contendrá los registros de personas sentenciadas con ejecutoria por un juez penal, EN TÉRMINOS DE LOS ESTABLECIDOS (SIC) EN LOS ARTÍCULOS 69 TER Y 69 QUARTER DEL CÓDIGO PENAL DEL DISTRITO FEDERAL VIGENTE.
+
+En ningún caso y bajo ninguna circunstancia, se incluirán datos personales de las víctimas o datos que hagan posible su localización e identificación y ocasionen una revictimización.
+
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+###### Artículo 80.
+
+El registro sólo se verificará cuando exista LA INSTRUCCIÓN DE LA AUTORIDAD JURISDICCIONAL, Y la sentencia ejecutoriada respectiva, CONSIDERANDO SU INSCRIPCIÓN Y A PARTIR DE QUÉ MOMENTO ES EFECTIVO EL TÉRMINO DE DIEZ AÑOS COMO MÍNIMO Y MÁXIMO DE 30 QUE SEÑALA LA LEGISLACIÓN PENAL APLICABLE.
+
+La inscripción contenida en el Registro Público de Personas Agresoras Sexuales se cancelará, cuando concluya el término respectivo o cuando sea ordenado por la autoridad jurisdiccional que corresponda, señalando el motivo.
+
+La autoridad responsable del Registro, bajo su más estricta responsabilidad, deberá garantizar los derechos humanos de la persona registrada.
+
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+###### Artículo 81.
+
+El Registro PÚBLICO de Personas Agresoras Sexuales tendrá las siguientes características y mecanismos de protección y auditoría de la información con la finalidad de garantizar que los datos resguardados en el mismo, gocen de la calidad de la información que impida cualquier daño, pérdida, alteración, destrucción o para impedir el uso, acceso o tratamiento no autorizado de la información:
+
+I. Confiabilidad;
+
+II. Encriptación;
+
+III. Gratuidad en su uso y acceso, y
+
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+IV. PÚBLICO A TRAVÉS DE LOS PORTALES DE INTERNET RESPECTIVOS.
+
+Las autoridades y personas servidoras públicas que intervengan en la captura, ingreso, envío, recepción, manejo, consulta o actualización de la información que integra el Registro, deberán adoptar las medidas necesarias para mantener exactos, completos, correctos y actualizados, los datos personales en su posesión.
+
+La Agencia Digital de Innovación Pública, brindará el apoyo técnico y asesoría en materia de infraestructura tecnológica, seguridad informática e interoperabilidad para la operación y funcionamiento del Registro.
+
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+###### Artículo 82.
+
+El Registro contendrá información general de personas sentenciadas con ejecutoria en materia penal DE ACCESO PÚBLICO, PERO SU CONSULTA SERÁ POR PETICIÓN ESCRITA, organizada por delito, y los datos que se indican a continuación:
+
+a) Fotografía actual;
+
+b) Nombre;
+
+c) Edad;
+
+d) Alias;
+
+e) Nacionalidad.
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+###### Artículo 83.
+
+El Registro contendrá también la información clasificada a la cual sólo tendrán acceso las personas titulares del Ministerio Público, debidamente motivada y fundada y en su caso con la autorización del juez de control respectivo así como aquellas personas autorizadas exclusivamente por las autoridades judiciales.
+
+a) Señas particulares;
+
+b) zona criminológica de los delitos;
+
+c) Modus operandi;
+
+d) Ficha signaléctica;
+
+e) Perfil Genético.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -1531,3 +1713,19 @@ G.O. 22 DE ENERO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Remítase a la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México para los efectos legales a que haya lugar.
+
+G.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA, DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL DISTRITO FEDERAL, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la persona Titular de la Jefatura de Gobierno de la Ciudad de México, contará con un plazo que no excederá de 30 días hábiles, para armonizar el contenido del Reglamento de la Ley de Acceso de las Mujeres una Vida libre de Violencia de la Ciudad de México con el presente decreto.
+
+CUARTO.- La Secretaria de Gobierno de la Ciudad de México, contará con un término máximo de 90 días naturales para crear el Registro Público de Personas Agresoras Sexuales de la Ciudad de México, mismo que entrara en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+QUINTO.- A partir de la entrada en vigor del presente decreto, la Secretaria de Gobierno, deberá incluir en la base de datos del Registro, todas aquellas personas sentenciadas que hayan adquirido ese carácter con fecha posterior a la entrada del presente decreto.
+
+SEXTO.- Envíese el presente decreto a la Jefa de Gobierno de la Ciudad de México para sus efectos legales.
