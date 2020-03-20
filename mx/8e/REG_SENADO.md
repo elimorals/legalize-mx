@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2019-03-29"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -638,17 +638,21 @@ I. Conmemorar alguna efeméride;
 
 II. Tributar homenaje a personajes ilustres;
 
-> <small>(REFORMADA POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO “ELVIA CARRILLO PUERTO”, D.O.F. 5 DE MARZO DE 2013)</small>
+> <small>(REFORMADA POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO "ELVIA CARRILLO PUERTO", D.O.F. 5 DE MARZO DE 2013)</small>
 
 III. Recibir a invitados distinguidos, nacionales o extranjeros;
 
-> <small>(REFORMADA POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO “ELVIA CARRILLO PUERTO”, D.O.F. 5 DE MARZO DE 2013)</small>
+> <small>(REFORMADA POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO "ELVIA CARRILLO PUERTO", D.O.F. 5 DE MARZO DE 2013)</small>
 
 IV. Imponer la Medalla de Honor Belisario Domínguez, o
 
-> <small>(ADICIONADA POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO “ELVIA CARRILLO PUERTO”, D.O.F. 5 DE MARZO DE 2013)</small>
+> <small>(ADICIONADA POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO "ELVIA CARRILLO PUERTO", D.O.F. 5 DE MARZO DE 2013)</small>
 
-V. Otorgar el Reconocimiento “Elvia Carrillo Puerto”.
+V. Otorgar el Reconocimiento "Elvia Carrillo Puerto".
+
+> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2020)</small>
+
+VI. Otorgar el Reconocimiento “Dr. Jesús Kumate Rodríguez”.
 
 2. El formato y realización de las sesiones solemnes se ajusta a lo que disponen este Reglamento y las disposiciones en materia de ceremonial y protocolo.
 
@@ -659,6 +663,14 @@ Artículo 56 Bis
 La ciudadana acreedora al reconocimiento “Elvia Carrillo Puerto” será elegida por el voto de las dos terceras partes de las senadoras y los senadores presentes, de la Cámara de Senadores.
 
 La Comisión para la Igualdad de Género, de la Cámara de Senadores, previa auscultación de los sectores académicos, sociales y culturales, propondrá la terna de candidatas al reconocimiento al Pleno de la Cámara de Senadores, conforme al reglamento del reconocimiento.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MARZO DE 2020)</small>
+
+Artículo 56 Ter
+
+La persona acreedora al Reconocimiento “Dr. Jesús Kumate Rodríguez”, será elegida por el voto de las dos terceras partes de las senadoras y los senadores presentes.
+
+La Comisión de Salud, previa auscultación de los sectores académicos, culturales y de organismos de ciudadanos beneficiarios de los servicios de salud, propondrá la terna con las personas consideradas como merecedoras del reconocimiento al Pleno, conforme al Decreto por el que se crea el Reconocimiento “Dr. Jesús Kumate Rodríguez”.
 
 Artículo 57
 
@@ -3455,3 +3467,9 @@ D.O.F. 29 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 123 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO "DR. JESÚS KUMATE RODRÍGUEZ" Y SE ADICIONA UNA FRACCIÓN SEXTA AL NUMERAL 1 DEL ARTÍCULO 56 Y UN ARTÍCULO 56 TER, AMBOS DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
