@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2020-01-21"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -1691,9 +1691,11 @@ La Secretaría y las autoridades municipales, en el ámbito de sus respectivas c
 
 ### CAPITULO I. DEL APROVECHAMIENTO SUSTENTABLE DE LAS AGUAS DE COMPETENCIA DEL ESTADO Y DE LOS MUNICIPIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 86.
 
-Para el aprovechamiento sustentable de las aguas de competencia estatal o municipal, así como el uso adecuado del agua potable que se utiliza en los centros de población, se considerarán los siguientes criterios:
+Para el aprovechamiento sustentable de las aguas de competencia estatal o municipal, así como el uso adecuado del agua potable que se utiliza en los centros de población, se consideran los siguientes criterios:
 
 I.- Que la creciente escasez del recurso hidráulico, aunada al crecimiento de la población estatal, regional y nacional, demanda una optimización urgente del uso del mismo en todos los niveles y por parte de todos los sectores de la sociedad, incluido el uso generalizado de dispositivos y sistemas de ahorro;
 
@@ -1703,7 +1705,9 @@ III.- Que el uso del agua proveniente de los sistemas de agua potable en activid
 
 IV.- Que antes de utilizar nuevas fuentes de abastecimiento para la dotación de agua potable a los centros de población, deberán agotarse las posibilidades de rehabilitación o reconstrucción de las redes de distribución correspondientes, a fin de prevenir o remediar las fugas del recurso; así como el estudio y aplicación de tarifas diferenciales y la implantación general de medidores;
 
-V.- Que es imprescindible la utilización de sistemas orientados a la captación y almacenamiento del agua de lluvia, el uso múltiple de esta última, su descontaminación local y reuso; así como la sensibilización de la población para evitar su despilfarro; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2020)</small>
+
+V.- Que es imprescindible la implementación de sistemas orientados a la captación y almacenamiento del agua de lluvia, el uso múltiple de esta última, su descontaminación local y reúso por parte de los parques industriales y, en general, de todas las empresas susceptibles de adoptar dichos sistemas; así como la sensibilización de la población para evitar su despilfarro y fomentar su reutilización; y
 
 VI.- Que el aprovechamiento del recurso en cuerpos de agua de competencia local, que sean el hábitat y especies de flora y fauna acuáticas, deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies.
 
@@ -3292,3 +3296,11 @@ P.O. 21 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 569.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 86 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor 365 días después de su publicación en el Periódico Oficial del Estado, con objeto de que las entidades sujetas a esta disposición cuenten con el mismo número de días para implementar el sistema en cuestión.
