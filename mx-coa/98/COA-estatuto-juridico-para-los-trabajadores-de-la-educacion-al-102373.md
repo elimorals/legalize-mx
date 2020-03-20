@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-de-la-educacion-al-1023
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-02"
-last_updated: "2019-12-13"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 2 de septiembre de 2014.
 
@@ -462,6 +462,16 @@ X.- Con goce de sueldo cuando el trabajador sea familiar de una persona desapare
 > <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 13 DE DICIEMBRE DE 2019.]</small>
 
 Para efectos de esta fracción, se entiende por familiar y persona desaparecida lo que establece la fracción IX y XVII respectivamente, del artículo 4 de la Ley en Materia de Personas Desaparecidas del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2020)</small>
+
+XI.- Conceder a mujeres y hombres trabajadores un día de licencia al año, con goce de sueldo, para realizarse los exámenes médicos necesarios para la prevención y/o detección del cáncer, para lo cual deberán dar aviso con una semana de anticipación sobre la cita al ginecólogo, urólogo o médico tratante.
+
+Una vez que se hayan realizado los exámenes médicos correspondientes, la mujer o el hombre trabajador deberá presentar el comprobante clínico que lo acredite.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XI, P.O. 20 DE MARZO DE 2020.]</small>
+
+Derivado de la cita mencionada en el párrafo primero, se podrá aumentar un día más de licencia al año, en caso de que el ginecólogo, urólogo médico tratante lo considere necesario, para lo cual deberá exhibir la carta médica con la justificación correspondiente y el comprobante médico que lo acredite.
 
 ###### ARTÍCULO 38.
 
@@ -1282,3 +1292,9 @@ P.O. 13 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 571.- SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 37 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
