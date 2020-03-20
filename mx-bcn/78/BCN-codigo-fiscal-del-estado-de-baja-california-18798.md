@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2018-11-30"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -186,6 +186,10 @@ VIII.- El Subsecretario de Finanzas, los Subprocuradores de la Procuraduría Fis
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
 
 IX.- Los auditores, visitadores, inspectores, interventores, notificadores, ejecutores y verificadores fiscales, designados por las autoridades competentes en los términos del Reglamento Interno de la Secretaría de Planeación y Finanzas del Estado de Baja California, para que ejerzan las atribuciones que expresamente se les encomiende de conformidad con la legislación fiscal aplicable.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2020)</small>
+
+ARTICULO 14 BIS.- Serán autoridades fiscales las Comisiones Estatales de Servicios Públicos de los Municipios de Mexicali, Tijuana, Tecate y Ensenada, así como las Subrecaudaciones de Rentas adscritas a las referidas Comisiones, en relación al procedimiento administrativo de determinación o ejecución de créditos fiscales o en materia de obras que ejecuten conforme a las leyes aplicables y los convenios que celebren ante ellas.
 
 ###### ARTICULO 15.
 
@@ -2830,3 +2834,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 51 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 FRACCIÓN V Y 21 DE LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE REFORMAN LOS ARTÍCULOS 2 Y 17, Y ADICIÓN (SIC) DE UNA FRACCIÓN IV AL ARTÍCULO 96 DE LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
