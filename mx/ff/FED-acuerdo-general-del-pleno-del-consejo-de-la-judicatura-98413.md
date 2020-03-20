@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-98413"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-02-06"
-last_updated: "2015-05-08"
+last_updated: "2020-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98413&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-01-29"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA, PROTECCION DE DATOS PERSONALES Y ARCHIVOS]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA ORGANIZACIÓN Y CONSERVACIÓN DE LOS ARCHIVOS ADMINISTRATIVOS EN EL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 20 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2020 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 6 de febrero de 2014.
 
@@ -2244,3 +2246,23 @@ D.O.F. 8 DE MAYO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA ORGANIZACIÓN Y CONSERVACIÓN DE LOS ARCHIVOS ADMINISTRATIVOS EN EL PROPIO CONSEJO”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de transparencia, acceso a la información pública, protección de datos personales y archivos.
+
+CUARTO. La conformación del Grupo Interdisciplinario, previsto en el artículo 28, se formalizará dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Acuerdo General.
+
+QUINTO. La Dirección General de Archivo y Documentación elaborará y presentará el Manual Institucional de Archivos Administrativos para su aprobación, a las instancias competentes, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo General.
+
+SEXTO. Los periodos de vigencia documental, previstos en el artículo 25, comenzarán a aplicarse dentro de los cuatro meses siguientes al día en que entre en vigor el presente instrumento.
+
+Tratándose de las series y subseries documentales vigentes antes de la entrada en vigor del presente Acuerdo y que se encuentren registradas con un plazo de conservación mayor a los anteriormente señalados, les serán aplicables las vigencias actuales.
+
+SÉPTIMO. Aquellas áreas administrativas que hayan solicitado el resguardo provisional de su documentación, contarán con un año a partir de la entrada en vigor del presente Acuerdo, para realizar: una transferencia primaria, una transferencia secundaria o, en su caso, una baja documental.
