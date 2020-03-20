@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2017-12-29"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE MARZO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -100,7 +100,15 @@ Las autoridades administrativas de la ciudad de México y de sus órganos polít
 
 Las políticas públicas que implementen las autoridades de la Ciudad de México, en el ámbito de sus respectivas competencias, deben garantizar el ejercicio, respeto, protección, promoción y reparación de los derechos humanos de niñas, niños y adolescentes privilegiando su interés superior.
 
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+La protección deberá garantizar la seguridad sexual de las víctimas y potenciales víctimas de cualquier tipo de violencia sexual, por lo cual, las niñas, niños y adolescentes tendrán para dicha seguridad, conocer y ubicar a las personas que hayan sido sentenciadas por delitos vinculados con esa violencia.
+
+> <small>[N. DE E. REUBICADO, G.O. 20 DE MARZO DE 2020]</small>
+
 A través de la adopción de las medidas estructurales, legales, administrativas y presupuestales conducentes, dichas autoridades deben buscar contribuir al desarrollo integral de niñas, niños y adolescentes.
+
+> <small>[N. DE E. REUBICADO, G.O. 20 DE MARZO DE 2020]</small>
 
 Los sectores social y privado, concurrirán con las autoridades locales en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas.
 
@@ -116,7 +124,9 @@ III. Abandono: La situación de desamparo que vive una niña, niñooadolescente 
 
 IV. Acciones y mecanismos de Participación: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de que las niñas, niños y adolescentes estén informados, se formen una opinión propia, que la expresen y puedan participar y organizarse en torno a sus intereses;
 
-V. Acciones de Prevención: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de evitar el deterioro de las condiciones de vida de las niñas, niños y adolescentes, así como las situaciones que pongan en riesgo su supervivencia y desarrollo;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 2020)</small>
+
+V. Acciones de Prevención: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de evitar el deterioro de las condiciones de vida de las niñas, niños y adolescentes, así como las situaciones que pongan en riesgo su supervivencia y desarrollo, siendo importante la prevención de cualquier tipo de victimización de carácter sexual que pudiese presentarse por personas sentenciadas por tales conductas delictivas;
 
 VI. Acciones de Protección: Aquéllas que deben realizarse por las autoridades o servidores públicos de la Ciudad de México, familia y sociedad a fin de proporcionar bienes o servicios a las niñas, niños y adolescentes que se encuentran en condiciones de desventaja social, o cuyas condiciones de vida estén deterioradas, a efecto de restituirlas y protegerlas;
 
@@ -240,15 +250,23 @@ XIV. La accesibilidad, y
 
 XV. La debida diligencia estricta.
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
 
 ###### Artículo 7.
 
-El interés superior de la niña, niño y adolescente, es el derecho sustantivo que exige adoptar un enfoque proactivo basado en los derechos humanos, en el que colaboren todos los responsables de garantizar el bienestar, físico, psicológico, cultural y espiritual de manera integral de niñas, niños y adolescentes, el respeto a su sexualidad y sano desarrollo psicosexual, así como reconocer su dignidad humana. Asimismo, debe ser considerado como principio interpretativo fundamental y como una norma de procedimiento siempre que se tenga que tomar una decisión que afecte a una niña, niño o adolescente en concreto.
+El interés superior de la niña, niño y adolescente, es el derecho sustantivo que exige adoptar un enfoque proactivo basado en los derechos humanos, en el que colaboren todos los responsables de garantizar el bienestar, físico, psicológico, cultural y espiritual de manera integral de niñas, niños y adolescentes, así como reconocer su dignidad humana. Asimismo, debe ser considerado como principio interpretativo fundamental y como una norma de procedimiento siempre que se tenga que tomar una decisión que afecte a una niña, niño o adolescente en concreto.
+
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+Dicho principio debe aplicarse para efectos de la seguridad más amplia de niñas, niños y adolescentes, en especial la que se refiere a la violencia sexual, de la que pueden ser víctimas o potenciales víctimas, por lo que se establecerá un capítulo especial en el Registro PÚBLICO de Personas Agresoras Sexuales, QUE PREVÉN LOS ARTÍCULOS 69 TER Y 69 QUATER DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, en concordancia a lo establecido en la Ley de Acceso de las Mujeres a una Vida libre de violencia de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
 
 ###### Artículo 8.
 
-Toda autoridad en la Ciudad de México, por el principio del interés superior, debe en todo caso, resolver en favor de los derechos humanos de niñas, niños y adolescentes, respecto de cualquier otro derecho en conflicto.
+Toda autoridad en la Ciudad de México, por el principio del interés superior, debe en todo caso, atender de manera prioritaria de los derechos humanos de niñas, niños y adolescentes, respecto de cualquier otro derecho en conflicto. Lo anterior, para efectos de la ponderación de dichos derechos.
 
 ###### Artículo 9.
 
@@ -313,6 +331,14 @@ XVIII. Derecho a la seguridad jurídica, acceso a la justicia y al debido proces
 XIX. Derecho a recibir protección especial cuando se encuentre en situación de discriminación múltiple; y
 
 XX. Derecho de acceso a la información y a las tecnologías de la información.
+
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 2020)</small>
+
+XXI. Derecho a la protección y seguridad sexual, y
+
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 2020)</small>
+
+XXII. Derecho a conocer los datos de los sentenciados con ejecutoria por delitos vinculados con violencia sexual contra niñas, niños y adolescentes.
 
 ###### Artículo 14.
 
@@ -604,9 +630,15 @@ La edad mínima para contraer matrimonio en la Ciudad de México, serán los 18 
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
 
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+Garantizando su seguridad sexual, para los efectos de que no sean víctimas o potenciales víctimas de cualquier delito vinculado con diversas conductas de violencia sexual.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 44.
 
-Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
+Las autoridades y los órganos políticos administrativos, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
 
 I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
 
@@ -632,6 +664,14 @@ Las autoridades competentes deberán considerar la perspectiva de género en las
 
 Las leyes de la Ciudad de México deberán establecer las disposiciones que orientarán las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
 
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+Para lo cual el Registro PÚBLICO de Agresores Sexuales, registrará a las personas sentenciadas con ejecutoria por los delitos SEÑALADOS EN LA LEGISLACIÓN PENAL, que hayan sido cometidos contra niñas, niños y adolescentes Y, QUE LA AUTORIDAD JURISDICCIONAL, HAYA DETERMINADO SU INSCRIPCIÓN EN DICHO REGISTRO.
+
+> <small>[N. DE E. REUBICADO, G.O. 20 DE MARZO DE 2020]</small>
+
 Las autoridades competentes, están obligadas a implementar medidas especiales de protección para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
 
 ###### Artículo 45.
@@ -645,6 +685,12 @@ La recuperación y restitución de derechos a que se refiere el párrafo anterio
 En los casos en que niñas, niños y adolescentes sean víctimas de delitos, se aplicarán las disposiciones de la Ley General de Víctimas, la Ley de Atención y Apoyo a Víctimas del Delito para el Distrito Federal y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 
 Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema de Protección a que se refiere la presente Ley, deberá coordinarse con el Sistema de Atención a Víctimas Local o Federal según sea el caso, los cuales procederán en los términos de la legislación aplicable.
+
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+
+VERIFICANDO CON TODA OPORTUNIDAD QUE LOS SENTENCIADOS A QUE SE REFIERE LA LEGISLACIÓN PENAL, POR DELITOS VINCULADOS A LA VIOLENCIA SEXUAL, EN DICHAS SENTENCIAS, EL JUEZ PENAL ORDENE SU INSCRIPCIÓN AL REGISTRO PÚBLICO DE PERSONAS AGRESORES SEXUALES.
 
 ### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
@@ -938,9 +984,13 @@ En poblaciones predominantemente indígenas, las autoridades a que se refiere es
 
 Asimismo, las autoridades a que se refiere este artículo dispondrán lo necesario para garantizar que niñas, niños y adolescentes con discapacidad cuenten con la accesibilidad para ejercer su derecho a la libertad de expresión, acceso a la información y expresión de su voluntad.
 
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 69.
 
-Niñas, niños y adolescentes tienen derecho al libre acceso a la información. Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental, incluyendo la perspectiva de género y el lenguaje no sexista.
+Niñas, niños y adolescentes tienen derecho al libre acceso a la información. Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental, incluyendo la perspectiva de género y el lenguaje no sexista. INCLUYENDO EL DEBIDO ACCESO A CONSULTAR EL REGISTRO PÚBLICO DE PERSONAS AGRESORES SEXUALES, EN SUS DIVERSOS APARTADOS.
 
 El Sistema de Protección acordará lineamientos generales sobre los contenidos de la información y materiales para difusión entre niñas, niños y adolescentes, conforme a lo dispuesto en esta Ley.
 
@@ -1024,9 +1074,13 @@ II. La persona que realice la entrevista será respetuosa y no podrá mostrar ac
 
 En el caso de que no sea posible recabar el consentimiento de quienes ejerzan la patria potestad o tutela de un adolescente, éste podrá otorgarlo siempre que ello no implique una violación a su derecho a la intimidad. En caso de haberse otorgado bajo este supuesto, se deberá proceder en términos de lo establecido por el artículo 79, último párrafo.
 
+(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 81.
 
-Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme a la legislación aplicable en la materia.
+Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación Pública. Por lo que ningún dato que permita localizar e identificar a las víctimas de delitos vinculados con la violencia sexual, deberá incluirse en el Registro PÚBLICO de Personas Agresores Sexuales.
 
 ###### Artículo 82.
 
@@ -1935,3 +1989,19 @@ CUARTO.- Los derechos, erogaciones y acciones previstas en este ordenamiento jur
 QUINTO.- La Secretaría de Salud de la Ciudad de México, continuará aplicando la vacuna tetravalente hasta que se descubra una vacuna que pueda cubrir más serotipos de Virus de Papiloma Humano, de conformidad con los avances médicos y científicos que pudieran surgir en un futuro y que estuvieran avalados por las instituciones competentes para dichos efectos.
 
 SEXTO.- El Jefe de Gobierno de la Ciudad de México contará con un plazo de 120 días hábiles contados a partir de la entrada en vigor de la presente Ley, para modificar al Reglamento de esta Ley acorde con las reformas del presente decreto.
+
+G.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA, DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL DISTRITO FEDERAL, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la persona Titular de la Jefatura de Gobierno de la Ciudad de México, contará con un plazo que no excederá de 30 días hábiles, para armonizar el contenido del Reglamento de la Ley de Acceso de las Mujeres (sic) una Vida libre de Violencia de la Ciudad de México con el presente decreto.
+
+CUARTO.- La Secretaria de Gobierno de la Ciudad de México, contará con un término máximo de 90 días naturales para crear el Registro Público de Personas Agresoras Sexuales de la Ciudad de México, mismo que entrara en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+QUINTO.- A partir de la entrada en vigor del presente decreto, la Secretaria de Gobierno, deberá incluir en la base de datos del Registro, (sic) todas aquellas personas sentenciadas que hayan adquirido ese carácter con fecha posterior a la entrada del presente decreto.
+
+SEXTO.- Envíese el presente decreto a la Jefa de Gobierno de la Ciudad de México para sus efectos legales.
