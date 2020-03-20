@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2020-02-11"
+last_updated: "2020-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE FEBRERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -317,13 +315,17 @@ XV. Impulsar la permanente actualización de las disposiciones legales en materi
 
 XVI. Impulsar la mejora de los procesos de atención a la salud mediante la implementación de sistemas de gestión de calidad en las dependencias públicas y privadas, para alcanzar la certificación de las mismas, y
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2020)</small>
 
-XVII. En coordinación con las autoridades competentes, elaborar, implementar y difundir los planes de contingencia de disturbios previstos en la Ley de Protección Civil para el Estado de Coahuila y demás disposiciones que de ella se deriven, y
+XVII. En coordinación con las autoridades competentes, implementar y difundir los planes de contingencia de disturbios previstos en la Ley de Protección Civil para el Estado de Coahuila y demás disposiciones que de ella se deriven.
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2020)</small>
 
-XVIII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XVIII. Establecer, promover y coordinar el Registro Estatal de Cáncer, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XVIII], P.O. 20 DE MARZO DE 2020)</small>
+
+XIX. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### Artículo 8o.
 
@@ -733,9 +735,9 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I. La atención de la mujer durante el embarazo, informando del derecho al acompañamiento de una persona de su confianza en el proceso de parto, incluida la cesárea y el puerperio;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2020)</small>
 
-II. La atención a menores de 18 años y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y su salud visual;
+II. La atención a menores y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y su salud visual, así como la prevención de contagio a epidemias provocadas por bacterias o virus en el interior de las instalaciones de salud, aplicando los más rigurosos protocolos de atención médica.
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -753,9 +755,15 @@ V. Acciones para diagnosticar y ayudar a resolver el problema de salud visual y 
 
 El derecho a la salud de los niños y las niñas en su primera infancia es una prioridad estatal, por lo tanto, los padres, madres, tutores o quienes ejerzan la patria potestad o guardia y custodia de los mismos, deberán acudir a las instituciones de salud pública o privada para que los menores de edad reciban todas sus vacunas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2020)</small>
+
 ###### Artículo 57.
 
-En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer,sistematizar (sic) y evaluar el problema y adoptar las medidas conducentes.
+En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2020)</small>
+
+Los Comités vigilarán que, en los centros, clínicas, hospitales y demás instituciones de salud, se implementen protocolos y procedimientos que apliquen las más rigurosas medidas preventivas de atención médica, para así, evitar la mortalidad infantil atribuible a la presencia de bacterias y virus en sus instalaciones.
 
 ###### Artículo 58.
 
@@ -1172,6 +1180,24 @@ III. Recursos físicos, humanos y financieros disponibles para la protección de
 ###### Artículo 91.
 
 Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud del Estado, llevarán a cabo estadísticas que en materia de salud les señalen las autoridades sanitarias locales y proporcionarán a éstas y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2020)</small>
+
+###### Artículo 91 Bis.
+
+La Secretaría de Salud del Estado llevará un Registro Estatal de Cáncer, que deberá contar con la siguiente información:
+
+I. Información del paciente, que contenga los datos relacionados con la identidad, historial ocupacional y laboral, observando las disposiciones relativas a la protección de datos personales de los pacientes y además la información demográfica.
+
+II. Información del tumor: Incluye la fecha de diagnóstico de cáncer; la localización anatómica; de ser el caso, la lateralidad; la incidencia y el estado de la enfermedad; la histología del tumor primario y su comportamiento.
+
+III. Información respecto al tratamiento que se ha aplicado al paciente y el seguimiento que se ha dado al mismo de parte de los médicos. Además, se incluirá información de curación y supervivencia.
+
+IV. La fuente de información utilizada para cada modalidad de diagnóstico y de tratamiento.
+
+V. Toda aquella información adicional que determine la Secretaría.
+
+La Secretaría de Salud integrará la información demográfica del Registro Estatal de Cáncer de todo el territorio del Estado dividido en regiones norte, carbonífera, centro, laguna y sureste.
 
 ## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
@@ -2287,7 +2313,7 @@ a) Retirar la sal común, la cual solo podrá ser colocada a petición expresa d
 
 b) Colocar en lugares visibles información sobre las enfermedades provocadas por el alto consumo de sal; y
 
-c) Promover dentro de sus cortesías un vaso de agua natural purificada a la llegada de los comensales.
+c) (DEROGADO, P.O. 20 DE MARZO DE 2020)
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -2306,6 +2332,12 @@ IV. Adoptar las medidas de control sanitario, que en su caso, les señale la aut
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 Se considerará responsable exclusivo del suministro de alimentos que por alguna circunstancia se encuentren en estado de descomposición y que por esta razón causen un daño a la salud, a la persona o institución que hubiere efectuado su distribución.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2020)</small>
+
+###### Artículo 156 Bis.
+
+Todo establecimiento fijo donde sean vendidos alimentos preparados, deberá ofrecer gratuitamente vasos de agua natural purificada, por lo que sólo podrán vender el agua purificada si el cliente la pide embotellada.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -3309,11 +3341,11 @@ IV. La calidad de reincidente del infractor, y
 
 V. El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
 
 ###### Artículo 289.
 
-Se sancionará con multa equivalente hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89,109,110,111,123, 164, 165, 169, 171, 172, 173, 174, 178, 181, 187, 193, 194, 195, 197, 209, 241, 259 y 260.
+Se sancionará con multa equivalente hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 109, 110, 111, 123, 156 BIS, 164, 165, 169, 171, 172, 173, 174, 178, 181, 187, 193, 194, 195, 197, 209, 241, 259 y 260.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -3948,3 +3980,25 @@ P.O. 21 DE ENERO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 561.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 56 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 57, AMBOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 562.- SE REFORMAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 7°; Y SE ADICIONA LA FRACCIÓN XIX DEL ARTÍCULO 7° Y EL ARTÍCULO 91 BIS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría de Salud deberá emitir un Reglamento en el que se establezca la forma en la que se llevará a cabo la integración del Registro Estatal de Cáncer, dentro de los ciento veinte días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 20 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 570.- SE DEROGA LA FRACCIÓN (SIC) C) DEL ARTÍCULO 156; SE AÑADE ARTÍCULO 156 BIS; Y SE REFORMA EL ARTÍCULO 289, TODOS 22 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
