@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2020-02-29"
+last_updated: "2020-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -277,9 +277,13 @@ b) Conformar y participar en organizaciones para promover su desarrollo e incidi
 
 c) Recibir información sobre las instituciones que prestan servicios para su atención integral;
 
-d) Recibir formación educativa y aquella con la que se logre el desarrollo de sus capacidades y potencial;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
-e) Participar en la vida cívica, cultural, deportiva y recreativa de su comunidad; y
+d) Recibir formación educativa y aquella con la que se logre el desarrollo de sus capacidades y su potencial; así como aportar sus conocimientos y aptitudes a las generaciones más jóvenes;
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
+
+e) Participar en la vida educativa, cívica, cultural, deportiva y recreativa de su comunidad.
 
 f) Conocer sus derechos y participar en el ámbito familiar y comunitario.
 
@@ -489,9 +493,17 @@ I. Promover la celebración de convenios de coordinación con el Instituto Nacio
 
 II. Implementar programas de incentivos y becas para las personas adultas mayores que deseen estudiar;
 
-III. Fomentar la creación y producción de libros, publicaciones, obras artísticas y producciones audiovisuales, radiofónicas y multimedia dirigidas a las personas adultas mayores y a la difusión y protección de sus derechos; y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
 
-IV. Las demás señaladas en esta Ley u otras disposiciones legales aplicables.
+III. Fomentar la creación y producción de libros, publicaciones, obras artísticas y producciones audiovisuales, radiofónicas y multimedia dirigidas a las personas adultas mayores y a la difusión y protección de sus derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2020)</small>
+
+IV. Promover ante el Instituto Estatal de Educación Pública de Oaxaca, y demás Instituciones de Educación básica, media superior y superior, la implementación de programas en los que las personas adultas mayores sean los transmisores de conocimientos y aptitudes a las generaciones más jóvenes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE MARZO DE 2020)</small>
+
+V. Las demás señaladas en esta Ley u otras disposiciones legales aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -790,3 +802,11 @@ P.O. 29 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1271.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 1 Y LA FRACCIÓN VIII AL ARTÍCULO 8 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA; Y SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 4; Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 4 DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca; remítase al Ejecutivo del Estado para su publicación.
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1273.- MEDIANTE EL CUAL SE REFORMAN LOS INCISOS D) Y E) DE LA FRACCIÓN VI DEL ARTÍCULO 9; Y LAS FRACCIONES III Y IV DEL ARTÍCULO 18; SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 18 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) al presente Decreto
