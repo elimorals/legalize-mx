@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2020-02-29"
+last_updated: "2020-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -505,13 +505,17 @@ La nulidad de actuaciones por falta o defecto del emplazamiento se tramitará po
 
 Los incidentes que se susciten con motivo de otras nulidades de actuaciones o de notificaciones, se tramitarán en la misma forma y se fallarán en la sentencia definitiva.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### Artículo 76.
 
-Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, sancionando en el acto las faltas que se cometieren con multas que no podrán exceder en los Juzgados de los Alcaldes el importe de diez salarios mínimos, en los de primera instancia del importe de veinticinco salarios mínimos, y en el Tribunal Superior del importe de cincuenta salarios mínimos.
+Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, sancionando en el acto las faltas que se cometieren con multas que no podrán exceder en los Juzgados de los Alcaldes el importe de diez Unidades de Medida y Actualización Vigente, en los de primera instancia del importe de veinticinco salarios mínimos, y en el Tribunal Superior del importe de cincuenta Unidades de Medida y Actualización Vigente.
 
-Cuando en este Código se use la expresión "salario mínimo", se entenderá como tal el salario mínimo vigente en la capital del Estado.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
+
+Cuando en este Código se use la expresión Unidad de Medida y Actualización se entenderá como tal a la Unidad de Medida y Actualización Vigente.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
 Para el cumplimiento de sus determinaciones pueden solicitar el auxilio de la fuerza pública. Si los hechos llegaren a constituir delitos, se procederá penalmente contra los que los cometieren, haciéndose la consignación respectiva con testimonio de lo conducente.
 
@@ -523,7 +527,9 @@ Son correcciones disciplinarias:
 
 I. La amonestación;
 
-II. La multa, de uno a treinta días de salarios mínimos vigente en la capital del Estado;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
+
+II. La multa, de uno a treinta días de Unidades de Medida y Actualización vigente en la capital del Estado;
 
 > <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 2001)</small>
 
@@ -545,9 +551,9 @@ Dentro de los tres días de haberse hecho saber una corrección disciplinaria a 
 
 Los Jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
 
-I. La multa hasta el importe de veinticinco salarios mínimos, que se duplicará en caso de reincidencia;
+I. La multa hasta el importe de veinticinco Unidades de Medida y Actualización, que se duplicará en caso de reincidencia;
 
 II. El auxilio de la fuerza pública;
 
@@ -735,11 +741,11 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir se
 
 ### CAPITULO VI. De las notificaciones
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### Artículo 106.
 
-Las notificaciones, citaciones y emplazamientos se efectuarán a más tardar al día siguiente al en que se dicten las resoluciones que las prevengan, cuando el Juez o la Ley no dispusieran otra cosa. Se impondrá de plano a los infractores de este artículo una multa que no exceda del importe de diez salarios mínimos.
+Las notificaciones, citaciones y emplazamientos se efectuarán a más tardar al día siguiente al en que se dicten las resoluciones que las prevengan, cuando el Juez o la Ley no dispusieran otra cosa. Se impondrá de plano a los infractores de este artículo una multa que no exceda del importe de diez Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -1329,7 +1335,9 @@ Si la declinatoria se declara improcedente, el tribunal lo comunicará al Juez.
 
 El litigante que hubiere optado por uno de los dos medios de promover una incompetencia, no podrá abandonarlo y recurrir al otro, ni tampoco emplearlos sucesivamente.
 
-En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una sanción pecuniaria de veinticinco a cincuenta salarios mínimos, en beneficio del colitigante, siempre que a juicio del Juez, el incidente respectivo fuere promovido para alargar o dilatar el procedimiento.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
+
+En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una sanción pecuniaria de veinticinco a cincuenta Unidades de Medida y Actualización, en beneficio del colitigante, siempre que, a juicio del Juez, el incidente respectivo fuere promovido para alargar o dilatar el procedimiento.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -1499,11 +1507,11 @@ En el incidente de recusación son admisibles todos los medios de prueba estable
 
 Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### Artículo 180.
 
-Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta por el importe de quince salarios mínimos, si se trata de un Alcalde, hasta de setenta y cinco salarios mínimos, si el recusado fuere el Juez, hasta ciento cincuenta salarios mínimos generales, si fuere un Magistrado o de trescientos salarios mínimos en caso de recusación de todos los Magistrados de la Sala correspondiente.
+Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta por el importe de quince Unidades de Medida y Actualización, si se trata de un Alcalde, hasta de setenta y cinco Unidades de Medida y Actualización, si el recusado fuere el Juez, hasta ciento cincuenta Unidades de Medida y Actualización generales, si fuere un Magistrado o de trescientos Unidades de Medida y Actualización en caso de recusación de todos los Magistrados de la Sala correspondiente.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -1907,11 +1915,11 @@ Si el juez califica de bastante la fianza, cuya calificación hará conforme al 
 
 La resolución que conceda la autorización para continuar la obra será apelable en el efecto devolutivo y en ambos efectos la en que se niegue.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### Artículo 255.
 
-En el mismo auto en que se decrete la suspensión de la obra, el Juez prevendrá al solicitante que dentro del plazo de tres días promueva su demanda sobre suspensión definitiva y demolición de lo construido; y de no hacerlo, se levantará la suspensión condenándolo al pago de los daños y perjuicios y al de una multa del importe de veinticinco a cien salarios mínimos, según la importancia de la obra.
+En el mismo auto en que se decrete la suspensión de la obra, el Juez prevendrá al solicitante que dentro del plazo de tres días promueva su demanda sobre suspensión definitiva y demolición de lo construido; y de no hacerlo, se levantará la suspensión condenándolo al pago de los daños y perjuicios y al de una multa del importe de veinticinco a cien Unidades de Medida y Actualización, según la importancia de la obra.
 
 ## TITULO SEXTO. Del juicio ordinario
 
@@ -2195,11 +2203,11 @@ III. Que se designen, en caso de ser prueba instrumental, los archivos públicos
 
 El Juez, al calificar la admisibilidad de las pruebas resolverá sobre el plazo extraordinario y determinará el monto de la cantidad que el promovente deposite como multa, en caso de no rendirse la prueba. Sin este depósito no surtirá efectos el plazo extraordinario concedido.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### Artículo 289.
 
-El litigante a quien se hubiere concedido plazo extraordinario y no rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del Juez, será condenado a pagar a su contraparte la indemnización por los daños y perjuicios causados, así como una multa de cincuenta a cien salarios mínimos.
+El litigante a quien se hubiere concedido plazo extraordinario y no rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del Juez, será condenado a pagar a su contraparte la indemnización por los daños y perjuicios causados, así como una multa de cincuenta a cien Unidades de Medida y Actualización Vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -2521,11 +2529,11 @@ El Juez señalará lugar, día y hora para que la diligencia se practique, si de
 
 En caso de que alguno de los peritos no rinda su dictamen, se entenderá que la parte que lo haya designado acepta aquél que rinda el perito de la contraria. Si los peritos de ambas partes no rindieren su dictamen, se declarará la deserción de la prueba.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### Artículo 342.
 
-El perito tercero en discordia que omitiere presentarse o no rinda su dictamen en los tiempos designados se sancionará con una multa de diez a cincuenta salarios mínimos generales y será responsable de los daños causados por su culpa. En el mismo acto el juez designará otro perito tercero en discordia.
+El perito tercero en discordia que omitiere presentarse o no rinda su dictamen en los tiempos designados se sancionará con una multa de diez a cincuenta Unidades de Medida y Actualización generales y será responsable de los daños causados por su culpa. En el mismo acto el juez designará otro perito tercero en discordia.
 
 ###### Artículo 343.
 
@@ -5047,11 +5055,11 @@ Se da el recurso de queja en contra de los Ejecutores y Secretarios por ante el 
 
 El recurso de queja contra el juez se interpondrá ante el superior inmediato dentro de los tres días que sigan al acto reclamado, haciéndolo saber dentro del mismo tiempo al juez contra quien va el recurso, acompañándole copia. El escrito relativo podrá enviarse al superior por conducto del mismo juez. Dentro del tercero día de que tenga conocimiento, el juez de los autos remitirá al superior informe con justificación. El superior, dentro de tercero día, decidirá lo que corresponda.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### Artículo 700.
 
-Si hubiere recurso ordinario contra la resolución reclamada, la queja será desechada; si no estuviere apoyada por hecho cierto o no esté fundada en derecho, será declarada improcedente, en ambos casos la Sala impondrá a la parte quejosa una multa que no exceda del importe de veinticinco salarios mínimos generales.
+Si hubiere recurso ordinario contra la resolución reclamada, la queja será desechada; si no estuviere apoyada por hecho cierto o no esté fundada en derecho, será declarada improcedente, en ambos casos la Sala impondrá a la parte quejosa una multa que no exceda del importe de veinticinco Unidades de Medida y Actualización generales.
 
 ###### Artículo 701.
 
@@ -5891,11 +5899,11 @@ Si no hubiere mayoría el juez nombrará partidor eligiéndolo entre los propues
 
 El cónyuge, aunque no tenga el carácter de heredero, será tenido como parte si entre los bienes hereditarios hubiere bienes de la sociedad conyugal.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### Artículo 844.
 
-El juez pondrá a disposición del partidor los autos y bajo inventario los papeles y documentos relativos al caudal para que proceda a la partición, señalándole un plazo que nunca excederá de treinta días para que presente el proyecto partitorio, bajo el apercibimiento de ser separado de plano de su encargo y de multa de cinco a diez salarios mínimos.
+El juez pondrá a disposición del partidor los autos y bajo inventario los papeles y documentos relativos al caudal para que proceda a la partición, señalándole un plazo que nunca excederá de treinta días para que presente el proyecto partitorio, bajo el apercibimiento de ser separado de plano de su encargo y de multa de cinco a diez Unidades de Medida y Actualización.
 
 ###### Artículo 845.
 
@@ -6547,11 +6555,11 @@ TITULO DECIMOSEXTO
 
 Del procedimiento en los negocios de la competencia de los alcaldes
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### Artículo 931.
 
-Los Alcaldes, en los negocios de su competencia, o sean aquellos cuyo interés no exceda del importe de 50 salarios mínimos generales diarios, vigente en la Zona Centro del Estado de Oaxaca, en el momento de presentación de la demanda, procederán con sujeción a las disposiciones especiales de este título, y en lo no previsto observarán las reglas generales y disposiciones de este Código para el juicio ordinario.
+Los Alcaldes, en los negocios de su competencia, o sean aquellos cuyo interés no exceda del importe de 50 Unidades de Medida y Actualización en el momento de presentación de la demanda, procederán con sujeción a las disposiciones especiales de este título, y en lo no previsto observarán las reglas generales y disposiciones de este Código para el juicio ordinario.
 
 ###### Artículo 932.
 
@@ -6815,11 +6823,11 @@ El Juez y las partes podrán interrogar a los testigos con relación a los hecho
 
 La audiencia se llevará a cabo dentro de los treinta días contados a partir del auto que ordene el traslado, en la inteligencia de que la demanda inicial deberá ser proveída dentro de un plazo de tres días.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### Artículo 970.
 
-Si por cualquier circunstancia la audiencia no pueda celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos, de manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al Actuario de Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir su dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada y el promovente de la prueba, de imponerle una multa hasta de cincuenta salarios mínimos en caso de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante, las partes en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+Si por cualquier circunstancia la audiencia no pueda celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos, de manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al Actuario de Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos, asimismo, para la audiencia respectiva, en la que deberán rendir su dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada y el promovente de la prueba, de imponerle una multa hasta de cincuenta Unidades de Medida y Actualización en caso de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante, las partes en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
@@ -7248,3 +7256,9 @@ P.O. 29 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1266.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca. Publíquese.
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1397.- MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 76, FRACCIÓN II DEL ARTÍCULO 77, LA FRACCIÓN I DEL ARTÍCULO 79, EL ARTÍCULO 106, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 158, EL ARTÍCULO 180, EL ARTÍCULO 255, EL ARTÍCULO 289, EL ARTÍCULO 342, EL ARTÍCULO 700, EL ARTÍCULO 844, EL ARTÍCULO 931 Y EL ARTÍCULO 970 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
