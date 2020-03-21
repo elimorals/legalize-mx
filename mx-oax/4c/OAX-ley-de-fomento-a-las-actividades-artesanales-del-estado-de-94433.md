@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2020-02-29"
+last_updated: "2020-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -113,15 +113,23 @@ II. Implementar políticas públicas eficientes para el desarrollo de las activi
 
 III. Impulsar y orientar la organización de los artesanos en diversas figuras asociativas como: personas físicas o morales, unidades de producción u organizaciones;
 
-IV. Orientar y fomentar la organización, producción, y distribución de artesanías;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
+
+IV. Orientar y fomentar la organización, producción y distribución para comercializar las artesanías.
 
 V. Orientar y fomentar la capacitación de las y los artesanos;
 
-VI. Fomentar la celebración de ferias, eventos, exposiciones y demás foros internacionales, nacionales, estatales, regionales y municipales, que tengan por objeto promocionar las obras artesanales oaxaqueñas;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
+
+VI. Fomentar la celebración de ferias, eventos, exposiciones y demás foros internacionales, nacionales, estatales, regionales y municipales, que tengan por objeto promocionar y fomentar la comercialización de las obras artesanales oaxaqueñas.
 
 VII. Difundir y promover todas aquellas actividades para el rescate, preservación, fomento y mejoramiento de las actividades artesanales en el Estado;
 
-VIII. Las demás que le confieran esta Ley u otros ordenamientos.
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2020)</small>
+
+VIII. Impulsar la investigación y la adopción de técnicas y metodologías relacionadas con la producción artesanal para el mejoramiento de dicha actividad; y
+
+IX. Las demás que le confieran esta Ley u otros ordenamientos.
 
 ### CAPÍTULO II. DEL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS
 
@@ -512,3 +520,9 @@ P.O. 29 DE FEBRERO DE 2020.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 Segundo. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1340.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV Y VI, SE ADICIONA LA FRACCIÓN VIII, RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 6 DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
