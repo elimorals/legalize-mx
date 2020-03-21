@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2020-02-15"
+last_updated: "2020-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA EL 15 DE FEBRERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -8943,11 +8941,11 @@ El servicio lo prestará el Estado directamente o por conducto de personas moral
 
 Cuando el servicio sea prestado por dependencias y entidades del Estado o de los Municipios, no será necesario el otorgamiento de permiso; sin embargo, su operación se sujetará a los mismos requisitos previstos en estas disposiciones.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 1637-C.
 
-La autoridad competente para el otorgamiento de permisos, establecimiento de tarifas respectivas, control e inspección es la Secretaría General de Gobierno, quien podrá auxiliarse para estos fines de la Secretaría de Hacienda, de la Fiscalía General del Estado y de las autoridades en materia de vialidad y/o tránsito.
+La autoridad competente para el otorgamiento de permisos, establecimiento de tarifas respectivas, control e inspección es la Secretaría de Desarrollo Urbano y Ecología, quien podrá auxiliarse para estos fines de la Secretaría de Hacienda, de la Fiscalía General del Estado y de las autoridades en materia de vialidad y/o tránsito.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
 
@@ -8967,11 +8965,11 @@ Además, deberá acreditarse la propiedad o legal posesión por un término igua
 
 De igual manera, el solicitante deberá presentar licencia de uso de suelo del inmueble expedido por la autoridad municipal correspondiente, y póliza de seguro debidamente liquidada que ampare los daños a los vehículos que ahí se depositarán.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 1637-F.
 
-Una vez verificado el cumplimiento de las exigencias previstas para el otorgamiento de permisos de esta naturaleza, la Secretaría General de Gobierno emitirá la autorización necesaria para la operación de depósitos vehiculares.
+Una vez verificado el cumplimiento de las exigencias previstas para el otorgamiento de permisos de esta naturaleza, la Secretaría de Desarrollo Urbano y Ecología, emitirá la autorización necesaria para la operación de depósitos vehiculares.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
 
@@ -8995,7 +8993,9 @@ Una misma persona moral no podrá ser titular de más de dos permisos. Queda pro
 
 Acordado el permiso, se señalará a la persona moral beneficiaria un término de treinta días para que otorgue una garantía a favor de la Secretaría de Hacienda que caucione los daños y perjuicios que pueda ocasionar en la prestación del servicio, así como el cumplimiento a las condiciones fijadas en el permiso para la prestación del servicio en cuanto a continuidad, regularidad, permanencia, seguridad e higiene del inmueble donde se prestará el servicio.
 
-La garantía, fijada discrecionalmente por la Secretaría General de Gobierno, podrá exhibirse en depósito ante la Secretaría de Hacienda, fianza de compañía aseguradora, prenda o hipoteca.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
+
+La garantía, fijada discrecionalmente por la Secretaría de Desarrollo Urbano y Ecología, podrá exhibirse en depósito ante la Secretaría de Hacienda, fianza de compañía aseguradora, prenda o hipoteca.
 
 La garantía deberá mantenerse vigente durante el tiempo de otorgamiento del permiso, al igual que la póliza de seguro. Para ello, de manera anual se deberá acreditar el cumplimiento de estas obligaciones.
 
@@ -9007,9 +9007,9 @@ Los permisionarios serán solidariamente responsables de los daños que ocasione
 
 La prestación del servicio de depósito vehicular se sujetará a una tarifa, entendiendo por esta, la contraprestación económica autorizada para el cobro por este servicio, a costa del interesado en su devolución, con la salvedad de los vehículos robados que hayan sido recuperados, cuyos propietarios sean personas físicas contarán con un período de gracia de diez días, contados a partir del día siguiente al de su notificación, que se les haya realizado en los términos del artículo 1673-r. Los días posteriores a dicho período se sujetarán al pago de la tarifa ordinaria.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
-La tarifa deberá ser revisada y actualizada anualmente por la Secretaría General de Gobierno y ser incluida en la Ley de Ingresos del Gobierno del Estado.
+La tarifa deberá ser revisada y actualizada anualmente por la Secretaría de Desarrollo Urbano y Ecología y ser incluida en la Ley de Ingresos del Gobierno del Estado.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
 
@@ -9029,13 +9029,17 @@ IV.- Conservar y devolver el vehículo en las mismas condiciones de su recepció
 
 V.- Entregar a la autoridad que presente el vehículo respectivo, la documentación que demuestre la recepción del mismo y que contenga la descripción pormenorizada de las condiciones en que se encuentra y la enumeración de los objetos que se encuentran en el interior;
 
-VI.- Implantar medidas de seguridad y vigilancia, contando además, con equipo de video que detalle la fecha y hora de la recepción del vehículo, así como la revisión detallada que se realice al bien al momento de recibirlo; debiendo entregar mensualmente a la Secretaría General de Gobierno el respaldo de las videograbaciones que hayan sido filmadas;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
+
+VI.- Implantar medidas de seguridad y vigilancia, contando además con equipo de video que detalle la fecha y hora de la recepción del vehículo, así como la revisión detallada que se realice al bien al momento de recibirlo; debiendo entregar mensualmente a la Secretaría de Desarrollo Urbano y Ecología el respaldo de las videograbaciones que hayan sido filmadas;
 
 VII.- Llevar un control detallado de todo vehículo que ingrese y que, en su caso, sea devuelto, o bien, de aquellos que mediante mandato de autoridad proceda a su remate, incluyendo aquellos sobre los cuales se encuentre fincado un crédito fiscal;
 
 VIII.- Respetar la tarifa establecida para la prestación del servicio;
 
-IX.- Responder ante la Secretaría General de Gobierno o ante cualquier autoridad estatal o municipal competente de las faltas en que incurran por sí mismos o por conducto de las personas de quienes se sirvan como empleados del inmueble donde opere el depósito vehicular;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
+
+IX. Responder ante la Secretaría de Desarrollo Urbano y Ecología o ante cualquier autoridad estatal o municipal competente, de las faltas en que incurran por sí mismos o por conducto de las personas de quienes se sirvan como empleados del inmueble donde opere el depósito vehicular;
 
 X.- Adquirir y mantener vigente póliza de seguro que ampare daños tanto a los vehículos que se depositarán en el inmueble, como a terceros, renovable cada dos años, acreditando por tanto, que sea ininterrumpida;
 
@@ -9139,11 +9143,11 @@ Para hacer entrega del vehículo objeto del servicio, el particular deberá reca
 
 En el momento de la entrega, deberá liquidarse el pago al permisionario por los servicios proporcionados.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 1637-Q.
 
-La Secretaría General de Gobierno, tendrá en todo momento la facultad de revisar y/o inspeccionar las instalaciones donde se preste el servicio de depósito vehicular.
+La Secretaría de Desarrollo Urbano y Ecología, tendrá en todo momento la facultad de revisar y/o inspeccionar las instalaciones donde se preste el servicio de depósito vehicular.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2018)</small>
 
@@ -10976,3 +10980,67 @@ En tanto se expide la Ley del Procedimiento Administrativo del Estado, se aplica
 Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
 
 Los procedimientos administrativos y demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/EXLEY/0708/2020 II P.O. LEY DE TRANSPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Las disposiciones aplicables respecto a las nuevas atribuciones otorgadas a la Secretaría de Desarrollo Urbano y Ecología en materia de transporte, así como el Artículo Segundo del presente Decreto, entrarán en vigor a los noventa días naturales posteriores al día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por virtud del presente Decreto se abroga la Ley de Transporte y sus Vías de Comunicación, publicada en el Periódico Oficial del Estado No. 9 del 29 de enero de 1994.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado expedirá las disposiciones reglamentarias de esta Ley en un plazo no mayor a noventa días naturales contados a partir del día siguiente en que entre en vigor el presente Decreto.
+
+Las disposiciones administrativas y reglamentarias expedidas en esta materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+###### ARTÍCULO CUARTO.
+
+Conforme a las disposiciones relativas a las facultades, funciones y obligaciones del Registro Estatal de Transporte, se deberá validar y expedir la papelería oficial de los asientos que obran en el Registro.
+
+###### ARTÍCULO QUINTO.
+
+Las Autorizaciones, Concesiones, Licencias y Permisos otorgados durante la vigencia de la Ley que se abroga, continuarán operando por el plazo que fueron otorgados, siempre y cuando se cumpla con los requisitos y las condiciones de organización y funcionamiento previstos en el presente Decreto.
+
+Para los efectos del párrafo anterior, las personas titulares de las autorizaciones, concesiones, licencias y permisos, en un plazo que no exceda de doce meses contados a partir de la entrada en vigor del presente Decreto, deberán adecuarse a las disposiciones de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los trámites para el otorgamiento de concesiones y permisos que se encuentren en proceso deberán concluirse con apego a la Ley que se abroga; sin embargo, habrá de procederse en los términos del artículo anterior.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las concesiones y permisos otorgados conforme a la Ley que se abroga, fenecerán al término señalado en su otorgamiento. Al concluir la vigencia de los mismos, el titular deberá adecuarse a los términos y condiciones de la presente Ley para su revalidación, siempre que esta sea procedente.
+
+###### ARTÍCULO OCTAVO.
+
+Las tarifas, en cuanto a su establecimiento y modificación, así como sus modalidades, se regularán de conformidad con la presente Ley a partir de la publicación de la misma.
+
+###### ARTÍCULO NOVENO.
+
+Las funciones, facultades, derechos y obligaciones relativos al transporte establecidos a cargo de la Secretaría General de Gobierno en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos serán asumidos por la Secretaría de Desarrollo Urbano y Ecología, considerando lo dispuesto en el presente Decreto, de conformidad con el segundo párrafo del Artículo Primero Transitorio.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría General de Gobierno, se entenderá citada la Secretaría de Desarrollo Urbano y Ecología, siempre que sea relativa a las atribuciones que se transfieren en virtud del presente Decreto, de conformidad con el segundo párrafo del Artículo Primero Transitorio.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Se transfieren a la Secretaría de Desarrollo Urbano y Ecología los bienes muebles, archivos, documentos y, en general, los recursos humanos, materiales y financieros en materia de transporte que formen parte de la Secretaría General de Gobierno. Para tales efectos, deberán realizarse los trámites para la entrega-recepción correspondiente, una vez concluido el plazo establecido en el segundo párrafo del Artículo Primero Transitorio.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Se faculta al Ejecutivo del Estado para realizar las transferencias y ajustes presupuestales necesarios para el funcionamiento y operación de las unidades administrativas que se reasignan por virtud del presente Decreto, de conformidad con el segundo párrafo del Artículo Primero Transitorio.
+
+ARTÍCULO DECIMOTERCERO.- El Ejecutivo del Estado deberá realizar las adecuaciones necesarias a los Reglamentos Interiores de las dependencias que modifican sus atribuciones en virtud del presente Decreto, de conformidad con el Artículo Primero Transitorio.
+
+ARTÍCULO DECIMOCUARTO.- El Ejecutivo del Estado, en el ejercicio de las atribuciones previstas en el presente Decreto, brindará asesoría y seguimiento con las personas mayores de sesenta años, para la constitución de personas morales dedicadas al transporte público.
+
+ARTÍCULO DECIMOQUINTO.- En tanto no se expida la Ley de Procedimiento Administrativo del Estado, se aplicarán en lo conducente el Código Administrativo y el Código de Procedimientos Civiles, ambos ordenamientos del Estado de Chihuahua.
