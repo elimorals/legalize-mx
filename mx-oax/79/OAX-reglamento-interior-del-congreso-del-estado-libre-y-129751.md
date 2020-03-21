@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2020-02-29"
+last_updated: "2020-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -1018,6 +1018,28 @@ c) Solicitar informes, para dar seguimiento a la ejecución del Sistema Estatal 
 d) Dar seguimiento a la ejecución del Sistema Estatal de Planeación, para que el Congreso del Estado cuente con información suficiente para emitir sus valoraciones en materias de aprobación de: las cuentas públicas, paquetes fiscales anuales, contratación de deuda pública, empréstitos y todo lo relacionado con el manejo y ejecución presupuestal.
 
 e) Solicitar información sobre los ingresos ordinarios, extraordinarios y todos aquellos de manejo presupuestado y libre disposición; así como de ejercicio discrecional, de los Poderes Ejecutivo y Judicial, Municipios u Órganos Autónomos, para medir su impacto en el Sistema Estatal de Planeación.
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2020)</small>
+
+XXXVI. Vigilancia de la Deuda Pública del Estado; le corresponde el conocimiento, estudio y dictaminación de los siguientes asuntos:
+
+a. Lo referente al marco jurídico local en la materia.
+
+b. Establecer los canales de comunicación con el Ejecutivo del Estado, para obtener información sobre la aplicación del recurso autorizado para el financiamiento y refinanciamiento de la Deuda Pública del Estado.
+
+c. Analizar y recomendar a los Poderes del Estado, Órganos Autónomos y entes públicos, las oportunidades de mejora en materia de gasto público, recursos de financiamiento, así como en los programas y proyectos relacionados con la ejecución de recursos derivados de la deuda pública.
+
+d. Conocer, analizar, evaluar e informar de manera periódica el ejercicio de los recursos derivados de la contratación de deuda pública, así como de los recursos de financiamiento, a fin de sugerir las oportunidades de mejora y garantizar la sustentabilidad de las finanzas públicas a corto, mediano y largo plazo.
+
+e. Observar y verificar que el destino del recurso autorizado atienda a los rubros de inversión pública productiva solicitados y que las afectaciones atiendan a las fuentes de pago autorizadas.
+
+f. Definir los parámetros que permitan evaluar la situación financiera del Estado relacionada con la deuda pública.
+
+g. Atestiguar la celebración de los financiamientos y/o de instrumentos derivados, operaciones de cobertura, la constitución y/o modificación de fideicomisos que realice el Ejecutivo del Estado en relación a los financiamientos aprobados por el Congreso.
+
+h. Promover y verificar que la ejecución de obra pública e infraestructura social se considere con preferencia a las empresas locales.
+
+i. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
 ###### ARTÍCULO 43.
 
@@ -2774,3 +2796,13 @@ SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca
 SEGUNDO (SIC).- La integración de la Comisión Permanente de Pueblos Indígenas y Afromexicano será la misma que tenía la Comisión de Asuntos Indígenas y Migración, previo a la entrada en vigor del presente Decreto.
 
 TERCERO.- Los asuntos turnados y lo demás atinente a la Comisión Permanente de Asuntos Indígenas y Migración se entenderán como materia de la Comisión Permanente de Pueblos Indígenas y Afromexicano.
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1395.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXV, y SE ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Congreso del Estado.
+
+TERCERO.- La Comisión Permanente de Vigilancia de la Deuda Pública del Estado estará integrada por los Diputados que designe el Pleno del Congreso, a propuesta de la Junta de Coordinación Política.
