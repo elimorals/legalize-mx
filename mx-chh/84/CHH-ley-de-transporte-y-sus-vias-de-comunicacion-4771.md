@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transporte-y-sus-vias-de-comunicacion-4771"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-29"
-last_updated: "2017-02-22"
+last_updated: "2020-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE TRANSPORTE Y SUS VIAS DE COMUNICACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPORTE DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 21 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPORTE Y SUS VÍAS DE COMUNICACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de enero de 1994.
 
@@ -51,7 +53,9 @@ EL SERVICIO LO PRESTARA EL ESTADO DIRECTAMENTE O A TRAVES DE LOS ORGANOS O ENTID
 
 SON VIAS DE COMUNICACION SUJETAS A ESTA LEY Y SUS REGLAMENTOS:
 
-I.- CAMINOS, AVENIDAS, CALZADAS, CALLES, PASEOS Y CARRETERAS PAVIMENTADAS O REVESTIDAS CON TERRACERIA, PARA TRANSITO DE VEHICULOS DE CUALQUIER CLASE, CON LAS EXCEPCIONES SIGUIENTES:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE MARZO DE 2020)</small>
+
+I. CAMINOS, AVENIDAS, CALZADAS, CALLES, PASEOS, PASOS DE FAUNA Y CARRETERAS PAVIMENTADAS O REVESTIDAS CON TERRACERIA, PARA TRANSITO DE VEHICULOS DE CUALQUIER CLASE, CON LAS EXCEPCIONES SIGUIENTES:
 
 A).- LOS CAMINOS CONSTRUIDOS EXCLUSIVAMENTE POR PARTICULARES DENTRO DE SUS PROPIEDADES QUE NO COMUNIQUEN ALGUN CENTRO DE POBLACION;
 
@@ -66,6 +70,12 @@ II.- LOS PUENTES YA CONSTRUIDOS O QUE SE CONSTRUYAN EN LOS CAMINOS A QUE SE REFI
 ###### ARTICULO 3.
 
 SON PARTE INTEGRANTE DE LAS VIAS DE COMUNICACION: LOS SERVICIOS AUXILIARES, OBRAS, CONSTRUCCIONES Y DEMAS ACCESORIOS, Y EL DERECHO DE VIA, ENTRE LOS CUALES SE ENCUENTRAN CARRILES EXCLUSIVOS, TERMINALES, PARADEROS Y ESTACIONES DESTINADOS AL ESTABLECIMIENTO Y MANTENIMIENTO DE LOS SERVICIOS Y OBRAS MENCIONADOS. EL EJECUTIVO FIJARA LA EXTENSION DE LOS TERRENOS NECESARIOS PARA TAL OBJETO.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+
+ARTICULO 3 BIS.- EN EL DISEÑO, CONSTRUCCION Y CONSERVACION DE LOS CAMINOS Y CARRETERAS SE INCLUIRAN LOS PASOS DE FAUNA.
+
+LA SECRETARIA DEBERA OBSERVAR POR LA PROTECCION Y CONSERVACION DE LOS ECOSISTEMAS EN EL DESARROLLO DE LOS CAMINOS A CARGO DEL ESTADO, ASI COMO EN EL ACONDICIONAMIENTO DE AQUELLOS EXISTENTES, CUANDO SUFRAN MODIFICACIONES.
 
 ###### ARTICULO 4.
 
@@ -1314,3 +1324,75 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0296/2019 I P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE Y SUS VÍAS DE COMUNICACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/EXLEY/0708/2020 II P.O. LEY DE TRANSPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Las disposiciones aplicables respecto a las nuevas atribuciones otorgadas a la Secretaría de Desarrollo Urbano y Ecología en materia de transporte, así como el Artículo Segundo del presente Decreto, entrarán en vigor a los noventa días naturales posteriores al día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por virtud del presente Decreto se abroga la Ley de Transporte y sus Vías de Comunicación, publicada en el Periódico Oficial del Estado No. 9 del 29 de enero de 1994.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado expedirá las disposiciones reglamentarias de esta Ley en un plazo no mayor a noventa días naturales contados a partir del día siguiente en que entre en vigor el presente Decreto.
+
+Las disposiciones administrativas y reglamentarias expedidas en esta materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+###### ARTÍCULO CUARTO.
+
+Conforme a las disposiciones relativas a las facultades, funciones y obligaciones del Registro Estatal de Transporte, se deberá validar y expedir la papelería oficial de los asientos que obran en el Registro.
+
+###### ARTÍCULO QUINTO.
+
+Las Autorizaciones, Concesiones, Licencias y Permisos otorgados durante la vigencia de la Ley que se abroga, continuarán operando por el plazo que fueron otorgados, siempre y cuando se cumpla con los requisitos y las condiciones de organización y funcionamiento previstos en el presente Decreto.
+
+Para los efectos del párrafo anterior, las personas titulares de las autorizaciones, concesiones, licencias y permisos, en un plazo que no exceda de doce meses contados a partir de la entrada en vigor del presente Decreto, deberán adecuarse a las disposiciones de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los trámites para el otorgamiento de concesiones y permisos que se encuentren en proceso deberán concluirse con apego a la Ley que se abroga; sin embargo, habrá de procederse en los términos del artículo anterior.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las concesiones y permisos otorgados conforme a la Ley que se abroga, fenecerán al término señalado en su otorgamiento. Al concluir la vigencia de los mismos, el titular deberá adecuarse a los términos y condiciones de la presente Ley para su revalidación, siempre que esta sea procedente.
+
+###### ARTÍCULO OCTAVO.
+
+Las tarifas, en cuanto a su establecimiento y modificación, así como sus modalidades, se regularán de conformidad con la presente Ley a partir de la publicación de la misma.
+
+###### ARTÍCULO NOVENO.
+
+Las funciones, facultades, derechos y obligaciones relativos al transporte establecidos a cargo de la Secretaría General de Gobierno en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos serán asumidos por la Secretaría de Desarrollo Urbano y Ecología, considerando lo dispuesto en el presente Decreto, de conformidad con el segundo párrafo del Artículo Primero Transitorio.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría General de Gobierno, se entenderá citada la Secretaría de Desarrollo Urbano y Ecología, siempre que sea relativa a las atribuciones que se transfieren en virtud del presente Decreto, de conformidad con el segundo párrafo del Artículo Primero Transitorio.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Se transfieren a la Secretaría de Desarrollo Urbano y Ecología los bienes muebles, archivos, documentos y, en general, los recursos humanos, materiales y financieros en materia de transporte que formen parte de la Secretaría General de Gobierno. Para tales efectos, deberán realizarse los trámites para la entrega-recepción correspondiente, una vez concluido el plazo establecido en el segundo párrafo del Artículo Primero Transitorio.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Se faculta al Ejecutivo del Estado para realizar las transferencias y ajustes presupuestales necesarios para el funcionamiento y operación de las unidades administrativas que se reasignan por virtud del presente Decreto, de conformidad con el segundo párrafo del Artículo Primero Transitorio.
+
+ARTÍCULO DECIMOTERCERO.- El Ejecutivo del Estado deberá realizar las adecuaciones necesarias a los Reglamentos Interiores de las dependencias que modifican sus atribuciones en virtud del presente Decreto, de conformidad con el Artículo Primero Transitorio.
+
+ARTÍCULO DECIMOCUARTO.- El Ejecutivo del Estado, en el ejercicio de las atribuciones previstas en el presente Decreto, brindará asesoría y seguimiento con las personas mayores de sesenta años, para la constitución de personas morales dedicadas al transporte público.
+
+ARTÍCULO DECIMOQUINTO.- En tanto no se expida la Ley de Procedimiento Administrativo del Estado, se aplicarán en lo conducente el Código Administrativo y el Código de Procedimientos Civiles, ambos ordenamientos del Estado de Chihuahua.
