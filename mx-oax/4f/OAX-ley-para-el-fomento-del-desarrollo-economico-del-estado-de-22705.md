@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-del-desarrollo-economico-del-estado-de-2270
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-06"
-last_updated: "2020-02-29"
+last_updated: "2020-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de octubre del 2001.
 
@@ -71,6 +71,10 @@ IX.- Alentar la competitividad, modernización y eficiencia de las empresas por 
 
 X.- Generar una política de facilitación a través de la creación de una ventanilla única en los términos establecidos por la Ley de Coordinación Estatal de la (sic) Zonas Económicas Especiales.
 
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2020)</small>
+
+XI.- Fomentar, proteger e incentivar las industrias creativas.
+
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
 
 Se entenderá por Ventanilla Única y Zona Económica Especial lo establecido por la Ley Federal de Zonas Económicas y la Ley de Coordinación Estatal de las Zonas Económicas Especiales.
@@ -108,6 +112,10 @@ XI.- Conjunto industrial: Conglomeración de pequeñas o medianas empresas en un
 XII.- Parque industrial y de servicios: Superficie de terreno de propiedad pública o privada destinada al establecimiento de industrias y empresas de servicios, dividida en lotes para su venta y que cuenta con servicios de infraestructura urbana e industrial; y
 
 XIII.- Corredor industrial: Demarcación territorial que para el aprovechamiento de la infraestructura y recursos naturales y artificiales de cierta región se determine en forma lineal, haciendo uso de los servicios que el gobierno establezca al efecto.
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2020)</small>
+
+XIV.- Economía creativa: Conjunto de actividades que de manera encadenada permiten que las ideas se transformen en bienes y servicios culturales, cuyo valor está determinado por su contenido de propiedad intelectual.
 
 ### CAPITULO II. DE LOS ORGANOS COMPETENTES EN LA APLICACION DE LA LEY
 
@@ -184,6 +192,10 @@ j).- Artesanal;
 k).- De servicios; y
 
 l).- De la construcción.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+
+m) Industrias creativas.
 
 II.- Programas especiales: Son aquellos que están orientados a materias y a grupos sociales que requieren de apoyos específicos, entre otros serán:
 
@@ -277,7 +289,11 @@ VIII.- La organización de centros de acopio para mejorar el abasto y distribuci
 
 IX.- El aprovechamiento integral de los recursos naturales del Estado; y
 
-X.- Las demás actividades afines a las anteriores que se deriven de los objetivos y metas del Plan Estatal de Desarrollo.
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2020)</small>
+
+X.- La protección y fomento de las industrias creativas con especial atención a jóvenes emprendedores;
+
+X (SIC).- Las demás actividades afines a las anteriores que se deriven de los objetivos y metas del Plan Estatal de Desarrollo.
 
 ###### ARTICULO 16.
 
@@ -512,3 +528,9 @@ P.O. 29 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1341.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1° DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA”.]
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1200.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XI AL ARTÍCULO 1°, XIV ARTÍCULO 2°, EL INCISO M) A LA FRACCIÓN I DEL ARTICULO 9°, Y LA FRACCIÓN X AL ARTÍCULO 15 DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
