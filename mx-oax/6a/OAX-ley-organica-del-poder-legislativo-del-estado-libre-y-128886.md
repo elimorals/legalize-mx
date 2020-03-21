@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2020-02-29"
+last_updated: "2020-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -929,9 +929,13 @@ XXXIII. Corredor Interoceánico y Programas de Desarrollo Regional.
 
 XXXIV. Migración y Asuntos Internacionales.
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
 
-XXXV. Vigilancia y Seguimiento del Sistema Estatal de Planeación.
+XXXV. Vigilancia y Seguimiento del Sistema Estatal de Planeación; y
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2020)</small>
+
+XXXVI. Vigilancia de la Deuda Pública del Estado.
 
 Dichas Comisiones tendrán la competencia que les corresponde en lo general a las otorgadas a las Dependencias y Entidades de la Administración Pública local, la derivada de su denominación en materia parlamentaria y las que se determinen específicamente en el Reglamento.
 
@@ -1444,3 +1448,13 @@ SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca
 SEGUNDO (SIC).- La integración de la Comisión Permanente de Pueblos Indígenas y Afromexicano será la misma que tenía la Comisión de Asuntos Indígenas y Migración, previo a la entrada en vigor del presente Decreto.
 
 TERCERO.- Los asuntos turnados y lo demás atinente a la Comisión Permanente de Asuntos Indígenas y Migración se entenderán como materia de la Comisión Permanente de Pueblos Indígenas y Afromexicano.
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1395.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXV, Y SE ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Congreso del Estado.
+
+TERCERO.- La Comisión Permanente de Vigilancia de la Deuda Pública del Estado estará integrada por los Diputados que designe el Pleno del Congreso, a propuesta de la Junta de Coordinación Política.
