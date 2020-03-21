@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2020-02-29"
+last_updated: "2020-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1321,9 +1321,9 @@ El Poder Público del Estado se divide, para el ejercicio de sus funciones en Le
 
 El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado por diputadas y diputados que serán electos cada tres años por los ciudadanos oaxaqueños, mediante sufragio universal, libre, secreto y directo; por cada diputada o diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
-El Poder Legislativo administrará con autonomía su presupuesto.
+El Poder Legislativo administrará con autonomía y austeridad su presupuesto, atendiendo la obligatoriedad de la rendición de cuentas y los principios establecidos en el artículo 137 de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -5552,3 +5552,11 @@ P.O. 29 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1400.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO AL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado; y entrará en vigor al día siguiente de su publicación.
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1406.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 31 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas de igual o menor rango que se opongan al presente Decreto.
