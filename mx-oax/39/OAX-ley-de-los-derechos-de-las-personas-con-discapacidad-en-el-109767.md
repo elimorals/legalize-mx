@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2019-09-07"
+last_updated: "2020-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO ORDENADO POR LA SOBERANÍA CONSTITUCIONAL EN EL DECRETO NÚM. 1268 Y DE ACUERDO CON LOS ARTÍCULOS 79, FRACCIÓN II Y 53 FRACCIÓN VI, PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LA PARTE VETADA, POR LO QUE OBEDECIENDO AL MANDATO CONSTITUCIONAL, TENGO A BIEN PUBLICAR LAS PARTES VETADAS, DEL CITADO DECRETO POR EL QUE SE CREA LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA, EN CONSECUENCIA SE PUBLICA EL CITADO DECRETO EN EL P.O. 26 DE AGOSTO DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -72,6 +72,26 @@ Ayudas Técnicas: Cualquier dispositivo y/o materiales que permiten habilitar, r
 Comunicación: Se entenderá el lenguaje escrito, oral, Lengua de Señas Mexicana, visualización de textos, sistema Braille, comunicación táctil, macrotipos, dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso.
 
 Convención: Convención sobre los Derechos de las Personas con Discapacidad.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+
+Discapacidad Física: Es la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+
+Discapacidad intelectual o Psicosocial: Se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+
+Discapacidad Mental: A la alteración o deficiencia en el sistema neuronal de una persona, que aunado a una sucesión de hechos que no puede manejar, detona un cambio en su comportamiento que dificulta su pleno desarrollo y convivencia social.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+
+Discapacidad Psicomotriz o Psicomotora: Es la condición de vida que afecta el control y movimiento del cuerpo, generando alteraciones en el desplazamiento, equilibrio, manipulación, habla y respiración de las personas que la padecen, limitando su desarrollo personal y social.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+
+Discapacidad Sensorial: Es la deficiencia estructural o funcional de los órganos de la visión, audición, tacto, olfato y gusto, así como de las estructuras y funciones asociadas a cada uno de ellos.
 
 Discriminación por motivos de discapacidad: Es cualquier distinción, exclusión o restricción que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, de las personas con discapacidad en igualdad de condiciones, de los derechos humanos y libertades fundamentales. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables.
 
@@ -173,9 +193,17 @@ j) La justicia social;
 
 k) El enfoque diferencial;
 
-l) La equidad; y
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
 
-m) El respeto por la diferencia y la aceptación de la discapacidad como parte de la diversidad y la condición humanas.
+l) La equidad;
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2020)</small>
+
+m) El respeto por la diferencia y la aceptación de la discapacidad como parte de la diversidad y la condición humana; y
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2020)</small>
+
+n) El Pro Persona.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES GENÉRICAS DE LAS AUTORIDADES
 
@@ -263,11 +291,15 @@ Los poderes Ejecutivo y Judicial garantizarán que las instancias de seguridad p
 
 Las personas con discapacidad tienen derecho a la libertad de expresión y opinión; incluida la libertad de recabar, recibir y difundir información e ideas mediante cualquier forma de comunicación que les facilite una participación e inclusión en igualdad de condiciones que las demás personas. Para tales efectos, las autoridades estatales y municipales establecerán entre otras, las siguientes medidas:
 
-I. Facilitar el acceso a los nuevos sistemas, tecnologías de la información y comunicaciones, incluido Internet, así como a la información dirigida al público en general, de manera oportuna y sin costo adicional, a través de formatos accesibles y tecnologías adecuadas a los diferentes tipos de discapacidad y edad.
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
+
+I. Facilitar el acceso a los nuevos sistemas, tecnologías de la información y comunicaciones, incluido Internet, así como a la información dirigida al público en general, de manera oportuna y sin costo adicional, a través de formatos accesibles que deberán proporcionar las dependencias y tecnologías adecuadas a los diferentes tipos de discapacidad y edad, para la difusión de información dirigida al público.
 
 II. Promover la utilización de la Lengua de Señas Mexicana, el Sistema Braille, y otros modos, medios y formatos aumentativos y alternativos de comunicación;
 
-III. Proporcionar información y asesoría de servicios y programas sociales destinados al desarrollo e inclusión social en materia de discapacidad.
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
+
+III. Proporcionar información y asesoría de servicios y programas sociales y las instancias que los otorguen, destinados al desarrollo e inclusión social en materia de discapacidad.
 
 ### CAPÍTULO IV. DERECHO A LA EDUCACIÓN
 
@@ -753,7 +785,9 @@ La información estadística se sujetará a las disposiciones contenidas en la L
 
 Los datos deberán ser desagregados de la siguiente manera:
 
-I. Tipo de discapacidad;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
+
+I. Tipo de discapacidad: física, intelectual o psicosocial, mental, psicomotriz o psicomotora y sensorial;
 
 II. Sexo;
 
@@ -846,3 +880,9 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1269.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I Y III DEL ARTÍCULO 16, LA FRACCIÓN I DEL ARTÍCULO 55; SE ADICIONAN LOS PÁRRAFOS NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO SEGUNDO Y DÉCIMO TERCERO, RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 2; SE REFORMAN LOS INCISOS L) Y M) Y SE ADICIONA EL INCISO N) AL ARTÍCULO 6; TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
