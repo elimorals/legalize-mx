@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2020-03-04"
+last_updated: "2020-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0513/2019 I P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA EL CUATRO DE MARZO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -483,17 +481,15 @@ XVI.- Ejercer las funciones que la ley determina en materia de cultos, iglesias,
 
 XVII.- En los términos de la Ley respectiva, expedir las licencias definitivas a los negocios donde se expendan, distribuyan o consuman bebidas alcohólicas, y vigilar la correcta aplicación de las disposiciones en esta materia;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
 
-XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Gobernación, Registral de la Propiedad y Notariado, Registral Civil, y Transporte, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores y de acuerdo con los ordenamientos legales aplicables;
+XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Gobernación, Registral de la Propiedad y Notariado, Registral Civil, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores y de acuerdo con los ordenamientos legales aplicables.
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 XIX. Ejercer y garantizar la seguridad de las carreteras dependientes del Estado y los caminos y demás vías de comunicación de competencia estatal;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-XX. Aprobar las tarifas de transporte público y tramitar las solicitudes para el otorgamiento de concesiones o permisos de servicio público de transporte de personas, de carga o mixto, en las carreteras y demás vías de comunicación de competencia estatal;
+XX. (DEROGADA, P.O. 21 DE MARZO DE 2020)
 
 XXI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
@@ -1083,9 +1079,17 @@ a. En apoyo al fortalecimiento técnico, financiero y fiscal de los municipios, 
 
 b. Integrar y mantener actualizado el catastro estatal, con los datos que proporcionen los municipios y aquellos que obtenga el propio Estado, tales como la información geográfica y la cartografía básica y, en general, ejercer las atribuciones que al Gobierno del Estado correspondan de conformidad con la Ley de Catastro.
 
-IV. Dirigir y vigilar el cumplimiento de las leyes y reglamentos con relación a las funciones de desarrollo urbano, ecología, catastro y ordenamiento territorial, así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
 
-V. Las demás que le atribuyan expresamente otras leyes y sus reglamentos.
+IV. Dirigir y vigilar el cumplimiento de las leyes y reglamentos con relación a las funciones de transporte, desarrollo urbano, ecología, catastro y ordenamiento territorial, así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2020)</small>
+
+V. Aprobar las tarifas de transporte y tramitar las solicitudes para el otorgamiento de concesiones, permisos, autorizaciones o registros, y demás actos jurídicos y administrativos en materia de transporte y vías de comunicación de competencia estatal, de conformidad con la ley en la materia.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE MARZO DE 2020)</small>
+
+VI. Las demás que le atribuyan expresamente otras leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -3082,3 +3086,67 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 En cumplimiento del Principio de Progresividad que impera en materia de Derechos Humanos, anualmente se incorporarán en los Presupuestos de Egresos para los ejercicios fiscales subsecuentes, las partidas económicas que permitan la mejora continua del Centro de Personas Traductoras e Intérpretes, hasta lograr su consolidación.
+
+P.O. 21 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/EXLEY/0708/2020 II P.O. LEY DE TRANSPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Las disposiciones aplicables respecto a las nuevas atribuciones otorgadas a la Secretaría de Desarrollo Urbano y Ecología en materia de transporte, así como el Artículo Segundo del presente Decreto, entrarán en vigor a los noventa días naturales posteriores al día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por virtud del presente Decreto se abroga la Ley de Transporte y sus Vías de Comunicación, publicada en el Periódico Oficial del Estado No. 9 del 29 de enero de 1994.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado expedirá las disposiciones reglamentarias de esta Ley en un plazo no mayor a noventa días naturales contados a partir del día siguiente en que entre en vigor el presente Decreto.
+
+Las disposiciones administrativas y reglamentarias expedidas en esta materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+###### ARTÍCULO CUARTO.
+
+Conforme a las disposiciones relativas a las facultades, funciones y obligaciones del Registro Estatal de Transporte, se deberá validar y expedir la papelería oficial de los asientos que obran en el Registro.
+
+###### ARTÍCULO QUINTO.
+
+Las Autorizaciones, Concesiones, Licencias y Permisos otorgados durante la vigencia de la Ley que se abroga, continuarán operando por el plazo que fueron otorgados, siempre y cuando se cumpla con los requisitos y las condiciones de organización y funcionamiento previstos en el presente Decreto.
+
+Para los efectos del párrafo anterior, las personas titulares de las autorizaciones, concesiones, licencias y permisos, en un plazo que no exceda de doce meses contados a partir de la entrada en vigor del presente Decreto, deberán adecuarse a las disposiciones de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los trámites para el otorgamiento de concesiones y permisos que se encuentren en proceso deberán concluirse con apego a la Ley que se abroga; sin embargo, habrá de procederse en los términos del artículo anterior.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las concesiones y permisos otorgados conforme a la Ley que se abroga, fenecerán al término señalado en su otorgamiento. Al concluir la vigencia de los mismos, el titular deberá adecuarse a los términos y condiciones de la presente Ley para su revalidación, siempre que esta sea procedente.
+
+###### ARTÍCULO OCTAVO.
+
+Las tarifas, en cuanto a su establecimiento y modificación, así como sus modalidades, se regularán de conformidad con la presente Ley a partir de la publicación de la misma.
+
+###### ARTÍCULO NOVENO.
+
+Las funciones, facultades, derechos y obligaciones relativos al transporte establecidos a cargo de la Secretaría General de Gobierno en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos serán asumidos por la Secretaría de Desarrollo Urbano y Ecología, considerando lo dispuesto en el presente Decreto, de conformidad con el segundo párrafo del Artículo Primero Transitorio.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría General de Gobierno, se entenderá citada la Secretaría de Desarrollo Urbano y Ecología, siempre que sea relativa a las atribuciones que se transfieren en virtud del presente Decreto, de conformidad con el segundo párrafo del Artículo Primero Transitorio.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Se transfieren a la Secretaría de Desarrollo Urbano y Ecología los bienes muebles, archivos, documentos y, en general, los recursos humanos, materiales y financieros en materia de transporte que formen parte de la Secretaría General de Gobierno. Para tales efectos, deberán realizarse los trámites para la entrega-recepción correspondiente, una vez concluido el plazo establecido en el segundo párrafo del Artículo Primero Transitorio.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Se faculta al Ejecutivo del Estado para realizar las transferencias y ajustes presupuestales necesarios para el funcionamiento y operación de las unidades administrativas que se reasignan por virtud del presente Decreto, de conformidad con el segundo párrafo del Artículo Primero Transitorio.
+
+ARTÍCULO DECIMOTERCERO.- El Ejecutivo del Estado deberá realizar las adecuaciones necesarias a los Reglamentos Interiores de las dependencias que modifican sus atribuciones en virtud del presente Decreto, de conformidad con el Artículo Primero Transitorio.
+
+ARTÍCULO DECIMOCUARTO.- El Ejecutivo del Estado, en el ejercicio de las atribuciones previstas en el presente Decreto, brindará asesoría y seguimiento con las personas mayores de sesenta años, para la constitución de personas morales dedicadas al transporte público.
+
+ARTÍCULO DECIMOQUINTO.- En tanto no se expida la Ley de Procedimiento Administrativo del Estado, se aplicarán en lo conducente el Código Administrativo y el Código de Procedimientos Civiles, ambos ordenamientos del Estado de Chihuahua.
