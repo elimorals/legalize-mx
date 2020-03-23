@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2019-04-29"
+last_updated: "2020-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MARZO DE 2020 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -495,9 +497,9 @@ VIII.- Generación, conservación y capacitación para el trabajo y el increment
 
 En materia de alimentación, el Gobierno del Estado establecerá programas que permitan complementar la dieta y la economía familiar de la población que no llegue a cubrir las necesidades básicas de alimentación, a través de la dotación de un paquete de alimentos integrado por insumos básicos de contenido nutricional que permita disminuir su condición de vulnerabilidad.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
 
-En materia de fortalecimiento a la educación, habrá en forma permanente un programa gratuito de entrega de útiles escolares para cada ciclo escolar, a los alumnos de escuelas públicas de los niveles de educación preescolar, primaria y secundaria, de conformidad con la lista oficial emitida por la Autoridad Educativa competente.
+En materia de fortalecimiento a la educación, habrá en forma permanente un programa gratuito de entrega de útiles escolares para cada ciclo escolar, a los alumnos de escuelas públicas de educación básica de conformidad con la lista oficial emitida por la Autoridad Educativa competente.
 
 ###### Artículo 24.
 
@@ -1192,3 +1194,9 @@ P.O. 29 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 181.- QUE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 3; LAS FRACCIONES VI, VII Y VIII DEL ARTÍCULO 9; LAS FRACCIONES XV Y XVI DEL ARTÍCULO 14; LA FRACCIÓN III DEL ARTÍCULO 15; LA FRACCIÓN I DEL ARTÍCULO 19; LA FRACCIÓN III DEL ARTÍCULO 70; Y ARTÍCULO 72; Y SE ADICIONA LA FRACCIÓN XV BIS AL ARTÍCULO 3; LA FRACCIÓN XVII DEL ARTÍCULO 14; LA FRACCIÓN IV DEL ARTÍCULO 15 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO.”]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 390 QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 6 DE LA LEY DE EDUCACIÓN Y EL PÁRRAFO TERCERO DEL ARTÍCULO 23 DE LA LEY DE DESARROLLO SOCIAL, AMBAS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
