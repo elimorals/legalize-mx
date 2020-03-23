@@ -4,7 +4,7 @@ identifier: "HID-ley-de-becas-del-estado-de-hidalgo-93961"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-22"
-last_updated: "2013-04-22"
+last_updated: "2020-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE BECAS DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MARZO DE 2020 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE BECAS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de abril de 2013.
 
@@ -65,13 +67,17 @@ Se expide La Ley de Becas del Estado de Hidalgo, para quedar como sigue:
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley tiene por objeto fortalecer, difundir, promover, transparentar y regular el otorgamiento de becas económicas o de exención dirigidas a escuelas públicas de educación primaria, secundaria y normal, así como de las escuelas particulares de inicial, preescolar, primaria, secundaria y normales, con autorización y reconocimiento de validez oficial de estudios en el Estado de Hidalgo.
+La presente Ley tiene por objeto fortalecer, difundir, promover, transparentar y regular el otorgamiento de becas económicas o de exención dirigidas a escuelas públicas de educación primaria, secundaria y normal, así como de las escuelas particulares de inicial, preescolar, primaria, secundaria, normales con autorización, media superior y superior con reconocimiento de validez oficial de estudios otorgado por el Estado de Hidalgo.
 
 Las disposiciones contenidas en esta Ley son de orden público e interés social y de observancia general en todo el territorio del Estado de Hidalgo.
 
-Todos las y los alumnos de las escuelas públicas de educación primaria, secundaria y normal, así como de las escuelas particulares de inicial, preescolar, primaria, secundaria y normales, con autorización y reconocimiento de validez oficial de estudios en el Estado de Hidalgo, tendrán derecho a recibir las becas descritas en esta Ley, previo cumplimiento de los requisitos que para tal efecto se establezcan.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
+
+Todas las y los alumnos de las escuelas públicas de educación primaria, secundaria y normal, así como de las escuelas particulares de inicial, preescolar, primaria, secundaria, normales con autorización, media superior y superior con reconocimiento de validez oficial de estudios otorgado por el Estado de Hidalgo, tendrán derecho a recibir las becas descritas en esta Ley, previo cumplimiento de los requisitos que para tal efecto se establezcan.
 
 ###### ARTÍCULO 2.
 
@@ -85,11 +91,21 @@ I.- Homogeneizar los lineamientos, criterios y procedimientos para la tramitaci�
 
 II.- Organizar y regular el funcionamiento del Comité de Becas del Estado de Hidalgo;
 
-III.- Apoyar la constancia, así como el esfuerzo de las y los estudiantes más destacados y talentosos, así como a las y los de escasos recursos económicos, con la finalidad de prevenir la deserción escolar;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
 
-IV.- Fomentar entre las y los estudiantes en general, una cultura de dedicación y superación que contribuya a su permanencia en la escuela y a mejorar su aprovechamiento escolar; y
+III.- Apoyar a las y los estudiantes más destacados y talentosos, así como a las y los estudiantes de escasos recursos económicos, con discapacidad, indígenas o hijos de migrantes para que puedan iniciar, continuar o concluir sus estudios en el nivel que les corresponda y prevenir la deserción escolar;
 
-V.- Difundir la oferta de becas que otorga la Secretaría.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+IV.- Fomentar entre las y los estudiantes en general, una cultura de dedicación y superación que contribuya a su permanencia en la escuela y a mejorar su aprovechamiento escolar;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+V.- Difundir la oferta de becas que otorga la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2020)</small>
+
+VI.- Contribuir a la equidad educativa en el Estado, mediante la ampliación de oportunidades de acceso y permanencia dentro del sistema educativo estatal.
 
 ###### ARTÍCULO 4.
 
@@ -97,13 +113,17 @@ Para los efectos de esta Ley, se entiende por:
 
 Secretaría: La Secretaría de Educación Pública del Estado de Hidalgo.
 
-Comité: El Comité de Becas del Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
+
+Comité: A cada uno de los Comités de Becas del Estado de Hidalgo.
 
 Ley: Ley de Becas del Estado de Hidalgo.
 
 Beca: Apoyo económico o exención del pago total o parcial de inscripción y/o colegiatura.
 
-Alumna ó alumno: Persona que se encuentre cursando sus estudios en algún centro educativo del Estado de Hidalgo, de educación primaria, secundaria y normal oficiales, así como de las escuelas particulares de inicial, preescolar, primaria, secundaria y normales.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
+
+Alumna o alumno: Persona que se encuentre cursando sus estudios en algún centro educativo del Estado, de educación primaria, secundaria y normales oficiales, así como de las escuelas particulares de inicial, preescolar, primaria, secundaria, normales con autorización, media superior ysuperior (sic) con reconocimiento de validez oficial de estudios otorgado por el Estado de Hidalgo.
 
 Becario: La o el alumno beneficiada con alguna beca aprobada por el Comité.
 
@@ -111,13 +131,19 @@ Reglamento: El Reglamento de la Ley de Becas del Estado de Hidalgo.
 
 Registro: El Registro Estatal de Becas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 5.
 
-El otorgamiento de becas se realizará conforme a los principios rectores de imparcialidad, objetividad, equidad, justicia, certeza, gratuidad, transparencia y rendición de cuentas.
+El otorgamiento de becas se realizará conforme a los principios rectores de imparcialidad, objetividad, equidad educativa, igualdad de género, justicia, certeza, gratuidad, transparencia y rendición de cuentas.
 
 Las becas que se otorgan por instituciones educativas públicas y que implican recursos financieros, se ajustarán al presupuesto destinado para este rubro a la Secretaría, en el caso de las escuelas particulares, se otorgará como mínimo el 5 por ciento de la matricula de alumnos inscritos, de conformidad al acuerdo de incorporación correspondiente.
 
 Todas las becas enunciadas en esta Ley, necesariamente deberán cubrir el trámite establecido en el presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2020)</small>
+
+La asignación de becas se llevará acabo de conformidad con los criterios y procedimientos que establecen la presente ley y su otorgamiento no podrá condicionarse a la aceptación de ningún crédito o gravamen a cargo del becario.
 
 ###### ARTÍCULO 6.
 
@@ -167,33 +193,73 @@ XIV.- Celebrar convenios con instituciones públicas o privadas, sean estatales,
 
 XV.- Integrar y actualizar el Registro Estatal de Becas;
 
-XVI.- Realizar las acciones pertinentes para dar cumplimiento a lo establecido en la Ley de Transparencia y Acceso a la Información Pública Gubernamental del Estado de Hidalgo; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
 
-XVII.- Las demás que las leyes en la materia y Reglamento prevea.
+XVI.- Realizar las acciones pertinentes para dar cumplimiento a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2020)</small>
+
+XVII.- Constituir grupos técnicos de carácter operativo para el desarrollo de procesos que permitan el cumplimiento de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MARZO DE 2020)</small>
+
+XVIII.- Las demás que las leyes en la materia y su reglamento prevean.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 9.
 
-El Comité se integra por:
+El Comité de Educación de Tipo Básico se integra por:
 
-I.- Presidente: Secretario de Educación Pública de Hidalgo;
+I.- Presidente: La persona titular de la Secretaría de Educación Pública de Hidalgo;
 
-II.- Secretario Técnico: Subsecretario de Planeación y Evaluación Sectorial de Políticas Educativas de la Secretaría;
+II.- Secretario Técnico: La persona titular de la Subsecretaria de Planeación y Evaluación de la Secretaría;
 
-III.- Secretario Ejecutivo: Subsecretario de Administración y Finanzas de la Secretaría;
+III.- Secretario Ejecutivo: La persona titular de la Subsecretaria de Administración y Finanzas de la Secretaría;
 
-IV.- Vocal: Subsecretario de Educación Básica de la Secretaría;
+IV.- Vocal: La persona titular de la Subsecretaria de Educación Básica de la Secretaría;
 
-V.- Vocal: Un representante de la Secretaría de Finanzas del Gobierno del Estado;
+V.- Vocal: Un representante de la Secretaría de Finanzas Públicas del Gobierno del Estado;
 
-VI.- Vocal: Un representante de la Contraloría y Transparencia Gubernamental; y
+VI.- Vocal: Un representante de la Secretaría Ejecutiva de la Política Pública del Gobierno del Estado;
 
-VII.- Vocal: El presidente de la Asociación Estatal de Padres de Familia del Estado de Hidalgo.
+VII.- Vocal: Un representante de la Unidad de Planeación y Prospectiva del Gobierno del Estado;
 
-Por cada propietario deberá nombrarse un suplente quien será designado en cada caso particular, asimismo, el Comité podrá contar con los asesores que considere de conformidad al Reglamento de la presente Ley, todos los cargos serán de manera honorífica.
+VIII.- Vocal: La persona titular de la Asociación Estatal de Padres de Familia del Estado de Hidalgo.
+
+A las sesiones del Comité, se invitará a un representante de la Secretaría de la Contraloría del Gobierno del Estado, quien tendrá derecho a voz, pero sin voto.
+
+Por cada propietario deberá nombrarse un suplente quien será designado en cada caso particular; asimismo, el Comité podrá contar con los asesores que considere de conformidad al (sic) Reglamento de la presente Ley; todos los cargos serán honoríficos.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2020)</small>
+
+ARTÍCULO 9 BIS.- El Comité de Educación de los Tipos de Media Superior y Superior se integra por:
+
+I. Presidente: La persona titular de la Secretaría de Educación Pública de Hidalgo;
+
+II. Secretario Técnico: La persona titular de la Subsecretaria de Planeación y Evaluación de la Secretaría;
+
+III. Secretario Ejecutivo: La persona titular de la Subsecretaria de Administración y Finanzas de la Secretaría;
+
+IV. Vocal: La persona titular de la Subsecretaria de Educación Media Superior y Superior de la Secretaría;
+
+V. Vocal: Un representante de la Secretaría de Finanzas Públicas del Gobierno del Estado;
+
+VI.- Vocal: Un representante de la Secretaría Ejecutiva de la Política Pública del Gobierno del Estado;
+
+VII.- Vocal: Un representante de la Unidad de Planeación y Prospectiva del Gobierno del Estado;
+
+VIII.- Vocal: Un representante del Sector Productivo o Social y de agrupaciones o asociaciones que representen al sector educativo, a invitación de la persona titular de la Secretaría.
+
+A las sesiones del Comité se invitará a un representante de la Secretaría de la Contraloría del Gobierno del Estado, quien tendrá derecho a voz, pero sin voto.
+
+Por cada propietario deberá nombrarse un suplente quien será designado en cada caso particular; asimismo, el Comité podrá contar con los asesores que considere de conformidad al Reglamento de la presente Ley; todos los cargos serán de manera honorífica.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 10.
 
-Las facultades y obligaciones de los integrantes del Comité, serán las que establece el Reglamento de la presente Ley.
+Las facultades y obligaciones de los integrantes de cada Comité, así como su operatividad, serán las que establece el Reglamento de la presente Ley.
 
 ### CAPÍTULO II
 
@@ -217,11 +283,21 @@ DE LAS BECAS AL ESTUDIO.
 
 Tipos de becas:
 
-I.- Económica.- Es la beca en dinero, dirigida a alumnos inscritos en instituciones públicas de educación primaria, secundaria y normal en la entidad y que acrediten la necesidad del beneficio por sus condiciones socioeconómicas.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
 
-II.- Excelencia.- Es la beca en dinero, dirigida a alumnos inscritos en instituciones públicas de educación primaria, secundaria y normal en la Entidad y que acrediten su alto nivel de aprovechamiento.
+I.- Económica.- Es la beca en dinero, dirigida a alumnas y alumnos inscritos en instituciones públicas de educación primaria, secundaria y normal, en la entidad,-que (sic) acrediten la necesidad del beneficio por sus condiciones socioeconómicas.
 
-III.- Exención.- Es la beca en especie, dirigida a los estudiantes de educación inicial, preescolar, primaria, secundaria y normal de escuelas particulares, consistente en la dispensa del pago total o parcial de inscripción y/o colegiaturas en un ciclo escolar que acrediten buen aprovechamiento escolar.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+II.- Excelencia.- Es la beca en dinero, dirigida a alumnas y alumnos inscritos en instituciones públicas de educación primaria, secundaria y normal, en la entidad,-que (sic) acrediten su alto nivel de aprovechamiento académico.
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+III.- Exención.- Es la beca en especie, dirigida a alumnas y alumnos de educación inicial, preescolar, primaria, secundaria, media superior y superior de escuelas particulares, con autorización o reconocimiento de validez oficial de estudios otorgados por la autoridad educativa estatal, consistente en la dispensa del pago total o parcial de inscripción y/o colegiaturas en un ciclo escolar, que acrediten buen aprovechamiento escolar o necesidad por sus condiciones socioeconómicas.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2020)</small>
+
+De las fracciones antes citadas, el Comité correspondiente asignará el mayor número posible de becas que se encuentren disponibles, a las alumnas o alumnos en situación de pobreza, con alguna discapacidad, indígenas o sean hijos de migrantes.
 
 ### CAPÍTULO II
 
@@ -231,9 +307,17 @@ DE LOS CRITERIOS DE SELECCIÓN PARA EL OTORGAMIENTO DE BECAS AL ESTUDIO.
 
 Para el otorgamiento de becas prevalecerán los siguientes criterios:
 
-I.- Cumplir con los requisitos establecidos en la convocatoria; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2020)</small>
 
-II.- Los demás que establezca el Comité.
+I.- Que la alumna o alumno se encuentre en situación de pobreza, con alguna discapacidad, sea indígena o hija o hijo de migrantes;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+II.- Cumplir con los requisitos establecidos en la convocatoria;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2020)</small>
+
+III.- Los demás que establezca el Comité.
 
 ###### ARTÍCULO 15.
 
@@ -261,9 +345,11 @@ VI.- Los demás que establezca el Comité.
 
 Una vez integrados los expedientes de solicitudes de becas, el Comité deberá analizar, estudiar y dictaminar sobre la aprobación de becas a aquellos estudiantes que hayan sido seleccionados en función de los principios rectores que rigen la presente Ley, cuya acción procedimental deberá sujetarse a lo establecido en el Reglamento.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 18.
 
-Los padres de familia y/o la o el Director de cada escuela, serán (sic) podrán realizar el trámite para la obtención de becas, apegándose a lo establecido en la Convocatoria, cumpliendo en tiempo y forma con los requisitos establecidos.
+Los padres de familia, la o el Director, Director General o Rector de cada institución, podrán realizar el trámite para la obtención de becas, apegándose a lo establecido en la Convocatoria, cumpliendo en tiempo y forma con los requisitos establecidos.
 
 ###### ARTÍCULO 19.
 
@@ -291,27 +377,41 @@ DERECHOS Y OBLIGACIONES DE LAS Y LOS ALUMNOS BECARIOS.
 
 Los derechos y obligaciones de las y los becarios serán los siguientes:
 
-I.- Recibir la beca correspondiente, previo cumplimiento a los requisitos establecidos;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+I.- Recibir puntualmente la beca correspondiente, previo cumplimiento a los requisitos establecidos;
 
 II.- Recibir el comunicado a través del padre o tutor por parte del Comité a través de la o el director, sobre la asignación de la beca;
 
 III.- Recibir el monto de la beca otorgada;
 
-IV.- Asistir a clases con regularidad y mantener un buen desempeño académico de acuerdo con la normatividad que establezca la institución educativa en la que esté inscrito; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2020)</small>
 
-V.- Cumplir con las obligaciones que se deriven de la presente Ley, su Reglamento y las Convocatorias.
+IV.- Tener buena conducta durante el ciclo escolar;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+V.- Asistir a las reuniones o eventos en los que sean convocados por su Institución o la Autoridad Educativa; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2020)</small>
+
+VI.- Cumplir con las obligaciones que se deriven de la presente Ley, su Reglamento y las Convocatorias.
 
 ## TITULO SEXTO. DE LAS CAUSAS DE EXCEPCIÓN, IMPROCEDENCIA Y CANCELACIÓN
 
 ### CAPÍTULO I. DE LAS CAUSAS DE EXCEPCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 22.
 
-Serán causas de excepción para otorgar una beca, cuando el solicitante o beneficiado atendiendo su estado de vulnerabilidad socio-económica acredite encontrarse en alguno de los siguientes casos:
+Serán causas de excepción para otorgar una beca, cuando el solicitante acredite encontrarse en alguno de los siguientes casos:
 
 I.- El alumno, padre, madre o tutor tenga una enfermedad grave e incapacitante, certificada por médico de institución de salud pública;
 
-II.- Tenga una discapacidad;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+II.- Que la alumna o alumno tenga una discapacidad, sea indígena o hija o hijo de migrantes;
 
 III.- En casos de orfandad;
 
@@ -406,3 +506,17 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 389 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE BECAS DEL ESTADO DE HIDALGO”.]
+
+Primero. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo. Dentro del plazo de sesenta días hábiles a partir de la entrada en vigor del presente decreto, se instalará el Comité de Becas de los Tipos de Media Superior y Superior.
+
+Tercero. El titular del Ejecutivo Estatal expedirá el Reglamento de la presente Ley dentro de los noventa días hábiles, posteriores a la fecha de la entrada en vigor.
+
+Cuarto. Las disposiciones relativas al otorgamiento de becas contenidas en los Acuerdos por los que se emitieron Reconocimiento de Validez Oficial de Estudios en los programas educativos del nivel medio superior y superior, por la autoridad educativa local con anterioridad a la entrada en vigor del presente decreto, será aplicable lo que dispone la presente Ley a partir del ejercicio fiscal 2020, por lo que los particulares deberán tomar las providencias necesarias.
