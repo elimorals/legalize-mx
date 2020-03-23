@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-99814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-10"
-last_updated: "2019-11-11"
+last_updated: "2020-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MARZO DE 2020 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2020.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2014.
 
@@ -37,7 +39,9 @@ QUE CONTIENE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO.
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S…
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -89,9 +93,11 @@ I. Laica y, por lo tanto, se mantendrá por completo ajena a cualquier doctrina 
 
 II. Libre de prejuicios y estereotipos de sumisión, sustentada en los principios de equidad, igualdad, libertad y no discriminación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 6°.
 
-La educación que el Estado imparta será gratuita. Las donaciones o cuotas voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo. Las autoridades educativas, establecerán los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias.
+La educación que el Estado imparta será gratuita. El Estado garantizará la dotación de uniformes y útiles escolares a estudiantes de escuelas públicas de los Niveles Básico y Medio Superior dependientes del Gobierno del Estado, a través de vales, canjeables con los proveedores registrados en (sic) Gobierno del Estado, a falta de éstos los entregarán de manera directa. Las donaciones o cuotas voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo. Las autoridades educativas, establecerán los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias.
 
 Se prohíbe el pago de cualquier contraprestación que impida o condicione la prestación del servicio educativo a las y los educandos.
 
@@ -1452,3 +1458,9 @@ P.O. 11 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 217 QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 390 QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 6 DE LA LEY DE EDUCACIÓN Y EL PÁRRAFO TERCERO DEL ARTÍCULO 23 DE LA LEY DE DESARROLLO SOCIAL, AMBAS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
