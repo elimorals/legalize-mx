@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-agencia-espacial-mexicana-90328"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-11-27"
-last_updated: "2015-04-10"
+last_updated: "2020-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90328&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-11-16"
 
 ESTATUTO ORGÁNICO DE LA AGENCIA ESPACIAL MEXICANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2020.
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 27 de noviembre de 2012.
 
@@ -35,9 +35,13 @@ ESTATUTO ORGANICO DE LA AGENCIA ESPACIAL MEXICANA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
 ###### Artículo 1.
 
-El presente Estatuto Orgánico tiene por objeto establecer las bases de organización así como las facultades y funciones que correspondan a las distintas áreas que integran a la Agencia Espacial Mexicana, organismo público descentralizado del Gobierno Federal, integrante del Sector Comunicaciones y Transportes con personalidad jurídica y patrimonio propio y con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines creado por Decreto del H. Congreso de la Unión, publicado en el Diario Oficial de la Federación el 30 de julio de 2010.
+El presente Estatuto Orgánico tiene por objeto establecer las bases de organización así como las facultades y funciones que correspondan a las distintas áreas que integran la Agencia espacial Mexicana, organismo público descentralizado del Gobierno Federal, integrante del Sector Comunicaciones y Transportes con personalidad jurídica y patrimonio propios (sic) y con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines creado por decreto del H. Congreso de la Unión, publicado en el Diario Oficial de la Federación el 30 de julio de 2010.
 
 ###### Artículo 2.
 
@@ -67,7 +71,11 @@ X. Secretaría: Secretaría de Comunicaciones y Transportes.
 
 La Agencia tiene por objeto:
 
-I. Formular y proponer al titular de la Secretaría las Líneas Generales de la Política Espacial de México y, así como el Programa;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+I. Formular y proponer al(a) titular de la Secretaría las Líneas Generales de la Política Espacial de México y, así como el Programa;
 
 II. Ejecutar la Política Espacial de México, a través de la elaboración y aplicación del Programa;
 
@@ -77,13 +85,21 @@ IV. Desarrollar la capacidad científico-tecnológica del país a través de la 
 
 V. Promover el desarrollo de los sistemas espaciales y los medios, tecnología e infraestructura necesarios para la consolidación y autonomía de este sector en México;
 
-VI. Facilitar la incorporación de los sectores relacionados a esta política y particularmente la participación del sector productivo, a fin de que éste adquiera competitividad en los mercados de bienes y servicios espaciales;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+VI. Facilitar la incorporación de los sectores relacionado (sic) a esta política y particularmente la participación del sector productivo, a fin de que éste adquiera competitividad en los mercados de bienes y servicios espaciales;
 
 VII. Promover una activa cooperación internacional mediante acuerdos que beneficien a las actividades espaciales y que permitan la integración activa de México a la Comunidad Espacial Internacional;
 
 VIII. Servir como instrumento de la rectoría del Estado en este sector, a fin de fortalecer la soberanía;
 
-IX. Velar por el interés y seguridad nacionales, mediante una estrategia que integre conocimiento científico y tecnológico, eficiencia, experiencia y capacidad de coordinación entre las entidades públicas de la Administración Pública Federal;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+IX. Velar por el interés y seguridad nacionales, mediante una estrategia que integre conocimiento científico y tecnológico, eficiencia, experiencia y capacidad de coordinación entre las entidades de la Administración Pública Federal;
 
 X. Garantizar y preservar el interés público y la protección de la población, como fundamentos del desarrollo, seguridad, paz y prevención de problemas de seguridad nacional en México; y
 
@@ -91,9 +107,13 @@ XI. Recibir de las entidades públicas, privadas y sociales, propuestas y observ
 
 De conformidad con su objeto, le corresponde a la Agencia coadyuvar en cuestiones de seguridad nacional y en el fortalecimiento de la soberanía nacional, áreas que son estratégicas y prioritarias para garantizar el interés público y la protección de la población; así como servir de instrumento de la rectoría del Estado en materia espacial.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
 ###### Artículo 4.
 
-El domicilio legal del Organismo será la Ciudad de México, Distrito Federal. La Agencia, previa autorización de la Junta de Gobierno, podrá establecer oficinas o instancias afines en cualquier parte del territorio nacional, sin que por ello se entienda cambiado su domicilio.
+El domicilio legal del Organismo será Insurgentes Sur 1685 Piso 13, Colonia Guadalupe Inn, Álvaro Obregón, C.P. 01020 en la Ciudad de México. La Agencia, podrá establecer oficinas o instancias afines en cualquier parte del territorio nacional, sin que por ello se entienda cambiado su domicilio.
 
 ###### Artículo 5.
 
@@ -109,7 +129,11 @@ IV. Formular el Programa, gestionar y ejercer el presupuesto necesario para la r
 
 V. Asesorar y resolver consultas que le formulen instituciones y dependencias de los diferentes órdenes y ramas de gobierno, sobre los problemas relativos a concesiones, permisos y autorizaciones de uso, desarrollo y aplicaciones tecnológicas en materia espacial;
 
-VI. Realizar eventos científicos y tecnológicos en materia espacial, donde participen integrantes de la Agencia y especialistas invitados nacionales y extranjeros;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+VI. Realizar eventos científicos y tecnológicos en materia espacial, donde participen integrantes de la Agencia y especialistas invitados(as) nacionales y extranjeros;
 
 VII. Proponer la designación de los representantes del país ante las instancias internacionales en materia espacial de las que México sea parte y establecer la postura nacional en materia de su competencia;
 
@@ -127,7 +151,11 @@ I. Junta de Gobierno
 
 II. Dirección General
 
-III. Organos de Vigilancia
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+III. Órganos de Vigilancia
 
 IV. Unidades Técnicas y Administrativas
 
@@ -155,41 +183,45 @@ La Agencia conducirá sus actividades de conformidad con lo establecido en la Le
 
 ### CAPITULO III. DE LA JUNTA DE GOBIERNO
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
 ###### Artículo 9.
 
 La Junta de Gobierno está integrada por 15 miembros, como se indica a continuación:
 
-I. El titular de la Secretaría, quien la presidirá;
+I. El(La) titular de la Secretaría, quien la presidirá;
 
-II. Un representante de la Secretaría de Gobernación que deberá tener nivel de subsecretario;
+II. Un(a) representante de la Secretaría de Gobernación que deberá tener nivel de subsecretario(a);
 
-III. Un representante de la Secretaría de Relaciones Exteriores que deberá tener nivel de subsecretario;
+III. Un(a) representante de la Secretaría de Relaciones Exteriores que deberá tener nivel de subsecretario(a);
 
-IV. Un representante de la Secretaría de Educación Pública que deberá tener nivel de subsecretario;
+IV. Un(a) representante de la Secretaría de Educación Pública que deberá tener nivel de subsecretario;
 
-V. Un representante de la Secretaría de Hacienda y Crédito Público que deberá tener nivel de subsecretario;
+V. Un(a) representante de la Secretaría de Hacienda y Crédito Público que deberá tener nivel de subsecretario;
 
-VI. Un representante de la Secretaría de la Defensa Nacional que deberá tener nivel de subsecretario;
+VI. Un(a) representante de la Secretaría de la Defensa Nacional que deberá tener nivel de subsecretario;
 
-VII. Un representante de la Secretaría de Marina que deberá tener nivel de subsecretario;
+VII. Un(a) representante de la Secretaría de Marina que deberá tener nivel de subsecretario;
 
-VIII. El titular del Consejo Nacional de Ciencia y Tecnología;
+VIII. El(La) titular del Consejo Nacional de Ciencia y Tecnología;
 
-IX. El Rector de la Universidad Nacional Autónoma de México;
+IX. El(La) Rector de la Universidad Nacional Autónoma de México;
 
-X. El Director General del Instituto Politécnico Nacional;
+X. El(La) Director(a) General del Instituto Politécnico Nacional;
 
-XI. El Presidente de la Academia Mexicana de Ciencias;
+XI. El(La) Presidente(a) de la Academia Mexicana de Ciencias;
 
-XII. El Presidente de la Academia de Ingeniería;
+XII. El(La) Presidente(a) de la Academia de Ingeniería;
 
-XIII. El Presidente de la Academia Nacional de Medicina;
+XIII. El(La) Presidente(a) de la Academia Nacional de Medicina;
 
-XIV. Un representante de la Asociación Nacional de Universidades e Instituciones de Educación Superior; y
+XIV. Un(a) representante de la Asociación Nacional de Universidades e Instituciones de Educación Superior; y
 
-XV. El titular del Instituto Nacional de Estadística y Geografía.
+XV. El(La) titular del Instituto Nacional de Estadística y Geografía.
 
-Por cada miembro propietario de la Junta de Gobierno habrá un suplente designado por el titular, quien en su caso deberá tener el nivel de director general o equivalente. En el caso de las fracciones VIII al (sic) XV, la equivalencia del suplente queda a juicio y decisión del(a) Titular de la institución u organismo en cuestión. El suplente contará con las mismas facultades que los propietarios y podrá asistir, con voz y voto, a las sesiones de la Junta, cuando el propietario respectivo no concurra.
+Por cada miembro propietario de la Junta de Gobierno habrá un(a) suplente designado(a) por el(la) titular, quien en su caso deberá tener el nivel de Director(a) General o equivalente. En el caso de las fracciones VIII al (sic) XV, la equivalencia del(a) suplente queda a juicio y decisión del (la) Titular de la institución u organismo en cuestión. El(La) suplente contará con las mismas facultades que los(as) propietarios(as) y podrá asistir, con voz y voto, a las sesiones de la Junta, cuando el(la) propietario(a) respectivo(a) no concurra.
 
 ###### Artículo 10.
 
@@ -215,25 +247,35 @@ IX. Aprobar acuerdos, bases de coordinación y convenios de colaboración con au
 
 X. Fijar bases y mecanismos de coordinación, participación y colaboración con autoridades e instituciones, particulares y grupos sociales e instituciones autónomas;
 
-XI. Fijar criterios y bases para crear o ampliar instancias locales afines asociadas;
+XI. Fijar criterios y bases para crear o ampliar instancias locales afines asociadas; Aprobar la designación o sustitución de los(as) miembros del Consejo Consultivo y de su presidente(a), así como conocer y valorar los resultados de su actuación;
 
-XII. Aprobar la designación o sustitución de los miembros del Consejo Consultivo y de su presidente(a), así como conocer y valorar los resultados de su actuación.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-XIII. Analizar y en su caso aprobar el Reglamento Interior, Estatuto, Manual de Organización, Manual de Procedimientos y Manual de Servicios de la Agencia, y
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
 
-XIV. Las demás que le señalen la Ley y otros ordenamientos.
+XII. Analizar y en su caso aprobar el Reglamento Interior, Estatuto Orgánico, Manual de Organización General, Manual de Procedimientos y Manual de Servicios de la Agencia; y
+
+XIII. Las demás que le señalen la Ley y otros ordenamientos.
 
 ###### Artículo 11.
 
 La Junta de Gobierno sesionará por lo menos cuatro veces al año; y las sesiones que celebre podrán ser ordinarias y extraordinarias.
 
-Cuando se convoque a una sesión ordinaria y ésta no pudiera llevarse a cabo en la fecha programada, por falta de quórum, por caso fortuito o de fuerza mayor, deberá celebrarse entre los cinco y quince días hábiles siguientes a la fecha programada, previo aviso a los miembros de la Junta de Gobierno.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
+Cuando se convoque a una sesión ordinaria y ésta no pudiera llevarse a cabo en la fecha programada, por falta de quórum, por caso fortuito o de fuerza mayor, deberá celebrarse entre los cinco y quince días hábiles siguientes a la fecha programada, previo aviso a los(las) miembros de la Junta de Gobierno.
 
 Las sesiones extraordinarias podrán ser convocadas en cualquier tiempo, a petición del(a) Presidente(a) de la Junta de Gobierno, de la Dirección General o del(a) Comisario Público, con al menos tres días hábiles de anticipación. El (La) Secretario(a) Técnico(a) junto con la Convocatoria hará llegar el Orden del Día e información necesaria para dicha sesión.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MARZO DE 2020)</small>
+
 ###### Artículo 12.
 
-La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos ocho de sus miembros con derecho a voz y voto y siempre y cuando entre ellos se encuentre el (la) Presidente(a) de la Junta de Gobierno; y sus resoluciones serán válidas cuando sean tomadas por la mayoría de los miembros. Sólo en caso de empate, el (la) Presidente(a) decidirá con voto de calidad.
+La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos ocho de sus miembros con derecho a voz y voto y siempre y cuando entre ellos se encuentre el (la) Presidente(a) de la Junta de Gobierno; y sus resoluciones serán válidas cuando sean tomadas por la mayoría de los(las) miembros. Sólo en caso de empate, el (la) Presidente(a) decidirá con voto de calidad.
 
 Los miembros de la Junta de Gobierno, que no puedan asistir a la reunión físicamente, podrán hacerlo de manera virtual, por videoconferencia, teleconferencia u otro medio electrónico, con derecho a voz y voto por dicho medio.
 
@@ -253,7 +295,11 @@ Las sesiones de la Junta de Gobierno se sujetarán a los siguientes lineamientos
 
 I. Cinco días hábiles antes del señalado para la celebración de la sesión ordinaria de la Junta de Gobierno, y al menos tres días hábiles antes del señalado para la celebración de la sesión extraordinaria de la Junta de Gobierno, el (la) Presidente(a) o el (la) Secretario(a) Técnico(a) de la Junta de Gobierno transmitirá por medio electrónico o por escrito, la Convocatoria, la cual incluirá el Orden del Día y la documentación correspondiente podrá ser entregada de manera física o electrónica.
 
-Los integrantes de la Junta de Gobierno, previa aprobación del calendario anual de sesiones, deberán prever su participación en el mismo. En caso de que el miembro titular se encuentre imposibilitado para asistir a la sesión correspondiente, éste deberá remitir a su suplente la Convocatoria junto con la información que le fue proporcionada por el (la) Presidente (a) o el (la) Secretario (a) Técnico(a).
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
+Los(as) integrantes de la Junta de Gobierno, previa aprobación del calendario anual de sesiones, deberán prever su participación en el mismo. En caso de que el (la) miembro titular se encuentre imposibilitado(a) para asistir a la sesión correspondiente, éste deberá remitir a su suplente la Convocatoria junto con la información que le fue proporcionada por el (la) Presidente(a) o el (la) Secretario(a) Técnico(a).
 
 II. Las sesiones deberán sujetarse al Orden del Día establecido.
 
@@ -273,15 +319,19 @@ De la celebración de la sesión de la Junta de Gobierno, se levantará acta a l
 
 I. El lugar, la hora, el día, el mes y el año de su celebración;
 
-II. El nombre de los miembros de la Junta de Gobierno y la lista de asistencia;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+II. El nombre de los(las) miembros de la Junta de Gobierno y la lista de asistencia;
 
 III. Relatoría sucinta del desahogo de los asuntos del Orden del Día; y
 
 IV. Acuerdos tomados durante la sesión, a los que se les asignará un número progresivo.
 
-El acta de la sesión se hará constar en original, la cual será firmada por el (la) Presidente (a) y el (la) Secretario(a) Técnico(a) de la Junta de Gobierno. Se integrará al registro que haya autorizado la propia Junta de Gobierno, y estará clasificada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+El acta de la sesión se hará constar en original, la cual será firmada por el(la) Presidente(a) y el(la) Secretario(a) Técnico(a) de la Junta de Gobierno. Se integrará al registro que haya autorizado la propia Junta de Gobierno, y estará clasificada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
-En ausencia del (la) Secretario(a) Técnico(a), el acta será firmada por el (la) Presidente(a) y el (la) Prosecretario(a), para producir los efectos legales conducentes.
+En ausencia del (la) Secretario(a) Técnico(a), el acta será firmada por el (la) Presidente(a) y el(la) Prosecretario(a), para producir los efectos legales conducentes.
 
 ###### Artículo 16.
 
@@ -289,7 +339,7 @@ Los acuerdos aprobados por la Junta de Gobierno deberán ser notificados a trav�
 
 ###### Artículo 17.
 
-El (La) Presidente(a) de la Junta de Gobierno tendrá las siguientes funciones, sin perjuicio de las establecidas en otras disposiciones legales:
+El(La) Presidente(a) de la Junta de Gobierno tendrá las siguientes funciones, sin perjuicio de las establecidas en otras disposiciones legales:
 
 I. Representar a la Junta de Gobierno;
 
@@ -299,27 +349,39 @@ III. Proponer a la Junta de Gobierno, para su revisión y aprobación el program
 
 IV. Convocar la celebración de sesiones ordinarias y extraordinarias, así como presidirlas y dirigir los debates;
 
-V. Someter a votación los asuntos tratados en las sesiones y resolver los empates con voto de calidad, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-VI. Las demás que de acuerdo a la ley sean aplicables.
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+V. Someter a votación los asuntos tratados en las sesiones y resolver los empates con voto de calidad; y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+VI. Las demás que de acuerdo con la ley sean aplicables.
 
 ###### Artículo 18.
 
 El (La) Secretario(a) Técnico(a) de la Junta de Gobierno tendrá las siguientes funciones:
 
-I. Formular y proponer con la debida anticipación, el Orden del Día de las sesiones de la Junta de Gobierno, tomando en cuenta los asuntos que a propuesta de sus miembros, del (la) Director(a) General y del Comisario Público se deban incluir en el mismo;
+I. Formular y proponer con la debida anticipación, el Orden del Día de las sesiones de la Junta de Gobierno, tomando en cuenta los asuntos que, a propuesta de sus miembros, del (la) Director(a) General y del Comisario Público se deban incluir en el mismo;
 
 II. Elaborar el calendario de sesiones de la Junta de Gobierno y ponerlo a consideración de la misma;
 
-III. Remitir a los miembros de la Junta de Gobierno, las carpetas e información de apoyo a las sesiones previa aprobación del (la) Director(a) General, en los términos del presente Estatuto;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+III. Remitir a los(las) miembros de la Junta de Gobierno, las carpetas e información de apoyo a las sesiones previa aprobación del (la) Director(a) General, en los términos del presente Estatuto;
 
 IV. Pasar lista de asistencia en las sesiones de la Junta de Gobierno y verificar e informar al(a) Presidente(a) de la Junta de Gobierno que hay quórum;
 
 V. Dar lectura al acta de la sesión anterior y someter a votación para su aprobación.
 
-VI. Asistir a las sesiones de la Junta de Gobierno con voz pero sin voto;
+VI. Asistir a las sesiones de la Junta de Gobierno con voz, pero sin voto;
 
-VII. Comunicar al (la) Director(a) General y al (la) Prosecretario(a) para su seguimiento y ejecución, los acuerdos y resoluciones de la Junta de Gobierno, e informar sobre el particular al (la) Presidente(a) de la misma;
+VII. Comunicar al (la) Director(a) General y al(la) Prosecretario(a) para su seguimiento y ejecución, los acuerdos y resoluciones de la Junta de Gobierno, e informar sobre el particular al (la) Presidente(a) de la misma;
 
 VIII. Elaborar y firmar las actas de las sesiones de la Junta de Gobierno y certificar la realización de las mismas; y
 
@@ -331,7 +393,7 @@ En caso de ausencia del (la) Secretario(a) Técnico(a), el (la) Prosecretario(a)
 
 La Junta de Gobierno contará con un(a) Prosecretario(a), quien tendrá las siguientes funciones:
 
-I. Asistir a las sesiones de la Junta de Gobierno con voz pero sin voto;
+I. Asistir a las sesiones de la Junta de Gobierno con voz, pero sin voto;
 
 II. Elaborar y controlar la lista de asistencia de las sesiones que se celebren;
 
@@ -343,9 +405,17 @@ V. Elaborar, organizar y custodiar el libro de actas respectivo;
 
 VI. Organizar y operar el archivo documental e histórico de la Junta de Gobierno;
 
-VII. Mantener actualizadas las designaciones de los integrantes de la Junta de Gobierno;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-VIII. Durante el mes de enero de cada año, solicitar a los Titulares de las Entidades e Instituciones representadas en la Junta de Gobierno la designación o ratificación de los titulares y suplentes.
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+VII. Mantener actualizadas las designaciones de los(as) integrantes de la Junta de Gobierno;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+VIII. Durante el mes de enero de cada año, solicitar a los(as) Titulares de las Entidades e Instituciones representadas en la Junta de Gobierno la designación o ratificación de los(as) titulares y suplentes.
 
 IX. Verificar que las actas de las sesiones sean firmadas por el (la) Presidente(a) y el (la) Secretario(a) Técnico(a) de la Junta de Gobierno, y
 
@@ -365,7 +435,11 @@ I. Impulsar el desarrollo y divulgación de los estudios sobre la investigación
 
 II. Conducir la Política Espacial de México, a partir del establecimiento de metas y planes de acción estratégicos que promuevan el desarrollo de los sistemas espaciales y los medios, tecnología e infraestructura necesarios, a fin de encontrar nuevas áreas de estudio y proponer investigaciones que consoliden este sector en México.
 
-III. Establecer y conducir el Programa Nacional de Actividades Espaciales, coordinando el desempeño de los agentes institucionales dedicados a la actividad espacial, con el objeto de lograr el desarrollo de capacidades científicas, tecnológicas, educativas, industriales y de servicios en este y otros sectores relacionados.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+III. Establecer y conducir el Programa Nacional de Actividades Espaciales, coordinando el desempeño de los(as) agentes institucionales dedicados(as) a la actividad espacial, con el objeto de lograr el desarrollo de capacidades científicas, tecnológicas, educativas, industriales y de servicios en este y otros sectores relacionados.
 
 IV. Disponer la investigación científica, el desarrollo tecnológico y la innovación en materia espacial, coordinando esfuerzos con instituciones académicas, de investigación básica y aplicada y con empresas especializadas, con el objetivo de fomentar la aplicación de la ciencia y la tecnología para atender a las demandas la (sic) población y mejorar su calidad de vida.
 
@@ -401,13 +475,21 @@ XIX. Las demás que le señalen el presente Estatuto, la Ley y otros ordenamient
 
 ### CAPITULO V. DEL ORGANO DE VIGILANCIA
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
 ###### Artículo 22.
 
-El Organo de Vigilancia estará a cargo del Gobierno Federal, por conducto de un (una) Comisario Público Propietario y un(a) Suplente, designados por la Secretaría de la Función Pública, el (la) cual asistirá con voz pero sin voto, a las sesiones de la Junta de Gobierno.
+El Órgano de Vigilancia estará a cargo del Gobierno Federal, por conducto de un (una) Comisario Público Propietario y un(a) Suplente, designados(as) por la Secretaría de la Función Pública, el (la) cual asistirá con voz, pero sin voto, a las sesiones de la Junta de Gobierno.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
 
 ###### Artículo 23.
 
-El Comisario Público evaluará el desempeño general y por funciones de la Agencia, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública les asigne específicamente. Para el cumplimiento de las funciones citadas el Organo de Gobierno y el (la) Director(a) General deberán proporcionar la información que soliciten los (las) Comisarios Públicos.
+El(La) Comisario Público evaluará el desempeño general y por funciones de la Agencia, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública les asigne específicamente. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y el (la) Director(a) General deberán proporcionar la información que soliciten los (las) Comisarios Públicos.
 
 ###### Artículo 24.
 
@@ -415,11 +497,15 @@ El (La) Comisario Público tendrá las atribuciones que les otorgan la Ley de En
 
 ### CAPITULO VI. ORGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, D.O.F. 10 DE ABRIL DE 2015)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
 
 ###### Artículo 25.
 
-Corresponde al (a) titular del Órgano Interno de Control y a sus respectivas Áreas de Auditoria Interna, de Responsabilidades y Quejas, y de Control, Evaluación y Apoyo al Buen Gobierno, actuar conforme a las atribuciones que le confiere el artículo 79 del Reglamento Interior de la Secretaría de la Función Pública, quedando facultado para requerir a la Agencia, a los servidores públicos adscritos a ésta y las unidades administrativas que la integran, la información y documentación necesaria, para el cumplimiento de sus funciones dentro del marco legal aplicable.
+Corresponde al(a) titular del Órgano Interno de Control y a sus respectivas Áreas de Auditoría Interna y Auditoría para Desarrollo y Mejora de la Gestión Pública, el Área de Quejas y el Área de Responsabilidades, actuar conforme a las atribuciones que le confiere el artículo 98 del
+
+Reglamento Interior de la Secretaría de la Función Pública, así como por lo señalado en los artículos 61 y 62 de la Ley Federal de Entidades Paraestatales; quedando facultado para requerir a la Agencia, a los(as) servidores(as) públicos(as) adscritos(as) a ésta y las unidades administrativas que la integran, la información y documentación necesaria, para el cumplimiento de sus funciones dentro del marco legal aplicable.
 
 ### CAPITULO VII. DE LAS FACULTADES DE LAS UNIDADES TECNICAS Y ADMINISTRATIVAS DE LA AGENCIA
 
@@ -491,27 +577,63 @@ XXVII. Promover, en el ámbito de su competencia y con las instancias correspond
 
 XXVIII. Las demás que le confiera el presente Estatuto, las disposiciones aplicables y el (la) Director(a) General.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO EN SU NUMERACIÓN, D.O.F. 23 DE MARZO DE 2020)</small>
+
+CAPITULO (SIC)
+
+DE LAS ATRIBUCIONES Y FUNCIONES DE LAS UNIDADES TECNICAS DE LA AGENCIA
+
 ###### Artículo 29.
 
 Corresponde a la Coordinación General de Formación de Capital Humano en el Campo Espacial:
 
-I. Establecer las estrategias, programas y acciones de formación de capital humano especializado en el campo espacial basados en diagnósticos de la oferta y la demanda de capital humano, realizados en coordinación con los sectores educativo, industrial y gubernamental para satisfacer los requerimientos actuales y futuros del país en materia espacial;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-II. Conducir la implementación de las estrategias, programas y acciones de formación de capital humano en el campo espacial, estableciendo convenios de colaboración entre los sectores académico, industrial y gubernamental e instancias afines a fin de formar a los especialistas mexicanos en materia espacial que respondan a las necesidades y expectativas de la sociedad;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
 
-III. Determinar los criterios para coadyuvar la participación, profesionalización y certificación de recursos humanos del país en los procesos de diseño, construcción y operación de equipos e instalaciones espaciales, diseñando e instrumentando estrategias para la formación de especialistas altamente calificados, en colaboración con instituciones nacionales e internacionales, con el fin de desarrollar la capacidad científica y tecnológica nacional;
+I. Establecer las estrategias, programas y/o iniciativas y acciones de formación de capital humano especializado en el campo espacial basados en diagnósticos de la oferta y la demanda de capital humano, realizados en coordinación con los sectores educativo, industrial, gubernamental, organizaciones de la sociedad civil, otras agencias espaciales e instancias afines para satisfacer los requerimientos actuales y futuros del país en materia espacial;
 
-IV. Emitir y conducir las estrategias, programas y acciones de fomento a la aplicación de la ciencia y tecnología espacial en los tres niveles de gobierno, apoyados en la detección de las necesidades de las entidades gubernamentales para mejorar su productividad, desempeño y procesos de atención a la población;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-V. Autorizar el análisis, diseño, implementación y evaluación de políticas públicas en materia espacial estableciendo bases de coordinación y cooperación con los tres órdenes de gobierno, así como con instancias de la iniciativa privada, organizaciones de la sociedad civil interesadas e instituciones internacionales para el conocimiento, difusión y aplicación de las ciencias y tecnologías asociadas a la investigación espacial que coadyuven el (sic) mejoramiento de las condiciones y oportunidades de vida de la población;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
 
-VI. Conducir la ampliación de las capacidades de uso del espacio de las entidades federativas de acuerdo a sus condiciones, necesidades y vocaciones, propiciando la vinculación y la coordinación con las entidades federativas y asesorando en el desarrollo de proyectos para potenciar el desarrollo económico del país en materia espacial;
+II. Conducir la implementación de las estrategias, programas y/o iniciativas y acciones de formación de capital humano en el campo espacial, estableciendo convenios de colaboración entre los sectores académico, industrial, gubernamental, organizaciones de la sociedad civil, otras agencias espaciales e instancias afines, para coadyuvar en la formación de los especialistas mexicanos en materia espacial que respondan a las necesidades y expectativas de la sociedad;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+III. Conducir la participación, certificación y profesionalización de recursos humanos del país en los procesos de diseño, construcción y operación de equipos e instalaciones espaciales, diseñando e instrumentando estrategias para la formación de especialistas, en colaboración con instituciones nacionales e internacionales, con el fin de desarrollar la capacidad científica y tecnológica nacional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+IV. Emitir y conducir las estrategias, programas y/o iniciativas y acciones de fomento a la aplicación de la ciencia y tecnología espacial en los tres niveles de gobierno, apoyados en la detección de las necesidades de las entidades gubernamentales para mejorar su productividad, desempeño y procesos de atención a la población;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+V. Proponer el análisis, diseño, implementación y evaluación de políticas públicas en materia espacial estableciendo bases de coordinación y cooperación con los tres órdenes de gobierno, así como con instancias de la iniciativa privada, organizaciones de la sociedad civil interesadas e instituciones internacionales para el conocimiento, difusión y aplicación de las ciencias y tecnologías asociadas a la investigación espacial que coadyuven el (sic) mejoramiento de las condiciones y oportunidades de vida de la población;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+VI. Conducir la ampliación de las capacidades de uso del espacio de los tres niveles de gobierno de acuerdo con sus condiciones, necesidades y capacidades, propiciando la vinculación y la coordinación con la Federación, los Estados y los Municipios, y asesorando en el desarrollo de proyectos para estimular el desarrollo social del país en materia espacial;
 
 VII. Informar a la sociedad sobre la importancia del desarrollo de la ciencia y tecnología espacial divulgando los resultados de las investigaciones científicas y tecnológicas realizadas en el sector espacial en coordinación con instancias públicas y privadas para que el público general se entere y sensibilice de los beneficios de su aplicación en la vida cotidiana;
 
 VIII. Proponer la incorporación de contenidos de ciencia y tecnologías espaciales y de actividades extracurriculares de educación formal y no formal, en coordinación con instancias especializadas de la sociedad civil e instituciones públicas y privadas para fomentar la vocación en estas áreas en niños y jóvenes;
 
-IX. Determinar los criterios de fomento de las actividades nacionales en materia espacial mediante la vinculación y el intercambio de información académica y científica entre instituciones nacionales y extranjeras para el desarrollo científico y tecnológico espacial del país;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+IX. Proponer los criterios de fomento de las actividades nacionales en materia de educación espacial mediante la vinculación y el intercambio de información académica y científica entre instituciones nacionales y extranjeras para el desarrollo científico y tecnológico espacial del país;
 
 X. Conducir la optimización del proceso de enseñanza-aprendizaje en materia espacial de los centros educativos del país asesorando en el uso y aprovechamiento del estado del arte en tecnología educativa para contribuir a la formación de capital humano e investigación en el campo espacial;
 
@@ -525,61 +647,91 @@ Corresponde a la Coordinación General de Investigación Científica y Desarroll
 
 I. Conducir el desarrollo de actividades de investigación y desarrollo tecnológico en el sector espacial, para promover la generación de conocimiento científico y sus aplicaciones que ofrezcan alternativas tecnológicas que generen respuestas a las demandas sociales y que propicien un desarrollo sustentable;
 
-> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2015)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-II. Disponer y coordinar planes estratégicos y proyectos que permitan consolidar el desarrollo de capacidades nacionales en la materia y que estén orientados al desarrollo de infraestructura espacial tanto básico (sic) como aplicada, para comunicaciones satelitales, observación del territorio y sistemas de navegación satelital; que en conjunto permita atender necesidades nacionales, protegiendo nuestra soberanía, mejorando la competitividad y desarrollo de innovación.
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
 
-III. Aprobar las políticas públicas para el fomento de la investigación científica y tecnológica en materia espacial, mediante la conducción de los programas basados en las atribuciones de la Agencia Espacial Mexicana y las Líneas Generales de Política Espacial para establecer un marco operativo que estimule el desarrollo de ecosistemas de ciencia y tecnología espacial que permita dar respuesta a la creación de capacidades nacionales en la materia y la resolución de necesidades sociales vinculadas al mismo;
+II. Disponer y coordinar planes estratégicos y proyectos de investigación científica y desarrollo tecnológico que permitan consolidar el desarrollo de capacidades nacionales en la materia y que estén orientados al desarrollo de infraestructura espacial tanto básico (sic) como aplicada, para comunicaciones satelitales, observación del territorio y sistemas de navegación satelital; que en conjunto permita atender necesidades nacionales, mejoren la competitividad y el desarrollo de innovación;
 
-> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2015)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-IV. Proponer el desarrollo de proyectos tecnológicos y protocolos de investigación espacial acordes a las prioridades estratégicas definidas por la Agencia, mediante la gestión de demandas específicas vinculadas a programas sectoriales o fondos mixtos estatales o cualesquier otro financiamiento similar, que apoyen la innovación, contribuyan al avance científico y tecnológico y coadyuven en la atención de necesidades específicas en la materia con un enfoque sustentable.
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
 
-> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2015)</small>
+III. Proponer las políticas públicas para el fomento de la investigación científica y tecnológica en materia espacial, mediante la conducción de los programas basados en las atribuciones de la Agencia Espacial Mexicana y las Líneas Generales de Política Espacial para establecer un marco operativo que estimule el desarrollo de ecosistemas de ciencia y tecnología espacial que permita dar respuesta a la creación de capacidades nacionales en la materia y la resolución de necesidades sociales vinculadas al mismo;
 
-V. Establecer acuerdos y convenios vinculados a proyectos y acciones específicas de desarrollo de ciencia y tecnología espacial para el fortalecimiento y desarrollo de las capacidades nacionales en la materia propiciando el intercambio científico y tecnológico entre instituciones nacionales y extranjeras dedicadas a la investigación y desarrollo de tecnología espacial para la optimización de los recursos destinados a dicho efecto y posicionar al país en el ámbito internacional.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-VI. Conducir la planeación estratégica, integración y supervisión de proyectos espaciales en coordinación con las Unidades Administrativas y Técnicas y las instancias afines, aplicando los indicadores y buenas prácticas en materia financiera, de operación, productividad y de impactos (sic) social que permita alcanzar las metas institucionales con un enfoque orientado a resultados que proporcione servicios de clase mundial; y
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
 
-VII. Las demás que le confiera el presente Estatuto, las disposiciones aplicables y el (la) Director(a) General.
+IV. Proponer el desarrollo de proyectos tecnológicos y protocolos de investigación espacial acordes a las prioridades estratégicas definidas por la Agencia, mediante la gestión de demandas específicas vinculadas a programas sectoriales o fondos mixtos estatales o cualquier otro financiamiento similar, que apoyen la innovación, contribuyan al avance científico y tecnológico y coadyuven en la atención de necesidades específicas en la materia con un enfoque sustentable;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+V. Establecer acuerdos y convenios vinculados a proyectos y acciones específicas de desarrollo de ciencia y tecnología espacial para el fortalecimiento y desarrollo de las capacidades nacionales en la materia propiciando el intercambio científico y tecnológico entre instituciones nacionales y extranjeras dedicadas a la investigación y desarrollo de tecnología espacial para la optimización de los recursos destinados a dicho efecto y posicionar al país en el ámbito internacional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+VI. Conducir la planeación estratégica, integración y supervisión de proyectos espaciales en coordinación con las Unidades Administrativas y Técnicas y las instancias afines, aplicando los indicadores y buenas prácticas en materia financiera, de operación, productividad y de impacto social que permita alcanzar las metas institucionales con un enfoque orientado a resultados que proporcione servicios de clase mundial;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MARZO DE 2020)</small>
+
+VII. Promover y apoyar la creación y funcionamiento de instancias afines en los Estados y Municipios de la República, conforme a los criterios y bases que se establezcan respecto de cada una de ellas, atendiendo las necesidades y capacidades de participación en los proyectos de la Agencia; y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+VIII. Las demás que le confiera el presente Estatuto, las disposiciones aplicables y el (la) Director(a) General.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
 
 ###### Artículo 31.
 
-Corresponde a la Coordinación General de Desarrollo Industrial, Comercial y Competitividad:
+Corresponde a la Coordinación General de Desarrollo Industrial, Comercial y Competitividad en el Sector Espacial:
 
-I. Emitir lineamientos para la articulación de cadenas de valor y suministros en la industria aeroespacial mediante la formación, normalización y desarrollo de un ecosistema que aproveche las capacidades regionales para incrementar su competitividad y estimular la creación de empleos de alto valor agregado;
+I. Emitir lineamientos para la articulación y el fortalecimiento de las cadenas de valor del sector espacial y los suministros en la industria aeroespacial mediante la formación, normalización y aprovechamiento de las capacidades regionales para incrementar su competitividad y estimular la creación de empleos de alto valor agregado;
 
-II. Establecer criterios de selección que privilegien proyectos orientados a solucionar problemas nacionales evaluando su impacto tecnológico, social y económico para la resolución de problemáticas nacionales;
+II. Establecer los mecanismos de selección que privilegien iniciativas pertinentes que impacten la problemática a la que están orientadas, evaluando su impacto tecnológico, social y económico a fin de contribuir a la atención de las problemáticas nacionales;
 
-III. Articular a los sectores público y privado en las áreas de la actividad espacial tendientes a asegurar la soberanía nacional promoviendo el desarrollo de sistemas satelitales con tecnologías propias para asegurar los intereses del país en la exploración y explotación del espacio;
+III. Conducir la articulación de los sectores público y privado en las áreas afines al sector espacial, promoviendo el desarrollo de sistemas satelitales con tecnologías propias para asegurar los intereses del país en la exploración y explotación del espacio;
 
-IV. Proponer estrategias de promoción a la inversión extranjera directa y la inversión nacional, coordinadas en proyectos del sector espacial e infraestructura mediante la generación de una oferta basada en las capacidades de innovación el desarrollo de las cadenas de valor y la transferencia efectiva de tecnología, para acelerar el crecimiento sustentable e incrementar la competitividad y mejorar la productividad del país en el entorno global;
+IV. Proponer estrategias de promoción a la inversión extranjera directa y la inversión nacional en materia espacial, mediante el impulso de proyectos de infraestructura espacial y la articulación y fortalecimiento de las cadenas de valor, la innovación y la transferencia efectiva de tecnología, para que se desarrolle sustentablemente al sector, incrementando la competitividad y la productividad del país en el entorno global;
 
-V. Conducir el desarrollo de la industria espacial a través de la vinculación del sector público, privado y educativo y el desarrollo de programas de fomento al sector para incrementar su competitividad y estimular la generación de empleos;
+V. Determinar mecanismos de fomento a la innovación y el emprendimiento en el sector espacial, mediante la vinculación de la triple hélice, el impulso de una cultura emprendedora y el desarrollo de iniciativas tecnológicas colaborativas, para fortalecer el ecosistema emprendedor y asegurar su contribución a la cadena de valor del sector;
 
-VI. Establecer criterios para el desarrollo de sistemas de normalización, acreditación y certificación en materia espacial mediante la formación, asociación y operación de entidades especializadas, y colaborando con las dependencias y entidades de la administración pública federal para asegurar la interoperabilidad de los sistemas, reducir riesgos, y tiempos de desarrollo;
+VI. Conducir el desarrollo de sistemas de normalización, acreditación y certificación en materia espacial mediante la formación, asociación y operación de entidades especializadas, y colaborando con las dependencias y entidades de la administración pública federal para asegurar la interoperabilidad de los sistemas, reducir riesgos, y tiempos de desarrollo;
 
-VII. Normar los criterios para realizar acciones y programas de transferencia tecnológica mediante la creación y fortalecimiento de centros de transferencia de tecnología y la aplicación de modelos de innovación abierta, para aumentar la competitividad de las empresas ya establecidas en el sector espacial y para generar oportunidades de negocio en todas las aplicaciones relacionadas con la ciencia y la tecnología espacial;
+VII. Proponer los criterios para realizar acciones y programas de innovación y transferencia tecnológica mediante la creación y fortalecimiento de centros de transferencia y comercialización de tecnología, para aumentar la competitividad del sector espacial y generar oportunidades de negocio en todas las aplicaciones relacionadas con la ciencia y la tecnología espacial;
 
-VIII. Conducir los esfuerzos de exportación del sector educativo, público y privado en materia espacial creando consorcios con fondos público-privados de clase mundial para consolidar una base nacional capaz de alternar con las entidades extranjeras e internacionales en la materia;
+VIII. Conducir la incorporación de las capacidades nacionales en materia espacial a las cadenas de valor globales, mediante, el desarrollo de esquemas de vinculación y asociación del sector educativo, público y privado, para impulsar la competitividad internacional del sector espacial;
 
-IX. Establecer los criterios de negociación orientados a garantizar transferencias tecnológicas benéficas, colaborando en la negociación de acuerdos internacionales y compras estratégicas del sector espacial con el fin de lograr la plena integración de México a la comunidad espacial mundial;
+IX. Establecer los criterios de negociación orientados a garantizar transferencias tecnológicas, colaborando en la negociación de acuerdos internacionales y compras estratégicas del sector espacial con el fin de lograr la plena integración de México en la comunidad espacial mundial;
 
-X. Fijar lineamientos de integración de tecnologías espaciales en aplicaciones de otros sectores económicos, conduciendo análisis de experiencias de otros países en la aplicación de tecnologías espaciales a las necesidades sociales insatisfechas para crear nuevos modelo (sic) de negocios basados en el desarrollo y la innovación tecnológica;
+X. Establecer lineamientos para la integración de tecnologías espaciales en aplicaciones de otros sectores económicos, mediante el análisis de experiencias de otros países para satisfacer las necesidades sociales para crear nuevos modelos de negocios basados en el desarrollo y la innovación tecnológica;
 
-XI. Determinar una estrategia integral orientada al efectivo desarrollo de actividades espaciales regionales a través de la generación de empresas derivadas de desarrollos tecnológicos espaciales y de la canalización de apoyos a las entidades activas en la materia para ampliar las capacidades del país en los ramos industrial y tecnológico en materia espacial, de manera regional;
+XI. Determinar una estrategia integral orientada al efectivo desarrollo de actividades espaciales regionales a través de la generación de empresas derivadas de desarrollos tecnológicos espaciales y de la canalización de apoyos a las entidades activas en la materia, para ampliar las capacidades del país en los ramos industrial y tecnológico en materia espacial;
 
-XII. Conducir la transferencia de las experiencias de los desarrollos espaciales a otros sectores de la economía del país mediante la investigación sistemática de publicaciones y patentes, el establecimiento de premios y concursos de aplicaciones sustentables para estimular otros segmentos de la economía con aplicaciones probadas en el sector espacial; y
+XII. Conducir la transferencia de las experiencias de los desarrollos espaciales a otros sectores de la economía del país, mediante la investigación sistemática de publicaciones y patentes, el establecimiento de estímulos y convocatorias para el desarrollo de aplicaciones sustentables para impulsar otros segmentos de la economía;
 
-XIII. Las demás que le confiera el presente Estatuto, las disposiciones aplicables y el (la) Director(a) General.
+XIII. Las demás que le confiera el presente Estatuto, las disposiciones aplicables y el (la) director(a) General.
 
 ###### Artículo 32.
 
 Corresponde a la Coordinación General de Asuntos Internacionales y Seguridad en Materia Espacial:
 
-> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2015)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-I. Disponer las negociaciones de acuerdos y tratados internacionales en materias relacionadas con las actividades espaciales; así como organizar y coordinar eventos, reuniones, talleres de trabajo y congresos relacionados con las actividades científicas, legales y técnicas en materia espacial.
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+I. Disponer las negociaciones de acuerdos y tratados internacionales en materias relacionadas con las actividades espaciales; así como organizar y coordinar eventos reuniones, talleres de trabajo y congresos relacionados con las actividades científicas, legales y técnicas en materia espacial;
 
 II. Conducir la revisión y validación de los proyectos de tratados bilaterales y multilaterales, y asesorar respecto de su implementación, así como en la interpretación de textos internacionales relativos a las actividades espaciales;
 
@@ -609,31 +761,71 @@ III. Conducir el establecimiento de mecanismos de fondeo mediante la coordinaci�
 
 IV. Conducir los procesos de planeación, evaluación de proyectos y desarrollo de sistemas de información y de gestión de la información en materia espacial, en coordinación con las unidades administrativas de la Agencia, a fin de impulsar su desarrollo en beneficio del sector de la industria, investigación espacial y desarrollo de capital humano en el sector espacial;
 
-V. Establecer las directrices y procedimientos para desarrollo, promoción e implantación de sistemas de información y de gestión de la información en materia espacial, mediante el análisis e identificación de necesidades que se deriven de los programas, proyectos y actividades institucionales a fin de garantizar la interoperabilidad e interconexión de la Agencia, sus instancias afines, las empresas, instituciones, y ciudadanía en general interesada en el tema para el desarrollo del sector espacial nacional en el ámbito internacional.
+V. Establecer las directrices y procedimientos para desarrollo, promoción e implantación de sistemas de información y de gestión de la información en materia espacial, mediante el análisis e identificación de necesidades que se deriven de los programas, proyectos y actividades institucionales a fin de garantizar la interoperabilidad e interconexión de la Agencia, sus instancias afines, las empresas, instituciones, y ciudadanía en general interesada en el tema para el desarrollo del sector espacial nacional en el ámbito internacional;
 
-VI. Desarrollar conocimiento en el sector espacial mediante el registro y almacenamiento de datos, agregándoles valor para generar información estratégica que impulse el sector espacial;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-VII. Establecer la política de seguridad en gestión de la información, mediante el uso de herramientas, procedimientos y planes de contingencia que permitan dar cumplimientos (sic) a lo establecido en la Ley de Transparencia respecto a la protección de datos personales, así como, a mantener el resguardo de la información estratégica de la Agencia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MARZO DE 2020)</small>
 
-VIII. Promover en el sector espacial el establecimiento de políticas y estándares en el uso de sistemas de información y de gestión de la información de clase internacional a fin de contar con las mejores prácticas que permitan hacer competitivas a sus empresas e instituciones hasta alcanzar los niveles de desarrollo de los países líderes en la materia;
+VI. Aprobar proyectos y en su caso desarrollo y/o implementación de aplicaciones de gestión de información en materia espacial mediante el análisis de las herramientas de apoyo para el desarrollo de las funciones de las unidades técnicas y administrativas de la Agencia Espacial Mexicana con la finalidad de asegurar que se encuentren alineados a los programas, proyectos y actividades institucionales;
 
-IX. Coordinar el flujo y acceso a los bancos de información con enfoque de servicio, a fin de que la Agencia promueva la socialización del conocimiento en materia espacial, mediante la sistematización, automatización y uso de medios de comunicación de vanguardia;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-X. Promover convenios de colaboración e intercambio de información con las empresas e instituciones del sector espacial nacional y con instancias gubernamentales de otros países para que la Agencia, garantice a sus usuarios información, útil, veraz, confiable y actualizada, en tiempo real y por medios informáticos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MARZO DE 2020)</small>
 
-XI. Las demás que le confiera el presente Estatuto, las disposiciones aplicables y el (la) Director(a) General.
+VII. Evaluar los proyectos interinstitucionales en materia espacial, en los cuales se requiera el uso de plataforma tecnológica y de redes de comunicación de la Agencia Espacial Mexicana, para facilitar la colaboración institucional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 23 DE MARZO DE 2020)</small>
+
+VIII. Desarrollar conocimiento en el sector espacial mediante el registro y almacenamiento de datos, agregándoles valor para generar información estratégica que impulse el sector espacial;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+IX. Establecer la política de seguridad en gestión de la información, mediante el uso de herramientas, procedimientos y planes de contingencia que permitan dar cumplimientos (sic) a lo establecido en la normatividad aplicable en la materia, así como, a mantener el resguardo de la información de la Agencia;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+X. Establecer en el sector espacial el establecimiento de políticas y estándares en el uso de sistemas de información y de gestión de la información a fin de contar con las mejores prácticas que permitan hacer competitivas a sus empresas e instituciones hasta alcanzar los niveles de desarrollo de los países líderes en la materia;
+
+XI. Coordinar el flujo y acceso a los bancos de información con enfoque de servicio, a fin de que la Agencia promueva la socialización del conocimiento en materia espacial, mediante la sistematización, automatización y uso de medios de comunicación de vanguardia;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+XII. Proponer convenios de colaboración e intercambio de información con las empresas e instituciones del sector espacial nacional y con instancias gubernamentales de otros países para que la Agencia, garantice a sus usuarios información, útil, veraz, confiable y actualizada, en tiempo real y por medios informáticos;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MARZO DE 2020)</small>
+
+XIII. Las demás que le confiera el presente Estatuto, las disposiciones aplicables y el (la) Director(a) General.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
 
 ###### Artículo 34.
 
-Los (las) servidores públicos de la Agencia, los (las) miembros de la Junta de Gobierno, y todas aquellas personas que por el desarrollo de la función que les sea encomendada, manejen información de carácter confidencial, estarán obligados a conservarla bajo su cuidado, impidiendo su uso, divulgación, sustracción, destrucción, ocultamiento o utilización indebida.
+Los (las) servidores(as) públicos(as) de la Agencia, los (las) miembros de la Junta de Gobierno, y todas aquellas personas que por el desarrollo de la función que les sea encomendada, manejen información de carácter confidencial, estarán obligados(as) a conservarla bajo su cuidado, impidiendo su uso, divulgación, sustracción, destrucción, ocultamiento o utilización indebida.
 
 ###### Artículo 35.
 
 El no acatamiento de lo dispuesto por el artículo anterior, dará lugar a las sanciones administrativas y legales previstas en la Ley Federal de Responsabilidades Administrativas de los (las) Servidores Públicos, y en otras disposiciones aplicables.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
 ###### Artículo 36.
 
-Los (las) servidores públicos deberán observar los valores, principios y reglas de actuación, contenidos en los Códigos de Etica y de Conducta que al efecto expida el (la) Director(a) General, a fin de cumplir con la misión y visión de la Agencia.
+Los (las) servidores públicos deberán observar los valores, principios y reglas de actuación, contenidos en los Códigos de Ética y de Conducta que al efecto expida el (la) Director(a) General, a fin de cumplir con la misión y visión de la Agencia.
 
 ###### Artículo 37.
 
@@ -647,53 +839,87 @@ III. Presidir los comités de adquisiciones, arrendamientos y servicios, obra p�
 
 IV. Disponer la atención de los órganos de control y fiscalización así como las instancias de auditoría externa asegurando que la Agencia cumpla con la entrega de la información requerida para las auditorías, en tiempo y forma, conforme a lo dispuesto en las disposiciones legales vigentes, y se dé atención a las confrontas de resultados, recomendaciones, y resolución de observaciones, para identificar las áreas de oportunidad y establecer conjuntamente con las coordinaciones generales las medidas necesarias para su mejora y adecuación;
 
-V. Disponer los procesos que garanticen a la ciudadanía el acceso a la información pública que se genere de acuerdo con lo establecido en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; la Ley Federal de Protección de Datos Personales y sus reglamentos a fin de que su atención y respuesta sean ágiles, eficientes y se cumplan los plazos legales en la materia;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-VI. Conducir la evaluación del desempeño de los (las) servidores públicos de la Agencia en conjunto con las coordinaciones generales, observando los lineamientos generales y específicos que difundan las áreas normativas y sectoriales para asegurar el cumplimiento de los objetivos y metas institucionales que le permita ser una institución productiva, orientada a resultados y de cumplimiento de la planeación estratégica;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
 
-VII. Conducir la evaluación del desempeño de los (las) servidores públicos de la Agencia en conjunto con las coordinaciones generales, observando los lineamientos generales y específicos que difundan las áreas normativas y sectoriales para asegurar el cumplimiento de los objetivos y metas institucionales que le permita ser una institución productiva, orientada a resultados y de cumplimiento de la planeación estratégica;
+V. Disponer los procesos que garanticen a la ciudadanía el acceso a la información pública que se genere de acuerdo con lo establecido en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; la Ley Federal de Protección de Datos Personales y sus reglamentos y demás normatividad aplicable; a fin de que su atención y respuesta sean ágiles, eficientes y se cumplan los plazos legales en la materia;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+VI. Conducir la evaluación del desempeño de los (las) servidores(as) públicos(as) de la Agencia en conjunto con las coordinaciones generales, observando los lineamientos generales y específicos que difundan las áreas normativas y sectoriales para asegurar el cumplimiento de los objetivos y metas institucionales que le permita ser una institución productiva, orientada a resultados y de cumplimiento de la planeación estratégica;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+VII. Dirigir, coordinar y supervisar los procesos contables y presupuestales, de acuerdo a la normatividad aplicable en la materia, a fin de verificar el estado financiero y presupuestal de la institución, que permita una adecuada toma de decisiones;
 
 VIII. Fomentar la coordinación con instituciones de educación superior para establecer programas de servicio social y prácticas profesionales, acciones de capacitación y de educación profesional y de postgrado para el personal de la Agencia;
 
 IX. Tramitar la contratación de servicios profesionales bajo el régimen de honorarios o de personal eventual para el cumplimiento de los programas a cargo de la Agencia, de acuerdo con las disposiciones jurídicas aplicables;
 
-X. Administrar la documentación e información relacionada con el personal de la Agencia y resguardar los datos personales, en términos de las disposiciones jurídicas aplicables; y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
 
-XI. Las demás que sean a fines a las señaladas en las fracciones que anteceden, cumpliendo en todo momento con la normatividad vigente y las que le encomiende expresamente el (la) Director(a) General.
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+X. Administrar la documentación e información relacionada con el personal de la Agencia y resguardar los datos personales, en términos de las disposiciones jurídicas aplicables;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MARZO DE 2020)</small>
+
+XI. Dirigir y supervisar los procesos de los Recursos Materiales y Servicios Generales, así como los relativos a las adquisiciones, arrendamientos y obra pública, mediante la aplicación de la normatividad correspondiente, a fin de suministrar todos los bienes y servicios generales requeridos por la institución; así como suscribir los acuerdos, contratos, convenios y demás actos e instrumentos jurídicos en materia de adquisiciones, arrendamientos de bienes muebles e inmuebles, prestación de servicios y cualquier otro que implique actos de administración;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MARZO DE 2020)</small>
+
+XII. Certificar los documentos que obren en los archivos de la Dirección de Administración de la entidad; y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+XIII. Las demás que le confiera el presente Estatuto, las disposiciones aplicables y el (la) Director(a) General.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
 
 ###### Artículo 38.
 
 Corresponde a la Dirección de Asuntos Jurídicos:
 
-I. Conducir procesos normativos y contenciosos relativos a los actos jurídicos que celebre la entidad en el ámbito nacional que se deriven de su funcionamiento y actividades, llevando a cabo las actividades necesarias para su logro conforme a sus atribuciones para la defensa y protección de los intereses jurídicos de la entidad;
+I. Conducir procesos normativos y contenciosos relativos a los actos jurídicos que celebre la entidad en el ámbito nacional que deriven de su funcionamiento y actividades, llevando a cabo las actividades necesarias para su logro conforme a sus atribuciones para la defensa y protección de los intereses jurídicos de la entidad;
 
 II. Colaborar en la resolución de opiniones jurídicas que se requieran para apoyar al titular de la Agencia así como a sus unidades administrativas en el ejercicio de sus atribuciones en el ámbito nacional, así como en cuestiones relacionadas con la regulación de actividades espaciales en respuesta a consultas que formulen las unidades administrativas a la coordinación general, mediante la emisión de las mismas, previa evaluación de dichas atribuciones y actividades, a efecto de otorgar certeza en su actuación;
 
-III. Establecer criterios jurídicos relativos a la interpretación y aplicación de disposiciones jurídicas que sean competencia de la Agencia así como de aquellas que regulen su funcionamiento fijando el alcance de dichas disposiciones para su adecuada aplicación y disponiendo el acceso a dichos criterios por parte de los (las) servidores públicos que se determinen y que resulten involucrados, a fin de garantizar que la actuación de las unidades administrativas se apegue a lo previsto en la legislación aplicable;
+III. Establecer criterios jurídicos relativos a la interpretación y aplicación de disposiciones jurídicas que sean competencia de la Agencia así como de aquellas que regulen su funcionamiento fijando el alcance de dichas disposiciones para su adecuada aplicación y disponiendo el acceso a dichos criterios por parte de los (las) servidores(as) públicos(as) que se determinen y que resulten involucrados, a fin de garantizar que la actuación de las unidades administrativas se apegue a lo previsto en la legislación aplicable;
 
-IV. Colaborar en la elaboración y revisión de anteproyectos de modificaciones a disposiciones legales y reglamentarias así como en la formulación de disposiciones administrativas en materia espacial y las relativas al mejor funcionamiento de la Agencia, mediante el establecimiento del proyecto correspondiente que incluya la adecuación del documento a la técnica jurídica necesaria para su mejor entendimiento con el fin de contar con ordenamientos legales adecuados a las funciones de la entidad;
+IV. Colaborar en la elaboración y revisión de anteproyectos de leyes o de modificaciones, incluyendo las reglamentarias, así como en la formulación de disposiciones administrativas en materia espacial y las relativas al mejor funcionamiento de la Agencia, mediante el establecimiento del proyecto correspondiente que incluya la adecuación del documento a la técnica jurídica necesaria para su mejor entendimiento con el fin de contar con ordenamientos legales adecuados a las funciones de la entidad.;
 
-V. Asesorar y colaborar en la revisión de convenios, contratos y demás actos jurídicos en los que intervenga la entidad en el ámbito de su competencia a nivel nacional de manera previa a su formalización mediante la evaluación de los aspectos legales que contengan, a fin de asegurar los intereses jurídicos de la entidad, así como disponer su registro y resguardo, a fin de preservar y otorgar certidumbre jurídica a la entidad;
+V. Asesorar y colaborar en la revisión de convenios, contratos y demás actos jurídicos en los que intervenga la entidad en el ámbito de su competencia, de manera previa a su formalización mediante la evaluación de los aspectos legales que contengan, a fin de asegurar los intereses jurídicos de la entidad, así como disponer su registro y resguardo, con el objeto de preservar y otorgar certidumbre jurídica a la entidad;
 
-VI. Determinar jurídicamente sobre la interpretación, terminación y demás aspectos jurídicos de los contratos, convenios e instrumentos jurídicos celebrados en el ámbito nacional por la Agencia y que le sean encomendados, mediante la evaluación y detección de los aspectos legales que resulten determinantes para lograr una protección legal adecuada de los intereses de la entidad;
+VI. Determinar jurídicamente sobre la interpretación, terminación y demás aspectos jurídicos de los contratos, convenios e instrumentos jurídicos celebrados por la Agencia y que le sean encomendados, mediante la evaluación y detección de los aspectos legales que resulten determinantes para lograr una protección legal adecuada de los intereses de la entidad;
 
 VII. Disponer el registro y resguardo de los instrumentos jurídicos que celebre la entidad a nivel nacional con otras instituciones o dependencias y entidades de la administración pública federal o estatal, mediante el establecimiento de criterios para su clasificación y ubicación, a fin de llevar un adecuado control de los mismos, así como establecer el compendio de la normatividad aplicable en materia espacial con el fin de permitir el acceso y consulta pública a las personas interesadas;
 
-VIII. Resolver consultas en materia jurídica en respuesta a las consultas que formulen las instituciones y dependencias de los tres órdenes de gobierno sobre problemas relativos a concesiones, permisos o autorizaciones de uso, desarrollo y aplicaciones tecnológicas en materia espacial, mediante la evaluación normativa y regulatoria correspondiente, para lograr certeza y congruencia jurídica en el ámbito interinstitucional e intergubernamental respecto de la resolución de los aspectos que se planteen;
+VIII. Resolver las consultas que formulen las diferentes unidades técnicas y administrativas; mediante la evaluación normativa y regulatoria correspondiente, para lograr certeza y congruencia jurídica respecto de la resolución de los aspectos que se planteen;
 
-IX. Asesorar desde el punto de vista jurídico en los procedimientos de licitaciones públicas y excepciones previstos en la legislación aplicable en materia de adquisiciones, arrendamientos y prestación de servicios, así como de obra pública que lleven a cabo las unidades administrativas de la entidad mediante la proposición y/o establecimiento de alternativas legales a seguir en dichos procedimientos que permitan llevarlos con certeza jurídica, así como proponer o fijar el contenido jurídico de las garantías a ser constituidas en los procedimientos por parte de los proveedores y contratistas para preservar y proteger los intereses legales de la entidad;
+IX. Asesorar desde el punto de vista jurídico en los procedimientos de licitaciones públicas y excepciones previstos en la legislación aplicable en materia de adquisiciones, arrendamientos y prestación de servicios, así como de obra pública que lleven a cabo las unidades administrativas de la entidad mediante la proposición y/o establecimiento de alternativas legales a seguir en dichos procedimientos que den certeza jurídica, así como proponer o fijar el contenido jurídico de las garantías a ser constituidas en los procedimientos por parte de los proveedores y contratistas para preservar y proteger los intereses legales de la entidad;
 
-X. Conducir la actuación y sustanciación de toda clase de juicios, procedimientos administrativos e investigaciones ante los tribunales y autoridades federales y locales competentes en los que la Agencia sea parte, ejercitando las acciones, excepciones y defensas, así como presentando denuncias o querellas en el ámbito de la competencia de la Agencia, para la protección y defensa de los intereses de la Agencia, mediante el seguimiento oportuno de la sustanciación de dichos procedimientos e informar sobre las actividades realizadas y resultados obtenidos en los procedimientos respectivos;
+X. Conducir la actuación y sustanciación de toda clase de juicios, procedimientos administrativos ante los tribunales y autoridades federales y locales competentes en los que la Agencia sea parte, ejercitando las acciones, excepciones y defensas, así como presentando denuncias o querellas en el ámbito de la competencia de la Agencia, para la protección y defensa de los intereses de la Agencia, mediante el seguimiento oportuno de la sustanciación de dichos procedimientos e informar sobre las actividades realizadas y resultados obtenidos en los procedimientos respectivos;
 
 XI. Fijar la estrategia y mecanismos necesarios para la atención oportuna de los asuntos contenciosos a su cargo estableciendo controles adecuados para el desahogo de los mismos de acuerdo a su prioridad, según se encuentren sujetos a término o que por su importancia revistan un carácter urgente, para la defensa y protección de los intereses de la entidad;
 
-XII. Colaborar en la conducción de procesos para dar cumplimiento a las acciones relacionadas con transparencia y acceso a la información pública gubernamental, combate a la corrupción y rendición de cuentas así como de los programas gubernamentales con los que tenga que cumplir la Agencia, mediante la detección de irregularidades y el seguimiento a dichos procesos para asegurar la sujeción a lo dispuesto en la legislación aplicable;
+XII. Certificar los documentos que obren en los archivos de la Dirección de Asuntos Jurídicos de la entidad; y
 
-XIII. Establecer criterios y mecanismos para la clasificación de la información que obra en poder de la entidad, de conformidad con lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, su reglamento y los lineamientos que resulten aplicables, mediante la emisión de reglas claras para los servidores públicos de la entidad, a fin de garantizar la protección y el debido manejo de dicha información y documentos relacionados; y
+XIII. Las demás que le confiera el presente Estatuto, las disposiciones aplicables y el (la) Director(a) General.
 
-XIV. Las demás que sean afines a las señaladas en las fracciones que anteceden, cumpliendo en todo momento con la normatividad vigente y las que le encomiende expresamente el (la) Director(a) General.
-
-### CAPITULO VIII. DE LAS ATRIBUCIONES Y FUNCIONES DE LAS UNIDADES TECNICAS DE LA AGENCIA
+### CAPITULO IX. DEL CONSEJO CONSULTIVO
 
 ###### Artículo 39.
 
@@ -723,9 +949,13 @@ Los(a) (sic) integrantes del Consejo Consultivo no percibirán retribución, emo
 
 Los(a) (sic) integrantes del Consejo Consultivo incluyendo su presidencia, se renovarán cada tres años, con posibilidad de un periodo adicional.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
 ###### Artículo 46.
 
-El Consejo Consultivo sesionará por lo menos una vez por año a petición de su Presidente o del (la) Director(a) General, las sesiones se celebrarán con los miembros Titulares asistentes ya que no se aceptarán representaciones, y los acuerdos se tomarán por mayoría; su organización será definida por la mayoría de los miembros presentes en la primera sesión del Consejo Consultivo.
+El Consejo Consultivo sesionará por lo menos una vez por año a petición de su Presidente(a) o del (la) Director(a) General, las sesiones se celebrarán con los(as) miembros Titulares asistentes ya que no se aceptarán representaciones, y los acuerdos se tomarán por mayoría; su organización será definida por la mayoría de los(as) miembros presentes en la primera sesión del Consejo Consultivo.
 
 ###### Artículo 47.
 
@@ -745,7 +975,11 @@ VI. Atender las consultas y formular las opiniones que le sean solicitadas por e
 
 VII. Contribuir en el impulso y promoción de las acciones, políticas públicas, programas y proyectos en materia espacial;
 
-VIII. Integrar comités y subcomités técnicos para el estudio y resolución de temas que le encomiende la Agencia o el Organo de Gobierno.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2020)</small>
+
+VIII. Integrar comités y subcomités técnicos para el estudio y resolución de temas que le encomiende la Agencia o el Órgano de Gobierno.
 
 IX. Solicitar información sobre los temas y desarrollo de las investigaciones que se lleven a cabo en la Agencia;
 
@@ -763,11 +997,15 @@ El (La) Presidente(a) del Consejo Consultivo comunicará al (la) Director(a) Gen
 
 El (La) Director(a) General informará de los resultados alcanzados por la Agencia con la participación del Consejo Consultivo.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
 ###### Artículo 50.
 
-El (La) Presidente(a) del Consejo Consultivo podrá ser suplido por quien designe la Junta de Gobierno de manera permanente, a petición de la mayoría de los miembros titulares del Consejo Consultivo, a petición del (la) Director(a) General, o por petición del(a) propio(a) Presidente(a), cuando concurran causas fundadas y motivadas que afecten el desempeño del Consejo.
+El (La) Presidente(a) del Consejo Consultivo podrá ser suplido por quien designe la Junta de Gobierno de manera permanente, a petición de la mayoría de los(as) miembros titulares del Consejo Consultivo, a petición del (la) Director(a) General, o por petición del(a) propio(a) Presidente(a), cuando concurran causas fundadas y motivadas que afecten el desempeño del Consejo.
 
-### CAPITULO IX. DEL CONSEJO CONSULTIVO
+### CAPITULO X. DE LOS COMITES Y SUBCOMITES TECNICOS
 
 ###### Artículo 51.
 
@@ -781,9 +1019,13 @@ Para la conformación de los Comités y Subcomités Técnicos, podrá invitarse 
 
 Los Comités y Subcomités Técnicos podrán establecerse con carácter de permanentes o por tiempo determinado. Serán permanentes los que para cumplir sus objetivos requieran de un estudio continuo e ininterrumpido. Serán por tiempo determinado los designados para un asunto específico, y durarán el tiempo necesario para el cumplimiento de su objetivo.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
 ###### Artículo 54.
 
-Los Comités y Subcomités Técnicos, elegirán a una persona de entre sus integrantes para que funja como Coordinador, y será el responsable de su funcionamiento y fungirá, además, de enlace con el (la) Director(a) General.
+Los Comités y Subcomités Técnicos, elegirán a una persona de entre sus integrantes para que funja como Coordinador(a), y será el(la) responsable de su funcionamiento y fungirá, además, de enlace con el (la) Director(a) General.
 
 ###### Artículo 55.
 
@@ -793,23 +1035,31 @@ Los Comités y Subcomités Técnicos emitirán recomendaciones y podrán ser ado
 
 Las recomendaciones de los Comités y Subcomités Técnicos se entregarán al (la) Director(a) General de la Agencia, quien los presentará ante la Junta para su consideración y en su caso aprobación.
 
-### CAPITULO X. DE LOS COMITES Y SUBCOMITES TECNICOS
+### CAPITULO XI. DE LA SUPLENCIA
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MARZO DE 2020)</small>
 
 ###### Artículo 57.
 
-El (La) Director(a) General será suplido en sus ausencias temporales por el (la) Coordinador(a) General de Financiamiento, y Gestión de la Información en Materia Espacial; por el (la) Coordinador(a) General de Formación de Capital Humano en el Campo Espacial; por el (la) Coordinador(a) General de Investigación Científica y Desarrollo Tecnológico Espacial; por el (la) Coordinador General de Desarrollo Industrial, Comercial y Competitividad en el Sector Espacial; y por el (la) Coordinador(a) General de Asuntos Internacionales y Seguridad en Materia Espacial, en el orden mencionado. Las ausencias de los titulares de las Coordinaciones, serán suplidas por los (las) servidores(as) públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
+El (La) Director(a) General será suplido en sus ausencias temporales por el (la) Coordinador(a) General de Financiamiento, y Gestión de la Información en Materia Espacial; por el (la) Coordinador(a) General de Formación de Capital Humano en el Campo Espacial; por el (la) Coordinador(a) General de Investigación Científica y Desarrollo Tecnológico Espacial; por el (la) Coordinador General de Desarrollo Industrial, Comercial y Competitividad en el Sector Espacial; y por el (la) Coordinador(a) General de Asuntos Internacionales y Seguridad en Materia Espacial, en el orden mencionado. Las ausencias de los(as) titulares de las Coordinaciones, serán suplidas por los (las) servidores(as) públicos(as) del nivel jerárquico inmediato inferior que de ellos(as) dependan, en los asuntos de sus respectivas competencias.
 
 En asuntos ante autoridades administrativas o judiciales y para absolver posiciones ante los tribunales respectivos, el (la) Director(a) General será suplido(a) y representado(a) por el (la) Director(a) de Asuntos Jurídicos.
 
 El (La) Director(a) de Administración y el (la) Director(a) de Asuntos Jurídicos suplirán en su ausencia al (la) Director(a) General en los asuntos de índole laboral.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
+Las ausencias del (la) Director(a) de Administración y el (la) Director(a) de Asuntos Jurídicos serán suplidas por los (las) servidores(as) públicos del nivel jerárquico inmediato inferior que de ellos(as) dependan, en los asuntos de sus respectivas competencias.
 
 ###### Artículo 58.
 
 Las ausencias del(a) Titular del Organo Interno de Control serán suplidas por los (las) servidores públicos mencionados en los términos establecidos en el Reglamento Interior de la Secretaría de la Función Pública.
 
 ### CAPITULO XII. DISPOSICIONES FINALES
-
-### CAPITULO XI. DE LA SUPLENCIA
 
 ###### Artículo 59.
 
@@ -833,4 +1083,32 @@ México, D.F., a 16 de noviembre de 2012.- El Director General de la Agencia Esp
 
 D.O.F. 10 DE ABRIL DE 2015.
 
-ÚNICO.- Las presentes modificaciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2020)</small>
+
+ÚNICO.- Las modificaciones al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MARZO DE 2020.
+
+(N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO POR EL CUAL SE DA A CONOCER EL DOCUMENTO EN DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA AGENCIA ESPACIAL MEXICANA.]
+
+Al margen un logotipo, que dice: Secretaría de Comunicaciones y Transportes.- Agencia Espacial Mexicana.
+
+SALVADOR LANDEROS AYALA, Director General de la Agencia Espacial Mexicana en cumplimiento a lo dispuesto por el artículo 4 de la Ley Federal de Procedimiento Administrativo; 58 fracción VIII de la Ley Federal de Entidades Paraestatales, artículos 9 fracción XII y 12 fracción X y XII de la Ley que crea la Agencia Espacial Mexicana y artículo 60 del Estatuto Orgánico de la Agencia Espacial Mexicana; y por lo ordenado en el Acuerdo número 03/Ext.02/29-10-18/S aprobado por la Junta de Gobierno de la Agencia Espacial Mexicana en su Segunda Sesión Extraordinaria del año 2018, celebrada el día 29 de Octubre de 2018; se publica en el Diario Oficial de la Federación las modificaciones al Estatuto Orgánico de la Agencia Espacial Mexicana.
+
+El Estatuto Orgánico de la Agencia Espacial Mexicana tiene como propósito describir de forma ordenada y sistemática la estructura orgánica autorizada y organización básica; funciones y atribuciones de los puestos de mando.
+
+Las modificaciones del Estatuto Orgánico de la Agencia Espacial Mexicana se pone a disposición de manera digital en las siguientes direcciones electrónicas:
+
+https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf
+
+www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/518209/Estatuto_Organico_Actualizado.pdf Y www.dof.gob.mx/2020/SCT/Estatuto_Organico.pdf.]</small>
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA AGENCIA ESPACIAL MEXICANA.”.]
+
+PRIMERO.- El (La) Director (a) General inscribirá las modificaciones al Estatuto en el Registro Público de Organismos Descentralizados, en los términos de la Ley Federal de Entidades Paraestatales.
+
+SEGUNDO.- Las modificaciones al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
