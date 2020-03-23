@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2019-10-07"
+last_updated: "2020-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MARZO DE 2020 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2020.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -175,7 +177,7 @@ VI. Comisión del Servicio: La Comisión del Servicio Profesional de Carrera Pol
 
 VII. Consejo Estatal: El Consejo Estatal de Seguridad Pública;
 
-VIII. Consejo Ciudadano: El Consejo Ciudadano de Seguridad Pública;
+VIII. (DEROGADA, P.O. 23 DE MARZO DE 2020)
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -193,7 +195,9 @@ XIV. Estado: El Estado Libre y Soberano de Hidalgo;
 
 XV. Instituto: El Instituto de Formación Profesional dependiente de la Secretaría de Seguridad Pública del Estado;
 
-XVI. Instituciones Policiales: Los Cuerpos de Seguridad Pública Estatal y los Cuerpos Preventivos de Seguridad Pública Municipal, de Investigación y la Policía Industrial Bancaria del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+XVI. Instituciones Policiales: Los Cuerpos de Seguridad Pública Estatal y los Cuerpos Preventivos de Seguridad Pública Municipal y de Investigación;
 
 XVII. Instituciones de Seguridad Pública: Las Dependencias encargadas de la Seguridad Pública del orden Federal, Estatal y Municipal que realicen dichas funciones, que incluye a las Instituciones Policiales;
 
@@ -249,7 +253,9 @@ I. Los integrantes de las Dependencias encargadas de la Seguridad Pública Estat
 
 II. Los integrantes de las Instituciones de Seguridad Pública Municipal;
 
-III. El personal operativo de la Policía Industrial Bancaria del Estado de Hidalgo, como un organismo complementario; y,
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+III. El personal operativo de la Policía Industrial Bancaria del Estado de Hidalgo, como integrantes de un Organismo Descentralizado, sectorizado a la Secretaría de Seguridad Pública del Estado; y,
 
 IV. El personal operativo de los organismos auxiliares.
 
@@ -301,9 +307,13 @@ a) Prevención del delito;
 
 b) Reinserción social;
 
-c) Internamiento y adaptación de adolescentes infractores;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
 
-V. La Policía Industrial Bancaria del Estado de Hidalgo; y
+c) Internamiento de adolescentes a quienes se les atribuya o que resulten responsables de la comisión de hechos tipificados como delito;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+V. La Policía Industrial Bancaria del Estado de Hidalgo, cuando sus acciones se vinculen con la seguridad pública; y
 
 VI. Los demás organismos auxiliares en la materia.
 
@@ -503,11 +513,17 @@ V. El Comandante de la 18/va Zona Militar;
 
 VI. El Delegado de la Fiscalía General de la República en el Estado;
 
-VII. El Coordinador Estatal de la Policía Federal;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
 
-VIII. El Delegado del Centro de Investigación y Seguridad Nacional;
+VII. El Coordinador Estatal de la Guardia Nacional,
 
-IX. El Subsecretario del Centro de Información y Seguridad del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+VIII. El Jefe de Estación del Centro Nacional de Inteligencia en Hidalgo;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+
+IX. El Coordinador General del Centro (sic) Información y Seguridad Estatal;
 
 X. El Presidente de la Comisión encargada de la Seguridad Pública y justicia del Poder Legislativo del Estado; y,
 
@@ -847,9 +863,9 @@ a) Mando supremo, que lo tendrá el ejecutivo de la Entidad sobre las fuerzas de
 
 b) Alto Mando, que estará a cargo del Ministerio Público de la Entidad sobre aquéllas, en términos de lo señalado por los artículos 21 de la Constitución Federal, 92 Bis de la Constitución Estatal y demás normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
 
-c) Mando superior, que lo ejercerá la persona Titular de la Secretaría sobre las instituciones policiales de la misma.
+c) Mando superior, que lo ejercerá la persona Titular de la Secretaría sobre las instituciones y cuerpos policiales de la misma.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -1157,19 +1173,21 @@ IV. Auxiliar en los términos de ésta y otras leyes, a los poderes legislativo 
 
 V. Las demás que le confieran ésta y otras leyes.
 
-C. Policía Industrial Bancario.
+C). (DEROGADO, P.O. 23 DE MARZO DE 2020)
 
-I. Brindar servicio de protección y vigilancia a personas, bienes muebles e inmuebles, lugares y establecimientos públicos y privados;
+I. (DEROGADA, P.O. 23 DE MARZO DE 2020)
 
-II. Custodiar y trasladar bienes muebles y valores;
+II. (DEROGADA, P.O. 23 DE MARZO DE 2020)
 
-III. Capacitarse permanentemente de acuerdo al grado y puesto que corresponda;
+III. (DEROGADA, P.O. 23 DE MARZO DE 2020)
 
-IV. Ofrecer capacitación especializada en seguridad, a los organismos y empresas públicas y privadas; y,
+IV. (DEROGADA, P.O. 23 DE MARZO DE 2020)
 
-V. Las demás que confiera su Estatuto, esta ley y otros ordenamientos.
+V. (DEROGADA, P.O. 23 DE MARZO DE 2020)
 
-Cuando por razones de lugar, hora y circunstancias, los Policías Preventivos Estatales, Municipales o Policía Industrial Bancario, sean los primeros en conocer de un hecho delictuoso, deberán realizar las acciones previstas en el presente Artículo, apartado A, en las fracciones II, III, IV, V, VI, X, XI, XII, XIII, XVI, XVII y XVIII, hasta que el Ministerio Público o los Policías de Investigación intervengan. Cuando estos últimos tomen conocimiento, les informarán de lo actuado y les entregarán los instrumentos, objetos y evidencias materiales que hayan asegurado y elaborarán un registro fidedigno de lo ocurrido.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
+
+Cuando por razones de lugar, hora y circunstancias, los policías preventivos estatales o municipales sean los primeros en conocer un hecho delictuoso, deberán realizar las acciones previstas en el presente Artículo, apartado A, en las fracciones II, III, IV, V, VI, X, XI, XII, XIII, XVI, XVII y XVIII, hasta que el Ministerio Público o los Policías de Investigación intervengan. Cuando estos últimos tomen conocimiento, les informarán de lo actuado y les entregarán los instrumentos, objetos (sic) Ley de Seguridad Pública para el Estado de Hidalgo. Instituto de Estudios Legislativos. 30 (sic) y evidencias materiales que hayan asegurado y elaborarán un registro fidedigno de lo ocurrido.
 
 D. Policía Penitenciario. Los agentes de seguridad y custodia de los centros de reinserción social y de internamiento para adolescentes, además de las obligaciones establecidas en la presente Ley, tendrán las siguientes:
 
@@ -1791,9 +1809,9 @@ IV. Poligráfico; y
 
 V. Los demás que establezcan las normas aplicables.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
 
-Los exámenes a los que se refiere las fracciones anteriores, se valorarán en conjunto, el contenido de los expedientes y reportes de resultados derivados de los procesos de evaluación, tendrán el carácter de información confidencial y reservada, en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo.
+Los exámenes a los que se refiere las fracciones anteriores, se valorarán en conjunto, el contenido de los expedientes y reportes de resultados derivados de los procesos de evaluación, tendrán el carácter de información confidencial y reservada, en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -1997,9 +2015,13 @@ a) Recursos Humanos;
 
 b) Servicio Profesional de Carrera; e
 
-c) Instituto de Formación Profesional.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
 
-Todos los integrantes de la Comisión de Honor tendrán derecho a voz y voto.
+c) Órgano Interno de Control.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
+
+Todos los integrantes de la Comisión de Honor tendrán derecho a voz y voto, a excepción de la o el representante del Órgano Interno de Control quien solo tendrá derecho a voz.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -3112,3 +3134,11 @@ P.O. 7 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 211 QUE REFORMA ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 391 QUE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los procedimientos de honor y justicia que hayan sido iniciados antes de la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Seguridad Pública para el Estado de Hidalgo publicado en el Periódico Oficial del Estado de Hidalgo del 07 (siete) de octubre del 2019 (dos mil diecinueve), se resolverán conforme a las disposiciones legales aplicables al momento de la comisión de los hechos que les dieron origen.
