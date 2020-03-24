@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cambio-climatico-para-el-estado-de-san-luis-potosi-10973
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2019-10-03"
+last_updated: "2020-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2015.
 
@@ -169,7 +169,9 @@ a) Alcanzar una tasa neta de deforestación cero en un máximo de cinco años.
 
 b) Mejorar la cobertura vegetal en el cincuenta porciento (sic) del área destinada para uso ganadero.
 
-c) Desarrollar incentivos económicos y fiscales para impulsar el desarrollo y consolidación de industrias y empresas socialmente responsables con el medio ambiente.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
+
+c) Desarrollar incentivos económicos y fiscales para impulsar el desarrollo y consolidación de industrias y empresas socialmente responsables con el medio ambiente; así como incentivos a la inversión tanto pública como privada en la generación de energía eléctrica proveniente de fuentes renovables y tecnologías de cogeneración eficiente.
 
 d) Fortalecer el combate de incendios forestales; promover e incentivar la reducción gradual de la quema de caña de azúcar, y de prácticas de roza, tumba y quema.
 
@@ -790,3 +792,11 @@ P.O. 3 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0645.- SE REFORMA EL ARTÍCULO 9º EN SU FRACCIÓN I EL INCISO C), DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ."]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
