@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-jovenes-en-la-ciudad-de-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-13"
-last_updated: "2020-01-23"
+last_updated: "2020-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109366&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de agosto de 2015.
 
@@ -1834,7 +1834,7 @@ Dicho Fondo tendrá el objetivo de apoyar iniciativas juveniles autónomas, que 
 
 ### CAPÍTULO IV. DEL PREMIO DE LA JUVENTUD DE LA CIUDAD DE MÉXICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2020)</small>
 
 ###### Artículo 159.
 
@@ -1842,35 +1842,23 @@ El Premio de la Juventud de la Ciudad de México será convocado una vez al año
 
 El premio de la Juventud de la Ciudad de México se otorgará en las siguientes distinciones:
 
-> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
+1) Mérito académico;
 
-I. Promoción y desarrollo de actividades académicas, científicas, tecnológicas, profesionales y de innovación;
+2) Mérito artístico;
 
-> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
+3) Mérito deportivo;
 
-II. Promoción y desarrollo de actividades recreativas, culturales, artísticas, de expresión musical y diseño gráfico;
+4) Mérito cívico, político o ambiental, y
 
-> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
+5) Mérito por la promoción y defensa de los derechos humanos.
 
-III. Promoción y desarrollo de disciplinas mentales y deportivas;
+Con la finalidad de reconocer los méritos de las personas jóvenes de todas las edades, se tendrá que observar las siguientes categorías, en cada una de las distinciones:
 
-> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
+Categoría A: De 12 a 17 años;
 
-IV. Mérito cívico, político y labor social;
+Categoría B: De 18 a 23 años, y
 
-> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2019)</small>
-
-V. Ambiental y de salud pública;
-
-VI. Promoción y defensa de los derechos humanos;
-
-> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2019)</small>
-
-VII. Promoción y Fortalecimiento de los usos y costumbres de los pueblos y barrios originarios y comunidades indígena (sic) residentes; y
-
-> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2019)</small>
-
-VIII. Reciclaje comunitario y fortalecimiento de imagen urbana y patrimonio cultural.
+Categoría C: De 24 a 29 años.
 
 > <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2019)</small>
 
@@ -1878,13 +1866,15 @@ VIII. Reciclaje comunitario y fortalecimiento de imagen urbana y patrimonio cult
 
 Los órganos encargados de emitir la convocatoria y las bases respectivas serán el Instituto en coordinación con el Consejo del Instituto y la Comisión de la Juventud del Congreso de la Ciudad de México, emitiendo la misma el primer trimestre del año, para ser entregado el 12 de agosto del mismo ejercicio fiscal que se convoque.
 
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2020)</small>
+
 ###### Artículo 161.
 
 El órgano encargado de evaluar las propuestas para este premio, será un Jurado Calificador, el cual estará compuesto por:
 
 I. La persona titular del Instituto de la Juventud;
 
-II. Cinco integrantes del Consejo Joven;
+II. Un representante del Consejo Joven, quien será designado por sus integrantes y bajo el procedimiento que ellos estipulen;
 
 III. Un representante de la Universidad Nacional Autónoma de México;
 
@@ -1892,19 +1882,13 @@ IV. Un representante de la Universidad Autónoma Metropolitana;
 
 V. Un representante de la Universidad Autónoma de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
+VI. Un representante del Instituto Politécnico Nacional; y
 
-VI. Un representante del Instituto Politécnico Nacional;
-
-> <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2019)</small>
-
-VII. Un representante del Instituto Mexicano de la Juventud; y
-
-> <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2019)</small>
+VII. Un representante del Instituto Mexicano de la Juventud.
 
 VIII. La o el Presidente de la Comisión de la Juventud del Congreso de la Ciudad de México.
 
-El presidente del Jurado Calificador será el titular del Instituto, quien será el responsable de convocar a las sesiones.
+El presidente del Jurado Calificador será el o la Titular del Instituto, quien será el responsable de convocar a las sesiones.
 
 ###### Artículo 162.
 
@@ -1914,11 +1898,11 @@ El Jurado sesionará válidamente, tomará decisiones, dictaminará y votará co
 
 Las personas que integran el jurado están obligadas a guardar reserva sobre los asuntos de que conozcan en el ejercicio de sus funciones.
 
-> <small>(REFORMADO, G.O. 19 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2020)</small>
 
 ###### Artículo 164.
 
-El Premio de la Juventud de la Ciudad de México será entregado en sesión solemne que deberá celebrarse, con este único objeto, el 12 de agosto de cada año ante el pleno del Congreso de la Ciudad de México.
+El Premio de la Juventud de la Ciudad de México será entregado en sesión solemne que deberá celebrarse, con este único objeto, ante el pleno del Congreso de la Ciudad de México, durante el primer periodo de sesiones ordinarias, de cada año legislativo.
 
 ###### Artículo 165.
 
@@ -1991,6 +1975,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.O. 23 DE ENERO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 23, 25, 29 Y 30 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 24 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 159, 161 Y 164 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
 
