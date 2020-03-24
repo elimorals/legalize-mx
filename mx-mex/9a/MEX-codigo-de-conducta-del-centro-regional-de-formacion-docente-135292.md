@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-centro-regional-de-formacion-docente-135
 country: "mx"
 rank: "codigo"
 publication_date: "2019-04-04"
-last_updated: "2019-04-04"
+last_updated: "2020-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL CENTRO REGIONAL DE FORMACION DOCENTE E INVESTIGACION EDUCATIVA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL CENTRO REGIONAL DE FORMACIÓN DOCENTE E INVESTIGACIÓN EDUCATIVA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 24 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL CENTRO REGIONAL DE FORMACIÓN DOCENTE E INVESTIGACIÓN EDUCATIVA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MARZO DE 2020 (ABROGADO).
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de México, el jueves 4 de abril de 2019.
 
@@ -418,3 +420,15 @@ Y para que conste firmo la presente el día de mes de 2018
 ATENTAMENTE
 
 c.c.p Secretaría de la Contraloría
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 24 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL CENTRO REGIONAL DE FORMACIÓN DOCENTE E INVESTIGACIÓN EDUCATIVA".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Código de Conducta para los Servicios Públicos del Centro Regional de Formación Docente e Investigación Educativa publicado en fecha 4 de abril del año 2019, en el Periódico Oficial "Gaceta del Gobierno", así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Acuerdo.
