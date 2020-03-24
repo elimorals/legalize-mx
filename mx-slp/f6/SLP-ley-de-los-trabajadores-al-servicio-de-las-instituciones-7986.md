@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2020-03-17"
+last_updated: "2020-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -1131,11 +1131,11 @@ V.- La indicación del lugar donde se puedan obtener las pruebas que el reclaman
 
 En la demanda se ofrecerán y acompañarán las pruebas de que se disponga y los documentos que acrediten la personalidad del representante, en su caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 120.
 
-Dentro de las setenta y dos horas siguientes a la presentación de la demanda, el tribunal dictará auto de radicación señalando fecha y hora de la audiencia de conciliación, demanda y excepciones, ordenando emplazar a la parte demandada, corriéndole traslado con las copias simples de la demanda, documentos anexos y del acuerdo de radicación, apercibiéndola que de no contestar la demanda se le tendrá por contestada en sentido afirmativo, salvo prueba en contrario.
+Dentro de las setenta y dos horas siguientes a la presentación de la demanda, el tribunal dictará auto de radicación señalando fecha y hora de la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas, ordenando emplazar a la parte demandada, corriéndole traslado con las copias simples de la demanda, documentos anexos y del acuerdo de radicación, apercibiéndola que de no contestar la demanda se le tendrá por contestada en sentido afirmativo, salvo prueba en contrario.
 
 En el mismo acuerdo se ordenará que se notifique personalmente a las partes con diez días de anticipación a la fecha de la audiencia; la falta de esta notificación obligará al tribunal a señalar de oficio nueva fecha y hora para la celebración de la audiencia, salvo que el actor se desista de la acción intentada. El acuerdo en mención deberá contener además las observaciones del artículo siguiente.
 
@@ -1175,7 +1175,9 @@ V. La excepción de incompetencia no exime al demandado de contestar la demanda 
 
 VI. Si el demandado reconviene al actor, éste procederá a contestar de inmediato; o bien, a solicitud del mismo, el Tribunal acordará la suspensión de la audiencia, señalando para su continuación una fecha dentro de los diez días siguientes, y
 
-VII. Al concluir el periodo de demanda y excepciones, se citará a la audiencia de ofrecimiento y admisión de pruebas, que tendrá verificativo dentro de los diez días siguientes. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción turnándose los autos a resolución.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+VII. Al concluir el periodo de demanda y excepciones, se continuará con la etapa de ofrecimiento y admisión de pruebas. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción turnándose los autos a resolución.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
 
@@ -1187,7 +1189,9 @@ I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. In
 
 II. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas. Asimismo, en caso de que el actor necesite ofrecer pruebas relacionadas con hechos desconocidos que se desprendan de la contestación de la demanda, podrá solicitar que la audiencia se suspenda para reanudarse dentro de los cinco días siguientes, a fin de preparar dentro de este plazo las pruebas correspondientes a tales hechos, y
 
-III. Concluido el ofrecimiento, el Tribunal resolverá inmediatamente, y en la audiencia respectiva decidirá sobre las pruebas que admita o deseche, sin que pueda reservarse la calificación de las mismas.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+III. Concluido el ofrecimiento, el tribunal resolverá en la audiencia respectiva sobre las pruebas que admita o deseche.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
 
@@ -2017,8 +2021,18 @@ SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
 
 P.O. 17 DE MARZO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0634.- SE REFORMA EL ARTÍCULO 157; Y ADICIONA AL ARTÍCULO 141 CUATRO PÁRRAFOS, ÉSTOS COMO, CUARTO, QUINTO, SEXTO, Y SÉPTIMO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LA INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0634.- SE REFORMA EL ARTÍCULO 157; Y ADICIONA AL ARTÍCULO 141 CUATRO PÁRRAFOS, ÉSTOS COMO, CUARTO, QUINTO, SEXTO, Y SÉPTIMO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LA INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0646.- SE REFORMA (SIC) LOS ARTÍCULOS 120 EN SU PÁRRAFO PRIMERO, 123 EN SU FRACCIÓN VII Y 124 EN SU FRACCIÓN III, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La audiencia trifásica en el Procedimiento Laboral Burocrático Local que se establece mediante este Decreto, se aplicará en los asuntos que se presenten a partir de la entrada en vigencia del mismo, los iniciados con anteriores esquemas procedimentales seguirán desahogando con ellos.
