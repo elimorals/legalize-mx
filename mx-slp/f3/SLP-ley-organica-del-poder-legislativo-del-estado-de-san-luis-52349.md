@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2020-03-10"
+last_updated: "2020-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -781,9 +781,15 @@ VII. Conducir y vigilar el trabajo de las comisiones, y coordinar los trabajos d
 
 VIII. Proponer al Pleno la designación, y la remoción en su caso, del Coordinador del Instituto de Investigaciones Legislativas;
 
-IX. Cuidar que el trabajo legislativo se realice con efectividad, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-X. Las demás que le atribuyen esta Ley, el Reglamento y otras disposiciones legales aplicables.
+IX. Cuidar que el trabajo legislativo se realice con efectividad;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+X. Emitir a petición de algún diputado o diputada, la excitativa correspondiente por la omisión de alguna comisión, de dictaminar algún asunto al concluir la primer prórroga, y
+
+XI. Las demás que le atribuyen esta Ley, el Reglamento y otras disposiciones legales aplicables.
 
 ###### ARTICULO 68.
 
@@ -1046,6 +1052,30 @@ Para el caso de las iniciativas presentadas por los diputados; el Gobernador del
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2017)</small>
 
 Las comisiones que compartan el turno de una iniciativa, un asunto de trámite o punto de acuerdo, serán solidaria y subsidiariamente responsables de su dictaminación, motivo por el cual, y sólo para el caso de que no hayan sido resueltos en los términos establecidos en los párrafos anteriores, cualquiera de las comisiones podrá elaborar el dictamen respectivo y presentarlo ante el Pleno, siempre que la Directiva no haya declarado su caducidad, y que se hayan publicado las prórrogas en la Gaceta Parlamentaria. En este caso, una vez entregado el dictamen, la Coordinación General de Servicios Parlamentarios lo hará del conocimiento del resto de las comisiones, quienes al no manifestarse en el término de diez días hábiles, se entenderá que están conformes con el sentido del dictamen presentado.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2020)</small>
+
+ARTÍCULO 92 BIS. En el caso de que transcurriera el plazo de la solicitud de la (sic) primera prórroga sin que se emita dictamen, la Directiva, a petición de parte, emitirá excitativa a la comisión que corresponda, para que presente su dictamen en un último plazo de tres meses.
+
+En los casos de iniciativas presentadas por ciudadanos o el titular del Ejecutivo, o, en su caso, las minutas recibidas por el Congreso de la Unión, las excitativas podrán ser solicitadas por la legisladora o el legislador que así lo estime pertinente.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2020)</small>
+
+ARTÍCULO 92 TER. La solicitud de excitativa contendrá lo siguiente:
+
+I. Nombre y firma del solicitante;
+
+II. Número de turno de la Iniciativa; Punto de Acuerdo; o Minuta, y
+
+III. Los datos siguientes de la Minuta; Iniciativa; o Punto de Acuerdo:
+
+a) Nombre de la o el promovente.
+
+b) Número de turno.
+
+c) Fecha con la que se envió el turno.
+
+d) Comisión o comisiones a las que se turnó la Minuta; Iniciativa; o Punto de Acuerdo.
 
 ###### ARTICULO 93.
 
@@ -2670,6 +2700,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0619.- SE DEROGA DEL ARTÍCULO 17 LA FRACCIÓN III, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0647.- SE REFORMA EL ARTÍCULO 67 EN SU FRACCIÓN IX; Y ADICIONA, AL ARTÍCULO 67 UNA FRACCIÓN Y LOS ARTÍCULOS 92 BIS Y 92 TER, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
