@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2019-11-30"
+last_updated: "2020-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE MARZO DE 2020.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -2499,9 +2499,21 @@ Está permitido al hijo nacido fuera del matrimonio y a sus descendientes, inves
 
 No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si esta se deduce de una sentencia civil o penal, para demandar su reconocimiento.
 
+> <small>(REFORMADO, B.O. 24 DE MARZO DE 2020)</small>
+
 ###### Artículo 407.
 
-Cuando proceda judicialmente la acción de investigación de la paternidad, podrá condenarse al padre a cubrir los gastos del parto y un año de alimentos retroactivos a partir de la demanda.
+Cuando proceda judicialmente la acción de investigación de la paternidad, podrá condenarse al padre a cubrir los gastos del parto y el pago de alimentos retroactivos desde su nacimiento a quien tiene la obligación de otorgarla.
+
+Para los efectos del párrafo anterior, para determinar la cantidad que deberá pagarse en su caso de manera retroactiva, deberán tomarse en cuenta los siguientes aspectos:
+
+a).- Si existió o no conocimiento previo del nacimiento o del embarazo de la reclamante;
+
+b).- La buena o mala fe del deudor alimentario durante el procedimiento;
+
+c).- Considerar que en el progenitor recae la carga de probar la existencia de razones justificadas por las que deba ser relevado de la obligación de contribuir al sostenimiento del menor a partir de la fecha de nacimiento; y
+
+d).- La capacidad económica del deudor alimentario.
 
 ###### Artículo 408.
 
@@ -16046,3 +16058,11 @@ B.O. 30 DE NOVIEMBRE DE 2019.
 PRIMERO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 24 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2690 SE REFORMA EL ARTÍCULO 407 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
