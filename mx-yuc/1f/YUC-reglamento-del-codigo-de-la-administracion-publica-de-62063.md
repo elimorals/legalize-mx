@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2019-03-15"
+last_updated: "2020-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE FEBRERO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 15 DE MARZO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MARZO DE 2020.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -13325,9 +13323,13 @@ IV. Promover y vigilar el cumplimiento de los acuerdos adoptados en sesiones, de
 
 V. Proponer la celebración de sesiones extraordinarias;
 
-VI. Proponer la participación de invitados en las sesiones, y
+> <small>(ADICIONADA, D.O. 24 DE MARZO DE 2020)</small>
 
-VII. Poner a consideración (sic) Junta de Gobierno o su equivalente, la Orden del Día de las sesiones.
+VI. Determinar la celebración de sesiones bajo la modalidad en línea, de conformidad con el artículo 619 de este Reglamento;
+
+VII. Proponer la participación de invitados en las sesiones, y
+
+VIII. Poner a consideración (sic) Junta de Gobierno o su equivalente, la Orden del Día de las sesiones.
 
 ### CAPÍTULO VI. De las facultades y obligaciones del Secretario de Actas y Acuerdos
 
@@ -13383,27 +13385,33 @@ V. Las demás que establezcan este Reglamento y otras disposiciones legales apli
 
 ### CAPÍTULO IX. De las políticas de operación
 
-#### SECCIÓN PRIMERA. Del calendario de sesiones
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 24 DE MARZO DE 2020)</small>
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+#### SECCIÓN PRIMERA. De las sesiones
+
+> <small>(REFORMADO, D.O. 24 DE MARZO DE 2020)</small>
 
 ###### Artículo 619.
 
-Corresponde al Director General de la entidad o su equivalente, elaborar y presentar al Órgano de Gobierno en la primera sesión del año, el proyecto de calendario para la celebración de las sesiones ordinarias de la Junta de Gobierno o su equivalente.
+Las sesiones se celebrarán, por regla general, bajo la modalidad presencial. En casos extraordinarios, independientemente de su tipo, podrán celebrarse bajo la modalidad en línea, mediante el uso de sistemas, plataformas o cualquier otro medio tecnológico que permita la comunicación a través de audio y video. Las sesiones que se celebren bajo la modalidad en línea, y los acuerdos que en ellas se tomen, serán válidos, siempre y cuando se observen las formalidades establecidas al respecto en este Reglamento.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+El Presidente de la Junta de Gobierno o su equivalente determinará, mediante oficio debidamente motivado, la celebración de sesiones bajo la modalidad en línea, cuando se susciten contingencias sanitarias, desastres de origen natural o humano, o situaciones de naturaleza análoga que hicieren conveniente, para salvaguardar la integridad física de los miembros y, en su caso, de los invitados, no sesionar bajo la modalidad presencial.
+
+> <small>(REFORMADO, D.O. 24 DE MARZO DE 2020)</small>
 
 ###### Artículo 620.
+
+Corresponde al Director General de la entidad o su equivalente, elaborar y presentar al Órgano de Gobierno en la primera sesión del año, el proyecto de calendario para la celebración de las sesiones ordinarias de la Junta de Gobierno o su equivalente.
 
 El calendario que aprueben los órganos de gobierno, de conformidad con lo establecido en el Código, sólo podrá modificarse por causas de fuerza mayor o por solicitud de la mayoría de sus miembros o de su Presidente.
 
 #### SECCIÓN SEGUNDA. De las convocatorias
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 24 DE MARZO DE 2020)</small>
 
 ###### Artículo 621.
 
-Las convocatorias deberán ser firmadas por el Presidente de la Junta de Gobierno o su equivalente o por el Secretario de Actas y Acuerdos y contendrán la especificación del día, hora y lugar en que se llevará a efecto la sesión.
+Las convocatorias deberán ser firmadas por el Presidente de la Junta de Gobierno o su equivalente, o por el Secretario de Actas y Acuerdos, y contendrán la especificación del día, la hora y, en su caso, el lugar en que se llevará a efecto la sesión de que se trate. En los casos extraordinarios que prevé el artículo 619 de este Reglamento, las convocatorias precisarán, además, que la sesión se celebrará bajo la modalidad en línea y el sistema, plataforma o medio tecnológico a través del cual se celebrará la sesión.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -13474,6 +13482,12 @@ Para la celebración de las sesiones ordinarias, la Convocatoria deberá ir acom
 ###### Artículo 626.
 
 Para la celebración de las sesiones extraordinarias, la Convocatoria deberá ir acompañada de la Orden del Día, la cual deberá ser enviada por el Secretario de Actas y Acuerdos con una anticipación de veinticuatro horas a la fecha de la sesión.
+
+> <small>(ADICIONADO, D.O. 24 DE MARZO DE 2020)</small>
+
+###### Artículo 626 Bis.
+
+En el caso de las sesiones bajo la modalidad en línea, la Convocatoria, la Orden del Día y los demás documentos que integren la carpeta de la sesión correspondiente, podrán ser enviados por el Secretario de Actas y Acuerdos, en formato electrónico, a través de los correos electrónicos de los miembros y, en su caso, de los invitados, con la anticipación prevista en los artículos 625 y 626 de este Reglamento, según el tipo de sesión de que se trate.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -14356,3 +14370,11 @@ Las dependencias o entidades cuya estructura orgánica fue modificada por dispos
 Noveno. Ejercicio de atribuciones
 
 Las dependencias correspondientes continuarán ejerciendo las atribuciones en materia de transporte y desarrollo urbano que les confería el Código de la Administración Pública de Yucatán vigente previo a la entrada en vigor del Decreto 5/2018 por el que se modifica el Código de la Administración Pública de Yucatán, en materia de reestructuración de la Administración Pública Estatal, hasta en tanto se realizan las adecuaciones legales a que se refiere el transitorio quinto de dicho decreto.
+
+D.O. 24 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 193/2020 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE SESIONES DE LOS ÓRGANOS DE GOBIERNO DE LAS ENTIDADES PARAESTATALES”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
