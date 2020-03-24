@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-101749"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2019-07-03"
+last_updated: "2020-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 30 de junio de 2014.
 
@@ -1371,17 +1371,25 @@ Las Comisiones Distritales y Comités Municipales deberán instalarse a más tar
 
 Los consejeros electorales del Pleno del Consejo implementarán el procedimiento de integración de Comisiones Distritales Electorales y Comités Municipales Electorales, de conformidad con las bases establecidas en el Reglamento de Elecciones emitido por Instituto Nacional Electoral.
 
-Del total de los ciudadanos propuestos para ser designados para integrar las comisiones distritales electorales, y los comités municipales electorales, cada partido político tendrá derecho a recusar, sin necesidad de expresar causa alguna para ello, hasta tres ciudadanos tratándose de las comisiones; y hasta cinco tratándose de los comités. Los ciudadanos así recusados, no podrán integrarse a ninguna de las comisiones distritales, y comités municipales.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
 
-Asimismo cada partido político tendrá derecho a recusar con causa justificada y debidamente probada, a los ciudadanos propuestos para ser designados para integrar las comisiones distritales electorales, y los comités municipales electorales.
+A cada uno de los partidos políticos se le informará del proceso de integración de los organismos electorales, a efecto de que realicen sus observaciones con respecto de las listas de propuestas de integrantes.
 
-Los ciudadanos recusados en los términos de los dos párrafos anteriores, no podrán integrarse a ninguna de las Comisiones Distritales o Comités Municipales.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
+
+En el caso de que un partido político presente alguna observación a los integrantes de la lista, ésta deberá estar debidamente justificada con las pruebas que respalden su dicho.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
+
+Del análisis realizado a las observaciones presentadas por los partidos políticos, en las listas de personas que integrarán las Comisiones Distritales Electoral y Comités Municipales Electorales, el Consejo determinará lo conducente.
 
 ###### ARTÍCULO 93.
 
 Para ser consejero ciudadano de las Comisiones Distritales Electorales o de los Comités Municipales Electorales, se requiere cumplir con los siguientes requisitos:
 
-I. Ser ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles, con domicilio en el distrito respectivo en el caso de las comisiones distritales; y en el municipio, según se trate, de los comités municipales o de las mesas directivas de casilla;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+I. Ser ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles, preferentemente con domicilio en el distrito respectivo en el caso de las comisiones distritales; y en el municipio, según se trate, de los comités municipales o de las mesas directivas de casilla;
 
 II. Tener una residencia efectiva en el Estado de cuando menos dos años;
 
@@ -1391,15 +1399,19 @@ IV. Estar inscrito en el Registro Federal de Electores, y contar con su credenci
 
 V. Tener un modo honesto de vivir;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-VI. No desempeñar, ni haber desempeñado el cargo de presidente del Comité Ejecutivo Nacional, Estatal, Municipal o su equivalente, en un partido político y, en todo caso, no estar, o no haber estado afiliado a algún partido político estatal o nacional desde, cuando menos, tres años antes al día de su elección;
+VI. No desempeñar, ni haber desempeñado el cargo de la presidencia del Comité Ejecutivo Nacional, Estatal, Municipal o su equivalente, en un partido político en los últimos cinco años anteriores a la elección y, en todo caso, no estar, o no haber estado afiliado a algún partido político estatal o nacional vigente, desde cuando menos tres años antes al día de su elección;
 
 VII. No pertenecer al estado eclesiástico, ni ser ministro de culto alguno;
 
-VIII. No desempeñar, ni haber desempeñado ningún cargo de elección popular en los últimos cinco años anteriores a la elección; no haber sido candidato para algún cargo de elección popular en un periodo de tres años anteriores a su nombramiento, ni ser servidor público de confianza con mando superior en la Federación, Estado o municipio, así como de sus organismos descentralizados y órganos autónomos, con excepción del propio Consejo Estatal Electoral y de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-IX. Tener como mínimo, veintiún años de edad al momento de la designación;
+VIII. No desempeñar, ni haber desempeñado ningún cargo de elección popular en los últimos cinco años anteriores a la elección; no haber sido candidato para algún cargo de elección popular en un periodo de tres años anteriores a su nombramiento, ni ser servidor público de confianza con mando superior en la Federación, Estado o municipio. Con excepción de los organismos autónomos del Estado;
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
+
+IX. Tener como mínimo dieciocho años de edad al momento de la designación;
 
 X. No haber sido condenado por delito doloso;
 
@@ -1429,9 +1441,11 @@ El Pleno del Consejo proveerá la sustitución de los integrantes de las comisio
 
 En caso de ausencia en dos sesiones consecutivas, de la representación de un partido, los organismos electorales comunicarán por escrito este hecho al partido respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 98.
 
-El nombramiento de los consejeros ciudadanos de las comisiones distritales electorales y de los comités municipales electorales, podrá ser revocado por el Pleno del Consejo, por incurrir en alguna de las siguientes causas graves:
+El nombramiento de las presidencias, consejerías ciudadanas, y secretarías técnicas, de las comisiones distritales electorales, y de los comités municipales electorales, podrá ser revocado por el Consejo General, por incurrir en alguna de las siguientes causas graves:
 
 I. Realizar conductas que atenten contra la independencia e imparcialidad de la función electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
 
@@ -1441,9 +1455,41 @@ III. Conocer de algún asunto o participar en algún acto para el cual se encuen
 
 IV. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento y no haberse excusado del mismo;
 
-V. Dejar de desempeñar injustificadamente las funciones o las labores que tenga a su cargo, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-VI. Violar de manera grave o reiterada las reglas, lineamientos, criterios y formatos que emita el Pleno del Consejo. Para los efectos de este inciso se considera violación grave, aquélla que dañe los principios rectores de la elección de que se trate.
+V. Dejar de desempeñar injustificadamente las funciones o las labores que tenga a su cargo;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+VI. Violar de manera grave o reiterada las reglas, lineamientos, criterios y formatos que emita el Pleno del Consejo. Para los efectos de este inciso se considera violación grave, aquélla que dañe los principios rectores de la elección de que se trate, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+VII. Desempeñar otra función, empleo o actividad dentro del Consejo o de otro órgano electoral, que imposibilite el desempeño de las funciones del cargo para el que fue designado.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2020)</small>
+
+Cuando el titular de la Secretaría Ejecutiva del Consejo, tenga conocimiento de hechos que actualicen alguna de las causas de procedencia de la revocación de nombramiento y considere que existen elementos de prueba, notificará a la presidencia, consejerías ciudadanas, y secretarias técnicas, de que se trate.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2020)</small>
+
+En la notificación deberá expresarse el lugar, día y hora en que tendrá verificativo la audiencia; los actos u omisiones que se le imputen; las consecuencias posibles; y el derecho de éste a comparecer asistido de un defensor. La notificación a que se refiere este párrafo se practicará de manera personal.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2020)</small>
+
+Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de cinco ni mayor de quince días.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2020)</small>
+
+Concluida la audiencia, se concederá al consejero o consejera ciudadana un plazo de diez días para que ofrezca los elementos de prueba que estime pertinentes y que tengan en su poder.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2020)</small>
+
+Desahogadas las pruebas que fueren admitidas, la persona titular de la Secretaría Ejecutiva, dentro de los veinte días siguientes, someterá el dictamen con proyecto de resolución al Consejo General.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2020)</small>
+
+La revocación del nombramiento de, consejerías ciudadanas, y secretarías técnicas, requerirá de cinco votos del Consejo General, el cual deberá notificar la resolución correspondiente y ejecutar la revocación, sin perjuicio de cualquier otra sanción a que hubiere lugar de conformidad con las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 99.
 
@@ -1467,7 +1513,9 @@ I. Un Presidente;
 
 II. Un Secretario Técnico;
 
-III. Cinco consejeros ciudadanos, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+III. Hasta cuatro consejeras o consejeros ciudadanos, y
 
 IV. Un representante por cada partido político registrado que contienda o, en su caso, un representante por cada uno de los candidatos independientes que participen.
 
@@ -1631,7 +1679,9 @@ I. Un Presidente;
 
 II. Un Secretario Técnico;
 
-III. Cinco consejeros ciudadanos, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+III. Hasta cuatro consejeras o consejeros ciudadanos, y
 
 IV. Un representante por cada partido político registrado que contienda y, en su caso, un representante de candidato independiente que participe.
 
@@ -1651,11 +1701,15 @@ Los representantes de partidos políticos, de candidatos independientes, y el Se
 
 Los partidos políticos, y candidatos independientes, podrán sustituir en todo tiempo a sus representantes, dando aviso, indistintamente, al Presidente del Comité Municipal Electoral, o al Consejo; de estos organismos el que tome conocimiento, dará inmediato aviso al otro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 112.
 
-El Consejo instalará a los Comités a más tardar el último día del mes de noviembre del año anterior al de la elección.
+El Consejo instalará a los Comités Municipales Electorales a más tardar el último día del mes de enero del año de la elección de que se trate.
 
-A fin de quedar debidamente instalados los comités municipales electorales, por conducto de su Presidente, convocarán a los representantes de los partidos políticos y de los candidatos independientes que se hubieren acreditado ante el Consejo.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
+
+A fin de quedar debidamente instalados, los Comités Municipales Electorales podrán, en su caso, convocar a los partidos políticos con derecho a participar en las elecciones, para que comparezcan a dicho acto por conducto de sus representantes acreditados ante el Consejo.
 
 Los comités municipales electorales harán llegar oportunamente al Consejo, el acta con los pormenores de su instalación. El Consejo ordenará que se publique en el Periódico Oficial del Estado, la forma de integración de los comités municipales electorales, dentro de los diez días posteriores a la fecha de la conclusión del plazo para su instalación.
 
@@ -6098,5 +6152,13 @@ P.O. 3 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0196.- SE REFORMA EL ARTÍCULO 35 DE LA LEY ELECTORAL DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis “.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0644.- SE REFORMA LOS ARTÍCULOS, 92 EN SUS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO, 93 EN SUS FRACCIONES I, VI, VIII Y IX, 98 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES V Y VI, 101 EN SU FRACCIÓN III, 110 EN SU FRACCIÓN III Y 112 EN SUS PÁRRAFOS, PRIMERO, Y SEGUNDO; Y ADICIONA AL ARTÍCULO 98 LA FRACCIÓN VII, Y SEIS PÁRRAFOS ÉSTOS COMO NOVENO A DÉCIMO CUARTO, DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
