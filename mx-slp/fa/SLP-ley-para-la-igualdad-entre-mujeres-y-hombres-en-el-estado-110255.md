@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-11025
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-12"
-last_updated: "2019-10-03"
+last_updated: "2020-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 12 de septiembre de 2015.
 
@@ -55,11 +55,17 @@ I. Regular y garantizar la igualdad de oportunidades y de trato entre mujeres y 
 
 II. Proponer los lineamientos y mecanismos institucionales tendentes a lograr la igualdad sustantiva en los ámbitos público y privado;
 
-III. Promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-IV. Regular, proteger y garantizar el cumplimiento de las obligaciones en materia de igualdad sustantiva entre el hombre y la mujer, así como el pleno respeto a los derechos humanos de las mujeres consagrados en la Constitución Política Federal, la del Estado, las leyes generales y los tratados internacionales y convenciones signados por México, y
+III. Promover el empoderamiento de las mujeres y la lucha contra toda discriminación por razón de sexo;
 
-V. El establecimiento de acciones afirmativas a favor de las mujeres y de mecanismos institucionales que establezcan criterios y orienten a las autoridades competentes en el cumplimiento de este ordenamiento.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+IV. Regular, proteger y garantizar el cumplimiento de las obligaciones en materia de igualdad sustantiva entre el hombre y la mujer, mediante la eliminación de todas las formas de discriminación contra la mujer en los ámbitos público y privado, así como el pleno respeto a los derechos humanos de las mujeres consagrados en la Constitución Política Federal, la del Estado, las leyes generales y los tratados internacionales y convenciones signados por México, y
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+V. El establecimiento de acciones afirmativas a favor de las mujeres y de mecanismos institucionales que establezcan criterios y orienten a las autoridades estatales y municipales competentes en el cumplimiento de este ordenamiento.
 
 ###### ARTÍCULO 2°.
 
@@ -71,11 +77,17 @@ II. El respeto a la dignidad y a los derechos humanos de las personas, y
 
 III. Todos aquellos contenidos en la Constitución Política del Estado Libre y Soberano de San Luis Potosí, la Constitución Política de los Estados Unidos Mexicanos, Leyes Generales y estatales, así como los Instrumentos Internacionales de Derechos Humanos de los que México sea parte.
 
-ARTÍCULO 3° Son sujetos de los derechos que establece esta Ley, las personas que se encuentren en territorio estatal, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura origen étnico o nacional, condición social, salud, religión, opinión, discapacidad, preferencias o cualquier otra causa, se encuentren con algún tipo de desventaja política, social, económica, cultural o de cualquiera otra índole, ante la violación del principio de igualdad que esta Ley tutela.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
 
-###### ARTÍCULO 4°.
+###### ARTÍCULO 3°.
 
-En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; Ley Federal para Prevenir y Eliminar la Discriminación; la Ley de la Comisión Estatal de los Derechos Humanos, la Ley de Instituto de las Mujeres del Estado de San Luis Potosí; los instrumentos internacionales ratificados por el Estado mexicano, y los demás ordenamientos aplicables en materia.
+Son sujetos de los derechos que establece esta Ley, las personas que se encuentren en territorio estatal, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico nacional o regional, condición social o económica, salud, religión, opinión, discapacidad, orientación, preferencia sexual, identidad de género, o cualquier otra causa, se encuentren con algún tipo de desventaja política, social, económica, cultural, civil o de cualquiera otra índole, ante la violación del principio de igualdad que esta Ley tutela.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2020)</small>
+
+###### ARTÍCULO 4º.
+
+En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; Ley Federal para Prevenir y Eliminar la Discriminación; la Ley para Prevenir y Erradicar la Discriminación para el Estado de san Luis Potosí; la Ley de la Comisión Estatal de los Derechos Humanos, la Ley de Instituto de las Mujeres del Estado de San Luis Potosí; los instrumentos internacionales ratificados por el Estado mexicano, y los demás ordenamientos aplicables en la materia.
 
 En la interpretación para la aplicación de las disposiciones de esta Ley, las autoridades, deberán utilizar con prelación de importancia, los criterios y derechos que beneficien en mayor medida a las personas en situación o frente a algún tipo de desigualdad.
 
@@ -83,13 +95,19 @@ En la interpretación para la aplicación de las disposiciones de esta Ley, las 
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acciones afirmativas: el conjunto de medidas especiales de carácter temporal, correctivo, compensatorio y/o de promoción, encaminadas a corregir los efectos de la discriminación de las mujeres en el Estado y acelerar la igualdad sustantiva entre mujeres y hombres, aplicables en tanto subsista la desigualdad de trato y oportunidades de las mujeres respecto a los hombres;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-II. Discriminación: toda distinción, exclusión o restricción basada en el sexo, edad, estado civil; religión, idioma, raza, preferencia sexual, estado de salud, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, opiniones, o cualesquiera otra situación de las personas, que tenga por objeto o resultado impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos, las libertades fundamentales y la igualdad real de oportunidades de las personas, en las esferas política, económica, social, cultural y civil o en cualquiera otra.
+I. Acciones afirmativas: el conjunto de medidas especiales de carácter temporal, correctivo, compensatorio y/o de promoción, encaminadas a corregir los efectos de la discriminación de las mujeres en el Estado y acelerar la igualdad sustantiva entre mujeres y hombres, obligatorias y aplicables en tanto subsista la desigualdad de trato y oportunidades de las mujeres respecto a los hombres en los ámbitos público y privado;
 
-Se considerará discriminación por razón de sexo, cualquier represalia realizada por un servidor público que derive de la presentación de un recurso tendente a salvaguardar el derecho a una vida libre de discriminación por razón de sexo; así como cualquier conducta u omisión destinada a impedir el debido proceso del recurso;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-III. Discriminación contra las Mujeres: toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
+II. Discriminación: toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos, las libertades fundamentales y la igualdad real de oportunidades de las personas en las esferas política, económica, social, cultural y civil o en cualquiera otra, cuando se base en uno o más de los siguientes motivos: el origen étnico, nacional o regional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
+
+Se considerará discriminación por razón de sexo, cualquier represalia realizada por la o el servidor público que derive de la presentación de un recurso tendente a salvaguardar el derecho a una vida libre de discriminación por razón de sexo; así como cualquier conducta u omisión destinada a impedir el debido proceso del recurso;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+III. Discriminación contra las Mujeres: toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
 IV. Empoderamiento: el proceso con medidas especiales mediante el cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión, a un estado consiente (sic) de autodeterminación, que se deberá reflejar en el ejercicio del poder democrático que emana del gobierno pleno de sus derechos y libertades;
 
@@ -109,13 +127,19 @@ XI. Programa Estatal: Programa Estatal para la Igualdad entre Mujeres y Hombres;
 
 XII. Sistema Estatal: Sistema Estatal para la Igualdad entre Mujeres y Hombres;
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE MARZO DE 2020)</small>
 
-XII BIS. Sistema Nacional. Sistema Nacional para la Igualdad entre Mujeres y Hombres;
+XII BIS. Sistema Nacional: Sistema Nacional para la Igualdad entre Mujeres y Hombres;
 
-XIII. Transversalidad: el proceso que permite garantizar la incorporación de la perspectiva de género, como eje integrador, en la gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria en todas la (sic) instituciones públicas, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-XIV. Acciones del Estado, con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acto de autoridad que se programe, sea éste de tipo legislativo, de política pública, administrativo, económico o cultural, así como para homogenizar los principios, conceptos y acciones a implementar, para garantizar la concreción del principio de igualdad.
+XIII. Transversalidad: la herramienta metodológica que permite incorporar la perspectiva de género como eje integrador, en la gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria, con el objetivo de homogeneizar los principios, conceptos y acciones a implementar, para garantizar la concreción del principio de igualdad. en las instituciones públicas y privadas, y
+
+XIV. (DEROGADA, P.O. 24 DE MARZO DE 2020)
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XV. Unidades para la Igualdad de Género: Instancias encargadas de fomentar dentro de la Dependencia o Entidad respectiva, la igualdad sustantiva entre mujeres y hombres a través de la aplicación transversal de la perspectiva de género en todas las acciones de gobierno, tanto en el ámbito de la cultura institucional como en los planes, programas, proyectos y presupuestos dirigidos a la población estatal, que instrumenten las dependencias y entidades de la administración pública estatal y municipal, así como de los organismos autónomos.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES E INSTITUCIONES
 
@@ -143,7 +167,9 @@ IV. Crear mecanismos internos para el empoderamiento de las funcionarias públic
 
 V. Coordinar las tareas en materia para la igualdad sustantiva mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia de política pública integral, tanto estatal, como municipal, y
 
-VI. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones, así como en la vida social, cultural y civil del Estado y los municipios.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+VI. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones, así como en la vida social, deportiva, cultural y civil del Estado y los municipios.
 
 ###### ARTÍCULO 9°.
 
@@ -153,9 +179,11 @@ En la celebración de convenios o acuerdos de coordinación, deberán tomarse en
 
 Para facilitar el cumplimiento de este artículo, el Instituto brindará capacitación a los servidores públicos de los entes públicos encargados de presupuestación, en materia de elaboración de presupuestos con perspectiva de género.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 10.
 
-En el seguimiento y evaluación de los resultados que se obtengan por la ejecución de los convenios y acuerdos que se celebren para el cumplimiento del objeto de esta Ley, se procurará la intervención del área responsable de la Comisión Estatal de Derechos Humanos.
+En el seguimiento y evaluación de los resultados que se obtengan por la ejecución de los convenios y acuerdos que se celebren para el cumplimiento del objeto de esta Ley, participará la Comisión Estatal de Derechos Humanos, en su calidad de responsable de la protección, defensa y observancia de los derechos humanos de toda persona que se encuentre en el territorio del Estado, a través del área responsable, de acuerdo con las atribuciones que su propia ley le confiere.
 
 ### CAPÍTULO II. DE LOS PODERES DEL ESTADO
 
@@ -163,7 +191,9 @@ En el seguimiento y evaluación de los resultados que se obtengan por la ejecuci
 
 Corresponde al Poder Ejecutivo Estatal:
 
-I. Elaborar y conducir las políticas públicas estatales en materia de igualdad sustantiva entre mujeres y hombres, a fin de cumplir con lo establecido en la presente Ley, e incorporar las mismas en el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+I. Elaborar y conducir las políticas públicas estatales en materia de igualdad sustantiva entre mujeres y hombres con una visión de corto, mediano y largo alcance, a fin de cumplir con lo establecido en la presente Ley, e incorporar las mismas en el Plan Estatal de Desarrollo;
 
 II. Diseñar y aplicar los instrumentos de las políticas públicas estatales en materia de igualdad sustantiva y no discriminación;
 
@@ -217,9 +247,11 @@ Corresponde al Poder Judicial del Estado, con base en los principios y disposici
 
 I. Implementar mecanismos y acciones encaminadas a promover y garantizar la igualdad en el acceso y promoción de las y los funcionarios judiciales, en la carrera judicial;
 
-II. Capacitar (sic) los jueces, y al personal judicial, en materia de derechos humanos, derechos específicos de personas y grupos;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-III. Considerados (sic) vulnerables, en teoría de género, y en los mecanismos de administración de justicia con perspectiva de género;
+II. Capacitar a jueces y al personal judicial, en materia de derechos humanos, derechos específicos de personas y grupos considerados vulnerables, en teoría de género, y en los mecanismos de administración de justicia con perspectiva de género;
+
+III. (DEROGADA, P.O. 24 DE MARZO DE 2020)
 
 IV. Dictar con diligencia las órdenes de protección que se soliciten y que procedan conforme a la ley a favor de mujeres y en su caso de sus menores hijos, que se encuentren en estado de desventaja y vulnerabilidad;
 
@@ -239,7 +271,9 @@ Corresponde al Instituto:
 
 I. Ser el órgano rector y asesor de la política de igualdad en el Estado;
 
-II. Fomentar e instrumentar las acciones que garanticen la no discriminación, la igualdad de oportunidades, y la participación igualitaria entre hombres y mujeres en los ámbitos, social, económico, político, civil, cultural y familiar;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+II. Fomentar e instrumentar las acciones que garanticen la no discriminación, la igualdad de oportunidades, y la participación igualitaria entre mujeres y hombres en los ámbitos, social, económico, político, civil, cultural, deportivo y familiar;
 
 III. Coordinar los instrumentos de la Política en Materia de Igualdad; entre mujeres y hombres en el Estado;
 
@@ -257,11 +291,31 @@ VIII. Evaluar la participación equilibrada entre mujeres y hombres en los cargo
 
 IX. Evaluar el impacto de las políticas públicas, obras y acciones de los entes públicos en la población de hombres y mujeres en el Estado, a través de los resultados que arroje el Banco Estatal de Indicadores de Género a que se refiere la ley del Instituto, y emitir a los mismos las recomendaciones que procedan para lograr la igualdad sustantiva entre ambos sexos;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-X. Impulsar la paridad en la asignación de puestos directivos en todas las instituciones públicas del Estado, y
+X. Impulsar la paridad en la asignación de puestos directivos en todas las instituciones públicas del Estado;
 
-XI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XI. Velar por que el contenido de los medios de comunicación, así como de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley, esté desprovisto de estereotipos en función del sexo de las personas, incorpore un lenguaje incluyente y transmita una imagen igualitaria, plural y no estereotipada de mujeres y hombres en la sociedad;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XII. Promover una cultura institucional para la igualdad laboral entre mujeres y hombres, tendente a la transformación estructural de las instituciones públicas, privadas y sociales para fortalecer el liderazgo de las mujeres, el trabajo en equipo, la corresponsabilidad familiar y el desarrollo humano con perspectiva de género. Para ello impulsará la creación de mecanismos internos para la implementación de una cultura institucional para la igualdad laboral en las dependencias y entidades de la administración pública estatal en los términos de esta Ley;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XIII. Fomentar la creación de Unidades para la Igualdad de Género en las dependencias y entidades de la administración pública estatal y municipal, así como en los organismos autónomos;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XIV. Instrumentar y mantener actualizado el Registro Estatal de las y los encargados de las Unidades para la Igualdad de Género en las dependencias o entidades de la administración pública estatal y municipal, así como de los organismos autónomos;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XV. Proponer los lineamientos generales para la capacitación y certificación de los entes públicos y personas encargadas de la Unidad para la Igualdad de Género de las dependencias o entidades de la administración pública estatal y municipal, así como de los organismos autónomos, y
+
+XVI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ### CAPÍTULO III. DE LOS MUNICIPIOS
 
@@ -281,9 +335,9 @@ III. Considerar, de conformidad con lo establecido en la Ley Orgánica del Munic
 
 IV. Implementar instancias municipales de la mujer, en la medida de sus posibilidades presupuestales, encargadas de ejecutar la política municipal en materia de igualdad de conformidad con lo establecido en la presente Ley;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-V. Diseñar, formular y aplicar campañas de concientización y sensibilización, así como programas de desarrollo, de acuerdo a la región, en las materias que esta Ley le confiere;
+V. Diseñar, formular y aplicar campañas de concientización y sensibilización, así como programas de desarrollo, de acuerdo a la región, en las materias que esta Ley le confiere. El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos de género discriminatorios y promoverá una imagen positiva de la mujer indígena y rural;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
@@ -299,9 +353,21 @@ I. Diseñar y ejecutar la política municipal en materia de igualdad entre mujer
 
 II. Crear y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres, a través de la instancia municipal de la mujer o en su caso de las áreas administrativas que se ocupen del adelanto de las mujeres en los municipios;
 
-III. Elaborar las políticas públicas municipales, con una visión de corto, mediano y largo alcance, debidamente coordinadas y congruentes con los planes y programas estatales y en su caso nacionales, dando cabal cumplimiento a la presente Ley, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-IV. Promover, en coordinación con los entes públicos del Estado la aplicación de la presente Ley.
+III. Elaborar las políticas públicas municipales, con una visión de corto, mediano y largo alcance, debidamente coordinadas y congruentes con los planes y programas estatales y en su caso nacionales, dando cabal cumplimiento a la presente Ley;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+IV. Promover, en coordinación con los entes públicos del Estado la aplicación de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+V. Celebrar convenios y establecer vínculos de colaboración permanente con organismos públicos, privados y sociales, para la efectiva aplicación y cumplimiento de la presente Ley, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+VI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ## TÍTULO TERCERO. DE LA POLÍTICA ESTATAL EN MATERIA DE IGUALDAD
 
@@ -317,13 +383,17 @@ I. Generar la integralidad de los Derechos Humanos como mecanismo para lograr la
 
 II. Garantizar que la planeación presupuestal incorpore la progresividad, la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad sustantiva entre mujeres y hombres;
 
-III. Promover la igualdad sustantiva en todos los ámbitos de la vida, entre mujeres y hombres, sin importar la edad, condición social, estado civil, raza, religión, preferencias, ideología, salud, discapacidad, o cualquier otra condición que pudiera ser obstáculo para ello;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+III. Promover la igualdad sustantiva en todos los ámbitos de la vida, entre mujeres y hombres, sin importar la edad, condición social o económica, profesión, estado civil, cultura, raza, origen étnico, nacional o regional, religión, orientación, preferencia sexual, identidad de género, ideología, salud, discapacidad, o cualquier otra condición que pudiera ser obstáculo para ello;
 
 IV. Establecer medidas para erradicar la violencia de género y la violencia familiar; así como, la protección de los derechos sexuales y reproductivos y sus efectos en los ámbitos público y privado;
 
 V. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico;
 
-VI. Fomentar el cumplimiento del principio de igualdad sustantiva entre mujeres y hombres en las relaciones entre particulares;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+VI. Fomentar el cumplimiento del principio de igualdad sustantiva entre mujeres y hombres en las relaciones entre particulares, así como establecer medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
 
 VII. Promover la eliminación de estereotipos establecidos en función del sexo;
 
@@ -331,21 +401,35 @@ VIII. Promover el empoderamiento de las mujeres, en especial en los ámbitos edu
 
 IX. Fomentar la participación y representación política con paridad entre mujeres y hombres;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-X. Reconocer y promover la igualdad de acceso y el pleno disfrute de los derechos civiles, políticos, económicos, sociales y culturales para las mujeres y los hombres;
+X. Reconocer y promover la igualdad de acceso y el pleno disfrute de los derechos civiles, políticos, económicos, sociales, deportivos y culturales para las mujeres y los hombres;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 XI. Instrumentar acciones de formación y capacitación permanente con perspectiva de género, para funcionarias y funcionarios públicos encargados de la planeación y programación de las políticas públicas, en materia de igualdad y no discriminación;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-XII. Garantizar la integración del principio de igualdad sustantiva en la formulación, desarrollo y evaluación de políticas, estrategias y programas en materias de salud, deporte, educación y cultura, y
+XII. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+> <small>(ADICIONADA , P.O. 24 DE MARZO DE 2020)</small>
 
-XIII. Promover que en las prácticas de comunicación social de las instituciones públicas, así como en los medios masivos de comunicación electrónicos e impresos en el Estado, se elimine el uso de estereotipos sexistas, vejatorios y discriminatorios, e incorpore un lenguaje incluyente y de respeto de los derechos humanos.
+XIII. En el sistema educativo, establecer entre sus fines, la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, el ejercicio de la tolerancia, no discriminación y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XIV. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XV. Promover que en las prácticas de comunicación social de las dependencias de la administración pública estatal y municipal, así como en los medios masivos de comunicación electrónicos e impresos, se elimine el uso de estereotipos sexistas y discriminatorios, incorporando un lenguaje incluyente y favoreciendo la imagen positiva de la mujer indígena y rural, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XVI. Fomentar el desarrollo, participación y reconocimiento de las mujeres en la vida deportiva, así como en las diferentes disciplinas deportivas.
+
+XVII. Promover que en las prácticas de comunicación social de las instituciones públicas, así como en los medios masivos de comunicación electrónicos e impresos en el Estado, se elimine el uso de estereotipos sexistas, vejatorios y discriminatorios, e incorpore un lenguaje incluyente y de respeto de los derechos humanos.
 
 ### CAPÍTULO II. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -409,7 +493,9 @@ VII. La o el Titular de la Secretaría de Salud;
 
 VIII. La o el Titular de la Secretaría de Educación;
 
-IX. La o el Titular de la Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+IX. La o el Titular de la Fiscalía General del Estado;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2017)</small>
 
@@ -419,9 +505,13 @@ XI. Una o un representante del Poder Judicial, y
 
 XII. La o el Titular de la Comisión Estatal de Derechos Humanos.
 
-Las personas representantes de aquellas organizaciones civiles estatales destacadas por sus logros objetivos y relacionados con la materia de igualdad sustantiva, que se integrarán al mismo, por invitación del propio Sistema Estatal.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
 
-En ningún caso, las organizaciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema Estatal.
+Las personas representantes de las organizaciones civiles, organizaciones de mujeres, instituciones académicas y de investigación estatales destacadas por sus logros y objetivos relacionados con la materia de igualdad sustantiva, se integrarán al mismo, por invitación del propio Sistema Estatal.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
+
+En ningún caso, las organizaciones e instituciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema Estatal.
 
 Las personas integrantes del Sistema Estatal sesionarán de manera ordinaria una vez al año, extraordinaria cuando así se requiera, y de conformidad con lo que se establezca en el Reglamento de esta Ley.
 
@@ -533,15 +623,27 @@ Con tal objeto, los entes públicos deberán:
 
 I. Implementar los mecanismos que garanticen el derecho a una vida libre de discriminación por razón de sexo;
 
-II. Promover la convivencia armónica y equilibrada en los ámbitos de la vida personal, laboral y familiar, lo que se considerará como el derecho;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-III. De conciliación, encaminado a lograr el pleno desarrollo de los individuos:
+II. Promover la convivencia armónica y equilibrada en los ámbitos de la vida personal, laboral y familiar, lo que se considerará como el derecho de conciliación, encaminado a lograr el pleno desarrollo de las personas;
 
-IV. Para contribuir al reparto equilibrado de las responsabilidades familiares se promoverá el reconocimiento del derecho de los padres a un permiso por paternidad de ocho días;
+III. (DEROGADA, P.O. 24 DE MARZO DE 2020)
 
-V. Respetar plenamente el derecho a la información necesaria para hacer efectiva la igualdad sustantiva, para lo cual deberán poner a disposición de los individuos la información sobre políticas, instrumentos y normas relativas a la igualdad sustantiva entre mujeres y hombres, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-VI. Realizar acciones que apoyen el derecho a una vida libre de estereotipos de género, así como dl (sic) derecho a una vida libre de violencia de género.
+IV. Para contribuir al reparto equilibrado de las responsabilidades familiares se promoverá el reconocimiento del derecho de los padres trabajadores, por consanguinidad o adopción, a un permiso y prestación por paternidad, en términos de las leyes laborales aplicables;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+V. Respetar plenamente el derecho a la información necesaria para hacer efectiva la igualdad sustantiva, para lo cual deberán poner a disposición de los individuos la información sobre políticas, instrumentos y normas relativas a la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+VI. Realizar acciones que apoyen el derecho a una vida libre de estereotipos de género, así como dl (sic) derecho a una vida libre de violencia de género, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+VII. Promover acciones tendentes a eliminar las prácticas nocivas que discriminen a las mujeres indígenas de las zonas rurales, a fin de reforzar una imagen positiva y no estereotipada de la mujer.
 
 ### CAPÍTULO II. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LA VIDA ECONÓMICA ESTATAL
 
@@ -553,13 +655,27 @@ Los entes públicos en el ámbito de sus respectivas competencias, generarán ac
 
 I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo, en los procesos productivos y en los espacios de toma de decisiones;
 
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género, en materia política, social y económica, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-III. Impulsar liderazgos igualitarios en todos los ámbitos de vida
+II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género, en materia política, social y económica;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+III. Impulsar liderazgos igualitarios en todos los ámbitos de vida;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+V. Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos hereditarios y los derechos reales de propiedad; así como el uso, goce, control y disfrute de la tierra; su participación en el desarrollo rural y en sus beneficios. Se pondrá especial énfasis en los pueblos y comunidades indígenas para garantizar los derechos a que se refiere esta fracción para las mujeres indígenas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 35.
 
-Para los efectos de lo previsto en el artículo anterior, los entes públicos del Estado, deberán:
+Para los efectos de lo previsto en el artículo anterior, los entes públicos del Estado correspondientes garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
 
 I. Promover la revisión de los sistemas fiscales estatales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
 
@@ -581,7 +697,17 @@ IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación
 
 X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
 
-XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia, con visión y actuación socialmente responsable;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 24 DE MARZO DE 2020)</small>
+
+XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia, con visión y actuación socialmente responsable. Para la expedición del certificado a empresas se observará lo siguiente:
+
+a) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
+
+b) La integración de la plantilla laboral cuando esta se componga de al menos el cuarenta por ciento de un mismo género, y el diez por ciento del total corresponda a mujeres que ocupen puestos directivos.
+
+c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
+
+d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
 
 XII. Detectar y analizar los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo, e implementar las acciones para erradicarlos;
 
@@ -589,9 +715,21 @@ XIII. Establecer los mecanismos necesarios para identificar todas las partidas p
 
 XIV. Implementar campañas que fomenten la contratación de mujeres y promuevan la igualdad sustantiva en el mercado laboral, en los ámbitos público y privado;
 
-XV. Proponer, en el ámbito de su competencia, el otorgamiento de estímulos a las empresas que hayan garantizado la igualdad sustantiva entre mujeres y hombres, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-XVI. Garantizar el derecho a la denuncia por violación a la presente ley en el ámbito laboral y económico.
+XV. Proponer, en el ámbito de su competencia, el otorgamiento de estímulos a las empresas que hayan garantizado la igualdad sustantiva entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XVI. Garantizar el derecho a la denuncia por violación a la presente ley en el ámbito laboral y económico;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XVII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+XVIII. Promover la participación de mujeres rurales en programas sectoriales de desarrollo agrario o su equivalente.
 
 ### CAPÍTULO III. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
 
@@ -629,9 +767,11 @@ II. Garantizar la integración de la perspectiva de género en la concepción, a
 
 III. Evaluar de forma sistemática y permanente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 39.
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán (sic) siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
 
 I. Dar seguimiento y evaluar la aplicación de la legislación existente en materia de desarrollo social, en armonización con instrumentos internacionales, tanto en el ámbito estatal, como municipal;
 
@@ -647,7 +787,9 @@ VI. Promover campañas estatales de concientización y sensibilización para muj
 
 VII. Integrar el principio de igualdad sustantiva en la capacitación del personal de los servicios de salud, para atender situaciones de violencia de género;
 
-VIII. Promover campañas de concientización para mujeres y hombres sobre su participación igualitaria en la vida familiar y en la atención de las personas dependientes de ellos, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+VIII. Promover campañas de concientización para mujeres y hombres sobre su participación igualitaria en la vida familiar y en la atención de las personas dependientes de ellos. El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos discriminatorios establecidos en función del sexo de las personas, incorporar un lenguaje incluyente y favorecer la imagen positiva de la mujer indígena y rural, y
 
 IX. Incorporar la progresividad de los servicios de cuidado y atención del desarrollo integral de las niñas y los niños.
 
@@ -675,21 +817,27 @@ III. Impulsar la formación y capacitación con perspectiva de género para func
 
 IV. Apoyar las actividades de interlocución ciudadana respecto a la legislación sobre la igualdad para las mujeres y los hombres;
 
-V. Reforzar la cooperación y los intercambios de información sobre los derechos humanos e igualdad entre hombres y mujeres, con organizaciones no gubernamentales y organizaciones internacionales de cooperación para el desarrollo;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+V. Reforzar la cooperación y los intercambios de información sobre los derechos humanos e igualdad entre hombres y mujeres, con organizaciones no gubernamentales, organizaciones de mujeres y organizaciones internacionales de cooperación para el desarrollo;
 
 VI. Impulsar las reformas legislativas y políticas públicas para prevenir, sancionar y erradicar en los ámbitos público y privado, la discriminación contra las personas por razón de sexo o estereotipos de género;
 
 VII. Garantizar la atención de las víctimas en todos los tipos de violencia contra las mujeres;
 
-VIII. Generar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+VIII. Generar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares, reconociendo a los padres biológicos y por adopción el derecho a un permiso y a una prestación por paternidad, en términos de las leyes laborales aplicables, y
 
 IX. Generar estudios, diagnósticos y evaluaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres y difundirlos.
 
 ### CAPÍTULO VI. DE LA ELIMINACIÓN DE ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL SEXO
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 42.
 
-Será objetivo de la política estatal en materia de igualdad, la eliminación de los estereotipos que fomentan la discriminación y fomentan la sumisión de las mujeres.
+Será objetivo de la política estatal en materia de igualdad, la eliminación de los estereotipos que fomentan la violencia, la discriminación y la sumisión de las mujeres.
 
 ###### ARTÍCULO 43.
 
@@ -699,9 +847,21 @@ I. Promover acciones que contribuyan a erradicar todas las formas de violencia y
 
 II. Desarrollar actividades de concientización y sensibilización sobre la importancia de la igualdad entre mujeres y hombres, para el fortalecimiento de la democracia, la sustentabilidad del desarrollo, y la paz social;
 
-III. Vigilar la integración de una perspectiva de género en todas las políticas públicas estatales y municipales, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-IV. Promover la utilización de un lenguaje no sexista en la totalidad de las relaciones sociales.
+III. Vigilar la integración de una perspectiva de género en todas las políticas públicas estatales y municipales;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
+
+IV. Promover la utilización de un lenguaje no sexista en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+V. Velar por que los medios de comunicación locales transmitan una imagen igualitaria, plural y no estereotipada de mujeres y hombres en la sociedad, que promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres, eviten la utilización sexista del lenguaje, favorezcan la imagen positiva de la mujer indígena y rural, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+
+VI. Vigilar que el contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley, esté desprovisto de estereotipos discriminatorios establecidos en función del sexo de las personas, incorpore un lenguaje incluyente y favorezca la imagen positiva de la mujer indígena y rural.
 
 ### CAPÍTULO VII. DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -729,9 +889,11 @@ De acuerdo con lo establecido en la Ley de la Comisión Estatal de los Derechos 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 49.
 
-La violación a los principios y programas que esta Ley prevé, por parte de los entes públicos será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del estado (sic) y Municipios de San Luis Potosí y, en su caso, por las Leyes aplicables que regulen esta materia, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado.
+La violación a los principios y programas que esta Ley prevé, por parte de los entes públicos será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí y, en su caso, por las leyes aplicables que regulen esta materia, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado.
 
 La violación a los principios y programas que esta Ley prevé, por parte de personas físicas o morales, será sancionada de acuerdo a lo dispuesto por las Leyes aplicables que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado.
 
@@ -798,3 +960,11 @@ P.O. 3 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0649.- SE REFORMA, LOS ARTÍCULOS, 1º EN SUS FRACCIONES III, IV, Y V, 3º, 4º EN SU PÁRRAFO PRIMERO, 5º EN SUS FRACCIONES I, II, III, Y XIII, 8° EN SU FRACCIÓN VI, 10, 11 EN SU FRACCIÓN I, 13 EN SU FRACCIÓN II, 14 EN SUS FRACCIONES II Y X, 16 EN SU FRACCIÓN V, 17 EN SUS FRACCIONES III Y IV, 18 EN SUS FRACCIONES III, VI, X, XI Y XII, 23 EN SU FRACCIÓN IX Y EN SUS PÁRRAFOS ANTEPENÚLTIMO Y PENÚLTIMO, 33 EN SUS FRACCIONES II, IV, V Y VI, 34 EN SUS FRACCIONES II Y III, 35 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES XI, XV Y XVI, 39 EN SU PÁRRAFO PRIMERO Y FRACCIÓN VIII, 41 EN SUS FRACCIONES V Y VIII, 42, 43 EN SUS FRACCIONES III Y IV Y 49 EN SU PÁRRAFO PRIMERO; ADICIONA A LOS ARTÍCULOS 5º LAS FRACCIONES XII BIS Y XV, 14 CINCO FRACCIONES17 (SIC) LAS FRACCIONES V Y VI, 18 LAS FRACCIONES XIII A XVI, 33 LA FRACCIÓN VII, 34 LAS FRACCIONES IV Y V, 35 LAS FRACCIONES XVII Y XVIII, 43 LAS FRACCIONES V Y VI; Y DEROGA DE LOS ARTÍCULOS 5° LA FRACCIÓN XIV, 13 LA FRACCIÓN III Y 33 LA FRACCIÓN III, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
