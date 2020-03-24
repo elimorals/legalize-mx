@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2019-12-27"
+last_updated: "2020-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -289,9 +289,17 @@ XXV. Firmar la correspondencia y las demás comunicaciones del Congreso;
 
 XXVI. Rubricar las actas de las sesiones después de que sean aprobadas;
 
-XXVII. Vigilar que se conozcan, cumplan y apliquen las disposiciones de la Ley Orgánica y de este Reglamento dentro del recinto legislativo, y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2020)</small>
 
-XXVIII. Las demás que se derivan de la Ley Orgánica, de este Reglamento y de las disposiciones emitidas por el Pleno del Congreso.
+XXVII. Vigilar que se conozcan, cumplan y apliquen las disposiciones de la Ley Orgánica y de este Reglamento dentro del recinto legislativo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2020)</small>
+
+XXVIII. Declarar recesos durante la Sesión, a fin de recabar opiniones, promover acuerdos, o procurar condiciones que permitan el adecuado desahogo del orden del día, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE MARZO DE 2020)</small>
+
+XXIX. Las demás que se derivan de la Ley Orgánica; de este Reglamento, y de las disposiciones emitidas por el Pleno del Congreso.
 
 ###### ARTICULO 12.
 
@@ -425,7 +433,7 @@ Todas las sesiones de apertura y clausura de periodos ordinarios y extraordinari
 
 ###### ARTICULO 26.
 
-Las sesiones ordinarias no excederán de cuatro horas, salvo cuando por acuerdo expreso del Congreso, se considere indispensable para el buen despacho de los negocios públicos.
+(DEROGADO, P.O. 24 DE MARZO DE 2020)
 
 ###### ARTICULO 27.
 
@@ -1045,7 +1053,9 @@ VIII. El debate podrá suspenderse cuando se presenten las siguientes causas:
 
 a) Grave alteración del orden público.
 
-b) Por haberse agotado el tiempo de la sesión.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2020)</small>
+
+b) Por haberse declarado un receso.
 
 c) Porque el Pleno acuerde dar preferencia a un asunto de mayor urgencia y gravedad.
 
@@ -2882,6 +2892,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 27 DE DICIEMBRE DE 2019.
 
 > <small>[N. DE E. TRANSIORIOS DEL “DECRETO 0458.- SE REFORMA EL ARTÍCULO 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]</small>
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0648.- SE REFORMA (SIC) LOS ARTÍCULOS 11 EN SUS FRACCIONES XXVII Y XXVIII Y 99 EN SU FRACCIÓN VIII EL INCISO B); ADICIONA AL ARTÍCULO 11 LA FRACCIÓN XXIX Y DEROGA EL ARTÍCULO 26, DEL REGLAMENTO INTERIOR PARA EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
