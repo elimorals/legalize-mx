@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2019-12-20"
+last_updated: "2020-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -323,9 +323,11 @@ Cuando el ausentismo sea de cinco días consecutivos o siete acumulados en un me
 
 Para garantizar el acceso, tránsito y la permanencia de los individuos en los servicios educativos, las medidas señaladas en el Artículo anterior estarán dirigidas, de manera preferente, a quienes pertenezcan a los grupos y regiones con mayor rezago educativo disperso o que enfrenten situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o situación migratoria, considerando también las características particulares de los grupos y regiones, en términos de lo dispuesto por los Artículos 7 y 8 de esta Ley.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
+
 ###### Artículo 15.
 
-El servicio educativo se ofrecerá en igualdad de condiciones y circunstancias a los hombres y a las mujeres sin discriminación alguna de raza, edad, religión, estado civil, ideología, grupo social, lengua y forma de vida.
+El servicio educativo se ofrecerá en igualdad de condiciones y circunstancias a los hombres y a las mujeres sin discriminación alguna por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 16.
 
@@ -2252,3 +2254,9 @@ P.O. 20 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 201. SE REFORMA POR ADICIÓN DE UN ARTÍCULO 16 BIS Y POR MODIFICACIÓN AL ARTÍCULO 49 DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMA POR ADICIÓN DE UN ARTÍCULO 27 BIS A LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 278. SE REFORMA EL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
