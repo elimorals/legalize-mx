@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2020-03-11"
+last_updated: "2020-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -8097,21 +8097,11 @@ PARA EFECTOS DE ESTE ARTICULO SE ENTIENDE QUE SON PRODUCTO DE UNA ACTIVIDAD ILIC
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE JUNIO DE 2013)</small>
 
-### CAPITULO III. ENCUBRIMIENTO POR RECEPTACION
+### CAPITULO UNICO. OMISION DE INFORMACION EN DOCUMENTOS Y PUBLICIDAD DE INSTITUCIONES EDUCATIVAS
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+(NOTA: EL 20 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 188/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚM. 273, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-ARTICULO 443 TER.- Se impondrá una sanción de dos a siete años de prisión, y de cincuenta a ciento veinte veces el valor diario de la Unidad de Medida y Actualización, a quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia, si el valor de cambio no excede de quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos.
-
-Si el valor de éstos es superior a quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos, se impondrá una sanción de cinco a diez años de prisión y de doscientos a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
-
-Cuando el o los instrumentos, objetos o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
-
-Si el que recibió en venta, prenda o bajo cualquier otro concepto el instrumento, objeto o producto de un delito, después de su ejecución, sin haber participado en él y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el primer párrafo de este artículo, en la proporción correspondiente al delito culposo.
-
-En ningún caso podrá imponerse pena privativa de libertad que exceda del máximo que la ley señale al delito encubierto.
-
-> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 432.
 
@@ -8205,6 +8195,10 @@ LA AUTORIDAD PODRA SUSTITUIR TOTAL O PARCIALMENTE LA PENA POR TRATAMIENTO PSICOL
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
+## TITULO VIGESIMO NOVENO. DELITOS CONTRA LA IMPARTICION DE EDUCACION
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE MARZO DE 2020)</small>
+
 ### CAPITULO I. DAÑO AL MEDIO AMBIENTE
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
@@ -8279,7 +8273,7 @@ A LOS SERVIDORES PUBLICOS QUE CON MOTIVO DE SUS FUNCIONES, YA SEA POR ACCION U O
 
 EN CASO DE QUE ALGUNA DE LAS CONDUCTAS PREVISTAS EN ESTE CAPITULO AFECTE UN AREA NATURAL PROTEGIDA DE JURISDICCION ESTATAL, LA PENA DE PRISION SE AUMENTARA HASTA CINCO AÑOS MAS, Y LA MULTA HASTA DE MIL CUOTAS.
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2020)</small>
 
 ### CAPITULO II. DELITO DE INCENDIOS
 
@@ -8287,7 +8281,13 @@ T R A N S I T O R I O S
 
 ###### ARTICULO 452.
 
-(DEROGADO, P.O. 13 DE JUNIO DE 2015)
+SE IMPONDRAN DE DOS A OCHO AÑOS DE PRISION Y MULTA DE MIL A DOS MIL CUOTAS AL PROPIETARIO, SOCIO, DIRECTIVO, ADMINISTRADOR O APODERADO LEGAL DE UNA INSTITUCION EDUCATIVA, QUE EMITA, ENTREGUE O AUTORICE EMITIR O ENTREGAR DOCUMENTACION O PUBLICIDAD DE LA MISMA SIN HACER CONSTAR, EN SU CASO, QUE DICHA INSTITUCION CARECE DEL RECONOCIMIENTO DE VALIDEZ OFICIAL DE ESTUDIOS ANTE LA AUTORIDAD COMPETENTE DEL ESTADO.
+
+SE IMPONDRA LA MISMA SANCION ESTABLECIDA EN EL PARRAFO ANTERIOR, ASI COMO INHABILITACION DE TRES A DIEZ AÑOS PARA DESEMPEÑAR UN EMPLEO, CARGO O COMISION PUBLICOS, AL SERVIDOR PUBLICO DEL RAMO EDUCATIVO QUE, TENIENDO CONOCIMIENTO DE QUE LA DOCUMENTACION O PUBLICIDAD DE UNA INSTITUCION EDUCATIVA NO ESTABLECE, LA CARENCIA DE RECONOCIMIENTO DE VALIDEZ OFICIAL DE ESTUDIOS; OMITA GESTIONAR EL FINCAMIENTO DE SANCIONES ADMINISTRATIVAS EN CONTRA DE DICHA INSTITUCION Y HACER DEL CONOCIMIENTO DE LAS AUTORIDADES COMPETENTES ESA CIRCUNSTANCIA.
+
+LAS SANCIONES PREVISTAS EN ESTE ARTICULO SE IMPONDRAN SIN PERJUICIO DE LAS SANCIONES ADMINISTRATIVAS Y LAS PENAS QUE CORRESPONDAN POR LA COMISION DE OTROS DELITOS.
+
+T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO
 
@@ -9365,7 +9365,11 @@ I. Los asuntos continuarán tramitándose conforme a la descripción del tipo pe
 
 II. Cuando exista sentencia condenatoria por el delito de atentados al pudor continuará la compurgación de la pena conforme al tipo penal por el cual se emitió.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-560 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 79 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+P.O. 25 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 273. SE ADICIONA EL TÍTULO VIGÉSIMO NOVENO DENOMINADO "DELITOS CONTRA LA IMPARTICIÓN DE EDUCACIÓN" QUE CONTIENE EL CAPÍTULO ÚNICO INTITULADO "OMISIÓN DE INFORMACIÓN EN DOCUMENTOS Y PUBLICIDAD DE INSTITUCIONES EDUCATIVAS" CON UN ARTÍCULO 452, AL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-567 MEDIANTE EL CUAL SE ADICIONA EL TÍTULO VIGÉSIMO CUARTO DENOMINADO ‘‘DE LOS DELITOS COMETIDOS CONTRA EL SERVICIO PÚBLICO Y DISTRIBUCIÓN DEL AGUA’’ AL LIBRO SEGUNDO, CON EL CAPÍTULO I DENOMINADO ‘‘DE LA SUSTRACCIÓN Y APROPIACIÓN DEL AGUA Y OTROS DELITOS RELACIONADOS’’, Y LOS ARTÍCULOS 476; 477; 478; 479; 480; Y 481, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
