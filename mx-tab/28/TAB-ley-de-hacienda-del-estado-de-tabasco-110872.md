@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2019-12-21"
+last_updated: "2020-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -645,7 +645,9 @@ IV. Llevar los libros o registros y expedir la documentación comprobatoria, tan
 
 La obligación de proporcionar los datos y documentos que le sean solicitados por la Secretaría, existe también para los retenedores del impuesto y en general para quienes hagan los pagos a los contribuyentes a que se refiere este capítulo.
 
-### CAPÍTULO QUINTO. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS DE TODA CLASE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2020)</small>
+
+### CAPÍTULO QUINTO. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y CONCURSOS DE TODA CLASE
 
 #### SECCIÓN PRIMERA. DEL OBJETO Y DEL SUJETO
 
@@ -661,13 +663,23 @@ III. La obtención de ingresos o premios derivados de loterías, rifas, sorteos 
 
 IV. La obtención de ingresos o premios derivados de la celebración de juegos de azar, apuesta electrónica, en los que se incluyen, independientemente del nombre con el que se les designe, a aquellos en los que el ingreso o premio se obtenga por la destreza del participante en el uso de máquinas que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
 
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2020)</small>
+
+V. La realización de juegos con apuestas, independientemente del nombre que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos, y su Reglamento.
+
+> <small>[N. DE E. PERTENCE A LA FRACCIÓN V, P.O. 25 DE MARZO DE 2020]</small>
+
+Quedan comprendidos en los juegos con apuestas aquellos en los que solo se reciban, capten, crucen o exploten apuestas.
+
 ###### Artículo 48.
 
 Son sujetos de este Impuesto:
 
 I. Las personas físicas y jurídicas colectivas que obtengan ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase, que hayan sido cobrados en el territorio del Estado. Las personas o instituciones que organicen o celebren los eventos objeto del impuesto les deberán retener el correspondiente al momento de efectuar el pago.
 
-II. Las personas físicas, jurídicas colectivas o unidades económicas sin personalidad jurídica que organicen o celebren loterías, rifas, sorteos y concursos de toca clase, incluidos aquellos que se organicen o celebren en base al uso de máquinas y aparatos tecnológicos que funcionen con dinero, fichas o tarjetas electrónicas que simulen monederos.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
+
+II. Las personas físicas, jurídicas colectivas o unidades económicas sin personalidad jurídica que organicen, celebren o realicen loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, incluidos aquellos que se organicen o celebren en base al uso de máquinas y aparatos tecnológicos que funcionen con dinero, fichas o tarjetas electrónicas que simulen monederos.
 
 III. Las personas físicas y jurídicas colectivas que obtengan ingresos o premios derivados de rifas o sorteos a que se refiere el punto que antecede, independientemente que el organizador y el evento mismo de cuyo resultado dependerá la obtención del ingreso o premio, se encuentren o se celebren fuera del territorio del Estado.
 
@@ -689,11 +701,31 @@ Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valo
 
 No se considerará como premio el reintegro correspondiente al billete que permitió participar en loterías, rifas, sorteos y concursos de todas clases.
 
+> <small>(ADICIONADA (N. DE E. CON SUS PÁRRAFOS E INCISOS], P.O. 25 DE MARZO DE 2020)</small>
+
+III. Para los sujetos que realicen juegos con apuestas, el valor de los actos o actividades realizados establecidos en la fracción V del artículo 47.
+
+Se considerará como valor el monto total de las apuestas. Tratándose de los juegos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego con apuesta, se considerará como valor el total de las cantidades equivalentes en moneda nacional que estos amparen.
+
+Se considerará también como valor de los actos o actividades realizados, el total de las cantidades efectivamente percibidas por los operadores de los establecimientos de los participantes por dichas actividades, por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas, cualquiera que sea el nombre con el que se les designe.
+
+Los valores a que se refiere esta fracción se podrán disminuir con el monto de los siguientes conceptos:
+
+a) Los premios efectivamente pagados o entregados conforme a las disposiciones aplicables. Tratándose de premios diversos al efectivo, el monto que se podrá disminuir será el que corresponda al valor estipulado en el permiso otorgado por la autoridad competente o, en su defecto, el valor de mercado.
+
+b) Las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y estas se encuentren debidamente registradas en contabilidad y, tratándose de juegos en los que se apueste, también se registren en el sistema central de apuestas. Cuando el premio incluya la devolución de la cantidad efectivamente percibida del participante, dicho concepto se disminuirá únicamente como premio.
+
+> <small>[N. DE E. PERTENCE A LA FRACCIÓN III, P.O. 25 DE MARZO DE 2020]</small>
+
+Cuando el monto de los conceptos mencionados en los incisos anteriores sea superior a los valores de las actividades a que se refiere la fracción V del artículo 47 de esta Ley, correspondientes al mes de que se trate, la diferencia se podrá disminuir en los meses siguientes hasta agotarse.
+
 ###### Artículo 50.
 
 Este impuesto se causa:
 
-I. Para los sujetos que organicen o celebren loterías, rifas, sorteos o concursos de todo tipo, en el momento en que se entregue a los participantes los boletos, billetes contraseñas o cualquier otro tipo de comprobantes que permitan participar en cualquiera de los eventos señalados como objeto del impuesto.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
+
+I. Para los sujetos que organicen, celebren o realicen loterías, rifas, sorteos, juegos con apuestas o concursos de toda clase, en el momento en que se entregue a los participantes los boletos, billetes, contraseñas o cualquier otro tipo de comprobantes que permitan participar en cualquiera de los eventos señalados como objeto del impuesto.
 
 II. Para los sujetos que obtengan los ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase cobrados en el territorio del Estado, en el momento en que éstos se obtengan.
 
@@ -703,17 +735,17 @@ Los sujetos que organicen o celebren el evento que dé origen al pago del impues
 
 Sobre la base gravable, se aplicarán las tasas y cuotas siguientes:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
 
-I. Del 6.0 por ciento, para quienes organicen o celebren loterías, rifas, sorteos, o concursos de toda clase en el Estado.
+I. Del 6.0 por ciento, para quienes organicen, celebren o realicen loterías, rifas, sorteos, juegos con apuestas o concursos de toda clase en el Estado.
 
 II. Del 6.0 por ciento, para quienes obtengan premios derivados de loterías, rifas, sorteos, o concursos de toda clase en el Estado.
 
 Quienes entreguen los premios a que se refiere este capítulo, tendrán obligación de efectuar las retenciones de este impuesto, así como de proporcionar, cuando así lo solicite el interesado, constancia de retención de dicho impuesto.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
 
-III. Una cuota mensual de 11.84 UMA por cada máquina o aparato tecnológico que tengan los sujetos del impuesto, cuando la realización de juegos, sorteos y concursos que se organicen o celebren en base al uso de dichas máquinas y aparatos tecnológicos que funcionen con dinero, fichas o tarjetas electrónicas que simulen monederos, en los que el premio se obtenga por la destreza del participante en el uso de dichas máquinas o aparatos tecnológicos, o bien, que en el uso de las mismas intervenga directa o indirectamente el azar.
+III. Una cuota mensual de 17.26 UMA por cada máquina o aparato tecnológico que tengan los sujetos del impuesto, cuando la realización de juegos, sorteos y concursos que se organicen o celebren en base al uso de dichas máquinas y aparatos tecnológicos que funcionen con dinero, fichas o tarjetas electrónicas que simulen monederos, en los que el premio se obtenga por la destreza del participante en el uso de dichas máquinas o aparatos tecnológicos, o bien, que en el uso de las mismas intervenga directa o indirectamente el azar.
 
 Cuando se haya enterado la cuota a la que se refiere la presente fracción, no se enterará el impuesto por la organización o celebración de los juegos, sorteos y concursos, llevados a cabo con las máquinas y aparatos tecnológicos que funcionen con dinero, fichas o tarjetas electrónicas que simulen monederos en base a la tasa a la que se refiere la fracción I del presente artículo.
 
@@ -727,7 +759,9 @@ Los sujetos obligados al pago del impuesto con responsabilidad directa o solidar
 
 Los sujetos de este impuesto tendrán las siguientes obligaciones:
 
-I. Tratándose de personas que habitualmente organicen loterías, rifas, sorteos y concursos de toda clase, deberán solicitar la inscripción en el registro de contribuyentes del Estado, utilizando para tales efectos las formas aprobadas por la Secretaría. Las personas jurídicas colectivas estarán obligadas a entregar una copia del acta o documento constitutivo.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
+
+I. Tratándose de personas que habitualmente organicen o realicen loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, deberán solicitar la inscripción en el registro de contribuyentes del Estado, utilizando para tales efectos las formas aprobadas por la Secretaría. Las personas jurídicas colectivas estarán obligadas a entregar una copia del acta o documento constitutivo.
 
 II. Presentar ante las autoridades fiscales, los avisos y declaraciones que correspondan, dentro de los plazos y en los lugares señalados para tales efectos.
 
@@ -739,9 +773,11 @@ V. Cuando los sujetos realicen eventos en varios establecimientos, acumularán l
 
 #### SECCIÓN CUARTA. DE LAS EXENCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2020)</small>
+
 ###### Artículo 54.
 
-Estarán exentos de este impuesto, y únicamente por la organización o celebración de loterías, rifas, sorteos y concursos de toda clase:
+Estarán exentos de este impuesto, y únicamente por la organización, celebración o realización de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase:
 
 I. La Federación en forma directa;
 
@@ -759,19 +795,113 @@ Todos los sujetos exentos que se mencionan en este artículo deberán cumplir co
 
 En ningún caso se entenderán exentos del pago del impuesto los ingresos o premios obtenidos.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2020)</small>
+
+### CAPÍTULO QUINTO BIS. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS CON APUESTAS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE MARZO DE 2020)</small>
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 54 Bis.
+
+Para los efectos de este capítulo se entenderá por:
+
+I. Juegos con apuestas:
+
+a) Aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar;
+
+b) Aquellos en los que el participante deba estar presente en el juego, activamente o como espectador;
+
+c) Aquellos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante;
+
+d) Los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video, audio o ambos;
+
+e) Aquellos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas; y
+
+f) Todos aquellos que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos, y su Reglamento.
+
+II. Apuesta: el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos, y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a esta.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 54 Ter.
+
+El impuesto previsto en este capítulo se causará y pagará con independencia de los impuestos a que se refiere el capítulo anterior.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE MARZO DE 2020)</small>
+
+#### SECCIÓN SEGUNDA. DEL OBJETO Y DEL SUJETO
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 54 Quater.
+
+Es objeto de este impuesto las erogaciones que realicen las personas dentro del territorio del estado de Tabasco para participar en juegos con apuestas.
+
+Se incluyen como erogaciones para participar en juegos con apuestas, las cantidades que entreguen a operadores de los establecimientos por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas, cualquiera que sea el nombre que se les designe.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 54 Quinquies.
+
+Son sujetos de este impuesto las personas que realicen erogaciones dentro del territorio del estado de Tabasco para participar en juegos con apuestas.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 54 Sexies.
+
+Serán responsables solidarios del impuesto, en adición al operador del establecimiento en el que se realicen los juegos o en los que se instalen las máquinas de juegos, cualquiera de las siguientes personas físicas o jurídicas colectivas, cuando no sean ellas quienes reciban los pagos del contribuyente:
+
+I. Las que organicen, administren, exploten o patrocinen los juegos referidos en el artículo 54 bis;
+
+II. Los arrendatarios de los establecimientos en los que se realicen los juegos a que se refiere el artículo 54 bis;
+
+III. Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto; y
+
+IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere este capítulo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE MARZO DE 2020)</small>
+
+#### SECCIÓN TERCERA. DE LA BASE, CAUSACIÓN, TASA Y PAGO DEL IMPUESTO
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 54 Septies.
+
+El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en juegos con apuestas y hasta por el monto de cada pago que se realice de manera directa o a través de otro usuario.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 54 Octies.
+
+El impuesto se calculará aplicando la tasa del 10 por ciento al monto de las erogaciones efectuadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie o cualquier otro medio que permita participar en los mismos.
+
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permita participar en los juegos con apuestas o el uso o acceso a las maquinas a los que se refiere el artículo 54 bis, ya sea de dichos medios o dispositivos se usen en la fecha en que se efectue el pago o en una posterior.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 54 Nonies.
+
+El operador del establecimiento en el que se realicen los juegos o en el que se encuentren instaladas las máquinas de juegos recaudará el impuesto para participar en juegos con apuestas al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas a más tardar el día 20 del mes calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.
+
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que este pueda recaudar el impuesto. La omisión por parte del contribuyente, no libera al operador de la responsabilidad solidaria prevista en el artículo 54 Sexies.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE MARZO DE 2020)</small>
+
+#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DE LOS OPERADORES DE LOS ESTABLECIMIENTOS
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 54 Decies.
+
+Los operadores de los establecimientos en los que se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo anterior, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga que otorguen a quienes utilicen las máquinas de juegos, en los que conste expresamente y por separado el importe recaudado.
+
 ### CAPÍTULO SEXTO. DEL IMPUESTO POR LA PRESTACIÓN DE SERVICIOS DE HOSPEDAJE
 
 #### SECCIÓN PRIMERA. DEL OBJETO, SUJETO Y BASE
-
-#### SECCIÓN SEGUNDA. TASA Y PAGO DEL IMPUESTO
-
-#### SECCIÓN TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
-
-#### SECCIÓN CUARTA. NO SUJECIONES
-
-### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
-
-#### SECCIÓN PRIMERA. PRESTACIÓN DE SERVICIOS
 
 ###### Artículo 55.
 
@@ -795,7 +925,7 @@ Es base de este impuesto el monto total de los ingresos que perciban las persona
 
 Se consideran ingresos gravados los pagos totales a que se refiere el artículo 55 de esta Ley, incluyendo las cantidades que se carguen o cobren por intereses normales, penas convencionales, mantenimiento por la modalidad de tiempo compartido y cualquier otro concepto que se adicione relacionado con los servicios de hospedaje, incluyendo las devoluciones, descuentos, reducciones y bonificaciones recibidas. El Impuesto al Valor Agregado no se incluirá para el cálculo de este gravamen.
 
-#### SECCIÓN SEGUNDA. CERTIFICADOS, CONSTANCIAS Y COPIAS CERTIFICADAS; LEGALIZACIÓN DE FIRMAS Y BUSQUEDA DE DOCUMENTOS
+#### SECCIÓN SEGUNDA. TASA Y PAGO DEL IMPUESTO
 
 ###### Artículo 58.
 
@@ -809,7 +939,7 @@ El pago del impuesto se efectuará mensualmente, a más tardar el día 20 del me
 
 Los contribuyentes presentarán sus declaraciones y pagos en la Receptoría de Rentas correspondiente a su domicilio fiscal, en las formas aprobadas para tal efecto por la Secretaría.
 
-#### SECCIÓN PRIMERA. SERVICIOS LEGALES
+#### SECCIÓN TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
 ###### Artículo 61.
 
@@ -831,51 +961,111 @@ III. Presentar los avisos, datos, documentos e informes que le soliciten las aut
 
 IV. Presentar una sola declaración cuando tengan varios establecimientos dentro del Estado.
 
-#### SECCIÓN SEGUNDA. REGISTRO CIVIL
+#### SECCIÓN CUARTA. NO SUJECIONES
 
 ###### Artículo 62.
 
 No son sujetos de este impuesto, cuando se presten, los servicios de hospedaje proporcionados por los hospitales, clínicas, asilos, conventos, seminarios, internados, orfanatos y casas de beneficencia o asistencia social.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2020)</small>
+
+### CAPÍTULO SÉPTIMO. DEL IMPUESTO A LA VENTA FINAL DE BEBIDAS ALCOHÓLICAS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE MARZO DE 2020)</small>
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 62 Bis.
+
+Para efectos de este capítulo se entenderá por:
+
+I. Bebidas alcohólicas: las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3° hasta 55° Gay Lussac, incluyendo al aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
+
+II. Venta final:
+
+a) La que se efectúa en el territorio del estado de Tabasco cuando en este se realice la entrega material de los bienes objeto de este capítulo, por parte del importador, productor, envasador o distribuidor, según sea el caso, para su posterior venta al público en general o consumo; y
+
+b) El faltante de inventario o el consumo propio de las bebidas descritas en el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 62 Ter.
+
+No se causará este impuesto por las ventas de bebidas alcohólicas cuando se realicen al público en general, en botellas abiertas o por copeo, para su consumo en el mismo lugar o establecimiento en el que se enajenen.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE MARZO DE 2020)</small>
+
+#### SECCIÓN SEGUNDA. DEL SUJETO Y DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 62 Quater.
+
+Son sujetos de este impuesto y se encuentran obligados al pago, las personas físicas y jurídicas colectivas que realicen en el territorio del estado de Tabasco la venta final de bebidas alcohólicas, con excepción de la cerveza, el aguamiel y productos derivados de su fermentación por encontrarse expresamente reservados a la Federación, así como los productos medicinales con graduación alcohólica que estén reconocidos por la autoridad competente y de conformidad con las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE MARZO DE 2020)</small>
+
+#### SECCIÓN TERCERA. DE LA BASE, CAUSACIÓN, TASA Y PAGO DEL IMPUESTO
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 62 Quinquies.
+
+El impuesto se determinará aplicando la tasa del 4.5 por ciento sobre el precio de la venta final de las bebidas alcohólicas, sin incluir los impuestos al valor agregado, ni especial sobre producción y servicios.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 62 Sexies.
+
+El impuesto se causará en el momento en que el enajenante perciba efectivamente el importe correspondiente al precio de venta final de las bebidas alcohólicas objeto del presente capítulo y cuando las contraprestaciones se paguen parcialmente el impuesto se calculará aplicando la tasa respectiva a la parte de la contraprestación pagada.
+
+Cuando la contraprestación percibida no sea en dinero, sino total o parcialmente en especie, se considerará como valor de estos el de mercado o, en su defecto, el de avalúo. Los mismos se tomarán en cuenta en caso de donación, cuando por ello deba pagar el impuesto establecido en este capítulo.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 62 Septies.
+
+El impuesto materia del presente capítulo será enterado por el enajenante mediante declaración en la forma oficial aprobada por la Secretaría, a más tardar el día 20 del mes siguiente a aquel en que se cause.
+
+Este impuesto no será acreditable contra otros impuestos locales o federales.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE MARZO DE 2020)</small>
+
+#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2020)</small>
+
+###### Artículo 62 Octies.
+
+Los contribuyentes de este impuesto, además de las obligaciones establecidas en esta ley y en las demás disposiciones fiscales aplicables, tendrán las siguientes:
+
+I. Registrarse, para los efectos de este impuesto, ante la Secretaría, mediante aviso que será presentado en las formas o medios electrónicos, que para tal efecto autorice dicha dependencia.
+
+II. Llevar un registro pormenorizado de las ventas a que se refiere el artículo 62 Quater, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto.
+
+III. Expedir comprobante por cada una de las operaciones, sin que el impuesto establecido en este capítulo se traslade en forma expresa y por separado.
+
+Los ayuntamientos tendrán la obligación de proporcionar a la Secretaría, de forma trimestral la información con la que cuenten sobre los establecimientos que realicen actividades relacionadas con este impuesto, a fin de mantener actualizado el padrón correspondiente y ejercer las facultades con que cuenta la autoridad fiscal.
+
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+
+#### SECCIÓN PRIMERA. PRESTACIÓN DE SERVICIOS
+
+#### SECCIÓN SEGUNDA. CERTIFICADOS, CONSTANCIAS Y COPIAS CERTIFICADAS; LEGALIZACIÓN DE FIRMAS Y BUSQUEDA DE DOCUMENTOS
+
+#### SECCIÓN PRIMERA. SERVICIOS LEGALES
+
+#### SECCIÓN SEGUNDA. REGISTRO CIVIL
+
+## TÍTULO TERCERO. DERECHOS
 
 ### CAPÍTULO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE GOBIERNO Y SUS ÓRGANOS DESCONCENTRADOS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN TERCERA. PERIÓDICO OFICIAL DEL ESTADO
-
-#### SECCIÓN CUARTA. REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-#### SECCIÓN PRIMERA. SEGURIDAD PÚBLICA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-#### SECCIÓN SEGUNDA. DIRECCIÓN GENERAL DE LA POLICÍA ESTATAL DE CAMINOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-### CAPÍTULO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA Y SUS ÓRGANOS DESCONCENTRADOS
-
-#### SECCIÓN TERCERA. POLICIA AUXILIAR Y LA BANCARIA, INDUSTRIAL Y COMERCIAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-#### SECCIÓN PRIMERA. CATASTRO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-#### SECCIÓN SEGUNDA. VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS
-
-#### SECCIÓN TERCERA. REGULACIÓN DE CASAS DE EMPEÑO
-
-## TÍTULO TERCERO. DERECHOS
-
-### CAPÍTULO CUARTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE FINANZAS
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-#### SECCIÓN CUARTA. REGISTRO ESTATAL DE VEHÍCULOS
 
 ###### Artículo 63.
 
@@ -895,7 +1085,9 @@ Los Poderes del Estado, sus Dependencias, Órganos Administrativos Desconcentrad
 
 El recibo oficial de pago para efectuar los diversos trámites que contempla la presente Ley, tendrá una vigencia de un año a partir de su expedición.
 
-#### SECCIÓN QUINTA
+#### SECCIÓN CUARTA. REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 67.
 
@@ -1025,11 +1217,9 @@ El establecimiento de estos costos no contraviene las facultades que la Ley de T
 
 Las mismas cuotas y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético u óptico realicen los poderes Legislativo y Judicial, así como los órganos autónomos y que le sean solicitados en materia de acceso a la información pública. La entrega de la información pública bajo las modalidades de correo electrónico, consulta física o verbal, en ningún caso generará pago alguno.
 
-### CAPÍTULO QUINTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL
+### CAPÍTULO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA Y SUS ÓRGANOS DESCONCENTRADOS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-#### SECCIÓN PRIMERA. SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL
+#### SECCIÓN PRIMERA. SEGURIDAD PÚBLICA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -1095,9 +1285,9 @@ X. Por adhesión de apostilla, por cada documento. 3.0 UMA
 
 La Secretaría con motivo de programas colectivos y específicos de beneficio social que emprenda el Gobierno del Estado a solicitud de la dependencia o entidad que preste el servicio de que se trate, podrá exentar o en su caso reducir el pago, del derecho establecido en la fracción IX del presente artículo.
 
-#### SECCIÓN SEGUNDA
+#### SECCIÓN SEGUNDA. DIRECCIÓN GENERAL DE LA POLICÍA ESTATAL DE CAMINOS
 
-SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 72.
 
@@ -1151,9 +1341,9 @@ X. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2016)
 
 La Secretaría con motivo de programas colectivos y específicos de beneficio social que emprenda el Gobierno del Estado a solicitud de la dependencia que preste el servicio de que se trate, podrá exentar o en su caso reducir el pago, de los derechos establecidos en las fracciones V y VI del presente artículo.
 
-#### SECCIÓN PRIMERA. PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
+#### SECCIÓN TERCERA. POLICIA AUXILIAR Y LA BANCARIA, INDUSTRIAL Y COMERCIAL
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 73.
 
@@ -1211,9 +1401,9 @@ hasta 100 palabras o fracción. 3.0 UMA
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA “YUMKA”
+#### SECCIÓN PRIMERA. CATASTRO
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 73-A.
 
@@ -1579,9 +1769,11 @@ Por cada escritura o documento hecho o elaborado en otras Entidades Federativas 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
+### CAPÍTULO CUARTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE FINANZAS
 
-#### SECCIÓN PRIMERA. ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS
 
 ###### Artículo 74.
 
@@ -1667,7 +1859,7 @@ del servicio de seguridad privada. 60.0 UMA
 
 Las inscripciones al Registro de los Servicios de Seguridad Privada y de Personal a que se refiere esta fracción, se cobrarán sólo la primera vez que sean asentadas.
 
-#### SECCIÓN SEGUNDA. CENTRAL DE MAQUINARIA DE TABASCO
+#### SECCIÓN TERCERA. REGULACIÓN DE CASAS DE EMPEÑO
 
 ###### Artículo 75.
 
@@ -1797,7 +1989,7 @@ I. Por los primeros 25 kilómetros. 8.0 UMA
 
 II. Por cada kilómetro o fracción siguiente. 0.25 UMA
 
-#### SECCIÓN TERCERA. COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
+#### SECCIÓN CUARTA. REGISTRO ESTATAL DE VEHÍCULOS
 
 ###### Artículo 77.
 
@@ -2061,13 +2253,11 @@ j) Firma del solicitante del servicio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO SEXTO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE BIENESTAR, SUSTENTABILIDAD Y CAMBIO CLIMÁTICO Y SUS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO QUINTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN CUARTA. JUNTA ESTATAL DE CAMINOS
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN QUINTA
 
 ###### Artículo 78.
 
@@ -2417,9 +2607,9 @@ Cuando se trate de viviendas de interés social o popular, se cobrará en el pri
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
-#### SECCIÓN PRIMERA. DESARROLLO AGROPECUARIO, FORESTAL Y PESCA
+#### SECCIÓN PRIMERA. SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 79.
 
@@ -2623,9 +2813,9 @@ de una licencia por fallecimiento. 200.0 UMA
 
 El importe correspondiente al 10% del monto total de los derechos que se obtengan por los conceptos establecidos en este artículo será destinados al auxilio y estímulo de las acciones en materia de salud efectuadas por instituciones humanitarias de asistencia pública o privada, tales como servicio de urgencias médicas o de emergencia y socorro para víctimas. Los recursos serán otorgados de conformidad con los convenios que para tal efecto suscriban con la Secretaría.
 
-#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
+#### SECCIÓN SEGUNDA
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS.
 
 ###### Artículo 80.
 
@@ -2667,7 +2857,9 @@ VII. Por modificación de cada permiso de
 
 cada establecimiento. 100.0 UMA
 
-#### SECCIÓN PRIMERA
+#### SECCIÓN PRIMERA. PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 81.
 
@@ -3119,7 +3311,9 @@ la expedición de permisos para vehículos en traslado. 100.0 UMA
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-#### SECCIÓN SEGUNDA
+#### SECCIÓN SEGUNDA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA “YUMKA”
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 88.
 
@@ -3127,17 +3321,17 @@ la expedición de permisos para vehículos en traslado. 100.0 UMA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN ÚNICA. COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
+#### SECCIÓN PRIMERA. ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS
 
-#### SECCIÓN PRIMERA. INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
+#### SECCIÓN SEGUNDA. CENTRAL DE MAQUINARIA DE TABASCO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+#### SECCIÓN TERCERA. COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
 
-#### SECCIÓN SEGUNDA. INSTITUTO DE PROTECCIÓN CIVIL
+### CAPÍTULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
-### CAPÍTULO SÉPTIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SALUD Y SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
+#### SECCIÓN CUARTA. JUNTA ESTATAL DE CAMINOS
 
-#### SECCIÓN TERCERA. CENTRAL DE ABASTO DE VILLAHERMOSA
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 89.
 
@@ -3235,15 +3429,17 @@ La Secretaría, con motivo de eventos de promoción turística o cultural que em
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-#### SECCIÓN CUARTA. INSTITUTO DE VIVIENDA DE TABASCO
+#### SECCIÓN PRIMERA. DESARROLLO AGROPECUARIO, FORESTAL Y PESCA
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 90.
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
-### CAPÍTULO OCTAVO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MOVILIDAD
+### CAPÍTULO SEXTO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE BIENESTAR, SUSTENTABILIDAD Y CAMBIO CLIMÁTICO Y SUS ÓRGANOS DESCONCENTRADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 91.
 
@@ -3251,11 +3447,11 @@ Por los servicios prestados por la Secretaría de Educación, sus órganos desco
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
+### CAPÍTULO SÉPTIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SALUD Y SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
 
-#### SECCIÓN QUINTA. COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 91-A.
 
@@ -3489,9 +3685,7 @@ de emisiones. 50.0 UMA
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEXTA. SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN PRIMERA
 
 ###### Artículo 91-B.
 
@@ -3527,7 +3721,9 @@ III. En apoyo al bienestar cultural y recreativo de los trabajadores de las depe
 
 IV. A los maestros y estudiantes que a través del organismo descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, sean canalizadas al Centro de Interpretación y Convivencia con la Naturaleza "Yumká" del Estado de Tabasco en apoyo al bienestar familiar, recibirán el 80 por ciento de descuento, de igual forma se otorgará el 70 por ciento de descuento a los padres de familia de dichos estudiantes.
 
-### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS Y SUS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO OCTAVO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MOVILIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
 
 ###### Artículo 92.
 
@@ -3537,9 +3733,9 @@ El paciente cubrirá los derechos a que se refiere esta Ley, de acuerdo al resul
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2019)</small>
 
-### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA Y SUS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 93.
 
@@ -3855,9 +4051,7 @@ V. Corrección o cancelación de trámite. 5.0 UMA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO DÉCIMO TER. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE CULTURA
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS Y SUS ÓRGANOS DESCONCENTRADOS
 
 ###### Artículo 94.
 
@@ -3867,11 +4061,11 @@ Por los servicios prestados por la Secretaría para el Desarrollo Económico y l
 
 I. Por la búsqueda y expedición de cada documento que contenga información relativa al Registro Estatal de Agentes Inmobiliarios. 4.0 UMA
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
+### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA Y SUS ÓRGANOS DESCONCENTRADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN SEGUNDA
 
 ###### Artículo 95.
 
@@ -3941,7 +4135,7 @@ b) Por reconsideración o verificación de Certificación
 
 de Predio por Ubicación en Zona de Riesgo ya emitido. 25.00 UMA
 
-#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PRESTADOS POR EL PODER JUDICIAL
+#### SECCIÓN ÚNICA. COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
 
 ###### Artículo 96.
 
@@ -4291,7 +4485,9 @@ En caso de que se requiera pagar peaje por cuotas de carreteras o autopistas, de
 
 Si derivado del flete de la maquinaria solicitada, es necesario emplear maniobras complejas y equipo adicional para su traslado, se aumentará el costo de los servicios establecidos en los incisos a), b), c), d) y e) de la fracción III del presente artículo en un 10 por ciento.
 
-#### SECCIÓN TERCERA. DE LOS SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO
+#### SECCIÓN PRIMERA. INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 97.
 
@@ -4409,6 +4605,8 @@ k) Mayor de 10 hectáreas a 15 hectáreas. 75.0 UMA
 
 l) Mayor a 15 hectáreas a 20 hectáreas. 83.0 UMA
 
+#### SECCIÓN SEGUNDA. INSTITUTO DE PROTECCIÓN CIVIL
+
 ###### Artículo 98.
 
 Por los servicios relacionados con la Junta Estatal de Caminos, órgano desconcentrado de la Secretaría de Ordenamiento Territorial y Obras Públicas, se causarán y pagarán por concepto de:
@@ -4417,9 +4615,11 @@ I. Permiso carretero 585.83 UMA
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL Y SUS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO DÉCIMO TER. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE CULTURA
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN TERCERA. CENTRAL DE ABASTO DE VILLAHERMOSA
 
 ###### Artículo 98-A.
 
@@ -4621,6 +4821,8 @@ IX (SIC). Asesoría técnica por hora (incluye traslado). 4.00 UMA
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
+#### SECCIÓN CUARTA. INSTITUTO DE VIVIENDA DE TABASCO
+
 ###### Artículo 98-B.
 
 Por los servicios relacionados con la Comisión Estatal Forestal, órgano desconcentrado de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca, se causarán y pagarán los derechos siguientes:
@@ -4645,7 +4847,9 @@ III. Servicio de asesoría técnica especializada. 29.58 UMA
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO DÉCIMO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 98-C.
 
@@ -5395,9 +5599,9 @@ Con motivo de programas de promoción cultural, que emprenda el Gobierno del Est
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO DÉCIMO CUARTO. ORGANISMOS DESCENTRALIZADOS
+### CAPÍTULO DÉCIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL Y SUS ÓRGANOS DESCONCENTRADOS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 99.
 
@@ -5437,7 +5641,9 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 > <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS POR LOS PODERES LEGISLATIVO Y JUDICIAL Y LOS ÓRGANOS AUTÓNOMOS
+### CAPÍTULO DÉCIMO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS
+
+#### SECCIÓN QUINTA. COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO
 
 ###### Artículo 100.
 
@@ -5445,11 +5651,19 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
+#### SECCIÓN SEXTA. SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 101.
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2019)
 
-### CAPÍTULO PRIMERO. PRODUCTOS
+### CAPÍTULO DÉCIMO CUARTO. ORGANISMOS DESCENTRALIZADOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 102.
 
@@ -5473,7 +5687,9 @@ por el Titular del Ejecutivo para la venta
 
 de cartuchos de uso deportivo. 40.0 UMA
 
-### CAPÍTULO SEGUNDO. APROVECHAMIENTOS
+### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS POR LOS PODERES LEGISLATIVO Y JUDICIAL Y LOS ÓRGANOS AUTÓNOMOS
+
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PRESTADOS POR EL PODER JUDICIAL
 
 ###### Artículo 103.
 
@@ -5584,6 +5800,8 @@ XV. Uso de sala velatoria con sala de descanso. 118.36 UMA
 ###### Artículo 109.
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
+
+#### SECCIÓN TERCERA. DE LOS SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO
 
 ###### Artículo 110.
 
@@ -6103,7 +6321,7 @@ numerarios se cobrará por día. 1.0 UMA
 
 Cuando la víctima sea quien solicite la devolución de un bien mueble o inmueble, se cobrará únicamente el servicio de devolución.
 
-### CAPÍTULO TERCERO. PARTICIPACIONES
+### CAPÍTULO PRIMERO. PRODUCTOS
 
 ###### Artículo 114.
 
@@ -6197,6 +6415,8 @@ XIV. Reimpresión de constancia de no existencia de sanción 1.00 UMA
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS, APROVECHAMIENTOS Y PARTICIPACIONES
 
+### CAPÍTULO SEGUNDO. APROVECHAMIENTOS
+
 ###### Artículo 117.
 
 Los ingresos que el Estado, obtenga por la explotación de sus bienes patrimoniales o por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, se fijarán y recaudarán de acuerdo con las reglas que establecen las leyes o reglamentos respectivos o, en su efecto, conforme a las bases generales establecidas por el Ejecutivo del Estado en las licencias, concesiones o contratos correspondientes.
@@ -6224,6 +6444,8 @@ IX. Recuperaciones provenientes de establecimientos del Estado.
 X. Papel especial para actos del registro civil.
 
 XI. Otros no especificados.
+
+### CAPÍTULO TERCERO. PARTICIPACIONES
 
 ###### Artículo 118.
 
@@ -6850,3 +7072,15 @@ DÉCIMO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se de
 Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
 
 DÉCIMO PRIMERO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
+
+P.O. 25 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 193 POR EL QUE “SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO QUINTO DEL TÍTULO SEGUNDO "DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y CONCURSOS DE TODA CLASE"; ASÍ COMO LOS ARTÍCULOS 48 FRACCIÓN II; 50 FRACCIÓN I; 5I FRACCIÓN I Y III; 53 FRACCIÓN I; 54 PÁRRAFO PRIMERO; Y SE ADICIONAN LOS ARTÍCULOS 47 FRACCIÓN V; 49 FRACCIÓN III; ASÍ COMO EL CAPÍTULO QUINTO BIS DENOMINADO "DEL IMPUESTO A LAS EROGACIONES EN JUEGOS CON APUESTAS" INTEGRADO POR LA SECCIÓN PRIMERA DENOMINADA "DISPOSICIONES GENERALES" INTEGRADA POR LOS ARTÍCULOS 54 BIS Y 54 TER, LA SECCIÓN SEGUNDA DENOMINADA "DEL OBJETO Y DEL SUJETO" INTEGRADA POR LOS ARTÍCULOS 54 QUATER, 54 QUINQUIES Y 54 SEXIES, LA SECCIÓN TERCERA DENOMINADA "DE LA BASE, CAUSACIÓN, TASA Y PAGO DEL IMPUESTO" INTEGRADA POR LOS ARTÍCULOS 54 SEPTIES, 54 OCTIES Y 54 NONIES, LA SECCIÓN CUARTA DENOMINADA "DE LAS OBLIGACIONES DE LOS OPERADORES DE LOS ESTABLECIMIENTOS" INTEGRADA POR EL ARTÍCULO 54 DECIES; Y EL CAPÍTULO SÉPTIMO DENOMINADO "DEL IMPUESTO A LA VENTA FINAL DE BEBIDAS ALCOHÓLICAS" INTEGRADO POR LA SECCIÓN PRIMERA DENOMINADA "DISPOSICIONES GENERALES" INTEGRADA POR LOS ARTÍCULOS 62 BIS Y 62 TER, LA SECCIÓN SEGUNDA DENOMINADA "DEL SUJETO Y DEL OBJETO" INTEGRADA POR EL ARTÍCULO 62 QUATER; LA SECCIÓN TERCERA DENOMINADA "DE LA BASE, CAUSACIÓN, TASA Y PAGO DEL IMPUESTO" INTEGRADA POR LOS ARTÍCULOS 62 QUINQUIES, 62 SEXIES Y 62 SEPTIES, Y LA SECCIÓN CUARTA DENOMINADA "DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES" INTEGRADA POR EL ARTÍCULO 62 OCTIES; AMBOS CAPÍTULOS AL TÍTULO SEGUNDO; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de abril de 2020.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. El Ejecutivo del Estado a través de la Secretaría de Finanzas deberá implementar las medidas administrativas que estime necesarias para la aplicación de las disposiciones que establece el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado deberá realizar las adecuaciones que resulten pertinentes al Reglamento de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, en un plazo no mayor a ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
