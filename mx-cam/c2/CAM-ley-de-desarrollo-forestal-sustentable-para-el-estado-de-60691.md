@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-60691"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-07"
-last_updated: "2018-04-12"
+last_updated: "2020-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "CAM"
 ---
 # LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 7 de marzo de 2008.
 
@@ -712,7 +714,9 @@ c). Pequeña, mediana y gran industria forestal;
 
 d). Procesos de comercialización y diversificación forestal y en general de aquellos relacionados con la cadena productiva forestal;
 
-e). La protección forestal, a través de normatividad en materia de sanidad, prevención, combate y control de incendios, conservación y restauración de suelos y demás proyectos que contribuyan al desarrollo de estas actividades;
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
+
+e) La protección forestal, a través de normatividad en materia de sanidad, prevención, combate y control de incendios, conservación y restauración de suelos y demás proyectos que contribuyan al desarrollo de estas actividades. Así como la preservación forestal de los lugares declarados como patrimonio, reserva o área protegida por la UNESCO o por leyes federales o estatales;
 
 f). La educación, cultura y participación social, tales como: capacitación, asistencia técnica, concientización, sensibilización, difusión, eventos forestales y demás proyectos que contribuyan al desarrollo de estas actividades;
 
@@ -1085,3 +1089,11 @@ P.O. 12 DE ABRIL DE 2018.
 PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 25 DE MARZO DE 2020
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 123 POR EL QUE “SE REFORMA EL INCISO E) DE LA FRACCIÓN II DEL ARTÍCULO 50 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
