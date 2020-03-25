@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-los-servidores-publicos-del-comite-de-132
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-28"
-last_updated: "2018-11-28"
+last_updated: "2020-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 25 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2020 (ABROGADO).
 
 Código publicado en la Sección Primera al Número 103 del Periódico Oficial del Estado de México, el miércoles 28 de noviembre de 2018.
 
@@ -794,3 +796,15 @@ L. EN D. WENDOLINNE CHÁVEZ FERNÁNDEZ
 REPRESENTANTE DEL ÁREA JURÍDICA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 25 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Código de Conducta del Comité de Planeación para el Desarrollo del Estado de México, publicado el 28 de noviembre de 2018 en el Periódico Oficial “Gaceta del Gobierno”, así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Acuerdo.
