@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-seguridad-social-del-estado-de-tabasco-110875"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2019-06-13"
+last_updated: "2020-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAB"
 
 LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE JUNIO DE 2019.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 31 de diciembre de 2015.
 
@@ -135,9 +133,11 @@ Para que los derechohabientes reciban las prestaciones que la LSSET establece, d
 
 La calidad de beneficiario se reconoce únicamente a quien acredite una relación de las que a continuación se señalan, con el asegurado o pensionado:
 
-I. La cónyuge o concubina en términos de la legislación civil. Para el caso en que ésta cuente con seguridad social como producto de su trabajo, su calidad de beneficiario se limitará a las prestaciones de pensiones que la LSSET determine;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
 
-II. El cónyuge o concubinario en términos de la legislación civil, si está incapacitado físicamente y/o mentalmente, determinado por dictamen médico expedido por el ISSET y que dependa económicamente de la cónyuge o concubina;
+I. Los cónyuges, concubina o concubinario en términos de la legislación civil. Para el caso en que estos cuenten con seguridad social como producto de su trabajo, su calidad de beneficiarios se limitará a las prestaciones de pensiones que la LSSET determine;
+
+II. (DEROGADA, P.O. 25 DE MARZO DE 2020)
 
 III. Los hijos o hijas solteros menores de dieciocho años;
 
@@ -415,41 +415,49 @@ Si en cualquier tiempo los recursos del ISSET no fuesen suficientes para cumplir
 
 ### CAPÍTULO CUARTO. DE LAS CUOTAS Y APORTACIONES
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
+
 ###### Artículo 34.
 
-Todo asegurado comprendido en el artículo 2 de la LSSET, a excepción de las fracciones VII y VIII, tiene obligación de contribuir al Fondo del ISSET el 16% de su sueldo base mensual, comprendiendo los incrementos retroactivos a que tenga derecho. El monto que resulte de obtener el porcentaje referido se enterará al ISSET y se distribuirá en la forma siguiente:
+Los asegurados comprendidos en las fracciones IV y V del artículo 2 de la LSSET, tienen la obligación de contribuir a los fondos del ISSET de sus sueldos bases mensuales, los porcentajes siguientes:
 
-I. El 21.875% para prestaciones médicas;
+I. 3.5 por ciento para prestaciones médicas;
 
-II. El 03.125% para el seguro de vida y apoyo de gastos funerarios;
+II. 0.5 por ciento para el seguro de vida y apoyo de gastos funerarios;
 
-III. El 62.500% para pensiones:
+III. 10 por ciento para pensiones:
 
-a) 33.750% para su cuenta individual;
+a) 5.4 por ciento para su cuenta individual;
 
-b) 28.750% para el esquema de beneficio definido;
+b) 4.6 por ciento para el esquema de beneficio definido;
 
-IV. El 04.375% para servicios asistenciales;
+IV. 0.7 por ciento para servicios asistenciales;
 
-V. El 01.875% para deporte, recreación y cultura; y
+V. 0.3 por ciento para deporte, recreación y cultura; y
 
-VI. El 06.250% para el fondo general de administración.
+VI. 1 por ciento para el fondo general de administración.
+
+Porcentajes que sumados ascienden al 16 por ciento de sus sueldos bases mensuales. El monto que resulte de obtener este porcentaje se enterará al ISSET.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
 
 ###### Artículo 35.
 
-Los Entes Públicos tienen la obligación de aportar el 26% sobre el sueldo base mensual, y el sobresueldo por riesgo de trabajo. El monto que resulte de obtener el porcentaje referido se enterará al ISSET y se distribuirá en la forma siguiente:
+Los Entes Públicos tienen la obligación de aportar el 26 por ciento sobre el sueldo base mensual y el sobresueldo por riesgo de trabajo, conforme a los porcentajes siguientes:
 
-I. El 55.769% para prestaciones médicas;
+I. 14.49994 por ciento para prestaciones médicas;
 
-II. El 1.923% para el seguro de vida y seguro de gastos funerarios;
+II. 0.49998 por ciento para el seguro de vida y seguro de gastos funerarios;
 
-III. El 30.769% para pensiones del esquema de beneficio definido;
+III. 7.99994 por ciento para pensiones del esquema de beneficio definido;
 
-IV. El 2.692% para servicios asistenciales;
+IV. 0.69992 por ciento para servicios asistenciales;
 
-V. El 1.153% para deporte, recreación y cultura;
+V. 0.29978 por ciento para deporte, recreación y cultura; y
 
-VI. El 7.692% para el fondo general de administración;
+VI. 1.99992 por ciento para el fondo general de administración.
+
+El monto que resulte de obtener este porcentaje se enterará al ISSET.
 
 ###### Artículo 36.
 
@@ -601,9 +609,11 @@ Para la hospitalización se requiere el consentimiento expreso del paciente o de
 
 El ISSET dentro de sus facultades diseñará, implementará y desarrollará su modelo y programas de salud, conforme a lo establecido en el Plan Estatal de Desarrollo en materia de Salud.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
+
 ###### Artículo 55.
 
-El asegurado que cause baja en el servicio activo, pero que haya prestado sus servicios ininterrumpidos inmediatamente antes de la separación, durante un mínimo de seis meses, conservará durante los tres meses siguientes a la misma, el derecho a recibir las prestaciones médicas. Del mismo derecho disfrutarán, en lo que proceda, sus beneficiarios.
+El asegurado que cause baja en el servicio activo, pero que haya prestado sus servicios ininterrumpidos inmediatamente antes de la separación, durante un mínimo de seis meses, conservará durante los cuatro meses siguientes a la misma, el derecho a recibir las prestaciones médicas. Del mismo derecho disfrutarán, en lo que proceda, sus beneficiarios.
 
 #### SECCIÓN SEGUNDA. SEGURO DE SALUD PREVENTIVA
 
@@ -695,17 +705,23 @@ No se considerarán accidentes de trabajo o enfermedades profesionales:
 
 I. Las que ocurran encontrándose el asegurado en estado de embriaguez o bajo el efecto de narcóticos o estupefacientes;
 
-II. Los que provoque intencionalmente el asegurado;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
 
-III. Los que sean resultado de un intento de suicidio, efectos de una riña en que hubiere participado el asegurado, salvo que demuestre que su participación en la riña fue involuntaria y que actuó en su legitima defensa o los originados por algún delito doloso cometido por éste; y
+II. Los que provoque intencionalmente el asegurado; y
 
-IV. Los que sean debidos a un caso fortuito o de fuerza mayor no imputables al Ente Público.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
+
+III. Los que sean resultado de un intento de suicidio, efectos de una riña en que hubiere participado el asegurado, salvo que demuestre que su participación en la riña fue involuntaria y que actuó en su legítima defensa o los originados por algún delito doloso cometido por este.
+
+IV. (DEROGADA, P.O. 25 DE MARZO DE 2020)
 
 #### SECCIÓN CUARTA. SEGURO DE MATERNIDAD
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
+
 ###### Artículo 64.
 
-La asegurada, la esposa o concubina del asegurado o pensionado, tendrán derecho a la asistencia obstétrica necesaria a partir del día en que se certifique su estado de embarazo.
+La asegurada, cónyuge o concubina del asegurado o pensionado, tendrán derecho a asistencia obstétrica.
 
 ###### Artículo 65.
 
@@ -895,13 +911,19 @@ El derecho al pago de esta pensión se iniciará a partir del día de la muerte 
 
 Los beneficiarios de estas pensiones son:
 
-I. El cónyuge supérstite y los hijos menores de dieciocho años;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
 
-II. A falta de la esposa, la concubina de conformidad con la legislación civil del Estado;
+I. Los cónyuges supérstites y los hijos menores de dieciocho años;
 
-III. El esposo supérstite o concubinario, siempre que a la muerte de la asegurada o pensionada, fuese mayor de 60 años o esté incapacitado para trabajar y en esta condición hubiese dependido económicamente de ella; y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
 
-IV. A falta de las personas a las que se refieren las tres fracciones anteriores, la pensión por fallecimiento se otorgará a los ascendientes en caso de que hubiesen dependido económicamente del asegurado o pensionado, durante los cinco años anteriores a su muerte, siempre y cuando a la muerte del asegurado o pensionado el ascendiente contara con 60 años de edad o mas. La cantidad total a que tengan derecho los deudos señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos.
+II. A falta del cónyuge, la concubina o concubinario de conformidad con la legislación civil del Estado; y
+
+III. (DEROGADA, P.O. 25 DE MARZO DE 2020)
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
+
+IV. A falta de las personas a las que se refieren las tres fracciones anteriores, la pensión por fallecimiento se otorgará a los ascendientes en caso de que hubiesen dependido económicamente del asegurado o pensionado, durante los cinco años anteriores a su muerte, siempre y cuando a la muerte del asegurado o pensionado el ascendiente contara con 60 años de edad o más. La cantidad total a que tengan derecho los deudos señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos.
 
 Cuando fuesen varios los beneficiarios de una pensión y alguno de ellos perdiese el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes. La dependencia económica deberá ser acreditada fehacientemente.
 
@@ -951,11 +973,13 @@ No habiendo beneficiarios del asegurado o pensionado, o persona que se hubiese h
 
 #### SECCIÓN CUARTA. ACTIVIDADES CULTURALES, RECREATIVAS, DEPORTIVAS Y ASISTENCIALES
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
+
 ###### Artículo 106.
 
-El ISSET podrá promover y realizar actividades culturales, recreativas y deportivas que mejoren el nivel de vida de sus derechohabientes.
+El ISSET podrá promover y realizar actividades culturales, recreativas y deportivas, así como brindar servicios asistenciales que propicien el mejoramiento del nivel de vida de sus derechohabientes.
 
-Con las cuotas y aportaciones correspondientes a estos rubros, el ISSET podrá proporcionar dentro de sus servicios asistenciales, el establecimiento de Centros de Cuidado Infantil y del Adulto Mayor, servicios funerarios y en general, los que autorice la Junta de Gobierno.
+Dentro de sus servicios asistenciales, el ISSET podrá establecer centros de cuidado infantil y del adulto mayor, prestar servicios funerarios y en general los que autorice la Junta de Gobierno.
 
 #### SECCIÓN QUINTA. PROGRAMA DE VIVIENDA
 
@@ -1340,3 +1364,11 @@ NOVENO. En tanto comiencen a operar los registros de Personas Desaparecidas y No
 Asimismo, se deberá migrar la información contenida en los registros provisionales a que se refiere el párrafo anterior, dentro de los quince días siguientes a que comiencen a operar los registros de Personas Desaparecidas y No Localizadas.
 
 DÉCIMO. A partir de la entrada en vigor del presente Decreto, quedan derogadas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+P.O. 25 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 192 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 6, FRACCIÓN I; 34; 35; 55; 63, FRACCIONES II Y III; 64; 98 FRACCIONES I, II Y IV; Y 106; Y SE DEROGAN LA FRACCIÓN II DEL ARTÍCULO 6; LA FRACCIÓN IV DEL ARTÍCULO 63; Y LA FRACCIÓN III DEL ARTÍCULO 98; TODOS DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
