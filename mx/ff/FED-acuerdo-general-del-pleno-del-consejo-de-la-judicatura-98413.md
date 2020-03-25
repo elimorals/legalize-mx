@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-98413"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-02-06"
-last_updated: "2020-03-20"
+last_updated: "2020-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98413&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "2014-01-29"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA ORGANIZACIÓN Y CONSERVACIÓN DE LOS ARCHIVOS ADMINISTRATIVOS EN EL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 20 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE VALORACIÓN, DEPURACIÓN, DESTRUCCIÓN, DIGITALIZACIÓN, TRANSFERENCIA Y RESGUARDO DE LOS EXPEDIENTES JUDICIALES GENERADOS POR LOS ÓRGANOS JURISDICCIONALES, PUBLICADO EN EL D.O.F. DE 25 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2020 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MARZO DE 2020 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 6 de febrero de 2014.
 
@@ -2266,3 +2268,23 @@ SEXTO. Los periodos de vigencia documental, previstos en el artículo 25, comenz
 Tratándose de las series y subseries documentales vigentes antes de la entrada en vigor del presente Acuerdo y que se encuentren registradas con un plazo de conservación mayor a los anteriormente señalados, les serán aplicables las vigencias actuales.
 
 SÉPTIMO. Aquellas áreas administrativas que hayan solicitado el resguardo provisional de su documentación, contarán con un año a partir de la entrada en vigor del presente Acuerdo, para realizar: una transferencia primaria, una transferencia secundaria o, en su caso, una baja documental.
+
+D.O.F. 25 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE VALORACIÓN, DEPURACIÓN, DESTRUCCIÓN, DIGITALIZACIÓN, TRANSFERENCIA Y RESGUARDO DE LOS EXPEDIENTES JUDICIALES GENERADOS POR LOS ÓRGANOS JURISDICCIONALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de transparencia, acceso a la información pública, protección de datos personales y archivos.
+
+CUARTO. Los expedientes valorados con anterioridad a la entrada en vigor de este Acuerdo, serán resguardados, depurados o destruidos conforme a las disposiciones aplicables al momento de su valoración documental.
+
+QUINTO. Los expedientes que sean valorados con posterioridad a la entrada en vigor de este Acuerdo serán depurados y, en su caso, resguardados o destruidos, de conformidad con las reglas establecidas en éste.
+
+SEXTO. La Dirección General de Archivo y Documentación, en coordinación con la Dirección General de Gestión Judicial, determinará los procedimientos y las políticas para el acceso, consulta y búsqueda de los expedientes electrónicos que se encuentren en el SISE.
+
+SÉPTIMO. La Dirección General de Archivo y Documentación elaborará el Manual para la organización de los archivos judiciales resguardados por el Consejo dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Acuerdo. En tanto, seguirá aplicándose lo dispuesto en el Manual para la Organización de los Archivos Judiciales resguardados por la Suprema Corte de Justicia de la Nación, en lo que no se oponga a lo previsto en este Acuerdo.
+
+OCTAVO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas que le estén adscritas llevarán a cabo las acciones necesarias para el cumplimiento del presente Acuerdo.
