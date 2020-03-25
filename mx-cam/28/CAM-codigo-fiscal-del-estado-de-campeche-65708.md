@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2019-08-06"
+last_updated: "2020-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -337,15 +337,21 @@ Para cubrir los gastos públicos y demás obligaciones a su cargo, el Estado de 
 
 No podrá exigirse pago alguno si no está previsto en la Ley de Ingresos correspondiente. Sólo podrá destinarse un ingreso a un fin específico, cuando así lo dispongan expresamente las leyes respectivas.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
+
 ###### Artículo 19.
 
-Las contribuciones se clasifican en impuestos, contribuciones especiales y derechos, las que se definen de la siguiente manera:
+Las contribuciones se clasifican en impuestos, cuotas y aportaciones de seguridad social, contribuciones de mejoras y derechos, las que se definen de la siguiente manera:
 
-I. Impuestos son las prestaciones económicas que establece la ley, con carácter general y obligatorio a cargo de quienes que se encuentren en la situación o hipótesis jurídica prevista por la misma, para cubrir el gasto público;
+I. Impuestos: son las contribuciones establecidas en Ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma y que sean distintas de las aportaciones de seguridad social, contribuciones de mejoras y derechos;
 
-II. Contribuciones especiales son las prestaciones económicas establecidas en ley con carácter obligatorio a cargo de quienes reciban un beneficio particular producido por la ejecución de obras públicas;
+II. Cuotas y Aportaciones de Seguridad Social: son las contribuciones establecidas en Ley a cargo de personas que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la Ley en materia de seguridad social o a las personas que se beneficien en forma especial por servicio de seguridad social proporcionados por el mismo Estado;
 
-III. Derechos son las contraprestaciones económicas establecidas en ley con carácter obligatorio a cargo de quienes usan servicios inherentes al Estado, así como por el uso o aprovechamiento de los bienes del dominio público del Estado.
+III. Contribuciones de Mejoras: son las prestaciones previstas en Ley a cargo de las personas físicas o morales que se beneficien de manera directa por obras o servicios públicos; y
+
+IV. Derechos: son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en las leyes correspondientes. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+
+Cuando sean organismos descentralizados los que proporcionen la seguridad social a que se hace mención en la fracción II, las contribuciones correspondientes tendrán la naturaleza de aportaciones de seguridad social.
 
 ###### Artículo 20.
 
@@ -449,9 +455,9 @@ Para determinar las contribuciones y sus accesorios se considerará en su caso e
 
 Cuando las disposiciones fiscales permitan el acreditamiento de impuestos o de cantidades equivalentes a éstos, pagados en moneda extranjera, se considerará el tipo de cambio que corresponda conforme a lo señalado en el párrafo anterior, referido a la fecha en que se causó el impuesto que se traslada o en su defecto cuando se pague.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
 
-Se aceptarán como medio de pago de las contribuciones, aprovechamientos y sus accesorios los cheques certificados o de caja, salvo buen cobro, y la transferencia electrónica de fondos a favor del Gobierno del Estado de Campeche. En caso que se pague con cheque en el anverso se anotará “cheque librado para el pago de contribuciones (nombre de la contribución) o aprovechamientos (nombre del aprovechamiento) estatales a cargo de (nombre del contribuyente) con Registro Estatal de Contribuyentes (clave de Registro Estatal de Contribuyentes) para abono en cuenta del Servicio de Administración Fiscal del Estado de Campeche”.
+Se aceptarán como medio de pago de las contribuciones, aprovechamientos y sus accesorios los cheques certificados o de caja, salvo buen cobro, la transferencia electrónica de fondos a favor del Poder Ejecutivo del Estado de Campeche, el pago en efectivo y el pago por medio de tarjeta de crédito o débito. En caso (sic) que se pague con cheque en el anverso se anotará "cheque librado para el pago de contribuciones (nombre de la contribución) o aprovechamientos (nombre del aprovechamiento) estatales a cargo de (nombre del contribuyente) con Registro Estatal de Contribuyentes (clave de Registro Estatal de Contribuyentes) para abono en cuenta del Servicio de Administración Fiscal del Estado de Campeche".
 
 Los cheques personales únicamente se aceptarán a juicio de la autoridad fiscal, en los casos y con las condiciones siguientes:
 
@@ -3458,3 +3464,11 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
 
 Tercero. Se autoriza a la Secretaría de Finanzas con el propósito de que lleve a cabo las adecuaciones al presupuesto del Poder Ejecutivo a efecto de que cubra los montos que correspondan al ejercicio fiscal 2019 de los contratos plurianuales a que hacen referencia los párrafos segundo y tercero del artículo 25 de la Ley de Presupuesto de Egresos del Estado de Campeche para el ejercicio fiscal 2019.
+
+P.O. 25 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 122 POR EL QUE "SE REFORMA EL ARTÍCULO 19 Y EL PÁRRAFO QUINTO DEL ARTÍCULO 29 DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE".]
+
+Primero. El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
