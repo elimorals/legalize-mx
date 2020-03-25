@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-regula-la-venta-distribucion-y-consumo-de-bebidas-23619
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2017-07-05"
+last_updated: "2020-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 21 de diciembre de 2001.
 
@@ -123,9 +123,9 @@ XXIII. Hotel: Inmueble donde se proporciona hospedaje y diversos servicios integ
 
 XXIV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
 
-XXV. Licencia: Concesión autorizada por el Ejecutivo del Estado a través de la Secretaría de Planeación y Finanzas a personas físicas o jurídico colectiva (sic) con la finalidad de que estas puedan vender, distribuir o permitir el consumo de bebidas alcohólicas en envase cerrado o abierto en los términos y condiciones de la presente Ley;
+XXV. Licencia: Concesión autorizada por el Ejecutivo del Estado a través de la Secretaría a personas físicas o jurídicas colectivas con la finalidad de que estas puedan vender, distribuir o permitir el consumo de bebidas alcohólicas en envase cerrado o abierto en los términos y condiciones de la presente Ley;
 
 XXVI. Licenciatario: La persona física o jurídica colectiva que haya obtenido una licencia;
 
@@ -163,7 +163,9 @@ XXXV. Revocación: Acto administrativo por el cual la Secretaría deja sin efect
 
 XXXVI. Salón de baile: Inmueble destinado a fiestas, bailes y espectáculos en el que se pueden consumir bebidas alcohólicas, de manera gratuita u onerosa, previa autorización para ello;
 
-XXXVII. Secretaría: La Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2020)</small>
+
+XXXVII. Secretaría: La Secretaría de Finanzas;
 
 XXXVIII. Supermercado: Establecimiento comercial con sistema de autoservicio que, por su estructura y construcción, cuenta para su venta con grandes volúmenes de artículos básicos, electrodomésticos, alimenticios, ropa, telas, latería y bebidas alcohólicas para llevar;
 
@@ -171,13 +173,21 @@ XXXIX. Ultramarinos: Establecimiento cuya actividad preponderante es la venta de
 
 XL. Venta: Toda actividad de enajenación de bebidas alcohólicas;
 
-XLI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2020)</small>
+
+XLI. Venta final: La que se efectúa en el territorio del estado de Tabasco cuando en el mismo se realice la entrega material de las bebidas alcohólicas, por parte del importador, productor, envasador o distribuidor, según sea el caso, para su posterior venta al público en general o consumo.
+
+Asimismo, el faltante de inventario o el consumo propio de las bebidas alcohólicas.
 
 XLII. Tienda de Conveniencia: Establecimiento que cuenta con sistema de autoservicio, con un horario comercial igual o superior a las dieciocho horas, cuya función principal es expender al público productos de uso y consumo, pudiendo accesoriamente vender bebidas alcohólicas en envase cerrado para llevar.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
+
 ###### Artículo 3.
 
-La venta, distribución y consumo de bebidas alcohólicas, en los establecimientos a los que se contrae esta ley, sólo podrá realizarse si se cuenta con la licencia o permiso correspondiente en los términos que establece la presente Ley.
+La venta, distribución y consumo de bebidas alcohólicas, en los establecimientos a los que se refiere esta ley, solo podrá realizarse cuando se cuente con la licencia o permiso correspondiente en los términos que establece la presente Ley.
+
+Al efectuarse la Venta final de bebidas alcohólicas se deberá cumplir con lo establecido por la Ley de Hacienda del Estado de Tabasco.
 
 ###### Artículo 4.
 
@@ -227,7 +237,9 @@ a) Distribuidoras;
 
 Las distribuidoras sólo podrán realizar la venta a temperatura ambiente.
 
-La distribución la realizarán exclusivamente a establecimientos que cuenten con licencia de funcionamiento expedida por la Secretaría de Planeación y Finanzas del Estado a través de la Dirección General de Fiscalización.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
+
+La distribución la realizarán exclusivamente a establecimientos que cuenten con licencia de funcionamiento expedida por la Secretaría a través de la Dirección de Licencias e Inspecciones.
 
 Los vehículos que sean utilizados por las distribuidoras, para el traslado de bebidas alcohólicas, deberán tener rotulada el número de licencia, en los costados de los vehículos, así como llevar copia simple de la licencia de funcionamiento de la distribuidora.
 
@@ -1009,11 +1021,11 @@ Sin estos requisitos no se tendrá por realizado el pago.
 
 La Secretaría, para hacer efectivo el cobro de las sanciones económicas impuestas por violaciones a la presente Ley, aplicará lo relativo al Procedimiento Administrativo de Ejecución señalado en el Código Fiscal del Estado de Tabasco.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2020)</small>
 
 ###### Artículo 46.
 
-Son autoridades que auxiliarán el cumplimiento de la presente Ley: Los Presidentes Municipales o Primeros Concejales en su caso, la Secretaría de Seguridad Pública, la Secretaria de Salud, la Fiscalía General del Estado y demás autoridades competentes en la materia.
+Son autoridades que auxiliarán el cumplimiento de la presente Ley: los Presidentes Municipales o Primeros Concejales en su caso, la Secretaría de Seguridad y Protección Ciudadana, la Secretaría de Salud, la Fiscalía General del Estado y demás autoridades competentes en la materia.
 
 ### CAPITULO XI. DEL RECURSO DE RECONSIDERACIÓN
 
@@ -1168,3 +1180,15 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 25 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 193 POR EL QUE "ARTÍCULO SEGUNDO. SE REFORMAN LOS ARTÍCULOS 2 FRACCIONES XXV, XXXVII Y XLI; 3; 5 FRACCIÓN II INCISO A) PÁRRAFO TERCERO Y 46; TODOS DE LA LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO.”]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de abril de 2020.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. El Ejecutivo del Estado a través de la Secretaría de Finanzas deberá implementar las medidas administrativas que estime necesarias para la aplicación de las disposiciones que establece el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado deberá realizar las adecuaciones que resulten pertinentes al Reglamento de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, en un plazo no mayor a ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
