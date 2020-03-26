@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-11025
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-12"
-last_updated: "2020-03-24"
+last_updated: "2020-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 12 de septiembre de 2015.
 
@@ -541,9 +541,13 @@ X. Incluir en el debate público la participación de la sociedad civil organiza
 
 XI. Establecer acciones de coordinación entre los entes Públicos del Estado para formar y capacitar en materia de igualdad sustantiva entre mujeres y hombres, las personas servidores públicos que laboran en ellos;
 
-XII. Elaborar lineamientos que garanticen la transmisión en los medios de comunicación y órganos de comunicación social de los distintos entes públicos, de una imagen igualitaria, libre de estereotipos y plural de mujeres y hombres;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2020)</small>
 
-XIII. Concertar con los medios de comunicación pública y privada la adopción de medidas de autorregulación, a efecto de contribuir al cumplimiento de la presente Ley, mediante la adopción progresiva de la transmisión de una imagen igualitaria, libre de estereotipos y plural de mujeres y hombres;
+XII. Elaborar lineamientos que garanticen la transmisión en los medios de comunicación y órganos de comunicación social de los distintos entes públicos, de una imagen igualitaria y plural de mujeres y hombres, libre de estereotipos y discriminación e incorporen un lenguaje incluyente;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2020)</small>
+
+XIII. Concertar con los medios de comunicación pública y privada la adopción de medidas de autorregulación, a efecto de contribuir al cumplimiento de la presente Ley, mediante la adopción progresiva de la transmisión de una imagen igualitaria y plural de mujeres y hombres, libre de estereotipos y discriminación e incorporen un lenguaje incluyente;
 
 XIV. Otorgar un reconocimiento a las empresas que se distingan por su alto compromiso con la igualdad sustantiva entre mujeres y hombres, considerando las condiciones que establezca el Reglamento de esta Ley;
 
@@ -966,5 +970,13 @@ P.O. 24 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0649.- SE REFORMA, LOS ARTÍCULOS, 1º EN SUS FRACCIONES III, IV, Y V, 3º, 4º EN SU PÁRRAFO PRIMERO, 5º EN SUS FRACCIONES I, II, III, Y XIII, 8° EN SU FRACCIÓN VI, 10, 11 EN SU FRACCIÓN I, 13 EN SU FRACCIÓN II, 14 EN SUS FRACCIONES II Y X, 16 EN SU FRACCIÓN V, 17 EN SUS FRACCIONES III Y IV, 18 EN SUS FRACCIONES III, VI, X, XI Y XII, 23 EN SU FRACCIÓN IX Y EN SUS PÁRRAFOS ANTEPENÚLTIMO Y PENÚLTIMO, 33 EN SUS FRACCIONES II, IV, V Y VI, 34 EN SUS FRACCIONES II Y III, 35 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES XI, XV Y XVI, 39 EN SU PÁRRAFO PRIMERO Y FRACCIÓN VIII, 41 EN SUS FRACCIONES V Y VIII, 42, 43 EN SUS FRACCIONES III Y IV Y 49 EN SU PÁRRAFO PRIMERO; ADICIONA A LOS ARTÍCULOS 5º LAS FRACCIONES XII BIS Y XV, 14 CINCO FRACCIONES17 (SIC) LAS FRACCIONES V Y VI, 18 LAS FRACCIONES XIII A XVI, 33 LA FRACCIÓN VII, 34 LAS FRACCIONES IV Y V, 35 LAS FRACCIONES XVII Y XVIII, 43 LAS FRACCIONES V Y VI; Y DEROGA DE LOS ARTÍCULOS 5° LA FRACCIÓN XIV, 13 LA FRACCIÓN III Y 33 LA FRACCIÓN III, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 26 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0654.- SE REFORMA EL ARTÍCULO 24 EN SUS FRACCIONES XII Y XIII, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
