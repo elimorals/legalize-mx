@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-fisica-y-deporte-del-estado-de-san-luis-124929"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-14"
-last_updated: "2018-10-01"
+last_updated: "2020-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de diciembre de 2017.
 
@@ -289,7 +289,7 @@ El titular del Instituto será propuesto por el Ejecutivo del Estado a la Junta 
 
 I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Ser mayor de veinticinco años al día de su designación;
+II. (DEROGADA, P.O. 26 DE MARZO DE 2020)
 
 III. Tener reconocimiento y experiencia en materia deportiva, y
 
@@ -1424,3 +1424,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los integrantes de la Comisión Estatal de Apelación y Arbitraje del Deporte que se encuentren en funciones al entrar en vigor este Decreto concluirán su encargo, o (sic) sin que por esta única ocasión puedan ser reelectos para un periodo más; por lo que los nuevos integrantes deberán cumplir con los requisitos que establece el párrafo segundo del artículo 49, de esta Ley.
+
+P.O. 26 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0652.- SE DEROGA DEL ARTÍCULO 23 LA FRACCIÓN II, DE LA LEY DE CULTURA, FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
