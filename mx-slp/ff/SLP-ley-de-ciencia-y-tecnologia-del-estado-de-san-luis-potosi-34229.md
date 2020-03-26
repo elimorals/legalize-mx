@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ciencia-y-tecnologia-del-estado-de-san-luis-potosi-34229
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2019-08-20"
+last_updated: "2020-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -319,9 +319,17 @@ II. Los fondos contarán con un Comité Técnico y de Administración que, adem�
 
 III. Los recursos de los fondos se ejercerán en los proyectos o acciones a que hayan sido asignados; su inversión será siempre en renta fija y tendrán su propia contabilidad; el ejercicio de los recursos deberá realizarse conforme a los contratos correspondientes y a sus reglas de operación;
 
-IV. El órgano de gobierno del COPOCYT será informado anualmente acerca del estado y movimiento de los respectivos fondos, y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2020)</small>
 
-V. Estarán sujetos a las medidas de control y auditoría gubernamental que determinan las leyes.
+IV. El órgano de gobierno del COPOCYT será informado anualmente acerca del estado y movimiento de los respectivos fondos;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2020)</small>
+
+V. Estarán sujetos a las medidas de control y auditoría gubernamental que determinan las leyes, y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2020)</small>
+
+VI. El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo de la investigación científica y tecnológica; becas y formación de recursos humanos especializados; realización de proyectos específicos de investigación científica, desarrollo tecnológico, innovación y modernización tecnológica; el registro nacional o internacional de los derechos de propiedad intelectual que se generen; la vinculación de la ciencia y la tecnología con los sectores productivos y de servicios; la divulgación de la ciencia, la tecnología y la innovación; creación, desarrollo o consolidación de grupos de investigadores o centros de investigación, así como para otorgar estímulos y reconocimientos a investigadores y tecnólogos, en ambos casos asociados a la evaluación de sus actividades y resultados.
 
 ###### ARTICULO 21.
 
@@ -694,5 +702,13 @@ P.O. 20 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 236.- SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 2° DE (SIC) LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0651.- SE REFORMA EL ARTÍCULO 20 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTÍCULO 20 LA FRACCIÓN VI, DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis “.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
