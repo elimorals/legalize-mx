@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-138039"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-09-06"
-last_updated: "2019-09-06"
+last_updated: "2020-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138039&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2019-08-29"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA EN EL CONSEJO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2020.
 
 Acuerdo publicado al Número 5 de la Primera Sección del Diario Oficial de la Federación, el viernes 6 de septiembre de 2019.
 
@@ -581,7 +581,9 @@ La Unidad de Transparencia, rendirá informes trimestralmente al Comité en dond
 
 ###### Artículo 40.
 
-De la difusión de sentencias y resoluciones relevantes en materia penal
+> <small>(REFORMADO SU EPÍGRAFE POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA EN EL CONSEJO, EN RELACIÓN CON LA PUBLICACIÓN DE LA TOTALIDAD DE LAS SENTENCIAS, ASÍ COMO LA IMPLEMENTACIÓN DEL BUSCADOR DE SENTENCIAS ESPECIALIZADO EN EL SISTEMA DE JUSTICIA PENAL ADVERSARIAL, D.O.F. 26 DE MARZO DE 2020)</small>
+
+De la difusión de sentencias y resoluciones relevantes
 
 Los jueces de Distrito y los magistrados de Circuito, tratándose de decisiones jurisdiccionales que a su consideración constituyan un criterio relevante o de interés público, podrán dar a conocer a la Dirección General de Comunicación Social y Vocería, por vía electrónica simultáneamente a la notificación de las partes, el contenido de tales decisiones, acompañando una síntesis que de manera clara y sencilla explique los fundamentos y motivos del fallo respectivo, con el objeto de que, en caso de que se estime oportuno, se proceda a su difusión.
 
@@ -592,6 +594,26 @@ De la obligación del resguardo de información de las sentencias y resoluciones
 Los jueces de Distrito y los magistrados de Circuito, serán los responsables de la supresión de información clasificada como reservada o confidencial en el contenido de la síntesis referida.
 
 El Director General de Comunicación Social y Vocería dará cuenta, con toda oportunidad al Comité, sobre el cumplimiento de lo dispuesto en el artículo anterior.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA EN EL CONSEJO, EN RELACIÓN CON LA PUBLICACIÓN DE LA TOTALIDAD DE LAS SENTENCIAS, ASÍ COMO LA IMPLEMENTACIÓN DEL BUSCADOR DE SENTENCIAS ESPECIALIZADO EN EL SISTEMA DE JUSTICIA PENAL ADVERSARIAL, D.O.F. 26 DE MARZO DE 2020)</small>
+
+###### Artículo 42.
+
+De la publicación de las versiones públicas de la totalidad de las sentencias y, resoluciones con que culminen los procedimientos competencia de los órganos jurisdiccionales
+
+El servidor público facultado tendrá la obligación de integrar al Sistema Integral de Seguimiento de Expedientes la versión pública de las sentencias o resoluciones con que culminen los procedimientos competencia de los órganos jurisdiccionales, que sean emitidas en los expedientes del índice del órgano jurisdiccional de su adscripción, así como todos los datos de registro que se requieran para garantizar efectivamente el derecho de acceso a la información.
+
+La responsabilidad de verificar que se realice dicha integración corresponderá a los jueces de Distrito y magistrados de Circuito que hayan emitido o sido ponentes en la sentencia o resolución con que culminó el procedimiento de su competencia.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA EN EL CONSEJO, EN RELACIÓN CON LA PUBLICACIÓN DE LA TOTALIDAD DE LAS SENTENCIAS, ASÍ COMO LA IMPLEMENTACIÓN DEL BUSCADOR DE SENTENCIAS ESPECIALIZADO EN EL SISTEMA DE JUSTICIA PENAL ADVERSARIAL, D.O.F. 26 DE MARZO DE 2020)</small>
+
+###### Artículo 43.
+
+De la consulta a las versiones públicas de la totalidad de las sentencias y de las resoluciones con que culminen los procedimientos competencia de los órganos jurisdiccionales
+
+Las sentencias podrán consultarse por cualquier persona una vez que se emitan, por lo que deberán incorporarse al Sistema Integral de Seguimiento de Expedientes en versión pública, salvo que se actualice alguna de las hipótesis legales que restrinjan la totalidad del documento, de conformidad con lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+La consulta de las versiones públicas de las sentencias emitidas por los jueces de Distrito o magistrados de Circuito de los Centros de Justicia Penal Federal, se realizará a través del Buscador de sentencias especializado en el sistema de justicia penal adversarial.
 
 ## TRANSITORIOS
 
@@ -608,3 +630,15 @@ QUINTO. Los plazos previstos en el artículo 22 y el sistema electrónico instit
 SEXTO. Lo previsto en el artículo 38, relativo al acceso a las videograbaciones de audiencias públicas de los Juicios Ejecutivos Mercantiles Orales, entrará en vigor hasta en tanto se genere la infraestructura material y humana necesaria para atender las solicitudes en los términos dispuestos.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de transparencia y acceso a la información pública en el Consejo, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 29 de mayo de 2019, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Felipe Borrego Estrada, Alejandro Sergio González Bernabé, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez y Alfonso Pérez Daza.- Ciudad de México, a 29 de agosto de 2019.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA EN EL CONSEJO, EN RELACIÓN CON LA PUBLICACIÓN DE LA TOTALIDAD DE LAS SENTENCIAS, ASÍ COMO LA IMPLEMENTACIÓN DEL BUSCADOR DE SENTENCIAS ESPECIALIZADO EN EL SISTEMA DE JUSTICIA PENAL ADVERSARIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
+
+TERCERO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, en coordinación con la Dirección General de Gestión Judicial en un término de 30 días hábiles a partir de la entrada en vigor del presente Acuerdo, informarán sobre las acciones de la implementación del Buscador de sentencias especializado en el sistema de justicia penal adversarial, y en su caso, propondrán la normativa necesaria para el correcto funcionamiento de la citada herramienta.
