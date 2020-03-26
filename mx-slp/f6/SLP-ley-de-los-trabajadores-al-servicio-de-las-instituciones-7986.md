@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2020-03-24"
+last_updated: "2020-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -305,15 +305,15 @@ Los trabajadores que obtengan licencias sin goce de sueldo, no perderán derecho
 
 Las trabajadoras embarazadas no realizarán actividades que exijan grandes esfuerzos o impliquen peligro para su salud, en relación con la gestación, gozarán de un mes de descanso antes de la fecha del parto y otros dos después del mismo, con goce de sueldo.
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2020)</small>
 
-Asimismo, las trabajadoras que logren obtener la adopción de un infante, gozarán de tres días laborales de descanso a partir de la adopción.
+Así mismo, las trabajadoras que logren obtener la adopción de un infante, gozarán de cinco días laborables de descanso a partir de la adopción.
 
 Durante la lactancia, las madres trabajadoras dispondrán de dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos, por un período de seis meses contados a partir de la terminación de la licencia por maternidad.
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2020)</small>
 
-ARTICULO 36 BIS.- Otorgar un permiso de paternidad de tres días laborales con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos; y de igual manera en el caso de adopción.
+ARTICULO 36 BIS.- Otorgar un permiso de paternidad de cinco días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos; y de igual manera en el caso de adopción.
 
 ###### ARTICULO 37.
 
@@ -2029,10 +2029,18 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 24 DE MARZO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0646.- SE REFORMA (SIC) LOS ARTÍCULOS 120 EN SU PÁRRAFO PRIMERO, 123 EN SU FRACCIÓN VII Y 124 EN SU FRACCIÓN III, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0646.- SE REFORMA (SIC) LOS ARTÍCULOS 120 EN SU PÁRRAFO PRIMERO, 123 EN SU FRACCIÓN VII Y 124 EN SU FRACCIÓN III, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La audiencia trifásica en el Procedimiento Laboral Burocrático Local que se establece mediante este Decreto, se aplicará en los asuntos que se presenten a partir de la entrada en vigencia del mismo, los iniciados con anteriores esquemas procedimentales seguirán desahogando con ellos.
+
+P.O. 26 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0653.- SE REFORMA (SIC) LOS ARTÍCULOS 36 EN SU PÁRRAFO SEGUNDO Y 36 BIS, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
