@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2019-12-27"
+last_updated: "2020-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -867,13 +867,17 @@ I.- Ocasionar la muerte intencional por cualquier medio no autorizado por esta L
 
 II.- La mutilación del animal sin las medidas indoloras necesarias; por negligencia o crueldad;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2020)</small>
 
-III.- Privar de aire, luz, alimento, espacio suficiente al animal en forma negligente e irresponsable, y
+III.- Privar de aire, luz, alimento, espacio suficiente al animal en forma negligente e irresponsable;
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2020)</small>
 
-IV.- Hostigue, maltrate o torture a cualquier animal.
+IV.- Hostigue, maltrate o torture a cualquier animal, y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2020)</small>
+
+V.- Colocar sobre la piel productos o implementos nocivos, ya sea por razones estéticas o de cualquier índole, excluyéndose el tatuaje de identificación o reconocimiento de raza.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -1108,3 +1112,11 @@ P.O. 27 DE DICIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0650.- SE REFORMA EL ARTÍCULO 83 EN SUS FRACCIONES III Y IV; Y ADICIONA AL MISMO ARTÍCULO 83 LA FRACCIÓN V, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
