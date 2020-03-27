@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-nacional-de-comercio-exterior-469
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "2017-09-25"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46902&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGÁNICO DEL BANCO NACIONAL DE COMERCIO EXTERIOR, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2020.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -87,11 +87,11 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPÍTULO SEGUNDO. Del Capital Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 7o.
 
-El capital social autorizado del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $30,000'000,000.00 (TREINTA MIL MILLONES DE PESOS 00/100 M.N.). Dicho capital social autorizado estará representado por 198'000,000 (CIENTO NOVENTA Y OCHO MILLONES) de certificados de aportación patrimonial de la Serie "A" con valor nominal de $100.00 (CIEN PESOS 00/100 M.N.) cada uno y por 102'000,000 (CIENTO DOS MILLONES) de certificados de aportación patrimonial de la Serie "B", con valor nominal de $100.00 (CIEN PESOS 00/100 M.N.) cada uno.
+El capital social autorizado del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $45,000’000,000.00 (cuarenta y cinco mil millones de pesos 00/100 M.N.). Dicho capital social autorizado estará representado por 297’000,000 (doscientos noventa y siete millones) de certificados de aportación patrimonial de la Serie "A" con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno y por 153’000,000 (ciento cincuenta y tres millones) de certificados de aportación patrimonial de la Serie "B", con valor nominal de $100.00 (cien pesos 00/100 M.N.) cada uno.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
@@ -562,3 +562,23 @@ De conformidad con lo establecido en el último párrafo del artículo 30 de la 
 ###### ARTÍCULO TERCERO.
 
 El capital social autorizado del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $30,000'000,000.00 (TREINTA MIL MILLONES DE PESOS 00/100 M.N.), y el capital social suscrito y pagado es de $23,259'105,800.00 (veintitrés mil doscientos cincuenta y nueve millones ciento cinco mil ochocientos pesos 00/100 M.N.),
+
+D.O.F. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL CUAL SE MODIFICA EL ARTÍCULO 7O, PRIMER PÁRRAFO DEL REGLAMENTO ORGÁNICO DEL BANCO NACIONAL DE COMERCIO EXTERIOR, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO, A EFECTO DE AUMENTAR EL CAPITAL SOCIAL DEL MISMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo deberá publicarse en el Diario Oficial de la Federación e inscribirse en el Registro Público de Comercio.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO.
+
+El Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+###### ARTÍCULO CUARTO.
+
+El capital social autorizado del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $45,000’000,000.00 (cuarenta y cinco mil millones de pesos 00/100 M.N.), y el capital social suscrito y pagado es de $30,470’105,800.00 (treinta mil cuatrocientos setenta millones ciento cinco mil ochocientos pesos 00/100 M.N.).
