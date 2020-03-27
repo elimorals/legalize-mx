@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2018-11-30"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -505,7 +507,9 @@ V. Realizar los procesos de consulta popular, plebiscito y referéndum en los t�
 
 VI. Llevar a cabo la promoción del voto y coadyuvar al fortalecimiento y difusión de la cultura cívica y política.
 
-Las actividades del Instituto se regirán por los principios de certeza, legalidad, independencia, imparcialidad, maxima publicidad y objetividad. Para el desempeño de sus actividades, el Instituto contará con un cuerpo de servidores públicos en sus órganos ejecutivos y técnicos, integrados en un Servicio Profesional Electoral conforme lo establecido en (sic) Ley General y el Estatuto que apruebe el Instituto Nacional.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
+Las actividades del Instituto Estatal Electoral, se regirán por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y austeridad. Para el desempeño de sus actividades, el Instituto contará con un cuerpo de servidores públicos en sus órganos ejecutivos y técnicos, integrados en un Servicio Profesional Electoral conforme lo establecido en (sic) Ley General y el Estatuto que apruebe el Instituto Nacional.
 
 Adicionalmente, el Instituto contará con personal adscrito a una rama administrativa, para el óptimo desempeño de las funciones institucionales.
 
@@ -1059,7 +1063,9 @@ En caso de falta permanente de un Consejero Electoral Numerario, la persona que 
 
 El Consejo General, designará a los consejeros electorales de los Consejos Distritales Electorales, mediante el siguiente procedimiento:
 
-I. En la tercer semana del mes de octubre del año anterior al de la elección, emitirá convocatoria pública en la que se establezcan las bases y requisitos para participar, garantizando un plazo de treinta días naturales para el registro de aspirantes;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
+
+I. En la tercera semana del mes de diciembre del año anterior al de la elección, emitirá convocatoria pública en la que se establezcan las bases y requisitos para participar garantizando un plazo de treinta días naturales para el registro de aspirantes;
 
 II. Corresponderá a la Comisión de Reglamentos y Asuntos Jurídicos revisar la documentación correspondiente, desahogar las entrevistas del caso y elaborar el dictamen respectivo, y
 
@@ -1105,13 +1111,17 @@ a) Tener más de 25 años de edad al día de la designación, y
 
 b) Poseer al día de la designación, con antigüedad mínima de dos años, título profesional de Licenciado en Derecho.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
 ###### Artículo 68.
 
-El Consejo General a más tardar el veintidós de diciembre del año anterior a la jornada electoral, celebrará sesión a efecto de tomar la protesta de Ley correspondiente al Consejero Presidente de cada uno de los Consejos Distritales Electorales, expidiéndoles la constancia correspondiente.
+El Consejo General a más tardar la primera semana del mes de marzo del año de la elección, celebrará sesión a efecto de tomar protesta de Ley correspondiente al Consejero Presidente de cada uno de los Consejos Distritales Electorales, expidiéndose la Constancia correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2020)</small>
 
 ###### Artículo 69.
 
-Los Consejos Distritales durante la primer semana de enero del año de la elección, celebrarán Sesión de Instalación previa convocatoria de su Consejero Presidente, con el objeto de preparar el proceso electoral procediendo, previa recepción de las acreditaciones de los consejeros electorales y representantes de partidos políticos, en dicha sesión a:
+Los Consejos Distritales durante la tercera semana de marzo del año de la elección celebrarán Sesión de Instalación, previa convocatoria de su Consejero Presidente, con el objeto de preparar el proceso electoral procediendo, previa recepción de las acreditaciones de los Consejeros Electorales y representantes de partidos políticos, en dicha sesión a:
 
 I. Tomar la protesta de Ley a los consejeros electorales numerarios y supernumerarios; así como a los representantes de los partidos políticos;
 
@@ -1423,11 +1433,23 @@ Los consejeros electorales distritales numerarios y supernumerarios, para el des
 
 Los titulares de los Departamentos de Procesos Electorales, Administración, de Control Interno; de la Unidad Tecnica de lo Contencioso Electoral; los coodinadores (sic) de Partidos Políticos y Financiamiento, Jurídico, de Informática y Estadística Electoral, y el Notificador no podrán tener otro empleo, cargo o comisión, con excepción de las actividades docentes, científicas, culturales, de investigación o de beneficencia, siempre y cuando no interfieran en el ejercicio de sus funciones.
 
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS XII Y XIII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 128/2020 Y SUS ACUMULADAS 147/2020, 163/2020 Y 228/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
 ###### Artículo 97.
 
-La retribución del Consejero Presidente y de los Consejeros Electorales del Consejo General, será establecida en el presupuesto de egresos del Instituto Estatal y aprobada por el Congreso del Estado, en términos del artículo 127 de la Constitución Federal, las cuales no podrán disminuirse durante el tiempo que dure su encargo.
+La retribución del Consejero Presidente y de los Consejeros Electorales del Consejo General, será establecida en el presupuesto de egresos del Instituto Estatal y aprobada por el Congreso del Estado, en términos del artículo 127 de la Constitución Federal, las cuales no podrán disminuirse durante el tiempo que dure su encargo. LAS Y LOS CONSEJEROS ELECTORALES DEL CONSEJO GENERAL Y DE LOS CONSEJOS DISTRITALES ELECTORALES, NO TENDRÁN DERECHO A LAS PRESTACIONES QUE POR LEY LES CORRESPONDEN A LOS TRABAJADORES DEL INSTITUTO ESTATAL, SALVO LA ATENCIÓN DEL SERVICIO MÉDICO EN INSTITUCIÓN PÚBLICA DE SALUD.
 
-Los consejeros electorales de los Consejos Distritales, recibirán desde su instalación y hasta la entrada en receso, una dieta de asistensia (sic) mensual para cubrir los gastos que se generen por el desempeño del cargo, que se calculará diariamente a razón de seis veces el salario mínimo general vigente en el Estado para los numerarios, y de tres veces para los supernumerarios. Estarán sujetos en lo conducente al régimen de responsabilidades administrativas previsto en esta Ley y podrán ser sancionados por el Consejo General por la violación en que incurran a los principios rectores de la función electoral.
+Los Consejeros Electorales Distritales, recibirán desde su instalación y hasta la entrada en receso, una dieta de asistencia mensual para cubrir los gastos que se generen por el desempeño de su encargo, la que se calculara diariamente a razón de:
+
+I.- Para el Consejero Presidente doce Unidades de Medida y Actualización diarias;
+
+II.- Para las y los Consejeros Distritales Numerarios seis Unidades de Medida y Actualización diarias, y
+
+III.- Para las y los Consejeros Supernumerarios tres Unidades de Medida y Actualización diarias. Solo en el mes de junio del año de la elección, la dieta se igualará en los mismos términos que la fracción anterior.
+
+Estarán sujetos en lo conducente al régimen de responsabilidades administrativas previsto en esta Ley y podrán ser sancionados por el Consejo General por la violación en que incurran a los principios rectores de la función electoral.
 
 #### Sección Única. De las condiciones de trabajo de los servidores públicos del Instituto
 
@@ -4676,3 +4698,13 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 52 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, ASÍ COMO DIVERSAS REFORMAS A LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA Y A LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Publíquese el contenido de la presente reforma en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente reforma entrará en vigor hasta en tanto sea publicada la modificación al artículo 5 párrafo quinto de la Constitución Política del Estado Libre y Soberano de Baja California, así como el párrafo segundo del APARTADO B, del mismo artículo.
+
+TERCERO.- Remítase el contenido del presente Decreto al Instituto Estatal Electoral del Estado de Baja California, para los efectos legales correspondientes.
