@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2019-06-04"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2020.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -2438,9 +2438,25 @@ Cuando se cumplan los requisitos para la remisión del estado autorizado de las 
 
 Los depósitos de ahorro son depósitos bancarios de dinero con interés capitalizable. Se comprobarán con las anotaciones en la libreta especial que las instituciones depositarias deberán proporcionar gratuitamente a los depositantes. Las libretas contendrán los datos que señalen las condiciones respectivas y serán título ejecutivo en contra de la institución depositaria, sin necesidad de reconocimiento de firma ni otro requisito previo alguno.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2020)</small>
 
-Las cuentas de ahorro podrán ser abiertas a favor de menores de edad, sin perjuicio de que, con base en la legislación común, los menores de edad puedan celebrar otros depósitos bancarios de dinero. En todos los casos, las disposiciones de fondos solo podrán ser hechas por los representantes del titular.
+Las cuentas de depósito bancario de dinero a que se refiere la fracción I del artículo 46 de esta Ley, podrán ser abiertas a favor de personas menores a dieciocho años de edad a través de sus representantes legales, en cuyo caso las disposiciones de fondos solo podrán ser hechas por los representantes del titular.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2020)</small>
+
+Como excepción a lo establecido en el párrafo anterior, los adolescentes, a partir de los quince años cumplidos, podrán celebrar los contratos de depósito bancario de dinero antes referidos, así como disponer de los fondos depositados en dichas cuentas, sin la intervención de sus representantes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2020)</small>
+
+El Banco de México determinará mediante disposiciones de carácter general las características, nivel de transaccionalidad, limitaciones, requisitos, términos y condiciones de las cuentas indicadas en el párrafo anterior, las cuales estarán limitadas a la recepción de recursos por medios electrónicos exclusivamente, provenientes de programas gubernamentales y cuando se trate de sueldos y salarios depositados por su patrón. Queda prohibida la recepción de depósitos en efectivo o transferencias electrónicas por parte de personas físicas o morales distintas a las señaladas en este párrafo.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2020)</small>
+
+Asimismo, las personas menores a dieciocho años previamente referidas, no podrán contratar préstamos o créditos con cargo a los fondos depositados en las cuentas a que se refiere (sic) párrafo precedente.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2020)</small>
+
+El incumplimiento a lo que establezcan la Secretaría de Hacienda y Crédito Público y el Banco de México en disposiciones de carácter general para regular los contratos de depósito señalados en el párrafo tercero de este artículo, será sancionado de conformidad con lo dispuesto por el párrafo décimo cuarto del artículo 115 de esta Ley y la Ley del Banco de México, en sus respectivos ámbitos de competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -7901,3 +7917,19 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- A partir de la entrada en vigor del presente Decreto, las instituciones de banca de desarrollo deberán dar cumplimiento a la integración paritaria de sus consejeros independientes de manera progresiva. De forma que, en tanto no se alcance la paridad, cuando sea necesario nombrar un nuevo miembro de consejo directivo, se deberá elegir a una persona del género que tiene menor representación.
 
 Tercero.- Los sujetos obligados deberán cumplir con las obligaciones a que se refiere el artículo 44 Bis 4 a partir del siguiente año fiscal.
+
+D.O.F. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO Y DEL CÓDIGO CIVIL FEDERAL”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Banco de México y, en caso de ser necesario, la Secretaría de Hacienda y Crédito Público, contarán con el plazo de 90 días naturales contados a partir del día siguiente al de publicación del presente Decreto en el Diario Oficial de la Federación, para emitir o modificar las disposiciones de carácter general necesarias para la debida implementación del presente Decreto.
+
+Tercero. El Congreso de la Unión contará con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones normativas a la Ley General de Títulos y Operaciones de Crédito, a la Ley para Regular las Sociedades de Información Crediticia, al Código Penal Federal y a la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes e incluir una regulación integral en la prevención e investigación del uso de recursos de procedencia ilícita.
+
+Cuarto. Para efectos de las cuentas a que se refiere el tercer párrafo del artículo 59 de la Ley de Instituciones de Crédito, la Secretaría de Hacienda y Crédito Público y la Comisión Nacional Bancaria y de Valores, podrán incorporar las medidas y procedimientos establecidos en el cuarto párrafo del artículo 115 de la citada ley.
+
+Quinto. En todo caso, las instituciones de crédito que aperturen las cuentas a que se refiere el tercer párrafo del artículo 59 de la Ley de Instituciones de Crédito que se reforma, se asegurarán que en los contratos que al efecto se celebren se establezca la obligación a cargo de la institución de dar conocimiento a los padres o tutores sobre la apertura de la cuenta y que puedan solicitar y consultar estados de cuenta y movimientos de las cuentas de depósito. La Secretaría de Hacienda y Crédito Público establecerá en las disposiciones de carácter general lo señalado en este artículo.
+
+Sexto. Las instituciones públicas que tengan a su cargo la ejecución de programas gubernamentales, cuyos recursos sean susceptibles de ser entregados en cuentas de depósito bancario de dinero, y entre sus beneficiarios se encuentren adolescentes a partir de los quince años cumplidos, deberán enviar a la Comisión Nacional Bancaria y de Valores en forma trimestral a partir de la entrada en vigor de este Decreto, un informe que contenga el listado de los beneficiarios en dicho rango de edad.
