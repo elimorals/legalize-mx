@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-atencion-de-las-personas-migrantes-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-16"
-last_updated: "2018-09-21"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Ley publicada en la Quinta Parte al Número 96 del Periódico Oficial del Estado de Guanajuato, el viernes 16 de junio de 2017.
 
@@ -97,9 +97,15 @@ V. Ley: Ley para la Protección y Atención del Migrante y sus Familias del Esta
 
 VI. Migrante: toda persona que sale de su lugar de origen o residencia, con el propósito de residir en un diverso lugar del país o en el extranjero;
 
-VII. Migrante en retorno: migrante que retorna a su población de origen, independientemente del tiempo que haya residido en el extranjero de forma voluntaria o inducida; y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
 
-VIII. Secretaría: la Secretaría del Migrante y Enlace Internacional.
+VII. Migrante en retorno: migrante que retorna a su población de origen, independientemente del tiempo que haya residido en el extranjero de forma voluntaria o inducida;
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2020)</small>
+
+VIII. Programa Estatal: Programa Estatal de Migración, Hospitalidad e Interculturalidad; y
+
+IX. Secretaría: la Secretaría del Migrante y Enlace Internacional.
 
 Derechos de los migrantes
 
@@ -229,9 +235,9 @@ II. Implementar y evaluar, a través de la Secretaría, la política pública a 
 
 III. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
 
-IV. Implementar el Programa Estatal de Migración, Hospitalidad e Interculturalidad, estableciendo sus objetivos, estrategias y acciones;
+IV. Implementar el Programa Estatal estableciendo sus objetivos, estrategias y acciones;
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -259,7 +265,9 @@ IV. Colaborar en programas y acciones tendientes a respetar los derechos humanos
 
 V. Colaborar con las instancias educativas correspondientes en la instrumentación de esquemas que permitan promover la continuidad de los estudios en ambos lados de la frontera, tanto de migrantes como sus familias en la entidad;
 
-VI. Diseñar y ejecutar el Programa Estatal de Migración, Hospitalidad e Interculturalidad;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
+
+VI. Diseñar y ejecutar el Programa Estatal;
 
 VII. Realizar campañas permanentes de difusión para fortalecer la cultura de protección de los derechos de los migrantes;
 
@@ -279,7 +287,9 @@ XIV. Asistir a los migrantes en situaciones de vulnerabilidad;
 
 XV. Realizar y gestionar, de manera permanente, estudios e investigaciones sobre hospitalidad, interculturalidad y atención de los migrantes, promoviendo su difusión;
 
-XVI. Promover mecanismos que permitan el envío seguro y confiable de las remesas de los migrantes, así como asesorar en el manejo o inversión en sus comunidades de origen a fin de que puedan mejorar sus condiciones de vida;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
+
+XVI. Promover mecanismos asequibles y ofertas de servicio que permitan el envío seguro, confiable y a bajo costo de las remesas de los migrantes, así como asesorar en el manejo o inversión en sus comunidades de origen a fin de que puedan mejorar sus condiciones de vida;
 
 XVII. Coadyuvar con las autoridades federales competentes, con los municipios y con el migrante en retorno por deportación, cuando le sea solicitado dicho trámite;
 
@@ -529,9 +539,9 @@ La Secretaría promoverá con el Sistema para el Desarrollo Integral de la Famil
 
 ### CAPÍTULO V. PROGRAMAS Y ACCIONES DE HOSPITALIDAD E INTERCULTURALIDAD
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2020)</small>
 
-Generación de políticas públicas
+Programa Estatal
 
 ### CAPÍTULO VI. PRESENCIA DE GUANAJUATO EN EL MUNDO
 
@@ -541,6 +551,24 @@ Vinculación
 
 ###### Artículo 27 Ter.
 
+En la definición de objetivos, además de los mínimos establecidos en el artículo 19 de la presente Ley, así como para el establecimiento de estrategias y acciones, el Programa Estatal deberá considerar:
+
+I. Mejorar la calidad de vida de los migrantes a través de su atención integral;
+
+II. Orientar a los migrantes, respecto a la seguridad de las oportunidades de trabajo en el extranjero;
+
+III. Establecer la participación de los migrantes para conocer sus necesidades y consecuentemente adecuar en su beneficio, los Programas de la Secretaría;
+
+IV. Fortalecer la coordinación del Estado con la Federación, los ayuntamientos, organismos públicos y la sociedad organizada; y
+
+V. Propiciar la vinculación con instancias internacionales a efecto de consolidar la presencia del Estado en el mundo.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+Generación de políticas públicas
+
+###### Artículo 27 Quáter.
+
 En materia de hospitalidad e interculturalidad, la generación de las políticas públicas a cargo de la administración pública estatal y municipal, conforme a sus respectivos ámbitos de competencia, se observará lo siguiente:
 
 I. El trato digno, respetuoso y oportuno a las personas que se encuentren en el estado;
@@ -549,27 +577,31 @@ II. Contribuir a la integración intercultural; y
 
 III. Respeto de los derechos humanos de toda persona, evitando la discriminación o exclusión por su condición migratoria, ya sea que en (sic) encuentren con fines de tránsito, destino o retorno, de permanencia temporal o definitiva en el estado de Guanajuato.
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2020)</small>
+
+La generación de las políticas públicas municipales deberá guardar congruencia con lo establecido en el Plan Municipal de Desarrollo, así como en el Programa de Gobierno Municipal.
+
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Habilitación reglamentaria
 
-###### Artículo 27 Quáter.
+###### Artículo 27 Quinquies.
 
 En el reglamento de esta ley y, en su caso, en la normatividad municipal, se establecerán los mecanismos para la instrumentación de las políticas públicas referidas en el artículo anterior.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-###### Artículo 27 Quinquies.
-
-La Secretaría se vinculará con las dependencias y entidades de la Administración Pública Estatal que desarrollen acciones en el ámbito internacional, a efecto de colaborar en el cumplimiento de los objetivos establecidos en los instrumentos de planeación previstos en esta ley.
-
-(REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ### CAPÍTULO VII. RESPONSABILIDADES
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Responsabilidad administrativa
+
+###### Artículo 27 Sexies.
+
+La Secretaría se vinculará con las dependencias y entidades de la Administración Pública Estatal que desarrollen acciones en el ámbito internacional, a efecto de colaborar en el cumplimiento de los objetivos establecidos en los instrumentos de planeación previstos en esta ley.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 21 DE SEPTIEMBRE DE 2018)
 
 ###### Artículo 28.
 
@@ -624,3 +656,19 @@ Artículo Cuarto. El Gobernador del Estado expedirá el Reglamento de la Ley par
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Quinto. El Gobernador del Estado expedirá el Programa Estatal de Migración, Hospitalidad, e Interculturalidad, en un plazo que no exceda de ciento ochenta días, contados a partir de la constitución de la Secretaría del Migrante y Enlace Internacional.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 172 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO”.]
+
+Inicio dé vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Emisión del Programa Estatal
+
+Artículo Segundo. El Ejecutivo del Estado contará con un periodo de ciento veinte días posteriores a la entrada en vigor del presente Decreto para emitir el Programa Estatal de Migración, Hospitalidad e Interculturalidad, de conformidad con el mismo.
+
+Seguimiento de emisión del Programa Estatal
+
+Artículo Tercero. Una vez emitido el Programa Estatal de Migración, Hospitalidad e Interculturalidad, en atención al Artículo Segundo transitorio y sea publicado en el Periódico Oficial del Gobierno del Estado; deberá hacerse del conocimiento de este Congreso del Estado.
