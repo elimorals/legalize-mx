@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-presupuesto-de-egresos-del-estado-de-4699
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-02"
-last_updated: "2020-01-10"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 2 de julio de 1975.
 
@@ -64,6 +64,10 @@ El gasto público se administrará conforme a los principios y criterios de lega
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 La administración pública del Estado, impulsará la igualdad entre mujeres y hombres a través de la incorporación de las perspectivas de género y derechos humanos, en la planeación, diseño, elaboración, ejecución, seguimiento y evaluación del presupuesto basado en resultados a través de las unidades administrativas responsables del gasto.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2020)</small>
+
+El seguimiento y evaluación del presupuesto asignado al cumplimiento de los programas, acciones y objetivos de la igualdad entre mujeres y hombres, se realizará mediante metodologías e indicadores que permitan identificar, los montos, los programas, y en su caso, los resultados obtenidos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2007)</small>
 
@@ -241,9 +245,15 @@ I.- Las categorías, que comprenderán la función, la subfunción, el programa,
 
 II.- Los elementos, que comprenderán la misión, los objetivos, las metas con base en indicadores de desempeño y la unidad responsable, en congruencia con el Plan Nacional de Desarrollo y con los programas sectoriales; y
 
-III.- Las acciones que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género y cualquier forma de discriminación de género.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE MARZO DE 2020)</small>
 
-Será obligatorio para todas las unidades administrativas responsables del gasto, la inclusión de programas orientados a promover el efectivo disfrute de los derechos humanos y la igualdad de género en sus presupuestos anuales, considerando directamente atender las necesidades diferenciadas de las mujeres y los hombres, así como de los pueblos y comunidades indígenas y de otros grupos con necesidades específicas.
+III.- Las acciones, planes, programas y objetivos destinados a promover la igualdad entre mujeres y hombres, la erradicación de la violencia de género y cualquier forma de discriminación de género.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
+Será obligatorio para todas las unidades administrativas responsables del gasto, la inclusión de programas orientados a promover el efectivo disfrute de los derechos humanos y la igualdad de género en sus presupuestos anuales, considerando directamente atender las necesidades diferenciadas de las mujeres y los hombres, así como de los pueblos y comunidades indígenas y de otros grupos con necesidades específicas; identificando y clasificando los recursos correspondientes por monto, programa, plan o acción.
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE MARZO DE 2020)
 
 Para tal efecto, deberán considerar lo siguiente:
 
@@ -251,7 +261,9 @@ I.- Incorporar la perspectiva de género y reflejado en los indicadores para res
 
 II.- Identificar y registrar la población objetivo y la atendida por dichos programas, diferenciada por sexo y grupo de edad en los indicadores para resultados, y en los padrones de personas beneficiadas que corresponda;
 
-III.- Fomentar la perspectiva de género en el diseño y la ejecución de programas, en los que aun cuando no estén dirigidos a mitigar o solventar desigualdades de género, se puede identificar de forma diferenciada los beneficios específicos para mujeres y hombres;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
+
+III.- Garantizar la perspectiva de género en el diseño y la ejecución de programas, en los que aun cuando no estén dirigidos a mitigar o solventar desigualdades de género, se puede identificar de forma diferenciada los beneficios específicos para mujeres y hombres;
 
 IV.- En los programas bajo su responsabilidad, establecer y consolidar las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con enfoque de género;
 
@@ -259,7 +271,13 @@ V.- Aplicar la perspectiva de género en las evaluaciones de los programas, con 
 
 VI.- Incluir en sus programas y campañas de comunicación social contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación;
 
-VII.- Elaborar diagnósticos sobre la situación de las mujeres en los distintos ámbitos de su competencia.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
+
+VII.- Elaborar diagnósticos sobre las eventuales situaciones de desigualdad en que se ubican las mujeres en los distintos ámbitos de su competencia.
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2020)</small>
+
+VIII. Realizar, de acuerdo a la capacidad presupuestal, una planeación que garantice la progresividad y el incremento de los recursos destinados a los objetivos para lograr la igualdad entre mujeres y hombres.
 
 Las unidades administrativas responsables del gasto promoverán acciones para ejecutar el Programa contenido en la Ley de Igualdad entre Mujeres y Hombres del Estado de Coahuila de Zaragoza.
 
@@ -481,7 +499,17 @@ VIII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá
 
 Los Ingresos excedentes derivados de Ingresos de libre disposición del Estado, deberán ser destinados a los siguientes conceptos:
 
-I. Por lo menos el cincuenta por ciento para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para la atención de desastres naturales y de pensiones; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE MARZO DE 2020)</small>
+
+I. Para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para la atención de desastres naturales y de pensiones, conforme a lo siguiente:
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2020)</small>
+
+a) Cuando la Entidad Federativa se clasifique en un nivel de endeudamiento elevado, de acuerdo al Sistema de Alertas, cuando menos el 50 por ciento;
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2020)</small>
+
+b) Cuando la Entidad Federativa se clasifique en un nivel de endeudamiento en observación, de acuerdo al Sistema de Alertas, cuando menos el 30 por ciento, y
 
 II. En su caso, el remanente para:
 
@@ -490,6 +518,14 @@ a) Inversión pública productiva, a través de un fondo que se constituya para 
 b) La creación de un fondo cuyo objetivo sea compensar la caída de ingresos de libre disposición de ejercicios subsecuentes.
 
 Los Ingresos excedentes derivados de Ingresos de libre disposición del Estado podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2020)</small>
+
+Cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas, podrá utilizar hasta un 5 por ciento de los recursos a los que se refiere el presente artículo para cubrir Gasto corriente.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE AL INCISO B], P.O. 27 DE MARZO DE 2020)</small>
+
+Tratándose de Ingresos de libre disposición que se encuentren destinados a un fin específico en términos de las leyes, no resultarán aplicables las disposiciones establecidas en el presente artículo.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -780,6 +816,22 @@ Publíquese en el Periódico Oficial del Gobierno del Estado.
 P.O. 10 DE ENERO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 415.- SE REFORMA EL CONTENIDO DEL PÁRRAFO CUARTO DEL ARTÍCULO 1° DE LA LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 579.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN I Y SE ADICIONAN LOS INCISOS A) Y B) A LA MISMA Y SE ADICIONA UN TERCER Y CUARTO PÁRRAFO AL INCISO B) DE LA FRACCIÓN II DEL ARTÍCULO 33-B DE LA LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 582.- SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 1°; SE MODIFICA EL CONTENIDO DE LOS DOS PÁRRAFOS DE LA FRACCIÓN III DE LA PRIMERA PARTE DEL ARTÍCULO 14 DE LA LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ COMO EL CONTENIDO DE LAS FRACCIONES III Y VII Y SE AGREGA LA FRACCIÓN VIII, POSTERIORES A LA PORCIÓN NORMATIVA QUE REZA "PARA TAL EFECTO, DEBERÁN CONSIDERAR LO SIGUIENTE:" DEL MENCIONADO ARTÍCULO 14 DE LA LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
