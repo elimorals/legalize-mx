@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-gobierno-del-estado-de-aguascalientes-13961
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-27"
-last_updated: "2020-01-27"
+last_updated: "2020-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2020.
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 27 DE ENERO DE 2020]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Ley publicada en la Primera Sección al Número 37 del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de diciembre de 2019.
 
@@ -571,11 +569,23 @@ Se autoriza al Ejecutivo del Estado para que en uso de sus facultades reglamenta
 
 Cuando se considere pertinente su otorgamiento, se deberán establecer las actividades o sectores de contribuyentes a quienes va dirigido y señalar los requisitos a cumplir.
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2020)</small>
+
+Artículo 46 bis.- Se extinguen los créditos fiscales derivados de derechos de control vehicular y del Impuesto Sobre Tenencia o Uso de Vehículos Automotores previstos en la Ley de Hacienda del Estado de Aguascalientes, correspondientes al ejercicio fiscal 2015 y anteriores.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2020)</small>
+
+Artículo 46 ter.- Se exime del pago de derechos de la Coordinación General de Movilidad, señalados en la fracción I, numeral 1, incisos A), B) y C), y numeral 10, incisos E), F), G) y H) del artículo 11 de la Ley de Ingresos del Gobierno del Estado de Aguascalientes, para el Ejercicio Fiscal del Año 2020, siempre que acudan a realizar su trámite en los meses abril, mayo, junio y julio de 2020.
+
+Respecto de los mismos derechos se faculta a la Secretaría de Finanzas para que a través de la Subsecretaría de Ingresos, otorgue un descuento de un 50% de descuento para los contribuyentes que acudan a realizar el trámite en los meses de julio a diciembre.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
 ###### Artículo 47.
 
-Se faculta al Secretario de Finanzas, al Subsecretario de Ingresos y al Director General de Recaudación indistintamente para que otorguen descuentos del 10% al 90% por concepto de recargos, multas estatales impuestas por las dependencias por incumplimiento de obligaciones de pago y aprovechamientos; exceptuando de los mismos, los créditos fiscales provenientes de reintegros de cualquier tipo al erario estatal incluyendo los Organismos Autónomos.
+Se faculta al Secretario de Finanzas, al Subsecretario de Ingresos y al Director General de Recaudación indistintamente para otorgar descuentos de hasta el 100% por concepto de recargos, multas estatales impuestas por las dependencias por incumplimiento de obligaciones de pago y aprovechamientos; exceptuando de los mismos, los créditos fiscales provenientes de reintegros de cualquier tipo al erario estatal incluyendo los Organismos Autónomos
 
-Se faculta al Secretario de Finanzas, al Subsecretario de Ingresos, al Director General de Recaudación y al Director General de Auditoría Fiscal para que otorguen descuentos en el ámbito de sus respectivas competencias del 10% al 90% por concepto de recargos, multas estatales por incumplimiento de obligaciones de pago y aprovechamientos; impuestas por las dependencias, incluyendo entidades paraestatales y organismos autónomos, para estos últimos siempre y cuando se hayan celebrado convenios de colaboración para el cobro de sus ingresos; se exceptúa de lo anterior, los créditos fiscales provenientes de reintegros de cualquier tipo al erario estatal.
+Se faculta al Secretario de Finanzas, al Subsecretario de Ingresos, al Director General de Recaudación y al Director General de Auditoría Fiscal para que otorguen descuentos en el ámbito de sus respectivas competencias de hasta el 100% por concepto de recargos, multas estatales por incumplimiento de obligaciones de pago y aprovechamientos; impuestas por las dependencias, incluyendo entidades paraestatales y organismos autónomos, para estos últimos siempre y cuando se hayan celebrado convenios de colaboración para el cobro de sus ingresos; se exceptúa de lo anterior, los créditos fiscales provenientes de reintegros de cualquier tipo al erario estatal.
 
 ###### Artículo 48.
 
@@ -630,3 +640,17 @@ En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 
 > <small>(F. DE E., P.O. 27 DE ENERO DE 2020, PÁGINA 7)</small>
 
 > <small>[N. DE E. VÉASE ANEXO DE RESULTADOS DE LAS FINANZAS PÚBLICAS, CONFORME EL ARTÍCULO 5° DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, EN LA PRIMERA SECCIÓN DEL P.O. DE 27 DE ENERO DE 2020, PÁGINA 9.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 323.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 47; Y, SE ADICIONAN LOS ARTÍCULOS 46 BIS Y 46 TER AL CAPÍTULO ÚNICO “DISPOSICIONES FINALES” DEL TÍTULO OCTAVO “DE LAS DISPOSICIONES FINALES” DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2020”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
