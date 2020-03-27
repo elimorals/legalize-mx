@@ -4,7 +4,7 @@ identifier: "COA-ley-sobre-el-regimen-de-propiedad-en-condominio-de-4697"
 country: "mx"
 rank: "ley"
 publication_date: "1973-12-10"
-last_updated: "1982-08-06"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 10 de diciembre de 1973.
 
@@ -53,9 +53,11 @@ El derecho de copropiedad sobre los elementos comunes del inmueble, sólo será 
 
 Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que se hubiera establecido el régimen de propiedad, por las de adquisición correspondiente, por el Reglamento del Condominio de que se trate y por las disposiciones del Código Civil, las de la presente Ley y las de otras leyes que fueren aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 2o.
 
-El régimen de propiedad en condominio establecido en el artículo 948 del Código Civil, puede originarse:
+El régimen de propiedad en condominio que establece el Código Civil para el Estado de Coahuila de Zaragoza, puede originarse:
 
 I.- Cuando los diferentes pisos, departamentos, viviendas, casas o locales de que conste un edificio, con elementos de uso común e indivisibles, pertenezcan a distintos dueños;
 
@@ -97,13 +99,15 @@ Al apéndice de la escritura se agregarán, debidamente certificados por el Nota
 
 De la documentación anterior y de la demás que se juzgue necesaria, se entregarán al Administrador copias notarialmente certificadas, para el debido desempeño de su cargo.
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1982)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
-Sólo en tratándose de conjuntos habitacionales que realicen el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y los Organismos Públicos Descentralizados del Estado, la constitución del régimen de propiedad en condominio, podrá hacerse constar en documentos privados que contengan los requisitos a que se refieren las fracciones que anteceden y que firmarán el vendedor y el comprador ante dos testigos, debiendo ratificar el contenido del contrato y reconocer sus firmas, ante el Jefe de la Oficina del Registro Público de la Propiedad que corresponda al lugar de ubicación del inmueble adquirido, a fin de que se proceda a su inscripción.
+Sólo tratándose de conjuntos habitacionales que realicen el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y los Organismos Públicos Descentralizados del Estado, la constitución del régimen de propiedad en condominio, podrá hacerse constar en documentos privados que contengan los requisitos a que se refieren las fracciones que anteceden y que firmarán el vendedor y el comprador ante dos testigos, debiendo ratificar el contenido del contrato y reconocer sus firmas, ante el Jefe de la Oficina Registral que corresponda al lugar de ubicación del inmueble adquirido, a fin de que se proceda a su inscripción.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 5o.
 
-La escritura constitutiva del régimen de propiedad en condominio de inmuebles, que reúna los requisitos de Ley, deberá inscribirse en el Registro Público de la Propiedad.
+La escritura constitutiva del régimen de propiedad en condominio de inmuebles, que reúna los requisitos de Ley, deberá inscribirse en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
 
 ###### ARTICULO 6o.
 
@@ -441,7 +445,9 @@ Cada uno de los condóminos responderá sólo del gravamen que corresponda a su 
 
 Los créditos que se originen por las obligaciones contenidas en las escrituras constitutivas y de traslación de dominio, por el Reglamento del Condominio o por esta Ley y demás disposiciones legales aplicables, gozan de garantía real sobre los departamentos, viviendas, casas o locales, aunque éstos se transmitan a terceros.
 
-La inscripción de este gravamen en el Registro Público de la Propiedad, da derecho a todo interesado para obtener del Administrador y de cualquier acreedor una liquidación de los adeudos pendientes. La liquidación del Administrador, sólo surtirá efectos legales si va suscrita por el Presidente del Comité de Vigilancia o quien lo sustituya.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
+La inscripción de este gravamen en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, da derecho a todo interesado para obtener del Administrador y de cualquier acreedor una liquidación de los adeudos pendientes. La liquidación del Administrador, sólo surtirá efectos legales si va suscrita por el Presidente del Comité de Vigilancia o quien lo sustituya.
 
 ### CAPITULO SEPTIMO.
 
@@ -504,3 +510,9 @@ LIC. OSCAR VILLEGAS RICO.- Rúbrica.
 P.O. 6 DE AGOSTO DE 1982.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 580.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 2°, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 4°, EL ARTÍCULO 5° Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 40 DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE COAHUILA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
