@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2020-03-20"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -195,7 +195,9 @@ VII. Establos, granjas avícolas, porcícolas, apiarios y establecimientos simil
 
 VIII. Prostitución;
 
-IX. Reclusorios o Centros de Readaptación Social;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
+
+IX. Reclusorios o Centros Penitenciarios;
 
 X. Baños públicos;
 
@@ -2651,6 +2653,8 @@ Queda prohibido que los desechos o líquidos que conduzcan los caños sean verti
 
 ### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
 ###### Artículo 208.
 
 Para los efectos de esta Ley se entiende por:
@@ -2719,19 +2723,23 @@ Para la determinación del criterio de cercanía, se medirá una distancia de tr
 
 ###### Artículo 218.
 
-Para los efectos de esta Ley, se entiende por reclusorio o Centro de Readaptación Social, el local destinado a la internación de quienes se encuentran restringidos de su libertad por un proceso o una resolución judicial o administrativa.
+Para los efectos de esta Ley, se entiende por reclusorio o Centros Penitenciarios, el local destinado a la internación de quienes se encuentran restringidos de su libertad por un proceso o una resolución judicial o administrativa.
 
 ###### Artículo 219.
 
 Los reclusorios estarán sujetos al control sanitario del Gobierno del Estado, de conformidad con las disposiciones que se señalan en esta Ley y demás disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
 ###### Artículo 220.
 
-Los reclusorios y Centros de Readaptación Social deberán contar además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes con un departamento de baños de regadera, y con un consultorio médico, que cuente con el equipo necesario para la atención de aquellos casos de enfermedad de los internos en que no sea requerido el traslado de éstos a un hospital.
+Los reclusorios y Centros Penitenciarios deberán contar además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes con un departamento de baños de regadera, y con un consultorio médico, que cuente con el equipo necesario para la atención de aquellos casos de enfermedad de los internos en que no sea requerido el traslado de éstos a un hospital.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
 ###### Artículo 221.
 
-Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el tratamiento a juicio del personal médico de la Institución, previa autorización del director de la misma, el interno podrá ser trasladado a la unidad hospitalaria que él mismo determine; en cuyo caso se deberá hacer del conocimiento de las autoridades competentes. Las personas encargadas de los servicios médicos de los reclusorios y Centros de Readaptación Social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 108 de esta Ley.
+Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el tratamiento a juicio del personal médico de la Institución, previa autorización del director de la misma, el interno podrá ser trasladado a la unidad hospitalaria que él mismo determine; en cuyo caso se deberá hacer del conocimiento de las autoridades competentes. Las personas encargadas de los servicios médicos de los reclusorios y Centros Penitenciarios, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 108 de esta Ley.
 
 ### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIA, SALONES DE BELLEZA, ESTETICAS Y OTROS SIMILARES
 
@@ -4002,3 +4010,15 @@ P.O. 20 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 570.- SE DEROGA LA FRACCIÓN (SIC) C) DEL ARTÍCULO 156; SE AÑADE ARTÍCULO 156 BIS; Y SE REFORMA EL ARTÍCULO 289, TODOS 22 DE LA LEY ESTATAL DE SALUD”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 575.- SE REFORMA LA FRACCIÓN IX DEL INCISO B DEL ARTÍCULO 4, ASÍ COMO LOS ARTÍCULOS 218, 220 Y 221 DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
