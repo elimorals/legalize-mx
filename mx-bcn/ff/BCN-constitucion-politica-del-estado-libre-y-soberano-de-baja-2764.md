@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2020-02-14"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -73,9 +73,9 @@ Cuando las campañas tengan como finalidad elegir gobernador, diputados y ayunta
 
 Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes del estado, como de los municipios, entidades paraestatales, organismos constitucionales autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
-El proceso electoral dará inicio el segundo domingo del mes de septiembre del año anterior a la elección. La jornada electoral para elecciones ordinarias deberá celebrarse el primer domingo de junio del año que corresponda.
+El proceso electoral dará inicio el primer domingo de diciembre del año anterior a la elección. La jornada electoral para elecciones ordinarias deberá celebrarse el primer domingo de junio del año que corresponda.
 
 La Ley establecerá los supuestos, condiciones y reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
 
@@ -149,7 +149,9 @@ El incumplimiento de las normas que regulen la comprobación de ingresos, egreso
 
 APARTADO B.- Del Instituto Estatal Electoral.
 
-La organización de las elecciones estatales y municipales es una función pública que se realiza a través de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren los ciudadanos y los partidos políticos, según lo disponga la Ley. En el ejercicio de esta función pública, serán principios rectores la certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
+La organización de las elecciones estatales y municipales es una función pública que se realiza a través de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren los ciudadanos y los partidos políticos, según lo disponga la Ley. En el ejercicio de esta función pública, serán principios rectores la certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y austeridad.
 
 El Instituto Estatal Electoral podrá convenir con el Instituto Nacional Electoral se haga cargo de la organización de los procesos electorales locales, cuando exista causa justificada para ello, y en los términos que disponga la Ley.
 
@@ -441,11 +443,11 @@ Esta constitución reconoce y garantiza los Derechos de la víctima o del ofendi
 
 ### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 8.
 
-Son derechos de los Habitantes del Estado:
+Son derechos de los habitantes del Estado:
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
@@ -491,8 +493,6 @@ f).- Decidir sobre la donación, trasplante de sus órganos, tejidos, células c
 
 V.- En su condición de padres, deben ser asistidos en la forma que la Legislación lo disponga para la protección y cuidado de los hijos.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 207 PUBLICADO EN EL P.O. DE 13 DE FEBRERO DE 2015, SE MODIFICA LA ESTRUCTURA DE LA PRESENTE FRACCIÓN.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
 
 VI.- Si son personas menores de dieciocho años de edad, tendrán los siguientes derechos:
@@ -501,7 +501,9 @@ VI.- Si son personas menores de dieciocho años de edad, tendrán los siguientes
 
 a) Vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, la formación integral en el amor a la nación, en la democracia como sistema de vida fundada en el respeto a la dignidad humana y en el principio de la solidaridad social, así como a ser protegidos y asistidos contra cualquier forma de sustracción del seno de la familia sin el debido proceso, maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad. Para lo cual el Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos.
 
-b) Que el Estado les garantice de manera subsidiaria la protección nutricional, estableciendo los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
+b) Que el Estado les garantice de manera subsidiaria la protección nutricional a través de programas en los que se establezcan los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley. Las niñas y niños en Baja California tendrán acceso a una alimentación sana y de calidad mediante un desayuno caliente diario en escuelas públicas de nivel básico del Estado.
 
 c) Si son menores de doce años que hayan realizado una conducta prevista como delito en la Ley, sólo serán sujetos a rehabilitación y asistencia social.
 
@@ -945,7 +947,7 @@ X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XI.- Examinar, discutir, modificar, aumentar, reducir y aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, en los términos de la ley de la materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
+XI.- Examinar, discutir, modificar, aumentar, reducir y aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, en los términos de la ley de la materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
 
@@ -1115,7 +1117,7 @@ II.- Al Gobernador;
 
 III.- Al Tribunal Superior en asuntos relacionados con la organización y funcionamiento de la administración de Justicia; así como al Tribunal de Justicia Electoral en asuntos inherentes a la materia electoral;
 
-IV.- A los Ayuntamientos.
+IV.- A los Ayuntamientos;
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -4966,3 +4968,23 @@ P.O. 7 DE FEBRERO DE 2020.
 P.O. 14 DE FEBRERO DE 2020.
 
 > <small>[N. DE E. EL “DECRETO NO. 43 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 52 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, ASÍ COMO DIVERSAS REFORMAS A LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA Y A LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Aprobada la presente reforma por el Pleno del Congreso, túrnese a los Ayuntamientos para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado deberá de emitir la Declaratoria de Incorporación Constitucional correspondiente.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 53 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Aprobada la presente reforma por el Pleno del Congreso, túrnese a los Ayuntamientos para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+TERCERO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado deberá de emitir la declaratoria de incorporación constitucional correspondiente.
