@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-02-28"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -4005,7 +4005,9 @@ VI. Violencia sexual: todo acto sexual o la tentativa de consumarlo bajo coacci�
 
 VII. Por relación de pareja o de hecho. La que exista entre quienes:
 
-a) Hagan vida en común, en forma constante y permanente, por un período mínimo de seis meses.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
+a) Hagan vida en común, no obstante la temporalidad de la misma.
 
 b) Se incorporen a un núcleo familiar residiendo en la misma vivienda, aunque no tengan parentesco con ninguno de sus integrantes.
 
@@ -7880,3 +7882,11 @@ P.O. 28 DE FEBRERO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 574.- SE REFORMA EL INCISO A) DE LA FRACCIÓN VII DEL ARTÍCULO 252 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
