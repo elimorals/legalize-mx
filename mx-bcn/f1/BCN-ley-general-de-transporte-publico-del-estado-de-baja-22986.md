@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-transporte-publico-del-estado-de-baja-22986"
 country: "mx"
 rank: "ley_general"
 publication_date: "2001-11-09"
-last_updated: "2019-06-14"
+last_updated: "2020-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY GENERAL DE TRANSPORTE PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 27 DE MARZO DE 2020., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -658,3 +660,55 @@ P.O. 14 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 344 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 30 TER DE LA LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE B. C.".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 55 MEDIANTE EL CUAL SE APRUEBA LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA.".]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- A la entrada en vigor de la presente Ley, queda abrogada la Ley General de Transporte Público del Estado de Baja California, publicada en el Periódico Oficial del Estado número 49. Sección I, Tomo CVIII del día 9 de noviembre de 2001, con sus reformas y adiciones.
+
+TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que contravengan o se opongan a la presente Ley.
+
+CUARTO.- A la fecha de entrada en vigor de la presente Ley, todas las menciones referentes a la Ley General de Transporte Público del Estado de Baja California, en otras leyes del Estado, o disposición jurídica concurrente, se entenderán referidas a la Ley de Movilidad Sustentable y Transporte del Estado de Baja California.
+
+QUINTO.- El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Movilidad Sustentable y Transporte del Estado de Baja California, en un plazo de hasta 180 días naturales, a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- Los procedimientos administrativos relacionados con concesiones y permisos de transporte público que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se sustanciarán y concluirán conforme a la normatividad que se encontraba vigente en el momento de su inicio y serán resueltos por el Instituto conforme a las facultades conferidas en la presente Ley y demás disposiciones aplicables.
+
+SÉPTIMO.- Se establece un plazo de hasta 100 días naturales a partir de la publicación de la presente Ley en el Periódico Oficial del Estado, para que los Ayuntamientos de los Municipios realicen las adecuaciones administrativas, modificaciones reglamentarias, programáticas, presupuestales y de políticas públicas a efecto de adaptar sus atribuciones conforme al texto de este nuevo ordenamiento, en el ámbito de sus respectivas competencias. Al mismo tiempo acordando con el Instituto los programas de desarrollo urbano, vialidad y tránsito que serán motivo de cooperación conjunta.
+
+OCTAVO.- En el caso del Municipio de Mexicali, en un plazo de 180 días naturales contados a partir de la fecha de publicación de la presente Ley, el Instituto podrá regularizar el transporte público en la modalidad de personal, previa acreditación de las empresas que prestan este servicio, demostrando estas su capacidad de operación, la existencia previa de contratos legalmente celebrados con empresas con anterioridad al 11 de diciembre de 2019, así como el cumplimiento de los requisitos establecidos en la presente Ley y demás disposiciones aplicables.
+
+NOVENO.- En todos los procedimientos judiciales y de justicia administrativa, en los que sean parte los Municipios, los Ayuntamientos, las secretarías y dependencias municipales, así como los organismos descentralizados de las administraciones públicas municipales que operan sistemas o subsistemas, integrados o no, de transporte público de pasajeros, ya sea en su carácter de autoridad o como parte celebrante de contratos, convenios u obligaciones extracontractuales; se deberán sustanciar por las autoridades antes referidas conforme a la normatividad que se encontraba vigente en el momento de su inicio.
+
+DÉCIMO.- El Instituto de Movilidad Sustentable del Estado de Baja California solo tendrá por válidos los permisos, autorizaciones, recorridos o rutas y concesiones otorgados a permisionarios de taxis o concesiones de transporte masivo legalmente otorgados por la autoridad competente con anterioridad al 11 de diciembre de 2019, si estos fueren sometidos al Instituto para su empadronamiento legal en los términos de la presente Ley.
+
+Por lo anterior, en un término improrrogable de 180 días posteriores a la entrada en vigor de la presente Ley, todos los titulares de concesiones, permisos, autorizaciones, convenios y contratos de todas las modalidades del servicio de transporte público, legalmente expedidos o autorizados por los Ayuntamientos, que operan sistemas o subsistemas de transporte público; deberán de presentar ante el Instituto los originales de todos los títulos, contratos, convenios, autorizaciones y todos aquellos documentos que les otorguen derechos y obligaciones para su debido empadronamiento, cotejo, digitalización y captura de los datos que señale el Reglamento o la norma técnica emitida por el Instituto para este fin.
+
+Para tal efecto, deberán señalar domicilio y/o correo electrónico para oír y recibir todo tipo de notificaciones y documentos dentro de la circunscripción territorial que le corresponde, así como aquellos para acreditar la personalidad y representación respectiva, a fin de que el Instituto integre el Padrón de Movilidad conforme a la nueva legislación. Lo anterior, sin perjuicio de las acciones de entrega recepción que realicen los Municipios al Instituto. Salvo caso fortuito o de fuerza mayor, los permisos y concesiones que no sean empadronados, cotejados, digitalizados y capturados dentro del término establecido en el párrafo anterior dejarán de tener validez y se procederá a su cancelación sin mayor trámite.
+
+DÉCIMO PRIMERO.- Las autorizaciones, permisos y concesiones de transporte público emitidos antes del 11 de diciembre de 2019 por los Ayuntamientos del Estado, que no se empadronen ante el Instituto de Movilidad Sustentable del Estado de Baja California en los términos del artículo Décimo Transitorio anterior, serán considerados nulos.
+
+DÉCIMO SEGUNDO.- El Instituto de Movilidad Sustentable del Estado de Baja California no podrá bajo ni una situación o circunstancia expedir nuevas concesiones o permisos del servicio público de transporte en la modalidad de taxis, masivo y de personal durante los próximos 10 años contados a partir de la entrada en vigor de la presente Ley, excepto en aquellos supuestos en los que el Instituto realice el reordenamiento e implementación de los sistemas integrados de transporte público del Estado con base en los planes y programas de movilidad sustentable y el Plan Estatal de Desarrollo, que resulte necesaria su expedición por lo que al concluir este periodo se estará a lo dispuesto por la presente Ley y su Reglamento.
+
+DÉCIMO TERCERO.- El Instituto de Movilidad Sustentable del Estado de Baja California, no podrá autorizar modalidad del servicio público de transporte distintas a las ya autorizadas previamente en cada uno de los municipios del Estado de Baja California, durante los próximos 10 años siguientes a la entrada en vigor de la presente ley, excepto en aquellos supuestos en los que el Instituto realice el reordenamiento e implementación de los sistemas integrados de transporte público del Estado con base en los planes y programas de movilidad sustentable y el Plan Estatal de Desarrollo, que resulte necesaria su expedición, por lo que al concluir este periodo se estará a lo dispuesto por la presente Ley y demás disposiciones aplicables.
+
+DÉCIMO CUARTO.- Para los efectos legales y de funcionamiento del Organismo Municipal para la Operación del Sistema Integral de Transporte Masivo Urbano de Pasajeros de Tijuana (SITT), quedarán vigentes los contratos, fideicomisos, empréstitos, acuerdos, convenios y cada uno de los instrumentos jurídicos que existan y se deriven de los antes mencionados.
+
+El Municipio de Tijuana, Baja California tendrá la administración del mismo en tanto no se suscriban los convenios de transferencia al Instituto de Movilidad Sustentable del Estado de Baja California, quedando vigentes los acuerdos de pago de créditos adquiridos por la paramunicipal quien tiene como aval al Municipio de la ciudad de Tijuana, Baja California.
+
+Para el traslado de garantías de bancos al Instituto de Movilidad Sustentable del Estado de Baja California, o a empresas de transporte, el Municipio de Tijuana, Baja California dentro de sus facultades podrá invertir recurso público para pago de subsidios, becas, apoyos, así como la contratación de pago por kilómetro recorrido con el fin de poder entregar al Gobierno del Estado, el Organismo Municipal para la Operación del Sistema de Transporte Masivo Urbano de Pasajeros de Tijuana, Baja California (SITT) en condiciones óptimas de operación.
+
+DÉCIMO QUINTO.- Se concede un término de 30 días naturales contados a partir del día siguiente de la entrada en vigor de la presente Ley, para que el Instituto celebre los convenios con las Empresas de Redes de Transporte para la transferencia de información prevista, así como el registro de vehículos y conductores sin perjuicio ni excepción alguna para la prestación del servicio en los términos de esta Ley y demás disposiciones aplicables, siempre y cuando acrediten fehacientemente que se encuentran afiliados a estas, a la fecha de entrada en vigor de la presente Ley.
+
+DÉCIMO SEXTO.- Se concede un término de 90 días hábiles contados a partir del día siguiente de la entrada en vigor de la presente Ley, para que los conductores que prestan sus servicios a través de Empresas de Redes de Transporte obtengan las autorizaciones correspondientes.
+
+DÉCIMO SÉPTIMO.- Continúan vigentes las disposiciones en materia de sanciones de los reglamentos de transporte público de los Municipios del Estado hasta en tanto no se publique el Reglamento de la Ley de Movilidad Sustentable y Transporte del Estado de Baja California.
+
+DÉCIMO OCTAVO.- Se concede un plazo de tres años contados a partir del día siguiente de la entrada en vigor de la presente Ley, a efecto de que las escuelas particulares deban implementar o contar con el servicio de transporte escolar conforme lo dispuesto en la presente Ley y su Reglamento.
+
+DÉCIMO NOVENO.- La Secretaría de Hacienda, realizará las acciones necesarias para proporcionar los recursos presupuestales necesarios al Instituto de Movilidad Sustentable del Estado de Baja California para el cumplimiento cabal de las atribuciones conferidas en la presente Ley.
+
+VIGÉSIMO.- A efecto de garantizar la movilidad a personas con discapacidad, el Instituto realizará un diagnóstico de las necesidades de rutas e infraestructura dentro de los 160 días naturales contados a partir de la entrada en vigor de la presente Ley, para efecto de implementar un plan de infraestructura y equipamiento por Municipio, así como para determinar el porcentaje de unidades rutas e infraestructura así como los tiempos de implementación y compromisos de las autoridades en materia de movilidad y transporte a nivel Estatal y Municipal.
