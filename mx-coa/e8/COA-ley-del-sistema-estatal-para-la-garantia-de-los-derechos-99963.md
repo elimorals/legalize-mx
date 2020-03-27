@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2019-06-25"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -249,9 +249,9 @@ XVI. A la protección de sus datos personales;
 
 XVII. A la no utilización de trabajo de personas menores de catorce años de edad;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
 
-XVIII. A una vida libre de violencia, a la integridad, la libertad y la seguridad. Quienes tengan trato con niñas, niños y adolescentes deberán abstenerse de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal; observando especialmente su desarrollo emocional y psicológico, en todos los entornos incluyendo el seno familiar, las escuelas, las instituciones de readaptación social y otros centros alternativos.
+XVIII. A una vida libre de violencia, a la integridad, la libertad y la seguridad. Quienes tengan trato con niñas, niños y adolescentes deberán abstenerse de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal; observando especialmente su desarrollo emocional y psicológico, en todos los entornos incluyendo el seno familiar, las escuelas, los centros penitenciarios y otros centros alternativos.
 
 XIX. A la protección contra la prostitución, la pornografía infantil, el secuestro, la venta y la trata de personas;
 
@@ -2009,13 +2009,17 @@ P.O. 25 DE JUNIO DE 2019.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 575.- SE REFORMA LA FRACCIÓN IX DEL INCISO B DEL ARTÍCULO 4, ASÍ COMO LOS ARTÍCULOS 218, 220 Y 221 DE LA LEY ESTATAL DE SALUD",]
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el efecto de cumplir con lo dispuesto en el presente Decreto las autoridades administrativas competentes tendrán un término de 180 días contados a partir de su publicación en el Periódico Oficial del Estado, para realizar las adecuaciones administrativas y reglamentarias necesarias a fin de garantizar la operatividad de lo dispuesto en la presente reforma.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO TERCERO.
 
