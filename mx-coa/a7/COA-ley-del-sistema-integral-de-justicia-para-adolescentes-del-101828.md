@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-integral-de-justicia-para-adolescentes-del-1018
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-11"
-last_updated: "2016-08-09"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de julio de 2014.
 
@@ -2783,9 +2783,11 @@ Si el adolescente no cumpliere con el apercibimiento judicial que se le haga, el
 
 ### CAPÍTULO CUARTO. DE LA EJECUCIÓN DE LAS MEDIDAS EN LOS CENTROS DE INTERNACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 248.
 
-CENTROS DE INTERNACIÓN. La Dirección contará con los centros de internación que sean necesarios para lograr la adecuada clasificación y tratamiento diferenciado de adolescentes, o, en su caso, dispondrá de áreas especializadas en los centros de readaptación social cuando el sujeto de la medida cumpla dieciocho años de edad.
+CENTROS DE INTERNACIÓN. La Dirección contará con los centros de internación que sean necesarios para lograr la adecuada clasificación y tratamiento diferenciado de adolescentes, o, en su caso, dispondrá de áreas especializadas en los centros penitenciarios cuando el sujeto de la medida cumpla dieciocho años de edad.
 
 Los servidores públicos de los centros de internación deben contar con aptitudes e idoneidad para ejercer la función, perspectiva de género y conocimiento en el tema de derechos humanos, así como estar especializados en el trabajo con adolescentes privados de libertad.
 
@@ -3560,3 +3562,15 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 575.- SE REFORMA LA FRACCIÓN IX DEL INCISO B DEL ARTÍCULO 4, ASÍ COMO LOS ARTÍCULOS 218, 220 Y 221 DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
