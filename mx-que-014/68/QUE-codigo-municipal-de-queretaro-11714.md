@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2020-01-17"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -2553,9 +2553,17 @@ b) En giros con venta de bebidas alcohólicas en envase cerrado, sólo se podrá
 
 III. Inmediatamente después de la hora permitida, los establecimientos deberán cerrar completamente sin que permanezca público en su interior;
 
-IV. Cuando en algún establecimiento vendan artículos comprendidos en diversos horarios, el propietario hará la aclaración correspondiente a la autoridad municipal, a fin de que en la licencia que se expide se haga la anotación respectiva y se le señale el horario que le corresponda; y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
 
-V. La autoridad municipal tendrá la facultad de fijar el horario a los establecimientos no señalados en este apartado.
+IV. Cuando en algún establecimiento vendan artículos comprendidos en diversos horarios, el propietario hará la aclaración correspondiente a la autoridad municipal, a fin de que en la licencia que se expide se haga la anotación respectiva y se le señale el horario que le corresponda;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
+
+V. La autoridad municipal tendrá la facultad de fijar el horario a los establecimientos no señalados en este apartado, y
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2020)</small>
+
+VI. En caso de Declaratoria de Emergencia, Desastre o Contingencia, el Consejo Municipal de Protección Civil determinará las medidas, restricciones, aforos, suspensiones, infracciones, acciones y sanciones que se estimen procedentes para el ejercicio del comercio, profesión, industria, espectáculos y diversiones.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
 
@@ -6869,13 +6877,17 @@ Se sancionarán con multa equivalente a dos días de salario mínimo general vig
 
 Se sancionarán con multa equivalente a ocho días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 258 fracción II.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 943.
 
-Se sancionarán con multa equivalente a trece días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 249; 252 fracción I; y 258 fracciones I y III.
+Se sancionarán con multa equivalente de 1 a 200 veces la Unidad de Medida y Actualización las infracciones a las disposiciones: 249; 252 fracción I; y 258 fracciones I y III;
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 944.
 
-Se sancionarán con multa equivalente a veinticinco días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 251; 252 fracciones II, III y IV; 253 fracciones I a X.
+Se sancionarán con multa equivalente de 1 a 200 veces la Unidad de Medida y Actualización, las infracciones a las disposiciones: 251; 252 fracciones II, III, IV y VI; 253 fracciones I a X.
 
 ###### ARTICULO 945.
 
@@ -7910,3 +7922,19 @@ Se derogan aquellas disposiciones de igual o menor jerarquía que se opongan al 
 ###### ARTÍCULO CUARTO.
 
 Se instruye a la Secretaría del Ayuntamiento para que notifique el presente acuerdo a la Secretaría de Desarrollo Sostenible y a la Secretaría de Finanzas.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE QUERÉTARO Y AL REGLAMENTO DE PROTECCIÓN CIVIL DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Acuerdo en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente acuerdo entrará en vigor al momento de la primera de las dos publicaciones mencionadas en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Secretaría del Ayuntamiento para que notifique el presente acuerdo a la Secretaría General de Gobierno, Secretaría de Seguridad Pública Municipal, Secretaría de Desarrollo Sostenible y a la Coordinación Municipal de Protección Civil.
