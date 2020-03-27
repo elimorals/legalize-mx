@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-las-candidaturas-independientes-en-el-108834
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2018-11-30"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -183,9 +185,13 @@ Los aspirantes a candidatos independientes solo podrán participar en un proceso
 
 En caso de que un mismo ciudadano presente más de una manifestación de intención para participar en el proceso de selección de Candidaturas Independientes a cargos de elección popular, la Secretaría Ejecutiva del Instituto le requerirá dentro de las veinticuatro horas siguientes para que informe por escrito en un plazo no mayor a cuarenta y ocho horas, la manifestación de intención que prevalece, apercibiéndole que, en caso de no hacerlo, se entenderá que elige la primera presentada.
 
-III. Los aspirantes al cargo de Diputados por el principio de mayoría relativa, ante el Consejero Presidente y Secretario Fedatario del Consejo Distrital Electoral correspondiente, y se hará en formulas integradas por propietarios y suplentes.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
 
-En las formulas y planillas de aspirantes, se deberán observar las reglas de equidad entre mujeres y hombres establecidas en la legislacion electoral del Estado.
+III. Los aspirantes al cargo de Diputados por el principio de mayoría relativa ante el Secretario Ejecutivo del Instituto, y se hará en fórmulas integradas por propietarios y suplentes.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
+En las fórmulas y planillas de aspirantes, se deberán observar las reglas de equidad entre mujeres y hombres establecidas en la legislación electoral del Estado.
 
 ###### Artículo 10.
 
@@ -211,7 +217,9 @@ Si no se subsanan los requisitos omitidos precisados en el requerimiento, la man
 
 Hecha la comunicación en los términos de los artículos anteriores, y recibida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirantes a Candidatos Independientes del cargo correspondiente. La presentación de la manifestación de intención fuera del plazo a que se refiere el artículo 9 de esta Ley será causa suficiente para tenerla por no presentada.
 
-Concluido en (sic) plazo para presentar la manifestación de intención, los Secretarios de los Consejos Electorales que correspondan, publicarán en los estrados respectivos, cédula en la que se haga del conocimiento los ciudadanos que adquirieron la calidad de aspirantes a Candidatos Independientes.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
+Concluido el plazo para presentar la manifestación de intención, se publicarán en los estrados respectivos, cédula en la que se haga del conocimiento los ciudadanos que adquirieron la calidad de aspirantes a Candidatos Independientes.
 
 ### Capítulo III. De la obtención del apoyo ciudadano
 
@@ -387,9 +395,9 @@ VIII. En el caso que una misma persona haya presentado manifestación en favor d
 
 IX. Se actualice alguno de los supuestos previstos en el artículo 16 de esta Ley.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
-El Secretario Ejecutivo o los Secretarios Fedatarios, según correspondan, dentro del plazo señalado en este artículo notificarán al aspirante a Candidato Independiente la determinación con precisión del motivo por el cual los apoyos ciudadanos recabados no fueron computados, debiendo detallar de manera pormenorizada las causas por las que estos fueron desestimados, en cada caso deberá establecer los datos de identificación del registro considerado deficiente, y en el supuesto de existir duplicidad de firmas, deberá proporcionar los datos de localización necesarios para que le sea posible identificar ambos apoyos, concediéndole un plazo de cuarenta y ocho horas para que manifieste lo que a su derecho corresponda.
+El Secretario Ejecutivo, dentro del plazo señalado en este artículo notificará al aspirante a Candidato Independiente la determinación con precisión del motivo por el cual los apoyos ciudadanos recabados no fueron computados, debiendo detallar de manera pormenorizada las causas por las que estos fueron desestimados, en cada caso deberá establecer los datos de identificación del registro considerado deficiente, y en el supuesto de existir duplicidad de firmas, deberá proporcionar los datos de localización necesarios para que le sea posible identificar ambos apoyos, concediéndole un plazo de cuarenta y ocho horas para que manifieste lo que a su derecho corresponda.
 
 ###### Artículo 26.
 
@@ -896,3 +904,13 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 52 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, ASÍ COMO DIVERSAS REFORMAS A LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA Y A LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Publíquese el contenido de la presente reforma en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente reforma entrará en vigor hasta en tanto sea publicada la modificación al artículo 5 párrafo quinto de la Constitución Política del Estado Libre y Soberano de Baja California, así como el párrafo segundo del APARTADO B, del mismo artículo.
+
+TERCERO.- Remítase el contenido del presente Decreto al Instituto Estatal Electoral del Estado de Baja California, para los efectos legales correspondientes.
