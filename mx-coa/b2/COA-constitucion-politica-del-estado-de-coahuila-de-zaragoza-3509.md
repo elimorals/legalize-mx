@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2020-01-10"
+last_updated: "2020-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -76,11 +76,11 @@ II. Por el Gobierno Municipal a través de los Ayuntamientos o, en su caso, de l
 
 En el régimen interior del estado, los organismos públicos autónomos son instituciones constitucionales que expresamente se definen como tales por esta Constitución y que se caracterizan por la esencialidad, permanencia, independencia, imparcialidad, profesionalismo, transparencia, responsabilidad y sujeción al estado humanista, social y democrático de derecho. Esta Constitución y las leyes establecerán las bases de la organización, funcionamiento, modalidades, límites y formas de control de los organismos públicos autónomos.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2020)</small>
 
 ###### Artículo 4º.
 
-En el Estado la forma de gobierno es republicana, representativa y popular; teniendo como base de su división territorial y de su organización política y administrativa, el municipio libre, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
+En el Estado la forma de Gobierno será, republicana, laica, representativa, popular y democrático; considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento de los derechos humanos y en los aspectos económico, social y cultural del pueblo; teniendo como base de su división territorial y de su organización política y administrativa, el municipio libre, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2020)</small>
 
@@ -3460,7 +3460,9 @@ V. En materia de hacienda pública municipal:
 
 6. Aprobar los estados financieros mensuales que presente el tesorero municipal y publicarlos en el Periódico Oficial del Estado, cada tres meses.
 
-7. Presentar al Congreso del Estado la cuenta pública de la hacienda municipal, integrada por los informes trimestrales de origen y aplicación de los recursos públicos, mismos que deberán ser presentados dentro de los quince días siguientes al término del trimestre que corresponda; asimismo verificar la presentación de la cuenta pública del sector paramunicipal.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
+7. Presentar al Congreso del Estado la cuenta pública de la hacienda municipal, así como los informes de avance de gestión financiera, en los términos y plazos que para tal efecto establezca la ley de la materia; asimismo verificar la presentación de la cuenta pública y de los informes correspondientes del sector paramunicipal.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
@@ -5367,3 +5369,17 @@ P.O. 10 DE ENERO DE 2020.
 [N. DE. E. TRANSITORIO DEL “DECRETO 413.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 4, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado; y (sic)
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 572.- SE REFORMA EL NUMERAL 7, DE LA FRACCIÓN V, DEL ARTÍCULO 158-U DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 573.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
