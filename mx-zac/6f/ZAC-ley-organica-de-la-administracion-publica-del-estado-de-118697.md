@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-118697"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-30"
-last_updated: "2018-06-20"
+last_updated: "2020-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2020.
 
 Ley publicada en el Suplemento 3 al Número 96 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2016.
 
@@ -1625,6 +1627,10 @@ XXXIII. Instituto de Selección y Capacitación del Estado; y
 
 XXXIV. Universidad Tecnológica de Zacatecas.
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2020)</small>
+
+XXXV. Centro de Conciliación Laboral del Estado de Zacatecas.
+
 ###### Artículo 49.
 
 Son Empresas de Participación Estatal Mayoritaria, las sociedades de cualquier naturaleza en que se den uno o varios de los siguientes supuestos:
@@ -1736,3 +1742,31 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
 
 Artículo Tercero. Las dependencias cuya denominación y atribuciones fueron modificadas en el presente Decreto deberán actualizar sus Reglamentos Interiores, Manuales de Organización, de Procedimientos y demás normatividad interna, en un plazo que no deberá exceder de sesenta días naturales, contados a partir de la entrada en vigor del presente instrumento legislativo.
+
+P.O. 28 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 357.- POR EL QUE SE EXPIDE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE ZACATECAS, SE ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 48 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente del inicio de la vigencia de la reforma a la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia de justicia laboral, previa su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Ley del Centro de Conciliación Laboral del Estado de Zacatecas entrará en vigor el día 1 de octubre del año 2020, fecha en que deberá iniciar sus operaciones el referido Centro para prestar el servicio público de conciliación, de conformidad con la Ley Federal del Trabajo y las demás leyes en materia laboral.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 180 días siguientes a la publicación de este Decreto, la Legislatura del Estado deberá realizar las adecuaciones a la Ley del Servicio Civil y las demás leyes que sean necesarias para el funcionamiento del Centro de Conciliación Laboral del Estado de Zacatecas.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría General de Gobierno adoptará las medidas pertinentes para la instalación de la Junta de Gobierno. Una vez instalada ésta, su Presidente convocará dentro de los siguientes 30 días a la primera sesión de trabajo.
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo Estatal y la Legislatura del Estado de Zacatecas deberán realizar las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros que permitan el cumplimiento del presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+En un término de 180 días a partir de la publicación del Presente Decreto, los Entes Públicos relacionados con su aplicación deberán realizar las modificaciones reglamentarias que sean necesarias para dar cumplimiento al presente Decreto.
