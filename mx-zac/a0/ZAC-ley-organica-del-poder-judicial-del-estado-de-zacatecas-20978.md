@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2018-10-17"
+last_updated: "2020-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, SE SUGIERE CONSULTAR EL ARTÍCULO TRANSITORIO CORRESPONDIENTE.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -141,27 +141,41 @@ Los órganos jurisdiccionales emitirán sus resoluciones conforme a la ley y con
 
 El Pleno, las salas y los magistrados se abstendrán de hacer recomendaciones a los jueces, para que dicten resoluciones en determinado sentido o que les restrinjan su criterio en la aplicación de las leyes.
 
-Ningún juicio civil, familiar, mercantil o penal tendrá más de dos instancias.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
+
+Ningún juicio civil, familiar, mercantil, laboral o penal tendrá más de dos instancias.
 
 Los miembros del Poder Judicial percibirán remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
-###### Artículo 3º.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 357, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2020, PÁGINA 22.]</small>
 
-Distritos Judiciales
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
 
-Para efectos de jurisdicción y competencia, el territorio del Estado de Zacatecas se dividirá en el número de distritos judiciales que por acuerdo general determine el Pleno, atendiendo a las necesidades del servicio, a las condiciones geográficas, económicas, sociales y de vías de comunicación que prevalezcan en los municipios que integren cada distrito judicial.
+###### Artículo 3°.
 
-En cada uno de los distritos judiciales, el Pleno establecerá, mediante acuerdos generales, lo siguiente:
+Para efectos de jurisdicción y competencia, el territorio del Estado de Zacatecas se dividirá en el número de distritos judiciales y regiones que por acuerdo general determine el Pleno, atendiendo a las necesidades del servicio, a las condiciones geográficas, económicas, sociales y de vías de comunicación que prevalezcan en los municipios que integren cada demarcación judicial.
 
-I. El número, materias de conocimiento o especialidades y límites territoriales de los juzgados de Primera Instancia;
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
+
+En cada demarcación judicial el Pleno establecerá, mediante acuerdos generales, lo siguiente:
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
+
+I. El número, materias de conocimiento o especialidades y límites territoriales de los juzgados de Primera Instancia que deban existir en cada uno de los distritos judiciales;
 
 II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2020)</small>
+
+III. El número de regiones judiciales que existirán en el Estado, los distritos judiciales que integrarán cada una de ellas y las materias de conocimiento o especialidades a las que corresponderá dicha división.
+
 ### CAPITULO SEGUNDO. DE LA INTEGRACION DEL PODER JUDICIAL DEL ESTADO
 
-###### Artículo 4º.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 357, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2020, PÁGINA 22.]</small>
 
-Integración
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
+
+###### Artículo 4.
 
 El Poder Judicial del Estado de Zacatecas se ejerce por:
 
@@ -180,6 +194,10 @@ IV. El Tribunal Especializado en Justicia para Adolescentes;
 V. Los Juzgados de Primera Instancia, que podrán ser Civiles, Penales, Familiares, Mercantiles, Mixtos, de Control y Tribunal de Enjuiciamiento, Especializados para Adolescentes y de Ejecución de Sanciones; y
 
 VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2020)</small>
+
+VII. Los Tribunales Laborales.
 
 ###### Artículo 5º.
 
@@ -263,9 +281,11 @@ En caso de empate, el asunto se resolverá en la siguiente sesión para la que s
 
 Siempre que un magistrado disintiere de la mayoría, podrá formular voto particular, el cual se insertará al final de la ejecutoria respectiva, si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
 
-###### Artículo 11.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 357, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2020, PÁGINA 22.]</small>
 
-Atribuciones
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
+
+###### Artículo 11.
 
 Corresponde al Tribunal Superior de Justicia en Pleno:
 
@@ -293,13 +313,13 @@ X. Disponer que, previo al inicio de su vigencia, los reglamentos y acuerdos gen
 
 XI. Crear o suprimir unidades de apoyo a las funciones jurisdiccionales y administrativas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
 
-XII. Determinar el número de distritos judiciales de conformidad con lo dispuesto en el artículo 3º de esta ley y fijar el lugar en que tendrán su sede los juzgados de Primera Instancia;
+XII. Determinar el número de demarcaciones judiciales de conformidad con lo dispuesto en el artículo 3° de esta ley y fijar el lugar en que tendrán su sede los órganos judiciales que conozcan de la primera instancia;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
 
-XIII. Establecer o suprimir juzgados de Primera Instancia, según sea necesario para mejorar la impartición de justicia;
+XIII. Establecer o suprimir órganos judiciales que conozcan de la primera instancia, según sea necesario para mejorar la impartición de justicia;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -307,23 +327,27 @@ XIV. Variar el ámbito de la competencia de los juzgados de Primera Instancia, c
 
 XV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
 
-XVI. Señalar, cuando así resulte necesario, los periodos y modalidades para la distribución de asuntos que correspondan a los juzgados de Primera Instancia;
+XVI. Señalar, cuando así resulte necesario, los periodos y las modalidades para la distribución de asuntos que correspondan a los órganos judiciales que conozcan de la primera instancia;
 
-XVII. Ordenar visitas judiciales, ordinarias y extraordinarias, a los juzgados cuando se estime necesario y decretar las medidas que procedan para corregir las deficiencias que se observen;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
+
+XVII. Ordenar visitas judiciales o administrativas, ordinarias y extraordinarias, a los órganos judiciales que conozcan de la primera instancia o a los órganos administrativos del Poder Judicial cuando se estime necesario y decretar las medidas que procedan para corregir las deficiencias que se observen;
 
 XVIII. Examinar los informes y actas levantadas por los visitadores y dictar los acuerdos conducentes;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
 
-XIX. Nombrar a los jueces de Primera Instancia mediante concurso de oposición, de acuerdo con su capacidad y tomando en cuenta además, su conducta, honradez, eficiencia y, en su caso, los antecedentes al servicio del Poder Judicial;
+XIX. Nombrar a los jueces de los órganos judiciales de Primera Instancia mediante concurso de oposición, de acuerdo con su capacidad y tomando en cuenta, además, su conducta, honradez, eficiencia y, en su caso, los antecedentes al servicio del Poder Judicial;
 
-XX. Adscribir a los jueces en los juzgados en que deban ejercer su función y cambiarlos de distrito o de juzgado, cuando así se estime necesario;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+XX. Adscribir a los jueces en los juzgados o tribunales en que deban ejercer su función y cambiarlos de demarcación u órgano jurisdiccional, cuando así se estime necesario;
 
-XXI. Formular y aplicar los exámenes de oposición a los aspirantes a jueces de Primera Instancia y demás servidores públicos de Poder Judicial;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
+
+XXI. Formular y aplicar los exámenes de oposición a los aspirantes a jueces de los órganos jurisdiccionales de Primera Instancia y demás servidores públicos del Poder Judicial;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -359,9 +383,9 @@ XXXIV. Vigilar la observancia de la Ley de Profesiones del Estado, en lo que con
 
 XXXV. Determinar, mediante acuerdo general, la instalación y funcionamiento de Salas Regionales en Materia Penal adversarial para el único fin de practicar audiencias orales, cuya jurisdicción territorial estará determinada por el acuerdo de creación respectivo;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
 
-XXXVI. Acordar dentro de las posibilidades presupuestales, la conformación de Juzgados, por los Jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma Unitaria o Colegiada, de conformidad con lo previsto en las disposiciones legales. En estos casos, el Pleno designará, a propuesta del Presidente, a uno de los Jueces en calidad de coordinador; y
+XXXVI. Acordar dentro de las posibilidades presupuestales, la conformación de órganos judiciales, por los Jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma Unitaria o Colegiada, de conformidad con lo previsto en las disposiciones legales. En estos casos, el Pleno designará a propuesta del Presidente, a uno de los Jueces en calidad de coordinador; y
 
 XXXVII. Las demás que esta ley, su reglamento interior y otros ordenamientos le señalen.
 
@@ -455,9 +479,9 @@ XXVIII. Autorizar el registro de los títulos y cédulas profesionales de licenc
 
 XXIX. Representar al Tribunal Superior en los actos oficiales y en caso necesario delegar su representación;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
 
-XXX. Vigilar se recabe, mensualmente, un informe estadístico pormenorizado de las Salas del Tribunal, de los juzgados de Primera Instancia y, dictar las medidas adecuadas para agilizar el trámite de los negocios;
+XXX. Vigilar se recabe, mensualmente, un informe estadístico pormenorizado de las Salas del Tribunal y de los órganos judiciales que conozcan de la primera instancia, así como dictar las medidas adecuadas para agilizar el trámite de los negocios;
 
 XXXI. Rendir en el mes de enero, en sesión solemne, informe anual del estado que guarda la administración del Poder Judicial del Estado; y
 
@@ -503,9 +527,11 @@ Las resoluciones que se dicten en las Salas se aprobarán por unanimidad o mayor
 
 Las audiencias que celebren las Salas Penales, en materia penal adversarial oral, serán presididas por el Magistrado Ponente, independientemente de quien funja como Presidente de Sala y deberán aplicarse, en lo conducente, las reglas establecidas para la audiencia de juicio oral.
 
-###### Artículo 18.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 357, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2020, PÁGINA 23.]</small>
 
-Competencia de las Salas Civiles
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
+
+###### Artículo 18.
 
 Las Salas Civiles conocerán:
 
@@ -519,13 +545,13 @@ II. Del recurso de queja que se haga valer en asuntos civiles, familiares y merc
 
 III. De los impedimentos, excusas y recusaciones de sus miembros;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
 
-IV. De los impedimentos, excusas y recusaciones de los jueces de Primera Instancia en los asuntos de orden civil, familiar y mercantil;
+IV. De los impedimentos, excusas y recusaciones de los jueces de Primera Instancia en los asuntos de orden civil, familiar y mercantil, así como las de los jueces laborales;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
 
-V. De los conflictos que sobre competencia se susciten entre los jueces de Primera Instancia cuando se trate de materia civil, familiar o mercantil;
+V. De los conflictos que sobre competencia se susciten entre los jueces de Primera Instancia, cuando se trate de materia civil, familiar o mercantil; así como las que surjan entre los Tribunales Laborales;
 
 VI. De las revisiones forzosas en los términos y casos que ordena la ley procesal;
 
@@ -949,23 +975,33 @@ V. No tener vínculo matrimonial ni parentesco por consanguinidad o afinidad, ha
 
 ## TITULO TERCERO. DE LA JUSTICIA DE PRIMERA INSTANCIA
 
-### CAPITULO PRIMERO. DE LOS JUZGADOS DE PRIMERA INSTANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2020)</small>
+
+### CAPITULO PRIMERO. DE LOS ÓRGANOS JUDICIALES DE PRIMERA INSTANCIA
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 357, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2020, PÁGINA 23.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
 
 ###### Artículo 32.
 
-Número, competencia e integración
+En cada demarcación judicial habrá el número de órganos judiciales de Primera Instancia que el Pleno del Tribunal considere necesarios, los cuales podrán ser especializados por materia o de competencia mixta.
 
-En cada distrito judicial habrá el número de Juzgados de Primera Instancia que el Pleno del Tribunal considere necesarios, los cuales podrán ser especializados por materia o de competencia mixta;
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
 
-Las reglas para determinar la competencia por valor, materia, grado y territorio de los juzgados de Primera Instancia, las establece esta ley y los acuerdos generales que al respecto emita el Pleno;
+Las reglas para determinar la competencia por valor, materia, grado y territorio de los órganos judiciales de Primera Instancia, las establece esta ley y los acuerdos generales que al respecto emita el Pleno.
 
-Los juzgados de Primera Instancia son competentes para conocer de todos aquéllos asuntos que les asigna la ley;
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
 
-Cuando haya dos o más juzgados de Primera Instancia con la misma competencia, en un distrito judicial, se designarán por el número de orden de su creación;
+Los órganos judiciales de Primera Instancia son competentes para conocer de todos aquéllos asuntos que les asigna la ley.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
 
-El personal de los juzgados de Primera Instancia, lo integrarán: el o los Jueces, el secretario de acuerdos cuando lo exijan las leyes de la materia, los actuarios, notificadores, oficiales de partes, secretarios auxiliares y demás empleados que se requieran.
+Cuando haya dos o más órganos judiciales de Primera Instancia con la misma competencia, en un distrito judicial, se designarán por el número de orden de su creación.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
+
+El personal de los órganos judiciales de Primera Instancia, lo integrarán: el o los Jueces, el secretario de acuerdos cuando lo exijan las leyes de la materia, los actuarios, notificadores, oficiales de partes, secretarios auxiliares y demás empleados que se requieran.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -986,6 +1022,10 @@ Los Juzgados de Control, los Especializados para Adolescentes y el de Ejecución
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 En los Juzgados de Control y en los Tribunales de Enjuiciamiento podrá nombrarse un Administrador, o bien a consideración del Pleno las atribuciones de aquel serán asumidas por quien funja como jefe o encargado de causas.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+
+La materia laboral será conocida por los Tribunales Laborales que determine el Pleno, los que estarán a cargo de un Juez Laboral y contarán con el personal que determine la ley y el que resulte necesario para su adecuado funcionamiento.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
@@ -1111,6 +1151,12 @@ Competencia de los Jueces Mixtos de Primera Instancia
 
 Los jueces mixtos conocerán de los asuntos civiles, familiares, mercantiles y penales a que se refieren los artículos 34, 35, 36 y 37 de esta ley, según lo determine el acuerdo de su creación.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+
+Competencia de los Tribunales Laborales
+
+Artículo 38 BIS. Los Tribunales Laborales conocerán de los conflictos surgidos de las relaciones de trabajo comprendidas en el artículo 123, Apartado "A", de la Constitución Política de los Estados Unidos Mexicanos, que no sean competencia de los órganos jurisdiccionales federales.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO SEGUNDO. DE LOS JUZGADOS MUNICIPALES
@@ -1219,6 +1265,26 @@ XV. Vigilar que se mantenga en orden el archivo del juzgado; y
 
 XVI. Las demás que determinen la ley, los reglamentos y acuerdos generales.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+
+Obligaciones de los Secretarios de los Tribunales Laborales
+
+Artículo 45 BIS. Son obligaciones de los secretarios de los Tribunales Laborales:
+
+I. A petición del Juez Laboral, dictar los acuerdos relativos a la etapa escrita del procedimiento;
+
+II. Al inicio de las audiencias, hacer constar en el registro la fecha, hora y lugar de realización el nombre de los servidores públicos del Tribunal y demás personas que intervendrán;
+
+III. Tomar protesta previa de que se conducirán con verdad las partes y los terceros que intervengan en el desarrollo de las audiencias, apercibiéndoles de las penas que se imponen a quienes declaran con falsedad;
+
+IV. Certificar el medio en el que se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse;
+
+V. Firmar las resoluciones que así lo ameriten el día que se emitan;
+
+VI. Decretar las providencias cautelares previstas en la Ley Federal del Trabajo, y
+
+VII. Las demás que establezca la ley.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 46.
@@ -1271,6 +1337,12 @@ Los jueces de Primera Instancia, en sus ausencias temporales que no excedan de u
 
 Cuando las ausencias de los jueces de Primera Instancia excedan del término a que se refiere el párrafo anterior, el Pleno del Tribunal Superior de Justicia designará un juez interino que se haga cargo del despacho, en tanto regresa el titular o se hace la designación definitiva.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+
+Suplencia de los Jueces Laborales
+
+Artículo 48 BIS. Los Jueces Laborales serán sustituidos por el secretario de mayor antigüedad en el cargo que se encuentre presente en el órgano jurisdiccional; cuando sus ausencias sean mayores a un mes, el Pleno del Tribunal Superior de Justicia designará un juez interino que se haga cargo del órgano jurisdiccional hasta en tanto regrese el titular o se realice la designación definitiva.
+
 ## TITULO CUARTO. DISPOSICIONES GENERALES
 
 ### CAPITULO PRIMERO
@@ -1309,17 +1381,19 @@ Los secretarios de acuerdos y actuarios de los juzgados de primera instancia, po
 
 ### CAPITULO SEGUNDO. DE LA EXCITATIVA DE JUSTICIA
 
-###### Artículo 53.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 357, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2020, PÁGINA 24.]</small>
 
-Procedencia y substanciación
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
+
+###### Artículo 53.
 
 La excitativa de justicia se sujetará a las siguientes reglas:
 
 I. Procede contra omisiones, retrasos o dilaciones en que incurran los servidores públicos del Poder Judicial en ejercicio de sus funciones, que produzcan daño a alguna de las partes;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
 
-II. Toda excitativa de justicia se promoverá por escrito ante el Pleno cuando se trate de las Salas, Magistrados o servidores Públicos del Tribunal Superior de Justicia; ante la Sala correspondiente, cuando se trate de los jueces de Primera Instancia que conozcan de ese ramo y, ante éstos cuando sea contra los empleados de sus juzgados;
+II. Toda excitativa de justicia se promoverá por escrito ante el Pleno cuando se trate de las Salas, Magistrados o servidores Públicos del Tribunal Superior de Justicia; ante la Sala correspondiente, cuando se trate de los Jueces de Primera Instancia que conozcan de ese ramo y, ante éstos cuando sea contra los empleados de sus órganos judiciales;
 
 III. Interpuesta la excitativa, se pedirá a la autoridad respectiva, un informe que deberá rendir dentro del término de cinco días. La falta del mismo establece la presunción de ser cierto el acto u omisión que se atribuye, salvo prueba en contrario;
 
@@ -1341,11 +1415,13 @@ Protesta de Ley
 
 Todo servidor público de la administración de justicia, antes de entrar en posesión del cargo o empleo para el que fue nombrado, deberá rendir la protesta de ley ante la autoridad que expidió el nombramiento o la que señale el Presidente del Tribunal Superior de Justicia.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 357, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2020, PÁGINA 25.]</small>
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
+
 ###### Artículo 55.
 
-Fe Pública
-
-Los magistrados, jueces, secretarios de acuerdos, jefes de unidades de apoyo a la función jurisdiccional, actuarios, notificadores, oficiales de partes y secretarios auxiliares, tendrán fe pública en sus respectivos ámbitos de actuación, conforme a la ley.
+Los magistrados, jueces, secretarios de acuerdos, secretarios, jefes de unidades de apoyo a la función jurisdiccional, actuarios, notificadores, oficiales de partes y secretarios auxiliares, tendrán fe pública en sus respectivos ámbitos de actuación, conforme a la ley.
 
 ###### Artículo 56.
 
@@ -1500,6 +1576,12 @@ VIII. Omitir el cuidado y vigilancia de los expedientes, documentos y depósitos
 IX. Dejar de cumplir con las órdenes expresas del Juez; y
 
 X. Dejar de practicar las diligencias que los códigos procesales, esta ley o su reglamento determinen.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+
+Responsabilidades administrativas de los Secretarios
+
+Artículo 68 BIS. Los secretarios de los Tribunales Laborales incurrirán en responsabilidad administrativa por las causas que les sean aplicables de las establecidas en el artículo anterior y por el incumplimiento injustificado de las obligaciones que les imponga la ley.
 
 ###### Artículo 69.
 
@@ -2140,3 +2222,31 @@ Artículo segundo. Las adiciones de las fracciones II y III del artículo 28 y l
 Artículo tercero. A partir del Decreto del Presupuesto de Egresos del año 2019, deberán asignarse los recursos necesarios para el funcionamiento de las nuevas Unidades de Análisis Institucional y de Igualdad de Género y Derechos Humanos.
 
 Artículo cuarto. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 28 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 357.- POR EL QUE SE EXPIDE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE ZACATECAS, SE ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 48 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente del inicio de la vigencia de la reforma a la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia de justicia laboral, previa su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Ley del Centro de Conciliación Laboral del Estado de Zacatecas entrará en vigor el día 1 de octubre del año 2020, fecha en que deberá iniciar sus operaciones el referido Centro para prestar el servicio público de conciliación, de conformidad con la Ley Federal del Trabajo y las demás leyes en materia laboral.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 180 días siguientes a la publicación de este Decreto, la Legislatura del Estado deberá realizar las adecuaciones a la Ley del Servicio Civil y las demás leyes que sean necesarias para el funcionamiento del Centro de Conciliación Laboral del Estado de Zacatecas.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría General de Gobierno adoptará las medidas pertinentes para la instalación de la Junta de Gobierno. Una vez instalada ésta, su Presidente convocará dentro de los siguientes 30 días a la primera sesión de trabajo.
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo Estatal y la Legislatura del Estado de Zacatecas deberán realizar las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros que permitan el cumplimiento del presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+En un término de 180 días a partir de la publicación del Presente Decreto, los Entes Públicos relacionados con su aplicación deberán realizar las modificaciones reglamentarias que sean necesarias para dar cumplimiento al presente Decreto.
