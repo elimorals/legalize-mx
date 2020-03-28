@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2020-02-29"
+last_updated: "2020-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2020.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -564,6 +564,14 @@ El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o 
 Para el cumplimiento de los fines que menciona este artículo, el Estado creará los organismos que sean necesarios para la capacitación de aquellos individuos que queden sujetos a leyes restrictivas de su libertad y deban someterse a procesos de rehabilitación y adaptación a la vida humana en la comunidad de que forman parte.
 
 Se establecerán en la ley prerrogativas para las empresas que privilegien la creación de empleos, realicen acciones concretas para proteger el salario de los trabajadores y el ingreso de la población en general; y produzcan, distribuyan o comercialicen bienes y servicios socialmente necesarios, en condiciones de precio y calidad mejores que los prevalecientes en el mercado.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+
+Para la atención de los conflictos laborales, los trabajadores y los patrones, antes de acudir a los juzgados laborales, deberán asistir ante la instancia conciliatoria que la Ley determine.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+
+La función conciliatoria estará a cargo de un organismo descentralizado de la administración pública, el cual contará con personalidad jurídica y patrimonio propios, dotado con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, que se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento estará determinada en la Ley.
 
 ###### Artículo 29.
 
@@ -1499,9 +1507,13 @@ XLVIII. Legislar en materia de transparencia gubernamental, acceso a la informac
 
 XLIX. Nombrar a los comisionados del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, así como a los integrantes del Consejo Consultivo de dicha Comisión, en los términos establecidos en la ley; y
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2020)</small>
+
+L. Expedir la ley que establezca la organización y funcionamiento del organismo descentralizado encargado de la función conciliatoria en materia laboral, y
+
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
 
-L. Las demás que expresamente le confieran la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
+LI. Las demás que expresamente le confieran la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
 #### SECCIÓN CUARTA. DE LOS DEBERES DE LOS DIPUTADOS
 
@@ -1931,11 +1943,11 @@ En ejercicio de las funciones que le competan, tal Policía deberá ser auxiliad
 
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
 
 ###### Artículo 90.
 
-El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal Especializado en Justicia para Adolescentes, Juzgados de primera instancia, de control y tribunales de enjuiciamiento.
+El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal Especializado en Justicia para Adolescentes, Juzgados de primera instancia, de control y tribunales de enjuiciamiento, así como los tribunales laborales que al efecto se establezcan.
 
 Corresponde a los tribunales del Estado la facultad de aplicar las leyes en asuntos del orden común, así como en materia federal cuando las leyes los faculten.
 
@@ -1959,11 +1971,11 @@ Los Magistrados del Poder Judicial y los Jueces percibirán remuneración adecua
 
 El Presupuesto de Egresos que anualmente sea autorizado, deberá incluir los tabuladores desglosados de las remuneraciones de todos los servidores públicos, observando las bases establecidas en el artículo 160 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
 
 ###### Artículo 93.
 
-La competencia del Tribunal Superior de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de Magistrados y Jueces, el número y competencia de los Juzgados de primera instancia, de control y tribunales de enjuiciamiento y las responsabilidades en que incurran los funcionarios y trabajadores del Poder Judicial del Estado, se regirán por lo que dispongan las leyes y los reglamentos respectivos conforme a esta Constitución.
+La competencia del Tribunal Superior de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de Magistrados y Jueces, el número y competencia de los Juzgados de primera instancia, de control y tribunales de enjuiciamiento, de los tribunales laborales, así como las responsabilidades en que incurran los funcionarios y trabajadores del Poder Judicial del Estado, se regirán por lo que dispongan las leyes y los reglamentos respectivos conforme a esta Constitución.
 
 ###### Artículo 94.
 
@@ -2121,21 +2133,21 @@ VI. De los demás asuntos que las leyes sometan a su jurisdicción.
 
 #### SECCIÓN CUARTA. DE LOS JUECES DE PRIMERA INSTANCIA Y MUNICIPALES
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
 
 ###### Artículo 104.
 
-Los Jueces de primera instancia, de control y de tribunales de enjuiciamiento serán nombrados por el pleno del Tribunal Superior de Justicia mediante concurso de oposición.
+Los Jueces de primera instancia, de control y de tribunales de enjuiciamiento, de los tribunales laborales, serán nombrados por el pleno del Tribunal Superior de Justicia mediante concurso de oposición.
 
 ###### Artículo 105.
 
 Los Jueces de primera instancia durarán en su cargo tres años, al término de los cuales, si fueren ratificados, sólo podrán ser privados de sus puestos en los términos del Título VII de esta Constitución y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
 
 ###### Artículo 106.
 
-Habrá en el Estado el número de Jueces de primera instancia, de control y tribunales de enjuiciamiento que determine la Ley Orgánica del Poder Judicial, con la jurisdicción, atribuciones y deberes que la misma les señale.
+Habrá en el Estado el número de Jueces de primera instancia, de control y tribunales de enjuiciamiento, de tribunales laborales, que determine la Ley Orgánica del Poder Judicial, con la jurisdicción, atribuciones y deberes que la misma señale.
 
 ###### Artículo 107.
 
@@ -2227,15 +2239,43 @@ Si la Legislatura no hace la designación en los plazos que establecen los párr
 
 Los Magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la ley.
 
-#### SECCIÓN SEGUNDA. DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2020)</small>
+
+#### SECCIÓN SEGUNDA. DEL TRIBUNAL DE JUSTICIA LABORAL BUROCRÁTICA
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
 
 ###### Artículo 114.
 
-Corresponde al Tribunal de Conciliación y Arbitraje del Estado de Zacatecas el conocimiento y resolución de los conflictos de trabajo que se susciten entre los trabajadores al servicio del Estado, de los Municipios y de los organismos descentralizados, estatales, municipales e intermunicipales con los órganos y dependencias de ambos niveles de Gobierno, derivados de las relaciones de trabajo; de trabajadores entre sí; de éstos con los sindicatos en que se agrupen; y de conflictos entre sindicatos.
+El Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas es un órgano jurisdiccional con personalidad jurídica y patrimonio propio, dotado de plena autonomía e independiente en sus decisiones, de conformidad con la ley.
+
+Tendrá a su cargo el conocimiento y resolución de los conflictos de trabajo que se susciten entre los trabajadores al servicio del Estado, de los Municipios, de los órganos a los que esta Constitución les reconoce autonomía, con excepción de los electorales, de los organismos descentralizados, estatales, municipales e intermunicipales con los órganos y dependencias de ambos niveles de Gobierno, derivados de las relaciones de trabajo; de trabajadores entre sí; de éstos con los sindicatos en que se agrupen; y de conflictos entre sindicatos; de conformidad con lo que señalen las leyes.
+
+Para la atención de los conflictos laborales burocráticos, los trabajadores y los entes públicos referidos en el párrafo precedente, antes de acudir al Tribunal, deberán asistir ante la instancia conciliatoria prevista en el artículo 28 de esta Constitución.
+
+El Tribunal de Justicia Laboral Burocrática contará, además, con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Tribunal y será designado por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
 
 ###### Artículo 115.
 
-El Tribunal de Conciliación y Arbitraje se integra con tres Magistrados, por lo menos, designados según lo que establezca la ley de la materia. La propia ley determinará la forma de su funcionamiento, procedimientos y estructura.
+El Tribunal de Justicia Laboral Burocrática estará integrado por tres Magistrados, cuyos titulares deberán satisfacer los mismos requisitos que se exigen para los Magistrados del Tribunal Superior de Justicia del Estado.
+
+El Tribunal funcionará en Pleno y contará con una Presidencia que recaerá en uno de sus integrantes, será rotatoria y tendrá una duración de dos años.
+
+Los Magistrados del Tribunal de Justicia Laboral Burocrática durarán en su encargo siete años, sin posibilidad de ser reelectos. El procedimiento de designación de los Magistrados deberá comenzar treinta días previos a la conclusión del periodo por el que fueron nombrados.
+
+Para su designación, la Legislatura del Estado contará con veinte días para integrar una lista de cinco candidatos por cada magistratura a designar, la cual deberá ser aprobada por las dos terceras partes de los miembros presentes y será enviada al Gobernador. Dicha lista deberá integrarse mediante la realización de una convocatoria pública abierta en la que se reciban registros y propuestas.
+
+Si el Gobernador no recibe la lista en el plazo señalado, enviará libremente a la Legislatura una lista de tres personas por cada magistratura a designar. De ser enviada por la Legislatura la lista en el plazo señalado en el párrafo anterior, dentro de los diez días siguientes el Gobernador seleccionará de cada lista a tres de los perfiles propuestos y los remitirá a la consideración de la Legislatura.
+
+Dentro del plazo de diez días, con base en la lista enviada por el Gobernador y previa comparecencia de las personas propuestas, la Legislatura designará al titular de la Magistratura, para lo cual se requerirá que sea aprobado al menos por el voto de las dos terceras partes de los miembros presentes.
+
+En caso de que el Gobernador no envíe la lista a que se refiere el párrafo anterior, la Legislatura tendrá diez días para designar al titular de la magistratura de entre los candidatos de la lista que en un principio envío al Gobernador.
+
+Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al titular de la magistratura de entre los candidatos que integren la lista de tres personas que puso a consideración de la Legislatura.
+
+Los Magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la ley.
 
 ## TÍTULO V. DEL MUNICIPIO LIBRE
 
@@ -3842,3 +3882,43 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, se reformará la legislación en la materia para armonizarla a lo previsto en este instrumento legal.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 385.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+Artículo Segundo. Dentro de los 180 días siguientes a la publicación de este Decreto, la Legislatura del Estado deberá expedir las leyes que regulen la organización y el funcionamiento del Tribunal de Justicia Laboral Burocrática del Estado y del organismo descentralizado encargado de la función conciliatoria en materia laboral, así como realizar las adecuaciones a la Ley del Servicio Civil del Estado, a la Ley Orgánica del Poder Judicial del Estado de Zacatecas y a los demás ordenamientos que sean necesarios para dar cumplimiento al presente Decreto y al Artículo Segundo Transitorio del Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral publicada en el Diario Oficial de la Federación en fecha 24 de febrero de 2017.
+
+Artículo Tercero. El Tribunal de Justicia Laboral Burocrática, los tribunales laborales del Tribunal Superior de Justicia del Estado y el Centro de Conciliación Laboral del Estado deberán entrar en funciones el 1 de octubre de 2020.
+
+Hasta en tanto inician operaciones los órganos mencionados en el párrafo anterior, la Junta Local de Conciliación y Arbitraje del Estado y el Tribunal de Conciliación y Arbitraje continuarán ateniendo las diferencias o conflictos que se presenten entre el capital y el trabajo, los servidores y los Entes Públicos y sobre el registro de contratos colectivos de trabajo, organizaciones sindicales y condiciones generales de trabajo, de conformidad con la competencia que les señalan las leyes aplicables.
+
+Artículo Cuarto. El Presupuesto de Egresos del Estado para el ejercicio fiscal 2020 deberá destinar los recursos necesarios para la operación del Tribunal de Justicia Laboral Burocrática, de los tribunales laborales del Tribunal Superior de Justicia del Estado y del Centro de Conciliación Laboral del Estado.
+
+Artículo Quinto. Los derechos de los trabajadores que estén adscritos a la Junta Local de Conciliación y Arbitraje del Estado de Zacatecas serán reconocidos y respetados conforme a la Ley del Servicio Civil del Estado de Zacatecas.
+
+Artículo Sexto. A más tardar el 1 de julio de 2020, la Legislatura del Estado comenzará el procedimiento para la elección de los Magistrados señalado en el artículo 115 de este Decreto.
+
+Los magistrados que actualmente integran el Tribunal de Conciliación y Arbitraje del Estado podrán participar en el citado procedimiento de designación, cumpliendo con los requisitos que se establezcan en la convocatoria que para el efecto se emita.
+
+Por única ocasión, la Legislatura del Estado nombrará a los titulares de las magistraturas del Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas en los términos siguientes:
+
+a) Un Magistrado o Magistrada que durará en su encargo tres años,
+
+b) Un Magistrado o Magistrada que durará en su encargo cinco años, y
+
+c) Un Magistrado o Magistrada que durará en su encargo siete años.
+
+Los Magistrados a que se refieren los incisos anteriores se rotarán la Presidencia del Tribunal en el mismo orden señalado.
+
+Artículo Séptimo. El Poder Ejecutivo del Estado transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente el Tribunal de Conciliación y Arbitraje del Estado de Zacatecas, al Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas.
+
+El proceso de entrega recepción se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado de Zacatecas y demás leyes aplicables.
+
+Los servidores públicos que a la entrada en vigor del presente Decreto formen parte del Tribunal de Conciliación y Arbitraje del Estado de Zacatecas, conservarán sus derechos laborales y de seguridad social.
+
+Artículo Octavo. En un término de 60 días a partir de la publicación de las leyes y adecuaciones normativas a las que se refiere el artículo segundo de este régimen transitorio, los Entes Públicos relacionados con su aplicación deberán realizar las modificaciones reglamentarias que sean necesarias para dar cumplimiento al presente Decreto.
+
+Artículo Noveno. Se derogan todas las disposiciones que contravengan el contenido del presente Decreto.
