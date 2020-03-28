@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2019-12-04"
+last_updated: "2020-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2020.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -1743,9 +1743,15 @@ Se le impondrá la misma sanción del artículo anterior al que habiendo atropel
 
 ### CAPITULO II. OMISION DE CUIDADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
+
 ###### Artículo 139.
 
-Al que abandone a una persona incapaz de valerse a sí misma, teniendo la obligación de cuidarla, se le aplicará prisión de uno a cuatro años.
+Al que abandone a una persona incapaz de valerse a sí misma o a una persona adulta mayor, teniendo la obligación de cuidarla, se le aplicará prisión de uno a cuatro años.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+
+Si con el abandono se pone en situación de peligro la integridad física o moral de la persona abandonada, se aumentará la pena en una mitad más.
 
 ## TITULO TERCERO. DELITOS CONTRA LA LIBERTAD PERSONAL
 
@@ -2211,9 +2217,9 @@ XIII.- Sobre equipaje o valores de viajero en cualquier lugar durante el transcu
 
 XIV.- Respecto de documentos que se conserven en oficinas públicas, cuando la sustracción afecte el servicio público o cause daño a terceros. Si el delito lo comete un servidor público que labore en la dependencia donde cometió el robo, se le aplicará, además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos de uno a cinco años; y
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
 
-XV.- Respecto de uno o más bienes que en propiedad o en posesión formen parte de la infraestructura de centros educativos, públicos o privados, de trabajo, de salud o de todo inmueble destinado a la prestación de cualquier servicio público a cargo del Estado o los Municipios.
+XV.- Respecto a uno o más bienes que en propiedad o en posesión formen parte de la infraestructura de centros de trabajo, o de hospitales, clínicas, centros o casas de salud, públicos o privados, o de todo inmueble destinado a la prestación de cualquier servicio público a cargo del Estado o los Municipios.
 
 XVI.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2014)
 
@@ -2262,6 +2268,14 @@ VIII. Suprima, altere o modifique de cualquier manera los números, signos u otr
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
 IX. Altere o modifique de cualquier manera la documentación que acredite la propiedad o identificación de uno o más vehículos robados, o emita documentos no auténticos para identificar o simular la propiedad o posesión de uno o más vehículos robados.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+
+###### Artículo 179 Ter.
+
+Se aumentarán en dos tercios más las penas previstas en los artículos 175 y 177 cuando el robo se cometa sobre objetos propiedad o en uso de planteles educativos públicos o privados de cualquier nivel.
+
+La misma pena se aplicará a quien se apodere de objetos o parte de la infraestructura al servicio de los citados planteles educativos.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
@@ -2701,9 +2715,11 @@ V.- Desvíe o derive las aguas ajenas o haga uso de ellas o de un derecho real q
 
 VI.- Desvíe o derive las aguas propias en los casos en que la ley no lo permita, o ejerza actos de dominio que lesionen derechos del ocupante.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
+
 ###### Artículo 199.
 
-Las sanciones previstas en el artículo anterior se incrementarán en una mitad cuando el despojo se realice por tres o más personas, se emplee violencia física o moral, o se trate de instigadores de dos o más delitos de despojo.
+Las sanciones previstas en el Artículo anterior se incrementarán en una mitad cuando el despojo se realice por tres o más personas, se emplee violencia física o moral, se realice en contra de una persona adulta mayor, o se trate de instigadores de dos o más delitos de despojo.
 
 ### CAPITULO II. VIOLENCIA FAMILIAR
 
@@ -2814,6 +2830,10 @@ Cuando el sujeto activo sea reincidente se le aumentará una mitad de la pena pr
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
 
 Artículo 208 bis 1.- Se equipara a la violencia familiar y se sancionará con las penas previstas en el artículo anterior y las medidas de seguridad establecidas en este Código, al que realice cualquiera de los actos señalados en el mismo, en contra de la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+
+Las mismas penas se impondrán al que condicione a una persona adulta mayor el acceso y permanencia a su propio domicilio, o cualquiera de sus bienes inmuebles; le restrinja o condicione el uso de sus bienes muebles; le presione por medio de violencia física o moral para que teste o cambie su testamento a su favor o de un tercero; disponga sin la autorización correspondiente de los recursos económicos de la víctima; o le sustraiga, despoje, retenga o condicione la entrega de sus documentos de identidad o de acceso a los servicios de salud y de asistencia social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3977,7 +3997,7 @@ Cuando con base en la simulación de pruebas o en la denuncia, querella, imputac
 
 ### CAPITULO PRIMERO. DELITOS CONTRA EL EQUILIBRIO VITAL DE LA NATURALEZA
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2020)</small>
 
 ###### Artículo 294.
 
@@ -4063,21 +4083,35 @@ Al que ultraje las insignias del Estado o de un municipio, o de cualesquiera de 
 
 ###### Artículo 304.
 
-Se impondrá pena de tres meses a seis años de prisión y multa de cien a veinte mil días multa a quien:
+Se impondrá pena de tres meses a seis años de prisión y multa de trescientos a veinte mil días a quien:
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 I.- Sin autorización de la autoridad correspondiente o contraviniendo los términos en que haya sido concedida, realice en áreas de jurisdicción estatal o municipal, cualquier actividad con materiales o residuos peligrosos que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la fauna, la flora o los ecosistemas;
 
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 II.- Violando lo establecido en las disposiciones legales aplicables emita, despida, descargue en la atmósfera; lo autorice u ordene, gases, humos o polvos que ocasionen daños a la salud pública, a los recursos naturales, la fauna, la flora o los ecosistemas, siempre que dichas emisiones provengan de fuentes fijas de jurisdicción estatal, conforme a lo previsto en la Ley de Protección Ambiental del Estado de Tabasco;
 
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 III.- Contraviniendo las disposiciones legales aplicables genere emisiones de ruido, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de jurisdicción estatal o municipal, conforme al ordenamiento señalado en la fracción anterior, que ocasionen daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 IV.- Sin la autorización que en su caso se requiere o en contravención a las disposiciones legales aplicables descargue, deposite o infiltre; los autorice u ordene, aguas residuales, líquidos, químicos o bioquímicos, desechos o contaminantes en los suelos, depósitos y corrientes de agua de jurisdicción estatal o federal concesionadas al Estado o a los Municipios, que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la flora, a la fauna, cauces y vasos, a la calidad del agua o a los ecosistemas;
 
 Cuando se trate de aguas para ser entregadas en bloque a centros de población la pena se elevará hasta en una mitad de la señalada para este delito;
 
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 V.- Contamine o destruya plantaciones, cosechas y cualquier tipo de tierra agrícola o forestal, deseque o rellene humedales, manglares, lagunas, esteros o pantanos de jurisdicción estatal;
 
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
 VI.- Provoque incendios en bosques, selvas, vegetación natural o agrícola, que dañe recursos naturales, la flora o la fauna silvestre o los ecosistemas de jurisdicción estatal;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 VII.- A quien sin la autorización de la autoridad correspondiente o en contravención de las disposiciones legales aplicables realice quemas para utilizar terrenos con fines agropecuarios o teniéndola no tome las medidas necesarias para evitar su propagación a terrenos aledaños;
 
@@ -4096,6 +4130,8 @@ X.- Ilícitamente derribe, tale, arranque, corte, cercene, recorte excesivamente
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 XI.- Ilícitamente realice el cambio del uso del suelo en un área natural protegida, área de valor ambiental de competencia del Estado o área verde en suelo urbano, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 Tratándose de los delitos previstos en este Título, la multa o en su caso el trabajo a favor de la comunidad, deberán aplicarse a la protección o restauración del ambiente.
 
@@ -4119,11 +4155,11 @@ IV.- El retorno de los materiales o residuos a su lugar de origen, o al lugar en
 
 Cuando el delito sea imputable a una persona jurídica colectiva, el Juez podrá imponer además, la intervención, remoción, la prohibición de realizar determinadas operaciones o la extinción.
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2020)</small>
 
-###### Artículo 304 Bis - A.
+###### Artículo 304 Bis-A.
 
-Al servidor público que autorice o permita obras o actividades que contravengan las disposiciones legales aplicables y que ocasionen o puedan ocasionar daños al ambiente, se les aplicará de dos a ocho años de prisión y de cien a veinte mil días multa.
+Al servidor público que autorice o permita obras o actividades que contravengan las disposiciones legales aplicables y que ocasionen o puedan ocasionar daños al ambiente, se les aplicará de dos a ocho años de prisión y de trescientos a veinte mil días multa; así como su destitución e inhabilitación hasta por un tiempo igual al que se le hubiera fijado como pena privativa de la libertad.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 2019)</small>
 
@@ -5332,3 +5368,27 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los delitos que se hubieren cometido con anterioridad con la entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 188 POR EL QUE “SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 179; Y ADICIONA EL ARTÍCULO 179 TER, DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 28 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 189 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 304, PÁRRAFO PRIMERO, Y 304 BIS-A, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las demás disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 28 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 190 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 139, PÁRRAFO PRIMERO, Y 199; Y SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 139 Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 208 BIS 1, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las demás disposiciones que se opongan al contenido del presente Decreto.
