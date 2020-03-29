@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2020-03-19"
+last_updated: "2020-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -2191,11 +2191,11 @@ ART. 417.- A las personas que tienen al hijo bajo su patria potestad, incumbe la
 
 Cuando llegue a conocimiento de cualquier autoridad, que dichas personas no cumplen con la obligación referida, dichas autoridades darán aviso al Ministerio Público para que promueva lo que corresponda.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2020)</small>
 
-ART. 418.- Los que ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos, y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+ART. 418.- Los que ejerzan la patria potestad o tengan niñas, niños y adolescentes, bajo su custodia, tienen la facultad de establecer normas, límites y restricciones de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, atendiendo en todo momento el derecho a una vida libre de violencia y a la integridad personal, psíquica, moral y sexual y además tienen la obligación de observar una conducta que sirva de buen ejemplo.
 
-La facultad de corregir no implica infligir al menor actos que atenten contra su integridad física, psíquica o sexual.
+Queda prohibido el uso del castigo corporal en todos los ámbitos, como método correctivo o disciplinario a niñas, niños y adolescentes.
 
 ART. 419.- El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
@@ -2527,19 +2527,21 @@ ART. 486.- El tutor del incapacitado que tenga hijos menores bajo su patria pote
 
 De la tutela legitima de los menores abandonados y de los acogidos por alguna persona, o depositados en establecimientos de beneficencia.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2020)</small>
+
+ART. 487.- El expósito y el abandonado quedarán bajo la tutela de la persona que lo haya acogido, por un término máximo de treinta días naturales quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores, debiendo dar aviso a las autoridades ministeriales correspondientes y a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, de manera inmediata.
+
+Es expósita la niña o niño cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún lugar público o privado, por quienes conforme a la ley están obligados a protegerlo.
+
+Es abandonada la niña o niño cuyo origen se conoce y que ha sido abandonado de manera irresponsable por quienes ejercen la patria potestad o tutela, dejando de cumplir con sus deberes conforme a la ley; aceptándose en el caso, la posibilidad de que alguna persona o institución lo acoja. En el caso de abandono, deberán transcurrir dos meses por lo menos.
+
+Las niñas o niños expósitos y abandonados podrán ser adoptados por las personas que los hayan acogido, de acuerdo a lo establecido en la Ley de Adopciones para el Estado de Durango.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2020)</small>
+
+ART. 488.- El Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, desempeñará la tutela de los expósitos o abandonados que se encuentren en las casas de instituciones de asistencia social y beneficencia pública, conforme a su reglamentación interna. En estos casos no será necesario el discernimiento del cargo.
+
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
-
-ART. 487.- El expósito y el abandonado quedarán bajo la tutela de la persona que lo haya acogido, por un término máximo de treinta días naturales quien tendrá las obligaciones facultades y restricciones establecidas para los demás tutores, debiendo dar aviso a las autoridades ministeriales correspondientes y a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, de manera inmediata.
-
-Es expósito el menor cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún lugar público o privado, por quienes conforme a la ley están obligados a protegerlo.
-
-Es abandonado, el menor cuyo origen se conoce y que ha sido abandonado de manera irresponsable por quienes ejercen la patria potestad o tutela, dejando de cumplir con sus deberes conforme a la ley; aceptándose en el caso, la posibilidad de que alguna persona o institución lo acoja. En el caso de abandono, deberán transcurrir dos meses por lo menos.
-
-Los menores expósitos y abandonados podrán ser adoptados por las personas que los hayan acogido, de acuerdo a lo establecido en la Ley de Adopciones para el Estado de Durango.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
-
-ART. 488.- El Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, desempeñará la tutela de los expósitos o abandonados que se encuentren en las casas de instituciones de asistencia social y beneficencia pública, conforme a su reglamentación interna. En estos casos no será necesario el discernimiento del cargo.
 
 Las instituciones privadas que acojan a un expósito o abandonado estarán sujetas en los términos del artículo 487 de este ordenamiento.
 
@@ -2565,15 +2567,15 @@ ART. 493.- Si el juez no hace oportunamente el nombramiento de tutor, es respons
 
 ART. 494.- Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2020)</small>
 
-ART. 495.- A los menores que no estén sujetos a la patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación y asistencia que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del mismo menor, del Ministerio Público y aún de oficio por el propio juez.
+ART. 495.- A las niñas, niños o adolescentes que no estén sujetos a la patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la niña, niño o adolescente, a efecto de que reciba la educación y asistencia que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición de la niña, niño o adolescente, del Ministerio Público y aún de oficio por el propio juez.
 
 ART. 496.- En el caso del artículo anterior, tienen obligación de desempeñar la tutela mientras duren en los cargos que a continuación se enumeran:
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2020)</small>
 
-I.- El Gobierno del Estado a través del Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Durango o de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, mediante los delegados municipales que se designe al efecto; o el Presidente Municipal del domicilio del menor;
+I.- El Gobierno del Estado a través del Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Durango o de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, mediante los delegados municipales que se designe (sic) al efecto; o el Presidente Municipal del domicilio de la niña, niño o adolescente;
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
@@ -2581,9 +2583,9 @@ II.- Los regidores del Ayuntamiento;
 
 III.- Las personas que desempeñan la autoridad administrativa en los lugares en donde no hubiere Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2020)</small>
 
-IV.- Los profesores de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
+IV.- Los profesores de instrucción primaria, secundaria, media superior o profesional, del lugar donde viven las niñas, niños y adolescentes;
 
 V.- Los miembros de las juntas benéficas públicas o privadas que disfruten sueldo del Erario;
 
@@ -2591,7 +2593,9 @@ VI.- Los directores de establecimientos de beneficencia pública.
 
 Los jueces nombrarán de las personas mencionadas las que en cada caso deben desempeñar la tutela procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuran en las listas que debe formar el Ministerio Público, conforme a lo dispuesto en el capítulo XV de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
 
-ART. 497.- Si el menor que se encuentre en el caso previsto por el artículo 495, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2020)</small>
+
+ART. 497.- Si la niña, niño o adolescente, que se encuentre en el caso previsto por el artículo 495, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
@@ -2615,7 +2619,9 @@ De las personas inhábiles para el desempeño de la tutela y de las que deben se
 
 ART. 498.- No pueden ser tutores, aunque estén anuentes en recibir el cargo:
 
-I.- Los menores de edad;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2020)</small>
+
+I.- Los (sic) niñas, niños y adolescentes;
 
 II.- Los mayores de edad que se encuentren bajo tutela;
 
@@ -10834,3 +10840,11 @@ P.O. 19 DE MARZO DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 292.- SE REFORMAN LOS ARTÍCULOS 418, 487, EN (SIC) EL PRIMER PÁRRAFO DEL ARTÍCULO 488, 495, LAS FRACCIONES I Y IV DEL 496, 497 Y LA FRACCIÓN I DEL 498, TODOS DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
