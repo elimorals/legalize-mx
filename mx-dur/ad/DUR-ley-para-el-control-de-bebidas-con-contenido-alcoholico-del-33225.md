@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-control-de-bebidas-con-contenido-alcoholico-del-332
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-15"
-last_updated: "2017-03-19"
+last_updated: "2020-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA EL CONTROL DE BEBIDAS CON CONTENIDO ALCOHÓLICO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 15 de junio de 2003.
 
@@ -260,6 +260,10 @@ En estos establecimientos el espacio que ocupe la exhibición de bebidas con con
 XXIX. TIENDA DE ABARROTES: Establecimiento dedicado a la venta de abarrotes en general, complementado con la venta de cerveza al menudeo para consumo en lugar distinto al establecimiento; y
 
 XXX. ULTRAMARINO: Establecimiento para la venta de productos alimenticios finos nacionales e importados complementados con la venta de vinos y licores al mayoreo y menudeo para consumo en lugar distinto al establecimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2020)</small>
+
+Los establecimientos señalados en las fracciones II, VIII, X, XIII, XIX; XXII, XXIII, XXIV y XXV de este artículo, destinados a la venta y consumo de alimentos, procurarán incluir en sus cartas de menú, las calorías por platillo que contienen los alimentos que ofrezcan al público.
 
 ###### Artículo 12.
 
@@ -1052,3 +1056,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 277.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY PARA EL CONTROL DE BEBIDAS CON CONTENIDO ALCOHÓLICO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
