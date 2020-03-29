@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-justicia-para-menores-infractores-en-el-estado-de-707
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-11"
-last_updated: "2017-11-16"
+last_updated: "2020-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,19 @@ state: "DUR"
 ---
 # CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 291, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 11 de octubre de 2009.
 
 Con fecha 7 de julio del presente año, el C. C.P. Ismael Alfredo Hernández Deras, Gobernador Constitucional del Estado y los Diputados integrantes de la LXIV Legislatura del Congreso, presentaron Iniciativa de decreto la cual, tiene como finalidad, reformar el contenido del CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO, misma que fue turnada a la Comisión de Justicia, integrada por los CC. Diputados José Luis López Ibáñez, Rosauro Meza Sifuentes, Servando Marrufo Fernández, Alma Marina Vitela Rodríguez y Maribel Aguilera Cháirez, Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable en base a los siguientes:
 
-C O N S I D E R A N D O S.
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -3934,3 +3936,17 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 29 DE MARZO DE 2020.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO DEL “DECRETO NO. 291.- SE ABROGA EL CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTICULO ÚNICO.
+
+Se abroga el Código de Justicia para Menores Infractores en el Estado de Durango, vigente a partir de las 0:00 horas del día 14 de diciembre del año 2009, publicado en el Periódico Oficial No. 30 de fecha 11 de octubre de 2009.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
