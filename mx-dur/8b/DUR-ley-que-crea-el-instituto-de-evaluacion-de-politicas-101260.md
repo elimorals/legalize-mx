@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-evaluacion-de-politicas-101260"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-16"
-last_updated: "2019-11-17"
+last_updated: "2020-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY QUE CREA EL INSTITUTO DE EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de febrero de 2014.
 
@@ -35,7 +35,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 26 de noviembre del presente año, los CC. Diputados: ARTURO KAMPFNER DÍAZ, HÉCTOR EDUARDO VELA VALENZUELA y CARLOS MATUK LÓPEZ DE NAVA, integrantes de esta LXVI Legislatura, presentaron Iniciativa de Decreto que contiene LEY QUE CREA EL INSTITUTO DE EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Gobernación integrada por los CC. Diputados: Rosauro Meza Sifuentes, Agustín Bernardo Bonilla Saucedo, Arturo Kampfner Díaz e Israel Soto Peña; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S...
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXVI Legislatura del Estado, expside (sic) el siguiente:
 
@@ -205,7 +207,11 @@ VII. Diseñar, aprobar y organizar las actividades de capacitación en los temas
 
 VIII. Invitar para participar en las sesiones o reuniones de trabajo, con voz pero sin voto, a todas aquellas personas que considere conveniente.
 
-IX. Las demás necesarias para el cumplimiento de sus funciones.
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2020)</small>
+
+IX. Designar, dentro de su estructura orgánica y atendiendo a la disponibilidad presupuestal, una instancia responsable encargada de aplicar lo establecido en la Ley General de Mejora Regulatoria, o bien, coordinarse con la Autoridad de Mejora Regulatoria del Estado para el cumplimiento de las obligaciones de dicha materia; y
+
+X. Las demás necesarias para el cumplimiento de sus funciones.
 
 2. Cuando se lleven a cabo a través de terceros, el Consejo:
 
@@ -596,3 +602,11 @@ SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entr
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 278.- SE MODIFICA LA FRACCIÓN IX DEL NUMERAL 1 Y SE RECORRE EN SU ORDEN LA SIGUIENTE FRACCIÓN DEL ARTÍCULO 11 DE LA LEY QUE CREA EL INSTITUTO DE EVALUACION DE POLÍTICAS PÚBLICAS DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
