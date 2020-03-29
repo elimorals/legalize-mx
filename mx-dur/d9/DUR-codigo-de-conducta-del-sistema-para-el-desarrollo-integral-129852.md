@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-del-sistema-para-el-desarrollo-integral-1298
 country: "mx"
 rank: "codigo"
 publication_date: "2018-06-28"
-last_updated: "2018-06-28"
+last_updated: "2020-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020 (ABROGADO).
 
 Código publicado al Número 51 del Periódico Oficial del Estado de Durango, el jueves 28 de junio de 2018.
 
@@ -731,3 +733,17 @@ C. MARTHA AUXILIAR MIEMBRO
 HERNÁNDEZ ADMINISTRATIVO PROPIETARIO
 
 REZA DEL COMITÉ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Código de Conducta, será aprobado por los integrantes del Comité de Ética y de prevención de Conflictos de Interés del Sistema para el Desarrollo Integral de la Familia e Informado ante la Junta de Gobierno respectiva.
+
+SEGUNDO.- El presente acuerdo entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+TERCERO.- Se abroga el Código de Conducta del Sistema para el Desarrollo Integral de la Familia del Estado de Durango, publicado en el Publicado en el (sic) Periódico Oficial del Estado de Durango en fecha 28 de junio de 2018, ejemplar número 51, página 51.
+
+CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet del Sistema para el Desarrollo Integral de la Familia.
