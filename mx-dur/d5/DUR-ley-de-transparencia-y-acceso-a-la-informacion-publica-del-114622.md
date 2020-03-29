@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2019-11-17"
+last_updated: "2020-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el miércoles 4 de mayo de 2016.
 
@@ -515,7 +515,11 @@ XXVIII. El Instituto podrá emitir recomendaciones a los sujetos obligados para 
 
 XXIX. Imponer las medidas de apremio para asegurar el cumplimiento de sus determinaciones; y
 
-XXX. Las demás que le confiera esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2020)</small>
+
+XXX. Designar, dentro de su estructura orgánica y atendiendo a la disponibilidad presupuestal, una instancia responsable encargada de aplicar lo establecido en (sic) Ley General de Mejora Regulatoria, o bien, coordinarse con la Autoridad de Mejora Regulatoria del Estado para el cumplimiento de las obligaciones de dicha materia; y
+
+XXXI. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 39.
 
@@ -2324,3 +2328,11 @@ SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entr
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 279.- SE MODIFICA LA FRACCIÓN XXX DEL ARTÍCULO 38 Y SE RECORRE EN SU ORDEN LA SIGUIENTE DE LA LEY DE TRASPARENCIA (SIC) Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
