@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-para-la-integracion-social-de-las-personas-con-2312
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-23"
-last_updated: "2018-06-10"
+last_updated: "2020-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2018 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 23 de diciembre de 2001.
 
@@ -985,6 +985,10 @@ III. Establecer la capacitación de recursos humanos, el uso de materiales y tec
 
 IV. Elaborar materiales en braille y formatos accesibles.
 
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2020)</small>
+
+V. Los recintos/áreas donde se presenten eventos culturales, deportivos y de esparcimiento deberán destinar al menos el 5% del total de los espacios y lugares que sean adecuados para que las personas con discapacidad puedan desplazarse libremente y con la mayor independencia posible.
+
 ###### Artículo 40.
 
 La Secretaría de Educación y el Instituto de Cultura del Estado de Durango promoverán el desarrollo y la utilización de medios técnicos especiales para que la literatura, las películas cinematográficas y el teatro sean accesibles a las personas con discapacidad.
@@ -1570,3 +1574,11 @@ TERCERO.- La Comisión Estatal Coordinadora deberá expedir el reglamento de la 
 CUARTO.- Los ayuntamientos contarán con un plazo de 180 días hábiles contados a partir de la entrada en vigor del presente decreto, para adecuar su normatividad, políticas públicas, estrategias, acciones y objetivos, al contenido de la presente Ley.
 
 A la fecha de entrada en vigor del presente decreto hasta el mes de diciembre de 2018, las multas que se generen por infracciones a disposiciones viales en materia de discapacidad se aplicarán en base a los montos que establecen las leyes de ingresos de cada uno de los municipios del ejercicio fiscal 2018.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 285. SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 39, DE LA LEY ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
