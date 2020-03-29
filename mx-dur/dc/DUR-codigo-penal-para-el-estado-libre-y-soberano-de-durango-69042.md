@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2020-03-19"
+last_updated: "2020-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -665,11 +665,9 @@ Para la imposición de la multa y para determinar la prisión aplicable, si es e
 
 ###### Artículo 39.
 
-Sustitución de la multa.
+Sustitución de la multa, Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla total o parcialmente por trabajo en favor de la comunidad. Cada tres horas de trabajo saldarán un día de multa.
 
-Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla total o parcialmente por trabajo en favor de la comunidad. Cada tres horas de trabajo saldarán un día de multa.
-
-Cuando no sea posible o conveniente la sustitución de la multa por trabajo en favor de la comunidad, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá del número de días sustituido, sin que este plazo sea mayor al de la prescripción.
+Cuando no sea posible o conveniente la sustitución de la multa por trabajo en favor de la comunidad, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá del número de días sustituido, sin que este plazo, sea mayor al de la prescripción.
 
 Dado el caso de que los supuestos de los párrafos anteriores no se cumplan, la autoridad judicial determinará la efectividad de la multa; en este caso la misma adquirirá el carácter de crédito fiscal.
 
@@ -2735,7 +2733,7 @@ Las penas señaladas en este capítulo se aumentarán hasta en una mitad más, c
 
 ### CAPÍTULO VII. ENCUBRIMIENTO POR RECEPTACIÓN
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2020)</small>
 
 ###### Artículo 210.
 
@@ -2921,7 +2919,9 @@ Para los efectos de los artículos que anteceden se entenderá que las comisione
 
 ###### Artículo 219.
 
-Al que con ánimo de lucro, después de la ejecución de un delito y sin haber participado en éste, venda, pignore, adquiera, reciba u oculte el producto de aquél o al que ayude a otro para los mismos fines, y no justifique su legal posesión y/o procedencias se le aplicará de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
+Al que con ánimo de lucro, después de la ejecución de un delito y sin haber participado en éste, venda, pignore, adquiera, reciba u oculte el producto de aquél o al que ayude a otro para los mismos fines, y no justifique su legal posesión y/o no verifique y haga constar la procedencia legítima del producto se le aplicará de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 Cuando el sujeto que realice alguna de las conductas señaladas en el párrafo anterior sea el propietario, poseedor administrador o empleado de cualquier clase de negociación o establecimiento dedicado a la compra, venta, compraventa, empeño o intercambio de mercancía usada o nueva, se le aplicará una pena de tres a ocho años de prisión y multa de doscientas dieciséis a quinientas sesenta y seis veces la Unidad de Medida y Actualización.
 
@@ -3995,7 +3995,7 @@ DELITOS CONTRA LA FAMILIA
 
 ###### Artículo 297.
 
-Al que abandone a cualquier persona respecto de quien tenga la obligación de suministrar alimentos, sin recursos para atender a sus necesidades de subsistencia, aun cuando cuente con el apoyo de familiares o terceros, se le impondrá de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización, privación de los derechos de familia y pago, como reparación del daño, de las cantidades no suministradas oportunamente.
+Al que abandone a cualquier persona respecto de quien tenga la obligación de suministrar alimentos sin recursos para atender a sus necesidades de subsistencia, aun cuando cuente con el apoyo de familiares o terceros, se le impondrá de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización, privación de los derechos de familia y pago, como reparación del daño, de las cantidades no suministradas oportunamente.
 
 Se impondrán las mismas penas al que, aún viviendo en el mismo domicilio, no proporcione los recursos necesarios para la subsistencia de quien se tenga la obligación de suministrar alimentos.
 
@@ -4011,9 +4011,17 @@ Al que se coloque en estado de insolvencia con el objeto de eludir el cumplimien
 
 La autoridad judicial resolverá la aplicación del producto del trabajo que realice el sujeto activo a la satisfacción de las obligaciones alimentarias omitidas o incumplidas.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2020)</small>
+
+###### Artículo 298 Bis.
+
+Al que sin causa justificada renuncie a su empleo o solicite licencia sin goce de sueldo, habiendo una resolución judicial en la que se le obligue al pago de alimentos, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de uno a cuatro años y multa de setenta y dos a doscientos ochenta y ocho veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2020)</small>
+
 ###### Artículo 299.
 
-Las mismas penas se impondrán a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas en los artículos anteriores, incumplan con la orden judicial de hacerlo.
+La pena señalada en el artículo 298 se impondrá a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas en los artículos anteriores, incumplan con la orden judicial de hacerlo.
 
 ### CAPÍTULO II. DISCRIMINACIÓN
 
@@ -5073,7 +5081,7 @@ XXXI.- Obligue a una persona a renunciar a su cargo o empleo para evitar respond
 
 XXXII.- A quien ejerciendo funciones de supervisor de libertad o con motivo de ellas hiciere amenazas, hostigue o ejerza violencia en contra de la persona procesada, sentenciada, su familia y posesiones;
 
-XXXIII.- A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia; y,
+XXXIII.- A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia, de bienes de la persona procesada, sentenciada o su familia; y,
 
 XXXIV.- A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución.
 
@@ -6258,6 +6266,22 @@ SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en e
 P.O. 19 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 273.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 76 Y 147 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 288.- SE REFORMA EL ARTÍCULO 219 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 290.- SE ADICIONA UN ARTÍCULO 298 BIS Y SE REFORMA EL ARTÍCULO 299 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
