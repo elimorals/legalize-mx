@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-106258"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-28"
-last_updated: "2019-12-29"
+last_updated: "2020-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 28 de diciembre de 2014.
 
@@ -2287,7 +2287,9 @@ c) Intercambiar, trasladar, custodiar, vigilar y brindar tratamiento a toda pers
 
 d) Proponer los reglamentos interiores de los centros de reinserción, con estricto apego al principio de no discriminación por género y vigilar su exacta aplicación;
 
-e) Aplicar los tratamientos adecuados a las personas internas, reglamentando su trabajo, sus actividades culturales, sociales, deportivas y otras, garantizando que estos tratamientos y reglamentos estén libre de estereotipos de género;
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2020)</small>
+
+e) Aplicar los tratamientos adecuados a las personas internas, reglamentando su trabajo, sus actividades culturales, sociales, deportivas y otras, garantizando que estos tratamientos y reglamentos estén libre de estereotipos de género; así como establecer, en coordinación con la Secretaría de Salud del Estado o con instituciones privadas o sociales, esquemas y lineamientos en materia de salud mental en centros penitenciarios, que contemplen atención a padecimientos mentales, rehabilitación psiquiátrica, y atención al alcoholismo y personas que consuman habitualmente estupefacientes o substancias psicotrópicas; de conformidad con la Ley Nacional de Ejecución Penal.
 
 f) Resolver sobre las modificaciones no esenciales a las medidas impuestas, tomando en cuenta la edad, sexo, salud o constitución física de las personas sujetas a proceso penal;
 
@@ -2634,3 +2636,11 @@ SEGUNDO.- El patrimonio de que dispone actualmente el Instituto Superior de Segu
 TERCERO.- La Secretaría de Finanzas y de Administración del Gobierno del Estado procederá conforme a lo dispuesto en la Ley de Entidades Paraestatales del Estado de Durango a fin de dar cumplimiento a lo dispuesto en este decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 283.- SE REFORMA EL INCISO E) DE LA FRACCIÓN IV DEL ARTÍCULO 177 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
