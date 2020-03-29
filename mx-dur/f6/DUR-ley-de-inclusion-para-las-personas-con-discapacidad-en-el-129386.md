@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-inclusion-para-las-personas-con-discapacidad-en-el-12938
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-10"
-last_updated: "2019-07-11"
+last_updated: "2020-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 10 de junio de 2018.
 
@@ -507,9 +507,13 @@ Asimismo, gozarán del derecho de reducción de los tiempos de atención y despa
 
 Para los efectos de esta Ley, cuando no sea notoria la identificación de una persona con discapacidad, acreditará dicha condición mediante la credencial que se describe en el artículo 77 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2020)</small>
+
 Artículo 64
 
 Las instituciones públicas donde se realicen trámites, procurarán tener una ventanilla especial o preferente para atender a las personas con discapacidad.
+
+Así mismo, las dependencias y entidades de la administración pública estatal centralizada y paraestatal, los poderes Legislativo y Judicial, así como las dependencias y entidades de las administraciones públicas municipales, deberán contar con personal necesario y capacitado en el uso de señas o lenguaje icónico utilizado por las personas sordomudas, principalmente en las áreas que tengan atención de manera directa con la población, con la finalidad de que puedan dar un trato y servicio adecuado, digno y eficaz a las personas con este tipo de discapacidad.
 
 Artículo 65
 
@@ -1156,3 +1160,11 @@ P.O. 11 DE JULIO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 286.- SE REFORMA EL ARTÍCULO 64 DE LA LEY DE INCLUSIÓN PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
