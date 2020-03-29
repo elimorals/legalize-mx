@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-prevencion-social-de-la-violencia-y-la-102410"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-31"
-last_updated: "2014-08-31"
+last_updated: "2020-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY PARA LA PREVENCION SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TERCERO TRANSITORIO DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA Y LA DELINCUENCIA EN EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 29 DE MARZO DE 2020; ESTE ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE EERO DE 2021.]</small>
+
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 31 de agosto de 2014.
 
@@ -422,3 +424,19 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 284.- LEY DE PREVENCIÓN DE LA VIOLENCIA Y LA DELINCUENCIA EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente ley entrará (sic) el 1 de enero de 2021 previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- En un plazo que no exceda de 90 días contados a partir de la entrada en vigor del presente decreto, los Ayuntamientos deberán expedir las modificaciones reglamentarias procedentes.
+
+TERCERO.- Se abroga la Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Durango.
+
+CUARTO.- En un plazo que no exceda de 60 días contados a partir de la entrada en vigor de la presente Ley, el Gobernador del Estado deberá expedir el Reglamento de la presente Ley.
+
+QUINTO.- El Titular del Poder Ejecutivo y los Ayuntamientos del Estado deberán realizar las previsiones presupuestales correspondientes para el cumplimiento de lo dispuesto en este Decreto para el ejercicio fiscal del año 2021 y subsecuentes.
