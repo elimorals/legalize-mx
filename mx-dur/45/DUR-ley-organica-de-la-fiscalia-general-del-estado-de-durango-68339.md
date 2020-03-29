@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-general-del-estado-de-durango-68339
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-02-26"
-last_updated: "2019-06-23"
+last_updated: "2020-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -821,8 +821,6 @@ III. Departamentos, Peritos y demás personal de apoyo.
 
 La Fiscalía General velará porque los servicios periciales cuenten con la tecnología necesaria para el desempeño de sus funciones, debiendo celebrar los convenios con otras instituciones públicas o privadas para el caso de que se requiera su apoyo en la emisión de dictámenes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 35.
@@ -831,13 +829,13 @@ La Dirección de Servicios Periciales tiene a su cargo la rendición de dictáme
 
 Los dictámenes y certificados se emitirán en las diversas especialidades pertinentes a petición de las autoridades judiciales del fuero común y del Ministerio Público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2020)</small>
+
+En materia de violencia familiar, prevista en el Código Penal del Estado Libre y Soberano de Durango, la Dirección de Servicios Periciales podrá celebrar convenios con instituciones de salud, públicas y privadas, respecto a certificados y dictámenes médicos de lesiones, de conformidad con las disposiciones procedimentales respectivas.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 Los peritos de la Fiscalía General podrán elaborar dictámenes a petición de otras autoridades, siempre y cuando lo autorice el Fiscal General y se tengan los recursos necesarios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1408,6 +1406,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente d
 P.O. 23 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 109.- QUE CONTIENE REFORMA A LA FRACCIÓN IX DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 289.- SE ADICIONA UN PÁRRAFO AL ARTÍCULO 35 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
