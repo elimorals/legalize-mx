@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2019-12-08"
+last_updated: "2020-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -272,6 +272,22 @@ XXIV.- Promover, mediante la aplicación de programas, la participación activa 
 > <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
 XXV.- Garantizar en todo momento el acceso adecuado a la información sobre salud sexual y reproductiva necesaria para su desarrollo integral, de forma oportuna y acorde a su edad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2020)</small>
+
+XXVI.- Fomentar el interés por la ciencia y la tecnología, además de las actitudes que estimulen la investigación y la innovación científica y tecnológica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2020)</small>
+
+XXVII.- Generar las aptitudes que impulsen en la comunidad estudiantil la capacidad emprendedora y las cualidades con fines creativos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2020)</small>
+
+XXVIII.- Promover en forma permanente el hábito de la lectura, de la consulta bibliográfica y el análisis de datos, así como la valoración de la información obtenida; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2020)</small>
+
+XXIX.- Implementar programas de orientación vocacional y promover el establecimiento de acuerdos entre instituciones educativas y el sector productivo para impulsar las prácticas que permitan a los alumnos adquirir aptitudes, capacidades y experiencia de calidad, que ayuden a identificar los intereses de especialización para el efecto de mejorar sus oportunidades de desarrollo profesional.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -1275,6 +1291,10 @@ Para garantizar la continuidad del servicio educativo, la Secretaría realizará
 
 El Gobierno del Estado reglamentará la prestación del servicio social de estudiantes, de tal manera que éste se oriente fundamentalmente a apoyar la educación, la salud y el bienestar social de regiones y grupos sociales en desventaja.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2020)</small>
+
+En el nivel educativo medio superior se tendrá la posibilidad de conmutar total o parcialmente las horas que comprende este servicio por actividades acreditadas de arborizar, reforestación y de aquellas enfocadas al cuidado medio ambiental, realizables en zonas que autoridades u organizaciones especialistas en la materia definan para tal efecto.
+
 ### CAPITULO OCTAVO. DEL PROCESO EDUCATIVO
 
 #### Sección 1. Del Proceso Educativo en General
@@ -1468,6 +1488,10 @@ La educación especial incluye la orientación a los padres o tutores, así como
 ###### ARTICULO 104.
 
 Las instituciones de educación especial deberán ser atendidas por personal profesional especializado para poder cumplir eficazmente con los propósitos de esta educación.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2020)</small>
+
+La educación destinada a educandos con capacidades y aptitudes sobresalientes en el ámbito de acción motriz, deberá incluir la vinculación entre los departamentos de educación especial, educación física, así como de los institutos municipales del deporte; con la finalidad de cumplir en el ámbito de sus atribuciones los lineamientos establecidos en la Ley de Cultura Física y de Deporte del Estado de Durango.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2850,5 +2874,29 @@ P.O. 8 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 198.- POR EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 77 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 280.- POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 104 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 281.- QUE CONTIENE REFORMA AL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 282.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 85 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
