@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-de-la-secretaria-de-educacion-del-estado-132
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-27"
-last_updated: "2018-11-27"
+last_updated: "2020-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE EDUCACION DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020 (ABROGADO).
 
 Código publicado en el Número 38 Extraordinario del Periódico Oficial del Estado de Durango, el martes 27 de noviembre de 2018.
 
@@ -220,3 +222,15 @@ SECRETARIO DE EDUCACIÓN DEL ESTADO DE DURANGO
 Y PRESIDENTE DEL COMITÉ DE ÉTICA Y PREVENCIÓN DE
 
 CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE EDUCACIÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente acuerdo entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Código de Conducta de la Secretaría de Educación del Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango, el 27 de noviembre de 2018, bajo el No. 38 EXT.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet de la Secretaría de Educación.
