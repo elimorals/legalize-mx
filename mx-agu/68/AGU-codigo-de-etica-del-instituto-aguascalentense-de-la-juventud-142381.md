@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-aguascalentense-de-la-juventud-14
 country: "mx"
 rank: "codigo"
 publication_date: "2020-03-09"
-last_updated: "2020-03-09"
+last_updated: "2020-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MARZO DE 2020 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE MARZO DE 2020.]</small>
 
 Código publicado en la Primera Sección al Número 10 del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de marzo de 2020.
 
@@ -37,7 +37,9 @@ El ÓRGANO INTERNO DE CONTROL DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD, en e
 
 CONSIDERANDOS
 
-I. Que, en el ejercicio de las atribuciones y facultades del Órgano Interno de Control del Instituto Aguascalentense, así como los trámites y resolución de los asuntos de su competencia, corresponden originalmente al Órgano Interno de Control.
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2020)</small>
+
+I. Que, en el ejercicio de las atribuciones y facultades del Órgano Interno de Control del Instituto Aguascalentense de la Juventud, así como los trámites y resolución de los asuntos de su competencia, corresponden originalmente al Órgano Interno de Control.
 
 II. Que el artículo 16 de la Ley General de Responsabilidades Administrativas establece que “Los Servidores Públicos deberán observar el código de ética que al efecto sea emitido por las Secretarías o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.”.
 
@@ -65,9 +67,11 @@ VIII. Que este Instituto Aguascalentense de la Juventud, con base en el Plan Est
 
 A C U E R D O
 
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO ÚNICO.
 
-Se emite el CÓDIGO DE ÉTICA DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES (SIC), para quedar en los siguientes términos:
+Se emite el CÓDIGO DE ÉTICA DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD, para quedar en los siguientes términos:
 
 CÓDIGO DE ÉTICA DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD
 
