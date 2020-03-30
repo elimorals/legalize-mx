@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2019-12-30"
+last_updated: "2020-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1375,9 +1375,11 @@ Si el inculpado es ascendiente, padrastro, o madrastra de la víctima, o habita 
 
 Si el inculpado labora en organizaciones dedicadas al cuidado o atención de menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, también se le aplicará como pena la privación del cargo, empleo o comisión que ahí desempeñe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2020)</small>
+
 ###### ARTÍCULO 118.
 
-Estupro. El estupro consiste en realizar cópula con persona mayor de doce y menor de dieciséis años de edad, obteniendo su consentimiento por medio de seducción o engaño.
+Estupro. El estupro consiste en realizar cópula con persona mayor de catorce y menor de dieciocho años de edad, obteniendo su consentimiento por medio de seducción o engaño.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -1407,7 +1409,9 @@ Para los efectos de este Código, se entiende por cópula la introducción del p
 
 Violación equiparada. También se equiparan a la Violación, los hechos punibles siguientes:
 
-I.- Realizar cópula con persona menor de doce años de edad sin hacer uso de la fuerza física o moral;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2020)</small>
+
+I.- Realizar cópula con persona menor de catorce años de edad sin hacer uso de la fuerza física o moral;
 
 II.- Realizar cópula con persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado;
 
@@ -1555,11 +1559,13 @@ Al responsable de violencia familiar se le aplicarán de 1 a 4 años de prisión
 
 Cuando la violencia se ejerza sobre personas menores de edad, personas de sesenta años o más, personas con discapacidad, embarazadas o cualquier otra circunstancia que no esté en condiciones de resistir la conducta violenta, o cuando la acción básica se realice en el domicilio de la víctima, la pena de prisión se aumentará hasta un cincuenta por ciento más en sus mínimos y máximos.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2020)</small>
 
 ###### ARTÍCULO 133.
 
-Violencia a partir de una relación de pareja.- La violencia a partir de una relación de pareja consiste en la violencia psicológica que ejerza una persona en contra de otra en una relación de pareja y que ello le cause afectación en su autoestima o seguridad, con el objeto de controlar, intimidar, humillar, someter o dominar a la persona, impidiendo su libre desarrollo de la personalidad.
+Violencia a partir de una relación de pareja.- La violencia a partir de una relación de pareja consiste en la fuerza física o psicológica que ejerza una persona en contra de otra en una relación de pareja y que ello le cause afectación en su autoestima o seguridad, con el objeto de controlar, intimidar, humillar, someter o dominar a la persona.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 Al responsable de violencia a partir de una relación de pareja se le aplicarán de 1 a 4 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 años de edad.
 
@@ -3494,3 +3500,15 @@ P.O. 30 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 316.- ARTÍCULO ÚNICO.- SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 118, LA FRACCIÓN I DEL ARTÍCULO 120 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 133, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la Comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
