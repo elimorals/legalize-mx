@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-organismo-publico-descentralizado-radio-y-2790"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-11"
-last_updated: "2018-09-10"
+last_updated: "2020-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO RADIO Y TELEVISIÓN DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2020.
 
 Ley publicada en el Suplemento al Número 2 del Periódico Oficial del Estado de Aguascalientes, el 11 de enero de 1987.
 
@@ -107,9 +107,19 @@ f).- Orientar al radioescucha o al televidente sobre la preservación de la salu
 
 g).- Mantener oportunamente informada a la población sobre: los planes, programas, proyectos y acciones de los Poderes del Estado y de los Ayuntamientos de la Entidad; así como, las actividades de los partidos políticos registrados, en términos de la Ley Electoral del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2020)</small>
+
+h).- Promover la igualdad entre mujeres y hombres.
+
 XIII.- El organismo en el cumplimiento de su objeto dará prioridad a la producción y transmisión de programas radiofónicos y de televisión dirigidos a la población infantil y a la juventud para propiciar su desarrollo armónico, creatividad, solidaridad humana, su interés científico, artístico y social así como el conocimiento y protección de los valores humanos e históricos de la Entidad, procurando asimismo la comprensión de los valores cívicos nacionales y estatales y fomentar el conocimiento de la comunidad internacional.
 
-XIV.- En general, realizar y celebrar los actos jurídicos necesarios para el desarrollo de sus funciones, de acuerdo con las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MARZO DE 2020)</small>
+
+XIV.- Impedir la trasmisión de publicidad, propaganda o de programas, cuyo contenido promueva estereotipos que fomenten la desigualdad entre ambos sexos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MARZO DE 2020)</small>
+
+XV.- En general, realizar y celebrar los actos jurídicos necesarios para el desarrollo de sus funciones, de acuerdo con las disposiciones legales aplicables.
 
 ###### ARTICULO 5o.
 
@@ -346,3 +356,11 @@ P.O. 10 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 315.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 4°; Y SE ADICIONA EL INCISO H) A LA FRACCIÓN XII Y LA FRACCIÓN XV AL ARTÍCULO 4°; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO RADIO Y TELEVISIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
