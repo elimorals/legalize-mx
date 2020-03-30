@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2020-02-12"
+last_updated: "2020-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2020.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1998,6 +1998,10 @@ Para los efectos de este artículo, se tendrá como consumado el delito aun cuan
 Insolvencia simulada
 
 A quien deliberadamente renuncie a su empleo o solicite licencia sin goce de sueldo y sea éste el único medio de obtener ingresos, para colocarse en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá de uno a tres años de prisión o de cuatrocientos a setecientos días multa y pago, en calidad de reparación del daño, de las cantidades no suministradas oportunamente.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2020)</small>
+
+Al empleador o responsable del pago que de algún modo oculte o no informe el ingreso real del imputado a la autoridad correspondiente, se le impondrá la misma sanción.
 
 ###### Artículo 183.
 
@@ -4190,3 +4194,11 @@ P.O. 12 DE FEBRERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+P.O. 30 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 303 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 182 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
