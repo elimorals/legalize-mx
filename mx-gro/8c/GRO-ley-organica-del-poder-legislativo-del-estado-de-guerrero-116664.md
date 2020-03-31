@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2019-11-08"
+last_updated: "2020-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -1347,9 +1347,13 @@ IV.- Concluidas las intervenciones se consultará al Pleno si es de aprobarse o 
 
 La moción para solicitar la remoción de un integrante de la Mesa se desahogará en los términos previstos en esta Ley Orgánica y su Reglamento.
 
-## TÍTULO TERCERO. DE LAS ATRIBUCIONES DEL CONGRESO DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2020)</small>
 
-### CAPÍTULO ÚNICO
+## TÍTULO TERCERO. DE LA COMPETENCIA DEL CONGRESO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2020)</small>
+
+### CAPÍTULO PRIMERO. DE LAS ATRIBUCIONES
 
 ###### ARTÍCULO 116.
 
@@ -1411,15 +1415,57 @@ XVIII. Expedir las leyes que rijan las relaciones laborales del Estado y de los 
 
 XIX. Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
 
-### CAPÍTULO PRIMERO. DE LAS GENERALIDADES
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2020)</small>
 
-#### SECCIÓN I. DE SUS ATRIBUCIONES
+### CAPÍTULO SEGUNDO. DE LA DESIGNACIÓN DE LOS TITULARES DE LOS ÓRGANOS INTERNOS DE CONTROL DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS
 
-#### SECCIÓN II. DE SU INTEGRACIÓN, DURACIÓN Y ELECCIÓN
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE MARZO DE 2020)</small>
+
+#### SECCIÓN PRIMERA. DE SU NATURALEZA CONSTITUCIONAL
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2020)</small>
+
+ARTÍCULO 116 BIS. Conforme a lo previsto en la fracción XLIV, del artículo 61, de la Constitución Política del Estado Libre y Soberano de Guerrero, corresponde al Congreso del Estado designar, por el voto de las dos terceras partes de sus miembros presentes a los titulares de los órganos autónomos contemplados en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Guerrero, con excepción del Tribunal Electoral del Estado de Guerrero.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE MARZO DE 2020)</small>
+
+#### SECCIÓN SEGUNDA. DEL PROCESO PARA SU DESIGNACIÓN
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2020)</small>
+
+ARTÍCULO 116 TER. La designación de los titulares de los Órganos Internos de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+
+a) La Junta de Coordinación Política del Congreso del Estado propondrá al Pleno de la convocatoria para la designación del titular del Órgano Interno de Control correspondiente, la que deberá contemplar que los aspirantes acompañen su declaración de intereses, de conformidad con las disposiciones aplicables;
+
+b) Esta convocatoria será abierta para todas las personas, contendrá las etapas completas para el procedimiento, las fechas límite y los plazos improrrogables; así como los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos;
+
+c) Para ser titular del Órgano Interno de Control de los órganos autónomos contemplados en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Guerrero; se deberán cumplir los requisitos que establezcan las leyes de dichos organismos autónomos;
+
+d) La Mesa Directiva expedirá la convocatoria pública aprobada por el Pleno para la elección del titular del Órgano Interno de Control, misma que deberá publicarse en el Periódico Oficial del Estado de Guerrero, en la página web del Congreso del Estado y, preferentemente, en periódicos de circulación estatal;
+
+e) Una vez abierto el periodo a que se refiera la convocatoria correspondiente, se recibirán las solicitudes de los aspirantes, por duplicado, y la documentación a que se refiere el inciso a) del numeral 1 del presente artículo, el Presidente de la Mesa Directiva turnará los expedientes a las Comisiones Unidas de Transparencia y de Vigilancia y Evaluación de la Auditoría Superior del Estado, mismas que se encargarán de realizar la revisión correspondiente a efecto de determinar aquellos aspirantes que acreditan el cumplimiento de los requisitos exigidos para el cargo por la Constitución y las leyes correspondientes;
+
+f) En caso de que las Comisiones Unidas de Trasparencia, Acceso a la Información Pública y Protección de Datos Personales, y de Vigilancia y Evaluación de la Auditoría Superior del Estado determinen que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud;
+
+g) Las Comisiones Unidas de Trasparencia, Acceso a la Información Pública y Protección de Datos Personales y de Vigilancia y Evaluación de la Auditoría Superior del Estado elaborarán un acuerdo que deberá publicarse en el Periódico Oficial del Estado de Guerrero, y en la página web del Congreso del Estado, y contendrá lo siguiente:
+
+I. El listado con los aspirantes que hayan cumplido con los requisitos exigidos por la Constitución y las leyes correspondientes;
+
+II. El plazo con que cuenta (sic) los aspirantes, cuya solicitud haya sido exigidos desechada, para recoger su documentación y fecha límite para ello, y
+
+III. El día y hora en donde tendrán verificativo las comparecencias ante las Comisiones Unidas de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; y de Vigilancia y Evaluación de la Auditoría Superior del Estado, de los aspirantes que hayan cumplido con los requisitos exigidos, a efecto de garantizar su garantía de audiencia y conocer su interés y razones respecto a su posible designación en el cargo;
+
+h) Una vez que se hayan desahogado las comparecencias, las Comisiones Unidas de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; y de Vigilancia y Evaluación de la Auditoría Superior del Estado, sesionarán de manera conjunta con la finalidad de integrar y revisar los expedientes y entrevistas para la formulación del dictamen que contenga la lista de candidatos aptos para ser votados por el Congreso, y que se hará llegar a la Junta de Coordinación Política;
+
+i) Los Grupos Parlamentarios y representaciones de partido, a través de la Junta de Coordinación Política determinarán por el más amplio consenso posible y atendiendo a las consideraciones y recomendaciones que establezca el dictamen de las Comisiones Unidas de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; y de Vigilancia y Evaluación de la Auditoría Superior del Estado, la propuesta del nombre del candidato a titular del Órgano Interno de Control que corresponda;
+
+j) En la sesión correspondiente al Congreso del Estado, se dará a conocer al Pleno la propuesta a que se refiere el inciso anterior, y se procederá a su discusión y votación en los términos que establezca la presente Ley y el Reglamento del Congreso del Estado, y
+
+k) Aprobado el dictamen, cuando así lo acuerde el Presidente, el candidato cuyo nombramiento se apruebe en los términos del presente Capítulo, rendirá la protesta constitucional ante el Pleno del Congreso del Estado en la misma sesión.
 
 ## TÍTULO CUARTO. DE LOS ÓRGANOS DE GOBIERNO, LEGISLATIVOS, DE LOS DE REPRESENTACIÓN, DE LOS ADMINISTRATIVOS Y DE LOS TÉCNICOS
 
-### CAPÍTULO SEGUNDO. DEL PLENO
+### CAPÍTULO PRIMERO. DE LAS GENERALIDADES
 
 ###### ARTÍCULO 117.
 
@@ -1479,7 +1525,7 @@ Tratándose de quienes asuman la titularidad de los órganos señalados en la fr
 
 Lo anterior, exceptuando al titular del Órgano con Autonomía Técnica mencionado en el inciso c) de la fracción III de este artículo, el cual se regirá por las disposiciones específicas contenidas en los Títulos Noveno y Décimo Tercero de la Constitución Política del Estado y la Ley de Fiscalización Superior y Rendición de Cuentas del Estado.
 
-### CAPÍTULO TERCERO. DE LA MESA DIRECTIVA
+### CAPÍTULO SEGUNDO. DEL PLENO
 
 ###### ARTÍCULO 118.
 
@@ -1489,9 +1535,9 @@ El máximo órgano de gobierno del Congreso del Estado es el Pleno reunido confo
 
 Al Pleno del Congreso del Estado le corresponde tomar las decisiones que conforman los diversos procesos parlamentarios para el ejercicio de sus facultades legislativas, jurisdiccionales, de control, de fiscalización y las demás conferidas constitucionalmente.
 
-### CAPÍTULO CUARTO. DE LA COMISIÓN PERMANENTE
+### CAPÍTULO TERCERO. DE LA MESA DIRECTIVA
 
-#### SECCIÓN III. DE SU PRESIDENTE
+#### SECCIÓN I. DE SUS ATRIBUCIONES
 
 ###### ARTÍCULO 120.
 
@@ -1519,9 +1565,17 @@ VII.- Autorizar el uso del salón de Sesiones del Pleno y de las demás instalac
 
 VIII. Ordenar la publicación, en el portal electrónico del Congreso, del seguimiento de los asuntos turnados a las Comisiones y los Comités, así como a los demás Órganos técnicos y administrativos; y
 
-IX. Las demás que le atribuyan esta Ley Orgánica, los ordenamientos aplicables y los acuerdos del Pleno.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2020)</small>
 
-#### SECCIÓN IV. DE SUS VICEPRESIDENTES
+IX. Expedir la convocatoria aprobada por el Pleno a propuesta de la Junta de Coordinación Política para la designación de los titulares de los Órganos Internos de Control de los órganos autónomos contemplados en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Guerrero que ejerzan recursos del Presupuesto de Egresos del Estado, con excepción del Tribunal Electoral del Estado de Guerrero, y
+
+X. Las demás que le atribuyan esta Ley Orgánica, los ordenamientos aplicables y los acuerdos del Pleno.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2020)</small>
+
+Las convocatorias para la designación de los titulares de los Órganos Internos de Control que expidan la Universidad Autónoma de Guerrero y el Tribunal Electoral del Estado de Guerrero, se regirán exclusivamente de conformidad con su normatividad interna.
+
+#### SECCIÓN II. DE SU INTEGRACIÓN, DURACIÓN Y ELECCIÓN
 
 ###### ARTÍCULO 122.
 
@@ -1575,7 +1629,7 @@ Para la remoción, se requerirá que algún Diputado presente la moción para se
 
 Aprobada la remoción, se elegirá para concluir el año legislativo, al integrante de la Mesa Directiva que ocupará el cargo vacante, en los mismos términos que, para la elección de la Mesa Directiva, dispone la presente Ley Orgánica.
 
-#### SECCIÓN V. DE SUS SECRETARIOS
+#### SECCIÓN III. DE SU PRESIDENTE
 
 ###### ARTÍCULO 130.
 
@@ -1677,7 +1731,7 @@ Las resoluciones del Presidente de la Mesa Directiva podrán ser impugnadas por 
 
 Este voto será consultado cuando algún miembro del Congreso del Estado reclame la resolución o trámite del Presidente, previa una discusión en que podrán hablar dos individuos en pro y dos en contra, lo cual se podrá hacer siempre que no haya mediado votación en el mismo asunto.
 
-#### SECCIÓN I. DE SU NATURALEZA, CONSTITUCIÓN Y COMPOSICIÓN
+#### SECCIÓN IV. DE SUS VICEPRESIDENTES
 
 ###### ARTÍCULO 136.
 
@@ -1687,7 +1741,7 @@ I. Asistir, en el orden que les corresponda, al Presidente de la Mesa en el ejer
 
 II. Las demás previstas en la Ley Orgánica, su Reglamento y demás disposiciones del Congreso del Estado; así como, aquellas que le sean encomendadas por el Presidente de la Mesa.
 
-#### SECCIÓN II. DE SUS ATRIBUCIONES, LAS DE SU PRESIDENTE, SECRETARIO Y VOCALES
+#### SECCIÓN V. DE SUS SECRETARIOS
 
 ###### ARTÍCULO 137.
 
@@ -1729,7 +1783,7 @@ Tratándose de documentos o expedientes que tengan el carácter de reservados o 
 
 XVII. Las demás que se deriven de esta Ley y los ordenamientos relativos a la actividad parlamentaria o que le sean conferidos por el Presidente de la Mesa.
 
-### CAPÍTULO QUINTO. DE LA JUNTA DE COORDINACIÓN POLÍTICA
+### CAPÍTULO CUARTO. DE LA COMISIÓN PERMANENTE
 
 ###### ARTÍCULO 138.
 
@@ -1773,9 +1827,9 @@ IV. Las demás que sean necesarias para el ejercicio de sus atribuciones.
 
 En el último día de su ejercicio, la Comisión Permanente deberá tener formado un inventario que contenga la memoria, oficios, comunicados, turnos y demás documentos que hubiere recibido o expedido durante el receso del Pleno. El Presidente de la Mesa rendirá un informe al Pleno sobre ello.
 
-### CAPÍTULO SEXTO. DE LA CONFERENCIA PARA LA DIRECCIÓN Y PROGRAMACIÓN DE LOS TRABAJOS LEGISLATIVOS
+### CAPÍTULO QUINTO. DE LA JUNTA DE COORDINACIÓN POLÍTICA
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+#### SECCIÓN I. DE SU NATURALEZA, CONSTITUCIÓN Y COMPOSICIÓN
 
 ###### ARTÍCULO 145.
 
@@ -1815,7 +1869,7 @@ Los integrantes de la Junta podrán ser sustituidos de conformidad con las regla
 
 En tanto no se dé el aviso respectivo, las faltas temporales del Presidente, serán cubiertas por el Secretario y las de éste, por los vocales, en su orden.
 
-#### SECCIÓN II. DE LAS COMISIONES
+#### SECCIÓN II. DE SUS ATRIBUCIONES, LAS DE SU PRESIDENTE, SECRETARIO Y VOCALES
 
 ###### ARTÍCULO 149.
 
@@ -1859,7 +1913,15 @@ XVII. De las propuestas de los Servidores Públicos que deban ser nombrados o ra
 
 XVIII. Dictar resoluciones económicas relativas al régimen interior del Congreso del Estado; y,
 
-XIX. Las demás que sean necesarias para el desempeño de sus atribuciones y obligaciones.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2020)</small>
+
+XIX. Proponer al Pleno, el proyecto de Convocatoria para la designación de los titulares de los Órganos Internos de Control de los órganos autónomos contemplados en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Guerrero que ejerzan recursos del Presupuesto de Egresos del Estado, con excepción del Tribunal Electoral del Estado de Guerrero, y
+
+XX. Las demás que sean necesarias para el desempeño de sus atribuciones y obligaciones.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2020)</small>
+
+Las convocatorias para la designación de los titulares de los Órganos Internos de Control que expidan la Universidad Autónoma de Guerrero y el Tribunal Electoral del Estado de Guerrero, se regirán exclusivamente de conformidad con su normatividad interna.
 
 ###### ARTÍCULO 150.
 
@@ -1931,7 +1993,7 @@ II. Auxiliar al Secretario en el despacho de los asuntos a su cargo; y,
 
 III. Las demás que le encomiende la Junta de Coordinación o su Presidente.
 
-### CAPÍTULO SÉPTIMO. DE LOS GRUPOS PARLAMENTARIOS Y LAS REPRESENTACIONES PARLAMENTARIAS
+### CAPÍTULO SEXTO. DE LA CONFERENCIA PARA LA DIRECCIÓN Y PROGRAMACIÓN DE LOS TRABAJOS LEGISLATIVOS
 
 ###### ARTÍCULO 153.
 
@@ -1963,7 +2025,7 @@ IV. Vigilar que se haya realizado la prevención a las Comisiones para dictamina
 
 V. Las demás que se deriven de esta Ley y de los ordenamientos relativos.
 
-### CAPÍTULO OCTAVO. DE LOS ÓRGANOS LEGISLATIVOS
+### CAPÍTULO SÉPTIMO. DE LOS GRUPOS PARLAMENTARIOS Y LAS REPRESENTACIONES PARLAMENTARIAS
 
 ###### ARTÍCULO 155.
 
@@ -2019,9 +2081,9 @@ Durante el ejercicio de la Legislatura, los Coordinadores de los Grupos y Repres
 
 El Congreso del Estado, dentro de sus posibilidades presupuestarias, pondrá a disposición de cada Grupo o Representación Parlamentaria, los apoyos necesarios para su funcionamiento, atendiendo al número de Diputados que las integren.
 
-### CAPÍTULO NOVENO. DE LOS ÓRGANOS ADMINISTRATIVOS Y TÉCNICOS
+### CAPÍTULO OCTAVO. DE LOS ÓRGANOS LEGISLATIVOS
 
-#### SECCIÓN III. DE LAS SESIONES DE LAS COMISIONES
+#### SECCIÓN I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 161.
 
@@ -2133,7 +2195,7 @@ XIV. Elaborar, previamente al término de la Legislatura, la Memoria de Labores 
 
 Los Secretarios técnicos deberán contar con título profesional, así como tener conocimientos y experiencia en las materias de competencia de la Comisión o Comité que corresponda.
 
-#### SECCIÓN IV. DE LA ASISTENCIA Y EL QUÓRUM
+#### SECCIÓN II. DE LAS COMISIONES
 
 ###### ARTÍCULO 174.
 
@@ -2261,7 +2323,7 @@ V. Las demás que se deriven de esta Ley Orgánica, su Reglamento y otras dispos
 
 En caso de ausencia del Secretario, el Presidente de la Comisión designará, de entre los vocales, a quien deberá desempeñar el cargo temporalmente.
 
-#### SECCIÓN V. DEL ORDEN DE LOS ASUNTOS, DE LAS DISCUSIONES Y LAS VOTACIONES
+#### SECCIÓN III. DE LAS SESIONES DE LAS COMISIONES
 
 ###### ARTÍCULO 182.
 
@@ -2325,7 +2387,7 @@ Las actas de las sesiones de las Comisiones contendrán por lo menos: el nombre 
 
 Las actas serán suscritas por el Presidente y el Secretario de la o las Comisiones y se publicarán en la Gaceta.
 
-#### SECCIÓN VI. DE LOS COMITÉS
+#### SECCIÓN IV. DE LA ASISTENCIA Y EL QUÓRUM
 
 ###### ARTÍCULO 189.
 
@@ -2347,7 +2409,7 @@ Cuando la sesión convocada no se verifique por falta de quórum, se levantará 
 
 Cuando no se forme quórum después de dos convocatorias sucesivas a sesión, se hará del conocimiento a la Junta de Coordinación para que coadyuve a la solución correspondiente.
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+#### SECCIÓN V. DEL ORDEN DE LOS ASUNTOS, DE LAS DISCUSIONES Y LAS VOTACIONES
 
 ###### ARTÍCULO 191.
 
@@ -2491,7 +2553,7 @@ La integración de la Comisión Investigadora será de cinco Diputados y se eleg
 
 El procedimiento al que se sujetará la Comisión Especial Investigadora, será el establecido en el Reglamento.
 
-#### SECCIÓN II. DE LOS ÓRGANOS ADMINISTRATIVOS Y TÉCNICOS
+#### SECCIÓN VI. DE LOS COMITÉS
 
 ###### ARTÍCULO 198.
 
@@ -2513,9 +2575,9 @@ IV. De Biblioteca e Informática.
 
 Para la creación, integración y funcionamiento de los Comités, serán aplicables las disposiciones establecidas a las Comisiones ordinarias en esta Ley Orgánica y su Reglamento.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+### CAPÍTULO NOVENO. DE LOS ÓRGANOS ADMINISTRATIVOS Y TÉCNICOS
 
-#### SECCIÓN III. DE LA SECRETARÍA DE SERVICIOS PARLAMENTARIOS
+#### SECCIÓN I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 200.
 
@@ -2527,7 +2589,7 @@ La conformación, actividades y tareas de los órganos administrativos y técnic
 
 La organización administrativa de las dependencias será acordada por la Junta de Coordinación Política a propuesta de su Presidente.
 
-#### SECCIÓN IV. DE LA SECRETARÍA DE SERVICIOS FINANCIEROS Y ADMINISTRATIVOS
+#### SECCIÓN II. DE LOS ÓRGANOS ADMINISTRATIVOS Y TÉCNICOS
 
 ###### ARTÍCULO 202.
 
@@ -2569,9 +2631,7 @@ El titular del órgano mencionado en la fracción III del artículo que precede,
 
 Todos los servidores públicos de los órganos administrativos y técnicos observarán en su actuación las disposiciones de la Constitución Política del Estado, de esta Ley Orgánica y de los ordenamientos, políticas y lineamientos respectivos. En el año de la renovación de la Legislatura los titulares de los órganos administrativos y técnicos continuarán en sus funciones hasta la realización del nombramiento correspondiente.
 
-#### SECCIÓN V. DE LA AUDITORÍA SUPERIOR DEL ESTADO
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+#### SECCIÓN III. DE LA SECRETARÍA DE SERVICIOS PARLAMENTARIOS
 
 ###### ARTÍCULO 204.
 
@@ -2607,7 +2667,7 @@ III.- Realizar estudios sobre la organización, el funcionamiento y los procedim
 
 IV.- Cumplir las demás funciones que le confieren esta Ley y los ordenamientos relativos a la actividad parlamentaria.
 
-#### SECCIÓN VI. DEL INSTITUTO DE ESTUDIOS PARLAMENTARIOS "EDUARDO NERI"
+#### SECCIÓN IV. DE LA SECRETARÍA DE SERVICIOS FINANCIEROS Y ADMINISTRATIVOS
 
 ###### ARTÍCULO 206.
 
@@ -2653,7 +2713,9 @@ El Secretario de Servicios Financieros y Administrativos, al iniciar su cargo, o
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE JULIO DE 2018)</small>
 
-#### SECCIÓN VII. DE LA CONTRALORÍA INTERNA
+#### SECCIÓN V. DE LA AUDITORÍA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 209.
 
@@ -2663,7 +2725,7 @@ La Auditoría Superior del Estado se rige por la Ley de la materia, en la que se
 
 En la elección del titular de la Auditoría Superior del Estado se estará a lo dispuesto por los artículos 116, fracción II de la Constitución Política de los Estados Unidos Mexicanos y 151 de la Constitución Política del Estado Libre y Soberano de Guerrero.
 
-#### SECCIÓN VIII. DE LA DIRECCIÓN DE COMUNICACIÓN
+#### SECCIÓN VI. DEL INSTITUTO DE ESTUDIOS PARLAMENTARIOS "EDUARDO NERI"
 
 ###### ARTÍCULO 210.
 
@@ -2703,7 +2765,7 @@ El Instituto podrá recibir ingresos por concepto de cuotas, aportaciones y dona
 
 El órgano superior de gobierno del Instituto será el Comité respectivo.
 
-#### SECCIÓN IX. DE LA UNIDAD DE TRANSPARENCIA
+#### SECCIÓN VII. DE LA CONTRALORÍA INTERNA
 
 ###### ARTÍCULO 216.
 
@@ -2729,7 +2791,7 @@ III.- Recibir e investigar quejas, denuncias e inconformidades interpuestas cont
 
 La Contraloría Interna iniciará los procedimientos referidos a petición de parte o de oficio.
 
-#### SECCIÓN X. DE LA UNIDAD PARA LA IGUALDAD DE GÉNERO
+#### SECCIÓN VIII. DE LA DIRECCIÓN DE COMUNICACIÓN
 
 ###### ARTÍCULO 219.
 
@@ -2755,7 +2817,7 @@ VI. Proponer y participar en la edición, impresión y distribución de folletos
 
 VII. Las demás que le confieran otros ordenamientos.
 
-#### SECCIÓN XI. DE LA UNIDAD DE LAS TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
+#### SECCIÓN IX. DE LA UNIDAD DE TRANSPARENCIA
 
 ###### ARTÍCULO 221.
 
@@ -2765,25 +2827,25 @@ El Titular de la Unidad de Transparencia, en el cumplimiento de sus funciones de
 
 El Comité de Transparencia será el órgano superior de la Unidad de Transparencia y Acceso a la Información.
 
-#### SECCIÓN XII. DE LA UNIDAD DE CAPACITACIÓN Y FORMACIÓN PERMANENTE
+#### SECCIÓN X. DE LA UNIDAD PARA LA IGUALDAD DE GÉNERO
 
 ###### ARTÍCULO 222.
 
 La Unidad para la Igualdad de Género es el órgano técnico responsable de asegurar la institucionalización de la perspectiva de género en la cultura organizacional y administrativa, a efecto de generar una cultura de no discriminación, exclusión y hostigamiento hacia las mujeres, haciendo prevalecer el reconocimiento y respeto de sus derechos humanos.
 
-#### SECCIÓN XIII. DEL SERVICIO CIVIL DE CARRERA
+#### SECCIÓN XI. DE LA UNIDAD DE LAS TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
 
 ###### ARTÍCULO 223.
 
 La Unidad de las Tecnologías de Información y Comunicación es el órgano técnico encargado de definir y aplicar las políticas en materia de comunicación y sistemas para la difusión de las labores de los Órganos de Gobierno, Legislativos, Administrativos y Técnicos del Congreso del Estado, dentro de un ámbito de innovación continua.
 
-#### SECCIÓN I. DISPOSICIONES PRELIMINARES
+#### SECCIÓN XII. DE LA UNIDAD DE CAPACITACIÓN Y FORMACIÓN PERMANENTE
 
 ###### ARTÍCULO 224.
 
 La Unidad de Capacitación y Formación Permanente es el órgano técnico responsable de la capacitación, formación, actualización y especialización de los candidatos a ingresar, del personal de base, de confianza y de carrera que labora en el Congreso del Estado. Para el logro de sus objetivos, la Unidad se coordinará de manera permanente con la Secretaría Financiera.
 
-#### SECCIÓN II. DE LAS PRESEAS
+#### SECCIÓN XIII. DEL SERVICIO CIVIL DE CARRERA
 
 ###### ARTÍCULO 225.
 
@@ -2799,7 +2861,7 @@ El Congreso del Estado podrá celebrar convenios de Coordinación o colaboració
 
 ## TÍTULO QUINTO. DEL PROCEDIMIENTO LEGISLATIVO
 
-### CAPÍTULO SEGUNDO. DE LAS INICIATIVAS, PROYECTOS Y SOLICITUDES
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### ARTÍCULO 227.
 
@@ -2817,7 +2879,7 @@ Las Leyes y Decretos se comunicarán al Ejecutivo del Estado, firmados por el Pr
 
 Tratándose de Iniciativas dirigidas al Congreso de la Unión, éstas serán suscritas por el Presidente y los dos Secretarios.
 
-### CAPITULO TERCERO. DE LA INICIATIVA POPULAR
+### CAPÍTULO SEGUNDO. DE LAS INICIATIVAS, PROYECTOS Y SOLICITUDES
 
 ###### ARTÍCULO 229.
 
@@ -2885,7 +2947,7 @@ El o los autores de una iniciativa podrán solicitar al Presidente que le dé tu
 
 Las Iniciativas suscritas por el gobernador del Estado, el Tribunal Superior de Justicia, los Ayuntamientos, los Órganos Autónomos y los ciudadanos, presentadas conforme a la Ley, se publicarán en la Gaceta y se dará cuenta al Pleno en la sesión inmediata a su recepción y se turnarán a Comisiones.
 
-### CAPÍTULO CUARTO. DEL TURNO A COMISIONES
+### CAPITULO TERCERO. DE LA INICIATIVA POPULAR
 
 ###### ARTÍCULO 236.
 
@@ -2931,7 +2993,7 @@ El procedimiento de dictamen no se interrumpirá en caso de que el comité repre
 
 El comité representante podrá asistir a las demás reuniones públicas de la comisión para conocer del desarrollo del proceso de dictamen y podrá hacer uso de la voz hasta antes del inicio del proceso de deliberación y votación.
 
-### CAPÍTULO QUINTO. DE LOS DICTÁMENES
+### CAPÍTULO CUARTO. DEL TURNO A COMISIONES
 
 ###### ARTÍCULO 240.
 
@@ -2995,7 +3057,7 @@ A través del Presidente de las Comisiones, éstas podrán solicitar por escrito
 
 Cuando algún Diputado considere procedente la rectificación o ampliación de un turno, lo solicitará por escrito a más tardar dentro de los tres días siguientes a la sesión en que se haya decidido sobre el turno. La Mesa Directiva resolverá sobre la solicitud y se informará al Pleno.
 
-### CAPÍTULO SEXTO. DE LOS VOTOS PARTICULARES
+### CAPÍTULO QUINTO. DE LOS DICTÁMENES
 
 ###### ARTÍCULO 248.
 
@@ -3229,7 +3291,7 @@ Al término del ejercicio Constitucional de la Legislatura, los dictámenes emit
 
 En el caso de las iniciativas que no sean dictaminadas, se estará a lo dispuesto por el Artículo 68 segundo párrafo de la Constitución Política del Estado. Los asuntos de orden jurisdiccional y aquellos actos administrativos que requieran ser concluidos por el Poder Legislativo, así como los que la Junta de Coordinación considere, quedarán a disposición de la Mesa Directiva de la siguiente Legislatura.
 
-### CAPÍTULO SÉPTIMO. DE LOS PLAZOS PARA EMITIR DICTAMEN
+### CAPÍTULO SEXTO. DE LOS VOTOS PARTICULARES
 
 ###### ARTÍCULO 274.
 
@@ -3283,7 +3345,7 @@ Una vez aprobado un dictamen con Proyecto de Ley o Decreto no podrá modificarse
 
 Corregido el texto, se notificará para su revisión al Presidente de la Mesa Directiva, quien ordenará la publicación en la Gaceta y continuará el trámite que proceda.
 
-### CAPÍTULO OCTAVO. DE LA EXPEDICIÓN DE LAS LEYES Y DECRETOS
+### CAPÍTULO SÉPTIMO. DE LOS PLAZOS PARA EMITIR DICTAMEN
 
 ###### ARTÍCULO 279.
 
@@ -3345,7 +3407,7 @@ Si durante un receso vencieran los plazos establecidos sin que se produjera dict
 
 Al iniciar una Legislatura la Mesa Directiva presentará al Pleno, dentro de las cinco primeras sesiones, un informe escrito sobre los asuntos pendientes, precisando las diferentes actuaciones recaídas en cada una de ellas y ordenará concluir su trámite. Se exceptuarán de este listado los dictámenes no discutidos ni aprobados y las iniciativas que no hubieren sido dictaminadas, las que seguirán el trámite que dispone el segundo párrafo del Artículo 68 constitucional.
 
-### CAPÍTULO NOVENO. DE LA SANCIÓN, PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
+### CAPÍTULO OCTAVO. DE LA EXPEDICIÓN DE LAS LEYES Y DECRETOS
 
 ###### ARTÍCULO 286.
 
@@ -3379,7 +3441,7 @@ Un Secretario de la Mesa Directiva certificará el expediente y sus anexos.
 
 La Ley o Decreto así remitidos, no requerirán la incorporación de la exposición de motivos o las consideraciones respectivas para efectos de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-### CAPÍTULO ÚNICO. DE LAS REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+### CAPÍTULO NOVENO. DE LA SANCIÓN, PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
 
 ###### ARTÍCULO 288.
 
@@ -3437,7 +3499,7 @@ VIII. Las convocatorias a periodos extraordinarios de Sesiones acordadas por la 
 
 ## TÍTULO SEXTO
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+### CAPÍTULO ÚNICO. DE LAS REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
 ###### ARTÍCULO 294.
 
@@ -3459,7 +3521,7 @@ IV. Hecho lo anterior, remitirá de inmediato el Decreto aprobado y la declaraci
 
 ## TÍTULO SÉPTIMO. DE LOS PROCEDIMIENTOS ESPECIALES
 
-### CAPÍTULO SEGUNDO. DEL NOMBRAMIENTO, DESIGNACIÓN, APROBACIÓN, RATIFICACIÓN U OBJECIÓN DE NOMBRAMIENTOS Y DE LAS REMOCIONES DE LAS LICENCIAS DE SERVIDORES PÚBLICOS
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### ARTÍCULO 296.
 
@@ -3497,7 +3559,7 @@ XIII. Sustanciar procedimientos en materia de finanzas públicas Municipales; y,
 
 XIV. Realizar las demás funciones y actividades que le atribuyan la Constitución y las Leyes.
 
-### CAPÍTULO TERCERO. DE LOS INFORMES, LAS COMPARECENCIAS Y LAS PREGUNTAS PARLAMENTARIAS
+### CAPÍTULO SEGUNDO. DEL NOMBRAMIENTO, DESIGNACIÓN, APROBACIÓN, RATIFICACIÓN U OBJECIÓN DE NOMBRAMIENTOS Y DE LAS REMOCIONES DE LAS LICENCIAS DE SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 298.
 
@@ -3547,7 +3609,7 @@ Cuando finalice un período de Sesiones ordinarias del Congreso del Estado, sin 
 
 Cuando la Constitución o las Leyes prevean la intervención del Congreso del Estado para aprobar o negar las solicitudes de licencia o las renuncias de Servidores Públicos, su remoción o para dar el visto bueno sobre determinados nombramientos, el procedimiento se sujetará al ordenamiento relativo y, en lo conducente, a lo que establece este Capítulo.
 
-### CAPÍTULO CUARTO. DE LAS PROPOSICIONES DE ACUERDOS PARLAMENTARIOS
+### CAPÍTULO TERCERO. DE LOS INFORMES, LAS COMPARECENCIAS Y LAS PREGUNTAS PARLAMENTARIAS
 
 ###### ARTÍCULO 302.
 
@@ -3633,7 +3695,7 @@ Las Comisiones competentes analizarán los informes en el plazo que en cada caso
 
 Si del análisis de un informe las Comisiones determinan la necesidad de contar con mayores elementos de juicio, solicitarán lo complemente o aclare el ente público emisor.
 
-### CAPÍTULO QUINTO. DE LAS COMUNICACIONES Y PETICIONES
+### CAPÍTULO CUARTO. DE LAS PROPOSICIONES DE ACUERDOS PARLAMENTARIOS
 
 ###### ARTÍCULO 312.
 
@@ -3663,7 +3725,7 @@ El punto de acuerdo a que se refiere el dictamen será leído una sola vez y ens
 
 Sólo se publicarán en el Periódico Oficial del Gobierno del Estado aquellos puntos de acuerdo que, por su relevancia y trascendencia, acuerde la Mesa Directiva.
 
-### CAPÍTULO SEXTO. DEL PROCEDIMIENTO PARA LA ERECCIÓN DE NUEVOS MUNICIPIOS
+### CAPÍTULO QUINTO. DE LAS COMUNICACIONES Y PETICIONES
 
 ###### ARTÍCULO 315.
 
@@ -3681,7 +3743,7 @@ Las comunicaciones, peticiones, consultas y otros asuntos remitidos por entes p�
 
 Los órganos directivos del Congreso del Estado y las Comisiones o los Comités llevarán un registro de las comunicaciones y solicitudes recibidas, así como de los acuerdos, resoluciones o respuestas que les recaigan.
 
-### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO ESPECIAL EN MATERIA DE DERECHOS HUMANOS
+### CAPÍTULO SEXTO. DEL PROCEDIMIENTO PARA LA ERECCIÓN DE NUEVOS MUNICIPIOS
 
 ###### ARTÍCULO 317.
 
@@ -3711,7 +3773,7 @@ En el proceso de entrega recepción entre un Municipio de nueva creación y el M
 
 Para modificar los límites de los Municipios, suprimirlos o fusionarlos serán aplicables las normas previstas en este capítulo, en lo conducente.
 
-### CAPÍTULO OCTAVO. DE LAS PRESEAS SENTIMIENTOS DE LA NACIÓN Y EDUARDO NERI REYNOSO, DEL MURO DE HONOR DEL RECINTO Y DE LOS RECONOCIMIENTOS ESPECIALES
+### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO ESPECIAL EN MATERIA DE DERECHOS HUMANOS
 
 ###### ARTÍCULO 321.
 
@@ -3729,9 +3791,9 @@ La Comisión Legislativa de Derechos Humanos, si lo considera necesario, someter
 
 Desahogada la comparecencia y analizadas las constancias del expediente, la Comisión Ordinaria de Derechos Humanos del Congreso del Estado formulará sus conclusiones por escrito ante el Pleno y se dará vista con ellas, en su caso, a las autoridades competentes.
 
-### CAPÍTULO NOVENO. DEL ANÁLISIS Y APROBACIÓN DEL PLAN ESTATAL DE DESARROLLO
+### CAPÍTULO OCTAVO. DE LAS PRESEAS SENTIMIENTOS DE LA NACIÓN Y EDUARDO NERI REYNOSO, DEL MURO DE HONOR DEL RECINTO Y DE LOS RECONOCIMIENTOS ESPECIALES
 
-#### SECCIÓN III. DE LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL SALÓN DE PLENOS
+#### SECCIÓN I. DISPOSICIONES PRELIMINARES
 
 ###### ARTÍCULO 324.
 
@@ -3751,7 +3813,7 @@ Las fechas históricas y acontecimientos relevantes, a los que se hace un recono
 
 Los reconocimientos especiales se concederán de manera pública a las personas físicas o morales con un mérito Civil relevante.
 
-#### SECCIÓN IV. DE LOS RECONOCIMIENTOS ESPECIALES
+#### SECCIÓN II. DE LAS PRESEAS
 
 ###### ARTÍCULO 328.
 
@@ -3771,7 +3833,7 @@ La Presea Eduardo Neri Reynoso será concedida por lo menos una vez cada tres a�
 
 En las Sesiones donde se otorguen dichas Preseas, se contará con la presencia de los Poderes Ejecutivo y Judicial del Estado.
 
-#### SECCIÓN I. DE LA SUBSTANCIACIÓN DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+#### SECCIÓN III. DE LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL SALÓN DE PLENOS
 
 ###### ARTÍCULO 329.
 
@@ -3797,7 +3859,7 @@ La aprobación de la iniciativa correspondiente deberá realizarse por la mayor�
 
 El acto de develación del nombre de un personaje, fecha histórica, acontecimiento relevante, grupo de personas o una institución en el Muro de Honor del Congreso del Estado, se verificará en Sesión Solemne que para el efecto se convoque.
 
-#### SECCIÓN II. DE LA SUSPENSIÓN O DESAPARICIÓN DE LOS AYUNTAMIENTOS
+#### SECCIÓN IV. DE LOS RECONOCIMIENTOS ESPECIALES
 
 ###### ARTÍCULO 331.
 
@@ -3809,7 +3871,7 @@ El otorgamiento de un reconocimiento especial no inhabilita a una persona para o
 
 Para el estudio y dictaminación de la iniciativa, el Pleno a propuesta de la Junta de Coordinación designará una Comisión Especial.
 
-### CAPÍTULO DÉCIMO. DE LA SUBSTANCIACIÓN DE LOS PROCEDIMIENTOS DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y DE LA SUSPENSIÓN DE AYUNTAMIENTOS O REVOCACIÓN DE SUS INTEGRANTES
+### CAPÍTULO NOVENO. DEL ANÁLISIS Y APROBACIÓN DEL PLAN ESTATAL DE DESARROLLO
 
 ###### ARTÍCULO 332.
 
@@ -3833,9 +3895,9 @@ Para los efectos de la supervisión, revisión, adecuación y modificación del 
 
 El seguimiento de los objetivos y metas trazados en el Plan Estatal de Desarrollo será continuo a través de las Comisiones competentes, conforme a lo dispuesto por el Artículo 61, fracción XXX, constitucional.
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LA EXPEDICIÓN DEL BANDO SOLEMNE DE GOBERNADOR ELECTO
+### CAPÍTULO DÉCIMO. DE LA SUBSTANCIACIÓN DE LOS PROCEDIMIENTOS DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y DE LA SUSPENSIÓN DE AYUNTAMIENTOS O REVOCACIÓN DE SUS INTEGRANTES
 
-#### SECCIÓN III. DE LA SUSPENSIÓN O REVOCACIÓN DEL CARGO O MANDATO DE MIEMBROS DE LOS AYUNTAMIENTOS
+#### SECCIÓN I. DE LA SUBSTANCIACIÓN DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 334.
 
@@ -3858,6 +3920,8 @@ Para las reuniones, discusiones y votaciones en las mencionadas Comisiones se ap
 El Presidente de la Comisión, en unión del Secretario, autorizará las resoluciones de mero trámite dentro de los expedientes que ante las Comisiones se tramiten.
 
 El Secretario de la Comisión dará fe de lo actuado y tendrá facultades para expedir certificaciones.
+
+#### SECCIÓN II. DE LA SUSPENSIÓN O DESAPARICIÓN DE LOS AYUNTAMIENTOS
 
 ###### ARTÍCULO 337.
 
@@ -3885,17 +3949,19 @@ Cuando se suspenda a un ayuntamiento se llamará a los suplentes o se procederá
 
 En la declaración de desaparición de un ayuntamiento, si no procediera la celebración de nuevas elecciones, el Congreso del Estado deberá designar a un Concejo Municipal, que funcionará hasta concluir el período respectivo.
 
+#### SECCIÓN III. DE LA SUSPENSIÓN O REVOCACIÓN DEL CARGO O MANDATO DE MIEMBROS DE LOS AYUNTAMIENTOS
+
 ###### ARTÍCULO 341.
 
 Decretada la suspensión o revocación del mandato de uno o más de los miembros del Ayuntamiento, éste llamará al suplente o suplentes para que rindan la protesta y ocupen el cargo correspondiente, dentro del plazo de cinco días hábiles siguientes a la notificación de la resolución del Congreso del Estado.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DEL DICTAMEN, DISCUSIÓN Y VOTACIÓN DE LAS MINUTAS DE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+### CAPÍTULO DÉCIMO PRIMERO. DE LA EXPEDICIÓN DEL BANDO SOLEMNE DE GOBERNADOR ELECTO
 
 ###### ARTÍCULO 342.
 
 Conforme a la declaración de Gobernador Electo del Estado Libre y Soberano de Guerrero que hubiere hecho la autoridad competente, corresponde al Presidente de la Mesa Directiva disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión más próxima; ordenar su publicación en el Periódico Oficial del Gobierno del Estado y tomar las medidas necesarias para que se difunda en las principales oficinas públicas del Estado y de los Municipios, así como a los tres Poderes de la Unión y del resto de las Entidades Federativas.
 
-### CAPÍTULO DÉCIMO TERCERO. DE LAS CONTROVERSIAS CONSTITUCIONALES Y DE LAS ACCIONES DE INCONSTITUCIONALIDAD
+### CAPÍTULO DÉCIMO SEGUNDO. DEL DICTAMEN, DISCUSIÓN Y VOTACIÓN DE LAS MINUTAS DE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTÍCULO 343.
 
@@ -3903,7 +3969,7 @@ Recibida la minuta enviada por alguna de las Cámaras del Honorable Congreso de 
 
 Una vez que ha sido votado el dictamen se hará del conocimiento de la Cámara correspondiente o de la Comisión Permanente del Congreso de la Unión, según sea el caso, dentro de las cuarenta y ocho horas siguientes.
 
-### CAPÍTULO PRIMERO. DEL CEREMONIAL Y EL PROTOCOLO
+### CAPÍTULO DÉCIMO TERCERO. DE LAS CONTROVERSIAS CONSTITUCIONALES Y DE LAS ACCIONES DE INCONSTITUCIONALIDAD
 
 ###### ARTÍCULO 344.
 
@@ -3927,7 +3993,7 @@ Para la sustanciación de las acciones de inconstitucionalidad previstas en el A
 
 ## TÍTULO OCTAVO. OTRAS ACTIVIDADES DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO SEGUNDO. DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA
+### CAPÍTULO PRIMERO. DEL CEREMONIAL Y EL PROTOCOLO
 
 ###### ARTÍCULO 347.
 
@@ -3979,7 +4045,7 @@ Cuando se otorgue por el Presidente de la Mesa Directiva el uso de la palabra a 
 
 Las visitas de cortesía al Congreso del Estado que no impliquen asistencia a una sesión, por parte de representantes diplomáticos u otras personalidades, las atenderá el Presidente o quien designe para tal propósito entre los demás integrantes de la Mesa Directiva.
 
-### CAPÍTULO TERCERO. DEL CABILDEO
+### CAPÍTULO SEGUNDO. DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### ARTÍCULO 354.
 
@@ -4009,7 +4075,7 @@ La información del Congreso del Estado sólo será puesta a disposición o prop
 
 El personal del Congreso del Estado estará obligado a dar el uso que corresponda a los recursos e información de que disponen o tienen acceso. El desacato a esta disposición dará lugar a la aplicación de las sanciones señaladas en las Leyes.
 
-### CAPÍTULO PRIMERO. DE LA COMUNICACIÓN
+### CAPÍTULO TERCERO. DEL CABILDEO
 
 ###### ARTÍCULO 357.
 
@@ -4025,7 +4091,7 @@ Toda infracción a esta norma será castigada en términos de las Leyes de respo
 
 ## TÍTULO NOVENO. DE LA DIFUSIÓN E INFORMACIÓN DE LAS ACTIVIDADES DEL CONGRESO
 
-### CAPÍTULO SEGUNDO. DE LA GACETA PARLAMENTARIA
+### CAPÍTULO PRIMERO. DE LA COMUNICACIÓN
 
 ###### ARTÍCULO 359.
 
@@ -4043,9 +4109,9 @@ Durante las Sesiones del Pleno, los Diputados podrán atender las solicitudes de
 
 Las Sesiones del Pleno, las reuniones de las Comisiones y de los Comités, así como otros eventos relevantes del Congreso, que se transmitan, se realizarán conforme a las normas y procedimientos que regulen su funcionamiento.
 
-### CAPÍTULO TERCERO. DEL DIARIO DE LOS DEBATES
+### CAPÍTULO SEGUNDO. DE LA GACETA PARLAMENTARIA
 
-### CAPÍTULO CUARTO. DEL TABLERO DE AVISOS Y NOTIFICACIONES
+### CAPÍTULO TERCERO. DEL DIARIO DE LOS DEBATES
 
 ###### ARTÍCULO 362.
 
@@ -4101,7 +4167,7 @@ II. Las Iniciativas de Ley o Decreto se enviarán con la debida anticipación a 
 
 III. Los informes o documentos que remitan los Diputados a título personal se publicarán íntegros.
 
-### CAPÍTULO QUINTO. DE LA BIBLIOTECA SIERVO DE LA NACIÓN
+### CAPÍTULO CUARTO. DEL TABLERO DE AVISOS Y NOTIFICACIONES
 
 ###### ARTÍCULO 365.
 
@@ -4136,6 +4202,8 @@ XIII. Dictámenes y votos particulares; y,
 XIV. Resultado de las votaciones.
 
 El Diario de los Debates se publicará dentro de los diez días hábiles posteriores al término de la sesión en la página electrónica del Congreso. Al concluir cada año de ejercicio constitucional el Diario de los Debates se publicará en medio impreso.
+
+### CAPÍTULO QUINTO. DE LA BIBLIOTECA SIERVO DE LA NACIÓN
 
 ###### ARTÍCULO 366.
 
@@ -4278,3 +4346,31 @@ El presente Decreto entrará en vigor el día de su aprobación.
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento general y efectos legales conducentes.
+
+P.O. 31 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 456 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado de Guerrero, dentro de los 180 días naturales siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de órganos autónomos contemplados en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Guerrero con la emisión de las convocatorias respectivas, previstas en este Decreto.
+
+La Universidad Autónoma de Guerrero y el Tribunal Electoral del Estado de Guerrero, expedirán las convocatorias para la designación de los titulares de los Órganos Internos de Control dentro del plazo que señala el párrafo anterior, de conformidad con su normatividad interna.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los órganos autónomos contemplados en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Guerrero que ejerzan recursos del Presupuesto de Egresos del Estado que se encuentren en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado (sic) y Soberano de Guerrero, en materia de combate a la corrupción, publicado en el Periódico Oficial del Estado el 14 de julio de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+###### ARTÍCULO TERCERO.
+
+Los órganos autónomos contemplados en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Guerrero y la Universidad Autónoma de Guerrero, tendrán un plazo de ciento veinte días naturales, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos administrativos iniciados por las autoridades estatales correspondientes con la (sic) anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicadas vigentes a su inicio.
