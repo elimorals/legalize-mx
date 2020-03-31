@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-13934
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-12-05"
-last_updated: "2019-12-05"
+last_updated: "2020-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139347&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,11 +23,15 @@ ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILI
 
 TEXTO ORIGINAL.
 
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 31 DE MARZO DE 2020.]</small>
+
 Estatuto publicado en la Primera Sección al Número 4 del Diario Oficial de la Federación, el jueves 5 de diciembre de 2019.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- SALUD.- Secretaría de Salud.- Sistema Nacional para el Desarrollo Integral de la Familia.
 
-MARÍA DEL ROCÍO GARCÍA PÉREZ, Titular del Sistema Nacional para el Desarrollo Integral de la Familia, con fundamento en lo establecido por los artículos 10, fracciones XXI y XXXIII, del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado el once de mayo de dos mil dieciséis y considerando:
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+MARÍA DEL ROCÍO GARCÍA PÉREZ, Titular del Sistema Nacional para el Desarrollo Integral de la Familia, con fundamento en lo establecido por los artículos 10, fracciones XXXI y XXXIII, del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado el once de mayo de dos mil dieciséis y considerando:
 
 [...]
 
@@ -93,7 +97,9 @@ El Sistema Nacional para el Desarrollo Integral de la Familia es el organismo p�
 
 Cuando en el presente ordenamiento se haga mención del Organismo o la Entidad, se entenderá hecha al Sistema Nacional para el Desarrollo Integral de la Familia.
 
-El Organismo deberá cumplir con los objetivos que le establecen las convenciones y tratados internacionales de los que el Estado mexicano sea parte, aplicables al Organismo, la Ley General de Salud, la Ley de Asistencia Social, la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, la Ley General de los Derechos de las Niñas, Niños y Adolescentes, la Ley General de Víctimas y las demás disposiciones normativas aplicables.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+El Organismo deberá cumplir con los objetivos que le establecen las convenciones y tratados internacionales de los que el Estado mexicano sea parte, aplicables al Organismo, la Ley General de Salud, la Ley de Asistencia Social, la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley General de Víctimas y las demás disposiciones normativas aplicables.
 
 La administración de la Entidad estará a cargo de la Junta de Gobierno y de la persona Titular del Organismo, quienes fungirán como órganos superiores, y la vigilancia estará a cargo de la Comisaria o Comisario Público, conforme a lo dispuesto en el presente Estatuto, en términos de lo establecido en los artículos 17 y 60, de la Ley Federal de las Entidades Paraestatales, y 31, de la Ley de Asistencia Social.
 
@@ -119,7 +125,9 @@ VIII. Establecer escuelas para la formación de personas profesionistas y técni
 
 IX. Coordinar y promover estudios e investigaciones científicas y tecnológicas, para mejorar la prestación de los servicios en materia de asistencia social, con la participación, en su caso, de las autoridades asistenciales de los tres órdenes de gobierno;
 
-X. Promover e impulsar el sano crecimiento de las niñas, niños y adolescentes, conforme al artículo 5 de la Ley General de los Derechos de las Niñas, Niños y Adolescentes y demás ordenamientos legales aplicables;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+X. Promover e impulsar el sano crecimiento de las niñas, niños y adolescentes, conforme al artículo 5 de la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás ordenamientos legales aplicables;
 
 XI. Promover, conforme al artículo 45 de la Ley de Asistencia Social, la celebración de convenios entre los tres órdenes de gobierno, con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social en las entidades federativas, los municipios y las alcaldías, a fin de:
 
@@ -397,7 +405,9 @@ La Comisaria o Comisario Público asistirá, en representación de la Secretarí
 
 La Comisaria o Comisario Público, además de las previstas en el Reglamento Interior de la Secretaría de la Función Pública, la Ley Federal de las Entidades Paraestatales y su Reglamento, y demás disposiciones aplicables, tendrá las siguientes funciones:
 
-I. Vigilar que la administración de los recursos y el funcionamiento del Organismo se haga de acuerdo con lo que disponga la Ley de Asistencia Social, la Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, la Ley General de los Derechos de las Niñas, Niños y Adolescentes, las demás disposiciones normativas aplicables y los programas y presupuestos aprobados;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+I. Vigilar que la administración de los recursos y el funcionamiento del Organismo se haga de acuerdo con lo que disponga la Ley de Asistencia Social, la Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, la Ley General de los Derechos de Niñas, Niños y Adolescentes, las demás disposiciones normativas aplicables y los programas y presupuestos aprobados;
 
 II. Rendir un informe sobre los estados financieros, con base en el dictamen de los auditores externos;
 
@@ -417,9 +427,11 @@ Al frente de cada Jefatura de Unidad, de la Procuraduría Federal de Protección
 
 En el desempeño de sus funciones dichas personas servidoras públicas serán auxiliadas por las personas Titulares de las Direcciones Generales, Direcciones, Subdirecciones, Jefaturas de Departamento y por el demás personal que sea necesario y que les esté adscrito conforme a la estructura orgánica vigente.
 
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
 ###### Artículo 14.
 
-Corresponden a las personas Titulares de las Jefaturas de Unidad, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y de la Unidad de Administración y Finanzas las siguientes facultades comunes:
+Corresponden a las personas titulares, Jefas o Jefes de las Unidades, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y de la Unidad de Administración y Finanzas las siguientes facultades comunes:
 
 I. Acordar con la persona Titular del Organismo el despacho de los asuntos relevantes de las unidades administrativas a su cargo;
 
@@ -577,9 +589,11 @@ XVII. Las demás que le confiera expresamente la persona Titular del Organismo, 
 
 #### SECCIÓN CUARTA. DE LA PROCURADURÍA FEDERAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
 ###### Artículo 17.
 
-Corresponden a la persona Titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes las siguientes facultades:
+Corresponden a la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes las siguientes facultades:
 
 I. Coordinar las estrategias que se implementen en las asesorías y las acciones de representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos;
 
@@ -627,7 +641,9 @@ XXII. Coordinar las acciones de supervisión en los Centros de Asistencia Social
 
 XXIII. Coordinar las acciones de seguimiento de la situación en la que se encuentren niñas, niños y adolescentes, una vez que haya concluido el acogimiento temporal, de conformidad con los instrumentos normativos que para tal efecto se emitan;
 
-XXIV. Autorizar las asesorías técnicas a los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, a las Procuradurías de Protección de Derechos de Niñas, Niños y Adolescentes de las entidades federativas y los municipios y, en general, a los sectores público, social y privado, en materia de promoción y prevención de derechos de niñas, niños y adolescentes;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XXIV. Autorizar las asesorías técnicas a los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, a las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y los municipios y, en general, a los sectores público, social y privado, en materia de promoción y prevención de derechos de niñas, niños y adolescentes;
 
 XXV. Autorizar programas de capacitación en materia de protección y restitución de derechos de niñas, niños y adolescentes, así como aquellos que señalan la Ley General de los Derechos de Niñas, Niños y Adolescentes y su reglamento;
 
@@ -637,7 +653,9 @@ XXVII. Autorizar la realización de estudios e investigaciones en materia de pro
 
 XXVIII. Coordinar la promoción de la participación de los sectores público, social y privado en la planificación y ejecución de políticas y acciones en favor de la protección integral de niñas, niños y adolescentes;
 
-XXIX. Dirigir la colaboración con las Procuradurías de Protección de Derechos de Niñas, Niños y Adolescentes de las entidades federativas y de los municipios, y demás instituciones del sector público, en el diseño, ejecución y seguimiento de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XXIX. Dirigir la colaboración con las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y de los municipios, y demás instituciones del sector público, en el diseño, ejecución y seguimiento de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
 
 XXX. Celebrar convenios de colaboración, acuerdos interinstitucionales de coordinación y concertación en materia de derechos de las niñas, niños y adolescentes con los tres órdenes de gobierno, así como con los sectores privado y social, particularmente con instituciones académicas;
 
@@ -657,15 +675,21 @@ XXXVII. Las demás que le instruya la persona Titular del Organismo y le confier
 
 #### SECCIÓN QUINTA. DE LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
 ###### Artículo 18.
 
-Al frente de la Unidad de Administración y Finanzas habrá una persona Titular de la Unidad quien será nombrada por la Junta de Gobierno, a propuesta de la persona Titular del Organismo, conforme a lo previsto en los artículos 58, fracción XI, y 59, fracción VII, de la Ley Federal de las Entidades Paraestatales. Para tales efectos se observaran los lineamientos para la designación de titulares de las Unidades de Administración y Finanzas que al efecto emita la persona titular de la Secretaría de Hacienda y Crédito Público.
+Al frente de la Unidad de Administración y Finanzas habrá una Jefa o Jefe de la Unidad quien será nombrada por la Junta de Gobierno, a propuesta de la persona Titular del Organismo, conforme a lo previsto en los artículos 58, fracción XI, y 59, fracción VII, de la Ley Federal de las Entidades Paraestatales.
 
-En el desempeño de sus funciones, la persona Titular de la Unidad será auxiliada por las personas Titulares de las Direcciones Generales, Direcciones, Subdirecciones, Jefaturas de Departamento y por el demás personal que sea necesario y que le esté adscrito conforme a la estructura orgánica vigente.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+En el desempeño de sus funciones, la Jefa o Jefe de la Unidad será auxiliada por las personas Titulares de las Direcciones Generales, Direcciones, Subdirecciones, Jefaturas de Departamento y por el demás personal que sea necesario y que le esté adscrito conforme a la estructura orgánica vigente.
+
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
 
 ###### Artículo 19.
 
-Corresponden a la persona Titular de la Unidad de Administración y Finanzas las siguientes facultades:
+Corresponden a la Jefa o Jefe de la Unidad de Administración y Finanzas las siguientes facultades:
 
 I. Acordar con la persona Titular del Organismo el despacho de los asuntos relevantes de las unidades administrativas a su cargo;
 
@@ -793,9 +817,11 @@ XXI. Las demás que le confiera la persona superior jerárquica, así como las q
 
 #### SECCIÓN SEGUNDA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA PERSONA TITULAR DEL ORGANISMO
 
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
 ###### Artículo 25.
 
-Corresponden a la persona Titular (sic) Dirección General de Asuntos Jurídicos las siguientes facultades:
+Corresponden a la persona Titular de la Dirección General de Asuntos Jurídicos las siguientes facultades:
 
 I. Emitir opinión jurídica de las normas que, en materia de asistencia social, le proponga el Organismo a la Secretaría de Salud;
 
@@ -833,7 +859,9 @@ XVII. Actuar como Apoderado General para pleitos y cobranzas del Organismo, ante
 
 XVIII. Formular denuncias y querellas, así como formular la petición de sobreseimiento del proceso penal u otorgar el perdón, cuando sea procedente, ante tribunales, la Fiscalía General de la República y homólogas de las entidades federativas, según el caso, sobre hechos que pudieran ser constitutivos de delito y que afecten al funcionamiento o patrimonio del Organismo;
 
-XIX. Realizar los actos que requieran la regularización, legalización, adquisición y enajenación de bienes inmuebles del Organismo, en su caso, con el apoyo de la Dirección General de Recursos Materiales y Servicios;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XIX. Realizar los actos que requieran la regularización, legalización, adquisición y enajenación de bienes inmuebles del Organismo, en su caso, con el apoyo de la Dirección General de Recursos Materiales y Servicios Generales;
 
 XX. Actuar como Apoderado General para gestionar el registro de los derechos de propiedad intelectual, derechos de autor o patentes que correspondan al Organismo, ante las autoridades administrativas;
 
@@ -843,7 +871,9 @@ XXII. Fungir como Titular de la Unidad de Transparencia de conformidad con lo pr
 
 XXIII. Revisar, en su contenido y forma, los convenios, contratos, acuerdos y otros instrumentos que fijen derechos y obligaciones convencionales o patrimoniales para el Organismo, cuyos proyectos sean sometidos a su consideración por las personas titulares de las unidades administrativas que tengan atribuciones para convenir señaladas en el presente Estatuto;
 
-XXIV. Apoyar, como enlace, a la persona titular de la Unidad de Administración y Finanzas, para el seguimiento y gestión de los asuntos relacionados con los procesos de impacto regulatorio, mejora regulatoria y trámites y servicios del Catálogo Nacional de Trámites y Servicios del Estado en los cuales tenga participación el Organismo;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XXIV. Apoyar, como enlace, a la Jefa o Jefe de la Unidad de Administración y Finanzas, para el seguimiento y gestión de los asuntos relacionados con los procesos de impacto regulatorio, mejora regulatoria y trámites y servicios del Catálogo Nacional de Trámites y Servicios del Estado en los cuales tenga participación el Organismo;
 
 XXV. Delegar en el personal subalterno de las jerarquías inmediatas inferiores facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
 
@@ -939,9 +969,11 @@ XVII. Las demás que le confiera la persona Titular del Organismo, así como las
 
 #### SECCIÓN TERCERA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ATENCIÓN A POBLACIÓN VULNERABLE
 
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
 ###### Artículo 28.
 
-Corresponden a la persona titular de la Dirección General de Alimentación y Desarrollo Comunitario las siguientes facultades:
+Corresponden a la persona Titular de la Dirección General de Alimentación y Desarrollo Comunitario las siguientes facultades:
 
 I. Proponer políticas en materia de asistencia social alimentaria, nutrición y desarrollo comunitario;
 
@@ -977,13 +1009,19 @@ XVI. Promover acciones de mejora de la actividad y los servicios de asistencia s
 
 XVII. Promover la organización y la participación social, en un marco de corresponsabilidad, en los tres órdenes de gobierno, como mecanismo que favorezca el desarrollo comunitario; y
 
-XVIII. Las demás que le confieran la persona titular de la Unidad de Atención a Población Vulnerable, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XVIII. Las demás que le confieran la Jefa o Jefe de la Unidad de Atención a Población Vulnerable, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
 
 ###### Artículo 29.
 
-Corresponden a la persona Titular de la Dirección General de Coordinación y Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad las siguientes facultades:
+Corresponden a la persona Titular de la Dirección General de Coordinación y Fomento a Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad las siguientes facultades:
 
-I. Formular, aplicar y evaluar el Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para someterlo a la consideración de la persona Titular de la Unidad de Atención a Población Vulnerable;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+I. Formular, aplicar y evaluar el Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para someterlo a la consideración de la Jefa o Jefe de la Unidad de Atención a Población Vulnerable;
 
 II. Coadyuvar con la Secretaria o Secretario Técnico del Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, en el ejercicio de sus atribuciones;
 
@@ -1003,7 +1041,9 @@ IX. Diseñar, gestionar o coordinar las políticas públicas y las acciones conc
 
 X. Administrar y coordinar la operación de los Centros de Asistencia Social de niñas, niños y adolescentes en situación de migración no acompañados, con que cuente el Organismo, conforme a la normatividad aplicable;
 
-XI. Apoyar, en el marco de sus atribuciones, a la Procuraduría Federal de Protección de Derechos de Niñas, Niños y Adolescentes y coadyuvar con los sectores público, privado y social en la atención integral de niñas, niños, adolescentes y personas en situación de vulnerabilidad;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XI. Apoyar, en el marco de sus atribuciones, a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y coadyuvar con los sectores público, privado y social en la atención integral de niñas, niños, adolescentes y personas en situación de vulnerabilidad;
 
 XII. Realizar acciones de coordinación, en el marco de su competencia, con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y los municipios, con las demás instituciones públicas, privadas y sociales en materia de prestación de servicios, a fin de homogeneizar la atención integral de niñas y niños en la primera infancia;
 
@@ -1017,7 +1057,9 @@ XVI. Acompañar, monitorear y evaluar los Centros de Atención Infantil, para me
 
 XVII. Diseñar, gestionar o coordinar las políticas públicas y las acciones que atiendan al desarrollo integral de los individuos y familias que, por sus condiciones físicas, mentales, jurídicas, económicas o sociales, se encuentren en situación de vulnerabilidad, conforme a lo previsto en la normatividad aplicable; y
 
-XVIII. Las demás que le confieran la persona Titular de la Unidad de Atención a Población Vulnerable, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XVIII. Las demás que le confieran la Jefa o Jefe de la Unidad de Atención a Población Vulnerable, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 #### SECCIÓN CUARTA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ASISTENCIA E INCLUSIÓN SOCIAL
 
@@ -1053,7 +1095,9 @@ XIII. Supervisar y dar seguimiento a la ejecución del cumplimiento de los conve
 
 XIV. Gestionar y realizar canalizaciones de personas beneficiarias a organizaciones de la sociedad civil que tengan celebrados convenios de concertación con el Organismo en materia de atención especializada; y
 
-XV. Las demás que le confieran la persona Titular de la Unidad de Asistencia e Inclusión Social, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XV. Las demás que le confieran la Jefa o Jefe de la Unidad de Asistencia e Inclusión Social, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 ###### Artículo 31.
 
@@ -1099,9 +1143,15 @@ XIX. Promover la aplicación de la normatividad vigente en materia de accesibili
 
 XX. Impulsar procesos de capacitación, formación y certificación de las personas que desarrollan acciones de asistencia social, en la materia de su competencia, en coordinación con la Dirección General de Profesionalización de la Asistencia Social; y
 
-XXI. Las demás que le confiera la persona titular de la Unidad de Asistencia e Inclusión Social, así como las que le señalen el presente Estatuto y las disposiciones normativas aplicables.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
 
-#### SECCIÓN QUINTA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA PROCURADURÍA FEDERAL DE PROTECCIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+XXI. Las demás que le confiera la Jefa o Jefe de la Unidad de Asistencia e Inclusión Social, así como las que le señalen el presente Estatuto y las disposiciones normativas aplicables.
+
+#### SECCIÓN QUINTA
+
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+DE LAS DIRECCIONES GENERALES ADSCRITAS A LA PROCURADURÍA FEDERAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 32.
 
@@ -1153,7 +1203,9 @@ XXII. Resguardar, en coordinación con el Instituto Nacional de Migración, las 
 
 XXIII. Impulsar las modalidades de los cuidados alternativos en aquellos casos en los que se determine el acogimiento temporal de niñas, niños y adolescentes; y
 
-XXIV. Las demás que le confiera la persona Titular de la Procuraduría Federal de Protección de Derechos de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XXIV. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 ###### Artículo 33.
 
@@ -1177,13 +1229,17 @@ VIII. Dar seguimiento a la ejecución de las acciones legales que correspondan, 
 
 IX. Impulsar el desarrollo de Normas Oficiales Mexicanas en Asistencia Social, referentes a los derechos de las niñas, niños y adolescentes y participar en los grupos técnicos para su elaboración; y
 
-X. Las demás que le confiera la persona Titular de la Procuraduría Federal de Protección de Derechos de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+X. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 ###### Artículo 34.
 
 Corresponden a la persona Titular de la Dirección General de Normatividad, Promoción y Difusión de los Derechos de Niñas, Niños y Adolescentes, las siguientes facultades:
 
-I. Asesorar a los Sistemas para el Desarrollo Integral de la Familia u homólogos y a las Procuradurías de Protección de Derechos de Niñas, Niños y Adolescentes, de las entidades federativas y municipios, así como, en general, a los sectores público, social y privado, en materia de promoción y prevención de derechos de niñas, niños y adolescentes;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+I. Asesorar a los Sistemas para el Desarrollo Integral de la Familia u homólogos y a las Procuradurías de Protección de Niñas, Niños y Adolescentes, de las entidades federativas y municipios, así como, en general, a los sectores público, social y privado, en materia de promoción y prevención de derechos de niñas, niños y adolescentes;
 
 II. Promover y llevar a cabo la formación y capacitación de personas servidoras públicas, actoras vinculadas y personas responsables de la guarda y custodia de niñas, niños y adolescentes, mediante la elaboración de herramientas e impartición de cursos, en materia de promoción, protección y restitución integral de derechos de niñas, niños y adolescentes;
 
@@ -1197,7 +1253,9 @@ VI. Elaborar las propuestas de Normas Oficiales Mexicanas referentes a los derec
 
 VII. Dirigir acciones de promoción y difusión de los derechos de las niñas, niños y adolescentes; y
 
-VIII. Las demás que le confiera la persona Titular de la Procuraduría Federal de Protección de Derechos de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+VIII. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 ###### Artículo 35.
 
@@ -1205,11 +1263,17 @@ Corresponden a la persona Titular de la Dirección General de Coordinación y Po
 
 I. Promover la participación de los sectores público, social y privado en la planificación y ejecución de políticas y acciones a favor de la protección integral de niñas, niños y adolescentes;
 
-II. Colaborar con las Procuradurías de Protección de Derechos de Niñas, Niños y Adolescentes de las entidades federativas y los municipios, así como con las alcaldías, en el diseño, ejecución y seguimiento de políticas públicas, en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
 
-III. Coordinar las acciones con las Procuradurías de Protección de Derechos de Niñas, Niños y Adolescentes de las entidades federativas y demás instituciones públicas y privadas, sean nacionales o extranjeras, a efecto de proporcionar asistencia para la transmisión y recepción de solicitudes, la localización de las personas deudoras o acreedoras, la obtención de información sobre sus ingresos u otras circunstancias económicas, la notificación de documentos, el cobro y la transferencia rápida de los pagos de alimentos, la determinación de la filiación y la ejecución continuada, en materia de cobro internacional de alimentos, en los términos de la normatividad aplicable;
+II. Colaborar con las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y los municipios, así como con las alcaldías, en el diseño, ejecución y seguimiento de políticas públicas, en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
 
-IV. Coordinar las acciones que permitan obtener la colaboración de las Procuradurías de Protección de Derechos de Niñas, Niños y Adolescentes de las entidades federativas y demás instituciones públicas y privadas, sean nacionales o extranjeras, a efecto de que la Dirección General de Representación Jurídica y Restitución de Derechos de Niñas, Niños y Adolescentes, facilite o inicie procedimientos de solicitud de pago de alimentos, los de obtención de medidas provisionales y los de medios alternativos de solución de controversias, preste asistencia jurídica y realice las acciones de obtención de pruebas, en materia de cobro internacional de alimentos, en coordinación con dichas instancias;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+III. Coordinar las acciones con las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y demás instituciones públicas y privadas, sean nacionales o extranjeras, a efecto de proporcionar asistencia para la transmisión y recepción de solicitudes, la localización de las personas deudoras o acreedoras, la obtención de información sobre sus ingresos u otras circunstancias económicas, la notificación de documentos, el cobro y la transferencia rápida de los pagos de alimentos, la determinación de la filiación y la ejecución continuada, en materia de cobro internacional de alimentos, en los términos de la normatividad aplicable;
+
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+IV. Coordinar las acciones que permitan obtener la colaboración de las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y demás instituciones públicas y privadas, sean nacionales o extranjeras, a efecto de que la Dirección General de Representación Jurídica y Restitución de Derechos de Niñas, Niños y Adolescentes, facilite o inicie procedimientos de solicitud de pago de alimentos, los de obtención de medidas provisionales y los de medios alternativos de solución de controversias, preste asistencia jurídica y realice las acciones de obtención de pruebas, en materia de cobro internacional de alimentos, en coordinación con dichas instancias;
 
 V. Proponer, actualizar y dar seguimiento a los acuerdos interinstitucionales de coordinación que se celebren con las instancias de los tres órdenes de gobierno e internacionales;
 
@@ -1217,13 +1281,19 @@ VI. Impulsar y elaborar convenios de cooperación, coordinación y concertación
 
 VII. Proponer políticas alineadas al Programa Nacional de Protección Integral de Niñas, Niños y Adolescentes y demás disposiciones normativas aplicables;
 
-VIII. Implementar y actualizar para el Organismo y la Procuraduría Federal de Protección de Derechos de Niñas, Niños y Adolescentes, los registros, bases de datos o archivos, en términos de lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes y su reglamento, que no correspondan a otras unidades administrativas;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+VIII. Implementar y actualizar para el Organismo y la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, los registros, bases de datos o archivos, en términos de lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes y su reglamento, que no correspondan a otras unidades administrativas;
 
 IX. Administrar, con arreglo a las disposiciones jurídicas aplicables, el Registro Nacional de Deudores Alimentarios Morosos, con la información que proporcionen las entidades federativas;
 
-X. Formular y revisar los contratos y convenios a celebrar por la Procuraduría Federal de Protección de Derechos de Niñas, Niños y Adolescentes, de acuerdo con los requerimientos de las áreas respectivas, remitiéndolos a la Dirección General de Asuntos Jurídicos para su revisión, registro y resguardo; y
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
 
-XI. Las demás que le confiera la persona Titular de la Procuraduría Federal de Protección de Derechos de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+X. Formular y revisar los contratos y convenios a celebrar por la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, de acuerdo con los requerimientos de las áreas respectivas, remitiéndolos a la Dirección General de Asuntos Jurídicos para su revisión, registro y resguardo; y
+
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XI. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 #### SECCIÓN SEXTA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
 
@@ -1263,7 +1333,9 @@ XV. Establecer las previsiones presupuestales y el control de los compromisos de
 
 XVI. Fungir como ventanilla única de las unidades administrativas del Organismo ante las dependencias y entidades de la Administración Pública Federal y demás instancias que requieran información, en las materias de planeación, presupuestación, ejercicio, control y evaluación del gasto público; y
 
-XVII. Las demás que le confiera la persona Titular de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XVII. Las demás que le confiera la Jefa o Jefe de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 ###### Artículo 37.
 
@@ -1303,7 +1375,9 @@ XVI. Controlar y administrar el ejercicio de los programas y proyectos de invers
 
 XVII. Iniciar y dar trámite a los procedimientos de rescisión de contratos y pedidos, así como suscribir las determinaciones, comunicaciones y notificaciones correspondientes a la rescisión, en términos de la legislación aplicable; y
 
-XVIII. Las demás que le confiera la persona Titular de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XVIII. Las demás que le confiera la Jefa o Jefe de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 ###### Artículo 38.
 
@@ -1327,7 +1401,9 @@ VIII. Formular, actualizar y gestionar el registro y autorización de los catál
 
 IX. Establecer las normas y procedimientos para la operación del Sistema Integral de Recursos Humanos del Organismo y difundirlas a las demás unidades administrativas;
 
-X. Designar, por acuerdo de la persona Titular de la Unidad de Administración y Finanzas, a las personas que fungirán como representantes institucionales ante las comisiones mixtas establecidas en las Condiciones Generales de Trabajo;
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+X. Designar, por acuerdo de la Jefa o Jefe de la Unidad de Administración y Finanzas, a las personas que fungirán como representantes institucionales ante las comisiones mixtas establecidas en las Condiciones Generales de Trabajo;
 
 XI. Integrar y ejecutar el Programa Anual de Capacitación del Organismo;
 
@@ -1347,17 +1423,23 @@ XVIII. Formular y someter a consideración de la Unidad de Administración y Fin
 
 XIX. Colaborar con la Dirección General de Programación, Organización y Presupuesto en los estudios de organización que impliquen la modificación de la estructura orgánica y ocupacional del Organismo y opinar respecto de la viabilidad presupuestaria de los movimientos organizacionales, ocupacionales y salariales requeridos por las unidades administrativas; y
 
-XX. Las demás que le confiera la persona titular de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+XX. Las demás que le confiera la Jefa o Jefe de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
 ### CAPÍTULO VII. DE LA SUPLENCIA DE LAS PERSONAS SERVIDORAS PÚBLICAS
 
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
 ###### Artículo 39.
 
-Durante las ausencias de la persona Titular del Organismo, el despacho y resolución de los asuntos correspondientes al mismo, estarán a cargo de las Jefas y Jefes de Unidad, de la persona Titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, la persona Titular de la Unidad de Administración y Finanzas y las personas titulares de las direcciones generales adscritas a la persona Titular de la Entidad, en el ámbito de sus respectivas competencias.
+Durante las ausencias de la persona Titular del Organismo, el despacho y resolución de los asuntos correspondientes al mismo, estarán a cargo de las personas titulares, Jefas o Jefes de las Unidades, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, de la Unidad de Administración y Finanzas y las direcciones generales adscritas a la persona Titular de la Entidad, en el ámbito de sus respectivas competencias.
+
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
 
 ###### Artículo 40.
 
-Durante la ausencia de las Jefas y Jefes de Unidad, de la persona Titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes o de la persona Titular de la Unidad de Administración y Finanzas, el despacho y resolución de los asuntos de su competencia, estarán a cargo de las Directoras y Directores Generales adscritos a sus correspondientes áreas de responsabilidad, conforme a sus respectivas atribuciones.
+Durante la ausencia de las personas titulares, Jefas o Jefes de las Unidades, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes o de la Unidad de Administración y Finanzas, el despacho y resolución de los asuntos de su competencia, estarán a cargo de las Directoras o Directores Generales adscritos a sus correspondientes áreas de responsabilidad, conforme a sus respectivas atribuciones.
 
 ###### Artículo 41.
 
@@ -1385,7 +1467,9 @@ Lo anterior sin perjuicio de las facultades que pueden ejercer posterior a la en
 
 CUARTO. Los asuntos competencia de la persona Titular de la Oficialía Mayor a que se refiere el artículo 19, fracciones XI, XII y XIII, del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el once de mayo de dos mil dieciséis, serán transferidos y continuarán su trámite por la Dirección General de Profesionalización de la Asistencia Social.
 
-QUINTO. Salvo lo dispuesto en el Artículo Cuarto Transitorio, los asuntos en trámite por las personas titulares de la Oficialía Mayor, la Unidad de Asistencia e Integración Social, la Dirección General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y la Dirección General de Rehabilitación, continuarán gestionándose hasta su total conclusión por las personas titulares de la Unidad de Administración y Finanzas, la Unidad de Asistencia e Inclusión Social, la Dirección General de Coordinación y Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad y la Dirección General de Rehabilitación e Inclusión, respectivamente.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+QUINTO. Salvo lo dispuesto en el Artículo Cuarto Transitorio, los asuntos en trámite por las personas titulares de la Oficialía Mayor, la Unidad de Asistencia e Integración Social, la Dirección General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y la Dirección General de Rehabilitación, continuarán gestionándose hasta su total conclusión por las personas titulares, Jefas o Jefes de la Unidad de Administración y Finanzas, la Unidad de Asistencia e Inclusión Social, la Dirección General de Coordinación y Fomento a Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad y la Dirección General de Rehabilitación e Inclusión, respectivamente.
 
 SEXTO. Por lo que hace a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, los asuntos en trámite por las personas Titulares de la Dirección General de Representación Jurídica de Niñas, Niños y Adolescentes y la Dirección General de Restitución de Derechos de Niñas, Niños y Adolescentes, continuarán gestionándose hasta su total conclusión por la persona Titular de la Dirección General de Representación Jurídica y Restitución de Derechos de Niñas, Niños y Adolescentes.
 
@@ -1393,8 +1477,12 @@ SÉPTIMO. Las acciones referidas en la fracción VI del artículo 39 del Estatut
 
 Dicha transferencia deberá quedar concluida en un plazo no mayor a sesenta días posteriores a la entrada en vigor del presente ordenamiento.
 
-OCTAVO. El “ACUERDO por el que el Titular del Sistema Nacional para el Desarrollo Integral de la Familia delega en el Oficial Mayor, las facultades a que se refieren las fracciones I, V, VII, VIII, X, XVI, XVIII, XXX y XXXI del artículo 10 del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia”, publicado en el Diario Oficial de la Federación el catorce de septiembre de dos mil dieciocho, permanecerá vigente, en sus facultades delegadas en las fracciones homólogas del presente Estatuto, entendiéndose referidas a la persona Titular de la Unidad de Administración y Finanzas, hasta la publicación de aquél que lo sustituya.
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
 
-NOVENO. En lo relativo al Órgano Interno de Control, se está a lo señalado en el artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, y lo previsto en el sexto transitorio del “DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal”, publicado en el Diario Oficial de la Federación el treinta de noviembre de dos mil dieciocho, quedando a cargo la (sic) de la persona Titular de la Unidad de Administración y Finanzas la coordinación de las acciones respectivas.
+OCTAVO. El "ACUERDO por el que el Titular del Sistema Nacional para el Desarrollo Integral de la Familia delega en el Oficial Mayor, las facultades a que se refieren las fracciones I, V, VII, VIII, X, XVI, XVIII, XXX y XXXI del artículo 10 del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia", publicado en el Diario Oficial de la Federación el catorce de septiembre de dos mil dieciocho, permanecerá vigente, en sus facultades delegadas en las fracciones homólogas del presente Estatuto, entendiéndose referidas a la Jefa o Jefe de la Unidad de Administración y Finanzas, hasta la publicación de aquél que lo sustituya.
+
+> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+
+NOVENO. En lo relativo al Órgano Interno de Control, se está a lo señalado en el artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, y lo previsto en el sexto transitorio del "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal", publicado en el Diario Oficial de la Federación el treinta de noviembre de dos mil dieciocho, quedando a cargo la de la Jefa o Jefe de la Unidad de Administración y Finanzas la coordinación de las acciones respectivas.
 
 Se expide en la Ciudad de México, el dieciséis de octubre de dos mil diecinueve.- La Titular del Sistema Nacional para el Desarrollo Integral de la Familia, María del Rocío García Pérez.- Rúbrica.
