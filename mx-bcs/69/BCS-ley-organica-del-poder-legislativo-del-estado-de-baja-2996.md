@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2019-12-20"
+last_updated: "2020-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MARZO DE 2020.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -35,7 +35,9 @@ EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
 
 D E C R E T A :
 
-LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE MARZO DE 2020)</small>
+
+Ley Orgánica del Poder Legislativo del Estado de Baja California Sur
 
 ## TITULO PRIMERO. DEL CONGRESO DEL ESTADO
 
@@ -52,6 +54,10 @@ El Poder Legislativo se deposita en una asamblea que se denomina "CONGRESO DEL E
 ###### ARTICULO 2o.
 
 El Congreso del Estado se integrará con dieciséis Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta, mediante el sistema de Distritos Electorales uninominales y, hasta con cinco Diputados electos mediante el Principio de Representación Proporcional, en los términos de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2020)</small>
+
+El pleno es el órgano máximo de decisión del Congreso del Estado, y se integra por la totalidad de los diputados que integran la legislatura.
 
 ###### ARTICULO 3o.
 
@@ -95,9 +101,15 @@ El edificio donde se albergue el Congreso del Estado de Baja California Sur, se 
 
 El salón de sesiones, además de los usos a que esta implícitamente destinado, únicamente podrá utilizarse para actos oficiales de los Poderes Federales y Estatales de la República, así como de los otros Poderes Estatales y Municipales de Baja California Sur, mediante resolución expresa del Congreso.
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 11.
 
-El Recinto del Congreso es inviolable. Toda fuerza pública está impedida de tener acceso al mismo, salvo con permiso del Presidente del Congreso o de la Diputación Permanente, según corresponda, bajo cuyo mando quedarán en este caso.
+Para efectos legales, se considera parte del recinto oficial los inmuebles que alberguen las dependencias del Congreso.
+
+Tanto el Salón de Sesiones como las demás instalaciones que ocupa el Congreso para su actividad son inviolables por persona o autoridad alguna. Queda prohibido a toda fuerza pública tener acceso al mismo, salvo con permiso del Presidente de la Mesa Directiva del Congreso o en los recesos por el de la Diputación Permanente, quienes podrán solicitar el auxilio o intervención inmediata de la misma para salvaguardar el fuero constitucional de los diputados, la inviolabilidad del Recinto y demás instalaciones del Congreso; así como salvaguardar el orden público en las mismas.
+
+Cuando sin mediar autorización se hiciere presente la fuerza pública, la o el Presidente de la Mesa Directiva podrá decretar la suspensión de la sesión hasta que dicha fuerza hubiese abandonado el Recinto.
 
 ###### ARTICULO 12.
 
@@ -243,7 +255,9 @@ La omisión de este permiso producirá la pérdida de derecho a las dietas corre
 
 La falta sin previo aviso solamente se justificará en casos de fuerza mayor que hayan imposibilitado dar dicho aviso.
 
-Se entiende que los Diputados que falten a cinco sesiones consecutivas sin causa justificada o sin previo aviso a la Presidencia, renunciarán a concurrir a sesiones hasta el período inmediato, llamándose desde luego a los suplentes.
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2020)</small>
+
+Se entiende que los Diputados que falten a cinco sesiones consecutivas sin causa justificada o sin previo aviso a la Presidencia, renunciarán a concurrir a sesiones hasta el siguiente período ordinario, llamándose desde luego a los suplentes.
 
 ###### ARTICULO 28.
 
@@ -305,9 +319,21 @@ Cada elección de Directiva del Congreso se comunicará a los otros dos Poderes,
 
 Cuando se hubiere convocado a Período Extraordinario de Sesiones, se elegirá en la primera sesión la Directiva que ejercerá sus funciones únicamente durante dicho período.
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 39.
 
-Los integrantes de la Directiva sólo podrán ser removidos de sus cargos, por las causas y en la forma prevista en esta Ley y los Reglamentos que de ella emanen.
+Los integrantes de la mesa directiva podrán ser removidos de sus cargos con el voto de la mayoría de las y los Diputados presentes, habiéndose presentado solicitud debidamente fundada y motivada, otorgándose el uso de la voz, hasta dos diputadas o diputados en contra y dos a favor, de manera alternada.
+
+Las y los integrantes de la Mesa Directiva sólo podrán ser removidos, por las siguientes causas justificadas:
+
+I.- Transgredir en forma grave o reiterada las disposiciones contenidas en la Constitución General, la Constitución Política del Estado y la presente ley;
+
+II.- Incumplir los acuerdos del Pleno, cuando se afecten las atribuciones constitucionales y legales del Congreso, y
+
+III.- Dejar de asistir, reiteradamente y sin causa justificada, a las sesiones del Congreso o a las reuniones de la Mesa Directiva.
+
+En el caso de que sea aprobada la solicitud en los términos antes descritos, se elegirá quien ha de sustituir a quien hubiera sido removido como integrante de la Mesa Directiva, para concluir el período respectivo.
 
 ###### ARTICULO 40.
 
@@ -485,11 +511,13 @@ VIII.- En caso de ausencia temporal o definitiva del presidente de la Junta de G
 
 IX.- Los integrantes de la Junta de Gobierno y Coordinación Política podrán ser sustituidos de conformidad con las reglas internas de cada fracción parlamentaria.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], B.O. 31 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 51.
 
 Son facultades de la Junta de Gobierno y Coordinación Política:
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 I.- Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas o iniciativas que requieran de su votación en el Pleno, a fin de agilizar el trabajo legislativo.
 
@@ -497,9 +525,11 @@ I.- Impulsar la conformación de acuerdos relacionados con el contenido de las p
 
 II.- Designar delegaciones para atender la celebración de reuniones interparlamentarias con órganos de representación popular de otras entidades federativas o el Congreso de la Unión; con respecto a estas reuniones, en los periodos de receso, el Presidente de la Junta de Gobierno y Coordinación Política hará la designación respectiva.
 
-> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2020)</small>
 
-III.- Proponer a los Diputados que integran las Comisiones Permanentes, Especiales y el Gran Jurado, y expedir los nombramientos correspondientes, una vez que fueren aprobados por la asamblea.
+III.- Poner a consideración del pleno a los Diputados que integran las Comisiones Permanentes, Especiales y la Comisión Instructora en caso de juicio político, y expedir los nombramientos correspondientes, una vez que fueren aprobados por la asamblea; así como llevar a cabo la sustitución justificada de los integrantes de las mismas.
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 IV.- Conceder licencias a los Diputados en los casos previstos en el Artículo 27 y demás relativos de esta Ley Reglamentaria.
 
@@ -507,21 +537,35 @@ IV.- Conceder licencias a los Diputados en los casos previstos en el Artículo 2
 
 V.- Proponer al Pleno la designación del Oficial Mayor, Titular de la Auditoria Superior del Estado, Contralor, Asesores Jurídicos y Directores de las áreas a que se refiere esta ley, así como expedir el nombramiento respectivo, teniendo en cuenta la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, garantizando el principio de igualdad de género.
 
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 VI.- Proponer al Congreso en Sesión Secreta la destitución de los funcionarios a que se refiere la fracción anterior, por las causas graves que señale la ley, concediéndoles previamente el derecho de audiencia.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 VII.- Proponer al Congreso en Sesión Privada la destitución de los funcionarios a que se refiere la Fracción anterior, cuando por causas graves o por el buen funcionamiento del Congreso deba hacerse la remoción y proponer a las personas que deban sustituirlas.
 
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 VIII.- Proponer al pleno del Congreso, las bases para la aplicación de sanciones disciplinarias a los diputados.
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 IX.- Vigilar los trabajos administrativos del Congreso y evaluar su eficiencia y calidad, solicitando para tal efecto, a las distintas instancias del ramo, los informes y documentos que estime procedentes.
 
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 X.- Establecer lineamientos para el otorgamiento de incentivos a los trabajadores y funcionarios del Poder Legislativo.
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 XI.- Coadyuvar en la integración del proyecto del presupuesto de egresos del Congreso, y turnarlo al titular del Poder Ejecutivo, para que se incluya en el presupuesto de egresos del Gobierno del Estado, para el ejercicio fiscal de cada año.
 
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 XII.- Administrar con eficiencia y transparencia el presupuesto de egresos del Congreso del Estado para cada año, así como establecer las bases para autorizar adquisiciones mediante licitación pública de bienes y la contratación de prestación de servicios para la función legislativa, informando de manera oficiosa y al término de cada periodo ordinario de sesiones al pleno del Congreso.
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 XIII.- Llevar a cabo corresponsablemente a través de su Presidente el proceso de entrega recepción que establece el Titulo Octavo de la Ley Reglamentaria.
 
@@ -531,15 +575,27 @@ XIV.- (DEROGADA, B.O. 15 DE AGOSTO DE 2018)
 
 XV.- Presentar a la Mesa Directiva y al Pleno, para su aprobación, proposiciones con punto de acuerdo, iniciativas de leyes y decretos, que entrañen una posición política conjunta del Congreso del Estado.
 
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 XVI.- Establecer las políticas rectoras para que los servicios internos se cubran cabalmente para el buen funcionamiento de los trabajos Legislativos.
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 XVII.- Autorizar los convenios de cooperación con otras instituciones u organismos.
 
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 XVIII.- Elaborar el Reglamento interno de la Junta de Gobierno y Coordinación Política.
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 XIX.- Proveer a través de la Oficialía Mayor, lo necesario para el trabajo de las comisiones permanentes o especiales;
 
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 XX.- Proponer programas de capacitación para los trabajadores del Congreso del Estado y cuidar que los trabajos del Congreso se realicen con oportunidad y eficiencia;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 XXI.- Llevar el Control y Vigilancia de los Servidores Públicos del Poder Legislativo, así como la aplicación de sanciones a que se hagan acreedores en el desempeño de sus labores, en los términos de la Legislación aplicable.
 
@@ -1363,11 +1419,11 @@ Igualmente podrán solicitar a los Servidores Públicos, personas o representant
 
 Cualquier miembro de la Legislatura puede reunirse con las Comisiones a que no pertenezca y discutir en ellas, pero sin voto.
 
-> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 64.
 
-Los integrantes de las Comisiones Permanentes o Especiales únicamente podrán dejar de formar parte de las mismas, por renuncia al cargo y así lo comuniquen a la Mesa Directiva.
+Los integrantes de las Comisiones Permanentes o Especiales podrán ser removidos de su cargo por acuerdo de la Asamblea a propuesta de la Junta de Gobierno y Coordinación Política.
 
 ###### ARTICULO 65.
 
@@ -1383,13 +1439,11 @@ En la formulación y presentación de los Dictámenes, se observarán los trámi
 
 DE LAS FRACCIONES PARLAMENTARIAS.
 
-> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 67.
 
-Cada Fracción Parlamentaria estará constituida por un número de Diputados no menor de dos, electos según el principio de Mayoría Relativa o de Representación Proporcional que en cada Partido Político, Coalición o Candidatura Común hayan resultado electos o cuando así lo determine cada Diputado en términos del tercer párrafo del Artículo 73 de esta Ley.
-
-Sin menoscabo de lo establecido por los Artículos 68 y 69 de esta Ley, las Diputadas y los Diputados sin Partido o que no integran Fracción, podrán conformar una única Fracción Parlamentaria Mixta, y así lo comuniquen a la Mesa Directiva.
+Cada Fracción Parlamentaria estará constituida por un número de Diputados no menor de dos, electos según el principio de Mayoría Relativa o de Representación Proporcional que en cada Partido Político, hayan resultado.
 
 ###### ARTICULO 68.
 
@@ -1415,15 +1469,13 @@ Los Coordinadores de las Fracciones Parlamentarias serán el conducto de estas c
 
 Los Coordinadores de las Fracciones Parlamentarias podrán convocar a reuniones con los demás Coordinadores de las otras Fracciones para considerar conjuntamente, las acciones específicas que propicien el mejor desarrollo de sus labores.
 
-> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 73.
 
-Cuando un Partido Político cambie de denominación se hará del conocimiento del Congreso del Estado y en todo caso la Fracción Parlamentaria correspondiente adoptará la nueva denominación.
+Cuando un Partido Político cambie de denominación o se disuelva se hará del conocimiento del Congreso del Estado y en todo caso la Fracción Parlamentaria correspondiente adoptará la nueva denominación o no se considerará constituida y quienes hubieran sido parte de dicha fracción, serán considerados como diputados sin partido, al igual que quienes dejen de pertenecer a un Grupo Parlamentario, aquellos que no hubieran alcanzado los requisitos mínimos para conformar una fracción o quienes hubieran llegado por la vía independiente.
 
-Cuando un Partido Político por cualquier causa se disuelva o pierda su registro, la Fracción Parlamentaria previamente constituida en los términos de los Artículos 68 y 69 de esta Ley, conservará sus derechos hasta la conclusión de la Legislatura.
-
-Los Diputados sin Partido o que no conformen Fracción, podrán incorporarse a alguna de las Fracciones que se hayan constituido en términos de lo que disponen los Artículos 68 y 69 de esta Ley.
+Las y los diputados sin partido, tendrán las mismas consideraciones que el resto de las y los legisladores recibiendo igual atención y apoyo institucional, para el buen desempeño de sus atribuciones de representación popular.
 
 ### CAPITULO VIII
 
@@ -1433,9 +1485,11 @@ DE LA OFICIALIA MAYOR.
 
 El Congreso nombrará un Oficial Mayor que será el Jefe Administrativo del Congreso.
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2020)</small>
+
 ###### ARTICULO 75.
 
-Cuando haya que cubrir la vacante de Oficial Mayor y el Congreso no estuviere reunido; la Diputación Permanente hará el nombramiento respectivo.
+Cuando haya que cubrir la vacante de Oficial Mayor y el Congreso no estuviere reunido, la Diputación Permanente hará el nombramiento respectivo, con carácter provisional para ocupar dicha responsabilidad hasta la conclusión del período de receso que se tratare.
 
 ###### ARTICULO 76.
 
@@ -2509,13 +2563,11 @@ El nuevo dictamen de la Comisión será leído o discutido con las mismas formal
 
 Para ratificar un proyecto de Ley o de Decreto devuelto por el Ejecutivo con observaciones, o aprobar estas, se requiere el voto afirmativo de las dos terceras partes de los Diputados presentes.
 
-> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2020)</small>
 
 ###### ARTICULO 170.
 
-Respecto de las demás resoluciones del Congreso que no constituyan Ley o Decreto, se observará lo dispuesto en el Artículo 61 de la Constitución del Estado Libre y Soberano de Baja California Sur.
-
-Esta Ley, solo podrá ser reformada, adicionada o derogada, por el voto de las dos terceras partes de los miembros de la Legislatura.
+Respecto de las demás resoluciones del Congreso que no constituyan Ley o Decreto, se observará lo dispuesto en el Artículo 61 de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
 
 ### CAPITULO VIII
 
@@ -3690,3 +3742,13 @@ B.O. 20 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2651 SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 80 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO”.]
 
 ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 2704 POR EL QUE “SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación y se enviará para su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan los transitorios SEGUNDO y TERCERO del decreto 2626 publicado en el Boletín Oficial del Gobierno del Estado el 10 de agosto de 2019.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
