@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2019-11-29"
+last_updated: "2020-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 31 DE MARZO DE 2020.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -6161,7 +6161,9 @@ Para la designación, facultades, operación y responsabilidades de los órganos
 
 Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalajara en términos de lo dispuesto en el artículo 42 fracciones IV y V de la Ley del Gobierno y la Administración Pública Municipal de Guadalajara.
 
-Segundo. Este ordenamiento entrará en vigor el día 1 primero de enero de 2020 dos mil veinte, previa publicación en la Gaceta Municipal de Guadalajara.
+> <small>(REFORMADO, G.M. 31 DE MARZO DE 2020)</small>
+
+Segundo. Este ordenamiento entrará en vigor el día 1 primero de junio de 2020 dos mil veinte, previa publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Se derogan las disposiciones municipales que se opongan al presente Código.
 
@@ -6200,3 +6202,15 @@ PRESIDENTE MUNICIPAL DE GUADALAJARA
 MAESTRO VÍCTOR MANUEL SÁNCHEZ OROZCO
 
 SECRETARIO GENERAL DEL AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.M. 31 DE MARZO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
+
+Segundo. La presente reforma entrará en vigor el día de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicada la presente reforma, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
