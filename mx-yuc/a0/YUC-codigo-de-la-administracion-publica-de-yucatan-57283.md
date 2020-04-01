@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2019-04-22"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2020.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -98,6 +98,18 @@ El Gobernador del Estado podrá convocar a reuniones a los titulares de las depe
 ###### Artículo 7.
 
 El Gobernador del Estado y los titulares de las dependencias y entidades de la Administración Pública, deben establecer los mecanismos necesarios para que en la definición de las políticas e instrumentación de planes, programas y acciones de gobierno exista una vinculación permanente entre éstas, los ciudadanos y las organizaciones de la sociedad civil.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2020)</small>
+
+Estos mecanismos incluirán la existencia de personal con dominio de las lenguas nativas de la entidad, en áreas de atención ciudadana, de información y orientación que explique y proporcione información de todos los programas y acciones que requieran los interesados.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2020)</small>
+
+Dicho personal podrá ser seleccionado entre aquellos que se encuentren laborando en la dependencia o entidad que se trate y que dominen o tengan conocimiento suficiente de alguna de las lenguas nativas del estado.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2020)</small>
+
+Se podrán suscribir convenios con organismos o institutos públicos o privados, con la intención de capacitar al personal que se designe para los fines contenidos en el párrafo anterior.
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -3334,3 +3346,11 @@ Los organismos descentralizados cuyo objeto sea educativo, en cualquiera de sus 
 Tercero.- Derogación
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+D.O. 1 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 198/2020 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE LENGUAS NATIVAS”.]
+
+Artículo único. Entrada en vigor
+
+Este Decreto entrará en vigor a los 180 días posteriores a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
