@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1161
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-05-04"
+last_updated: "2020-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 1 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2020 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 4 de mayo de 2016.
 
@@ -1409,7 +1411,7 @@ j) Su estrado electrónico.
 
 IV. La Universidad Autónoma de Chiapas y la Universidad de Ciencias y Artes de Chiapas, así como las demás universidades e instituciones públicas estatales o locales de educación superior dotadas de autonomía constitucional o legal.
 
-a) Los planes y programas de estudio según el sistema que ofrecen, ya sea escolarizado o abierto, con•las áreas de conocimiento, el perfil profesional de quien cursa el plan de estudios, la duración del programa con las asignaturas, su valor en créditos.
+a) Los planes y programas de estudio según el sistema que ofrecen, ya sea escolarizado o abierto, con las áreas de conocimiento, el perfil profesional de quien cursa el plan de estudios, la duración del programa con las asignaturas, su valor en créditos.
 
 b) Toda la información relacionada con sus procedimientos administrativos.
 
@@ -2630,3 +2632,31 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cu
 Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 03 días del mes de mayo del año dos mil dieciséis.- D. P. C. JUDITH TORRES VERA.- D. S. C. ALEJANDRA CRUZ TOLEDO ZEBADÚA. - Rúbricas.
 
 De conformidad con la fracción I del artículo 44 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 03 días del mes de mayo del año dos mil dieciséis, con los refrendos de los CC. Secretario General de Gobierno; Secretario de Hacienda; Secretario de la Función Pública; Secretario de Planeación, Gestión Pública y Programa de Gobierno; Secretario del Trabajo; Encargada del Despacho de la Secretaria para el Desarrollo y Empoderamiento de las Mujeres; Secretario de Protección Civil; Secretario de Obra Pública y Comunicaciones; Secretario de Medio Ambiente e Historia Natural; Secretario de Economía; Encargado del despacho de la Secretaria de Desarrollo y Participación Social; Secretario del Campo; Secretario de Turismo; Secretario de Pesca y Acuacultura; Secretario para el Desarrollo Sustentable de los Pueblos Indígenas; Secretario de Salud; Secretario de Educación; Secretario de Seguridad y Protección Ciudadana; Secretario de Transportes; Secretario para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional; Secretario de la Juventud, Recreación y Deporte; Consejero Jurídico del Gobernador y Presidente del Instituto de Población y Ciudades Rurales.- Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Humberto Pedrero Moreno, Secretario de Hacienda.- Miguel Agustín López Camacho, Secretario de la Función Pública.- Juan José Zepeda Bermúdez, Secretario de Planeación, Gestión Pública y Programa de Gobierno.- Francisco Javier Mtz. Zorrilla Rabelo, Secretario del Trabajo Nancy López Ruiz, Encargada del despacho de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres.- Luis Manuel García Moreno, Secretario de Protección Civil.- Jorge Alberto Betancourt Esponda, Secretario de Obra Pública y Comunicaciones.- Carlos Orsoe Morales Vázquez, Secretario de Medio Ambiente e Historia-Natural.- Ovidio Cortazar Ramos, Secretario de Economía.- Roque Antonio Hernández Hernández, Encargado del despacho de la Secretaría de Desarrollo y Participación Social.- José Antonio Aguilar Bodegas, Secretario del Campo.- Mario Uvence Rojas, Secretario de Turismo.- Manuel de Jesús Narcía Coutiño, Secretario de Pesca y Acuacultura.- Dagoberto de Jesús Hernández Gómez, Secretario para el Desarrollo Sustentable de los Pueblos Indígenas.- Francisco Javier Paniagua Morgan, Secretario de Salud.- Sonia Rincón Chanona, Secretaria de Educación.- Jorge Luis Llaven Abarca, Secretario de Seguridad y Protección Ciudadana.- Fabián Alberto Estrada de Coss, Secretario de Transportes.- José Luis Orantes Costanzo, Secretario de la Juventud, Recreación y Deporte.- Adolfo Zamora Cruz, Secretario para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional.- Vicente Pérez Cruz, Consejero Jurídico del Gobernador.- Fernando Álvarez Simán, Presidente del Instituto de Población y Ciudades Rurales.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor el mismo día de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas, publicada en el Periódico Oficial número 235, de fecha cuatro de mayo del año dos mil dieciséis.
+
+Artículo Tercero.- Se derogan las disposiciones legales que se opongan a esta Ley.
+
+Artículo Cuarto.- Dentro de los sesenta días hábiles siguientes a la entrada en vigor de la presente Ley, se deberán realizar las adecuaciones que correspondan a los ordenamientos jurídicos aplicables, para hacerlos congruentes con las disposiciones aquí establecidas.
+
+Artículo Quinto.- Los actuales Comisionados continuarán en su encargo hasta en tanto el Congreso del Estado realice las nuevas designaciones, conforme a lo dispuesto en la presente Ley y demás disposiciones aplicables; pudiendo ser elegibles para un nuevo nombramiento.
+
+Artículo Sexto.- Los recursos humanos, materiales y financieros que hasta la entrada en vigor de la presente Ley se encontraban asignados al Instituto de Acceso a la Información Pública del Estado de Chiapas que por esta Ley se extingue, serán transferidos de inmediato al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Chiapas, que por esta Ley se crea.
+
+Artículo Séptimo.- El personal que preste sus servicios en el Instituto, será de confianza y se regirá por lo dispuesto en la Ley del Servicio Civil para el Estado y los Municipios de Chiapas.
+
+Artículo Octavo.- Los compromisos, procedimientos y asuntos pendientes que a la entrada en vigor de la presente Ley hubiere contraído el Instituto de Acceso a la Información Pública del Estado de Chiapas que por esta Ley se extingue, serán asumidos y atendidos inmediatamente por el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Chiapas, que por esta Ley se crea.
+
+Artículo Noveno.- Las atribuciones, referencias y menciones contenidas en las leyes, decretos, reglamentos y demás normatividad aplicable, que a la entrada en vigor de la presente Ley, se otorgaban al Instituto de Acceso a la Información Pública del Estado de Chiapas que por este Decreto se extingue, se entenderán conferidas al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Chiapas, que por esta Ley se crea.
+
+Artículo Décimo.- El Congreso del Estado, en el ámbito de su competencia, llevará a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento de la presente Ley, en plena observancia a las disposiciones aplicables.
+
+Artículo Décimoprimero.- Por única ocasión el Congreso del Estado, deberá designar en los términos previstos por el artículo 29 de la presente Ley, a los Comisionados del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, quienes durarán en el ejercicio de sus funciones 7, 6, 5 años respectivamente; lo anterior en cumplimiento a lo establecido en el artículo 38 de la Ley General de Transparencia y Acceso a la Información Pública.
