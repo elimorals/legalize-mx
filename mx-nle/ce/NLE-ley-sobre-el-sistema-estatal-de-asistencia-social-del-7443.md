@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2019-11-12"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -128,6 +128,32 @@ I.- Garantizar la extensión cuantitativa y cualitativa de los servicios, prefer
 II.- Definir criterios de distribución de universos de usuarios, de regionalización, de escalonamiento de los servicios, así como de universalización de coberturas, y
 
 III.- Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de los individuos y de los grupos sociales vulnerables.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2020)</small>
+
+###### ARTICULO 9o Bis.
+
+Además de los anteriores, el Sistema Estatal de Asistencia Social, tendrá las siguientes atribuciones respecto a las personas en situación de indigencia:
+
+I. Dirigir y operar establecimientos especiales para las personas indigentes, donde se proporcionen servicios sociales especializados para la progresiva restitución de sus derechos;
+
+II. Facilitar la obtención de documentos de identidad de las personas indigentes mediante la realización de campañas permanentes de registro;
+
+III. Asegurar el acceso a información comprensible sobre los derechos y servicios que proporciona el Estado, así como de los mecanismos para acceder a los mismos;
+
+IV. Promover el reconocimiento de las personas indigentes como titulares de derechos frente a la sociedad;
+
+V. Asegurar la implementación de medidas necesarias para proteger a las personas indigentes contra actos arbitrarios o ilegales en su vida privada, familia, honra o reputación; así como de cualquier explotación de su imagen o prácticas en contra de su condición física y mental que vulneren su dignidad humana;
+
+VI. Adoptar medidas suficientes para prevenir que la discriminación múltiple ocasione abusos físicos, psicológicos, emocionales o sexuales;
+
+VII. Generar programas educativos, para otorgarles posibilidades de empleo con salario justo y remunerado, que permita dejar la calle;
+
+VIII. Garantizar en condiciones de igualdad, asesoría y representación legal de manera gratuita;
+
+IX. Las autoridades adoptarán medidas para garantizar todos sus derechos, impidiéndose acciones de reclusión, desplazamiento forzado, tratamiento de rehabilitación, internamiento en instituciones o cualquier otra, sin su autorización; y
+
+X. Proporcionar alternativas que constituyan acciones dignas y respeten su honra y libertad.
 
 ###### ARTICULO 10o.
 
@@ -608,3 +634,9 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado y de los municipios que correspondan para dar cumplimiento al presente Decreto, se ajustarán en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+P.O. 1 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 277. SE ADICIONA UN ARTÍCULO 9 BIS DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
