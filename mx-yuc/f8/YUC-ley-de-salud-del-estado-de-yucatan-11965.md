@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2020-01-09"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -2267,6 +2267,10 @@ d).- Kermés y verbena popular, y
 
 e).- Cualquier otro de carácter eventual o extraordinario.
 
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2020)</small>
+
+La emisión de los permisos temporales únicamente se otorgarán para los lugares señalados en la fracción III de este artículo. La contravención a esta disposición será sancionada conforme a la legislación correspondiente.
+
 > <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 253-B.
@@ -2559,11 +2563,13 @@ II.- Bebidas no alcohólicas, cualquier líquido natural o transformado que prop
 
 III.- Bebidas alcohólicas, aquellas que contengan alcohol etílico en una proporción mayor del dos por ciento en volumen.
 
-> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 275-G.
 
-El Estado determinará en base a sus atribuciones como Autoridad Sanitaria, la ubicación, horario y funcionamiento de los establecimientos en que se expendan bebidas alcohólicas, tomando en cuenta la distancia existente entre dichos establecimientos, que no será menor a 200 metros entre los mismos así como, de los parques recreativos, centros de recreo, culturales, deportivos, religiosos, de trabajo, de docencia y otros similares, a criterio de la propia Autoridad; a efecto de coadyuvar efectivamente a las acciones derivadas del programa contra el alcoholismo y el abuso de bebidas alcohólicas.
+El Estado determinará con base en sus atribuciones como autoridad sanitaria, la ubicación, horario y funcionamiento de los establecimientos en que se expendan bebidas alcohólicas, tomando en cuenta la distancia existente entre dichos establecimientos, que no será menor a 500 metros entre los mismos, así como de los parques recreativos, centro de recreo, culturales, deportivos, religiosos, de trabajo, de docencia y otros similares; a efecto de coadyuvar efectivamente a las acciones derivadas del programa contra el alcoholismo y el abuso de bebidas alcohólicas.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 Dichos establecimientos se sujetarán rigurosamente al horario establecido en el Reglamento de Control y Vigilancia Sanitaria de los Establecimientos que expenden Alimentos y Bebidas en General en Yucatán, a propuesta del Consejo de Prevención de Adicciones del Estado.
 
@@ -3448,3 +3454,23 @@ Este decreto entrará en vigor el día siguiente de su publicación en el Diario
 Artículo segundo. Derogación tácita.
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se opongan a este decreto.
+
+D.O. 1 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 197/2020 POR EL QUE SE MODIFICA LA LEY DE SALUD DEL ESTADO DE YUCATÁN, EN MATERIA DE ESTABLECIMIENTOS QUE VENDAN BEBIDAS ALCOHÓLICAS”.]
+
+Artículo primero. Entrada en vigor.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos.
+
+Lo dispuesto en el artículo 275-G de este decreto, no será aplicable para aquellos establecimientos cuyo giro sea la venta de bebidas alcohólicas y se encuentren en funcionamiento.
+
+Artículo tercero. Derogación tácita.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se opongan a este decreto.
+
+Artículo cuarto. Plazo de modificación del reglamento.
+
+El Poder Ejecutivo del Estado tendrá un plazo de 90 días contados a partir de la entrada en vigor de este decreto, para modificar el reglamento de la materia con las disposiciones necesarias.
