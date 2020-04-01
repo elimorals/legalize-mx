@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-anticorrupcion-del-estado-de-chiapas-118280"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2020-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el sábado 31 de diciembre de 2016.
 
@@ -51,11 +51,13 @@ LEY DEL SISTEMA ANTICORRUPCION DEL ESTADO DE CHIAPAS
 
 La presente Ley es de orden público, de observancia general en el territorio del Estado de Chiapas, y tiene por objeto establecer las bases de coordinación entre las autoridades de todos los Entes Públicos de la Entidad, para la integración, organización y funcionamiento del Sistema Anticorrupción del Estado de Chiapas, con el fin de prevenir, y sancionar las faltas administrativas, y los hechos de corrupción, así como investigar la fiscalización y control de recursos públicos, de conformidad con lo que establece la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional Anticorrupción, la Constitución Política del Estado de Chiapas, y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2020)</small>
+
 ###### Artículo 2.
 
-El Sistema Anticorrupción del Estado de Chiapas, establecerá con los Entes Públicos, acciones que generen confianza a la población en general para fomentar una cultura de responsabilidad, participación ciudadana, transparencia y acciones en el combate a la corrupción en la Entidad, constituyendo los objetivos siguientes para:
+El Sistema Anticorrupción del Estado de Chiapas, establecerá con los Entes Públicos, acciones que generen confianza a la población en general para fomentar una cultura de responsabilidad, participación ciudadana, transparencia, rendición de cuentas y acciones en el combate a la corrupción en la Entidad, constituyendo los objetivos siguientes para:
 
-l. Establecer mecanismos de coordinación entre los diversos órganos de combate a la corrupción de todos los Entes Públicos.
+I. Establecer mecanismos de coordinación entre los diversos órganos de combate a la corrupción de todos los Entes Públicos.
 
 II. Establecer y en su caso implementar las bases mínimas para la prevención de hechos de corrupción y faltas administrativas, las cuales serán acordes con las del Sistema Nacional Anticorrupción.
 
@@ -103,9 +105,11 @@ XI. Ley: A la Ley del Sistema Anticorrupción del Estado de Chiapas.
 
 ### Capítulo II. Principios que rigen el Servicio Público
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2020)</small>
+
 ###### Artículo 4.
 
-Las disposiciones de la presente Ley, serán aplicables a los servidores públicos, quienes en el desempeño de sus funciones, se regirán bajo los siguientes principios rectores del servicio público: legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad y competencia por mérito.
+Las disposiciones de la presente Ley, serán aplicables a los servidores públicos, quienes en el desempeño de sus funciones, se regirán bajo los siguientes principios rectores del servicio público: legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, rendición de cuentas, economía, integridad y competencia por mérito.
 
 Los Entes Públicos serán sujetos a las disposiciones de la presente Ley, quienes están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
 
@@ -760,3 +764,13 @@ Dado en el Salón de SesionesSergio (sic) Armando Valls Hernández del Honorable
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 31 días del mes de Diciembre del año Dos Mil Dieciséis, con los refrendos de los CC. Secretario General de Gobierno y Secretario de la Función Pública.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Miguel Agustín López Camacho, Secretario de la Función Pública.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 204 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
