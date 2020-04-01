@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-extincion-de-dominio-para-el-estado-de-nuevo-leon-70601"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-25"
-last_updated: "2019-01-16"
+last_updated: "2020-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚM. 284, PUBLICADO EN EL P.O. DE 1 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2020 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 25 de septiembre de 2009.
 
@@ -572,3 +574,9 @@ P.O. 16 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 73. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 2, EL PRIMER Y CUARTO PÁRRAFOS DEL ARTÍCULO 5, EL PRIMER PÁRRAFO DEL ARTÍCULO 8 Y LA FRACCIÓN I DEL ARTÍCULO 45 Y SE DEROGAN LAS FRACCIONES VI, VII Y VIII DEL ARTÍCULO 2, TODOS DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 1 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 284. SE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
