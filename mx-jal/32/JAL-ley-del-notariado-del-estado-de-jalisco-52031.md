@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2019-11-23"
+last_updated: "2020-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -153,7 +153,9 @@ III. Los mencionados en las fracciones IV y V con la certificación expedida por
 
 IV. El de la fracción VI con las certificaciones expedidas por el notario ante quien se realizó la práctica notarial, y con las constancias que de ellas emitan tanto el Consejo de Notarios, como la Consejería Jurídica del Poder Ejecutivo del Estado, teniéndolas a la vista;
 
-V. La ausencia de impedimentos a que se refiere la fracción VII con el certificado expedido por la Secretaría de Salud del Estado;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+V. La ausencia de impedimentos a que se refiere la fracción VII con el certificado expedido por la Secretaría de Salud;
 
 VI. Lo indicado en la fracción VIII se acreditará con el certificado de no antecedentes penales expedido por el Instituto Jalisciense de Ciencias Forenses, así como la manifestación bajo protesta de decir verdad del solicitante;
 
@@ -1889,9 +1891,11 @@ II. El incumplimiento de obligaciones fiscales por parte del notario o de las pe
 
 III. La violación de lo establecido en la presente Ley, deberá hacerse del conocimiento de la Consejería Jurídica del Poder Ejecutivo del Estado para que determine lo procedente.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
 ###### Artículo 148.
 
-Los visitadores y demás servidores públicos que conozcan del contenido de las actas, están obligados a guardar el secreto profesional respecto de los actos y documentos inspeccionados, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los visitadores y demás servidores públicos que conozcan del contenido de las actas, están obligados a guardar el secreto profesional respecto de los actos y documentos inspeccionados, en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
@@ -2295,7 +2299,7 @@ Corresponde a la Dirección del Archivo de Instrumentos Públicos, el despacho d
 
 Para los efectos de esta Ley, la Dirección del Archivo de Instrumentos Públicos, tendrá a su cargo:
 
-I. La custodia de los libros de protocolo, de certificaciones, sus apéndices y soportes ordinarios o electrónicos de los notarios que hubiesen terminado su función en aquellos casos que esta ley prevé‚ así como de los notarios que estuvieren impedidos para actuar por licencia, incapacidad o sanción;
+I. La custodia de los libros de protocolo, de certificaciones, sus apéndices y soportes ordinarios o electrónicos de los notarios que hubiesen terminado su función en aquellos casos que esta ley prevé, así como de los notarios que estuvieren impedidos para actuar por licencia, incapacidad o sanción;
 
 II. La custodia de los duplicados de los instrumentos que los notarios le entreguen;
 
@@ -3086,3 +3090,9 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27523/LXII/19 QUE REFORMA EL ARTÍCULO 151 DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 2 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27841/LXII/20 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 10 Y 148 DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
