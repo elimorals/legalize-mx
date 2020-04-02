@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-servicios-de-15860"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-10"
-last_updated: "2018-12-05"
+last_updated: "2020-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD JALISCO"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 1997.
 
@@ -151,15 +151,21 @@ II. Del Ejecutivo del Gobierno del Estado, los titulares de las siguientes entid
 
 1. Secretaría General de Gobierno.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
-2. Secretaría de Finanzas, Planeación y Administración
+2. Secretaría de la Hacienda Pública
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2020)</small>
 
-3. Secretaría de Salud
+3. Secretaria de Administración
 
-4. Coordinación General del Comité para la Planeación del Desarrollo del Estado.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
+4. Secretaria de Salud
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 2 DE ABRIL DE 2020)</small>
+
+5. Coordinación General del Comité para la Planeación del Desarrollo del Estado.
 
 III. Conforme al Acuerdo de Coordinación:
 
@@ -356,3 +362,9 @@ CUARTO.- Dentro de los ciento veinte días a partir de la entrada en vigor de es
 QUINTO.- En un plazo de doce meses el Sistema Único de Información en Salud del Estado de Jalisco deberá iniciar su funcionamiento, por lo que la Secretaría de Salud Jalisco emitirá los lineamientos para su establecimiento, así como para mantenerlo actualizado.
 
 SEXTO.- El Consejo Estatal y sus consejeros seguirán en funciones y con las atribuciones contenidas en los artículos 7, 9 y 12 de la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia del Estado de Jalisco. El Ejecutivo del Estado deberá (sic) con noventa días, expedir la normativa que corresponda la permanencia y funcionamiento.
+
+P.O. 2 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27842/LXII/20 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 7° DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO SERVICIOS DE SALUD JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
