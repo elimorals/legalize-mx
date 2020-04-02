@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2019-12-28"
+last_updated: "2020-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -603,19 +603,11 @@ La pena de prisión produce la suspensión de los derechos políticos, así como
 
 Inmediatamente después de dictar auto de libertad, el juez informará del hecho a los titulares de la Fiscalía General, del Instituto Jalisciense de Ciencias Forenses y demás autoridades que corresponda, con la finalidad de restituir los derechos suspendidos en los términos del párrafo anterior y cancelar el registro para efectos de la emisión de la constancia de antecedentes penales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2017)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 2 DE ABRIL DE 2020)</small>
 
-Tratándose de sentencias por los delitos graves no procederá cancelación alguna.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2017)</small>
-
-Art. 30 bis. La constancia relativa a los antecedentes penales sólo se podrá extender en los siguientes supuestos:
-
-I. Cuando la soliciten las autoridades administrativas y judiciales competentes, para fines de investigación criminal, procesales o por requerimiento de autoridad judicial;
-
-II. Cuando sea solicitada por ser necesaria para ejercitar un derecho o cumplir un deber legalmente previstos; y
-
-III. En los casos específicos en los que la normatividad lo establezca como requisito para desempeñar un empleo, cargo o comisión en el servicio público, o bien para el ingreso a instituciones de seguridad pública o privada, así como cuando por la naturaleza del empleo o por razones de interés público se considere exigible.
+Art. 30 bis. La constancia relativa a los antecedentes penales se expedirá únicamente en los supuestos que establece la Ley Nacional de Ejecución Penal en su artículo 27 fracción IV.
 
 Dicha constancia será una compulsa de la ficha signalética.
 
@@ -6918,3 +6910,9 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27779/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 219 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27852/LXII/20 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII Y XIX Y ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 5° DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA; LAS FRACCIONES VII Y XIII, Y ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y REFORMAN LOS ARTÍCULOS 30 Y 30 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO SE REFORMA FRACCIÓN V DEL ARTÍCULO 26 Y FRACCIÓN III INCISO A NUMERAL 10 DEL ARTÍCULO 40 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
