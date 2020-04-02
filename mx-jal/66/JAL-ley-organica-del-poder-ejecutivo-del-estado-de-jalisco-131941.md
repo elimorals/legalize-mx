@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2019-10-08"
+last_updated: "2020-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE OCTUBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO 27342/LXII/19 PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -1561,7 +1559,9 @@ V. Vigilar y verificar, a través de las visitas de inspección, el cumplimiento
 
 VI. Prevenir, investigar y sancionar en los términos de la normatividad aplicable en el ámbito de sus competencias, las violaciones a la normatividad en materia de trabajo en el Estado;
 
-VII. Vigilar de forma conjunta con la Secretaría de Igualdad Sustantiva, que no exista discriminación laboral por cualquier motivo, por parte de patrones o empleadores, promoviendo entre estos últimos la igualdad y la no discriminación tanto en la oferta de empleos como en la estabilidad, remuneración y desarrollo laboral, y en su caso y reparar las violaciones a los derechos humanos en materia de discriminación laboral motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+VII. Vigilar de forma conjunta con la Secretaría de Igualdad Sustantiva entre mujeres y hombres que no exista discriminación laboral por cualquier motivo, por parte de patrones o empleadores, promoviendo entre estos últimos la igualdad y la no discriminación tanto en la oferta de empleos, como en la estabilidad, remuneración y desarrollo laboral, y en su caso reparar las violaciones a los derechos humanos en materia de discriminación laboral motivada por el origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, los antecedentes penales, o cualquier otra que atente contra la dignidad humana;
 
 VIII. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo del Estado y promover su verificación a través de visitas de inspección;
 
@@ -1585,9 +1585,17 @@ XI. Realizar las funciones de inspección de jurisdicción estatal y vigilar el 
 
 XII. Operar el Padrón de Jornaleros Agrícolas con el objetivo de identificar la fuerza laboral agrícola en la entidad, para lo cual podrá coordinarse mediante Convenio de Colaboración con los municipios del Estado de Jalisco; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2020)</small>
 
-XIII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XIII. Difundir entre los patrones y empleadores el derecho de las personas a acceder a oportunidades de trabajo sin ser condicionadas a no tener antecedentes penales, en los términos de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+XIV. Evitar, a través de acciones de inspección y vigilancia, que los empleadores y patrones soliciten como requisitos en el empleo, que los trabajadores no tengan antecedentes penales, en los casos en que la naturaleza del empleo no lo requiera; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2020)</small>
+
+XV. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 33.
 
@@ -2980,3 +2988,9 @@ PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se exhorta al Gobernador Constitucional del Estado, a realizar las adecuaciones a los reglamentos correspondientes, conforme a las reformas del presente decreto.
 
 TERCERO. La Secretaría de Seguridad, por medio de la Policía Vial, contará con un plazo de hasta 60 días contados a partir de la entrada en vigencia del presente decreto, para realizar las adecuaciones administrativas correspondientes.
+
+P.O. 2 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27852/LXII/20 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII Y XIX Y ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 5° DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA; LAS FRACCIONES VII Y XIII, Y ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y REFORMAN LOS ARTÍCULOS 30 Y 30 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO SE REFORMA FRACCIÓN V DEL ARTÍCULO 26 Y FRACCIÓN III INCISO A NUMERAL 10 DEL ARTÍCULO 40 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
