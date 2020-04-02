@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2019-05-18"
+last_updated: "2020-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1645,6 +1645,10 @@ XIII. Los demás que el Congreso del Estado determine en atención a las condici
 
 Los Municipios deben expedir los ordenamientos municipales que regulen la prestación de estos servicios.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2020)</small>
+
+La regulación de Mercados y Centrales de Abastos será con un enfoque de sustentabilidad social, que fomente la promoción económica y cultural y garantice instalaciones dignas y seguras de los espacios comerciales.
+
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 94
@@ -2011,9 +2015,25 @@ III. Promover en los habitantes y propietarios de las colonias, barrios, centros
 
 Cuando los vecinos no tengan la capacidad económica para pagar los gastos para constituir personas jurídicas, el Ayuntamiento que corresponda promoverá por conducto del Colegio de Notarios, la presentación de los servicios de constitución y formalización de las personas jurídicas, sin costo para los interesados;
 
-IV. Proporcionar a las personas jurídicas con funciones de representación ciudadana y vecinal la información municipal que requieran para el desarrollo de sus actividades; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
 
-V. Las demás que les confiere esta ley, los reglamentos municipales respectivos y los estatutos de las personas jurídicas con funciones de representación ciudadana y vecinal.
+IV. Proporcionar a las personas jurídicas con funciones de representación ciudadana y vecinal la información municipal que requieran para el desarrollo de sus actividades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2020)</small>
+
+V. Capacitar a los ciudadanos que han sido electos para conformar los órganos de participación social, tales como lo son las Asociaciones Vecinales, Mesas Directivas de Condominios, Asociaciones Civiles con funciones de representación vecinal, Sociedades Cooperativas con funciones de representación social y Comités Vecinales, en al menos los siguientes temas:
+
+a) Estructura de la administración pública de los tres órdenes de gobierno;
+
+b) Mecanismos de rendición de cuentas y transparencia; y
+
+c) Los mecanismos de participación social en la toma de decisiones y de presentación de propuestas.
+
+Así mismo, deberá dotar de materiales impresos o digitales, los cuales contendrán de manera resumida y de fácil comprensión la información que se brinde en la capacitación; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2020)</small>
+
+VI. Las demás que les confiere esta ley, los reglamentos municipales respectivos y los estatutos de las personas jurídicas con funciones de representación ciudadana y vecinal.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
@@ -2800,3 +2820,11 @@ P.O. 18 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27273/LXII/19 QUE REFORMA EL ARTÍCULO 100 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco"
+
+P.O. 2 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27839/LXII/20 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 94 Y 123 DE LA LEY DE GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Exhortar a los municipios enlistados dentro del artículo 4° de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, a elaborar lineamientos enfocados en mecanismos de rendición de cuentas y transparencia los cuales servirán para capacitar a los ciudadanos contemplados en el artículo 123 de la presente reforma.
