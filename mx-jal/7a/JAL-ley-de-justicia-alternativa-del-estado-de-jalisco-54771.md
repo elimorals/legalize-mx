@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2019-08-29"
+last_updated: "2020-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -825,15 +825,13 @@ De presentarse algún inconveniente en la entrega de la invitación en los térm
 
 En caso de que la invitación sea recibida por un familiar, vecino o compañero de trabajo de la persona invitada, se asentará constancia de esta circunstancia para ser anexada al legajo correspondiente.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
 ###### Artículo 53.
 
-Cuando alguna de las partes no concurra a la entrevista inicial, se podrá girar otra invitación a petición expresa de la parte que si asistió; si alguno de los participantes, o ambos, no acude por segunda ocasión a la invitación sin causa justificada, se le impondrá una multa equivalente de cinco a sesenta veces el valor diario de la Unidad de Medida y Actualización, salvo que manifieste por escrito su voluntad de no someterse a los métodos alternos, y se archivará la solicitud, sin perjuicio de que lo soliciten posteriormente de común acuerdo. Si ninguna de las partes asiste a la primera cita sin causa justificada, la solicitud se archivará sin mayor trámite.
+Cuando alguna de las partes no concurra a la entrevista inicial, se podrá girar otra invitación a petición expresa de la parte que si asistió; si ninguna de las partes asiste a la entrevista inicial sin causa justificada, la solicitud se archivará sin mayor trámite.
 
-Para los efectos de lo establecido en el párrafo anterior, los centros públicos y privados que presten servicios en métodos alternos, en su caso, deberán informar por escrito al Instituto de Justicia Alternativa la inasistencia por segunda ocasión a la invitación de cualquiera de los participantes, para que por su conducto se imponga la multa correspondiente o la inasistencia de ambos a la primera cita sin causa justificada, con el objeto de proceder a su archivo inmediato.
-
-La multa a que se refiere este artículo, se hará efectiva conforme a lo previsto por el artículo 89 de la presente ley.
+Para los efectos de lo establecido en el párrafo anterior, los centros públicos y privados que presten servicios en métodos alternos, en su caso, deberán informar por escrito al Instituto de Justicia Alternativa de las inasistencias por segunda ocasión.
 
 ###### Artículo 54.
 
@@ -1382,5 +1380,11 @@ P.O. 17 DE NOVIEMBRE DE 2018.
 P.O. 29 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27327/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4°, 8°, 15, 24, 27, 29, 85, 86, 89, Y 91 DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27807/LXII/20 QUE REFORMA EL ARTÍCULO 53 DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
