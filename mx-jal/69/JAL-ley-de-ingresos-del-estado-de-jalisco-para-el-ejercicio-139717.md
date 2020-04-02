@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-139717"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-27"
-last_updated: "2020-03-20"
+last_updated: "2020-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
 
 Ley publicada en el Número 40 Ter de la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 27 de diciembre de 2019.
 
@@ -1531,7 +1531,9 @@ n) Expedición de copias certificadas de documentos, por cada hoja tamaño carta
 
 o) Por cualquier otra certificación o expedición de constancias distintas a las señaladas: $177.00
 
-V. Copias certificadas de constancias de inexistencia de antecedentes penales: $27.00
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+V. Copias certificadas de constancias de antecedentes penales: $27.00
 
 VI. Otras copias certificadas, por cada hoja: $26.00
 
@@ -1833,11 +1835,11 @@ Las personas físicas o jurídicas que usen, gocen, aprovechen o exploten toda c
 
 De los Productos Diversos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2020)</small>
+
 ###### Artículo 40.
 
-La hacienda estatal de acuerdo con lo establecido en la Ley de Hacienda del Estado de Jalisco, puede percibir los productos
-
-derivados de:
+La hacienda estatal, de acuerdo con lo establecido en la Ley de Hacienda del Estado de Jalisco, puede percibir los productos derivados de:
 
 I. la venta de códigos, leyes o reglamentos, en folletos por cada uno:
 
@@ -1919,7 +1921,9 @@ Se exenta del cobro de los formatos para el levantamiento de los actos del Regis
 
 9. Forma de orden de sacrificio de ganado: $18.00
 
-10. Formato digitalizado para constancias de inexistencia de antecedentes penales: $70.00
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
+10. Formato digitalizado para constancias de antecedentes penales: $40.00
 
 11. Expedición o reposición de tarjeta de tránsito pecuario individual, con vigencia de 2 años: $177.00
 
@@ -2354,3 +2358,9 @@ P.O. 20 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27885/LXII/20 QUE REFORMA EL ARTÍCULO 23 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2020; LA CUAL TIENE POR OBJETO AMPLIAR EL PLAZO DE PAGO DEL REFRENDO HASTA EL ÚLTIMO DÍA HÁBIL DEL MES DE MAYO 2020; ASÍ COMO INCENTIVAR EL TRÁMITE A TRAVÉS DE MEDIOS ELECTRÓNICOS DE INTERNET, OTORGANDO UN DESCUENTO DEL 5% A LOS PAGOS EN LÍNEA QUE SE REALICEN DURANTE LOS MESES DE ABRIL Y MAYO 2020".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27852/LXII/20 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII Y XIX Y ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 5° DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENCE DE CIENCIAS FORENCES, DR. JESÚS MARIO RIVAS SOUZA; LAS FRACCIONES VII Y XIII, Y ADICIONAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y REFORMAN LOS ARTÍCULOS 30 Y 30 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO SE REFORMA FRACCIÓN V DEL ARTÍCULO 26 Y FRACCIÓN III INCISO A NUMERAL 10 DEL ARTÍCULO 40 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
