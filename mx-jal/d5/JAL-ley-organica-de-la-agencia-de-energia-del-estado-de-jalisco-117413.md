@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-agencia-de-energia-del-estado-de-jalisco-117
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-26"
-last_updated: "2019-05-11"
+last_updated: "2020-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
 
 Ley publicada en la Sección LIII del Periódico Oficial del Estado de Jalisco, el sábado 26 de noviembre de 2016.
 
@@ -41,9 +41,11 @@ Se expide la Ley Orgánica de la Agencia de Energía del Estado de Jalisco, para
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente ley tiene por objeto crear la Agencia de Energía del Estado de Jalisco como un Organismo Público Descentralizado del Poder Ejecutivo del Estado de Jalisco; dotado de personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Innovación, Ciencia y Tecnología.
+La presente ley tiene por objeto crear la Agencia de Energía del Estado de Jalisco como un Organismo Público Descentralizado del Poder Ejecutivo del Estado de Jalisco; dotado de personalidad jurídica y patrimonio propios.
 
 ###### Artículo 2.
 
@@ -59,31 +61,47 @@ IV. Junta de Gobierno: la Junta de Gobierno de la Agencia de Energía del Estado
 
 V. Ley: la Ley Orgánica de la Agencia de Energía del Estado de Jalisco; y
 
-VI. Secretaría: la Secretaría de Innovación, Ciencia y Tecnología del Estado de Jalisco.
+VI. (DEROGADA, P.O. 2 DE ABRIL DE 2020)
 
 ### Capítulo II. De las Funciones de la Agencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2020)</small>
+
 ###### Artículo 3.
 
-La Agencia tiene como objetivos impulsar, fomentar, coordinar, cooperar y coadyuvar en el desarrollo de las acciones públicas y privadas relacionadas con la generación y el uso eficiente de la energía en el Estado, privilegiando la preservación y restauración del equilibrio ecológico, así como la protección al medio ambiente coordinando el desarrollo y ejecución de la política y estrategia energética del Estado, en colaboración con diversas entidades públicas y privadas.
+La Agencia tiene como objetivos impulsar, fomentar, coordinar, cooperar y coadyuvar en el desarrollo de las acciones públicas y privadas relacionadas con la generación y el uso eficiente de la energía en el Estado, privilegiando aquellas acciones que permitan incrementar la competitividad económica y la seguridad energética del Estado, así como la preservación y restauración del equilibrio ecológico y la protección al medio ambiente, coordinando el desarrollo y ejecución de la política y estrategia energética del Estado, en colaboración con diversas entidades públicas y privadas.
 
 Para cumplir con los objetivos descritos anteriormente, la Agencia tendrá las siguientes funciones:
 
-I. Fomentar la generación, distribución y uso eficiente de la energía en el Estado en los sectores público y privado;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
 
-II. Contribuir al desarrollo y divulgación de información técnica en la materia;
+I. Fomentar la generación, almacenaje, distribución, consumo y uso eficiente de la energía en el Estado en los sectores público y privado;
 
-III. Promover el desarrollo tecnológico local y regional bajo en carbono, en el corto, mediano y largo plazo;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
 
-IV. Colaborar en la vinculación entre los agentes claves del sector energético;
+II. Contribuir al desarrollo y divulgación de información técnica en la materia, especialmente en los sectores productivos del Estado;
 
-V. Generar, así como atraer inversión pública y privada, nacional e internacional en proyectos energéticos, privilegiando los relacionados con las energías limpias;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+III. Promover el desarrollo de una infraestructura energética local y regional baja en carbono, en el corto, mediano y largo plazo;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+IV. Colaborar y facilitar la vinculación entre los agentes claves del sector energético, pudiendo fungir como intermediario financiero o comercial, con facultades para participar como generador y comercializador de energía eléctrica;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+V. Generar, así como atraer inversión pública y privada, nacional e internacional en proyectos energéticos, privilegiando aquellos que representen un incremento más significativo en la competitividad económica del Estado, bajo la visión de energías limpias;
 
 VI. Desarrollar información técnica para la planeación energética;
 
-VII. Formular y actualizar la política y estrategia energética estatal;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
 
-VIII. Investigar, así como promover la investigación y desarrollo tecnológico para una mayor eficiencia energética y aprovechamiento de los recursos renovables;
+VII. Formular, actualizar y ejecutar la política y estrategia energética estatal;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+VIII. Investigar, así como promover la implementación de nuevas tecnologías que incrementen la eficiencia energética y aprovechamiento de los recursos renovables;
 
 IX. Entregar apoyos, o en su caso, gestionarlos enfocados en el área de energía limpia para:
 
@@ -93,7 +111,9 @@ b) La adquisición o desarrollo de equipo, instrumentos y materiales;
 
 c) La formación y capacitación de recursos humanos especializados;
 
-d) La realización de proyectos de modernización, innovación y desarrollo tecnológicos;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
+d) La realización de proyectos de modernización, innovación y desarrollo tecnológico energético del Estado;
 
 e) La investigación, estudio y divulgación de las energías renovables y la eficiencia energética;
 
@@ -111,7 +131,9 @@ k) Cualquier otra actividad que sea congruente con el fin y funciones de la Agen
 
 X. Fomentar alianzas nacionales e internacionales entre los sectores públicos, privados, sociales y académicos;
 
-XI. Llevar acabo o, en su caso, apoyar en la realización de foros, conferencias y exposiciones en materia de energía;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+XI. Llevar acabo (sic) y apoyar en la realización de foros, conferencias, exposiciones y mesas de trabajo en materia de energía, con la participación de los sectores público, privado, académico y social;
 
 XII. Proponer carreras, planes de estudio y perfiles de los recursos humanos necesarios para el desarrollo del sector;
 
@@ -119,7 +141,9 @@ XIII. Actuar como enlace de proyectos para direccionar, asesorar y vincular con 
 
 XIV. Generar información técnica para la realización de proyectos energéticos con énfasis en la eficiencia, generación y distribución de energía;
 
-XV. Desarrollar estándares energéticos para los diversos sectores productivos;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+XV. Coadyuvar, cuando le sea requerido, en la formulación de normatividad en materia energética, orientadas a la generación, ahorro y uso eficiente de la energía para los diversos sectores productivos;
 
 XVI. Coadyuvar en la identificación de fuentes de financiamiento y gestionar el capital para el desarrollo de proyectos;
 
@@ -155,11 +179,39 @@ XXXI. Impulsar y promover entre los ayuntamientos del Estado y los integrantes d
 
 XXXII. Establecer las bases para que los recursos, inversiones, proyectos o apoyos que en el ejercicio de sus funciones ejecute, ejerza, gestione, otorgue o coadyuve para que sean destinados preferentemente a la generación de energías, obtenidas sin que se causen daños al ambiente o las áreas naturales protegidas;
 
-XXXIII. Fomentar entre la población la adquisición de tecnologías limpias;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
 
-XXXIV. Gestionar ante la Federación la asignación de subsidios o de financiamientos, en beneficio de la población de Jalisco, para que puedan adquirir tecnologías limpias; y
+XXXIII. Fomentar entre la población la adquisición y uso de tecnologías limpias;
 
-XXXV. Las demás funciones que se le fijen mediante la presente ley, o sean inherentes al cumplimiento de sus fines, de acuerdo con el programa de trabajo que sea aprobado por la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+XXXIV. Gestionar la asignación de subsidios o de financiamientos, en beneficio de la población de Jalisco, para que puedan adquirir tecnologías limpias;
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+XXXV. Elaborar, aprobar y ejecutar un plan Estatal de Energía, en colaboración con el consejo consultivo y los sectores, industrial, social y académico;
+
+El Plan Estatal de Energía deberá ser dinámico e innovador con objetivos a corto, mediano y largo plazo; deberá establecer metas anuales y estar diseñado bajo estrictos indicadores de medición sobre avances y resultados basado en los principios rectores de suficiencia, eficiencia y transición energética y con el fin de facilitar la planificación de un Estado más sustentable, limpio, seguro y eficiente en materia energética.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2020)</small>
+
+XXXVI. Fomentar la competitividad energética de Jalisco y el desarrollo económico del sector, mediante la realización de actividades comerciales dentro de la cadena de valor de la industria energética;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2020)</small>
+
+XXXVII. Impulsar las acciones encaminadas a garantizarla (sic) suficiencia, eficiencia y transición energética, la creación de políticas energéticas innovadoras, el fomento al financiamiento de proyectos de generación de energía sustentable y limpia, la modernización de las redes de transmisión, así como el crecimiento en la investigación y el desarrollo de nuevas tecnologías para el uso eficiente y el aprovechamiento sustentable de la energía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2020)</small>
+
+XXXVIII. Proponer al Titular del Poder Ejecutivo, por conducto de la Dependencia a que se encuentre sectorizada, cambios en la legislación y los reglamentos, que propicien la generación, almacenaje, distribución, consumo y uso eficiente de energías;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2020)</small>
+
+XXXIX. Promover una cultura de generación y consumo de energías limpias; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2020)</small>
+
+XL. Las demás funciones que se le fijen mediante la presente ley, otros ordenamientos jurídicos o sean inherentes al cumplimiento de sus fines, de acuerdo con el programa de trabajo aprobado por la Junta de Gobierno.
 
 ### Capítulo III. De la Integración y Funcionamiento de la Agencia
 
@@ -181,7 +233,9 @@ La Agencia contará con un Consejo Consultivo en los términos del presente orde
 
 La Junta de Gobierno de la Agencia, es su Órgano máximo de gobierno y se integra por:
 
-I. Un Presidente, mismo que será el Secretario de Innovación, Ciencia y Tecnología del Estado, o la persona que él designe;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+I. Un Presidente, que será designado por el Titular del Poder Ejecutivo del Estado de Jalisco;
 
 II. Un Secretario Ejecutivo, que será el Director;
 
@@ -189,15 +243,29 @@ III. Como vocales, los titulares o sus respectivos representantes de las siguien
 
 a) Del Ejecutivo del Gobierno del Estado:
 
-1. Secretaría de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
-2. Secretaría de Medio Ambiente y Desarrollo Territorial;
+1. Coordinación General Estratégica de Crecimiento y Desarrollo Económico;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
-3. Secretaría de la Hacienda Pública; y
+2. Secretaría de Desarrollo Económico;
 
-4. Contraloría del Estado.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
+3. Secretaría de Innovación, Ciencia y Tecnología;
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
+4. Secretaría de Medio Ambiente y Desarrollo Territorial;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2020)</small>
+
+5. Secretaría de la Hacienda Pública; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2020)</small>
+
+6. Contraloría del Estado.
 
 b) Del Consejo Consultivo:
 
@@ -299,7 +367,9 @@ I. Ser de nacionalidad mexicana;
 
 II. Haber nacido en el estado de Jalisco o tener residiendo en el estado mínimo cinco años consecutivos inmediatos anteriores a su designación;
 
-III. Contar con el grado mínimo de posgrado en áreas afines a la energía, políticas públicas o desarrollo económico;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+III. Contar con título profesional de Licenciatura debidamente registrado ante autoridad competente;
 
 IV. Ser bilingüe; y
 
@@ -355,41 +425,43 @@ XXII. Supervisar y vigilar la debida observancia de la presente Ley, el Reglamen
 
 XXIII. Las demás que se le sean conferidas en la presente Ley, en otras disposiciones jurídicas aplicables o por acuerdo de la Junta de Gobierno.
 
-### Capítulo V. Del Órgano de Control y Vigilancia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2020)</small>
+
+### Capítulo V. Del Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
 ###### Artículo 16.
 
-La Agencia contará con un Órgano Interno de Control y Vigilancia integrado por un Comisario Público propietario y un suplente, designados ambos por la Contraloría del Estado de Jalisco.
+La Agencia contará con un Órgano Interno de Control cuyo titular será designado por la Contraloría del Estado de Jalisco.
 
-El titular del Órgano Interno de Control y Vigilancia ejercerá sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado, la Ley de Responsabilidades de los Servidores Públicos para el Estado de Jalisco y sus Municipios, el Reglamento Interior de la Contraloría del Estado de Jalisco y demás disposiciones aplicables.
+El titular del Órgano Interno de Control ejercerá sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado, la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, el Reglamento Interior de la Contraloría del Estado de Jalisco y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
 ###### Artículo 17.
 
-Son atribuciones del Órgano Interno de Control y Vigilancia:
-
-I. Vigilar el cumplimiento de los objetivos de la Agencia, mediante la verificación del avance programático de sus planes y programas, del informe de avances de gestión financiera y del análisis de los informes solicitados;
-
-II. Verificar que los actos de sus servidores públicos se ajusten a las disposiciones legales y administrativas aplicables;
-
-III. Supervisar el desarrollo eficiente y eficaz de los planes y programas de la Agencia, sus sistemas, procedimientos, recursos y responsabilidades, utilizando metodologías de medición para la evaluación del desempeño de la gestión pública;
-
-IV. Promover medidas y acciones tendientes a prevenir irregularidades y brindar transparencia en las funciones de la Agencia; y
-
-V. Las demás que establezcan el reglamento interno de la Contraloría del Estado de Jalisco y otros ordenamientos aplicables.
+Son atribuciones del Órgano Interno de Control las previstas en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ### Capítulo VI. Del Consejo Consultivo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2020)</small>
+
 ###### Artículo 18.
 
-El Consejo Consultivo, es el órgano auxiliar de consulta de la Agencia, el cual estará integrado, previa invitación y aceptación de los miembros propuestos, de la siguiente forma:
+El Consejo Consultivo, es el órgano auxiliar de consulta de la Agencia, que desarrolla sus funciones bajo tres áreas, hidrocarburos, energía eléctrica y eficiencia energética, y se integrará, previa invitación y aceptación de los miembros propuestos, de la siguiente forma:
 
 I. El Director quien lo presidirá y fungirá como Secretario Técnico;
 
-II. Un representante de cada uno de los siguientes organismos gubernamentales:
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE ABRIL DE 2020)</small>
+
+II. Un representante de cada uno de los siguientes organismos gubernamentales;
 
 a) Centro Nacional de Control de Energía; e
 
-b) Instituto Metropolitano de Planeación del área Metropolitana de Guadalajara.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
+b) Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana de Guadalajara;
 
 III. Un representante de cada una de las siguientes instituciones educativas:
 
@@ -397,29 +469,69 @@ a) Universidad de Guadalajara;
 
 b) Universidad Autónoma de Guadalajara;
 
-c) Centro de Investigación y Asistencia Tecnológica de Jalisco;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
-d) Instituto Tecnológico de Estudios Superiores de Occidente;
+c) Instituto Tecnológico de Estudios Superiores de Occidente;
 
-e) Instituto Tecnológico y de Estudios Superiores de Monterrey, campus Guadalajara;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
-f) Universidad Panamericana; y
+d) Instituto Tecnológico y de Estudios Superiores de Monterrey;
 
-g) Universidad del Valle de México.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
-IV. Un representante del sector empresarial, por cada una de las siguientes:
+e) Universidad Panamericana;
 
-a) Cámara Regional de la Industria de la Transformación del Estado de Jalisco;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
-b) Cámara Nacional de la Industria Electrónica, de Telecomunicaciones y Tecnologías de la Información; y
+f) Universidad del Valle de México; y
 
-c) Consejo de Cámaras Industriales de Jalisco.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
 
-V. Un representante del Colegio de Ingenieros Mecánicos y Electricistas de Jalisco; y
+g) Centro de Investigación y Asistencia Tecnológica de Jalisco.
 
-VI. Otras instituciones o dependencias que, por su importancia en la incursión en el campo de la ciencia y tecnología, se considere útil su participación a propuesta del Secretario Técnico.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE ABRIL DE 2020)</small>
 
-El cargo de integrante del Consejo Consultivo es de carácter honorífico y por tanto no remunerado.
+IV. Un representante por cada uno de los siguientes organismos:
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
+a) Consejo de Cámaras Industriales de Jalisco;
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
+b) Cámara Nacional de Autotransporte de Carga;
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
+c) Asociación Mexicana de Empresarios Gasolineros A. C.;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2020)</small>
+
+d) Cámara Regional de la Industria de la Transformación del Estado de Jalisco;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2020)</small>
+
+e) Cámara Nacional de la Industria Electrónica, de Telecomunicaciones y Tecnologías de la Información;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2020)</small>
+
+f) Asociación Mexicana de Ingenieros Mecánicos y Electricistas;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2020)</small>
+
+g) Colegio de Ingenieros Mecánicos y Electricistas de Jalisco;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2020)</small>
+
+h) Asociación de Normalización y Certificación A. C.; y
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN VI], P.O. 2 DE ABRIL DE 2020)</small>
+
+V. Otras instituciones o dependencias que, por su importancia en la incursión en el campo de la ciencia y tecnología, se considere útil su participación a propuesta del Secretario Técnico.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
+Los cargos en el Consejo Consultivo son de carácter honorífico y por tanto no remunerado.
 
 ###### Artículo 19.
 
@@ -503,9 +615,11 @@ Se considera de interés público y utilidad social las actividades de moderniza
 
 En la aplicación de los instrumentos y apoyos previstos en la presente ley, la Agencia dará especial atención a los proyectos que tiendan a la generación local de energía con énfasis en energías limpias y a la eficiencia energética.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
 ###### Artículo 27.
 
-Entre las acciones permanentes que debe ejecutar la Agencia, y cuya consecución deberá ser garantizada con los recursos, el personal y la infraestructura adecuada, se encuentran la asesoría, capacitación y prestación de servicios que propicien el uso intensivo de conocimiento y tecnología en los procesos productivos, así como el establecimiento de normas de calidad y la certificación.
+Entre las acciones permanentes que debe ejecutar la Agencia, y cuya consecución deberá ser garantizada con los recursos, el personal y la infraestructura adecuada, se encuentran su participación en la cadena de valor de la industria energética, la asesoría, capacitación y prestación de servicios que propicien el uso intensivo de conocimiento y tecnología en los procesos productivos, actividades regulativas y la certificación.
 
 ### Capítulo IX. De las Áreas Naturales Protegidas
 
@@ -525,9 +639,11 @@ II. Cuando su funcionamiento no resulte viable financieramente o sea innecesario
 
 III. Las causas establecidas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
 ###### Artículo 30.
 
-Las relaciones laborales entre la Agencia y su personal se rigen por la ley estatal en materia de servidores públicos y su reglamento interno, conforme a lo dispuesto por la Constitución Política del Estado de Jalisco y demás disposiciones aplicables.
+Las relaciones laborales entre la Agencia y sus trabajadores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
 T R A N S I T O R I O S
 
@@ -596,3 +712,11 @@ P.O. 11 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27266/LXII/19, QUE REFORMA EL ARTÍCULO 8° DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “BOSQUE LA PRIMAVERA”; EL ARTÍCULO 26 FRACCIÓN IV DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; EL ARTÍCULO 5° FRACCIÓN IV DE LA LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 2 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27844/LXII/20 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1°, 2°, 3°, 5°, 14, 16, 17, 18, 27 Y 30, Y LA DENOMINACIÓN DEL CAPÍTULO V DE LA LEY ORGÁNICA DE LA AGENCIA DE ENERGÍA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se autoriza al titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública y de la Secretaría de Administración para realizar las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento del presente decreto.
