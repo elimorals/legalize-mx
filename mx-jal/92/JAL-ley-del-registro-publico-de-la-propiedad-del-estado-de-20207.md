@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2019-11-26"
+last_updated: "2020-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -229,7 +229,9 @@ IX. Orientar a los usuarios de la institución en áreas de su competencia;
 
 X. Proponer a la Dirección las medidas que estime necesarias para el mejor logro de los objetivos de la Institución;
 
-XI. Autorizar los permisos eventuales de los empleados para dejar de asistir a sus labores por causas justificadas de acuerdo a lo establecido en la Ley de Servidores Públicos;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+XI. Autorizar los permisos eventuales de los empleados para dejar de asistir a sus labores por causas justificadas de acuerdo a lo establecido en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
 
 XII. Determinar la actividad a desarrollar por el personal a su cargo según las necesidades que demande la Institución;
 
@@ -317,9 +319,9 @@ VI. Efectuar los trámites necesarios para el pago de viáticos para el personal
 
 VII. Coordinar y controlar el uso de los bienes muebles y arrendamientos de inmuebles ocupados por oficinas registrales así como material y equipo asignados a las oficinas;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
 
-VIII. Establecer en coordinación con la Secretaría de Planeación, Administración y Finanzas y la Dirección General el Programa anual de capacitación y desarrollo de personal; y
+VIII. Establecer en coordinación con la Secretaría de Administración y la Dirección General el Programa Anual de Capacitación y Desarrollo de Personal; y
 
 IX. Las demás funciones asignadas por el Director General.
 
@@ -607,15 +609,17 @@ XXVI. La constitución y administración de la copropiedad de inmuebles, así co
 
 XXVII. La fusión de inmuebles;
 
-XXVIII. La subdivisión de inmuebles en lotes o fracciones que se realicen de conformidad con la Ley de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
+
+XXVIII. La subdivisión de inmuebles en lotes o fracciones que se realicen de conformidad con el Código Urbano para el Estado de Jalisco;
 
 XXIX. Las afectaciones agrarias a que se refiere la Ley de la materia;
 
 XXX. Los contratos de explotación forestal;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2020)</small>
 
-XXXI. La disposición contenida en el artículo 1893 del Código y la consolidación de usufructo;
+XXXI. La consolidación de usufructo;
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
@@ -821,15 +825,15 @@ Se inscribirán en esta sección todos los actos o hechos jurídicos que por su 
 
 Los testamentos ológrafos serán depositados en los términos que dispone el Código.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
 ###### Artículo 55.
 
 El registrador deberá autorizar un libro o medio especial de registro de testamentos ológrafos, para los efectos previstos en el Código y proveerá lo necesario, bajo su responsabilidad, para la debida custodia del ejemplar del testamento depositado, hasta su entrega al mismo testador o al juez competente.
 
-De la misma forma el Registro llevará mediante índices el control de los inmuebles sujetos a la disposición que señala el artículo 1893 del Código.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2014)</small>
-
-Artículo 55 bis.- Dentro de los cinco días siguientes al depósito o retiro de los testamentos ológrafos en el Registro Público de la Propiedad, el encargado dará aviso por escrito al Archivo de Instrumentos y a la Fiscalía General del Estado acerca de dicha circunstancia.
+Artículo 55 bis.- Dentro de los cinco días siguientes al depósito o retiro de los testamentos ológrafos en el Registro Público de la Propiedad, el encargado dará aviso por escrito al Archivo de Instrumentos y a la Fiscalía Estatal acerca de dicha circunstancia.
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2007)</small>
 
@@ -1131,9 +1135,11 @@ Si el opositor deja transcurrir seis meses sin promover en el juicio de oposici�
 
 Transcurridos cinco años, contados desde la fecha del registro, sin que en la Institución aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el Juez competente declare que se ha convertido en propietario en virtud de la usucapión, y ordene que se haga el registro correspondiente.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
 ###### Artículo 92.
 
-En caso de bienes que hayan sido objeto de subdivisión deberá estarse a los (sic) dispuesto en la Ley de Desarrollo Urbano y demás disposiciones aplicables.
+En caso de bienes que hayan sido objeto de subdivisión deberá estarse a lo dispuesto en el Código Urbano para el Estado de Jalisco y demás disposiciones aplicables.
 
 ### CAPITULO VII. DEL REGISTRO Y REVOCACION DE MANDATOS Y PODERES
 
@@ -1193,9 +1199,11 @@ c) Inmueble materia de la operación, señalando sus antecedentes registrales.
 
 El Registrador anotará de inmediato la solicitud a que se refiere el artículo anterior, señalando día y hora de la presentación y expedirá al interesado un certificado que incluya el aviso cautelar, con sus limitaciones y gravámenes si los hubiere.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2020)</small>
+
 ###### Artículo 101.
 
-Los efectos de la inmovilidad registral, no producen ningún derecho contractual y durarán cuarenta y cinco días hábiles, contados a partir del día y hora de la expedición del aviso ante el registrador, término que se debe considerar adicionalmente al que concede el aviso preventivo regulado en la Ley del Notariado.
+Los efectos de la inmovilidad registral, no producen ningún derecho contractual y durarán cuarenta y cinco días hábiles, contados a partir del día y hora de la expedición del aviso ante el registrador, término que se debe considerar adicionalmente al que concede el aviso preventivo regulado en la Ley del Notariado del Estado de Jalisco.
 
 ###### Artículo 102.
 
@@ -1632,3 +1640,11 @@ P.O. 26 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27522/LXII/19 QUE REFORMA EL ARTÍCULO 147 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27840/LXII/20 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 12, FRACCIÓN VIII DEL ARTÍCULO 15, FRACCIONES XXVIII Y XXXI DEL ARTÍCULO 38, ARTÍCULO 55, ARTÍCULO 55 BIS, ARTÍCULO 92 Y ARTÍCULO 101 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se exhorta al Poder Ejecutivo a realizar la reforma correspondiente al Reglamento de la Ley del Registro Público de la Propiedad del Estado de Jalisco, con motivo de los cambios a la Ley del Registro Público de la Propiedad.
