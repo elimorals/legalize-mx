@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-bienestar-animal-del-estado-de-puebla-127134"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2018-03-16"
+last_updated: "2020-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2020.
 
 Ley publicada en la Tercera Sección del Número 17 al Periódico Oficial del Estado de Puebla, el lunes 26 de febrero de 2018.
 
@@ -137,7 +137,9 @@ XXXIV. Perro guía: aquél adiestrado por personal capacitado, a efecto de coady
 
 XXXV. Sacrificio humanitario: acto que provoca la muerte sin sufrimiento de los animales por métodos físicos o químicos;
 
-XXXVI. Secretaría: Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
+
+XXXVI. Secretaría: Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
 XXXVII. Tienda de mascotas: establecimiento comercial, en el que se realiza la exhibición y venta de animales de compañía, de productos o aditamentos para su cuidado, así como su aseo y cuidado estético, y
 
@@ -161,7 +163,9 @@ La Secretaría está facultada para la emisión de los lineamientos necesarios p
 
 Son autoridades competentes para aplicar la presente Ley:
 
-I. La Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
+
+I. La Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
 II. La Secretaría de Seguridad Pública;
 
@@ -171,9 +175,11 @@ IV. La Secretaría de Educación Pública, y
 
 V. Los Ayuntamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 8.
 
-Corresponde a la Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial, el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial, el ejercicio de las siguientes atribuciones:
 
 I. Formular la política estatal en materia de bienestar animal, conservación y aprovechamiento de la fauna silvestre, mismas que deberán ser acordes con la política nacional en la materia;
 
@@ -233,9 +239,17 @@ IV. Controlar y atender los problemas asociados con animales que representen un 
 
 V. Establecer y regular los Centros de Atención Canina;
 
-VI. Intervenir en los casos de infracciones a la presente Ley, aplicando las medidas de seguridad o sanciones que correspondan, siempre que las disposiciones legales emitidas para tal efecto se los permita, y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
 
-VII. Las demás que le correspondan en términos de los ordenamientos legales de la materia.
+VI. Intervenir en los casos de infracciones a la presente Ley, aplicando las medidas de seguridad o sanciones que correspondan, siempre que las disposiciones legales emitidas para tal efecto se los permita;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2020)</small>
+
+VII. Verificar, en coordinación con las autoridades competentes, que las actividades relacionadas con la cría, venta de animales, atención médica, albergues o adiestramiento cumplan con las disposiciones aplicables en la materia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2020)</small>
+
+VIII. Las demás que le correspondan en términos de los ordenamientos legales de la materia.
 
 ###### ARTÍCULO 13.
 
@@ -255,7 +269,9 @@ Las autoridades competentes, promoverán y participarán en la capacitación y a
 
 Se crea el Instituto de Bienestar Animal del Estado de Puebla, como Órgano Desconcentrado de la Secretaría, mismo que ejercerá las facultades siguientes:
 
-I. Fomentar y promover la cultura cívica de protección, responsabilidad, respeto, trato humanitario y bienestar animal, en coordinación con los sectores público, privado y social;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
+
+I. Fomentar y promover la cultura cívica de protección, responsabilidad, adopción, respeto, trato humanitario y bienestar animal, en coordinación con los sectores público, privado y social;
 
 II. Diseñar programas de educación y capacitación en materia de protección, trato humanitario y bienestar animal, en coordinación con las autoridades competentes, así como de programas de educación no formal con el sector social, privado y académico;
 
@@ -267,7 +283,9 @@ b) Padrón de Personas físicas y establecimientos comerciales dedicados a la ex
 
 c) Padrón de criadores de animales de compañía;
 
-d) Padrón de Clínicas y Hospitales Veterinarios;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2020)</small>
+
+d) Padrón de Clínicas y Hospitales Veterinarios, incluidos quienes presten los servicios de cremación;
 
 e) Padrón de Asociaciones de Protección Animal, y
 
@@ -275,13 +293,19 @@ f) Padrón de Escuelas de Adiestramiento.
 
 g) Padrón de establecimientos en los que se desempeñen oficios de limpieza, arreglo de pelo, baño, estética canina o similares.
 
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2020)</small>
+
+h) Padrón de establecimientos destinados al alojamiento temporal o permanente de animales.
+
 IV. Emitir recomendaciones a los sectores Público y Privado en materias competencia de esta Ley, con el propósito de promover el cumplimiento de sus disposiciones;
 
 V. Desarrollar y promover programas para el entrenamiento y capacitación continuos del personal que intervenga en el manejo de animales;
 
 VI. Desarrollar e implementar acciones de atención en caso de contingencias, a efecto de salvaguardar el bienestar animal, con la coordinación de las autoridades competentes;
 
-VII. Fungir como un canal de comunicación para la atención ciudadana, encargándose de la recepción de quejas y denuncias en materia de bienestar animal, para ser canalizadas a las autoridades competentes;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
+
+VII. Recibir quejas y denuncias en materia de bienestar animal, para su atención o en su caso para ser canalizadas a las autoridades correspondientes;
 
 VIII. Otorgar seguimiento a las quejas y denuncias presentadas ante el Instituto, para informar al interesado el estado (sic) guardan ante las autoridades competentes;
 
@@ -295,9 +319,17 @@ XII. Fomentar la creación de Centros de Atención Canina por parte de los ayunt
 
 XIII. Procurar la recaudación de donaciones en dinero o en especie, a través de la organización de eventos benéficos, en coordinación con el sector privado y social, así como los diferentes niveles de Gobierno, para el cumplimiento de las disposiciones de esta Ley;
 
-XIV. Emitir el dictamen de cumplimiento a la normatividad aplicable en materia de bienestar animal, y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
 
-XV. Las demás que por disposición legal le correspondan.
+XIV. Emitir el dictamen de cumplimiento a la normatividad aplicable en materia de bienestar animal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2020)</small>
+
+XV. Brindar atención psicológica, que permita sensibilizar a las personas que lo requieran, con el objeto de mejorar y modificar su trato hacia los animales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2020)</small>
+
+XVI. Las demás que por disposición legal le correspondan.
 
 ### CAPÍTULO IV. DE LAS OBLIGACIONES E INFRACCIONES EN MATERIA DE BIENESTAR ANIMAL
 
@@ -311,19 +343,31 @@ II. Proveer al animal con un espacio adecuado para su alojamiento, de acuerdo co
 
 III. Suministrarle oportunamente al animal los tratamientos veterinarios preventivos que le permitan conservar su salud, y los tratamientos veterinarios curativos y paliativos necesarios y adecuados, de acuerdo a su padecimiento;
 
-IV. Procurar la higiene necesaria del animal, de su área de estancia y de los instrumentos usados para darle de comer y tomar agua, de acuerdo con su especie y comportamiento innato, de manera que no ponga en peligro su salud;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
+
+IV. Procurar la higiene necesaria del animal, de su área de estancia y de los instrumentos usados para darle de comer y tomar agua, de acuerdo con su especie y comportamiento innato, de manera que no ponga en peligro su salud, ni afecte a terceros;
 
 V. Tratándose de perros o gatos, registrarlos en el Padrón Estatal de Perros y Gatos;
 
-VI. Tratándose de perros y gatos, colocar el método de identificación que remita al registro referido en la fracción anterior;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
+
+VI. Colocar placas como método de identificación, que permitan contactar al propietario o poseedor de perros y gatos;
 
 VII. En lo posible, proveer en caso fortuito o de fuerza mayor, las condiciones necesarias de protección;
 
-VIII. Recoger las heces de sus animales, particularmente cuando transiten con ellos en la vía pública, debiendo depositarlas en los contenedores de basura;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
+
+VIII. Recoger las heces de sus animales, particularmente cuando transiten con ellos en la vía pública o áreas comunes, debiendo depositarlas en los contenedores de basura;
 
 IX. Abstenerse de realizar cirugías estéticas que vayan en contra de (sic) naturaleza del animal y que le generen un dolor innecesario, y
 
-X. Las demás que establezca la presente Ley, su Reglamento y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ABRIL DE 2020)</small>
+
+X. Tener un buen trato hacia el animal, que le permita su correcto desenvolvimiento en el entorno, en la vía pública y su trato con demás personas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE ABRIL DE 2020)</small>
+
+XI. Las demás que establezca la presente Ley, su Reglamento y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 18.
 
@@ -1002,3 +1046,13 @@ P.O. 16 DE MARZO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos dentro los ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley, deberán expedir o reformar, en el ámbito de su competencia, los reglamentos correspondientes para el cumplimiento de la presente Ley.
