@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2020-03-12"
+last_updated: "2020-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2020.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -347,6 +347,12 @@ El Ejecutivo del Estado deberá promover la certificación señalada en el párr
 
 Violencia contra las mujeres en la comunidad, consiste en los actos individuales o colectivos, motivados por razones de género, tendentes a transgredir sus derechos humanos, así como denigrar, discriminar, marginar o excluirlas de cualquier ámbito en el que se desarrollen.
 
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 17 Bis.
+
+La violencia mediática consiste en publicar o difundir mensajes e imágenes estereotipados (sic) a través de cualquier medio masivo de comunicación o redes sociales, que de manera directa o indirecta injurie, difame, discrimine, deshonre, humille, atente contra la dignidad o promueva la explotación de las mujeres, generando desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
+
 ###### ARTÍCULO 18.
 
 El Estado garantizará a las mujeres la erradicación de la violencia en la comunidad por medio de:
@@ -467,9 +473,9 @@ Son órdenes de protección de emergencia las siguientes:
 
 I.- Separar al agresor del domicilio familiar o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, con el fin de otorgar a la víctima la protección requerida en el inmueble que sirve de domicilio;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
 
-II.- Prohibir al agresor acercarse al domicilio, así como intimidar o molestar a la víctima o a cualquier integrante de su familia en su entorno social, ya sea lugar de trabajo, de estudios o el domicilio de las y/o los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+II.- Prohibir al agresor acercarse al domicilio, así como intimidar o molestar a la víctima o a cualquier integrante de su familia en su entorno social, incluidos la vía telefónica, cualquier otro medio electrónico de comunicación o tecnologías de la información y comunicación, ya sea lugar de trabajo, de estudios o el domicilio de las y/o los ascendientes y descendientes o cualquier otro que frecuente la víctima; así como alguna otra manifestación o expresión de cualquier naturaleza que atente contra la víctima, realizada por el agresor a través de terceras personas.
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -1638,5 +1644,13 @@ P.O. 12 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 26 Y ADICIONA EL ARTÍCULO 17 BIS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
