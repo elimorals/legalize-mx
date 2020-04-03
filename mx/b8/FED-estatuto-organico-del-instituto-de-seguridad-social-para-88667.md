@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-social-para-88667"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-30"
-last_updated: "2017-04-24"
+last_updated: "2020-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88667&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,9 +23,7 @@ issue_date: "2012-07-23"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 24 DE ABRIL DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2020.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de julio de 2012.
 
@@ -69,9 +67,11 @@ I. Dirección General;
 
 II. Subdirección General;
 
-III. Coordinación de Asesores de la Dirección General;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2020)</small>
 
-IV. Coordinación Administrativa;
+III. Dirección Técnica de Prestaciones;
+
+IV. (DEROGADA, D.O.F. 3 DE ABRIL DE 2020)
 
 V. Dirección de Prestaciones Económicas;
 
@@ -201,9 +201,13 @@ XIII. Autorizar a los Directores de área la firma de los convenios y contratos 
 
 XIV. Las demás que señalen la Ley Federal de las Entidades Paraestatales, Ley de este Instituto, sus Reglamentos y demás disposiciones aplicables.
 
-### CAPITULO CUARTO. Atribuciones del Subdirector General, Coordinadores y Directores de área
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ABRIL DE 2020)</small>
 
-ART. 12.- Son atribuciones comunes del Subdirector General, los Coordinadores y los Directores de las Unidades Administrativas.
+### CAPITULO CUARTO. Atribuciones del Subdirector General, Director Técnico de Prestaciones y Directores de Área
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2020)</small>
+
+ART. 12.- Son atribuciones comunes del Subdirector General, del Director Técnico de Prestaciones y de los Directores de las Unidades Administrativas.
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar las funciones encomendadas al área a su cargo;
 
@@ -229,7 +233,9 @@ XI. Vigilar el estricto cumplimiento de las disposiciones legales y reglamentari
 
 XII. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
 
-ART. 13.- El Subdirector General, los Coordinadores y los Directores de Area, se auxiliarán para el desempeño de sus funciones en los Subdirectores de Area, Jefes de Departamento, Enlaces y demás personal que autorice el presupuesto.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2020)</small>
+
+ART. 13.- El Subdirector General, el Director Técnico de Prestaciones y los Directores de Área, se auxiliarán para el desempeño de sus funciones en los Subdirectores de Área, Jefes de Departamento, Enlaces y demás personal que autorice el presupuesto.
 
 El Subdirector General en el desempeño de las funciones establecidas en las fracciones I, II, III y IV del artículo 14 del presente Estatuto Orgánico, en su carácter de Oficial Mayor, se auxiliará de los Directores Administrativo, de Tecnologías de Información, Planeación y Comunicación Social y de Finanzas.
 
@@ -261,47 +267,71 @@ XI. Participar en la formulación de los proyectos de leyes, reglamentos, decret
 
 XII. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ABRIL DE 2020)</small>
+
 ### CAPITULO SEXTO
 
-De la Coordinación de Asesores de la Dirección General y Coordinación Administrativa.
+De la Dirección Técnica de Prestaciones.
 
-ART. 15.- La Coordinación de Asesores de la Dirección General tendrá las siguientes funciones y facultades:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2020)</small>
 
-I. Contribuir al proceso de toma de decisiones del Director General, a través del estudio e identificación de los problemas específicos de las Unidades Administrativas que conforman el Instituto;
+ART. 15.- La Dirección Técnica de Prestaciones tendrá las siguientes funciones y facultades:
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2020)</small>
+
+I. Diseñar los programas, políticas y estrategias integrales, que aseguren el disfrute de las prestaciones sociales en los términos de la ley;
 
 II. Establecer un sistema de información ágil y oportuno al Director General sobre el desarrollo y avance de las actividades del Instituto;
 
 III. Proponer al Director General mecanismos que permitan elevar los niveles de eficiencia en la administración y aplicación de los recursos del Instituto;
 
-IV. Coordinar a las Unidades Administrativas en la elaboración de trabajos especiales;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2020)</small>
 
-V. Asesorar en la solución de conflictos tanto externos como internos, que afecten el desarrollo eficiente de los objetivos del Instituto y de cada una de sus Unidades Administrativas;
+IV. Dirigir a las Direcciones Sustantivas en la elaboración de trabajos especiales;
 
-VI. Asesorar a las diferentes Unidades Administrativas, en la aplicación de herramientas y proceso de mejora, que contribuya a incentivar la productividad y los procedimientos internos de trabajo;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2020)</small>
 
-VII. Proporcionar la orientación, asesoría técnica y, en su caso, de apoyo logístico en actividades definidas o determinadas por el Director General;
+V. Planear la solución de conflictos tanto externos como internos, que afecten el desarrollo eficiente de los objetivos del Instituto y de cada una de sus Direcciones Sustantivas;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2020)</small>
+
+VI. Coparticipar con las diferentes Direcciones Sustantivas, para la aplicación de herramientas y proceso de mejora, que contribuya a incentivar la productividad y los procedimientos internos de trabajo;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2020)</small>
+
+VII. Opinar técnicamente a las diferentes áreas del Instituto, con la finalidad de que tengan un desarrollo eficiente en su operación;
 
 VIII. Asegurar el desahogo de los asuntos ordenados directamente por el Director General, que por su importancia requieren de atención urgente y extraordinaria, y
 
-IX. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2020)</small>
 
-ART. 16.- La Coordinación Administrativa tendrá las siguientes funciones y facultades:
+IX. Establecer y evaluar las metas institucionales con base en la generación de estadísticas, estudios económicos, que reflejen las necesidades de los derechohabientes y los insumos e infraestructura requerida para el otorgamiento de servicios y prestaciones;
 
-I. Coordinar los servicios de archivo, correspondencia, gestoría, transporte, mensajería, reproducciones gráficas, conservación y mantenimiento de bienes muebles e inmuebles, así como el control de los inventarios del activo fijo de la Dirección General del Instituto;
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2020)</small>
 
-II. Establecer controles que beneficien el seguimiento de los procesos administrativos internos de las Unidades Administrativas;
+X. Establecer los lineamientos y requerimientos en materia de planeación estratégica institucional, así como implementar el sistema interno de evaluación basado en indicadores;
 
-III. Consolidar la información necesaria de las Unidades Administrativas, para elaborar estudios, proyectos o trabajos ordenados por la Dirección General;
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2020)</small>
 
-IV. Llevar el seguimiento de asuntos específicos ordenados por la Dirección General a la Coordinación de Asesores de la Dirección General o a cualquiera de las Unidades Administrativas;
+XI. Regular que los mecanismos de previsión social propuestos por las Unidades Administrativas involucradas permitan mejorar el otorgamiento de las prestaciones económicas, sociales y de salud al personal militar en activo, retirado, pensionistas y derechohabientes, con la finalidad de ser presentados al Director General de este Organismo;
 
-V. Administrar y supervisar el sistema de trámite documental que permita el control de entrada y salida de asuntos acordados por el Director General y Coordinación de Asesores de la Dirección General;
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2020)</small>
 
-VI. Verificar la correcta elaboración de la documentación que emite la Dirección General, tanto al exterior como al interior del Instituto;
+XII. Coparticipar con la Subdirección General y las Unidades Administrativas involucradas en la formulación de los proyectos de reformas de la ley del ISSFAM y normatividad respectiva, para mejorar el otorgamiento de las prestaciones económicas, sociales y de salud al personal militar en activo, retirado, pensionistas y derechohabientes;
 
-VII. Consolidar la agenda con los asuntos más relevantes del Instituto que pueda ser utilizada por los directivos de las Unidades Administrativas, y
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2020)</small>
 
-VIII. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
+XIII. Diseñar y aplicar las metodologías de análisis, indicadores y herramientas para la medición de impacto, seguimiento y evaluación cuantitativa y cualitativa de los servicios que presta el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2020)</small>
+
+XIV. Coordinar el diseño, implementación, monitoreo y evaluación de las políticas, estrategias y programas institucionales elaborados dentro del marco de la ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2020)</small>
+
+XV. Las demás que le asignen las leyes, reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
+
+ART. 16.- (DEROGADO, D.O.F. 3 DE ABRIL DE 2020)
 
 ### CAPITULO SEPTIMO. De las Direcciones de Area
 
@@ -735,11 +765,17 @@ Asimismo, para la atención de los asuntos y la sustanciación de los procedimie
 
 ART. 26.- El Subdirector General sustituirá al Director General en sus ausencias temporales, debiendo informar de los asuntos tratados a su retorno.
 
-ART. 27.- El Subdirector General será suplido en sus ausencias temporales por el Coordinador de Asesores de la Dirección General, con excepción del caso de la certificación de documentos que únicamente será suplido por el titular de la Dirección Administrativa.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2020)</small>
 
-ART. 28.- En las ausencias del Secretario de la Junta Directiva, asumirá sus funciones el Coordinador de Asesores de la Dirección General.
+ART. 27.- El Subdirector General será suplido en sus ausencias temporales por el Director Técnico de Prestaciones, con excepción del caso de la certificación de documentos que únicamente será suplido por el titular de la Dirección Administrativa.
 
-ART. 29.- El Coordinador de Asesores de la Dirección General y el Coordinador Administrativo, serán suplidos en sus ausencias temporales por el Servidor Público que designe el Director General.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2020)</small>
+
+ART. 28.- En las ausencias del Secretario de la Junta Directiva, asumirá sus funciones el Director Técnico de Prestaciones.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2020)</small>
+
+ART. 29.- El Director Técnico de Prestaciones, será suplido en sus ausencias temporales por el Servidor Público que designe el Director General.
 
 > <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2017)</small>
 
@@ -790,3 +826,9 @@ D.O.F. 13 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DE “REFORMAS Y ADICIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS”.]
 
 ÚNICO.- Las presentes reformas y adiciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE DAN A CONOCER LAS REFORMAS, ADICIONES Y DEROGACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS”.]
+
+ÚNICO.- Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
