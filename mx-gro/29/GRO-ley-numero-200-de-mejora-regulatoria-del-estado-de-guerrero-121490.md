@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-200-de-mejora-regulatoria-del-estado-de-guerrero-121
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-17"
-last_updated: "2016-05-17"
+last_updated: "2020-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 200 DE MEJORA REGULATORIA DEL ESTADO DE GUERRERO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY NÚMERO 455 DE MEJORA REGULATORIA PARA EL ESTADO DE GUERRERO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 3 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 200 DE MEJORA REGULATORIA DEL ESTADO DE GUERRERO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 17 de mayo de 2016.
 
@@ -1194,3 +1196,33 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 455 DE MEJORA REGULATORIA PARA EL ESTADO DE GUERRERO Y SUS MUNICIPIOS".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. El Consejo Estatal deberá estar instalado en un plazo que no exceda los noventa días naturales a la entrada en vigor de la Ley de Mejora Regulatoria para el Estado de Guerrero y sus Municipios.
+
+TERCERO. Las autoridades de mejora regulatoria y los sujetos obligados, darán cumplimiento a las obligaciones establecidas en la presente Ley, con cargo a sus respectivos presupuestos.
+
+CUARTO. El titular del Ejecutivo Estatal emitirá el Reglamento de esta Ley, en un plazo no mayor a 90 días hábiles a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. A partir de la entrada en vigor de esta Ley, los municipios contarán con un plazo de un año para armonizar sus reglamentos al contenido de esta Ley. Los consejos municipales deberán instalarse formalmente dentro de un plazo de noventa días naturales, siguientes a la entrada en vigor de las adecuaciones correspondientes en su legislación municipal.
+
+SEXTO. Las disposiciones normativas vigentes que no se contrapongan a lo dispuesto por esta Ley, continuarán surtiendo sus efectos.
+
+SÉPTIMO. La CEMER publicará su Reglamento Interior, así como, los lineamientos dentro del plazo que no exceda a un año contado a partir de la entrada en vigor de dicha Ley, así como, las herramientas siguientes:
+
+I. Análisis de Impacto Regulatorio;
+
+II. Programa de Mejora Regulatoria Estatal; y
+
+III. Agenda Regulatoria Estatal.
+
+OCTAVO. Se abroga la Ley Número 200 de Mejora Regulatoria del Estado de Guerrero y sus Municipios, publicada en el Periódico Oficial del Gobierno del Estado, el 17 de mayo de 2016.
+
+NOVENO. Publíquese en el Periódico Oficial del Gobierno del Estado, en la página Web del Congreso del Estado y divúlguese en los medios de comunicación, para su conocimiento general.
