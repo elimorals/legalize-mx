@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-conducta-de-la-contraloria-general-del-estado-de-1424
 country: "mx"
 rank: "codigo"
 publication_date: "2020-03-13"
-last_updated: "2020-03-13"
+last_updated: "2020-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # CODIGO DE CONDUCTA DE LA CONTRALORIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ABRIL DE 2020 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DE LA CONTRALORÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 3 DE ABRIL DE 2020.]</small>
 
 Código publicado en el Tomo III al Núm. Ext. 106 del Periódico Oficial del Estado de Veracruz, el viernes 13 de marzo de 2020.
 
@@ -37,11 +37,15 @@ Contraloría General del Estado
 
 Al personal servidor público:
 
-La Contraloría General del Estado tiene la misión de vigilar el manejo de los recursos públicos al interior de la Administración Púbica Estatal, a través de instrumentos de control interno que atiendan la transparencia, la rendición de cuentas y las responsabilidades administrativas; impulsado el comportamiento ético de los servidores públicos y la participación ciudadana.
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+La Contraloría General del Estado tiene la misión de vigilar el manejo de los recursos públicos al interior de la Administración Púbica Estatal, a través de instrumentos de control que atiendan la transparencia, la rendición de cuentas y las responsabilidades administrativas; impulsando el comportamiento ético de los servidores públicos y la participación ciudadana.
 
 Por ello, si queremos ser un modelo de institución honesta, imparcial, eficaz y eficiente en la rendición de cuentas y el combate a la corrupción, es fundamental que quienes colaboramos en la dependencia tengamos presente que nuestro actuar debe enmarcarse y regirse bajo los principios constitucionales y legales que norman al servicio público, así como los valores y las reglas de integridad con los que tenemos la obligación de conducirnos.
 
-Al ser nuestra dependencia la encargada de vigilar que la administración pública de los recursos y el desempeño del funcionariado sea además con lealtad, disciplina, profesional, objetivo y equidad, debemos ser modelo de conducta para todo el servicio público estatal, pero sobre todo debemos presentarnos ante la sociedad como una institución sólida y como servidores públicos que conozcan y practiquen la nueva ética pública.
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+Al ser nuestra dependencia la encargada de vigilar que la administración pública de los recursos y el desempeño del funcionariado sea además con lealtad, disciplina, profesionalismo, objetividad y equidad, debemos ser modelo de conducta para todo el servicio público estatal, pero sobre todo debemos presentarnos ante la sociedad como una institución sólida y como servidores públicos que conozcan y practiquen la nueva ética pública.
 
 La sociedad espera un gobierno demócrata, con responsabilidad social, un buen gobierno que vea por su bienestar y que refleje en cada acción el compromiso con los principios y valores que característicamente han hecho de los veracruzanos un pueblo ejemplar.
 
@@ -69,7 +73,9 @@ ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DE LA CONTRALORÍA GENERAL DE
 
 I. Objetivo.
 
-El presente Código de Conducta establece la forma en que los servidores públicos deben comportarse en los diversos ámbitos de actuación en los que se desenvuelven. El compromiso de los servidores públicos no se limita sólo a observar adecuados parámetros de conducta frente a la sociedad, sino también que se comprometan a mantenerlos frente a sus compañeros y compañeras, así como con relación al desempeño de sus funciones.
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+El presente Código de Conducta establece la forma en la que el personal servidor público debe comportarse en los diversos ámbitos de actuación en los que se desenvuelve. El compromiso de los servidores públicos no se limita sólo a observar adecuados parámetros de conducta frente a la sociedad, sino también que se comprometan a mantenerlos frente a todo el personal, así como con relación al desempeño de sus funciones.
 
 El Código de Ética establece los principios, valores y reglas de integridad que deben ser observados en la Administración Pública, sin menoscabo del resto de la normatividad que establece la forma en que los servidores públicos deben conducirse, como lo es, entre otras, la Ley número 366 de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave.
 
@@ -77,7 +83,9 @@ Por tanto, este Código de Conducta tiene por objetivo el presentar de forma cla
 
 II. Misión.
 
-Vigilar el manejo de los recursos públicos al interior de la Administración Púbica Estatal, a través de instrumentos de control interno que atiendan la transparencia, la rendición de cuentas y las responsabilidades administrativas; impulsado el comportamiento ético de los servidores públicos y la participación ciudadana.
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+Vigilar el manejo de los recursos públicos al interior de la Administración Pública Estatal, a través de instrumentos de control que atiendan la transparencia, la rendición de cuentas y las responsabilidades administrativas; impulsando el comportamiento ético de los servidores públicos y la participación ciudadana.
 
 III. Visión.
 
@@ -209,7 +217,9 @@ d) Directriz: Artículo 5 fracciones I, V y VI de la LRA.
 
 IV. Evito cualquier conducta que afecte a mis compañeras y compañeros.
 
-Las relaciones interpersonales en mi trabajo son importantes para mí, por lo que fomento la tolerancia y el respeto, evito divulgar rumores o comentarios que lesionen la integridad moral y la reputación de las y los compañeros de trabajo, respeto su privacidad, y evito acciones que causen molestia o distraigan como reproducir ruidos altos, realizar acciones de compraventa o servicios ajenos a la dependencia o entidad, fumar en áreas prohibidas, evitar introducir alimentos que despidan olores fuertes o cualquier otra conducta que afecte a mis compañeros y compañeras.
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+Las relaciones interpersonales en mi trabajo son importantes para mí, por lo que fomento la tolerancia y el respeto, evito divulgar rumores o comentarios que lesionen la integridad moral y la reputación del personal, respeto su privacidad, y evito acciones que causen molestia o distraigan como reproducir ruidos altos, realizar acciones de compraventa o servicios ajenos a la dependencia o entidad, fumar en áreas prohibidas, introducir alimentos que despidan olores fuertes o cualquier otra conducta que lo afecte.
 
 Vinculada con:
 
@@ -223,7 +233,9 @@ d) Directriz: Artículo 5 fracciones I, III, IV y VII de la LRA.
 
 V. Evito y denuncio el hostigamiento sexual y/o acoso sexual.
 
-Entiendo que las conductas de hostigamiento sexual y/o acoso sexual constituyen faltas de respeto, diligencia y rectitud hacia las personas, mayormente cuando se tiene relación laboral, y que son actos que atentan contra los valores éticos, los derechos humanos y la integridad física o psicológica de los y las probables afectadas, por lo que evito cualquier acción que implique el hostigamiento sexual y/o el acoso sexual, y denuncio las mismas si me entero de ellas.
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+Entiendo que las conductas de hostigamiento sexual y/o acoso sexual constituyen faltas de respeto, diligencia y rectitud hacia las personas, mayormente cuando se tiene relación laboral, y que son actos que atentan contra los valores éticos, los derechos humanos y la integridad física o psicológica de las personas probables afectadas, por lo que evito cualquier acción que implique el hostigamiento sexual y/o el acoso sexual, y denuncio las mismas si me entero de ellas.
 
 Vinculada con:
 
@@ -349,7 +361,9 @@ IV. Procedimiento para recibir denuncias por incumplimiento al Código de Ética
 
 Los servidores públicos de la Contraloría podrán acercarse directamente al Enlace de Ética para presentar denuncias por incumplimiento al Código de Ética y al Código de Conducta. El Enlace de Ética pondrá a su disposición una línea telefónica, un correo electrónico o bien a través del portal de la Contraloría para recibir denuncias por incumplimiento al Código de Ética y al Código de Conducta, vía internet a través de la siguiente liga http://www.veracruz.gob.mx/contraloria/servicio/quejas-denuncias/, éstos instrumentos de contacto están en operación en días y horas hábiles.
 
-Las denuncias presentadas por los servidores públicos, cuando así lo prefieran, podrá realizarse en forma anónima.
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+Las denuncias presentadas por los servidores públicos, cuando así lo prefieran, podrán realizarse en forma anónima.
 
 El Enlace de Ética bajo la dirección del Titular del Órgano Interno de Control, realizará la investigación administrativa correspondiente recabando las pruebas necesarias, para efectos de que se emita la resolución o acuerdo que en Derecho aplique, de acuerdo a los términos establecidos por las leyes de la materia.
 
@@ -375,7 +389,9 @@ Rúbrica.
 
 Anexo I
 
-CARTA COMPROMISO DE CUMPLIMIENTO DE EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO Y DE EL CÓDIGO DE CONDUCTA DE LA CONTRALORÍA GENERAL DEL ESTADO AMBOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+> <small>(F. DE E. [N. DE E. ESTE PÁRRAFO], G.O. 3 DE ABRIL DE 2020)</small>
+
+CARTA COMPROMISO DE CUMPLIMIENTO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO Y DEL CÓDIGO DE CONDUCTA DE LA CONTRALORÍA GENERAL DEL ESTADO, AMBOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 He recibido y conozco el contenido, alcance y responsabilidad que adquiero con los Códigos de Ética y de Conducta de la Contraloría General del Estado de Veracruz de Ignacio de la Llave, por lo que voluntariamente me comprometo a cumplirlos y a observar un comportamiento en estricto apego a sus disposiciones, además de:
 
