@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2019-04-12"
+last_updated: "2020-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2020.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -11165,9 +11165,13 @@ Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera ha
 
 Los daños y perjuicios deben ser consecuencia inmediata y directa de la falta de cumplimiento de la obligación, ya sea que se hayan causado o que necesariamente deban causarse.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 1986.
 
-Nadie está obligado al caso fortuito sino cuando ha dado causa o contribuído a él, cuando ha aceptado expresamente esa responsabilidad, o cuando la Ley se la impone.
+Nadie está obligado al caso fortuito sino cuando ha dado causa contribuido a él, cuando ha aceptado expresamente esa responsabilidad, o cuando la ley se la impone.
+
+Se considerará caso fortuito las situaciones derivadas de catástrofes sufridas por fenómenos meteorológicos o de la naturaleza, plagas, epidemias, así como pandemias declaradas oficialmente cuando afecten la movilidad y convivencia social por recomendación u orden de la Autoridad. Las circunstancias previstas en este párrafo no implicaran recisión, resolución o nulidad de la obligación o sus accesorios sino de ajustar el contrato u obligación en los términos del artículo 20 de este Código en tanto el obligado acredite la imposibilidad o disminución de sus posibilidades para cumplir durante la contingencia.
 
 ###### ARTICULO 1987.
 
@@ -16692,3 +16696,21 @@ P.O. 12 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 336 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1342, 1569, 1632 Y 1633 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 54 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1986 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO: Derivado de la Pandemia Mundial causada por el Coronavirus o COVID-19 reconocida por la Autoridad Sanitaria y dado el caso fortuito que ello representa, por lo que hace a los meses de abril y mayo del año 2020 no se considerara que incurren en mora o incumplimiento de las obligaciones las personas, sin que esto les libere en su momento de las mismas y sus accesorios salvo la obligación de ajustar el contrato u obligación, las siguientes:
+
+a) Las derivadas de los contratos de mutuo con interés y garantía prendaria previstos por el código Civil, de ahí que la garantía prendaria no podrá ser adjudicada ni sacada a remate por retraso del pago durante este lapso de tiempo.
+
+b) Las obligaciones de los arrendatarios de locales dedicados al comercio que expende al público bienes o servicios, de ahí que no se contará este tiempo en el término que provoque el desahucio de la finca arrendada como lo marca el Artículo 475 del código de Procedimientos Civiles o la rescisión del contrato en términos del Artículo 2363 del código Civil.
+
+c) El arrendamiento de casa habitación de hasta de 120 metros cuadrados, de ahí que no se contará este tiempo en el término que provoque el desahucio de la misma como lo marca el artículo 475 del Código de Procedimientos Civiles o rescisión del contrato en términos del artículo 2363 del Código Civil.
+
+TERCERO: Los Jueces del Poder Judicial del Estado deberán observar estas disposiciones en concordancia al artículo 20 del Código Civil del Estado y fomentarán al máximo en su caso los medios alternos de solución de conflictos de manera directa o apoyados por los Centros de Justicia Alternativa.
+
+CUARTO: Los propietarios de los negocios regulados por la Ley que Establece las Bases de Operación de las Casas de Empeño del Estado de Baja California deberán acatar a la letra las disposiciones contenidas en este Decreto bajo su estricta responsabilidad.
