@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-municipio-de-mexicali-baja-california-14076
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2019-12-31"
+last_updated: "2020-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL 2020
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2020.
 
 Ley publicada en el Número Especial 67, Sección III del Periódico Oficial del Estado de Baja California, el martes 31 de diciembre de 2019.
 
