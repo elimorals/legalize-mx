@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-etica-de-los-servidores-publicos-de-poder-142468"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-03-12"
-last_updated: "2020-03-12"
+last_updated: "2020-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ABRIL DE 2020 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 3 DE ABRIL DE 2020.]</small>
 
 Código publicado en el Número Extraordinario 104 de la Gaceta Oficial del Estado de Veracruz, el jueves 12 de marzo de 2020.
 
@@ -37,7 +37,9 @@ I. Que en los artículos 109 fracción III de la Constitución Política de los 
 
 II. Que en términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave y demás disposiciones legales antes referidas, establecen que la Contraloría General es el Órgano Estatal de Control facultado para expedir el Código de Ética de los servidores públicos del Poder Ejecutivo del Estado de Veracruz para el Ejercicio de la Función Pública, como un instrumento de política pública para el combate a la corrupción;
 
-III. Que el diecisiete de enero del año en curso fue publicado en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el Acuerdo por el que se establece el Código de Ética de los Servidores Públicos y las Reglas de Integridad para el Ejercicio de la Función Pública del Poder Ejecutivo del Estado de Veracruz, y
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+III. Que el diecisiete de enero del año dos mil diecinueve fue publicado en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el Acuerdo por el que se establece el Código de Ética de los Servidores Públicos y las Reglas de Integridad para el Ejercicio de la Función Pública del Poder Ejecutivo del Estado de Veracruz, y
 
 IV. Que el Gobierno del Estado tiene la obligación de promover y garantizar una cultura ética, erradicar la corrupción en las instituciones públicas y hacer bien el trabajo gubernamental en el entorno de integridad pública, respeto a los derechos humanos, honestidad, eficiencia, eficacia, transparencia y rendición de cuentas, asimismo, evaluar constantemente las acciones para la mejora continua de la gestión pública que generen resultados e impacte positivamente en la calidad de los bienes y servicios que se entregan a la población Veracruzana.
 
@@ -57,9 +59,11 @@ El lenguaje empleado en la redacción del presente Acuerdo, no busca generar nin
 
 Cada una de las Dependencias y Entidades del Poder Ejecutivo del Estado será responsable de promover, fomentar y vigilar al interior de las mismas el cumplimiento del presente Código de Ética, atendiendo el proceso de actualización, implementación, difusión y evaluación de su propio Código de Conducta a través del programa anual de trabajo que les corresponda.
 
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
 ###### Artículo 3.
 
-Es responsabilidad de los titulares de dichas Dependencias y Entidades, establecer las acciones necesarias para incentivar el conocimiento, la aplicación de los principios, valores y las Reglas de Integridad, con la finalidad de incidir en el actuar correcto de los servidores públicos, para la realización eficiente y eficaz de las tareas encomendadas.
+Es responsabilidad de los titulares de dichas Dependencias y Entidades, establecer las acciones necesarias para incentivar el conocimiento, la aplicación de los principios, valores y las reglas de integridad, con la finalidad de incidir en el actuar correcto de los servidores públicos, para la realización eficiente y eficaz de las tareas encomendadas.
 
 ###### Artículo 4.
 
@@ -119,7 +123,9 @@ VI. Economía: Los servidores públicos en el ejercicio del gasto público admin
 
 VII. Disciplina: Los servidores públicos desempeñarán su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos;
 
-VIII. Profesionalismo: Los servidores públicos deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a las (sic) demás servidores públicos como a las y los particulares con los que llegare a tratar;
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+VIII. Profesionalismo: Los servidores públicos deberán conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a los demás servidores públicos como a las personas particulares con los que llegare a tratar;
 
 IX. Objetividad: Los servidores públicos deberán preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán de ser informadas en estricto apego a la legalidad;
 
@@ -189,7 +195,9 @@ XII. Cooperación con la integridad: En el desempeño de su empleo, cargo, comis
 
 XIII. Comportamiento digno: El servidor público en el desempeño de empleo, cargo, comisión o función se conducirá con respeto a sí mismo y a los demás, sin proferir expresiones, lenguajes o adoptar comportamientos, hostigamiento y/o acoso de carácter sexual o discriminatorio respecto a las personas con la que tiene o guarda relación en la función pública.
 
-Las reglas de integridad descritas en el presente artículo, serán vulneradas de manera enunciativa más no limitativa, de acuerdo a lo señalado en el Anexo I del presente Código.
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+Las reglas de integridad descritas en el presente artículo y las conductas que las vulneran, se refieren de manera enunciativa más no limitativa, de acuerdo a lo señalado en el Anexo I del presente Código.
 
 ### CAPÍTULO III. Conflicto de Interés
 
@@ -397,7 +405,9 @@ d. Otorgar los subsidios o apoyos de programas gubernamentales en periodos restr
 
 e. Dar trato preferencial o inequitativo a cualquier persona u organización en la gestión del subsidio o apoyo del programa, lo cual incluye el ocultamiento, retraso o entrega engañosa o privilegiada de información;
 
-f. Realizar cualquier tipo de discriminación a cualquier persona interesada para acceder a los apoyos o beneficios de un programa gubernamental;
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+f. Realizar cualquier tipo de discriminación a la persona interesada en acceder a los apoyos o beneficios de un programa gubernamental;
 
 g. Impedir por cualquier medio, el control y evaluación sobre el otorgamiento de los beneficios o apoyos a personas, agrupaciones o entes, por parte de las autoridades facultadas, y
 
@@ -561,13 +571,17 @@ m. Omitir conducirse con sencillez en el desempeño de la función pública.
 
 XII. Cooperación con la Integridad Pública. En el desempeño de su empleo, cargo, comisión o función, el servidor público debe cooperar con la Dependencia o Entidad en la que labora y con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos a la función pública, en el fortalecimiento de la cultura ética y de servicio a la sociedad.
 
-Son acciones que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público íntegro, las siguientes:
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+Son acciones que, de manera enunciativa y no limitativa, hacen posible propiciar un servicio público íntegro, las cuales de no realizarse vulneran las conductas siguientes:
 
 a. Detectar áreas sensibles o vulnerables a la corrupción, apoyándose en los análisis de riesgo y en los resultados de las evaluaciones y recomendaciones que hagan los entes fiscalizadores;
 
 b. Proponer y, en su caso, adoptar cambios a las estructuras y procesos a fin de inhibir ineficiencias, corrupción y conductas antiéticas;
 
-c. Fortalecer acciones de reconocimiento a los servidores públicos que se destaquen por el debido cumplimiento y práctica cotidiana de principio (sic) y valores en el desempeño de sus labores;
+> <small>(F. DE E., G.O. 3 DE ABRIL DE 2020)</small>
+
+c. Fortalecer acciones de reconocimiento a los servidores públicos que se destaquen por el debido cumplimiento y práctica cotidiana de principios y valores en el desempeño de sus labores;
 
 d. Diseñar y proponer, mejores prácticas a favor del servicio público a través del Enlace de Ética de las Dependencias o Entidades;
 
@@ -577,7 +591,9 @@ f. Contribuir a la generación de una cultura del comportamiento ético en la Ad
 
 g. Ampliar las acciones de sensibilización en materia de Ética Pública a través de cursos de capacitación en el tema.
 
-XIII. Comportamiento Digno. El servidor público en el desempeño de empleo, cargo, comisión o función, se conducirá con respeto a sí mismo y a los demás, sin proferir expresiones, lenguajes o adoptar comportamientos de hostigamiento o acoso de carácter sexual o discriminatorio respecto a las personas con la que tiene o guarda relación en la función pública.
+> <small>(F. DE E. [N. DE E. ESTE PÁRRAFO], G.O. 3 DE ABRIL DE 2020)</small>
+
+XIII. Comportamiento Digno. El servidor público en el desempeño de su empleo, cargo, comisión o función, se conducirá con respeto a sí mismo y a los demás, sin proferir expresiones, lenguajes o adoptar comportamientos de hostigamiento o acoso de carácter sexual o discriminatorio respecto a las personas con las que tiene o guarda relación en la función pública.
 
 Vulneran estas reglas, las conductas siguientes:
 
