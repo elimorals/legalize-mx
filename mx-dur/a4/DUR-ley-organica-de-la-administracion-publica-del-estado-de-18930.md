@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2019-12-05"
+last_updated: "2020-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2020.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -441,9 +441,13 @@ XXXVII. Coordinar el funcionamiento y cuidado del archivo administrativo del Pod
 
 Una Ley Ordinaria regulará esta materia, y
 
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 5 DE ABRIL DE 2020, PÁGINA 31.]</small>
 
-XXXVIII. Las demás que le señalen las leyes y reglamentos, vigentes en el Estado.
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2020)</small>
+
+XL (SIC). Diseñar e instrumentar programas anuales, previo diagnóstico a los ayuntamientos, para la asesoría, capacitación y formación de sus integrantes, así como de los funcionarios municipales, con el fin de contribuir a su profesionalización y al desarrollo institucional de los municipios;
+
+XLI. Las demás que le señalen las leyes y reglamentos, vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -2778,3 +2782,23 @@ P.O. 5 DE DICIEMBRE DE 2019.
 [N. DE. E. TRANSITORIO DEL “DECRETO NO. 195.- QUE CONTIENE REFORMAS AL ARTÍCULO 32 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 293 SE ABROGA LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO MUNICIPAL DEL ESTADO DE DURANGO, ASÍ COMO DE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se extingue el organismo público descentralizado denominado Instituto para el Desarrollo Municipal del Estado de Durango, transfiriendo a partir de la entrada en vigor del presente decreto, a la Secretaría de Finanzas y de Administración, los recursos financieros y materiales de los que disponía el organismo que se extingue mediante el presente decreto.
+
+TERCERO. La Secretaría de Finanzas y de Administración, vigilará el trámite de extinción en lo referente a la información financiera del Organismo Público Descentralizado denominado Instituto para el Desarrollo Municipal del Estado de Durango, con cierres contables y presupuestales, la descripción de cuentas por cobrar; descripción del activo fijo y su estado; descripción del pasivo y su status derivados de la extinción del citado organismo.
+
+CUARTO. En un plazo que no exceda de 45 días a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado emitirá las adecuaciones reglamentarias para dar cumplimiento a los objetivos del presente decreto.
+
+QUINTO. Los recursos materiales que tenía asignados el organismo que se extingue mediante el presente decreto, serán recibidos por la Dirección de Patrimonio de la Secretaría de Finanzas y de Administración, conforme a las disposiciones legales aplicables.
+
+SEXTO. Los asuntos que se encuentren en trámite, a la fecha de la extinción del organismo, serán transferidos para la atención correspondiente al área que determine la Secretaría General de Gobierno.
+
+SÉPTIMO. La Secretaría de Contraloría del Estado, será la responsable de sancionar el proceso de entrega-recepción del organismo que se extingue mediante el presente decreto.
+
+OCTAVO. Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente Decreto.
