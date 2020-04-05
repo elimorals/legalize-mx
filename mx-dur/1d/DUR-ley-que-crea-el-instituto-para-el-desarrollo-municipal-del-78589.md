@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-para-el-desarrollo-municipal-del-7858
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-14"
-last_updated: "2015-12-20"
+last_updated: "2020-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO MUNICIPAL DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO No. 293 MEDIANTE EL CUAL SE ABROGA LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO MUNICIPAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO MUNICIPAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 14 de noviembre de 2010.
 
@@ -340,3 +342,23 @@ P.O. 20 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
+
+P.O. 5 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 293 SE ABROGA LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO MUNICIPAL DEL ESTADO DE DURANGO, ASÍ COMO DE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se extingue el organismo público descentralizado denominado Instituto para el Desarrollo Municipal del Estado de Durango, transfiriendo a partir de la entrada en vigor del presente decreto, a la Secretaría de Finanzas y de Administración, los recursos financieros y materiales de los que disponía el organismo que se extingue mediante el presente decreto.
+
+TERCERO. La Secretaría de Finanzas y de Administración, vigilará el trámite de extinción en lo referente a la información financiera del Organismo Público Descentralizado denominado Instituto para el Desarrollo Municipal del Estado de Durango, con cierres contables y presupuestales, la descripción de cuentas por cobrar; descripción del activo fijo y su estado; descripción del pasivo y su status derivados de la extinción del citado organismo.
+
+CUARTO. En un plazo que no exceda de 45 días a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado emitirá las adecuaciones reglamentarias para dar cumplimiento a los objetivos del presente decreto.
+
+QUINTO. Los recursos materiales que tenía asignados el organismo que se extingue mediante el presente decreto, serán recibidos por la Dirección de Patrimonio de la Secretaría de Finanzas y de Administración, conforme a las disposiciones legales aplicables.
+
+SEXTO. Los asuntos que se encuentren en trámite, a la fecha de la extinción del organismo, serán transferidos para la atención correspondiente al área que determine la Secretaría General de Gobierno.
+
+SÉPTIMO.- La Secretaría de Contraloría del Estado, será la responsable de sancionar el proceso de entrega-recepción del organismo que se extingue mediante el presente decreto.
+
+OCTAVO.- Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente Decreto.
