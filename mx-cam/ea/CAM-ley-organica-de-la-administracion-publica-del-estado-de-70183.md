@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2019-06-24"
+last_updated: "2020-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -587,9 +587,9 @@ XXX. Llevar el Registro de Empréstitos y Obligaciones y ejercer las facultades 
 
 XXXI. Llevar el Registro de Entidades Paraestatales y ejercer las facultades que le confiera la Ley de la Administración Pública Paraestatal;
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXI], P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
 
-XXXII. Suscribir, previo acuerdo del Ejecutivo, contratos y títulos de crédito en representación del Estado;
+XXXII. Suscribir, contratos, títulos de crédito y demás documentos jurídicos contractuales en representación del Estado;
 
 > <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXII], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -611,9 +611,13 @@ XXXVI. Publicar la información financiera en términos de la Ley General de Con
 
 XXXVII. Publicar anualmente en el Periódico Oficial del Estado, la relación de las entidades que formen parte de la Administración Pública Paraestatal del Estado; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXVII], P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE ABRIL DE 2020)</small>
 
-XXXVIII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+XXXVIII. Dirigir y ejecutar las acciones, procedimientos e implementación necesarias para brindar los servicios de tecnologías de información, telecomunicaciones y seguridad de la información a la Secretaría, para el eficiente desempeño de sus funciones que le permita contar con un sistema de servicios propio.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE ABRIL DE 2020)</small>
+
+XXXIX. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2524,3 +2528,11 @@ Todas las referencias a la Secretaría de Medio Ambiente y Recursos Naturales re
 ###### ARTÍCULO CUARTO.
 
 El Gobernador del Estado emitirá las adecuaciones al Reglamento Interior de la Secretaría de Medio Ambiente, Biodiversidad y Cambio Climático de la Administración Pública del Estado de Campeche.
+
+P.O. 6 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 125 POR EL QUE "SE REFORMAN LAS FRACCIONES XXXII Y XXXVIII Y SE ADICIONA UNA FRACCIÓN XXXIX AL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
