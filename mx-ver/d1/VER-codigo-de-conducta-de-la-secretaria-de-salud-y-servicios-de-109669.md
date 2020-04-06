@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-conducta-de-la-secretaria-de-salud-y-servicios-de-109
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-27"
-last_updated: "2015-07-27"
+last_updated: "2020-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "VER"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE SALUD Y SERVICIOS DE SALUD DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD Y DEL ORGANISMO PÚBLICO DESCENTRALIZADO SERVICIOS DE SALUD DE VERACRUZ, PUBLICADO EN LA G.O. DE 6 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD Y SERVICIOS DE SALUD DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE ABRIL DE 2020 (ABROGADO).
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 27 de julio de 2015.
 
@@ -637,3 +639,13 @@ Que el presente documento, conste en veintidós fojas útiles, contiene el Códi
 A t e n t a m e n t e
 
 Abg. Juan Carlos Rodríguez García, director de asuntos jurídico (sic) de Servicios de Salud de Veracruz.-Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 6 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD Y DEL ORGANISMO PÚBLICO DESCENTRALIZADO SERVICIOS DE SALUD DE VERACRUZ”.]
+
+Primero. Se abroga el Código de Conducta publicado en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, con Número Ext. 296, de fecha 27 de julio 2015.
+
+Segundo. El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
