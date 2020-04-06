@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2020-03-12"
+last_updated: "2020-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -369,7 +369,9 @@ V. Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Sa
 
 VI. Celebrar con la Federación, los acuerdos de coordinación en materia de salubridad general concurrente y exclusiva y los convenios en los cuales éste asuma el ejercicio de las funciones, la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario, de conformidad con la fracción VI del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, siempre y cuando exista recursos presupuestales aprobados para el ejercicio fiscal del que se trate.
 
-VII. Celebrar convenios con los Ayuntamientos para la prestación de los servicios sanitarios locales o la atención de las funciones de salud;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
+
+VII. Celebrar convenios con los Ayuntamientos para la prestación de los servicios sanitarios locales o la atención de las funciones de salud; implementar herramientas de seguimiento y evaluación que permitan conocer periódicamente y de forma actualizada, el estado de las políticas públicas municipales, servicios sanitarios y demás acciones que impacten en los indicadores de salud del Municipio, integrando la información de manera sistemática para facilitar su consulta.
 
 VIII. Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y las que deriven de ésta Ley y demás disposiciones generales aplicables.
 
@@ -433,9 +435,17 @@ II. Certificar la calidad del agua para uso y consumo humano, en los términos d
 
 III. Incluir dentro de sus Bandos de Policía y Buen Gobierno, lo relacionado con los Servicios de Salud que estén a su cargo, y en su caso, expedir los Reglamentos, Circulares y Disposiciones Administrativas respectivas.
 
-IV. Formular y desarrollar programas municipales de salud en el marco del sistema nacional y estatal de salud, y;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
 
-V. Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes.
+IV. Formular y desarrollar programas municipales de salud en el marco del sistema nacional y estatal de salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE ABRIL DE 2020)</small>
+
+V. Colaborar con la Secretaría de Salud del Estado, en la implementación de herramientas de seguimiento y evaluación, que permitan conocer periódicamente, el estado de los servicios sanitarios de su competencia y de las acciones realizadas en su territorio, que impacten en los indicadores de salud; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN V], P.O. 6 DE ABRIL DE 2020)</small>
+
+VI. Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes.
 
 ###### ARTICULO 15.
 
@@ -3388,3 +3398,13 @@ P.O. 12 DE MARZO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL APARTADO A DEL ARTÍCULO 12 Y LAS FRACCIONES IV Y V DEL 14, Y ADICIONA LA FRACCIÓN VI AL 14, TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla, deberá prever la suficiencia presupuestaria para el cumplimiento del presente Decreto, en su caso.
