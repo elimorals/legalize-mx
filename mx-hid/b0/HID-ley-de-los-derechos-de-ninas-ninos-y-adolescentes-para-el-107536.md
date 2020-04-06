@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2019-11-18"
+last_updated: "2020-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -185,7 +185,9 @@ IV. La no discriminación;
 
 V. La inclusión;
 
-VI. El derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
+
+VI. El derecho a la vida, a la supervivencia, al desarrollo y a la paz;
 
 VII. La participación;
 
@@ -203,9 +205,17 @@ XIII. El acceso a una vida libre de violencia;
 
 XIV. La accesibilidad;
 
-XV. Proporcionalidad; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
 
-XVI. Formación Integral.
+XV. Proporcionalidad;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
+
+XVI. Formación Integral; y
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
+
+XVII. Resiliencia.
 
 Así como los Principios contenidos en la Ley de Justicia para Adolescentes del Estado, en aquellas situaciones que sea procedente:
 
@@ -271,7 +281,9 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
+
+I. Derecho a la vida, a la supervivencia, al desarrollo y a la paz;
 
 II. Derecho de prioridad;
 
@@ -323,7 +335,9 @@ XXI. Derecho a una crianza positiva.
 
 Las autoridades federales, estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
-### Capítulo Primero. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
+
+### Capítulo Primero. Del Derecho a la Vida, a la Supervivencia, al Desarrollo y a la Paz
 
 ###### Artículo 14.
 
@@ -335,9 +349,37 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### Artículo 16.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia ni ser utilizados en conflictos armados o violentos.
+Niñas, niños y adolescentes tienen derecho a la paz y a no ser privados de la vida bajo ninguna circunstancia ni ser utilizados en conflictos armados o violentos.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2020)</small>
+
+###### Artículo 16 Bis.
+
+Ante una situación de emergencia o desastre, que ponga en riesgo la vida, la supervivencia, el desarrollo y/o la paz de las niñas, niños y adolescentes, las autoridades deberán implementar las acciones contempladas en los programas, planes y/o protocolos en materia de seguridad pública y de protección civil para salvaguardar sus derechos, observando siempre los principios del interés superior de la niñez y de resiliencia.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2020)</small>
+
+###### Artículo 16 Ter.
+
+Durante las fases de advertencia, impacto, rescate y recuperación que se presentan ante una situación de emergencia o desastre, las autoridades estatales y municipales están obligadas a:
+
+I. Defender, preservar y respetar los derechos de niñas, niños y adolescentes;
+
+II. Garantizar la salud, nutrición, saneamiento e higiene, educación y comunicación de niñas, niños y adolescentes;
+
+III. Compartir información veraz, oportuna y accesible a las niñas, niños, adolescentes y sus familiares;
+
+IV. Prevenir y evitar la separación de las niñas, niños y adolescentes de sus familias;
+
+V. Prevenir y evitar todo tipo de abuso, violencia o explotación contra los niños, niñas y adolescentes;
+
+VI. Brindar los primeros auxilios y el apoyo que requieran las niñas, niños, adolescentes y sus familias; y
+
+VII. En caso de ser necesario, habilitar albergues para las niñas, niños, adolescentes y sus familias.
 
 ### Capítulo Segundo. Del Derecho de Prioridad
 
@@ -1917,7 +1959,7 @@ V. La reincidencia del infractor.
 
 Las sanciones previstas en esta Ley se aplicarán por las siguientes autoridades:
 
-I. La Secretaria de Contraloria y Transparencia Gubernamental del Estado de Hidalgo, en los casos de las fracciones I y II del artículo 139 de esta Ley; y
+I. La Secretaria de Contraloría y Transparencia Gubernamental del Estado de Hidalgo, en los casos de las fracciones I y II del artículo 139 de esta Ley; y
 
 II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación del Poder Judicial del Estado; del Congreso del Estado Libre y Soberano de Hidalgo; órganos con autonomía constitucional, o del Tribunal de Justicia Fiscal y Administrativa del Estado o de tribunales del trabajo o agrarios, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales.
 
@@ -1998,3 +2040,9 @@ P.O. 18 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 393 QUE REFORMA LOS ARTÍCULOS 6 FRACCIONES VI, XV Y XVI; 13 FRACCIÓN I; 16 Y EL CAPÍTULO PRIMERO DEL TÍTULO SEGUNDO; Y ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 6, ASÍ COMO LOS ARTÍCULOS 16 BIS, 16 TER A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
