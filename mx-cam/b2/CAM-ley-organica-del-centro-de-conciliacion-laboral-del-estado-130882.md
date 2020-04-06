@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1308
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-10"
-last_updated: "2018-08-10"
+last_updated: "2020-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,524 +21,286 @@ state: "CAM"
 ---
 # LEY ORGANICA DEL CENTRO DE CONCILIACION LABORAL DEL ESTADO DE CAMPECHE
 
-LEY DE MEDIACIÓN DEL ESTADO DE CHIHUAHUA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 6 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 29 DE OCTUBRE DE 2014, SE DEROGAN, DE LA LEY DE MEDIACIÓN DEL ESTADO DE CHIHUAHUA Y DE OTROS ORDENAMIENTOS LEGALES, LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.</small>
+LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014 (DEROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2020 (ABROGADA).
 
-Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 7 de junio de 2003.
+Ley publicada en la Cuarta Sección al Número 745 del Periódico Oficial del Estado de Campeche, el viernes 10 de agosto de 2018.
 
-EL CIUDADANO CONTADOR PUBLICO PATRICIO MARTINEZ GARCIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
+DECRETO
 
-QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE
+La LXII Legislatura del Congreso del Estado de Campeche decreta:
 
-D E C R E T O
+Número 301
 
-DECRETO No.
+ÚNICO.- Se expide la Ley Orgánica del Centro de Conciliación Laboral del Estado de Campeche, para quedar como sigue:
 
-718/03 II P.O.
+“LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CAMPECHE”
 
-LA SEXAGÉSIMA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, EN SU SEGUNDO PERÍODO ORDINARIO DE SESIONES, DENTRO DE SU SEGUNDO AÑO DE EJERCICIO CONSTITUCIONAL,
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-DECRETA:
+###### Artículo 1.
 
-###### ARTÍCULO ÚNICO.
+Las disposiciones contenidas en la presente Ley son de orden público, interés general y observancia obligatoria en todo el Estado y tienen como propósito establecer la organización y funcionamiento del Centro de Conciliación Laboral del Estado de Campeche, en los términos de lo dispuesto en el artículo 123, apartado A, fracción XX, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
-Se expide la Ley de Mediación del Estado de Chihuahua", para quedar en los términos siguientes:
+###### Artículo 2.
 
-LEY DE MEDIACIÓN DEL ESTADO DE CHIHUAHUA
+El Centro de Conciliación Laboral del Estado de Campeche, identificado con el acrónimo “CENCOLAB”, es un organismo descentralizado de la Administración Pública Estatal, especializado e imparcial, con personalidad jurídica y patrimonio propio, dotado de plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, en los términos de lo dispuesto en el artículo 76 ter de la Constitución Política del Estado de Campeche, el cual queda sectorizado a la Secretaría de Trabajo y Previsión Social de la Administración Pública del Estado de Campeche.
 
-### CAPÍTULO PRIMERO. Disposiciones Generales
+###### Artículo 3.
 
-###### Artículo 1°.
+El Centro de Conciliación Laboral del Estado de Campeche tiene por objeto ofrecer el servicio público de conciliación laboral para la resolución de los conflictos entre trabajadores y empleadores en asuntos del orden local, procurando el equilibrio entre los factores de la producción y ofreciendo a éstos una instancia eficaz y expedita para ello.
 
-La presente Ley es de orden público, interés social y observancia general en todo el Estado.
+###### Artículo 4.
 
-###### Artículo 2°.
+El Centro de Conciliación Laboral del Estado de Campeche tendrá su domicilio legal en la Ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, y podrá establecer oficinas de representación en todos los Municipios del Estado de Campeche.
 
-El objeto de esta Ley es regular la institución de la mediación como procedimiento para solucionar conflictos interpersonales.
+###### Artículo 5.
 
-###### Artículo 3°.
+El Centro contará con los servidores públicos que requiera para el cumplimiento de sus funciones y sus atribuciones estarán contenidas en su Reglamento Interior.
 
-La mediación tendrá como finalidad primordial la consecución de un acuerdo satisfactorio para todas las partes involucradas en un conflicto.
+Las relaciones de trabajo entre el Centro y su personal se regirán por la Ley de los Trabajadores al Servicio del Gobierno del Estado de Campeche y contará con un sistema de Servicio Profesional de Carrera.
 
-###### Artículo 4°.
+###### Artículo 6.
 
-La mediación será aplicable:
+Para los efectos de esta Ley, se entenderá por:
 
-I.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2006)
+I. Constitución General: a la Constitución Política de los Estados Unidos Mexicanos.
 
-II.- En materia civil, mercantil y familiar, en los asuntos que sean objeto de transacción o convenio, que no alteren el orden público, ni contravengan alguna disposición legal expresa o afecten derechos de terceros.
+II. Constitución Estatal: a la Constitución Política del Estado de Campeche
 
-###### Artículo 5°.
+III. Ley: a la Ley Orgánica del Centro de Conciliación Laboral del Estado de Campeche.
 
-Para efectos de la presente Ley se entenderá por:
+IV. Secretaría de Trabajo: a la Secretaría de Trabajo y Previsión Social de la Administración Pública del Estado de Campeche (STPSCAM).
 
-I.- Mediación: procedimiento en virtud del cual un tercero imparcial y capacitado, denominado el mediador, facilita a los participantes en una disputa a comunicarse adecuadamente y promueve la negociación entre ellos con el fin de lograr una solución parcial o total aceptable a las partes involucradas en el conflicto.
+V. Centro: al Centro de Conciliación Laboral del Estado de Campeche (CENCOLAB).
 
-II.- Mediador: Persona preparada para conducir profesionalmente una mediación.
+VI. Junta de Gobierno: a la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Campeche.
 
-III.- Mediados: Personas que son parte en un conflicto y que acuden a la mediación para tratar de resolverlo de común acuerdo.
+VII. Director General: al Director General del Centro de Conciliación Laboral del Estado de Campeche.
 
-###### Artículo 6°.
+VIII. Conciliación: al proceso en el que uno o más conciliadores asisten a las partes en conflicto, para facilitar las vías de diálogo, proponiendo alternativas y soluciones al conflicto.
 
-Se crea un órgano desconcentrado del Poder Judicial del Estado, denominado Centro Estatal de Mediación, el cual tendrá como fin organizar y promover la mediación.
+###### Artículo 7.
 
-Se contará con un Centro Estatal y tantos Centros Regionales como señala el presupuesto. El Centro, bien sea el Estatal o Regional, dentro de su ámbito de competencia, para el cumplimiento de su objetivo, tendrá las siguientes funciones:
+En la operación del Centro prevalecerán los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
 
-I. Fomentar y promover la mediación.
+### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL CENTRO
 
-II. Estudiar y difundir las técnicas de la mediación.
+###### Artículo 8.
 
-III. Instituir el registro de mediadores que formen parte del Centro Estatal de Mediación, así como el registro de los mediadores independientes que lo soliciten.
+El Centro tendrá las siguientes atribuciones:
 
-IV. Designar al mediador cuando no lo hagan las partes.
+I. Ofrecer el servicio público de conciliación laboral en conflictos del orden local, de acuerdo con el artículo 123, apartado A fracción XX, de la Constitución General;
 
-V. Resolver las cuestiones que se susciten en las mediaciones.
+II. Coordinar y supervisar las oficinas del Centro que se encuentren en el Estado;
 
-VI. Vigilar que los procedimientos de mediación se lleven a cabo en los términos de la presente Ley.
+III. Formar, capacitar y evaluar a los conciliadores;
 
-VII. Atender las quejas y sugerencias con relación a los servicios que prestan el Centro y los mediadores registrados en el mismo.
+IV. Solicitar la colaboración de las dependencias y entidades de las Administraciones Públicas Federal, Estatal y Municipales, así como de los particulares, para el debido cumplimiento de sus objetivos;
 
-VIII. Formalizar los convenios que le sean presentados por mediadores particulares, a fin de hacerlos susceptibles de ser sancionados y aprobados y, en su caso, ejecutados forzosamente, y
+V. Establecer los convenios necesarios con instituciones públicas o privadas, para lograr los propósitos de la presente Ley;
 
-IX. Las demás que establezcan los ordenamientos legales derivados de la presente Ley.
+VI. Presentar anualmente al Gobernador del Estado un informe general de las actividades realizadas, así como su proyecto de presupuesto de egresos, a fin de que se considere en la iniciativa de Ley de Presupuesto de Egresos del Estado;
 
-###### Artículo 7°.
+VII. Llevar a cabo programas de difusión en toda (sic) el Estado, a través de los medios de comunicación masiva, para conocer los servicios que presta;
 
-El Centro Estatal de Mediación estará a cargo de un Director General. El presupuesto señalará el número de Centros Regionales que se establecerán, cada uno estará a cargo de un Subdirector Regional.
+VIII. Celebrar convenios entre las partes del conflicto laboral, de conformidad con las disposiciones legales y lineamientos que al efecto se emitan al momento de entrar en vigor las reformas contenidas en la Ley Federal del Trabajo, las cuales deberán hacerse por escrito y contener una relación circunstanciada de los hechos que lo motiven y de los derechos comprendidos en los mismos;
 
-### CAPÍTULO SEGUNDO. Del Centro Estatal de Mediación
+IX. Tramitar la ratificación de los convenios o liquidación, para su validez, ante la autoridad jurisdiccional correspondiente, siempre que no contengan renuncia de los derechos de los trabajadores, misma que los aprobará, y elevar a la categoría de sentencia, cuya ejecución deberá regirse de conformidad con las disposiciones legales y lineamientos que al efecto se emitan al momento de entrar en vigor las reformas contenidas en la Ley Federal del Trabajo;
 
-###### Artículo 8°.
+X. Expedir copias certificadas de los convenios laborales a los que se arribe en el procedimiento de conciliación y del resto de los documentos que obren en los expedientes que se encuentren en los archivos del Centro; y
 
-Para el nombramiento del Director General del Centro Estatal de Mediación se atenderá a lo dispuesto por los Artículos 35 y 50 de la Ley Orgánica del Poder Judicial del Estado, así como a lo dispuesto por el artículo 22 de la presente Ley.
+XI. Las demás que le confiera la Ley Federal del Trabajo, la Ley de la Administración Pública Paraestatal del Estado de Campeche, los reglamentos correspondientes y demás disposiciones aplicables.
 
-Los Subdirectores Regionales y los mediadores adscritos al Centro serán nombrados por el Director General. Los Subdirectores Regionales también deberán satisfacer los requisitos exigidos para los mediadores por el artículo 22 de la presente Ley. El Director General elegirá a los aspirantes que, de acuerdo a la fracción IV de dicho numeral, obtengan la más alta calificación. El nombramiento de estos funcionarios deberá ser aprobado por el Pleno del Supremo Tribunal de Justicia.
+### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DEL CENTRO
 
-### CAPÍTULO TERCERO. Facultades y Obligaciones del Director General del Centro Estatal de Mediación
+###### Artículo 9.
 
-###### Artículo 9°.
+Para el ejercicio de las atribuciones y el despacho de los asuntos que le competen, el Centro estará integrado por:
 
-El Director General del Centro Estatal de Mediación tendrá las siguientes facultades y obligaciones:
+I. La Junta de Gobierno;
 
-I. Dirigir el Centro Estatal de Mediación y vigilar el cumplimiento de sus objetivos;
+II. El Director General; y
 
-II. Nombrar a los Subdirectores Regionales, así como a los mediadores adscritos al Centro, en los términos del último párrafo del artículo 8;
-
-III. Supervisar que los asuntos mediados en el Centro y sus dependencias cumplan con los requisitos establecidos en la presente Ley y su Reglamento;
-
-IV. Elaborar propuestas para promover y difundir la mediación;
-
-V. Promover en los mediadores la capacitación y actualización constante en la materia;
-
-VI. Instituir el registro de mediadores;
-
-VII. Mantener un padrón actualizado de mediadores y programas de mediación;
-
-VIII. Designar al mediador cuando no lo hagan las partes;
-
-IX. Intervenir y resolver las cuestiones que se susciten en las mediaciones, relativas a la solución del conflicto planteado;
-
-X. Registrar los convenios celebrados por los mediadores legalmente autorizados por el Centro, que así lo soliciten;
-
-XI. Evaluar los procedimientos de mediación que se lleven a cabo en el Centro Estatal y en los Centros Regionales;
-
-XII. Celebrar toda clase de actos jurídicos que permitan el cumplimiento de sus objetivos;
-
-XIII. Celebrar convenios con organismos públicos o privados con características y funciones similares, propias para coordinar y concertar acciones que le permitan cumplir con sus objetivos;
-
-XIV. Rendir al Pleno del Supremo Tribunal de Justicia del Estado un informe dentro de los primeros cinco días de cada mes y uno anual dentro de los primeros cinco días del mes de enero de cada año, acerca de las actividades y resultados obtenidos por el Centro;
-
-XV. Elaborar los informes o las propuestas que, en relación con sus funciones, le sean solicitados por conducto del Presidente del Supremo Tribunal de Justicia del Estado; y,
-
-XVI. Las demás que deriven de esta Ley y otras disposiciones jurídicas que resulten aplicables.
+III. El Órgano de Vigilancia.
 
 ###### Artículo 10.
 
-Los Subdirectores Regionales, en el ámbito de su función, tendrán las mismas facultades y obligaciones que el Director General, a excepción de la establecida en la Fracción II.
+La Junta de Gobierno es el órgano máximo de decisión y establecimiento de políticas del Centro y se integra por:
+
+I. Un Presidente, que será el Titular de la Secretaría de Trabajo y Previsión Social.
+
+II. Los Titulares de:
+
+a. La Secretaría General de Gobierno;
+
+b. La Secretaría de la Contraloría;
+
+c. La Secretaría de Finanzas;
+
+d. La Secretaría de Desarrollo Económico.
+
+III. Los representantes de:
+
+a. Un representante de las organizaciones patronales;
+
+b. Un integrante de la organización de trabajadores más representativas a nivel estatal, de acuerdo con el número de miembros registrados ante la STPSCAM.
 
 ###### Artículo 11.
 
-La organización y funcionamiento del Centro se regulará por lo que disponga la presente Ley, su Reglamento y lo que en particular acuerde el Pleno del Supremo Tribunal de Justicia del Estado, conforme a sus facultades.
+Los integrantes de la Junta de Gobierno podrán ser suplidos en las sesiones.
+
+Los suplentes de las o los titulares de las Secretarías General de Gobierno, de Trabajo y Previsión Social, Finanzas, Contraloría y Desarrollo Económico deberán tener, por lo menos, el nivel de Subsecretario o Subsecretaria.
+
+Las organizaciones de trabajadores y empleadores designarán a sus suplentes.
 
 ###### Artículo 12.
 
-La mediación tendrá las características y se regirá por los principios que se señalan en este Capítulo, siempre en el propósito de alcanzar la solución de los conflictos entre particulares.
+Los integrantes de la Junta de Gobierno y, en su caso, sus suplentes tendrán derecho a voz y voto.
 
 ###### Artículo 13.
 
-La participación de los mediados en el procedimiento de la mediación debe ser por su propia decisión. Este procedimiento responderá a la voluntad de los mediados para acudir, permanecer o retirarse libremente del procedimiento de la mediación.
+A las sesiones de la Junta de Gobierno asistirá el Director General con derecho a voz, pero sin derecho a voto.
 
 ###### Artículo 14.
 
-Los mediadores tienen la obligación de ayudar a las partes a llegar a un arreglo satisfactorio, sin imponer o inclinarse por una solución determinada. Están obligados a generar condiciones de igualdad para que los mediados logren acuerdos mutuamente beneficiosos.
+A solicitud de los integrantes de la Junta de Gobierno en las sesiones podrán participar los servidores públicos y personas expertas que de acuerdo con la agenda de temas a tratar sea conveniente, lo harán exclusivamente durante el desahogo de los puntos para los que fueron convocados y no tendrán derecho a voto.
+
+El Presidente de la Junta de Gobierno designará a un secretario quien lo auxiliará en el desarrollo de las sesiones y en la elaboración y resguardo de actas.
+
+Las personas que sean designadas para integrar la Junta de Gobierno no percibirán retribución o compensación por su participación, ya que ésta es de carácter honorario.
 
 ###### Artículo 15.
 
-La información derivada del procedimiento de mediación es confidencial y no debe ser revelada en ninguna etapa del procedimiento a persona ajena a las negociaciones sin el consentimiento de quien proporcionó dicha información. La confidencialidad involucra al mediador y a los mediados, así como a toda persona vinculada a dicha mediación.
+La Junta de Gobierno llevará a cabo sesiones ordinarias por lo menos una vez cada trimestre; el Presidente podrá convocar a sesiones extraordinarias por sí o a solicitud de la mayoría de sus integrantes.
 
-Para los efectos de la presente Ley, la información que reciba el mediador con motivo del ejercicio de sus funciones, deberá ser salvaguardada como secreto profesional, por lo que se observará lo siguiente:
-
-I. La información que el mediador reciba en una reunión privada con uno de los mediados, no podrá ser relevada en la sesión conjunta sin obtener previa autorización de la persona de quien se obtuvo la información.
-
-II. El mediador no podrá ser testigo en procedimiento alguno que tenga relación con los hechos ventilados en la mediación.
-
-III. No está sujeta al deber de confidencialidad establecido en el párrafo primero, la información obtenida en el curso de la mediación que implique una amenaza para la vida o la integridad física o psíquica de una persona o revele la comisión de un delito.
+La Junta de Gobierno sesionará válidamente contando con la presencia del Presidente y la mayoría de sus integrantes. Las resoluciones se tomarán por mayoría de los integrantes presentes teniendo el Presidente voto de calidad, para el caso de empate.
 
 ###### Artículo 16.
 
-El procedimiento de mediación posee una estructura a la que se le atribuyen reglas mínimas, por lo que no debe interpretarse como un procedimiento rígido, sino flexible. Durante el procedimiento, el mediador y los mediados pueden obviar etapas y convenir la forma en que se desarrollará más efectiva y eficazmente la comunicación entre los mediados.
+La Junta de Gobierno es la máxima autoridad del Centro y tendrá las siguientes atribuciones:
+
+I. Aprobar el Manual de Organización, el Manual de Procedimientos, el Manual de Servicios al Público, el Código de Conducta, y demás disposiciones administrativas que regulen la operación y el funcionamiento del Centro;
+
+II. Aprobar el Reglamento Interior del Centro de Conciliación Laboral del Estado de Campeche (CENCOLAB);
+
+III. Aprobar las bases para la organización, funcionamiento y desarrollo del Sistema de Servicio Profesional de Carrera, así como emitir los lineamientos y criterios para la selección de Conciliadores y demás personal del Centro;
+
+IV. Aprobar el programa institucional;
+
+V. Aprobar el programa anual y el anteproyecto de presupuesto de egresos como sus modificaciones, así como el informe de resultados respecto del ejercicio anterior que serán presentados por la Dirección General;
+
+VI. Aprobar a propuesta de la Dirección General, el establecimiento, reubicación y cierre de oficinas en el territorio del Estado;
+
+VII. Autorizar la creación de Comités de Apoyo y en su caso, la participación de profesionistas independientes en los mismos, así como sus honorarios;
+
+VIII. Conocer los informes y dictámenes que presente el Órgano Interno de Control;
+
+IX. Aprobar el calendario anual de sesiones;
+
+X. Someter a evaluación a los trabajadores del Centro cuando lo considere necesario; y
+
+XI. Las demás dispuestas por la Ley Federal del Trabajo, la Ley de la Administración Pública Paraestatal del Estado de Campeche, los reglamentos correspondientes y demás disposiciones aplicables.
 
 ###### Artículo 17.
 
-Sólo podrán ser objeto de mediación los conflictos derivados de los derechos que se encuentren dentro de la libre disposición de los mediados.
-
-Tratándose de conflictos que no han sido ventilados en un proceso jurisdiccional, si el mediador duda de la legalidad o viabilidad de un acuerdo, tiene conocimiento o, al menos un indicio de que está basado en información falsa o de mala fe, deberá recomendar a los mediados que se apoyen en expertos de la materia relacionada con dicho acuerdo antes de finalizarlo, cuidando que tal intervención no perjudique o entorpezca el procedimiento de mediación o, en su caso, a alguno de los mediados.
-
-Si el conflicto es materia de algún proceso jurisdiccional, la autoridad judicial determinará si el asunto es susceptible de ser solucionado a través de mediación.
+El Director General del Centro será nombrado conforme a lo dispuesto en el artículo 76 ter de la Constitución Estatal.
 
 ###### Artículo 18.
 
-El mediador deberá excusarse de participar en una mediación o dar por terminada la misma si, a su juicio, estima que tal acción favorecería sólo a los intereses de uno de los mediados.
+Serán facultades y obligaciones del Director General las siguientes:
 
-Desde el principio, el mediador deberá reconocer sus capacidades, limitaciones e intereses personales e institucionales y se excusará de participar en una mediación por razones de conflicto de intereses o por falta de preparación para llevar a cabo el procedimiento de una forma adecuada.
+I. Dirigir técnica y administrativamente las actividades del Centro;
 
-No será impedimento para fungir como mediador el parentesco que se tenga con ambos mediados, siempre que éstos soliciten expresamente la intervención de aquél.
+II. Administrar y representar legalmente al Centro, así como delegar su representación;
 
-### CAPÍTULO CUARTO. Características y Principios de la Mediación
+III. Presentar a la aprobación de la Junta de Gobierno, el proyecto de Manual de Organización, Manual de Procedimientos, Manual de Servicios al Público, Código de Conducta, Reglamento Interior y demás disposiciones administrativas que regulen la operación y el funcionamiento del Centro;
+
+IV. Proponer al (sic) Junta de Gobierno para su aprobación, las bases para la organización, funcionamiento y desarrollo del Sistema de Servicio Profesional de Carrera;
+
+V. Presentar al (sic) Junta de Gobierno, durante el primer trimestre de su gestión para su aprobación, el proyecto de programa institucional que deberá contener metas, objetivos, recursos, indicadores de cumplimiento y deberá considerar las prioridades y lineamientos sectoriales;
+
+VI. Presentar al (sic) Junta de Gobierno para su aprobación, el programa anual y el anteproyecto de presupuesto correspondiente, así como un informe de resultados respecto del ejercicio anterior. Tanto el programa anual como el informe deberán contener metas, objetivos, recursos e indicadores de cumplimiento;
+
+VII. Someter a la aprobación de la Junta de Gobierno, el establecimiento, reubicación y cierre de oficinas en el territorio del Estado. El Manual de Organización determinará el ámbito de actuación de tales oficinas;
+
+VIII. Definir las políticas de instrumentación de los sistemas de control que fueren necesarios, incorporando información estadística para la mejora de la gestión;
+
+IX. Proponer al (sic) Junta de Gobierno la creación de comités de apoyo y, en su caso la participación y honorarios de profesionistas independientes en los mismos;
+
+X. Imponer medios de apremio contenidas en la Ley Federal del Trabajo, para el caso de inasistencia del solicitado cuando este sea el patrón, dentro del procedimiento de conciliación contemplado en la mencionada Ley;
+
+XI. Proponer a la Junta de Gobierno los programas permanentes de actualización, capacitación y certificación de conciliadores; y
+
+XII. Las demás dispuestas por la Ley Federal del Trabajo, la Ley de la Administración Pública Paraestatal, los reglamentos correspondientes y demás disposiciones aplicables.
+
+### CAPÍTULO CUARTO. DEL CONTROL Y EVALUACIÓN DEL CENTRO
 
 ###### Artículo 19.
 
-Los mediadores podrán solicitar asesoría de profesionales ajenos al Centro, en los casos o situaciones en que se requieran conocimientos especializados. El Centro Estatal y los Centros Regionales podrán tener asesores adscritos, según sus posibilidades presupuestales.
+El órgano de vigilancia del Centro estará integrado por un comisario público propietario y un suplente designados por la Secretaría de la Contraloría, además del órgano interno de control, conforme a lo dispuesto en la legislación en materia de responsabilidades administrativas, la Ley de la Administración Pública Paraestatal del Estado de Campeche y demás disposiciones aplicables.
 
-### CAPÍTULO QUINTO. Del Mediador
-
-###### Artículo 21.
-
-Los mediadores adscritos al Centro Estatal de Mediación podrán ejercer la mediación dentro de instituciones públicas estatales o municipales.
-
-Los demás mediadores podrán prestar dicho servicio en forma independiente o dentro de organizaciones privadas que se constituyan para brindar este servicio, en los términos que prevé esta Ley y su Reglamento.
-
-###### Artículo 22.
-
-El mediador adscrito al Centro Estatal de Mediación deberá cumplir los siguientes requisitos:
-
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
-
-II. Tener título de Licenciado en Derecho, expedido por autoridad o institución legalmente facultada para ello;
-
-III. Acreditar, con documento idóneo, que está capacitado con un mínimo de cien horas en técnicas de mediación; y,
-
-IV. Aprobar examen teórico práctico relativo al proceso de mediación.
-
-###### Artículo 23.
-
-El mediador particular, para poder formar parte del registro de mediadores independientes, deberá cumplir con los siguientes requisitos:
-
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
-
-II. Acreditar, con documento idóneo, que está capacitado en técnicas de mediación; y,
-
-III. Aprobar el examen teórico práctico relativo al proceso de mediación.
-
-###### Artículo 24.
-
-Son facultades y obligaciones del mediador:
-
-I. Vigilar el adecuado desarrollo del proceso, atendiendo a los principios y etapas de la mediación y al acuerdo que exista entre los mediados, de conformidad con lo establecido en la presente Ley y demás disposiciones aplicables;
-
-II. Facilitar la comunicación entre las partes y promover la compresión entre ellas con el fin de que éstas encuentren solución al conflicto planteado;
-
-III. Vigilar que las partes tomen sus decisiones disponiendo de la información y el asesoramiento suficientes, a fin de obtener los acuerdos de una manera libre. Para cumplir con lo anterior, el mediador deberá dar oportunidad suficiente a las partes de consultar a sus asesores antes de aceptar el acuerdo de composición;
-
-IV. Mantenerse actualizado en la teoría y práctica del proceso de mediación;
-
-V. Declarar la improcedencia de la mediación en los casos en que se contravenga lo dispuesto por la Fracciones I y II del Artículo 4 de la presente Ley;
-
-VI. Excusarse de intervenir como mediador cuando se encuentre en alguno de los supuestos mencionados en el Artículo 18 de la presente Ley, salvo el caso previsto en el último párrafo de dicho precepto;
-
-VII. Suspender o dar por terminado el proceso en los casos siguientes:
-
-a).- La falta de disposición para colaborar de alguna de las partes, o
-
-b).- Si peligra la integridad física o psíquica de cualquiera de los participantes. De ser necesario, remitirá el asunto a la autoridad competente.
-
-###### Artículo 25.
-
-Los Servicios prestados por el Centro Estatal de Mediación y los Centros Regionales serán gratuitos. Los sueldos que reciban los servidores públicos adscritos a la misma, serán cubiertos conforme al Presupuesto de Egresos del Poder Judicial del Estado.
-
-Tratándose de servicios privados, los mediadores podrán cobrar honorarios que acuerden con sus clientes. De no existir convenio, se aplicaran las disposiciones arancelarias correspondientes.
-
-### CAPÍTULO SEXTO. De los Mediados
-
-###### Artículo 26.
-
-Los mediados deberán asistir personalmente a las reuniones de mediación. Cuando se trate de personas morales, por conducto de sus representantes, siempre y cuando cuenten con facultades para pleitos y cobranzas, otorgadas en los términos de la legislación vigente. En su caso, se observara lo dispuesto en la parte final del artículo 20.
-
-###### Artículo 27.
-
-Los mediados tendrán los siguientes derechos y obligaciones:
-
-I.- Nombrar al mediador. En el supuesto de que no logren llegar a un acuerdo al respecto, podrán acudir a la Dirección General del Centro Estatal o al Centro Regional, según sea el caso, para que se les asigne uno;
-
-II.- Cambiar de mediador cuando el designado no cumpla con alguno de los requisitos u obligaciones establecidos en esta Ley, o en caso de que alguno de los mediados no quiera continuar el procedimiento con el mediador nombrado. Si el mediador pertenece al Centro Estatal de Mediación, los mediados solicitaran a dicha institución el cambio por escrito, manifestando el motivo de dicha petición;
-
-III.- Allegarse por sus propios medios de la asistencia técnica o profesional que requieran;
-
-IV.- Durante el desarrollo de la mediación, las partes tendrán que mantener su compromiso de respeto a las actuaciones promovidas por el mediador, manteniendo una posición de colaboración y apoyo permanente a sus funciones; y
-
-V.- Los participantes en el procedimiento de mediación deberán respetar y seguir los principios de la mediación enumerados en la presente Ley; de lo contrario, la mediación podrá suspenderse o terminarse a solicitud de cualquiera de las partes o a iniciativa del mediador.
-
-### CAPÍTULO SÉPTIMO. Desarrollo de las Actuaciones de Mediación
-
-###### Artículo 28.
-
-La mediación podrá iniciarse:
-
-I.- Antes del comienzo de un juicio, a instancia de cualquiera de los que tuvieren interés jurídico en el mismo, acudiendo ante el Centro Estatal o a los Centros Regionales de Mediación, para que se cite a quien tenga un interés contrario a sus pretensiones.
-
-II.- En el caso de juicios civiles, mercantiles o familiares ya iniciados:
-
-a).- De oficio, una vez fijada la litis, proponiendo el juez la apertura del procedimiento de mediación, corriendo traslado a las partes por el término de tres días, a fin de que, de no existir algún rechazo, se proceda a dar tramite al mismo.
-
-b).- A petición expresa de una de las partes, realizada ante el juez, en cualquier etapa del juicio, siempre y cuando la contraparte este de acuerdo y la sentencia que ponga fin al proceso no haya causado ejecutoria.
-
-III.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2006)
-
-IV.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2006)
-
-###### Artículo 29.
-
-El mediador será designado de común acuerdo por las partes de entre los inscritos en el registro de medidores proporcionado por el Centro Estatal de Mediación. De no ser así, el Centro podrá designar al mediador que se encargue de dirigir el procedimiento.
-
-En todo caso, deberá informárseles a los interesados si se trata de un mediador adscrito al Centro, o si es particular.
-
-###### Artículo 30.
-
-El mediador deberá citar a las partes a una primera reunión, en la cual les explicará las características del procedimiento y lo que comprende la mediación. La entrevista podrá ser solo con alguna o con todas las partes y el mediador. Lo anterior quedará a criterio del mediador.
-
-En la medida de lo posible, se deberá identificar el objeto de la mediación. En esta etapa, el mediador determinará si la mediación es el procedimiento adecuado para resolver la disputa; de no ser así, remitirá a las partes en conflicto a la autoridad que deba conocer del asunto.
-
-###### Artículo 31.
-
-De la reunión inicial de mediación se levantara un acta circunstanciada, en la que se expresará la fecha, la voluntariedad de la participación de las partes, la aceptación de las reglas de este proceso y, de ser posible, el número de sesiones previstas. El acta se firmará por triplicado, entregándose un ejemplar a cada una de las partes y otro al mediador.
-
-###### Artículo 32.
-
-Las sesiones de mediación serán orales y se efectuarán las que resulten necesarias. Los mediados podrán dar por terminado el proceso en cualquier etapa del mismo. El mediador, lo hará en los términos del artículo siguiente.
-
-###### Artículo 33.
-
-La mediación se tendrá por concluida en los siguientes supuestos:
-
-I.- Por convenio que establezcan la consecución de acuerdos parciales o totales;
-
-II.- Ante la imposibilidad de llegar a un acuerdo, sobre todo en el objeto de la mediación;
-
-III.- Por decisión del mediador ante la falta de disposición para colaborar de alguna de las partes;
-
-IV.- Por decisión del mediador o de los mediados, ante el incumplimiento de los principios de la mediación por cualquiera de los participantes;
-
-V.- Por decisión del mediador, cuando alguno de los participantes incurra en un comportamiento irrespetuoso o agresivo; o,
-
-VI.- Por inasistencia de los mediados, sin causa justificada, a más de tres sesiones.
-
-###### Artículo 34.
-
-De la sesión final de la mediación se levantará un acta, en la cual se asentaran las circunstancias siguientes:
-
-I.- La imposibilidad de llegar a un acuerdo sobre todo en el objeto de la mediación; o,
-
-II.- Los acuerdos totales o parciales conseguidos.
-
-El acta deberá ser firmada por las partes y por el mediador o mediadores que hubiesen participado.
-
-###### Artículo 35.
-
-El convenio resultante de la mediación deberá cumplir con los siguientes requisitos:
-
-I.- Constar por escrito;
-
-II.- Señalar lugar y fecha de la celebración;
-
-III.- Señalar el nombre o denominación y los generales de los mediados. Cuando en la mediación hayan intervenido representantes, deberá hacerse constar el documento con el que acreditaron dicho carácter;
-
-IV.- Describir el conflicto y demás antecedentes que resulten pertinentes;
-
-V.- Especificar los acuerdos a que hubieren llegado los mediados;
-
-VI.- Contener la firma de quienes lo suscriben. En caso de que alguno de los mediados no supiere o no pudiere firmar, pondrá sus huellas dactilares, haciéndose constar esta circunstancia.
-
-VII.- Contener la firma del mediador o mediadores que intervinieron en la mediación.
-
-###### Artículo 36.
-
-Los convenios celebrados ante un mediador privado, cuando no se haya iniciado juicio, serán ratificados ante cualquier mediador del Centro Estatal de Mediación, Notario Público o Autoridad Judicial, quienes en su caso lo sancionarán y aprobarán.
-
-Los convenios celebrados ante un mediador oficial se ratificarán ante este o ante Notario Público cuando no exista juicio.
-
-El acuerdo obtenido a través del procedimiento de mediación, cuando exista proceso judicial, deberá incorporarse a este y se ratificará ante el tribunal o notarialmente.
-
-Los convenios obtenidos en la mediación tendrán los efectos de una transacción y serán sancionados y aprobados, en los términos de la Ley de la materia.
-
-Cuando alguna de las partes en conflicto se encuentre en alguno de los supuestos a que se refiere el artículo 13 del Código Civil, necesariamente deberá someterse el convenio a la sanción y aprobación de la autoridad judicial.
-
-###### Artículo 37.
-
-El mediador deberá comunicar por escrito a la autoridad competente el resultado de la mediación, en un plazo máximo de diez días contados a partir de la terminación de la esta.
-
-###### Artículo 38.
-
-La intervención del Centro Estatal de Mediación suspenderá la prescripción de las acciones de los asuntos que se sometan a su consideración. Si no se llegará a un arreglo ante el Centro, continuará corriendo el término de la prescripción de las acciones que correspondan, a partir de que se declare agotado el procedimiento.
-
-En el reglamento que se expida para tal efecto, se dictarán las normas relativas a la organización, funcionamiento y publicidad del registro de mediadores, a su capacitación, régimen de vigilancia y sanción de los mismos y a aquellas normas de desarrollo y de procedimiento que sean necesarias para el cumplimento de sus objetivos.
+### CAPÍTULO QUINTO. DEL PATRIMONIO DEL CENTRO
 
 ###### Artículo 20.
 
-Las partes deberán asistir personalmente a las reuniones de mediación, sin que puedan valerse de representantes o intermediarios, con excepción de las personas morales, que podrán hacerlo por conducto de sus representantes, siempre y cuando éstos cuenten con facultades expresas para transigir, en los términos de la legislación respectiva. Fuera de este último caso, se evitará en lo posible la presencia de representantes o asesores en dichas reuniones, a fin de preservar el carácter personalísimo del proceso de mediación.
+El patrimonio del Centro se integra por:
 
-Sin embargo, se podrá dar intervención al mandatario en los casos en que por razones especiales o extraordinarias se justifique tal circunstancia y sea en beneficio de la mediación. Cuando se permita que uno de los mediados se asista de asesor, deberá informarse al otro mediado para que éste pueda hacer uso de similar derecho.
+I. Los bienes muebles e inmuebles que se destinen a su servicio o adquiera en propiedad;
+
+II. Los recursos financieros que se le asignen en el Presupuesto de Egresos del Estado para su funcionamiento;
+
+III. Las donaciones o legados que se otorguen a su favor;
+
+IV. Los subsidios y apoyos que en efectivo o en especie, le otorguen los gobierno federal, estatal y municipal, así como personas físicas y morales del sector productivo de bienes y servicios, privado y social; y
+
+V. Los demás bienes, derechos y recursos que adquiera por cualquier título legal.
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+PRIMERO.- La presente ley entrará en vigor el día en que entren en vigor las modificaciones respectivas a la Ley Federal del Trabajo.
 
-La Ley de Mediación del Estado de Chihuahua, así como las reformas a la Ley Orgánica del Poder Judicial, entraran en vigor el día primero de julio del año 2003.
+SEGUNDO.- La Junta de Gobierno deberá instalarse en un plazo no mayor a diez días naturales, contados a partir del día siguiente de la entrada en vigor del presente decreto.
 
-###### ARTÍCULO SEGUNDO.
+TERCERO.- El Centro comenzará a prestar el servicio público de conciliación cuando entren en vigor las modificaciones respectivas a la Ley Federal del Trabajo, en la que se establezca el procedimiento que habrá de observarse en la instancia conciliatoria, la cual deberá regirse de conformidad con las disposiciones legales y lineamientos que al efecto se emitan al momento de entrar en vigor las reformas contenidas en la Ley Federal del Trabajo.
 
-El Reglamento de dicha ley será expedido por el Ejecutivo Estatal, previa opinión del Supremo Tribunal de Justicia del Estado de Chihuahua, en un término de 120 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+CUARTO.- El Ejecutivo Estatal y el H. Congreso del Estado realizarán las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros que permitan el cumplimiento del presente decreto.
 
-###### ARTÍCULO TERCERO.
+QUINTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
 
-El Pleno del Supremo Tribunal de Justicia del Estado, estará facultado para designar como primer Director del Centro Estatal de Mediación a la persona que reúna los requisitos establecidos por la ley o sujetar el nombramiento al concurso de méritos, según decida.
+Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los veintiséis días del mes de julio del año dos mil dieciocho.
 
-ECONÓMICO.- Aprobado que sea, túrnese a la Secretaría, a efecto de que elabore el Decreto en los términos en que deba publicarse.
+C. Leticia del Rosario Enríquez Cachón, Diputada Presidenta.- C. Silverio Baudelio Cruz Quevedo, Diputado Secretario.- C. Guadalupe Tejocote González, Diputada Secretaria.- Rúbricas.
 
-Dado en el Salón de Sesiones del Poder Legislativo del Estado de Chihuahua, a los veintisiete días del mes de mayo del año dos mil tres.
+RAFAEL ALEJANDRO MORENO CÁRDENAS, Gobernador del Estado de Campeche, mediante el presente Decreto, se hace saber a los habitantes del Estado de Campeche:
 
-DIPUTADO PRESIDENTE
+Que la LXII Legislatura del H. Congreso del Estado Libre y Soberano de Campeche me ha dirigido el Decreto número 301, por lo que, en cumplimiento de lo dispuesto por los artículos 48, 49 y 71, fracción XVIII, de la Constitución Política del Estado de Campeche, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
-MARIO TREVIZO SALAZAR.
+Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintisiete días del mes de julio del año dos mil dieciocho.
 
-DIPUTADA SECRETARIA
+EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
 
-ALMA DELIA URRUTIA CANIZALES
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-DIPUTADO SECRETARIO
+P.O. 6 DE ABRIL DE 2020.
 
-JORGE ARELLANES MORENO
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 124 POR EL QUE "SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CAMPECHE".]
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiocho días del mes de mayo del año dos mil tres.
+SEGUNDO.- Se abroga la Ley Orgánica del Centro de Conciliación Laboral del Estado de Campeche, publicada en el Periódico Oficial del Estado el 10 de agosto de 2018.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+TERCERO.- El Centro de Conciliación Laboral del Estado de Campeche comenzará a prestar el servicio público una vez que se realice la declaratoria a la que se refiere el artículo transitorio Vigésimo Cuarto del Decreto publicado el 1 de mayo de 2019 en el Diario Oficial de la Federación, por el que se derogan, adicionan y reforman diversas disposiciones de la Ley Federal del Trabajo.
 
-C.P. PATRICIO MARTINEZ GARCIA.
+CUARTO.- La persona Titular de la Secretaría de Trabajo y Previsión Social, en su carácter de Presidenta o Presidente de la Junta de Gobierno, deberá convocar a la primera sesión de dicho órgano de gobierno, dentro de los 90 días siguientes a la designación de la o el Titular del Centro de Conciliación Laboral.
 
-EL SECRETARIO GENERAL DE GOBIERNO
+QUINTO.- El Reglamento Interior del Centro de Conciliación Laboral deberá ser aprobado en la primera sesión de la Junta de Gobierno.
 
-LIC. SERGIO ANTONIO MARTINEZ GARZA.
+SEXTO.- La Evaluación y Selección de las y los Conciliadores que formen parte del Centro de Conciliación Laboral del Estado de Campeche deberá sujetarse a las disposiciones y lineamientos generales que, para tal efecto, emita el Consejo Coordinador para la Implementación de la Reforma al Sistema de Justicia Laboral.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+SÉPTIMO.- El Ejecutivo Estatal y el H. Congreso del Estado realizarán las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros que permitan el cumplimiento del presente decreto.
 
-P.O. 9 DE DICIEMBRE DE 2006.
-
-###### ARTÍCULO ÚNICO.
-
-La presente derogación entrará en vigor atendiendo a las reglas de inicio de vigencia del nuevo Código de Procedimientos Penales, sin perjuicio de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE OCTUBRE DE 2014.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se abroga la Ley Orgánica del Poder Judicial del Estado, publicada en el Periódico Oficial del Estado de Chihuahua número 1, del cuatro de enero de mil novecientos ochenta y nueve.
-
-###### ARTÍCULO TERCERO.
-
-Se abroga la Ley de la Defensoría Pública del Estado de Chihuahua.
-
-###### ARTÍCULO CUARTO.
-
-Se derogan, de la Ley de Mediación del Estado de Chihuahua y de otros ordenamientos legales, las disposiciones que se opongan al presente Decreto.
-
-###### ARTÍCULO QUINTO.
-
-Los magistrados que al día de la entrada en vigor del presente Decreto, se encuentren en situación de jubilación en términos de la ley aplicable y hayan desempeñado sus funciones al menos por un periodo de cinco años, concluirán su encargo y cesarán sus funciones a partir de esa fecha y recibirán los beneficios correspondientes a los magistrados, de conformidad con la legislación vigente al momento de su designación.
-
-A efecto de lo anterior, el día de la entrada en vigor del presente Decreto, el Instituto de Pensiones Civiles del Estado emitirá las constancias relativas a los años de servicio que tengan registrados como trabajados la totalidad de los magistrados integrantes del Pleno del Supremo Tribunal de Justicia, con independencia de sus aportaciones al fondo propio; mismas que serán entregadas de forma inmediata al Secretario General de dicho Tribunal, quien hará del conocimiento a cada uno de los magistrados en situación de jubilación que se encuentran en la hipótesis del párrafo anterior, y a su vez dará inicio a los trámites respectivos.
-
-La notificación a que refiere el párrafo anterior, se realizará de manera personal en la sala de su adscripción y en caso de no encontrarse presente alguno de los magistrados, se hará mediante cédula que se fije en los estrados de la misma. En ambos casos, la notificación surtirá efectos de manera inmediata.
-
-###### ARTÍCULO SEXTO.
-
-Los magistrados designados conforme al artículo 103 de la Constitución local, vigente antes de la reforma aprobada mediante Decreto No. 579/2014 I P.O., publicado en el Periódico Oficial del Estado número 84 de fecha dieciocho de octubre de 2014, que no se ubiquen en el supuesto a que se refiere el artículo anterior, concluirán su encargo y cesarán sus funciones a partir de la fecha en que se encuentren en situación de jubilación, siempre y cuando hayan desempeñado el cargo cuando menos por un periodo de cinco años.
-
-En el supuesto de que un magistrado cumpliere los requisitos para su jubilación, mas no haya desempeñado el cargo por el plazo señalado, concluirá su encargo y cesará en sus funciones al momento en que esto último suceda.
-
-En ambos supuestos, recibirán los beneficios correspondientes, de conformidad con la legislación vigente al momento de su designación.
-
-###### ARTÍCULO SÉPTIMO.
-
-A fin de cubrir las ausencias absolutas que se originen en términos del Artículo Quinto Transitorio, deberá conformarse la Comisión especial que señala el artículo 103 de la Constitución Política del Estado de Chihuahua.
-
-La Comisión deberá quedar integrada e instalada dentro de los tres días siguientes a partir del inicio de vigencia de este Decreto y presentará ante el Congreso del Estado las ternas necesarias para cubrir las vacantes de magistrados, dentro de los treinta días siguientes a su instalación, a fin de que este nombre a quienes asumirán el cargo en un plazo máximo de treinta días posteriores a la recepción de las propuestas.
-
-Durante el plazo que transcurra entre la notificación que realice el Secretario General a los magistrados en situación de jubilación a que se refiere el Artículo Quinto Transitorio y la designación de quienes habrán de ocupar las magistraturas vacantes, ejercerá las funciones de magistrado el secretario de acuerdos de la sala que corresponda o, en su defecto, el funcionario que designe el Presidente del Supremo Tribunal de Justicia del Estado.
-
-###### ARTÍCULO OCTAVO.
-
-La Comisión referida en el artículo precedente, dentro del plazo señalado en el mismo, hará la propuesta de la terna para la designación del Magistrado de la Sala de lo Contencioso Administrativo y Fiscal, así como de las magistraturas que se encuentren pendientes de designar de forma definitiva.
-
-###### ARTÍCULO NOVENO.
-
-Para las designaciones aludidas en los artículos transitorios precedentes, según el número de cargos por cubrir, la Comisión especial propondrá las ternas para ocupar las vacantes, integrándolas, en un caso, únicamente con personas que presten sus servicios al Poder Judicial, y en otro, solo con abogados externos a dicho Poder, de manera alternada.
-
-###### ARTÍCULO DÉCIMO.
-
-Las disposiciones de la Ley Orgánica del Poder Judicial que contiene el presente Decreto, referentes a la duración del período de gestión de la Presidencia del Supremo Tribunal surtirán efectos a partir de su entrada en vigor, por lo que el Magistrado Presidente en funciones deberá concluir su encargo en la fecha que corresponda del año 2017.
-
-###### ARTÍCULO UNDÉCIMO.
-
-El Pleno expedirá el Reglamento Interior y demás disposiciones complementarias a que se refiere esta Ley, en un plazo no mayor de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto.
-
-###### ARTÍCULO DUODÉCIMO.
-
-Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y los que se presenten antes de la instalación de la Sala de lo Contencioso Administrativo y Fiscal serán sustanciados y resueltos en términos de las disposiciones que se reforman.
-
-ARTÍCULO DECIMOTERCERO.- En tanto se expidan las disposiciones reglamentarias a que hace referencia este Decreto, seguirán vigentes aquellas expedidas con fundamento en la ley abrogada, en todo aquello que no contravenga las nuevas disposiciones.
-
-ARTÍCULO DECIMOCUARTO.- Hasta en tanto se conformen los órganos que establece este Decreto, continuarán en funciones los que ejercen las atribuciones correlativas.
-
-ARTÍCULO DECIMOQUINTO.- En tanto se expidan los nombramientos de conformidad con la Ley Orgánica del Poder Judicial del Estado, contenida en el Artículo Primero del presente Decreto, continuarán en vigor los otorgados por los órganos competentes en términos de la ley abrogada.
-
-ARTÍCULO DECIMOSEXTO.- Los procedimientos y actos administrativos que se encuentren en trámite o pendientes de ejecución a la entrada en vigor del presente Decreto, se regirán bajo las reglas procedimentales vigentes al inicio de su trámite.
-
-ARTÍCULO DECIMOSÉPTIMO.- A partir de la entrada en vigor del presente Decreto, se fija un término de treinta días para realizar el procedimiento de entrega recepción de los expedientes y demás documentos que conforman el archivo de la Defensoría de Oficio, a la Secretaría General del Supremo Tribunal de Justicia, por conducto del personal que esta designe.
-
-ARTÍCULO DECIMOCTAVO.- Los servidores públicos que en aplicación del presente Decreto pasen a formar parte del Instituto de la Defensoría Pública, en ninguna forma resultarán afectados en sus derechos laborales. Por cuanto hace a sus prestaciones de seguridad social, continuarán bajo el marco que actualmente les rige.
-
-ARTÍCULO DECIMONOVENO.- A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo contará con un plazo que no exceda de seis meses para efectuar la transferencia de la propiedad de los recursos materiales que correspondan a la Defensoría Pública en favor del Poder Judicial.
-
-###### ARTÍCULO VIGÉSIMO.
-
-Las menciones que se hagan en otras normas, a los órganos, instituciones y funcionarios, previstas en las normas y leyes abrogadas se entenderán referidas a los correlativos que este Decreto prevé.
-
-###### ARTÍCULO VIGÉSIMO PRIMERO.
-
-Se autoriza al Presidente del Supremo Tribunal de Justicia para realizar los ajustes presupuestales y gestiones necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, así como para asegurar la marcha del Poder Judicial.
-
-###### ARTÍCULO VIGÉSIMO SEGUNDO.
-
-Los derechos y obligaciones que se establecen en el presente Decreto para los funcionarios de carrera judicial, serán aplicables también para quienes fueron nombrados con fundamento en la ley que se abroga.
-
-###### ARTÍCULO VIGÉSIMO TERCERO.
-
-Se derogan las disposiciones que se opongan a lo dispuesto por el Artículo Segundo del presente Decreto.
+OCTAVO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
