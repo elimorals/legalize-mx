@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2019-10-14"
+last_updated: "2020-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -119,17 +119,21 @@ Para el cumplimiento de sus fines y funciones, el Ayuntamiento y demás autorida
 
 ### CAPÍTULO IV. Nombre y Escudo
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 10°.
 
-El Nombre y Escudo del Municipio de Asientos son su signo de identidad y sus símbolos representativos, respectivamente. Sin perjuicio de lo anterior, el H. Ayuntamiento puede utilizar un logotipo institucional, característico de su período de gobierno.
+El Nombre y Escudo del Municipio de Asientos, son su signo de identidad y sus símbolos representativos, respectivamente. Sin perjuicio de lo anterior, el H. Ayuntamiento puede utilizar un logotipo institucional, característico de su período de gobierno, de acuerdo a lo que establece la Ley de Imagen Institucional del Estado de Aguascalientes.
 
 ###### ARTÍCULO 11°.
 
 El Municipio conservará su nombre oficial actual, que de conformidad con el artículo 7º de la Ley Municipal para el Estado de Aguascalientes y será el nombre de Asientos.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 12°.
 
-El Escudo Oficial del Municipio de Asientos se describe de la siguiente manera: En la parte superior del escudo se encuentra una antorcha encendida, simbolizando la libertad perenne y el don de la sabiduría. Al fondo aparece el contorno el (sic) mapa estatal, representando la identidad (sic) Aguascalientes y la identificación del municipio. Al frente, enmarcando el interior del escudo, aparece la estilización del pórtico de Tepozán, en representación de las construcciones más ligadas al pasado histórico del municipio.
+El Escudo Oficial del Municipio de Asientos se describe de la siguiente manera: En la parte superior del escudo se encuentra una antorcha encendida, simbolizando la libertad perenne y el don de la sabiduría. Al fondo aparece el contorno del mapa estatal, representando la identidad (sic) Aguascalientes y la identificación del municipio. Al frente, enmarcando el interior del escudo, aparece la estilización del pórtico de Tepozán, en representación de las construcciones más ligadas al pasado histórico del municipio.
 
 Dentro del marco, en la parte superior, una franja azul que corona unas manos acunando tierra en su corteza y su entraña, que representan las actividades características del municipio la agricultura y la minería. Las manos simbolizan el trabajo y la unión de los habitantes. Bajo los marcos aparece un libro abierto, simbolizando las bases constitucionales que otorgan, en el artículo 115, la autonomía del municipio. En el contorno del marco está escrito el lema: Municipio Libre, gente noble, tenaz esfuerzo, futuro inmenso.
 
@@ -147,9 +151,11 @@ Quien contravenga esta disposición será acreedor a las sanciones contenidas en
 
 Los símbolos Municipales antes mencionados, son patrimonio exclusivo del Municipio, por lo que queda estrictamente prohibido su uso para fines publicitarios, o de explotación comercial no oficial por parte de los particulares. Quedando sujetos los infractores a las penas contenidas en el presente Código.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 16°.
 
-En el Municipio de Asientos, se consideran símbolos obligatorios la Bandera, el Himno y Escudos (sic) Nacional Mexicanos, así como el Escudo Particular del Estado de Aguascalientes. El uso de estos símbolos patrios se sujetará a lo dispuesto por las leyes federales y Constitución Local. El mal uso o profanación de estos símbolos patrios, se sujetará a lo establecido por el Código Penal Federal y demás leyes aplicables.
+En el Municipio de Asientos, se consideran símbolos obligatorios la Bandera, el Himno nacional y Escudo Nacional Mexicano, así como el Escudo Particular del Estado de Aguascalientes. El uso de estos símbolos patrios se sujetará a lo dispuesto por las leyes federales y Constitución Local. El mal uso o profanación de estos símbolos patrios, se sujetará a lo establecido por el Código Penal Federal y demás leyes aplicables.
 
 # LIBRO SEGUNDO. DEL TERRITORIO Y LA POBLACIÓN
 
@@ -241,6 +247,8 @@ I. Renuncia expresa ante la autoridad municipal competente; o
 
 II. Por el cambio de residencia fuera del territorio municipal, si este excede de seis meses, salvo que se ocupe de una comisión oficial, enfermedad, estudio, o cualquiera otra causa justificada a juicio de la autoridad competente.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 28°.
 
 Los vecinos mayores de edad tendrán los siguientes derechos y obligaciones:
@@ -257,23 +265,23 @@ II. OBLIGACIONES:
 
 a) Inscribirse en el padrón del Municipio;
 
-b) Inscribir en el Catastro Municipal de Asientos, los predios que son de su propiedad, así como pagarlas contribuciones correspondientes; manifestando las características de dichos inmuebles;
+b) Inscribir en el Catastro Municipal de Asientos, los predios que son de su propiedad, así como pagar las contribuciones correspondientes; manifestando las características de dichos inmuebles;
 
 c) Enviar a sus hijos o pupilos a las escuelas públicas o privadas a fin de obtener por lo menos su educación obligatoria;
 
 d) Desempeñar los cargos declarados como obligatorios por la Constitución Federal y de las leyes que de ella emanen;
 
-e) Atender a los llamados que por escrito o por cualquier otro medio le haga la autoridad municipal competente;
+e) Atender a los llamados que por escrito o por cualquier otro medio oficial le haga la autoridad municipal competente;
 
 f) Contribuir para los gastos públicos del Municipio, de conformidad con las leyes aplicables;
 
 g) Procurar y contribuir a la conservación y mejoramiento de los servicios públicos municipales;
 
-h) Colaborar con las autoridades en la preservación y mejoramiento de la salud pública y el medio ambiente;
+h) Colaborar con las autoridades en la preservación y mejoramiento de la salud pública y el medio ambiente.
 
 i) Respetar y obedecer a las autoridades Municipales legalmente constituidas; y
 
-j) Respetar en todo momento la moral, las buenas costumbres, las leyes, así como el presente Código.
+j) Respetar en todo momento la moral, las buenas costumbres, las leyes y reglamentos vigentes, así como el presente Código.
 
 ###### ARTÍCULO 28° Bis.
 
@@ -317,6 +325,8 @@ Serán considerados huéspedes, aquellas personas que sean alojadas por cuenta p
 
 Son considerados transeúntes o visitantes, todas aquellas personas que, sin ánimos de permanencia, se encuentren de paso en el territorio municipal, ya sea con fines, laborales, culturales, turísticos o meramente de paso.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 32°.
 
 Los habitantes, huéspedes, transeúntes o visitantes, tendrán los siguientes derechos y obligaciones:
@@ -331,17 +341,19 @@ c) Usar con sujeción al presente Código, las instalaciones y servicios públic
 
 II. OBLIGACIONES:
 
-a) Respetar la legislación Federal, Estatal, el contenido del presente Código, así como todas aquellas disposiciones vigentes de carácter público que dicte el Ayuntamiento;
+a) Respetar la legislación Federal, Estatal, el contenido del presente Código y sus reglamentos, así como todas aquellas disposiciones vigentes de carácter público que dicte el Ayuntamiento;
 
 b) No alterar el orden público;
 
 c) Hacer el uso adecuado de las instalaciones públicas municipales; y
 
-d) las demás que impongan las leyes Federales y Estatales.
+d) Las demás que impongan las leyes Federales y Estatales.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 33°.
 
-La violación de los derechos y el incumplimiento (sic) cualquiera de las obligaciones establecidas en el artículo anterior, se sancionará por la autoridad competente, de conformidad con lo establecido por el presente Código o en las leyes aplicables al caso concreto.
+La violación de los derechos y el incumplimiento de cualquiera de las obligaciones establecidas en el artículo anterior, se sancionará por la autoridad competente, de conformidad con lo establecido por el presente Código o en las leyes aplicables al caso concreto.
 
 # LIBRO TERCERO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL GOBIERNO MUNICIPAL
 
@@ -355,9 +367,11 @@ El Honorable Ayuntamiento, es un órgano colegiado, que tendrá la característi
 
 Es un cuerpo formado por varios individuos con personalidad jurídica propia, en el que se llevara a cabo las actividades de policía y buen gobierno del municipio.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 35°.
 
-El Honorable Ayuntamiento se integrará por un Presidente Municipal, los regidores y síndicos que establezcan la constitución local y las disposiciones electorales. Para efecto de lo anterior serán electos por el principio de mayoría relativa y proporcional en los términos de la propia constitución; y en su caso podrá haber uno o dos síndicos según lo disponga el número de habitantes con que cuente el municipio en el momento de las elecciones. Para los efectos de certidumbre jurídica el número de regidores electos por las formulas antes citadas y el número de síndicos que corresponda será determinado por la planilla ganadora de las elecciones del ayuntamiento. Los servidores públicos integrantes del Ayuntamiento durarán en su encargo dos años y tomarán posesión de su cargo el día quince de octubre del año en que se realice la elección.
+El Honorable Ayuntamiento se integrará por un Presidente Municipal, los regidores y síndicos que establezcan la constitución local y las disposiciones electorales. Para efecto de lo anterior serán electos por el principio de mayoría relativa y proporcional en los términos de la propia constitución; y en su caso podrá haber uno o dos síndicos según lo disponga el número de habitantes con que cuente el municipio en el momento de las elecciones. Para los efectos de certidumbre jurídica el número de regidores electos por las formulas antes citadas y el número de síndicos que corresponda será determinado por la planilla ganadora de las elecciones del ayuntamiento. Los servidores públicos integrantes del Ayuntamiento durarán en su encargo el periodo que marque la Ley Municipal para el Estado de Aguascalientes vigente y tomarán posesión de su cargo el día que señale la misma ley en año en que se realice la elección.
 
 ###### ARTÍCULO 36°.
 
@@ -373,6 +387,8 @@ El H. Ayuntamiento de Asientos, funcionará en pleno de sus integrantes, a trav�
 
 ### CAPÍTULO II. De las Facultades del Ayuntamiento
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 39°.
 
 El Ayuntamiento de Asientos, tiene como función general el Gobierno del municipio y como facultades y obligaciones las señaladas en el Artículo 36 de la Ley Municipal para el Estado de Aguascalientes, las señaladas en el presente Código y las enumeradas en las demás disposiciones jurídicas aplicables, en forma enunciativa y no limitativa, son las siguientes:
@@ -383,7 +399,7 @@ II. Señalar en sus reglamentos y bandos, las sanciones a que se sujetarán los 
 
 III. Presentar ante el Congreso del Estado las iniciativas de Ley, en asuntos de su competencia, en los términos de la Constitución Política del Estado;
 
-IV. Proponer anualmente al Congreso del Estado, a más tardar el día 30 de Octubre de cada año, el proyecto de Ley de Ingresos, a efecto de cubrir los gastos ordinarios y extraordinarios del Municipio, para el ejercicio fiscal inmediato, que deberá contener el proyecto de las cuotas y tarifas aplicables a impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo en el plazo señalado, el Congreso del Estado declarará aplicable temporalmente para el siguiente ejercicio fiscal inmediato, el que se encuentra vigente, previniendo al H. Ayuntamiento para que subsane su omisión;
+IV. Proponer anualmente al Congreso del Estado, a más tardar el día 30 de Octubre de cada año, el proyecto de Ley de Ingresos, a efecto de cubrir los gastos ordinarios y extraordinarios del Municipio, para el ejercicio fiscal inmediato, que deberá contener el proyecto de las cuotas y tarifas aplicables a impuestos, derechos, productos, aprovechamientos, explotaciones, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo en el plazo señalado, el Congreso del Estado declarará aplicable temporalmente para el siguiente ejercicio fiscal inmediato, el que se encuentra vigente, previniendo al H. Ayuntamiento para que subsane su omisión;
 
 V. Aprobar su Presupuesto de Egresos, con base en los ingresos disponibles;
 
@@ -403,11 +419,11 @@ XII. Fomentar e impulsar la industria, agricultura, comercio, turismo y demás a
 
 XIII. Fomentar la capacidad emprendedora de los habitantes del Municipio otorgando las mayores facilidades para la instalación, apertura y operación de las empresas;
 
-XlV. Promover la mayor eficiencia en las funciones administrativas y reducir la carga administrativa, a través de implementar mecanismos de simplificación, desarrollo tecnológico e innovación, para ofrecer mejor atención a la ciudadanía y a los particulares;
+XIV. Promover la mayor eficiencia en las funciones administrativas y reducir la carga administrativa, a través de implementar mecanismos de simplificación, desarrollo tecnológico e innovación, para ofrecer mejor atención a la ciudadanía y a los particulares;
 
 XV. Implementar los mecanismos necesarios para dar cumplimiento a la transparencia, al acceso a la información y a la rendición de cuentas, de conformidad a la ley en la materia y al presente Código;
 
-XVI. Tomar las medidas necesarias para dar cumplimiento a lo dispuesto en el Artículo 4° de la Constitución Local;
+XVI. Tomar las medidas necesarias para dar cumplimiento a lo dispuesto en el Artículo 4º de la Constitución Local;
 
 XVII. Promover por todos los medios posibles, la asistencia a las escuelas de nivel preescolar, primarias, secundarias y escuelas del nivel medio superior del Municipio;
 
@@ -447,7 +463,7 @@ XXXIV. Cuidar y exigir del Presidente Municipal, Regidores, Síndico, Secretario
 
 XXXV. Considerar los informes que rindan los Regidores, autoridades subalternas y empleados, así como resolver acerca de los puntos a que los mismos hagan referencia;
 
-XXXVI. Revisar la cuenta pública que mensualmente presente el Comisionado de Hacienda, para su remisión al Congreso del Estado;
+XXXVI. Revisar la cuenta pública que mensualmente presente el Tesorero municipal, para su remisión al Congreso del Estado;
 
 XXXVII. Procurar que las poblaciones cuyo censo sea mayor de 500 habitantes, sean provistas de agua potable, panteones, alumbrado público, policía, mercado, centros de educación primaria y secundaria, lugares de recreo y para la práctica de los deportes;
 
@@ -473,7 +489,7 @@ f) Rastro;
 
 g) Calles, parques, jardines y su equipamiento;
 
-h) Seguridad pública, en los términos del Artículo 21 de la Constitución Federal, policía preventiva municipal y vialidad;
+h) Seguridad pública, en los términos del Artículo 21 de la Constitución Federal, policía preventiva municipal y Movilidad;
 
 XLII. Vigilar que se mantengan en buen estado las unidades deportivas y promocionar la cultural (sic) deportiva en el ámbito de su competencia.
 
@@ -483,9 +499,9 @@ XLIV. Otorgar concesiones y autorizaciones para que el sector privado pueda part
 
 XLV. Autorizar la relotificación, fusión y subdivisión de terrenos en el ámbito de su competencia;
 
-XLVI. Expedir la autorización de fraccionamiento de predios y la constitución del régimen de propiedad en condominio de conformidad con las disposiciones que establece el Código Urbano para el Estado de Aguascalientes, las Leyes de la materia, planes y programas de desarrollo urbano estatal, así como reservas, usos y destinos de áreas y predios, todo ello con la concurrencia del Estado;
+XLVI. Expedir la autorización de fraccionamiento de predios y la constitución del régimen de propiedad en condominio de conformidad con las disposiciones que establece el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes; las Leyes de la materia, planes y programas de desarrollo urbano estatal y municipal, así como reservas, usos y destinos de áreas y predios, todo ello con la concurrencia del Estado;
 
-XLVII. Establecer un sistema de asistencia social a favor de los menores de edad, la integración familiar, los senectos y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general establecer programas cuyo propósito sea el desarrollo integral de la persona humana;
+XLVII. Establecer un sistema de asistencia social a favor de los menores de edad, la integración familiar, los adultos mayores y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general, establecer programas cuyo propósito sea el desarrollo integral de la persona humana;
 
 XLVIII. Dividir el territorio municipal en los términos establecidos en la ley de la materia para una mejor prestación de los servicios públicos;
 
@@ -497,7 +513,7 @@ LI. Participar en la formulación de planes de desarrollo regional, los cuales d
 
 LII. Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en su jurisdicción territorial;
 
-LIII. Intervenir en la regularización de la tenencia de la tierra urbana;
+LIII. Promover la regularización de la tenencia de la tierra urbana;
 
 LIV. Otorgar licencias y permisos para construcciones;
 
@@ -515,11 +531,7 @@ LX. El Municipio podrá coordinarse con otros municipios entre sí, con municipi
 
 LXI. Acordar la categoría y denominación política que les corresponda a las localidades o centros de población;
 
-LXII. Nombrar al Titular de Seguridad Pública y Vialidad Municipal, en su caso coordinarse con el ejecutivo estatal cuando sea aplicable el mando único.
-
-LXIII. Nombrar al Titular de la Contraloría Municipal.
-
-LIX. Nombrar al Juez Calificador.
+LXII. Nombrar al Titular de Seguridad Pública y Movilidad Municipal, en su caso coordinarse con el ejecutivo estatal cuando sea aplicable el mando único.
 
 Obligaciones del Ayuntamiento en Materia de Igualdad y Género.
 
@@ -601,11 +613,13 @@ El Presidente presidirá al Ayuntamiento y al Gobierno Municipal. Tendrá a su c
 
 El Presidente Municipal es el ejecutor de las determinaciones emanadas del Ayuntamiento, y el encargado de realizar la administración del municipio, atribuciones que le concede la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y la ley Municipal para el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 42°.
 
 El Presidente Municipal, tendrá las atribuciones que le confieran este Código, demás leyes federales y estatales y disposiciones aplicables. En forma enunciativa y no limitativa tendrá las facultades de:
 
-I. Promulgar y Publicar los reglamentos, bandos, códigos y de más disposiciones de carácter municipal;
+I. Promulgar y Publicar los reglamentos, bandos, códigos y demás disposiciones de carácter municipal;
 
 II. Dar publicidad a las normas de carácter general aprobadas por el Ayuntamiento;
 
@@ -619,15 +633,15 @@ VI. Legalizar juntamente con el Secretario del Ayuntamiento toda correspondencia
 
 VII. Vigilar e inspeccionar las áreas de la Administración Pública Municipal, cerciorándose de que cumplan cabalmente con las funciones encomendadas;
 
-VIII. Conceder licencias para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Dirección de Finanzas Municipales;
+VIII. Conceder licencias para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Tesorería Municipal;
 
-IX. Tener bajo su mando directo los cuerpos de Seguridad Pública, nombrar y remover a los jefes y agentes de policía y vialidad del Ayuntamiento en su caso coordinarse con el ejecutivo estatal cuando aplique el mando único;
+IX. Tener bajo su mando directo los cuerpos de Seguridad Pública, nombrar y remover a los jefes y agentes de policía y Movilidad del Ayuntamiento en su caso coordinarse con el ejecutivo estatal cuando aplique el mando único;
 
 X. Dentro de su esfera competencial cumplir y hacer cumplir las leyes, tanto federales como locales, así como las disposiciones de carácter municipal;
 
 XI. Tomar la protesta de Ley a los Regidores y Síndico, así como a los demás funcionarios y empleados del Municipio, en términos de ley;
 
-XII. Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Tesorero Municipal, Contralor Municipal y en el caso de la elección del Director de Seguridad Pública y Vialidad Municipal se propondrá una terna en coordinación con el ejecutivo estatal cuando sea aplicable el mando único;
+XII. Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Tesorero Municipal, Contralor Municipal y en el caso de la elección del Director de Seguridad Pública y Movilidad Municipal se propondrá una terna en coordinación con el ejecutivo estatal cuando sea aplicable el mando único;
 
 XIII. Otorgar los nombramientos a los Funcionarios Públicos Municipales;
 
@@ -795,13 +809,17 @@ XXVI. Las demás que expresamente le otorgue el Presente Código, demás leyes y
 
 ### CAPÍTULO I. Del Procedimiento y Protocolo
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 52°.
 
-Para la instalación y toma de protesta constitucional del H. Ayuntamiento, el Presidente Municipal, los Regidores y Síndico tanto del Ayuntamiento en funciones como del electo, se reunirán el día 14 de octubre del año de la elección, en el local y hora que determine el H. Ayuntamiento en funciones.
+Para la instalación y toma de protesta constitucional del H. Ayuntamiento, el Presidente Municipal, los Regidores y Síndico tanto del Ayuntamiento en funciones como del electo, se reunirán En la fecha que en su momento marque la Ley Municipal para el Estado de Aguascalientes del año de la elección, en el local y hora que determine el H. Ayuntamiento en funciones.
 
 A esta sesión asistirá el Gobernador del Estado o su representante, el representante del Congreso del Estado, y el Presidente del Supremo Tribunal de Justicia del Estado o en su caso su representante.
 
-La toma de protesta surtirá efectos a partir de la primera hora del día quince de octubre del año de la elección.
+La toma de protesta surtirá efectos a partir de la primera hora del día que marque la Ley Municipal para el Estado de Aguascalientes del año de la elección.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 53°.
 
@@ -811,29 +829,29 @@ I. Se iniciará la sesión en el lugar y hora que se señale para tal efecto, co
 
 II. El Secretario del H. Ayuntamiento en funciones, dará lectura a la lista de los integrantes del H. Ayuntamiento, salientes y entrantes, y comprobando que se cumpla con el quórum legal establecido en la Constitución Política del Estado de Aguascalientes, la Ley Municipal para el Estado de Aguascalientes y el presente Código, dará lectura al acta de la sesión anterior;
 
-III. A. continuación se declarará en receso la sesión, para que las comisiones protocolarias se trasladen y acompañen hasta el recinto a los representantes oficiales de los Poderes Constitucionales del Estado;
+III. A continuación se declarará en receso la sesión, para que las comisiones protocolarias se trasladen y acompañen hasta el recinto a los representantes oficiales de los Poderes Constitucionales del Estado;
 
 IV. Reiniciada la sesión, ante la representación acreditada del Poder Ejecutivo, de la representación del Poder Judicial y el Congreso del Estado, el Secretario del H. Ayuntamiento en funciones, cederá el uso de la palabra al Presidente Municipal electo;
 
 V. El Presidente Municipal electo solicitará a los Regidores y Síndico electos asistentes que se pongan de pie, quien rendirá la protesta de ley en los siguientes términos:
 
-«"Yo…(Nombre del Presidente)...protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal de Asientos, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que la Sociedad del Municipio de Asientos me lo demande”»;
+""Yo... (Nombre del Presidente)…..protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal de Asientos, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que la Sociedad del Municipio de Asientos me lo demande"";
 
 VI. Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndico electos, a quienes los interrogará en la forma siguiente:
 
-«"Ciudadanos...(Regidores y Síndico)...Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndico Propietarios respectivamente del Municipio de Asientos, que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio"»;
+""Ciudadanos... (Regidores y Síndico)…Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndico Propietarios respectivamente del Municipio de Asientos, que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio"";
 
 VII. Contestarán los Regidores y Síndico levantando su mano derecha:
 
-«...."Sí Protesto"»;
+"…"Sí Protesto"";
 
 Dirá entonces el Presidente Municipal:
 
-«"Si así lo hicieren que la Sociedad del Municipio de Asientos se los premie, si no, se los demande”»;
+""Si así lo hicieren que la Sociedad del Municipio de Asientos se los premie, si no, se los demande"";
 
 VIII. Acto continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
 
-"El H. Ayuntamiento del Municipio de Asientos se declara constituido para el Período Constitucional del 15 de octubre de 2019 al 14 de octubre de 2021 ... (Deberá citar los años en los cuales se ostentará como gobierno)";
+"El H. Ayuntamiento del Municipio de Asientos se declara constituido para el Período Constitucional (Deberá citar los años en los cuales se ostentará como gobierno)";
 
 IX. El Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Pública Municipal;
 
@@ -965,6 +983,8 @@ III. El Síndico saliente y entrante; y
 
 IV. El Contralor entrante y saliente.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 72°.
 
 El Acta de Entrega-Recepción con sus Anexos se presentarán en un documento que será integrado en cuatro tantos para distribuirse de la siguiente forma:
@@ -973,7 +993,7 @@ I. Presidente Municipal entrante;
 
 II. Presidente Municipal saliente;
 
-III. Contaduría Mayor de Hacienda; y
+III. Tesorero Municipal, y
 
 IV. Contraloría Municipal.
 
@@ -1037,11 +1057,13 @@ III. Una relación que señale el marco jurídico de actuación de la dependenci
 
 IV. Formas debidamente requisitadas.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 86°.
 
 Para los gastos pre-operativos de la nueva administración municipal, se le deberá entregar al presidente municipal electo una partida especial que deberá establecerse en el presupuesto de egresos del último año de la administración. La partida, así como su manejo y entrega se deberá ceñir a las siguientes reglas:
 
-I. La cantidad asignada será entregada en tres partes a más tardar en las siguientes fechas, la primera el día veinte de septiembre, la segunda el veinte de octubre y la tercera el treinta de noviembre;
+I. La cantidad asignada será entregada en tres partes dentro de los tres meses anteriores a la fecha de término de la administración;
 
 II. El presidente municipal electo deberá firmar de recibido de las cantidades que se le entreguen; y
 
@@ -1091,6 +1113,8 @@ Los acuerdos del Ayuntamiento se tomarán por mayoría de votos, salvo en el cas
 
 Si fuere el caso, el Secretario certificará, pasados 15 minutos de la hora señalada para la sesión, que no existe quórum legal para los efectos de suspensión de la misma.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 95°.
 
 Las Sesiones del Cabildo serán: Ordinarias, Extraordinarias, Solemnes, por regla general las sesiones tendrán carácter de públicas.
@@ -1099,11 +1123,75 @@ I. Sesiones Ordinarias, son aquellas que convoca el presidente municipal con tal
 
 a) Sesiones Ordinarias Abiertas, son aquellas en donde puede asistir cualquier público.
 
-b) Sesiones Ordinarias Cerradas, son aquellas en donde por su naturaleza se traten asuntos que deba guardarse debida secrecia.
+b) Sesiones Ordinarias Cerradas, son aquellas en donde por su naturaleza se traten asuntos que deba guardarse debida secrecía.
 
-II. Sesiones Extraordinarias, son aquellas que convoca el presidente municipal, cierto numero de regidores, el secretario del ayuntamiento o en su caso el ayuntamiento en pleno para tratar asuntos extraordinarios o calificados de importancia para el municipio, también podrán ser abiertas o cerradas.
+II. Sesiones Extraordinarias, son aquellas que convoca el presidente municipal, cierto número de regidores, el secretario del ayuntamiento o en su caso el ayuntamiento en pleno para tratar asuntos extraordinarios o calificados de importancia para el municipio, también podrán ser abiertas o cerradas.
 
 III. Sesiones Solemnes, son aquellas que sean convocadas por el presidente municipal para efectuar un acto solemne o en su caso entregar una distinción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 95° BIS.- Para efectos de las sesiones ordinarias abiertas, se atenderá a lo señalado en la Ley de Participación Ciudadana del Estado de Aguascalientes conforme a lo siguiente:
+
+Las sesiones de Cabildo Abierto versarán acerca de uno o varios de los siguientes temas:
+
+I. Seguridad Pública;
+
+II. Desarrollo Social;
+
+III. Desarrollo Económico y Turismo;
+
+IV. Planeación Urbana y Rural;
+
+V. Agua Potable, Alcantarillado y Saneamiento;
+
+VI. Obras Públicas; y
+
+VII. Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos.
+
+Las sesiones de Cabildo Abierto deberán realizarse en la sesión ordinaria de (sic)
+
+los meses de febrero, mayo, agosto y noviembre de cada año.
+
+El municipio de Asientos publicará una convocatoria anual en la que se indicará las fechas de sesión de cabildo abierto.
+
+La convocatoria será publicada en la página web del Ayuntamiento, en la Gaceta Municipal o en los estrados de las oficinas del Ayuntamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 95° TER.- Para participar en el Cabildo Abierto se deberá registrar una solicitud de inscripción acompañada de una copia de identificación oficial vigente, que se presentará ante las mesas receptoras del municipio.
+
+Las mesas receptoras se instalarán cinco días hábiles previos a la sesión de cabildo abierto.
+
+La solicitud deberá contener:
+
+I. Nombre, Domicilio, firma y correo electrónico si lo tiene, si hay varios solicitantes, los datos del Representante común;
+
+II. Señalamiento de si la solicitud es para la discusión, presentación de idea, propuesta, iniciativa, demanda, petición o gestión; y
+
+III. Especificar el tema de la solicitud y hacer una narración sucinta de los motivos de la misma.
+
+El Ayuntamiento establecerá el número máximo de solicitudes por sesión.
+
+La autoridad municipal competente, podrá requerir al solicitante en caso de que sea necesario, aclaraciones de la solicitud durante la Sesión de Cabildo Abierto.
+
+La autoridad municipal competente notificará a los solicitantes el día y la hora en la que se llevará su sesión de Cabildo Abierto, atendiendo al orden de prelación de presentación de la solicitud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 95° QUÁTER.- El solicitante tiene los siguientes derechos y obligaciones:
+
+I. Asistir a la sesión el día y la hora señalada y apegar se (sic) a lo determinado en su solicitud;
+
+II. Dispondrá de cinco minutos para realizar una exposición argumentativa de la propuesta o petición al inicio de la sesión;
+
+III. Durante el desarrollo de la sesión tendrá derecho a voz, pero no a voto, las ocasiones que lo solicite mientras se encuentre en discusión el tema que expuso; y
+
+IV. Tendrá derecho a mantenerse informado en lo relativo al estado de su solicitud.
+
+El solicitante podrá ser retirado de la sesión por cualquier falta de respeto o acto que altere el orden de la sesión.
+
+En todo lo relativo al desarrollo de la sesión de Cabildo Abierto y no previsto en este código, se estará a lo dispuesto para las sesiones de Cabildo abierto en lo previsto en la Ley de Participación Ciudadana para el Estado de Aguascalientes o en la Ley Municipal para el Estado de Aguascalientes.
 
 ###### ARTÍCULO 96°.
 
@@ -1111,27 +1199,33 @@ El H. Ayuntamiento podrá ordenar la comparecencia de cualquier funcionario de l
 
 Dichos servidores públicos rendirán los informes solicitados, y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes del caso cuando así lo amerite.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 97°.
 
 El Secretario del H. Ayuntamiento, deberá estar presente durante la celebración de las sesiones de Cabildo, para dar fe y refrendar los acuerdos tomados en la Sesión, pudiendo expedir certificaciones, y en su caso, en acuerdo con el Presidente Municipal emitir documentos distintivos, declarativos o diplomas de los acuerdos asentados en el libro de actas.
 
-Las faltas temporales del Secretario del H. Ayuntamiento, serán suplidas por el Director de Asuntos Jurídicos o Director Jurídico del Ayuntamiento, según sea la designación.
+Las faltas temporales del Secretario del H. Ayuntamiento, serán suplidas por el Director de Asuntos Jurídicos del Ayuntamiento.
 
-Será el Director de Asuntos Jurídicos o Director Jurídico del Ayuntamiento, quien auxiliara al Presidente, y fungirá como Secretario de manera temporal en la primera sesión ordinaria de cabildo, cuando para el efecto no se haya designado, ni tomado protesta de ley al que fungirá definitivamente como Secretario del Ayuntamiento, de igual forma, para la ausencia del secretario del ayuntamiento, en alguna sesión de cabildo que deba efectuarse el director de asuntos jurídicos o director jurídico del ayuntamiento, sustituirá para tal efecto al citado secretario.
+Será el Director de Asuntos Jurídicos, quien auxiliará al Presidente, y fungirá como Secretario de manera temporal en la primera sesión ordinaria de cabildo, cuando para el efecto no se haya designado, ni tomado protesta de ley al que fungirá definitivamente como Secretario del H. Ayuntamiento, de igual forma, para la ausencia del Secretario del H. Ayuntamiento, en alguna sesión de cabildo que deba efectuarse el Director de Asuntos Jurídicos del H. Ayuntamiento, sustituirá para tal efecto al citado Secretario.
 
 ###### ARTÍCULO 98°.
 
 Es obligación de los integrantes del H. Ayuntamiento, concurrir a las Sesiones de Cabildo a que sean convocados. El Regidor o Síndico que falte sin causa justificada a cinco o más sesiones será sancionado de acuerdo a lo que señala la Ley Municipal para el Estado de Aguascalientes y el presente Código.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 99°.
 
-En las sesiones de Cabildo que sean abiertas, se podrá permitir el ingreso al recinto oficial al público en general, el cual deberá observar buena conducta y respeto hacia los integrantes de Cabildo. De tal circunstancia se hará la observación a voz viva por parte del secretario.
+En las sesiones de Cabildo que sean abiertas, se podrá permitir el ingreso al recinto oficial al público en general, el cual deberá observar buena conducta y respeto hacia los integrantes de Cabildo. De tal circunstancia se hará la observación a voz viva por parte del Secretario.
 
 ### CAPÍTULO II. De las Sesiones Ordinarias
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 100°.
 
-Las Sesiones Ordinarias deberán celebrarse el primer lunes de cada mes, los Regidores y Síndico o Síndicos deberán ser citados con 72 horas de anticipación como mínimo por el Presidente Municipal, a través del Secretario del H. Ayuntamiento, a dicho citatorio se le tendrá que anexar el orden del día y todos los documentos o datos necesarios respecto de los puntos a tratar en el citado orden del día, esto es con la finalidad de que los miembros del ayuntamiento puedan estudiar y analizar previamente todos y cada uno de los asuntos a tratar en la sesión correspondiente, y así puedan emitir su voto de manera conciente y responsable.
+Las Sesiones Ordinarias deberán celebrarse el primer lunes de cada mes, los Regidores y Síndico o Síndicos deberán ser citados con 72 horas de anticipación como mínimo por el Presidente Municipal, a través del Secretario del H. Ayuntamiento, a dicho citatorio se le tendrá que anexar el orden del día y todos los documentos o datos necesarios respecto de los puntos a tratar en el citado orden del día, esto es con la finalidad de que los miembros del H. Ayuntamiento puedan estudiar y analizar previamente todos y cada uno de los asuntos a tratar en la sesión correspondiente, y así puedan emitir su voto de manera consiente y responsable.
 
 ###### ARTÍCULO 101°.
 
@@ -1155,17 +1249,23 @@ VIII. Citación para la próxima sesión; y
 
 IX. Clausura de la sesión.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 102°.
 
-Para los efectos de la celebración de las sesiones de cabildo, cualquiera que sea su característica, se deberá citar en forma personal a todos los miembros del cabildo. Se entenderá citado personalmente al miembro del cabildo cuando se entregue en su domicilio o en la oficina que tenga designada por su parte el citatorio para la misma. Las sesiones en las que citado legalmente el miembro del cabildo, no asista, se entenderá que esta conforme con la misma.
+Para los efectos de la celebración de las sesiones de Cabildo, cualquiera que sea su característica, se deberá citar en forma personal a todos los miembros del Cabildo. Se entenderá citado personalmente al miembro del Cabildo cuando se entregue en su domicilio o en la oficina que tenga designada por su parte el citatorio para la misma. Las sesiones en las que, citado legalmente el miembro del Cabildo, no asista, se entenderá que está conforme con la misma.
 
-El miembro del H. Ayuntamiento que no hubiere sido citado a una Sesión de Cabildo, dentro de las veinticuatro horas siguientes a la fecha, podrá solicitar una sanción al responsable de la citación de diez salarios mínimos vigentes en el estado de Aguascalientes, y podrá solicitar que se discuta en su presencia el acuerdo en el que no este conforme con su redacción o decisión, debiendo quedar asentado en el acta respectiva su opinión sobre cada uno de los asuntos tratados.
+El miembro del H. Ayuntamiento que no hubiere sido citado a una sesión de Cabildo, dentro de las veinticuatro horas siguientes a la fecha, podrá solicitar una sanción al responsable de la citación de diez salarios mínimos vigentes en el Estado de Aguascalientes, y podrá solicitar que se discuta en su presencia el acuerdo en el que no esté conforme con su redacción o decisión, debiendo quedar asentado en el acta respectiva su opinión sobre cada uno de los asuntos tratados.
 
 ### CAPÍTULO III. De las Sesiones Extraordinarias
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 103°.
 
-Se consideran Sesiones Extraordinarias, las que se celebren entre los periodos de sesiones ordinarias, y se tratará exclusivamente el o los asuntos para el que fue convocado el H. Cabildo, y serán citados por el Presidente Municipal o a petición de la mayoría de sus integrantes y si a juicio de ellos, exista algún asunto que lo amerite.
+Se consideran sesiones extraordinarias, las que se celebren entre los periodos de sesiones ordinarias, y se tratará exclusivamente el o los asuntos para el que fue convocado el Cabildo, y serán citados por el Presidente Municipal o a petición de la mayoría de sus integrantes y si a juicio de ellos, exista algún asunto que lo amerite.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 104°.
 
@@ -1181,6 +1281,8 @@ Para las Sesiones Extraordinarias, los Regidores y Síndico deberán ser citados
 
 ### CAPÍTULO IV. De las Sesiones Solemnes
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 107°.
 
 Serán consideradas por este Código como Sesiones Solemnes las siguientes:
@@ -1193,7 +1295,7 @@ III. Las que se celebren para declarar huéspedes distinguidos a quienes el Ayun
 
 IV. Aquéllas que el Cabildo les dé ese carácter por la importancia que revistan; y
 
-V. Cuando se lleve a cabo el cambio de Gobierno Municipal.
+V. Cuando se lleve a cabo el cambio del H. Ayuntamiento.
 
 ###### ARTÍCULO 108°.
 
@@ -1229,9 +1331,11 @@ III. Las que así acuerde previamente el Cabildo.
 
 En las Sesiones Ordinarias podrá el Cabildo oír al auditorio en sus opiniones sobre el asunto a tratar en el orden del día, previa solicitud que se haga por escrito. Por ningún motivo se permitirá la intervención del público, sin haberse satisfecho este requisito.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 114°.
 
-Los ciudadanos a que se refiere el artículo anterior, deberán hacerlo saber al Secretario del H. Ayuntamiento, antes de iniciarse la sesión para su acuerdo y de haberse aprobado, deberán hablar sobre los temas para los cuales se les concede la intervención.
+Los ciudadanos a que se refiere el artículo anterior, deberán hacerlo saber al Secretario del H. Ayuntamiento, de acuerdo a lo establecido en los artículos 95 Bis, 95 Ter y 95 Quáter del presente Código.
 
 ###### ARTÍCULO 115°.
 
@@ -1263,9 +1367,11 @@ En las sesiones del H. Ayuntamiento, el Presidente Municipal ocupará su lugar a
 
 Cuando se trate de la asistencia del C. Gobernador del Estado a alguna Sesión del H. Ayuntamiento, el Presidente Municipal nombrará dos comisiones para que la primera, lo acompañe al lugar donde se encuentra el recinto de sesiones, y la otra, lo acompañe cuando se retire.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 119°.
 
-En el lugar de sesiones del H. Ayuntamiento, el C. Gobernador tomará asiento al centro y el Presidente Municipal tomará asiento al lado derecho del C. Gobernador. Si asistiera el C. Presidente de la República o su Representante, ocupará su lugar al centro, tomando asiento a la derecha el C. Gobernador y a la izquierda el C. Presidente Municipal. Para los demás invitados, se reservarán lugares especiales.
+En el lugar de sesiones del H. Ayuntamiento, el Gobernador tomará asiento al centro y el Presidente Municipal tomará asiento al lado derecho del Gobernador. Si asistiera el Presidente de la República o su Representante, ocupará su lugar al centro, tomando asiento a la derecha el Gobernador y a la izquierda el Presidente Municipal. Para los demás invitados, se reservarán lugares especiales.
 
 ###### ARTÍCULO 120°.
 
@@ -1373,9 +1479,11 @@ La iniciativa de Ley de Ingresos para el ejercicio fiscal del año siguiente, de
 
 En las deliberaciones para la aprobación de las normas y reglamentos municipales únicamente participarán el Presidente Municipal, los Regidores y Síndico; el Secretario del H. Ayuntamiento sólo participa con voz.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 142°.
 
-Cuando se rechace por el H. Cabildo la iniciativa de una norma municipal no podrá presentarse de nueva cuenta para su estudio, en un término menor de seis meses.
+Cuando se rechace por el Cabildo la iniciativa de una norma municipal no podrá presentarse de nueva cuenta para su estudio, en un término menor de seis meses.
 
 ###### ARTÍCULO 143°.
 
@@ -1405,9 +1513,11 @@ En todo lo no previsto en este Código, se recurrirá a las disposiciones de la 
 
 ### CAPÍTULO I. De los Debates
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 149°.
 
-El Presidente Municipal, presidirá y dirigirá los debates, en los que podrán participar todos los integrantes del H. Cabildo, en el orden en que soliciten hacer uso de la palabra. Los Regidores y Síndico que hagan uso de la palabra tendrán absoluta libertad para expresar sus ideas. Solamente podrán hacer uso de la palabra en asuntos relacionados con el orden del día; y en asuntos generales, sobre aquellos asuntos que se hayan listado al inicio de la sesión para ser tratados en dicho apartado.
+El Presidente Municipal, presidirá y dirigirá los debates, en los que podrán participar todos los integrantes del Cabildo, en el orden en que soliciten hacer uso de la palabra. Los Regidores y Síndico que hagan uso de la palabra tendrán absoluta libertad para expresar sus ideas. Solamente podrán hacer uso de la palabra en asuntos relacionados con el orden del día; y en asuntos generales, sobre aquellos asuntos que se hayan listado al inicio de la sesión para ser tratados en dicho apartado.
 
 ###### ARTÍCULO 150°.
 
@@ -1441,9 +1551,11 @@ Si se propusieran adiciones y las aceptara el autor de la proposición, opinión
 
 Si el dictamen fuere desechado, cualquier integrante del Cabildo podrá proponer los términos en que deba resolverse el asunto, y entonces se pondrá a discusión la nueva propuesta. Si ninguno quisiera hacer la proposición, volverá el dictamen a la Comisión para que lo presente reformado.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 158°.
 
-No podrá efectuarse ninguna discusión, ni resolverse ningún asunto, cuando el Regidor o el Síndico estén ausentes, por causa justificada, excepto cuando la persona aludida hubiere expresado su consentimiento por escrito. Cuando la Comisión esté integrada por dos o más Regidores bastará la presencia de uno de ellos para la discusión del asunto.
+No podrá efectuarse ninguna discusión, ni resolverse ningún asunto, cuando el Regidor que preside la Comisión o el Síndico estén ausentes, por causa justificada, excepto cuando la persona aludida hubiere expresado su consentimiento por escrito. Cuando la Comisión esté integrada por dos o más Regidores bastará la presencia de uno de ellos para la discusión del asunto.
 
 ###### ARTÍCULO 159°.
 
@@ -1547,27 +1659,23 @@ Aquellos distintivos, diplomas o reconocimientos, que por acuerdo de cabildo deb
 
 Los acuerdos tomados legalmente por el Cabildo podrán revocarse únicamente en una sesión a la que concurran las dos terceras partes del total de los integrantes del mismo y siempre y cuando exista causa justificada para tal efecto.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 177°.
 
-Los integrantes del Cabildo que no asistieren a la sesión, sin causa justificada no podrán emitir su voto con posterioridad. Los integrantes del Cabildo que no asistieren a la sesión, pero hubiere causa justificada a juicio del Cabildo, podrán emitir su voto por escrito, el cual deberá de presentarse al inicio de la sesión en sobre sellado, el cual se abrirá al momento de las votaciones el cual deberá ser posteriormente ratificado para hacerse constar en el acta correspondiente.
+Los integrantes del Cabildo que no asistieren a la sesión, sin causa justificada no podrán emitir su voto con posterioridad. Los integrantes del Cabildo que no asistieren a la sesión, pero hubiere causa justificada a juicio del Cabildo, podrán emitir su voto por escrito, el cual deberá de presentarse al inicio de la sesión en sobre sellado, el cual se abrirá al momento de las votaciones debiendo ser posteriormente ratificado para hacerse constar en el acta correspondiente.
 
 ## TÍTULO SEXTO. DE LAS SANCIONES
 
 ### CAPÍTULO UNICO
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 178°.
 
-Cuando un miembro del H. Ayuntamiento infrinja las disposiciones contenidas en la Ley Municipal para el Estado de Aguascalientes o en el presente Código, se hará acreedor a las siguientes sanciones, sin menoscabo de los (sic) que establezcan las demás leyes aplicables en la materia, atendiendo a la gravedad de la falta:
+Cuando un miembro del H. Ayuntamiento infrinja las disposiciones contenidas en la Ley Municipal para el Estado de Aguascalientes o en el presente Código, se hará acreedor a las siguientes sanciones, sin menoscabo de los (sic) que establezcan las demás leyes aplicables en la materia, atendiendo a la gravedad de la falta de acuerdo a lo que establece la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
-I. Amonestación por parte de quién preside la sesión. Dicha amonestación corresponderá al requerimiento del cumplimiento de sus obligaciones, con el apercibimiento de que, en caso de reincidir en conductas impropias, se le aplicarán sanciones de mayor rigidez;
-
-II. Suspensión en el pago de sus dietas, en caso de reincidencia; y
-
-III. Separación de manera temporal o definitiva de su encargo;
-
-IV. Las sanciones y responsabilidades que resulten aplicables en los términos de la Ley Municipal para el Estado de Aguascalientes y la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
-
-Las sanciones antes enumeradas serán aplicadas por el Ayuntamiento, de acuerdo con la gravedad de la falta cometida, de conformidad con el párrafo siguiente.
+Las sanciones mencionadas serán aplicadas por el Ayuntamiento, de acuerdo con la gravedad de la falta cometida, de conformidad con el párrafo siguiente.
 
 En el caso de que un integrante del Ayuntamiento faltare cinco veces a las sesiones de Cabildo, aún cuando no sean consecutivas sin que exista causa justificada se le separará de su cargo y se llamará a su suplente.
 
@@ -1631,6 +1739,8 @@ Las comisiones especiales deberán rendir sus dictámenes, en la siguiente sesi�
 
 De las atribuciones, así como el Régimen de Suplencias del H. Ayuntamiento, del Presidente Municipal, de los Regidores y Síndicos, se estará a lo dispuesto en la Ley Municipal para el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 188°.
 
 El H. Ayuntamiento nombrará las comisiones que tendrán la obligación de vigilar el ramo de la administración que se les encomiende, se les integran comisiones permanentes, y serán las siguientes:
@@ -1641,9 +1751,9 @@ II. Aseo y Alumbrado Público;
 
 III. Derechos Humanos;
 
-IV. Ecología;
+IV. Ecología y Medio Ambiente;
 
-V. Educación Pública, Cultura y Acción Cívica;
+V. Educación Pública, Cultura y Acción Cívica,
 
 VI. Fomento Agropecuario y Desarrollo Rural;
 
@@ -1667,7 +1777,7 @@ XV. Planeación del Desarrollo Municipal;
 
 XVI. Familia, Juventud y Deporte;
 
-XVII. Protección Civil, Seguridad Pública, Tránsito y Vialidad;
+XVII. Protección Civil, Seguridad Pública, Tránsito y Movilidad;
 
 XVIII. Justicia;
 
@@ -1679,7 +1789,7 @@ XXI. Desarrollo Social, Asistencia Social y Discapacidad.
 
 XXII. Obra Pública, Planeación y Desarrollo Urbano
 
-XXIII. Equidad y Género
+XXIII. Equidad de Género
 
 XXIV. Mejora Regulatoria
 
@@ -1721,6 +1831,8 @@ IV. Vigilar la conservación de los sistemas de desagüe, drenaje y colectores d
 
 ### CAPÍTULO II. De la Comisión de Aseo y Alumbrado Público
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 191°.
 
 Son obligaciones y atribuciones de la Comisión de Aseo y Alumbrado Público:
@@ -1733,13 +1845,13 @@ III. Proponer y dictaminar conjuntamente con la comisión edilicia de parques y 
 
 IV. En general de planificar la mejoría constante y total del servicio de alumbrado público en el municipio y promover que se implementen programas de ahorro de energía.
 
-V. Vigilar en general la prestación de servicio público de limpia, lo que implica la organización y funcionamiento de la dependencia encargada de ministrar el mismo;
+V. Vigilar en general la prestación de servicio público de limpiay (sic) aseo, lo que implica la organización y funcionamiento de la dependencia encargada de ministrar el mismo;
 
-VI. Estudiar y proponer al Ayuntamiento programas, acciones y sistemas relativos al servicio de limpia, que se estimen adecuados para el municipio;
+VI. Estudiar y proponer al Ayuntamiento programas, acciones y sistemas relativos al servicio de limpia y aseo, que se estimen adecuados para el municipio;
 
-VII. Promover el establecimiento de un programa de colaboración por parte de los vecinos y las asociaciones vecinales que funcionen en el municipio, para una mejor administración del servicio público de limpia.
+VII. Promover el establecimiento de un programa de colaboración por parte de los vecinos y las asociaciones vecinales que funcionen en el municipio, para una mejor administración del servicio público de limpia y aseo.
 
-VIII. Vigilar que los contenedores de basura se encuentren en los lugares en que fueron asignados, revisar que estén en buen estado para su uso, que cuenten con tapas para evitar los malos olores, asi mismo, hacer consiente a la población del uso correcto de los contendores a través de campañas o publicidad.
+VIII. Vigilar que los contenedores de basura se encuentren en los lugares en que fueron asignados, revisar que estén en buen estado para su uso, que cuenten con tapas para evitar los malos olores, así mismo, hacer consiente a la población del uso correcto de los contenedores a través de campañas o publicidad.
 
 IX. Promover el establecimiento de un programa para que la población separe la basura en orgánica e inorgánica.
 
@@ -1761,11 +1873,15 @@ V. Visitar periódicamente las dependencias e instalaciones de los organismos mu
 
 VI. Promover la capacitación en materia de derechos humanos para los servidores públicos municipales.
 
-### CAPÍTULO IV. De la Comisión de Ecología
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO IV. De la Comisión de Ecología y Medio Ambiente
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 193°.
 
-Son obligaciones y atribuciones de la Comisión de Ecología:
+Son obligaciones y atribuciones de la Comisión de Ecología Medio Ambiente:
 
 I. El estudio, propuesta y dictaminación, en su caso, de los programas y sistemas que puedan beneficiar el ambiente ecológico en el municipio;
 
@@ -1775,7 +1891,7 @@ III. Obtener información sobre experiencias efectivas de saneamiento ambiental 
 
 IV. Promover el desarrollo de la cultura ecológica entre la población, para el cuidado del aire, agua, suelo y del medio ambiente en general;
 
-V. Vigilar conjuntamente con la comisión de parques y jardines, cumplimiento y aplicación de las normas jurídicas sobre ecología, reforestación, control ambiental, poda y derribo de árboles y áreas verdes en general, así como de aquellas disposiciones, medidas, acuerdos o programas que se implementen, tendientes a la mejora en las condiciones de las materias en cuestión;
+V. Vigilar conjuntamente con la comisión de parques y jardines, el cumplimiento y aplicación de las normas jurídicas sobre ecología, reforestación, control ambiental, poda y derribo de árboles y áreas verdes en general, así como de aquellas disposiciones, medidas, acuerdos o programas que se implementen, tendientes a la mejora en las condiciones de las materias en cuestión;
 
 VI. Vigilar conjuntamente con la Comisión de Fomento y Desarrollo Económico, Turismo y Asuntos Internacionales, que el desarrollo económico sea armónico con el cuidado de las normas ecológicas aplicables, evitando la contaminación del aire, del suelo y de los mantos acuíferos.
 
@@ -1849,6 +1965,8 @@ V. Vigilar la Promoción Turística del municipio de Asientos, en coordinación 
 
 ### CAPÍTULO VIII. De la Comisión de Gobernación
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 197°.
 
 Son obligaciones y atribuciones de la Comisión de Gobernación:
@@ -1857,9 +1975,11 @@ I. Vigilar el exacto cumplimiento de la Constitución Política de los Estados U
 
 II. Cuidar y vigilar que se ejecuten las resoluciones del Ayuntamiento; y
 
-III. Formular las iniciativas y los dictámenes en cuanto a los proyectos de reglamentos municipales y disposiciones generales para el Ayuntamiento
+III. Formular las iniciativas y los dictámenes en cuanto a los proyectos de reglamentos municipales y disposiciones generales para el Ayuntamiento.
 
 ### CAPÍTULO IX. De la Comisión de Hacienda y Programación del Gasto Público
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 198°.
 
@@ -1867,15 +1987,17 @@ Son obligaciones y atribuciones de la Comisión de Hacienda y Programación del 
 
 I. Intervenir con el encargado de la Hacienda Municipal en la formulación del proyecto de Ley de Ingresos y del Presupuesto de Egresos del Municipio;
 
-II. Revisar mensualmente los informes de la Hacienda Municipal sobre los movimientos de ingresos y egresos; por el periodo del mes anterior, incluyendo un extracto de los movimientos de cada sub-cuenta, pidiendo al responsable de la Hacienda Municipal las aclaraciones y ampliaciones a la información que juzguen conveniente. Visaran con su firma una copia de los mencionados documentos.
+II. Revisar mensualmente los informes de la Hacienda Municipal sobre los movimientos de ingresos y egresos; por el periodo del mes anterior, incluyendo un extracto de los movimientos de cada sub-cuenta, pidiendo al responsable de la Hacienda Municipal las aclaraciones y ampliaciones a la información que juzguen conveniente. Visarán con su firma una copia de los mencionados documentos;
 
 III. Vigilar, que todos los contratos de compraventa, de comodato, de arrendamiento, o de cualquier naturaleza que impliquen aspectos económicos o financieros que afecten los intereses del Ayuntamiento, se lleven a cabo en los términos más convenientes para éste;
 
-IV. Vigilar los programas especificos de las diferentes dependencias del Ayuntamiento, a efectos de verificar que los recursos económicos, físicos y humanos se manejen con el máximo de eficacia, rectitud y operatividad; y
+IV. Vigilar los programas específicos de las diferentes dependencias del Ayuntamiento, a efectos de verificar que los recursos económicos, físicos y humanos se manejen con el máximo de eficacia, rectitud y operatividad; y
 
 V. En general, las medidas, planes y proyectos y la realización de los estudios necesarios para el mejoramiento y fortalecimiento de la Hacienda Municipal.
 
 ### CAPÍTULO X. De la Comisión de Control Reglamentario, Licencias y Espectáculos Públicos
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 199°.
 
@@ -1887,7 +2009,7 @@ II. Realizar visitas y estudios sistemáticos actualizados sobre las caracterís
 
 III. Proponer al Ayuntamiento la política a seguir en cuanto a espectáculos que se pudieran permitir bajo el criterio de la tolerancia;
 
-IV. Proponer al Ayuntamiento la política a seguir en cuanto a (sic) expedición de Licencias que se pudieran permitir bajo el criterio de la tolerancia, y en cuanto a giros reglamentados;
+IV. Proponer al Ayuntamiento la política a seguir en cuanto a expedición de Licencias que se pudieran permitir bajo el criterio de la tolerancia, y en cuanto a giros reglamentados;
 
 V. Promover la creación, actualización y reforma de los reglamentos municipales para que se ajusten a los requerimientos del municipio;
 
@@ -1899,17 +2021,19 @@ VIII. Proponer al Ayuntamiento sistemas, programas y acciones de difusión y con
 
 ### CAPÍTULO XI. De la Comisión de Mercados, Rastros y Estacionamientos
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 200°.
 
 Son obligaciones y atribuciones de la Comisión de Mercados, Rastros y Estacionamientos:
 
-I. Proponer al Ayuntamiento las directrices de la política municipal a seguir en la atención del servicio público de mercados, tianguis y centrales de abasto, así como lo concerniente a la actividad comercial, industrial y de prestación de servicios de los particulares en el ámbito de competencia municipal.
+I. Proponer al Ayuntamiento las directrices de la política municipal a seguir en la atención del servicio público de mercados, tianguis y centrales de abasto, así como lo concerniente a la actividad comercial, industrial y de prestación de servicios de los particulares en el ámbito de competencia municipal;
 
-II. Proponer o dictaminar lo correspondiente en relación a la construcción o instancia de nuevos establecimientos en que opere y se desarrollen las actividades relativas al servicio público de mercados, tianguis y centrales de abasto, en función a las necesidades de la población y a la disponibilidad de recursos municipales;
+II. Proponer o dictaminar lo correspondiente en relación a la construcción o instalación de nuevos establecimientos en que opere y se desarrollen las actividades relativas al servicio público de mercados, tianguis y centrales de abasto, en función a las necesidades de la población y a la disponibilidad de recursos municipales;
 
 III. Vigilar que las dependencias municipales competentes observen las disposiciones legales que regulan las actividades comerciales, industriales y de prestación de servicios en el municipio, así como las que rigen la operación y organización de servicio público de mercados, centrales de abasto, tianguis y el comercio que se ejerce en la vía pública y en general, la legislación que tenga relación en el funcionamiento de las actividades comerciales, industriales y de servicios de cualquier naturaleza y nivel, que funcionen dentro de la jurisdicción municipal;
 
-IV. Vigilar que la dependencia correspondiente aplique especial atención a las características que deben de reunir los puestos establecidos en los mercados municipales, el funcionamiento de éstos, y que aplique las medidas y controles tendientes a evitar la expansión del comercio que ejerce en la vía pública evitando la autorización para la instalación de puestos en la vía pública, parques públicos, plazas y sitios públicos diversos a los mercados;
+IV. Vigilar que la dependencia correspondiente aplique especial atención a las características que deben de reunir los puestos establecidos en los mercados municipales, el funcionamiento de éstos, y que aplique las medidas y controles tendientes a evitar la expansión del comercio que ejerce en la vía pública evitando la autorización para la instalación de puestos en la vía pública, parques públicos, plazas, y sitios públicos diversos a los mercados;
 
 V. Emitir opinión o dictaminar lo correspondiente acerca del contenido de los permisos, convenios o contratos que celebren el Ayuntamiento con los particulares en relación a los locales de los mercados o de aquellos lugares públicos en que se autorice y determine la instalación de puestos locales o se ministre el servicio en comento;
 
@@ -1933,7 +2057,7 @@ XIV. Vigilar el funcionamiento de los estacionamientos y demás infraestructura 
 
 XV. Vigilar que todos los estacionamientos destinen un cajón de estacionamiento por cada cincuenta cajones o fracción, a partir de treinta cajones, para uso exclusivo de personas discapacitadas, ubicado lo más cercano posible del acceso o elevadores o rampas, y que estos guarden congruencia con las dimensiones que para tal efecto se señalen en este Código;
 
-XVI. Vigilar que los proyectos de obra nueva incluyan los espacios suficientes para estacionamiento dentro del predio, conforme al Capítulo correspondiente. Igualmente, vigilar que cuando se cambie el uso de suelo de un predio u obra, deberá condicionarse la autorización de dicho cambio a que se ajuste la obra o edificación a los requerimientos mínimos en materia de estacionamientos.
+XVI. Vigilar que los proyectos de obra nueva incluyan los espacios suficientes para estacionamiento dentro del predio, conforme al Capítulo correspondiente. Igualmente, vigilar que cuando se cambie el uso del suelo de un predio u obra, deberá condicionarse la autorización de dicho cambio a que se ajuste la obra o edificación a los requerimientos mínimos en materia de estacionamientos.
 
 XVII. Proponer al H. Ayuntamiento la modificación o adecuación de los requerimientos mínimos en materia de cajones de estacionamiento, cuando sea pertinente.
 
@@ -1951,21 +2075,23 @@ III. En general, presentará los planes y lineamientos que se estimen apropiados
 
 ### CAPÍTULO XIII. De la Comisión de Obra Pública, Planeación y Desarrollo Urbano
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 202°.
 
 Son obligaciones y atribuciones de la Comisión de Obra Pública, Planeación y Desarrollo Urbano:
 
 I. El estudio y propuesta de proyectos que promuevan la habitación popular en sus diferentes características o manifestaciones, procurando que a través de los mismos se encuentre una solución justa, equitativa y accesible a las clases populares en la solución de la adquisición y mejoramiento de vivienda, en especial la regeneración de las vecindades;
 
-II. Vigilar con especial interés que los fraccionamientos de habitación popular cumplan estrictamente con las normas legales, vigentes en el momento de autorizarse las concesiones y que el desarrollo de las mismas se ajuste a los lineamientos trazados por la dirección de desarrollo urbano y obras públicas;
+II. Vigilar con especial interés que los fraccionamientos de habitación popular cumplan estrictamente con las normas legales, vigentes en el momento de autorizarse las concesiones y que el desarrollo de las mismas se ajuste a los lineamientos trazados por la Dirección de Planeación y Obras Públicas;
 
 III. Establecer estrategias para elaborar una planeación de crecimiento en el municipio que contenga los ordenamientos y lineamientos para fraccionar y evitar el crecimiento desproporcionado;
 
-IV. Vigilar que la Dirección de Desarrollo Urbano y Obras Públicas desempeñe las funciones que le corresponden en la ejecución de la obra pública municipal, en los términos de las leyes y reglamentos de aplicación municipal;
+IV. Vigilar que la Dirección de Planeación y Obras Públicas desempeñe las funciones que le corresponden en la ejecución de la obra pública municipal, en los términos de las leyes y reglamentos de aplicación municipal;
 
 V. Vigilar directamente que las obras municipales se realicen en concordancia con la planificación y programación autorizada y con apego a los proyectos, planes y contratos que se hubieren acordado y que las originen;
 
-VI. Vigilar que la Dirección de Desarrollo Urbano y Obras Públicas, cumpla y haga cumplir las leyes y reglamentos en materia de construcción de fraccionamientos y en general de desarrollo urbano;
+VI. Vigilar que la Dirección de Planeación y Obras Públicas, cumpla y haga cumplir las leyes y reglamentos en materia de construcción de fraccionamientos y en general de desarrollo urbano;
 
 VII. Proponer proyectos, medidas o acuerdos tendientes a la ejecución de obras en el municipio;
 
@@ -1979,7 +2105,9 @@ XI. La supervisión de todos los planes generales, especiales y de la ejecución
 
 XII. Dictaminar lo correspondiente al programa municipal de desarrollo urbano, a los relativos a centro de población, así como a los diversos planes y acciones urbanísticas que se emprendan en el municipio y cuyo conocimiento competa al Ayuntamiento;
 
-XIII. Promover la creación de reservas territoriales en el municipio para uso habitacional y/o industrial y de servicios, así como la regularización de asentamientos de origen privado.
+XIII. Promover la creación de reservas territoriales en el municipio para uso habitacional y/o industrial y de servicios, así como la regularización de asentamientos de origen privado;
+
+XIV. Hacer valer el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda del Estado de Aguascalientes, en los procesos de planeación del desarrollo urbano.
 
 ### CAPÍTULO XIV. De la Comisión de Parques y Jardines
 
@@ -2019,6 +2147,8 @@ VI. Pugnar por una constante concientización ciudadana en cuanto a la participa
 
 ### CAPÍTULO XVI. De la Comisión de Planeación del Desarrollo Municipal
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 205°.
 
 Son obligaciones y atribuciones de la Comisión de Planeación del Desarrollo Municipal:
@@ -2029,15 +2159,15 @@ II. El señalamiento y sugerencia de políticas generales al Ayuntamiento para l
 
 III. La coordinación y apoyo a las autoridades Federales, Estatales o Municipales a lo correspondiente a la ejecución de planes Nacionales, Regionales, Estatales y Municipales de desarrollo Urbano, así como la vigilancia y difusión de las leyes y reglamentos aplicables sobre la materia;
 
-IV. Hacer valer el Código Urbano en los procesos de planeación del desarrollo urbano;
+IV. Participar en la elaboración del plan de desarrollo municipal.
 
-V. Participar en la elaboración del plan de desarrollo municipal.
+V. Participar en la elaboración de los programas sectoriales y especiales del Gobierno Municipal.
 
-VI. Participar en la elaboración de los programas sectoriales y especiales del Gobierno Municipal.
+VI. Participar en la elaboración de los programas de mejora regulatoria del Gobierno Municipal, especialmente en trámites, servicios y su regulación; y
 
-VII. Participar en la elaboración de los programas de mejora regulatoria del Gobierno Municipal, especialmente en trámites, servicios y su regulación; y
+VII. Vigilar que la dependencia municipal competente realice la intervención que le corresponda en las sesiones de asambleas ordinarias y extraordinarias del Comité de Planeación para el Desarrollo Municipal, de los Consejos Delegacionales de Desarrollo Comunitario, de los comités de desarrollo comunitario, de contraloría social, de obra pública, así como en los conflictos y problemática que se susciten en el seno de estos;
 
-VIII. Vigilar que la dependencia municipal competente realice la intervención que le corresponda en las sesiones de asambleas ordinarias y extraordinarias del Comité de Planeación para el Desarrollo Municipal, de los Consejos Delegacionales de Desarrollo Comunitario, de los comités de desarrollo comunitario, de contraloría social, de obra pública, así como en los conflictos y problemática que se susciten en el seno de estos.
+VIII. Hacer valer las leyes de planeación nacional y estatal en los procesos de planeación del desarrollo municipal.
 
 ### CAPÍTULO XVII. De la Comisión de Familia, Juventud y Deporte
 
@@ -2119,19 +2249,21 @@ V. Dictaminar lo correspondiente en relación a las concesiones que se soliciten
 
 ### CAPÍTULO XXI. De la Comisión de Salubridad y Beneficencia Pública
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 210°.
 
 Son obligaciones y atribuciones de la Comisión de Salubridad y Beneficencia Pública:
 
-I. Estudiar, proponer y dictaminar lo correspondientes a los planos y programas tendientes a proporcionar asistencia social a los habitantes del municipio que la necesiten, primordialmente a los grupos marginados, ancianos en estado de abandono, niños desamparados, minusválidos e indigentes;
+I. Estudiar, proponer y dictaminar lo correspondientes (sic) a los planes y programas tendientes a proporcionar salud y beneficencia pública, primordialmente a los grupos marginados, adultos mayores en estado de abandono, niñas y niños desamparados, personas con capacidades diferentes e indigentes;
 
-II. Vigilar que las dependencias y organismos de índole municipal encargados de ministrar la asistencia social, coadyuven y se coordinen con las autoridades y organismos encargados de dicha materia en el Estado, fortaleciendo e integrando su actividad al sistema estatal de salud y asistencia social;
+II. Vigilar que las dependencias y organismos de índole municipal encargados de ministrar lasalud (sic) y beneficencia pública, coadyuven y se coordinen con las autoridades y organismos encargados de dicha materia en el Estado, fortaleciendo e integrando su actividad al sistema estatal de salud;
 
-III. Visitar periódicamente las dependencias e instalaciones de los organismos municipales de asistencia social, para constatar su desarrollo y proyección;
+III. Visitar periódicamente las dependencias e instalaciones de los organismos municipales de salud y beneficencia pública, para constatar su desarrollo y proyección;
 
-IV. Vigilar que se implemente un directorio o control actualizado de los organismos, instituciones, unidades públicas o privadas o autoridades asistenciales en funciones dentro del municipio, para fomentar las relaciones interinstitucionales;
+IV. Vigilar que se implemente un directorio o control actualizado de los organismos, instituciones, unidades públicas o privadas o autoridades en materia de salud y beneficencia pública, en funciones dentro del municipio, para fomentar las relaciones interinstitucionales;
 
-V. En términos generales, proponer todas las medidas que se estimen pertinentes para orientar la política de asistencia social y de ayuda a la erradicación de la mendicidad del municipio;
+V. En términos generales, proponer todas las medidas que se estimen pertinentes para orientar la política de salud y beneficencia pública, y de ayuda a la erradicación de la mendicidad del municipio;
 
 VI. Vigilar que las dependencias municipales competentes conyuguen (sic) en fortalecimiento del sistema estatal de salud en materia de atención medica que se ministre por el Ayuntamiento a la vigilancia de las condiciones higiénicas, de salubridad o sanitarias de los establecimientos y actividades que se desarrollen en el municipio, colaborando con las autoridades estatales en materia de salud pública, y la aplicación de diferentes leyes federales, estatales y municipales sobre la materia mencionada;
 
@@ -2143,31 +2275,41 @@ IX. Realizar los estudios y gestiones que estimen pertinentes en materia de salu
 
 ### CAPÍTULO XXII. De la Comisión de Desarrollo Social, Asistencia Social y Discapacidad
 
-###### ARTÍCULO 210° Bis.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
-Son obligaciones y atribuciones de la Comisión de Desarrollo Social, Asistencia Social y Discapacidad:
+ARTÍCULO 210° BIS.- Son obligaciones y atribuciones de la Comisión de Desarrollo Social, Asistencia Social y Discapacidad:
 
-I. Impulsar el desarrollo social de todo el municipio;
+I. Estudiar, proponer y dictaminar lo correspondientes (sic) a los planes y programas tendientes a proporcionar asistencia social a los habitantes del municipio que la necesiten, primordialmente a los grupos marginados, adultos mayores en estado de abandono, niñas y niños desamparados, personas con capacidades diferentes e indigentes;
 
-II. Impulsar políticas públicas para el mejoramiento del nivel de vida de los habitantes del municipio, atendiendo prioritariamente a los segmentos sociales de pobreza extrema;
+II. Vigilar que las dependencias y organismos de índole municipal encargados de ministrar la asistencia social, coadyuven y se coordinen con las autoridades y organismos encargados de dicha materia en el Estado, fortaleciendo e integrando su actividad al sistema estatal de salud y asistencia social;
 
-III. Mantener constante comunicación con la Dirección de Desarrollo Social, Económico y Rural, para ejercitar acciones y acatar las disposiciones legales respectivas atendiendo prioritariamente, a los segmentos sociales de pobreza extrema;
+III. Visitar periódicamente las dependencias e instalaciones de los organismos municipales de asistencia social, para constatar su desarrollo y proyección;
 
-IV. Impulsar la concertación con la sociedad (sic) acuerdos de carácter social, político y económico entre el Municipio y grupos sociales;
+IV. Vigilar que se implemente un directorio o control actualizado de los organismos, instituciones, unidades públicas o privadas o autoridades asistenciales en funciones dentro del municipio, para fomentar las relaciones interinstitucionales;
 
-V. Vigilar que se fomente la participación ciudadana para la concertación de intereses, esfuerzos y voluntades para llegar al desarrollo integral de la Comunidad;
+V. Impulsar el desarrollo social de todo el municipio;
 
-VI. Canalizar las iniciativas de la población tendientes a satisfacer sus necesidades, así como inducir su colaboración en la realización de obras y prestación de los servicios públicos municipales;
+VI. Impulsar políticas públicas para el mejoramiento del nivel de vida de los habitantes del municipio, atendiendo prioritariamente a los segmentos sociales de pobreza extrema;
 
-VII. Vigilar que se elaboren, ejecuten evalúen y actualicen los planes y programas de Desarrollo Social Municipal; y
+VII. Mantener constante comunicación con la Dirección de Desarrollo Social, Económico y Rural, para ejercitar acciones y acatar las disposiciones legales respectivas atendiendo prioritariamente, a los segmentos sociales de pobreza extrema;
 
-VII (SIC). Las demás que le confiera el presente Código y demás ordenamientos aplicables.
+VIII. Impulsar la concertación con la sociedad acuerdos de carácter social, político y económico entre el Municipio y grupos sociales;
 
-### CAPÍTULO XXIII. De la Comisión de Equidad y Género
+IX. Vigilar que se fomente la participación ciudadana para la concertación de intereses, esfuerzos y voluntades para llegar al desarrollo integral de la Comunidad;
 
-###### ARTÍCULO 210° Ter.
+X. Canalizar las iniciativas de la población tendientes a satisfacer sus necesidades, así como inducir su colaboración en la realización de obras y la prestación de los servicios públicos municipales;
 
-Son obligaciones y atribuciones de la Comisión de Salubridad y Beneficiencia Pública:
+XI. Vigilar que se elaboren, ejecuten evalúen y actualicen los planes y programas de Desarrollo Social Municipal; y
+
+XII. Las demás que le confiera el presente Código y demás ordenamientos aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO XXIII. De la Comisión de Equidad de Género
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 210° TER.- Son obligaciones y atribuciones de la Comisión de Equidad de Género:
 
 I. Promover la expedición de las normas legales correspondientes,
 
@@ -2185,9 +2327,17 @@ VII. Impulsar la creación de centros de atención para prevenir y erradicar la 
 
 VIII. Coadyuvar con la Instancia Municipal de las Mujeres en los ejes de acción, de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-IX. Vigilar que se implementen cursos y talleres de prevención y protección contra la violencia de género en los cuerpos policiacos; y
+IX. Vigilar que se implementen cursos y talleres de prevención y protección contra la violencia de género en los cuerpos policiacos;
 
-VIII (SIC). Promover la evaluación anual de la actividad de los cuerpos policiacos y servidores públicos encargados de la atención a la violencia de género.
+X. Promover la evaluación anual de la actividad de los cuerpos policiacos y servidores públicos encargados de la atención a la violencia de género;
+
+XI. Promover el derecho a tener igualdad de acceso a las funciones públicas de su Municipio y a participar en los asuntos públicos, incluyendo la toma de decisiones;
+
+XII. Promover la igualdad de oportunidades y de trato entre mujeres y hombres, proponer los lineamientos y mecanismos institucionales que orienten al gobierno municipal hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo;
+
+XIII. Promover la igualdad, la no discriminación, la equidad y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Ley General para la Igualdad entre Hombres y Mujeres; y
+
+XIV. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, deportiva, cultural y civil.
 
 ### CAPÍTULO XXIV. De la Comisión de Mejora Regulatoria
 
@@ -2223,9 +2373,11 @@ VIII. Promover y coadyuvar a la conformación del Consejo Municipal de Mejora Re
 
 El presente libro tiene por objeto regular la estructura y el funcionamiento de la Administración Pública Municipal, así como establecer las funciones, atribuciones e integración de las dependencias administrativas que forman parte de la misma.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 212°.
 
-Las jerarquías, funciones y responsabilidades de los servidores públicos y dependencias administrativas se rigen por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la Ley Municipal para el Estado de Aguascalientes, el presente Código Municipal de Asientos y por la (sic) demás leyes y reglamentos aplicables.
+Las jerarquías, funciones y responsabilidades de los servidores públicos y dependencias administrativas se rigen por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la Ley Municipal para el Estado de Aguascalientes, el presente Código Municipal para Asientos y por la (sic) demás leyes y reglamentos aplicables.
 
 ## TÍTULO SEGUNDO. DE LAS FACULTADES DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
@@ -2273,6 +2425,8 @@ Para cubrir las faltas temporales o definitivas de los regidores se llamará a l
 
 ### CAPÍTULO III. De las Dependencias de la Administración Pública Municipal
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 221°.
 
 Para el conocimiento, estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes unidades administrativas:
@@ -2281,81 +2435,91 @@ I. Oficina del Presidente Municipal;
 
 II. Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
-III. Tesorería Municipal;
+III. Sistema para el Desarrollo Integral de la Familia;
 
-IV. Sindicatura Municipal
+IV. Contraloría Municipal;
 
-V. Desarrollo Integral de la Familia;
+V. Tesorería Municipal;
 
-VI. Dirección de Recursos Humanos y Materiales;
+VI. Dirección de Servicios Públicos Municipales;
 
-VII. Dirección de Desarrollo Social, Económico y Rural;
+VII. Dirección de Desarrollo Social y Rural;
 
-VIII. Dirección de Servicios Públicos Municipales;
+VIII. Dirección de Recursos Humanos y Materiales;
 
 IX. Dirección de Planeación y Obras Públicas;
 
 X. Dirección de Agua Potable, Alcantarillado y Ecología;
 
-XI. Dirección de Turismo;
+XI. Dirección de Seguridad Pública y Movilidad;
 
-XII. Dirección de Educación, Cultura y Deporte;
+XII. Dirección de Salud;
 
-XIII. Dirección de Seguridad Pública y Vialidad;
+XIII. Dirección de la Juventud y el Deporte;
 
-XIV. Dirección de Protección, Salud y Apoyo a la población;
-
-XV. Contraloría Municipal.
+XIV. Dirección de Turismo, Cultura y Desarrollo Económico.
 
 ###### ARTÍCULO 222°.
 
 Cada una de las dependencias administrativas integrantes de la Administración Pública Municipal, tendrán la competencia, facultades y atribuciones señaladas en el presente Código, así como en las demás disposiciones jurídicas aplicables y contará además con la estructura orgánica señalada en el presente ordenamiento y contará con el número de servidores públicos necesarios para realizar su función.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 223°.
 
-Las dependencias administrativas deberán de llevar a cabo sus funciones en forma ordenada y programada, de conformidad y para cumplir con los fines y objetivos trazados en el Plan Municipal de Desarrollo para el periodo que se trate. Pueden coordinar sus funciones con otras dependencias administrativas si así lo consideran pertinente para su correcto cumplimiento.
+Las dependencias administrativas deberán de llevar a cabo sus funciones en forma ordenada y programada, de conformidad y para cumplir con los fines y objetivos trazados en el Plan de Desarrollo Municipal para el periodo que se trate. Pueden coordinar sus funciones con otras dependencias administrativas si así lo consideran pertinente para su correcto cumplimiento.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 224°.
 
-las dependencias de la Administración Pública contarán con las siguientes unidades administrativas:
+Las dependencias de la Administración Pública contarán con las siguientes unidades administrativas:
 
-I. De la oficina del Presidente Municipal:
+I. De la Oficina del Presidente Municipal:
 
 a) Secretaría Particular;
 
-b) Secretaria.
+b) Secretaria;
 
-c) Sindicatura Municipal
+c) Sindicatura Municipal;
 
-d) Coordinador de Asesores
+d) Coordinador de Asesores.
 
-(Asesores de área)
+II. De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
 
-II. De la Secretaría del H. Ayuntamiento:
+a) Dirección de Asuntos Jurídicos;
 
-a) Dirección Jurídica;
+b) Asesor Jurídico;
 
-b) Departamento de Reglamentos y Licencias;
+c) Departamento de Reglamentos y Licencias;
 
-c) Departamento de Comunicación Social:
+d) Departamento de Comunicación Social y Relaciones Públicas;
 
-d) Jueces Calificadores;
+e) Jueces Calificadores;
 
-e) Coordinación de Delegaciones y Casas Ciencia
+f) Coordinación de Delegaciones;
 
-f) Delegados y Comisarios.
+g) Delegados y Comisarios;
+
+h) Coordinación de Casas Ciencia;
+
+i) Coordinación Municipal de Protección Civil;
+
+j) Coordinación de Planeación.
+
+k) Departamento de Educación.
 
 1. Delegaciones:
 
 a) Villa Juárez;
 
-b) Pilotos,
+b) Pilotos;
 
-c) Adolfo López Mateos
+c) Adolfo López Mateos;
 
 d) Guadalupe de Atlas, y
 
-e) Ciénega Grande
+e) Ciénega Grande.
 
 2. Comisarias Municipales por Delegaciones:
 
@@ -2439,13 +2603,13 @@ d) Delegación Guadalupe de Atlas
 
 1. Bimbaletes Atlas
 
-2. Bimbaletes
+2. Bimbaletes El Álamo
 
 3. Jarillas
 
 4. Norias del Borrego
 
-5. Colonia los Torres
+5. Colonia Los Torres
 
 e) Delegación Ciénega Grande
 
@@ -2459,15 +2623,15 @@ e) Delegación Ciénega Grande
 
 5. San Gil
 
-6. Colonia Calles
+6. Colonia Plutarco Elías Calles
 
 7. Colonia Gómez Portugal
 
-III. Desarrollo Integral de la Familia:
+III. Sistema para el Desarrollo Integral de la Familia:
 
 a) Presidenta Honoraria;
 
-b) Dirección General;
+b) Dirección del Sistema DIF Municipal;
 
 c) Departamento de Programas Gubernamentales;
 
@@ -2475,23 +2639,35 @@ d) Departamento de Psicología;
 
 e) Trabajadora Social;
 
-f) Coordinadora de Grupos de la tercera edad;
+f) Coordinadora de Grupos de Atención a Adultos Mayores;
+
+g) Departamento de Atención a Grupos Vulnerables, Niñas, Niños y Personas con Capacidades Diferentes;
+
+h) Departamento Jurídico.
+
+i) Departamento de Atención a la Mujer y Mecanismo Municipal de Adelanto;
 
 IV. Contraloría Municipal:
 
 a) Departamento de Transparencia;
 
-b) Departamento de Auditorias.
+b) Departamento de Auditorias;
+
+c) Departamento de Control Patrimonial;
+
+d) Órgano de Control Interno.
 
 V. Tesorería Municipal:
 
 a) Contador General;
 
-b) Área Contable de Egresos;
+b) Departamento Contable de Egresos;
 
-c) Área Contable de Ingresos;
+c) Departamento de Recaudación e Ingresos;
 
-d) Área de Catastro;
+d) Departamento de Catastro;
+
+e) Asesor de Tesorería.
 
 VI. Dirección de Servicios Públicos Municipales:
 
@@ -2501,71 +2677,77 @@ b) Departamento de Parques y Jardines;
 
 c) Departamento de Alumbrado público;
 
-e (sic) ) Departamento de Limpia;
+e (sic)) Departamento de Limpia y Maquinaria;
 
 f) Departamento de Rastros;
 
-g) Encargado de Píe Mostrenco
+g) Departamento de Resguardo de Píe Mostrenco.
 
-VII. Dirección de Desarrollo Social, Económico y Rural:
+VII. Dirección de Desarrollo Social y Rural:
 
 a) Departamento (sic) Desarrollo Social;
 
-b) Departamento de Desarrollo Económico;
-
-c) Departamento de Desarrollo Rural.
+b) Departamento de Desarrollo Rural.
 
 VIII. Dirección de Recursos Humanos y Materiales:
 
 a) Departamento de Recursos Humanos;
 
-b) Departamento de Recursos Materiales
+b) Departamento de Recursos Materiales;
 
 c) Departamento de Sistemas;
 
-d) Área de Patrimonio, compras y suministros de material;
-
-e) Área de Parque Vehicular;
+e) Departamento de Parque Vehicular.
 
 IX. Dirección de Planeación y Obras Públicas:
 
 a) Subdirección de Planeación y Obras Públicas;
 
-b) Departamento de Planeación y Desarrollo urbano;
+b) Departamento de Planeación y Desarrollo Urbano;
 
-c) Departamento de proyectos y supervisión de obras;
+c) Departamento de Proyectos y Supervisión de Obras;
+
+d) Asesor de Planeación y Obras Públicas.
 
 X. Dirección de Agua Potable, Alcantarillado y Ecología:
 
-a) Departamento de Agua Potable y Alcantarillado;
+a) Subdirector de Agua Potable, Alcantarillado y Ecología;
 
-b) Departamento de Ecología;
+b) Departamento de Agua Potable y Alcantarillado;
 
-c) Área de Cultura del Agua.
+c) Departamento de Ecología;
 
-XI. Dirección de Seguridad Pública y Vialidad:
+d) Departamento de Cultura del Agua.
+
+XI. Dirección de Seguridad Pública y Movilidad:
 
 a) Subdirección de Seguridad Pública;
 
-b) Departamento de Tránsito y Vialidad;
+b) Departamento de Tránsito y Movilidad;
 
-c) Departamento de Prevención al Delito
+c) Departamento de Prevención al Delito.
 
-XII. Dirección de Protección, Salud y Apoyo a la Población
+XII. Dirección de Salud:
 
-a) Coordinación de Protección Civil
+a) Departamento de Regulación Sanitaria;
 
-b) Departamento de Salud
+b) Departamento de Salud;
 
-XIII. Dirección de Educación, Cultura y Deportes
+c) Coordinación de Paramédicos.
 
-a) Departamento de Educación
+XIII. Dirección de la Juventud y el Deporte:
 
-b) Departamento de Cultura
+a) Departamento de la Juventud;
 
-c) Departamento de Deportes
+b) Departamento del Deporte.
 
-XVI (SIC). Dirección de Turismo
+XIV. Dirección de Turismo, Cultura y Desarrollo Económico:
+
+a) Departamento de Turismo;
+
+b) Departamento de Cultura;
+
+c) Departamento de Desarrollo Económico.
 
 ### CAPÍTULO IV. De los Funcionarios Públicos Municipales
 
@@ -2637,9 +2819,11 @@ En caso de una ausencia temporal del Presidente Municipal si sesionare el Cabild
 
 ### CAPÍTULO V. Del Nombramiento de los Servidores Públicos de la Administración Pública Municipal
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 232°.
 
-Al frente de la Secretaría del Ayuntamiento habrá un profesionista, que se denominará Secretario del Ayuntamiento, servidor público que será nombrado por el Ayuntamiento a propuesta del Presidente Municipal para el desempeño del cargo, ocupándolo la persona que obtenga la mayoría relativa de los votos.
+Al frente de la Secretaría del Ayuntamiento y Dirección General de Gobierno, habrá un profesionista, que se denominará Secretario del Ayuntamiento y Director General de Gobierno, servidor público que será nombrado por el Ayuntamiento a propuesta del Presidente Municipal para el desempeño del cargo, ocupándolo la persona que obtenga la mayoría relativa de los votos.
 
 ###### ARTÍCULO 233°.
 
@@ -2679,13 +2863,17 @@ VI. No presentar antecedentes criminales, ni policiales relativos a haber sufrid
 
 VII. Ser vecino del municipio con por lo menos 2 años anteriores al día de su designación.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 236°.
 
-Al frente de la Policía Preventiva y Tránsito Municipal, habrá un profesionista, que se denominará Director de Seguridad Pública, Tránsito y Vialidad del Municipio, servidor público que será nombrado por el Ayuntamiento en base a la terna de personas que proponga el Presidente Municipal para el desempeño del cargo, en su caso coordinarse con el ejecutivo estatal cuando aplique el mando único.
+Al frente de la Policía Preventiva y Tránsito Municipal, habrá un profesionista, que se denominará Director de Seguridad Pública y Movilidad del Municipio, servidor público que será nombrado por el Ayuntamiento en base a la terna de personas que proponga el Presidente Municipal para el desempeño del cargo, en su caso coordinarse con el ejecutivo estatal cuando aplique el mando único.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 237°.
 
-Para ser Director de Seguridad Pública, Tránsito y Vialidad del Municipio se deberán reunir los requisitos que marca la Ley Municipal para el Estado de Aguascalientes, además de los siguientes:
+Para ser Director de Seguridad Pública y Movilidad del Municipio se deberán reunir los requisitos que marca la Ley Municipal para el Estado de Aguascalientes, además de los siguientes:
 
 I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
 
@@ -2697,7 +2885,7 @@ IV. No estar en activo de las fuerzas militares con por lo menos 90 días antes 
 
 V. Tener experiencia en la carrera policíaca;
 
-VI. No ser pariente consanguíneo en línea recta en cualquier grado o en línea colateral hasta el 4º grado, del Presidente Municipal; y
+VI. No ser pariente consanguíneo en línea recta en cualquier grado o en línea colateral hasta el 4° grado, del Presidente Municipal; y
 
 VII. No presentar antecedentes criminales, ni policiales relativos a haber sufrido condena por delito doloso de carácter patrimonial o condena superior a dos años de prisión por delito doloso diverso.
 
@@ -2737,17 +2925,27 @@ III. Poseer titulo debidamente registrado en la carrera de Licenciado en Derecho
 
 IV. No presentar antecedentes criminales, relativos a haber sufrido condena por comisión de delito doloso.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 242°.
 
-La designación del Secretario del Ayuntamiento, Tesorero Municipal, Juez Calificador, Contralor Municipal serán nombrados por el Ayuntamiento a propuesta del Presidente Municipal y el Director de Seguridad Pública, Tránsito y Vialidad, será nombrado por el Ayuntamiento a propuesta del Presidente Municipal en coordinación con el mando único estatal, así mismo, el Ayuntamiento los podrá destituir o separar de sus cargos; el nombramiento y remoción de los demás servidores públicos corresponde al Presidente Municipal.
+La designación del Secretario del Ayuntamiento y Tesorero Municipal, serán nombrados por el Ayuntamiento a propuesta del Presidente Municipal y el Director de Seguridad Pública, Tránsito y Movilidad, será nombrado por el Ayuntamiento a propuesta del Presidente Municipal en coordinación con el mando único estatal, así mismo, el Ayuntamiento los podrá destituir o separar de sus cargos; el nombramiento y remoción de los demás servidores públicos corresponde al Presidente Municipal.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
 ## TÍTULO TERCERO. DE LAS ATRIBUCIONES DE LOS SERVIDORES PÚBLICOS MUNICIPALES
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 243°.
 
 Se entiende por atribuciones de los servidores públicos municipales, las competencias para la realización de sus funciones, las cuales recaen en las oficinas adscritas a la presidencia municipal.
 
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
 ### CAPÍTULO I. De la Secretaría Particular
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 244°.
 
@@ -2769,7 +2967,11 @@ VII. Recabar y analizar las peticiones de la ciudadanía, registrarlas y abrir e
 
 VIII. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
 ### CAPÍTULO II. De la Contraloría Municipal
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 245°.
 
@@ -2777,71 +2979,83 @@ Corresponde a la Contraloría Municipal:
 
 I. Instrumentar y actualizar el sistema de Control sobre los programas con indicadores que sirvan para medir con criterios objetivos la gestión del gobierno y el impacto de las acciones y políticas de gobierno en los ciudadanos;
 
-II. Generar información a través de indicadores de gestión que faciliten y hagan más estratégica la toma de decisiones;
+II. Evaluar el Sistema de Control Interno en la administración pública municipal;
 
-III. Coordinar reuniones de evaluación del rumbo de la gestión en sus tres dimensiones:
+III. Generar información a través de indicadores de gestión que faciliten y hagan más estratégica la toma de decisiones;
+
+IV. Coordinar reuniones de evaluación del rumbo de la gestión en sus tres dimensiones:
 
 a) Eficiencia, control programático presupuestal;
 
 b) Eficacia, control del logro de objetivos; y
 
-c) Legitimidad, Encuestas ciudadanas medición del impacto de las acciones de gobierno en la población;
+c) Legitimidad, realizar encuestas ciudadanas para la medición del impacto de las acciones de gobierno en la población.
 
-IV. Operar el programa de Atención al Público cuyo objetivo es mejorar la calidad en el servicio, y monitorear los niveles de servicio, tiempo de respuesta y la calidad de los diferentes servicios públicos prestados;
+V. Operar el programa de Atención al Público cuyo objetivo es mejorar la calidad en el servicio, y monitorear los niveles de servicio, tiempo de respuesta y la calidad de los diferentes servicios públicos prestados;
 
-V. Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de Ingresos y egresos municipales;
+VI. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias, entidades municipales y fideicomisos;
 
-VI. Velar porque los procesos administrativos del municipio se realicen con transparencia, seguridad jurídica, agilidad y orden;
+VII. Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y al presupuesto de egresos;
 
-VII. Ordenar y practicar visitas de auditoria e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
+VIII. Vigilar el cumplimiento por parte de las dependencias y entidades municipales de las normas jurídicas y administrativas que rigen su funcionamiento, especialmente en materia de transparencia;
 
-VIII. Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos;
+IX. Investigar de oficio o en atención a las quejas, denuncias y a los hechos o elementos detectados en las auditorías, revisiones y visitas de verificación, las conductas de los servidores públicos municipales que impliquen presunta responsabilidad administrativa;
 
-IX. Vigilar y coordinar la adecuada entrega-recepción de las dependencias municipales;
+X. Velar porque los procesos administrativos del municipio se realicen con transparencia, seguridad jurídica, agilidad y orden;
 
-X. Cuidar el correcto desempeño de los servidores públicos, atender las denuncias ciudadanas, instruir procesos y determinar responsabilidades respecto de éstos;
+XI. Practicar visitas de auditoria e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
 
-XI. Coordinar y vigilar que los servidores públicos obligados a presentar declaración de situación patrimonial, fiscal y de interés, lo hagan en tiempo y forma, apegándose a la normatividad establecida;
+XII. Vigilar y coordinar la adecuada entrega-recepción de las dependencias municipales; cumpliendo con los Lineamientos aplicables y vigentes para normar el Proceso de Entrega- Recepción de la Administración Pública del Municipio de Asientos, Aguascalientes;
 
-XII. Supervisar que las adquisiciones de bienes y servicios que realice el Municipio correspondan en cantidad y calidad a las necesidades reales;
+XIII. Recibir denuncias por parte de las diferentes dependencias gubernamentales y atenderlas para su trámite y seguimiento;
 
-XIII. Vigilar los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y del estatal;
+XIV. Ejecutar las funciones establecidas en este Código Municipal para Asientos, en la legislación Federal, Estatal y Municipal aplicables para los órganos internos de control;
 
-XIV. Fijar las normas de control, fiscalización, contabilidad y Auditoria que deben observar las dependencias municipales;
+XV. Cuidar el correcto desempeño de los servidores públicos, atender las denuncias ciudadanas, instruir procesos y determinar responsabilidades respecto de éstos;
 
-XV. Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento, así como las normas señaladas en la fracción anterior;
+XVI. Coordinar y vigilar que los servidores públicos obligados a presentar declaración de situación patrimonial, lo hagan en tiempo y forma, apegándose a la normatividad establecida;
 
-XVI. Practicar auditorias en las dependencias y organismos descentralizados municipales, verificando el destino de los fondos públicos sean propios o transferidos;
+XVII. Supervisar que las adquisiciones de bienes y servicios que realice el Municipio correspondan en cantidad y calidad a las necesidades reales;
 
-XVII. Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del municipio, y el adecuado equilibrio presupuestal;
+XVIII. Vigilar los recursos patrimoniales del Gobierno Municipal, así como los que provengan del Gobierno Federal y del Estatal;
 
-XVIII. Vigilar que las obras realizadas por el municipio, directamente o con participación de terceros se ajusten a las especificaciones fijadas;
+XIX. Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento de Asientos;
 
-XIX. Turnar a las diferentes unidades administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas;
+XX. Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del gobierno municipal, y el adecuado equilibrio presupuestal;
 
-XX. Establecer y operar un proceso de control y evaluación del gasto público, en relación con el presupuesto de egresos, las políticas y los programas municipales;
+XXI. Vigilar que las obras realizadas por el gobierno municipal, directamente o con participación de terceros se ajusten a las especificaciones convenidas;
 
-XXI. Fijar las normas de control, fiscalización, contabilidad y auditoria que deben observar las Dependencias Municipales;
+XXII. Turnar a las diferentes unidades administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas;
 
-XXII. Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento;
+XXIII. Establecer y operar un proceso de control y evaluación del gasto público, en relación con el presupuesto de egresos, las políticas y los programas municipales;
 
-XXIII. Preparar informes de evaluación y seguimiento de los asuntos en que intervenga;
+XXIV. Preparar informes de evaluación y seguimiento de los asuntos en que intervenga;
 
-XXIV. Exigir con oportunidad las responsabilidades de los Servidores Públicos del Municipio;
+XXV. Exigir con oportunidad las responsabilidades de los Servidores Públicos del Municipio de Asientos;
 
-XXV. Informar al Presidente Municipal de los resultados y avances en el cumplimiento de sus atribuciones;
+XXVI. Informar al Presidente Municipal de los resultados y avances de las Direcciones o Áreas de la administración pública municipal, en el cumplimiento de sus atribuciones;
 
-XXVI. Turnar a las diferentes Unidades Administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas;
+XXVII. Substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan, en caso de las faltas no graves, derivado del procedimiento de Investigación a cargo de la Autoridad Investigadora del Órgano Interno de Control, en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
-XXVII. Ordenar y practicar visitas de auditoria e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
+XXVIII. Suscribir convenios de colaboración con entes fiscalizadores y con organismos públicos descentralizados, para efecto de practicar revisiones, auditorías en su caso o visitas de revisión;
 
-XXVIII. Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+XXIX. Determinar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas;
 
-### CAPÍTULO III. De la Secretaría del H. Ayuntamiento
+XXX. Implementar acciones para orientar el desempeño de los servidores públicos en sus empleos, cargos, comisiones o funciones;
+
+XXXI. Llevar el inventario y control del patrimonio municipal, en el que se clasifiquen los bienes del dominio público y privado del municipio;
+
+XXXII. Lo demás que señale la Ley de Responsabilidades Administrativas del Estado de Aguascalientes o el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO III. De la Secretaría del H. Ayuntamiento y Dirección General Gobierno
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 246°.
 
-Corresponde a la Secretaría del H. Ayuntamiento lo siguiente:
+Corresponde a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno lo siguiente:
 
 I. Ejercer las funciones que le señalan la Ley Municipal para el Estado de Aguascalientes y el Código Municipal;
 
@@ -2885,7 +3099,11 @@ XIX. Tener bajo su guarda y custodia el archivo histórico del Municipio;
 
 XX. Autorizar en su caso las corridas de ganado que se le soliciten, previo estudio de las mismas y en coordinación con el Síndico Municipal;
 
-XXI. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
+XXI. Establecer las normas, criterios y procedimientos que deberán observar las dependencias de la administración municipal en materia de simplificación y modernización administrativa y asesorarles para optimizar el funcionamiento interno y mejora al servicio público;
+
+XXII. Establecer mecanismos de planeación, coordinación, programación, información control, evaluación y mejoramiento de la eficacia y eficiencia administrativa y operativa de las dependencias y entidades de la administración pública municipal;
+
+XXIII. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
 
 ### CAPÍTULO IV. De la Dirección de Asuntos Jurídicos
 
@@ -2937,13 +3155,17 @@ VI. Rendir al Presidente Municipal informes semanales de su actuación con copia
 
 VII. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
 ### CAPÍTULO VI. Del Departamento de Comunicación Social y Relaciones Públicas
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 249°.
 
 Corresponde al Departamento de Comunicación Social y Relaciones Públicas:
 
-I. Coordinar el establecimiento de programas de información por los canales de comunicación adecuados, sobre las actividades del H. Ayuntamiento, de la Presidencia Municipal y sus Unidades Administrativas y su relación con los diversos medios de comunicación y prensa;
+I. Coordinar el establecimiento de programas de información por los canales de comunicación adecuados, sobre las actividades del H. Ayuntamiento, de la Presidencia Municipal y sus Unidades Administrativas y su relación con los diversos medios de comunicación y prensa.
 
 II. Recopilar, procesar y analizar de diversas fuentes, aquella información que resulte de utilidad, tanto para las Autoridades Municipales como para la comunidad;
 
@@ -2965,15 +3187,23 @@ X. Encargarse de la política de relaciones públicas de la Presidencia Municipa
 
 XI. Organizar las conferencias de prensa y entrevistas que ofrezcan el Presidente Municipal y sus principales colaboradores;
 
-XII. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
+XII. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden;
+
+XIII. Administrar las redes sociales y página web del Gobierno Municipal de Asientos.
+
+Del Sistema del Desarrollo Integral de la Familia
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
 ### CAPÍTULO VII. Del Sistema del Desarrollo Integral de la Familia
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 250°.
 
 Corresponde al Sistema del Desarrollo Integral de la Familia:
 
-I. Coordinar los programas de asistencia social, y de asistencia núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida del individuo, la familia y la sociedad en general que correspondan al Municipio de Asientos;
+I. Coordinar los programas de asistencia social, y de asistencia núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida del individuo, la familia y la sociedad en general que correspondan al Municipio de Asientos.
 
 II. Ejecutar los programas básicos del sistema nacional y estatal del desarrollo integral de la familia;
 
@@ -2987,21 +3217,61 @@ VI. Brindar orientación y asesoría jurídica a las personas que así lo requie
 
 VII. Implementar programas de orientación psicológica dirigida a todos los integrantes del núcleo familiar;
 
-VIII. Organizar actividades para la integración y significación de las personas de la tercera edad;
+VIII. Organizar actividades para la integración y significación de los adultos mayores;
 
 IX. Promover campañas para el mejoramiento integral de la salud de las familias del Municipio de Asientos;
 
 X. Realizar acciones tendientes a promover la orientación en materia de educación sexual, métodos anticonceptivos, prevención del cáncer en las mujeres y en general campañas tendientes a la concientización social en estos graves problemas;
 
-XI. Fomentar la educación para la integración social, a través de la enseñanza
+XI. Fomentar la educación para la integración social, a través de la enseñanza pre-escolar obligatoria y extraescolar.
 
-(sic) pre-escolar obligatoria y extraescolar.
-
-XII. Intervenir y participar en el ejercicio de la tutela de menores, a solicitud del Estado en términos de Ley, y auxiliar al Ministerio Público en la protección de incapaces en los procedimientos civiles y familiares que les afecten de acuerdo con la legislación aplicable;
+XII. Intervenir y participar en el ejercicio de la tutela de menores, a solicitud del Estado en términos de Ley, y auxiliar al Ministerio Público en la protección de incapaces en los procedimientos civiles y familiares que les afecten de acuerdo con la legislación aplicable.
 
 XIII. Las demás que les sean señaladas en este Código y en las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 250° BIS.- Corresponde al Departamento de Atención a la Mujer y Mecanismo Municipal de Adelanto:
+
+I. Promover, impulsar y estimular la formulación y aplicación de políticas y acciones públicas que tiendan a alcanzar la equidad entre los hombres y las mujeres y eliminar la discriminación de género;
+
+II. Promover, coordinar, vigilar y evaluar la adecuada ejecución de los programas, proyectos y acciones a favor de las mujeres, en contra de su discriminación y a favor de la equidad entre hombres y mujeres, mediante la coordinación con las Dependencias y Entidades Municipales y coadyuvar con el Instituto Aguascalentense de las Mujeres para el logro de los objetivos planteados en el ámbito de sus respectivas competencias;
+
+III. Promover la adecuada y eficiente implementación de las acciones a favor de las mujeres, desarrollando mecanismos que propicien la generación de información y estadística diferenciada; asegurando la disponibilidad de datos confiables y oportunos para el diseño e implementación de actividades orientadas a beneficiar a la mujer, además de evaluar su impacto en este sector de la sociedad, así como en la familia;
+
+IV. Promover la prestación de servicios de apoyo a las madres y padres que trabajan, que sean suficientes, eficientes, adecuados y de calidad, con horarios flexibles y que consideren las necesidades de ambos sexos, en relación con su vida familiar y la crianza de los hijos;
+
+V. Fungir como enlace y representante permanente ante los Institutos Nacional y Estatal de las Mujeres, en los asuntos de su competencia;
+
+VI. Diseñar y efectuar campañas, en coordinación con el Instituto Estatal de las Mujeres en su caso, para difundir las convenciones y tratados celebrados y ratificados por el Gobierno Mexicano, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas a favor de las mujeres;
+
+VII. Promover el respeto de los derechos humanos de las niñas y fomentar su desarrollo en condiciones de equidad;
+
+VIII. Promover los mecanismos de integración de la mujer en la vida económica, social, política y cultural del Municipio, en condiciones de equidad; así como la integración de los hombres en la vida familiar, con el objeto de promover la complementariedad;
+
+IX. Proponer e impulsar reformas legislativas que garanticen la participación de las mujeres en condiciones equitativas, en todos los ámbitos, sin importar el origen étnico o racial, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como promover el debido cumplimiento de las normas vigentes;
+
+X. Promover el acceso de las mujeres a servicios integrales de atención a la salud, en condiciones de calidad y tomando en cuenta las características particulares de su ciclo de vida, su condición social y su ubicación geográfica;
+
+XI. Impulsar la conformación y consolidación del Sistema de Centros Integrales de Apoyo a la Mujer, dar seguimiento y evaluar sus programas, proyectos y acciones, emitir opiniones al respecto, así como promover la profesionalización y formación permanente de su personal;
+
+XII. Impulsar acciones que contribuyan a resolver el problema de la violencia contra las mujeres, en todas sus modalidades, priorizando su prevención, promoviendo la defensa y la protección de los derechos humanos de la mujer, en todas las etapas de su vida y ámbito de desarrollo;
+
+XIII. Proponer al Presidente Municipal suscribir acuerdos y convenios de coordinación o concertación, con las Dependencias de las administraciones públicas federal, estatal y municipal y organismos nacionales e internacionales que no sean facultad exclusiva del Gobierno del Estado, con el fin de cumplir su objeto, actuar como órgano de consulta, capacitación y asesoría de estas entidades públicas, sociales y privadas, con el objeto de lograr la igualdad de oportunidades para las mujeres;
+
+XIV. Elaborar el Programa Municipal para la No Discriminación y la Equidad entre Hombres y Mujeres y someterlo a aprobación del Presidente Municipal, así como actualizar periódicamente el diagnóstico sobre la situación de las mujeres y los hombres, en relación con los avances y la operatividad del mismo;
+
+XV. Rendir informes al Presidente Municipal a través de la Dirección del Sistema DIF Municipal sobre la evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Municipal para la No Discriminación y la Equidad de género;
+
+XVI. Promover e incentivar investigaciones y estudios que contribuyan a profundizar en el conocimiento de la problemática de la mujer en los diversos campos de la realidad social, así como la adecuada recopilación, sistematización y difusión de la información; y
+
+XVII. Las demás que señale el presente Código y otros ordenamientos legales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
 ### CAPÍTULO VIII. De la Tesorería Municipal
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 251°.
 
@@ -3025,7 +3295,7 @@ VIII. Vigilar el cumplimiento de las disposiciones contenidas en las leyes fisca
 
 a) Se verifique que los contribuyentes municipales cumplan correctamente las disposiciones fiscales y municipales y, en caso que omitan total o parcialmente el cumplimiento de las mismas, se proceda a hacer efectivo el cobro de lo omitido, sin perjuicio de las sanciones a que haya lugar;
 
-b) Se practiquen auditorias a los contribuyentes;
+b) Se practiquen auditorías a los contribuyentes;
 
 c) Se exija, en el domicilio de los contribuyentes, la exhibición de los elementos comprobatorios de sus operaciones; y
 
@@ -3073,15 +3343,9 @@ XXI. Fungir como Secretario Técnico del Comité Municipal de Adquisiciones y ad
 
 XXII. Administrar y controlar los bienes patrimoniales de la Presidencia Municipal;
 
-XXIII. Intervenir en la elaboración de presupuestos de las Dependencias Municipales, y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos;
+XXIII. Intervenir en la elaboración de presupuestos de las Dependencias Municipales, y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos; y
 
-XXIV. Desarrollar y establecer planes, programas y proyectos necesarios para la adecuada seguridad e higiene de todas las áreas de trabajo;
-
-XXV. Establecer las normas, criterios y procedimientos que deberán observar las dependencias de la administración municipal en materia de simplificación y modernización administrativa y asesorarles para optimizar el funcionamiento interno y mejora al servicio público;
-
-XXVI. Mecanismos de planeación, coordinación, programación, información control, evaluación y mejoramiento de la eficacia y eficiencia administrativa y operativa de las dependencias y entidades de la administración pública municipal;
-
-XXVII. Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+XXIV. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ###### ARTÍCULO 252°.
 
@@ -3093,17 +3357,21 @@ El tesorero y los titulares de las dependencias reprogramarán el gasto de acuer
 
 El tesorero municipal convocará a reuniones mensuales a los titulares de las dependencias y entidades para en caso de ser necesario reprogramar acciones de acuerdo al comportamiento real del gasto y el ingreso.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
 ### CAPÍTULO IX
 
 De la Dirección de Recursos Humanos y Materiales.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 253°.
 
-Corresponde al titular de la Dirección:
+Corresponde al titular de la Dirección de Recursos Humanos y Materiales:
 
 I. Administrar y desarrollar los recursos humanos del municipio;
 
-II. Preparar los tabuladores de sueldo y demás percepciones que correspondan a los servidores públicos del municipio;
+II. Preparar los tabuladores de sueldo y demás percepciones que correspondan a los servicios públicos del municipio;
 
 III. Manejo de promociones al personal ligadas al incremento de productividad;
 
@@ -3131,9 +3399,11 @@ XIV. Elaborar y mantener actualizados los manuales de organización, de procedim
 
 XV. Las demás que se señalen en los ordenamientos jurídicos aplicables.
 
-### CAPÍTULO X
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
 
-Del Departamento de Recursos Humanos.
+### CAPÍTULO X. De los Departamentos de Recursos Humanos, Recursos Materiales y Parque Vehicular
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 254°.
 
@@ -3157,9 +3427,39 @@ VIII. Llevar a cabo la relación de entradas y salidas de los servidores públic
 
 IX. Las demás que le confiera el presente Código y las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 254° BIS.- Corresponde al Departamento de Recursos Materiales:
+
+I. Adquirir, administrar y abastecer los recursos materiales necesarios para el desarrollo de sus funciones, a las dependencias o unidades administrativas de la Presidencia;
+
+II. Implementar políticas, lineamientos y desarrollar programas para el mejor aprovechamiento de edificios e instalaciones y todo lo relacionado con su uso, control y mantenimiento;
+
+III. Intervenir en la elaboración de presupuestos de las dependencias municipales y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos;
+
+IV. Coordinar a las dependencias del Municipio para llevar a cabo el levantamiento físico del inventario en todos los almacenes del Municipio, el cual se deberá llevar a cabo una vez al año; y
+
+V. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 254° TER.- Corresponde al Departamento de Parque Vehicular:
+
+I. Implementar políticas, lineamientos y desarrollar programas para el mejor aprovechamiento de vehículos, combustibles y todo lo relacionado con su uso, control y mantenimiento;
+
+II. Llevar a cabo el control y registro de las bitácoras de recorridos y consumo de combustible de parque vehicular a cargo de las dependencias de la administración municipal;
+
+III. Garantizar el mantenimiento y reparación de los vehículos de la Administración Municipal; y
+
+IV. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
 ### CAPÍTULO XI
 
 Del Departamento de Sistemas.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 255°.
 
@@ -3175,19 +3475,35 @@ III. Dar asesoría y apoyo en el manejo de los equipos computacionales a los ser
 
 IV. Elaborar y actualizar la página de Internet del Ayuntamiento de Asientos;
 
-V. Las demás que le confiera el presente Código y las demás disposiciones jurídicas aplicables.
+V. Definir la infraestructura de telecomunicaciones adoptada para resolver el servicio de comunicación de datos que requieren todas las dependencias de la administración pública municipal;
+
+VI. Proveer herramientas, cursos, manuales y bancos de datos para facilitar y agilizar la consulta y transmisión de la información;
+
+VII. Establecer los criterios para el uso de todo sistema computacional incluyendo los de operación en web y georeferencia;
+
+VIII. Establecer los criterios para el uso de la infraestructura de servicios en Internet e Intranet, incluyendo los de operación con acceso a sitios cibernéticos y correo electrónico, de las dependencias de la administración pública municipal;
+
+IX. Vigilar el uso en los centros municipales de servicios de Internet y videoconferencias, que ofrece el Municipio al público observando los lineamientos que para tal efecto establece el presente Código y demás disposiciones relativas y aplicables;
+
+X. Conformar, diseñar, programar, publicar, actualizar y administrar la página electrónica del Municipio en Internet, Intranet y módulos de acceso público; y
+
+XI. Las demás que le confiera el presente Código y las demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
 ### CAPÍTULO XII. De la Dirección de Servicios Públicos Municipales
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 256°.
 
 Corresponde a la Dirección de Servicios Públicos Municipales lo siguiente:
 
-I. La prestación por si o por conducto de terceras personas a través de concesiones, los servicios de rastro municipal, limpia y aseo público, panteones, parques y jardines y demás servicios públicos contenidos en el Artículo 115 Constitucional, en el Artículo 69 de la Constitución local y Artículos 74 y 75 de la Ley Municipal para el Estado de Aguascalientes;
+I. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de rastro municipal, limpia y aseo público, panteones, parques y jardines y demás servicios públicos contenidos en el Artículo 115 Constitucional, en el Artículo 69 de la Constitución local y Artículos 74 y 75 de la Ley Municipal para el Estado de Aguascalientes;
 
 II. Vigilar que los servicios que proporciona el rastro a los usuarios, se hagan en condiciones que garanticen la higiene en el sacrificio de los productos cárnicos;
 
-III. Regular la introducción de ganado y el abastecimiento de carne para el consumo humano;
+III. Vigilar la introducción de ganado y el abastecimiento de carne para el consumo humano;
 
 IV. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubiertos los impuestos y/o derechos municipales;
 
@@ -3197,83 +3513,111 @@ VI. Promover, fortalecer y apoyar las acciones en materia de salubridad local y 
 
 VII. Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales;
 
-VIII. Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
+VIII. Mantener, de manera subsidiaria, la limpieza de calles, avenidas y lotes baldíos;
 
-IX. Verificar y ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
+XI (SIC). Conservar la limpieza, de los bienes municipales y realizar los servicios de intendencia en los edificios públicos municipales;
 
-X. Regular y vigilar la emisión de ruidos que afecten el medio ambiente, así como la salud de las personas;
+X. Realizar el servicio de limpia y recolección de desechos sólidos domésticos, dentro del Municipio de Asientos;
 
-XI. Difundir y dirigir las acciones tendientes a obtener una adecuada educación ambiental de los ciudadanos del municipio, en colaboración con las instituciones educativas y culturales;
+XI. Establecer a los particulares los horarios, días, lugares y condiciones en los que podrá depositar los residuos sólidos;
 
-XII. Fomentar las acciones tendientes a un adecuado aprovechamiento de los recursos en el municipio, buscando en todo el desarrollo municipal sustentable;
+XII. Diseñar programas y campañas de limpieza a realizarse dentro del Municipio;
 
-XIII. Mantener, de manera subsidiaria, la limpieza de calles, avenidas y lotes baldíos;
+XIII. Coordinar con las autoridades estatales y federales las medidas sanitarias y programas, que deben de operar los sitios de tratamiento y disposición finales de residuos domésticos;
 
-XIV. Conservar la limpieza, de los bienes municipales y realizar los servicios de intendencia en los edificios públicos municipales;
+XIV. Autorizar el diseño, resistencia y características de los contenedores para el depósito de residuos domésticos;
 
-XV. Realizar el servicio de limpia y recolección de desechos sólidos domésticos, dentro del Municipio de Asientos;
+XV. Denunciar ante las autoridades federales, a las empresas o establecimientos que generen residuos peligrosos y no cumplan con las disposiciones normativas aplicables;
 
-XVI. Establecer a los particulares los horarios, días, lugares y condiciones en los que podrá depositar los residuos sólidos;
+XVI. Exigir a mercados particulares, hospitales y demás establecimientos que así lo requieran, la adquisición o construcción de depósitos apropiados y especiales para el almacenamiento temporal de residuos sólidos no peligrosos;
 
-XVII. Diseñar programas y campañas de limpieza a realizarse dentro del Municipio;
+XVII. Recomendar, y cuando fuere necesario, obligar a las personas físicas o morales, la clasificación de desechos sólidos que generen, en orgánicos, inorgánicos y confiables, para su aprovechamiento;
 
-XVIII. Coordinar con las autoridades estatales y federales las medidas sanitarias y programas, que deben de operar los sitios de tratamiento y disposición finales de residuos domésticos;
+XVIII. Realizar campañas de concientización y promoción del manejo adecuado de la basura y de mantener limpia la ciudad;
 
-XIX. Autorizar el diseño, resistencia y características de los contenedores para el depósito de residuos domésticos;
+XIX. Realizar el mantenimiento preventivo y correctivo de luminarias y equipos de alumbrado y electrificación públicos;
 
-XX. Denunciar ante las autoridades federales, a las empresas o establecimientos que generen residuos peligrosos y no cumplan con las disposiciones normativas aplicables;
+XX. Instalar nuevas luminarias para ampliar la cobertura de alumbrado público mediante el uso de nuevas tecnologías de ahorro de energía sustentable;
 
-XXI. Exigir a mercados particulares, hospitales y demás establecimientos que así lo requieran, la adquisición o construcción de depósitos apropiados y especiales para el almacenamiento temporal de residuos sólidos no peligrosos;
+XXI. Realizar las instalaciones eléctricas en obras municipales cuando así se requiera;
 
-XXII. Recomendar, y cuando fuere necesario, obligar a las personas físicas o morales, la clasificación de desechos sólidos que generen, en orgánicos, inorgánicos y confiables, para su aprovechamiento;
+XXII. Recibir las instalaciones de electrificación pública que realicen los particulares;
 
-XXIII. Realizar campañas de concientización y promoción del manejo adecuado de la basura y de mantener limpia la ciudad;
+XXIII. Efectuar las acciones de mantenimiento de parques, plazas, camellones y jardines públicos;
 
-XXIV. Realizar el mantenimiento preventivo y correctivo de luminarias y equipos de alumbrado y electrificación públicos;
+XXIV. Proyectar y equipar nuevas áreas verdes municipales;
 
-XXV. Instalar nuevas luminarias para ampliar la cobertura de alumbrado público;
+XXV. Apoyo a diversos servicios que en materia de parques y jardines realice el municipio;
 
-XXVI. Realizar las instalaciones eléctricas en obras municipales;
+XXVI. Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales;
 
-XXVII. Recibir las instalaciones de electrificación pública que realicen los particulares;
+XXVII. En coordinación con el Departamento de Reglamentos y Licencias, limitar, restringir o prohibir giros comerciales o de servicios en los mercados que están ubicados en lugares inadecuados, o que por su naturaleza representan un riesgo para la seguridad de los locatarios y del público en general;
 
-XXVIII. Efectuar las acciones de mantenimiento de parques, plazas, camellones y jardines públicos;
+XXVIII. Mantener en buen estado las instalaciones e inmuebles de los mercados públicos;
 
-XXIX. Proyectar y equipar nuevas áreas verdes municipales;
+XXIX. Controlar los espacios públicos destinados a cementerio, así como los espacios destinados a la inhumación de cadáveres;
 
-XXX. Apoyo a diversos servicios que en materia de parques y jardines realice el municipio;
+XXX. Aplicar, en el ámbito de competencia municipal, la legislación en materia de inhumaciones y exhumaciones;
 
-XXXI. Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales;
+XXXI. Expedir títulos de propiedad, permisos de exhumación, inhumación, y construcción en los cementerios municipales;
 
-XXXII. Limitar, restringir o prohibir giros comerciales o de servicios en los mercados que están ubicados en lugares inadecuados, o que por su naturaleza representan un riesgo para la seguridad de los locatarios y del público en general;
+XXXII. Realizar el mantenimiento preventivo y correctivo en los cementerios y, supletoriamente, en las fosas, tumbas y criptas de propiedad o en uso de particulares;
 
-XXXIII. Mantener en buen estado las instalaciones e inmuebles de los mercados públicos;
+XXXIII. Administrar y controlar el parque de maquinaria y equipo para la prestación de servicios públicos en beneficio de la población; y
 
-XXXIV. Controlar los espacios públicos destinados a cementerio, así como los espacios destinados a la inhumación de cadáveres;
+XXXIV. Resguardar y custodiar hasta su entrega los bienes del pie mostrenco en coordinación con el Síndico Municipal.
 
-XXXV. Aplicar, en el ámbito de competencia municipal, la legislación en materia de inhumaciones y exhumaciones;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
 
-XXXVI. Expedir títulos de propiedad, permisos de exhumación, inhumación, y construcción en los cementerios municipales; y
+### CAPÍTULO XIII. De la Dirección de la Juventud y el Deporte
 
-XXXVII. Realizar el mantenimiento preventivo y correctivo en los cementerios y, supletoriamente, en las fosas, tumbas y criptas de propiedad o en uso de particulares.
-
-### CAPÍTULO XIII. De la Dirección de Educación, Cultura y Deportes
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 257°.
 
-Corresponde a la Dirección de Educación, Cultura y Deportes:
+Son facultades y obligaciones de la Dirección de la Juventud y el deporte:
 
-I. Promover en el Municipio de Asientos la formación deportiva entre la niñez y juventud para el sano desarrollo;
+A) En materia del deporte:
 
-II. Organizar, coordinar y ejecutar los eventos de las diferentes ramas de las disciplinas deportivas;
+I. Las que conforme a la Ley le correspondan, en materia de cultura física y deporte;
 
-III. Organizar, coordinar y ejecutar los eventos culturales de las diferentes disciplinas;
+II. Proponer, dirigir, ejecutar, evaluar y vigilar la política municipal de cultura física y deporte;
 
-IV. Observar y canalizar los talentos deportivos y culturales a las instancias que correspondan, dando todo el apoyo necesario para tal efecto;
+III. Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Federación, del Estado y los Municipios de la entidad, a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al fomento, promoción, incentivo y desarrollo de la cultura física y deporte;
 
-V. Asistir a las capacitaciones que se impartan en las instancias deportivas y culturales;
+IV. Establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones municipales, estatales, nacionales e internacionales, sin contravenir lo dispuesto por las reglas internacionales;
 
-VI. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
+V. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte;
+
+VI. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte;
+
+VII. Impulsar la práctica de actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
+
+VIII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+
+IX. Promover los principios de responsabilidad y superación personal en los jóvenes del municipio;
+
+B) En materia de Juventud:
+
+I. Garantizar que se respete el derecho a la libre expresión de los Jóvenes fomentando al mismo tiempo el respeto hacia otras formas de pensar;
+
+II. Priorizar la atención a Jóvenes embarazadas, madres o padres de familia monoparental, con problemas de drogadicción y/o alcoholismo, con alguna clase de pobreza, personas con discapacidad, con alguna enfermedad crónica, víctimas de delitos o de violaciones de sus derechos humanos, y con problemas de salud mental y/o trastornos mentales; con la finalidad de que sean reconocidos como miembros activos de la sociedad;
+
+III. Ofrecer terapia ocupacional y orientación psicológica, a fin de prevenir conductas juveniles riesgosas;
+
+IV. Crear y aprovechar espacios de recreación, arte y cultura en los que sea posible la exhibición de proyectos personales, talentos y habilidades, su difusión y el intercambio cultural a nivel nacional e internacional;
+
+V. Vincular a la población estudiantil con las autoridades competentes en materia de Juventud, de tal forma que se impulsen apoyos para este sector mediante mecanismos y programas que fomenten la capacitación, desarrollo de habilidades y talentos de todos los jóvenes;
+
+VI. Promover créditos financieros, estímulos fiscales y capacitación para los Jóvenes emprendedores;
+
+VII. Implementar acciones para que la Juventud se integre a actividades deportivas y de recreación de acuerdo a sus intereses personales;
+
+VIII. Promover entre los Jóvenes por medio del sistema educativo estatal, el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales;
+
+IX. Impulsar la cultura de la libre información en los Jóvenes que sea útil para la toma de decisiones; y
+
+X. Promover la inclusión laboral de jóvenes con discapacidad, basada en habilidades y competencias laborales.
 
 ### CAPÍTULO XIV. Del Departamento de Comunicación Social y Relaciones Públicas
 
@@ -3305,17 +3649,77 @@ XI. Organizar las conferencias de prensa y entrevistas que ofrezcan el President
 
 XII. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
 
-### CAPÍTULO I. De la Instancia de la Mujer
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO XV. De la Coordinación de Asesores
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 258° BIS.- Corresponde a la Coordinación de Asesores:
+
+I. Coordinar el establecimiento de programas adecuados, sobre las actividades del H. Ayuntamiento, de la Presidencia Municipal y sus Unidades Administrativas y su relación con los tres órdenes de gobierno;
+
+II. Recopilar, procesar y analizar de diversas fuentes, aquella información que resulte de utilidad, tanto para las Autoridades Municipales como para la comunidad;
+
+III. Fungir como enlace del Presidente Municipal con las dependencias y entidades en coordinación con el Secretario del H. Ayuntamiento y Director General de Gobierno;
+
+IV. Establecer, coordinar y mantener las relaciones entre los asesores y las diferentes dependencias y entidades del Gobierno Municipal;
+
+V. Coordinar los servicios de asesoría y consultoría al titular de la presidencia municipal;
+
+VI. Realizar análisis, estudios y encuestas en materia de opinión pública y documentar los resultados y datos estadísticos;
+
+VII. Coordinarse con la Secretaria Particular de la Presidencia Municipal para el diseño, seguimiento y evaluación de la Agenda, así como para establecer las bases para la integración y contenido de las giras del Titular de la Presidencia Municipal;
+
+VIII. Proporcionar información y cooperación técnicas a las dependencias de la Administración Pública Municipal; y
+
+IX. Coordinarse con la Coordinación General de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO I. De la Dirección de Turismo, Cultura y Desarrollo Económico
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
+## TÍTULO CUARTO. TURISMO, CULTURA Y DESARROLLO ECONÓMICO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
 
 ### CAPÍTULO II. Equidad de Género
 
-## TÍTULO CUARTO. INSTANCIA MUNICIPAL DE LA MUJER
-
-### CAPÍTULO III. Comité Municipal contra la erradicación de la violencia de Género contra las Mujeres
-
 ###### ARTÍCULO 259°.
 
-El objeto general de la Instancia Municipal de la Mujer es promover y fomentar las condiciones que posibiliten la no discriminación de las mujeres y la igualdad de oportunidades y de trato entre los hombres y las mujeres en el Municipio, así como el ejercicio pleno de todos los derechos reconocidos por la legislación mexicana y la participación equitativa de las mujeres en la vida política, cultural, económica y social del Municipio, así como la de los hombres en la vida familiar; bajo criterios en donde se mantenga este enfoque en todas las políticas públicas establecidas por cada una de las dependencias y entidades municipales.
+Corresponde a la Dirección de Turismo, Cultura y Desarrollo Económico:
+
+I. Ejecutar y/o coadyuvar al cumplimiento de las políticas y programas relativos al fomento e impulso de las actividades económicas como la industria, el comercio, los servicios, el turismo y las actividades agropecuarias;
+
+II. Desarrollar y coordinar acciones para la promoción de Real de Asientos como atractivo turístico, mantener y mejorar la afluencia de visitantes a través de la búsqueda de alianzas con operadores turísticos;
+
+III. Coadyuvar con las actividades del Comité Asientos Pueblo Mágico para dar cumplimiento a los lineamientos del Programa Pueblos Mágicos;
+
+IV. Establecer vínculos de cooperación con las dependencias afines a la Dirección en el ámbito federal y estatal a fin de establecer mecanismos de cooperación y estrategias para cumplir con los objetivos establecidos en el Plan Municipal de Desarrollo;
+
+V. Crear planes estratégicos de desarrollo turístico efectivo que vigilen el cuidado del patrimonio natural, histórico, arquitectónico y sociocultural del municipio;
+
+VI. Atender de manera atenta y ordenada a los turistas que eligen Real de Asientos para su visita;
+
+VII. Aprovechar plenamente los recursos naturales, artísticos, artesanales e históricos en beneficio de la economía del Municipio y de sus habitantes;
+
+VIII. Fomentar e incentivar y desarrollar actividades educativas y de difusión de los valores históricos y de turismo cultural del Municipio;
+
+IX. Promover e incrementar el número de visitantes al Municipio, ofreciendo una mejor y mayor calidad de los servicios de turismo cultural;
+
+X. Aumentar la captación de los recursos provenientes de la actividad cultural, para la conservación, ampliación y mejoramiento de las instalaciones, eventos y fomento de la cultura de Asientos;
+
+XI. Promover regional, nacional e internacionalmente la cultura, el arte y en especial el trabajo de los artesanos de Asientos, a través de los diversos eventos, festivales, exposiciones y demostraciones culturales;
+
+XII. Organizar, supervisar y controlar las ferias tradicionales de Real de Asientos y apoyar a la realización de las fiestas patronales de las diversas comunidades y/o delegaciones del municipio.
+
+XIII. Coadyuvar en la producción ejecutiva de eventos artísticos a nivel estatal, regional, nacional e internacional que impulsen al Municipio, así como llevar a cabo su promoción;
+
+XIV. Fomentar la conservación y el desarrollo de las actividades artesanales del municipio reconociendo esta actividad como un patrimonio municipal; y
+
+XV. Tener bajo su resguardo las instalaciones del Museo Municipal del Minero.
 
 ###### ARTÍCULO 259° Bis.
 
@@ -3353,45 +3757,41 @@ XIV. La distribución de la partida asignada en el presupuesto municipal a favor
 
 XV. Con el fin de conocer, analizar y evaluar la actividad de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS, la Directora General rendirá un informe trimestral al H. Ayuntamiento y al Presidente Municipal de Asientos, de manera integral sobre la operación y funcionamiento de la INSTANCIA MUNICIPAL DE LAS MUJERES DE ASIENTOS, y se mandata a quien ocupe la Presidencia Municipal incluirá lo relativo a la instancia municipal de las mujeres en el correspondiente informe anual de gobierno.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 260°.
 
-Corresponden a la Instancia de la Mujer las siguientes atribuciones:
+Corresponde al Departamento de Desarrollo Económico:
 
-I. Promover, impulsar y estimular la formulación y aplicación de políticas y acciones públicas que tiendan a alcanzar la equidad entre los hombres y las mujeres y eliminar la discriminación de género;
+I. Fomentar el desarrollo económico en la población de Asientos gestionando proyectos y programas a través de las instituciones federales y estatales;
 
-II. Promover, coordinar, vigilar y evaluar la adecuada ejecución de los programas, proyectos y acciones a favor de las mujeres, en contra de su discriminación y a favor de la equidad entre hombres y mujeres, mediante la coordinación con las Dependencias y Entidades Municipales y coadyuvar con el Instituto de las Mujeres del Estado para el logro de los objetivos planteados en el ámbito de sus respectivas competencias;
+II. Procurar la organización de los sectores industriales, comerciales y de servicios del municipio de Asientos;
 
-III. Promover la adecuada y eficiente implementación de las acciones a favor de las mujeres, desarrollando mecanismos que propicien la generación de información y estadística diferenciada; asegurando la disponibilidad de datos confiables y oportunos para el diseño e implementación de actividades orientadas a beneficiar a la mujer, además de evaluar su impacto en este sector de la sociedad, así como en la familia;
+III. Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción económica para el desarrollo del municipio;
 
-IV. Promover la prestación de servicios de apoyo a las madres y padres que trabajan, que sean suficientes, eficientes, adecuados y de calidad, con horarios flexibles y que consideren las necesidades de ambos sexos, en relación con su vida familiar y la crianza de los hijos;
+IV. Promover y ejecutar programas y acciones en materia de producción, industrialización y comercialización, que contribuyan al desarrollo de las actividades productivas y de bienestar social, por sí y en coordinación con las Entidades de los sectores público, social y privado;
 
-V. Fungir como enlace y representante permanente ante los Institutos Nacional y Estatal de las Mujeres, en los asuntos de su competencia;
+V. Fomentar una cultura emprendedora a través de programas de promoción económica de contenido social;
 
-VI. Diseñar y efectuar campañas, en coordinación con el Instituto Estatal de las Mujeres en su caso, para difundir las convenciones y tratados celebrados y ratificados por el Gobierno Mexicano, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas a favor de las mujeres;
+VI. Propiciar el crecimiento económico y el desarrollo social, a través de la transferencia e incorporación de tecnología y de la innovación;
 
-VII. Promover el respeto de los derechos humanos de las niñas y fomentar su desarrollo en condiciones de equidad;
+VII. Organizar y apoyar programas de investigación científica y tecnológica industrial, y fomentar su divulgación;
 
-VIII. Promover los mecanismos de integración de la mujer en la vida económica, social, política y cultural del Municipio, en condiciones de equidad; así como la integración de los hombres en la vida familiar, con el objeto de promover la complementariedad;
+VIII. Proponer las herramientas y programas, encaminados a la búsqueda de canales para la comercialización, el impulso de la promoción, desarrollo de productos y servicios locales, en los mercados regional, nacional e internacional.
 
-IX. Proponer e impulsar reformas legislativas que garanticen la participación de las mujeres en condiciones equitativas, en todos los ámbitos, sin importar el origen étnico o racial, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como promover el debido cumplimiento de las normas vigentes;
+IX. Organizar y fomentar la producción artesanal del Municipio, vigilando que su comercialización se haga en términos favorables para los artesanos;
 
-X. Promover el acceso de las mujeres a servicios integrales de atención a la salud, en condiciones de calidad y tomando en cuenta las características particulares de su ciclo de vida, su condición social y su ubicación geográfica;
+X. Fomentar la generación y promoción de proyectos, así como los servicios y asistencia técnica y de capacitación para el desarrollo de empresas;
 
-XI. Impulsar, en coordinación con los órganos de gobierno y sociales, la conformación y consolidación del Sistema de Centros Integrales de Apoyo a la Mujer, dar seguimiento y evaluar sus programas, proyectos y acciones, emitir opiniones al respecto, así como promover la profesionalización y formación permanente de su personal;
+XII. Atención al desarrollo de las MIPyMES con potencial de proveeduría hacia las diferentes industrias;
 
-XII. Impulsar acciones que contribuyan a resolver el problema de la violencia contra las mujeres, en todas sus modalidades, priorizando su prevención, promoviendo la defensa y la protección de los derechos humanos de la mujer, en todas las etapas de su vida y ámbito de desarrollo;
+XIII. Procurar el apoyo frontal a las MIPyMES y fomentar el desarrollo de sus capacidades, actuando como articulador que les ofrezca apoyo en la gestión de fondos, información estratégica, vinculación con sectores académicos y desarrollo de innovación en sus procesos y servicios; y
 
-XIII. Proponer al Presidente Municipal suscribir acuerdos y convenios de coordinación o concertación, con las Dependencias de las administraciones públicas federal, estatal y municipal y organismos nacionales e internacionales que no sean facultad exclusiva del Gobierno del Estado, con el fin de cumplir su objeto, actuar como órgano de consulta, capacitación y asesoría de estas entidades públicas, sociales y privadas, con el objeto de lograr la igualdad de oportunidades para las mujeres;
+XIV. Apoyar, en coordinación con las diferentes dependencias las gestiones de los productores y trabajadores organizados para la obtención de servicios, insumos, créditos, financiamiento, maquinaria y demás elementos necesarios para el desarrollo de las actividades agroindustriales.
 
-XIV. Elaborar el Programa Municipal para la No Discriminación y la Equidad entre Hombres y Mujeres y someterlo a aprobación del Presidente Municipal, así como actualizar periódicamente el diagnóstico sobre la situación de las mujeres y los hombres, en relación con los avances y la operatividad del mismo;
+### CAPÍTULO III. Comité Municipal contra la erradicación de la violencia de Género contra las Mujeres
 
-XV. Rendir informes al Presidente Municipal de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Municipal para la No Discriminación y la Equidad de género;
-
-XVI. Promover e incentivar investigaciones y estudios que contribuyan a profundizar en el conocimiento de la problemática de la mujer en los diversos campos de la realidad social, así como la adecuada recopilación, sistematización y difusión de la información; y
-
-XVII. Las demás que señale el presente Código y otros ordenamientos legales.
-
-### CAPÍTULO I. De la Dirección de Desarrollo Social, Económico y Rural
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 261°.
 
@@ -3415,7 +3815,11 @@ El Programa deberá ser congruente con las directrices fundamentales del Plan Mu
 
 El Programa Municipal para la No Discriminación y la Equidad entre Hombres y Mujeres propiciará la colaboración y participación activa de las autoridades federales, estatales y municipales y de la sociedad en su conjunto en el ámbito de sus respectivas competencias.
 
-### CAPÍTULO II. Del Departamento de Desarrollo Rural
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO I. De la Dirección de Desarrollo Social y Rural
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 265°.
 
@@ -3439,25 +3843,31 @@ VIII. El Director de Asuntos Jurídicos;
 
 IX. El Director de Desarrollo Social, Económico y Rural;
 
-X. El Director de Seguridad Pública y Vialidad; y
+X. El Director de Seguridad Pública y Movilidad; y
 
 XI. El Jefe del Departamento de Comunicación Social.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
 ## TÍTULO QUINTO. DE LAS DIRECCIONES
 
-### CAPÍTULO III. De la Dirección de Planeación y Obras Públicas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO II. Del Departamento de Desarrollo Rural
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 266°.
 
-Corresponde a la Dirección de Desarrollo Social, Económico y Rural:
+Corresponde a la Dirección de Desarrollo Social y Rural:
 
-I. Mantener constante comunicación con la Delegación de la Secretaría de Desarrollo Social Federal y Estatal, para ejercitar coordinadamente acciones y acatar las disposiciones legales respectivas;
+I. Mantener constante comunicación con la Delegación de la Secretaría del Bienestar y la Secretaria de Desarrollo Social del Estado de Aguascalientes, para ejercitar coordinadamente acciones y acatar las disposiciones legales respectivas;
 
 II. Impulsar el mejoramiento del nivel de vida de los habitantes del municipio, atendiendo prioritariamente, a los segmentos sociales de pobreza extrema;
 
 III. Impulsar a la sociedad atendiendo sus propuestas y necesidades generando acciones definidas para su propio desarrollo;
 
-IV. Ejecutar los planes y programas de desarrollo social y económico del municipio;
+IV. Ejecutar los planes y programas de desarrollo social y rural del municipio;
 
 V. Concertar con la sociedad acuerdos de carácter social, político y económico entre el Municipio y grupos sociales;
 
@@ -3467,11 +3877,19 @@ VII. Apoyar la participación ciudadana, para lograr un mejoramiento de las cond
 
 VIII. Recibir y canalizar las iniciativas de la población tendientes a satisfacer sus necesidades, así como inducir su colaboración en la realización de obras y la prestación de los servicios públicos municipales;
 
-IX. Elaborar, ejecutar, supervisar, evaluar y actualizar los planes y programas de Desarrollo Social Municipal; y
+IX. Elaborar, ejecutar, supervisar, evaluar y actualizar los planes y programas de Desarrollo Social Municipal;
 
-X. Las demás que le confiera el presente Código y demás ordenamientos aplicables.
+X. Asegurar la participación de los sectores de la sociedad, a través del Comité de Planeación para el Desarrollo del Municipio, y de otras organizaciones, buscando lograr el equilibrio económico de los núcleos urbanos y rurales atendiendo las necesidades básicas, el mejoramiento de las condiciones de vida; y
 
-### CAPÍTULO IV. De la Dirección de Agua Potable, Alcantarillado y Ecología
+XI. Llevar a cabo la concertación social, así como la constitución de comités de desarrollo comunitario, comités de contraloría social y delegacionales, mediante instrumentos que involucren la participación ciudadana de manera directa en las acciones de desarrollo social.
+
+XII. Las demás que le confiera el presente Código y demás ordenamientos aplicables.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO III. De la Dirección de Planeación y Obras Públicas
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 267°.
 
@@ -3483,43 +3901,45 @@ II. Promover en el Municipio de Asientos el desarrollo agropecuario;
 
 III. Formar y coordinar grupos de trabajo para la formación de proyectos integrales;
 
-IV. Realizar gestiones y trámites ante las diferentes dependencias, tanto federales como estatales;
+IV. Realizar gestiones y trámites ante las diferentes dependencias, tanto federales como estatales en beneficio de la población rural en el desarrollo de las actividades agropecuarias;
 
 V. La aplicación de los recursos económicos destinados para tal efecto a los diferentes proyectos y servir de enlace con las diferentes dependencias, tanto federales como estatales;
 
 VI. Proporcionar asesoría técnica a la población en cuanto a la rama agropecuaria;
 
-VII. Promover y fomentar el turismo y el desarrollo turístico, mediante la elaboración de proyectos integrales donde se exploten los sitios turísticos del Municipio de Asientos;
+VII. Promover la conservación de los recursos naturales del municipio;
 
-IX. Promover la conservación de los recursos naturales del municipio;
+VIII. Promover la reforestación en todo el municipio e incrementar la flora y fauna existente;
 
-X. Promover la reforestación en todo el municipio e incrementar la flora y fauna existente;
+IX. Buscar la constitución de áreas de reserva ecológica en el Municipio de Asientos;
 
-XI. Buscar la constitución de áreas de reserva ecológica en el Municipio de Asientos;
+X. Suplir al Director de Desarrollo Social y Rural en la coordinación del Consejo de Desarrollo Municipal Sustentable; y
 
-XII. Llevar a cabo la coordinación del Consejo de Desarrollo Municipal Sustentable; y
+XI. Las demás que determine el presente Código y las demás disposiciones jurídicas aplicables.
 
-XIII. Las demás que determine el presente Código y las demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO V. De la Dirección de Seguridad Pública y Vialidad Municipal
+### CAPÍTULO IV. De la Dirección de Agua Potable, Alcantarillado y Ecología
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 268°.
 
 Corresponde a la Dirección (sic) Planeación y Obras Públicas:
 
-A) Corresponde a la Dirección de Planeación y Obras Públicas en materia de Planeación y Desarrollo Urbano:
+A) En materia de Planeación y Desarrollo Urbano:
 
-I. Elaborar el proyecto de Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
+I. Colaborar en la integración del proyecto de Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
 
 II. Coordinar la elaboración de los Programas de Desarrollo Urbano de la Cabecera y Comunidades del Municipio Asientos;
 
-III. Desarrollar el Marco Normativo Ecológico Municipal, involucrando a todas las Dependencias necesarias para la aplicación y regulación del mismo;
+III. Colaborar en el Marco Normativo Ecológico Municipal, involucrando a todas las Dependencias necesarias para la aplicación y regulación del mismo;
 
 IV. Preparar los proyectos de programas y esquemas en materia de desarrollo urbano para presentarlos al Ayuntamiento a través del Presidente Municipal;
 
-V. Organizar los Programas Operativos Anuales;
+V. Integrar el Programa Anual de Inversión Pública en conjunto con la Coordinación de Planeación;
 
-VI. Preparar los proyectos derivados del programa operativo anual;
+VI. Preparar los proyectos derivados del Programa Anual de Inversión Pública;
 
 VII. Instrumentar los procesos de consulta ciudadana para la preparación de planes y programas municipales;
 
@@ -3559,7 +3979,7 @@ XXIV. Imponer las sanciones por violación a las normas en materia de desarrollo
 
 XXV. Solicitar el auxilio de la fuerza pública, cuando fuese necesario para hacer cumplir sus determinaciones;
 
-XXVI. Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
+XXVI. Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones, instalaciones y obras de infraestructura básica;
 
 XXVII. Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal;
 
@@ -3567,7 +3987,7 @@ XXVIII. Lo demás que señalen la Ley, el presente Código o le encomiende el H:
 
 B) En materia de obra pública:
 
-I. Ejecutar el Programa Municipal de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal;
+I. Ejecutar el Programa Anual de Inversión Pública en materia de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal y de acuerdo al Plan de Desarrollo Municipal;
 
 II. Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes de acuerdo a la legislación vigente en la materia;
 
@@ -3575,13 +3995,17 @@ III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de la
 
 IV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio;
 
-V. Asesorar técnicamente a los Comités Vecinales que lo requieran, en lo concerniente a la realización de obras públicas municipales;
+V. Asesorar técnicamente a los Comités Vecinales y/o Comités de Desarrollo Comunitario que lo requieran, en lo concerniente a la realización de obras públicas municipales;
 
 VI. Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia; y.
 
 VII. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-### CAPÍTULO I. De los Organismos Descentralizados
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO V. De la Dirección de Seguridad Pública y Movilidad Municipal
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 269°.
 
@@ -3591,55 +4015,261 @@ I. Realizar las actividades que se requieren para lograr que la Dirección de Ag
 
 II. Realizar en forma regular y periódica muestras y análisis del agua, llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye entre la población, así como la del agua que una vez utilizada y tratada se vierte en los cauces o vasos;
 
-III. Realizar las acciones necesarias para que la Dirección de Agua Potable, Alcantarillado y Ecología se ajuste al Sistema de Agua Potable, Alcantarillado y Saneamiento del Estado de Aguascalientes en los términos de la Ley y a la coordinación y normatividad que efectué el Instituto del Agua del Estado;
+III. Realizar las acciones necesarias para que la Dirección de Agua Potable, Alcantarillado y Ecología se ajuste al Sistema de Agua Potable, Alcantarillado y Saneamiento del Estado de Aguascalientes en los términos de la Ley y a la coordinación y normatividad que efectúe el Gobierno del Estado a través de su instancia correspondiente;
 
 IV. Designar al servidor público que deba sustituirlo en sus ausencias temporales;
 
 V. Promover el fortalecimiento de las relaciones de la Dirección de Agua Potable, Alcantarillado y Ecología con los demás organismos o empresas operadoras de agua y Saneamiento del Estado y de los Estados de la República, con el fin de intercambiar experiencias y conocimientos, y procurar la cooperación interinstitucional;
 
-VI. Proporcionar las facilidades para que el auditor externo designado por el Ayuntamiento de Asientos, pueda rendir en su oportunidad informes de auditoria sobre las operaciones de la Dirección de Agua Potable, Alcantarillado y Ecología, con opinión de estos sobre sus resultados y anualmente un informe de auditoria de los estados financieros;
+VI. Realizar las demás funciones que se requieran para el mejor desempeño de las anteriores facultades y atribuciones, así como de las que se asignen en otras leyes aplicables;
 
-VII. Realizar las demás funciones que se requieran para el mejor desempeño de las anteriores facultades y atribuciones, así como de las que se asignen en otras leyes aplicables;
+VII. Formular los anteproyectos de programas y presupuestos que les correspondan y someterlos a la consideración del Ayuntamiento;
 
-VIII. Formular los anteproyectos de programas y presupuestos que les correspondan y someterlos a la consideración del Ayuntamiento;
+VIII. Aplicar y vigilar el cumplimiento, en el área de su competencia, de las leyes, reglamentos, decretos, acuerdos, circulares, procedimientos y demás disposiciones relacionadas con los servicios y con las actividades de la competencia de la dirección respectiva, tomando las medidas adecuadas para prevenir y corregir la violación de esas normas y para la aplicación, en su caso, de las sanciones procedentes;
 
-IX. Aplicar y vigilar el cumplimiento, en el área de su competencia, de las leyes, reglamentos, decretos, acuerdos, circulares, procedimientos y demás disposiciones relacionadas con los servicios y con las actividades de la competencia de la dirección respectiva, tomando las medidas adecuadas para prevenir y corregir la violación de esas normas y para la aplicación, en su caso, de las sanciones procedentes;
+IX. Intervenir en la selección y adscripción del personal al que integre la planta de empleados de la dirección, en la promoción de los mismos; en el otorgamiento de licencias, vacaciones, permisos y exenciones; en el otorgamiento de estímulos y recompensas; así como en la aplicación de sanciones;
 
-X. Intervenir en la selección y adscripción del personal al que integre la planta de empleados de la dirección, en la promoción de los mismos; en el otorgamiento de licencias, vacaciones, permisos y exenciones; en el otorgamiento de estímulos y recompensas; así como en la aplicación de sanciones;
+X. Elaborar los informes relativos a los asuntos de la competencia de la dirección.
 
-XI. Elaborar los informes relativos a los asuntos de la competencia de la dirección.
+XI. Representar a la Dirección en los términos que señalen las normas reglamentarias y desempeñar las comisiones que les encomiende el Ayuntamiento;
 
-XII. Representar a la Dirección en los términos que señalen las normas reglamentarias y desempeñar las comisiones que les encomiende el Ayuntamiento;
+XII. Revisar y rubricar los convenios, contratos, permisos y las autorizaciones en los que la Dirección sea parte, en los asuntos de su competencia, así como adoptar las resoluciones técnicas y administrativas, y firmar los contratos y convenios que expresamente les delegue el Presidente Municipal;
 
-XIII. Revisar y rubricar los convenios, contratos, permisos y las autorizaciones en los que la Comisión sea parte, en los asuntos de su competencia, así como adoptar las resoluciones técnicas y administrativas, y firmar los contratos y convenios que expresamente les delegue el Presidente Municipal y el Director General;
+XIII. Atender al público en los asuntos de la competencia de la dirección;
 
-XIV. Atender al público en los asuntos de la competencia de la dirección;
+XIV. Recabarán la opinión de la Dirección de Asuntos Jurídicos, previo convenio en todos los asuntos de carácter legal;
 
-XV. Recabarán la opinión del Departamento Jurídico de la Presidencia Municipal, previo convenio en todos los asuntos de carácter legal;
+XV. Promover la capacitación y el desarrollo de los programas de productividad del personal a su cargo;
 
-XVI. Preparar y realizar, las adquisiciones y servicios que deban celebrarse en las materias de su competencia;
+XVI. Emitir y sancionar las solicitudes de poda y derribo de árboles y arbustos en el territorio municipal de Asientos.
 
-XVII. Promover la capacitación y el desarrollo de los programas de productividad del personal a su cargo; y
+XVII. Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
 
-XVIII. Desempeñar las demás funciones que les confieran las distintas disposiciones legales y reglamentarias vigentes.
+XVIII. Verificar y ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
 
-### CAPÍTULO II. De la Administración Desconcentrada
+XIX. Regular y vigilar la emisión de ruidos que afecten el medio ambiente, así como la salud de las personas;
+
+XX. Difundir y dirigir las acciones tendientes a obtener una adecuada educación ambiental de los ciudadanos del municipio, en colaboración con las instituciones educativas y culturales; y
+
+XXI. Fomentar las acciones tendientes a un adecuado aprovechamiento de los recursos en el municipio, buscando en todo el desarrollo municipal sustentable.
+
+XXII. Desempeñar las demás funciones que les confieran las distintas disposiciones legales y reglamentarias vigentes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO VI. De la Coordinación de Casas Ciencia
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 270° BIS.- Son obligaciones y facultades de la Coordinación de Casas Ciencia:
+
+I. Cumplir y hacer cumplir las leyes federales y locales, el presente Código, los reglamentos, bandos, ordenanzas, circulares e instructivos expedidos por el Ayuntamiento en materia de ciencia, tecnología e innovación;
+
+II. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden;
+
+III. Llevar a cabo la operación de las Casas Ciencia en el territorio municipal de Asientos en coordinación con el Gobierno del Estado a través del IDSCEA;
+
+IV. Promover ante el Ayuntamiento la realización de programas de desarrollo de la ciencia, la tecnología y la innovación en la niñez y la juventud, para la adecuada prestación de los servicios que brinda el gobierno municipal;
+
+V. Incentivar a la población sobre el uso de las tecnologías de información y manejo de Acercar a la población;
+
+VI. Llevar a la población del municipio hacia un desarrollo Científico y Tecnológico que les permita transitar hacia un pleno estado del conocimiento;
+
+VII. En coordinación con el IDSCEA, promover la apertura de nodos de ciencia, tecnología e innovación CITEIN orientados a fomentar la educación científica, tecnológica y la innovación; e
+
+VIII. Impulsar la apropiación social del conocimiento científico y tecnológico a la población de Asientos, en especial a la niñez, contribuyendo con su formación científica integral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 270°.
 
-La Dirección de Seguridad Pública y Vialidad Municipal tendrá como facultades y obligaciones las establecidas en (sic) Libro Séptimo del presente Código de la Seguridad Pública y Vialidad Municipal
+La Dirección de Seguridad Pública y Movilidad Municipal tendrá como facultades y obligaciones las establecidas en (sic) Libro Séptimo del presente Código de la Seguridad Pública y Movilidad Municipal.
 
-### CAPÍTULO I. De las Condiciones Generales de Trabajo
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO II. De las Obligaciones de los Trabajadores
+### CAPÍTULO VII. De la Coordinación Municipal de Protección Civil
 
-### CAPÍTULO III. Medidas Disciplinarias
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO IV. Del Cuerpo de Seguridad Pública
+ARTÍCULO 270° TER.- La Coordinación Municipal de Protección Civil, es un es un cuerpo de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, auxiliar de la Dirección de Seguridad Pública y Movilidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 270° QUATER.- Son obligaciones y facultades de la Coordinación Municipal de Protección Civil:
+
+I. Cumplir y hacer cumplir las leyes federales y locales, el presente Código, los reglamentos, bandos, ordenanzas, circulares e instructivos expedidos por el Ayuntamiento en materia de Protección Civil;
+
+II. Prevenir y combatir incendios, explosiones de gases, derrames de combustibles o productos químicos, derrumbes de construcciones, fugas de gases tóxicos o combustibles, cortos circuitos y accidentes causados por equipo y material eléctrico, rescate de personas vivas o muertas, control de inundaciones, aseguramiento o destrucción de animales peligrosos y otros eventos en los que a juicio de la Coordinación deba intervenir;
+
+III. El titular de la Coordinación tendrá facultades para solicitar el auxilio de las fuerzas de Seguridad Pública en los casos de siniestro, actuando estas fuerzas como auxiliares, cuidando de ejercer estricta vigilancia para impedir que el público que acude curiosamente a los incendios u otras maniobras obstruya las labores, efectuando una vigilancia completa y eficaz para que la maquinaria, equipo y herramientas que se utilicen no sea robada o dañada;
+
+IV. Integrar el Sistema Municipal de Protección Civil;
+
+V. Aprobar, publicar y ejecutar el Programa Municipal de Protección Civil y los programas institucionales que se deriven del mismo;
+
+VI. Participar en el Sistema Estatal de Protección Civil y asegurar la congruencia del programa municipal con el Programa Estatal de Protección Civil, haciendo las propuestas que estimen pertinentes;
+
+VII. Solicitar al Gobierno del Estado el apoyo necesario para cumplir con las finalidades de la Ley de Protección Civil del Estado de Aguascalientes en el ámbito de su jurisdicción;
+
+VIII. Celebrar convenios con los Gobiernos Federal y Estatal, que apoyen los objetivos y finalidades de los sistemas de protección civil;
+
+IX. Coordinarse y asociarse con otros Municipios de la Entidad y el Gobierno del Estado, a través de la Coordinación Estatal de Protección Civil, para el cumplimiento de los Programas;
+
+X. Instrumentar su programa en coordinación con el Consejo Municipal y Estatal de Protección Civil;
+
+XI. Publicar, difundir y dar cumplimiento a la declaración de emergencia que en su caso expida la Coordinación Estatal de Protección Civil;
+
+XII. Solicitar al Ejecutivo Estatal el apoyo necesario para desarrollar las acciones de auxilio y recuperación, cuando los efectos de un siniestro o desastre lo requieran;
+
+XIII. Asociarse con otras entidades públicas o con particulares para coordinar y concertar la realización de las acciones programadas en materia de protección civil;
+
+XIV. Integrar en los reglamentos de zonificación urbana y construcción los criterios de prevención y hacer que se cumplan;
+
+XV. Asegurar que las obras de urbanización y edificación que autoricen, se proyecten, ejecuten y operen conforme las normas aplicables;
+
+XVI. Promover la constitución de grupos voluntarios integrados al Sistema Municipal de Protección Ci vil (sic), autorizar sus reglamentos y apoyarlos en sus actividades; y
+
+XVII. Coordinar las asociaciones de vecinos constituidas conforme a las disposiciones municipales.
+
+Las dependencias y organismos del sector público, como también las instituciones y empresas del sector privado, serán las encargadas de instrumentar en el ámbito de sus funciones la ejecución de los programas de protección civil, atendiendo las necesidades específicas de prevención y atención de riesgos para seguridad de su personal y bienes
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO VIII. De la Coordinación de Planeación
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 270° QUINQUIES.- Son obligaciones y facultades de la Coordinación de Planeación:
+
+I. Desarrollar los planes, programas y demás instrumentos de desarrollo urbano, así como sus modificaciones, actualizaciones y evaluaciones;
+
+II. Participar en la creación y administración de las reservas territoriales del municipio;
+
+III. Intervenir en la promoción y aplicación de programas de transporte público de pasajeros;
+
+IV. Asesorar al Ayuntamiento y a la Administración Pública Municipal en las acciones que integran el proceso de planeación estratégica integral para el desarrollo sustentable a mediano y largo plazo;
+
+V. Coordinar, operar y mantener actualizados los sistemas municipales de Planeación Participativa, Programación, Información Geográfica y Estadística, y Gestión Basada en Resultados en coordinación con la Tesorería Municipal;
+
+VI. Coordinar la elaboración, seguimiento y evaluación del Plan de Desarrollo Municipal y de los planes y programas para el desarrollo sustentable a mediano y largo plazo;
+
+VI (SIC). Participar en las diversas instancias de planeación a nivel federal, estatal y municipal;
+
+VII. Establecer mecanismos de consulta e incorporar la participación ciudadana en los procesos de planeación.
+
+VIII. Facilitar la celebración de acuerdos de cooperación entre la sociedad y las diferentes instancias del Gobierno Municipal, para generar mecanismos que aseguren la permanente participación ciudadana en los procesos de planeación municipal;
+
+IX. Contar con servicios de asesoría externa requeridos para el desarrollo de los programas estratégicos del Plan de Desarrollo Municipal en apego a los recursos autorizados.
+
+X. Proponer al Presidente Municipal el Programa Anual de Inversión Pública Municipal. Para tales efectos, se coordinará con las dependencias o entidades competentes en los términos de éste Código;
+
+XI. Coordinar las acciones que procuren la congruencia de la planeación municipal con los tres niveles de gobierno;
+
+XII. Participar en la coordinación de los trabajos del Comité de Planeación para el Desarrollo del Municipio de Asientos (COPLADEMUN), en los términos que señale la normatividad aplicable;
+
+XIII. Participar en los comités, comisiones, subcomisiones y órganos municipales y estatales en materia de planeación, en los términos que señale la normatividad aplicable; y
+
+XIV. Proponer al Presidente Municipal la distribución de los recursos del fondo de infraestructura social municipal (FISM);
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO IX. De la Dirección de Salud
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 270° SEXIES.- Son obligaciones y facultades de la Dirección de Salud:
+
+A) En materia de Salud
+
+I. Promover, fortalecer y apoyar las acciones en materia de salubridad local y regulación sanitaria, ejerciendo las atribuciones que correspondan al Municipio y en base a los acuerdos y políticas estatales y federales para esta cuestión;
+
+II. Garantizar en coordinación con las secretarías de salud del orden federal y estatal, la salubridad e higiene pública en el territorio municipal de Asientos:
+
+III. Promover el bienestar social de la población con la implementación de programas de salud pública;
+
+IV. Colaborar con las autoridades municipales, estatales y federales en la preservación y mejoramiento de la salud pública.
+
+V. Vigilar que las dependencias y organismos de índole municipal encargados de ministrar la asistencia social, coadyuven y se coordinen con las autoridades y organismos encargados de dicha materia en el Estado, fortaleciendo e integrando su actividad al Sistema Estatal de Salud;
+
+VI. Vigilar que las dependencias municipales competentes contribuyan al fortalecimiento del Sistema Estatal de Salud en materia de atención médica;
+
+VII. Vigilar las condiciones higiénicas, de salubridad o sanitarias de los establecimientos y actividades que se desarrollen en el municipio, colaborando con las autoridades estatales en materia de salud pública, y la aplicación de diferentes leyes federales, estatales y municipales sobre en materia de salud pública;
+
+VIII. Promover campañas para el mejoramiento integral de la salud de las familias del Municipio de Asientos;
+
+IX. Colaborar con las instituciones de salud de los tres órdenes de gobierno en la prevención y el control de enfermedades transmisibles;
+
+X. Promover el acceso de las mujeres a servicios integrales de atención a la salud, en condiciones de calidad y tomando en cuenta las características particulares de su ciclo de vida, su condición social y su ubicación geográfica;
+
+XI. Vigilar que las farmacias en general cuenten con un químico fármaco biólogo, legalmente autorizado para ejercer su profesión e inscribirse en el padrón del H Ayuntamiento;
+
+XII. Sancionar a las personas que violen cualquiera de las obligaciones de este título en los términos establecidos en el presente Código;
+
+B) En materia de Regulación Sanitaria
+
+I. Cuidar el aseo de las poblaciones y hacer que se observe en el ramo de higiene todo lo que consideren conveniente de acuerdo con las autoridades en Salud Pública;
+
+II. Vigilar que los responsables de los rastros cuiden que el personal que interviene en la matanza de ganado y reparto de carnes se encuentre en buenas condiciones de salud;
+
+III. Vigilar y dictaminar conjuntamente con el Departamento de Ecología, sobre aquellas actividades, medidas, programas y acciones que se relacionen con ambas materias;
+
+IV. Realizar los estudios y gestiones que estimen pertinentes en materia de salud, salubridad e higiene, que beneficien al municipio;
+
+V. En coordinación con la Secretaría de Salud y el Instituto de Salud del Estado de Aguascalientes en el ámbito de sus respectivas competencias, determinar las técnicas y procedimientos que deberán aplicarse para la conservación, depósito y manejo de cadáveres y supervisarán las condiciones sanitarias de los locales en que se presten los servicios de velación;
+
+VI. Determinar el destino de las carnes no apropiadas para el consumo de la población de acuerdo a la Ley General de Salud;
+
+VII. Vigilar que el transporte de toda clase de carne producto del sacrificio de animales, se realice de acuerdo a normas que garanticen la higiene y preserven la salud de la población, y que los vehículos que sirvan de transporte de dichos productos cuenten con licencia sanitaria expedida por el H. Ayuntamiento;
+
+VIII. Inspeccionar y controlar a los establecimientos dedicados a la venta de carne, certificando las condiciones sanitarias y de higiene de ésta, que la hagan apta para el consumo humano;
+
+IX. Vigilar que la matanza se realice en los lugares autorizados, siguiendo las normas elementales de salubridad;
+
+X. Capturar y/o asegurar por conducto de los verificadores municipales en materia de control canino, a los perros que deambulen libremente en vía pública; tengan o no propietario; vacunado o no contra la rabia; con o sin placa;
+
+XI. Asegurar a todo animal que se encuentre sujetado o no en vía pública, no se le dé un hábitat digno o se encuentre en condiciones insalubres y pueda transmitir enfermedades a personas y/o animales, no se le provea de alimento y agua o defeque habitualmente en propiedad ajena o cause molestia a terceros;
+
+XII. Atender las denuncias de la población o cuando se tenga conocimiento de que un perro ha mordido a una persona u otro animal, para verificar sus condiciones de sanidad y en su caso, asegurar al perro para su diagnóstico;
+
+XIII. Elaborar el reporte de observación del animal emitido por la autoridad sanitaria municipal, para informar a los afectados, al propietario y/o a la institución de salud interesada siempre y cuando le sea solicitado;
+
+XIV. Vigilar que en los establecimientos no se utilicen líquidos que constituyan un peligro a la salud, y en su caso, obligarlos a establecer depósitos de basura especiales para los desechos que resulten de su actividad;
+
+XV. Vigilar y denunciar a las farmacias o establecimientos de venta de medicamentos, por expender sin receta médica los medicamentos controlados o no, que así determine la Secretaría de Salud;
+
+XVI. Atender las denuncias y vigilar que no se arrojen o abandonen en vía y lugares públicos o privados, animales muertos, escombros, sustancias fétidas o cualquier objeto que pueda ocasionar daños al ecosistema y a la salud pública;
+
+XVII. Vigilar que no se incineren materiales de cualquier tipo, en vía y lugares públicos que puedan alterar la salud o dañar el ecosistema y sin la autorización por escrito correspondiente;
+
+XVIII. Inspeccionar y clausurar los establos, porquerizas, gallineros depósitos de estiércol y demás lugares o establecimientos en el área urbana, que a juicio de la Dirección de Salud y del Departamento de Regulación Sanitaria o de Servicios Públicos, afecte a las condiciones de salubridad mínimas necesarias para las personas;
+
+XIX. Inspeccionar y clausurar con el apoyo de Seguridad Pública los lugares, donde se ejecute la matanza y se destacen animales o bien cocinarlos en la vía pública;
+
+XX. Cumplir con las normas básicas de salubridad vigentes; y
+
+XXI. Las demás que establezcan las leyes sanitarias.
+
+C) En materia de la Coordinación de Paramédicos
+
+I. Brindar atención médica urgente, y proporcionar los primeros auxilios al accidentado, que permitan estabilizar a los usuarios, reportando al médico el estado de los mismos;
+
+II. Atender los llamados de emergencia;
+
+II (SIC). Realizar el traslado de los accidentados a una unidad hospitalaria, en los casos que se requiera, vigilando su estado de salud, conforme a las instrucciones del médico;
+
+III. Apoyar el registro, actualización y apertura de expedientes de los usuarios, proporcionando el historial clínico existente al médico en turno, para su atención;
+
+IV. Colaborar en la toma y registro de signos vitales de los usuarios que acuden a solicitar el servicio médico;
+
+V. Realizar el reporte diario de actividades y, en su caso, referir la información de los traslados de usuarios, a fin de actualizar el control de salidas de la ambulancia; y
+
+VI. Las demás que establezcan la Ley de Protección Civil.
+
+### CAPÍTULO I. De los Organismos Descentralizados
 
 ## TÍTULO SEXTO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL Y DESCONCENTRADA
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO II. De la Administración Desconcentrada
 
 ###### ARTÍCULO 271°.
 
@@ -3657,7 +4287,7 @@ Los organismos públicos descentralizados tendrán la estructura orgánica y fun
 
 Los organismos públicos descentralizados y empresas de participación municipal, salvo disposición en contrario de sus acuerdos o decretos de creación, manejarán libremente su patrimonio, pero no podrán enajenar sus bienes inmuebles sin consentimiento expreso del ayuntamiento autorizado por mayoría calificada de sus integrantes.
 
-### CAPÍTULO II. Del Plan Municipal de Desarrollo
+### CAPÍTULO I. De las Condiciones Generales de Trabajo
 
 ###### ARTÍCULO 275°.
 
@@ -3689,6 +4319,8 @@ II. Ser persona de reconocida probidad y moralidad; y
 
 III. Ser vecino de la comunidad donde sea nombrado por lo menos dos años antes de la designación.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 281°.
 
 Son obligaciones y facultades de los delegados, subdelegados y comisarios municipales:
@@ -3697,17 +4329,15 @@ I. Cumplir y hacer cumplir las leyes federales y locales, el presente Código, l
 
 II. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden;
 
-III. Cuidar el orden y la seguridad de las personas y sus bienes;
+III. Cuidar el orden y la seguridad de las personas y sus bienes, en coordinación con la Dirección de Seguridad Pública y Movilidad;
 
 IV. Promover ante el Ayuntamiento la realización de obras de interés general y la adecuada prestación de los servicios públicos municipales;
 
-V. Informar mensualmente a la Hacienda Municipal, sobre los bienes y fondos públicos a su cargo;
+V. Generar de acuerdo a sus funciones y a la probidad de los actos, la emisión de constancias de vecindad, residencia, domicilio, posesión, identificación de ganado, identidad, y de unión libre;
 
-VI. Desempeñar las funciones relativas al Registro Civil cuando no exista encargado;
+VI. En general, auxiliar en el ámbito territorial de su competencia, a las dependencias municipales para la adecuada realización de las funciones y la prestación de los servicios públicos; y
 
-VII. En general, auxiliar en el ámbito territorial de su competencia, a las dependencias municipales para la adecuada realización de las funciones y la prestación de los servicios públicos; y
-
-VIII. Las demás que por acuerdo del Ayuntamiento deba ejecutar.
+VII. Las demás que por acuerdo del Ayuntamiento deba ejecutar.
 
 ###### ARTÍCULO 282°.
 
@@ -3717,9 +4347,33 @@ En el Municipio de Asientos, es considerado como Delegaciones Municipales las es
 
 Son Comisarías Municipales las que se especifican en el artículo 224 fracción II, inciso f) número 2 del presente Código Municipal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 283° BIS.- Corresponde a la Coordinación de Delegaciones:
+
+I. Acordar con el Presidente Municipal, el despacho de los asuntos que le corresponden;
+
+II. Rendir informe de las actividades desempeñadas al Presidente Municipal, cuando así se le requiera;
+
+III. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados;
+
+IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes con la finalidad de mejorar la calidad de vida de los habitantes;
+
+V. Mantener permanente comunicación con las dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población;
+
+VI. Asistir y brindar el apoyo necesario para los eventos y actividades de las dependencias de la Administración Pública Municipal organizadas en su jurisdicción;
+
+VII. Llevar a cabo reuniones mensuales con los comisarios municipales;
+
+VIII. Dar seguimiento a reportes de las necesidades del servicio público, alumbrado, agua potable y demás servicios con que cuente o necesite la comunidad;
+
+IX. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras; y
+
+X. Las demás que señale la ley o el Presidente Municipal.
+
 ## TÍTULO SÉPTIMO. DE LAS RELACIONES DEL H. AYUNTAMIENTO CON SUS TRABAJADORES
 
-### CAPÍTULO III. Del Presupuesto de Egresos
+### CAPÍTULO II. De las Obligaciones de los Trabajadores
 
 ###### ARTÍCULO 284°.
 
@@ -3791,7 +4445,7 @@ En ningún caso el reglamento podrá establecer condiciones de trabajo inferiore
 
 El reglamento que se encuentre vigente para la Presidencia Municipal de Asientos, podrá ser sujeto de reformas, adiciones o derogaciones, siempre y cuando se verifique para tal efecto el procedimiento de se (sic) expedición.
 
-### CAPÍTULO IV. De la Participación Social
+### CAPÍTULO III. Medidas Disciplinarias
 
 ###### ARTÍCULO 296°.
 
@@ -3849,7 +4503,7 @@ Todo lo relacionado con los riesgos profesionales y accidentes de trabajo, será
 
 Las faltas de asistencia injustificadas que tengan los trabajadores se sancionarán, reduciendo de su salario el día no trabajado y en caso de que compute mas de tres faltas en el término de treinta días será motivo suficiente para rescindir la relación laboral, sin responsabilidad para el H. Ayuntamiento.
 
-### CAPÍTULO I. De la Clasificación de los Bienes
+### CAPÍTULO IV. Del Cuerpo de Seguridad Pública
 
 ###### ARTÍCULO 300°.
 
@@ -3871,7 +4525,7 @@ III. Rescisión de la relación de trabajo; y
 
 IV. Denunciar los hechos ante las Autoridades competentes, en caso de que su conducta entrañe la comisión de algún ilícito.
 
-### CAPÍTULO II. De los Bienes Muebles
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 303°.
 
@@ -3887,7 +4541,7 @@ La imposición de las sanciones por la comisión de faltas o infracciones al pre
 
 ## TÍTULO OCTAVO. DE LA PLANEACIÓN Y EL DESARROLLO MUNICIPAL
 
-### CAPÍTULO III. De la Enajenación de los Bienes Municipales
+### CAPÍTULO II. Del Plan Municipal de Desarrollo
 
 ###### ARTÍCULO 306°.
 
@@ -3909,7 +4563,7 @@ En la programación se instrumentarán sistemas operativos de fiscalización, co
 
 El Plan Municipal de Desarrollo tendrá la debida observancia y obligatoriedad que señalan para tal efecto las leyes respectivas, y deberá ajustarse a lo requerido por los Artículos 161 a 170 de la Ley Municipal para el Estado de Aguascalientes.
 
-### CAPÍTULO IV. Del Comité de Adquisiciones
+### CAPÍTULO III. Del Presupuesto de Egresos
 
 ###### ARTÍCULO 311°.
 
@@ -3963,7 +4617,7 @@ Los programas que se deriven del Plan Municipal de Desarrollo, especificarán su
 
 La aprobación, actualización o sustitución de los programas que se deriva (sic) del Plan Municipal de Desarrollo también es coordinada por el Comité de Planeación para el Desarrollo Municipal.
 
-### CAPÍTULO V. Del Archivo Municipal
+### CAPÍTULO IV. De la Participación Social
 
 ###### ARTÍCULO 322°.
 
@@ -4105,7 +4759,7 @@ El Tesorero Municipal y los titulares de las dependencias y entidades reprograma
 
 El Tesorero Municipal llevará un estricto control de los flujos de efectivo programado, control de ingresos, control de egresos y control de saldos.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO I. De la Clasificación de los Bienes
 
 ###### ARTÍCULO 349°.
 
@@ -4133,7 +4787,7 @@ Los contratos y convenios que se celebren conforme a este capítulo se considera
 
 ## TÍTULO NOVENO. DEL PATRIMONIO MUNICIPAL
 
-### CAPÍTULO II. Áreas Estratégicas
+### CAPÍTULO II. De los Bienes Muebles
 
 ###### ARTÍCULO 355°.
 
@@ -4199,7 +4853,7 @@ IV. Los demás bienes muebles o inmuebles que por cualquier TÍTULO traslativo d
 
 Los bienes del dominio público municipal son inalienables, imprescriptibles, inembargables y no están sujetos mientras no varíe su situación jurídica a acción reivindicatoria o de posesión.
 
-### CAPÍTULO III. De las Concesiones
+### CAPÍTULO III. De la Enajenación de los Bienes Municipales
 
 ###### ARTÍCULO 361°.
 
@@ -4409,7 +5063,7 @@ La reparación del daño de bienes muebles se realizará mediante el acta corres
 
 Está prohibido el intercambio o sustitución de piezas que formen parte de un bien mueble, así como el intercambiar o retiro de la etiqueta de registro patrimonial. Quien incurra en dicha práctica será sancionado. En caso de detectar que la etiqueta patrimonial se encuentra en malas condiciones, será responsabilidad del resguardante dar aviso al Departamento correspondiente.
 
-### CAPÍTULO IV. De la Municipalización de los Servicios Públicos
+### CAPÍTULO IV. Del Comité de Adquisiciones
 
 ###### ARTÍCULO 388°.
 
@@ -4503,7 +5157,7 @@ II. La justificación de la solicitud; y
 
 III. Los mutuos acuerdos entre las áreas.
 
-### CAPÍTULO I. Del Alumbrado Público
+### CAPÍTULO V. Del Archivo Municipal
 
 ###### ARTÍCULO 403°.
 
@@ -4665,7 +5319,7 @@ Las decisiones del Comité de Adquisiciones, tienen el carácter de definitivas 
 
 Todas las adquisiciones se sujetarán a lo dispuesto por la Ley Patrimonial del Estado, el presente CAPÍTULO y la Ley de Adquisiciones y Obras Públicas Federal, sin perjuicio de la aplicación supletoria señalada específicamente.
 
-### CAPÍTULO II. De los Parques y Jardines
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 420°.
 
@@ -4777,7 +5431,7 @@ IV. Concluida la revisión y confirmando el cotejo, el personal del archivo proc
 
 ## TÍTULO PRIMERO. DE LOS SERVICIOS Y FUNCIONES PÚBLICAS MUNICIPALES
 
-### CAPÍTULO III. De la Limpia y Aseo Público
+### CAPÍTULO II. Áreas Estratégicas
 
 ###### ARTÍCULO 433°.
 
@@ -4871,7 +5525,7 @@ c) Deberá aprobarse el convenio por las dos terceras partes de los integrantes 
 
 d) Cuando el municipio tenga una incapacidad real para la ejecución o continuación en la ejecución del convenio, o bien que descuide sus funciones de gobierno o tenga que destinar recursos de otros programas para dar cumplimiento a las obligaciones que contrajo, lo hará saber al Titular del Ejecutivo del Estado, proponiéndole la forma que mejor estime necesaria para suspender o terminar el convenio.
 
-### CAPÍTULO IV. Del Departamento de Regulación Sanitaria
+### CAPÍTULO III. De las Concesiones
 
 ###### ARTÍCULO 440°.
 
@@ -4893,7 +5547,7 @@ Los servicios públicos no estratégicos podrán ser concesionados a particulare
 
 Los municipios podrán celebrar contratos con particulares para la realización de obras públicas y servicios relacionados con ellos, en los términos que fijen las leyes respectivas.
 
-### CAPÍTULO V. De los Mercados
+### CAPÍTULO IV. De la Municipalización de los Servicios Públicos
 
 ###### ARTÍCULO 443°.
 
@@ -4971,7 +5625,7 @@ En los casos en que se acuerde la revocación de las concesiones, los bienes con
 
 El incumplimiento de las formalidades del procedimiento señaladas en éste Código, será motivo para determinar la revocación de concesiones.
 
-### CAPÍTULO VI. De los Tianguis
+### CAPÍTULO I. Del Alumbrado Público
 
 ###### ARTÍCULO 450°.
 
@@ -5009,7 +5663,7 @@ En el caso de los fraccionamientos, la municipalización se sujetará a lo dispu
 
 ## TÍTULO SEGUNDO. DE LOS SERVICIOS EN PARTICULAR
 
-### CAPÍTULO VII. De los Panteones
+### CAPÍTULO II. De los Parques y Jardines
 
 ###### ARTÍCULO 457°.
 
@@ -5219,7 +5873,7 @@ VI. Distribución: unilateral, bilateral tres bolillo y bilateral pareada.
 
 La Dirección de Servicios Públicos Municipales podrá autorizar la instalación de faroles con requerimientos distintos a los señalados en el artículo anterior siempre y cuando las características de la calle lo justifiquen y exista un dictamen técnico favorable.
 
-### CAPÍTULO VIII. Del Control de Rabia y Población Canina
+### CAPÍTULO III. De la Limpia y Aseo Público
 
 ###### ARTÍCULO 493°.
 
@@ -5311,7 +5965,7 @@ En caso de comercializar otras especies deberá comprobar su adaptación a las c
 
 Bajo líneas de alta tensión, sólo deberán plantarse árboles de poca altura, arbustos y herbáceas.
 
-### CAPÍTULO IX. Del de Agua Potable, Alcantarillado y Ecología
+### CAPÍTULO IV. Del Departamento de Regulación Sanitaria
 
 ###### ARTÍCULO 509°.
 
@@ -5395,7 +6049,7 @@ VI. En general, cualquier conducta que provoque el desaseo de la vía pública.
 
 La Dirección de Servicios Públicos Municipales, podrá contar con inspectores, mismos que tendrán la facultad de verificar el debido cumplimiento de las disposiciones de este Código. /Para (sic) tal efecto los particulares tendrán la obligación de prestar todas las facilidades a los inspectores para que cumplan con su cometido. En caso de negativa por parte de las personas, físicas o morales, se podrá facultar el auxilio de la fuerza pública.
 
-### CAPÍTULO I. Medio Ambiente
+### CAPÍTULO V. De los Mercados
 
 ###### ARTÍCULO 518°.
 
@@ -5427,7 +6081,7 @@ Los encargados de la conducción y reparto de productos cárnicos, tienen bajo s
 
 Para efectos del presente Capítulo, se llevará a cabo el procedimiento relativo fijado en las leyes respectivas y atendiendo a las facultades enumeradas en el Convenio de descentralización signado con el ISEA.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI. De los Tianguis
 
 ###### ARTÍCULO 521°.
 
@@ -5497,7 +6151,7 @@ IX. Vender, traspasar, arrendar, prestar, ceder o enajenar de cualquier forma to
 
 X. Cambiar de giro sin la autorización expresa de la Dirección de Servicios Públicos.
 
-### CAPÍTULO II. De las Licencias, Permisos y el Empadronamiento
+### CAPÍTULO VII. De los Panteones
 
 ###### ARTÍCULO 526°.
 
@@ -5585,7 +6239,7 @@ III. Los comerciantes de revistas científicas, libros y periódicos; y
 
 IV. Los discapacitados, pensionados y personas de la tercera edad.
 
-### CAPÍTULO III. De los Horarios
+### CAPÍTULO VIII. Del Control de Rabia y Población Canina
 
 ###### ARTÍCULO 538°.
 
@@ -6211,7 +6865,7 @@ II. Multa hasta por el equivalente de diez días del salario mínimo vigente; y
 
 III. Arresto hasta por 36 horas en las instalaciones de la Dirección de Seguridad Pública y Vialidad.
 
-### CAPÍTULO IV. De las Obligaciones de los Comerciantes, Industriales y Prestadores de Servicios
+### CAPÍTULO IX. Del de Agua Potable, Alcantarillado y Ecología
 
 ###### ARTÍCULO 638°.
 
@@ -6357,7 +7011,7 @@ IV. Deberán tener ventilación suficiente y estar acomodados de tal forma que p
 
 V. Deberán mantenerse en buen estado los vehículos y todos los accesorios, debiendo asearse antes y después de las labores propias.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO I. Medio Ambiente
 
 ###### ARTÍCULO 666°.
 
@@ -6463,7 +7117,7 @@ Para los efectos del artículo anterior, quedarán facultados los inspectores de
 
 ## TÍTULO TERCERO. MEDIO AMBIENTE Y RECURSOS NATURALES
 
-### CAPÍTULO II. Derechos y Obligaciones de los Comerciantes en la Vía Pública
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 675°.
 
@@ -6647,7 +7301,7 @@ Toda persona, física o moral, deberá denunciar ante la autoridad municipal en 
 
 ## TÍTULO PRIMERO. DEL COMERCIO E INDUSTRIA EN GENERAL
 
-### CAPÍTULO III. De los Aseadores de Calzado y de Vehículos en la Vía Pública
+### CAPÍTULO II. De las Licencias, Permisos y el Empadronamiento
 
 ###### ARTÍCULO 689°.
 
@@ -6695,7 +7349,7 @@ XX. REGULACION SANITARIA: El Departamento de Regulación Sanitaria del Municipio
 
 XXI. REGULACIÓN Y CONTROL SANITARIO: A todos los actos que el Municipio coordinadamente con Reglamentos, lleve a cabo para ordenar o controlar el funcionamiento sanitario de los diferentes giros, comerciales, industriales y de servicios.
 
-### CAPÍTULO I. De la Venta y Consumo de Bebidas Alcohólicas
+### CAPÍTULO III. De los Horarios
 
 ###### ARTÍCULO 690°.
 
@@ -6815,7 +7469,7 @@ II. Tendrán preferencia para obtener el empadronamiento los vecinos de este mun
 
 III. Una vez autorizado el respectivo empadronamiento deberán liquidar los derechos establecidos en la ley de ingresos del municipio a la Dirección de Administración.
 
-### CAPÍTULO II. De las Farmacias, Droguerías, Tlapalerías o Similares
+### CAPÍTULO IV. De las Obligaciones de los Comerciantes, Industriales y Prestadores de Servicios
 
 ###### ARTÍCULO 705°.
 
@@ -6943,7 +7597,7 @@ Mediante convenios, la administración municipal apoyará a las cámaras, asocia
 
 ## TÍTULO SEGUNDO. DEL COMERCIO Y OTRAS ACTIVIDADES EN LA VIA PÚBLICA
 
-### CAPÍTULO II. De los Requisitos para Obtener Licencias
+### CAPÍTULO II. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
 ###### ARTÍCULO 723°.
 
@@ -6965,7 +7619,7 @@ V. Sujetar los puestos a las condiciones específicas del área correspondiente 
 
 VI. Cubrir el pago de la credencial o gafete y los derechos correspondientes por el uso de piso, además de los pagos que determiné la ley de ingresos y demás disposiciones fiscales.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. De los Aseadores de Calzado y de Vehículos en la Vía Pública
 
 ###### ARTÍCULO 725°.
 
@@ -7003,7 +7657,7 @@ VIII. Cumplir con las normas de seguridad, sanidad y otras establecidas por las 
 
 En ningún caso se permitirá que los merolicos que pretenden adivinar la suerte, el presente, el pasado o localizar persones (sic) extraviadas, sea cualquiera el medio que utilicen, ejerzan su actividad en el Municipio de Asientos. Así mismo, no se autorizará a aquellos que vendan talismanes, amuletos, o cualquier objeto que supuestamente proporcione buena suerte a quien lo adquiera o porte.
 
-### CAPÍTULO II. Del Sistema Municipal de Seguridad Pública
+### CAPÍTULO I. De la Venta y Consumo de Bebidas Alcohólicas
 
 ###### ARTÍCULO 730°.
 
@@ -7035,7 +7689,7 @@ IX. Portar su identificación de manera visible.
 
 ## TÍTULO TERCERO. DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
 
-### CAPÍTULO III. Del Consejo Municipal de Seguridad Pública
+### CAPÍTULO II. De las Farmacias, Droguerías, Tlapalerías o Similares
 
 ###### ARTÍCULO 733°.
 
@@ -7219,7 +7873,7 @@ Las sanciones enumeradas en el ARTÍCULO anterior no constituyen obligación par
 
 Corresponde aplicar las sanciones enumeradas anteriormente a la Secretaría del H. Ayuntamiento, por si o a través del Departamento de Reglamentos.
 
-### CAPÍTULO IV. De la Participación Ciudadana
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 763°.
 
@@ -7243,7 +7897,7 @@ No podrán expender sin receta médica los medicamentos que así determine la Se
 
 ## TÍTULO CUARTO. DE LOS ESPECTÁCULOS PÚBLICOS EN GENERAL
 
-### CAPÍTULO V. De la Coordinación en Materia de Seguridad Pública
+### CAPÍTULO II. De los Requisitos para Obtener Licencias
 
 ###### ARTÍCULO 768°.
 
@@ -7595,9 +8249,11 @@ III. Prohibir la exhibición y renta de películas clasificadas como exclusivas 
 
 IV. Deberán contar con un área de acceso para muestreo del catálogo de películas clasificadas para adultos.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 822°.
 
-Los establecimientos dedicados a la renta de salones para fiestas infantiles, jardines y salones para fiestas y banquetes, deberán contar con licencia para funcionamiento y sujetarse a un horario, los dos primeros funcionarán de las 08:00 a las 22:00 horas, el tercero con un horario de las 08:00 horas a las 24:00 horas, la persona que solicite el servicio de un salón de fiestas deberán (sic) tramitar el permiso para evento en la Secretaría del H. Ayuntamiento; En los salones para fiestas infantiles no se permitirá la venta o consumo de bebidas alcohólicas. Los dueños de estos establecimientos no tendrán que solicitar permiso cada vez que haya un evento, pero sí deberán de dar aviso por escrito a la Secretaría del H. Ayuntamiento y (sic) Dirección General de Gobierno con un mínimo de tres días hábiles antes del evento. Deberán evitar que el ruido ocasionado rebase los límites permitidos por la Norma Oficial Mexicana respectiva.
+Los establecimientos dedicados a la renta de salones para fiestas infantiles, jardines y salones para fiestas y banquetes, deberán contar con licencia para funcionamiento y sujetarse a un horario, los dos primeros funcionarán de las 08:00 a las 22:00 horas, el tercero con un horario de las 08:00 a las 24:00 horas. La persona que solicite el servicio de un salón de fiestas deberá tramitar el permiso para evento en la Secretaría del H. Ayuntamiento; En los salones para fiestas infantiles no se permitirá la venta o consumo de bebidas alcohólicas. Los dueños de estos establecimientos no tendrán que solicitar permiso cada vez que haya un evento, pero sí deberán de dar aviso por escrito a la Secretaría del H. Ayuntamiento y (sic) Dirección General de Gobierno con un mínimo de tres días hábiles antes del evento. Deberán evitar que el ruido ocasionado rebase los límites permitidos por la Norma Oficial Mexicana respectiva.
 
 ###### ARTÍCULO 823°.
 
@@ -7615,7 +8271,9 @@ Las cafeterías que tengan autorizado en su giro la música viva, deberán conta
 
 Todo centro de espectáculos que funcione en espacios cerrados, deberá contar con extractores de humo y zonas destinadas para fumadores y no fumadores, cuando dentro de su interior se permita fumar, además con salidas de emergencia claramente identificadas.
 
-### CAPÍTULO VI. De la Dirección
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 827°.
 
@@ -7653,41 +8311,55 @@ Las Dependencias o Entidades Municipales a quienes se soliciten los dictámenes 
 
 El H. Cabildo mediante declaratorio que se publique en el Periódico Oficial del Estado puede decretar el establecimiento de zonas comerciales, y que consistirán en lugares determinados para fomento del turismo y la actividad comercial, en los cuales se eximirá del cumplimiento de la fracción cuarta del presente Artículo y se podrán ofrecer estímulos para el establecimiento de negocios.
 
-# LIBRO SÉPTIMO. DE LA SEGURIDAD PÚBLICA Y VIALIDAD MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
+
+# LIBRO SÉPTIMO. DE LA SEGURIDAD PÚBLICA Y MOVILIDAD MUNICIPAL
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
 ## TÍTULO PRIMERO. DE LA SEGURIDAD PÚBLICA
 
-### CAPÍTULO VII. De la Profesionalización de los Elementos Operativos
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO II. Del Sistema Municipal de Seguridad Pública
 
 ###### ARTÍCULO 829°.
 
-Las disposiciones del presente Libro tiene (sic) por objeto reglamentar la función de seguridad pública y vialidad en el Municipio de Asientos, así como establecer las bases de coordinación entre la Federación, el Estado y el Municipio en estas materias.
+Las disposiciones del presente libro tiene (sic) por objeto reglamentar la función de seguridad pública y movilidad en el Municipio de Asientos, así como establecer las bases de coordinación entre la Federación, el Estado y el Municipio en estas materias.
 
 ###### ARTÍCULO 830°.
 
 La Seguridad Pública es la función a cargo de la Federación, el Estado y sus Municipios que tiene como fines prevenir el delito, salvaguardar la integridad y derechos de las personas, así como preservar el orden público y la paz social.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 831°.
 
 Para los efectos de este libro, se entenderá por:
 
-I. Comisión: la Comisión de Honor y Justicia;
+I. Comisión: La Comisión de Honor y Justicia;
 
-II. Consejo: al Consejo Municipal de Seguridad Pública;
+II. Consejo: Al Consejo Municipal de Seguridad Pública;
 
-III. Corporaciones auxiliares: Los Cuerpos Operativos de Protección Civil Municipal; Los Cuerpos de Bomberos y Rescate; Las empresas de Seguridad Privada y de similar naturaleza que operen o se instalen en el Municipio; y las demás que se constituyan con apego a las leyes;
+III. Corporaciones auxiliares: Los Cuerpos de la Coordinación Municipal de Protección Civil; Los Cuerpos de Bomberos y Rescate; Las empresas de Seguridad Privada y de similar naturaleza que operen o se instalen en el Municipio; y las demás que se constituyan con apego a las leyes;
 
-IV. Dirección: la Dirección de Seguridad Pública y Vialidad del Municipio de Asientos;
+IV. Dirección: La Dirección de Seguridad Pública y Movilidad del Municipio de Asientos;
 
-V. Director: el Director de Seguridad Pública y Vialidad del Municipio de Asientos;
+V. Director: El Director de Seguridad Pública y Movilidad del Municipio de Asientos;
 
-VI. Instituto: al Instituto Estatal de Seguridad Pública de Aguascalientes; y
+VI. Instituto: Al Instituto Estatal de Seguridad Pública de Aguascalientes;
 
-VII. Elemento operativo: al Personal adscrito a la Dirección en virtud de nombramiento o contrato celebrado con la Presidencia Municipal, con excepción de quienes desempeñen funciones de carácter estrictamente administrativo;
+VII. Elemento operativo: Al personal adscrito a la Dirección en virtud de nombramiento o contrato celebrado con la Presidencia Municipal, con excepción de quienes desempeñen funciones de carácter estrictamente administrativo;
 
-VIII. Presidente: al Presidente Municipal de Asientos; y
+VIII. Presidente: Al Presidente Municipal de Asientos;
 
-IX. Al Centro Municipal de Comunicaciones en materia de Segundad Pública y Protección Civil.
+IX. Centro: Al Centro Municipal de Comunicaciones en materia de Seguridad Pública;
+
+X. Alcoholímetro: Dispositivo para medir la cantidad de alcohol presente en el aire espirado por una persona; y,
+
+XI. Estado de ebriedad: Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o en aire espirado superior a 0.40 miligramos por litro.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 832°.
 
@@ -7699,7 +8371,7 @@ II. El Secretario del H. Ayuntamiento;
 
 III. El Consejo Municipal de Seguridad Pública;
 
-IV. El Director de Seguridad Pública y Vialidad;
+IV. El Director de Seguridad Pública y Movilidad;
 
 V. Los mandos medios e intermedios de la Dirección;
 
@@ -7713,11 +8385,15 @@ Para efectos del presente artículo el Consejo Municipal de Seguridad Pública n
 
 El Gobernador del Estado, en los casos que juzgue como de fuerza mayor o alteración grave del orden público, dispondrá de la Policía Preventiva. Del ejercicio de esta facultad, informará al Congreso del Estado por escrito.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 834°.
 
-Las autoridades de Seguridad Pública serán las encargadas de prevenir la comisión de delitos, poner a disposición del juez calificador a los infractores de faltas de policía y otras de carácter administrativo cometido en el territorio municipal, y levantar infracciones de tránsito.
+Las autoridades de Seguridad Pública serán las encargadas de prevenir la comisión de delitos, poner a disposición del juez calificador a los infractores de faltas de policía y otras de carácter administrativo cometido en el territorio municipal, y levantar actas de infracciones de movilidad.
 
 Asimismo, combatirán las causas que generan la comisión de faltas, delitos y conductas antisociales, formulando y desarrollando políticas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 835°.
 
@@ -7727,7 +8403,7 @@ I. Mantener el orden público y la paz social en el Municipio;
 
 II. Proteger la integridad y los derechos de las personas;
 
-III. Promover, coordinar y aplicar los programas de prevención de delitos v (sic) faltas a las Leyes y Reglamento, de la Federación del Estado y del Municipio;
+III. Promover, coordinar y aplicar los programas de prevención de delitos y faltas a las Leyes y Reglamentos, de la Federación del Estado y del Municipio;
 
 IV. Establecer los mecanismos de coordinación y colaboración en la investigación y persecución de los delitos y de los delincuentes; y
 
@@ -7745,47 +8421,137 @@ Mientras se tramita la licencia oficial colectiva de portación de armas de fueg
 
 Queda estrictamente prohibido al elemento operativo la portación de armas de fuego de propiedad particular para el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 839°.
 
-La Dirección tendrá de manera optativa bajo su mando al Cuerpo de Bomberos, de rescate, paramédicos municipales y a la Unidad Municipal de Protección Civil, cuya integración se encuadrará en el Organigrama que apruebe el H. Ayuntamiento a propuesta del Presidente, y contará con los elementos indispensables para su operación.
+La Dirección se coordinará con la coordinación de paramédicos en los operativos que lo ameriten.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 840°.
 
-La función del Cuerpo de Bomberos y de Protección Civil, es la de prevenir y combatir incendios, explosiones de gases, derrames de combustibles o productos químicos, derrumbes de construcciones, fugas de gases tóxicos o combustibles, cortos circuitos y accidentes causados por equipo y material eléctrico, rescate de personas vivas o muertas, control de inundaciones, aseguramiento o destrucción de animales peligrosos y otros eventos en los que a juicio de la Dirección deba intervenir.
+La Dirección de forma conjunta con los paramédicos municipales, la Dirección de Salud del Municipio y la Secretaría de Salud del Estado de Aguascalientes (ISSEA), llevarán a cabo programas de prevención y control en la ingestión de alcohol o estupefacientes por conductores de vehículos. Estos programas se implementarán de forma aleatoria y sin previo aviso o necesidad de publicidad, teniendo la Secretaria o, en su caso, la Dirección la facultad de determinar, de manera discrecional, los puntos de revisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 840° BIS. Ninguna persona deberá conducir un vehículo por la vía pública si tiene una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o en aire espirado superior a 0.40 miligramos por litro, así como bajo el influjo de cualquier tipo de estupefaciente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 840° TER. En caso de reincidencia, el conductor, además de las sanciones que correspondan, el vehículo será remitido a la pensión municipal y quedará a disposición de las autoridades competentes, en garantía de la multa impuesta, hasta que el infractor cubra la misma.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 840° CUARTER (SIC). En caso de reincidencia por tercera ocasión, el conductor, adicionalmente, deberá inscribirse en alguno de los programas de rehabilitación para personas alcohólicas y farmacodependientes ofertados por la Secretaria de Salud del Estado de Aguascalientes. Asimismo, no le será devuelto el vehículo hasta en tanto no concluya con el programa.
+
+El Juez Calificador será el servidor público facultado para verificar el cumplimiento de lo dispuesto por este artículo.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 841°.
 
-La Dirección establecerá las normas a que se sujetará el personal de sus Corporaciones de Seguridad para el uso de uniformes, Insignias, divisas, armas y equipo.
+La Dirección establecerá las normas a que se sujetará el personal de sus Corporaciones de Seguridad para el uso de uniformes, insignias, divisas, armas y equipo.
+
+Cuando los elementos operativos cuenten con dispositivos oficiales de detección de alcohol o de estupefacientes, se procederá como sigue:
+
+I. Los conductores se someterán, de manera voluntaria, a las pruebas para la detección del grado de intoxicación que establezca la Secretaría y, en específico, a la prueba de alcohol en aire espirado.
+
+Cuando la prueba arroje un resultado que sobrepase el límite permitido por el artículo 840 BIS del presente Código, podrá realizarse una segunda prueba con quince minutos de separación entre una y otra;
+
+II. El elemento operativo entregará un ejemplar del comprobante de los resultados de la prueba, al conductor, inmediatamente después de su realización.
+
+III. En caso de que el conductor sobrepase el límite permitido por el artículo 840 BIS del presente Código, será remitido al Juez Calificador, el cual impondrá las sanciones que correspondan. El vehículo será asegurado y trasladado a la pensión municipal;
+
+IV. El elemento operativo entregará un ejemplar del comprobante de los resultados de la prueba al Juez Calificador ante el cual sea presentado, documento que constituirá prueba fehaciente de la cantidad de alcohol encontrado y servirá de base para el dictamen del médico que determine el tiempo probable de recuperación;
+
+V. Una vez remitido ante el Juez Calificador, éste decretará las medidas de seguridad pertinentes, de acuerdo al grado de ebriedad del infractor, ordenando el traslado del infractor a los separos de la Dirección para la observación de éste, hasta que se encuentre en condiciones aptas para ejercer su garantía de audiencia. Dichas medidas tienen como objeto resguardar la integridad física de la población en general, así como la del infractor; y
+
+VI. En ese mismo acto, el Juez Calificador deberá calificar la infracción y determinar, en cantidad líquida, la multa que corresponda, mediante resolución por escrito que cumpla con los requisitos del Código Municipal, notificándose personalmente dicha resolución al infractor, y haciéndolo conocedor de la multa que proceda, una vez notificado le se (sic) será requerido el pago inmediato de la misma, pudiendo éste pagarla ante el funcionario que así faculte la Tesorería Municipal, dentro de las propias instalaciones de la Dirección de Seguridad Publica y Movilidad. De no hacerlo, se le conmutará dicha multa por arresto hasta por treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 842°.
 
-Las insignias de los grados jerárquicos se ceñirán a las siguientes disposiciones:
+La Dirección depende jerárquicamente de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno en los términos de este Código. La jerarquía de mando dentro de la Dirección, operará en base a las siguientes categorías de sistema de jerarquización terciaria y jerarquías.
 
-I. Se utilizarán estrellas de seis puntas y rombos color dorado.
+Dividiéndose en las siguientes categorías:
 
-II. De acuerdo a su nivel jerárquico se utilizarán
+a) Comisarios;
 
-a) Director General: Cuatro estrellas:
+b) Inspectores;
 
-b) Director Tres estrellas:
+c) Oficiales; y
 
-c) Subdirector: Dos estrellas:
+d) Escala Básica.
 
-d) Primer Comandante: Una estrella:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
 
-e) Comandante: Cuatro rombos;
+ARTÍCULO 842° BIS.- De las categorías c) y d) del artículo que antecede pertenecerán a servicio profesional de carrera policial siendo siete los grados que las componen de la siguiente manera:
 
-f) Subcomandante: Tres rombos;
+1.- En la Categoría de Oficiales:
 
-g) Oficial: Dos rombos; y
+a) Subinspector;
 
-h) Suboficial: Un rombo.
+b) Oficial; y
+
+c) Suboficial.
+
+2.- En la Categoría de Escala Básica:
+
+a) Policía Primero;
+
+b) Policía Segundo;
+
+c) Policía Tercero; y
+
+d) Policía.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 842° TER.- Los cargos Administrativos y de Dirección quedarán comprendidos por los niveles de las categorías de Inspectores y Comisarios respectivamente; éstas serán consideradas cargos administrativos y de dirección respectivamente, mismos que deberán ser asignados a través de nombramiento implícitamente temporal otorgado por El Presidente Municipal.
+
+Dichos niveles podrán ser asignados por el Presidente Municipal a través de nombramiento a los integrantes operativos, como equivalencias de los responsables de turno, responsables de grupo, jefes de departamento, coordinadores, subdirectores y directores. Estas jerarquías corresponderán respectivamente a Inspector, Inspector Jefe, Inspector General, Comisario, Comisario Jefe y Comisario General y serán atendidos como cargos y no como grados de carrera.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 842° QUATER.- Las insignias de los grados jerárquicos se ceñirán a las siguientes disposiciones:
+
+I. Cargos Administrativos y de Dirección;
+
+a) Comisario General (Director General): Usará 4 estrellas de 5 picos blancos, dos espigas blancas cruzadas y el logotipo de la Policía Municipal;
+
+b) Comisario Jefe (Director): Usará 3 estrellas de 5 picos blancos, dos espigas blancas cruzadas y el logotipo de la Policía Municipal;
+
+c) Comisario (Subdirector): Usará 2 estrellas de 5 picos blancos, dos espigas blancas cruzadas y el logotipo de la Policía Municipal;
+
+d) Inspector General (Jefe Operativo o Jefe de Departamento): Usará 3 estrellas con resplandor, alineadas al centro de la sobre hombrera;
+
+e) Inspector Jefe (Jefe de Grupo o Unidad): Usará 2 estrellas con resplandor, alineadas al centro de la sobre hombrera;
+
+f) Inspector (Responsable de Turno): Usará 1 estrella con resplandor, alineadas al centro de la sobre hombrera;
+
+II. Grados por Carrera Policial con examen y otorgamiento de grado por la Comisión
+
+a) Subinspector: Usará tres pirámides, dos con los picos hacia arriba y la central con el pico hacia abajo, para visualmente obtener un rectángulo. Estas pirámides van al centro de la sobre hombrera;
+
+b) Oficial (Primer Comandante): Usara 1 estrella de 5 picos blancos, dos espigas blancas cruzadas y el logotipo de la Policía Municipal;
+
+c) Suboficial (Comandante): Usará dos pirámides con el pico hacia arriba, centradas en la sobre hombrera;
+
+d) Policía Primero (Subcomandante): Usará 1 pirámide con el pico hacia arriba, centradas en la sobre hombrera;
+
+e) Policía Segundo (Oficial): Llevará 3 cintas en color plata en forma de “V” con el vértice hacia el lado derecho e irá centrada en la sobre hombrera;
+
+f) Policía Tercero (Suboficial): Llevará 2 cintas en color plata en forma de “V” con el vértice hacia el lado derecho e irá centrada en la sobre hombrera; y
+
+g) Policía: Llevará 1 cinta en color plata en forma de “V” con el vértice hacia el lado derecho e irá centrada en la sobre hombrera.
 
 ###### ARTÍCULO 843°.
 
 Los uniformes, insignias y divisas de los elementos de Seguridad Privada y corporaciones auxiliares, serán diferentes a las que porten los elementos operativos de la Dirección.
 
-### CAPÍTULO VIII. De las Bases y Lineamientos de Actuación de los Elementos Operativos
+### CAPÍTULO III. Del Consejo Municipal de Seguridad Pública
 
 ###### ARTÍCULO 844°.
 
@@ -7819,11 +8585,13 @@ III. Sistema Municipal de Información, Comunicaciones y Servicios de Atención 
 
 IV. Corporación de Seguridad Pública y Vialidad.
 
-### CAPÍTULO IX. De la Ética y la Disciplina
+### CAPÍTULO IV. De la Participación Ciudadana
 
 ###### ARTÍCULO 850°.
 
 El Consejo Municipal de Seguridad Pública es la instancia encargada de la coordinación, planeación y supervisión de las labores que realice el Sistema Municipal de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 851°.
 
@@ -7847,9 +8615,9 @@ VIII. Los representantes en el Municipio de las siguientes Dependencias Estatale
 
 a) Fiscalía General del Estado;
 
-b) Secretaria de Seguridad Pública Estatal;
+b) Secretaría de Seguridad Pública Estatal;
 
-c) Director General de Seguridad Pública y Vialidad del Estado;
+c) Dirección General de Seguridad Pública y Vialidad del Estado;
 
 d) Comisaria General de Policía Ministerial;
 
@@ -7865,7 +8633,9 @@ b) Secretaría de la Defensa Nacional;
 
 c) Comisión Nacional de Seguridad Pública;
 
-d) Delegación del CICEN; y
+d) Delegación del CICEN;
+
+e) Guardia Nacional; y
 
 X. Todos los demás que a juicio del Presidente del Consejo pudieran contribuir para el logro de sus objetivos.
 
@@ -7913,6 +8683,8 @@ Las resoluciones del Consejo se tomarán mediante el voto de la mayoría de los 
 
 Cuando para la aprobación y ejecución de las resoluciones o acuerdos se comprendan materias o acciones que incidan en los ámbitos de competencia de la Federación, del Estado o de otros Municipios, deberán concertarse ante las autoridades competentes con apego a los ordenamientos legales correspondientes o en su caso, celebrar acuerdos o convenios generales o específicos de coordinación.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 858°.
 
 La Secretaria Ejecutiva tendrá las siguientes atribuciones:
@@ -7921,13 +8693,13 @@ I. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo;
 
 II. Establecer enlaces de coordinación con los Consejos Estatal y Nacional;
 
-III. Implementar y coordinar las medidas y acciones necesarias para hacer efectiva la interacción entre las Instituciones de Seguridad Pública integrantes del Consejo;
+III. Implementar y coordinar las medidas y acciones necesarias para hacer efectiva la interacción entre las Instituciones de Seguridad Pública e integrantes del Consejo;
 
 IV. Ejecutar las acciones y actividades necesarias a efectos de dar cumplimiento a las atribuciones del Consejo; y
 
 V. Las demás que le señale este Libro, el Consejo, su Presidente y demás ordenamientos que rijan en la materia.
 
-### CAPÍTULO X. De las Medidas Disciplinarias
+### CAPÍTULO V. De la Coordinación en Materia de Seguridad Pública
 
 ###### ARTÍCULO 859°.
 
@@ -7977,7 +8749,7 @@ El Consejo Municipal de Consulta y Participación Ciudadana promoverá que las v
 
 El Consejo Municipal de Consulta y Participación Ciudadana en apoyo a la realización de los Programas Municipal, Estatal y Nacional de Seguridad Pública fomentará la cultura de la prevención del delito, la legalidad, los valores de la justicia y el respeto a los demás.
 
-### CAPÍTULO XI. De los Estímulos y Recompensas
+### CAPÍTULO VI. De la Dirección
 
 ###### ARTÍCULO 865°.
 
@@ -7995,6 +8767,8 @@ Son programas operativos de las Corporaciones de Seguridad, todos los que contem
 
 Se entiende por programa de supervisión a la verificación, control y evaluación del cumplimiento de objetivos y estrategias a través de las acciones realizadas.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 869°.
 
 La coordinación a que se refiere este capítulo comprende las acciones de las Instituciones de Seguridad Pública inherentes a la consecución de los objetivos de este ordenamiento abarcando las materias siguientes:
@@ -8007,13 +8781,13 @@ III. Procedimientos de selección, formación, permanencia, promoción y retiro;
 
 IV. Sistemas disciplinario, de estímulos y recompensas;
 
-V. Mecanismos y lineamientos conforme a los cuales la Policía Preventiva y los Cuerpos de Seguridad privada actuarán bajo la autoridad y mando del Ministerio Público cuando intervengan como auxiliar de éste en la averiguación o persecución de los delitos;
+V. Mecanismos y lineamientos conforme a los cuales la Policía Preventiva y los Cuerpos de Seguridad privada actuarán bajo la autoridad y mando del Ministerio Público cuando intervengan como auxiliar de éste en la investigación o persecución de los delitos;
 
 VI. Relación con la comunidad y fomento a la cultura de prevención de faltas cívicas y delitos; y
 
 VII. Las demás que determinen las leyes y que resulten necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de Seguridad Pública, o mediante convenios y bases de coordinación entre instituciones que al efecto celebren.
 
-### CAPÍTULO XII. De los Derechos de los Elementos de Seguridad Pública
+### CAPÍTULO VII. De la Profesionalización de los Elementos Operativos
 
 ###### ARTÍCULO 870°.
 
@@ -8023,13 +8797,15 @@ La Dirección es una Dependencia de la Administración Pública del Gobierno Mun
 
 El conjunto de elementos operativos de la Dirección tendrá la denominación de Policía Preventiva Municipal, cuya función será la vigilancia y prevención del delito dentro del territorio y jurisdicción municipal, y la ejecución de las sanciones de los infractores a los ordenamientos administrativos aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 872°.
 
-Son atribuciones de la Dirección de Seguridad Pública y Vialidad Municipal las siguientes:
+Son atribuciones de la Dirección de Seguridad Pública y Movilidad Municipal las siguientes:
 
 I. Acordar con el Presidente Municipal, lo relacionado con los programas, objetivos, estrategias y acciones tendientes al buen funcionamiento administrativo y operativo de la Dirección y las Corporaciones auxiliares;
 
-II. Vigilar y cuidar el orden público en el territorio Municipal para proteger la integridad, patrimonio y derechos de sus habitantes, en coordinación con las dependencias que, de acuerdo con la normatividad estatal y federal, realicen las funciones de Policía Preventiva, Vialidad y tránsito;
+II. Vigilar y cuidar el orden público en el territorio Municipal para proteger la integridad, patrimonio y derechos de sus habitantes, en coordinación con las dependencias que, de acuerdo con la normatividad estatal y federal, realicen las funciones de Policía Preventiva y Movilidad;
 
 III. Auxiliar a las Autoridades Judiciales, Administrativas, al Ministerio Público y a los Municipios en los casos urgentes, o en los términos de los convenios de colaboración respectivos;
 
@@ -8041,7 +8817,7 @@ VI. Asistir a las juntas y reuniones para efecto de coordinar políticas relacio
 
 VII. Participar en la promoción y fomento de una cultura de prevención del delito, educación vial y siniestros; y
 
-VIII. Realizar acciones de auxilio a la población afectada en caso de desastres, siniestros y accidentes, en coordinación con la Unidad Municipal de Protección Civil, bomberos y Cuerpo de rescate.
+VIII. Realizar acciones de auxilio a la población afectada en caso de desastres, siniestros y accidentes, en conjunto con la Coordinación de Protección Civil, Bomberos y Cuerpo de rescate.
 
 ###### ARTÍCULO 873°.
 
@@ -8059,15 +8835,19 @@ Mientras se tramita la licencia oficial colectiva de portación de armas de fueg
 
 Queda estrictamente prohibido al personal operativo de la Dirección, la portación de armas de fuego de propiedad particular para el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 877°.
 
-La Dirección podrá tener bajo su mando al Cuerpo de Bomberos y a la Unidad Municipal de Protección Civil, cuya integración se encuadrará en el Organigrama que apruebe el H. Ayuntamiento a propuesta del Presidente Municipal, y contará con los elementos indispensables para su operación.
+La Dirección podrá coordinarse con la Coordinación de Protección Civil, cuya integración se encuadrará en el Organigrama que apruebe el H. Ayuntamiento a propuesta del Presidente Municipal, y contará con los elementos indispensables para su operación.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 878°.
 
-La función del Cuerpo de Bomberos y de Protección Civil, es la de prevenir y combatir incendios, explosiones de gases, derrames de combustibles o productos químicos, derrumbes de construcciones, fugas de gases tóxicos o combustibles, cortos circuitos y accidentes causados por equipo y material eléctrico, rescate de personas vivas o muertas, control de inundaciones, aseguramiento o destrucción de animales peligrosos y otros eventos en los que a juicio de la Dirección deba intervenir.
+La función de la Coordinación de Protección Civil, es la de prevenir y combatir incendios, explosiones de gases, derrames de combustibles o productos químicos, derrumbes de construcciones, fugas de gases tóxicos o combustibles, cortos circuitos y accidentes causados por equipo y material eléctrico, rescate de personas vivas o muertas, control de inundaciones, aseguramiento o destrucción de animales peligrosos y otros eventos en los que a juicio de la Dirección deba intervenir.
 
-### CAPÍTULO XIII. De la Comisión de Honor y Justicia
+### CAPÍTULO VIII. De las Bases y Lineamientos de Actuación de los Elementos Operativos
 
 ###### ARTÍCULO 879°.
 
@@ -8085,7 +8865,7 @@ Las carreras y los cursos de formación inicial serán accesibles a todos los as
 
 Los cursos de actualización y especialización serán obligatorios y accesibles a todo el personal de Seguridad Pública, quienes deberán asistir cuando menos una vez al año como requisito para su permanencia y promoción, presentando la constancia correspondiente.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IX. De la Ética y la Disciplina
 
 ###### ARTÍCULO 883°.
 
@@ -8151,27 +8931,25 @@ XXVII. Actuar coordinadamente con otras Corporaciones de Seguridad Pública, as�
 
 XXVIII. Estudiar, conocer y respetar este Libro y las demás Leyes aplicables y relativas al servicio de Seguridad Pública.
 
-###### ARTÍCULO 884° Bis.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
-Son obligaciones, en general, de los Cuerpos de Seguridad Pública Municipal del Municipio de Asientos en materia de Género:
+ARTÍCULO 884° BIS.- Son obligaciones, en general, de los Cuerpos de Seguridad Pública Municipal del Municipio de Asientos en materia de Género:
 
-I. Atender de manera inmediata todos los casos de violencia contra las mujeres que sean recibidos a través de reportes por cualquier medio o por parte de cualquier persona aún cuando no se tratase de la afectada directa en los números de emergencia o directamente en las oficinas de la Dirección de Seguridad Publica del Municipio de Asientos o de la Presidencia Municipal o a través de algún elemento en activo de la corporación o de cualquier funcionario municipal en activo.
+I. Atender de manera inmediata todos los casos de violencia contra las mujeres que sean recibidos a través de reportes por cualquier medio o por parte de cualquier persona aún cuando no se tratase de la afectada directa en los números de emergencia o directamente en las oficinas de la Dirección de Seguridad Pública del Municipio de Asientos o de la Presidencia Municipal o a través de algún elemento en activo de la corporación o de cualquier funcionario municipal en activo,
 
-II. Proporcionar a las víctimas de violencia familiar y de género, la asesoría necesaria para conocer su situación jurídica y derechos.
+II. Proporcionar a las víctimas de violencia familiar y de género, la asesoría necesaria para conocer su situación jurídica y derechos,
 
-III. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
+III. Promover la cultura de respeto a los derechos fundamentales de las mujeres,
 
-IV. Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las mujeres.
+IV. Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las mujeres,
 
-V. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia contra las mujeres.
+V. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia contra las mujeres,
 
-VI. Implementar cursos y talleres de prevención y protección contra la violencia de género.
+VI. Implementar cursos y talleres de prevención y protección contra la violencia de género,
 
-VII. Proporcionar a las víctimas de violencia el apoyo necesario para conocer su situación jurídica y sus derechos .
+VII. Proporcionar a las víctimas de violencia el apoyo necesario para conocer su situación jurídica y sus derechos`,
 
-VIII. Promover la cultura de respeto a los derechos fundamentales de las Mujeres.
-
-IX. Cumplimentar sin demora las ORDENES DE PROTECCION.
+VIII. Cumplimentar sin demora las ORDENES DE PROTECCION.
 
 Serán autoridades competentes para liberar las órdenes de protección, las previstas en el capítulo IV de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y en el Capítulo VI de su Reglamento.
 
@@ -8183,27 +8961,29 @@ I. Fomentar en la corporación prácticas que se basen en la premisa de la infer
 
 II. Las demás que prevean las leyes y reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 885°.
 
 Son atribuciones de los elementos operativos de la Dirección:
 
 I. Impedir la ejecución de actos contrarios a la tranquilidad pública, la moral y las buenas costumbres, así como los que tiendan a dañar a personas, animales o cosas;
 
-II. Tomar las medidas de protección y aseguramiento de personas con deficiencias mentales, ebrias, intoxicadas o drogadas, inválidas, mendigos, extraviados y menvilistas;
+II. Tomar las medidas de protección y aseguramiento de personas con deficiencias mentales, ebrias, intoxicadas o drogadas, inválidas, mendigos, extraviados y menvilistas (sic);
 
 III. No deberán transitar sobre las aceras y áreas reservadas al uso exclusivo de peatones ni por las ciclopistas;
 
-IV. Para rebasar a otro vehículo, deberán utilizar un carril diferente del que ocupa el que va a ser rebasado cualquier vehiculo o abordarlo en movimiento, escalar postes, árboles, muros o cualquier otra actividad riesgosa
+IV. Para rebasar a otro vehículo, deberán utilizar un carril diferente del que ocupa el que va a ser rebasado cualquier vehículo o abordarlo en movimiento, escalar postes, árboles, muros o cualquier otra actividad riesgosa
 
 V. Retirar de las vías públicas a personas que se encuentren en estado indecoroso; a comerciantes ambulantes establecidos en lugares prohibidos o sin licencia; así como vehículos y carros de mano que se desplacen por lugares prohibidos o impiden la circulación;
 
 VI. Evitar que los menores asistan a lugares no permitidos para ellos, e impedir la celebración de toda clase de juegos prohibidos por la Ley;
 
-VII. Cuidar que se guarde el debido respeto a monumentos, recintos oficiales, lugares históricos y culturales así como a la Bandera, Escudo e Himno Nacionales; y
+VII. Cuidar que se guarde el debido respeto a monumentos, recintos oficiales, lugares históricos y culturales, así como a la Bandera, Escudo e Himno Nacionales; y
 
 VIII. Todas las demás que se les asignen o se incluyan en otras Leyes, reglamentos y el presente Código.
 
-### CAPÍTULO II. De los Requisitos para Circular
+### CAPÍTULO X. De las Medidas Disciplinarias
 
 ###### ARTÍCULO 886°.
 
@@ -8407,13 +9187,15 @@ LXV. Actuar dentro del orden jurídico respetando y haciendo respetar las leyes 
 
 Los elementos operativos de la Dirección podrán participar en espectáculos deportivos y culturales en su tiempo libre, y en su turno de servicio previa autorización de su superior jerárquico.
 
-### CAPÍTULO III. De la Circulación en las Vías Públicas
+### CAPÍTULO XI. De los Estímulos y Recompensas
 
 ###### ARTÍCULO 904°.
 
 Se entiende por medidas disciplinarias, las sanciones administrativas que se imponen a los elementos operativos de la Dirección y al personal de las corporaciones auxiliares por faltas a las leyes, reglamentos y el (sic) presente Código, ya sea por acción, o por omisión.
 
 Se cometen faltas de acción cuando por la conducta irregular se infringe una norma o se viola una prohibición, se cometen faltas de omisión, cuando por negligencia, impericia o falta de voluntad se incumple un mandamiento.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 905°.
 
@@ -8429,7 +9211,7 @@ IV. Suspensión temporal: Consiste en la separación del elemento a la función,
 
 Si el elemento resulta sin responsabilidad en resolución ejecutoriada, se le reintegrará al servicio pagándosele sus sueldos y prestaciones que hubiese dejado de percibir hasta ese momento;
 
-V. Pérdida de grado: Consiste en el retiro de la jerarquía que tiene un elemento para asignarle la inmediata inferior, cuando se niegue a asistir a los cursos de capacitación programados para los de su jerarquía, o asistiendo los repruebe, o bien de muestre (sic) ineficiencia para ejercer sus funciones; o en su caso:
+V. Pérdida de grado: Consiste en el retiro de la jerarquía que tiene un elemento para asignarle la inmediata inferior, cuando se niegue a asistir a los cursos de capacitación programados para los de su jerarquía, o asistiendo los repruebe, o bien demuestre ineficiencia para ejercer sus funciones; o en su caso:
 
 VI. Destitución o baja: Consiste en la separación definitiva del servicio sin responsabilidad ni perjuicio para el Ayuntamiento.
 
@@ -8507,7 +9289,7 @@ IV. Las condiciones externas que motivaron la falta y los medios de ejecución; 
 
 V. La reincidencia en el incumplimiento de sus obligaciones.
 
-### CAPÍTULO IV. De los Estacionamientos, Sitios y Paradas
+### CAPÍTULO XII. De los Derechos de los Elementos de Seguridad Pública
 
 ###### ARTÍCULO 909°.
 
@@ -8557,7 +9339,9 @@ Los diplomas se entregarán con motivo de acciones sobresalientes que enaltezcan
 
 Las cartas laudatorias se entregarán por una actividad especifica que haya contribuido a la ejecución de una misión importante o bien que la actividad fue ejemplar por su entrega y determinación. Consiste en la entrega de una carta a la persona distinguida donde se describe en forma breve y elocuente el merito alcanzado y es firmada por el Presidente Municipal, por el Director General de Gobierno, por el Director y por los integrantes de la Comisión de Seguridad Pública y Tránsito del H. Ayuntamiento.
 
-### CAPÍTULO V. De los Controles Administrativos
+### CAPÍTULO XIII. De la Comisión de Honor y Justicia
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 916°.
 
@@ -8601,11 +9385,11 @@ XII. Ser confinados en áreas especiales para policías en los casos en que sean
 
 XIII. Ser considerados para formar parte de la plantilla docente de capacitación del personal.
 
-### CAPÍTULO VI. De la Detención de los Vehículos
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 920°.
 
-La Comisión de Honor y Justicia es el órgano facultado por el H. Ayuntamiento para sancionar los casos de faltas cometidas por los elementos del Cuerpo de Seguridad Pública, así como las acciones relevantes en que intervinieron los miembros de la Dirección de Seguridad Pública y Vialidad, en términos de lo dispuesto por el presente Código y por los Artículos 120, 121, 122 y 123 de la Ley de Seguridad Pública.
+La Comisión de Honor y Justicia es el órgano facultado por el H. Ayuntamiento para sancionar los casos de faltas cometidas por los elementos del Cuerpo de Seguridad Pública, así como las acciones relevantes en que intervinieron los miembros de la Dirección de Seguridad Pública y Movilidad, en términos de lo dispuesto por el presente Código y por los Artículos 120, 121, 122 y 123 de la Ley de Seguridad Pública.
 
 ###### ARTÍCULO 921°.
 
@@ -8615,13 +9399,15 @@ La Comisión de Honor y Justicia tiene por objeto que el Cuerpo de Seguridad Pú
 
 La Comisión de Honor y Justicia depende jerárquicamente del Secretario del H. Ayuntamiento y debe de actuar en coordinación con el Director de Seguridad Pública para proteger los intereses de la sociedad y salvaguardar la tranquilidad y el orden público.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 923°.
 
 La Comisión de Honor y Justicia, se integrará de la siguiente forma:
 
 I. El Regidor de Seguridad Pública quien fungirá como Presidente de la Comisión;
 
-II. Dos elementos de la Dirección; los elementos a los que se refiere la fracción anterior serán nombrados democráticamente por todos los miembros de la Dirección se (sic) Seguridad Pública y Vialidad; y
+II. Dos elementos de la Dirección; los elementos a los que se refiere la fracción anterior serán nombrados democráticamente por todos los miembros de la Dirección se (sic) Seguridad Pública y Movilidad; y
 
 III. Dos ciudadanos reconocidos con destacada solvencia moral.
 
@@ -8765,6 +9551,8 @@ En caso de admisión o desechamiento de una denuncia, deberá fundar y motivar e
 
 El recurso interpuesto será resuelto por el pleno de la Comisión, para lo cual se observará lo establecido por la Ley del Procedimiento Administrativo.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 936°.
 
 El Procedimiento administrativo de responsabilidad se llevará a cabo de la siguiente manera:
@@ -8785,7 +9573,7 @@ En el caso de que la prueba ofrecida por el presunto infractor requiera de prepa
 
 VII. En el caso de no comparecer el elemento operativo sin causa justificada, se tendrán como presuntamente ciertos los hechos constitutivos de la denuncia;
 
-VIII. Las audiencias no podrán suspenderse salvo cuando existan causas de fuerza mayor ajenas a la Comisión que impidan su desahogo o lo solicite el defensor a efecto de allegarse de medios para su mejor defensa, en caso de que surjan causa (sic) supervenientes al hecho que se analiza, previa calificación del Presidente, la prórroga no excederá en todo caso de diez días hábiles; y
+VIII. Las audiencias no podrán suspenderse salvo cuando existan causas de fuerza mayor ajenas a la Comisión que impidan su desahogo o lo solicite el defensor a efecto de allegarse de medios para su mejor defensa, en caso de que surjan causas supervenientes al hecho que se analiza, previa calificación del Presidente, la prórroga no excederá en todo caso de diez días hábiles; y
 
 IX. En cualquier momento, previo o posterior a la notificación a que se refiere la fracción segunda de este artículo, la Comisión a petición del Fiscal, podrá suspender temporalmente al presunto responsable de su cargo, empleo o comisión, si a su juicio así conviniere, para la conducción de la investigación o por la gravedad del hecho, de conformidad al Artículo 118 de la Ley de Seguridad Pública del Estado de Aguascalientes.
 
@@ -8873,7 +9661,7 @@ IV. El Código de Procedimientos Civiles del Estado de Aguascalientes, para efec
 
 ## TÍTULO SEGUNDO. DE LA VIALIDAD MUNICIPAL
 
-### CAPÍTULO VII. De la Pensión Municipal
+### CAPÍTULO II. De los Requisitos para Circular
 
 ###### ARTÍCULO 949°.
 
@@ -8933,11 +9721,13 @@ Son de competencia municipal las vías públicas ubicadas dentro de los límites
 
 Previa autorización de la autoridad municipal, el Gobierno del Estado podrá ejercer las facultades previstas en el presente libro, en las vías públicas de jurisdicción municipal.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 953°.
 
-De acuerdo con lo dispuesto por la Ley de Vías Generales de Comunicación, el Gobierno Municipal, a través de la Dirección, podrá ejercer funciones de vialidad en las carreteras y caminos federales, previa autorización de la Secretaría de Comunicaciones y Transportes.
+De acuerdo con lo dispuesto por la Ley de Vías Generales de Comunicación, el Gobierno Municipal, a través de la Dirección, podrá ejercer funciones de movilidad en las carreteras y caminos federales, previa autorización de la Secretaría de Comunicaciones y Transportes.
 
-### CAPÍTULO I. De las Disposiciones Generales
+### CAPÍTULO III. De la Circulación en las Vías Públicas
 
 ###### ARTÍCULO 954°.
 
@@ -8947,11 +9737,13 @@ Para el tránsito en las vías públicas del Municipio, se requiere la inscripci
 
 Podrán circular sin placas los remolque (sic) o vehículos de carga dentro del Municipio, siempre y cuando se hagan acompañar de un permiso provisional expedido por la Secretaría de Finanzas de (sic) Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 956°.
 
-Las licencias para conducir vehículos de motor estatales serán expedidas por la Secretaría de Finanzas de (sic) Gobierno del Estado. En caso de que el Ayuntamiento decida celebrar convenios de colaboración para expedir estas licencias en el Municipio, se sujetará al trámite señalado para el efecto en la Ley de Movilidad del Estado.
+Las licencias para conducir vehículos de motor estatales serán expedidas por la Secretaría de Seguridad Pública del Estado. En caso de que el Ayuntamiento decida celebrar convenios de colaboración para expedir estas licencias en el Municipio, se sujetará al trámite señalado para el efecto en la Ley de Movilidad del Estado.
 
-### CAPÍTULO II. De la Planeación del Desarrollo Urbano Municipal
+### CAPÍTULO IV. De los Estacionamientos, Sitios y Paradas
 
 ###### ARTÍCULO 957°.
 
@@ -9079,7 +9871,7 @@ II. Cuando una de las vías que unan en el cruce sea de mayor amplitud que la ot
 
 III. En igualdad de circunstancias de ancho y flujo vehicular, cuando al cruce se aproximen vehículos procedentes de diferentes direcciones, los conductores deberán hacer alto total y alternarse el paso, avanzando para cruzar aquél que ve al otro por su lado derecho, para tal efecto, se deberá de ceder el paso a un vehículo.
 
-### CAPÍTULO III. De las Regulaciones a la Propiedad en los Centros de Población
+### CAPÍTULO V. De los Controles Administrativos
 
 ###### ARTÍCULO 969°.
 
@@ -9103,7 +9895,7 @@ La Dirección propondrá a la Autoridad del Transporte Público la ubicación de
 
 Los vehículos que presten el servicio de transporte de pasajeros suburbanos foráneos, sólo podrán levantar pasaje en su Terminal o en los sitios expresamente autorizados para ello, a falta de éstos, en los sitios donde se venga realizando por costumbre.
 
-### CAPÍTULO IV. De la Zonificación
+### CAPÍTULO VI. De la Detención de los Vehículos
 
 ###### ARTÍCULO 972°.
 
@@ -9119,9 +9911,11 @@ III. Responsables de hechos de tránsito cometidos bajo el influjo del alcohol o
 
 La Dirección registrará y publicará periódicamente los datos estadísticos relativos al número y tipo de accidentes, su causa, número de muertos y lesionados, así como el importe estimado de los daños materiales. También registrará los datos relativos a las infracciones cometidas por los conductores.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 974°.
 
-La información señalada en el artículo anterior servirá para tomar acciones preventivas, reducir el número de accidentes e intensificar la educación vial en las áreas de mayor reincidencia de faltas en materia de tránsito.
+La información señalada en el artículo anterior servirá para tomar acciones preventivas, reducir el número de accidentes e intensificar la educación vial en las áreas de mayor reincidencia de faltas en materia de movilidad.
 
 ###### ARTÍCULO 975°.
 
@@ -9129,7 +9923,7 @@ Los elementos operativos, al terminar su turno, entregarán a sus superiores rep
 
 Agregarán a su reporte el nombre de cualquier servidor público o persona que haya hecho alarde de influencias para evitar la sanción correspondiente, marcándole copia al Contralor Interno del Municipio para que sea sancionado.
 
-### CAPÍTULO V. Del Control del Desarrollo Urbano
+### CAPÍTULO VII. De la Pensión Municipal
 
 ###### ARTÍCULO 976°.
 
@@ -9195,9 +9989,11 @@ Liquidadas las multas por el infractor y cubiertos los derechos de traslado, si 
 
 A los peatones se les sancionará con amonestación verbal por desacato a las disposiciones de la Ley de Movilidad y el presente Código en materia de tránsito, procurando el elemento operativo que la lleve a efecto hacerlo en privado con el infractor, en forma cortés y con afán educativo.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 983°.
 
-Las infracciones a la Ley de Movilidad y el presente Título se harán constar en actas o boletas numeradas sobre formas impresas en el número de tantos que determine la Dirección.
+Las infracciones a la Ley de Movilidad y el presente Título se harán constar en actas de infracción numeradas sobre formas impresas en el número de tantos que determine la Dirección.
 
 ###### ARTÍCULO 984°.
 
@@ -9221,7 +10017,7 @@ VIII. Nombre y firma del elemento policíaco que levanta el acta y en su caso el
 
 IX. Documento recogido en garantía del pago de la multa; el cual podrá ser a elección del infractor placa, licencia, tarjeta de circulación o vehículo.
 
-### CAPÍTULO VI. De la Vía Pública
+### CAPÍTULO I. De las Disposiciones Generales
 
 ###### ARTÍCULO 985°.
 
@@ -9235,17 +10031,19 @@ Todo vehículo que ingrese al depósito municipal contará con un registro, en e
 
 Estarán en un lugar visible de la pensión municipal los horarios, las tarifas diarias por concepto de resguardo o almacenaje, los requisitos para retirar un vehículo, el tiempo límite para ejercer reclamo, asimismo, esta información figurará en los formatos impresos que utilice la pensión municipal.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 988°.
 
 Las causas por las que un vehículo puede ingresar a la pensión municipal, serán:
 
 I. Por haber participado en hecho de tránsito de cualquier índole;
 
-II. Por infracción cometida por haber violado alguna de las disposiciones de tránsito;
+II. Por infracción cometida por haber violado alguna de las disposiciones de la Ley de Movilidad del Estado;
 
 III. Por abandono en vía Pública;
 
-IV. Por las causales señaladas en el presente titulo en caso de que no se pague la multa correspondiente y se subsane la violación cometida; y
+IV. Por las causales señaladas en el presente título en caso de que no se pague la multa correspondiente y se subsane la violación cometida; y
 
 V. Por orden de cualquier autoridad administrativa o judicial, misma que debe estar debidamente fundada y motivada.
 
@@ -9371,11 +10169,13 @@ En los formatos de inventario y de salida que utiliza la pensión municipal apar
 
 La Dirección será la autoridad facultada para autorizar la salida o liberación de vehículos, misma que deberá ser siempre por escrito y con el sello y firma del Director o Subdirector salvo en el caso de los vehículos remitidos por autoridad diferente, las cuales serán las facultadas para girar instrucción para la salida de vehículos, que como requisito indispensable deberá ser mediante escrito firmado por las personas autorizadas, dirigido a tránsito municipal para que éste a su vez otorgue la liberación al interesado.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 1017°.
 
 En caso de vehículos ingresados por las causas señaladas en el presente código a los tres meses de antigüedad con respecto a la fecha en que entró el vehículo sin que haya reclamo de persona física o moral o autoridad que compruebe la propiedad, la Presidencia de este Municipio dispondrá del bien en cuestión por medio de la realización de subasta pública de los mismos, bajo las normas y lineamientos que establece la ley al respecto.
 
-Quedan excluidos de esta cláusula los vehículos remitidos por la causa señalada en el presente código, no existiendo límite de tiempo de estadía en la pensión municipal para estos casos.
+Quedan excluidos del presente artículo los vehículos remitidos por alguna de las causas señaladas del presente código, no existiendo límite de tiempo de estadía en la pensión municipal para estos casos.
 
 ###### ARTÍCULO 1018°.
 
@@ -9459,7 +10259,7 @@ IV. Con el producto del remate, la autoridad municipal procederá a cubrir el mo
 
 ## TÍTULO PRIMERO. DE LA ORDENACIÓN Y REGULACION DEL DESARROLLO URBANO
 
-### CAPÍTULO VII. De la Nomenclatura y Números Oficiales
+### CAPÍTULO II. De la Planeación del Desarrollo Urbano Municipal
 
 ###### ARTÍCULO 1031°.
 
@@ -9743,7 +10543,7 @@ El Programa Municipal de Desarrollo Urbano, será elaborado, aprobado, ejecutado
 
 Los programas parciales de desarrollo urbano, se derivan de los programas de desarrollo urbano de centros de población, a fin de ordenar y regular un área o zona comprendida dentro de los mismos.
 
-### CAPÍTULO I. De la Licencia de Construcción
+### CAPÍTULO III. De las Regulaciones a la Propiedad en los Centros de Población
 
 ###### ARTÍCULO 1045°.
 
@@ -9953,7 +10753,7 @@ Para dar un uso o destino distinto al que se le ha venido dando a un área, pred
 
 La presentación de dicha constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
 
-### CAPÍTULO II. De los Peritos
+### CAPÍTULO IV. De la Zonificación
 
 ###### ARTÍCULO 1069°.
 
@@ -10021,7 +10821,7 @@ Todo inmueble consignado como vía pública en algún plano o registro oficial e
 
 Los inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano en la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado como cabeza de sector Estatal para que procedan ante al (sic) Registro Público de la Propiedad y al Instituto Catastral, o sus equivalentes, para que hagan los registros y las cancelaciones respectivas para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano en la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado, ante al (sic) Registro Público de la Propiedad y al Instituto Catastral, o sus equivalentes, así como al Área de Control Municipal del Impuesto a la Propiedad Raíz para que hagan los registros y las cancelaciones respectivas.
 
-### CAPÍTULO III. De los Proyectos Arquitectónicos
+### CAPÍTULO V. Del Control del Desarrollo Urbano
 
 ###### ARTÍCULO 1076°.
 
@@ -10377,7 +11177,7 @@ Las solicitudes para este tipo de licencias, se presentarán con la firma del pr
 
 El tiempo de vigencia de las licencias de construcción que expida la Dirección de Planeación y Obras Públicas estará en relación con la naturaleza y magnitud de la obra por ejecutar.
 
-### CAPÍTULO IV. De las Instalaciones Hidráulicas y Eléctricas
+### CAPÍTULO VI. De la Vía Pública
 
 ###### ARTÍCULO 1117°.
 
@@ -10611,7 +11411,7 @@ b) Programa de demolición elaborado y firmado por el perito responsable de obra
 
 No se permitirá realizar obras de rebaje o demolición de muros medianeros. Entiéndase por muros medianeros los que, en común a dos predios colindantes los divide y en ocasiones sostiene techumbres de ambas fincas.
 
-### CAPÍTULO V. De la Edificación para Habitación
+### CAPÍTULO VII. De la Nomenclatura y Números Oficiales
 
 ###### ARTÍCULO 1131°.
 
@@ -10805,7 +11605,7 @@ Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera dismin
 
 Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, pudiendo la Secretaria revocarlos en cualquier momento que se juzgue conveniente.
 
-### CAPÍTULO VI. De la Edificación para Comercios y Servicios
+### CAPÍTULO I. De la Licencia de Construcción
 
 ###### ARTÍCULO 1150°.
 
@@ -10973,7 +11773,7 @@ Preferentemente, dichas salidas deberán acondicionarse en sitios opuestos a las
 
 ## TÍTULO SEGUNDO. DE LAS CONSTRUCCIONES
 
-### CAPÍTULO VII. De la Edificación para Centros de Reunión y Espectáculos
+### CAPÍTULO II. De los Peritos
 
 ###### ARTÍCULO 1168°.
 
@@ -12267,7 +13067,7 @@ Los vidrios y cristales deberán colocarse tomando en cuenta los posibles movimi
 
 Los asientos selladores empleados en la colocación de piezas mayores al uno y medio metros cuadrados, deberán absorber tales deformaciones y conservar su elasticidad.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. De los Proyectos Arquitectónicos
 
 ###### ARTÍCULO 1385°.
 
@@ -12349,7 +13149,7 @@ XI. Haber satisfecho los requisitos exigidos por este Código, legislación o re
 
 XII. Tratándose de actos administrativos que sean recurribles, deberá de hacer mención del recurso procedente, además deberá hacerse mención a la oficina donde se encuentre el expediente respectivo.
 
-### CAPÍTULO II. De los Criterios de Diseño
+### CAPÍTULO IV. De las Instalaciones Hidráulicas y Eléctricas
 
 ###### ARTÍCULO 1393°.
 
@@ -12575,7 +13375,7 @@ Las notificaciones por edictos se realizarán haciendo la publicación con un re
 
 La manifestación que haga el interesado, su representante legal o quien esté autorizado para recibir notificaciones, de conocer el acuerdo o resolución, surtirá sus efectos de notificación en forma a partir del día hábil siguiente a ese hecho.
 
-### CAPÍTULO III. De las Normas Técnicas Complementarias y Supletorias
+### CAPÍTULO V. De la Edificación para Habitación
 
 ###### ARTÍCULO 1430°.
 
@@ -12661,7 +13461,7 @@ VIII. Declaración del visitado, si quisiera hacerla; y
 
 IX. Nombre y firma de quienes intervinieron en la diligencia, incluyendo los de quien la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
 
-### CAPÍTULO I. De las Generalidades
+### CAPÍTULO VI. De la Edificación para Comercios y Servicios
 
 ###### ARTÍCULO 1441°.
 
@@ -12691,15 +13491,19 @@ Los inspectores o verificadores deberán evitar en todo momento el hostigamiento
 
 Del acta de inspección se dará vista al funcionario que la ordenó, quien determinará la posible comisión de una falta administrativa e iniciará en su caso el procedimiento para la imposición de sanciones o medidas de seguridad.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 1448°.
 
-En el Municipio de Asientos, a efectos de llevar a cabo el control de los infractores al presente Código y de las multas respectivas, existirá como mínimo un Juzgado calificador de Seguridad Pública y Vialidad, que dependerá jerárquica y administrativamente de la Secretaría del H. Ayuntamiento.
+En el Municipio de Asientos, a efectos de llevar a cabo el control de los infractores al presente Código y de las multas respectivas, existirá como mínimo un Juzgado calificador de Seguridad Pública y Movilidad, que dependerá jerárquica y administrativamente de la Secretaría del H. Ayuntamiento.
 
-### CAPÍTULO II. De los Materiales de Construcción y Obras en la Vía Pública
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO VII. De la Edificación para Centros de Reunión y Espectáculos
 
 ###### ARTÍCULO 1449°.
 
-Será facultad del Juzgado Calificador de Seguridad Pública y Vialidad el conocimiento y calificación de las infracciones en contra de la seguridad, tranquilidad, salubridad la moral y el civismo, así como las infracciones de vialidad, será también facultad del Juzgado Calificador la imposición de las sanciones correspondientes.
+Será facultad del Juzgado Calificador de Seguridad Pública y Movilidad el conocimiento y calificación de las infracciones en contra de la seguridad, tranquilidad, salubridad la moral y el civismo, así como las infracciones de vialidad, será también facultad del Juzgado Calificador la imposición de las sanciones correspondientes.
 
 ###### ARTÍCULO 1450°.
 
@@ -12745,29 +13549,37 @@ XI. Las demás que se desprendan del capítulo de Faltas Cívicas del presente C
 
 Los Jueces Calificadores, dentro del ámbito de sus funciones, cuidarán estrictamente que se respeten las garantías individuales de los infractores, quedando bajo su responsabilidad cualquier atentado en que incurra el personal de seguridad pública, una vez que es puesto a su disposición.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 1453°.
 
-Los asuntos serán atendidos sucesivamente, según el orden en que se pongan a disposición del. Juez calificador.
+Los asuntos serán atendidos sucesivamente, según el orden en que se pongan a disposición del Juez Calificador.
 
 ###### ARTÍCULO 1454°.
 
 El juez calificador en turno impondrán (sic) las sanciones correspondientes a todos los infractores que se pongan a su disposición y el juez calificador entrante, en caso de haberlo, por ningún motivo podrá aumentar o disminuir dicha sanción.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 1455°.
 
-El Juez Calificador, a efecto de aplicar las sanciones administrativas que señala el Capítulo de Faltas de Policía y Buen Gobierno y en materia de vialidad, deberá de verificar que exista una adecuación de la conducta del infractor con la falta descrita. Si no fuere posible encuadrarla en alguna falta, ésta no se podrá aplicar por analogía o por mayoría de razón.
+El Juez Calificador, a efecto de aplicar las sanciones administrativas que señala el Capítulo de Faltas de Policía y Buen Gobierno y en materia de movilidad, deberá de verificar que exista una adecuación de la conducta del infractor con la falta descrita. Si no fuere posible encuadrarla en alguna falta, ésta no se podrá aplicar por analogía o por mayoría de razón.
 
 ###### ARTÍCULO 1456°.
 
 El Juez Calificador, al tener conocimiento de los hechos, si presume que son delictivos, suspenderá su intervención y pondrá de inmediato al detenido y los objetos afectos al asunto, a disposición de la autoridad Ministerial competente.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 1457°.
 
-Los jueces calificadores sólo atenderán las gestiones que provengan directamente de los interesados y en ningún momento podrán emitir resoluciones en materia de vialidad, respecto de flotillas o parques vehiculares públicos o privados.
+Los jueces calificadores sólo atenderán las gestiones que provengan directamente de los interesados y en ningún momento podrán emitir resoluciones en materia de movilidad, respecto de flotillas o parques vehiculares públicos o privados.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 1458°.
 
-El Oficial de Guardia receptor de presuntos infractores dependiente de la Dirección de Seguridad Pública y Vialidad Municipal, estará bajo la supervisión del Juez Calificador y tendrá, las siguientes obligaciones:
+El Oficial de Guardia receptor de presuntos infractores dependiente de la Dirección de Seguridad Pública y Movilidad Municipal, estará bajo la supervisión del Juez Calificador y tendrá, las siguientes obligaciones:
 
 I. La recepción de los detenidos que sean puestos a su disposición;
 
@@ -12775,7 +13587,7 @@ II. Recabar los datos de los presuntos infractores, de la falta en que incurrió
 
 III. Remitir al infractor, al depósito de pertenencias a fin de que resguarden sus objetos personales;
 
-IV. Solicitar en su caso el examen psicofísico de los presuntos infractores puestos a disposición del juez calificador, por conducto del perito medico que para tal efecto se asigne por el ayuntamiento.
+IV. Solicitar en su caso el examen psicofísico de los presuntos infractores puestos a disposición del Juez Calificador, por conducto del perito médico que para tal efecto se asigne por el ayuntamiento;
 
 V. Entregar la documentación necesaria al Juez Calificador en turno, a efecto de que imponga las sanciones correspondientes a los infractores;
 
@@ -12791,9 +13603,11 @@ En caso de que, el receptor constatara de que, el infractor, al momento de su de
 
 El encargado del depósito de pertenencias tendrá bajo su más estricta responsabilidad recibir, custodiar y devolver cuando proceda, todos los objetos, valores, dinero y documentos que depositen los infractores, previo recibo inventario que se le expida.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 1461°.
 
-Cuando se recojan armas, objetos peligrosos, enervantes, psicotrópicos, estupefacientes o cualquier tipo de droga prohibida, u objeto que presuma la comisión de algún ilícito, se pondrán inmediatamente a disposición del Juez Calificador para que proceda a su remisión, mediante oficio, a la autoridad Ministerial competente.
+Cuando se recojan armas, objetos peligrosos, enervantes, psicotrópicos, estupefacientes o cualquier tipo de droga prohibida, u objeto que presuma la comisión de algún ilícito, se pondrán inmediatamente a disposición de la Fiscalía Correspondiente por parte del elemento que haya realizado la localización del indicio.
 
 ###### ARTÍCULO 1462°.
 
@@ -12803,9 +13617,11 @@ Al infractor, al dejar sus pertenencias en el depósito, se le entregará el rec
 
 Al infractor se le notificará que cuenta con el término de treinta días naturales para reclamar la devolución de sus pertenencias, a partir del día siguiente al de su egreso.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 1464°.
 
-En caso de no recogerlas dentro del término señalado en el artículo anterior, se tendrá (sic) como abandonadas y se procederá, por conducto del Juez calificador a su donación y entrega del Sistema D.I.F. Municipal para la beneficencia pública, cuando el valor de los objetos no exceda de diez días de salario mínimo general vigente en el Estado.
+En caso de no recogerlas dentro del término señalado en el artículo anterior, se tendrá (sic) como abandonadas y se procederá, por conducto del Juez Calificador a su donación y entrega del Sistema D.I.F. Municipal para la beneficencia pública, cuando el valor de los objetos no exceda de diez días de salario mínimo general vigente en el Estado.
 
 Cuando el valor de los objetos exceda de dicho valor se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Tesorería Municipal de Asientos. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
 
@@ -12817,6 +13633,8 @@ Para efectos de este título, se consideran infracciones las violaciones al pres
 
 Las infracciones tendrán como consecuencia la imposición de sanciones o medidas de seguridad por parte de la autoridad competente según lo establecen en las leyes y el presente código, en la forma y montos establecidos en los mismos.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 1467°.
 
 Las infracciones previstas en el presente código se dividen en:
@@ -12825,19 +13643,23 @@ I. Infracciones administrativas;
 
 II. Faltas de Policía y Buen Gobierno; e
 
-III. Infracciones de vialidad.
+III. Infracciones de movilidad.
 
 ###### ARTÍCULO 1468°.
 
 La vigilancia sobre la comisión de infracciones previstas en el artículo anterior corresponderá a las diversas unidades administrativas municipales, en el ámbito de sus respectivas competencias. En el caso de la fracción I del artículo anterior, la aplicación de la sanción correspondiente será facultad del Secretario del H. Ayuntamiento, por sí o por persona a quien delegue facultades para ello. En el caso de las fracciones II y III del artículo anterior, la aplicación de la sanción correspondiente, será facultad del Juez Calificador.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 1469°.
 
-Los elementos operativos de la Dirección de Seguridad Pública y Vialidad vigilarán lo correspondiente a las faltas de policía y buen gobierno e infracciones de vialidad y serán auxiliares de las demás áreas, las cuales pueden solicitar su apoyo cuando el caso lo requiera.
+Los elementos operativos de la Dirección de Seguridad Pública y Movilidad vigilarán lo correspondiente a las faltas de policía y buen gobierno e infracciones de movilidad y serán auxiliares de las demás áreas, las cuales pueden solicitar su apoyo cuando el caso lo requiera.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 1470°.
 
-La acción para imponer sanciones por infracciones administrativas, faltas de policía y buen gobierno o infracciones de vialidad, prescribirán en tres meses, contados a partir de la fecha en que se cometan.
+La acción para imponer sanciones por infracciones administrativas, faltas de policía y buen gobierno o infracciones de movilidad, prescribirán en tres meses, contados a partir de la fecha en que se cometan.
 
 ###### ARTÍCULO 1471°.
 
@@ -12881,7 +13703,7 @@ II. Multa económica a favor del erario municipal; y
 
 III. Arresto hasta por treinta y seis horas.
 
-### CAPÍTULO III. De los Tapiales
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1474°.
 
@@ -13141,7 +13963,7 @@ Una vez concluidas las obras o los trabajos que hayan sido ordenados de acuerdo 
 
 ## TÍTULO TERCERO. DE LOS REQUISITOS ESTRUCTURALES
 
-### CAPÍTULO IV. De las Demoliciones
+### CAPÍTULO II. De los Criterios de Diseño
 
 ###### ARTÍCULO 1501°.
 
@@ -13215,7 +14037,7 @@ En caso de reincidencia, el Juez Calificador podrá duplicar el máximo de las s
 
 Se considera reincidente al que haya competido (sic) la misma falta dentro de los tres meses de ejecutada la primera u otra incluida dentro de la misma clasificación de protección de valores que indica este capítulo.
 
-### CAPÍTULO V. De las Mediciones y Trazos
+### CAPÍTULO III. De las Normas Técnicas Complementarias y Supletorias
 
 ###### ARTÍCULO 1519°.
 
@@ -13249,7 +14071,7 @@ Nueve Unidades de Medida y Actualización: Treinta horas de arresto.
 
 Diez Unidades de Medida y Actualización: Treinta y seis horas de arresto.
 
-### CAPÍTULO VI. De las Excavaciones, Rellenos y Cimentación
+### CAPÍTULO I. De las Generalidades
 
 ###### ARTÍCULO 1522°.
 
@@ -13257,7 +14079,7 @@ El infractor, al momento que se determine su arresto, por ningún motivo quedar�
 
 ## TÍTULO CUARTO. DE LA EJECUCIÓN DE OBRAS
 
-### CAPÍTULO VII. De las Cimbras, Andamios y Estructuras de Madera
+### CAPÍTULO II. De los Materiales de Construcción y Obras en la Vía Pública
 
 ###### ARTÍCULO 1523°.
 
@@ -13387,7 +14209,7 @@ c) Construir sin respetar el proyecto autorizado con la licencia.
 
 Las infracciones especificadas en el artículo anterior serán aplicables indistintamente al propietario de la obra o predio, al constructor o contratista correspondiente o al Perito Responsable de Obra o Perito Especializado, previa investigación de los hechos y deslinde de responsabilidades.
 
-### CAPÍTULO VIII. De la Mampostería y el Concreto
+### CAPÍTULO III. De los Tapiales
 
 ###### ARTÍCULO 1535°.
 
@@ -13619,7 +14441,7 @@ La suspensión deberá perdurar hasta que el infractor realice el pago de la o l
 
 El verificador podrá solicitar para tal efecto el uso de la fuerza pública.
 
-### CAPÍTULO IX. De las Estructuras Metálicas
+### CAPÍTULO IV. De las Demoliciones
 
 ###### ARTÍCULO 1548°.
 
@@ -13653,7 +14475,7 @@ VIII. Cuando se compruebe que un comerciante administre un permiso en beneficio 
 
 La cancelación del permiso trae aparejada la clausura del puesto o establecimiento.
 
-### CAPÍTULO X. De las Instalaciones
+### CAPÍTULO V. De las Mediciones y Trazos
 
 ###### ARTÍCULO 1552°.
 
@@ -13687,7 +14509,7 @@ Los afectados por los actos y resoluciones de las autoridades municipales que po
 
 La oposición a los actos de trámite en un procedimiento administrativo, independientemente de alegarse durante los interesados durante dicho procedimiento, para su consideración en la resolución que ponga fin al mismo, se hará valer en todo caso al impugnar la resolución definitiva.
 
-### CAPÍTULO XI. De las Fachadas y Recubrimientos
+### CAPÍTULO VI. De las Excavaciones, Rellenos y Cimentación
 
 ###### ARTÍCULO 1558°.
 
@@ -13739,7 +14561,7 @@ La autoridad deberá acordar, en su caso, la suspensión o la denegación de la 
 
 El superior jerárquico de la autoridad que emitió el acto o resolución impugnada será el encargado de resolver el recurso y tratándose de actos del Presidente Municipal o del Cabildo, corresponderá al propio Cabildo su resolución.
 
-### CAPÍTULO I. Del uso de Predios y Edificaciones
+### CAPÍTULO VII. De las Cimbras, Andamios y Estructuras de Madera
 
 ###### ARTÍCULO 1563°.
 
@@ -13807,9 +14629,25 @@ V. Si se resuelve que no hubo notificación o que ésta no fue efectuada conform
 
 VI. Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se hubiere interpuesto extemporáneamente, desechará dicho recurso.
 
+### CAPÍTULO VIII. De la Mampostería y el Concreto
+
+### CAPÍTULO IX. De las Estructuras Metálicas
+
+### CAPÍTULO X. De las Instalaciones
+
+### CAPÍTULO XI. De las Fachadas y Recubrimientos
+
+### CAPÍTULO I. Del uso de Predios y Edificaciones
+
+## TÍTULO QUINTO. DEL USO, OPERACION Y MANTENIMIENTO
+
 ### CAPÍTULO II. Del Mantenimiento
 
 ### CAPÍTULO I. De los Principios Generales
+
+# LIBRO NOVENO. DE LOS ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS
+
+## TÍTULO PRIMERO. DE LOS REQUISITOS Y FORMALIDADES
 
 ### CAPÍTULO II. Del Procedimiento Administrativo
 
@@ -13817,57 +14655,55 @@ VI. Si resuelve que la notificación fue legalmente practicada y, como consecuen
 
 ### CAPÍTULO IV. De la Terminación del Procedimiento Administrativo
 
-## TÍTULO QUINTO. DEL USO, OPERACION Y MANTENIMIENTO
-
 ### CAPÍTULO V. De los Términos
 
 ### CAPÍTULO VI. De las Notificaciones
 
-# LIBRO NOVENO. DE LOS ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS
-
-## TÍTULO PRIMERO. DE LOS REQUISITOS Y FORMALIDADES
-
 ### CAPÍTULO VII. De las Verificaciones e Inspecciones
 
-### CAPÍTULO I. De los Jueces Calificadores de Seguridad Pública y Vialidad
+### CAPÍTULO I. De los Jueces Calificadores de Seguridad Pública y Movilidad
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
+## TÍTULO SEGUNDO. DE LA JUSTICIA MUNICIPAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)</small>
 
 ### CAPÍTULO II. De los Receptores de Presuntos Infractores y Pertenencias
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+
+## TÍTULO TERCERO. DE LAS INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ### CAPÍTULO I. De las Disposiciones Generales
 
 ### CAPÍTULO II. De las Faltas de Policía y Buen Gobierno
 
+#### SECCIÓN PRIMERA. De las Faltas Contra la Seguridad
+
 ### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad en Materia de Faltas de Policía y Buen Gobierno
 
 ### CAPÍTULO IV. De las Reglas para la Imposición de Sanciones Administrativas
 
-## TÍTULO SEGUNDO. DE LA JUSTICIA MUNICIPAL
+## TÍTULO CUARTO. DE LA INDIVIDUALIZACIÓN DE LAS SANCIONES
 
 ### CAPÍTULO I. De las Sanciones en Materia de Faltas de Policía y Buen Gobierno
-
-## TÍTULO TERCERO. DE LAS INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ### CAPÍTULO II. De las Sanciones en Materia de Servicios Públicos
 
 ### CAPÍTULO III. De las Sanciones en Materia de Construcción
 
-#### SECCIÓN PRIMERA. De las Faltas Contra la Seguridad
-
 ### CAPÍTULO IV. De las Sanciones en Materia de Actividades de los Particulares en el Comercio
 
 ### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
 
-## TÍTULO CUARTO. DE LA INDIVIDUALIZACIÓN DE LAS SANCIONES
+## TÍTULO QUINTO. DEL RECURSO DE REVISIÓN
 
 ### CAPÍTULO VI. De las Sanciones en Materia de Comercio en la Vía Pública
 
 ### CAPÍTULO I. De la Interposición del Recurso
 
 ### CAPÍTULO II. De la Resolución del Recurso
-
-### CAPÍTULO III. De la Impugnación de las Notificaciones
-
-## TÍTULO QUINTO. DEL RECURSO DE REVISIÓN
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -13920,3 +14756,11 @@ OCTAVA REGIDORA
 PROFR. ANTONIO GALLEGOS ESPINOSA
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ABRIL DE 2020.
+
+> <small>[N. DE E. LAS "REFORMAS AL CÓDIGO MUNICIPAL PARA ASIENTOS" CON ANTELACIÓN CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE".]</small>
+
+### CAPÍTULO III. De la Impugnación de las Notificaciones
