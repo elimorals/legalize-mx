@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-estado-de-yucatan-para-el-ejercicio-139694"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2019-12-31"
+last_updated: "2020-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2020
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE ABRIL DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 31 de diciembre de 2019.
 
@@ -64,6 +64,8 @@ Ingresos
 Los ingresos que el estado de Yucatán perciba durante el ejercicio fiscal 2020 serán los provenientes de los rubros, tipos y en las cantidades estimadas, que a continuación se enumeran:
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2019, PÁGINAS DE LA 33 A LA 43.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 7 DE ABRIL DE 2020, PÁGINA 14.]</small>
 
 En los casos en que una ley establezca alguno de los ingresos previstos en este artículo, y contenga disposiciones que señalen otros ingresos, estos últimos se considerarán comprendidos en el rubro, tipo o clase que corresponda a los ingresos del primero.
 
@@ -382,3 +384,17 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 7 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 205/2020 POR EL QUE SE MODIFICAN LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN Y LA LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2020, EN MATERIA DE DEROGACIÓN DEL DERECHO POR LA INFRAESTRUCTURA TECNOLÓGICA EN MATERIA DE SEGURIDAD PÚBLICA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Ajustes presupuestales
+
+El Poder Ejecutivo del Estado a través de la Secretaría de Administración y Finanzas deberá realizar los ajustes al Presupuesto de Egresos del Gobierno del Estado de Yucatán para el Ejercicio Fiscal 2020, en cumplimiento al principio de balance presupuestario y a lo dispuesto en la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán, su reglamento y demás normativa aplicable.
