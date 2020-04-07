@@ -4,7 +4,7 @@ identifier: "FED-protocolo-para-la-prevencion-atencion-y-sancion-del-139739"
 country: "mx"
 rank: "otro"
 publication_date: "2020-01-03"
-last_updated: "2020-01-03"
+last_updated: "2020-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139739&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-11-26"
 ---
 # PROTOCOLO PARA LA PREVENCION, ATENCION Y SANCION DEL HOSTIGAMIENTO SEXUAL Y ACOSO SEXUAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE ABRIL DE 2020 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 PROTOCOLO PARA LA PREVENCIÓN, ATENCIÓN Y SANCIÓN DEL HOSTIGAMIENTO SEXUAL Y ACOSO SEXUAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 7 DE ABRIL DE 2020.]</small>
 
 Protocolo publicado en el Diario Oficial de la Federación, el viernes 3 de enero de 2020.
 
@@ -101,7 +101,9 @@ i) CONAVIM: La Comisión Nacional para Prevenir y Erradicar la Violencia contra 
 
 j) Conflicto de interés: La posible afectación del desempeño imparcial y objetivo de las funciones de las personas servidoras públicas en razón de intereses personales, familiares o de negocios;
 
-k) Comités: Los Comités de ética y de prevención de conflictos de interés, conformados en cada dependencia o entidad de la Administración Pública Federal en términos del Código de ética vigente;
+> <small>(F. DE E., D.O.F. 7 DE ABRIL DE 2020)</small>
+
+k) Comités: Los Comités de ética y de prevención de conflictos de intereses, conformados en cada dependencia o entidad de la Administración Pública Federal en términos del Código de ética vigente;
 
 l) Debida diligencia: Implica la prevención razonable, la investigación exhaustiva, la sanción proporcional, el respeto de los derechos humanos y procesales de las partes y la reparación suficiente por parte de las autoridades;
 
@@ -225,7 +227,9 @@ b. Reafirmar el compromiso para erradicar las conductas de hostigamiento sexual 
 
 c. Definir el hostigamiento sexual y acoso sexual de conformidad con lo establecido en la Ley General de Acceso de las Mujeres a una vida Libre de Violencia;
 
-d. Expresar, de forma enunciativa más no limitativa, las conductas que vulneran la Regla 13 de “comportamiento digno” de las Reglas de Integridad para el Ejercicio de la Función Pública, publicadas en el Diario Oficial de la Federación el 6 de septiembre de 2016. El pronunciamiento debe explicitar que la prohibición de estas conductas incluye al personal, público usuario y personal sin nombramiento como personas prestadoras de servicio social, personal de honorarios y personas subcontratadas, entre otras;
+> <small>(F. DE E., D.O.F. 7 DE ABRIL DE 2020)</small>
+
+d. Expresar, de forma enunciativa más no limitativa, las conductas que vulneran la Regla 13. Comportamiento digno de las Reglas de Integridad para el Ejercicio de la Función Pública. El pronunciamiento debe explicitar que la prohibición de estas conductas incluye al personal, público usuario y personal sin nombramiento como personas prestadoras de servicio social, personal de honorarios y personas subcontratadas, entre otras;
 
 e. Brindar información sobre los mecanismos de denuncia y atención;
 
@@ -357,7 +361,9 @@ La Persona consejera garantizará a la presunta víctima, la confidencialidad en
 
 28. Las denuncias sobre casos de hostigamiento sexual y acoso sexual podrán presentarse ante el Comité por medio del formato de primer contacto elaborado por la persona consejera o mediante denuncia anónima. En caso de que la presunta víctima presente la denuncia de forma directa, el Comité deberá informarle respecto del procedimiento que ha iniciado y asesorarle en caso de que requiera apoyo o intervención médica, psicológica, jurídica o cualquier otra que resulte necesaria.
 
-29. El Comité podrá conocer de todas las conductas que constituyan hostigamiento sexual y acoso sexual. Para los casos señalados en los incisos b, c, d, e, f, g, h, o, p, q de la Regla de integridad 13. Comportamiento digno, podrá remitir la denuncia inmediatamente a la autoridad investigadora, considerando la reiteración de la conducta y voluntad de la presunta víctima.
+> <small>(F. DE E., D.O.F. 7 DE ABRIL DE 2020)</small>
+
+29. El Comité podrá conocer de todas las conductas que constituyan hostigamiento sexual y acoso sexual. Para los casos señalados en los incisos b), c), d), e), f), g), h), o) y p) de la Regla de integridad 13. Comportamiento digno de las Reglas de Integridad para el Ejercicio de la Función Pública, podrá remitir la denuncia inmediatamente a la autoridad investigadora, considerando la reiteración de la conducta y voluntad de la presunta víctima.
 
 30. La persona que ocupe la Secretaría Ejecutiva revisará la denuncia y en caso de que de la misma se identifique la falta de un elemento, contactará a la presunta víctima a efecto de que subsane las omisiones correspondientes, sin perjuicio de que se inicie el trámite.
 
