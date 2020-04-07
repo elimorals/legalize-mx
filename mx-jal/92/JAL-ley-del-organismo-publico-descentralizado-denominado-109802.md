@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-denominado-109802"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-09"
-last_updated: "2015-09-09"
+last_updated: "2020-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD DE JALISCO"
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 27894/LXII/20, PUBLICADO EN EL P.O. DE 7 DE ABRIL DE 2020 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE JALISCO”
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2020 (ABROGADA).
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 9 de septiembre de 2015.
 
@@ -382,3 +384,45 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE ABRIL DE 2020.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "DECRETO 27894/LXII/20 QUE DEROGA EL ARTÍCULO 7 DE LA LEY DE SALUD DEL ESTADO DE JALISCO; ABROGA LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE JALISCO; Y ESTABLECE LAS BASES PARA LA LIQUIDACIÓN Y EXTINCIÓN DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE JALISCO”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Se abroga la Ley del Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud de Jalisco.
+
+TERCERO. Se extingue y se inicia el proceso de liquidación del organismo público descentralizado denominado Régimen Estatal de Protección Social en Salud de Jalisco.
+
+## TRANSITORIOS
+
+Primero. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial "EL Estado de Jalisco".
+
+Segundo. La prestación de los servicios de salud en Jalisco será efectuada a través de los organismos públicos descentralizados Servicios de Salud Jalisco, Hospital Civil de Guadalajara e Instituto Jalisciense de Cancerología, conforme al acuerdo de coordinación celebrado entre el Gobierno del Estado de Jalisco y el Instituto de Salud para el Bienestar (INSABI).
+
+La Secretaría de Salud y los organismos públicos descentralizados Servicios de Salud Jalisco, Hospital Civil de Guadalajara e Instituto Jalisciense de Cancerología, adoptarán las medidas jurídicas, administrativas, financieras y operativas necesarias para que los servicios de salud en Jalisco se presten en forma ininterrumpida.
+
+Tercero. Los asuntos en trámite ante el organismo público descentralizado que se extingue, pasarán al organismo público descentralizado denominado Servicios de Salud Jalisco, de conformidad con el presente Decreto, el acuerdo de coordinación referido en el artículo anterior o en los términos que establezcan las partes del mismo.
+
+Cuarto. Los bienes muebles e inmuebles que formen parte del patrimonio del organismo público descentralizado que se extingue, pasarán a formar parte del patrimonio del Gobierno del Estado, con excepción de los bienes muebles correspondientes a los módulos de afiliación al Seguro Popular en la entidad los cuales pasarán a formar parte del organismo público descentralizado Servicios de Salud Jalisco.
+
+Los recursos económicos y materiales, así como los derechos, valores y fondos del organismo público descentralizado denominado Régimen Estatal de Protección Social en Salud de Jalisco que subsistan después de concluido el procedimiento de liquidación, formarán parte del patrimonio del Gobierno del Estado.
+
+Quinto. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de Administración, realice la liquidación del organismo público descentralizado denominado Régimen Estatal de Protección Social en Salud de Jalisco, facultándola para desempeñar actos de administración, dominio y pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas facultades que, en cualquier materia, requieran poder o cláusula especial, y para realizar cualquier acción que (sic) coadyuvar con los fines señalados en la presente cláusula, incluidos los procesos jurisdiccionales que se encuentren en trámite.
+
+La Secretaría de Administración, por conducto del liquidador que designe, intervendrá de inmediato para tomar el control y disponer del patrimonio del organismo público descentralizado denominado Régimen Estatal de Protección Social en Salud de Jalisco, con la finalidad de cobrar lo que se le deba al organismo que se extingue y pagar lo que este adeuda.
+
+La personalidad jurídica del organismo que se extingue subsistirá durante el proceso de liquidación, y será ejercida por la Secretaría de Administración.
+
+Sexto. Las facultades, derechos y obligaciones establecidos a cargo del organismo público descentralizado que se extingue, o de sus titulares, en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, se entenderán transferidos al organismo público descentralizado denominado Servicios de Salud Jalisco, con excepción de las relaciones laborales y de lo dispuesto en los artículos anteriores relacionado con el proceso de liquidación.
+
+Séptimo. Se autoriza al Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública o la dependencia que corresponda conforme a sus facultades, para llevar a cabo las adecuaciones administrativas, programáticas, presupuestarias y de plantilla de personal necesarias, a fin de darle certeza jurídica al ejercicio presupuestal, conforme a lo establecido en el artículo QUINTO TRANSITORIO del Presupuesto de Egresos del Estado de Jalisco, para el periodo comprendido del 1 de enero al 31 de diciembre del año 2020.
+
+Octavo. Las relaciones laborales del extinto Régimen Estatal de Protección Social en Salud de Jalisco con su personal, serán liquidadas conforme a lo que corresponda a cada trabajador, en términos de lo dispuesto en la Ley aplicable.
+
+Noveno. Se autoriza al Poder Ejecutivo del Estado para que, a través de la Secretaría de la Hacienda Pública del Estado de Jalisco, realice las adecuaciones administrativas y presupuestales a efecto de registrar contablemente, en su caso, la inviabilidad o quebranto financiero respecto de las cantidades que pudiera adeudar el organismo público descentralizado denominado Régimen Estatal de Protección Social en Salud de Jalisco que se extingue en este Decreto.
+
+Décimo. La Contraloría del Estado deberá realizar una auditoría al organismo público descentralizado denominado Régimen Estatal de Protección Social en Salud de Jalisco, y en caso de encontrar alguna responsabilidad, procederá conforme a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+
+Décimo Primero. El Poder Ejecutivo del Estado, por conducto de las dependencias involucradas en el proceso de liquidación, deberán de rendir informes trimestrales al Congreso del Estado sobre los avances del procedimiento de liquidación, así como, al terminar el proceso de liquidación deberán de rendir un informe final.
