@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-civil-del-estado-de-michoacan-de-ocampo-10378
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2016-12-29"
+last_updated: "2020-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2020.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 25 de noviembre de 2014.
 
@@ -125,9 +125,11 @@ XXXI. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una z
 
 Toda persona que habite o se encuentre de paso por el territorio estatal, tendrá derecho a ser informada, auxiliada y beneficiada de las acciones, recursos y medidas implementadas por las Instituciones de Protección Civil, en cumplimiento al objeto de esta Ley. Asimismo, la población vulnerable y expuesta a un peligro, será informada de ello, y a contar con las vías adecuadas de opinión y participación dentro de la Gestión Integral de Riesgos.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2020)</small>
+
 ###### Artículo 5.
 
-El Gobierno del Estado, en coordinación con las instancias municipales y de la Federación, instrumentará y aplicará de manera continua, programas y estrategias dirigidas al fortalecimiento de los mecanismos de organización y funcionamiento de las Instituciones de Protección Civil, sustentándolos en la Gestión Integral de Riesgos.
+EI Gobierno del Estado, en coordinación con las instancias municipales y de la Federación, instrumentará y aplicará de manera continua, programas y estrategias dirigidas al fortalecimiento de los mecanismos de organización y funcionamiento de las Instituciones de Protección Civil, sustentándolos en la Gestión Integral de Riesgos; y supervisará que se realice la actualización del atlas estatal y municipal de riesgo.
 
 ###### Artículo 6.
 
@@ -1256,3 +1258,13 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 7 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 320.- ÚNICO. SE REFORMA EL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Tercero. El Poder Ejecutivo expedirá las modificaciones necesarias al Reglamento de la Ley en un término de hasta noventa días a partir de la entrada en vigor del presente Decreto.
