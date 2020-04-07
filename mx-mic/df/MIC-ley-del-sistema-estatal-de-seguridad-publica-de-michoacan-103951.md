@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-de-seguridad-publica-de-michoacan-10395
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2019-08-28"
+last_updated: "2020-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2020.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
 
@@ -85,55 +85,71 @@ VII. Centro Estatal de Información: El Centro Estatal de Información de Seguri
 
 VIII. Centro: El Centro Estatal de Certificación, Acreditación y Control de Confianza;
 
-IX. Congreso: El Congreso del Estado de Michoacán de Ocampo;
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2020)</small>
 
-X. Consejo Intermunicipal: El que se constituye con la participación de dos o más municipios;
+IX. Comisario Jefe: El integrante de la Guardia Nacional quien ejercerá su autoridad en el ámbito territorial de una entidad federativa;
 
-XI. Consejo Municipal: El Consejo Municipal de Seguridad Pública;
+X. Congreso: El Congreso del Estado de Michoacán de Ocampo;
 
-XII. Consejo: El Consejo Estatal de Seguridad Pública;
+XI. Consejo Intermunicipal: El que se constituye con la participación de dos o más municipios;
 
-XIII. Constitución Estatal: La Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
+XII. Consejo Municipal: El Consejo Municipal de Seguridad Pública;
 
-XIV. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
+XIII. Consejo: El Consejo Estatal de Seguridad Pública;
 
-XV. Cuerpos de Seguridad: Las corporaciones de Seguridad Pública;
+XIV. Constitución Estatal: La Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
 
-XVI. Elementos de seguridad pública: Integrantes de los cuerpos de seguridad;
+XV. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
-XVII. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
+XVI. Cuerpos de Seguridad: Las corporaciones de Seguridad Pública;
 
-XVIII. Instituciones de Procuración de Justicia: Las Instituciones del Estado que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
+XVII. Elementos de seguridad pública: Integrantes de los cuerpos de seguridad;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+XVIII. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
-XIX. Instituciones de Seguridad Pública: La Fiscalía General del Estado, la Secretaría, los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la Seguridad Pública del Estado y sus municipios, que realicen funciones similares;
-
-XX. Institutos: Los órganos de las instituciones de Seguridad Pública del Estado encargados de la formación de aspirantes y servidores públicos de las funciones ministerial, pericial y de la policía;
-
-XXI. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
-
-XXII. Ley: La Ley del Sistema Estatal de Seguridad Pública de Michoacán de Ocampo;
-
-XXIII. Presidente: El Presidente del Consejo;
-
-XXIV. Prestadores de servicio: Las personas físicas o jurídicas, que habiendo obtenido autorización, presten el servicio de seguridad privada;
+XIV. Instituciones de Procuración de Justicia: Las Instituciones del Estado que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-XXV. Fiscalía: La Fiscalía General del Estado;
+XX. Instituciones de Seguridad Pública: La Fiscalía General del Estado, la Secretaría, los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la Seguridad Pública del Estado y sus municipios, que realicen funciones similares;
 
-XXVI. Programa Rector: El conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las instituciones de Seguridad Pública e instituciones de procuración de justicia, respectivamente;
+XXI. Institutos: Los órganos de las instituciones de Seguridad Pública del Estado encargados de la formación de aspirantes y servidores públicos de las funciones ministerial, pericial y de la policía;
 
-XXVII. Programa: El Programa Estatal de Seguridad Pública;
+XXII. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
 
-XXVIII. Secretaría: La Secretaría de Seguridad Pública;
+XXIII. Ley: La Ley del Sistema Estatal de Seguridad Pública de Michoacán de Ocampo;
 
-XXIX. Secretario Ejecutivo: El Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+XXIV. Presidente: El Presidente del Consejo;
 
-XXX. Sistema: El Sistema Estatal de Seguridad Pública; y,
+XXV. Prestadores de servicio: Las personas físicas o jurídicas, que habiendo obtenido autorización, presten el servicio de seguridad privada;
 
-XXXI. Titular del Poder Ejecutivo: El Gobernador Constitucional del Estado de Michoacán de Ocampo.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XXVI. Fiscalía: La Fiscalía General del Estado;
+
+XXVII. Programa Rector: El conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las instituciones de Seguridad Pública e instituciones de procuración de justicia, respectivamente;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+XXVIII. Registro Nacional: Al Registro Nacional de Detenciones de la la (sic) Secretaría de Seguridad y Protección Ciudadana, o cualquier denominación que reciba la Secretaría de Seguridad Pública del Gobierno Federal;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+XXIX. Secretaría Nacional: La Secretaría de Seguridad y Protección Ciudadana, o cualquier denominación que reciba la Secretaría de Seguridad Pública del Gobierno Federal;
+
+XXX. Programa: El Programa Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+XXXI. Sistema de Consulta: Al Sistema de Consulta del Registro Nacional de Detenciones;
+
+XXXII. Secretaría: La Secretaría de Seguridad Pública;
+
+XXXIII. Secretario Ejecutivo: El Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+XXXIV. Sistema: El Sistema Estatal de Seguridad Pública; y,
+
+XXXV. Titular del Poder Ejecutivo: El Gobernador Constitucional del Estado de Michoacán de Ocampo.
 
 ### CAPÍTULO SEGUNDO. COORDINACIÓN EN MATERIA DE SEGURIDAD PÚBLICA
 
@@ -336,6 +352,10 @@ El Presidente del Consejo será suplido en sus ausencias por el Secretario de Se
 ###### Artículo 19.
 
 Podrán formar parte del Consejo con voz pero sin voto, a invitación del Presidente las personas, instituciones públicas, privadas, organismos no gubernamentales y sociedad civil constituida, que a juicio del Consejo puedan aportar conocimientos y experiencias para el cumplimiento de los objetivos y fines de la seguridad pública.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2020)</small>
+
+El Presidente del Consejo deberá invitar a un integrante de la Guardia Nacional, que tendrá como mínimo el nivel de mando de Comisario Jefe de la Coordinación Estatal de acuerdo con la estructura orgánica de la institución, con la finalidad de procurar su participación en las tareas de seguridad en el Estado. Podrá formar parte del Consejo con derecho a voz pero sin voto.
 
 La participación de los integrantes del Consejo será con carácter honorífico.
 
@@ -657,9 +677,11 @@ VII. Brindar asesoría a las instituciones de Seguridad Pública para la integra
 
 #### SECCIÓN ÚNICA. REGISTRO ADMINISTRATIVO DE DETENCIONES
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2020)</small>
+
 ###### Artículo 40.
 
-Los policías que realicen detenciones, deberán dar aviso administrativo de inmediato al Centro Estatal de Información, quien reportará de inmediato al Centro Nacional de Información, de la detención, a través del Informe Policial Homologado.
+Cualquier integrante de las instituciones de seguridad pública o de procuración de justicia que realicen detenciones, detención en flagrancia, orden de aprehensión, caso urgente, retención ministerial, prisión preventiva, o por encontrarse cumpliendo pena o por arresto administrativo, deberán dar aviso administrativo de inmediato al Centro Estatal de Información, quien reportará de inmediato al Centro Nacional de Información, de la detención, a través del Informe Policial Homologado.
 
 ###### Artículo 41.
 
@@ -673,41 +695,97 @@ III. Motivo, circunstancias generales, lugar y hora en que se haya practicado la
 
 IV. Nombre de quien o quienes hayan intervenido en la detención. En su caso, rango y área de adscripción; y,
 
-V. Lugar a donde será trasladado el detenido.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+V. Lugar a donde será trasladado y autoridad ante la cual se pondrá a disposición a la persona detenida.
 
 ###### Artículo 42.
 
 El Ministerio Público deberá actualizar la información relativa al Registro Administrativo de Detenciones, tan pronto reciba a su disposición al detenido, recabando lo siguiente:
 
-I. Nombre;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2020)</small>
 
-II. Domicilio, fecha de nacimiento, estado civil, grado de estudios y ocupación o profesión;
+I. Datos de la persona detenida, que serán:
 
-III. Clave Única de Registro de Población;
+a) Lugar y fecha de nacimiento;
 
-IV. Descripción del estado físico del detenido;
+b) Domicilio;
 
-V. Huellas dactilares;
+c) Nacionalidad y lengua nativa;
 
-VI. Identificación antropométrica; y,
+d) Estado civil;
 
-VII. Otros medios que permitan la identificación del individuo.
+e) Escolaridad;
+
+f) Ocupación o profesión;
+
+g) Clave Única de Registro de Población;
+
+h) Grupo étnico al que pertenezca;
+
+i) Descripción del estado físico de la persona detenida y nombre del médico que certificó o, en su caso, copia del certificado médico;
+
+j) Huellas dactilares;
+
+k) Fotografía de la persona detenida; y,
+
+l) Otros medios que permitan la identificación plena de la persona.
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+II. Número de carpeta de investigación o expediente administrativo y, tratándose de reincidencia, delito por el que fue sentenciado y pena impuesta;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+III. Adicciones, estado general de salud, enfermedades o padecimientos croìnicos (sic) o degenerativos;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+IV. Nombre y cargo del servidor público que actualiza el registro, así como área de adscripcioìn; (sic)
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+V. Día y hora de la liberación de la persona detenida o, en su caso, del traslado a otro lugar de detención;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+VI. Descripción mínima de la ruta sobre el traslado y la autoridad encargada del mismo;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+VII. Autoridad que recibe a la persona detenida, así como el día y hora de la recepción;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+VIII. En caso de fallecimiento durante la detención o privación de libertad, las circunstancias y causas del deceso y el destino final de la persona fallecida; y,
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+IX. Los demás datos que determine el Centro Nacional de Información conforme a sus atribuciones, que permitan atender el objeto de la Ley Nacional de Detenciones.
 
 ###### Artículo 43.
 
 El Ministerio Público y la policía deberán informar a los familiares del detenido, si así lo solicitan y, en su caso, a la autoridad a cuya disposición se encuentre.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2020)</small>
+
 ###### Artículo 44.
 
-La información capturada en el Registro Administrativo de Detenciones será confidencial y reservada. A la información contenida en el Registro sólo podrán tener acceso:
+La información capturada en el Registro Administrativo de Detenciones deberá respetar el manejo de datos personales de conformidad con la legislación en la materia. A la información contenida en el Registro podrán tener acceso:
 
 I. Las autoridades competentes en materia de investigación y persecución del delito, para los fines que se prevean en los ordenamientos legales aplicables; y,
 
 II. Los imputados, acusados y sentenciados, estrictamente para la rectificación de sus datos personales y para solicitar que se asiente en el mismo el resultado del procedimiento penal, en términos de las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2020)</small>
+
+Toda persona interesada podrá tener acceso al Sistema de Consulta, únicamente en los términos que disponga la Ley Nacional del Registro de Detenciones y los lineamientos emitidos por la Secretaría Nacional para el acceso a la información contenida en el Registro Nacional de Detenciones, para lo cual deberá proporcionar los datos de la persona que desea localizar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2020)</small>
+
 ###### Artículo 45.
 
-Bajo ninguna circunstancia se podrá proporcionar información contenida en el Registro Administrativo de Detenciones a terceros, éste no podrá ser utilizado como base de discriminación, vulneración de la dignidad, intimidad, privacidad u honra de persona alguna.
+Bajo ninguna circunstancia se podrá proporcionar información contenida en el Registro Administrativo de Detenciones a terceros salvo las excepciones que establezcan la propia Ley, y/o la Ley Nacional de Detenciones, dicha información no podrá ser utilizada como base de discriminación, vulneración de la dignidad, intimidad, privacidad u honra de persona alguna.
 
 Al servidor público que quebrante la reserva del Registro Administrativo de Detenciones o proporcione información sobre el mismo, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
 
@@ -1259,7 +1337,9 @@ III. Los diputados federales y locales de los distritos electorales;
 
 IV. Los elementos con la mayor jerarquía de la Policía Estatal Preventiva con residencia en la región;
 
-V. Los Comandantes de los resguardos navales y militares con residencia en la región; y,
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2020)</small>
+
+V. Los Comandantes de los resguardos navales, militares y de la Guardia Nacional con residencia en la región; y,
 
 VI. Los representantes o personas de las instituciones públicas, privadas, organismos no gubernamentales y sociedad civil constituida.
 
@@ -1403,7 +1483,13 @@ c) Reacción, que será la encargada de garantizar, mantener y restablecer el or
 
 d) Seguridad y Custodia, que será la encargada de vigilar el orden y la seguridad de los centros de reinserción social y centros preventivos, así como de impedir que los procesados y sentenciados se sustraigan de la acción de la justicia y proveer los apoyos que la autoridad judicial requiera para el cumplimiento de sus resoluciones. También será la encargada de coadyuvar con las autoridades jurisdiccionales garantizando el mantenimiento del orden y la seguridad de los recintos judiciales, de las audiencias y diligencias que ordene la autoridad judicial, así como de excarcelar y trasladar a los internos, de conformidad con las órdenes que al efecto se dicten por las autoridades competentes; y,
 
-e) Las demás que se constituyan conforme a la legislación en la materia.
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2020)</small>
+
+e) Proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad local.
+
+Las funciones de proximidad tienen por objeto la posibilidad de habilitar mecanismos de recepción de denuncias, a través de estaciones fijas y móviles de policía, creando y adoptando un formato de denuncia acorde con los establecidos por esta Ley y la Fiscalía General del Estado para el registro de los delitos que las víctimas reporten; y,
+
+f) Las demás que se constituyan conforme a la legislación en la materia.
 
 II. La Policía Auxiliar, tendrá por objeto prestar el servicio de seguridad a empresas o particulares que lo requieran, siendo una función a cargo de la Secretaría, la Policía Auxiliar será un organismo público descentralizado sectorizado a la Secretaría, que se integrará con la estructura y funciones que se señalen en la normatividad vigente.
 
@@ -2248,3 +2334,21 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO VIGÉSIMO TERCERO.- SE REFORMAN LAS FRACCIONES XIX Y XXV DEL ARTÍCULO 5, LA FRACCIÓN II DEL ARTÍCULO 14, EL PRIMER PÁRRAFO Y LAS FRACCIONES X Y XI DEL ARTÍCULO 15, LA FRACCIÓN III DEL ARTÍCULO 18, LA FRACCIÓN VII DEL ARTÍCULO 28, EL PÁRRAFO TERCERO DEL ARTÍCULO 37, LA FRACCIÓN IV DEL ARTÍCULO 70, LA FRACCIÓN I DEL ARTÍCULO 97 Y EL ARTÍCULO 154 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 7 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 319.- ÚNICO. SE REFORMAN EL ARTÍCULO 40, LA FRACCIÓN V DEL ARTÍCULO 41, LAS FRACCIONES I, II, III, IV, V, VI Y VII DEL ARTÍCULO 42, ARTÍCULO 44, 45 Y LA FRACCIÓN V DEL ARTÍCULO 97; Y, SE ADICIONAN LAS FRACCIONES IX, XXVIII, XXIX Y XXXI, AJUSTÁNDOSE LAS SUBSECUENTES FRACCIONES DEL ARTÍCULO 5; UN SEGUNDO PÁRRAFO AL ARTÍCULO 19, LAS FRACCIONES VIII, Y IX AL ARTÍCULO 42, UN SEGUNDO PÁRRAFO AL ARTÍCULO 44, EL INCISO E) A LA FRACCIÓN I DEL ARTÍCULO 104, AJUSTÁNDOSE EL SUBSECUENTE INCISO, TODOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Poder Ejecutivo del Estado de Michoacán y los gobiernos municipales deberán realizar los ajustes presupuestarios necesarios para lograr la compatibilidad de los servicios de telecomunicaciones para un eficaz funcionamiento del Registro Nacional de Detenciones, los cuales deberán considerarse dentro de los proyectos de leyes de ingresos municipales para el ejercicio 2021.
+
+La previsión presupuestaria disponible procurará que la autoridad estatal y las autoridades municipales, en sus respectivas instituciones de seguridad pública y procuración de justicia cuenten con dispositivos de geolocalización para registrar la ruta de traslado de las personas detenidas.
+
+TERCERO. Las disposiciones relativas a la participación de las instituciones de seguridad pública y de procuración de justicia que estén obligadas a suministrar y actualizar la información que diariamente se genere sobre el registro de detenciones en materia de delitos federales, delitos del fuero común y detenciones de carácter administrativo, deberán ajustarse constantemente de conformidad con los Programas o Lineamientos que establezca el Sistema Nacional de Seguridad Pública para la debida instrumentación del Registro Nacional de Detenciones.
+
+En cualquier caso, el cumplimiento de la obligación de suministrar y actualizar la información relativa a las detenciones entrará en vigor a los 30 días de publicado el presente Decreto, teniendo que adecuarse en el mismo plazo cuando existan modificaciones más recientes de conformidad con los lineamientos generales emitidos por las autoridades federales en materia de Registro de Detenciones, las establecidas por la Ley General del Sistema Nacional de Seguridad Pública y las aprobadas dentro de la presente Ley.
+
+Esta disposición no exime de la obligación de las autoridades estatales y municipales de suministrar en todo momento la información sobre las detenciones realizadas ajustándose a los requisitos que marca la normativa vigente previo a la presente reforma, y las cuales serán aplicables hasta en tanto se hayan realizado los ajustes necesarios a los formatos de captura de la información sobre detenciones.
+
+CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva.
