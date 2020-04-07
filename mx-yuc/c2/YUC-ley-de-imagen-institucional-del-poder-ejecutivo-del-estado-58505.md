@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-imagen-institucional-del-poder-ejecutivo-del-estado-5850
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-15"
-last_updated: "2007-12-15"
+last_updated: "2020-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE IMAGEN INSTITUCIONAL DEL PODER EJECUTIVO DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE YUCATÁN Y SUS MUNICIPIOS, PUBLICADA EN EL D.O. DE 7 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE IMAGEN INSTITUCIONAL DEL PODER EJECUTIVO DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE ABRIL DE 2020 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 15 de diciembre de 2007.
 
@@ -120,3 +122,21 @@ GOBERNADOR DEL ESTADO
 C. ROLANDO RODRIGO ZAPATA BELLO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 7 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 204/2020 POR EL QUE SE EXPIDE LA LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE YUCATÁN Y SUS MUNICIPIOS”.]
+
+Artículo primero. Entrada en vigor
+
+Esta ley entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Abrogación de la ley
+
+Se abroga la Ley de Imagen Institucional del Poder Ejecutivo del Estado de Yucatán, publicada mediante decreto número 36 el 15 de diciembre de 2007 en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo tercero. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
