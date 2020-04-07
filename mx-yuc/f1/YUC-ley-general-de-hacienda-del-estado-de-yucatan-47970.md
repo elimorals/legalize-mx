@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2019-12-31"
+last_updated: "2020-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE ABRIL DE 2020.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -1041,9 +1041,7 @@ XVI.- Derechos por los servicios que preste el Poder Judicial del Estado;
 
 XVII.- Derechos por el permiso anual de carga y descarga o transporte de carga en la vía pública, para vehículos del servicio particular o del servicio público, y
 
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XVIII.- Derechos por la infraestructura tecnológica en materia de seguridad pública.
+XVIII.- (DEROGADA, D.O. 7 DE ABRIL DE 2020)
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
@@ -3805,37 +3803,9 @@ XXI.- Por el permiso eventual para prestar el servicio particular de transporte 
 
 Los derechos por los servicios previstos en las fracciones X y XI de este artículo serán aplicables únicamente en caso de que el área a evaluar pertenezca a un municipio que no preste los referidos servicios o a solicitud de este.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE ABRIL DE 2020)</small>
 
 ### CAPÍTULO XXVII. DERECHOS POR LA INFRAESTRUCTURA TECNOLÓGICA EN MATERIA DE SEGURIDAD PÚBLICA
-
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 85 Y.- Son sujetos del derecho por la infraestructura tecnológica en materia de seguridad pública los propietarios o poseedores de predios ubicados en el estado de Yucatán.
-
-Es objeto de este derecho el aprovechamiento del servicio y mantenimiento de la infraestructura tecnológica de seguridad pública de la que gozan los habitantes del estado de Yucatán.
-
-Para efectos de este capítulo se entiende por infraestructura tecnológica, todos los bienes tecnológicos que el Estado emplea, adicionalmente, para el mejoramiento de la seguridad pública de la comunidad, en lugares de uso común.
-
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 85 Z.- La cuota mensual por el derecho previsto en este capítulo será de 3.44 UMA. Dicha cuota no podrá ser mayor que la cantidad que resulte de aplicar el 8% a las cantidades que el contribuyente deba pagar en particular, por su consumo al suministrador de servicios básicos.
-
-El derecho se causará mensualmente y el pago se hará dentro de los sesenta días posteriores al mes en que se cause, dicho pago deberá realizarse en las oficinas o medios autorizados por la Agencia de Administración Fiscal de Yucatán.
-
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 85 AA.- Están exentos del pago de este derecho la federación, el estado y los municipios, respecto de los bienes de dominio público destinados exclusivamente a la consecución de su objeto público o a la prestación de un servicio público.
-
-También quedarán exentos del pago de este derecho los propietarios o poseedores de predios cuya cantidad mensual a pagar por su consumo al suministrador de servicios básicos sea igual o menor a 1.18 UMA.
-
-De igual forma, se exenta del pago de este derecho a los propietarios o poseedores de predios ubicados en los distritos de riego destinados a la extracción de agua con fines agrícolas y pecuarios.
-
-> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 85 AB.- Para efectos del cobro de este derecho el Estado podrá celebrar convenios, en estos casos se deberá incluir el importe de este derecho en el documento que para tal efecto expida el organismo, entidad o empresa, debiéndose pagar en el plazo y en las oficinas autorizadas por la Agencia de Administración Fiscal de Yucatán.
-
-Derivado de los convenios que el estado celebre, los plazos de pago a que se refiere el artículo anterior podrán ajustarse para coincidir con el periodo de pago establecido con el servicio de cobro convenido.
 
 ###### ARTÍCULO 85-R.
 
@@ -3868,6 +3838,22 @@ Derivado de los convenios que el estado celebre, los plazos de pago a que se ref
 ### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 85-Y.
+
+(DEROGADO, D.O. 7 DE ABRIL DE 2020)
+
+###### ARTÍCULO 85-Z.
+
+(DEROGADO, D.O. 7 DE ABRIL DE 2020)
+
+###### ARTÍCULO 85
+
+AA.- (DEROGADO, D.O. 7 DE ABRIL DE 2020)
+
+###### ARTÍCULO 85
+
+AB.- (DEROGADO, D.O. 7 DE ABRIL DE 2020)
 
 ### CAPÍTULO ÚNICO
 
@@ -4333,9 +4319,11 @@ D.O. 31 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 155/2019 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN".]
 
-Primero. Entrada en vigor y vigencia
+> <small>(REFORMADO, D.O. 7 DE ABRIL DE 2020)</small>
 
-Este decreto entrará en vigor el 1 de enero de 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el artículo 10, que lo hará el 1 de marzo de 2020, y lo establecido en el artículo 24, que entrará en vigor el 1 de enero de 2021. El derecho previsto en el capítulo XXVII del título tercero de la Ley General de Hacienda del Estado de Yucatán tendrá una vigencia de cinco años, que concluirá el 31 de diciembre de 2024.
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el artículo 10, que lo hará el 1 de marzo de 2020, y lo establecido en el artículo 24, que entrará en vigor el 1 de enero de 2021.
 
 Segundo. Emisión de la tabla de valores
 
@@ -4349,12 +4337,20 @@ Cuarto. Contratos vigentes
 
 Las personas físicas, personas morales o unidades económicas que tengan contratos de prestación de servicios de personal a que se refiere el capítulo III del título segundo de la Ley General de Hacienda del Estado de Yucatán vigentes a la entrada en vigor de este decreto, deberán presentar el aviso a que se refiere el artículo 22 Ter o la fracción III del artículo 27-E, de dichos contratos, dentro del período comprendido del 15 al 30 de marzo de 2020.
 
-Quinto. Vigencia del capítulo XXVII del título tercero de la Ley General de Hacienda del Estado de Yucatán
-
-El capítulo XXVII del título tercero de la Ley General de Hacienda del Estado de Yucatán que regula los derechos por la infraestructura tecnológica en materia de seguridad pública, estará vigente hasta en tanto que el Poder Ejecutivo del Estado obtenga los recursos necesarios para garantizar el servicio y mantenimiento de la infraestructura tecnológica de seguridad pública de la que gozan los habitantes del estado de Yucatán.
-
-El Poder Ejecutivo del Estado, al obtener los recursos a los que se refiere el párrafo anterior, lo comunicará al Poder Legislativo del Estado para que, previo trámite legislativo, se ordene la derogación del citado derecho, lo anterior sin menoscabo de lo dispuesto en la parte final del artículo primero transitorio.
+Quinto. (DEROGADO, D.O. 7 DE ABRIL DE 2020)
 
 Sexto. Grupo de Vinculación y Coordinación Fiscal
 
 A la entrada en vigor de este decreto se creará un grupo de trabajo en materia fiscal a efecto de que en el presente ejercicio presupuestal se diseñe una estrategia para vincular y coordinar el cobro del impuesto predial municipal a derechos estatales de tal modo que se logre incrementar la hacienda municipal.
+
+D.O. 7 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 205/2020 POR EL QUE SE MODIFICAN LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN Y LA LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2020, EN MATERIA DE DEROGACIÓN DEL DERECHO POR LA INFRAESTRUCTURA TECNOLÓGICA EN MATERIA DE SEGURIDAD PÚBLICA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Ajustes presupuestales
+
+El Poder Ejecutivo del Estado a través de la Secretaría de Administración y Finanzas deberá realizar los ajustes al Presupuesto de Egresos del Gobierno del Estado de Yucatán para el Ejercicio Fiscal 2020, en cumplimiento al principio de balance presupuestario y a lo dispuesto en la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán, su reglamento y demás normativa aplicable.
