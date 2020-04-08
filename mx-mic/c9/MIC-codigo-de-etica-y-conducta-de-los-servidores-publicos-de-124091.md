@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-etica-y-conducta-de-los-servidores-publicos-de-124091
 country: "mx"
 rank: "codigo"
 publication_date: "2017-09-18"
-last_updated: "2017-09-18"
+last_updated: "2020-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2020 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 18 de septiembre de 2017.
 
@@ -654,3 +654,13 @@ LA SECRETARIA DE CONTRALORÍA
 M.I. SILVIA ESTRADA ESQUIVEL
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA Y CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Quedan abrogadas las Reglas de Integridad para el Ejercicio del Servicio Público del Estado de Michoacán, publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, Tomo CLXV, octava sección, número 85, de fecha 26 de octubre de 2016, así como el Acuerdo por el que se expide el Código de Ética y Conducta de los servidores públicos de las dependencias y entidades del Poder Ejecutivo del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, Tomo CLXVIII, segunda sección, número 18, de fecha 18 de septiembre de 2017.
