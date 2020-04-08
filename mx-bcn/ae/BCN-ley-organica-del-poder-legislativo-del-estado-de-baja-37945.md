@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2019-08-02"
+last_updated: "2020-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 2 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 8 DE ABRIL DE 2020.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -91,7 +91,7 @@ Cuando sin mediar autorización se hiciere presente la fuerza pública, el Presi
 
 Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Poder Legislativo, ni sobre las personas o bienes de los Diputados al interior del edificio del Poder Legislativo o del recinto parlamentario que se habilite en términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.P. 8 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 9.
 
@@ -103,15 +103,11 @@ El desempeño de las funciones de los Diputados durante tres años, constituye u
 
 Los Períodos, se constituyen por la realización de una serie continuada de sesiones durante un determinado lapso de tiempo.
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
 La sesión, es la reunión oficial de los integrantes del Pleno del Congreso del Estado, en el recinto parlamentario denominado "Benito Juárez García"; podrá habilitar otro lugar como recinto parlamentario mediante acuerdo aprobado por mayoría calificada.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+Cuando por caso fortuito o causas de fuerza mayor, sea imposible llevar a cabo la sesión en el recinto parlamentario, el presidente de la Mesa Directiva, por acuerdo de la Junta de Coordinación Política, podrá convocar a los Diputados en el lugar distinto a este, debiendo hacerlo por escrito especificando únicamente los temas a tratar, por tratarse de una ocasión extraordinaria.
 
-Cuando por caso fortuito o causas de fuerza mayor, sea imposible llevar a cabo la sesión en el recinto parlamentario, el Presidente de la Mesa Directiva, por acuerdo de la Junta de Coordinación Política, podrá convocar a los Diputados en el lugar distinto a este, debiendo hacerlo por escrito especificando únicamente los temas a tratar, por tratarse de una ocasión extraordinaria.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+Tratándose de sucesos señalados en el párrafo anterior, que imposibiliten que las y los diputados puedan reunirse a sesionar de manera presencial, por haberse decretado una medida de seguridad por la autoridad competente, el presidente de la Mesa Directiva o los presidentes de las comisiones de trabajo, por acuerdo de la Junta de Coordinación Política, podrán convocar a los Diputados a sesión virtual de pleno o de comisiones respectivamente, con el propósito de evitar poner en riesgo la salud del público en general, así como de los legisladores y del personal que labora en el Congreso del Estado, debiendo hacerlo por escrito o vía electrónica, especificando únicamente los temas a tratar, por tratarse de una ocasión extraordinaria.
 
 Asimismo, se denominan sesiones las reuniones de los integrantes de las Comisiones, en la sala de juntas de las mismas o en la que se acuerde, para tratar todo lo inherente al desarrollo de sus funciones.
 
@@ -3086,3 +3082,9 @@ G.P. 2 DE AGOSTO DE 2019.
 > <small>[N. DE E. TRANSITORIO POR MEDIO DEL CUAL "SE SUPRIME LA ÚLTIMA PARTE DEL CUARTO PÁRRAFO DEL ARTÍCULO 27 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]</small>
 
 ÚNICO.- Toda vez que las presentes reformas solo implican modificaciones al régimen interno del Poder Legislativo, entrarán en vigor al momento de su aprobación por la mayoría calificada del Pleno de este Honorable Congreso del Estado y se publicarán en la Gaceta del Poder Legislativo.
+
+G.P. 8 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA "INICIATIVA POR LA QUE SE REFORMA EL ARTÍCULO 9 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Toda vez que la presente reforma solo implica modificaciones al régimen interno del Poder Legislativo, entrarán en vigor al momento de su aprobación por la mayoría calificada del Pleno de este Honorable Congreso del Estado y se publicarán en la Gaceta del Poder Legislativo.
