@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10095
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-30"
-last_updated: "2019-12-10"
+last_updated: "2020-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2020.
 
 Ley publicada en la Sexagésima Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2013.
 
@@ -527,9 +527,19 @@ I. Verificar el cumplimiento de los requisitos señalados por esta Ley y demás 
 
 II. Informar a la autoridad responsable de la detección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños, y solicitar su oportuna actuación.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 41.
 
-El Estado y los Municipios se coordinarán con el Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para implementar el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación que establece la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
+El Estado y los Municipios se coordinarán con el Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para implementar el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento, que establece la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, debiendo observarse, entre otros, el cumplimiento de los siguientes objetivos:
+
+I. Garantizar el mejoramiento progresivo y el fortalecimiento de los servicios para la atención, cuidado y desarrollo integral infantil;
+
+II. Establecer, en el marco de la coordinación entre dependencias y autoridades competentes en los ámbitos estatal y municipal, los mecanismos de colaboración técnico operativos para lograr una vigilancia efectiva del cumplimiento de la presente Ley y su Reglamento;
+
+III. Evitar la discrecionalidad y la corrupción en la asignación de autorizaciones para prestar servicios para la atención, cuidado y desarrollo integral infantil; y
+
+IV. Garantizar la detección y corrección eficaz y oportuna de cualquier riesgo que ponga en peligro la integridad física o psicológica de las niñas y los niños.
 
 ###### ARTÍCULO 42.
 
@@ -644,6 +654,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 10 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 41 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
