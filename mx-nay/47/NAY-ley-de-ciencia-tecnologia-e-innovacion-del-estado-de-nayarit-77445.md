@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nayarit-77
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-23"
-last_updated: "2016-11-08"
+last_updated: "2020-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 2020 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 23 de octubre de 2010.
 
@@ -195,27 +197,43 @@ Son miembros del Consejo General:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. Los titulares de las siguientes dependencias de la Administración Pública Estatal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ABRIL DE 2020)</small>
 
-a) Secretaría de Planeación, Programación y Presupuesto;
+II. Los titulares de las siguientes dependencias y entidades de la Administración Pública Estatal:
 
-b) Secretaría de Hacienda;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2020)</small>
 
-c) Secretaría de Administración;
+a) Secretaría de Desarrollo Sustentable;
 
-d) Secretaría del Medio Ambiente;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2020)</small>
 
-e) Secretaría de Desarrollo Económico;
+b) Secretaría de Administración y Finanzas;
 
-f) Secretaría de Desarrollo Rural;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2020)</small>
 
-g) Secretaría de Educación Básica;
+c) Secretaría de Economía;
 
-h) Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2020)</small>
 
-i) Secretaría de Salud, y
+d) Secretaría de Desarrollo Rural;
 
-j) Servicios de Educación Pública del Estado de Nayarit.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2020)</small>
+
+e) Secretaría de Educación;
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2020)</small>
+
+f) Secretaría de Salud, y
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2020)</small>
+
+g) Servicios de Educación Pública del Estado de Nayarit.
+
+h) (DEROGADO, P.O. 8 DE ABRIL DE 2020)
+
+i) (DEROGADO, P.O. 8 DE ABRIL DE 2020)
+
+j) (DEROGADO, P.O. 8 DE ABRIL DE 2020)
 
 III. El Director General, en su carácter de Secretario Ejecutivo;
 
@@ -495,9 +513,19 @@ VII. Otorgar estímulos y reconocimientos a instituciones, empresas, investigado
 
 VIII. Los demás que acuerde la Junta de Gobierno en fomento a la ciencia, la tecnología y la innovación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2020)</small>
+
 ###### Artículo 23.
 
-En ningún caso, los recursos que constituyen el Fondo se destinarán a sufragar gastos que deriven a fines distintos a los enumerados en el artículo anterior.
+En ningún caso, los recursos que constituyen el Fondo se destinarán a sufragar gastos que deriven a fines distintos a los enumerados en el artículo anterior. Se exceptúan de dicha prohibición los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador, conforme a lo dispuesto por la Ley Electoral del Estado de Nayarit, los cuales podrán ser destinados también a la atención de contingencias o emergencias sanitarias declaradas por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2020)</small>
+
+En caso de que se haga uso de los recursos del Fondo para el caso de excepción señalado en el presente artículo, será aplicable la Ley de Adquisiciones, Arrendamientos, Servicios y Almacenes del Estado de Nayarit; y deberán considerarse los principios de eficacia, eficiencia, transparencia y rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2020)</small>
+
+Asimismo, se deberá entregar un informe al Congreso del Estado sobre los recursos públicos ejercidos en el caso de excepción referido.
 
 ###### Artículo 24.
 
@@ -599,33 +627,35 @@ XXVIII. Las demás que le confieran otras disposiciones legales para el cumplimi
 
 Para el cumplimiento de sus objetivos y el desempeño de sus funciones, el COCYTEN contará con una Junta de Gobierno que será el órgano rector de su funcionamiento y un Director General.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2020)</small>
+
 ###### Artículo 31.
 
-La Junta de Gobierno es el órgano superior de gobierno y administración del COCYTEN y estará integrado por los siguientes miembros:
+La Junta de Gobierno es el órgano superior de gobierno y administración del COCYTEN.
+
+La Junta de Gobierno se integrará por los siguientes miembros:
 
 I. Por el Gobernador Constitucional del Estado, quien lo presidirá, o la persona que éste designe;
 
-II. Secretario de Planeación, Programación y Presupuesto;
+II. Las personas titulares de las siguientes dependencias de la administración pública estatal:
 
-III. Secretario General de Gobierno;
+a) Secretaría de Desarrollo Sustentable;
 
-IV. Secretario de Hacienda;
+b) Secretaría General de Gobierno;
 
-V. Secretario de Administración;
+c) Secretaría de Administración y Finanzas;
 
-VI. Secretario de Educación Básica;
+d) Secretaría de Educación;
 
-VII. Secretario de Educación Media Superior, Superior e Investigación Científica y Tecnológica;
+e) Secretaría de Economía;
 
-VIII. Secretario de Desarrollo Económico;
+f) Secretaría de Desarrollo Rural;
 
-IX. Secretario de Desarrollo Rural;
+g) Secretaría de la Contraloría General, únicamente con derecho a voz, y
 
-X. Secretario de Salud;
+h) Secretaría de Salud.
 
-XI. Secretario de Medio Ambiente, y
-
-XII. Por todos aquellos Servidores Públicos y personas que considere necesarias y, en su caso, designe el Gobernador del Estado.
+III. Aquellos servidores públicos y personas que considere necesarias y, en su caso, designe el Gobernador del Estado.
 
 ###### Artículo 32.
 
@@ -972,3 +1002,15 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT”.]
 
 Único. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado de Nayarit, para los efectos conducentes.
+
+TERCERO.- Comuníquese el presente Decreto a las personas titulares de las dependencias y entidades de la Administración Pública Estatal, referidas en los artículos 8 y 31, respectivamente, para los efectos conducentes.
+
+CUARTO.- Comuníquese el presente Decreto al Consejo de Ciencia y Tecnología del Estado de Nayarit, para los efectos conducentes.
