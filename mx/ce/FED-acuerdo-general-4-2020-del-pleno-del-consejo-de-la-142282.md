@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-4-2020-del-pleno-del-consejo-de-la-142282"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-03-20"
-last_updated: "2020-03-20"
+last_updated: "2020-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142282&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2020-03-17"
 ---
 # ACUERDO GENERAL 4/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LAS MEDIDAS DE CONTINGENCIA EN LOS ORGANOS JURISDICCIONALES POR EL FENOMENO DE SALUD PUBLICA DERIVADO DEL VIRUS COVID-19]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ABRIL DE 2020 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL 4/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS DE CONTINGENCIA EN LOS ÓRGANOS JURISDICCIONALES POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE ABRIL DE 2020.]</small>
 
 Acuerdo publicado en el Número 21 del Diario Oficial de la Federación, el viernes 20 de marzo de 2020.
 
@@ -141,9 +141,11 @@ En aquellos circuitos donde sólo exista uno, será éste el que quedará de gua
 
 Asimismo, las sesiones relativas a la resolución de estos asuntos se celebrarán sin la presencia del público. En caso de así determinarlo conveniente el pleno del Tribunal Colegiado de Circuito y con la finalidad de evitar la concentración de personas, de manera extraordinaria las sesiones podrán celebrarse de forma remota. En todo caso, la Secretaría de Acuerdos hará constar en un acta el sentido y observaciones que cada integrante del Tribunal manifieste, ya sea vía telefónica, electrónica o por cualquier otro medio si no es posible que aquéllos se reúnan en la sala de sesiones correspondiente.
 
+> <small>(F. DE E., D.O.F. 9 DE ABRIL DE 2020)</small>
+
 ###### Artículo 10.
 
-El Pleno y la Comisión de Receso del Consejo de la Judicatura Federal interpretarán las cuestiones que se susciten con motivo de la aplicación del presente Acuerdo, en el ámbito de sus respectivas competencias. Tratándose de medidas de control sanitario, la Secretaría Ejecutiva de Administración y las áreas administrativas competentes ejecutarán lo dispuesto en el presente Acuerdo.
+El Pleno y la Comisión Especial del Consejo de la Judicatura Federal interpretarán las cuestiones que se susciten con motivo de la aplicación del presente Acuerdo, en el ámbito de sus respectivas competencias. Tratándose de medidas de control sanitario, la Secretaría Ejecutiva de Administración y las áreas administrativas competentes ejecutarán lo dispuesto en el presente Acuerdo.
 
 ## TRANSITORIOS
 
