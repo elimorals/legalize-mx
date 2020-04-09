@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2020-del-pleno-del-consejo-de-la-142283"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-03-20"
-last_updated: "2020-03-20"
+last_updated: "2020-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142283&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2020-03-17"
 ---
 # ACUERDO GENERAL 5/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LAS MEDIDAS DE CONTINGENCIA EN LAS AREAS ADMINISTRATIVAS DEL PROPIO CONSEJO POR EL FENOMENO DE SALUD PUBLICA DERIVADO DEL VIRUS COVID-19]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ABRIL DE 2020 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL 5/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS DE CONTINGENCIA EN LAS ÁREAS ADMINISTRATIVAS DEL PROPIO CONSEJO POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE ABRIL DE 2020.]</small>
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 20 de marzo de 2020.
 
@@ -49,9 +49,11 @@ ACUERDO
 
 Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 18 de marzo al 19 de abril de 2020.
 
+> <small>(F. DE E., D.O.F. 9 DE ABRIL DE 2020)</small>
+
 ###### Artículo 2.
 
-El Pleno del Consejo de la Judicatura Federal designa al Ministro Arturo Zaldívar Lelo de Larrea y al Consejero Alejandro Sergio González Bernabé para integrar la Comisión que deberá proveer los trámites y resolver los asuntos que se presenten durante el periodo señalado en el artículo anterior.
+El Pleno del Consejo de la Judicatura Federal designa al Ministro Arturo Zaldívar Lelo de Larrea y al Consejero Alejandro Sergio González Bernabé para integrar la Comisión Especial que deberá proveer los trámites y resolver los asuntos que se presenten durante el periodo señalado en el artículo anterior.
 
 Durante el mencionado periodo fungirá como Secretario de la Comisión Arturo Guerrero Zazueta, Secretario Ejecutivo del Pleno del Consejo. Al concluir el período de contingencia, la Comisión rendirá un informe al Pleno.
 
@@ -93,9 +95,11 @@ V. En caso de tener imposibilidad para atender la convocatoria, quienes integren
 
 VI. La o el servidor público que actúe como suplente deberá rendir un informe detallado y por escrito al integrante del Comité que lo designó, sobre su intervención y acuerdos adoptados, dentro del término de 5 días hábiles siguientes a que se reanuden las labores.
 
+> <small>(F. DE E., D.O.F. 9 DE ABRIL DE 2020)</small>
+
 ###### Artículo 6.
 
-En el caso de las obras cuya entrega o entregas estén calendarizadas o sujetas a plazos, las áreas administrativas, por conducto de la Secretaría Ejecutiva de Administración, solicitarán semanalmente a la Comisión de Receso los ajustes a dichos calendarios. A partir de la reanudación ordinaria de labores, las áreas encargadas de la supervisión de las mismas elaborarán un informe para conocimiento de los Comités respectivos y otro global para la Comisión de Administración.
+En el caso de las obras cuya entrega o entregas estén calendarizadas o sujetas a plazos, las áreas administrativas, por conducto de la Secretaría Ejecutiva de Administración, solicitarán semanalmente a la Comisión Especial los ajustes a dichos calendarios. A partir de la reanudación ordinaria de labores, las áreas encargadas de la supervisión de las mismas elaborarán un informe para conocimiento de los Comités respectivos y otro global para la Comisión de Administración.
 
 ###### Artículo 7.
 
@@ -113,9 +117,11 @@ Queda exceptuada de la medida anterior la atención de asuntos urgentes que por 
 
 Se suspenden totalmente las labores de los Centros de Desarrollo Infantil y Estancia Infantil del Consejo durante la duración de la presente contingencia.
 
+> <small>(F. DE E., D.O.F. 9 DE ABRIL DE 2020)</small>
+
 ###### Artículo 10.
 
-La Comisión de Receso del Consejo de la Judicatura Federal interpretará las cuestiones que se susciten con motivo de la aplicación del presente Acuerdo. Tratándose de medidas de control sanitario, la Secretaría Ejecutiva de Administración y las áreas administrativas competentes ejecutarán lo dispuesto en el presente Acuerdo.
+La Comisión Especial del Consejo de la Judicatura Federal interpretará las cuestiones que se susciten con motivo de la aplicación del presente Acuerdo. Tratándose de medidas de control sanitario, la Secretaría Ejecutiva de Administración y las áreas administrativas competentes ejecutarán lo dispuesto en el presente Acuerdo.
 
 ## TRANSITORIOS
 
