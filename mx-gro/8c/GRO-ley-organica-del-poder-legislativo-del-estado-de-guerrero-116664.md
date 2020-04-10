@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2020-03-31"
+last_updated: "2020-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -2491,7 +2491,9 @@ IX. De Participación Ciudadana;
 
 X. De Derechos Humanos;
 
-XI. De Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2020)</small>
+
+XI. De Transparencia y Anticorrupción;
 
 XII. De Atención a Migrantes;
 
@@ -2609,7 +2611,9 @@ V. Contraloría Interna;
 
 VI. Dirección de Comunicación;
 
-VII. Unidad de Transparencia;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2020)</small>
+
+VII. Unidad de Transparencia y Anticorrupción;
 
 VIII. Unidad para la Igualdad de Género;
 
@@ -2817,15 +2821,23 @@ VI. Proponer y participar en la edición, impresión y distribución de folletos
 
 VII. Las demás que le confieran otros ordenamientos.
 
-#### SECCIÓN IX. DE LA UNIDAD DE TRANSPARENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2020)</small>
+
+#### SECCIÓN IX. DE LA UNIDAD DE TRANSPARENCIA Y ANTICORRUPCIÓN
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 221.
 
-La Unidad de Transparencia será el órgano técnico responsable del manejo de la información pública de oficio, clasificación de la información y receptora única de las solicitudes de acceso a la información que se formulen. Esta unidad será el vínculo con el solicitante y se encargará de las gestiones internas para que se resuelva y, en su caso, se entregue la información o resolución que corresponda.
+La Unidad de Transparencia y Anticorrupción será el órgano técnico responsable del manejo de la información pública de oficio, clasificación de la información y receptora única de las solicitudes de acceso a la información que se formulen. Esta unidad será el vínculo con el solicitante y se encargará de las gestiones internas para que se resuelva y, en su caso, se entregue la información o resolución que corresponda.
 
-El Titular de la Unidad de Transparencia, en el cumplimiento de sus funciones deberá sujetarse a lo establecido en las leyes de la materia.
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2020)</small>
 
-El Comité de Transparencia será el órgano superior de la Unidad de Transparencia y Acceso a la Información.
+Prestará apoyo técnico a la Comisión de Transparencia y Anticorrupción si ésta lo requiere, fomentará la cultura de la transparencia, garantizará el efectivo acceso a los derechos de información y protección de datos personales de los ciudadanos, como método para prevenir y evitar la corrupción en el Poder Legislativo.
+
+El Titular de la Unidad de Transparencia y Anticorrupción, en el cumplimiento de sus funciones deberá sujetarse a lo establecido en las leyes de la materia.
+
+El Comité de Transparencia será el órgano superior de esta Unidad.
 
 #### SECCIÓN X. DE LA UNIDAD PARA LA IGUALDAD DE GÉNERO
 
@@ -4374,3 +4386,19 @@ Los recursos humanos, financieros y materiales que actualmente se encuentran asi
 ###### ARTÍCULO QUINTO.
 
 Los procedimientos administrativos iniciados por las autoridades estatales correspondientes con la (sic) anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicadas vigentes a su inicio.
+
+P.O. 10 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 458 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos legales procedentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado y en el portal electrónico del Congreso para conocimiento general.
