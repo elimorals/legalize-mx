@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2020-01-11"
+last_updated: "2020-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE NOVIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2020.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -99,9 +99,11 @@ j) Galerías: Las butacas establecidas dentro del Recinto Legislativo, destinada
 
 k) (DEROGADO, P.O. 10 DE ENERO DE 2019)
 
-###### Artículo 3º.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
 
-Las comunicaciones que se dirijan al Congreso o que éste envíe deberán ser por escrito.
+###### Artículo 3°.
+
+Las comunicaciones que se dirijan al Congreso o que este envíe deberán ser por escrito, excepto en los supuestos del artículo 121 Bis del Reglamento, que podrán ser digitales y/o electrónicas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -110,6 +112,10 @@ Las comunicaciones que se dirijan al Congreso o que éste envíe deberán ser po
 En el caso de que la Asamblea determine sesionar en un lugar diferente al de su residencia permanente, en el acuerdo respectivo declarará Recinto Legislativo al local en que se efectuará la sesión o sesiones y la razón y fundamento correspondiente.
 
 De igual manera, por causas justificadas y por votación de la mayoría calificada de sus integrantes, podrá cambiar temporalmente el lugar de residencia del Congreso. Este cambio deberá hacerse por Decreto, en el que se señalarán las causas y de ser ello posible, su término de duración.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+La Asamblea podrá celebrar sesiones ordinarias o extraordinarias en línea, cuando así lo determine la Comisión de Gobierno Interno, conforme lo establecido en el Capítulo X BIS del Reglamento, denominado DE LAS SESIONES EN LÍNEA.
 
 ###### Artículo 5º.
 
@@ -321,7 +327,9 @@ b).- La Comisión Instaladora por conducto de la Secretaría, informará a los D
 
 c).- Uno de los Secretarios pasará lista de asistencia de los Diputados electos e informará al Presidente, de cuántos están presentes y cuántos ausentes y si existe por parte de estos últimos, alguna justificación, informando, en su caso, si fueron debidamente citados para que asistieran a ese acto;
 
-d).- El Presidente instruirá a los Diputados electos para que en votación secreta y por mayoría simple, procedan a elegir una Directiva Provisional que estará integrada por un Presidente y dos Secretarios;
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+d).- El Presidente instruirá a los Diputados electos para que en votación secreta y por mayoría simple, procedan a elegir una Directiva Provisional que estará integrada por un Presidente y dos Secretarios; cuando se determine que la sesión se celebre en línea, la votación para tal efecto será nominal;
 
 e).- Depositados los votos en la urna que para el efecto se coloque en la mesa del Presidium, los Secretarios de la Comisión Instaladora, procederán al escrutinio de los mismos y comunicarán el resultado al Presidente para los efectos reglamentarios respectivos;
 
@@ -404,6 +412,10 @@ El Oficial Mayor será el encargado de hacer las notificaciones a que se refiere
 ###### Artículo 27.
 
 En los términos del artículo 37 de la Ley, la Directiva la constituyen el Presidente, el Vicepresidente, dos Secretarios y sus Suplentes, que serán electos por mayoría simple, mediante votación secreta, en sesión previa a la apertura de un período ordinario, al inicio de una sesión extraordinaria o en la primera de un período extraordinario. El Presidente en funciones, con base en el resultado del escrutinio, hará la declaratoria respectiva.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+En caso de que se determine que la sesión respectiva en la que se elijan integrantes de la Directiva deba celebrarse en línea, la votación para tal efecto será en forma nominal.
 
 Una vez efectuada la elección de los integrantes de la Directiva, el Oficial Mayor del Congreso la comunicará mediante circular a los Titulares de los Poderes Ejecutivo y Judicial, a los Ayuntamientos de la entidad, a la Secretaría de Gobernación, a las Cámaras del Congreso de la Unión y a los Congresos de los Estados.
 
@@ -537,11 +549,11 @@ En caso de cambio del Coordinador del Grupo Parlamentario que presida la Comisi�
 
 Tendrán derecho a voz y voto los Coordinadores de los Grupos Parlamentarios o sus Suplentes acreditados y los Diputados Únicos; los Diputados que sin ser parte de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, asistan a las sesiones de ésta, tendrán exclusivamente derecho a voz.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2020)</small>
 
 ###### Artículo 40.
 
-La Comisión de Gobierno se reunirá por lo menos cuatro veces al mes, durante los períodos ordinarios de sesiones; y fuera de éstos las veces que sean necesarias. Las reuniones serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión y contendrán la propuesta de asuntos a tratar en la orden del día.
+La Comisión de Gobierno se reunirá por lo menos cuatro veces al mes, durante los períodos ordinarios de sesiones; y fuera de éstos las veces que sean necesarias, pudiendo ser en forma presencial o en línea. Las reuniones serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión y contendrán la propuesta de asuntos a tratar en el orden del día.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -1405,11 +1417,11 @@ VI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y dispo
 
 La Comisión de Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado, tendrá las facultades previstas en la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
 
 ###### Artículo 69.
 
-Los Diputados que se interesen en participar en el estudio, análisis y dictamen de algún asunto en particular, podrán asistir a las reuniones de las Comisiones, teniendo en este caso la posibilidad de intervenir con voz pero sin voto en los trabajos respectivos.
+Los Diputados que se interesen en participar en el estudio, análisis y dictamen de algún asunto en particular, podrán asistir a las reuniones de las Comisiones, o participar en estas cuando se desarrollen en línea, teniendo en ambos casos la posibilidad de intervenir con voz, pero sin voto en los trabajos respectivos.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -1423,15 +1435,19 @@ Los Diputados que tengan algún interés personal o que interese de la misma man
 
 Las reuniones de las Comisiones podrán ser públicas o privadas, según lo estimen conveniente los integrantes de la Comisión o Comisiones en conjunto. Asimismo, podrán celebrarse reuniones de información y audiencia con representantes de grupos sociales interesados en el tema, peritos y personas que por sus conocimientos puedan aportar datos de interés sobre la materia en estudio, debiéndose extender invitación expresa. También podrán convocar a foros de consulta pública para tal finalidad.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+Cuando así lo determine la Comisión de Gobierno Interno, en términos de lo dispuesto en el artículo 121 Bis de este Reglamento, las sesiones de las Comisiones podrán ser en línea.
+
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 Los asesores de los Diputados que concurran a las reuniones podrán tener voz, sólo cuando estos últimos se encuentren presentes o cuando la Comisión responsable así lo permita.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
 
 ###### Artículo 72.
 
-Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros y, en caso de empate, sus Presidentes tendrán voto de calidad. Si alguno de los integrantes de la Comisión no estuviere de acuerdo con la decisión de la mayoría, podrá expresar su voto particular por escrito, debiendo anexarse al dictamen de la mayoría.
+Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros, el cual podrán emitir mediante firma electrónica y, en caso de empate, sus Presidentes tendrán voto de calidad. Si alguno de los integrantes de la Comisión no estuviere de acuerdo con la decisión de la mayoría, podrá expresar su voto particular por escrito, debiendo anexarse al dictamen de la mayoría.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1757,13 +1773,15 @@ XI.- Programar y supervisar las acciones de mantenimiento preventivo para todos 
 
 XII.- Programar y ejecutar las adquisiciones de bienes y servicios que requiera el Congreso;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2020)</small>
 
-XIII.- Encargarse de las labores de mantenimiento, limpieza y fumigación; y
+XIII.- Encargarse de las labores de mantenimiento, limpieza, desinfección y fumigación;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2020)</small>
 
-XIV.- Las demás que le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
+XIV.- Por conducto de los órganos de apoyo técnico y sus auxiliares del Congreso, brindar el apoyo técnico y el soporte necesario para las sesiones en línea, considerando el desarrollo, en su caso, de una plataforma para su realización; y
+
+XV.- Las demás que le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
 
 El Director de Administración, Finanzas y Servicios generales deberá ser preferentemente Contador Público o Licenciado en Administración de Empresas, con una experiencia profesional de por lo menos 5 años anteriores a la designación y cumplir con los requisitos que señala el artículo 85 de este Reglamento.
 
@@ -2159,13 +2177,71 @@ Por separado, en el Diario de los Debates se asentará la trascripción literal 
 
 El Presidente del Congreso abrirá y cerrará las sesiones ordinarias con la siguiente fórmula: "SE ABRE LA SESIÓN" o "SE LEVANTA LA SESIÓN", las sesiones extraordinarias se abrirán por el Presidente con la fórmula señalada en el párrafo anterior y se clausurarán al desahogarse los puntos del orden del día. Cuando el Presidente pronuncie las fórmulas a que se refiere este artículo permanecerá sentado y sólo deberán ponerse de pie los Diputados y el público en general.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO X BIS. DE LAS SESIONES EN LÍNEA
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+###### Artículo 121 Bis.
+
+Las sesiones y reuniones del Pleno del Congreso del Estado, de la Comisión Permanente, de la Comisión de Gobierno Interno y de las Comisiones Legislativas Permanentes, en los casos que así se determine, podrán celebrarse en línea, por acuerdo de la Comisión de Gobierno Interno, en los siguientes casos:
+
+I. Por causa de una contingencia, pandemia, estado de emergencia o excepción, así declarado por una autoridad competente;
+
+II. Por causas de fuerza mayor plenamente justificadas, que serán determinadas por la Comisión de Gobierno Interno; y
+
+III. Por los efectos de un fenómeno natural que, a juicio de la Comisión de Gobierno Interno, representen un peligro.
+
+Esta modalidad será extraordinaria y se llevará únicamente en los casos y bajo las condiciones señaladas en la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+###### Artículo 121 Ter.
+
+Para llevar a cabo las sesiones en línea, la Comisión de Gobierno Interno deberá realizar el acuerdo correspondiente y notificar a cada diputada y diputado la plataforma que se utilizará, la forma de acceso y uso de la misma, así como la metodología de las sesiones.
+
+Todas las notificaciones y envío de documentos que soliciten las y los diputados se les harán llegar a (sic) por medio de su dirección de correo electrónico que cada integrante de la Legislatura tenga registrada en la Dirección de Proceso Legislativo de este Congreso.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+###### Artículo 121 Quater.
+
+Las determinaciones de la Asamblea o de las Comisiones se tomarán bajo las mismas condiciones que en las sesiones presenciales, salvo la votación, que deberá ser invariablemente en forma nominal, de viva voz, siguiendo el orden del apellido paterno de cada diputada o diputado y, en su caso, mediante firma electrónica.
+
+Para su envío al Ejecutivo o a la entidad que corresponda, la Oficialía Mayor deberá tomar las providencias necesarias para recabar las rúbricas del Presidente y Secretarios o, en su caso, la correspondiente firma electrónica.
+
+Para la presentación de iniciativas, estas se deberán enviar con la anticipación debida por correo electrónico a la Dirección de Proceso Legislativo, que las remitirá a cada diputada y diputado, quienes podrán hacer uso de la voz para la lectura del extracto correspondiente.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+###### Artículo 121 Quinquies.
+
+El Presidente de la Mesa Directiva deberá velar por el respeto al uso de la palabra de cada diputada o diputado, a efecto de no vulnerar sus derechos, debiéndose observar las mismas reglas de deliberación de las sesiones presenciales, por lo que, previo a cada votación, preguntará si alguno de ellos tiene algo que manifestar y, una vez cerciorado de la conclusión de las participaciones, someterá el asunto a votación.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+###### Articulo 121 Sexies.
+
+Las sesiones en línea de las Comisiones se llevarán a cabo únicamente en los casos previstos en el artículo 121 Bis de este Reglamento, previa convocatoria en la que así lo señale su Presidente.
+
+Para su realización, el Presidente de la Comisión respectiva deberá cerciorarse de la debida notificación a cada uno de sus integrantes y del apoyo para su realización por los órganos de soporte técnico.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+###### Artículo 121 Septies.
+
+El Presidente de la Asamblea o de cada una de las Comisiones que presida las sesiones en línea garantizará, con el respaldo de los órganos de soporte y apoyo técnico del Congreso, que la plataforma o herramienta tecnológica que se utilice funciona correctamente, y que las intervenciones de quienes participen en las mismas puedan desarrollarse adecuadamente y en forma ordenada.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+###### Artículo 121 Octies.
+
+La Oficialía Mayor, por conducto de los órganos de soporte y apoyo técnico y sus auxiliares del Congreso, deberá asegurarse del debido funcionamiento de la plataforma que se utilice para las sesiones en línea y de su transmisión pública.
+
 ### CAPÍTULO XI. DE LAS INICIATIVAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-### CAPITULO XII. DE LOS DICTAMENES
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 122.
 
@@ -2251,7 +2327,7 @@ Si la iniciativa propuesta o petición presenta dudas respecto a su naturaleza, 
 
 Las iniciativas dictaminadas y no aprobadas, no podrán volverse a presentar sino hasta pasado un período ordinario de sesiones.
 
-### CAPÍTULO XIII. DE LOS TRÁMITES
+### CAPITULO XII. DE LOS DICTAMENES
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2305,9 +2381,9 @@ Una vez que la Comisión o Comisiones competentes reciban la Minuta Proyecto de 
 
 El dictamen que expida la Comisión o Comisiones competentes será listado en el orden del día de la Sesión Ordinaria siguiente o de la Sesión Extraordinaria que para tal efecto se convoque, para su lectura, discusión y aprobación, en su caso, sin necesidad de segunda lectura.
 
-### CAPITULO XIV. DE LA DISPENSA DE TRÁMITES
+### CAPÍTULO XIII. DE LOS TRÁMITES
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 135.
 
@@ -2335,9 +2411,9 @@ VII.- Los dictámenes de leyes, decretos y acuerdos, una vez leídos, serán dis
 
 VIII.- Las proposiciones suspensivas serán puestas a debate luego que se presenten, pero preguntándose previamente si se toman en consideración. Si no hubiere mayoría de votos por la afirmativa, se entenderán desechadas, aún cuando haya habido empate en la votación.
 
-### CAPÍTULO XV. DE LOS DEBATES Y DELIBERACIONES
+### CAPITULO XIV. DE LA DISPENSA DE TRÁMITES
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 137.
 
@@ -2377,9 +2453,9 @@ II.- Discutir con preferencia cualquier dictamen de los designados por el Presid
 
 Podrá permitirse que toda una Ley se vote en lo general y particular en un solo acto, sin dividirla en libros, títulos, capítulos y secciones, siempre que no haya sido impugnada o que los diputados no se hayan reservado para discutir y votar por separado algún libro, título, capítulo y sección del mismo; la proposición que se haga en tal sentido será admitida por la Directiva previa aprobación, en forma económica, y por mayoría del Pleno legislativo.
 
-### CAPÍTULO XV BIS. DE LA GACETA PARLAMENTARIA
+### CAPÍTULO XV. DE LOS DEBATES Y DELIBERACIONES
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 143.
 
@@ -2583,9 +2659,9 @@ Los representantes de los Poderes y Ayuntamientos, se retirarán del recinto leg
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO XVI. DE LAS VOTACIONES
+### CAPÍTULO XV BIS. DE LA GACETA PARLAMENTARIA
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 159 Bis 1.
 
@@ -2633,9 +2709,9 @@ Las modificaciones hechas a los mismos con posterioridad a la edición de la Gac
 
 Los documentos a publicar en la Gaceta Parlamentaria deberán presentarse, firmados de manera física y electrónica, en forma previa al inicio de la sesión ante la Comisión de Gobierno.
 
-### CAPÍTULO XVII. DE LAS RESOLUCIONES
+### CAPÍTULO XVI. DE LAS VOTACIONES
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 160.
 
@@ -2731,9 +2807,9 @@ Ningún Diputado podrá votar por si mismo, ni emitir su voto en cuestiones en q
 
 Cualquier Diputado podrá pedir a la Secretaría que haga constar en el acta el sentido en que se emita su voto o que diga en voz alta los nombres de los que votaron en uno u otro sentido, para que los interesados puedan hacer la rectificación que proceda, salvo que la votación fuere secreta.
 
-### CAPÍTULO XVIII. DEL CEREMONIAL
+### CAPÍTULO XVII. DE LAS RESOLUCIONES
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 173.
 
@@ -2835,7 +2911,7 @@ IX.- Copia autógrafa del Decreto enviado al Ejecutivo para los efectos legales 
 
 X.- Un Ejemplar del Periódico Oficial del Estado, en el que conste la publicación del Decreto respectivo.
 
-### CAPITULO XIX. DEL PUBLICO
+### CAPÍTULO XVIII. DEL CEREMONIAL
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2905,6 +2981,10 @@ V.- Los legisladores tendrán derecho a réplica por dos ocasiones cada uno y ha
 
 VI.- Una vez concluida la comparecencia el funcionario de la Administración Pública, el Presidente de la Mesa Directiva declarará un receso, para reanudar la sesión en la próxima comparecencia y así sucesivamente hasta concluir la sesión.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+Las sesiones que se celebren para el desahogo de la comparecencia de un servidor público, con motivo de la glosa del informe del Gobernador, según lo dispuesto en el presente artículo, podrán celebrarse en línea, en los términos previstos en el artículo 121 Bis de este Reglamento.
+
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 194.
@@ -2919,7 +2999,7 @@ Sólo por acuerdo del Congreso podrá permitirse el uso de una curul a una perso
 
 En todas las sesiones solemnes que celebre el Congreso, como una forma de darle más realce al evento, los Diputados deberán vestir formal.
 
-### CAPÍTULO XX. DE LA EXPEDICION DEL BANDO SOLEMNE
+### CAPITULO XIX. DEL PUBLICO
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2965,7 +3045,7 @@ Toda persona que altere el orden será despedida de las galerías; pero si la fa
 
 Cuando el orden sea alterado por los integrantes del Congreso y fuere materialmente imposible su restablecimiento, el Presidente está facultado para suspender o dar por terminada la sesión.
 
-### CAPÍTULO XXI. DEL COLEGIO ELECTORAL
+### CAPÍTULO XX. DE LA EXPEDICION DEL BANDO SOLEMNE
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2989,9 +3069,9 @@ IV.- Aprobado el dictamen por la Asamblea el Presidente de la Directiva dará le
 
 V.- El Decreto del Bando Solemne entrará en vigor el día de su expedición y se enviará al Ejecutivo para su difusión en los términos del artículo 254 del Código Electoral para el Estado de Colima.
 
-### CAPÍTULO XXII. DE LA COMISION PERMANENTE
+### CAPÍTULO XXI. DEL COLEGIO ELECTORAL
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 204.
 
@@ -3015,7 +3095,7 @@ III.- El dictamen deberá ser aprobado por la mayoría de votos de las Diputados
 
 El Congreso también se erigirá en Colegio Electoral cuando designe Concejo Municipal, aplicándose en este caso en lo conducente las disposiciones del artículo anterior.
 
-### CAPÍTULO XXIII. DEL JUICIO POLÍTICO
+### CAPÍTULO XXII. DE LA COMISION PERMANENTE
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -3028,6 +3108,10 @@ En los términos de los artículos 37 de la Constitución y 104 de la Ley, duran
 ###### Artículo 207.
 
 La Comisión permanente entrará en función inmediatamente después de clausurados los trabajos del periodo ordinario y de que se haya efectuado su sesión de instalación, debiendo sesionar por lo menos una vez a la semana.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+Las sesiones de la Comisión Permanente podrán celebrarse en línea, en los términos previstos en el artículo 121 Bis de este Reglamento.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3073,9 +3157,9 @@ La Comisión Permanente podrá celebrar sus sesiones en el Recinto Legislativo o
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO XXIV. EL DIARIO DE LOS DEBATES
+### CAPÍTULO XXIII. DEL JUICIO POLÍTICO
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 215.
 
@@ -3197,11 +3281,9 @@ DISPOSICIONES COMUNES PARA EL JUICIO POLÍTICO Y LA DECLARACIÓN DE PROCEDENCIA.
 
 (DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
 
-### CAPÍTULO XXV
+### CAPÍTULO XXIV. EL DIARIO DE LOS DEBATES
 
-DEL PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES ADMINISTRATIVAS.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 240.
 
@@ -3217,9 +3299,11 @@ El Diario de los Debates contendrá el lugar y fecha en que se verifiquen las se
 
 El Diputado deberá presentar por escrito y en medio electrónico a la Presidencia de la Mesa Directiva, la iniciativa que solicite se inserte en el Diario de los Debates.
 
-### CAPITULO XXVI. JUICIO DE RESPONSABILIDAD ADMINISTRATIVA
+### CAPÍTULO XXV
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+DEL PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES ADMINISTRATIVAS.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 242.
 
@@ -3264,6 +3348,10 @@ En el supuesto de faltas administrativas graves, se denunciará y dará vista an
 Para aplicar las sanciones establecidas en el artículo anterior, se solventará el procedimiento previsto en la Ley General de Responsabilidades Administrativas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2016)</small>
+
+### CAPITULO XXVI. JUICIO DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
 
 ###### Artículo 246.
 
@@ -3534,3 +3622,11 @@ P.O. 28 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto, deberá iniciar su funcionamiento la Gaceta Parlamentaria.
+
+P.O. 11 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 268 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SU REGLAMENTO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se instruye a la Oficialía Mayor del H. Congreso del Estado para que, por conducto de las Direcciones y áreas competentes de esta Soberanía, y con el apoyo de la Comisión de Gobierno Interno y Acuerdo (sic) Parlamentarios, instrumente las plataformas y herramientas técnicas y electrónicas necesarias para el cumplimiento de lo previsto en el presente Decreto, así como capacite a las y los diputados y demás personal del H. Congreso del Estado para el uso de las tecnologías que para tales fines se utilicen.
