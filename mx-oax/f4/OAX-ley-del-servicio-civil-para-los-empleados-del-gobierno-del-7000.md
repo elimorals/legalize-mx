@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2019-12-30"
+last_updated: "2020-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -220,6 +220,10 @@ DE LOS SUELDOS.
 ###### ARTICULO 25.
 
 El sueldo es la compensación pecuniaria a los servicios prestados por el empleado.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+ARTICULO 25 BIS.- Se prohíbe para el pago de sueldos, remuneraciones o prestaciones a que tengan derecho los trabajadores, utilizar como unidad de cálculo, la Unidad de Medida y Actualización (UMA) o cualquier otra forma distinta a las previstas en la presente Ley.
 
 ###### ARTICULO 26.
 
@@ -972,3 +976,11 @@ P.O. 30 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1402.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 25 BIS, A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado; y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan y contravengan al presente Decreto.
