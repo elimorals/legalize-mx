@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-de-vialidad-y-transito-para-el-estado-5587
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-24"
-last_updated: "2019-03-09"
+last_updated: "2020-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO DE LA LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2020 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2020.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 26 de mayo de 2007.
 
@@ -1145,9 +1147,9 @@ II. De no existir semáforos especiales para peatones, avanzarán con la indicac
 
 III. Cuando exista la vuelta con flecha, el giro se llevará a cabo exclusivamente cuando el semáforo así lo indique con la señal respectiva o cuando se permita expresamente con precaución y siempre a riesgo del conductor;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2020)</small>
 
-IV. El color ámbar es signo de prevención, por lo que los conductores detendrán la marcha del vehículo sobre la línea de alto marcada en la superficie de rodamiento al llegar al crucero.
+IV. El color ámbar es signo de prevención, por lo que los conductores disminuirán la velocidad del vehículo al llegar al crucero;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
@@ -1157,7 +1159,9 @@ VI. La luz roja destellando indica que el conductor deberá hacer alto total par
 
 VII. Cuando un semáforo presente señalización con las luces roja y ámbar destellando a la vez, los vehículos deberán disminuir su velocidad a la de 30 Kilómetros por hora, extremando precauciones. En el caso de cruzamiento de peatones, detendrán la marcha en la línea de alto marcada o en ausencia de ésta, antes de entrar en la zona reservada al cruce de peatones, pudiendo reanudar su trayectoria una vez que se haya cerciorado de que no se pone en peligro a terceros; y
 
-VIII. Si la luz ámbar de un semáforo emite destellos intermitentes, los conductores disminuirán la velocidad al llegar a la intersección, tomando las precauciones necesarias para cruzar la calle o avenida.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2020)</small>
+
+VIII. Si la luz ámbar de un semáforo emite destellos intermitentes, los conductores disminuirán la velocidad al llegar al crucero.
 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
@@ -2291,11 +2295,27 @@ A la persona que infrinja las disposiciones establecidas en la Ley o este Reglam
 
 > <small>N. DE E. VÉASE TABLAS EN EL ANEXO DEL P.O. DE 26 DE MAYO DE 2007, PÁGINAS DE LA 40 A LA 46.</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 24 DE AGOSTO DE 2013, PÁGINAS DE LA 4491 A LA 4493; 9 DE MARZO DE 2019, PÁGINAS DE LA 4 A LA 16.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 24 DE AGOSTO DE 2013, PÁGINAS DE LA 4491 A LA 4493; 9 DE MARZO DE 2019, PÁGINAS DE LA 4 A LA 16; 11 DE ABRIL DE 2020, PÁGINAS 6 A LA 8.]</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE AGOSTO DE 2013)</small>
 
 El monto de las multas aplicables a aquellas infracciones a la ley o este Reglamento que no estén contempladas en este tabulador, será de 2 a 50 días de salario mínimo general aplicable para el Municipio que corresponda, considerando las circunstancias señaladas en el Artículo 185 del presente Reglamento
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+###### Artículo 202 Bis.
+
+A la persona que infrinja las disposiciones establecidas en la Ley o este Reglamento en el ámbito competencial de vías públicas consistentes en carreteras revestidas con terracerías, caminos reales que unan dos o más poblados de la Entidad, brechas y puentes construidos por el gobierno federal, estatal o de los municipios y las carreteras pavimentadas que se encuentren bajo la jurisdicción del Estado de Chihuahua; se le sancionará de acuerdo a la falta cometida, de conformidad con el siguiente TABULADOR:
+
+> <small>[N. DE E. VÉASE TABLAS EN EL ANEXO DEL P.O. DE 11 DE ABRIL DE 2020, PÁGINAS DE LA 9 A LA 17.]</small>
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+###### Artículo 202 Ter.
+
+Para los efectos del artículo anterior, se entienden por carreteras revestidas con terracerías, caminos reales que unan dos o más poblados de la Entidad, brechas construidas por el gobierno federal, estatal o de los municipios y las carreteras pavimentadas que se encuentren bajo la jurisdicción del Estado de Chihuahua, las siguientes:
+
+> <small>[N. DE E. VÉASE TABLAS EN EL ANEXO DEL P.O. DE 11 DE ABRIL DE 2020, PÁGINAS DE LA 17 A LA 23.]</small>
 
 ###### Artículo 203.
 
@@ -2402,3 +2422,13 @@ PRIMERO. El presente Acuerdo entrará en vigor a los sesenta días naturales sig
 SEGUNDO. La Fiscalía General del Estado deberá realizar las gestiones correspondientes para adecuar todo instrumento y documento al presente Acuerdo. Adicionalmente, procurará la difusión del mismo entre las personas que hacen uso de las vías públicas.
 
 TERCERO. La Secretaría de Hacienda llevará a cabo las acciones conducentes a fin de proporcionar el monto que corresponda a la Fiscalía General del Estado en relación con el presente Acuerdo.
+
+P.O. 11 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO N° 060/2020 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES TODAS DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La División de la Policía Vial de la Comisión Estatal de Seguridad de la Secretaría de Seguridad Pública, será la que opere en las vías públicas señaladas en el artículo 202 Ter adicionado al Reglamento de la Ley de Vialidad y Tránsito para el Estado de Chihuahua por el presente Acuerdo, por medio de la Unidad de la Policía Estatal de Caminos.
+
+TERCERO. La Dirección de la División de Policía Vial de la Comisión Estatal de Seguridad, deberá expedir en un plazo que no exceda de 30 días naturales contados a partir del día en que entre en vigor el presente Acuerdo, el formato de notificación de boleta de infracción aplicable al ámbito competencial en carreteras revestidas con terracerías, caminos reales que unan dos o más poblados de la Entidad, puentes, brechas construidas por el gobierno federal, estatal o de los municipios y las carreteras pavimentadas que se encuentren bajo la jurisdicción del Estado de Chihuahua.
