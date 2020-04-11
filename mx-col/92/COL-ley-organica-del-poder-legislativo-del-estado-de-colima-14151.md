@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2020-01-11"
+last_updated: "2020-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE NOVIEMBRE DE 2020 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 11 DE ENERO DE 2020 NO APLICA AL ARTICULADO DEL DECRETO NO. 193 PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2020.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -139,6 +139,10 @@ III.- Cuando exista la necesidad de conocer información sobre la aplicación de
 
 IV.- PARA INFORMAR Y EXPLICAR HECHOS O CIRCUNSTANCIAS QUE POR SU NATURALEZA RESULTEN DE TRASCENDENCIA PARA LA SOCIEDAD O EL BUEN DESEMPEÑO DEL SERVICIO PÚBLICO.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+Las sesiones o reuniones de trabajo que se celebren para el desahogo de la comparecencia de un servidor público en los términos del presente artículo, podrán desarrollarse en línea, de conformidad con lo dispuesto en el artículo 121 Bis del Reglamento.
+
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 9º.
@@ -162,6 +166,10 @@ III.- Hecha la exposición, hará uso de la palabra un legislador por cada uno d
 IV.- A continuación, un legislador de cada Grupo Parlamentario y los diputados únicos, en un término de hasta diez minutos, podrán formular sus preguntas de manera directa al servidor público compareciente. Al final de cada una de ellas, el servidor público citado hará uso de la palabra para dar respuesta a cada una de ellas; y
 
 V.- Una vez finalizados los cuestionamientos el servidor público compareciente emitirá un mensaje final, acto seguido el Presidente de la Mesa Directiva en turno del H. Congreso hará uso de la palabra para un mensaje final sobre el tema para el que fue citado el servidor público.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+Las sesiones que se celebren para el desahogo de la comparecencia de un servidor público en los términos del presente artículo, podrán desarrollarse en línea, de conformidad con lo dispuesto en el artículo 121 Bis del Reglamento.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -281,9 +289,9 @@ VIII. Ser convocado a las sesiones de comisión en que se dictamine una iniciati
 
 IX.- Abstenerse de votar en las sesiones del Congreso o de las comisiones de que se forme parte, pudiendo razonar su abstención, previamente a la votación;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2020)</small>
 
-X. Contar con el documento que los acredite como Diputados;
+X. Contar con el documento que los acredite como Diputados y con la firma electrónica, a efecto de suscribir la documentación oficial;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
@@ -557,6 +565,10 @@ DE LA DIRECTIVA.
 
 El órgano de dirección y representación del Poder Legislativo será la Directiva del Congreso, que se integrará por un Presidente, un Vicepresidente, dos Secretarios y dos Suplentes de estos, electos por mayoría simple mediante votación secreta.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+En caso de haberse determinado que la sesión respectiva en la que se elijan integrantes de la Directiva deba celebrarse en línea, la votación para tal efecto será en forma nominal.
+
 La elección de los integrantes de la Directiva se comunicará a los titulares de los Poderes Ejecutivo y Judicial, a los Ayuntamientos, a la Secretaría de Gobernación, a las Cámaras del Congreso de la Unión y a los Congresos de los Estados.
 
 La Directiva tendrá a su cargo la conducción de las sesiones.
@@ -685,11 +697,11 @@ El Presidente de la Directiva podrá ser removido por el Congreso cuando de mane
 
 DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 44.
 
-La Secretaría es el órgano auxiliar de la directiva y se integrará con dos Secretarios y dos Suplentes de éstos, que al igual que el Presidente y Vicepresidente serán electos por mayoría, en votación secreta.
+La Secretaría es el órgano auxiliar de la directiva y se integrará con dos Secretarios y dos Suplentes de éstos, que al igual que el Presidente y Vicepresidente serán electos por mayoría, en votación secreta; cuando se determine que la sesión respectiva se celebre en línea, la votación para tal efecto será nominal.
 
 ###### ARTICULO 45.
 
@@ -771,11 +783,11 @@ ARTICULO 47 BIS.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
 
 Las resoluciones de la Comisión de Gobierno Interno serán tomadas por mayoría. Cada Coordinador tendrá los votos que correspondan al número de Diputados que formen parte de su grupo parlamentario; el voto de cada Diputada o Diputado Único se computará como un solo voto.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 49.
 
-La Comisión de Gobierno Interno deberá reunirse cuando menos cuatro veces al mes durante los períodos ordinarios y, fuera de estos, cuando sea necesario. Las reuniones ordinarias serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión; en el caso de las reuniones extraordinarias, la convocatoria deberá expedirse con al menos 06 horas de anticipación, pudiendo reunirse en cualquier tiempo, siempre que estén presentes la totalidad de sus integrantes. Sus trabajos los desarrollará de conformidad con lo establecido por esta Ley y su Reglamento en lo relativo a las comisiones legislativas.
+La Comisión de Gobierno Interno deberá reunirse cuando menos cuatro veces al mes durante los períodos ordinarios y, fuera de estos, cuando sea necesario, pudiendo hacerlo en forma presencial o en línea; en el segundo de los supuestos, deberá observarse lo dispuesto en el artículo 121 Bis del Reglamento. Las reuniones ordinarias serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión; en el caso de las reuniones extraordinarias, la convocatoria deberá expedirse con al menos 06 horas de anticipación, pudiendo reunirse en cualquier tiempo, siempre que estén presentes la totalidad de sus integrantes. Sus trabajos los desarrollará de conformidad con lo establecido por esta Ley y su Reglamento en lo relativo a las comisiones legislativas.
 
 ###### ARTICULO 50.
 
@@ -1223,6 +1235,10 @@ La sesión se considera como el tiempo de reunión, necesario y efectivo que por
 
 Las sesiones del Congreso serán: ordinarias o extraordinarias, podrán ser públicas o secretas, permanentes, solemnes, de jurado de acusación o de declaración de procedencia.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+El Congreso y la Comisión Permanente podrán desarrollar sesiones en línea, conforme lo establecido en el Capítulo X BIS del Reglamento, denominado DE LAS SESIONES EN LÍNEA.
+
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 73.
@@ -1647,6 +1663,10 @@ Cuando el Congreso sea convocado a sesión o período extraordinario, al inicio 
 
 La Comisión permanente sesionará por lo menos una vez por semana pudiendo diferirlas previo acuerdo de la Comisión de Gobierno y el Presidente de la Comisión Permanente. Para que puedan instalarse válidamente las sesiones de la Comisión Permanente, se requiere la asistencia de la mayoría de los integrantes.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2020)</small>
+
+Las sesiones de la Comisión Permanente podrán celebrarse en línea, en términos de lo dispuesto en el artículo 121 Bis del Reglamento.
+
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 109.
@@ -1928,3 +1948,11 @@ P.O. 28 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto, deberá iniciar su funcionamiento la Gaceta Parlamentaria.
+
+P.O. 11 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 268 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SU REGLAMENTO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se instruye a la Oficialía Mayor del H. Congreso del Estado para que, por conducto de las Direcciones y áreas competentes de esta Soberanía, y con el apoyo de la Comisión de Gobierno Interno y Acuerdo Parlamentarios, instrumente las plataformas y herramientas técnicas y electrónicas necesarias para el cumplimiento de lo previsto en el presente Decreto, así como capacite a las y los diputados y demás personal del H. Congreso del Estado para el uso de las tecnologías que para tales fines se utilicen.
