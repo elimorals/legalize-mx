@@ -4,7 +4,7 @@ identifier: "COL-ley-del-instituto-para-el-registro-del-territorio-del-89234"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-25"
-last_updated: "2016-11-22"
+last_updated: "2020-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2020.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 25 de agosto del 2012.
 
@@ -1041,9 +1041,15 @@ VI. Las fianzas legales o judiciales, de acuerdo con lo establecido por el artí
 
 VII. Las declaraciones de expropiación, de limitación de dominio o de ocupación temporal de bienes inmuebles;
 
-VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en la Dirección del Registro Público; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2020)</small>
 
-IX. Cualquier otro título físico o electrónico que sea anotable de acuerdo con el Código Civil u otras leyes.
+VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en la Dirección (sic) Registro Público;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2020)</small>
+
+IX. El Certificado del Registro de Deudores Alimentarios Morosos a que se refiere el artículo 323 BIS del Código Civil; y
+
+X. Cualquier otro título físico o electrónico que sea anotable de acuerdo con el Código Civil u otras leyes.
 
 ###### ARTÍCULO 85.
 
@@ -1822,3 +1828,11 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 11 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 254 POR EL QUE SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Se concede un plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para que la creación del Registro de Deudores Alimentarios Morosos del Estado de Colima, así como para que se realicen las adecuaciones necesarias a los Reglamentos del Registro Civil respectivos.
