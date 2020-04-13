@@ -4,7 +4,7 @@ identifier: "LGDFS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-06-05"
-last_updated: "2018-06-05"
+last_updated: "2020-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128842&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Vespertina al Número 5 del Diario Oficial de la Federación, el martes 5 de junio de 2018.
 
@@ -200,7 +200,13 @@ IV. Áreas de Protección Forestal: Comprende los espacios forestales o boscosos
 
 V. Auditoría Técnica Preventiva: La evaluación que realiza el personal autorizado para promover e inducir el cumplimiento de lo establecido en los programas de manejo, estudios técnicos en ejecución y demás actos previstos en la Ley y otras disposiciones legales aplicables, respecto al aprovechamiento forestal;
 
-VI. Cambio de uso del suelo en terreno forestal: La remoción total o parcial de la vegetación de los terrenos forestales para destinarlos a actividades no forestales;
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+V Bis. Bosque: Ecosistema forestal principalmente ubicado en zonas de clima templado en el que predominan especies leñosas perennes que se desarrollan de forma espontánea y que cuentan con las características para ser considerados terrenos forestales arbolados de acuerdo con esta Ley;
+
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+VI. Cambio de uso del suelo en terreno forestal: La remoción total o parcial de la vegetación forestal de los terrenos forestales arbolados o de otros terrenos forestales para destinarlos o inducirlos a actividades no forestales;
 
 VII. Capacidad de carga: Estimación de la tolerancia de un ecosistema al uso de sus componentes, tal que no rebase su capacidad de recuperarse en el corto plazo sin la aplicación de medidas de restauración o recuperación para restablecer el equilibrio ecológico;
 
@@ -224,15 +230,27 @@ XVI. Cuenca Hidrográfica: Superficie geográfica delimitada por la parte más a
 
 XVII. Cultura forestal: Son los conocimientos científicos y tradicionales, técnicas, hábitos y valores sobre el cuidado, manejo y aprovechamiento sustentable de los recursos forestales;
 
-XVIII. Deforestación: Pérdida de la vegetación forestal en forma permanente, por causas inducidas o naturales;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-XIX. Degradación: Proceso de disminución de la capacidad de los suelos y ecosistemas forestales para brindar servicios ambientales, así como de su capacidad productiva;
+XVIII. Deforestación de terrenos forestales arbolados: La conversión de terrenos forestales arbolados a otro tipo de uso de la tierra, por causas inducidas o naturales, o bien, la reducción permanente de la cobertura de copa por debajo del umbral del diez por ciento;
+
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+XIX. Degradación forestal: Proceso de disminución de la capacidad de los terrenos forestales en uno o varios de sus componentes para brindar servicios ambientales, así como la pérdida o reducción de su capacidad productiva;
+
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+XIX Bis. Degradación de terrenos forestales arbolados: Reducción de la biomasa arriba del suelo en terrenos forestales arbolados sin que cause una reducción de la cobertura de copa por debajo del umbral mínimo del diez por ciento;
 
 XX. Depósito por Compensación Ambiental: Es el monto económico que deposita el promovente de cambio de uso de suelo en terrenos forestales, para obtener la autorización;
 
 XXI. Desarrollo Forestal Sustentable: Proceso evaluable y medible mediante criterios e indicadores de carácter ambiental, silvícola, económico y social que tienda a alcanzar una productividad óptima y sostenida de los recursos forestales sin comprometer el rendimiento, equilibrio e integridad de los ecosistemas forestales, que mejore el ingreso y la calidad de vida de las personas que participan en la actividad forestal y promueva la generación de valor agregado en las regiones forestales, diversificando las alternativas productivas y creando fuentes de empleo en el sector;
 
 XXII. Desertificación: La pérdida de la capacidad productiva de las tierras, en cualquier ecosistema;
+
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+XXII Bis. Pérdida de vegetación forestal: La conversión de terrenos forestales por causas inducidas o naturales a otro tipo de uso de la tierra, o la reducción de la cobertura de vegetación forestal;
 
 XXIII. Ecosistema Forestal: La unidad funcional básica de interacción de los recursos forestales entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
@@ -265,6 +283,10 @@ XXXVI. Manejo forestal sustentable: Es el proceso que comprende el conjunto de a
 XXXVII. Materias primas forestales: Los productos del aprovechamiento de los recursos forestales que no han sufrido procesos de transformación;
 
 XXXVIII. Ordenación forestal: La organización económica de un área forestal tomando en cuenta sus características silvícolas, que implica la división espacial y temporal de las actividades del manejo forestal;
+
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+XXXVIII Bis. Otros terrenos forestales: Terrenos cubiertos de vegetación forestal que no reúnen las características para ser considerados terrenos forestales arbolados;
 
 XXXIX. Plaga Forestal: Forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino para los recursos forestales;
 
@@ -310,6 +332,10 @@ LIX. Sanidad forestal: Normas, lineamientos, medidas y procedimientos para la ev
 
 LX. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales;
 
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+LX Bis. Selva: Ecosistema forestal de clima tropical en el que predominan especies leñosas perennes que se desarrollan en forma espontánea, excluyendo los acahuales y guamiles y que cuentan con las características para ser considerados terrenos forestales arbolados de acuerdo con esta Ley. En esta categoría se incluyen a todos los tipos de selva, manglar y palmar, de la clasificación del Instituto Nacional de Estadística y Geografía;
+
 LXI. Servicios ambientales: Beneficios que brindan los ecosistemas forestales de manera natural o por medio del manejo forestal sustentable, que pueden ser servicios de provisión, de regulación, de soporte o culturales, y que son necesarios para la supervivencia del sistema natural y biológico en su conjunto, y que proporcionan beneficios al ser humano;
 
 LXII. Servicios forestales: Las actividades realizadas para ordenar, cultivar, proteger, conservar, restaurar y aprovechar los recursos y servicios ambientales de un ecosistema forestal, así como la asesoría y capacitación a los propietarios o poseedores de recursos forestales para su gestión; la asesoría y acompañamiento en el desarrollo de empresas y redes de agregación de valor, organización, administración y todas aquellas materias necesarias para el desarrollo integral del manejo forestal y el desarrollo sustentable de los territorios forestales;
@@ -328,13 +354,23 @@ LXVIII. Sistema Nacional de Mejoramiento Genético Forestal: Es el instrumento d
 
 LXIX. Suelo Forestal: Cuerpo natural que ocurre sobre la superficie de la corteza terrestre, compuesto de material mineral y orgánico, líquidos y gases, que presenta horizontes o capas y que es capaz de soportar vida; que han evolucionado bajo una cubierta forestal y que presentan características que les confirió la vegetación forestal que en él se ha desarrollado;
 
-LXX. Terreno diverso forestal: Es el que no reúne las características y atributos biológicos de las definiciones de ecosistema forestal y vegetación forestal previstas en las fracciones XXIII y LXXX del presente artículo, respectivamente;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-LXXI. Terreno forestal: Es el que está cubierto por vegetación forestal y produce bienes y servicios forestales. No se considerará terreno forestal, para efectos de esta Ley, el que se localice dentro de los límites de los centros de población, en términos de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, con excepción de las áreas naturales protegidas;
+LXX. Terreno diverso al forestal: Es el que no reúne las características y atributos biológicos definidos para los terrenos forestales;
+
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+LXXI. Terreno forestal: Es el que está cubierto por vegetación forestal o vegetación secundaria nativa, y produce bienes y servicios forestales;
+
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+LXXI Bis. Terreno forestal arbolado: Terreno forestal que se extiende por más de 1,500 metros cuadrados dotado de árboles de una altura superior a 5 metros y una cobertura de copa superior al diez por ciento, o de árboles capaces de alcanzar esta altura in situ. Incluye todos los tipos de bosques y selvas de la clasificación del Instituto Nacional de Estadística y Geografía que cumplan estas características;
 
 LXXII. Terreno preferentemente forestal: Aquel que habiendo estado cubierto por vegetación forestal y que en la actualidad no está cubierto por dicha vegetación, pero por sus condiciones de clima, suelo y topografía, cuya pendiente es mayor al 5 por ciento en una extensión superior a 38 metros de longitud y puede incorporarse al uso forestal, siempre y cuando no se encuentre bajo un uso aparente;
 
-LXXIII. Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales, así como aquellos en los que se hayan realizado actividades de reforestación, pudiendo volver a su condición de terreno agropecuario al desaparecer esta actividad;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+LXXIII. Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales, así como aquellos en los que se hayan realizado actividades de reforestación, pudiendo volver a su condición de terreno agropecuario al desaparecer esta actividad, así como aquéllas en las que encontrándose en periodos de descanso de la actividad agropecuaria haya surgido vegetación secundaria nativa (también llamados acahuales o guamiles);
 
 LXXIV. Territorio forestal: Espacio donde existen terrenos forestales y se llevan a cabo diversas actividades económicas, sociales y culturales que interaccionan con la gestión forestal;
 
@@ -350,7 +386,9 @@ LXXIX. Uso doméstico: Es el aprovechamiento, sin propósitos comerciales, de lo
 
 LXXX. Vegetación forestal: Es el conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando bosques, selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
 
-LXXXI. Vegetación secundaria nativa: Aquella que surge de manera espontánea en selvas altas, medianas o bajas que han estado bajo uso agrícola o pecuario en zonas tropicales; en algunas zonas se les denomina acahuales;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+LXXXI. Vegetación secundaria nativa: Aquella vegetación forestal que surge de manera espontánea como proceso de sucesión o recuperación en zonas donde ha habido algún impacto natural o antropogénico;
 
 LXXXII. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la ley y demás disposiciones jurídicas aplicables;
 
@@ -2339,3 +2377,11 @@ Sexto. El instrumento de información a que se refiere el último párrafo del a
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Verónica Bermúdez Torres, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a cinco de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 7 DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
