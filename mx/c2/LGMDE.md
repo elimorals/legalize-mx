@@ -4,7 +4,7 @@ identifier: "LGMDE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-05-23"
-last_updated: "2018-01-19"
+last_updated: "2020-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100931&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGMDE"
 
 LEY GENERAL EN MATERIA DE DELITOS ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -88,7 +88,15 @@ XII. Paquete electoral: Es el conjunto de los siguientes documentos: el acta de 
 
 XIII. Precandidato: Es el ciudadano que pretende ser postulado como candidato a algún cargo de elección popular, y que ha cumplido con los requisitos que exige la legislación electoral;
 
-XIV. Organizadores de actos de campaña: Las personas que dirijan, coordinen, instrumenten o participen en la organización de las reuniones públicas, asambleas, marchas y en general los actos en que los candidatos o voceros de los partidos políticos se dirigen al electorado para promover sus candidaturas.
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+XIV. Organizadores de actos de campaña: Las personas que dirijan, coordinen, instrumenten o participen en la organización de las reuniones públicas, asambleas, marchas y en general los actos en que las personas candidatas o voceras de los partidos políticos se dirigen al electorado para promover sus candidaturas;
+
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+XV. Violencia política contra las mujeres en razón de género: En términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
 ## TÍTULO SEGUNDO. DE LOS DELITOS EN MATERIA ELECTORAL
 
@@ -320,6 +328,52 @@ I. Coaccione, induzca o amenace a sus subordinados para que voten o se abstengan
 
 II. Condicione la prestación de un servicio público, el cumplimiento de programas gubernamentales, el otorgamiento de concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio a favor de una opción dentro de la consulta popular.
 
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+###### Artículo 20 Bis.
+
+Comete el delito de violencia política contra las mujeres en razón de género quien por sí o interpósita persona:
+
+I. Ejerza cualquier tipo de violencia, en términos de ley, contra una mujer, que afecte el ejercicio de sus derechos políticos y electorales, o el desempeño de un cargo público;
+
+II. Restrinja o anule el derecho al voto libre y secreto de una mujer;
+
+III. Amenace o intimide a una mujer, directa o indirectamente, con el objeto de inducirla u obligarla a presentar su renuncia a una precandidatura o candidatura de elección popular;
+
+IV. Amenace o intimide a una mujer, directa o indirectamente, con el objeto de inducirla u obligarla a presentar su renuncia al cargo para el que haya sido electa o designada;
+
+V. Impida, por cualquier medio, que las mujeres electas o designadas a cualquier cargo público; rindan protesta; ejerzan libremente su cargo, así como las funciones inherentes al mismo;
+
+VI. Ejerza cualquier tipo de violencia, con la finalidad de obligar a una o varias mujeres a suscribir documentos o avalar decisiones contrarias a su voluntad, en el ejercicio de sus derechos políticos y electorales;
+
+VII. Limite o niegue a una mujer el otorgamiento, ejercicio de recursos o prerrogativas, en términos de ley, para el desempeño de sus funciones, empleo, cargo, comisión, o con la finalidad de limitar el ejercicio de sus derechos políticos y electorales;
+
+VIII. Publique o divulgue imágenes, mensajes o información privada de una mujer, que no tenga relación con su vida pública, utilizando estereotipos de género que limiten o menoscaben el ejercicio de sus derechos políticos y electorales;
+
+IX. Limite o niegue que una mujer reciba la remuneración por el desempeño de sus funciones, empleo, cargo o comisión;
+
+X. Proporcione información incompleta o datos falsos a las autoridades administrativas o jurisdiccionales en materia electoral, con la finalidad de impedir el ejercicio de los derechos políticos y electorales de las mujeres;
+
+XI. Impida, por cualquier medio, que una mujer asista a las sesiones ordinarias o extraordinarias, así como a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo;
+
+XII. Impida a una mujer su derecho a voz y voto, en el ejercicio del cargo;
+
+XIII. Discrimine a una mujer embarazada, con la finalidad de evitar el ejercicio de sus derechos políticos y electorales, impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad, o de cualquier otra contemplada en la normatividad, y
+
+XIV. Realice o distribuya propaganda político electoral que degrade o denigre a una mujer, basándose en estereotipos de género, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales.
+
+Las conductas señaladas en las fracciones de la I a la VI, serán sancionadas con pena de cuatro a seis años de prisión y de 200 a 300 días multa.
+
+Las conductas señaladas en las fracciones de la VII a la IX, serán sancionadas con pena de dos a cuatro años de prisión y de 100 a 200 días multa.
+
+Las conductas señaladas en las fracciones de la X a la XIV, serán sancionadas con pena de uno a dos años de prisión y de 50 a 100 días multa.
+
+Cuando las conductas señaladas en las fracciones anteriores fueren realizadas por servidora o servidor público, persona funcionaria electoral, funcionaria partidista, aspirante a candidata independiente, precandidata o candidata, o con su aquiescencia, la pena se aumentará en un tercio.
+
+Cuando las conductas señaladas en las fracciones anteriores, fueren cometidas contra una mujer perteneciente a un pueblo o comunidad indígena, la pena se incrementará en una mitad.
+
+Para la determinación de la responsabilidad y la imposición de las penas señaladas en este artículo, se seguirán las reglas de autoría y participación en términos de la legislación penal aplicable.
+
 ## TÍTULO TERCERO. COMPETENCIAS, FACULTADES Y COORDINACIÓN ENTRE LA FEDERACIÓN Y LAS ENTIDADES FEDERATIVAS
 
 ### CAPÍTULO I. Competencias y Facultades
@@ -411,3 +465,11 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO QUINTO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, DE LA LEY GENERAL DE PARTIDOS POLÍTICOS, DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el ejercicio fiscal que corresponda, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
