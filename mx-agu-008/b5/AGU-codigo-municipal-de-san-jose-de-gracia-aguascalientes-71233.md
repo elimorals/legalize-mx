@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2019-10-30"
+last_updated: "2020-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2020.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -733,6 +733,22 @@ En la Sesión de instalación del H. Ayuntamiento y en las Sesiones Solemnes, el
 
 Se denomina Cabildo al H. Ayuntamiento en Sesión. Las Sesiones serán presididas por el Presidente Municipal o por quien lo sustituya legalmente, constarán en un libro de actas que se levantará llevando el método estenográfico, las cuales conformarán el Diario de Debates, por el período de enero a diciembre de cada año.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2020)</small>
+
+Para efecto de levantar el acta, el Secretario deberá mandar videograbar el desarrollo de la Sesión para efecto de anotar e incluir de manera fidedigna las participaciones y comentarios de los miembros del Cabildo.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2020)</small>
+
+La videograbación a la que se hace referencia en el párrafo anterior tendrá el carácter de pública a través del portal oficial del Municipio y de Transparencia.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2020)</small>
+
+Queda prohibida la videograbación de las sesiones de Cabildo fuera de los términos señalados en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2020)</small>
+
+El integrante del Cabildo que lo desee podrá solicitar la remisión de la videograbación de la sesión que corresponda.
+
 ###### ARTÍCULO 50.
 
 Las Sesiones Ordinarias de Cabildo tendrán la siguiente estructura:
@@ -755,9 +771,11 @@ VIII. Asuntos generales; y,
 
 IX. Declaratoria de clausura.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 51.
 
-Las Sesiones del Cabildo serán: Ordinarias, Ordinarias Abiertas, Extraordinarias, Solemnes y Secretas conforme a la ley que en materia municipal expida el Poder Legislativo del Estado; todas tendrán el carácter de públicas excepto las que señale el presente Código como Secretas.
+Las Sesiones del Cabildo serán: Ordinarias, Ordinarias Abiertas, Extraordinarias, Solemnes y Secretas; todas tendrán el carácter de públicas excepto las que señale el Cabildo determine como Secretas.
 
 ###### ARTÍCULO 52.
 
@@ -786,6 +804,10 @@ Se consideran Sesiones Extraordinarias, las que se celebren entre los periodos d
 ###### ARTÍCULO 55.
 
 Serán Sesiones Solemnes aquellas que el Cabildo les de ese carácter por la importancia que revisten y de acuerdo a la Ley que en materia municipal expida el Poder Legislativo del Estado. Deberán asistir los integrantes del H. Ayuntamiento, conforme a la reglamentación protocolaria y podrá hacer uso de la palabra un representante del H. Ayuntamiento previo acuerdo del Cabildo.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 55 BIS.- Serán sesiones secretas aquellas a las que el Cabildo les otorgue ese carácter. En las sesiones secretas no se permitirá la asistencia de público, y solamente se permitirá la asistencia del personal necesario para su desahogo. La Sesión deberá videograbarse para los efectos del artículo 49 del presente Código.
 
 ###### ARTÍCULO 56.
 
@@ -821,17 +843,31 @@ IV. Cuando en el auditorio se observe alguna falta de respeto para alguno de los
 
 V. Cuando se pretenda discutir asuntos de interés particular.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 61 BIS.- Durante el desarrollo de las sesiones de Cabildo, con excepción de las secretas, se autoriza el acceso al público en general siempre y cuando mantengan un adecuado comportamiento y se abstengan de realizar lo siguiente:
+
+I. Alterar por cualquier medio el desarrollo de la sesión;
+
+II. Realizar gesticulaciones o cualquier señal a manera de desaprobación o insulto;
+
+III. Grabar o videograbar por cualquier medio el desarrollo de la sesión; y
+
+IV. Realizar cualquier acto que provoque molestia o incomodidad en los miembros del Cabildo.
+
 ###### ARTÍCULO 62.
 
 La Secretaría del H. Ayuntamiento deberá presentar en los meses de junio y diciembre un informe ante el Cabildo acerca de las solicitudes, asuntos dictaminados y asuntos pendientes de resolución clasificados por materia.
 
 De igual manera, la Contraloría deberá presentar al Cabildo un informe semestral sobre los asuntos de que hubiere tenido conocimiento. Una vez concluido y antes de su presentación en sesión solemne de Cabildo, los integrantes del H. Ayuntamiento deberán conocer por anticipado el contenido del Informe Anual de Gobierno.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 63.
 
-El Cabildo podrá ordenar la comparecencia de cualquier funcionario de la administración pública municipal, cuando se discuta algún asunto de su competencia, siempre que así lo requiera la mayoría de los integrantes.
+El Presidente podrá requerir la comparecencia de cualquier funcionario de la administración pública municipal, para el desarrollo o exposición de los temas del orden del día.
 
-Dichos servidores públicos rendirán los informes solicitados y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes del caso, cuando así lo amerite.
+Los servidores públicos deberán rendir los informes que el Cabildo les solicite y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes.
 
 ###### ARTÍCULO 64.
 
@@ -841,15 +877,21 @@ El Secretario del H. Ayuntamiento deberá estar presente durante la celebración
 
 Las sesiones se celebrarán en el Salón de Cabildo del Palacio Municipal, pudiendo efectuarse en lugar distinto, siempre que se declare, previamente recinto oficial por el Cabildo.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 66.
 
-Es obligación de los integrantes del H. Ayuntamiento, concurrir las sesiones de Cabildo a que sean convocados. El Regidor o Síndico que falte sin causa justificada a cinco sesiones será sancionado de acuerdo a lo que señala la Ley que en materia municipal expida el Poder Legislativo del Estado y el presente Código.
+Es obligación de los integrantes del H. Ayuntamiento, concurrir (sic) las sesiones de Cabildo a que sean convocados. El miembro del Cabildo que falte sin causa justificada a cinco sesiones aun sin ser consecutivas será separado de su cargo y será llamado su suplente.
+
+Para efectos del presente artículo, se dará vista al Congreso del Estado para que proceda conforme lo marca la normatividad aplicable para la separación del cargo.
 
 Del Debate en las Sesiones
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 67.
 
-El Presidente Municipal presidirá y dirigirá los debates, en los que podrán participar todos los integrantes del Cabildo, en el orden en que soliciten hacer uso de la palabra. Los Regidores y Síndicos que hagan uso de la palabra tendrán absoluta libertad para expresar sus ideas.
+El Presidente Municipal presidirá y dirigirá los debates, en los que podrán participar todos los integrantes del Cabildo, en el orden en que soliciten hacer uso de la palabra. Los Regidores y Síndicos que hagan uso de la palabra tendrán absoluta libertad para expresar sus ideas, sin más limitación que los derechos de terceros, así como la moral y las buenas costumbres.
 
 ###### ARTÍCULO 68.
 
@@ -892,6 +934,12 @@ No podrá efectuarse ninguna discusión, ni resolverse ningún asunto, cuando el
 ###### ARTÍCULO 77.
 
 En materia de discusiones, sólo se concederá el uso de la palabra hasta en tres ocasiones a un mismo Regidor o Síndico por un lapso máximo de cinco minutos cada una de ellas, a excepción del o los autores del dictamen o proposición y los Comisionados del ramo, quienes podrán intervenir cuando lo deseen, mientras no se declare por el pleno que el asunto está suficientemente discutido. Se exceptúan de lo anterior, aquellos casos en que por la importancia del tema, el Cabildo al inicio de la Sesión apruebe que no haya limitación en el tiempo y número de participaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2020)</small>
+
+Para efectos del presente artículo, el Secretario del H. Ayuntamiento tomará los tiempos de cada intervención y procederá en su caso a solicitar finalice su participación.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 78.
 
@@ -976,6 +1024,10 @@ I. Amonestación por parte de quién preside la sesión, apercibiéndolo al cump
 II. Multa por un equivalente de 5 a 5,000 días de Salario Mínimo General vigente en el Estado en el momento de imponer la sanción, sin perjuicio de las sanciones a que se hagan acreedores y que se encuentren contenidas en otros ordenamientos legales; y,
 
 III. Suspensión en el pago de sus salarios, en caso de reincidencia, sin perjuicio de las sanciones a que se hagan acreedores y que se encuentren contenidas en otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2020)</small>
+
+La aplicación de estas sanciones será por parte del Cabildo a través de las dependencias administrativas correspondientes.
 
 De la Revocación de Acuerdos
 
@@ -13556,3 +13608,11 @@ P.O. 30 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO MUNICIPAL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA Y SE DEROGAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL ÓRGANO DE CONTROL INTERNO DEL MUNICIPIO DE SAN JOSÉ DE GRACIA”.]
 
 UNICO: El presente Punto de Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado del Estado (sic) de Aguascalientes.
+
+P.O. 13 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA".]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación el Periódico Oficial.
