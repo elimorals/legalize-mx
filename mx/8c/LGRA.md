@@ -4,7 +4,7 @@ identifier: "LGRA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2016-07-18"
-last_updated: "2019-11-19"
+last_updated: "2020-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115700&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGRA"
 
 LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 18 de julio de 2016.
 
@@ -600,9 +600,11 @@ Para efectos del artículo anterior, se considera información privilegiada la q
 
 La restricción prevista en el artículo anterior será aplicable inclusive cuando el servidor público se haya retirado del empleo, cargo o comisión, hasta por un plazo de un año.
 
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
 ###### Artículo 57.
 
-Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público.
+Incurrirá en abuso de funciones la persona servidora o servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realiza por sí o a través de un tercero, alguna de las conductas descritas en el artículo 20 Ter, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### Artículo 58.
 
@@ -1983,3 +1985,11 @@ Octavo. En un plazo de hasta ciento ochenta días hábiles posteriores a la entr
 Noveno. La Secretaría podrá convenir con las principales instituciones educativas especializadas en administración pública del país, convenios de colaboración para la capacitación y profesionalización del personal de los entes públicos de la Administración Pública Federal, en materia de construcción de indicadores y mejora continua de procesos que permitan identificar áreas de oportunidad para lograr un gasto austero, responsable, eficiente y eficaz.
 
 Décimo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+D.O.F. 13 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, DE LA LEY GENERAL DE PARTIDOS POLÍTICOS, DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el ejercicio fiscal que corresponda, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
