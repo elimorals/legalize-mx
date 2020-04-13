@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-gestion-social-de-los-integrantes-del-h-141913"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-01-20"
-last_updated: "2020-01-20"
+last_updated: "2020-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE GESTIÓN SOCIAL DE LOS INTEGRANTES DEL H. CABILDO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2020.
 
 Reglamento publicado en la Cuarta Sección al Núm. 3 del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de enero de 2020.
 
@@ -53,45 +53,83 @@ Para efectos del presente Reglamento, se entiende por apoyo, toda aquella ayuda,
 
 ### CAPÍTULO SEGUNDO. DE LOS TIPOS DE APOYOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2020)</small>
+
 ###### Artículo 4.
 
 Los apoyos susceptibles de entregarse podrán ser en especie o en efectivo y únicamente podrán ser destinados o utilizados para los siguientes fines:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
+
 I. Medicamentos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
 
 II. Transporte terrestre, pudiendo ser autobús, combi, o taxi;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
+
 III. Gasolina;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
 
 IV. Pago de servicios domésticos, tales como energía eléctrica y gas;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
+
 V. Gastos funerarios;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
 
 VI. Festividades patronales;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
+
 VII. Alimentación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
 
 VIII. Gastos y utensilios escolares, tanto a alumnos como a maestros;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
+
 IX. Gastos hospitalarios;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
 
 X. Estudios clínicos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
+
 XI. Tratamientos oftalmológicos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
 
 XII. Tratamientos dentales;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
+
 XIII. Materiales de construcción;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
 
 XIV. Infraestructura básica del hogar;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
+
 XV. Material deportivo;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
 
 XVI. Uniformes;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
+
 XVII. Pago de servicios ante diversas dependencias de gobierno;
 
-XVIII. Festividades personales extraordinarias, tales como bodas, XV años, bautizos y similares; y
+XVIII. (DEROGADA, P.O. 13 DE ABRIL DE 2020)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
 
 XIX. Apoyos para la adquisición de insumos agrícolas.
 
@@ -101,6 +139,8 @@ Queda prohibido adquirir con el recurso entregado en términos del presente regl
 
 ### CAPÍTULO TERCERO. DE LA SOLICITUD
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2020)</small>
+
 ###### Artículo 6.
 
 Para efecto de acceder a los apoyos a los que se hacen (sic) referencia en el presente Reglamento, el peticionario deberá elaborar un formato o escrito de solicitud dirigido a cualquiera de los integrantes del Cabildo, escrito que deberá contener los siguientes elementos:
@@ -109,9 +149,11 @@ I. Lugar y fecha de la solicitud;
 
 II. Generales del beneficiario, entre los cuales deberán incluir nombre completo, domicilio, colonia y población;
 
-III. Descripción de la petición, señalar el objeto de la solicitud dentro de los señalados en el artículo 4 del presente reglamento; y
+III. Descripción de la petición, señalar el objeto de la solicitud dentro de los señalados en el artículo 4 del presente reglamento;
 
-IV. Firma del beneficiario.
+IV. Firma del beneficiario; y
+
+V. Que el solicitante no guarde parentesco directo con el miembro del Cabildo, ni civil ni por afinidad hasta el cuarto grado.
 
 ###### Artículo 7.
 
@@ -143,13 +185,19 @@ Los miembros del Cabildo podrán realizar la entrega de apoyos de manera individ
 
 Para efectos del artículo anterior, la Dirección de Finanzas les entregará quincenalmente la partida presupuestal que para tal efecto se determine, misma que deberá ser debidamente comprobada en los términos señalados en el capítulo quinto del presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2020)</small>
+
 ###### Artículo 11.
 
 Los miembros del Cabildo realizarán la entrega de apoyos de (sic) libremente, sin embargo se deberán sujetar a las siguientes reglas:
 
-I. Se podrá destinar apoyo a familiares directos, siempre y cuando no se realice de manera consecutiva;
+I. (DEROGADA, P.O. 13 DE ABRIL DE 2020)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
 
 II. Se podrá apoyar a personas de la sociedad civil de manera continua siempre y cuando haya una causa debidamente justificada; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2020)</small>
 
 III. Se podrá fraccionar el pago de apoyos para su entrega en varias ministraciones.
 
@@ -208,3 +256,11 @@ Los integrantes del Cabildo que no atiendan las disposiciones del presente Regla
 El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 Lo anterior para el conocimiento de la ciudadanía. Dado en el salón de sesiones de H. Ayuntamiento de San José de Gracia, Aguascalientes, en la sesión celebrada el día trece de diciembre del año dos mil diecinueve, con la presencia de la C. María Cristina López González, Presidenta Municipal de San José de Gracia, Ags., los regidores Karina Almendariz Santos, José Manuel Nájera Ramírez, Ramona Muñoz Rodríguez, Yarenci Margarita Burgos Suárez, Jesús Tonatiuh Villaseñor y Juana Imelda Llamas Tavarez y el Lic. Abel Macías Rodríguez, Síndico Municipal, así como el Secretario del H. Ayuntamiento, el Lic. Giovanni Manuel Rodríguez Reyes. En consecuencia de conformidad con lo dispuesto por el artículo 38 fracción I de la Ley Municipal para el Estado de Aguascalientes y 35 fracción I del Código Municipal de San José de Gracia, promulgo y ordeno se dé publicidad para su debido cumplimiento y los efectos legales conducentes. San José de Gracia, Ags., a quince de enero del año dos mil veinte.- C. María Cristina López González, Presidenta Municipal de San José de Gracia.- Rúbrica.- Lic. Giovanni Manuel Rodríguez Reyes, Secretario del H. Ayuntamiento, quien valida con su firma en términos del artículo 143 fracción XV del Código Municipal de San José de Gracia.- Rúbrica.
+
+P.O. 13 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO DE GESTIÓN SOCIAL DE LOS INTEGRANTES DEL H. CABILDO DE SAN JOSÉ DE GRACIA".]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
