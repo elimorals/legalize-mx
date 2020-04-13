@@ -4,7 +4,7 @@ identifier: "LGPP"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-05-23"
-last_updated: "2014-05-23"
+last_updated: "2020-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100930&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPP"
 
 LEY GENERAL DE PARTIDOS POLÍTICOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -74,7 +74,9 @@ j) El régimen jurídico aplicable a las agrupaciones políticas nacionales.
 
 ###### Artículo 2.
 
-1. Son derechos político-electorales de los ciudadanos mexicanos, con relación a los partidos políticos, los siguientes:
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+1. Son derechos político-electorales de las ciudadanas y los ciudadanos mexicanos, con relación a los partidos políticos, los siguientes:
 
 a) Asociarse o reunirse pacíficamente para tomar parte en los asuntos políticos del país;
 
@@ -94,9 +96,17 @@ b) Organizaciones con objeto social diferente a la creación de partidos, y
 
 c) Cualquier forma de afiliación corporativa.
 
-3. Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-4. Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a legisladores federales y locales. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+3. Los partidos políticos promoverán los valores cívicos y la cultura democrática, la igualdad sustantiva entre niñas, niños y adolescentes, y garantizarán la participación paritaria en la integración de sus órganos, así como en la postulación de candidaturas.
+
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+4. Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a legislaturas federales y locales, así como en la integración de los Ayuntamientos y de las Alcaldías, en el caso de la Ciudad de México. Éstos deberán ser objetivos y asegurar condiciones de igualdad sustantiva entre mujeres y hombres.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+En caso de incumplimiento a esta disposición serán acreedores a las sanciones que establezcan las leyes en la materia.
 
 5. En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
@@ -116,15 +126,19 @@ e) Instituto: El Instituto Nacional Electoral;
 
 f) Ley: La Ley General de Partidos Políticos;
 
-g) Ley General: La Ley General de Instituciones y Procedimientos Electorales;
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-h) Organismos Públicos Locales: Los organismos públicos electorales de las entidades federativas;
+g) Ley General de Acceso: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-i) Unidad Técnica: La Unidad Técnica de Fiscalización del Instituto Nacional Electoral;
+h) Ley General: La Ley General de Instituciones y Procedimientos Electorales;
 
-j) Partidos Políticos: Los partidos políticos nacionales y locales, y
+i) Organismos Públicos Locales: Los organismos públicos electorales de las entidades federativas;
 
-k) Tribunal: El Tribunal Electoral del Poder Judicial de la Federación.
+j) Unidad Técnica: La Unidad Técnica de Fiscalización del Instituto Nacional Electoral;
+
+k) Partidos Políticos: Los partidos políticos nacionales y locales, y
+
+l) Tribunal: El Tribunal Electoral del Poder Judicial de la Federación.
 
 ###### Artículo 5.
 
@@ -400,7 +414,9 @@ d) Acceder a las prerrogativas y recibir el financiamiento público en los térm
 
 En las entidades federativas donde exista financiamiento local para los partidos políticos nacionales que participen en las elecciones locales de la entidad, las leyes locales no podrán establecer limitaciones a dicho financiamiento, ni reducirlo por el financiamiento que reciban de sus dirigencias nacionales;
 
-e) Organizar procesos internos para seleccionar y postular candidatos en las elecciones, en los términos de esta Ley y las leyes federales o locales aplicables;
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+e) Organizar procesos internos para seleccionar y postular candidaturas en las elecciones garantizando la participación de mujeres y hombres en igualdad de condiciones, en los términos de esta Ley y las leyes federales o locales aplicables;
 
 f) Formar coaliciones, frentes y fusiones, las que en todo caso deberán ser aprobadas por el órgano de dirección nacional que establezca el Estatuto de cada uno de los partidos, en los términos de esta Ley y las leyes federales o locales aplicables;
 
@@ -442,7 +458,9 @@ c) Mantener el mínimo de militantes requeridos en las leyes respectivas para su
 
 d) Ostentar la denominación, emblema y color o colores que tengan registrados, los cuales no podrán ser iguales o semejantes a los utilizados por partidos políticos ya existentes;
 
-e) Cumplir sus normas de afiliación y observar los procedimientos que señalen sus estatutos para la postulación de candidatos;
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+e) Cumplir sus normas de afiliación y observar los procedimientos que señalen sus estatutos para la postulación de candidaturas;
 
 f) Mantener en funcionamiento efectivo a sus órganos estatutarios;
 
@@ -470,11 +488,29 @@ q) Abstenerse de realizar afiliaciones colectivas de ciudadanos;
 
 r) Garantizar la paridad entre los géneros en candidaturas a legisladores federales y locales;
 
-s) Elaborar y entregar los informes de origen y uso de recursos a que se refiere la presente Ley;
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-t) Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone, y
+s) Garantizar en igualdad de condiciones la participación de mujeres y hombres en sus órganos internos de dirección y espacios de toma de decisiones;
 
-u) Las demás que establezcan las leyes federales o locales aplicables.
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+t) Garantizar a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, en los términos de la Ley General de Acceso;
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+u) Sancionar por medio de los mecanismos y procedimientos internos con los que se cuente todo acto relacionado con la violencia política contra las mujeres en razón de género;
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES INCISO S], D.O.F. 13 DE ABRIL DE 2020)</small>
+
+v) Elaborar y entregar los informes de origen y uso de recursos a que se refiere la presente Ley, dentro de los cuales deberán informar trimestralmente de manera pormenorizada y justificada sobre la aplicación de los recursos destinados para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres;
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+w) Garantizar la no discriminación por razón de género en la programación y distribución de tiempos del Estado;
+
+x) Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone, y
+
+y) Las demás que establezcan las leyes federales o locales aplicables.
 
 ###### Artículo 26.
 
@@ -622,9 +658,21 @@ b) Los principios ideológicos de carácter político, económico y social que p
 
 c) La declaración de no aceptar pacto o acuerdo que lo sujete o subordine al solicitante a cualquier organización internacional o lo haga depender de entidades o partidos políticos extranjeros; así como no solicitar o, en su caso, rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de los cultos de cualquier religión, así como de las asociaciones y organizaciones religiosas e iglesias y de cualquiera de las personas a las que esta Ley prohíbe financiar a los partidos políticos;
 
-d) La obligación de conducir sus actividades por medios pacíficos y por la vía democrática, y
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-e) La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres.
+d) La obligación de conducir sus actividades por medios pacíficos y por la vía democrática;
+
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+e) La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres;
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+f) La obligación de promover, proteger y respetar los derechos políticos y electorales de las mujeres, establecidos en la Constitución Federal y en los tratados internacionales firmados y ratificados por México, y
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+g) Establecer mecanismos de sanción aplicables a quien o quienes ejerzan violencia política contra las mujeres en razón de género, acorde a lo estipulado en la Ley General de Instituciones y Procedimientos Electorales, en la Ley General de Acceso y las demás leyes aplicables.
 
 ###### Artículo 38.
 
@@ -634,9 +682,21 @@ a) Alcanzar los objetivos de los partidos políticos;
 
 b) Proponer políticas públicas;
 
-c) Formar ideológica y políticamente a sus militantes, y
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-d) Preparar la participación activa de sus militantes en los procesos electorales.
+c) Formar ideológica y políticamente a las y los militantes;
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+d) Promover la participación política de las militantes;
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+e) Establecer mecanismos de promoción y acceso de las mujeres a la actividad política del partido, así como la formación de liderazgos políticos, y
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES INCISO D], D.O.F. 13 DE ABRIL DE 2020)</small>
+
+f) Preparar la participación activa de las y los militantes en los procesos electorales.
 
 ###### Artículo 39.
 
@@ -652,17 +712,31 @@ d) La estructura orgánica bajo la cual se organizará el partido político;
 
 e) Las normas y procedimientos democráticos para la integración y renovación de los órganos internos, así como las funciones, facultades y obligaciones de los mismos;
 
-f) Las normas y procedimientos democráticos para la postulación de sus candidatos;
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-g) La obligación de presentar una plataforma electoral, para cada elección en que participe, sustentada en su declaración de principios y programa de acción;
+f) Los mecanismos y procedimientos que permitirán garantizar la integración de liderazgos políticos de mujeres al interior del partido;
 
-h) La obligación de sus candidatos de sostener y difundir la plataforma electoral durante la campaña electoral en que participen;
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-i) Los tipos y las reglas de financiamiento privado a los que recurrirán los partidos políticos;
+g) Los mecanismos que garanticen la prevención, atención y sanción de la violencia política contra las mujeres en razón de género;
 
-j) Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanismos alternativos de solución de controversias internas, con los cuales se garanticen los derechos de los militantes, así como la oportunidad y legalidad de las resoluciones, y
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES INCISO F], D.O.F. 13 DE ABRIL DE 2020)</small>
 
-k) Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas, mediante un procedimiento disciplinario intrapartidario, con las garantías procesales mínimas que incluyan los derechos de audiencia y defensa, la descripción de las posibles infracciones a la normatividad interna o causales de expulsión y la obligación de motivar y fundar la resolución respectiva.
+h) Las normas y procedimientos democráticos para la postulación de candidaturas;
+
+i) La obligación de presentar una plataforma electoral, para cada elección en que participe, sustentada en su declaración de principios y programa de acción;
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES INCISO H], D.O.F. 13 DE ABRIL DE 2020)</small>
+
+j) La obligación de sus candidatas o candidatos de sostener y difundir la plataforma electoral durante la campaña electoral en que participen;
+
+k) Los tipos y las reglas de financiamiento privado a los que recurrirán los partidos políticos;
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES INCISO J], D.O.F. 13 DE ABRIL DE 2020)</small>
+
+l) Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanismos alternativos de solución de controversias internas, con los cuales se garanticen los derechos de las y los militantes, así como la oportunidad y legalidad de las resoluciones, y
+
+m) Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas, mediante un procedimiento disciplinario intrapartidario, con las garantías procesales mínimas que incluyan los derechos de audiencia y defensa, la descripción de las posibles infracciones a la normatividad interna o causales de expulsión y la obligación de motivar y fundar la resolución respectiva.
 
 ### CAPÍTULO III. De los Derechos y Obligaciones de los Militantes
 
@@ -730,13 +804,19 @@ c) Un órgano responsable de la administración de su patrimonio y recursos fina
 
 d) Un órgano de decisión colegiada, democráticamente integrado, responsable de la organización de los procesos para la integración de los órganos internos del partido político y para la selección de candidatos a cargos de elección popular;
 
-e) Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial y objetivo;
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+e) Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial, objetivo y aplicará la perspectiva de género en todas las resoluciones que emita.
 
 f) Un órgano encargado de cumplir con las obligaciones de transparencia y acceso a la información que la Constitución y las leyes de la materia imponen a los partidos políticos, y
 
 g) Un órgano encargado de la educación y capacitación cívica de los militantes y dirigentes.
 
 2. Los partidos políticos nacionales deberán contar, además de los señalados en el párrafo anterior, con comités o equivalentes en las entidades federativas con facultades ejecutivas.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+3. En dichos órganos internos se garantizará el principio de paridad de género.
 
 ### CAPÍTULO V. De los Procesos de Integración de Órganos Internos y de Selección de Candidatos
 
@@ -768,7 +848,9 @@ b) El órgano colegiado a que se refiere el inciso d) del párrafo 1 del artícu
 
 I. Registrará a los precandidatos o candidatos y dictaminará sobre su elegibilidad, y
 
-II. Garantizará la imparcialidad, equidad, transparencia y legalidad de las etapas del proceso.
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+II. Garantizará la imparcialidad, igualdad, equidad, transparencia, paridad y legalidad de las etapas del proceso.
 
 ###### Artículo 45.
 
@@ -800,7 +882,9 @@ h) El Instituto únicamente podrá rechazar la solicitud si existe imposibilidad
 
 1. Los partidos políticos establecerán procedimientos de justicia intrapartidaria que incluyan mecanismos alternativos de solución de controversias.
 
-2. El órgano de decisión colegiado previsto en el artículo 43, inciso e) de esta Ley, deberá estar integrado de manera previa a la sustanciación del procedimiento, por un número impar de miembros; será el órgano responsable de impartir justicia interna y deberá conducirse con independencia, imparcialidad y legalidad, así como con respeto a los plazos que establezcan los estatutos de los partidos políticos.
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+2. El órgano de decisión colegiado previsto en el artículo 43, inciso e) de esta Ley, deberá estar integrado de manera previa a la sustanciación del procedimiento, por un número impar de integrantes; será el órgano responsable de impartir justicia interna y deberá conducirse con independencia, imparcialidad y legalidad, así mismo deberá sustanciar cualquier procedimiento con perspectiva de género, y el respeto a los plazos que establezcan los estatutos de los partidos políticos.
 
 3. Los estatutos de los partidos políticos establecerán medios alternativos de solución de controversias sobre asuntos internos, para lo cual deberán prever los supuestos en los que serán procedentes, la sujeción voluntaria, los plazos y las formalidades del procedimiento.
 
@@ -816,13 +900,15 @@ h) El Instituto únicamente podrá rechazar la solicitud si existe imposibilidad
 
 1. El sistema de justicia interna de los partidos políticos deberá tener las siguientes características:
 
-a) Tener una sola instancia de resolución de conflictos internos a efecto de que las resoluciones se emitan de manera pronta y expedita;
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+a) Tener una sola instancia de resolución de conflictos internos a efecto de que las resoluciones se emitan de manera pronta y expedita, aplicando la perspectiva de género y garantizando el acceso a la justicia;
 
 b) Establecer plazos ciertos para la interposición, sustanciación y resolución de los medios de justicia interna;
 
 c) Respetar todas las formalidades esenciales del procedimiento, y
 
-d) Ser eficaces formal y materialmente para, en su caso, restituir a los afiliados en el goce de los derechos político–electorales en los que resientan un agravio.
+d) Ser eficaces formal y materialmente para, en su caso, restituir a los afiliados en el goce de los derechos político-electorales en los que resientan un agravio.
 
 ## TÍTULO CUARTO. DEL ACCESO A LA RADIO Y A LA TELEVISIÓN
 
@@ -1212,9 +1298,13 @@ b) La elaboración, publicación y distribución de libros, revistas, folletos o
 
 c) La organización de mesas de trabajo, conferencias, talleres, eventos y proyecciones que permitan difundir temas relacionados con el desarrollo de la mujer en su incorporación a la vida política;
 
-d) La realización de propaganda y publicidad relacionada con la ejecución y desarrollo de las acciones en la materia, y
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-e) Todo gasto necesario para la organización y difusión de las acciones referidas.
+d) La creación o fortalecimiento de mecanismos para prevenir, atender, sancionar y erradicar la violencia política contra las mujeres en razón de género;
+
+e) La realización de propaganda y publicidad relacionada con la ejecución y desarrollo de las acciones en la materia, y
+
+f) Todo gasto necesario para la organización y difusión de las acciones referidas.
 
 ###### Artículo 74.
 
@@ -1683,3 +1773,13 @@ NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 15 de mayo de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Ángel Cedillo Hernández, Secretario.- Rúbricas.”
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, DE LA LEY GENERAL DE PARTIDOS POLÍTICOS, DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el ejercicio fiscal que corresponda, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
