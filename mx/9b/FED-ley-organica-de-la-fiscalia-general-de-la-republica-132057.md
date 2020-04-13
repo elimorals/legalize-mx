@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-fiscalia-general-de-la-republica-132057"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-14"
-last_updated: "2018-12-14"
+last_updated: "2020-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132057&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2018-12-14"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
 
-Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el 14 de diciembre de 2018.
+Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el viernes 14 de diciembre de 2018.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -627,9 +627,17 @@ IX. Efectuar reportes estratégicos, así como cualquier otro que se considere n
 
 X. Realizar los actos de investigación, en apoyo a la Coordinación de Investigaciones y Persecución Penal, conforme lo determine el Reglamento de esta Ley;
 
-XI. Evaluar riesgos y proteger a las personas ofendidas, víctimas, testigos y demás sujetos procesales, en los casos que existan amenazas o riesgos a su integridad o vida, y
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-XII. Coordinar y colaborar con entidades gubernamentales y no gubernamentales, nacionales e internacionales, para la implementación de los esquemas de seguridad de víctimas, testigos y demás sujetos procesales.
+XI. Evaluar riesgos y proteger a las personas ofendidas, víctimas, testigos y demás sujetos procesales, en los casos que existan amenazas o riesgos a su integridad o vida;
+
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+XII. Coordinar y colaborar con entidades gubernamentales y no gubernamentales, nacionales e internacionales, para la implementación de los esquemas de seguridad de víctimas, testigos y demás sujetos procesales, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+XIII. Crear la Base Estadística Nacional de Violencia Política contra las Mujeres en razón de Género.
 
 El personal de la Coordinación de Métodos de Investigación podrá ser comisionado conforme a las disposiciones de esta Ley y su Reglamento.
 
@@ -935,9 +943,13 @@ Estas unidades actuarán coordinadamente con la Coordinación de Métodos de Inv
 
 Comisiones Especiales
 
-La persona titular de la Fiscalía General de la República podrá crear comisiones especiales, de carácter temporal, que gozarán de autonomía técnica y de gestión, para colaborar en las investigaciones de fenómenos y delitos que debido a su contexto, a juicio del fiscal, amerite su creación, incluyendo aquellos sobre feminicidios, violencia sexual, trata de personas, o que impliquen violaciones a derechos humanos, en especial de los pueblos y las comunidades indígenas, de las niñas, niños, adolescentes y personas migrantes. Los trabajos, recomendaciones y conclusiones de las comisiones podrán ser tomados en consideración por los órganos de la función fiscal, para la investigación y el ejercicio de la acción penal de los asuntos correspondientes.
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-Las Comisiones Especiales tendrán como enfoque el acceso a la verdad, la justicia, la reparación integral y la garantía de no repetición. Serán integradas, de manera multidisciplinaria, por expertos de reconocida experiencia, tanto nacionales o internacionales en las materias que se requieran, organismos internacionales, organismos de la sociedad civil, universidades públicas y privadas y colectivos de víctimas.
+La persona titular de la Fiscalía General de la República podrá crear comisiones especiales, de carácter temporal, que gozarán de autonomía técnica y de gestión, para colaborar en las investigaciones de fenómenos y delitos que debido a su contexto, a juicio del fiscal, amerite su creación, incluyendo aquellos sobre feminicidios, violencia sexual, violencia política contra las mujeres en razón de género, trata de personas, o que impliquen violaciones a derechos humanos, en especial de los pueblos y las comunidades indígenas, de las niñas, niños, adolescentes y personas migrantes. Los trabajos, recomendaciones y conclusiones de las comisiones podrán ser tomados en consideración por los órganos de la función fiscal, para la investigación y el ejercicio de la acción penal de los asuntos correspondientes.
+
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+Las Comisiones Especiales tendrán como enfoque el acceso a la verdad, la justicia, la reparación integral y la garantía de no repetición. Serán integradas, de manera multidisciplinaria, por personas expertas de reconocida experiencia, tanto nacionales o internacionales en las materias que se requieran, organismos internacionales, organismos de la sociedad civil, universidades públicas y privadas y colectivos de víctimas.
 
 ###### Artículo 51.
 
@@ -1254,3 +1266,13 @@ Vigésimo Tercero. La persona titular de la Fiscalía General de la República s
 Ciudad de México, a 11 de diciembre de 2018.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciocho.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, DE LA LEY GENERAL DE PARTIDOS POLÍTICOS, DE LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el ejercicio fiscal que corresponda, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
