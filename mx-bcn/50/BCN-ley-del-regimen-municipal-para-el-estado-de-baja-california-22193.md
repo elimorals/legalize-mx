@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2020-01-24"
+last_updated: "2020-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -91,9 +91,11 @@ De las Sesiones de Cabildo.- El Ayuntamiento funciona de manera colegiada, en r�
 
 I.- En las sesiones de Cabildo, todos los miembros integrantes del Ayuntamiento tienen derecho a voz y voto;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2020)</small>
 
-II.- Las sesiones de Cabildo se desarrollarán conforme lo disponga el reglamento correspondiente, debiendo ser públicas por regla general y se deberán transmitir en vivo a través de su portal de internet conforme a las disposiciones de esta ley; y reservadas cuando así lo proponga el Presidente Municipal, o en su caso, lo soliciten por escrito la mayoría de los miembros del Ayuntamiento y que la naturaleza de los asuntos a tratar así lo amerite. En dichas sesiones deberán tomarse las medidas necesarias para la protección de los datos personales y demás información cuya difusión sea restringida por la ley de la materia. Los acuerdos que se adopten deberán hacerse públicos.
+II.- Las Sesiones de Cabildo se desarrollarán conforme lo disponga el reglamento correspondiente, debiendo ser públicas por regla general y se deberán transmitir en vivo a través de su portal de internet conforme a las disposiciones de esta Ley; y reservadas cuando así lo proponga el Presidente Municipal, o en su caso, lo soliciten por escrito la mayoría de los miembros del Ayuntamiento y que la naturaleza de los asuntos a tratar así lo amerite. En dichas sesiones deberán tomarse las medidas necesarias para la protección de los datos personales y demás información cuya difusión sea restringida por la Ley de la materia. Los acuerdos que se adopten deberán hacerse públicos.
+
+Cuando por caso fortuito o causas de fuerza mayor, sea imposible que los integrantes del Cabildo Municipal puedan reunirse a sesionar de manera presencial, por haberse decretado una medida de seguridad sanitaria por la autoridad competente, el Presidente Municipal o los Presidentes de las Comisiones de Trabajo instituidas por el Ayuntamiento, podrán convocar a sesión virtual de Cabildo o de Comisiones, respectivamente, debiendo hacerlo por escrito o vía electrónica, especificando únicamente los temas a tratar, por tratarse de una ocasión extraordinaria.
 
 III.- Para levantar las actas de las reuniones de Cabildo, llevar su adecuado registro, darle publicidad a los acuerdos adoptados, y ejercer la fé pública del órgano de gobierno, en cada Ayuntamiento fungirá una persona como secretario fedatario, quien no será miembro del Ayuntamiento y se designará por mayoría a propuesta del Presidente Municipal;
 
@@ -1104,3 +1106,11 @@ P.O. 24 DE ENERO DE 2020.
 PRIMERO.- La presente Reforma entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Ayuntamientos del Estado, deberán adecuar su reglamentación dentro de un periodo de 90 días, contados a partir del inicio de la vigencia de la presente reforma.
+
+P.O. 13 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 57 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 5 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Municipios del Estado tendrán un plazo de 30 días, contados a partir de la entrada en vigor del presente Decreto, para armonizar sus reglamentos conforme a lo establecido en la presente reforma.
