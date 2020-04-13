@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nayarit-77
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-23"
-last_updated: "2020-04-08"
+last_updated: "2020-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 2020 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE ABRIL DE 2020.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 23 de octubre de 2010.
 
@@ -519,9 +519,9 @@ VIII. Los demás que acuerde la Junta de Gobierno en fomento a la ciencia, la te
 
 En ningún caso, los recursos que constituyen el Fondo se destinarán a sufragar gastos que deriven a fines distintos a los enumerados en el artículo anterior. Se exceptúan de dicha prohibición los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador, conforme a lo dispuesto por la Ley Electoral del Estado de Nayarit, los cuales podrán ser destinados también a la atención de contingencias o emergencias sanitarias declaradas por la autoridad competente.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2020)</small>
+(ADICIONADO, P.O. 8 DE ABRIL DE 2020) (F. DE E., P.O. 13 DE ABRIL DE 2020)
 
-En caso de que se haga uso de los recursos del Fondo para el caso de excepción señalado en el presente artículo, será aplicable la Ley de Adquisiciones, Arrendamientos, Servicios y Almacenes del Estado de Nayarit; y deberán considerarse los principios de eficacia, eficiencia, transparencia y rendición de cuentas.
+En caso de que se haga uso de los recursos del Fondo para el caso de excepción señalado en el presente artículo, no será aplicable la Ley de Adquisiciones, Arrendamientos, Servicios y Almacenes del Estado de Nayarit; y deberán considerarse los principios de eficacia, eficiencia, transparencia y rendición de cuentas.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2020)</small>
 
