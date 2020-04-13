@@ -4,7 +4,7 @@ identifier: "LVZMM"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-17"
-last_updated: "2014-01-17"
+last_updated: "2020-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97456&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LVZMM"
 ---
 # LEY DE VERTIMIENTOS EN LAS ZONAS MARINAS MEXICANAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE VERTIMIENTOS EN LAS ZONAS MARINAS MEXICANAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR CIENTO OCHENTA DÍAS A PARTIR DEL DÍA SIGUIENTE DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -80,29 +80,79 @@ X. Zona de Tiro.- Área determinada geográficamente por la Secretaría para rea
 
 XI. Zonas Marinas Mexicanas.- Las establecidas en la Ley Federal del Mar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
 ###### Artículo 3.
 
-Es vertimiento en las zonas marinas mexicanas, cualquiera de los supuestos siguientes:
+Para efectos de la presente Ley, se entenderá como vertimiento en las zonas marinas mexicanas, lo siguiente:
 
-I. Toda evacuación, eliminación, introducción o liberación en las zonas marinas mexicanas, deliberada o accidental, de desechos u otras materias incluyendo aguas de lastre alóctonas, provenientes de buques, aeronaves, plataformas u otras construcciones;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-II. El hundimiento deliberado de buques, aeronaves, plataformas u otras construcciones, así como las que se deriven de éste;
+I. La evacuación deliberada de desechos u otras materias, desde buques, aeronaves, plataformas u otras construcciones con el único objeto de deshacerse de ellas;
 
-III. El almacenamiento de desechos u otras materias en el lecho del mar o en el subsuelo de éste desde buques, aeronaves, plataformas u otras construcciones;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-IV. El abandono de buques, aeronaves, plataformas u otras construcciones, u otros objetos, incluyendo las artes de pesca, con el único objeto de deshacerse deliberadamente de ellas;
+II. El hundimiento deliberado de buques, aeronaves, plataformas u otras construcciones en el mar, con el único objeto de deshacerse de ellas;
 
-V. La descarga de cualquier tipo de materia orgánica como atrayente de especies biológicas, cuyo fin no sea su pesca;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-VI. La colocación de materiales u objetos de cualquier naturaleza, con el objeto de crear arrecifes artificiales, muelles, espigones, escolleras, o cualquier otra estructura, y
+III. El almacenamiento de desechos u otras materias en el lecho marino o en el subsuelo de éste, desde buques, aeronaves, plataformas u otras construcciones en el mar, y
 
-VII. La resuspensión de sedimento, consistente en el regreso del sedimento depositado, a un estado de suspensión en el cuerpo de agua, por cualquier método o procedimiento, que traiga como consecuencia su sedimentación.
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+IV. Todo abandono o derribo in situ de plataformas u otras construcciones, con el único objeto de deshacerse deliberadamente de ellas.
+
+V. (DEROGADA, D.O.F. 13 DE ABRIL DE 2020)
+
+VI. (DEROGADA, D.O.F. 13 DE ABRIL DE 2020)
+
+VII. (DEROGADA, D.O.F. 13 DE ABRIL DE 2020)
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+###### Artículo 3 Bis.
+
+En las zonas marinas mexicanas no se considerará como vertimiento lo siguiente:
+
+I. La evacuación en el mar de desechos u otras materias resultante, directa o indirectamente, de las operaciones normales de buques, aeronaves, plataformas u otras construcciones en el mar y de su equipo, salvo los desechos u otras materias que se transporten en buques, aeronaves, plataformas u otras construcciones en el mar destinados a la evacuación de tales materias, o se transborden a ellos, o que resulten del tratamiento de tales desechos u otras materias en esos buques, aeronaves, plataformas o construcciones;
+
+II. La colocación de materias para un fin distinto del de su mera evacuación, siempre que dicha colocación no sea contraria a los objetivos del Protocolo 1996 relativo al Convenio sobre la Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias, y
+
+III. El abandono de materiales que hayan sido colocadas para un fin distinto del de su mera evacuación, tales como, cables, tuberías y dispositivos de investigación marina, sin perjuicio de lo señalado en el artículo 3, fracción IV de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+###### Artículo 3 Ter.
+
+Las disposiciones de la presente Ley no se aplican a la evacuación o el almacenamiento de desechos u otras materias que resulten directamente de la exploración, explotación y consiguiente tratamiento mar adentro de los recursos minerales del lecho o subsuelo marino, o que estén relacionadas con dichas actividades.
+
+Excepto las materias o desechos que por sus dimensiones y características representen un impacto ambiental adverso al medio ambiente marino, en cuyo caso, en aplicación del principio precautorio en materia ambiental, la autoridad competente antes de autorizar la evacuación o el almacenamiento en zonas marinas mexicanas deberá contar con la opinión favorable de la Secretaría, de conformidad con lo previsto en las Normas Oficiales Mexicanas que al efecto se expidan.
 
 ###### Artículo 4.
 
 Todo vertimiento se realizará en los términos y condiciones que señala la presente Ley.
 
 Está prohibida la incineración de desechos u otras materias, en las zonas marinas mexicanas, asimismo, está prohibida la importación y exportación de desechos u otras materias para su vertimiento o incineración, por lo que toda contravención será sancionada en términos de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+###### Artículo 4 Bis.
+
+Para otorgar el permiso de vertimiento a que se refiere el artículo 5 de la presente Ley, la Secretaría requerirá que el material a verter esté considerado dentro de una de las siguientes categorías que establece el Protocolo de Londres y que cumpla con los requisitos que se exijan al solicitante:
+
+I. Materiales de dragado;
+
+II. Fangos cloacales;
+
+III. Desechos de pescado o materiales resultantes de las operaciones de elaboración de pescado;
+
+IV. Buques, plataformas u otras construcciones en el mar;
+
+V. Materiales geológicos inorgánicos inertes;
+
+VI. Materiales orgánicos de origen natural, y
+
+VII. Objetos voluminosos constituidos principalmente por hierro, acero, hormigón y materiales igualmente no perjudiciales en relación con los cuales el impacto físico sea el motivo de preocupación, y solamente en aquellas circunstancias en que esos desechos se produzcan en lugares, tales como islas pequeñas con comunidades aisladas, en que no haya acceso práctico a otras opciones de evacuación que no sean el vertimiento.
 
 ### Capítulo II. De la Autoridad
 
@@ -126,13 +176,13 @@ VII. Fijar la cantidad que cubrirá el solicitante, para garantizar la reparaci�
 
 VIII. Establecer medidas para la prevención, reducción y en su caso, eliminación de los contaminantes contenidos en el material a verter o la contaminación por el vertimiento, así como los criterios para evitar que se transfieran, directa o indirectamente, los daños de una parte del medio ambiente a otra, ni transformen un tipo de contaminante en otro;
 
-IX. Proponer el costo de los servicios que se presten para la contención, prevención y recuperación de vertimientos de hidrocarburos y sus derivados u otras substancias, conforme a las cuotas autorizadas por la Secretaría de Hacienda y Crédito Público;
+IX. (DEROGADA, D.O.F. 13 DE ABRIL DE 2020)
 
 X. Establecer y expedir los criterios respecto de las materias o substancias que podrán ser objeto de solicitudes de vertimientos;
 
 XI. Interpretar y aplicar las disposiciones del Protocolo 1996 relativo al Convenio sobre la Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias, 1972, adoptado en la ciudad de Londres;
 
-XII. Proponer anualmente, ante la dependencia de la administración pública federal que corresponda, el monto de los derechos que se cobrarán a los titulares de los permisos de vertimiento por el uso de zonas marinas mexicanas;
+XII. (DEROGADA, D.O.F. 13 DE ABRIL DE 2020)
 
 XIII. Determinar la zona de tiro, o en su caso autorizar la zona propuesta por el interesado;
 
@@ -147,6 +197,18 @@ XVII. Emitir y actualizar los formatos necesarios de acuerdo al material que se 
 ###### Artículo 6.
 
 La Autoridad Marítima en materia de Marina Mercante, en términos de lo dispuesto por la Ley de Navegación y Comercio Marítimos, que determine el hundimiento de buques, plataformas u otras construcciones en el mar, deberá sujetarse a las disposiciones contenidas en la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+###### Artículo 6 Bis.
+
+En materia de vertimientos en zonas marinas mexicanas por actividades del sector hidrocarburos, la Secretaría y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, establecerán mecanismos específicos de coordinación para el ejercicio de sus respectivas atribuciones de regulación y supervisión.
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+###### Artículo 6 Ter.
+
+La regulación en materia de prevención y control de la contaminación marina que emitan las autoridades a través de lineamientos, directrices, criterios u otras disposiciones administrativas de carácter general necesarias en las materias de su competencia y, en su caso, Normas Oficiales Mexicanas, deberán contar con la opinión previa favorable de la Secretaría cuando se encuentren relacionadas con la presente Ley.
 
 ###### Artículo 7.
 
@@ -316,7 +378,9 @@ V. Programas de monitoreos ambientales, estudios batimétricos, hidrodinámicos 
 
 VI. Propuesta de zona de tiro, debiendo considerar los aspectos oceanográficos, biológicos, la posición geográfica, actividades de esparcimiento, belleza natural, interés cultural o histórico, importancia científica, refugios naturales; zonas de desove, reproducción y repoblación; rutas migratorias; hábitat estacionales y críticos; zonas de pesca; vías de navegación; usos tecnológicos del fondo del mar; zonas de exclusión y otros usos legítimos del mar;
 
-VII. Comprobante de pago de derechos por concepto de trámite, estudio y autorización de vertimiento, conforme se establezca en la Ley Federal de Derechos;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+
+VII. Comprobante de pago por concepto de trámite, estudio y autorización de vertimiento;
 
 VIII. Triplicado de la documentación y archivo electrónico, y
 
@@ -340,7 +404,7 @@ La Secretaría revisará que la documentación se encuentre completa y cumpla co
 
 La Secretaría resolverá la solicitud de vertimiento en un plazo que no podrá exceder de sesenta días hábiles, dentro del cual quedan comprendidas las prevenciones y su desahogo en los términos de la presente Ley.
 
-En caso de que la Secretaría considere procedente la solicitud, previa a la expedición del permiso, le comunicará al interesado la cantidad que deberá cubrir, por concepto de pago de derechos por el uso de la zona marina mexicana.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
 ###### Artículo 22.
 
@@ -741,3 +805,15 @@ CUARTO.- El impacto presupuestal que implique la puesta en operación de la pres
 México, D.F., a 13 de diciembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VERTIMIENTOS EN LAS ZONAS MARINAS MEXICANAS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría, vigilará y regulará la disposición de aguas congénitas y los recortes de perforación, procedentes de actividades petroleras en el mar, hasta en tanto no exista la normatividad ambiental respectiva.
+
+Tercero. El artículo 3 Ter entrará en vigor al expedirse las Normas Oficiales Mexicanas a las que alude el segundo párrafo del artículo citado.
