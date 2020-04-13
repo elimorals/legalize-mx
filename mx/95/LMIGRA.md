@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2019-07-03"
+last_updated: "2020-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -1000,9 +1000,13 @@ La facultad para realizar visitas de verificación se ejercitará de oficio por 
 
 La orden por la que se disponga la verificación migratoria deberá ser expedida por el Instituto y precisar el responsable de la diligencia y el personal asignado para la realización de la misma, el lugar o zona que ha de verificarse, el objeto de la verificación, el alcance que deba tener y las disposiciones jurídicas aplicables que la fundamenten y la motiven.
 
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+
 ###### Artículo 93.
 
-El Instituto recibirá y atenderá las denuncias formuladas en contra de extranjeros por la presunta comisión de delitos, las cuales deberá turnar en forma inmediata a la autoridad competente.
+El Instituto solicitará información al Ministerio Público sobre las denuncias formuladas en contra de los extranjeros por la presunta comisión de los delitos, solo para efectos de control, verificación o revisión migratoria.
+
+Cuando los particulares presenten denuncias ante él, deberá informar a los particulares que no es la autoridad competente para conocer y enviará de forma inmediata al particular ante la autoridad competente para que presente la denuncia correspondiente.
 
 ###### Artículo 94.
 
@@ -1709,5 +1713,11 @@ D.O.F. 12 DE JULIO DE 2018.
 D.O.F. 3 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 109 Y 140 DE LA LEY DE MIGRACIÓN”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 93 DE LA LEY DE MIGRACIÓN”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
