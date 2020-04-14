@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2017-09-29"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DE GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -931,9 +929,9 @@ II. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito e 
 
 III. Recibir denuncias anónimas e inmediatamente hacerlas del conocimiento del Ministerio Público, a efecto de que éste autorice cerciorarse, conforme a derecho, de la veracidad de los datos aportados.
 
-> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2020)</small>
 
-III Bis. Realizar sin demora los actos de investigación urgentes cuando se tenga conocimiento por cualquier medio de algún hecho que pueda ser constitutivo de delito relacionado con la violencia de género, para salvaguardar la integridad de la víctima y hacerlo del conocimiento de manera inmediata a la o el agente del Ministerio Público, a fin de iniciar la carpeta de investigación y determinar las medidas de protección que correspondan.
+III Bis. Realizar sin demora los actos de investigación urgentes cuando se tenga conocimiento por cualquier medio de algún hecho que pueda ser constitutivo de delito relacionado con la violencia de género, para salvaguardar la integridad de la víctima y hacerlo del conocimiento de manera inmediata a la o el agente del Ministerio Público, a fin de iniciar la carpeta de investigación y determinar las medidas de protección que correspondan; para tal efecto, contará con un grupo especializado en materia de género.
 
 IV. Registrar sus actuaciones en el sistema informático de la Fiscalía, bajo el número interno de control o el número único de causa que genere el Ministerio Público y alimentarlo con la información requerida, de conformidad con las disposiciones jurídicas aplicables y la normatividad que emita el Fiscal General.
 
@@ -1776,3 +1774,11 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 141.- POR EL QUE SE REFORMA LA FRACCIÓN III BIS DEL ARTÍCULO 36 DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
