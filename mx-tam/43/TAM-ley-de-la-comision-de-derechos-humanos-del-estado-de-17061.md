@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "2019-08-20"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -393,9 +393,15 @@ La Comisión podrá iniciar o proseguir a petición de parte o de oficio, el pro
 
 Toda persona física o moral, que tenga conocimiento sobre violaciones a derechos humanos, está legitimada para presentar quejas ante la Comisión y aportar los medios probatorios que tenga a su alcance.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 29.
 
-Las quejas deberán presentarse por escrito, en el que se expondrá:
+Las quejas deberán presentarse por escrito, de forma oral o por lenguaje de señas mexicanas y podrán formularse por cualquier medio de comunicación electrónica y a través de mecanismos accesibles para personas con discapacidad.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE ABRIL DE 2020)</small>
+
+Las quejas deberán contener:
 
 I.- El nombre, nacionalidad, ocupación y domicilio del quejoso y de quien promueve en su nombre;
 
@@ -405,9 +411,13 @@ III.- Los actos u omisiones que constituyan presuntas violaciones de derechos hu
 
 IV.- Las pruebas que se exhiben o puedan proporcionarse directamente, en su caso.
 
-Para facilitar la presentación de quejas, la Comisión pondrá formularios a disposición de los reclamantes y proporcionará orientación para su integración.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
-Las quejas podrán presentarse en forma oral solamente cuando los comparecientes no puedan escribir o sean menores de edad, y en casos urgentes, por cualquier medio de comunicación electrónica.
+Para facilitar la presentación de quejas, la Comisión pondrá formularios a disposición de los reclamantes y proporcionará orientación para su integración. Tratándose de personas que no hablen o entiendan el idioma español o cuenten con algún tipo de discapacidad oral o auditiva, les proporcionará gratuitamente un traductor o intérprete.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+Las quejas podrán presentarse en forma oral solamente cuando los comparecientes no puedan escribir o sean menores de edad.
 
 No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los tres días siguientes a su presentación si el quejoso no se identifica y la firma o impone su huella digital en un primer momento.
 
@@ -420,6 +430,10 @@ El plazo para presentación de quejas será de un año a partir de la realizaci�
 ###### ARTICULO 31.
 
 Las quejas que sean notoriamente improcedentes o infundadas por las causas establecidas en esta ley u otros ordenamientos, serán rechazadas de inmediato, pero se proporcionará asesoría al quejoso sobre las posibles soluciones del caso.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+En todos los casos operará la suplencia en la deficiencia de la queja.
 
 ###### ARTICULO 32.
 
@@ -870,3 +884,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-82 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 29, PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; Y SE ADICIONAN UN PÁRRAFO SEGUNDO RECORRIÉNDOSE EN SU ORDEN NATURAL LOS SUBSECUENTES AL ARTÍCULO 29, Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 31, DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
