@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2019-10-03"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -369,7 +369,9 @@ II. Coherencia y racionalidad: adoptar perspectivas que promuevan el ordenamient
 
 III. Competitividad y eficiencia de las ciudades: alcanzar, sostener y mejorar una determinada posición en el entorno socioeconómico; así los retos sociales están en una mayor equidad, los retos económicos con una mejora en la competitividad de la ciudad y la región, y los retos ambientales con la sustentabilidad integral;
 
-IV. Derecho a la ciudad: garantizar a los habitantes de los asentamientos humanos y centros de población el acceso a la vivienda, infraestructura, equipamiento y servicios básicos a partir de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales suscritos por México en la materia;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+IV. Derecho a la ciudad: asegura que a toda persona se le garantice el goce y disfrute de los derechos humanos en los contextos urbanos, a todos los habitantes y centros de población, entre los que se encuentran el acceso a la vivienda, infraestructura, equipamiento y servicios básicos para su plena realización política, económica, social, cultural y ecología, así como participación social en los asuntos de la ciudad a partir de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales suscritos por México en la materia y, así como de los principios enunciados en esta Ley;
 
 V. Derecho a la propiedad urbana: garantizar los derechos de propiedad inmobiliaria con la intención de que los propietarios tengan protegidos sus derechos, pero también asuman responsabilidades específicas con el Estado y con la sociedad, respetando los derechos y límites previstos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General y esta Ley. El interés público prevalecerá en la ocupación y aprovechamiento del territorio;
 
@@ -6828,5 +6830,13 @@ P.O. 3 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0266.- SE DEROGA DEL ARTÍCULO 250 LA FRACCIÓN V, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0658.- SE REFORMA EL ARTÍCULO 5º EN SU FRACCIÓN IV, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este presente Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
