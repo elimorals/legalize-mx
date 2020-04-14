@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2020-02-20"
+last_updated: "2020-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 20 DE FEBRERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -209,9 +207,9 @@ XI. Secretaría de Desarrollo Económico;
 
 XII. Secretaría de Turismo;
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2020)</small>
 
-XIII. Secretaría de Cultura;
+XIII. Secretaría de Cultura y Deporte;
 
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
@@ -1717,65 +1715,115 @@ XII.- Organizar y fomentar la producción artesanal en el Estado, vigilando que 
 
 XIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2020)</small>
 
 ###### Artículo 37.
 
-La Secretaría de Cultura tiene por objeto vincular a la sociedad con el quehacer cultural de la entidad, así como planear, organizar, coordinar, promover, ejecutar y evaluar las políticas, programas y acciones necesarias para desarrollar la cultura, cultura física y el deporte, en el Estado de México.
+La Secretaría de Cultura y Deporte tiene por objeto vincular a la sociedad con el quehacer cultural de la entidad, así como planear, organizar, coordinar, promover, ejecutar y evaluar las políticas, programas y acciones necesarias para desarrollar la cultura, cultura física y el deporte, en el Estado de México.
 
-> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ABRIL DE 2020)</small>
 
 ###### Artículo 38.
 
-La Secretaría de Cultura tiene las siguientes atribuciones:
+La Secretaría de Cultura y Deporte tiene las siguientes atribuciones:
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 I. Propiciar el desarrollo integral de la cultura en el Estado de México, mediante la aplicación de programas adecuados a las características propias de la entidad;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 II. Fomentar mecanismos para garantizar el derecho de las personas a participar libremente en la vida cultural de la comunidad, a gozar de las artes y de los beneficios del progreso científico;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 III. Mantener vinculación con las agencias internacionales en los términos de la legislación aplicable;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 IV. Rescatar y preservar las manifestaciones específicas y diversas que constituyen el patrimonio cultural del pueblo mexiquense;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 V. Impulsar las actividades de difusión y fomento cultural, priorizándolas hacia las clases populares y la población escolar;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 VI. Coordinar los programas culturales del Estado, con los desarrollados por el gobierno federal en la entidad;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 VII. Asesorar a los ayuntamientos, cuando así lo soliciten, en la prestación de servicios culturales;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 VIII. Estimular la producción artística y cultural, de manera individual y colectiva;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 IX. Crear, fomentar, coordinar, organizar y dirigir bibliotecas, hemerotecas, casas de cultura y museos, y orientar sus actividades;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 X. Realizar las publicaciones oficiales de carácter cultural;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 XI. Administrar la Orquesta Sinfónica y el Conservatorio de Música del Estado de México;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 XII. Organizar, preservar y acrecentar el Archivo Histórico del Gobierno del Estado de México;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 XIII. Mantener actualizado el inventario de bienes que constituyen el patrimonio arqueológico, histórico, artístico y cultura de la entidad;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 XIV. Impulsar la formación de recursos humanos para el desarrollo, promoción y administración de actividades culturales y recreativas;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 XV. Promover y desarrollar actividades de fomento y rescate de las manifestaciones del arte popular;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 XVI. Promover y desarrollar el nivel cultural de los habitantes de la entidad, a través del mejoramiento y ampliación de la infraestructura respectiva;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 XVII. Elaborar el Programa Estatal de Cultura Física y Deporte, con base en los planes nacional y estatal de desarrollo, y realizar las acciones que se deriven del mismo;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 XVIII. Coordinar el sistema estatal de cultura física y deporte, instalar su consejo y promover los sistemas correspondientes en los municipios;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 XIX. Coordinar con las asociaciones deportivas estatales el establecimiento de programas específicos para el desarrollo del deporte, especialmente en materia de actualización y capacitación de recursos humanos para el deporte, eventos selectivos y de representación estatal, desarrollo de talentos deportivos y atletas de alto rendimiento;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 XX. Colaborar con las organizaciones de los sectores público, social y privado, en el establecimiento de programas específicos para el desarrollo de las actividades físicas para la salud y la recreación, especialmente en materia de actualización y capacitación de recursos humanos, eventos promocionales, programas vacacionales y de financiamiento;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 XXI. Establecer y operar en coordinación con las federaciones deportivas nacionales y las asociaciones deportivas estatales, centros para el deporte de alto rendimiento;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 XXII. Promover la creación de escuelas de enseñanza, desarrollo y práctica del deporte, en coordinación con los sectores público, social y privado;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 XXIII. Apoyar a los municipios en la planeación y ejecución de programas de promoción e impulso de la cultura física y el deporte;
 
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+
 XXIV. Convenir con los sectores público, social y privado la ejecución de acciones para promover y fomentar la cultura física y el deporte en el Estado;
+
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
 XXV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
@@ -3742,3 +3790,13 @@ Durante el periodo del 01 de enero al 30 de junio del 2020, para determinar el I
 SÉPTIMO.- Las Instituciones que presenten adeudos por concepto de cuotas y aportaciones ante el Instituto de Seguridad Social del Estado de México y Municipios, podrán regularizarlos mediante convenio de pago en parcialidades hasta por ochenta y cuatro meses exceptuando lo previsto en el artículo 32 del Código Financiero del Estado de México y Municipios, y se les podrá condonar hasta el 100% de los recargos y multas que, en su caso, hubiesen generado, para tal efecto deberán suscribir el convenio respectivo dentro de los dos meses siguientes a la entrada en vigor del presente Decreto.
 
 OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el presente Decreto, deberán emitirse dentro de los primeros 90 días a partir de la entrada en vigor de este Decreto.
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 147.- POR EL QUE SE REFORMA LA FRACCIÓN XII (SIC) DEL ARTÍCULO 19, EL ARTÍCULO 37 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, cuando en las disposiciones legales, reglamentarias, administrativas, acuerdos y convenios, así como en cualquier tipo de documentación, se haga referencia a la Secretaría de Cultura se entenderá por Secretaría de Cultura y Deporte.
