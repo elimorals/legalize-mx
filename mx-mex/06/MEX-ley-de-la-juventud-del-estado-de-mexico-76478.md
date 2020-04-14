@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-juventud-del-estado-de-mexico-76478"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2019-12-26"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Quinta a la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
 
@@ -207,9 +207,11 @@ IX. Recibir, acceder, analizar, sistematizar y difundir, de acuerdo con su desar
 
 #### SECCIÓN III. DERECHOS ECONÓMICOS
 
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2020)</small>
+
 ###### Artículo 10.
 
-Los jóvenes tienen derecho a un empleo digno con un salario justo, con igualdad de oportunidades y de trato para mujeres y hombres; a la capacitación e inserción de jóvenes con discapacidad, jóvenes embarazadas o en etapa de lactancia; a que se les facilite el acceso, en su caso, a su primer empleo; a generar e innovar mecanismos para auto emplearse.
+Los jóvenes tienen derecho a un empleo digno con un salario justo, con igualdad de oportunidades y de trato para mujeres y hombres; a la capacitación e inserción de jóvenes con discapacidad, jóvenes embarazadas o en etapa de lactancia; a que se les facilite el acceso, en su caso, a su primer empleo; a generar e innovar mecanismos para auto emplearse, así como recibir educación financiera para su pleno desarrollo social y económico.
 
 #### SECCIÓN IV. DERECHOS CULTURALES
 
@@ -392,6 +394,10 @@ XIX. Convenir con los sectores público, social y privado, nacionales y extranje
 XX. Establecer las políticas públicas necesarias para que se promueva el ingreso y la permanencia de los jóvenes a los sistemas de educación; y
 
 XXI. Difundir de manera periódica y pública los programas, acciones y beneficios a los que los jóvenes puedan acceder.
+
+> <small>(ADICIONADA, G.G. 14 DE ABRIL DE 2020)</small>
+
+XXII. A difundir, implementar e instrumentar acciones con dependencias públicas e instituciones bancarias con el objeto de favorecer la educación financiera enfocada a los jóvenes.
 
 ###### Artículo 15.
 
@@ -746,3 +752,11 @@ G.G. 26 DE DICIEMBRE DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 140.- POR EL QUE SE REFORMA EL ARTÍCULO 10 Y SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 14 DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
