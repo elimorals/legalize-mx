@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2019-10-22"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -679,7 +679,9 @@ II.- La prevención y el control de las enfermedades transmisibles, de las no tr
 
 III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias; así como la prevención y el control de las enfermedades bucodentales;
 
-IV.- La atención materno-infantil y del adolescente;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+IV.- La atención materno-infantil, incluidas las urgencias obstétricas;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -723,11 +725,11 @@ XIV.- Las demás que establezcan otras disposiciones legales aplicables.
 
 ### CAPITULO II. DE LA ATENCION MEDICA
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 18.
 
-La atención médica se proporcionará en establecimientos en los que se desarrollen actividades preventivas, curativas y de rehabilitación, para conservar o reintegrar la salud física y mental de las personas.
+La atención médica se proporcionará en establecimientos en los que se desarrollen actividades preventivas, curativas, de rehabilitación y/o de urgencias, para conservar o reintegrar la salud física y mental de las personas.
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -739,9 +741,17 @@ Las actividades de atención médica serán:
 
 I.- Preventivas, cuando incluyan las de promoción general y las de protección específica;
 
-II.- Curativas, cuando tengan como fin, efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-III.- De rehabilitación, cuando incluyan acciones tendientes a superar las discapacidades físicas y mentales.
+II.- Curativas, cuando tengan como fin, efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+III.- De rehabilitación, cuando incluyan acciones tendientes a superar las discapacidades físicas y mentales; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+IV.- De urgencia, cuando se requiera de atención inmediata e impostergable, por presentarse cualquier problema médico quirúrgico agudo, que ponga en peligro la vida o un órgano del paciente.
 
 ### CAPITULO III. DE LOS PRESTADORES DE SERVICIOS DE SALUD
 
@@ -756,6 +766,10 @@ II.- Servicios a derechohabientes de instituciones públicas de seguridad social
 III.- Servicios sociales y privados, sea cual fuere la forma en que se contraten; y
 
 IV.- Otros que se presten de conformidad con lo que establezca la Secretaría.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+ARTICULO 20 BIS.- Los prestadores de servicios de salud enumerados en el artículo anterior deberán atender de forma expedita y sin condición de garantía financiera alguna a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -807,9 +821,9 @@ La atención materno-infantil y del adolescente comprende las siguientes accione
 
 I.- Atención de la mujer durante el embarazo, el parto y el puerperio. Tratándose en particular de una niña o adolescente embarazada, realizar la búsqueda intencionada de ejercicio de violencia sexual, familiar o de género. En caso de encontrarse datos sugestivos, proceder conforme a las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-II.- Vigilancia y cuidados de la madre y el producto de la gestación, desde la concepción y hasta su nacimiento; así mismo, la atención del recién nacido, con enfoque de prevención, control y tratamiento oportuno de los padecimientos comunes en la etapa neonatal. Las instituciones de salud, deberán atender de manera inmediata a las embarazadas que presenten síntomas de trabajo de parto, en cualquier período de la gestación, sin exigirles documentos de trámite;
+II.- Vigilancia y cuidados de la madre y el producto de la gestación, desde la concepción y hasta su nacimiento; así mismo, la atención del recién nacido, con enfoque de prevención, control y tratamiento oportuno de los padecimientos comunes en la etapa neonatal. Las instituciones de salud, deberán atender de forma expedita y sin condición de garantía financiera alguna a las mujeres embarazadas que presenten una urgencia obstétrica solicitada de manera directa o a través de la referencia de otra unidad médica, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento;
 
 III.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
 
@@ -859,13 +873,17 @@ XI.- Ser informada sobre los procedimientos de orientación y quejas con relaci�
 
 XII.- Ser informada y acceder al examen de VIH, a fin de prevenir la salud de los infantes desde su gestación, siendo confidencial el resultado de dicho examen. El acceso al diagnóstico de VIH deberá tener carácter de prioritario e inmediato, es decir, en el primer contacto que la mujer tenga con los servicios de salud. En caso de que el examen de VIH resultara positivo, la mujer tendrá derecho a recibir la información necesaria para procurar su salud y prevenir la transmisión perinatal del VIH durante el embarazo, parto o cesárea y lactancia. Tanto ella como el infante tendrán acceso prioritario al tratamiento antiretroviral más adecuado para su caso concreto;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-XIII.- La mujer recibirá la información necesaria y los medios para acceder a la sustitución de lactancia materna oportunamente; y
+XIII.- La mujer recibirá la información necesaria y los medios para acceder a la sustitución de lactancia materna oportunamente;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-XIV.- En caso de que su salud esté en riesgo con motivo del embarazo y tratándose de los supuestos legales en los cuales no es punible la interrupción del embarazo, se le informará sobre los métodos médicos seguros para ello.
+XIV.- En caso de que su salud esté en riesgo con motivo del embarazo y tratándose de los supuestos legales en los cuales no es punible la interrupción del embarazo, se le informará sobre los métodos médicos seguros para ello; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XV.- Recibir, por parte de cualquier prestador de servicios de salud, atención médica de forma expedita y sin condición de garantía financiera, en caso de presentar alguna urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 ###### ARTICULO 31.
 
@@ -1302,6 +1320,12 @@ La Secretaría, en coordinación con las autoridades federales, propondrán y de
 ###### ARTICULO 64.
 
 La Secretaría promoverá y desarrollará programas de nutrición con la participación de organismos de los sectores social y privado.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+ARTICULO 64 BIS.- Los establecimientos que se dediquen a la venta de alimentos preparados y/o bebidas con o sin contenido alcohólico, promoverán la disminución del consumo de sales y azúcares; y para tal efecto, retirarán los saleros, azucareros y cualquier tipo de recipiente que contenga estas sustancias de las mesas, los cuales se proporcionarán únicamente a petición expresa de los comensales.
+
+De la misma manera, con la finalidad de crear conciencia al respecto, se colocará información de manera visible de las consecuencias para la salud del alto consumo de sales y azúcares.
 
 ###### ARTICULO 65.
 
@@ -1845,13 +1869,19 @@ II.- Aplicar los criterios de buenas prácticas de higiene en materia de prevenc
 
 III.- Cuidar de la conservación, aseo, buen estado y mantenimiento de los mismos, así como del equipo y utensilios, los cuales serán adecuados a la actividad que se realice o servicios que se presten.
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+ARTICULO 114 BIS.- Los establecimientos con instalaciones para un aforo de más de 100 personas, a los que regularmente acudan menores y personas adultas, procurarán contar con baños públicos familiares, para la atención de niñas y niños menores de 10 años, y personas adultas mayores que para su uso se acompañen de una persona que los ayude y cuide. Este tipo de baños públicos deberán reunir los requisitos establecidos en la normatividad reglamentaria aplicable.
+
 ### CAPITULO II. DE LA REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 115.
 
 Cuando se trate de realizar la construcción, reconstrucción, modificación o acondicionamiento total o parcial de un edificio o local, se requiere de la autorización correspondiente del proyecto en cuanto a iluminación, ventilación, instalaciones sanitarias y para la prevención de accidentes.
 
-Asimismo, deberán cumplir con los requerimientos arquitectónicos para facilitar el acceso, tránsito y permanencia de las personas con discapacidad.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+Asimismo, deberán cumplir con los requerimientos arquitectónicos para facilitar el acceso, tránsito y permanencia de las personas con discapacidad; y, cuando sean construcciones para los establecimientos descritos en el artículo 114 Bis, se procurará que éstas cuenten con baños familiares.
 
 ###### ARTICULO 116.
 
@@ -3640,3 +3670,27 @@ P.O. 22 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-77 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 64 BIS A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-79 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 114 BIS Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 115 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-89 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 17, FRACCIÓN IV; 18, PÁRRAFO 1; 19, FRACCIONES II Y III; 29, FRACCIÓN II; Y 30 BIS, FRACCIONES XIII Y XIV; Y SE ADICIONAN LA FRACCIÓN IV AL ARTÍCULO 19, EL ARTÍCULO 20 BIS Y LA FRACCIÓN XV AL ARTÍCULO 30 BIS A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente a la publicación del mismo en el Periódico Oficial del Estado.
