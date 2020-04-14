@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2019-12-10"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -531,7 +531,9 @@ V. Vigilar periódicamente el desarrollo y cumplimiento del servicio de segurida
 
 VI. Implementar la carrera policial;
 
-VII. En el ámbito de sus atribuciones, pedir a los propietarios o poseedores que soliciten una licencia de funcionamiento o su revalidación de los giros que impliquen actividades de carácter permanente, que por sus características motiven elevados índices de afluencia de personas, tránsito de vehículos o manejo de efectivo y de valores, cuenten con sistemas de video vigilancia operacionales en sus inmuebles, en el entendido de que la captación de imágenes y sonido podrán ser utilizados con fines de seguridad pública en la entidad;
+> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2020)</small>
+
+VII. En el ámbito de sus atribuciones, pedir a los propietarios o poseedores que soliciten una licencia de funcionamiento o su revalidación de los giros que impliquen actividades de carácter permanente, que por sus características motiven elevados índices de afluencia de personas, tránsito de vehículos o manejo de efectivo y de valores, cuenten con sistemas de video vigilancia operacionales en sus inmuebles, en el entendido de que la captación de imágenes y sonido podrán ser utilizados con fines de seguridad pública en la entidad, así como establecer políticas para implementar acciones coordinadas entre el ámbito público y privado con el objeto de prevenir actos delictivos;
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4560,3 +4562,13 @@ G.G. 10 DE DICIEMBRE DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 146.- POR EL QUE SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 290 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
