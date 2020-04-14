@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2019-10-16"
+last_updated: "2020-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -53,7 +53,9 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
 1. Las disposiciones de esta ley son de orden público y tienen por objeto regular la organización y funcionamiento de la administración pública del Estado de Tamaulipas, que se integra por la administración pública central y la paraestatal.
 
-2. La Procuraduría General de Justicia, el Jefe de la Oficina del Gobernador, las Secretarías del despacho y demás unidades administrativas de control, coordinación, asesoría o consulta, cualquiera que sea su denominación conforman la Administración Pública Centralizada. Se denominarán genéricamente como Dependencias.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+2. El Jefe de la Oficina del Gobernador, las Secretarías del despacho y demás unidades administrativas de control, coordinación, asesoría o consulta, cualquiera que sea su denominación conforman la Administración Pública Centralizada. Se denominarán genéricamente como Dependencias.
 
 3. Los organismos públicos descentralizados, las empresas de participación estatal mayoritaria, los fideicomisos públicos y demás órganos de carácter público que funcionen en el Estado, conforman la Administración Pública Paraestatal. Se denominarán genéricamente como Entidades.
 
@@ -219,9 +221,11 @@ XIII. Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 XIV. Secretaría de Obras Públicas;
 
-XV. Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-XVI. Procuraduría General de Justicia; y
+XV. Secretaría de Seguridad Pública; y
+
+XVI. (DEROGADA, P.O. 14 DE ABRIL DE 2020)
 
 XVII. Contraloría Gubernamental.
 
@@ -319,7 +323,9 @@ XVII. (DEROGADA, P.O. 13 DE JULIO DE 2018)
 
 XVIII. Coordinar administrativamente las actividades del Instituto Registral y Catastral del Estado de Tamaulipas;
 
-XIX. Dar cauce a la atribución del Gobernador de auxiliar a los tribunales y juzgados del Estado, así como a la Procuraduría General de Justicia para que la justicia se administre pronta y cumplidamente, y se ejecuten las sentencias que dicten, prestándoles el apoyo que requieran para el mejor ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XIX. Dar cauce a la atribución del Gobernador de auxiliar a los tribunales y juzgados del Estado, así como a la Fiscalía General de Justicia para que la justicia se administre pronta y cumplidamente, y se ejecuten las sentencias que dicten, prestándoles el apoyo que requieran para el mejor ejercicio de sus funciones;
 
 XX. Organizar y vigilar el funcionamiento de la defensoría pública;
 
@@ -379,7 +385,9 @@ VIII. Llevar la contabilidad del Poder Ejecutivo y formular sus estados financie
 
 IX. Recibir la información contable, financiera, patrimonial, presupuestal y programática del Poder Legislativo, del Poder Judicial y de los órganos estatales con autonomía de los poderes para la integración y consolidación en la Cuenta Pública del Gobierno del Estado de Tamaulipas y su presentación de la misma ante el Congreso del Estado, en los términos de las leyes de la materia;
 
-X. Administrar y custodiar los fondos y valores del Gobierno del Estado y fincar, en su caso, las responsabilidades correspondientes, sin demérito de la acción que compete a la Contraloría Gubernamental y, en su caso, a la Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+X. Administrar y custodiar los fondos y valores del Gobierno del Estado y fincar, en su caso, las responsabilidades correspondientes, sin demérito de la acción que compete a la Contraloría Gubernamental y, en su caso, a la Fiscalía General de Justicia;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1127,7 +1135,9 @@ XIII. Establecer un sistema destinado a obtener, analizar, estudiar y procesar i
 
 XIV. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo;
 
-XV. Efectuar, en coordinación con la Procuraduría General de Justicia, estudios sobre actos delictivos no denunciados para incorporar este elemento en el diseño de las políticas de prevención de los ilícitos penales;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XV. Efectuar, en coordinación con la Fiscalía General de Justicia, estudios sobre actos delictivos no denunciados para incorporar este elemento en el diseño de las políticas de prevención de los ilícitos;
 
 XVI. Determinar y aplicar las normas y políticas de ingreso, capacitación, desarrollo y disciplina del personal responsable de funciones de seguridad pública, de acuerdo con las leyes y reglamentos vigentes; y coordinar la Universidad de Seguridad y Justicia de Tamaulipas;
 
@@ -1139,17 +1149,27 @@ XIX. Promover la celebración de convenios de colaboración con autoridades fede
 
 XX. Colaborar, dentro del Sistema Nacional de Seguridad Pública y a requerimiento de autoridades federales competentes, de otras entidades federativas o municipales del Estado, en la protección de la integridad física de las personas y en la preservación de sus bienes, cuando se vean amenazadas por situaciones de peligro que generen disturbios, violencia o riesgo inminente;
 
-XXI. Auxiliar a los Poderes Legislativo y Judicial del Estado y a la Procuraduría General de Justicia, cuando así lo requieran para el debido ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXI. Auxiliar a los Poderes Legislativo y Judicial del Estado y a la Fiscalía General de Justicia, cuando así lo requieran para el debido ejercicio de sus funciones;
 
 XXII. Ejecutar las penas por delitos del orden común y administrar el sistema penitenciario del Estado, así como organizar y dirigir las actividades de apoyo a liberados;
 
-XXIII. Implementar, dirigir y ejecutar los programas de reinserción social de los infractores de la ley penal y administrar los Centros de Ejecución de Sanciones del Estado;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-XXIV. Tramitar, por Acuerdo del Gobernador, las solicitudes de libertad anticipada y traslado de internos;
+XXIII. Implementar, dirigir y ejecutar los programas de reinserción social de los infractores de la ley penal y administrar los Centros de Ejecución de Sanciones del Estado y los Centros Regionales de Ejecución de Medidas para Adolescentes;
 
-XXV. Ser conducto para el ejercicio de la atribución del Gobernador del Estado en materia de inclusión de reos del orden común para su traslado a su país de origen para el cumplimiento de la condena que les hubiere sido impuesta, conforme a lo dispuesto por el párrafo quinto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-XXVI. Ejecutar las medidas impuestas por las autoridades judiciales competentes en términos de las leyes de justicia para adolescentes, por conducto de las instituciones y órganos establecidos por dichos ordenamientos y demás leyes aplicables, velando por el estricto respeto de los derechos y garantías de los adolescentes;
+XXIV. Proponer o canalizar, según sea el caso, ante la autoridad jurisdiccional competente, por Acuerdo del Gobernador, las solicitudes de libertad anticipada y traslado de internos;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXV. Ser conducto para el ejercicio de la atribución del Gobernador del Estado en materia de inclusión de personas privadas de la libertad del orden común para su traslado a su país de origen para el cumplimiento de la condena que les hubiere sido impuesta, conforme a lo dispuesto por el párrafo quinto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXVI. Ejecutar y supervisar las medidas cautelares y de sanción impuestas por las autoridades judiciales competentes en términos de la Ley Nacional de Ejecución Penal y de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, por conducto de las instituciones y órganos establecidos por dichos ordenamientos y demás leyes aplicables, velando por el estricto respeto de los derechos y garantías de los adolescentes;
 
 XXVII. Coordinar los programas y comisiones de seguridad pública;
 
@@ -1171,55 +1191,15 @@ XXXII. Promover la capacitación de los integrantes de las instituciones de segu
 
 XXXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
+> <small>(DEROGADA CON SUS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE ABRIL DE 2020)</small>
+
 #### Sección XVI. De la Procuraduría General de Justicia
 
 ###### ARTÍCULO 39.
 
-A la Procuraduría General de Justicia, además de las atribuciones que le confieren la Constitución Política del Estado, la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas y demás disposiciones vigentes, le corresponde el despacho de los siguientes asuntos:
+(DEROGADO, P.O. 14 DE ABRIL DE 2020)
 
-I. Velar por el respeto y la exacta observancia de los derechos humanos en la esfera de su competencia;
-
-II. Opinar y participar en los proyectos de iniciativas de ley o de reformas legislativas para la exacta observancia de la Constitución Política de los Estados Unidos Mexicanos y que estén vinculadas con las materias de su competencia;
-
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
-
-III. Contribuir al cumplimiento y aplicación de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, en coordinación con la Contraloría Gubernamental;
-
-IV. Prestar al Poder Judicial el auxilio necesario para el debido ejercicio de sus funciones;
-
-V. Informar al Gobernador del Estado sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos o a la Constitución Política del Estado;
-
-VI. Suministrar los informes que le solicite la Comisión de Derechos Humanos del Estado, y resolver sobre las recomendaciones que emitan dicha Comisión y la Comisión Nacional de los Derechos Humanos;
-
-VII. Fortalecer las relaciones de coordinación con el Gobierno Federal, los gobiernos de otras Entidades Federativas y los gobiernos municipales, a fin de lograr el mejor cumplimiento de la prevención del delito y persecución de ilícitos penales;
-
-VIII. Dirigir y coordinar las actividades de las Policías Ministerial e Investigadora del Estado;
-
-IX. Designar y remover, por acuerdo del Gobernador, a los Agentes del Ministerio Público y cambiarlos de adscripción, según convenga al mejor servicio;
-
-X. Coadyuvar con la Secretaría de Seguridad Pública en la elaboración de programas que tiendan a prevenir la delincuencia;
-
-XI. Llevar, en coordinación con la Secretaría de Seguridad Pública, la estadística e identificación delincuencial del Estado;
-
-XII. Asesorar a los Municipios en el ejercicio de acciones patrimoniales y de todo orden, cuando así lo soliciten;
-
-XIII. Tramitar, por Acuerdo del Gobernador, las solicitudes de extradición;
-
-XIV. Formular y desarrollar programas de capacitación para el personal de la dependencia;
-
-XV. Celebrar convenios con instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia a los servidores públicos de la Procuraduría General de Justicia del Estado;
-
-XVI. Proponer a la Universidad de Seguridad y Justicia de Tamaulipas, los programas de capacitación para el personal de la dependencia;
-
-XVII. Adoptar las determinaciones de su competencia con relación a los delitos ambientales establecidos en los ordenamientos en materia ambiental y desarrollo sustentable del Estado y demás leyes aplicables, así como sustanciar las investigaciones que al efecto se inicien por conductas delictivas en materia ambiental, y deducir en los procesos penales que se instauren la representación de la sociedad; y
-
-XVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
-
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
-
-ARTÍCULO 39 BIS.
-
-La Procuraduría General de Justicia contará con una Fiscalía Especializada en Combate a la Corrupción, como un órgano público con autonomía técnica y operativa para investigar y perseguir los hechos de corrupción que la ley considera como delitos, y tendrá las atribuciones que señalen las leyes de la materia.
+ARTÍCULO 39 BIS. (DEROGADO, P.O. 14 DE ABRIL DE 2020)
 
 #### Sección XVII. De la Contraloría Gubernamental
 
@@ -1852,3 +1832,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales aplicables que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIV-95 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, ASÍ COMO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
