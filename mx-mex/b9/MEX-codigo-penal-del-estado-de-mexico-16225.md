@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2019-12-26"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -4391,7 +4391,13 @@ a) Física: utilización de la fuerza material por el sujeto activo sobre el suj
 
 b) Moral: utilización de amagos, amenazas o cualquier tipo de intimidación que el sujeto activo realice sobre el sujeto pasivo o personas vinculadas a éste, para causarle en su persona o en la de las personas vinculadas a éste o en sus bienes, males o se realice en desventaja numérica sobre el sujeto pasivo o haciendo uso de armas de juguete, utilería o réplicas, aun cuando no sean aptas para causar un daño físico; y
 
-c) Sobre los bienes: cuando para perpetrar el delito se rompa una o varias paredes, techos o pisos, se horade o excave interiores o exteriores, se fracturen puertas, ventanas, cerraduras, aldabas o cierres, se use llave falsa, o la verdadera que haya sido sustraída o hallada, ganzúa u otro instrumento análogo.
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2020)</small>
+
+c) Sobre los bienes: cuando para perpetrar el delito se rompa una o varias paredes, cristales, techos o pisos, se horade o excave interiores o exteriores, se fracturen puertas, ventanas, cerraduras, aldabas o cierres, se use llave falsa, o la verdadera que haya sido sustraída o hallada, ganzúa u otro instrumento análogo; se violenten los mecanismos de seguridad o de antirrobo de algún vehículo automotor.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE ABRIL DE 2020)</small>
+
+Cuando se trate de vehículos automotores y de transporte en todas sus modalidades, para el caso de las autopartes que lo integran, de la mercancía transportada o de la mercancía que se encuentre a bordo de aquel.
 
 Igualmente, se considera violencia la que utiliza el sujeto activo sobre persona o personas distintas del sujeto pasivo o sobre sus bienes, con el propósito de consumar el delito o lo que se realice después de ejecutado este, para propiciarse la fuga o quedarse con lo robado.
 
@@ -4423,7 +4429,17 @@ IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de 
 
 V. Cuando se cometa el robo de un vehículo automotor, de la mercancía transportada o de la mercancía que se encuentre a bordo de aquel, se impondrán de nueve a quince años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil quinientos días multa, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo.
 
-Además de las penas señaladas en el párrafo anterior, cuando en la ejecución de este delito existan dos o más sujetos pasivos se impondrán a los sujetos activos, por cada pasivo de uno a dos años de prisión.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE ABRIL DE 2020)</small>
+
+Cuando el robo se cometa estando el vehículo estacionado con o sin ocupante u ocupantes a bordo, la penalidad aumentará en una mitad.
+
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2020)</small>
+
+Además de las penas señaladas, cuando en la ejecución de este delito existan dos o más sujetos pasivos se impondrán a los sujetos activos, por cada pasivo de uno a dos años de prisión.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2020)</small>
+
+Si en alguno de los supuestos del artículo 292 del presente Código, el vehículo de que se trate es una motocicleta, además de las sanciones a que se refiere este artículo, se aumentará la pena de prisión en un tercio más.
 
 VI. Cuando se cometa aprovechando la falta de vigilancia o la confusión ocasionado por un siniestro o un desorden de cualquier tipo, se impondrán de dos a siete años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
@@ -4483,6 +4499,10 @@ a) Cuando en la ejecución de este delito existan dos o más sujetos pasivos se 
 
 b) Cuando en este delito los sujetos pasivos sean mujeres, niñas, niños, adolescentes o adultos mayores se impondrá una pena de cuatro a seis años de prisión al sujeto activo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE ABRIL DE 2020)</small>
+
+c) Cuando se trate únicamente de equipaje o valores de turistas o pasajeros, en cualquier lugar durante el trayecto del viaje, se impondrá una pena de cuatro a seis años de prisión al sujeto activo, con independencia del valor de lo robado.
+
 > <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
 
 XIX. Cuando una vez retirado dinero en efectivo de una institución financiera o de sus equipos, el robo se cometa en contra de la persona que lo porta, custodie o transporte dentro del lugar de retiro o en el camino de este último a su destino inmediato, se impondrán de uno a tres años de prisión y de cien a trescientos días multa.
@@ -4496,6 +4516,14 @@ Al que siendo empleado de una institución financiera participe en la comisión 
 > <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 XX. Cuando se cometa en contra de transeúnte, que se encuentre en la vía pública o en espacios abiertos que permitan el acceso público, se impondrán de uno a tres años de prisión.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ABRIL DE 2020)</small>
+
+XXI. Además de las anteriores, cuando se violen los mecanismos de seguridad de la unidad, haciendo uso de tecnologías o dispositivos electrónicos que inhiben la señal del Sistema de Geolocalización o de cualquier herramienta u objeto.
+
+> <small>(ADICIONADA, G.G. 14 DE ABRIL DE 2020)</small>
+
+XXII. Cuando se cometa contra una unidad económica, se impondrán de cinco a diez años de prisión y de uno a tres veces el valor de lo robado sin exceder mil quinientos días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
 > <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4523,9 +4551,9 @@ V. Utilice el o los vehículos robados en la comisión de otro u otros delitos; 
 
 VI. Utilice el o los vehículos robados en la prestación de un servicio público o actividad oficial.
 
-> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2020)</small>
 
-En estos casos, se impondrán de ocho a veinte años de prisión y de uno a tres veces el valor del vehículo robado.
+En estos casos, se impondrán de ocho a veinte años de prisión y de uno a tres veces el valor del vehículo robado; tratándose de una motocicleta, además de las sanciones señaladas, se aumentará la pena de prisión hasta por cinco años más.
 
 > <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
@@ -7076,3 +7104,33 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 137.- POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 290 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan todas las disposiciones de carácter estatal que contravengan al presente ordenamiento.
+
+CUARTO.- Los delitos contemplados en el artículo 290 que se hubieran cometido antes de la presente reforma, se regirán conforme al Código vigente en su momento.
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 143.- POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO A LA FRACCIÓN V DEL ARTÍCULO 290 Y SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 292 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 146.- POR EL QUE SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 290 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
