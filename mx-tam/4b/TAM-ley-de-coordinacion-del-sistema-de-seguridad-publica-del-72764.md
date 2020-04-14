@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2019-08-20"
+last_updated: "2020-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -57,11 +57,15 @@ La presente ley es de orden público, e interés social y de observancia general
 
 La seguridad pública es la función a cargo del Estado y de los municipios, que tiene como fines salvaguardar la integridad y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos.
 
-Los fines de la seguridad pública se deberán alcanzar mediante la prevención integral, la investigación, la persecución, la sanción de las infracciones y de los delitos, así como mediante la reinserción social del sentenciado y la reintegración social y familiar del adolescente.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+Los fines de la seguridad pública se deberán alcanzar mediante la prevención integral, la investigación, la persecución, la evaluación y seguimiento de las medidas cautelares, la sanción de las infracciones y de los delitos, así como mediante la reinserción social del sentenciado y la reintegración social y familiar del adolescente.
 
 ###### ARTICULO 3.
 
 La función de seguridad pública se realizará por conducto de las instituciones policiales, y de procuración de justicia, de los tribunales administrativos y los judiciales, de las instancias responsables de la prisión preventiva, la ejecución de penas y de la justicia para adolescentes, y de todos aquellos entes públicos que cuenten con atribuciones para contribuir directa o indirectamente a consolidar los fines de la seguridad pública.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. LXIV-95, PUBLICADO EN EL P.O. DE 14 DE ABRIL DE 2020, PÁGINAS 15 Y 16.]</small>
 
 ###### ARTICULO 4.
 
@@ -71,33 +75,65 @@ I. Consejo: El Consejo Estatal de Seguridad Pública;
 
 II. Consejo Nacional: El Consejo Nacional de Seguridad Pública;
 
-III. Instituciones policiales: Las corporaciones que cumplen funciones de prevención, de investigación, de reacción, de inspección, de vigilancia, de custodia y de vialidad; los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel federal, local o municipal, que realicen funciones similares;
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-IV. Instituciones de Procuración de Justicia: El Ministerio Público, los servicios periciales y demás auxiliares de aquél;
+III. Fiscal General: El Fiscal General de Justicia del Estado;
 
-V. Instituciones de seguridad pública: Las instituciones policiales y de procuración de justicia, así como los tribunales e instancias responsables de la reinserción social del sentenciado, al igual que la reintegración social y familiar del adolescente, estatales y municipales;
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-VI. Ley: a la Ley de Coordinación del Sistema de Seguridad Pública para el Estado de Tamaulipas;
+IV. Fiscalía General: La Fiscalía General de Justicia del Estado;
 
-VII. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-VIII. Procurador: El Procurador General de Justicia del Estado;
+V. Haber: La cantidad base de dinero con que se retribuye a los Integrantes, los servicios prestados;
 
-IX. Procuraduría: La Procuraduría General de Justicia del Estado;
+(REUBICADA [N. DE E. ANTES FRACCIÓN III], P.O. 14 DE ABRIL DE 2020)
 
-X. Programa: El Programa del Sistema Estatal de Seguridad Pública;
+VI. Instituciones policiales: Las corporaciones que cumplen funciones de prevención, de investigación, de reacción, de inspección, de vigilancia, de custodia y de vialidad; los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel federal, local o municipal, que realicen funciones similares;
 
-XI. Programa Integral: El Programa Integral de Prevención del Delito del Estado;
+(REUBICADA [N. DE E. ANTES FRACCIÓN IV], P.O. 14 DE ABRIL DE 2020)
 
-XII. Secretaría: La Secretaría de Seguridad Pública;
+VII. Instituciones de Procuración de Justicia: El Ministerio Público, los servicios periciales y demás auxiliares de aquél;
 
-XIII. Secretario: El Secretario de Seguridad Pública;
+(REUBICADA [N. DE E. ANTES FRACCIÓN V], P.O. 14 DE ABRIL DE 2020)
 
-XIV. Secretario Ejecutivo: El titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+VIII. Instituciones de seguridad pública: Las instituciones policiales y de procuración de justicia, así como los tribunales e instancias responsables de la reinserción social del sentenciado, al igual que la reintegración social y familiar del adolescente, estatales y municipales;
 
-XV. Sistema: El Sistema Estatal de Seguridad Pública;
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O. 14 DE ABRIL DE 2020)</small>
 
-XVI. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
+IX. Ley: La Ley de Coordinación del Sistema de Seguridad Pública para el Estado de Tamaulipas;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN VII], P.O. 14 DE ABRIL DE 2020)
+
+X. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN X], P.O. 14 DE ABRIL DE 2020)
+
+XI. Programa: El Programa del Sistema Estatal de Seguridad Pública;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XI], P.O. 14 DE ABRIL DE 2020)
+
+XII. Programa Integral: El Programa Integral de Prevención del Delito del Estado;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XII], P.O. 14 DE ABRIL DE 2020)
+
+XIII. Secretaría: La Secretaría de Seguridad Pública;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XIII] P.O. 14 DE ABRIL DE 2020)
+
+XIV. Secretario: El Secretario de Seguridad Pública;
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XIV], P.O. 14 DE ABRIL DE 2020)
+
+XV. Secretario Ejecutivo: El titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XV], P.O. 14 DE ABRIL DE 2020)</small>
+
+XVI. Sistema: El Sistema Estatal de Seguridad Pública; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XVI], P.O. 14 DE ABRIL DE 2020)
+
+XVII. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
 
 ###### ARTICULO 5.
 
@@ -171,11 +207,17 @@ VI. Acuerdos del Consejo Nacional;
 
 VII. Acuerdos del Consejo y de los consejos municipales y regionales de seguridad pública;
 
-VIII. Ley Orgánica de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-IX. Ley Orgánica del Ministerio Público del Estado;
+VIII. Ley de Seguridad Pública para el Estado de Tamaulipas;
 
-X. Ley Orgánica de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+IX. Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+X. Ley Orgánica de la Administración Pública del Estado de Tamaulipas;
 
 XI. Ley Federal de Armas de Fuego y Explosivos;
 
@@ -185,23 +227,35 @@ XIII. Ley del Registro Público Vehicular;
 
 XIV. Ley de Seguridad Escolar para el Estado de Tamaulipas;
 
-XV. Ley de Tránsito y Transporte del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-XVI. Ley de Protección a Víctimas del Delito para el Estado;
+XV. Ley de Tránsito;
 
-XVII. Ley de Protección Civil para el Estado;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XVI. Ley de Atención a Víctimas para el Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XVII. Ley de Protección Civil para el Estado de Tamaulipas;
 
 XVIII. Ley de Mediación para el Estado de Tamaulipas;
 
-XIX. Ley de Justicia para Adolescentes del Estado;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XIX. Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
 
 XX. Ley Orgánica del Poder Judicial del Estado;
 
 XXI. Bandos de Policía y Buen Gobierno;
 
-XXII. Ley de Defensoría Pública del Estado;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-XXIII. Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas;
+XXII. Ley de la Defensoría Pública para el Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXIII. Ley Nacional de Ejecución Penal;
 
 XXIV. Ley de Coordinación Fiscal del Estado de Tamaulipas;
 
@@ -209,7 +263,41 @@ XXV. Presupuesto de Egresos de la Federación;
 
 XXVI. Presupuesto de Egresos del Estado;
 
-XXVII. Las demás que determinen otros ordenamientos aplicables.
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXVII. Ley de Transporte del Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXVIII. Código Nacional de Procedimientos Penales;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXIX. Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXX. Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXXI. Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXXII. Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXXIII. Ley Nacional del Registro de Detenciones;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXXIV. Ley Nacional sobre el Uso de la Fuerza; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXVII], P.O. 14 DE ABRIL DE 2020)
+
+XXXV. Las demás que determinen otros ordenamientos aplicables.
 
 ###### ARTICULO 8.
 
@@ -233,13 +321,17 @@ V. El Secretario General de Gobierno;
 
 VI. El Secretario, y los titulares de las instituciones policiales bajo su mando;
 
-VII. El Procurador, los agentes del Ministerio Público y el Titular de la Policía Ministerial;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+VII. El Fiscal General, Vicefiscales Generales, Fiscales Especializados, Fiscales Especiales, los agentes del Ministerio Público y el Titular de la Policía Ministerial;
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
 VIII.- El Subsecretario de Reinserción Social y los directores de los centros de prisión preventiva y los de ejecución de sanciones;
 
-IX. El Director del Centro de Reintegración Social y Familiar para Adolescentes;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+IX. El Director de Ejecución de Medidas para Adolescentes y los titulares de los Centros Regionales de Ejecución de Medidas para Adolescentes;
 
 X. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
@@ -275,13 +367,21 @@ Las instituciones policiales serán las siguientes:
 
 I. Las policías estatales que cumplan funciones de prevención o reacción;
 
-II. La Policía Ministerial;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+II. La Policía de Investigación;
 
 III. Las policías preventivas y las de tránsito municipales;
 
-IV. Los cuerpos de vigilancia, custodia y seguridad de los Centros de Ejecución de Sanciones y los del Centro de Reintegración Social y Familiar para Adolescentes; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-V. Las demás que se constituyan con apego a la Ley.
+IV. Los cuerpos de vigilancia, custodia y seguridad de los Centros de Ejecución de Sanciones y los Guías Técnicos de los Centros Regionales de Ejecución de Medidas para Adolescentes;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+V. La Policía Procesal; y
+
+VI. Las demás que se constituyan con apego a la Ley.
 
 ###### ARTICULO 12.
 
@@ -297,7 +397,9 @@ El Gobernador es el Jefe Supremo de las instituciones policiales estatales y del
 
 El Gobernador ejercerá el mando de las instituciones policiales estatales en forma directa y, en los términos de Ley, a través del Secretario.
 
-La Policía Ministerial estará bajo la autoridad y el mando inmediato del Ministerio Público, sin demérito de lo previsto en el artículo anterior.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+La Policía de Investigación estará bajo la autoridad y el mando inmediato del Ministerio Público, sin demérito de lo previsto en el artículo anterior.
 
 ### CAPITULO IV. DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PUBLICA
 
@@ -321,13 +423,21 @@ II. Contar permanentemente con oportunidades de formación y desarrollo para hac
 
 III. Participar en concursos de promoción y procesos de evaluación curricular para ascender a la jerarquía inmediata superior;
 
-IV. Percibir un salario digno y remunerador acorde con las características del servicio que desempeñen, así como gozar de un régimen de seguridad social especial que tome en cuenta la naturaleza y los riesgos propios de sus funciones;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+IV. Percibir una remuneración digna acorde con las características del servicio que desempeñen, así como gozar de un régimen de seguridad social especial que tome en cuenta la naturaleza y los riesgos propios de sus funciones;
 
 V. Disponer, sin costo alguno, del equipamiento necesario para el cumplimiento de la función; y
 
 VI. Ser sujetos de condecoraciones, estímulos, recompensas y reconocimientos cuando su conducta y desempeño sea meritorio.
 
-Los integrantes de las instituciones de seguridad pública recibirán capacitación permanente a fin de que cuenten con los atributos necesarios para cumplir con los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+Los integrantes de las instituciones de seguridad pública recibirán capacitación permanente a fin de que cuenten con los atributos necesarios para cumplir con los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y por los Tratados Internacionales de los que nuestro país sea parte.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+ARTICULO 17 BIS. En los casos que se prevean en los presupuestos autorizados, se podrá otorgar a los Integrantes percepciones extraordinarias por riesgo, por estímulos al desempeño destacado o reconocimientos, así como por incentivos similares conforme a las disposiciones que emita el Poder Ejecutivo estatal.
 
 ###### ARTICULO 18.
 
@@ -465,6 +575,8 @@ XII. Otorgar todo tipo de facilidades administrativas al Secretario Ejecutivo a 
 
 XIII. Proponer un sistema de seguimiento y evaluación, con indicadores de medición, a efecto de analizar el avance en el cumplimiento de estrategias y acciones de carácter municipal;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE ABRIL DE 2020)</small>
+
 XIV. Instrumentar el modelo de desarrollo policial conforme a los lineamientos establecidos por el Consejo; y
 
 XV. Las demás que les confieran otras disposiciones legales.
@@ -511,7 +623,9 @@ XVII. Sugerir la adopción de políticas transversales de prevención integral;
 
 XVIII. Impulsar los programas de profesionalización y de evaluación y control de confianza;
 
-XIX. Administrar el sistema penitenciario del Estado, y realizar los actos inherentes a la ejecución de sanciones;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XIX. Administrar el sistema penitenciario del Estado, evaluar y supervisar el cumplimiento de las medidas cautelares y la suspensión condicional del proceso, impuestas por las autoridades judiciales competentes, por conducto de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso; y realizar los actos inherentes a la ejecución de sanciones;
 
 XX. Desarrollar, en la entidad, los acuerdos de la Conferencia Nacional del Sistema Penitenciario;
 
@@ -525,23 +639,33 @@ XXIV. Las demás que le confieran otras disposiciones legales.
 
 Con el propósito de instrumentar en la entidad los programas, políticas, protocolos, criterios, lineamientos y demás acciones procedentes que acuerde el Consejo Nacional, el Secretario y sus unidades administrativas se coordinarán técnicamente con los centros nacionales de Acreditación y Certificación, de Información, y de Prevención del Delito y Participación Ciudadana previstos en la Ley General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 22.
 
-Las facultades y obligaciones del Procurador son las siguientes:
+Las atribuciones del Fiscal General son las siguientes:
 
 I. Desarrollar, en lo procedente, los acuerdos de la Conferencia Nacional de Procuración de Justicia;
 
-II. Participar en la Conferencia Estatal de instituciones policiales para definir y vincular, el modelo de desarrollo y gestión de la Policial Ministerial con el de las demás instituciones policiales;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-III. Instrumentar el Servicio de Carrera en Procuración de Justicia que incluya a Agentes del Ministerio Público, policías ministeriales y peritos;
+II. Participar en la Conferencia Estatal de instituciones policiales, para definir y vincular el modelo de desarrollo y gestión de la Policía de Investigación con el de las demás instituciones policiales;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+III. Instrumentar el Servicio de Carrera Ministerial, Policial, Pericial y de Justicia Alternativa Penal, en los términos de su propia Ley Orgánica;
 
 IV. Ampliar, en su caso, el Programa Rector de Profesionalización aprobado por la Conferencia Nacional de Procuración de Justicia, y someterlo a la consideración del Consejo;
 
 V. Supervisar la actualización permanente y el uso adecuado de las bases de datos del subsistema de información, en particular las relativas a los registros de personal, detenciones, indiciados, procesados, sentenciados, huellas dactilares, vehículos robados y recuperados, órdenes de aprehensión, armamento y equipo, y demás que se instituyan por el Sistema Nacional;
 
-VI. Diseñar el subprograma de Procuración de Justicia;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-VII. Dar seguimiento a la ejecución del Subprograma e informar al Consejo del avance y los resultados del mismo;
+VI. Participar en el diseño del Programa Estatal de Política Criminal y en el Plan de Persecución Penal, en los términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+VII. Dar seguimiento a la ejecución del Programa Estatal de Política Criminal y Plan de Persecución Penal e informar al Consejo del avance y resultados de los mismos;
 
 VIII. Promover la incorporación de la sociedad y sus organizaciones en los procesos de planeación, ejecución, seguimiento y evaluación de programas y acciones específicos de procuración de justicia;
 
@@ -549,7 +673,9 @@ IX. Fomentar la cultura del respeto a los derechos humanos tanto de la víctima 
 
 X. Promover la denuncia ciudadana y anónima de los delitos;
 
-XI. Vigilar el óptimo desempeño de las funciones ministeriales y promover la cultura de la legalidad y de rechazo a toda forma de corrupción entre los integrantes de la Procuraduría;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XI. Vigilar el óptimo desempeño de las funciones ministeriales y promover la cultura de la legalidad y de rechazo a toda forma de corrupción entre los integrantes de la Fiscalía General;
 
 XII. Proponer al Consejo la realización de estudios técnicos como encuestas sociales y de victimización, para conocer la cifra real del delito y las características de la incidencia criminal;
 
@@ -595,15 +721,23 @@ II. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
 III. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-IV. Los presidente (sic) municipales;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+IV. Los presidentes municipales;
 
 V. El Secretario General de Gobierno;
 
-VI. El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-VII. El Procurador General de Justicia;
+VI. El Secretario;
 
-VIII. Los delegados o representantes en el Estado de la Procuraduría General de la República; de las secretarías de la Defensa Nacional, de Marina, y de Seguridad Pública, del Centro de Investigación y Seguridad Nacional de la Secretaría de Gobernación, así como del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+VII. El Fiscal General;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+VIII. Los delegados o representantes en el Estado de la Fiscalía General de la República; de las secretarías de la Defensa Nacional, de Marina, y de Seguridad y Protección Ciudadana, de la Guardia Nacional, del Centro Nacional de Inteligencia, así como del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública; y
 
 IX. El Secretario Ejecutivo.
 
@@ -773,7 +907,9 @@ I. El Presidente Municipal, quien lo presidirá;
 
 II. Los regidores responsables de las comisiones del Ayuntamiento relacionados con las materias de seguridad pública;
 
-III. Un representante de la Procuraduría;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+III. Un representante de la Fiscalía General;
 
 IV. Un representante de la Secretaría;
 
@@ -819,17 +955,27 @@ La Presidencia y el Secretariado Ejecutivo serán designados por la instancia re
 
 #### SECCION CUARTA. DE LA CONFERENCIA ESTATAL DE INSTITUCIONES POLICIALES
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. LXIV-95, PUBLICADO EN EL P.O. DE 14 DE ABRIL DE 2020, PÁGINAS 15, 16 Y 18.]</small>
+
 ###### ARTICULO 39.
 
 La Conferencia Estatal de instituciones policiales será presidida por el Secretario y estará integrada por:
 
-El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-Los titulares de las instituciones policiales estatales y municipales;
+I. El Fiscal General de Justicia;
 
-El titular de la Policía Ministerial, y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-El Director General de Ejecución de Sanciones.
+II. Los titulares de las instituciones policiales estatales y municipales;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+III. El titular de la Policía de Investigación; y
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+IV. La persona titular de la Subsecretaría de Ejecución de Sanciones y Reinserción Social.
 
 ###### ARTICULO 40.
 
@@ -963,9 +1109,11 @@ IV. Instrumentar e impulsar la capacitación y profesionalización permanente de
 
 V. Los demás que establezcan las disposiciones que deriven de esta ley.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 50.
 
-La organización jerárquica de las instituciones policiales se establecerá en la Ley Orgánica de la Secretaría y en la propia de la Procuraduría por cuanto les corresponda.
+La organización jerárquica de las instituciones policiales se establecerá en la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas y en los Reglamentos Interior de la Secretaría de Seguridad Pública y del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública por cuanto les corresponda.
 
 ###### ARTICULO 51.
 
@@ -1057,9 +1205,9 @@ La selección es el proceso que consiste en elegir a los aspirantes que:
 
 I. Acrediten con los documentos respectivos, haber cumplido los requisitos establecidos en la convocatoria;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-II. Demuestren con el dictamen de la Universidad de Seguridad y Justicia de Tamaulipas, o el Instituto de Capacitación Técnica y Profesional de la Procuraduría General de Justicia, según sea el caso, haber aprobado el curso de formación inicial; y
+II. Demuestren con el dictamen de la Universidad de Seguridad y Justicia de Tamaulipas, o el Instituto de Capacitación Técnica y Profesional de la Fiscalía General, según sea el caso, haber aprobado el curso de formación inicial; y
 
 III. Prueben con el dictamen del Centro Estatal de Evaluación y Confianza, haber cumplido con el perfil requerido.
 
@@ -1199,9 +1347,17 @@ Si la autoridad jurisdiccional resuelve que la separación, remoción, baja, ces
 
 La indemnización a que se refiere el párrafo anterior consistirá en:
 
-I. Veinte días de salario por cada uno de los años de servicios prestados, si la relación de servicio fuere por tiempo indeterminado; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-II. El importe de tres meses de salario base.
+|I. El importe de tres meses de haber base por el último año de servicios prestados;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+II. Veinte días de haber por cada uno de los años de servicios prestados, si la relación de servicio fuere por tiempo indeterminado; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+III. En aquellos juicios en que se condene al pago de haberes o percepciones de cualquier índole dejados de percibir incluso prestaciones, por el tiempo en que el Integrante haya estado suspendido, separado o removido del cargo, estos se cubrirán hasta por un periodo máximo de doce meses.
 
 ###### ARTICULO 66.
 
@@ -1245,27 +1401,35 @@ La aplicación de las sanciones deberá registrarse en el expediente personal de
 
 La imposición de las sanciones que determinen las autoridades correspondientes se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurran los integrantes de las instituciones policiales de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 73.
 
-El procedimiento de aplicación de sanciones, iniciará por solicitud fundada y motivada del titular de la Institución Policial, dirigida al órgano colegiado competente, remitiendo para tal efecto el expediente del presunto infractor.
+Los procedimientos de aplicación de sanciones a los elementos policiales, se regularán por la normatividad correspondiente a la institución de seguridad pública a que pertenezcan.
 
-Los procedimientos a que se refiere el párrafo anterior, deberán realizarse con estricto apego a las disposiciones legales aplicables y observará en todo momento las formalidades esenciales del procedimiento.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 74.
 
-La Secretaría de Seguridad Pública, la Procuraduría y los municipios establecerán instancias colegiadas en las que participen, en su caso, cuando menos, representantes de las unidades operativas de investigación, prevención y reacción de las instituciones policiales, para conocer y resolver, en sus respectivos ámbitos de competencia, toda controversia que se suscite con relación a los procedimientos de la Carrera Policial y el Régimen Disciplinario. El resultado de los procedimientos de aplicación de sanciones, iniciados en estas instancias deberán incorporarse a las bases de datos de personal de Seguridad Pública.
+La Secretaría de Seguridad Pública, la Fiscalía General y los municipios establecerán instancias colegiadas en las que participen, en su caso, cuando menos, representantes de las unidades operativas de investigación, prevención y reacción de las instituciones policiales, para conocer y resolver, en sus respectivos ámbitos de competencia, toda controversia que se suscite con relación a los procedimientos de la Carrera Policial y el Régimen Disciplinario. El resultado de los procedimientos de aplicación de sanciones, iniciados en estas instancias deberá incorporarse a las bases de datos de personal de Seguridad Pública.
 
-## TITULO CUARTO. DEL SERVICIO DE CARRERA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ABRIL DE 2020)</small>
+
+## TITULO CUARTO. DEL SERVICIO DE CARRERA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 75.
 
-El Servicio de Carrera de la Procuraduría, comprenderá lo relativo al Ministerio Público y a los peritos.
+El Servicio de Carrera Ministerial, Policial, Pericial y de Justicia Alternativa Penal de la Fiscalía General se regulará según su propia Ley Orgánica, la Ley General, los acuerdos del Consejo Nacional, el Consejo, las disposiciones que al efecto emita el Consejo de Fiscales y esta Ley.
 
 La Policía Ministerial del Estado se sujetará a lo dispuesto en esta Ley, en materia de carrera policial para las instituciones policiales.
 
-Las reglas y procesos en materia de carrera policial, profesionalización y régimen disciplinario de la policía ministerial, serán aplicados, operados y supervisados por la Procuraduría.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+Las reglas y procesos en materia de carrera policial, profesionalización y régimen disciplinario de la policía de investigación, serán aplicados, operados y supervisados por la Fiscalía General.
 
 Los servidores públicos que tengan bajo su mando a agentes del Ministerio Público o peritos no formarán parte del Servicio de Carrera por ese hecho; serán nombrados y removidos conforme a los ordenamientos legales aplicables; se considerarán trabajadores de confianza, y los efectos de su nombramiento se podrán dar por terminados en cualquier momento.
 
@@ -1291,7 +1455,9 @@ I. Tendrá carácter obligatorio y permanente; abarcará los planes, programas, 
 
 II. Se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos. Tendrá como objetivos la preparación, competencia, capacidad y superación constante del personal en tareas de Procuración de Justicia;
 
-III. El contenido teórico y práctico de los programas de capacitación, actualización, especialización y certificación fomentará que los miembros de la Procuraduría logren la profesionalización y ejerzan sus atribuciones con base en los principios y objetivos referidos y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos, habilidades destrezas y actitudes necesarios para el desempeño del servicio público;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+III. El contenido teórico y práctico de los programas de capacitación, actualización, especialización y certificación fomentará que los miembros de la Fiscalía General logren la profesionalización y ejerzan sus atribuciones con base en los principios y objetivos referidos y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos, habilidades destrezas y actitudes necesarios para el desempeño del servicio público;
 
 IV. Contará con un sistema de rotación del personal;
 
@@ -1313,7 +1479,9 @@ X. Contendrá las normas para el registro de las incidencias del personal.
 
 El ingreso al Servicio de Carrera se hará por convocatoria pública.
 
-Los aspirantes a ingresar a la Procuraduría, deberán cumplir, cuando menos, con los requisitos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE ABRIL DE 2020)</small>
+
+Los aspirantes a ingresar a la Fiscalía General, deberán cumplir, cuando menos, con los requisitos siguientes:
 
 A. Ministerio Público.
 
@@ -1359,21 +1527,27 @@ IX. Presentar y aprobar las evaluaciones de control de confianza.
 
 Lo dispuesto por este artículo aplicará sin perjuicio de otros requisitos que se establezcan en las convocatorias respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 79.
 
-Previo al ingreso de los aspirantes a los cursos de formación inicial, deberán consultarse sus antecedentes en el Registro Nacional y, en su caso, en los registros de la Procuraduría.
+Previo al ingreso de los aspirantes a los cursos de formación inicial, deberán consultarse sus antecedentes en el Registro Nacional y, en su caso, en los registros de la Fiscalía General.
 
 Asimismo, deberá verificarse la autenticidad de los documentos presentados por los aspirantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 80.
 
-Los aspirantes a ingresar al Servicio de Carrera de la Procuraduría, deberán cumplir con los estudios de formación inicial.
+Los aspirantes a ingresar al Servicio de Carrera de la Fiscalía General, deberán cumplir con los estudios de formación inicial.
 
 La duración de los programas de formación inicial no podrá ser inferior a quinientas horas clase.
 
 En todo caso atendiendo a los lineamientos aplicables.
 
 #### SECCION CUARTA. DE LA TERMINACION DEL SERVICIO DE CARRERA
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 81.
 
@@ -1393,9 +1567,11 @@ VI. Cumplir con las obligaciones que les impongan las leyes respectivas, y
 
 VII. Los demás requisitos que establezcan otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 82.
 
-Los integrantes de la Procuraduría, deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño con la periodicidad y en los casos que establezca la normatividad aplicable.
+Los integrantes de la Fiscalía General, deberán someterse y aprobar los procesos de evaluación de control de confianza y del desempeño con la periodicidad y en los casos que establezca la normatividad aplicable.
 
 Los resultados de los procesos de evaluación y los expedientes que se formen con los mismos serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales y se mantendrán en reserva en los términos de las disposiciones aplicables, salvo en los casos que señala la presente Ley.
 
@@ -1403,11 +1579,13 @@ Los resultados de los procesos de evaluación y los expedientes que se formen co
 
 Las solicitudes de reincorporación al servicio de carrera se analizarán y en su caso, concederán con arreglo a lo que establezcan las leyes respectivas, siempre que el motivo de la baja haya sido por causas distintas al incumplimiento a los requisitos de permanencia o al seguimiento de un proceso de responsabilidad administrativa o penal.
 
-#### SECCION PRIMERA. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
+#### SECCIÓN PRIMERA. DEL REGISTRO DE DETENCIONES
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 84.
 
-La terminación consiste en los procedimientos de separación y remoción aplicables a los servidores públicos de la Procuraduría que, cuando menos, comprenderán los aspectos previstos en el artículo siguiente.
+La terminación consiste en los procedimientos de separación y remoción aplicables a los servidores públicos de la Fiscalía General que, cuando menos, comprenderán los aspectos previstos en el artículo siguiente.
 
 ###### ARTICULO 85.
 
@@ -1427,65 +1605,75 @@ a) Separación por el incumplimiento de los requisitos de ingreso y permanencia,
 
 b) Remoción por incurrir en causas de responsabilidad con motivo de su encargo.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 86.
 
-En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción fue injustificada, la Procuraduría sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona removida, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, de conformidad con lo dispuesto en el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
-
-La indemnización a que se refiere el párrafo anterior consistirá en:
-
-I. Veinte días de salario por cada uno de los años de servicios prestados, si la relación de servicio fuere por tiempo indeterminado; y
-
-II. El importe de tres meses de salario base.
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción fue injustificada, la Fiscalía General sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona removida, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, de conformidad con lo dispuesto en el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
 
 ### CAPITULO III. DE LA PROFESIONALIZACION
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 87.
 
-El Programa Rector de Profesionalización es el instrumento en el que se establecen los lineamientos, programas, actividades y contenidos mínimos para la profesionalización del personal de la Procuraduría.
+El Programa Rector de Profesionalización es el instrumento en el que se establecen los lineamientos, programas, actividades y contenidos mínimos para la profesionalización del personal de la Fiscalía General.
 
 ###### ARTICULO 88.
 
 Los planes de estudios se integrarán por el conjunto de contenidos teóricos y prácticos estructurados en unidades didácticas de enseñanza y aprendizaje, en los que se incluyan talleres de resolución de casos.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 89.
 
-Los servidores públicos de la Procuraduría, están obligados a participar en las actividades de profesionalización que determine la institución respectiva, los cuales deberán cubrir un mínimo de 60 horas clase anuales.
+Los servidores públicos de la Fiscalía General, están obligados a participar en las actividades de profesionalización que determine la institución respectiva, los cuales deberán cubrir un mínimo de 60 horas clase anuales.
 
 ### CAPITULO IV. DE LA CERTIFICACION
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 90.
 
-Los aspirantes que ingresen a la Procuraduría, deberán contar con el certificado y registro correspondientes, de conformidad con lo establecido por esta Ley.
+Los aspirantes que ingresen a la Fiscalía General, deberán contar con el certificado y registro correspondientes, de conformidad con lo establecido por esta Ley.
 
-Ninguna persona podrá ingresar o permanecer en la Procuraduría General de Justicia del Estado sin contar con el Certificado y registro vigentes.
+Ninguna persona podrá ingresar o permanecer en la Fiscalía General sin contar con el Certificado y registro vigentes.
 
 ###### ARTICULO 91.
 
 El Centro Estatal de Evaluación y Control de Confianza emitirá los certificados correspondientes a quienes acrediten los requisitos de ingreso que establece esta Ley.
 
-El certificado tendrá por objeto acreditar que el servidor público es apto para ingresar o permanecer en la Procuraduría, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+El certificado tendrá por objeto acreditar que el servidor público es apto para ingresar o permanecer en la Fiscalía General, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 92.
 
-Los servidores públicos de la Procuraduría, deberán someterse a los procesos de evaluación con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos.
+Los servidores públicos de la Fiscalía General, deberán someterse a los procesos de evaluación con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos.
 
-La revalidación del certificado será requisito indispensable para su permanencia en la Procuraduría y deberá registrarse para los efectos a que se refiere el artículo anterior.
+La revalidación del certificado será requisito indispensable para su permanencia en la Fiscalía General y deberá registrarse para los efectos a que se refiere el artículo anterior.
 
 ###### ARTICULO 93.
 
 La certificación que otorgue el Centro Estatal de Evaluación y Control de Confianza deberá contener los requisitos y medidas de seguridad que para tal efecto acuerde el Centro Nacional de Certificación y Acreditación.
 
-Los servidores públicos de la Procuraduría, que deseen prestar sus servicios en otra institución, ya sea en la Federación o en las Entidades Federativas, deberán presentar el certificado que les haya sido expedido previamente.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
-Las Instituciones de la Procuraduría reconocerán la vigencia de los certificados debidamente expedidos y registrados, conforme a las disposiciones de esta Ley y demás aplicables. En caso contrario, previo a su ingreso, el servidor público deberá someterse a los procesos de evaluación.
+Los servidores públicos de la Fiscalía General, que deseen prestar sus servicios en otra institución, ya sea en la Federación o en las Entidades Federativas, deberán presentar el certificado que les haya sido expedido previamente.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+Las Instituciones de la Fiscalía General reconocerán la vigencia de los certificados debidamente expedidos y registrados, conforme a las disposiciones de esta Ley y demás aplicables. En caso contrario, previo a su ingreso, el servidor público deberá someterse a los procesos de evaluación.
 
 En todos los casos, se deberán realizar las inscripciones que correspondan en el Registro Nacional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 94.
 
-La cancelación del certificado de los servidores públicos de la Procuraduría procederá:
+La cancelación del certificado de los servidores públicos de la Fiscalía General procederá:
 
 I. Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
 
@@ -1495,7 +1683,9 @@ III. Por no obtener la revalidación de su certificado, y
 
 IV. Por las demás causas que establezcan las disposiciones aplicables.
 
-La Procuraduría deberá hacer la anotación de la cancelación respectiva, en el Registro Nacional correspondiente.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+La Fiscalía General deberá hacer la anotación de la cancelación respectiva, en el Registro Nacional correspondiente.
 
 ## TITULO QUINTO. DEL CENTRO ESTATAL DE EVALUACION Y CONTROL DE CONFIANZA
 
@@ -1555,29 +1745,45 @@ Las instituciones adoptarán programas informáticos para organizar, ejecutar y 
 
 ### CAPITULO II. DE LOS REGISTROS QUE INTEGRAN EL SISTEMA ESTATAL DE INFORMACION
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ABRIL DE 2020)</small>
+
 #### SECCION SEGUNDA. DEL SISTEMA UNICO DE INFORMACION CRIMINAL
 
 ###### ARTICULO 99.
 
-Las policías estatales que cumplan funciones de prevención y reacción, la policía ministerial y las policías preventivas municipales que realicen detenciones, deberán dar aviso administrativo de inmediato al Centro Nacional de Información, de la detención, a través del Informe Policial Homologado.
+Los integrantes de las instituciones policiales que cumplan funciones de prevención y reacción, la policía de investigación y las policías preventivas municipales que realicen detenciones, deberán realizar la inscripción correspondiente en el Registro Nacional de Detenciones.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 100.
 
-El registro administrativo de la detención deberá contener, al menos, los datos siguientes:
+El registro inmediato sobre la detención deberá realizarse conforme a lo establecido en la Ley Nacional del Registro de Detenciones y los Lineamientos para el Funcionamiento, Operación y Conservación del Registro Nacional de Detenciones y contener, al menos, los datos siguientes:
 
-I. Nombre y, en su caso, apodo del detenido;
+I. Nombre y, en su caso, apodo;
 
-II. Descripción física del detenido;
+II. Edad;
 
-III. Motivo, circunstancias generales, lugar y hora en que se haya practicado la detención;
+III. Sexo;
 
-IV. Nombre de quien o quienes hayan intervenido en la detención. En su caso, rango y área de adscripción, y
+IV. Lugar, fecha y hora en que se haya practicado la detención y los motivos de la misma, así como si esta obedece al cumplimiento de una orden de aprehensión, detención por flagrancia, caso urgente o arresto administrativo;
 
-V. Lugar a donde será trasladado el detenido.
+V. Nombre de quien o quienes hayan intervenido en la detención. En su caso, institución, rango y área de adscripción;
+
+VI. La autoridad a la que será puesta a disposición;
+
+VII. El nombre de algún familiar o persona de confianza, en caso de que la persona detenida acceda a proporcionarlo;
+
+VIII. El señalamiento de si la persona detenida presenta lesiones apreciables a simple vista; y
+
+IX. Los demás datos que determine el Centro Nacional de Información que permitan atender el objeto de la Ley Nacional del Registro de Detenciones.
+
+El registro deberá realizarse sin demérito de que la autoridad que efectúe la detención cumpla con la obligación de emitir su respectivo informe policial y demás documentos a que se refiere el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 101.
 
-Las Instituciones de Procuración de Justicia deberán actualizar la información relativa al registro, tan pronto reciba a su disposición al detenido, recabando lo siguiente:
+Las Instituciones de Procuración de Justicia deberán actualizar la información relativa al registro, tan pronto reciba a su disposición al detenido, recabando la información contenida en la Ley Nacional del Registro de Detenciones.
 
 I. Domicilio, fecha de nacimiento, estado civil, grado de estudios y ocupación o profesión;
 
@@ -1597,13 +1803,25 @@ El Ministerio Público y la policía deberán informar a quien lo solicite de la
 
 La Conferencia Nacional de Procuración de Justicia emitirá las disposiciones necesarias para regular los dispositivos tecnológicos que permitan generar, enviar, recibir, consultar o archivar toda la información a que se refiere este artículo, la que podrá abarcar imágenes, sonidos y video, en forma electrónica, óptica o mediante cualquier otra tecnología.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 102.
 
-La información capturada en el Registro Administrativo de Detenciones será confidencial y reservada. A la información contenida en el registro sólo podrán tener acceso:
+La información capturada en el Registro de Detenciones será confidencial y reservada, en términos de lo dispuesto por la Ley Nacional del Registro de Detenciones. A la información contenida en el registro sólo podrán tener acceso:
 
-I. Las autoridades competentes en materia de investigación y persecución del delito, para los fines que se prevean en los ordenamientos legales aplicables, y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-II. Los probables responsables, estrictamente para la rectificación de sus datos personales y para solicitar que se asiente en el mismo el resultado del procedimiento penal, en términos de las disposiciones legales aplicables.
+I. Las autoridades competentes en materia de investigación y persecución del delito, para los fines que se prevean en los ordenamientos legales aplicables;
+
+(NOTA: EL 13 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 203/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE MARZO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+II. Los probables responsables y sus defensores, ESTRICTAMENTE PARA LA RECTIFICACIÓN DE SUS DATOS PERSONALES Y PARA SOLICITAR QUE SE ASIENTE EN EL MISMO EL RESULTADO DEL PROCEDIMIENTO PENAL, en términos de las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+III. Cualquier persona en términos del Sistema de Consulta establecido en la Ley Nacional del Registro de Detenciones.
 
 Bajo ninguna circunstancia se podrá proporcionar información contenida en el Registro a terceros. El Registro no podrá ser utilizado como base de discriminación, vulneración de la dignidad, intimidad, privacidad u honra de persona alguna.
 
@@ -1655,6 +1873,20 @@ Cuando a los integrantes de las instituciones de seguridad pública se les dicte
 
 Las instituciones de seguridad pública inscribirán y mantendrán permanentemente actualizados en el Registro, los datos relativos a sus integrantes, en los términos de esta Ley.
 
+#### SECCIÓN QUINTA. DEL REGISTRO DE MEDIDAS CAUTELARES, SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+ARTICULO 114 BIS. Las autoridades competentes mantendrán permanentemente actualizado el Registro de Medidas Cautelares y Soluciones Alternas y de Terminación Anticipada, el cual incluirá por lo menos lo siguiente:
+
+I. Las medidas cautelares impuestas a un imputado, fecha de inicio y término, delitos por el que se impuso la medida y, en su caso, incumplimiento o modificación de la misma;
+
+II. Los acuerdos reparatorios que se realicen, especificando el nombre de las partes que lo realizan, el tipo de delito, la autoridad que los sancionó, su cumplimiento o incumplimiento;
+
+III. La suspensión condicional, el proceso aprobado por el juez de control, especificando los nombres de las partes, el tipo del delito, las condiciones impuestas por el Juez, y su cumplimiento o incumplimiento; y
+
+IV. La sustanciación de un procedimiento abreviado, especificando los nombres de las partes, el tipo de delito y la sanción impuesta.
+
 ###### ARTICULO 111.
 
 Las instituciones de seguridad pública manifestarán y mantendrán permanentemente actualizado el Registro Nacional de Armamento y Equipo, el cual incluirá:
@@ -1677,6 +1909,8 @@ En el caso de que los integrantes de las Instituciones de Seguridad Pública ase
 
 El incumplimiento de las disposiciones de esta sección, dará lugar a que la portación o posesión de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE ABRIL DE 2020)</small>
+
 ### CAPITULO III. DE LA RED ESTATAL DE TELECOMUNICACIONES
 
 ###### ARTICULO 115.
@@ -1697,9 +1931,15 @@ III. Radiocomunicación, en el espectro radioeléctrico asignado por la Secretar
 
 IV. Transmisión de voz, datos e imagen;
 
-V. Telefonía, y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-VI. Los demás que conformen la plataforma tecnológica de la red.
+V. Telefonía;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+VI. Monitoreo a través de la red de video vigilancia; y
+
+VII. Los demás que conformen la plataforma tecnológica de la red.
 
 ###### ARTICULO 117.
 
@@ -2061,7 +2301,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 15 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-342 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 116 FRACCIÓN I Y 118 PÁRRAFO PRIMERO DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-342 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 116 FRACCIÓN I Y 118 PÁRRAFO PRIMERO DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2078,3 +2318,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Estado de Tamaulipas.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-95 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, ASÍ COMO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
