@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2020-03-03"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2145,7 +2145,9 @@ Este delito se perseguirá por querella necesaria.
 
 ### CAPÍTULO IV. Difusión Ilícita de Imágenes
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+(NOTA: EL 28 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 208/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE ABRIL DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0659, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 180.
 
@@ -2265,13 +2267,25 @@ Este delito se perseguirá por querella.
 
 ###### ARTÍCULO 187.
 
-Comete el delito de difusión ilícita de imágenes íntimas quien, transmita, publique, o difunda imágenes, sonidos o grabaciones de contenido sexual, que pueden o no contener texto, obtenidas con o sin el consentimiento de la víctima, sin autorización para su difusión. Este delito se sancionará con una pena de dos a cuatro años de prisión y multa de trescientos días del valor de la unidad de medida de actualización.
+Comete el delito de difusión ilícita de imágenes íntimas quien, transmita, publique, o difunda imágenes, sonidos o grabaciones de contenido sexual, que pueden o no contener texto, obtenidas con o sin el consentimiento de la víctima, sin autorización para su difusión. Este delito se sancionará con una pena de tres a seis años de prisión Y MULTA DE TRECIENTOS (SIC) DÍAS DEL VALOR DE LA UNIDAD DE MEDIDA DE ACTUALIZACIÓN.
 
-Se aumentará la sanción pecuniaria y la pena privativa de la libertad hasta en una mitad más, cuando:
+Cuando la trasmisión, publicación o divulgación a que se refiere el párrafo anterior, se haga a través de medios de comunicación o plataformas digitales, la autoridad competente ordenará a la empresa de prestación de redes sociales o medio de comunicación, a retirar inmediatamente el contenido.
 
-I. El delito sea cometido por el cónyuge o por persona que esté, o haya estado unida a la víctima por alguna relación de afectividad, aún sin convivencia, y
+(NOTA: EL 28 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 208/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE ABRIL DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0659, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. La víctima fuese menor de edad, o persona con discapacidad.
+Aumentará la pena privativa de la libertad, Y LA SANCIÓN PECUNIARIA hasta en una mitad más, cuando:
+
+I. El delito sea cometido por la o el cónyuge, o por persona que esté, o haya estado unida a la víctima por alguna relación de afectividad, aún sin convivencia;
+
+II. La víctima fuese menor de edad o persona con discapacidad;
+
+III. Exista relación jerárquica derivada de relaciones laborales, docentes, domésticas, o de cualquier clase que implique subordinación entre la persona agresora y la víctima;
+
+IV. Se hiciere uso de la violencia física o moral, y
+
+V. La persona agresora sea servidor público, y utilice los medios o circunstancias que el encargo le proporcione.
+
+En el supuesto al que se refiere la fracción V de este artículo, además de la pena impuesta, la persona agresora será destituida e inhabilitada para ocupar cargo, empleo o comisión en el sector público de tres a seis años.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE MAYO DE 2018)</small>
 
@@ -5288,6 +5302,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0597.- SE REFORMA EL ARTÍCULO 323 EN SU FRACCIÓN VIII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0659.- SE REFORMA EL ARTÍCULO 187, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ Y SE ADICIONA AL ARTÍCULO 4° UNA FRACCIÓN, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
