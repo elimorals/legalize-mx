@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2018-06-07"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -7103,9 +7103,11 @@ Caducidad de la oposición
 
 Protocolización de las informaciones
 
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2020)</small>
+
 ###### Artículo 3.
 
-29.- Las informaciones se protocolizarán ante el Notario que designe el interesado y se inscribirán en el Registro Público de la Propiedad.
+29.- Las resoluciones ejecutorias que declaren procedentes las informaciones se inscribirán en el Instituto de la Función Registral del Estado de México, una vez acreditado ante el Juez el pago de las contribuciones correspondientes señaladas en la legislación vigente.
 
 ### CAPITULO I. Reglas Generales
 
@@ -9280,3 +9282,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los requisitos previstos en el artículo 94 bis de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México, resultarán aplicables a los nombramientos que se realicen a partir de la entrada en vigor del presente decreto.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 148.- POR EL QUE SE REFORMA EL ARTÍCULO 3.29 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
