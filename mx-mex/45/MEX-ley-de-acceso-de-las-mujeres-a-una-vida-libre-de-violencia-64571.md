@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2019-10-23"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DE 23 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -1077,7 +1075,7 @@ Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia:
 
 I. La atención de la violencia contra las mujeres y las niñas; se deberán respetar los derechos de la víctima consagrados en el artículo 56 de la presente Ley a ser atendidas con perspectiva de género y a no ser sometida a procedimientos de conciliación, mediación y/o cualquier otro alternativo con la persona agresora;
 
-II. Remitir a la víctima a servicios médicos, psicológicos y/o Jurídicos especializados, cuando lo requiera;
+II. Remitir a la víctima a servicios médicos, psicológicos y/o jurídicos especializados, cuando lo requiera;
 
 III. Brindar la información, la asistencia y el patrocinio jurídico y en caso de requerirse, remitir a la víctima a un refugio, así como a sus familiares;
 
@@ -1299,11 +1297,13 @@ III. Garantizar la formación, especialización y actualización constante de la
 
 IV. Garantizar que la corporación policiaca actúe con diligencia en la ejecución de las Órdenes de Protección de Emergencia y de Prevención, así como el estricto cumplimiento en la ejecución de los Protocolos de Actuación Policial.
 
-V. (DEROGADA, G.G. 18 DE MARZO DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ABRIL DE 2020)</small>
 
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+V. Expedir las disposiciones jurídicas municipales encaminadas a lograr la participación conjunta y coordinada de la administración pública municipal para garantizar el derecho de las mujeres a una vida libre de violencia en su ámbito territorial;
 
-VI. Formular, ejecutar y evaluar el Programa Municipal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2020)</small>
+
+VI. Formular, ejecutar y evaluar el Programa Municipal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, mismo que será remitido al Sistema Estatal y a la Legislatura del Estado, dentro de los primeros tres meses de la gestión municipal para los efectos conducentes;
 
 VII. Promover, en coordinación con el Gobierno Estatal, cursos de formación, especialización y actualización constante sobre violencia de género y Derechos Humanos de las mujeres, a las personas que atienden a las mujeres víctimas de violencia, en los términos de la presente Ley;
 
@@ -1539,7 +1539,7 @@ Por tanto, mando se publique, circule, observe y se le dé el debido cumplimient
 
 Toluca de Lerdo, Méx., a 20 de noviembre de 2008.
 
-El GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
 
 LIC. ENRIQUE PEÑA NIETO
 
@@ -1782,3 +1782,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 > <small>(F. DE E., G.G. 23 DE OCTUBRE DE 2019)</small>
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 142.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Dentro del plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, los ayuntamientos de los 125 municipios del Estado de México deberán expedir las disposiciones jurídicas materia del presente Decreto.
