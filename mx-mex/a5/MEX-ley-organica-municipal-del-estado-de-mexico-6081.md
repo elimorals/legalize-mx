@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2019-12-26"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -893,11 +893,11 @@ XLV. Colaborar con las autoridades estatales y federales en el ámbito de su com
 
 XLVI. Las demás que señalen las leyes y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ABRIL DE 2020)</small>
 
 ###### Artículo 32.
 
-Para ocupar los cargos de Secretario, Tesorero, Director de Obras Públicas, Director de Desarrollo Económico, Coordinador General Municipal de Mejora Regulatoria, Ecología, Desarrollo Urbano, o equivalentes, titulares de las unidades administrativas, protección Civil, y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
+Para ocupar los cargos de Secretario; Tesorero; Director de Obras Públicas, de Desarrollo Económico, Director de Turismo, Coordinador General Municipal de Mejora Regulatoria, Ecología, Desarrollo Urbano, de Desarrollo Social, o equivalentes, titulares de las unidades administrativas, de Protección Civil y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
 
 I. Ser ciudadano del Estado en pleno uso de sus derechos;
 
@@ -1237,9 +1237,13 @@ XXI. Satisfacer los requerimientos que le sean solicitados por la Secretaría de
 
 XXII. Vigilar la integración, funcionamiento y cumplimiento de los acuerdos tomados por el Consejo Municipal de Seguridad Pública, en los términos de esta Ley;
 
-> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ABRIL DE 2020)</small>
 
-XXIII. Las demás que le confieran esta Ley y otros ordenamientos.
+XXIII. Rendir un informe anual sobre el cumplimiento de su Programa Municipal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE ABRIL DE 2020)</small>
+
+XXIV. Las demás que le confieran esta Ley y otros ordenamientos.
 
 ###### Artículo 49.
 
@@ -1897,9 +1901,23 @@ V. La Dirección de Desarrollo Urbano o equivalente;
 
 VI. La Dirección de Ecología o equivalente; y
 
-> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE ABRIL DE 2020)</small>
 
-VII. Unidad Municipal de Protección Civil o equivalente.
+VII. La Dirección de Desarrollo Social o equivalente, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 14 DE ABRIL DE 2020)</small>
+
+VIII. La Coordinación Municipal de Protección Civil o equivalente.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2020)</small>
+
+###### Artículo 87 Bis.
+
+En los municipios que de acuerdo a la Ley de Derechos y Cultura Indígena del Estado de México, tengan población indígena, los ayuntamientos deberán contar con una Dirección de Asuntos Indígenas o su equivalente, que será la encargada de atender, con respeto a su cultura, usos, costumbres, tradiciones y formas de organización comunitaria, las solicitudes y propuestas de las personas y comunidades indígenas que sean de su competencia.
+
+La Dirección de Asuntos Indígenas, estará a cargo de una persona que preferentemente hable y escriba alguna de las lenguas indígenas propias de la región. Esta designación a propuesta del Presidente Municipal, deberá ser ratificada por el cabildo.
+
+El Director realizará las funciones y ejercerá las atribuciones específicas que señale el Reglamento Interno correspondiente.
 
 ###### Artículo 88.
 
@@ -2261,6 +2279,70 @@ VI. Las demás que le sean conferidas por el Presidente Municipal o por el Ayunt
 
 El Director de Ecología o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de biología-agronomía-administración pública o afín, o contar con una experiencia mínima de un año, con anterioridad a la fecha de su designación; además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
 
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2020)</small>
+
+###### Artículo 96 Decies.
+
+Los municipios podrán establecer una Dirección de Turismo o equivalente, cuyo titular tendrá las atribuciones siguientes:
+
+I. Impulsar acciones para el desarrollo y mejora de los centros turísticos del Municipio;
+
+II. Promover los atractivos turísticos y la oferta comercial del Municipio;
+
+III. Promover e implementar los programas federales y estatales en materia turística en el Municipio;
+
+IV. Promover e implementar las políticas públicas en materia de turismo y desarrollo artesanal, atendiendo las prioridades y estrategias establecidas en el Plan de Desarrollo del Municipio;
+
+V. Elaborar y mantener actualizado un Registro Municipal de Turismo Sustentable, de Artesanos y el Catálogo Artesanal Municipal;
+
+VI. Implementar acciones de mejora regulatoria que faciliten la comercialización de los productos y servicios turísticos, bajo los principios de legalidad y equidad;
+
+VII. Fomentar y preservar los usos y costumbres de los pueblos originarios en el ámbito turístico y artesanal, que se encuentran dentro del Municipio;
+
+VIII. Celebrar acuerdos o convenios de coordinación, concertación y/o participación con instituciones y organismos públicos o privados, con representantes extranjeros, en materia de fomento al turismo y desarrollo artesanal, con apego a la normatividad aplicable;
+
+VI. (SIC) Proponer al Ayuntamiento la integración del Consejo Consultivo Municipal Turístico y Sustentable, y
+
+IX. Las demás que le sean conferidas en su caso por el Consejo Consultivo Municipal Turístico y Sustentable, por el Ayuntamiento y por las disposiciones normativas en materia de turismo y desarrollo artesanal aplicables.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2020)</small>
+
+Artículo 96 Undecies.- El Director de Turismo, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de turismo o afín.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2020)</small>
+
+Artículo 96 Duodecies.- El Director de Desarrollo Social o equivalente, tiene las siguientes atribuciones:
+
+I. Diagnosticar, formular, dirigir, implementar y evaluar la política social del Gobierno Municipal;
+
+II. Cuantificar, determinar y proponer, en coordinación con las instancias competentes, los recursos públicos necesarios para generar los programas y acciones que atiendan las necesidades básicas de la población vulnerable del municipio;
+
+III. Ejecutar los programas, proyectos y acciones municipales en materia de desarrollo social, de manera coordinada con las instancias correspondientes;
+
+IV. Proponer e impulsar acciones y obras para el desarrollo comunitario, en coordinación con otras dependencias administrativas del municipio;
+
+V. Auxiliar o representar al Presidente Municipal, en el ámbito de su competencia, en la coordinación con las dependencias correspondientes en materia de desarrollo social de los Gobiernos Estatal y Federal en la ejecución de sus programas y acciones en el territorio municipal;
+
+VI. Asistir al Presidente Municipal en el convenio de acciones con otros municipios de la entidad, así como con organismos públicos descentralizados federales, estatales y municipales, en materia de desarrollo social;
+
+VII. Integrar los padrones respectivos de beneficiarios de los programas de desarrollo social municipal;
+
+VIII. Informar a la ciudadanía de las políticas, programas y acciones de desarrollo social que ejecuten; así como sobre la aplicación de los recursos y evolución de cada uno de estos programas, en términos de las disposiciones jurídicas aplicables;
+
+IX. Concertar acciones con los sectores no gubernamental, social y privado en materia de desarrollo social;
+
+X. Establecer mecanismos para incluir la participación de la sociedad civil organizada y de la ciudadanía en general, para la ejecución de programas y acciones de desarrollo social;
+
+XI. Promover la cultura de los grupos étnicos asentados en el territorio municipal y fomentar el desarrollo social de los mismos;
+
+XII. Fomentar y proponer acciones de desarrollo social con perspectiva de género y respeto a los derechos humanos, y
+
+XIII. Las demás que señale la Ley de Desarrollo Social del Estado de México, su reglamento y las disposiciones jurídicas aplicables, así como aquellas que le confiera el Presidente Municipal o el Ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2020)</small>
+
+Artículo 96 Terdecies.- El Director de Desarrollo Social o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de Ciencias Sociales o a fin, o contar con una experiencia mínima de un año en la materia, con anterioridad a la fecha de su designación.
+
 ### CAPITULO TERCERO. De la Hacienda Pública Municipal
 
 ###### Artículo 97.
@@ -2522,6 +2604,10 @@ El Plan de Desarrollo Municipal contendrá al menos, un diagnóstico sobre las c
 ###### Artículo 119.
 
 El Plan de Desarrollo Municipal se complementará con programas anuales sectoriales de la administración municipal y con programas especiales de los organismos desconcentrados y descentralizados de carácter municipal.
+
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2020)</small>
+
+Asimismo, los ayuntamientos deberán formular, ejecutar, remitir y evaluar el Programa Municipal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, así como las Estrategias respectivas, en los términos previstos por las disposiciones aplicables.
 
 ###### Artículo 120.
 
@@ -5022,3 +5108,39 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 135.- POR EL QUE SE REFORMA EL ARTÍCULO 32, SE ADICIONAN LOS ARTÍCULOS 96 DECIES Y 96 UNDECIES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 136.- POR EL QUE SE ADICIONA EL ARTÍCULO 87 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Los Ayuntamientos deberán aprobar el Reglamento Interno correspondiente en un plazo máximo de 180 días hábiles.
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 138.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 32, LA FRACCIÓN VII DEL ARTÍCULO 87 Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 87, LOS ARTÍCULOS 96 DUODECIES Y 96 TERDECIES TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 142.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO Y DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Dentro del plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, los ayuntamientos de los 125 municipios del Estado de México deberán expedir las disposiciones jurídicas materia del presente Decreto.
