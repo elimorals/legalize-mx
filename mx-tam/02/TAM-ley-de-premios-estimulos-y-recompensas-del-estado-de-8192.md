@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-premios-estimulos-y-recompensas-del-estado-de-8192"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-26"
-last_updated: "2018-10-30"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
 
@@ -197,13 +197,17 @@ XI.- Premio Estatal de Ecología y Protección al Ambiente;
 
 XII.- Premio Estatal al Mérito ciudadano General José Bernardo Maximiliano Gutiérrez de Lara;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-XIII.- Premio Estatal al Mérito ciudadano General Alberto Carrera Torres; y
+XIII.- Premio Estatal al Mérito ciudadano General Alberto Carrera Torres;
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-XIV.- Premio Estatal al Mérito a la Enfermería Doctor Rodolfo Torre Cantú.
+XIV.- Premio Estatal al Mérito a la Enfermería Doctor Rodolfo Torre Cantú; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XV.- Premio Estatal de la Innovación, la Ciencia y la Tecnología.
 
 ###### ARTICULO 19.
 
@@ -689,9 +693,33 @@ El premio consistirá en una medalla de plata, diploma y el numerario que determ
 
 El premio deberá entregarse anualmente, preferentemente el día 12 de mayo por conmemorarse en esa fecha el Día Internacional de la Enfermería.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE ABRIL DE 2020)</small>
+
+### CAPITULO XVIII. PREMIO ESTATAL DE LA INNOVACIÓN, LA CIENCIA Y LA TECNOLOGÍA
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+ARTICULO 89 QUATER.- El Premio Estatal de la Innovación, la Ciencia y la Tecnología se conferirán a la o a las personas físicas o morales que estén domiciliadas dentro del Estado que, por sus productos, diseños, procesos, servicios, métodos u organizaciones, contribuyan en el avance de la innovación, la ciencia y la tecnología de Tamaulipas.
+
+Estos Premios se otorgarán en las siguientes categorías:
+
+I. Innovación;
+
+II. Ciencia; y
+
+III. Tecnología.
+
+Estos Premios se tramitarán ante el Consejo Tamaulipeco de Ciencia y Tecnología, cuyo titular formará parte del Consejo de Premiación, el cual será presidido por quien ostente la Presidencia de la Comisión de Innovación, Ciencia y Tecnología del Congreso del Estado; así mismo, lo integrarán también las o los titulares de las Secretarías de Bienestar Social, de Desarrollo Económico, de Educación, y la Rectoría de la Universidad Autónoma de Tamaulipas.
+
+Cualquier persona podrá presentar candidaturas de acuerdo con los lineamientos de la Convocatoria.
+
+Los Premios consistirán en una medalla. El Consejo podrá proponer al Gobernador del Estado que la presea se acompañe de entrega en numerario o en especie.
+
+Estos Premios deberán entregarse anualmente y de preferencia durante el mes de abril, en el marco de la conmemoración del Día Mundial de la Ciencia y Tecnología, del Día Mundial de la Creatividad y la Innovación o del Día Mundial de la Propiedad Intelectual.
+
 (REUBICADO [N. DE E. ANTES CAPITULO XVII], P.O. 6 DE ABRIL DE 2011)
 
-### CAPITULO XVIII. ESTIMULOS Y RECOMPENSAS
+### CAPITULO XVIII (SIC). ESTIMULOS Y RECOMPENSAS
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -842,6 +870,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 30 DE OCTUBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-518 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS; LA LEY DEL FOMENTO Y USO DE LA BICICLETA EN EL ESTADO DE TAMAULIPAS; LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS; LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-86 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 18; Y SE ADICIONAN LA FRACCIÓN XV AL ARTÍCULO 18, ASÍ COMO UN CAPÍTULO XVIII DENOMINADO "PREMIO ESTATAL DE LA INNOVACIÓN, LA CIENCIA Y LA TECNOLOGÍA" COMPRENDIDO POR EL ARTÍCULO 89 QUÁTER, A LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
