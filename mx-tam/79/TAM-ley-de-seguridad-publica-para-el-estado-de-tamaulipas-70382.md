@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2019-08-20"
+last_updated: "2020-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TAM"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 14 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020 (ABROGADA).
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -2374,3 +2376,25 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-94 MEDIANTE EL CUAL SE EXPIDE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Pública para el Estado de Tamaulipas expedida mediante Decreto LIX-1086, del 03 de diciembre del 2007, publicado en el Periódico Oficial del Estado, Anexo al número 156, del 27 de diciembre del 2007, así como sus reformas; asimismo, se deroga cualquier disposición jurídica que se opongan (sic) a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+En un término que no exceda de 90 días posteriores a la entrada en vigor de esta Ley, se expedirán el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública y el Reglamento Interior de la Secretaría de Seguridad Pública.
+
+Los Ayuntamientos en el ejercicio de sus respectivas competencias, deberán emitir las disposiciones jurídico administrativas a que haya lugar, para regular la carrera policial y el régimen disciplinario de sus integrantes.
+
+###### ARTÍCULO CUARTO.
+
+Los Consejos de Desarrollo Policial de la Secretaría y de los Municipios, continuarán ejerciendo sus atribuciones en los términos previstos en la Ley abrogada por el presente Decreto respecto de los procedimientos que ya se encuentren sustanciando; los procedimientos por faltas graves al régimen disciplinario que hubieren sido cometidas con anterioridad a la presente Ley, en los que aún no se haya llevado a cabo la audiencia inicial, deberán sustanciarse con las disposiciones jurídicas dispuestas en el presente Decreto; en todo caso, dichos órganos aplicarán las nuevas disposiciones en lo que corresponda y continuarán integrando con las normas que resulten más benéficas para el Integrante.
