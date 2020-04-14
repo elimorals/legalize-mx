@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-535-de-acuicultura-y-pesca-sustentables-del-107712"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-16"
-last_updated: "2014-12-16"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 535 DE ACUICULTURA Y PESCA SUSTENTABLES DEL ESTADO DE GUERRERO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO, EL PRESENTE ORDENAMIENTO SURTIRÁ EFECTOS A LOS 30 DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Ley publicada en el Alcance II del Periódico Oficial del Estado de Guerrero, el martes 16 de diciembre de 2014.
 
@@ -377,7 +375,11 @@ XLIII. Hacer del conocimiento del legislativo local al inicio de cada ejercicio 
 
 XLIV. Imponer las sanciones que correspondan por infracciones cometidas a la presente Ley, su Reglamento y los planes de manejo correspondientes, y resolver los recursos que se interpongan en contra de las mismas;
 
-XLV. Las demás que establezcan la presente Ley y demás ordenamientos aplicables
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XLV. Participar en la formulación e implementación de programas de recolección, manejo adecuado y disposición final de redes de pesca y cualquier otro instrumento y/o estructura con que se realice la captura o extracción de especies de flora y fauna acuáticas, y
+
+XLVI. Las demás que establezcan la presente Ley y demás ordenamientos aplicables
 
 ###### ARTÍCULO 12.
 
@@ -409,7 +411,11 @@ X. Apoyar los procesos autogestivos de los productores y sus organizaciones, par
 
 XI. Establecer programas de difusión para incrementar el consumo de productos acuícolas y pesqueros en los municipios y en el Estado, y
 
-XII. Las demás previstas en la presente Ley y otras disposiciones.
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XII. Promover mecanismos de participación social en el manejo adecuado y disposición final de redes de pesca y cualquier otro instrumento y/o estructura con que se realiza la captura o extracción de especies de flora y fauna acuáticas.
+
+XIII. Las demás previstas en la presente Ley y otras disposiciones.
 
 ###### ARTÍCULO 14.
 
@@ -453,7 +459,9 @@ X. El fortalecimiento de las unidades productivas familiares y grupos de trabajo
 
 XI. El impulso a la integración o compactación de unidades de producción mediante programas de reconversión productiva, de reagrupamiento de zonas económico productivas;
 
-XII. La promoción, mediante la participación y compromiso de las organizaciones sociales y económicas del sector pesquero y acuícola, para lograr un mejor uso y destino de los recursos naturales, atendiendo los criterios de sustentabilidad previstos en la Ley General;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XII. La promoción, mediante la participación y compromiso de las organizaciones sociales y económicas del sector pesquero y acuícola, para lograr un mejor uso y destino de los recursos naturales y de las redes de pesca y/o cualquier otro instrumento de captura o extracción de especies de flora y fauna acuática, atendiendo los criterios de sustentabilidad previstos en la Ley General;
 
 XIII. La participación organizativa de los productores dirigidas a la conservación, protección y restauración de los componentes biológicos, biotecnológicos y ambientales con el objeto de tutelar el equilibrio con el medio ambiente y cuidando en preservar la sanidad, y sustentabilidad de la (sic) las actividades pesqueras y acuícolas en la Entidad.
 
@@ -595,7 +603,9 @@ V. Investigación y desarrollo tecnológico para el manejo y procesamiento de re
 
 VI. Investigación científica y tecnológica orientada a incrementar la capacidad de producción pesquera;
 
-VII. Promover el uso de artes y métodos de pesca tradicionales y selectivos y de menor impacto ambiental, a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones bajo explotación, la conservación y restauración de los ecosistemas, así como la calidad de los productos de la pesca;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+VII. Promover el uso y disposición final de artes y métodos de pesca tradicionales y selectivos y de menor impacto ambiental, a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones bajo explotación, la conservación y restauración de los ecosistemas, así como la calidad de los productos de la pesca;
 
 VIII. Estudios que permitan identificar los cuerpos de agua susceptibles de ser restaurados para la recuperación de los ecosistemas y, por ende, el incremento de la producción;
 
@@ -2145,7 +2155,11 @@ XXVI. Facturar o amparar recursos pesqueros o acuícolas que no hubieren sido ob
 
 XXVII. Capturar, transportar o comerciar especies declaradas en veda o con talla o peso inferiores al mínimo especificado por la Secretaría;
 
-XXVIII. Cualquiera otra contravención a lo dispuesto en la presente Ley, la Ley General de Pesca y Acuacultura Sustentables, su reglamento, los planes de manejo pesquero o acuícola y las Normas Oficiales aplicables.
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXVIII. Abandonar las redes de pesca o cualquier otro instrumento y/o estructura con que se realiza la captura o extracción de especies de flora y fauna acuáticas, en el cuerpo de agua.
+
+XIX. Cualquiera otra contravención a lo dispuesto en la presente Ley, la Ley General de Pesca y Acuacultura Sustentables, su reglamento, los planes de manejo pesquero o acuícola y las Normas Oficiales aplicables.
 
 ### CAPÍTULO II. DE APLICACIÓN DE LAS SANCIONES
 
@@ -2378,3 +2392,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. DAVID CIENFUEGOS SALGADO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 453 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 535 DE ACUICULTURA Y PESCA SUSTENTABLES DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
