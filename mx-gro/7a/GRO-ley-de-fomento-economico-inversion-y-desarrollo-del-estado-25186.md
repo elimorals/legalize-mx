@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-economico-inversion-y-desarrollo-del-estado-2518
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-21"
-last_updated: "2017-04-25"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FOMENTO ECONÓMICO, INVERSIÓN Y DESARROLLO DEL ESTADO DE GUERRERO, NÚMERO 487
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el 21 de junio de 2002.
 
@@ -1117,7 +1117,9 @@ Los premios que se otorguen serán determinados por el Comité Organizador de ac
 
 ## TITULO DECIMO PRIMERO. De la Inspección y Vigilancia
 
-### CAPITULO UNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ABRIL DE 2020)</small>
+
+### CAPITULO I
 
 ###### Artículo 93.
 
@@ -1141,11 +1143,25 @@ III.- De toda visita de verificación se levantará acta circunstanciada, en pre
 
 Del acta circunstanciada se dejará copia a la persona con quien se atendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni el documento de que se trate, siempre y cuando el verificador haga constar la circunstancia por escrito en el acta.
 
-### CAPITULO I. De las Sanciones
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE ABRIL DE 2020)</small>
+
+### CAPITULO II. Del respeto a los Derechos Humanos en las Actividades Empresariales
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+
+###### Artículo 95 Bis.
+
+En el Estado se reconoce a las empresas públicas o privadas como sujetos obligados a respetar los derechos humanos, con responsabilidades en caso de violaciones.
+
+Todas las empresas públicas o privadas que realicen alguna actividad económica dentro del territorio estatal deberán respetar los derechos humanos de los trabajadores que presten sus servicios en las mismas, así como los derechos humanos de quienes reciban un bien o servicio.
+
+En caso de que se acredite la violación de los derechos humanos de los trabajadores o a particulares por parte de una empresa, se le cancelará cualquier estímulo fiscal desde el momento de la acreditación hasta por un término de dos años.
+
+Las empresas públicas y privadas deberán realizar acciones para que en las relaciones laborales y en el proceso de prestación del bien o servicio no se vulneren los derechos humanos, a través de capacitaciones por lo menos una vez al año, a sus empleados y directivos. La Secretaría podrá considerar su cumplimiento para el otorgamiento de estímulos.
 
 ## TITULO DECIMO SEGUNDO. De las Sanciones y del Recurso de Revisión
 
-### CAPITULO II. Del Recurso de Revisión
+### CAPITULO I. De las Sanciones
 
 ###### Artículo 96.
 
@@ -1206,6 +1222,8 @@ Se considerará que el cumplimiento no es espontáneo, cuando la omisión sea de
 ###### Artículo 102.
 
 Las violaciones de los servidores públicos a esta Ley y sus disposiciones reglamentarias, se sancionarán en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Guerrero.
+
+### CAPITULO II. Del Recurso de Revisión
 
 ###### Artículo 103.
 
@@ -1342,3 +1360,17 @@ SEGUNDO.- Comuníquese al Titular del Poder Ejecutivo del Estado para su conocim
 TERCERO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
 
 CUARTO.- Las referencias que se hagan a la Secretaría de Desarrollo Económico en otras leyes y disposiciones, se tendrán aplicables a la Nueva Secretaría de Fomento y Desarrollo Económico del Gobierno del Estado.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 454 POR EL QUE SE ADICIONA UN CAPÍTULO II DENOMINADO DEL RESPETO A LOS DERECHOS HUMANOS EN LAS ACTIVIDADES EMPRESARIALES, SE ADICIONA UN ARTÍCULO 95 BIS Y SE REFORMA EL CAPÍTULO ÚNICO PARA PASAR A SER CAPÍTULO I, AMBOS DEL TÍTULO UNDÉCIMO DENOMINADO DE LA INSPECCIÓN Y VIGILANCIA, DE LA LEY DE FOMENTO ECONÓMICO, INVERSIÓN Y DESARROLLO DEL ESTADO DE GUERRERO NÚMERO 487”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO.- Los hechos suscitados dentro de las empresas antes de la entrada en vigor de la presente norma no perjudicará (sic) por ningún motivo a la empresa.
+
+CUARTO.- La Secretaría de Fomento y Desarrollo Económico tendrá hasta 90 días de la entrada en vigor del presente Decreto para armonizar su reglamento con la norma.
+
+QUINTO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en la página web del Congreso del Estado y divúlguese en los medios de comunicación.
