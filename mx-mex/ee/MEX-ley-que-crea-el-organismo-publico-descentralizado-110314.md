@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-110314"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-22"
-last_updated: "2015-10-22"
+last_updated: "2020-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO, DENOMINADO "REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD" DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 144, PUBLICADO EN LA GACETA DEL GOBIERNO DE 14 DE ABRIL DE 2020, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO, DENOMINADO "RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020 (ABROGADO).
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 22 de octubre de 2015.
 
@@ -258,3 +260,27 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 144.- POR EL QUE SE ABROGA EL DECRETO NÚMERO 12 DE LA “LIX” LEGISLATURA PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” EL 22 DE OCTUBRE DE 2015, POR EL QUE SE EXPIDE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. A la entrada en vigor del presente Decreto se extinguirá el Organismo Público Descentralizado denominado "Régimen Estatal de Protección Social en Salud", para el cumplimiento de lo anterior, la Secretaria de Salud de conformidad con lo establecido en las disposiciones jurídicas aplicables, nombrará a un representante legal, quien tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas, así como para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial, en términos de las disposiciones jurídicas aplicables.
+
+El Organismo Público Descentralizado denominado "Régimen Estatal de Protección Social en Salud", conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+CUARTO. Los recursos materiales, financieros y las previsiones presupuestales del Organismo Público Descentralizado denominado "Régimen Estatal de Protección Social en Salud", serán transferidos al Instituto de Salud del Estado de México.
+
+Las personas servidoras públicas que prestan sus servicios como "Gestores Médicos" en el Organismo Público Descentralizado denominado "Régimen Estatal de Protección Social en Salud", serán transferidos al Instituto de Salud del Estado de México.
+
+En todo caso, se respetarán los derechos laborales de los trabajadores adscritos al Organismo Público Descentralizado denominado "Régimen Estatal de Protección Social en Salud", de conformidad con las disposiciones jurídicas aplicables.
+
+QUINTO. Las secretarías de Finanzas, de Salud y de la Contraloría, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del mismo en términos de las disposiciones jurídicas aplicables.
+
+SEXTO. Los actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Organismo Público Descentralizado denominado "Régimen Estatal de Protección Social en Salud", serán atendidos hasta su conclusión por el Instituto de Salud del Estado de México.
