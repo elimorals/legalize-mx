@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2019-10-16"
+last_updated: "2020-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -619,7 +619,11 @@ XXIII.- Elaborar y presentar anualmente para su aprobación al Presidente del Co
 
 XXIV.- Verificar la implementación del Protocolo de Seguridad Código Adam en todos los edificios públicos o privados que sean frecuentados por menores de edad dentro del Estado de Tamaulipas; y
 
-XXV.- Las demás que le confiera el Ejecutivo del Estado, el Secretario General de Gobierno, la presente ley, y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo de Protección Civil del Estado de Tamaulipas.
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXV.- Elaborar el Protocolo de actuación para la atención de niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores; y
+
+XXVI.- Las demás que le confiera el Ejecutivo del Estado, el Secretario General de Gobierno, la presente ley, y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo de Protección Civil del Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -1744,3 +1748,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 El funcionamiento de los albergues a que se refiere el presente Decreto, se considerará dentro de la previsión presupuestal que atañe a los gobiernos estatal y municipal en el rubro de protección civil, con base en el artículo 8 de la Ley de Protección Civil para el Estado de Tamaulipas.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-78 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXV, RECORRIENDO EL ORDEN NATURAL DE LA SUBSECUENTE, AL ARTÍCULO 26, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
