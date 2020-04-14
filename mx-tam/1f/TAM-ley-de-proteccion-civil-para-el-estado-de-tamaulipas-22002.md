@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2019-10-16"
+last_updated: "2020-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,479 +21,691 @@ state: "TAM"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN DE LA LACTANCIA MATERNA DEL ESTADO DE NUEVO LEÓN
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 20 de enero de 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
-JAIME HELIODORO RODRÍGUEZ CALDERÓN, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER: Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
-DECRETO
+TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-NÚM…… 031
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-Artículo Único.- Se expide la Ley para la Protección, Apoyo y Promoción de la Lactancia Materna del Estado de Nuevo León, para quedar como sigue:
+Al margen un sello que dice: "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-Ley para la Protección, Apoyo y Promoción de la Lactancia Materna del Estado de Nuevo León
+LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+
+DE C R E T O No. 427
+
+LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
 ## TITULO PRIMERO. DEL SISTEMA DE PROTECCION CIVIL DEL ESTADO DE TAMAULIPAS
 
-### Capítulo I. Disposiciones Generales
+### CAPITULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1.
+###### ARTICULO 1°.
 
-Esta Ley es de orden público, interés social, de aplicación obligatoria y observancia general en el Estado de Nuevo León. Su objeto es proteger, apoyar y promover la lactancia materna, así como prácticas adecuadas de alimentación para los lactantes, con el propósito de crear las condiciones que garanticen su salud y su óptimo desarrollo y crecimiento, en base al interés superior de la niñez.
+La presente ley es de orden público e interés social, y tiene por objeto regular las acciones que en materia de protección civil se lleven a cabo en el Estado de Tamaulipas, siendo su observancia de carácter obligatorio para las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y, en general, para todas las personas que por cualquier motivo residan, habiten o transiten en la Entidad.
 
-###### Artículo 2.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-La presente Ley se aplicará a las personas en los ámbitos relacionados con la lactancia materna y la alimentación óptima de los lactantes.
+Cuando en la presente ley se haga referencia a las palabras "Ley o Reglamento", se referirá a la Ley de Protección Civil para el Estado de Tamaulipas o a su propio Reglamento, según corresponda.
 
-###### Artículo 3.
+###### ARTICULO 2°.
 
-La protección, apoyo y promoción de la lactancia materna es responsabilidad de madres, padres, tutores o quienes ejerzan la patria potestad. El Estado debe garantizar el cumplimiento del objeto de la presente Ley en coordinación con los sectores público y privado.
+Para los efectos de esta Ley se entiende por:
 
-###### Artículo 4.
+I.- Agentes Destructivos.- A los fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico, y socio-organizativo que pueden producir riesgo, alto riesgo, emergencia o desastre;
 
-Para efectos de la presente Ley, se entenderá por:
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-I. Alimento complementario: al alimento adicional a la leche materna o a la fórmula infantil;
+II.- Albergue.- Instalación temporal, estatal o municipal, o particular destinada a dar techo, cama y alimentos dignos, a los damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
 
-II. Ayuda alimentaria directa: a la provisión de alimento complementario para los lactantes que no satisfacen sus necesidades alimentarias en cantidad y calidad, bajo prescripción médica;
+III.- Alto Riesgo.- Al inminente o muy probable ocurrencia de una emergencia o desastre;
 
-III. Banco de leche: al establecimiento para recolectar, almacenar, conservar y suministrar la leche materna extraída o donada;
+IV.- Apoyo.- Al conjunto de actividades administrativas destinadas a la prevención, el auxilio y la recuperación de la población ante situaciones de emergencia o desastre;
 
-IV. Código de Sucedáneos: al Código Internacional de Comercialización de Sucedáneos de la Leche Materna, expedido por la Organización Mundial de la Salud y el Fondo de las Naciones Unidas para la Infancia;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-V. Comercialización: a cualquier forma de presentar o vender un producto designado, incluyendo actividades de promoción, distribución, publicidad y de servicios de información;
+V.- Auxilio.- Las acciones destinadas primordialmente a salvaguardar la integridad física, salud y bienes de las personas; la planta productiva; y a preservar los servicios públicos y el medio ambiente, ante la presencia de desastres. Estas acciones son de: alertamiento; evaluación de daños; planes de emergencia; seguridad; búsqueda, salvamento y asistencia; servicios estratégicos, equipamiento y bienes; salud; aprovisionamiento; comunicación social de emergencia; reconstrucción inicial y vuelta a la normalidad;
 
-VI. Comercialización de Sucedáneos de la leche materna: a las actividades que induzcan directa o indirectamente a sustituir la leche materna;
+VI.- Damnificado.- A la persona que sufre en su integridad física o en sus bienes daños de consideración, provocados directamente por los efectos de un desastre; también se considerarán damnificados a sus dependientes económicos. Es aplicable este concepto, a la persona que por la misma causa haya perdido su ocupación o empleo, requiriendo consecuentemente del apoyo gubernamental para sobrevivir en condiciones dignas;
 
-VII. Instituciones privadas: a las instituciones que dependen y reciben aportaciones de personas que por sus propios medios desarrollan actividades para beneficiar a la población;
+VII.- Desastre.- Al evento determinado en tiempo y espacio en el cual, la sociedad o una parte de ella, sufre daños severos tales como: pérdida de vidas humanas, lesiones a la integridad física de las personas, daño a la salud, afectación de la planta productiva, daños materiales, daños al medio ambiente, imposibilidad para la prestación de servicios públicos; de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad. También se les considera calamidades públicas;
 
-VIII. Instituciones públicas: a las instituciones que dependen y reciben aportaciones por parte del Estado;
+VIII.- Emergencia.- La situación derivada de fenómenos naturales, actividades humanas o desarrollo tecnológico que pueden afectar la vida y bienes de la población, la planta productiva, los servicios públicos y el medio ambiente, cuya atención debe ser inmediata;
 
-IX. Sociedad Civil: organizaciones no gubernamentales y sin fines de lucro que están presentes en la vida pública, expresan los intereses y valores de sus miembros y de otros, según consideraciones éticas, culturales, políticas, científicas, religiosas o filantrópicas; entre los que se encuentran: grupos comunitarios, organizaciones no gubernamentales, sindicatos, grupos indígenas, instituciones de caridad, organizaciones religiosas, asociaciones profesionales y fundaciones;
+IX.- Establecimientos.- A las escuelas, oficinas, empresas, fábricas, industrias, o comercios, así como a cualquier otro local público o privado y, en general, a cualquier instalación, construcción, servicio u obra, en los que debido a su propia naturaleza, al uso a que se destine, o a la concurrencia masiva de personas, pueda existir riesgo. Para los efectos de esta ley, existen establecimientos de competencia Estatal, y de competencia Municipal;
 
-X. Lactancia materna: a la alimentación con leche del seno materno;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-XI. Lactancia materna exclusiva: a la alimentación que recibe el lactante exclusivamente de leche materna, ya sea directamente del pecho de la madre o extraída del mismo; y no recibe ningún tipo de líquidos o sólidos, ni siquiera agua, con la excepción de solución de rehidratación oral, gotas o jarabes de suplementos de vitaminas o minerales o medicamentos;
+X.- Fenómeno geológico.- Calamidad que tiene como causa las acciones y movimientos violentos de la corteza terrestre. A esta categoría pertenecen los sismos o terremotos, las erupciones volcánicas, los tsunamis o maremotos y la inestabilidad de suelos, también conocido como movimientos de tierra, los que pueden adoptar diferentes formas: arrastre lento o reptación, deslizamiento, flujo o corriente, avalancha o alud, derrumbe y hundimiento;
 
-XII. Lactante: a la niña o niño recién nacido (a) hasta los dos años de edad;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-XIII. Lactario o Sala de Lactancia: al espacio con el ambiente y las condiciones idóneas, en donde las madres pueden amamantar, extraer y conservar la leche para su posterior utilización;
+XI.- Fenómeno hidrometeorológico.- Calamidad que se genera por la acción violenta de los agentes atmosféricos, tales como: huracanes, inundaciones pluviales, fluviales, costeras y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías y las ondas cálidas y gélidas;
 
-XIV. Producto designado: a la fórmula infantil, fórmula de seguimiento, leches denominadas de crecimiento, cualquier alimento complementario u otro alimento o bebida comercializada, suministrada, presentada o usada para alimentar a los lactantes, incluyendo los agregados nutricionales, los biberones, chupones y todo material relacionado a la preparación e higiene de biberones;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-XV. Secretaría: a la Secretaría de Salud del Estado de Nuevo León; y
+XII.- Fenómeno químico-tecnológico.- Calamidad que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas y radiaciones;
 
-XVI. Sucedáneo de la leche materna: al alimento comercializado como sustituto parcial o total de la leche materna.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-###### Artículo 5.
+XIII.- Fenómeno sanitario-ecológico.- Calamidad que se genera por la acción patógena de agentes biológicos que atacan a la población, a los animales y a las cosechas, causando su muerte o la alteración de salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
 
-Corresponde a la Secretaría vigilar el cumplimiento de las disposiciones de la presente Ley, para lo cual deberá coordinarse con las dependencias del Ejecutivo del Estado y demás instancias de los sectores público y privado que se requieran.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-###### Artículo 6.
+XIV.- Fenómeno socio-organizativo.- Calamidad generada por motivo de errores o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población;
 
-Para la aplicación de la presente Ley, la Secretaría tendrá las siguientes atribuciones:
+XV.- Grupos Voluntarios.- A las organizaciones y asociaciones legalmente constituidos y que cuentan con el reconocimiento oficial, cuyo objeto social sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que para tal efecto cuentan con los conocimientos, preparación y equipos necesarios e idóneos;
 
-I. Conducir la política estatal en materia de lactancia materna;
+XVI.- Prevención.- A las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos, así como para evitar desastres y mitigar su impacto destructivo sobre la vida, la salud, bienes de las personas, la planta productiva, los servicios públicos y el medio ambiente;
 
-II. Elaborar el Programa Estatal de Lactancia Materna, en cumplimiento a las leyes y disposiciones aplicables;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-III. Coordinar la concurrencia de los sectores público, privado y de la sociedad civil en la ejecución de las políticas de lactancia materna;
+XVII.- Protección Civil.- Al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación, y apoyo, tendientes a proteger la integridad física, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten, o transiten en la Entidad;
 
-IV. Proponer, implementar y, en su caso, supervisar la infraestructura necesaria en los establecimientos de salud y centros de trabajo destinados a la atención materna infantil;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-V. Impulsar el cumplimiento de la certificación de la Iniciativa “Hospital Amigo del Niño”;
+XVIII.- Recuperación.- Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado (población y entorno), así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos;
 
-VI. Promover y coordinar la realización de campañas de difusión para dar cumplimiento al objeto de la presente Ley;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-VII. Celebrar acuerdos y convenios de coordinación y colaboración con los sectores público y privado, en materia de lactancia materna;
+XIX.- Riesgo.- La probabilidad de peligro o contingencia de que se produzca un desastre;
 
-VIII. Fomentar el cumplimiento de la presente Ley en la operación de clínicas, hospitales y consultorios de los sectores público y privado, con el fin de verificar que operen en los términos de la presente Ley;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-IX. Formular las disposiciones reglamentarias de la presente Ley y someterlas a consideración del Titular del Ejecutivo para los efectos conducentes;
+XX.- Zona de desastre.- Espacio territorial determinado en el tiempo para la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad; y
 
-X. Expedir la reglamentación en materia de lactancia materna;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-XI. Llevar a cabo, en coordinación con la Secretaría de Educación, la capacitación permanente y obligatoria relativa a la lactancia materna en las instituciones educativas (públicas y privadas) de formación de profesionales de la salud;
+XXI.- Zona de salvaguarda.- Espacio territorial comprendido entre el área en la cual se realizan las actividades altamente riesgosas o riesgosas, con objeto de amortiguar las eventuales consecuencias para la población de la presencia de una contingencia o emergencia derivada de dichas actividades.
 
-XII. Promover, en coordinación con la Secretaría de Educación, la incorporación de contenidos relativos a la lactancia materna en los planes y programas de educación básica; y
+###### ARTICULO 3°.
 
-XIII. Conocer de las infracciones e imponer las sanciones correspondientes de conformidad con lo establecido en la presente Ley.
+Para los efectos de esta ley, se considera de orden público e interés social:
 
-###### Artículo 7.
+I.- El establecimiento y consecución de la protección civil en el Estado de Tamaulipas;
 
-En situaciones de emergencia ambiental o desastres naturales debe asegurarse la lactancia materna como medio idóneo para garantizar la vida, salud y desarrollo integral de los lactantes. Se podrán distribuir sucedáneos cuando la lactancia materna sea imposible y sea médicamente prescrito, para lo cual será necesaria la supervisión de la Secretaría.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 8.
+II.- La elaboración, aplicación, evaluación y difusión del Programa Estatal y Municipal de Protección Civil, según corresponda;
 
-La lactancia materna es un derecho fundamental, universal, imprescriptible e inalienable de las niñas, niños y mujeres. Constituye un proceso en el cual, el Estado y los sectores público, privado y de la sociedad civil tienen la obligación de proveer su protección, apoyo y promoción, a efecto de garantizar la alimentación adecuada, el crecimiento y el desarrollo integral de los lactantes y su salud y la de sus propias madres.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-### Capítulo II. De los derechos y obligaciones inherentes a la lactancia materna
+III.- Las acciones de capacitación, prevención, auxilio, recuperación, y apoyo que para el cumplimiento de la presente ley se realicen; y
 
-#### Sección I. Derechos
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 9.
+IV.- La instalación de albergues temporales, por autoridades estatales, municipales, o privados, para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
 
-Son derechos de las madres, los siguientes:
+###### ARTICULO 4°.
 
-I. Decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche.
+Para los efectos de esta ley, se consideran autoridades de protección civil en el Estado, a:
 
-Para gozar de los reposos y/o descansos extraordinarios, posterior a la licencia por maternidad, la trabajadora debe acreditar la práctica de la lactancia materna efectiva, mediante certificado expedido por médico Ginecólogo o Pediatra y copia del acta de nacimiento del menor, que presentará a su centro de trabajo cada mes;
+I.- El Gobernador del Estado;
 
-II. Ejercer la lactancia plenamente en cualquier lugar, incluido su centro de trabajo ya sea público o privado, en las mejores condiciones;
+II.- El Secretario General de Gobierno;
 
-III. Acceder de manera gratuita a los bancos de leche, en caso de que la madre lo requiera; y
+III.- Los Presidentes Municipales;
 
-IV. Recibir educación e información oportuna, veraz y comprensible sobre los beneficios de la lactancia materna, las técnicas adecuadas para el amamantamiento y las posibles dificultades con sus respectivos medios de solución.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-###### Artículo 10.
+IV.- El Coordinador Estatal de Protección Civil; y
 
-Los derechos se ejercerán a través de las medidas de protección, apoyo y promoción previstas en la presente Ley.
+V.- Los Titulares de las Unidades Administrativas de Protección Civil de los Municipios.
 
-#### Sección II. Obligaciones
+###### ARTICULO 5°.
 
-###### Artículo 11.
+Corresponde al Ejecutivo del Estado y a los Presidentes Municipales dentro de sus respectivas competencias:
 
-Son obligaciones de las instituciones públicas y privadas prestadoras de servicios de salud destinados a la atención materno infantil, las siguientes:
+I.- La aplicación de la presente ley y de los ordenamientos que de ella se deriven, en el ámbito de sus respectivas competencias;
 
-I. Concientizar y sensibilizar al personal de salud sobre la importancia de promover la lactancia materna desde la etapa prenatal;
+II.- La elaboración, aplicación, evaluación y difusión del Programa Estatal o Municipal de Protección Civil, en el ámbito de sus respectivas competencias;
 
-II. Capacitar al personal de salud sobre cómo orientar a las madres en cuanto a la técnica correcta de lactancia materna, para que continúen con el proceso hasta que el lactante cumpla dos años;
+III.- Promover la participación de la sociedad en la protección civil;
 
-III. Establecer la técnica que propicie el contacto piel a piel de la madre con su hija o hijo, proveyendo solo el alojamiento conjunto, salvo que por cuestiones graves de salud sea imposible;
+IV.- Crear los Fondos de Desastres Estatal o Municipal según sea el caso, para la atención de emergencias originadas por riesgos, altos riesgos, emergencias o desastres. La aplicación de estos Fondos, se hará conforme a las disposiciones presupuestales y legales aplicables;
 
-IV. Obtener la certificación de la Iniciativa "Hospital Amigo del Niño" y promoverla con el personal durante el periodo de evaluación;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-V. Cumplir con las disposiciones jurídicas aplicables a la comercialización de sucedáneos de la leche materna;
+V.- Incluir acciones y programas sobre la materia, en los Planes de Desarrollo Estatal y Municipal, según corresponda;
 
-VI. Evitar el uso de sucedáneos de la leche materna con base en el Código de Sucedáneos y demás disposiciones jurídicas aplicables;
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-VII. Fomentar y vigilar que la lactancia materna y la alimentación complementaria sean nutricionalmente adecuadas, considerando los estándares establecidos;
+VI.- Instalar albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas; y
 
-VIII. Proveer ayuda alimentaria directa enfocada a mejorar el estado nutricional del grupo materno infantil, cuando existan condiciones que impidan la lactancia materna, siempre y cuando haya indicación médica;
+VII.- Celebrar convenios de colaboración y coordinación en materia de esta ley.
 
-IX. Establecer bancos de leche, lactarios o salas de lactancia en las instituciones y establecimientos de salud;
+###### ARTICULO 6°.
 
-X. Promover la donación de leche materna para abastecer los bancos de leche;
+Las autoridades estatales y municipales, promoverán la creación de órganos especializados de emergencia, según sea la mayor presencia de riesgos ocasionados en una determinada zona por cualquiera de los cinco tipos de agentes destructivos.
 
-XI. Fomentar y vigilar que el personal cumpla con las disposiciones de la presente Ley;
+###### ARTICULO 7°.
 
-XII. Incluir en los materiales informativos y educativos relacionados a la alimentación de los lactantes con leche materna, los siguientes aspectos:
+Es obligación de todas las Dependencias y Entidades de la Administración Pública del Estado y de los Municipios, así como de cualquier persona que resida o transite en la Entidad, el cooperar de manera coordinada con las autoridades competentes, en la consecución de la protección civil. Las autoridades que no proporcionen la cooperación y las facilidades a las unidades y personal de protección civil, incurrirán en las responsabilidades que fije la ley en la materia.
 
-a) Ventajas e importancia de la lactancia materna;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-b) Información sobre la alimentación adecuada del grupo materno infantil;
+###### ARTICULO 8°.
 
-c) Importancia de la lactancia materna exclusiva durante los primeros seis meses de vida;
+El Gobierno del Estado y el de los Municipios contemplarán dentro de sus respectivos, Presupuestos de Egresos, las partidas necesarias para el cumplimiento de las funciones y acciones que se establecen en la presente ley. Dichas Partidas no podrán ser reducidas o transferidas a otras acciones de Gobierno.
 
-d) La importancia de introducir alimentos complementarios alrededor del sexto mes, así como recomendaciones nutricionales sobre dichos alimentos;
+### CAPITULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL
 
-e) Información sobre las prácticas de higiene más adecuadas; y
+###### ARTICULO 9°.
 
-f) Recomendaciones para revertir la decisión de no amamantar y los riesgos sobre el uso del biberón.
+Se crea el Sistema Estatal de Protección Civil, como parte integrante del Sistema Nacional, el cual comprenderá las instancias, lineamientos y objetivos establecidos en la Entidad, para la materialización de la protección civil.
 
-XIII. Incluir en los materiales informativos y educativos relacionados a la alimentación de los lactantes con fórmula infantil, fórmulas de seguimiento o cualquier otro alimento o bebida suministrada con cuchara o taza, además de los previstos en la fracción anterior, los siguientes:
+###### ARTICULO 10.
 
-a) Instrucciones para la preparación y uso correcto del producto, incluidas la limpieza y esterilización de los utensilios;
+El Sistema Estatal de Protección Civil tendrá como objetivo fundamental ser el instrumento de información, en materia de protección civil, que reúna en conjunto los principios, normas, políticas, procedimientos y acciones, que en esa materia se hayan vertido, así como la información relativa a la estructura orgánica de los cuerpos de protección civil de los sectores público, privado o social, que operen en la Entidad, su rango de operación, personal, equipo y capacidad de auxilio que permita prevenir riesgos, y altos riesgos, así como desarrollar mecanismos de respuesta a desastres o emergencias, y planificar la logística operativa y de respuesta a ellos.
 
-b) Indicaciones para alimentar a los lactantes con vaso o taza;
+Reglamentariamente se establecerán las bases de operación del Sistema Estatal de Protección Civil.
 
-c) Riesgos que representa para la salud la alimentación con biberón y la preparación incorrecta del producto; y
+###### ARTICULO 11.
 
-d) Costo aproximado de alimentar al lactante exclusivamente con sucedáneos de la leche materna.
+El Sistema Estatal de Protección Civil se integrará enunciativamente con la información de:
 
-XIV. Evitar que los materiales informativos y educativos, relacionados con la alimentación de los lactantes contengan lo siguiente:
+I.- El Consejo Estatal de Protección Civil;
 
-a) Información que inhiba directa o indirectamente la práctica de la lactancia materna;
+II.- El Centro Estatal de Operaciones;
 
-b) Den la impresión de que un producto determinado es equivalente o superior a la leche materna; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-c) Imágenes o textos que estimulen el uso del biberón o desestimulen la lactancia materna.
+III.- La Coordinación Estatal de Protección Civil;
 
-XV. Las demás previstas en el Código de Sucedáneos y en las demás disposiciones jurídicas aplicables.
+IV.- Los Sistemas Municipales de Protección Civil;
 
-###### Artículo 12.
+V.- Las Dependencias o Unidades Administrativas Municipales, cuyo objeto sea la protección civil;
 
-Son obligaciones de las instituciones públicas y privadas distintas al sector salud, las siguientes:
+VI.- Los Grupos Voluntarios;
 
-I. Vigilar el ejercicio efectivo de los derechos de las madres lactantes y los lactantes;
+VII.- Las Unidades de Respuesta en los Establecimientos; y
 
-II. Establecer lactarios o salas de lactancia en los centros de trabajo;
+VIII.- En general, la información relativa a las Unidades de Protección Civil, cualesquiera que sea su denominación, de los sectores público, social y privado, que operen en el Estado de Tamaulipas.
 
-III. Propiciar el establecimiento de centros de desarrollo infantil en los centros de trabajo o a sus alrededores;
+###### ARTICULO 12.
 
-IV. Favorecer en caso de que se requiera, el establecimiento de transporte o apoyos que faciliten el traslado de las trabajadoras, cuando el periodo de lactancia se ejerza dentro de la jornada laboral; y
+Debe integrarse además al Sistema Estatal de Protección Civil, la información aportada por las Delegaciones, Representaciones y Dependencias de la Administración Pública Federal que desarrollen actividades en el Estado, tendientes a la ejecución de programas de prevención, auxilio y apoyo de la población o que atiendan asuntos relacionados con el ramo.
 
-V. Las demás previstas en otras disposiciones jurídicas y las que determine la Secretaría.
+### CAPITULO III. DEL CONSEJO DE PROTECCION CIVIL DEL ESTADO DE TAMULIPAS (SIC)
 
-### Capítulo III. Establecimientos de protección, apoyo y promoción de la lactancia materna
+###### ARTICULO 13.
 
-###### Artículo 13.
+El Consejo de Protección Civil del Estado de Tamaulipas es la institución de coordinación, planeación y supervisión del Sistema Estatal de Protección Civil, así como de colaboración y participación, que tiene como fin proteger la vida, la salud y el patrimonio de las personas; la planta productiva, la prestación de servicios públicos y el medio ambiente; ante los riesgos, altos riesgos, emergencias o desastres producidos por causas de origen natural o humano.
 
-Son establecimientos de protección, apoyo y promoción de la lactancia materna los siguientes:
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
-I. Lactarios o salas de lactancia; y
+El Consejo de Protección Civil del Estado ejercerá todas las acciones necesarias para garantizar la salud y seguridad de los habitantes del Estado ante la amenaza de cualquier peligro inminente, sin importar su tipo u origen.
 
-II. Bancos de leche.
+###### ARTICULO 14.
 
-###### Artículo 14.
+El Consejo de Protección Civil del Estado de Tamaulipas, se integra por:
 
-Los lactarios o salas de lactancia son los espacios privados, dignos, higiénicos y cálidos en los cuales las madres pueden amamantar, extraer su leche y/o conservarla, en términos de la normatividad que al efecto se expida.
+I.- Un Presidente, que será el Gobernador del Estado;
 
-###### Artículo 15.
+II.- Un Secretario Ejecutivo, que será el Secretario General de Gobierno;
 
-Los requisitos mínimos necesarios para el establecimiento de lactarios o salas de lactancia son los siguientes:
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-I. Refrigerador;
+III.- Un Secretario Técnico, que será el Coordinador Estatal de Protección Civil del Estado;
 
-II. Mesa;
+IV.- Un Diputado, representante del Congreso del Estado, quien asistirá con carácter de vocal;
 
-III. Sillón;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-IV. Lavabos; y
+V.- El Secretario de Bienestar Social del Estado, quien asistirá con carácter de vocal;
 
-V. Bombas extractoras de leche.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-###### Artículo 16.
+VI.- El Secretario de Educación, del Estado, quien asistirá con carácter de vocal;
 
-Los bancos de leche materna son centros donde se recolecta y se conserva la leche de madres donantes y posteriormente se ofrece a lactantes que la requieren pero no pueden obtenerla de sus propias madres.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
 
-###### Artículo 17.
+VII.- El Secretario de Desarrollo Urbano y Medio Ambiente;
 
-La alimentación de los lactantes será preferentemente a través de bancos de leche y en caso de que este no pueda suministrar la leche materna extraída o donada, la alimentación será a través de sucedáneos, únicamente en los siguientes casos:
+VIII.- Un representante por cada uno de los Sistemas Municipales de Protección Civil, quienes tendrán el carácter de vocales; y
 
-I. Cuando por enfermedad sea médicamente prescrito;
+IX.- Los representantes de los grupos voluntarios que operen en el Estado, quienes tendrán carácter de vocales.
 
-II. Por muerte de la madre;
+Con excepción del Secretario Técnico, cada Consejero propietario nombrará a un suplente.
 
-III. Abandono del lactante; y
+A convocatoria del Consejo, se invitará a participar a los representantes de las organizaciones del sector social y privado, y de las instituciones de educación superior del Estado, interviniendo en las sesiones con voz pero sin voto.
 
-IV. Las demás que resulten procedentes, atendiendo el interés superior del menor.
+Los cargos de Consejeros serán honoríficos.
 
-###### Artículo 18.
+###### ARTICULO 15.
 
-Los servicios que prestan los bancos de leche serán gratuitos y tendrán acceso a dichos servicios la madre, el padre, el tutor o quienes ejerzan la patria potestad.
+El Consejo de Protección Civil del Estado de Tamaulipas tendrá las siguientes atribuciones:
 
-###### Artículo 19.
+I.- Conducir y operar el Sistema Estatal de Protección Civil;
 
-La certificación de la Iniciativa “Hospital Amigo del Niño” es un instrumento, resultado de procesos de evaluación, que determina que las instituciones públicas y privadas prestadoras de servicios de salud enfocados a la atención materno infantil cumplan con los “Diez Pasos para una Lactancia Exitosa” propuestos por la Organización Mundial de la Salud y el Fondo de las Naciones Unidas para la Infancia, dicha certificación será emitida por la Secretaría de Salud Federal.
+II.- Fungir como órgano de consulta y de coordinación de acciones del Gobierno del Estado para integrar, concertar e inducir las actividades de los diversos participantes e interesados en la protección civil, con la finalidad de garantizar el objetivo fundamental del Sistema Estatal de Protección Civil;
 
-###### Artículo 20.
+III.- Convocar, coordinar y armonizar, con pleno respeto a su autonomía, la participación de los Municipios y la de los diversos grupos sociales del Estado en la definición y ejecución de las acciones que se convenga realizar en la materia;
 
-Los “Diez Pasos para una Lactancia Exitosa” que deben cumplir las instituciones públicas y privadas prestadoras de servicios de salud enfocados a la atención materno infantil para obtener la certificación de la Iniciativa “Hospital Amigo del Niño”, son los siguientes:
+IV.- Fomentar la participación comprometida y responsable de todos los sectores de la sociedad en la formulación y ejecución del Programa Estatal de Protección Civil y de los programas especiales destinados a satisfacer las necesidades de protección civil del Estado;
 
-I. Contar con una política, por escrito, sobre lactancia que informe a todo el personal de la institución de salud;
+V.- Vigilar el adecuado uso y aplicación de los recursos que se asignen a la prevención, apoyo, auxilio y recuperación a la población ante un desastre;
 
-II. Capacitar al personal de salud, empleando una metodología vivencial y participativa;
+VI.- Fomentar la creación de los Sistemas Municipales de Protección Civil;
 
-III. Informar a las mujeres embarazadas sobre los beneficios y el manejo de la lactancia;
+VII.- Constituir las Comisiones o Comités que estime necesarios para la realización de su objetivo, delegando las facultades o atribuciones correspondientes, sin perjuicio de su ejercicio directo;
 
-IV. Ayudar a las madres a iniciar la lactancia dentro de la media hora siguiente al parto;
+VIII.- Promover el estudio, la investigación y la capacitación en materia de protección civil;
 
-V. Explicar a las madres cómo amamantar y mantener la lactancia, aún en caso de separación de sus bebés;
+IX.- Aprobar los programas para la generación de una cultura de protección civil, gestionando ante las autoridades correspondientes su incorporación en el Sistema Educativo Estatal;
 
-VI. Evitar dar al recién nacido alimento o líquido diferente a la leche materna, salvo que sea médicamente indicado;
+X.- Elaborar, publicar y distribuir material informativo de protección civil, a efecto de difundirlo con fines de prevención y orientación;
 
-VII. Practicar el alojamiento conjunto de madres y recién nacidos las veinticuatro horas del día;
+XI.- Convocar y coordinar, con pleno respeto a sus respectivas atribuciones, la participación de las Dependencias Federales establecidas en la Entidad;
 
-VIII. Fomentar la lactancia a demanda;
+XII.- Recibir, estudiar y, en su caso, aprobar, el informe anual de los trabajos del Consejo; y
 
-IX. Evitar el uso de biberones y chupones; y
+XIII.- Las demás atribuciones afines a estas, que le sean encomendadas por el Gobernador del Estado, o que establezcan las leyes y sus reglamentos.
 
-X. Formar grupos de apoyo a la lactancia materna y referir a las madres a estos grupos cuando sean egresadas del hospital o clínica.
+###### ARTICULO 16.
 
-###### Artículo 21.
+El Consejo de Protección Civil del Estado de Tamaulipas celebrará, en los términos de su reglamento interior, por lo menos dos sesiones ordinarias al año y las sesiones extraordinarias que se requieran, a convocatoria de su Presidente.
 
-La Secretaría a través del área que designe para tal fin, será la encargada de las siguientes atribuciones:
+Para que las sesiones sean válidas, se requiere la asistencia de cuando menos la mitad más uno de los integrantes del Consejo.
 
-I. Proteger, apoyar y promover la práctica de la lactancia materna;
+###### ARTICULO 17.
 
-II. Concentrar, actualizar y difundir la información relacionada con la lactancia materna, para fortalecer la cultura del amamantamiento, así como las acciones que se desarrollan al respecto;
+Para la aprobación de los asuntos planteados al Consejo, se requiere el voto de la mitad más uno de los asistentes a la sesión.
 
-III. Formular, coordinar, dar seguimiento y evaluar las actividades relacionadas a la protección, apoyo y promoción de la lactancia materna;
+Una vez realizada la votación, y aprobado el asunto planteado, se emitirá la resolución o el acuerdo respectivo.
 
-IV. Propiciar adecuaciones normativas para el cumplimiento de la presente Ley;
+###### ARTICULO 18.
 
-V. Gestionar la celebración de convenios de coordinación y participación con los sectores público y privado, respectivamente, con relación a los programas y proyectos que coadyuven al cumplimiento del objeto de esta Ley;
+Las convocatorias para las sesiones contendrán referencia expresa de la fecha y lugar en que se celebrarán, naturaleza de la sesión y el orden del día que contendrá, por lo menos, los siguientes puntos:
 
-VI. Promover la creación de coordinaciones municipales de lactancia materna y monitorear las prácticas adecuadas;
+I.- Verificación del quórum para declarar la apertura de la sesión;
 
-VII. Orientar a las autoridades municipales en la elaboración de estrategias de protección y promoción de la lactancia materna;
+II.- Lectura y, en su caso, aprobación del acta de la sesión anterior; y
 
-VIII. Formular programas de lactancia materna, proveyendo la integralidad de acciones;
+III.- Los asuntos determinados a tratar.
 
-IX. Realizar campañas de protección, promoción y apoyo de la lactancia materna por cualquier medio;
+De cada sesión se levantará acta que contenga las resoluciones y acuerdos tomados.
 
-X. Recibir, analizar y emitir opinión respecto de los comentarios, estudios y propuestas en la materia; y
+###### ARTICULO 19.
 
-XI. Las demás que establezcan otras disposiciones jurídicas aplicables.
+Corresponde al Presidente del Consejo;
 
-### Capítulo IV. Certificación de la Iniciativa “Hospital Amigo del Niño”
+I.- Presidir las sesiones del Consejo;
 
-###### Artículo 22.
+II.- Ordenar se convoque a sesiones ordinarias y extraordinarias;
 
-El incumplimiento a las disposiciones de la presente Ley será sancionado en sus respectivos ámbitos de competencia por:
+III.- Proponer el orden del día a que se sujetará la sesión;
 
-I. La Secretaría;
+IV.- Vigilar el cumplimiento de los acuerdos;
 
-II. La Secretaría del Trabajo; y
+V.- Contar con voto de calidad en caso de empate, en las sesiones;
 
-III. La Unidad de Control Interno de las dependencias del Estado o municipales y organismos auxiliares.
+VI.- Aprobar y evaluar el Programa Estatal de Protección Civil, procurando además su más amplia difusión en el Estado;
 
-###### Artículo 23.
+VII.- Expedir el reglamento de operación del Sistema Estatal de Protección Civil;
 
-Son sanciones administrativas:
+VIII.- Vincular, coordinar y, en su caso, solicitar apoyo al Sistema Nacional de Protección Civil, para garantizar mediante una adecuada planeación, la seguridad, auxilio y rehabilitación de la población civil y su entorno ante algún riesgo, alto riesgo, emergencia o desastre;
 
-I. Amonestación;
+IX.- Coordinar acciones con las dependencias federales y con las instituciones privadas y del sector social, en la aplicación y distribución de la ayuda nacional e internacional que se reciba en caso de alto riesgo, emergencia o desastre;
 
-II. Multa;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-III. Destitución;
+X.- Evaluar, ante una situación de emergencia o desastre, la capacidad de respuesta del Estado y, en su caso, la pertinencia de solicitar apoyo al Gobierno Federal, debiendo tomar las medidas preventivas inminentes para evitar cualquier daño a la población;
 
-IV. Inhabilitación;
+XI.- Proponer al Consejo la integración de los comités o comisiones de trabajo que se estimen necesarias;
 
-V. Suspensión; y
+XII.- Ordenar la integración y coordinación de los equipos de trabajo para dar respuesta frente a emergencias, y desastres, especialmente para asegurar el mantenimiento y pronto restablecimiento de los servicios fundamentales;
 
-VI. Clausura.
+XIII.- Hacer la declaratoria formal de emergencia;
 
-### Capítulo V. De la Secretaría
+XIV.- Autorizar:
 
-###### Artículo 24.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-Las sanciones administrativas previstas en la presente Ley se aplicarán sin menoscabo de la responsabilidad civil, laboral o penal que en su caso se configure.
+a).- La puesta en operación de los programas de emergencia para los diversos factores de riesgo, así como la implementación de albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas; y
 
-###### Artículo 25.
+b).- La difusión de los avisos y alertas respectivas;
 
-En lo no previsto por la presente Ley, será aplicable la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+XV.- Convocar al Centro Estatal de Operaciones; y
 
-###### Artículo 26.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE OCTUBRE DE 2019)</small>
 
-La sanción económica procederá contra el servidor público que por acción u omisión obtenga un lucro o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley y cuando el monto de aquellos no exceda de doscientas veces el salario mínimo general vigente, dicha sanción será equivalente al doble del monto obtenido.
+XVI.- Las demás que le confiera la ley y las que le otorgue el Consejo.
 
-###### Artículo 27.
+###### ARTICULO 20.
 
-La destitución del empleo, cargo o comisión procederá contra el servidor público cuando como consecuencia de un acto u omisión obtenga lucro o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley, cuando el monto de aquellos no exceda de trescientas veces el salario mínimo general vigente.
+Corresponde al Secretario Ejecutivo:
 
-###### Artículo 28.
+I.- En ausencia del Presidente propietario, presidir las sesiones del Consejo, y realizar las declaratorias formales de emergencia;
 
-La inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público será por un período no menor de seis meses ni mayor a diez años; si la inhabilitación se impone como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley, será de seis meses a cinco años, si el monto de aquellos no excede de quinientas veces el salario mínimo general vigente en la capital del Estado y de cinco a diez años si excede dicho límite.
+II.- Dar seguimiento a las disposiciones y acuerdos del Consejo;
 
-### Capítulo VI. Infracciones y sanciones
+III.- Presentar al Consejo, para su aprobación, el Anteproyecto del Programa Estatal de Protección Civil;
 
-###### Artículo 29.
+IV.- Ejercer la representación legal del Consejo; y
 
-Las infracciones cometidas por las instituciones privadas prestadoras de servicios de salud destinados a la atención materno infantil, serán sancionadas en los términos siguientes:
+V.- Las demás que le confieran la presente ley, sus reglamentos, y las que provengan de acuerdos del Consejo, o del Gobernador del Estado.
 
-I. Con amonestación y multa equivalente de cincuenta a quinientas veces el salario mínimo general vigente al momento de cometer la infracción por incumplir las obligaciones siguientes:
+###### ARTICULO 21.
 
-a) Capacitar al personal para orientar a las madres sobre la técnica de lactancia materna, para que dicho proceso sea continuo hasta que el lactante cumpla mínimo dos años;
+Corresponde al Secretario Técnico:
 
-b) Promover la lactancia materna como medio idóneo para la alimentación de los lactantes;
+I.- Elaborar y someter a la consideración del Secretario Ejecutivo el programa de trabajo del Consejo;
 
-c) Establecer la técnica que propicie el contacto piel a piel de la madre con su hija o hijo, proveyendo el alojamiento conjunto; y
+II.- Previo acuerdo del Presidente del Consejo, formular el orden del día para cada sesión;
 
-d) Fomentar y vigilar que la lactancia materna y la alimentación complementaria sean nutricionalmente adecuadas en términos de los estándares establecidos.
+III.- Convocar, por escrito, a las sesiones ordinarias y extraordinarias del Consejo, cuando su Presidente así lo determine;
 
-II. Con multa equivalente de quinientas a dos mil veces el salario mínimo general vigente al momento de cometer la infracción por incumplir las obligaciones siguientes:
+IV.- Verificar que el quórum legal para cada sesión del Consejo, se encuentre reunido y comunicarlo al Presidente del Consejo;
 
-a) Proveer en su caso la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, cuando existan condiciones que impidan la lactancia materna;
+V.- Elaborar y certificar las actas del Consejo, y dar fe de su contenido;
 
-b) Promover la donación de leche humana para abastecer los bancos de leche; y
+VI.- Registrar las resoluciones y acuerdos del Consejo, y sistematizarlos para su seguimiento;
 
-c) Incluir en los materiales informativos y educativos relativos a la alimentación de los lactantes con leche materna y a la alimentación de los lactantes con fórmula infantil, fórmulas de seguimiento o cualquier otro alimento o bebida suministrada con cuchara o taza, los aspectos contenidos en la presente ley.
+VII.- Informar al Consejo sobre el estado que guarde el cumplimiento de los acuerdos y resoluciones;
 
-III. Con multa equivalente de dos mil a cinco mil veces el salario mínimo general vigente al momento de cometer la infracción por incumplir las obligaciones siguientes:
+VIII.- Rendir un informe anual de los trabajos del Consejo;
 
-a) Obtener o estar en proceso de obtener la certificación de la Iniciativa “Hospital Amigo del Niño”;
+IX.- Previo acuerdo del Secretario Ejecutivo, ejercer la representación legal del Consejo;
 
-b) Cumplir con las disposiciones jurídicas aplicables a la comercialización de sucedáneos de la leche materna;
+X.- Conducir operativamente al Sistema Estatal de Protección Civil;
 
-c) Establecer bancos de leche y/o lactarios o salas de lactancia en los establecimientos de salud que cuenten con servicios neonatales;
+XI.- Reunir, introducir y mantener actualizada la información del Sistema Estatal de Protección Civil;
 
-d) Fomentar y vigilar que los profesionales de la salud, cumplan con las disposiciones de la presente Ley; y
+XII.- Rendir cuenta al Consejo del estado operativo del Sistema Estatal de Protección Civil;
 
-e) Evitar que los materiales informativos y educativos, relacionados a la alimentación de los lactantes, inhiban la lactancia en términos de lo dispuesto por la presente Ley.
+XIII.- Llevar el registro de los recursos disponibles para casos de emergencias y desastres; y
 
-IV. Además de las multas previstas en la fracción anterior, se podrá imponer la suspensión y en su caso, la clausura.
+XIV.- Los demás que les confieran las leyes, sus reglamentos, el Consejo, su Presidente o su Secretario Ejecutivo.
 
-###### Artículo 30.
+### CAPITULO IV. DEL CENTRO ESTATAL DE OPERACIONES
 
-Las infracciones cometidas por las instituciones privadas serán sancionadas en los términos siguientes:
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-I. Con multa equivalente a cincuenta a quinientas veces el salario mínimo general vigente al momento de cometer la infracción, por no establecer en su caso el transporte que facilite el traslado de las trabajadoras cuando el periodo de lactancia se ejerza dentro de la jornada laboral;
+###### ARTICULO 22.
 
-II. Con multa equivalente de quinientas a dos mil veces el salario mínimo general vigente al momento de cometer la infracción por incumplir las obligaciones siguientes:
+La Coordinación Estatal contará de manera permanente (sic) un Centro Estatal de Operaciones, responsable de atender operativamente los riesgos, emergencias o desastres que afecten al Estado y los albergues que se instalen. El Centro podrá integrar a los responsables de las dependencias de la administración pública estatal, municipal y, en su caso, de las federales que se encuentren establecidas en la entidad, así como representantes de los sectores social y privado y grupos voluntarios, cuya participación sea necesaria para el auxilio y recuperación de la población de la zona afectada.
 
-a) Establecer lactarios o salas de lactancia en los centros de trabajo; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-b) Propiciar el establecimiento de guarderías en los centros de trabajo o cerca de ellos.
+###### ARTICULO 23.
 
-III. Con multa equivalente de dos mil a cinco mil veces el salario mínimo general vigente al momento de cometer la infracción por impedir el ejercicio efectivo de los derechos de las trabajadoras.
+Compete al Centro Estatal de Operaciones:
 
-###### Artículo 31.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-En caso de reincidencia se duplicará el monto de la multa y se podrán aplicar conjuntamente con cualquiera de las sanciones contempladas. Se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de esta Ley, dos o más veces dentro del periodo de un año, contando a partir de la fecha en que se le hubiere notificado la sanción inmediata anterior.
+I.- Coordinar y dirigir técnica y operativamente la atención del alto riesgo, emergencia o desastre y los albergues que se instalen albergues (sic) para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas;
 
-T R A N S I T O R I O S
+II.- Realizar la planeación táctica, logística y operativa, de los recursos necesarios, su aplicación, y las acciones a seguir;
 
-Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+III.- Aplicar el plan de emergencia o los programas aprobados por el Consejo, y asegurar la adecuada coordinación de las acciones que realicen los grupos voluntarios; y
 
-Segundo.- El titular del Poder Ejecutivo destinará los recursos necesarios en la Ley de Egreso (sic) del Estado de cada año de ejercicio fiscal, con el fin de dar cumplimiento a lo previsto en la presente Ley.
+IV.- Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de emergencia.
 
-Tercero.- La Secretaría de Salud expedirá la reglamentación derivada de la presente Ley en un plazo no mayor de ciento veinte días hábiles, a partir de la entrada en vigor del presente Decreto.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-Cuarto.- Las instituciones públicas y privadas prestadoras de servicios de salud destinados a la atención materno infantil, deberán obtener la certificación de la Iniciativa “Hospital Amigo del Niño” en un plazo que no exceda de dos años, a partir de la entrada en vigor del presente Decreto.
+### CAPITULO V. DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL
 
-Quinto.- Las instituciones públicas y privadas tanto del sector salud como de otros sectores deberán de cumplir con las obligaciones contenidas en la presente Ley, en un plazo no mayor de dos años, a partir de la entrada en vigor de la presente Ley.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-Sexto.- Se derogan las disposiciones que se opongan a lo establecido por el presente Decreto.
+###### ARTICULO 24.
 
-Por lo tanto envíese al Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial del Estado.
+La Coordinación Estatal de Protección Civil es una dependencia del Poder Ejecutivo del Estado, con autonomía técnica y operativa, jerárquicamente subordinada a la Secretaría General de Gobierno, la cual tendrá por objeto ejecutar las políticas, programas y acciones de protección civil en la entidad con el fin de salvaguardar a las personas, su patrimonio y entorno, así como lo relativo a los servicios vitales y estratégicos, en casos de riesgo, emergencia, siniestro o desastre.
 
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los dos días del mes de Diciembre de dos mil quince.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-PRESIDENTE: DIP. DANIEL CARRILLO MARTÍNEZ; PRIMER SECRETARIA: DIP. ALICIA MARIBEL VILLALÓN GONZÁLEZ; SEGUNDA SECRETARIA: DIP. LETICIA MARLENE BENVENUTTI VILLARREAL.-Rúbricas.-
+###### ARTICULO 25.
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, al día 04 de Diciembre de 2015.
+La Coordinación Estatal de Protección Civil se integrará por:
 
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-JAIME HELIODORO RODRÍGUEZ CALDERÓN
+I.- Un Coordinador Estatal;
 
-RÚBRICA
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-EL C. SECRETARIO GENERAL DE GOBIERNO
+II.- Un Centro Estatal de Operaciones;
 
-MANUEL FLORENTINO GONZÁLEZ FLORES
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-RÚBRICA
+III.- Los Centros Regionales que se establezcan, conforme al Plan Estatal de Protección Civil; y
 
-EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-CARLOS ALBERTO GARZA IBARRA
+IV.- El personal técnico, administrativo u operativo que sea necesario y el presupuesto permita.
 
-RÚBRICA
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-LA C. SECRETARIA DE EDUCACIÓN
+Esta Ley y su Reglamento determinarán la estructura orgánica, atribuciones específicas y procedimientos de operación de la Coordinación Estatal, del Centro Estatal de Operaciones y de los Centros Regionales.
 
-ESTHELA MARÍA GUTIÉRREZ GARZA
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-RÚBRICA
+ARTICULO 25 BIS.- Los Centros Regionales de Protección Civil son la estructura operativa del Sistema Estatal de Protección Civil, dependientes de la Coordinación Estatal. Sus acciones las desplegarán en conjunto con las dependencias, entidades, instituciones y organismos del sector público, y la debida concertación con los sectores social y privado, con los grupos voluntarios y la población en general, en el ámbito de la competencia y jurisdicción territorial que le correspondan.
 
-EL C. SECRETARIO DE SALUD
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE OCTUBRE DE 2018)</small>
 
-MANUEL ENRIQUE DE LA O CAVAZOS
+Los Centros Regionales de Protección Civil contarán con un Director y el personal técnico, administrativo y operativo necesario para el ejercicio de sus funciones, en los términos del Reglamento.
 
-RÚBRICA
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-EL C. SECRETARIO DEL TRABAJO
+En el caso de situaciones de emergencia, el Centro Regional recibirá en sus instalaciones a los miembros del Consejo Estatal de Protección Civil en sesión permanente, quienes, agrupados en sus comisiones particulares, se abocarán a la atención de los asuntos específicos de su área de competencia.
 
-FELIPE AVILÉS FABIÁN
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-RÚBRICA
+###### ARTICULO 26.
+
+La Coordinación Estatal de Protección Civil tendrá las siguientes atribuciones:
+
+I.- Elaborar y presentar para su aprobación, al Presidente del Consejo de Protección Civil del Estado, por conducto de su Secretario Ejecutivo, el anteproyecto del Programa Estatal de Protección Civil, así como sus subprogramas, planes y programas especiales;
+
+II.- Elaborar el inventario de recursos humanos y materiales disponibles en la Entidad, para hacer frente a un riesgo, alto riesgo, emergencia o desastre; vigilar su existencia y coordinar su manejo;
+
+III.- Proponer, coordinar y ejecutar las acciones de auxilio y recuperación para hacer frente a las consecuencias de un riesgo, alto riesgo, emergencia o desastre, procurando el mantenimiento o pronto restablecimiento de los servicios públicos prioritarios en los lugares afectados;
+
+IV.- Establecer y operar los centros de acopio de recursos y abastecimientos, para recibir y brindar ayuda a la población afectada por un riesgo, alto riesgo, emergencia o desastre;
+
+V.- Organizar y llevar a cabo acciones de capacitación para la sociedad en materia de protección civil;
+
+VI.- Coadyuvar en la promoción de la cultura de protección civil, promoviendo lo conducente ante las autoridades del sector educativo;
+
+VII.- Proponer las medidas y los instrumentos que permitan el establecimiento de eficientes y oportunos canales de colaboración entre la Federación, el Estado y los Municipios en materia de protección civil;
+
+VIII.- Identificar los altos riesgos que se presenten en el Estado de Tamaulipas, integrando el atlas correspondiente y apoyar a las Unidades Municipales de Protección Civil para la elaboración de sus mapas de riesgos;
+
+IX.- Promover la integración de las Unidades Internas de Protección Civil en las Dependencias y Organismos de la Administración Pública Estatal y de la Federal establecidas en la Entidad y de manera supletoria en las municipales;
+
+X.- Proporcionar información y dar asesoría a los establecimientos, sean empresas, instituciones, organismos, asociaciones privadas y del sector social, para integrar sus unidades internas de respuesta y promover su participación en las acciones de protección civil;
+
+XI.- Llevar el registro, validar, capacitar y coordinar la participación de los grupos voluntarios;
+
+XII.- Establecer el subsistema de información de cobertura estatal en la materia, el cual deberá contar con mapas de riesgos y archivos históricos sobre emergencias y desastres ocurridos en el Estado;
+
+XIII.- En caso de alto riesgo, emergencia o desastre, formular la evaluación inicial de la magnitud de la contingencia, presentando de inmediato esta información al Presidente del Consejo de Protección Civil del Estado de Tamaulipas y al Secretario Ejecutivo;
+
+XIV.- Proponer un programa de premios y estímulos a ciudadanos u organizaciones gubernamentales, sociales, privadas y grupos voluntarios que realicen acciones relevantes en materia de protección civil;
+
+XV.- Fomentar la participación de los medios de comunicación masiva electrónicos o escritos, a fin de llevar a cabo campañas permanentes de difusión;
+
+XVI.- Promover la protección civil en sus aspectos normativo, operativo, de coordinación y de participación, buscando el beneficio de la población del Estado;
+
+XVII.- Realizar acciones de auxilio y recuperación para atender las consecuencias de los efectos destructivos de un desastre;
+
+XVIII.- Coordinarse con las autoridades federales y municipales, así como con Instituciones y grupos voluntarios para prevenir y controlar riesgos, altos riesgos, emergencias, y desastres;
+
+XIX.- Ejercer la inspección, control y vigilancia, de los establecimientos de competencia estatal siguientes:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+a).- Viviendas para diez familias o más y edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, campamentos turísticos y centros vacacionales;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+b).- Universidades, Tecnológicos y centros de estudios superiores en general;
+
+c).- Hospitales, maternidades, centros médicos, clínicas y puestos de socorro;
+
+d).- Cinemas, teatros, auditorios, gimnasios, estadios, arenas, autódromos, plazas de toros, hipódromos y velódromos;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+e).- Centros o clubes sociales o deportivos y balnearios;
+
+f).- Casinos, centros nocturnos, discotecas o salones de baile;
+
+g).- Museos, galerías de arte, centros de exposición, salas de conferencias y bibliotecas;
+
+h).- Templos y demás edificios destinados al culto;
+
+i).- Centros comerciales, supermercados, tiendas de departamentos y mercados;
+
+j).- Oficinas de la Administración Pública Estatal, incluyendo las correspondientes a organismos descentralizados y concesionarios de servicios públicos, así como las dedicadas a oficinas de administración privada, de profesionales, de la industria, de la banca y del comercio;
+
+k).- Centrales y delegaciones de policía, penitenciarias, y demás edificios e instalaciones destinados a proporcionar y preservar la seguridad pública;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+l).- Industrias, talleres o bodegas sobre terrenos con superficies iguales o mayores a dos mil metros cuadrados;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+m).- Rastros de semovientes y aves, empacadoras, granjas para ganadería, porcicultura, avicultura, cunicultura y apicultura;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+n).- Centrales de correos, de teléfonos, estaciones y torres de radio, televisión y sistemas de microondas;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+o).- Terminales y estaciones de ferrocarriles, de transportes de carga, de transporte de pasajeros urbanos y foráneos, y aeropuertos;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+p).- Edificios para estacionamientos de vehículos;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+q).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área mayor de mil quinientos metros cuadrados;
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+r).- Edificaciones para almacenamiento, distribución o expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines;
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+s).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área mayor a los mil quinientos metros cuadrados; y
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+t).- Albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
+
+XX.- Determinar la existencia de riesgos en los establecimientos, así como dictar las medidas para prevenir o controlarlos;
+
+XXI.- Señalar las medidas de seguridad necesarias e imponer las sanciones correspondientes conforme a la presente ley;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXII.- Coadyuvar, con el Consejo de Protección Civil del Estado de Tamaulipas, en la conducción y operación del Sistema Estatal de Protección Civil, así como en la reunión, introducción y actualización de la información del mismo;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+XXIII.- Elaborar y presentar anualmente para su aprobación al Presidente del Consejo de Protección Civil, el Programa Escolar de Protección Civil, con el propósito de establecer acciones de prevención, auxilio, albergue y recuperación destinadas a salvaguardar la integridad física de la comunidad educativa, así como proteger las instalaciones, bienes muebles e información, ante la ocurrencia de cualquier situación de emergencia, del cual se deberá rendir informe anual que indicará sus alcances;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XXIV.- Verificar la implementación del Protocolo de Seguridad Código Adam en todos los edificios públicos o privados que sean frecuentados por menores de edad dentro del Estado de Tamaulipas; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXV.- Elaborar el Protocolo de actuación para la atención de niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores; y
+
+XXVI.- Las demás que le confiera el Ejecutivo del Estado, el Secretario General de Gobierno, la presente ley, y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo de Protección Civil del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+El Reglamento de la Ley, determinará las respectivas competencias de vigilancia y aplicación de los órganos de la Coordinación Estatal de Protección Civil.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 27.
+
+La Coordinación Estatal de Protección Civil promoverá que los establecimientos a que se refiere esta ley, instalen sus propias unidades internas de respuesta, asesorándolos y coordinando sus acciones directamente o a través de las Unidades Municipales.
+
+Los establecimientos deberán realizar, asistidos por la Coordinación Estatal de Protección Civil o de la unidad municipal, según corresponda, cuando menos dos veces al año, simulacros para hacer frente a altos riesgos, emergencias o desastres.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 27 BIS.- En el caso de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares, deberán contar con sus propias unidades internas de respuesta.
+
+Estos establecimientos deberán realizar, con la asistencia de personal de la Coordinación General de Protección Civil, simulacros de evacuación para hacer frente a altos riesgos, emergencias o desastres.
+
+Además deberán contar con un programa de seguridad y contingencia aprobado por la Secretaria de Seguridad Pública y la Coordinación General de Protección Civil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 28.
+
+Corresponde al Coordinador Estatal de Protección Civil:
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+I.- Dirigir, supervisar, y evaluar todas las acciones que se realicen en el desarrollo de las atribuciones de la Coordinación;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+II.- Dirigir las acciones de la Coordinación con las autoridades Federales, Estatal y Municipales, así como con los sectores social y privado, para organizar la prevención y control de altos riesgos, emergencias y desastres;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III.- Administrar los recursos humanos, materiales y financieros a cargo de la Coordinación;
+
+IV.- Designar al personal que fungirá como inspector, en las inspecciones que se realicen en los establecimientos de competencia estatal;
+
+V.- Ordenar la práctica de inspecciones a los establecimientos de competencia estatal, en la forma y términos que establece esta ley, así como, en su caso, aplicar y ejecutar las sanciones que correspondan; y
+
+VI.- Las demás que le confieran los ordenamientos legales aplicables, las que le confiera el Secretario General de Gobierno, o las que autorice el Consejo de Protección Civil del Estado de Tamaulipas.
+
+### CAPITULO VI. DE LOS SISTEMAS MUNICIPALES DE PROTECCION CIVIL
+
+###### ARTICULO 29.
+
+En cada uno de los Municipios del Estado se establecerán Sistemas de Protección Civil, con la finalidad de organizar los planes y programas de prevención, auxilio y apoyo a la población ante situaciones de emergencia o desastre. Al frente de cada Sistema, estará el Presidente Municipal.
+
+###### ARTICULO 30.
+
+Corresponde a los Ayuntamientos de la Entidad, dentro de sus respectivos Municipios:
+
+I.- Formular los reglamentos de protección civil municipal, en congruencia con lo establecido en el orden federal y estatal; así como conducir la política en esta materia;
+
+II.- Prevenir y controlar las emergencias y contingencias que pudieran presentarse en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- Dar respuesta ante la (sic) situaciones de riesgo, alto riesgo, emergencia o desastre que se presenten en el Municipio, incluyendo la implementación de albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas sin perjuicio de solicitar apoyo a las autoridades de protección civil;
+
+IV.- Concertar acciones con los sectores público, social y privado en materia de protección civil conforme a la ley;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+V.- Establecer y mantener, a través de sus Sistemas Municipales de Protección Civil, un registro de riesgos de siniestros en los establecimientos comerciales, industriales y de servicios que operen en su Municipio, clasificándolos de la siguiente manera:
+
+1.- Alto Riesgo
+
+2.- Medio Riesgo
+
+3.- Bajo Riesgo
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 31.
+
+Los Ayuntamientos regularán la organización y operación de los Sistemas de Protección Civil municipales, en los términos establecidos en esta Ley y de acuerdo con la disponibilidad presupuestal, así como con base en la probabilidad de riesgos y desastres, incorporando a su organización a los sectores representativos del Municipio, tomando como referencia las bases que establece esta ley para integrar el Consejo Estatal y la Coordinación Estatal de Protección Civil.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 32.
 
@@ -605,13 +817,17 @@ q).- Actividades o establecimientos con una superficie menor de dos mil metros c
 
 r).- Destino final de desechos sólidos;
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-s).- Edificaciones para el almacenamiento, distribución y expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines; y
+s).- Edificaciones para el almacenamiento, distribución y expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines;
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-t).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área hasta de mil quinientos metros cuadrados.
+t).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área hasta de mil quinientos metros cuadrados; y
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+u).- Implementación de Albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
 
 VI.- Diseñar y llevar a cabo campañas masivas de divulgación en materia de protección civil;
 
@@ -647,9 +863,17 @@ Los grupos voluntarios deberán organizarse conforme a las siguientes bases:
 
 I.- Territoriales: Formados por los habitantes de una colonia, de una zona, de un centro de población, de uno o varios Municipios del Estado;
 
-II.- Profesionales o de Oficios: Constituidos de acuerdo a la profesión u oficio que tengan; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-III.- De Actividades Especificas: Atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones especificas de auxilio.
+II.- Profesionales o de Oficios: Constituidos de acuerdo a la profesión u oficio que tengan;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- De Actividades Específicas: Atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones específicas de auxilio; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+IV.- Planeación, implementación, organización y administración de albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
 
 ###### ARTICULO 40.
 
@@ -705,7 +929,7 @@ X.- Participar en todas aquellas actividades del Programa Estatal o Municipal, q
 
 XI.- Las demás que les confieran otros ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO VIII. OBLIGACIONES DE LAS PERSONAS FISICAS O MORALES EN MATERIA DE PROTECCION CIVIL
 
@@ -869,7 +1093,9 @@ El Programa Estatal de Protección Civil contará con los siguientes Subprograma
 
 I.- De Prevención;
 
-II.- De Auxilio; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+II.- De Auxilio y Albergue; y
 
 III.- De Recuperación y Vuelta a la Normalidad.
 
@@ -883,7 +1109,9 @@ II.- La identificación de los riesgos a que esta expuesto el Estado;
 
 III.- La identificación de los objetivos del Programa;
 
-IV.- Los Subprogramas de Prevención, de Auxilio, y de Recuperación y Vuelta a la Normalidad, con sus respectivas metas, estrategias y líneas de acción;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+IV.- Los Subprogramas de Prevención, de Auxilio, Albergue, Recuperación y Vuelta a la Normalidad, con sus respectivas metas, estrategias y líneas de acción;
 
 V.- La estimación de los recursos financieros; y
 
@@ -901,7 +1129,9 @@ I.- Los estudios, investigaciones y proyectos de protección civil a ser realiza
 
 II.- Los criterios para integrar el mapa de riesgo;
 
-III.- Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población, incluido el de Albergue;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -913,15 +1143,23 @@ VI.- La política de comunicación social; y
 
 VII.- Los criterios y bases para la realización de simulacros.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 57.
 
-El Subprograma de Auxilio integrará las acciones previstas a fin de rescatar y salvaguardar, en caso de alto riesgo, emergencia o desastre, la integridad física de las personas, sus bienes y el medio ambiente. Para realizar las acciones de auxilio se establecerán las bases regionales que se requieran, atendiendo a los riesgos detectados en las acciones de prevención.
+El Subprograma de Auxilio y Albergue integrará las acciones previstas a fin de rescatar y salvaguardar, en caso de alto riesgo, emergencia o desastre, la integridad física de las personas, sus bienes y el medio ambiente.
+
+Para realizar las acciones de auxilio y Albergue se establecerán las bases regionales que se requieran, atendiendo a los riesgos detectados en las acciones de prevención.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 58.
 
-El Subprograma de Auxilio contendrá, entre otros, los siguientes criterios:
+El Subprograma de Auxilio y Albergue contendrá, entre otros, los siguientes criterios:
 
-I.- Los establecidos o estipulados en acciones que desarrollen las dependencias y organismos de la Administración Publica del Estado;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+I.- Los establecidos o estipulados en acciones que desarrollen las dependencias y organismos de la Administración Pública del Estado y los Municipios;
 
 II.- Los establecidos en mecanismos de concentración y coordinación con los sectores social y privado; y
 
@@ -1023,17 +1261,21 @@ I.- Identificación del alto riesgo, emergencia o desastre;
 
 II.- Infraestructura, bienes y sistemas afectables;
 
-III.- Determinación de las acciones de prevención y auxilio;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- Determinación de las acciones de prevención, auxilio y Albergue;
 
 IV.- Suspensión de actividades públicas que así lo ameriten;
 
 V.- Instrucciones dirigidas a la población de acuerdo al Programa Estatal; y
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-VI.- Con base en los lineamientos del Sistema Nacional de Protección Civil, la Coordinación Estatal de Protección Civil, así como las Unidades Municipales de Protección Civil, son las autoridades competentes para definir donde habrá de establecerse un refugio temporal. Dicha definición y los procedimientos subsecuentes deben estar enmarcados en los planes de protección civil de cada Municipio y Entidad, de manera que exista un registro de instalaciones susceptibles de ser transformadas en refugios, en el que se señale la capacidad de alojamiento, y a partir de ese dato establecer las necesidades de todo tipo para la operación de cada refugio.
+VI.- Con base en los lineamientos del Sistema Nacional de Protección Civil, la Coordinación Estatal de Protección Civil, así como las Unidades Municipales de Protección Civil, son las autoridades competentes para definir donde habrá de establecerse un refugio temporal o Albergue. Dicha definición y los procedimientos subsecuentes deben estar enmarcados en los planes de protección civil de cada Municipio y Entidad, de manera que exista un registro de instalaciones susceptibles de ser transformadas en refugios o Albergues, en el que se señale la capacidad de alojamiento, y a partir de ese dato establecer las necesidades de todo tipo para la operación de cada refugio o Albergue.
 
-Los requisitos para establecer un refugio temporal son:
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] P.O. 16 DE OCTUBRE DE 2019)</small>
+
+Los requisitos para establecer un refugio temporal o Albergue son:
 
 a).- Estar alejados de las zonas de peligro;
 
@@ -1494,3 +1736,23 @@ Dentro de un plazo de no más de sesenta días naturales a partir de la entrada 
 ###### ARTÍCULO CUARTO.
 
 Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-1021 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El funcionamiento de los albergues a que se refiere el presente Decreto, se considerará dentro de la previsión presupuestal que atañe a los gobiernos estatal y municipal en el rubro de protección civil, con base en el artículo 8 de la Ley de Protección Civil para el Estado de Tamaulipas.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-78 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXV, RECORRIENDO EL ORDEN NATURAL DE LA SUBSECUENTE, AL ARTÍCULO 26, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
