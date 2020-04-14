@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2019-11-12"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1735,6 +1735,8 @@ Ejecutoriada que sea la sentencia que decrete la adopción, quedarán extinguido
 
 ### Capítulo I. De los Efectos de la Patria Potestad Respecto de Hijas e Hijos
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 263.
 
 Se considera adopción internacional, cuando la o el adoptante sean extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a una o un menor mexicano domiciliado en territorio del Estado, a través de una institución reconocida y validada en su país de origen, vinculada a la protección de los menores.
@@ -1773,7 +1775,7 @@ El Ministerio Público vigilará que se cumpla con esta disposición.
 
 ###### ARTICULO 268.
 
-La patria potestad es el conjunto de derechos y deberes reconocidos y otorgados por la ley a la madre y al padre o abuelos por ambas líneas en relación a sus hijas, hijos o nietas, nietos, para cuidarlos, protegerlos y educarlos, debiendo imperar el respeto y la consideración mutuos, cualquiera que sea su estado y condición, hasta antes de alcanzar la mayoría de edad. La patria potestad se ejerce, además, sobre los bienes de quienes estén sujetos a ella.
+La patria potestad es el conjunto de derechos y deberes reconocidos y otorgados por la ley a la madre y al padre, o abuelos por ambas líneas en relación a sus hijas, hijos, o nietas, o nietos, para cuidarlos, protegerlos y educarlos, debiendo imperar el respeto y la consideración mutuos, cualquiera que sea su estado y condición, hasta antes de alcanzar la mayoría de edad, así como la obligación de observar una conducta que sirva a éstos de buen ejemplo. La patria potestad se ejerce, además, sobre los bienes de quienes estén sujetos a ella.
 
 ###### ARTICULO 269.
 
@@ -3608,5 +3610,13 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0306.- SE ADICIONA AL ARTÍCULO 269 EL PÁRRAFO SEGUNDO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0657.- SE REFORMA EL ARTÍCULO 268, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
