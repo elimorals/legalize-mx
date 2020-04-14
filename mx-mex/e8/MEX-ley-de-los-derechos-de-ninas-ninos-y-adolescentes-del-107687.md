@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2018-06-07"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -164,6 +164,10 @@ XXIII. Ley General: A la Ley General de los Derechos de Niñas, Niños y Adolesc
 XXIV. Ley: A la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México.
 
 XXV. Niña o Niño: A toda persona cuya edad sea menor a doce años, cuando exista duda de si se trata de una persona mayor o menor de doce años de edad, se presumirá que es niña o niño.
+
+> <small>(ADICIONADA, G.G. 14 DE ABRIL DE 2020)</small>
+
+XXV Bis. Maltrato: Toda acción, omisión, desatención o trato negligente e intencional, que afecte los derechos y bienestar del niño, niña o adolescente, ponga en peligro o dañe su salud o interfiera en su desarrollo físico, psíquico o social, ejercida por personas o instituciones.
 
 XXVI. Medidas de Protección: A los mecanismos idóneos que se ejecutan cuando se advierta un riesgo inminente en contra de niñas, niños o adolescentes.
 
@@ -1163,6 +1167,10 @@ IX. Considerar la opinión de niñas, niños y adolescentes para la toma de deci
 
 X. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
 
+> <small>(ADICIONADA, G.G. 14 DE ABRIL DE 2020)</small>
+
+XI. Informar a la autoridad correspondiente, sobre casos de niñas, niños y adolescentes que sufran o hayan sufrido, cualquier forma de maltrato o violación de sus derechos.
+
 Las sanciones en caso de incumplimiento de las obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia serán las dispuestas por esta Ley, el Código Civil, Código de Procedimientos Civiles del Estado de México y demás leyes aplicables.
 
 Si en el incumplimiento de las referidas obligaciones quienes ejercen la patria potestad, tutela o guarda y custodia incurren en alguna conducta tipificada como delito serán sancionados de acuerdo con lo previsto por el Código Nacional de Procedimientos Penales, Código Penal para el Estado de México y demás leyes aplicables.
@@ -1980,3 +1988,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los requisitos previstos en el artículo 94 bis de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México, resultarán aplicables a los nombramientos que se realicen a partir de la entrada en vigor del presente decreto.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 134.- POR EL QUE SE ADICIONA LA FRACCIÓN XXV BIS AL ARTÍCULO 5 Y LA FRACCIÓN XI AL ARTÍCULO 74 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
