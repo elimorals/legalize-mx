@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2019-11-25"
+last_updated: "2020-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -121,21 +121,25 @@ I. Violencia contra el derecho a la libre elección de cónyuge o pareja: toda a
 
 II. Violencia contra los derechos reproductivos: toda acción u omisión que limite o vulnere el derecho de las mujeres a obtener información y educación sobre salud y derechos sexuales y reproductivos, a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, así como a servicios obstétricos de emergencia;
 
-III. Violencia docente: las conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, étnica, académica, limitaciones o características físicas, que les infligen maestras o maestros. Lo es también la estigmatización y sexismo al orientar a las alumnas a elegir y cursar carreras con base en estereotipos de género;
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
 
-IV. Violencia económica: toda acción u omisión del agresor que afecta la situación económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, en la restricción, limitación y/o negación injustificada para obtener recursos económicos;
+III. Violencia digital: los actos de, acoso, hostigamiento, amenazas, insultos, vulneración de datos e información privada, divulgación de información apócrifa, mensajes de odio, difusión de contenido sexual sin consentimiento, textos, fotografías, videos y/o datos personales u otras impresiones gráficas sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida a través de tecnologías de la información y la comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, o cualquier otro espacio digital, y atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada, o vulnere algún derecho humano de las mujeres;
 
-V. Violencia en el noviazgo: el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o de hecho o una relación sexual;
+IV. Violencia docente: las conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, étnica, académica, limitaciones o características físicas, que les infligen maestras o maestros. Lo es también la estigmatización y sexismo al orientar a las alumnas a elegir y cursar carreras con base en estereotipos de género;
 
-VI. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres;
+V. Violencia económica: toda acción u omisión del agresor que afecta la situación económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, en la restricción, limitación y/o negación injustificada para obtener recursos económicos;
 
-VII. Violencia física: cualquier acto material, no accidental, que inflige daño a la mujer a través del uso de la fuerza física, sustancias, armas u objetos, y que puede provocar o no lesiones, ya sean internas, externas o ambas;
+VI. Violencia en el noviazgo: el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o de hecho o una relación sexual;
 
-VIII. Violencia Institucional: actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. También constituirá violencia institucional cuando los órganos de procuración y administración de justicia emitan resoluciones o que contengan prejuicios basados en el género, patrones estereotipados de comportamiento o prácticas sociales y culturales fundadas en conceptos de inferioridad de las mujeres o de subordinación a los hombres;
+VII. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres;
 
-IX. Violencia laboral: la negativa ilegal a contratar a la víctima, o a respetar su permanencia, sus oportunidades de ascenso, la posibilidad de mejorar su sueldo, de obtener igual salario por igual trabajo o las condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la imposición de requisitos sexistas en la forma de vestir, la exclusión de género en ciertos cargos por la edad, la solicitud o requerimiento de presentar certificado médico de no embarazo para el ingreso, permanencia o ascenso en el empleo o para el ejercicio o disfrute de cualquier otro derecho laboral, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, la explotación y todo tipo de discriminación por condición de género;
+VIII. Violencia física: cualquier acto material, no accidental, que inflige daño a la mujer a través del uso de la fuerza física, sustancias, armas u objetos, y que puede provocar o no lesiones, ya sean internas, externas o ambas;
 
-X. Violencia obstétrica: es todo abuso, acción u omisión intencional, negligente y dolosa que lleve a cabo el personal de salud, de manera directa o indirecta, que dañe, denigre, discrimine, o de un trato deshumanizado a las mujeres durante el embarazo, parto o puerperio; que tenga como consecuencia la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad. Puede expresarse en:
+IX. Violencia Institucional: actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. También constituirá violencia institucional cuando los órganos de procuración y administración de justicia emitan resoluciones o que contengan prejuicios basados en el género, patrones estereotipados de comportamiento o prácticas sociales y culturales fundadas en conceptos de inferioridad de las mujeres o de subordinación a los hombres;
+
+X. Violencia laboral: la negativa ilegal a contratar a la víctima, o a respetar su permanencia, sus oportunidades de ascenso, la posibilidad de mejorar su sueldo, de obtener igual salario por igual trabajo o las condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la imposición de requisitos sexistas en la forma de vestir, la exclusión de género en ciertos cargos por la edad, la solicitud o requerimiento de presentar certificado médico de no embarazo para el ingreso, permanencia o ascenso en el empleo o para el ejercicio o disfrute de cualquier otro derecho laboral, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, la explotación y todo tipo de discriminación por condición de género;
+
+XI. Violencia obstétrica: es todo abuso, acción u omisión intencional, negligente y dolosa que lleve a cabo el personal de salud, de manera directa o indirecta, que dañe, denigre, discrimine, o de un trato deshumanizado a las mujeres durante el embarazo, parto o puerperio; que tenga como consecuencia la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad. Puede expresarse en:
 
 a) Prácticas que no cuenten con el consentimiento informado de la mujer, como la esterilización forzada.
 
@@ -147,9 +151,9 @@ d) Alterar el proceso natural de parto de bajo riesgo, mediante su patologizaci�
 
 e) Practicar el parto vía cesárea sin autorización de la madre cuando existan condiciones para el parto natural;
 
-XI. Violencia patrimonial: cualquier acto u omisión que afecta la situación patrimonial de la víctima. Se manifiesta en la transformación, sustracción, destrucción, limitación, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades, y puede abarcar los daños a los bienes comunes o propios de la víctima;
+XII. Violencia patrimonial: cualquier acto u omisión que afecta la situación patrimonial de la víctima. Se manifiesta en la transformación, sustracción, destrucción, limitación, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades, y puede abarcar los daños a los bienes comunes o propios de la víctima;
 
-XII. Violencia política: cualquier acción u omisión cometida por una o varias personas, o servidores públicos, por sí o a través de terceros, que causen daño físico, psicológico, económico, o sexual, en contra de una o varias mujeres, y/o de su familia, para acotar, restringir, suspender, o impedir el ejercicio de sus derechos ciudadanos y político-electorales, o inducirla a tomar decisiones en contra de su voluntad. Puede expresarse en:
+XIII. Violencia política: cualquier acción u omisión cometida por una o varias personas, o servidores públicos, por sí o a través de terceros, que causen daño físico, psicológico, económico, o sexual, en contra de una o varias mujeres, y/o de su familia, para acotar, restringir, suspender, o impedir el ejercicio de sus derechos ciudadanos y político-electorales, o inducirla a tomar decisiones en contra de su voluntad. Puede expresarse en:
 
 a) Imponer por estereotipos de género y (sic) la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
 
@@ -181,15 +185,15 @@ n) Discriminar a las mujeres electas, designadas o en el ejercicio de la funció
 
 ñ) Presionar o inducir a las mujeres en el ejercicio de la función político-pública a renunciar a su encargo;
 
-XIII. Violencia psicológica: todo acto u omisión que daña la estabilidad psicológica que puede consistir en: prohibiciones, coacciones, condicionamientos, intimidaciones, desdén, negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, chantaje, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación, amenazas, o cualquier otra que conlleva a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+XIV. Violencia psicológica: todo acto u omisión que daña la estabilidad psicológica que puede consistir en: prohibiciones, coacciones, condicionamientos, intimidaciones, desdén, negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, chantaje, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación, amenazas, o cualquier otra que conlleva a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
-XIV. Violencia sexual: cualquier acto que degrada o daña el cuerpo o la sexualidad de la víctima, o ambas, que atenta contra su libertad, dignidad, seguridad sexual e integridad física, que implica el abuso de poder y la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto. Puede expresarse en:
+XV. Violencia sexual: cualquier acto que degrada o daña el cuerpo o la sexualidad de la víctima, o ambas, que atenta contra su libertad, dignidad, seguridad sexual e integridad física, que implica el abuso de poder y la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto. Puede expresarse en:
 
 a) Acoso sexual: es una forma de violencia en la que existe una subordinación de género que deriva en un ejercicio abusivo de poder que la asedia, acosa, o le demanda actos de naturaleza sexual con fines lascivos, y que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 b) Hostigamiento sexual: es el ejercicio del poder, en una relación de subordinación real de la víctima frente a la persona agresora en los ámbitos laboral y/o escolar. Se expresa en conductas verbales o no verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva, y
 
-XV. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+XVI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### ARTÍCULO 5º.
 
@@ -1282,3 +1286,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0659.- SE REFORMA EL ARTÍCULO 187, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ Y SE ADICIONA AL ARTÍCULO 4° UNA FRACCIÓN, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
