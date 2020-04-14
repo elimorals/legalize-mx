@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2019-12-16"
+last_updated: "2020-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -353,6 +353,18 @@ XXX. Adoptar medidas necesarias para garantizar la protección de los derechos d
 
 XXXI. Realizar las demás actividades que permitan mejorar la calidad de la educación, ampliar la cobertura de los servicios educativos y alcanzar los propósitos de equidad y efectiva igualdad de oportunidades.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 14 DE ABRIL DE 2020)</small>
+
+XXXII. Fomentar actitudes solidarias y positivas hacia el trabajo y el bienestar general, impulsando una cultura económica y financiera entre los educandos, conforme a cada etapa de su vida, bajo las siguientes bases:
+
+a) Dar conocimientos patrimoniales básicos para planificar con visión de futuro;
+
+b) Impulsar hábitos de gasto responsable y de ahorro con perspectiva de mediano y largo plazo;
+
+c) Desarrollar y fortalecer competencias que les permitan tomar decisiones financieras que potencien sus recursos, y
+
+d) Promover la generosidad en el uso de los recursos, en vista de promover la solidaridad social.
+
 #### SECCIÓN TERCERA. DEL CRITERIO Y LOS FINES DE LA EDUCACIÓN
 
 ###### Artículo 13.
@@ -454,6 +466,18 @@ XXVII. Fomentar la justicia, la libertad, la igualdad, la equidad, la solidarida
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
 XXVIII. Difundir la importancia de la adaptación al cambio climático, así como la mitigación de las emisiones de gases de efecto invernadero que lo provocan.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 14 DE ABRIL DE 2020)</small>
+
+XXIX. Fomentar una educación económica y financiera entre los educandos, bajo las siguientes bases:
+
+a) Dar conocimientos patrimoniales básicos para planificar con visión de futuro;
+
+b) Impulsar hábitos de gasto responsable y de ahorro con perspectiva de mediano y largo plazo;
+
+c) Desarrollar y fortalecer habilidades y aptitudes que les permitan tomar decisiones financieras que potencien sus recursos, y
+
+d) Promover la generosidad en el uso de los recursos, en vista de promover la solidaridad social.
 
 #### SECCIÓN CUARTA. DE LOS VALORES DE LA EDUCACIÓN
 
@@ -3072,3 +3096,13 @@ e) Poder Legislativo del Estado de México.
 Décimo Séptimo. La Legislatura del Estado proveerá de los recursos necesarios para la implementación de la reforma del sistema de justicia laboral del Estado de México y para dar cumplimiento a lo dispuesto en el presente Decreto.
 
 Décimo Octavo. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 139.- POR EL QUE SE ADICIONA LA FRACCIÓN XXXII AL ARTÍCULO 12 Y LA FRACCIÓN XXIX AL ARTÍCULO 17 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
