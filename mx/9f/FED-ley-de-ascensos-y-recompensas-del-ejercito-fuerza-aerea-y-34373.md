@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-34373
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-30"
-last_updated: "2017-01-27"
+last_updated: "2020-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34373&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-10-29"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2020.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de octubre de 2003.
 
@@ -261,55 +261,71 @@ c. Los que hayan obtenido su grado conforme a la fracción III del artículo 9 d
 
 B. Los Tenientes:
 
-a. De Arma, tres años como mínimo en cualquiera de las situaciones siguientes:
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], D.O.F. 15 DE ABRIL DE 2020)</small>
+
+a. De arma, en cualquiera de las situaciones siguientes:
 
 1. Encuadrados en las unidades del Ejército y en las unidades de vuelo de la Fuerza Aérea;
 
 2. En unidades orgánicas de los establecimientos de Educación Militar;
 
-3. Como profesores o instructores, encuadrados en los establecimientos de que trata la fracción anterior; homologándoseles el tiempo de servicios en esta situación como tiempo en unidades del Ejército y unidades de vuelo de la Fuerza Aérea en una sola ocasión, ya sea en un mismo grado o entre dos grados consecutivos, y
+3. Como profesores o instructores, encuadrados en los establecimientos de que trata la fracción anterior;
 
-4. Como Oficiales en instrucción en cursos de aplicación, superiores o de perfeccionamiento.
+4. Como Oficiales en instrucción en cursos de aplicación, superiores o de perfeccionamiento;
 
-El resto del tiempo, en su caso, en otras actividades militares propias de su especialidad.
+5. En actividades contenidas en el Capítulo VII de la Carta de la Organización de las Naciones Unidas, y
 
-b. De Servicio, tres años como mínimo en cualquiera de las situaciones siguientes:
+6. En otras actividades militares propias de su especialidad.
+
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], D.O.F. 15 DE ABRIL DE 2020)</small>
+
+b. De Servicio, en cualquiera de las situaciones· siguientes:
 
 1. En los servicios orgánicos de las unidades del Ejército, de las unidades de vuelo de la Fuerza Aérea o en unidades de sus servicios no encuadradas. En los servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad;
 
 2. En unidades orgánicas de los establecimientos de Educación Militar;
 
-3. Como profesores o instructores, encuadrados en los establecimientos de que trata la fracción anterior; homologándoseles el tiempo de servicios en esta situación como tiempo en unidades del Ejército y unidades de vuelo de la Fuerza Aérea en una sola ocasión, ya sea en un mismo grado o entre dos grados consecutivos, y
+3. Como profesores o instructores, encuadrados en los establecimientos de que trata la fracción anterior;
 
-4. Como Oficiales en instrucción en cursos de aplicación, superiores o de perfeccionamiento.
+4. Como Oficiales en instrucción en cursos de aplicación, superiores o de perfeccionamiento;
 
-El resto del tiempo, en su caso, en otras actividades militares propias de su especialidad.
+5. En actividades contenidas en el Capítulo VII de la Carta de la Organización de las Naciones Unidas, y
+
+6. En otras actividades militares propias de su especialidad.
 
 C. Los Capitanes:
 
-a. De Arma, dos años como mínimo en cualquiera de las situaciones siguientes:
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], D.O.F. 15 DE ABRIL DE 2020)</small>
+
+a. De Arma, en cualquiera de las situaciones siguientes:
 
 1. Encuadrados en las unidades del Ejército o en las unidades de vuelo de la Fuerza Aérea;
 
 2. En unidades orgánicas de los establecimientos de Educación Militar;
 
-3. Como profesores o instructores, encuadrados en los establecimientos de que trata la fracción anterior, homologándoseles el tiempo de servicios en esta situación como tiempo en unidades del Ejército y unidades de vuelo de la Fuerza Aérea en una sola ocasión, ya sea en un mismo grado o entre dos grados consecutivos, y
+3. Como profesores o instructores, encuadrados en los establecimientos de que trata la fracción anterior;
 
-4. Como Oficiales en instrucción en cursos de aplicación, superiores o de perfeccionamiento.
+4. Como Oficiales en instrucción en cursos de aplicación, superiores o de perfeccionamiento;
 
-El resto del tiempo, en su caso, en otras actividades militares propias de su especialidad.
+5. En actividades contenidas en el Capítulo VII de la Carta de la Organización de las Naciones Unidas, y
 
-b. De Servicio, dos años como mínimo en cualquiera de las situaciones siguientes:
+6. En otras actividades militares propias de su especialidad.
 
-1. En los servicios orgánicos de las unidades del Ejército, de las unidades de vuelo de la Fuerza Aérea o en unidades de sus servicios no encuadradas. En los servicios que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad;
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], D.O.F. 15 DE ABRIL DE 2020)</small>
 
-2. En unidades orgánicas de los establecimientos de educación militar;
+b. De servicio, en cualquiera de las situaciones siguientes:
 
-3. Como profesores o instructores encuadrados en los establecimientos de que trata la fracción anterior, homologándoseles el tiempo de servicios en esta situación como tiempo en unidades del Ejército y unidades de vuelo de la Fuerza Aérea en una sola ocasión, ya sea en un mismo grado o entre dos grados consecutivos, y
+1. En los servicios orgánicos de las unidades del Ejército, de las unidades de vuelo de la Fuerza Aérea o en unidades de sus servicios no encuadradas. En los servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad;
 
-4. Como Oficiales en instrucción en los cursos de aplicación, superiores o de perfeccionamiento.
+2. En unidades orgánicas de los establecimientos de Educación Militar;
 
-El resto del tiempo, en su caso, en otras actividades militares propias de su especialidad.
+3. Como profesores o instructores, encuadrados en los establecimientos de que trata la fracción anterior;
+
+4. Como Oficiales en instrucción en los cursos de aplicación, superiores o de perfeccionamiento;
+
+5. En actividades contenidas en el Capítulo VII de la Carta de la Organización de las Naciones Unidas, y
+
+6. En otras actividades militares propias de su especialidad.
 
 IV. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
 
@@ -355,29 +371,37 @@ II. Tener como mínimo cuatro años de antigüedad en el grado;
 
 III. Haber prestado sus servicios en ese grado en la forma siguiente:
 
-A. De Arma, dos años como mínimo en cualquiera de las situaciones siguientes:
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O.F. 15 DE ABRIL DE 2020)</small>
+
+A. De Arma, en cualquiera de las situaciones siguientes:
 
 a. Encuadrados en las unidades del Ejército o en las unidades de vuelo de la Fuerza Aérea;
 
 b. En las unidades Orgánicas de los Establecimientos de Educación Militar;
 
-c. Como profesores o instructores, encuadrados en los establecimientos de que trata la fracción anterior, homologándoseles el tiempo de servicios en esta situación como tiempo en unidades del Ejército y unidades de vuelo de la Fuerza Aérea en una sola ocasión, ya sea en un mismo grado o entre dos grados consecutivos, y
+c. Como profesores o instructores, encuadrados en los establecimientos de que trata la fracción anterior;
 
-d. Como Jefe en instrucción en los cursos superiores o de perfeccionamiento.
+d. Como Jefe en instrucción en los cursos superiores o de perfeccionamiento;
 
-El resto del tiempo, en su caso, en actividades militares propias de su especialidad.
+e. En actividades contenidas en el Capítulo VII de la Carta de la Organización de las Naciones Unidas, y
 
-B. De Servicio, dos años como mínimo en cualquiera de las situaciones siguientes:
+f. En otras actividades militares propias de su especialidad.
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O.F. 15 DE ABRIL DE 2020)</small>
+
+B. De servicio, en cualquiera de las situaciones siguientes:
 
 a. En los servicios orgánicos de las unidades del Ejército, de las unidades de vuelo de la Fuerza Aérea o en unidades de sus servicios no encuadradas. En los servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad;
 
-b. En unidades orgánicas de los establecimientos de educación Militar;
+b. En las unidades orgánicas de los establecimientos de educación Militar;
 
-c. Como profesores o instructores, encuadrados en los establecimientos de que trata la fracción anterior, homologándoseles el tiempo de servicios en esta situación como tiempo en unidades del Ejército y unidades de vuelo de la Fuerza Aérea en una sola ocasión, ya sea en un mismo grado o entre dos grados consecutivos, y
+c. Como profesores o instructores, encuadrados en los establecimientos de que trata la fracción anterior;
 
-d. Como Jefes en instrucción en los cursos superiores o de perfeccionamiento.
+d. Como Jefes en instrucción en los cursos superiores o de perfeccionamiento;
 
-El resto del tiempo, en su caso, en actividades militares propias de su especialidad.
+e. En actividades contenidas en el Capítulo VII de la Carta de la Organización de las Naciones Unidas, y
+
+f. En actividades militares propias de su especialidad.
 
 IV. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
 
@@ -391,9 +415,11 @@ VII. No encontrarse en alguno de los supuestos previstos en el artículo 35.
 
 En los servicios en que no existan Escuelas de Formación de Oficiales y Clases, los interesados podrán concursar para obtener ascensos, cuando exista vacante o así lo exijan las necesidades del servicio y aprueben los exámenes que, para ese efecto, fije la normativa vigente en materia de Educación Militar.
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 22.
 
-Los Tenientes, Capitanes y Mayores de las Armas que sean designados ayudantes del Presidente de la República, del Secretario y demás funcionarios de la Secretaría; así como los encuadrados en los Estados Mayores y en los Cuarteles Generales de las Grandes Unidades, tendrán derecho a participar en concursos de selección para el ascenso, computándoseles el tiempo que duren en esa situación, para los mismos efectos que establecen los artículos 18, fracción III, apartado B y C, y 20 fracción III, apartado A de esta Ley, en una sola ocasión ya sea en un mismo grado o entre dos grados consecutivos, siempre que reúnan los demás requisitos señalados en dichos preceptos.
+Los Tenientes, Capitanes y Mayores de las Armas o Servicios que sean designados ayudantes del Presidente de la República, del Secretario y demás funcionarios de la Secretaría; así como los encuadrados en los Estados Mayores, Cuarteles Generales, escalones sanitarios de diferente tipo, así como en los diversos organismos del Ejército y Fuerza Aérea Mexicanos, tendrán derecho a participar en concursos de selección para el ascenso, computándoseles el tiempo que duren en esa situación, para los mismos efectos que establecen los artículos 18, fracción II, y 20, fracción II de esta Ley, siempre que reúnan los demás requisitos señalados en dichos preceptos.
 
 ###### ARTÍCULO 23.
 
@@ -902,3 +928,13 @@ Segundo. Las erogaciones que se causen por la entrada en vigor del presente Decr
 Tercero. A partir de la fecha en que entre en vigor el presente Decreto, se derogan las disposiciones jurídicas que se opongan al mismo.
 
 Cuarto. El Ejecutivo Federal deberá reformar el Reglamento de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 15 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, con movimientos compensados, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
