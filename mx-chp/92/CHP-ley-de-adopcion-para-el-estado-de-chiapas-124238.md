@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-adopcion-para-el-estado-de-chiapas-124238"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-25"
-last_updated: "2017-10-25"
+last_updated: "2020-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE ADOPCION PARA EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE ADOPCIÓN PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 15 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ADOPCIÓN PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2020 (ABROGADO).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 25 de octubre de 2017.
 
@@ -385,7 +387,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 
 Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
-Artículo Tercero.- Se abroga el Reglamento de Adopción de Menores del Instituto de Desarrollo Humano del Estado de Chiapas, publicado mediante publicación número 2691•A•2006, en la Segunda Sección del Periódico Oficial número 368, el día miércoles 21 de junio del año 2006.
+Artículo Tercero.- Se abroga el Reglamento de Adopción de Menores del Instituto de Desarrollo Humano del Estado de Chiapas, publicado mediante publicación número 2691A2006, en la Segunda Sección del Periódico Oficial número 368, el día miércoles 21 de junio del año 2006.
 
 Artículo Cuarto.- El Consejo Técnico de Adopciones del Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas deberá quedar instalado en un plazo no mayor a 45 días hábiles, de acuerdo a la estructura que le ha sido asignada por el presente Decreto.
 
@@ -398,3 +400,19 @@ Dado en el Salón de Sesiones Sergio Armando Valls Hernández del Honorable Cong
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 23 días del mes de Octubre del año Dos Mil Diecisiete.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 212 LEY DE ADOPCIÓN PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se Abroga la Ley de Adopción para el Estado de Chiapas, Publicada mediante Periódico Oficial número 326 segunda sección de fecha 25 de Octubre del año 2017.
+
+Artículo Tercero.- El Consejo Técnico de Adopciones del Sistema DIF Chiapas, deberá quedar instalado en un plazo no mayor a 45 días hábiles, de acuerdo a la estructura que le ha conferido la presente Ley.
+
+Artículo Cuarto.- En un plazo no mayor de 120 días contados a partir de la entrada en vigencia del presente decreto, el Consejo Técnico de adopciones del Sistema DIF-Chiapas, deberá de presentar al Titular del Poder Ejecutivo del Estado el proyecto de Reglamento de la presente Ley.
+
+Artículo Quinto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
