@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-congreso-del-estado-de-chiapas-50475"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-02"
-last_updated: "2011-06-15"
+last_updated: "2020-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el martes 2 de mayo de 2006.
 
@@ -103,6 +103,24 @@ Los casos no previstos y su interpretación, serán resueltos por el Pleno del C
 
 El tratamiento que recibirá el Congreso será el de «Honorable Congreso del Estado de Chiapas».
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2020)</small>
+
+###### Artículo 5 Bis.
+
+La residencia del Poder Legislativo es la Ciudad de Tuxtla Gutiérrez, Chiapas, en la que se establece el Recinto Oficial.
+
+El Congreso del Estado sesionará únicamente en el Recinto Oficial, a excepción de caso fortuito o fuerza mayor, que mediante reunión previa de la Junta de Coordinación Política así lo determinen.
+
+Respecto a lo señalado en el párrafo anterior, se podrá sesionar bajo la modalidad en línea, cuando se presenten los siguientes supuestos:
+
+I. Por contingencias sanitarias o ambientales declaradas previamente por autoridad competente, que pongan en riesgo el recinto legislativo y la integridad física de las y los legisladores;
+
+II. Por cuestiones de seguridad pública, que pongan en riesgo el recinto legislativo y la integridad física de las y los legisladores, y
+
+III. Por situaciones de emergencia en desastres naturales o de protección civil que pongan en riesgo el recinto legislativo y la integridad física de las y los legisladores.
+
+Esta modalidad de sesionar en línea, solo podrá llevarse a cabo para la atención de aquellos asuntos con carácter de urgentes, calificados previamente por la Mesa Directiva del Congreso del Estado.
+
 ## Título Segundo. De la Cámara de Diputados
 
 ### Capítulo Primero. De su Instalación y Periodos de Sesiones
@@ -155,9 +173,11 @@ En la apertura de cada período ordinario de sesiones, hará uso de la palabra u
 
 La elección de la Mesa Directiva se realizará conforme a lo establecido por el artículo 15, de la Constitución Política del Estado de Chiapas; la cual se integrará con un Presidente, dos Vicepresidentes, dos Secretarios y dos Prosecretarios; quienes durarán en sus funciones seis meses, incluyendo los períodos de recesos del Congreso, dentro de los cuales fungirá como Comisión Permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2020)</small>
+
 ###### Artículo 15.
 
-La Mesa Directiva conduce las sesiones del congreso del Estado y asegura el debido desarrollo de los debates, discusiones y votaciones del Pleno; garantiza que en los trabajos legislativos prevalezca lo dispuesto en la Constitución Política local, la Ley Orgánica y este Reglamento Interior.
+La Mesa Directiva conduce las sesiones del Congreso del Estado y asegura el debido desarrollo de las sesiones presenciales o en línea, así como de los debates, discusiones y votaciones del Pleno; garantiza que en los trabajos legislativos prevalezca lo dispuesto en la Constitución Política Local, la Ley Orgánica y este Reglamento Interior.
 
 Los nombramientos de la Mesa Directiva se comunicarán por escrito de inmediato a los titulares del Poder Ejecutivo Estatal y del Poder Judicial del Estado; así mismo, se harán los comunicados a los Poderes Federales y a los Poderes de las Entidades Federativas del País.
 
@@ -225,9 +245,19 @@ XV.- Declarar en el Pleno la existencia de quórum o su falta cuando es visible;
 
 XVI.- Enviar excitativa a cualquiera de las Comisiones Legislativas, a nombre de la Cámara, a que presenten dictamen si han transcurrido quince días después de aquel en que se les turne un asunto y si no fuere suficiente, la emplazará para día determinado, y si ni así presentare el dictamen, propondrá al Congreso que se pase a otra Comisión;
 
-XVII.- Convocar a los diputados ausentes a concurrir a las sesiones, por los medios que juzgue más convenientes en los casos en que se trate de asuntos de interés estatal; y,
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2020)</small>
 
-XVIII.- Manifestar públicamente a nombre del Congreso las resoluciones que esté emita, salvo aquellas que exigen estricta reserva; considerándose como opiniones personales aquellas que no sean surgidas por acuerdo del Pleno o de los órganos colegiados que integran el Poder Legislativo.
+XVII.- Convocar a los diputados ausentes a concurrir a las sesiones, por los medios que juzgue más convenientes en los casos en que se trate de asuntos de interés estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ABRIL DE 2020)</small>
+
+XVIII.- Convocar a sesiones presenciales o en línea;
+
+Las sesiones que se realicen en modalidad virtual, serán convocadas con un mínimo de 24 horas de anticipación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ABRIL DE 2020)</small>
+
+XIX.- Manifestar públicamente a nombre del Congreso las resoluciones que esté emita, salvo aquellas que exigen estricta reserva; considerándose como opiniones personales aquellas que no sean surgidas por acuerdo del Pleno o de los órganos colegiados que integran el Poder Legislativo.
 
 ###### Artículo 21.
 
@@ -243,9 +273,11 @@ Las representaciones protocolarias de la cámara podrán ser asumidas por uno de
 
 #### Sección Tercera. De los Secretarios y Prosecretarios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2020)</small>
+
 ###### Artículo 23.
 
-Son obligaciones de los Secretarios y en su caso de los Prosecretarios:
+Son obligaciones de los secretarios y en su caso de los Prosecretarios:
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -255,7 +287,9 @@ II.- Extender las actas de las sesiones, firmarlas después de aprobadas y consi
 
 III.- Firmar las leyes, acuerdos y demás disposiciones y documentos que expida el Congreso;
 
-IV.- Cuidar de que se impriman y circulen en términos de la Ley Orgánica del Congreso, los dictámenes de las comisiones y las iniciativas que los motiven;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2020)</small>
+
+IV.- Cuidar de que se impriman y distribuyan oportunamente entre los Diputados, en términos de la Ley Orgánica del Congreso, las proposiciones, las iniciativas y los dictámenes de forma física o mediante correo institucional certificado según corresponda;
 
 V.- Cuidar de que las actas de las sesiones queden escritas y firmadas en el libro correspondiente al día siguiente de haber sido aprobadas;
 
@@ -305,9 +339,11 @@ El Quórum requerido en las sesiones donde se discutan las leyes, deberá ser de
 
 El Pleno es la máxima autoridad del Congreso del Estado, el cual puede revocar o modificar las resoluciones que haya dictado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2020)</small>
+
 ###### Artículo 27.
 
-Las sesiones del Congreso podrán ser ordinarias y extraordinarias, mismas que serán públicas y por excepción secretas; así mismo, podrá haber sesión permanente cuando la naturaleza del asunto a tratar así lo amerite; y sesiones solemnes, en los casos a que se refiere la Constitución Política del Estado de Chiapas, y demás ordenamientos legales que así lo dispongan.
+Las sesiones del Congreso podrán ser ordinarias, extraordinarias; mismas que serán públicas y por excepción secretas; así mismo, podrá haber sesión permanente cuando la naturaleza del asunto a tratar así lo amerite; y sesiones solemnes, en los casos a que se refiere la Constitución Política del Estado Libre y Soberano de Chiapas y demás ordenamientos legales que así lo dispongan; tanto las sesiones ordinarias o extraordinarias podrán celebrarse de manera virtual cuando se presenten los supuestos que señala el artículo 5 Bis. de este Reglamento.
 
 > <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -366,6 +402,12 @@ IV.- En general, todos los demás que el Presidente de la Mesa Directiva conside
 Cuando en una sesión secreta se trate de un asunto que exija estricta reserva, el Presidente del Congreso consultará a éste si debe guardar sigilo, y siendo afirmativa la respuesta, los presentes estarán obligados a guardarlo.
 
 En las sesiones que se celebren de manera secreta, el acta respectiva, será leída y aprobada en la misma sesión.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2020)</small>
+
+###### Artículo 33 Bis.
+
+Son sesiones en línea, aquellas que con el uso de la tecnología, se celebren de manera virtual dentro de la Plataforma del Congreso del Estado, cuando se presenten los supuestos que señala el artículo 5 Bis. de este Reglamento.
 
 ###### Artículo 34.
 
@@ -473,9 +515,77 @@ Si el Diputado enfermo estuviere o falleciere fuera de la capital del Estado, el
 
 Si el Diputado que falleciere dejare esposa, hijos o padres, estos tendrán derecho a una ayuda económica equivalente a tres meses de dieta incluyendo todas las percepciones que el mismo Congreso le estuviere otorgando.
 
-### Capítulo Segundo. Del Ceremonial en las Sesiones
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ABRIL DE 2020)</small>
 
-### Capítulo Tercero. De la Asistencia de los Secretarios del Gabinete Gubernamental
+### Capítulo Primero Bis. De las Sesiones en línea
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2020)</small>
+
+###### Artículo 47 Bis.
+
+Las sesiones en línea se celebrarán a través de la Plataforma que el Congreso del Estado de Chiapas desarrolle para tal fin, únicamente cuando se presenten los supuestos establecidos en el artículo 5 Bis, y las demás disposiciones específicas que resulten aplicables de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2020)</small>
+
+###### Artículo 47 Ter.
+
+El personal encargado del desarrollo, manejo y protección de la Plataforma del Congreso del Estado, proporcionará a cada legislador y legisladora un enlace de acceso personalizado.
+
+El enlace de acceso personalizado, es confidencial e intransferible, el cual fungirá para la toma de asistencia y el conteo de votos por lo que el uso del mismo implica el consentimiento expreso de que dicho sistema registrará los movimientos que se realicen para los efectos legales establecidos en la modalidad de sesiones en línea.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2020)</small>
+
+###### Artículo 47 Quáter.
+
+Las legisladoras y legisladores titulares del enlace de acceso personalizado, serán responsables de su uso, por lo que el acceso, la recepción o envío de archivos, así como la emisión de votos les serán atribuibles y no admitirá prueba en contrario, salvo que se demuestren fallas en la Plataforma del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2020)</small>
+
+###### Artículo 47 Quinquies.
+
+La Presidencia de la Mesa Directiva convocará a las Sesiones en línea con un mínimo de 24 horas de anticipación y se efectuará conforme a lo siguiente:
+
+I. Se convocará a sesión mediante correo institucional certificado de cada una de las legisladoras y legisladores, a través de la página oficial del Congreso del Estado de Chiapas.
+
+II. También se enviará el orden del día a desarrollar en la sesión en línea y documentos anexos en su caso, con un mínimo de 24 horas antes de la celebración de la sesión.
+
+III. Se encargará del buen desarrollo de la sesión en línea.
+
+IV. Deberá estar atenta o atento a las intervenciones en su caso.
+
+V. Contabilizará los votos que se emitan y deberá corroborarlos con el personal encargado de la Plataforma.
+
+El personal encargado de la Plataforma en coordinación con la Mesa Directiva, garantizarán que las sesiones en línea deban ser transmitidas en vivo y se guarde una copia de la misma.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2020)</small>
+
+###### Artículo 47 Sexies.
+
+Cuando se presenten fallas técnicas que interrumpan el óptimo funcionamiento de la Plataforma del Congreso del Estado, haciendo imposible el desarrollo de la sesión, la Mesa Directiva deberá dar aviso inmediato a las y los legisladores dentro de la página oficial del Congreso.
+
+Para tal efecto, la Mesa Directiva propondrá una nueva fecha para desarrollar la sesión en línea pendiente.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2020)</small>
+
+###### Artículo 47 Septies.
+
+La sesión en línea seguirá el orden que a continuación se expresa:
+
+I. Pase de lista para verificar el quorum;
+
+II. Lectura del orden del día;
+
+III. Lectura y en su caso aprobación del acta de la sesión anterior;
+
+IV. Proposiciones de iniciativas o Puntos de Acuerdo presentados por las y los Diputados del Congreso del Estado, por los Poderes Ejecutivo y Judicial del Estado, que sean con carácter de urgentes;
+
+V. Dictámenes sobre reformas Constitucionales Federales, para su breve discusión y aprobación.
+
+En las sesiones en línea no habrá Asuntos Generales.
+
+La sesión en línea, no podrá durar más de 3 horas.
+
+### Capítulo Segundo. Del Ceremonial en las Sesiones
 
 ###### Artículo 48.
 
@@ -509,9 +619,7 @@ Cuando algún Funcionario, Representante Diplomático o personaje de relevancia 
 
 En las sesiones del Congreso del Estado en las cuales se lleve a cabo el ceremonial descrito en el presente capítulo; los primeros asientos ubicados en el área del público, serán destinados a los Secretarios del Gabinete Estatal e invitados especiales que concurran a esta sesión.
 
-### Capítulo Cuarto. De las Comisiones
-
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+### Capítulo Tercero. De la Asistencia de los Secretarios del Gabinete Gubernamental
 
 ###### Artículo 54.
 
@@ -541,7 +649,9 @@ Los Secretarios Gubernamentales y demás funcionarios que menciona el artículo 
 
 En el análisis del contenido. del informe de gobierno a que se refiere la parte final del artículo 24, de la Constitución Política del Estado, los secretarios gubernamentales podrán comparecer ante el Pleno del Congreso o ante la Comisión Legislativa respectiva, debiendo realizar el compareciente una exposición detallada sobre la situación que guarda el ramo de la administración pública que le compete atender, seguidamente los diputados formularan preguntas con el tiempo y en el orden que previamente acuerde la Junta de Coordinación Política.
 
-### Capítulo Quinto. De los Trámites de las Iniciativas y Propuestas
+### Capítulo Cuarto. De las Comisiones
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 59.
 
@@ -587,9 +697,11 @@ Al recibir las Comisiones los asuntos que les turnen, su Presidente será el res
 
 Si el caso lo permite, podrán realizarse consultas y foros de participación social, así como comparecencias de los particulares y de los servidores públicos relacionados con el asunto.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2020)</small>
+
 ###### Artículo 67.
 
-Las reuniones de las Comisiones deberán ser públicas, salvo que el asunto requiera tratarse en privado, previo acuerdo de los integrantes de la Comisión.
+Las reuniones de las Comisiones deberán ser públicas, salvo que el asunto requiera tratarse en privado, previo acuerdo de los integrantes de la Comisión; asimismo, podrán celebrar reuniones en línea, cuando se presenten los supuestos que señala el artículo 5 Bis. de este Reglamento.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
@@ -731,7 +843,7 @@ Los dictámenes aprobados por el Pleno que se refieran a iniciativas de ley o de
 
 Los dictámenes que las Comisiones produzcan, sobre asuntos que no llegue a conocer la Legislatura que los recibió, quedarán a disposición de la siguiente Legislatura, con el carácter de proyectos.
 
-### Capítulo Sexto. De las Discusiones en General
+### Capítulo Quinto. De los Trámites de las Iniciativas y Propuestas
 
 ###### Artículo 95.
 
@@ -789,7 +901,7 @@ Todo proyecto de ley o decreto, no devuelto por el Ejecutivo en los términos de
 
 La Secretaría del Congreso, llevará un libro destinado al registro de los proyectos de ley en el que se asentará un extracto del proyecto presentado, por orden de fechas, anotándose quien los presenta y el nombre de la Comisión al que fue turnado.
 
-### Capítulo Séptimo. De las Mociones
+### Capítulo Sexto. De las Discusiones en General
 
 ###### Artículo 104.
 
@@ -967,7 +1079,7 @@ No podrá llamarse al orden al orador que critique o censure a funcionarios púb
 
 Cuando el Presidente de la Mesa Directiva tenga que hacer uso de la palabra para ejercer las funciones que le confiere la Ley Orgánica, lo hará sin pedirla; en caso de que tenga interés en un asunto o desee tomar parte en la discusión, deberá separarse de la Presidencia, llamando para ocuparla al que corresponda y quedando aquél sujeto en todo a las prevenciones señaladas en este reglamento para los demás diputados.
 
-### Capítulo Octavo. De los Asuntos Generales
+### Capítulo Séptimo. De las Mociones
 
 ###### Artículo 119.
 
@@ -1005,7 +1117,7 @@ V. Toda moción interpuesta estará debidamente fundada y motivada.
 
 Si durante el curso de Una sesión alguno de los miembros de la Cámara reclamare el quórum y la falta de éste fuere verdaderamente notoria, bastará una simple declaración del Presidente del Congreso sobre el particular para levantar la sesión; en todo caso, y cuando dicha falta de quórum sea dudosa, deberá procederse a pasar lista, y comprobada aquélla, se levantará la sesión.
 
-### Capítulo Noveno. De la Revisión de los Proyectos de Ley
+### Capítulo Octavo. De los Asuntos Generales
 
 ###### Artículo 122.
 
@@ -1017,7 +1129,7 @@ El Presidente de la Mesa Directiva, concederá el uso de la palabra a cada uno d
 
 Si en el uso de la palabra en asuntos generales, el legislador realiza alguna propuesta al Pleno, esta deberá sujetarse a los procedimiento del trámite legislativo regulado por el artículo 93, del presente reglamento, salvo que sea aprobado como de urgente u obvia resolución a lo cual se le dará el tramite correspondiente.
 
-### Capítulo Décimo. De la Fórmula para la Expedición de las Leyes
+### Capítulo Noveno. De la Revisión de los Proyectos de Ley
 
 ###### Artículo 124.
 
@@ -1035,7 +1147,7 @@ En el caso del artículo anterior, solamente se discutirán y votarán en lo par
 
 Antes de remitirse una ley al Ejecutivo para que sea promulgada, deberá asentarse en el libro de leyes del Congreso.
 
-### Capítulo Décimo Primero. De las Votaciones
+### Capítulo Décimo. De la Fórmula para la Expedición de las Leyes
 
 ###### Artículo 128.
 
@@ -1063,7 +1175,7 @@ Lo dispuesto en el artículo anterior, tendrá aplicación en cada caso, según 
 
 Las leyes se expedirán sin fórmula alguna, llevarán al calce la fecha de su expedición y serán autorizadas con la firma del Presidente y uno de los Secretarios de la Legislatura, expedidas así las leyes, serán remitidas al Ejecutivo del Estado para los efectos del artículo 28, de la Constitución Política del Estado.
 
-### Capítulo Décimo Segundo. De las Actas y el Diario de los Debates
+### Capítulo Décimo Primero. De las Votaciones
 
 ###### Artículo 131.
 
@@ -1171,7 +1283,7 @@ Mientras se verifica la votación, ningún miembro de la Cámara deberá salir d
 
 Cuando el Congreso del Estado, reciba para su aprobación, propuesta de nombramiento de algún servidor público realizado por el Gobernador del Estado, en ejercicio de la facultad constitucional, se dará lectura a la propuesta en la sesión que corresponda, así como al curriculum vitae de la persona nombrada, seguidamente el Presidente de la Mesa Directiva pondrá a discusión la propuesta, pudiendo hablar dos legisladores a favor y dos en contra, una vez agotada la discusión si la hubiere, someterá a votación económica la propuesta.
 
-### Capítulo Décimo Tercero. De la Gaceta Parlamentaria
+### Capítulo Décimo Segundo. De las Actas y el Diario de los Debates
 
 ###### Artículo 146.
 
@@ -1195,7 +1307,7 @@ Para la debida conservación, archivo e historia del proceso legislativo estatal
 
 El Diario de los Debates contendrá la fecha y lugar en que se verifiquen las sesiones, el sumario, nombre de quien presida, acta circunstanciada de las sesiones y transcripciones de la grabación magnetofónicas de las discusiones, en el orden en que se desarrollen e inserción de los documentos a los que se les dé lectura; pero en ningún caso, se publicarán las discusiones, ni los documentos que se relacionen en las sesiones privadas que se verifiquen.
 
-### Capítulo Único. De su Funcionamiento
+### Capítulo Décimo Tercero. De la Gaceta Parlamentaria
 
 ###### Artículo 151.
 
@@ -1221,7 +1333,7 @@ La Gaceta Parlamentaria, estará a cargo de la Secretaría de Servicios Parlamen
 
 ## Título Cuarto. De la Comisión Permanente
 
-### Capítulo Único. Generalidades
+### Capítulo Único. De su Funcionamiento
 
 ###### Artículo 152.
 
@@ -1265,7 +1377,7 @@ Cuando el Congreso, celebre periodo extraordinario, la Comisión Permanente no s
 
 ## Título Quinto. Del Público Asistente a las Sesiones
 
-### Capítulo Primero. Generalidades
+### Capítulo Único. Generalidades
 
 ###### Artículo 160.
 
@@ -1290,6 +1402,8 @@ Siempre que los medios indicados no basten para contener el desorden del públic
 Lo mismo se verificará cuando los medios de prudencia no sean suficientes para restablecer el orden alterado por los miembros de la Cámara.
 
 ## Título Sexto. De la Etapa Prelegislativa
+
+### Capítulo Primero. Generalidades
 
 ###### Artículo 165.
 
@@ -1350,3 +1464,13 @@ P.O. 15 DE JUNIO DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 213 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Congreso del Estado, deberá desarrollar la plataforma que permita realizar las sesiones en línea, a partir de la entrada en vigor del presente Decreto.
