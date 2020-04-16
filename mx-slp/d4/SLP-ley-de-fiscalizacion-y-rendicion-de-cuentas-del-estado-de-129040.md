@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2020-03-10"
+last_updated: "2020-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -628,6 +628,12 @@ De la revisión efectuada al ejercicio fiscal en curso o a los ejercicios anteri
 ###### ARTÍCULO 54.
 
 Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a la Ley Responsabilidades procedan ni de otras que se deriven de la revisión de la Cuenta Pública.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 54 BIS. El Congreso del Estado podrá solicitar a la Auditoría Superior del Estado, mediante la práctica de una auditoría especial, la revisión inmediata de la gestión financiera de cualquiera de las entidades fiscalizadas, sea del ejercicio fiscal en curso o de ejercicios anteriores. La auditoría especial será solicitada mediante iniciativa de Acuerdo Económico, y siempre que existan elementos de prueba suficientes que hagan presumir el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, correspondiendo a la Comisión de Vigilancia la dictaminación de la solicitud planteada.
+
+Aprobada la solicitud de la auditoría especial, la Auditoría Superior del Estado procederá a su realización en forma inmediata, debiendo estar a lo dispuesto en los artículos, 52 y 53 de esta Ley.
 
 ## TÍTULO CUARTO. DETERMINACIÓN DE DAÑOS Y PERJUICIOS Y DEL FINCAMIENTO DE RESPONSABILIDADES
 
@@ -1332,3 +1338,11 @@ P.O. 10 DE MARZO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 16 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0660.- SE ADICIONA EL ARTÍCULO 54 BIS, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
