@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ciencia-y-tecnologia-del-estado-de-san-luis-potosi-34229
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2020-03-26"
+last_updated: "2020-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -35,7 +35,7 @@ DECRETO 580
 
 LA QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE SAN LUIS POTOSI
 
@@ -53,11 +53,13 @@ Son objetivos específicos de esta Ley:
 
 I. Establecer los mecanismos e instrumentos conforme a los cuales el gobierno del Estado y los municipios, apoyarán las actividades de investigación científica y desarrollo tecnológico que realicen personas físicas o morales, de los sectores público, social y privado;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2020)</small>
 
-II. Fortalecer el Sistema de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí, mediante el establecimiento de mecanismos de concertación y participación de la comunidad científica y académica, para la generación y formulación de políticas de promoción, difusión, desarrollo y aplicación de la ciencia y la tecnología; así como para la formación y capacitación de recursos humanos de alto nivel académico en el Estado;
+II. Fortalecer el Sistema de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí, mediante el establecimiento de mecanismos de concertación y participación equitativa y sin discriminación entre hombres y mujeres, con inclusión de perspectiva de género con visión transversal de la comunidad científica y académica, para la generación y la formulación de políticas de promoción, difusión, desarrollo y aplicación de la ciencia y tecnología; así como para la formación y capacitación de recursos humanos de alto nivel académico en el Estado;
 
-III. (DEROGADA, P.O. 20 DE AGOSTO DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2020)</small>
+
+III. Impulsar políticas públicas que se establezcan en programas específicos que fomenten en las mujeres la producción intelectual y su difusión, así como su formación e interés en las actividades de investigación científica, desarrollo tecnológico e innovación;
 
 IV. Disponer los instrumentos de promoción del desarrollo sustentable, la competitividad económica y la mejoría de la calidad de vida, vinculando la investigación científica y tecnológica con la educación;
 
@@ -710,5 +712,21 @@ P.O. 26 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0651.- SE REFORMA EL ARTÍCULO 20 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTÍCULO 20 LA FRACCIÓN VI, DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis “.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0661.- SE REFORMA EL ARTÍCULO 2° SU FRACCIÓN III, DE (SIC) LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0664.- SE REFORMA EL ARTÍCULO 2° EN SU FRACCIÓN II, DE (SIC) LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
