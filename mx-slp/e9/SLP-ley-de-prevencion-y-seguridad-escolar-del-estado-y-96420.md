@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-seguridad-escolar-del-estado-y-96420"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2019-06-01"
+last_updated: "2020-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 12 de octubre de 2013.
 
@@ -195,7 +195,9 @@ VI. La Ley de Salud del Estado de San Luis Potosí;
 
 VII. El Código Penal del Estado de San Luis Potosí;
 
-VIII. El Código de Procedimientos Penales para el Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2020)</small>
+
+VIII. El Código Nacional de Procedimientos Penales;
 
 IX. El Código Civil para el Estado de San Luis Potosí;
 
@@ -207,7 +209,9 @@ XII. La Ley para la Inclusión de las Personas con Discapacidad en el Estado y M
 
 XIII. La Ley para prevenir y erradicar la discriminación para el Estado de San Luis Potosí;
 
-XIV. La Ley para Prevenir, Atender y Erradicar la Trata de Personas en el Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2020)</small>
+
+XIV. La Ley para Prevenir, Sancionar, y Erradicar los Delitos en Materia de Trata de Personas; y para la Protección y Asistencia a las Víctimas de estos Delitos, para el Estado de San Luis Potosí;
 
 XV. La Ley Reglamentaria del Artículo 9° de la Constitución Política del Estado, sobre los Derechos y la Cultura Indígena;
 
@@ -922,5 +926,13 @@ P.O. 1 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0171.- SE REFORMAN LOS ARTÍCULOS 22 EN SU PÁRRAFO SEGUNDO Y 23 EN SU FRACCIÓN XII, DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0662.- SE REFORMA EL ARTÍCULO 6° EN SUS FRACCIONES VIII Y XIV, DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
