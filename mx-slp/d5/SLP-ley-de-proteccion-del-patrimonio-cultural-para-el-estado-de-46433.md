@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-464
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2019-05-09"
+last_updated: "2020-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2005.
 
@@ -443,6 +443,34 @@ VIII. Proponer reconocimientos o estímulos por méritos o acciones destacadas, 
 
 Las propuestas de declaratorias podrán realizarlas de manera conjunta o independiente, las autoridades e instituciones estatales y municipales, los organismos auxiliares, así como los particulares.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2020)</small>
+
+Las propuestas de declaratoria deberán contener como mínimo los siguientes elementos:
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2020)</small>
+
+I. Nombre y domicilio del promovente;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2020)</small>
+
+II. Fundamentación legal de la declaratoria;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2020)</small>
+
+III. Propietario o propietarios del bien en caso de existir;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2020)</small>
+
+IV. Argumentación sobre el valor cultural y valor social del bien, incluyendo sus cualidades patrimoniales, materiales o inmateriales, según sea el caso, en los términos de las fracciones XIII y XIV del artículo 5° de esta Ley, y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2020)</small>
+
+V. Impactos positivos de la declaratoria.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2020)</small>
+
+Además de lo anterior, los elementos previstos en el artículo 22 del Reglamento de esta Ley.
+
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 33.
@@ -824,5 +852,13 @@ P.O. 9 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0162.- SE REFORMAN LOS ARTÍCULOS, 3°, 5°, 7°, 23, 40, 41, 42, 43, 64 Y 65 DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0663.- SE ADICIONA AL ARTÍCULO 32 SIETE PÁRRAFOS, DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
