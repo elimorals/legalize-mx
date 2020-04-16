@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2020-del-pleno-del-consejo-de-la-142283"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-03-20"
-last_updated: "2020-04-09"
+last_updated: "2020-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142283&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2020-03-17"
 
 ACUERDO GENERAL 5/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS DE CONTINGENCIA EN LAS ÁREAS ADMINISTRATIVAS DEL PROPIO CONSEJO POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE ABRIL DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2020.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 20 de marzo de 2020.
 
@@ -45,9 +43,11 @@ En consecuencia, con apoyo en los párrafos primero y séptimo del artículo 100
 
 ACUERDO
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE ABRIL DE 2020)</small>
+
 ###### Artículo 1.
 
-Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 18 de marzo al 19 de abril de 2020.
+Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 18 de marzo al 5 de mayo de 2020.
 
 > <small>(F. DE E., D.O.F. 9 DE ABRIL DE 2020)</small>
 
@@ -65,7 +65,9 @@ Cada titular de secretaría ejecutiva, órgano auxiliar y demás unidades admini
 
 Para el personal que se quede de guardia, habrá de disponerse lo siguiente:
 
-I. Durante el período señalado en el artículo 1, quedarán exentas de presentarse físicamente a la realización de las guardias quienes se encuentren en una situación especial de vulnerabilidad, es decir, las personas adultas mayores de 60 años, mujeres embarazadas o en lactancia, y personas con diabetes, hipertensión, enfermedades cardiovasculares, enfermedades pulmonares crónicas, cáncer y con inmunodeficiencias.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE ABRIL DE 2020)</small>
+
+I. Durante el período señalado en el artículo 1, quedarán exentas de presentarse físicamente a la realización de las guardias quienes se encuentren en una situación especial de vulnerabilidad, es decir, las personas adultas mayores de 60 años, mujeres embarazadas o en estado de puerperio inmediato o lactancia, y personas con diabetes, hipertensión, enfermedades cardiovasculares, enfermedades pulmonares crónicas, cáncer, inmunosupresión (adquirida o provocada), o con insuficiencia renal o hepática.
 
 II. No podrán acudir a las áreas administrativas menores de edad, por lo que se autoriza la ausencia de las y los servidores públicos que no tengan posibilidad de dejar a sus hijas e hijos menores de edad al cuidado de otra persona durante el periodo que comprenda la contingencia.
 
@@ -101,11 +103,13 @@ VI. La o el servidor público que actúe como suplente deberá rendir un informe
 
 En el caso de las obras cuya entrega o entregas estén calendarizadas o sujetas a plazos, las áreas administrativas, por conducto de la Secretaría Ejecutiva de Administración, solicitarán semanalmente a la Comisión Especial los ajustes a dichos calendarios. A partir de la reanudación ordinaria de labores, las áreas encargadas de la supervisión de las mismas elaborarán un informe para conocimiento de los Comités respectivos y otro global para la Comisión de Administración.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 7/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE ABRIL DE 2020)</small>
+
 ###### Artículo 7.
 
-Como consecuencia de las medidas antes descritas, se suspenderán las visitas ordinarias a los órganos jurisdiccionales, y no correrán plazos y términos para rendir informes circunstanciados. A partir de la reanudación ordinaria de labores, se publicará el nuevo calendario.
+Como consecuencia de las medidas antes descritas, se suspenderán las visitas ordinarias a los órganos jurisdiccionales programadas durante el periodo de suspensión de labores y en los diez días hábiles después de su conclusión, salvo que el Visitador General estime necesario ampliar ese plazo, de modo que no correrán plazos y términos para rendir informes circunstanciados. A partir de la regularización de labores, la Visitaduría Judicial publicará el nuevo calendario para la realización de visitas ordinarias.
 
-Asimismo, se suspenden los plazos para rendir la información estadística.
+Asimismo, se suspenden los plazos para rendir la información estadística. A partir de la reanudación ordinaria de labores, el área competente publicará el nuevo plazo extraordinario para rendir los reportes estadísticos correspondientes.
 
 ###### Artículo 8.
 
@@ -130,3 +134,13 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en internet.
 
 El LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 5/2020, del Pleno del Consejo de la Judicatura Federal, relativo a las medidas de contingencia en las áreas administrativas del propio Consejo por el fenómeno de salud pública derivado del virus COVID-19, fue aprobado por el Pleno del Consejo, en sesión extraordinaria de 17 de marzo de 2020, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 17 de marzo de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 7/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 5/2020, RELATIVO A LAS MEDIDAS DE CONTINGENCIA EN LAS ÁREAS ADMINISTRATIVAS DEL PROPIO CONSEJO POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en los portales del Consejo de la Judicatura Federal en internet e intranet.
