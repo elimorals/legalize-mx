@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2019-12-12"
+last_updated: "2020-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -521,9 +521,7 @@ XXXV.- Regular la Red Estatal de Bibliotecas Públicas, a través de la Coordina
 
 XXXVI.- Establecer los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias; y, en su caso, revisar aquellas que considere excesivas, pudiendo emitir observaciones y recomendar la disminución de las mismas;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
-
-XXXVII.- Establecer los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o cuotas voluntarias;
+XXXVII.- (DEROGADA, P.O. 16 DE ABRIL DE 2020)
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -2558,6 +2556,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0324.- SE ADICIONA AL ARTÍCULO 143 BIS LOS PÁRRAFOS SEGUNDO A SÉPTIMO DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA Y ADICIONA EL ARTÍCULO 42 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0665.- SE DEROGA DEL ARTÍCULO 22 LA FRACCIÓN XXXVII, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
