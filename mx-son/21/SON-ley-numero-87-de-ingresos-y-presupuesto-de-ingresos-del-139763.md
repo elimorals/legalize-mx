@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-87-de-ingresos-y-presupuesto-de-ingresos-del-139763"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-27"
-last_updated: "2019-12-27"
+last_updated: "2020-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL ESTADO DE SONORA PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 27 de diciembre de 2019.
 
@@ -287,9 +287,29 @@ III. Los recursos líquidos señalados en el primer párrafo del presente artíc
 
 > <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN ESPECIAL DEL B.O. DE 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 21 A LA 23.]</small>
 
-Los montos de los proyectos de inversión pública antes referidos, podrán ser modificados por el Ejecutivo del Estado, y aplicar el recurso del financiamiento a proyectos adicionales dentro de los rubros generales de inversión pública productiva antes mencionados, en caso de que, a juicio del Secretario de Hacienda, en conjunto con el ente ejecutor del proyecto, ocurra alguno de los supuestos siguientes (i) por imposibilidad jurídica o material, (ii) retrasos en la asignación de los proyectos, o (iii) en el caso de economías en los procesos de adjudicación y desarrollo de las obras. La Secretaría de Hacienda deberá informar al Congreso de dichas modificaciones, a través de los reportes trimestrales correspondientes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 16 DE ABRIL DE 2020)</small>
 
 Las dependencias o entidades ejecutoras de los proyectos de inversión pública antes referidos serán las responsables de dar cumplimiento al destino autorizado en el mismo y en la aplicación de los recursos del financiamiento, de conformidad con la Ley Estatal de Responsabilidades del Estado de Sonora y la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 16 DE ABRIL DE 2020)</small>
+
+En el supuesto de que no se requiera aplicar la cantidad total prevista para alguno o algunos de los rubros u obras enumeradas en el cuadro anterior, podrán ajustarse los montos de dichos conceptos para aplicar las cantidades remanentes a otro u otros de los rubros u obras enlistados.
+
+> <small>(ADICIONADO, B.O. 16 DE ABRIL DE 2020)</small>
+
+En los casos de que se presenten circunstancias extraordinarias que modifiquen las prioridades del gasto estatal de inversión, de que existan razones de fuerza mayor que impidan ejecutar obras incluidas en el cuadro anterior, o que se requiera atender inversiones públicas productivas previstas en el Presupuesto de Egresos del Estado, los montos de las obras y rubros a que se refiere el cuadro precedente podrán ser reducidos y reasignarse a inversiones públicas productivas consistentes en equipamiento médico e instrumental médico y de laboratorio; construcción, mejoramiento, rehabilitación y reposición de bienes de dominio público; su equipamiento; equipo de defensa y seguridad y la adquisición de bienes para la prestación de un servicio público específico, conforme al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable. En cualquier caso, se deberá acatar lo previsto en el Artículo 2, fracción XXV de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en cuyo caso el Ejecutivo deberá informar al Congreso del Estado las reasignaciones efectuadas.
+
+> <small>(ADICIONADO, B.O. 16 DE ABRIL DE 2020)</small>
+
+Para efectos del párrafo anterior, hasta el 40% del total de los recursos autorizados en el primer párrafo del presente artículo, se deberán utilizar para la atención de las necesidades urgentes y relevantes que permitan preservar la vida y la salud de los habitantes del estado, dando alta prioridad a la adquisición de equipo médico de los denominados respiradores artificiales o ventiladores, para el combate de la contingencia sanitaria generada por el virus COVID 19, con la finalidad de atender el derecho humano de protección a la salud.
+
+> <small>(ADICIONADO, B.O. 16 DE ABRIL DE 2020)</small>
+
+Los recursos destinados al mejoramiento de la infraestructura hospitalaria y equipamiento, deberán distribuirse entre todos los hospitales, clínicas y centros de salud del Estado, garantizando que los hospitales, clínicas y centros de salud que se encuentran en los municipios rurales, cuenten con suficiencia de equipamiento para atender adecuadamente a los habitantes de dichos municipios rurales, para garantizar de manera efectiva y eficaz el derecho humano de acceso a la salud en las áreas rurales, mencionado en el párrafo anterior.
+
+> <small>(ADICIONADO, B.O. 16 DE ABRIL DE 2020)</small>
+
+Las dependencias o entidades ejecutoras de los proyectos de inversión pública antes referidos, serán las responsables de dar cumplimiento al destino autorizado en el mismo y en la aplicación de los recursos del financiamiento.
 
 IV. Las cantidades adicionales que se contraten para la contratación de Instrumentos Derivados y/o Garantías de Pago (como dicho término se define en el párrafo IX); así como el pago de honorarios y gastos de calificadoras, asesores financieros, legales, fiduciarios y/o de fedatarios públicos será por hasta el 1.2% (uno punto dos por ciento) del monto contratado de los financiamientos. Lo anterior, en el entendido que los gastos y costos derivados de la contratación de los financiamientos no podrán ser con cargo a los financiamientos que en su caso tengan como fuente de pago el Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas.
 
@@ -490,3 +510,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintisiete días del mes de diciembre del año dos mil diecinueve.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 16 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 110, QUE DEROGA EL PÁRRAFO SEGUNDO Y ADICIONA LOS PÁRRAFOS CUARTO, QUINTO, SEXTO, SÉPTIMO Y OCTAVO A LA FRACCIÓN III DEL ARTÍCULO 16 DE LA LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL GOBIERNO DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2020".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
