@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-funcion-publica-1226
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-07-19"
-last_updated: "2017-07-19"
+last_updated: "2020-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122603&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-07-18"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA
 
+[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA, PUBLICADO EN EL D.O.F. 16 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO; NO OBSTANTE CONTINUARÁN EN VIGOR LAS ATRIBUCIONES QUE REGULA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA QUE SE ABROGA EN LOS TÉRMINOS DEL DÉCIMO TRANSITORIO DEL CITADO REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA DE D.O.F. 16 DE ABRIL DE 2020].
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2020 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección al Número 13 del Diario Oficial de la Federación, el miércoles 19 de julio de 2017.
 
@@ -3560,3 +3562,37 @@ SEXTO.- Continuarán en vigor los acuerdos que hayan sido expedidos por el Secre
 SÉPTIMO.- Las disposiciones del Reglamento Interior de la Secretaría de la Función Pública que se abroga con el presente ordenamiento, seguirán aplicándose en la tramitación de los procedimientos de responsabilidad administrativa de los servidores públicos iniciados con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, en términos del párrafo cuarto del tercero transitorio del Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el 18 de julio de 2016 en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- La Secretaria de la Función Pública, Arely Gómez González.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Función Pública, publicado el 19 de julio de 2017 en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO.- Los procesos, procedimientos, actos, actividades, funciones, trámites y servicios, iniciados antes de la entrada en vigor del presente Reglamento, se seguirán tramitando hasta su conclusión conforme a las disposiciones del Reglamento vigente al momento de su inicio. En los casos de las unidades administrativas que modifican su denominación, utilizarán su nueva denominación, sin perjuicio de que ejerzan atribuciones conferidas al amparo del Reglamento abrogado.
+
+Los sistemas electrónicos con que cuenta la Secretaría de la Función Pública seguirán siendo operados por la unidad administrativa que lo administraba antes de la entrada en vigor del presente Reglamento, hasta en tanto no se realicen las adecuaciones tecnológicas y se brinde la capacitación necesaria para su transferencia a las unidades administrativas.
+
+QUINTO.- Los procesos, procedimientos, actos, actividades, funciones, trámites y servicios serán atendidos y resueltos por las unidades administrativas de la Secretaría de la Función Pública a las que se les da la competencia conforme a este Reglamento.
+
+SEXTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas de la Secretaría de la Función Pública que cambian de denominación por virtud del presente ordenamiento, se entenderán hechas u otorgadas a las unidades administrativas que resulten competentes conforme al mismo.
+
+SÉPTIMO.- Para efectos de armonización administrativa e integración jurídica, deberán realizarse las modificaciones a la estructura orgánica a la brevedad posible.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, así como las modificaciones a las atribuciones conferidas a la estructura orgánica de la Secretaría de la Función Pública, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha Dependencia.
+
+La Unidad de Administración y Finanzas de la Secretaría de la Función Pública realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades administrativas o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento, de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+La Secretaría de la Función Pública en los casos de creación, así como de supresión de puestos, deberá determinar lo conducente, con sujeción a las disposiciones jurídicas aplicables, sin perjuicio de los derechos de los trabajadores.
+
+OCTAVO.- Las unidades administrativas de la Secretaría de la Función Pública cuya denominación o adscripción sea modificada, o se extingan en virtud de la entrada en vigor del presente Reglamento, dispondrán de lo necesario para que todos los documentos de archivo e instrumentos de consulta y control archivístico sean clasificados y trasladados a los archivos que correspondan, con el apoyo del área coordinadora de archivos de dicha Dependencia, de conformidad con la normatividad en materia archivística y demás disposiciones jurídicas aplicables.
+
+NOVENO.- La fracción XII del artículo 55 de este Reglamento, entrará en vigor una vez se hayan realizado las adecuaciones normativas correspondientes.
+
+DÉCIMO.- Para efectos de lo dispuesto en el Transitorio Octavo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal publicado el 30 de noviembre de 2018 en el Diario Oficial de la Federación, en tanto no sea modificado el Reglamento Interior de la Secretaría de Hacienda y Crédito Público con el objeto de distribuir entre las unidades administrativas de dicha dependencia las atribuciones inherentes a la planeación, establecimiento y conducción de la política general en materia de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como demás atribuciones que fueron transferidas de la Secretaría de la Función Pública a la Secretaría de Hacienda y Crédito Público en términos del citado Decreto, continuarán en vigor las atribuciones que conforme al Reglamento Interior de la Secretaría de la Función Pública que se abroga por virtud de este instrumento, se tienen otorgadas a la Unidad de Normatividad de Contrataciones Públicas y a la Unidad de Política de Contrataciones Públicas, así como en su caso, a sus direcciones generales, direcciones generales adjuntas y direcciones de área.
