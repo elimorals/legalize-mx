@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-02-29"
+last_updated: "2020-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1597,11 +1597,21 @@ Quebrantamiento de sellos.
 
 186.- Cuando de común acuerdo, quebrantaran las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de cincuenta a quinientos pesos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ABRIL DE 2020)</small>
+
 ### CAPITULO IV.
 
-Delitos cometidos contra funcionarios públicos.
+Delitos cometidos contra servidores y funcionarios públicos.
 
-187.- Al que cometa un delito en contra de un funcionario público o agente de la autoridad en el acto de ejercer sus funciones, o con motivo de ella, se le aplicarán de tres días a tres años de prisión, además de la que le corresponda por el delito cometido.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2020)</small>
+
+187.- Al que cometa un delito en contra de un servidor o funcionario público o agente de la autoridad en el acto de ejercer lícitamente sus funciones, o con motivo de ellas, se le aplicarán de tres días a tres años de prisión, además de la que le corresponda por el delito cometido.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2020)</small>
+
+187 Bis.- Cuando las conductas a que se refiere el artículo anterior, sean cometidas en contra de cualquier servidor público que pertenezca al Sistema Estatal de Salud durante el período que comprenda la declaración de una emergencia sanitaria, la pena de prisión deberá aumentarse hasta en tres años más, además de la que le corresponda por el delito cometido.
+
+En el supuesto anterior, el delito se perseguirá de oficio.
 
 188.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
@@ -4135,6 +4145,10 @@ V. Niegue o restrinja derechos educativos.
 
 Al responsable se le impondrá la sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientos días multa.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2020)</small>
+
+Cuando las conductas a que se refiere este artículo sean cometidas en contra de médicos, cirujanos, personal de enfermería y demás profesionistas similares y auxiliares o de cualquier personal de salud del sector privado o público que presten sus servicios en el Estado, durante el período que comprenda la declaración de una emergencia sanitaria, la pena de prisión se incrementará en una mitad o de doscientos veinticinco a cuatrocientos cincuenta días de trabajo a favor de la comunidad y hasta cuatrocientos días multa.
+
 Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación a que tenga derecho se le aumentará en una mitad la pena prevista en el segundo párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
 
 No serán consideradas discriminatorias todas aquellas medidas tendentes a la protección de los grupos socialmente desfavorecidos.
@@ -5188,3 +5202,11 @@ P.O. 29 DE FEBRERO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
+
+P.O. 17 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1502.- MEDIANTE EL CUAL REFORMAN EL ARTÍCULO 187, Y LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO CUARTO DEL LIBRO SEGUNDO; Y SE ADICIONA EL ARTÍCULO 187 BIS Y UN TERCER PÁRRAFO AL ARTÍCULO 412 BIS RECORRIÉNDOSE LOS SUBSECUENTES, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
