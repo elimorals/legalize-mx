@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2020-03-24"
+last_updated: "2020-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -74,6 +74,10 @@ El Congreso del Estado reside en la Ciudad de San Luis Potosí, Capital del Esta
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
 
 El Congreso podrá sesionar en la Capital del Estado en otro recinto distinto del habitual, cuando así lo requiera la celebración de sesiones solemnes o cuando se den circunstancias extraordinarias; o bien, en otra ciudad de la Entidad, cuando así lo acuerde el pleno del Congreso del Estado, para lo cual, el lugar seleccionado deberá ser declarado recinto oficial, por el voto de cuando menos las dos terceras partes de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+En epidemias; peligro de invasión; caso fortuito o fuerza mayor, en el país o en el Estado, la Directiva podrá fijar la modalidad de sesiones no presenciales, mediante video conferencia, trabajo a distancia, o medios virtuales análogos que permitan la comunicación simultánea, con transmisión en tiempo real, estando sólo presentes en el recinto legislativo para la conducción protocolaria de la Sesión, los integrantes de la Directiva, así como personal adscrito al Congreso del Estado, que así se determine.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
 
@@ -491,7 +495,9 @@ II.- Extraordinarias: las que se realicen cuando así lo demanden los asuntos a 
 
 Las sesiones a que se refiere el artículo anterior, según los asuntos que se traten, podrán ser:
 
-I. Públicas: cuando al celebrarse permitan el acceso al público en el recinto oficial;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2020)</small>
+
+I. Públicas: cuando al celebrarse permitan el acceso al público en el recinto oficial; o no presenciales, mediante video conferencia, trabajo a distancia, o medios virtuales análogos que permitan la comunicación simultánea, con transmisión en tiempo real;
 
 II. Privadas: cuando se traten casos en los que quede prohibido el acceso al público y a los empleados del Congreso del Estado.
 
@@ -2077,9 +2083,9 @@ XI. La estructura orgánica y funciones de cada unidad administrativa;
 
 XII. El directorio de servidores públicos, así como currículum vitae de diputados, Oficial Mayor, directores, coordinadores y asesores del Congreso, y de los grupos parlamentarios;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2020)</small>
 
-XIII. Los documentos, convocatorias, versiones videográficas de las comparecencias de los funcionarios públicos estatales, eventos y demás información que sea considerada relevante o de utilidad, respecto al funcionamiento del Congreso;
+XIII. Los documentos, convocatorias, versiones videográficas de las comparecencias de los funcionarios públicos estatales, video grabaciones de sesiones de Pleno o reuniones de comisiones, eventos y demás información que sea considerada relevante o de utilidad, respecto al funcionamiento del Congreso;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
 
@@ -2708,6 +2714,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 24 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0647.- SE REFORMA EL ARTÍCULO 67 EN SU FRACCIÓN IX; Y ADICIONA, AL ARTÍCULO 67 UNA FRACCIÓN Y LOS ARTÍCULOS 92 BIS Y 92 TER, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0667.- SE REFORMA LOS ARTÍCULOS 40 EN SU FRACCIÓN I Y 138 EN SU FRACCIÓN XIII; Y ADICIONA AL ARTÍCULO 5° UN PÁRRAFO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LOS ARTÍCULOS 10 EN SUS FRACCIONES VI Y VII, 18, 36, 111 EN SU FRACCIÓN I, 116 EN SUS FRACCIONES I Y II, 149 EN SU PÁRRAFO PRIMERO Y 150 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; Y ADICIONA AL ARTÍCULO 10 LA FRACCIÓN VIII, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
