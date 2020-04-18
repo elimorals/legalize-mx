@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2019-08-24"
+last_updated: "2020-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -157,7 +157,9 @@ Artículo 3
 
 2.- A falta de disposición expresa se aplicarán la jurisprudencia y los principios generales de derecho.
 
-3.- En lo no previsto por esta Ley se aplicaran supletoriamente las disposiciones contenidas en la Ley General, la Ley General de Partidos Políticos así como en el Código Federal de Procedimientos Civiles, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, el Código Civil y el de Procedimientos Civiles del Estado de Oaxaca y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+3.- En lo no previsto por esta Ley se aplicarán supletoriamente las disposiciones contenidas en la Ley General, la Ley General de Partidos Políticos, así como en el Código Federal de Procedimientos Civiles, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, los Principios Penales Sustantivos, el Código Civil y el de Procedimientos Civiles del Estado de Oaxaca, y demás disposiciones aplicables.
 
 Artículo 4
 
@@ -5598,3 +5600,11 @@ P.O. 24 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 706.-: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1497.- MEDIANTE EL CUAL SE REFORMA EL NUMERAL 3 DEL ARTÍCULO 3 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
