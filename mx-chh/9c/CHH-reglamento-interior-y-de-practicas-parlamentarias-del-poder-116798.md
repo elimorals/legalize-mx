@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2020-02-12"
+last_updated: "2020-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -797,6 +797,10 @@ III.- Por escrito y en formato electrónico en la Secretaría de Asuntos Legisla
 
 Tratándose de las iniciativas que se presenten en los términos de las fracciones II y III deberán hacerse del conocimiento de las y los Diputados a más tardar al día siguiente hábil al de su recepción.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+En el caso de las iniciativas referidas en la fracción I, con la finalidad de ilustrar la exposición de motivos, el Diputado o Diputada exponente podrá solicitar la proyección de videos e imágenes.
+
 ###### ARTÍCULO 78.
 
 Una iniciativa presentada, solamente puede ser retirada por quien o por unanimidad de quienes la hayan presentado, antes de haber sido dictaminada, bajo el siguiente procedimiento:
@@ -837,7 +841,11 @@ V.- La firma: Es la rúbrica de las y los integrantes presentes en la reunión d
 
 Las y los integrantes de la comisión deberán firmar los dictámenes asentando el sentido de su voto.
 
-VI.- Fecha y registro de votación.- Es la expresión del sentido del voto de los integrantes de la comisión, que podrá ser “a favor”, “en contra” o “en abstención”, asentando la fecha de la reunión en que se apruebe el dictamen.
+VI.- Fecha y registro de votación.- Es la expresión del sentido del voto de los integrantes de la comisión, que podrá ser "a favor", "en contra" o "en abstención", asentando la fecha de la reunión en que se apruebe el dictamen.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+Al momento de dar lectura a las consideraciones del Dictamen, podrá leerse algún documento, así como también proyectarse videos e imágenes, en relación con el tema a analizar.
 
 ###### ARTÍCULO 82.
 
@@ -1776,3 +1784,11 @@ P.O. 12 DE FEBRERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0706/2020 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
