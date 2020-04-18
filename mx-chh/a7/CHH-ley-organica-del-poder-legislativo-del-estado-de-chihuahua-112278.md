@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2020-02-12"
+last_updated: "2020-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -821,7 +821,13 @@ XII.- Dar trámite a los acuerdos de la Presidencia.
 
 XIII.- Expedir y certificar, en su caso, las copias de documentos oficiales del Congreso.
 
-XIV.- Las demás que se deriven de esta Ley, su reglamentación y otros ordenamientos legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2020)</small>
+
+XIV.- En relación con el procedimiento de reforma establecido en el numeral 202 de la Constitución Política del Estado de Chihuahua, hacer el cómputo de las resoluciones emitidas por los ayuntamientos que aprobaron e informar a la Presidencia el resultado, para que esta haga la declaratoria constitucional de las reformas, adiciones o derogaciones, en su caso.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE ABRIL DE 2020)</small>
+
+XV.- Las demás que se deriven de esta Ley, su reglamentación y otros ordenamientos legales.
 
 ### CAPÍTULO VIII. DE LA DIPUTACIÓN PERMANENTE
 
@@ -2211,6 +2217,10 @@ La presentación de iniciativas con carácter de Punto de Acuerdo corresponde, e
 
 Las iniciativas de Ley, de Decreto, de Punto de Acuerdo o de Iniciativa de Ley o de Decreto ante el Honorable Congreso de la Unión, deberán presentarse en lenguaje incluyente o neutro; contendrán una exposición de motivos, en la que se expresen los fundamentos legales y los argumentos en que sustentan el planteamiento y, en su caso, el articulado que propongan.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+Con la finalidad de ilustrar la exposición de motivos, el Diputado o Diputada exponente, al dar lectura a la iniciativa, podrá solicitar el apoyo técnico necesario para la proyección de videos e imágenes.
+
 ###### ARTÍCULO 171.
 
 Las iniciativas deberán dictaminarse conforme a lo siguiente:
@@ -2359,7 +2369,9 @@ V.- Se señalará la duración de las intervenciones de los oradores, tanto para
 
 VI.- No podrán hacerse discusiones en forma de diálogo.
 
-VII.- Podrá darse lectura de algún documento en relación con el debate para ilustrar la discusión.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2020)</small>
+
+VII.- Podrá darse lectura de algún documento, así como también solicitarse el apoyo técnico necesario para la proyección de videos e imágenes, en relación con el debate para ilustrar la discusión.
 
 VIII.- Quien presida la Mesa Directiva, si así lo considera, declarará suficientemente discutido un asunto o, en su caso, preguntará y someterá al Pleno tal circunstancia.
 
@@ -3066,3 +3078,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Comisión de Fiscalización continuará con los trabajos de registro, control y resguardo de las declaraciones de situación patrimonial de las y los servidores públicos del Congreso, hasta en tanto se constituya y entre en funciones el Órgano Interno de Control del Poder Legislativo.
+
+P.O. 18 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0705/2020 II P.O., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIV Y SE ADICIONA UNA XV, AL ARTÍCULO 79 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódicoo (sic) Oficial del Estado de Chihuahua.
+
+P.O. 18 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0706/2020 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódicoo (sic) Oficial del Estado de Chihuahua.
