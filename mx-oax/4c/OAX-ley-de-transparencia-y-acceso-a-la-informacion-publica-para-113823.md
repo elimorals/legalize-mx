@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2020-03-14"
+last_updated: "2020-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -561,13 +561,31 @@ Para el caso de las Obligaciones que debe publicar la Fiscalía General del Esta
 
 El Tribunal Electoral del Estado de Oaxaca deberá poner a disposición del público y actualizar la información contenida en el artículo 70 de la Ley General, así como, las que les sean aplicables y les correspondan, conforme a las disposiciones normativas aplicables y además deberá publicar y actualizar la siguiente información:
 
-I. Las versiones públicas de las sentencias;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2020)</small>
+
+I. Las versiones públicas de las sentencias, así como sus votos particulares, votos razonados y demás datos relevantes, si los hubiere;
 
 II. Los acuerdos del Pleno;
 
-III. En su caso, las versiones estenográficas de las sesiones públicas, y
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2020)</small>
 
-IV. Las demás que le señalen las disposiciones normativas electorales aplicables a la materia.
+III. Acuerdos dictados por los Magistrados instructores, Presidente o los magistrados, en los medios de impugnación;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2020)</small>
+
+IV. Los acuerdos que se publiquen diariamente en los estrados;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2020)</small>
+
+V. Calendario anual de días hábiles; recogen (sic)
+
+VI. En su caso, las versiones estenográficas de las sesiones públicas, y
+
+VII. Las demás que le señalen las disposiciones normativas electorales aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+La publicación a que se refieren las fracciones I, II, III y IV, se deberán realizar a más tardar al día siguiente de su emisión. Cuando se emita un voto particular o razonado. Se estará a lo dispuesto por la ley respectiva.
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -599,9 +617,13 @@ IX. Los montos de financiamiento público por actividades ordinarias, de campañ
 
 X. Los cómputos totales de las elecciones y procesos de participación ciudadana llevados a cabo en el Estado;
 
-XI. Las auditorías concluidas a los partidos políticos, y
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2020)</small>
 
-XII. Los informes sobre sus demás actividades.
+XI. Los resultados y declaraciones de validez de las elecciones, la cual deberá ser publicada (sic) a más tardar al día siguiente de su emisión;
+
+XII. Las auditorías concluidas a los partidos políticos, y
+
+XIII. Los informes sobre sus demás actividades.
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -2908,3 +2930,9 @@ P.O. 14 DE MARZO DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado; y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan y contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 18 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1495.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I; Y SE ADICIONAN LAS FRACCIONES III, IV Y V RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES FRACCIONES, ASÍ COMO UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE PÁRRAFO, AL ARTÍCULO 25; Y SE ADICIONA LA FRACCIÓN XI RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES FRACCIONES, AL ARTÍCULO 26, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
