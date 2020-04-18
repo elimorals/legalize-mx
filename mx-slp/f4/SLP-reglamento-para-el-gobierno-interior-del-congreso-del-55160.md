@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2020-03-24"
+last_updated: "2020-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -221,9 +221,17 @@ IV. Amonestar públicamente a los diputados que se hagan acreedores a la amonest
 
 V. Cuidar que los dictámenes que deban emitir las comisiones sean entregados para su aprobación al Pleno, dentro de los plazos y con los requisitos que establecen el artículo 92 de la Ley Orgánica y este Reglamento;
 
-VI. Recibir la protesta de los diputados en la forma como lo establece la Ley Orgánica; y la de los servidores públicos que deban otorgarla ante el Congreso, y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2020)</small>
 
-VII. Convocar a sesiones extraordinarias cuando haya asuntos o negocios que por su gravedad o urgencia lo requieran. También por solicitud del Poder Ejecutivo, o de algún diputado.
+VI. Recibir la protesta de los diputados en la forma como lo establece la Ley Orgánica; y la de los servidores públicos que deban otorgarla ante el Congreso;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2020)</small>
+
+VII. Convocar a sesiones extraordinarias cuando haya asuntos o negocios que por su gravedad o urgencia lo requieran. También por solicitud del Poder Ejecutivo, o de algún diputado, y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2020)</small>
+
+VIII. Convocar, en el supuesto de que ocurran epidemias; peligro de invasión; caso fortuito o fuerza mayor, en el país o en el Estado, a sesión no presencial, la que se celebrará mediante video conferencia, trabajo a distancia, o medios virtuales análogos que permitan la comunicación y deliberación simultánea, con transmisión en tiempo real.
 
 #### Sección Primera. Del Presidente y Vicepresidentes
 
@@ -383,9 +391,11 @@ Los prosecretarios deberán auxiliar a los secretarios en el desempeño de sus f
 
 La Diputación Permanente se integrará y realizará sus funciones en los recesos del Congreso, conforme a las atribuciones que le confiere la Ley Orgánica y el presente Reglamento.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 18.
 
-La Diputación Permanente deberá reunirse en sesiones cuando menos una vez a la semana, en el recinto del Congreso.
+La Diputación Permanente deberá reunirse en sesiones cuando menos una vez a la semana, en el recinto del Congreso. En el supuesto de epidemias, peligro de invasión, caso fortuito o fuerza mayor en el país o en el Estado, fijará la modalidad de sesiones no presenciales, mediante video conferencias, trabajo a distancia, o medios virtuales análogos que permitan la comunicación y deliberación simultánea, con transmisión en tiempo real. Estando sólo presentes en el recinto legislativo para la conducción protocolaria de la sesión, quien presida, y la o el secretario, así como personal adscrito al Congreso del Estado, que así se determine.
 
 ###### ARTICULO 19.
 
@@ -495,9 +505,11 @@ IV. Permanentes.
 
 #### Sección Primera. De las Sesiones Públicas
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 36.
 
-Son sesiones públicas aquéllas en las que puede ingresar y estar presente el público en general, bajo las normas que establece el presente Reglamento.
+Son sesiones públicas aquéllas en las que puede ingresar y estar presente el público en general; así como las no presenciales mediante video conferencia, trabajo a distancia, o medios virtuales análogos que permitan la comunicación simultánea, con transmisión en tiempo real, bajo las normas que establece la Ley Orgánica y el presente Reglamento.
 
 ###### ARTICULO 37.
 
@@ -1111,7 +1123,11 @@ Para la aprobación o rechazo de los dictámenes de leyes; de decretos; de acuer
 
 La votación nominal se efectuará de la siguiente manera:
 
-I. Estando de pie cada diputado, luego de haberlo nombrado el secretario, manifestará el sentido de su voto;
+I. Estando de pie cada diputado, luego de haberlo nombrado el secretario, manifestará el sentido de su voto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2020)</small>
+
+En el supuesto de una sesión en la modalidad de videoconferencia que, derivado de los supuestos de emergencia enunciados en este ordenamiento se realice, el voto será verbal, claro y sonoro;
 
 II. El secretario registrará a los que con las palabras "a favor" voten afirmativamente; con las palabras "en contra", a los que voten negativamente; y con la palabra "abstención", a los que así lo manifiesten;
 
@@ -1163,9 +1179,13 @@ Si existe empate entre dos o más candidatos o planillas, después de un receso 
 
 Cuando se acuerde utilizar la votación económica, ésta habrá de efectuarse de la siguiente manera:
 
-I. Los legisladores que voten afirmativamente se pondrán de pie, esperando el tiempo necesario para que los cuente un secretario;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2020)</small>
 
-II. Los diputados que se manifiesten en forma negativa se pondrán de pie, esperando el tiempo necesario para que los cuente el secretario que corresponda; excepto el Presidente y secretarios de la Directiva, quienes lo harán sentados, manifestando el sentido de su voto en voz alta;
+I. Las o los legisladores que voten afirmativamente se pondrán de pie, o en manifestación verbal clara y sonora si es en forma no presencial, mediante video conferencia, trabajo a distancia, o medios virtuales análogos que permitan la comunicación simultánea, esperando el tiempo necesario para que los cuente un secretario;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2020)</small>
+
+II. Los diputados que se manifiesten en forma negativa se pondrán de pie, excepto el Presidente y secretarios de la Directiva, quienes lo harán sentados, manifestando el sentido de su voto en voz alta; si es en forma no presencial, mediante video conferencia, trabajo a distancia, o medios virtuales análogos que permitan la comunicación simultánea, o manifestación verbal clara y sonora; en ambos casos se deberá esperar el tiempo necesario para que los cuente el secretario que corresponda;
 
 III. El secretario dará a conocer el resultado a la Presidencia del Congreso, según se haya manifestado en una forma o en otra, lo cual se manifestará al Pleno;
 
@@ -1475,19 +1495,25 @@ V. Las demás que le atribuya la ley.
 
 #### Sección Sexta. De las Reuniones de las Comisiones y Comités
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 149.
 
-Las comisiones y comités del Congreso del Estado deberán reunirse cuando menos una vez al mes, para tratar los asuntos que les sean turnados por el Presidente de la Directiva en los periodos ordinarios, o por el Presidente de la Diputación Permanente en los recesos del mismo.
+Las comisiones y comités del Congreso del Estado deberán reunirse cuando menos una vez al mes, para tratar los asuntos que les sean turnados por el Presidente de la Directiva en los periodos ordinarios, o por el Presidente de la Diputación Permanente en los recesos del mismo. En el supuesto de epidemias, peligro de invasión, caso fortuito o fuerza mayor en el país o en el Estado, podrán celebrar reunión en forma no presencial, mediante video conferencia, trabajo a distancia, o medios virtuales análogos que permitan la comunicación simultánea, debiendo acordar los mecanismos y tiempos para recabar la firma autógrafa de dictámenes que se hayan aprobado, o de acuerdos adoptados.
 
 Una vez determinado el día y hora de reuniones ordinarias, a la brevedad posible lo harán del conocimiento de la Directiva del Congreso, y de la Coordinación de Asesoría y Secretariado Técnico de Comisiones, para efectos de ordenar la agenda general y evitar la duplicación de reuniones en los espacios destinados para ello.
 
 Asimismo, preferentemente los días viernes de cada semana en la que se hayan reunido, entregarán a la Directiva, y a la Junta, a través de la Coordinación de Asesoría y Secretariado Técnico de Comisiones, copia del acta respectiva, a fin de que aquéllas, de conformidad con sus atribuciones legales y reglamentarias, estén en posibilidad de dar seguimiento al avance de los trabajos de las comisiones y comités, y al cumplimiento de sus acuerdos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2020)</small>
+
 ###### ARTICULO 150.
 
-Para que las comisiones y comités puedan llevar a cabo la reunión, se requerirá la presencia de la mitad más uno de sus integrantes, y para que los acuerdos tomados sean válidos, el voto de la mitad más uno de los diputados presentes; en caso de empate, el presidente de la comisión o comité tendrá voto de calidad.
+Para que las comisiones y comités puedan llevar a cabo la reunión, se requerirá la presencia de la mitad más uno de sus integrantes, y para que los acuerdos tomados sean válidos, el voto de la mitad más uno de los diputados presentes; en caso de empate, el presidente de la comisión o comité tendrá voto de calidad. Se aplicará el mismo criterio en caso de reuniones no presenciales, mediante video conferencia, trabajo a distancia, o medios virtuales análogos que permitan la comunicación simultánea.
 
-En la votación de los dictámenes, acuerdos o resoluciones, los diputados deberán firmar al final de los mismos, asentando junto a su firma el sentido de su voto que podrá ser: a favor; en contra; o abstención.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+En la votación de los dictámenes, acuerdos o resoluciones, los diputados deberán firmar al final de los mismos, asentando junto a su firma el sentido de su voto que podrá ser: a favor; en contra; o abstención; en caso de reuniones no presenciales, mediante video conferencia, trabajo a distancia, o medios virtuales análogos que permitan la comunicación simultánea, se fijarán los mecanismos y tiempos para recabar la firma autógrafa de dictámenes que se hayan aprobado, o de acuerdos adoptados.
 
 Cuando un diputado tenga un voto particular sobre un dictamen, deberá hacerlo del conocimiento del presidente de la comisión y presentarlo por escrito, a fin de adjuntarlo al dictamen previo a su entrega a la Secretaría del Congreso.
 
@@ -2900,6 +2926,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 24 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0648.- SE REFORMA (SIC) LOS ARTÍCULOS 11 EN SUS FRACCIONES XXVII Y XXVIII Y 99 EN SU FRACCIÓN VIII EL INCISO B); ADICIONA AL ARTÍCULO 11 LA FRACCIÓN XXIX Y DEROGA EL ARTÍCULO 26, DEL REGLAMENTO INTERIOR PARA EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0667.- SE REFORMA (SIC) LOS ARTÍCULOS 40 EN SU FRACCIÓN I Y 138 EN SU FRACCIÓN XIII; Y ADICIONA AL ARTÍCULO 5º UN PÁRRAFO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA (SIC) LOS ARTÍCULOS 10 EN SUS FRACCIONES VI Y VII, 18, 36, 111 EN SU FRACCIÓN I, 116 EN SUS FRACCIONES I Y II, 149 EN SU PÁRRAFO PRIMERO Y 150 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; Y ADICIONA AL ARTÍCULO 10 LA FRACCIÓN VIII, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
