@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2020-04-17"
+last_updated: "2020-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2633,13 +2633,11 @@ En el supuesto anterior, el delito se perseguirá de oficio. En los demás casos
 
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2020)</small>
 
-246 BIS.- Se equipara a la violación y se sancionará de tres a siete años de prisión y multa de doscientos a cuatrocientas el valor de la unidad de medida y actualización.
+246 BIS.- Se equipara a la violación y se sancionará de catorce á veinte años de prisión y multa de seiscientos a un mil doscientas veces el valor de la unidad de medida y actualización, a quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción y el engaño.
 
-I. A quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio del engaño, cualquiera que haya sido el medio para lograrlo.
-
-Cuando la persona víctima directa fuere menor de quince años, se presumirá en todo caso la seducción o el engaño.
+La seducción y el engaño se presumirá en todo momento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -2655,9 +2653,9 @@ Se equipara a la violación y se sanciona con la misma pena, al que introduzca p
 
 Se impondrá sanción de veinte a treinta y dos años de prisión y multa de mil doscientas a mil setecientas veces el valor de la unidad de medida y actualización, cuando el sujeto pasivo sea menor de 18 años de edad, mayor de sesenta años, se encuentre privado de razón o sentido, o cuando por enfermedad o por cualquier otra causa no pudiese resistir el delito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2020)</small>
 
-248 Bis.- Las penas que corresponden a los delitos de abuso sexual previsto por el artículo 241, violación previsto por el artículo 246, violación equiparada previsto por el artículo 247 y violación tumultuaria previsto por el artículo 248, se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
+248 BIS.- Las penas que corresponden a los delitos de abuso sexual previsto por el artículo 241, violación, previsto por el artículo 246, violación equiparada, previsto por los artículos 246 BIS y 247, y violación tumultuaria, previsto por el artículo 248, se aumentarán hasta en una mitad en su mínimo y máximo cuando:
 
 > <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -4127,6 +4125,40 @@ Se entiende por misoginia las conductas contra la mujer que se manifiestan media
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
+### CAPITULO III BIS.
+
+Alteraciones a la Salud por Razón de Género.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+412-A.- Al que por sí o por interpósita persona infiera una alteración en la salud o cualquier otro daño que deje huella material en el cuerpo de una mujer por razón de género, usando para ello cualquier tipo de agente físico, químico o sustancia corrosiva, se le impondrá de veinte a treinta años de prisión y multa de doscientas a quinientas veces el valor diario de la unidad de medida y actualización.
+
+Se considera que existen razones de género, cuando ocurra indistintamente alguna de las siguientes circunstancias:
+
+I. Que la alteración o daño haya sido cometida por desprecio u odio a la víctima motivado por discriminación o misoginia;
+
+II. Que existan indicios o datos de violencia de cualquier tipo y ámbito en contra de la víctima por parte del sujeto activo, anterior o posterior a la conducta;
+
+III. Que existan datos de acoso u hostigamiento sexual en contra de la víctima por parte del sujeto activo, anterior o posterior a la conducta; o
+
+IV. Que la víctima haya sido incomunicada o privada de su libertad.
+
+Se impondrá de treinta a cuarenta años de prisión y multa de quinientas a mil veces el valor diario de la unidad de medida y actualización, si entre el activo y la víctima exista o haya existido una relación de parentesco por consanguinidad, afinidad, civil, matrimonio, concubinato, noviazgo, relaciones de convivencia o una relación similar, laboral o docente.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+412- B.- Las penas previstas en el artículo anterior se aumentarán en dos tercios de la mínima a dos tercios de la máxima en los siguientes casos:
+
+I. Cuando la conducta del sujeto activo cause destrucción de cualquier función orgánica de la víctima;
+
+II. Cuando la conducta del sujeto activo cause deformidad o daño permanente, pérdida parcial o total de la función anatómica de la víctima; o
+
+III. Cuando la conducta del sujeto activo cause deformidad incorregible en el rostro de la víctima.
+
+Las anteriores sanciones se impondrán con independencia de otros delitos que se llegaren a configurar.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
+
 ### CAPITULO IV. Discriminación
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
@@ -4161,26 +4193,6 @@ Este delito se perseguirá por querella.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-### CAPITULO V. Violencia Política
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
-
-412 TER.- Violencia Política es toda acción u omisión realizada por sí o a través de terceros que cause daño físico, psicológico, económico o sexual en contra de una o varias personas y/o de cualquier miembro de su familia, para restringir, suspender, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos-electorales o de las prerrogativas inherentes a un cargo público, o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-412 QUÁTER.- A quien cometa el delito de Violencia Política se impondrá prisión de dos a seis años y de cien a doscientas veces el valor diario de la unidad de medida y actualización.
-
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
-
-Si la conducta descrita en el artículo anterior se comete en contra de una o varias mujeres, se agrava la pena de tres a ocho años de prisión y de ciento cincuenta a doscientas veces el valor diario de la unidad de medida y actualización.
-
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
-
-Este delito se perseguirá de oficio.
-
-> <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
-
 ###### Artículo 412.
 
 A quien cometa el delito de feminicidio se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
@@ -4205,7 +4217,27 @@ Cuando la víctima sea niña, adolescente, persona adulta mayor, persona con dis
 
 En caso de no tener elementos suficientes del feminicidio, se judicializará por el delito de homicidio simple o calificado, según lo determine el Ministerio Público.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2020)</small>
+
+### CAPITULO V. Violencia Política
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+412 TER.- Violencia Política es toda acción u omisión realizada por sí o a través de terceros que cause daño físico, psicológico, económico o sexual en contra de una o varias personas y/o de cualquier miembro de su familia, para restringir, suspender, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos-electorales o de las prerrogativas inherentes a un cargo público, o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+412 QUÁTER.- A quien cometa el delito de Violencia Política se impondrá prisión de dos a seis años y de cien a doscientas veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+Si la conducta descrita en el artículo anterior se comete en contra de una o varias mujeres, se agrava la pena de tres a ocho años de prisión y de ciento cincuenta a doscientas veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+Este delito se perseguirá de oficio.
+
+> <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -4275,16 +4307,6 @@ Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualq
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-### CAPITULO SEGUNDO. De la Privación de la Vida
-
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-420.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 días de salario a quien:
-
-I. Dolosamente prive de la vida a un animal vertebrado.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
 ## TITULO VIGESIMO.
 
 Encubrimiento.
@@ -4307,6 +4329,16 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
+### CAPITULO SEGUNDO. De la Privación de la Vida
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+420.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 días de salario a quien:
+
+I. Dolosamente prive de la vida a un animal vertebrado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
+
 ### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
@@ -4316,6 +4348,10 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO CUARTO. Excluyentes
 
@@ -4336,10 +4372,6 @@ IV.- El sacrificio de un animal vertebrado para consumo humano.
 423.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO UNICO.. DELITOS CONTRA LA SEGURIDAD INFORMÁTICA Y ELECTRÓNICA
 
@@ -4390,16 +4422,6 @@ II. Cuando las conductas delictivas sean realizadas por persona o personas que h
 III. Cuando los datos o información contenida en un sistema informático o electrónico, se refieran a datos personales o datos personales sensibles, en términos de lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 ARTICULOS TRANSITORIOS:
-
-### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
-
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-421.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 días de salario a quien:
-
-I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
 ### CAPITULO CUARTO. Excluyentes
 
@@ -5206,6 +5228,22 @@ SEGUNDO. Se derogan todos los preceptos legales contemplados en cualquier otro o
 P.O. 17 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1502.- MEDIANTE EL CUAL REFORMAN EL ARTÍCULO 187, Y LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO CUARTO DEL LIBRO SEGUNDO; Y SE ADICIONA EL ARTÍCULO 187 BIS Y UN TERCER PÁRRAFO AL ARTÍCULO 412 BIS RECORRIÉNDOSE LOS SUBSECUENTES, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1476.- MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO III BIS DENOMINADO “ALTERACIONES A LA SALUD POR RAZÓN DE GÉNERO”, AL TÍTULO VIGÉSIMO SEGUNDO “DELITOS CONTRA EL DERECHO A UNA VIDA LIBRE DE VIOLENCIA”, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1496.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 246 BIS Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 248 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
