@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2019-11-23"
+last_updated: "2020-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -264,6 +264,10 @@ VII. La planeación estatal en la materia deberá propiciar la programación del
 VIII. Sin perjuicio de los (sic) dispuesto por el Artículo 22 de la Ley de Planeación del Estado de Oaxaca, la participación sectorial se realizará a través de las organizaciones estatales integradas en el Consejo Estatal para el Desarrollo Rural Sustentable, a que se refiere el Artículo 18 de la presente Ley; y
 
 IX. La programación para el desarrollo rural sustentable de mediano plazo deberá comprender tanto acciones de impulso a la productividad y competitividad, como medidas de apoyos tendientes a eliminar las desigualdades con respecto a otros estados.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2020)</small>
+
+El Titular de la Secretaría, informará a través de un informe justificado, inmediatamente después de ejecutarse los programas, aún aquellos que coordine a través de la Comisión Estatal Intersecretarial, al Honorable Congreso del Estado, respecto de lo siguiente: a) Tipo de programas, beneficiarios, montos y zona geográfica donde aplican, y; b) una vez que concluyan las fechas para el logro de metas, en los programas aplicados, si se cumplieron o no las mismas. Lo anterior para efectos de valoración y análisis respecto del aumento o no de los recursos de dichos programas que al efecto solicite el Ejecutivo del Estado en el presupuesto de egresos, en el ejercicio posterior que corresponda. La omisión del informe justificado a que se refiere éste párrafo se sancionará conforme a lo establecido por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 ###### ARTÍCULO 14.
 
@@ -1720,3 +1724,11 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1477.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 13 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
