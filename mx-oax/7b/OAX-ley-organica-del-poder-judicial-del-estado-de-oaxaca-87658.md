@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2020-02-22"
+last_updated: "2020-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2020.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -70,6 +70,22 @@ Los tribunales y juzgados del Poder Judicial tendrán jurisdicción concurrente 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Emitirán sus resoluciones de conformidad con los principios pro persona, progresividad, buena fe, justicia, democracia, respeto de los derechos humanos, no discriminación, buena gobernanza, igualdad de derechos, libre determinación y respeto a la diversidad e identidad cultural, en el marco del pluralismo jurídico.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2020)</small>
+
+En todos los casos sometidos a su jurisdicción deberán identificar y evaluar:
+
+a) Los impactos de las normas diferenciados por razones de género;
+
+b) El impacto, en la interpretación y la aplicación del derecho, de las conductas o actitudes asignadas y esperadas socialmente del comportamiento de hombres y mujeres;
+
+c) La distribución inequitativa de recursos y poder que deriva de estas asignaciones;
+
+d) Las barreras financieras, lingüísticas y geográficas que entorpecen el acceso a la justicia de las mujeres por razón de ingreso, pertenencia a pueblos indígenas, ruralidad o condición de discapacidad;
+
+e) Las exclusiones jurídicas producidas por la construcción binaria de la identidad de género, y
+
+f) La posibilidad legítima del establecimiento de tratos diferenciados entre hombres y mujeres en las resoluciones y sentencias, como mecanismo para que las mujeres puedan acceder a la justicia en pie de igualdad con los hombres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -2684,3 +2700,11 @@ Primero. El presente Decreto entrará en vigor a partir del día siguiente de su
 Segundo. Se derogan todas las disposiciones legales de igual o menor rango que se opongan al presente Decreto.
 
 Tercero. Las prestaciones y los derechos de jubilación de los servidores públicos en funciones deberán ser respetados de conformidad con las disposiciones legales vigentes al inicio de su encargo.
+
+P.O. 20 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1475.- MEDIANTE (SIC) ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 2 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
