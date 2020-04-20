@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2020-03-21"
+last_updated: "2020-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2020.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -983,7 +983,23 @@ f. Realizar la designación del Fiscal Especializado en Combate a la Corrupción
 
 g. Lo relativo a la designación del Comité de Selección del Sistema Estatal de Combate a la Corrupción, en términos de la Ley aplicable, y;
 
-h. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2020)</small>
+
+h. Tener bajo su adscripción al Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción; designar a su personal directivo y operativo; así como aprobar los Lineamientos Operativos, la estructura interna y el Manual de Procedimientos, para su adecuado funcionamiento;
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2020)</small>
+
+i. Solicitar la comparecencia, ante el Pleno del Congreso o la propia Comisión, de las Dependencias integrantes del Comité Coordinador del Sistema Estatal de Combate a la Corrupción, para que proporcionen información, documentación o informes específicos sobre las acciones realizadas y los resultados alcanzados en la prevención y combate a la corrupción;
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2020)</small>
+
+j. Sustanciar el procedimiento de designación del titular del Órgano Interno de Control de la Secretaría Ejecutiva del Sistema Estatal de Combate a la Corrupción, en términos de lo dispuesto en la Ley respectiva;
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2020)</small>
+
+k. Generar e impulsar estrategias para que los Municipios del Estado participen activamente en la prevención y combate a la corrupción;
+
+l. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
@@ -2806,3 +2822,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Congreso del Estado.
 
 TERCERO.- La Comisión Permanente de Vigilancia de la Deuda Pública del Estado estará integrada por los Diputados que designe el Pleno del Congreso, a propuesta de la Junta de Coordinación Política.
+
+P.O. 20 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1494.- MEDIANTE EL CUAL REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 102; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 102 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; ASIMISMO SE ADICIONAN LAS LETRAS H, I, J Y K, A LA FRACCIÓN XXXII, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE PARA CONVERTIRSE EN LETRA L, DEL ARTÍCULO 42, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación. Publíquese en la Gaceta Parlamentaria del Congreso del Estado Libre y Soberano de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. La Junta de Coordinación Política del Congreso del Estado Libre y Soberano de Oaxaca, determinará las adecuaciones presupuestarias para el funcionamiento operativo del Centro de Estudios a que hace referencia éste Decreto.
+
+TERCERO. La Comisión Permanente de Vigilancia del Sistema Estatal de Combate a la Corrupción, emitirá los Lineamientos Operativos, la estructura interna y el Manual de Procedimientos del Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción, a que hace referencia éste Decreto, dentro del plazo de sesenta días hábiles contados a partir de su aprobación.
