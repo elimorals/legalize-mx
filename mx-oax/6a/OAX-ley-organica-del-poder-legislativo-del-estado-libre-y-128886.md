@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2020-03-21"
+last_updated: "2020-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2020.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -1259,7 +1259,13 @@ III. El Centro de Estudios Sociales y de Opinión Pública, tendrá como objeto 
 
 IV. El Centro de Estudios de las Mujeres y Paridad de Género, tendrá como objeto evaluar las políticas públicas y programas del gobierno estatal y municipal para atender a las mujeres, así como desarrollar y divulgar estudios con perspectiva de género.
 
-Los Centros de Estudios establecidos en este artículo estarán adscritos a la Jucopo y tendrán las atribuciones establecidas en el Reglamento Interior y el Manual de Organización y Lineamientos.
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2020)</small>
+
+V. El Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción, tendrá como finalidad impulsar acciones de asesoría, capacitación e investigación permanente para la prevención de actos de corrupción en los Municipios del Estado de Oaxaca, estableciendo vínculos, sinergias y coordinación con todas las Dependencias del Sistema Estatal de Combate a la Corrupción.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2020)</small>
+
+Los Centros de Estudios establecidos en éste artículo estarán adscritos a la Jucopo, con excepción del Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción, que estará adscrito a la Comisión Permanente de Vigilancia del Sistema Estatal de Combate a la Corrupción.
 
 ###### ARTÍCULO 103.
 
@@ -1458,3 +1464,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Congreso del Estado.
 
 TERCERO.- La Comisión Permanente de Vigilancia de la Deuda Pública del Estado estará integrada por los Diputados que designe el Pleno del Congreso, a propuesta de la Junta de Coordinación Política.
+
+P.O. 20 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1494.- MEDIANTE EL CUAL REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 102; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 102 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; ASIMISMO SE ADICIONAN LAS LETRAS H, I, J Y K, A LA FRACCIÓN XXXII, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE PARA CONVERTIRSE EN LETRA L, DEL ARTÍCULO 42, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación. Publíquese en la Gaceta Parlamentaria del Congreso del Estado Libre y Soberano de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. La Junta de Coordinación Política del Congreso del Estado Libre y Soberano de Oaxaca, determinará las adecuaciones presupuestarias para el funcionamiento operativo del Centro de Estudios a que hace referencia éste Decreto.
+
+TERCERO. La Comisión Permanente de Vigilancia del Sistema Estatal de Combate a la Corrupción, emitirá los Lineamientos Operativos, la estructura interna y el Manual de Procedimientos del Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción, a que hace referencia éste Decreto, dentro del plazo de sesenta días hábiles contados a partir de su aprobación.
