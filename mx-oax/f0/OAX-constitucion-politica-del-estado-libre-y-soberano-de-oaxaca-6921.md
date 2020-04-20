@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2020-03-21"
+last_updated: "2020-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2020.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1467,15 +1467,15 @@ Los diputados del Congreso del Estado podrán ser sancionados en los términos q
 
 #### SECCION SEGUNDA. De la Instalación de la Legislatura y su Funcionamiento
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2020)</small>
 
-###### ARTICULO 41.
+###### Artículo 41.
 
-Los diputados electos que cuenten con su constancia de mayoría y validez expedida por el Instituto Estatal Electoral o resolución a su favor del Tribunal Estatal Electoral, concurrirán a la instalación de la Legislatura del Estado de conformidad con lo dispuesto en el artículo 47 de esta Constitución y la Ley Orgánica del propio Congreso.
+Los diputados electos que cuenten con su constancia de mayoría y validez expedida por el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca o resolución a su favor del Tribunal Electoral del Estado de Oaxaca, concurrirán a la instalación de la Legislatura del Estado de conformidad con lo dispuesto en el artículo 47 de esta Constitución y la Ley Orgánica del propio Congreso.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2020)</small>
 
-Para tal efecto, deberán presentar dentro de los días siete a nueve de noviembre del año de la elección, ante el Oficial Mayor del Congreso del Estado, la constancia o resolución de referencia para su registro, toma de razón y entrega de la credencial de acceso a la sesión de instalación y toma de protesta, que tendrá verificativo el día trece de noviembre del año de la elección, en cuya fecha se hará la elección de los integrantes de la Mesa Directiva en los términos de la Ley Orgánica del Poder Legislativo y su Reglamento, empezando a fungir a partir del día quince de Noviembre.
+Para tal efecto, deberán presentar dentro de los días siete a nueve de noviembre del año de la elección, ante la Secretaría de Servicios Parlamentarios del Congreso del Estado, la constancia o resolución de referencia para su registro, para que ésta proceda a su formal recepción, toma de razón y entrega de la credencial de acceso a la sesión de instalación y toma de protesta, que tendrá verificativo el día trece de noviembre del año de la elección, en cuya fecha se hará la elección de los integrantes de la Mesa Directiva en los términos de la Ley Orgánica del Poder Legislativo y su Reglamento, empezando a fungir a partir del día quince de Noviembre.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2014)</small>
 
@@ -5560,3 +5560,11 @@ P.O. 21 DE MARZO DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 20 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1489.- MEDIANTE EL CUAL REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 41 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
