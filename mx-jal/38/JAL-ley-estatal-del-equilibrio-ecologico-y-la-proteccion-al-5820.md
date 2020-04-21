@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2019-05-11"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -75,85 +75,149 @@ Para los efectos de esta ley, se tomarán las definiciones de la Ley General del
 
 I. Actividades riesgosas: Aquellas actividades que conllevan la utilización de materiales peligrosos que de conformidad a la legislación federal y disposiciones aplicables no se consideran actividades altamente riesgosas;
 
-II. Áreas naturales protegidas: Las zonas del territorio estatal en que los ecosistemas originales que las conforman no han sido significativamente alterados por la actividad del hombre, y que han quedado sujetas al régimen de protección;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-III. Capacidad de amortiguamiento de los ecosistemas: Se refiere a la cualidad intrínseca que poseen los ecosistemas para recuperar su estructura y función después de sufrir un impacto ambiental negativo;
+II. Áreas destinadas voluntariamente a la conservación: Son predios que reúnen las características de áreas naturales protegidas y que sus propietarios o legítimos posesionarios los destinan de manera voluntaria para ser conservados y cuentan con el certificado correspondiente emitido por la Secretaría;
 
-IV. Capacidad de carga ambiental: Respuesta de un ecosistema a las diversas actividades o acciones productivas del desarrollo, sin que se afecte su condición natural y/o aumente su fragilidad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+III. Áreas naturales protegidas: Las zonas del territorio estatal en que los ecosistemas originales que las conforman no han sido significativamente alterados por la actividad del hombre, y que han quedado sujetas al régimen de protección;
 
-V. Composta: Producto resultante del tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-VI. Condición natural clímax: Características que hacen a un ecosistema mantener la estabilidad, el desarrollo y la evolución de cada uno de sus elementos, cuya composición y estructura es remotamente conocida;
+VI (SIC). Capacidad de amortiguamiento de los ecosistemas: Se refiere a la cualidad intrínseca que poseen los ecosistemas para recuperar su estructura y función después de sufrir un impacto ambiental negativo;
 
-VII. (DEROGADA, P.O. 7 DE JUNIO DE 2007)
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+V. Capacidad de carga ambiental: Respuesta de un ecosistema a las diversas actividades o acciones productivas del desarrollo, sin que se afecte su condición natural y/o aumente su fragilidad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+VI. Composta: Producto resultante del tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+VII. Condición natural clímax: Características que hacen a un ecosistema mantener la estabilidad, el desarrollo y la evolución de cada uno de sus elementos, cuya composición y estructura es remotamente conocida;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
 VIII. Corta sanitaria: Medida para prevenir y evitar la degradación provocada por algún agente patógeno en especies como árboles, arbustos y otras plantas;
 
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
 IX. Criterios ambientales: Los lineamientos y conceptos necesarios para preservar, restaurar y conservar el equilibrio de los ecosistemas y proteger al ambiente, en el marco del desarrollo sustentable;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
 X. Desequilibrio ambiental: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman al ambiente que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
 XI. Ecoturismo: Es la actitud de respeto, admiración e interacción del hombre con la cultura y naturaleza en el desarrollo de actividades recreativas en entornos naturales dentro de un marco de sustentabilidad, propiciando un involucramiento activo y socioeconómico en beneficio de las poblaciones locales, principalmente a través de una modalidad turística ambientalmente responsable;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
 XII. Emergencia ambiental: Urgencia ante un problema ambiental que necesita solución inmediata;
 
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
 XIII. Emisión contaminante: La generación o descarga de materia o energía en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los sistemas biótico y abiótico, afecte o pueda afectar negativamente su composición o condición natural;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
 XIV. Estudio de impacto ambiental: Proceso de análisis de carácter interdisciplinario, basado en estudios de campo y gabinete, encaminado a identificar, predecir, interpretar, valorar, prevenir y comunicar los efectos de una obra, actividad o proyecto sobre el medio ambiente;
 
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
 XV. Flora y fauna acuáticas: Las especies biológicas y elementos biogénicos que tienen como medio de vida temporal, parcial o permanente, las aguas del territorio del estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
 XVI. Fragilidad ambiental: Condición actual de un ecosistema, parte de él o de sus componentes, en comparación a su condición natural clímax;
 
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
 XVII. Gestión ambiental: Conjunto de acciones orientadas a lograr la sustentabilidad en los procesos de defensa, protección y mejora ambiental;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
 XVIII. Secretaría: Secretaría de Medio Ambiente y Desarrollo Territorial;
 
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
 XIX. Información ambiental: Se considera a cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades estatales y municipales, en materia ambiental, de agua, aire, suelo, flora, fauna y recursos naturales en general, así como de las actividades o medidas que les afectan o pueden afectarles;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
 XX. Mejoramiento: El restablecimiento e incremento en la calidad del ambiente;
 
-XXI. Normatividad estatal o normatividad reglamentaria: Acuerdos de carácter técnico que expida el Titular del Ejecutivo o la Secretaría en la materia.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XXII. Norma oficial mexicana: La regla científica o tecnológica emitida por el ejecutivo federal, que deben aplicar los gobiernos del estado y de los municipios, en el ámbito de sus competencias;
+XXI. Normatividad estatal o normatividad reglamentaria: Acuerdos de carácter técnico que expida el Titular del Ejecutivo o la Secretaría en la materia;
 
-XXIII. Patrimonio cultural: El conjunto de manifestaciones producto de la obra conjunta o separada del hombre y de la naturaleza que contiene relevancia histórica, estética, paisajística, arquitectónica, urbanística, literaria, artística, pictográfica, tradicional, etnológica, científica o intelectual para la sociedad jalisciense;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XXIV. Reciclaje: El Proceso por el cual los residuos son transformados en productos nuevos, de tal manera que pierden su identidad original y se convierten en materia prima de nuevos productos;
+XXII. Norma Oficial Mexicana: La regla científica o tecnológica emitida por el ejecutivo federal, que deben aplicar los gobiernos del estado y de los municipios, en el ámbito de sus competencias,
 
-XXV. Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXVI. Relleno sanitario: Obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar a través de la compactación e infraestructura adicionales los impactos ambientales;
+XXIII. Paisajes bioculturales: son territorios reconocidos como tales a través de una certificación otorgada por la Secretaría, que contribuyen a la gestión territorial integral, teniendo por objetivo proteger el patrimonio natural y cultural que les da identidad, mediante la planificación de los usos tradicionales del suelo y la promoción del crecimiento económico local a través del desarrollo rural y urbano sustentable;
 
-XXVII. Rescate energético: Es la recuperación con fines de reutilización de una parte de la energía que fue utilizada en los procesos productivos que anteceden a la generación de residuos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXVIII. Residuo incompatible: Aquel que al entrar en contacto o ser mezclado con otro, reacciona produciendo calor o presión, fuego o evaporación, partículas, gases o vapores peligrosos, pudiendo ser esta reacción violenta;
+XXIV. Patrimonio cultural: El conjunto de manifestaciones producto de la obra conjunta o separada del hombre y de la naturaleza que contiene relevancia histórica, estética, paisajística, arquitectónica, urbanística, literaria, artística, pictográfica, tradicional, etnológica, científica o intelectual para la sociedad jalisciense;
 
-XXIX. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+XXV. Reciclaje: El Proceso por el cual los residuos son transformados en productos nuevos, de tal manera que pierden su identidad original y se convierten en materia prima de nuevos productos;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXI. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales;
+XXVI. Recurso natural: elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXII. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial;
+XXVII. Relleno sanitario: Obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar a través de la compactación e infraestructura adicionales los impactos ambientales;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXIII. Auditoría ambiental. Examen metodológico de los procesos de una empresa respecto de la contaminación y el riesgo ambiental que generan, el cumplimiento de la normatividad ambiental aplicable, de los parámetros internacionales y de buenas prácticas de operación e ingeniería, con base en los requerimientos establecidos en los Términos de Referencia, y en su caso, las medidas preventivas y correctivas necesarias para proteger al ambiente;
+XXVIII. Rescate energético: Es la recuperación con fines de reutilización de una parte de la energía que fue utilizada en los procesos productivos que anteceden a la generación de residuos;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXIV. Cambio climático. Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables; y
+XXIX. Residuo incompatible: Aquél que al entrar en contacto o ser mezclado con otro, reacciona produciendo calor o presión, fuego o evaporación, partículas, gases o vapores peligrosos, pudiendo ser esta reacción violenta;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXV. Contaminación acústica. La presencia en el ambiente de sonidos molestos e intempestivos que rebasen los límites máximos permisibles señalados en las normas oficiales que para el efecto emitan las autoridades competentes; o aquel que por su intensidad, duración o frecuencia, implique daño, riesgo o perjudique el bienestar de las personas, con independencia de cuál sea la fuente que los origine.
+XXX. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXI. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXII. Riesgo: Posibilidad de pérdidas humanas, materiales y económicas, así como la afectación significativa al ambiente, que se pueda generar con motivo de los peligros naturales o antropogénicos existentes y la vulnerabilidad de la población y los ecosistemas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXIII. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXIV. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXV. Auditoría ambiental. Examen metodológico de los procesos de una empresa respecto de la contaminación y el riesgo ambiental que generan, el cumplimiento de la normatividad ambiental aplicable, de los parámetros internacionales y de buenas prácticas de operación e ingeniería, con base en los requerimientos establecidos en los Términos de Referencia, y en su caso, las medidas preventivas y correctivas necesarias para proteger al ambiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXVI. Cambio climático. Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXVII. Contaminación acústica. La presencia en el ambiente de sonidos molestos e intempestivos que rebasen los límites máximos permisibles señalados en las normas oficiales que para el efecto emitan las autoridades competentes; o aquel que por su intensidad, duración o frecuencia, implique daño, riesgo o perjudique el bienestar de las personas, con independencia de cuál sea la fuente que los origine.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -179,7 +243,9 @@ II. La preservación y restauración del equilibrio ecológico y la protección 
 
 III. La prevención y el control de emergencias y contingencias ambientales, en forma aislada o participativa con la federación, cuando la magnitud o gravedad de los desequilibrios ecológicos, o daños al ambiente, no rebasen el territorio del estado o de sus municipios, o no sea necesaria la acción exclusiva de la federación;
 
-IV. La regulación, creación y administración de las áreas naturales protegidas estatales y municipales, que se prevén en el presente ordenamiento;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+IV. La regulación, creación y administración de las áreas naturales protegidas estatales y municipales, que se prevén en el presente ordenamiento, así como fomentar el reconocimiento de los paisajes bioculturales y las áreas destinadas voluntariamente a la conservación del Estado;
 
 V. La prevención y el control de la contaminación de la atmósfera, generada en zonas o por fuentes emisoras de jurisdicción local;
 
@@ -283,113 +349,159 @@ III. Ordenar y ejecutar las distintas acciones, dentro del ámbito de su compete
 
 IV. Proponer la normatividad reglamentaria y criterios ambientales estatales, qué deberán observarse en la aplicación de la política ambiental del estado, el ordenamiento ecológico local, la prevención y disminución de la contaminación ambiental de la entidad, la protección ambiental de las áreas naturales y aguas de jurisdicción estatal y las concesionadas por la federación, con la participación que, en su caso, corresponda a los gobiernos municipales;
 
-V. Coordinar los estudios y acciones para la creación de áreas naturales protegidas de acuerdo a lo dispuesto por esta ley, con la intervención que corresponda a otras dependencias y los gobiernos municipales, participando en las acciones que deban realizarse, conforme a sus propios acuerdos y resoluciones, con la concurrencia de los dueños, poseedores y habitantes del área en estudio;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+V. Coordinar los estudios y acciones para la creación de áreas naturales protegidas de acuerdo a lo dispuesto por esta ley, con la intervención que corresponda a otras dependencias y los gobiernos municipales, participando en las acciones que deban realizarse, conforme a sus propios acuerdos y resoluciones, con la concurrencia de los dueños, poseedores y habitantes del área en estudio, así como reconocer y emitir certificados de áreas destinadas voluntariamente a la conservación;
 
-VI. Declarar las contingencias o emergencias ambientales y coordinar los protocolos para su atención, así como elaborar en el ámbito de su respectiva competencia, programas y protocolos para la prevención y control de contingencias ambientales y coordinarse con autoridades federales y municipales, para su aplicación y cumplimiento;
+> <small>(REFORMADA [N. DE ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-VII. Elaborar el ordenamiento ecológico regional del estado, en las escalas necesarias para la planeación estatal y municipal del uso sustentable del territorio en las diferentes regiones de la entidad, en coordinación con la federación y los gobiernos municipales, en sus respectivas esferas de competencia, y asegurarse que los ordenamientos ecológicos locales que al efecto expidan los gobiernos municipales, sean congruentes con el ordenamiento ecológico regional del estado;
+VI. Otorgar la asesoría técnica necesaria para la para la (sic) tramitación de los certificados de áreas destinadas voluntariamente a la conservación, a petición de los interesados;
 
-VIII. Evaluar el impacto ambiental, de aquellas obras y actividades que no sean competencia de la federación o de los gobiernos municipales y emitir los dictámenes correspondientes, así como, establecer los requisitos para fungir como prestador de servicios en el estado en materia de impacto y riesgo ambiental;
+> <small>(REFORMADA [N. DE ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-IX. Formular y, en su caso, desarrollar programas para promover e incentivar el uso de tecnologías y estrategias apropiadas para el aprovechamiento sustentable de los recursos naturales de la entidad y promoverlos en los gobiernos federal y municipales, así como, en los sectores social y privado;
+VII. Promover el reconocimiento de paisajes bioculturales en el territorio del Estado y en su caso emitir los certificados correspondientes;
 
-X. Formular y, en su caso, desarrollar programas para prevenir, controlar y reducir la contaminación de la atmósfera, suelo y aguas, generada en el territorio del estado, por fuentes fijas y móviles y, en el ámbito de su competencia vigilar su cumplimiento;
+> <small>(REFORMADA [N. DE ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XI. Establecer y gestionar la política de aprovechamiento sustentable del agua en la entidad, en coordinación con la federación y los gobiernos municipales;
+VIII. Fomentar el desarrollo de los paisajes bioculturales que sean certificados;
 
-XII. Determinar y dictaminar la viabilidad de las propuestas de nuevas áreas naturales protegidas de interés estatal y emitir el decreto correspondiente, en los términos previstos por esta ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XIII. Promover el establecimiento de viveros, criaderos y reservas de especies de flora y fauna silvestre, terrestre y acuática, en su caso, en coordinación con las dependencias federales, en el ámbito de su competencia;
+IX. Declarar las contingencias o emergencias ambientales y coordinar los protocolos para su atención, así como elaborar en el ámbito de su respectiva competencia, programas y protocolos para la prevención y control de contingencias ambientales y coordinarse con autoridades federales y municipales, para su aplicación y cumplimiento;
 
-XIV. Fomentar la realización de auditorías ambientales y supervisar su ejecución, con el apoyo de los gobiernos municipales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XV. Ordenar la suspensión de cualquiera actividad o acción que contravenga las disposiciones legales en materia de equilibrio ecológico y protección al ambiente, conforme a lo señalado en la presente ley;
+X. Elaborar el ordenamiento ecológico regional del estado, en las escalas necesarias para la planeación estatal y municipal del uso sustentable del territorio en las diferentes regiones de la entidad, en coordinación con la federación y los gobiernos municipales, en sus respectivas esferas de competencia, y asegurarse que los ordenamientos ecológicos locales que al efecto expidan los gobiernos municipales, sean congruentes con el ordenamiento ecológico regional del estado;
 
-XVI. La regulación y vigilancia de las actividades riesgosas que, de conformidad a la legislación federal, no son consideradas altamente riesgosas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XVII. Imponer las sanciones administrativas que procedan, a los infractores de esta ley y demás ordenamientos aplicables en materia de equilibrio ecológico y protección al ambiente y conciliar el cumplimiento de la legislación federal en materia de aprovechamiento y protección ambiental de los recursos naturales, como lo prevén las leyes de las materias correspondientes;
+XI. Evaluar el impacto ambiental, de aquellas obras y actividades que no sean competencia de la federación o de los gobiernos municipales y emitir los dictámenes correspondientes, así como, establecer los requisitos para fungir como prestador de servicios en el estado en materia de impacto y riesgo ambiental;
 
-XVIII. Emitir su opinión sobre las declaratorias que se expidan para regular los usos del suelo, cuyos impactos ambientales pueden ser negativos al funcionamiento y estructura de los ecosistemas del estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XIX. Promover y otorgar incentivos y proponer estímulos en favor de los particulares, que fomenten el desarrollo sustentable y contribuyan a la disminución de la contaminación y el mejoramiento de la calidad ambiental; y
+XII. Formular y, en su caso, desarrollar programas para promover e incentivar el uso de tecnologías y estrategias apropiadas para el aprovechamiento sustentable de los recursos naturales de la entidad y promoverlos en los gobiernos federal y municipales, así como, en los sectores social y privado;
 
-XX. Promover la incorporación de contenidos ambientales en los diversos ciclos educativos, para propiciar el fortalecimiento de la conciencia ambiental;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXI. El ejercicio de las funciones en materia de preservación del equilibrio ecológico y protección al ambiente que por virtud de los acuerdos o convenios de coordinación celebrados con la federación se deleguen al estado;
+XIII. Formular y, en su caso, desarrollar programas para prevenir, controlar y reducir la contaminación de la atmósfera, suelo y aguas, generada en el territorio del estado, por fuentes fijas y móviles y, en el ámbito de su competencia vigilar su cumplimiento;
 
-XXII. Vigilar el cumplimiento de las disposiciones de la presente ley en las obras o actividades que no correspondan a asuntos de competencia federal, que puedan causar desequilibrios graves e irreparables, daños a la salud pública o a los ecosistemas, o rebasar los límites y condiciones establecidas en las disposiciones jurídicas relativas a la preservación del equilibrio ecológico y la protección del ambiente;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+XIV. Establecer y gestionar la política de aprovechamiento sustentable del agua en la entidad, en coordinación con la federación y los gobiernos municipales;
 
-XXIII. Atender los asuntos que afecten el equilibrio ecológico de dos o más municipios, de conformidad a la distribución de competencias que se establece en la presente ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+XV. Determinar y dictaminar la viabilidad de las propuestas de nuevas áreas naturales protegidas de interés estatal y emitir el decreto correspondiente, en los términos previstos por esta ley;
 
-XXIV. Asesorar, apoyar, coordinar y fomentar los esfuerzo (sic) públicos y privados que tengan por finalidad el diseño, construcción, operación, supervisión, establecimiento o instalación de plantas dedicadas a la elaboración de composta con los residuos orgánicos recolectados por el servicio municipal de aseo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXV. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2016)
+XVI. Promover el establecimiento de viveros, criaderos y reservas de especies de flora y fauna silvestre, terrestre y acuática, en su caso, en coordinación con las dependencias federales, en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXVI. Proponer al titular del Poder Ejecutivo las bases para la celebración del concurso denominado "Premio Estatal al Cuidado del Medio Ambiente" que será entregado al o a los municipios que hayan cumplido con los Criterios Ambientales y de Gestión Ambiental de la presente ley.
+XVII. Fomentar la realización de auditorías ambientales y supervisar su ejecución, con el apoyo de los gobiernos municipales;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XVIII. Ordenar la suspensión de cualquiera actividad o acción que contravenga las disposiciones legales en materia de equilibrio ecológico y protección al ambiente, conforme a lo señalado en la presente ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XIX. La regulación y vigilancia de las actividades riesgosas que, de conformidad a la legislación federal, no son consideradas altamente riesgosas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XX. Imponer las sanciones administrativas que procedan, a los infractores de esta ley y demás ordenamientos aplicables en materia de equilibrio ecológico y protección al ambiente y conciliar el cumplimiento de la legislación federal en materia de aprovechamiento y protección ambiental de los recursos naturales, como lo prevén las leyes de las materias correspondientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXI. Emitir su opinión sobre las declaratorias que se expidan para regular los usos del suelo, cuyos impactos ambientales pueden ser negativos al funcionamiento y estructura de los ecosistemas del estado;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XXII. Promover y otorgar incentivos y proponer estímulos en favor de los particulares, que fomenten el desarrollo sustentable y contribuyan a la disminución de la contaminación y el mejoramiento de la calidad ambiental;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXIII. Promover la incorporación de contenidos ambientales en los diversos ciclos educativos, para propiciar el fortalecimiento de la conciencia ambiental;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXIV. El ejercicio de las funciones en materia de preservación del equilibrio ecológico y protección al ambiente que por virtud de los acuerdos o convenios de coordinación celebrados con la federación se deleguen al estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXV. Vigilar el cumplimiento de las disposiciones de la presente ley en las obras o actividades que no correspondan a asuntos de competencia federal, que puedan causar desequilibrios graves e irreparables, daños a la salud pública o a los ecosistemas, o rebasar los límites y condiciones establecidas en las disposiciones jurídicas relativas a la preservación del equilibrio ecológico y la protección del ambiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXVI. Atender los asuntos que afecten el equilibrio ecológico de dos o más municipios, de conformidad a la distribución de competencias que se establece en la presente ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXVII. Asesorar, apoyar, coordinar y fomentar los esfuerzo (sic) públicos y privados que tengan por finalidad el diseño, construcción, operación, supervisión, establecimiento o instalación de plantas dedicadas a la elaboración de composta con los residuos orgánicos recolectados por el servicio municipal de aseo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXVIII. Crear, administrar y aplicar el Fondo Estatal de Protección al Ambiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXIX. Proponer al titular del Poder Ejecutivo las bases para la celebración del concurso denominado "Premio Estatal al Cuidado del Medio Ambiente" que será entregado al o a los municipios que hayan cumplido con los Criterios Ambientales y de Gestión Ambiental de la presente ley.
 
 Las bases a las que se refiere la presente fracción serán aprobadas mediante acuerdo que deberá ser publicado en el periódico oficial El Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXVII. Impulsar la investigación científica a fin de regular los mecanismos de modificación artificial del clima del Estado de Jalisco;
+XXX. Impulsar la investigación científica a fin de regular los mecanismos de modificación artificial del clima del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXVIII. Formular, ejecutar y evaluar el Programa Estatal Contra el Cambio Climático, incluyendo medidas de mitigación para las consecuencias negativas y coordinarse con las autoridades competentes para su aplicación en los municipios;
+XXXI. Formular, ejecutar y evaluar el Programa Estatal Contra el Cambio Climático, incluyendo medidas de mitigación para las consecuencias negativas y coordinarse con las autoridades competentes para su aplicación en los municipios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXIX. Fomentar una cultura preventiva que permita disminuir el grado de vulnerabilidad al fenómeno global del cambio climático;
+XXXII. Fomentar una cultura preventiva que permita disminuir el grado de vulnerabilidad al fenómeno global del cambio climático;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXX. Instrumentar mecanismos de convergencia entre la sociedad y el gobierno que permitan desarrollar medidas de adaptación y mitigación para enfrentar el cambio climático;
+XXXIII. Instrumentar mecanismos de convergencia entre la sociedad y el gobierno que permitan desarrollar medidas de adaptación y mitigación para enfrentar el cambio climático;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXI. Generar estrategias que permitan a la sociedad conocer e implementar mecanismos de adaptación para afrontar los efectos del cambio climático;
+XXXIV. Generar estrategias que permitan a la sociedad conocer e implementar mecanismos de adaptación para afrontar los efectos del cambio climático;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXII. Promover la investigación y el desarrollo tecnológico para la producción de plásticos de un solo uso a partir de materiales reciclados, biodegradables o compostables;
+XXXV. Promover la investigación y el desarrollo tecnológico para la producción de plásticos de un solo uso a partir de materiales reciclados, biodegradables o compostables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXIII. Elaborar un programa de sustitución gradual de plásticos de un solo uso, de conformidad con lo que se establezca en la Norma Técnica Ambiental Estatal;
+XXXVI. Elaborar un programa de sustitución gradual de plásticos de un solo uso, de conformidad con lo que se establezca en la Norma Técnica Ambiental Estatal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXIV. Elaborar programas de apoyo y asesoría que promuevan que las empresas dedicadas a la producción de plásticos de un solo uso produzcan con materiales reciclados o con calidad de biodegradables o compostable;
+XXXVII. Elaborar programas de apoyo y asesoría que promuevan que las empresas dedicadas a la producción de plásticos de un solo uso produzcan con materiales reciclados o con calidad de biodegradables o compostable;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXV. Realizar campañas de difusión y concientización dirigidas a la población en general sobre la importancia de la reducción y del uso responsable de los plásticos de un solo uso, así como dar a conocer las alternativas de reúso o sustitución de estos productos, y las ventajas que esto conlleva para la salud y el medio ambiente;
+XXXVIII. Realizar campañas de difusión y concientización dirigidas a la población en general sobre la importancia de la reducción y del uso responsable de los plásticos de un solo uso, así como dar a conocer las alternativas de reúso o sustitución de estos productos, y las ventajas que esto conlleva para la salud y el medio ambiente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXVI. Proponer al Titular del Ejecutivo del Estado, la Norma Técnica Ambiental Estatal en materia de producción de bolsas de plástico para acarreo y popotes, en la que se consideren los principios de reducción, reciclaje y reutilización de las bolsas de plástico, así como las características específicas requeridas para cada producto;
+XXXIX. Proponer al Titular del Ejecutivo del Estado, la Norma Técnica Ambiental Estatal en materia de producción de bolsas de plástico para acarreo y popotes, en la que se consideren los principios de reducción, reciclaje y reutilización de las bolsas de plástico, así como las características específicas requeridas para cada producto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXVII. Certificar a las empresas que cumplan con las disposiciones de la Norma Técnica Ambiental Estatal a que hace referencia la fracción anterior;
+XL. Certificar a las empresas que cumplan con las disposiciones de la Norma Técnica Ambiental Estatal a que hace referencia la fracción anterior;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXVIII. Elaborar y publicar un padrón de empresas recicladoras o que utilicen materiales reciclados autorizadas para comercializar los productos plásticos de un solo uso, de conformidad con la normatividad aplicable; y
+XLI. Elaborar y publicar un padrón de empresas recicladoras o que utilicen materiales reciclados autorizadas para comercializar los productos plásticos de un solo uso, de conformidad con la normatividad aplicable; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXIX. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
+XLII. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1117,9 +1229,17 @@ Se consideran áreas naturales protegidas, competencia del gobierno del estado:
 
 I. Los parques estatales;
 
-II. Formaciones naturales de interés estatal; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-III. Areas estatales de protección hidrológica.
+II. Formaciones naturales de interés estatal;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+III. Áreas estatales de protección hidrológica; y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+IV. Áreas destinadas voluntariamente a la conservación.
 
 ###### Artículo 45.
 
@@ -1129,9 +1249,17 @@ I. Los parques ecológicos municipales;
 
 II. Las zonas de preservación ecológica de los centros de población;
 
-III. Formaciones naturales de interés municipal; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-IV. Áreas municipales de protección hidrológica.
+III. Formaciones naturales de interés municipal;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+IV. Áreas municipales de protección hidrológica; y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+V. Áreas destinadas voluntariamente a la conservación.
 
 ###### Artículo 46.
 
@@ -1401,21 +1529,139 @@ Los fedatarios públicos que expidan instrumentos públicos en los que conste un
 
 Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2020)</small>
+
+### CAPITULO IV. De los instrumentos de participación voluntaria para la conservación
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE ABRIL DE 2020)</small>
+
+#### SECCION PRIMERA
+
+De las áreas estatales destinadas voluntariamente a la conservación.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 64-F.
+
+Las áreas destinadas voluntariamente a la conservación se establecerán mediante certificado que expida la Secretaría, en el cual las reconozca como áreas naturales protegidas.
+
+Los interesados en obtener dicho certificado presentarán una solicitud que contenga:
+
+I. Nombre del propietario o legítimo poseedor;
+
+II. Documento legal que acredite la propiedad del predio o la legítima posesión en caso de tratarse de parcelas;
+
+III. Cuando se trate de ejidos o comunidades, deberán presentar la resolución de la asamblea correspondiente en términos de la legislación aplicable, en la que se manifieste la voluntad de destinar sus predios a la conservación;
+
+IV. Nombre de las personas autorizadas para realizar actos de administración en el área;
+
+V. Denominación, ubicación, superficie y colindancias del área;
+
+VI. Descripción de las características físicas y biológicas generales del área;
+
+VII. Programa de manejo y aprovechamiento que incluya la zonificación del área; y
+
+VIII. Plazo por el que se desea certificar el área, el cual no podrá ser menor a quince años.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 64-G.
+
+El certificado que expida la Secretaría deberá contener:
+
+I. Nombre del propietario o legítimo poseedor;
+
+II. Denominación, ubicación, superficie y colindancias del área;
+
+III. Características físicas y biológicas generales del predio y su estado de conservación, en los términos que establezca el reglamento de la materia;
+
+IV. Programa de manejo y aprovechamiento; y
+
+V. Vigencia del certificado, la que no podrá ser menor de quince años.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 64-H.
+
+La Secretaría expedirá la certificación en función de las características físicas y biológicas generales, el estado de conservación de los predios, el plazo por el que se emite el certificado, su estrategia de manejo y aprovechamiento y en su caso, la ubicación dentro de un área natural protegida.
+
+Las instituciones que destinen apoyos y subsidios para estas áreas, deberán considerar lo señalado en el párrafo anterior, para definir y determinar el acceso a los instrumentos económicos que tendrán los propietarios o legítimos poseedores de dichos predios.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 64-I.
+
+Las áreas destinadas voluntariamente a la conservación se administrarán por su propietario o legítimo poseedor y se manejarán conforme al programa de manejo y aprovechamiento definido en el certificado.
+
+Cuando dichas áreas se ubiquen dentro del polígono de otras áreas naturales protegidas previamente declaradas por la Federación, el Ejecutivo del Estado o los municipios, el programa de manejo y aprovechamiento observará lo dispuesto en las declaratorias y los programas de manejo o aprovechamiento correspondientes, además de lo establecido en el certificado correspondiente.
+
+Cuando el Ejecutivo Federal, el Ejecutivo del Estado o los municipios, establezcan un área natural protegida cuya superficie incluya total o parcialmente una o varias áreas destinadas voluntariamente a la conservación, tomarán en consideración las estrategias de manejo y aprovechamiento determinadas en los certificados que expida la Secretaría.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 64-J.
+
+Cuando en las áreas destinadas voluntariamente a la conservación se realice el aprovechamiento sustentable de recursos naturales, los productos obtenidos podrán ostentar un sello de sustentabilidad expedido por la Secretaría, conforme al procedimiento previsto en el Reglamento.
+
+Las certificaciones de áreas destinadas voluntariamente a la conservación, emitidos por la Secretaría, deberán ser considerados por las instituciones públicas competentes, en la certificación de productos o servicios.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE ABRIL DE 2020)</small>
+
+#### SECCION SEGUNDA
+
+De los paisajes bioculturales.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 64-K.
+
+El reconocimiento del paisaje biocultural implica la participación de la sociedad civil, los sectores productivos, la academia y las entidades gubernamentales bajo una visión compartida de gestión del territorio y requiere para su formalización, el acuerdo de los municipios involucrados, así como la adhesión de los diversos actores en torno a dicha visión común.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 64-L.
+
+Los paisajes bioculturales se reconocerán mediante el certificado que emita la Secretaría, el cual tendrá una vigencia de quince años, los cuales podrán concluir de manera anticipada por cumplimiento de la finalidad o finalización del objeto de paisaje biocultural.
+
+La expedición de dichos certificados, se sujetará a lo establecido en el reglamento de la materia, el cual deberá contemplar, por lo menos lo siguiente:
+
+I. La forma en que los Gobiernos Municipales soliciten el reconocimiento de paisajes bioculturales;
+
+II. La manera en que deberá constar el acuerdo de los ayuntamientos y los demás interesados en obtener el certificado;
+
+III. Los documentos y estudios técnicos que deberán adjuntarse a la solicitud;
+
+IV. Los criterios para desarrollar el programa para reconocer con la marca, sello o distintivo del paisaje biocultural a los bienes y productos que se generen dentro del territorio determinado y que contribuyan a la preservación de las condiciones ambientales y culturales del paisaje; y
+
+V. El Gobierno Municipal deberá acompañar un documento denominado “carta territorial”, mediante la cual se establezcan las estrategias y medidas de gestión territorial que se propongan para contribuir a la gestión territorial integrada, con una visión a largo plazo.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 64-M.
+
+La Secretaría, de conformidad con lo establecido en el Reglamento, concederá el uso del distintivo que identifique a los paisajes bioculturales del Estado de Jalisco, a las administraciones de los paisajes que cuenten con un certificado vigente, a su vez, licencien su uso en bienes y servicios generados o prestados en su territorio, siempre y cuando los mismos cumplan con las características que se señalen en el programa correspondiente.
+
+Queda prohibido el uso de la marca que identifique a los paisajes bioculturales del Estado de Jalisco por cualquier persona a la cual no se le haya concedido su uso de acuerdo con lo establecido en esta ley o su reglamento.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 64-N.
+
+El Gobierno del Estado y los Gobiernos Municipales tomarán en cuenta las estrategias de gestión territorial y las medidas establecidas en la "carta territorial" para la conformación de nuevas áreas naturales protegidas y la planeación del territorio cuando estos actos se refieran a superficies contempladas en los certificados de paisajes bioculturales.
+
+Las estrategias y medidas de gestión que adopte el paisaje biocultural y que sean validadas por la Secretaría, por ser compatibles con el marco de planeación general del territorio serán tomadas en cuenta en la planeación de políticas y acciones que realicen las diversas instancias de Gobierno; de igual forma, los paisajes bioculturales, por conducto de sus órganos de representación, podrán fungir como representantes de la colectividad ante las instancias del (sic) gubernamentales y los diversos órganos de consulta existentes, de acuerdo con la reglamentación aplicable.
+
 ### CAPITULO I
 
 De la conservación y aprovechamiento sustentable del agua y los ecosistemas acuáticos.
-
-### CAPITULO II
-
-Del aprovechamiento sustentable del suelo y sus recursos.
 
 ## TITULO TERCERO
 
 Conservación y Aprovechamiento Sustentable de los Elementos Naturales.
 
-### CAPITULO I
+### CAPITULO II
 
-De la prevención y control de la contaminación atmosférica.
+Del aprovechamiento sustentable del suelo y sus recursos.
 
 ###### Artículo 65.
 
@@ -1443,9 +1689,9 @@ Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de
 
 El Titular del Ejecutivo del Estado y la Secretaría, conjuntamente con los gobiernos municipales, podrá celebrar con la federación, convenios o acuerdos de coordinación para participar en las acciones de protección, preservación y restauración del equilibrio ecológico y la protección de los ecosistemas acuáticos.
 
-### CAPITULO II
+### CAPITULO I
 
-De la prevención y control de la contaminación del agua y de los ecosistemas acuáticos.
+De la prevención y control de la contaminación atmosférica.
 
 ###### Artículo 69.
 
@@ -1465,11 +1711,9 @@ En las zonas que presentan graves alteraciones ambientales, la Secretaría y los
 
 Protección al Ambiente.
 
-### CAPITULO III
+### CAPITULO II
 
-De la prevención y control de la contaminación del suelo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2007)</small>
+De la prevención y control de la contaminación del agua y de los ecosistemas acuáticos.
 
 ###### Artículo 71.
 
@@ -1583,9 +1827,11 @@ Las autoridades estatales y municipales, en su caso, promoverán en las zonas qu
 
 En los programas de desarrollo urbano estatal y planes parciales municipales, se considerarán las condiciones topográficas, climatológicas y meteorológicas para asegurar la adecuada dispersión de contaminantes.
 
-### CAPITULO IV. De las actividades riesgosas y contingencias o emergencias ambientales
+### CAPITULO III
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+De la prevención y control de la contaminación del suelo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 78.
 
@@ -1663,11 +1909,9 @@ Los equipos de tratamiento de las aguas residuales de origen urbano que diseñen
 
 El gobierno del estado y los gobiernos municipales, en los casos de aguas de su competencia, se coordinarán con la federación, a efecto de realizar un sistemático y permanente monitoreo de la calidad de las aguas, para detectar la presencia de alteraciones, contaminantes, desechos orgánicos o azolves, y aplicar las medidas que procedan o, en su caso, promover su ejecución.
 
-### CAPITULO V
+### CAPITULO IV. De las actividades riesgosas y contingencias o emergencias ambientales
 
-De la regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos de manejo especial y sólidos urbanos.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 86.
 
@@ -1755,15 +1999,31 @@ Los procesos industriales que generen residuos de lenta degradación, para los c
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2019)</small>
 
-### CAPITULO VI
+### CAPITULO V
 
-Del ruido, vibraciones, energía térmica y lumínica y olores.
+De la regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos de manejo especial y sólidos urbanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 94.
 
 La Secretaría regulará y vigilará la realización de actividades riesgosas que no sean consideradas altamente riesgosas por las disposiciones federales.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 94-A.
+
+En el territorio de los municipios del Área Metropolitana de Guadalajara se prohíbe la realización de quemas agropecuarias, aun cuando se encuentren fuera de las áreas urbanas.
+
+En el territorio de los municipios que no formen parte del Área Metropolitana de Guadalajara, las quemas agropecuarias solo podrán ser realizadas, priorizando las necesidades agropecuarias, las situaciones de riesgo y los avisos de quemas previos a su realización.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 94-B.
+
+En aquellos casos previstos por el artículo 117 de la presente Ley, la autoridad competente podrá ejecutar las medidas de seguridad comprendidas en el artículo 144 de la presente Ley.
+
+Las autoridades municipales podrán practicar la extinción y control de quemas agropecuarias cuando no se avise a dicha autoridad de manera previa a su realización; o cuando se encuentren prohibidas como es el caso del Área Metropolitana de Guadalajara. Lo anterior con independencia de las sanciones que se impongan por las infracciones a lo dispuesto en esta Ley y los reglamentos municipales.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
@@ -1791,9 +2051,11 @@ Articulo 95 quinquies. La operación de este comando de emergencias ambientales 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2007)</small>
 
-### CAPITULO I
+### CAPITULO VI
 
-De la participación social.
+Del ruido, vibraciones, energía térmica y lumínica y olores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 96.
 
@@ -1819,9 +2081,9 @@ Para todo lo concerniente a la regulación de los sistemas de recolección, alma
 
 (DEROGADO, P.O. 7 DE JUNIO DE 2007)
 
-### CAPITULO II
+### CAPITULO I
 
-Derecho a la información ambiental.
+De la participación social.
 
 ###### Artículo 102.
 
@@ -1885,11 +2147,9 @@ Queda prohibida la detonación de artículos de pirotecnia que generen ruido exc
 
 Participación Social e Información Ambiental.
 
-### CAPITULO I
+### CAPITULO II
 
-Disposiciones generales.
-
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
+Derecho a la información ambiental.
 
 ###### Artículo 104.
 
@@ -1931,9 +2191,11 @@ La Secretaría y los gobiernos municipales, en su esfera de competencias, integr
 
 Cuando la Secretaría y los gobiernos municipales deban de resolver un asunto sobre el cual, los órganos de consulta hubiesen emitido una opinión, deberán expresar los casos de aceptación o rechazo de dicha opinión.
 
-### CAPITULO II. De los Procedimientos Ambientales
+### CAPITULO I
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2019)</small>
+Disposiciones generales.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Artículo 109.
 
@@ -1985,11 +2247,9 @@ Quien reciba información ambiental de las autoridades competentes, en los térm
 
 ## TITULO SEXTO. De la Justicia Ambiental
 
-### CAPITULO III
+### CAPITULO II. De los Procedimientos Ambientales
 
-De las medidas de seguridad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Artículo 116.
 
@@ -2123,11 +2383,11 @@ Las notificaciones irregularmente practicadas, surtirán efectos a partir de la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2019)</small>
 
-### CAPITULO IV
+### CAPITULO III
 
-De las sanciones administrativas.
+De las medidas de seguridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 131 Bis.
 
@@ -2231,11 +2491,11 @@ Cuando se trate de segunda o posterior inspección para verificar el cumplimient
 
 En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades detectadas, en los plazos ordenados por la autoridad competente, siempre y cuando el infractor no sea reincidente, y no se trate de alguno de los supuestos previstos en él capitulo de medidas de seguridad de la presente ley, previa petición por escrito que formule el interesado ante la autoridad competente, el superior jerárquico podrá revocar o modificar la sanción o sanciones impuestas.
 
-### CAPITULO V
+### CAPITULO IV
 
-Del recurso de revisión.
+De las sanciones administrativas.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 144.
 
@@ -2261,11 +2521,11 @@ Asimismo, la Secretaría y los gobiernos municipales, promoverán ante la federa
 
 Cuando la Secretaría y los gobiernos municipales, según corresponda, ordenen alguna de las medidas de seguridad previstas en esta ley, deberá indicar al interesado, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que, una vez cumplidas estas, se ordene el retiro de la medida de seguridad impuesta, lo anterior, sin perjuicio de las sanciones que en derecho correspondan.
 
-### CAPITULO VI
+### CAPITULO V
 
-De la comisión de delitos.
+Del recurso de revisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 146.
 
@@ -2275,9 +2535,15 @@ Las violaciones a los preceptos de esta ley, sus reglamentos y las disposiciones
 
 I. Apercibimiento, amonestación, o en su caso ambas;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA CON SUS NUMERALES], P.O. 21 DE ABRIL DE 2020)</small>
 
-II. Multa por el equivalente de treinta a treinta y cinco mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción; si la sanción es por generación de ruido excesivo la multa no podrá exceder, en ningún caso, de quinientas unidades de medida y actualización;
+II. Multa por el equivalente de treinta a treinta y cinco mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción; a excepción de lo siguiente:
+
+1. Si la sanción es por generación de ruido excesivo la multa no podrá exceder, en ningún caso, de quinientas unidades de medida y actualización;
+
+2. Si la sanción es resultado de infringir lo señalado en el artículo 94 A, la multa será de cien a veinticinco mil Unidades de Medida y Actualización; y
+
+3. La sanción de multa, se incrementará al doble del mínimo y máximo establecido en el párrafo anterior, cuando la quema se realice con una proximidad máxima de diez metros a un terreno forestal; y la sanción de multa se incrementará al triple si la quema se realiza con la misma proximidad a un área natural protegida.
 
 III. Clausura temporal o definitiva, parcial o total, cuando:
 
@@ -2391,11 +2657,11 @@ La Secretaría y los gobiernos municipales, según corresponda, deberán promove
 
 Los ingresos que se obtengan de las multas por infracciones a lo dispuesto por esta ley, sus reglamentos y demás disposiciones que de ella deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán a la integración de fondos para el desarrollo de programas ambientales.
 
-### CAPITULO VII
+### CAPITULO VI
 
-De la denuncia popular.
+De la comisión de delitos.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 154.
 
@@ -2544,6 +2810,12 @@ Tratándose de obras o actividades que contravengan las disposiciones de esta le
 ###### Artículo 169.
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación en la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el presente capítulo.
+
+### CAPITULO VII
+
+De la denuncia popular.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 170.
 
@@ -2956,3 +3228,15 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente de su
 Artículo Segundo. La Secretaría de Medio Ambiente y Desarrollo Territorial del Estado de Jalisco, en un plazo de ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto debe realizar las modificaciones a los reglamentos y disposiciones administrativas que resulten aplicables; así como emitir los protocolos necesarios para la atención de contingencias o emergencias necesarias y para la operación de comando de emergencias ambientales.
 
 Artículo Tercero. Entretanto se realizan las modificaciones a los reglamentos y disposiciones administrativas que resulten aplicables yse (sic) emiten los protocolos necesarios para la atención de contingencias o emergencias necesarias para la operación de comando de emergencias ambientales, la Secretaría de Medio Ambiente y Desarrollo Territorial atenderá las contingencias y emergencias ambientales de conformidad a la (sic) presente decreto, a las normas y protocolos que se encuentren vigentes.
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27870/LXII/20 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIONES DE LA II A LA XXXVII, 5 EN SU FRACCIÓN IV, 6 FRACCIONES DE LA V A LA LXII; SE ADICIONA A LOS ARTÍCULOS 44 LA FRACCIÓN IV, 45 LA FRACCIÓN V, 146 LA FRACCIÓN II; ASÍ MISMO, SE ADICIONA EL CAPÍTULO IV, DENOMINADO DE LOS INSTRUMENTOS DE PARTICIPACIÓN VOLUNTARIA PARA LA CONSERVACIÓN, ASÍ COMO UNA SECCIÓN PRIMERA TITULADA DE LAS ÁREAS ESTATALES DESTINADAS VOLUNTARIAMENTE A LA CONSERVACIÓN, CON LOS ARTÍCULOS 64-F AL 64-J Y UNA SECCIÓN SEGUNDA DENOMINADA DE LOS PAISAJES BIOCULTURALES DE LOS ARTÍCULOS 64-K AL 64-N TODO ELLO DENTRO DEL TÍTULO SEGUNDO ÁREAS NATURALES PROTEGIDAS, Y LOS ARTÍCULOS 94-A Y 94-B, TODOS DE LA DE LA (SIC) LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El titular del Poder Ejecutivo Estatal contará con un plazo no mayor de un año a partir de la publicación del presente decreto para expedir las reformas y adiciones necesarias a la reglamentación de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente, a fin de adecuar la normatividad a lo dispuesto en el presente decreto.
+
+TERCERO. Los municipios de Jalisco tendrán un plazo de 90 días naturales, para efecto de realizar las modificaciones reglamentarias conforme a lo dispuesto por el presente decreto, así como para presentar al Congreso del Estado la iniciativa de reforma a la Ley de Ingresos correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
