@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-agua-potable-y-alcantarillado-de-chapala-202
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-27"
-last_updated: "2017-03-02"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE CHAPALA, JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 27 de marzo de 1997.
 
@@ -77,9 +77,13 @@ V. El Regidor encargado de la Comisión de Agua Potable y Alcantarillado;
 
 Los funcionarios citados en las fracciones anteriores durarán en su encargo el periodo correspondiente a la administración municipal;
 
-VI. Un representante de la Secretaría de Desarrollo Urbano del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-VII. Un representante de la Secretaría de Salud del Estado de Jalisco;
+VI. Un representante de la Secretaría de Gestión Integral del Agua;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+VII. Un representante de la Secretaría de Salud;
 
 VIII. Un representante de la Comisión Nacional del Agua.
 
@@ -135,9 +139,9 @@ XII. Resolver sobre las solicitudes para la prestación de los servicios de agua
 
 XIII. Ejercer la vigilancia general que los servicios demanden y tomar las medidas necesarias para su conservación y reparación resolviendo lo relativo a sus mejoras y ampliaciones;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XIV. Promover ante el Ayuntamiento de Chapala, Jalisco, cuando se ejercite la facultad económica-coactiva, el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos como créditos fiscales, en los términos de la Ley de Hacienda Municipal, o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de Planeación, Administración y Finanzas del Estado de Jalisco, se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos a través de sus oficinas de Recaudación Fiscal competentes;
+XIV. Promover ante el Ayuntamiento de Chapala, Jalisco, cuando se ejercite la facultad económica-coactiva, el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos como créditos fiscales, en los términos de la Ley de Hacienda Municipal, o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de la Hacienda Pública, se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos a través de sus oficinas de Recaudación Fiscal competentes;
 
 XV. Vigilar el cumplimiento de las disposiciones de esta ley y su reglamento, por parte de los usuarios de los servicios, a través de su Director General y las dependencias que se determinen;
 
@@ -304,3 +308,9 @@ P.O. 2 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26276/LXI/17 QUE REFORMAN (SIC) LOS ARTÍCULOS 9 Y 19 DE LA LEY DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE CHAPALA, JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27879/LXII/20 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 6°, Y LA FRACCIÓN XIV DEL ARTÍCULO 9° DE LA LEY DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE CHAPALA, JALISCO".]
+
+ÚNICO. el presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
