@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2019-10-12"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -115,69 +115,77 @@ XIV. Desertificación. La pérdida de la capacidad productiva de las tierras, ca
 
 XV. Estado. El Estado Libre y Soberano de Jalisco;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XVI. Organización de Productores. Conjunto de personas constituidas bajo un régimen legal con el propósito de realizar actividades productivas y económicas para un fin común;
+XVI. Jornalero Agrícola. Toda persona que recibe un salario por su fuerza de trabajo, en una actividad propia del campo dentro de un proceso productivo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XVII. Producto. Se consideran los resultados de la producción primaria de las especies o actividades productivas en el ámbito rural;
+XVII. Ley de Desarrollo Rural Sustentable. La Ley Federal de Desarrollo Rural Sustentable;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XVIII. Producción Orgánica. Sistema de producción y procesamiento de alimentos, productos y subproductos animales, vegetales u otros satisfactores, sin la utilización de productos de síntesis química;
+XVIII. Organización de Productores. Conjunto de personas constituidas bajo un régimen legal con el propósito de realizar actividades productivas y económicas para un fin común;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XIX. Subproducto. Es el resultado de la producción primaria de las especies o actividades productivas en el ámbito rural, que han sufrido un proceso de transformación e industrialización destinados al consumo o servicio humano;
+XIX. Producto. Se consideran los resultados de la producción primaria de las especies o actividades productivas en el ámbito rural;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XX. Productor. Persona física o jurídica que, directa o indirectamente, se dedica a la producción, transformación, industrialización o comercialización de productos o subproductos agropecuarios;
+XX. Producción Orgánica. Sistema de producción y procesamiento de alimentos, productos y subproductos animales, vegetales u otros satisfactores, sin la utilización de productos de síntesis química;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXI. Programa Especial Concurrente. El programa Especial Concurrente para el Desarrollo Rural Sustentadle (sic), que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
+XXI. Subproducto. Es el resultado de la producción primaria de las especies o actividades productivas en el ámbito rural, que han sufrido un proceso de transformación e industrialización destinados al consumo o servicio humano;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXII. Plan Regional: Documento de planeación que incluye los objetivos y estrategias con una visión de largo plazo, así como las líneas de acción y los proyectos estratégicos de corto y mediano plazo para el desarrollo integral y sustentable de cada una de las regiones de la entidad;
+XXII. Productor. Persona física o jurídica que, directa o indirectamente, se dedica a la producción, transformación, industrialización o comercialización de productos o subproductos agropecuarios;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXIII. Programas Sectoriales. Los programas específicos del Gobierno Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
+XXIII. Programa Especial Concurrente. El programa Especial Concurrente para el Desarrollo Rural Sustentadle (sic), que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXIV. Secretaría. La Secretaría de Desarrollo Rural del Gobierno del Estado de Jalisco;
+XXIV. Plan Regional: Documento de planeación que incluye los objetivos y estrategias con una visión de largo plazo, así como las líneas de acción y los proyectos estratégicos de corto y mediano plazo para el desarrollo integral y sustentable de cada una de las regiones de la entidad;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXV. Seguridad alimentaria. El abasto oportuno, suficiente e incluyente de alimentos inocuos y de calidad nutritiva a la población;
+XXV. Programas Sectoriales. Los programas específicos del Gobierno Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXVI. Servicio. La institución pública responsable de la ejecución de programas y acciones específicas en una materia;
+XXVI. Secretaría. La Secretaría de Desarrollo Rural del Gobierno del Estado de Jalisco;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXVII. Servicios ambientales. Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+XXVII. Seguridad alimentaria. El abasto oportuno, suficiente e incluyente de alimentos inocuos y de calidad nutritiva a la población;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXVIII. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
+XXVIII. Servicio. La institución pública responsable de la ejecución de programas y acciones específicas en una materia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXIX. Sistema-producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
+XXIX. Servicios ambientales. Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXX. Soberanía agroalimentaria y nutricional. La libre determinación del Estado para establecer políticas públicas preactivas e integrales que garanticen el abasto y acceso de alimentos a toda la población, fundamentalmente con producción estatal; y
+XXX. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXXI. Unidad productiva. Conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable.
+XXXI. Sistema-producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXII. Soberanía agroalimentaria y nutricional. La libre determinación del Estado para establecer políticas públicas preactivas (sic) e integrales que garanticen el abasto y acceso de alimentos a toda la población, fundamentalmente con producción estatal; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXIII. Unidad productiva. Conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable.
 
 ###### Artículo 8.
 
@@ -1660,3 +1668,9 @@ P.O. 12 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27363/LXII/19 MEDIANTE EL CUAL SE MODIFICA LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO, LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27877/LXII/20 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 7° DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco"
