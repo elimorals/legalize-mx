@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-operacion-de-albergues-del-estado-de-jalisco-107917
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-21"
-last_updated: "2019-11-23"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de mayo de 2015.
 
@@ -713,7 +713,7 @@ Es obligación del personal de los albergues guardar debida reserva y discreció
 
 ###### Artículo 44.
 
-Los albergues podrán recibir la ayuda económica y afecto personal de ciertas y determinadas personas que, con fines altruistas, se hagan cargo de cada uno de los residentes en lo individual, pudiéndoles permitir convivir con ellos en épocas y circunstancias precisas, sin que esto implique el traslado de las niñas, niños y adolescentes fuera de las instituciones ni ejercer guarda y custodia personal ni cuidado y vigilancia sobre ellos. Los titulares o administradores del albergue supervisarán esa convivencia y reguardarán la integridad de los residentes sobre quienes la ejerzan.
+Los albergues podrán recibir la ayuda económica y afecto personal de ciertas y determinadas personas que, con fines altruistas, se hagan cargo de cada uno de los residentes en lo individual, pudiéndoles permitir convivir con ellos en épocas y circunstancias precisas, sin que esto implique el traslado de las niñas, niños y adolescentes fuera de las instituciones ni ejercer guarda y custodia personal ni cuidado y vigilancia sobre ellos. Los titulares o administradores del albergue supervisarán esa convivencia y reguardarán (sic) la integridad de los residentes sobre quienes la ejerzan.
 
 Las personas que con fines altruistas a que se refiere el párrafo anterior, se acreditarán ante la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
@@ -881,9 +881,9 @@ IV. Generar cualquier circunstancia que signifique riesgo a la vida, la integrid
 
 V. Reincidir en alguna de las causas que originen las sanciones contenidas en el artículo que antecede siempre que se cometa la misma infracción; o
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-VI. No contar con registro ante el Instituto Jalisciense de Asistencia Social en los casos de centros de acogida, casas hogares o albergues para personas menores de edad.
+VI. No contar con registro ante la Secretaría del Sistema de Asistencia Social en los casos de centros de acogida, casas hogares o albergues para personas menores de edad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1040,5 +1040,11 @@ P.O. 29 DE AGOSTO DE 2019.
 P.O. 23 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27520/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLECENTES (SIC), DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y DE LA LEY PARA LA OPERACIÓN DE ALBERGUES, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27858/LXII/20, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 63 DE LA LEY PARA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO.”]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
