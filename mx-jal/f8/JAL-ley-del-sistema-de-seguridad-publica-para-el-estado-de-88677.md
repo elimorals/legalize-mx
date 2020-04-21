@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2019-12-31"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -93,7 +93,9 @@ Para los efectos de esta ley, se debe entender por:
 
 I. Carrera ministerial: al servicio profesional de carrera de las Instituciones de Procuración de Justicia;
 
-II. Carrera pericial: al servicio profesional de carrera del Instituto Jalisciense de Ciencias Forenses;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+II. Carrera pericial: al servicio profesional de carrera del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza;
 
 III. Carrera policial: al servicio profesional de carrera policial;
 
@@ -101,23 +103,25 @@ IV. Centro: el Centro Estatal de Evaluación y Control de Confianza;
 
 V. Centros de control de confianza federales: los centros con que en la materia cuentan tanto la Procuraduría General de la República como la Secretaría de Seguridad Pública Federal;
 
-VI. Comisaría: la Comisaría General de Seguridad Pública del Estado;
+VI. (DEROGADA, P.O. 21 DE ABRIL DE 2020)
 
-VII. Comisario General: el titular de la Comisaría General de Seguridad Pública del Estado;
+VII. (DEROGADA, P.O. 21 DE ABRIL DE 2020)
 
 VIII. Consejo Estatal: el Consejo Estatal de Seguridad Pública;
 
-IX. Consejo Ciudadano: Consejo Ciudadano de Seguridad y Procuración de Justicia;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+IX. Consejo Ciudadano: Consejo Ciudadano de Seguridad;
 
 X. Director General del C5: El Director General del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XI. Consejo Ciudadano: Consejo Ciudadano de Seguridad.
+XI. Cuerpos de Seguridad Pública del Estado: las corporaciones a que se refiere el artículo 26 de la presente ley;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XII. Elementos operativos: los integrantes de las instituciones de la Fiscalía Estatal del Estado, de la Policía Vial dependiente de la Secretaría del Transporte, de seguridad pública municipales, de procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
+XII. Elementos operativos: los integrantes de las instituciones de la Fiscalía Estatal, de la Secretaría de Seguridad, de la seguridad pública municipales, de procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
 
 XIII. "Escudo Urbano·C5": al Organismo Público Descentralizado encargado del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco;
 
@@ -127,7 +131,9 @@ XIV. Fiscal Estatal: El titular de la Fiscalía Estatal;
 
 XV. Instituciones de seguridad pública: instituciones policiales y del sistema penitenciario encargadas de la seguridad pública a nivel estatal y municipal;
 
-XVI. Instituciones de procuración de justicia: a las instituciones que integran al Ministerio Público, y el Instituto Jalisciense de Ciencias Forenses;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XVI. Instituciones de procuración de justicia: a las instituciones que integran al Ministerio Público, y el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza;
 
 XVII. Instituciones policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos, y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
 
@@ -147,7 +153,9 @@ XXIII. (Sic) Registro de Tecnologías: Registro de Equipos y Sistemas Tecnológi
 
 XXIV. Sistema de Información: el Sistema Estatal de Información sobre Seguridad Pública;
 
-XXV. Sistema Estatal de Informática: El implementado y administrado por la Dirección de Tecnologías de la Información de la Secretaría de Planeación, Administración y Finanzas del Estado;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XXV. Sistema Estatal de Informática: el implementado y administrado por la Coordinación General de Innovación Gubernamental;
 
 XXVI. 911 El sistema de emergencia 911, como un número gratuito de atención telefónica, diseñado para recibir llamadas de emergencia de la ciudadanía que cuenta con personal altamente capacitado, laborando las 24 horas, los 365 días del año y es el medio de canalización directa entre usuario y las corporaciones de auxilio, contando con un sistema único de despacho para derivar llamadas de emergencia;
 
@@ -155,13 +163,29 @@ XXVII. 089: El sistema de denuncia anónima 089, como un número gratuito de ate
 
 XXVIII. Personal ministerial: a los agentes del Ministerio Público, actuarios y secretarios del Ministerio Público;
 
-XXIX. Personal pericial: los peritos del Instituto Jalisciense de Ciencias Forenses;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XXIX. Personal pericial: los peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza;
 
 XXX. Registro: el Registro Estatal de Información sobre Seguridad Pública;
 
-XXXI. Sistema de Información: el Sistema Estatal de Información sobre Seguridad Pública; y
+XXXI. (DEROGADA, P.O. 21 DE ABRIL DE 2020)
 
-XXXII. Supervisor de Libertad: la autoridad administrativa que depende del Poder Ejecutivo y que da seguimiento a las personas sentenciadas que gozan de libertad condicionada.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXII. Supervisor de Libertad: la autoridad administrativa que depende del Poder Ejecutivo y que da seguimiento a las personas sentenciadas que gozan de libertad condicionada;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXIII. Secretaría: la Secretaría de Seguridad;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXIV. Secretario: el Titular de la Secretaría de Seguridad; y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XXXIV (SIC). Reglamento de Seguridad Privada. el Reglamento de los Servicios Privados de Seguridad del Estado de Jalisco.
 
 ###### Artículo 4°.
 
@@ -277,9 +301,9 @@ VII. Integrar programas, estructuras o acciones operativas conjuntas en los tér
 
 VIII. Relación con la comunidad y fomento de la cultura de prevención de infracciones, delitos y conductas antisociales;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-IX. El control del cumplimiento de las condicionantes y supervisión de los liberados en su reinserción social, a través de la Comisaría de Atención a Preliberados y Liberados de la Fiscalía Estatal; y
+IX. El control del cumplimiento de las condicionantes y supervisión de los liberados en su reinserción social, a través de la Dirección General de Prevención y Reinserción Social de la Secretaría; y
 
 X. Las relacionadas con las anteriores, que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública.
 
@@ -301,11 +325,13 @@ I. Un Presidente, que será el Gobernador del Estado;
 
 II. Los titulares de las siguientes dependencias, entidades y unidades administrativas del Poder Ejecutivo del Estado:
 
-a) Secretaría General de Gobierno;
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+a) Coordinación General Estratégica de Seguridad;
 
-b) Secretaría de Transporte;
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+b) Secretaría General de Gobierno;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -313,15 +339,23 @@ c) Fiscalía Estatal
 
 d) (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014);
 
-e) Instituto Jalisciense de Ciencias Forenses, y
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
 
-f) La Comisaria;
+e) Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza;
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+f) Secretaría de Seguridad; y
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+g) "Escudo Urbano C5"
 
 III. De los poderes Legislativo y Judicial del Estado:
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
 
-a) El diputado presidente de la comisión legislativa de Seguridad y Justicia del Congreso del Estado; y
+a) El diputado presidente de la comisión legislativa en materia de Seguridad Pública del Congreso del Estado; y
 
 b) El Presidente del Supremo Tribunal de Justicia del Estado.
 
@@ -337,21 +371,21 @@ V. Los comandantes de la Región Militar y de la Zona Militar que correspondan a
 
 VI. El Comandante de la Fuerza Naval del Pacífico;
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-VII. El Delegado Estatal de la Procuraduría General de la República;
+VII. El Delegado Estatal de la Fiscalía General de la República;
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-VIII. El Delegado Estatal del Centro de Investigación y Seguridad Nacional;
+VIII. El Delegado Estatal del Centro Nacional de Inteligencia;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-IX. El representante de la Policía Federal en el Estado;
+IX. El Representante Estatal de la Guardia Nacional;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-X. Dos integrantes ciudadanos del Consejo Ciudadano;
+X. El Comisario General del Organismo Público Descentralizado Intermunicipal denominado Policía Metropolitana de Guadalajara;
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
@@ -363,7 +397,9 @@ XII. A quienes el pleno del Consejo Estatal decida invitar a participar y que po
 
 El cargo de consejero será honorífico y, por lo tanto, no remunerado, a excepción de su Secretario Ejecutivo.
 
-El Presidente del Consejo Estatal será suplido, en sus ausencias, por el Secretario General de Gobierno. Los demás integrantes deberán asistir personalmente.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+El Presidente del Consejo Estatal será suplido en sus ausencias, por el Titular de la Coordinación General Estratégica de Seguridad.
 
 ###### Artículo 18.
 
@@ -381,23 +417,35 @@ IV. Acreditar los exámenes de control de confianza, y
 
 V. Ser de reconocida capacidad y probidad, así como contar con experiencia comprobable en áreas de seguridad pública.
 
-La Secretaría Ejecutiva del Consejo Estatal y su personal adscrito dependerán administrativamente de la Secretaria General de Gobierno. El reglamento establecerá el personal que deberá acreditar los exámenes de control de confianza, para su ingreso, promoción y permanencia.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+El Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública y su personal adscrito dependerán administrativamente de la Coordinación General Estratégica de Seguridad, contará el primero con autonomía técnica y de gestión presupuestal; el reglamento establecerá el personal que deberá acreditar los exámenes de control de confianza, para su ingreso, promoción y permanencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
 
 ###### Artículo 18 Bis.
 
-La Fiscalía de Reinserción Social tendrá a su cargo a los supervisores de libertad, quienes tendrán las siguientes atribuciones:
+La Dirección General de Prevención y Reinserción Social de la Secretaría tendrá a su cargo a los supervisores de libertad, quienes tendrán las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
 
 I. Dar seguimiento a la ejecución de las sanciones penales, medidas de seguridad y restrictivas impuestas por el Juez de Ejecución fuera de los Centros Penitenciarios con motivo de la obtención de la libertad condicionada;
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
 II. Realizar los informes relativos al cumplimiento de las condiciones impuestas por el Juez de Ejecución;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
 
 III. Coordinar y ejecutar la aplicación del seguimiento de los programas para las personas que gozan de la medida de libertad condicionada en términos de los que disponga la sentencia; y
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
 IV. Las demás que determine el Juez de Ejecución.
 
-La Fiscalía de Reinserción Social podrá celebrar convenios con dependencias o entidades federales o municipales, así como con organizaciones de la sociedad civil sin fines de lucro que estén certificadas de conformidad con las disposiciones aplicables, para coadyuvar en la supervisión de la libertad.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+La Dirección General de Prevención y Reinserción Social de la Secretaría podrá celebrar convenios con dependencias o entidades federales o municipales, así como con organizaciones de la sociedad civil sin fines de lucro que estén certificadas de conformidad con las disposiciones aplicables, para coadyuvar en la supervisión de la libertad.
 
 ###### Artículo 19.
 
@@ -425,9 +473,19 @@ X. La proposición al Consejo Nacional de acuerdos, programas específicos y con
 
 XI. Determinar las bases a las que deben sujetarse los prestadores de servicios de seguridad privada, así como autorizar a quienes prestarán dichos servicios; para tal efecto deberá obtenerse la aprobación de por lo menos dos terceras partes de los miembros del Consejo;
 
-XII. Regular y supervisar el Centro, y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XIII. Los demás que sean necesarios dentro del marco legal, para cumplir los objetivos de esta ley.
+XII. Regular y supervisar el Centro;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XIII. La emisión de lineamientos en materia de medidas de seguridad con que deberán contar las oficinas bancarias, los giros comerciales y de prestación de servicios, de conformidad a la legislación aplicable.
+
+La verificación del cumplimiento de dichos lineamientos será competencia de la Secretaría quien, en caso de detectar incumplimiento, dará vista a los municipios para la imposición de las sanciones; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XIV. Las (sic) demás que sean necesarios dentro del marco legal, para cumplir los objetivos de esta ley.
 
 ###### Artículo 20.
 
@@ -485,7 +543,9 @@ El Secretario Ejecutivo deberá llevar a cabo la administración de los recursos
 
 El Programa de Seguridad Pública para el estado de Jalisco es el documento que contiene las acciones que en forma planeada y coordinada deberán realizar los cuerpos de seguridad pública.
 
-Corresponde a la Secretaría coordinar a las dependencias y corporaciones respectivas en la elaboración e implementación del Programa de Seguridad Pública para el estado, así como de los programas regionales de seguridad pública como parte del primero.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+Corresponde a la Coordinación General Estratégica de Seguridad, coordinar a las dependencias y corporaciones respectivas en la elaboración e implementación del Programa de Seguridad Pública para el estado, así como de los programas regionales de seguridad pública como parte del primero.
 
 El programa deberá contener las bases de concertación entre los gobiernos estatal y sus dependencias, federal y municipales, así como con los órganos consultivos del Gobierno del Estado y la ciudadanía en general, con la finalidad de mejorar la función.
 
@@ -511,29 +571,15 @@ III. El Fiscal Estatal.
 
 Los cuerpos de seguridad pública de Jalisco son:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-I. La Fiscalía Estatal:
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2016)</small>
-
-a) La Policía Estatal, adscrita a la Comisaria, con todas las unidades y agrupamientos que prevea su reglamento;
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2016)</small>
-
-b) Los cuerpos operativos adscritos a la Fiscalía de Reinserción Social, con todas las unidades y agrupamientos que prevea su reglamento; y
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2016)</small>
-
-c) Policía procesal, aquella adscrita a los tribunales de Enjuiciamiento Penal, para dar cumplimiento a lo establecido en el artículo 3, fracción XX de la presente Ley;
+I. Los cuerpos operativos adscritos a la Secretaría con todas sus unidades y agrupamientos, incluyendo a la Policía procesal, adscrita a los tribunales de Enjuiciamiento Penal;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 II. Los cuerpos operativos de la Fiscalía Estatal, con todas las unidades, divisiones y agrupamientos que prevean la ley orgánica de la institución, su reglamento y demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-III. Los cuerpos operativos de la Secretaría del Transporte de conformidad con su ley y su reglamento;
+III. (DEROGADA, P.O. 21 DE ABRIL DE 2020)
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
@@ -543,9 +589,11 @@ V. Los demás que en el futuro se constituyan con estricto respeto de esta ley.
 
 Los cuerpos de bomberos y protección civil tendrán el carácter de auxiliares de la seguridad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
+
 ###### Artículo 27.
 
-Se consideran como elementos operativos los integrantes de las instituciones de seguridad pública, procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5°. de esta ley.
+Se consideran como elementos operativos los integrantes de las instituciones de seguridad pública, procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley.
 
 Los nombramientos a que se refiere el párrafo anterior tienen carácter confidenciales respecto a los datos personales y reservados en los demás datos cuando menos tres años posteriores a la terminación de la conclusión del servicio.
 
@@ -1063,9 +1111,9 @@ XV. Supervisar que los aspirantes e integrantes de las instituciones policiales 
 
 XVI. Las demás que establezcan las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
 
-La Fiscalía Estatal y el Instituto Jalisciense de Ciencias Forenses contarán, cada uno de ellos, con un Instituto de Formación Profesional que tendrá las atribuciones conferidas a la academia por cuanto se refiere al ámbito de aplicación de la institución a la que pertenezcan.
+La Fiscalía Estatal y el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, contarán, cada uno de ellos, con un Instituto de Formación Profesional que tendrá las atribuciones conferidas a la academia, por cuanto se refiere al ámbito de aplicación de la institución a la que pertenezcan.
 
 Los ayuntamientos del estado podrán establecer academias municipales, las cuales deberán estar homologadas a los programas rectores de profesionalización.
 
@@ -1149,11 +1197,13 @@ Artículo 68 Undecies. Los municipios podrán celebrar convenios con el Estado p
 
 El desarrollo policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, de carácter obligatorio y permanente para las instituciones de seguridad pública y sus integrantes, que comprenden la carrera policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los elementos operativos; tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos, elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
 
 ###### Artículo 70.
 
-La Fiscalía Estatal y el Instituto Jalisciense de Ciencias Forenses, respectivamente, establecerán el servicio profesional de carrera para el personal ministerial y peritos, que comprenderá las etapas de ingreso, desarrollo y terminación del servicio, atendiendo lo establecido en la Ley General del Sistema Nacional de Seguridad Pública, en la presente ley, las respectivas leyes orgánicas y demás disposiciones legales aplicables.
+La Fiscalía Estatal y el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, respectivamente, establecerán el servicio profesional de carrera para el personal ministerial y peritos, que comprenderá las etapas de ingreso, desarrollo y terminación del servicio, atendiendo lo establecido en la Ley General del Sistema Nacional de Seguridad Pública, en la presente ley, las respectivas leyes orgánicas y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 La Policía Investigadora adscrita a la Fiscalía Estatal en materia de carrera policial se sujetará a lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública, en la presente ley y demás disposiciones aplicables.
 
@@ -1245,11 +1295,11 @@ Los titulares de las categorías jerárquicas estarán facultados para ejercer l
 
 ### Capítulo III. Del ingreso y permanencia
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
 
 ###### Artículo 77.
 
-El ingreso es el procedimiento de integración de los candidatos a la estructura institucional, el cual tendrá verificativo al terminar la etapa de formación inicial o capacitación en las academias, en el Instituto de Formación y Profesionalización de la Fiscalía Estatal o el Instituto Jalisciense de Ciencias Forenses, el periodo de prácticas correspondiente y la acreditación del cumplimiento de los requisitos previstos en la presente ley y demás disposiciones aplicables.
+El ingreso es el procedimiento de integración de los candidatos a la estructura institucional, el cual tendrá verificativo al terminar la etapa de formación inicial o capacitación en las academias de la Secretaría, en el Instituto de Formación y Profesionalización de la Fiscalía Estatal o el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, el periodo de prácticas correspondiente y la acreditación del cumplimiento de los requisitos previstos en la presente ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
@@ -1373,9 +1423,11 @@ No obstante lo anterior, podrán existir nombramientos de designación especial;
 
 ### Capítulo IV. De la terminación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
+
 ###### Artículo 83.
 
-La conclusión del servicio profesional de carrera para personal ministerial y elementos operativos de las instituciones de seguridad pública y peritos del Instituto Jalisciense de Ciencias Forenses es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
+La conclusión del servicio profesional de carrera para personal ministerial y elementos operativos de las instituciones de seguridad pública y peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
 
 I. Separación por incumplimiento a cualquiera de los requisitos de permanencia.
 
@@ -2023,9 +2075,11 @@ VI. Los factores asociados a la problemática de seguridad pública de todo el e
 
 ### Capítulo II. Del registro estatal de información sobre seguridad pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
+
 ###### Artículo 150.
 
-La Secretaría organizará, administrará y actualizará de forma permanente el registro, mismo que contendrá todos los datos de identificación de los elementos operativos de los cuerpos de seguridad pública del Estado y los municipios, la Procuraduría respecto de sus elementos y el Instituto Jalisciense de Ciencias Forenses de sus peritos, que entre otros y como mínimo, serán los siguientes:
+La Secretaría organizará, administrará y actualizará de forma permanente el registro, mismo que contendrá todos los datos de identificación de los elementos operativos de los cuerpos de seguridad pública del Estado y los municipios, la Fiscalía Estatal respecto de sus elementos y el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, de sus peritos, que entre otros y como mínimo, serán los siguientes:
 
 I. Las generales y media filiación;
 
@@ -2125,7 +2179,9 @@ IV. Las autoridades judiciales;
 
 V. Las autoridades administrativas de readaptación y reinserción social;
 
-VI. Los peritos del Instituto Jalisciense de Ciencias Forenses, y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+VI. Los peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, y
 
 VII. Otras autoridades relacionadas con la materia.
 
@@ -2243,9 +2299,9 @@ También queda prohibida la colocación de propaganda, mantas, lonas, carteles, 
 
 Las instancias interesadas bajo su operación, resguardo y presupuesto, que podrán solicitar al "Escudo Urbano C5", la instalación de equipos y sistemas tecnológicos para la seguridad pública en los bienes de uso común del Estado de Jalisco son:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-I. El titular de la Fiscalía Estatal, a propuesta de la dependencia del Ejecutivo del Estado encargada de la Seguridad Pública y los Fiscales.
+I. Los titulares de la Fiscalía Estatal y de la Secretaría;
 
 II. Las dependencias y entidades de la administración pública del estado que justifiquen la necesidad de su instalación, para prevenir situaciones de emergencia o desastre e incrementar la seguridad pública;
 
@@ -2253,27 +2309,41 @@ III. Los consejos metropolitanos, a propuesta de sus autoridades de seguridad p�
 
 IV. Los presidentes municipales, a propuesta de sus autoridades de seguridad pública o del ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
 
 ###### Artículo 169.
 
-Son criterios para la instalación y operación de equipos y sistemas tecnológicos lo (sic) siguientes:
+Son criterios para la instalación y operación de equipos y sistemas tecnológicos los siguientes:
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2018)</small>
 
 I. Zonas escolares, recreativas y lugares de mayor afluencia de público, turismo o comercio;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2018)</small>
+
 II. Las áreas públicas de zonas, colonias, unidades habitacionales y demás lugares de concentración o afluencia de personas o tránsito de las mismas, registradas con mayor incidencia delictiva en la estadística criminal de las autoridades de seguridad pública, de los municipios o del 911, 089 y Locatel.
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2018)</small>
 
 III. Las colonias, manzanas, avenidas, calles y demás lugares que registren los delitos de mayor impacto para la sociedad;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-IV. Las intersecciones viales más conflictivas clasificadas por la Secretaría del Transporte o por los municipios;
+IV. Las intersecciones viales más conflictivas clasificadas por la Secretaría de Transporte; Secretaría de Seguridad o por los municipios, de conformidad a la normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2018)</small>
 
 V. Las zonas con mayor índice de percepción de inseguridad;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2018)</small>
+
 VI. Las zonas con mayor vulnerabilidad a fenómenos de origen natural o humano identificados en los atlas de riesgo;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2018)</small>
+
 VII. Cualquier instrumento de análisis diferente a la prevención, que permita la toma de decisiones en materia de seguridad pública, así como aquella información que posibilite su adecuada colocación, para el cumplimiento de sus fines; o
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2018)</small>
 
 VIII. Las zonas registradas con mayor incidencia de infracciones administrativas.
 
@@ -2349,11 +2419,11 @@ El Director General del C5, a través de sus áreas competentes, verificará el 
 
 Corresponde al "Escudo Urbano C5" proponer, coordinar y ejecutar la implementación de las acciones derivadas de las disposiciones que, en materia de uso de tecnología de la información y comunicación para la seguridad pública, determinen la presente ley, la Ley de Protección de Datos, la Ley de Transparencia y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
 
 ###### Artículo 178.
 
-Corresponde a las autoridades en materia de seguridad pública, a la Secretaría del Transporte, Protección Civil y a los municipios proponer y ejecutar las acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen en la presente ley, la Ley de Protección de Datos, la Ley de Transparencia y demás disposiciones aplicables.
+Corresponde a las autoridades en materia de seguridad pública, a la Secretaría del Transporte, Protección Civil y a los municipios proponer y ejecutar las acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen en la presente ley, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios, la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2579,9 +2649,13 @@ I. Que los permisionarios de los servicios de seguridad privada cuenten con auto
 
 II. Que el suministro de información o productos de inteligencia tenga como función principal la debida actuación de los permisionarios en el desempeño de sus servicios de seguridad privada, así como el combate a la delincuencia y otras conducta (sic) ilícitas, en ejercicio de sus actividades auxiliares o complementarias de la seguridad pública;
 
-III. Que no existan antecedentes de haber incumplido las obligaciones de suministro de información, contenidas en esta Ley, así como la consistente en proporcionar apoyo y colaboración a las autoridades e (sic) autoridades de seguridad pública, cuando éstas lo requieran en caso de emergencia, siniestro o desastre, conforme al artículo 45, fracción IX del Reglamento de los Servicios Privados de Seguridad del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-IV. Que las empresas de seguridad privada no hayan sido sancionadas en los últimos seis meses por el "Escudo Urbano C5", de conformidad con la Ley de Seguridad Privada para el Estado de Jalisco; y
+III. Que no existan antecedentes de haber incumplido las obligaciones de suministro de información, contenidas en esta Ley, así como la consistente en proporcionar apoyo y colaboración a las autoridades de seguridad pública, cuando éstas lo requieran en caso de emergencia, siniestro o desastre, conforme al Reglamento de Seguridad Privada;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+IV. Que las empresas de seguridad privada no hayan sido sancionadas en los últimos seis meses por el "Escudo Urbano C5", de conformidad con el Reglamento de Seguridad Privada: y
 
 V. El Ejecutivo del Estado procurará que con la suscripción del convenio no se beneficie indebidamente a un permisionario de servicios de seguridad privada en perjuicio de otros.
 
@@ -2698,6 +2772,22 @@ II. Se podrán realizar las diligencias y actividades que se estimen necesarias 
 III. Integrado el expediente se remitirá acompañado de la solicitud de sanción al superior jerárquico u órgano facultado para imponer sanciones al responsable; y
 
 IV. La imposición de las sanciones se realizará en términos de la Legislación Penal, Civil o la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+###### Artículo 214 Bis.
+
+Las oficinas bancarias, así como las personas físicas o jurídicas con actividades dedicadas a giros comerciales y de prestación de servicios que incumplan con los lineamientos en materia de seguridad emitidos por el Consejo Estatal, se harán acreedores a las siguientes sanciones:
+
+I. Apercibimiento;
+
+II. Multa de 1000 a 10,000 veces el valor diario de la Unidad de Medida y Actualización;
+
+III. Clausura temporal; o
+
+IV. Clausura definitiva.
+
+La imposición de las sanciones previstas en este artículo será competencia de los municipios.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2889,7 +2979,9 @@ La ciudadanía cuando lo solicite, podrá conocer sobre las personas que detiene
 
 En la Fiscalía Estatal y en cada secretaría, dependencia e institución de seguridad pública del Estado y los municipios, existirá un área especializada para investigar las quejas que los ciudadanos presenten en contra de sus elementos operativos, con capacidad para esclarecer los hechos materia de las mismas, turnándolo a la instancia u órgano competente, independientemente de las acciones penales y responsabilidades administrativas que, en su caso, procedan.
 
-Dicha área no dependerá de ninguna adscripción operativa de las instituciones de seguridad pública; deberá de estar adscrita al despacho del titular de la Fiscalía Estatal o dependencia del Poder Ejecutivo del Estado, o en su caso, al Presidente Municipal o al Síndico del municipio.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+Dicha área no dependerá de ninguna adscripción operativa de las instituciones de seguridad pública; deberá de estar adscrita al despacho del titular de la Fiscalía Estatal o dependencia del Poder Ejecutivo del Estado competente, o en su caso, al Presidente Municipal o al Síndico del municipio.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2897,7 +2989,9 @@ Dicha área no dependerá de ninguna adscripción operativa de las instituciones
 
 Corresponderá a la Fiscalía Estatal la recepción de las denuncias anónimas que realice la ciudadanía sobre presuntos delitos del orden común o federal a través de vía telefónica, medio electrónico o cualquier otro medio de comunicación que surja o se implemente para este fin, así como dar trámite ante las autoridades competentes y seguimiento oportuno a los casos que se le presenten por este servicio.
 
-La respectiva unidad de la Fiscalía Estatal utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias relacionada (sic) con las denuncias anónimas concernientes a hechos presuntamente delictuosos.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+La respectiva unidad de la Fiscalía Estatal utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias relacionadas con las denuncias anónimas concernientes a hechos presuntamente delictuosos.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2913,7 +3007,13 @@ La respectiva unidad de la Fiscalía Estatal utilizará los métodos de investig
 
 Corresponde al Estado la función de seguridad pública. Sin embargo, cuando las circunstancias lo permitan se podrá autorizar a particulares la prestación del servicio de seguridad privada, bajo los requisitos, condiciones, modalidades y regulaciones que fijen la presente ley y el Reglamento de los Servicios de Seguridad Privada.
 
-El servicio de seguridad privada es aquel que se presta por personas físicas o jurídicas legalmente constituidas y registradas en los términos de la ley y el reglamento específico, con la finalidad de proteger la integridad física de quienes los contraten, así como vigilar o custodiar los bienes, valores o el traslado de los mismos, siempre que hayan obtenido la autorización correspondiente del Consejo Estatal, el cual será distinto al que prestan los cuerpos de seguridad pública.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+El servicio de seguridad privada es aquel que se presta por personas físicas o jurídicas legalmente constituidas y registradas en los términos del reglamento específico, con la finalidad de proteger la integridad física de quienes los contraten, o se vean vinculados con el servicio, así como vigilar o custodiar los bienes, valores y el traslado de los mismos, la instalación de blindajes en de todo tipo de vehículos automotores y en equipos, sistemas de alarmas, instalación y monitoreo electrónico, así como la comercialización de prendas de vestir, accesorios, dispositivos, aparatos, sistemas o procedimientos técnicos especializados vinculados con la seguridad privada, siempre que hayan obtenido la autorización o registro correspondiente del Consejo Estatal, el cual será distinto al que prestan los cuerpos de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+No obstante lo anterior, y hasta en tanto no se emita la autorización por parte del Consejo Estatal de Seguridad Pública, el Secretariado Ejecutivo de dicho órgano colegido (sic), podrá emitir autorización provisional para prestar servicios de seguridad privada en esta entidad federativa, siempre y cuando el particular cumpla con los requisitos que para tal efecto se establezcan en el Reglamento de Seguridad Privada.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2923,11 +3023,15 @@ Para los efectos de esta ley, los servicios de seguridad privada solamente podr�
 
 I. Protección y vigilancia:
 
-a) De bienes muebles o inmuebles; y
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+a) De bienes; y
 
 b) De personas físicas.
 
-La protección de personas físicas sólo podrá prestarse a través de empresas privadas autorizadas conforme a esta ley, sus reglamentos y otras disposiciones aplicables.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+La protección para personas físicas solo podrá prestarse a través de particulares autorizados conforme a esta Ley, el Reglamento de Seguridad Privada y otras disposiciones aplicables.
 
 Quedan (sic) prohibida la protección de personas físicas no autorizadas conforme al párrafo anterior.
 
@@ -2935,25 +3039,37 @@ II. Custodia y vigilancia de bienes o valores;
 
 III. Traslado y protección de bienes o valores;
 
-IV. Instalación o comercialización de blindajes en todo tipo de vehículos automotores y de equipos, prendas de vestir, dispositivos, aparatos, sistemas o procedimientos técnicos especializados relacionados con el blindaje, en todo caso lo anterior señalado será pormenorizado por el reglamento; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-V. Sistemas de alarmas, instalación y monitoreo electrónico, exceptuándose la instalación y comercialización de alarmas en vehículos automotores.
+IV. La instalación de blindajes en todo tipo de vehículos automotores y en equipos;
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+V. Sistemas de alarmas, instalación y monitoreo electrónico, exceptuándose la instalación y comercialización de alarmas en vehículos automotores;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+VI. El realizado por personas pertenecientes a organismos e instituciones de servicios financieros o análogos, incluyendo el servicio prestado por éstos para la protección, vigilancia o custodia y traslado de bienes o valores;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+VII. El que se preste en áreas de asentamiento humano, tales como colonias, fraccionamientos y zonas residenciales, aunque dichos servicios sean a costa de los residentes de esos lugares;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+VIII. El organizado internamente por industrias, establecimientos fabriles o comerciales para vigilancia interior de los locales, sin importar la existencia de una relación laboral o de prestación de servicios profesionales entre los encargados de ejecutar los servicios y la unidad económica que los contrate; y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+IX. Los particulares que se dediquen a la comercialización de prendas de vestir, accesorios, dispositivos, aparatos, sistemas o procedimientos técnicos especializados relacionados con la seguridad privada, de conformidad a lo señalado en el Reglamento de Seguridad Privada.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+En los casos de las fracciones de la VI a la IX, solo se tendrá la obligación de registrarse ante el Consejo Estatal, a través de su Secretariado Ejecutivo y cumplir con las obligaciones que determine el reglamento, en todos los demás casos, se estará a lo dispuesto por el artículo 227 de esta ley.
 
 ###### Artículo 229.
 
-Dentro de las modalidades mencionadas en el artículo anterior serán considerados como servicios de seguridad privada los siguientes:
-
-I. El realizado por personas y cuerpos privados de seguridad pertenecientes a organismos e instituciones de servicios financieros o análogos, incluyendo el servicio prestado por éstos para la protección, vigilancia o custodia y traslado de bienes o valores;
-
-II. El que se preste en áreas urbanas como colonias, fraccionamientos y zonas residenciales, aunque dichos servicios sean a costa de los residentes de esos lugares;
-
-III. El organizado internamente por industrias, establecimientos fabriles o comerciales para vigilancia interior de los locales, sin importar la existencia de una relación laboral o de prestación de servicios profesionales entre los encargados de ejecutar los servicios y la unidad económica que los contrate; y
-
-IV. Los particulares que se dediquen a la compraventa y fabricación de cualquier tipo de equipo y artículo de seguridad conforme al reglamento.
-
-En estos casos, sólo se tendrá la obligación de registrarse ante el Consejo Estatal, a través de su Secretaría Ejecutiva, previa opinión favorable de la Secretaría, y cumplir con las obligaciones que determine el reglamento.
+(DEROGADO, P.O. 21 DE ABRIL DE 2020)
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2965,9 +3081,9 @@ I. Queda estrictamente prohibida la realización de actividades que sean compete
 
 II. No deberán utilizar las denominaciones de "policía", "agentes", o "investigadores" en su publicidad, documentos o bienes, debiendo identificarse como elementos de seguridad privada. También queda prohibido a estos elementos usar el escudo nacional, del Estado o municipios, logotipos, lemas o uso de claves operativas para la comunicación de las instituciones de seguridad pública;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-III. Tendrán obligación de informar a la Fiscalía Estatal de los movimientos administrativos de sus elementos;
+III. Tendrán obligación de informar a la Fiscalía Estatal y al Consejo Estatal de Seguridad Pública los movimientos administrativos de sus elementos.
 
 IV. Deberán denunciar de inmediato al Ministerio Público cuando tengan conocimiento de la comisión de un delito;
 
@@ -3364,3 +3480,21 @@ SEGUNDO. El titular del Poder Ejecutivo contará con el plazo de 45 días para r
 TERCERO. Una vez conformado el nuevo Consejo Ciudadano, este deberá proponer, en un plazo no mayor a 30 días hábiles, los ajustes necesarios al Reglamento Interno, para someterlos a consideración del Gobernador del Estado con el fin de cumplir con lo previsto en el presente decreto.
 
 CUARTO. Para el ejercicio 2020, se autoriza al titular Poder Ejecutivo del Estado para que, por conducto de la Secretaría de la Hacienda Pública, realice las adecuaciones administrativas y presupuestales necesarias de conformidad a la suficiencia presupuestal, con cargo a la Unidad Presupuestal que corresponda. El titular del Poder Ejecutivo deberá informar al Poder Legislativo dentro de los 15 días hábiles posteriores, las adecuaciones llevadas a cabo en los términos del presente decreto.
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27884/LXII/20 MEDIANTE EL CUAL SE MODIFICAN LOS ARTÍCULOS 3°, 15, 17, 18, 18 BIS, 19, 24, 26, 27, 68, 70, 77, 83, 150, 157, 168, 169, 178, 201, 225, 226, 227, 228, 229, Y 230 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de si (sic) publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Consejo Estatal de Seguridad Pública deberá emitir los lineamientos en materia de medidas de seguridad con que deberán contar las oficinas bancarias, los giros comerciales y de prestación de servicios, en plazo no mayor a sesenta días hábiles a partir de la entrada en vigor del presente decreto. Dichos lineamientos deberán ser remitidos al Congreso del Estado para su conocimiento.
+
+TERCERO. Una vez emitidos los lineamientos por el Consejo Estatal de Seguridad Pública, los sujetos obligados deberán observar lo dispuesto en ellos en un plazo no mayor a treinta días hábiles a partir de su emisión.
+
+CUARTO. Se autoriza al titular del Poder Ejecutivo para efectos de que por conducto de la Secretaría de la Hacienda Pública y, la Secretaría de Administración, lleven a cabo las adecuaciones presupuestales necesarias para dar cumplimiento al presente decreto.
+
+QUINTO. El titular del Poder Ejecutivo deberá realizar las modificaciones necesarias al Reglamento de la Secretaría de Seguridad en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor del presente decreto.
+
+SEXTO. Hasta en tanto no se reforme el Reglamento del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública, en lo sucesivo todas las referencias de los artículos en los que se menciona a la Secretaría General de Gobierno, se entenderán como si se refiera (sic) a la coordinación General Estratégica de Seguridad.
+
+SEPTIMO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
