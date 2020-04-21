@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2020-03-31"
+last_updated: "2020-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -2671,6 +2671,22 @@ Las autoridades y funcionarios públicos en el desempeño de sus cargos, podrán
 
 El Congreso no podrá reunirse para tomar acuerdo o determinación oficial alguna, fuera del Recinto que le está destinado al efecto, salvo en caso de que por fuerza mayor o por circunstancias imprevistas no pudiera reunirse en este. En tales casos, el Congreso podrá constituirse en local distinto al oficial; y al efecto investirá de la legalidad necesaria al lugar que ocupe, expedirá el Decreto correspondiente y dará aviso a las Autoridades Estatales y Federales, informando sobre los motivos que le hayan asistido para tomar tal determinación. Una vez desaparecidas las causas que motivaron el cambio de Recinto, volverá el Congreso del Estado a su Recinto Oficial, expidiéndo el Decreto respectivo y dando aviso a los otros Poderes.
 
+> <small>(ADICIONADO, B.O. 21 DE ABRIL DE 2020)</small>
+
+Si el caso fortuito o la fuerza mayor fueren tales que las y los diputados no pudieren reunirse a sesionar de manera presencial, quien ocupe la presidencia de la mesa directiva dispondrá lo necesario para que mientras exista el impedimento, las sesiones ordinarias o extraordinarias según corresponda, se celebren de manera virtual. Los integrantes de la legislatura deberán ser convocados mediante correo electrónico, con al menos 48 horas de anticipación.
+
+> <small>(ADICIONADO, B.O. 21 DE ABRIL DE 2020)</small>
+
+Las sesiones virtuales que se convoquen para celebrarse en día martes o en día jueves dentro del periodo ordinario, se considerarán ordinarias, independientemente de la hora en que se lleven a cabo. Si las sesiones se celebran cualquier otro día se considerarán extraordinarias. Las sesiones virtuales deberán conservarse mediante cualquier medio digital que permita su posterior reproducción.
+
+> <small>(ADICIONADO, B.O. 21 DE ABRIL DE 2020)</small>
+
+La Oficialía Mayor llevará a cabo el registro de los asuntos en el orden del día de las sesiones que se celebren de forma virtual, a través de correo electrónico, a partir del momento que se convoque y hasta las seis de la tarde del día anterior a la celebración de la sesión que corresponda.
+
+> <small>(ADICIONADO, B.O. 21 DE ABRIL DE 2020)</small>
+
+Las proposiciones con punto de acuerdo, iniciativas de ley o decreto y dictámenes en primera lectura que de conformidad con el artículo 97 de esta Ley se deben presentar físicamente ante la Oficialía Mayor, en estos casos, los referidos documentos se enviaran solamente en documento digital mediante el correo electrónico que la Diputada o Diputado tenga debidamente registrado ante la Oficialía Mayor para los efectos. El documento deberá ser suscrito mediante la firma electrónica certificada de la Diputada o el Diputado, en caso de carecer de la misma, él envió del documento digital en el correo electrónico debidamente registrado y su sola lectura en la sesión virtual será suficiente para tenerse por debidamente presentado, sin necesidad que el documento sea firmado posteriormente por su suscriptor o suscriptores.
+
 ###### ARTICULO 188.
 
 Tanto los Diputados como los demás funcionarios y personas que tengan que hablar ante el Congreso, lo harán puestos de pié a excepción del Presidente que solamente lo hará en caso de tomar parte de los debates, de haberse inscrito en pro o en contra de algún asunto y hará uso de ella en el turno que le corresponda.
@@ -3752,3 +3768,9 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación y se en
 SEGUNDO. Se derogan los transitorios SEGUNDO y TERCERO del decreto 2626 publicado en el Boletín Oficial del Gobierno del Estado el 10 de agosto de 2019.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 2713 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO AL ARTÍCULO 187, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente decreto entrará en vigor el día de su aprobación, debiendo enviarse para su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
