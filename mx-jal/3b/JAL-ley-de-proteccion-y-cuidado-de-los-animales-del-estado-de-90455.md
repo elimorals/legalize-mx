@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-cuidado-de-los-animales-del-estado-de-90455
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-29"
-last_updated: "2019-07-11"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 29 de noviembre de 2012.
 
@@ -195,21 +195,31 @@ Corresponde a las Agencias del Ministerio Público en materia de violencia contr
 
 I. Auxiliarse de peritos del Instituto Jalisciense de Ciencias Forenses en materia de medicina veterinaria y zootecnia, biología, o de carreras afines para los delitos contra los animales; y
 
-II. Las demás establecidas en la Ley Orgánica de la Fiscalía General del Estado de Jalisco, y disposiciones legales, reglamentarias y normativas aplicables.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
+II. Las demás establecidas en la Ley Orgánica de la Fiscalía del Estado de Jalisco, y disposiciones legales, reglamentarias y normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
 
 ###### Artículo 7° Ter.
 
-Corresponde a la Fiscalía General del Estado en coordinación con los municipios, las siguientes facultades:
+Corresponde a la Fiscalía Estatal en coordinación con los municipios, las siguientes facultades:
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
 
 I. Crear y operar la Unidad Especializada de Protección Animal, conforme a su capacidad presupuestal, la cual estará integrada por personal capacitado en las materias de medicina veterinaria, biología o carreras afines;
 
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+
 II. La vigilancia y prevención de los delitos derivados de actos de violencia contra los animales;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
 
 III. Intervenir en los casos de delitos de violencia y crueldad en contra de animales y, en su caso, poner a disposición de las autoridades municipales, estatales o federales los animales maltratados para su resguardo, lo anterior conforme las disposiciones legales aplicables; y
 
-IV. Las demás establecidas en la presente ley, en la Ley Orgánica de la Fiscalía General del Estado de Jalisco, y en las disposiciones legales, reglamentarias y normativas aplicables.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+IV. Las demás establecidas en la presente ley, en la Ley Orgánica de la Fiscalía del Estado de Jalisco, y en las disposiciones legales, reglamentarias y normativas aplicables.
 
 ###### Artículo 8.
 
@@ -301,9 +311,13 @@ a) Salud, quien presidirá el Consejo;
 
 b) Medio Ambiente y Desarrollo Territorial;
 
-c) Educación Pública, y
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
 
-d) Desarrollo Rural.
+c) Educación; y
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+d) Agricultura y Desarrollo Rural;
 
 II. Cinco representantes de las asociaciones protectoras de animales registradas, y
 
@@ -948,3 +962,7 @@ P.O. 11 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27292/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°, 7°, 15, 53 Y EL CAPÍTULO IV DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; 6° DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO; 5° Y 7° DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; 26 Y 83 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; Y EL 41 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2020.
+
+> <small>[N. DE E. EL “DECRETO 27876/LXII/20 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7° BIS, 7° TER Y 14 DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.]</small>
