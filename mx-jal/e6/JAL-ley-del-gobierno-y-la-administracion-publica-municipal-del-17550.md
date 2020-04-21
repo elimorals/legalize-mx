@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2020-04-02"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -588,6 +588,10 @@ Las sesiones del Ayuntamiento son públicas, salvo aquellas que por causas justi
 Son sesiones con carácter de reservadas, las que versen sobre asuntos de seguridad pública, cuando exista algún riesgo inminente que ponga en peligro la gobernabilidad o la tranquilidad de la población o cuando por la naturaleza del asunto tenga que ver con cuestiones internas del Ayuntamiento.
 
 Cuando el público asistente a las sesiones no guarde el orden debido, el Presidente Municipal puede auxiliarse de la fuerza pública para desalojar el recinto en donde sesione el Ayuntamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2020)</small>
+
+Las sesiones del Ayuntamiento, con excepción de aquellas que tengan el carácter de reservadas, deberán ser transmitidas en tiempo real mediante audio y video.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -2828,3 +2832,11 @@ P.O. 2 DE ABRIL DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Exhortar a los municipios enlistados dentro del artículo 4° de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, a elaborar lineamientos enfocados en mecanismos de rendición de cuentas y transparencia los cuales servirán para capacitar a los ciudadanos contemplados en el artículo 123 de la presente reforma.
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27854/LXII/20, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 30 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, REFORMA EL ARTÍCULO 15 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco (ITEI), podrá brindar apoyo y capacitación técnica a los sujetos obligados municipales, para el debido cumplimiento del presente decreto.
