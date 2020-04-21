@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-la-igualdad-entre-mujeres-y-hombres-75928"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-05"
-last_updated: "2019-10-19"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 5 de agosto de 2010.
 
@@ -43,17 +43,21 @@ LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Jalisco, y tiene por objeto hacer efectivo el derecho a la igualdad de trato y oportunidades entre mujeres y hombres, independientemente de su grupo generacional y estado civil, mediante la eliminación de cualquier forma de discriminación hacia la mujer, sea cual fuere su circunstancia o condición en cualquiera de los ámbitos de la vida.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Jalisco, y tiene por objeto hacer efectivo el derecho a la igualdad de trato y oportunidades entre mujeres y hombres, mediante la eliminación de cualquier forma de discriminación hacia la mujer, sea cual fuere su circunstancia o condición en cualquiera de los ámbitos de la vida.
 
 ###### Artículo 2.
 
 Son principios rectores de la presente Ley: la igualdad, la no discriminación y el respeto a la dignidad humana.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
+
 ###### Artículo 3.
 
-Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio estatal, que por razón de su género, su edad, estado civil, profesión, cultura, origen étnico, condición social, salud, religión, opinión o capacidades diferentes, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
+Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio estatal, que por razón de su género, su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión, preferencia sexual o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
 
 Las obligaciones establecidas en esta Ley serán de aplicación a toda persona, física o jurídica, cualquiera que fuese su nacionalidad, domicilio o residencia.
 
@@ -61,9 +65,17 @@ Las obligaciones establecidas en esta Ley serán de aplicación a toda persona, 
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acciones afirmativas: conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-II. Transversalidad: proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres, cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en instituciones públicas y privadas.
+I. Acciones afirmativas: conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+II. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género, y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN II], P.O. 21 DE ABRIL DE 2020)
+
+III. Transversalidad: proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres, cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en instituciones públicas y privadas.
 
 ###### Artículo 5.
 
@@ -433,7 +445,9 @@ La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres deberá revisar y 
 
 Los informes anuales del Titular del Poder Ejecutivo del Estado de Jalisco, deberán contener el estado que guarda la ejecución del Programa Estatal para la Igualdad entre Mujeres y Hombres, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Ley.
 
-### CAPÍTULO QUINTO. DEL INSTITUTO JALISCIENSE DE LAS MUJERES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO QUINTO. DE LA SECRETARÍA DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -882,5 +896,17 @@ OCTAVO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 19 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27377/LXII MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 84 DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27856/LXII/20, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1°, 3°, 4°, TODOS DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27857/LXII/20, MEDIANTE EL CUAL SE REFORMA LA NOMENCLATURA DEL CAPÍTULO QUINTO DEL TÍTULO V DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
