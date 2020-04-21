@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2020-04-02"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -1741,9 +1741,17 @@ XVIII. Diseñar, implementar, promover y operar programas de fomento para transp
 
 XIX. Promover e impulsar la cultura de seguridad vial, mediante la elaboración e implementación de los programas respectivos;
 
-XX. Expedir los permisos temporales para circular en las condiciones que marca la normatividad vigente en la materia; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XX. En materia de violencia contra las mujeres, además de lo establecido en este y otros ordenamientos legales, la Secretaría se coordinará con sus homólogas de Igualdad Sustantiva entre Mujeres y Hombres y de Seguridad, para el diseño, implementación y operación de políticas públicas y programas integrales en contra de la violencia y el acoso sexual en el transporte público, en los términos de lo previsto en la fracción XXI del artículo 25 de la presente ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXI. Expedir los permisos temporales para circular en las condiciones que marca la normatividad vigente en la materia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ### Capítulo V. Fiscalía Estatal
 
@@ -2994,3 +3002,11 @@ P.O. 2 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27852/LXII/20 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII Y XIX Y ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 5° DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA; LAS FRACCIONES VII Y XIII, Y ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y REFORMAN LOS ARTÍCULOS 30 Y 30 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO SE REFORMA FRACCIÓN V DEL ARTÍCULO 26 Y FRACCIÓN III INCISO A NUMERAL 10 DEL ARTÍCULO 40 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27859/LXII/20, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
