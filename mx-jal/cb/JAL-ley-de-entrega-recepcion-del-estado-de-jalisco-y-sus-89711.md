@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-entrega-recepcion-del-estado-de-jalisco-y-sus-89711"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-13"
-last_updated: "2019-11-19"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 13 de octubre de 2012.
 
@@ -47,11 +47,19 @@ Ley de Entrega-Recepción del Estado de Jalisco y sus Municipios
 
 ° La presente ley es de orden público y observancia obligatoria y tiene por objeto establecer las normas generales conforme a las cuales los servidores públicos de los poderes del Estado, organismos constitucionales autónomos, ayuntamientos y los organismos de la administración centralizada y paraestatal, de las administraciones estatal y municipales del estado de Jalisco que administren fondos, bienes y valores públicos, entregarán a quienes los sustituyan al término de su empleo, cargo o comisión, los recursos humanos, materiales, financieros, documentos y demás información generada en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
 ###### Artículo 2.
 
-º La entrega-recepción es el procedimiento administrativo de interés público, de cumplimiento obligatorio y formal mediante el cual un servidor público que concluye su función, hace entrega del despacho a su cargo, mediante la elaboración del acta administrativa de entrega-recepción al servidor público que lo sustituye en sus funciones o a quien se designe para tal efecto o, en su caso, al órgano de control interno de la entidad pública de que se trate.
+° La entrega-recepción es el procedimiento administrativo de interés público, de cumplimiento obligatorio y formal mediante el cual un servidor público que concluye su función, hace entrega del despacho a su cargo, mediante la elaboración del acta administrativa de entrega-recepción al servidor público que lo sustituye en sus funciones o, en su caso al Órgano Interno de Control de la entidad pública de que se trate.
 
-La entrega-recepción se hará al tomar posesión del empleo, cargo o comisión el servidor público entrante o cuando el servidor público en funciones deje el cargo aunque no exista sustituto nombrado.
+La entrega-recepción se hará:
+
+I. Al tomar posesión del empleo, cargo o comisión el servidor público entrante;
+
+II. Por cualquier causa por la que concluya o se suspenda el ejercicio del servidor público de que se trate; y
+
+III. Al término de un ejercicio constitucional, o legal de las entidades.
 
 ###### Artículo 3.
 
@@ -125,21 +133,21 @@ Los servidores públicos tienen la obligación de llevar a cabo el procedimiento
 
 El servidor público que sin causa justificada dejare de cumplir la obligación de realizar el procedimiento de entrega-recepción será responsable administrativamente de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
 ###### Artículo 13.
 
-Cuando por causa justificada, los servidores públicos obligados a la entrega-recepción no puedan realizarla, dicha obligación correrá a cargo del servidor público que designe el superior jerárquico del obligado.
-
-Para los efectos de este artículo se considerarán como causas justificadas el deceso, la incapacidad física o mental, la reclusión por la comisión de algún delito, y las demás que establezcan las entidades en sus ordenamientos respectivos.
+Cuando por causa justificada, los servidores públicos obligados a la entrega-recepción no puedan realizarla, dicha obligación correrá a cargo del servidor público que designe el superior jerárquico del obligado o en su ausencia, el Órgano Interno de Control designará al servidor público que deba realizar el procedimiento administrativo de entrega-recepción.
 
 ###### Artículo 14.
 
 En caso de no tener certeza del nombramiento o designación de a quién se deba entregar, o no comparezca la persona que deba recibir, el servidor público obligado hará la entrega al órgano de control interno.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
 ###### Artículo 15.
 
-Los servidores públicos que en los términos de esta ley se encuentren obligados a realizar la entrega-recepción y que al término de su ejercicio sean ratificados en su cargo, deberán realizar el procedimiento administrativo de entrega-recepción ante su superior jerárquico y con la intervención del órgano de control interno, dentro de los primeros cinco días hábiles posteriores a su ratificación.
-
-En caso de que el servidor público saliente no tuviere superior jerárquico ante quien realizar (sic) el procedimiento administrativo de entrega-recepción, éste deberá llevarse a cabo ante el órgano de control interno que corresponda.
+Los servidores públicos que al término de su ejercicio sean ratificados en su cargo, o resulten reelectos al término de un proceso electoral, deberán presentar ante el órgano de control interno de la entidad pública de que se trate, un informe detallando el estado que guarda el despacho a su cargo, el cual deberá contener la información del artículo 20 de la presente Ley, dentro de los primeros quince días hábiles al inicio de su segundo periodo constitucional o posteriores a su ratificación.
 
 ### Capítulo II. Del procedimiento de entrega-recepción
 
@@ -185,21 +193,25 @@ Las entidades a que se refiere el artículo 1.º de la presente ley, en el últi
 
 ### Capítulo IV. Del acto de entrega-recepción
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
 ###### Artículo 20.
 
-Los servidores públicos salientes de las entidades a que se refiere el artículo 1º de la presente ley deberán preparar la información íntegra y detallada para la entrega de:
+Los servidores públicos salientes de las entidades a que se refiere el artículo 1º. de la presente ley deberán preparar la información íntegra y detallada para la entrega de:
 
-I. Los recursos humanos a su cargo;
+I. Los recursos humanos deberán contener siempre:
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2018)</small>
+a) La plantilla y expedientes de personal, tipo de nombramiento y adscripción; y
+
+b) La Relación de personal con licencia, permiso o comisión, área a la que está comisionado y el periodo de ausencia.
 
 II. Los bienes, derechos, recursos y obligaciones a su resguardo;
 
-III. La disposición de recursos financieros al día del acto de entrega-recepción;
+III. La información contable, presupuestaria, programática y financiera en los términos que señalan los artículos 47 y 48 de la Ley General de Contabilidad Gubernamental;
 
 IV. El total de asuntos pendientes;
 
-V. El Libro Blanco, cuando exista, y
+V. El Libro Blanco, cuando exista; y
 
 VI. La demás documentación e información señaladas, en los reglamentos de las entidades respectivas y la que a juicio del servidor público saliente deba ser incluida.
 
@@ -261,17 +273,19 @@ XI. Firma al calce y en cada hoja de los que intervinieron.
 
 La información a que se refiere el presente artículo, una vez que se encuentre verificada y validada, será considerada información pública de conformidad con las disposiciones en materia de transparencia e información pública.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+
 ###### Artículo 27.
 
-La verificación y validación física del contenido del acta de entrega-recepción y sus anexos a que se refiere la presente ley deberán llevarse a cabo por el servidor público entrante en un término no mayor a treinta días hábiles contados a partir del acto de entrega.
+En el proceso de entrega-recepción la verificación y validación física del contenido del acta y sus anexos deberán llevarse a cabo por el servidor público entrante y por el Órgano Interno de Control de la entidad pública, en un término no mayor a treinta días hábiles contados a partir del acto de entrega.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
 
 ###### Artículo 28.
 
-En caso de que durante la validación y verificación el servidor público entrante se percate de irregularidades en los documentos y recursos recibidos, dentro de un término no mayor de tres días hábiles posteriores al cumplimiento del plazo establecido en el artículo anterior deberá hacerlas del conocimiento del órgano interno de control correspondiente, a fin de que sea requerido el servidor público saliente y proceda a su aclaración.
+En caso de que durante la verificación y validación el servidor público entrante se percate de irregularidades en los documentos y recursos recibidos, dentro de un término no mayor de tres días hábiles posteriores al cumplimiento del plazo establecido en el artículo anterior deberá hacerlas del conocimiento al Órgano Interno de Control correspondiente. Si el Órgano Interno de Control es quien se percata de irregularidades en el informe realizado por el servidor público ratificado o reelecto, procederá conforme el siguiente párrafo.
 
-En su caso, el órgano interno de control requerirá al servidor público que corresponda a efecto de que en forma personal o por escrito comparezca, en un plazo no mayor a cinco días a la recepción de la notificación, a manifestar lo que corresponda. En caso de no comparecer dentro del término requerido, se procederá de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y sus Municipios.
+En ambos casos se requerirá al servidor público que corresponda a efecto de que en forma personal o por escrito comparezca, en un plazo no mayor a cinco días a la recepción de la notificación, a manifestar lo que corresponda. En caso de no comparecer dentro del término requerido, se procederá de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
@@ -374,3 +388,11 @@ Séptimo.- Los sujetos obligados deberán realizar las adecuaciones presupuestal
 Octavo.- La integración de las auditorías archivísticas en el programa anual de auditorías, deberá ser contemplada en el programa anual 2020.
 
 Noveno.- Para aquellos sujetos obligados que a la entrada en vigor del presente decreto no cuenten con un portal electrónico al que se refiere el artículo 65 de la Ley de Archivos del Estado de Jalisco y sus Municipios que se expide a través de este decreto, la publicación de los expedientes de disposición documental y transferencia secundaria se realizará a través del portal del Archivo General del Estado en los términos de las disposiciones legales aplicables.
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27878/LXII/20 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2°, 13, 15, 20, 27 Y 28 DE LA LEY DE ENTREGA-RECEPCIÓN D EL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Dentro de los sesenta días posteriores a la entrada en vigor del presente decreto, las entidades mencionadas en el artículo 1°. de éste deberán, en el ámbito de sus competencias, adecuar o expedir los reglamentos o acuerdos correspondientes para realizar la entrega-recepción de conformidad con los principios que establece este ordenamiento.
