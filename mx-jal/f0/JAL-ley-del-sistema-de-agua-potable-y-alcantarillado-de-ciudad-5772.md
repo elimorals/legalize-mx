@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-agua-potable-y-alcantarillado-de-ciudad-5772
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-03"
-last_updated: "2014-02-22"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE CIUDAD GUZMÁN, JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 3 de enero de 1991.
 
@@ -77,13 +77,13 @@ III. El Director de Obras Públicas Municipales;
 
 IV. El Director General del Consejo, que será nombrado por el Cabildo;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-V. Un representante de la Secretaría de Infraestructura y Obra Pública del Estado de Jalisco;
+V. Un representante de la Secretaría de Infraestructura y Obra Pública;
 
-REFORMADA, P.O. 22 DE FEBRERO DE 2014)
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-VI. Un representante de la Secretaría de Salud del Estado de Jalisco;
+VI. Un representante de la Secretaría de Salud;
 
 VII. Un representante de la Comisión Nacional del Agua;
 
@@ -135,9 +135,9 @@ XII. Resolver sobre las solicitudes para la prestación de los servicios de agua
 
 XIII. Ejercer la vigilancia general que los servicios demanden y tomar las medidas necesarias para su conservación y reparación, resolviendo lo relativo a sus mejoras y ampliaciones;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XIV. Promover ante el Ayuntamiento de Ciudad Guzmán, o al que corresponda, cuando se ejercite la facultad económica-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal, o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de Planeación, Administración y Finanzas de la entidad se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos, a través de sus oficinas de recaudación fiscal competentes;
+XIV. Promover ante el Ayuntamiento de Ciudad Guzmán, o al que corresponda, cuando se ejercite la facultad económica-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal, o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de la Hacienda Pública de la entidad se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos, a través de sus oficinas de recaudación fiscal competentes;
 
 XV. Vigilar el cumplimiento de las disposiciones de esta Ley y su Reglamento, por parte de los usuarios de los servicios, a través de su Director General y las Dependencias que se determinen;
 
@@ -282,3 +282,9 @@ Lic. Enrique Romero González
 P.O. 22 DE FEBRERO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27880/LXII/20 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 6º, Y LA FRACCIÓN XIV DEL ARTÍCULO 9° DE LA LEY DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE CIUDAD GUZMÁN, JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
