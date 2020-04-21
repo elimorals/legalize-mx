@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-139113"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-09"
-last_updated: "2019-11-09"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
-Reglamento publicado en la Sección XXII del número 20 del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2019.
+Reglamento publicado en la Sección XXII del número 20 del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2020.
 
-Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno de Jalisco. Poder Legislativo. Secretaría del Congreso.
+Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno de Jalisco. Poder Legislativo. Secretaria del Congreso.
 
 NÚMERO CPL-526-LXII-19
 
@@ -257,7 +257,9 @@ VI. La Secretaría General envía un ejemplar del Informe de la Legislatura a lo
 
 ## TÍTULO CUARTO. PROCEDIMIENTOS ESPECIALES
 
-### Capítulo I. Procedimientos para la elección de magistrados del Supremo Tribunal de Justicia del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2020)</small>
+
+### Capítulo I. Procedimiento para la elección de magistrados del Supremo Tribunal de Justicia del Estado
 
 ###### Artículo 16.
 
@@ -289,35 +291,55 @@ IV. La convocatoria debe publicarse cuando menos por una ocasión en el Periódi
 
 V. El registro de aspirantes debe ser en el Congreso del Estado;
 
-VI. Entre la publicación de la convocatoria y el inicio del periodo de registro de aspirantes deben mediar al menos quince días hábiles, a efecto de que los aspirantes puedan solicitar formalmente y en su caso obtener la acreditación de la evaluación de control de confianza;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+VI. Entre la publicación de la convocatoria y el inicio del periodo de registro de aspirantes deben mediar al menos quince días hábiles;
 
 VII. El periodo de registro de aspirantes no puede ser menor a tres días hábiles;
 
 VIII. A más tardar al día hábil siguiente en que cierre el registro de aspirantes debe publicarse la lista de los registrados, en el sitio web del Congreso del Estado;
 
-IX. La comisión legislativa competente solicitará el apoyo a organismos especializados de evaluación y/o a instituciones de educación superior públicas y privadas, para que diseñen y apliquen los exámenes teórico y práctico de conocimientos jurídicos a los aspirantes;
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-X. Los exámenes antes referidos serán calificados por los organismos o instituciones que los apliquen, quienes entregarán los resultados a la comisión legislativa competente, la cual los publicará en el sitio web del Congreso del Estado;
+IX. La comisión legislativa competente debe realizar una entrevista pública individual a cada aspirante registrado, a realizarse el día y hora señalada en la convocatoria o en el acuerdo interno que se publicará en el sitio web del Congreso del Estado. A la entrevista se invitará al Comité de Participación Social para que participe en la misma;
 
-XI. Los aspirantes deberán aprobar ambos exámenes con una calificación mínima de 80 sobre 100 en cada uno de ellos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XII. Los exámenes serán aplicados y calificados en el Congreso del Estado y podrán participar como observadores de su aplicación y calificación representantes de organismos privados y de la sociedad civil;
+X. La comisión legislativa competente solicitará el apoyo a organismos especializados de evaluación y/o a instituciones de educación superior públicas y privadas, para que diseñen y apliquen el examen teórico práctico de conocimientos jurídicos a los aspirantes;
 
-XIII. Para efectos de lo dispuesto en la fracción anterior, los organismos privados y de la sociedad civil interesados en participar deberán registrarse ante la comisión legislativa competente, en el plazo que se señale en la convocatoria, y podrán formular por escrito las observaciones que consideren pertinentes ante dicha comisión, hasta antes de que ésta apruebe el dictamen correspondiente;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XIV. Previo a la emisión del dictamen con la lista de los candidatos elegibles, la comisión legislativa competente debe verificar que el órgano de evaluación de control de confianza del Poder Judicial haya remitido los resultados de las evaluaciones de control de confianza de los aspirantes que al momento del registro hayan presentado copia de la solicitud para someterse a dichas evaluaciones;
+XI. El examen referido en la fracción anterior será calificado por los organismos o instituciones que los apliquen, quienes entregarán los resultados a la comisión legislativa competente, la cual los publicará en el sitio web del Congreso del Estado;
 
-XV. La comisión legislativa competente debe emitir el dictamen de acuerdo legislativo que proponga la lista de los candidatos elegibles para el cargo, en la que debe incluir a todos los aspirantes que hayan acreditado los requisitos legales, el examen teórico práctico y la evaluación de control de confianza;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XVI. Al dictamen de la comisión se debe acompañar como anexos, el informe con la opinión técnica del Comité de Participación Social, los informes de los observadores ciudadanos y los demás documentos que señale la convocatoria;
+XII. Los aspirantes deberán aprobar el examen con una calificación mínima de 80 sobre 100;
 
-XVII. La Asamblea debe aprobar el dictamen que propone la lista de candidatos elegibles, por mayoría simple y en votación nominal;
+XIII. Los exámenes serán aplicados y calificados en el Congreso del Estado y podrán participar como observadores de su aplicación y calificación representantes de organismos privados y de la sociedad civil;
 
-XVIII. Una vez aprobada la lista, la Asamblea debe elegir al magistrado o magistrada por el voto de cuando menos las dos terceras partes de los diputados y las diputadas integrantes de la legislatura, en votación por cédula, dentro de los treinta días naturales siguientes de presentado el dictamen a la Mesa Directiva del Congreso del Estado;
+XIV. Para efectos de lo dispuesto en la fracción anterior, los organismos privados y de la sociedad civil interesados en participar deberán registrarse ante la comisión legislativa competente, en el plazo que se señale en la convocatoria, y podrán formular por escrito las observaciones que consideren pertinentes ante dicha comisión, hasta antes de que ésta apruebe el dictamen correspondiente;
 
-XIX. En el caso de una convocatoria para varias vacantes, el presidente de la Mesa Directiva debe precisar antes de la votación por cédula correspondiente a cuál vacante corresponde la elección que se efectuará, identificándola con el nombre del magistrado que anteriormente la ocupaba o está por desocuparla; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XX. Una vez electo el magistrado o magistrada, la Asamblea debe aprobar y mandar publicar la minuta de acuerdo legislativo correspondiente, que precise el nombre de la persona designada, el cargo, la duración del mismo y la fecha determinada o el momento determinable a partir de cual inicia su periodo, así como tomar la protesta de ley previo a la toma de posesión de su cargo.
+XV. Previo a la emisión del dictamen con la lista de los candidatos elegibles, la comisión legislativa competente debe verificar que el órgano encargado de la evaluación de control de confianza haya remitido los resultados de las evaluaciones de los aspirantes;
+
+XVI. La comisión legislativa competente debe emitir el dictamen de acuerdo legislativo que proponga la lista de los candidatos elegibles para el cargo, en la que debe incluir a todos los aspirantes que hayan acreditado los requisitos legales, el examen teórico práctico y la evaluación de control de confianza;
+
+XVII. Al dictamen de la comisión se debe acompañar como anexos, el informe con la opinión técnica del Comité de Participación Social, los informes de los observadores ciudadanos y los demás documentos que señale la convocatoria;
+
+XVIII. La Asamblea debe aprobar el dictamen que propone la lista de candidatos elegibles, por mayoría simple y en votación nominal;
+
+XIX. Una vez aprobada la lista, la Asamblea debe elegir al magistrado o magistrada por el voto de cuando menos las dos terceras partes de los diputados y las diputadas integrantes de la legislatura, en votación por cédula, dentro de los treinta días naturales siguientes de presentado el dictamen a la Mesa Directiva del Congreso del Estado;
+
+XX. En el caso de una convocatoria para varias vacantes, el presidente de la Mesa Directiva debe precisar antes de la votación por cédula correspondiente a cuál vacante corresponde la elección que se efectuará, identificándola con el nombre del magistrado que anteriormente la ocupaba o está por desocuparla; y
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+XXI. Una vez electo el magistrado o magistrada, la Asamblea debe aprobar y mandar publicar la minuta de acuerdo legislativo correspondiente, que precise el nombre de la persona designada, el cargo, la duración de este y la fecha determinada o el momento determinable a partir de cual inicia su periodo, así como tomar la protesta de ley previo a la toma de posesión de su cargo.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2020)</small>
+
+2. Para efectos de la Evaluación de Control de Confianza a los aspirantes a magistrados, el Congreso del Estado celebrará convenio de colaboración con Instituciones acreditadas por el Centro Nacional de Certificación y Acreditación.
 
 ###### Artículo 17.
 
@@ -4326,3 +4348,11 @@ IRMA VERÓNICA GONZÁLEZ OROZCO
 DIPUTADA SECRETARIA
 
 PRISCILLA FRANCO BARBA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27868/LXII/20 SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO CUARTO PARA QUEDAR “PROCEDIMIENTO PARA LA ELECCIÓN DE MAGISTRADOS DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO“, LA FRACCIÓN VI, SE ADICIONA LA FRACCIÓN IX Y SE RECORREN LAS SUBSECUENTES, SE MODIFICAN LAS FRACCIONES X, XI, XII, XV, Y XXI, SE ADICIONA EL PARÁGRAFO 2 AL ARTÍCULO 16 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
