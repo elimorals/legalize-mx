@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-promover-la-igualdad-prevenir-y-eliminar-11092
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2020-01-25"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en la Sección LXIV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -751,9 +751,13 @@ Los órganos internos de control propondrán a los titulares y superiores jerár
 
 I. Al que por primera vez cometa alguna conducta discriminatoria se le propondrá una amonestación pública;
 
-II. Al que comenta (sic) dos o más conductas discriminatorias se le propondrá multa de trescientos a mil trescientos días de salario mínimo vigente en la zona metropolitana;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-III. Al que por segunda ocasión comenta (sic) alguna o más conductas discriminatorias se le propondrá una multa de quinientos a mil quinientos salarios mínimos vigentes en la zona metropolitana y suspensión de quince a sesenta días hábiles de su cargo;
+II. Al que cometa dos o más conductas discriminatorias se le propondrá multa de trescientos a mil trescientos (sic) veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+III. Al que por segunda ocasión cometa alguna o más conductas discriminatorias se le propondrá una multa de quinientos a mil quinientos (sic) veces el valor diario de la Unidad de Medida y Actualización y suspensión de quince a sesenta días hábiles de su cargo; y
 
 IV. Al que por tercera ocasión cometa alguna o más conductas discriminatorias se le propondrá la remoción definitiva del cargo.
 
@@ -846,5 +850,11 @@ P.O. 19 DE DICIEMBRE DE 2019.
 P.O. 25 DE ENERO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27521/LXII/19 QUE REFORMA EL ARTÍCULO 39 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27855/LXII/20, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II Y III DEL ARTÍCULO 57 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
