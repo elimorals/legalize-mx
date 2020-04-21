@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2019-12-28"
+last_updated: "2020-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -899,7 +899,9 @@ VIII. El Boletín Judicial y demás órganos de difusión y publicación oficial
 
 IX. Los acuerdos de trámite llevados ante los órganos judiciales;
 
-X. Las sentencias definitivas y convenios del Instituto de Justicia Alternativa que hayan causado estado, de los asuntos jurisdiccionales llevados ante los órganos judiciales, de cuando menos los últimos diez años, protegiendo la información confidencial y reservada;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+
+X. Las sentencias definitivas emanadas de cualquier órgano judicial y los convenios del Instituto de Justicia Alternativa, de cuando menos los últimos diez años, protegiendo la información confidencial y reservada;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
@@ -1391,13 +1393,17 @@ XXIV. La estadística de asistencias y registro de votación de las sesiones del
 
 XXV. Los ingresos municipales por concepto de participaciones federales y estatales, así como por ingresos propios, que integre la hacienda pública;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
-XXVI. En su caso la información relativa a la implementación del Presupuesto Participativo desde su planeación hasta su ejecución; y
+XXVI. En su caso la información relativa a la implementación del Presupuesto Participativo desde su planeación hasta su ejecución;
 
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
 
-XXVII. La que establezca el Reglamento Interno de Información Pública del Municipio correspondiente.
+XXVII. Los archivos electrónicos de video y audio de las sesiones del Ayuntamiento; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2020)</small>
+
+XXVIII. La que establezca el Reglamento Interno de Información Pública del Municipio correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -4564,3 +4570,21 @@ P.O. 28 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27757/LXII/19 QUE REFORMA EL ARTÍCULO 125 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27853/LXII/20, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 11 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Para el cumplimiento de las obligaciones derivadas del presente decreto, en lo referente a la publicación de las sentencias de los últimos diez años, el Supremo Tribunal de Justicia y el Consejo de la Judicatura, respectivamente, deberán emitir a más tardar en los siguientes 60 días contados a partir de la entrada en vigor del presente decreto, el acuerdo de implementación que contenga la programación, calendarización y progresividad con que se dará cumplimiento, sin que exceda del 01 de julio de 2022.
+
+TERCERO. El Supremo Tribunal de Justicia y el Consejo de la Judicatura deberán contemplar en su anteproyecto de presupuesto de egresos para los subsecuentes ejercicios fiscales, las partidas presupuestales suficientes para el cumplimiento de la obligación establecida en el presente decreto.
+
+P.O. 21 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27854/LXII/20, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 30 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, REFORMA EL ARTÍCULO 15 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco (ITEI), podrá brindar apoyo y capacitación técnica a los sujetos obligados municipales, para el debido cumplimiento del presente decreto.
