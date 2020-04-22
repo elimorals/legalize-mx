@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-sistema-para-el-desarrollo-integral-12187
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-05-31"
-last_updated: "2017-05-31"
+last_updated: "2020-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 22 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2020 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 31 de mayo de 2017.
 
@@ -1064,3 +1066,21 @@ LA SECRETARIA DE CULTURA
 CRISTINA JOSEFINA FAESLER BREMER
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS.”]
+
+PRIMERA. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Inscríbase el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por los artículos 83 y 84, fracción II de la Ley Orgánica.
+
+TERCERA. Se abroga el Estatuto Orgánico para el Sistema para Desarrollo Integral de la Familia del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5500, el 31 de mayo de 2017, y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Estatuto Orgánico.
+
+CUARTA. Dentro del plazo de 180 días hábiles posteriores a la entrada en vigor del presente Estatuto Orgánico, el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, deberá emitir los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto esto sucede, se mantendrán vigentes los actuales, en lo que no se opongan al presente Estatuto Orgánico.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar los trámites correspondientes para la identificación y asignación de plazas de nueva creación, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente, según corresponda.
+
+SEXTA. Las disposiciones no contenidas en el presente estatuto orgánico pueden solventarse con el Reglamento Interno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos hasta el momento en que se expida el Reglamento de la Ley de Asistencia Social y Corresponsabilidad Ciudadana para el Estado de Morelos que lo abrogue.
