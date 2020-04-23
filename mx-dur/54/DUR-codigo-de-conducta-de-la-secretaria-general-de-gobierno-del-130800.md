@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-de-la-secretaria-general-de-gobierno-del-130
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-02"
-last_updated: "2018-09-02"
+last_updated: "2020-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 23 DE ABRIL DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2020 (ABROGADO).
 
 Código publicado en el Bis al Número 70 del Periódico Oficial del Estado de Durango, el domingo 2 de septiembre de 2018.
 
@@ -350,3 +352,19 @@ Se expide el presente Código de Conducta, en la Ciudad Victoria de Durango, Dgo
 ARQ. ADRIÁN ALANÍS QUIÑONES
 
 PRESIDENTE DEL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA.- DEL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA GENERAL DE GOBIERNO”.]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Código de Conducta de la Secretaría General de Gobierno de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango el 02 de septiembre de 2018.
+
+TERCERO.- Las consultas de las páginas en línea, deberán estar en funciones dentro del término de 3 meses después de la publicación del presente código.
+
+CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango y en la página de internet de la Secretaría General de Gobierno del Estado de Durango.
+
+QUINTO.- Se instruye a los Titulares de las Unidades y órganos desconcentrados de la Secretaria General de Gobierno del Estado de Durango, a efecto de que pongan en práctica las medidas necesarias y pertinentes para dar debido cumplimiento a lo establecido en el presente Código.
