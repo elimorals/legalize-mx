@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2019-11-07"
+last_updated: "2020-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -600,6 +600,14 @@ II. Privadas, por excepción, las que se efectúen exclusivamente con la asisten
 III. Solemnes, las que deban efectuarse para celebrar uno o varios actos con determinadas formalidades protocolarias; y
 
 IV. Permanentes, las que se constituyan con ese carácter para tratar o desahogar el o los asuntos que se hubieren señalado en el orden del día.
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2020)</small>
+
+V. No presenciales, aquellas que se realicen a través de las tecnologías de la información.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, P.O. 23 DE ABRIL DE 2020.]</small>
+
+La realización de la sesión no presencial será convocada por la Presidencia de la Mesa directiva cuando existan razones de salubridad general, protección civil, contingencia sanitaria o cualquier otra que impidan el acceso a las y los legisladores al edificio sede del Poder Legislativo.
 
 ###### Artículo 56.
 
@@ -1231,7 +1239,9 @@ Las convocatorias a reunión de comisiones, deberán comunicarse con la anticipa
 
 I. Proyecto de orden del día;
 
-II. Fecha, hora y lugar preciso de su realización, dentro del Palacio Legislativo; y,
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2020)</small>
+
+II. Fecha, hora y lugar preciso de su realización, dentro del Palacio Legislativo, o en su caso, en sesión no presencial en los términos señalados en el artículo 55 de esta Ley; y,
 
 III. Relación pormenorizada de los asuntos que deberán ser votados por la Comisión.
 
@@ -2948,3 +2958,11 @@ SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entr
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
+
+P.O. 23 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 302.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al momento de su aprobación por el H. Congreso del Estado de Durango.
+
+Artículo Segundo.- La Secretaría General del Congreso realizará los ajustes administrativos necesarios para dar cumplimiento al presente decreto.
