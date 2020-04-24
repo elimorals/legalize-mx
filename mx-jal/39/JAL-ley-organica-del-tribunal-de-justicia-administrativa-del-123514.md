@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-tribunal-de-justicia-administrativa-del-123514
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-26"
-last_updated: "2018-11-17"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Ley publicada en la Sección IV al Número 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -175,7 +175,7 @@ Tribunal – Comunicaciones
 
 ###### Artículo 7.
 
-Sala Superior – Funcionamiento
+Sala Superior - Funcionamiento
 
 1. La Sala Superior debe sesionar las veces que sea necesario para resolver los asuntos de su competencia y cuando menos una vez al mes. Sus sesiones son públicas, salvo los casos que por causa justificada y por unanimidad se declaren como reservadas.
 
@@ -186,6 +186,20 @@ Sala Superior – Funcionamiento
 4. El magistrado que disienta de la mayoría puede formular voto particular, el cual se insertará en el acta correspondiente.
 
 5. En los asuntos de la competencia de la Sala Superior sólo procede recusación o excusa cuando se funde en parentesco hasta del cuarto grado o conflicto de intereses.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 24 DE ABRIL DE 2020)</small>
+
+6. En casos fortuitos o de fuerza mayor, que impidan o hagan inconveniente la presencia física de los Magistrados en un mismo lugar, las sesiones podrán celebrarse a distancia, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología que permita, por lo menos:
+
+I. La identificación visual plena de los Magistrados, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos; y
+
+III. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ABRIL DE 2020)</small>
+
+7. En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
 ###### Artículo 8.
 
@@ -331,7 +345,23 @@ Junta - Funcionamiento
 
 2. La Junta requiere de la asistencia de más de la mitad de sus integrantes para sesionar y tomar acuerdos.
 
-3. La Junta se (sic) requiere el voto a favor de más de la mitad de sus integrantes presentes para tomar acuerdos. No procede la abstención en las votaciones. En caso de empate, el presidente tiene voto de calidad.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+3. La Junta requiere el voto a favor de más de la mitad de sus integrantes presentes para tomar acuerdos. No procede la abstención en las votaciones. En caso de empate, el presidente tiene voto de calidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 24 DE ABRIL DE 2020)</small>
+
+4. En casos fortuitos o de fuerza mayor, que impidan o hagan inconveniente la presencia física de los integrantes de la Junta en un mismo lugar, las sesiones podrán celebrarse a distancia, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, que permita, por lo menos:
+
+I. La identificación visual plena de sus integrantes, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos; y
+
+III. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ABRIL DE 2020)</small>
+
+5. En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
 ###### Artículo 13.
 
@@ -716,3 +746,9 @@ P.O. 17 DE NOVIEMBRE DE 2018.
 PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Por única ocasión, quien presida la Sala Superior del Tribunal de Justicia Administrativa del Estado de Jalisco, al momento de la entrada en vigor de esta ley, durará en la presidencia hasta el 31 de enero de 2019.
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27902/LXII/20 QUE REFORMA LA FRACCIÓN 111 (SIC) DEL ARTÍCULO 47, CREA EL CAPÍTULO VII DENOMINADO DE LAS SESIONES A DISTANCIA Y ADICIONA LOS ARTÍCULOS 33 BIS, 33 TER, 33 QUÁTER, 33 QUINQUIES Y 33 SEXTIES, TODOS DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, EL ARTÍCULO 75 Y ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 115 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ADICIONA LOS ARTÍCULOS 22 BIS, 39 BIS, 143 BIS Y 153 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 27 Y ADICIONA LOS ARTÍCULOS 27 BIS Y 29 BIS, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 7 Y 12 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
