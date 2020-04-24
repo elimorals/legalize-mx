@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2020-02-27"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -1795,6 +1795,20 @@ Dicho Tribunal queda exceptuado para conocer y resolver las controversias o conf
 
 El Tribunal de Arbitraje y Escalafón actuará en pleno, cuando se trate de conflictos de naturaleza colectiva o de importancia trascendente, a juicio de los Magistrados; las votaciones serán nominales sin perjuicio de que en caso de discrepancia, el Magistrado inconforme emita voto particular por escrito.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+###### Art. 115 Bis.
+
+En casos fortuitos o de fuerza mayor, que impidan o hagan inconveniente la presencia física de los Magistrados en un mismo lugar, las sesiones podrán celebrarse a distancia, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, que permita por lo menos:
+
+I. La identificación visual plena de los Magistrados, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos; y
+
+III. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 116.
@@ -2996,3 +3010,9 @@ P.O. 27 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27809/LXII/20 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27902/LXII/20 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 47, CREA EL CAPÍTULO VII DENOMINADO DE LAS SESIONES A DISTANCIA Y ADICIONA LOS ARTÍCULOS 33 BIS, 33 TER, 33 QUÁTER, 33 QUINQUIES Y 33 SEXTIES, TODOS DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, EL ARTÍCULO 75 Y ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 115 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ADICIONA LOS ARTÍCULOS 22 BIS, 39 BIS, 143 BIS Y 153 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 27 Y ADICIONA LOS ARTÍCULOS 27 BIS Y 29 BIS, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 7 Y 12 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
