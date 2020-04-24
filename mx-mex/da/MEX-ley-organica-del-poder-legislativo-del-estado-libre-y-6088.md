@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2019-12-23"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2020.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -372,6 +372,14 @@ La Asamblea tendrá competencia plena sobre todos los asuntos y materias que la 
 La Asamblea, para el cumplimiento de sus obligaciones se reunirá en sesiones conforme a lo dispuesto por la ley. Las sesiones serán válidas cuando se efectúen con la presencia de la mitad más uno de sus integrantes, entre quienes deberá estar el presidente, o quien legalmente lo supla.
 
 En cualquier momento de las sesiones, los diputados podrán pedir a la presidencia la verificación del quórum.
+
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2020)</small>
+
+Artículo 40 bis.- En caso de emergencia Nacional o Estatal de carácter sanitaria o de protección civil, determinada por la autoridad competente y por el tiempo que dure ésta, la Asamblea podrá sesionar a distancia, mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, y que permitan la transmisión en vivo en la página de internet oficial de la Legislatura, en la cual se deberá garantizar la correcta identificación de los integrantes, sus intervenciones, así como el sentido de su voto, que será de carácter nominal, en términos de esta Ley.
+
+Lo anterior también será aplicable, en los casos mencionados, a sesiones de la Diputación Permanente y a reuniones de comisiones y comités.
+
+Corresponderá a la Junta de Coordinación Política determinar la realización de las sesiones a que se refiere este artículo.
 
 ## TITULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA LEGISLATURA
 
@@ -2266,3 +2274,13 @@ CUARTO.- La Dirección General de Comunicación Social, deberá actualizar las d
 QUINTO.- La Junta de Coordinación Política proveerá lo necesario para el cumplimiento del presente Decreto.
 
 SEXTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 149.- POR EL QUE SE ADICIONA EL ARTÍCULO 40 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Legislatura, la Diputación Permanente y las comisiones y comités garantizarán que las sesiones y las reuniones desarrolladas a distancia, mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, cumplan con la legalidad de los procedimientos y de las votaciones emitidas, de conformidad con la normatividad vigente aplicable.
