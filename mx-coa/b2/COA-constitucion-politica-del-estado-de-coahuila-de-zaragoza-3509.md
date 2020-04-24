@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2020-03-27"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -865,6 +865,10 @@ Las sesiones serán públicas; pero cuando se trate de asuntos que exijan reserv
 ###### Artículo 55.
 
 El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+De manera excepcional, en caso fortuito o de fuerza mayor, o cuando por causas especiales lo acuerde el Pleno por mayoría calificada, las sesiones se podrán realizar de forma virtual, por medios electrónicos, para desahogar los asuntos concretos acordados.
 
 ###### Artículo 56.
 
@@ -5383,3 +5387,11 @@ P.O. 27 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 573.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 589.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
