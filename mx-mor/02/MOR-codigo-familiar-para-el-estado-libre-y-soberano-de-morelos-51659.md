@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2020-03-11"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -939,7 +939,7 @@ V.- Haber sido autor o cómplice de homicidio o atentado contra la vida de uno d
 
 VI.- El consentimiento obtenido por error;
 
-VII.- Padecer alguna enfermedad crónica e incurable que sea además contagiosa o hereditaria.
+VII.- (DEROGADA, P.O. 24 DE ABRIL DE 2020)
 
 VIII.- El tutor no puede contraer matrimonio con su pupila.
 
@@ -975,9 +975,13 @@ IMPEDIMENTOS DISPENSABLES. Son impedimentos dispensables:
 
 I.- (DEROGADA, P.O. 17 DE AGOSTO DE 2016)
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-II.- El parentesco en la línea colateral desigual la cual comprende sólo a los tíos y sobrinos en el tercer grado, conforme a las reglas de los artículos 72 y 73 de este Código.
+II.- El parentesco en la línea colateral desigual la cual comprende sólo a los tíos y sobrinos en el tercer grado, conforme a las reglas de los artículos 72 y 73 de este Código; y,
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+III.- Padecer alguna enfermedad crónica e incurable que sea además contagiosa o hereditaria, cuando ambos contrayentes acrediten fehacientemente haber obtenido de institución o médico especialista, el conocimiento de los alcances, los efectos y la prevención de la enfermedad que sea motivo del impedimento y aun así, manifiesten su consentimiento para contraer matrimonio.
 
 ###### ARTÍCULO 79.
 
@@ -1533,11 +1537,13 @@ III.- Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
 La pretensión que nace de esas causas de nulidad sólo puede deducirse por el cónyuge agraviado dentro de sesenta días, a partir de la fecha en que cesó la violencia o intimidación.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 164.
 
-NULIDAD POR VICIOS Y ENFERMEDADES DEL CÓNYUGE. La nulidad que se funde en alguna de las causas expresadas en las fracciones VII, XIII, y XIV del artículo 77, sólo puede ser pedida por los cónyuges dentro del plazo de sesenta días contados desde que se celebró el matrimonio.
+NULIDAD POR VICIOS Y ENFERMEDADES DEL CÓNYUGE. La nulidad que se funde en la causa contenida en la fracción XIII del artículo 77, solo puede ser pedida por los cónyuges dentro del plazo de sesenta días contados desde que se celebró el matrimonio.
 
-Tienen derecho de pedir la nulidad a que se refiere la fracción XV del artículo 77, el otro cónyuge o el tutor del incapacitado.
+Tiene derecho de pedir nulidad a que se refiere la fracción XV del artículo 77, el otro cónyuge o el tutor del incapacitado.
 
 ###### ARTÍCULO 165.
 
@@ -3559,23 +3565,31 @@ El Oficial del Registro Civil, hará del conocimiento de los pretendientes inmed
 
 DOCUMENTOS QUE DEBEN ACOMPAÑARSE A LA SOLICITUD DE MATRIMONIO. Al escrito a que se refiere el artículo anterior se acompañará:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE ABRIL DE 2020)</small>
 
 I.- Copia certificada del acta de nacimiento y documento de identificación personal de cada uno de los solicitantes, en el que se verifique que ambos son mayores de edad;
 
-II.- (DEROGADA, P.O. 17 DE AGOSTO DE 2016)
+II.- (DEROGADA, P.O. 17 DE AGOSTO DE 2016) (REPUBLICADA, P.O. 24 DE ABRIL DE 2020)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE ABRIL DE 2020)</small>
 
 III.- La declaración de dos testigos capaces de que conocen a los pretendientes y que no tienen impedimento legal alguno para unirse legalmente. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-IV.- Un certificado suscrito por médico titulado y registrado legalmente, bajo protesta de decir verdad, en que determine, que los solicitantes no padecen alguna de las enfermedades consideradas como impedimento, establecido en el artículo 77, fracciones VII y XV de este Código;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
-
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. En el convenio se expresará a que régimen quedan sujetos los bienes adquiridos antes del matrimonio.
+IV.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. En el convenio se expresará a que régimen quedan sujetos los bienes adquiridos antes del matrimonio.
 
 Si de acuerdo con el artículo 103 de este Cuerpo de Leyes fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de dicha escritura.
 
-VI.- Copia certificada del acta de defunción o de divorcio si alguno de los pretendientes es viudo o divorciado; o copia certificada de la sentencia firme de nulidad de matrimonio en caso de que alguno de los pretendientes declarase haber estado casado anteriormente; y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+V.- Un certificado suscrito por médico titulado y registrado legalmente, bajo protesta de decir verdad, en que determine, que los solicitantes no padecen alguna de las enfermedades consideradas como impedimento, establecido en el artículo 77, fracción XV y artículo 78, fracción III de este Código, o en su caso por cuanto a lo que se refiere al impedimento del artículo 78, fracción III, cumplir con lo requerido para su dispensa;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE ABRIL DE 2020)</small>
+
+VI.- Copia certificada del acta de defunción o de divorcio si alguno de los pretendientes es viudo o divorciado; o copia certificada de la sentencia firme de nulidad de matrimonio en caso de que alguno de los pretendientes declarase haber estado casado anteriormente; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE ABRIL DE 2020)</small>
 
 VII.- Copia de la dispensa de impedimento, si lo hubo.
 
@@ -6700,3 +6714,13 @@ PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS OCHENTA Y TRES. POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON RELACIÓN A LOS IMPEDIMENTOS PARA CONTRAER MATRIMONIO”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan las disposiciones jurídicas de igual o menor grado que se opongan a lo establecido en el presente Decreto.
