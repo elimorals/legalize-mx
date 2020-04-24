@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2020-02-08"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -718,6 +718,10 @@ III. Dejar de asistir sin causa justificada tres veces consecutivas, a las sesio
 ###### Artículo 46.
 
 1. La Junta de Coordinación Política adopta sus decisiones por mayoría absoluta, mediante el sistema de voto ponderado, en el cual los respectivos diputados o diputadas representan tantos votos como integrantes tenga su Grupo Parlamentario.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+2. La Junta de Coordinación Política puede realizar sesiones a distancia, en los términos del Capítulo IV, del Título Séptimo de esta Ley.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -1787,6 +1791,10 @@ IX. Las demás que establezca esta ley y otras disposiciones legales aplicables.
 
 2. Las comisiones requieren contar con más de la mitad de sus integrantes para sesionar válidamente.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+3. Las comisiones pueden realizar sesiones a distancia, en los términos del Capítulo IV, del Título Séptimo de esta Ley.
+
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 101.
@@ -1911,6 +1919,10 @@ V. Se establezca plazo diverso para su dictamen en la agenda legislativa común 
 
 2. La naturaleza de los comités es de carácter temporal. Su integración, duración y atribuciones se deben establecer en el acuerdo legislativo de creación.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+3. Los comités puede realizar sesiones a distancia, en los términos del Capítulo IV, del Título Séptimo de esta Ley.
+
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 111.
@@ -1922,6 +1934,10 @@ V. Se establezca plazo diverso para su dictamen en la agenda legislativa común 
 3. Los procesos de adquisiciones, arrendamientos, y contratación de servicios cuyo monto de operación no exceda el monto señalado en el párrafo anterior, se realizarán bajo la conducción de la Unidad Centralizada de Compras de acuerdo al procedimiento señalado por el artículo 72 de la Ley de Compras Gubernamentales.
 
 4. Las bases, criterios y procedimientos de las adquisiciones de bienes, contratación de arrendamientos, prestación de servicios y obra pública, se hacen de conformidad a la legislación aplicable, y a los lineamientos que emita la Comisión de Administración y Planeación Legislativa. Durante todo el proceso debe observarse el principio de máxima publicidad.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+5. El comité de Adquisiciones de Bienes y Servicios de (sic) Congreso del Estado puede realizar sesiones a distancia, en los términos del Capítulo IV, del Título Séptimo de esta Ley. En el caso anterior el comité, junto con la coordinación de administración y finanzas, podrá realizar adquisiciones extraordinarias tomando en cuenta lo señalado en la fracción II del artículo 303 del Reglamento de esta Ley.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2189,9 +2205,131 @@ III. Asunto que motiva la convocatoria.
 
 3. Lo que se trate durante la sesión a que se refiere el párrafo anterior, es público y sigue los trámites de cualquier sesión pública.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO I. Disposiciones preliminares
+### CAPÍTULO IV. Sesiones a Distancia
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Artículo 132 A.
+
+1. EI Congreso puede, excepcionalmente, sesionar a distancia empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, en los siguientes casos:
+
+I. Motivo de emergencia decretada por autoridad competente que ponga en riesgo la vida, la salud e integridad del personal que labora en el Congreso del Estado y de los integrantes de la Asamblea; o
+
+II. En caso fortuito o de fuerza mayor decretado por la autoridad competente.
+
+2. Las sesiones que realice el Congreso a distancia, se entienden como realizadas dentro del Recinto del Poder Legislativo.
+
+3. La Mesa Directiva conduce las sesiones de manera presencial desde el Recinto Oficial, misma que podrá funcionar con la asistencia de la Presidencia y uno de los Secretarios.
+
+4. EI Secretario General y el personal que estime necesario debe asistir de manera física al Recinto Oficial en estas sesiones.
+
+5. El desahogo de este tipo de sesiones debe transmitirse en vivo en el propio Recinto Oficial, así como su transmisión para el público en general.
+
+6. Se debe garantizar la conexión permanente de los diputados a la sesión, que permita su plena participación en la misma.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Artículo 132 B.
+
+1. La celebración de estas sesiones son autorizadas por la Junta de Coordinación Política, mediante acuerdo interno que contenga la lista de los puntos a desahogar, el cual debe ser aprobado por las dos terceras partes de sus integrantes en voto ponderado. Una vez aprobado el acuerdo interno, la Junta de Coordinación Política solicita a la presidencia de la Mesa Directiva convoque a sesión dentro de las cuarenta y ocho horas siguientes a la recepción de la solicitud. En caso de que la presidencia de la Mesa Directiva no convoque en este plazo, cualquiera de los Vicepresidentes podrá hacerlo.
+
+2. La convocatoria se notifica a través del correo electrónico oficial de cada Diputada y Diputado, adjuntando orden del día, los dictámenes y documentos anexos a discutir; y en su momento se debe publicar en la Gaceta Parlamentaria.
+
+3. La coordinación de las tareas para el desarrollo de estas sesiones correrá a cargo de la Secretaría General con apoyo de las áreas que considere necesarias.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Artículo 132 C.
+
+1. El orden del día de las sesiones a distancia del Congreso, solo podrá contener los siguientes puntos:
+
+I. Registro de asistencia, verificación y declaración de quórum legal;
+
+II. Lectura, discusión y votación del acta de la sesión anterior;
+
+III. Cuenta a la Asamblea y votación de trámites de las comunicaciones recibidas;
+
+IV. Cuenta y turno de las iniciativas presentadas;
+
+V. Comunicaciones y propuestas de la Junta de Coordinación Política y la Mesa Directiva;
+
+VI. Lectura, discusión y votación de Acuerdos Legislativos;
+
+VII. Discusión y votación de minutas de Acuerdo Legislativo;
+
+VIII. Presentación de dictámenes de primera lectura;
+
+IX. Discusión y votación de dictámenes de segunda lectura; y
+
+X. Discusión y votación de minutas de decreto.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Artículo 132 D.
+
+1. El desarrollo de las sesiones a distancia del Congreso, se rigen bajo los siguientes lineamientos:
+
+I. La asistencia será tomada nominalmente de conformidad a lo previsto en la presente Ley, en ausencia del tablero electrónico;
+
+II. Para la votación de los asuntos a tratar en las sesiones a distancia se consideran las siguientes reglas:
+
+a) La validez del voto de las diputadas y los diputados estará exenta del requisito previsto por el artículo 180 de la presente Ley;
+
+b) Todas las votaciones de las sesiones a distancia, serán de carácter nominal, conforme a lo siguiente:
+
+1) El Secretario General menciona los nombres y apellidos de las diputadas y los diputados, quienes, al escucharlos, expresan el sentido de su voto;
+
+2) El proceso anterior se desarrollará por orden alfabético;
+
+3) El Secretario de la Mesa Directiva anota los votos, al final da a conocer al Presidente el resultado de la votación, para que éste haga la declaratoria correspondiente; y
+
+4) En la votación nominal, cualquier diputada o diputado puede solicitar al Presidente de la Mesa Directiva instruya al Secretario lea en voz alta los nombres de los que votaron en uno u otro sentido, para que los interesados hagan las aclaraciones que correspondan.
+
+2. Las votaciones de reformas a la Constitución Política del Estado; la designación, elección, ratificación o insaculación de funcionarios públicos; la resolución de juicios políticos; la suspensión de munícipes; no se pueden desahogar mediante una sesión a distancia.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Artículo 132 E.
+
+1. La Junta de Coordinación Política, las comisiones legislativas y los comités pueden sesionar a distancia, en los términos de este capítulo, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología.
+
+2. Las comisiones legislativas y los comités deberán hacer del conocimiento a la Junta de Coordinación Política de la celebración de sus sesiones, a fin de que ésta se incluya en el calendario de reuniones de comisiones y comités, que para el efecto se elabore.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Artículo 132 F.
+
+1. En las sesiones de la Junta de Coordinación Política, Comisiones y Comités, se registrará el voto nominal emitido por cada integrante.
+
+2. El Presidente, o en su caso el Secretario deberá solicitar el apoyo de las áreas respectivas del Congreso del Estado para la realización, difusión y transmisión del evento, a través de las tecnologías de la información.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Artículo 132 G.
+
+1. Para el caso de convocatorias de sesiones a distancia de las comisiones y comités se atenderá a lo dispuesto por el artículo 78 y 108 de la presente Ley.
+
+2. El Presidente podrá convocar a través del correo electrónico oficial de cada Diputada y Diputado, respaldando dicha convocatoria con la Gaceta Parlamentaria.
+
+3. Cuando exista emergencia de convocar a sesión a distancia y se niegue el Presidente a convocar, la mitad más uno de los integrantes de las comisiones y comités pueden solicitar se convoque a sesión. Cuando el Presidente de la comisión no atienda dicho requerimiento dentro de las veinticuatro horas posteriores a dicha solicitud, el Secretario podrá convocar a través del correo electrónico oficial de cada diputada y diputado, respaldando dicha convocatoria a través de la Gaceta Parlamentaria. En caso de que el Presidente no participe en la sesión convocada, preside la misma el Secretario, con las atribuciones legales correspondientes.
+
+4. Los documentos de las sesiones a las que se refiere el presente artículo tendrá (sic) que ser publicados con un mínimo de veinticuatro horas antes de que se cite a la sesión referida en el párrafo anterior.
+
+5. La validez de los dictámenes aprobados en una sesión a distancia se acredita con la constancia de votación nominal firmada por quien haya presidido dicha sesión. El dictamen aprobado en estos términos, deberá ser firmado por quien presidió la sesión y deberá acompañar la constancia de votación nominal.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Artículo 132 H.
+
+1. La validez de los acuerdos aprobados en una sesión a distancia de la Junta de Coordinación Política, se acredita con la constancia de votación nominal firmada por su presidente. El acuerdo aprobado en estos términos, deberá ser firmado por quien presidió la sesión y deberá acompañar la constancia de votación nominal.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Artículo 132 I.
+
+1. Para todo lo no previsto en este capítulo se estará a lo dispuesto en esta Ley y su reglamento.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2199,7 +2337,7 @@ III. Asunto que motiva la convocatoria.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### CAPÍTULO II. Iniciativas
+### CAPÍTULO I. Disposiciones preliminares
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2217,7 +2355,7 @@ III. Asunto que motiva la convocatoria.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### CAPÍTULO III. Dictámenes
+### CAPÍTULO II. Iniciativas
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2343,7 +2481,7 @@ III. Disposiciones transitorias.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### CAPÍTULO IV. Lecturas de Dictámenes
+### CAPÍTULO III. Dictámenes
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2403,7 +2541,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### CAPÍTULO V. Discusiones
+### CAPÍTULO IV. Lecturas de Dictámenes
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2453,7 +2591,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo VI. Mociones
+### CAPÍTULO V. Discusiones
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2653,7 +2791,7 @@ IV. Si el voto particular es parcial y el dictamen es rechazado por la Asamblea,
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo VII. Votaciones
+### Capítulo VI. Mociones
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2703,7 +2841,7 @@ XI. Las demás que se señalen en esta ley y su reglamento.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo VIII. Minutas
+### Capítulo VII. Votaciones
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2811,7 +2949,7 @@ V. Cuando se emitan más votos en la misma cédula que los correspondientes a la
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo I. Disposiciones generales
+### Capítulo VIII. Minutas
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2909,9 +3047,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo II
-
-Procedimiento en caso de observaciones formuladas por el Gobernador del Estado.
+### Capítulo I. Disposiciones generales
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2925,7 +3061,9 @@ Procedimiento en caso de observaciones formuladas por el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo III. Expedición del bando solemne que declara Gobernador electo
+### Capítulo II
+
+Procedimiento en caso de observaciones formuladas por el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2947,7 +3085,7 @@ Procedimiento en caso de observaciones formuladas por el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo IV. Designación de Gobernador interino o sustituto
+### Capítulo III. Expedición del bando solemne que declara Gobernador electo
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2961,7 +3099,7 @@ Procedimiento en caso de observaciones formuladas por el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo V. Elección o ratificación de servidores públicos de la competencia del Congreso del Estado
+### Capítulo IV. Designación de Gobernador interino o sustituto
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2977,7 +3115,7 @@ Procedimiento en caso de observaciones formuladas por el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo VI. Glosa del informe de gobierno
+### Capítulo V. Elección o ratificación de servidores públicos de la competencia del Congreso del Estado
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2993,9 +3131,7 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables debe
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo VII
-
-Substanciación del trámite para la desintegración de ayuntamientos y suspensión o revocación del mandato de munícipes.
+### Capítulo VI. Glosa del informe de gobierno
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3039,7 +3175,9 @@ IV. Establecer la posición política del Congreso del Estado respecto del infor
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo VIII. Creación de municipios
+### Capítulo VII
+
+Substanciación del trámite para la desintegración de ayuntamientos y suspensión o revocación del mandato de munícipes.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3109,7 +3247,7 @@ IV. Establecer la posición política del Congreso del Estado respecto del infor
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
-### Capítulo Único
+### Capítulo VIII. Creación de municipios
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3457,6 +3595,10 @@ IX. Las nuevas autoridades deben respetan los derechos laborales de los trabajad
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
+
 ###### Artículo 240.
 
 1. Las infracciones cometidas por los servidores públicos del Congreso del Estado deben sancionarse por lo establecido en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y las demás disposiciones que resulten aplicables.
@@ -3618,3 +3760,11 @@ P.O. 8 DE FEBRERO DE 2020.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 Segundo. El Congreso del Estado de Jalisco realizará las acciones y adecuaciones presupuestales para dar cumplimiento al presente decreto.
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27895/LXII/20 QUE ADICIONA UN NUMERAL A LOS ARTÍCULOS 46, 100, 110 Y 111, Y SE ADICIONA UN CAPÍTULO IV DENOMINADO "SESIONES A DISTANCIA" DENTRO DEL TÍTULO SÉPTIMO, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. El Secretario General en un término no mayor a 8 días naturales, contados a partir del día siguiente de la entrada vigor del presente decreto, deberá contar con las condiciones técnicas necesarias a fin de que las y los diputados puedan sesionar conforme a lo previsto en el presente decreto.
