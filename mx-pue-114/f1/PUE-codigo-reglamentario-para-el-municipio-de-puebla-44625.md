@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2020-02-13"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -27131,9 +27131,7 @@ III. Corrección: Modificación de los procesos causales de deterioro ambiental 
 
 IV. Deterioro ambiental: Afectación de carácter negativo en la calidad del ambiente, en su conjunto o de los elementos que lo integran; la disminución de la diversidad biótica, así como la alteración de los procesos naturales en los sistemas ecológicos;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
-
-V. Agencia.- La Secretaría de Desarrollo Urbano y Sustentabilidad del Municipio de Puebla.
+V. (DEROGADA, P.O. 24 DE ABRIL DE 2020)
 
 VI. Disposición Final: El depósito permanente de los residuos en sitios y condiciones adecuadas para evitar daños a los ecosistemas;
 
@@ -27181,11 +27179,13 @@ XXVI. Residuos comerciales: Son los que se generan en /o (sic) por las actividad
 
 XXVII. Ruido: Es todo sonido que molesta o perjudica a las personas;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-XXVIII. Secretaría de Gestión: Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable o las autoridades administrativas que ejerzan las facultades previstas en el presente Capítulo;
+XXVIII. Secretaría: Secretaría de Desarrollo Urbano y Sustentabilidad del Honorable Ayuntamiento del Municipio de Puebla;
 
-XXIX. SEDURBECOP: Secretaría de Desarrollo Urbano Ecología y Obras Públicas del Estado de Puebla;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+XXIX. SMADSOT: Secretaría del Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
 XXX. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales;
 
@@ -27207,9 +27207,9 @@ El presidente municipal podrá firmar convenios de diversa índole con la federa
 
 El H. Ayuntamiento por conducto del presidente municipal podrá suscribir convenios con los sectores privado y social con la finalidad de dar cumplimiento al presente Capítulo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
-La Agencia, está facultada para realizar los acuerdos operativos con los sectores social, público y privado, en materia protección, conservación, mejoramiento, recuperación, restauración y regeneración del medio ambiente en el territorio municipal.
+La Secretaría está facultada para realizar los acuerdos operativos con los sectores social, público y privado, en materia (sic) protección, conservación, mejoramiento, recuperación, restauración y regeneración del medio ambiente en el territorio municipal.
 
 ###### Artículo 1716.
 
@@ -27239,9 +27239,9 @@ II. Formular, aprobar y evaluar el Programa Municipal de Protección al Ambiente
 
 III. Aprobar el Ordenamiento Ecológico del Municipio;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-IV. Evaluar y aprobar el desempeño de la Agencia en el cumplimiento de los Programas Ambientales y del Ordenamiento Ecológico;
+IV. Evaluar y aprobar el desempeño de la Secretaría en el cumplimiento de los Programas Ambientales y del Ordenamiento Ecológico;
 
 V. Establecer y regular las Zonas de Preservación Ecológica de los Centros de Población en el Municipio;
 
@@ -27277,7 +27277,9 @@ II. Coordinar y ejecutar las acciones derivadas de los acuerdos y convenios en l
 
 III. Operar el sistema municipal de atención a la denuncia popular por daños al ambiente;
 
-IV. Formular ante la PROFEPA o la SEDURBECOP, las denuncias que en materia de protección ambiental les competen, así como turnar las que realice la ciudadanía y sean competencia de dichas dependencias, dando seguimiento de las mismas;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+IV. Formular ante la PROFEPA o la SMADSOT, las denuncias que en materia de protección ambiental les competen, así como turnar las que realice la ciudadanía y sean competencia de dichas dependencias, dando seguimiento de las mismas.
 
 V. Denunciar ante la PROFEPA, el comercio y tráfico ilegal de especies de flora y fauna silvestres y/o acuáticas existentes en el Municipio;
 
@@ -27311,13 +27313,13 @@ DE LA COMISIÓN DE ECOLOGÍA Y MEDIO AMBIENTE
 
 La Comisión de Ecología del Honorable Ayuntamiento, además de estar integrada por los regidores que apruebe H. Ayuntamiento, se complementará por los siguientes vocales:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-I. El Director General de la Agencia;
+I. El Secretario de Desarrollo Urbano y Sustentabilidad;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-II. El Subdirector de Ecología y Medio Ambiente;
+II. El Director de Medio Ambiente;
 
 III. El director del OOSL;
 
@@ -27475,19 +27477,19 @@ X. El Programa de Ordenamiento Ecológico.
 
 El plan de Gestión Ambiental tendrá la vigencia que apruebe el H. Ayuntamiento, y podrá ser modificado o adicionado, siempre y cuando se cumpla con lo dispuesto en los artículos 1722, 1723 y 1724 del presente Capítulo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1726.
 
-El Honorable Ayuntamiento, mediante la Comisión de Ecología y Medio Ambiente, dará seguimiento y evaluará los avances en la aplicación del Plan de Gestión Ambiental, para este fin la Agencia presentará un informe semestral de los avances.
+El Honorable Ayuntamiento, mediante la Comisión de Ecología y Medio Ambiente, dará seguimiento y evaluará los avances en la aplicación del Plan de Gestión Ambiental, para este fin la Secretaría presentará un informe semestral de los avances.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1727.
 
-Para la aplicación del Plan de Gestión Ambiental se requerirá invariablemente de la participación de los sectores público, privado y social, el Honorable Ayuntamiento definirá los mecanismos, escuchando la opinión de la Agencia.
+Para la aplicación del Plan de Gestión Ambiental se requerirá invariablemente de la participación de los sectores público, privado y social, el Honorable Ayuntamiento definirá los mecanismos, escuchando la opinión de la Secretaría.
 
-Para elaborar los documentos y materiales del Plan de Gestión Ambiental, la Comisión se podrá apoyar de la Agencia o en su caso contratar a la persona física o moral que lo auxilie en dichos trabajos.
+Para elaborar los documentos y materiales del Plan de Gestión Ambiental, la Comisión se podrá apoyar de la Secretaría o en su caso contratar a la persona física o moral que lo auxilie en dichos trabajos.
 
 DEL ORDENAMIENTO ECOLÓGICO
 
@@ -27539,11 +27541,11 @@ VII. Las que se determinen dentro de este ordenamiento así como las establecida
 
 Queda prohibida la realización de actividades señaladas en los artículos anteriores, fuera de los sitios establecidos en el Ordenamiento Ecológico del Municipio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1731.
 
-El Honorable Ayuntamiento, a través de la Agencia podrá solicitar a la Federación y al Gobierno del Estado recomendaciones, opiniones y participación en los procesos de consulta para la formulación del Programa de Ordenamiento Ecológico del Municipio.
+El Honorable Ayuntamiento, a través de la Secretaría podrá solicitar a la Federación y al Gobierno del Estado recomendaciones, opiniones y participación en los procesos de consulta para la formulación del Programa de Ordenamiento Ecológico del Municipio.
 
 ###### Artículo 1732.
 
@@ -27563,17 +27565,17 @@ I. Instrumentos de carácter fiscal: se otorgarán a las personas físicas y mor
 
 a) Sólo pueden realizarse exenciones fiscales en relación con los impuestos y derechos que establezca la Ley de Ingresos del Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
-b) Las personas que promuevan el gozo de este instrumento económico, deberán presentar solicitud por escrito ante la Agencia.
+b) Las personas que promuevan el gozo de este instrumento económico, deberán presentar solicitud por escrito ante la Secretaría.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
-c) La Agencia emitirá un dictamen respecto a las actividades o acciones con las que el promovente, solicita el estímulo fiscal, dicho dictamen contendrá los elementos técnicos en relación para otorgar o negar dicho beneficio económico.
+c) La Secretaría emitirá un dictamen respecto a las actividades o acciones con las que el promovente, solicita el estímulo fiscal, dicho dictamen contendrá los elementos técnicos en relación para otorgar o negar dicho beneficio económico.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
-d) En el dictamen correspondiente la Agencia relacionará si estas actividades se consideran prioritarias, para otorgarse beneficios y estímulos fiscales con respecto a las que señala el artículo 33 de la Ley Estatal.
+d) En el dictamen correspondiente la Secretaría relacionará si estas actividades se consideran prioritarias, para otorgarse beneficios y estímulos fiscales con respecto a las que señala el artículo 33 de la Ley Estatal.
 
 e) El presidente municipal como autoridad fiscal podrá otorgar dichas exenciones de impuesto y derechos, en los términos del Código Fiscal y Presupuestario para el Municipio de Puebla.
 
@@ -27595,11 +27597,11 @@ Con el objetivo de reducir la generación de residuos sólidos se prohíbe la ad
 
 Se exceptúan de lo mencionado en el párrafo anterior la atención a emergencias, contingencias, las actividades y operativos que por su naturaleza lo requieran.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1736.
 
-Los ingresos que se generen al Gobierno Municipal por la aplicación de sanciones y pago de derechos objeto del presente Capítulo deberán de ser empleados en los programas de la Agencia, bajo lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+Los ingresos que se generen al Gobierno Municipal por la aplicación de sanciones y pago de derechos objeto del presente Capítulo deberán de ser empleados en los programas de la Secretaría, bajo lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
 
 DE LA EVALUACIÓN DEL IMPACTO AMBIENTAL EN EL MUNICIPIO
 
@@ -27611,23 +27613,23 @@ El fin de la evaluación del impacto ambiental es evitar o reducir al mínimo lo
 
 Son sujetos del procedimiento de evaluación del impacto ambiental toda persona física, moral o jurídica que realice obras o actividades que causen afectaciones en el medio ambiente, y no podrán realizar o ejecutarse obras, ni operar ningún establecimiento sin la evaluación y aprobación de dicho estudio de impacto ambiental.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1738.
 
-La Agencia realizará el procedimiento de evaluación del impacto ambiental, siempre y cuando el Honorable Ayuntamiento signe el convenio respectivo con el Gobierno del Estado, para que este último le delegue las atribuciones que le confiere la Sección Sexta del Capítulo Tercero de la Ley Estatal.
+La Secretaría realizará el procedimiento de evaluación del impacto ambiental, siempre y cuando el Honorable Ayuntamiento signe el convenio respectivo con el Gobierno del Estado, para que este último le delegue las atribuciones que le confiere la Sección Sexta del Capítulo Tercero de la Ley Estatal.
 
-Una vez firmado dicho convenio la Agencia realizará el procedimiento de evaluación del impacto ambiental conforme a las disposiciones establecidas en la Ley Estatal y en el Reglamento específico que para tal fin elabore y apruebe la SEDURBECOP.
+Una vez firmado dicho convenio la Secretaría realizará el procedimiento de evaluación del impacto ambiental conforme a las disposiciones establecidas en la Ley Estatal y en el Reglamento específico que para tal fin elabore y apruebe la SMADSOT.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1739.
 
-En caso de que la Agencia conozca de obras y actividades que se estén realizando sin la evaluación y aprobación correspondiente en materia de impacto ambiental, ésta lo hará del conocimiento de la Dirección de Gestión Urbana y Desarrollo Urbano Sustentable, con la finalidad de que el Honorable Ayuntamiento en uso de las facultades que le otorga el artículo 48 de la Ley Estatal, condicione o revoque las autorizaciones de uso de suelo, licencias de construcción y funcionamiento, a la autorización correspondiente en materia de impacto ambiental.
+En caso de que la Secretaría conozca de obras y actividades que se estén realizando sin la evaluación y aprobación correspondiente en materia de impacto ambiental, ésta lo hará del conocimiento de la Dirección de Desarrollo Urbano, con la finalidad de que el Honorable Ayuntamiento en uso de las facultades que le otorga el artículo 48 de la Ley Estatal, condicione o revoque las autorizaciones de uso de suelo y licencias de construcción, a la autorización correspondiente en materia de impacto ambiental.
 
-La Dirección de Gestión Urbana y Desarrollo Urbano Sustentable cuando autorice los uso de suelo, licencias construcción y funcionamiento, solicitará invariablemente la aprobación correspondiente al impacto ambiental, dando cuenta a la Dirección de dichas autorizaciones para que lleve el registro de los (sic) mismas.
+La Dirección de Desarrollo Urbano cuando autorice los usos de suelo y licencias (sic) construcción, solicitará invariablemente la aprobación correspondiente al impacto ambiental, dando cuenta a la Dirección (sic) Medio Ambiente, respecto de dichas autorizaciones para que lleve el registro de las mismas.
 
-Los responsables de cualquier obra o proyecto, ya sea de desarrollo urbano, turístico, de servicios o industrial, serán corresponsables junto con los dueños del proyecto en caso de un impacto ambiental negativo desarrollado posteriormente, mismo que será sancionado o denunciado en los términos del presente Capítulo por la Agencia.
+Los responsables de cualquier obra o proyecto, ya sea de desarrollo urbano, turístico, de servicios o industrial, serán corresponsables junto con los dueños del proyecto en caso de un impacto ambiental negativo desarrollado posteriormente, mismo que será sancionado o denunciado en los términos del presente Capítulo por la Secretaría.
 
 DE LA PROTECCIÓN AL AMBIENTE POR EL IMPACTO URBANO
 
@@ -27643,15 +27645,15 @@ El H. Ayuntamiento se reserva el derecho de establecer condiciones particulares 
 
 En los proyectos de obras públicas se deberá prevalecer la conservación de los elementos arbóreos existentes en el área a intervenir, los cuales deberán integrarse al proyecto, respetando sus características físicas y estado fitosanitario. Cuando en la ejecución de este tipo de obras se requiera la poda, derribo o trasplante de un árbol, se deberá obtener el dictamen favorable emitido por la autoridad municipal competente en materia ecológica y en su realización, se observarán las disposiciones técnicas de los Lineamientos Ambientales Municipales y el presente Capítulo, además desde el inicio de la obra, se deberá colocar en lugar visible un letrero con dimensiones mínimas de 3 x 2 metros que contenga el número y fecha de la resolución de la evaluación del impacto ambiental, las medidas de mitigación y la reparación del daño ambiental emitidas por la autoridad competente.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1741.
 
-El Honorable Ayuntamiento, a través de la Secretaría de Medio Ambiente y Servicios Públicos, autorizará y supervisará el derribo o poda de árboles. Para los efectos anteriores deberá sujetarse a los Lineamientos Ambientales Municipales que establecen los requisitos y especificaciones técnicas para la poda, derribo, trasplante y restitución de árboles; comprendidos en la dasonomía urbana, que deberán cumplir las autoridades municipales, dependencias públicas, personas físicas y morales, en el Municipio de Puebla.
+El Honorable Ayuntamiento, a través de la Secretaría, autorizará y supervisará el derribo o poda de árboles. Para los efectos anteriores deberá sujetarse a los Lineamientos Ambientales Municipales que establecen los requisitos y especificaciones técnicas para la poda, derribo, trasplante y restitución de árboles; comprendidos en la dasonomía urbana, que deberán cumplir las autoridades municipales, dependencias públicas, personas físicas y morales, en el Municipio de Puebla.
 
-Para los efectos anteriores, la Secretaría de Medio Ambiente, será la encargada de llevar a cabo una visita de inspección en el sitio donde se ubiquen el o los árboles y de emitir el dictamen técnico que especifique las condiciones en que se encuentran, así como la conclusión que permita determinar la viabilidad de llevar a cabo la poda el trasplante o derribo de los árboles, y en su caso, la recuperación de la vegetación perdida, previa solicitud y pago correspondiente de la parte interesada.
+Para los efectos anteriores, la Secretaría, será la encargada de llevar a cabo una visita de inspección en el sitio donde se ubiquen el o los árboles y de emitir el dictamen técnico que especifique las condiciones en que se encuentran, así como la conclusión que permita determinar la viabilidad de llevar a cabo la poda, el trasplante o derribo de los árboles, y en su caso, la recuperación de la vegetación perdida, previa solicitud y pago correspondiente de la parte interesada.
 
-Para la recuperación de cobertura vegetal a la que se refiere este artículo, la Secretaría de Medio Ambiente y Servicios Públicos determinará la especie, considerándose el impacto al ambiente de la zona, así como, las condiciones económicas del solicitante, no pudiendo ser menor a la masa vegetal de la cobertura perdida.
+Para la recuperación de cobertura vegetal a la que se refiere este artículo, la Secretaría determinará la especie, considerándose el impacto al ambiente de la zona, así como, las condiciones económicas del solicitante, no pudiendo ser menor a la masa vegetal de la cobertura perdida.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
 
@@ -27659,11 +27661,15 @@ Para la recuperación de cobertura vegetal a la que se refiere este artículo, l
 
 En caso de ser procedente el derribo o poda de un árbol en áreas o espacios públicos, éste será realizado por el personal de la Dirección de Servicios Públicos.
 
-Si la tala se hace en propiedad particular ésta deberá de ser a cargo del propietario o poseedor del inmueble, debiéndose apegar a los lineamientos marcados en el dictamen técnico, realizado por la Secretaría de Medio Ambiente y Servicios Públicos; y en el caso de que sea realizado por personal de la Dirección de Servicios Públicos, su costo será el que contemple la Ley de Ingresos.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Si la tala se hace en propiedad particular ésta deberá de ser a cargo del propietario o poseedor del inmueble, debiéndose apegar a los lineamientos marcados en el dictamen técnico, realizado por la Secretaría; y en el caso de que sea realizado por personal de la Dirección de Servicios Públicos, su costo será el que contemple la Ley de Ingresos.
 
 Cuando se autorice lo señalado en el párrafo anterior, el particular a quien se le prestó el servicio, tiene la obligación de en un plazo no mayor a los 30 días naturales, de suministrar y en su caso plantar la cantidad de árboles de acuerdo a lo establecido en el dictamen técnico; estos podrán ser en el mismo lugar u otro de acuerdo a los Lineamientos Ambientales Municipales que establecen los requisitos y especificaciones técnicas para la poda, derribo, trasplante y restitución de árboles comprendidos en la dasonomía urbana, que deberán cumplir las autoridades municipales, dependencias públicas, personas físicas y morales en el Municipio de Puebla.
 
-Cuando se trate de emergencia determinada por la Unidad Operativa Municipal de Protección Civil, la tala podrá ser realizada sin el dictamen correspondiente, debiendo notificar a la Secretaría de Medio Ambiente y Servicios Públicos, a fin de que pueda llevarse a cabo la restitución de la masa vegetal de la cobertura perdida.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Cuando se trate de emergencia determinada por la Secretaría de Protección Civil y Gestión Integral de Riesgos, la tala podrá ser realizada sin el dictamen correspondiente, debiendo notificar a la Secretaría, a fin de que pueda llevarse a cabo la restitución de la masa vegetal de la cobertura perdida.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
 
@@ -27681,19 +27687,23 @@ d) Derramar cualquier sustancia líquida a excepción de agua, que cause daños 
 
 e) Quemar cualquier tipo de residuos que ponga en riesgo, el tronco y follaje de los árboles y arbustos.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
-###### Artículo 1741 Quater.
+###### Artículo 1741 Quáter.
 
-Para los efectos anteriores, toda persona podrá formular la queja o denuncia correspondiente ante la Secretaría del Medio Ambiente y Servicios Públicos de los hechos, actos y omisiones respecto a poda o daños a los árboles dentro del territorio Municipal, la cual se manejará con la debida reserva.
+Para los efectos anteriores, toda persona podrá formular la queja o denuncia correspondiente ante la Secretaría de los hechos, actos y omisiones respecto a poda o daños a los árboles dentro del territorio Municipal, la cual se manejará con la debida reserva.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1741 Quinquies.
 
-Para la atención de las quejas o denuncias, que sean de jurisdicción municipal, la Secretaría de Medio Ambiente y Servicios Públicos, ordenará la práctica de una visita de verificación a la fuente denunciada para la comprobación de los datos aportados por el denunciante.
+Para la atención de las quejas o denuncias, que sean de jurisdicción municipal, la Secretaría, ordenará la práctica de una visita de verificación a la fuente denunciada para la comprobación de los datos aportados por el denunciante.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
 
 Las visitas de verificación sólo podrán realizarse mediante orden escrita y por el personal debidamente autorizado quien deberá identificarse con el presunto infractor y dejar copia de la orden escrita, debidamente fundada y motivada, en la que se señalará el personal facultado para realizar la diligencia, en el lugar o zona a inspeccionarse, el objeto y el alcance de la misma.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 24 DE MARZO DE 2014)</small>
 
 El personal autorizado para la práctica de la visita de verificación seguirá el procedimiento de la siguiente forma:
 
@@ -27709,29 +27719,43 @@ El personal autorizado para la práctica de la visita de verificación seguirá 
 
 6. Al término de la verificación, entregará una cédula informativa en la que registrarán los hechos, actos u omisiones que hubiere observado durante la visita, fijando las medidas de mitigación.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
 Dicha visita de verificación será acompañada con las impresiones fotográficas que puedan aportar una mejor concepción de los hechos verificados y estas se agregarán al expediente correspondiente.
-
-En caso de no encontrarse el presunto infractor se le dejará citatorio para que dentro de las veinticuatro horas siguientes espere al personal de inspección autorizado a una hora determinada para el desahogo de la diligencia. Al día siguiente y en la hora previamente fijada, de no ser atendido el citatorio, la diligencia se practicará con la persona que en el lugar se encuentre.
-
-Cuando en el lugar objeto de la diligencia, alguno o algunas personas manifiesten oposición y obstaculizan la práctica de la misma, el personal que lleve a cabo la visita de verificación podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
 
-###### Artículo 1741 Sexies.
+En caso de no encontrarse el presunto infractor se le dejará citatorio para que dentro de las veinticuatro horas siguientes espere al personal de inspección autorizado a una hora determinada para el desahogo de la diligencia. Al día siguiente y en la hora previamente fijada, de no ser atendido el citatorio, la diligencia se practicará con la persona que en el lugar se encuentre.
 
-Las infracciones de carácter administrativo a los preceptos contenidos en el presente Capítulo del Código Reglamentario para el Municipio de Puebla, serán sancionadas conforme a lo siguiente:
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+Cuando en el lugar objeto de la diligencia, alguno o algunas personas manifiesten oposición y obstaculizan la práctica de la misma, el personal que lleve a cabo la visita de verificación podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección.
 
-I. Multa por el equivalente del valor diario de 1 a 100 unidades de medida y actualización, en el momento a imponer la sanción.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Artículo 1741 Sexties (sic).- Las infracciones de carácter administrativo a los preceptos contenidos en el presente Capítulo del Código Reglamentario para el Municipio de Puebla, serán sancionadas con una o más de las siguientes sanciones:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+I. Multa por el equivalente del valor diario de 5 a 400 unidades de medida y actualización, en el momento a imponer la sanción.
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2014)</small>
 
 II. Reparación del daño ocasionado.
 
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2014)</small>
+
 III. En caso grave, arresto administrativo hasta por 36 horas.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
 
 Las sanciones a que se refiere este artículo, se aplicarán sin perjuicio de las sanciones penales que proceda.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
 En los casos de reincidencia, el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder del doble del máximo permitido.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE MARZO DE 2014)</small>
 
 Para la imposición de las sanciones por infracciones a este Reglamento obligatoriamente se tomará en cuenta:
 
@@ -27773,11 +27797,11 @@ Las sanciones de carácter pecuniarias impuestas al infractor y que representen 
 
 En contra de los actos y resoluciones realizados y emitidos, con motivo de la aplicación del presente Capítulo, procede el Recurso de Inconformidad, cuya tramitación se sujetará a las disposiciones que la Ley Orgánica Municipal establece.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1742.
 
-La Agencia, con el apoyo de la Comisión de Ecología y Medio Ambiente del Municipio, auspiciará el cuidado, el mejoramiento y conservación del paisaje urbano y rural, tomando en cuenta los ecosistemas existentes y los valores ambientales, paisajistas, históricos, arqueológicos científicos y culturales a través de la aplicación de las disposiciones en materia de Desarrollo Urbano, el Programa Municipal de Desarrollo Urbano Sustentable, el Ordenamiento Ecológico y el presente Capítulo.
+La Secretaría, con el apoyo de la Comisión de Ecología y Medio Ambiente del Municipio, auspiciará el cuidado, el mejoramiento y conservación del paisaje urbano y rural, tomando en cuenta los ecosistemas existentes y los valores ambientales, paisajistas, históricos, arqueológicos científicos y culturales a través de la aplicación de las disposiciones en materia de Desarrollo Urbano, el Programa Municipal de Desarrollo Urbano Sustentable, el Ordenamiento Ecológico y el presente Capítulo.
 
 DE LA PROTECCIÓN AL AMBIENTE POR EL IMPACTO TURÍSTICO E INDUSTRIAL
 
@@ -27789,11 +27813,11 @@ Los establecimientos comerciales, industriales o de servicios de competencia mun
 
 DE LA EDUCACIÓN AMBIENTAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1744.
 
-Con el fin de apoyar las actividades de conservación, protección y mejoramiento del ambiente, el Honorable Ayuntamiento, a través de la Agencia impulsará la educación ambiental no formal y la participación social de las distintas comunidades del Municipio, con el fin de:
+Con el fin de apoyar las actividades de conservación, protección y mejoramiento del ambiente, el Honorable Ayuntamiento, a través de la Secretaría impulsará la educación ambiental no formal y la participación social de las distintas comunidades del Municipio, con el fin de:
 
 I. Fomentar y fortalecer la cultura ambiental, dirigida hacia el respeto, mantenimiento e incremento de los ecosistemas, de las Zonas de Preservación Ecológica de los Centros de Población y áreas verdes de jurisdicción municipal;
 
@@ -27803,9 +27827,11 @@ III. Que la población del Municipio conozca y comprenda los principales problem
 
 IV. Crear conciencia ambiental y ecológica en la población para impulsar la participación de manera conjunta con las autoridades en la solución de los problemas ambientales de su localidad; así como denunciar a las personas físicas o morales, públicas o privadas, que ocasionen alteraciones ambientales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
+
 ###### Artículo 1745.
 
-Para los fines señalados en el artículo anterior, el H. Ayuntamiento, a través del (sic) Comisión de Ecología y Medio Ambiente, en coordinación con la Comisión de Educación, propiciará:
+Para los fines señalados en el artículo anterior, el H. Ayuntamiento, a través de la Comisión de Desarrollo Urbano y Medio Ambiente, en coordinación con la Comisión de Educación, Ciencia y Tecnología propiciará:
 
 I. La celebración de acuerdos de coordinación con el Gobierno del Estado para que en el Municipio se desarrollen políticas educativas, de difusión y propaganda, a través de los sistemas escolarizados y los medios masivos de comunicación, sobre temas ambientales;
 
@@ -27825,19 +27851,21 @@ Los desarrollos turísticos y de servicios de competencia municipal, sin menosca
 
 DE LA INFORMACIÓN OPORTUNA SOBRE LAS CONDICIONES DEL AMBIENTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1748.
 
-El Honorable Ayuntamiento, por conducto de la Agencia, establecerá y operará permanentemente un sistema de información sobre la calidad del ambiente en el Municipio, para lo cual podrá:
+El Honorable Ayuntamiento, por conducto de la Secretaría, establecerá y operará permanentemente un sistema de información sobre la calidad del ambiente en el Municipio, para lo cual podrá:
 
-I. Solicitar la asistencia técnica de la PROFEPA, SEMARNAT y de la SEDURBECOP, así como establecer acuerdos de coordinación con estos órdenes de gobierno para apoyar la ejecución de las actividades mencionadas;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+I. Solicitar la asistencia técnica de la PROFEPA, SEMARNAT y de la SMADSOT, así como establecer acuerdos de coordinación con estos órganos de gobierno, para apoyar la ejecución de las actividades mencionadas.
 
 II. Fomentar la participación de instituciones de educación superior de investigación y de los grupos sociales en la operación y evaluación del sistema de monitoreo e información ambiental; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-III. Emitir, a través de la Agencia, un informe público anual sobre el estado que guarda el ambiente y los recursos naturales del Municipio.
+III. Emitir, a través de la Secretaría, un informe público anual sobre el estado que guarda el ambiente y los recursos naturales del Municipio.
 
 ###### Artículo 1749.
 
@@ -27847,9 +27875,9 @@ Los solicitantes deberán identificarse indicando su nombre o razón social y do
 
 Quien reciba información ambiental de las autoridades municipales en los términos del presente capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ABRIL DE 2020)</small>
 
-La Agencia podrá negar la información solicitada cuando se esté en los supuestos siguientes:
+La Secretaría podrá negar la información solicitada cuando se esté en los supuestos siguientes:
 
 I. Se considere por disposición legal que dicha información es confidencial o que por su propia naturaleza, su difusión afecte o pueda afectar la seguridad pública del Municipio;
 
@@ -27887,11 +27915,11 @@ Las Zonas de Preservación Ecológica Municipales tendrán la denominación que 
 
 Para que el H. Ayuntamiento realice las declaratorias de Zonas de Preservación Ecológica, primero debe de incluirlas en los Programas de Desarrollo Urbano y el Programa de Ordenamiento Ecológico.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1754.
 
-El Honorable Ayuntamiento, a través de la Agencia, mantendrá un sistema permanente de información y vigilancia sobre los ecosistemas y su equilibrio ecológico en el Municipio, para la cual, coordinará sus acciones con el Gobierno del Estado, la Federación y los Municipios conurbados; así mismo, establecerá al respecto sistemas de evaluación y seguimiento de las acciones que emprenda.
+El Honorable Ayuntamiento, a través de la Secretaría, mantendrá un sistema permanente de información y vigilancia sobre los ecosistemas y su equilibrio ecológico en el Municipio, para la cual, coordinará sus acciones con el Gobierno del Estado, la Federación y los Municipios conurbados; así mismo, establecerá al respecto sistemas de evaluación y seguimiento de las acciones que emprenda.
 
 ###### Artículo 1755.
 
@@ -27941,13 +27969,13 @@ No se permitirá depositar residuos sólidos urbanos y desechos de jardinería y
 
 El H. Ayuntamiento podrá otorgar en custodia parques, jardines y parques urbanos, con la finalidad de incentivar la inversión privada en estas áreas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1761.
 
-Previo acuerdo con la Agencia, las personas físicas o jurídicas podrán instalar en los camellones, glorietas y demás áreas verdes, anuncios que señalen que la persona física o jurídica que corresponda se hace cargo del mantenimiento del área verde; estos anuncios tendrán las dimensiones y características que determine la Agencia.
+Previo acuerdo con la Secretaría, las personas físicas o jurídicas podrán instalar en los camellones, glorietas y demás áreas verdes, anuncios que señalen que la persona física o jurídica que corresponda se hace cargo del mantenimiento del área verde; estos anuncios tendrán las dimensiones y características que determine la Secretaría.
 
-Las personas físicas o morales tendrán como obligación conservar dichas áreas en buenas condiciones, de no cumplir con la anterior obligación la autoridad Municipal procederá a retirar al (sic) anuncio colocado.
+Las personas físicas o morales tendrán como obligación conservar dichas áreas en buenas condiciones, de no cumplir con la anterior obligación la autoridad Municipal procederá a retirar el anuncio colocado.
 
 ###### Artículo 1762.
 
@@ -27957,11 +27985,11 @@ La Unidad Administrativa encargada de parques y jardines elaborará un padrón d
 
 Los inmuebles de propiedad municipal que sean destinados como plazas, parques, jardines, camellones, glorietas no podrán cambiar su uso, sino mediante Acuerdo de Cabildo, en el que invariablemente deberá informar la forma en que se reemplazará el área suprimida, por una superficie igual o mayor para destinarla a áreas verdes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1764.
 
-La Agencia, se encargará de la forestación y reforestación de los espacios de bienes de uso común, fundamentalmente en:
+La Secretaría, se encargará de la forestación y reforestación de los espacios de bienes de uso común, fundamentalmente en:
 
 I. Vías públicas y plazas;
 
@@ -27969,21 +27997,21 @@ II. Parques y Jardines;
 
 III. Camellones y glorietas; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-IV. Los demás lugares que así lo consideren las Autoridades Municipales y compete a la Agencia determinar la cantidad y las especies de árboles, plantas y arbustos que convenga utilizar de acuerdo a un dictamen técnico que elabore para este fin.
+IV. Los demás lugares que así lo consideren las Autoridades Municipales y compete a la Secretaría determinar la cantidad y las especies de árboles, plantas y arbustos que convenga utilizar de acuerdo a un dictamen técnico que elabore para este fin.
 
 El H. Ayuntamiento tendrá los viveros necesarios para realizar las funciones de repoblación forestal, teniendo facultades para celebrar convenios con instituciones públicas o privadas, para producir e intercambiar especies o bien, mejorar las que cultiva en sus viveros.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1765.
 
-La Agencia emitirá un dictamen de recomendación a las urbanizaciones de nueva creación y asentamientos a regularizar, a efecto de orientar el tipo adecuado de árboles y vegetación.
+La Secretaría emitirá un dictamen de recomendación a las urbanizaciones de nueva creación y asentamientos a regularizar, a efecto de orientar el tipo adecuado de árboles y vegetación.
 
-La Agencia elaborará programas de forestación y reforestación en los que participen todos los sectores de la ciudadanía, a fin de lograr un mejor entorno ambiental, estos programas se presentarán cada año e indicarán la cantidad de especies y en qué zonas y/o lugares del Municipio serán plantados.
+La Secretaría elaborará programas de forestación y reforestación en los que participen todos los sectores de la ciudadanía, a fin de lograr un mejor entorno ambiental, estos programas se presentarán cada año e indicarán la cantidad de especies y en qué zonas y/o lugares del Municipio serán plantados.
 
-La Agencia promoverá y dará asesoría a las asociaciones vecinales sobre la forma de como forestar y reforestar las áreas verdes de su colonia; y promoverá la utilización de lotes baldíos de propiedad particular, previo convenio celebrado en los términos de este Capítulo con: propietarios y con la participación ciudadana y las asociaciones vecinales, para la creación de áreas verdes, viveros o huertos.
+La Secretaría promoverá y dará asesoría a las asociaciones vecinales sobre la forma de como forestar y reforestar las áreas verdes de su colonia; y promoverá la utilización de lotes baldíos de propiedad particular, previo convenio celebrado en los términos de este Capítulo con: propietarios y con la participación ciudadana y las asociaciones vecinales, para la creación de áreas verdes, viveros o huertos.
 
 ###### Artículo 1766.
 
@@ -28013,15 +28041,17 @@ El H. Ayuntamiento al promover la protección a la atmósfera considerara los cr
 
 Los propietarios de fuentes fijas de contaminación atmosférica de competencia municipal deberán cumplir invariablemente lo dispuesto en el artículo 115 de la Ley Estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1770.
 
-Para promover y efectuar la protección a la atmósfera, corresponde, al Honorable Ayuntamiento, dentro de su ámbito de competencia, por conducto de la Agencia:
+Para promover y efectuar la protección a la atmósfera, corresponde, al Honorable Ayuntamiento, dentro de su ámbito de competencia, por conducto de la Secretaría:
 
 I. Requerir, a todas aquellas personas físicas o morales, públicas o privadas, que realicen actividades contaminantes de la atmósfera, que utilicen tecnologías y combustibles que generen menos contaminación atmosférica, y medidas de mitigación necesarias para reducir o eliminar las emisiones contaminantes;
 
-II. Coadyuvar y dar aviso a las a autoridades federales y estatales para los efectos procedentes, sobre la existencia de actividades contaminantes de la atmósfera, cuando estas rebasen el ámbito de competencia de (sic) Municipal, así como promover ante la SEDURBECOP la aplicación de medidas de control de contaminación atmosférica;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+II. Coadyuvar y dar aviso a las a autoridades federales y estatales para los efectos procedentes, sobre la existencia de actividades contaminantes de la atmósfera, cuando estas rebasen el ámbito de competencia de (sic) Municipal, así como promover ante la SMADSOT la aplicación de medidas de control de contaminación atmosférica;
 
 III. Integrar y mantener actualizado el inventario de fuentes emisoras de contaminantes de la atmósfera en el Municipio;
 
@@ -28033,7 +28063,9 @@ VI. Diseñar y aplicar programas de apoyo al saneamiento atmosférico del Munici
 
 VII. Promover convenios o mediante acuerdos en el ámbito de su competencia con los propietarios o poseedores de establecimientos comerciales, de servicios, de reparación y mantenimiento e industriales, ubicados en zonas habitacionales, para su reubicación cuando su funcionamiento sea motivo de queja por parte de la población, constatadas por la autoridad competente, referidas a la emisión de contaminantes a la atmósfera.
 
-VIII. Impulsar, establecer y operar, previo dictamen y coordinación de la SEBURBECOP, (sic) un sistema de monitoreo de la calidad del aire en Municipio, conforme a las NOM aplicables;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+VIII. Impulsar, establecer y operar, previo dictamen y coordinación de la SMADSOT, (sic) un sistema de monitoreo de la calidad del aire en Municipio, conforme a las NOM aplicables;
 
 IX. Identificar las áreas generadoras de tolvaneras dentro del Municipio y establecer programas de conservación de suelos con la participación de Universidades e Institutos de Investigación;
 
@@ -28459,11 +28491,11 @@ DE LA DENUNCIA POPULAR
 
 Se entiende como denuncia popular, aquel instrumento jurídico por medio del cual, toda persona física, jurídica, pública u organización no gubernamental, puede hacer del conocimiento de la Agencia, los hechos que produzcan o puedan producir daños ambientales o a los recursos naturales, o contravengan las disposiciones del presente Capítulo y demás ordenamientos que regulen las materias relacionadas con la conservación y protección al ambiente, así como la restauración del equilibrio, con el fin de que la autoridad competente atienda y solucione las quejas presentadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Artículo 1808.
 
-El Honorable Ayuntamiento, por conducto de la Agencia, tendrá las siguientes atribuciones en materia de denuncia popular:
+El Honorable Ayuntamiento, por conducto de la Secretaría, tendrá las siguientes atribuciones en materia de denuncia popular:
 
 I. Promover la formación de consejos ecológicos en las organizaciones escolares, obreras, patronales y campesinas, para reforzar la acción de la denuncia popular;
 
@@ -28471,7 +28503,9 @@ II. Recibir y dar trámite legal y administrativo correspondiente a toda denunci
 
 III. Orientar y apoyar al denunciante para que éste, los colonos del lugar, las organizaciones sociales o a través de la Comisión de Ecología y Medio Ambiente, le den la solución correspondiente a la denuncia, en caso de que el problema denunciado no requiera intervención de la Autoridad Municipal;
 
-IV. Solicitar a la PROFEPA o la SEDURBECOP, la información necesaria para dar seguimiento a las denuncias relacionadas con problemas ecológicos o ambientales del Municipio y que sean competencia de aquellos; y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+IV. Solicitar a la PROFEPA o a la SMADSOT, la información necesaria para dar seguimiento a las denuncias relacionadas con problemas ecológicos o ambientales del municipio y que sean competencia de aquellos; y
 
 V. Difundir ampliamente su domicilio y los medios destinados a recibir las denuncias.
 
@@ -28793,13 +28827,13 @@ de conformidad con la legislación ambiental 15 a 50 unidades
 
 vigente de medida y actualización
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 8. Por realizar poda o derribo sin la Del equivalente
 
 autorización municipal, por unidad, al valor diario de
 
-independientemente de reparar el 20 a 175 unidades
+independientemente de reparar el 20 a 400 unidades
 
 daño causado de medida y actualización
 
@@ -28937,13 +28971,13 @@ VIII. Arresto administrativo hasta por treinta y seis horas.
 
 En caso de no contar con autorización expresa por parte de la Agencia conforme a lo establecido en el artículo 1741 del presente ordenamiento, el responsable se hará acreedor a las sanciones que se establecerán conforme a los siguientes criterios:
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-I. Quien en propiedad privada realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente al valor diario de 15 unidades de medida y actualización, por cada árbol derribado y tendrá el compromiso de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados;
+I.- Quien en propiedad privada realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente al valor diario de 20 a 400 unidades de medida y actualización por cada árbol derribado. Además, tendrá la obligación de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-II. Quien en propiedad pública realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente al valor diario de 50 unidades de medida y actualización, por cada árbol derribado y tendrá la obligación de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados; y
+II.- Quien en propiedad pública realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente al valor diario de 20 a 400 unidades de medida y actualización por cada árbol derribado. Además, tendrá la obligación de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados; y
 
 III.- Cuando el derribo se realice para la construcción de obras, cuyas dimensiones, impliquen un fuerte impacto ambiental de la zona, para la recuperación de cobertura vegetal, la Agencia determinará la especie y número, considerándose el impacto al ambiente de la zona, independientemente de poder sancionar con clausura temporal o definitiva el lugar de la obra.
 
@@ -38820,5 +38854,13 @@ P.O. 13 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 13 DE DICIEMBRE DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 652 Y ADICIONA EL ARTÍCULO 652 BIS AL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
 
 PRIMERO. La reforma y adición aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE MARZO DE 2020, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CAPÍTULO 26 "DE DESARROLLO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA", LIBRO QUINTO DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. Las reformas aprobadas en el presente Dictamen, entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
