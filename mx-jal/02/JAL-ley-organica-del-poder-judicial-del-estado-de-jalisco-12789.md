@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2019-10-01"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -561,6 +561,20 @@ Las discusiones y documentos relacionados con las sesiones reservadas, sólo pue
 
 Las sesiones del pleno se celebrarán en los días y a las horas que fije el reglamento. Podrán celebrarse sesiones extraordinarias cuando lo crea necesario el Presidente o lo pida alguno de los magistrados propietarios.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+###### Artículo 22 Bis.
+
+En casos fortuitos o de fuerza mayor que impidan o hagan inconveniente la presencia física de los Magistrados en un mismo lugar, las sesiones podrán celebrarse a distancia, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, que permita por lo menos:
+
+I. La identificación visual plena de los Magistrados, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos; y
+
+III. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos supuestos, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
 
 ###### Artículo 23.
@@ -836,6 +850,20 @@ Las audiencias serán públicas y los acuerdos serán reservados.
 Las resoluciones de las salas se tomarán por unanimidad o mayoría de votos de sus integrantes.
 
 Bastará la firma del Presidente de la Sala, así como la de su respectivo Secretario de Acuerdos para autorizar todos los acuerdos que se emitan, con excepción de aquellas resoluciones que correspondan a desahogo de audiencias, que resuelvan algún recurso, recusación, excusas o impedimentos y la emisión de sentencia, las que deben ser colegiadas.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+###### Artículo 39 Bis.
+
+En casos fortuitos o de fuerza mayor, que impidan o hagan inconveniente la presencia física de los Magistrados en un mismo lugar, las sesiones podrán celebrarse a distancia, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología que permita, por lo menos:
+
+I. La identificación visual plena de los Magistrados, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos; y
+
+III. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos supuestos, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
 ###### Artículo 40.
 
@@ -1819,6 +1847,20 @@ Las sesiones del pleno del Consejo de la Judicatura serán públicas y por excep
 
 Las discusiones y documentos relacionados con las sesiones reservadas, sólo pueden ponerse a la vista de quienes demuestren su interés jurídico y no son susceptibles de publicarse, salvo las resoluciones finales, que tienen carácter público, con excepción de aquellas que de conformidad con la ley, reciban clasificación distinta.
 
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+###### Artículo 143 Bis.
+
+En casos fortuitos o de fuerza mayor, que impidan o hagan inconveniente la presencia física de los Consejeros en un mismo lugar, las sesiones podrán celebrarse a distancia, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, que permita por lo menos:
+
+I. La identificación visual plena de los Consejeros, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos; y
+
+III. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos supuestos, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 144.
@@ -2050,6 +2092,20 @@ El Consejo de la Judicatura contará con las comisiones permanentes o transitori
 ###### Artículo 153.
 
 Cada comisión se integrará por dos Consejeros ciudadanos, el Consejero Juez y el Consejero Presidente.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+###### Artículo 153 Bis.
+
+En casos fortuitos o de fuerza mayor, que impidan o hagan inconveniente la presencia física de los Consejeros en un mismo lugar, las sesiones podrán celebrarse a distancia, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, que permita por lo menos:
+
+I. La identificación visual plena de los Consejeros, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos; y
+
+III. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos supuestos, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
 ###### Artículo 154.
 
@@ -3694,3 +3750,9 @@ SÉPTIMO. El Supremo Tribunal de Justicia deberá realizar las adecuaciones nece
 OCTAVO. El Congreso del Estado de Jalisco tiene un plazo de 30 días naturales, a partir de la entrada en vigor del presente decreto, para emitir las disposiciones reglamentarias referidas en el artículo 20 A de la presente ley.
 
 NOVENO. Los jueces de primera instancia que hayan adquirido la inamovilidad en el empleo previo a la entrada en vigor del presente decreto, estarán exentos de cumplir la segunda reelección del cargo, prevista por la fracción II del artículo 247 de la ley.
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27902/LXII/20 QUE REFORMA LA FRACCIÓN 111 (SIC) DEL ARTÍCULO 47, CREA EL CAPÍTULO VII DENOMINADO DE LAS SESIONES A DISTANCIA Y ADICIONA LOS ARTÍCULOS 33 BIS, 33 TER, 33 QUÁTER, 33 QUINQUIES Y 33 SEXTIES, TODOS DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, EL ARTÍCULO 75 Y ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 115 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ADICIONA LOS ARTÍCULOS 22 BIS, 39 BIS, 143 BIS Y 153 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 27 Y ADICIONA LOS ARTÍCULOS 27 BIS Y 29 BIS, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 7 Y 12 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
