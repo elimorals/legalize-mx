@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2019-08-31"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -1603,7 +1603,9 @@ TERCERO.- Los establecimientos comerciales y mercantiles dispondrán de un lapso
 
 CUARTO.- Las microempresas y pequeñas empresas que comercialicen directamente al consumidor final productos con los envases o embalajes previstos en las fracciones XI y XII del artículo 98 contarán, para el cumplimiento de esas obligaciones, con un periodo de gracia de un año contado a partir de la publicación del presente Decreto.
 
-QUINTO.- Las medianas y grandes empresas que comercialicen directamente al consumidor final, así como las empresas de cualquier tamaño que distribuyan antes de su venta al consumidor final productos con los envases o embalajes previstos en las fracciones XI y XII del artículo 98 contarán, para el cumplimiento de esas obligaciones, con un periodo de gracia de seis meses contado a partir de la publicación del presente Decreto.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+QUINTO.- Las medianas y grandes empresas que comercialicen directamente al consumidor final, así como las empresas de cualquier tamaño que distribuyan antes de su venta al consumidor final productos con los envases o embalajes previstos en las fracciones XI y XII del artículo 98 de la presente Ley, contarán, para el cumplimiento de esas obligaciones, con una prórroga de seis meses.
 
 SEXTO.- Transcurridos dichos términos, en caso de incumplimiento, serán sancionados de acuerdo al Título Noveno de la Ley para Prevención y Gestión Integral de los Residuos Sólidos.
 
@@ -1620,3 +1622,11 @@ P.O. 31 DE AGOSTO DE 2019.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1188.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO TRANSITORIO QUINTO DEL DECRETO NÚMERO 629, APROBADO POR LA LXIV LEGISLATURA EL 10 DE ABRIL DEL 2019, PUBLICADO EN EL PERIÓDICO OFICIAL NÚMERO 25, SEXTA SECCIÓN DEL 22 DE JUNIO DEL 2019, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- La prórroga a que hace referencia el artículo Quinto Transitorio empezará a contar al día siguiente de la publicación del presente Decreto, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
