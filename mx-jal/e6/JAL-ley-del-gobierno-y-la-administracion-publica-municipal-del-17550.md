@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2020-04-21"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ABRIL DE 2020 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -609,11 +611,67 @@ El Ayuntamiento sesiona válidamente con la asistencia de la mayoría de sus int
 
 El Ayuntamiento debe llevar un libro de actas en el que se deben asentar los asuntos tratados y los acuerdos tomados. Este libro es público y debe ser firmado por el servidor público encargado de la Secretaría del Ayuntamiento, que es responsable de que el contenido corresponda fielmente al de la sesión.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2020)</small>
+
+### CAPITULO VII (SIC). De las Sesiones a distancia
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+###### Artículo 33 Bis.
+
+El Ayuntamiento puede, excepcionalmente, en casos fortuitos o de fuerza mayor sesionar a distancia empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología.
+
+Las sesiones que realice el Ayuntamiento de manera no presencial a distancia o en linea, se entenderán como realizadas en el salón de sesiones de la presidencia municipal.
+
+El presidente municipal conducirá estas sesiones presencialmente desde el salón de sesiones del Ayuntamiento, con la presencia física del Secretario General y a falta de éste el Síndico Municipal; los regidores que deseen participar de formar (sic) presencial en la sesión, podrán estar presentes en los términos ordinarios, misma que podrá funcionar con la asistencia de la Presidencia y uno de los Secretarios.
+
+Es decisión individual y libre de cada Regidor, asistir presencialmente al salón de sesiones o participar por los medios electrónicos autorizados para el desahogo de una sesión a distancia.
+
+El desahogo de este tipo de sesiones debe transmitirse en vivo para los integrantes del ayuntamiento en el propio salón de sesiones, así como para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participaciones de todos los integrantes.
+
+Se debe garantizar la conexión permanente de los miembros del Ayuntamiento a la sesión, así como el apoyo, asesoría y soporte informático que permitan a todos los regidores su plena participación en la misma.
+
+Las votaciones a reglamentos municipales, la designación, elección, ratificación o insaculación de servidores públicos o asuntos legales o de propiedad, la suspensión (sic) servidor público, no se pueden desahogar mediante una sesión a distancia.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+###### Artículo 33 Ter.
+
+El Presidente Municipal podrá convocar a sesiones del Ayuntamiento a distancia, cuando menos con 12 horas de anticipación, debiendo acreditar en la convocatoria el cumplimiento del supuesto previsto en el artículo 33 Bis.
+
+La convocatoria se notifica a través del correo electrónico oficial de los integrantes del Ayuntamiento adjuntando orden del día y los documentos anexos a discutir.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+###### Artículo 33 Quáter.
+
+Sin menoscabo de lo previsto por el artículo 31 de la presente Ley, el desarrollo de las sesiones a distancia del Ayuntamiento, se apegará cuando menos a los siguientes lineamientos:
+
+I. La asistencia y votación de los asuntos a tratar en las sesiones a distancia, será tomada nominalmente; y
+
+II. Cualquier integrante del Ayuntamiento puede solicitar al Presidente Municipal instruya al Secretario General lea en voz alta los nombres de los que votaron en uno u otro sentido, para que los interesados hagan las aclaraciones que correspondan.
+
+Los asuntos que se deban resolver a través de votaciones por cédula, así como aquello que comprometa el patrimonio del municipio, no se pueden desahogar mediante una sesión a distancia.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+###### Artículo 33 Quinquies.
+
+En casos fortuitos o de fuerza mayor las comisiones pueden sesionar a distancia, en caso de contingencia sanitaria declarada por autoridad competente que ponga en riesgo la vida, la salud e integridad del personal que labora en el Ayuntamiento y de sus integrantes, en los términos de este capítulo, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, durante el tiempo que dure la contingencia, debiendo hacerlo del conocimiento del Presidente Municipal para que proponga ante el Ayuntamiento un calendario de reuniones de comisiones.
+
+Los Ayuntamientos establecen en sus respectivos reglamentos los términos de convocatoria, la cual no podrá ser inferior a 12 horas de anticipación.
+
+El Presidente de Comisión podrá convocar a esta clase de sesiones, cuando menos con 12 horas de anticipación a través del correo electrónico oficial de cada integrante de comisión.
+
+Los Ayuntamientos establecen en sus respectivos reglamentos, los procedimientos en caso de que los Presidentes de Comisión se nieguen a convocar a sesión a distancia una vez que la mitad más uno, de los integrantes de las comisiones soliciten, se convoque a sesión y el Presidente no atienda dicho requerimiento.
+
+La validez de los dictámenes aprobados en una sesión a distancia se acredita con la constancia de votación nominal firmada por quien haya presidido dicha sesión y deberá acompañar la constancia de votación nominal.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+Artículo 33 Sexties. Para todo lo no previsto en este capítulo se estará a lo dispuesto en los Reglamentos de los Ayuntamientos.
+
 ### CAPITULO VII. De las Votaciones
-
-### CAPITULO VIII. De las Obligaciones y Facultades de los Ayuntamientos
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 34.
 
@@ -671,7 +729,9 @@ X. La designación del titular del Órgano Interno de Control Municipal; y
 
 XI. Los demás casos que señalen la presente ley y otras leyes.
 
-### CAPITULO IX. De los Ordenamientos Municipales
+### CAPITULO VIII. De las Obligaciones y Facultades de los Ayuntamientos
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 37.
 
@@ -809,9 +869,7 @@ Con el objeto de simplificar, facilitar y agilizar las comunicaciones, actos jur
 
 El uso de la firma electrónica certificada para los servidores públicos se establece en el reglamento respectivo.
 
-### CAPITULO I. Del Presidente Municipal
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+### CAPITULO IX. De los Ordenamientos Municipales
 
 ###### Artículo 40.
 
@@ -905,9 +963,9 @@ Las circulares internas, instructivos, manuales, formatos y cualesquier otro act
 
 ## TITULO TERCERO. DE LAS AUTORIDADES MUNICIPALES
 
-### CAPITULO II. De los Regidores
+### CAPITULO I. Del Presidente Municipal
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 47.
 
@@ -917,7 +975,9 @@ I. Ejecutar las determinaciones del Ayuntamiento que se apeguen a la ley;
 
 II. Planear y dirigir el funcionamiento de los servicios públicos municipales;
 
-III. Convocar al Ayuntamiento a sesiones ordinarias, extraordinarias y solemnes, de acuerdo con lo que establece esta ley, así como aquellas que por su naturaleza deban de celebrarse con carácter de reservadas;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+III. Convocar al Ayuntamiento a sesiones ordinarias, extraordinarias, solemnes y a distancia, de acuerdo con lo que establece esta ley, así como aquellas que por su naturaleza deban de celebrarse con carácter de reservadas;
 
 IV. Cuidar del orden y de la seguridad de todo el Municipio, disponiendo para ello, de los cuerpos de seguridad pública y demás autoridades a él subordinadas;
 
@@ -963,9 +1023,9 @@ V. Proponer al órgano de gobierno, en la primera sesión de (sic) Ayuntamiento 
 
 VI. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
 
-### CAPITULO III. Del Síndico
+### CAPITULO II. De los Regidores
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 22570/LVIII/08 PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 49.
 
@@ -1065,7 +1125,9 @@ Artículo 51 quater. (DEROGADO, P.O. 25 DE DICIEMBRE DE 2008)
 
 Artículo 51 quinquies. (DEROGADO, P.O. 25 DE DICIEMBRE DE 2008)
 
-### CAPITULO IV. De los Jueces Municipales
+### CAPITULO III. Del Síndico
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 22570/LVIII/08 PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2008, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 ###### Artículo 52.
 
@@ -1117,9 +1179,7 @@ VII. Las demás que establezcan las Constituciones Federal, Estatal y demás dis
 
 El Síndico se debe apoyar en los servidores públicos municipales necesarios para cumplir su función, conforme al presupuesto de egresos y a los reglamentos que al efecto se expidan.
 
-### CAPITULO V. De los Servidores Públicos Auxiliares del Ayuntamiento
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+### CAPITULO IV. De los Jueces Municipales
 
 ###### Artículo 55.
 
@@ -1167,7 +1227,7 @@ IV. Las demás que le atribuyan los ordenamientos municipales aplicables.
 
 Las faltas temporales de los jueces municipales hasta por dos meses, serán cubiertas por el servidor público que el Ayuntamiento designe, quien estará habilitado para actuar como titular, siempre y cuando cumpla con los requisitos de ley.
 
-### CAPITULO UNICO. Del Modo de Suplir las Faltas
+### CAPITULO V. De los Servidores Públicos Auxiliares del Ayuntamiento
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1291,9 +1351,9 @@ La figura a que se refiere este artículo requiere de su establecimiento en los 
 
 ## TITULO CUARTO. PREVENCIONES PARA LOS CASOS DE AUSENCIA DE LAS AUTORIDADES MUNICIPALES
 
-### CAPITULO I. De la Hacienda Municipal
+### CAPITULO UNICO. Del Modo de Suplir las Faltas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 68.
 
@@ -1377,7 +1437,9 @@ Las faltas de los demás servidores públicos municipales deben ser cubiertas co
 
 ## TITULO QUINTO. DE LA HACIENDA Y PATRIMONIO MUNICIPALES
 
-### CAPITULO II. Del Patrimonio Municipal
+### CAPITULO I. De la Hacienda Municipal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### Artículo 75.
 
@@ -1471,9 +1533,7 @@ La oficina encargada de la Hacienda Municipal no debe hacer ningún pago sin la 
 
 La oficina encargada de la Hacienda Municipal es la única dependencia autorizada para ejercer la facultad económico coactiva en los términos previstos por la Ley de Hacienda Municipal, para hacer efectivas las contribuciones, sanciones pecuniarias y demás arbitrios, salvo lo establecido en los convenios que lleguen a celebrarse con el Estado.
 
-### CAPITULO I. Modalidades en su Prestación
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+### CAPITULO II. Del Patrimonio Municipal
 
 ###### Artículo 82.
 
@@ -1615,7 +1675,9 @@ Los Ayuntamientos deben regular, en sus respectivos ordenamientos municipales, l
 
 ## TITULO SEXTO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
-### CAPITULO II. De la Seguridad Pública
+### CAPITULO I. Modalidades en su Prestación
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 94.
 
@@ -1777,9 +1839,7 @@ En caso de conflictos derivados de los convenios celebrados por los municipios c
 
 En todo caso, para asegurar la continuidad de los servicios y de las funciones públicas mientras se resuelve el conflicto, éstos se deben seguir prestando de forma ininterrumpida, con la mayor regularidad y eficacia y conforme a los convenios celebrados.
 
-### CAPITULO III. De la Concesión de Bienes y Servicios Públicos Municipales
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+### CAPITULO II. De la Seguridad Pública
 
 ###### Artículo 101.
 
@@ -1795,7 +1855,9 @@ La organización de la policía preventiva municipal debe ser regulada mediante 
 
 Al frente de dicha policía debe estar un servidor público designado por el Presidente Municipal, con las funciones que señale el reglamento respectivo, y que puede ser removido por mayoría absoluta de votos de los integrantes del Ayuntamiento, por causa justificada.
 
-### CAPITULO UNICO. Prevenciones Generales
+### CAPITULO III. De la Concesión de Bienes y Servicios Públicos Municipales
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 103.
 
@@ -1973,9 +2035,7 @@ II. Si ya han venido operando bajo precio o tarifa, éstos se prorrogarán por e
 
 ## TITULO SEPTIMO. DE LA ORGANIZACION Y PARTICIPACION CIUDADANA Y VECINAL
 
-### CAPITULO UNICO. De los Comités de Planeación para el Desarrollo Municipal
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+### CAPITULO UNICO. Prevenciones Generales
 
 ###### Artículo 120.
 
@@ -2047,7 +2107,7 @@ Las asociaciones vecinales y las personas jurídicas que tengan función de repr
 
 ## TITULO OCTAVO. DE LA PLANEACION PARA EL DESARROLLO MUNICIPAL
 
-### CAPITULO I. De los Servidores Públicos Municipales
+### CAPITULO UNICO. De los Comités de Planeación para el Desarrollo Municipal
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -2073,7 +2133,7 @@ La organización y funcionamiento de los Comités de Planeación para el Desarro
 
 ## TITULO NOVENO. DE LAS RELACIONES DEL MUNICIPIO CON SUS SERVIDORES Y DE LA SEGURIDAD SOCIAL
 
-### CAPITULO II. De las Sanciones Administrativas
+### CAPITULO I. De los Servidores Públicos Municipales
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -2097,7 +2157,9 @@ Los integrantes de los cuerpos policiales, se rigen por sus leyes y reglamentos 
 
 Cada servidor público es directamente responsable de su actuación ante el titular de la dependencia o entidad municipal en que labore.
 
-### CAPITULO III. De la Seguridad Social
+### CAPITULO II. De las Sanciones Administrativas
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 130.
 
@@ -2129,7 +2191,7 @@ Bis. (DEROGADO, P.O. 18 DE OCTUBRE DE 2012) (REFORMADO [N. DE E. REPUBLICADO], P
 
 (DEROGADO, P.O. 18 DE OCTUBRE DE 2012) (REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE NOVIEMBRE DE 2016)
 
-### CAPITULO I. De los Medios de Apremio
+### CAPITULO III. De la Seguridad Social
 
 ###### Artículo 135.
 
@@ -2143,9 +2205,7 @@ El Ayuntamiento, está obligado a la prestación de los servicios de seguridad s
 
 ## TITULO DECIMO. MEDIOS DE APREMIO, RESPONSABILIDADES Y DE LA DECLARACION DE SITUACION PATRIMONIAL
 
-### CAPITULO II. De las Responsabilidades
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
+### CAPITULO I. De los Medios de Apremio
 
 ###### Artículo 137.
 
@@ -2171,9 +2231,9 @@ Si el infractor no paga la multa que se le hubiere impuesto, se le permutará é
 
 La Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios es de aplicación supletoria a la presente Ley.
 
-### CAPITULO III. DE LA DECLARACION DE SITUACION PATRIMONIAL
+### CAPITULO II. De las Responsabilidades
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
 
 ###### Artículo 141.
 
@@ -2191,9 +2251,9 @@ La acción para exigir dichas responsabilidades puede ejercitarse, durante el de
 
 Cuando algún miembro del Ayuntamiento comete un delito del orden común deberá ser procesado en los términos de la legislación penal.
 
-### CAPITULO I. De los Principios Generales
+### CAPITULO III. DE LA DECLARACION DE SITUACION PATRIMONIAL
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 144.
 
@@ -2243,7 +2303,7 @@ Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO II. De los Medios de Defensa
+### CAPITULO I. De los Principios Generales
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
@@ -2262,6 +2322,10 @@ El acto administrativo municipal es toda manifestación unilateral y externa de 
 El acto administrativo municipal se sujetará a las reglas y disposiciones del Título Primero y del Titulo Segundo de la Sección Primera de la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO II. De los Medios de Defensa
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 150.
 
@@ -2840,3 +2904,9 @@ P.O. 21 DE ABRIL DE 2020.
 PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. El Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco (ITEI), podrá brindar apoyo y capacitación técnica a los sujetos obligados municipales, para el debido cumplimiento del presente decreto.
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27902/LXII/20 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 47, CREA EL CAPÍTULO VII DENOMINADO DE LAS SESIONES A DISTANCIA Y ADICIONA LOS ARTÍCULOS 33 BIS, 33 TER, 33 QUÁTER, 33 QUINQUIES Y 33 SEXTIES, TODOS DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, EL ARTÍCULO 75 Y ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 115 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ADICIONA LOS ARTÍCULOS 22 BIS, 39 BIS, 143 BIS Y 153 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 27 Y ADICIONA LOS ARTÍCULOS 27 BIS Y 29 BIS, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 7 Y 12 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
