@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-proteccion-civil-de-morelos-125249"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-16"
-last_updated: "2018-01-16"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE PROTECCIÓN CIVIL DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el martes 16 de enero de 2018.
 
@@ -247,7 +247,9 @@ XL. Identificación de Riesgos: reconocer y valorar las pérdidas o daños proba
 
 XLI. Infracción: toda transgresión, quebrantamiento, violación o incumplimiento de las disposiciones de la presente Ley o su Reglamento;
 
-XLII. Infraestructura Estratégica: aquella que es indispensable para la provisión de bienes y servicios públicos, y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad nacional;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+XLII. Infraestructura Estratégica: Aquélla que es indispensable para la provisión de bienes y servicios públicos, y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad nacional y ocasionaría una afectación a la población, sus bienes o entorno. La unidad mínima de dicha infraestructura estratégica es la instalación vital;
 
 XLIII. Instrumentos Financieros de Gestión de Riesgos: son aquellos programas y mecanismos de financiamiento y cofinanciamiento con el que cuenta el Ejecutivo Estatal, para apoyar a las Instancias Públicas Estatales y Municipios, en la ejecución de proyectos y acciones derivadas de la Gestión Integral de Riesgos, para la prevención y atención de situaciones de emergencia y/o desastre de origen natural;
 
@@ -2212,3 +2214,17 @@ SECRETARIO DE GOBIERNO
 LIC. ÁNGEL COLÍN LÓPEZ
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS OCHENTA Y SEIS POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado que sea el presente Decreto remítase al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
