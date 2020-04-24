@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2020-04-21"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -156,6 +156,20 @@ XVI. Las demás que establezcan otras disposiciones legales y reglamentarias apl
 I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos; y
 
 II. Contar con estudios de nivel de licenciatura, preferentemente en la materia sustantiva de la dependencia o entidad respectiva o experiencia en el ramo.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+
+###### Artículo 6 Bis.
+
+Las dependencias y entidades que para su operación y funcionamiento cuenten con órganos colegiados, en casos fortuitos o de fuerza mayor, que impidan o hagan inconveniente la presencia física de sus integrantes en un mismo lugar, podrán sesionar a distancia, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología que permita, por lo menos:
+
+I. La identificación visual plena de sus integrantes, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la ideas y asuntos; y
+
+III. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos supuestos, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
 ## TÍTULO SEGUNDO. Administración Pública Centralizada
 
@@ -2387,6 +2401,18 @@ XXIII. Las demás que establezcan otras disposiciones legales o reglamentarias a
 
 4. La convocatoria a reuniones de la Junta de Gobierno corresponde al titular del organismo, salvo los casos de excepción en que el Estatuto Orgánico o reglamento interno conceda esta facultad a otras personas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ABRIL DE 2020)</small>
+
+5. En casos fortuitos o de fuerza mayor, que impidan o hagan inconveniente la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, que permita por lo menos:
+
+I. La identificación visual plena de los integrantes de la Junta de Gobierno, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;
+
+II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos; y
+
+III. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos supuestos, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
 #### Sección Tercera. Director General
 
 ###### Artículo 76.
@@ -3010,3 +3036,9 @@ P.O. 21 DE ABRIL DE 2020.
 PRIMERO. El presente decreto entrará en vigor a partir del día de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27902/LXII/20 QUE REFORMA LA FRACCIÓN 111 (SIC) DEL ARTÍCULO 47, CREA EL CAPÍTULO VII DENOMINADO DE LAS SESIONES A DISTANCIA Y ADICIONA LOS ARTÍCULOS 33 BIS, 33 TER, 33 QUÁTER, 33 QUINQUIES Y 33 SEXTIES, TODOS DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, EL ARTÍCULO 75 Y ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 115 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ADICIONA LOS ARTÍCULOS 22 BIS, 39 BIS, 143 BIS Y 153 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 27 Y ADICIONA LOS ARTÍCULOS 27 BIS Y 29 BIS, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 7 Y 12 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
