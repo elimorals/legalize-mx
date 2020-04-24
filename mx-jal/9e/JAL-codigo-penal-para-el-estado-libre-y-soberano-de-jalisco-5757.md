@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2020-04-02"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3829,7 +3829,7 @@ La pena de prisión se aumentará hasta el doble, cuando la privación de la lib
 
 ### CAPITULO IV BIS. De los Delitos contra la Dignidad de las Personas
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Art. 197.
 
@@ -3839,7 +3839,7 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 ### CAPITULO V. Reglas Generales
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
 ###### Art. 198.
 
@@ -3877,23 +3877,49 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 ###### Art. 202 Bis.
 
-Se impondrán de cincuenta a cien días de multa o de treinta a cien jornadas de trabajo a favor de la comunidad, a quien al que por razones de origen étnico, edad, sexo, embarazo, estado civil, raza, nacionalidad, idioma, religión, ideología, preferencia sexual, condición social o económica, trabajo o profesión, discapacidad, características físicas, estado de salud o cualquier otra causa que atente contra la dignidad humana, limite, anule o genere un menoscabo a los derechos, libertades y seguridad de la persona.
+Se impondrán de cincuenta a cien veces la unidad de medida de actualización o de treinta a cien jornadas de trabajo a favor de la comunidad, a quien al que por razones de origen étnico, edad, sexo, embarazo, estado civil, raza, nacionalidad, idioma, religión, ideología, preferencia sexual, condición social o económica, trabajo o profesión, discapacidad, características físicas, estado de salud o cualquier otra causa que atente contra la dignidad humana, limite, anule o genere un menoscabo a los derechos, libertades y seguridad de la persona.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ABRIL DE 2020)</small>
+
+La sanción aumentará al doble de la ya señalada en el párrafo anterior, cuando el delito fuere cometido en contra de personal del sistema de salud pública o privada, personal de atención de emergencias, personal de seguridad pública, personal de protección civil y bomberos con motivo del cumplimiento de sus funciones o por consecuencia del encargo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE ABRIL DE 2020)</small>
 
 Al reincidente, se le impondrá de uno a tres años de prisión.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE ABRIL DE 2020)</small>
+
 Las mismas penas se impondrán a quien:
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
 
 I. Provoque o incite a la discriminación, odio y a la violencia contra una persona o grupo de personas;
 
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
+
 II. Niegue a una persona o grupo de personas una prestación o servicio al que tiene derecho el público en general;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
 
 III. Veje, humille, denigre o excluya a alguna persona o grupo de personas;
 
-IV. Niegue o restrinja los derechos laborales adquiridos; o
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-V. Niegue o restrinja los derechos educativos y de salud.
+IV. Niegue o restrinja los derechos laborales adquiridos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+
+V. Niegue o restrinja los derechos educativos y de salud; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 2020)</small>
+
+VI. Agreda, obstruya, impida o trate de impedir el correcto desarrollo de sus actividades a personal del sistema de salud pública o privada, personal de atención de emergencias, personal de seguridad pública, personal de protección civil y bomberos, personal médico o que forma parte de instituciones de salud públicas o privadas. Si con motivo de la agresión se causaren lesiones, estas se sancionarán de conformidad a los artículos 207 y 208 de este código, independientemente de las penas previstas por este artículo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE ABRIL DE 2020)</small>
 
 No serán consideradas como discriminatorias todas aquellas medidas tendientes a la protección de los grupos vulnerables, de conformidad a la ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE ABRIL DE 2020)</small>
 
 Al servidor público que, por las razones previstas en este artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en el presente artículo y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo tiempo de la pena de prisión impuesta.
 
@@ -3903,7 +3929,7 @@ Al servidor público que, por las razones previstas en este artículo, niegue o 
 
 ###### Art. 203.
 
-No se procederá contra los autores de los delitos a que se refiere este título, sino por querella de los ofendidos o de sus legítimos representantes, excepto cuando sean cometidos en contra de algún representante o comisionado de alguno de los poderes o institución pública.
+No se procederá contra los autores de los delitos a que se refiere este título, sino por querella de los ofendidos o de sus legítimos representantes, excepto cuando sean cometidos en contra de algún representante o comisionado de alguno de los poderes o institución pública, personal del sistema de salud pública o privada, personal de atención de emergencias, personal de seguridad pública, personal de protección civil y bomberos.
 
 ###### Art. 204.
 
@@ -6916,3 +6942,9 @@ P.O. 2 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27852/LXII/20 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII Y XIX Y ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 5° DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA; LAS FRACCIONES VII Y XIII, Y ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y REFORMAN LOS ARTÍCULOS 30 Y 30 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO SE REFORMA FRACCIÓN V DEL ARTÍCULO 26 Y FRACCIÓN III INCISO A NUMERAL 10 DEL ARTÍCULO 40 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27901/LXII/20 QUE REFORMA LOS ARTÍCULOS 202 BIS Y 203, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
