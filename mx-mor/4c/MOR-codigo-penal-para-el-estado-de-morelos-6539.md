@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2020-03-11"
+last_updated: "2020-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1449,9 +1449,9 @@ IV. Desde que se realizó el último acto de ejecución o se omitió la conducta
 
 En los casos de concurso, se computarán separadamente los plazos para la prescripción correspondiente a los diversos delitos concurrentes, pero correrán en forma simultánea.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
-ARTICULO 100 BIS.- Cuando se trate de delitos contra la libertad y el normal desarrollo psicosexual contenidos en el Título Séptimo de este Código, cometidos en contra de menores de edad, el término de la prescripción de la pretensión punitiva empezará a correr a partir del día en que la víctima alcance su mayoría de edad.
+ARTICULO 100 BIS.- Cuando se trate de delitos contra la libertad y el normal desarrollo psicosexual contenidos en el Título Séptimo de este Código, cometidos en contra de menores de edad o que o no tuvieren la capacidad de comprender el significado del hecho o resistirlo, la acción penal será imprescriptible.
 
 ###### ARTICULO 101.
 
@@ -5222,3 +5222,13 @@ PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones secundarias que se opongan al presente Decreto.
+
+P.O. 24 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS OCHENTA Y DOS POR EL CUAL SE REFORMA EL ARTÍCULO 100 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMER (SIC). Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación, sanción y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan las disposiciones de igual o menor grado que se opongan a la presente reforma.
