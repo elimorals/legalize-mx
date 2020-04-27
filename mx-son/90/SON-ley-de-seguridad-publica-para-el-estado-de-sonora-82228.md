@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2018-11-22"
+last_updated: "2020-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2020.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -2775,81 +2775,93 @@ Si al momento de dictar su resolución, el Juez Calificador encuentra que el suj
 
 El Juez Calificador podrá conmutar las sanciones decretadas, aplicando en su lugar la amonestación, siempre y cuando el infractor se encuentre en la hipótesis a que alude el primer párrafo del artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE ABRIL DE 2020)</small>
 
-## TÍTULO TERCERO
+## TÍTULO TERCERO. DE LA COORDINACIÓN ESTATAL DE SERVICIOS PREVIOS AL JUICIO Y SUPERVISIÓN DE LIBERTAD CONDICIONADA
 
-DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE ABRIL DE 2020)</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+### CAPÍTULO I. DE LAS FACULTADES DE LA COORDINACIÓN
 
-### CAPÍTULO I. DE LAS FACULTADES DE LA DIRECCION
-
-> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 259.
 
-Facultades de Dirección General de Ejecución de Penas y Medidas de Seguridad, dependiente de la Secretaría de Seguridad Pública, tiene las siguientes facultades;
+La Coordinación Estatal de Servicios Previos al Juicio y Supervisión de Libertad Condicionada, es una unidad administrativa dependiente de la Secretaría de Seguridad Pública del Estado de Sonora, que cuenta con las siguientes atribuciones:
 
-I. En materia de medidas judiciales dictadas durante el proceso, en coordinación con la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso, dependiente de la Fiscalía General de Justicia:
+I.- Atender oportunamente las solicitudes de evaluación de riesgos procesales de la Fiscalía General de Justicia, Dirección General de la Defensoría Pública, Abogados privados y/o el Juez para el caso de las solicitudes del artículo quinto transitorio del Decreto publicado en el Diario Oficial de la Federación el 17 de junio de 2016;
 
-a) Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva y las condiciones a cargo del imputado en caso de suspensión condicional del proceso, así como hacer sugerencias sobre cualquier cambio que amerite alguna modificación de las medidas u obligaciones impuestas;
+II.- Vigilar la atención a las determinaciones que en materia de obligaciones procesales se dicten por el Órgano Jurisdiccional;
 
-b) Entrevistar periódicamente a la víctima o testigo del delito, con el objeto de dar seguimiento al cumplimiento de la medida cautelar impuesta o las condiciones de la suspensión condicional del proceso y canalizarlos, en su caso, a la autoridad correspondiente;
+III.- Coordinar las acciones necesarias para que se lleve a cabo la elaboración del análisis de evaluación de riesgo, de manera objetiva, imparcial y neutral, dentro de las cuarenta y ocho horas siguientes a la detención del imputado, o en el término previo a la audiencia inicial cuando este comparezca ante la Dirección General de Servicios Previos al Juicio y Medidas Cautelares, adscrita a ésta Unidad;
 
-c) Realizar entrevistas, así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre el imputado;
+IV.- Establecer canales de comunicación para que se proporcione a las partes el análisis que se menciona en la fracción que antecede, para que éstas puedan contar con información necesaria al momento de decidir sobre la necesidad de solicitarle a la autoridad judicial se le imponga o revise una obligación procesal al imputado;
 
-d) Verificar la localización del imputado en su domicilio o en el lugar en donde se encuentre, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+V.- Llevar a cabo solicitudes de información a Instituciones Públicas y Privadas en relación de los riesgos procesales que representa el imputado;
 
-e) Requerir que el imputado proporcione muestras, sin previo aviso, para detectar el posible uso de alcohol o drogas prohibidas o el resultado del examen de las mismas en su caso, cuando la modalidad de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+VI.- Coordinar el acceso a los sistemas y bases de datos del Sistema Nacional de Información y demás de carácter público;
 
-f) Supervisar que las personas e instituciones públicas y privadas a las que la autoridad judicial encargue el cuidado del imputado, cumplan las obligaciones contraídas;
+VII.- Generar mecanismos que aseguren la supervisión y seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva y las condiciones a cargo del imputado en caso de suspensión condicional del proceso, así como hacer sugerencias sobre cualquier cambio que amerite alguna modificación de las medidas u obligaciones impuestas;
 
-g) Solicitar al imputado la información que sea necesaria para verificar el cumplimiento de las medidas y obligaciones impuestas;
+VIII.- Coordinar con las unidades bajo su cargo para efectos de que se lleven a cabo las entrevistas de forma periódica a la víctima o testigo del delito, con el objeto de dar seguimiento al cumplimiento de la medida cautelar impuesta o las condiciones de la suspensión condicional del proceso y canalizarlos, en su caso, a la autoridad correspondiente;
 
-h) Revisar y sugerir el cambio de las condiciones de las medidas impuestas al imputado, de oficio o a solicitud de parte, cuando cambien las circunstancias originales que sirvieron de base para imponer la medida;
+IX.- Planear con las unidades bajo su cargo para que se realicen las entrevistas, así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre el imputado;
 
-i) Informar a las partes aquellas violaciones a las medidas y obligaciones impuestas que estén debidamente verificadas y puedan implicar la modificación o revocación de la medida o suspensión y sugerir las modificaciones que estime pertinentes;
+X.- Coordinar la verificación para localizar al imputado en su domicilio o en el lugar en donde se encuentre, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera; lo cual podrá ser por medio de dispositivos tecnológicos o mediante cualquier otra tecnología;
 
-j) Conservar actualizada una base de datos sobre las medidas cautelares y obligaciones impuestas, su seguimiento y conclusión;
+XI.- Controlar la organización en los requerimientos para que el imputado proporcione muestras, sin previo aviso, para detectar el posible uso de alcohol o drogas prohibidas o el resultado del examen de las mismas en su caso, cuando la modalidad de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
 
-k) Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de Entidades federativas dentro de sus respectivos ámbitos de competencia;
+XII.- Establecer líneas de acción con las unidades administrativas a su cargo para supervisar que las personas e instituciones públicas y privadas a las que la autoridad judicial encargue el cuidado del imputado, cumplan las obligaciones contraídas;
 
-l) Ejecutar las solicitudes de apoyo para la obtención de información que le requieran las oficinas con funciones similares de la Federación o de las Entidades federativas en sus respectivos ámbitos de competencia;
+XIII.- Revisar que se esté llevando a cabo la solicitud al imputado de la información que sea necesaria para verificar el cumplimiento de las medidas y obligaciones impuestas, concerniente a sus datos de localización, registros biométricos y en general cualquier medio que permita la identificación del individuo;
 
-m) Canalizar al imputado a servicios sociales de asistencia, públicos o privados, en materias de salud, empleo, educación, vivienda y apoyo jurídico, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera.
+XIV.- Coordinar la revisión y en su caso sugerir el cambio de las condiciones de las medidas impuestas al imputado, de oficio o a solicitud de parte, cuando cambien las circunstancias originales que sirvieron de base para imponer la medida;
 
-II. En materia de penas y medidas de seguridad:
+XV.- Coordinar a las unidades a su cargo que informen a las partes aquellas violaciones a las medidas y obligaciones impuestas que estén debidamente verificadas y puedan implicar la modificación o revocación de la medida o suspensión y sugerir las modificaciones que estime pertinentes;
 
-a) Ejecutar las penas de prisión y de relegación, sus modalidades y las resoluciones del Juez de Ejecución de Penas que de ella deriven;
+XVI.- Coordinar y conservar actualizada una base de datos sobre las medidas cautelares y obligaciones impuestas, su seguimiento y conclusión;
 
-b) Vigilar y coordinar la ejecución de las penas y medidas de seguridad previstas en el Código Penal del Estado de Sonora en concordancia con el Código Nacional de Procedimientos Penales y demás leyes aplicables.
+XVII.- Atender las solicitudes y proporcionar información a las oficinas con funciones similares de la Federación o de Entidades Federativas dentro de sus respectivos ámbitos de competencia, canalizando al área conducente;
 
-III. Dentro del Sistema:
+XVIII.- Coordinar y ejecutar las solicitudes de apoyo para la obtención de información que le requieran las oficinas con funciones similares de la Federación o de las Entidades Federativas en sus respectivos ámbitos de competencia, canalizando al área conducente;
 
-a) Prevenir la delincuencia en el Estado, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
+XIX.- Coordinar y canalizar al imputado a servicios sociales de asistencia, públicos o privados, en materias de salud, empleo, educación, vivienda y apoyo jurídico, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
 
-b) Supervisar los establecimientos penitenciarios en el Estado; proponer al Secretario la normatividad y demás lineamientos de orden interno por las que habrán de regirse, así como vigilar su estricto cumplimiento;
+XX.- Vigilar que se dé el debido seguimiento a la ejecución y supervisión de las sanciones penales, medidas de seguridad y restrictivas impuestas por el Juez de Ejecución fuera de los centros con motivo de la obtención de libertad condicionada, lo cual podrá ser por medio de dispositivos tecnológicos o mediante cualquier otra tecnología;
 
-c) intercambiar, trasladar, custodiar, vigilar y brindar tratamiento a toda persona que fuere privado de su libertad por orden de los Tribunales del Estado o de la autoridad competente, desde el momento de su ingreso a cualquier establecimiento;
+XXI.- Vigilar que se realicen los informes relativos al cumplimiento de las condiciones impuestas por el Juez de Ejecución en los términos del artículo 129 de la Ley Nacional de Ejecución Penal;
 
-d) Proponer los reglamentos interiores de los centros de reinserción, con estricto apego al principio de no discriminación por género y vigilar su exacta aplicación;
+XXII.- Supervisar la coordinación y ejecución de la aplicación del seguimiento de los programas para las personas que gozan de la medida de libertad condicionada en términos de lo que disponga la sentencia;
 
-e) Aplicar los tratamientos adecuados a las personas internas, reglamentando su trabajo, sus actividades culturales, sociales, deportivas y otras, garantizando que estos tratamientos y reglamentos estén libre de estereotipos de género;
+XXIII.- Atender las determinaciones del Juez de Ejecución, siempre y cuando sean relativas a la supervisión del beneficio de libertad condicionada;
 
-f) Resolver sobre las modificaciones no esenciales a las medidas impuestas, tomando en cuenta la edad, sexo, salud o constitución física de las personas sujetas a proceso penal;
+XXIV.- Supervisar y vigilar que se respeten los derechos fundamentales de los sentenciados en externamiento durante todo el desarrollo del procedimiento;
 
-g) Organizar patronatos para personas liberadas;
+XXV.- Coordinar y vigilar que se propongan la elaboración y suscripción de convenios de colaboración con organizaciones de la sociedad civil sin fines de lucro y certificadas, con el objeto de coadyuven en la supervisión de la libertad condicionada;
 
-h) Coadyuvar en el mantenimiento de lo estadística criminal del Estado;
+XXVI.- Hacer cumplir y aplicar los convenios de colaboración que se celebren con organizaciones de la sociedad civil sin fines de lucro y certificadas, con el objeto de (sic) coadyuven en la supervisión de la Libertad Condicionada;
 
-i) Conocer de las quejas de los internos sobre el trato de que sean objeto, y hacerla del conocimiento de la autoridad que corresponda;
+XXVII.- Atender los juicios de amparo cuando sea señalada como autoridad responsable;
 
-j) Determinar los lugares en que deben estar recluidos los sordomudos y enfermos mentales, aplicarles el tratamiento que se estime adecuado;
+XXVIII.- Planear y coordinar en materia de supervisión de los programas y acciones orientados a la reinserción social de los sentenciados externados con motivo del beneficio de libertad condicionada;
 
-k) Por acuerdo del Secretario, asistir a las reuniones de la Conferencia Nacional del Sistema Penitenciario; y
+XXIX.- Vigilar que se emita al Juez de Ejecución de Penas, un plan individualizado de reinserción social para cada sentenciado en externamiento;
 
-l) Las demás que otras leyes y reglamentos establezcan.
+XXX.- Planear y coordinar las solicitudes que se realizan al sentenciado en libertad condicionada para contar con la información que sea necesaria para verificar el cumplimiento de las medidas y obligaciones impuestas, concerniente a sus datos de localización, registros biométricos y en general cualquier medio que permita su identificación;
+
+XXXI.- Vigilar que se lleven a cabo las entrevistas, así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre el sentenciado en libertad condicionada;
+
+XXXII.- Coordinar las propuestas de mejora continua y la innovación a la normatividad, políticas y procesos de la autoridad supervisora de la libertad condicionada;
+
+XXXIII.- Verificar que se utilice la información de los expedientes técnico-jurídicos de los sentenciados externados con motivo del beneficio de libertad condicionada, para el seguimiento de los procesos de reinserción social;
+
+XXXIV.- Coordinar, cuando sea procedente y las circunstancias así lo permitan, la participación de organizaciones de la sociedad civil para que se eficientice el régimen reinserción social en beneficio de sentenciados externados con motivo del beneficio, con base en los principios de transversalidad, corresponsabilidad, especialidad y vinculación social;
+
+XXXV.- Coordinar la promoción en materia de supervisar acciones y programas individualizados sobre los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud, la cultura de la legalidad y el deporte, el tratamiento de apoyo y el tratamiento auxiliar, como medios de apoyo de reinserción a la sociedad y;
+
+XXXVI.- Expedir copias certificadas de las constancias existentes en los archivos de la unidad administrativa a su cargo; y
+
+XXXVII.- Las demás atribuciones que le confieran las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -3020,3 +3032,11 @@ El Reglamento de la Ley Orgánica de la Fiscalía General de Justicia y el de la
 ###### ARTÍCULO TERCERO.
 
 Los recursos humanos y materiales asignados a las áreas de Supervisión de Medidas Cautelares, Suspensión Condicional del Proceso y Evaluación de Riesgo adscritas a la Dirección General de Ejecución de penas, Medidas de Seguridad, Supervisión de Medidas Cautelares, de la Suspensión Condicional del Proceso y Evaluación de Riesgo de la Secretaría de Seguridad Pública del Estado de Sonora, pasarán a formar parte de la Fiscalía General de Justicia del Estado de Sonora.
+
+B.O. 27 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 109, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA PARA EL ESTADO DE SONORA Y DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
