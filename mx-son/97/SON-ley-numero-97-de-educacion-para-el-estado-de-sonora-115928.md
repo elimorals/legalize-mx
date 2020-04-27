@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2019-10-03"
+last_updated: "2020-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2020.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -269,13 +269,17 @@ XXIII.- Promover el desarrollo de las aptitudes, las capacidades, las destrezas,
 
 XXIV.- Promover y difundir la participación en los programas gubernamentales que se lleven a cabo para prevenir, atender y dar seguimiento a todos los casos de ausentismo y deserción escolar de las niñas y los niños, para lograr su reintegración y permanencia en el sistema estatal de educación básica;
 
-> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2020)</small>
 
-XXV.- Promover ante la autoridad educativa federal que en los planes y programas educativos correspondientes se imparta educación con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el quinto año de Educación Primaria hasta el último año de Educación Media Superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de la legalidad y de la Paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales; y
+XXV.- Promover ante la autoridad educativa federal que en los planes y programas educativos correspondientes se imparta educación con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el quinto año de Educación Primaria hasta el último año de Educación Media Superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de la legalidad y de la Paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales;
 
-> <small>(ADICIONADA, B.O. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2020)</small>
 
-XXVI.- Inculcar y fortalecer la cultura del ciudado (sic) del agua y su uso responsable.
+XXVI.- Inculcar y fortalecer la cultura del ciudado (sic) del agua y su uso responsable; y
+
+> <small>(ADICIONADA, B.O. 27 DE ABRIL DE 2020)</small>
+
+XXVII.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad; así como proporcionar los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales.
 
 ###### ARTÍCULO 19.
 
@@ -363,7 +367,9 @@ VIII.- Autorizar, previa verificación del cumplimiento de los lineamientos emit
 
 IX.- Coordinarse con la Comisión de Educación y Cultura del Congreso del Estado de Sonora para seleccionar a los cuatro maestros con mayores cualidades en términos educativos, uno de cada nivel básico de educación, para la entrega anual de la medalla al mérito docente que se entregará en el recinto oficial del Poder Legislativo del Estado de Sonora, y sentar las bases para dicha selección;
 
-X.- Garantizar que las instituciones educativas públicas y privadas cuenten con el personal docente capacitado para impartir educación especial para personas con alguna discapacidad de las previstas en la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora, a cuyo efecto llevará a cabo programas de capacitación de manera permanente y gratuita tanto para instituciones públicas como privadas;
+> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2020)</small>
+
+X.- Garantizar que las instituciones educativas públicas y privadas cuenten con el personal docente capacitado para impartir educación especial para personas con alguna discapacidad de las previstas en la Ley Para la Inclusión y Desarrollo de las Personas Con Discapacidad o en Situación de Discapacidad del Estado de Sonora, así como las condiciones necesarias para su inclusión en la comunidad escolar; a cuyo efecto llevará a cabo programas de capacitación de manera permanente y gratuita en Lengua de Señas Mexicana y el sistema de Lectoescritura Braille, dirigido a personal docente y estudiantes tanto para instituciones públicas como privadas;
 
 XI.- Otorgar, negar y revocar autorización a los particulares para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica; así como otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los expresados con antelación, de acuerdo con el procedimiento estipulado en el capítulo correspondiente de esta Ley;
 
@@ -579,9 +585,9 @@ Tratándose de personas con discapacidad, con dificultades severas de aprendizaj
 
 Esta educación incluye orientación y asesoramiento a los padres de familia, tutores o quienes ejerzan la patria potestad, así como también a los maestros y personal de educación básica, tanto en escuelas públicas como en privadas, que integren a alumnos con necesidades especiales de educación.
 
-> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL PÁRRAFO TERCERO DE ESTE ARTÍCULO.]</small>
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2020)</small>
 
-Esta educación incluye orientación y asesoramiento a los padres de familia, tutores o quienes ejerzan la patria potestad, así como también a los maestros y personal de educación básica, tanto en escuelas públicas como en privadas, que integren a alumnos con necesidades especiales de educación. Asimismo, incluirá programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes.
+Asimismo, la educación especial incluirá programas de capacitación, asesoria y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes, incluyendo capacitación en lenguaje de señas y escritura braille.
 
 ###### ARTÍCULO 38.
 
@@ -1370,6 +1376,22 @@ La Secretaría de Educación y Cultura, en coordinación con la Comisión de Eco
 B.O. 3 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 57, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROFESIONES Y DE LA LEY DE EDUCACIÓN, AMBAS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 27 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 107, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA Y DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 27 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 108, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 18 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA".]
 
 ###### ARTÍCULO ÚNICO.
 
