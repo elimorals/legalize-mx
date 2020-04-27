@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-87867"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-05-22"
-last_updated: "2018-09-24"
+last_updated: "2020-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2012.
 
@@ -265,7 +265,11 @@ XXII. Conocer y resolver cualquier otro asunto de la competencia del Supremo Tri
 
 XXIII. Dirigir las labores de compilación y sistematización de tesis y jurisprudencia que emita; y
 
-XXIV. Las demás que esta y otras leyes le confieran.
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2020)</small>
+
+XXIV. Acordar la realización de sesiones del Pleno del Supremo Tribunal de Justicia a distancia; y
+
+XXV. Las demás que esta y otras leyes le confieran.
 
 Quórum para sesionar
 
@@ -278,6 +282,10 @@ Tipos de sesiones
 ###### Artículo 19.
 
 El Pleno del Supremo Tribunal de Justicia sesionará en forma ordinaria una vez a la semana en los días que para tal efecto señale y, extraordinariamente, cuando lo estime necesario el presidente del Supremo Tribunal de Justicia o lo solicite alguno de los magistrados.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
+
+Las sesiones del Pleno del Supremo Tribunal de Justicia podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, ante una emergencia declarada por autoridad respectiva que impida o que haga inconveniente la presencia de los magistrados en el edificio sede o en el recinto designado para tal efecto, conforme a las formalidades previstas en esta ley para las sesiones de carácter presencial.
 
 Trámite de asuntos
 
@@ -300,6 +308,10 @@ Actas
 ###### Artículo 22.
 
 De toda sesión del Pleno del Supremo Tribunal de Justicia se levantará acta que firmarán el presidente y el secretario general.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
+
+En el supuesto de las sesiones a distancia se hará uso de la firma electrónica para suscribir las actas respectivas.
 
 ### Capítulo IV. Presidente del Supremo Tribunal de Justicia
 
@@ -497,9 +509,21 @@ L. Expedir los manuales de procedimientos que esta Ley y otras leyes le faculten
 
 LI. Conocer y resolver la queja a que se refiere el artículo 135 del Código Nacional de Procedimientos Penales, y
 
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2020)</small>
+
+LII. Acordar la realización de sesiones del Consejo del Poder Judicial a distancia;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2020)</small>
+
+LIII. Autorizar, previa solicitud de los diversos comités y comisiones, la celebración de reuniones a distancia;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2020)</small>
+
+LIV. Establecer los lineamientos para la operación de las sesiones y reuniones a distancia del Poder Judicial; y
+
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-LII. Las demás que le señalen las leyes.
+LV. Las demás que le señalen las leyes.
 
 Cualidades de los peritos
 
@@ -603,6 +627,10 @@ Tipos de sesiones
 
 El Consejo del Poder Judicial sesionará en forma ordinaria cuando menos una vez a la semana, en los días que para tal efecto señale y, extraordinariamente, cuando lo estime necesario su presidente o lo solicite uno de los consejeros.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
+
+Las sesiones del Consejo del Poder Judicial podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, ante una emergencia declarada por autoridad respectiva que impida o que haga inconveniente la presencia de los consejeros en el edificio sede o en el recinto designado para tal efecto, conforme a las formalidades previstas en esta ley para las sesiones de carácter presencial.
+
 Quórum
 
 ###### Artículo 40.
@@ -644,6 +672,10 @@ Constancia en actas
 ###### Artículo 43.
 
 Las resoluciones del Consejo del Poder Judicial constarán en acta autorizada por el secretario del propio Consejo, la que deberá firmarse por los que en ella intervinieron.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
+
+En el supuesto de las sesiones a distancia, se hará uso de la firma electrónica para efecto de la firma de las actas respectivas.
 
 Notificaciones personales de las resoluciones
 
@@ -3819,7 +3851,7 @@ Artículo Segundo. En los casos en que esta Ley se refiera al Tribunal de enjuic
 
 Referencia a los Secretarios de sala
 
-Artículo Tercero. Toda referencia que se haga en esta Ley a los secretarios de sala se entenderá hecha también a los jefes de unidad de causa y gestión del sistema penal acusatorio y oral, y la que se haga al secretario de juzgado de partido se entenderá también para el encargado de sala de dicho sistema.
+Artículo Tercero. Toda referencia que se haga en ésta Ley a los secretarios de sala se entenderá hecha también a los jefes de unidad de causa y gestión del sistema penal acusatorio y oral, y la que se haga al secretario de juzgado de partido se entenderá también para el encargado de sala de dicho sistema.
 
 Término para expedición de reglamentos y manuales
 
@@ -3896,3 +3928,11 @@ P.O. 24 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 335, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y VI DEL ARTÍCULO 214 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 27 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 178, MEDIANTE EL CUAL: SE ADICIONAN LA FRACCIÓN XXIV Y SE RECORRE LA ACTUAL FRACCIÓN XXIV PARA QUEDAR COMO FRACCIÓN XXV DEL ARTÍCULO 17; UN SEGUNDO PÁRRAFO AL ARTÍCULO 19; UN SEGUNDO PÁRRAFO AL ARTÍCULO 22; LAS FRACCIONES LII, LIII Y LIV Y SE RECORRE LA ACTUAL FRACCIÓN LII PARA QUEDAR COMO FRACCIÓN LV DEL ARTÍCULO 28; UN SEGUNDO PÁRRAFO AL ARTÍCULO 39; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 43 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Consejo del Poder Judicial deberá emitir los lineamientos para la operación de las sesiones y reuniones a distancia a más tardar ocho días posteriores a la entrada en vigor del presente Decreto.
