@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2019-08-01"
+last_updated: "2020-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE ABRIL DE 2020.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1919,13 +1919,13 @@ Alimentos de los cónyuges en el divorcio voluntario
 
 109.- En el divorcio voluntario se tendrá derecho a recibir alimentos por el mismo lapso de duración del matrimonio, sólo cuando se esté en cualquiera de los siguientes supuestos:
 
-> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.G. 27 DE ABRIL DE 2020)</small>
 
-I. La cónyuge que haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención y cuidado de la familia de manera cotidiana, durante el matrimonio.
+I. Cualquiera de los cónyuges que haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención y cuidado de la familia de manera cotidiana, durante el matrimonio, y
 
-> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.G. 27 DE ABRIL DE 2020)</small>
 
-II. La cónyuge que, por su condición o circunstancia, no pueda allegarse sus alimentos.
+II. Cualquiera de los cónyuges que, por su condición o circunstancia, no pueda allegarse sus alimentos.
 
 Este derecho se disfrutará mientras no contraiga matrimonio o se una en concubinato.
 
@@ -2047,11 +2047,9 @@ Grados de parentesco en línea transversal
 
 126.- Las disposiciones de este capítulo son de orden público.
 
-> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2020)</small>
 
 Derecho de recibir alimentos
-
-> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
 
@@ -2061,7 +2059,7 @@ De la naturaleza del Registro de Deudores Alimentarios Morosos
 
 ###### Artículo 4.
 
-127.- Tienen derecho a recibir alimentos las y los hijos menores de edad o mayores de edad que se dediquen al estudio, los discapacitados, los adultos mayores, la cónyuge o concubina que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección, atención y cuidado de la familia y el cónyuge o concubina que se encuentre imposibilitado física o mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud.
+127.- Tienen derecho a recibir alimentos las y los hijos menores de edad o mayores de edad que se dediquen al estudio, los discapacitados, los adultos mayores, cualquiera de los cónyuges o de los concubinos que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección, atención y cuidado de la familia o se encuentre imposibilitado física o mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud.
 
 Alimentos entre cónyuges
 
@@ -2085,13 +2083,13 @@ Reglas sobre alimentos entre concubinos y los hijos
 
 I. Que acrediten haber hecho vida común por al menos un año o haber procreado algún hijo en común;
 
-> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.G. 27 DE ABRIL DE 2020)</small>
 
-II. Que la concubina carezca de bienes y que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección, atención y cuidado de las y los hijos, tendrá derecho a alimentos, mismo que no será inferior al cuarenta por ciento del total del sueldo, hasta que los hijos cumplan la mayoría de edad o que se dediquen al estudio.
+II. Que el concubino o concubina carezca de bienes y que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección, atención y cuidado de las y los hijos, tendrá derecho a alimentos, mismo que no será inferior al cuarenta por ciento del total del sueldo, hasta que los hijos cumplan la mayoría de edad o que se dediquen al estudio.
 
-Tratándose de las y los hijos mayores de edad discapacitados, previa acreditación con la documentación idónea expedida por una institución pública de salud, al cuidado de la concubina, el concubino deberá proporcionarlos de por vida.
+Tratándose de las y los hijos mayores de edad discapacitados, previa acreditación con la documentación idónea expedida por una institución pública de salud, al cuidado de alguno de los concubinos, el otro deberá proporcionarlos de por vida.
 
-Cuando el concubino se encuentre imposibilitado física o mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud, tendrá derecho a alimentos, el cual no será inferior al veinte por ciento del total del sueldo, por el tiempo que haya durado el concubinato.
+Cuando alguno de los concubinos se encuentre imposibilitado física o mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud, tendrá derecho a alimentos, el cual no será inferior al veinte por ciento del total del sueldo, por el tiempo que haya durado el concubinato.
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -2175,27 +2173,41 @@ El deudor alimentario moroso que acredite ante el Juez que se encuentra al corri
 
 137.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
-> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO SU EPÍGRAFE [N. DE E. REPUBLICADO], G.G. 27 DE ABRIL DE 2020)</small>
 
 Alimentos de los cónyuges
 
-> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE ABRIL DE 2020)</small>
 
 ###### Artículo 4.
 
-138.- Los cónyuges están obligados a dar alimentos, conforme a las siguientes reglas y acciones afirmativas:
+138.- Cualquiera de los cónyuges está obligado a dar alimentos, conforme a las siguientes reglas y acciones afirmativas:
 
-La cónyuge que carezca de bienes y que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención y cuidado de las y los hijos tendrá derecho a alimentos, mismo que no será inferior al cuarenta por ciento del total del sueldo, hasta que las y los hijos cumplan la mayoría de edad o que se dediquen al estudio, sin menoscabo de la repartición equitativa de bienes.
+> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2020)</small>
 
-Tratándose de las y los hijos mayores de edad discapacitados, previa acreditación con la documentación idónea expedida por una institución pública de salud, al cuidado de la cónyuge, el cónyuge deberá proporcionarlos de por vida.
+Cualquiera de los cónyuges que carezca de bienes y que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención y cuidado de las y los hijos tendrá derecho a alimentos, mismo que no será inferior al cuarenta por ciento del total del sueldo, hasta que las y los hijos cumplan la mayoría de edad o que se dediquen al estudio, sin menoscabo de la repartición equitativa de bienes.
 
-La cónyuge que no tenga hijas o hijos y que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar, consistente en tareas de administración, dirección y atención, tendrá derecho a alimentos, mismo que no será inferior al treinta por ciento del total del sueldo, por el tiempo que haya durado el matrimonio, sin menoscabo de la repartición equitativa de bienes.
+> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2020)</small>
 
-El cónyuge que se encuentre imposibilitado física y mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud, tendrá derecho a alimentos, el cual no será inferior al veinte por ciento del total del sueldo, por el tiempo que haya durado el matrimonio, sin menoscabo de la repartición equitativa de bienes.
+Tratándose de las y los hijos mayores de edad discapacitados, previa acreditación con la documentación idónea expedida por una institución pública de salud, al cuidado de alguno de los cónyuges, el otro deberá proporcionarlos de por vida.
+
+> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2020)</small>
+
+Cualquiera de los cónyuges que no tenga hijas o hijos y que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar, consistente en tareas de administración, dirección y atención, tendrá derecho a alimentos, mismo que no será inferior al treinta por ciento del total del sueldo, por el tiempo que haya durado el matrimonio, sin menoscabo de la repartición equitativa de bienes.
+
+> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2020)</small>
+
+Cualquiera de los cónyuges que se encuentre imposibilitado física y mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud, tendrá derecho a alimentos, el cual no será inferior al veinte por ciento del total del sueldo, por el tiempo que haya durado el matrimonio, sin menoscabo de la repartición equitativa de bienes.
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 En la resolución que se dicte con respecto a los alimentos, se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
 
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
 Los alimentos determinados por convenio o sentencia, se modificarán de acuerdo a los ingresos del deudor alimentario. En este caso, el incremento en los alimentos se ajustará a lo que obtenga el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 Cuando no sean comprobables el salario o ingresos del deudor alimentario, la o el juez resolverá tomando como referencia la capacidad económica y el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en el último año, la cantidad correspondiente no podrá ser inferior a una unidad de medida y actualización por cada acreedor alimentario.
 
@@ -18460,3 +18472,11 @@ G.G. 1 DE AGOSTO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+G.G. 27 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 150.- POR EL QUE SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 4.109, EL ARTÍCULO 4.127, LA FRACCIÓN II DEL ARTÍCULO 4.129 Y EL ARTÍCULO 4.138 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
