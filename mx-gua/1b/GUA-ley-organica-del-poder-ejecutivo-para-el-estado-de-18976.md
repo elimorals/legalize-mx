@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2020-03-06"
+last_updated: "2020-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -115,9 +115,13 @@ La representación del Titular del Poder Ejecutivo del Estado en todos los juici
 
 El Gobernador del Estado expedirá los reglamentos interiores, acuerdos, circulares y demás disposiciones que regulen la organización, estructura y funcionamiento de las dependencias del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
+
 ###### Artículo 7o.
 
-El Gobernador del Estado podrá constituir por Decreto o Acuerdo según corresponda, comisiones intersecretariales, consejos, comités, núcleos o coordinaciones para el despacho de los asuntos en que deban intervenir varias dependencias o entidades del Poder Ejecutivo; serán transitorias o permanentes y presididas por el Gobernador o por quien éste determine.
+El Gobernador del Estado podrá constituir por decreto o acuerdo según corresponda, comisiones intersecretariales, consejos, comités, núcleos o coordinaciones para el despacho de los asuntos en que deban intervenir varias dependencias o entidades del Poder Ejecutivo; serán transitorias o permanentes y presididas por el gobernador o por quien este o las leyes respectivas determinen.
+
+Para el cumplimiento de los asuntos de su competencia, se podrán celebrar, en casos de emergencia declarada por la autoridad respectiva, reuniones a distancia mediante el uso de herramientas tecnológicas, conforme a las formalidades previstas en la normatividad que regula su funcionamiento.
 
 ###### Artículo 8o.
 
@@ -2270,3 +2274,9 @@ P.O. 6 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 170, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3o, PÁRRAFO SEGUNDO; 11, 31, FRACCIÓN I, INCISO I); SE ADICIONA UN ARTÍCULO 2 BIS, Y SE DEROGAN LOS ARTÍCULOS 13, EN SU FRACCIÓN XV, 14, PÁRRAFO SEGUNDO, 17, PÁRRAFO SEGUNDO, REUBICÁNDOSE LOS ACTUALES PÁRRAFOS TERCERO A OCTAVO, COMO SEGUNDO A SÉPTIMO, RESPECTIVAMENTE, 21, PÁRRAFO SEGUNDO, UBICÁNDOSE EL ACTUAL PÁRRAFO TERCERO COMO PÁRRAFO SEGUNDO, 33 Y 92 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 27 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 177, MEDIANTE EL CUAL: ARTÍCULO PRIMERO. SE ADICIONAN UN TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 8; UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 59; UNA FRACCIÓN XXXI AL ARTÍCULO 72, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE; Y UN CUARTO Y QUINTO PÁRRAFOS AL ARTÍCULO 82; Y SE REFORMA LA FRACCIÓN XXX DEL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO. ARTÍCULO SEGUNDO. SE REFORMA EL ARTÍCULO 7°. DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
