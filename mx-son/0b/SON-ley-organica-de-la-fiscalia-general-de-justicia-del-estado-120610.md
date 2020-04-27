@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1206
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-03-27"
-last_updated: "2018-11-22"
+last_updated: "2020-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2020.
 
 Ley publicada en el Número 25 de la Sección II, del Boletín Oficial del Estado de Sonora, el lunes 27 de marzo de 2017.
 
@@ -893,127 +893,29 @@ El Fiscal General llevará a cabo de forma gradual y conforme al avance de la im
 
 El Fiscal General designará para efectos de liquidación del proceso penal mixto vigente antes de la implementación del Nuevo Sistema de Justicia Penal ministerios públicos responsables de revisar, tramitar y dar seguimiento a las averiguaciones previas a fin de concluirlas conforme a derecho.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE ABRIL DE 2020)</small>
 
 ### CAPÍTULO IV. DE LA UNIDAD DE SUPERVISIÓN A MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO
 
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+ARTÍCULO 57 BIS.- (DEROGADO, B.O. 27 DE ABRIL DE 2020)
 
-ARTÍCULO 57 BIS.- Se crea la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso, con el objeto de regular la evaluación, el control y vigilancia de las medidas cautelares del proceso penal y las condiciones de la suspensión condicional del proceso, así como para impulsar la coordinación entre autoridades judiciales y administrativas para evitar la materialización de los riesgos que sustentan aquéllas, a través de:
+ARTÍCULO 57 TER.- (DEROGADO, B.O. 27 DE ABRIL DE 2020)
 
-I. Evaluar el nivel de riesgo que un imputado representa al seguir en libertad en un proceso penal, a fin de determinar la idoneidad de las medidas cautelares proporcionadas al caso, en concordancia con lo previsto en el Código de Procedimientos Penales para el Estado de Sonora y Código Nacional de Procedimientos Penales;
+ARTÍCULO 57 QUARTER.- (DEROGADO, B.O. 27 DE ABRIL DE 2020)
 
-II. Administrar, aplicar y supervisar el cumplimiento de las medidas cautelares;
+ARTÍCULO 57 QUINQUIES.- (DEROGADO, B.O. 27 DE ABRIL DE 2020)
 
-III. Gestionar, aplicar y supervisar el cumplimiento de las condiciones impuestas con motivo de la suspensión condicional del proceso; y
+ARTÍCULO 57 SEXIES.- (DEROGADO, B.O. 27 DE ABRIL DE 2020)
 
-IV. Las demás atribuciones que se prevean en esta su reglamento y otras leyes.
+ARTÍCULO 57 SEPTIES.- (DEROGADO, B.O. 27 DE ABRIL DE 2020)
 
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+ARTÍCULO 57 OCTIES.- (DEROGADO, B.O. 27 DE ABRIL DE 2020)
 
-ARTÍCULO 57 TER.- En todo lo no previsto en esta Ley, se aplicará supletoriamente el Código Penal del Estado de Sonora y el Código de Procedimientos Penales para el Estado de Sonora, así como el Código Nacional de Procedimientos Penales.
+ARTÍCULO 57 NONIES.- (DEROGADO, B.O. 27 DE ABRIL DE 2020)
 
-Serán admisibles y válidas aquéllas formas que resulten adecuadas para lograr los fines del mismo, siempre que no se contrapongan a sus disposiciones ni a los principios constitucionales y de derechos humanos.
+ARTÍCULO 57 DECIES.- (DEROGADO, B.O. 27 DE ABRIL DE 2020)
 
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-ARTÍCULO 57 QUARTER.- Se le garantizará al imputado el respeto de los derechos humanos que la Constitución Política de los Estados Unidos Mexicanos reconoce a su favor, los tratados internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Sonora, el Código de Procedimientos Penales para el Estado de Sonora, el Código Nacional de Procedimientos Penales, esta ley, su reglamento y demás disposiciones aplicables, durante la supervisión de las medidas cautelares y de la suspensión condicional del proceso.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-ARTÍCULO 57 QUINQUIES.- En el estado la investigación, análisis y evaluación de riesgos procesales del imputado tiene por objeto brindar información relevante y de calidad que auxilie a las partes y al Juez a determinar la idoneidad y proporcionalidad de la medida cautelar solicitada, así como para resolver sobre su imposición, modificación o extinción.
-
-Para los efectos de este artículo, se entenderá que la información es relevante en la medida en que ésta contenga datos concretos relacionados con los criterios de riesgo procesal que señala el Código de Procedimientos Penales del Estado de Sonora y el Código Nacional de Procedimientos Penales.
-
-Asimismo, se entenderá que la información proporcionada es de calidad en la medida en que ésta se base en métodos de verificación que garanticen la veracidad de los datos proporcionados.
-
-La evaluación y supervisión que realice la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso estará encaminada a salvaguardar el riesgo objetivo de afectación al proceso, la víctima, los testigos o la sociedad.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-ARTÍCULO 57 SEXIES.- La Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso deberá basar su actuación en los siguientes principios:
-
-I. Presunción de inocencia: siempre tratará como inocente a toda persona sujeta a una medida cautelar o condición;
-
-II. Imparcialidad: no inclinarse a favor o en contra de alguna de las partes;
-
-III. Objetividad: los reportes de evaluación y supervisión se basarán en información concreta y actual, sin discriminar a las personas por motivos de raza, discapacidad, religión, origen nacional o étnico, género, orientación sexual, condición social, tipo de delito por el que se le investiga o cualquier otro motivo;
-
-IV. Subsidiariedad: elaborará sus recomendaciones partiendo de la premisa del cumplimiento efectivo de las medidas o condiciones que sean menos restrictivas para el imputado y con ello, se proteja la seguridad de la investigación, de las víctimas, los testigos y de terceros;
-
-V. Proporcionalidad: establecerá la forma de cumplimiento y supervisión, considerando sean proporcionales a los fines de asegurar la comparecencia del imputado y proteger a la víctima, a la sociedad y al proceso;
-
-VI. Confidencialidad: protegerá la información recabada de los imputados y de terceros, evitando que sea utilizada como prueba de culpabilidad durante el proceso o en diversos asuntos. Las opiniones e informes que emita no podrán ser utilizadas en juicio para acreditar o no la existencia del hecho delictuoso o la participación o intervención del imputado;
-
-VII. Legalidad: los reportes y actividades de supervisión se regirán por lo estipulado en las disposiciones jurídicas aplicables;
-
-VIII. Dignidad: respetará en todo momento la dignidad del imputado y de la víctima, evitando la estigmatización, independientemente del delito por el que estén siendo procesados. Los servidores públicos deberán dirigirse a las personas por su nombre;
-
-IX. Obligatoriedad y responsabilidad: está obligado a reportar de manera inmediata al Ministerio Público el incumplimiento por parte del imputado de las medidas cautelares o condiciones impuestas por el Juez. Su omisión tendrá consecuencias legales en materia de responsabilidad de los servidores públicos. Igualmente, rendirán informes de cumplimiento de las medidas cautelares o condiciones a petición de las partes;
-
-X. Interinstitucionalidad: el trabajo coordinado con las instituciones del sistema de justicia penal y las auxiliares, es fundamental para el adecuado cumplimiento del objeto de estos preceptos; y
-
-XI. Neutralidad: deberá abstenerse de emitir enjuiciamientos de valor o prejuicios de cualquier tipo al emitir la evaluación.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-ARTÍCULO 57 SEPTIES.- Para efectos de evaluación y supervisión de medidas cautelares, la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso intervendrá desde el inicio de la investigación, tratándose de investigaciones con detenido y en el supuesto de que ésta se genere sin detenido, su intervención iniciará hasta en tanto alguna de las partes pretenda solicitar ante el Juez de Control la aplicación de una medida cautelar. Tratándose de condiciones, intervendrá cuando alguna de la (sic) partes solicite la suspensión condicional del proceso.
-
-La intervención inicial se basará en la recolección de información, a través de los archivos y medios de información públicos o los previstos en esta Ley u otras leyes y luego, de ser posible, por la entrevista, para dotar de insumos a las partes a efecto de que éstos puedan sustentar la aplicación de la medida cautelar ó condición más idónea y proporcional al caso concreto.
-
-Durante el proceso, la Dirección de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso seguirá generando información a las partes en el proceso penal que pudiera servir para la modificación, revocación o sustitución de las medidas cautelares inicialmente decretadas.
-
-Una vez impuesta la medida cautelar por el Juez de Control, la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso se encargará de instrumentar su ejecución y de vigilar el cumplimiento de dicha medida por parte del imputado, dará seguimiento a la medida impuesta e informará al Juez y, en su caso, a las partes de forma periódica sobre el cumplimiento o incumplimiento de la misma.
-
-Lo anterior aplicará, en lo conducente, para la suspensión condicional del proceso.
-
-Las evaluaciones, informes, reportes y opiniones técnicas rendidas por la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso tendrán carácter orientador, más no serán vinculatorios para el órgano jurisdiccional al momento de resolver las peticiones relativas a las medidas cautelares o condiciones.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-ARTÍCULO 57 OCTIES.- Con el objeto de cumplir con las atribuciones antes señaladas, la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso tendrá las siguientes obligaciones:
-
-I. Hacer comparecer cuando medie orden judicial a los imputados con fines de notificación, información, registro y control de las medidas cautelares o condiciones decretadas, así como acudir en cualquier momento a los domicilios que aquéllos proporcionaron, con el objeto de constatar esa información;
-
-II. Requerir la información y documentación del imputado sujeto a medidas cautelares o condiciones a las autoridades auxiliares o a cualquier otra persona o autoridad, en su caso, a la víctima, preferentemente por conducto de su asesor legal, e integrar un informe técnico para su remisión al Juez, al Ministerio Público o a las partes, en el que se especifiquen las circunstancias particulares del cumplimiento, incumplimiento o irregularidad en las medidas cautelares y condiciones decretadas, así como la imposibilidad material para la ejecución de dichas medidas;
-
-III. Implementar, en coordinación con las autoridades auxiliares, programas y protocolos orientados a la eficacia y cumplimiento de las medidas cautelares y condiciones; y
-
-IV. Las demás facultades conferidas en esta y otras leyes.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-ARTÍCULO 57 NONIES.- La Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso estará a cargo de un Director General, quien será nombrado y removido por el Fiscal General de Justicia y se integrará por las unidades administrativas y personal que requiera para el cumplimiento de su objeto, con cobertura en cada Distrito Judicial, de conformidad con su disponibilidad presupuestal.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-ARTÍCULO 57 DECIES.- Para ser Director General de la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso se requiere:
-
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
-
-II. Poseer al día del nombramiento, título y cédula profesional y tener por lo menos 3 años de ejercicio profesional;
-
-III. Gozar de buena reputación y no haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito doloso que amerite pena privativa de la libertad; y
-
-IV. No haber sido suspendido, inhabilitado, ni destituido por resolución firme como servidor público.
-
-> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
-
-ARTÍCULO 58 (SIC) UNDECIES.- El Director General de la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso tendrá las facultades siguientes:
-
-I. Representar a la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso;
-
-II. Emitir por sí o por conducto del personal que autorice las opiniones de evaluación a que se refiere esta Ley, sobre la necesidad de imponer medidas cautelares, la forma de ejecutarlas y de vigilar su cumplimiento, así como de modificarlas o revocarlas, y lo relativo a las condiciones;
-
-III. Elaborar el programa de trabajo de la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso;
-
-IV. Coordinarse con las autoridades competentes del orden federal, estatal o municipal para el cumplimiento de las atribuciones de la Unidad de Supervisión a Medidas Cautelares y Suspensión Condicional del Proceso;
-
-V. Desarrollar las estrategias que permitan una ejecución y supervisión efectiva de las medidas cautelares o condiciones que hayan sido impuestas;
-
-VI. Reportar mensualmente cuando sea requerido o lo estime oportuno, al titular de la a la (sic) Fiscalía General de Justicia del Estado, el cumplimiento de las medidas cautelares o condiciones cuya ejecución o vigilancia se le encomiende; y
-
-VII. Las demás que le confieran otras disposiciones aplicables.
+ARTÍCULO 57 UNDECIES.- (DEROGADO, B.O. 27 DE ABRIL DE 2020)
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
@@ -1330,3 +1232,11 @@ El Reglamento de la Ley Orgánica de la Fiscalía General de Justicia y el de la
 ###### ARTÍCULO TERCERO.
 
 Los recursos humanos y materiales asignados a las áreas de Supervisión de Medidas Cautelares, Suspensión Condicional del Proceso y Evaluación de Riesgo adscritas a la Dirección General de Ejecución de penas, Medidas de Seguridad, Supervisión de Medidas Cautelares, de la Suspensión Condicional del Proceso y Evaluación de Riesgo de la Secretaria de Seguridad Pública del Estado de Sonora, pasarán a formar parte de la Fiscalía General de Justicia del Estado de Sonora.
+
+B.O. 27 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 109, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA PARA EL ESTADO DE SONORA Y DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
