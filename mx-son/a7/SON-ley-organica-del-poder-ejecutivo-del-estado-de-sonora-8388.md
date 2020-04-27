@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2020-01-30"
+last_updated: "2020-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 30 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -1479,13 +1477,17 @@ XXI.- Informar sobre sus actividades al Consejo Estatal de Seguridad Pública, c
 
 XXII.- Planear, dirigir y controlar a los elementos y los mecanismos de seguridad y/o ayudantía que habrán de instrumentarse para garantizar la integridad física del Titular del Ejecutivo del Estado de manera cotidiana y particularmente en las giras y eventos de trabajo;
 
-> <small>(ADICIONADA, B.O. 17 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2020)</small>
 
-XXIII.- Proporcionar al personal calificado y necesario para garantizar la seguridad e integridad física del Titular del Poder Ejecutivo del Estado; y
+XXIII.- Proporcionar al personal calificado y necesario para garantizar la seguridad e integridad física del Titular del Poder Ejecutivo del Estado;
 
-> <small>(ADICIONADA, B.O. 17 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADA], B.O. 27 DE ABRIL DE 2020)</small>
 
-XXIV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXIV.- Coordinar las actividades en materia de supervisión de la libertad condicional, así como las relativas a la supervisión de medidas cautelares y suspensión condicional del proceso de conformidad con la normatividad aplicable en la materia y en coordinación con las autoridades competentes; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADA], B.O. 27 DE ABRIL DE 2020)</small>
+
+XXV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -2530,3 +2532,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año. Asimismo, la Secretaría de Hacienda deberá (sic) los lineamientos necesarios para implementar las disposiciones señaladas en el presente artículo.
+
+B.O. 27 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 109, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA PARA EL ESTADO DE SONORA Y DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
