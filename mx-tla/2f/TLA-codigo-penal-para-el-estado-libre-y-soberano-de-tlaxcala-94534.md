@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2019-12-24"
+last_updated: "2020-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2020.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2217,9 +2217,13 @@ Se impondrá de seis meses a un año de prisión y multa de treinta y seis a set
 
 ### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
+
 ###### Artículo 186.
 
-Al que cometa un delito en contra de un servidor público o agente de la autoridad en el ejercicio de sus funciones o con motivo de ellas, además de las penas que correspondan por el delito cometido, se le impondrá de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis días de salario.
+Al que cometa un delito en contra de un servidor público o agente de la autoridad en el ejercicio de sus funciones o con motivo de ellas, además de las penas que correspondan por el delito cometido, se le impondrá de uno a tres años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando las conductas a que se refiere este artículo, sean cometidas en contra de cualquier servidor público, que en términos de la Ley de la materia, participe en la prestación de servicios de salud, ya sea que forme parte de las dependencias y entidades que constituyen el Sistema Estatal de Salud o de los Municipios, durante el período que comprenda alguna epidemia, riesgo o emergencia sanitaria, la pena de prisión deberá aumentarse tres años más, además de la que le corresponda por el delito cometido. En este supuesto el delito se investigará de oficio.
 
 ## TÍTULO CUARTO. DELITOS CONTRA LA ADECUADA IMPARTICIÓN, PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
 
@@ -3907,7 +3911,7 @@ Las penas que se señalan en este título se aumentarán en una mitad, cuando el
 
 ### CAPÍTULO ÚNICO. DISCRIMINACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2020)</small>
 
 ###### Artículo 363.
 
@@ -4019,7 +4023,7 @@ La cópula entre ascendientes y descendientes consanguíneos en línea recta o e
 
 ###### Artículo 375.
 
-Se impondrán de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis días de salario, al que por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas:
+Se impondrán de uno a tres años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, al que por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas:
 
 I. Provoque o incite al odio o a la violencia;
 
@@ -4030,6 +4034,10 @@ III. Niegue o restrinja derechos laborales en el acceso a un puesto, cargo o com
 IV. Niegue a una persona un servicio o una prestación a la que tenga derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general.
 
 Iguales penas se impondrá al servidor público que niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
+
+Cuando las conductas a que se refiere este artículo sean cometidas en contra de cualquier persona que en términos de la Ley de la materia, participe o se dedique a la prestación de servicios de salud, durante el período que comprenda alguna epidemia, riesgo o emergencia sanitaria, la pena de prisión se incrementará en una mitad y la multa hasta cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ## TÍTULO VIGÉSIMO PRIMERO. DELITOS CONTRA EL RESPETO A LOS CADÁVERES O RESTOS HUMANOS
 
@@ -4794,3 +4802,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 27 DE ABRIL DE 2020.
+
+> <small>[N. DE E. DECRETO NO. 204.- POR EL QUE SE REFORMAN EL ARTÍCULO 186 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 375, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 375; TODOS DE CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
