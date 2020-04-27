@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2019-10-15"
+last_updated: "2020-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2020.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -90,6 +90,14 @@ El Poder Legislativo en el ejercicio de su función es independiente respecto de
 La residencia del Poder Legislativo es la ciudad de Guanajuato, capital de la Entidad, en la que se establece el Recinto Oficial.
 
 El Congreso del Estado sesionará únicamente en el Recinto Oficial, a excepción de caso fortuito, fuerza mayor o cuando así lo acuerden las dos terceras partes de la Asamblea, para desahogar los asuntos concretos previstos en el acuerdo correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
+
+Las sesiones podrán celebrarse a distancia mediante el uso de herramientas tecnológicas, ante una emergencia declarada por autoridad respectiva que impida o haga inconveniente la presencia de los Diputados en el Recinto Oficial o en sede alterna, conforme al acuerdo y lineamientos que emita la Junta de Gobierno y Coordinación Política en los términos establecidos para las sesiones de carácter presencial.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
+
+Las sesiones de instalación y apertura no podrán celebrarse a distancia.
 
 ###### Artículo 9.
 
@@ -603,13 +611,17 @@ VIII. Decretar recesos en las sesiones cuando existan causas justificadas;
 
 IX. Firmar, en unión de los titulares de la Vicepresidencia y de las Secretarías, las leyes y decretos que se manden a la persona titular del Poder Ejecutivo del Estado para su promulgación y publicación, así como los acuerdos y las actas de las sesiones, cuando hayan sido aprobadas;
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
+
+Tratándose de sesiones a distancia se hará uso de la firma electrónica;
+
 X. Despachar y dictar los acuerdos de trámite que deban recaer a los asuntos de los que se dé cuenta a la Asamblea, turnando a la Comisión o Comisiones Legislativas correspondientes, conforme a la materia de las mismas, así como proponer los acuerdos de trámites que recaigan a las comunicaciones y correspondencia que se dirijan al Congreso del Estado.
 
 Las iniciativas que aborden temas referentes a la igualdad de género además de turnarlas a la Comisión correspondiente para su estudio y dictamen, las remitirá para opinión a la Comisión para la Igualdad de Género;
 
 XI. Exhortar a los Diputados que falten a las sesiones, para que ocurran a las siguientes y notificarles, en su caso, la sanción a que se hayan hecho acreedoras;
 
-XII, Calificar sobre la justificación de las faltas de asistencia de los Diputados, informando a la Asamblea y a la Mesa Directiva;
+XII. Calificar sobre la justificación de las faltas de asistencia de los Diputados, informando a la Asamblea y a la Mesa Directiva;
 
 XIII. Pedir el auxilio de la fuerza pública cuando se haga necesario, para conservar el orden dentro del Recinto Oficial;
 
@@ -831,11 +843,15 @@ XXVIII. Proveer de insumos al Observatorio Ciudadano Legislativo para la impleme
 
 XXIX. Aprobar los lineamientos del Observatorio Ciudadano Legislativo a propuesta de dicho Observatorio para el desarrollo de sus actividades;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2020)</small>
 
-XXX. Dar seguimiento a las recomendaciones emitidas por el Observatorio Ciudadano Legislativo; y
+XXX. Dar seguimiento a las recomendaciones emitidas por el Observatorio Ciudadano Legislativo;
 
-XXXI. Las demás que le señale la presente Ley, le encomiende el Pleno o la Diputación Permanente, y aquéllas que resulten necesarias para el cumplimiento de sus funciones.
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2020)</small>
+
+XXXI. Acordar sesiones a distancia de conformidad con lo dispuesto en el artículo 8 de esta ley y emitir los lineamientos para el desarrollo de las sesiones y reuniones de comisiones a distancia; y
+
+XXXII. Las demás que le señale la presente Ley, le encomiende el Pleno o la Diputación Permanente, y aquéllas que resulten necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 73.
 
@@ -912,6 +928,14 @@ Los integrantes de las Comisiones Legislativas están obligados a acudir puntual
 Las Comisiones se reunirán en el Recinto Oficial, pero podrán tener reuniones en lugar distinto, siempre que así lo acuerde la mayoría de sus integrantes, informando a la Junta de Gobierno y Coordinación Política para los efectos presupuestales correspondientes. El acuerdo respectivo deberá constar en la minuta que se levante.
 
 La firma de dictámenes se hará en el Recinto Oficial.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
+
+Las reuniones de comisiones podrán llevarse a distancia mediante el uso de herramientas tecnológicas, ante una emergencia declarada por autoridad respectiva que impida o haga inconveniente la presencia de los Diputados en el Recinto Oficial o en sede alterna, siempre que así lo acuerde la mayoría de sus integrantes y se informe a la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
+
+En las reuniones a distancia, se hará uso de la firma electrónica en los dictámenes que se aprueben.
 
 ###### Artículo 83.
 
@@ -3402,3 +3426,11 @@ P.O. 15 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 100, APROBADO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DE FECHA 10 DE OCTUBRE DE 2019, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 93 Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 292 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 27 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 177, MEDIANTE EL CUAL: ARTÍCULO PRIMERO. SE ADICIONAN UN TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 8; UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 59; UNA FRACCIÓN XXXI AL ARTÍCULO 72, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE; Y UN CUARTO Y QUINTO PÁRRAFOS AL ARTÍCULO 82; Y SE REFORMA LA FRACCIÓN XXX DEL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO. ARTÍCULO SEGUNDO. SE REFORMA EL ARTÍCULO 7º. DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. La Junta de Gobierno y Coordinación Política deberá emitir los lineamientos para desarrollar las sesiones y reuniones de comisiones legislativas a distancia dentro de los siguientes quince días contados a partir de la entrada en vigencia del presente Decreto.
