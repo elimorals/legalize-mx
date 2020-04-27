@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2020-04-13"
+last_updated: "2020-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2020.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -5365,15 +5365,19 @@ VI. Elaborar el programa Municipal de Educación Ambiental, el cual funcionará 
 
 Toda persona, física o moral, deberá denunciar ante la autoridad municipal en materia ambiental, todo hecho, acto u omisión que produzca o pueda producir deterioro o daño al ambiente, a los recursos naturales, o contravenga las disposiciones del presente Código y demás ordenamientos que regulen materias relacionadas con la protección y la preservación del ambiente.
 
-# LIBRO SEXTO. DE LA SEGURIDAD PÚBLICA Y VIALIDAD MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2020)</small>
+
+# LIBRO SEXTO. DE LA SEGURIDAD PÚBLICA Y MOVILIDAD MUNICIPAL
 
 ## TÍTULO PRIMERO. DE LA SEGURIDAD PÚBLICA
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 556.
 
-Las disposiciones del presente Libro tiene por objeto reglamentar la función de seguridad pública y vialidad en el Municipio de San José de Gracia, así como establecer las bases de coordinación entre la Federación, el Estado y el Municipio en estas materias.
+Las disposiciones del presente Libro tiene (sic) por objeto reglamentar la función de seguridad pública y movilidad en el Municipio de San José de Gracia, así como establecer las bases de coordinación entre la Federación, el Estado y el Municipio en estas materias.
 
 ###### ARTÍCULO 557.
 
@@ -5389,9 +5393,13 @@ II. CONSEJO: Al Consejo Municipal de Seguridad Pública;
 
 III. CORPORACIONES AUXILARES: Los Cuerpos Operativos de Protección Civil Municipal; Los Cuerpos de Bomberos y Rescate; Las empresas de Seguridad Privada y de similar naturaleza que operen o se instalen en el Municipio; y las demás que se constituyan can (sic) apego a las leyes;
 
-IV. DIRECCIÓN: La Dirección de Seguridad Pública y Vialidad del Municipio de San José de Gracia;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2020)</small>
 
-V. DIRECTOR: El Director de Seguridad Pública y Vialidad del Municipio de San José de Gracia;
+IV. DIRECCIÓN: La Dirección de Seguridad Pública y Movilidad del Municipio de San José de Gracia;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2020)</small>
+
+V. DIRECTOR: El Director de Seguridad Pública y Movilidad del Municipio de San José de Gracia;
 
 VI. INSTITUTO: Al Instituto Estatal de Seguridad Pública de Aguascalientes;
 
@@ -5409,7 +5417,9 @@ II. El Secretario del Ayuntamiento;
 
 III. El Consejo Municipal de Seguridad Pública;
 
-IV. El Director de Seguridad Pública y Vialidad;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2020)</small>
+
+IV. El Director de Seguridad Pública y Movilidad.
 
 V. Los mandos medios e intermedios de la Dirección;
 
@@ -5459,29 +5469,45 @@ Queda estrictamente prohibido al elemento operativo la portación de armas de fu
 
 La Dirección establecerá las normas a que se sujetará el personal de sus Corporaciones de Seguridad para el uso de uniformes, Insignias, divisas, armas y equipo.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 567.
 
-Las insignias de los grados jerárquicos se ceñirán a las siguientes disposiciones:
+El Sistema de Carrera Policíaca se establece con el objeto de determinar la participación de los integrantes de los Cuerpos de Seguridad Pública dentro de las jerarquías y niveles que componen a la Dirección, los requisitos para participar en dicho Sistema y sus formas de acreditación.
 
-I. Se utilizarán estrellas de seis puntas y rombos color dorado;
+Las categorías de la estructura del Sistema de Jerarquización Terciaria establecidas de la siguiente manera:
 
-II. De acuerdo a su nivel jerárquico se utilizarán:
+a) Comisarios;
 
-a) Director General: Cuatro estrellas;
+b) Inspectores;
 
-b) Director: Tres estrellas;
+c) Oficiales; y
 
-c) Subdirector: Dos estrellas;
+d) Escala Básica.
 
-d) Primer Comandante: Una estrella;
+Las jerarquías de carrera que componen cada categoría están compuestas por siete niveles, denominadas grados, establecidos en las categorías señaladas de la siguiente manera:
 
-e) Comandante: Cuatro rombos;
+A. En la Categoría de Oficiales:
 
-f) Subcomandante: Tres rombos;
+a) Subinspector;
 
-g) Oficial: Dos rombos; y,
+b) Oficial; y
 
-h) Suboficial: Un rombo.
+c) Suboficial.
+
+B. En la Categoría de Escala Básica:
+
+a) Policía Primero;
+
+b) Policía Segundo;
+
+c) Policía Tercero; y
+
+d) Policía.
+
+Los primeros cinco niveles que corresponden a Policía, Policía Tercero, Policía Segundo, Policía Primero y Suboficial se consideran de carrera; en la categoría de Oficiales, los Grados de Oficial y Subinspector se reservan para el crecimiento institucional.
+
+Los cargos administrativos y de dirección quedarán comprendidos por los niveles de las categorías de Inspectores y Comisarios respectivamente. Dichos niveles podrán ser asignados por el Presidente Municipal a través de nombramiento a los integrantes operativos, como equivalencias de los responsables de turno, responsables de grupo, jefes de departamento, coordinadores, subdirectores y directores. Estas jerarquías corresponderán respectivamente a Inspector, Inspector Jefe, Inspector General, Comisario, Comisario Jefe y Comisario General y serán atendidos como cargos y no como grados de carrera.
 
 ###### ARTÍCULO 568.
 
@@ -5519,7 +5545,9 @@ II. Consejo y Comités municipales de Consulta y Participación Ciudadana;
 
 III. Sistema Municipal de Información, Comunicaciones y Servicios de Atención a la Ciudadanía; y,
 
-IV. Corporación de Seguridad Pública y Vialidad.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2020)</small>
+
+IV. Corporación de Seguridad Pública y Movilidad.
 
 ### CAPÍTULO III. Del Consejo Municipal de Seguridad Pública
 
@@ -5725,13 +5753,17 @@ La Dirección es una Dependencia de la Administración Pública del Gobierno Mun
 
 El conjunto de elementos operativos de la Dirección tendrá la denominación de Policía Preventiva Municipal, cuya función será la vigilancia y prevención del delito dentro del territorio y jurisdicción municipal, y la ejecución de las sanciones de los infractores a los ordenamientos administrativos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 597.
 
-Son atribuciones de la Dirección de Seguridad Pública y Vialidad Municipal las siguientes:
+Son atribuciones de la Dirección de Seguridad Pública y Movilidad Municipal las siguientes:
 
 I. Acordar con el Presidente Municipal, lo relacionado con los programas, objetivos, estrategias y acciones tendientes al buen funcionamiento administrativo y operativo de la Dirección y las Corporaciones auxiliares;
 
-II. Vigilar y cuidar el orden público en el territorio Municipal para proteger la integridad, patrimonio y derechos de sus habitantes, en coordinación con las dependencias que de acuerdo con la normatividad estatal y federal, realicen las funciones de Policía Preventiva, Vialidad y Tránsito;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2020)</small>
+
+II. Vigilar y cuidar el orden público en el territorio Municipal para proteger la integridad, patrimonio y derechos de sus habitantes, en coordinación con las dependencias que de acuerdo con la normatividad estatal y federal, realicen las funciones de Policía Preventiva, Movilidad y Tránsito;
 
 III. Auxiliar a las Autoridades Judiciales, Administrativas, al Ministerio Público y a los Municipios en los casos urgentes, o en los términos de los convenios de colaboración respectivos;
 
@@ -5771,9 +5803,11 @@ La función del Cuerpo de Bomberos y de Protección Civil, es la de prevenir y c
 
 La Dirección diseñará e implementará en coordinación con el Instituto, un Programa General de Profesionalización que incluya a todo el personal de Seguridad Pública, que tendrá como finalidad alcanzar su desarrollo profesional, ético, técnico, científico, físico, humanístico y cultural en el marco del respeto a los derechos humanos y al estado de derecho.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 604.
 
-La Dirección establecerá los requisitos y procedimientos de reclutamiento, selección, ingreso, formación, actualización, especialización y promoción del personal.
+La Dirección establecerá los requisitos y procedimientos de reclutamiento, selección, ingreso, formación, actualización, especialización y promoción del personal, conforme se establece en el Reglamento del Servicio Profesional de Carrera, Honor y Justicia del Municipio de San José de Gracia, Ags.
 
 ###### ARTÍCULO 605.
 
@@ -6559,19 +6593,25 @@ III. La ley de Responsabilidades de los Servidores Públicos del Estado; y,
 
 IV. El Código de Procedimientos Civiles del Estado de Aguascalientes, para efectos de valoración de los medios probatorios.
 
-## TÍTULO SEGUNDO. DE LA VIALIDAD MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2020)</small>
+
+## TÍTULO SEGUNDO. DE LA MOVILIDAD MUNICIPAL
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 675.
 
-En el Municipio, el tránsito y uso de la vía pública se sujetarán a las normas que establecen la Constitución Política de los Estados Unidos Mexicanos, la de Aguascalientes, la Ley Municipal para el Estado de Aguascalientes, la Ley de Vialidad del Estado, el presente Libro y demás ordenamientos aplicables.
+En el Municipio, el tránsito y uso de la vía pública se sujetarán a las normas que establecen la Constitución Política de los Estados Unidos Mexicanos, la de Aguascalientes, la Ley Municipal para el Estado de Aguascalientes, la Ley de Movilidad del Estado, el presente Libro y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 676.
 
 El H. Ayuntamiento, por si, o a través de la Dirección, podrá:
 
-I. Regular el ordenamiento de las actividades relativas al tránsito de peatones, semovientes y vehículos de conformidad con la Ley de Vialidad;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2020)</small>
+
+I. Regular el ordenamiento de las actividades relativas al tránsito de peatones, semovientes y vehículos de conformidad con la Ley de Movilidad del Estado;
 
 II. Establecer acuerdos de coordinación con las Autoridades Federales, y del Estado de Aguascalientes, así como con los Municipios colindantes en materia de tránsito, transporte y contaminación ambiental provocada por vehículos automotores;
 
@@ -6637,9 +6677,11 @@ Para el tránsito en las vías públicas del Municipio, se requiere la inscripci
 
 La Dirección podrá expedir permisos provisionales para circular sin placas, de remolque o de carga, siempre y cuando lo consideren justificado, sin que éstos rebasen el día último del mes en que se solicitan.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 682.
 
-Las licencias para conducir vehículos de motor estatales serán expedidas por la autoridad estatal. En caso de que el Ayuntamiento decida celebrar convenios de colaboración para expedir estas licencias en el Municipio, se sujetará al trámite señalado para el efecto en la Ley de Vialidad del Estado.
+Las licencias para conducir vehículos de motor estatales serán expedidas por la autoridad estatal. En caso de que el Ayuntamiento decida celebrar convenios de colaboración para expedir estas licencias en el Municipio, se sujetará al trámite señalado para el efecto en la Ley de Movilidad del Estado.
 
 ### CAPÍTULO III. De la Circulación en las Vías Públicas
 
@@ -6821,15 +6863,19 @@ Agregarán a su reporte el nombre de cualquier servidor público o persona que h
 
 ### CAPÍTULO VI. De la Detención de los Vehículos
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 702.
 
-Para efectos de llevar a cabo la detención de un vehículo se seguirán los lineamientos señalados en el presente Código, Reglamentos y en la Ley de Vialidad del Estado de Aguascalientes.
+Para efectos de llevar a cabo la detención de un vehículo se seguirán los lineamientos señalados en el presente Código, Reglamentos y en la Ley de Movilidad del Estado de Aguascalientes.
 
 ###### ARTÍCULO 703.
 
 Los elementos operativos deberán impedir la circulación de un vehículo y remitirlo al depósito en los siguientes casos:
 
-I. Cuando el conductor estando estacionado o al circular, sea sorprendido consumiendo bebidas alcohólicas; o bien, cometa alguna infracción a la Ley de Vialidad o el presente Código, mostrando síntomas claros y ostensibles de encontrarse con aliento alcohólico o bajo el influjo de estupefacientes, psicotrópicos u otras drogas;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2020)</small>
+
+I. Cuando el conductor estando estacionado o al circular, sea sorprendido consumiendo bebidas alcohólicas; o bien, cometa alguna infracción a la Ley de Movilidad o el presente Código, mostrando síntomas claros y ostensibles de encontrarse con aliento alcohólico o bajo el influjo de estupefacientes, psicotrópicos u otras drogas;
 
 II. Cuando el conductor manifieste impericia o imprudencia a través de una conducción errática y peligrosa y no exhiba la licencia o permiso de conducir;
 
@@ -6881,13 +6927,17 @@ Una vez remitido el vehículo al depósito, los elementos policiales supervisar�
 
 Liquidadas las multas por el infractor y cubiertos los derechos de traslado, si los hubiera, la Dirección procederá a ordenar la entrega inmediata del vehículo a su legítimo propietario, debiendo de presentar para tal efecto el documento idóneo para acreditar su propiedad.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 708.
 
-A los peatones se les sancionará con amonestación verbal por desacato a las disposiciones de la Ley de Vialidad y el presente Código en materia de tránsito, procurando el elemento operativo que la lleve a efecto hacerlo en privado con el infractor, en forma cortés y con afán educativo.
+A los peatones se les sancionará con amonestación verbal por desacato a las disposiciones de la Ley de Movilidad y el presente Código en materia de tránsito, procurando el elemento operativo que la lleve a efecto hacerlo en privado con el infractor, en forma cortés y con afán educativo.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 709.
 
-Las infracciones a la Ley de Vialidad y el presente Titulo se harán constar en actas o boletas numeradas sobre formas impresas en el número de tantos que determine la Dirección.
+Las infracciones a la Ley de Movilidad y el presente Titulo se harán constar en actas o boletas numeradas sobre formas impresas en el número de tantos que determine la Dirección.
 
 ###### ARTÍCULO 710.
 
@@ -13612,6 +13662,14 @@ UNICO: El presente Punto de Acuerdo entrará en vigor al día siguiente de su pu
 P.O. 13 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIOS DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA".]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación el Periódico Oficial.
+
+P.O. 27 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA, AGUASCALIENTES”.]
 
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
