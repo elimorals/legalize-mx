@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2020-04-24"
+last_updated: "2020-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ABRIL DE 2020 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE ABRIL DE 2020.]
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -653,11 +653,11 @@ II. Cualquier integrante del Ayuntamiento puede solicitar al Presidente Municipa
 
 Los asuntos que se deban resolver a través de votaciones por cédula, así como aquello que comprometa el patrimonio del municipio, no se pueden desahogar mediante una sesión a distancia.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2020)</small>
+(ADICIONADO, P.O. 24 DE ABRIL DE 2020) (F. DE E., P.O. 28 DE ABRIL DE 2020)
 
 ###### Artículo 33 Quinquies.
 
-En casos fortuitos o de fuerza mayor las comisiones pueden sesionar a distancia, en caso de contingencia sanitaria declarada por autoridad competente que ponga en riesgo la vida, la salud e integridad del personal que labora en el Ayuntamiento y de sus integrantes, en los términos de este capítulo, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, durante el tiempo que dure la contingencia, debiendo hacerlo del conocimiento del Presidente Municipal para que proponga ante el Ayuntamiento un calendario de reuniones de comisiones.
+En casos fortuitos o de fuerza mayor, las comisiones pueden sesionar a distancia, en los términos de este capítulo, empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, debiendo hacerlo del conocimiento del Presidente Municipal para que proponga ante el Ayuntamiento un calendario de reuniones de comisiones.
 
 Los Ayuntamientos establecen en sus respectivos reglamentos los términos de convocatoria, la cual no podrá ser inferior a 12 horas de anticipación.
 
