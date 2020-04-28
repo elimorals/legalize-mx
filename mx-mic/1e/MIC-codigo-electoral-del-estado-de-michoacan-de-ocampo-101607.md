@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2020-01-20"
+last_updated: "2020-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -499,57 +499,61 @@ XVIII. Coadyuvar en los programas de capacitación electoral que imparta la Dire
 
 XIX. Coadyuvar en todo lo referente a los observadores electorales, en los términos de la normatividad de la materia, cuando así lo establezca el Instituto Nacional;
 
-XX. Registrar los candidatos a Gobernador;
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2020)</small>
 
-XXI. Registrar las fórmulas de candidatos a diputados por el principio de mayoría relativa y la lista de candidatos a diputados por el principio de representación proporcional;
+XX. Previo a la declaración del registro de las candidaturas, verificar el cumplimiento de la paridad de género horizontal, vertical y transversal en las solicitudes de registro de candidaturas por los Partidos Políticos, Coaliciones, Candidaturas Comunes y, en lo aplicable a las Candidaturas Independientes;
 
-XXII. Registrar las planillas de candidatos a ayuntamientos;
+XXI. Registrar los candidatos a Gobernador;
 
-XXIII. Hacer el cómputo de la circunscripción plurinominal, y declaración de validez de la elección, con la documentación que le remitan los consejos electorales de comités distritales y llevar a cabo la asignación de diputados según el principio de representación proporcional;
+XXII. Registrar las fórmulas de candidatos a diputados por el principio de mayoría relativa y la lista de candidatos a diputados por el principio de representación proporcional;
 
-XXIV. Hacer el cómputo de la elección de Gobernador, con la documentación y resultados recibidos en términos establecidos por este Código, otorgando en consecuencia la constancia respectiva;
+XXIII. Registrar las planillas de candidatos a ayuntamientos;
 
-XXV. Efectuar supletoriamente los cómputos distritales y municipales, cuando por hechos o circunstancias graves y extraordinarias no sea posible que los respectivos consejos electorales los realicen, haciendo en su caso la asignación de regidores por el principio de representación proporcional correspondiente y expidiendo las constancias correspondientes;
+XXIV. Hacer el cómputo de la circunscripción plurinominal, y declaración de validez de la elección, con la documentación que le remitan los consejos electorales de comités distritales y llevar a cabo la asignación de diputados según el principio de representación proporcional;
 
-XXVI. Expedir las constancias de asignación de diputados de representación proporcional y enviar al Congreso, copias de las que haya otorgado;
+XXV. Hacer el cómputo de la elección de Gobernador, con la documentación y resultados recibidos en términos establecidos por este Código, otorgando en consecuencia la constancia respectiva;
 
-XXVII. Investigar los hechos que se denuncien como violatorios de la legislación electoral;
+XXVI. Efectuar supletoriamente los cómputos distritales y municipales, cuando por hechos o circunstancias graves y extraordinarias no sea posible que los respectivos consejos electorales los realicen, haciendo en su caso la asignación de regidores por el principio de representación proporcional correspondiente y expidiendo las constancias correspondientes;
 
-XXVIII. Solicitar por conducto de su Presidente, el auxilio de la fuerza pública para garantizar el desarrollo del proceso electoral;
+XXVII. Expedir las constancias de asignación de diputados de representación proporcional y enviar al Congreso, copias de las que haya otorgado;
 
-XXIX. Informar al Tribunal y al Congreso sobre aspectos que resulten relevantes para el cumplimiento de las atribuciones que le corresponden, proporcionando los datos y documentos que le soliciten;
+XXVIII. Investigar los hechos que se denuncien como violatorios de la legislación electoral;
 
-XXX. Conocer y aprobar, mediante el voto de las dos terceras partes de los miembros presentes, el proyecto de presupuesto del Instituto, que sea presentado por el Presidente del Consejo, así como sus modificaciones;
+XXIX. Solicitar por conducto de su Presidente, el auxilio de la fuerza pública para garantizar el desarrollo del proceso electoral;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+XXX. Informar al Tribunal y al Congreso sobre aspectos que resulten relevantes para el cumplimiento de las atribuciones que le corresponden, proporcionando los datos y documentos que le soliciten;
 
-XXXI. Nombrar y remover al Secretario Ejecutivo, Directores Ejecutivos de Administración, Prerrogativas y Partidos Políticos, de Educación Cívica y Participación Ciudadana, de Vinculación y Servicio Profesional Electoral y de Organización Electoral, así como al Coordinador de Fiscalización, por el voto de las dos terceras partes de sus miembros presentes, con base en las propuestas que haga el Presidente;
-
-XXXII. Desahogar las dudas que se presenten sobre la aplicación e interpretación de este Código y resolver los casos no previstos en el mismo;
-
-XXXIII. Fijar cuando sea necesario, los criterios a que deberán sujetarse los partidos políticos y candidatos en su propaganda electoral, además de los que se establecen en este Código;
-
-XXXIV. Realizar supletoriamente las sesiones que por causa de fuerza mayor, no puedan llevarse a cabo en los consejos electorales de comités distritales y municipales; así como dar cumplimiento a las obligaciones que pudieran corresponder a los consejos distritales y municipales, cuando éstos hayan concluido en sus funciones;
-
-XXXV. Conocer y resolver, de acuerdo con su competencia, de las infracciones que se cometan a las disposiciones de este Código, o los recursos en los términos de la ley de la materia;
-
-XXXVI. Antes del inicio del proceso electoral el Consejo General a propuesta del Presidente, aprobará un calendario electoral que contendrá las fechas precisas de cada etapa del proceso; y,
+XXXI. Conocer y aprobar, mediante el voto de las dos terceras partes de los miembros presentes, el proyecto de presupuesto del Instituto, que sea presentado por el Presidente del Consejo, así como sus modificaciones;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XXXVII. Llevar a cabo la implementación, operación, incorporación y evaluación en materia de Servicio Profesional Electoral, de acuerdo a las facultades conferidas por la Ley General y demás normatividad aplicable;
+XXXII. Nombrar y remover al Secretario Ejecutivo, Directores Ejecutivos de Administración, Prerrogativas y Partidos Políticos, de Educación Cívica y Participación Ciudadana, de Vinculación y Servicio Profesional Electoral y de Organización Electoral, así como al Coordinador de Fiscalización, por el voto de las dos terceras partes de sus miembros presentes, con base en las propuestas que haga el Presidente;
+
+XXXIII. Desahogar las dudas que se presenten sobre la aplicación e interpretación de este Código y resolver los casos no previstos en el mismo;
+
+XXXIV. Fijar cuando sea necesario, los criterios a que deberán sujetarse los partidos políticos y candidatos en su propaganda electoral, además de los que se establecen en este Código;
+
+XXXV. Realizar supletoriamente las sesiones que por causa de fuerza mayor, no puedan llevarse a cabo en los consejos electorales de comités distritales y municipales; así como dar cumplimiento a las obligaciones que pudieran corresponder a los consejos distritales y municipales, cuando éstos hayan concluido en sus funciones;
+
+XXXVI. Conocer y resolver, de acuerdo con su competencia, de las infracciones que se cometan a las disposiciones de este Código, o los recursos en los términos de la ley de la materia;
+
+XXXVII. Antes del inicio del proceso electoral el Consejo General a propuesta del Presidente, aprobará un calendario electoral que contendrá las fechas precisas de cada etapa del proceso; y,
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXXVIII. Llevar a cabo la implementación, operación, incorporación y evaluación en materia de Servicio Profesional Electoral, de acuerdo a las facultades conferidas por la Ley General y demás normatividad aplicable;
 
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XXXVIII. Emitir el acuerdo correspondiente relativo a la perdida de la acreditación ante el Instituto de los partidos políticos nacionales en aquellos casos en lo (sic) que se obtenga el porcentaje establecido en la Ley General de Partidos Políticos o en los demás supuestos que establezcan las leyes relativo a la pérdida de la acreditación;
+XXXIX. Emitir el acuerdo correspondiente relativo a la perdida de la acreditación ante el Instituto de los partidos políticos nacionales en aquellos casos en lo (sic) que se obtenga el porcentaje establecido en la Ley General de Partidos Políticos o en los demás supuestos que establezcan las leyes relativo a la pérdida de la acreditación;
 
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XXXIX. Ajustar los plazos previstos en el calendario electoral del proceso electoral local a los plazos previstos en el proceso electoral federal para el mejor desarrollo del proceso electoral concurrente; y,
+XL. Ajustar los plazos previstos en el calendario electoral del proceso electoral local a los plazos previstos en el proceso electoral federal para el mejor desarrollo del proceso electoral concurrente; y,
 
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XL. Todas las demás que le confiere este Código y otras disposiciones legales.
+XLI. Todas las demás que le confiere este Código y otras disposiciones legales.
 
 ###### ARTÍCULO 35.
 
@@ -1825,7 +1829,9 @@ I. Asociarse o reunirse pacíficamente para tomar parte en los asuntos político
 
 II. Afiliarse o separarse libre e individualmente a los partidos políticos, y,
 
-III. Votar y ser votado para todos los cargos de elección popular dentro de los procesos internos de selección de candidatos y elección de dirigentes, teniendo las calidades que establezca la ley y los estatutos de cada partido político.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2020)</small>
+
+III. Votar y ser votado en condiciones de paridad para todos los cargos de elección popular dentro de los procesos internos de selección y elección de dirigentes, teniendo las calidades que establezca la Ley y los estatutos de cada partido político.
 
 ###### ARTÍCULO 71.
 
@@ -2015,7 +2021,9 @@ d) Ostentar la denominación, emblema y color o colores que tengan registrados, 
 
 e) Cumplir sus normas de afiliación y observar los procedimientos que señalen sus estatutos para la postulación de candidatos;
 
-f) Mantener en funcionamiento efectivo a sus órganos estatutarios;
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+f) Mantener en funcionamiento efectivo a sus órganos estatutarios y organizar procesos internos para seleccionar y postular candidatos en las elecciones, en los términos de la norma y las leyes federales o locales aplicables; garantizando el cumplimiento en la paridad de género;
 
 g) Contar con domicilio social para sus órganos internos;
 
@@ -2041,19 +2049,25 @@ o) Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones
 
 p) Abstenerse de realizar afiliaciones colectivas de ciudadanos;
 
-q) Garantizar la equidad y la paridad de los géneros en sus órganos de dirección y en las candidaturas a cargos de elección popular;
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+q) Garantizar la equidad y la paridad de los géneros en sus órganos de dirección;
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+r) Promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres;
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
-r) Elaborar y entregar los informes de origen y uso de recursos en los términos de la normatividad aplicable;
+s) Elaborar y entregar los informes de origen y uso de recursos en los términos de la normatividad aplicable;
 
-s) Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone;
+t) Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone;
 
-t) En el caso de los partidos políticos locales, editar, por lo menos semestralmente una publicación de divulgación ideológica. Para los partidos políticos nacionales, bastará su edición nacional;
+u) En el caso de los partidos políticos locales, editar, por lo menos semestralmente una publicación de divulgación ideológica. Para los partidos políticos nacionales, bastará su edición nacional;
 
-u) Sostener por lo menos un centro de formación política; y,
+v) Sostener por lo menos un centro de formación política; y,
 
-v) Las demás que establezcan las leyes aplicables.
+w) Las demás que establezcan las leyes aplicables.
 
 ###### ARTÍCULO 88.
 
@@ -2869,7 +2883,9 @@ III. La composición y atribuciones del órgano electoral interno;
 
 IV. La determinación de las condiciones y requisitos para participar como aspirante y como elector en el proceso;
 
-V. Los mecanismos para garantizar los derechos político electorales de los ciudadanos;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2020)</small>
+
+V. Los mecanismos para garantizar los derechos político electorales de los ciudadanos, la paridad de género en la selección de sus candidaturas a diputaciones, de mayoría relativa y representación proporcional y planillas de ayuntamientos;
 
 VI. Los topes de precampaña que no serán superiores al límite establecido en este Código;
 
@@ -3387,11 +3403,13 @@ En la postulación de candidatos a diputados y para integrar ayuntamientos, las 
 
 Los partidos políticos promoverán, en los términos que determinen sus documentos internos, una mayor participación de las mujeres en la vida política del Estado, a través de su postulación a cargos de elección popular.
 
-De la totalidad de solicitudes de registro de diputados de mayoría relativa, que presenten los partidos políticos, las coaliciones o candidatos independientes ante el Instituto deberán integrarse, garantizando la paridad entre los géneros; los partidos políticos o las coaliciones en las listas de representación proporcional alternarán las fórmulas de distinto género hasta agotar la lista.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+De la totalidad de solicitudes de registro de candidaturas a diputaciones de mayoría relativa, que presenten los partidos políticos, las coaliciones o candidaturas comunes ante el Instituto deberán cumplir con la paridad horizontal, vertical y transversal. Las candidaturas independientes tienen la obligación de garantizar la paridad de género tanto en la fórmula para diputación como en la planilla para integrar ayuntamiento. Los partidos políticos o las coaliciones en las listas de representación proporcional alternarán las fórmulas de distinto género hasta agotar la lista.
 
-En el caso de los ayuntamientos las candidaturas a Presidente Municipal, Síndico y regidores serán de forma alternada y en igual proporción de géneros hasta agotar la lista; de igual manera los partidos políticos y coaliciones deberán garantizar la paridad de género en el registro de candidaturas entre los diferentes ayuntamientos que forman parte del Estado.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+En el caso de los ayuntamientos las candidaturas a Presidente Municipal, Síndico y regidores deberá cumplir con la paridad de género vertical, integrando de forma alternada y en igual proporción de géneros hasta agotar la lista; de igual manera los partidos políticos, coaliciones y candidaturas comunes deberán garantizar la paridad de género horizontal y transversal en el registro de candidaturas entre los diferentes ayuntamientos que forman parte del Estado.
 
 ###### ARTÍCULO 190.
 
@@ -5493,6 +5511,10 @@ Los candidatos independientes que incumplan con la normatividad electoral que le
 
 ## TÍTULO TERCERO. DEL PROCESO DE LOS PUEBLOS INDÍGENAS, Y SU DERECHO A ELEGIR AUTORIDADES BAJO EL RÉGIMEN DE USOS Y COSTUMBRES
 
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
 ###### ARTÍCULO 330.
 
 Derivado de su derecho a la libre determinación las comunidades y los pueblos indígenas de Michoacán podrán elegir a sus autoridades municipales y la integración de éstas mediante sus usos y costumbres, garantizando la participación de las mujeres en condiciones de paridad.
@@ -5504,6 +5526,348 @@ A efecto de ejercer referido derecho el Instituto deberá determinar lo que corr
 El Consejo General del Instituto, como órgano de dirección superior atenderá las solicitudes de los ciudadanos de los municipios interesados en tener una elección por usos y costumbres y el proceso de consulta previa a los ciudadanos de los municipios interesados, a efecto de que emita la declaratoria correspondiente, en la cual se determinará la fecha de la elección y toma de posesión. Procurando que las fechas de elección se empaten conforme al calendario electoral general.
 
 El Instituto realizará los preparativos, desarrollo y vigilancia de las consultas y elección por este régimen de usos y costumbres observando en todo momento el respeto y cumplimiento de sus derechos fundamentales, atendiendo a los Instrumentos Internacionales, respetando los usos y costumbres de cada comunidad; así como los estándares internacionales del derecho a la consulta de los pueblos y comunidades indígenas principios de derecho internacional en materia indígena, los artículos 1 y 2 de la Constitución General, el artículo 3 de la Constitución Local, así como, los valores de democracia, conciencia de identidad cultural y autoadscripción, libertad, diálogo, información, equidad, responsabilidad social y auto gestión.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
+
+## TÍTULO CUARTO
+
+DEL CUMPLIMIENTO DEL PRINCIPIO DE PARIDAD DE GÉNERO EN LA POSTULACIÓN DE CANDIDATURAS DE LAS FÓRMULAS DE DIPUTADOS Y DE LAS PLANILLAS DE AYUNTAMIENTO Y, EN SU CASO, DE LAS ELECCIONES EXTRAORDINARIAS QUE SE DERIVEN
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO SEGUNDO. DE LA PARIDAD DE GÉNERO EN CANDIDATURAS INDEPENDIENTES
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 331.
+
+Para los efectos de garantizar la paridad de género, se entenderá por:
+
+I. Alternancia de género: Consiste en colocar en forma sucesiva una mujer seguida de un hombre o viceversa hasta agotar las candidaturas de las planillas o fórmulas, de modo tal que el mismo género no se encuentre en dos lugares consecutivos de la lista o planilla;
+
+II. Equidad: Mecanismo para alcanzar la igualdad sustantiva, estableciendo condiciones suficientes para ambos géneros;
+
+III. Homogeneidad: Fórmula para cargos de elección popular integradas por un propietario y un suplente del mismo género;
+
+IV. Paridad de género: Principio que tiene como finalidad garantizar un modelo plural e incluyente de participación política tanto de hombres como mujeres;
+
+V. Paridad de género horizontal: Obligación que tienen los partidos políticos de postular en el mismo porcentaje a la persona que encabeza la fórmula de diputados o la planilla del Ayuntamiento en todos los distritos y municipios del Estado;
+
+VI. Paridad de género transversal: Obligación de los partidos políticos de asegurar, en los tres bloques de participación, la igualdad de circunstancias y posibilidades de postulación a ambos géneros en los distritos y ayuntamientos que forman parte del Estado;
+
+VII. Paridad de género vertical: La obligación de los partidos políticos de postular, en igual proporción de géneros a candidatos de un mismo Ayuntamiento, de los distritos electorales y de la lista de candidatos a diputados por representación proporcional, obligaciones que de igual forma aplican para la postulación de candidaturas independientes; y,
+
+VIII. Bloques: Para conformar los bloques correspondientes servirá como base el porcentaje de votación que cada partido político obtuvo en lo individual, independientemente que haya participado solo, en coalición o candidatura en común, tomada de la última elección ordinaria. Si existe un distrito en donde no se participó en la elección inmediata anterior, pero se desee participar, se va a contabilizar en ceros para efectos del bloque, y pasará en automático a pertenecer a la clasificación de baja.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 332.
+
+En todos los registros de las candidaturas se observará la paridad horizontal, vertical y transversal.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 333.
+
+El Instituto, en el ámbito de su competencia y en cumplimiento a la obligación constitucional de promover, respetar, proteger y garantizar los derechos humanos; es responsable de establecer las condiciones de igualdad que contribuyan a la eliminación de cualquier clase de discriminación por razón de género, en el ejercicio de los derechos políticos electorales.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 334.
+
+Todos los órganos del Instituto, en el ámbito de sus respectivas competencias, tienen la obligación de vigilar el estricto cumplimiento de la paridad de género.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 335.
+
+Los partidos políticos tienen la obligación de no destinar exclusivamente un solo género a aquellos distritos o municipios en los que obtuvieron los porcentajes de votación más bajos. Por lo que no se admitirán criterios que tengan como resultado lo anterior.
+
+Las candidaturas independientes tienen la obligación de garantizar la paridad de género tanto en la fórmula para diputación, como en la planilla para integrar Ayuntamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO TERCERO. DE LA PARIDAD DE GÉNERO EN LOS PROCESOS DE SELECCIÓN INTERNA DE LOS PARTIDOS POLÍTICOS
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 336.
+
+La ciudadanía en cuanto a su pretensión de ser candidatos y candidatas independientes, tienen las siguientes obligaciones:
+
+I. Procurar la participación de ambos géneros en condiciones de equidad;
+
+II. Promover y garantizar los principios de paridad y alternancia, en la integración de sus candidaturas a diputaciones de mayoría relativa, y planillas de ayuntamientos; y,
+
+III. Promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 337.
+
+En las solicitudes de registro de candidaturas independientes para la elección de diputaciones, las fórmulas se integrarán con personas del mismo género, salvo que el propietario sea hombre, su suplente podrá ser mujer. De conformidad con lo siguiente:
+
+Fórmula
+
+Propietario Mujer Hombre Hombre
+
+Suplente Mujer Hombre Mujer
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 338.
+
+En el caso de las solicitudes de registro de candidaturas independientes para la elección de Ayuntamiento, si la planilla la encabeza un hombre, la fórmula para Sindicatura deberá estar compuesta por mujeres; para Regidurías deberán iniciar con una integrada por hombres y alternar el género hasta agotar el número de regidurías por municipio.
+
+Si la planilla la encabeza una mujer, la fórmula para Sindicatura deberá estar compuesta por hombres; para Regidurías deberán iniciar con una integrada por mujeres y alternar el género hasta agotar el número de regidurías por municipio.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO CUARTO. REGISTRO DE CANDIDATURAS
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 339.
+
+En los procesos de selección interna de los partidos políticos se deberá atender lo previsto en la Constitución General, la Constitución Local, así como en la Ley General, la Ley de Partidos, el Reglamento de Elecciones del Instituto Nacional Electoral y en el Código; además se observará lo siguiente:
+
+I. Deberán vigilar que sean respetados los principios de paridad de género en cada uno de los distritos y municipios en los que se desarrollen procesos de selección interna de candidaturas;
+
+II. En cada etapa prevista en sus estatutos, deberán vigilar el cumplimiento de la paridad de género para los diversos cargos de elección;
+
+III. La paridad de género será el criterio para la ponderación de principios constitucionales como certeza, legalidad, transparencia, reelección y autoorganización de los partidos políticos, previstos en la organización de sus procesos de selección interna de candidaturas; y,
+
+IV. La ponderación para garantizar cualitativa y cuantitativamente el principio de paridad de género, atenderá lo dispuesto por el artículo 1 de la Constitución General.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO QUINTO. METODOLOGÍA PARA GARANTIZAR LA PARIDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 340.
+
+La solicitud y el registro de las candidaturas se realizará conforme a lo dispuesto en el Código y el Reglamento de Elecciones.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 341.
+
+Las solicitudes de registro de candidaturas a cargos de elección popular, deberán presentarse en fórmulas de propietarios y suplentes del mismo género, según sea el caso.
+
+Asimismo, tanto en las listas de candidaturas a diputados por ambos principios, como en las planillas para integrar ayuntamientos, se deberá observar la alternancia de género.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 342.
+
+En los distritos y municipios en que los Partidos Políticos no hubiesen registrado candidaturas en el proceso electoral local anterior, deberán cumplir con la homogeneidad en las fórmulas o planillas, la paridad horizontal, transversal y vertical, así como con la alternancia de género, debiendo mantener el porcentaje de 50% de cada género en la totalidad de sus registros.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO SEXTO. ELECCIÓN DE DIPUTACIONES
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 343.
+
+Con la finalidad de evitar que a algún género le sean asignados los distritos o municipios, según el tipo de elección de que se trate, en aquellos en los que el partido político haya obtenido los porcentajes de votación más bajos y más altos en el Proceso Electoral Local anterior, las postulaciones se sujetarán a lo siguiente:
+
+I. Los partidos verificarán su votación recibida en las elecciones del proceso electoral inmediato anterior;
+
+II. El Instituto Electoral por su parte elaborará los diagnósticos para determinar los bloques de competitividad por instituto político, coalición y candidatura común y verificar el cumplimiento de la paridad de género, la cual deberá hacer del conocimiento a los institutos políticos de manera oportuna;
+
+III. En todos los casos deberá cumplirse con la homogeneidad en las fórmulas o planillas, así como con la paridad horizontal, transversal y vertical;
+
+IV. Paridad Transversal y Bloques, en los siguientes términos:
+
+a) Cada partido listará los distritos o ayuntamientos ordenados de menor a mayor de acuerdo al porcentaje de votación obtenida en el proceso electoral ordinario anterior;
+
+b) Con esos resultados se formarán 3 bloques:
+
+Baja: Distritos o municipios con el porcentaje de votación más bajo;
+
+Media: Distritos o municipios con el porcentaje de votación media; y,
+
+Alta: Distritos o municipios con el porcentaje más alto.
+
+c) Para la división en bloques, se tomará como base el número de distritos o ayuntamientos en los que el partido político solicite el registro de candidaturas y se dividirá en tres partes iguales, y si esta división arroja decimales, el remanente se agregará al bloque de votación baja o en su caso a la media, lo que dará como resultado bloques pares e impares:
+
+Fórmula:
+
+Número de distritos o ayuntamientos en los que se solicite registro de candidaturas ______________________________________= número en cada bloque
+
+3
+
+a) (SIC) El Instituto verificará en todos los casos el bloque de votación más baja, con la finalidad de estar en posibilidades de identificar, en su caso, un sesgo de preferencia hacia algún género.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO SÉPTIMO. ELECCIÓN DE AYUNTAMIENTOS
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 344.
+
+Para la postulación de las candidaturas a diputaciones de mayoría relativa, con base en los bloques que para tal efecto hayan formado los partidos políticos, las reglas serán las siguientes:
+
+I. Diputados de Mayoría Relativa:
+
+a) Bloques con números pares:
+
+1. Todos los bloques deben de cumplir cada uno en postular el cincuenta por ciento de género femenino y cincuenta por ciento género masculino.
+
+b) Bloques con números impares:
+
+1. Todos los bloques deben tener en su postulación de fórmulas del género femenino, siempre y cuando se cumpla con la paridad de género en su conjunto.
+
+2. La postulación no necesariamente deberá de ser escalonada y alternada.
+
+En la postulación de fórmulas de candidaturas a diputaciones de Mayoría Relativa, deberá cumplirse con la paridad horizontal y transversal.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 345.
+
+En cada bloque de las postulaciones de candidaturas a diputaciones de Mayoría Relativa, los partidos tendrán libertad de seleccionar los distritos en que se postulen fórmulas de mujeres y hombres, tomando en consideración que se cumpla con la paridad.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 346.
+
+Por lo que ve a las candidaturas de Diputados por el principio de Representación Proporcional, la lista que contenga la postulación, deberá cumplir con el cincuenta por ciento del género femenino y cincuenta por ciento del género masculino, con alternancia de género por fórmula.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO OCTAVO. EN LAS COALICIONES Y CANDIDATURAS COMUNES
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 347.
+
+Para la postulación de las candidaturas a integrar los ayuntamientos, con base en los bloques que para tal efecto hayan formado los partidos políticos, deberán cumplir con lo siguiente:
+
+a) Si los tres bloques son pares, los partidos políticos podrán determinar la integración de los bloques; y,
+
+b) Si uno, dos o los tres bloques son impares, en éstos se dará preferencia a la postulación del género femenino siempre y cuando se cumpla con la paridad de género en su conjunto.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 348.
+
+En la postulación de planillas de ayuntamientos, deberá cumplirse con la paridad horizontal, transversal y vertical.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 349.
+
+En la verificación del principio de paridad que realice el Instituto de las fórmulas de regidores, ésta sólo se efectuará respecto de las postulaciones por el principio de Mayoría Relativa, con base en que éstos son los mismos que integran las fórmulas de regidores de representación proporcional.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO NOVENO. VERIFICACIÓN DEL CUMPLIMIENTO DEL PRINCIPIO DE PARIDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 350.
+
+Los partidos políticos podrán formar coaliciones flexibles, parciales y totales, de acuerdo con el número de distritos o municipios en los que decidan participar, al menos, de conformidad con lo siguiente:
+
+Tipo de elección Coalición Total Coalición Parcial Coalición flexible
+
+Diputados 24 12 6
+
+Ayuntamientos 112 56 28
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 351.
+
+Independientemente de las coaliciones o candidaturas comunes que integre cada partido político, en lo individual deberá cumplir con la paridad horizontal.
+
+Para verificar la paridad transversal en el caso de las coaliciones parciales y flexibles, así como en las candidaturas comunes, se estará acorde a lo siguiente:
+
+I. Se obtendrán los resultados por cada partido político en la elección inmediata anterior;
+
+II. Se sumarán los votos de los partidos políticos que integran la candidatura común o coalición;
+
+III. Una vez hecho lo anterior, dicha lista con la sumatoria de los votos obtenidos en común se ordenará en forma descendente; y,
+
+IV. Posteriormente se dividirá dicha lista en tres bloques, alta, media y baja.
+
+En cada uno de los bloques se deberá cumplir con la paridad transversal, es decir, deberán estar integrados por un número igual de mujeres y de hombres.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 352.
+
+Para efectos de la paridad de género, la candidatura común o la coalición, se tomará como un todo, como si se tratara de un solo partido político.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 353.
+
+Los porcentajes de votación que deberán considerarse para realizar los bloques por los partidos políticos que integren coaliciones o candidaturas comunes, serán bajo los siguientes supuestos:
+
+I. Si uno de los integrantes no postuló planilla en la elección inmediata anterior, pero algún miembro sí lo hizo; sólo se tomará el porcentaje de la votación del partido político que sí postuló;
+
+II. Si ninguno de los integrantes postuló planilla en la elección anterior; el porcentaje será cero, por lo que de manera automática ese distrito o ayuntamiento deberá de integrarse al bloque de baja votación;
+
+III. Si uno de los integrantes postuló planilla en la elección inmediata anterior de manera individual, y ahora desee hacerlo en coalición o en candidatura común; se tomará el porcentaje de la votación en lo individual de cada partido político que conforme la coalición o candidatura común, se sumará y se dividirá entre los partidos políticos que la conforman, al resultado obtenido será la base que se tome en cuenta para ubicar el distrito o ayuntamiento en el bloque que le corresponde;
+
+IV. Si los partidos políticos en la elección anterior integraron la misma candidatura común o coalición, se tomarán los porcentajes de votación obtenidos por la coalición o candidatura común en la que participaron;
+
+V. Si en la elección pasada los partidos políticos fueron en candidatura común y ahora quieren integrar una coalición, se tomará el porcentaje de su votación en lo individual;
+
+VI. Si los partidos políticos fueron en coalición en la elección anterior y ahora quieren integrar una candidatura común, se tomará el porcentaje de su votación en lo individual; y,
+
+VII. Si los partidos políticos en la elección pasada fueron en coalición o candidatura común diferente, se tomarán los porcentajes de votación de cada partido político en lo individual, se sumarán y se dividirán entre el número de partidos que conforman la candidatura común o la coalición, el resultado de la operación será la base que se tome en cuenta para ubicar ese Distrito o Ayuntamiento en el bloque correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO DÉCIMO. ELECCIONES EXTRAORDINARIAS
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 354.
+
+Recibidas las solicitudes de registro de candidaturas, el Instituto verificará que los Partidos Políticos, Coaliciones, Candidaturas Comunes y Candidaturas Independientes cumplan con el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 355.
+
+Si al término de la verificación de las fórmulas de diputaciones y listas de planillas para integrar ayuntamientos, se advierte que algún partido político, coalición, candidatura común o candidatura independiente, omitió el cumplimiento de la paridad de género, el Instituto notificará de inmediato al Representante del partido político para que dentro del término de las 48 horas siguientes realice las modificaciones correspondientes en sus postulaciones, siempre que esto pueda realizarse antes de concluido el plazo con que cuenta el Consejo General, para resolver sobre el registro de candidatos.
+
+En caso de que el partido político no modifique su postulación o dicha modificación no cumpla con las reglas establecidas, se tendrá por no presentada.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 356.
+
+En las sustituciones, los partidos políticos tienen la obligación de cumplir con las reglas de paridad en sus diversas vertientes; en caso de que no lo hicieren, el Instituto los prevendrá y requerirá para que desahoguen los requerimientos correspondientes.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE ABRIL DE 2020)</small>
+
+###### ARTÍCULO 357.
+
+En el caso de que el Instituto organice un proceso electoral extraordinario, se atenderá lo siguiente:
+
+I. En caso de que los Partidos Políticos postulen candidatos de manera individual, éstos deberán ser del mismo género que el de los candidatos que contendieron en el proceso electoral ordinario;
+
+II. En el caso de que hubieran registrado coalición o candidatura común en la elección ordinaria, y la misma se registre en el proceso electoral extraordinario, los Partidos Políticos deberán postular candidatos del mismo género al de las personas que contendieron en el proceso ordinario;
+
+III. En caso de que los Partidos Políticos hubieran participado de manera individual en el proceso electoral ordinario y pretendan coaligarse o postular a las personas en candidatura común, en la elección extraordinaria, deberán proceder de la siguiente manera:
+
+a) Si los partidos políticos coaligados o en candidatura común, participaron con fórmulas de candidatos del mismo género en el proceso electoral ordinario, deberán registrar una fórmula de candidatos del mismo género para la coalición que se registre en el proceso electoral extraordinario;
+
+b) Si los partidos políticos participaron con candidatos de género distinto en el proceso ordinario, deberán registrar una formula o quien encabece la planilla con una persona de género femenino para la coalición o candidatura común que se registre en el proceso electoral ordinario.
+
+IV. En caso de que los partidos políticos que hubieran registrado coalición o candidatura común, en el proceso electoral ordinario decidan participar de manera individual en la elección extraordinaria, deberán atender lo siguiente:
+
+a) En caso de la fórmula o quien encabezó la planilla postulada por la coalición o la candidatura común, haya sido integrada por personas del género femenino, los Partidos Políticos repetirán el mismo género; y,
+
+b) En caso de la fórmula o quien encabezó la planilla postulada por la coalición o la candidatura común, haya sido integrada por personas del género masculino, los Partidos Políticos podrán optar por la postulación del mismo género, o en su defecto por un género distinto.
 
 ## TRANSITORIOS
 
@@ -5663,7 +6027,7 @@ QUINTO. Notifíquese al Presidente del Tribunal Electoral del Estado para que se
 
 P.O. 20 DE ENERO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 193 POR EL QUE "SE REFORMAN LAS FRACCIONES XI, XII Y XIII DEL ARTÍCULO 3, LOS ARTÍCULOS 4 Y 71; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 3; Y UN PÁRRAFO SEGUNDO AL INCISO M) DEL ARTÍCULO 230 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 193 POR EL QUE “SE REFORMAN LAS FRACCIONES XI, XII Y XIII DEL ARTÍCULO 3, LOS ARTÍCULOS 4 Y 71; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 3; Y UN PÁRRAFO SEGUNDO AL INCISO M) DEL ARTÍCULO 230 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
@@ -5674,3 +6038,11 @@ TERCERO. El Congreso del Estado deberá, en un plazo improrrogable de un año a 
 CUARTO. La observancia del principio de paridad de género a que se refiere el presente Decreto, será aplicable a quienes tomen posesión de su cargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
 
 Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva y escalonada a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+P.O. 28 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 321 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 70 FRACCIÓN III; 87 INCISOS F) Y Q); 158 FRACCIÓN V; Y, 189, PÁRRAFOS TERCERO Y CUARTO DE LA FRACCIÓN IV INCISO D); Y, SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 34, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES; EL INCISO R) AL ARTÍCULO 87, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES; ASÍ COMO EL TÍTULO CUARTO. DEL CUMPLIMIENTO DEL PRINCIPIO DE PARIDAD DE GÉNERO EN LA POSTULACIÓN DE CANDIDATURAS DE LAS FÓRMULAS DE DIPUTADOS Y DE LAS PLANILLAS DE AYUNTAMIENTO Y, EN SU CASO, DE LAS ELECCIONES EXTRAORDINARIAS QUE SE DERIVEN, AL LIBRO SEXTO. DE PROCEDIMIENTOS ESPECIALES, QUE COMPRENDE DE LOS ARTÍCULOS 331 AL 357; DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. La presente reforma entrará en vigor a partir del día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Instituto Electoral de Michoacán, en un plazo no mayor a sesenta días naturales de entrada en vigor la presente reforma, deberá armonizar su normatividad interna.
