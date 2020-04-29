@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2020-04-27"
+last_updated: "2020-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2020.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -1547,13 +1547,19 @@ II. Elaborar propuestas legislativas que procuren la eficiencia y eficacia de la
 
 III. Acordar en su caso la integración de grupos de trabajo, para el estudio y desahogo de asuntos que consideren necesarios. Dichos grupos serán coordinados por un integrante de la Comisión de Hacienda y Fiscalización, con apoyo de la Secretaría Técnica.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+En las reuniones de grupos de trabajo se contará con participación de especialistas en los ramos estadísticos, económicos y financieros.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2020)</small>
+
 ###### Artículo 123.
 
-La Junta de Enlace en Materia Financiera sesionará por lo menos una vez en febrero y otra en octubre, pero podrá reunirse en cualquier momento para tratar los asuntos propios de su función.
+La Junta de Enlace en Materia Financiera sesionará por lo menos una vez en febrero y otra en septiembre.
 
-En la sesión celebrada en febrero se presentará el programa de trabajo de la junta y se integrarán los grupos a que se refiere el artículo anterior, los cuales se reunirán bimestralmente.
+En la sesión celebrada en febrero se presentará el programa de trabajo y se integrarán los grupos a que se refiere el artículo anterior, los cuales se reunirán bimestralmente.
 
-En la sesión de octubre deberán elaborarse los criterios de presentación de las iniciativas de ingresos municipales, con base a los resultados de las reuniones de los grupos de trabajo.
+En la sesión de septiembre deberán elaborarse los criterios de presentación de las iniciativas de ingresos municipales, con base a los resultados de las reuniones de los grupos de trabajo.
 
 ###### Artículo 124.
 
@@ -2959,9 +2965,15 @@ IX. Realizar estudios e investigaciones sobre política fiscal, financiera, econ
 
 X. Elaborar y sugerir estudios sobre las remuneraciones que deben recibir los integrantes de los ayuntamientos;
 
-XI. Elaborar y proponer su programa anual de actividades; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2020)</small>
 
-XII. Realizar las gestiones para la verificación de la Junta de Enlace en Materia Financiera y colaborar en la ejecución de sus funciones, por instrucción de la Presidencia de la Comisión de Hacienda y Fiscalización.
+XI. Elaborar y proponer su programa anual de actividades;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2020)</small>
+
+XII. Elaborar semestralmente los informes estadísticos, económicos y financieros y remitirlos a la Junta de Enlace en Materia Financiera para la toma de decisiones; y
+
+XIII. Realizar las gestiones para la verificación de la Junta de Enlace en Materia Financiera y colaborar en la ejecución de sus funciones, por instrucción de la Presidencia de la Comisión de Hacienda y Fiscalización.
 
 ###### Artículo 277.
 
@@ -3434,3 +3446,9 @@ P.O. 27 DE ABRIL DE 2020.
 Artículo primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo segundo. La Junta de Gobierno y Coordinación Política deberá emitir los lineamientos para desarrollar las sesiones y reuniones de comisiones legislativas a distancia dentro de los siguientes quince días contados a partir de la entrada en vigencia del presente Decreto.
+
+P.O. 29 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 175 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
