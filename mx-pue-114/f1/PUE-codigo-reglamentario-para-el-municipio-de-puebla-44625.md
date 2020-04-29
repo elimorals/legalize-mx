@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2020-04-24"
+last_updated: "2020-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -35233,21 +35233,29 @@ X. Premio al "Compromiso por la inclusión de las personas con discapacidad: Mar
 
 XI. Premio Municipal de Investigación Histórica: “Hugo Leicht”,
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2020)</small>
 
-XII. Reconocimiento de "Visitante Distinguido";
+XII. Premio Municipal de Arte y Cultura en dos categorías:
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
+a) Premio al Mérito Cultural;
 
-XIII. Reconocimiento de "Poblano Distinguido";
+b) Premio a la Gestión Comunitaria;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2020)</small>
 
-XIV. Reconocimiento de "Copia de la declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Mundial"; y
+XIII. Reconocimiento de “Visitante Distinguido”;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2020)</small>
 
-XV. Reconocimiento "Juan de Palafox y Mendoza".
+XIV. Reconocimiento de “Poblano Distinguido”;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2020)</small>
+
+XV. Reconocimiento de “Copia de la Declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Mundial”; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2020)</small>
+
+XVI. Reconocimiento “Juan de Palafox y Mendoza”.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -36106,6 +36114,56 @@ II. La inscripción será dentro de la fecha y bajo los términos que señale la
 III. Toda propuesta debe expresar las actividades, trayectoria y logros, acompañado de la investigación histórica del Municipio y demás documentos probatorios que se estimen pertinentes, en su caso, se indicará la naturaleza de otras pruebas y los lugares donde pueden recabarse, y
 
 IV. Los demás requisitos que a juicio del Consejo de Premiación, estime convenientes.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 2335 Undecies.- El Premio Municipal Arte y Cultura será entregado a aquellas personas que hayan contribuido a promover, fomentar y enriquecer la creación artística y cultura comunitaria en el Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 2335 Duodecies.- El Premio se otorgará en dos categorías:
+
+I. Premio al Mérito Cultural. El cual será otorgado aquellas personas, originarias o radicadas en el municipio de Puebla, que en él hayan desarrollado su trabajo por más de cinco años anteriores a su postulación, y que se hayan destacado en la creación artística o en la promoción y fomento de la cultura.
+
+II. Premio a la Gestión Comunitaria. El cual será otorgado a las personas físicas o morales, asociaciones o colectivos radicados en el Municipio de Puebla, que en él hayan desarrollado su trabajo por más de cinco años anteriores a su postulación; y que, a través de sus producciones, proyectos, trabajos de investigación o de divulgación hayan contribuido a mejorar la gestión cultural y el trabajo comunitario en una o varias comunidades del Municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 2335 Terdecies.- Tanto el Premio al Mérito Cultural como el Premio a la Gestión Comunitaria consistirán en una presea diseñada especialmente al efecto y un diploma que serán entregados en Acto Protocolario, por acuerdo del Consejo de Premiación, o en sesión solemne de Cabildo, a propuesta de la Presidenta Municipal.
+
+La convocatoria será emitida cuando el Consejo de Premiación lo determine.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 2335 Quaterdecies.- El Consejo de Premiación del Premio Municipal Arte y Cultura estará integrado por:
+
+I. Un Presidente, quien será el Presidente Municipal, con voz y voto; quien en caso de empate tendrá voto de calidad;
+
+II. El Secretario del Ayuntamiento, quien fungirá como Secretario Ejecutivo, con voz;
+
+III. El Director General del Instituto Municipal de Arte y Cultura de Puebla, quien fungirá como Secretario Técnico del Consejo, con voz y voto;
+
+IV. El Presidente de la Comisión de Turismo, Arte y Cultura del Ayuntamiento, quien tendrá voz y voto;
+
+V. Un integrante de la Comisión de Turismo, Arte y Cultura del Ayuntamiento, quien será elegido en Sesión de la Comisión, y tendrá voz y voto;
+
+VI. La titular de la Secretaría de Turismo municipal, quien tendrá voz y voto;
+
+VII. Tres miembros de la comunidad artística y cultural del municipio de Puebla, cuya designación será analizada y votada por la Comisión de Turismo, Arte y Cultura del Ayuntamiento, mediante convocatoria pública dirigida a todas aquellas personas interesadas en formar parte del Consejo de Premiación, y quienes tendrán voz y voto.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 2335 Quindecies.- Las propuestas de las personas a recibir el Premio Municipal Arte y Cultura se efectuarán bajo los siguientes términos:
+
+I. Solo se podrá postular a las personas físicas o morales que cumplan con los requisitos establecidos en el presente capítulo;
+
+II. La inscripción se efectuará dentro del plazo y bajo los términos que señale la convocatoria correspondiente;
+
+III. Toda propuesta debe expresar las actividades, trayectoria y logros de la persona física o moral postulada, y acompañarse de los documentos que se estimen pertinentes, y
+
+IV. Los demás requisitos que el Consejo de Premiación, estime convenientes.
+
+Los candidatos a recibir dicho premio, podrán ser propuestos por instituciones, asociaciones, sectores sociales organizados, personas físicas o morales con domicilio en el municipio de Puebla.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -38862,5 +38920,13 @@ P.O. 24 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE MARZO DE 2020, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CAPÍTULO 26 "DE DESARROLLO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA", LIBRO QUINTO DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
 
 PRIMERO. Las reformas aprobadas en el presente Dictamen, entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 29 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 6 DE MARZO DE 2020, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CAPÍTULO 36 "DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA", TÍTULO ÚNICO, LIBRO NOVENO DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. Las reformas y adiciones aprobadas en el presente Dictamen, entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
