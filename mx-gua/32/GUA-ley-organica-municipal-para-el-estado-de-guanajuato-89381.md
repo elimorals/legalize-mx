@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2019-11-22"
+last_updated: "2020-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2020.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1163,6 +1163,14 @@ k) Contar con un registro del acontecer histórico local y con el archivo de los
 
 l) Establecer el Consejo Consultivo Municipal de Turismo en los términos de la Ley General de Turismo, y
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+m) Establecer el Sistema Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes, en los términos de lo dispuesto por la Ley General y Local de la materia; y
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+n) Elaborar y aprobar su programa municipal de protección de niñas, niños y adolescentes y participar en el diseño del Programa Local.
+
 VI. Las demás que le confieran las leyes y reglamentos para el cumplimiento de sus funciones.
 
 ### Capítulo VIII. De las Atribuciones de los Integrantes del Ayuntamiento
@@ -1225,7 +1233,15 @@ XXII. Coadyuvar con las autoridades federales y estatales en el ejercicio de sus
 
 XXIII. Presidir el Consejo Consultivo Municipal de Turismo;
 
-XXIV. Las demás que le señale esta Ley y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2020)</small>
+
+XXIV. Presidir el Sistema Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2020)</small>
+
+XXV. Nombrar y remover al titular de la Secretaría Ejecutiva del Sistema Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes; y
+
+XXVI. Las demás que le señale esta Ley y otras disposiciones legales aplicables.
 
 Atribuciones de los síndicos
 
@@ -3885,15 +3901,43 @@ Declaración Patrimonial y de Conflicto de Intereses y la Constancia de declarac
 
 5. Los miembros del Ayuntamiento estarán obligados a efectuar su declaración de situación patrimonial, de conflicto de intereses y la constancia de presentación de declaración fiscal, en los términos de la ley de la materia, ante la Contraloría Municipal.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2020)</small>
+
 ## Título Undécimo
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2020)</small>
+
+### Capítulo Único. Del Sistema Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Sistema Municipal de Protección
+
+###### Artículo 240
+
+6. El Sistema Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes es la instancia integrada por las dependencias, entidades de la administración pública municipal e instituciones, encargada de la protección de dichos derechos en los términos de lo dispuesto por la Ley General, la Ley local de la materia y su reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Coordinación para la atención
+
+###### Artículo 240
+
+7. Cuando en la operación, verificación y supervisión de las funciones y servicios públicos municipales se tenga conocimiento de casos de violación a los derechos de Niñas, Niños y Adolescentes, el Sistema Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes, coordinará los esfuerzos para la atención inmediata de los derechos violados, asimismo dará vista a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, para su tratamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Cumplimiento de atribuciones
+
+###### Artículo 240
+
+8. Para el cumplimiento de las atribuciones de los municipios, contenidas en las leyes de la materia, el Sistema Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes, deberá contar con una Secretaría Ejecutiva, cuyo titular deberá poseer experiencia en materia de asistencia social.
+
+## Título Duodécimo
 
 ### Capítulo I. De la Justicia Administrativa Municipal
 
 Impartición de justicia administrativa
-
-### Capítulo II. De los Juzgados Administrativos Municipales
-
-Juzgados administrativos municipales
 
 ###### Artículo 241.
 
@@ -3933,9 +3977,9 @@ Los actos y resoluciones administrativas dictadas por el presidente municipal y 
 
 Las resoluciones de los Juzgados Administrativos Municipales que pongan fin al proceso administrativo podrán ser impugnados (sic) por las partes, mediante el recurso de revisión ante las Salas del Tribunal de Justicia Administrativa.
 
-### Capítulo III. De la Procuración de Justicia en Materia Administrativa Municipal
+### Capítulo II. De los Juzgados Administrativos Municipales
 
-Defensorías de oficio
+Juzgados administrativos municipales
 
 ###### Artículo 244.
 
@@ -4083,9 +4127,11 @@ V. Preferentemente haber cursado la especialidad en justicia administrativa, deb
 
 Los actuarios deberán satisfacer los requisitos señalados en las fracciones anteriores, con excepción de la práctica profesional.
 
-### Capítulo IV. De las Infracciones y Sanciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2020)</small>
 
-Sanciones
+### Capítulo III. De la procuración de justicia en materia administrativa municipal
+
+Defensorías de oficio
 
 ###### Artículo 254.
 
@@ -4116,6 +4162,10 @@ Requisitos para ser defensor
 ###### Artículo 257.
 
 Los defensores de oficio deberán reunir los requisitos previstos para los jueces administrativos municipales y los secretarios de estudio y cuenta, en el artículo 253 de esta Ley.
+
+### Capítulo IV. De las Infracciones y Sanciones
+
+Sanciones
 
 ###### Artículo 258.
 
@@ -4476,3 +4526,15 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de
 Expedición de disposiciones reglamentarias de la Ley
 
 Artículo Segundo. Los Ayuntamientos contarán con un periodo de 90 días posteriores a la entrada en vigor del presente Decreto, para adecuar sus reglamentos, en congruencia con el mismo.
+
+P.O. 29 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 174 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los municipios del estado contarán con un periodo de 90 días para establecer el Sistema Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes, en congruencia con el presente Decreto.
+
+Artículo Tercero. Los municipios del estado contarán con un periodo de 90 días para elaborar y aprobar el programa municipal del Sistema Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes, en congruencia con el presente Decreto.
+
+Artículo Cuarto. Una vez cumplidos los términos señalados los municipios del Estado deberán informar a este Congreso sobre los mecanismos y acciones que hayan realizado para el cumplimiento del presente Decreto.
