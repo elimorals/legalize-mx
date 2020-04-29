@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimiento-y-justicia-administrativa-para-el-56710
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-17"
-last_updated: "2016-07-01"
+last_updated: "2020-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2020.
 
 Código Publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de agosto de 2007.
 
@@ -197,7 +199,13 @@ Cuando el promovente no sepa o no pueda firmar autógrafamente, imprimirá su hu
 
 Las promociones y actuaciones se presentarán o realizarán en forma escrita.
 
-Para documentar el procedimiento podrán utilizarse impresos que estén legalmente autorizados, así como los elementos incorporables a un sistema de compilación y reproducción mecánico, electrónico, óptico o de cualquier otra tecnología, que garantice su conservación y recuperación auténtica, íntegra e inalterada.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Para documentar el procedimiento podrán utilizarse impresos que estén legalmente autorizados, así como los elementos incorporables a un sistema de compilación y reproducción informático, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Tratándose de las actuaciones en el proceso administrativo cuyo trámite sea por escrito se respaldarán e integrarán por el Tribunal en forma de expediente electrónico en un sistema informático, incluyendo todas las promociones, pruebas y otros anexos que presenten las partes, oficios, acuerdos y resoluciones, tanto interlocutorias como definitivas, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad.
 
 Cuando una diligencia se practique de manera oral, deberá documentarse inmediatamente su desarrollo.
 
@@ -2193,7 +2201,9 @@ VIII. Las pruebas que se ofrezcan.
 
 A la demanda se anexará:
 
-I. Una copia de la misma y de los documentos adjuntos para cada una de las partes y una más para el duplicado;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2020)</small>
+
+I. Una copia de la misma y de los documentos adjuntos para cada una de las partes;
 
 II. Los documentos en que conste el acto o resolución impugnado, cuando los tenga a su disposición; o en su caso, copia de la solicitud no contestada por la autoridad;
 
@@ -2209,13 +2219,17 @@ VI. El cuestionario para los peritos, cuando se ofrezca la prueba pericial, así
 
 Cuando la demanda no reúna los requisitos que establece el artículo 265 de este Código, o bien no se adjunten los documentos a que se refiere el artículo anterior, el juzgador requerirá al actor para que en el término de cinco días, la aclare, corrija o complete, con el apercibimiento que, de no hacerlo, se tendrá por no presentada. Respecto de las pruebas documental, pericial y confesional se tendrán por no ofrecidas.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 267 A. Cuando se presente alguno de los supuestos a que se refiere el artículo 304 B será tramitado por el Tribunal o el Juzgado en la vía sumaria.
+
 ### CAPÍTULO SEGUNDO. DE LA SUSPENSIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2020)</small>
 
 ###### Artículo 268.
 
-La suspensión del acto o resolución impugnado podrá solicitarla el actor en su demanda por escrito o en el juicio en línea, o en cualquier momento del proceso y tendrá por efecto mantener las cosas en el estado en que se encuentren, en tanto se pronuncia sentencia.
+La suspensión del acto o resolución impugnado podrá solicitarla el actor en su demanda por escrito o en el juicio en línea, o en cualquier momento del proceso y tendrá por efecto mantener las cosas en el estado en que se encuentren, en tanto no haya causado ejecutoria la sentencia.
 
 Cuando la suspensión se pida en la demanda, si procede, deberá concederse por el Tribunal o Juzgado en el acuerdo que la admita, haciéndolo saber inmediatamente a la autoridad demandada, para su cumplimiento sin demora, pudiendo utilizarse para tal efecto el telegrama, telefax, medios electrónicos o cualquier otro proporcionado por la tecnología, siempre que pueda comprobarse fehacientemente su recepción.
 
@@ -2307,7 +2321,9 @@ V. Las pruebas que ofrezca.
 
 El demandado deberá acompañar a su contestación:
 
-I. Copias de la misma y de los documentos anexos para las demás partes y una más para el duplicado;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2020)</small>
+
+I. Copias de la misma y de los documentos anexos para las demás partes;
 
 II. Los documentos con los que acredite su personalidad;
 
@@ -2437,7 +2453,81 @@ La interrupción del proceso administrativo, procederá hasta antes de la celebr
 
 La interrupción del proceso administrativo será de hasta seis meses, mientras se apersone el representante legal de la parte actora o el representante del órgano de la administración pública que asuma las facultades o atribuciones correspondientes al órgano desaparecido. Si transcurrido el término máximo de la interrupción no comparece el representante legal de las partes, se reanudará el proceso administrativo.
 
-### CAPÍTULO OCTAVO. DEL JUICIO DE LESIVIDAD
+### CAPÍTULO OCTAVO. DEL JUICIO EN LA VÍA SUMARIA
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 A. El proceso administrativo se tramitará y resolverá en la vía sumaria, de conformidad con las disposiciones del presente capítulo y, en lo no previsto, se aplicarán las demás disposiciones del presente Código.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 B. Procede la vía sumaria cuando se impugnen resoluciones cuyo importe no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, siempre que se trate de alguna de las siguientes resoluciones definitivas:
+
+I. Que determinen o exijan el pago de créditos fiscales estatales o municipales, en cantidad líquida;
+
+II. Que impongan multas o sanciones pecuniarias o resarcitorias, por infracción a las normas administrativas estatales o municipales; y
+
+III. Las recaídas a un recurso administrativo, cuando la recurrida sea alguna de las consideradas en las fracciones anteriores.
+
+Para determinar la cuantía en los casos de las fracciones I y III sólo se considerará el crédito principal sin accesorios ni actualizaciones. Tratándose de más de una resolución de las señaladas en este artículo no se acumulará el monto de cada una de ellas para efectos de determinar la procedencia de la vía.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 C. La demanda se presentará por escrito o en la modalidad de juicio en línea ante el Tribunal; o por escrito ante el Juzgado respectivo, dentro de los quince días siguientes a aquél en que haya surtido efectos la notificación de la resolución impugnada o a aquel en que se haya ostentado sabedor de su contenido o de su ejecución.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 D. La vía sumaria será improcedente cuando:
+
+I. Se trate de sanciones económicas en materia de responsabilidades administrativas de los servidores públicos o sanciones por faltas de particulares relacionados con las mismas; y
+
+II. Se trate de resoluciones que además de imponer una multa o sanción pecuniaria o resarcitoria, incluyan alguna otra carga u obligación.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 E. Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los cinco días siguientes a aquél en que surta efectos el emplazamiento. En su caso, deberá emplazarse al tercero interesado para que, en igual término, se apersone en el juicio.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 F. El actor tendrá derecho a ampliar la demanda, dentro de los tres días siguientes a la fecha en que surta efectos la notificación del acuerdo recaído a la contestación de la demanda, en los casos que al efecto se establecen en el artículo 284 de este Código.
+
+La contestación de la ampliación de la demanda deberá realizarse dentro de los tres días siguientes al en que surta efectos la notificación del acuerdo que la admita.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 G. Contestada la demanda, su ampliación o, en su caso, transcurrido el plazo para contestarla, el Tribunal o el Juzgado respectivo señalará, si existen pruebas pendientes de desahogo, día y hora para la celebración de una audiencia, dentro de los quince días siguientes, en la que se desahogarán las pruebas, salvo la inspeccional y la pericial que deberán desahogarse antes de la audiencia.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 H. El Tribunal o Juzgado proveerá la correcta integración del proceso administrativo, mediante el desahogo oportuno de las pruebas, a más tardar en la fecha prevista para la celebración de la audiencia en los casos que ésta haya sido procedente.
+
+En el caso de que hayan sido ofrecidas testimoniales y el testigo no ocurra a la diligencia, el oferente deberá acreditar la imposibilidad para asistir en la propia audiencia, misma que será calificada de inmediato y hecho del conocimiento el acuerdo respectivo al promovente, siendo que de calificarse justificada se señalará fecha para su desahogo en un plazo de tres días hábiles o, en su caso, declarada desierta.
+
+Las pruebas supervenientes podrán presentarse siempre que no se haya dictado resolución y, en su caso, se dará vista a los interesados para que en el plazo de tres días expresen lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 I. Por lo que toca a la prueba pericial, ésta se desahogará en los términos que prevé el artículo 91 de este Código, con la salvedad de que todos los plazos serán de tres días, incluyendo el que corresponde a la rendición del dictamen, en el entendido de que cada perito deberá hacerlo en un solo acto ante el Tribunal o Juzgado.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 J. En caso de no existir pruebas pendientes de desahogo, se podrá citar a audiencia de alegatos dentro de los tres días siguientes a la admisión de la contestación de la demanda, o a la ampliación, en su caso.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 K. Abierta la audiencia, asistiendo o no las partes, se procederá a desahogar las pruebas testimonial y confesional, en su caso, y a recibir los alegatos por escrito, debiéndose dictar sentencia dentro del plazo de cinco días.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 L. El incidente de acumulación sólo podrá plantearse respecto de expedientes que se encuentren tramitándose en esta misma vía y con las características de los juicios previstas en este capítulo.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 M. La sentencia solamente podrá ocuparse sobre los argumentos de fondo del asunto, por lo que aquellos de forma serán desestimados por el Tribunal o Juzgado y no podrá ordenarse la reposición del procedimiento administrativo.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2020)</small>
+
+Artículo 304 N. A falta de disposición expresa que establezca el plazo respectivo en la vía sumaria, se aplicará el de tres días.
 
 ###### Artículo 298.
 
@@ -2511,7 +2601,11 @@ El juzgador resolverá dentro de los tres días siguientes, sin que pueda variar
 
 La resolución sobre la aclaración de una sentencia, se considerará parte integrante de ésta, no admitirá ningún recurso e interrumpirá el término para impugnarla.
 
-### CAPÍTULO NOVENO. DEL JUICIO EN LÍNEA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO NOVENO. DEL JUICIO DE LESIVIDAD
+
+### CAPÍTULO DÉCIMO. DEL JUICIO EN LÍNEA
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2015)</small>
 
@@ -2623,8 +2717,6 @@ El reporte que determine que existió interrupción en el Sistema deberá señal
 
 Artículo 307 R. Cuando en el juicio en línea la autoridad demandada sea omisa en comparecer mediante las formalidades del juicio en línea, las notificaciones posteriores al emplazamiento se practicarán por estrados, hasta que se cumpla con dicha formalidad.
 
-### CAPÍTULO PRIMERO. DEL RECURSO DE RECLAMACIÓN
-
 ###### Artículo 305.
 
 La autoridad emisora de actos o resoluciones administrativas favorables a particulares, cuando no pueda anularlo o revocarlo por sí misma por lo previsto en las leyes o reglamentos, podrá deducir su acción de lesividad ante el Tribunal o Juzgado, cuando:
@@ -2649,11 +2741,13 @@ El error material existe cuando se escriben unas palabras por otras, se omita un
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2015)</small>
 
-### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
+### CAPÍTULO PRIMERO. DEL RECURSO DE RECLAMACIÓN
 
 ## TÍTULO CUARTO. RECURSOS
 
-### CAPÍTULO ÚNICO. DE LAS EXCITATIVAS DE JUSTICIA
+### CAPÍTULO SEGUNDO. DEL RECURSO DE REVISIÓN
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2020)</small>
 
 ###### Artículo 308.
 
@@ -2689,11 +2783,11 @@ En caso de admitir el recurso, el Presidente del Tribunal designará al Magistra
 
 Transcurridos los cinco días, el Presidente remitirá los autos al Magistrado ponente para que dentro de diez días formule el proyecto de resolución que someterá al Pleno y éste resolverá dentro de los diez días siguientes, dictando la resolución que proceda.
 
-### CAPÍTULO PRIMERO. DEL CUMPLIMIENTO Y EJECUCIÓN DE LA SENTENCIA
+### CAPÍTULO ÚNICO. DE LAS EXCITATIVAS DE JUSTICIA
 
 ###### Artículo 312.
 
-Las resoluciones de los Juzgados que pongan fin al proceso administrativo, podrán ser impugnadas por las partes mediante el recurso de revisión, ante las salas del Tribunal, ya sea por violaciones en la propia resolución o dentro del proceso que trasciendan al sentido de la misma. Asimismo, procederá contra los acuerdos de los Juzgados que concedan, nieguen o revoquen la suspensión.
+Las resoluciones de los Juzgados que pongan fin al proceso administrativo podrán ser impugnadas por las partes mediante el recurso de revisión, ante las salas del Tribunal, ya sea por violaciones en la propia resolución o dentro del proceso que trasciendan al sentido de la misma. Asimismo, procederá contra los acuerdos de los Juzgados que concedan, nieguen o revoquen la suspensión, así como las que desechen la demanda.
 
 ###### Artículo 313.
 
@@ -2707,7 +2801,7 @@ Transcurrido ese plazo, el Magistrado dentro de los diez días siguientes, dicta
 
 ## TÍTULO QUINTO. EXCITATIVAS DE JUSTICIA
 
-### CAPÍTULO SEGUNDO. DEL RECURSO DE QUEJA
+### CAPÍTULO PRIMERO. DEL CUMPLIMIENTO Y EJECUCIÓN DE LA SENTENCIA
 
 ###### Artículo 315.
 
@@ -2735,6 +2829,8 @@ Cuando un juez en dos ocasiones hubiere sido sustituido conforme a este precepto
 
 ## TÍTULO SEXTO. CUMPLIMIENTO Y EJECUCIÓN DE LA SENTENCIA
 
+### CAPÍTULO SEGUNDO. DEL RECURSO DE QUEJA
+
 ###### Artículo 319.
 
 La cosa juzgada es la verdad legal y contra ella no es admisible recurso, ni prueba alguna, salvo los casos expresamente determinados por la Ley Hay cosa juzgada cuando la sentencia ha causado ejecutoria.
@@ -2761,13 +2857,15 @@ Cuando una sentencia ejecutoria sea favorable a un particular, el juzgador la no
 
 Se podrá tener por cumplida la sentencia mediante convenio celebrado por las partes, siempre y cuando la forma de cumplimiento no afecte el orden público, ni derechos de terceros, el cual surtirá todos sus efectos legales una vez que sea ratificado por el Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2020)</small>
+
 ###### Artículo 322.
 
-Si dentro de los quince días siguientes a aquél en que haya causado ejecutoria la sentencia, ésta no se cumpliere, el juzgador de oficio o a petición de parte, hará uso de los medios de apremio previstos por este Código.
+Si dentro de los cinco días siguientes a aquél en que haya causado ejecutoria la sentencia, ésta no se cumpliere, el juzgador de oficio o a petición de parte, hará uso de los medios de apremio previstos por este Código.
 
 Si una vez agotados los medios de apremio, persistiere el incumplimiento de la sentencia, el juzgador podrá decretar la destitución del servidor público que la incumplió.
 
-En caso de que el incumplimiento sea realizado por una autoridad que goce de fuero constitucional, se procederá conforme a la Ley de la materia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE ABRIL DE 2020)</small>
 
 ###### Artículo 323.
 
@@ -2908,3 +3006,13 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 173 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNCIPIOS DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Pleno del Tribunal de Justicia Administrativa expedirá los lineamientos que permitan dar cumplimiento al presente Decreto, a más tardar doscientos cuarenta días después de la entrada en vigor del presente Decreto.
+
+Artículo Tercero. Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto continuarán rigiéndose por las disposiciones anteriores.
