@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2019-10-31"
+last_updated: "2020-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -151,9 +151,17 @@ j. Fiscalía Especializada en Justicia para Adolescentes;
 
 k. Fiscalía de Unidades Especializadas;
 
-l. Unidad de Inteligencia Financiera, y
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
 
-m. Unidad de Procedimientos de Extinción de Dominio.
+l. Unidad de Inteligencia Patrimonial y Económica;
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+m. Unidad de Procedimientos de Extinción de Dominio, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ABRIL DE 2020)</small>
+
+n. Fiscalía Especializada en Delitos Contra la Tortura.
 
 II. Fiscalía de Contraloría y Visitaduría;
 
@@ -181,9 +189,11 @@ El Fiscal General podrá establecer con las distintas Fiscalías y Unidades, aqu
 
 La Fiscalía General del Estado contará con Fiscales del Ministerio Público, policía de investigación, analistas, auxiliares y peritos, así como con el personal profesional, técnico y administrativo necesario para la realización de sus funciones, en términos de las disposiciones legales aplicables. Asimismo, podrá apoyarse de personal especializado de otras dependencias gubernamentales cuando las necesidades del servicio, la ley y los convenios aplicables así lo requieran, estipulen o permitan.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
+
 ###### Artículo 10.
 
-Responsabilidad administrativa. La Fiscalía General contará con un Órgano Interno de Control, con facultades y competencia para iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa en los términos previstos en la Ley de Responsabilidades Administrativas del Estado de Baja California. En el procedimiento de responsabilidad administrativa, deberá (sic) observarse los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, verdad material y respeto a los derechos humanos.
+Responsabilidad Administrativa. La Fiscalía General contará con un Órgano Interno de Control denominado Fiscalía de Contraloría y Visitaduría, con facultades y competencia para iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa en los términos previstos en la Ley de Responsabilidades Administrativas del Estado de Baja California. Además, contará con las facultades otorgadas a la Contraloría Interna en la Ley de Seguridad Pública del Estado de Baja California. En el procedimiento de responsabilidad administrativa, deberá (sic) observarse los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, verdad material y respeto a los derechos humanos.
 
 ###### Artículo 11.
 
@@ -483,11 +493,21 @@ X. Fiscalía Especializada en Justicia para Adolescentes;
 
 XI. Fiscalía de Unidades Especializadas;
 
-XII. Unidad de Inteligencia Financiera;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2020)</small>
 
-XIII. Unidad de Procedimientos de Extinción de Dominio, y
+XII. Unidad de Inteligencia Patrimonial y Económica;
 
-XIV. Los demás entes administrativos que determine el Fiscal General del Estado conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2020)</small>
+
+XIII. Unidad de Procedimientos de Extinción de Dominio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2020)</small>
+
+XIV. Fiscalía Especializada en Delitos Contra la Tortura, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE ABRIL DE 2020)</small>
+
+XV. Los demás entes administrativos que determine el Fiscal General del Estado conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
 
 El Fiscal Central ejercerá el mando y autoridad jerárquica en términos de Ley, sobre los servidores públicos que formen parte de su estructura, incluidos los fiscales regionales y especializados.
 
@@ -495,21 +515,29 @@ La demarcación territorial de las Fiscalías Regionales corresponderá a las mi
 
 Cada Fiscalía Regional, contará a su vez, con las unidades especializadas, coordinaciones y demás estructura que el Reglamento de la presente Ley y el Fiscal General del Estado determinen, conforme a la disponibilidad presupuestal y necesidades prioritarias del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2020)</small>
+
 ###### Artículo 25.
 
-Fiscalía de Contraloría y Visitaduría. La Fiscalía de Contraloría y Visitaduría tendrá a su cargo prevenir, corregir, investigar, substanciar y calificar actos u omisiones de los de (sic) servidores públicos de la Fiscalía General del Estado de Baja California y de particulares vinculados a éstas con faltas graves; para sancionar a través del Órgano Interno de Control, aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, y aplicación de recursos públicos; así como investigar hechos u omisiones que pudieran ser constitutivos de delito.
+Fiscalía de Contraloría y Visitaduría. La Fiscalía de Contraloría y Visitaduría es el órgano interno de control de la Fiscalía General del Estado, tendrá a su cargo prevenir, corregir, investigar, substanciar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Fiscalía y de particulares vinculados con faltas graves; facultad para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, y aplicación de recursos públicos; así como investigar y ejercitar la acción penal respecto de hechos u omisiones que pudieran ser constitutivos de delito.
 
 El Fiscal de Contraloría y Visitaduría será designado por el Fiscal General del Estado, y quien en el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia. La Fiscalía de Contraloría y Visitaduría contará con las siguientes áreas:
 
-I. Dirección de Asuntos Internos y Auditoría Preventiva;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2020)</small>
 
-II. Dirección de Visitaduría y Auditoría al Desempeño, y
+I. Dirección de Investigación de Asuntos Internos y Visitaduría;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2020)</small>
+
+II. Dirección de Responsabilidades Administrativas, y
 
 III. Las demás que establezca el Reglamento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2020)</small>
+
 ###### Artículo 26.
 
-Requisitos para ser Fiscal Especializado. Para ser titular de alguna de las Fiscalías Especializadas de la Fiscalía General del Estado, se deberán cumplir los siguientes requisitos:
+Requisitos para ser Fiscal Central, Fiscal Regional y Fiscal Especializado. Para ser titular de la Fiscalía Central, de alguna de las Fiscalías Regionales o Fiscalías Especializadas, pertenecientes a la Fiscalía General del Estado, se deberán cumplir los siguientes requisitos:
 
 I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles;
 
@@ -545,7 +573,7 @@ b. Dirección General (sic) Protección Institucional y de Personas;
 
 c. Dirección del Grupo Especial de Operaciones;
 
-d. Dirección General de Policía Procesal;
+d. (DEROGADO, P.O. 30 DE ABRIL DE 2020)
 
 e. Dirección de Servicios de Seguridad Privada;
 
@@ -886,3 +914,13 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 64 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 9, 10, 24, 25, 26 Y 29 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: El Fiscal General deberá emitir las disposiciones reglamentarias derivadas del presente decreto en un tiempo que no excederá de 180 días naturales.
