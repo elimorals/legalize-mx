@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-coordinacion-fiscal-del-estado-de-baja-california-2763"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2016-02-10"
+last_updated: "2020-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 1987.
 
@@ -117,11 +119,11 @@ El 20% del total de la recaudación del Impuesto Sobre Automóviles Nuevos, se d
 
 Del total de los impuestos estatales que se recauden durante el ejercicio, con excepción del Impuesto Adicional para la Educación Media y Superior, los Municipios recibirán el 20%, distribuido en proporción a la recaudación obtenida en cada uno de los Municipios en el ejercicio fiscal anterior, por el mismo concepto.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS PORCENTAJES], P.O. 30 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 7o.
 
-BIS.- Con el 9% del total de la recaudación de los impuestos estatales, el Estado constituirá el Fondo Compensatorio, que se distribuirá durante el año 2001 de la siguiente manera:
+BIS.- Con el 9% del total de la recaudación de los impuestos estatales, exceptuando al Impuesto Sobre Servicio de Hospedaje, el Estado constituirá el Fondo Compensatorio, que se distribuirá de la siguiente manera:
 
 28.59% al Municipio de Mexicali.
 
@@ -129,7 +131,13 @@ BIS.- Con el 9% del total de la recaudación de los impuestos estatales, el Esta
 
 15.53% al Municipio de Tecate.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+
 A partir del año 2002, el importe que corresponda a cada Municipio en los términos del párrafo anterior, se actualizará con el factor de inflación que corresponda a cada mes del ejercicio de que se trate. En caso de que el porcentaje del incremento de la recaudación sea mayor de la inflación, el remanente se distribuirá entre todos los Municipios del Estado, en proporción inversa a las participaciones por habitante que tenga cada Municipio, como resultado de la suma de las participaciones que conforme a esta Ley corresponda a los Municipios.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+El 9% del total recaudado por el Impuesto Sobre Servicios de Hospedaje, será distribuido entre los Municipios en proporción a la recaudación obtenida en cada uno de ellos en el ejercicio fiscal anterior, por el mismo concepto.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
@@ -328,3 +336,13 @@ En términos de los artículos 51 de la Ley de Coordinación Fiscal y Décimo Te
 ###### ARTÍCULO TERCERO.
 
 Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal por los adeudos referidos en el artículo anterior y en términos del artículo 51 de la Ley de Coordinación Fiscal, solo podrán solicitarse en el caso de incumplimiento de los pagos correspondientes generados a partir del 1 de enero de 2014, en el entendido de que podrán efectuarse de manera gradual, considerando el 100% de la facturación o acusación de los conceptos citados, con base en al menos, los porcentajes establecidos en el séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación el día 09 de diciembre de 2013.
+
+P.O. 30 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 61 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PÁRRAFO PRIMERO Y ADICIÓN DE UN PÁRRAFO TERCERO DEL ARTÍCULO 7 BIS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veintiuno.
+
+SEGUNDO.- La Secretaría de Hacienda del Estado deberá llevar a cabo las previsiones necesarias para el cumplimiento del presente decreto.
+
+TERCERO.- Los Municipios procurarán que los recursos que reciban con base en la presente reforma, sean destinados para gestión, planeación, capacitación, promoción, difusión de la actividad turística y apoyo de infraestructura turística, llevadas a cabo y ejecutadas por el organismo paramunicipal respectivo encargado del ramo turístico en el Municipio correspondiente.
