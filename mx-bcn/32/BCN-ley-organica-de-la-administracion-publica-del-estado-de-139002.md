@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-139002"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2019-12-31"
+last_updated: "2020-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -323,23 +323,23 @@ L. Coadyuvar en la esfera de su competencia con el Registro Agrario Nacional, en
 
 LI. Proporcionar asesoría y orientación a los municipios de la entidad que lo soliciten, para la adecuada atención de los asuntos relacionados con la propiedad ejidal, comunal y privada;
 
-LII. Integrar, administrar y operar el Sistema Estatal Penitenciario, así como a la Autoridad Administrativa especializada para adolescentes, en los términos de la Ley Nacional de Ejecución Penal, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, respectivamente y demás normatividad aplicable;
+LII. (DEROGADA, P.O. 30 DE ABRIL DE 2020)
 
-LIII. Integrar, administrar, y controlar, los registros y bases de datos de las personas privadas de la libertad que ingresen a los centros de reinserción social y centros de internamiento para adolescentes, en los términos establecidos en la Ley Nacional de Ejecución Penal, y la Ley Nacional del Sistema lntegral de Justicia Penal para Adolescentes, respectivamente y demás normatividad aplicable;
+LIII. (DEROGADA, P.O. 30 DE ABRIL DE 2020)
 
-LIV. Proponer en términos de la ley de la materia, los beneficios de libertad anticipada, que establezcan las disposiciones aplicables;
+LIV. (DEROGADA, P.O. 30 DE ABRIL DE 2020)
 
-LV. Operar y administrar los centros de reinserción social, los centros de internamiento para adolescentes en el Estado, así como administrar el personal del Sistema Estatal Penitenciario, en los términos de la legislación y disposiciones aplicables;
+LV. (DEROGADA, P.O. 30 DE ABRIL DE 2020)
 
-LVI. Supervisar y controlar en términos de la ley de la materia las penas por delitos del orden común, dictadas por las autoridades judiciales competentes, así como por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, siempre y cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
+LVI. (DEROGADA, P.O. 30 DE ABRIL DE 2020)
 
-LVII. Coordinar, vigilar y supervisar el cumplimiento de las medidas cautelares y las condiciones a cumplir, durante la suspensión condicional del proceso, en los términos que establezca la autoridad judicial competente;
+LVII. (DEROGADA, P.O. 30 DE ABRIL DE 2020)
 
 LVIII. Expedir las constancias de antecedentes penales de conformidad con las disposiciones aplicables;
 
 LIX. Operar y administrar el Centro de Evaluación y Control de Confianza del Estado de Baja California en lo relativo al personal del Sistema Estatal Penitenciario;
 
-LX. Conformar y administrar el Sistema de información Penitenciaria del estado; y
+LX. (DEROGADA, P.O. 30 DE ABRIL DE 2020)
 
 LXI. Presidir el Consejo Jurídico Estatal, que será integrado por los titulares de las áreas Jurídicas de las Secretarias de Estado y organismos Descentralizados que integran la administración paraestatal; y
 
@@ -1308,3 +1308,9 @@ P.O. 31 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 38 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 28 Y SE ADICIONA EL TÍTULO V, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 58 MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DE LA LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
