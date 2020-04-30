@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2019-11-26"
+last_updated: "2020-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1938,6 +1938,10 @@ La Secretaría de Salud del Estado con el fin de preservar la salud pública, se
 ###### ARTICULO 114.
 
 El aislamiento de las personas que padezcan enfermedades transmisibles, se llevará a cabo en sitios adecuados a juicio de las autoridades de salud.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+Durante una epidemia como el COVID 19 o conforme lo previsto en el artículo 103 de esta ley, la autoridad sanitaria, podrá rastrear, encontrar y aislar a cualquier persona confirmada, de ser portadora de un padecimiento contagioso. El aislamiento irá acompañado de atención médica, lo realizará en el lugar que determine y por el plazo que considere. Para el éxito del aislamiento, en caso de negativa se podrá auxiliar de la autoridad de Seguridad Pública de cualquiera de los tres niveles de gobierno. El aislamiento ordenado por escrito por la autoridad sanitaria, impide a la persona de que se trate, a moverse del lugar determinado.
 
 ###### ARTICULO 115.
 
@@ -4544,3 +4548,13 @@ P.O. 26 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0673.- SE ADICIONA AL ARTÍCULO 114 EL PÁRRAFO SEGUNDO, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La presente sustituye la Minuta de Decreto aprobada en sesión ordinaria de fecha del 17 de abril del presente año, la cual adiciona al artículo 114 un segundo párrafo de la Ley de Salud del Estado de San Luis Potosí.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
