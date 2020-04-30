@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2020-04-24"
+last_updated: "2020-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -951,9 +951,17 @@ I. El Centro de Investigaciones Legislativas;
 
 II. El Sistema de Radio y Televisión del Congreso del Estado;
 
-III. La Contraloría del Congreso del Estado; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2020)</small>
 
-IV. La Unidad de Vigilancia.
+III. La Contraloría del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2020)</small>
+
+IV. La Unidad de Vigilancia, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2020)</small>
+
+V. La Unidad de Igualdad de Género y No Discriminación.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -1090,6 +1098,32 @@ XIV. Las demás que le concedan la legislación general y estatal aplicable.
 3. El titular de la Unidad de Vigilancia es electo por el Congreso del Estado, mediante el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, previa convocatoria pública a la sociedad y dura en el cargo cuatro años sin posibilidad de reelección.
 
 4. Para ser titular de la Unidad de Vigilancia se debe cumplir con los mismos requisitos que para ser Auditor Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### Artículo 65 Bis.
+
+1. La Unidad de Igualdad de Género y No Discriminación del Congreso del Estado es el órgano técnico, con autonomía técnica, que depende de la Asamblea y tiene por objeto la institucionalización de la perspectiva de género en la cultura organizacional, de conformidad con su reglamento interno.
+
+2. La Unidad de Igualdad de Género y No Discriminación contará con las siguientes atribuciones y facultades:
+
+I. Impulsar e implementar medidas dirigidas a garantizar la igualdad sustantiva en todas las actividades del Congreso del Estado;
+
+II. Promover e implementar acciones internas para garantizar un ambiente libre de violencia,
+
+III. Coadyuvar con las instancias internas para prevenir, atender y erradicar el hostigamiento y acoso sexual y laboral;
+
+IV. Promover políticas laborales dirigidas a generar mecanismos para la conciliación de la vida laboral, familiar y personal;
+
+V. Impulsar la elaboración de publicaciones y contenidos editoriales que permita consolidar la institucionalización de la perspectiva de género en el Poder Legislativo;
+
+VI. Promover e implementar procesos de capacitación y especialización de las y los servidores públicos en materia de derechos humanos, perspectiva de género e igualdad sustantiva;
+
+VII. Promover la producción y sistematización de información al interior del Poder Legislativo con perspectiva de género, y
+
+VIII. Las demás que sean necesarias para el logro de sus objetivos.
+
+3. La Unidad de Igualdad de Género y No Discriminación estará a cargo de una Directora nombrada por el pleno de la asamblea, a propuesta de la Comisión de Igualdad Sustantiva y de Género, la cual contará con los elementos y la infraestructura adecuada para su funcionamiento.
 
 > <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3768,3 +3802,11 @@ P.O. 24 DE ABRIL DE 2020.
 Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 Segundo. El Secretario General en un término no mayor a 8 días naturales, contados a partir del día siguiente de la entrada vigor del presente decreto, deberá contar con las condiciones técnicas necesarias a fin de que las y los diputados puedan sesionar conforme a lo previsto en el presente decreto.
+
+P.O. 30 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27886/LXII/120 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 58 Y ADICIONA UN ARTÍCULO 65 BIS, AMBOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, CON OBJETO DE PROMOVER LA INSTITUCIONALIZACIÓN DE LA PERSPECTIVA DE GÉNERO A TRAVÉS DE LA CREACIÓN DE LA UNIDAD DE IGUALDAD DE GÉNERO Y NO DISCRIMINACIÓN DEL PODER LEGISLATIVO DE LA ENTIDAD".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría General contará con un plazo de 90 días naturales a partir de la publicación del presente decreto para la implementación de las acciones derivadas de las disposiciones contenidas en el presente instrumento.
