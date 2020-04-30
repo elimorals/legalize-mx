@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-municipio-de-mexicali-baja-california-14076
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2020-04-03"
+last_updated: "2020-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
 
 Ley publicada en el Número Especial 67, Sección III del Periódico Oficial del Estado de Baja California, el martes 31 de diciembre de 2019.
 
@@ -57,7 +57,9 @@ III.- Los Derechos por los Servicios que Presta el Departamento de Depósitos Ve
 
 IV.- Derecho de Alumbrado Público.
 
-V.- Los Servicios que Presten los Organismos Descentralizados y las Empresas de Participación Municipal establecidos en el Título Octavo, Capítulo II, numeral 9, excepto los comprendidos en los artículos 75 y 77 de esta Ley.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2020)</small>
+
+V.- Los Servicios que Presten los Organismos Descentralizados y las Empresas de Participación Municipal establecidos en el Título Octavo, Capítulo II, numeral 9, excepto los comprendidos en los artículos 76 y 78 de esta Ley.
 
 (NOTA: EL 13 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, TEMAS I, II, III Y IV, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
