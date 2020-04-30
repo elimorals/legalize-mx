@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-140204"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2019-12-31"
+last_updated: "2020-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
 
 Ley publicada en la Sección I del Número Especial del Periódico Oficial del Estado de Baja California, el martes 31 de diciembre de 2019.
 
@@ -297,39 +297,15 @@ d) Presentar declaración mensual de pago en los términos del presente artícul
 
 ### CAPÍTULO VIII. IMPUESTO AMBIENTAL SOBRE VENTA DE GASOLINA Y DEMÁS DERIVADOS DEL PETRÓLEO POR AFECTACIÓN DEL MEDIO AMBIENTE
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 8 BIS.- Se establece el Impuesto Ambiental sobre Venta de Gasolina y demás derivados del petróleo del distribuidor por afectación del Medio Ambiente de acuerdo a lo siguiente:
-
-I. Es objeto de este impuesto la percepción de ingresos por operaciones de venta de gasolina, los derivados del petróleo, y derivados del gas licuado del petróleo que se realicen, dentro del territorio del Estado.
-
-II. Serán sujetos del presente impuesto quienes realicen operaciones y perciban los ingresos a que se refiere el presente artículo.
-
-III. Es base de este gravamen el monto total de los ingresos objeto del impuesto, que se perciban mensualmente por los causantes de este. Este impuesto se causará, liquidará y pagará, con una tasa del 5% sobre la base gravable de la venta del licuado del petróleo y sus derivados, y una tasa del 2.5% sobre la base gravable de la venta de la gasolina y los derivados del petróleo.
-
-IV. El pago de este impuesto se hará los días veinticinco del mes siguiente, ante la secretaría, presentándose al efecto una manifestación en las formas aprobadas por la propia secretaria.
+ARTÍCULO 8 BIS.- (DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 62, P.O. 30 DE ABRIL DE 2020)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO IX. IMPUESTO A LAS CASAS DE EMPEÑO
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
-
 ###### ARTÍCULO 8
 
-TER.- Se establece el Impuesto a casas de empeño, DE ACUERDO A LO SIGUIENTE:
-
-I. Es (sic) objeto de este impuesto, ES GRAVAR aquellos bienes dados en prenda que no sean recuperados por el deudor prendario y sean posteriormente enajenados. El impuesto se causará en la fecha en la que el bien dado en prenda se enajene al público en general.
-
-II. Son sujetos de este impuesto las personas físicas y morales que, en el territorio del estado de Baja California, en forma habitual o profesional, realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes y autoridades financieras.
-
-III. La base del impuesto será la diferencia entre el monto del avalúo que sirve de base para el otorgamiento del crédito prendario y el monto de la enajenación del bien otorgado en garantía prendaria que celebren los sujetos de este impuesto con el público en general.
-
-El monto del avalúo es la valoración del bien mueble dado en prenda, que queda consignado en la boleta o billete de empeño, contrato o cualquier otra denominación que se otorgue al documento en el que se formalice el préstamo otorgado, los intereses pactados y cualquier otro gasto por parte del prestamista, así como el plazo para la recuperación del bien dado en prenda.
-
-IV. La cuota a enterar por concepto del presente impuesto será de20% (sic) A LA DIERENCIA MENCIONADA EN LA FRACCION III.
-
-V. El impuesto se pagará mensualmente ante las oficinas de la Recaudación de Rentas del Estado, mediante declaración mensual definitiva que presentarán los contribuyentes, a más tardar el día 25 del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
+TER.- (DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 62, P.O. 30 DE ABRIL DE 2020)
 
 ## TÍTULO TERCERO. CONTRIBUCIONES DE MEJORAS
 
@@ -2230,3 +2206,19 @@ P.O. 31 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 40 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 6 DEL CAPÍTULO V, ARTÍCULO 8 BIS DEL CAPÍTULO VIII, ARTÍCULO 8 TER DEL CAPÍTULO IX, DE LA LEY DE INGRESOS PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 Único.- Una vez aprobadas las presentes modificaciones incorpórense a ley de Ingresos para el ejercicio fiscal 2020
+
+P.O. 30 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 62 MEDIANTE EL CUAL SE REFORMA EL TÍTULO SEGUNDO, CAPÍTULO IX, ARTÍCULOS 133, 134, 135 Y 136, Y SE ADICIONAN LOS ARTÍCULOS 136-1, 136-2, 136-3, 136-4, 136-5, 136-6, Y 136-7, Y SE REFORMA EL CAPÍTULO XIX, ARTÍCULO 156-9, CAPÍTULO XXII, ARTÍCULO 156-48 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor de la presente reforma, se derogan los artículos 8 BIS y 8-TER de la Ley de Ingresos del Estado de Baja California para el ejercicio fiscal del año 2020, mismos que fueron incorporados mediante Decreto número 40 publicado en fecha 31 de diciembre de 2019, en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor de la presente reforma, se deroga (sic) artículo TERCERO TRANSITORIO del Decreto número 39 mediante el cual se reforman los artículos 133, 134, 135, 136 y se reforma el Título Segundo y adiciona el Capítulo XXII, las Secciones Primera, Segunda, Tercera y los Artículos 156-46, 156-47, 156-48 y 156-49 de la Ley de Hacienda del Estado de Baja California, publicado en fecha 31 de diciembre de 2019 en el Periódico Oficial del Estado de Baja California.
