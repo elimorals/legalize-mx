@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2019-12-31"
+last_updated: "2020-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1059,33 +1059,119 @@ Los intermediarios, promotores o facilitadores a los que hace referencia el art�
 
 ARTICULO 132 BIS.- No causarán este impuesto, los servicios de hospedaje que se reciban en hospitales, clínicas, asilos, conventos, seminarios e internados.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ABRIL DE 2020)</small>
 
-### CAPITULO IX. IMPUESTO SOBRE VENTA DE PRIMERA MANO DE GASOLINA Y DEMAS DERIVADOS DEL PETROLEO POR AFECTACIÓN AL MEDIO AMBIENTE
+### CAPITULO IX. IMPUESTO AMBIENTAL POR LA EMISIÓN DE GASES A LA ATMÓSFERA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+(NOTA: EL 14 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 119/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 133.
 
-Es objeto de este impuesto la percepción de ingresos por operaciones de venta de gasolina, los derivados del petróleo, y derivados del gas licuado del petróleo que se realicen por primera vez, dentro del territorio del Estado. Serán sujetos del impuesto quienes perciban los ingresos a que se refiere el presente artículo.
+El objeto de este impuesto son las emisiones a la atmósfera de determinadas sustancias que se generan por la utilización de bienes o consumo de productos contaminantes en el Estado y que afecten el territorio del mismo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+Para los efectos de este impuesto se considera emisión a la atmósfera, la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluoro-carbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
+
+(NOTA: EL 14 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 119/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 134.
 
-Es base de este gravamen el monto total de los ingresos objeto del impuesto, que se perciban mensualmente por los causantes de este. Este impuesto se causará, liquidará y pagará, con una tasa del 5% sobre la base gravable de la venta del gas natural y sus derivados, y una tasa del 2.5 % sobre la base gravable de la venta de la gasolina y los derivados del petróleo.
+Son sujetos de este impuesto, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se expendan al consumidor final bienes o productos que generen emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+(NOTA: EL 14 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 119/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 135.
 
-El pago de este impuesto se hará dentro de los quince días de cada mes, ante la secretaria, presentándose al efecto una manifestación en las formas aprobadas por la propia secretaria.
+La base del Impuesto es el total de kilogramos de sustancias contaminantes a la atmósfera por los bienes o productos adquiridos por el consumidor final, conforme a lo establecido en la presente Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2019)</small>
+(NOTA: EL 14 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 119/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 136.
 
-La Secretaria podrá celebrar convenios con Petróleos Mexicanos para que la recaudación de este impuesto se realice por conducto de la mencionada institución, en los términos del Reglamento del artículo 21 de la Ley del Impuesto sobre Consumo de Gasolina
+Para la determinación de la base gravable y pago del impuesto, el contribuyente se estará a la siguiente tabla de equivalencias:
+
+Bien o Producto Factor de Emisión
+
+Gasolina 2.196 kg CO2/litro
+
+Diésel 2.471 kg CO2/litro
+
+Gas Natural 2.690 kg CO2/kilogramo
+
+Gas LP 3.000 kg CO2/kilogramo
+
+El impuesto a pagar se determina aplicando la cuota de $0.17 pesos por cada litro o kilogramo de CO2, según corresponda conforme al factor de emisión previsto en la tabla del presente artículo.
+
+(NOTA: EL 14 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 119/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### ARTICULO 136
+
+1.- El impuesto no deberá trasladarse a las personas que adquieran los bienes referidos en el artículo anterior.
+
+(NOTA: EL 14 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 119/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### ARTICULO 136
+
+2.- Los contribuyentes del presente impuesto, pagarán el mismo, sin que proceda acreditamiento alguno contra dicho pago.
+
+(NOTA: EL 14 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 119/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### ARTICULO 136
+
+3.- El impuesto se calculará mensualmente y se enterará al Estado a más tardar el día 25 del mes siguiente a aquél al que corresponda el pago. Los pagos mensuales se realizarán en los términos que para el pago de contribuciones se establecen en el Código Fiscal del Estado de Baja California, y tendrán el carácter de definitivos.
+
+(NOTA: EL 14 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 119/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### ARTICULO 136
+
+4.- El impuesto se causa en el momento de la entrega material del bien o producto contaminante cuya utilización o consumo genera emisiones a la atmósfera objeto de este impuesto.
+
+(NOTA: EL 14 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 119/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### ARTICULO 136
+
+5.- Los contribuyentes de este impuesto tienen, además de las obligaciones señaladas en este capítulo y en las demás disposiciones fiscales, las siguientes:
+
+I.- Llevar la contabilidad de conformidad con el Código Fiscal del Estado, y conforme a las Reglas de Carácter General que en su caso emita la Secretaría de Hacienda. Asimismo, se deberán identificar las operaciones por las que deba pagarse este impuesto.
+
+II.- Presentar las declaraciones relativas al impuesto previsto en el presente capítulo. Si un contribuyente tuviera varios establecimientos en el Estado, presentará una declaración por cada establecimiento, o bien una concentrada por todo el Estado.
+
+III.- Proporcionar la información que en relación con este impuesto se les solicite en las declaraciones respectivas.
+
+IV.- Registrar la obligación de pago del presente impuesto y los establecimientos en los que se realicen las actividades gravadas, ante la Recaudación de Rentas del Estado respectiva, dentro de los 15 días siguientes a que inicie operaciones o a que empiece a enajenar los bienes referidos en este capítulo.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### ARTICULO 136
+
+6.- No se causará por la presente contribución el impuesto adicional para la educación media y superior.
+
+(NOTA: EL 14 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 119/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### ARTICULO 136
+
+7.- De la Recaudación obtenida por concepto de este impuesto, corresponde el 20% a los Municipios del Estado, distribuyéndose en proporción a la recaudación del mismo obtenida en cada uno de los Municipios en el ejercicio fiscal anterior, procurando destinar de manera preferente dicho recurso para la promoción y desarrollo de programas en favor del medio ambiente. En virtud de ello, este impuesto no se considerará para la determinación de las participaciones a que se refiere el artículo 7 de la Ley de Coordinación Fiscal del Estado de Baja California, ni para el fondo compensatorio a que se refiere el artículo 7 Bis de la citada ley.
+
+El Estado destinará de manera preferente el 80% de la recaudación de este Impuesto para la promoción y desarrollo de programas en favor del medio ambiente.
 
 ### CAPITULO X. Impuesto Sobre Diversiones y Espectáculos Públicos
 
@@ -1735,11 +1821,13 @@ Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualqu
 
 Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en este capítulo.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 156
 
-9.- El impuesto previsto en esta sección se causará y pagará con independencia de los impuestos a que se refiere la Sección Segunda de este Capítulo y el Capítulo XVII de esta Ley.
+9.- El impuesto previsto en esta sección se causará y pagará con independencia de los impuestos a que se refiere la Sección Segunda de este Capítulo.
+
+No obstante, lo señalado en el párrafo anterior, el impuesto previsto en el presente Capítulo no causará el impuesto adicional para la educación media y superior.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2433,11 +2521,11 @@ DE LOS SUJETOS Y EL OBJETO
 
 El monto del avalúo es la valoración del bien mueble dado en prenda, que queda consignado en la boleta o billete de empeño, contrato o cualquier otra denominación que se otorgue al documento en el que se formalice el préstamo otorgado, los intereses pactados y cualquier otro gasto por parte del prestamista, así como el plazo para la recuperación del bien dado en prenda.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 156
 
-48.- El pago de este impuesto se efectuará mediante declaración mensual definitiva que presentarán los contribuyentes en las oficinas autorizadas por la Secretaría de Hacienda del Estado, a más tardar el día 17 del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
+48.- El pago de este impuesto se efectuará mediante declaración mensual definitiva que presentarán los contribuyentes en las oficinas autorizadas por la Secretaría de Hacienda del Estado, a más tardar el día 25 del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2452,6 +2540,52 @@ El monto del avalúo es la valoración del bien mueble dado en prenda, que queda
 I. Llevar y conservar los registros contables y administrativos de conformidad con las leyes y demás disposiciones aplicables.
 
 II. Mantener en los establecimientos o sucursales en los cuales se realicen las operaciones o contrataciones materia de este impuesto, las boletas o billetes de empeño y contratos, o cualquier otro documento que sustenten tales operaciones o contrataciones y permitan la plena identificación del deudor prendario incluyendo su domicilio y número telefónico, así como exhibirlos cuando las autoridades competentes lo requieran.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ABRIL DE 2020)</small>
+
+### CAPITULO XXIII. IMPUESTO A EMPRESAS DE REDES DE TRANSPORTE
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### Artículo 156
+
+50.- El objeto de este impuesto es el ingreso o contraprestaciones que perciben las empresas de redes de transporte por la tarifa cobrada ya sea en medios de pago electrónico, en efectivo o en algorítmicos de fidelidad, por cada traslado iniciado dentro del territorio del Estado de Baja California.
+
+Se entenderán como empresas de redes de transporte, aquellas personas físicas o morales cuyo servicio se limita exclusivamente a intermediar vía electrónica la oferta, contratación y pago de servicios de transporte público o privado de pasajeros, vinculado a través de dicha aplicación a usuarios con prestadores del servicio en cualquiera de sus modalidades autorizadas y registradas ante el Instituto de Movilidad Sustentable del Estado de Baja California.
+
+También podrán ser considerados como Empresas de Redes de Transportes aquellas sociedades mercantiles nacionales o extranjeras que, por virtud de acuerdos comerciales vigentes, promuevan el uso de tecnológicas o aplicaciones tecnológicas, propias o de terceros que permitan a usuarios del estado acceder al servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### Artículo 156
+
+51.- Son sujetos de este impuesto las empresas de redes de transporte que promuevan, administren u operen traslados dentro del territorio del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### Artículo 156
+
+52.- La base del impuesto lo constituyen los ingresos o contraprestaciones de todo tipo y las tarifas cobradas por las empresas de redes de transporte al usuario o beneficiario del servicio de transporte por cualesquier medio de pago, sea este electrónico, en efectivo o algorítmico de fidelidad que inicie un traslado dentro del Estado de Baja California. Se aplicará a la base del impuesto una tasa del 1.50% (uno y medio por ciento).
+
+No se considera para la base del presente impuesto, el Impuesto al Valor Agregado que se hubiere trasladado según la legislación fiscal.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### Artículo 156
+
+53.- Los causantes, deberán presentar declaración mensual en las formas aprobadas por la Secretaría, pudiendo ser estos por medios electrónicos en los formatos aprobados por esta misma, y se enterará el impuesto causado a más tardar el día 25 del mes siguiente a aquél en que se hubieren obtenido o pagado los ingresos gravados.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2020)</small>
+
+###### Artículo 156
+
+54.- Quienes se encuentren dentro de los supuestos del presente Capítulo, además de efectuar el cálculo y entero de este impuesto, tendrán las siguientes obligaciones:
+
+I. Solicitar su inscripción ante el Registro Estatal de Causantes de la Secretaría de Hacienda del Estado como causante o retenedor, utilizando para tales efectos las formas o medios aprobados por la Secretaría.
+
+II. Entregar una copia del acta o documento constitutivo, así como los datos de identificación y acreditación de la personalidad del representante o representantes legales designados para oír y recibir notificaciones en el estado de Baja California contando en todo momento con un domicilio fiscal y físico.
+
+III. Conservar la documentación relacionada con las cantidades calculadas de las tarifas efectivamente cobradas de este impuesto, por un plazo no menor a cinco años.
 
 ## TITULO III. DERECHOS
 
@@ -3455,7 +3589,7 @@ La Secretaría de Hacienda realizará las prevenciones financieras necesarias en
 
 P.O. 31 DE DICIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 39 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 133, 134, 135, 136 Y SE REFORMA EL TÍTULO SEGUNDO Y ADICIONA EL CAPÍTULO XXII, LAS SECCIONES PRIMERA, SEGUNDA, TERCERA Y LOS ARTÍCULOS 156-46, 156-47, 156-48 Y 156-49 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 39 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 133, 134, 135, 136 Y SE REFORMA EL TÍTULO SEGUNDO Y ADICIONA EL CAPÍTULO XXII, LAS SECCIONES PRIMERA, SEGUNDA, TERCERA Y LOS ARTÍCULOS 156-46, 156-47, 156-48 Y 156-49 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3467,7 +3601,7 @@ La Secretaría de Hacienda del Estado realizara las acciones administrativas per
 
 ###### ARTÍCULO TERCERO.
 
-Aprobadas la (sic) presentes reformas se incorporarán en la Ley de Ingresos de (sic) Estado para el ejercicio fiscal 2020, los impuestos previstos por la presente iniciativa de decreto, así como los ingresos proyectados.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 62 PUBLICADO EN EL P.O. 30 DE ABRIL DE 2020)
 
 ###### ARTÍCULO CUARTO.
 
@@ -3476,3 +3610,27 @@ La Secretaría de Hacienda preverá en el presupuesto de egresos del ejercicio f
 ###### ARTÍCULO QUINTO.
 
 La Secretaría de Hacienda realizará las prevenciones financieras necesarias en el ejercicio fiscal 2020, para contar con una plataforma digital eficiente de cobro del impuesto previsto en la presente iniciativa de Decreto.
+
+P.O. 30 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 62 MEDIANTE EL CUAL SE REFORMA EL TÍTULO SEGUNDO, CAPÍTULO IX, ARTÍCULOS 133, 134, 135, 136 Y SE ADICIONAN LOS ARTÍCULOS 136-1, 136-2, 136-3, 136-4, 136-5, 136-6 Y 136-7, Y SE REFORMA EL CAPÍTULO XIX, ARTÍCULO 156-9, CAPÍTULO XXII, ARTÍCULO 156-48 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor de la presente reforma, se derogan los artículos 8 BIS y 8-TER de la Ley de Ingresos del Estado de Baja California para el ejercicio fiscal del año 2020, mismos que fueron incorporados mediante Decreto número 40 publicado en fecha 31 de diciembre de 2019, en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor de la presente reforma, se deroga (sic) artículo TERCERO TRANSITORIO del Decreto número 39 mediante el cual se reforman los artículos 133, 134, 135, 136 y se reforma el Título Segundo y adiciona el Capítulo XXII, las Secciones Primera, Segunda, Tercera y los Artículos 156-46, 156-47, 156-48 y 156-49 de la Ley de Hacienda del Estado de Baja California, publicado en fecha 31 de diciembre de 2019 en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 63 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL CAPÍTULO XXIII DENOMINADO “IMPUESTO A EMPRESAS DE REDES DE TRANSPORTE”, Y ARTÍCULOS 156-50, 156-51, 156-52, 156-53 Y 156-54 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
