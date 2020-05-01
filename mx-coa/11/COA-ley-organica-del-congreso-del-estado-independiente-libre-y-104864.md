@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2019-12-20"
+last_updated: "2020-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -79,7 +79,9 @@ La sede del Congreso del Estado de Coahuila de Zaragoza es la ciudad capital de 
 
 Se consideran recintos oficiales, todas las instalaciones, inmuebles u oficinas del Congreso del Estado que sean utilizadas para los trabajos del Pleno, comisiones y dependencias directivas o administrativas.
 
-El Congreso del Estado sesionará únicamente en los recintos oficiales, salvo caso fortuito o de fuerza mayor, o cuando por causas especiales lo acuerde el Pleno por mayoría calificada, y sólo provisionalmente para desahogar los asuntos concretos acordados.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2020)</small>
+
+El Congreso del Estado sesionará únicamente en los recintos oficiales, salvo caso fortuito o de fuerza mayor, o cuando por causas especiales lo acuerde el Pleno por mayoría calificada, y sólo provisionalmente para desahogar los asuntos concretos acordados. En este último caso también podrá celebrar sesiones virtuales o en línea, y en tiempo real a través de medios electrónicos.
 
 El decreto que autorice la declaratoria de nuevos recintos oficiales, deberá publicarse en el Periódico Oficial del Gobierno del Estado.
 
@@ -841,7 +843,9 @@ La Junta de Gobierno acordará lo relativo a la duración y formato de las sesio
 
 Son funciones de la Junta de Gobierno, las siguientes:
 
-I. Colaborar para la optimización de las funciones legislativas del Congreso;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2020)</small>
+
+I. Colaborar para la optimización de las funciones legislativas del Congreso y emitir los acuerdos que considere necesarios para el buen desarrollo de las sesiones;
 
 II. Proponer al Pleno la integración de las comisiones permanentes y de los comités; así como al Pleno o a la Diputación Permanente, la integración de comisiones especiales;
 
@@ -869,7 +873,9 @@ X. Coadyuvar en la realización de las funciones de las comisiones permanentes y
 
 XI. Proponer la realización de foros, reuniones de trabajo y otros eventos en que se analicen y recaben opiniones sobre los asuntos que debe atender el Congreso;
 
-XII. Hacer propuestas sobre el desarrollo de las sesiones ordinarias, extraordinarias y solemnes, así como de la Diputación Permanente; y sobre las comparecencias de las y los Secretarios del Despacho del Poder Ejecutivo, relacionadas con el análisis del informe del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2020)</small>
+
+XII. Hacer propuestas sobre el desarrollo y forma en que deba realizarse las sesiones ordinarias, extraordinarias y solemnes, así como de la Diputación Permanente; y sobre las comparecencias de las y los Secretarios del Despacho del Poder Ejecutivo, relacionadas con el análisis del informe del Gobernador del Estado;
 
 XIII. Determinar sobre quienes deben participar en las comparecencias de las y los Secretarios del Despacho del Poder Ejecutivo;
 
@@ -1637,9 +1643,11 @@ Cuando la materia de un asunto así lo requiera, éste podrá turnarse hasta a d
 
 En estos casos, la comisión que se mencione en primer término será la encargada de convocar y coordinar los trabajos correspondientes; y para el estudio, discusión y formulación del dictamen, se seguirá el procedimiento establecido en esta ley para el trabajo en comisiones. Para la aprobación del dictamen correspondiente, se hará una votación general, siguiendo los mismos lineamientos que se dan en esta ley, para las votaciones en las comisiones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 121.
 
-Para el despacho de los asuntos que les hayan sido turnados por el Pleno del Congreso o la Diputación Permanente, las comisiones se reunirán a convocatoria de su coordinador, donde se señalará lugar, fecha y hora de la sesión o cuando lo acuerden las dos terceras partes de sus integrantes.
+Para el despacho de los asuntos que les hayan sido turnados por el Pleno del Congreso o la Diputación Permanente, las comisiones se reunirán a convocatoria de su coordinador, donde se señalará lugar, fecha y hora de la sesión o cuando lo acuerden las dos terceras partes de sus integrantes. Estas se podrán realizar de manera excepcional, en forma virtual o en línea, y en tiempo real a través de medios electrónicos, por causas especiales, de caso fortuito o fuerza mayor.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2527,13 +2535,15 @@ Los trámites a que se refiere este capítulo no son dispensables.
 
 ### CAPÍTULO V. De las Sesiones del Pleno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 217.
 
-Las sesiones del Pleno serán Ordinarias, Extraordinarias o Solemnes, su desarrollo y trabajos estarán regulados en términos del Reglamento de Sesiones del Congreso de Estado.
+Las sesiones del Pleno serán Ordinarias, Extraordinarias o Solemnes, su desarrollo y trabajos estarán regulados en términos del Reglamento Interior y de Prácticas Parlamentarias del Congreso de Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2020)</small>
 
-A solicitud de la Junta de Gobierno, el Pleno del Congreso del Estado podrá autorizar que las sesiones del Pleno se realicen bajo la modalidad del Congreso Itinerante.
+A solicitud de la Junta de Gobierno, el Pleno del Congreso del Estado podrá autorizar que las sesiones del Pleno se realicen bajo la modalidad del Congreso Itinerante; asimismo el Pleno del Congreso o la Diputación Permanente en su caso, autorizarán que las sesiones se realicen de manera virtual o en línea, y en tiempo real a través de medios electrónicos, cuando concurra alguna las causas a que se refiere el artículo 221 Bis de esta Ley, previo acuerdo de la Junta de Gobierno.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -2596,6 +2606,18 @@ V. En caso de visitas oficiales de delegaciones parlamentarias del Congreso de l
 VI. La sesión en que se haga entrega de preseas; y,
 
 VII. Cuando el Pleno considere que existe algún hecho o evento que revista importancia relevante.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2020)</small>
+
+ARTÍCULO 221 BIS. Se podrán realizar sesiones virtuales o en línea, y en tiempo real a través de medios electrónicos, cuando concurra alguna situación emergente que impida realizarlas de manera habitual, como las siguientes:
+
+I. Declaratoria de contingencia o de emergencia sanitaria, emitida por autoridad competente;
+
+II. Declaratoria de emergencia ocasionada por desastres naturales, que hagan imposible la realización de las sesiones en los recintos oficiales, o que dificulten el traslado de los legisladores a los mismos;
+
+III. Situación de riesgo por seguridad pública;
+
+IV. Por cualquier otra causa de fuerza mayor, que dificulte o imposibilite la realización de las sesiones del Pleno o de la Diputación Permanente en los recintos oficiales.
 
 ###### ARTÍCULO 222.
 
@@ -3404,3 +3426,13 @@ P.O. 20 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 599.- SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 8°, LA FRACCIÓN I Y XII DEL ARTÍCULO 72, EL PRIMER PÁRRAFO DEL ARTÍCULO 121, EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 217, Y SE ADICIONA UN ARTÍCULO 221 BIS, TODOS DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 79 Y LA DENOMINACIÓN DEL TÍTULO DE LA SECCIÓN QUINTA; SE ADICIONA EL ARTÍCULO 88 BIS AL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir de la expedición del presente Decreto.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Presidente del Congreso ordenará la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado.
