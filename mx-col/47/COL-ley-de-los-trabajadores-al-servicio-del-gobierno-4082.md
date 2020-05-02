@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2019-12-07"
+last_updated: "2020-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -382,6 +382,10 @@ Cuando el Tribunal resuelva que proceden las causas de rescisión sin responsabi
 ###### ARTICULO 35.
 
 Si en el procedimiento correspondiente no comprueba el Titular la causa de rescisión, el trabajador tendrá derecho además a que se le paguen los sueldos vencidos, desde la fecha del cese hasta que se cumplimente el laudo.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+ARTICULO 35 BIS.- En los casos en que las autoridades competentes emitan una declaratoria de emergencia o contingencia sanitaria, conforme a las disposiciones aplicables a cada caso, que implique la suspensión de labores, no procederá la rescisión de la relación de trabajo por parte de los titulares de la entidad o dependencia respectiva, hasta en tanto no se determine que ha sido superada la emergencia o contingencia sanitaria que dio origen a la suspensión, por lo que deberán cubrírseles a los trabajadores las remuneraciones respectivas, conforme a la presente ley y demás disposiciones aplicables.
 
 ### CAPITULO V
 
@@ -1848,3 +1852,11 @@ P.O. 7 DE DICIEMBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO. La observancia del principio de paridad de género a que se refiere el artículo 4 de la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+P.O. 2 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 269 POR EL QUE SE ADICIONA EL ARTÍCULO 35 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los titulares de las entidades o dependencias a que hace referencia la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, que hayan rescindido relaciones laborales con posterioridad a la publicación el 18 de marzo del año 2020, de la DECLARATORIA DE EMERGENCIA POR LA PRESENCIA DEL COVID-19 (CORONAVIRUS) EN EL ESTADO DE COLIMA, en contravención al presente Decreto, podrán recontratar mediante convenio que celebrarán con los trabajadores despedidos, informando de ello al Tribunal de Arbitraje y Escalafón, para los efectos legales conducentes.
