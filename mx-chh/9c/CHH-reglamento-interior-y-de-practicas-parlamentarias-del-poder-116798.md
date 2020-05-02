@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2020-04-18"
+last_updated: "2020-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHH"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MAYO DE 2020 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -83,7 +85,13 @@ IX. Punto de Acuerdo: Iniciativa que presentan las y los legisladores, a efecto 
 
 X. Reglamento: El Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
 
-XI. Voto ponderado: Porcentaje que representa cada miembro de la Junta de Coordinación Política y se obtiene de dividir el número de integrantes que corresponda a cada grupo, coalición, representación parlamentarios o independiente, entre el número total de miembros de la Legislatura.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MAYO DE 2020)</small>
+
+XI. Sesiones y reuniones mediante acceso remoto o virtual: Son aquellas realizadas por videoconferencia, que permiten a las diputadas y diputados interactuar desde cualquier lugar fuera del Recinto Legislativo, por medio de la utilización de una tablet o computadora; usando programas informáticos en la nube, para trabajar en forma colaborativa a través de la transmisión de video, voz y datos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 2 DE MAYO DE 2020)</small>
+
+XII. Voto ponderado: Porcentaje que representa cada miembro de la Junta de Coordinación Política y se obtiene de dividir el número de integrantes que corresponda a cada grupo, coalición, representación parlamentarios (sic) o independiente, entre el número total de miembros de la Legislatura.
 
 ###### ARTÍCULO 3.
 
@@ -96,6 +104,28 @@ I.- Por resolución del Pleno, a propuesta de la Junta de Coordinación Polític
 II.- En caso fortuito, de fuerza mayor o cuando fuese necesario, la Presidencia de la Mesa Directiva notificará previamente a los integrantes de la Asamblea, fundamentando y motivando tal decisión.
 
 El Decreto que declare Recinto Oficial, será aprobado por el Pleno una vez habilitada la sede alterna.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 2 DE MAYO DE 2020)</small>
+
+En la realización de sesiones y reuniones mediante acceso remoto o virtual, las diputadas y diputados que participen en ellas procurarán observar las siguientes reglas de comportamiento e interacción:
+
+I. Ser puntuales para acceder a la plataforma tecnológica que se habilite para tal efecto, a la hora previamente acordada.
+
+II. Ingresar a dicha plataforma debidamente identificados, mostrando su nombre y apellidos.
+
+III. Mantenerse en pantalla durante la duración de la sesión o reunión para la verificación de su presencia, así como validación de sus participaciones y votaciones o, en todo caso, dar aviso del motivo de su separación, a la Presidencia del órgano correspondiente.
+
+IV. Hacer uso de la palabra cuando la Presidencia de la Mesa Directiva u órgano que se encuentra dirigiendo el debate así lo autorice.
+
+V. Tener cerrado el micrófono hasta que le sea otorgado el uso de la voz por parte de la Presidencia respectiva.
+
+VI. Mantener en todo momento el video activo, que muestre la imagen durante el desarrollo de la sesión o reunión.
+
+VII. Cumplir con las reglas de participación, deliberaciones, debates y los procedimientos previstos en la Ley.
+
+VIII. En caso de presentar alguna falla técnica deberán avisar por cualquier medio de manera inmediata a la Presidencia, para que se les apoye a través del Departamento de Tecnologías de la Información de la Secretaría de Administración.
+
+IX. La Presidencia del órgano correspondiente podrá tomar las acciones que considere necesarias para garantizar el cumplimiento de estas reglas de comportamiento e interacción.
 
 ###### ARTÍCULO 4.
 
@@ -921,9 +951,11 @@ La sesión se sujetará a lo dispuesto por la Ley, se desahogará de conformidad
 
 Reunidos en el Recinto Oficial, en el día y la hora indicada para la celebración de la sesión, quien presida la Mesa Directiva hará sonar la campana y declarará su inicio formal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 92.
 
-Las y los diputados deberán registrar su asistencia a través del Sistema Electrónico y, de ser necesario, quien presida la Mesa Directiva solicitará a una de las Secretarías les tome lista de asistencia e informe su resultado.
+Las y los diputados deberán registrar su asistencia a través del Sistema Electrónico y, de ser necesario, quien presida la Mesa Directiva solicitará a una de las Secretarías les tome lista de asistencia e informe su resultado. En la realización de sesiones mediante acceso remoto o virtual, el registro de asistencia se llevará por conducto de la Secretaría de la Mesa Directiva, en la modalidad que permita tener la certeza del resultado de la asistencia.
 
 Asimismo, dará cuenta de las inasistencias y justificaciones, en caso de haberlas.
 
@@ -1217,6 +1249,8 @@ III.- Cuando la naturaleza del asunto lo demande, la discusión y votación tant
 
 ### CAPÍTULO VII. DE LAS VOTACIONES
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 119.
 
 Las y los diputados aun cuando no estén inscritos en la lista de oradores, podrán solicitar la palabra para rectificar hechos o contestar alusiones personales, cuando haya concluido el orador y sin que puedan hacer uso de la palabra por más de cinco minutos.
@@ -1283,7 +1317,7 @@ Si los medios indicados no bastan para restablecer el orden, quien presida podr�
 
 ###### ARTÍCULO 131.
 
-El voto que emitan las y los diputados, será registrado en el sistema de voto electrónico, a excepción del que se formule por cédula.
+El voto que emitan las y los diputados, será registrado en el sistema de voto electrónico, a excepción del que se formule por cédula o del que se emita en las sesiones mediante acceso remoto o virtual.
 
 ###### ARTÍCULO 132.
 
@@ -1316,6 +1350,10 @@ II.- Los monitores ubicados en cada una de las curules desplegarán las opciones
 III.- La Secretaría de Asuntos Legislativos y Jurídicos desplegará el resultado de la votación en los monitores de la Secretaría de la Mesa Directiva.
 
 IV.- La Secretaría que corresponda dará cuenta a la Presidencia del cómputo de la votación y esta última hará la declaratoria respectiva.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+En la realización de sesiones mediante acceso remoto o virtual, el registro de la votación nominal se llevará por conducto de la Secretaría de la Mesa Directiva, en la modalidad que permita tener la certeza del resultado de la referida votación.
 
 ###### ARTÍCULO 136.
 
@@ -1792,3 +1830,11 @@ P.O. 18 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 2 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LXVI/RFLEY/0713/2020 II P.O. POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN XI; 92, PÁRRAFO PRIMERO, Y 131; Y SE ADICIONAN A LOS ARTÍCULOS 2, LA FRACCIÓN XII; 3, UN PÁRRAFO CUARTO CON LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII Y IX; Y 135, UN PÁRRAFO SEGUNDO; TODOS DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
