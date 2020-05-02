@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2020-04-18"
+last_updated: "2020-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHH"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MAYO DE 2020 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -86,6 +88,18 @@ El tratamiento del Congreso del Estado será el de Honorable, pero sus integrant
 El Congreso del Estado tendrá su sede en la capital del Estado y sesionará en el Recinto Oficial que para tal efecto se designe.
 
 Podrá declararse Recinto Oficial cualquier otro lugar, mediante formal Decreto.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+Por declaración de emergencia sanitaria emitida por las autoridades competentes, que impida la presencia física de las diputadas y los diputados para utilizar el Recinto Oficial o alguno alterno, se podrán realizar, de manera excepcional y previo acuerdo de la Presidencia de la Mesa Directiva, sesiones del Pleno o de la Diputación Permanente, y reuniones de la Junta de Coordinación Política, de la Mesa Directiva, de las comisiones y comités y, en su caso, discutir y votar mediante acceso remoto o virtual únicamente los asuntos relacionados con la emergencia referida, en materia de Salud, Seguridad Pública y Protección Civil, Presupuesto y Hacienda Pública, así como aquellos de carácter urgente. La mesa directiva garantizará al aprobar el orden del día esta última disposición.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+Esta Ley y su Reglamento establecerán los procesos y mecanismos para que se desarrollen de manera eficaz y segura dichas sesiones, reuniones, discusiones y votaciones, siéndoles aplicables los procedimientos generales a las mismas, con el apoyo de los órganos técnicos. En el caso de las sesiones mediante acceso remoto o virtual, se exceptúa lo dispuesto en los párrafos primero y segundo de este numeral y en el artículo 152 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+En el Acuerdo referido para la realización de este tipo de sesiones o reuniones, se establecerán las circunstancias de tiempo y modo. La Presidencia de la Mesa Directiva podrá determinar cualquier otra eventualidad, mediante el acuerdo correspondiente.
 
 > <small>(F. DE E., P.O. 16 DE JULIO DE 2016)</small>
 
@@ -727,6 +741,10 @@ XXI.- Llamar al orden al que faltare a él, sea representante popular, invitado,
 
 XXII.- Habilitar un recinto distinto al Oficial, por causas de fuerza mayor, caso fortuito, o cuando así fuese necesario dadas las condiciones de la sesión que está llevándose a cabo, para efectos de continuar desarrollando sus trabajos, garantizando la inviolabilidad del mismo y la seguridad de los integrantes de la Legislatura.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+De igual modo, emitir el Acuerdo para la celebración de sesiones del Pleno o de la Diputación Permanente, mediante acceso remoto o virtuales, por declaración de emergencia sanitaria emitida por las autoridades competentes en materia de salud, así como reuniones de las Comisiones Legislativas y Comités, únicamente para aquellos asuntos relacionados con la emergencia referida, en materia de Salud, Seguridad Pública y Protección Civil, Presupuesto y Hacienda Pública.
+
 XXIII.- Solicitar el auxilio de la fuerza pública, cuando sea necesario, para asegurar el buen funcionamiento del Congreso.
 
 XXIV.- Firmar con las y los secretarios los nombramientos o remociones que haya acordado el Congreso del Estado.
@@ -872,6 +890,10 @@ Las comisiones del Congreso son órganos colegiados integrados por diputados y d
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
 
 Las comisiones, cuando tengan asuntos que resolver, se reunirán a convocatoria de quien ocupe la presidencia conjuntamente con la secretaría de las mismas, expedida y remitida por medio físico, electrónico o telemático, sin que exista un orden de prelación, a través de la secretaría técnica.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+Cuando se presente alguna de las excepciones señaladas en esta Ley, se podrá realizar la reunión mediante acceso remoto o virtual; en razón de ello, la Presidencia de la Comisión o Comité deberá cerciorarse de que cada integrante de la misma haya sido debidamente notificado, y del apoyo que se brindará por los órganos técnicos, para su realización.
 
 ###### ARTÍCULO 88.
 
@@ -2089,17 +2111,23 @@ Los trabajos se iniciarán, por regla general, a las 11:00 horas y se concluirá
 
 Durante los períodos ordinarios el Congreso sesionará, como mínimo, dos veces por semana, ajustando su actuación al orden del día que, en su caso, sea aprobado.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 153.
 
-Habrá quórum legal, cuando se encuentren presentes en la sesión la mitad más uno de las y los diputados integrantes de la legislatura. Quien presida declarará la existencia del quórum e indicará que las resoluciones que se adopten, en dicha sesión, tendrán plena validez legal.
+Habrá quórum legal, cuando se encuentren presentes la mitad más uno de las y los diputados integrantes de la legislatura, en las sesiones que se lleven a cabo en cualquiera de las modalidades establecidas en esta Ley. Quien presida declarará la existencia del quórum e indicará que las resoluciones que se adopten, en dicha sesión, tendrán plena validez legal.
+
+En la realización de sesiones mediante acceso remoto o virtual, las secretarías deberán cerciorarse que las diputadas y los diputados se encuentren conectados a la sesión, de lo contrario, se otorgará un plazo de quince minutos, para que se incorporen quienes falten de acceder. Transcurrido dicho término, y de existir el quórum requerido, se dará inicio a la sesión.
 
 ###### ARTÍCULO 154.
 
 Al no haber quórum legal, la sesión no deberá llevarse a cabo; si durante la misma no se cuenta con el quórum, la sesión se suspenderá hasta que se reúna el número suficiente de diputadas o diputados para tal efecto y, en su caso, se dará por terminada, lo que habrá de declarar quien presida la sesión.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 155.
 
-Las sesiones podrán ser ordinarias, extraordinarias, públicas, privadas, permanentes y solemnes.
+Las sesiones podrán ser ordinarias, extraordinarias, públicas, privadas, permanentes y solemnes. Esta Ley y su Reglamento, determinarán cuándo se realizarán mediante acceso remoto o virtual.
 
 ###### ARTÍCULO 156.
 
@@ -2130,6 +2158,10 @@ I.- Cuando se presenten acusaciones en contra de servidores públicos que gocen 
 II.- Cuando así lo declare quien presida la Mesa Directiva fundamentando y motivando tal carácter.
 
 III.- Cuando una o más diputadas o diputados lo soliciten, mediante petición debidamente fundamentada y motivada, y se apruebe por mayoría de los presentes.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+Las sesiones mediante acceso remoto o virtual serán públicas, con excepción de las privadas; aquellas deberán transmitirse en el portal oficial de internet del Congreso y por los distintos medios electrónicos o telemáticos de difusión a su alcance.
 
 ###### ARTÍCULO 161.
 
@@ -2413,6 +2445,10 @@ Las mociones se podrán hacer de viva voz y desde su curul por la diputada o el 
 
 Durante la votación ninguna diputada o diputado podrá abandonar el recinto ni excusarse de participar en ella, a menos que con anterioridad hubiere manifestado tener interés personal en el asunto sometido a votación.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+En la realización de sesiones mediante acceso remoto o virtual, las diputadas y los diputados deberán registrar su asistencia, en los términos del artículo 92 del Reglamento, para llevar a cabo la votación correspondiente.
+
 ###### ARTÍCULO 196.
 
 Antes de procederse a la votación, los(as) secretarios(as) deberán cerciorarse de que todas las diputadas y los diputados se encuentren en el Pleno.
@@ -2420,6 +2456,10 @@ Antes de procederse a la votación, los(as) secretarios(as) deberán cerciorarse
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
 
 Si alguno de las o los diputados se encontrare fuera del Recinto, quien presida la Mesa Directiva los llamará a ocupar su curul, auxiliándose para tal efecto, por el personal de la Secretaría de Asuntos Legislativos y Jurídicos.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+En la realización de sesiones mediante acceso remoto o virtual, las secretarías deberán cerciorarse que las diputadas y los diputados se encuentren conectados a la sesión, para efecto de proceder a la votación.
 
 ###### ARTÍCULO 197.
 
@@ -2452,6 +2492,10 @@ La votación nominal es aquella mediante la cual, cada una de las diputadas o di
 La votación será solicitada por las o los Secretarios, iniciando por el lado derecho de las curules.
 
 Al concluir la votación, las y los Secretarios, harán del conocimiento de la Presidencia de la Mesa Directiva el resultado de la misma, quien finalmente hará la declaratoria respectiva.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+En la realización de sesiones mediante acceso remoto o virtual, la asistencia y la votación se efectuarán de manera nominal por quien ocupe una de las secretarías, conforme a la lista de asistencia, informando el resultado de las mismas a la Presidencia de la Mesa Directiva.
 
 ###### ARTÍCULO 202.
 
@@ -3094,3 +3138,11 @@ P.O. 18 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódicoo (sic) Oficial del Estado de Chihuahua.
+
+P.O. 2 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0713/2020 II P.O.".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
