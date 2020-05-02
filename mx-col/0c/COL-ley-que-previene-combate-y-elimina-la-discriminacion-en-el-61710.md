@@ -4,7 +4,7 @@ identifier: "COL-ley-que-previene-combate-y-elimina-la-discriminacion-en-el-6171
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-14"
-last_updated: "2019-11-02"
+last_updated: "2020-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial en el Estado de Colima, el sábado 14 de junio de 2008.
 
@@ -364,6 +364,14 @@ XII. Aplicar cualquier tipo de uso o costumbre que atente contra su dignidad e i
 XIII. Ofender, ridiculizar, hostigar, rechazar o promover la violencia en su contra a través de mensajes o imágenes en los medios de comunicación; y
 
 XIV. Todas las demás que se contemplen en las Leyes en la materia.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 2 DE MAYO DE 2020)</small>
+
+Asimismo, dentro del contexto de la discriminación por enfermedad, son conductas que discriminan a las personas por estar expuestas o laborar en el sector salud durante una declaratoria de emergencia sanitaria, las siguientes:
+
+I. Provocar o incitar al odio o la violencia de aquellas personas que por motivo de su trabajo están expuestas al contagio de una enfermedad o virus; y
+
+II. Vejar o excluir a alguna persona o grupo de personas, negando o restringiendo derechos, negar o retardar trámites o servicios, tanto del ámbito público como privado, por el simple hecho de haber estado expuesto dentro de su trabajo a una enfermedad contagiosa en el contexto de una emergencia sanitaria.
 
 ###### Artículo 16.
 
@@ -1254,3 +1262,9 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADADANA (SIC) DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 272 POR EL QUE SE APRUEBAN REFORMAS Y ADICIONES AL ARTÍCULO 223 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, ASIMISMO, SE APRUEBAN ADICIONES AL ARTÍCULO 15 DE LA LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
