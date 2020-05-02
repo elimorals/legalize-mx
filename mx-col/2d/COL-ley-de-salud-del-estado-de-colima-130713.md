@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-130713"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-29"
-last_updated: "2019-09-28"
+last_updated: "2020-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de septiembre de 2018.
 
@@ -1315,7 +1315,7 @@ Podrán sacrificarse especies menores en domicilios particulares, sólo en el ca
 
 El sacrificio de los animales sujetos al aprovechamiento humano en cualquiera de sus formas, deberá ser humanitario y se utilizarán métodos científicos y técnicas actualizadas y específicas que señalen las disposiciones reglamentarias o normas técnicas correspondientes, con el objeto de impedir toda crueldad que cause sufrimiento a los animales.
 
-… (SIC)
+... (SIC)
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NO. 140, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 29.]</small>
 
@@ -2157,6 +2157,10 @@ PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación
 
 SEGUNDO.- Se abroga la Ley de Salud del Estado de Colima, publicada mediante decreto 46 en el Periódico Oficial "El Estado de Colima" con fecha 23 de diciembre del 2000.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+TERCERO.- Durante el periodo de emergencia sanitaria decretado por las autoridades en el ejercicio fiscal 2020, la Secretaría de Salud y Bienestar Social, deberá supervisar que los protocolos médicos, las decisiones sobre recursos médicos y tratamientos en relación con el COVID-19 sean implementados sin discriminación en razón de la edad, y prestando especial atención a las personas mayores con discapacidad o condiciones crónicas y enfermedades, pacientes con VIH o sida, que requieren medicación y atención regular como pacientes de diabetes, hipertensión, demencia senil, alzhéimer, entre otras.
+
 El Gobernador del Estado dispondrá se publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo, a los veintidós días del mes de agosto del año 2018 dos mil dieciocho.
@@ -2212,3 +2216,9 @@ P.O. 28 DE SEPTIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Poder Ejecutivo del Estado contará con un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, para que se implemente el servicio de firma electrónica certificada en las autorizaciones y certificados a que se refiere este instrumento.
+
+P.O. 2 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 271 POR EL QUE SE ADICIONA UN TRANSITORIO TERCERO A LA LEY DE SALUD DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
