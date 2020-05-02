@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2019-04-13"
+last_updated: "2020-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -515,39 +515,99 @@ V. Denunciar los actos de violencia obstétrica de los que tenga conocimiento po
 
 #### SECCIÓN SÉPTIMA. VIOLENCIA POLÍTICA
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2020)</small>
+
+ARTÍCULO 30 TER.- Violencia Política de Género son los actos u omisiones y/o agresiones cometidos en contra de las mujeres aspirantes, precandidatas, candidatas, funcionarias electas o designadas o en el ejercicio de sus funciones político-públicas o de sus familias, por una persona o grupo de personas, directamente o a través de terceros, que le causen un daño físico, psicológico, sexual, económico o de otra índole, resultado de prejuicios de género, que tengan como objeto impedir su participación en campañas políticas o restringir el ejercicio de un derecho electoral, cargo público o partidista o que inciten a la toma de decisiones en contra de su voluntad o de la ley, con el fin o no de restringir el ejercicio de un derecho político o electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2020)</small>
+
+ARTÍCULO 30 QUÁTER.- Constituye violencia política de género:
+
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
-
-ARTÍCULO 30 TER.- Violencia Política son los actos u omisiones cometidos en contra de una mujer o sus familias, que le causen un daño físico, psicológico, sexual, económico o de otra índole, resultado de prejuicios de género, que tengan como objeto impedir su participación en campañas políticas, o restringir el ejercicio de un cargo público o partidista, o que inciten a la toma de decisiones en contra de su voluntad o de la ley, con el fin o no de restringir el ejercicio de un derecho político.
-
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
-
-ARTÍCULO 30 QUÁTER.- Constituye violencia política:
 
 I. Impedir u obstaculizar el ejercicio de sus derechos político-electorales mediante la restricción de recursos, ocultamiento de información, aplicación de sanciones sin motivación y fundamentación, amenazas o amedrentamiento hacia su persona o familiares;
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
+
 II. Proporcionar de forma dolosa a las mujeres candidatas o electas, propietarias o suplentes o designadas para una función pública, información falsa o imprecisa que la induzca al inadecuado ejercicio de sus funciones políticas públicas;
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
 
 III. Obligar o instruir a las mujeres a realizar actos incompatibles a las funciones públicas propias de su encargo;
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
+
 IV. Asignar responsabilidades que limiten el ejercicio de su función pública;
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
 
 V. Evitar por cualquier medio que las mujeres electas, propietarias o suplentes o nombradas para una función pública, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres;
 
-VI. Proporcionar al Organismo Público Local Electoral datos falsos o información incompleta o errónea de la identidad de la mujer o mujeres candidatas a algún cargo de elección popular, con la finalidad de limitar o impedir su participación;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2020)</small>
+
+VI. Proporcionar a las autoridades administrativas, electorales o jurisdiccionales datos falsos o información incompleta o errónea de la identidad de la mujer o mujeres candidatas a algún cargo de elección popular, con la finalidad de limitar o impedir su participación;
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
 
 VII. Impedir o restringir a las mujeres, la reincorporación al cargo público al que fue nombrada electa, posterior al ejercicio de una licencia o permiso justificado;
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
+
 VIII. Coartar o impedir el uso de las facultades inherentes en la Constitución y los ordenamientos jurídicos electorales, para proteger sus derechos frente a los actos que violenten o restrinjan el ejercicio de su representación política;
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
 
 IX. Efectuar cualquier acto de discriminación previsto en la Constitución, o en las leyes que la sancionen y que tengan como resultado impedir, negar, anular o menoscabar el ejercicio de los derechos humanos de las mujeres electas o en el ejercicio de su representación política;
 
-X. Publicar o revelar información personal, privada o falsa, de las mujeres candidatas, electas, designadas o en el ejercicio de su representación política o partidista dentro o fuera de un proceso electoral, con el objetivo de denostar o menoscabar su dignidad humana, con o sin el fin de obtener con estas acciones, la renuncia y/o licencia al cargo electo o en ejercicio; y
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2020)</small>
 
-XI. Obligar, intimidar o amenazar a suscribir documentos, a participar de proyectos o adoptar decisiones en contra de su voluntad o del interés público, aprovechándose de su representación política.
+X. Publicar o revelar información personal, privada o falsa, de las mujeres candidatas, electas, designadas o en el ejercicio de su representación política o partidista dentro o fuera de un proceso electoral, con el objetivo de denostar o menoscabar su dignidad humana, con o sin el fin de obtener con estas acciones, la renuncia y/o licencia al cargo electo o en ejercicio;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2020)</small>
+
+XI. Obligar, intimidar o amenazar a suscribir documentos, a participar de proyectos o adoptar decisiones en contra de su voluntad o del interés público, aprovechándose de su representación política;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2020)</small>
+
+XII. Dañar o manipular, en cualquier forma, elementos de la campaña electoral de la mujer, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2020)</small>
+
+XIII. Hacer uso de cualquier medio de comunicación, sea impreso, electrónico o de cualquier plataforma digital para verter misoginia o fomentarla en contra de una mujer o de su familia;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2020)</small>
+
+XIV. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2020)</small>
+
+XV. Proferir agresiones verbales, físicas o de cualquier índole que estén basadas en estereotipos y visiones discriminatorias sobre las mujeres tendientes a denigrar a las mujeres y su imagen pública con base en estereotipos de género;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2020)</small>
+
+XVI. Amenazar, intimidar o incitar a la violencia en contra de las mujeres candidatas, electas o designadas o en el ejercicio de sus funciones político-públicas por razones de género; y
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2020)</small>
+
+XVII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+La violencia política contra las mujeres por razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas, de conformidad con lo dispuesto en la legislación aplicable.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
 
 ARTÍCULO 30 QUINQUIES.- Las autoridades estatales, municipales, los organismos autónomos y los partidos políticos en el ámbito de sus competencias, garantizarán a las mujeres el acceso y ejercicio pleno de sus derechos de participación política.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 2 DE MAYO DE 2020)</small>
+
+#### SECCIÓN OCTAVA. VIOLENCIA DIGITAL
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+
+###### ARTÍCULO 30 Sexies.
+
+Violencia Digital, es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico (sic), o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias.
 
 #### SECCIÓN PRIMERA. DEL TITULAR DEL EJECUTIVO DEL ESTADO
 
@@ -578,8 +638,6 @@ VII.- Informar de inmediato a la víctima cuando la persona generadora de violen
 VIII.- Las demás que le atribuyan otros ordenamientos legales.
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA GENERAL DE GOBIERNO
-
-#### SECCIÓN TERCERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA
 
@@ -965,9 +1023,21 @@ m).- Sentencias.
 
 XVIII.- Analizar y difundir anualmente la información general y estadística sobre los casos de Violencia contra las Mujeres;
 
-XIX.- Promover la cultura de denuncia de la Violencia contra las Mujeres; y
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2020)</small>
 
-XX.- Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la Violencia contra las Mujeres.
+XIX.- Promover la cultura de denuncia de la Violencia contra la (sic) Mujeres;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2020)</small>
+
+XX.- Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la Violencia contra la (sic) Mujeres;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2020)</small>
+
+XXI.- Facilitar el fortalecimiento de los liderazgos de las mujeres y su permanencia en los espacios de toma de decisiones; y
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2020)</small>
+
+XXII.- Definir recomendaciones específicas mediante las cuales las instituciones públicas, políticas, sociales, privadas, electorales y sindicales, diseñen sus propios instrumentos y mecanismos internos para prevenir y combatir la violencia política contra las mujeres.
 
 ###### ARTÍCULO 54.
 
@@ -975,7 +1045,7 @@ El Ejecutivo Estatal y los Ayuntamientos, en el ámbito de sus competencias, pro
 
 ### CAPÍTULO III. DE LAS COMPETENCIAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
+#### SECCIÓN TERCERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
 ###### ARTÍCULO 55.
 
@@ -1025,41 +1095,9 @@ XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
+#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
+
 #### SECCIÓN QUINTA. DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL
-
-#### SECCIÓN QUINTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
-
-ARTÍCULO 60 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
-
-I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
-
-II.- Promover en coordinación con el Instituto, la creación o generación de bolsas de trabajo específicas para mujeres víctimas de violencia y apoyar la capacitación para el auto empleo;
-
-III.- Brindar el acompañamiento jurídico a las mujeres víctimas de violencia en el ámbito laboral;
-
-IV.- incorporar en la supervisión de las condiciones laborales de los centros de trabajo la vigilancia en el cumplimiento de las normas en materia de igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, la capacitación, el ascenso y la permanencia de las mujeres;
-
-V.- Promover campañas de información en los centros de trabajo sobre los tipos y modalidades de la violencia contra las mujeres, así como de las instituciones que atienden a las víctimas;
-
-VI.- Proponer y coordinar campañas de difusión de los derechos de las mujeres trabajadoras, así como las obligaciones de las y los empleadores;
-
-VII.- Difundir y promover el derecho de las mujeres a la igualdad de oportunidades y de trato, remuneración y seguridad social, poniendo énfasis en la información sobre las conductas que atentan contra su libertad sexual e integridad física y psicológica;
-
-VIII.- En coordinación con el Instituto, realizar estudios estadísticos e investigaciones sobre la situación de las mujeres en el trabajo que permitan la formulación de políticas públicas para el ejercicio pleno de sus derechos laborales:
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
-
-IX.- Reconocer e incentivar a las empresas que se abstengan de solicitar a las mujeres certificados de no gravidez;
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
-
-X.- Orientar a las receptoras de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres; y
-
-XI.- Las demás que le señalen las disposiciones legales.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 57.
 
@@ -1097,6 +1135,62 @@ XV.- Celebrar convenios de coordinación y concertación con la participación q
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
+#### SECCIÓN QUINTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTÍCULO 60 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
+
+I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
+
+II.- Promover en coordinación con el Instituto, la creación o generación de bolsas de trabajo específicas para mujeres víctimas de violencia y apoyar la capacitación para el auto empleo;
+
+III.- Brindar el acompañamiento jurídico a las mujeres víctimas de violencia en el ámbito laboral;
+
+IV.- incorporar en la supervisión de las condiciones laborales de los centros de trabajo la vigilancia en el cumplimiento de las normas en materia de igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, la capacitación, el ascenso y la permanencia de las mujeres;
+
+V.- Promover campañas de información en los centros de trabajo sobre los tipos y modalidades de la violencia contra las mujeres, así como de las instituciones que atienden a las víctimas;
+
+VI.- Proponer y coordinar campañas de difusión de los derechos de las mujeres trabajadoras, así como las obligaciones de las y los empleadores;
+
+VII.- Difundir y promover el derecho de las mujeres a la igualdad de oportunidades y de trato, remuneración y seguridad social, poniendo énfasis en la información sobre las conductas que atentan contra su libertad sexual e integridad física y psicológica;
+
+VIII.- En coordinación con el Instituto, realizar estudios estadísticos e investigaciones sobre la situación de las mujeres en el trabajo que permitan la formulación de políticas públicas para el ejercicio pleno de sus derechos laborales:
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+IX.- Reconocer e incentivar a las empresas que se abstengan de solicitar a las mujeres certificados de no gravidez;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+X.- Orientar a las receptoras de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres; y
+
+XI.- Las demás que le señalen las disposiciones legales.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
+
+###### ARTÍCULO 58.
+
+La Secretaría de Desarrollo Social será la encargada de:
+
+I.- Participar en la elaboración del Programa Integral Estatal en coordinación, con las demás autoridades integrantes del Sistema Estatal;
+
+II.- Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+
+III.- Coadyuvar en la promoción de los Derechos Humanos de las Mujeres;
+
+IV.- Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
+
+V.- Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
+
+VI.- Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género;
+
+VII.- Impulsar políticas de prevención y atención de la Violencia contra las Mujeres;
+
+VIII.- Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+IX.- Las demás previstas en esta Ley y demás disposiciones aplicables.
+
 #### SECCIÓN QUINTA BIS 1. DE LA SECRETARÍA DE CULTURA
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
@@ -1124,62 +1218,6 @@ VIII.- Generar mecanismos de prevención, detección y canalización de las muje
 IX.- Las demás que les señalen las disposiciones legales aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
-
-###### ARTÍCULO 58.
-
-La Secretaría de Desarrollo Social será la encargada de:
-
-I.- Participar en la elaboración del Programa Integral Estatal en coordinación, con las demás autoridades integrantes del Sistema Estatal;
-
-II.- Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
-
-III.- Coadyuvar en la promoción de los Derechos Humanos de las Mujeres;
-
-IV.- Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
-
-V.- Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
-
-VI.- Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género;
-
-VII.- Impulsar políticas de prevención y atención de la Violencia contra las Mujeres;
-
-VIII.- Celebrar convenios de cooperación, coordinación y concertación en la materia; y
-
-IX.- Las demás previstas en esta Ley y demás disposiciones aplicables.
-
-#### SECCIÓN QUINTA BIS 2. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
-
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
-
-ARTÍCULO 60 BIS 2.- La Secretaría de Seguridad Pública deberá:
-
-I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
-
-II.- Elaborar e implementar en coordinación con la Procuraduría, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
-
-III.- Capacitar al personal de las diferentes instancias policiales en materia de derechos humanos y perspectiva de género, así como generar mecanismos de prevención, detección y canalización de las mujeres víctima (sic) de violencia;
-
-IV.- Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
-
-V.- Diseñar la política integral para la prevención de delitos violentos contra las mujeres;
-
-VI.- Realizar en coordinación con el Instituto Colimense de las Mujeres, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres;
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
-
-VII.- Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
-
-VIII.- Brindar, en coordinación con la Secretaría de Salud y Bienestar Social, atención médica obstétrico-ginecológica y pediátrica, durante el embarazo, parto y puerperio a las mujeres recluidas en centros penitenciarios;
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
-
-IX.- Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes; y
-
-X.- Las demás que les señalen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 59.
 
@@ -1229,7 +1267,39 @@ XVII.- Notificar en su calidad de garante en materia de violencia de género, a 
 
 XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+#### SECCIÓN QUINTA BIS 2. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTÍCULO 60 BIS 2.- La Secretaría de Seguridad Pública deberá:
+
+I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
+
+II.- Elaborar e implementar en coordinación con la Procuraduría, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+III.- Capacitar al personal de las diferentes instancias policiales en materia de derechos humanos y perspectiva de género, así como generar mecanismos de prevención, detección y canalización de las mujeres víctima (sic) de violencia;
+
+IV.- Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
+
+V.- Diseñar la política integral para la prevención de delitos violentos contra las mujeres;
+
+VI.- Realizar en coordinación con el Instituto Colimense de las Mujeres, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+VII.- Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+VIII.- Brindar, en coordinación con la Secretaría de Salud y Bienestar Social, atención médica obstétrico-ginecológica y pediátrica, durante el embarazo, parto y puerperio a las mujeres recluidas en centros penitenciarios;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+IX.- Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes; y
+
+X.- Las demás que les señalen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 60.
 
@@ -1307,13 +1377,13 @@ XXIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE ENERO DE 2013)</small>
 
+#### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+
 #### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
 
 #### SECCIÓN OCTAVA. DEL INSTITUTO
 
 #### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
-
-#### SECCIÓN DÉCIMA. DEL CEPAVI
 
 ###### ARTÍCULO 61.
 
@@ -1377,7 +1447,7 @@ XVIII.- Informar de inmediato a la víctima cuando la persona generadora de viol
 
 XIX.- Las demás que les señalen las disposiciones legales aplicables.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
+#### SECCIÓN DÉCIMA. DEL CEPAVI
 
 ###### ARTÍCULO 62.
 
@@ -1415,7 +1485,7 @@ XV.- Proporcionar a los cuerpos policiacos capacitación y formación en materia
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
+#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
 
 ###### ARTÍCULO 63.
 
@@ -1465,9 +1535,7 @@ XVI.- Celebrar convenios de colaboración, coordinación y concertación en la m
 
 XVII.- Las demás previstas para el cumplimiento de esta Ley.
 
-#### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE ABRIL DE 2019)</small>
+#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
 
 ###### ARTÍCULO 64.
 
@@ -1515,7 +1583,9 @@ XX.- Celebrar convenios de colaboración, coordinación y concertación en la ma
 
 XXI.- Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
-#### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
+#### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 65.
 
@@ -1535,13 +1605,13 @@ VI.- Proveer la ayuda necesaria a las diversas instancias que lo soliciten, para
 
 VII.- Las demás que se establecen en la Ley para la Prevención y Atención de la Violencia Intrafamiliar.
 
-#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
+#### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
 
 ###### ARTÍCULO 66.
 
 Los organismos, dependencias e instancias, en el ámbito Estatal y Municipal, harán cumplir las disposiciones de la presente Ley y demás disposiciones aplicables en la materia, buscando en todo la protección de los derechos humanos de la mujer.
 
-#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
+#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
 
 ###### ARTÍCULO 67.
 
@@ -1551,7 +1621,7 @@ Las corporaciones policiacas preventivas del Estado, y de los Municipios cumplir
 
 También integrarán una base de datos que contenga todos los aspectos relacionados con la violencia en contra de las mujeres.
 
-#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
+#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
 
 ###### ARTÍCULO 69.
 
@@ -1720,6 +1790,8 @@ II.- Abordajes terapéuticos exitosos que han probado su efectividad al disminui
 III.- Inscribirse ante la Secretaría Ejecutiva del Sistema Estatal previo registro legal respetando la autoría intelectual.
 
 ### CAPÍTULO II. DE LOS MODELOS
+
+#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
 
 ###### ARTÍCULO 78.
 
@@ -2048,3 +2120,11 @@ P.O. 13 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 45 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 45 FRACCIONES IX Y X, 35, 36, 56 FRACCIÓN V, 56 BIS FRACCIÓN VI, 60 BIS FRACCIÓN IX, 60 BIS 2 FRACCIONES III Y VII, 61 FRACCIÓN XVII, 69 PRIMER PÁRRAFO Y FRACCIONES X Y XI, 72 FRACCIONES III Y VI, Y 74 FRACCIÓN X; ASÍ COMO ADICIONAR LA FRACCIÓN XI AL ARTÍCULO 45, LA FRACCIÓN VII AL ARTÍCULO 56 BIS CON EL CORRIMIENTO DE LA FRACCIÓN SUBSECUENTE, LA FRACCIÓN X AL ARTÍCULO 60 BIS HACIÉNDOSE EL CORRIMIENTO DE LA SUBSECUENTE FRACCIÓN, LA FRACCIÓN XVIII AL ARTÍCULO 61 RECORRIÉNDOSE LA SIGUIENTE FRACCIÓN, LAS FRACCIONES XII Y XIII DEL ARTÍCULO 69 Y SE RECORRE LA SIGUIENTE FRACCIÓN, LA FRACCIÓN VII Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 72 HACIÉNDOSE EL RESPECTIVO CORRIMIENTO DE LA FRACCIÓN SUBSECUENTE, EL ARTÍCULO 72 BIS, LA FRACCIÓN XI AL ARTÍCULO 74 RECORRIÉNDOSE LA SIGUIENTE FRACCIÓN, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 270 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, ASÍ COMO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Poder Ejecutivo del Estado contará con un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto, para que lleve a cabo las reformas reglamentarias que se deriven de este.
