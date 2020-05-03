@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2020-03-19"
+last_updated: "2020-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -507,7 +507,13 @@ XII. Solicitar, en cualquier tiempo al tesorero municipal o su equivalente, que 
 
 XIII. Aprobar el nombramiento del titular de la contraloría municipal.
 
-XIV. Administrar libremente su hacienda y los bienes destinados al servicio público municipal.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XIV. Administrar libremente su hacienda y los bienes destinados al servicio público municipal; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XV. Establecer programas y acciones para la prevención y atención de conflictos laborales en el que el municipio sea parte, de conformidad con las disposiciones reglamentarias de cada Ayuntamiento.
 
 D). EN MATERIA DE DESARROLLO ECONÓMICO Y SOCIAL:
 
@@ -548,6 +554,18 @@ XV. Promover entre sus habitantes el uso y aprovechamiento de agua de lluvia, a 
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2019)</small>
 
 XVI. Las demás que le confiere la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las demás leyes.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XVII. Implementar políticas y programas que fomenten e incentiven la creación de empresas, velando por la promoción del empleo y el crecimiento económico de la población;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XVIII. Ampliar la cobertura de programas orientados a la promoción de las micro, pequeñas y medianas empresas; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XIX. Regular las actividades económicas de los particulares de conformidad con los principios de la mejora regulatoria.
 
 En lo conducente y de conformidad a los fines señalados en el párrafo tercero, del artículo 27 de la Constitución Federal, expedirá los reglamentos y disposiciones administrativas que fueren necesarios.
 
@@ -917,6 +935,10 @@ Las dependencias y entidades de la administración pública municipal, conducir�
 
 Las dependencias y entidades de la administración pública municipal, ejercerán las funciones que les asigne esta Ley y los reglamentos expedidos por los propios ayuntamientos. Los ayuntamientos, con base en estas disposiciones, establecerán las estructuras de organización de las unidades administrativas en función de las características socio-económicas del municipio, de su propia capacidad económica y de los requerimientos de la comunidad.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+Los titulares de las dependencias de la administración pública municipal, así como de los organismos descentralizados durarán en su encargo únicamente, por el periodo constitucional del ayuntamiento en que hayan sido designados, sin perjuicio de que puedan ser removidos, siendo considerados funcionarios de libre designación, en ambos casos solo tendrán derecho a las medidas protectoras del salario contempladas en la ley laboral aplicables por la conclusión del encargo.
+
 ###### Artículo 80.
 
 Los titulares de cada una de las dependencias y entidades de la administración pública municipal deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derechos, preferentemente vecinos del municipio, de reconocida honorabilidad y probada aptitud para desempeñar los cargos que les corresponda. Éstos acordarán directamente con el Presidente Municipal y comparecerán ante el Ayuntamiento cuando se les requiera para aclarar cuestiones relacionadas con sus áreas de competencia.
@@ -1054,6 +1076,12 @@ Al frente de cada dependencia administrativa habrá un titular con la denominaci
 ###### Artículo 91.
 
 Corresponde originalmente a los titulares de las dependencias el trámite y resolución de los asuntos de su competencia; sin embargo, para la mejor organización del trabajo podrá delegar en los servidores a que se refiere el artículo anterior cualesquiera de sus facultades, excepto aquellas que por disposición de la ley o de los reglamentos o resoluciones del Ayuntamiento, deban ser ejercidas precisamente por los propios titulares.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+###### Artículo 91 Bis.
+
+Los Ayuntamientos, así como las dependencias, entidades y organismos descentralizados de la administración pública municipal, de conformidad con la Ley General de Mejora Regulatoria y las disposiciones locales en la materia, deberán implementar las herramientas de mejora regulatoria, así como todas aquellas acciones, instrumentos y procedimientos orientados a facilitar los trámites y la obtención de servicios, procurando la coordinación institucional necesaria a fin de lograr asesoría técnica y capacitación en tal materia.
 
 ###### Artículo 92.
 
@@ -1509,7 +1537,9 @@ f) La matanza clandestina.
 
 g) La limpieza de calles, banquetas, depósitos y corrientes de agua para el servicio público.
 
-VI. En el ramo de Agricultura, Ganadería, Comercio, Industria y Trabajo, a:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE MAYO DE 2020)</small>
+
+VI. En el ramo de Agricultura y Ganadería, a:
 
 a) Tierras ociosas.
 
@@ -2490,3 +2520,23 @@ P.O. 19 DE MARZO DE 2020.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 300.- QUE CONTIENE ADICIÓN DE UNA FRACCIÓN XV AL APARTADO C DEL ARTÍCULO 33 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Los Ayuntamientos, dentro de un plazo de noventa días contados a partir del inicio de vigencia del presente decreto, deberán realizar las adecuaciones reglamentarias correspondientes.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 301.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Los Ayuntamientos, dentro de un plazo de noventa días contados a partir del inicio de vigencia del presente decreto, deberán realizar las adecuaciones reglamentarias correspondientes.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
