@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2020-03-29"
+last_updated: "2020-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -571,9 +571,17 @@ Son medidas de seguridad:
 
 I. Vigilancia de la autoridad;
 
-II. Tratamiento de inimputables o imputables disminuidos; y,
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-III. Tratamiento de deshabituación o desintoxicación.
+II. Tratamiento de inimputables o imputables disminuidos;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+III. Tratamiento de deshabituación o desintoxicación; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+IV. Tratamiento integral especializado enfocado a la erradicación de la violencia política.
 
 ###### Artículo 32.
 
@@ -665,9 +673,11 @@ Para la imposición de la multa y para determinar la prisión aplicable, si es e
 
 ###### Artículo 39.
 
-Sustitución de la multa, Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla total o parcialmente por trabajo en favor de la comunidad. Cada tres horas de trabajo saldarán un día de multa.
+Sustitución de la multa.
 
-Cuando no sea posible o conveniente la sustitución de la multa por trabajo en favor de la comunidad, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá del número de días sustituido, sin que este plazo, sea mayor al de la prescripción.
+Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla total o parcialmente por trabajo en favor de la comunidad. Cada tres horas de trabajo saldarán un día de multa.
+
+Cuando no sea posible o conveniente la sustitución de la multa por trabajo en favor de la comunidad, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá del número de días sustituido, sin que este plazo sea mayor al de la prescripción.
 
 Dado el caso de que los supuestos de los párrafos anteriores no se cumplan, la autoridad judicial determinará la efectividad de la multa; en este caso la misma adquirirá el carácter de crédito fiscal.
 
@@ -1507,9 +1517,11 @@ Efectos y características de la prescripción.
 
 La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad y para ello bastará el transcurso del tiempo señalado por la ley.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2017)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE MAYO DE 2020)</small>
 
-Los delitos de secuestro, desaparición forzada de personas, tráfico de influencias, cohecho en los términos de la fracción II del artículo 338, peculado cuando la cuantía exceda de quinientas veces del valor de la Unidad de Medida y Actualización de conformidad con el artículo 339, concusión en los términos de la fracción II del artículo 340, homicidio calificado, tortura, enriquecimiento ilícito en los términos de la fracción II del artículo 322 y pederastia de conformidad con el artículo 177 BIS, de este Código, son imprescriptibles.
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+Los delitos de secuestro, desaparición forzada de personas, tráfico de influencias, cohecho en los términos de la fracción II del artículo 338, peculado cuando la cuantía exceda de quinientas veces del valor de la Unidad de Medida y Actualización de conformidad con el artículo 339, concusión en los términos de la fracción II del artículo 340, homicidio calificado, feminicidio, violación de conformidad con los artículos 176 y 177, abuso sexual de conformidad con el artículo 179, tortura, enriquecimiento ilícito en los términos de la fracción II del artículo 322 y pederastia de conformidad con el artículo 177 BIS, de este Código, son imprescriptibles.
 
 ###### Artículo 116.
 
@@ -1862,6 +1874,10 @@ A quien cometa feminicidio se impondrá de cuarenta a sesenta años de prisión 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE MARZO DE 2020)</small>
 
 Si la víctima es menor de edad, adulta mayor, embarazada o con discapacidad, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición, se impondrán de cuarenta y cinco a sesenta y cinco años de prisión y multa de tres mil doscientos cuarenta a cuatro mil seiscientas ochenta veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
 ###### Artículo 147 Bis.
 
@@ -2299,7 +2315,7 @@ VI. Fuere cometido en despoblado o en lugar solitario.
 
 ### CAPÍTULO IV. HOSTIGAMIENTO Y ACOSO SEXUAL
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### Artículo 181.
 
@@ -2317,11 +2333,15 @@ Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico
 
 ###### Artículo 182.
 
-Comete el delito de hostigamiento sexual quien asedie en forma reiterada a una persona con fines sexuales, a pesar de su oposición manifiesta y amenace con causarle un mal relacionado respecto a la actividad que los vincule por la posición jerárquica derivada de una relación laboral, docente, doméstica o de cualquier otra índole, se le impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientas sesenta veces la Unidad de Medida y Actualización.
+El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conducta (sic) verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva, independientemente que se realice en uno o varios eventos, a quien cometa este delito se le impondrán de uno a cinco años de prisión y multa de setenta y dos a trescientas veces la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2019)</small>
 
 Se impondrán las mismas penas y multas establecidas en el presente artículo, al que para la comisión del delito utilice las tecnologías de la información y telecomunicaciones (TICs), redes sociales, correo electrónico o cualquier espacio digital y cause un daño a la dignidad personal.
+
+Si el sujeto activo fuese servidor público y se aprovechare de esa circunstancia, además de las penas previstas en el párrafo anterior, se destituirá de su cargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2017)</small>
 
 Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad, o estuviere privado de razón, o no tuviere la capacidad de comprender el significado del hecho que realiza se le impondrá al responsable de tres a seis años de prisión y multa de doscientos dieciséis a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
 
@@ -2681,7 +2701,7 @@ II. A las autoridades que intervengan en la indebida legalización de documentos
 
 ### CAPÍTULO VI. USURA
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### Artículo 206.
 
@@ -2897,7 +2917,11 @@ Se impondrán de dos a ocho años de prisión y multa de ciento cuarenta y cuatr
 
 ###### Artículo 217.
 
-Al que obtenga de otra persona ventajas usurarias por medio de contratos o convenios, en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado, se le impondrán de uno a nueve años de prisión y multa de setenta y de (sic) dos a seiscientas cuarenta y ocho veces la Unidad de Medida y Actualización.
+Comete el delito de usura el que obtenga ventajosamente de otra persona por medio de contratos, convenios o cualquier otro documento para el o para un tercero, beneficios económicos, réditos, lucros o intereses ordinarios y/o moratorios, que estén en una notoria desproporción en relación al interés legal establecido en el Código Civil del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+Artículo 217 BIS. Se impondrán de uno a nueve años de prisión y multa de setenta y dos hasta seiscientos cuarenta y ocho veces la Unidad de Medida y Actualización, al que cometa el delito de usura.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -2911,7 +2935,25 @@ II. A quien realice en forma permanente o por más de tres veces cualesquiera de
 
 III. A quien disimule o encubra el interés o lucro mediante títulos de crédito o cualquier otro documento, si no media otra causa que justifique su existencia.
 
-Para los efectos de los artículos que anteceden se entenderá que las comisiones, réditos y lucros son usurarios si su importe global, anualizado, excede de sesenta por ciento del valor real que el sujeto pasivo haya recibido con motivo de la transacción de la que derive la ganancia. Para valorar este porcentaje se aplicará, en su caso, la legislación supletoria que corresponda.
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+IV. A quien se aproveche del estado de necesidad económica de otra persona para realizar el delito.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+V. A quien por sí o por terceros haga uso de violencia psicológica o física, intimide o de cualquier forma coaccione con la finalidad de obtener el usufructo de la actividad ilícita.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
+Para los efectos de los artículos que anteceden se entenderá que los beneficios económicos, réditos, lucros o intereses ordinarios y/o moratorios son usurarios si su importe global, anualizado, se encuentra en una notoria desproporción a lo establecido en el Código Civil del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+El monto de la reparación del daño será, por lo menos, igual a la desproporción de la ventaja económica obtenida, o de los intereses devengados en exceso, o en ambos según sea el caso.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+La sanción privativa de la libertad se reducirá en una tercera parte sí, antes de que se dicte sentencia ejecutoriada, se devolviere a la víctima la cantidad lucrada ilícitamente con el pago de los intereses legales correspondientes.
 
 ### CAPÍTULO IX. DISPOSICIONES COMUNES DE LOS DELITOS PATRIMONIALES
 
@@ -3995,7 +4037,7 @@ DELITOS CONTRA LA FAMILIA
 
 ###### Artículo 297.
 
-Al que abandone a cualquier persona respecto de quien tenga la obligación de suministrar alimentos sin recursos para atender a sus necesidades de subsistencia, aun cuando cuente con el apoyo de familiares o terceros, se le impondrá de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización, privación de los derechos de familia y pago, como reparación del daño, de las cantidades no suministradas oportunamente.
+Al que abandone a cualquier persona respecto de quien tenga la obligación de suministrar alimentos, sin recursos para atender a sus necesidades de subsistencia, aun cuando cuente con el apoyo de familiares o terceros, se le impondrá de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización, privación de los derechos de familia y pago, como reparación del daño, de las cantidades no suministradas oportunamente.
 
 Se impondrán las mismas penas al que, aún viviendo en el mismo domicilio, no proporcione los recursos necesarios para la subsistencia de quien se tenga la obligación de suministrar alimentos.
 
@@ -4053,9 +4095,23 @@ En cualquier momento, el Ministerio Público podrá solicitar a la autoridad jud
 
 En los casos que exista desistimiento por parte de la víctima, podrá prevalecer la obligación de sujetar al agresor a tratamientos especializados psicológico, psiquiátrico o reeducativo que podrá llevarse a cabo en los centros de atención públicos especializados en la Entidad.
 
-### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
+### CAPÍTULO II BIS. VIOLENCIA POLITICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+Artículo 306 BIS. A quien por si, o a través de terceros, por medio de cualquier acción u omisión realizada en contra de una mujer por razón de género, que causen daño físico, psicológico, sexual o económico y tenga por objeto o resultado la restricción, suspensión o impedimento del ejercicio de sus derechos políticos, incluyendo el ejercicio del cargo; la induzca u obligue, por cualquier medio, a tomar decisiones en contra de su voluntad acerca de esos mismos derechos, se le impondrá de dos a cinco años de prisión, y multa de ciento cuarenta y cuatro a trescientas sesenta veces la Unidad de Medida y Actualización, así como, tratamiento integral especializado enfocado a la erradicación de la violencia política.
+
+La pena se aumentará en una mitad cuando este delito:
+
+I. Se cometa en contra de mujeres: embarazadas, adultas mayores, de pueblos originarios, en condición de discapacidad, sin instrucción escolarizada básica, o por su orientación sexual, y
+
+II. Sea perpetrado por quien está en el servicio público, por superiores jerárquicos, Integrantes de partidos políticos o por persona que esté en funciones de dirección en la organización política donde participe la víctima.
+
+Además, en caso de que el sujeto activo sea servidor o servidora pública, se le Inhabilitará para el desempeño del empleo, cargo o comisión público, por un tiempo Igual al de la pena de prisión Impuesta.
+
+SUBTÍTULO DÉCIMO PRIMERO
+
+DELITOS CONTRA EL RESPETO A LOS CADÁVERES O RESTOS HUMANOS
 
 ###### Artículo 302.
 
@@ -4069,9 +4125,9 @@ DELITOS CONTRA LA DIGNIDAD, LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2018)</small>
 
-### CAPÍTULO I. TERRORISMO
+### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 303.
 
@@ -4107,9 +4163,9 @@ Si se incurre en usurpación de funciones o de profesión se aplicarán las regl
 
 No se considerará como intimidación ilícita, informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de acciones legales en contra del deudor, aval, obligado solidario o cualquier relacionado con estos, cuando estas sean jurídicamente posibles.
 
-### CAPÍTULO II. SABOTAJE
+### CAPÍTULO I. TERRORISMO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 306.
 
@@ -4139,17 +4195,15 @@ Asimismo, se incrementará en una mitad la pena cuando los actos previstos en es
 
 La autoridad judicial competente estará obligada en su resolución a señalar a favor de la víctima lo relativo a las medidas afirmativas correspondientes que garanticen que los actos, omisiones o prácticas sociales discriminatorias no se repitan en su perjuicio.
 
-SUBTÍTULO DÉCIMO PRIMERO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2020)</small>
 
-DELITOS CONTRA EL RESPETO A LOS CADÁVERES O RESTOS HUMANOS
+### CAPÍTULO II. SABOTAJE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ### CAPÍTULO III. REBELIÓN
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
-
-### CAPÍTULO IV. SEDICIÓN
-
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 307.
 
@@ -4179,7 +4233,7 @@ SUBTÍTULO PRIMERO
 
 DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPÍTULO V. CONSPIRACIÓN
+### CAPÍTULO IV. SEDICIÓN
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -4189,7 +4243,7 @@ Al que utilizando sustancias tóxicas, armas químicas, biológicas o similares,
 
 Al que teniendo conocimiento de las actividades de un terrorista y su identidad no lo haga saber a las autoridades, se le impondrá de uno a seis años de prisión y multa de setenta y dos a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
 
-### CAPÍTULO VI. MOTÍN
+### CAPÍTULO V. CONSPIRACIÓN
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -4209,7 +4263,9 @@ IV. Vías de comunicación del Estado.
 
 Al que teniendo conocimiento de las actividades de un saboteador y su identidad no lo haga saber a las autoridades, se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientas dieciséis veces la Unidad de Medida y Actualización.
 
-### CAPÍTULO VII. DISPOSICIONES GENERALES
+### CAPÍTULO VI. MOTÍN
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 311.
 
@@ -4259,9 +4315,7 @@ Se impondrá de quince a cincuenta años de prisión y multa de mil ochenta a tr
 
 No se impondrá pena a los que depongan las armas antes de ser tomados prisioneros si no hubiesen cometido algún otro delito además del de rebelión.
 
-### CAPÍTULO ÚNICO. FALSIFICACIÓN, COMERCIO Y USO DE UNIFORMES, INSIGNIAS, MATERIAL Y ACCESORIOS DE LAS CORPORACIONES DE SEGURIDAD PÚBLICA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+### CAPÍTULO VII. DISPOSICIONES GENERALES
 
 ###### Artículo 316.
 
@@ -4269,13 +4323,23 @@ Se impondrá de seis meses a ocho años de prisión y multa de treinta y seis a 
 
 Se impondrá de dos a doce años de prisión y multa de ciento cuarenta y cuatro a ochocientas sesenta y cuatro veces la Unidad de Medida y Actualización, a los autores intelectuales, a quiénes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer este delito.
 
-### CAPÍTULO I. INTIMIDACIÓN
+### CAPÍTULO ÚNICO. FALSIFICACIÓN, COMERCIO Y USO DE UNIFORMES, INSIGNIAS, MATERIAL Y ACCESORIOS DE LAS CORPORACIONES DE SEGURIDAD PÚBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 317.
 
 Siempre que dos o más personas resuelvan cometer alguno de los delitos de que tratan los capítulos tercero, cuarto y sexto de este subtitulo y acuerden los medios para producirlos, se les impondrá de uno a siete años de prisión y multa de setenta y dos a quinientas cuatro veces la Unidad de Medida y Actualización y suspensión de sus derechos políticos hasta por dos años.
+
+### CAPÍTULO I. INTIMIDACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2017)</small>
+
+###### Artículo 318.
+
+Se impondrá de seis meses a siete años de prisión y multa de treinta y seis a quinientas cuatro veces la Unidad de Medida y Actualización y la suspensión o la privación de sus derechos políticos hasta por dos años, a quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley se reúnan tumultuariamente y perturben el orden público o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación, con empleo de violencia.
+
+Se impondrá de uno a diez años de prisión y multa de setenta y dos a setecientas veinte veces la Unidad de Medida y Actualización, a los autores intelectuales, a quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer este delito.
 
 ### CAPÍTULO I BIS. DESAPARICION FORZADA DE PERSONAS
 
@@ -4287,14 +4351,6 @@ Las mismas penas se impondrán al particular que por orden, autorización o con 
 
 Las penas previstas en los párrafos precedentes se disminuirán en una tercera parte, cuando el sujeto activo suministre información que permita esclarecer los hechos y en una mitad, cuando contribuya a lograr la aparición con vida de la víctima
 
-###### Artículo 318.
-
-Se impondrá de seis meses a siete años de prisión y multa de treinta y seis a quinientas cuatro veces la Unidad de Medida y Actualización y la suspensión o la privación de sus derechos políticos hasta por dos años, a quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley se reúnan tumultuariamente y perturben el orden público o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación, con empleo de violencia.
-
-Se impondrá de uno a diez años de prisión y multa de setenta y dos a setecientas veinte veces la Unidad de Medida y Actualización, a los autores intelectuales, a quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer este delito.
-
-### CAPÍTULO II. ENRIQUECIMIENTO ILÍCITO
-
 ###### Artículo 319.
 
 Para todos los efectos legales se considerarán como delitos contra el Estado los consignados en este subtítulo, con excepción de lo previsto en el artículo 314 de este código y los demás que se cometan con motivo de la rebelión, sedición, motín, terrorismo o sabotaje y no estén comprendidos en este subtítulo.
@@ -4303,13 +4359,7 @@ SUBTÍTULO SEGUNDO
 
 FALSIFICACIÓN, COMERCIO Y USO DE UNIFORMES, INSIGNIAS, MATERIAL Y ACCESORIOS DE LAS CORPORACIONES DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO II BIS. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
-
-Artículo 324 BIS. A quien por sí o por interpósita persona, adquiera, enajene, administre, custodie, cambie, deposite, de en garantía, invierta, transporte o transfiera, dentro del territorio del Estado, recursos, derechos o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir, evitar localizar el destino o propiedad de dichos recursos, derechos o bienes o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de trescientas sesenta a mil ochenta veces la Unidad de Medida y Actualización.
-
-Las penas previstas en el párrafo anterior serán aumentadas en una mitad cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores públicos, destitución o inhabilitación para desempeñar empleo, cargo o comisión de tres meses a diez años.
+### CAPÍTULO II. ENRIQUECIMIENTO ILÍCITO
 
 ###### Artículo 320.
 
@@ -4331,7 +4381,13 @@ SUBTITULO TERCERO
 
 DELITOS POR HECHOS Y/O ACTOS DE CORRUPCIÓN
 
-### CAPÍTULO III. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PÚBLICO
+### CAPÍTULO II BIS. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
+
+Artículo 324 BIS. A quien por sí o por interpósita persona, adquiera, enajene, administre, custodie, cambie, deposite, de en garantía, invierta, transporte o transfiera, dentro del territorio del Estado, recursos, derechos o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir, evitar localizar el destino o propiedad de dichos recursos, derechos o bienes o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de trescientas sesenta a mil ochenta veces la Unidad de Medida y Actualización.
+
+Las penas previstas en el párrafo anterior serán aumentadas en una mitad cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores públicos, destitución o inhabilitación para desempeñar empleo, cargo o comisión de tres meses a diez años.
 
 ###### Artículo 321.
 
@@ -4345,13 +4401,11 @@ II. Al servidor público que por sí o por interpósita persona, ejerza represal
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2017)</small>
 
+### CAPÍTULO III. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PÚBLICO
+
 ### CAPÍTULO IV. USO ILEGAL DE LA FUERZA PÚBLICA Y ABUSO DE AUTORIDAD
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
-
-### CAPÍTULO V. COALICIÓN DE SERVIDORES PÚBLICOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 322.
 
@@ -4379,11 +4433,11 @@ Se reputarán, salvo prueba en contrario, que los bienes del cónyuge de los ser
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2017)</small>
 
+### CAPÍTULO V. COALICIÓN DE SERVIDORES PÚBLICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2017)</small>
+
 ### CAPÍTULO VI. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
-
-### CAPÍTULO VII. NEGACIÓN DEL SERVICIO PÚBLICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 325.
 
@@ -4457,9 +4511,9 @@ Se impondrán de tres meses a cuatro años de prisión y multa de dieciocho a do
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2017)</small>
 
-### CAPÍTULO VIII. TRÁFICO DE INFLUENCIA
+### CAPÍTULO VII. NEGACIÓN DEL SERVICIO PÚBLICO
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 331.
 
@@ -4505,7 +4559,9 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones V a VIII, XII y XIII, se le impondrá de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho veces la Unidad de Medida y Actualización y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPÍTULO IX. COHECHO
+### CAPÍTULO VIII. TRÁFICO DE INFLUENCIA
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 333.
 
@@ -4517,31 +4573,7 @@ A los autores intelectuales, a los instigadores o a quienes dirijan el grupo coa
 
 No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o hagan uso del derecho de huelga.
 
-### CAPÍTULO IX BIS. EXTORSIÓN
-
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
-
-Artículo 338 BIS. Se impondrá de cuatro a quince años de prisión y multa de doscientas ochenta y ocho a setecientas veinte veces la Unidad de Medida y Actualización, al que sin derecho, por cualquier medio, obligue a otro a hacer algo, con ánimo de lucro para sí o para otro, o causando un perjuicio patrimonial o moral, en contra de una persona o personas.
-
-Además de las penas señaladas en el primer párrafo, se impondrá de cuatro a diez años de prisión y multa de doscientas ochenta y ocho a setecientas veinte veces la Unidad de Medida y Actualización, cuando:
-
-I. En la comisión del delito Intervenga una o más personas armadas o portando instrumentos que puedan poner en peligro la vida;
-
-II. Se emplee violencia;
-
-III. El autor del delito se ostente por cualquier medio como miembro de la delincuencia organizada, en los términos de la ley de la materia;
-
-IV. El autor del delito obtenga o manifieste su pretensión de seguir obteniendo, en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
-
-V. Se cometa por vía telefónica, cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos; radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
-
-VI. Si el sujeto activo del delito de extorsión, se encuentra privado de su libertad personal;
-
-VII. Si es cometido en contra de un menor de edad, de una mujer en estado de gravidez o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años;
-
-VIII. Participe algún miembro de una corporación policiaca u otro servidor público. Además de las penas previstas, también se impondrán como penas la destitución del cargo en cuanto esté firme la sentencia y la inhabilitación por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir de que recobre su libertad; y,
-
-IX. Participen trabajadores de instituciones públicas o privadas que tengan acceso a bancos de datos personales y que los utilicen de manera indebida o la sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en sus diversas modalidades.
+### CAPÍTULO IX. COHECHO
 
 ###### Artículo 334.
 
@@ -4595,9 +4627,31 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 Cuando las conductas previstas en el artículo anterior produzcan beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, concubina o concubinario, adoptante o adoptado o cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, se le aumentarán las penas en una tercera parte.
 
-### CAPÍTULO X. PECULADO
+### CAPÍTULO IX BIS. EXTORSIÓN
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
+
+Artículo 338 BIS. Se impondrá de cuatro a quince años de prisión y multa de doscientas ochenta y ocho a setecientas veinte veces la Unidad de Medida y Actualización, al que sin derecho, por cualquier medio, obligue a otro a hacer algo, con ánimo de lucro para sí o para otro, o causando un perjuicio patrimonial o moral, en contra de una persona o personas.
+
+Además de las penas señaladas en el primer párrafo, se impondrá de cuatro a diez años de prisión y multa de doscientas ochenta y ocho a setecientas veinte veces la Unidad de Medida y Actualización, cuando:
+
+I. En la comisión del delito Intervenga una o más personas armadas o portando instrumentos que puedan poner en peligro la vida;
+
+II. Se emplee violencia;
+
+III. El autor del delito se ostente por cualquier medio como miembro de la delincuencia organizada, en los términos de la ley de la materia;
+
+IV. El autor del delito obtenga o manifieste su pretensión de seguir obteniendo, en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
+
+V. Se cometa por vía telefónica, cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos; radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
+
+VI. Si el sujeto activo del delito de extorsión, se encuentra privado de su libertad personal;
+
+VII. Si es cometido en contra de un menor de edad, de una mujer en estado de gravidez o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años;
+
+VIII. Participe algún miembro de una corporación policiaca u otro servidor público. Además de las penas previstas, también se impondrán como penas la destitución del cargo en cuanto esté firme la sentencia y la inhabilitación por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir de que recobre su libertad; y,
+
+IX. Participen trabajadores de instituciones públicas o privadas que tengan acceso a bancos de datos personales y que los utilicen de manera indebida o la sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en sus diversas modalidades.
 
 ###### Artículo 336.
 
@@ -4607,7 +4661,9 @@ I. Niegue o retarde a los particulares la protección, el auxilio o el servicio 
 
 II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerido legalmente por una autoridad competente para que le preste el auxilio, se niegue indebidamente a proporcionarlo.
 
-### CAPÍTULO XI. CONCUSIÓN
+### CAPÍTULO X. PECULADO
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
 
 ###### Artículo 337.
 
@@ -4615,9 +4671,7 @@ El servidor público que por sí o por interpósita persona, influyere en otro s
 
 Si la conducta produce un beneficio económico que exceda de quinientas veces la Unidad de Medida y Actualización, se le impondrán de tres a doce años de prisión y multa de doscientos dieciséis a ochocientos sesenta y cuatro veces la Unidad de Medida y Actualización.
 
-### CAPÍTULO XII. EJERCICIO ABUSIVO DE FUNCIONES
-
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
+### CAPÍTULO XI. CONCUSIÓN
 
 ###### Artículo 338.
 
@@ -4637,13 +4691,13 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2017)</small>
 
+### CAPÍTULO XII. EJERCICIO ABUSIVO DE FUNCIONES
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
+
 ### CAPÍTULO XIII. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
-
-### CAPÍTULO I. USURPACIÓN DE FUNCIONES PÚBLICAS, PROMOCIÓN DE CONDUCTAS ILÍCITAS, COHECHO Y DISTRACCIÓN DE RECURSOS PÚBLICOS
-
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 339.
 
@@ -4663,15 +4717,9 @@ Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda
 
 Cuando los recursos materia del peculado sean aportaciones federales para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
 
-### CAPÍTULO I BIS. PRESTACIÓN INDEBIDA DE SERVICIOS EDUCATIVOS
+### CAPÍTULO I. USURPACIÓN DE FUNCIONES PÚBLICAS, PROMOCIÓN DE CONDUCTAS ILÍCITAS, COHECHO Y DISTRACCIÓN DE RECURSOS PÚBLICOS
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
-
-Artículo 349 bis. A quién con o sin ánimo de lucro constituya, fomente o administre centros donde se presten servicios educativos, que no cuenten con la debida autorización expedida por autoridad competente o que omita cumplir con los requisitos establecidos en la normatividad aplicable, se le impondrán de tres a ocho años de prisión y multa de doscientas dieciséis a quinientas setenta y seis veces la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2014)</small>
-
-Artículo 349 bis 1. A quien ejerza funciones de docente en los centros educativos a que hace referencia el artículo anterior, se le impondrán hasta un tercio de las sanciones referidas en el mismo numeral.
 
 ###### Artículo 340.
 
@@ -4689,9 +4737,15 @@ II. Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinient
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2017)</small>
 
-### CAPÍTULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPÍTULO I BIS. PRESTACIÓN INDEBIDA DE SERVICIOS EDUCATIVOS
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+Artículo 349 bis. A quién con o sin ánimo de lucro constituya, fomente o administre centros donde se presten servicios educativos, que no cuenten con la debida autorización expedida por autoridad competente o que omita cumplir con los requisitos establecidos en la normatividad aplicable, se le impondrán de tres a ocho años de prisión y multa de doscientas dieciséis a quinientas setenta y seis veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2014)</small>
+
+Artículo 349 bis 1. A quien ejerza funciones de docente en los centros educativos a que hace referencia el artículo anterior, se le impondrán hasta un tercio de las sanciones referidas en el mismo numeral.
 
 ###### Artículo 340 Bis.
 
@@ -4709,7 +4763,7 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO XII], P.O. 16 DE JULIO DE 2017)
 
-### CAPÍTULO III. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJO PÚBLICOS
+### CAPÍTULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -4743,9 +4797,9 @@ SUBTÍTULO CUARTO
 
 DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
 
-### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
+### CAPÍTULO III. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJO PÚBLICOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 345.
 
@@ -4785,11 +4839,11 @@ Se le impondrán la mitad de las penas previstas para el delito de enriquecimien
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2014)</small>
 
+### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
-
-### CAPÍTULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
-
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 350.
 
@@ -4817,7 +4871,7 @@ Las penas serán de uno a cinco años de prisión y multa de setenta y dos a tre
 
 Cuando la ley autorice el empleo de medios de apremio para hacer efectivos los mandatos de la autoridad, la consumación de los delitos de desobediencia y resistencia de particulares, se producirá en el momento en que se agote el empleo de tales medios de apremio.
 
-### CAPÍTULO VII. COACCIÓN
+### CAPÍTULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -4829,9 +4883,9 @@ Cuando el delito se cometa por varias personas de común acuerdo, se impondrá d
 
 Se impondrá de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización, a los autores intelectuales, a quiénes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros, para cometer el delito de oposición a la ejecución de obras o trabajos públicos.
 
-### CAPÍTULO VIII. PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
+### CAPÍTULO VII. COACCIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 356.
 
@@ -4841,29 +4895,29 @@ Se sancionará con las mismas penas, al titular, propietario o responsable de un
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO IX. REGLAS COMUNES PARA LOS DELITOS EN CONTRA DEL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
+### CAPÍTULO VIII. PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 357.
 
 (DEROGADO, P.O. 25 DE JUNIO DE 2017)
 
-### CAPÍTULO I. DELITOS EN CONTRA DE LA ADECUADA IMPARTICIÓN DE JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
+### CAPÍTULO IX. REGLAS COMUNES PARA LOS DELITOS EN CONTRA DEL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 358.
 
 Al que para hacer efectivo un derecho o pretendido derecho, que deba ejercitar, empleare violencia, se le impondrá de tres meses a un año de prisión o multa de dieciocho a setenta y dos veces la Unidad de Medida y Actualización.
 
-### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+### CAPÍTULO I. DELITOS EN CONTRA DE LA ADECUADA IMPARTICIÓN DE JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
 
 ###### Artículo 359.
 
 Se impondrá de seis meses a un año de prisión y multa de treinta y seis a setenta y dos veces la Unidad de Medida y Actualización, a quien coaccione a la autoridad por medio de la violencia, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones.
 
-### CAPÍTULO III. TORTURA
+### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -4887,9 +4941,9 @@ Quien conduzca un vehículo que preste servicio público de transporte con una s
 
 Las penas aplicables a que se refiere el artículo anterior, se aumentarán de una a dos terceras partes a quien obtenga y/o utilice indebidamente cualquier documento, tarjeta o placa de circulación y engomado que corresponda al que identifique las unidades que presten el servicio público de transporte.
 
-### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
+### CAPÍTULO III. TORTURA
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 362.
 
@@ -4899,11 +4953,11 @@ SUBTÍTULO QUINTO
 
 DELITOS EN CONTRA DE LA ADECUADA IMPARTICIÓN DE JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
 
+### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+
 ### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICOS FORENSES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
-
-### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -4955,9 +5009,9 @@ Se impondrá de tres meses a tres años de prisión y multa de dieciocho a dosci
 
 Se impondrá de seis meses a seis años de prisión y multa de treinta y seis a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización, destitución e inhabilitación de seis meses a seis años para desempeñar empleo, cargo o comisión públicos, a los imputados de los delitos previstos en las fracciones VIII a la XVII de este artículo.
 
-### CAPÍTULO VII. EVASIÓN DE PRESOS
+### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 364.
 
@@ -4979,7 +5033,9 @@ VII. Practique cateos o visitas domiciliarias fuera de los casos autorizados por
 
 VIII. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a otro.
 
-### CAPÍTULO VIII. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LA LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO VII. EVASIÓN DE PRESOS
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 365.
 
@@ -5009,9 +5065,7 @@ El servidor público que en el ejercicio de sus funciones conozca de un hecho de
 
 No se considerarán como causas excluyentes de responsabilidad penal del delito de tortura, el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
-### CAPÍTULO I. FRAUDE PROCESAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+### CAPÍTULO VIII. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LA LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 369.
 
@@ -5081,7 +5135,7 @@ XXXI.- Obligue a una persona a renunciar a su cargo o empleo para evitar respond
 
 XXXII.- A quien ejerciendo funciones de supervisor de libertad o con motivo de ellas hiciere amenazas, hostigue o ejerza violencia en contra de la persona procesada, sentenciada, su familia y posesiones;
 
-XXXIII.- A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia, de bienes de la persona procesada, sentenciada o su familia; y,
+XXXIII.- A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia; y,
 
 XXXIV.- A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución.
 
@@ -5097,9 +5151,9 @@ En caso de tratarse de particulares realizando funciones propias del supervisor 
 
 Se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientas dieciséis veces la Unidad de Medida y Actualización, al servidor público que por sí o por interpósita persona durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte pruebas relativas a la comisión de un delito.
 
-### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
+### CAPÍTULO I. FRAUDE PROCESAL
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 371.
 
@@ -5139,9 +5193,9 @@ Las mismas penas que señala el artículo 369 se aplicarán al profesional en me
 
 Se impondrá de seis meses a un año de prisión y multa de treinta y seis a setenta y dos veces la Unidad de Medida y Actualización, al profesional en medicina, técnico o práctico que con motivo de su profesión o actividad, tenga conocimiento del estado de abandono de un recién nacido, persona menor de edad o que no tenga la capacidad de comprender los hechos o adulto mayor y omita dar aviso inmediato a la Procuraduría de la Defensa del Menor, la Mujer y la Familia del DIF Estatal o a la autoridad que exista en el lugar, quedando bajo la responsabilidad de esta última el informar a la autoridad competente.
 
-### CAPÍTULO III. VARIACIÓN DEL NOMBRE, DOMICILIO O NACIONALIDAD
+### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 375.
 
@@ -5155,9 +5209,9 @@ III. Permita ilegalmente la salida de personas privadas de su libertad como proc
 
 IV. Permita o introduzca objetos de los prohibidos en el reglamento interior de los centros de reclusión o internamiento.
 
-### CAPÍTULO IV. SIMULACIÓN DE PRUEBAS
+### CAPÍTULO III. VARIACIÓN DEL NOMBRE, DOMICILIO O NACIONALIDAD
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 376.
 
@@ -5193,9 +5247,9 @@ Al sujeto activo no se le impondrá pena o medida de seguridad alguna, salvo que
 
 Cuando un particular cometa o participe en alguno de los delitos previsto en este capítulo, se le impondrá la mitad de las penas establecidas.
 
-### CAPÍTULO V. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+### CAPÍTULO IV. SIMULACIÓN DE PRUEBAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 381.
 
@@ -5223,7 +5277,7 @@ SUBTÍTULO SEXTO
 
 DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA COMETIDOS POR PARTICULARES
 
-### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPÍTULO V. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -5233,7 +5287,7 @@ Se le impondrán de seis meses a seis años de prisión y multa de treinta y sei
 
 Cuando en la comisión de este delito participe un licenciado en Derecho o litigante legalmente autorizado, además se le suspenderá en el ejercicio profesional o en la actividad indicada, por un término igual al de la prisión impuesta, haciéndose lo anterior del conocimiento de la autoridad que corresponda para la vigilancia de la pena impuesta.
 
-### CAPÍTULO I. FALSIFICACIÓN O ALTERACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
+### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -5275,7 +5329,7 @@ Además de las penas a que se refieren los artículos anteriores, se suspenderá
 
 Se impondrán las penas a que se refiere el artículo 387 de este código al que soborne, obligue, comprometa o intimide a un testigo, perito o intérprete, para que se conduzca con falsedad en juicio.
 
-### CAPÍTULO II. FALSIFICACIÓN O ALTERACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
+### CAPÍTULO I. FALSIFICACIÓN O ALTERACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -5289,7 +5343,7 @@ II. Al que para eludir la práctica de una diligencia judicial o una notificaci�
 
 III. Al que ante la autoridad, diere una nacionalidad falsa o que sin derecho para ello se haga pasar como mexicano o extranjero en cualquier documento público.
 
-### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+### CAPÍTULO II. FALSIFICACIÓN O ALTERACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -5297,7 +5351,7 @@ III. Al que ante la autoridad, diere una nacionalidad falsa o que sin derecho pa
 
 Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad judicial, simule en su contra la existencia de pruebas que hagan probable su responsabilidad, se le impondrán de uno a cinco años de prisión y multa de setenta y dos a trescientas sesenta veces la Unidad de Medida y Actualización.
 
-### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
+### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -5321,9 +5375,9 @@ VII. Como representante de la víctima o el ofendido, se concrete a aceptar el c
 
 VIII. Teniendo a su cargo la custodia de documentos los extravíe por negligencia inexcusable.
 
-### CAPÍTULO V. USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA Y DE DENUNCIA
+### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 395.
 
@@ -5361,9 +5415,9 @@ SUBTÍTULO SÉPTIMO
 
 DELITOS CONTRA LA FE PÚBLICA
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO V. USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA Y DE DENUNCIA
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
 
 ###### Artículo 399.
 
@@ -5394,6 +5448,10 @@ VI. Adquiera, utilice o posea equipos electromagnéticos o electrónicos para su
 VII. Utilice indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes y servicios o de los titulares de dichos instrumentos o documentos.
 
 Si el sujeto activo es empleado o dependiente de la víctima u ofendido, las penas se aumentarán en una mitad.
+
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
 ###### Artículo 401.
 
@@ -6286,3 +6344,47 @@ P.O. 29 DE MARZO DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 306.-·QUE CONTIENE REFORMAS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 310. POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 147 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE DELITO DE FEMINICIDIO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 311.- QUE CONTIENE REFORMAS Y ADICIONES AL ARTÍCULO 115 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE PRESCRIPCIÓN DE DELITOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 312.- QUE CONTIENE REFORMAS AL ARTÍCULO 182 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE HOSTIGAMIENTO SEXUAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 313.- QUE CONTIENE REFORMAS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LA MUJER".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
