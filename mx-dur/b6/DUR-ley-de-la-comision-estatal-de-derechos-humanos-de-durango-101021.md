@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2019-11-17"
+last_updated: "2020-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -185,9 +185,9 @@ XIII. Colaborar con la Comisión Nacional durante las visitas de supervisión pe
 
 XIV. Expedir el Reglamento y el Reglamento del Servicio Profesional en Derechos Humanos, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XV. Elaborar y ejecutar programas preventivos en materia de derechos humanos, en los que se deberá incluir la capacitación a las autoridades estatales y municipales sobre en materia;
+XV. Elaborar y ejecutar programas preventivos en materia de derechos humanos, en los que se deberá incluir la capacitación a las autoridades estatales y municipales sobre la materia; así como la observancia del seguimiento, evaluación y monitoreo, en materia de igualdad entre mujeres y hombres;
 
 > <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -205,13 +205,21 @@ XVIII. Promover, dentro del ámbito de su competencia, el derecho de las persona
 
 XIX. Supervisar el debido respeto de los derechos humanos en las áreas de detención, retención, aseguramiento e internamiento del Estado, oficinas del Ministerio Público, reclusorios y sedes judiciales, para verificar que las autoridades hagan efectivos los derechos que se establecen en la Constitución Política de los Estados Unidos Mexicanos, en la Local y en los Tratados, convenciones o acuerdos internacionales que el Estado Mexicano haya ratificado en materia de detención y procesamiento;
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XX. Desarrollar programas encaminados a la protección de la libertad de expresión y de los derechos humanos de los profesionales que ejercen el periodismo; y
+XX. Desarrollar programas encaminados a la protección de la libertad de expresión y de los derechos humanos de los profesionales que ejercen el periodismo;
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2020)</small>
 
-XXI. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
+XXI. Difundir programas preventivos en materia de derechos humanos elaborados en la lengua materna de los grupos étnicos reconocidos en el Estado, para que sus integrantes los puedan entender y tengan acceso a una mejor defensa y conocimiento de sus derechos.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XXII. Impulsar la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes en general y con las particulares consideraciones para los menores integrantes de los grupos indígenas de nuestro Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE MAYO DE 2020)</small>
+
+XXIII. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 
 ## TÍTULO II. ESTRUCTURA DE LA COMISIÓN
 
@@ -325,7 +333,9 @@ I. Ejercer la representación legal de la Comisión, y en caso necesario, design
 
 II. Ejercer el presupuesto aprobado por el Congreso del Estado, según lo establecido en el artículo 8 de esta Ley;
 
-III. Nombrar, remover, dirigir y coordinar al personal bajo su mando;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+III. Nombrar, remover, dirigir y coordinar al personal bajo su mando; así como designar, atendiendo a la disponibilidad presupuestal, dentro de la estructura orgánica de la Comisión, una instancia responsable encargada de aplicar lo establecido en Ley General de Mejora Regulatoria, o bien, coordinarse con la Autoridad de Mejora Regulatoria del Estado para el cumplimiento de las obligaciones de dicha materia;
 
 IV. Dictar las medidas que juzgue convenientes para el mejor desempeño de las funciones de la Comisión;
 
@@ -1038,3 +1048,27 @@ SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entr
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 298 QUE CONTIENE REFORMAS A LA FRACCIÓN XV DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 299.·QUE CONTIENE REFORMAS A LA FRACCIÓN III DEL ARTÍCULO 22 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 303.- QUE CONTIENE REFORMAS Y ADICIONES AL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
