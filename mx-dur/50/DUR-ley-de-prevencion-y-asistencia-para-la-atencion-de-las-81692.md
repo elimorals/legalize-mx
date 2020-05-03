@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-prevencion-y-asistencia-para-la-atencion-de-las-81692"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-17"
-last_updated: "2017-03-19"
+last_updated: "2020-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PREVENCIÓN Y ASISTENCIA PARA LA ATENCIÓN DE LAS ADICCIONES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de abril de 2001.
 
@@ -47,15 +47,21 @@ LEY DE PREVENCIÓN Y ASISTENCIA PARA LA ATENCION DE LAS ADICCIONES DEL ESTADO DE
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 1.
 
-La presente ley es de orden público, interés social y observancia general en todo el Estado, su aplicación compete a la Secretaría de Salud, a través del Consejo Estatal de Prevención y Asistencia de las adicciones y tiene por objeto:
+La presente Ley es de orden público, interés social y observancia general en todo el Estado, su aplicación compete al Consejo de Prevención y Asistencia de las Adicciones del Estado de Durango, así como al organismo descentralizado Servicios de Salud Durango a través de la Comisión Estatal Contra las Adicciones y tiene por objeto:
 
-l. Establecer las competencias, actividades y funciones en materia de adicciones del Gobierno del Estado, de los Ayuntamientos y de las entidades privadas e instituciones relacionadas con la prevención, tratamiento, rehabilitación, control y formación en dicho campo en el Estado;
+I. Establecer las competencias, actividades y funciones en materia de adicciones del Gobierno del Estado, de los Ayuntamientos y de las entidades privadas e instituciones relacionadas con la prevención, tratamiento, rehabilitación, control y formación en dicho campo en el Estado;
 
-II. La regulación e implementación del conjunto de medidas, acciones y estrategias dirigidas a la prevención de las adicciones, a la atención e incorporación social de los adictos y a la formación e investigación en dicho campo;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-III. Considerar las adicciones como una enfermedad con repercusiones en las esferas biológica, psicológica y social del individuo, mediante la integración de las actuaciones de asistencia e integración social del adicto en el Sistema de Salud;
+II. La regulación e implementación del conjunto de medidas, acciones y estrategias dirigidas a la prevención de las adicciones, a la atención e incorporación social de las personas que padecen problemas de adicciones y a la formación e investigación en dicho campo;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+III. Considerar las adicciones como una enfermedad con repercusiones en las esferas biológica, psicológica y social del individuo, mediante la integración de las actuaciones de asistencia e integración social de las personas que padecen problemas de adicciones en el Sistema de Salud;
 
 IV. Establecer las bases de política pública en materia de atención de las adicciones, a partir de un enfoque de irrestricto respeto a los Derechos Humanos y que atienda las necesidades en función de género;
 
@@ -89,73 +95,95 @@ Para los efectos de la presente Ley se entiende por:
 
 I. Adicción o Trastorno Adictivo: Patrón desadaptado de comportamiento compulsivo provocado por la dependencia psíquica, física o de las dos clases a una sustancia o conducta determinada y que repercuta negativamente en las áreas psicológica, física, familiar o social de la persona y de su entorno;
 
-II. Centro: Lugar público, social o privado, cualquiera que sea su denominación, fijo o móvil, en el que se presten servicios de prevención, tratamiento y rehabilitación a personas con problemas de adicción;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-III. Centros de Atención a las Personas con Adicciones: Instituciones públicas o privadas, dependientes y auxiliares del Consejo Estatal de Prevención y Asistencia de la Adicción, en las cuales se prestan servicios de atención integral a personas con consumo de sustancias psicoactivas y a la población en general en materia de prevención;
+II. Centro: Institución social o privada, cualquiera que sea su denominación, que presta servicios de prevención, tratamiento y rehabilitación a personas con problemas de adicción, que puede atender en un espacio fijo o móvil;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+III. Centro Público: Institución pública, dependiente o auxiliar de la Comisión, en la cual se prestan servicios de prevención, tratamiento y rehabilitación a personas con problemas de adicción;
 
 IV. CONADIC: Comisionado Nacional Contra las Adicciones;
 
-V. Consejo: Consejo Estatal para la Prevención y Asistencia de las Adicciones del Estado de Durango;
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
 
-VI. Consejo Municipal: Consejo Municipal contra las Adicciones;
+V. Comisión: Comisión Estatal Contra las Adicciones dependiente del organismo público descentralizado Servicios de Salud Durango;
 
-VII. Consumo de sustancias psicoactivas: es el rubro genérico que agrupa diversos patrones de uso y abuso de estas sustancias, ya sean medicamentos o tóxicos naturales, químicos o sintéticos que actúan sobre el Sistema Nervioso Central;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-VIII. Coordinador: El Coordinador General de un Centro, quien fungirá como su representante legal;
+VI. Consejo: Consejo de Prevención y Asistencia de las Adicciones del Estado de Durango;
 
-IX. Droga: Cualquier sustancia natural o artificial que, introducida dentro del organismo humano, pueda modificar una o más funciones de la persona, la percepción de la realidad así como su capacidad volitiva y sea capaz de generar adicción o dependencia e implique efectos nocivos para la salud y el bienestar individual o social;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+VII. Consejo Municipal: Consejo Municipal para la Prevención y Asistencia de las Adicciones;
 
-X. Grupo de alto riesgo: es aquél en el que se ha demostrado, a través de diversas investigaciones y estudios, que, por sus características biopsicosociales y de vulnerabilidad social, tiene mayor probabilidad de uso, abuso o dependencia a sustancias psicoactivas, tales como niñas, niños y adolescentes, menores de edad en situación de calle, madres adolescentes, entre otros;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XI. Ley: Ley de Prevención y Asistencia para la Atención de las Adicciones del Estado de Durango;
+VIII. Consumo de sustancias psicoactivas: Es el rubro genérico que agrupa diversos patrones de uso y abuso de estas sustancias, ya sean medicamentos o tóxicos naturales, químicos o sintéticos que actúan sobre el Sistema Nervioso Central;
 
-XII. Norma Oficial Mexicana: Norma Oficial Mexicana 028-SSA2-1999, para la prevención, tratamiento y control de las adicciones;
+IX. Coordinador: El Coordinador General de un Centro, quien fungirá como su representante legal;
 
-XIII. Participación social: Participación efectiva y concreta de la comunidad en el acuerdo de prioridades, toma de decisiones y elaboración y puestas en marcha de estrategias de planificación para prevenir y atender el consumo de sustancias;
+X. Droga: Cualquier sustancia natural o artificial que, introducida dentro del organismo humano, pueda modificar una o más funciones de la persona, la percepción de la realidad así como su capacidad volitiva y sea capaz de generar adicción o dependencia e implique efectos nocivos para la salud y el bienestar individual o social;
 
-XIV. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y las exclusiones de las mujeres, que se pretende justificar con bases en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XV. Prevención: Conjunto de actuaciones dirigidas a eliminar o modificar los factores de riesgo asociados al consumo de drogas o a otras conductas adictivas, con la finalidad de evitar que éstas se produzcan, se retrase su inicio, o bien que no se conviertan en un problema para la persona o su entorno social;
+XI. Grupo de alto riesgo: Es aquél en el que se ha demostrado, a través de diversas investigaciones y estudios, que, por sus características biopsicosociales y de vulnerabilidad social, tiene mayor probabilidad de uso, abuso o dependencia a sustancias psicoactivas, tales como niñas, niños y adolescentes, menores de edad en situación de calle, madres adolescentes, entre otros;
 
-XVI. Prevención indicada: Es el conjunto de acciones dirigidas a grupos de población que han experimentado con drogas psicoactivas y presentan conductas problemáticas relacionadas con el abuso de sustancias psicoactivas por lo que requieren de intervenciones especificas para disminuir o dejar de consumirlas;
+XII. Ley: Ley de Prevención y Asistencia para la Atención de las Adicciones del Estado de Durango;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+XIII. Norma Oficial Mexicana: Norma Oficial Mexicana 028-SSA2-1999, para la prevención, tratamiento y control de las adicciones;
 
-XVII. Prevención selectiva: Es el conjunto de actividades dirigidas a la población con un alto riesgo para el abuso de sustancias psicoactivas, por lo que requieren acciones adecuadas a su situación, tales como hijos de alcohólicos, reclusos, menores de edad que hayan realizado una conducta prevista como delito en la ley penal, víctimas de violencia doméstica y abuso sexual, niñas, niños y adolescentes con problemas de aprendizaje y/o de conducta, etc. Estos grupos se asocian, al consumo de drogas ya que se han identificado factores biológicos, psicológicos, sociales y ambientales que sustentan la vulnerabilidad. Asimismo, se coadyuva a la atención a grupos específicos de niños en situación de calle, indígenas y adultos mayores;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XVIII. Prevención universal: Es el conjunto de acciones dirigidas a la población en general, que buscan retrasar o evitar el inicio en el consumo de sustancias psicoactivas y se lleva a cabo mediante la promoción de la salud para crear conocimiento y orientar sobre la problemática del consumo de sustancias y las formas de prevención;
+XIV. Participación social: Participación efectiva y concreta de la comunidad en el acuerdo de prioridades, toma de decisiones, elaboración y puestas en marcha de estrategias de planificación para prevenir y atender cualquier tipo de adicción;
 
-XIX. Programa: Programa Estatal de Prevención y Asistencia de las Adicciones del Estado de Durango;
+XV. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y las exclusiones de las mujeres, que se pretende justificar con bases en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
 
-XX. Secretaría: La Secretaría de Salud del Gobierno del Estado de Durango;
+XVI. Prevención: Conjunto de actuaciones dirigidas a eliminar o modificar los factores de riesgo asociados al consumo de drogas o a otras conductas adictivas, con la finalidad de evitar que éstas se produzcan, se retrase su inicio, o bien que no se conviertan en un problema para la persona o su entorno social;
 
-XXI. Tratamiento: Todas aquellas medidas dirigidas a dar cobertura sanitaria, psicológica y social a las personas afectadas por adicciones, como consecuencia del uso o abuso de sustancias, las actividades o los instrumentos descritos en los apartados anteriores, y que incluye:
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XVII. Prevención indicada: Es el conjunto de acciones dirigidas a grupos de población que han experimentado con drogas psicoactivas y presentan conductas problemáticas relacionadas con el abuso de sustancias psicoactivas por lo que requieren de intervenciones específicas para disminuir o dejar de consumirlas;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XVIII. Prevención selectiva: Es el conjunto de actividades dirigidas a la población con un alto riesgo para el abuso de sustancias psicoactivas, por lo que requieren acciones adecuadas a su situación, tales como hijos de alcohólicos, reclusos, víctimas de violencia doméstica y abuso sexual, niñas, niños y adolescentes que hayan realizado una conducta prevista como delito en la ley penal o con problemas de aprendizaje y/o de conducta, etc. Estos grupos se asocian, al consumo de drogas ya que se han identificado factores biológicos, psicológicos, sociales y ambientales que sustentan la vulnerabilidad. Asimismo, se coadyuva a la atención a grupos específicos de niñez en situación de calle, indígenas y adultos mayores;
+
+XIX. Prevención universal: Es el conjunto de acciones dirigidas a la población en general, que buscan retrasar o evitar el inicio en el consumo de sustancias psicoactivas y se lleva a cabo mediante la promoción de la salud para crear conocimiento y orientar sobre la problemática del consumo de sustancias y las formas de prevención;
+
+XX. Programa: Programa Estatal de Prevención y Asistencia de las Adicciones del Estado de Durango;
+
+XXI. Secretaría: La Secretaría de Salud del Gobierno del Estado de Durango;
+
+XXII. Tratamiento: Todas aquellas medidas dirigidas a dar cobertura sanitaria, psicológica y social a las personas afectadas por adicciones, como consecuencia del uso o abuso de sustancias, las actividades o los instrumentos descritos en los apartados anteriores, y que incluye:
 
 a. Asistencia: Parte del proceso de atención orientada a la desintoxicación y tratamiento de trastornos físicos y psicológicos causados por el consumo o que están asociados al mismo, que incluye todos los tratamientos que permitan una mejora de las condiciones de vida de los pacientes. En la asistencia se incluyen los procesos de desintoxicación, deshabituación, reducción de riesgos, reducción de daños y los programas libres de drogas.
 
-b. Desintoxicación. Proceso terapéutico que tiene como objetivo la interrupción de la intoxicación producida por una sustancia psicoactiva exógena al organismo humano.
+b. Desintoxicación: Proceso terapéutico que tiene como objetivo la interrupción de la intoxicación producida por una sustancia psicoactiva exógena al organismo humano.
 
-c. Deshabituación: Conjunto de Técnicas terapéuticas encaminadas al aprendizaje de estrategias que permitan enfrentarse a los factores de riesgo asociados al trastorno adictivo, con el objetivo final de controlar su dependencia.
+c. Deshabituación: Conjunto de técnicas terapéuticas encaminadas al aprendizaje de estrategias que permitan enfrentarse a los factores de riesgo asociados al trastorno adictivo, con el objetivo final de controlar su dependencia.
 
-d. Reducción de riesgos: Estrategias de intervención orientadas a modificar las conductas susceptibles de aumentar los efectos especialmente graves para la salud asociados al uso de drogas o productos que generen conductas adictivas.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
-e. Reducción de daños: Estrategias de intervención dirigidas a disminuir los efectos especialmente negativos que pueden producir algunas formas de uso de drogas, o las patologías asociadas.
+d. Reducción de riesgos: Estrategias de intervención orientadas a modificar las conductas susceptibles de aumentar los efectos especialmente graves para la salud asociados al uso de drogas o productos que generen conductas adictivas;
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
+e. Reducción de daños: Estrategias de intervención dirigidas a disminuir los efectos especialmente negativos que pueden producir algunas formas de uso de drogas, o las patologías asociadas; y
 
 f. Rehabilitación: Es la fase de la atención terapéutica que se orienta a la recuperación o al aprendizaje de estrategias y comportamientos que permitan o faciliten la incorporación y convivencia social.
 
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XXIII. Integración Comunitaria: Proceso de inserción o reinserción de la persona que padece una farmacodependencia u otra adicción, al medio familiar, social, educativo y laboral en condiciones que le permitan llevar una vida autónoma, respetuosa de la ley y responsable en igualdad de condiciones que el resto de ciudadanos;
+
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
-XXII. Incorporación social: Proceso de inserción o reinserción de la persona que padece una farmacodependencia u otra adicción, en el medio familiar, social, educativo y laboral con unas condiciones que le permitan llevar una vida autónoma y responsable en igualdad de condiciones que el resto de ciudadanos;
+XXIV. Usuario: Es toda aquella persona que requiera y obtenga la prestación de cualquier tipo de servicio relacionado con el uso, abuso o dependencia de sustancias psicotrópicas. Al hacer mención en esta Norma a la palabra usuario, se entenderá a sujetos tanto de sexo femenino como masculino; y
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XXIII. Usuario: Es toda aquella persona que requiera y obtenga la prestación de cualquier tipo de servicio relacionado con el uso, abuso o dependencia de sustancias psicotrópicas. Al hacer mención en esta Norma a la palabra usuario, se entenderá a sujetos tanto de sexo femenino como masculino; y
-
-> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
-
-XXIV. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, dependiente del Sistema Estatal para el Desarrollo Integral de la Familia;
+XXV. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, dependiente del Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ###### ARTÍCULO 3.
 
@@ -177,21 +205,35 @@ VI. Globalidad: consideración de los aspectos sanitarios, psicológicos, social
 
 VII. Transversalidad: coordinación y cooperación intersectorial e interinstitucional.
 
-### CAPITULO II
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2020)</small>
 
-DEL CONSEJO ESTATAL PARA LA PREVENCIÓN Y ASISTENCIA DE LAS ADICCIONES DEL ESTADO DE DURANGO.
+### CAPÍTULO II. DE LAS INSTANCIAS COMPETENTES EN MATERIA DE PREVENCIÓN Y ASISTENCIA DE LAS ADICCIONES
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+#### SECCIÓN I
+
+DEL CONSEJO DE PREVENCIÓN Y ASISTENCIA DE LAS ADICCIONES DEL ESTADO DE DURANGO.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 4.
 
-El Consejo es un órgano de asesoría y consulta para la creación y aprobación de los programas y políticas destinados a la sensibilización, planeación de la prevención, tratamiento, disminución de daño y reinserción social de personas con alguna adicción en el Estado, los que deberán ser presentados al Titular de la Secretaría para su aprobación, quien será el conducto para convocar a los sectores de la sociedad para ser integrados al Sistema.
+El Consejo es un órgano colegiado de coordinación y concertación para el diseño de las políticas y los programas destinados a la sensibilización, prevención, detección temprana, tratamiento oportuno, disminución de daño, inserción y reinserción social de personas con alguna adicción.
+
+El Titular de la Secretaría será el conducto para convocar a los sectores social y privado para ser integrados al Sistema.
 
 ###### ARTICULO 5.
 
 El Consejo tendrá como sede la capital del Estado, sin perjuicio de que ocasionalmente sus miembros acuerden la determinación de otra sede.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 6.
 
-Los municipios del Estado de Durango, en el ámbito de su competencia, deberán conformar sus respectivos Comités, los cuales formaran parte del Consejo.
+Las administraciones públicas municipales conformarán sus Consejos Municipales, los cuales formarán parte del Consejo.
+
+> <small>[N. DE E. ESTE ARTÍCULO CONSTABA DE XIV FRACCIONES, QUEDANDO ACTUALMENTE EN VI FRACCIONES, VÉANSE PÁGINAS DE LA 15 A LA 16 DEL P.O. 3 DE MAYO DE 2020]</small>
 
 ###### ARTÍCULO 7.
 
@@ -201,63 +243,163 @@ I. Un Presidente, que será el Gobernador del Estado;
 
 II. Un Vicepresidente, que será el Secretario de Salud;
 
-III. Un Coordinador Ejecutivo, que será nombrado por el Secretario de Salud;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-IV. Un Secretario Técnico, que será el Director del Instituto de Salud Mental;
+III. Un Secretario Técnico Ejecutivo, que será el titular de la Comisión;
 
-V. Un Comisionado de Prevención, que será el Titular de la Secretaría de Educación;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE MAYO DE 2020)</small>
 
-VI. Un Comisionado de Vigilancia y Epidemiología, que será el Director de Epidemiología de los Servicios de Salud de Durango;
+IV. 16 Vocales, que serán los representantes que designen los titulares de las siguientes dependencias:
 
-VII. Un Comisario Público que será designado por la Secretaría de la Contraloría y Modernización Administrativa;
+a) Secretaría General de Gobierno del Estado;
 
-VIII. Los Comités Municipales que deseen participar, cuando el asunto a tratar sea de su interés o de su ámbito de competencia;
+b) Secretaría de Educación del Estado;
 
-IX. Un vocal, que será representante de los organismos no gubernamentales;
+c) Secretaría de Seguridad Pública del Estado;
 
-X. Un vocal, que será un representante del Organismo público descentralizado Desarrollo Integral de la Familia (DIF);
+d) Secretaría de Desarrollo Social del Estado;
 
-XI. Un vocal, que será representante de la Comisión Estatal de los Derechos Humanos;
+e) Secretaría del Trabajo y Previsión Social del Estado;
 
-XII. Un Diputado, quien tendrá la representación del Poder Legislativo y que será el Presidente de la Comisión de Salud;
+f) Comisión Estatal de Derechos Humanos;
 
-XIII. Cinco representantes de organizaciones sociales, organismos empresariales o instituciones académicas legalmente constituidas; y
+g) Sistema Estatal para el Desarrollo Integral de la Familia;
 
-XIV. Dos representantes de la sociedad civil que tengan conocimiento o vinculación en el área de las adicciones.
+h) Procuraduría de Protección de Niñas, Niños y Adolescentes;
 
-Por cada miembro del Consejo se nombrará un suplente, los cargos de titular o suplente serán honoríficos.
+i) Congreso del Estado, que será el Diputado presidente de la Comisión de Salud;
+
+j) Instituto Estatal del Deporte del Estado de Durango;
+
+k) Instituto de Cultura del Estado de Durango;
+
+l) Instituto Duranguense de la Juventud;
+
+m) Instituto Estatal de las Mujeres;
+
+n) Delegación de la Secretaría de Bienestar Social;
+
+o) Delegación del Instituto Mexicano del Seguro Social; y
+
+p) Delegación del Instituto de Seguridad y Servicios Sociales de los
+
+Trabajadores del Estado.
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+V. Un representante por cada Consejo Municipal, cuando el asunto a tratar sea de su interés o de su ámbito de competencia; y
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+VI. Tres representantes de organizaciones sociales, organismos empresariales o instituciones académicas legalmente constituidas;
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
+Por cada integrante del Consejo se nombrará un suplente, los cargos de titular o suplente serán honoríficos.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+A invitación del Consejo, se podrá contar con la participación, con voz pero sin voto, de personas expertas con conocimientos vinculados en el área de las adicciones a fin de aportarlos en la resolución de asuntos que se traten en las sesiones respectivas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 8.
 
-El Consejo Estatal de Prevención y Asistencia de las Adicciones tendrá las siguientes obligaciones:
+El Consejo tendrá las siguientes obligaciones:
 
-I. Promoción constante de hábitos de vida saludables y una cultura de la salud mental. El reglamento establecerá los programas que se deberán implementar para la promoción;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-II. Considerar, a todos los efectos, las adicciones como enfermedades comunes con repercusiones en las esferas biológica, psicológica y social de la persona, así como en el entorno familiar o de convivencia de las personas;
+I. Promocionar constantemente los hábitos de vida saludables y una cultura de la salud pública. El reglamento que al efecto se expida, establecerá los programas que se implementarán en esta materia;
 
-III. Prioridad de las políticas y actuaciones preventivas en materia de adicciones al momento de diseñar los programas de actuación;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-IV. Evaluación permanente de los resultados de los programas y de las actuaciones en materia de adicciones;
+II. Atender las adicciones y sus efectos como un problema de salud pública considerando la comorbilidad que las mismas provocan en la salud física y biopsicosocial de la persona y su entorno;
 
-V. Potenciar la coordinación de los programas y de las actuaciones en materia de adicciones con planes sectoriales, y de manera especial con los de salud mental;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-VI. Valorar la problemática de las adicciones como un asunto prioritario para la seguridad del Estado;
+III. Aprobar las políticas y programas de prevención, atención y asistencia en materia de adicciones;
 
-VII. Responsabilidad pública y coordinación institucional de actuaciones: basada en los principios de planificación, desconcentración, descentralización y autonomía en la gestión de los programas y servicios, así como la participación activa de las entidades y de los usuarios afectados en el diseño de las políticas de actuación; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-VII. (SIC) La formalización de los protocolos de entrada a hospitales o servicios de emergencia por causas adictivas en el paciente, de manera que permita tener una visión clara de este problema y su dimensionamiento a nivel estatal.
+IV. Evaluar permanente los resultados de los programas, acciones y estrategias en materia de adicciones;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+V. Potenciar la coordinación de los programas, acciones y estrategias en materia de adicciones con programas sectoriales;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+VI. Establecer mecanismos para que las adicciones se consideren un asunto prioritario para la seguridad del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+VII. Propiciar la responsabilidad pública y la coordinación institucional conforme a los principios de planificación, desconcentración, descentralización y autonomía en la gestión de los programas y servicios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2020)</small>
+
+VIII. Generar la participación activa de las personas con problemas de adicción en el diseño de las políticas públicas en la materia;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+IX. Participar en el diseño de protocolos de ingreso, atención y egreso a hospitales o a servicios de emergencia por causas adictivas en el paciente, de manera que permitan tener una visión clara del problema y su dimensión a nivel estatal; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+X. Las demás que se estimen necesarias para el cumplimiento de sus obligaciones.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 9.
 
-El Consejo sesionará de forma ordinaria cada tres meses, por lo menos, pudiendo celebrar sesiones extraordinarias cuando así se requiera. En ambos casos, para la validez de las sesiones se requerirá que la convocatoria haya sido suscrita por el Vicepresidente Ejecutivo y el Secretario Técnico, con un mínimo de cinco días de anticipación a la sesión correspondiente, y que hubiesen asistido a ésta, en el caso de la sesión ordinaria, la mitad más uno de sus miembros, en tanto que las sesiones extraordinarias serán válidas con el número de miembros que asistan a las mismas.
+El Consejo sesionará por lo menos cada tres meses de forma ordinaria, y extraordinariamente cuando así se requiera. En ambos casos, para la validez de las sesiones será necesario que la convocatoria la suscriba el Secretario Técnico Ejecutivo, con un mínimo de cinco días de anticipación tratándose de sesiones ordinarias, y las extraordinarias al menos con 24 horas.
 
-Los acuerdos del Consejo se tomarán por mayoría simple de votos de los miembros presentes, teniendo el Presidente el de calidad en caso de empate. De cada sesión del Consejo se levantará el acta correspondiente.
+Para la validez de las sesiones ordinarias se requiere que asistan la mitad más uno de sus integrantes y las extraordinarias con el número de integrantes que asistan a la misma.
 
-Así mismo, serán invitados a participar con voz, pero sin voto, aquellas personas que representen a los sectores social, privado y académico, y que por su experiencia, conocimiento o vinculación en el área de las adicciones, puedan aportar ideas valiosas al Consejo sobre el tema.
+Los acuerdos del Consejo se tomarán por mayoría simple de votos de los integrantes presentes, teniendo el Presidente, o en su ausencia quien lo represente, el voto de calidad en caso de empate. De cada sesión del Consejo se levantará el acta correspondiente.
+
+El Ejecutivo del Estado deberá reglamentar el funcionamiento del Consejo y los Ayuntamientos deberán emitir los reglamentos de los Consejos Municipales.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+#### SECCIÓN II. DE LA COMISIÓN ESTATAL CONTRA LAS ADICCIONES EN DURANGO
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 10.
 
-El Ejecutivo del Estado deberá reglamentar el Consejo y los Ayuntamientos de cada municipio deberán emitir los reglamentos de sus respectivos Consejos.
+Corresponde al organismo descentralizado Servicios de Salud Durango, a través de la Comisión Estatal Contra las Adicciones, ejercer las siguientes atribuciones:
+
+I. Elaborar los proyectos de los programas estatales para la prevención, atención y asistencia de las adicciones y someterlos a consideración del Consejo para su aprobación;
+
+II. Coordinar y ejecutar los programas estatales para la prevención, atención y asistencia de las adicciones;
+
+III. Proponer al Consejo los criterios para evaluar los programas estatales para la prevención, atención y asistencia de las adicciones;
+
+IV. Supervisar los servicios de tratamiento de las adicciones que se brindan en el Estado, expidiendo la autorización o cancelación de los Centros en los términos de esta Ley y demás disposiciones aplicables en la materia;
+
+V. Determinar los lineamientos y procedimientos de carácter técnico y administrativo en materia de prevención, atención, control y asistencia de adicciones, que deben observar los Centros, debiendo supervisar su cumplimiento. Para tal fin, será encargada de imponer las sanciones a las que se refiere el Capítulo XII de la presente Ley;
+
+VI. Administrar y dirigir los Centros de Atención Primaria en Adicciones del Estado;
+
+VII. Emitir criterios y opiniones en temas relacionados con la prevención, atención, control y asistencia de las adicciones, cuando así lo soliciten las autoridades de seguridad pública, procuración y administración de justicia;
+
+VIII. Coordinar las acciones en materia de prevención, atención, control y asistencia de las adicciones que realicen las dependencias y entidades de las administraciones públicas estatales y municipales;
+
+IX. Coordinar los mecanismos que fije el Consejo para fomentar la participación de las dependencias y entidades de las administraciones públicas federales, estatales y municipales, así como de los sectores social y privado, y en general, de la comunidad, en las acciones en materia de adicciones;
+
+X. Participar en la definición, instrumentación, supervisión y evaluación de las estrategias y contenidos técnicos de los materiales de comunicación educativa y social, así como de los materiales didácticos y metodologías que se utilizan para la capacitación, actualización y desarrollo humano del personal que opera los programas que corresponden a las Administraciones Pública Estatal y Municipales, en materia de adicciones, en coordinación con las unidades administrativas competentes;
+
+XI. Fungir como enlace con el CONADIC y con otras instancias de la administración pública federal responsables de la prevención, atención, control y asistencia de las adicciones;
+
+XII. Gestionar, ante las instancias competentes de los sectores público, privado y social, recursos para la prevención, atención, asistencia, promoción, capacitación e investigación en materia de adicciones;
+
+XIII. Realizar estudios de tamizaje y de detección de participantes en los programas de Justicia Terapéutica, cuando así lo solicite la autoridad judicial;
+
+XIV. Apoyar la creación y fortalecimiento de los Consejos Municipales;
+
+XV. Impulsar en coordinación con las instancias competentes la formación de recursos humanos especializados en materia de adicciones; y
+
+XVI. Cualquier otra que la legislación le confiera.
 
 ### CAPÍTULO III. DERECHOS DE LAS PERSONAS CON ADICCIONES
 
@@ -289,9 +431,11 @@ XII. Ser atendidas de manera oportuna, eficiente y con calidad por personal espe
 
 XIII. Los demás que establezca la presente Ley y la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 12.
 
-Los Centros de Atención a las Personas con Adicciones, dispondrán de información accesible sobre los derechos de los pacientes y de hojas de reclamación y sugerencias, además de medios para informar al público y para atender sus reclamaciones.
+Los Centros y los Centros Públicos, dispondrán de información accesible, objetiva, veraz y oportuna sobre los derechos de los pacientes y de hojas de reclamación y sugerencias, además de medios para informar al público y atender sus quejas.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
@@ -299,7 +443,9 @@ Los Centros de Atención a las Personas con Adicciones, dispondrán de informaci
 
 El Gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, intervendrán en favor de las niñas, niños y adolescentes, de manera específica, en los casos de indefensión, malos tratos o violencia producidos por la vinculación parental o tutorial del menor con personas con problemas de adicciones.
 
-Conforme a lo previsto en el párrafo anterior, los centros y servicios autorizados tienen la obligación de notificar al Ministerio Público que corresponda y a la Procuraduría de Protección, cualquier situación de indefensión, malos tratos o violencia que les afecte y puedan conocer en el curso de un tratamiento. En cualquier caso, ante un posible conflicto de intereses, prevalece el interés superior de la niñez.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
+Conforme a lo previsto en el párrafo anterior, los centros legalmente autorizados y los centros públicos, tienen la obligación de notificar al Ministerio Público que corresponda y a la Procuraduría de Protección, cualquier situación de indefensión, malos tratos o violencia que les afecte y puedan conocer en el curso de un tratamiento. En cualquier caso, ante un posible conflicto de intereses, prevalece el interés superior de la niñez.
 
 Los establecimientos de salud y las autoridades estatales y municipales competentes en materia de protección reforzada, tienen la obligación de proporcionar la información relativa a aquéllos casos de intoxicación por cualquier tipo de drogas relacionadas con niñas, niños y adolescentes.
 
@@ -307,7 +453,9 @@ Los establecimientos de salud y las autoridades estatales y municipales competen
 
 Las personas usuarias de los servicios de atención integral del consumo de sustancias adictivas observarán lo siguiente:
 
-l. Cumplir las disposiciones aplicables en la prestación de los servicios que se derivan de la presente Ley, tanto las de carácter general como las de funci9namiento (sic) interno donde se brinde la atención;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+I. Cumplir las disposiciones aplicables en la prestación de los servicios que se derivan de la presente Ley, tanto las de carácter general como las de funcionamiento interno donde se brinde la atención;
 
 II. Seguir el tratamiento e indicaciones que el personal médico le señale con relación a su estado de salud;
 
@@ -317,9 +465,11 @@ IV. Procurar cuidado y diligencia en el uso y conservación de las instalaciones
 
 V. Las demás que les sean asignadas por las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 15.
 
-Las personas usuarios de los servicios de atención integral del consumo de sustancias adictivas cuyo ingreso sea voluntario o en cumplimiento a la imposición de una medida alternativa al proceso judicial a un establecimiento especializado en adicciones, cuentan con los mismos derechos y obligaciones reconocidos en la presente Ley, para lo cual deberá atenderse a lo establecido en las disposiciones respectivas de este ordenamiento jurídico.
+Los usuarios de los servicios que requieren atención integral derivado del consumo de sustancias adictivas, cuyo ingreso a un establecimiento especializado en adicciones, sea voluntario o en cumplimiento a la imposición de una medida alternativa derivada de un proceso judicial, cuentan con los derechos y obligaciones reconocidos en la presente Ley, y demás disposiciones legales en la materia.
 
 ### CAPÍTULO IV. DE LA ATENCIÓN A PERSONAS CON ADICCIONES
 
@@ -355,45 +505,55 @@ VI. Conocer la evolución de los productos, de las formas de consumo y de las ca
 
 ### CAPÍTULO V. DE LOS CENTROS DE TRATAMIENTO, REHABILITACION, PROFESIONALIZACION Y DIGNIFICACION
 
-###### ARTICULO 18.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
-Se formaliza la figura del Adictólogo con una estructura académico-científica, que contribuya a la normatividad y el ejercicio profesional, así como a la delimitación de competencias y tareas profesionales relacionadas con las adicciones. El perfil del Adictólogo será inserta (sic) en uno de los siguientes niveles:
+###### ARTÍCULO 18.
 
-l. Nivel primario. En este nivel participan quienes han tenido una relación constante, aunque no duradera con las actividades adictológicas. Se considera a los adictos en rehabilitación, sobre todo a quienes han participado en grupos de 12 pasos (Alcohólicos Anónimos, Narcóticos Anónimos), así como a personas relacionadas, especialmente las llamadas codependientes y profesionales en formación. A la experiencia cabría agregar una preparación mínima, que pudiera fijarse en un diplomado que abarcara los distintos ámbitos, e incluso pudiera plantearse una mínima práctica clínica, en carácter de observadores. En cuanto a la educación formal, tendría que partirse forzosamente de un nivel de bachillerato, aunque lo deseable sería la licenciatura terminada;
+Los Centros de Atención Primaria en Adicciones, son unidades médicas de carácter público que dependen de la Comisión, cuya función es la prevención, detección temprana y tratamiento oportuno de las adicciones, con el propósito de mejorar la calidad de vida individual, familiar y social de la población.
 
-II. Nivel secundario. Personas con estudios profesionales. Ser parte de los egresados de licenciaturas humanistas (Psicología, Antropología, Medicina, Sociología) que deben agregar a su currícula un diplomado sobre adicciones u otra rama de la salud mental y, en el caso de que se estén iniciando en la práctica clínica, un entrenamiento en alguna institución reconocida, que incluya obviamente la supervisión, desarrollado a partir de un programa formal y establecido de forma institucional;
+Para lograr lo anterior, deberán contar con el personal especializado en adictología, los instrumentos, medicamentos y la infraestructura necesaria para atender la prevención y atención, privilegiando la detección oportuna, y la intervención breve en adicciones.
 
-III. Nivel terciario. Profesionales experimentados, con estudios de posgrado y práctica clínica aceptable y reconocida, incluso por asociaciones médicas o profesionales. Personas que han publicado trabajos en el campo de la investigación y cuya actividad sociocientífica es permanente, en los ámbitos nacional e internacional. La labor docente y formativa serán consecuencias de un trabajo académico institucional congruente con la responsabilidad social que se tiene de transmitir los conocimientos adquiridos para que la sociedad enfrente de mejor manera este problema; y
+El Reglamento y los manuales que al efecto se emitan, establecerán la estructura orgánica y el funcionamiento de dichos establecimientos.
 
-IV. Nivel cuaternario. Grupo selecto de especialistas que por su trayectoria podría ubicarse en un plano donde han realizado aportaciones valiosas al campo y que transmiten sus conocimientos en forma constante, además de que se han ganado un liderazgo real entre los interesados en la temática; que cuentan con estudios y competencia en otros campos científicos, pero que han desarrollado una sólida actividad en el campo de la adicción. Tienen la competencia necesaria de participar en consejos consultivos en la materia y su voz autorizada debería ser escuchada constantemente por quienes desean y ejecutan las políticas públicas.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 19.
 
-Los programas de rehabilitación para los adictos, serán con internamiento o de manera externa o mixta, considerando el nivel de atención, tipo de servicio y la disposición de infraestructura con que cuente dicho centro de tratamiento.
+Los programas de rehabilitación para las personas que padecen problemas de adicciones, podrán ser en internamiento, de manera externa o mixta, considerando el nivel de atención, tipo de servicio y la disposición de infraestructura con que cuente el centro de tratamiento de que se trate, conforme a los requisitos y procedimiento establecido en el reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 20.
 
-Los sectores social y privado podrán prestar los servicios de tratamiento y rehabilitación de adictos, para lo cual, deberán tramitar la autorización y el registro de funcionamiento de dicho centro ante la Secretaría.
+Los sectores social y privado podrán prestar los servicios de prevención, tratamiento y rehabilitación de personas que padecen problemas de adicción, para lo cual, deberán tramitar la autorización y el registro de funcionamiento de dicho centro ante la Secretaría, conforme a los requisitos y procedimiento establecido en el reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 21.
 
-Los programas de tratamiento para la rehabilitación de los adictos, no deberán contemplar acciones que atenten contra la dignidad y la salud de éstos.
+Los programas de tratamiento para la rehabilitación de las personas que padecen problemas de adicción, no deberán contemplar acciones que atenten contra su dignidad, derechos humanos y su salud.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 22.
 
-Los centros tendrán la obligación de informar a la Secretaría, la relación de los usuarios sujetos a rehabilitación, comunicando mensualmente las observaciones en torno a los avances que presenten los mismos.
+Los Centros tendrán la obligación de informar mensualmente a la Comisión, la relación de usuarios sujetos a tratamiento y rehabilitación, así como las observaciones respecto a los avances.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 23.
 
-Los centros que operen en el Estado, podrán gestionar la participación de personal profesional para la asistencia médica, el tratamiento psicológico y social, así como para la capacitación ocupacional, para lo cual, la Secretaria promoverá la participación de profesionistas a través de la prestación del servicio social y de práctica profesional de los estudiantes y pasantes de carreras afines, mediante convenio que ésta celebre con las instituciones de educación superior en el Estado de Durango.
+Los Centros Públicos, podrán gestionar la participación de personal profesional y en formación para la asistencia médica, psicológica, social, y para la capacitación ocupacional, para lo cual, la Secretaría promoverá la prestación del servicio social y prácticas profesionales de los estudiantes y pasantes de las carreras antes mencionadas, mediante convenios con las instituciones de educación superior en el Estado de Durango.
 
 ###### ARTÍCULO 24.
 
 La Secretaría podrá celebrar convenios de colaboración con instituciones y organismos del sector público, así como con el sector privado y social, para realizar cursos de capacitación, que induzcan al empleo y al autoempleo de los rehabilitados de los centros de tratamiento contra las adicciones.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 25.
 
-La Secretaría, a través del área correspondiente, será la responsable de autorizar o en su caso cancelar, la creación de los centros de atención previa (sic) cumplimiento y observancia de los requisitos establecidos en el reglamento respectivo, así como inspeccionar las áreas físicas de los centros de tratamiento y verificar la implementación de los programas de tratamiento, supervisando la rehabilitación de los adictos.
+La Secretaría, a través del área correspondiente, será la responsable de autorizar o en su caso cancelar, la creación de los Centros, previo cumplimiento y observancia de los requisitos establecidos en el reglamento respectivo, así como inspeccionar las áreas físicas de dichos establecimientos y verificar la implementación de los programas de tratamiento, supervisando la rehabilitación de las personas que padecen problemas de adicciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
@@ -415,23 +575,37 @@ II. Contar con personal técnico calificado en las áreas de salud, social, psic
 
 III. Contar con la infraestructura adecuada que se establezca en el reglamento correspondiente;
 
-IV. Coadyuvar con el personal de la Secretaria que practique visitas para verificar el cumplimiento de esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+IV. Coadyuvar con el personal de la Comisión que practique visitas para verificar el cumplimiento de esta Ley y su Reglamento;
 
 V. Coadyuvar en la fiscalización del destino de los recursos públicos que les sean entregados, en su caso, en el entendido que dichas visitas se efectuarán sin previo aviso;
 
 VI. Contar con un Coordinador, el cual deberá ser médico o psicólogo;
 
-VII. Poner a disposición de la Secretaría, de los interesados y por escrito los lineamientos y disposiciones del proceso de tratamiento y rehabilitación;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-VIII. Garantizar que el ingreso y la permanencia del usuario en el Centro sea estrictamente voluntaria, salvo el caso de mandato judicial, el de Centros Especializados en menores de edad y los demás a que se refiere esta ley;
+VII. Poner a disposición de la Comisión y de los interesados, por escrito los lineamientos y disposiciones del proceso de tratamiento y rehabilitación;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+VIII. Garantizar que el ingreso y la permanencia del usuario en el Centro sea estrictamente voluntaria, salvo el caso de mandato judicial, el de Centros Especializados en niñas, niños y adolescentes y los demás a que se refiere esta ley, y otros ordenamientos legales en la materia;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
 IX. Garantizar que el ingreso y la permanencia del usuario en el Centro sea estrictamente voluntaria, salvo el caso de mandato judicial, el de Centros Especializados en niñas, niños y adolescentes y los demás a que se refiere esta ley;
 
-X. Basar el tratamiento o rehabilitación en un enfoque multidisciplinario que incluya, según sea necesario, exámenes de laboratorio y gabinete, terapia personal, grupal, familiar y de autoregistro, en su caso, control del síndrome de abstinencia y del periodo de postramiento, ayuda para mantenerse sin consumir droga, atención de enfermedades físicas, así como aquellos mecanismos y tratamientos establecidos por la Secretaría y conforme a la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XI. Implementar talleres ocupacionales.
+X. Basar el tratamiento o rehabilitación en un enfoque multidisciplinario que incluya, según sea necesario, exámenes de laboratorio y gabinete, terapia personal, grupal, familiar y de autoregistro, en su caso, control del síndrome de abstinencia y del periodo de postratamiento, ayuda para mantenerse sin consumir droga, atención de enfermedades físicas, así como aquellos mecanismos y tratamientos establecidos por la Secretaría y los Servicios de Salud de Durango, conforme a la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XI. Implementar talleres ocupacionales; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XII. Las demás que sean necesarias de acuerdo al centro de que se trate.
 
 ###### ARTÍCULO 28.
 
@@ -453,9 +627,11 @@ VI. Si el que pretende ingresar es una niña, niño o adolescente, obtener el co
 
 VII. Abstenerse de admitir personas distintas a las que requieran el servicio para el que fue creado.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 29.
 
-La Secretaría establecerá una historia clínica unificada para todos los centros, que recoja la información mínima necesaria para que, respetando la confidencialidad de los usuarios, facilite la coordinación entre centros, los procesos de derivación y responda a las necesidades del sistema de información sobre conductas adictivas.
+La Comisión establecerá una historia clínica unificada para todos los Centros y los Centros Públicos, que recoja la información mínima necesaria para que, respetando la confidencialidad de los usuarios, facilite la coordinación entre aquellos, los procesos de derivación y responda a las necesidades del sistema de información sobre conductas adictivas.
 
 ###### ARTÍCULO 30.
 
@@ -473,7 +649,9 @@ Se establecerán estrategias específicas para el tratamiento de niñas, niños 
 
 La Comisión coadyuvará en la aplicación de los programas de tratamiento y reintegración a los que hace referencia el presente artículo, proporcionando asistencia, brindado (sic) capacitación constante y especializada al personal del juzgado correspondiente en materia de detección, tratamiento, rehabilitación e integración comunitaria como parte de la atención integral del consumo de sustancias adictivas a niñas, niños y adolescentes en conflicto con la Ley.
 
-El Juez de menores infractores, por medio de la autoridad competente y en conocimiento del Consejo podrá en cualquier momento aplicar un examen de detección toxicológica cuando la niña, niño o adolescente haya decidido voluntariamente incorporarse a un tratamiento de atención integral del consumo de sustancias adictivas; asimismo, establecerá colaboración el Consejo Municipal correspondiente, para la aplicación de las acciones de integración comunitaria.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
+El órgano jurisdiccional especializado en adolescentes, por medio de la autoridad competente y en coordinación con la Comisión, podrá en cualquier momento aplicar un examen de detección toxicológica cuando la niña, niño o adolescente haya decidido voluntariamente incorporarse a un tratamiento de atención integral del consumo de sustancias adictivas; asimismo, se coordinará con el Consejo Municipal correspondiente, para la aplicación de las acciones de integración comunitaria.
 
 ### CAPÍTULO VII. DE LA INTEGRACIÓN COMUNITARIA
 
@@ -521,25 +699,33 @@ Los establecimientos especializados en adicciones, de acuerdo con lo establecido
 
 ### CAPÍTULO VIII. DE LOS PROGRAMAS DE ATENCIÓN
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 35.
 
-La Secretaría fomentará la investigación y la implantación de nuevas técnicas y programas terapéuticos y de inserción que puedan contribuir a la mejora de la eficacia y la eficiencia de los centros.
+La Secretaría y la Comisión fomentarán la investigación y la implementación de nuevas técnicas, programas terapéuticos y de inserción que puedan contribuir a la mejora de la eficacia y la eficiencia de los Centros y de los Centros Públicos.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 36.
 
-La Secretaría fomentará actividades de educación de salud, asesoramiento y apoyo psicológico a personas con trastornos adictivos y a sus familiares.
+La Secretaría y la Comisión fomentarán actividades de educación, salud, asesoramiento y apoyo psicológico a personas con trastornos adictivos y a sus familiares.
 
 ###### ARTÍCULO 37.
 
 La Secretaría promoverá programas de promoción de la salud orientados de manera prioritaria a grupos sociales de riesgo y a sus familias. Estos programas deben incluir actividades de educación para la salud, vacunación, información y profilaxis de aquellas enfermedades que tienen gran impacto para la salud pública.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 38.
 
-La Secretaría fomentará la creación de programas específicos dirigidos a la población con trastornos adictivos de alta frecuencia y máximo riesgo sanitario, así como programas específicos de atención al abuso y a la dependencia de cualquier sustancia y a otras conductas adictivas.
+La Comisión fomentará la creación de programas específicos dirigidos a la población con trastornos adictivos de alta frecuencia y máximo riesgo sanitario, así como programas específicos de atención al abuso y a la dependencia de cualquier sustancia y a otras conductas adictivas.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 39.
 
-La Secretaría creará un registro unificado de entidades, centros y servicios dedicados a la investigación y a la prevención de las adicciones y a la asistencia y a la incorporación social de los afectados y sus familias.
+La Comisión creará un registro unificado de entidades, centros y servicios dedicados a la investigación, a la prevención de las adicciones, asistencia y a la incorporación social de los afectados y sus familias.
 
 ###### ARTÍCULO 40.
 
@@ -613,9 +799,11 @@ Igualmente, fomentarán, de manera preferente, el voluntariado social de las per
 
 Los gobiernos estatal y municipal mantendrán líneas estables de coordinación y colaboración con las asociaciones ciudadanas que desarrollen iniciativas relacionadas con las necesidades sociales que plantean las adicciones.
 
-###### ARTICULO 49.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
-Conjuntamente la Secretaría, a través del Consejo Estatal Contra las Adicciones y los diferentes Medios de comunicación, desarrollarán estrategias de profesionalización en el tema de las adicciones a los actores responsables de difundir mensajes de comunicación.
+###### ARTÍCULO 49.
+
+La Secretaría, la Comisión, y los diferentes medios de comunicación, desarrollarán estrategias de información en el tema de las adicciones con el propósito de que las instancias responsables cuenten con un espacio para tal fin.
 
 ###### ARTICULO 50.
 
@@ -623,9 +811,13 @@ Los gobiernos estatal y municipal crearán convenios para promover que los medio
 
 ### CAPITULO XI. DE LA SUPERVISIÓN
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 51.
 
-Las visitas de inspección que sin previo aviso, realice la Secretaría para verificar el cumplimiento de las disposiciones de la presente Ley, se realizarán conforme a las reglas que para tal efecto se establecen en el (sic) Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+Las visitas de inspección que sin previo aviso realice la Comisión, para verificar el cumplimiento de las disposiciones de la presente Ley y de la normatividad legal aplicable en la materia, se realizarán conforme a las reglas que para tal efecto se establecen en la Ley de Justicia Administrativa del Estado de Durango.
+
+Las instituciones de seguridad pública y de protección civil a nivel estatal y municipal coadyuvarán con la Comisión en las labores de supervisión, cuando se los solicite.
 
 ###### ARTICULO 52.
 
@@ -635,11 +827,13 @@ Las medidas de seguridad son de inmediata ejecución, tienen carácter preventiv
 
 ### CAPITULO XII. DE LAS SANCIONES Y DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 53.
 
-Las violaciones a los preceptos de esta Ley, que realicen los centros privados o sociales, sin perjuicio de la responsabilidad civil o penal que corresponda, serán sancionadas por la Secretaría, conforme a lo siguiente:
+Las violaciones a los preceptos de esta Ley, en que incurran los Centros y los Centros Públicos, sin perjuicio de la responsabilidad civil o penal que corresponda, serán sancionadas por la Comisión, conforme a lo siguiente:
 
-l. Amonestación con apercibimiento;
+I. Amonestación con apercibimiento;
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
@@ -647,19 +841,25 @@ II. Multa de 50 a 500 veces la Unidad de Medida y Actualización; y
 
 III. Clausura temporal o permanente.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 54.
 
-La Secretaría vigilará el respeto a los derechos humanos en los Centros.
+La Secretaría en coordinación con la Comisión vigilará el respeto a los derechos humanos de los usuarios en los Centros.
 
-Cuando se detecte algún caso de violación a dichas prerrogativas, como consecuencia de una visita de verificación o de cualquier otra forma, se aplicará una o acumulativamente varias de las sanciones previstas en el artículo anterior de esta ley, según la gravedad del caso. Además se dará aviso inmediato a la Fiscalía General de Justicia y a la Comisión Estatal de Derechos Humanos para los efectos correspondientes.
+Cuando se detecte algún caso de violación a dichas prerrogativas, como consecuencia de una visita de verificación o de cualquier otra forma, se aplicará una o acumulativamente varias de las sanciones previstas en el artículo anterior de esta ley, según la gravedad del caso. Además, se dará aviso inmediato a la Fiscalía General del Estado y a la Comisión Estatal de Derechos Humanos, para los efectos correspondientes.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 55.
 
-Para la imposición de sanciones, la Secretaría deberá observar el procedimiento previsto en el (sic) Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+Para la imposición de sanciones, la Comisión deberá observar el procedimiento previsto en el (sic) Ley de Justicia Administrativa del Estado de Durango.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 56.
 
-La Secretaría fundará y motivará su resolución considerando para su individualización:
+La Comisión fundará y motivará su resolución, considerando para su individualización:
 
 I. Los daños que se hayan producido o puedan producirse como resultado de la infracción;
 
@@ -673,9 +873,11 @@ V. Los antecedentes del infractor; y
 
 VI. La capacidad económica del infractor.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 57.
 
-Contra los actos y resoluciones definitivas que deriven de la aplicación de esta ley, el interesado podrá interponer el recurso de inconformidad que prevé la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+Contra los actos y resoluciones definitivas que deriven de la aplicación de esta ley, el interesado podrá interponer el recurso de inconformidad que prevé la Ley de Justicia Administrativa del Estado de Durango.
 
 ###### ARTÍCULO 58.
 
@@ -738,3 +940,15 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 295.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE PREVENCIÓN Y ASISTENCIA PARA LA ATENCIÓN DE LAS ADICCIONES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que contravengan a lo dispuesto por el presente decreto.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado expedirá el reglamento de la presente ley, a más tardar en 90 días naturales, contados a partir de la entrada en vigor del presente.
+
+CUARTO. Los ayuntamientos en el ámbito de sus respectivas competencias, crearán sus Consejos Municipales para la Prevención y Asistencia de las Adicciones y emitirán sus reglamentos en un término que no exceda de 90 días naturales, contados a partir de la entrada en vigor del presente.
