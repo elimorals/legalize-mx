@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2018-12-09"
+last_updated: "2020-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -103,13 +103,15 @@ El derecho a la protección de la salud, tiene las siguientes finalidades:
 
 I. El bienestar físico y mental del ser humano para contribuir al ejercicio pleno de sus capacidades;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-II. La prolongación y el mejoramiento de la calidad de la vida humana, a través de la difusión de: la alimentación nutritiva, los buenos hábitos alimenticios, la práctica de los deportes;
+II. La prolongación y el mejoramiento de la calidad de la vida humana, a través de la difusión de: la alimentación nutritiva, los buenos hábitos alimenticios, la práctica de los deportes, el cuidado de la salud mental y la cultura de la donación altruista;
 
 III. La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
 
-IV. La extensión de actividades solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+IV. La extensión de actividades y prácticas solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
@@ -331,9 +333,9 @@ VI. Impulsar en el ámbito estatal, un sistema racional de administración y des
 
 VII. Establecer, promover y coordinar el Registro Estatal de Cáncer;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres, actitudes y adicciones, relacionadas con la salud y con el uso de los servicios que presten para su protección.
+VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres, actitudes y adicciones, relacionadas con la salud, y con el uso de los servicios que presten para su protección. Asimismo, coadyuvar a la modificación de costumbres, patrones culturales y actitudes que menoscaben o demeriten la cultura de la donación de sangre y donación de órganos.
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
 
@@ -351,13 +353,25 @@ XI. Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de c
 
 XII. Impulsar en los pueblos y comunidades indígenas los servicios de salud, a fin de que puedan gozar del máximo nivel posible de salud física y mental, fomentando la nutrición de la población indígena infantil, implementar programas para atención de personas con discapacidad; así como procurar que el personal de las instituciones de salud pública que prestan servicio en los pueblos y comunidades indígenas, cuenten con los conocimientos básicos sobre la lengua, cultura y costumbres de los mismos, a fin de que las respeten, asegurando el derecho de integrantes de los pueblos y comunidades indígenas a recibir la información necesaria en materia de salud en su propia lengua; y
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XIII. Promover y apoyar el desarrollo y libre ejercicio de la medicina tradicional así como el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen en condiciones adecuadas como parte de la cultura y patrimonio de los pueblos y comunidades indígenas, impulsando su estudio y rescate, así como difundir el derecho de los mismos a participar en la planificación y ejecución de los programas de salud, debiendo tomar en cuenta sus necesidades prioritarias; y
+XIII. Promover y apoyar el desarrollo y libre ejercicio de la medicina tradicional, así como el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen en condiciones adecuadas como parte de la cultura y patrimonio de los pueblos y comunidades indígenas, impulsando su estudio y rescate, así como difundir el derecho de los mismos a participar en la planificación y ejecución de los programas de salud, debiendo tomar en cuenta sus necesidades prioritarias;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XIV. La prevención de adicciones.
+XIV. La prevención de adicciones;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XV. Diseñar y ejecutar políticas públicas que proporcionen y desarrollen acciones, proyectos con alcance de corto, mediano y largo plazo para que ayuden a incrementar y fortalecer la concientización para la donación de órganos en el Estado;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XVI. Impulsar y promover los beneficios y consecuencias para el bienestar general de la cultura de la donación de órganos; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XVII. Diseñar y ejecutar políticas públicas que favorezcan el cuidado de la salud mental, que garanticen un combate eficaz a las enfermedades mentales y cuyos avances y resultados sean objeto de evaluación.
 
 ###### ARTÍCULO 10.
 
@@ -1167,11 +1181,11 @@ IV. De rehabilitación, que incluyen acciones tendientes a corregir la invalidez
 
 ### CAPÍTULO III. SALUD PÚBLICA
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 47.
 
-Las acciones de Salud Pública comprenden, entre otras, la prevención y control de enfermedades, principalmente las crónico degenerativas, la diabetes y las causadas por los malos hábitos en la alimentación de los duranguenses, como la obesidad y el sobrepeso, además de atender los accidentes, la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la información relativa a las condiciones, recursos y servicios de salud de la entidad.
+Las acciones de Salud Pública comprenden, entre otras, la prevención y control de enfermedades, principalmente las crónico degenerativas, la depresión, la ideación suicida, la diabetes y las causadas por los malos hábitos en la alimentación de los duranguenses, como la obesidad y el sobrepeso, además de atender los accidentes, la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la información relativa a las condiciones, recursos y servicios de salud de la entidad.
 
 ### CAPÍTULO IV
 
@@ -1535,21 +1549,39 @@ Se prestará especial atención a la prevención de la violencia intrafamiliar c
 
 Para la promoción de la salud mental, la Secretaría y el Organismo así como las instituciones de salud en coordinación con las autoridades estatales competentes en cada materia, fomentarán y apoyarán:
 
-I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-II. La difusión de las orientaciones para la promoción de la salud mental;
+I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la concientización del cuidado de la salud mental, preferentemente de la infancia y de la juventud;
 
-III. La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-IV. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+II. La difusión de las orientaciones para la promoción de la salud mental a fin de inhibir la discriminación asociada con la atención de las enfermedades mentales;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+III. La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+IV. La difusión de estrategias para afrontar situaciones de estrés, a fin de lograr la prevención y control de la depresión y la ideación suicida, preferentemente entre la infancia y la juventud; y
+
+V. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
 ###### ARTÍCULO 94.
 
 La atención de las enfermedades mentales comprende:
 
-I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que consuman habitualmente estupefacientes o substancias psicotrópicas; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que consuman habitualmente estupefacientes o substancias psicotrópicas;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+III. Atención a familiares de pacientes con padecimientos de salud mental que establezca ayuda psicológica y psiquiátrica para brindarles asesoría sobre este padecimiento, en conjunto con el paciente.
 
 ###### ARTÍCULO 95.
 
@@ -2340,6 +2372,10 @@ La Secretaría y el Organismo realizarán programas y acciones tendientes a la s
 ###### ARTÍCULO 172.
 
 La Secretaría de Educación del Estado de Durango, deberá incluir en los programas de estudio temas relacionados con la donación de órganos.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+La Secretaría y el Organismo se coordinarán con las instituciones de educación media superior y superior, para desarrollar actividades de enseñanza, investigación, difusión y divulgación, fomentando la cultura de la donación de células, órganos y tejidos, además de la donación de sangre y componentes sanguíneos, con fines terapéuticos.
 
 ###### ARTÍCULO 173.
 
@@ -3998,3 +4034,27 @@ P.O. 9 DE DICIEMBRE DE 2018.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 296.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 297.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
