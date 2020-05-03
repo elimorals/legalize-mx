@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2019-03-17"
+last_updated: "2020-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,27 @@ state: "DUR"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
+LEY DE DEUDA PUBLICA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2019.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
-Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
+Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de julio de 2008.
 
-EL CIUDADANO CONTADOR PÚBLICO JORGE HERRERA CALDERA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, S A B E D:
+Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos. Poder Legislativo.- L Legislatura.- 2006-2009.
 
-QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
+DR. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 
-Con fecha 04 de Febrero del presente año el C. Diputado Julián Salvador Reyes, presentó a esta H. Legislatura, Iniciativa de Decreto que contiene LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Asuntos de la Familia y Menores de Edad, integrada por los CC. Diputados: María Luisa González Achem, Alicia García Valenzuela, Beatriz Barragán González y Felipe de Jesús Enríquez Herrera; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
+Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-C O N S I D E R A N D O S
+LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y, CON LOS SIGUIENTES:
 
-[...]
+I. Antecedentes de la Iniciativa
 
-Por lo anteriormente expuesto y considerado, la Comisión que dictaminó, con fundamento en lo que dispone el artículo 182, último párrafo de la Ley Orgánica del Congreso del Estado de Durango, estimó que la iniciativa, con las adecuaciones realizadas a la misma, es procedente, en virtud de considerar que obedece al mejoramiento de forma y fondo jurídicos, y a lo dispuesto por la Ley General de los Derechos de Niñas, Niños y Adolescentes,
+.
 
-Con base en los anteriores Considerandos esta H. LXVI Legislatura del Estado, expide el siguiente:
+Por lo anteriormente expuesto esta Soberanía ha tenido a bien expedir la siguiente:
 
-D E C R E T O No. 336
-
-LA HONORABLE SEXAGÉSIMA SEXTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, CON LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 82 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBLO DECRETA:
+LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS
 
 ###### ARTÍCULO ÚNICO.
 
@@ -55,823 +53,837 @@ LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general en el territorio del Estado de Durango, y tiene por objeto:
-
-I. Reconocer a niñas, niños y adolescentes como titulares de derechos;
-
-II. Garantizar el pleno goce, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-III. Regular la integración, organización y funcionamiento del Sistema Local y de los Sistemas Municipales de Protección Integral de Niñas, Niños y Adolescentes;
-
-IV. Establecer los principios rectores y criterios que orientarán la política estatal en materia de derechos de niñas, niños y adolescentes, y
-
-V. Establecer las bases generales para la participación de los sectores privado y social en las acciones tendientes a garantizar la protección de los derechos de niñas, niños y adolescentes.
+La presente Ley es de orden público y tiene por objeto establecer las bases a que deberán sujetarse el Estado de Morelos, los Municipios, los organismos descentralizados estatales o municipales, las empresas de participación estatal o municipal mayoritaria y los fideicomisos públicos estatales o municipales, que formen parte de la administración pública paraestatal o paramunicipal, para contraer obligaciones o celebrar empréstitos o créditos que deriven del crédito público y que en términos de lo previsto por esta ley, constituyan deuda pública, así como regular lo relativo a su presupuestación, administración, garantías, mecanismos de pago, registro y control.
 
 ###### Artículo 2.
 
-Esta Ley reconoce los derechos de las niñas, niños y adolescentes consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados y Convenciones internacionales, la Constitución Política del Estado Libre y Soberano de Durango; la Ley General de los Derechos de Niñas, Niños y Adolescentes. Deberán aplicarse conjuntamente los mencionados ordenamientos y el Código Civil del Estado y las demás disposiciones jurídicas aplicables.
+La deuda pública se constituye por las obligaciones de pasivo, directas o contingentes, que resulten de operaciones de crédito público a cargo de las siguientes entidades:
+
+I.- El Estado;
+
+II.- Los Municipios;
+
+III.- Los organismos descentralizados estatales o municipales;
+
+IV.- Las empresas de participación estatal o municipal mayoritaria;
+
+V.- Los fideicomisos públicos Estatales o Municipales que formen parte de la administración pública paraestatal o paramunicipal, en los que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
 
 ###### Artículo 3.
 
-Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades estatales y municipales deberán:
+Para los efectos de la presente ley se entiende por:
 
-I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
+I.- Entidades: Las señaladas en el Artículo 2 de esta Ley;
 
-II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+II.- Entidades de la Administración Pública Paraestatal: Los organismos descentralizados estatales, gocen o no de autonomía, las empresas de participación estatal mayoritaria y los fideicomisos públicos estatales que formen parte de la misma;
 
-III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas y programas gubernamentales en materia de respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
+III.- Entidades de la Administración Pública Paramunicipal: Los organismos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos municipales que formen parte de la misma;
 
-IV. En la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes, considerar de manera primordial el interés superior de la niñez. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
+IV.- Crédito Público: La aptitud jurídica, política, económica y moral de las entidades para, basadas en la confianza de que gozan por su administración, patrimonio e historial crediticio, endeudarse con el objeto de obtener ingresos destinados a realizar inversiones públicas productivas;
 
-Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales, e
+V.- Deuda Pública: Las obligaciones de pasivo, directas o contingentes, que resulten de operaciones de endeudamiento sobre el crédito público de las entidades;
 
-V. Incorporar en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley. El Congreso del Estado establecerá en su respectivo presupuesto, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+VI.- Deuda Pública Directa del Estado: La que contraiga el Estado como responsable directo;
+
+VII.- Deuda Pública Indirecta del Estado: La que contraigan las entidades de la administración pública paraestatal;
+
+VIII.- Deuda Contingente del Estado: La que derive de operaciones de endeudamiento en las cuales el Estado funja como garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de las entidades de la administración pública paraestatal o paramunicipal;
+
+IX.- Deuda Pública Estatal o Deuda Pública del Estado: La que contraiga el Estado, por conducto del Poder Ejecutivo, como responsable directo o como garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, de las entidades de la administración pública paraestatal o paramunicipal;
+
+X.- Deuda Pública Directa de los Municipios: La que contraigan los Municipios como responsables directos;
+
+XI.- Deuda Pública Indirecta de los Municipios: La que contraigan las entidades de la administración pública paramunicipal;
+
+XII.- Deuda Contingente de los Municipios: La que derive de operaciones de endeudamiento en las cuales los Municipios funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal a su cargo;
+
+XIII.- Deuda Pública Municipal: La que contraigan los Municipios, por conducto de sus ayuntamientos, como responsables directos o como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal a su cargo;
+
+XIV.- Deuda Pública de las Entidades de la Administración Pública Paraestatal: La que contraigan las entidades de la administración pública paraestatal como responsables directas;
+
+XV.- Deuda Pública de las Entidades de la Administración Pública Paramunicipal: La que contraigan las entidades de la administración pública paramunicipal como responsables directas;
+
+XVI.- Empréstitos: Las operaciones de endeudamiento que resulten del crédito público que celebren el Estado o los Municipios;
+
+XVII.- Créditos: Las operaciones de endeudamiento que resulten del crédito público que celebren las entidades señaladas en las fracciones III, IV y V del Artículo 2 de esta Ley;
+
+XVIII.- Financiamientos: Las operaciones de endeudamiento referidas en las fracciones XVI y XVII anteriores, consideradas desde el punto de vista del ingreso que generan a las entidades, mismas que pueden derivar de:
+
+a).- La contratación de préstamos;
+
+b).- La suscripción o emisión de valores, títulos de crédito o de cualquier otro documento pagadero a plazos;
+
+c).- Operaciones de refinanciamiento y reestructuración de empréstitos o créditos;
+
+d).- Contratos de colaboración público privada, mismos que no constituirán deuda pública en los casos en que así lo disponga expresamente la ley de la materia;
+
+e).- La adquisición de bienes o contratación de obras, adquisiciones, servicios, o cualesquier otro acto jurídico cuyo pago se pacte a plazos;
+
+f).- Pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores; y
+
+g).- En general, de operaciones financieras, bajo cualquier modalidad, que comprendan obligaciones a plazo, así como obligaciones de exigibilidad contingente, derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las entidades;
+
+XIX.- Valores: Son los bonos, obligaciones, certificados y demás títulos de crédito, nominados o innominados, representativos de la parte alícuota de un bien o de la participación en un crédito colectivo o de cualquier derecho de crédito individual, susceptibles de circular en el mercado de valores, que emitan, en serie o en masa, en términos de la legislación aplicable, las entidades señaladas en el Artículo 2 de esta Ley.
+
+XX.- Servicio de la Deuda Pública: Son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la deuda pública, para efectos de esta Ley, los relativos a las operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico financieros a las entidades derivados de créditos o empréstitos constitutivos de deuda pública, celebrados con base en la misma y el pago de comisiones por garantías de terceros;
+
+XXI.- Inversiones Públicas Productivas: Las destinadas a la ejecución de obras públicas, a la adquisición o manufactura de bienes, a la prestación de servicios públicos, al mejoramiento de las condiciones, estructura o perfil de la deuda pública vigente o de la que se pretenda contraer o a cualquier otra finalidad de interés público o social, siempre que en forma directa o indirecta, inmediata o mediata, generen un incremento en los ingresos de las entidades;
+
+XXII.- Montos y Conceptos de Endeudamiento Autorizado: Son los montos y conceptos derivados de operaciones de endeudamiento, directo o contingente, autorizados en las partidas respectivas de la Ley de Ingresos del Estado y de las Leyes de Ingresos de los Municipios, según corresponda;
+
+XXIII.- Operaciones de Refinanciamiento: Son los empréstitos o créditos que se celebren por las entidades, bajo cualquier modalidad, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, substituyendo o novando las obligaciones del financiamiento original, por uno o varios nuevos financiamientos con el mismo o con diferente acreedor;
+
+XXIV.- Operaciones de Reestructuración: Son los empréstitos o créditos que celebren las entidades, a efecto de mejorar las condiciones de tasa de interés, plazo, perfil de amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, con el mismo acreedor, que no impliquen novación;
+
+XXV.- Congreso o Congreso del Estado: El Congreso del Estado de Morelos;
+
+XXVI.- Secretaría: La Secretaría de Finanzas y Planeación del Poder Ejecutivo del Estado de Morelos;
+
+XXVII.- Órganos de Gobierno: Los consejos, juntas directivas, comités técnicos o equivalentes, de las entidades de la administración pública paraestatal y paramunicipal; y
+
+XXVIII.- Registro: El Registro de Obligaciones y Empréstitos del Estado de Morelos.
 
 ###### Artículo 4.
 
-Las autoridades estatales y municipales, en el diseño y ejecución de políticas públicas deberán garantizar el máximo bienestar posible de niñas, niños y adolescentes, privilegiando su interés superior, tomando en cuenta su situación familiar y social.
+Los recursos obtenidos por las entidades mediante operaciones de deuda pública, únicamente podrán ser destinados a inversiones públicas productivas.
 
-Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental, ética y cívica de niñas, niños y adolescentes.
+La aplicación de los recursos derivados de operaciones de deuda pública, podrá ser realizada en forma directa por la entidad que en cada caso hubiere contraído el endeudamiento de que se trate o previa autorización del Congreso, en forma indirecta, a través de fondos o fideicomisos públicos constituidos al efecto, de los que la entidad que corresponda forme parte en virtud de sus atribuciones u objeto.
 
 ###### Artículo 5.
 
-Para los efectos de esta Ley, se entenderá por
-
-I. Acciones Afirmativas: Medidas temporales que las autoridades realizan en el ámbito de su competencia cuyo objetivo es corregir situaciones de desigualdad en el goce y disfrute de los derechos para lograr la igualdad entre niñas, niños y adolescentes. Se adecuarán a la situación a remediar y deberán ser legítimas y respetar los principios de justicia y proporcionalidad;
-
-II. Acogimiento Residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
-
-III. Adopción Internacional: Aquélla que se realice en términos de lo dispuesto por los tratados internacionales en la materia;
-
-IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
-
-V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
-
-VI. Certificado de Idoneidad: El documento expedido por el Consejo Técnico de Adopciones u organizaciones que éste autorice o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
-
-VII. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
-
-VIII. Constitución Local: Constitución Política del Estado Libre y Soberano de Durango;
-
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
-
-IX. Control de confianza: Las pruebas realizadas por el Centro Estatal de Acreditación y Control de Confianza en materia toxicológica, socioeconómica, psicológica, médica y de antecedentes penales así como los demás que establezcan en sus lineamientos el Centro Nacional de Certificación y Acreditación en la materia.
-
-X. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado, de conformidad con el Código Civil del Estado de Durango;
-
-XI. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
-
-XII. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
-
-XIII. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
-
-XIV. Igualdad: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos;
-
-XV. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal DIF, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
-
-XVI. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
-
-XVII. Órgano Jurisdiccional: Los juzgados o tribunales federales o del Estado;
-
-XVIII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
-
-XIX. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
-
-XX. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Durango y los tratados internacionales de los que el Estado Mexicano forma parte;
-
-XXI. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
-
-XXII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la legislación aplicable;
-
-XXIII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
-
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XXIV. Secretaría Ejecutiva: Secretaría Ejecutiva del Sistema Local de Protección Integral de Niñas Niños y Adolescentes del Estado de Durango;
-
-XXV. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Durango;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XXVI. Sistema Local de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XXVII. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango; y
-
-XXVIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia.
+Queda prohibido a las entidades contraer obligaciones de pasivo, que constituyan deuda pública, para financiar gasto corriente.
 
 ###### Artículo 6.
 
-Son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
+Las entidades no podrán, en ningún caso, contraer directa o indirectamente obligaciones, créditos o empréstitos con gobiernos de otras naciones, con sociedades o particulares extranjeros o cuando deban pagarse en moneda extranjera o fuera del territorio nacional.
 
-Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
+Las obligaciones de pago que contraigan las entidades al amparo de esta Ley, podrán denominarse en la unidad de cuenta, llamada Unidad de Inversión o “UDI”, cuyo valor en pesos para cada día publica periódicamente el Banco de México en el Diario Oficial de la Federación. Dichas obligaciones se considerarán de monto determinado.
 
 ###### Artículo 7.
 
-Para efectos de esta Ley, son principios rectores, los siguientes:
+Los actos realizados en contravención a las disposiciones previstas en la presente Ley, serán nulos de pleno derecho. Lo anterior, sin perjuicio de las responsabilidades en que incurran quienes los lleven a cabo.
 
-I. El interés superior de la niñez;
-
-II. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 1o. y 4o. de la Constitución Federal así como en los tratados internacionales.
-
-III. La Igualdad sustantiva;
-
-IV. La No discriminación;
-
-V. La inclusión;
-
-VI. El derecho a la vida, supervivencia y desarrollo;
-
-VII. La participación;
-
-VIII. La interculturalidad;
-
-IX. La corresponsabilidad de los miembros de la familia, la sociedad y las autoridades;
-
-X. La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales;
-
-XI. La autonomía progresiva;
-
-XII. El principio pro persona;
-
-XIII. El acceso a una vida libre de violencia; y
-
-XIV. La accesibilidad.
+El desvío de los recursos a un destino distinto al aprobado por el Congreso y establecido en los actos jurídicos que documenten los financiamientos, será considerado como incumplimiento de los mismos y no acarreará su nulidad.
 
 ###### Artículo 8.
 
-Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida para su desarrollo integral.
+El desvío de los recursos procedentes de financiamientos constitutivos de deuda pública, será responsabilidad de los servidores públicos que incurran en ella, ya sea que ordenen o ejecuten los actos que resulten en el desvío correspondiente. Dicho desvío, se sancionará de conformidad con las leyes aplicables.
 
 ###### Artículo 9.
 
-Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares y de protección procedentes en los términos de las disposiciones jurídicas aplicables.
+No constituirán deuda pública, las obligaciones directas a corto plazo que se contraigan por las entidades, cuando se cumplan los siguientes requisitos:
+
+I.- Se trate de empréstitos o créditos quirografarios;
+
+II.- Su vencimiento y pago se realicen en el mismo ejercicio fiscal en el que sean contratadas; y
+
+III.- El saldo total acumulado de estos empréstitos o créditos no exceda al 5% (Cinco por ciento) de los ingresos ordinarios, del ejercicio fiscal correspondiente.
+
+Las obligaciones a que se refiere el presente Artículo, quedarán sujetas a los requisitos de información previstos en esta Ley.
 
 ## TÍTULO SEGUNDO. De los Derechos de Niñas, Niños y Adolescentes
 
 ###### Artículo 10.
 
-Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
+La Secretaría es la dependencia del Poder Ejecutivo del Estado, encargada de interpretar esta ley para efectos administrativos y de expedir las disposiciones necesarias para su debida observancia. En el ámbito municipal, estas atribuciones corresponderán a la Tesorería Municipal.
 
-I. Derecho a la vida, a la supervivencia y al desarrollo;
+Los titulares de las entidades a que se refiere el Artículo 2 de esta Ley, serán responsables del estricto cumplimiento de la misma, así como de las disposiciones que con base en ésta se emitan. Las infracciones a la presente Ley y a sus disposiciones administrativas se sancionarán en los términos que legalmente correspondan y de conformidad con el régimen de responsabilidades de los servidores públicos.
 
-II. Derecho de prioridad;
-
-III. Derecho a la identidad;
-
-IV. Derecho a vivir en familia;
-
-V. Derecho a la igualdad;
-
-VI. Derecho a no ser discriminado;
-
-VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
-
-VIII. Derecho a una vida libre de violencia y a la integridad personal;
-
-IX. Derecho a la protección de la salud y a la seguridad social;
-
-X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
-
-XI. Derecho a la educación;
-
-XII. Derecho al descanso y al esparcimiento;
-
-XIII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura;
-
-XIV. Derecho a la libertad de expresión y de acceso a la información;
-
-XV. Derecho de participación;
-
-XVI. Derecho de asociación y reunión;
-
-XVII. Derecho a la intimidad;
-
-XVIII. Derecho a la seguridad jurídica y al debido proceso;
-
-XIX. Derechos de niñas, niños y adolescentes migrantes, y
-
-XX. Derechos de niñas, niños y adolescentes en situaciones especiales.
-
-Las autoridades, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
-
-### Capítulo Primero. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
+### Capítulo Primero. De las Disposiciones Generales
 
 ###### Artículo 11.
 
-Niñas, niños y adolescentes tienen derecho intrínseco a la vida, de conformidad con la Constitución Local, a que se les preserve la vida, a la supervivencia y al desarrollo, deberán disfrutar de una vida plena en condiciones acordes a su dignidad y que garanticen su desarrollo integral.
+Son órganos en materia de deuda pública dentro del ámbito de sus respectivas competencias:
 
-Quienes ejercen la patria potestad, tutela o guarda y custodia tienen la obligación de preservar y exigir el cumplimiento de estos derechos.
+I.- El Congreso del Estado de Morelos;
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos o en la comisión de conductas delictivas.
+II.- El Poder Ejecutivo del Estado;
+
+III.- La Secretaría;
+
+IV.- Los Ayuntamientos; y
+
+V.- Los Órganos de Gobierno de las entidades a que aluden las fracciones III, IV y V del Artículo 2 de esta Ley.
 
 ###### Artículo 12.
 
-Las autoridades, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
+Son atribuciones del Congreso del Estado de Morelos:
 
-### Capítulo Segundo. Del Derecho de Prioridad
+I.- Analizar y en su caso, autorizar anualmente en la Ley de Ingresos del Estado y en las Leyes de Ingresos Municipales, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento de las entidades durante el ejercicio fiscal correspondiente, en términos de lo dispuesto por el Artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos;
+
+II.- Analizar y en su caso, autorizar, previa solicitud debidamente justificada del Poder Ejecutivo del Estado, de los ayuntamientos o de las entidades de la administración pública paraestatal y paramunicipal, el ejercicio de montos y conceptos de endeudamiento no previstos o adicionales a los autorizados en la Ley de Ingresos del Estado y en las Leyes de Ingresos Municipales, que sean necesarios para su financiamiento, cuando a juicio del propio Congreso se presenten circunstancias extraordinarias que así lo requieran;
+
+III.- Autorizar a las entidades para contratar créditos o empréstitos con base en su crédito público;
+
+IV.- Autorizar a las entidades la emisión y colocación de valores, en los términos de esta Ley;
+
+V.- Autorizar a las entidades, en los supuestos previstos por esta Ley, la celebración de operaciones de refinanciamiento y reestructuración de deuda pública;
+
+VI.- Solicitar a las entidades la documentación e información complementaria que requiera para el análisis de las solicitudes de autorización de endeudamiento;
+
+VII.- Autorizar al Poder Ejecutivo para que, en representación del Estado, se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de las entidades señaladas en las fracciones II, III, IV y V del Artículo 2 de esta Ley;
+
+VIII.- Autorizar a los ayuntamientos para que, en representación de los Municipios, se constituyan en garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, de las entidades de la administración pública paramunicipal;
+
+IX.- Autorizar al Estado y a los Municipios a afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente, así como de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, los bienes del dominio privado de su propiedad o sus derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable;
+
+X.- Autorizar al Estado y a los Municipios a afectar como fuente o garantía de pago, o ambas, de financiamientos que celebren directamente, las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación;
+
+XI.- Autorizar a las entidades de la administración pública paraestatal y paramunicipal a afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren, los bienes de su propiedad o sus derechos al cobro e ingresos derivados de la cobranza de cuotas, derechos, productos o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable;
+
+XII.- Autorizar la celebración de los mecanismos legales que, bajo cualquier modalidad o forma, se propongan implementar las entidades, a efecto de garantizar o realizar el pago de financiamientos;
+
+XIII.- Autorizar, en los casos en que así se requiera, de acuerdo con lo previsto en esta Ley, la celebración de operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico financieros, derivados de créditos o empréstitos obtenidos por las entidades con base en esta Ley;
+
+XIV.- Vigilar que los recursos obtenidos de las operaciones a que se refiere esta Ley sean destinados a las inversiones públicas productivas autorizadas;
+
+XV.- Vigilar que se incluyan anualmente, dentro del Presupuesto de Egresos del Estado y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago del servicio de la deuda pública directa del Estado, correspondiente al ejercicio fiscal de que se trate;
+
+XVI.- Solicitar de las entidades los informes necesarios, para verificar que las operaciones de endeudamiento sean realizadas conforme a las disposiciones legales aplicables y a las autorizaciones respectivas, formulando, en su caso, las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar;
+
+XVII.- Autorizar al Estado, los Municipios y las entidades de la administración pública paraestatal y paramunicipal para contratar, bajo cualquier forma legal, el otorgamiento de garantías de terceros, totales o parciales, a efecto de mejorar la calidad crediticia de los financiamientos que celebren de manera directa; y
+
+XVIII.- Las demás que, en materia de deuda pública, le confieran la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley u otras disposiciones legales.
+
+### Capítulo Segundo. De las Facultades y Obligaciones de los Órganos en Materia de Deuda Pública
 
 ###### Artículo 13.
 
-Niñas, niños y adolescentes tienen derecho a que se les asegure prioridad en el ejercicio de todos sus derechos, especialmente a que:
+Al Poder Ejecutivo del Estado le compete:
 
-I. Se les brinde protección y socorro en cualquier circunstancia y con la oportunidad necesaria;
+I.- Presentar anualmente al Congreso la iniciativa de Ley de Ingresos del Estado, proponiendo en su caso, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento del Estado y de las entidades de la administración pública paraestatal en el ejercicio fiscal correspondiente, en términos de lo dispuesto por el Artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones, y
+II.- Solicitar al Congreso la reforma o adición de la Ley de Ingresos del Estado, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento del Estado y en su caso, de las entidades de la administración pública paraestatal a su cargo cuando considere que existen circunstancias extraordinarias que así lo justifiquen;
 
-III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
+III.- Presentar y gestionar ante el Congreso las solicitudes de autorización de endeudamiento en términos de lo previsto por esta Ley;
+
+IV.- Contratar, previa autorización del Congreso, empréstitos en representación del Estado;
+
+V.- Negociar, aprobar, celebrar y suscribir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios, directa o indirectamente, para la obtención, manejo, operación y gestión de los financiamientos a cargo del Estado, autorizados conforme a lo previsto en esta Ley;
+
+VI.- Emitir, previa autorización del Congreso, valores en representación del Estado y colocarlos entre el gran público inversionista, en los términos de esta Ley y de la legislación aplicable;
+
+VII.- Celebrar, previa autorización, en su caso, del Congreso, operaciones de refinanciamiento y reestructuración de la deuda pública a cargo del Estado;
+
+VIII.- Constituir al Estado, previa autorización del Congreso y sujeto a lo establecido en esta Ley, en garante, avalista, deudor solidario, subsidiario o sustituto de las entidades señaladas en el Artículo 2, fracciones II, III, IV y V de esta Ley;
+
+IX.- Afectar, previa autorización del Congreso, como fuente o garantía de pago, o ambas, de los financiamientos que contrate directamente el Estado o de aquellos en los que funja como garante, avalista, deudor solidario, subsidiario o sustituto, los bienes del dominio privado de su propiedad o sus derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de los que pueda disponer de conformidad con la legislación aplicable y realizar en su caso, los pagos que correspondan mediante dichas garantías o fuentes de pago;
+
+X.- Afectar, previa autorización del Congreso, como fuente o garantía de pago, o ambas, de financiamientos que celebre directamente el Estado, las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación;
+
+XI.- Negociar, previa autorización del Congreso, los términos y condiciones, así como celebrar los actos jurídicos que formalicen los mecanismos legales de garantía o pago de los financiamientos que celebre directamente el Estado o de aquellos en los que funja como garante, avalista, deudor solidario, subsidiario o sustituto;
+
+XII.- Realizar, en su caso, a través de los mecanismos legales a que se refiere la fracción XI anterior, el pago de obligaciones y empréstitos contraídos por el Estado;
+
+XIII.- Realizar, previa instrucción de los ayuntamientos, pagos por cuenta y orden de los Municipios, con cargo a las participaciones u otros ingresos federales que les correspondan;
+
+XIV.- Solicitar a las entidades la documentación e información complementaria que requiera, para el análisis de las solicitudes de autorización de endeudamiento, cuando se solicite al Estado fungir como garante, avalista, deudor solidario, subsidiario o sustituto;
+
+XV.- Celebrar, de acuerdo a lo previsto en esta Ley, operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico financieros derivados de créditos o empréstitos obtenidos por el Estado con base en esta Ley;
+
+XVI.- Destinar los recursos obtenidos con motivo de las operaciones a que se refiere esta Ley, de acuerdo con lo autorizado por el Congreso;
+
+XVII.- Incluir anualmente dentro de la iniciativa de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a cargo del Estado, correspondiente al ejercicio fiscal de que se trate;
+
+XVIII.- Vigilar que se incluyan anualmente dentro de los presupuestos de egresos de las entidades de la administración pública paraestatal, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a cargo de las mismas correspondiente al ejercicio fiscal de que se trate;
+
+XIX.- Realizar oportunamente los pagos del servicio de la deuda pública directa del Estado y vigilar que se hagan oportunamente los pagos del servicio de la deuda pública contingente e indirecta del Estado;
+
+XX.- Aprobar, previamente a la autorización por el Congreso, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento de las entidades de la administración pública paraestatal, cuya inclusión en la Ley de Ingresos del Estado soliciten dichas entidades y en su oportunidad, la celebración de las operaciones de endeudamiento que se propongan contraer dichas entidades;
+
+XXI.- Informar trimestralmente al Congreso, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de la deuda pública estatal, al rendir la cuenta pública;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XXII.- Proporcionar al Congreso, por conducto de la Auditoría Superior de Fiscalización, la información que éste le requiera de acuerdo con la Ley, en relación con las operaciones de deuda pública que celebre;
+
+XXIII.- Contratar a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia del Estado y las calificaciones sobre la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza, que en su caso, se proponga implementar el Estado y para que realicen la revisión periódica de las calificaciones respectivas;
+
+XXIV.- Solicitar la inscripción de los financiamientos que contrate, cuando los mismos se contraigan con afectación de sus participaciones o aportaciones federales, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar a dicha dependencia, sobre la situación que guarden sus obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
+
+XXV.- Llevar el Registro de Obligaciones y Empréstitos del Estado de Morelos, de acuerdo a lo previsto en esta Ley;
+
+XXVI.- Inscribir los financiamientos que celebre en el Registro de Obligaciones y Empréstitos del Estado de Morelos, así como mantener actualizada la información sobre la situación que guarden sus obligaciones inscritas y cancelar en su oportunidad, las inscripciones correspondientes;
+
+XXVII.- Expedir a través del Registro de Obligaciones y Empréstitos del Estado de Morelos, las certificaciones que correspondan, con relación a las obligaciones que se encuentren inscritas en dicho registro;
+
+XXVIII.- Publicar, a más tardar treinta días después de concluido cada semestre calendario, en un diario de circulación local y en un diario de circulación nacional, la información fiscal y financiera que el Estado considere relevante, incluyendo el saldo actualizado de la deuda pública estatal;
+
+XXIX.- Publicar anualmente, en el Periódico Oficial del Estado de Morelos, la información relativa a los registros de la deuda pública estatal, que consten en el Registro de Obligaciones y Empréstitos del Estado de Morelos;
+
+XXX.- Asesorar a las entidades señaladas en las fracciones II, III, IV y V del Artículo 2 de esta Ley, en la formulación de sus proyectos financieros y en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública;
+
+XXXI.- Contratar en representación del Estado, bajo cualquier forma legal, previa autorización del Congreso emitida mediante ley o decreto, el otorgamiento de garantías de terceros, totales o parciales, a efecto de mejorar la calidad crediticia de los financiamientos que de manera directa celebre el Estado; y
+
+XXXII.- Las demás que, en materia de deuda pública, le confieran la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley u otras disposiciones legales.
 
 ###### Artículo 14.
 
-En todas las medidas concernientes a niñas, niños y adolescentes que tomen los órganos jurisdiccionales, autoridades administrativas y órganos legislativos, se tomará en cuenta, como consideración primordial, el interés superior de la niñez. Dichas autoridades elaborarán los mecanismos necesarios para garantizar este principio.
+Los derechos y obligaciones a que se refieren las fracciones IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX y XXXI del Artículo 13 de esta Ley, podrán ser ejercidos y cumplidas respectivamente, por conducto de la Secretaría.
 
-### Capítulo Tercero. Del Derecho a la Identidad
+### Capítulo Tercero. De la Presupuestación de la Deuda Pública
 
 ###### Artículo 15.
 
-Niñas, niños y adolescentes, en términos de la legislación civil aplicable, desde su nacimiento, tienen derecho a:
+Los Ayuntamientos tendrán las facultades y obligaciones siguientes:
 
-I. Contar con nombre y los apellidos que les correspondan, así como a ser inscritos en el Registro Civil respectivo de forma inmediata y gratuita, y a que se les expida en forma ágil y sin costo la primera copia certificada del acta correspondiente, en los términos de las disposiciones aplicables;
+I.- Presentar anualmente al Congreso las iniciativas de Leyes de Ingresos Municipales, proponiendo en su caso, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento del Municipio respectivo y de las entidades de la administración pública paramunicipal a su cargo, en el ejercicio fiscal correspondiente, en términos de lo dispuesto por el Artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. Contar con nacionalidad, de conformidad con lo dispuesto en la Constitución Federal, la Constitución Local y los tratados internacionales;
+II.- Solicitar al Congreso la reforma o adición de las Leyes de Ingresos Municipales, para incluir montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento de los Municipios y en su caso, de las entidades de la administración pública paramunicipal a su cargo, cuando se considere que existen circunstancias extraordinarias que así lo justifiquen;
 
-III. Conocer su filiación y su origen, en la medida de lo posible y siempre que ello sea acorde con el interés superior de la niñez, y
+III.- Presentar y gestionar ante el Congreso las solicitudes de autorización de endeudamiento en términos de lo previsto por esta Ley;
 
-IV. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenencia cultural, así como sus relaciones familiares.
+IV.- Contratar, previa autorización del Congreso del Estado, empréstitos en representación de los Municipios;
 
-Las autoridades, en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
+V.- Negociar, aprobar, celebrar y suscribir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios, directa o indirectamente, para la obtención, manejo, operación y gestión de los financiamientos a cargo de los Municipios, autorizados conforme a lo previsto en esta Ley;
 
-La Procuraduría de Protección, en el ámbito de su respectiva competencia, orientará a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
+VI.- Emitir, previa autorización del Congreso, valores en representación de los Municipios y colocarlos entre el gran público inversionista, en los términos de esta Ley y de la legislación aplicable;
 
-Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+VII.- Celebrar, previa autorización, en su caso, del Congreso del Estado, operaciones de refinanciamiento y reestructuración de la deuda pública a cargo de los Municipios;
 
-Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, así como en relación con los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación civil aplicable. Ante la negativa de la prueba de paternidad o maternidad, la autoridad competente, salvo prueba en contrario, presumirá que es el padre o la madre respectivamente.
+VIII.- Constituir a los Municipios, previa autorización del Congreso y sujeto a lo establecido en esta Ley, en garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal;
 
-La falta de documentación para acreditar la identidad de niñas, niños y adolescentes no será obstáculo para garantizar sus derechos.
+IX.- Solicitar, en su caso, al Estado que se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios con relación a financiamientos que se propongan celebrar de acuerdo a lo estipulado en esta Ley;
+
+X.- Afectar, previa autorización del Congreso, como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente los Municipios o de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, los bienes del dominio privado de su propiedad o sus derechos al cobro e ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable y realizar, en su caso, los pagos que correspondan mediante dichas garantías o fuentes de pago;
+
+XI.- Afectar, previa autorización del Congreso, como fuente o garantía de pago, o ambas, de financiamientos que celebre directamente el Municipio, las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación;
+
+XII.- Negociar, previa autorización del Congreso, los términos y condiciones y celebrar los actos jurídicos que formalicen los mecanismos legales de garantía o pago de los financiamientos que celebren directamente los Municipios o de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos;
+
+XIII.- Realizar, en su caso, a través de los mecanismos legales a que se refiere la fracción XII anterior, el pago de obligaciones y empréstitos contraídos por los Municipios;
+
+XIV.- Instruir al Poder Ejecutivo del Estado para que realice pagos por cuenta y orden de los Municipios con cargo a las participaciones u otros ingresos federales que les correspondan;
+
+XV.- Solicitar a las entidades de la administración pública paramunicipal la documentación e información complementaria que requiera para el análisis de las solicitudes de autorización de endeudamiento cuando se les solicite fungir como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos;
+
+XVI.- Celebrar, de acuerdo con lo previsto en esta Ley, operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico financieros derivados de créditos o empréstitos obtenidos por los Municipios con base en esta Ley;
+
+XVII.- Destinar los recursos obtenidos con motivo de las operaciones a que se refiere esta Ley, de acuerdo con lo autorizado por el Congreso;
+
+XVIII.- Incluir anualmente en los presupuestos de egresos municipales, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a cargo de los Municipios, correspondiente al ejercicio fiscal de que se trate;
+
+XIX.- Vigilar que se incluyan anualmente dentro de los presupuestos de egresos de las entidades de la administración pública paramunicipal, la o las partidas presupuestales necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública a cargo de las mismas, correspondiente al ejercicio fiscal de que se trate;
+
+XX.- Realizar oportunamente los pagos del servicio de la deuda pública directa del Municipio y vigilar que se hagan oportunamente los pagos de la deuda pública contingente e indirecta del Municipio;
+
+XXI.- Aprobar, previamente a su autorización por el Congreso, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento de las entidades de la administración pública paramunicipal, cuya inclusión en la Ley de Ingresos del Municipio soliciten dichas entidades y en su oportunidad, la celebración de las operaciones de endeudamiento que se propongan contraer dichas entidades;
+
+XXII.- Informar al Congreso sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de su deuda pública, al rendir la cuenta pública municipal en los plazos establecidos por el Artículo 32 de la Constitución Política del Estado;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XXIII.- Proporcionar al Congreso, por conducto de la Auditoría Superior de Fiscalización y al Poder Ejecutivo por conducto de la Secretaría, cuando el Estado funja corno garante, avalista, deudor solidario, subsidiario o sustituto, la información que éstos le requieran en relación con las operaciones de deuda pública que celebren;
+
+XXIV.- Contratar, en caso de que a juicio del ayuntamiento, así convenga a los intereses del Municipio de que se trate, a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia del Municipio y las calificaciones sobre la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que, en su caso, se proponga implementar el Municipio y para que realicen la revisión periódica de las calificaciones respectivas;
+
+XXV.- Solicitar la inscripción de los financiamientos que celebren, cuando los mismos se contraigan con afectación de sus participaciones o aportaciones federales, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
+
+XXVI.- Inscribir los financiamientos que celebren en el Registro de Obligaciones y Empréstitos del Estado de Morelos; informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el registro de acuerdo a lo previsto en esta Ley y notificar, en su caso, el pago de las obligaciones inscritas para efectos de la cancelación de las inscripciones correspondientes;
+
+XXVII.- Solicitar al Registro de Obligaciones y Empréstitos del Estado de Morelos, la expedición de las certificaciones correspondientes con relación a las obligaciones a cargo de los Municipios que se encuentren inscritas en dicho registro;
+
+XXVIII.- Llevar un Registro Municipal de Obligaciones y Empréstitos e inscribir en el mismo las operaciones de endeudamiento correspondientes a la deuda pública municipal, mantener actualizada la información sobre la situación que guarden las obligaciones inscritas y cancelar en su oportunidad, las inscripciones correspondientes;
+
+XXIX.- Publicar, a más tardar treinta días después de concluido cada semestre calendario, en un diario de circulación local y en un diario de circulación nacional, la información fiscal y financiera que el Municipio considere relevante, incluyendo el saldo actualizado de la deuda pública municipal;
+
+XXX.- Contratar en representación de los Municipios, bajo cualquier forma legal, previa autorización del Congreso emitida mediante Ley o Decreto, el otorgamiento de garantías de terceros, totales o parciales, a efecto de mejorar la calidad crediticia de los financiamientos que de manera directa obtengan; y
+
+XXXI.- Las demás que, en materia de deuda pública, les confieran la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley u otras disposiciones legales.
 
 ###### Artículo 16.
 
-Las Niñas, niños y adolescentes de nacionalidad extranjera que se encuentren en territorio del Estado, tienen derecho a comprobar su identidad con los documentos emitidos por la autoridad competente u otros medios previstos en la Ley de Migración y demás disposiciones aplicables.
+Los actos de los ayuntamientos a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XVI, XXI, XXIV y XXX del Artículo 15 de esta Ley deberán ser autorizados, previamente a su sometimiento para la aprobación del Congreso, mediante el acuerdo de la mayoría de sus miembros.
 
-En los casos en que niñas, niños o adolescentes cumplan con los requisitos para obtener la nacionalidad mexicana, se les brindarán todas las facilidades a efecto de darles un trato prioritario, para ello, la Procuraduría de Protección, tendrá la intervención que corresponda.
+En el caso de que los actos de los ayuntamientos a que se refieren las fracciones III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XVI, XXI, XXIV y XXX del Artículo 15 de esta ley impliquen obligaciones por virtud de las cuales se afecte el patrimonio inmobiliario municipal o comprometan al Municipio por un plazo mayor al período para el que fue electo el ayuntamiento, dichos actos deberán ser autorizados, previamente a su sometimiento para la aprobación del Congreso, mediante el acuerdo de las dos terceras partes de sus miembros.
 
-### Capítulo Cuarto. Del Derecho a Vivir en Familia
+### Capítulo Cuarto. De la Contratación de Empréstitos y Créditos
 
 ###### Artículo 17.
 
-Las niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
-
-Estas condiciones deberán considerarse como un indicio de la necesidad de proporcionar a la familia el apoyo apropiado.
-
-Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez y la salvaguarda de sus derechos y exentos de todo tipo de violencia, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
-
-Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
-
-Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho a convivir o mantener relaciones personales y contacto directo con sus familiares de modo regular, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
-
-Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
-
-Las autoridades locales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+Los derechos y obligaciones a que se refieren las fracciones IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX y XXX del Artículo 15 de esta Ley, podrán ser ejercidos por conducto del Presidente Municipal del Municipio que corresponda.
 
 ###### Artículo 18.
 
-Las autoridades, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
+Los Órganos de Gobierno de las entidades de la administración pública paraestatal y paramunicipal tendrán las siguientes facultades y obligaciones:
 
-Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
+I.- Incluir anualmente en sus proyectos de presupuesto de ingresos, para efectos de su propuesta e inclusión en las iniciativas de Ley de Ingresos del Estado o en las iniciativas de Leyes de Ingresos de los Municipios, según corresponda, los montos y conceptos de endeudamiento, que sean necesarios para su financiamiento en el ejercicio fiscal correspondiente, en términos de lo dispuesto por el Artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2019)</small>
+II.- Solicitar a la Secretaría o al ayuntamiento del cual dependan, la autorización e inclusión en la iniciativa de Ley de Ingresos del Estado o en las iniciativas de Leyes de Ingresos Municipales, de los montos y conceptos de endeudamiento considerados en sus respectivos presupuestos de ingresos en términos de la fracción I anterior;
 
-Para efectos del párrafo anterior, la Procuraduría de Protección, deberá otorgar acogimiento correspondiente, de conformidad con lo previsto en el Título Cuarto, Capítulo Único de esta Ley y demás disposiciones aplicables.
+III.- Solicitar, en su caso, autorización al Congreso para ejercer montos y conceptos de endeudamiento no previstos o adicionales a los autorizados en la Ley de Ingresos del Estado o en las Leyes de Ingresos de los Municipios, según corresponda, que sean necesarios para el financiamiento de las entidades de la administración pública paraestatal y paramunicipal, cuando se considere que existen circunstancias extraordinarias que así lo justifiquen;
+
+IV.- Presentar y gestionar ante el Congreso, las solicitudes de autorización de endeudamiento en términos de lo previsto por esta Ley;
+
+V.- Contratar créditos, en representación de las entidades de la administración pública paraestatal y paramunicipal, según corresponda, previa autorización del Congreso;
+
+VI.- Negociar, aprobar, celebrar y suscribir en el ámbito de su competencia, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios, directa o indirectamente, para la obtención, manejo, operación y gestión de los financiamientos a cargo de las entidades de la administración pública paraestatal y paramunicipal, autorizados conforme a lo previsto en esta Ley;
+
+VII.- Emitir, previa autorización del Congreso, valores en representación de las entidades de la administración pública paraestatal y paramunicipal y colocarlos entre el gran público inversionista, en los términos de esta Ley;
+
+VIII.- Celebrar, previa autorización, en su caso, del Congreso, operaciones de refinanciamiento y reestructuración de la deuda pública a cargo de las entidades de la administración pública paraestatal o paramunicipal, según corresponda;
+
+IX.- Afectar, previa autorización del Congreso, como fuente o garantía de pago, o ambas, de los financiamientos que celebren las entidades de la administración pública paraestatal y paramunicipal, los bienes de su propiedad o sus derechos al cobro e ingresos derivados de la cobranza de cuotas, derechos, productos o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable;
+
+X.- Solicitar, en su caso, al Estado o a los Municipios de los cuales dependan, que se constituyan en sus garantes, avalistas, deudores solidarios, subsidiarios o sustitutos con relación a financiamientos que se propongan celebrar las entidades de la administración pública paraestatal y paramunicipal de acuerdo a lo estipulado en esta Ley;
+
+XI.- Celebrar, de acuerdo a lo previsto en esta Ley, operaciones financieras de cobertura que tiendan a evitar o reducir riesgos económico financieros derivados de créditos o empréstitos obtenidos por las entidades de la administración pública paraestatal y paramunicipal con base en esta Ley;
+
+XII.- Destinar los recursos obtenidos con motivo de las operaciones a que se refiere esta Ley de acuerdo con lo autorizado por el Congreso;
+
+XIII.- Incluir anualmente dentro de los presupuestos de egresos de las entidades de la administración pública paraestatal y paramunicipal, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a su cargo correspondiente al ejercicio fiscal de que se trate;
+
+XIV.- Realizar oportunamente los pagos del servicio de la deuda pública a cargo de las entidades de la administración pública paraestatal y paramunicipal;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+XV.- Proporcionar al Congreso, por conducto de la Auditoría Superior de Fiscalización; al Poder Ejecutivo, por conducto de la Secretaría; y a los ayuntamientos, según corresponda, la información que éstos les requieran en relación con las operaciones de deuda pública que celebren las entidades de la administración pública paraestatal y paramunicipal;
+
+XVI.- Contratar, en caso de que a su juicio así convenga a los intereses de la entidad de que se trate, a instituciones calificadoras de valores debidamente autorizadas en México, a efecto de que emitan la calificación sobre la calidad crediticia de las entidades y la calificación sobre la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que en su caso, se propongan implementar las entidades de la administración pública paraestatal y paramunicipal y para que realicen la revisión periódica de las calificaciones respectivas;
+
+XVII.- Solicitar la inscripción de los financiamientos que celebren las entidades de la administración pública paraestatal y paramunicipal, cuando como fuente o garantía de pago de los mismos se hubieren afectado participaciones federales, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
+
+XVIII.- Inscribir los financiamientos que celebren las entidades de la administración pública paraestatal y paramunicipal en el Registro de Obligaciones y Empréstitos del Estado de Morelos, informar a dicha dependencia sobre la situación que guarden sus obligaciones inscritas en el registro de acuerdo a lo previsto en esta Ley y notificar en su caso, el pago de las obligaciones inscritas para efectos de la cancelación de la inscripción correspondiente;
+
+XIX.- Solicitar al Registro de Obligaciones y Empréstitos del Estado de Morelos, la expedición de las certificaciones correspondientes con relación a las obligaciones a cargo de las entidades de la administración pública paraestatal y paramunicipal, que se encuentren inscritas en dicho registro;
+
+XX.- Llevar un Registro de Obligaciones y Empréstitos de la entidad correspondiente e inscribir en el mismo las operaciones de endeudamiento correspondientes a la deuda pública a su cargo;
+
+XXI.- Publicar, a más tardar treinta días después de concluido cada semestre calendario, en un diario de circulación local y en un diario de circulación nacional, la información fiscal y financiera de la entidad de la administración pública paraestatal y paramunicipal respectiva, que dichos Órganos de Gobierno consideren relevante, incluyendo el saldo actualizado de la deuda pública paraestatal o paramunicipal, según corresponda;
+
+XXII.- Contratar en representación de las entidades de la administración pública paraestatal y paramunicipal, bajo cualquier forma legal, previa autorización del Congreso emitida mediante Ley o Decreto, el otorgamiento de garantías de terceros, totales o parciales, a efecto de mejorar la calidad crediticia de los financiamientos que de manera directa celebren dichas entidades; y
+
+XXIII.- Las demás que, en materia de deuda pública, se les confieran en esta Ley o en otras disposiciones legales.
 
 ###### Artículo 19.
 
-El traslado o retención ilícita de niñas, niños y adolescentes cuando se produzcan en violación de los derechos atribuidos individual o conjuntamente a las personas o instituciones que ejerzan la patria potestad, la tutela o la guarda y custodia, y se sancionará en términos de la legislación aplicable.
-
-En los casos de traslados o retenciones ilícitas de niñas, niños y adolescentes fuera del territorio del estado o nacional, la persona interesada podrá presentar la solicitud de restitución respectiva ante la Secretaría de Relaciones Exteriores, para que ésta lleve a cabo las acciones correspondientes en el marco de sus atribuciones, de conformidad con lo dispuesto en los instrumentos internacionales y demás disposiciones aplicables.
-
-Cuando las autoridades de la entidad tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes, conforme a las demás disposiciones aplicables, para su localización y restitución.
-
-Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
+Los actos de los Órganos de Gobierno de las entidades de la administración pública paraestatal a que se refiere el Artículo 18, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XVI y XXII deberán ser autorizados, mediante el acuerdo de la mayoría de sus miembros y por la Secretaría, previamente a su sometimiento para la aprobación del Congreso.
 
 ###### Artículo 20.
 
-El Sistema DIF Estatal deberá otorgar medidas especiales de protección a niñas, niños y adolescentes que hayan sido separados de sus padres o familiares por resolución judicial, atendiendo a la legislación civil y determinará la opción más adecuada entre las siguientes:
+Los actos de los Órganos de Gobierno de las entidades de la administración pública paramunicipal a que se refiere el Artículo 18, fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI, XVI y XXII deberán ser autorizados, mediante el acuerdo de la mayoría de sus miembros y por el ayuntamiento correspondiente, previamente a su sometimiento para la aprobación del Congreso.
 
-I. Sean ubicados preferentemente con los demás miembros de su familia extensa o ampliada para su cuidado, siempre y cuando no sea contrario a su interés superior;
-
-II. Sean recibidos por una familia de acogida, en caso de no ser posible que la familia extensa pudiera hacerse cargo;
-
-III. Sean recibidos por una familia de acogimiento pre-adoptivo, o
-
-IV. Sean recibidos en última instancia en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible. Esta medida especial de protección tendrá carácter subsidiario dando prioridad a las opciones de cuidado en un entorno familiar.
-
-La Procuraduría de Protección, deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, tomando en cuenta los requisitos señalados para el acogimiento pre-adoptivo.
-
-La Procuraduría de Protección será responsable de dar seguimiento a la situación en la que se encuentren niñas, niños y adolescentes una vez que hayan concluido las medidas especiales de protección aplicadas.
+En el caso de que los actos de los Órganos de Gobierno de las entidades de la administración pública paramunicipal a que se refiere el Artículo 18, fracciones II, III, IV, V, VI, VII, VIII, IX, X, XI, XVI y XXII impliquen obligaciones por virtud de las cuales se afecte el patrimonio inmobiliario paramunicipal o comprometan a la entidad de la administración pública paramunicipal por un plazo mayor al período para el que fue electo el ayuntamiento del Municipio al que pertenezcan, dichos actos deberán ser autorizados, previamente a su sometimiento para la aprobación del Congreso, mediante el acuerdo de las dos terceras partes de los miembros del ayuntamiento correspondiente.
 
 ###### Artículo 21.
 
-Las personas interesadas en adoptar niñas, niños y adolescentes que se encuentren bajo la tutela de la Procuraduría de Protección, podrán presentar ante dicha instancia la solicitud correspondiente.
-
-La Procuraduría de Protección, en el ámbito de su competencia, realizará la valoración psicológica, estudios socio-económicos, y todo aquello que sea necesario para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto por las leyes y reglamentos aplicables. Los exámenes y certificados médicos deberán ser practicados por instituciones públicas.
-
-La asignación de niñas, niños y adolescentes sólo podrá otorgarse a los solicitantes que cuenten con certificado de idoneidad expedido por el Consejo Técnico de Adopciones. Para tal efecto, se observará lo siguiente:
-
-I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad, desarrollo cognoscitivo y grado de madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el órgano jurisdiccional competente;
-
-II. Se tomará en cuenta que las condiciones en la familia de acogimiento pre-adoptiva sean adecuadas para el desarrollo integral de niñas, niños y adolescentes, de conformidad con el principio de interés superior de la niñez;
-
-III. Se tomará en consideración el grado de parentesco; la relación de afinidad y de afectividad; el origen, la comunidad y las condiciones culturales en que se desarrollen niñas, niños y adolescentes, y
-
-IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
+Las facultades y obligaciones establecidas en el Artículo 18, en favor o a cargo, de los órganos de gobierno de las entidades de la administración pública paraestatal y paramunicipal, serán ejercidas directamente por dichos órganos de gobierno o por sus respectivos titulares de acuerdo a lo que establezcan sus respectivos decretos constitutivos, estatutos, fideicomisos o cualesquier otra normatividad que los rija en cuanto a su estructura y facultades.
 
 ###### Artículo 22.
 
-Una vez autorizada la asignación de niñas, niños o adolescentes a una familia de acogida pre-adoptiva, el Consejo Técnico de Adopciones deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con la finalidad de prevenir o superar las dificultades que se puedan presentar.
+Los montos y conceptos de endeudamiento, directo y contingente que en su caso, sean necesarios para el financiamiento del Estado, los Municipios y las entidades de la administración pública paraestatal y paramunicipal, deberán ser incluidos anualmente por el Poder Ejecutivo del Estado y por los ayuntamientos, en la iniciativa de Ley de Ingresos del Estado y en las iniciativas de Leyes de Ingresos de los Municipios, según corresponda.
 
-Si no se lograran consolidar las condiciones de adaptación de niñas, niños y adolescentes con la familia de acogida pre-adoptiva, el Consejo Técnico de Adopciones iniciará el procedimiento correspondiente para reincorporarlos al sistema que corresponda y de ser necesario, realizar una nueva asignación.
+Los montos y conceptos de endeudamiento necesarios para el financiamiento de las entidades de la administración pública paraestatal y paramunicipal, deberán ser autorizados anualmente en sus proyectos de presupuestos de ingresos para efectos de su propuesta e inclusión en la iniciativa de Ley de Ingresos del Estado o en las iniciativas de Leyes de Ingresos de los Municipios, según corresponda.
 
-Corresponde al Consejo Técnico de Adopciones de la entidad revocar la asignación y ejercer las facultades que le otorgan la presente ley y demás disposiciones jurídicas aplicables, cuando se violenten los derechos de niñas, niños y adolescentes que hayan sido asignados.
+Dentro del plazo comprendido del primero al treinta de agosto de cada año, las entidades de la administración pública paraestatal y paramunicipal deberán solicitar a la Secretaría o al ayuntamiento respectivo, según corresponda, la autorización de los montos y conceptos de endeudamiento considerados en sus respectivos proyectos de presupuestos de ingresos y su inclusión en la iniciativa de Ley de Ingresos del Estado o en las iniciativas de Leyes de Ingresos Municipales, según sea pertinente.
 
 ###### Artículo 23.
 
-Corresponde al Sistema DIF Estatal:
-
-I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación;
-
-Il. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir correspondientes, así como formular las pertinentes al órgano jurisdiccional, y los dictámenes recomendaciones.
-
-III. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría de Protección Federal.
+Los montos y conceptos de endeudamiento que sean necesarios para el financiamiento de las entidades a que hace referencia el Artículo anterior, serán autorizados por el Congreso, anualmente, en la Ley de Ingresos del Estado y en las Leyes de Ingresos de los Municipios, en su caso.
 
 ###### Artículo 24.
 
-En materia de adopciones se estará a lo dispuesto por la Ley General y la legislación local en la materia.
+La autorización de montos y conceptos de endeudamiento en las partidas correspondientes de la Ley de Ingresos del Estado y en las Leyes de Ingresos de los Municipios, no autoriza al Poder Ejecutivo del Estado, a los ayuntamientos, ni a las entidades de la administración pública paraestatal o paramunicipal, para la contratación de los créditos o empréstitos cuyos montos y conceptos se encuentren amparados bajo tales partidas, sino que, para que éstos puedan obtener dichos financiamientos deberán presentar y gestionar ante el Congreso, las solicitudes de autorización de endeudamiento correspondientes de acuerdo con lo previsto en el Capítulo Cuarto de esta Ley.
 
 ###### Artículo 25.
 
-Las autoridades competentes en materia de desarrollo integral de la familia e instituciones públicas y privadas ofrecerán orientación, cursos y asesorías gratuitas, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros.
+Los montos relativos a los empréstitos y créditos que se propongan celebrar las entidades, deberán encontrarse considerados en las partidas correspondientes a los montos y conceptos de endeudamiento autorizado, incluidas en la Ley de Ingresos del Estado, en las Leyes de Ingresos de los Municipios y en los presupuestos de ingresos de las entidades de la administración pública paraestatal y paramunicipal, según corresponda, de acuerdo con lo previsto por esta Ley.
 
-### Capítulo Quinto. Del Derecho a la Igualdad
+### Capítulo Quinto. De la Emisión y Colocación de Valores
 
 ###### Artículo 26.
 
-Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos contenidos en la presente Ley, a fin de garantizar su desarrollo integral.
+El Congreso podrá, previa solicitud debidamente justificada de las entidades, autorizar el ejercicio de montos y conceptos de endeudamiento no previstos o adicionales a los autorizados en la Ley de Ingresos del Estado o en las Leyes de Ingresos de los Municipios, cuando a juicio del Congreso se presenten circunstancias extraordinarias que así lo requieran.
 
-Con el fin de garantizar la igualdad entre niñas, niños y adolescentes, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán realizar las siguientes acciones:
-
-I. Contribuir con programas de alimentación, educación, y médicos para la nivelación en el acceso a las oportunidades de niñas, niños y adolescentes, especialmente para aquellos que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales desfavorables;
-
-II. Promover la eliminación de costumbres y tradiciones que sean perjudiciales para el acceso al mismo trato y oportunidades entre las niñas y los niños y las adolescentes y los adolescentes;
-
-III. Desarrollar campañas encaminadas a promover la responsabilidad de preservar los derechos de niñas, niños y adolescentes dirigidas a los ascendientes, tutores o custodios.
-
-IV. Establecer medidas expeditas, en los casos, en que niñas, niños y adolescentes no cuenten con un legítimo representante para el ejercicio de sus derechos.
-
-### Capítulo Sexto. Del Derecho a No ser Discriminado
+### Capítulo Sexto. De las Garantías, Avales y Mecanismos de Pago
 
 ###### Artículo 27.
 
-Niñas, niños y adolescentes tienen derecho a no ser discriminados, por lo que no deberá hacerse distinción, exclusión o restricción alguna de sus derechos, en razón de su raza, origen étnico, nacional o social, idioma, sexo, religión, opiniones, condición socioeconómica, discapacidad, circunstancias de nacimiento, estado de salud o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor, familiares o quienes ejerzan la custodia sobre ellos.
+En los casos en que el Congreso del Estado autorice la contratación de créditos o empréstitos que impliquen el ejercicio de montos y conceptos de endeudamiento no previstos o adicionales a los autorizados en la Ley de Ingresos del Estado o en las Leyes de Ingresos Municipales, dichos ordenamientos deberán reformarse o adicionarse a fin de incluir los nuevos montos y conceptos de endeudamiento. En todo caso, en términos de lo previsto por el Artículo 117, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, las reformas o adiciones antes señaladas deberán realizarse previamente a que las entidades contraigan los empréstitos o créditos de que se trate.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán:
-
-I. Llevar a cabo acciones especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, cualquier forma de trabajo infantil o cualquiera otra condición de marginalidad;
-
-II. Adoptar medidas y realizar acciones afirmativas, cuando sean necesarias, para garantizar que niñas y las adolescentes tengan igualdad de trato y oportunidades que los niños y los adolescentes;
-
-III. Promover e impulsar un desarrollo integral de igualdad entre niñas, niños y adolescentes, erradicando usos, costumbres o prácticas culturales que promuevan cualquier tipo de discriminación de niñas, niños y adolescentes, atendiendo a los principios rectores de esta Ley, y
-
-IV. Impulsar políticas públicas encaminadas al fortalecimiento familiar, a fin de que todas las niñas, los niños y los adolescentes logren un desarrollo integral y accedan a las mismas oportunidades a lo largo de su vida.
+En adición a lo anterior, previamente a la contratación de los empréstitos respectivos, el Estado y los Municipios, por conducto del Poder Ejecutivo del Estado o de los ayuntamientos, según proceda, deberán realizar los ajustes correspondientes en sus presupuestos de egresos; y en lo relativo a las entidades de la administración pública paraestatal y paramunicipal, antes de contraer los créditos respectivos, deberán realizar los ajustes pertinentes a sus presupuestos de ingresos y de egresos, notificando de ello a la Secretaría y a los ayuntamientos, según corresponda.
 
 ###### Artículo 28.
 
-Las instancias públicas del Estado de Durango deberán reportar semestralmente a la Comisión Estatal de Derechos Humanos las medidas de nivelación, inclusión, o las acciones afirmativas que adopten a favor de niñas, niños y adolescentes.
+Los financiamientos cuya autorización soliciten las entidades, deberán ser en todo caso, acordes con la capacidad de pago de las mismas.
 
-Los reportes deberán contener la información seccionada por edad, sexo, escolaridad y municipio.
+En los casos en que la magnitud de los proyectos de inversión pública productiva lo ameriten, el Congreso podrá autorizar la implementación de programas de financiamiento, que impliquen la obtención de créditos o empréstitos en uno o en varios ejercicios presupuestales. En tal caso, los ingresos y erogaciones que deriven de los financiamientos que se celebren durante ejercicios fiscales posteriores al del programa de financiamiento que contenga su autorización, deberán ser incluidos en las leyes de ingresos y presupuestos de egresos correspondientes a dichos ejercicios.
 
-### Capítulo Séptimo. Del Derecho a Vivir en Condiciones de Bienestar y a un Sano Desarrollo Integral
+### Capítulo Séptimo. De las Operaciones de Refinanciamiento y Reestructuración de la Deuda Pública
 
 ###### Artículo 29.
 
-Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
+El Poder Ejecutivo del Estado deberá incluir anualmente dentro de la iniciativa de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a cargo del Estado, correspondiente al ejercicio fiscal de que se trate, lo cual deberá ser verificado por el Congreso, en el entendido de que, en caso de no incluirse la o las partidas correspondientes, el Congreso deberá incluirlas y autorizarlas.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+En términos de lo previsto por el tercer párrafo del Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, en caso de que, por cualquier circunstancia, se omita incluir y autorizar en el Presupuesto de Egresos del Estado, las partidas necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública vigente a cargo del Estado, correspondiente al ejercicio fiscal de que se trate, se entenderán por incluidas y autorizadas las partidas que hubieren sido autorizadas en el Presupuesto anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas.
 
-Las autoridades estatales y municipales, estarán obligadas de manera subsidiaria, en el ámbito de sus respectivas competencias, mediante políticas públicas, programas y acciones a crear condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada para asegurar los derechos de niñas, niños y adolescentes.
+De la misma forma, en términos de lo previsto por los párrafos séptimo y octavo del Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, en caso de que, por cualquier circunstancia, el Congreso dejare de aprobar el Presupuesto de Egresos del Estado, continuará rigiendo el presupuesto de egresos aprobado para el ejercicio fiscal del año anterior, hasta en tanto éste se apruebe. En este supuesto, las partidas correspondientes al pago de obligaciones derivadas de empréstitos que hubiesen sido autorizadas en el presupuesto anterior se ajustarán en su monto, de manera automática, en función de las obligaciones contraídas.
+
+Los Presidentes Municipales deberán incluir, dentro de las iniciativas de presupuestos de egresos municipales, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a cargo del Municipio, correspondiente al ejercicio fiscal de que se trate, lo cual será verificado por los Ayuntamientos, en el entendido de que, en caso de no incluirse, el Ayuntamiento respectivo deberá incluirlas y autorizarlas.
+
+En términos de lo previsto por el octavo párrafo del Artículo 115 de la Constitución Política del Estado Libre y Soberano de Morelos, en caso de que, por cualquier circunstancia, se omita incluir y autorizar en los Presupuestos de Egresos de los Municipios, las partidas necesarias y suficientes para cubrir, en su totalidad, el pago del servicio de la deuda pública vigente a cargo del Municipio, correspondiente al ejercicio fiscal de que se trate, se entenderán por incluidas y autorizadas las partidas que hubieren sido autorizadas en el presupuesto anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas.
+
+Los titulares de las entidades de la administración pública paraestatal y paramunicipal deberán incluir, dentro de sus proyectos de presupuesto de egresos, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la deuda pública a cargo de dichas entidades, correspondiente al ejercicio fiscal de que se trate, lo cual será vigilado por los Órganos de Gobierno correspondientes, la Secretaría y por los ayuntamientos, respectivamente.
 
 ###### Artículo 30.
 
-En el Estado de Durango, la edad mínima para contraer matrimonio son los 18 años.
+El Poder Ejecutivo del Estado y los Ayuntamientos, deberán informar al Congreso sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de su deuda pública al rendir la cuenta pública estatal o municipal en términos de lo previsto por el Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
+### Capítulo Octavo. De la Subrogación de la Deuda Pública Derivada de Activos que se Enajenen o Concesionen
 
 ###### Artículo 31.
 
-Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el desarrollo integral.
+Sin perjuicio de lo señalado en el Artículo anterior, el Poder Ejecutivo del Estado, los ayuntamientos y las entidades de la administración pública paraestatal y paramunicipal deberán proporcionar al Congreso, directamente o por conducto de la Auditoría Superior de Fiscalización, la información que éste les requiera de acuerdo con la Ley, en relación con las operaciones de deuda pública que celebren.
 
 ###### Artículo 32.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar las medidas necesarias para que niñas niños y adolescentes vivan en contextos familiares, escolares, vecinales y estatales libres de violencia, por lo que deberán:
+La contratación de empréstitos o créditos a cargo de las entidades, deberá ser previamente autorizada por el Congreso de acuerdo con lo previsto por el Artículo 12, fracciones III, IV y V de esta Ley.
 
-I. Prevenir, sancionar y erradicar los casos en que niñas, niños o adolescentes se vean afectados por las acciones u omisiones a que se refiere el artículo 47 de la Ley General;
-
-II. Implementar las medidas apropiadas para prevenir, sancionar y erradicar cualquier tipo de violencia en contra de niñas, niños y adolescentes con discapacidad;
-
-III. Adoptar las medidas apropiadas de conformidad con la legislación correspondiente para promover la recuperación física, psicológica y la integración social de niñas, niños y adolescentes víctimas de violencia para lograr el goce y restitución de sus derechos;
-
-IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes, para su desarrollo integral, y
-
-V. Elaborar protocolos de atención en los que se considere su situación familiar, su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como para la reparación integral del daño.
-
-### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
+### Capítulo Noveno. Del Registro de Obligaciones y Empréstitos del Estado de Morelos
 
 ###### Artículo 33.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud. Las autoridades, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
-
-I. Reducir la morbilidad y mortalidad;
-
-II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria;
-
-III. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la salud, la nutrición, la higiene y el saneamiento ambiental, las medidas de prevención de accidentes, las ventajas de la lactancia materna, exclusiva dentro de los primeros seis meses y complementaria hasta los dos años;
-
-IV. Adoptar medidas tendentes a la eliminación las prácticas culturales, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes;
-
-V. Desarrollar la atención sanitaria preventiva, la orientación a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y cuidados en materia de planificación familiar de conformidad con la Ley de Salud del Estado de Durango;
-
-VI. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio;
-
-VII. Impulsar programas de prevención e información, así como la asistencia para combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable y el fomento del ejercicio físico;
-
-VIII. Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
-
-IX. Atender de manera especial las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, VIH, SIDA y otras enfermedades de transmisión sexual e impulsar programas de prevención e información sobre éstas;
-
-X. Disponer lo necesario para que niñas, niños y adolescentes con discapacidad reciban la atención apropiada a su condición, que los rehabilite, mejore su calidad de vida, facilite su interacción e inclusión social y permita un goce igualitario de sus derechos;
-
-XI. Prohibir, sancionar y erradicar la esterilización forzada de niñas, niños y adolescentes y cualquier forma de violencia obstétrica;
-
-XII. Establecer las medidas para que en los servicios de salud se atiendan de manera especial los casos en que niñas, niños y adolescentes sean víctimas de delitos o de cualquier tipo de violencia;
-
-XIII. Establecer medidas tendentes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones, y
-
-XIV. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación.
-
-En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme al artículo 48 de la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia de niños niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
+La contratación de empréstitos a cargo de los Municipios, deberá ser previamente autorizada por sus respectivos ayuntamientos de acuerdo con lo previsto por los Artículos 15 y 16 de esta Ley. Dicha autorización será requisito necesario para gestionar la autorización de los mismos ante el Congreso.
 
 ###### Artículo 34.
 
-Las autoridades, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social, así como desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
+Las entidades de la administración pública paraestatal, sólo podrán contratar créditos si cuentan con la autorización previa de sus Órganos de Gobierno y de la Secretaría, otorgada de acuerdo con lo previsto por los Artículos 13 fracción XX y 19 de esta Ley. Dichas autorizaciones serán requisito necesario para gestionar la autorización de los créditos respectivos ante el Congreso.
 
-### Capítulo Décimo. Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
+Las entidades de la administración pública paramunicipal, únicamente podrán contratar créditos si cuentan con la autorización previa de sus Órganos de Gobierno y del ayuntamiento correspondiente, otorgadas de acuerdo con lo previsto por los Artículos 15 fracción XXI y 20 de esta Ley. Dichas autorizaciones serán requisito necesario para gestionar la autorización de los créditos respectivos ante el Congreso.
+
+### Capítulo Décimo. De la solicitud, autorización, contratación, garantías y pago en esquemas globales de financiamiento
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 35.
 
-Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad de condiciones con los demás niñas, niños y adolescentes, a vivir incluidos en la comunidad y a disfrutar de los derechos contenidos en la presente Ley, la Constitución Federal, la Constitución Local, los tratados internacionales y demás leyes aplicables.
+En todos los casos en que las entidades se propongan celebrar créditos o empréstitos, incluida la emisión de valores, deberán formular una solicitud de autorización de endeudamiento, en términos del Artículo 36 de esta Ley, a sus Órganos de Gobierno, a los ayuntamientos, a la Secretaría y al Congreso, según corresponda.
+
+En el caso de las solicitudes de autorización de endeudamiento que presenten ante el Congreso, el Poder Ejecutivo del Estado y los ayuntamientos, las mismas deberán presentarse bajo la forma de iniciativas de Ley o Decreto, según corresponda.
 
 ###### Artículo 36.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y acciones afirmativas en los términos de las disposiciones jurídicas aplicables considerando los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la condición humana, para lo cual deberán:
+Las solicitudes de autorización de endeudamiento referidas en el Artículo anterior, deberán incluir:
 
-I. Realizar ajustes razonables para fomentar la inclusión social y establecer el diseño universal de accesibilidad de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable;
+I.- La información relativa al crédito o empréstito que se proponga celebrar la entidad de que se trate, indicando, según resulte aplicable: monto, destino, plazo máximo, mecanismo de pago y demás datos que en su caso, se consideren relevantes. En el caso de emisiones de valores, se deberá señalar según resulte aplicable: Importe de la emisión o programa de valores, destino, plazo máximo de la emisión o programa de valores, mecanismo de pago y demás datos que se consideren relevantes;
 
-II. Dotar a las instalaciones que ofrezcan trámites y servicios a niñas, niños y adolescentes con discapacidad, de señalización en Braille y formatos accesibles de fácil lectura y comprensión y procurarán ofrecer otras medidas de asistencia e intermediarios, así como un intérprete o aquellos medios tecnológicos que les permitan obtener información de forma comprensible;
+II.- La información que permita determinar la capacidad de pago de la entidad de que se trate y la necesidad debidamente razonada de la inversión que se pretenda realizar o destino que se pretenda dar a los recursos provenientes del financiamiento. En tratándose de reestructuraciones o refinanciamientos para los que se requiera autorización del Congreso, se deberán señalar de manera general los beneficios que se espera lograr en caso de realizarse la reestructuración o refinanciamiento correspondientes; y
 
-III. Realizar acciones a fin de sensibilizar a la sociedad, incluso a nivel familiar, para que tome mayor conciencia respecto de niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad;
+III.- En su caso, las autorizaciones que previamente se hubieren obtenido de los Órganos de Gobierno, de los ayuntamientos y de la Secretaría, según corresponda.
 
-IV. Ofrecer apoyos educativos y formativos para quienes ejercen la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su desarrollo y vida digna;
+La Secretaría o el ayuntamiento respectivo, comunicarán oficialmente su resolución a las entidades solicitantes, dentro de los veinte días hábiles siguientes a la fecha en que reciban la solicitud de que se trate, precisando, en caso de que la celebración del financiamiento sea aprobada, las características y condiciones bajo las cuales podrá ser concertado.
 
-V. Promover acciones interdisciplinarias para el estudio, diagnóstico temprano, tratamiento y rehabilitación de las discapacidades de niñas, niños y adolescentes que en cada caso se necesiten, asegurando que sean accesibles a las posibilidades económicas de sus familiares;
-
-VI. Prevenir la ocultación, abandono, negligencia y segregación de niñas, niños y adolescentes con discapacidad;
-
-VII. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, acceso a programas de estimulación temprana, servicios de salud, rehabilitación, esparcimiento, actividades ocupacionales, así como a la capacitación para el trabajo, y
-
-VIII. Establecer mecanismos que permitan la recopilación periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas en la materia. Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, municipio y tipo de discapacidad.
+En los actos jurídicos, valores o títulos de crédito con que se documenten las operaciones de endeudamiento se deberán incluir los datos de la o las autorizaciones respectivas.
 
 ### Capítulo Décimo Primero. Del Derecho a la Educación
 
 ###### Artículo 37.
 
-Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus derechos, que garantice el respeto a su dignidad humana; el pleno y armonioso desarrollo de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Federal, la Constitución Local, la Ley General de Educación, la Ley de Educación del Estado de Durango, los tratados internacionales y demás disposiciones jurídicas aplicables.
-
-Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes.
-
-Las autoridades estatales, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad en el acceso y permanencia en la misma, para lo cual deberán:
-
-I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales, para prepararlos para la vida con un espíritu crítico, reflexivo y analítico;
-
-II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación;
-
-III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y para procurar la accesibilidad material, económica y geográfica a la educación sin discriminación;
-
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
-
-Tratándose de mujeres que se encuentran recluidas en los Centros de Reinserción Social, se asegurará que dicha lactancia se proporcione en condiciones apropiadas;
-
-IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia de la currícula, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza y la evaluación docente;
-
-V. Destinar recursos humanos, materiales y presupuestarios adecuados para garantizar la educación de calidad de niñas, niños y adolescentes;
-
-VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia en el sistema educativo;
-
-VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales;
-
-VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
-
-IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
-
-X. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes, para abatir el ausentismo, abandono y deserción escolar;
-
-XI. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
-
-XII. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
-
-XIII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
-
-XIV. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Estatal, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado, así como su participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales;
-
-XV. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales;
-
-XVI. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa;
-
-XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes;
-
-XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
-
-XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
-
-XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación, y
-
-XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas y faciliten su reingreso al sistema educativo estatal.
+Una vez que las entidades cuenten con las aprobaciones de los Órganos de Gobierno, de los ayuntamientos y de la Secretaría, según corresponda, podrán gestionar en forma directa ante el Congreso, la autorización para la obtención de los créditos o empréstitos que se propongan celebrar.
 
 ###### Artículo 38.
 
-La educación, además de lo dispuesto en las disposiciones jurídicas aplicables, tendrá los siguientes fines:
-
-I. Fomentar en niñas, niños y adolescentes los valores fundamentales y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas;
-
-II. Desarrollar las aptitudes y las potencialidades de niñas, niños y adolescentes;
-
-III. Inculcar a niñas, niños y adolescentes sentimientos de identidad y pertenencia a su escuela, comunidad y nación, así como su participación activa en el proceso educativo y actividades cívicas en términos de las disposiciones jurídicas aplicables;
-
-IV. Orientar a los adolescentes respecto a la formación profesional, las oportunidades de empleo y las posibilidades de carrera;
-
-V. Apoyar a niñas, niños y adolescentes que sean víctimas de maltrato y la atención especial de quienes se encuentren en situación de riesgo;
-
-VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de programas;
-
-VII. Emprender, en cooperación con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para niñas, niños y adolescentes;
-
-VIII. Impartir a los educandos conocimientos sobre la sexualidad, la reproducción humana, la planificación familiar, la paternidad y maternidad responsables; así como la prevención de enfermedades de transmisión sexual, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
-
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos, y
-
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+El Congreso podrá solicitar a las entidades la documentación e información complementaria que requiera para el análisis de las solicitudes de autorización de endeudamiento que se le presenten.
 
 ###### Artículo 39.
 
-Sin perjuicio de lo dispuesto en otras disposiciones jurídicas aplicables, las autoridades competentes llevarán a cabo las acciones necesarias para propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas, en el que se fomente la convivencia armónica y el desarrollo integral de niñas, niños y adolescentes, incluyendo la creación de mecanismos de mediación permanentes donde participen quienes ejercen la patria potestad o tutela.
-
-Para efectos del párrafo anterior, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, y las instituciones académicas se coordinarán para:
-
-I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
-
-II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente;
-
-III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar, y
-
-IV. Establecer y aplicar las sanciones que correspondan a las personas responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables.
+Las entidades negociarán, aprobarán y suscribirán, en el ámbito de su competencia y por conducto de sus funcionarios legalmente autorizados al efecto, los actos jurídicos, títulos de crédito y demás instrumentos legales necesarios, directa o indirectamente, para la obtención, manejo, operación y gestión de los financiamientos y demás operaciones de endeudamiento a su cargo autorizadas conforme a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y en esta Ley.
 
 ### Capítulo Décimo Segundo. De los Derechos al Descanso y al Esparcimiento
 
 ###### Artículo 40.
 
-Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al juego y a las actividades recreativas propias de su edad, así como a participar libremente en actividades culturales, deportivas y artísticas, como factores primordiales de su desarrollo y crecimiento.
-
-Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el ejercicio de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, trabajo o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
-
-Las autoridades, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
+Las entidades deberán remitir al Congreso del Estado, dentro de un plazo de sesenta días naturales, contados a partir de la celebración de cualquier crédito o empréstito, un informe escrito que refleje el monto, forma y términos de los mismos, incluyendo plazo, gracia, tasas de interés ordinaria y moratoria, así como información sobre la aplicación de los recursos correspondientes, acompañando copia de los documentos en los que consten los actos jurídicos, valores o títulos de crédito que las documenten.
 
 ### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
 
 ###### Artículo 41.
 
-Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura. Las autoridades políticas y gubernamentales, en el ámbito de sus respectivas competencias garantizarán el ejercicio de este derecho.
-
-Los derechos mencionados estarán sujetos únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger los derechos de los demás. Se ejercerán bajo la orientación de los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia, según la evolución de sus facultades a fin de que contribuya con su desarrollo integral.
-
-Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por ejercer su libertad de convicciones éticas, de pensamiento, conciencia, religión y cultura.
-
-Así mismo, tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyen su identidad cultural, así como al acceso a espacios culturales y a expresar sus manifestaciones culturales de acuerdo a sus propios intereses y expectativas.
-
-Lo dispuesto en este artículo se ejercerá en concordancia con el derecho a la educación y no será limitativo del deber de educación de los padres o de quienes ejerzan la patria potestad, tutela o guarda y custodia, de guiar y orientar a niñas, niños y adolescentes en el ejercicio de estos derechos, a fin de que contribuya con su desarrollo integral.
+Las entidades que se propongan contraer deuda pública, deberán analizar las diferentes opciones de financiamiento disponibles en el mercado para los conceptos a que se destinarán los empréstitos o créditos y optar por la que ofrezca las condiciones más favorables al interés público.
 
 ### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
 
 ###### Artículo 42.
 
-Niñas, niños y adolescentes tienen derecho a expresar libremente sus pensamientos, ideas u opiniones tanto en el ámbito público como privado, ya sea oralmente, por escrito o medio impreso, en forma artística o por cualquier otro medio elegido por ellos. El ejercicio de este derecho se llevará a cabo conforme a la evolución de sus facultades, edad, madurez y demás limitaciones prescritas por la ley que sean necesarias para proteger la seguridad, el orden, la salud, la moral y los derechos de terceros. Los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia tienen el deber de orientar a niñas, los niños y adolescentes en el ejercicio de este derecho a fin de que contribuya a su desarrollo integral.
+Las operaciones de endeudamiento que celebren las entidades, deberán apegarse a las autorizaciones otorgadas por el Congreso y los recursos provenientes de las mismas, aplicarse de acuerdo al destino autorizado en el decreto correspondiente. Cualquier modificación al destino de un crédito o empréstito o a las demás condiciones autorizadas por el Congreso en el decreto respectivo, requerirá de una nueva autorización de dicho Congreso.
 
 ###### Artículo 43.
 
-Niñas, niños y adolescentes tienen derecho al acceso a información y material procedentes de diversas fuentes nacionales e internacionales, en especial la información y el material educativo que tenga por finalidad promover su bienestar intelectual, social, espiritual y moral, así como su salud física y mental.
-
-En todos los casos, serán los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia los primeros responsables de orientar y supervisar a niñas, niños y adolescentes en el ejercicio de este derecho, a fin de que contribuya a su desarrollo integral.
-
-En cumplimiento de este derecho se deberán diseñar políticas públicas que permitan su ejercicio, con especial énfasis en medidas que aseguren su bienestar social y ético, así como su desarrollo cultural que los protejan de peligros que puedan afectar su vida, su salud o su desarrollo integral.
-
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán:
-
-I. La difusión de información y materiales pertinentes, necesarios que contribuyan a orientar a niñas, niños y adolescentes en el conocimiento de sus derechos, y les ayude al pleno desarrollo de sus cualidades intelectuales, emocionales y contribuyan a salvaguardar su integridad física y moral;
-
-II. La vigilancia en los espectáculos públicos, los impresos y cualquier otra forma de comunicación o información a que tengan acceso niñas, niños y adolescentes, no sean perjudiciales para su bienestar o que atenten contra su dignidad;
-
-III. Programas tendientes a contrarrestar los contenidos nocivos transmitidos por los medios y sus efectos en niñas, niños y adolescentes, particularmente mediante el fortalecimiento de su capacidad crítica y de rechazo a todo aquello que resulte dañino para su salud física y psicológica, y que vaya en contra de su desarrollo integral, así como la creación de espacios públicos en donde puedan discutir y expresarse a ese respecto; y el convencimiento a los padres de la necesidad de acompañar con una posición crítica a sus hijos en la relación con los contenidos a contrarrestar;
-
-IV. Campañas sobre la cultura de la denuncia a la violación de los derechos de niñas, niños y adolescentes;
-
-V. La prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos, y
-
-VI. La información y participación de niñas, niños y adolescentes para la prevención y atención de las adicciones.
+El Congreso vigilará, a través de sus órganos facultados al efecto, que los recursos obtenidos por las entidades con motivo de las operaciones a que se refiere esta Ley, sean destinados de acuerdo a lo autorizado por el propio Congreso.
 
 ###### Artículo 44.
 
-Niñas, niños y adolescentes tienen derecho, de manera individual y colectiva, a ser escuchados en todo procedimiento judicial o administrativo que les afecte, ya sea directamente o por medio de representante u órgano apropiado de acuerdo a las disposiciones jurídicas aplicables.
-
-Se garantiza el ejercicio personal y directo de este derecho, especialmente en todo procedimiento que conduzca a una decisión que afecte sus derechos, garantías e intereses, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, de acuerdo al interés superior de la niñez.
+El Congreso verificará que las operaciones de endeudamiento sean realizadas conforme a las disposiciones constitucionales y legales aplicables, formulando en su caso, las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar.
 
 ### Capítulo Décimo Quinto. Del Derecho a la Participación
 
 ###### Artículo 45.
 
-Niñas, niños y adolescentes tienen derecho a participar libre y activamente en la vida familiar, social, escolar, científica, cultural, deportiva y recreativa, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+El Poder Ejecutivo del Estado, los ayuntamientos y los Órganos de Gobierno de las entidades de la administración pública paraestatal y paramunicipal, deberán realizar oportunamente los pagos de la deuda pública a su cargo.
 
-Este derecho implica la posibilidad de expresar su opinión, ser escuchados y tomados en cuenta respecto de los asuntos de su familia, su comunidad y su país, así como todos aquellos temas que les afecten, por lo que la familia, la sociedad y el Estado, deberán propiciar y fomentar oportunidades de participación de niñas, niños y adolescentes.
+El Poder Ejecutivo del Estado y los ayuntamientos, deberán vigilar que se hagan oportunamente los pagos del servicio de su deuda pública contingente e indirecta.
 
 ###### Artículo 46.
 
-Las autoridades estatales y municipales, fomentarán la participación de niñas, niños y adolescentes en foros municipales, estatales, nacionales o internacionales y la creación de espacios de participación a fin de que puedan opinar, analizar, y en general, puedan expresar su punto de vista y propuestas, de forma individual o colectiva, en aquellos ámbitos que no vulneren su integridad física o moral.
-
-Es responsabilidad del Estado, de la sociedad civil y de las instituciones públicas y privadas, diseñar los mecanismos que den un peso específico a la opinión de niñas, niños y adolescentes, en todos los aspectos que determinen su vida y su desarrollo, sin menoscabo del deber de cuidado y orientación de quienes ejercen la patria potestad, tutela o custodia.
+Las entidades podrán celebrar operaciones financieras de cobertura, que tiendan a evitar o reducir riesgos económico financieros derivados de créditos o empréstitos obtenidos con base en esta Ley. En los casos en que el plazo de las operaciones financieras de cobertura exceda de tres años su contratación, requerirá de la previa autorización del Congreso.
 
 ### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
 
 ###### Artículo 47.
 
-Niñas, niños y adolescentes tienen derecho a asociarse y reunirse libre y pacíficamente con otras personas con fines sociales, culturales, deportivos, recreativos, religiosos, políticos, económicos, o de cualquier otra índole, siempre que sean de carácter lícito.
-
-El ejercicio de este derecho sólo podrá restringirse cuando se atente contra la seguridad y moral públicas y los derechos de los demás.
-
-Cuando en el ejercicio de estos derechos se lesione el interés superior de la niñez, quienes ejerzan la patria potestad, tutela o guarda y custodia podrán intervenir y en su caso, restringir las conductas o hábitos de niñas, niños o adolescentes.
-
-Las autoridades estatales correspondientes proporcionarán asesoría y orientación para la promoción e integración de organizaciones de niñas, niños y adolescentes así como también elaborarán un registro de las mismas.
-
-Quienes ejercen la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando sea necesario para satisfacer las formalidades que establezcan las disposiciones jurídicas aplicables.
+El Poder Ejecutivo del Estado deberá contratar a instituciones calificadoras de valores, a efecto de que emitan la calificación sobre la calidad crediticia del Estado y para que realicen en su caso, la revisión periódica de dicha calificación. Asimismo, podrá contratar a dichas instituciones, con la finalidad de que califiquen la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que, en su caso, implemente y para que realicen la revisión periódica de dichas calificaciones.
 
 ### Capítulo Décimo Séptimo. Del Derecho a la Intimidad
 
 ###### Artículo 48.
 
-Niñas, niños y adolescentes tienen derecho a la intimidad y a la protección contra toda injerencia arbitraria o ilegal en su vida privada y en la de su familia, domicilio o correspondencia y a la protección de sus datos personales.
-
-No se considerará injerencia ilegal o arbitraria, aquella que emane de quienes ejercen la patria potestad, tutela o guarda y custodia, en el cumplimiento de la obligación de orientar, supervisar y en su caso restringir las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
-
-Niñas, niños y adolescentes no podrán ser objeto de divulgaciones o difusiones ilícitas de información, manejo de su imagen o datos personales, incluyendo aquélla que tenga carácter informativo a la opinión pública o de noticia que permita identificarlos, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
+Los Municipios y los órganos de gobierno de las entidades de la administración pública paraestatal y paramunicipal podrán, en los casos en que así lo estimen justificado, contratar a instituciones calificadoras de valores a efecto de que califiquen la calidad crediticia de los Municipios y de las entidades de la administración pública paraestatal y paramunicipal o la de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que en su caso, implementen y para que realicen la revisión periódica de dichas calificaciones.
 
 ###### Artículo 49.
 
-Cualquier medio de comunicación que difunda entrevistas, imágenes, voz o datos deberán atender lo establecido en los artículos 77, 78 y 80 de la Ley General, cuidando en todo momento el desarrollo integral de niñas, niños y adolescentes.
-
-En caso de incumplimiento se promoverán las acciones civiles, denuncias, querellas y procedimientos de conformidad con las leyes Civil, Penal y Administrativa del Estado de Durango y demás disposiciones jurídicas aplicables.
+Las entidades estarán facultadas para contratar a auditores externos, a efecto de que dictaminen sus estados financieros.
 
 ###### Artículo 50.
 
-Los (sic) autoridades estatales y municipales, deberán garantizar la protección de la identidad e intimidad de niñas y niños que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme al Código de Justicia para Menores Infractores en el Estado de Durango.
+El Estado, por conducto de la Secretaría, podrá otorgar a los Municipios y a las entidades de la administración pública paraestatal y paramunicipal, empréstitos o créditos de los previstos en el Artículo 9 de esta Ley.
+
+Asimismo, los Municipios podrán otorgar créditos de los anteriormente señalados, a las entidades de la administración pública paramunicipal.
 
 ###### Artículo 51.
 
-En los procedimientos ante órganos jurisdiccionales, se podrá solicitar que se imponga como medida cautelar la suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez.
-
-El órgano jurisdiccional, con base en este artículo y en las disposiciones jurídicas aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
+El Poder Ejecutivo del Estado asesorará por conducto de la Secretaría, en los casos en que así se lo requieran, a los Municipios, a las entidades de la administración pública paraestatal y paramunicipal, en la formulación de sus proyectos financieros y en lo relativo a las operaciones que pretendan realizar en materia de deuda pública.
 
 ### Capítulo Décimo Octavo. Del Derecho a la Seguridad Jurídica y al Debido Proceso
 
 ###### Artículo 52.
 
-Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y el debido proceso, establecidos en la Constitución Federal, la Constitución Local, los tratados internacionales, la Ley General, esta Ley y las demás disposiciones aplicables, por lo que las autoridades estatales están obligadas a garantizar el goce de estos derechos y la protección y prevalencia del interés superior de la niñez.
-
-Las autoridades, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas cuando menos a:
-
-I. Garantizar la protección y prevalencia del interés superior de la niñez;
-
-II. Proporcionar información clara, sencilla y comprensible para las niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura para niñas, niños y adolescentes con discapacidad;
-
-III. Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial;
-
-IV. Garantizar el derecho de niñas, niños y adolescentes a ser representados, así como a obtener información sobre y las medidas de protección disponibles;
-
-V. Proporcionar asistencia de profesionales especializados cuando la naturaleza del procedimiento lo requiera;
-
-VI. Proporcionar la asistencia de un traductor o intérprete;
-
-VII. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica;
-
-VIII. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario;
-
-IX. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan influir en su comportamiento o estabilidad emocional, cuando así lo determine la autoridad competente, antes y durante la realización de la audiencia o comparecencia respectiva;
-
-X. Destinar espacios lúdicos, de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir;
-
-XI. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal, e
-
-XII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de la intimidad y datos personales de niñas, niños y adolescentes.
+Sujeto a lo previsto en esta Ley, las entidades podrán ocurrir al mercado de valores, para captar recursos mediante la emisión de valores.
 
 ###### Artículo 53.
 
-Las autoridades, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
+La celebración de empréstitos o créditos mediante la emisión de valores, con base en el crédito público de las entidades y su colocación entre el gran público inversionista, a través del mercado de valores, estará sujeta en todos los casos, a la autorización previa del Congreso, debiéndose cumplir con los requisitos que para las operaciones de endeudamiento se establecen en esta Ley.
 
-Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones aplicables.
+El Congreso podrá autorizar la implementación de programas de colocación de valores, que impliquen una o más emisiones a realizarse, en forma sucesiva, durante un plazo que podrá abarcar uno o más ejercicios presupuestales.
 
-En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito de manera inmediata dará aviso a la Procuraduría de Protección.
-
-La Procuraduría de Protección, en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas y niños no sean objeto de discriminación.
-
-Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
+Los montos y conceptos de endeudamiento autorizado correspondientes a emisiones de valores que se realicen al amparo de programas de colocación autorizados, que abarquen más de un ejercicio presupuestal, deberán ser incluidos en los ejercicios fiscales posteriores al de su autorización, en la Ley de Ingresos del Estado, en las Leyes de Ingresos y en los presupuestos de egresos municipales y en los presupuestos de ingresos y de egresos de las entidades de la administración pública paraestatal y paramunicipal, correspondientes a dichos ejercicios, según sea aplicable.
 
 ###### Artículo 54.
 
-Las autoridades, en el ámbito de sus respectivas competencias, garantizarán que en los procedimientos jurisdiccionales en que estén relacionadas niñas, niños o adolescentes como probables víctimas del delito o testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
-
-I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable;
-
-II. Que su participación en un procedimiento se lleve a cabo de la manera más expedita, en espacios lúdicos y condiciones especiales, asistidos por un profesional en derecho;
-
-III. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela o guarda y custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario, con base en el interés superior de la niñez;
-
-IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de identificación en los términos de esta Ley y las demás aplicables;
-
-V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables, y
-
-VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
-
-Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección.
+Los valores que emitan las entidades son títulos de deuda pública.
 
 ###### Artículo 55.
 
-Para los procedimientos y las medidas que correspondan a quienes se les atribuyan la comisión o participación en un hecho que la ley señale como delito mientras era adolescente se estará a lo dispuesto por el Código de Justicia para Menores Infractores en el Estado de Durango.
+Los valores serán colocados entre el gran público inversionista, por un intermediario del mercado de valores legalmente autorizado, a través de una bolsa de valores mexicana legalmente autorizada para operar.
 
 ### Capítulo Décimo Noveno. Niñas, Niños y Adolescentes Migrantes
 
+###### Artículo 94.
+
+En el Registro de Obligaciones y Empréstitos del Estado de Morelos se inscribirán, para efectos declarativos, a solicitud de las entidades, los financiamientos que constituyan deuda pública, directa o contingente, contraídos por las mismas conforme a lo establecido en esta Ley.
+
+La inscripción en el Registro de Obligaciones y Empréstitos del Estado de Morelos, es independiente de aquella que las entidades deban realizar, conforme a la legislación aplicable, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios de la Secretaría de Hacienda y Crédito Público y de las inscripciones en los registros que de acuerdo a lo previsto en esta Ley, lleven cada una de las entidades.
+
+###### Artículo 95.
+
+Para que proceda la inscripción de los financiamientos en el Registro de Obligaciones y Empréstitos del Estado de Morelos, se deberá cumplir con los siguientes requisitos:
+
+I.- Que la entidad solicitante, bajo protesta de decir verdad, manifieste que se trata de obligaciones pagaderas en México y en moneda nacional, contraídas con la Federación, con instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, conforme a las bases establecidas en esta Ley, por los conceptos y hasta por los montos autorizados conforme a la misma.
+
+Tratándose de obligaciones que se hagan constar en títulos de crédito nominativos, se incluya en el texto de los mismos que sólo podrán ser negociados dentro del territorio nacional con la Federación, con las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana;
+
+II.- Que la entidad solicitante acredite en su caso, que el Congreso autorizó, previamente a su celebración, la obligación correspondiente;
+
+III.- Que la entidad solicitante acredite la publicación, de acuerdo a lo establecido en los Artículos 13 fracción XXVIII, 15 fracción XXIX y 18 fracción XXI de esta Ley, de la información fiscal y financiera que la entidad solicitante considere relevante. Para tal efecto, al momento de entregar la solicitud, deberá presentarse copia de la publicación de la información correspondiente al año calendario precedente al de la solicitud de inscripción y de estar disponible, la del primer semestre del año en que se realice la solicitud de inscripción; y
+
+IV.- Que la entidad solicitante acredite que se encuentra al corriente en el pago de los empréstitos o créditos que tenga contratados a la fecha de la solicitud de inscripción.
+
+Además de lo señalado en este Artículo, a la solicitud de inscripción que se presente, se deberá acompañar la documentación a que se refiere el Artículo 96 siguiente.
+
+###### Artículo 96.
+
+Las solicitudes de inscripción en el Registro de Obligaciones y Empréstitos del Estado de Morelos, deberán incluir un resumen de los principales datos del financiamiento cuya inscripción se solicite y deberán acompañarse de un ejemplar en fotocopia del instrumento o instrumentos jurídicos en los que se haga constar la obligación directa o contingente cuya inscripción se solicite.
+
+###### Artículo 97.
+
+La Secretaría, una vez cumplidos los requisitos a que se refiere este capítulo, procederá a la inscripción solicitada y notificará a la entidad solicitante lo conducente. Si no se cumplen los requisitos para la inscripción, la propia Secretaría lo notificará a la entidad solicitante para que, en su caso, subsane la omisión en un término no mayor de diez días hábiles contados a partir de la recepción de la notificación.
+
+###### Artículo 98.
+
+En la inscripción al registro se anotará lo siguiente:
+
+I.- El número y fecha de inscripción; y
+
+II.- Las principales características y condiciones del financiamiento de que se trate.
+
 ###### Artículo 56.
 
-Las autoridades estatales, en el ámbito de su competencia, deberán garantizar los derechos de niñas, niños y adolescentes migrantes, acompañados, no acompañados, separados, nacionales, extranjeros y repatriados en el contexto de movilidad humana, independientemente de su nacionalidad o su situación migratoria de conformidad con la Ley de Migración y su Reglamento, la Ley General, esta Ley y las demás disposiciones jurídicas aplicables debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales en la materia.
-
-Las autoridades competentes; una vez en contacto con la niña, niño o adolescente deberán de adoptar las medidas correspondientes para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior.
-
-Para garantizar la protección integral de los derechos, el Sistema DIF Estatal y los Sistemas Municipales DIF en coordinación con el Instituto Nacional de Migración, habilitarán espacios de alojamiento o albergues con estándares mínimos para dar una atención adecuada a niñas, niños y adolescentes migrantes, en donde se respetarán el principio de separación y el derecho a la unidad familiar, de modo tal que si se trata de niñas, niños o adolescentes no acompañados o separados, deberán alojarse en sitios distintos al que corresponde a las personas adultas.
-
-Tratándose de niñas, niños o adolescentes acompañados, podrán alojarse con sus familiares, salvo que lo más conveniente sea la separación de éstos en aplicación del principio del interés superior de la niñez.
-
-En caso de que el Sistema DIF Estatal o los Sistemas Municipales DIF identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración con el fin de proporcionarles el tratamiento adecuado de adoptar medidas de protección especiales.
-
-El Sistema DIF Estatal enviará al Sistema Nacional DIF la información en el momento en que se genere de las bases de datos de niñas, niños y adolescentes migrantes extranjeros no acompañados, que incluya las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica.
-
-En ningún caso una situación migratoria irregular de niñas, niños o adolescentes, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
+Las entidades sólo podrán emitir valores pagaderos en moneda nacional y dentro del territorio de la República. En los títulos respectivos y en su caso, en el acta de emisión, deberán citarse los datos fundamentales de su autorización, así como la prohibición de su venta a extranjeros, sean estos gobiernos, entidades gubernamentales, organismos internacionales, sociedades o particulares. Los títulos no tendrán validez si no consignan dichos datos. Lo dispuesto en este Artículo será aplicable a los demás títulos de crédito que suscriban, avalen o acepten las entidades.
 
 ### Capítulo Vigésimo. De las Niñas, Niños y Adolescentes en Situaciones Especiales
 
+###### Artículo 99.
+
+La inscripción de obligaciones, créditos y empréstitos en el registro, sólo podrá modificarse previa solicitud de la entidad interesada, a la cual se deberá acompañar un ejemplar en fotocopia del instrumento jurídico en el que se haga constar la modificación de la obligación y la declaratoria, bajo protesta de decir verdad, de que se ha cumplido con los requisitos legales necesarios para realizarla.
+
+###### Artículo 100.
+
+Las entidades deberán informar semestralmente a la Secretaría, la situación que guarden sus obligaciones inscritas en el registro.
+
+Al efectuarse el pago total de una obligación inscrita en el registro, la entidad de que se trate, deberá informarlo a la Secretaría, presentando la documentación respectiva, para que se proceda a la cancelación de la inscripción correspondiente.
+
+###### Artículo 101.
+
+La Secretaría proporcionará a las entidades, a los acreditantes de éstas o a sus legítimos representantes, las certificaciones procedentes que soliciten respecto a las obligaciones inscritas en el registro.
+
+Con base en los datos del registro, la Secretaría podrá dar a conocer información agregada de las obligaciones crediticias de las entidades.
+
+###### Artículo 102.
+
+La Secretaría proporcionará la información relativa a los registros de la deuda pública que consten en el registro y que correspondan a financiamientos celebrados por las entidades a las instituciones calificadoras de valores contratadas por las mismas, para calificar su calidad crediticia o la de los valores que en su caso emitan, cuando estas así lo soliciten.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 103.
+
+El objeto del presente Capítulo es normar y establecer las bases a que deberán sujetarse el Poder Ejecutivo del Estado de Morelos y sus municipios, para contraer obligaciones o celebrar empréstitos o créditos que deriven del crédito público y que en términos de lo previsto por esta Ley, constituyan deuda pública, en esquemas globales de financiamiento, en los que se involucren dos o más municipios del Estado o bien, el Estado y dos o más de sus municipios.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 104.
+
+En lo no previsto en el presente Capítulo se aplicará lo establecido en las demás disposiciones de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 105.
+
+Además de las disposiciones establecidas en el artículo 3 de la presente Ley, para efectos del presente Capítulo se entenderá por:
+
+I.- Esquemas globales de financiamiento: Las operaciones de Deuda Pública que se promuevan por dos o más municipios del Estado, o bien, el Estado y dos o más de sus municipios, a favor del propio Estado en su caso, y de todos los municipios del Estado para la instrumentación de estructuras jurídico - financieras calificadas, para la obtención de mejores condiciones de financiamiento a su favor, respondiendo cada entidad por las obligaciones de deuda que, en su caso considere conveniente contraer, y
+
+II.- Autorización global: La autorización a que se refiere (sic) fracción X del artículo 40 de la Constitución Política del Estado Libre y Soberano de Morelos, cuando ésta se expida en un sólo decreto para el Poder Ejecutivo del Estado y dos o más de sus municipios, o solamente para dos o más municipios, para la instrumentación de esquemas globales de financiamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 57.
 
-Para efectos de esta ley se entienden por niñas, niños y adolescentes en situaciones especiales:
-
-I. Niñas, niños y adolescentes cuyos padres se encuentren en situación de encarcelamiento;
-
-II. Niñas, Niños y Adolescentes que hayan sido objeto de un hecho victimizante en los términos de la Ley General de Victimas y de la Ley de Victimas del Estado de Durango, y
-
-III. Aquellos adolescentes sujetos a los procedimientos establecidos en el Código de Justicia para Menores Infractores en el Estado de Durango.
+Los valores que emitan las entidades, deberán inscribirse en la Sección de Valores del Registro Nacional de Valores y en su caso, en una bolsa de valores mexicana legalmente autorizada para operar.
 
 ###### Artículo 58.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, evaluarán el impacto de las políticas públicas y prácticas gubernamentales relacionadas con niñas, niños y adolescentes en situaciones especiales.
-
-Se establecerán mecanismos efectivos para tutelar los derechos de niñas, niños y adolescentes en situaciones especiales de conformidad con la presente Ley y las leyes de la materia.
+La emisión de valores podrá ser realizada directamente por las entidades o en su caso, de manera indirecta, mediante fideicomisos, a través de instituciones fiduciarias y al amparo en su caso, de un acta de emisión, cuando por disposición de la Ley o de la naturaleza de los títulos correspondientes, así se requiera. Los fideicomisos a que hace mención el párrafo que precede no serán considerados, en ningún caso, parte de la administración pública paraestatal ni paramunicipal.
 
 ###### Artículo 59.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán a nivel institucional público y privado, campañas de información que permitan una temprana identificación de las necesidades de niñas, niños y adolescentes en situaciones especiales.
-
-Se implementarán mecanismos de coordinación entre instancias a fin de capacitar al personal que, en el ámbito de su competencia, tenga trato directo con niñas, niños y adolescentes en situaciones especiales.
+Las entidades podrán, previa autorización del Congreso, realizar emisiones conjuntas de valores.
 
 ###### Artículo 60.
 
-Las autoridades estatales y municipales, a fin de lograr la reinserción y participación ciudadana de niñas, niños y adolescentes en situaciones especiales, velarán por el seguimiento y cumplimiento de las políticas públicas implementadas a nivel estatal.
+En los actos jurídicos que documenten las emisiones conjuntas de valores, se deberán establecer separadamente las obligaciones a cargo de cada emisora, quedando expresamente prohibido a las entidades garantizar o avalar, en cualquier forma, obligaciones de las demás emisoras, en los casos en que esta Ley no los faculte expresamente para fungir como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de que se trate.
 
 ### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela, Guarda y Custodia de Niñas, Niños y Adolescentes
+
+###### Artículo 106.
+
+Para efectos de lo establecido en el presente Capítulo, el Congreso podrá autorizar los actos a que se refieren las fracciones II, III, V, VII, IX, X y XII del artículo 12 de la presente Ley, a través de Decretos de Autorización Global.
+
+La solicitud que realice el Poder Ejecutivo del Estado con cuando menos dos o más municipios, o dos o más municipios conjuntamente, para instrumentar un esquema global de financiamiento, se realizará a través de una iniciativa con proyecto de decreto que deberá contener como mínimo lo siguiente:
+
+I.- La información relativa al crédito o empréstito que sea susceptible de celebrar cada entidad de que se trate, indicando, según resulte aplicable: monto, destino, plazo máximo, mecanismo de pago, los derechos e ingresos que serán afectados en garantía o fuente de pago para respaldar el cumplimiento de las obligaciones de los créditos que contraten, y demás datos que en su caso, se consideren relevantes;
+
+II.- La información que permita determinar la capacidad de pago de las entidades involucradas en la autorización y la necesidad debidamente razonada de la inversión que se pretenda realizar, o destino que se pretenda dar a los recursos provenientes del financiamiento. Tratándose de reestructuraciones o refinanciamientos para los que se requiera autorización del Congreso, se deberán señalar de manera general, los beneficios que se espera lograr en caso de realizarse la reestructuración o refinanciamiento correspondientes;
+
+III.- En su caso, la solicitud de dos o más municipios hacia el Estado para efectos de que concurran conjuntamente a realizar la solicitud de autorización global ante el Congreso; dicha solicitud deberá emitirse por acuerdo de los Ayuntamientos, y
+
+IV.- El proyecto de reformas y/o adiciones a la Ley de Ingresos del Estado y a las Leyes de Ingresos de los Municipios, según corresponda, así como la mención de entrada en vigor de dichas reformas y/o adiciones en la fecha en la que se perfeccione por cada entidad el acto de endeudamiento, que en su caso se celebre.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 107.
+
+El titular del Poder Ejecutivo del Estado podrá promover la iniciativa a que se refiere el artículo 106 de la presente Ley, cuando dos o más municipios del Estado se lo soliciten. Por su parte dos o más municipios también podrán promover de manera conjunta dicha iniciativa.
+
+Únicamente los municipios que promuevan la iniciativa de decreto, requerirán previamente la autorización de sus Ayuntamientos, sin embargo, en caso de que el Congreso apruebe el proyecto de iniciativa y emita el Decreto de Autorización Global, cada municipio que decida adherirse deberá obtener la autorización de su Ayuntamiento, previamente a la celebración de los actos jurídicos que impliquen el esquema global de financiamiento que se contenga en el Decreto. Cuando las operaciones que se pretendan realizar, comprometan al municipio por un plazo mayor al período para el que fue electo, el Ayuntamiento deberá contar con el acuerdo de las dos terceras partes de sus miembros.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 108.
+
+Los Municipios incluidos en el Decreto de Autorización Global que expida el Congreso podrán, si así lo consideran conveniente, adherirse al esquema global de financiamiento promovido por el Poder Ejecutivo del Estado con cuando menos dos municipios o conjuntamente promovido por dos o más municipios, con la afectación en garantía o fuente de pago de sus respectivos derechos e ingresos derivados de sus participaciones y/o aportaciones federales susceptibles de afectar en términos de la legislación aplicable, celebrando los actos jurídicos autorizados por el Congreso que deban formalizarse para garantizar o pagar las obligaciones derivadas de los financiamientos que decidan contratar, siempre que previamente a la formalización de los actos jurídicos que se requieran formalizar, cuenten con la aprobación de sus respectivos Ayuntamientos.
+
+En caso de que el Decreto de Autorización Global autorice que el Estado funja como aval de los municipios, éstos también deberán contar con la autorización de la Secretaría.
+
+Ante las solicitudes de autorización, la Secretaría o el Ayuntamiento respectivo, comunicarán oficialmente su resolución a los solicitantes, dentro de los veinte días hábiles siguientes a la fecha en que reciban la solicitud de que se trate, precisando, las características y condiciones bajo las cuales se podrá contratar el financiamiento o se otorgará el aval respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 109.
+
+La celebración de los mecanismos legales que bajo cualquier modalidad o forma, se propongan implementar las entidades a que se refiere este Capítulo, a efecto de garantizar o realizar el pago de sus respectivos financiamientos dentro de los esquemas globales de financiamiento, deberá ser previamente autorizada por el Congreso. En caso de que los mecanismos legales a que se refiere este artículo se perfeccionen a través de la constitución de un fideicomiso, éste podrá ser también utilizado como medio de captación de la totalidad de las participaciones o aportaciones federales que en términos de la legislación aplicable sean susceptibles de afectación, mismo que podrá constituir el Poder Ejecutivo al cual se puedan adherir los municipios que les resulte conveniente y cuenten con las respectivas autorizaciones.
+
+T R A N S I T O R I O S
+
+Artículo Primero.- La presente Ley entrará en vigor a los treinta días naturales siguientes al de su Publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se abroga la Ley de Deuda Pública para el Estado de Morelos de fecha 19 de enero de 1995, publicada en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos, Número 3729, el día 1º. de febrero del mismo año.
+
+Artículo Tercero.- Se abroga el Reglamento del Registro de la Deuda Pública del Estado de Morelos de fecha 20 de marzo del año 2000, publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos, Número 4045, el día 19 de abril del mismo año.
+
+Artículo Cuarto.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en la presente Ley.
+
+Artículo Quinto.- Los empréstitos o créditos; el otorgamiento de garantías y avales; y, en general, cualesquier actos jurídicos, principales o accesorios, en materia de deuda pública, que se celebren al amparo de autorizaciones del Congreso del Estado otorgadas con anterioridad a la fecha de entrada en vigor de esta Ley, se regirán por la Ley de Deuda Pública para el Estado de Morelos vigente en la fecha de su autorización.
+
+Artículo Sexto.- La modificación de los mecanismos legales que bajo cualquier modalidad o forma, se hubiesen celebrado por las entidades con anterioridad a la fecha de entrada en vigor de esta ley a efecto de garantizar o realizar el pago de financiamientos, no requerirá de la autorización del Congreso.
+
+La modificación de los mandatos otorgados a la Tesorería de la Federación, bajo la forma de instrucciones irrevocables o en cualquier otra forma, celebrados, otorgados o notificados con anterioridad a la fecha de entrada en vigor de esta Ley, no estará sujeta a lo previsto en el Artículo 75 segundo y tercer párrafos de la misma, debiendo regirse para su modificación por la legislación y los decretos correspondientes a su autorización.
+
+Artículo Séptimo.- Las entidades a que se refiere el Artículo 2 de esta Ley, deberán inscribir todos sus empréstitos o créditos vigentes en el Registro de Obligaciones y Empréstitos del Estado de Morelos, dentro de un plazo de noventa días a partir de la fecha de su publicación.
+
+Recinto Legislativo al primer día del mes de julio de dos mil ocho.
+
+ATENTAMENTE.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN". LOS CC. DIPUTADOS INTEGRANTES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO.
+
+DIP. MARTHA PATRICIA FRANCO GUTIÉRREZ
+
+PRESIDENTA
+
+DIP. PEDRO DELGADO SALGADO
+
+VICEPRESIDENTE
+
+DIP. FRANCISCO LEÓN Y VÉLEZ RIVERA
+
+SECRETARIO
+
+DIP. JAIME SÁNCHEZ VÉLEZ
+
+SECRETARIO
+
+RÚBRICAS.
+
+Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los catorce días del mes de Julio de dos mil ocho.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN".
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+DR. MARCO ANTONIO ADAME CASTILLO
+
+SECRETARIO DE GOBIERNO
+
+LIC. SERGIO ALVAREZ MATA RÚBRICAS.
+
+RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2008.
 
 ### Capítulo Único. De los Centros de Asistencia Social
 
@@ -883,85 +895,21 @@ Las autoridades estatales y municipales, a fin de lograr la reinserción y parti
 
 ###### Artículo 61.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones jurídicas aplicables.
+En todo lo referente a la emisión, colocación y operación de los valores, las entidades se sujetarán a lo previsto por la Ley de Mercado de Valores y demás disposiciones legales aplicables.
 
 ###### Artículo 62.
 
-Son derechos de quienes ejercen la patria potestad, tutela o guarda y custodia, los siguientes:
-
-I. Tener y conservar la patria potestad, tutela o guarda y custodia de niñas, niños o adolescentes;
-
-II. Convivir con niñas, niños o adolescentes;
-
-III. Proveer el sostenimiento y educación de niñas, niños o adolescentes;
-
-IV. Ser la autoridad y principal responsable respecto del desarrollo integral de niñas, niños o adolescentes bajo su cuidado; y ser reconocido y tomado en cuenta como tal por las autoridades y la sociedad;
-
-V. Fijar las normas que guíen el proceso formativo y positivo para el desarrollo integral de niñas, niños o adolescentes;
-
-VI. Dirigir el proceso educativo de los hijos de acuerdo a sus propias convicciones morales y religiosas;
-
-VII. Mantener comunicación de forma oportuna con la niña, niño o adolescente;
-
-VIII. Proteger y prodigar la salvaguarda del interés superior de la niña, niño o adolescente bajo su cuidado;
-
-IX. Orientar, supervisar y guiar el ejercicio de los derechos de niñas, niños o adolescentes en salvaguarda de su interés superior;
-
-X. Ser informados en primera instancia, de forma inmediata y oportuna de toda decisión o acción respecto de la niña, niño o adolescente;
-
-XI. Revisar los expedientes educativos y médicos de niñas, niños o adolescentes;
-
-XII. Recibir oportunamente una explicación completa y detallada sobre las garantías procesales que asisten a la niña, niño o adolescente;
-
-XIII. Representar a niñas, niños o adolescentes bajo su cuidado en la medida que favorezca su interés superior. Las autoridades proveerán todas las medidas legales y administrativas necesarias para el ejercicio de este derecho;
-
-XIV. Participar activamente en reuniones cuya finalidad sea favorecer el interés superior de niñas, niños o adolescentes bajo su cuidado;
-
-XV. Hacer uso de los recursos legales ante la autoridad competente en todos los asuntos concernientes a niñas, niños o adolescentes; en la medida que salvaguarde el interés superior de la niñez;
-
-XVI. Administrar los bienes de niñas, niños o adolescentes, y
-
-XVII. Ser atendidos por las autoridades respecto de las acciones, políticas y programas que posibiliten el ejercicio de los derechos de niñas, niños o adolescentes.
-
-Las autoridades del Estado de Durango y sus municipios tienen el compromiso y el deber de respetar y garantizar a quienes ejercen la patria potestad, tutela o guarda y custodia, el goce y ejercicio efectivo de los derechos reconocidos en Constitución Federal y Estatal, esta Ley, los tratados internacionales y demás legislación aplicable.
+Las garantías y avales que se otorguen para la celebración de operaciones de endeudamiento que realicen las entidades, se regirán por las disposiciones legales de la materia, así como por esta Ley y por las demás normas y disposiciones administrativas que en su caso, expidan la Secretaría y los ayuntamientos.
 
 ###### Artículo 63.
 
-Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, las siguientes:
-
-I. Proporcionar y garantizar el derecho a alimentos, el libre desarrollo de su personalidad y el ejercicio de sus derechos;
-
-II. Registrar su nacimiento ante la oficialía de registro civil correspondiente dentro de los primeros sesenta días de vida;
-
-III. Brindarles una educación asegurando que cursen en igualdad de oportunidades, los niveles de la educación básica y media superior;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-IV. Protegerlos de toda forma de violencia, maltrato, agresión, perjuicio, daño, abuso, venta, trata de personas, explotación, castigo corporal o cualquier acto que atente contra su integridad física, psicológica o menoscabe su desarrollo integral;
-
-V. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia familiar, creando condiciones de bienestar que propicien un entorno afectivo y comprensivo que garantice el ejercicio de sus derechos conforme a la presente Ley y demás disposiciones jurídicas aplicables;
-
-VI. Dar en consonancia con la evolución de sus facultades, la dirección y orientación apropiada a niñas, niños y adolescentes;
-
-VII. Fomentar en niñas, niños y adolescentes el respeto a las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
-
-VIII. Orientar, supervisar y, en su caso, restringir, las conductas y hábitos que menoscaben el desarrollo integral de niñas, niños y adolescentes siempre que se atienda al interés superior de la niñez;
-
-IX. Considerar la opinión de niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+El Estado podrá, previa autorización del Congreso, constituirse en garante, avalista, deudor solidario, subsidiario o sustituto de las entidades señaladas en las fracciones II, III, IV y V del Artículo 2 de esta Ley.
 
 ### Capítulo Tercero. Del Sistema Local de Protección
 
 ###### Artículo 64.
 
-A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección.
-
-Al efecto, la Procuraduría de Protección ejercerá la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones jurídicas aplicables.
-
-Cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección ejerza la representación en suplencia.
-
-El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Federal, esta Ley y demás disposiciones jurídicas aplicables.
-
-No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
+Los Municipios podrán constituirse en garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal a su cargo.
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
@@ -969,57 +917,21 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ###### Artículo 65.
 
-Los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros, serán determinados por las autoridades estatales y municipales, en términos de lo dispuesto por esta Ley, la Ley General y Estatal de Salud y la Ley General y Estatal de Asistencia Social y demás disposiciones jurídicas aplicables.
-
-Las instalaciones de los centros de asistencia social deberán cumplir con las condiciones establecidas por la Ley General.
-
-Niñas, niños y adolescentes con discapacidad temporal o permanente; sin distinción entre motivo o grado de discapacidad, no podrán ser discriminados para ser recibidos o permanecer en los centros de asistencia social.
+Cuando los Municipios, las entidades de la administración pública paraestatal o paramunicipal requieran el aval o garantía del Estado, la contratación de empréstitos o créditos se realizará con la autorización e intervención de la Secretaría.
 
 ###### Artículo 66.
 
-Es responsabilidad de los centros de asistencia social garantizar la integridad física y psicológica de las niñas, niños y adolescentes que tengan bajo su custodia.
-
-Los servicios que presten los centros de asistencia social estarán orientados a brindar, en cumplimiento a sus derechos:
-
-I. Un entorno seguro, afectivo y libre de violencia;
-
-II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica;
-
-III. Alimentación que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria;
-
-IV. Atención integral y multidisciplinaria que le brinde servicio médico integral, atención de primeros auxilios, seguimiento psicológico, social, jurídico, entre otros;
-
-V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
-
-VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
-
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez;
-
-VIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos en la medida que pudiera causarles algún daño o perjuicio;
-
-IX. Espacios de participación para expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta;
-
-X. Brindarles la posibilidad de realizar actividades externas que les permita tener contacto con su comunidad;
-
-XI. Contar con espacios físicos adecuados a las necesidades de niñas, niños y adolescentes, y
-
-XII. Fomentar la inclusión de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
-
-Asimismo y con la finalidad de brindarles mejores alternativas de protección para el cumplimiento de sus derechos, se deberá llevar a cabo la revisión periódica de su situación, de la de su familia y de la medida especial de protección por la cual ingresó al centro de asistencia social, garantizando el contacto con su familia y personas significativas siempre que esto sea posible, atendiendo a su interés superior.
-
-La niña, niño o adolescente deberá contar con expediente completo para efectos de que su situación sea revisada y valorada de manera particular, así como para determinar procedimientos de ingreso y egreso con el apoyo de las autoridades competentes que faciliten su reincorporación familiar o social.
-
-Asimismo, se deberá garantizar la protección de sus datos personales conforme a la legislación aplicable y hacer de su conocimiento, en todo momento, su situación legal.
+El Estado únicamente podrá constituirse en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios o de las entidades de la administración pública paramunicipal, en los casos en que la magnitud o el impacto social del proyecto que se pretenda financiar así lo amerite o cuando existan circunstancias extraordinarias plenamente justificadas que así lo requieran, a juicio de la Secretaría y del Congreso.
 
 ###### Artículo 67.
 
-En lo referente al personal con que deben contar los centros de asistencia social, las obligaciones de sus titulares o responsables legales y lo relativo al Registro Nacional de Centros de Asistencia Social, se estará a lo dispuesto por la Ley General.
+Los Municipios únicamente podrán constituirse en garantes, avalistas, deudores solidarios, subsidiarios o sustitutos de las entidades de la administración pública paramunicipal, en los casos en que la magnitud o el impacto social del proyecto que se pretenda financiar así lo amerite o cuando existan circunstancias extraordinarias plenamente justificadas que así lo requieran, a juicio del ayuntamiento y del Congreso.
 
 ###### Artículo 68.
 
-Sin perjuicio de las atribuciones que las disposiciones jurídicas aplicables establezcan a otras autoridades, corresponderá a la Procuraduría de Protección, la supervisión de los centros de asistencia social y, en su caso, ejercitarán las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley, la Ley General y demás disposiciones jurídicas aplicables.
+Los Municipios, las entidades de la administración pública paraestatal y paramunicipal que requieran el aval o la garantía del Estado, deberán señalarlo expresamente al Poder Ejecutivo del Estado en la solicitud de autorización de endeudamiento relativa a los financiamientos correspondientes, debidamente requisitada de acuerdo a lo previsto por el Artículo 36 de esta Ley y entregar en su caso, la documentación e información complementaria que la Secretaría les requiera para el análisis respectivo.
 
-La Procuraduría de Protección será coadyuvante de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los centros de asistencia social, en términos de lo previsto en la Ley General y en la Ley Estatal de Asistencia Social.
+Los Municipios y las entidades de la administración pública paramunicipal que soliciten la garantía o aval del Estado, deberán contar previamente con la autorización de los ayuntamientos, para la celebración de los financiamientos para los cuales se requiera la garantía o aval respectivo y en su caso, de los órganos de gobierno, según corresponda.
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
@@ -1027,213 +939,63 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ###### Artículo 69.
 
-Las políticas públicas emprendidas por las autoridades estatales, municipales y de los órganos constitucionales autónomos, deberán garantizar, en el ámbito de su respectiva competencia, el goce de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación de recursos en términos de las disposiciones jurídicas aplicables, a fin de dar cumplimiento de la política nacional y estatal en materia de derechos de niñas, niños y adolescentes.
+Las entidades de la administración pública paramunicipal que requieran el aval o la garantía de los Municipios, deberán señalarlo expresamente al ayuntamiento de que se trate, en la solicitud de autorización de endeudamiento relativa al o los financiamientos correspondientes, debidamente requisitada de acuerdo a lo previsto por el Artículo 36 de esta Ley y entregar en su caso, la documentación e información complementaria que el ayuntamiento correspondiente les requiera para el análisis respectivo.
+
+Las entidades de la administración pública paramunicipal que soliciten la garantía o aval de los Municipios, deberán contar previamente con la autorización de su Organo de Gobierno, para la celebración de los financiamientos para los cuales se requiera la garantía o aval respectivo.
 
 #### Sección Primera. De la Distribución de Competencias
 
 ###### Artículo 70.
 
-Corresponde a las autoridades estatales y municipales, en el ámbito de sus atribuciones, garantizar a niñas, niños y adolescentes la protección y el ejercicio de sus derechos y la aplicación de medidas necesarias para su bienestar, tomando en cuenta los derechos y deberes de quienes ejercen la patria potestad, tutela o guarda y custodia.
-
-Las (sic) concurrencia de obligaciones que deberán observar las autoridades locales y federales, será en los términos que al efecto dispone la Ley General.
+Una vez que los Municipios o las entidades de la administración pública paraestatal y paramunicipal que requieran la garantía o aval del Estado cuenten con las autorizaciones de sus órganos de gobierno, de los ayuntamientos y de la Secretaría, según corresponda, gestionarán la autorización del Congreso para la celebración de los financiamientos y el otorgamiento de las garantías o avales respectivos, apegándose a los procedimientos establecidos.
 
 ###### Artículo 71.
 
-A fin de garantizar el cumplimiento de los derechos establecidos en esta Ley, las autoridades estatales y municipales competentes, en ejercicio de las atribuciones que les otorgue la presente Ley, podrán disponer lo necesario para que en el Estado se cumplan:
+El Estado y los Municipios podrán, con la autorización previa del Congreso emitida mediante ley o decreto, afectar como fuente o garantía de pago, o ambas, de los financiamientos que contraten directamente o de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, los bienes del dominio privado de su propiedad o sus ingresos derivados de contribuciones, cobranza de cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones federales o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable, incluidos sus accesorios. Asimismo, el Estado y los Municipios podrán afectar en los términos señalados, los derechos al cobro de los ingresos antes referidos.
 
-I. Las obligaciones de ascendientes o tutores o de cualquier persona que tenga a su cargo el cuidado de niñas, niños y adolescentes;
+Igualmente, sujeto a las limitaciones previstas en la ley de la materia, el Estado y los Municipios podrán, con la autorización previa del Congreso emitida mediante ley o decreto, afectar como fuente o garantía de pago de financiamientos que contraten directamente, las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación, incluidos sus accesorios. Asimismo, el Estado y los Municipios podrán afectar en los términos señalados, los derechos al cobro de las aportaciones federales antes referidas.
 
-II. De protegerlo contra toda forma de abuso, tratarlo con respeto a su dignidad y a sus derechos, cuidarlo, atenderlo y orientarlo a fin de que conozca sus derechos, aprenda a defenderlos y a respetar los de las otras personas;
-
-III. Los cursos y programas educativos destinados a servidores públicos, padres de familia y estudiantes, con la finalidad de que comprendan las necesidades, conflictos e intereses de la adolescencia, las formas de violencia familiar, escolar, social y la consecuencia de la victimización de los menores de dieciocho años, por actos u omisiones;
-
-IV. La obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualquier persona que tenga conocimiento de casos de niñas, niños y adolescentes que estén sufriendo la violación de los derechos consignados en esta Ley, en cualquiera de sus formas y de ponerlo en conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente; y
-
-V. En las instituciones educativas, de recreación, esparcimiento y deporte, los educadores o maestros velarán por el respeto de los derechos de niñas, niños y adolescentes, a efecto de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación.
+En el caso de financiamientos cuya garantía o fuente de pago sean las aportaciones federales, los recursos correspondientes únicamente podrán destinarse a los fines previstos en la ley federal que las regula, siempre que los mismos sean, adicionalmente, considerados inversiones públicas productivas en términos de lo previsto por esta ley.
 
 ###### Artículo 72.
 
-Corresponden a las autoridades estatales en el ámbito de sus competencias, las atribuciones siguientes:
-
-I. Garantizar en el ámbito de su competencia, el cabal cumplimiento de la presente Ley, la Ley General y de los tratados internacionales aplicables, en la medida que favorezcan la protección del interés superior de la niñez;
-
-II. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno;
-
-III. Revocar temporal o definitivamente, a través de la autoridad competente, la autorización para operar los centros de asistencia social, por el incumplimiento de las obligaciones y requisitos previstos en esta Ley y en la Ley General;
-
-IV. Instrumentar y articular sus políticas públicas tomando en consideración el Programa Nacional para la adecuada garantía y protección de los derechos de niñas, niños y adolescentes;
-
-V. Elaborar el Programa local y participar en el diseño del Programa Nacional;
-
-VI. Fortalecer las políticas existentes e impulsar la creación de instituciones públicas y privadas que tengan trato con niñas, niños y adolescentes, en la medida que armonicen con los principios rectores y disposiciones de la presente Ley;
-
-VII. Promover, en coordinación con el Gobierno Federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes;
-
-VIII. Impulsar programas locales para el adelanto y desarrollo de niñas, niños y adolescentes en situación de vulnerabilidad;
-
-IX. Difundir por todos los medios de comunicación el contenido de esta Ley;
-
-X. Aplicar el Programa Local a que se refiere esta Ley, así como rendir ante el Sistema Nacional de Protección Integral un informe anual sobre los avances;
-
-XI. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
-
-XII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales, en la medida que favorezca la salvaguarda del interés superior de la niñez;
-
-XIII. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de derechos de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia, en la medida que favorezca la salvaguarda del interés superior de la niñez;
-
-XIV. Proporcionar a las instancias encargadas de realizar estadísticas y de integrar el sistema nacional de información, la información necesaria para la elaboración de éstas;
-
-XV. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
-
-XVI. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
-
-XVII. Adoptar medidas de protección especial de los derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos, y
-
-XVIII. Cualquier otra prevista en las disposiciones jurídicas aplicables para el cumplimiento de esta Ley.
+Las entidades de la administración pública paraestatal podrán, con la autorización previa de sus Órganos de Gobierno, de la Secretaría y del Congreso, emitida por éste último mediante Ley o Decreto, afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente, los bienes de su propiedad o sus ingresos derivados de la cobranza de cuotas, derechos, productos o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable. Asimismo, las entidades de la administración pública paraestatal, podrán afectar en los términos señalados, los derechos al cobro de los ingresos antes referidos.
 
 ###### Artículo 73.
 
-Corresponde a las autoridades municipales, de conformidad con esta Ley y las leyes locales en la materia, las atribuciones siguientes:
-
-I. Elaborar su Programa Municipal y participar en el diseño del Programa Local;
-
-II. Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos;
-
-III. Promover la libre manifestación de ideas de niñas, niños y adolescentes en los asuntos concernientes a su municipio, de acuerdo a lo prescrito en la presente Ley;
-
-IV. Atender a niñas, niños y adolescentes que deseen manifestar inquietudes, de acuerdo a lo prescrito en la presente Ley;
-
-V. Recibir quejas y denuncias por violaciones a los derechos reconocidos en la presente Ley, la Ley General y demás disposiciones jurídicas aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección, sin perjuicio que ésta pueda recibirla directamente;
-
-VI. Colaborar con la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus respectivas atribuciones;
-
-VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
-
-VIII. Difundir y aplicar los protocolos específicos sobre los derechos de niñas, niños y adolescentes que autoricen las autoridades federales, estatales y municipales;
-
-IX. Coordinarse con las autoridades estatal y federal para la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley, de la Ley General y demás disposiciones jurídicas aplicables;
-
-X. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
-
-XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; en la medida que favorezca a la salvaguarda del interés superior de la niñez, y
-
-XII. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General.
+Las entidades de la administración pública paramunicipal podrán, con la autorización previa de sus Órganos de Gobierno, de los ayuntamientos y del Congreso, emitida por éste último mediante ley o decreto, afectar como fuente o garantía de pago, o ambas, de los financiamientos que celebren directamente, los bienes de su propiedad o sus ingresos derivados de la cobranza de cuotas, derechos, productos o cualesquier otros ingresos de los que puedan disponer de conformidad con la legislación aplicable. Asimismo, las entidades de la administración pública paramunicipal podrán afectar en los términos señalados, los derechos al cobro de los ingresos antes referidos.
 
 #### Sección Segunda. Del Sistema DIF Estatal
 
 ###### Artículo 74.
 
-Sin perjuicio de las atribuciones que establezcan las demás disposiciones jurídicas aplicables, corresponde al Sistema DIF Estatal:
-
-I. Proteger los derechos de niñas, niños y adolescentes, cuando los mismos se encuentren restringidos o vulnerados, en términos de esta Ley y las demás disposiciones jurídicas aplicables. Teniendo en cuenta, que la institucionalización procederá como último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
-
-II. Apoyar el desarrollo de la familia y la comunidad, resaltando una cultura de respeto de los derechos de las niñas, niños y adolescentes que fomente la integración social de todos los ciudadanos;
-
-III. Impulsar la cooperación y coordinación de las autoridades en los diferentes niveles en el ámbito de sus respectivas competencias en materia de protección y restitución en el ejercicio de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello;
-
-IV. Prestar servicios de asistencia social y en su caso, celebrar los convenios de colaboración con los Sistemas Municipales DIF, así como con organizaciones e instituciones de los sectores público, privado y social, en la medida que favorezca la salvaguarda del interés superior del menor;
-
-V. Operar y monitorear todas las acciones, programas y establecimientos destinados a brindar asistencia social en beneficio de niñas, niños y adolescentes; especialmente con aquellos que sufren algún tipo de discapacidad;
-
-VI. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia, en la medida que favorezca la salvaguarda del interés superior del menor, y
-
-VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
+Con excepción de los casos previstos en el Artículo 9 de esta Ley, el otorgamiento de garantías, las afectaciones de ingresos, la implementación de los mecanismos de pago y, en general, la celebración de los actos jurídicos a que se refiere este Capítulo, podrá realizarse respecto de cualesquier financiamientos ya sea que constituyan, o no, deuda pública, en términos de la misma.
 
 ### Capítulo Sexto. Del Programa Nacional y el Programa Local
 
 ###### Artículo 75.
 
-De conformidad con lo estipulado en el Artículo 121 de la Ley General, la Procuraduría de Protección, como parte del Sistema DIF Estatal, será integrada en los términos que al efecto establezca la legislación orgánica correspondiente y la reglamentación interna del propio organismo.
+Las participaciones federales y las aportaciones federales únicamente podrán ser afectadas, en los términos del Artículo 71 de esta Ley, para el pago de obligaciones, directas o contingentes, según corresponda, que contraigan el Estado o los Municipios con autorización del Congreso e inscritas a petición de dichas entidades en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios que lleva la Secretaría de Hacienda y Crédito Público y en el Registro de Obligaciones y Empréstitos del Estado de Morelos, en favor de la Federación, de instituciones de crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
+
+Los Municipios podrán afectar en favor del Estado las participaciones que en ingresos federales les correspondan, en los casos en que así lo acuerden, por escrito.
 
 ###### Artículo 76.
 
-La Procuraduría de Protección tendrá las atribuciones siguientes:
+La celebración de los mecanismos legales que bajo cualquier modalidad o forma, se propongan implementar las entidades, a efecto de garantizar o realizar el pago de financiamientos, deberá ser previamente autorizada por el Congreso.
 
-I. Procurar la protección integral de niñas, niños y adolescentes de acuerdo a lo previsto por la Constitución Federal y Estatal, los tratados internacionales, la Ley General, esta Ley y demás disposiciones jurídicas aplicables; dicha protección integral deberá abarcar, por lo menos:
+En los casos en que los mecanismos legales antes referidos se implementen bajo la forma de fideicomisos, los mismos no serán considerados, en ningún caso, parte de la administración pública paraestatal o paramunicipal.
 
-a. Atención médica y psicológica de manera preventiva y oportuna;
+En los casos en que los mecanismos legales que implemente el Estado como medio para cumplir obligaciones de pago a su cargo, impliquen la notificación de la afectación correspondiente y el otorgamiento de un mandato a la Tesorería de la Federación, para que entregue a una institución bancaria o fiduciaria un porcentaje de las participaciones que en ingresos federales le correspondan al Estado o de las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación, ya sea bajo la forma de una instrucción irrevocable o en cualquier otra forma, los términos de dicho mandato, únicamente podrán ser modificados por el Poder Ejecutivo del Estado, si en adición al consentimiento que en su caso, deba obtener de los acreedores que correspondan, cuenta con la autorización previa del Congreso, otorgada de acuerdo a los términos establecidos en el decreto que incluya la autorización del mecanismo respectivo.
 
-b. Respeto y promoción en primera instancia, del mantenimiento y buen funcionamiento de sus relaciones familiares con sus padres, tutores, cuidadores o responsables legales;
-
-c. Seguimiento a las actividades académicas y del entorno social y cultural en que se desenvuelvan;
-
-d. Un hogar seguro para todas las niñas, niños y adolescentes, especialmente para aquellos en situación de desamparo; y
-
-e. La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia.
-
-II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley, la Ley General y demás disposiciones jurídicas aplicables;
-
-III. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
-
-IV. Fungir como conciliador y mediador en casos de conflicto familiar y cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones jurídicas aplicables. La conciliación no procederá en casos de violencia;
-
-V. Denunciar ante el Ministerio Público dentro de las siguientes 24 horas de las que se tenga conocimiento de aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
-
-VI. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales y demás disposiciones jurídicas aplicables, las siguientes:
-
-a. El ingreso de una niña, niño o adolescente a un centro de asistencia social;
-
-b. La atención médica inmediata.
-
-VII. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato a la autoridad jurisdiccional competente y en su caso, al Ministerio Público.
-
-Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
-
-Para la imposición de las medidas urgentes de protección, el Procurador de Protección podrá solicitar el auxilio de las instituciones policiales competentes.
-
-En caso de incumplimiento de las medidas urgentes de protección, el Procurador de Protección podrá solicitar la imposición de las medidas de apremio o sanciones correspondientes a la autoridad competente;
-
-VIII. Proceder a verificar el hecho de abandono de una niña, niño o adolescente del que tenga conocimiento la Procuraduría de Protección y, habiéndolo comprobado, deberá presentar la denuncia correspondiente ante el Ministerio Público;
-
-IX. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, en la medida que favorezca la salvaguarda de su interés superior;
-
-X. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones jurídicas aplicables, en la medida que favorezca la salvaguarda de su interés superior;
-
-XI. Proporcionar orientación y asesoría jurídica en materia de derecho familiar a personas en situación vulnerable;
-
-XII. Coadyuvar con el Sistema Nacional y el Sistema DIF Estatal y sus municipios, en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad, de acuerdo a lo dispuesto en las disposiciones jurídicas aplicables;
-
-XIII. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social, de acuerdo a lo prescrito por la Ley General;
-
-XIV. Supervisar el debido funcionamiento de los centros de asistencia social a que se refiere esta ley, en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley, la Ley General y demás disposiciones jurídicas aplicables;
-
-XV. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
-
-XVI. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, en la medida que favorezca la salvaguarda del interés superior de la niñez;
-
-XVII. Las demás que les confieran otras disposiciones jurídicas aplicables.
+En los casos en que los mecanismos legales que implementen los Municipios, como medio para cumplir obligaciones de pago a su cargo, impliquen la notificación de la afectación correspondiente y el otorgamiento de un mandato a la Secretaría para que entregue a una institución bancaria o fiduciaria un porcentaje de las participaciones que en ingresos federales le correspondan al Municipio o de las aportaciones federales que en términos de la legislación federal sean susceptibles de afectación, ya sea bajo la forma de una instrucción irrevocable o en cualquier otra forma, los términos de dicho mandato únicamente podrán ser modificados por el ayuntamiento correspondiente, si en adición al consentimiento que en su caso, deba obtener de los acreedores que correspondan, cuenta con la autorización previa del Congreso, otorgada de acuerdo a los términos establecidos en el decreto que incluya la autorización del mecanismo respectivo.
 
 ###### Artículo 77.
 
-Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá seguir el procedimiento establecido en el Artículo 123 de la Ley General.
+Una vez autorizada por el Congreso la celebración de los mecanismos a que hace mención el Artículo anterior, el Estado y los Municipios podrán celebrar, por conducto de sus funcionarios legalmente autorizados al efecto, los actos jurídicos y demás instrumentos legales que los formalicen.
 
 ###### Artículo 78.
 
-Los requisitos para ser nombrado titular de la Procuraduría de Protección, son los siguientes:
-
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
-
-II. Tener más de 35 años de edad;
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
-
-III. Contar con título y cédula profesional de licenciatura en derecho, debidamente registrados, con una antigüedad mínima de 5 años;
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
-
-IV. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes;
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
-
-V. No haber sido condenado mediante sentencia ejecutoriada por delito doloso o inhabilitado a través de sentencia firme como servidor público; y
-
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
-
-VI. Acreditar las pruebas de control de confianza emitidas por la autoridad competente.
-
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
-
-El nombramiento de Procurador de Protección deberá ser aprobado por la Junta de Gobierno del Sistema DIF Estatal, a propuesta del Titular del Poder Ejecutivo.
+El pago de obligaciones a través de mecanismos legales de garantía o fuente de pago implementados mediante la afectación de participaciones y aportaciones federales a que aluden los Artículos 76 y 77 de esta Ley, únicamente podrá ser realizado a través de dichos mecanismos, cuando las obligaciones correspondientes hayan sido previamente autorizadas por el Congreso y se encuentren inscritas en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios que lleva la Secretaría de Hacienda y Crédito Público y en el Registro de Obligaciones y Empréstitos del Estado de Morelos.
 
 ### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
@@ -1241,109 +1003,15 @@ El nombramiento de Procurador de Protección deberá ser aprobado por la Junta d
 
 ###### Artículo 79.
 
-El eje rector del Sistema Local será el fortalecimiento familiar con el fin de proteger de forma integral los derechos de niñas, niños y adolescentes de esta entidad.
-
-El Sistema Local de Protección tendrá las siguientes atribuciones:
-
-I. Crear, impulsar, instrumentar y articular políticas públicas que favorezcan el interés superior de la niñez;
-
-II. Coadyuvar en la adopción y consolidación del Sistema Nacional de Protección;
-
-III. Garantizar la transversalidad de la perspectiva de derechos de niñas, niños y adolescentes en la elaboración de programas sectoriales o, en su caso, institucionales específicos, así como en las políticas y acciones de las dependencias y entidades de la administración pública local;
-
-IV. Difundir el marco jurídico local, nacional e internacional de protección a los derechos de niñas, niños y adolescentes;
-
-V. Integrar a los sectores público, social y privado en la definición e instrumentación de políticas para la protección de niñas, niños y adolescentes, en la medida que favorezca su interés superior;
-
-VI. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas locales para la protección integral de sus derechos, de acuerdo a lo estipulado en la presente Ley;
-
-VII. Establecer en sus presupuestos, rubros destinados a la protección de los derechos de niñas, niños y adolescentes, los cuales tendrán una realización progresiva;
-
-VIII. Participar en la elaboración del Programa Nacional;
-
-IX. Elaborar y ejecutar el Programa Local con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes;
-
-X. Llevar a cabo el seguimiento, monitoreo y evaluación de la ejecución del Programa Local;
-
-XI. Emitir un informe anual sobre los avances del Programa Local y remitirlo al Sistema Nacional de Protección;
-
-XII. Garantizar la participación de niñas, niños y adolescentes en el ejercicio de sus derechos humanos, tomando en consideración las medidas especiales que se requieran y las disposiciones prescritas en la presente Ley;
-
-XIII. Fortalecer las acciones de corresponsabilidad y cercanía entre las instancias públicas y privadas con niñas, niños y adolescentes;
-
-XIV. Realizar acciones de formación y capacitación de manera sistemática y continua sobre el conocimiento y respeto de los derechos humanos de niñas, niños y adolescentes, especialmente en coordinación con sus padres, tutores o responsables legales y con aquellas personas que trabajan desde los diversos ámbitos en la garantía de sus derechos;
-
-XV. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
-
-XVI. Celebrar convenios de coordinación en la materia;
-
-XVII. Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones, y
-
-XVIII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+Las entidades no podrán, en ningún caso, otorgar mandatos irrevocables para que sus ingresos sean depositados en cuentas determinadas, abiertas en entidades financieras, si no tienen la autorización previa del Congreso del Estado. Tampoco podrán, en ningún caso, autorizar a las entidades financieras en las que tengan cuentas para que cobren, con cargo a las mismas, cantidades derivadas de financiamientos, compensen adeudos o, en cualquier forma, dispongan de los recursos correspondientes, si no tienen la autorización previa del Congreso del Estado para afectar, como garantía o fuente de pago, dichos ingresos en términos de lo previsto en esta ley.
 
 ###### Artículo 80.
 
-El Sistema Local de Protección estará conformado por:
-
-A. Poder Ejecutivo Estatal:
-
-I. El Gobernador del Estado, quien lo presidirá;
-
-II. El Secretario General de Gobierno;
-
-III. El Secretario de Finanzas y de Administración;
-
-IV. El Secretario de Desarrollo Social;
-
-V. El Secretario de Educación;
-
-VI. El Secretario de Salud;
-
-VII. El Secretario de Trabajo y Previsión Social;
-
-VIII. El Fiscal General del Estado, y
-
-IX. El Director del Sistema DIF Estatal.
-
-B. Delegaciones Federales:
-
-I. Secretaría de Relaciones Exteriores;
-
-II. Instituto Nacional de Migración, y
-
-III. Secretaría de Comunicaciones y Transportes.
-
-C. Hasta cinco Presidentes municipales que serán invitados por el Presidente del Sistema.
-
-D. Órganos Constitucionales Autónomos:
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-I. Comisión Estatal de Derechos Humanos.
-
-E. Representantes de la Sociedad Civil que serán nombrados por el Sistema Local, en los términos del reglamento de esta Ley.
-
-Para efectos de lo previsto en el apartado E, el reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
-
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2019)</small>
-
-Serán invitados permanentes a las sesiones del Sistema Local de Protección, el Presidente de la Comisión de Asuntos de la Familia y Menores de Edad del Congreso del Estado, el Titular del Instituto Estatal de las Mujeres y un representante del Poder Judicial del Estado de Durango, quienes intervendrán con voz pero sin voto.
-
-El Gobernador del Estado, en casos excepcionales, podrá ser suplido por el Secretario General de Gobierno.
-
-Los integrantes del Sistema Local nombrarán un suplente que deberá tener el nivel de subsecretario o equivalente.
-
-El Presidente del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Estatal, de los Órganos Constitucionales Autónomos, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
-
-En las sesiones del Sistema Local, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema. De igual forma, se podrá invitar a personas o instituciones, estatales, nacionales o internacionales, especializadas en la materia.
+Las entidades a cuyo favor se otorgue alguna garantía o aval, en su caso, estarán obligadas a proporcionar a sus garantes, avalistas, deudores solidarios, subsidiarios o sustitutos la información que éstos les requieran, sobre la situación de las operaciones de deuda pública respectivas.
 
 ###### Artículo 81.
 
-El Sistema Local se reunirá cuando menos dos veces al año.
-
-Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
-
-Para el mejor cumplimiento de sus funciones, el Sistema Local podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, así como para la integración, organización y funcionamiento de los Sistemas Municipales, dichos lineamientos deberán ser publicados en el Periódico Oficial del Gobierno del Estado.
+Con excepción de los casos expresamente previstos en otras leyes, queda prohibido al Estado y a los Municipios otorgar garantía o aval fuera de los casos previstos en esta Ley. El servidor público que viole esta disposición incurrirá en responsabilidad oficial.
 
 #### Sección Segunda. De la Secretaría Ejecutiva
 
@@ -1351,117 +1019,11 @@ Para el mejor cumplimiento de sus funciones, el Sistema Local podrá constituir 
 
 ###### Artículo 82.
 
-La Secretaría Ejecutiva es un organismo público descentralizado con personalidad jurídica y patrimonio propios, con autonomía técnica y de gestión, contará con los recursos que le asigne el presupuesto de Egresos del Estado; sectorizado a la Secretaría General de Gobierno.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MARZO DE 2019)</small>
-
-La Secretaría Ejecutiva tiene por objeto operar y coordinar el Sistema Local de Protección, adoptar, articular y consolidar la política estatal en materia de derechos de niñas, niños y adolescentes, acorde a la política nacional, y a través de su titular ejercerá las siguientes atribuciones:
-
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
-
-I. Administrar y representar legalmente a la Secretaría Ejecutiva;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-II. Coordinar y colaborar en las acciones entre las dependencias y las entidades competentes de la Administración Pública Estatal que deriven de la presente Ley;
-
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
-
-III. Coordinar a las Secretarías Ejecutivas de los Sistemas Municipales de Protección, para la adecuada articulación de la política estatal, así como el intercambio de información necesaria a efecto de dar cumplimiento a la presente Ley;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-IV. Elaborar el anteproyecto del Programa Local para someterlo a consideración de los miembros del Sistema Local de Protección;
-
-V. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Local;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-VI. Eiaborar (sic) y mantener actualizado el Manual de Organización y Operación del Sistema Local de Protección y someterlo a consideración de la junta de Gobierno;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-VII. Compilar los acuerdos que se tomen en el Sistema Local de Protección, llevar el archivo de éstos, de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-VIII. Apoyar al Sistema Local de Protección en la ejecución y seguimiento de los acuerdos y resoluciones emitidos;
-
-IX. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales;
-
-X. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes con el fin de difundirlos a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos;
-
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XI. Realizar reuniones de trabajo y procesos de colaboración interinstitucional continuos con las autoridades obligadas en el cumplimiento de la Ley, así como con quienes integran el Sistema Local de Protección para el cumplimiento de los acuerdos, resoluciones y recomendaciones emitidos por el mismo;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XII. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, y la información pública que tienda a la generación, desarrollo y consolidación de una cultura de respeto y reconocimiento de los derechos de las niñas, niños y adolescentes, desagregada por lo menos, en razón de edad, sexo, entidad federativa, escolaridad y discapacidad;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XIII. Asesorar y apoyar al Gobierno del Estado y a los Ayuntamientos que lo requieran para el ejercicio de sus atribuciones en la materia;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XIV. Informar cada cuatro meses al Sistema Local de Protección y a su Presidente, sobre sus actividades;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XV. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado;
-
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XVI. Realizar acciones de supervisión y guía a las dependencias y entidades de la Administración Pública Estatal y Municipal, que presten servicios en materia de niñas, niños y adolescentes;
-
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XVII. Expedir el reglamento interior de la Secretaría Ejecutiva y someterlo a consideración de la Junta de Gobierno;
-
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XVIII. Crear una plataforma que permita integrar, desarrollar y consolidar la información sobre niñas, niños y adolescentes a nivel Estatal y Municipal, a fin de orientar políticas públicas, programas, planes y demás acciones a favor de niñas, niños y adolescentes, con el objetivo de llevar a cabo el monitoreo, seguimiento y evaluación de los mismos;
-
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XIX. Proponer los nombramientos de Directores, Coordinadores y Jefes de Departamento ante la Junta de Gobierno; y
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
-
-XX. Las demás que le encomiende el Presidente o el Sistema Local de Protección.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
-
-Para la formulación de sus planes y programas, la Secretaría Ejecutiva deberá sujetarse a la Ley de Planeación del Estado de Durango, al Plan Estatal de Desarrollo del Estado de Durango, a los Programas Sectoriales y Regionales que deriven del mismo, a las asignaciones de gasto y financiamiento autorizadas y demás legislación aplicable en la materia.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
-
-La Secretaría Ejecutiva tendrá su domicilio legal en la Ciudad de Victoria de Durango, capital del Estado de Durango y podrá establecer oficinas en otros municipios, de acuerdo a su disponibilidad presupuestaria y así autorice la Junta de Gobierno.
+El Estado, los Municipios y las entidades de la administración pública paraestatal y paramunicipal podrán, con la autorización previa del Congreso emitida mediante Ley o Decreto, contratar bajo cualquier forma legal, el otorgamiento de garantías de terceros, totales o parciales, a efecto de mejorar la calidad crediticia de los financiamientos que celebren de manera directa.
 
 ###### Artículo 83.
 
-El titular de la Secretaría Ejecutiva será nombrado y removido libremente por el Presidente del Sistema y deberá cumplir con los siguientes requisitos:
-
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
-
-II. Tener más de 30 años de edad;
-
-III. Contar con título profesional de nivel de licenciatura debidamente registrado;
-
-IV. Contar con al menos cinco años de experiencia en las áreas correspondientes a su función, y
-
-V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
-
-El Titular de la Secretaría Ejecutiva será nombrado de conformidad con las disposiciones jurídicas de la Ley de Entidades Paraestatales del Estado de Durango, cumpliendo además con los requisitos señalados en el presente artículo.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
-
-Los Titulares de las Áreas que integran la Secretaría Ejecutiva, serán designados a propuesta del Titular de la misma y ratificados por la Junta de Gobierno.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2019)</small>
+Las entidades podrán en cualquier tiempo, realizar operaciones de refinanciamiento o reestructuración, total o parcial, de los créditos o empréstitos a su cargo, con la finalidad de mejorar las condiciones de plazo, tasas de interés, garantías u otras condiciones originalmente pactadas sujetándose a las disposiciones de esta Ley.
 
 ###### Artículo 83 Bis.
 
@@ -1549,93 +1111,63 @@ Las relaciones obrero-patronales del personal que labore en la Secretaría Ejecu
 
 ###### Artículo 84.
 
-Los Sistemas Municipales serán presididos por los Presidentes Municipales y estarán integrados por las dependencias e instituciones vinculadas con la protección de los derechos de niñas, niños y adolescentes.
-
-Los Sistemas Municipales garantizarán la participación de los sectores sociales y privados, así como de niñas, niños y adolescentes.
-
-El eje rector de los Sistemas Municipales será el fortalecimiento familiar con el fin de proteger de forma integral los derechos de niñas, niños y adolescentes de esta entidad.
-
-Cada Sistema Municipal contará con una Secretaría Ejecutiva cuyo titular será nombrado y removido libremente por el Presidente Municipal, quien deberá contar con experiencia en materia de asistencia social.
-
-Los Sistemas Municipales funcionarán y se organizarán de acuerdo a los lineamientos establecidos por el Sistema Local; se reunirán cuando menos dos veces al año, para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+Las entidades únicamente podrán celebrar operaciones de refinanciamiento de los empréstitos o créditos a su cargo, con la autorización previa del Congreso.
 
 ###### Artículo 85.
 
-La Comisión Estatal de los Derechos Humanos de Durango, en el ámbito de su competencia, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
+Las entidades podrán celebrar operaciones de reestructuración de los empréstitos o créditos a su cargo, cuando el objeto de las mismas sea el mejoramiento de las condiciones originales de los financiamientos consistente en la reducción del plazo, la disminución de la tasa de interés o la reducción de las garantías, sin necesidad de autorización por el Congreso. En el supuesto anterior, las entidades deberán cumplir con lo previsto en el Artículo 40 de esta Ley dentro de un plazo de quince días naturales, contados a partir de la celebración del crédito o empréstito correspondiente.
+
+Las operaciones de reestructuración que no requieran autorización del Congreso deberán ser autorizadas por los ayuntamientos en el caso de empréstitos a cargo de los Municipios o por los Órganos de Gobierno, la Secretaría y los ayuntamientos, según corresponda, en el caso de créditos a cargo de entidades de la administración pública paraestatal o paramunicipal.
 
 ###### Artículo 86.
 
-Las autoridades estatales y sus municipios, en el ámbito de sus respectivas competencias, a través del Sistema Nacional de Protección Integral, así como los sectores privado y social, participarán en la elaboración y ejecución de los Programas Nacional y Local, los cuales deberán estar acorde con los Planes Nacional y Estatal de Desarrollo, la Ley General y la presente.
-
-Los programas locales preverán acciones de mediano y largo alcance, indicarán los objetivos, estrategias y líneas de acción prioritarias, y deberán alinearse al Programa Nacional; deberán incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y serán publicados en el Diario Oficial del Gobierno del Estado de Durango.
+El Estado y los Municipios podrán con la autorización previa del Congreso, celebrar operaciones de reestructuración de los empréstitos a su cargo, cuando el objeto de las mismas sea la ampliación del plazo o cualquier otra modificación o modificaciones, distintas de las señaladas en el Artículo 85.
 
 ###### Artículo 87.
 
-El Sistema Local y los Municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
+Las entidades de la administración pública paraestatal podrán, con la autorización previa de sus Órganos de Gobierno, de la Secretaría y del Congreso, celebrar operaciones de reestructuración de los créditos a su cargo, cuando el objeto de las mismas sea la ampliación del plazo o cualquier otra modificación o modificaciones, distintas de las señaladas en el Artículo 85.
 
 ## TÍTULO SEXTO. De las Infracciones Administrativas
 
 ###### Artículo 88.
 
-Se considerarán infracciones cometidas por servidores públicos, personal de instituciones de salud, educación, deportiva o cultural, empleado o trabajador de establecimientos sujetos al control, administración o coordinación de aquellas, como centros de asistencia social o de cualquier otra índole de jurisdicción estatal o municipal, en el ámbito de sus respectivas competencias; las siguientes:
-
-I. Negar injustificadamente el ejercicio de un derecho a la niña, niño o adolescente; así como a la prestación de un servicio al que se encuentra obligado por la presente Ley;
-
-II. Cuando en el ejercicio de sus funciones o con motivo de ellas tenga conocimiento de la violación de algún derecho de alguna niña, niño o adolescente y se abstenga de hacerlo del conocimiento de la autoridad competente, en contravención de lo prescrito por la presente Ley y demás disposiciones estatales aplicables;
-
-III. Propiciar, tolerar o abstenerse de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes, y
-
-IV. Toda actuación que no cuente con el permiso o autorización respectiva de la autoridad correspondiente; especialmente, en los procedimientos de adopción de acuerdo a lo prescrito por la presente Ley y la Ley General.
+Las entidades de la administración pública paramunicipal podrán, con la autorización previa de sus Órganos de Gobierno, de los ayuntamientos y del Congreso, celebrar operaciones de reestructuración de los créditos a su cargo, cuando el objeto de las mismas sea la ampliación del plazo o cualquier otra modificación o modificaciones, distintas de las señaladas en el Artículo 85.
 
 ###### Artículo 89.
 
-Para la determinación de la sanción, las autoridades competentes deberán considerar:
-
-I. La gravedad de la infracción;
-
-II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
-
-III. Los daños que se hubieren producido o puedan producirse;
-
-IV. La condición económica del infractor, y
-
-V. La reincidencia del infractor.
+Siempre que el objeto de una reestructuración o refinanciamiento implique la modificación de una garantía o aval, se requerirá contar con la autorización del garante, avalista, deudor solidario, subsidiario o sustituto correspondiente.
 
 ###### Artículo 90.
 
-Las sanciones previstas en esta Ley se aplicarán por las siguientes autoridades:
-
-I. La dependencia o entidad de la Administración Pública del Estado de Durango que resulte competente, en los casos de las infracciones cometidas de acuerdo al artículo 88 de esta Ley;
-
-II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación del Poder Judicial del Estado de Durango; el H. Congreso del Estado de Durango; órganos constitucionales autónomos, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales; y
-
-III. El Sistema DIF Estatal, en los casos que resulte competente.
+Las operaciones de refinanciamiento y reestructuración de deuda pública a que se refiere este capítulo, estarán sujetas a los requisitos de información y registro previstos en esta Ley.
 
 ###### Artículo 91.
 
-Contra las sanciones que las autoridades estatales impongan en cumplimiento de esta Ley, se podrá interponer el recurso de revisión de acuerdo a las disposiciones aplicables en la materia.
+Queda prohibida la celebración de operaciones de consolidación de deuda, respecto de obligaciones contraídas en términos de lo previsto por el Artículo 9 de esta Ley. Se entiende por consolidación, la conversión de deuda de corto plazo contraída por las entidades, en términos de lo previsto por el Artículo 9 precitado, en deuda de largo plazo.
 
 ###### Artículo 92.
 
-Será cada institución pública del Estado, la que de acuerdo al ámbito de su competencia y las obligaciones emanadas de la presente Ley determine la gravedad del hecho investigado, la responsabilidad del funcionario público y en su caso, la sanción a imponer; de acuerdo al procedimiento administrativo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+La deuda pública contratada por el Estado y por los Municipios para la ejecución de obras, adquisición o manufactura de bienes o prestación de servicios, cuyo uso o explotación se enajene o se concesione con posterioridad, podrá subrogarse, en los casos en que así lo consideren conveniente el Poder Ejecutivo del Estado o los ayuntamientos respectivos, al adquirente o al concesionario, a partir de la fecha de enajenación o del otorgamiento de la concesión, en los términos y condiciones que la misma establezca.
 
-Lo anterior sin perjuicio de las responsabilidades y sanciones conexas que puedan resultar aplicables de acuerdo a la legislación estatal.
+###### Artículo 93.
 
-T R A N S I T O R I O S
+En los casos de subrogación a los que se refiere el párrafo que precede, al enajenar un activo u otorgar una concesión, se deberá proceder a la sustitución de las garantías otorgadas por el Estado o el Municipio de que se trate, por las que ponga a disposición el adquirente o concesionario, salvo en aquellos casos en que las garantías originales de los créditos sean los propios bienes, sus rendimientos, o los ingresos derivados de la prestación de los servicios objeto de la enajenación o concesión.
+
+En ningún caso podrán permanecer o darse como garantía de créditos que se subroguen o adquieran con motivo de una enajenación o concesión a particulares, las participaciones en ingresos federales y otros ingresos que no provengan de la prestación de los servicios objeto de la enajenación o concesión.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga la Ley para la Protección de los Derechos de las Niñas, los Niños y Adolescentes en el Estado de Durango aprobada mediante Decreto No. 61 de la LXII Legislatura de fecha 30 de Abril de 2002, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 41 de fecha 23 de Mayo de 2002 y sus reformas posteriores.
+Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ###### ARTÍCULO TERCERO.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, deberá constituirse a más tardar dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Para el presente ejercicio presupuestal funcionará con los recursos humanos, materiales y financieros que tiene asignados la Procuraduría de la Defensa del Menor, la Mujer y la Familia, y aquellos, que en su caso le asigne la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Durango.
+Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
 
-A partir del siguiente ejercicio presupuestal, de acuerdo a la disponibilidad con que cuente el Estado en su Ley de Egresos, le serán asignados los recursos financieros necesarios para el cumplimiento de los objetivos establecidos en la presente ley.
+P.O. 30 DE DICIEMBRE DE 2009.
 
 ###### ARTÍCULO CUARTO.
 
@@ -1696,3 +1228,11 @@ TERCERO.- Para su funcionamiento, la Secretaria Ejecutiva dispondrá de los recu
 CUARTO.- Dentro de los noventa días hábiles siguientes a partir de la entrada en vigor del presente Decreto, deberá ser expedido y publicado en el Periódico Oficial del Gobierno del Estado de Durango el Reglamento correspondiente.
 
 QUINTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial, "Tierra y Libertad" Órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto, entrará en vigor al día siguiente de su publicación.
