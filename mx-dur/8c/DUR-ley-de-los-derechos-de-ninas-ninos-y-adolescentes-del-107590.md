@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2019-03-17"
+last_updated: "2020-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -157,11 +157,17 @@ XXV. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia d
 
 XXVI. Sistema Local de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XXVII. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango; y
+XXVII. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango;
 
-XXVIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XXVIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XXIX. Violencia contra niñas, niños y adolescentes: Toda forma de perjuicio o abuso físico o mental, descuido o trato negligente, malos tratos o explotación, incluido el abuso sexual.
 
 ###### Artículo 6.
 
@@ -460,6 +466,10 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
 Las autoridades estatales y municipales, estarán obligadas de manera subsidiaria, en el ámbito de sus respectivas competencias, mediante políticas públicas, programas y acciones a crear condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada para asegurar los derechos de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+Queda prohibido el uso del castigo corporal en todos los ámbitos, como método correctivo o disciplinario a niñas, niños o adolescentes.
 
 ###### Artículo 30.
 
@@ -787,9 +797,17 @@ IX. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan
 
 X. Destinar espacios lúdicos, de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir;
 
-XI. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal, e
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de la intimidad y datos personales de niñas, niños y adolescentes.
+XI. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de la intimidad y datos personales de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XIII. Realizar de forma oficiosa y asequible las pruebas psicológicas y de entorno social, para garantizar la prevención y protección adecuada de niñas, niños y adolescentes víctimas de violencia.
 
 ###### Artículo 53.
 
@@ -1696,3 +1714,27 @@ TERCERO.- Para su funcionamiento, la Secretaria Ejecutiva dispondrá de los recu
 CUARTO.- Dentro de los noventa días hábiles siguientes a partir de la entrada en vigor del presente Decreto, deberá ser expedido y publicado en el Periódico Oficial del Gobierno del Estado de Durango el Reglamento correspondiente.
 
 QUINTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 319.- QUE CONTIENE ADICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 320.- QUE CONTIENE ADICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
