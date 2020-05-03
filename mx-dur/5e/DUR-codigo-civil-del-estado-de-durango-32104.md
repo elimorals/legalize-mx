@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2020-03-29"
+last_updated: "2020-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1619,7 +1619,9 @@ ART. 296.- La obligación de dar alimento es recíproca. El que los da tiene a s
 
 ART. 297.- Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale.
 
-Esta misma obligación tienen los concubinos entre si, mientras subsista el concubinato.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+
+Esta misma obligación tienen los concubinos entre sí. Esta obligación quedará subsistente al terminar la convivencia, si alguno de ellos se encuentra imposibilitado para trabajar y no cuenta con bienes propios para subsistir, siempre que no contraiga matrimonio o viva en nuevo concubinato.
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
 
@@ -8979,6 +8981,10 @@ De las asociaciones.
 
 ART. 2550.- Cuando varios individuos convinieren en reunirse, de manera que no sea enteramente transitoria, para realizar un fin común que no esté prohibido por la ley y que no tenga carácter preponderantemente económico, constituyen una asociación.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+ART. 2550 BIS.- Las asociaciones civiles que manejen recursos públicos informarán a la sociedad civil a través de esquemas de transparencia sobre el manejo de los mismos.
+
 ART. 2551.- El contrato por el que st (sic) constituya una asociación, debe constar por escrito.
 
 ART. 2552.- La asociación puede admitir y excluír asociados.
@@ -10844,6 +10850,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 29 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 292.- SE REFORMAN LOS ARTÍCULOS 418, 487, EN (SIC) EL PRIMER PÁRRAFO DEL ARTÍCULO 488, 495, LAS FRACCIONES I Y IV DEL 496, 497 Y LA FRACCIÓN I DEL 498, TODOS DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 308.- POR EL QUE SE ADICIONA UN ARTÍCULO 2550 BIS AL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 309.- QUE CONTIENE REFORMA AL SEGUNDO PÁRRAFO DEL ARTÍCULO 297 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO, EN MATERIA DE PENSIÓN ALIMENTICIA EN EL CONCUBINATO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
