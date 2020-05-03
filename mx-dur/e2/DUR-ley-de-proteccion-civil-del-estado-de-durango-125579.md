@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-civil-del-estado-de-durango-125579"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-28"
-last_updated: "2018-01-14"
+last_updated: "2020-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 14 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2017.
 
@@ -240,6 +238,18 @@ VI. El fomento de la participación social para crear comunidades resilientes, y
 VII. El establecimiento de un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil en la entidad; y
 
 VIII. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y efectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías, a través del Sistema Integral del Atlas de Riesgo del estado.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+IX. Promover, de conformidad con la normatividad aplicable, la realización de simulacros para capacitar y sensibilizar a los educandos en los distintos niveles educativos con un fin fundamentalmente preventivo.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+X. Impulsar el desarrollo de programas educativos orientados a la formación relativa al comportamiento individual y social frente a las situaciones de riesgo, atendiendo a la disponibilidad presupuestal; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XI. Promover dentro de las instituciones educativas una formación en la resiliencia que no sólo favorezca la rápida recuperación después del desastre, sino que a partir de los nuevos aprendizajes contribuya a mejorar de manera sustantiva al mejoramiento de la persona y la comunidad.
 
 ###### ARTÍCULO 8.
 
@@ -553,6 +563,10 @@ En la elaboración de los programas de protección civil de los municipios, debe
 
 Los Programas Especiales de Protección Civil tendrán como objetivo la planeación y operación que se implementa con la participación corresponsable de diversas dependencias e instituciones, ante un peligro o riesgo específico derivado de un agente perturbador en un área o región determinada, que involucran a grupos de población específicos y vulnerables, y que por las características previsibles de los mismos, permiten un tiempo adecuado de planeación, con base en las etapas consideradas en la Gestión Integral de Riesgos.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+Dichos programas deberán atender a los grupos en situación de vulnerabilidad de conformidad con la normatividad aplicable.
+
 ###### ARTÍCULO 40.
 
 En base a la identificación de riesgos proporcionado (sic) por el Atlas de Riesgos Estatal, la población en general, en coordinación y vigilancia con las autoridades Estatal y municipales, deberán de crear, difundir e implementar los planes familiares y escolares de protección civil, a fin de complementar los programas y planes Estatal y municipales en atención a los riesgos previamente identificados.
@@ -564,6 +578,10 @@ El Programa Interno de Protección Civil se lleva a cabo en cada uno de los inmu
 Para la implementación del Programa Interno de Protección Civil cada instancia a la que se refiere el artículo siguiente, deberá crear una estructura organizacional específica denominada Unidad Interna de Protección Civil que elabore, actualice, opere y vigile este instrumento en forma centralizada y en cada uno de sus inmuebles.
 
 Para el caso de las unidades hospitalarias, en la elaboración del programa interno se deberán tomar en consideración los lineamientos establecidos en el Programa Hospital Seguro.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2020)</small>
+
+En el caso de los establecimientos y sitios turísticos con afluencia de personas extranjeras, los particulares estarán obligados a reproducir y difundir, las medidas de seguridad en materia de protección civil, así como los protocolos que se establezcan en dicho establecimiento, en por lo menos un idioma, dialecto o lenguaje distinto al español.
 
 ###### ARTÍCULO 42.
 
@@ -1594,3 +1612,21 @@ DR. JOSÉ AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUINONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 304.- QUE CONTIENE ADICIÓN DE UN CUARTO PÁRRAFO AL ARTÍCULO 41 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 305 QUE CONTIENE ADICIONES A LOS ARTÍCULOS 7 y 39 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
