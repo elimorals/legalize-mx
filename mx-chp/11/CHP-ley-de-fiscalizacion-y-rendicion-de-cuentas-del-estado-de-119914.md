@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-11991
 country: "mx"
 rank: "ley"
 publication_date: "2017-02-01"
-last_updated: "2017-02-01"
+last_updated: "2020-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado Libre y Soberano de Chiapas, el miércoles 1 de febrero de 2017.
 
@@ -51,7 +51,9 @@ La presente Ley es de orden público y tiene por objeto reglamentar los artícul
 
 I. La Cuenta Pública del Estado y municipios.
 
-II. Las situaciones irregulares que se denuncien en términos de esta Ley, respecto al ejercicio fiscal en curso o a ejercicios anteriores distintos al de la Cuenta Pública en revisión.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+II. Las situaciones irregulares que se denuncien en términos de esta Ley, respecto al ejercicio fiscal en curso o a ejercicios anteriores distintos a los rubros y conceptos fiscalizados en la Cuenta Pública en revisión.
 
 III. La distribución, monto, oportunidad, variables, porcentajes y ajustes de las participaciones federales que se ministran a los Entes Públicos y su registro, control y ejercicio.
 
@@ -67,81 +69,101 @@ La fiscalización de la Cuenta Pública comprende:
 
 I. La fiscalización de la gestión financiera de las Entidades Fiscalizadas para comprobar el cumplimiento de lo dispuesto en la Ley de Ingresos y el Presupuesto de Egresos, y demás disposiciones legales aplicables, en cuanto a los ingresos y gastos públicos, así como la deuda pública, incluyendo la revisión del manejo, la custodia y la aplicación de recursos públicos federales, estatales y municipales, así como de la demás información financiera, contable, patrimonial, presupuestaria y programática que las Entidades Fiscalizadas deban incluir en dicho documento, conforme a las disposiciones aplicables.
 
-II. La práctica de auditorías sobre el desempeño para verificar el grado de cumplimiento de los objetivos de los programas estatales y municipales.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+II. La práctica de auditorías sobre el desempeño para verificar el grado de cumplimiento de los objetivos de los programas estatales y municipales, en los términos de esta Ley.
 
 ###### Artículo 3°.
 
 La fiscalización de la Cuenta Pública tiene el objeto establecido en esta Ley y se llevará a cabo conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 4°.
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Auditoría Superior del Estado: Al Órgano de Fiscalización Superior del Congreso del Estado a que se refiere el artículo 50 de la Constitución Política del Estado Libre y Soberano de Chiapas de Chiapas (sic).
+I. Auditoría Superior del Estado: Al Órgano de Fiscalización Superior del Congreso del Estado a que se refiere el artículo 50 de la Constitución Política del Estado Libre y Soberano de Chiapas.
 
 II. Auditorías: Al proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada.
 
-III. Autonomía de Gestión: A la facultad de la Auditoría Superior del Estado para decidir sobre su organización interna, estructura y funcionamiento, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución y esta Ley.
+III. Autonomía de gestión: A la facultad de la Auditoría Superior del Estado para decidir sobre su organización interna, estructura y funcionamiento, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución y esta Ley.
 
 IV. Autonomía técnica: A la facultad de la Auditoría Superior del Estado para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior.
 
-V. Congreso: Al Congreso del Estado.
+V. Avance Mensual de Cuenta Pública Municipal: Al que se refiere la Ley de Presupuesto, Contabilidad y Gasto Público Municipal.
 
-VI. Comisión: A la Comisión de Vigilancia del Congreso del Estado.
+VI. Congreso: Al Honorable Congreso del Estado de Chiapas.
 
-VII. Cuenta Pública: A la cuenta pública a que se refieren el artículo 45 fracción XX de la Constitución Política del Estado Libre y Soberano de Chiapas y los artículos 53 y 55 de la Ley General de Contabilidad Gubernamental.
+VII. Comisión: A la Comisión de Vigilancia del Congreso.
 
-VIII. Entes Públicos: A los Poderes Legislativo y Judicial del Estado, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, los municipios y sus dependencias y entidades, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados.
+VIII. Cuenta Pública: A la cuenta pública a que se refiere el artículo 45, fracción XX de la Constitución Política del Estado Libre y Soberano de Chiapas y los artículos 53 y 55 de la Ley General de Contabilidad Gubernamental.
 
-IX. Entidades Fiscalizadas: A los Entes Públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos federales, estatales o municipales, no obstante que sean o no considerados entidades paraestatales por la Ley de Entidades Paraestatales del Estado de Chiapas y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos federales, estatales o municipales.
+IX. Daño patrimonial: Toda pérdida o menoscabo estimable en dinero sufrido por la Hacienda Pública Estatal, Municipal o por sus Entes Públicos, ocasionada por un hecho ilícito o por el incumplimiento de una obligación.
 
-X. Faltas Administrativas Graves: A las señaladas en la legislación en materia de Responsabilidades Administrativas.
+X. Denuncia: Manifestación de hechos presuntamente irregulares que pudieran implicar daño o perjuicio a la Hacienda Pública Estatal o Municipal o al patrimonio de sus Entes Públicos.
 
-XI. Financiamiento y Otras Obligaciones: A toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los municipios y demás disposiciones jurídicas aplicables.
+XI. Entes Públicos: A los Poderes Ejecutivo, Legislativo y Judicial del Estado, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, los municipios y sus dependencias y entidades, así como cualquier otro ente que mantenga algún grado de subordinación con cualquiera de los poderes u órganos públicos citados.
 
-XII. Fiscalía: A la Fiscalía de Combate a la Corrupción dependiente de la Fiscalía General del Estado de Chiapas.
+XII. Entidades Fiscalizadas: A los Entes Públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos federales, estatales o municipales, no obstante que sean o no considerados entidades paraestatales por la Ley de Entidades Paraestatales del Estado de Chiapas y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos federales, estatales o municipales.
 
-XIII. Fiscalización superior: A la revisión que realiza el Órgano de Fiscalización Superior del Congreso del Estado, en los términos constitucionales y de esta Ley.
+XIII. Faltas administrativas graves: A las señaladas en la legislación en materia de Responsabilidades Administrativas.
 
-XIV. Gestión Financiera: A las acciones, tareas y procesos que, en la ejecución de los programas, realizan las Entidades Fiscalizadas para captar, recaudar u obtener recursos públicos conforme a la Ley de Ingresos y el presupuesto de egresos, así como las demás disposiciones aplicables, para administrar, manejar, custodiar, ejercer y aplicar los mismos y demás fondos, patrimonio y recursos, en términos del Presupuesto de Egresos y las demás disposiciones aplicables.
+XIV. Financiamiento y otras obligaciones: A toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones jurídicas aplicables.
 
-XV. Hacienda Pública Federal: Al conjunto de bienes y derechos de titularidad de la Federación.
+XV. Fiscalía: A la Fiscalía de Combate a la Corrupción dependiente de la Fiscalía General del Estado de Chiapas.
 
-XVI. Hacienda Pública Estatal: Al conjunto de bienes y derechos de titularidad del Estado.
+XVI. Fiscalización superior: A la facultad a cargo del Congreso, ejercida por la Auditoría Superior del Estado, para la revisión de la respectiva Cuenta Pública estatal y municipal, incluyendo el Informe Mensual de Cuenta Pública Municipal y de Avance de Gestión Financiera, a través de auditorías, visitas domiciliarias, requerimientos de documentación e información, compulsas, verificación, investigación, inspección, vigilancia, evaluación y las demás establecidas en esta Ley.
 
-XVII. Hacienda Pública Municipal: Al conjunto de bienes y derechos de titularidad de los municipios.
+XVII. Gestión financiera: A las acciones, tareas y procesos que, en la ejecución de los programas, realizan las Entidades Fiscalizadas para captar, recaudar u obtener recursos públicos conforme a la Ley de Ingresos y el presupuesto de egresos, así como las demás disposiciones aplicables, para administrar, manejar, custodiar, ejercer y aplicar los mismos y demás fondos, patrimonio y recursos, en términos del Presupuesto de Egresos y las demás disposiciones aplicables.
 
-XVIII. Informe de Avance de Gestión Financiera: Al informe, que como parte integrante de la cuenta pública, rinden los poderes del Estado, y los Entes Públicos estatales de manera consolidada, a través del ejecutivo estatal, así como el que rinden los ayuntamientos y sus Entes Públicos de manera consolidada, al Órgano de Fiscalización Superior del Congreso del Estado, sobre los avances físicos y financieros de los programas estatales y municipales aprobados, a fin de que esta fiscalice en forma simultánea o posterior a la conclusión de los procesos correspondientes, los ingresos y egresos; el manejo, la custodia y la aplicación de sus fondos y recursos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas.
+XVIII. Hacienda Pública Federal: Al conjunto de bienes y derechos de titularidad de la Federación.
 
-XIX. Informe General: Al Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública del Estado y sus municipios.
+XIX. Hacienda Pública Estatal: Al conjunto de bienes y derechos de titularidad del Estado.
 
-XX. Informe específico: Al informe derivado de denuncias a que se refiere el último párrafo de la fracción I del artículo 50 de la Constitución Política del Estado Libre y Soberano de Chiapas.
+XX. Hacienda Pública Municipal: Al conjunto de bienes y derechos de titularidad de los Municipios.
 
-XXI. Informes Individuales: A los informes de cada una de las auditorías practicadas a las Entidades Fiscalizadas.
+XXI. Informe de Avance de Gestión Financiera: Al informe que, como parte integrante de la Cuenta Pública, rinden los Entes Públicos Estatales de manera consolidada, a través del Ejecutivo Estatal, así como el que rinden los Ayuntamientos y sus dependencias y entidades de manera consolidada, a la Auditoría Superior del Estado, sobre los avances físicos y financieros de los programas estatales y municipales aprobados, a fin de que ésta fiscalice en forma simultánea o posterior a la conclusión de los procesos correspondientes, los ingresos y egresos, el manejo, la custodia y la aplicación de sus fondos y recursos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas.
 
-XXII. Ley de Ingresos: A la Ley de Ingresos del Estado y los municipios de Chiapas del ejercicio fiscal en revisión.
+XXII. Informe de Presunta Responsabilidad: Al instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las falta administrativa, (sic) exponiendo de forma documentada con los medios de prueba y fundamentos, los motivos y presunta responsabilidad del servidor público o de un particular en la comisión de faltas administrativas, estableciendo de forma exhaustiva y en todo momento las circunstancias de modo, tiempo y lugar.
 
-XXIII. Órgano Constitucional Autónomo: A los órganos establecidos en el Título Noveno de la Constitución Política del Estado Libre y Soberano de Chiapas.
+XXIII. Informe específico: Al informe derivado de denuncias a que se refiere el último párrafo de la fracción I del artículo 50 de la Constitución Política del Estado Libre y Soberano de Chiapas.
 
-XXIV. Órgano Interno de Control: A las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los Entes Públicos del Estado y municipios, así como de la investigación, substanciación y, en su caso, de sancionar las faltas administrativas que le competan en los términos previstos en la legislación en materia de Responsabilidades Administrativas.
+XXIV. Informe general: Al Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública del Estado y sus Municipios.
 
-XXV. Presupuesto de Egresos: Al Presupuesto de Egresos del Estado y los municipios de Chiapas del ejercicio fiscal correspondiente.
+XXV. Informes individuales: A los informes de cada una de las auditorías practicadas a las Entidades Fiscalizadas.
 
-XXVI. Procesos Concluidos: A cualquier acción que se haya realizado durante el año fiscal en curso que deba registrarse como pagado conforme a la Ley General de Contabilidad Gubernamental.
+XXVI. Informe semestral: Al informe que guarda la solventación de observaciones a las Entidades Fiscalizadas.
 
-XXVII. Programas: A los programas señalados en los Presupuestos de Egresos, con base en los cuales las Entidades Fiscalizadas realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público estatal y municipal.
+XXVII. Ley de Ingresos: A la Ley de Ingresos del Estado y los Municipios de Chiapas, correspondiente al ejercicio fiscal en revisión.
 
-XXVIII. Secretaría: A la Secretaría de Hacienda.
+XXVIII. Órgano Constitucional Autónomo: A los órganos establecidos en el Título Noveno de la Constitución Política del Estado Libre y Soberano de Chiapas.
 
-XXIX. Servidores Públicos: A los señalados en la Constitución Política del Estado Libre y Soberano de Chiapas y en la legislación en materia de Responsabilidades Administrativas.
+XXIX. Órgano interno de control: A las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los Entes Públicos del Estado y municipios, así como de la investigación, substanciación y, en su caso, de sancionar las faltas administrativas que le competan en los términos previstos en la legislación en materia de Responsabilidades Administrativas.
 
-XXX. Tribunal: Al Tribunal de Justicia Administrativa del Estado de Chiapas.
+XXX. Perjuicio patrimonial: Todo provecho, interés o fruto que deja de percibir la Hacienda Pública Estatal o Municipal o sus Entes Públicos, como consecuencia del incumplimiento de una obligación o de un acto ilícito.
 
-XXXI. Unidad de Medida y Actualización: Al valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes.
+XXXI. Presupuesto de Egresos: Al Presupuesto de Egresos del Estado y los Municipios de Chiapas del ejercicio fiscal correspondiente.
 
-Las definiciones previstas en los artículos 2° de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; 2° de la Ley de Disciplina Financiera de las Entidades Federativas y los municipios y 4° de la Ley General de Contabilidad Gubernamental, serán aplicables a la presente Ley.
+XXXII. Procesos concluidos: A cualquier acción que se haya realizado durante el año fiscal en curso que deba registrarse como pagada conforme a la Ley General de Contabilidad Gubernamental.
 
-Cuando en esta Ley se haga referencia a días hábiles, se entenderán comprendidos todos los días del año, excepto los sábados y domingos, el primero de enero, el primer lunes de febrero en conmemoración del cinco de febrero, el tercer lunes de marzo en conmemoración del veintiuno de marzo, el primero y cinco de mayo, el catorce y dieciséis de septiembre, el dos de noviembre y el tercer lunes de noviembre en conmemoración del veinte de noviembre, el veinticinco de diciembre, los días que se suspendan por la celebración de la Semana Santa y cada seis años los días que correspondan a la transmisión de los Poderes Ejecutivo Federal y Estatal, así como aquellos que mediante acuerdo del Auditor Superior del Estado se declaren como inhábiles. El acuerdo antes señalado, deberá ser publicado en el Periódico Oficial.
+XXXIII. Programas: A los programas señalados en el Presupuesto de Egresos, con base en los cuales las Entidades Fiscalizadas realizan sus actividades en cumplimiento de sus atribuciones.
+
+XXXIV. Recursos ministrados: A los recursos presupuestarios que la Secretaría de Hacienda entrega directamente a los Entes Públicos, con base en la programación del ejercicio especificado en los calendarios de ministración autorizados y/o publicados.
+
+XXXV. Secretaría: A la Secretaría de Hacienda.
+
+XXXVI. Servidores públicos: A los señalados en la Constitución Política del Estado Libre y Soberano de Chiapas y en la legislación en materia de Responsabilidades Administrativas.
+
+XXXVII. Tribunal: Al Tribunal Administrativo perteneciente al Poder Judicial del Estado de Chiapas.
+
+XXXVIII. Unidad de Medida y Actualización: Al valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes.
+
+Las definiciones previstas en los artículos 2 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los municipios y 4 de la Ley General de Contabilidad Gubernamental, serán aplicables a la presente Ley.
+
+Cuando en esta Ley se haga referencia a días hábiles, se entenderán comprendidos todos los días del año, excepto los sábados y domingos, el primero de enero, el primer lunes de febrero en conmemoración del cinco de febrero, el tercer lunes de marzo en conmemoración del veintiuno de marzo, el primero y cinco de mayo, el catorce y dieciséis de septiembre, el dos de noviembre y el tercer lunes de noviembre en conmemoración del veinte de noviembre, el veinticinco de diciembre, los días que se suspendan por la celebración de la Semana Santa y cada seis años los días que correspondan a la transmisión de los Poderes Ejecutivo Federal y Estatal, así como aquellos.
+
+Los días hábiles contemplados en el párrafo anterior comprenderán las horas entre las 08:00 y las 16:00 horas, las cuales se entenderán como horas hábiles.
 
 ###### Artículo 5°.
 
@@ -151,13 +173,51 @@ La información contenida en los Informes Generales, Informes Específicos e Inf
 
 La fiscalización de la Cuenta Pública que realiza la Auditoría Superior del Estado se lleva a cabo de manera posterior al término de cada ejercicio fiscal, una vez que el programa anual de auditoría esté aprobado y publicado en su página de Internet; tiene carácter externo y por lo tanto se efectúa de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen los Órganos Internos de Control.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 7°.
 
-A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente, la Ley Federal de Presupuesto y Responsabilidad Hacendaria; la Ley General de Contabilidad Gubernamental; la Ley de Disciplina Financiera de las Entidades Federativas y los municipios; la Ley de Coordinación Fiscal; la Ley General de Responsabilidades Administrativas; Ley General del Sistema Nacional Anticorrupción; la legislación en materia de responsabilidades de los servidores públicos en el Estado de Chiapas; la Ley del Sistema Anticorrupción del Estado de Chiapas; la Ley de Ingresos del Estado y de los municipios; el Código de la Hacienda Pública para el Estado de Chiapas; el Código Fiscal Municipal; la Ley de Presupuesto, Contabilidad y Gasto Público Municipal; la Ley de Procedimientos Administrativos para el Estado de Chiapas y el Presupuesto de Egresos del Estado y de los municipios, así como las disposiciones relativas del derecho común estatal, sustantivo y procesal, estos últimos en ese orden.
+A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente, la Ley Federal de Presupuesto y Responsabilidad Hacendaria; la Ley General de Contabilidad Gubernamental; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; la Ley de Coordinación Fiscal; la Ley General de Responsabilidades Administrativas; Ley General del Sistema Nacional Anticorrupción; la legislación en materia de responsabilidades administrativas; la Ley del Sistema Anticorrupción del Estado de Chiapas; la Ley de Ingresos del Estado y las de los Municipios; el Código de la Hacienda Pública para el Estado de Chiapas; el Código Fiscal Municipal; la Ley de Presupuesto, Contabilidad y Gasto Público Municipal; la Ley de Procedimientos Administrativos para el Estado de Chiapas y el Presupuesto de Egresos del Estado y los Municipios, así como las disposiciones relativas del derecho común estatal, sustantivo y procesal, estos últimos en ese orden.
 
 ###### Artículo 8°.
 
 La Auditoría Superior del Estado deberá emitir los criterios relativos a la ejecución de auditorías, mismos que deberán sujetarse a las disposiciones establecidas en la presente Ley y publicarse en el Periódico Oficial.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2020)</small>
+
+###### Artículo 8 Bis.
+
+La Auditoría Superior del Estado tendrá las siguientes atribuciones:
+
+I. Establecer los lineamientos técnicos y criterios para las auditorías y su seguimiento, procedimientos, investigaciones, encuestas, métodos y sistemas necesarios para la fiscalización superior.
+
+II. Proponer, en los términos de la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables, las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías.
+
+III. Proponer al Consejo Nacional de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental, modificaciones a la forma y contenido de la información de la Cuenta Pública y a los formatos de integración correspondientes.
+
+IV. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o presunta conducta ilícita, o comisión de faltas administrativas, en los términos establecidos en esta Ley y en la legislación en materia de responsabilidades administrativas.
+
+V. Promover las acciones para sancionar las responsabilidades administrativas, para lo cual la unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado, presentará el informe de presunta responsabilidad administrativa correspondiente, ante la autoridad substanciadora de la misma Auditoría Superior del Estado, para que ésta, de considerarlo procedente, realice la acusación respectiva y turne el expediente ante el Tribunal.
+
+VI. Dar vista a los órganos internos de control competentes, cuando detecte posibles responsabilidades no graves para la investigación respectiva y, en su caso, promuevan la imposición de las sanciones que procedan.
+
+VII. Promover y dar seguimiento ante las autoridades competentes, la imposición de las sanciones que correspondan tanto a los servidores públicos estatales o municipales; así como a los particulares, a que se refiere el Título Décimo de la Constitución Política del Estado Libre y Soberano de Chiapas y presentar denuncias y querellas en materia penal.
+
+VIII. Recurrir, a través de la unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado, las determinaciones del Tribunal y de la Fiscalía, en términos de las disposiciones legales aplicables.
+
+IX. Conocer y resolver sobre el recurso de reconsideración en contra de las multas que imponga.
+
+X. Participar en los Sistemas Nacional y Estatal Anticorrupción, así como en sus comités coordinadores, en términos de lo dispuesto por el artículo 113, fracción III de la Constitución Política de los Estados Unidos Mexicanos y de las leyes general y estatal en la materia, así como celebrar convenios con organismos cuyas funciones sean acordes o guarden relación con sus atribuciones y participar en foros nacionales e internacionales.
+
+XI. Establecer y emitir los lineamientos a que se refiere la Ley de Entrega Recepción de los Ayuntamientos del Estado de Chiapas y vigilar que éstos cumplan oportunamente con el procedimiento obligatorio previsto en dicho ordenamiento legal, y en su caso promover ante las autoridades competentes el fincamiento de responsabilidades.
+
+XII. Convocar a los servidores públicos municipales a efecto de que una vez llevada a cabo la transmisión y el mando gubernamental, acudan a la Auditoría Superior del Estado a registrar su firma, en un plazo no mayor a treinta días naturales, de conformidad con los lineamientos que para tales efectos emita. El Ayuntamiento deberá informar a la Auditoría Superior del Estado, los cambios de servidores públicos durante el periodo del ejercicio constitucional que les correspondan, en un término de diez días hábiles siguientes a la toma de posesión de los mismos, con la finalidad de actualizar el registro de firmas.
+
+XIII. Fomentar una política de integridad que tenga por objeto promover la honestidad, la ética y el ejercicio profesional de las atribuciones de los servidores públicos adscritos a la misma, así como de los entes fiscalizados.
+
+XIV. Establecer con las Entidades Fiscalizadas los mecanismos institucionales de coordinación que resulten necesarios, para el fortalecimiento de las acciones de control interno, prevención y corrección de sus órganos internos de control.
+
+XV. Las demás atribuciones que establezca esta Ley y las disposiciones jurídicas en materia de fiscalización de la Cuenta Pública.
 
 ###### Artículo 9°.
 
@@ -171,11 +231,15 @@ Cuando esta Ley no prevea plazo, la Auditoría Superior del Estado podrá fijarl
 
 Cuando derivado de la complejidad de los requerimientos de información formulados por la Auditoría Superior del Estado, las Entidades Fiscalizadas podrán solicitar por escrito fundado, un plazo mayor para atenderlo; la Auditoría Superior del Estado determinará si lo concede sin que pueda prorrogarse de modo alguno.
 
-Las personas a que se refiere este artículo deberán acompañar a la información solicitada, los anexos, estudios soporte, memorias de cálculo y demás documentación soporte relacionada con la solicitud.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+La información solicitada deberá acompañarse de los anexos, estudios soporte, memorias de cálculo y demás documentación soporte relacionada con la solicitud, en original y/o copias certificadas, mismas que también deberán presentar en archivos magnéticos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 10.
 
-La Auditoría Superior del Estado podrá imponer multas, conforme a lo siguiente:
+La Auditoría Superior del Estado a través de sus áreas competentes, podrá imponer multas, conforme a lo siguiente:
 
 I. Cuando los Servidores Públicos y las personas físicas no atiendan los requerimientos a que refiere el artículo precedente, salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad, la Auditoría Superior del Estado podrá imponerles una multa mínima de ciento cincuenta a una máxima de dos mil veces el valor diario de la Unidad de Medida y Actualización.
 
@@ -195,27 +259,55 @@ La negativa a entregar información a la Auditoría Superior del Estado, así co
 
 Cuando los Servidores Públicos y las personas físicas y morales, públicas o privadas aporten información falsa, serán sancionados penalmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 12.
 
-El contenido del Informe de Avance de Gestión Financiera se referirá a los programas a cargo de los poderes del Estado y los Entes Públicos, para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados y contendrá:
+El contenido del Informe de Avance de Gestión Financiera se referirá a los programas a cargo de los Entes Públicos, para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados y contendrá:
 
 I. El flujo contable de ingresos y egresos al 30 de junio del año en que se ejerza el Presupuesto de Egresos.
 
 II. El avance del cumplimiento de los programas con base en los indicadores aprobados en los Presupuestos de Egresos.
 
-Lo anterior, sin perjuicio de lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+Lo anterior, sin perjuicio de lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el Código de la Hacienda Pública para el Estado de Chiapas y la Ley de Presupuesto, Contabilidad y Gasto Público Municipal.
 
 El Informe de Avance de Gestión Financiera deberá presentarse ante la Auditoría Superior del Estado a más tardar el día 31 de agosto del año en que se ejerza el presupuesto.
 
 La Auditoría Superior del Estado realizará un análisis del Informe de Avance de Gestión Financiera 30 días hábiles posteriores a la fecha de su presentación y lo entregará a la Comisión.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2020)</small>
+
+###### Artículo 12 Bis.
+
+Los Ayuntamientos deberán remitir a la Auditoría Superior del Estado, los avances mensuales de la Cuenta Pública, en los términos que establece la Ley de Presupuesto, Contabilidad y Gasto Público Municipal.
+
+En caso de incumplimiento le será requerido, para que en un término no mayor de cinco días hábiles improrrogables siguientes a su notificación, presente el avance mensual, en caso contrario se aplicarán las multas establecidas en el artículo 10 de esta Ley; con independencia de las sanciones administrativas y penales que en los términos de las leyes en dichas materias resulten aplicables.
+
 ## Título Segundo. De la Fiscalización de las Cuentas Públicas
 
 ### Capítulo I. De la Fiscalización de las Cuentas Públicas
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 13.
 
-Las Cuentas Públicas del Estado y municipios serán presentadas a más tardar el día treinta del mes de abril del año siguiente al del ejercicio.
+Las cuentas públicas del Estado y municipios serán presentadas a más tardar el día treinta del mes de abril del año siguiente al del ejercicio de que se trate.
+
+El plazo de presentación de la cuenta pública solo podrá ampliarse cuando medie solicitud del Ejecutivo suficientemente justificada a juicio del Congreso o de la Comisión Permanente, debiendo comparecer en todo caso el Secretario del ramo correspondiente a informar de las razones que lo motiven. En ningún caso la prórroga excederá de treinta días más.
+
+En caso de que de que (sic) el secretario del ramo o el Ayuntamiento respectivo no presenten la Cuenta Pública anual, en el plazo legal previsto y no medie autorización de prorroga o, vencida esta, la Auditoría Superior del Estado procederá conforme a lo dispuesto por artículos 9 y 10 de esta Ley.
+
+Tratándose de Ayuntamientos, la multa determinada se impondrá a cada uno de sus integrantes. No obstante lo anterior, cuando existan causas debidamente probadas de que la omisión de rendir cuentas no es atribuible a los Regidores, se les eximirá de la sanción.
+
+Asimismo, si la omisión en la rendición de cuentas es atribuible al Tesorero Municipal por la falta de integración de los informes a que este artículo se refiere, le será aplicada también la multa respectiva.
+
+Lo anterior con independencia de que la Auditoría Superior del Estado, promueva ante las autoridades competentes el fincamiento de responsabilidades en términos de la ley en materia de responsabilidades administrativas.
+
+La imposición de las sanciones no exime de la obligación de presentar la Cuenta Pública anual.
+
+La omisión en la presentación de las cuentas públicas, con independencia de las acciones legales que procedan en términos del artículo 10 de la presente ley, no impide el ejercicio de las facultades de revisión y fiscalización, por lo que las observaciones o recomendaciones que, en su caso realice la Auditoría Superior del Estado, podrán referirse al total de los recursos públicos percibidos y/o a la información presentada en los avances mensuales de Cuenta Pública.
 
 ###### Artículo 14.
 
@@ -261,37 +353,33 @@ II. Recomendaciones.
 
 La Mesa Directiva del Congreso turnará, a más tardar en dos días hábiles, contados a partir de su recepción, la Cuenta Pública a la Comisión. Esta Comisión tendrá el mismo plazo para turnarla a la Auditoría Superior del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 17.
 
 Para la fiscalización de la Cuenta Pública, la Auditoría Superior del Estado tendrá las atribuciones siguientes:
 
-I. Realizar, conforme al programa anual de auditorías aprobado, las auditorías e investigaciones. Para la práctica de auditorías, la Auditoría Superior del Estado podrá solicitar información y documentación durante el desarrollo de las mismas.
+I. Realizar, conforme al programa anual de auditorías aprobado, las auditorías e investigaciones. Para la práctica de auditorías, podrá solicitar información y documentación durante el desarrollo de las mismas.
 
 La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública. Una vez que le sea entregada la Cuenta Pública, podrá realizar las modificaciones al programa anual de las auditorías que se requieran y lo hará del conocimiento de la Comisión.
 
-II. Establecer los lineamientos técnicos y criterios para las auditorías y su seguimiento, procedimientos, investigaciones, encuestas, métodos y sistemas necesarios para la fiscalización superior.
+II. Practicar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales, conforme a los indicadores establecidos en los Presupuestos de Egresos y tomando en cuenta el Plan Estatal y Municipal de Desarrollo, los programas sectoriales, regionales, operativos anuales, y demás programas de las Entidades Fiscalizadas, entre otros, a efecto de verificar el desempeño de los mismos y, en su caso, el uso de recursos públicos.
 
-III. Proponer, en los términos de la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables, las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías.
+III. Verificar que las Entidades Fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; y con apego a las disposiciones legales, reglamentarias y administrativas aplicables.
 
-IV. Proponer al Consejo Nacional de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental, modificaciones a la forma y contenido de la información de la Cuenta Pública y a los formatos de integración correspondientes.
+IV. Verificar que las operaciones que realicen las Entidades Fiscalizadas sean acordes con la Ley de Ingresos y el Presupuesto de Egresos y se efectúen con apego a las disposiciones respectivas del Código Fiscal de la Federación y leyes fiscales sustantivas; la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Orgánica del Congreso, la Ley Orgánica de la Administración Pública del Estado, Código de Organización del Poder Judicial del Estado; la Ley de Asociaciones Público Privadas, y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, las correspondientes a obras públicas y adquisiciones del Estado, y demás disposiciones legales, reglamentarias y administrativas aplicables a estas materias.
 
-V. Practicar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales, conforme a los indicadores establecidos en los Presupuestos de Egresos y tomando en cuenta el Plan Estatal y Municipal de Desarrollo, los programas sectoriales, regionales, operativos anuales, y demás programas de las Entidades Fiscalizadas, entre otros, a efecto de verificar el desempeño de los mismos y, en su caso, el uso de recursos públicos.
+V. Verificar las obras, bienes adquiridos y servicios contratados por las Entidades Fiscalizadas para comprobar si los recursos de las inversiones y los gastos autorizados se ejercieron en los términos de las disposiciones aplicables.
 
-VI. Verificar que las Entidades Fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; además, con apego a las disposiciones legales, reglamentarias y administrativas aplicables.
+VI. Requerir a los auditores externos copia de todos los informes y dictámenes de las auditorías y revisiones por ellos practicadas a las Entidades Fiscalizadas y de ser requerido, el soporte documental.
 
-VII. Verificar que las operaciones que realicen las Entidades Fiscalizadas sean acordes con la Ley de Ingresos y el Presupuesto de Egresos y se efectúen con apego a las disposiciones respectivas del Código Fiscal de la Federación y leyes fiscales sustantivas; la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Orgánica del Congreso, la Ley Orgánica de la Administración Pública del Estado, Código de Organización del Poder Judicial del Estado; la Ley de Asociaciones Público Privadas, y la Ley de Disciplina Financiera de las Entidades Federativas y los municipios, las correspondientes a obras públicas y adquisiciones del estado, y demás disposiciones legales, reglamentarias y administrativas aplicables a estas materias.
+VII. Requerir a terceros que hubieran contratado con las Entidades Fiscalizadas obra pública, bienes o servicios mediante cualquier título legal y a cualquier entidad o persona física o moral, pública o privada, o aquellas que hayan sido subcontratados por terceros, la información relacionada con la documentación del ejercicio de recursos públicos, a efecto de realizar las compulsas correspondientes.
 
-VIII. Verificar obras, bienes adquiridos y servicios contratados por las Entidades Fiscalizadas para comprobar si los recursos de las inversiones y los gastos autorizados a las Entidades Fiscalizadas se ejercieron en los términos de las disposiciones aplicables.
-
-IX. Requerir a los auditores externos copia de todos los informes y dictámenes de las auditorías y revisiones por ellos practicadas a las Entidades Fiscalizadas y de ser requerido, el soporte documental.
-
-X. Requerir a terceros que hubieran contratado con las Entidades Fiscalizadas obra pública, bienes o servicios mediante cualquier título legal y a cualquier entidad o persona física o moral, pública o privada, o aquellas que hayan sido subcontratados por terceros, la información relacionada con la documentación del ejercicio de recursos públicos a efecto de realizar las compulsas correspondientes.
-
-XI. Solicitar, obtener y tener acceso a toda la información y documentación, que a juicio de la Auditoría Superior del Estado sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
+VIII. Solicitar y obtener acceso a toda la información y documentación, que sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
 
 a) Las Entidades Fiscalizadas.
 
-b) Los Órganos Internos de Control.
+b) Los órganos internos de control.
 
 c) Los auditores externos de las Entidades Fiscalizadas.
 
@@ -303,53 +391,37 @@ La Auditoría Superior del Estado tendrá acceso a la información que las dispo
 
 Cuando derivado de la práctica de auditorías se entregue a la Auditoría Superior del Estado información de carácter reservado o confidencial, ésta deberá garantizar que no se incorpore en los resultados, observaciones, recomendaciones y acciones de los informes de auditoría respectivos, información o datos que tengan esta característica en términos de la legislación aplicable. Dicha información será conservada por la Auditoría Superior del Estado en sus documentos de trabajo y sólo podrá ser revelada a la autoridad competente, en términos de las disposiciones aplicables.
 
-El incumplimiento a lo dispuesto en esta fracción será motivo del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes.
+El incumplimiento a lo dispuesto en esta fracción será motivo del fincamiento de responsabilidades administrativas y penales establecidas en las leyes correspondientes.
 
-XII. Fiscalizar los recursos públicos que la Federación, el Estado o los municipios hayan otorgado entre sí o a fideicomisos, fondos, mandatos o, cualquier otra figura análoga, personas físicas o morales, públicas o privadas, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado.
+IX. Fiscalizar los recursos públicos que la Federación, el Estado o los Municipios hayan otorgado entre sí o a fideicomisos, fondos, mandatos o, cualquier otra figura análoga, personas físicas o morales, públicas o privadas, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado.
 
-XIII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o presunta conducta ilícita, o comisión de faltas administrativas, en los términos establecidos en esta Ley y en la legislación en materia de Responsabilidades Administrativas.
+X. Efectuar visitas domiciliarias, únicamente para exigir la exhibición de los libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos, así como realizar entrevistas y reuniones con particulares o con los servidores públicos de las Entidades Fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones.
 
-XIV. Efectuar visitas domiciliarias, únicamente para exigir la exhibición de los libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos, así como realizar entrevistas y reuniones con particulares o con los servidores públicos de las Entidades Fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones.
+XI. Formular recomendaciones, solicitudes de aclaración, pliegos de observaciones, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa, informes de presunta responsabilidad administrativa, denuncias de hechos y denuncias de juicio político.
 
-XV. Formular recomendaciones, solicitudes de aclaración, pliegos de observaciones, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, informes de presunta responsabilidad administrativa, denuncias de hechos y denuncias de juicio político.
+XII. Solicitar a las Entidades Fiscalizadas información del ejercicio en curso, respecto de Procesos Concluidos, para la planeación de la fiscalización de la Cuenta Pública. Lo anterior sin perjuicio de la revisión y fiscalización que la Auditoría Superior del Estado lleve a cabo conforme a lo contenido en la fracción II del artículo 1 de esta Ley.
 
-XVI. Promover las responsabilidades administrativas, para lo cual la Unidad Administrativa a cargo de las investigaciones de la Auditoría Superior del Estado presentará el informe de presunta responsabilidad administrativa correspondiente, ante la autoridad substanciadora de la misma Auditoría Superior del Estado, para que ésta, de considerarlo procedente, turne y presente el expediente, ante el Tribunal.
+XIII. Obtener durante el desarrollo de las auditorías e investigaciones, copia de los documentos originales que se tengan a la vista, y certificarlas mediante cotejo con sus originales, así como solicitar la documentación en copias certificadas.
 
-Cuando detecte posibles responsabilidades no graves dará vista a los Órganos Internos de Control competentes, para que continúen la investigación respectiva y, en su caso, promuevan la imposición de las sanciones que procedan.
+XIV. Expedir certificaciones de los documentos que obren en sus archivos.
 
-XVII. Promover y dar seguimiento ante las autoridades competentes para la imposición de las sanciones que correspondan a los servidores públicos estatales o municipales; y los particulares, a las que se refiere el Título Décimo de la Constitución Política del Estado Libre y Soberano de Chiapas y presentar denuncias y querellas penales.
+XV. Solicitar la comparecencia de las personas que se considere, en los casos concretos que así se determine en esta Ley.
 
-XVIII. Recurrir, a través de la unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado, las determinaciones del Tribunal y de la Fiscalía, en términos de las disposiciones legales aplicables.
+XVI. Comprobar la existencia, procedencia y registro de los activos y pasivos de las Entidades Fiscalizadas, de los fideicomisos, fondos y mandatos o cualquier otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de la Cuenta Pública.
 
-XIX. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de las multas que imponga.
+XVII. Fiscalizar el financiamiento público en los términos establecidos en esta Ley así como en las demás disposiciones aplicables.
 
-XX. Participar en los Sistemas Nacional y Estatal Anticorrupción así como en sus Comités Coordinadores, en los términos de lo dispuesto por el artículo 113 fracción III de la Constitución Política de los Estados Unidos Mexicanos y de la ley general y estatal de la materia, así como celebrar convenios con organismos cuyas funciones sean acordes o guarden relación con sus atribuciones y participar en foros nacionales e internacionales.
+XVIII. Solicitar la información financiera, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que los Entes Públicos están obligados a operar con el propósito de consultar la información contenida en los mismos.
 
-XXI. Podrá solicitar a las Entidades Fiscalizadas información del ejercicio en curso, respecto de Procesos Concluidos, para la planeación de la fiscalización de la Cuenta Pública. Lo anterior sin perjuicio de la revisión y fiscalización que la Auditoría Superior del Estado lleve a cabo conforme a lo contenido en la fracción II del artículo 1° de esta Ley.
+XIX. Imponer las multas correspondientes por incumplimiento a sus requerimientos de información y documentación, así como condonarlas total o parcialmente cuando proceda y atendiendo las circunstancias de cada caso, únicamente respecto a multas que hayan quedado firmes.
 
-XXII. Obtener durante el desarrollo de las auditorías e investigaciones copia de los documentos originales que se tengan a la vista, y certificarlas mediante cotejo con sus originales así como también poder solicitar la documentación en copias certificadas.
+XX. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento para la fiscalización de la Cuenta Pública.
 
-XXIII. Expedir certificaciones de los documentos que obren en los archivos de la Auditoría Superior del Estado.
-
-XXIV. Solicitar la comparecencia de las personas que se considere, en los casos concretos que así se determine en esta Ley.
-
-XXV. Comprobar la existencia, procedencia y registro de los activos y pasivos de las Entidades Fiscalizadas, de los fideicomisos, fondos y mandatos o cualquier otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de la Cuenta Pública.
-
-XXVI. Fiscalizar el financiamiento público en los términos establecidos en esta Ley así como en las demás disposiciones aplicables.
-
-XXVII. Solicitar la información financiera, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que los Entes Públicos están obligados a operar con el propósito de consultar la información contenida en los mismos.
-
-XXVIII. Establecer y emitir los lineamientos a que se refiere la Ley de Entrega Recepción de los Ayuntamientos del Estado de Chiapas y vigilar que éstos cumplan oportunamente con el procedimiento obligatorio previsto en dicho ordenamiento legal, y en su caso promover ante las autoridades competentes el fincamiento de responsabilidades.
-
-XXIX. Convocar a los servidores públicos municipales para que una vez llevada a cabo la transmisión del mando gubernamental, acudan a la Auditoría Superior del Estado a registrar su firma. Los cambios de funcionarios durante el período del ejercicio constitucional serán informados a la Auditoría Superior del Estado con la finalidad de actualizar dicho registro.
-
-XXX. Imponer las multas correspondientes por incumplimiento a sus requerimientos de información y documentación, así como condonarlas total o parcialmente cuando ello proceda y atendiendo las circunstancias de cada caso, lo que procederá únicamente respecto de multas que hayan quedado firmes.
-
-XXXI. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento para la fiscalización de la Cuenta Pública.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 18.
 
-Durante la práctica de auditorías, la Auditoría Superior del Estado podrá convocar a las Entidades Fiscalizadas a las reuniones de trabajo, para la revisión de los resultados preliminares.
+Durante la práctica de auditorías, la Auditoría Superior del Estado podrá convocar a las Entidades Fiscalizadas a reuniones de trabajo para la revisión de los resultados preliminares y/o para las demás del ejercicio de sus funciones.
 
 ###### Artículo 19.
 
@@ -359,7 +431,9 @@ La Auditoría Superior del Estado podrá grabar en audio o video, cualquiera de 
 
 La Auditoría Superior del Estado, de manera previa a la fecha de presentación de los Informes individuales, dará a conocer a las Entidades Fiscalizadas la parte que les corresponda de los resultados finales de las Auditorías y las observaciones preliminares que se deriven de la revisión de la Cuenta Pública, a efecto de que dichas entidades presenten las justificaciones y aclaraciones que correspondan.
 
-A las reuniones en las que se dé a conocer a las Entidades Fiscalizadas la parte que les corresponda de los resultados y observaciones preliminares que se deriven de la revisión de la Cuenta Pública, se les citará por lo menos con cinco días hábiles de anticipación remitiendo con la misma anticipación a las Entidades Fiscalizadas los resultados y las observaciones preliminares de las Auditorías practicadas. En dichas reuniones las Entidades Fiscalizadas podrán presentar las justificaciones y aclaraciones que estimen pertinentes y la documentación soporte, mismas que deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los Informes individuales.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+A las reuniones en las que se dé a conocer a las Entidades Fiscalizadas los resultados finales y observaciones preliminares que se deriven de la revisión de la Cuenta Pública, se les citará por lo menos con cinco días hábiles de anticipación, remitiendo con la misma anticipación a las Entidades Fiscalizadas los resultados finales y las observaciones preliminares de las Auditorías practicadas. En dichas reuniones las Entidades Fiscalizadas podrán presentar las justificaciones y aclaraciones que estimen pertinentes y la documentación soporte, mismas que deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los Informes individuales.
 
 Una vez que la Auditoría Superior del Estado valore las justificaciones, aclaraciones y demás información a que hacen referencia los párrafos anteriores, podrá determinar la procedencia de eliminar, rectificar o ratificar los resultados y las observaciones preliminares que les dio a conocer a las Entidades Fiscalizadas, para efectos de la elaboración definitiva de los Informes individuales.
 
@@ -367,7 +441,7 @@ En caso de que la Auditoría Superior del Estado considere que las Entidades Fis
 
 ###### Artículo 21.
 
-Lo previsto en los artículos anteriores, se realizará sin perjuicio de que la Auditoría Superior del Estado convoque a las reuniones de trabajo que estime necesarias durante las auditorías correspondientes, para la revisión de los resultados preliminares.
+(DEROGADO, P.O. 4 DE MAYO DE 2020)
 
 ###### Artículo 22.
 
@@ -377,9 +451,11 @@ La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuíst
 
 La Auditoría Superior del Estado tendrá acceso a contratos, convenios, documentos, datos, libros, archivos y documentación justificativa y comprobatoria relativa al ingreso, gasto público y cumplimiento de los objetivos de los programas de los Entes Públicos, así como a la demás información que resulte necesaria para la revisión y fiscalización de la Cuenta Pública siempre que al solicitarla se expresen los fines a que se destine dicha información.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 24.
 
-Los Órganos Internos de Control deberán colaborar con la Auditoría Superior del Estado en lo que concierne a la revisión de la Cuenta Pública, debiendo establecer una coordinación entre ambos a fin de garantizar el debido intercambio de información que al efecto se requiera, y otorgar las facilidades que permitan a los auditores llevar a cabo el ejercicio de sus funciones. Asimismo, deberán proporcionar la documentación que les solicite la Auditoría Superior del Estado sobre los resultados de la fiscalización que realicen o cualquier otra que se les requiera, para realizar la auditoría correspondiente.
+Los órganos internos de control deberán colaborar con la Auditoría Superior del Estado en lo que concierne al fortalecimiento de las acciones de control interno, prevención y corrección, así como en la revisión de la Cuenta Pública, debiendo establecer una coordinación entre ambos a fin de garantizar el debido intercambio de información que al efecto se requiera, y otorgar las facilidades que permitan a los auditores llevar a cabo el ejercicio de sus funciones, estando obligados a mantener la reserva o confidencialidad, en términos de las disposiciones aplicables. Asimismo, deberán proporcionar la documentación que les solicite la Auditoría Superior del Estado sobre los resultados de la fiscalización que realicen o cualquier otra que se les requiera, para realizar la auditoría correspondiente.
 
 ###### Artículo 25.
 
@@ -431,29 +507,35 @@ A solicitud de la Comisión o de la mesa directiva del Congreso, el Auditor Supe
 
 Lo anterior, sin que se entienda para todos los efectos legales como una modificación al Informe General.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 34.
 
 El Informe General contendrá como mínimo:
 
-I. Un resumen de las auditorías realizadas y las observaciones realizadas.
+I. El fundamento legal de las atribuciones de la Auditoría Superior del Estado.
 
-II. Las áreas claves con riesgo identificadas en la fiscalización.
+II. Un resumen de las auditorías realizadas y las observaciones realizadas.
 
-III. Un resumen de los resultados de la fiscalización del gasto federalizado, participaciones federales, recursos locales y la evaluación de la deuda fiscalizable.
+III. La descripción de la muestra del Gasto Público auditado, señalando la proporción respecto del ejercicio de los Poderes del Estado, la Administración Pública Estatal, el gasto y el ejercido por órganos constitucionales autónomos, municipales y paramunicipales.
 
-IV. La descripción de la muestra del gasto público auditado, señalando la proporción respecto del ejercicio de los poderes del Estado, la Administración Pública Estatal, el gasto y el ejercido por órganos constitucionales autónomos.
+IV. Un resumen de los resultados de la fiscalización del gasto federalizado, participaciones federales, recursos locales y la evaluación de la deuda fiscalizable.
 
-V. Derivado de las Auditorías, en su caso y dependiendo de la relevancia de las observaciones, un apartado donde se incluyan sugerencias al Congreso para modificar disposiciones legales a fin de mejorar la gestión financiera y el desempeño de las Entidades Fiscalizadas.
+V. Las áreas claves con riesgo identificadas en la fiscalización.
 
-VI. Un apartado que contenga un análisis sobre las proyecciones de las finanzas públicas contenidas en los Criterios Generales de Política Económica para el ejercicio fiscal correspondiente y los datos observados al final del mismo.
+VI. Derivado de las Auditorías, en su caso y dependiendo de la relevancia de las observaciones, un apartado en el que se incluyan sugerencias al Congreso para modificar disposiciones legales a fin de mejorar la gestión financiera y el desempeño de las Entidades Fiscalizadas.
 
-VII. La demás información que se considere necesaria.
+VII. Un apartado que contenga un análisis de las finanzas públicas del Estado, para el ejercicio fiscal correspondiente.
+
+VIII. La demás información que se considere necesaria.
 
 ### Capítulo III. De los Informes Individuales
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 35.
 
-Los Informes Individuales de auditoría que concluyan durante el periodo respectivo deberán ser entregados al congreso, por conducto de la Comisión, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública.
+Los Informes Individuales de auditoría que concluyan durante el periodo respectivo deberán ser entregados al Congreso, por conducto de la Comisión, el último día hábil de los meses de junio y octubre, y a más tardar el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública.
 
 ###### Artículo 36.
 
@@ -483,7 +565,9 @@ La Auditoría Superior del Estado dará cuenta al Congreso en los Informes Indiv
 
 La Auditoría Superior del Estado informará al Congreso, por conducto de la Comisión, del Estado que guarda la solventación de observaciones a las Entidades Fiscalizadas, respecto a cada uno de los Informes Individuales que se deriven de las funciones de fiscalización.
 
-Para tal efecto, el reporte a que se refiere este artículo será semestral y deberá ser presentado a más tardar los días primero de los meses de mayo y noviembre de cada año, con los datos disponibles al cierre del primer y tercer trimestres del año, respectivamente.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+Para tal efecto, el informe a que se refiere este artículo será semestral y deberá ser presentado a más tardar el primer día de los meses de mayo y noviembre de cada año, con los datos disponibles al cierre del primer y tercer trimestres del año, respectivamente.
 
 El informe semestral incluirá invariablemente los montos efectivamente resarcidos a la Hacienda Pública Federal, Estatal o Municipal o al patrimonio de los Entes Públicos, derivados de la fiscalización de la Cuenta Pública y en un apartado especial, la atención a las recomendaciones, así como el estado que guarden las denuncias penales presentadas y los procedimientos de responsabilidad administrativa promovidos en términos de la legislación en materia de Responsabilidades Administrativas y esta Ley. Asimismo deberá publicarse en la página de Internet de la Auditoría Superior del Estado en la misma fecha en que sea presentado en formato de datos abiertos conforme a lo establecido en las Leyes de Transparencia y Acceso a la Información Pública y se mantendrá de manera permanente en la página en Internet.
 
@@ -495,11 +579,15 @@ En cuanto a las denuncias penales formuladas ante la Fiscalía o las autoridades
 
 ### Capítulo IV. De las Acciones y Recomendaciones derivadas de la Fiscalización
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 39.
 
-El Titular de la Auditoría Superior del Estado enviará a las Entidades Fiscalizadas, dentro de un plazo de 10 días hábiles siguientes a que haya sido entregado al Congreso, el informe individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de 30 días hábiles, presenten la información y realicen las consideraciones pertinentes.
+El Titular de la Auditoría Superior del Estado enviará a las Entidades Fiscalizadas, dentro de un plazo de diez días hábiles siguientes a que haya sido entregado al Congreso, el informe individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de treinta días hábiles, presenten la información y realicen las consideraciones pertinentes.
 
-Con la notificación del informe individual a las Entidades Fiscalizadas quedarán formalmente promovidas y notificadas las acciones y recomendaciones contenidas en dicho informe, salvo en los casos del informe de presunta responsabilidad administrativa y de las denuncias penales y de juicio político, los cuales se notificarán a los presuntos responsables en los términos de las leyes que rigen los procedimientos respectivos.
+Cuando durante el proceso de solventación las Entidades Fiscalizadas opten por reintegrar los montos observados, deberán hacerlo a través de la Secretaría del ramo, los montos se actualizarán para efectos de su pago, en la forma y términos que establece el Código de la Hacienda Pública para el Estado de Chiapas o la Ley de Hacienda Municipal, en tratándose de contribuciones y aprovechamientos.
+
+Con la notificación del informe individual a las Entidades Fiscalizadas quedarán formalmente promovidas y notificadas las acciones y recomendaciones contenidas en dicho informe, salvo en los casos del informe de presunta responsabilidad administrativa y de las denuncias penales o de juicio político, los cuales se notificarán a los presuntos responsables en los términos de las leyes que rigen los procedimientos respectivos.
 
 ###### Artículo 40.
 
@@ -511,31 +599,41 @@ II. Tratándose de los pliegos de observaciones, determinará en cantidad líqui
 
 III. Mediante las promociones del ejercicio de la facultad de comprobación fiscal, informará a la autoridad competente sobre un posible incumplimiento de carácter fiscal detectado en el ejercicio de sus facultades de fiscalización.
 
-IV. A través del informe de presunta responsabilidad administrativa, la Auditoría Superior del Estado promoverá ante el Tribunal, en los términos de las Leyes de Responsabilidades Administrativas, la imposición de sanciones a los Servidores Públicos por las Faltas Administrativas Graves que conozca derivado de sus auditorías, así como sanciones a los particulares vinculados con dichas faltas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MAYO DE 2020)</small>
+
+IV. A través del informe de presunta responsabilidad administrativa, la Auditoría Superior del Estado promoverá ante el Tribunal, en los términos de las leyes en materia de responsabilidades administrativas, la imposición de sanciones a los Servidores Públicos por las Faltas Administrativas Graves que conozca derivado de sus auditorías o denuncias y demás actos de fiscalización, así como sanciones a los particulares vinculados con dichas faltas.
 
 En caso de que la Auditoría Superior del Estado determine la existencia de daños o perjuicios, o ambos, a la Hacienda Pública Federal, Estatal o Municipal o al patrimonio de los Entes Públicos, que deriven de faltas administrativas no graves, procederá en los términos de la legislación en materia de Responsabilidades Administrativas.
 
-V. Por medio de las promociones de responsabilidad administrativa, dará vista a los Órganos Internos de Control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la legislación en materia de Responsabilidades Administrativas.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+V. Por medio de las promociones de responsabilidad administrativa, dará vista a los órganos internos de control cuando detecte posibles responsabilidades administrativas no graves, para la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la legislación en la materia.
 
 VI. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía, la posible comisión de hechos delictivos.
 
 VII. Por medio de la denuncia de juicio político, hará del conocimiento del Congreso la presunción de actos u omisiones de los Servidores Públicos a que se refiere el artículo 110 fracción I de la Constitución Política del Estado Libre y Soberano de Chiapas, que redunde en perjuicio de los intereses públicos fundamentales o de su buen despacho, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 41.
 
-La Auditoría Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles, contados a partir de su recepción, sobre las respuestas emitidas por las Entidades Fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las acciones y recomendaciones.
+La Auditoría Superior del Estado deberá pronunciarse en un plazo máximo de ciento veinte días hábiles, contados a partir del vencimiento de los treinta días hábiles que establece el artículo 39 de esta Ley, sobre las respuestas emitidas por las Entidades Fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las acciones y recomendaciones.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 42.
 
-Antes de emitir sus recomendaciones, la Auditoría Superior del Estado analizará con las Entidades Fiscalizadas las observaciones que dan motivo a las mismas. En las reuniones de resultados preliminares y finales las Entidades Fiscalizadas a través de sus representantes o enlaces suscribirán conjuntamente con el personal de las áreas auditoras correspondientes de la Auditoría Superior del Estado, las Actas en las que consten los términos de las recomendaciones que, en su caso, sean acordadas y los mecanismos para su atención. Lo anterior, sin perjuicio de que la Auditoría Superior del Estado podrá emitir recomendaciones en los casos en que no logre acuerdos con las Entidades Fiscalizadas.
+Antes de emitir sus recomendaciones, la Auditoría Superior del Estado analizará con las Entidades Fiscalizadas los resultados que dan motivo a las mismas. En las reuniones de resultados finales las Entidades Fiscalizadas a través de sus representantes o enlaces suscribirán conjuntamente con el personal de las áreas auditoras correspondientes de la Auditoría Superior del Estado, las Actas en las que consten los términos de las recomendaciones que, en su caso, sean acordadas y los mecanismos para su atención. Lo anterior, sin perjuicio de que la Auditoría Superior del Estado podrá emitir recomendaciones en los casos en que no logre acuerdos con las Entidades Fiscalizadas.
 
-La información, documentación o consideraciones aportadas por las Entidades Fiscalizadas para atender las recomendaciones en los plazos convenidos, deberán precisar las mejoras realizadas y las acciones emprendidas. En caso contrario, deberán justificar la improcedencia de lo recomendado o las razones por los (sic) cuales no resulta factible su implementación.
+La información, documentación o consideraciones aportadas por las Entidades Fiscalizadas para atender las recomendaciones en los plazos convenidos, deberán precisar las mejoras realizadas y las acciones emprendidas. En caso contrario, deberán justificar la improcedencia de lo recomendado o las razones por las cuales no resulta factible su implementación.
 
-Dentro de los 30 días hábiles posteriores a la conclusión del plazo a que se refiere el artículo que antecede, la Auditoría Superior del Estado enviará al Congreso por conducto de la Comisión, un reporte final sobre las recomendaciones correspondientes a las Cuentas Públicas en revisión, detallando la información a que se refiere el párrafo anterior.
+Dentro de los treinta días hábiles posteriores a la conclusión del plazo a que se refiere el artículo que antecede, la Auditoría Superior del Estado enviará al Congreso por conducto de la Comisión, un reporte final sobre las recomendaciones correspondientes a las Cuentas Públicas en revisión, detallando la información a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 43.
 
-La Auditoría Superior del Estado, podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el Tribunal; así como la denuncia de hechos ante la Fiscalía, la denuncia de juicio político ante el Congreso, o los informes de presunta responsabilidad administrativa ante el Órgano Interno de Control competente, en los términos del Título Quinto de esta Ley.
+La Auditoría Superior del Estado, podrá promover, en el momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad ante el Tribunal; así como la denuncia de hechos ante la Fiscalía, la denuncia de juicio político ante el Congreso, o los Informes de Presunta Responsabilidad ante el Órgano Interno de Control competente, en los términos del Título Quinto de esta Ley y en lo que disponga la Ley de Responsabilidades Administrativas para el Estado de Chiapas.
 
 ### Capítulo V. De la Conclusión de la Revisión de la Cuenta Pública
 
@@ -567,11 +665,13 @@ De la Fiscalización de Recursos Federales Administrados o Ejercidos por el Esta
 
 ### Capítulo I. De la Fiscalización del Gasto Federalizado
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 47.
 
-La Auditoría Superior del Estado fiscalizará, conforme al programa anual de auditoría que deberá aprobar y publicar en el Periódico Oficial, los recursos federales que administren o ejerzan el Estado y los municipios; asimismo, fiscalizará los recursos federales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+La Auditoría Superior del Estado fiscalizará, conforme al programa anual de auditoría aprobado, el cual deberá remitir al Ejecutivo del Estado para su publicación en el Periódico Oficial, y en su caso en coordinación con la Auditoría Superior de la Federación, los recursos federales que administren o ejerzan el Estado y los municipios; asimismo, fiscalizará los recursos federales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
-La Auditoría Superior del Estado, como parte de su fiscalización, revisará el origen de los recursos con los que se pagan los sueldos y salarios del personal que preste o desempeñe un servicio personal subordinado en dichos órdenes de gobierno, para determinar si fueron cubiertos con recursos federales o locales, en términos de lo dispuesto en el artículo 3° B de la Ley de Coordinación Fiscal y las disposiciones aplicables. Para tal efecto la Auditoría Superior del Estado determinará en su programa anual de auditorías la muestra a fiscalizar para el año correspondiente.
+La Auditoría Superior del Estado, como parte de su fiscalización, revisará el origen de los recursos con los que se pagan los sueldos y salarios del personal que preste o desempeñe un servicio personal subordinado en dichos órdenes de gobierno, para determinar si fueron cubiertos con recursos federales o locales, en términos de lo dispuesto en el artículo 3-B de la Ley de Coordinación Fiscal y demás disposiciones aplicables.
 
 ###### Artículo 48.
 
@@ -585,11 +685,15 @@ Asimismo, en los casos en que sea procedente en términos del Título Quinto de 
 
 ### Capítulo II. De la Fiscalización de las Participaciones Federales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 50.
 
-La Auditoría Superior del Estado fiscalizará las participaciones federales.
+La Auditoría Superior del Estado fiscalizará las participaciones federales en los términos que establezca la Ley de la materia.
 
-En la fiscalización superior de las participaciones federales se revisarán los procesos realizados por el Estado y los municipios, e incluirá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MAYO DE 2020)</small>
+
+En la fiscalización superior de las participaciones federales se revisarán los procesos realizados por el Estado y los municipios, y podrán incluir:
 
 I. La distribución, variables, porcentajes y montos de las participaciones federales y sus ajustes.
 
@@ -673,9 +777,11 @@ Para los efectos de lo previsto en la fracción I, del artículo 50 de la Consti
 
 Las denuncias podrán presentarse al Congreso, a la Comisión o directamente a la Auditoría Superior del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 60.
 
-Las denuncias que se presenten deberán estar fundadas con documentos y evidencias mediante los cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos o de su desvío, en los supuestos establecidos en esta Ley.
+Las denuncias que se presenten deberán estar acompañadas con documentos o evidencias mediante los cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos o de su desvío, y fundadas en los supuestos establecidos en esta Ley.
 
 La denuncia deberá contar, como mínimo, con los siguientes elementos:
 
@@ -683,7 +789,9 @@ I. El ejercicio en que se presentan los presuntos hechos irregulares.
 
 II. Descripción de los presuntos hechos irregulares.
 
-A la denuncia deberán acompañarse los elementos de prueba, cuando sea posible, que se relacionen directamente con los hechos denunciados. La Auditoría Superior del Estado deberá proteger en todo momento la identidad del denunciante.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+A la denuncia deberán acompañarse los elementos de prueba que se relacionen directamente con los hechos denunciados. La Auditoría Superior del Estado deberá proteger en todo momento la identidad del denunciante.
 
 ###### Artículo 61.
 
@@ -691,15 +799,21 @@ Las denuncias deberán referirse a presuntos daños o perjuicios a la Hacienda P
 
 I. Desvío de recursos hacia fines distintos a los autorizados.
 
-II. Irregularidades en la captación o en el manejo y utilización de los recursos públicos.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
 
-III. Actos presuntamente irregulares en la contratación y ejecución de obras, contratación y prestación de servicios públicos, adquisición de bienes, y otorgamiento de permisos, licencias y concesiones entre otros.
+II. Irregularidades en la captación, manejo o utilización de los recursos públicos.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+III. Actos presuntamente irregulares en la contratación o ejecución de obras, contratación o prestación de servicios públicos, adquisición de bienes, otorgamiento de permisos, licencias y concesiones entre otros.
 
 IV. La comisión recurrente de irregularidades en el ejercicio de los recursos públicos.
 
 V. Inconsistencia en la información financiera o programática de cualquier entidad fiscalizada que oculte o pueda originar daños o perjuicios a su patrimonio.
 
-La Auditoría Superior del Estado informará al denunciante la resolución que tome sobre la procedencia de iniciar la revisión correspondiente.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+La Auditoría Superior del Estado informará al denunciante en un plazo no mayor a cinco días la procedencia o improcedencia del inicio de la investigación.
 
 ###### Artículo 62.
 
@@ -719,6 +833,38 @@ La Auditoría Superior del Estado, deberá reportar en los informes correspondie
 
 De la revisión efectuada al ejercicio fiscal en curso o a los ejercicios anteriores, la Auditoría Superior del Estado rendirá un informe al Congreso por conducto de la Comisión, a más tardar a los 10 días hábiles posteriores a la conclusión de la auditoría. Asimismo, promoverá las acciones que, en su caso, correspondan para el fincamiento de las responsabilidades administrativas, penales y políticas a que haya lugar, conforme lo establecido en esta Ley y demás legislación aplicable.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2020)</small>
+
+###### Artículo 65 Bis.
+
+El informe específico de auditoría contendrá como mínimo lo siguiente:
+
+I. Denuncia.
+
+II. Actos de Investigación.
+
+III. Dictamen Técnico.
+
+IV. Orden de Auditoría.
+
+V. Antecedentes.
+
+VI. Objetivos.
+
+VII. Periodo de Investigación.
+
+VIII. Procedimiento.
+
+IX. Análisis.
+
+X. Resultados.
+
+XI. Calificación.
+
+XII. Nombre de los Presuntos Implicados.
+
+XIII. Nombre del Personal Investigador.
+
 ###### Artículo 66.
 
 Lo dispuesto en el presente Título, no excluye la imposición de las sanciones que conforme a la legislación en materia de Responsabilidades Administrativas procedan ni de otras que se deriven de la revisión de la Cuenta Pública.
@@ -731,7 +877,9 @@ Lo dispuesto en el presente Título, no excluye la imposición de las sanciones 
 
 Si de la fiscalización que realice la Auditoría Superior del Estado se detectaran irregularidades que permitan presumir la existencia de responsabilidades a cargo de servidores públicos o particulares, la Auditoría Superior del Estado procederá a:
 
-I. Promover ante el Tribunal, en los términos de la legislación en materia de Responsabilidades Administrativas, la imposición de sanciones a los servidores públicos por las Faltas Administrativas Graves que detecte durante sus auditorías e investigaciones, en que incurran los Servidores Públicos, así como sanciones a los particulares vinculados con dichas faltas.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+I. Promover ante el Tribunal, en términos de la legislación en materia de Responsabilidades Administrativas, los procedimientos de las Faltas Administrativas Graves que detecte durante sus auditorías e investigaciones.
 
 II. Dar vista a los Órganos Internos de Control competentes de conformidad con la legislación en materia de Responsabilidades Administrativas, cuando detecte posibles responsabilidades administrativas distintas a las mencionadas en la fracción anterior.
 
@@ -747,7 +895,9 @@ La Auditoría Superior del Estado podrá impugnar ante la autoridad competente l
 
 V. Presentar las denuncias de juicio político ante el Congreso que, en su caso, correspondan en términos de las disposiciones aplicables.
 
-Las denuncias penales de hechos presuntamente ilícitos y las denuncias de juicio político, deberán presentarse por parte de la Auditoría Superior del Estado cuando se cuente con los elementos que establezcan las leyes en dichas materias.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+Las denuncias penales y las de juicio político, deberán presentarse por parte de la Auditoría Superior del Estado cuando se considere puedan constituir un hecho ilícito.
 
 Las resoluciones del Tribunal podrán ser recurridas por la Auditoría Superior del Estado, cuando lo considere pertinente, en términos de la legislación aplicable.
 
@@ -767,9 +917,11 @@ La unidad administrativa de la Auditoría Superior del Estado a cargo de las inv
 
 Las responsabilidades que se finquen a los Servidores Públicos de los Entes Públicos y de la Auditoría Superior del Estado, no eximen a éstos ni a los particulares, personas físicas o morales, de sus obligaciones, cuyo cumplimiento se les exigirá aun cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 71.
 
-La unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado promoverá el informe de presunta responsabilidad administrativa ante la unidad de la propia Auditoría Superior del Estado encargada de fungir como autoridad substanciadora, cuando los pliegos de observaciones no sean solventados por las Entidades Fiscalizadas.
+La unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado, promoverá el Informe de Presunta Responsabilidad ante la unidad de la propia Auditoría Superior del Estado encargada de fungir como autoridad substanciadora, cuando de la investigación realizada de los pliegos de observaciones no solventados, se encuentren conductas relacionadas con Faltas Administrativas Graves.
 
 Lo anterior, sin perjuicio de que la unidad administrativa a cargo de las investigaciones podrá promover el informe de presunta responsabilidad administrativa, en cualquier momento en que cuente con los elementos necesarios.
 
@@ -835,17 +987,21 @@ Las responsabilidades distintas a las mencionadas en el artículo anterior, que 
 
 ### Capítulo Único. De las Notificaciones y los Términos
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 80.
 
 Las notificaciones de los actos administrativos se efectuarán de la siguiente manera:
 
 I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
 
-Cuando la notificación se trate de efectuar personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, para que espere a una hora fija del día hábil siguiente, y si la persona o su representante legal no cumplieran con dicha espera, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se fijara en la puerta del domicilio debiendo levantarse acta circunstanciada que haga constar los hechos.
+Cuando la notificación se trate de efectuar personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, o en su defecto con un vecino para que espere a una hora fija del día hábil siguiente, en caso de que la persona o su representante legal no cumplieran con dicho citatorio, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se fijará en la puerta del domicilio, debiendo levantarse acta circunstanciada que haga constar los hechos.
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos a los referidos en la fracción anterior.
 
-III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, desocupe el local donde tenga su domicilio; misma que se efectuará fijando durante cinco días consecutivos el documento que se pretenda notificar, en un sitio abierto al público de las oficinas de la Auditoría Superior del Estado, y publicando el documento durante el mismo plazo en la página electrónica de la misma Auditoría, dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado, según corresponda; debiendo dejarse constancia en el expediente respectivo, en estos casos se tendrá como fecha de notificación la del sexto día siguiente a aquel en que se hubiera fijado o publicado el documento.
+III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, desocupe el local donde tenga su domicilio; misma que se efectuará fijando durante cinco días hábiles consecutivos el acuerdo del documento que se pretenda notificar, en un sitio abierto al público de las oficinas de la Auditoría Superior del Estado, y publicando el documento durante el mismo plazo en la página electrónica de la misma Auditoría; debiendo dejarse constancia en el expediente respectivo, en estos casos se tendrá como fecha de notificación la del sexto día hábil siguiente a aquel en que se hubiere fijado o publicado por primera vez el acuerdo del documento.
+
+IV. Por medios electrónicos, siempre y cuando medie autorización expresa de la parte interesada.
 
 ###### Artículo 81.
 
@@ -953,13 +1109,15 @@ V. Contar el día de su designación, con título de antigüedad mínima de diez
 
 VI. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 92.
 
 El titular de la Auditoría Superior del Estado tendrá las siguientes atribuciones:
 
 I. Representar a la Auditoría Superior del Estado ante las Entidades Fiscalizadas, autoridades federales y locales, entidades federativas, municipios; y demás personas físicas y morales, públicas o privadas.
 
-II. Elaborar el proyecto de presupuesto anual de la Auditoría Superior del Estado atendiendo a las previsiones del ingreso y del gasto público Estatal y las disposiciones aplicables.
+II. Autorizar el proyecto de presupuesto anual de la Auditoría Superior del Estado atendiendo a las previsiones del ingreso y del Gasto Público Estatal y las disposiciones aplicables.
 
 III. Administrar los bienes y recursos a cargo de la Auditoría Superior del Estado y resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios de la misma, sujetándose a lo dispuesto en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, y demás leyes aplicables, así como gestionar la incorporación, destino y desincorporación de bienes inmuebles del dominio público del Estado, afectos a su servicio.
 
@@ -967,9 +1125,7 @@ IV. Aprobar el programa anual de actividades, el programa anual de auditorías y
 
 V. Expedir de conformidad con lo establecido en esta Ley, el Reglamento Interior de la Auditoría Superior del Estado, en el que se distribuirán las atribuciones a sus unidades administrativas y sus titulares, además de establecer la forma en que deberán ser suplidos estos últimos en sus ausencias, su organización interna y funcionamiento, debiendo publicarlo en el Periódico Oficial.
 
-VI. Expedir los manuales de organización y procedimientos que se requieran para la debida organización y funcionamiento de la Auditoría Superior del Estado, los que deberán ser publicados en el Periódico Oficial.
-
-Asimismo, expedir las normas para el ejercicio, manejo y aplicación del presupuesto de la Auditoría Superior del Estado, ajustándose a las disposiciones aplicables del Presupuesto de Egresos, Ley Federal de Presupuesto y Responsabilidad Hacendaria, Ley de Disciplina Financiera de las Entidades Federativas y municipios y el Código de la Hacienda Pública para el Estado de Chiapas y demás disposiciones legales aplicables.
+VI. Expedir los manuales de organización y procedimientos que se requieran para la debida organización y funcionamiento de la Auditoría Superior del Estado, los que deberán ser publicados en el Periódico Oficial. Asimismo, expedir las normas para el ejercicio, manejo y aplicación del presupuesto de la Auditoría Superior del Estado, ajustándose a las disposiciones aplicables del Presupuesto de Egresos, Ley Federal de Presupuesto y Responsabilidad Hacendaria, Ley de Disciplina Financiera de las Entidades Federativas y municipios y el Código de la Hacienda Pública para el Estado de Chiapas y demás disposiciones legales aplicables.
 
 VII. Nombrar al personal de la Auditoría Superior del Estado, quienes no deberán haber sido sancionados con la inhabilitación para el ejercicio de un puesto o cargo público.
 
@@ -989,9 +1145,9 @@ XIV. Tramitar, instruir y resolver el recurso de reconsideración interpuesto en
 
 XV. Recibir de la Comisión la Cuenta Pública para su revisión y fiscalización superior.
 
-XVI. Formular y entregar al Congreso, por conducto de la Comisión, el Informe General a más tardar el 20 de febrero del año siguiente de la presentación de la Cuenta Pública.
+XVI. Autorizar y entregar el informe general al Congreso, por conducto de la Comisión, a más tardar el 20 de febrero del año siguiente de la presentación de la Cuenta Pública.
 
-XVII. Formular y entregar al Congreso, por conducto de la Comisión, los Informes Individuales los últimos días hábiles de junio, octubre y el 20 de febrero siguientes a la presentación de la Cuenta Pública Estatal y Municipal.
+XVII. Autorizar y entregar los Informes Individuales al Congreso, por conducto de la Comisión el último día hábil de junio, octubre y a más tardar el 20 de febrero siguiente a la presentación de la Cuenta Pública Estatal y Municipal.
 
 XVIII. Autorizar, previa denuncia, la revisión durante el ejercicio fiscal en curso a las Entidades Fiscalizadas, así como respecto de ejercicios anteriores conforme lo establecido en la presente Ley.
 
@@ -1011,23 +1167,31 @@ XXV. Presentar el recurso de revisión administrativa respecto de las resolucion
 
 XXVI. Recurrir las determinaciones de la Fiscalía y del Tribunal, de conformidad con la legislación aplicable.
 
-XXVII. Transparentar y dar seguimiento a todas las denuncias, quejas, solicitudes, y opiniones realizadas por los particulares o la sociedad civil organizada, salvaguardando en todo momento los datos personales.
+XXVII. Transparentar y dar seguimiento a todas las denuncias, quejas, solicitudes, y opiniones realizadas por los particulares o la sociedad civil organizada, salvaguardando en todo momento el acceso a la información pública, la protección de datos personales y el ejercicio de los derechos de Acceso, Rectificación, Cancelación u Oposición (ARCO).
 
 XXVIII. Establecer los mecanismos necesarios para fortalecer la participación ciudadana en la rendición de cuentas de las entidades sujetas a fiscalización.
 
-XXIX. Participar dentro del Comité Coordinador del Sistema Nacional y Estatal Anticorrupción a que se refiere el artículo 113 fracción III de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Anticorrupción del Estado de Chiapas.
+XXIX. Participar dentro del Comité Coordinador del Sistema Nacional y Estatal Anticorrupción a que se refiere el artículo 113, fracción III de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Anticorrupción del Estado de Chiapas.
 
-XXX. Rendir un informe anual basado en indicadores en materia de fiscalización, debidamente sistematizados y actualizados, mismo que será público y se compartirá con los integrantes del Comité Coordinador a que se refiere la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Anticorrupción del Estado de Chiapas y con el Comité de Participación Ciudadana. Con base en el informe señalado podrá presentar desde su competencia proyectos de recomendaciones integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, por lo que hace a las causas que los generan.
+XXX. Rendir un informe anual basado en indicadores en materia de fiscalización, debidamente sistematizados y actualizados, mismo que será público y se compartirá con los integrantes del Comité Coordinadora que se refiere la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Anticorrupción del Estado de Chiapas y con el Comité de Participación Ciudadana. Con base en el informe señalado podrá presentar desde su competencia proyectos de recomendaciones integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, por lo que hace a las causas que los generan.
 
-XXXI. Elaborar en cualquier momento estudios y análisis, así como publicarlos.
+XXXI. Elaborar estudios, análisis e investigaciones relacionadas con las materias de su competencia y publicarlos.
 
-XXXII. Las demás que señale esta Ley y demás disposiciones legales aplicables.
+XXXII. Emitir normas de competencia y certificar, con base en ellas, los conocimientos, habilidades y actitudes en materia de fiscalización.
 
-Las atribuciones previstas en las fracciones II, IV, V, VI, VII, VIII, XIII, XV, XVIII, XIX, XX, XXIII y XXVI de este artículo, son indelegables.
+XXXIII. Organizar, diseñar e impartir programas, planes de estudio, cursos y talleres de formación técnica, académica y profesional.
+
+XXXIV. Coordinarse con los integrantes del Sistema Estatal Anticorrupción, para alcanzar los fines del mismo y el cumplimento de su objeto, de acuerdo con lo establecido en la Constitución Política del Estado Libre y Soberano de Chiapas y la Ley de la materia; constituir el sistema de valuación y fiscalización de Chiapas, asimismo, podrá establecer los mecanismos institucionales de coordinación que resulten necesarios para el fortalecimiento de las acciones de control interno, prevención y corrección, con los órganos internos de control de los entes fiscalizables.
+
+XXXV. Las demás que señale esta Ley y demás disposiciones legales aplicables.
+
+Las atribuciones previstas en las fracciones II, IV, V, VI, VII, VIII, XIII, XV, XVIII, XIX, XX, XXIII, XXVI y XXXII de este artículo, se consideran indelegables.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 93.
 
-El titular de la Auditoría Superior del Estado será auxiliado en sus funciones por dos auditores especiales, así como por jefes de unidad, directores, coordinadores, subdirectores, jefes de departamento, jefes de oficina, supervisores, auditores, especialistas y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior del Estado, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
+El titular de la Auditoría Superior del Estado será auxiliado en sus funciones por dos auditores especiales, así como por jefes de unidad, directores, coordinadores, subdirectores, supervisores, auditores, especialistas, mandos medios, investigadores y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior del Estado, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
 
 ###### Artículo 94.
 
@@ -1087,19 +1251,25 @@ El titular de la Auditoría Superior del Estado podrá adscribir orgánicamente 
 
 La Auditoría Superior del Estado podrá establecer un servicio fiscalizador de carrera, debiendo emitir para ese efecto un estatuto que deberá publicarse en el Periódico Oficial.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 101.
 
-La Auditoría Superior del Estado elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido por el titular de la Auditoría Superior del Estado a la Comisión, para su inclusión en el proyecto de Presupuesto de Egresos para el siguiente ejercicio fiscal. La Auditoría Superior del Estado ejercerá autónomamente su presupuesto aprobado con sujeción a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el Presupuesto de Egresos correspondiente y las demás disposiciones que resulten aplicables.
+La Auditoría Superior del Estado elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido por su titular a la Comisión, para su inclusión en el proyecto de Presupuesto de Egresos para el siguiente ejercicio fiscal. La Auditoría Superior del Estado ejercerá autónomamente su presupuesto aprobado con sujeción a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el Presupuesto de Egresos correspondiente y las demás disposiciones que resulten aplicables.
 
-La Auditoría Superior del Estado publicará en el Periódico Oficial su normatividad interna conforme a las disposiciones legales aplicables.
+La Auditoria Superior del Estado podrá contar con un Instituto de Capacitación y Desarrollo de Fiscalización Superior cuyo propósito será la investigación, capacitación, desarrollo y transferencia de conocimientos a sus servidores públicos, así como las personas físicas o morales, públicas o privadas, interesadas en la fiscalización superior, cuenta pública, rendición de cuentas, transparencia y ética en la gestión gubernamental, régimen de responsabilidades de los servidores públicos y demás objetivos que se establezcan al instituto.
+
+La Auditoría Superior del Estado remitirá al Ejecutivo del Estado su normatividad interna, para su publicación en el Periódico Oficial conforme a las disposiciones legales aplicables.
 
 ###### Artículo 102.
 
 Los servidores públicos de la Auditoría Superior del Estado se clasifican en trabajadores de confianza y trabajadores de base, y se regirán por lo dispuesto en la Ley del Servicio Civil del Estado y los municipios de Chiapas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 103.
 
-Son trabajadores de confianza, el titular de la Auditoría Superior del Estado, los auditores especiales, los jefes de unidad, directores, coordinadores, subdirectores, jefes de departamento, jefes de oficina, supervisores, auditores, especialistas y los demás que tengan tal carácter conforme a lo previsto en la Ley del Servicio Civil del Estado y los municipios de Chiapas.
+Son trabajadores de confianza, el titular de la Auditoría Superior del Estado, los auditores especiales, los jefes de unidad, directores, coordinadores, subdirectores, supervisores, auditores, especialistas, mandos medios, investigadores y los demás que tengan dicho carácter conforme a lo previsto en la Ley del Servicio Civil del Estado y los Municipios de Chiapas.
 
 Son trabajadores de base los que desempeñan labores en puestos no incluidos en el párrafo anterior, y en términos de lo dispuesto por Ley del Servicio Civil del Estado y los municipios de Chiapas.
 
@@ -1107,17 +1277,23 @@ Son trabajadores de base los que desempeñan labores en puestos no incluidos en 
 
 La relación jurídica de trabajo se entiende establecida entre la Auditoría Superior del Estado, a través de su titular y los trabajadores a su servicio para todos los efectos.
 
-## Título Noveno. De la Contraloría Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 2020)</small>
+
+## Título Noveno. De la Participación Social
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 105.
 
-La Comisión recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas por la Auditoría Superior del Estado en el programa anual de auditorías y cuyos resultados deberán ser considerados en los informes individuales y, en su caso, en el Informe General. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley General del Sistema Nacional Anticorrupción y Ley del Sistema Anticorrupción del Estado de Chiapas, debiendo el Auditor Superior del Estado informar a la Comisión, así como a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.
+La Comisión recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas presentadas por la sociedad civil, en materia de fiscalización y rendición de cuentas, las cuales podrán ser consideradas por la Auditoría Superior del Estado en el programa anual de auditorías y cuyos resultados deberán ser considerados en los informes individuales específicos y, en su caso, en el Informe General. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Anticorrupción del Estado de Chiapas, debiendo el Auditor Superior del Estado informar a la Comisión, así como a dicho Comité sobre las determinaciones que se tomen con relación con las propuestas relacionadas con el programa anual de auditorías.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 106.
 
-La Comisión recibirá de parte de la sociedad, opiniones, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce la Auditoría Superior del Estado a efecto de participar, aportar y contribuir a mejorar el funcionamiento de sus funciones de fiscalización.
+La Comisión recibirá de parte de la sociedad, opiniones, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce la Auditoría Superior del Estado a efecto de participar, aportar y contribuir a mejorar la fiscalización.
 
 Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electrónicos o por escrito libre dirigido a la Comisión, quien pondrá a disposición de los particulares los formatos correspondientes.
 
@@ -1142,3 +1318,13 @@ Dado en el Salón de Sesiones Sergio Armando Valls Hernández, del Honorable Con
 De conformidad con la fracción I del artículo 59 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 31 días del mes de enero del año dos mil diecisiete.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 221 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
