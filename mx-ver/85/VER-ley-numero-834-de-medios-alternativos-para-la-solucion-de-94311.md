@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-834-de-medios-alternativos-para-la-solucion-de-94311
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-10"
-last_updated: "2019-08-08"
+last_updated: "2020-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 834 DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MAYO DE 2020.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 10 de mayo de 2013.
 
@@ -186,6 +186,12 @@ X. Las demás que se deriven de las disposiciones legales aplicables.
 ###### Artículo 12.
 
 Los mediadores, conciliadores y facilitadores podrán auxiliarse de especialistas en la materia que se requiera y, con el apoyo de las partes, allegarse medios que permitan la solución del conflicto.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2020)</small>
+
+###### Artículo 12 Bis.
+
+Podrán ser Mediadores, Conciliadores o Facilitadores los Jueces Municipales.
 
 ###### Artículo 13.
 
@@ -397,9 +403,11 @@ IV. Las demás obligaciones que se deriven de la presente Ley y de su reglamento
 
 ### CAPÍTULO VI. Del Centro Estatal de Justicia Alternativa de Veracruz
 
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 34.
 
-El Centro Estatal tendrá su sede en la capital del Estado y tantas unidades regionales como lo determine su Consejo Directivo.
+El Centro Estatal tendrá su sede en la capital del Estado y tantas unidades regionales como lo determine su Órgano de Gobierno.
 
 ###### Artículo 35.
 
@@ -409,13 +417,19 @@ El Centro Estatal tendrá como principal objetivo ofrecer gratuitamente servicio
 
 El Centro Estatal, así como las unidades regionales, deberán contar con el personal técnico y administrativo necesarios y los espacios suficientes para el desempeño de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 37.
 
-El Centro Estatal se integrará de la manera siguiente:
+El Centro Estatal se integrará por:
 
-I. El Consejo Directivo, que será su instancia superior;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
 
-II. Una Dirección General, cuyo titular fungirá como Secretario Ejecutivo del Consejo;
+I. El Órgano de Gobierno, que será su instancia superior;
+
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
+
+II. Una Dirección General;
 
 III. Una Unidad de Recepción, ante la que se presentarán las solicitudes y será la encargada de la elaboración y entrega de las invitaciones;
 
@@ -427,103 +441,265 @@ VI. Una Contraloría Interna; y
 
 VII. El personal técnico y administrativo necesario para el ejercicio de sus atribuciones, conforme a la disponibilidad presupuestal.
 
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2020)</small>
+
+La persona titular de la Contraloría Interna será nombrada y removida, a propuesta de la Presidencia, por el Órgano de Gobierno.
+
 El reglamento establecerá la organización y funcionamiento de las diversas áreas, unidades y órganos administrativos del Centro Estatal, los requisitos para la designación de sus respectivos titulares, atribuciones y régimen de suplencia.
 
-### CAPÍTULO VII. Del Consejo Directivo
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE MAYO DE 2020)</small>
+
+### CAPÍTULO VII. Del Órgano de Gobierno
+
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 38.
 
-El Consejo Directivo estará integrado por tres consejeros nombrados por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes, a propuesta del Gobernador del Estado.
+El Órgano de Gobierno estará integrado por:
 
-> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+I. La persona titular del Ejecutivo Estatal, quien lo presidirá, y en su ausencia lo suplirá la persona titular de la Presidencia del Tribunal Superior de Justicia del Poder Judicial del Estado;
 
-Los consejeros deberán reunir los requisitos establecidos en la Constitución Política del Estado para ser Magistrado del Poder Judicial, con excepción de la edad mínima que será de treinta años, y durarán en su encargo seis años improrrogables.
+II. La persona titular de la Presidencia del Tribunal Superior de Justicia del Poder Judicial del Estado;
 
-Los consejeros elegirán de entre sus miembros a su Presidente, el que durará en su encargo dos años improrrogables.
+III. Un Magistrado o Magistrada del Tribunal Superior de Justicia designado por la persona titular de la Presidencia del Tribunal Superior de Justicia del Poder Judicial del Estado;
 
-El cargo de consejero es incompatible con cualquier otro empleo, cargo o comisión en el servicio público, a excepción de la docencia o la labor de investigación académica.
+IV. Un Magistrado o Magistrada integrante de la Visitaduría Judicial del Poder Judicial del Estado, designado por la persona titular de la Presidencia del Tribunal Superior de Justicia del Poder Judicial del Estado;
+
+V. La persona titular de la Secretaría de Gobierno;
+
+VI. La persona titular de la Secretaría de Finanzas y Planeación;
+
+VII. La persona titular de la Secretaría de Trabajo, Previsión Social y Productividad;
+
+VIII. La persona titular de la Dirección General del Centro Estatal, quien fungirá como Secretaria Técnica o Secretario Técnico, y
+
+IX. Un Comisario que será designado por la Contraloría General del Estado.
+
+La Secretaria Técnica o Secretario Técnico y el Comisario tendrán derecho a voz pero no voto en las sesiones del Órgano de Gobierno.
+
+Las personas integrantes del Órgano de Gobierno designarán a sus respectivos suplentes mediante oficio en la primera sesión ordinaria de cada año.
+
+Los cargos de los integrantes del Órgano de Gobierno serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 39.
 
-El Consejo Directivo tendrá las atribuciones siguientes:
+El Órgano de Gobierno tendrá las atribuciones siguientes:
 
 I. Fijar la política y las acciones relacionadas con el Centro Estatal, considerando las opiniones que al respecto le formule el Director General;
 
 II. Aprobar y evaluar el programa operativo anual y administrativo del Centro Estatal, así como los informes periódicos que someta a su consideración el Director General;
 
-III. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de los mediadores, conciliadores y facilitadores e igualmente se proporcione al Consejo Estatal asesoramiento técnico en las áreas o asuntos específicos en que lo requiera;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
+
+III. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de las y los mediadores, conciliadores y facilitadores e igualmente se proporcione al Centro Estatal asesoramiento técnico en las áreas o asuntos específicos en que lo requiera;
 
 IV. Propiciar que las diversas instancias públicas y privadas apoyen la aplicación de los procedimientos de medios alternativos;
 
 V. Promover la realización de estudios tendientes a perfeccionar el servicio de medios alternativos;
 
-VI. Facultar al Centro Estatal para la celebración de convenios y contratos, a efecto de promover el debido cumplimiento de esta Ley;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
+
+VI. Autorizar al Centro Estatal para la celebración de convenios, contratos y toda clase de documentos jurídicos, a efecto de promover el debido cumplimiento de esta Ley;
 
 VII. Autorizar las acciones del Centro Estatal para gestionar y recibir fondos y donaciones de organismos nacionales e internacionales para el mejor cumplimiento de sus fines;
 
 VIII. Aprobar su proyecto de presupuesto anual, que será enviado al Presidente del Tribunal Superior de Justicia para su integración al presupuesto del Poder Judicial;
 
-IX. Aprobar su reglamento, manuales, lineamientos, reglas técnicas y demás normatividad del Centro Estatal; y
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
 
-X. Las demás que le otorguen esta Ley y las disposiciones jurídicas aplicables.
+IX. Ordenar a través de la Secretaria Técnica o Secretario Técnico la publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, del Reglamento del Centro Estatal, así como de los manuales, lineamientos y demás normativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE MAYO DE 2020)</small>
+
+X. Autorizar los nombramientos que realice la persona titular de la Dirección General a favor de las servidoras públicas y los servidores públicos en las dos jerarquías inferiores al titular de la Entidad establecido en la estructura orgánica del Centro Estatal y removerles por causas justificadas;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2020)</small>
+
+XI. Vigilar el manejo del presupuesto y el patrimonio del organismo, así como analizar y aprobar los estados financieros trimestrales y anuales, además de aprobar el proyecto del presupuesto anual de ingresos y egresos que rinda la persona titular de la Dirección General del Centro Estatal, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 4 DE MAYO DE 2020)</small>
+
+XII. Las demás que le otorguen esta Ley, su Reglamento y las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2020)</small>
+
+###### Artículo 39 Bis.
+
+El Órgano de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los miembros presentes, teniendo la persona titular de la Presidencia del Órgano de Gobierno voto de calidad.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2020)</small>
+
+###### Artículo 39 Ter.
+
+Cuando por falta de quórum, la sesión no pueda celebrarse el día determinado, la persona titular de la Presidencia, a través de la Secretaria Técnica o Secretario Técnico, emitirá una segunda convocatoria para realizar dicha sesión, la cual se efectuará con la presencia de los integrantes que asistan.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2020)</small>
+
+###### Artículo 39 Quater.
+
+El Órgano de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año. La persona titular de la Presidencia podrá convocar a sesión extraordinaria las veces que sea necesario por conducto de la Secretaria Técnica o Secretario Técnico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 40.
 
-Son atribuciones del Presidente del Consejo Directivo:
+Son atribuciones de la persona titular de la Presidencia del Órgano de Gobierno:
 
-I. Convocar y presidir las sesiones del Consejo Directivo;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
 
-II. Representar al Centro Estatal y delegar la representación en el servidor público que determine;
+I. Presidir las sesiones del Órgano de Gobierno;
 
-III. Vigilar el cumplimiento de los acuerdos aprobados por el Consejo Directivo;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
 
-IV. Ordenar la publicación en la Gaceta Oficial del estado del reglamento del Centro Estatal, así como de los manuales, lineamientos y demás normatividad que apruebe el Consejo Directivo;
+II. Representar al Órgano de Gobierno;
 
-V. Informar anualmente sobre las actividades y el estado que guarde el Centro Estatal a los integrantes del Consejo Directivo; y
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
 
-VI. Las demás que le confieran esta Ley y las disposiciones aplicables.
+III. Convocar a sesiones ordinarias o extraordinarias por conducto de la Secretaria Técnica o Secretario Técnico;
+
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
+
+IV. Promover el estricto cumplimiento del objeto del Centro Estatal, así como de los manuales, lineamientos y demás normativa que apruebe el Órgano de Gobierno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE MAYO DE 2020)</small>
+
+V. Firmar las actas de las sesiones del Órgano de Gobierno, conjuntamente con la Secretaria Técnica o Secretario Técnico y demás integrantes del Órgano de Gobierno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE MAYO DE 2020)</small>
+
+VI. Proponer las prioridades al Órgano de Gobierno;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 4 DE MAYO DE 2020)</small>
+
+VII. Vigilar a través de la Secretaria Técnica o Secretario Técnico el cumplimiento de los acuerdos aprobados por el Órgano de Gobierno;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2020)</small>
+
+VIII. Emitir voto de calidad en caso de empate durante las sesiones del Órgano de Gobierno, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 4 DE MAYO DE 2020)</small>
+
+IX. Las demás que le confieran esta Ley y las disposiciones legales aplicables.
 
 ### CAPÍTULO VIII. Del Director General del Centro Estatal
 
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 41.
 
-El Director General del Centro Estatal será designado por el Consejo Directivo y durará en su cargo tres años, con posibilidad de ser ratificado sólo para un segundo período.
+La persona titular de la Dirección General del Centro Estatal será nombrada y removida libremente por el Gobernador del Estado.
+
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 42.
 
-El Director General del Centro Estatal deberá reunir los mismos requisitos establecidos en la presente Ley para ser integrante del Consejo Directivo.
+La persona titular de la Dirección General del Centro Estatal deberá reunir los requisitos siguientes:
+
+I. Ser veracruzano;
+
+II. Contar con título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada para ello;
+
+III. Acreditar experiencia en los medios alternativos para la solución de conflictos legales;
+
+(NOTA: EL 13 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 181/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+IV. TENER UN MODO HONESTO DE VIVIR; Y
+
+(NOTA: EL 13 DE SEPTIEMBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 181/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+V. Gozar de buena reputación, y no haber sido condenado por delito QUE AMERITE PENA CORPORAL DE MÁS DE UN AÑO DE PRISIÓN; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 43.
 
-El Director General del Centro Estatal tendrá las atribuciones siguientes:
+La persona titular de la Dirección General del Centro Estatal tendrá las atribuciones siguientes:
 
-I. Fungir como Secretario Ejecutivo del Consejo Directivo, participando en sus sesiones con voz pero sin voto;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
 
-II. Representar al Centro Estatal cuando el Presidente del Consejo le delegue esta función;
+I. Fungir como Secretaria Técnica o Secretario Técnico del Órgano de Gobierno;
 
-III. Elaborar el programa operativo anual y administrativo del Centro Estatal, para someterlo a la autorización del Consejo Directivo;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
 
-IV. Proponer, para su aprobación por el Consejo Directivo, el presupuesto anual del Centro Estatal;
+II. Representar legalmente, ante cualquier instancia, al Centro Estatal y delegar la representación en el servidor público o servidora pública que estime competente;
+
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
+
+III. Elaborar el programa operativo anual y administrativo del Centro Estatal, para someterlo a la autorización del Órgano de Gobierno;
+
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
+
+IV. Formular y proponer, para su aprobación por el Órgano de Gobierno, el proyecto de presupuesto anual de ingresos y egresos del Centro Estatal;
 
 V. Ejercer el presupuesto del Centro Estatal;
 
-VI. Informar periódicamente sobre las actividades del Centro Estatal y de las Unidades Regionales al Consejo Directivo;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
+
+VI. Informar periódicamente sobre las actividades del Centro Estatal y de las Unidades Regionales al Órgano de Gobierno;
 
 VII. Fungir como superior jerárquico del personal que preste sus servicios en el Centro Estatal;
 
-VIII. Nombrar y remover a los servidores públicos del Centro Estatal, previo acuerdo con el Consejo Directivo;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
 
-IX. Suscribir, previa autorización del Consejo Directivo, convenios y contratos en nombre del Centro Estatal;
+VIII. Previa autorización del Órgano de Gobierno, nombrar y remover a las servidoras públicas y servidores públicos de los dos niveles jerárquicos inmediatos inferiores a éste, establecidos en la estructura orgánica del Centro Estatal, a excepción de lo anterior, nombrar y remover libremente a las demás servidoras públicas y servidores públicos del Centro Estatal, con base en el presupuesto autorizado y a las necesidades que se generen para el cumplimiento de sus objetivos;
 
-X. Elaborar, para su aprobación por el Consejo Directivo, reglamento, manuales, lineamientos, reglas técnicas y demás normatividad del Centro Estatal;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
+
+IX. Suscribir, previa autorización del Órgano de Gobierno, convenios, contratos y toda clase de documentos jurídicos en representación del Centro Estatal;
+
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
+
+X. Elaborar, para su aprobación por el Órgano de Gobierno, los proyectos de reglamento, manuales, lineamientos, reglas técnicas y demás normativa del Centro Estatal;
 
 XI. Promover y difundir la mediación, la conciliación y la justicia restaurativa, como medios alternativos para la solución pacífica de conflictos;
 
 XII. Supervisar la capacitación, certificación y autorización de los mediadores, conciliadores y facilitadores, y su renovación cuando corresponda;
 
-XIII. Controlar el registro de los organismos públicos y privados y su renovación cuando corresponda; y
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2020)</small>
 
-XIV. Las demás que le otorguen las disposiciones legales o el Consejo Directivo.
+XIII. Controlar el registro de los organismos públicos y privados y su renovación cuando corresponda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE MAYO DE 2020)</small>
+
+XIV. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de las y los mediadores, conciliadores y facilitadores e igualmente se proporcione al Consejo Estatal asesoramiento técnico en las áreas o asuntos específicos en que lo requiera;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2020)</small>
+
+XV. Propiciar que las instancias públicas y privadas apoyen la aplicación de los procedimientos de medios alternativos;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2020)</small>
+
+XVI. Promover la realización de estudios tendientes a perfeccionar el servicio de medios alternativos;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2020)</small>
+
+XVII. Contratar, previa autorización del Órgano de Gobierno, arrendamientos o compras de bienes muebles, inmuebles, equipos, materiales o aquellos instrumentos que sean necesarios para el cumplimiento del objeto del Centro Estatal, siempre que tal contratación de servicio, renta o compra generen un beneficio y se encuentren dentro del marco de la normativa aplicable y las políticas de austeridad y contención del gasto público;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2020)</small>
+
+XVIII. Someter a consideración y autorización del Órgano de Gobierno, la realización de auditorías de índole administrativa, contable, fiscal, operacional, técnica y legal con el propósito de transparentar el manejo y la aplicación de los recursos públicos;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2020)</small>
+
+XIX. Delegar en el personal de la estructura orgánica del Centro Estatal, las atribuciones que considere pertinentes para el cumplimiento del objeto del mismo, excepto aquellas que por su naturaleza sean indelegables;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2020)</small>
+
+XX. Llevar el control del presupuesto y del patrimonio del organismo, así como analizar y someter al Órgano de Gobierno los estados financieros trimestrales y anuales que emita esa Dirección General;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2020)</small>
+
+XXI. Informar anualmente sobre las actividades y el estado que guarde el Centro Estatal a las personas integrantes del Órgano de Gobierno;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2020)</small>
+
+XXII. Certificar la documentación que obre en los archivos del Centro Estatal; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 4 DE MAYO DE 2020)</small>
+
+XXIII. Las demás que le confieran las disposiciones legales y el Órgano de Gobierno.
 
 T R A N S I T O R I O S
 
@@ -580,3 +756,21 @@ G.O. 8 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 566 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. Publíquese el presente Decreto en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero. Al inicio de la vigencia del presente Decreto, las personas que en su caso ocupen la titularidad de la Dirección General y de las unidades administrativas de mando o dirección en el Centro Estatal, continuarán en su encargo hasta en tanto no se realicen los nombramientos correspondientes en términos del presente Decreto, con la posibilidad de ser consideradas por la autoridad competente para permanecer en dichas responsabilidades en los términos de la nueva normatividad.
+
+Cuarto. En tanto se instala el Órgano de Gobierno en términos del presente Decreto, quien en su caso ocupe la titularidad de la Dirección General, de las unidades administrativas de mando o dirección del Centro Estatal al inicio de la vigencia del presente Decreto, así como demás personal, continuará en sus funciones aplicando las determinaciones vigentes aprobadas por el Consejo Directivo.
+
+Quinto. El Órgano de Gobierno emitirá el Reglamento y demás normativa correspondiente prevista en este Decreto en un plazo no mayor de 120 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Sexto. En tanto se emita el Reglamento, y demás normativa relacionada con la Ley de Medios Alternativos para la Solución de Conflictos del Estado de Veracruz de Ignacio de la Llave, toda expresión aplicable al Consejo Directivo del Centro Estatal se entenderá atribuida al Órgano de Gobierno del Centro Estatal.
+
+Séptimo. Se derogan todas las disposiciones legales y administrativas de igual o menor jerarquía que se opongan al presente Decreto.
