@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2019-12-18"
+last_updated: "2020-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2020.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -867,7 +867,9 @@ El Congreso del Estado, para su adecuado funcionamiento, contará con las áreas
 
 El Congreso del Estado se integrará en su totalidad con diputados electos cada tres años. Por cada diputado propietario se elegirá una persona suplente, en los términos que señale la ley.
 
-El Congreso del Estado, se integrará con veinticuatro diputados electos según el principio de mayoría relativa, mediante el sistema de distritos uninominales y por dieciséis diputados electos según el principio de representación proporcional, de acuerdo al sistema de listas votadas en cuatro circunscripciones plurinominales, conforme lo determine la Ley.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+El Congreso del Estado, se integrará con veinticuatro diputados electos según el principio de mayoría relativa, mediante el sistema de distritos uninominales y por dieciséis diputados electos según el principio de representación proporcional, de acuerdo al sistema de listas votadas en una circunscripción plurinominal única, conforme lo determine la Ley.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4664,3 +4666,15 @@ De la misma forma deberá realizar las acciones relativas para promover las adec
 Artículo Décimo Tercero.- El Congreso del Estado deberá legislar dentro del plazo que establece la reforma a la Ley Federal del Trabajo del uno de mayo de dos mil diecinueve, lo relativo al Artículo Segundo Transitorio, del Decreto por el que se reforman y Adicionan Diversas Disposiciones de los Artículos 107 y 123, de la Constitución Política de los Estados Unidos Mexicanos, en materia de justicia laboral.
 
 La Junta Local de Conciliación y Arbitraje, así como las especiales y las demás instancias que las integran, seguirán funcionando y atendiendo de manera normal los conflictos de trabajo de su competencia y demás atribuciones que tienen asignadas, hasta en tanto se implemente el nuevo Sistema de Justicia Laboral, derivado del decreto de reforma a la Constitución Política de los Estados Unidos Mexicanos, del año 2017, a que se refiere el párrafo que antecede, así como de lo dispuesto en el Decreto por el que se Reforman, Adicionan y Derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de justicia laboral, libertad sindical y negociación colectiva, publicado en el Diario Oficial de la Federación el día uno de mayo de dos mil diecinueve.
+
+P.O. 4 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 217 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 37 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Dentro del plazo de 30 días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá realizar las adecuaciones normativas correspondientes a la Legislación Electoral, de conformidad con lo previsto en el presente Decreto.
+
+Artículo Cuarto.- Una vez aprobado el presente Decreto, notifíquese a la Suprema Corte de Justicia de la Nación, que este Honorable Congreso del Estado se encuentra en vía de cumplimiento a la resolución de la Acción de Inconstitucionalidad 78/2017 y su acumulada 79/2017.
