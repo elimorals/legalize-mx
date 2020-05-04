@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-presupuesto-contabilidad-y-gasto-publico-municipal-11663
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-19"
-last_updated: "2010-11-05"
+last_updated: "2020-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO MUNICIPAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO MUNICIPAL, PUBLICADA EN EL P.O. DE 4 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2020 (ABROGADA).
 
 Ley Publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el viernes 19 de diciembre de 1997.
 
@@ -396,3 +398,13 @@ P.O. 5 DE NOVIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 4 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 223 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO MUNICIPAL”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público Municipal, publicada en el Periódico Oficial número 064, con fecha viernes 19 de diciembre de 1997, bajo el número de Decreto 024, y sus correspondientes reformas.
+
+Artículo Tercero.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
