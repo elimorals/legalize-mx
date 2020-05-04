@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-devolver-al-pueblo-lo-1392
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-11-28"
-last_updated: "2019-11-28"
+last_updated: "2020-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139246&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2019-11-07"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO -- ANTES ESTATUTO ORGANICO DEL INSTITUTO DE ADMINISTRACION DE BIENES Y ACTIVOS --
 
-ESTATUTO ORGÁNICO DEL INSTITUTO DE ADMINISTRACIÓN DE BIENES Y ACTIVOS
+ESTATUTO ORGÁNICO DEL INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2020.
 
 Estatuto publicado en el Número 23 del Diario Oficial de la Federación, el jueves 28 de noviembre de 2019.
 
@@ -47,13 +47,17 @@ ACUERDO
 
 ÚNICO.- Se hace del conocimiento el Estatuto Orgánico del Instituto de Administración de Bienes y Activos, aprobado por la Junta de Gobierno del Instituto de Administración de Bienes y Activos, en su Décima Octava Sesión Consultiva, celebrada el 7 de noviembre de 2019, para quedar en los siguientes términos:
 
-ESTATUTO ORGÁNICO DEL INSTITUTO DE ADMINISTRACIÓN DE BIENES Y ACTIVOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE MAYO DE 2020)</small>
+
+ESTATUTO ORGÁNICO DEL INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO
 
 ### CAPÍTULO I. De las disposiciones generales
 
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Estatuto Orgánico tiene por objeto establecer las bases de organización, así como las facultades de la Junta de Gobierno, del Director General y de las distintas unidades administrativas que conforman el Instituto de Administración de Bienes y Activos.
+El presente Estatuto Orgánico tiene por objeto establecer las bases de organización, así como las facultades de la Junta de Gobierno, del Director General y de las distintas unidades administrativas que conforman el Instituto para Devolver al Pueblo lo Robado.
 
 ###### ARTÍCULO 2.
 
@@ -103,9 +107,13 @@ Todos los miembros de la Junta de Gobierno tendrán derecho a voz y voto en las 
 
 En el caso de las sesiones que se celebren mediante el auxilio de las tecnologías de la información y comunicación, el sentido del voto de los miembros podrá ser manifestado por las mismas vías.
 
-A las sesiones de la Junta de Gobierno se convocará al comisario público, designado por la Secretaría de la Función Pública, en su carácter de órgano de vigilancia del Instituto, quien tendrá derecho a voz, pero no a voto. Asimismo, asistirán como invitados permanentes un servidor público designado por la Procuraduría Fiscal de la Federación y otro por el Banco de México, quienes tendrán derecho a voz, pero no a voto, así como a cualquier persona que determine la Junta de Gobierno.
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2020)</small>
 
-Además podrán asistir a las sesiones, con el carácter de invitados, teniendo derecho a voz pero no a voto, el Director General y los servidores públicos del Instituto, así como representantes de otras dependencias y entidades de la Administración Pública Federal u organismos autónomos, o cualquier persona que determine la Junta de Gobierno.
+A las sesiones de la Junta de Gobierno se convocará al comisario público, designado por la Secretaría de la Función Pública, en su carácter de órgano de vigilancia del Instituto, quien tendrá derecho a voz, pero no a voto. Asimismo, asistirá como invitado permanente un servidor público designado por la Procuraduría Fiscal de la Federación, quien tendrá derecho a voz, pero no a voto, así como a cualquier persona que determine la Junta de Gobierno.
+
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2020)</small>
+
+Además, podrán asistir a las sesiones, con el carácter de invitados, teniendo derecho a voz, pero no a voto, el Director General y los servidores públicos del Instituto, así como representantes de otras dependencias y entidades de la Administración Pública Federal u órganos constitucionales autónomos cuando tengan relación con los asuntos a tratar, así como cualquier persona que determine la Junta de Gobierno.
 
 Las propuestas de acuerdo que el Director General someta a la aprobación de la Junta de Gobierno, deberán ser acompañadas de las notas ejecutivas correspondientes, debidamente firmadas por los titulares de las unidades administrativas responsables de su contenido, señalando su nombre, cargo y el fundamento jurídico que los legitima para ello.
 
@@ -229,7 +237,9 @@ X. Definir y actualizar en coordinación con las unidades administrativas que co
 
 El Instituto, para el ejercicio de sus atribuciones contará, además de la Junta de Gobierno, del Director General y de su Dirección Ejecutiva adscrita, con las unidades administrativas que aquí se enlistan, así como por los demás servidores públicos que se señalan en el respectivo Manual General de Organización, y por el personal que se requiera para satisfacer las necesidades del Instituto:
 
-I. Dirección Corporativa Jurídica adscritas a ésta, las siguientes unidades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 4 DE MAYO DE 2020)</small>
+
+I. Dirección Corporativa Jurídica y adscritas a ésta, las siguientes unidades:
 
 a) Dirección Ejecutiva Jurídica Contenciosa
 
@@ -293,21 +303,29 @@ IV. Dirección Corporativa de Coordinación Regional y adscritas a ésta, las si
 
 a) Dirección Ejecutiva de Coordinación Regional
 
-b) Coordinaciones Regionales
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 4 DE MAYO DE 2020, PÁGINA 103.]</small>
 
-i. Coordinación Metropolitana
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], D.O.F. 4 DE MAYO DE 2020)</small>
 
-ii. Coordinación Norte
+i) Coordinaciones Regionales
 
-iii. Coordinación Baja California
+1) Administraciones Titulares Jurídicas y de Recepción Regional
 
-iv. Coordinación Golfo
+2) Administraciones Titulares de Administración y Recuperación Regional
 
-v. Coordinación Sureste
+i. (DEROGADO, D.O.F. 4 DE MAYO DE 2020)
 
-vi. Administraciones Titulares Jurídicas y de Recepción
+ii. (DEROGADO, D.O.F. 4 DE MAYO DE 2020)
 
-vii. Administraciones Titulares de Administración y Recuperación
+iii. (DEROGADO, D.O.F. 4 DE MAYO DE 2020)
+
+iv. (DEROGADO, D.O.F. 4 DE MAYO DE 2020)
+
+v. (DEROGADO, D.O.F. 4 DE MAYO DE 2020)
+
+vi. (DEROGADO, D.O.F. 4 DE MAYO DE 2020)
+
+vii.(DEROGADO, D.O.F. 4 DE MAYO DE 2020)
 
 V. Dirección Corporativa de Relaciones Institucionales y adscritas a ésta, las siguientes unidades:
 
@@ -367,7 +385,9 @@ i. Coordinación de Postventa y Atención a Clientes
 
 Las Direcciones Corporativas estarán integradas por sus titulares, por los Directores Ejecutivos, Directores de Liquidación, Coordinadores, Coordinadores Regionales, Administradores Titulares y Administradores, así como por el personal técnico operativo que se requiera para el desempeño de sus funciones.
 
-Las personas titulares de las Coordinaciones Jurídicas establecidas en la fracción II., inciso a), numeral i., fracción II., inciso b), numeral i., fracción III., inciso a), numeral i., fracción III., inciso b), numeral i. y fracción VII., numeral i., de este artículo, así como los Administradores Titulares Jurídicos y de Recepción, deben contar con título y cédula profesional de licenciado en derecho.
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2020)</small>
+
+Las personas titulares de las Coordinaciones Jurídicas establecidas en la fracción II., inciso a), numeral i., fracción II., inciso b), numeral i., fracción III., inciso a), numeral i., fracción III., inciso b), numeral i. y fracción VII., numeral i., de este artículo, así como los Administradores Titulares Jurídicos y de Recepción Regional, deben contar con título y cédula profesional de licenciado en derecho.
 
 ###### ARTÍCULO 12.
 
@@ -428,6 +448,8 @@ XI. Supervisar el registro de la información en las bases de datos instituciona
 XII. Ejercer las demás atribuciones que deriven de la normativa aplicable, así como atender los demás asuntos que le encomiende el Director General o la Dirección Corporativa competente.
 
 Para el mejor funcionamiento de cada dirección ejecutiva, su titular se auxiliará de los servidores públicos adscritos a dicha unidad administrativa, quienes serán responsables del ejercicio de sus respectivas atribuciones en términos del presente Estatuto Orgánico. Lo anterior, sin perjuicio de que el director ejecutivo ejerza directamente las atribuciones que el presente Estatuto Orgánico establece.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 14.
 
@@ -521,7 +543,9 @@ I. Dar atención y resolver las consultas de índole jurídica contenciosa, así
 
 II. Dar atención y resolver los requerimientos que presenten las autoridades derivados de los procedimientos judiciales y administrativos en los que el Instituto, sus Encargos, Empresas y Empresas en Administración, sean parte;
 
-III. Representar o coordinar la supervisión de la representación del Instituto, para lo cual podrá auxiliarse de Terceros especializados, para presentar demandas, contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, notarios y corredores públicos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer los recursos en materia de amparo y, en general, para que promueva o realice todos los actos permitidos por las leyes, a nombre de los mismos, así como los que determinen el Director General o el Director Corporativo Jurídico y Fiduciario;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+III. Representar o coordinar la supervisión de la representación del Instituto, para lo cual podrá auxiliarse de Terceros especializados, para presentar demandas, contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, notarios y corredores públicos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer los recursos en materia de amparo y, en general, para que promueva o realice todos los actos permitidos por las leyes, a nombre de los mismos, así como los que determinen el Director General o el Director Corporativo Jurídico;
 
 IV. Coordinar la supervisión de la representación legal de los Encargos, Empresas y Empresas en Administración, cuando así lo determine su superior jerárquico;
 
@@ -531,7 +555,9 @@ VI. Rendir los informes previos y justificados cuando el Director General, la Ju
 
 VII. Proponer los proyectos de informes previos y justificados en los juicios de amparo cuando la Junta de Gobierno, el Instituto, sus Encargos, Empresas y Empresas en Administración que no cuenten con estructuras propias, o cualquiera de sus servidores públicos sean señalados como autoridad responsable;
 
-VIII. Proponer al Director Corporativo Jurídico y Fiduciario la designación de los Terceros especializados que deban representar al Instituto, sus Encargos, Empresas y, en su caso, Empresas en Administración, en los procedimientos judiciales y administrativos contenciosos en los que éstos intervengan;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+VIII. Proponer al Director Corporativo Jurídico la designación de los Terceros especializados que deban representar al Instituto, sus Encargos, Empresas y, en su caso, Empresas en Administración, en los procedimientos judiciales y administrativos contenciosos en los que éstos intervengan;
 
 IX. Asignar o proponer la asignación de la atención de juicios relativos a asuntos de su competencia, así como la emisión de opiniones jurídicas a Terceros especializados; y
 
@@ -541,11 +567,17 @@ X. Aprobar la dictaminación jurídica de los asuntos que se vayan a someter a c
 
 Corresponde a la Coordinación Laboral y Penal, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
 
-I. Representar y supervisar la representación del Instituto o sus Encargos, Empresas y, en su caso, Empresas en Administración, en los procedimientos derivados de las materias contenciosa, laboral y penal, así como los que determinen el Director General o el Director Corporativo Jurídico y Fiduciario, ejercitando las acciones, excepciones y defensas que correspondan; así como interponer los recursos que procedan, allanarse, desistirse y transigir de éstos;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
 
-II. Instrumentar y verificar el seguimiento y presentación de demandas laborales, denuncias o querellas, así como, ejecutar y revisar las acciones de seguimiento de los procedimientos judiciales en los que el Instituto, sus Encargos, Empresas y, en su caso, Empresas en Administración sean parte, así como los que determinen el Director General o el Director Corporativo Jurídico y Fiduciario;
+I. Representar y supervisar la representación del Instituto o sus Encargos, Empresas y, en su caso, Empresas en Administración, en los procedimientos derivados de las materias contenciosa, laboral y penal, así como los que determinen el Director General o el Director Corporativo Jurídico, ejercitando las acciones, excepciones y defensas que correspondan; así como interponer los recursos que procedan, allanarse, desistirse y transigir de éstos;
 
-III. Atender el desahogo de las consultas de índole jurídica contenciosa, laboral y penal, así como las que a criterio del Director General o del Director Corporativo Jurídico y Fiduciario sean relevantes;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+II. Instrumentar y verificar el seguimiento y presentación de demandas laborales, denuncias o querellas, así como, ejecutar y revisar las acciones de seguimiento de los procedimientos judiciales en los que el Instituto, sus Encargos, Empresas y, en su caso, Empresas en Administración sean parte, así como los que determinen el Director General o el Director Corporativo Jurídico;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+III. Atender el desahogo de las consultas de índole jurídica contenciosa, laboral y penal, así como las que a criterio del Director General o del Director Corporativo Jurídico sean relevantes;
 
 IV. Instrumentar la asignación y reasignación de asuntos contenciosos a Terceros especializados; y
 
@@ -561,11 +593,17 @@ II. Proponer los proyectos de los informes previos, justificados, cumplimientos 
 
 III. Rendir los informes previos y justificados cuando el Director General, la Junta de Gobierno, el Instituto, sus Encargos, Empresas y Empresas en Administración que no cuenten con estructura propia, o alguno de sus servidores públicos sean señalados como autoridad responsable, así como rendir pruebas, formular alegatos, hacer promociones y promover los incidentes y los recursos previstos en materia de amparo, conforme a la información y documentación proporcionada por las unidades administrativas competentes;
 
-IV. Atender el desahogo de las consultas de índole contenciosa fiscal, administrativa, agrario y de amparo, así como las que determine el Director General o el Director Corporativo Jurídico y Fiduciario;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
 
-V. Representar al Instituto, sus Encargos, Empresas y, en su caso, Empresas en Administración o alguno de sus servidores públicos o supervisar dicha representación, en los procedimientos derivados de las materias contenciosa agraria, fiscal, administrativa y de amparo, así como los que determinen el Director General o el Director Corporativo Jurídico y Fiduciario, ejercitando las acciones, excepciones y defensas que correspondan; así como interponer los recursos que procedan, allanarse, transigir y desistirse de éstos;
+IV. Atender el desahogo de las consultas de índole contenciosa fiscal, administrativa, agrario y de amparo, así como las que determine el Director General o el Director Corporativo Jurídico;
 
-VI. Instrumentar la presentación de demandas, así como dar seguimiento a los procedimientos agrarios, fiscales, administrativos y de amparo en los que el Instituto, sus Encargos, Empresas y, en su caso, Empresas en Administración sean parte, así como los que determinen el Director General o el Director Corporativo Jurídico y Fiduciario;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+V. Representar al Instituto, sus Encargos, Empresas y, en su caso, Empresas en Administración o alguno de sus servidores públicos o supervisar dicha representación, en los procedimientos derivados de las materias contenciosa agraria, fiscal, administrativa y de amparo, así como los que determinen el Director General o el Director Corporativo Jurídico, ejercitando las acciones, excepciones y defensas que correspondan; así como interponer los recursos que procedan, allanarse, transigir y desistirse de éstos;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+VI. Instrumentar la presentación de demandas, así como dar seguimiento a los procedimientos agrarios, fiscales, administrativos y de amparo en los que el Instituto, sus Encargos, Empresas y, en su caso, Empresas en Administración sean parte, así como los que determinen el Director General o el Director Corporativo Jurídico;
 
 VII. Instrumentar la asignación y reasignación de los asuntos contenciosos agrarios, fiscales, administrativos y de amparo a Terceros especializados; y
 
@@ -585,7 +623,9 @@ IV. Proponer, en su caso, los criterios de aplicación de la normativa emitida p
 
 V. Emitir opinión jurídica de los asuntos que se presenten a consideración de la Junta de Gobierno o de algún otro órgano colegiado del Instituto;
 
-VI. Supervisar el análisis del marco jurídico aplicable al Instituto cuando así se lo requiera la Junta de Gobierno, el Director General, los órganos colegiados del Instituto y el Director Corporativo Jurídico y Fiduciario y en su caso, proponer los proyectos de modificaciones que correspondan;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+VI. Supervisar el análisis del marco jurídico aplicable al Instituto cuando así se lo requiera la Junta de Gobierno, el Director General, los órganos colegiados del Instituto y el Director Corporativo Jurídico y, en su caso, proponer los proyectos de modificaciones que correspondan;
 
 VII. Participar con las autoridades competentes en la elaboración y modificación del marco jurídico aplicable al Instituto;
 
@@ -613,9 +653,13 @@ II. Revisar y opinar sobre los proyectos de normativa interna que las diversas u
 
 III. Revisar los proyectos de documentos normativos que sean sometidos a la Junta de Gobierno;
 
-IV. Opinar sobre los asuntos que serán sometidos a consideración del Director General, el Director Corporativo Jurídico y Fiduciario, la Junta de Gobierno o algún otro órgano colegiado del Instituto, previa opinión jurídica, en su caso, de la unidad administrativa que propone;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
 
-V. Realizar el análisis del marco jurídico aplicable al Instituto cuando así lo requiera la Junta de Gobierno, el Director General, los órganos colegiados del Instituto o el Director Corporativo Jurídico y Fiduciario y en su caso, proponer al Director Ejecutivo Consultivo y Normativo, los proyectos de modificaciones que correspondan;
+IV. Opinar sobre los asuntos que serán sometidos a consideración del Director General, el Director Corporativo Jurídico, la Junta de Gobierno o algún otro órgano colegiado del Instituto, previa opinión jurídica, en su caso, de la unidad administrativa que propone;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+V. Realizar el análisis del marco jurídico aplicable al Instituto cuando así lo requiera la Junta de Gobierno, el Director General, los órganos colegiados del Instituto o el Director Corporativo Jurídico y, en su caso, proponer al Director Ejecutivo Consultivo y Normativo, los proyectos de modificaciones que correspondan;
 
 VI. Gestionar ante las autoridades competentes la elaboración y modificación del marco jurídico aplicable al Instituto;
 
@@ -639,7 +683,9 @@ Corresponde a la Dirección Ejecutiva de Recuperación, Civil y Mercantil, en el
 
 I. Dar atención y resolver los requerimientos que presenten las autoridades derivados de los procedimientos judiciales, administrativos y de recuperación de Activos Financieros en los que los Encargos, Empresas y, en su caso, Empresas en Administración, sean parte;
 
-II. Representar o coordinar la supervisión de la representación de los Encargos, Empresas y, en su caso, Empresas en Administración, para lo cual podrá auxiliarse de Terceros especializados o de las estructuras jurídicas de éstas, para presentar demandas, contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, designar notarios y corredores públicos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer los recursos en materia civil y mercantil, recuperación de Activos Financieros y ejecución convencional de fideicomisos que sean transferidos al Instituto y, en general, para que promueva o realice todos los actos permitidos por las leyes, a nombre de los mismos, así como los que determinen el Director General o el Director Corporativo Jurídico y Fiduciario;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+II. Representar o coordinar la supervisión de la representación de los Encargos, Empresas y, en su caso, Empresas en Administración, para lo cual podrá auxiliarse de Terceros especializados o de las estructuras jurídicas de éstas, para presentar demandas, contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, designar notarios y corredores públicos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer los recursos en materia civil y mercantil, recuperación de Activos Financieros y ejecución convencional de fideicomisos que sean transferidos al Instituto y, en general, para que promueva o realice todos los actos permitidos por las leyes, a nombre de los mismos, así como los que determinen el Director General o el Director Corporativo Jurídico;
 
 III. Emitir el dictamen jurídico sobre la recepción o devolución de Activos Financieros, así como los diagnósticos, dictámenes, análisis y todos los estudios necesarios para la recuperación de Activos Financieros;
 
@@ -651,7 +697,9 @@ VI. Representar al Instituto para la recuperación de Activos Financieros y ejec
 
 VII. Supervisar que se realicen los actos administrativos y procesales necesarios para la protección y defensa de los intereses en materia de recuperación de Activos Financieros del Instituto, Encargos, Empresas y Empresas en Administración;
 
-VIII. Proponer al Director Corporativo Jurídico y Fiduciario la designación de los Terceros especializados que deban representar al Instituto, sus Encargos, Empresas y Empresas en Administración, en los procedimientos judiciales y administrativos en los que éstos intervengan;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+VIII. Proponer al Director Corporativo Jurídico la designación de los Terceros especializados que deban representar al Instituto, sus Encargos, Empresas y Empresas en Administración, en los procedimientos judiciales y administrativos en los que éstos intervengan;
 
 IX. Coordinar la asignación para la atención de juicios relativos a asuntos de su competencia, así como la emisión de opiniones jurídicas a Terceros especializados;
 
@@ -705,13 +753,17 @@ XV. Presentar a los órganos colegiados competentes del Instituto, mancomunadame
 
 Corresponde a la Coordinación Civil, Mercantil y de Recuperación, en el ámbito de su competencia las siguientes atribuciones:
 
-I. Atender los aspectos jurídicos relacionados con la recuperación de Activos Financieros que administre al Instituto;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+I. Atender los aspectos jurídicos relacionados con la recuperación de Activos Financieros que administre el Instituto;
 
 II. Ejecutar las actividades inherentes al seguimiento de los asuntos de carácter contencioso relacionados con la recuperación de Activos Financieros;
 
 III. Verificar y emitir opinión jurídica a los dictámenes que se vayan a someter a los órganos colegiados del Instituto para la recuperación de Activos Financieros, así como aquellos que determinen la irrecuperabilidad o imposibilidad de cobro de los créditos y derechos vinculados a cada uno de los juicios;
 
-IV. Representar o supervisar la representación de los Encargos, Empresas y Empresas en Administración, para presentar demandas, contestarlas y reconvenir a la contraparte, ejercer acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones, desistirse, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer los recursos en materia de amparo y, en general, para que promueva o realice todos los actos permitidos por las leyes, a nombre de los mismos, así como los que determinen el Director General o el Director Corporativo Jurídico y Fiduciario;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+IV. Representar o supervisar la representación de los Encargos, Empresas y Empresas en Administración, para presentar demandas, contestarlas y reconvenir a la contraparte, ejercer acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones, desistirse, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer los recursos en materia de amparo y, en general, para que promueva o realice todos los actos permitidos por las leyes, a nombre de los mismos, así como los que determinen el Director General o el Director Corporativo Jurídico;
 
 V. Representar al Instituto, a sus Encargos, Empresas y, en su caso, Empresas en Administración, en los actos procesales necesarios para la protección y defensa de los intereses de éstos, en la recuperación jurídica de Activos Financieros;
 
@@ -719,11 +771,17 @@ VI. Vigilar que se realicen los actos procesales necesarios para la protección 
 
 VII. Atender las consultas jurídicas que, en su caso, le llegaren a formular en materia de recuperación jurídica de Activos Financieros;
 
-VIII. Representar y supervisar la representación del Instituto o sus Encargos, Empresas y Empresas en Administración en los procedimientos derivados de las materias contenciosa, civil y mercantil, así como los que determinen el Director General o el Director Corporativo Jurídico y Fiduciario, ejercitando las acciones, excepciones y defensas que correspondan, así como interponer los recursos que procedan, allanarse, desistirse y transigir de éstos;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
 
-IX. Instrumentar y verificar la presentación de demandas, así como, ejecutar y revisar las acciones de seguimiento de los procedimientos judiciales en los que el Instituto, sus Encargos, Empresas y, en su caso, Empresas en Administración sean parte, así como los que determinen el Director General o el Director Corporativo Jurídico y Fiduciario;
+VIII. Representar y supervisar la representación del Instituto o sus Encargos, Empresas y Empresas en Administración en los procedimientos derivados de las materias contenciosa, civil y mercantil, así como los que determinen el Director General o el Director Corporativo Jurídico, ejercitando las acciones, excepciones y defensas que correspondan, así como interponer los recursos que procedan, allanarse, desistirse y transigir de éstos;
 
-X. Atender el desahogo de las consultas de índole jurídica contenciosa, civil y mercantil y de recuperación, así como las que a criterio del Director General o del Director Corporativo Jurídico y Fiduciario sean relevantes;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+IX. Instrumentar y verificar la presentación de demandas, así como, ejecutar y revisar las acciones de seguimiento de los procedimientos judiciales en los que el Instituto, sus Encargos, Empresas y, en su caso, Empresas en Administración sean parte, así como los que determinen el Director General o el Director Corporativo Jurídico;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+X. Atender el desahogo de las consultas de índole jurídica contenciosa, civil y mercantil y de recuperación, así como las que a criterio del Director General o del Director Corporativo Jurídico sean relevantes;
 
 XI. Instrumentar la asignación y reasignación de asuntos contenciosos a Terceros especializados; y
 
@@ -759,7 +817,9 @@ V. Vigilar el registro y actualización de la información de los procedimientos
 
 VI. Supervisar la implementación de mecanismos de evaluación de desempeño de los Terceros especializados y, en su caso, de los abogados internos dependientes de las Unidades Administrativas Jurídicas, respecto a la atención de procedimientos legales a su cargo;
 
-VII. Definir y presentar para su aprobación al Director Corporativo Jurídico y Fiduciario, el dictamen que acuerde la atracción o defensa jurídica coordinada de procedimientos legales a cargo de las Unidades Administrativas Jurídicas y áreas homólogas en los Encargos del Instituto, por así considerarse como estratégicos;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+VII. Definir y presentar para su aprobación al Director Corporativo Jurídico, el dictamen que acuerde la atracción o defensa jurídica coordinada de procedimientos legales a cargo de las Unidades Administrativas Jurídicas y áreas homólogas en los Encargos del Instituto, por así considerarse como estratégicos;
 
 VIII. Dirigir el proceso de definición de alternativas de solución de los procedimientos legales estratégicos, una vez analizada la información relacionada con la identificación y evaluación de los riesgos;
 
@@ -823,19 +883,33 @@ XI. Dar seguimiento a la supervisión de los asuntos registrados en los Sistemas
 
 XII. Dar seguimiento a las metas de cumplimiento y cualquier otra que le sea instruida;
 
-XIV (SIC). Elaborar el proyecto de dictamen que determine la atracción de procedimientos legales a cargo de las Unidades Administrativas Jurídicas y áreas homólogas en los Encargos del Instituto, por así considerarse como estratégicos;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
 
-XV. Analizar la información relacionada con la identificación y evaluación de los diversos riesgos de los procedimientos legales, a efecto de proponer alternativas de solución en aquellos casos determinados como estratégicos;
+XIII. Elaborar el proyecto de dictamen que determine la atracción de procedimientos legales a cargo de las Unidades Administrativas Jurídicas y áreas homólogas en los Encargos del Instituto, por así considerarse como estratégicos;
 
-XVI. Proponer y desarrollar los mecanismos de análisis jurídico para la elaboración de estrategias encaminadas al fortalecimiento de los procedimientos legales, a través de la definición de precedentes judiciales que impacten favorablemente los intereses del Instituto y sus Encargos;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
 
-XVII. Coordinar con las unidades administrativas jurídicas y áreas homólogas en el Instituto, la presentación de las estrategias jurídicas para aprobación de la instancia que corresponda.; (sic)
+XIV. Analizar la información relacionada con la identificación y evaluación de los diversos riesgos de los procedimientos legales, a efecto de proponer alternativas de solución en aquellos casos determinados como estratégicos;
 
-XVIII. Coadyuvar con las Unidades Administrativas Jurídicas y áreas homólogas en los Encargos del Instituto, en la difusión, implementación y ejecución de las estrategias jurídicas aprobadas y planteadas para la atención de los procedimientos legales;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
 
-XIX. Identificar y promover alianzas estratégicas con las dependencias y entidades de la Administración Pública Federal, estatal y municipal, el Poder Judicial de la Federación, los poderes judiciales de las entidades federativas, las procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, para definir estrategias jurídicas integrales; y
+XV. Proponer y desarrollar los mecanismos de análisis jurídico para la elaboración de estrategias encaminadas al fortalecimiento de los procedimientos legales, a través de la definición de precedentes judiciales que impacten favorablemente los intereses del Instituto y sus Encargos;
 
-XX. Proponer la capacitación y profesionalización del personal adscrito a las Unidades Administrativas Jurídicas y áreas homólogas en los Encargos del Instituto, y en su caso, Terceros especializados, a través de cursos, clínicas jurídicas y otros proyectos académicos dirigidos a la formación jurídica.
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+XVI. Coordinar con las unidades administrativas jurídicas y áreas homólogas en el Instituto, la presentación de las estrategias jurídicas para aprobación de la instancia que corresponda;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+XVII. Coadyuvar con las Unidades Administrativas Jurídicas y áreas homólogas en los Encargos del Instituto, en la difusión, implementación y ejecución de las estrategias jurídicas aprobadas y planteadas para la atención de los procedimientos legales;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+XVIII. Identificar y promover alianzas estratégicas con las dependencias y entidades de la Administración Pública Federal, estatal y municipal, el Poder Judicial de la Federación, los poderes judiciales de las entidades federativas, las procuradurías generales de justicia o fiscalías de las entidades federativas y los organismos constitucionales autónomos, para definir estrategias jurídicas integrales; y
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+XIX. Proponer la capacitación y profesionalización del personal adscrito a las Unidades Administrativas Jurídicas y áreas homólogas en los Encargos del Instituto, y en su caso, Terceros especializados, a través de cursos, clínicas jurídicas y otros proyectos académicos dirigidos a la formación jurídica.
 
 ###### ARTÍCULO 29.
 
@@ -997,6 +1071,8 @@ VI. Dar seguimiento a los contratos de seguros, asesor de seguros y servicios de
 
 ### CAPÍTULO VI. De la Dirección Corporativa de Administración y Liquidación de Activos
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 37.
 
 Corresponde a la Dirección Corporativa de Administración y Liquidación de Activos, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
@@ -1025,6 +1101,8 @@ XI. Fungir como delegado fiduciario general en los fideicomisos en que el Instit
 
 XII. Coordinar las actividades que realice el Instituto en su carácter de fiduciario sustituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 38.
 
 Corresponde a la Coordinación de Evaluación y Estandarización de Procesos de Activos, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
@@ -1044,6 +1122,8 @@ VI. Proponer, en su caso, al Director Corporativo de Administración y Liquidaci
 VII. Proponer al Director Corporativo de Administración y Liquidación de Activos, cuando resulte procedente, los instrumentos jurídicos necesarios que coadyuven a la conclusión de los procesos de Empresas y Empresas en Administración, Activos Financieros y Encargos;
 
 VIII. Fungir como apoyo del Director Corporativo de Administración y Liquidación de Activos, cuando éste actúe como delegado fiduciario general en los fideicomisos en que el Instituto actúe como fiduciario sustituto; así como en la coordinación de actividades que realice el Instituto en su carácter de fiduciario sustituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 39.
 
@@ -1095,6 +1175,8 @@ XXII. Asignar la ejecución de garantías fiduciarias y atención de juicios, as
 
 XXIII. Supervisar la ejecución de fideicomisos por la vía convencional, así como dar seguimiento a los procedimientos derivados de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 40.
 
 Corresponde a los Responsables de los procesos de desincorporación, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
@@ -1145,6 +1227,8 @@ XXII. Incorporar en el módulo comercial del sistema informático correspondient
 
 XXIII. Ejercer las demás atribuciones que deriven de la normativa aplicable, así como atender y resolver los demás asuntos que le encomiende el Director General, el Director Corporativo de Administración y Liquidación de Activos o el Director Ejecutivo de Fiduciario y Liquidación de Activos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 41.
 
 Corresponde a la Coordinación Jurídica de Fiduciario y Liquidación de Activos, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
@@ -1176,6 +1260,8 @@ XII. Compilar la información y llevar a cabo la rendición de cuentas de los en
 XIII. Llevar a cabo los actos y trámites jurídicos correspondientes, directamente o a través de Terceros especializados, en los procedimientos convencionales o judiciales, para la ejecución de los negocios fiduciarios, en los términos de los contratos de fideicomiso de garantía y demás disposiciones aplicables; y
 
 XIV. Coordinar la elaboración de los proyectos de convenios de extinción de fideicomisos o sustitución fiduciaria, así como revisar jurídicamente los proyectos de escrituras de transmisión de propiedad en ejecución de fideicomiso y extinción parcial del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 42.
 
@@ -1214,6 +1300,8 @@ XV. Elaborar y suscribir el balance inicial y final de las Empresas y Encargos b
 XVI. Dar seguimiento a las adquisiciones, arrendamientos y servicios contratados por las Empresas y Encargos bajo responsabilidad de la Dirección Ejecutiva de Fiduciario y Liquidación de Activos; y
 
 XVII. Coordinar la atención y seguimiento a las observaciones y recomendaciones que realizan las instancias fiscalizadoras a la Dirección Ejecutiva de Fiduciario y Liquidación de Activos, así como de las Empresas y Encargos bajo responsabilidad de la Dirección Ejecutiva de Fiduciario y Liquidación de Activos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 43.
 
@@ -1263,6 +1351,8 @@ XXI. Someter a la consideración de la unidad administrativa competente, la recu
 
 XXII. Aprobar los planes de trabajo para la Administración y preparación para el destino o devolución de los Activos Financieros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 44.
 
 Corresponde a la Coordinación Jurídica de Administración de Activos, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
@@ -1295,6 +1385,8 @@ XIII. Verificar que la información financiera de las empresas en quiebra o en c
 
 XIV. Instrumentar las actividades para, en su caso, la contratación de los seguros que amparen los activos de las empresas en quiebra o concurso mercantil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 45.
 
 Corresponde a la Coordinación de Administración de Activos, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
@@ -1322,6 +1414,8 @@ X. Instrumentar las actividades para la contratación de los seguros que amparen
 XI. Gestionar las actividades para la emisión del dictamen de incosteabilidad de las empresas sujetas a un procedimiento penal federal o de extinción de dominio, a través de un Tercero especializado; y
 
 XII. Proponer al Director Ejecutivo de Administración de Activos, Herramientas o modificaciones a las mismas para el control, supervisión y evaluación del registro, estudios previos, planes de trabajo, integración del presupuesto, flujo de efectivo, contabilidad y rendición de cuentas de las empresas sujetas a un procedimiento penal federal o de extinción de dominio del Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 46.
 
@@ -1375,7 +1469,9 @@ Corresponde a la Dirección Corporativa de Coordinación Regional, en el ámbito
 
 I. Instrumentar el cumplimiento de las estrategias institucionales emitidas por la Dirección Corporativa de Bienes, así como por la Dirección Corporativa de Administración y Liquidación de Activos;
 
-II. Evaluar el cumplimiento de las estrategias institucionales a nivel regional;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+II. Supervisar la evaluación del cumplimiento de las estrategias institucionales a nivel regional;
 
 III. Coordinar la ejecución de las estrategias institucionales para la atención de las solicitudes de venta, monetización, destrucción, Administración, donación y asignación de Bienes;
 
@@ -1389,7 +1485,9 @@ VI. Definir indicadores relacionados con la operación regional para la administ
 
 Corresponde a la Dirección Ejecutiva de Coordinación Regional, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
 
-I. Realizar visitas e inspecciones a las coordinaciones adscritas a la Dirección Corporativa de Coordinación Regional, para supervisar su desempeño y cumplimiento de los planes de trabajo, así como la ejecución de las estrategias institucionales;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+I. Realizar visitas a las coordinaciones adscritas a la Dirección Corporativa de Coordinación Regional, para supervisar su desempeño y cumplimiento de los planes de trabajo, así como la ejecución de las estrategias institucionales;
 
 II. Supervisar las contrataciones de terceros que realicen las coordinaciones adscritas a la Dirección Corporativa de Coordinación Regional;
 
@@ -1397,13 +1495,23 @@ III. Supervisar la atención de las solicitudes de donación o asignación de bi
 
 IV. Supervisar la entrega de los Bienes transferidos al Instituto, cuando medie orden de autoridad judicial o administrativa competente o cuando éstos hayan sido enajenados, monetizados o asignados;
 
-V. Autorizar las modalidades y los plazos de destrucción que propongan las coordinaciones adscritas a la Dirección Corporativa de Coordinación Regional y sus administraciones para atender las instrucciones y resoluciones de destrucción de bienes muebles; y
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
 
-VI. Supervisar la ejecución de la remoción de depositarías o cualquier otra forma de uso y la recuperación de los Bienes.
+V. Autorizar las modalidades y los plazos de destrucción que propongan las coordinaciones adscritas a la Dirección Corporativa de Coordinación Regional y sus administraciones para atender las instrucciones y resoluciones de destrucción de bienes muebles;
+
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+VI. Supervisar la ejecución de la remoción de depositarías o cualquier otra forma de uso y la recuperación de los Bienes; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+VII. Evaluar el cumplimiento de las estrategias institucionales a nivel regional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 49.
 
-Corresponde a las Coordinaciones adscritas a la Dirección Ejecutiva de Coordinación Regional, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
+Corresponde a las Coordinaciones Regionales, adscritas a la Dirección Ejecutiva de Coordinación Regional, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
 
 I. Instrumentar y ejecutar los programas institucionales en el ámbito de su competencia;
 
@@ -1411,7 +1519,9 @@ II. Representar al Instituto para todos los efectos legales, ante todas las pers
 
 III. Rendir los informes previos y justificados en los juicios de amparo cuando sea señalado como autoridad responsable el Instituto o cualquiera de sus servidores públicos;
 
-IV. Verificar el cumplimiento de las obligaciones contraídas por los terceros y Terceros especializados contratados para el desarrollo de sus atribuciones y actividades; y en su caso, gestionar los contratos con terceros que requieran para el desarrollo de sus actividades, en términos de la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+IV. Verificar el cumplimiento de las obligaciones contraídas por los terceros y Terceros especializados contratados para el desarrollo de sus atribuciones y actividades; y en su caso, contratar a los terceros que requieran para el desarrollo de sus actividades, en términos de la normativa aplicable;
 
 V. Proponer la normativa que se requiera para el cumplimiento de sus atribuciones en términos de la normativa aplicable;
 
@@ -1429,7 +1539,9 @@ XI. Verificar la dictaminación y atención de los asuntos jurídicos relacionad
 
 XII. Ejercer los derechos patrimoniales del Instituto;
 
-XIII. Solicitar la expedición del certificado de no adeudo de los créditos pagados, así como suscribir los documentos necesarios para este fin, además de llevar a cabo la entrega, en su caso y previa instrucción de la unidad administrativa competente, de los documentos soporte relacionados con dichos créditos;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+XIII. Verificar las solicitudes de la expedición del certificado de no adeudo de los créditos pagados, así como suscribir los documentos necesarios para este fin, además de llevar a cabo la entrega, en su caso y previa instrucción de la unidad administrativa competente, de los documentos soporte relacionados con dichos créditos y, en su caso, ejecutar por sí mismo la solicitud;
 
 XIV. Verificar la tramitación de la liberación de garantías de créditos, de ser el caso, ante fedatario público;
 
@@ -1447,9 +1559,11 @@ XX. Informar al Director Ejecutivo de Coordinación Regional los resultados del 
 
 XXI. Las demás que le instruya el Director Corporativo de Coordinación Regional o el Director Ejecutivo de Coordinación Regional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 50.
 
-Corresponde a las Administraciones Titulares Jurídicas y de Recepción, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
+Corresponde a las Administraciones Titulares Jurídicas y de Recepción Regional, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
 
 I. Dictaminar la procedencia de la recepción, decomiso, extinción de dominio, devolución o destrucción de los Bienes determinados, e instrumentar su Administración, donación, asignación o destino previa instrucción de las unidades administrativas competentes;
 
@@ -1469,13 +1583,21 @@ VIII. Dictaminar sobre la incosteabilidad de Bienes en Administración, en térm
 
 IX. Formalizar la donación o asignación de Bienes cuando le sea encomendada por la unidad administrativa competente;
 
-X. Colaborar en la tramitación de la formalización de la venta, usufructo o monetización de bienes inmuebles ante fedatario público, cuando le sea encomendada por la unidad administrativa competente; y
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
 
-XI. Las demás que le instruya el Director Corporativo de Coordinación Regional, el Director Ejecutivo de Coordinación Regional o el Coordinador Regional que corresponda.
+X. Colaborar en la tramitación de la formalización de la venta, usufructo o monetización de bienes inmuebles ante fedatario público, cuando le sea encomendada por la unidad administrativa competente;
+
+> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+XI. Tramitar la liberación de garantías de créditos, de ser el caso, ante fedatario público; y
+
+XII. Las demás que le instruya el Director Corporativo de Coordinación Regional, el Director Ejecutivo de Coordinación Regional o el Coordinador Regional que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 51.
 
-Corresponde a las Administraciones Titulares de Administración y Recuperación, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
+Corresponde a las Administraciones Titulares de Administración y Recuperación Regional, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
 
 I. Recibir física y jurídicamente los Bienes referidos en la legislación aplicable al Instituto;
 
@@ -1523,6 +1645,8 @@ IX. Coordinar la rendición de cuentas de los Encargos en los plazos y términos
 
 X. Coordinar el seguimiento que las unidades administrativas del Instituto den a las operaciones propias de las Empresas y Empresas en Administración, una vez que ésta haya sido concluida, salvo aquellos relativos a fondos de pensiones y fideicomisos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 53.
 
 Corresponde a la Dirección Ejecutiva de Relación con Entidades Transferentes, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
@@ -1542,6 +1666,8 @@ VI. Supervisar la integración del presupuesto y el flujo de efectivo de los Enc
 VII. Supervisar con la unidad administrativa competente, en su caso, las actividades previas para la recepción de los Encargos que así lo requieran; y
 
 VIII. Supervisar el seguimiento que las unidades administrativas del Instituto den a las operaciones propias de las Empresas y Empresas en Administración, una vez que ésta haya sido concluida, salvo aquellos relativos a fondos de pensiones y fideicomisos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 54.
 
@@ -1565,6 +1691,8 @@ VIII. Analizar, compilar y reportar los resultados de los Encargos para la rendi
 
 IX. Tramitar el registro, renovación y cancelación de la clave presupuestal de los contratos de fideicomiso, mandatos y contratos análogos de los Encargos ante las autoridades competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 55.
 
 Corresponde a las (sic) Coordinación de Rendición de Cuentas con Entidades Transferentes "B", en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
@@ -1576,6 +1704,8 @@ II. Atender los requerimientos y solicitudes formuladas por las Entidades Transf
 III. Analizar, compilar y reportar los resultados de los Encargos para la rendición de cuentas a las Entidades Transferentes, salvo aquéllos relativos a Empresas y Empresas en Administración; y
 
 IV. Tramitar el registro, renovación y cancelación de la clave presupuestal de los contratos de fideicomiso, mandatos y contratos análogos de los Encargos ante las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 56.
 
@@ -1594,6 +1724,8 @@ V. Supervisar el cumplimiento de las instrucciones que se hagan a los intermedia
 VI. Integrar los reportes mensuales y acumulados de resultados obtenidos en materia de rendimiento a presentarse en el órgano colegiado respectivo; y
 
 VII. Asesorar en materia de inversiones a las distintas unidades administrativas del Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 4 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 57.
 
@@ -1745,7 +1877,9 @@ III. Emitir la carta responsiva, en la que se haga constar la veracidad de los a
 
 IV. Presentar las declaraciones fiscales de los impuestos federales a los que se encuentra sujeto el Instituto; y
 
-V. Coordinar en la elaboración, la emisión de los anexos de la Cuenta Pública relativos a la situación financiera.
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2020)</small>
+
+V. Coordinar la elaboración y la emisión de los anexos de la Cuenta Pública relativos a la situación financiera.
 
 ###### ARTÍCULO 63.
 
@@ -2143,9 +2277,13 @@ VII. Dirección Corporativa de Comercialización y Mercadotecnia.
 
 La ausencia temporal de los titulares de las Direcciones Corporativas será suplida por los titulares de las Direcciones Ejecutivas adscritos a su respectiva Dirección, en el orden en el que se enumeran en el artículo 11 de este Estatuto.
 
-La ausencia temporal de los titulares de las Direcciones Ejecutivas será suplida por los titulares de las Coordinaciones que de ellos dependan, en el orden que se establece para cada Dirección Ejecutiva en el artículo 11 de este Estatuto.
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2020)</small>
 
-La ausencia temporal de los titulares de las Coordinaciones Regionales será suplida por los Administradores Titulares que de ellos dependan, en el orden que se establece para cada Dirección Ejecutiva en el artículo 11 de este Estatuto.
+La ausencia temporal de los titulares de las Direcciones Ejecutivas será suplida por los titulares de las Coordinaciones que de ellos dependan, en el orden que se establece para cada Dirección Ejecutiva en el artículo 11 de este Estatuto, con excepción de la Dirección Ejecutiva de Coordinación Regional, que será suplida por el servidor público que designe el titular de la Dirección Corporativa de Coordinación Regional, el cual deberá tener al menos nivel de Administrador Titular.
+
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2020)</small>
+
+La ausencia temporal de los titulares de las Coordinaciones Regionales será suplida por los Administradores Titulares Regionales que de ellos dependan, atendiendo a la competencia, de acuerdo a su circunscripción territorial, en el orden que se establece en el artículo 11 de este Estatuto.
 
 Los demás servidores públicos serán suplidos en sus ausencias por los inmediatos inferiores que de ellos dependan, en el ámbito de su competencia, salvo que se trate de personal operativo.
 
@@ -2170,3 +2308,19 @@ SÉPTIMO.- Las unidades administrativas que conforme al presente Estatuto asuman
 OCTAVO.- Los bienes que se encontraban en administración de la Coordinación de Recepción y Administración de Bienes Muebles, seguirán en administración por parte de la Dirección Ejecutiva de Bienes Muebles por medio de sus Coordinaciones en el ámbito de su competencia, hasta su destino final, o hasta que se haya entregado a la Coordinación adscrita a la Dirección Ejecutiva de Coordinación Regional que corresponda, previo acuerdo con el Director Corporativo de Coordinación Regional.
 
 Ciudad de México, a siete de noviembre de dos mil diecinueve.- El Director General del Instituto de Administración de Bienes y Activos, Ricardo Rodríguez Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DAN A CONOCER LAS REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO DE ADMINISTRACIÓN DE BIENES Y ACTIVOS".]
+
+PRIMERO. Las presentes modificaciones entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. En un término no mayor de 60 días hábiles posteriores a la publicación de las presentes modificaciones en el Diario Oficial de la Federación, se publicarán los acuerdos correspondientes que definan las circunscripciones territoriales de las Coordinaciones Regionales, así como de las Administraciones Titulares Jurídicas y de Recepción Regional y las Administraciones Titulares de Administración y Recuperación Regional adscritas a éstas.
+
+TERCERO. Todas las referencias que hagan mención a las Coordinaciones Regionales Baja California, Golfo, Metropolitana, Norte y Sureste, así como a las Administraciones Titulares Jurídicas y de Recepción y a las Administraciones Titulares de Administración y Recuperación, se entenderán hechas a las unidades administrativas que asuman la atención y resolución de sus asuntos en términos de las presentes modificaciones.
+
+CUARTO. La unidad administrativa que brinde atención a los diversos asuntos de su competencia antes de la entrada en vigor del presente, continuará atendiéndolos hasta en tanto no transfiera formalmente dicha responsabilidad y todos los documentos necesarios para su atención a la unidad administrativa que deba asumirlas.
+
+QUINTO. Las unidades administrativas que conforme a los acuerdos de circunscripción a que hace referencia el artículo SEGUNDO transitorio del presente, asuman competencia en asuntos que anteriormente correspondían a otras unidades administrativas, darán la atención y resolución que corresponda a los mismos.
