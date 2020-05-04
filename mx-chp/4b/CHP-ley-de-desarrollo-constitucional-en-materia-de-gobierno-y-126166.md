@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2019-05-08"
+last_updated: "2020-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2020.
 
-Ley publicada en la Tercera Sección al Número 346 del Periódico Oficial de Chiapas, el miércoles 31 de enero de 2018.
+Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
 DECRETO NÚMERO 020
 
@@ -81,21 +81,25 @@ La extensión territorial de los Municipios del Estado, comprenderá la superfic
 
 La división territorial de los Municipios se integra por la cabecera municipal, barrios, colonias, rancherías, ejidos, comunidades, fraccionamientos, sectores y manzanas, con la denominación, extensión y límites que establezcan los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 8.
 
-Los asuntos inherentes a los límites territoriales del Estado y sus Municipios, se resolverán por acuerdo del titular del Poder Ejecutivo, con la aprobación del Congreso del Estado y de cuando menos la mitad más uno de los Ayuntamientos.
+Los asuntos inherentes a los límites territoriales de los Municipios del Estado, se resolverán por acuerdo del titular del Poder Ejecutivo, con la aprobación del Congreso del Estado y de cuando menos la mitad más uno de los Ayuntamientos.
 
 ###### Artículo 9.
 
 Los asuntos relativos a los límites territoriales también podrán solucionarse por convenios amistosos entre los Municipios, con la autorización del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 10.
 
-El Congreso del Estado, mediante el voto de las dos terceras partes de sus integrantes, tendrá la facultad de modificar la extensión territorial de los Municipios.
+Derivado de alguna controversia territorial, el Congreso del Estado, mediante el voto de las dos terceras partes de sus integrantes, tendrá la facultad de modificar la extensión territorial de los Municipios.
 
 ###### Artículo 11.
 
-El Congreso del Estado no podrá resolver las controversias entre los Municipios por límites territoriales cuando no se logre un acuerdo armonioso entre ellos, en este supuesto, el conflicto será resuelto a través del Tribunal Superior de Justicia del Estado, en términos de Ley.
+(DEROGADO, P.O. 4 DE MAYO DE 2020)
 
 ###### Artículo 12.
 
@@ -107,7 +111,7 @@ Cuando dos o más centros urbanos situados en territorios municipales del Estado
 
 ###### Artículo 14.
 
-Las resoluciones que decrete el Tribunal Superior de Justicia del Estado en las que se ponga fin a los conflictos de límites municipales y los convenios que sean aprobados por el Congreso del Estado no admitirán recurso o medio de defensa legal alguno.
+(DEROGADO, P.O. 4 DE MAYO DE 2020)
 
 ### Capítulo II. De la modificación, creación y supresión de los Municipios
 
@@ -133,19 +137,19 @@ En caso de declararse desaparecido un ayuntamiento o por renuncia o falta defini
 
 El Congreso del Estado designará de entre los vecinos que gocen de buena reputación y sobresalgan por sus méritos culturales y sociales, a los integrantes de los concejos municipales encargados de concluir los períodos respectivos.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 20.
 
-También se podrá declarar que un Ayuntamiento ha desaparecido cuando el Cabildo se haya desintegrado o no sea posible el ejercicio de sus funciones conforme al orden Constitucional Federal o Estatal.
+Se podrá declarar que un Ayuntamiento ha desaparecido, por la renuncia o la falta absoluta de la mayoría de sus miembros o no sea posible el ejercicio de sus funciones conforme al orden Constitucional Federal o Estatal.
 
 ###### Artículo 21.
 
-La petición para que el Congreso del Estado conozca las causas a que se refiere el artículo anterior podrá ser formulada por el Ejecutivo del Estado, por los Diputados Estatales, recibida la petición, si el Congreso del Estado la estimare procedente y de acuerdo a las circunstancias que medien, citara al Ayuntamiento a una audiencia que se celebrara ante la comisión correspondiente del Congreso del Estado, dentro de cinco días naturales contados a partir de recibido el citatorio, por conducto del Presidente Municipal o la representación que al efecto designe, con la comparecencia de sus defensores, para que rinda las pruebas que estimare conducentes y alegue lo que a sus intereses convenga. La resolución del Congreso del Estado se pronunciara dentro de los ocho días hábiles siguientes al desahogo de las pruebas.
+(DEROGADO, P.O. 4 DE MAYO DE 2020)
 
 ###### Artículo 22.
 
-En los recesos del Congreso del Estado, la Comisión Permanente, con la aprobación de cuando menos las dos terceras partes de sus miembros, convocara a sesiones extraordinarias a fin de que se reúna dentro de los tres días siguientes para conocer de la petición a que se refiere el artículo anterior.
-
-En el momento de su instalación, se elegirán a las personas que habrán de desempeñar las funciones de presidente del concejo, síndico y regidores. Los Consejos Municipales tendrán las mismas atribuciones que esta ley confiere a los Ayuntamientos y concluirá el período correspondiente.
+(DEROGADO, P.O. 4 DE MAYO DE 2020)
 
 ###### Artículo 23.
 
@@ -241,13 +245,19 @@ Los Ayuntamientos estarán investidos de personalidad jurídica y manejarán su 
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar su desaparición o revocar el mandato de algunas de las personas que integran dicho Ayuntamiento, por cualquiera de las causas graves establecidas en la Ley, respetando su garantía de audiencia previa.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 36.
 
-En caso de renuncia o falta definitiva de algunas de las personas que integran el Ayuntamiento, éste enviará al Congreso del Estado una propuesta para hacer las sustituciones correspondientes; el Congreso del Estado hará la designación correspondiente conforme a la propuesta que reciba del Ayuntamiento. En todos los casos esta designación garantizará que la o el sustituto, sea del mismo género a quien se sustituye.
+En caso de renuncia, falta temporal o falta definitiva de algunos de los miembros del Ayuntamiento, el Congreso del Estado, o en su caso la Comisión Permanente, designará de entre los que quedaren, las sustituciones correspondientes, debiendo observar las reglas y el principio de paridad entre los géneros establecidos en el artículo 81 de la Constitución Política del Estado Libre y Soberano de Chiapas.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 37.
 
-En caso de renuncia o falta definitiva de las y los regidores de representación proporcional del Ayuntamiento, la propuesta la efectuará ante el Congreso del Estado, el Órgano Estatal del Partido Político al que pertenezca, tomando en consideración la planilla de candidatos de las personas que integran los Ayuntamientos, que haya sido registrada ante el Instituto de Elecciones y Participación Ciudadana, por el o los partidos políticos, debiendo garantizarse que la o el sustituto, sea del mismo género a quien se sustituye.
+En caso de renuncia, falta temporal o falta definitiva de las y los regidores de representación proporcional del Ayuntamiento, el Congreso del Estado, o en su caso la Comisión Permanente, designará la sustitución correspondiente de entre la planilla de candidatos de las personas que hayan sido registradas para la elección del Ayuntamiento ante el Instituto de Elecciones y Participación Ciudadana, por el o los partidos políticos; debiendo observar las reglas y el principio de paridad entre los géneros establecidos en el artículo 81 de la Constitución Política del Estado Libre y Soberano de Chiapas.
+
+En su caso el Congreso del Estado, o la Comisión Permanente, podrá obtener la opinión del Órgano Estatal del Partido Político al que pertenezca, quien, deberá considerar en su propuesta, la planilla de candidatos de las personas que hayan sido registradas para la elección del Ayuntamiento ante el Instituto de Elecciones y Participación Ciudadana, por el o los partidos políticos; debiendo observar las reglas y el principio de paridad entre los géneros establecidos en la Constitución Política del Estado Libre y Soberano de Chiapas.
 
 #### Sección Primera. Integración del Ayuntamiento
 
@@ -271,9 +281,11 @@ La Ley reglamentaria determinará las fórmulas y procedimientos para la asignac
 
 El desempeño de un cargo de los señalados para integrar los Ayuntamientos, es incompatible con cualquier otro de la Federación o del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 39.
 
-Para que las personas puedan ser miembro de un Ayuntamiento se requiere:
+Para ser miembro de un Ayuntamiento se requiere:
 
 I. Ser ciudadano chiapaneco por nacimiento en pleno goce de sus derechos.
 
@@ -281,7 +293,7 @@ II. Saber leer y escribir.
 
 III. No pertenecer al Estado eclesiástico ni ser ministro de algún culto religioso.
 
-IV. Ser originario del Municipio, con residencia mínima de un año o ciudadanía chiapaneca por nacimiento con una residencia mínima de cinco años en el Municipio de que se trate.
+IV. Ser originario del Municipio, con residencia mínima de un año o ciudadano chiapaneco, con una residencia mínima de cinco años en el Municipio de que se trate.
 
 V. No prestar servicios a gobiernos o instituciones extranjeras.
 
@@ -289,21 +301,23 @@ VI. No ser cónyuge, concubino, concubina, hermana o hermano, madre, padre, hija
 
 VII. Tener un modo honesto de vivir.
 
-VIII. No haber sido sujeto de jurisdicción penal y sentencia condenatoria con cinco años de antelación al día de elección;
+VIII. No haber sido condenado por delito doloso con cinco años de antelación al día de elección.
 
 IX. No estar comprendido en alguna de las causas de inelegibilidad que establece el Código de Elecciones y Participación Ciudadana del Estado de Chiapas.
 
-Lo previsto en este artículo, con las salvedades previstas en la fracción VI, serán aplicables para el Tesorero Municipal, Secretario del Ayuntamiento y los titulares del ramo de obras públicas o cargos equivalentes y con percepciones similares.
+Los mismos requisitos serán exigibles al Tesorero Municipal, Secretario del Ayuntamiento y los titulares del ramo de obras públicas o cargos equivalentes con percepciones similares.
 
-Además de los requisitos para que las Personas puedan ser miembro de un Ayuntamiento, se deberán contar con los siguientes requisitos:
+Además de los requisitos anteriores, se exigirá según corresponda, los siguientes en específico:
 
-I. Para ser Secretario Municipal además requerirá de Certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones, que desempeña en el cargo, expedida por un centro certificado de CONOCER, con especialidad en Administración Pública Municipal residente en el Estado de Chiapas.
+I. Para ser Secretario del Ayuntamiento, contar con Certificación de capacitación y competencia laboral vigente en la materia de acuerdo a las funciones que desempeña en el cargo, expedida por un centro certificado de CONOCER, con especialidad en Administración Pública Municipal residente en el Estado de Chiapas; tener título y cédula profesional de carrera afín orientada a las ciencias sociales o áreas económico-administrativas.
 
-II. Para ser Tesorero Municipal de un Ayuntamiento se requieren los mismos requisitos para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas económico– administrativos. Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas; así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido por el Órgano de Fiscalización Superior del Estado.
+II. Para ser Tesorero Municipal de un Ayuntamiento se requieren los mismos requisitos para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas económico–administrativos (sic). Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas; así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido (sic) por el Órgano de Fiscalización del Congreso del Estado.
 
-III. Para ser Director de Obras Públicas Municipales de un Ayuntamiento se requieren los mismos requisitos para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas de la construcción. Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas, así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido por el Órgano de Fiscalización Superior del Estado.
+III. Para ser Director de Obras Públicas Municipales de un Ayuntamiento se requieren los mismos requisitos para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas de la construcción. Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas, así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido por el Órgano de Fiscalización del Congreso del Estado.
 
-IV. Para ser Secretario de la Juventud, recreación y Deporte dentro del Municipio, se deberá cumplir con los mismos requisitos para ser miembro de ayuntamiento, además de demostrar una conducta pública adecuada y no haber sido condenado por delito intencional en ningún momento, presentar un Plan de trabajo, y tener entre 18 y 29 años de edad.
+IV. Para ser Secretario de la Juventud, recreación y Deporte dentro del Municipio, se deberá cumplir con los mismos requisitos para ser miembro de ayuntamiento, además de demostrar una conducta pública adecuada y no haber sido condenado por delito intencional en ningún momento, presentar un Plan de trabajo, y tener entre 18 y 29 años de edad, además de acreditar tener título y cédula profesional.
+
+Las Constancias de que no mantienen persistentes observaciones o procedimientos instaurados en su contra, con motivo de gestiones emitidas por el Órgano de Fiscalización del Congreso del Estado, serán elaboradas de conformidad con las “Reglas de Operación para la Emisión de Constancias de No Observaciones o Procedimientos de Auditorías Pendientes” que al efecto emita el Órgano de Fiscalización del Congreso del Estado.
 
 #### Sección Segunda. De la Renovación del Ayuntamiento
 
@@ -367,7 +381,7 @@ El cabildo es la forma de reunión del Ayuntamiento, donde se resuelven, de mane
 
 Son atribuciones de los Ayuntamientos:
 
-I. Aprobar el proyecto del Plan de Desarrollo Municipal correspondiente a su período y enviarlo para su aprobación al Congreso del Estado en los términos y plazos que señala la Ley de Planeación para el Estado de Chiapas; el cual deberá especificar las políticas públicas y objetivos que contribuirán al desarrollo integral y armónico de la comunidad.
+I.- Aprobar el proyecto del Plan de Desarrollo Municipal correspondiente a su período y enviarlo para su aprobación al Congreso del Estado en los términos y plazos que señala la Ley de Planeación para el Estado de Chiapas; el cual deberá especificar las políticas públicas y objetivos que contribuirán al desarrollo integral y armónico de la comunidad.
 
 Además, aprobar el informe de evaluación de nivel de cumplimiento de su Plan de Desarrollo Municipal para su remisión al Congreso del Estado.
 
@@ -383,9 +397,9 @@ II.- Formular los reglamentos administrativos, gubernativos e internos y los ban
 
 III.- Formular y proponer al Congreso del Estado para su aprobación, el primer día del mes de septiembre de cada año, su iniciativa de Ley de Ingresos;
 
-IV.- Revisar y aprobar, en su caso, el proyecto de cuenta pública que le presente el Tesorero Municipal, y remitirlo al Congreso del Estado o en su receso a la Comisión Permanente, para su revisión y sanción, a más tardar el treinta y uno de enero del ejercicio siguiente.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
 
-En la fecha señalada, el Ayuntamiento entrante enviara la cuenta pública del tercer ejercicio del Ayuntamiento saliente, con la responsabilidad de dejar totalmente integrada y debidamente autorizada la documentación y contabilidad de su ejercicio correspondiente;
+IV.- Revisar y aprobar, en su caso, el proyecto de cuenta pública que le presente el Tesorero Municipal, y remitirlo al Congreso del Estado o en su receso a la Comisión Permanente, a través del Presidente Municipal o quien él designe, para su revisión y sanción, a más tardar el treinta y uno de enero del ejercicio siguiente. En la fecha señalada, el Ayuntamiento entrante enviará la cuenta pública del tercer ejercicio del Ayuntamiento saliente, con la responsabilidad de dejar totalmente integrada y debidamente autorizada la documentación y contabilidad de su ejercicio correspondiente;
 
 V.- Administrar libremente su Hacienda Pública, con estricto apego a lo establecido en el artículo 115, fracción IV de la Constitución Política de los Estados Unidos Mexicanos. y a su presupuesto de egresos, así como los bienes destinados al servicio público municipal;
 
@@ -457,7 +471,9 @@ XXXIII.- Rendir, a través del Presidente Municipal, un informe anual del estado
 
 XXXIV.- Ordenar las mejoras que sean necesarias para las dependencias y organismos municipales, derivado de los resultados presentados por el Presidente Municipal en las visitas que realice a aquéllas;
 
-XXXV.- A propuesta del Presidente Municipal, nombrar al Secretario del Ayuntamiento, al Tesorero Municipal, al Comandante de la Policía o su equivalente, al Titular de la Contraloría Interna Municipal; al Secretario de Planeación Municipal o su equivalente, al Secretario de la Juventud, Recreación y Deporte Municipal, al titular de la Consejería Pública Municipal, al Defensor de los Derechos Humanos Municipal y al Cronista Municipal, concediéndoles licencias, permisos y en su caso, suspenderlos y/o removerlos por causa justificada; así como designar a la Oficialidad, la Gendarmería, y demás empleados de confianza de la policía municipal. De igual manera procederá, con los responsables de la administración municipal que se requieran incluyendo al Delegado Técnico Municipal del Agua.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+XXXV.- A propuesta del Presidente Municipal, nombrar al Secretario del Ayuntamiento, al Tesorero Municipal, al Comandante de la Policía o su equivalente, al Titular del Órgano Interno de Control; al Secretario de Planeación Municipal o su equivalente, al Secretario de la Juventud, Recreación y Deporte Municipal, al titular de la Consejería Pública Municipal, al Defensor de los Derechos Humanos Municipal y al Cronista Municipal, concediéndoles licencias, permisos y en su caso, suspenderlos y/o removerlos por causa justificada; así como designar a la Oficialidad, la Gendarmería, y demás empleados de confianza de la policía municipal. De igual manera procederá, con los responsables de la administración municipal que se requieran incluyendo al Delegado Técnico Municipal del Agua.
 
 XXXVI.- Registrar las cauciones que otorguen el Tesorero Municipal y los demás servidores públicos que manejen fondos y valores públicos municipales
 
@@ -561,13 +577,13 @@ Las actas de cabildo deberán estar debidamente firmadas por el Presidente Munic
 
 El cargo en un Ayuntamiento solo es renunciable, cuando existan causas justificadas, que será calificado por el propio Ayuntamiento, con la aprobación del Congreso del Estado o, en su caso, de la Comisión Permanente.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 52.
 
-Los Ayuntamientos que tengan una población mayor de 80 mil habitantes, publicarán cuando menos cada tres meses, una gaceta informativa en la que se publicarán las disposiciones legales, reglamentarias, bandos, acuerdos y circulares así como el presupuesto autorizado y el ejercicio el (sic) gasto corriente, las inversiones realizadas y cualquier erogación efectuada durante el lapso de la publicación.
+Los Municipios que tengan una población mayor de 80 mil habitantes, publicarán de forma digital cuando menos cada tres meses, una gaceta informativa en la que se publicarán las disposiciones legales, reglamentarias, bandos, acuerdos y circulares así como el presupuesto autorizado y el ejercicio el (sic) gasto corriente, las inversiones realizadas y cualquier erogación efectuada durante el lapso de la publicación.
 
-De igual manera, la relación de las personas en el servicio público del Municipio que perciban remuneración, señalándose cargo y monto así como el número de la partida presupuestal que se afecte y cualquier actividad que se considere relevante y digna de ser conocida por las comunidades.
-
-La distribución de la gaceta informativa será gratuita.
+De igual manera, la gaceta informativa deberá contener la relación de las personas en el servicio público del Municipio que perciban remuneración, señalándose cargo y monto así como el número de la partida presupuestal que se afecte y cualquier actividad que se considere relevante y digna de ser conocida por las comunidades.
 
 ###### Artículo 53.
 
@@ -657,7 +673,9 @@ Tratándose de los actos alusivos a las gestas heroicas que se conmemoran durant
 
 XIII.- Hacer del conocimiento de la población las leyes, decretos, órdenes y circulares que le remita el Gobierno del Estado y los reglamentos y demás disposiciones de observancia general en el Municipio, para su debido cumplimiento;
 
-XIV.- Someter a la aprobación del Ayuntamiento los nombramientos del Secretario Municipal, del Tesorero Municipal, del Director de Obras Públicas, del Director de la Policía, del Titular de la Contraloría Interna Municipal, de la Consejería Jurídica Municipal, del Secretario de Planeación Municipal o su equivalente, al Defensor Municipal de los Derechos Humanos, al Secretario de Juventud, Recreación y Deporte Municipal y del Cronista Municipal, así como el de los jefes de las unidades administrativas establecidas en el presupuesto de egresos;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+XIV.- Someter a la aprobación del Ayuntamiento, los nombramientos del Secretario del Ayuntamiento, del Tesorero Municipal, del Director de Obras Públicas, del Director de la Policía, del Titular del Órgano Interno de Control, de la Consejería Jurídica Municipal, del Secretario de Planeación Municipal o su equivalente, al Defensor Municipal de los Derechos Humanos, al Secretario de Juventud, Recreación y Deporte Municipal y del Cronista Municipal, así como el de los jefes de las unidades administrativas establecidas en el presupuesto de egresos;
 
 XV.- Someter a la aprobación del Ayuntamiento, el nombramiento y remoción de los empleados de confianza del municipio, de acuerdo a la Ley que regule la relación laboral;
 
@@ -699,7 +717,9 @@ XXXII.- Vigilar la conducta oficial de los servidores públicos del Municipio y 
 
 XXXIII.- Informar a los Poderes Públicos del Estado, de todos los negocios que tengan relación con ellos;
 
-XXXIV.- Presentar ante el Órgano de Fiscalización Superior del Estado, a través de la Contraloría Interna Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+XXXIV.- Presentar ante la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas, a través del Órgano Interno de Control Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas;
 
 XXXV.- Prestar a las autoridades judiciales el auxilio que soliciten para el debido cumplimiento de sus funciones;
 
@@ -709,13 +729,19 @@ XXXVII.- Coadyuvar en la vigilancia para evitar la tala ilegal de los bosques y 
 
 XXXVIII.- Vigilar y coadyuvar con las autoridades competentes en la preservación, conservación y restauración de los bosques, ríos, lagos, lagunas, riberas, esteros y fauna y en general de los sistemas ecológicos en sus Municipios;
 
-XXXIX. Celebrar, previa autorización del Ayuntamiento, los contratos y convenios para la obtención de empréstitos, créditos, emisión de valores y demás operaciones financieras previstas en las leyes hacendarias, suscribiendo los documentos o títulos de crédito requeridos para tales efectos, así como los contratos o actos jurídicos necesarios para constituir u operar los instrumentos y mecanismos a que se refiere el artículo 45, fracción LXIV de esta Ley; para la formalización de dichas operaciones, los contratos, documentos y actos respectivos deberán estar suscritos, adicionalmente por el tesorero y el síndico municipal;
+XXXIX.- Celebrar, previa autorización del Ayuntamiento, los contratos y convenios para la obtención de empréstitos, créditos, emisión de valores y demás operaciones financieras previstas en las leyes hacendarias, suscribiendo los documentos o títulos de crédito requeridos para tales efectos, así como los contratos o actos jurídicos necesarios para constituir u operar los instrumentos y mecanismos a que se refiere el artículo 45, fracción LXIV de esta Ley; para la formalización de dichas operaciones, los contratos, documentos y actos respectivos deberán estar suscritos, adicionalmente por el tesorero y el síndico municipal;
 
-XL. Someter a aprobación del Ayuntamiento los proyectos de Planes Municipales de Desarrollo, realizados por el Secretario de Planeación Municipal o su equivalente; para efecto de que se remita al Congreso del Estado para su aprobación.
+XL.- Someter a aprobación del Ayuntamiento los proyectos de Planes Municipales de Desarrollo, realizados por el Secretario de Planeación Municipal o su equivalente; para efecto de que se remita al Congreso del Estado para su aprobación.
 
-XLI. Presentar al Cabildo para su aprobación el informe de evaluación de nivel de cumplimiento de su Plan Municipal de Desarrollo.
+XLI.- Presentar al Cabildo para su aprobación el informe de evaluación de nivel de cumplimiento de su Plan Municipal de Desarrollo.
 
-XLII. Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2020)</small>
+
+XLII.- Presentar debidamente firmada la Cuenta Pública Municipal ante el Congreso del Estado y conforme a la legislación que al efecto aplique.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MAYO DE 2020)</small>
+
+XLIII.- Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
 
 ### Capítulo IV. De las atribuciones y obligaciones de los Síndicos Municipales
 
@@ -749,7 +775,9 @@ XII.- Presidir las comisiones para las cuales sean designados;
 
 XIII.- Practicar, a falta de Fiscales del Ministerio Público, las primeras diligencias de investigación, remitiéndolas inmediatamente al Fiscal del Ministerio Público del Distrito Judicial correspondiente;
 
-XIV.- Presentar ante el Órgano de Fiscalización Superior del Estado, a través de la Contraloría Interna Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas; y verificar que los servidores públicos del Municipio que tengan esta obligación, cumplan con ella en los mismos términos;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+XIV.- Presentar ante la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas, a través del Órgano Interno de Control Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas; y verificar que los servidores públicos del Municipio que tengan esta obligación, cumplan con ella en los mismos términos;
 
 XV.- Las demás que se le confieran en otras leyes y sus Reglamentos respectivos.
 
@@ -779,7 +807,9 @@ VII.- Vigilar los ramos de la administración que les encomiende el Ayuntamiento
 
 VIII.- Concurrir a las ceremonias cívicas y a los demás actos a que fueren convocados por el Presidente Municipal;
 
-IX.- Presentar ante el Órgano de Fiscalización Superior del Estado, a través de la Contraloría Interna Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+IX.- Presentar ante la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas, a través del Órgano Interno de Control Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas;
 
 X.- Las demás que le confieren esta ley y sus reglamentos.
 
@@ -1037,7 +1067,9 @@ III.- Dirección de la Policía Municipal;
 
 IV.- Director de Obras Públicas;
 
-V.- Contraloría Interna Municipal;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+V.- Órgano Interno de Control Municipal;
 
 VI.- Oficial Mayor;
 
@@ -1091,7 +1123,9 @@ IX.- Expedir las copias, credenciales y demás certificaciones oficiales que acu
 
 X.- Autorizar con su firma las actas, reglamentos, bandos y demás disposiciones y documentos emanados del ayuntamiento;
 
-XI.- Presentar ante el Órgano de Fiscalización Superior del Congreso del Estado, a través de la Contraloría Interna Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+XI.- Presentar ante la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas, a través del Órgano Interno de Control Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas, y
 
 XII.- Las demás que le señale esta Ley, sus reglamentos y demás disposiciones legales aplicables.
 
@@ -1127,9 +1161,11 @@ IX.- Organizar y llevar la contabilidad del municipio y los registros necesarios
 
 X.- Intervenir en los juicios de carácter fiscal cuando el municipio sea parte;
 
-XI. Efectuar los pagos que autorice u ordene el Ayuntamiento o el Presidente Municipal y pagar mediante nomina los salarios de los servidores públicos municipales;
+XI.- Efectuar los pagos que autorice u ordene el Ayuntamiento o el Presidente Municipal y pagar mediante nomina los salarios de los servidores públicos municipales;
 
-XII.- Presentar ante el Órgano de Fiscalización Superior del Congreso del Estado, a través de la Contraloría Interna Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+XII.- Presentar ante la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas, a través del Órgano Interno de Control Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas, y
 
 XIII.- Las demás que les señalen esta Ley, sus reglamentos y demás disposiciones legales aplicables.
 
@@ -1183,7 +1219,9 @@ IV.- Coadyuvar en la prevención de los delitos y demás conductas antisociales;
 
 V.- Coordinar sus actividades con las demás corporaciones policíacas de la Federación y del Estado, de conformidad con los ordenamientos aplicables para el adecuado ejercicio de sus atribuciones;
 
-VI. Presentar ante el Órgano de Fiscalización Superior del Congreso del Estado, a través de la Contraloría Interna Municipal, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2020)</small>
+
+VI.- Presentar ante la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas, a través del Órgano Interno de Control, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas, y
 
 VII.- Las demás que le confieran esta ley, sus reglamentos y otras disposiciones legales aplicables.
 
@@ -1321,9 +1359,45 @@ La celebración de los contratos de administración de obras, o de adquisiciones
 
 Los Ayuntamientos tendrán derecho de preferencia para adquirir los inmuebles que circunden a los centros de población de su Municipio, a efecto de integrar un área de reserva urbana destinada a satisfacer las necesidades de expansión y desarrollo de estos.
 
-### Capítulo I. De la Hacienda Municipal
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 2020)</small>
 
-### Capítulo II. De la Administración Pública Paramunicipal
+### Capítulo XV. De la Dirección de Obras Públicas
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2020)</small>
+
+###### Artículo 97 Bis.
+
+Son atribuciones y obligaciones del Director de Obras Públicas Municipal:
+
+I. Elaborar y proponer al Ayuntamiento los proyectos productivos, presupuestos de obras, y/o proyectos, reglamentos de construcción, y demás disposiciones relacionadas con la obra pública municipal;
+
+II. La elaboración, dirección y ejecución de los programas destinados a la construcción de obras públicas y de proyectos productivos, así como el estudio y aplicación de las técnicas necesarias para la planeación, regulación y ordenación de los asentamientos humanos en el municipio, en apego a las leyes vigentes, una vez aprobado (sic) por el Ayuntamiento;
+
+III. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás disposiciones correspondientes a la obra pública municipal, así como proponer la integración del comité de contratación de la obra pública y de adquisiciones;
+
+IV. Validación de proyectos y presupuestos de obras en las dependencias normativas correspondientes;
+
+V. Verificar y supervisar la correcta ejecución de las obras por contrato, por colaboración, por convenio Estado-Municipio, por Asociación Intermunicipal y por administración directa;
+
+VI. Mantener actualizado el padrón municipal de contratistas;
+
+VII. Rendir en tiempo y forma al ayuntamiento, los informes de avances físicos de obras y/o proyectos mediante bitácoras de obra para la integración del avance mensual de la cuenta pública;
+
+VIII. Al término de cada obra y/o acción, elaborar los finiquitos y expedientes unitarios conforme a la documentación comprobatoria, según corresponda el origen del recurso. De acuerdo con la Ley de Presupuesto, Contabilidad y Gasto Público Municipal y la Ley de Fiscalización y Rendición de Cuentas del Estado de Chiapas;
+
+IX. Al término de cada ejercicio fiscal presentar el cierre de ejercicio-físico financiero de las obras ejecutadas y en proceso de ejecución o trasferidas al ejercicio siguiente;
+
+X. Asistir a las visitas de inspección y auditorías que se practiquen a las obras y/o acciones ejecutadas o en proceso;
+
+XI. Autorizar con su firma los avances de (sic) cuenta mensual y toda documentación que en atribuciones le corresponda;
+
+XII. Presentar en los términos de la ley de la materia las declaraciones de su situación patrimonial;
+
+XIII. Dar cumplimiento a lo establecido a la Ley que fija las Bases para la Entrega-Recepción para los Ayuntamientos del Estado de Chiapas, en relación con la materia del encargo;
+
+XIV. Las demás que les señalen esta Ley, sus reglamentos y demás disposiciones legales aplicables.
+
+### Capítulo I. De la Hacienda Municipal
 
 ## Título Quinto. De las Responsabilidades de los Servidores Públicos Municipales
 
@@ -1363,7 +1437,7 @@ II. Fortalecer y consolidar la capacitación de los servidores públicos municip
 
 III. Maximizar los recursos humanos, materiales y financieros con los que cuenta el Municipio.
 
-### Capítulo I. Del Patrimonio Del Municipio
+### Capítulo II. De la Administración Pública Paramunicipal
 
 ###### Artículo 104.
 
@@ -1491,7 +1565,7 @@ II.- Detectar cualquier irregularidad en perjuicio del fisco municipal o los con
 
 III.- Investigar si tanto el tesorero como sus empleados cumplen con sus obligaciones y atienden al público con la debida diligencia.
 
-### Capítulo II. De los Bienes del Dominio Público
+### Capítulo I. Del Patrimonio Del Municipio
 
 ###### Artículo 121.
 
@@ -1557,7 +1631,7 @@ En lo no previsto, le serán aplicables las disposiciones señaladas en esta ley
 
 ## Título Séptimo. De los Bienes del Municipio
 
-### Capítulo III. De los Bienes de Dominio Privado
+### Capítulo II. De los Bienes del Dominio Público
 
 ###### Artículo 126.
 
@@ -1567,7 +1641,7 @@ I.- Bienes del dominio público; y
 
 II.- Bienes del dominio privado.
 
-### Capítulo I. De los Asentamientos Humanos
+### Capítulo III. De los Bienes de Dominio Privado
 
 ###### Artículo 127.
 
@@ -1587,7 +1661,7 @@ V.- Los muebles propiedad del municipio que por su naturaleza, no sean normalmen
 
 Los bienes inmuebles de dominio público, son inalienables e imprescriptibles, solo podrán ser enajenados conforme a las disposiciones jurídicas aplicables, y previo decreto de desincorporación dictado por el Congreso del Estado, cuando dejen de servir para el fin al que hayan sido destinados.
 
-### Capítulo II. De las Obras Públicas
+### Capítulo I. De los Asentamientos Humanos
 
 ###### Artículo 129.
 
@@ -1609,7 +1683,7 @@ Corresponde al Ayuntamiento, previo acuerdo del Congreso del Estado, administrar
 
 ## Título Octavo. De los Asentamientos Humanos
 
-### Capítulo III. De la Contraloría Interna Municipal
+### Capítulo II. De las Obras Públicas
 
 ###### Artículo 131.
 
@@ -1617,7 +1691,9 @@ Los Ayuntamientos, de acuerdo con la Ley General de Asentamientos Humanos, orden
 
 El ayuntamiento Municipal, para autorizar la creación de un centro de población, observará que éste cumpla con los requisitos establecidos en su reglamento de construcción y normas técnicas de las mismas; así mismo dicho proyecto obligatoriamente deberá contar con el dictamen de protección civil emitido por el Instituto de (sic) para la gestión integral de Riesgos de Desastres del Estado de Chiapas, instancia facultada y responsable de operar el Sistema Estatal de Protección Civil, también reconocida bajo su carácter de Unidad Estatal.
 
-### Capítulo IV. De la Consejería Jurídica Municipal
+### Capítulo III. Del Órgano Interno de Control Municipal
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 132.
 
@@ -1651,21 +1727,27 @@ Los Ayuntamientos del Estado, deberán prever y destinar espacios físicos para 
 
 El Órgano de Fiscalización Superior del Congreso del Estado, en ejercicio de las atribuciones que le confiere la Constitución Política del Estado Libre y Soberano de Chiapas, dará seguimiento y vigilancia para el debido cumplimiento de lo establecido en el párrafo que antecede, excepto cuando la legislación federal correspondiente establezca disposición en contrario.
 
-### Capítulo V. De los Servicios Municipales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 2020)</small>
+
+### Capítulo IV. De la Consejería Jurídica Municipal
 
 ###### Artículo 135.
 
-La Contraloría Interna Municipal, es el órgano encargado de vigilar y verificar que las acciones de la Administración Pública Municipal, se realicen conforme a los planes y programas aprobados previamente por el Ayuntamiento, para la correcta aplicación y ejercicio de los recursos públicos financieros.
+El Órgano Interno de Control Municipal, es el órgano encargado de vigilar y verificar que las acciones de la Administración Pública Municipal, se realicen conforme a los planes y programas aprobados previamente por el Ayuntamiento, para la correcta aplicación y ejercicio de los recursos públicos financieros. Además, verificará y recibirá las declaraciones de situación patrimonial de los servidores públicos municipales, en términos de la Ley respectiva y las entregará a la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas.
 
-Además, verificará y recepcionará las declaraciones de situación patrimonial de los servidores públicos municipales, en términos de la Ley respectiva y las entregará al Órgano de Fiscalización Superior del Congreso del Estado.
+El Órgano Interno de Control Municipal, tendrá a su cargo en el ámbito de su competencia, la investigación, substanciación y calificación de las faltas administrativas. Contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a la autoridad investigadora, substanciadora y resolutora, y garantizarán la independencia entre las dos primeras en el ejercicio de sus funciones, en términos de la ley en materia de responsabilidades administrativas.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 136.
 
-La persona titular de la Contraloría Interna Municipal será nombrada por el Ayuntamiento, a propuesta del Presidente Municipal, de quien dependerá jerárquicamente, además deberá contar con la certificación y capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificado de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
+La persona titular del Órgano Interno de Control Municipal será nombrada por el Ayuntamiento, a propuesta del Presidente Municipal, de quien dependerá jerárquicamente, además deberá contar con la certificación y capacitación y competencia laboral vigente en la materia de acuerdo con sus funciones que desempeña, expedida por un centro certificado de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 137.
 
-Para ser titular de la Contraloría Interna Municipal se deben reunir los requisitos establecidos en el artículo 60 de la Constitución Política del Estado Libre y Soberano de Chiapas; además de acreditar tener título y cédula profesional de cualesquiera carrera afín o relacionada con la administración, así como acreditar tener experiencia mínima de tres años en el manejo de recursos públicos o certificación de competencia laboral en la materia.
+Para ser titular del Órgano Interno de Control Municipal se deben reunir los requisitos establecidos en el artículo 60 de la Constitución Política del Estado Libre y Soberano de Chiapas; además de acreditar tener título y cédula profesional de cualesquiera carrera afín o relacionada con la administración, así como acreditar tener experiencia mínima de tres años en el manejo de recursos públicos o certificación de competencia laboral en la materia.
 
 ###### Artículo 138.
 
@@ -1673,7 +1755,7 @@ La fiscalización y evaluación del ejercicio de los recursos públicos del Ayun
 
 La función de revisión y fiscalización tiene carácter técnico, autónomo, externo y permanente, y será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
-### Capítulo I. Plan municipal para la Igualdad entre mujeres y hombres
+### Capítulo V. De los Servicios Municipales
 
 ###### Artículo 139.
 
@@ -1693,7 +1775,7 @@ Para ser titular de la Consejería Jurídica Municipal se deben reunir los requi
 
 Dependerá directamente del Presidente Municipal.
 
-### Capítulo II. De los Planes de Desarrollo Económico Municipal
+### Capítulo I. Plan municipal para la Igualdad entre mujeres y hombres
 
 ###### Artículo 141.
 
@@ -1907,7 +1989,7 @@ VI.- Las demás que dispongan las leyes de la materia y el Ayuntamiento a travé
 
 En el caso del Secretario de Planeación Municipal o su equivalente deberá contar con carrera universitaria terminada preferentemente en las ramas de administración, administración pública, economía, sociología o afín, preferentemente con especialidad en planeación estratégica o tener dos años comprobables de haber trabajado en materia de planeación gubernamental o municipal. Además, contar con la certificación de capacitación y competencia laboral expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas.
 
-### Capítulo III. Del Desarrollo Urbano Municipal
+### Capítulo II. De los Planes de Desarrollo Económico Municipal
 
 ###### Artículo 176.
 
@@ -1917,7 +1999,7 @@ El gobierno municipal elaborará e implementara políticas públicas integrales 
 
 Para promover relaciones de respeto e igualdad entre los géneros, visibilizar a las mujeres, y prevenir la violencia y discriminación contra cualquier persona, en la presente Ley, se utilizará el genérico masculino por efectos gramaticales, por lo que se entenderá que se hace referencia a mujeres y a hombres por igual.
 
-### Capítulo IV. De los Consejos de Participación y Colaboración Vecinal
+### Capítulo III. Del Desarrollo Urbano Municipal
 
 ###### Artículo 178.
 
@@ -1929,7 +2011,7 @@ Impulsará políticas que promuevan la creación de empleos para activar el crec
 
 Los gobiernos estatal y municipal promoverán el establecimiento y creación de industrias sostenibles y promoverán la investigación e innovación científica en este sentido; asimismo, se impulsará el turismo ecológico y de aventura.
 
-### Capítulo V. De los Planes para el Aprovechamiento de los Recursos Naturales
+### Capítulo IV. De los Consejos de Participación y Colaboración Vecinal
 
 ###### Artículo 180.
 
@@ -1957,7 +2039,7 @@ Cuando los terrenos de un ejido se encuentren ubicados en el área de crecimient
 
 La incorporación de las tierras ejidales al desarrollo urbano deberá sujetarse a las leyes, reglamentos y planes vigentes en materia de asentamientos humanos.
 
-### Capítulo VI. Del Gobierno Digital Municipal
+### Capítulo V. De los Planes para el Aprovechamiento de los Recursos Naturales
 
 ###### Artículo 184.
 
@@ -2189,7 +2271,7 @@ XIX.- Intervenir, dictaminar y resolver acerca de los conflictos que se susciten
 
 XX.- Las demás que le confieran la presente ley los reglamentos y bandos municipales y otras disposiciones legales aplicables.
 
-### Capítulo I. Del Bando y los Reglamentos
+### Capítulo VI. Del Gobierno Digital Municipal
 
 ###### Artículo 207.
 
@@ -2203,7 +2285,7 @@ El ordenamiento del territorio municipal, debe contribuir al desarrollo y consol
 
 El Municipio fomentará el ejercicio responsable de los derechos de uso, disfrute y aprovechamiento de los recursos naturales, flora y fauna silvestres, en los términos y con las modalidades que establece la Constitución Política de los Estados Unidos Mexicanos, y las leyes respectivas.
 
-### Capítulo II. De las Atribuciones de la Secretaria de Juventud, Recreación y Deporte Municipal
+### Capítulo I. Del Bando y los Reglamentos
 
 ###### Artículo 210.
 
@@ -2321,7 +2403,7 @@ El Defensor Municipal de Derechos Humanos presentará por escrito a la Comisión
 
 Los Ayuntamientos tendrán facultades para aprobar, de acuerdo con la Ley, los Bandos de Policía y Gobierno, los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, para la organización la administración pública municipal, regularán las materias, procedimientos, funciones y atribuciones, que permitan satisfacer el bien común y aseguren la participación ciudadana y vecinal.
 
-### Capítulo III. De las Sanciones
+### Capítulo II. De las Atribuciones de la Secretaria de Juventud, Recreación y Deporte Municipal
 
 ###### Artículo 214.
 
@@ -2333,7 +2415,7 @@ El Municipio como persona jurídica de Derecho Público, debe regular, entre otr
 
 El bando de policía y buen gobierno lo constituye el conjunto de normas que regulan de manera específica, el funcionamiento del Gobierno Municipal, así como todo lo relativo a la vida comunitaria municipal, que garanticen la tranquilidad, inclusión y seguridad de los habitantes del Municipio.
 
-### Capítulo I. De las Suplencias
+### Capítulo III. De las Sanciones
 
 ###### Artículo 216.
 
@@ -2351,7 +2433,7 @@ Desempeñara sus funciones bajo una agenda de trabajo que impulse a los jóvenes
 
 Celebrar acuerdos y convenios de colaboración con organizaciones privadas y sociales, para el desarrollo de proyectos que beneficien a la juventud.
 
-### Capítulo II. De la Suspensión Definitiva de los Integrantes de los Ayuntamientos
+### Capítulo I. De las Suplencias
 
 ###### Artículo 220.
 
@@ -2359,7 +2441,7 @@ Compete a la autoridad administrativa la aplicación de las sanciones por las in
 
 ## Título Décimo Tercero. De las Suplencias, Desaparición de los Ayuntamientos y Responsabilidades de los Servidores Públicos Municipales
 
-### Capítulo III. De la Renovación del Cargo a los Integrantes del Ayuntamiento
+### Capítulo II. De la Suspensión Definitiva de los Integrantes de los Ayuntamientos
 
 ###### Artículo 221.
 
@@ -2373,7 +2455,9 @@ Las faltas temporales de los munícipes por menos de quince días, serán única
 
 Las faltas temporales del Presidente Municipal por menos de quince días, serán suplidas por el Regidor Primero o el que le siga en número. Las faltas temporales por ese mismo plazo de los regidores y el Síndico, no serán suplidas.
 
-Las faltas temporales de los munícipes por más de quince días y hasta por menos de un año, serán suplidas por el miembro del Ayuntamiento que determine el Congreso del Estado, o en su caso por la Comisión Permanente.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+Las faltas temporales de los munícipes por más de quince días y hasta por menos de un año, serán suplidas por el miembro del Ayuntamiento que determine el Congreso del Estado, o en su caso por la Comisión Permanente, debiendo observar las reglas y el principio de paridad entre los géneros establecidos en la Constitución Política del Estado Libre y Soberano de Chiapas.
 
 Las faltas definitivas de los munícipes, serán suplidas por el miembro del Ayuntamiento que determine el Congreso del Estado, en términos de la Constitución Política del Estado Libre y Soberano de Chiapas, tomando en consideración a lo establecido en el artículo 36 de la presente Ley.
 
@@ -2382,6 +2466,8 @@ Las faltas definitivas de los munícipes, serán suplidas por el miembro del Ayu
 Las faltas temporales de los agentes y subagentes municipales serán suplidas por su respectivo suplente.
 
 Los titulares de las dependencias serán suplidos por quien designe el Presidente Municipal.
+
+### Capítulo III. De la Renovación del Cargo a los Integrantes del Ayuntamiento
 
 ###### Artículo 224.
 
@@ -2464,3 +2550,15 @@ P.O. 8 DE MAYO DE 2019.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 219 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Las atribuciones y/o referencias que las disposiciones legales otorgaban a la Contraloría Interna Municipal, serán asumidas inmediatamente y se entenderán conferidas al Órgano Interno de Control.
+
+Artículo Cuarto.- Los compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiere contraído la Contraloría Interna Municipal, seguirán siendo atendidos por el Órgano Interno de Control.
