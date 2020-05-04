@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-101741"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-28"
-last_updated: "2017-09-08"
+last_updated: "2020-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MAYO DE 2020.
 
 Código publicado en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el sábado 28 de junio de 2014.
 
@@ -379,9 +379,11 @@ III. Ayuntamientos, cada tres años.
 
 El día que deban celebrarse elecciones locales en la Entidad será considerado como no laborable en todo el territorio estatal.
 
-A cada elección precederá una convocatoria, que deberá ser aprobada durante el primer período ordinario de sesiones de la Legislatura del año previo al de la elección y publicada a más tardar el veinte de septiembre del mismo año.
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
 
-La convocatoria será publicada en el periódico oficial “Gaceta del Gobierno” y difundida en los diarios de mayor circulación.
+A cada elección precederá una convocatoria, que deberá ser aprobada durante el primer período ordinario de sesiones de la Legislatura del año previo al de la elección a más tardar el dieciocho de diciembre del año previo de la elección y publicada a más tardar la primera semana del mes de enero del año de la elección.
+
+La convocatoria será publicada en el periódico oficial "Gaceta del Gobierno" y difundida en los diarios de mayor circulación.
 
 > <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
 
@@ -1051,17 +1053,23 @@ El Consejo General podrá realizar ajustes a los tiempos establecidos en este ar
 
 Se entiende por actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas, marchas y todas aquellas actividades dirigidas a la ciudadanía en general, que realizan los aspirantes con el objeto de obtener el apoyo ciudadano para satisfacer este requisito, en los términos de este Código.
 
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 99.
 
-Para la candidatura de Gobernador, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% de la lista nominal de electores, con corte al 31 de agosto del año previo al de la elección, y estar integrada por electores de por lo menos sesenta y cuatro municipios, que representen, cuando menos, el 1.5% de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+Para la candidatura de Gobernador, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% de la lista nominal de electores, con corte al 31 de diciembre del año previo al de la elección, y estar integrada por electores de por lo menos sesenta y cuatro municipios, que representen, cuando menos, el 1.5% de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 100.
 
-Para la planilla de diputados de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% de la lista nominal de electores, correspondiente al distrito electoral en cuestión, con corte al 31 de agosto del año previo al de la elección, y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que representen, cuando menos, el 1.5% de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+Para la planilla de diputados de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% de la lista nominal de electores, correspondiente al distrito electoral en cuestión, con corte al 31 de diciembre del año previo al de la elección, y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que representen, cuando menos, el 1.5% de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 101.
 
-Para la planilla de integrantes de los ayuntamientos de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% de la lista nominal de electores correspondiente al municipio en cuestión, con corte al 31 de agosto del año previo al de la elección y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que representen cuando menos el 1.5% de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+Para la planilla de integrantes de los ayuntamientos de mayoría relativa, la cédula de respaldo deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% de la lista nominal de electores correspondiente al municipio en cuestión, con corte al 31 de diciembre del año previo al de la elección y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que representen cuando menos el 1.5% de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
 
 ###### Artículo 102.
 
@@ -1791,7 +1799,9 @@ El Secretario Ejecutivo y el titular de la Contraloría General estarán sujetos
 
 El Consejo General se reunirá por lo menos en sesión ordinaria cada tres meses. Su presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición de la mayoría de los consejeros electorales o de la mayoría de los representantes de los partidos políticos. Sus sesiones serán públicas.
 
-En la preparación del proceso para elegir Gobernador del Estado, diputados y miembros de los ayuntamientos, el Consejo General celebrará sesión para dar inicio al proceso electoral la primera semana de septiembre del año anterior al de la elección.
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
+
+En la preparación del proceso para elegir Gobernador del Estado, diputados y miembros de los ayuntamientos, el Consejo General celebrará sesión para dar inicio al proceso electoral la primera semana de enero del año de la elección.
 
 A partir del inicio del proceso electoral y hasta la conclusión del mismo, el Consejo General sesionará ordinariamente por lo menos una vez al mes.
 
@@ -1865,15 +1875,19 @@ IV. Conocer y resolver sobre los informes que rinda la Contraloría General.
 
 V. Designar a los directores de la Junta General y a los titulares de las unidades administrativas del Instituto con el voto de las dos terceras partes de los consejeros electorales.
 
-VI. Designar, para la elección de Gobernador del Estado y de diputados, a los vocales de las juntas distritales en el mes de octubre anterior al año de la elección y para la elección de miembros de los ayuntamientos a los vocales de las juntas municipales, dentro de la primera semana del mes de noviembre del año anterior al de la elección, de acuerdo con los lineamientos que se emitan, de entre las propuestas que al efecto presente la Junta General.
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2020)</small>
 
-VII. Designar, para la elección de Gobernador del Estado, de diputados y miembros de los ayuntamientos, de entre las propuestas de al menos el doble que al efecto realice la Junta General, a los consejeros electorales de los consejos distritales y municipales en la segunda semana de noviembre del año anterior al de la elección, de que se trate. Por cada Consejero propietario habrá un suplente.
+VI. Designar, para la elección de Gobernador del Estado y de diputados, a los vocales de las juntas distritales y, para la elección de miembros de los ayuntamientos, a los vocales de las juntas municipales, en el mes de enero del año de la elección, de acuerdo con los lineamientos que se emitan, de entre las propuestas que al efecto presente la Junta General.
+
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2020)</small>
+
+VII. Designar, para la elección de Gobernador del Estado, de diputados y miembros de los ayuntamientos, de entre las propuestas de al menos el doble que al efecto realice la Junta General, a los consejeros electorales de los consejos distritales y municipales en el mes de enero del año de la elección de que se trate. Por cada Consejero propietario habrá un suplente.
 
 VIII. Acordar lo conducente para la integración, instalación, funcionamiento y suspensión de actividades de los órganos desconcentrados del Instituto y conocer de los informes específicos y actividades que estime necesario solicitarles.
 
 IX. Resolver sobre los convenios de coalición y de fusión que celebren los partidos políticos.
 
-X. Resolver en los términos de este Código, sobre el otorgamiento o pérdida del registro de los partidos políticos locales, emitir la declaratoria correspondiente, solicitar su publicación en el periódico oficial “Gaceta del Gobierno” y, en su caso, ordenar el inicio del procedimiento de liquidación de bienes y recursos remanentes.
+X. Resolver en los términos de este Código, sobre el otorgamiento o pérdida del registro de los partidos políticos locales, emitir la declaratoria correspondiente, solicitar su publicación en el periódico oficial "Gaceta del Gobierno" y, en su caso, ordenar el inicio del procedimiento de liquidación de bienes y recursos remanentes.
 
 XI. Vigilar que las actividades de los partidos políticos se desarrollen con apego a este Código y cumplan con las obligaciones a que están sujetos.
 
@@ -1909,7 +1923,7 @@ XXVI. Efectuar el cómputo total de la elección de diputados de representación
 
 XXVII. Efectuar supletoriamente el cómputo municipal o distrital, allegándose los medios necesarios para su realización, así como sustituir a los órganos desconcentrados en los casos de suspensión de actividades y de imposibilidad material de integración.
 
-XXVIII. Realizar el cómputo de la elección de Gobernador; formular las declaraciones de validez de la elección y de Gobernador electo, ordenando su publicación en el periódico oficial “Gaceta del Gobierno”; expedir la Constancia de Mayoría respectiva a favor del candidato que hubiera alcanzado el mayor número de votos y expedir el Bando Solemne para dar a conocer a los habitantes del Estado la declaración de Gobernador electo.
+XXVIII. Realizar el cómputo de la elección de Gobernador; formular las declaraciones de validez de la elección y de Gobernador electo, ordenando su publicación en el periódico oficial "Gaceta del Gobierno"; expedir la Constancia de Mayoría respectiva a favor del candidato que hubiera alcanzado el mayor número de votos y expedir el Bando Solemne para dar a conocer a los habitantes del Estado la declaración de Gobernador electo.
 
 XXIX. Aprobar la propuesta de calendario electoral que será presentada a la Unidad Técnica de Vinculación del Instituto Nacional Electoral.
 
@@ -2621,9 +2635,11 @@ III. Un representante de cada uno de los partidos políticos con registro, quien
 
 Los Consejeros Electorales de los Consejos Distritales deberán satisfacer los mismos requisitos que los Consejeros Electorales del Consejo General, así como los lineamientos que emita para el caso el Instituto Nacional Electoral, salvo el de residencia efectiva, que se entenderá referido al distrito de que se trate, y el de título profesional que no será necesario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 210.
 
-Para las elecciones de Gobernador del Estado y diputados, los Consejos Distritales iniciarán sus sesiones dentro de los diez primeros días del mes de noviembre del año anterior de la elección.
+Para las elecciones de Gobernador del Estado y diputados, los Consejos Distritales iniciarán sus sesiones a más tardar dentro de la segunda semana del mes de enero del año de la elección.
 
 A partir de su instalación y hasta la conclusión del proceso, los Consejos Distritales sesionarán por lo menos una vez al mes.
 
@@ -2763,9 +2779,11 @@ III. Un representante de cada uno de los partidos políticos con registro, quien
 
 Los Consejeros Electorales de los consejos municipales deberán satisfacer los mismos requisitos que los Consejeros Electorales del Consejo General, así como los lineamientos que emita para el caso el Instituto Nacional Electoral, salvo el de residencia efectiva, que se entenderá referido al Municipio de que se trate, y el de título profesional que no será necesario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 219.
 
-Los consejos municipales iniciarán sus sesiones a más tardar el último día del mes de noviembre del año anterior al de la elección.
+Los consejos municipales iniciarán sus sesiones a más tardar dentro de la segunda semana de enero del año de la elección.
 
 A partir de su instalación y hasta la conclusión del proceso, los consejos municipales sesionarán por lo menos una vez al mes.
 
@@ -2947,11 +2965,13 @@ c) Las demás que le confiere este Código y las disposiciones relativas.
 
 ### CAPÍTULO CUARTO. Disposiciones comunes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 225.
 
-Para las elecciones de Gobernador o de diputados, los presidentes de los consejos distritales convocarán por escrito, dentro de los primeros diez días del mes de noviembre del año anterior al de la elección, a la sesión de instalación del órgano que presiden.
+Para las elecciones de Gobernador, de diputados o de miembros de los ayuntamientos, los presidentes de los consejos distritales o consejos municipales que correspondan convocarán por escrito, dentro de la segunda semana de enero del año de la elección, a la sesión de instalación del órgano que presiden.
 
-Para la elección de miembros de los ayuntamientos, los presidentes de los consejos municipales convocarán por escrito a la sesión de instalación del órgano que presiden a más tardar el último día del mes de noviembre del año anterior a la elección.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 4 DE MAYO DE 2020)</small>
 
 ###### Artículo 226.
 
@@ -3023,9 +3043,11 @@ La tramitación y resolución de los procedimientos de remoción de consejeros d
 
 El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, por la Constitución Local y este Código, realizados por las autoridades electorales, los partidos políticos y los ciudadanos, que tienen por objeto la renovación periódica de los integrantes del Poder Legislativo, del titular del Poder Ejecutivo y de los miembros de los ayuntamientos del Estado.
 
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 235.
 
-Los procesos electorales ordinarios iniciarán la primera semana de septiembre del año anterior al de la elección y concluirán con los cómputos y declaraciones que realicen los consejos del Instituto, o con las resoluciones que, en su caso, pronuncie el Tribunal Electoral.
+Los procesos electorales ordinarios iniciarán en la primera semana del mes de enero del año correspondiente a la de la elección y concluirán con los cómputos y declaraciones que realicen los consejos del Instituto, o con las resoluciones que, en su caso, pronuncie el Tribunal Electoral.
 
 ###### Artículo 236.
 
@@ -3039,9 +3061,11 @@ III. Resultados y declaraciones de validez de las elecciones de diputados y ayun
 
 IV. Resultados y declaraciones de validez de la elección de Gobernador electo.
 
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
+
 ###### Artículo 237.
 
-La etapa de preparación de las elecciones se inicia con la primera sesión que el Consejo General celebre en la primera semana del mes de septiembre del año anterior al de la elección correspondiente y concluye al iniciarse la jornada electoral.
+La etapa de preparación de las elecciones se inicia con la primera sesión que el Consejo General celebre en la primera semana del mes de enero del año correspondiente a la de la elección y concluye al iniciarse la jornada electoral.
 
 ###### Artículo 238.
 
@@ -3073,7 +3097,9 @@ Ninguna persona podrá ser registrada como candidato tanto de partido político,
 
 Precampañas son los actos realizados por los partidos políticos, dirigentes, aspirante (sic) a candidatos, militantes, afiliados o simpatizantes, en los tiempos establecidos y regulados en el presente Código y sus Estatutos, dentro de sus procesos internos de selección de candidatos a los distintos cargos de elección popular.
 
-La publicación de la convocatoria por parte de los partidos políticos para el desarrollo de sus procesos de selección interna de candidatos y otros actos preparatorios que no impliquen actos de precampaña, se podrán realizar desde los dos meses anteriores al del inicio de la etapa de precampañas a que se refiere el presente Código.
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
+
+La publicación de la convocatoria por parte de los partidos políticos para el desarrollo de sus procesos de selección interna de candidatos y otros actos preparatorios que no impliquen actos de precampaña, se podrán realizar desde el mes anterior al del inicio de la etapa de precampañas a que se refiere el presente Código.
 
 ###### Artículo 242.
 
@@ -3157,21 +3183,35 @@ III. Las de miembros de ayuntamiento ante el Consejo Municipal correspondiente, 
 
 Del registro se expedirá constancia.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 152 PUBLICADO EN LA G.G. DE 4 DE MAYO DE 2020, PÁGINAS 14 Y 15.]</small>
+
 ###### Artículo 251.
 
 Los plazos y órganos competentes para la recepción de la solicitud de registro de candidaturas son los siguientes:
 
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2020)</small>
 
-I. Para candidatos a Gobernador, el plazo será el cuarto día anterior a aquél en que tenga lugar la sesión a que se refiere el artículo 253 de este Código, ante el Consejo General.
+I. El periodo para el registro de candidatos a Gobernador, diputados por ambos principios y miembros de ayuntamientos durará quince días.
 
-II. Para diputados por el principio de mayoría relativa, el plazo dará inicio el décimo cuarto día anterior a aquél en que tenga lugar la sesión a que se refiere el artículo 253 de este Código y concluirá el cuarto día anterior a aquél en que dicha sesión tenga lugar, ante los consejos distritales respectivos.
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2020)</small>
 
-III. Para miembros de los ayuntamientos, el plazo dará inicio el duodécimo día anterior a aquél en que tenga lugar la sesión a que se refiere el artículo 253 de este Código y concluirá el cuarto día anterior a aquél en que dicha sesión tenga lugar, ante los consejos municipales respectivos.
+II. El Consejo General podrá realizar los ajustes a los plazos establecidos en este artículo a fin de garantizar los plazos de registro y que la duración de las campañas electorales se ciña a lo establecido por este Código.
 
-IV. Para diputados por el principio de representación proporcional, el plazo dará inicio el décimo cuarto día anterior a aquél en que tenga lugar la sesión a que se refiere el artículo 253 de este Código y concluirá el cuarto día anterior a aquél en que dicha sesión tenga lugar, ante el Consejo General.
+> <small>(REFORMADA, G.G. 4 DE MAYO DE 2020)</small>
 
-El Instituto difundirá ampliamente la apertura del registro de las candidaturas y los plazos a que se refiere este artículo.
+III. El Instituto difundirá ampliamente la apertura del registro de las candidaturas y los plazos a que se refiere este artículo.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.G. 4 DE MAYO DE 2020)</small>
+
+IV. La solicitud de registro deberá hacerse:
+
+a). Para candidatos a Gobernador, el registro se hará ante el Consejo General.
+
+b). Para diputados por el principio de mayoría relativa, ante los consejos distritales respectivos.
+
+c). Para miembros de los ayuntamientos, ante los consejos municipales respectivos.
+
+d). Para diputados por el principio de representación proporcional, ante el Consejo General.
 
 ###### Artículo 252.
 
@@ -3191,9 +3231,9 @@ VI. Cargo para el que se postula.
 
 Los candidatos a diputados e integrantes de ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución Federal y la Local.
 
-> <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
 
-La solicitud de propietarios y suplentes deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la credencial para votar, así como de la constancia de residencia y la constancia que acredite estar inscrito en la lista nominal de electores.
+La solicitud de propietarios y suplentes deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la credencial para votar, así como de la constancia de residencia.
 
 El partido político postulante deberá manifestar por escrito que los candidatos cuyo registro solicitan, fueron seleccionados de conformidad con las normas estatutarias del propio partido.
 
@@ -3293,7 +3333,9 @@ Al interior de las oficinas, edificios y locales ocupados por los poderes públi
 
 Desde el inicio de las campañas electorales y hasta la conclusión de la jornada electoral, las autoridades estatales y municipales, así como los legisladores locales, deberán suspender la difusión en los medios de comunicación social de toda propaganda gubernamental. Las únicas excepciones a lo anterior, serán las campañas de información de las autoridades electorales, las relativas a los servicios educativos y de salud o las necesarias para la protección civil en casos de emergencia.
 
-Asimismo, durante los treinta días anteriores al de la jornada electoral, las autoridades estatales y municipales así como los legisladores locales se abstendrán de establecer y operar programas de apoyo social o comunitario que impliquen la entrega a la población de materiales, alimentos o cualquier elemento que forme parte de sus programas asistenciales o de promoción y desarrollo social, salvo en los casos de extrema urgencia debido a enfermedades, desastres naturales, siniestros u otros eventos de igual naturaleza.
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
+
+Asimismo, durante los treinta y ocho días anteriores al de la jornada electoral, las autoridades estatales y municipales así como los legisladores locales se abstendrán de establecer y operar programas de apoyo social o comunitario que impliquen la entrega a la población de materiales, alimentos o cualquier elemento que forme parte de sus programas asistenciales o de promoción y desarrollo social, salvo en los casos de extrema urgencia debido a enfermedades, desastres naturales, siniestros u otros eventos de igual naturaleza.
 
 La Legislatura determinará los programas sociales que por su naturaleza, objeto o fin por ningún motivo deberán suspenderse durante el periodo que señala el párrafo anterior y promoverá las medidas necesarias para su cumplimiento en los tres ámbitos de gobierno que generen condiciones de equidad en el proceso electoral.
 
@@ -7220,3 +7262,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 4 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 152.- POR EL QUE SE REFORMAN EL PÁRRAFO TERCERO DEL ARTÍCULO 29, LOS ARTÍCULOS 99, 100, 101, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 182, LAS FRACCIONES VI Y VII DEL ARTÍCULO 185, LOS PÁRRAFOS PRIMEROS DE LOS ARTÍCULOS 210, 219, 225; LOS ARTÍCULOS 235, 237, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 241 Y ARTÍCULO 251, EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 252, RECORRIÉNDOSE LOS SUBSECUENTES; ASÍ COMO EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 261; Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 225 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
