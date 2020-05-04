@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2020-02-12"
+last_updated: "2020-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -4225,6 +4225,10 @@ Al que cometa ultraje o delitos en contra de servidores públicos en el acto de 
 
 Por ultrajes se entenderá, la realización de conductas típicas o atípicas que atenten contra la investidura del servidor público o de la institución que representa, o lo denigren o lo exhiban al odio o rechazo público, o inciten a la violencia en contra de ellos, aunque aquella no llegue a generarse.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2020)</small>
+
+Las penas previstas en el presente artículo se aumentarán hasta en dos terceras partes, cuando la conducta sea realizada en contra de un servidor público que pertenezca al sistema estatal de salud, ante el temor y/o posibilidad de contagio durante una declaratoria de contingencia sanitaria emitida por autoridad competente.
+
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2013)</small>
 
 ###### Artículo 398 Bis.
@@ -6038,3 +6042,11 @@ P.O. 12 DE FEBRERO DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 224 POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 398 DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
