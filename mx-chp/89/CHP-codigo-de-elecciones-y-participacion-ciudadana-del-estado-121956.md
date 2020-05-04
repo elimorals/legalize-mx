@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-del-estado-12195
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-14"
-last_updated: "2018-09-30"
+last_updated: "2020-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2020.
 
 Código publicado en la Tercera Sección al Número 299 del Periódico Oficial del Estado de Chiapas, el miércoles 14 de junio de 2017.
 
@@ -2731,7 +2731,9 @@ XXII. Las demás que le confieran el Reglamento, otras disposiciones legales apl
 
 ###### Artículo 98.
 
-1. Los Consejos Distritales y Municipales electorales, funcionarán durante los procesos electorales y, en su caso, en aquellos procedimientos de participación ciudadana que lo requieran, así como en lo concerniente a los órganos auxiliares municipales, en términos de lo dispuesto en la Ley Orgánica Municipal del Estado; residirán en cada una de las cabeceras de distrito y municipios y se integrarán a más tardar el día treinta del mes de noviembre del año anterior al de la elección.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+1. Los Consejos Distritales y Municipales electorales funcionarán durante los procesos electorales y, en su caso, en aquellos procedimientos de participación ciudadana que lo requieran, así como en lo concerniente a los órganos auxiliares municipales, en términos de lo dispuesto en la Ley de Desarrollo Constitucional en Materia de Gobierno y Administración Municipal del Estado de Chiapas; residirán en cada una de las cabeceras de distrito y municipios y se integrarán el 01 de Marzo del año de la elección.
 
 2. La integración de los Consejos Distritales y Municipales electorales, se realizará de la siguiente manera:
 
@@ -3887,13 +3889,17 @@ III. Un 33.3% que se distribuirá de manera igualitaria entre todas las planilla
 
 2. El cumplimiento de las normas contenidas en el presente Libro se hará en cuanto no contravengan las disposiciones contenidas en el artículo 41 de la Constitución federal, la Constitución local, la Ley General y demás ordenamientos aplicables.
 
-3. El proceso electoral ordinario se inicia durante el mes de octubre del año anterior a la elección y concluye una vez que el Tribunal Electoral o, en su caso, el Tribunal Electoral del Poder Judicial de la Federación, haya resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+3. El proceso electoral ordinario se inicia durante el mes de enero del año de la elección y concluye una vez que el Tribunal Electoral o, en su caso, el Tribunal Electoral del Poder Judicial de la Federación, haya resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
 
 4. Para los efectos de este Código, el proceso electoral ordinario comprende las etapas siguientes:
 
 I. Preparación de la elección:
 
-a) Inicia con la primera sesión que el Consejo General celebre durante la primera semana del mes de octubre del año anterior en que deban realizarse las elecciones ordinarias;
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2020)</small>
+
+a) Inicia con la primera sesión que el Consejo General celebre durante la segunda semana del mes de enero del año en que deban realizarse las elecciones ordinarias;
 
 b) Comprende las acciones de colaboración con el Instituto Nacional para la obtención del Padrón Electoral y las Listas Nominales de Electores; el registro de candidaturas; la elaboración y distribución de la documentación y material electoral; la realización de precampañas y campañas electorales; la celebración de debates y encuestas de opinión; la ubicación de casillas, designación de funcionarios y su capacitación; el registro de representantes de Partidos Políticos y candidatos independientes en las Mesas Directivas de Casilla, así como el registro de observadores electorales, y
 
@@ -7932,3 +7938,19 @@ P.O. 30 DE SEPTIEMBRE DE 2018.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 218 POR EL QUE SE REFORMAN EL NUMERAL 1 DEL ARTÍCULO 98; EL NUMERAL 3 Y EL INCISO A) DE LA FRACCIÓN I DEL NUMERAL 4, DEL ARTÍCULO 178 DEL CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, podrá realizar ajustes a los plazos establecidos en este Código, a fin de garantizar la debida ejecución de las actividades y procedimientos electorales contenidos en el presente Código.
+
+Artículo Cuarto.- El Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, dictará los acuerdos necesarios para hacer efectivas las disposiciones del presente Decreto y realizará las acciones que sean necesarias para ajustar al mismo a las normas secundarias.
+
+Las disposiciones generales emitidas por el Instituto de Elecciones y Participación Ciudadana, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se oponga a la Constitución Federal, Leyes Generales, Constitución Particular, el Código de Elecciones y Participación Ciudadana y demás disposiciones legales aplicables, hasta que el Consejo General del Instituto de Elecciones y Participación Ciudadana no emita aquellas que deban sustituirlas.
+
+Artículo Quinto.- Se vincula al Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, para que emita los cuerdos así como las modificaciones presupuestales necesarias a efecto de dar el debido cumplimiento al presente decreto, en lo relativo a la modificación de las actividades y procedimientos de la organización del proceso electoral, correspondientes al ejercicio fiscal 2020.
