@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-administracion-publica-municipal-9639
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-21"
-last_updated: "2020-01-28"
+last_updated: "2020-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2020.
 
 Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
@@ -1383,7 +1383,9 @@ A la o el Titular de la Secretaría de Servicios Públicos Municipales le corres
 
 I. Planear, las estrategias y lineamientos, mediante los cuales sean instrumentados, aprobados, ejecutados, seguidos y evaluados, los proyectos municipales de sanidad, alumbrado público, orientados al mantenimiento, conservación y mejoramiento de los bienes públicos municipales;
 
-II. Elaborar, ejecutar y supervisar el Programa Anual de Mantenimiento Preventivo y Correctivo en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad de la Infraestructura Urbana del Municipio en las áreas de alumbrado público, relleno sanitario, parques y jardines, panteones, del rastro municipal y de control canino del Municipio;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2020)</small>
+
+II. Elaborar, ejecutar y supervisar el Programa Anual de Mantenimiento Preventivo y Correctivo en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad de la Infraestructura Urbana del Municipio en las áreas de alumbrado público, relleno sanitario, parques y jardines, panteones y del rastro municipal.
 
 III. Elaborar un informe estimativo de los daños provocados a la infraestructura urbana o al patrimonio municipal, en las áreas que sean de su competencia en los casos de accidentes en los cuales ésta se vea afectada;
 
@@ -1397,13 +1399,13 @@ VII. Instrumentar estrategias y lineamientos a través de los cuales se controle
 
 VIII. Supervisar la ejecución de campañas de limpieza y separación de desechos orgánicos e inorgánicos que eviten la proliferación de basura y desechos sólidos por el Municipio;
 
-IX. Organizar, controlar y supervisar la observancia de la reglamentación en materia de control canino y antirrábico así como de la tenencia, protección y trato digno a los animales del Municipio;
+IX. (DEROGADA, P.O. 5 DE MAYO DE 2020)
 
-X. Coadyuvar con el funcionamiento del Centro de Control Antirrábico de la zona metropolitana de Pachuca de Soto, estableciendo las estrategias de coordinación con las instancias federales, estatales y municipales;
+X. (DEROGADA, P.O. 5 DE MAYO DE 2020)
 
-XI. Convenir y coadyuvar con las autoridades correspondientes los servicios de sanidad animal de revisión, salud, condiciones, tratamiento y resguardo, procurando su vinculación con el modelo sanitario del Estado;
+XI. (DEROGADA, P.O. 5 DE MAYO DE 2020)
 
-XII. Organizar la ejecución de campañas de vacunación antirrábica, esterilización y maniobras de levantamientos que eviten la proliferación canina y, en su caso, de fauna nociva;
+XII. (DEROGADA, P.O. 5 DE MAYO DE 2020)
 
 XIII. Vigilar la observancia del Reglamentode (sic) Panteones para el Municipio de Pachuca, de Soto Hidalgo;
 
@@ -1559,9 +1561,11 @@ XVII. Las demás que determinen las disposiciones legales y reglamentarias aplic
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 60.
 
-La Secretaría de Medio Ambiente y Desarrollo Sustentable es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política sobre el control y supervisión del medio ambiente, recursos municipales, contaminación, cambio climático y, en lo general, la protección y conservación de sus medios bióticos y abióticos, a través de una gestión pública municipal comprometida con una administración eficaz y eficiente, en el manejo de los recursos asignados.
+La Secretaría de Medio Ambiente y Desarrollo Sustentable es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política sobre el control y supervisión del medio ambiente, recursos municipales, contaminación, cambio climático y, en lo general, la protección y conservación de sus medios bióticos y abióticos, así mismo la protección, control y bienestar de la fauna del Municipio, a través de una gestión pública municipal comprometida con una administración eficaz y eficiente, en el manejo de los recursos asignados.
 
 ###### ARTÍCULO 61.
 
@@ -1625,9 +1629,41 @@ XXVIII. Autorizar mediante dictamen los proyectos de arborización y reforestaci
 
 XXIX. Proponer, aplicar, desarrollar y ejecutar las acciones, proyectos y programas en material (sic) de recursos naturales con capitales provenientes de diferentes fondos;
 
-XXX. Promover la investigación de nuevas fuentes de energía renovables, que coadyuven a reducir la utilización de fuentes de energía de carbono, ayudando con ello a reducir los efectos ambientales negativos que produce el cambio climático; y
+> <small>(ADICIONADA [N. DE E. REFORMADA],P.O. 5 DE MAYO DE 2020)</small>
 
-XXXI. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o él Presidente Municipal.
+XXX.- Organizar, controlar y supervisar la observancia de la reglamentación en materia de control canino y antirrábico así como el cumplimiento de la normatividad relativa a la protección, control y trato digno a los animales del Municipio;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA],P.O. 5 DE MAYO DE 2020)</small>
+
+XXXI.- Coadyuvar con el funcionamiento del Centro de Control Antirrábico de la zona metropolitana de Pachuca de Soto, estableciendo las estrategias de coordinación con las instancias federales, estatales y municipales;
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
+
+XXXII.- Convenir y coadyuvar con las autoridades correspondientes los servicios de sanidad animal de revisión, salud, condiciones, tratamiento y resguardo, procurando su vinculación con el modelo sanitario del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
+
+XXXIII.- Organizar la ejecución de campañas de vacunación antirrábica, esterilización y maniobras de levantamientos que eviten la proliferación canina y, en su caso, de fauna nociva;
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
+
+XXXIV.- Crear y mantener actualizado el Padrón Municipal de la fauna a través del área técnica;
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
+
+XXXV.- Coadyuvar en la política pública de bienestar animal y desarrollar los programas de prevención del maltrato y/o crueldad animal, los cuales tendrán por objeto la realización de campañas para la concientización del bienestar animal;
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
+
+XXXVI.- Coordinar la conformación y operación del Área Técnica de Protección y Sanidad Animal y Control de especies animales;
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
+
+XXXVII. Participar en el Consejo Municipal de Bienestar Animal el cual tendrá por objeto autorizar y vigilar el comportamiento de las políticas públicas tendientes al bienestar animal;
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
+
+XXXVIII.- Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o él Presidente Municipal.
 
 #### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
 
@@ -1638,6 +1674,10 @@ Para el cumplimiento de su objeto y despacho de las funciones y atribuciones a s
 I. Dirección de Inspección y Vigilancia Ambiental; y
 
 II. Dirección de Sustentabilidad de los Recursos Naturales.
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2020)</small>
+
+III.- Área Técnica de Protección, Sanidad Animal y Control de especies animales
 
 ###### ARTÍCULO 63.
 
@@ -1678,6 +1718,38 @@ XVI. Substanciar los expedientes mediante los cuales la o el Secretario ordene l
 XVII. Diseño (sic) e implementar estrategias de participación ciudadana para la atención del cambio climático y su impacto en el medio ambiente; al efecto, instrumentar los estudios, investigaciones y análisis necesarios; y
 
 XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2020)</small>
+
+Artículo 63 BIS. Al Área Técnica de Protección, Sanidad Animal y Control de especies animales le corresponderá el ejercicio de las siguientes atribuciones:
+
+I. Crear y mantener actualizado el Padrón Municipal de Animales en el que se llevará el registro de Centros de Control Canino; Rastros; Asociaciones Protectoras de Animales; Establecimientos de venta, servicios, resguardo, cuidado y adopción de animales; Criaderos oficiales o domésticos de animales en general y fauna silvestre; Animales domésticos, especies silvestres, aves de presa, animales dedicados a cubrir alguna discapacidad para el ser humano, animales de protección y rescate, adiestramiento animal y animales de guardia y custodia; y vacunación, esterilización, muerte de los animales que realicen los establecimientos registrados y crematorios para animales;
+
+II. Atender el llamado en el caso de extravío de algún animal registrado en el padrón del Municipio, para realizar la vinculación con las instancias correspondientes, y así coadyuvar en su localización y recuperación;
+
+III. Atender y dar seguimiento a los llamados de auxilio que haga la población cuando un animal se encuentre en peligro latente y requiera ser rescatado por personal capacitado, solicitando el apoyo de cualquier área municipal, estatal, federal y asociaciones civiles que así lo consideren;
+
+IV. Atender los reportes o llamadas en los casos cuando un animal tenga comportamiento agresivo que ponga en peligro o lesione a una persona en vía pública o lugares de uso común, el área técnica a su vez podrá solicitar el apoyo del Centro de Control Canino o cualquier otra área municipal, estatal, para que la brigada de captura proceda a la sujeción de dicho animal según lo establecido en la Norma Oficial Mexicana, y se procederá en su caso a sancionar a su propietario o encargado, independientemente de la responsabilidad civil o penal en que haya incurrido;
+
+V. Certificar el estado físico de los animales, apoyándose en las instancias correspondientes para dictar medidas preventivas y curativas en caso de riesgo de zoonosis o de epizootias, así como de las medidas de cuidado y control sobre especies animales utilizadas como mascotas y de la fauna en genera (sic); y
+
+VI. Establecer las estrategias de coordinación con las instancias municipales, estatales y federales; en materia de sanidad antirrábica disponiendo de objetivos, normas, políticas y criterios para la óptima administración de las unidades que se establezcan para su atención;
+
+VII. Coadyuvar con el funcionamiento del Centro Antirrábico de la zona metropolitana de Pachuca de Soto, en coordinación con las diferentes instancias federales, estatales y municipales que intervengan en su operación;
+
+VIII. Programar y ejecutar campañas de vacunación antirrábica y esterilización canina y felina;
+
+IX. Emitir una tarjeta y una placa para aquellos animales que se vacunen, que acredite al propietario del animal, el año y el número de registro de la vacuna correspondiente;
+
+X. Realizar un registro de los animales que hayan estado internados en el Departamento de Control Animal, permitiendo la obtención de datos de las enfermedades más comunes en los animales;
+
+XI. Proporcionar el servicio de esterilización de las especies caninas y felinas que le sean solicitadas por la población;
+
+XII. Otorgar el internamiento y observación en el área destinada dentro del Centro Antirrábico Municipal para los animales sospechosos de causar enfermedades;
+
+XIII. Difundir programas de concientización y de prevención de enfermedades caninas y felinas del Municipio;
+
+XIV. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico
 
 ###### ARTÍCULO 64.
 
@@ -2983,9 +3055,9 @@ XXVI. Evaluar el cumplimiento del Sistema de Evaluación del Desempeño y de los
 
 XXVII. Requerir de las diferentes áreas de la Administración Pública Municipal, la información necesaria para el cumplimiento de las atribuciones de la Secretaría;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2020)</small>
 
-XXVIII. Imponer las medidas de apremio a quienes no atiendan con diligencia las instrucciones, requerimientos o resoluciones que dicte esta Secretaría en el ejercicio de sus atribuciones;
+XXVIII. Imponer la medida de apremio a quienes no atiendan con diligencia las instrucciones, requerimientos, o resoluciones que dicte esta Secretaría en ejecución de sus atribuciones, así como imponer las medidas de apremio a los servidores públicos que no cumplan con sus obligaciones establecidas en la normatividad aplicable.
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
@@ -3568,3 +3640,23 @@ PRIMERA. Este Decreto entrará en vigor al día siguiente al de su publicación 
 SEGUNDA. Se derogan todas las disposiciones que se opongan al presente Reglamento.
 
 TERCERA. Los giros considerados como de mediano y alto riesgo en el Catálogo Municipal de Actividades Económicas se considerarán especiales y el resto ordinarios.
+
+P.O. 5 DE MAYO DE 2020.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO: La Comisión Permanente de Gobernación, Bandos, Reglamentos y Circulares, es competente para recibir, analizar, estudiar y dictaminar respecto a la "Iniciativa con proyecto de Decreto que reforma el artículo 103 fracción XXVIII, del Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Hidalgo; y los artículos 97 y 134 del Reglamento Interior del Honorable Ayuntamiento de Pachuca de Soto, Hidalgo"., con número de expediente SA/DP/234/2018, por lo que se acuerda dictaminar favorablemente y por unanimidad de votos, la solicitud presentada por la Regidora Marleen Alejandra Montaño Juárez.
+
+SEGUNDO: Se somete a la consideración del Honorable Ayuntamiento de Pachuca de Soto el presente Dictamen, por lo que una vez aprobado, remítase a la Secretaria de Contraloría Municipal para su publicación en la Página de Internet Oficial del Municipio de Pachuca de Soto y al Periódico Oficial del Estado de Hidalgo para su publicación.
+
+TERCERO: El Presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 5 DE MAYO DE 2020.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO: Las Comisiones Permanentes de Gobernación, Bandos, Reglamentos y Circulares, y de Medio Ambiente, son competentes para actuar, analizar y dictaminar de manera conjunta respecto al tema “Iniciativa con proyecto de Decreto por el que se reforman, derogan y adicionan diversas disposiciones al Reglamento Interior de la Administración Pública Municipal de Pachuca de Soto, Hidalgo", por lo que se acuerda dictaminar favorablemente y por unanimidad de votos, la solicitud presentada por la Regidora Liliana Verde Neri.
+
+SEGUNDO.- Derivado de lo anterior, se somete a la consideración de este Honorable Ayuntamiento el presente dictamen para su aprobación correspondiente, por lo que en caso de ser aprobado, remítase a la Secretaria de Contraloría Municipal para su publicación en la Página de Internet Oficial del Municipio de Pachuca de Soto y al Periódico Oficial del Estado de Hidalgo para su publicación.
+
+TERCERO: El Presente decreto entrara en vigor al día siguiente de las publicaciones antes referidas.
