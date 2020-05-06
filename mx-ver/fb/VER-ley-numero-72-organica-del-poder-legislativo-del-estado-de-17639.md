@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2020-02-13"
+last_updated: "2020-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MAYO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -470,6 +470,10 @@ XXXIX. (DEROGADA, G.O. 3 DE NOVIEMBRE DE 2016)
 XXXIX Bis. Aprobar el Plan Veracruzano de Desarrollo, y conocer la evaluación que haga el titular del Poder Ejecutivo anualmente de su avance, en los términos de la ley respectiva;
 
 XL. Cambiar su sede, provisionalmente, si para ello existe el acuerdo de las dos terceras partes del total de los Diputados presentes, notificando su determinación a los Poderes Ejecutivo y Judicial;
+
+> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2020)</small>
+
+En conmemoración a la firma de los "Tratados de Córdoba", el Congreso celebrará sesión solemne con motivo del día cívico estatal de 24 de agosto en dicha ciudad, sin necesidad de emitir acuerdo sobre la sede provisional, en la que también participarán los titulares de los Poderes Ejecutivo y Judicial. Las funciones del Estado llevarán a cabo las acciones necesarias para que se promueva y difunda la historia, cultura y civismo de esa fecha conforme a sus ámbitos de competencia.
 
 XLI. Sesionar por lo menos una vez cada año en la cabecera de algún municipio del norte, centro o sur del Estado, notificando su determinación a los otros dos Poderes;
 
@@ -1978,3 +1982,11 @@ G.O. 13 DE FEBRERO DE 2020.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 556 POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XL DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
