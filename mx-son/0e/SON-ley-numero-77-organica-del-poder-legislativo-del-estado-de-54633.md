@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2020-01-30"
+last_updated: "2020-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 30 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE MAYO DE 2020.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -74,6 +72,26 @@ La residencia del Congreso del Estado se fija en su capital, con excepción de l
 La legislatura sesionará en su recinto oficial o en el que por acuerdo del pleno del Congreso del Estado o de la Diputación Permanente se habilite transitoriamente, dándose a conocer de manera pública tal determinación, debiendo desahogarse sólo los asuntos concretos previstos en el decreto o acuerdo correspondiente. Hecho lo cual, el Poder Legislativo regresará automáticamente a su recinto oficial.
 
 Por recinto oficial se entenderá el inmueble donde esté asentado el Poder Legislativo.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 2020)</small>
+
+Ante una declaratoria de emergencia decretada por la autoridad competente ya sea del orden federal o estatal, en la que exista una condición de alto riesgo en la celebración de las sesiones presenciales en el Pleno del Congreso del Estado, la Comisión de Régimen Interno y Concertación Política podrá acordar que se celebren de manera no presencial (virtual), mediante la utilización de herramientas tecnológicas que permitan videoconferencias o cualquier método de acceso a distancia, a través de las cuales se pueda realizar el computo del quorum legal, las intervenciones necesarias de los diputados y las votaciones correspondientes, que en su conjunto puedan dejar evidencia de que se llevó a cabo el proceso legislativo que se regula en esta Ley.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 2020)</small>
+
+En las sesiones no presenciales (virtuales) del Pleno del Congreso del Estado aplicarán las disposiciones relativas al proceso legislativo contenidas en la Constitución Política del Estado de Sonora y en esta Ley.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 2020)</small>
+
+El Acuerdo de la Comisión de Régimen Interno y Concertación Política para llevar a cabo sesiones no presenciales del Pleno del Congreso del Estado, contendrá el número de sesiones que se llevarán a cabo de dicha forma y se publicará en la Gaceta Parlamentaria con cuando menos dos días de anticipación al día de la celebración de la primera sesión no presencial (virtual).
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 2020)</small>
+
+No podrán celebrarse sesiones no presenciales (virtuales), cuando se pretenda someter a la aprobación del Pleno del Congreso, dictámenes de iniciativas de Ley o de Decreto que tengan por objeto reformar, derogar o adicionar disposiciones de la Constitución Política del Estado de Sonora, la Ley de Instituciones y Procedimientos Electorales para el Estado de Sonora, Leyes Orgánicas de los Poderes del Estado u organismos constitucionalmente autónomos o disposiciones presupuestarias del Gobierno del Estado o de los Municipios, al menos que estas últimas tengan como finalidad atender la situación de emergencia decretada por autoridad competente y la iniciativa haya sido presentada por el Gobernador del Estado o por algún Ayuntamiento.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 2020)</small>
+
+Tampoco podrán celebrarse sesiones no presenciales (virtuales) para nombrar servidores públicos, o bien, para ratificar o rechazar la designación de un ciudadano que haga el Gobernador del Estado para ejercer la titularidad de un órgano público del Estado, en los términos que señala la Constitución Política del Estado de Sonora.
 
 ###### ARTÍCULO 9.
 
@@ -719,6 +737,10 @@ Las comisiones podrán ser convocadas a reunión por su presidente o por la mayo
 
 Las reuniones se celebrarán en horas que no coincidan con las de sesión del pleno del Congreso del Estado.
 
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 2020)</small>
+
+Las reuniones podrán celebrarse de manera no presencial (virtual), cuando sea imposible de llevarse de manera presencial, por una declaratoria de emergencia decretada por la autoridad competente ya sea del orden federal o estatal, en la que exista una condición de alto riesgo en la celebración de las mismas.
+
 > <small>(REFORMADO, B.O. 14 DE MARZO DE 2019)</small>
 
 ###### ARTÍCULO 89.
@@ -1009,9 +1031,21 @@ XI.- Impulsar y realizar los estudios que versen sobre disposiciones normativas,
 
 XII.- Impulsar la profesionalización de los servicios de apoyo parlamentario a través del servicio civil de carrera, determinando las políticas generales para ello y proponiendo al pleno del Congreso del Estado los proyectos de los reglamentos respectivos;
 
-XIII.- Aprobar los manuales de organización y de procedimientos de los (sic) dependencias del Congreso del Estado; y
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2020)</small>
 
-XIV.- Las demás que le confiera esta ley, el pleno del Congreso del Estado y la Diputación Permanente.
+XIII.- Aprobar los manuales de organización y de procedimientos de las dependencias del Congreso del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 7 DE MAYO DE 2020)</small>
+
+XIV.- Aprobar que las sesiones del Pleno del Congreso del Estado se celebren de manera no presencial (virtual), cuando se haya realizado una declaratoria de emergencia decretada por autoridad competente ya sea del orden federal o estatal, en la que exista una condición de alto riesgo en la celebración de las sesiones presenciales;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2020)</small>
+
+XV.- Emitir los lineamientos que permitan el desarrollo de las sesiones del Pleno del Congreso del Estado no presenciales (virtuales), los cuales deberán apegarse a las disposiciones relativas al proceso legislativo establecidas en la Constitución Política del Estado de Sonora y en esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 7 DE MAYO DE 2020)</small>
+
+XVI.- Las demás que le confiera esta Ley, el pleno del Congreso del Estado y la Diputación Permanente.
 
 ###### ARTÍCULO 110.
 
@@ -2691,11 +2725,17 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año. Asimismo, la Secretaría de Hacienda deberá (sic) los lineamientos necesarios para implementar las disposiciones señaladas en el presente artículo.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD; AGRAVANTE DEL DELITO DE FEMINICIDIO, Y DE COMBATE A LOS CRÍMENES DE ODIO”.]
+B.O. 7 DE MAYO DE 2020.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 112, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
-P.O. 23 DE DICIEMBRE DE 2021.
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Régimen Interno y Concertación Política, dentro del plazo de 20 días hábiles deberá emitir los lineamientos para el desarrollo de las sesiones del Pleno del Congreso del Estado no presenciales.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE DELITO DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
 
