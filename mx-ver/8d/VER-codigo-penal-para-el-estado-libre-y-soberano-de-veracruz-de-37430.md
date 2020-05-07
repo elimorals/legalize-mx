@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2019-11-26"
+last_updated: "2020-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MAYO DE 2020.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3901,6 +3901,10 @@ Cuando la ley autorice el empleo de medios de apremio, el delito sólo se consum
 
 Se aplicarán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien impida que la autoridad ejerza sus funciones o resista el cumplimiento de una orden cuya ejecución se lleve a cabo en forma legal. De emplearse violencia física o moral, la sanción se agravará hasta en un año.
 
+ADICIONADO, G.O. 7 DE MAYO DE 2020)
+
+Comete de igual forma el delito de desobediencia y resistencia de particulares y se aplicará la sanción prevista en el párrafo que antecede, a quien tenga o detente la guarda y custodia de hecho o por derecho, de un niño, niña o adolescente, que se niegue a presentarlo sin causa justificada ante el Juez que lo ordene, en las audiencias que se requiera su presencia.
+
 ### CAPÍTULO III. FALSAS DENUNCIAS Y SIMULACIÓN DE PRUEBAS
 
 ###### Artículo 330.
@@ -5226,3 +5230,11 @@ G.O. 26 DE NOVIEMBRE DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 558 QUE ADICIONA LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 157 DEL CÓDIGO CIVIL Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 329 DEL CÓDIGO PENAL AMBOS PARA EL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
