@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2020-02-13"
+last_updated: "2020-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MAYO DE 2020.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -972,6 +972,14 @@ ARTICULO 157
 La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o de cualquiera otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de la convivencia con los padres, salvo que exista peligro para el menor.
 
 La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 58 del Código de Procedimientos Civiles.
+
+> <small>(ADICIONADO, G.O. 7 DE MAYO DE 2020)</small>
+
+Para garantizar el interés superior del menor, se llevará a cabo la celebración de la audiencia de menores, misma que se fijará de oficio o a petición de alguna de las partes; se tomarán en cuenta los preceptos legales estipulados en los artículos 133, 245 y 246 de éste mismo Código.
+
+> <small>(ADICIONADO, G.O. 7 DE MAYO DE 2020)</small>
+
+En caso de que el ascendiente, tutor, custodio, depositario, quien tenga o detente la guarda y custodia de hecho o por derecho de una niña, niño o adolescente, no se presente con el mismo a la audiencia, sin causa justificada legalmente, se dará vista a la Fiscalía por la misma autoridad, o en su caso bajo querella o denuncia de las partes, en términos del artículo 329 del Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
 
 ARTICULO 158
 
@@ -16490,3 +16498,11 @@ G.O. 13 DE FEBRERO DE 2020.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 558 POR EL QUE SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 157 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 329 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
