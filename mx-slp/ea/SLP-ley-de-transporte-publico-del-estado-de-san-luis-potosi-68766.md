@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2020-02-27"
+last_updated: "2020-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -127,7 +127,9 @@ I. Los concesionarios y permisionarios deberán implementar los procedimientos a
 
 II. El servicio de transporte público de pasajeros deberá prestarse en las mejores condiciones de calidad;
 
-III. El desempeño de los sistemas que integran el servicio de transporte público de pasajeros, será evaluado de manera permanente por la Secretaría de Comunicaciones y Transportes del Estado, aplicando, en su caso, las medidas preventivas, de seguridad y correctivas procedentes. Los resultados serán informados a los respectivos consejos del transporte, estableciendo para tal efecto un sistema de indicadores de servicio, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2020)</small>
+
+III. El desempeño de los sistemas que integran el servicio de transporte público de pasajeros, será evaluado de manera permanente por la Secretaría de Comunicaciones y Transportes del Estado, aplicando, en su caso, las medidas preventivas, de seguridad y correctivas procedentes. Los resultados serán informados a los respectivos consejos del transporte, mismos que los informarán a los usuarios de manera semestral en la página de la Secretaría, estableciendo para tal efecto un sistema de indicadores de servicio, y
 
 IV. La Secretaría de Comunicaciones y Transportes del Estado impulsará, cuando las condiciones lo ameriten, una tarifa integrada que permita el trasbordo de usuarios dentro de una misma modalidad, o bien de una modalidad a otra, mediante el pago de una tarifa única.
 
@@ -143,9 +145,9 @@ III. Regular el uso adecuado y el aprovechamiento de los sistemas y los servicio
 
 IV. Impulsar la implementación de la infraestructura y equipamiento urbano, que eviten la interferencia de los espacios destinados a los sistemas de transporte público de pasajeros, por parte de los peatones o vehículos particulares, y viceversa, y
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2020)</small>
 
-V. Los sistemas de transporte público, en coordinación con las autoridades correspondientes, desarrollarán programas de seguridad pública y protección civil; así como de sensibilización para el respeto y trato digno de las personas con discapacidad.
+V. Los sistemas de transporte público, en coordinación con las autoridades correspondientes, desarrollarán programas de seguridad pública y protección civil; así como de sensibilización con perspectiva de género para el respeto y trato digno de las personas con discapacidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2018)</small>
 
@@ -153,9 +155,9 @@ V. Los sistemas de transporte público, en coordinación con las autoridades cor
 
 Se entiende como formación del elemento humano, la capacitación para la prestación del servicio de transporte público de pasajeros, y las acciones que tengan como fin impulsar el desarrollo de los conocimientos, habilidades y destrezas, dirigidas a los concesionarios, permisionarios, operadores, usuarios y ciudadanos en general, con perspectiva de género, bajo los siguientes lineamientos:
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2020)</small>
 
-I. Las autoridades del transporte público deberán impulsar de manera semestral, programas de capacitación y acciones de desarrollo del personal, así como la evaluación de las aptitudes y actitudes de los operadores del servicio, a fin de que adquieran y actualicen las destrezas necesarias para el mejor desempeño de su actividad;
+I. Las autoridades del transporte público deberán impulsar de manera semestral, programas de capacitación y acciones de desarrollo del personal, así como la evaluación de las aptitudes y actitudes de los operadores del servicio, a fin de que adquieran y actualicen las destrezas necesarias para el mejor desempeño de su actividad, informando a la ciudadanía los resultados obtenidos y los indicadores que se utilizaron en dicha evaluación, por vía internet;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
@@ -297,9 +299,13 @@ XXIII. Permisionario: persona física o moral que, al amparo de un permiso tempo
 
 XXIII Bis. Persona con discapacidad: toda aquélla que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en igualdad de condiciones con las demás;
 
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2020)</small>
+
+XXIII Ter. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género, y promueve la igualdad entre los géneros, a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos, y a la representación política y social en los ámbitos de toma de decisiones;
+
 > <small>(ADICIONADA, P.O. 28 DE JULIO DE 2018)</small>
 
-XXIII Ter. Protocolos de prevención y seguridad: manuales de prevención y seguridad que consisten en la protección de los usuarios de trasporte público, dirigidos principalmente a mujeres y niñas, de los posibles riesgos que se pueden encontrar al transitar por las distintas rutas de dicho trasporte;
+XXIII Quáter. Protocolos de prevención y seguridad: manuales de prevención y seguridad que consisten en la protección de los usuarios de trasporte público, dirigidos principalmente a mujeres y niñas, de los posibles riesgos que se pueden encontrar al transitar por las distintas rutas de dicho trasporte;
 
 XXIV. Ramal: a la extensión al itinerario de una ruta, que se autoriza a partir de puntos intermedios del recorrido;
 
@@ -865,7 +871,13 @@ Adicionalmente, se destinará un diez por ciento más de asientos para personas 
 
 En todo tiempo el operador o la operadora del vehículo, como medida para garantizar a las personas con discapacidad el uso preferente del transporte público, esperarán el tiempo que resulte necesario para que los usuarios con discapacidad y movilidad limitada, asciendan al vehículo y se instalen en su interior, así como para que desciendan del mismo.
 
-El Ejecutivo del Estado al otorgar, refrendar o modificar las concesiones para la prestación del servicio público de transporte colectivo, observará que en cada ruta las unidades correspondientes a la misma, reúnan las especificaciones señaladas en el párrafo anterior.
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2020)</small>
+
+Los perros de asistencia de las personas con discapacidad deberán ir junto a ellas todo el tiempo.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2020)</small>
+
+El Ejecutivo del Estado al otorgar, refrendar o modificar las concesiones para la prestación del servicio público de transporte colectivo, observará que en cada ruta las unidades correspondientes a la misma, reúnan las especificaciones señaladas en el presente artículo.
 
 ###### ARTICULO 45.
 
@@ -1777,9 +1789,9 @@ Queda prohibido a los operadores del transporte público producir con sus vehíc
 
 Por ningún motivo se transportarán pasajeros en los estribos de ascenso y descenso de las unidades de transporte público, o con las puertas de la unidad abiertas.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2020)</small>
 
-ARTICULO 86 BIS. Queda prohibido a los operadores del transporte público de cualquier modalidad, obstaculizar, impedir o negar el servicio público de transporte a adultos mayores, niños, personas con discapacidad, y mujeres embarazadas.
+ARTICULO 86 BIS. Queda prohibido a los operadores del transporte público de cualquier modalidad, obstaculizar, impedir o negar el servicio público de transporte a adultos mayores, niños, personas con discapacidad, y mujeres embarazadas. Por ningún motivo se podrá negar el servicio a la persona debido a la presencia de un perro de asistencia.
 
 ###### ARTICULO 87.
 
@@ -3112,3 +3124,27 @@ P.O. 27 DE FEBRERO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 7 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0669.- SE REFORMA (SIC) LOS ARTÍCULOS 44 EN SU AHORA PÁRRAFO ÚLTIMO Y 86 BIS; Y ADICIONA PÁRRAFO AL ARTÍCULO 44, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0670.- SE REFORMA EL ARTÍCULO 5 EN SU FRACCIÓN V; Y ADICIONA AL ARTÍCULO 12 UNA FRACCIÓN, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0671.- SE REFORMA (SIC) LOS ARTÍCULOS 4 EN SU FRACCIÓN III Y 6 EN SU FRACCIÓN I, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
