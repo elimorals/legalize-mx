@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2020-05-03"
+last_updated: "2020-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -608,6 +608,10 @@ Podrán llevarse a cabo en lugar diferente cuando se presenten circunstancias qu
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2019)</small>
 
 Los Ayuntamientos sesionarán en cabildo abierto cuando menos una vez cada dos meses para recibir directamente de las personas, propuestas, opiniones o proyectos relacionados con temas de interés general, buscando fomentar la participación de los habitantes de los municipios.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2020)</small>
+
+El Ayuntamiento, así como las Comisiones a que se refiere el artículo 45 de este (sic) Ley, podrán reunirse en sesión no presencial cuando existan razones de salubridad general, protección civil, contingencia sanitaria o cualquier otra que impidan el acceso a las y los integrantes del Ayuntamiento al edificio que ocupe la presidencia municipal.
 
 ###### Artículo 38.
 
@@ -2540,3 +2544,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Ayuntamientos, dentro de un plazo de noventa días contados a partir del inicio de vigencia del presente decreto, deberán realizar las adecuaciones reglamentarias correspondientes.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 7 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 323 QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+TERCERO.- Los Ayuntamientos deberán expedir o adecuar la normatividad necesaria para hacer efectivas las reformas contenidas en el presente decreto en un término no mayor a 30 días a partir de la entrada en vigor del presente decreto.
