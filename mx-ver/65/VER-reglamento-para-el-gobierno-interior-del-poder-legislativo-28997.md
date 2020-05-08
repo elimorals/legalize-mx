@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2019-08-19"
+last_updated: "2020-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MAYO DE 2020.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -869,9 +869,11 @@ Iniciativa ante el Congreso de la Unión, es la resolución del Congreso que est
 
 ### CAPÍTULO II. De las Sesiones
 
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2020)</small>
+
 ###### Artículo 81.
 
-Las sesiones serán ordinarias, extraordinarias y solemnes, según el período a que correspondan o el asunto que las motive. Las dos primeras podrán ser públicas, privadas o permanentes; las solemnes siempre serán públicas.
+Las sesiones serán ordinarias, extraordinarias y solemnes, según el periodo a que correspondan o el asunto que las motive, y, de manera excepcional, a distancia, utilizando las tecnologías de la información o sistemas electrónicos que se establezcan para ello. Las dos primeras podrán ser públicas, privadas o permanentes; las solemnes siempre serán públicas, y las sesiones a distancia deberán ser transmitidas en vivo.
 
 > <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
@@ -890,6 +892,18 @@ Por votación económica del Congreso, podrá declararse éste en sesión perman
 > <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
 El Congreso podrá celebrar sesiones solemnes, cuyo único propósito será conmemorar un hecho relevante de la vida nacional o estatal, rendir un homenaje, recibir a visitantes distinguidos nacionales o extranjeros, o entregar los premios previstos en la ley. Estas sesiones serán convocadas por el Presidente, o por el de la Permanente, dentro o fuera de los períodos de sesiones. En ellas no se podrá tratar ningún otro asunto y no darán lugar a debate alguno, y sólo podrán intervenir los diputados y otras personas que previamente acuerde la Junta de Trabajos Legislativos en el proyecto de orden del día respectivo.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2020)</small>
+
+Las sesiones a distancia serán aquellas que, por razones de contingencias sanitarias, ambientales, riesgos a la seguridad pública, a la protección civil, o cuando se declare estado de emergencia u otros casos de fuerza mayor, deban celebrarse a través de las tecnologías de la información o sistemas electrónicos que se establezcan para ello, ya sea de forma total o parcial. Se entenderá de forma total si resulta imposible la asistencia de los Diputados al recinto oficial, y la sesión se desarrolla de forma íntegra a través de las tecnologías y sistemas electrónicos pertinentes. Serán parciales aquellas en las que, concurriendo físicamente el quórum establecido en el artículo 22 de este Reglamento, se celebren con la asistencia y participación por vía remota de los demás legisladores, a través de las plataformas de la información o sistemas ya referidos.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2020)</small>
+
+Las tecnologías de la información o sistemas electrónicos para la celebración de las sesiones a distancia deberán garantizar de manera eficaz la verificación del quórum, la intervención de viva voz de las y los legisladores partícipes, el registro de las votaciones y que el acceso a dichas plataformas esté limitado a los Diputados y Diputadas, así como al personal previamente autorizado. Para tales efectos, así como para el desahogo de los asuntos y el desarrollo de las sesiones, se estará a lo dispuesto por el Reglamento de Sesiones a Distancia del Poder Legislativo.
+
+> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2020)</small>
+
+Todas las disposiciones referentes a la celebración de sesiones definidas por la Constitución, la Ley y el presente Reglamento se aplicarán en lo máximo posible en las sesiones a distancia.
 
 > <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
@@ -949,9 +963,13 @@ VIII. Al análisis de la declaración o no de procedencia contra los servidores 
 
 IX. A la integración y funcionamiento del Congreso como órgano de acusación en los juicios políticos.
 
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2020)</small>
+
 ###### Artículo 86.
 
-Si por caso fortuito o de fuerza mayor no pudiere llevarse a cabo una sesión, el Presidente, de acuerdo con la Junta de Coordinación Política, determinará lo conducente.
+Si por caso fortuito o de fuerza mayor no pudiere abrir, continuar o terminarse una sesión, el Presidente, de acuerdo con la Junta de Coordinación Política, determinará lo conducente.
+
+Tratándose de contingencias sanitarias, ambientales, riesgos a la seguridad pública, a la protección civil, o cuando se declare estado de emergencia u otros casos de fuerza mayor, las sesiones del Congreso podrán convocarse y celebrarse a distancia, ya sea de forma total o parcial, a través de las tecnologías de la información o sistemas electrónicos que se establezcan para ello.
 
 ###### Artículo 87.
 
@@ -1615,9 +1633,11 @@ El Gobernador se sentará a la derecha del Presidente y, a la izquierda, el Pres
 
 El Presidente contestará en términos generales cuando el Gobernador o el Presidente del Honorable Tribunal Superior de Justicia del Estado, dirijan la palabra a la asamblea. Estarán prohibidas las interpelaciones al Titular del Ejecutivo, o al del Poder Judicial, así como las intervenciones o interrupciones por parte de los legisladores.
 
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2020)</small>
+
 ###### Artículo 167.
 
-El Congreso no asistirá a función pública fuera de su recinto oficial, excepto cuando se habilite un inmueble mediante el decreto respectivo, que será publicado en la Gaceta Oficial del estado o en los casos previstos por el artículo 28 de la Constitución.
+El Congreso no asistirá a función pública fuera de su recinto oficial, excepto cuando se habilite un inmueble mediante el decreto respectivo, que será publicado en la Gaceta Oficial del Estado, en los casos previstos por el artículo 28 de la Constitución, o tratándose de las sesiones a distancia previstas en el artículo 5 de la Ley, y las disposiciones de este ordenamiento.
 
 ###### Artículo 168.
 
@@ -1870,3 +1890,13 @@ G.O. 19 DE AGOSTO DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 567 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR, AMBOS DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En un plazo máximo de treinta días naturales contado a partir de la entrada en vigor del presente Decreto, el Congreso deberá expedir el Reglamento de Sesiones a Distancia del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave. En tanto se expide dicho ordenamiento, la Junta de Trabajos Legislativos deberá acordar la forma que seguirán los debates, discusiones, deliberaciones y, en su caso, votaciones, de las sesiones a distancia.
