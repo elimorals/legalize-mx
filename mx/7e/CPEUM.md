@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2020-03-06"
+last_updated: "2020-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2020.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -314,9 +314,9 @@ Toda persona tiene derecho a decidir de manera libre, responsable e informada so
 
 Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado lo garantizará.
 
-> <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2020)</small>
 
-Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud y establecerá la concurrencia de la Federación y las entidades federativas en materia de salubridad general, conforme a lo que dispone la fracción XVI del artículo 73 de esta Constitución.
+Toda Persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud y establecerá la concurrencia de la Federación y las entidades federativas en materia de salubridad general, conforme a lo que dispone la fracción XVI del artículo 73 de esta Constitución. La Ley definirá un sistema de salud para el bienestar, con el fin de garantizar la extensión progresiva, cuantitativa y cualitativa de los servicios de salud para la atención integral y gratuita de las personas que no cuenten con seguridad social.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
 
@@ -353,6 +353,18 @@ Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y 
 > <small>(ADICIONADO, D.O.F. 12 DE OCTUBRE DE 2011)</small>
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2020)</small>
+
+El Estado garantizará la entrega de un apoyo económico a las personas que tengan discapacidad permanente en los términos que fije la Ley. Para recibir esta prestación tendrán prioridad las y los menores de dieciocho años, las y los indígenas y las y los afromexicanos hasta la edad de sesenta y cuatro años y las personas que se encuentren en condición de pobreza.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2020)</small>
+
+Las personas mayores de sesenta y ocho años tienen derecho a recibir por parte del Estado una pensión no contributiva en los términos que fije la Ley. En el caso de las y los indígenas y las y los afromexicanos esta prestación se otorgará a partir de los sesenta y cinco años de edad.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2020)</small>
+
+El Estado establecerá un sistema de becas para las y los estudiantes de todos los niveles escolares del sistema de educación pública, con prioridad a las y los pertenecientes a las familias que se encuentren en condición de pobreza, para garantizar con equidad el derecho a la educación.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -8639,3 +8651,13 @@ D.O.F. 6 DE MARZO DE 2020.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de su competencia, deberán armonizar el marco jurídico en la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de un año a partir de la entrada en vigor del mismo.
+
+D.O.F. 8 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 4o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Congreso de la Unión deberá armonizar el marco jurídico en la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 365 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como la concurrencia de los tres órdenes de gobierno para garantizar los derechos derivados del presente Decreto.
+
+Tercero. El monto de los recursos asignados, en el Presupuesto de Egresos de la Federación y en el presupuesto de las entidades federativas del ejercicio fiscal que corresponda, para los programas de atención médica y medicamentos gratuitos, de apoyo económico para personas que tengan discapacidad permanente, de pensiones para personas adultas mayores, y de becas para estudiantes que se encuentren en condición de pobreza, no podrá ser disminuido, en términos reales, respecto del que se haya asignado en el ejercicio fiscal inmediato anterior.
