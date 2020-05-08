@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-articulo-294-de-la-ley-organica-del-poder-142512
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-03-06"
-last_updated: "2020-03-06"
+last_updated: "2020-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO DEL ARTICULO 294 DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-(NOTA: EL 15 DE NOVIEMBRE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 35/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL REGLAMENTO DEL ARTÍCULO 294 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL SEIS DE MARZO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 REGLAMENTO DEL ARTÍCULO 294 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2020.
 
 Reglamento publicado en el Número 13 del Periódico Oficial del Estado de Baja California, el viernes 6 de marzo de 2020.
 
@@ -183,7 +181,9 @@ El resultado de los estudios de actualización se informará de forma anual a lo
 
 ## TRANSITORIOS
 
-Artículo Primero.- El presente Reglamento entrará en vigor a los sesenta días siguientes de su publicación en el Periódico, Oficial del Estado. Ordénese la publicación del mismo.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2020)</small>
+
+Artículo primero.- El presente reglamento entrará en vigor a los ciento veinte días siguientes de su publicación en el Periódico Oficial del Estado. Ordénese la publicación del mismo.
 
 Artículo Segundo.- Publíquese en el Boletín Judicial del Estado, una vez que acontezca lo indicado en el artículo transitorio anterior.
 
@@ -250,3 +250,9 @@ CONSEJERO
 LIC. FRANCISCO GERARDO SALCEDO GARCÍA
 
 SECRETARIO GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MAYO DE 2020.
+
+> <small>[N. DE E. LA "MODIFICACIÓN AL ARTÍCULO TRANSITORIO PRIMERO DEL REGLAMENTO DEL ARTÍCULO 294 DE LA LEY ORGÁNICA 16 DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
