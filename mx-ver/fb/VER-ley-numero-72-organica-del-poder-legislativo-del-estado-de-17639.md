@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2020-05-06"
+last_updated: "2020-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MAYO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -67,9 +67,17 @@ El año legislativo se computará del cinco de noviembre al cuatro de noviembre 
 
 El Congreso del Estado no podrá abrir sus sesiones ni ejercer su función sin la concurrencia de más de la mitad del número total de Diputados; pero los presentes deberán reunirse el día señalado por esta ley y compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia de que si no lo hicieren se entenderá, por ese solo hecho, excepto causa justificada, que no aceptan el cargo, llamándose desde luego a los suplentes, los que deberán presentarse en un plazo igual; y si tampoco lo hicieren, se declarará vacante el cargo y se convocará a nuevas elecciones, si se trata de Diputados electos por mayoría relativa. Si fuesen Diputados electos por el principio de representación proporcional, se llamará al siguiente en el orden que corresponda, según las listas presentadas por los partidos políticos.
 
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2020)</small>
+
 ###### Artículo 5.
 
 El Congreso del Estado se reunirá a partir del cinco de noviembre de cada año para celebrar un Primer Período de Sesiones Ordinarias, el cual concluirá el día último del mes de enero del año siguiente; y a partir del dos de mayo de cada año para celebrar un Segundo Período de Sesiones Ordinarias que concluirá el día último del mes de julio siguiente.
+
+Las sesiones del Congreso y de sus comisiones serán públicas; pero cuando se trate de asuntos que exijan reserva, serán privadas, de conformidad con lo establecido por su normatividad interior.
+
+De manera excepcional, cuando existan contingencias sanitarias, ambientales, riesgos a la seguridad pública, a la protección civil, o cuando se declare estado de emergencia u otros casos de fuerza mayor, las sesiones del Congreso podrán celebrarse a distancia, ya sea de forma total o parcial, a través de las tecnologías de la información o sistemas electrónicos que se establezcan para ello. Todas las sesiones celebradas bajo esta modalidad deberán ser transmitidas en vivo.
+
+Las tecnologías de la información o sistemas electrónicos para la celebración de las sesiones a distancia deberán garantizar de manera eficaz la verificación del quórum, la intervención de viva voz de las y los legisladores partícipes, el registro de las votaciones, y que el acceso a dichas plataformas esté limitado a los Diputados y Diputadas, así como al personal previamente autorizado.
 
 ###### Artículo 6.
 
@@ -1990,3 +1998,13 @@ G.O. 6 DE MAYO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 567 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR, AMBOS DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En un plazo máximo de treinta días naturales contado a partir de la entrada en vigor del presente Decreto, el Congreso deberá expedir el Reglamento de Sesiones a Distancia del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave. En tanto se expide dicho ordenamiento, la Junta de Trabajos Legislativos deberá acordar la forma que seguirán los debates, discusiones, deliberaciones y, en su caso, votaciones, de las sesiones a distancia.
