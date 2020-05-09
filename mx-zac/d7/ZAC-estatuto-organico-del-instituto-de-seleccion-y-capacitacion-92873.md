@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-de-seleccion-y-capacitacion-928
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-02-16"
-last_updated: "2013-02-16"
+last_updated: "2020-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SELECCIÓN Y CAPACITACIÓN DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2020 (ABROGADO).
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 16 de febrero de 2013.
 
@@ -774,3 +774,15 @@ Se Abroga el Estatuto Orgánico del Instituto de Selección y Capacitación del 
 Dentro del término de 30 días naturales contados a partir de la entrada en vigor del presente Estatuto, deberá expedirse y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado el Manual General de Organización y 180 días naturales el de Procedimientos.
 
 APROBADO POR LA JUNTA DIRECTIVA DEL INSTITUTO DE SELECCIÓN Y CAPACITACIÓN DEL ESTADO DE ZACATECAS, EN SESIÓN CELEBRADA EN LA CIUDAD DE ZACATECAS, CAPITAL DEL ESTADO DEL MISMO NOMBRE, A LOS CATORCE DÍAS DEL MES DE FEBRERO DEL 2013.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO DE SELECCIÓN Y CAPACITACIÓN DEL ESTADO”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se Abroga el Estatuto Orgánico del Instituto de Selección y Capacitación del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en Suplemento Núm.14 de fecha 16 de febrero de 2013.
+
+TERCERO. Dentro del término de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Estatuto, deberá expedirse y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Manual General de Organización y de Procedimientos.
