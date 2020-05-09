@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2020-04-20"
+last_updated: "2020-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2020.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -449,9 +449,9 @@ Es deber de los padres preservar el derecho de los menores a la satisfacción de
 
 El Estado garantizara la organización de la niñez, las juventudes, su actividad deportiva cuidando en todo momento la paridad de género, la igualdad, la no discriminación, la diversidad y la inclusión sin distinción de edad, sexo, raza, origen étnico, origen, orientación sexual o condición económica, para su formación cultural integral.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
 
-A los jóvenes de entre quince y veintinueve años, el Estado garantizara su inclusión en políticas públicas, programas, servicios y acciones en congruencia con su edad, indistintamente de su género, su estado civil, origen étnico, circunstancia social o de salud, religión o cualquier otra.
+A los jóvenes de entre quince y veintinueve años, el Estado garantizará su inclusión en políticas públicas, programas, servicios y acciones en congruencia con su edad, indistintamente de su género, su estado civil, origen étnico, circunstancia social o de salud, religión o cualquier otra. A las y los jóvenes de entre dieciocho y veintinueve años, el Estado garantizará su inclusión en un diez por ciento para ser titular de Secretarías, Dependencias, Órganos Auxiliares, y Entidades de la Administración Pública Estatal, respetando el principio de paridad de género y alternancia, siempre y cuando se cumpla con los requisitos establecidos en esta Constitución y Leyes reglamentarias, particularmente en el caso de cargos públicos que requieran un nivel profesional idóneo.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -493,9 +493,9 @@ El Estado promoverá lo necesario para que la población tenga acceso a una vivi
 
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios culturales. El Estado garantizará su cumplimiento y promoverá el derecho a la creación y formación artística; la diversidad cultural de los individuos, comunidades y pueblos; la vinculación entre cultura y desarrollo sustentable; y la difusión y protección del patrimonio cultural, fomentando la participación social.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
 
-Toda persona tiene derecho al acceso, a la disposición y saneamiento de agua potable suficiente, salubre, segura, asequible, accesible y de calidad para el uso personal y doméstico de una forma adecuada a la dignidad, la vida y la salud; así como a solicitar, recibir y difundir información sobre las cuestiones del agua.
+Toda persona tiene derecho al acceso, a la disposición y saneamiento de agua potable suficiente, salubre, segura, asequible, accesible y de calidad para el uso personal y doméstico de una forma adecuada a la dignidad, la vida y la salud; así como a solicitar, recibir y difundir información sobre las cuestiones del agua. Con el propósito de asegurar la disponibilidad del agua, abatir los niveles de contaminación, las aguas residuales de origen urbano deben recibir tratamiento previo a su descarga en arroyos, ríos, cuencas, vasos, aguas marinas y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo. El Estado procurará los mecanismos para construir y coadyuvar con el mantenimiento de plantas de tratamiento de aguas residuales en los Municipios.
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -513,6 +513,10 @@ El Estado de Oaxaca y los Municipios garantizarán que los desfavorecidos y marg
 
 El Estado dentro de su territorio velará por el respeto irrestricto de los derechos humanos de los migrantes y brindará asistencia integral a ellos y a sus familias, tanto nacionales como extranjeros, sea cual fuera su origen, nacionalidad, género, etnia, edad y situación migratoria, con especial atención a menores de edad, mujeres, indígenas, adolescentes, personas de la tercera edad y víctimas de delito. Así mismo, fortalecerá las diversas manifestaciones de identidad cultural de la población indígena y afromexicana migrante en los lugares de destino, con acciones que fortalezcan la vinculación familiar y comunitaria de esa población.
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2020)</small>
+
+El Estado, a efecto de garantizar la no discriminación por la condición de migrante de las personas nacidas en el Estado de Oaxaca, podrá emitir cartas de identidad que hagan constar los datos de cada persona, asentados en los registros y padrones de identidad y poblaciones del territorio Oaxaqueño, previo procedimiento y requisitos establecidos en la Ley de la materia.
+
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad, accesibilidad, eficiencia, comodidad, igualdad y calidad. Se concederá prioridad a los peatones y conductores de vehículos no motorizados, y se promoverá una cultura de movilidad sustentable.
@@ -520,8 +524,6 @@ Toda persona tiene derecho a la movilidad en condiciones de seguridad, accesibil
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Las autoridades adoptarán las medidas necesarias para asegurar el ejercicio de este derecho, especialmente en el uso del espacio vial en condiciones de equidad, así como garantizar el respeto de los derechos de los usuarios más vulnerables de la vía, el cual será adecuado a las necesidades sociales y ambientales del Estado.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 Toda persona dentro del territorio del Estado, tiene derecho a vivir en un medio ambiente sano para su desarrollo, salud y bienestar. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por las leyes.
 
@@ -3205,7 +3207,9 @@ En el año que concluya su mandato, los Ayuntamientos presentarán dicha Cuenta 
 
 III.- Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
-a).- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
+
+a).- Agua potable, drenaje, alcantarillado, así como el tratamiento de aguas residuales municipales, industriales, agrícolas y de servicios.
 
 b).- Alumbrado público.
 
@@ -5568,3 +5572,23 @@ P.O. 20 DE ABRIL DE 2020.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1191.- MEDIANTE EL CUAL ADICIONA EL TRIGÉSIMO OCTAVO PÁRRAFO AL ARTÍCULO 12 RECORRIÉNDOSE LOS SUBSECUENTES, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. Remítase al Ejecutivo para su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca. El presente Decreto entrará en vigor a partir del día siguiente de su publicación.
+
+P.O. 9 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1478.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO VIGÉSIMO QUINTO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. Remítase al Ejecutivo para su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca. El presente Decreto entrará en vigor a partir del día siguiente de su publicación.
+
+P.O. 9 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1490.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO TRIGÉSIMO TERCERO DEL ARTÍCULO 12; Y (SIC) INCISO A) DE LA FRACCIÓN III DEL ARTÍCULO 113, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Estado de Oaxaca.
