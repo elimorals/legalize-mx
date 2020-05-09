@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2020-04-24"
+last_updated: "2020-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4673,11 +4673,11 @@ Comete el delito de abigeato el que se apodera de una o más cabezas de ganado, 
 
 Se considera ganado para los efectos de este delito las especies relacionadas en la ley de la materia.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
 
 ###### Art. 241.
 
-Si el daño previsto en el artículo 259 de este Código, se produce en las especies a que se refiere el artículo 240, se aplicará una sanción de uno a seis años de prisión y multa por el importe de cuatro a ochenta veces el valor diario de la Unidad de Medida y Actualización.
+Si el daño previsto en el artículo 259 de este Código, se produce en las especies a que se refiere el artículo 240, se aplicará una sanción de dos a siete años de prisión y multa por el importe de seis a noventa veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Art. 241 Bis.
 
@@ -4691,15 +4691,31 @@ Se considerará como abigeato para los efectos de la sanción:
 
 a) Sacrificar intencionalmente ganado ajeno, sin consentimiento de su propietario;
 
-b) Adquirir o negociar ganado robado, carne, pieles u otros derivados producto de abigeato, a sabiendas de esta circunstancia;
+(NOTA: EL 11 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 196/2020, DECLARÓ LA INVALIDEZ DEL INCISO b) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 10 DE MAYO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27882/LXII/20, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
+
+b) ADQUIRIR O NEGOCIAR GANADO ROBADO, CARNE, PIELES Y OTROS DERIVADOS PRODUCTO DE ABIGEATO;
 
 c) Proteger dolosamente ganado robado con documentación falsa;
 
-d) Autorizar en rastro oficial o en cualquier otro lugar de matanza, el sacrificio de ganado robado a sabiendas de esta circunstancia;
+(NOTA: EL 11 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 196/2020, DECLARÓ LA INVALIDEZ DEL INCISO d) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 10 DE MAYO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27882/LXII/20, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-e) Expedir documentación que acredite la propiedad de animales producto de abigeato a favor de persona distinta de quien legalmente pueda disponer de ellos, o autorice su movilización, a sabiendas de su ilegal procedencia; y
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
 
-f) Transportar ganado, carnes o pieles a sabiendas de que se trata de carga producto de abigeato.
+d) AUTORIZAR EN RASTRO OFICIAL O EN CUALQUIER OTRO LUGAR DE MATANZA, EL SACRIFICIO DE GANADO ROBADO;
+
+(NOTA: EL 11 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 196/2020, DECLARÓ LA INVALIDEZ DEL INCISO e) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 10 DE MAYO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27882/LXII/20, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
+
+e) EXPEDIR DOCUMENTACIÓN QUE ACREDITE LA PROPIEDAD DE ANIMALES PRODUCTO DE ABIGEATO A FAVOR DE PERSONA DISTINTA DE QUIEN LEGALMENTE PUEDA DISPONER DE ELLOS, O AUTORICE SU MOVILIZACIÓN; Y
+
+(NOTA: EL 11 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 196/2020, DECLARÓ LA INVALIDEZ DEL INCISO f) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 10 DE MAYO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27882/LXII/20, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
+
+f) TRANSPORTAR GANADO, CARNES O PIELES CUANDO LA CARGA SEA PRODUCTO DE ABIGEATO.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2000)</small>
 
@@ -4731,13 +4747,25 @@ II. Se cometa aprovechando alguna relación de trabajo, confianza o parentesco d
 
 III. Sea perpetrado por ganaderos inscritos como tales en cualquier unión o asociación ganadera;
 
-V (SIC). El abigeato se desarrolle en diferentes entidades federativas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 2020)</small>
+
+IV. Se cometa por dos o más sujetos;
+
+V. El abigeato se desarrolle en diferentes entidades federativas;
 
 VI. Se ejecute con violencia física o moral en las personas ya sea al perpetrarse el hecho o después de consumado para lograr la fuga o defender el producto;
 
-VII. El responsable sea, o simule ser, miembro de algún cuerpo de seguridad pública o alguna otra autoridad; y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2020)</small>
 
-VIII. El responsable lleve algún arma, aun cuando no haga uso de ella.
+VII. El responsable sea, o simule ser, miembro de algún cuerpo de seguridad pública o alguna otra autoridad;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2020)</small>
+
+VIII. El responsable lleve algún arma, aun cuando no haga uso de ella; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 2020)</small>
+
+IX. Cuando el ganado fuere de registro para el mejoramiento genético.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2000)</small>
 
@@ -4757,7 +4785,9 @@ II. De tres a ocho años de prisión y multa por el importe de veinte a sesenta 
 
 III. De seis a once años de prisión y multa por el importe de treinta a cien veces el valor diario de la Unidad de Medida y Actualización, cuando el valor de lo robado exceda del monto de mil veces el valor diario de la Unidad de Medida y Actualización; y
 
-b) Si interviene alguna de las calificativas que se consignan en las fracciones V, VI, VII y VIII del artículo anterior, la pena será:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE MAYO DE 2020)</small>
+
+b) Si interviene alguna de las calificativas que se consignan en las fracciones V, VI, VII, VIII y IX del artículo anterior, la pena será:
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -4783,23 +4813,11 @@ I. Altere o elimine en cualquier forma las señales de sangre, marcas o fierros 
 
 II. Marque o señale ganado orejano.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
 
 ###### Art. 243.
 
-El responsable de abigeato quedará exonerado de toda sanción cuando dentro de los ocho días siguientes a la comisión del delito se presenten las siguientes circunstancias:
-
-I. Que no haya sido acusado de abigeato anteriormente;
-
-II. Que el importe del producto del delito no pase del máximo establecido en la fracción I del artículo 242 A;
-
-III. El activo restituya espontáneamente el ganado robado, en su número y calidad;
-
-IV. El responsable pague los daños y perjuicios que hubiere ocasionado;
-
-V. No se presente una de las circunstancias calificativas previstas en las fracciones VI, VII y VIII del artículo 242 B; y
-
-VI. No se trate de reincidente que haya sido condenado por delito contra el patrimonio.
+El responsable de abigeato simple, que no cuente con antecedentes penales quedará exonerado de toda sanción cuando cuente con los documentos de trazabilidad a que se refiere la Ley Agroalimentaria del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2000)</small>
 
@@ -6948,3 +6966,11 @@ P.O. 24 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27901/LXII/20 QUE REFORMA LOS ARTÍCULOS 202 BIS Y 203, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 9 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27882/LXII/20 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 241, 242, 242 B, 242 C Y 243, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco" con excepción de lo previsto en el artículo segundo transitorio del presente decreto.
+
+SEGUNDO. La reforma al artículo 243 del Código Penal del Estado de Jalisco, entrará en vigor una vez que la Agencia de Sanidad, Inocuidad y Calidad Agroalimentaria de Jalisco emita las disposiciones normativas correspondientes en materia de trazabilidad.
