@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2020-05-03"
+last_updated: "2020-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2020.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -257,11 +257,21 @@ XVII. Derecho a la intimidad;
 
 XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
-XIX. Derechos de niñas, niños y adolescentes migrantes, y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2020)</small>
 
-XX. Derechos de niñas, niños y adolescentes en situaciones especiales.
+XIX. Derechos de niñas, niños y adolescentes migrantes;
 
-Las autoridades, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2020)</small>
+
+XX. Derechos de niñas, niños y adolescentes en situaciones especiales; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2020)</small>
+
+XXI. Derecho de acceso a las Tecnologías de la Información y Comunicación.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2020)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar los anteriores y en general todos los derechos de las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
 ### Capítulo Primero. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
 
@@ -1736,5 +1746,17 @@ P.O. 3 DE MAYO DE 2020.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 318.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
