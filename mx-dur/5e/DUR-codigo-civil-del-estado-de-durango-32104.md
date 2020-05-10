@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2020-05-03"
+last_updated: "2020-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2020.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1651,13 +1651,19 @@ La obligación que se establece en este artículo, queda exceptuada en los casos
 
 ART. 303.- Los alimentos comprenden:
 
-I. La comida, el vestido, la habitación, la atención médica y la hospitalaria.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2020)</small>
 
-II. Respecto de los menores, además, los gastos para su educación y para proporcionarles oficio, arte o profesión adecuados a su sexo y circunstancias personales;
+I. La comida, el vestido, la habitación, la atención médica y hospitalaria, así como en su caso los gastos que se generen durante el embarazo, parto y postparto, la atención psicológica, afectiva y de sano esparcimiento y gastos funerarios.
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2020)</small>
+
+II. Respecto de los menores, los gastos para estancias infantiles, educación preescolar, primaria, secundaria, media superior y en el caso de mayores de edad para proporcionar algún oficio, arte o profesión honestos y adecuados a circunstancias personales;
 
 III. Con relación a las personas con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su rehabilitación e integración social; y
 
-IV. Por lo que hace a los adultos mayores que carezcan de capacidad económica, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2020)</small>
+
+IV. Por lo que hace a los adultos mayores que carezcan de capacidad económica, además de los alimentos se proporcionará todo lo necesario para su atención geriátrica.
 
 ART. 304.- El obligado a dar alimento cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
@@ -1665,9 +1671,9 @@ ART. 305.-El deudor alimentista no podrá pedir que se incorpore a su familia el
 
 ART. 306.- Los alimentos han de ser proporcionados: a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2020)</small>
 
-ART. 306-1.- Los menores, las personas con discapacidad, los sujetos a estado de interdicción y el cónyuge que se dedique a las labores del hogar, gozarán de la presunción de necesidad de alimentos.
+ART. 306-1.- Los menores, las personas con discapacidad, los sujetos a estado de interdicción, las personas adultas mayores y el cónyuge que se dedique a las labores del hogar, gozarán de la presunción de necesidad de alimentos.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -1709,15 +1715,17 @@ ART. 315.- Cesa la obligación de dar alimentos:
 
 I.- (DEROGADA, P.O. 23 DE JUNIO DE 2019)
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2020)</small>
 
-II.- Cuando el alimentista deja de necesitar los alimentos;
+II.- Cuando el acreedor alimentario deja de necesitar los alimentos;
 
 III.- En caso de injuria, falta o daño graves inferidos por el alimentista contra el que debe prestarlos;
 
 IV.- Cuando la necesidad de los alimentos depende de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsisten estas causas;
 
-V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2020)</small>
+
+V.- Si el acreedor alimentario, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
 
 ART. 316.- El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
 
@@ -10866,6 +10874,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE MAYO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 309.- QUE CONTIENE REFORMA AL SEGUNDO PÁRRAFO DEL ARTÍCULO 297 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO, EN MATERIA DE PENSIÓN ALIMENTICIA EN EL CONCUBINATO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 307.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 303, 306-1 Y 315 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
