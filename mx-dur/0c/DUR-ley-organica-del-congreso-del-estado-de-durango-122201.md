@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2020-04-23"
+last_updated: "2020-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -608,6 +608,14 @@ V. No presenciales, aquellas que se realicen a través de las tecnologías de la
 > <small>[N. DE E. PERTENECE A LA FRACCIÓN V, P.O. 23 DE ABRIL DE 2020.]</small>
 
 La realización de la sesión no presencial será convocada por la Presidencia de la Mesa directiva cuando existan razones de salubridad general, protección civil, contingencia sanitaria o cualquier otra que impidan el acceso a las y los legisladores al edificio sede del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2020)</small>
+
+Todas las sesiones, con excepción de las privadas, serán asistidas por personal especializado en el lenguaje de señas mexicano a fin de que les transmitan a las personas con discapacidades auditivas la información que se genera en tiempo real en cada una de las sesiones.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2020)</small>
+
+Las sesiones que sean transmitidas en vivo por cualquier medio de comunicación digital o electrónico, así como las sesiones que sean grabadas en video en cualquier soporte, deberán incluir un recuadro de cuando menos 1/16 de la pantalla, en la parte baja a la derecha, en la que se incluya la imagen del personal especializado en el lenguaje de señas mexicano comunicando los contenidos a las personas con discapacidades auditivas.
 
 ###### Artículo 56.
 
@@ -1809,6 +1817,10 @@ XIII. El ejercicio de las atribuciones que le confieran las reglas para la difus
 
 XIV. Las demás que le confieran esta ley, sus reglamentos, el Pleno y la Junta de Gobierno y Coordinación Política.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2020)</small>
+
+La Junta de Gobierno y Coordinación Política deberá designar dentro de la estructura orgánica de la Secretaría General y atendiendo a la disponibilidad presupuestal, una instancia responsable encargada de aplicar lo establecido en (sic) Ley General de Mejora Regulatoria, o bien, autorizarla para coordinarse con la Autoridad de Mejora Regulatoria del Estado para el cumplimiento de las obligaciones de dicha materia.
+
 A. SECRETARIA DE SERVICIOS ADMINISTRATIVOS Y FINANCIEROS
 
 ### CAPÍTULO III. DEL CENTRO DE INVESTIGACIONES Y ESTUDIOS LEGISLATIVOS
@@ -2966,3 +2978,23 @@ P.O. 23 DE ABRIL DE 2020.
 Artículo Primero. El presente Decreto entrará en vigor al momento de su aprobación por el H. Congreso del Estado de Durango.
 
 Artículo Segundo.- La Secretaría General del Congreso realizará los ajustes administrativos necesarios para dar cumplimiento al presente decreto.
+
+P.O. 10 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 321.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 10 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 322.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Durango.
