@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2020-04-14"
+last_updated: "2020-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MAYO DE 2020.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -147,9 +147,9 @@ Los pueblos indígenas tienen derecho a la libre determinación dentro del marco
 
 En la regulación y solución de sus conflictos internos, deberán aplicar sus propios sistemas normativos, con sujeción a los principios generales de esta Constitución, respecto a las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres.
 
-> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
 
-Las comunidades indígenas podrán elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, de modo que se garantice la participación de las mujeres en condiciones de equidad frente a los varones en un marco que respete el pacto federal y la soberanía del estado.
+Las comunidades indígenas podrán elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, así como representantes ante los Ayuntamientos, observando el principio de paridad de género, de modo que se garantice la participación de las mujeres en condiciones de igualdad frente a los hombres en un marco que respete el pacto federal y la soberanía del estado.
 
 El uso y disfrute colectivo de los recursos naturales por las comunidades indígenas se realizará de acuerdo con las formas y modalidades de propiedad previstas por la Constitución Federal.
 
@@ -173,9 +173,9 @@ REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2016)
 
 Las autoridades del Estado promoverán las condiciones necesarias para el pleno goce de la libertad, igualdad, seguridad y la no discriminación de las personas; asimismo, garantizarán el derecho al honor, a la intimidad personal y familiar y al libre desarrollo de la personalidad, dando especial atención a la integración de las personas con discapacidad.
 
-> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
 
-La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el varón en la vida política, social, económica y cultural del Estado. Asimismo, promoverá que la igualdad entre hombres y mujeres se regule también en las denominaciones correspondientes a los cargos públicos.
+La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el hombre en la vida política, social, económica y cultural del Estado. Asimismo, promoverá que la igualdad entre hombres y mujeres se regule también en las denominaciones correspondientes a los cargos públicos, atendiendo el principio de paridad de género.
 
 > <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -197,7 +197,7 @@ El Estado promoverá, en la medida de los recursos presupuestales disponibles, e
 
 Toda persona gozará del derecho a la información, así como al de acceso, rectificación, cancelación y oposición al tratamiento de sus datos personales, frente a los sujetos obligados.
 
-(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 205/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADAS CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 205/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADAS CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO, G.O. 27 DE ABRIL DE 2016)</small>
 
@@ -335,19 +335,25 @@ Son ciudadanos los mexicanos por nacimiento o por naturalización, que tengan 18
 
 La calidad de ciudadano se pierde, suspende o rehabilita, en los términos señalados por la Constitución y las leyes federales.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2020)</small>
 
 ###### Artículo 15.
 
-Son derechos de los ciudadanos:
+Son derechos de la ciudadanía:
 
-I. Votar y ser votado en las elecciones estatales y municipales, y participar en los procesos de plebiscito, referendo e iniciativa popular. Sólo podrán votar los ciudadanos que posean credencial de elector y estén debidamente incluidos en el listado nominal correspondiente;
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
+
+I. Votar en las elecciones estatales y municipales, y participar en los procesos de plebiscito, referendo e iniciativa popular y poder ser votada en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley. Sólo podrá votar la ciudadanía que posea credencial de elector y esté debidamente incluida en el listado nominal correspondiente;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 II. Afiliarse libre e individualmente a los partidos políticos u organizaciones políticas;
 
-III. Estar informado de las actividades que lleven a cabo sus representantes políticos; y
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
 
-IV. Los demás que establezca esta Constitución y la ley.
+III. Estar informada de las actividades que lleven a cabo sus representantes políticos;
+
+IV. (DEROGADA, G.O. 11 DE MAYO DE 2020)
 
 > <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2016)</small>
 
@@ -375,25 +381,37 @@ f) Las resoluciones del organismo público electoral administrativo podrán ser 
 
 g) Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
 
-> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
 
-VI. Participar en el proceso de asignación y ejecución del presupuesto en su municipio.
+VI. Participar en el proceso de asignación y ejecución del presupuesto en su municipio; y
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2020)</small>
+
+VII. Los demás que establezca esta Constitución y la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2020)</small>
 
 ###### Artículo 16.
 
-Son obligaciones de los ciudadanos del Estado:
+Son obligaciones de la ciudadanía del Estado:
 
 > <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2016)</small>
 
 I. Votar en las elecciones estatales y municipales, plebiscitos, referendos y consultas populares, en los términos que señalen esta Constitución y la ley;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 II. Inscribirse en el padrón y catastro de su municipalidad, manifestando sus propiedades, la industria, profesión o trabajo de que se subsista; así como también inscribirse en el padrón estatal electoral en los términos que determine la ley;
 
-III. Desempeñar los cargos para los que hubieren sido electos;
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
 
-IV. Desempeñar las funciones electorales para las que hubieren sido designados; y
+III. Desempeñar los cargos para los que hubiere sido elegida;
+
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
+
+IV. Desempeñar las funciones electorales para las que hubiere sido designada; y
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 V. Las demás que establezcan esta Constitución y la ley.
 
@@ -431,41 +449,63 @@ b) Para los demás casos que establezcan esta Constitución y la ley.
 
 El plebiscito será obligatorio en los casos que señalen esta Constitución y la ley.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2020)</small>
 
 ###### Artículo 18.
 
-Los diputados y los ediles serán elegidos por sufragio universal, libre, secreto y directo, de acuerdo a los principios de mayoría relativa y de representación proporcional, con las modalidades que establezca la ley.
+Las diputadas, los diputados y los ediles se elegirán por sufragio universal, libre, secreto y directo, de acuerdo con los principios de mayoría relativa y de representación proporcional, con las modalidades que establezca la ley.
 
-El Gobernador del Estado será elegido por el principio de mayoría relativa, mediante sufragio universal, libre, secreto y directo.
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
+
+La Gobernadora o el Gobernador del Estado se elegirá por el principio de mayoría relativa, mediante sufragio universal, libre, secreto y directo.
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 En los casos a que se refieren los párrafos anteriores, la jornada electoral deberá coincidir con la que tenga por objeto elegir a los poderes federales y tendrá lugar el primer domingo de junio del año que corresponda.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2020)</small>
 
 ###### Artículo 19.
 
-Los partidos políticos son entidades de interés público que tienen como finalidad promover la participación del pueblo en la vida democrática y contribuir a la integración de la representación estatal y municipal, en los términos de lo dispuesto por la Constitución General de la República y la Ley General que regula a los partidos políticos nacionales y locales. La ley electoral local reconocerá las disposiciones que rigen en todo el país para los partidos, normará los aspectos que sean de competencia local y regulará otras formas de organización política.
+Los partidos políticos son entidades de interés público que tienen como finalidad promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, y contribuir a la integración de la representación estatal y municipal, en los términos de lo dispuesto por la Constitución General de la República y la Ley General que regula a los partidos políticos nacionales y locales. La ley electoral local reconocerá las disposiciones que rigen en todo el país para los partidos, normará los aspectos que sean de competencia local y regulará otras formas de organización política. En la postulación de sus candidaturas, estas entidades observarán el principio de paridad de género.
 
-Los partidos políticos sólo podrán constituirse por ciudadanos, sin intervención de organizaciones gremiales o con objeto social diferente y sin que haya afiliación corporativa.
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
+
+Los partidos políticos sólo podrán constituirse por ciudadanas y ciudadanos, sin intervención de organizaciones gremiales o con objeto social diferente y sin que haya afiliación corporativa.
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos en los términos que expresamente señale la ley.
 
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
+
 Los partidos políticos contarán, de manera equitativa, con elementos para llevar a cabo sus actividades en la forma y términos que se señalen en la Constitución federal y en la Ley General que los regula. También tendrán derecho de acceder a los tiempos en radio y televisión, conforme a lo previsto en las normas antes señaladas. Los candidatos independientes registrados conforme a la ley tendrán derecho a prerrogativas para las campañas electorales, de acuerdo a las previsiones constitucionales y legales aplicables.
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 Durante el tiempo que comprendan las campañas electorales y hasta el día de la jornada electoral, las autoridades estatales y municipales cesarán toda campaña publicitaria relativa a obras y programas públicos. A las autoridades electorales corresponderá la vigilancia de lo dispuesto en este párrafo.
 
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
+
 Se exceptúan de lo anterior las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud y las necesarias para la protección civil en casos de emergencia.
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 Al partido político local que no obtenga al menos el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales, le será cancelado el registro.
 
-Los partidos políticos tienen el derecho de registrar candidatos a cargos de elección popular, sin perjuicio del derecho de los ciudadanos a registrar candidaturas independientes. La ley fijará las condiciones y requisitos para registrar una candidatura independiente.
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
+
+Los partidos políticos tienen el derecho de registrar candidatas y candidatos a cargos de elección popular, sin perjuicio del derecho de la ciudadanía a registrar candidaturas independientes. La ley fijará las condiciones y requisitos para registrar una candidatura independiente.
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 Las reglas para las precampañas y las campañas electorales se señalarán en la ley.
 
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
+
 La duración de las campañas y precampañas se regulará en la ley de la materia, en el marco de lo establecido en el artículo 116 de la Constitución federal.
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
 
 La violación a estas disposiciones será sancionada conforme a la ley.
 
@@ -489,13 +529,13 @@ El Congreso del Estado se integrará por cincuenta diputados y diputadas bajo el
 
 El Congreso se renovará en su totalidad cada tres años y se instalará el día cinco de noviembre inmediato posterior a las elecciones.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
 
-La ley desarrollará la fórmula de asignación de diputados electos por el principio de representación proporcional, con base en lo previsto en este artículo. La demarcación de los distritos electorales uninominales estará a cargo del Instituto Nacional Electoral, como lo dispone el artículo 41, apartado B, de la Constitución federal.
+La ley desarrollará la fórmula de asignación de diputadas y diputados electos por el principio de representación proporcional, con base en lo previsto en este artículo. La demarcación de los distritos electorales uninominales estará a cargo del Instituto Nacional Electoral, como lo dispone el artículo 41, apartado B, de la Constitución federal.
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MAYO DE 2020)</small>
 
-La elección de diputados según el principio de representación proporcional y el sistema de asignación se sujetarán a las siguientes bases y a lo que disponga la ley:
+La elección de diputadas y diputados según el principio (sic) representación proporcional y el sistema de asignación se sujetarán a las siguientes bases y a lo que disponga la ley, considerando en este proceso la paridad de género:
 
 > <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
 
@@ -521,9 +561,9 @@ V. En ningún caso, un partido político podrá contar con un número de diputad
 
 VI. En los términos de lo establecido en las bases contenidas en las fracciones III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos con derecho a ello, en proporción directa con las respectivas votaciones estatales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
 
-Los diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación para la reelección sólo podrá ser realizada por el mismo partido que hizo la postulación previa o por alguno de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las diputadas y los diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación para la reelección sólo podrá ser realizada por el mismo partido que hizo la postulación previa o por alguno de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -737,7 +777,7 @@ c) La calificación de las causas graves o justificadas para que los ediles renu
 
 XVI. Autorizar, en su caso, a los ayuntamientos:
 
-(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -749,19 +789,19 @@ b) (DEROGADO, G.O. 23 DE NOVIEMBRE DE 2017)
 
 c) Por el voto de las dos terceras partes de sus miembros presente (sic), los montos máximos para la contratación de empréstitos y obligaciones en las mejores condiciones del mercado, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago;
 
-(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 d) La enajenación, gravamen, transmisión de la posesión o dominio de bienes, participaciones, impuestos, derechos, aprovechamientos, contribuciones o cualquier tipo de ingreso fiscal que forme la hacienda municipal;
 
-(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 e) La transmisión en forma gratuita o donación de la propiedad, así como el uso o disfrute de los bienes del municipio;
 
-(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -781,9 +821,9 @@ XVII. Llevar el registro de la situación patrimonial de los Servidores Público
 
 XVIII. Con la aprobación de las dos terceras partes de sus miembros presentes, designar al titular de la Contraloría General del organismo público que ejerza la autoridad electoral administrativa, en los términos que señalen esta Constitución y la ley;
 
-> <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
 
-XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a los magistrados del Poder Judicial, a los magistrados del Tribunal Estatal de Justicia Administrativa, al Presidente de la Comisión Estatal de Derechos Humanos y a los Comisionados del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales;
+XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a magistradas y magistrados del Poder Judicial y del Tribunal Estatal de Justicia Administrativa, y a quien presida la Comisión Estatal de Derechos Humanos.
 
 > <small>(REFORMADA, G.O. 9 DE ENERO DE 2015)</small>
 
@@ -1187,7 +1227,9 @@ II. Promulgar, publicar y ejecutar las leyes o decretos aprobados por el Congres
 
 III. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos aprobados por el Congreso;
 
-IV. Velar por la conservación del orden, tranquilidad y seguridad del Estado, disponiendo al efecto de las corporaciones policiales estatales, y de las municipales en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público; así como impedir los abusos de la fuerza pública a su cargo en contra de los ciudadanos, haciendo efectiva la responsabilidad en que aquélla incurriera;
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
+
+IV. Velar por la conservación del orden, tranquilidad y seguridad del Estado, disponiendo al efecto de las corporaciones policiales estatales, y de las municipales en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público; así como impedir los abusos de la fuerza pública a su cargo en contra de la ciudadanía, haciendo efectiva la responsabilidad en que aquélla incurriera;
 
 > <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
@@ -1211,11 +1253,9 @@ XII. Disponer en caso de alteración del orden o peligro público, con autorizac
 
 XIII. Hacer cumplir los fallos y sentencias de los tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones;
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 880 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
 
-> <small>(REFORMADA, G.O. 10 DE JUNIO DE 2016)</small>
-
-XIV. NOMBRAR Y REMOVER LIBREMENTE A LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA, CUYO NOMBRAMIENTO O REMOCIÓN NO ESTÉN DETERMINADOS EN OTRA FORMA POR ESTA CONSTITUCIÓN Y POR LAS LEYES, INCLUYENDO AL CONTRALOR GENERAL DEL ESTADO.
+XIV. Nombrar, considerando para ello el principio de paridad de género, y remover libremente a las y los servidores públicos de la administración pública, cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes.
 
 XV. Proponer al Congreso la suspensión o revocación del mandato de uno o más ediles, así como la suspensión o desaparición de uno o más Ayuntamientos;
 
@@ -1251,9 +1291,17 @@ El Poder Ejecutivo, para el despacho de los asuntos de su competencia, tendrá l
 
 La ley establecerá las bases generales de creación de las entidades de la administración pública descentralizada y la intervención del Ejecutivo en su operación; así como las relaciones entre dichas entidades y el Ejecutivo, o entre aquéllas y los órganos de la administración pública centralizada.
 
-Los titulares de las dependencias y entidades de la administración pública deberán ser veracruzanos y contar con título profesional expedido por autoridad o institución legalmente facultada para ello, y cumplir con los demás requisitos que establezca la ley.
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
 
-Los titulares de las dependencias y entidades de la administración pública podrán, con autorización escrita del Ejecutivo, celebrar acuerdos y convenios en el ámbito de su competencia.
+Los titulares de las dependencias y entidades de la administración pública deberán ser veracruzanas o veracruzanos, y contar con título profesional expedido por autoridad o institución legalmente facultada para ello, y cumplir con los demás requisitos que establezca la ley.
+
+> <small>(ADICIONADO, G.O. 11 DE MAYO DE 2020)</small>
+
+Para el nombramiento o designación de las personas titulares de las dependencias y entidades de la Administración Pública se deberá observar el principio de paridad de género, de conformidad con las formas y modalidades que determine la ley.
+
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
+
+Los titulares de las dependencias y entidades de la administración pública podrán, con autorización escrita del Ejecutivo, celebrar acuerdos y convenios en el ámbito de su competencia
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1288,6 +1336,10 @@ El Ministerio Público en el Estado está a cargo de un órgano constitucional a
 ###### Artículo 55.
 
 El Poder Judicial se deposita en un Tribunal Superior de Justicia, en un Tribunal de Conciliación y Arbitraje y en los juzgados que señale la Ley Orgánica de la materia.
+
+> <small>(ADICIONADO, G.O. 11 DE MAYO DE 2020)</small>
+
+Para el nombramiento o designación de las magistradas, magistrados, juezas y jueces que integran estos órganos jurisdiccionales, respectiva-mente, así como para las personas que integran el Consejo de la Judicatura, se observará el principio de paridad de género de acuerdo con las formas y procedimientos que establezca la ley.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1339,27 +1391,25 @@ XV. Elaborar el dictamen técnico en sentido favorable o no favorable, según se
 
 XVI. Las demás atribuciones que le señale esta Constitución y la ley.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
 
 ###### Artículo 57.
 
-El Tribunal Superior de Justicia se compondrá por el número de magistrados que determine la ley, y será presidido por un magistrado que no integrará sala, sino en los casos expresamente establecidos en la propia ley.
+El Tribunal Superior de Justicia se compondrá por el número de magistradas y magistrados que determine la ley, y será presidido por alguna o alguno de ellos, que no integrará (sic) sala, sino en los casos expresamente establecidos en la propia ley.
 
-El Presidente será elegido por el pleno del Tribunal cada tres años en la primera semana del mes de diciembre, pudiendo ser reelegido una sola vez y, en sus faltas temporales no mayores de treinta días, será sustituido por el magistrado que él designe; pero si excediere de ese término, la designación del magistrado presidente interino la hará el pleno del Tribunal.
+La Presidenta o el Presidente será elegido por el pleno del Tribunal cada tres años en la primera semana del mes de diciembre, pudiendo ser reelegido una sola vez y, en sus faltas temporales no mayores de treinta días, será sustituido por la magistrada o el magistrado que designe; pero si excediere de ese término, la designación de quien se desempeñe interinamente en la presidencia la hará el pleno del Tribunal.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 2009)</small>
+El Tribunal Superior de Justicia funcionará en Pleno y en Salas, de conformidad con lo dispuesto en la Ley. El Pleno se integrará por la Presidenta o el Presidente del Tribunal Superior de Justicia, quien lo presidirá, y por quienes presidan cada una de sus Salas, a excepción de la Sala de Responsabilidad Juvenil.
 
-El Tribunal Superior de Justicia funcionará en Pleno y en Salas, de conformidad con lo dispuesto en la Ley. El Pleno se integrará por el Presidente del Tribunal Superior de Justicia, quien lo presidirá, y por los presidentes de cada una de sus Salas, a excepción de la Sala de Responsabilidad Juvenil, las que resolverán en última instancia los asuntos de su competencia.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2020)</small>
 
 ###### Artículo 58.
 
-Para ser magistrado del Poder Judicial se requiere:
+Para ser magistrada o magistrado se requiere:
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
 
-I. Ser veracruzano y haber residido en la Entidad durante los dos años anteriores al día de la designación; o mexicano por nacimiento con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano, en pleno ejercicio de sus derechos;
+I. Ser veracruzana o veracruzano y haber residido en la Entidad durante los dos años anteriores al día de la designación; o mexicano por nacimiento con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano, en pleno ejercicio de sus derechos;
 
 > <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1623,9 +1673,13 @@ Conforme a esta Constitución y la ley, los Organismos Autónomos del Estado con
 
 Para efectos de que los Organismos Autónomos del Estado rindan cuentas sobre el estado que guarda su gestión, deberán presentar anualmente un informe de actividades a los Poderes Legislativo y Ejecutivo dentro de los primeros quince días del mes de diciembre, y sus titulares comparecer ante el Poder Legislativo en sesión pública en la última quincena del mes de enero, conforme al formato que establezca la Ley Orgánica del Poder Legislativo y su respectivo Reglamento. El Tribunal Estatal de Justicia Administrativa sólo estará obligado a presentar el informe de actividades.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, G.O. 11 DE MAYO DE 2020)</small>
 
-Estos Organismos desarrollarán las actividades estatales siguientes:
+En la designación de las personas titulares o de los órganos colegiados que forman parte de los Organismos Autónomos, se observará en lo conducente, el principio de paridad en los términos de la ley y su normatividad interna.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MAYO DE 2020)</small>
+
+Estos organismos desarrollarán las actividades Estatales siguientes:
 
 > <small>(REFORMADA, G.O. 9 DE ENERO DE 2015)</small>
 
@@ -1795,13 +1849,19 @@ Para ser titular del Órgano de Fiscalización Superior del Estado se requiere c
 
 IV. La garantía y tutela del derecho a la información de las personas, así como de acceso, rectificación, cancelación y oposición al tratamiento de sus datos personales, frente a los sujetos obligados, corresponde al Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, como organismo autónomo del Estado, de funcionamiento colegiado, y de naturaleza especializada en la difusión, capacitación y cultura de la transparencia, imparcial y con jurisdicción material en su ámbito de competencia; al efecto, el Instituto:
 
-1. Funcionará en Pleno y se integrará por tres Comisionados, quienes durarán en su encargo siete años. Para su nombramiento, el Congreso del Estado, previa realización de una amplia consulta a la sociedad, a propuesta de los grupos legislativos, con el voto de las dos terceras partes de los miembros presentes, nombrará al Comisionado que deba cubrir la vacante, siguiendo el proceso establecido en la ley. El nombramiento podrá ser objetado por el Gobernador del Estado en un plazo de diez días hábiles. Si el Gobernador no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado la persona nombrada por el Congreso del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MAYO DE 2020)</small>
+
+1. Funcionará en Pleno y se integrará por tres Comisionadas o Comisionados, quienes durarán en su encargo siete años. Para su nombramiento, el Congreso del Estado, previa realización de una amplia consulta a la sociedad, a propuesta de los grupos legislativos, con el voto de las dos terceras partes de los miembros presentes, nombrará a la Comisionada o al Comisionado que deba cubrir la vacante, siguiendo el proceso establecido en la ley. El nombramiento podrá ser objetado por el Gobernador del Estado en un plazo de diez días hábiles. Si el Gobernador no objetara el nombramiento dentro de dicho plazo, ocupará el cargo la persona nombrada por el Congreso del Estado.
 
 En caso de que el Gobernador del Estado objetara el nombramiento, el Congreso del Estado nombrará una nueva propuesta, en los términos del párrafo anterior, pero con una votación de las tres quintas partes de los miembros presentes. Si este segundo nombramiento fuera objetado, el Congreso del Estado, en los términos del párrafo anterior, con la votación de las tres quintas partes de los miembros presentes, designará al Comisionado que ocupará la vacante.
 
-El Congreso del Estado resolverá sobre las renuncias que presenten los Comisionados. En esos casos, así como en los de fallecimiento, ausencia, remoción, inhabilitación o cualquier otra circunstancia que le impida a un Comisionado concluir su encargo, el Congreso del Estado designará a quien lo sustituya, conforme a lo establecido en los párrafos precedentes, únicamente para concluir el período respectivo.
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
 
-Para ser Comisionado deberán satisfacerse los requisitos siguientes:
+El Congreso del Estado resolverá sobre las renuncias que presenten los Comisionados o Comisionadas. En esos casos, así como en los de fallecimiento, ausencia, remoción, inhabilitación o cualquier otra circunstancia que le impida a una Comisionada o un Comisionado concluir su encargo, el Congreso del Estado designará a quien lo sustituya, conforme a lo establecido en los párrafos precedentes, únicamente para concluir el período respectivo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MAYO DE 2020)</small>
+
+Para ser Comisionada o Comisionado deberán satisfacerse los requisitos siguientes:
 
 a) Ser ciudadano veracruzano con residencia efectiva en el Estado, cuando menos dos años anteriores al día de su designación, o mexicano por nacimiento, con vecindad mínima de cinco años en el Estado;
 
@@ -1927,15 +1987,13 @@ Derivado de este informe, podrá emitir recomendaciones no vinculantes a las aut
 
 ### CAPÍTULO I. DEL MUNICIPIO
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
 
 ###### Artículo 68.
 
-Cada municipio será gobernado por un Ayuntamiento de elección popular, libre, directa y secreta, integrado por un presidente, un síndico y los demás ediles que determine el Congreso, y no habrá autoridad intermedia entre éste y el Gobierno del Estado. Sólo los ayuntamientos, o en su caso, los concejos municipales, podrán ejercer las facultades que esta Constitución les confiere.
+Cada municipio será gobernado por un Ayuntamiento de elección popular, libre, directa y secreta, integrado por una presidenta o presidente, una síndica o síndico y los demás ediles que determine el Congreso, de conformidad con el principio de paridad de género y no habrá autoridad intermedia entre éste y el Gobierno del Estado. Sólo los ayuntamientos, o en su caso, los concejos municipales, podrán ejercer las facultades que esta Constitución les confiere.
 
-> <small>(REFORMADO, G.O. 1 DE ENERO DE 2019)</small>
-
-En la elección de los ayuntamientos, el partido político o la candidatura independiente que alcance mayor número de votos obtendrán la presidencia y la sindicatura. Las regidurías serán asignadas a cada partido y a la candidatura independiente, incluyendo a aquel que obtuvo la mayor votación, de acuerdo al principio de representación proporcional, en los términos que señale la legislación del Estado. Los agentes y subagentes municipales se elegirán de acuerdo a lo establecido por esta Constitución y la Ley Orgánica del Municipio Libre, la que señalará sus atribuciones y responsabilidades.
+En la elección de los ayuntamientos, el partido político o la candidatura independiente que alcance mayor número de votos obtendrán la presidencia y la sindicatura. Las regidurías serán asignadas a cada partido y a la candidatura independiente, incluyendo a aquel que obtuvo la mayor votación, de acuerdo con el principio de representación proporcional, en los términos que señale la legislación del Estado. Los agentes y subagentes municipales se elegirán de acuerdo con lo establecido por esta Constitución y la Ley Orgánica del Municipio Libre, la que señalará sus atribuciones y responsabilidades.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -2027,9 +2085,17 @@ XIII. Los procedimientos administrativos se ajustarán a los principios de igual
 
 XIV. Para dictar disposiciones que afecten al patrimonio inmobiliario municipal, o para celebrar actos o convenios que comprometan al municipio para un plazo mayor al período del ayuntamiento, se requiere el acuerdo de las dos terceras partes de los miembros del mismo;
 
-XV. La policía municipal preventiva estará bajo el mando del presidente municipal, en términos del reglamento correspondiente. Dicha policía acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público; y
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
 
-XVI. Convocar, en los términos que establezcan esta Constitución y la ley, a referendo o plebiscito, cuyos resultados serán obligatorios para las autoridades competentes.
+XV. La policía municipal preventiva estará bajo el mando del presidente municipal, en términos del reglamento correspondiente. Dicha policía acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
+
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
+
+XVI. Convocar, en los términos que establezcan esta Constitución y la ley, a referendo o plebiscito, cuyos resultados serán obligatorios para las autoridades competentes; y
+
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2020)</small>
+
+XVII. En los nombramientos o designaciones de las personas titulares de las dependencias, entidades y órganos de la Administración Pública Municipal, se observará el principio de paridad de género, con las formas y modalidades establecidas en la Ley.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -3720,3 +3786,17 @@ Primero. El presente Decreto iniciará su vigencia al día siguiente de su publi
 Segundo. Dentro de un plazo de noventa días naturales, contado a partir del inicio de la vigencia del presente Decreto, el Congreso del Estado realizará las adecuaciones derivadas del mismo a la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 311 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la en la (sic) Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Congreso del Estado deberá, en un plazo improrrogable de noventa días contado a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones legislativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución, en los términos del presente decreto.
+
+TERCERO. Los Ayuntamientos, en el ámbito de su competencia, deberán realizar las modificaciones correspondientes en su reglamentación, para la observancia del principio de paridad de género en los términos del presente Decreto.
+
+CUARTO. La observancia del principio de paridad de género a que se refiere el presente Decreto, será aplicable a quiénes tomen posesión de su encargo, a partir del proceso electoral Estatal o Municipal siguiente a la entrada en vigor del presente Decreto, según corresponda. Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación bajo el principio de paridad de género, habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan en los términos del presente Decreto, de conformidad con la Ley.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
