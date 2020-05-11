@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-la-universidad-tecnologica-del-mayab-13043
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-08-06"
-last_updated: "2018-08-06"
+last_updated: "2020-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL MAYAB DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MAYO DE 2020.
 
 Estatuto publicado en el Número 33,650 del Diario del Oficial del Estado de Yucatán, el lunes 6 de agosto de 2018.
 
@@ -53,11 +53,13 @@ Este estatuto orgánico tiene por objeto regular la organización y el funcionam
 
 Para efectos de este estatuto orgánico, se entenderá por universidad a la Universidad Tecnológica del Mayab y por decreto al Decreto 540/2012 que crea la Universidad Tecnológica del Mayab.
 
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 2020)</small>
+
 ###### Artículo 2.
 
-Naturaleza y objeto de la universidad
+Designación del titular de la unidad de transparencia
 
-La universidad, en términos de los artículos 1, párrafo primero, y 2 del decreto, es un organismo público descentralizado de la Administración Pública estatal, con personalidad jurídica y patrimonio propios, que tiene por objeto contribuir al fortalecimiento de la educación superior en el estado, mediante la impartición de estudios y la investigación científica y tecnológica, atendiendo al contexto y las necesidades del sector productivo, principalmente, de la entidad.
+El abogado general de la Universidad Tecnológica del Mayab fungirá como la Unidad de Transparencia de la Universidad Tecnológica del Mayab, y, consiguientemente, su titular contará con las atribuciones establecidas en el artículo 60 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán y las demás establecidas en las leyes general y estatal de transparencia y acceso a la información y otras disposiciones legales y normativas aplicables.
 
 ### Capítulo II. Atribuciones y organización de la universidad
 
@@ -103,11 +105,21 @@ f) Departamento de Servicios Escolares.
 
 #### Sección primera. Junta de gobierno
 
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 2020)</small>
+
 ###### Artículo 5.
 
-Atribuciones
+Integración
 
-La junta de gobierno tendrá las atribuciones establecidas en el artículo 6 del decreto y las demás que le confieran otras disposiciones legales y normativas aplicables.
+El comité estará integrado por:
+
+I. El abogado general, quien, en su carácter de titular de la unidad de transparencia de la Universidad Tecnológica del Mayab, será el presidente.
+
+II. El director de Administración y Finanzas.
+
+III. El director de Vinculación.
+
+El comité contará con un secretario técnico, quien será nombrado por el presidente y participará en las sesiones únicamente con derecho a voz.
 
 ###### Artículo 6.
 
@@ -668,3 +680,13 @@ ATENTAMENTE
 M.M.E. REMIGIO ANTONIO CARVAJAL AVILA
 
 RECTOR DE LA UT DEL MAYAB
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 11 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO UT DEL MAYAB 1/2020 POR EL QUE SE MODIFICA EL ACUERDO UT DEL MAYAB 01/2016 POR EL QUE SE DESIGNA A LA UNIDAD DE TRANSPARENCIA Y SE REGULA EL COMITÉ DE TRANSPARENCIA DE LA UNIVERSIDAD TECNOLÓGICA DEL MAYAB”.]
+
+Único. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
