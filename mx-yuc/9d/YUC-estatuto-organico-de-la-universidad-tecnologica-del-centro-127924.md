@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-la-universidad-tecnologica-del-centro-1279
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-03-05"
-last_updated: "2018-03-05"
+last_updated: "2020-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL CENTRO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MAYO DE 2020.
 
-Estatuto publicado en el Número 33,548 del Diario Oficial del Estado de Yucatán, el lunes 5 de marzo de 2018.
+Estatuto publicado en el Diario Oficial del Estado de Yucatán, el lunes 5 de marzo de 2018.
 
 Acuerdo UTC 02/2017 por el que se expide el Estatuto orgánico de la Universidad Tecnológica del Centro
 
@@ -53,11 +53,13 @@ Este estatuto orgánico tiene por objeto regular la organización y el funcionam
 
 Para efectos de este estatuto orgánico, se entenderá por universidad a la Universidad Tecnológica del Centro, y por decreto al Decreto 434/2011 que crea la Universidad Tecnológica del Centro.
 
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 2020)</small>
+
 ###### Artículo 2.
 
 Naturaleza y objeto de la universidad
 
-La universidad, en términos de los artículos 1 y 2, fracciones I y II del decreto, es un organismo público descentralizado de la Administración Pública estatal, con personalidad jurídica y patrimonio propios que tiene como objeto, entre otros, ofrecer estudios en el nivel de técnico superior universitario, orientados a la aplicación de conocimientos y la solución creativa de problemas, con un sentido de innovación en la incorporación de los avances científicos y tecnológicos, así como estudios en el nivel de licencia profesional, cuyos planes educativos se caractericen por su involucramiento con el sector productivo, en sus fases de conceptuación, planeación, ejecución y evaluación, atendiendo de manera pertinente las necesidades específicas de este sector con la formación de profesionistas altamente especializados y dotados de las competencias que se requieren para coadyuvar al progreso económico y social de la región.
+La universidad, en términos de los artículos 1, párrafo primero, y 2, fracciones I y II del decreto, es un organismo público descentralizado del Gobierno del estado, con personalidad jurídica y patrimonio propios que tiene por objeto, ofrecer estudios en los niveles de técnico superior universitario y licenciatura, cuyos planes educativos se caracterizan por su inclusión en el sector productivo, en sus fases de conceptuación, planeación, ejecución y evaluación, atendiendo de manera pertinente las necesidades específicas de este sector con la formación de profesionistas altamente especializados y dotados de las competencias que se requieran para coadyuvar al progreso económico y social de la región, así como estudios en el nivel de licencia profesional, cuyos planes educativos se caractericen por su involucramiento con el sector productivo, en sus fases de conceptuación, planeación, ejecución y evaluación, atendiendo de manera pertinente las necesidades específicas de este sector con la formación de profesionistas altamente especializados y dotados de las competencias que se requieren para coadyuvar al progreso económico y social de la región.
 
 ### Capítulo II. Atribuciones y organización de la universidad
 
@@ -488,3 +490,17 @@ Aprobado por la Junta de Gobierno del (sic) de la Universidad Tecnológica del C
 M. EN C. REBECA EVANGELINA PENICHE SANGUINO.
 
 RECTORA DE LA UNIVERSIDAD TECNOLÓGICA DEL CENTRO.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO UTC 03/2019 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL CENTRO”.]
+
+D.O. 11 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO UTC 03/2019 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL CENTRO”.]
+
+Primero único (sic). Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El rector de la Universidad Tecnológica del Centro deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contados a partir de la entrada en vigor de este acuerdo.
