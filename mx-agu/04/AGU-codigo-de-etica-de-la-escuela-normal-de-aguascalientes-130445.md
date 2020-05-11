@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-de-la-escuela-normal-de-aguascalientes-130445"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-17"
-last_updated: "2018-09-17"
+last_updated: "2020-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DE LA ESCUELA NORMAL DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LA ESCUELA NORMAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 11 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA ESCUELA NORMAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2020 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de septiembre de 2018.
 
@@ -176,3 +178,21 @@ Suplente, de la LAE. Ma. Elena Díaz Reza, Comisario Público de la Escuela Norm
 Dra. Martha Isabel Andrade Zamarripa
 
 Representante del Sector Social
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DE LA ESCUELA NORMAL DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el Artículo Segundo Transitorio del "Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas", publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente Acuerdo, se abroga el Código de Ética de la Escuela Normal de Aguascalientes, Publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, Número 38, Tomo LXXXI de fecha lunes 17 de septiembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos aquellas disposiciones que se opongan a lo previsto en el presente acuerdo.
