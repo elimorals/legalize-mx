@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-atencion-y-combate-del-sobrepeso-y-11695
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-14"
-last_updated: "2016-10-14"
+last_updated: "2020-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y COMBATE DEL SOBREPESO Y LA OBESIDAD PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
 
 Ley publicada en la Segunda Sección al número 83 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 14 de octubre de 2016.
 
@@ -321,6 +321,12 @@ l. Podrán implementar programas de educación física optativos para los alumno
 
 Con la finalidad de dar cumplimiento a las disposiciones anteriores las escuelas podrán elaborar convenios de servicio social o prácticas profesionales con universidades que ofrezcan la especialidad de nutrición o educación física.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2020)</small>
+
+###### Artículo 16 Bis.
+
+El Estado y los Ayuntamientos promoverán que los entornos educativos y sus respectivas áreas de esparcimiento para niñas, niños y adolescentes estén libres de toda forma de promoción de alimentos ricos en grasas saturadas, ácidos grasos de tipo trans, azúcares libres o sal. Dichos entornos incluyen, sin carácter limitativo, escuelas, guarderías, centros de cuidado infantil, terrenos escolares, centros deportivos, recreativos y culturales.
+
 ###### Artículo 17.
 
 Para la prevención, atención y combate del sobrepeso y la obesidad se emprenderán en Dependencias del Gobierno del Estado y los Ayuntamientos las siguientes acciones:
@@ -434,3 +440,13 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 597.- SE ADICIONA EL ARTÍCULO 16 BIS A LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y COMBATE DEL SOBREPESO Y LA OBESIDAD PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
