@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2020-03-27"
+last_updated: "2020-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -199,7 +199,9 @@ VIII. Prostitución;
 
 IX. Reclusorios o Centros Penitenciarios;
 
-X. Baños públicos;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2020)</small>
+
+X. Baños y albercas públicos;
 
 XI. Centros de reunión y espectáculos;
 
@@ -753,9 +755,13 @@ IV. La detección temprana de la sordera y su tratamiento, en todos sus grados, 
 
 V. Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de menores en las escuelas públicas y privadas.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2020)</small>
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
-El derecho a la salud de los niños y las niñas en su primera infancia es una prioridad estatal, por lo tanto, los padres, madres, tutores o quienes ejerzan la patria potestad o guardia y custodia de los mismos, deberán acudir a las instituciones de salud pública o privada para que los menores de edad reciban todas sus vacunas.
+VI. La prevención de la preeclampsia y eclampsia. En el caso de la detección de estas enfermedades canalizar a la mujer a instituciones de salud especializadas para su oportuna atención y tratamiento.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2020)</small>
+
+El derecho a la protección de la salud de los niños y las niñas en su primera infancia es una prioridad estatal, por lo tanto, los padres, madres, tutores o quienes ejerzan la patria potestad o guardia y custodia de los mismos, deberán acudir de manera obligatoria a las instituciones de salud pública o privada para que los menores de edad reciban todas sus vacunas contra enfermedades transmisibles, prevenibles por ese medio de inmunización, que estime necesarias la Secretaría de Salud.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2020)</small>
 
@@ -2679,7 +2685,7 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 208 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas técnicas correspondientes.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO XI. BAÑOS Y ALBERCAS PÚBLICOS
 
 ###### Artículo 211.
 
@@ -2741,6 +2747,8 @@ Los reclusorios y Centros Penitenciarios deberán contar además de lo previsto 
 
 Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el tratamiento a juicio del personal médico de la Institución, previa autorización del director de la misma, el interno podrá ser trasladado a la unidad hospitalaria que él mismo determine; en cuyo caso se deberá hacer del conocimiento de las autoridades competentes. Las personas encargadas de los servicios médicos de los reclusorios y Centros Penitenciarios, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 108 de esta Ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2020)</small>
+
 ### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIA, SALONES DE BELLEZA, ESTETICAS Y OTROS SIMILARES
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
@@ -2748,6 +2756,14 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 ###### Artículo 222.
 
 Para los efectos de esta Ley, se entiende por baño público el establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso medicinal bajo la forma de baño y al que pueda concurrir el público. Quedan incluidos en la denominación de baños, los llamados de vapor y de aire caliente.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2020)</small>
+
+Se entiende por alberca pública, el estanque de agua artificialmente construido que facilite el nado, la recreación o el relajamiento y al que pueda concurrir el público.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2020)</small>
+
+En todo caso, las albercas públicas deberán cumplir con los requisitos previstos en la normatividad aplicable.
 
 ###### Artículo 223.
 
@@ -4022,3 +4038,25 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 598.- SE ADICIONA LA FRACCIÓN VI ARTÍCULO 56 DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 600.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 56 DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 601.- SE REFORMA LA FRACCIÓN X DEL INCISO B DEL ARTÍCULO 4°, SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO XI Y SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 222 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
