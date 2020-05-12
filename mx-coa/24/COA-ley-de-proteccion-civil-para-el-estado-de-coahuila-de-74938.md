@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2019-12-27"
+last_updated: "2020-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -570,6 +570,10 @@ k) Otros que por sus características y magnitud sean similares a los mencionado
 Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción XV del Artículo 13 de esta ley, compartan o estén ubicados dentro de una misma unidad de construcción, o concurran con alguno de los señalados en el presente artículo, la Subsecretaría será competente para realizar visitas de inspección a los mismos.
 
 Asimismo, la Subsecretaría será competente para inspeccionar a todos los establecimientos o edificaciones que se encuentren ubicados en un radio de quinientos metros a partir de las edificaciones a que se refiere el inciso e) de esta fracción.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2020)</small>
+
+l) Instalaciones donde se desarrollan de manera temporal, las actividades, cursos o campamentos de verano, independientemente que dichas instalaciones cuenten con el dictamen de seguridad y operación de otro giro.
 
 X. Auxiliar, previa solicitud de los ayuntamientos, en las acciones que realicen para la atención de emergencias y desastres;
 
@@ -1916,3 +1920,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 591.- SE ADICIONA EL INCISO L), A LA FRACCIÓN IX, DEL ARTÍCULO 12 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado; y
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
