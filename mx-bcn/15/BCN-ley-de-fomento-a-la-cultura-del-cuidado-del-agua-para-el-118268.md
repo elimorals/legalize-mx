@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-cultura-del-cuidado-del-agua-para-el-118268
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-19"
-last_updated: "2017-01-19"
+last_updated: "2020-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA CULTURA DEL CUIDADO DEL AGUA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 19 de enero de 2017.
 
@@ -65,17 +65,29 @@ VII.- Presidente Municipal: Los Presidentes Municipales de los Gobiernos Municip
 
 VIII.- Programa Estatal: El Programa Estatal de Fomento a la Cultura del Cuidado y Uso Racional del Agua;
 
-XIX (SIC).- Recomendación: Documento emitido por el Titular del Ejecutivo a través de la instancia que para tal efecto se instale, en el cual se establecerán los criterios y acciones a llevar a cabo, a fin de fomentar el uso racional y cuidado del agua;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2020)</small>
 
-X.- Titular del Ejecutivo: El Gobernador del Estado de Baja California; y
+IX.- Recomendación: Documento emitido por el Titular del Ejecutivo a través de la instancia que para tal efecto se instale, en el cual se establecerán los criterios y acciones a llevar a cabo, a fin de fomentar el uso racional y cuidado del agua;
 
-XI.- Uso racional del agua: Son las acciones, estrategias y hábitos encaminados al consumo eficiente del agua en el marco del desarrollo sostenible y respetando la normatividad vigente sobre el medio ambiente y recursos naturales renovables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2020)</small>
+
+X.- Secretaría: Secretaría para el Manejo, Saneamiento y Protección del Agua;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2020)</small>
+
+XI.- Titular del Ejecutivo: El Gobernador del Estado de Baja California; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2020)</small>
+
+XII.- Uso racional del agua: Son las acciones, estrategias y hábitos encaminados al consumo eficiente del agua en el marco del desarrollo sostenible y respetando la normatividad vigente sobre el medio ambiente y recursos naturales renovables.
 
 ### CAPÍTULO SEGUNDO. ATRIBUCIONES EN MATERIA DE USO RACIONAL Y CUIDADO DEL AGUA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 3.
 
-La Comisión, ejercerá las siguientes atribuciones:
+La Secretaría, ejercerá las siguientes atribuciones:
 
 I.- Diseñar, difundir y ejecutar el Programa Estatal de Fomento al Cuidado y Uso Racional del Agua, en conjunto con las Comisiones Estatales;
 
@@ -113,7 +125,9 @@ Las entidades públicas y privadas que se destaquen en su labor por el cuidado y
 
 Las entidades públicas implementarán medidas que fomenten el cuidado y el uso racional del agua, mediante la adquisición e instalación de equipos con materiales y tecnología que propicien el cuidado y uso racional del agua; asimismo, mantendrán periódicamente dichos equipos, así como de las instalaciones hidráulicas, equipamientos en baños e infraestructura de obras públicas para la identificación oportuna de fugas.
 
-Las entidades públicas tendrán la obligación de elaborar su Programa de Fomento de la Cultura del Cuidado del Agua, conteniendo las medidas específicas, metas e indicadores de resultados para el uso eficiente y ahorro de agua en todas sus instalaciones y actividades, mismo que presentarán de manera directa a la Comisión Estatal que lo registrará para su seguimiento y evaluación dentro del Programa Estatal.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2020)</small>
+
+Las entidades públicas tendrán la obligación de elaborar su Programa de Fomento de la Cultura del Cuidado del Agua, conteniendo las medidas específicas, metas e indicadores de resultados para el uso eficiente y ahorro de agua en todas sus instalaciones y actividades, mismo que presentarán de manera directa a la Secretaría que lo registrará para su seguimiento y evaluación dentro del Programa Estatal.
 
 ### CAPÍTULO TERCERO. EL CONSEJO CONSULTIVO PARA EL FOMENTO AL CUIDADO DEL AGUA EN EL ESTADO
 
@@ -139,21 +153,31 @@ VII.- Un representante del Consejo Estatal de Participación Social en la Educac
 
 El Titular del Ejecutivo realizará la designación de los representantes de los sectores a que se refieren las fracciones anteriores, previa emisión de convocatoria pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 8.
 
 Participarán en el Consejo como parte de las entidades públicas:
 
-I.- El Titular de la Comisión, quien fungirá como Presidente.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2020)</small>
+
+I.- El Titular de la Secretaría, quien fungirá como Presidente;
 
 II.- El Presidente de la Comisión de Energía y Recursos Hidráulicos del Poder Legislativo del Estado de Baja California;
 
 III.- Un representante por Municipio del Estado, designado por el Presidente Municipal correspondiente;
 
-IV.- El Titular de la Secretaría de Infraestructura y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2020)</small>
 
-V.- El Titular de la Secretaría de Protección al Ambiente;
+IV.- El Titular de la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
 
-VI.- El Titular de la Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2020)</small>
+
+V.- El Titular de la Secretaría de Economía Sustentable y Turismo;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2020)</small>
+
+VI.- El Titular de la Comisión;
 
 VII.- Los titulares de las Comisiones Estatales de Servicios Públicos; y
 
@@ -306,3 +330,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GOMEZ
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO SEGUNDO DEL “DECRETO No. 67 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 21 Y SE ADICIONA EL CAPÍTULO XIV DENOMINADO "DE LA SECRETARÍA PARA EL MANEJO, SANEAMIENTO Y PROTECCIÓN DEL AGUA" AL TÍTULO SEGUNDO, ASÍ COMO EL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
