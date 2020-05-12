@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-de-los-no-fumadores-en-el-estado-de-5601
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-01"
-last_updated: "2017-12-26"
+last_updated: "2020-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el viernes 1 de junio de 2007.
 
@@ -425,6 +425,12 @@ La publicidad de tabaco deberá sujetarse a lo dispuesto en la Ley General de Sa
 
 Queda prohibida la venta de tabaco en cualquiera de sus modalidades a menores de edad, en cualquier establecimiento comercial. Así mismo queda prohibida la instalación y funcionamiento de máquinas automáticas expendedoras de cigarros en los lugares antes mencionados.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2020)</small>
+
+###### Artículo 33 Bis.
+
+Se prohíbe el uso, comercio, venta, distribución, exhibición, así como la promoción o producción de cigarros electrónicos o cualquier objeto que no sea un producto del tabaco, que contenga alguno de los elementos de la marca o cualquier tipo de diseño o señal auditiva que lo identifique con productos del tabaco.
+
 ###### Artículo 34.
 
 Los integrantes de las asociaciones de padres de familia de las escuelas e institutos públicos y privados, podrán vigilar de manera individual o colectiva, que se cumpla con la prohibición de fumar en las aulas, bibliotecas, auditorios y demás instalaciones a las que deban acudir los alumnos y el personal docente de las respectivas instituciones educativas.
@@ -764,3 +770,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 12 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 595.- SE ADICIONA EL ARTÍCULO 33 BIS A LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
