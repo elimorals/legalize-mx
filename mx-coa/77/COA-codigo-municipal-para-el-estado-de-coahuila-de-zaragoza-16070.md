@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-03-20"
+last_updated: "2020-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -728,6 +728,10 @@ Las sesiones que celebre el ayuntamiento podrán ser ordinarias o extraordinaria
 ###### ARTÍCULO 90.
 
 En las sesiones ordinarias el ayuntamiento tratará los asuntos de su competencia y de su funcionamiento y celebrará el número de ellas que señale su reglamento interior pero no podrán ser menos de dos sesiones ordinarias públicas al mes.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2020)</small>
+
+La inobservancia del mínimo de sesiones por mes será sancionada en los términos de la Ley General de Responsabilidades Administrativas, excepto en aquellos casos en que las sesiones no se celebren por causa justificada.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
 
@@ -4978,3 +4982,9 @@ P.O. 20 DE MARZO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 590.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 90 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
