@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2020-03-20"
+last_updated: "2020-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -111,163 +111,167 @@ III.- Aguas de uso industrial: La utilización de agua nacional en fábricas o e
 
 IV.- Agua potable: La apta para alimentación, lavado y uso industrial. La apreciación de potabilización se efectuará mediante un examen organoléptico seguido de un análisis químico - bacteriológico. Dicho líquido deberá satisfacer las condiciones siguientes: sabor, insípido o, en su caso, agradable; aireación: aireada; limpidez: limpia; dureza: no debe cortar el jabón.
 
-V.- Asentamientos humanos: La radicación de un determinado conglomerado demográfico, con el conjunto de sistemas de convivencia en una área físicamente localizada, considerando dentro de la misma, los elementos naturales y la infraestructura.
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
 
-VI.- Atmósfera: La capa de aire que circunda la tierra y que está formada por una mezcla de 79% de nitrógeno, 20% de oxígeno y 1% de otros gases como el argón y el neón. Contiene además bióxido de carbón y vapor de agua. La densidad de aire disminuye conforme aumenta la altura y la atmósfera sin un límite fijo, pasa gradualmente al espacio interplanetario, aunque su límite se considera convencionalmente, a 20 000 metros de altitud.
+V.- Arborizar: Poblar de árboles con las especificaciones prevista (sic) en la Ley.
 
-VII.- Auditoría Ambiental: El examen metodológico de los procesos operativos de determinada industria, lo que involucra pruebas y confinación de procedimientos y prácticas que llevan a la verificación del cumplimiento de requerimientos legales, políticas internas y prácticas aceptadas con un informe de control, que además permite dictaminar la aplicación de medidas preventivas y/o correctivas.
+VI.- Asentamientos humanos: La radicación de un determinado conglomerado demográfico, con el conjunto de sistemas de convivencia en una área físicamente localizada, considerando dentro de la misma, los elementos naturales y la infraestructura.
 
-VIII.- Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinado.
+VII.- Atmósfera: La capa de aire que circunda la tierra y que está formada por una mezcla de 79% de nitrógeno, 20% de oxígeno y 1% de otros gases como el argón y el neón. Contiene además bióxido de carbón y vapor de agua. La densidad de aire disminuye conforme aumenta la altura y la atmósfera sin un límite fijo, pasa gradualmente al espacio interplanetario, aunque su límite se considera convencionalmente, a 20 000 metros de altitud.
 
-IX.- Areas naturales protegidas: Las zonas del territorio estatal y aquéllas sobre las que el estado ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que, en su caso requieran ser preservadas y restauradas y estén sujetas al régimen previsto en la presente ley.
+VIII.- Auditoría Ambiental: El examen metodológico de los procesos operativos de determinada industria, lo que involucra pruebas y confinación de procedimientos y prácticas que llevan a la verificación del cumplimiento de requerimientos legales, políticas internas y prácticas aceptadas con un informe de control, que además permite dictaminar la aplicación de medidas preventivas y/o correctivas.
 
-X.- Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de asimilación de contaminantes de los ecosistemas de los que forman parte dichos recursos, por períodos indefinidos.
+IX.- Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinado.
 
-XI.- Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres y acuáticos, y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas.
+X.- Areas naturales protegidas: Las zonas del territorio estatal y aquéllas sobre las que el estado ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que, en su caso requieran ser preservadas y restauradas y estén sujetas al régimen previsto en la presente ley.
 
-XII.- Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos.
+XI.- Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de asimilación de contaminantes de los ecosistemas de los que forman parte dichos recursos, por períodos indefinidos.
 
-XIII.- Calidad de vida: Nivel de bienestar que se alcanza en un ambiente ecológicamente adecuado, que satisface las necesidades naturales y emocionales del ser humano en cuanto a cantidad y calidad, proporcional a la diversidad y abundancia de seres vivos, especialmente los superiores, y que produce una salud integral armónica con la naturaleza.
+XII.- Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres y acuáticos, y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas.
 
-XIV.- Conservación: El conjunto de políticas y medidas orientadas a mantener la diversidad genética y la calidad de la vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen.
+XIII.- Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos.
 
-XV.- Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio o daño ecológico.
+XIV.- Calidad de vida: Nivel de bienestar que se alcanza en un ambiente ecológicamente adecuado, que satisface las necesidades naturales y emocionales del ser humano en cuanto a cantidad y calidad, proporcional a la diversidad y abundancia de seres vivos, especialmente los superiores, y que produce una salud integral armónica con la naturaleza.
 
-XVI.- Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas que, al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural o artificial, altere o modifique o dañe su composición y condición natural.
+XV.- Conservación: El conjunto de políticas y medidas orientadas a mantener la diversidad genética y la calidad de la vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen.
 
-XVII.- Contingencia ambiental: Situación de riesgo derivada de actividades humanas o fenómenos naturales, que pueden poner en peligro la integridad de uno o varios ecosistemas.
+XVI.- Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio o daño ecológico.
 
-XVIII.- Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento.
+XVII.- Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas que, al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural o artificial, altere o modifique o dañe su composición y condición natural.
 
-XIX.- Criterios ecológicos: Los lineamientos obligatorios contenidos en la presente ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental.
+XVIII.- Contingencia ambiental: Situación de riesgo derivada de actividades humanas o fenómenos naturales, que pueden poner en peligro la integridad de uno o varios ecosistemas.
 
-XX.- Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
+XIX.- Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento.
 
-XXI.- Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente entre sí, o con los elementos artificiales introducidos a consecuencia de las actividades humanas, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos.
+XX.- Criterios ecológicos: Los lineamientos obligatorios contenidos en la presente ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental.
 
-XXII.- (DEROGADA, P.O. 15 DE DICIEMBRE DE 2006)
+XXI.- Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
-XXIII.- Distrito de conservación: Unidad natural para el uso racional de la naturaleza, delimitada por parte aguas y sus salidas naturales, que permite la ordenación ecológica integral y congruente de las actividades económicas, de investigación y de uso y conservación de los ecosistemas, mediante la regulación adecuada de las actividades productivas, a fin de garantizar un rendimiento óptimo y sostenido de los recursos naturales; armónico con la protección del ambiente y la evolución y continuidad de los ciclos naturales que le dieron origen.
+XXII.- Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente entre sí, o con los elementos artificiales introducidos a consecuencia de las actividades humanas, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos.
 
-XXIV.- Ecología: El estudio de la estructura y funcionamiento de los ecosistemas y de la interrelación de los seres vivos entre sí y con su medio ambiente.
+XXIII.- (DEROGADA, P.O. 15 DE DICIEMBRE DE 2006)
 
-XXV.- Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de estos con el ambiente, en un espacio y tiempo determinados.
+XXIV.- Distrito de conservación: Unidad natural para el uso racional de la naturaleza, delimitada por parte aguas y sus salidas naturales, que permite la ordenación ecológica integral y congruente de las actividades económicas, de investigación y de uso y conservación de los ecosistemas, mediante la regulación adecuada de las actividades productivas, a fin de garantizar un rendimiento óptimo y sostenido de los recursos naturales; armónico con la protección del ambiente y la evolución y continuidad de los ciclos naturales que le dieron origen.
+
+XXV.- Ecología: El estudio de la estructura y funcionamiento de los ecosistemas y de la interrelación de los seres vivos entre sí y con su medio ambiente.
+
+XXVI.- Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de estos con el ambiente, en un espacio y tiempo determinados.
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-XXVI.- Educación ambiental: Proceso educativo tendiente a la formación de una conciencia crítica ante los problemas ambientales, en el que el individuo asimila los conceptos e interioriza las actitudes que le permitan evaluar las relaciones de interdependencia establecidas entre la sociedad y su medio natural considerando el ámbito educativo formal e informal y de la cultura ambiental que permita a la ciudadanía participar responsablemente en la atención y solución de los problemas ambientales, para contribuir al tránsito hacia el desarrollo sostenible en el Estado;
+XXVII.- Educación ambiental: Proceso educativo tendiente a la formación de una conciencia crítica ante los problemas ambientales, en el que el individuo asimila los conceptos e interioriza las actitudes que le permitan evaluar las relaciones de interdependencia establecidas entre la sociedad y su medio natural considerando el ámbito educativo formal e informal y de la cultura ambiental que permita a la ciudadanía participar responsablemente en la atención y solución de los problemas ambientales, para contribuir al tránsito hacia el desarrollo sostenible en el Estado;
 
-XXVII.- Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos.
+XXVIII.- Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos.
 
-XXVIII.- Equipo de control: Cualquier aditamento o dispositivo que prevenga o reduzca emisiones contaminantes.
+XXIX.- Equipo de control: Cualquier aditamento o dispositivo que prevenga o reduzca emisiones contaminantes.
 
-XXIX.- Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin la inducción del hombre.
+XXX.- Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin la inducción del hombre.
 
-XXX.- Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, ponen en peligro a uno o varios ecosistemas.
+XXXI.- Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, ponen en peligro a uno o varios ecosistemas.
 
-XXXI.- Emisión: Descarga directa e indirecta a la atmósfera de energía, o de sustancias o materiales en cualesquiera de sus estados físicos.
+XXXII.- Emisión: Descarga directa e indirecta a la atmósfera de energía, o de sustancias o materiales en cualesquiera de sus estados físicos.
 
-XXXII.- Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación.
+XXXIII.- Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación.
 
-XXXIII.- Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre.
+XXXIV.- Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre.
 
-XXXIV.- Fuente fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera.
+XXXV.- Fuente fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera.
 
-XXXV.- Fuente móvil: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera, al agua y al suelo que no tienen un lugar fijo.
+XXXVI.- Fuente móvil: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera, al agua y al suelo que no tienen un lugar fijo.
 
-XXXVI.- Impacto ambiental: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza.
+XXXVII.- Impacto ambiental: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza.
 
-XXXVII.- Jales: Los residuos generados en las operaciones primarias de separación y concentración de minerales. Término mexicano que se aplica a los depósitos de materiales residuales que resultan del procedimiento de minerales útiles. Se trata de acumulación por la acción del hombre, que llegan a ocupar superficies de varios kilómetros cuadrados y alturas de diez o más metros.
+XXXVIII.- Jales: Los residuos generados en las operaciones primarias de separación y concentración de minerales. Término mexicano que se aplica a los depósitos de materiales residuales que resultan del procedimiento de minerales útiles. Se trata de acumulación por la acción del hombre, que llegan a ocupar superficies de varios kilómetros cuadrados y alturas de diez o más metros.
 
-XXXVIII.- LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+XXXIX.- LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
-XXXIX.- Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
+XL.- Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
 
-XL.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia.
+XLI.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia.
 
-XLI.- Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas.
+XLII.- Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas.
 
-XLII.- Ordenamiento Ecológico: El instrumento de política ambiental que tiene por objeto regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
+XLIII.- Ordenamiento Ecológico: El instrumento de política ambiental que tiene por objeto regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
 
-XLIII.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
+XLIV.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
 
-XLIV.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente.
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
-
-XLV.- Procuraduría.- Procuraduría de Protección al Ambiente del Estado de Coahuila.
+XLV.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-XLVI.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
+XLVI.- Procuraduría.- Procuraduría de Protección al Ambiente del Estado de Coahuila.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-XLVII.- Reciclaje: El proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad y se convierten en materia prima para nuevos productos.
+XLVII.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-XLVIII.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano y para el ambiente.
+XLVIII.- Reciclaje: El proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad y se convierten en materia prima para nuevos productos.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-XLIX.- Recursos genéticos: El material genético de valor real o potencial.
+XLIX.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano y para el ambiente.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
+
+L.- Recursos genéticos: El material genético de valor real o potencial.
 
 (REFORMADA, P.O. 19 DE DICIEMBRE DE 2014) (F. DE E., P.O. 24 DE MARZO DE 2015)
 
-L.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
+LI.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LI.- Región Ecológica: La unidad del territorio estatal que comparte características ecológicas comunes.
+LII.- Región Ecológica: La unidad del territorio estatal que comparte características ecológicas comunes.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LII.- Registro: El registro que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias determinadas por la Secretaría, información que posteriormente se integrará el (sic) Sistema administrativo por la Autoridad Federal.
+LIII.- Registro: El registro que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias determinadas por la Secretaría, información que posteriormente se integrará el (sic) Sistema administrativo por la Autoridad Federal.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LIII.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
+LIV.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LIV.- Residuos sólidos: Sobrantes sólidos de procesos domésticos, industriales o agrícolas.
+LV.- Residuos sólidos: Sobrantes sólidos de procesos domésticos, industriales o agrícolas.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LV.- Residuos sólidos municipales: Residuos sólidos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala no considerados como peligrosos, conforme a la normatividad ambiental vigente.
+LVI.- Residuos sólidos municipales: Residuos sólidos que resultan de las actividades domésticas, comerciales y de servicios en pequeña escala no considerados como peligrosos, conforme a la normatividad ambiental vigente.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LVI.- Residuo sólido no peligroso: Todo aquel que no resulte peligroso de acuerdo con los listados que para tal efecto expida la Secretaría de Medio Ambiente y Recursos Naturales.
+LVII.- Residuo sólido no peligroso: Todo aquel que no resulte peligroso de acuerdo con los listados que para tal efecto expida la Secretaría de Medio Ambiente y Recursos Naturales.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LVII.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
+LVIII.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LVIII.- Reuso: La utilización de todos los residuos o desechos sólidos, líquidos o gaseosos que puedan ser utilizados nuevamente, ya sea en su estado actual o por medio de transformaciones físicas, químicas, mecánicas o biológicas.
+LIX.- Reuso: La utilización de todos los residuos o desechos sólidos, líquidos o gaseosos que puedan ser utilizados nuevamente, ya sea en su estado actual o por medio de transformaciones físicas, químicas, mecánicas o biológicas.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-LIX.- Secretaría: La Secretaría de Medio Ambiente y Desarrollo Urbano; y
+LX.- Secretaría: La Secretaría de Medio Ambiente y Desarrollo Urbano; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-LX.- Vocación Natural: Las Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+LXI.- Vocación Natural: Las Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
 > <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
 
-LXI.- Biodegradable (s): Calificativo para productos hechos a base de sustancias (macromoléculas o polímeros) susceptibles a degradación por actividad biológica. Se entiende por degradación a la pérdida progresiva de las características ya sean físicas y/o químicas de una sustancia, el proceso de biodegradación depende de la cantidad de oxígeno, el grado de humedad y de la temperatura, y puede ser descompuesto por microorganismos.
+LXII.- Biodegradable (s): Calificativo para productos hechos a base de sustancias (macromoléculas o polímeros) susceptibles a degradación por actividad biológica. Se entiende por degradación a la pérdida progresiva de las características ya sean físicas y/o químicas de una sustancia, el proceso de biodegradación depende de la cantidad de oxígeno, el grado de humedad y de la temperatura, y puede ser descompuesto por microorganismos.
 
 > <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
 
-LXII.- Bolsa plástico desechable: Tipo de empaque fabricado con derivados del petróleo y el cual es distribuido por establecimientos comerciales para el acarreo, carga, envoltura o empaque de productos de los consumidores.
+LXIII.- Bolsa plástico desechable: Tipo de empaque fabricado con derivados del petróleo y el cual es distribuido por establecimientos comerciales para el acarreo, carga, envoltura o empaque de productos de los consumidores.
 
 > <small>(ADICIONADA, P.O. 15 DE ENERO DE 2019)</small>
 
-LXIII.- Bolsa reutilizable: Tipo de empaque que por el material del que está fabricado, tiene como fin ser usado más de cinco veces, pude (sic) ser de fibra natural o sintética.
+LXIV.- Bolsa reutilizable: Tipo de empaque que por el material del que está fabricado, tiene como fin ser usado más de cinco veces, pude (sic) ser de fibra natural o sintética.
 
 ###### ARTICULO 4º.
 
@@ -611,7 +615,11 @@ XXV.- Establecer y aplicar las medidas correctivas e imponer las sanciones corre
 
 XXVI.- Expedir los programas municipales de sustitución de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos, de conformidad con esta ley y las reglas establecidas en el Programa Estatal para la Prevención y Gestión Integral de Residuos para el Estado de Coahuila de Zaragoza y la norma técnica ecológica ambiental de la materia;
 
-XXVII.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente determine esta ley u otros ordenamientos aplicables.
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
+XXVII.- Expedir el plan de arborización del municipio.
+
+XXVIII.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente determine esta ley u otros ordenamientos aplicables.
 
 #### SECCION II. De la Coordinación de Competencias entre el Estado y los Municipios
 
@@ -840,6 +848,10 @@ VIII.- Los desequilibrios existentes y las tendencias de alteración que muestre
 IX.- El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ecológicas y ambientales, estableciendo densidades de población máxima, espacios abiertos necesarios y extensión máxima de áreas verdes; en los términos previstos en la Ley de Asentamientos Humanos y Desarrollo Urbano del Estado de Coahuila de Zaragoza; y
 
 X.- El impacto ambiental de nuevos asentamientos humanos, obras o actividades, así como también el que acusen a la fecha cada uno de los ecosistemas comprendidos en el municipio.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2020)</small>
+
+XI.- El plan de arborización municipal, atendiendo las características particulares de cada municipio y tomando en consideración las condiciones del suelo, el sitio o lugar adecuado para arborizar, condiciones climáticas, de equipamiento urbano, la selección de la especie, la calidad del árbol, el medio para transportarlas, las técnicas de plantación particulares y los procedimientos para implementar los cuidados posteriores.
 
 ###### ARTICULO 26.
 
@@ -3304,3 +3316,11 @@ P.O. 20 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor 365 días después de su publicación en el Periódico Oficial del Estado, con objeto de que las entidades sujetas a esta disposición cuenten con el mismo número de días para implementar el sistema en cuestión.
+
+P.O. 12 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 596.- SE ADICIONAN LA FRACCIÓN V DEL ARTÍCULO 3°, RECORRIÉNDOSE LAS FRACCIONES SUBSECUENTES; LA FRACCIÓN XXVII DEL ARTÍCULO 11, RECORRIÉNDOSE LA FRACCIÓN SUBSECUENTE; Y LA FRACCIÓN XI DEL ARTÍCULO 25, DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Las presentes adiciones de la fracción V del artículo 3°, la fracción XXVII del artículo 11 y la fracción XI del artículo 25, de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Coahuila de Zaragoza, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Ayuntamientos deberán actualizar, dentro de un periodo máximo de 120 días naturales a partir de la entrada en vigor del presente Decreto, el Programa de Ordenamiento Ecológico municipal con el fin de incluir el plan de arborización municipal.
