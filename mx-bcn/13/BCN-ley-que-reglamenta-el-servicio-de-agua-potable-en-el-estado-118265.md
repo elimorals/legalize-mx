@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-19"
-last_updated: "2020-03-20"
+last_updated: "2020-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 19 de enero de 2017.
 
@@ -787,9 +787,11 @@ En materia de prescripción y cancelación de créditos, se estará a lo dispues
 
 DEL TRATAMIENTO DE AGUAS RESIDUALES Y SU REÚSO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 109.
 
-Corresponde a los Organismos encargados del servicio:
+Corresponde a la Secretaría para el Manejo, Saneamiento y Protección del Agua en coordinación con los Organismos encargados del servicio:
 
 I.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas vigentes para regular las descargas de aguas residuales en los sistemas de drenaje y alcantarillado en el Estado, y en su caso, aplicar las sanciones establecidas en esta Ley en los siguientes supuestos:
 
@@ -841,13 +843,17 @@ Cuando los usuarios no domésticos contravengan lo dispuesto en el artículo ant
 
 En los sistemas de tratamiento de aguas residuales particulares, invariablemente se deberán considerar y realizar los proyectos para el manejo y disposición final de lodos, en los términos de las disposiciones respectivas. Asimismo, se deberán construir las trampas de sólidos y las desnatadoras de grasas que se requieran para cumplir con las condiciones especiales de descarga que determine el Organismo prestador del servicio.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 116.
 
-Los Organismos encargados del servicio, promoverán el ahorro y el uso eficiente del agua potable, así como el reúso de las aguas residuales procedentes de las plantas de tratamiento si su calidad así lo permite de acuerdo con la normatividad aplicable.
+La Secretaría para el Manejo, Saneamiento y Protección del Agua en coordinación con los Organismos encargados del servicio, promoverán el ahorro y el uso eficiente del agua potable, así como el reúso de las aguas residuales procedentes de las plantas de tratamiento si su calidad así lo permite de acuerdo con la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 117.
 
-Los Organismos encargados del servicio vigilarán que el reúso de las aguas se ajuste a los términos establecidos en las Normas Oficiales Mexicanas, las normas ambientales del Estado y demás disposiciones que resulten aplicables.
+La Secretaría para el Manejo, Saneamiento y Protección del Agua en coordinación con los Organismos encargados del servicio vigilarán que el reúso de las aguas se ajuste a los términos establecidos en las Normas Oficiales Mexicanas, las normas ambientales del Estado y demás disposiciones que resulten aplicables.
 
 ###### ARTICULO 118.
 
@@ -926,3 +932,9 @@ P.O. 20 DE MARZO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procedimientos administrativos de reducción de suministro de agua, que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán substanciados por la autoridad y términos bajo los cuales fueron iniciados.
+
+P.O. 12 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO CUARTO DEL "DECRETO No. 67 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 21 Y SE ADICIONA EL CAPÍTULO XIV DENOMINADO "DE LA SECRETARÍA PARA EL MANEJO, SANEAMIENTO Y PROTECCIÓN DEL AGUA" AL TÍTULO SEGUNDO, ASÍ COMO EL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
