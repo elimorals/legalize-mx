@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-las-comisiones-estatales-de-servicios-publicos-del-11826
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-19"
-last_updated: "2020-03-20"
+last_updated: "2020-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
 
 Ley publicada en el Número Especial al 4 del Periódico Oficial del Estado de Baja California, el jueves 19 de enero de 2017.
 
@@ -75,29 +75,47 @@ II.- Los bienes y derechos que el Estado les asigne y los que adquieran por cual
 
 Cada una de las Comisiones Estatales de Servicios Públicos de Mexicali, Tijuana, Tecate y Ensenada, será administrada por un Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 5.
 
-Los Consejos de Administración de las Comisiones de Mexicali, Tijuana, Tecate y Ensenada, se integran con siete consejeros, los que serán:
+Los Consejos de Administración de las Comisiones de Mexicali, Tijuana, Tecate y Ensenada, se integran con ocho consejeros, los que serán:
 
 I.- El Gobernador del Estado;
 
-II.- El Secretario de Infraestructura y Desarrollo Urbano;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2020)</small>
 
-III.- El Secretario de Planeación y Finanzas;
+II.- El Secretario para el Manejo, Saneamiento y Protección del Agua;
 
-IV.- Un representante ciudadano, que será seleccionado por el Gobernador del Estado de la terna que proponga el Cabildo del Municipio correspondiente;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2020)</small>
 
-V.- Dos representantes de la Iniciativa Privada, que serán seleccionados por el Gobernador del Estado de las ternas que proponga la Cámara de Comercio y la Delegación de la Cámara Nacional de la Industria de Transformación del Municipio correspondiente, y
+III.- El Secretario de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
 
-VI.- El Presidente Municipal respectivo.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2020)</small>
+
+IV.- El Secretario de Hacienda;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2020)</small>
+
+V.- Un representante ciudadano, que será seleccionado por el Gobernador del Estado de la terna que proponga el Cabildo del Municipio correspondiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2020)</small>
+
+VI.- Dos representantes de la Iniciativa Privada, que serán seleccionados por el Gobernador del Estado de las ternas que proponga la Cámara de Comercio y la Delegación de la Cámara Nacional de la Industria de Transformación del Municipio correspondiente, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE MAYO DE 2020)</small>
+
+VII.- El Presidente Municipal respectivo.
 
 ###### ARTÍCULO 6.
 
 En caso de que las agrupaciones a que se refiere el artículo 5 fracción V, omitan hacer las proposiciones de los representantes de la iniciativa privada, el Gobernador del Estado hará libremente las designaciones de dichos representantes.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 7.
 
-El Gobernador del Estado será el Presidente del Consejo y en sus ausencias temporales designará a la persona que lo sustituya. Por cada uno de los Consejeros restantes, el Gobernador del Estado designará un suplente.
+El Gobernador del Estado será el Presidente del Consejo y en sus ausencias temporales será sustituido por el titular de la Secretaría para el Manejo, Saneamiento y Protección del Agua. Por cada uno de los Consejeros restantes, el Gobernador del Estado designará un suplente.
 
 ###### ARTÍCULO 8.
 
@@ -272,3 +290,11 @@ P.O. 20 DE MARZO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las Comisiones Estatales de Servicios Públicos dentro de los 90 días naturales contados a partir de la entrada en vigor de la presente reforma, deberán realizar las modificaciones a los reglamentos que correspondan.
+
+P.O. 12 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO TERCERO DEL "DECRETO No. 67 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 21 Y SE ADICIONA EL CAPÍTULO XIV DENOMINADO "DE LA SECRETARÍA PARA EL MANEJO, SANEAMIENTO Y PROTECCIÓN DEL AGUA" AL TÍTULO SEGUNDO, ASÍ COMO EL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Cada Comisión Estatal de Servicios Públicos deberá presentar al Ejecutivo Estatal las reformas a sus Reglamento Internos en apego a la presente reforma, para su aprobación y publicación.
