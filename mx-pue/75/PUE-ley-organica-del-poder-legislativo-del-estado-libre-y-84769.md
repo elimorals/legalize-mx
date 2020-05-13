@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2019-09-30"
+last_updated: "2020-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2020.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -123,9 +123,9 @@ XX.- Punto de Acuerdo: La determinación institucional que el Congreso asume res
 
 XXI.- Quórum: El número de Diputados requerido para que los Órganos Legislativos puedan iniciar y desarrollar sus sesiones;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2020)</small>
 
-XXII.- Sesión: La reunión formal de los Órganos Legislativos para desahogar el orden del día;
+XXII.- Sesión: La reunión formal presencial o virtual, a través del uso de las tecnologías de la información y la comunicación, del Pleno o de los Órganos Legislativos, para desahogar el orden del día;
 
 > <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
 
@@ -277,11 +277,33 @@ El Congreso del Estado funciona en Pleno y para el conocimiento, análisis y res
 
 El edificio donde se asienta el Congreso del Estado, se denomina Palacio del Poder Legislativo. La residencia del Congreso del Estado es la Heroica Ciudad de Puebla de Zaragoza o alguno de los municipios conurbados de la misma, conforme a lo dispuesto en el artículo 6 de la Constitución Política del Estado Libre y Soberano de Puebla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 22.
 
-El Congreso del Estado celebrará sus sesiones en el Palacio del Poder Legislativo y únicamente podrá sesionar fuera de éste, por causas de fuerza mayor o caso fortuito que impidan ejercer sus funciones y facultades al interior del mismo y por otra causa especial y justificada. El traslado de sesiones que se realice por causas de fuerza mayor o caso fortuito, será ordenado por la Mesa Directiva y notificado a los integrantes del Pleno.
+El Congreso del Estado y sus órganos legislativos sesionarán en el recinto oficial del Poder Legislativo y únicamente podrán sesionar fuera de éste, por casos fortuitos o de fuerza mayor que impidan el ejercicio de sus funciones y facultades al interior del mismo, o por otra causa especial y justificada.
 
-En el supuesto de que el traslado de las sesiones sea por causas especiales y justificadas, se realizará a propuesta del Presidente de la Mesa Directiva y será aprobado por mayoría calificada de los Diputados.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2020)</small>
+
+El traslado de sesiones que se realice por causas de fuerza mayor o caso fortuito, será ordenado por la Mesa Directiva y notificado a los integrantes del Pleno.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE MAYO DE 2020)</small>
+
+En el supuesto de que el traslado de las sesiones sea por causas especiales o justificadas, se realizará a propuesta del Presidente de la Mesa Directiva y será aprobado por mayoría simple de los Diputados.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 13 DE MAYO DE 2020)</small>
+
+Se realizarán las sesiones de Pleno y demás Órganos Legislativos del Congreso del Estado de forma virtual, a través del uso de las tecnologías de la información y de la comunicación, en los siguientes casos de excepción:
+
+I.- Emergencia sanitaria declarada como tal por la autoridad competente;
+
+II.- Desastre ocasionado por algún fenómeno natural, declarado previamente por la autoridad competente; y
+
+III.- Por causas de fuerza mayor plenamente justificados, previa calificación de la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2020)</small>
+
+La Mesa Directiva, mediante la emisión del acuerdo respectivo, acreditará la materialización de la causal que motive la adopción de la modalidad virtual.
 
 ###### ARTÍCULO 23.
 
@@ -799,7 +821,9 @@ V.- Llamar a los Diputados suplentes respectivos;
 
 VI.- Realizar la interpretación de las normas de la presente Ley y de los demás ordenamientos relativos a la actividad legislativa que se requiera para el cumplimiento de sus atribuciones; así como para la adecuada conducción de las sesiones;
 
-VII.- Instruir la habilitación de recintos distintos a los declarados oficiales para que la Legislatura sesione;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2020)</small>
+
+VII.- Instruir la habilitación de recintos distintos a los declarados oficiales para que la Legislatura sesione o, en su caso, las medidas para garantizar el desarrollo de las sesiones virtuales;
 
 VIII.- Turnar a los Órganos Legislativos los asuntos de su competencia a efecto de iniciar el trámite que corresponda;
 
@@ -949,9 +973,11 @@ La Comisión Permanente se integra por nueve Diputados, cuyos integrantes serán
 
 El nombramiento de la Comisión Permanente correspondiente al último periodo de sesiones del tercer año de ejercicio legal, se comunicará al Consejo General del Instituto Electoral del Estado y al Tribunal Electoral del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 81.
 
-La Comisión Permanente se instalará una vez concluido el periodo ordinario correspondiente. Para la validez de las sesiones se requiere la presencia de cuando menos cinco Diputados y adoptará sus resoluciones por la mayoría de votos de sus miembros presentes.
+La Comisión Permanente se instalará una vez concluido el periodo ordinario correspondiente. Para la validez de las sesiones se requiere la asistencia física o virtual, según corresponda, de cuando menos cinco Diputados y adoptará sus resoluciones por la mayoría de votos de sus miembros presentes.
 
 La Comisión Permanente durará en el ejercicio de su cargo el tiempo comprendido entre la clausura de un periodo ordinario de sesiones y la apertura del siguiente.
 
@@ -1259,7 +1285,9 @@ Las Comisiones se encuentran facultadas para:
 
 I.- Aprobar el orden del día y las actas de las sesiones;
 
-II.- Acordar la realización de sesiones en lugar distinto al recinto oficial;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2020)</small>
+
+II.- Acordar la realización de sesiones en lugar distinto al recinto oficial o en forma virtual;
 
 III.- Examinar, instruir y poner en estado de resolución los asuntos que les sean turnados para su estudio y emitir en su caso los dictámenes, propuestas, recomendaciones e informes que resulten de sus actuaciones;
 
@@ -1789,11 +1817,11 @@ El Pleno a solicitud verbal de cualquier Diputado y por mayoría de los presente
 
 El orden del día de las sesiones del Pleno se publicará en la Gaceta Legislativa.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 163.
 
-Las Sesiones del Pleno requerirán, para su validez, la conducción del Presidente de la Mesa Directiva, de los Vicepresidentes y de los Secretarios, así como la presencia de la mayoría de los integrantes de la Legislatura.
+Las Sesiones del Pleno requerirán, para su validez, la conducción del Titular de la presidencia de la Mesa Directiva, de las y los Vicepresidentes y de las y los Secretarios, así como la asistencia presencial o virtual, según sea el caso, de la mayoría de las y los integrantes de la Legislatura.
 
 ###### ARTÍCULO 164.
 
@@ -2884,3 +2912,13 @@ CUARTO. Todos los actos suscritos por la Comisión de Asuntos Indígenas y/o su 
 QUINTO. Todo instrumento jurídico, que a la entrada en vigor del presente Decreto, se refiera a la Comisión de Asuntos Indígenas, se entenderá realizada por la Comisión de Pueblos Indígenas conforme al presente Decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Una vez que entre en vigor el presente Decreto, el Honorable Congreso del Estado Libre y Soberano de Puebla, deberá actualizar el Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, en un lapso que no exceda de treinta días naturales.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
