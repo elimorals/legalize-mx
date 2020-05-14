@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2019-10-22"
+last_updated: "2020-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -319,9 +319,9 @@ III. Promover la concurrencia y participación de los municipios en el cumplimie
 
 IV. Integrar la participación de los sectores público, social y privado, en el cumplimiento de los objetivos; estrategias y metas del Programa Estatal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2020)</small>
 
-V. Establecer, las reglas de operación de los programas sociales, las cuales deberán garantizar la transparencia en la aplicación de los recursos públicos, la simplificación de trámites y procedimientos; y mecanismos que garanticen que los programas sociales no serán usados con fines electorales o de promoción personal de los servidores públicos;
+V. Establecer, las reglas de operación de los programas sociales, las cuales deberán garantizar la transparencia en la aplicación de los recursos públicos, la simplificación de trámites y procedimientos; y mecanismos que garanticen que los programas sociales no serán usados con fines electorales o de promoción personal de los servidores públicos. En los municipios con más de noventa mil habitantes o que cuenten con servicios bancarios, en ningún caso, la entrega de recursos públicos de los programas sociales será en efectivo;
 
 VI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
@@ -926,3 +926,11 @@ P.O. 22 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0677.- SE REFORMA EL ARTÍCULO 12 EN SU FRACCIÓN V, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
