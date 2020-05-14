@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2020-01-23"
+last_updated: "2020-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -193,29 +193,49 @@ El Estado reconoce los mismos derechos a las comunidades que sean equiparables a
 
 Es responsabilidad del Congreso del Estado vigilar que todas las leyes o decretos de observancia obligatoria, sean publicadas en el Periódico Oficial del Estado en las lenguas propias de los pueblos indígenas de la Entidad para su aplicación y entrada en vigor.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 10.
 
-Todas las personas tienen el derecho de recibir educación. La educación que imparta el Estado en todos sus tipos y modalidades será gratuita. La educación preescolar, primaria, secundaria, y media superior, serán obligatorias.
+Todas las personas tienen el derecho de recibir educación. La educación que imparta y garantice el Estado en todos sus tipos y modalidades será gratuita. La educación inicial, preescolar, primaria, secundaria, y media superior, serán obligatorias; la educación superior lo será en los términos del párrafo penúltimo del presente artículo. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
+La educación que imparte el Estado será laica, obligatoria, universal, inclusiva, pública y gratuita; se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva, y tendrá por objeto el pleno desarrollo de todas las facultades del ser humano. Promoverá el amor a la patria y a sus símbolos; fomentará el respeto a los derechos humanos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional; fortalecerá la identidad estatal, y la conciencia en los valores de la independencia nacional, la libertad, la justicia, la democracia, la dignidad y la solidaridad social; promoverá la honestidad, los valores, y la mejora continua del proceso de enseñanza aprendizaje.
 
-La educación que imparte el Estado será laica y tendrá por objeto el pleno desarrollo de todas las facultades del ser humano. Promoverá el amor a la patria y a sus símbolos; fomentará el respeto a los derechos humanos; fortalecerá la identidad estatal y la conciencia en los valores de la independencia nacional, la libertad, la justicia, la democracia, la dignidad y la solidaridad social.
+El Estado priorizará el interés superior de niñas, niños, adolescentes, y jóvenes en el acceso, permanencia y participación en los servicios educativos.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
+La educación en el Estado estará regida por los criterios y lineamientos que la Constitución Política de los Estados Unidos Mexicanos establece en relación a la democracia, su carácter nacional, sus contenidos y las condiciones para la mejor convivencia humana, la dignidad de las personas, el respeto a los derechos humanos, así como la igualdad sustantiva, la integridad de la familia, y el interés general de la sociedad.
 
-La educación en el Estado estará regida por los criterios y lineamientos que la Constitución Política de los Estados Unidos Mexicanos establece en relación a la democracia, su carácter nacional, sus contenidos y las condiciones para la mejor convivencia humana, la dignidad de las personas, el respeto a los derechos humanos, la integridad de la familia y el interés general de la sociedad.
+Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la trasformación social. Tendrán derecho de acceder a un sistema integral de formación, de capacitación y de actualización, en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2014)</small>
+El Estado coadyuvará con la Federación, en la implementación del Sistema para la Carrera de las Maestras y los Maestros, en concordancia con sus facultades establecidas en la Constitución Política de los Estados Unidos Mexicanos, o en la legislación secundaria.
 
-El Estado, acorde a lo dispuesto por el artículo 3° de la Carta Magna Federal, garantizará la calidad en la educación obligatoria, ante todo buscará que los materiales y métodos educativos, la organización escolar, la infraestructura educativa, así como la idoneidad de los docentes y los directivos, garanticen el máximo logro de aprendizaje de los estudiantes.
+El Estado deberá fortalecer a las instituciones públicas de formación docente, de manera especial a las escuelas normales, en los términos que dispongan las leyes.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
+El Estado, acorde a lo dispuesto por el artículo 3º de la Carta Magna Federal, garantizará la excelencia en la educación obligatoria, ante todo buscará que los materiales y métodos educativos, la organización escolar, la infraestructura educativa, así como la idoneidad de los docentes y los directivos, garanticen el máximo logro de aprendizaje de los estudiantes.
 
-El Ejecutivo del Estado coadyuvará con la Federación en el establecimiento de los planes y programas de estudio de la educación preescolar, primaria, secundaria, media superior, y normal, considerando la opinión de los ayuntamientos y de los sectores sociales involucrados en la educación, en los términos de las leyes respectivas; asimismo, promoverá y apoyará la educación científica y tecnológica.
+El Ejecutivo del Estado coadyuvará con la Federación en el establecimiento de los planes y programas de estudio de la educación inicial, preescolar, primaria, secundaria, media superior, y normal, considerando la opinión de los ayuntamientos y de los sectores sociales involucrados en la educación, en los términos de las leyes respectivas; asimismo, promoverá y apoyará la educación científica y tecnológica.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2014)</small>
+Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza aprendizaje. El Estado garantizará que los materiales didácticos, la infraestructura educativa, su mantenimiento y las condiciones del entorno, sean idóneos y contribuyan a los fines de la educación.
+
+Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades; la enseñanza de las matemáticas; la lecto-escritura; la literacidad; la historia; la geografía; el civismo; la filosofía; la tecnología; la innovación; las lenguas indígenas de nuestro estado; las lenguas extrajeras; la educación física; el deporte; las artes, en especial la música; la promoción de estilos de vida saludables; la educación sexual y reproductiva; y el cuidado del medio ambiente, entre otras.
+
+La educación se orientará en los criterios que establece el artículo 3º de la Constitución Política Federal, poniendo especial énfasis en favorecer el pleno ejercicio de derecho a la educación de las personas y combatan las desigualdades socioeconómicas; la mejora de las condiciones de vida de las y los educandos, con énfasis en las de carácter alimentario; y educación para las personas adultas para ingresar a las instituciones en sus distintos tipos y modalidades.
+
+En los pueblos y comunidades indígenas se impartirá educación plurilingüe e intercultural basada en el respeto, promoción y preservación del patrimonio histórico y cultural.
+
+La educación que imparta el Estado será inclusiva y deberá tomar en cuenta las diversas capacidades, circunstancias y necesidades de los educandos. Con base en el principio de accesibilidad se realizarán ajustes razonables, y se implementarán medidas específicas con el objetivo de eliminar las barreras para el aprendizaje y la participación.
+
+La educación deberá ser de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, y el fortalecimiento de los lazos entre escuela y comunidad.
+
+Será intercultural, al promover la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social.
+
+Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar.
+
+Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado, en los términos de la legislación aplicable, apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella; además alentará el fortalecimiento y difusión de nuestra cultura.
+
+La autoridad educativa estatal coadyuvará con el Sistema Nacional de Mejora Continua de la Educación, en los términos de la legislación aplicable.
+
+La obligatoriedad de la educación superior corresponde al Estado. Las autoridades educativas, establecerán políticas para fomentar la inclusión, permanencia y continuidad. Así mismo, proporcionarán medios de acceso a este tipo educativo, para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
 
 Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará, y retirará, el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
 
@@ -407,7 +427,9 @@ III.- Contribuir para los gastos públicos del Estado y del Municipio en que res
 
 IV.- Inscribir a sus hijos en el Registro Civil dentro del plazo legal;
 
-V.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para obtener la educación primaria y secundaria obligatorias;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2020)</small>
+
+V.- Ser responsables de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir la educación obligatoria en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo;
 
 VI.- Asistir, cuando lo designe la autoridad competente del lugar donde residan, a recibir instrucción cívica, así como a realizar el servicio militar respectivo;
 
@@ -3408,3 +3430,13 @@ P.O. 23 DE ENERO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis.
 
 SEGUNDO. Se derogan todas las disposiciones que opongan al presente Decreto.
+
+P.O. 14 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0674.- SE REFORMA (SIC) LOS ARTÍCULOS 10 Y 19 EN SU FRACCIÓN V, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”, en observancia a lo dispuesto por el artículo 138 párrafo último, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. El Ejecutivo del Estado deberá destinar en el Presupuesto de Egresos para el Ejercicio Fiscal 2021, los recursos necesarios para el cumplimiento de las obligaciones establecidas en el presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
