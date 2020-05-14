@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2020-04-29"
+last_updated: "2020-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -885,6 +885,10 @@ Sesiones solemnes
 
 Serán solemnes, las sesiones en que se instale el Ayuntamiento, se rinda el informe de la administración pública municipal y aquéllas que acuerde el Ayuntamiento. Las sesiones solemnes no tendrán carácter deliberativo.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2020)</small>
+
+Por su naturaleza las sesiones solemnes no podrán celebrarse a distancia.
+
 Sesión privada
 
 ###### Artículo 67.
@@ -943,6 +947,14 @@ Las sesiones del Ayuntamiento, se celebrarán en el recinto destinado para tal e
 
 Sólo por causas excepcionales o justificadas, el Ayuntamiento podrá acordar el cambio de recinto de manera temporal.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2020)</small>
+
+Las sesiones podrán realizarse a distancia, mediante el uso de herramientas tecnológicas, ante una emergencia declarada por la autoridad respectiva que impida o haga inconveniente la presencia de los miembros del ayuntamiento en el recinto destinado para tal efecto, atendiendo a las formalidades que establece la presente ley y los reglamentos correspondientes.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2020)</small>
+
+Lo señalado en el párrafo anterior también le será aplicable a las sesiones que lleven a cabo las entidades paramunicipales y los órganos desconcentrados.
+
 Votaciones
 
 ###### Artículo 70.
@@ -984,6 +996,10 @@ En los demás casos, bastará que los documentos relativos al asunto tratado, se
 Las actas de las sesiones de Ayuntamiento, se llevarán por duplicado, el original lo conservará el propio Ayuntamiento y el otro se enviará terminado el período del gobierno municipal, al Archivo General del Estado, para formar parte del acervo histórico de la Entidad.
 
 Las actas deberán ser firmadas por los integrantes del Ayuntamiento que participaron en la sesión y por el secretario del mismo.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2020)</small>
+
+En el supuesto del tercer párrafo del artículo 69, se podrá hacer uso de la firma electrónica para efecto de suscribir las actas respectivas.
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1334,6 +1350,14 @@ Publicidad de las comisiones
 1. Las reuniones de comisiones serán públicas. Serán privadas cuando se trate de los supuestos previstos en el artículo 67 de esta Ley.
 
 El carácter de privada lo determinará la presidencia de la Comisión en la convocatoria a la reunión.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2020)</small>
+
+###### Artículo 82
+
+2. Las reuniones de comisiones podrán llevarse a distancia, mediante el uso de herramientas tecnológicas, ante una emergencia declarada por la autoridad respectiva que impida o haga inconveniente la presencia de sus integrantes en el recinto destinado para tal efecto, siempre que así lo acuerde la mayoría de sus integrantes y se informe al ayuntamiento, atendiendo a las formalidades que establece la presente ley y los reglamentos correspondientes.
+
+En las reuniones a distancia, se podrá hacer uso de la firma electrónica para firmar los acuerdos.
 
 Comisiones ordinarias
 
@@ -4538,3 +4562,11 @@ Artículo Segundo. Los municipios del estado contarán con un periodo de 90 día
 Artículo Tercero. Los municipios del estado contarán con un periodo de 90 días para elaborar y aprobar el programa municipal del Sistema Municipal de Protección de los Derechos de Niñas, Niños y Adolescentes, en congruencia con el presente Decreto.
 
 Artículo Cuarto. Una vez cumplidos los términos señalados los municipios del Estado deberán informar a este Congreso sobre los mecanismos y acciones que hayan realizado para el cumplimiento del presente Decreto.
+
+P.O. 14 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 181, MEDIANTE EL CUAL SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 66; UN TERCERO Y CUARTO PÁRRAFOS AL ARTÍCULO 69; UN PÁRRAFO ÚLTIMO AL ARTÍCULO 74 Y EL ARTÍCULO 82-2 A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los Ayuntamientos, sus Comisiones y Órganos paramunicipales y desconcentrados que hayan deliberado y tomado acuerdos a través de sesiones a distancia, estos deberán ser convalidados cumpliendo con las formalidades que se prevén en las normas del presente decreto.
