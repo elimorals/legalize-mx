@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2020-04-16"
+last_updated: "2020-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 14 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020 (ABROGADO).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -2568,3 +2570,27 @@ P.O. 16 DE ABRIL DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0675.- LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor de este Decreto se abroga la Ley de Educación del Estado de San Luis Potosí, publicada el 16 de junio de 1995 en el Periódico Oficial del Estado; y se derogan todas las disposiciones contenidas en las demás leyes estatales; asimismo, quedan sin efecto los reglamentos, acuerdos, y disposiciones de carácter general, contrarias al presente Decreto.
+
+TERCERO. La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto, continuarán, hasta su conclusión, regidos con las disposiciones en los cuales se fundamentaron.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate. Para los ejercicios fiscales subsecuentes, el Congreso del Estado, deberá prever, con base en la iniciativa de Presupuesto de Egreso que al efecto presente el Poder Ejecutivo Estatal, el incremento progresivo de los recursos presupuestarios correspondientes, con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+La educación inicial, como educación básica, de manera gradual, se estará a lo dispuesto por la autoridad educativa federal, por ser quien tiene la atribución legal de determinar para toda la República, lo principios rectores y objetivos de su implementación, así como a la disponibilidad presupuestaria que específicamente se destine para garantizar su cumplimiento, ello, sin detrimento de la planeación que realicen las autoridades Estatal y Municipales.
+
+QUINTO. Las autoridades educativas, en coordinación con las autoridades correspondientes, realizarán consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, a pueblos indígenas y comunidades afromexicanas relativo a la aplicación de las disposiciones que, en materia de educación indígena, son contempladas en este Decreto; hasta en tanto, las autoridades educativas no realizarán ninguna acción derivada de la aplicación de dichas disposiciones.
+
+SEXTO. La Comisión Estatal de Planeación y Programación del Sistema de Educación Media Superior del Estado de San Luis Potosí, prevista en el artículo 28 de esta Ley, deberá quedar instalada en un plazo de sesenta días contados a partir de la entrada en vigor del mismo.
+
+SÉPTIMO. El sistema integral de formación, capacitación y actualización del Estado de San Luis Potosí, previsto en el artículo 90 de este Ordenamiento, deberá instalarse antes de finalizar el año 2020.
+
+OCTAVO. El Gobierno del Estado y los gobiernos municipales, de conformidad con lo establecido en el Acuerdo Nacional para la Modernización Educativa, reconocen a las secciones, 26; y 52, del Sindicato Nacional de Trabajadores de la Educación, como representantes legales de los trabajadores de la educación en el Estado.
