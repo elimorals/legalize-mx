@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2020-03-30"
+last_updated: "2020-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1980,6 +1980,10 @@ Agravantes
 Al servidor público que, por las razones previstas en el artículo anterior, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará la pena a que se refiere el artículo anterior, hasta en una mitad.
 
 Así mismo, se le impondrá destitución o inhabilitación para el desempeño de cualquier cargo, empleo o comisión público por el mismo lapso de la privación de la libertad impuesta.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2020)</small>
+
+A quien, durante una emergencia sanitaria, cometa cualquiera de las conductas a que se refiere el artículo anterior en contra de un médico, cirujano, paramédico, enfermero, camillero o cualquier otro profesional de la salud o trabajador del sector salud, público o privado, se le aumentará la pena prevista en el artículo anterior hasta en tres años más de prisión o multa de cien a ciento cincuenta días multa.
 
 ## TÍTULO OCTAVO. DELITOS CONTRA EL CUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
 
@@ -4202,3 +4206,11 @@ P.O. 30 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 325 POR EL QUE “SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 180 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
