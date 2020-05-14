@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2020-03-17"
+last_updated: "2020-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -8071,7 +8071,9 @@ ART. 2234.- Se prohibe a los encargados de los establecimientos públicos y a lo
 
 ART. 2235.- El arrendamiento, sea cual fuere la renta estipulada, deberá otorgarse precisamente por escrito.
 
-ART. 2236.- Si el predio fuere rústico y la renta pasare de cinco mil pesos anuales, el contrato se otorgará en escritura pública.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2020)</small>
+
+ART. 2236.- Si el predio fuere rústico y la renta pasare de 575 unidades de medida y actualización anuales, el contrato se otorgará en escritura pública.
 
 ART. 2237.- El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
 
@@ -8211,9 +8213,9 @@ ART. 2282.- Podrá solicitarse la modificación del precio del arrendamiento en 
 
 ### CAPITULO V. Del Arrendamiento de Fincas Rústicas
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2020)</small>
 
-ART. 2283.- El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo a lo que dispone la Ley de Fomento al Desarrollo Rural Sustentable del Estado.
+ART. 2283.- El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad.
 
 ART. 2284.- La renta debe pagarse en los plazos convenidos, y a falta de convenio por semestres vencidos.
 
@@ -9141,7 +9143,7 @@ ART. 2579.- Si la cosecha se pierde por completo, el aparcero no tiene obligaci�
 
 ART. 2580.- Cuando el aparcero establezca su habitación en el campo que va a cultivar, tiene obligación el propietario de permitirle que construya su casa y de que tome el agua potable y la leña que necesite para satisfacer sus necesidades y las de su familia, así como que consuma el pasto indispensable para alimentar los animales que emplee en el cultivo.
 
-ART. 2581.- El propietario no podrá dejar sus tierras ociosas, sino el tiempo que sea necesario para que recobren sus propiedades fertilizantes. En consecuencia, pasada la época que en cada región fije la autoridad municipal, conforme a la naturaleza de los cultivos, si el propietario no las comienza a cultivar por sí o por medio de otros, tiene obligación de darlas en aparcería conforme a la costumbre del lugar, a quien las solicite y ofrezca las condiciones necesarias de honorabilidad y solvencia.
+ART. 2581.- (DEROGADO, P.O. 14 DE MAYO DE 2020)
 
 ART. 2582.- Tiene lugar la aparcería de ganados cuando una persona da a otra cierto número de animales a fin de que los cuide y alimente, con el objeto de repartirse los frutos en la proporción que convengan.
 
@@ -10556,5 +10558,21 @@ P.O. 17 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0632.- SE REFORMA, EL ARTÍCULO 1438 EN SU FRACCIÓN I, EN EL TÍTULO CUARTO LA DENOMINACIÓN DEL CAPÍTULO VI, Y EL ARTÍCULO 1471, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0678.- SE REFORMA EL ARTÍCULO 2236, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0679.- SE REFORMA EL ARTÍCULO 2283; Y DEROGA EL ARTÍCULO 2581, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
