@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2020-04-18"
+last_updated: "2020-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1267,15 +1267,19 @@ VIII. Proponer al Pleno a los integrantes de la Directiva, de las comisiones y d
 
 IX. Las demás que le atribuya la ley y las que le encomiende el Pleno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 122.
 
-La Junta celebrará una reunión ordinaria cada semana, y las reuniones extraordinarias que sean necesarias. El Presidente de la Junta dirigirá los trabajos, a falta de éste lo hará el Vicepresidente o el Secretario, en ese orden.
+La Junta celebrará una reunión ordinaria cada semana; por causa extraordinaria calificada por el Pleno, en el supuesto de epidemias, peligro de invasión, caso fortuito o fuerza mayor en el país o en el Estado, se podrá llevar bajo la modalidad de sesiones no presenciales, mediante video conferencias, trabajo a distancia, o medios virtuales análogos que permitan la comunicación y deliberación simultánea. Asimismo, se llevarán a cabo las reuniones extraordinarias que sean necesarias. El Presidente de la Junta dirigirá los trabajos, a falta de éste lo hará el Vicepresidente o el Secretario, en ese orden.
 
 Las reuniones extraordinarias se realizarán cuando sean convocadas por el Presidente de este órgano de dirección, o cuando así lo soliciten los integrantes de esta Junta, cuyo voto ponderado en conjunto represente, al menos, más del cincuenta por ciento de los diputados que componen la Legislatura.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 123.
 
-A las reuniones ordinarias de la Junta se citará con por lo menos cuarenta y ocho horas de anticipación, y se realizarán bajo una orden del día elaborada por la Secretaría, a instrucción del Presidente, la cual estará sujeta a la aprobación de la Junta.
+A las reuniones ordinarias de la Junta se citará con por lo menos cuarenta y ocho horas de anticipación; en el caso de aquellas, que deban llevarse a cabo bajo la modalidad de sesiones no presenciales, mediante video conferencias, trabajo a distancia, o medios virtuales análogos que permitan la comunicación y deliberación simultánea, el citatorio se entregará mediante correo electrónico o cualquier otro medio digital. Al citatorio se deberá acompañar el orden del día propuesto, mismo que se sujetará a la aprobación de la Junta.
 
 ###### ARTICULO 124.
 
@@ -1299,7 +1303,9 @@ Son atribuciones del Presidente de la Junta:
 
 I. Tener bajo su custodia los documentos que competan a la Junta y entregarlos, mediante acta, al Presidente que lo sustituya. Los documentos podrán ser consultados en cualquier momento por todos y cada uno de los integrantes de la Legislatura, siempre que lo soliciten;
 
-II. Convocar y presidir las reuniones ordinarias de la Junta, cuando menos una vez a la semana;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2020)</small>
+
+II. Convocar y presidir las reuniones ordinarias de la Junta en los términos previstos por este reglamento;
 
 III. Llevar a cabo las acciones necesarias para que se cumplan los acuerdos y resoluciones emitidos por la Junta, y verificar su cumplimiento, e informar a los miembros de la misma;
 
@@ -1447,9 +1453,9 @@ I. Instalar legalmente la comisión o comité que presida, dentro de la semana s
 
 II. Presentar con oportunidad para su aprobación, el proyecto de plan anual de trabajo a que se refiere el artículo 138 de este Reglamento, el cual deberá ser congruente con la agenda legislativa;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2020)</small>
 
-III. Elaborar el citatorio y el orden del día de las reuniones de la comisión o comité respectivo. Por lo que hace al orden del día, éste deberá ser enviado a la dirección de correo electrónico que expresamente cada diputado haya autorizado para tal efecto ante quien presida, debiendo adjuntar digitalmente la totalidad de los dictámenes y documentos que vayan a ser tratados; para ello marcará copia al presidente o la presidenta, a efecto de hacer constar la remisión de los documentos correspondientes;
+III. Elaborar el citatorio y el orden del día de las reuniones de la comisión o comité respectivo. Por lo que hace al orden del día, y a los citatorios, incluso en el caso de aquellas que se lleven a cabo en forma no presencial, mediante video conferencia, éste deberá ser enviado a la dirección de correo electrónico que expresamente cada diputado haya autorizado para tal efecto ante quien presida, debiendo adjuntar digitalmente la totalidad de los dictámenes y documentos que vayan a ser tratados; para ello marcará copia al presidente o la presidenta, a efecto de hacer constar la remisión de los documentos correspondientes;
 
 IV. Citar a los integrantes de su comisión o comité para el desempeño de su cometido;
 
@@ -2936,5 +2942,13 @@ P.O. 18 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0667.- SE REFORMA (SIC) LOS ARTÍCULOS 40 EN SU FRACCIÓN I Y 138 EN SU FRACCIÓN XIII; Y ADICIONA AL ARTÍCULO 5º UN PÁRRAFO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA (SIC) LOS ARTÍCULOS 10 EN SUS FRACCIONES VI Y VII, 18, 36, 111 EN SU FRACCIÓN I, 116 EN SUS FRACCIONES I Y II, 149 EN SU PÁRRAFO PRIMERO Y 150 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; Y ADICIONA AL ARTÍCULO 10 LA FRACCIÓN VIII, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0676.- SE REFORMA LOS ARTÍCULOS 122 EN SU PÁRRAFO PRIMERO, 123, 126 EN SU FRACCIÓN II Y 146 EN SU FRACCIÓN III, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
