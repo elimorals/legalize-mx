@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-mejora-regulatoria-para-el-estado-de-campeche-61466"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-21"
-last_updated: "2008-05-21"
+last_updated: "2020-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE MEJORA REGULATORIA PARA EL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE CAMPECHE Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. 15 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2020 (ABROGADO).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 21 de mayo de 2008.
 
@@ -328,3 +330,47 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veinte días del mes de mayo del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFAN, RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE MEJORA REGULATORIA PARA EL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Consejo Estatal de Mejora Regulatoria deberá estar instalado en un plazo que no exceda de noventa días naturales a la entrada en vigor del presente Decreto.
+
+TERCERO. Las Autoridades de Mejora Regulatoria y los Sujetos Obligados darán cumplimiento a las obligaciones establecidas en la presente Ley con cargo a sus respectivos presupuestos.
+
+CUARTO. A partir de la entrada en vigor de esta Ley, los Municipios contarán con un plazo de 180 días para adecuar sus Reglamentos al contenido de dicha Ley. Los Consejos Municipales de Mejora Regulatoria deberán instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor de las adecuaciones correspondientes en su marco jurídico.
+
+QUINTO. A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal contará con un plazo de 90 días para adecuar las disposiciones administrativas correspondientes.
+
+SEXTO. Las Regulaciones, lineamientos y acuerdos para que produzcan efectos jurídicos, deberán ser publicadas por los Sujetos Obligados en el Periódico Oficial del Estado.
+
+SÉPTIMO. La Comisión Estatal publicará el Reglamento Interior de la Comisión de Mejora Regulatoria para el Estado de Campeche, así como los lineamientos respectivos, dentro de un plazo que no exceda de un año contado a partir de la entrada en vigor del presente Decreto conteniendo, al menos, las siguientes herramientas:
+
+I. Análisis de Impacto regulatorio;
+
+II. Programa Estatal de mejora regulatoria;
+
+III. Agenda Regulatoria;
+
+IV. Estrategia estatal;
+
+V. Registro Estatal de visitas domiciliarias;
+
+VI. Protesta ciudadana; y
+
+VII. Programas específicos de simplificación y mejora regulatoria.
+
+OCTAVO. Se abroga la Ley de Mejora Regulatoria para el Estado de Campeche, publicada en el Periódico Oficial del Estado de Campeche el 21 de mayo de 2008.
+
+NOVENO. De conformidad con el numeral 44 de la Ley que se emite mediante el presente Decreto, se deberán prever las estimaciones presupuestales correspondientes a la Consejería Jurídica del Poder Ejecutivo del Estado de Campeche para la efectiva implementación del Registro Estatal de Regulación.
+
+Asimismo, se deberán emitir los Lineamientos del Registro Estatal de Regulación en un plazo de 180 días contados a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+DÉCIMO. Las autoridades correspondientes deberán prever las estimaciones presupuestales pertinentes para los presupuestos del año 2020 y los subsecuentes.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente Decreto.
