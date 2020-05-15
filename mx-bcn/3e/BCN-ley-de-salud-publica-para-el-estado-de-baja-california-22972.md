@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2019-12-06"
+last_updated: "2020-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -63,9 +63,9 @@ II.- La Secretaría de Salud del Estado; y
 
 III.- Los Ayuntamientos, en los términos de los acuerdos que celebren con el Gobernador del Estado, de conformidad con esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2020)</small>
 
-La Secretaría de Salud ejercerá las atribuciones de regulación, control y fomento sanitarios que conforme a la presente Ley, a los Acuerdos celebrados con la Federación en la materia, y a los demás ordenamientos aplicables le correspondan, a través de un órgano con autonomía técnica y operativa denominado Comisión Estatal para la Protección contra Riesgos Sanitarios, la cual funcionará en los términos establecidos en el Reglamento correspondiente.
+La Secretaría de Salud Ejercerá las atribuciones de regulación, control y fomento sanitarios, conforme a la presente Ley, a los Acuerdos celebrados con la Federación en la materia y a los demás ordenamientos aplicables que le correspondan, a través de un órgano denominado Comisión Estatal para la Protección contra Riesgos Sanitarios, la cual tendrá las atribuciones en los términos de la presente Ley y su Reglamento.
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2449,63 +2449,105 @@ IV.- Las demás que le establezca el Reglamento Interno.
 
 ### CAPITULO DECIMO PRIMERO. DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 149.
 
-Las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan a la Secretaria de Salud en materia de salubridad local, serán ejercidas a través del órgano desconcentrado denominado Comisión Estatal de Protección Contra Riesgos Sanitarios, a la que corresponde:
+Las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan a la Secretaría de Salud en materia de salubridad local, serán ejercidas a través del órgano denominado Comisión Estatal de Protección Contra Riesgos Sanitarios, a la que corresponde:
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 I. Ejercer la regulación, control, vigilancia y fomento sanitarios de los productos, actividades, establecimientos y servicios, así como evaluar, expedir o revocar las autorizaciones y emitir los actos de autoridad, en apego a las disposiciones previstas en la Ley General de Salud, la presente Ley, reglamentos, acuerdos específicos, Normas Oficiales Mexicanas, y demás normativa aplicable;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 II. Elaborar y proponer, las normas técnicas locales para la regulación, control y fomento sanitario, así como someterlas a consideración del Secretario de Salud para su aprobación, aplicación y publicación en su caso;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 III. Proponer y coordinar la política estatal de protección contra riesgos sanitarios;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 IV. Representar al Estado en el Sistema Federal Sanitario;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 V. Coordinar las acciones para la prestación de los servicios de salud a la comunidad en materia de su competencia, así como para el destino de los recursos previstos para tal efecto de conformidad con las disposiciones aplicables y en términos de los acuerdos de colaboración y coordinación;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 VI. Identificar, analizar, evaluar, regular, controlar, fomentar y difundir las condiciones y requisitos para la prevención y manejo de los riesgos sanitarios en el estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 VII. Realizar y en su caso coordinar la integración de diagnósticos situacionales, investigaciones, evaluaciones de riesgo en materia de regulación, control y fomento sanitario en coordinación con otras autoridades competentes, e instituciones de investigación o académicas;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 VIII. Expedir certificados oficiales de la condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 IX. Emitir, revalidar, prorrogar o revocar las autorizaciones sanitarias en las materias de su competencia, en los términos de la Ley General de Salud, la presente Ley, sus reglamentos, las Normas Oficiales Mexicanas, las normas técnicas locales y demás disposiciones legales aplicables;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 X. Ejecutar los procedimientos administrativos que correspondan conforme a la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California, la presente Ley y de más (sic) normativa aplicable;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XI. Aplicar estrategias de investigación, evaluación y seguimiento de riesgos sanitarios, conjuntamente o en coadyuvancia con otras autoridades competentes;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 XII. Vigilar e imponer sanciones administrativas por el incumplimiento de disposiciones de esta Ley, la Ley General, Normas Oficiales Mexicanas y demás ordenamientos aplicables, así como determinar medidas de seguridad, preventivas y correctivas, en el ámbito de su competencia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XIII. Ejercer las acciones de control, regulación y fomento sanitario correspondientes, para prevenir y reducir los riesgos sanitarios derivados de la exposición de la población a factores químicos, físicos y biológicos;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 XIV. Participar, en coordinación con las unidades administrativas correspondientes de la Secretaría en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, cuando éstas se relacionen con los riesgos sanitarios derivados de los procesos, productos, métodos, instalaciones, servicios o actividades en las materias de su competencia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XV. Efectuar la identificación, evaluación y control de los riesgos a la salud en las materias de su competencia;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 XVI. Proponer la política de protección contra riesgos sanitarios en la entidad, así como su instrumentación en materia de salubridad local, regulación, control y fomento sanitario que le correspondan al Estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XVII. Hacer del conocimiento de las autoridades competentes, la opinión sobre la publicidad de las actividades, productos y servicios a los que se refiere esta ley y sus reglamentos, que se difunda en el Estado;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 XVIII. Planear, organizar, dirigir y controlar los recursos humanos, materiales, y financieros que les sean asignados, así como proponer al Congreso del Estado su presupuesto de egresos e ingresos, que deberá de contener los costos de servicios y montos de sanciones en su caso;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XIX. Suscribir convenios y acuerdos de colaboración para el cumplimiento de sus atribuciones;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 XX. Realizar por conducto del personal autorizado, las visitas de inspección, vigilancia y verificación de cumplimiento de esta Ley, la Ley General de Salud, Normas Oficiales Mexicanas y demás ordenamientos aplicables en materia sanitaria, en los domicilios de los establecimientos comerciales o instituciones públicas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XXI. Coordinarse, en su caso, con las autoridades responsables de regular y verificar las condiciones de seguridad y protección civil, para la ejecución de las acciones de regulación, control, fomento y vigilancia sanitaria a su cargo, y
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 XXII. Las demás que señalen las disposiciones legales aplicables.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 150.
 
-La Comisión Estatal de Protección Contra Riesgos Sanitarios tendrá autonomía administrativa, técnica, operativa y de gestión. Su titular será designado y removido por el Gobernador del Estado a propuesta del Secretario de Salud.
-
-Todo lo relacionado a la organización y funcionamiento de la Comisión Estatal de Protección Contra Riesgos Sanitarios se establecerá en su Reglamento Interno.
+El Titular de la Comisión Estatal de Protección Contra Riesgos Sanitarios será designado y removido por el Gobernador del Estado a propuesta del Secretario de Salud.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2529,9 +2571,33 @@ La revalidación de una autorización deberá solicitarse ante la autoridad sani
 
 Los obligados a contar con autorización sanitaria deberán mostrarla al visitador sanitario, cuando así sean requeridos en el cumplimiento de sus funciones.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 153.
+
+Requieren de licencia sanitaria:
+
+I.- Los establecimientos dedicados al expendio de alimentos, bebidas alcohólicas y no alcohólicas;
+
+II.- Los establecimientos que presten servicios de asistencia social;
+
+III.- Los rastros;
+
+IV.- Las albercas y los baños públicos;
+
+V.- Los centros de reunión y espectáculos;
+
+VI.- Los establecimientos dedicados a la prestación de servicios estéticos como peluquerías, salas de belleza o masaje;
+
+VII.- Los establecimientos de hospedaje;
+
+VIII.- Las funerarias;
+
+IX.- Los transportes de carga de alimentos y perecederos;
+
+X.- Los centros de desarrollo infantil, y
+
+XI.- Los demás que se señalen en esta Ley y otras disposiciones legales aplicables.
 
 Los derechos que se generen por la aplicación de esta Ley, se regirán por lo que disponga la Ley de Ingresos del Estado, la legislación fiscal y los acuerdos de coordinación que celebren en la materia el Ejecutivo Federal y las Autoridades Sanitarias del Estado.
 
@@ -3546,3 +3612,9 @@ Las obligaciones y compromisos que el Ejecutivo Estatal y la Secretaria de Salud
 ###### ARTÍCULO SEXTO.
 
 Entrada en vigor la presente reforma y designado el Titular de la Comisión Estatal de Protección Contra Riesgos Sanitarios, por el Gobernador del Estado, la Secretaria de Salud del Estado harán del conocimiento de la Secretaria de Salud Federal, así como de la creación normativa y operativa de la Comisión Estatal de Protección Contra Riesgos Sanitarios, en Baja California, para efecto de que sea considerada para la suscripción de acuerdos, convenios de colaboración o de trasferencia de recursos, con la federación en materia sanitaria para el Ejercicio Fiscal 2020.
+
+P.O. 15 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 68 MEDIANTE EL CUAL SE APRUEBAN LASREFORMASA (SIC) LOS ARTÍCULOS 2, 149, 150 Y 153 DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
