@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2019-10-19"
+last_updated: "2020-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO 27909/LXII/20 MEDIANTE EL CUAL SE ABROGA LA ACTUAL LEY DE EDUCACIÓN DEL ESTADO DE JALISCO, Y SE EXPIDE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, PUBLICADO EN EL P.O. DE 15 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2020 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -4100,3 +4100,29 @@ P.O. 19 DE OCTUBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El titular del Poder Ejecutivo del Estado deberá llevar a cabo las adecuaciones reglamentarias necesarias para la debida implementación de los mecanismos de prevención, detección temprana, atención y erradicación del ausentismo, abandono y deserción escolares, dentro de un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 15 DE MAYO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LA “LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]</small>
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general, contrarias a esta Ley.
+
+TERCERO. Las personas titulares del Ejecutivo y de la Secretaría de Educación del estado de Jalisco, emitirán y adecuarán los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en la presente Ley, en un plazo no mayor a 180 ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a esta Ley.
+
+CUARTO. Las personas titulares del Ejecutivo y de la Secretaría de Educación del estado de Jalisco, harán las adecuaciones correspondientes al Programa Educativo Estatal conforme lo previsto en el artículo 114 de esta Ley, en un plazo no mayor a 60 sesenta días hábiles, contados a partir de la entrada en vigor de esta Ley.
+
+QUINTO. La Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Jalisco prevista en el artículo 30 de la presente Ley, sustituye al Consejo Estatal para la Planeación de la Educación Media Superior, y deberá instalarse en un plazo no mayor de 90 noventa días hábiles contados a partir de la entrada en vigor de esta Ley.
+
+SEXTO. El Sistema Integral de Formación, Capacitación y Actualización del Estado de Jalisco, previsto en el artículo 95 de esta Ley, deberá instalarse en un plazo no mayor a 90 noventa días hábiles contados a partir de la entrada en vigor de esta Ley.
+
+SÉPTIMO. Los temas no previstos en relación a la Comisión Estatal para la Mejora Continua en Jalisco, se complementarán en el Decreto que para tal efecto emita el titular del Poder Ejecutivo del Estado de Jalisco. El titular del Ejecutivo del Estado de Jalisco designará a la persona titular de la Comisión Estatal para la Mejora Continua en Jalisco, en un plazo no mayor a 60 sesenta días hábiles contados a partir de la emisión de la presente Ley.
+
+OCTAVO. El H. Congreso del Estado de Jalisco tiene un plazo de 60 sesenta días hábiles, a partir de la entrada en vigor de esta Ley, para emitir las disposiciones legales correspondientes, derivadas de la presente Ley y nombrar a los miembros del Consejo Técnico Ciudadano referido en el artículo 112 de esta Ley.
+
+NOVENO. El SI MEJORA del Estado de Jalisco, previsto en el artículo 112 de esta Ley deberá instalarse en un plazo no mayor a 75 setenta y cinco días hábiles contados a partir de la entrada en vigor de esta Ley.
+
+DÉCIMO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+DÉCIMO PRIMERO. Los procedimientos referentes a equivalencias, autorización o reconocimiento de validez oficial de estudios y trámites administrativos que se iniciaron con anterioridad a la entrada en vigor de esta Ley, continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
