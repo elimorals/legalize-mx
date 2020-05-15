@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-140204"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2020-04-30"
+last_updated: "2020-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2020.
 
 Ley publicada en la Sección I del Número Especial del Periódico Oficial del Estado de Baja California, el martes 31 de diciembre de 2019.
 
@@ -1441,6 +1441,932 @@ Tratándose del servicio de entrega a domicilio, el contribuyente deberá presen
 
 Los demás servicios que presta la Secretaría de Hacienda, causarán derechos, los cuales se cobrarán de conformidad con los presupuestos que al efecto se realicen por esta dependencia, los que en todo caso serán proporcionales al costo del servicio.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2020)</small>
+
+ARTÍCULO 11 BIS.- Los derechos por los servicios de planeación, operación del transporte, permisos, concesiones y control vehicular, que brinda el Instituto de Movilidad Sustentable del Estado de Baja California, se cobrarán conforme las siguientes cuotas:
+
+I.- POR SERVICIOS QUE PRESTA EL INSTITUTO DE MOVILIDAD SUSTENTABLE DEL ESTADO DE BAJA CALIFORNIA, PARA EL MEJORAMIENTO DE LA MOVILIDAD SOSTENIBLE Y LA ACCESIBILIDAD EN EL ESTADO EN PARTICULAR APLICABLE A PRESTADORES DEL SERVICIO PÚBLICO Y PRIVADO DE MOVILIDAD Y TRANSPORTE EN TIJUANA.
+
+VECES UNIDAD DE MEDIDA
+
+Y ACTUALIZACIÓN
+
+A.- POR RECEPCÓN, ANÁLISIS Y EMISIÓN DE FACTIBILIDAD DE OPINIONES TÉCNICAS DE CONGRUENCIA DE RUTAS DE TRANSPORTE PÚBLICO DE PASAJEROS, RUTAS DE CARGA Y RUTAS TURÍSTICAS, INCLUYE LA DEFINICIÓN DE TIPO DE TRANSPORTE PÚBLICO, CARACTERÍSTICAS Y DIMENSIONES DE LOS RECORRIDOS:
+
+1.- Por ruta o fracción de modificación de ruta dentro de la mancha urbana dentro de los límites municipales … 43.75 VECES
+
+2.- Por ruta o fracción de modificación de ruta fuera de la mancha urbana dentro de los límites municipales … 43.75 VECES
+
+3.- Por ruta o fracción de ampliación de ruta dentro de la mancha urbana dentro de los límites municipales … 43.75 VECES
+
+4.- Por ruta o fracción de ampliación de ruta fuera de la mancha urbana dentro de los límites municipales … 43.75 VECES
+
+5.- Por ruta nueva dentro de la mancha urbana dentro de los límites municipales … 43.75 VECES
+
+6.- Por ruta nueva fuera de la mancha urbana dentro de los límites municipales … 43.75 VECES
+
+B.- POR ANÁLISIS Y EMISIÓN DE FACTIBILIDAD DE OPINIÓN TÉCNICA DE CONGRUENCIA PARA LA UBICACIÓN O UTILIZACIÓN DE SITIOS EXCLUSIVOS PARA EL TRANSPORTE PÚBLICO Y OTROS, INCLUYE LA DEFINICIÓN DE LAS CARACTERÍSTICAS GEOMÉTRICAS:
+
+1.- A solicitud del interesado … 25.00 VECES
+
+2.- Por determinación de la autoridad … 12.50 VECES
+
+C.- POR ANÁLISIS Y EMISIÓN DE FACTIBILIDAD DE OPINIÓN TÉCNICA PARA AUTORIZACIÓN DE CIERRES DE CIRCUITO, LANZADERAS Y ZONAS DE ASCENSO Y DESCENSO, A SOLICITUD DEL INTERESADO … 27.50 VECES
+
+D.- EXPEDICIÓN DE AUTORIZACIONES DE ZONAS DE TRANSPORTE PÚBLICO COMO SON CIERRES DE CIRCUITO, LANZADERAS Y ZONAS DE ASCENSO Y DESCENSO PARA EMPRESAS O AGRUPACIONES EN LO ESPECIFICO.
+
+1.- Por ubicación dentro del primer cuadro de la ciudad … 27.50 VECES
+
+2.- Por ubicación o reubicación dentro de corredores comerciales de la ciudad … 27.50 VECES
+
+3.- Por ubicación o reubicación fuera del primer cuadro de la ciudad y fuera de los corredores comerciales de la ciudad … 27.50 VECES
+
+E.- HABILITADO Y REHABILITADO DE ZONAS DE TRANSPORTE PÚBLICO COMO SON CIERRES DE CIRCUITO, LANZADERAS Y ZONAS DE ASCENSO Y DESCENSO PARA EMPRESAS O AGRUPACIONES EN LO ESPECIFICO ... 27.50 VECES
+
+F.-SERVICIOS TÉCNICOS DE PLANEACIÓN DEL TRANSPORTE:
+
+1.- Por copia de la traza gráfica de rutas … 25.00 VECES
+
+2.- Por copia de la traza digital de rutas … 50.00 VECES
+
+G.- EXPEDICIÓN, REVALIDACIÓN Y TRANSFERENCIA DE PERMISOS Y CONCESIONES PARA PRESTAR SERVICIO PÚBLICO DE TRANSPORTE Y OTROS:
+
+I).- De alquiler, taxis, turístico, escolar y carga, por permiso:
+
+a).- De alquiler, taxis:
+
+1.- Expedición por permiso ... 43.75 VECES
+
+2.- Revalidación por permiso ... 87.49 VECES
+
+3.- Transferencia de la titularidad entre terceros con autorización ... 92.49 VECES
+
+4.- Transferencia de la titularidad de permiso por defunción ... 46.24 VECES
+
+5.- Copia certificada de permiso ... 8.75 VECES
+
+6.- Modificación de permiso ... 8.75 VECES
+
+7.- Cambio de beneficiario … 16.00 VECES
+
+b).- Turístico y escolar:
+
+I.- Expedición por permiso:
+
+1).- Turísticos ... 87.49 VECES
+
+2).- Escolar ... 27.50 VECES
+
+II.- Revalidación de permiso:
+
+1).- Turísticos ... 87.49 VECES
+
+2).- Escolar ... 27.50 VECES
+
+III.- Transferencia de la titularidad entre terceros con autorización:
+
+1).- Turísticos … 92.47 VECES
+
+2).- Escolar ... 27.50 VECES
+
+IV.- Copia certificada de permiso ... 8.75 VECES
+
+V.- Modificación de permiso ... 8.75 VECES
+
+c).- De carga y arrastre:
+
+1.- Expedición por permiso para carga y arrastre pesado ... 55.00 VECES
+
+2.- Expedición por permiso para carga y arrastre ligero ... 8.00 VECES
+
+3.- Revalidación por permiso para carga y arrastre pesado ... 87.49 VECES
+
+4.- Revalidación por permiso para carga y arrastre ligero ... 8.00 VECES
+
+5.- Transferencia de la titularidad entre terceros con autorización ... 92.48 VECES
+
+6.- Copia certificada de permiso ... 8.75 VECES
+
+7.- Modificación de permiso ... 8.75 VECES
+
+II).- Cotejos de documentación:
+
+1.- Cotejo de boleta de infracción ... 2.00 VECES
+
+2.- Cotejo de archivo ... 2.00 VECES
+
+III).- Expedición de cartas:
+
+1.- Carta de operador sustituto activo con permiso ... 2.00 VECES
+
+2.- Carta de operador sustituto activo con suspensión ... 4.00 VECES
+
+IV).- Concesión de transporte público masivo y de personal:
+
+a).- Por 1 a 15 años por unidad autorizada:
+
+1.- Expedición de concesión ... 55.00 VECES
+
+2.- Revalidación de concesión ... 55.00 VECES
+
+3.- Modificación de concesión por ampliación de parque vehicular ... 55.50 VECES
+
+b).- De 15 a 30 años por unidad autorizada:
+
+1.- Expedición de concesión ... 110.00 VECES
+
+2.- Revalidación de concesión ... 110.00 VECES
+
+3.- Modificación de concesión por ampliación de parque vehicular ... 110.00 VECES
+
+H.- EXPEDICIÓN DE PERMISOS TRASLADO DE SUSTANCIA (SIC) PELIGROSAS
+
+I.- Para trasladar dentro de los límites de la ciudad, vehículos con residuos peligrosos, sustancias toxicas, gasolina y/o explosivos. Siempre y cuando la persona física o morales (sic) cuente con autorización para el manejo de estos:
+
+1.- Por un día ... 10.00 VECES
+
+2.- Por un mes ... 55.00 VECES
+
+3.- Por un año ... 137.00 VECES
+
+I.- SERVICIOS DE CONTROL VEHICULAR DEL SERVICIO PÚBLICO DE TRANSPORTE:
+
+1.- Anuencia para adquirir engomado ... 1.25 VECES
+
+2.- Anuencia para adquirir taxímetro ... 1.25 VECES
+
+3.- Constancia de no adeudo ... 1.25 VECES
+
+4.- Alta de unidad ... 6.25 VECES
+
+5.- Baja de unidad ... 5.00 VECES
+
+6.- Cambio de unidad … 17.50 VECES
+
+7.- Expedición de autorización temporal para circular sin placas ... 25.00 VECES
+
+J.- EXPEDICIÓN ANUENCIA PARA LA INSTALACIÓN PUBLICIDAD AUDIOVISUAL:
+
+1.- En unidades de transporte público urbano ... 6.50 VECES
+
+2.- Publicidad gráfica por m2 ... 2.00 VECES
+
+3.- Publicidad mediante perifoneo … 15.00 VECES
+
+K.- EXPEDICIÓN DE DOCUMENTOS, CERTIFICADOS, CONSTANCIAS, ENGOMADOS, HOLOGRAMAS Y COPIAS:
+
+1.- Expedición de identificación para operadores de transporte público y Empresas de Redes de Transporte (ERT) ... 8.00 VECES
+
+2.- Expedición de holograma engomado para control de revisión mecánica, con vigencia de seis meses ... 4.50 VECES
+
+3.- Expedición de engomado para identificación de taxis ... 1.15 VECES
+
+4.- Expedición de autorización de cambio de color ... 10.00 VECES
+
+5.- Expedición de autorización de cambio de ruta ... 20.00 VECES
+
+6.- Capacitación y adquisición de cédula de conductor de transporte público ... 2.00 VECES
+
+7.- Expedición de engomado QR. ... 6.00 VECES
+
+I.- POR EL ANÁLISIS, REVISIÓN, COTEJO, DIGITALIZACIÓN Y CAPTURA DE SOLICITUDES DE PERMISO, AUTORIZACIÓN O CONCESIÓN EN LOS TÉRMINOS DEL ARTÍCULO 70 FRACCIÓN XIV DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA ... 6.00 VECES
+
+II.- POR SERVICIOS QUE PRESTA EL INSTITUTO DE MOVILIDAD SUSTENTABLE DEL ESTADO DE BAJA CALIFORNIA, PARA EL MEJORAMIENTO DE LA MOVILIDAD SOSTENIBLE Y LA ACCESIBILIDAD EN EL ESTADO EN PARTICULAR APLICABLE A PRESTADORES DEL SERVICIO PÚBLICO Y PRIVADO DE MOVILIDAD Y TRANSPORTE EN TECATE.
+
+VECES UNIDAD DE MEDIDA
+
+Y ACTUALIZACIÓN
+
+A.- POR RECEPCIÓN, ANÁLISIS Y EMISIÓN DE FACTIBILIDAD DE OPINIONES TÉCNICAS DE CONGRUENCIA DE RUTAS DE TRANSPORTE PÚBLICO DE PASAJEROS, RUTAS DE CARGA Y RUTAS TURÍSTICAS, INCLUYE LA DEFINICIÓN DE TIPO DE TRANSPORTE PÚBLICO, CARACTERÍSTICAS Y DIMENSIONES DE LOS RECORRIDOS:
+
+1.- Por ruta o fracción de modificación de ruta dentro de la mancha urbana dentro de los límites municipales ... 23.00 VECES
+
+2.- Por ruta o fracción de modificación de ruta fuera de la mancha urbana dentro de los límites municipales ... 20.00 VECES
+
+3.- Por ruta o fracción de ampliación de ruta dentro de la mancha urbana dentro de los límites municipales ... 30.00 VECES
+
+4.- Por ruta o fracción de ampliación de ruta fuera de la mancha urbana dentro de los límites municipales ... 20.00 VECES
+
+5.- Por ruta nueva dentro de la mancha urbana dentro de los límites municipales. 48.83 VECES
+
+6.- Por ruta nueva fuera de la mancha urbana dentro de los límites municipales ... 39.00 VECES
+
+B.- POR ANÁLISIS Y EMISIÓN DE FACTIBILIDAD DE OPINIÓN TÉCNICA PARA AUTORIZACIÓN DE CIERRES DE CIRCUITO, LANZADERAS Y ZONAS DE ASCENSO Y DESCENSO, A SOLICITUD DEL INTERESADO ... 25.00 VECES
+
+C.- EXPEDICIÓN DE AUTORIZACIONES DE ZONAS DE TRANSPORTE PÚBLICO COMO SON CIERRES DE CIRCUITO, LANZADERAS Y ZONAS DE ASCENSO Y DESCENSO PARA EMPRESAS O AGRUPACIONES EN LO ESPECIFICO:
+
+1.- Por ubicación dentro del primer cuadro de la ciudad ... 18.00 VECES
+
+2.- Por ubicación o reubicación dentro de corredores comerciales de la ciudad 18.00 VECES
+
+3.- Por ubicación o reubicación fuera del primer cuadro de la ciudad y fuera de los corredores comerciales de la ciudad ... 12.00 VECES
+
+D.- HABILITADO Y REHABILITADO DE ZONAS DE TRANSPORTE PÚBLICO COMO SON CIERRES DE CIRCUITO, LANZADERAS Y ZONAS DE ASCENSO Y DESCENSO PARA EMPRESAS O AGRUPACIONES EN LO ESPECIFICO ... 25.00 VECES
+
+E.- SERVICIOS TÉCNICOS DE PLANEACIÓN DEL TRANSPORTE:
+
+1.- Por copia de la traza gráfica de rutas ... 25.00 VECES
+
+2.- Por copia de la traza digital de rutas ... 50.00 VECES
+
+F.- EXPEDICIÓN, REVALIDACIÓN Y TRANSFERENCIA DE PERMISOS Y CONCESIONES PARA PRESTAR SERVICIO PÚBLICO DE TRANSPORTE Y OTROS:
+
+I).- De alquiler, taxis, turístico, escolar y carga, por permiso:
+
+a).- De alquiler, taxis:
+
+1.- Expedición por permiso ... 37.00 VECES
+
+2.- Revalidación por permiso ... 37.00 VECES
+
+3.- Transferencia de la titularidad entre terceros con autorización ... 39.00 VECES
+
+4.- Transferencia de la titularidad por permiso de defunción ... 46.00 VECES
+
+5.- Copia certificada de permiso ... 9.00 VECES
+
+6.- Modificación de permiso ... 9.00 VECES
+
+7.- Cambio de beneficiario ... 23.00 VECES
+
+b).- Turístico y escolar:
+
+1.- Expedición por permiso ... 50.00 VECES
+
+2.- Revalidación por permiso ... 50.00 VECES
+
+3.- Transferencia de la titularidad entre terceros por permiso.
+
+a).- Turísticos ... 43.00 VECES
+
+b).- Escolar ... 43.00 VECES
+
+4.- Copia certificada de permiso ... 7.00 VECES
+
+5.- Modificación de permiso ... 9.00 VECES
+
+c).- De carga y arrastre:
+
+1.- Expedición por permiso para carga y arrastre pesado ... 50.00 VECES
+
+2.- Expedición por permiso para carga y arrastre ligero ... 8.00 VECES
+
+3.- Revalidación por permiso para carga y arrastre pesado ... 35.00 VECES
+
+4.- Revalidación por permiso para carga y arrastre ligero ... 8.00 VECES
+
+5.- Transferencia de la titularidad entre terceros con autorización ... 40.00 VECES
+
+6.- Copia certificada de permiso ... 9.00 VECES
+
+7.- Modificación de permiso … 9.00 VECES
+
+II).- Cotejos de documentación:
+
+1.- Cotejo de boleta de infracción ... 2.00 VECES
+
+2.- Cotejo de archivo ... 2.00 VECES
+
+III).- Expedición de cartas:
+
+1.- Carta de operador sustituto activo con permiso ... 2.00 VECES
+
+2.- Carta de operador sustituto activo con suspensión ... 4.00 VECES
+
+IV).- Concesión de transporte público masivo y de personal:
+
+a).- Por 1 a 15 años por unidad autorizada:
+
+1.- Expedición de concesión ... 24.00 VECES
+
+2.- Revalidación de concesión ... 35.00 VECES
+
+3.- Modificación de concesión por ampliación de parque vehicular ... 7.00 VECES
+
+b).- De 15 a 30 años por unidad autorizada:
+
+1.- Expedición de concesión ... 110.00 VECES
+
+2.- Revalidación de concesión ... 110.00 VECES
+
+3.- Modificación de concesión por ampliación de parque vehicular ... 110.00 VECES
+
+G.- EXPEDICIÓN DE PERMISOS TRASLADO DE SUSTANCIAS PELIGROSAS.
+
+I).- Para trasladar dentro de los límites de la ciudad, vehículos con residuos peligrosos, sustancias toxicas, gasolina y/o explosivos. Siempre y cuando la persona física o morales (sic) cuente con autorización para el manejo de estos:
+
+a).- Por un día ... 10.00 VECES
+
+b).- Por un mes ... 55.00 VECES
+
+c).- Por un año ... 137.00 VECES
+
+H.- SERVICIOS DE CONTROL VEHICULAR DEL SERVICIO PÚBLICO DE TRANSPORTE:
+
+1.- Anuencia para adquirir engomado ... 2.00 VECES
+
+2.- Anuencia para adquirir taxímetro ... 1.00 VECES
+
+3.- Constancia de no adeudo ... 3.05 VECES
+
+4.- Alta de unidad ... 6.25 VECES
+
+5.- Baja de unidad ... 4.00 VECES
+
+6.- Cambio de unidad ... 9.00 VECES
+
+7.- Expedición de autorización temporal para circular sin placas ... 25.00 VECES
+
+I.- EXPEDICIÓN ANUENCIA PARA LA DE (SIC) INSTALACIÓN PUBLICIDAD AUDIOVISUAL:
+
+1.- En unidades de unidades de (sic) transporte público urbano ... 6.50 VECES
+
+2.- Publicidad gráfica por m2 ... 2.00 VECES
+
+3.- Publicidad mediante perifoneo ... 15.00 VECES
+
+J.- EXPEDICIÓN DE DOCUMENTOS, CERTIFICADOS, CONSTANCIAS, ENGOMADOS, HOLOGRAMAS Y COPIAS:
+
+1.- Expedición de identificación para operadores de transporte público y Empresas de Redes de Transporte (ERT) ... 8.00 VECES
+
+2.- Expedición de holograma engomado para control de revisión mecánica, con vigencia de seis meses ... 4.50 VECES
+
+3.- Expedición de engomado para identificación de taxis ... 1.15 VECES
+
+4.- Expedición de autorización de cambio de color ... 10.00 VECES
+
+5.- Expedición de autorización de cambio de ruta ... 20.00 VECES
+
+6.- Capacitación y adquisición de cédula de conductor de transporte público ... 2.00 VECES
+
+7.- Expedición de engomado QR ... 5.00 VECES
+
+III.- POR SERVICIOS QUE PRESTA EL INSTITUTO DE MOVILIDAD SUSTENTABLE DEL ESTADO DE BAJA CALIFORNIA, PARA EL MEJORAMIENTO DE LA MOVILIDAD SOSTENIBLE Y LA ACCESIBILIDAD EN EL ESTADO EN PARTICULAR APLICABLE A PRESTADORES DEL SERVICIO PÚBLICO Y PRIVADO DE MOVILIDAD Y TRANSPORTE EN ROSARITO.
+
+VECES UNIDAD DE MEDIDA
+
+Y ACTUALIZACIÓN
+
+A.- POR RECEPCIÓN, ANÁLISIS Y EMISIÓN DE FACTIBILIDAD DE OPINIONES TÉCNICAS DE CONGRUENCIA DE RUTAS DE TRANSPORTE PÚBLICO DE PASAJEROS, RUTAS DE CARGA Y RUTAS TURÍSTICAS, INCLUYE LA DEFINICIÓN DE TIPO DE TRANSPORTE PÚBLICO, CARACTERÍSTICAS Y DIMENSIONES DE LOS RECORRIDOS:
+
+1.- Por ruta o fracción de modificación de ruta dentro de la mancha urbana dentro de los límites municipales ... 23.00 VECES
+
+2.- Por ruta o fracción de modificación de ruta fuera de la mancha urbana dentro de los límites municipales ... 35.00 VECES
+
+3.- Por ruta o fracción de ampliación de ruta dentro de la mancha urbana dentro de los límites municipales ... 23.00 VECES
+
+4.- Por ruta o fracción de ampliación de ruta fuera de la mancha urbana dentro de los límites municipales ... 35.00 VECES
+
+5.- Por ruta nueva dentro de la mancha urbana dentro de los límites municipales 23.00 VECES
+
+6.- Por ruta nueva fuera de la mancha urbana dentro de los límites municipales 35.00 VECES
+
+B.- EXPEDICIÓN DE AUTORIZACIONES DE ZONAS DE TRANSPORTE PÚBLICO COMO SON CIERRES DE CIRCUITO, LANZADERAS Y ZONAS DE ASCENSO Y DESCENSO PARA EMPRESAS O AGRUPACIONES EN LO ESPECÍFICO
+
+1.- Por ubicación dentro del primer cuadro de la ciudad ... 18.00 VECES
+
+2.- Por ubicación o reubicación dentro de corredores comerciales de la ciudad ... 18.00 VECES
+
+3.- Por ubicación o reubicación fuera del primer cuadro de la ciudad y fuera de los corredores comerciales de la ciudad ... 12.00 VECES
+
+C.- EXPEDICIÓN, REVALIDACIÓN Y TRANSFERENCIA DE PERMISOS Y CONCESIONES PARA PRESTAR SERVICIO PÚBLICO DE TRANSPORTE Y OTROS:
+
+I).- De alquiler, taxis, turístico, escolar y carga, por permiso:
+
+a).- De alquiler, taxis:
+
+1.-Expedición por permiso ... 46.00 VECES
+
+2.- Revalidación por permiso ... 46.00 VECES
+
+3.- Transferencia de la titularidad entre terceros con autorización ... 50.00 VECES
+
+4.- Transferencia de la titularidad por permiso de defunción ... 46.00 VECES
+
+5.- Copia certificada de permiso ... 8.00 VECES
+
+6.- Modificación de permiso ... 9.00 VECES
+
+7.- Cambio de beneficiario … 16.00 VECES
+
+b).- Turístico y escolar:
+
+I.- Expedición por permiso.
+
+1).- Turísticos ... 30.00 VECES
+
+2).- Escolar ... 29.00 VECES
+
+II.- Revalidación permiso:
+
+a).- Turísticos ... 30.00 VECES
+
+b).- Escolar ... 29.00 VECES
+
+III.- Transferencia de la titularidad entre terceros con autorización:
+
+1).- Turísticos ... 30.00 VECES
+
+2).- Escolar … 29.00 VECES
+
+IV.- Copia certificada de permiso ... 7.00 VECES
+
+V.- Modificación de permiso ... 9.00 VECES
+
+c).- De carga y arrastre:
+
+I.- Expedición por permiso.
+
+1) Carga pickup o camioneta sin modificación ... 46.00 VECES
+
+2) Carga en general y arrastre pesado ... 60.00 VECES
+
+3) Carga y arrastre ligero ... 8.00 VECES
+
+II.- Revalidación por permiso.
+
+1) Carga pickup o camioneta sin modificación ... 46.00 VECES
+
+2) Carga en general y arrastre pesado ... 60.00VECES
+
+3) Carga y arrastre ligero ... 8.00 VECES
+
+III.- Transferencia de la titularidad entre terceros con autorización ... 50.00 VECES
+
+IV.- Copia certificada de permiso ... 9.00 VECES
+
+V.- Modificación de permiso ... 9.00 VECES
+
+II).- Expedición de cartas:
+
+1.- Carta de operador sustituto activo con permiso ... 2.00 VECES
+
+2.- Carta de operador sustituto activo con suspensión ... 4.00 VECES
+
+III).- Concesión de transporte público masivo y de personal:
+
+a).- Por 1 a 15 años por unidad autorizada:
+
+1.- Expedición de concesión … 30.00 VECES
+
+2.- Revalidación de concesión ... 30.00 VECES
+
+3.- Modificación de concesión por ampliación de parque vehicular ... 30.00 VECES
+
+b).- De 15 a 30 años por unidad autorizada:
+
+1.- Expedición de concesión ... 110.00 VECES
+
+2.- Revalidación de concesión ... 110.00 VECES
+
+3.- Modificación de concesión por ampliación de parque vehicular … 110.00 VECES
+
+D.- EXPEDICIÓN DE PERMISOS TRASLADO DE SUSTANCIAS PELIGROSAS.
+
+I.- Para trasladar dentro de los límites de la ciudad, vehículos con residuos peligrosos, sustancias toxicas, gasolina y/o explosivos. Siempre y cuando la persona física o moral cuente con autorización para el manejo de estos:
+
+a).- Por un día ... 10.00 VECES
+
+b).- Por un mes ... 55.00 VECES
+
+c).- Por un año ... 137.00 VECES
+
+E.- SERVICIOS DE CONTROL VEHICULAR DEL SERVICIO PÚBLICO DE TRANSPORTE:
+
+1.- Anuencia para adquirir engomado ... 5.00 VECES
+
+2.- Constancia de no adeudo ... 1.25 VECES
+
+3.- Alta de unidad ... 6.25 VECES
+
+4.- Baja de unidad ... 4.00 VECES
+
+5.- Cambio de unidad ... 8.00 VECES
+
+6.- Expedición de autorización temporal para circular sin placas ... 25.00 VECES
+
+F.- EXPEDICIÓN ANUENCIA PARA LA INSTALACIÓN DE PUBLICIDAD AUDIOVISUAL:
+
+1.- En unidades de transporte público urbano ... 6.50 VECES
+
+2.- Publicidad gráfica por m2. ... 2.00 VECES
+
+3.- Publicidad mediante perifoneo en vehículos ... 15.00 VECES
+
+G.- EXPEDICIÓN DE DOCUMENTOS, CERTIFICADOS, CONSTANCIAS, ENGOMADOS, HOLOGRAMAS Y COPIAS:
+
+1.- Expedición de identificación para operadores de transporte público y Empresas de Redes de Transporte (ERT) ... 8.00 VECES
+
+2.- Expedición de holograma engomado para control de revisión mecánica, con vigencia de seis meses ... 4.50 VECES
+
+3.- Expedición de engomado para identificación de taxis ... 1.15 VECES
+
+4.- Expedición de autorización de cambio de color ... 10.00 VECES
+
+5.- Expedición de autorización de cambio de ruta ... 20.00 VECES
+
+6.- Capacitación y adquisición de cédula de conductor de transporte público ... 1.50 VECES
+
+7.- Expedición de engomado QR ... 5.00 VECES
+
+IV.- POR SERVICIOS QUE PRESTA EL INSTITUTO DE MOVILIDAD SUSTENTABLE DEL ESTADO DE BAJA CALIFORNIA, PARA EL MEJORAMIENTO DE LA MOVILIDAD SOSTENIBLE Y LA ACCESIBILIDAD EN EL ESTADO EN PARTICULAR APLICABLE A PRESTADORES DEL SERVICIO PÚBLICO Y PRIVADO DE MOVILIDAD Y TRANSPORTE EN MEXICALI.
+
+VECES UNIDAD DE MEDIDA
+
+Y ACTUALIZACIÓN
+
+A.- POR RECEPCIÓN, ANÁLISIS Y EMISIÓN DE FACTIBILIDAD DE OPINIONES TÉCNICAS DE CONGRUENCIA DE RUTAS DE TRANSPORTE PÚBLICO DE PASAJEROS, RUTAS DE CARGA Y RUTAS TURÍSTICAS, INCLUYE LA DEFINICIÓN DE TIPO DE TRANSPORTE PÚBLICO, CARACTERÍSTICAS Y DIMENSIONES DE LOS RECORRIDOS:
+
+1.- Por recepción, revisión y análisis revisión de solicitudes relacionadas con las concesiones dentro y fuera de la mancha urbana ... 3.00 VECES
+
+2.- Por ruta o fracción de modificación de ruta dentro de la mancha urbana dentro de los límites municipales ... 27.00 VECES
+
+3.- Por ruta o fracción de ampliación de ruta dentro de la mancha urbana dentro de los límites municipales ... 27.00 VECES
+
+4.- Por ruta o fracción de ampliación de ruta fuera de la mancha urbana dentro de los límites municipales ... 27.00 VECES
+
+5.- Por ruta o fracción de ampliación de ruta fuera de la mancha urbana dentro de los límites municipales ... 27.00 VECES
+
+6.- Por ruta nueva dentro de la mancha urbana dentro de los límites municipales 27.00 VECES
+
+7.- Por ruta nueva fuera de la mancha urbana dentro de los límites municipales 27.00 VECES
+
+B.- POR ANÁLISIS Y EMISIÓN DE FACTIBILIDAD DE OPINIÓN TÉCNICA DE CONGRUENCIA PARA LA UBICACIÓN O UTILIZACIÓN DE SITIOS EXCLUSIVOS PARA EL TRANSPORTE PÚBLICO Y OTROS, INCLUYE LA DEFINICIÓN DE LAS CARACTERÍSTICAS GEOMÉTRICAS:
+
+1.- A solicitud del interesado ... 20.00 VECES
+
+C.- EXPEDICIÓN DE AUTORIZACIONES DE ZONAS DE TRANSPORTE PÚBLICO COMO SON CIERRES DE CIRCUITO, LANZADERAS Y ZONAS DE ASCENSO Y DESCENSO PARA EMPRESAS O AGRUPACIONES EN LO ESPECÍFICO.
+
+1. Por análisis de solicitud ubicación dentro del primer cuadro y corredores de la ciudad … 20.00 VECES
+
+2.- Por análisis de solicitud ubicación fuera del primer cuadro y corredores de la ciudad ... 13.00 VECES
+
+3.- Por reubicación dentro del primer cuadro y corredores comerciales de la ciudad ... 16.00 VECES
+
+4.- Por reubicación fuera del primer cuadro y corredores comerciales de la ciudad ... 10.00 VECES
+
+5.- Autorización para estacionamiento de transporte público para:
+
+a). Espacio por unidad ... 11.00 VECES
+
+D.- POR ANÁLISIS Y EMISIÓN DE FACTIBILIDAD DE OPINIÓN TÉCNICA PARA AUTORIZACIÓN DE CIERRES DE CIRCUITO, LANZADERAS Y ZONAS DE ASCENSO Y DESCENSO, A SOLICITUD DEL INTERESADO ... 25.00 VECES
+
+E.- HABILITADO Y REHABILITADO DE ZONAS DE TRANSPORTE PÚBLICO COMO SON CIERRES DE CIRCUITO, LANZADERAS Y ZONAS DE ASCENSO Y DESCENSO PARA EMPRESAS O AGRUPACIONES EN LO ESPECIFICO ... 27.50 VECES
+
+F.- SERVICIOS TÉCNICOS DE PLANEACIÓN DEL TRANSPORTE:
+
+1.- Por copia de la traza gráfica de rutas ... 25.00 VECES
+
+2.- Por copia de la traza digital de rutas ... 50.00 VECES
+
+3.- Por expedición de información digitalizada de itinerarios de ruta en la zona urbana … 12.00 VECES
+
+4.- Por expedición de información digitalizada de itinerarios de ruta en la zona suburbana 10.00 VECES
+
+G.- EXPEDICIÓN, REVALIDACIÓN Y TRANSFERENCIA DE PERMISOS Y CONCESIONES PARA PRESTAR SERVICIO PÚBLICO DE TRANSPORTE Y OTROS:
+
+I).- De alquiler o radio taxi, turístico, escolar y carga, por permiso:
+
+a).- De alquiler o radio taxi:
+
+1.- Expedición por permiso ... 350.00 VECES
+
+2.- Revalidación por permiso ... 36.00 VECES
+
+3.- Transferencia de la titularidad entre terceros por permiso ... 70.00 VECES
+
+4.- Transferencia de la titularidad por permiso de defunción ... 70.00 VECES
+
+5.- Copia certificada de permiso ... 9.00 VECES
+
+6.- Modificación de permiso ... 18.00 VECES
+
+7.- Cambio de beneficiario ... 18.00 VECES
+
+8.- Expedición de autorización para operar un sitio de taxi ... 30.00 VECES
+
+9.- Expedición de autorización para operar una base de radio taxi ... 100.00 VECES
+
+10.- Por transferencia de autorización para la operación de una base de radio taxi 30.00 VECES
+
+11.- Revalidación de autorización para operar un sitio de taxi ... 15.00 VECES
+
+12.- Revalidación de autorización para operar un sitio de radio taxi ... 20.00 VECES
+
+13.- Por revalidación extemporánea de la autorización para operar un sitio o una base de radio taxi y/o taxi ejecutivo ... 11.00 VECES
+
+14.- Por elaboración de dictamen de cambio de domicilio de una base de radio taxi 10.00 VECES
+
+15.- Por elaboración de dictamen de factibilidad de incremento de parque vehicular de un sitio de taxi, cobro por unidad ... 2.00 VECES
+
+b).- Turístico y escolar:
+
+I.- Expedición por permiso ... 50.00 VECES
+
+II.- Revalidación de permiso:
+
+1).- Turísticos ... 23.00 VECES
+
+2).- Escolar ... 27.00 VECES
+
+III.- Transferencia de la titularidad entre terceros por permiso:
+
+1).- Turísticos ... 50.00 VECES
+
+2).- Escolar ... 50.00 VECE5
+
+IV.- Copia certificada de permiso ... 7.00 VECES
+
+V.- Modificación de permiso ... 18.00 VECES
+
+c).- De carga y grúas:
+
+1.- Expedición por permiso de carga y arrastre pesado ... 100.00 VECES
+
+2.- Expedición por permiso de carga y arrastre ligero ... 8.00 VECES
+
+3.- Revalidación por permiso de carga y arrastre pesado ... 50.00 VECES
+
+4 .- Revalidación por permiso de carga y arrastre ligero ... 50.00 VECES
+
+5.- Transferencia de la titularidad entre terceros con autorización ... 39.00 VECES
+
+6.- Copia certificada de permiso ... 9.00 VECES
+
+7.- Modificación de permiso ... 9.00 VECES
+
+II).- Expedición de cartas:
+
+1.- Carta de operador sustituto activo con permiso ... 2.00 VECES
+
+2.- Carta de operador sustituto activo con suspensión ... 4.00 VECES
+
+III).- Concesión de transporte público masivo y de personal:
+
+a).- Por 1 a 15 años por unidad autorizada:
+
+1.- Expedición de concesión … 55.00 VECES
+
+2.- Revalidación de concesión ... 24.00 VECES
+
+3.- Modificación de concesión por ampliación de parque vehicular ... 12.00 VECES
+
+b).- De 15 a 30 años por unidad autorizada:
+
+1.- Expedición de concesión ... 110.00 VECES
+
+2.- Revalidación de concesión ... 110.00 VECES
+
+3.- Modificación de concesión por ampliación de parque vehicular ... 110.00 VECES
+
+H.- EXPEDICIÓN DE PERMISOS TRASLADO DE SUSTANCIAS PELIGROSAS
+
+I).- Para trasladar dentro de los límites de la ciudad, vehículos con residuos peligrosos, sustancias toxicas, gasolina y/o explosivos. Siempre y cuando la persona física o moral cuente con autorización para el manejo de estos:
+
+a).- Por un día ... 10.00 VECES
+
+b).- Por un mes ... 55.00VECES
+
+c).- Por un año ... 137.00 VECES
+
+I.- SERVICIOS DE CONTROL VEHICULAR DEL SERVICIO PÚBLICO DE TRANSPORTE:
+
+1.- Anuencia para adquirir engomado … 5.00 VECES
+
+2.- Anuencia para adquirir taxímetro ... 1.25 VECES
+
+3.- Constancia de no adeudo ... 1.25 VECES
+
+4.- Alta de unidad ... 6.25 VECES
+
+5.- Baja de unidad ... 5.00 VECES
+
+6.- Cambio de unidad ... 9.50 VECES
+
+7.- Expedición de autorización temporal para circular sin placas ... 25.00 VECES
+
+J.- EXPEDICIÓN ANUENCIA PARA LA DE INSTALACIÓN PUBLICIDAD AUDIOVISUAL
+
+1.- En unidades de unidades (sic) de transporte público urbano ... 6.50 VECES
+
+2.- Publicidad gráfica por m2 2.00 VECES
+
+3.- Publicidad mediante perifoneo en vehículos 15.00 VECES
+
+K.- EXPEDICIÓN DE DOCUMENTOS, CERTIFICADOS, CONSTANCIAS, ENGOMADOS, HOLOGRAMAS Y COPIAS:
+
+1.- Expedición de identificación para operadores de transporte público y Empresas de Redes de Transporte (ERT) ... 8.00 VECES
+
+2.- Expedición de holograma engomado para control de revisión mecánica, con vigencia de seis meses ... 4.50 VECES
+
+3.- Expedición de engomado para identificación de taxis ... 1.15 VECES
+
+4.- Expedición de autorización de cambio de color ... 10.00 VECES
+
+5.- Expedición de autorización de cambio de ruta. 20.00 VECES
+
+6.- Capacitación y adquisición de cédula de conductor de transporte público ... 3.00 VECES
+
+7.- Expedición de engomado QR ... 5.00 VECES
+
+V.- POR SERVICIOS QUE PRESTA EL INSTITUTO DE MOVILIDAD SUSTENTABLE DEL ESTADO DE BAJA CALIFORNIA, PARA EL MEJORAMIENTO DE LA MOVILIDAD SOSTENIBLE Y LA ACCESIBILIDAD EN EL ESTADO EN PARTICULAR APLICABLE A PRESTADORES DEL SERVICIO PÚBLICO Y PRIVADO DE MOVILIDAD Y TRANSPORTE EN ENSENADA.
+
+VECES UNIDAD DE MEDIDA
+
+Y ACTUALIZACIÓN
+
+A.- POR RECEPCIÓN, ANÁLISIS Y EMISIÓN DE FACTIBILIDAD DE OPINIONES TÉCNICAS DE CONGRUENCIA DE RUTAS DE TRANSPORTE PÚBLICO DE PASAJEROS, RUTAS DE CARGA Y RUTAS TURÍSTICAS, INCLUYE LA DEFINICIÓN DE TIPO DE TRANSPORTE PÚBLICO, CARACTERÍSTICAS Y DIMENSIONES DE LOS RECORRIDOS:
+
+1.- Por ruta o fracción de modificación de ruta dentro de la mancha urbana dentro de los límites municipales ... 25.30 VECES
+
+2.- Por ruta o fracción de modificación de ruta fuera de la mancha urbana dentro de los límites municipales ... 38.50 VECES
+
+3.- Por ruta o fracción de ampliación de ruta dentro de la mancha urbana dentro de los límites municipales... 25.30 VECES
+
+4.- Por ruta o fracción de ampliación de ruta fuera de la mancha urbana dentro de los límites municipales ... 38.50 VECES
+
+5.- Por ruta nueva dentro de la mancha urbana dentro de los límites municipales ... 25.30 VECES
+
+6.- Por ruta nueva fuera de la mancha urbana dentro de los límites municipales ... 38.50 VECES
+
+B.- EXPEDICIÓN DE AUTORIZACIONES DE ZONAS DE TRANSPORTE PÚBLICO COMO SON CIERRES DE CIRCUITO, LANZADERAS Y ZONAS DE ASCENSO Y DESCENSO PARA EMPRESAS O AGRUPACIONES EN LO ESPECÍFICO.
+
+1.- Por ubicación dentro del primer cuadro de la ciudad ... 23.00 VECES
+
+2.- Por ubicación o reubicación dentro de corredores comerciales de la ciudad ... 35.00 VECES
+
+3.- Por ubicación o reubicación fuera del primer cuadro de la ciudad y fuera de los corredores comerciales de la ciudad ... 23.00 VECES
+
+C.- EXPEDICIÓN, REVALIDACIÓN Y TRANSFERENCIA DE PERMISOS Y CONCESIONES PARA PRESTAR SERVICIO PÚBLICO DE TRANSPORTE Y OTROS:
+
+I).- De alquiler, taxis, turístico, escolar y carga, por permiso:
+
+a).- De alquiler, taxis:
+
+1.- Expedición por permiso ... 105.00 VECES
+
+2.- Revalidación por permiso ... 105.00 VECES
+
+3.- Transferencia de la titularidad entre terceros con autorización ... 114.00 VECES
+
+4.- Transferencia de la titularidad por permiso de defunción ... 46.00 VECES
+
+5.- Copia certificada de permiso ... 8.75 VECES
+
+6.- Modificación de permiso ... 9.00 VECES
+
+7.- Cambio de beneficiario ... 16.00 VECES
+
+8.- Extemporáneo adicional por unidad ... 9.90 VECES
+
+b).- Turístico y escolar:
+
+I.- Expedición por permiso.
+
+1).- Turísticos ... 30.00 VECES
+
+2).- Escolar ... 40.00 VECES
+
+II.- Revalidación por permiso
+
+1).- Turísticos ... 30.00 VECES
+
+2).- Escolar ... 40.00 VECES
+
+III.- Transferencia de la titularidad entre terceros con autorización:
+
+1).- Turísticos ... 36.00 VECES
+
+2).- Escolar ... 36.00 VECES
+
+IV.- Copia certificada de permiso ... 7.00 VECES
+
+V.- Modificación de permiso ... 9.00 VECES
+
+c).- De carga y arrastre:
+
+1.- Expedición por permiso para carga y arrastre pesado ... 49.50 VECES
+
+3.- Expedición por permiso para carga y arrastre ligero ... 8.00 VECES
+
+4.- Revalidación por permiso para carga y arrastre pesado ... 55.00 VECES
+
+5.- Revalidación por permiso para carga y arrastre ligero … 8.00 VECES
+
+6.- Transferencia de la titularidad entre terceros con autorización ... 55.00 VECES
+
+7.- Copia certificada de permiso ... 9.00 VECES
+
+8.- Modificación de permiso ... 9.00 VECES
+
+II).- Expedición de cartas:
+
+1.- Carta de operador sustituto activo con permiso ... 2.00 VECES
+
+2.- Carta de operador sustituto activo con suspensión ... 4.00 VECES
+
+III).- Concesión de transporte público masivo y de personal:
+
+a).- Por 1 a 15 años por unidad autorizada:
+
+1.- Expedición de concesión ... 69.00 VECES
+
+2.- Revalidación de concesión ... 69.00 VECES
+
+3.- Modificación de concesión por ampliación de parque vehicular ... 69.00 VECES
+
+b).- De 15 a 30 años por unidad autorizada:
+
+1.- Expedición de concesión ... 110.00 VECES
+
+2.- Revalidación de concesión ... 110.00 VECES
+
+3.- Modificación de concesión por ampliación de parque vehicular ... 110.00 VECES
+
+D.- EXPEDICIÓN DE PERMISOS TRASLADO DE SUSTANCIAS PELIGROSAS
+
+I.- Para trasladar dentro de los límites de la ciudad, vehículos con residuos peligrosos, sustancias toxicas, gasolina y/o explosivos. Siempre y cuando la persona física o morales (sic) cuente con autorización para el manejo de estos:
+
+a).- Por un día ... 10.00 VECES
+
+b).- Por un mes ... 55.00 VECES
+
+c).- Por un año ... 137.00 VECES
+
+E.- SERVICIOS DE CONTROL VEHICULAR DEL SERVICIO PÚBLICO DE TRANSPORTE:
+
+1.- Anuencia para adquirir engomado ... 5.00 VECES
+
+2.- Anuencia para adquirir y revalidación taxímetro ... 5.00 VECES
+
+3.- Constancia de no adeudo ... 1.25 VECES
+
+4.- Alta de unidad ... 7.00 VECES
+
+5.- Baja de unidad ... 7.00 VECES
+
+6.- Cambio de unidad ... 7.70 VECES
+
+7.- Expedición de autorización temporal para circular sin placas ... 25.00 VECES
+
+F.- EXPEDICIÓN ANUENCIA PARA LA INSTALACIÓN (SIC) PUBLICIDAD AUDIOVISUAL.
+
+1.- En unidades de transporte público urbano ... 6.50 VECES
+
+2.- Publicidad gráfica por m2 ... 2.00 VECES
+
+3.- Publicidad mediante perifoneo ... 15.00 VECES
+
+G.- EXPEDICIÓN DE DOCUMENTOS, CERTIFICADOS, CONSTANCIAS, ENGOMADOS, HOLOGRAMAS Y COPIAS:
+
+1.- Expedición de identificación para operadores de transporte público y Empresas de Redes de Transporte (ERT) ... 6.00 VECES
+
+2.- Expedición de holograma engomado para control de revisión mecánica, con vigencia de seis meses ... 4.50 VECES
+
+3.- Expedición de engomado para identificación de taxis ... 1.15 VECES
+
+4.- Expedición de autorización de cambio de color ... 10.00 VECES
+
+5.- Expedición de autorización de cambio de ruta ... 20.00 VECES
+
+6.- Capacitación y adquisición de cédula de conductor de transporte público ... 2.00 VECES
+
+7.-Expedición de engomado QR ... 5.00 VECES
+
+8.- Revalidación de Tarjetón ... 6.00 VECES
+
+VI.- POR SERVICIOS QUE PRESTA EL INSTITUTO DE MOVILIDAD SUSTENTABLE DEL ESTADO DE BAJA CALIFORNIA, PARA EL MEJORAMIENTO DE LA MOVILIDAD SOSTENIBLE Y LA ACCESIBILIDAD EN EL ESTADO EN PARTICULAR APLICABLE A PRESTADORES DEL SERVICIO PÚBLICO Y PRIVADO DE MOVILIDAD Y TRANSPORTE EN EL ESTADO DE BAJA CALIFORNIA.
+
+VECES UNIDAD DE MEDIDA
+
+Y ACTUALIZACIÓN
+
+A.- SERVICIOS DE CONTROL VEHICULAR EN VEHÍCULOS DE EMPRESAS DE REDES DE TRANSPORTE (ERT):
+
+1.- Anuencia por cada vehículo adscrito a la Red de Transporte y que opere mediante Empresas de Transporte (ERT) por año ... 30.00 VECES
+
+2.- Autorización para la operación de una Empresa de Redes de Transporte (ERT) dentro de los límites territoriales del estado ... 2,130.00 VECES
+
+3.- Renovación de la autorización para la operación de una Empresa de Redes de Transporte (ERT) en los límites territoriales del estado ... 2,130,00 VECES
+
+4.- Cancelación de la autorización para la operación de una Empresa de Redes de Transporte (ERT) en los límites territoriales del estado ... 60.00 VECES
+
+5.- Autorización para la operación de servicios de entrega de alimentos por medio de aplicaciones digitales dentro de los límites territoriales del estado ... 900.00 VECES
+
+6.- Renovación de la autorización para la operación de servicios de entrega de alimentos por medio de aplicaciones digitales dentro de los límites territoriales del estado ... 900.00 VECES
+
+7.- Cancelación de la autorización para la operación de servicios de entrega de alimentos por medio de aplicaciones digitales dentro de los límites territoriales del estado ... 60.00 VECES
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2020)</small>
+
+ARTÍCULO 11 TER. - Para efectos de este Capítulo se entenderá por:
+
+MANCHA URBANA.- Al área geoestadística urbana con población mayor de 2,500 habitantes, que sea definida, descrita o analizada por el Instituto de Movilidad Sustentable del Estado de Baja California en base al "Manual de Cartografía Geoestadística" o el instrumento técnico que lo sustituya y sea publicado por el Instituto Nacional de Estadística, Geografía e Informática (en lo sucesivo INEGI).
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2020)</small>
+
+ARTÍCULO 11 QUATER.- Otros servicios que presta el Instituto de Movilidad Sustentable del Estado de Baja California, causarán derechos, los cuales se cobrarán de conformidad con los presupuestos que al efecto se realicen por esta dependencia, los que en todo caso serán proporcionales al costo del servicio.
+
 ### CAPÍTULO III
 
 SERVICIOS DE LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO.
@@ -2222,3 +3148,11 @@ A la entrada en vigor de la presente reforma, se derogan los artículos 8 BIS y 
 ###### ARTÍCULO TERCERO.
 
 A la entrada en vigor de la presente reforma, se deroga (sic) artículo TERCERO TRANSITORIO del Decreto número 39 mediante el cual se reforman los artículos 133, 134, 135, 136 y se reforma el Título Segundo y adiciona el Capítulo XXII, las Secciones Primera, Segunda, Tercera y los Artículos 156-46, 156-47, 156-48 y 156-49 de la Ley de Hacienda del Estado de Baja California, publicado en fecha 31 de diciembre de 2019 en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA LOS ARTÍCULOS 11 BIS, 11 TER Y 11 QUATER A LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2020”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las contribuciones señaladas en la presente reforma a la Ley de Ingresos del Estado de Baja California para el Ejercicio Fiscal del año 2020, serán los vigentes y por ende aplicables en todo el Estado en materia del servicio público de transporte, por lo tanto los Municipios de la entidad, contarán con un plazo no mayor a 60 días a partir de la publicación del presente Decreto, para dejar de cobrarlos.
