@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2020-02-12"
+last_updated: "2020-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2020.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -939,7 +939,7 @@ I.- Presidir las sesiones del Ayuntamiento, con voz y voto y convocar al Ayuntam
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-II. Nombrar y remover libremente al funcionariado y personas empleadas de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer mediante terna al Ayuntamiento la aprobación de la persona titular de la Dirección de Seguridad Pública Municipal o su equivalente;
+II.- Nombrar y remover libremente al funcionariado y personas empleadas de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer mediante terna al Ayuntamiento la aprobación de la persona titular de la Dirección de Seguridad Pública Municipal o su equivalente;
 
 III.- Informar oportunamente al Ayuntamiento, acerca de la ejecución de los acuerdos aprobados;
 
@@ -949,27 +949,29 @@ V.- Resolver los conflictos de competencia entre las dependencias municipales;
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VI. Designar con la aprobación del Ayuntamiento, a las y los integrantes de los Consejos de Administración, Juntas Directivas u órganos equivalentes, a quienes ocupen la Presidencia, Dirección o Gerencia y Comisarías de los organismos descentralizados y empresas de participación municipal; en los casos de la designación de los Consejos de Administración, a quienes ocupen la Presidencia, Dirección o Gerencia de los organismos operadores municipales del agua, se atenderá a lo dispuesto por la Ley del Agua del Estado de Chihuahua;
+VI.- Designar con la aprobación del Ayuntamiento, a las y los integrantes de los Consejos de Administración, Juntas Directivas u órganos equivalentes, a quienes ocupen la Presidencia, Dirección o Gerencia y Comisarías de los organismos descentralizados y empresas de participación municipal; en los casos de la designación de los Consejos de Administración, a quienes ocupen la Presidencia, Dirección o Gerencia de los organismos operadores municipales del agua, se atenderá a lo dispuesto por la Ley del Agua del Estado de Chihuahua;
 
 > <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VII. Tomar la protesta legal, al funcionariado municipal que conforme a la ley deban otorgarla ante él, en los siguientes términos:
+VII.- Tomar la protesta legal, al funcionariado municipal que conforme a la ley deban otorgarla ante él, en los siguientes términos:
 
 "¿protesta usted desempeñar con eficiencia, lealtad y patriotismo, el cargo de . . . que en este acto le confiero, cumpliendo para ello todas las disposiciones legales que nos rigen, si así no lo hiciera, que el estado y el municipio os lo demanden";
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-VIII. Conceder licencias por causa justificada y con goce de sueldo por una vez al año, al funcionariado y personas empleadas al servicio del municipio, hasta por diez días hábiles y sin goce de sueldo, por una vez al año, hasta por sesenta días, pudiendo el mismo servidor gozar de las dos licencias;
+VIII.- Conceder licencias por causa justificada y con goce de sueldo por una vez al año, al funcionariado y personas empleadas al servicio del municipio, hasta por diez días hábiles y sin goce de sueldo, por una vez al año, hasta por sesenta días, pudiendo el mismo servidor gozar de las dos licencias;
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-IX. Con respeto de la garantía de audiencia, imponer a las y los servidores públicos municipales, las correcciones disciplinarias que fijen las leyes y reglamentos, con motivo de las faltas y responsabilidades administrativas en que incurran en el desempeño de sus funciones;
+IX.- Con respeto de la garantía de audiencia, imponer a las y los servidores públicos municipales, las correcciones disciplinarias que fijen las leyes y reglamentos, con motivo de las faltas y responsabilidades administrativas en que incurran en el desempeño de sus funciones;
 
 X.- Sin perjuicio de lo establecido en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, mandar en jefe, a los cuerpos de seguridad pública municipal y solicitar del Ejecutivo Estatal, el auxilio de las fuerzas públicas a su cargo, para hacer cumplir las resoluciones de las autoridades municipales.
 
 Asimismo, en caso necesario, por el conducto indicado solicitar el auxilio de la fuerza pública federal;
 
-XI.- Practicar visitas a las secciones municipales y comisarías, cuando lo estime conveniente, o lo requieran las necesidades de las mismas;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2020)</small>
+
+XI.- Practicar visitas a las secciones municipales y comisarías, cuando lo estime conveniente, o lo requieran las necesidades de las mismas; así como promover auditorías cuando se trate del manejo de los recursos públicos.
 
 XII.- Representar al Municipio, con todas las facultades de un apoderado general; nombrar asesores y delegados y otorgar poderes generales y especiales para pleitos y cobranzas;
 
@@ -1019,7 +1021,7 @@ XXIX.- Enviar al Ejecutivo del Estado, los proyectos y programas municipales que
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XXX. Proporcionar informes, cuando sea requerido para ello, al Ejecutivo del Estado y al Congreso del Estado, sobre cualquiera de los ramos de la Administración Municipal;
+XXX.- Proporcionar informes, cuando sea requerido para ello, al Ejecutivo del Estado y al Congreso del Estado, sobre cualquiera de los ramos de la Administración Municipal;
 
 XXXI.- Llevar a cabo, por conducto de la dependencia correspondiente, la construcción, mantenimiento, control y vigilancia, de locales destinados a prestar al público el servicio de estacionamiento de vehículos;
 
@@ -1029,7 +1031,7 @@ XXXIII.- Cumplir las disposiciones contenidas en las leyes y reglamentos, así c
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XXXIV. Recabar de las y los servidores públicos municipales, la declaración de situación patrimonial y rendir la suya propia en el plazo y términos que establece éste Código;
+XXXIV.- Recabar de las y los servidores públicos municipales, la declaración de situación patrimonial y rendir la suya propia en el plazo y términos que establece éste Código;
 
 XXXV.- Elaborar la tarifa de valores para la enajenación de terrenos municipales, por conducto de la dependencia correspondiente, en base a los lineamientos contemplados en la ley de catastro;
 
@@ -1037,7 +1039,7 @@ XXXVI.- Establecer las bases conforme a las cuales deban llevarse a cabo los reg
 
 > <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
-XXXVII. Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Nacional Electoral les entregue la constancia que los acredite como tales y antes de tomar posesión de su cargo.
+XXXVII.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Nacional Electoral les entregue la constancia que los acredite como tales y antes de tomar posesión de su cargo.
 
 > <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2005)</small>
 
@@ -1961,7 +1963,9 @@ VIII.- Realizar pagos derivados de los convenios celebrados con la Federación y
 
 IX.- Llevar la contabilidad, el control del presupuesto y elaborar la cuenta pública anual que debe presentar el Ayuntamiento al Congreso del Estado, acompañando los cortes de caja mensuales y los documentos necesarios para comprobar la conformidad de los gastos con las partidas del presupuesto y la exactitud y la justificación de ellos;
 
-X.- Establecer y ejecutar las medidas de control y vigilancia administrativa, contable y financiera de los organismos descentralizados y empresas de participación municipal;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2020)</small>
+
+X.- Establecer y ejecutar las medidas de control y vigilancia administrativa, contable y financiera de las presidencias seccionales, comisarías, así como de organismos descentralizados y empresas de participación municipal;
 
 XI.- Intervenir en todas las operaciones, en que se haga uso del crédito público municipal y en los actos y contratos de los que resulten derechos y obligaciones de carácter económico, para el Municipio;
 
@@ -5452,3 +5456,9 @@ En tanto se expide la Ley del Procedimiento Administrativo del Estado, se aplica
 Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
 
 Los procedimientos administrativos y demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+P.O. 16 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/0704/2020 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
