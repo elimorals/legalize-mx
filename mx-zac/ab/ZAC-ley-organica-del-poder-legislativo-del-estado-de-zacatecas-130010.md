@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2020-02-05"
+last_updated: "2020-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -1275,9 +1275,11 @@ Los legisladores que integren la Comisión de Régimen Interno y Concertación P
 
 La Comisión de Régimen Interno y Concertación Política tendrá, de entre los que la integran, un Presidente y el número de Secretarios que conformen dicha Comisión.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2020)</small>
+
 ###### Artículo 119.
 
-La Presidencia de la Comisión de Régimen Interno y Concertación Política será rotativa, se respetará la proporcionalidad en la representación de los grupos parlamentarios. Se renovará cada seis meses conforme al calendario y en el orden que por acuerdo determine el Pleno.
+La Presidencia de la Comisión de Régimen Interno y Concertación Política será rotativa y de acuerdo con el principio de paridad de género; se respetará la proporcionalidad en la representación de los grupos parlamentarios. Se renovará cada seis meses conforme al calendario y en el orden que por acuerdo determine el Pleno.
 
 ###### Artículo 120.
 
@@ -1361,9 +1363,11 @@ Al concluir el periodo de receso, el Presidente de la Comisión Permanente rendi
 
 ### Capítulo Quinto. Comisión de Planeación, Patrimonio y Finanzas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2020)</small>
+
 ###### Artículo 129.
 
-La Comisión de Planeación, Patrimonio y Finanzas se integrará por dos diputados de cada grupo parlamentario, los que gozarán de voz y voto ponderado. La Presidencia de la Comisión será rotativa. Se renovará cada seis meses respetando la proporcionalidad de la representación de los grupos parlamentarios, conforme al calendario y en el orden que por acuerdo determine el Pleno.
+La Comisión de Planeación, Patrimonio y Finanzas se integrará por dos diputados de cada grupo parlamentario, los que gozarán de voz y voto ponderado. La Presidencia de la Comisión será rotativa y de acuerdo con el principio de paridad de género. Se renovará cada seis meses respetando la proporcionalidad de la representación de los grupos parlamentarios, conforme al calendario y en el orden que por acuerdo determine el Pleno.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2019)</small>
 
@@ -2462,3 +2466,11 @@ P.O. 5 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 198.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS Y LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 16 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 383.- SE REFORMAN LOS ARTÍCULOS 119 Y 129, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS Y EL ARTÍCULO 43 DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
