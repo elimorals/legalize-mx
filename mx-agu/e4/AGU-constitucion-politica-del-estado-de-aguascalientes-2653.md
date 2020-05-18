@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2020-03-02"
+last_updated: "2020-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -507,11 +507,11 @@ La infracción de esta disposición será sancionada con la pérdida de la inves
 
 El Congreso del Estado se instalará cada tres años, el 15 de septiembre del año de la elección.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2020)</small>
 
 ###### Artículo 24.
 
-El Congreso del Estado tendrá en el año dos períodos ordinarios de sesiones: El primero comenzará el 15 de septiembre y terminará el 31 de diciembre y el segundo comprenderá del 1° de marzo al 30 de junio.
+El Congreso del Estado tendrá en el año dos periodos ordinarios de sesiones. El primero comenzará a partir del 15 de septiembre y no podrá prolongarse sino hasta el 31 de diciembre, el segundo comenzará a partir del 1° de marzo y no podrá prolongarse sino hasta el 30 de junio. El año de la Instalación de la Legislatura el primer periodo deberá comenzar siempre el 15 de septiembre.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -3324,3 +3324,19 @@ P.O. 2 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 317.- ARTICULO ÚNICO.- SE REFORMA EL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado (sic) Aguascalientes y será aplicable a partir del segundo periodo ordinario del segundo año constitucional de sesiones del H. Congreso del Estado de Aguascalientes de la LXIV Legislatura.
+
+###### ARTÍCULO SEGUNDO.
+
+Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía, que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los siguientes 90 días naturales, contados a partir del inicio de vigencia del presente decreto, se realizarán las adecuaciones a la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes y su Reglamento.
