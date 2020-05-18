@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2020-03-02"
+last_updated: "2020-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -1645,15 +1645,17 @@ El Ayuntamiento sesiona válidamente con la asistencia del quórum legal, que es
 
 Las Sesiones del H. Ayuntamiento serán: Ordinarias y Extraordinarias.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 70.
 
 Las sesiones ordinarias y extraordinarias, a su vez podrán tener las siguientes categorías:
 
-I.- De Cabildo Abierto, y
+I.- Solemnes;
 
-II.- Solemnes.
+II.- De Cabildo Abierto, y
+
+III.- A Distancia.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -1767,6 +1769,12 @@ IV.- Cuando en el auditorio se observe alguna falta de respeto para alguno de lo
 
 V.- Cuando se pretenda discutir asuntos de interés particular.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 84 BIS.- Son sesiones A Distancia aquellas que se llevan a cabo a través de herramientas tecnológicas que permiten su desarrollo virtual, en caso de contingencias por causas de fuerza mayor o caso fortuito, que no permitan o dificulten la reunión física de una parte o la totalidad de los integrantes del ayuntamiento.
+
+Estas sesiones se apegarán en lo conducente a lo establecido en los capítulos segundo, tercero, cuarto, quinto y sexto del presente título.
+
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 85.
@@ -1785,11 +1793,13 @@ El Secretario del H. Ayuntamiento, deberá estar presente durante la celebració
 
 Las faltas temporales del Secretario del H. Ayuntamiento, serán suplidas por el funcionario público adscrito a dicha secretaría que le siga en rango. En este caso el Ayuntamiento lo habilitará previo al inicio de los trabajos como Secretario Interino.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 87.
 
-Las Sesiones se celebrarán en el Salón de Cabildo del Palacio Municipal, pudiendo efectuarse en lugar distinto, en los casos en que el Ayuntamiento lo declare previamente, recinto oficial.
+Las Sesiones se celebrarán en el Salón de Cabildos del Palacio Municipal, pudiendo efectuarse en lugar distinto, en los casos en que el Ayuntamiento lo declare previamente, recinto oficial.
+
+Para el caso de las sesiones A Distancia, se considera recinto oficial la oficina del Presidente Municipal, o del Secretario del H. Ayuntamiento en su caso, lo cual se hará constar en el acta respectiva.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2363,13 +2373,15 @@ Si un artículo o grupo de artículos sometidos a discusión en lo particular fu
 
 De toda sesión de cabildo se levantará acta circunstanciada, que deberá ser suscrita por todos los participantes en la sesión.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 168.
 
-Toda resolución o acuerdo del Ayuntamiento, para su plena validez, deberá estar asentado en el acta respectiva y formará parte de ésta como anexo.
+Toda resolución o acuerdo del Ayuntamiento, para su plena validez, deberá estar asentado o referenciado en el acta respectiva y formará parte de ésta como anexo.
 
-Las iniciativas adquieren el carácter de ordenamiento municipal o decreto cuando son aprobadas, promulgadas y publicadas por el Ayuntamiento en el Periódico Oficial del Estado.
+Las iniciativas adquieren el carácter de ordenamiento municipal o decreto cuando son aprobadas, promulgadas y en su caso publicadas por el Ayuntamiento en el Periódico Oficial del Estado.
+
+Los acuerdos asumidos en las sesiones A Distancia tendrán plena validez si se cumple con las formalidades esenciales del procedimiento capitular y queda constancia fehaciente en los medios electrónicos de la convocatoria, presencia a través de herramientas tecnológicas, conocimientos de los asuntos a tratar, posibilidad de emitir sus observaciones sobre las propuestas y el sentido de los votos de cada participante.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -29102,6 +29114,14 @@ SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipa
 P.O. 2 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones de carácter reglamentario municipal que se opongan a lo dispuesto en el presente acuerdo.
+
+P.O. 18 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS".]
 
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
