@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-129545"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-07-09"
-last_updated: "2019-11-25"
+last_updated: "2020-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -430,6 +430,10 @@ Serán sesiones extraordinarias, las demás que se citen para el cumplimiento de
 ###### ARTÍCULO 26.
 
 Las sesiones de las comisiones se celebrarán dentro de los salones que se ubiquen en los inmuebles que ocupa el Congreso del Estado, salvo acuerdo expreso de la comisión; dicho acuerdo contendrá el tiempo, lugar, razones y sesión que se celebrará de esa forma.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+De presentarse una situación de calamidad pública, caso fortuito o de fuerza mayor que constituya un impedimento para la reunión física de los integrantes de la Comisión, previo acuerdo de la mayoría calificada, y durante el tiempo que esta condición permanezca, podrá convocarse a sesiones, para llevar a cabo su desarrollo mediante medios de comunicación digital, que permitan en tiempo real dar cuenta de la deliberación, el debate y la votación vía sistema electrónico. Las sesiones con este carácter serán revestidas con todas las formalidades del proceso legislativo, desahogarán exclusivamente asuntos previamente acordados.
 
 ###### ARTÍCULO 27.
 
@@ -1603,9 +1607,11 @@ El Poder Legislativo producirá por conducto de la Unidad de Informática y Sist
 
 No podrá contener dicha página propaganda, publicidad o información comercial ni de proselitismo político.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 166.
 
-Las sesiones comprendidas dentro de los períodos ordinarios, salvo aquéllas que tengan el carácter de privadas, serán transmitidas en vivo por red informática, por la página de internet y demás medios electrónicos que se estimen adecuados por la Coordinación de Comunicación Social.
+Las sesiones comprendidas dentro de los períodos ordinarios y las sesiones virtuales, salvo aquéllas que tengan el carácter de privadas, serán transmitidas en vivo por red informática, por la página de internet y demás medios electrónicos que se estimen adecuados por la Coordinación de Comunicación Social.
 
 ###### ARTÍCULO 167.
 
@@ -2272,3 +2278,11 @@ P.O. 25 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 332.- ARTÍCULO PRIMERO.- SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 9°; UN PÁRRAFO SEGUNDO AL ARTÍCULO 108; UN PÁRRAFO SEGUNDO AL ARTÍCULO 128 Y ASÍ MISMO SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 152 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- La presente reforma iniciará su vigencia al momento que lo haga la reforma al Reglamento de la Ley Orgánica del Poder Legislativo, a que hace referencia el Artículo siguiente.
+
+SEGUNDO.- La comisión de Reglamentos y Prácticas Parlamentarias a más tardar dentro de los 15 días siguientes a la aprobación del presente Decreto, elaborará y presentará la iniciativa que modifique el Reglamento de la Ley Orgánica del Poder Legislativo, para reglamentar la materia del presente Decreto.
