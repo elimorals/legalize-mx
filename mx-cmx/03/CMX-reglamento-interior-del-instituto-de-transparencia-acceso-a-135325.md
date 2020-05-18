@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-transparencia-acceso-a-135
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-04-11"
-last_updated: "2019-04-11"
+last_updated: "2020-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135325&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-04-04"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MAYO DE 2020.
 
 Reglamento publicado en el Número 70 de la Gaceta Oficial de la Ciudad de México, el jueves 11 de abril de 2019.
 
@@ -978,6 +978,8 @@ XIV. Emitir reconocimientos y diplomas, constancias de participación y certific
 
 XV. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO DE REFORMAS PUBLICADO EN LA G.O DE 18 DE MAYO DE 2020 EL PRESENTE ARTÍCULO PASO DE XXVII A XXVI FRACCIONES; VÉASE LITERALIDAD DEL ACUERDO, PÁGINAS DE LA 66 A LA 67.]</small>
+
 ###### Artículo 22.
 
 Son atribuciones de la Dirección de Estado Abierto, Estudios y Evaluación:
@@ -1032,9 +1034,9 @@ XXIV. Colaborar con las unidades administrativas del Instituto que correspondan,
 
 XXV. Evaluar la efectividad de la Política de Transparencia Proactiva con base en los criterios emitidos por este Instituto, así como por el Sistema Nacional;
 
-XXVI. Conducir la Secretaría Técnica del Comité Editorial, como órgano encargado de desarrollar el Programa Editorial Anual del Instituto, y
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2020)</small>
 
-XXVII. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
+XXVI. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que disponga el Pleno de (sic) Instituto
 
 ###### Artículo 23.
 
@@ -1076,7 +1078,9 @@ XIX. Promover e incentivar la transparencia proactiva en los Sujetos Obligados, 
 
 XX. Promover acciones para fomentar que la información publicada por los Sujetos Obligados sea accesible y de manera focalizada a personas con discapacidad motriz, auditiva, visual, así como personas hablantes en diversas lenguas o idiomas reconocidos; y
 
-XXI. Presentar al Pleno, a más tardar quince días naturales posteriores a la aprobación del Programa Operativo Anual, el proyecto del Programa Editorial Anual del Instituto que el Comité Editorial desarrollará, así como coordinar su ejecución, difusión y distribución, con la participación y apoyo de las unidades administrativas, en el que se deberá procurar que todas las publicaciones se desarrollen en formatos abiertos y accesibles;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2020)</small>
+
+XXI. Presentar al Pleno, de manera posterior a la aprobación del Programa Operativo Anual, el proyecto del Programa Editorial Anual del Instituto que el Comité Editorial desarrollará, así como coordinar su ejecución, difusión y distribución, con la participación y apoyo de la Dirección de Comunicación Social y de las unidades administrativas en sus respectivos ámbitos de competencia, en el que se deberá procurar que todas las publicaciones se desarrollen en formatos abiertos y accesibles;
 
 XXII. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
 
@@ -1122,7 +1126,13 @@ XVIII. Resolver los requerimientos de diseño y producción de las diversas áre
 
 XIX. Administrar las cuentas institucionales de redes sociales; y
 
-XX. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
+> <small>(ADICIONADA, G.O. 18 DE MAYO DE 2020)</small>
+
+XX. Conducir la Secretaría Técnica del Comité Editorial, como órgano encargado de desarrollar el Programa Editorial Anual del Instituto, y
+
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2020)</small>
+
+XXI. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que disponga el Pleno de (sic) Instituto.
 
 ###### Artículo 25.
 
@@ -1373,3 +1383,11 @@ CUARTO. Los procedimientos en trámite ante este Instituto, iniciados con anteri
 QUINTO. La Dirección de Asuntos Jurídicos, continuará con el trámite y la resolución de los procedimientos jurídicos, conforme al Reglamento Interior del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, publicado en la Gaceta Oficial de la Ciudad de México, el 22 de mayo de 2017, hasta en tanto el Instituto opere conforme a la estructura de Ponencias, momento en el cual la Secretaría Técnica returnará los asuntos pendientes de resolución a éstas, para la sustanciación y resolución correspondiente.
 
 SEXTO. A partir de la fecha de entrada en vigor del presente Reglamento Interior, todas las referencias que se realicen en los ordenamientos jurídicos, así como cualquier acto relacionado con la Dirección de Capacitación y Cultura de la Transparencia, la Dirección de Evaluación, Estudios y Gobierno Abierto, la Dirección de Vinculación con la Sociedad, se entenderán hechas a su Dirección de Capacitación para la Cultura de la Transparencia, la Protección de Datos Personales y la Rendición de Cuentas, la Dirección de Estado Abierto, Estudios y Evaluación y la Dirección de Vinculación y Proyección Estratégica, respectivamente.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 18 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "AVISO POR EL QUE SE DA A CONOCER EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, RELATIVAS A LA INTEGRACIÓN Y FUNCIONAMIENTO DEL COMITÉ EDITORIAL".]
+
+ÚNICO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
