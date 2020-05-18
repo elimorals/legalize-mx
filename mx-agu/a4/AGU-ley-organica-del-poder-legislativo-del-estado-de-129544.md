@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2019-11-25"
+last_updated: "2020-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2020 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -188,6 +190,18 @@ La sede del Congreso del Estado es la ciudad capital de la Entidad.
 Se consideran Recintos Oficiales, todas las instalaciones, inmuebles u oficinas del Congreso del Estado que sean utilizadas para los trabajos del Pleno, comisiones y dependencias directivas o administrativas.
 
 El Congreso del Estado en Pleno sesionará únicamente en los Recintos Oficiales, salvo caso fortuito o de fuerza mayor, o cuando por causas especiales lo acuerde el Pleno por mayoría calificada, y sólo provisionalmente para desahogar los asuntos concretos acordados. El Decreto que autorice la declaratoria de nuevos Recintos Oficiales, deberá publicarse en el Periódico Oficial.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+De presentarse una situación de calamidad pública, caso fortuito o de fuerza mayor que constituya un impedimento para la reunión física de los integrantes del Pleno, previo acuerdo de la mayoría calificada, y durante el tiempo que esta condición permanezca, podrá convocarse a sesiones, para llevar a cabo su desarrollo mediante medios de comunicación digital, que permitan en tiempo real dar cuenta de la deliberación, el debate y la votación vía sistema electrónico. Las sesiones con este carácter serán revestidas con todas las formalidades del proceso legislativo, desahogarán exclusivamente asuntos previamente acordados, serán video grabadas y deberán trasmitirse en vivo por la red informática, por la página de internet y demás medios de comunicación que disponga el Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+No podrá convocarse al Pleno para que sesione mediante esta modalidad excepcional, para analizar, deliberar, discutir o votar asuntos que involucren reformas a la Constitución del Estado, o para el nombramiento, designación o la remoción de servidores públicos de los cuales se requiere la intervención del Congreso.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+Las mismas reglas señaladas en el párrafo cuarto de este Artículo, serán aplicables a la Diputación Permanente, Comisiones Ordinarias, Especiales, Comités y la Junta de Coordinación Política, con la finalidad de que puedan sesionar de forma remota válidamente, mediante medios de comunicación digital.
 
 Para el caso de Comisiones, Consejos y Comités, estas deberán sesionar en los Recintos Oficiales, salvo caso fortuito o de fuerza mayor, o cuando por causas especiales así lo acuerde la Comisión por mayoría relativa.
 
@@ -1453,6 +1467,10 @@ Toda persona tiene derecho a solicitar constancias del proceso legislativo, en v
 
 Toda iniciativa deberá ser recibida por la Oficialía de Partes del Poder legislativo. El Secretario General la turnará a la Secretaría de la Mesa Directiva, si el Congreso del Estado se encuentra en período de sesiones, o si está en receso, a la Secretaría de la Diputación Permanente.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+También podrán presentarse las iniciativas, puntos de acuerdo o cualquier promoción en general, que cuenten con firma autógrafa, vía comunicación digital, a través del correo electrónico institucional del Secretario General, debiendo emitir la confirmación correspondiente de su presentación.
+
 ###### ARTÍCULO 109.
 
 Los Diputados que en ejercicio de su facultad constitucional promuevan iniciativas, podrán presentarlas directamente ante el Pleno, en sesión ordinaria, dentro del punto de asuntos generales y acto seguido, hacer entrega de la misma a los Secretarios.
@@ -1588,6 +1606,10 @@ Tampoco será discutido ni votado ningún asunto sobre materia municipal que, si
 ###### ARTÍCULO 128.
 
 Las sesiones del Pleno serán Ordinarias, Extraordinarias, Solemnes, Privadas y Permanentes, su desarrollo y trabajos estarán regulados en términos del Reglamento.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+Para el desahogo de las Sesiones Virtuales, la Secretaria General y la Mesa Directiva garantizarán la organización y funcionamiento que asegure el debido desarrollo de los trabajos legislativos, así como los debates, discusiones y votaciones del Pleno, conforme a lo dispuesto en la Constitución del Estado, la presente Ley y su Reglamento.
 
 ###### ARTÍCULO 129.
 
@@ -1817,7 +1839,13 @@ Al término de cada período ordinario de sesiones, el Congreso del Estado publi
 
 El Poder Legislativo producirá por conducto de la Unidad de Informática y Sistemas de la Información, un portal o página de internet para la difusión de sus actos consultable.
 
-Por medio de dicha página se difundirá los formatos y documentos digitales que establezcan las leyes en materia de transparencia y acceso a la información pública.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2020)</small>
+
+Por medio de dicha página se difundirá (sic) los formatos y documentos digitales que establezcan las leyes en materia de transparencia y acceso a la información pública, así como las sesiones virtuales que se realicen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2020)</small>
+
+Para el desahogo de las sesiones virtuales deberá llevar a cabo la facilitación y aplicación de plataformas digitales y tecnologías de la información y comunicaciones que permitan la comunicación a distancia.
 
 No podrá contener dicha página propaganda, publicidad o información comercial ni de proselitismo político.
 
@@ -2146,3 +2174,11 @@ P.O. 25 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 332.- ARTÍCULO PRIMERO.- SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 9°; UN PÁRRAFO SEGUNDO AL ARTÍCULO 108; UN PÁRRAFO SEGUNDO AL ARTÍCULO 128 Y ASÍ MISMO SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 152 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- La presente reforma iniciará su vigencia al momento que lo haga la reforma al Reglamento de la Ley Orgánica del Poder Legislativo, a que hace referencia el Artículo siguiente.
+
+SEGUNDO.- La comisión de Reglamentos y Prácticas Parlamentarias a más tardar dentro de los 15 días siguientes a la aprobación del presente Decreto, elaborará y presentará la iniciativa que modifique el Reglamento de la Ley Orgánica del Poder Legislativo, para reglamentar la materia del presente Decreto.
