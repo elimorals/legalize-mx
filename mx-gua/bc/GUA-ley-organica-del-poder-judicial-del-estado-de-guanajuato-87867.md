@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-87867"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-05-22"
-last_updated: "2020-04-27"
+last_updated: "2020-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2012.
 
@@ -1599,7 +1599,9 @@ Recusación y excusa
 
 En los casos de recusación o excusa de un juez de partido, una vez calificada de legal, se remitirá el expediente a la Oficialía Común de Partes para que lo envíe al juzgado de partido que corresponda, de acuerdo con el turno respectivo.
 
-En los partidos judiciales donde sólo exista un juzgado de partido de cada materia, el expediente se enviará al otro juzgado de partido.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2020)</small>
+
+En los partidos judiciales donde sólo exista un juzgado de partido de cada materia, el expediente se enviará al otro juzgado de partido. En caso de que exista un sólo juez en el sistema de oralidad familiar, el expediente se enviará al juzgado especializado de dicho sistema del partido judicial más cercano.
 
 En los partidos judiciales donde sólo exista un juzgado de partido, el expediente se enviará al juzgado de partido más cercano.
 
@@ -3851,7 +3853,7 @@ Artículo Segundo. En los casos en que esta Ley se refiera al Tribunal de enjuic
 
 Referencia a los Secretarios de sala
 
-Artículo Tercero. Toda referencia que se haga en ésta Ley a los secretarios de sala se entenderá hecha también a los jefes de unidad de causa y gestión del sistema penal acusatorio y oral, y la que se haga al secretario de juzgado de partido se entenderá también para el encargado de sala de dicho sistema.
+Artículo Tercero. Toda referencia que se haga en esta Ley a los secretarios de sala se entenderá hecha también a los jefes de unidad de causa y gestión del sistema penal acusatorio y oral, y la que se haga al secretario de juzgado de partido se entenderá también para el encargado de sala de dicho sistema.
 
 Término para expedición de reglamentos y manuales
 
@@ -3936,3 +3938,9 @@ P.O. 27 DE ABRIL DE 2020.
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. El Consejo del Poder Judicial deberá emitir los lineamientos para la operación de las sesiones y reuniones a distancia a más tardar ocho días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 18 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 179, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 109 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
