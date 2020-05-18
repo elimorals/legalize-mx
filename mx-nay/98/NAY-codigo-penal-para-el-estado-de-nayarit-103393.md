@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2020-01-09"
+last_updated: "2020-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -1796,6 +1796,10 @@ Cuando de común acuerdo violaren las partes interesadas en un negocio civil los
 ###### ARTÍCULO 215.
 
 Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, se le aplicará de tres a siete años de prisión, además de las sanciones que le corresponda por el delito o los delitos cometidos.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+Cuando las conductas a que se refiere el párrafo anterior, sean en contra de cualquier trabajador, médico, cirujano, personal de enfermería, pasante o demás profesionistas similares o auxiliares de las dependencias y entidades públicas del Sistema Estatal de Salud, durante el periodo que comprenda la declaración de una contingencia o una emergencia sanitaria, la pena de prisión deberá aumentarse hasta en una mitad.
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
 
@@ -4444,5 +4448,11 @@ P.O. 22 DE NOVIEMBRE DE 2019.
 P.O. 9 DE ENERO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 18 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PROTECCIÓN A LOS TRABAJADORES DE LA SALUD”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
