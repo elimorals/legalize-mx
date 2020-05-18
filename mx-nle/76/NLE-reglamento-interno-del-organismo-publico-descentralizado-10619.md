@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-del-organismo-publico-descentralizado-10619"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-30"
-last_updated: "2002-10-23"
+last_updated: "2020-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERNO DEL ORGANISMO PÚBLICO DESCENTRALIZADO CONSEJO PARA LA CULTURA DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de octubre de 1995.
 
@@ -201,9 +201,77 @@ Cualquier situación no prevista en la Ley, en este Reglamento o en cualquier ot
 
 El Consejo podrá crear las comisiones que considere convenientes, con carácter temporal o permanente, y les otorgará las facultades necesarias para el eficaz desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 18.
 
-Las comisiones estudiarán, evaluarán, analizarán y dictaminarán los asuntos a su cargo. Las decisiones deberán someterse a la consideración del Consejo en Pleno.
+Las comisiones estudiarán, evaluarán, analizarán y dictaminarán los asuntos a su cargo.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 18 BIS. El Pleno del Consejo podrá designar dos tipos de Comisiones de acuerdo a su temporalidad:
+
+a) Comisiones y Comités temáticos (temporales): Su función es temporal y se conformarán con la intención de atender un tema específico y una vez subsanada la temática a atender, se podrá prescindir de ella. Este tipo de comisiones podrán conformarse por miembros del Pleno del Consejo. Si así se requiere, se podrá solicitar también la presencia de alguno de los Directores y/o del Asesor Jurídico de CONARTE.
+
+b) Comisiones de disciplinas artísticas (permanentes): Su función será permanente y atenderán temas relacionados con la planeación, seguimiento y evaluación de proyectos y convocatorias para las siete disciplinas artísticas (artes plásticas, cine y video, danza, fotografía, literatura, música y teatro).18
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 18 BIS 1. Para la asignación y conformación de las Comisiones y Comités temáticos (temporales), sus integrantes serán asignados en acuerdo por el Consejo de CONARTE en sesión ordinaria o extraordinaria, y será compuesta por miembros del pleno del Consejo y directivos de la institución.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 18 BIS 2. Para la asignación y conformación de las Comisiones de disciplinas artísticas (permanentes), sus integrantes serán asignados en acuerdo por el Consejo de CONARTE en sesión ordinaria o extraordinaria, y será compuesta por miembros del pleno del Consejo y directivos de la institución.
+
+El funcionamiento de estas comisiones se regulará de la siguiente manera:
+
+I.- Tendrá derecho a voz y voto:
+
+- El Presidente del Consejo, quien fungirá como Presidente en las Comisiones que se describen en el artículo 18 Bis del presente reglamento y contará con voto de calidad en la toma de decisiones en caso de empate.
+
+- El Secretario Técnico, será el responsable del seguimiento de los acuerdos realizados en Comisión.
+
+- Dos Vocales representantes de la comunidad artística; para las disciplinas de artes plásticas, danza, literatura, música y teatro ya se cuenta con dos Vocalías; para las disciplinas de cine y video y de fotografía en que solo hay un representante, el Pleno del Consejo, podrá asignar a un integrante entre sus miembros.
+
+II.- Tendrá solamente derecho a voz:
+
+- El Pleno de CONARTE deberá asignar entre sus integrantes, a quienes por su perfil académico y artístico, puedan participar en las Juntas de Comisión de cada una de las siete disciplinas artísticas.
+
+- Directores de CONARTE con la responsabilidad de darle seguimiento operativo y administrativo a los proyectos aprobados en la Comisión respectiva.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 18 BIS 3. En cuanto a la frecuencia para juntas de Comisión, las Comisiones de disciplinas artísticas (permanentes), sesionarán en los siguientes periodos, en concordancia con las reuniones que los Vocales sostengan con los integrantes de sus respectivas Comunidades Artísticas:
+
+a) Enero: Reunión previa a la votación del presupuesto para aclarar dudas.
+
+b) Abril: Reunión de seguimiento de proyectos y convocatorias.
+
+c) Agosto: Revisión de convocatorias del siguiente año.
+
+d) Octubre: Reunión de evaluación de proyectos de la disciplina artística para el siguiente año.
+
+La Secretaría Técnica convocará a Reuniones Extraordinarias cuando así lo considere necesario alguno de los integrantes de la Comisión y lo solicite por escrito.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 18 BIS 4. En Juntas de Comisión de Disciplinas Artísticas, sus integrantes deberán asistir con carácter obligatorio a las reuniones a los (sic) que sean convocados; solamente será permitida una inasistencia al año; la segunda ameritaría una amonestación por escrito. Una tercera inasistencia se considerará como falta grave y se procederá en consecuencia conforme a los lineamientos establecidos en el artículo 5, penúltimo párrafo, de la ley que crea el organismo, así como de los artículos 8 y 9 del presente reglamento.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 18 BIS 5. Para la validación de acuerdos de juntas de Comisión, se seguirá el siguiente procedimiento:
+
+I. El Secretario Técnico, directamente o a través del personal que para estos efectos designe, será responsable de la elaboración de las actas y dictámenes derivados de las sesiones que celebren, mismos que deberán ser acompañados de un registro de firmas.
+
+II. Emitirán sus dictámenes por mayoría de votos de los presentes.
+
+III. Los integrantes de cada Comisión, tendrán el compromiso de llevar a cabo en tiempo y forma los acuerdos que se les haya encomendado en alguna de las reuniones realizadas y deberá informar a la Comisión sus avances hasta su culminación.
+
+IV. Las actas y dictámenes emitidas por las comisiones de disciplinas artísticas permanentes serán remitidas al Pleno del Consejo con carácter informativo.
+
+V. Para el caso de que exista discusión de opiniones contrapuestas entre dos o más integrantes de la Comisión respecto del dictamen emitido, se someterá el mismo a consideración y/o votación del Pleno del Consejo.
+
+La Secretaria Técnica será responsable de incorporar la inconformidad en el orden del día de la siguiente convocatoria (ordinaria o extraordinaria), al pleno.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2001)</small>
 
@@ -220,6 +288,12 @@ Cada comisión contará con los miembros designados y removidos libremente por e
 Las comisiones sesionarán a convocatoria de su Presidente o de la mayoría de sus integrantes, con la asistencia de por lo menos la mayoría de sus miembros, y emitirán sus dictámenes por mayoría de votos de los presentes. A petición expresas del sustentante, en los dictámenes de las comisiones se podrá hacer constar el voto razonado de quienes se hayan opuesto al sentido del dictamen.
 
 Las convocatorias para sesión deberán hacerse por lo menos un día natural antes de su celebración. Este requisito no será necesario cuando se encuentren reunidos la totalidad de los integrantes de cada comisión.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 20 BIS. Lo no previsto en el presente reglamento para la administración, funcionamiento y operación de las distintas Comisiones y/o Comités, será resuelto por los miembros del Pleno de CONARTE.
+
+(ADMINISTRACIÓN, FUNCIONAMIENTO Y OPERACIÓN DE LAS ACTIVIDADES DE LOS VOCALES REPRESENTANTES DE LA COMUNIDAD ARTÍSTICA, ELEGIDOS DE ACUERDO A LO ESTABLECIDO POR EL INCISO "D)", FRACCIÓN III DEL ARTÍCULO 5 DE LA LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN.)
 
 ###### ARTICULO 21.
 
@@ -240,6 +314,84 @@ I. Participar en las sesiones de las comisiones, emitiendo sus opiniones y votan
 II. Suplir al Presidente en sus ausencias.
 
 III. Convocar por acuerdo de la mayoría de sus integrantes a la celebración de sesiones de la comisión respectiva.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 22 BIS. El Vocal que haya sido electo durante las votaciones, tendrá entre sus primeras actividades el firmar una carta compromiso, que haga referencia a la recepción y buen uso de las bases de datos de la Comunidad que representará durante los tres años de su gestión de acuerdo a un aviso de privacidad de la institución. Previamente, se pedirá la autorización por parte de los Empadronados de la disciplina en función, para compartir sus datos al Vocal Electo (nombre, correo y teléfono).
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 22 BIS 1. Será obligación de los Vocales representantes de la Comunidad Artística, presentar las necesidades de sus Empadronados ante su respectiva Comisión; así como convocar y organizar por lo menos cuatro reuniones en el año:
+
+- Enero: Reunión previa a la votación del presupuesto para aclarar dudas.
+
+- Abril: Reunión de seguimiento de proyectos y convocatorias.
+
+- Agosto: Revisión de convocatorias del siguiente año.
+
+- Octubre: Reunión de evaluación de proyectos de la disciplina artística para el siguiente ejercicio presupuestal.
+
+Asimismo, se podrá Convocar a Reuniones Extraordinarias cuando así lo considere necesario el Consejero Vocal o sus representados.
+
+Las Vocalías representantes de las comunidades artísticas deberán convocar y asistir a las Juntas de Comunidad estipuladas, con carácter obligatorio y solamente será permitida una inasistencia al año; la segunda inasistencia ameritaría una amonestación escrita por el Pleno del Consejo. Una tercera inasistencia se considerará como falta grave y se procederá en consecuencia conforme a los lineamientos establecidos en el artículo 5, penúltimo párrafo, de la ley que crea el organismo, así como de los artículos 8 y 9 del presente reglamento. En el caso de las juntas de Consejo, sólo se permitirán dos inasistencias al año. Una tercera inasistencia ameritaría una amonestación (escrita) por el Pleno del Consejo. Una cuarta inasistencia se considerará como falta grave y se procederá en consecuencia conforme a los lineamientos establecidos en el artículo 5, penúltimo párrafo, de la ley que crea el organismo, así como de los artículos 8 y 9 del presente reglamento.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 22 BIS 2. Los Vocales representantes de la Comunidad Artística tendrán obligación de divulgar a los Empadronados de su disciplina artística, respecto de información relevante sobre desarrollo y programas presentados en las Juntas de Consejo y de Comisión.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 22 BIS 3. En cada reunión del Vocal con su Comunidad, se deberán cubrir los siguientes aspectos y formalidades:
+
+a) Preparar un Orden del Día.
+
+b) Convocar por lo menos una semana antes (fecha, hora y lugar).
+
+c) Levantar un Acta, en la cual se describan los puntos tratados y los acuerdos a los que se llegaron (contabilizando los votos del total de asistentes Empadronados), el nombre de quien corresponda la responsabilidad de su seguimiento y la fecha para cumplimentarse.
+
+d) Que el acta esté acompañada de un registro de firmas.
+
+e) Contar con la presencia de un representante de CONARTE, para ayudar en la redacción de dichos documentos descritos en los incisos anteriores, al igual que sus cuestiones operativas.
+
+f) Los Vocales deberán rendir un informe por escrito en el cual se especifique:
+
+- Los acuerdos que fueron derivados en las Juntas de la Comunidad y sus resultados.
+
+- Actividades acordes a sus funciones de representación.
+
+- Se podrán incluir fotografías o materiales (a manera de anexos).
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 22 BIS 4. Los miembros activos de las Comunidades Artísticas (Empadronados), tendrán los siguientes derechos y obligaciones:
+
+Derechos:
+
+a) Ejercer su derecho al voto al elegir representante de la disciplina.
+
+b) Asistir a las reuniones que convoque su Representante de disciplina.
+
+c) Ejercer su derecho al voto en las decisiones y posturas oficiales que pueda tomar la Comunidad Artística en un tema particular.
+
+d) Recibir los beneficios que ofrece la Plataforma del Padrón de Artistas de CONARTE, con los (sic) son: formar parte del listado oficial de miembros, recibir notificaciones de eventos y reuniones, subir materiales en la sección de galería para difundir su trabajo, las promociones y descuentos que se pudieran ofrecer.
+
+Obligaciones:
+
+a) Asistir con regularidad a las juntas que convoque su Representante.
+
+b) Mantener una actitud de respeto y cordialidad con todos los asistentes.
+
+c) Actualizar sus datos en la Plataforma del Padrón de Artistas de CONARTE (y mantenerla así).
+
+d) Cuidar las instalaciones donde se lleven a cabo las reuniones.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 22 BIS 5. El personal de CONARTE, brindará una forma de publicar las actas de acuerdos de las Comunidades de manera electrónica (página web oficial), para que puedan ser consultadas fácilmente, sin que esto supla los mecanismos internos de comunicación de cada Comunidad Artística. Asimismo, el personal de CONARTE facilitará los medios de comunicación entre las Vocalías y sus representados, tales como: una cuenta de correo institucional, enviar comunicados e invitaciones a través de la Oficina de Enlace de la Secretaría Técnica, así como facilitar espacios (como la Escuela Adolfo Prieto) para la realización de juntas con sus Comunidades. El uso de la nueva Plataforma del Padrón de Artistas de CONARTE es una herramienta tecnológica que facilitará los mecanismos de comunicación e interacción señalados en este párrafo.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+ARTICULO 22 BIS 6. Lo no previsto en el presente documento para la reglamentación, administración, funcionamiento y operación de las actividades de los Vocales representantes de la Comunidad Artística, será resuelto por los miembros del Pleno de CONARTE y/o por la Comisión Especial asignada para su revisión.
 
 ###### ARTICULO 23.
 
@@ -362,3 +514,9 @@ P.O. 23 DE OCTUBRE DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2020.
+
+[N. DE E TRANSITORIO DEL “ACUERDO QUE REFORMA Y ADICIONA EL REGLAMENTO INTERNO DEL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN”.]
+
+ÚNICO. Las presentes reformas y adiciones al Reglamento del Consejo para la Cultura y las Artes de Nuevo León, entrarán en vigor al día posterior a su publicación en el Periódico Oficial del Estado de Nuevo León.
