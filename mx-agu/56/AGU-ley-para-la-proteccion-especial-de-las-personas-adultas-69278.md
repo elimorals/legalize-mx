@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2019-05-27"
+last_updated: "2020-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -216,6 +216,10 @@ E) A recibir un trato digno y apropiado cuando sean víctimas o ellos mismos com
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
 
 F) En los procedimientos Judiciales, cuando el Juez advierta alguna limitante de movilidad, comunicación, psicológica o de cualquier otra naturaleza, que pueda dificultar el acceso a la justicia del adulto mayor, de manera oficiosa solicitará al Consejo de Tutelas y de aquellas dependencias especializadas en la atención al adulto mayor, se le brinde la atención necesaria, e incluso el acompañamiento profesional en el procedimiento cuando así se requiera.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+
+G) A ser protegidos mediante la expedición de Medidas de Protección, Providencias Precautorias y Medidas Cautelares, por los Jueces competentes, en los términos de la legislación aplicable.
 
 III. De la salud, la alimentación y la familia:
 
@@ -1166,3 +1170,11 @@ P.O. 27 DE MAYO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 330.- ARTÍCULO ÚNICO.- SE ADICIONA EL INCISO G) A LA FRACCIÓN II DEL ARTÍCULO 5° DE LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
