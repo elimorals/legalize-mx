@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2020-04-29"
+last_updated: "2020-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -262,6 +262,12 @@ El Poder Público del Municipio dimana del pueblo, se instituye en beneficio de 
 ###### Artículo 20.
 
 El Municipio de Puebla será gobernado por un Cuerpo Colegiado, al que se le denominará "Honorable Ayuntamiento del Municipio de Puebla", integrado por un Presidente Municipal, dieciséis Regidores de Mayoría, hasta siete Regidores que serán acreditados conforme al principio de Representación Proporcional y un Síndico.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2020)</small>
+
+###### Artículo 20 Bis.
+
+El Ayuntamiento además de cumplir con las atribuciones que les (sic) establece la Ley Orgánica Municipal, se encargará de dar continuidad a los programas, certificaciones, acreditaciones o sus similares que de conformidad con los resultados sean benéficos para la ciudadanía del Municipio y que hayan sido iniciados por anteriores administraciones del Ayuntamiento.
 
 ###### Artículo 21.
 
@@ -38930,3 +38936,15 @@ P.O. 29 DE ABRIL DE 2020.
 PRIMERO. Las reformas y adiciones aprobadas en el presente Dictamen, entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 19 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 6 DE MARZO DE 2020, MEDIANTE EL CUAL APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE ADICIONA EL ARTÍCULO 20 BIS AL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La adición aprobada en el presente Dictamen entrará en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Dictamen.
