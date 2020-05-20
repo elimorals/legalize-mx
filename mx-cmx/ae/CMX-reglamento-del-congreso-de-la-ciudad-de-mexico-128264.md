@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2020-03-04"
+last_updated: "2020-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2020.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -149,6 +149,10 @@ XLIII. Secretario: La o el Secretario de la Mesa Directiva del Congreso;
 XLIV. Coordinación de Servicios Parlamentarios: Es el órgano administrativo dependiente de la Junta del Congreso que se encarga de la coordinación, supervisión y ejecución de las atribuciones que permitan el cumplimiento de las funciones legislativas, constituye el ámbito de coordinación y supervisión de los servicios del Congreso, y observa en su actuación las disposiciones de la Constitución Local, de la ley, el reglamento y los demás ordenamientos, políticas y lineamientos aplicables;
 
 XLV. Sesión: Es la reunión donde convergen las y los Diputados del Congreso en Pleno, la Comisión Permanente, en Comisiones o Comités;
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2020)</small>
+
+XLV Bis. Sesión vía remota: Es la reunión donde convergen las Diputadas y los Diputados del Congreso en Pleno, Conferencia, Mesa Directiva, Junta, Comisiones, Comités, Comisión Permanente o, en su caso, de las Unidades Administrativas, por medios tecnológicos de comunicación para efectuar la transmisión y recepción de datos, documentos electrónicos, imágenes e información a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, vías satelitales o similares que sean autorizados por el Pleno o la Junta, de conformidad con lo previsto en el artículo 5 Bis de la Ley, y en la cual se verificará la asistencia, el quórum y la votación por medios de autentificación biométricos debidamente autorizados.
 
 XLVI. Sistema Electrónico: El Sistema de registro de asistencia, votación y audio automatizado del Congreso;
 
@@ -638,9 +642,13 @@ Durante los primeros cinco días de cada mes, la Coordinación de Servicios Parl
 
 Durante los primeros 15 días del mes de septiembre, la Coordinación de Servicios Parlamentarios, hará un balance general de asistencia de las y los Diputados del Congreso del último año, mandando a publicarla en cuando menos, dos diarios de circulación nacional.
 
-## TÍTULO CUARTO. FUNCIONAMIENTO DEL PLENO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE MAYO DE 2020)</small>
 
-### CAPÍTULO I. De las Sesiones del Pleno
+## TÍTULO CUARTO. FUNCIONAMIENTO DEL PLENO Y DE LAS SESIONES VÍA REMOTA DEL CONGRESO
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE MAYO DE 2020)</small>
+
+### CAPÍTULO I. De las Sesiones del Pleno y Vía Remota del Congreso
 
 #### Sección Primera. Generalidades
 
@@ -750,15 +758,55 @@ En el desarrollo de la sesión permanente no podrá darse cuenta de ningún otro
 
 La sesión permanente podrá darse por terminada cuando así lo acuerde el Pleno o cuando se hayan agotado los asuntos que la motivaron.
 
-#### Sección Sexta. Sesiones Privadas
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE MAYO DE 2020)</small>
+
+#### Sección Sexta. Sesiones Vía Remota del Congreso
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2020)</small>
 
 ###### Artículo 56.
 
-(DEROGADO, G.O. 9 DE MAYO DE 2019)
+En casos en que se ponga a la sociedad en grave peligro o conflicto, previa Declaratoria Oficial emitida por la autoridad competente del ámbito Federal o Local, el Congreso podrá sesionar vía remota de conformidad con lo que determine la Ley y el Reglamento, a efecto de no interrumpir sus funciones o atribuciones previstas en la Constitución Política, en los tratados internacionales en los que el Estado Mexicano sea parte, la Constitución Local y las leyes aplicables.
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2020)</small>
 
 ###### Artículo 57.
 
-(DEROGADO, G.O. 9 DE MAYO DE 2019)
+Las actividades o funciones del Congreso en el Pleno, Mesa Directiva, Conferencia, Junta, Comisiones, Comités, Comisión Permanente o, en su caso, de las Unidades Administrativas, podrán ejercerse mediante sesión vía remota, salvo aquellas que materialmente no sea posible o que por su naturaleza no puedan ser ejercidas.
+
+Atendiendo a las circunstancias y de los recursos disponibles, la Junta establecerá mediante Acuerdo, tomado por el voto de dos terceras partes, las reglas para desarrollar las sesiones vía remota para el Pleno, Mesa Directiva, Conferencia, Comisiones, Comités, Comisión Permanente o, en su caso de las Unidades Administrativas, garantizando las formalidades esenciales del procedimiento legislativo y la equidad en la discusión parlamentaria.
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2020)</small>
+
+###### Artículo 57 Bis.
+
+Las sesiones vía remota del Congreso se regirán por los principios transparencia, rendición de cuentas, parlamento abierto, certeza, legalidad, máxima publicidad, profesionalismo, interés social, subsidiariedad, proximidad gubernamental y el derecho a la buena administración de carácter receptivo, eficaz y eficiente
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2020)</small>
+
+###### Artículo 57 Ter.
+
+Las sesiones vía remota requerirán:
+
+I. La identificación idónea e indubitable de la Diputada o Diputado que participa a través de sistemas de autentificación biométrica;
+
+II. Versión estenográfica;
+
+III. Audio y video;
+
+IV. Firma electrónica, cuando se determine por la Junta, y
+
+V. Persona intérprete de lengua de señas mexicana; y
+
+VI. Votación nominal.
+
+Las sesiones virtuales deberán ser registradas en el Diario de los Debates.
+
+La versión estenográfica de la Mesa Directiva, Junta, Conferencia, Comisión, Comités, Comisión Permanente o, en su caso, de las Unidades Administrativas, se pondrán a la consideración de sus integrantes en la siguiente sesión para que tengan valor probatorio pleno.
+
+Serán públicas las versiones estenográficas de las sesiones vía remota.
+
+En las sesiones vía remota, las convocatorias publicadas en la Gaceta tendrán plena validez, así como las comunicadas por medios electrónicos oficiales de las Diputadas y los Diputados.
 
 #### Sección séptima. De la Realización de los Parlamentos
 
@@ -3730,13 +3778,21 @@ Una vez recibida la solicitud de ratificación de convenios señalados en el pá
 
 Cuando el Congreso de la Unión remita decreto por el cual se comuniquen reformas o adiciones a la Constitución Política se seguirá el procedimiento siguiente:
 
-I. La o el Presidente de la Mesa Directiva comunicará al Pleno dicha remisión y abrirá un periodo de análisis de cinco días hábiles para que las y los Diputados examinen el decreto en comento;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2020)</small>
 
-II. Transcurrido el plazo para el análisis del decreto remitido por el Congreso General, la o el Presidente de la Mesa Directiva convocará a sesión en la que únicamente se debata este tema. Una vez que haya finalizado el debate en los términos del procedimiento ordinario se abrirá la votación;
+I. La persona que presida la Mesa Directiva comunicará a las Diputadas y los Diputados integrantes del Congreso dicha remisión;
 
-III. Para que las reformas o adiciones a la Constitución Política sean aprobadas por el Congreso se necesitará de mayoría absoluta, y
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2020)</small>
 
-IV. Una vez aprobadas o rechazadas las reformas o adiciones a la Constitución Política, la o el Presidente remitirá acuerdo al Congreso General o en su caso a su Comisión Permanente a efecto de que se informe el sentido del voto del Congreso.
+II. La persona que presida la Mesa Directiva de conformidad a la comunicación a que se refiere la fracción anterior, convocará de inmediato a sesión del Congreso en carácter de constituyente permanente y en el que únicamente se debatirá la reforma a la Constitución Política. Una vez finalizado el debate en los términos del procedimiento ordinario, comenzará la votación;
+
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2020)</small>
+
+III. Para que las reformas o adiciones a la Constitución Política sean aprobadas por el Congreso se necesitará de mayoría absoluta de las Diputadas y los Diputados, y
+
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2020)</small>
+
+IV. Una vez aprobadas o rechazadas las reformas o adiciones a la Constitución Política, la persona que presida la Mesa Directiva remitirá el acuerdo al Congreso General o en su caso a su Comisión Permanente a efecto de que se informe el sentido del voto del Congreso.
 
 #### Sección Novena. Referéndum de la Constitución Política de la Ciudad de México
 
@@ -6111,3 +6167,15 @@ G.O. 4 DE MARZO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 20 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LA FRACCIÓN XLV BIS AL ARTÍCULO 4; Y EL ARTÍCULO 5 BIS A LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO, Y SE ADICIONA LA FRACCIÓN XLV BIS AL ARTÍCULO 2; Y SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 56, 57, 57 BIS, 57 TER Y 329, ASÍ COMO LAS DENOMINACIONES DEL TÍTULO CUARTO Y SU RESPECTIVO CAPÍTULO I Y SECCIÓN SEXTA, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+Primero. El Presente Decreto entrará en vigor al momento de aprobación por el Pleno del Congreso.
+
+Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+Tercero. Comuníquese a la persona titular de la Oficialía Mayor para que, en coordinación de las demás Unidades Administrativas que correspondan, realicen de manera inmediata las medidas atinentes a efecto de otorgar condiciones para que puedan llevarse a cabo sesiones vía remota del Pleno, Mesa Directiva, Conferencia, Junta, Comisiones, Comités, Comisión Permanente o, en su caso, de las Unidades Administrativas, para cumplir con las obligaciones y disposiciones constitucionales, legales y reglamentarias.
+
+Cuarto. Aprobado el presente Decreto, la Junta emitirá el Acuerdo para establecer al menos dos medios remotos tecnológicos de comunicación como medios oficiales para ejercer sus funciones y atribuciones del Congreso.
