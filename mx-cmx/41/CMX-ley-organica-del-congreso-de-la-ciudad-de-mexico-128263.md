@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-12-10"
+last_updated: "2020-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2020.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -176,6 +176,10 @@ XLIV. Coordinación de Servicios Parlamentarios: Es el órgano administrativo de
 
 XLV. Sesión: Es la reunión donde convergen las y los Diputados del Congreso en Pleno, en Comisiones o Comités;
 
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2020)</small>
+
+XLV Bis. Sesión vía remota: Es la reunión donde convergen las Diputadas y los Diputados del Congreso en Pleno, Conferencia, Mesa Directiva, Junta, Comisiones, Comités, Comisión Permanente o, en su caso, de las Unidades Administrativas, por medios tecnológicos de comunicación para efectuar la transmisión y recepción de datos, documentos electrónicos, imágenes e información a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, vías satelitales o similares que sean autorizados por el Pleno o la Junta, de conformidad con lo previsto en el artículo 5 Bis de la Ley, y en la cual se verificará la asistencia, el quórum y la votación por medios de autentificación biométricos debidamente autorizados.
+
 XLVI. Sistema Electrónico: El Sistema de registro de asistencia, votación y audio automatizado del Congreso;
 
 XLVII. Suplencia: Es el mecanismo para ocupar el cargo de Diputada o Diputado que se presenta cuando la o el propietario fallece, está imposibilitado física o jurídicamente, o bien, manifiesta a través de actos u omisiones su decisión de no aceptar el cargo o de obtener licencia;
@@ -201,6 +205,16 @@ LIV. Coalición Parlamentaria. Unión entre dos o más grupos parlamentarios cuy
 El Poder Legislativo de la Ciudad tendrá su residencia oficial en la sede del Congreso de la Ciudad de México mismo que se denomina Palacio Legislativo de Donceles, Recinto donde sesionará habitualmente; goza de personalidad jurídica y patrimonio propios y dispone de los recursos materiales y financieros necesarios para el eficiente desempeño de sus actividades, conforme a los criterios presupuestales que establece la Constitución Local.
 
 En los casos previstos por el reglamento o porque así lo acuerden más de las dos terceras partes de sus integrantes, el Congreso sesionará en el lugar que se habilite para tal efecto, el cual deberá quedar comprendido dentro de la circunscripción territorial de la Ciudad México y que sea distinto aquellos inmuebles en que se ubiquen oficinas o dependencias del Congreso;
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2020)</small>
+
+###### Artículo 5 Bis.
+
+En casos en que se ponga a la sociedad en grave peligro o conflicto, previa Declaratoria Oficial emitida por la autoridad competente del ámbito Federal o Local, el Congreso podrá sesionar vía remota de conformidad con lo que determine la Ley y el Reglamento, a efecto de no interrumpir sus funciones o atribuciones previstas en la Constitución Política, en los tratados internacionales en los que el Estado Mexicano sea parte, la Constitución Local y las leyes aplicables.
+
+Para los efectos de la Sesión vía remota del Pleno quedan exceptuados los temas relacionados con reformas a la Constitución Local, las reformas correspondientes a las leyes de carácter constitucional y los nombramientos de las personas servidoras públicas correspondientes a los poderes Ejecutivo y Judicial, así como a los correspondientes a los organismos que la Constitución Local les otorga autonomía.
+
+El orden del día correspondiente a la Sesión vía remota del Pleno será propuesto por las dos terceras partes de los integrantes de la Conferencia.
 
 ###### Artículo 6.
 
@@ -2711,3 +2725,17 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 20 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LA FRACCIÓN XLV BIS AL ARTÍCULO 4; Y EL ARTÍCULO 5 BIS A LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO, Y SE ADICIONA LA FRACCIÓN XLV BIS AL ARTÍCULO 2; Y SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 56, 57, 57 BIS, 57 TER Y 329, ASÍ COMO LAS DENOMINACIONES DEL TÍTULO CUARTO Y SU RESPECTIVO CAPÍTULO I Y SECCIÓN SEXTA, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+Primero. El Presente Decreto entrará en vigor al momento de aprobación por el Pleno del Congreso.
+
+Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+Tercero. Comuníquese a la persona titular de la Oficialía Mayor para que, en coordinación de las demás Unidades Administrativas que correspondan, realicen de manera inmediata las medidas atinentes a efecto de otorgar condiciones para que puedan llevarse a cabo sesiones vía remota del Pleno, Mesa Directiva, Conferencia, Junta, Comisiones, Comités, Comisión Permanente o, en su caso, de las Unidades Administrativas, para cumplir con las obligaciones y disposiciones constitucionales, legales y reglamentarias.
+
+Cuarto. Aprobado el presente Decreto, la Junta emitirá el Acuerdo para establecer al menos dos medios remotos tecnológicos de comunicación como medios oficiales para ejercer sus funciones y atribuciones del Congreso.
+
+La Junta sesionará los días lunes de cada semana para acordar lo relativo a las sesiones virtuales.
