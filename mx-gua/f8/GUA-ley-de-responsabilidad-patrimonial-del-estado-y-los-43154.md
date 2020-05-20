@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidad-patrimonial-del-estado-y-los-43154"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2018-07-05"
+last_updated: "2020-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 7 de enero de 2005
 
@@ -115,27 +115,17 @@ Si de una misma actividad administrativa irregular se generasen más de un daño
 
 ###### Artículo 11.
 
-Las indemnizaciones por daño material se sujetarán a las condiciones y límites siguientes:
+(DEROGADO, P.O. 20 DE MAYO DE 2020)
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
-
-I.- Se cubrirán al cien por ciento, las indemnizaciones cuya cuantificación en dinero no exceda de quinientas veces la Unidad de Medida y Actualización diaria;
-
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
-
-II.- Se cubrirán entre un setenta por ciento a un cien por ciento, las indemnizaciones cuya cuantificación en dinero exceda de quinientas veces pero no de cinco mil veces la Unidad de Medida y Actualización diaria;
-
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
-
-III.- Se cubrirán entre un sesenta por ciento a un setenta por ciento, las indemnizaciones cuya cuantificación en dinero exceda de cinco mil veces pero no de diez mil veces la Unidad de Medida y Actualización diaria; y
-
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
-
-IV.- Se cubrirán entre un treinta por ciento a un sesenta por ciento, las indemnizaciones cuya cuantificación en dinero exceda de diez mil veces la Unidad de Medida y Actualización diaria.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2020)</small>
 
 ###### Artículo 12.
 
-El monto del daño material se sujetará a la práctica de un avalúo, que tenderá a establecer el valor comercial, los frutos que en su caso hubiere podido producir la cosa objeto del avalúo y todas las circunstancias que puedan influir en la determinación del valor comercial.
+Para la determinación del daño material se instruirá a la práctica de un avalúo, que tenderá a establecer el valor comercial, los frutos que en su caso hubiere podido producir la cosa objeto del avalúo y todas las circunstancias que puedan influir en la determinación del valor comercial.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2020)</small>
+
+La indemnización aplicable será cuantificada por las autoridades competentes para sustanciar el procedimiento de responsabilidad patrimonial, con base en criterios de razonabilidad. Para ese propósito habrán de ponderarse en forma integral los medios de prueba desahogados, los alcances de la actividad administrativa irregular imputada, así como las circunstancias del caso concreto.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
@@ -143,9 +133,11 @@ El monto del daño material se sujetará a la práctica de un avalúo, que tende
 
 Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de ella se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base la Unidad de Medida y Actualización diaria y se atenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte, la presentación de la reclamación de la indemnización, así como su disfrute corresponderá a los herederos legítimos de la víctima.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2020)</small>
+
 ###### Artículo 14.
 
-El monto de la indemnización por daño moral a cargo de los sujetos obligados, será determinado por la autoridad y no podrá exceder de la tercera parte de lo que importe el daño material.
+El monto de la indemnización por daño moral a cargo de los sujetos obligados, será determinado por la autoridad con base en criterios de razonabilidad. Para ese propósito se considerarán los medios de prueba desahogados, los alcances de la actividad administrativa irregular imputada, así como las circunstancias del caso concreto.
 
 ###### Artículo 15.
 
@@ -536,3 +528,9 @@ P.O. 5 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 320, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 25 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 176, POR EL CUAL SE REFORMAN LOS ARTÍCULOS 12 Y 14; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 Y SE DEROGA EL ARTÍCULO 11 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
