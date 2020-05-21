@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-de-la-fiscalia-general-del-estado-de-136122"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-24"
-last_updated: "2019-03-24"
+last_updated: "2020-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DE LA FISCALIA GENERAL DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 21 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2020 (ABROGADO).
 
 Código publicado en el No. 24 del Periódico Oficial del Estado de Durango, el 24 de marzo de 2019.
 
@@ -802,3 +804,15 @@ PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su public
 SEGUNDO. Se instruye a los titulares de las unidades administrativas y órganos desconcentrados de la Fiscalía General del Estado de Durango, a efecto de que pongan en práctica las medidas necesarias y pertinentes para dar debido cumplimiento a lo establecido en el presente Acuerdo.
 
 Victoria de Durango, Dgo., a los veintiún (22) (sic) días del mes de enero del año dos mil diecinueve (2019). La C. LICENCIADA RUTH MEDINA ALEMÁN, en mi carácter de FISCAL GENERAL DEL ESTADO DE DURANGO. RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO NO. 005/2020.- POR EL CUAL SE REFORMA EL CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga el Código de Conducta de la Fiscalía General del Estado de Durango, publicado en el periódico oficial del Gobierno del Estado de Durango, No. 24, de fecha del veinticuatro (24) de marzo del año dos mil diecinueve (2019).
+
+TERCERO. Publíquese en el Periódico Oficial de (sic) Gobierno del Estado de Durango y en la Página de Internet de la Fiscalía General del Estado.
