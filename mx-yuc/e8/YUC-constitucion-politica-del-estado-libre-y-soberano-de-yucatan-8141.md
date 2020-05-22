@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2020-03-13"
+last_updated: "2020-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MAYO DE 2020.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -2537,11 +2537,11 @@ La propiedad es una institución social que el Estado adopta como medio para la 
 
 El Estado dictará leyes que organicen el patrimonio familiar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE MAYO DE 2020)</small>
 
 ###### Artículo 90.
 
-Toda persona en el Estado tiene los derechos humanos a la educación y la cultura.
+Los habitantes del Estado tienen derecho a la educación, a la cultura y al acceso a la ciencia, tecnología e innovación, entendiéndolas como derechos humanos fundamentales, y como tales deberán ser garantizados en forma progresiva, no regresiva y sin discriminación alguna.
 
 > <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
 
@@ -2602,6 +2602,32 @@ La cultura como valor trascendente, es la base fundamental del desarrollo integr
 El Estado implementará con criterio social, políticas para la promoción cultural, el fomento de la cultura maya y su conservación, la difusión de las tradiciones, costumbres, valores regionales y nacionales, buscando inculcar el respeto a la cultura propia y otras distintas.
 
 La ley garantizará la participación de los sectores público, social y privado, en la preservación del patrimonio cultural; la impartición de la educación artística y el impulso a la creación intelectual y las bellas artes, en un marco de libertad y pluralismo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O. 22 DE MAYO DE 2020)</small>
+
+Apartado C.- De la Ciencia y la Tecnología
+
+La ciencia, la tecnología y la innovación tendrán como base la solidaridad intelectual y moral de los yucatecos, por lo cual deberán desarrollarse respetando el medio ambiente, los principios de la bioética y la dignidad humana, siempre que no comprometan las necesidades ni los intereses de las generaciones futuras, y su principal objetivo será aumentar el bienestar cultural y material de los habitantes, promoviendo los ideales y objetivos de paz y equidad.
+
+El acceso a la ciencia, la tecnología y la innovación deberá considerar lo siguiente:
+
+a) Establecer políticas de largo plazo e implementar mecanismos que fomenten el desarrollo científico y tecnológico de la entidad, que permitan elevar el nivel de vida de la población, combatir la pobreza y proporcionar igualdad de oportunidades;
+
+b) El Estado coordinará los esfuerzos para fortalecer y potenciar las capacidades científicas y de innovación tecnológica con las que cuenta el Estado;
+
+c) Ofrecer condiciones favorables a quienes efectivamente realizan actividades de investigación y desarrollo experimental en ciencia y tecnología, teniendo en cuenta las responsabilidades inherentes a esa labor, los derechos necesarios para su realización, y las garantías para desarrollarlos como carrera, con perspectivas razonables y un grado equitativo de seguridad;
+
+d) Considerar la investigación científica y el desarrollo experimental como una forma de inversión pública cuyo rendimiento, en su mayor parte, sea necesariamente a largo plazo;
+
+e) Fomentar las actividades creadoras de la investigación científica guardando el máximo respeto a la autonomía y a la libertad de investigación necesarias para el progreso científico;
+
+f) Apoyar todas las iniciativas educacionales destinadas a promover el espíritu investigador;
+
+g) Favorecer el surgimiento y desarrollo de investigadores científicos de alta calidad, entre los propios ciudadanos, incentivando a los que aspiran a desarrollarse profesionalmente en el ramo;
+
+h) Fomentar que todos los habitantes interesados en realizar investigación científica y desarrollo tecnológico disfruten de las mismas oportunidades para conseguirlo; asimismo, que tengan igual acceso a los empleos disponibles en la investigación científica y desarrollo tecnológico, y
+
+i) Mantener informada a la sociedad sobre los avances en ciencia y tecnología que se desarrolla en el Estado, pero sobre todo enfocándola a su disfrute y al mejoramiento de su calidad de vida.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -4632,3 +4658,15 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente de su
 Derogación expresa
 
 Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 22 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 220/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE CIENCIA, TECNOLOGÍA E INNOVACIÓN”.]
+
+Primero.- Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo.- Derogación Expresa
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga (sic) al presente decreto.
