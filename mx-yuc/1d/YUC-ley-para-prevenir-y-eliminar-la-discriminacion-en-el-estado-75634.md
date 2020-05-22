@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-756
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-06"
-last_updated: "2016-12-28"
+last_updated: "2020-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2010.
 
@@ -157,7 +157,9 @@ XXI.- Restringir el acceso a la información, salvo en aquellos supuestos que se
 
 XXII.- Impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
 
-XXIII.- Impedir el acceso a cualquier servicio público o privado, así como limitar el acceso y libre desplazamiento en los espacios públicos;
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+XXIII.- Impedir a las personas con o sin discapacidad el acceso a cualquier servicio público o privado, así como limitarles el acceso y libre desplazamiento en los espacios públicos, de igual forma a aquellas personas que por su discapacidad requieran de la asistencia de animales o perros guías para la realización de sus actividades cotidianas, pudiendo estos acceder y permanecer con ellos en todos los espacios en donde se desenvuelvan;
 
 XXIV.- El trato denigrante o abusivo de que sea objeto cualquier persona, minoría, grupo o colectivo;
 
@@ -171,9 +173,15 @@ XXVIII.- Incitar al odio, violencia, rechazo, burla, difamación, injuria, perse
 
 XXIX.- Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia sexual;
 
-XXX.- Excluir a las personas internas en centros de readaptación social de los programas generales de salud, y
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
-XXXI.- En general cualquier otra conducta que pretenda menoscabar el goce de los derechos fundamentales.
+XXX.- Excluir a las personas internas en centros de readaptación social de los programas generales de salud;
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+XXXI.- Realizar cualquier tipo de acoso hacia las personas contempladas por su condición en el artículo 4 de esta ley, y
+
+XXXII.- En general cualquier otra conducta que pretenda menoscabar el goce de los derechos fundamentales.
 
 ### CAPÍTULO III. De las Medidas para Prevenir la Discriminación
 
@@ -215,13 +223,23 @@ V.- Verificar que los planteles educativos realicen las adecuaciones necesarias 
 
 VI.- Establecer en igualdad de condiciones la remuneración, las prestaciones y las condiciones laborales para el trabajo de igual valor;
 
-VII.-Procurar la creación de centros de desarrollo infantil y guarderías asegurando el acceso a sus hijas e hijos cuando ellas lo requieran;
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+VII.- Procurar la creación de centros de desarrollo infantil, guarderías y lactarios asegurando el acceso a sus hijas e hijos cuando ellas lo requieran;
 
 VIII.- Fomentar la libre elección del empleo;
 
-IX.- Incentivar las oportunidades de acceso, permanencia, capacitación y ascenso en el empleo, entre otras, sin considerar edad o estado civil, y
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
-X.- Crear mecanismos que fomenten la participación política de las mujeres y que aseguren la presencia equitativa en los puestos de elección popular o de mando.
+IX.- Incentivar las oportunidades de acceso permanencia, capacitación y ascenso en el empleo, entre otras sin considerar edad, estado civil u orientación sexual;
+
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+X.- Crear mecanismos que fomenten la participación política de las mujeres y que aseguren la presencia equitativa en los puestos de elección popular o de mando, y
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+XI.- Promover campañas contra cualquier tipo (sic) acoso contra las mujeres.
 
 #### Sección Segunda. De las Medidas Positivas y Compensatorias a favor de las niñas, niños y adolescentes
 
@@ -241,7 +259,9 @@ V.- Promover las condiciones necesarias para que niñas, niños y adolescentes p
 
 VI.- Preferir, en igualdad de circunstancias, a niñas, niños y adolescentes enn (sic) situación de pobreza o marginación, en el otorgamiento de becas, créditos u otros beneficios;
 
-VII.- Alentar la producción y difusión de libros para niños niñas y adolescentes, promoviendo un enfoque de equidad de género y promoviendo el respeto a su propia y otras culturas;
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+VII.- Alentar la producción y difusión de libros para niños niñas y adolescentes, promoviendo un enfoque de igualdad de género y promoviendo el respeto a su propia y otras culturas;
 
 VIII.- Promover la creación de instituciones que tutelen y guarden las niñas, niños y adolescentes privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales;
 
@@ -251,9 +271,21 @@ X.- Crear espacios públicos de calidad para la recreación y esparcimiento infa
 
 XI.- Atender las diferentes problemáticas que presentan las niñas, niños y adolescentes, con especial atención a los que presentan una situación de desventaja;
 
-XII.- Promover la cultura de la denuncia por cuestiones de discriminación y abuso de autoridad, entre otros, y
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
-XIII.- Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica gratuita, e intérprete o traductor al niño, niña o adolescente en los procedimientos judiciales o administrativos, en que sea procedente.
+XII.- Promover la cultura (sic) la denuncia por cuestiones de discriminación y abuso de autoridad, entre otros;
+
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+XIII.- Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica gratuita, e intérprete o traductor al niño, niña o adolescente en los procedimientos judiciales o administrativos, en que sea procedente;
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+XIV.- Promover políticas públicas para erradicar el trabajo infantil que ponga en riesgo la integridad, la vida y la salud de niñas, niños y adolescentes, y
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+XV.- Promover campañas contra el acoso escolar de niños, niñas y adolescentes en los planteles escolares.
 
 > <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
 
@@ -261,7 +293,9 @@ XIII.- Proporcionar, en los términos de la legislación en la materia, asistenc
 
 Las dependencias y entidades estatales y municipales deberán reportar semestralmente al Organismo sobre las medidas positivas y compensatorias a favor de las niñas, niños y adolescentes que adopten.
 
-Los reportes deberán desagregar la información, al menos, por razón de edad, sexo, escolaridad y tipo de discriminación.
+> <small>(REFORMADO, D.O. 22 DE MAYO DE 2020)</small>
+
+Los reportes deberán desagregar la información, al menos, por razón de edad, sexo, escolaridad, discapacidad y tipo de discriminación.
 
 #### Sección Tercera. De las Medidas Positivas y Compensatorias a favor de los Adultos Mayores
 
@@ -289,17 +323,33 @@ VII.- Sensibilizar a los profesionales de la salud y de servicios sociales sobre
 
 VIII.- Establecer un sistema de pensiones y jubilaciones digno que les permita solventar sus necesidades propias de la edad;
 
-IX.- Diseñar, promover y ejecutar programas de recreación y cultura adecuadas a este grupo social, y
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
-X.- Promover campañas de información en los medios de comunicación para sensibilizar a la sociedad, a fin de prevenir y eliminar toda forma de discriminación y violencia contra los Adultos Mayores.
+IX.- Diseñar, promover y ejecutar programas de recreación y cultura adecuadas a este grupo social;
+
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+X.- Promover campañas de información en los medios de comunicación para sensibilizar a la sociedad, a fin de prevenir y eliminar toda forma de discriminación y violencia contra los Adultos Mayores;
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+XI.- Crear políticas públicas y promover campañas que fomenten el empleo para las personas adultas mayores, y
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+XII.- Promover campañas en las que se sensibilice a la sociedad para no abusar, maltratar o dejar en el abandono a las personas adultas mayores.
 
 #### Sección Cuarta. De las Medidas Positivas y Compensatorias a favor de las personas con discapacidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE MAYO DE 2020)</small>
+
 ###### Artículo 15.
 
-Las entidades y dependencias estatales y municipales diseñarán y ejecutarán, entre otras, las siguientes medidas positivas y compensatorias a fin de garantizar la igualdad de oportunidades y prevenir y erradicar la discriminación contra las personas discapacitadas:
+Las entidades y dependencias estatales y municipales diseñarán y ejecutarán, entre otras, las siguientes medidas positivas y compensatorias a fin de garantizar la igualdad de oportunidades y prevenir y erradicar la discriminación contra las personas con discapacidad:
 
-I.- Promover un entorno que permita el libre acceso, desplazamiento y recreación adecuados;
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+I.- Crear espacios públicos de calidad para la recreación y la práctica de deporte, en un entorno que permita el libre acceso y desplazamiento de las personas con discapacidad;
 
 II.- Procurar su incorporación, permanencia y participación en las actividades educativas en todos los niveles;
 
@@ -313,9 +363,13 @@ VI.- Establecer mecanismos que promuevan su incorporación laboral en la adminis
 
 VII.- Garantizar el acceso a la información a personas con discapacidad visual y auditiva;
 
-VIII.- Procurar la accesibilidad en los medios de transporte público de uso general;
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
-IX.- Procurar que las vías generales de comunicación cuenten con señalamientos adecuados para permitirles el libre tránsito;
+VIII.- Procurar la accesibilidad de las personas con discapacidad en los medios de transporte público de uso general, en compañía de sus animales de asistencia;
+
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+IX.- Procurar que las vías generales de comunicación cuenten con señalamientos adecuados para permitirles el libre tránsito, así como banquetas y rampas libres de obstáculos;
 
 X.- Establecer incentivos a las empresas que contraten a personas con discapacidad, así como rediseñen sus áreas considerando su acceso;
 
@@ -339,9 +393,17 @@ IV.- Emprender campañas permanentes de información en los medios de comunicaci
 
 V.- Procurar que cuando se fijen sanciones penales a indígenas, tratándose de penas alternativas, se impongan aquellas distintas a la privación de la libertad, así como promover la aplicación de sustitutivos penales y beneficios de preliberación, de conformidad con las normas aplicables;
 
-VI.- Garantizar que en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se tomen en cuenta sus usos y costumbres, respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos, y
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
-VII.- Garantizar en todo proceso legal, el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua.
+VI.- Garantizar que en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se tomen en cuenta sus usos y costumbres, respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+VII.- Garantizar en todo proceso legal, el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua, y
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+VIII.- Procurar la atención y acompañamiento a la población indígena del Estado, en procesos penales, administrativos o migratorios efectuados en el extranjero.
 
 #### Sección Sexta. De las Medidas Positivas y Compensatorias a favor de personas con orientación sexual diferente y de género distinta a la heterosexual
 
@@ -351,15 +413,23 @@ Las entidades y dependencias estatales y municipales diseñarán y ejecutarán, 
 
 I.- Garantizar la libre expresión en el vestir, actuar o pensar, siempre que no dañe a terceros ni atente contra el orden público;
 
-II.- Promover la igualdad de trato en los ámbitos económico, político, social y cultural en todas las dependencias;
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+II.- Promover la igualdad de trato en los ámbitos económico, político, laboral, social y cultural en todas las dependencias;
 
 III.- Promover condiciones de igualdad y respeto a sus derechos;
 
 IV.- Garantizar el acceso a los servicios de salud pública y seguridad social, según lo dispuesto en los ordenamientos aplicables en la materia;
 
-V.- Emprender campañas en los medios masivos de comunicación, en la medida de sus posibilidades, para promover el respeto por la diversidad de orientaciones sexuales y de identidad de género, y
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
-VI.- Todas las demás que se contemplen en las leyes en la materia.
+V.- Emprender campañas en los medios masivos de comunicación, en la medida de sus posibilidades para promover el respeto por la diversidad de orientaciones sexuales y de identidad de género;
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+VI.- Promover campañas contra cualquier tipo de acoso, por tener una orientación sexual diferente, y
+
+VII.- Todas las demás que se contemplen en las leyes en la materia.
 
 #### Sección Séptima. De las Medidas Positivas y Compensatorias a favor de las personas con VIH-SIDA
 
@@ -675,9 +745,17 @@ El presente capítulo tiene por objeto establecer las infracciones y sanciones r
 
 Los particulares o servidores públicos, encontrados responsables de una conducta discriminatoria, se harán acreedoras a las siguientes sanciones:
 
-I.- Amonestación pública, y
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
-II.- Multa.
+I.- Amonestación pública;
+
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+II.- Multa, y
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+III.- Destitución del puesto, cargo o empleo.
 
 El Organismo impondrá a los particulares las sanciones que correspondan conforme a esta ley. Respecto a los servidores públicos encontrados responsables de conductas discriminatorias, el Organismo informará al superior jerárquico de este, para que le sean aplicadas las sanciones conforme a esta ley y a la legislación en materia de responsabilidades de los servidores públicos, en su caso.
 
@@ -691,9 +769,9 @@ I.- La realización de las conductas señaladas en las fracciones II, V, VI, VII
 
 II.- La infracción a las conductas señaladas en las fracciones I, III, IV, IX, XI, XIII, XIV, XVIII, XIX, XXI, XXII, XXIII, XXIV y XXVII del artículo 9 de esta ley se sancionarán con multa de cien a quinientas unidades de medida y actualización.
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
-III.- La realización de las conductas señaladas en las fracciones VII, X, XII, XV, XXVIII y XXIX del artículo 9 de esta ley, se sancionarán con multa de quinientas una a mil unidades de medida y actualización.
+III.- La realización de las conductas señaladas en las fracciones VII, X, XII, XV, XXVIII y XXIX del artículo 9 de esta ley, se sancionarán con la destitución del puesto, cargo o empleo en el caso de servidores públicos y multa de quinientas una a mil unidades de medida y actualización. Para particulares solamente aplica la multa señalada en esta misma fracción.
 
 Cuando el Organismo considere que se cometieron delitos, en la realización de conductas discriminatorias, dará vista al Ministerio Público para la persecución de los delitos que correspondan.
 
@@ -800,3 +878,9 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 22 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 223/2020 POR EL QUE SE MODIFICA LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN, EN MATERIA DE ACTUALIZACIÓN DE LINEAMIENTOS, CRITERIOS E INDICADORES EN LA APLICACIÓN DE LAS POLÍTICAS PÚBLICAS A FAVOR DE LA NO DISCRIMINACIÓN EN YUCATÁN".]
+
+Artículo único. Este decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
