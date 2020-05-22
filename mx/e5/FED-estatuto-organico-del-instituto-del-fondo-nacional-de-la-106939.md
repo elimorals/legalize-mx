@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-106939
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-03-30"
-last_updated: "2018-03-12"
+last_updated: "2020-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106939&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "2015-03-10"
 
 [NOTA 1: EL ACUERDO POR EL QUE SE APRUEBAN LAS ADECUACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 12 DE MARZO DE 2018, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
 
-[NOTA 2. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ACUERDO POR EL QUE SE APRUEBA LA REFORMA AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 22 DE MAYO DE 2020, SE ABROGA AL ACUERDO POR EL QUE SE APRUEBAN LAS ADECUACIONES AL ESTATUTO APROBADO MEDIANTE ACUERDO NÚMERO 2053 EN LA SESIÓN ORDINARIA 115 DE LA ASAMBLEA GENERAL, CELEBRADA EL DÍA 5 DE DICIEMBRE DE 2017 Y PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN 12 DE MARZO DE 2018.]
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 22 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2020 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de marzo de 2015.
 
@@ -1198,3 +1198,19 @@ PRIMERO.- El presente Estatuto Orgánico modifica las adecuaciones aprobadas med
 SEGUNDO.- Las Modificaciones de este Estatuto Orgánico entrarán en vigor a partir de su aprobación en la sesión ordinaria número 115 de la Asamblea General del Infonavit, celebrada el día 5 de diciembre de 2017.
 
 TERCERO.- Se ordena su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE APRUEBA LA REFORMA AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES".]
+
+PRIMERO. El presente Estatuto abroga el aprobado mediante Acuerdo número 2053 en la sesión ordinaria 115 de la Asamblea General, celebrada el día 5 de diciembre de 2017 y publicado en el Diario Oficial de la Federación (sic) 12 de marzo de 2018, y entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se presentarán para aprobación del Consejo de Administración las reformas necesarias a los Lineamientos de Operación de las Delegaciones Regionales del Instituto del Fondo Nacional de la Vivienda, en un plazo no mayor a 180 días a partir de la publicación del presente Estatuto en el Diario Oficial de la Federación, para su posterior presentación a la Asamblea General.
+
+TERCERO. Las referencias que se hagan y las atribuciones que se otorgan en otras normas, procesos, procedimientos, manuales y demás disposiciones, así como en contratos y convenios a las áreas del Infonavit, se entenderán hechas o conferidas a las áreas cuya competencia corresponda en términos de lo dispuesto por el presente Acuerdo.
+
+CUARTO. Dentro de los 180 días naturales posteriores a la publicación del presente Estatuto en el Diario Oficial de la Federación, la Subdirección General de Administración y Recursos Humanos, emitirá el Manual General de Organización, así como cualquier otra disposición interna que requiera actualizarse derivado de los cambios de atribuciones y funciones.
+
+QUINTO. La Subdirección General de Administración y Recursos Humanos deberá establecer las medidas para garantizar los recursos humanos, materiales y financieros que requieran las unidades administrativas para la instrumentación de las atribuciones conferidas.
+
+SEXTO. Se ordena su publicación en el Diario Oficial de la Federación.
