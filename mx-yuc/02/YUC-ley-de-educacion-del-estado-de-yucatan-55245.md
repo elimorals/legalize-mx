@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2019-12-31"
+last_updated: "2020-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -747,21 +747,27 @@ La elección de los docentes frente a grupo que desempeñarán las funciones de 
 
 La Secretaría de Educación organizará y financiará una oferta académica para los docentes de la Entidad que destaquen en la evaluación del desempeño. Esta oferta será adicional a la prevista en el artículo 60 de la Ley General del Servicio Profesional Docente. Será un reconocimiento al desempeño y deberá corresponder a los requerimientos de las escuelas y regiones, para favorecer el desarrollo profesional de los maestros y el mejoramiento de la calidad educativa.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 22 DE MAYO DE 2020)</small>
 
 ###### Artículo 36.
 
-Los directores escolares serán los responsables de dirigir y coordinar los esfuerzos de profesores, trabajadores sociales, alumnos y padres de familia, así como del aprovechamiento de los recursos y medios disponibles en su plantel, y sus funciones son de carácter técnico, pedagógico y administrativo.
+Los directores escolares serán los responsables de dirigir y coordinar los esfuerzos de profesores, trabajadores sociales, alumnos y padres de familia, así como implementar los protocolos escolares emitidos emitidos (sic) por la Secretaría de Educación del Estado, ante la desaparición o sustracción de estudiantes.
+
+Asimismo serán responsables del aprovechamiento de los recursos y medios disponibles en su plantel, y sus funciones son de carácter técnico, pedagógico y administrativo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 37.
 
-Es responsabilidad de la Secretaría de Educación mediante las autoridades educativas de los centros escolares, vigilar que en el funcionamiento de las escuelas se fomenten hábitos y actitudes que propicien la sana convivencia, incluyendo la que se genere por medio de las tecnologías de la información y comunicación entre las que se encuentran: el Internet, redes sociales, mensajería instantánea o correo electrónico.
+Es responsabilidad de la Secretaría de Educación mediante las autoridades educativas de los centros escolares, vigilar que en el funcionamiento de las escuelas se fomenten hábitos y actitudes que propicien la sana convivencia, incluyendo la que se genere por medio de las tecnologías de la información y comunicación entre las que se encuentran: el internet, redes sociales, mensajería instantánea o correo electrónico.
 
 > <small>(REFORMADO, D.O. 5 DE ENERO DE 2012)</small>
 
 Asimismo, la Secretaría de Educación deberá Implementar, en coordinación con la Secretaría de Salud, los lineamientos generales para la venta y distribución de alimentos y bebidas dentro de las escuelas de educación básica.
+
+> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+
+De igual manera será responsabilidad de la Secretaría inspeccionar que las instituciones educativas públicas y privadas de todos los niveles educativos, cuenten y apliquen protocolos escolares de emergencia ante la desaparición o sustracción de estudiantes, emitidos por la misma Secretaría.
 
 ###### Artículo 38.
 
@@ -787,9 +793,15 @@ IX.- Apoyar las tareas educativas promovidas por la Secretaría de Educación;
 
 X.- Atender de manera especial los casos en que se lesione la integridad moral y física de los educandos e intervenir en su resolución;
 
-XI.- Elaborar y mantener actualizado el archivo de las escuelas de su zona escolar, según corresponda, y
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
-XII.- Las demás que les confiera la normatividad aplicable.
+XI.- Elaborar y mantener actualizado el archivo de las escuelas de su zona escolar, según corresponda;
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+XII.- Vigilar que las instituciones educativas públicas y privadas, cuenten y apliquen protocolos escolares de emergencia ante la desaparición o sustracción de estudiantes, emitidos por la Secretaría de Educación del Estado, y
+
+XIII.- Las demás que les confiera la normatividad aplicable.
 
 ###### Artículo 39.
 
@@ -2283,9 +2295,17 @@ También son infracciones a ésta:
 
 I.- Ostentarse como plantel incorporado sin estarlo, en general o en lo relativo a alguno de los servicios que ofrezca;
 
-II.- Impartir la educación preescolar, primaria, secundaria y normal, así como para la formación de profesores de educación básica, sin contar con la autorización correspondiente, y
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
-III.- Proporcionar información y documentación falsa, incompleta o fuera de los plazos o términos establecidos por la autoridad educativa.
+II.- Impartir la educación preescolar, primaria, secundaria y normal, así como para la formación de profesores de educación básica, sin contar con la autorización correspondiente;
+
+> <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
+
+III.- Proporcionar información y documentación falsa, incompleta o fuera de los plazos o términos establecidos por la autoridad educativa, y
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+IV.- No aplicar protocolos escolares emitidos por la autoridad educativa del estado ante la desaparición o sustracción de estudiantes.
 
 ###### Artículo 108.
 
@@ -2568,3 +2588,11 @@ D.O. 31 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 160/2019 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE EDUCACIÓN INCLUSIVA”.]
 
 Único.- El presente decreto entrará en vigor el día 1 de enero de 2020, previa publicación en el diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 22 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 218/2020 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE PROTOCOLOS ESCOLARES”.]
+
+Entrada en vigor.
+
+Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
