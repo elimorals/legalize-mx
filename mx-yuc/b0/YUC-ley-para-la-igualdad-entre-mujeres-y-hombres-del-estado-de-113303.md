@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1133
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-04"
-last_updated: "2019-07-31"
+last_updated: "2020-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MAYO DE 2020.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 4 de marzo de 2016.
 
@@ -369,7 +369,9 @@ El Consejo Consultivo del Sistema Estatal para la Igualdad entre Mujeres y Hombr
 
 Política estatal
 
-La política estatal en materia de igualdad entre mujeres y hombres deberá establecer las acciones conducentes para lograr la igualdad sustantiva en el ámbito, laboral, económico, político, social y cultural; entre las que se deberán contemplar, al menos, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE MAYO DE 2020)</small>
+
+La política estatal y municipal, respetando sus debidos ámbitos de competencia, en materia de igualdad entre mujeres y hombres deberá establecer acciones conducentes para lograr la igualdad sustantiva en el ámbito económico, político, social y cultural, civil, educativo y de acceso a la justicia y seguridad; entre las que se deberán contemplar, al menos, las siguientes:
 
 I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida.
 
@@ -381,27 +383,37 @@ III. Fomentar la participación y representación política equilibrada entre mu
 
 IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres.
 
-V. Promover la eliminación de los estereotipos establecidos en función del sexo.
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
 
-VI. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres.
+V. Promover la igualdad entre mujeres y hombres en la vida civil.
 
-VII. Establecer medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres.
+VI. Promover la eliminación de los estereotipos establecidos en función del sexo.
 
-VIII. Utilizar un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales.
+VII. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres.
 
-IX. Promover, en el sistema educativo estatal, la igualdad entre mujeres y hombres; la tolerancia como base de una sana convivencia; y la eliminación de los obstáculos a la igualdad sustantiva y de género.
+VIII. Establecer medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres.
 
-X. Incluir, en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud.
+IX. Utilizar un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales.
 
-XI. Promover y difundir que en las prácticas de comunicación social de las dependencias de la Administración Pública estatal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente.
+X. Promover, en el sistema educativo estatal, la igualdad entre mujeres y hombres; la tolerancia como base de una sana convivencia; y la eliminación de los obstáculos a la igualdad sustantiva y de género.
 
-XII. Impulsar acciones que aseguren la igualdad de acceso de mujeres y hombres a la alimentación, la educación, la cultura y la salud.
+XI. Incluir, en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud.
+
+XII. Promover y difundir que en las prácticas de comunicación social de las dependencias de la Administración Pública estatal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente.
+
+XIII. Impulsar acciones que aseguren la igualdad de acceso de mujeres y hombres a la alimentación, la educación, la cultura y la salud.
+
+> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+
+XIV. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva.
+
+> <small>(REFORMADO, D.O. 22 DE MAYO DE 2020)</small>
 
 ###### Artículo 27.
 
 Desarrollo de acciones
 
-La política estatal a que se refiere el artículo anterior, definida en el programa especial y encauzada a través del sistema estatal, deberá desarrollar acciones interrelacionadas para alcanzar las metas en materia de igualdad entre mujeres y hombres en Yucatán, conforme a los objetivos operativos y acciones específicas previstas en los capítulos segundo, tercero, cuarto, quinto, sexto y séptimo del título IV de la ley general.
+La política estatal a que se refiere el artículo anterior, definida en el programa especial y encauzada a través del sistema estatal, deberá desarrollar acciones interrelacionadas para alcanzar las metas en materia de igualdad entre mujeres y hombres en Yucatán, conforme con los objetivos operativos y acciones específicas que se desglosan en la sección primera del capítulo V de esta ley.
 
 ###### Artículo 28.
 
@@ -445,7 +457,277 @@ Las autoridades encargadas de la ejecución del programa especial deberán consi
 
 Los informes anuales del Gobernador del estado deberán contener el estado que guarda la ejecución del programa, así como las demás acciones relativas al cumplimiento de lo establecido en esta ley.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 22 DE MAYO DE 2020)</small>
+
+#### Sección primera. De los objetivos y acciones de la Política Estatal de Igualdad entre Mujeres y Hombres
+
+> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+
 #### Sección cuarta. Vigilancia y supervisión
+
+###### Artículo 32 Bis.
+
+De la igualdad entre mujeres y hombres en la vida económica estatal
+
+Con el fin de alcanzar el fortalecimiento para la igualdad entre mujeres y hombre (sic) en materia económica, serán objetivos y acciones de la política estatal y municipal, en sus debidos ámbitos de competencia:
+
+I. OBJETIVOS
+
+a) Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos.
+
+b) Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica.
+
+c) Impulsar liderazgos igualitarios.
+
+d) Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+
+e) Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
+
+Para los efectos de lo previsto en este artículo, las autoridades correspondientes garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta.
+
+II. ACCIONES
+
+a) Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su género.
+
+b) Fomentar la incorporación a la educación y formación de las personas que en razón de su género están relegadas.
+
+c) Fomentar el acceso al trabajo de las personas que en razón de su género están relegadas de puestos directivos, especialmente.
+
+d) Reforzar la cooperación entre los tres órdenes de gobierno, para supervisar la aplicación de las acciones que establece el presente artículo.
+
+e) Financiar las acciones de información y concientización destinadas a fomentar la igualdad entre mujeres y hombres.
+
+f) Vincular todas las acciones financiadas para el adelanto de las mujeres.
+
+g) Evitar la segregación de las personas por razón de su género, del mercado de trabajo.
+
+h) Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública.
+
+i) Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género.
+
+j) Expedir certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
+
+1. La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
+
+2. La integración de la plantilla laboral cuando ésta se componga de al menos el cuarenta por ciento de un mismo género, y el diez por ciento del total corresponda a mujeres que ocupen puestos directivos.
+
+3. La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
+
+4. Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral.
+
+k) Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
+
+l) Promover la participación de mujeres rurales en programas sectoriales en materia agraria.
+
+> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+
+###### Artículo 32 Ter.
+
+De la participación y representación política equilibrada de las mujeres y los hombres
+
+La política estatal y municipal propondrán, en sus debidos ámbitos de competencia, los mecanismos de operación adecuados para la participación equitativa entre mujeres y hombres en la toma de decisiones políticas, tomando como base los siguientes objetivos y acciones:
+
+I. OBJETIVOS:
+
+a) Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad y atienden situaciones de crisis.
+
+b) Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género en todos sus tipos y modalidades.
+
+c) Favorecer el cambio de los roles de género en la sociedad, para crear mayores condiciones de igualdad.
+
+d) Impulsar acciones que aseguren la igualdad de acceso de mujeres y hombres a la alimentación, la educación, la cultura, la seguridad social y la salud.
+
+e) Evitar la feminización en los talleres y labores técnicas en los ámbitos educativos.
+
+f) Incorporar en los programas preventivos de salud, derechos sexuales y reproductivos, así como de educación sexual integral, contenidos en materia de igualdad adecuados a cada nivel educativo.
+
+g) Combatir el analfabetismo de mujeres y hombres en la zona rural y urbana.
+
+h) Fomentar acciones para la participación de los hombres de forma igualitaria en las labores que implican brindar atención y cuidado a menores de edad o personas dependientes, en el ámbito familiar.
+
+II. ACCIONES
+
+a) Favorecer el trabajo parlamentario con la perspectiva de género.
+
+b) Garantizar que la educación en todos sus niveles se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación.
+
+c) Evaluar por medio del área competente de la Comisión de Derechos Humanos del Estado y la del Instituto Electoral y de Participación Ciudadana, la participación equilibrada entre mujeres y hombres en los cargos de elección popular.
+
+d) Promover participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos políticos.
+
+e) Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos.
+
+f) Desarrollar y actualizar estadísticas desagregadas por género, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil.
+
+g) Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos laborales de los poderes Ejecutivo, Legislativo y Judicial.
+
+> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+
+###### Artículo 32 Quater.
+
+De la igualdad de acceso y el pleno disfrute de los derechos sociales y culturales para las mujeres y los hombres
+
+Con el fin de promover la igualdad en el acceso a los derechos sociales y culturales para el pleno disfrute de éstos, serán objetivos y acciones de la política estatal y municipal, en sus debidos ámbitos de competencia los siguientes:
+
+I. OBJETIVOS
+
+a) Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social.
+
+b) Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad.
+
+c) Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
+
+d) Modificar los patrones socioculturales de conducta de hombres y mujeres con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias y de cualquier otra índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas de hombres y mujeres.
+
+II. ACCIONES
+
+a) Garantizar el seguimiento y la evaluación de la aplicación en los tres órdenes de gobierno, de la legislación existente, en armonización con instrumentos federales e internacionales.
+
+b) Promover el conocimiento de la legislación y la jurisprudencia en la materia en la sociedad.
+
+c) Difundir en la sociedad el conocimiento de sus derechos y los mecanismos para su exigibilidad.
+
+d) Integrar el principio de igualdad en el ámbito de la protección social.
+
+e) Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres a la alimentación, la educación y la salud.
+
+f) Promover campañas nacionales permanentes de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos.
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere este inciso, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas.
+
+> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+
+###### Artículo 32 Quinquies.
+
+De la igualdad entre mujeres y hombres en la vida civil
+
+La política estatal y municipal, en sus debidos ámbitos de competencia, referente a la materia de igualdad entre mujeres y hombres deberán garantizar en materia civil los siguientes objetivos y acciones:
+
+I. OBJETIVOS
+
+a) Evaluar, incorporar y fomentar en la legislación en materia la perspectiva de igualdad entre hombres y mujeres.
+
+b) Promover los derechos específicos al respeto irrestricto de la igualdad y al cumplimiento de los derechos humanos universales de las mujeres.
+
+c) Aplicar procedimientos para la administración de justicia familiar que garanticen resoluciones expeditas y apegadas a derecho, en materia de obligaciones alimentarias, reconocimiento de paternidad, divorcio y sucesiones, para reducir el impacto económico y emocional de estos juicios.
+
+d) Erradicar las distintas modalidades de desigualdad y de violencia de género.
+
+II. ACCIONES
+
+a) Impulsar y realizar reformas legislativas y políticas públicas para garantizar el cumplimiento del derecho de familia y de los hijos, así como de las responsabilidades derivadas de la paternidad, de igual forma prevenir, atender, sancionar y erradicar la desigualdad de las mujeres y hombres en los ámbitos público y privado.
+
+b) Generar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares.
+
+c) Capacitar a los servidores y entes públicos encargados de la procuración y administración de justicia, en materia de igualdad entre mujeres y hombres.
+
+d) Reforzar con las organizaciones internacionales de cooperación para el desarrollo, los mecanismos de cooperación en materia de derechos humanos e igualdad entre mujeres y hombres.
+
+e) Promover la utilización de un lenguaje con perspectiva de igualdad entre géneros, en la totalidad de las relaciones sociales.
+
+> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+
+###### Artículo 32 Sexies.
+
+De la eliminación de estereotipos establecidos en función del género
+
+La política estatal para la igualdad entre mujeres y hombres, tendrá como objetivo a través de las autoridades correspondientes desarrollar acciones para la eliminación de los estereotipos que en función del género fomentan la discriminación y violencia hacia las personas, siendo las siguientes acciones:
+
+I. Promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género; que fomentan la discriminación y la violencia por razones del género.
+
+II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres.
+
+III. Vigilar la integración de una perspectiva de género en todas las políticas públicas.
+
+IV. Velar por que los medios de comunicación transmitan una imagen igualitaria, plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
+
+V. Promover la utilización de un lenguaje con perspectiva de género.
+
+> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+
+###### Artículo 32 Septies.
+
+Del derecho a la información entre mujeres y hombres
+
+Toda persona tendrá derecho a que las autoridades y organismos públicos pongan a su disposición la información que les soliciten sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+
+###### Artículo 32 Octies.
+
+De la igualdad entre mujeres y hombres en el ámbito educativo
+
+Con el fin de promover y procurar la igualdad en el ámbito educativo, la política estatal y municipal, en sus debidos ámbitos de competencia, deberán garantizar los siguientes objetivos y acciones:
+
+I. OBJETIVOS
+
+a) Incluir entre sus fines, la educación en el respeto de los derechos fundamentales y en la igualdad de derechos y oportunidades entre mujeres y hombres, para eliminar los obstáculos que la dificultan.
+
+b) Integrar el principio de igualdad sustantiva en los programas y políticas educativas, eliminando los estereotipos que produzcan desigualdad.
+
+c) Desarrollar proyectos y programas dirigidos a fomentar el conocimiento y la difusión y el respeto del principio de igualdad.
+
+d) Establecer medidas y materiales educativos destinados al reconocimiento y ejercicio de la igualdad en los espacios educativos.
+
+e) Garantizar una educación y capacitación para el trabajo sustentadas en el principio de igualdad.
+
+f) Incentivar la investigación en todo lo concerniente a la igualdad entre mujeres y hombres.
+
+II. ACCIONES
+
+a) Integrar en los programas y políticas educativas el principio de igualdad de trato, evitando la reproducción de estereotipos sociales que produzcan desigualdades entre mujeres y hombres.
+
+b) Garantizar que la educación, en todos sus niveles, se realice en el marco de la igualdad entre mujeres y hombres, creando conciencia sobre la necesidad de eliminar la discriminación.
+
+c) Incluir la preparación inicial y permanente del profesorado en cursos sobre la aplicación del principio de igualdad.
+
+> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+
+###### Artículo 32 Nonies.
+
+De la igualdad entre mujeres y hombres en el ámbito de acceso a la justicia y seguridad pública
+
+Serán objetivos y acciones de la política estatal y municipal, en sus debidos ámbitos de competencia, referente a la igualdad entre mujeres y hombres en materia de acceso a la justicia y seguridad pública:
+
+I. OBJETIVOS
+
+a) Diseñar los lineamientos para la accesibilidad a la justicia en igualdad de oportunidades.
+
+b) Garantizar la asistencia jurídica a quienes presenten desigualdad por motivos de edad o de sexo, o hayan vivido algún tipo de discriminación.
+
+c) Impulsar la aplicabilidad de la legislación en materia de igualdad y violencia de género.
+
+d) Eliminar el trato discriminatorio en los sistemas de procuración y administración de justicia basados en estereotipos.
+
+e) Garantizar la seguridad pública de las mujeres.
+
+f) Garantizar la reparación del daño a las mujeres y hombres víctimas de delitos, violencia o violación a sus derechos humanos.
+
+g) Fomentar la prevención social del delito contra mujeres, hombres, niñas, niños, y adolescentes.
+
+h) Procurar el respeto de los derechos humanos de las mujeres, hombres, niñas, niños y adolescentes.
+
+i) El cambio de percepción e ideología de las personas operadoras de dichos sistemas, a través de la capacitación de las mismas con perspectiva de género.
+
+j) La agilización de los procedimientos, evitando formalismos que alarguen el juicio y por tanto dificulten la posibilidad de acceder a una justicia real.
+
+k) El establecimiento de sistemas de información con datos desagregados por sexo.
+
+II. ACCIONES
+
+a) Garantizar la existencia de abogados que otorguen asistencia jurídica a las mujeres para eliminar las desigualdades en el acceso a la justicia.
+
+b) Impulsar la capacitación y sensibilización de las y los servidores públicos encargados de la procuración y administración de justicia, en materia de igualdad entre mujeres y hombres.
+
+c) Establecer los mecanismos para la atención en la reparación del daño y tratamiento psicológico a las víctimas en todos los tipos y modalidades de violencia.
+
+d) Incorporar el servicio de traductores de la lengua maya en las áreas de la procuración y administración de justicia donde se requiera.
+
+e) Otorgar seguridad pública considerando las necesidades específicas de las mujeres y los hombres.
+
+f) Difundir en la sociedad el conocimiento de sus derechos y los mecanismos para su exigibilidad.
+
+g) Garantizar la igualdad sustantiva en la protección de las y los defensores de los derechos humanos.
 
 ### Capítulo VII. Responsabilidades
 
@@ -612,3 +894,19 @@ A partir de la entrada en vigor de este decreto, el patrimonio, el presupuesto d
 Quinto. Procedimientos, juicios y asuntos en trámite
 
 Todos los procedimientos, juicios y demás asuntos relacionados con las materias relacionadas con este decreto que se encuentren en trámite a su entrada en vigor, se substanciarán y resolverán hasta su total conclusión de conformidad con las normas aplicables al momento en que fueron iniciados.
+
+D.O. 22 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 224/2020 POR EL QUE SE MODIFICA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, EN MATERIA DE OBJETIVOS Y ACCIONES DE LA POLÍTICA ESTATAL DE IGUALDAD ENTRE HOMBRES Y MUJERES”.]
+
+Artículo primero. Entrada en vigor.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Recursos presupuestarios.
+
+De conformidad con la normatividad jurídica, administrativa y presupuestaria correspondiente, las autoridades competentes deberán tomar en consideración los recursos presupuestarios, materiales y humanos, para el cumplimiento de la política local en materia de igualdad que se prevé en este decreto.
+
+Artículo tercero. Derogación tácita.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este decreto.
