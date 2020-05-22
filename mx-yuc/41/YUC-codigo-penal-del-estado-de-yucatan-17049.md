@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2020-03-13"
+last_updated: "2020-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MAYO DE 2020.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -1706,6 +1706,14 @@ Si quien violare los sellos fuere el encargado de la custodia de los mismos o el
 A quien cometa un delito en contra de algún servidor público, a los que hace referencia el artículo 97 de la Constitución Política del Estado, en el acto de autoridad en el ejercicio de sus funciones o con motivo de éstas, o contra una institución pública, se le impondrá sanción de uno a cuatro años de prisión y de uno a diez días-multa, además de la que corresponda imponerle por el delito cometido.
 
 Los delitos a que se refiere este artículo siempre serán perseguidos de oficio.
+
+> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+
+###### ARTÍCULO 185 Bis.
+
+Se aplicará sanción de dos a cinco años de prisión o hasta 300 días multa al que realice por sí o incite a otros a realizar actos discriminatorios tales como la negación en la prestación de un servicio público o privado, se restrinja su libertad de tránsito o se dañe la integridad emocional y psicológica en contra del personal de salud por razón del desempeño de sus labores.
+
+Las sanciones a que se refiere el primer párrafo de este artículo se aumentarán hasta en una mitad, cuando los actos descritos se realicen durante una emergencia sanitaria.
 
 ### CAPÍTULO V. ENCUBRIMIENTO
 
@@ -4129,6 +4137,16 @@ A quien infiera una lesión que no ponga en peligro la vida del ofendido y tarde
 
 Los delitos previstos en este artículo se perseguirán por querella de la parte ofendida.
 
+> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+
+###### ARTÍCULO 358 Bis.
+
+Cuando el ofendido pertenezca a una institución médica o de prestación de servicios de salud pública o privada, para aquellas lesiones que no pongan en peligro la vida del ofendido y tarde en sanar hasta quince días, se le impondrán a quien la infiera, de uno a tres años de prisión o de cincuenta a doscientos días - multa y de cincuenta a cien días de trabajo en favor de la comunidad. Si tardare en sanar más de quince días se le impondrá de tres a cinco años de prisión y de cincuenta a quinientos días-multa.
+
+Cuando las conductas señaladas en el presente artículo se cometan durante una emergencia sanitaria o, quien las infiera sea un servidor público, las penalidades del párrafo anterior se aumentarán hasta en una mitad más.
+
+Los delitos previstos en este artículo se perseguirán de oficio.
+
 ###### ARTÍCULO 359.
 
 A quien infiera una lesión que deje al ofendido cicatriz en la cara y siempre que además sea perpetua y notable, se le impondrá prisión de dos a cinco años y de diez a cincuenta días-multa.
@@ -5108,6 +5126,14 @@ Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se opon
 D.O. 13 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 192/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUMENTO DE SANCIONES POR DELITOS COMETIDOS EN CONTRA DE PERIODISTAS”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del Gobierno del Estado de Yucatán.
+
+D.O. 22 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 221/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN”.]
 
 Artículo único. Entrada en vigor
 
