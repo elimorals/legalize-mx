@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2020-03-28"
+last_updated: "2020-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2020.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -237,9 +237,11 @@ El Estado adopta para su régimen interior, la forma de gobierno republicano, re
 
 La extensión y los límites del territorio del Estado de Zacatecas son los fijados de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos. Las entidades federativas con las que tiene colindancia geográfica son Aguascalientes, Coahuila, Durango, Guanajuato, Jalisco, Nayarit, Nuevo León y San Luis Potosí.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
+
 ###### Artículo 9°.
 
-La ciudad de Zacatecas es la capital del Estado y sede de sus tres Poderes, ninguno de los cuales podrá asentarse en otro Municipio sino en forma temporal, por causa grave y mediante decreto aprobado por mayoría calificada de dos tercios de los Diputados de la Legislatura.
+La ciudad de Zacatecas es la capital del Estado y sede de sus tres Poderes, ninguno de los cuales podrá asentarse en otro Municipio sino en forma temporal, por causa grave y mediante decreto aprobado por mayoría calificada de dos tercios de las Diputadas y los Diputados de la Legislatura.
 
 ### CAPÍTULO CUARTO. DE LA POBLACIÓN DEL ESTADO
 
@@ -281,11 +283,15 @@ d). Credencial para Votar con Fotografía.
 
 Los zacatecanos serán preferidos frente a quienes no lo sean, para toda clase de concesiones que deban otorgar los gobiernos del Estado o de sus Municipios, y en la asignación de empleos, cargos o comisiones, remunerados u honoríficos, que corresponda discernir a dichos gobiernos.
 
-### CAPÍTULO SEXTO. DE LOS CIUDADANOS ZACATECANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2020)</small>
+
+### CAPÍTULO SEXTO. DE LAS Y LOS CIUDADANOS ZACATECANOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
 
 ###### Artículo 13.
 
-Son ciudadanos del Estado:
+Son ciudadanas y ciudadanos del Estado:
 
 I. Los zacatecanos que han cumplido dieciocho años y tienen un modo honesto de vivir;
 
@@ -295,13 +301,15 @@ II. Los mexicanos vecinos del Estado, con residencia de por lo menos seis meses,
 
 III. Los mexicanos a quienes la Legislatura del Estado, con pleno conocimiento de causa, declare zacatecanos en virtud de haber prestado servicios de alta significación para el desarrollo material y cultural de la Entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
+
 ###### Artículo 14.
 
-Son derechos de los ciudadanos zacatecanos:
+Son derechos de la ciudadanía:
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
 
-I. Votar en las elecciones y consultas populares, en los términos que señale la ley. Los ciudadanos con residencia en el extranjero, podrán votar para la elección de Gobernador;
+I. Votar en las elecciones y consultas populares, en los términos que señale la ley. Las ciudadanas y los ciudadanos con residencia en el extranjero, podrán votar para la elección de Gobernador;
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
 
@@ -309,9 +317,9 @@ II. Participar en la preparación, desarrollo y vigilancia de los procesos elect
 
 III. Participar en los procesos de referéndum, de plebiscito, de iniciativa popular y de revocación del mandato a que se convoque en los términos de esta Constitución y sus leyes reglamentarias;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
 
-IV. Ser votados y registrados para acceder a cargos de elección popular, en los términos, requisitos y condiciones que establezca la ley y nombrados para cualquier otro empleo o comisión, siempre que reúnan las calidades que establece la ley. Para ocupar los cargos de diputado local o integrante de algún Ayuntamiento, no se requiere ser mexicano por nacimiento;
+IV. Ser votada y registrada en condiciones de paridad para acceder a cargos de elección popular, en los términos, requisitos y condiciones que establezca la ley y nombrada para cualquier otro empleo o comisión, siempre que reúnan las calidades que establece la ley. Para ocupar los cargos de diputada y diputado local o integrante de algún Ayuntamiento, no se requiere ser mexicano por nacimiento;
 
 V. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos concernientes al Estado o al Municipio
 
@@ -323,9 +331,11 @@ VI. Constituir y afiliarse libre e individualmente a partidos políticos naciona
 
 VII. Ejercer el derecho de libertad de expresión y acceso a la información, en los términos de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
+
 ###### Artículo 15.
 
-Son obligaciones de los ciudadanos del Estado:
+Son obligaciones de la ciudadanía del Estado:
 
 I. Inscribirse en el catastro de la municipalidad donde residan, manifestando la propiedad que tengan y la industria, profesión o trabajo de que subsistan;
 
@@ -343,9 +353,11 @@ VI. Participar en los procesos de referéndum, de plebiscito, de iniciativa popu
 
 VII. Los demás que deriven de la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
+
 ###### Artículo 16.
 
-Los derechos de los ciudadanos zacatecanos se suspenden:
+Los derechos de la ciudadanía zacatecana se suspenden:
 
 I. Por incumplimiento, sin causa justificada, de alguna de las obligaciones señaladas en el artículo anterior, hasta por un año, independientemente de las penas que por el mismo hecho determine la ley;
 
@@ -357,9 +369,11 @@ IV. Por estar sustraído a la acción de la justicia; y
 
 V. Por sentencia ejecutoria que imponga como pena la suspensión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
+
 ###### Artículo 17.
 
-La calidad de ciudadano zacatecano se pierde:
+La ciudadanía zacatecana se pierde:
 
 I. Por dejar de ser ciudadano mexicano; y
 
@@ -417,9 +431,11 @@ Todas las autoridades, en el ámbito de sus competencias, tienen la obligación 
 
 Queda prohibida toda forma de discriminación motivada por el origen étnico, nacional o regional, el género, la raza, el color de piel, las características físicas, el idioma, el estado civil, la edad, la profesión, el trabajo desempeñado, la condición social o económica, las discapacidades, las condiciones de salud, el estado de embarazo, las costumbres, las preferencias sexuales, las ideologías o creencias religiosas, la calidad migratoria o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
+
 ###### Artículo 22.
 
-La mujer y el varón son iguales ante la ley y deben gozar de las mismas oportunidades para el desenvolvimiento de sus facultades físicas e intelectuales, así como de las mismas seguridades para la preservación de su vida, integridad física y moral, y su patrimonio.
+La mujer y el hombre son iguales ante la ley y deben gozar de las mismas oportunidades para el desenvolvimiento de sus facultades físicas e intelectuales, así como de las mismas seguridades para la preservación de su vida, integridad física y moral, y su patrimonio.
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -683,15 +699,19 @@ En todos los casos el Estado y los Municipios darán preferencia a los sectores 
 
 ### CAPÍTULO PRIMERO. DE LOS PROCESOS ELECTORALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
 
 ###### Artículo 35.
 
-Corresponde al Estado garantizar la integración de los poderes públicos en los términos que disponen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen. En consecuencia, la organización, preparación y realización de las elecciones de sus titulares, cuando su renovación deba hacerse por la vía comicial, es competencia del Instituto Nacional Electoral y del Instituto Electoral del Estado de Zacatecas y a la vez derecho de los ciudadanos, quienes podrán participar como candidatos de manera independiente y, de los partidos políticos, quienes intervendrán de manera concurrente, en los términos que las leyes de la materia determinen.
+Corresponde al Estado garantizar la integración de los poderes públicos en los términos que disponen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen. En consecuencia, la organización, preparación y realización de las elecciones de sus titulares, cuando su renovación deba hacerse por la vía comicial, es competencia del Instituto Nacional Electoral y del Instituto Electoral del Estado de Zacatecas y a la vez derecho de los ciudadanos, quienes podrán participar como candidatos y candidatas de manera independiente y, de los partidos políticos, quienes intervendrán de manera concurrente, en los términos que las leyes de la materia determinen.
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2020)</small>
 
-La elección local ordinaria para elegir Gobernador, Diputados y Ayuntamientos, se celebrará el primer domingo de junio del año que corresponda.
+La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Estatal y sus equivalentes en los Municipios. En la integración de los organismos autónomos se observará el mismo principio.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
+
+La elección local ordinaria para elegir Gobernador, Diputadas y Diputados y Ayuntamientos, se celebrará el primer domingo de junio del año que corresponda.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -705,11 +725,11 @@ Los servidores públicos del Estado y de los Municipios, en el ámbito de sus co
 
 Los servidores públicos tendrán en todo momento la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad y deberán abstenerse de participar para influir en la equidad de la competencia entre los partidos políticos y los candidatos independientes.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
 
 ###### Artículo 37.
 
-Los ciudadanos zacatecanos tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales, así como de consulta popular previstas por las leyes para el mejor desempeño de las atribuciones de los poderes públicos.
+Las ciudadanas y los ciudadanos zacatecanos tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales, así como de consulta popular previstas por las leyes para el mejor desempeño de las atribuciones de los poderes públicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -795,7 +815,9 @@ XII. El Instituto Electoral del Estado de Zacatecas solicitará el apoyo al Inst
 
 XIII. El Instituto Electoral del Estado de Zacatecas, ejercerá atribuciones en las siguientes materias:
 
-a) Derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
+
+a) Derechos y el acceso a las prerrogativas de las candidatas y los candidatos y partidos políticos;
 
 b) Educación cívica;
 
@@ -865,11 +887,15 @@ En caso de presentarse alguna vacante temporal de alguno de los magistrados, és
 
 B. El Tribunal de Justicia Electoral del Estado de Zacatecas, en el ámbito de su competencia le corresponderá en los términos de esta Constitución y la Ley, resolver sobre:
 
-I. Las impugnaciones en las elecciones para Diputados locales y de Ayuntamientos;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
+
+I. Las impugnaciones en las elecciones para Diputadas y Diputados locales y de Ayuntamientos;
 
 II. Las impugnaciones que se presenten sobre la elección de Gobernador del Estado;
 
-III. La realización del cómputo final de la elección de Gobernador del Estado; una vez resueltas las impugnaciones que se hubiesen interpuesto, en su caso, procederá a formular la declaración de validez de la elección y la de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
+
+III. La realización del cómputo final de la elección de Gobernador del Estado; una vez resueltas las impugnaciones que se hubiesen interpuesto, en su caso, procederá a formular la declaración de validez de la elección y la de Gobernador electo, respecto de la candidata o candidato que hubiese obtenido el mayor número de votos;
 
 Las impugnaciones de actos y resoluciones de la autoridad electoral, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales;
 
@@ -909,11 +935,11 @@ En caso de nulidad de la elección, se convocará a una elección extraordinaria
 
 ### CAPÍTULO TERCERO. DE LOS PARTIDOS POLÍTICOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
 
 ###### Artículo 43.
 
-Los partidos políticos son entidades de interés público, con registro legal ante el Instituto Nacional Electoral o ante el Instituto Electoral del Estado de Zacatecas; tienen derecho de participar en las elecciones constitucionales de los Poderes Legislativo y Ejecutivo así como de los Ayuntamientos, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público. La ley determinará los derechos, obligaciones y prerrogativas que les correspondan.
+Los partidos políticos son entidades de interés público, con registro legal ante el Instituto Nacional Electoral o ante el Instituto Electoral del Estado de Zacatecas; tienen derecho de participar en las elecciones constitucionales de los Poderes Legislativo y Ejecutivo así como de los Ayuntamientos, y tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones ciudadanas, hacer posible el acceso de éstos al ejercicio del poder público. La ley determinará los derechos, obligaciones y prerrogativas que les correspondan.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -931,17 +957,17 @@ Los partidos políticos sólo se constituirán por ciudadanos mexicanos sin inte
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos en los términos que expresamente señale la ley.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
 
-La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, en los que se garantizará la paridad entre los géneros, de los cuales, el 20% tendrá calidad de joven en ambos géneros en las candidaturas; así como las reglas para las precampañas y las campañas electorales y las sanciones para quienes las infrinjan.
+La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatas y candidatos a cargos de elección popular, en los que se garantizará la paridad entre los géneros, de los cuales, el 20% tendrá calidad de joven en ambos géneros en las candidaturas; así como las reglas para las precampañas y las campañas electorales y las sanciones para quienes las infrinjan.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
 La ley determinará las normas y requisitos para su registro legal y las formas específicas de su intervención en el proceso electoral local. Del mismo modo, establecerá el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
 
-La ley establecerá las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. La duración de las campañas será de 60 a 90 días para la elección de Gobernador y de 30 a 60 días cuando sólo se elijan diputados locales o Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+La ley establecerá las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. La duración de las campañas será de 60 a 90 días para la elección de Gobernador y de 30 a 60 días cuando sólo se elijan diputadas y diputados locales o Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -997,25 +1023,23 @@ El financiamiento público que reciban los partidos políticos que conserven su 
 
 I. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes lo fijará anualmente la Legislatura en el Presupuesto de Egresos del Estado, de conformidad con el anteproyecto que le envíe el Instituto Electoral del Estado a más tardar el quince de noviembre de cada año. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral local, con corte al treinta y uno de julio de cada año, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización que emita el Instituto Nacional de Estadística y Geografía. El treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente se asignará a los partidos en forma igualitaria, y el restante setenta por ciento se distribuirá entre los mismos, de acuerdo con el porcentaje de votos que hubiesen obtenido en la elección de Diputados inmediata anterior, siempre y cuando hubiesen obtenido como mínimo el 3% de la votación válida emitida;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
 
-II. El financiamiento público de los partidos políticos para las actividades tendientes a la obtención del voto durante el año en que se elija Gobernador del Estado, Diputados Locales y Ayuntamientos, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan Diputados Locales y Ayuntamientos, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias;
+II. El financiamiento público de los partidos políticos para las actividades tendientes a la obtención del voto durante el año en que se elija Gobernador del Estado, Diputados Locales y Ayuntamientos, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan Diputadas y Diputados Locales y Ayuntamientos, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
 
 III. El financiamiento público para actividades específicas, relativas a la educación, capacitación política, equidad entre los géneros, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en el mismo año para las actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
 
-IV. El Instituto Electoral del Estado de Zacatecas, tendrá a su cargo la fiscalización de los recursos de los partidos políticos y candidatos, cuando el Instituto Nacional Electoral le delegue esa atribución en términos del artículo 41, Base V, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia.
+IV. El Instituto Electoral del Estado de Zacatecas, tendrá a su cargo la fiscalización de los recursos de los partidos políticos y candidatas y candidatos, cuando el Instituto Nacional Electoral le delegue esa atribución en términos del artículo 41, Base V, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
 El cincuenta por ciento de los recursos económicos derivados de infracciones cometidas por los sujetos del régimen sancionador electoral impuestas por el organismo público electoral local, serán destinados para el fortalecimiento de la infraestructura y proyectos estratégicos del Consejo Zacatecano de Ciencia, Tecnología e Innovación, en los términos de las leyes generales aplicables. El cincuenta por ciento restante, será destinado a programas de empoderamiento de la mujer, que desarrolle el Instituto Electoral del Estado de Zacatecas; y
 
 V. (DEROGADA, P.O. 12 DE JULIO DE 2014)
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 > <small>(REFORMADO EN SU NUMERACIÓN, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -1081,11 +1105,15 @@ La Legislatura del Estado convocará a plebiscito en los términos que establezc
 
 I. El Gobernador del Estado;
 
-II. El equivalente al treinta y tres por ciento de los Diputados de la Legislatura;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
+
+II. El equivalente al treinta y tres por ciento de las Diputadas y Diputados de la Legislatura;
 
 III. Los Ayuntamientos, respecto de sus propios actos o decisiones; o
 
-IV. Los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores en el Estado.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
+
+IV. Las ciudadanas y ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores en el Estado.
 
 (REUBICADO Y REFORMADO, [ANTES PRIMER PÁRRAFO], P.O. 15 DE MARZO DE 2000)
 
@@ -1115,17 +1143,15 @@ Es obligación de los distintos órganos del poder público instituir relaciones
 
 El Poder Legislativo se deposita en una asamblea que se nombrará “Legislatura del Estado”, integrada por representantes del Pueblo denominados Diputados, los que serán electos en su totalidad cada tres años. Contará con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de sus ingresos y egresos, mismo que será designado por las dos terceras partes de los miembros presentes de la Legislatura del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
 
 ###### Artículo 51.
 
-La Legislatura del Estado se integra con dieciocho diputados electos por el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por doce diputados electos según el principio de representación proporcional, conforme al sistema de lista plurinominal votada en una sola circunscripción electoral. De estos últimos, dos deberán tener al momento de la elección, la calidad de migrantes o binacionales, en los términos que establezca la ley.
+La Legislatura del Estado se integra con dieciocho diputadas y diputados electos por el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por doce diputados electos según el principio de representación proporcional, conforme al sistema de lista plurinominal votada en una sola circunscripción electoral, conformada de acuerdo con el principio de paridad, y encabezada alternadamente entre mujeres y hombres cada periodo electivo. De estos últimos, dos deberán tener al momento de la elección, la calidad de migrantes o binacionales, en los términos que establezca la ley.
 
-Las elecciones de Diputados por ambos sistemas se sujetarán a las bases establecidas en esta Constitución y a las disposiciones de la ley electoral. Los Diputados de mayoría relativa y los de representación proporcional tendrán los mismos derechos y obligaciones.
+Las elecciones de Diputadas y Diputados por ambos sistemas se sujetarán a las bases establecidas en esta Constitución y a las disposiciones de la ley electoral. Las Diputadas y los Diputados de mayoría relativa y los de representación proporcional tendrán los mismos derechos y obligaciones.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
-
-Por cada Diputado propietario se elegirá un suplente. Los Diputados podrán ser electos consecutivamente por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Por cada Diputada o Diputado propietario se elegirá un suplente. Las y los Diputados podrán ser electos consecutivamente por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -1133,29 +1159,33 @@ Por cada Diputado propietario se elegirá un suplente. Los Diputados podrán ser
 
 La demarcación territorial de los dieciocho distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados, tomando en cuenta el último censo de población y los criterios generales que determine el Consejo General del Instituto Nacional Electoral.
 
-La facultad de asignar Diputados de representación proporcional corresponderá al Consejo General del Instituto Electoral del Estado, el que deberá ejercerla en la sesión de cómputo estatal que para el efecto prevenga la ley electoral, de conformidad con la convocatoria emitida por el Consejo para esa elección.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+La facultad de asignar Diputadas y Diputados de representación proporcional corresponderá al Consejo General del Instituto Electoral del Estado, el que deberá ejercerla en la sesión de cómputo estatal que para el efecto prevenga la ley electoral, de conformidad con la convocatoria emitida por el Consejo para esa elección.
 
-Para la asignación de diputados de representación proporcional se seguirá el orden que tuvieren los candidatos en la lista correspondiente, a excepción de los dos que tengan la calidad de migrantes o binacionales, los que serán asignados a los dos partidos políticos que obtengan el mayor porcentaje en la votación. Al efecto, se aplicará una fórmula de proporcionalidad pura, integrada con los siguientes elementos: cociente natural y resto mayor. Ningún partido podrá tener más de dieciocho diputados en la Legislatura, por ambos principios.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
+
+Para la asignación de diputadas y diputados de representación proporcional se seguirá el orden que tuvieren las candidatas y los candidatos en la lista correspondiente, a excepción de los dos que tengan la calidad de migrantes o binacionales, los que serán asignados a los dos partidos políticos que obtengan el mayor porcentaje en la votación. Al efecto, se aplicará una fórmula de proporcionalidad pura, integrada con los siguientes elementos: cociente natural y resto mayor. Ningún partido podrá tener más de dieciocho diputadas o diputados en la Legislatura, por ambos principios.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
 Los partidos políticos podrán coaligarse o celebrar alianzas conforme a la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2020)</small>
 
-Para que un partido tenga derecho a participar en la asignación de diputados por el principio de representación proporcional, deberá de acreditar:
+Para que un partido tenga derecho a participar en la asignación de diputadas y diputados por el principio de representación proporcional, deberá de acreditar:
 
-I. Que participa con candidatos cuando menos en trece distritos electorales uninominales así como en la totalidad de las fórmulas por lista plurinominal; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
+
+I. Que participa con candidatas y candidatos cuando menos en trece distritos electorales uninominales así como en la totalidad de las fórmulas por lista plurinominal; y
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
 
 II. Que obtuvo por lo menos el tres por ciento de la votación válida emitida en el Estado.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
 
-En la asignación de diputados por el principio de representación proporcional, se estará a lo que disponga la ley electoral local.
+En la asignación de diputadas y diputados por el principio de representación proporcional, se estará a lo que disponga la ley electoral local.
 
 > <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -1957,6 +1987,10 @@ Las leyes establecerán los medios necesarios para que se garantice la independe
 
 La ley determinará la organización, competencia y funcionamiento del Tribunal Especializado en Justicia para Adolescentes.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2020)</small>
+
+La ley establecerá la forma y procedimientos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
+
 ###### Artículo 91.
 
 La justicia se administra en nombre del Estado, en los plazos y términos que fijen las leyes; los órganos jurisdiccionales emitirán sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito; en consecuencia, se prohíben las costas judiciales.
@@ -1983,13 +2017,17 @@ Los Magistrados y Jueces no podrán en ningún caso aceptar y desempeñar empleo
 
 #### SECCIÓN SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2020)</small>
 
 ###### Artículo 95.
 
-El Tribunal Superior de Justicia se compondrá de 13 Magistrados y funcionará en Pleno o en Salas.
+El Tribunal Superior de Justicia se compondrá de 13 Magistradas y Magistrados y funcionará en Pleno o en Salas.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
 
 Los Magistrados del Tribunal Superior de Justicia, durarán en su encargo catorce años. Sólo podrán ser removidos del mismo en los términos del Título VII de esta Constitución, y al vencimiento de su periodo tendrán derecho a un haber por retiro.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
 
 Ninguna persona que haya sido Magistrado podrá ser nombrada para un nuevo periodo, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
 
@@ -2437,9 +2475,9 @@ Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán cel
 
 II. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa que entrará en funciones el día quince de septiembre siguiente a su elección, durará en su cargo tres años y residirá en la cabecera municipal.
 
-> <small>(ADICIONADO [N. DE E. ANTES ÚLTIMO PÁRRAFO], P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
 
-El Ayuntamiento se integrará por un Presidente, un Síndico y el número de Regidores que determine esta Constitución y la Ley, quienes tendrán derecho a la elección consecutiva para el mismo cargo, por un período adicional, siempre y cuando sean postulados por el mismo partido o por cualquiera de los partidos integrantes de la coalición que les hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Por cada integrante del Ayuntamiento con el carácter de propietario se elegirá un suplente.
+El Ayuntamiento se integrará por un Presidente o Presidenta, una Sindicatura y el número de regidurías que determine esta Constitución y la Ley, de conformidad con el principio de paridad, quienes tendrán derecho a la elección consecutiva para el mismo cargo, por un período adicional, siempre y cuando sean postulados por el mismo partido o por cualquiera de los partidos integrantes de la coalición que les hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Por cada integrante del Ayuntamiento con el carácter de propietario se elegirá un suplente.
 
 El Ayuntamiento es depositario de la función pública municipal y constituye la primera instancia de gobierno, con el propósito de recoger y atender las necesidades colectivas y sociales, así como para articular y promover el desarrollo integral y sustentable del Municipio.
 
@@ -3922,3 +3960,17 @@ Los servidores públicos que a la entrada en vigor del presente Decreto formen p
 Artículo Octavo. En un término de 60 días a partir de la publicación de las leyes y adecuaciones normativas a las que se refiere el artículo segundo de este régimen transitorio, los Entes Públicos relacionados con su aplicación deberán realizar las modificaciones reglamentarias que sean necesarias para dar cumplimiento al presente Decreto.
 
 Artículo Noveno. Se derogan todas las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 23 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 390.- REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de lo dispuesto en los artículos siguientes:
+
+Segundo. Legislatura del Estado deberá realizar las adecuaciones que correspondan en las leyes Estatales, en un plazo máximo de seis meses contados a partir del inicio de la vigencia de este Decreto.
+
+Tercero. Los ayuntamientos del estado de Zacatecas dispondrán de un plazo que no exceda de treinta días a partir de la fecha de entrada en vigor del presente para armonizar sus reglamentos en relación con la materia.
+
+Cuarto. La observancia del principio de paridad de género a que se refiere el artículo 35, será aplicable a quienes tomen posesión de su encargo, a partir del proceso local siguiente a la entrada en vigor del presente Decreto, según corresponda.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
