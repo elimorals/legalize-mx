@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2020-05-03"
+last_updated: "2020-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1547,9 +1547,17 @@ II. El momento en que cesó la consumación, si el delito es permanente;
 
 III. El día en que se realizó la última conducta, si el delito es continuado;
 
-IV. El momento en que se realizó el último acto de ejecución o se omitió la conducta debida, si se trata de tentativa; y,
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2020)</small>
 
-V. El día en que el Ministerio Público haya recibido el oficio correspondiente, en los casos en que se hubiere librado orden de reaprehensión o presentación, respecto del procesado que se haya sustraído de la acción de la justicia.
+IV. El momento en que se realizó el último acto de ejecución o se omitió la conducta debida, si se trata de tentativa;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2020)</small>
+
+V. El día en que el Ministerio Público haya recibido el oficio correspondiente, en los casos en que se hubiere librado orden de reaprehensión o presentación, respecto del procesado que se haya sustraído de la acción de la justicia; y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2020)</small>
+
+VI. En el caso de que la víctima directa del delito sea persona que no tenga la capacidad de comprender el significado del hecho, correrá a partir del momento en que el Ministerio Público tuviera conocimiento del hecho.
 
 ###### Artículo 119.
 
@@ -1819,11 +1827,11 @@ Cuando las lesiones sean calificadas, la pena se incrementará en dos terceras p
 
 La riña es la contienda de obra que se acepta de manera tácita o expresa entre dos o más personas con el ánimo de dañarse recíprocamente.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2020)</small>
 
-###### ARTÍCULO 147.
+###### Artículo 147.
 
-El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria, brutal ferocidad, por razones de orientación sexual o identidad de género, por razones de género en contra de la mujer o por discriminación, aversión o rechazo en contra de la víctima; condición social o económica; por su origen étnico, raza, religión o discapacidad o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia.
+El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria, brutal ferocidad, por razones de orientación sexual o identidad de género, por razones de género en contra de la mujer o por discriminación, aversión o rechazo en contra de la víctima; profesión u oficio; condición social o económica; por su origen étnico, raza, religión o discapacidad o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia.
 
 Se consideran razones de género las mismas contempladas para el delito de feminicidio.
 
@@ -2180,6 +2188,10 @@ Se aplicará de tres meses a un año de prisión y multa de dieciocho a setenta 
 I. Al que de cualquier modo amenace a otro con causarle un mal en su persona, en sus bienes, en su honor o en sus derechos o en la persona, honor, bienes o derechos de alguien con quien esté ligado con algún vínculo; y,
 
 II. Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho a hacer.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2020)</small>
+
+Cuando la amenaza tenga como causa un infundado peligro de contagio o cualquier otra que se entienda irracional, la pena aumentará hasta en una mitad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2019)</small>
 
@@ -2737,7 +2749,9 @@ En caso de reincidencia la pena se incrementará hasta una tercera parte de la q
 
 Se impondrá prisión de cinco a diez años y multa de trescientas sesenta a setecientas veinte veces la Unidad de Medida y Actualización, si el peligro, daño, destrucción o deterioro, se causare por medio de inundación, incendio, bombas o explosivos.
 
-Se impondrá de cinco a diez años de prisión y multa de trescientas sesenta a setecientas veinte veces la Unidad de Medida y Actualización, al que ponga en peligro o cause daños a bienes de valor científico, artístico, cultural, de servicio público, bosques, selvas, pastos o cultivos de cualquier género.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2020)</small>
+
+Se impondrá de cinco a diez años de prisión y multa de trescientas sesenta a setecientas veinte veces la Unidad de Medida y Actualización, al que ponga en peligro o cause daños a bienes de valor científico, artístico, cultural, de servicio público, de atención médica, bosques, pastos o cultivos de cualquier género.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2018)</small>
 
@@ -3465,7 +3479,7 @@ DELITOS CONTRA LA ECONOMÍA PÚBLICA ESTATAL
 
 ### CAPITULO I. ALTERACION Y DAÑOS AL AMBIENTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2020)</small>
 
 ###### Artículo 261.
 
@@ -3615,9 +3629,11 @@ DELITOS CONTRA EL AMBIENTE Y LOS RECURSOS NATURALES
 
 ###### Artículo 268.
 
-Se le impondrán de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización, al que deteriore áreas naturales protegidas o el ecosistema del suelo de conservación.
+Comete el delito de ecocidio quien por acción, omisión o comisión por omisión provoque directa o indirectamente un daño, destrucción o la perdida vasta, duradera y grave de uno o más ecosistemas o áreas naturales protegidas, en una zona determinada, de tal manera que la vida y disfrute de los habitantes entendiendo como éstos a cualquier ser vivo, se vea gravemente limitada, en el momento y/o en el futuro.
 
-Las penas anteriores se duplicarán, si el deterioro es ocasionado por personas cuya actividad es la exploración, explotación o manejo de minerales o de cualquier depósito del subsuelo.
+Al responsable del delito de ecocidio se le impondrá pena de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientas cuarenta y ocho veces la Unidad de Medida y Actualización.
+
+Se aumentará hasta en una mitad la pena, si el deterioro es ocasionado por personas cuya actividad sea la exploración, explotación o manejo de minerales o de cualquier depósito del subsuelo.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -4067,7 +4083,7 @@ La pena señalada en el artículo 298 se impondrá a aquellas personas que oblig
 
 ### CAPÍTULO II. DISCRIMINACIÓN
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2020)</small>
 
 ###### Artículo 300.
 
@@ -4169,29 +4185,53 @@ No se considerará como intimidación ilícita, informar aquellas consecuencias 
 
 ###### Artículo 306.
 
-Comete el delito de discriminación quien por razones de edad, género, embarazo, estado civil, raza, color de piel, idioma, religión, ideología, orientación sexual, opiniones políticas, posición social o económica, discapacidad, condición física, estado de salud o cualquier otra índole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de las siguientes conductas:
+Comete el delito de discriminación quien, por razones de edad, género, embarazo, estado civil, raza, color de piel, idioma, religión, ideología, orientación sexual, opiniones políticas, profesión u oficio, posición social o económica, discapacidad, condición física, estado de salud o cualquier otra índole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de las siguientes conductas:
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
 I. VEJACIONES CON EFECTOS MORALES O MATERIALES. Veje o excluya a alguna de dichas personas o a un grupo de ellas, cuando esa conducta tenga por resultado un daño material o moral;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
 II. DISCRIMINACIÓN EN LA PRESTACIÓN DE SERVICIOS. En ejercicio de sus actividades profesionales, mercantiles o empresariales, niegue a alguna de esas personas, un servicio o una prestación a la que tengan derecho.
 
 Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones de una persona o grupo de personas;
 
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2020)</small>
+
 III. PROVOCACIONES INNOBLES. Provoque o incite a la discriminación, al odio o a la violencia en perjuicio de una persona o un grupo de personas;
+
+Cuando la discriminación sea en contra de cualquier personal de salud del sector público o privado, la pena aumentará hasta en una mitad de la correspondiente para este delito.
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
 IV. LIMITACIONES LABORALES. Les niegue o restrinja sus derechos laborales adquiridos, principalmente por razones de género o embarazo, o limite un servicio de salud principalmente a la mujer en relación con el embarazo; o,
 
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
 V. DERECHOS EDUCATIVOS. Les niegue o restrinja sus derechos educativos.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 Para este delito se impondrá de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis veces la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 Al que siendo servidor público, incurra en alguna de las conductas previstas en este artículo, o niegue o retarde a una de las personas en él mencionado trámite, servicio o prestación o que tenga derecho, se le aumentará en una mitad la pena prevista en el párrafo anterior de este artículo, y se le impondrá la destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo tiempo de la pena de prisión impuesta.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 No serán considerados como delitos contra la dignidad de las personas, todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que el ofendido tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
 Asimismo, se incrementará en una mitad la pena cuando los actos previstos en este artículo limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 La autoridad judicial competente estará obligada en su resolución a señalar a favor de la víctima lo relativo a las medidas afirmativas correspondientes que garanticen que los actos, omisiones o prácticas sociales discriminatorias no se repitan en su perjuicio.
 
@@ -6388,3 +6428,27 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 324.- QUE CONTIENE REFORMA AL ARTÍCULO 268 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO Y A LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE DEL ESTADO DE DURANGO, EN MATERIA DE ECOCIDIO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 325.- POR EL QUE SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 118 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 326.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 147, 174, 207, 306 EN SU PRIMER PÁRRAFO Y EN SU FRACCIÓN III, TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
