@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2019-11-17"
+last_updated: "2020-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -215,6 +215,14 @@ Para la integración del orden del día de las sesiones, los magistrados remitir
 
 De cada sesión se levantará el acta respectiva, la que una vez aprobada, será firmada por el Presidente, los magistrados asistentes y el Secretario General de Acuerdos del Pleno.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2020)</small>
+
+ARTÍCULO 6 BIS. El Pleno del Tribunal Superior de Justicia podrá celebrar sesiones virtuales o a distancia mediante el uso de las tecnologías, cuando exista una declaratoria de emergencia decretada por autoridad competente, siempre y cuando por las características particulares de la emergencia, se impida la asistencia presencial de los integrantes del Pleno.
+
+Bastará la asistencia virtual o a distancia de más de la mitad de sus miembros para que pueda sesionar válidamente, entre los que deberá estar su Presidente o quien lo sustituya legalmente.
+
+Para el caso de la celebración de sesiones virtuales o a distancia, se deberá autorizar la validez y el uso de la firma electrónica.
+
 ###### ARTÍCULO 7.
 
 Los magistrados tienen voz y voto en las sesiones. Las resoluciones del Pleno se tomarán por unanimidad o por el voto de más de la mitad de los magistrados presentes, excepto en aquellos casos en que la ley disponga que se tomen por mayoría calificada del Pleno.
@@ -231,7 +239,7 @@ El Pleno del Tribunal Superior de Justicia está facultado para expedir los regl
 
 #### SECCIÓN SEGUNDA. DE SUS ATRIBUCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 9.
 
@@ -321,9 +329,17 @@ XXXVIII. Crear las unidades u órganos de apoyo que sean necesarios para la admi
 
 XXXIX. Aprobar a más tardar el día 21 de enero del año que corresponda el Plan Trianual de Desarrollo Estratégico del Poder Judicial del Estado, a que se alude en la fracción XLVII del artículo 87 de la presente ley, propuesto por el Consejo de la Judicatura;
 
-XL. Designar a quien presida la sesión del Pleno del Consejo de la Judicatura en los casos de impedimento del Presidente y Vicepresidente del Tribunal Superior de Justicia; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2020)</small>
 
-XLI. Las demás que le confiera esta ley, las leyes especiales u otras disposiciones legales aplicables.
+XL. Designar a quien presida la sesión del Pleno del Consejo de la Judicatura en los casos de impedimento del Presidente y Vicepresidente del Tribunal Superior de Justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2020)</small>
+
+XLI. Acordar la realización y validez de sesiones virtuales o a distancia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2020)</small>
+
+XLII. Las demás que le confiera esta ley, las leyes especiales u otras disposiciones legales aplicables.
 
 ### CAPÍTULO III. DEL PRESIDENTE
 
@@ -1217,6 +1233,14 @@ Las ordinarias se verificarán una vez por semana; y las extraordinarias, cuando
 
 De cada sesión, el Secretario levantará el acta correspondiente, misma que deberá firmar en unión del Presidente y de los consejeros que hayan estado presentes en la sesión.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2020)</small>
+
+ARTÍCULO 81 BIS. El Pleno del Consejo de la Judicatura, podrá celebrar sesiones virtuales o a distancia mediante el uso de las tecnologías, cuando exista una declaratoria de emergencia decretada por autoridad competente, siempre y cuando por las características particulares de la emergencia, se impida la asistencia presencial de los integrantes.
+
+Bastará la asistencia virtual o a distancia de tres de sus integrantes, entre los que deberá estar invariablemente su Presidente; y en caso de ausencia o impedimento, el Vicepresidente del Tribunal; y si éste se encuentra en la misma situación, presidirá sólo para la sesión correspondiente quien determine el Pleno del Tribunal.
+
+Para la celebración de sesiones virtuales o a distancia, del Consejo de la Judicatura como para las reuniones de las comisiones bajo esa misma modalidad, se deberá autorizar la validez y el uso de la firma electrónica.
+
 ###### ARTÍCULO 82.
 
 Los acuerdos del Pleno del Consejo de la Judicatura se aprobarán por unanimidad o por mayoría de votos de sus integrantes presentes y por mayoría calificada de cuatro votos, cuando se trate de los casos previstos en las fracciones III, IV, V, VI, VII, X, XII, XIII, XXIII, XXX y XLII del artículo 87 de esta ley. Sus integrantes no podrán abstenerse de votar sino cuando tengan impedimento legal calificado por el mismo Consejo o cuando no hayan asistido a la discusión del asunto de que se trate. En caso de empate, el Presidente tendrá voto de calidad, siguiéndose al respecto el procedimiento que establece el artículo 7 de esta ley.
@@ -1250,6 +1274,8 @@ Las comisiones informarán mensualmente al Pleno del Consejo de la Judicatura so
 En los casos de que las comisiones no puedan resolver un asunto de su competencia, su conocimiento y fallo pasarán al Pleno del Consejo de la Judicatura.
 
 #### SECCIÓN TERCERA. DE SUS FACULTADES Y OBLIGACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 87.
 
@@ -1365,11 +1391,17 @@ XLVII. Elaborar a propuesta del Presidente, el Plan Trianual de Desarrollo Estra
 
 XLVIII. Desempeñar cualquiera otra función que esta ley o el Tribunal Superior de Justicia por acuerdo del Pleno le encomiende; y
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2020)</small>
 
-XLIX. Emitir acuerdos para que el Poder Judicial garantice el acceso a la justicia para las personas con discapacidad, tomando en cuenta las disposiciones del Protocolo de Actuación para quienes imparten Justica en casos que involucren Derechos de Personas con Discapacidad, elaborado por la Suprema Corte de Justicia de la Nación; y
+XLIX. Emitir acuerdos para que el Poder Judicial garantice el acceso a la justicia para las personas con discapacidad, tomando en cuenta las disposiciones del Protocolo de Actuación para quienes imparten Justica en casos que involucren Derechos de Personas con Discapacidad, elaborado por la Suprema Corte de Justicia de la Nación;
 
-L. Las demás que le confieran las leyes u otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2020)</small>
+
+L. Acordar la realización y validez de sesiones virtuales o a distancia del mismo consejo, así como la realización de reuniones de las comisiones bajo esa misma modalidad; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2020)</small>
+
+LI. Las demás que le confieran las leyes u otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 88.
 
@@ -3610,3 +3642,11 @@ SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entr
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
+
+P.O. 24 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 327.-·POR EL QUE SE ADICIONAN LOS ARTÍCULOS 6 BIS Y 81 BIS Y SE REFORMAN LOS ARTÍCULOS 9 Y 87 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
