@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-130614
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-09-24"
-last_updated: "2019-11-04"
+last_updated: "2020-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2020.
 
 Estatuto publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de septiembre de 2018.
 
@@ -250,6 +250,10 @@ Las sesiones que celebre la Junta de Gobierno, serán convocadas por su Presiden
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2019)</small>
 
 Para la celebración de las sesiones, la convocatoria se realizará por oficio, deberá ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario Técnico y recibidos por los miembros de la Junta de Gobierno, con una anticipación no menor de cinco días hábiles, en el caso de las sesiones ordinarias y de dos días hábiles en el caso de las sesiones extraordinarias.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2020)</small>
+
+Los integrantes de la Junta de Gobierno deben asistir de manera presencial o vía remota, a las sesiones a las que sean convocados oportunamente, de lo contrario tienen que justificar su ausencia mediante oficio. Los integrantes que pretendan participar de manera remota, deberán informarlo antes de que inicie la sesión; dicha participación se realizará mediante el uso de las plataformas y tecnologías que el Secretario Técnico determine, quien además al comenzar la sesión, verificará directamente o por conducto del personal de la Secretaría Ejecutiva que para el efecto autorice, la existencia de comunicación remota a fin de dar por presente al integrante de que se trate.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2019)</small>
 
@@ -881,9 +885,11 @@ En todo caso, las sesiones serán convocadas por el Secretario Técnico, en su c
 
 Para efectos de este artículo, la notificación de la convocatoria se tendrá por realizada, el día y hora que obre en la cuenta de correo electrónico remitente.
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2020)</small>
 
-ARTÍCULO 32 G.- El Consejo Editorial sesionará válidamente con la presencia de tres de sus miembros. Sus acuerdos se tomarán por mayoría de votos de los presentes y quien funja en la sesión como presidente, tendrá voto de calidad.
+ARTÍCULO 32 G.- Los integrantes del Consejo Editorial deberán asistir de manera presencial o vía remota, a las sesiones a las que sean convocados oportunamente, de lo contrario tienen que justificar su ausencia mediante oficio; los integrantes que pretendan participar de manera remota, deberán informarlo antes de que inicie la sesión; dicha participación se realizará mediante el uso de las plataformas y tecnologías que el Presidente determine, quien además al comenzar la sesión, verificará directamente o por conducto del personal de la Secretaría Ejecutiva que para el efecto autorice, la existencia de comunicación remota a fin de dar por presente al integrante de que se trate. El Consejo Editorial sesionará válidamente con la asistencia de tres de sus miembros; sus acuerdos se tomarán por mayoría de votos de los presentes y quien funja en la sesión como presidente, tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
 Si a la hora señalada para el inicio de la sesión no existe el quórum referido en el párrafo anterior, se esperará a los ausentes hasta por quince minutos, transcurrido dicho tiempo sin que se logre el quórum, se podrá esperar el tiempo que acuerden los presentes y transcurrido éste, la sesión podrá diferirse, pudiéndose señalar en ese momento el día, hora y lugar para su desahogo, en cuyo caso quien esté presente se tendrán (sic) por notificado y a los ausentes, se les comunicará con al menos doce horas de anticipación a la nueva fecha y hora señaladas para el desahogo de la sesión, sin ser necesario remitir nuevamente la documentación respectiva.
 
@@ -891,9 +897,13 @@ Si a la hora señalada para el inicio de la sesión no existe el quórum referid
 
 ARTÍCULO 32 H.- El Presidente y el Secretario del Consejo Editorial, podrán designar mediante oficio, al Servidor Público de la Secretaría Ejecutiva habilitado para suplirlos en sus ausencias. El Vocal, de la misma manera, podrá designar como su suplente a otro miembro del Comité de Participación Ciudadana. Cuando el Presidente no realice designación, corresponderá al Secretario suplir su ausencia, en cuyo caso, el propio Secretario designará por oficio, al Servidor Público de la Secretaría Ejecutiva que lo sustituirá en la sesión.
 
-Quien supla conforme al párrafo anterior, contará sólo con las atribuciones que correspondan al titular, concernientes al desahogo de sesiones.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2020)</small>
 
-Los Consejeros deberán participar directamente en las sesiones del Consejo Editorial, por lo que no se admitirán suplencias de los mismos.
+Quien supla conforme al párrafo anterior, contará sólo con las atribuciones que correspondan al titular, concernientes al desahogo de sesiones, pudiendo participar en las mismas de manera remota, conforme a lo previsto en el artículo 32 G de este Estatuto.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2020)</small>
+
+Los Consejeros deberán participar directamente, de manera presencial o vía remota, en las sesiones del Consejo Editorial, por lo que no se admitirán suplencias de los mismos.
 
 El Secretario Técnico, en su calidad de Presidente del Consejo Editorial, podrá invitar a participar a las sesiones a quien estime conveniente de acuerdo con los temas a tratar. Dichos invitados participarán sólo con voz.
 
@@ -935,7 +945,9 @@ La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exh
 
 La Comisión Ejecutiva celebrará sesiones ordinarias y extraordinarias que serán convocadas por el Secretario Técnico.
 
-Las sesiones ordinarias se llevarán a cabo cada tres meses, por lo menos. Las sesiones extraordinarias se llevarán a cabo cuando así sean convocadas.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2020)</small>
+
+Las sesiones ordinarias se llevarán a cabo cada tres meses, por lo menos. Las sesiones extraordinarias se llevarán a cabo cuando así sean convocadas. Los integrantes de la Comisión Ejecutiva deben asistir de manera presencial o vía remota, a las sesiones a las que sean convocados oportunamente, de lo contrario tienen que justificar su ausencia mediante oficio. Los integrantes que pretendan participar de manera remota, deberán informarlo antes de que inicie la sesión; dicha participación se realizará mediante el uso de las plataformas y tecnologías que el Secretario Técnico determine, quien además al comenzar la sesión, verificará directamente o por conducto del personal de la Secretaría Ejecutiva que para el efecto autorice, la existencia de comunicación remota a fin de dar por presente al integrante de que se trate.
 
 Para la celebración de las sesiones, la convocatoria se podrá realizar por oficio o a través de correo electrónico que al efecto se remita a la cuenta que proporcionen los integrantes; y deberá ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario Técnico y recibidos por los miembros la Comisión Ejecutiva con una anticipación no menor de cinco días hábiles, en el caso de las sesiones ordinarias y con una anticipación no menor de dos días hábiles, en el caso de las sesiones extraordinarias.
 
@@ -1064,3 +1076,11 @@ P.O. 4 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE LA JUNTA DE GOBIERNO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, POR EL QUE SE ADICIONA Y REFORMA EL ESTATUTO ORGÁNICO".]
 
 ÚNICO.- La presente reforma, iniciará su vigencia al momento de su aprobación.
+
+P.O. 25 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA JUNTA DE GOBIERNO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 14 Y SE REFORMAN LOS ARTÍCULOS 32 G, 32 H Y 37 DEL ESTATUTO ORGÁNICO DE DICHA SECRETARÍA”.]
+
+PRIMERO.- El presente Acuerdo, iniciará su vigencia al momento de su aprobación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado de Aguascalientes.
