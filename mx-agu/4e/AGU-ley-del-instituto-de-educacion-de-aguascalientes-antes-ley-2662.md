@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-antes-ley-2662
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-07"
-last_updated: "2014-03-11"
+last_updated: "2020-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES -ANTES LEY DEL INSTITUTO DE EDUCACION BASICA Y NORMAL DEL ESTADO DE AGUASCALIENTES-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 25 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2020 (ABROGADA).
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -436,3 +438,41 @@ P.O. 11 DE MARZO DE 2014.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Instituto de Educación de Aguascalientes, emitida por virtud del Decreto Número 182, publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 07 de junio de 1992, así como sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto de Educación de Aguascalientes al que se hace mención en la presente Ley, para todo efecto a que haya lugar, es el mismo organismo público descentralizado de la Administración Pública Estatal a que se refiere la Ley del Instituto de Educación de Aguascalientes, emitida mediante el Decreto Número 182, publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 07 de junio de 1992, en consecuencia, conservará los recursos humanos, financieros y materiales.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades correspondientes deberán respetar íntegramente los derechos de los trabajadores de la educación y reconocer la titularidad de las relaciones laborales colectivas existentes con el Sindicato Nacional de Trabajadores de la Educación, en los términos de su registro vigente, en los términos de las disposiciones legales correspondientes.
+
+###### ARTÍCULO QUINTO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al contenido de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+El Director General del Instituto de Educación de Aguascalientes deberá inscribir el presente ordenamiento en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales.
+
+ARTÍCULO SÉPTIMO El Consejo Interior del Instituto de Educación de Aguascalientes deberá expedir las adecuaciones al Reglamento Interior del Instituto de Educación de Aguascalientes, a que se refiere la presente Ley en un término que no exceda de 120 días naturales.
+
+###### ARTÍCULO OCTAVO.
+
+El Consejo Interior del Instituto de Educación de Aguascalientes deberá realizar las adecuaciones necesarias a la demás normatividad interna aplicable a este Organismo Descentralizado, con motivo de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, el Consejo Interior de la Entidad Paraestatal que nos ocupa deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de su publicación.
