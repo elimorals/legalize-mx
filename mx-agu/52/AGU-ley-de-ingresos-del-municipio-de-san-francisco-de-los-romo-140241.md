@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-san-francisco-de-los-romo-1402
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-27"
-last_updated: "2019-12-27"
+last_updated: "2020-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # LEY DE INGRESOS DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2020 EN EL P.O. DEL ESTADO DE AGUASCALIENTES , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE INGRESOS DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2020.
 
 Ley publicada en la Décima Primera Sección al número 37 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de diciembre de 2019.
 
