@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-instituto-de-credito-educativo-y-becas-del-277
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-22"
-last_updated: "2019-06-10"
+last_updated: "2020-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DEL INSTITUTO DE CREDITO EDUCATIVO Y BECAS DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 25 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGANICA DEL INSTITUTO DE CREDITO EDUCATIVO Y BECAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2020 (ABROGADA).
 
 Ley publicada en el Suplemento al Número 51 del Periódico Oficial del Estado de Aguascalientes, el 22 de diciembre de 1991.
 
@@ -184,3 +186,55 @@ El Ejecutivo Estatal sentará las bases para la aplicación de las reformas esta
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor una vez que se haya cumplido con el artículo primero transitorio.
+
+P.O. 25 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 341.- ARTÍCULO ÚNICO.- SE EXPIDE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Educación del Estado de Aguascalientes, publicada el 11 de marzo del año 2014 en el Periódico Oficial del Estado de Aguascalientes y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Autoridad Educativa Estatal deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades correspondientes deberán respetar íntegramente los derechos de los trabajadores de la educación y reconocer la titularidad de las relaciones laborales colectivas existentes con el Sindicato Nacional de Trabajadores de la Educación, en los términos de su registro vigente, en los términos de las disposiciones legales correspondientes.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos de los Trabajadores de la Educación adquiridos con anterioridad a la entrada en vigor de este Decreto continuarán vigentes conforme a los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se hubieren fundado.
+
+###### ARTÍCULO SEXTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El sistema integral de formación, capacitación y actualización del Estado de Aguascalientes, previsto en el artículo 90 de este Decreto deberá instalarse antes de finalizar el año 2020.
+
+###### ARTÍCULO OCTAVO.
+
+El Programa Educativo Estatal previsto en el artículo 104 de este Decreto se presentará en un plazo no mayor a sesenta días contados a la entrada en vigor del mismo. Dicho Programa se actualizará en el caso de los cambios de administración del Poder Ejecutivo Estatal y observará lo establecido en la Ley de Educación para el Estado de Aguascalientes.
+
+###### ARTÍCULO NOVENO.
+
+En tanto se expiden los lineamientos previstos en el artículo 103 de la Ley General de Educación y se realicen las adecuaciones normativas aplicables, la instancia que realizará las actividades correspondientes en materia de infraestructura educativa señalada en el artículo 98 de la presente Ley, lo será el Instituto de Infraestructura Física del Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO.
+
+Se abroga la Ley Orgánica del Instituto de Profesionalización para el Docente del Estado de Aguascalientes, publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de mayo de 2018 en virtud del Decreto Número 296 de la Sexagésima Tercera Legislatura.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga la Ley Orgánica del Instituto de Crédito Educativo y Becas del Estado de Aguascalientes publicada en el Periódico Oficial del Estado de Aguascalientes, el 22 de diciembre de 1991 por la Quincuagésima Cuarta Legislatura del H. Congreso del Estado de Aguascalientes.
+
+###### ARTÍCULO DECIMO SEGUNDO.
+
+Se abroga la Ley de Estímulos y Recompensas del Estado de Aguascalientes publicada en el Periódico Oficial del Estado de Aguascalientes, el 29 de agosto de 1965.
