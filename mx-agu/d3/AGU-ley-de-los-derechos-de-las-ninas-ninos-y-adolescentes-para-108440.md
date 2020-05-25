@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2019-11-04"
+last_updated: "2020-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2020.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -729,9 +729,17 @@ XV. Establecer medidas tendientes a la prevención, atención, combate y rehabil
 
 XVI. Establecer medidas tendientes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental;
 
-XVII. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2020)</small>
 
-XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
+XVII. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2020)</small>
+
+XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2020)</small>
+
+XIX. Diseñar e implementar las políticas y programas necesarios para la prevención y protección de la integridad sexual de niñas, niños y adolescentes.
 
 Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
@@ -801,9 +809,9 @@ Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a 
 
 Las niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2020)</small>
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrá derecho a decidir e intervenir en la educación que habrá de darse a niñas, niños y adolescentes, asimismo tendrán la facultad de corregirlos en su conducta, lo cual no implicará violencia familiar en los términos del Capítulo Tercero, Título Sexto, Libro Primero del Código Civil para el Estado de Aguascalientes, castigos corporales o tratos crueles, denigrantes o humillantes que atenten contra la integridad física o psíquica de niñas, niños y adolescentes.
+Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a decidir e intervenir en la educación que habrá de darse a niñas, niños y adolescentes, asimismo tendrán la facultad de corregirlos en su conducta, lo cual no implicará violencia familiar en los términos del Capítulo Tercero, Título Sexto, Libro Primero del Código Civil para el Estado de Aguascalientes, castigos corporales o tratos crueles, denigrantes o humillantes que atenten contra la integridad física o psíquica de niñas, niños y adolescentes.
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma, para lo cual deberán:
 
@@ -823,7 +831,9 @@ VII. Implementar mecanismos para la atención, canalización y seguimiento de lo
 
 VIII. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-IX. Establecer mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2020)</small>
+
+IX. Establecer y ejecutar los mecanismos para la prevención, detección, atención y canalización de los casos de maltrato, perjuicio, acoso, agresión, abuso o cualquier otra forma de violencia que atente contra la integridad física, psicológica, afectiva o sexual de niñas, niños y adolescentes que se suscite en los centros educativos;
 
 X. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
@@ -1461,6 +1471,8 @@ La Procuraduría de Protección Local será coadyuvante de la Procuraduría de P
 
 ### CAPÍTULO III. Del Sistema Local de Protección
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2020)</small>
+
 ###### Artículo 107.
 
 Las autoridades estatales y municipales, incluyendo los organismos constitucionales autónomos, en el ámbito de su competencia, deberán establecer y garantizar el cumplimiento de la política nacional y local en materia de derechos de niñas, niños y adolescentes.
@@ -1535,15 +1547,23 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Contar con un programa de atención y con un área o con servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias locales y federales competentes.
 
-La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos de las niñas, niños y adolescentes, contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección Local de forma inmediata; y
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2020)</small>
 
-XIII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la Ley General, se asuman en el Sistema Nacional DIF y el Sistema DIF Estatal.
+La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos de las niñas, niños y adolescentes, contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección Local de forma inmediata;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MAYO DE 2020)</small>
+
+XIII. Establecer y ejecutar los mecanismos para la prevención, detección, atención y canalización de los casos de maltrato, perjuicio, acoso, agresión, abuso o cualquier otra forma de violencia que atente contra la integridad física, psicológica, afectiva o sexual de niñas, niños y adolescentes que se suscite en los centros educativos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MAYO DE 2020)</small>
+
+XIV. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la Ley General, se asuman en el Sistema Nacional DIF y el Sistema DIF Estatal.
 
 ### CAPÍTULO V. De la Procuraduría de Protección Local
 
 ###### Artículo 111.
 
-Para asegurar una adecuada protección de los derechos de niñas, niños y adolescentes, en el Estado de Aguascalientes, se crea el Sistema Local de Protección, como instancia encargada de establecer instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes. Garantizará además, la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
+Para asegurar una adecuada protección de los derechos de niñas, niños y adolescentes en el Estado de Aguascalientes, se crea el Sistema Local de Protección, como instancia encargada de establecer instrumentos, políticas, procedimientos, servicios, programas y acciones de protección de los derechos de niñas, niños y adolescentes. Garantizará además, la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
 
 ###### Artículo 112.
 
@@ -1589,7 +1609,15 @@ XIX. Coordinar las acciones de la Procuraduría de Protección Local y de las de
 
 XX. Celebrar convenios de coordinación en la materia que correspondan en el ámbito de sus atribuciones;
 
-XXI. Coordinarse con los Sistemas Municipales de Protección, que establezcan los Municipios del Estado para el cumplimiento de lo dispuesto en esta Ley y en la Ley General; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2020)</small>
+
+XXI. Coordinarse con los Sistemas Municipales de Protección, que establezcan los Municipios del Estado para el cumplimiento de lo dispuesto en esta Ley y en la Ley General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MAYO DE 2020)</small>
+
+XXII. Diseñar e implementar las políticas y programas necesarios para la prevención de la violación de los derechos de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MAYO DE 2020)</small>
 
 XXII. Las demás que les otorguen otras disposiciones aplicables.
 
@@ -1809,13 +1837,17 @@ XVIII. Recibir por escrito, medios digitales o telefónicos, debidamente autoriz
 
 Dentro de las 24 horas siguientes a la recepción de las solicitudes de intervención, la Procuraduría deberá emitir el acuerdo respectivo señalando el tratamiento que se dará a éstas;
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2020)</small>
 
-XIX. Realizar de manera permanente y continua, campañas de información y divulgación acerca de los derechos de las niñas, niños y adolescentes, así como de los mecanismos y procedimientos para presentar denuncias o solicitudes de intervención; y
+XIX. Realizar de manera permanente y continua, campañas de información y divulgación acerca de los derechos de las niñas, niños y adolescentes, así como de los mecanismos y procedimientos para presentar denuncias o solicitudes de intervención.
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MAYO DE 2020)</small>
 
-XX. Las demás que les confieran otras disposiciones aplicables.
+XX. Realizar cualquier trámite, procedimiento o acción ante el Registro Civil y demás autoridades competentes, para garantizar el derecho a la identidad de niñas, niños y adolescentes, mediante el registro de su nacimiento, así como la obtención de los documentos necesarios para acreditar su identidad.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MAYO DE 2020)</small>
+
+XXI. Las demás que les confieran otras disposiciones aplicables.
 
 ###### Artículo 120.
 
@@ -2240,6 +2272,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 4 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 224.- ARTÍCULO ÚNICO: SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 28, LAS FRACCIONES II Y III DEL ARTÍCULO 29 ASÍ COMO SE ADICIONA UNA FRACCIÓN IV DEL ARTÍCULO 29 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 333.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 50, FRACCIONES XVII Y XVIII; 57, PÁRRAFO SEGUNDO FRACCIÓN IX; 110, FRACCIONES XII PÁRRAFO SEGUNDO, Y XIII, 111, 112 FRACCIONES XXI Y XXII; 119, FRACCIONES XIX Y XX; Y SE ADICIONAN LA FRACCIÓN XIX AL ARTÍCULO 50; LA FRACCIÓN XIV AL ARTÍCULO 110; LA FRACCIÓN XXIII AL ARTÍCULO 112; Y LA FRACCIÓN XXI AL ARTÍCULO 119; TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
