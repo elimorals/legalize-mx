@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2020-04-24"
+last_updated: "2020-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -5225,10 +5225,10 @@ TERCERA.- Se derogan todas las disposiciones secundarias que se opongan al prese
 
 P.O. 24 DE ABRIL DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS OCHENTA Y DOS POR EL CUAL SE REFORMA EL ARTÍCULO 100 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS OCHENTA Y DOS POR EL CUAL SE REFORMA EL ARTÍCULO 100 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
 
 PRIMER (SIC). Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación, sanción y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan las disposiciones de igual o menor grado que se opongan a la presente reforma.
