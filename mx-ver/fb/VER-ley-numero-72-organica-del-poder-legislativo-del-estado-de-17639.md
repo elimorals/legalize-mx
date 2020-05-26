@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2020-05-08"
+last_updated: "2020-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -483,7 +483,7 @@ XL. Cambiar su sede, provisionalmente, si para ello existe el acuerdo de las dos
 
 En conmemoración a la firma de los "Tratados de Córdoba", el Congreso celebrará sesión solemne con motivo del día cívico estatal de 24 de agosto en dicha ciudad, sin necesidad de emitir acuerdo sobre la sede provisional, en la que también participarán los titulares de los Poderes Ejecutivo y Judicial. Las funciones del Estado llevarán a cabo las acciones necesarias para que se promueva y difunda la historia, cultura y civismo de esa fecha conforme a sus ámbitos de competencia.
 
-XLI. Sesionar por lo menos una vez cada año en la cabecera de algún municipio del norte, centro o sur del Estado, notificando su determinación a los otros dos Poderes;
+XLI. (DEROGADA, G.O. 26 DE MAYO DE 2020)
 
 > <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
@@ -2008,3 +2008,11 @@ PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publi
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. En un plazo máximo de treinta días naturales contado a partir de la entrada en vigor del presente Decreto, el Congreso deberá expedir el Reglamento de Sesiones a Distancia del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave. En tanto se expide dicho ordenamiento, la Junta de Trabajos Legislativos deberá acordar la forma que seguirán los debates, discusiones, deliberaciones y, en su caso, votaciones, de las sesiones a distancia.
+
+G.O. 26 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 562 QUE DEROGA LA FRACCIÓN XLI DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
