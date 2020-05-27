@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-atencion-y-apoyo-a-la-victima-y-al-ofendido-del-50702"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2019-08-01"
+last_updated: "2020-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "GUA"
 ---
 # LEY DE ATENCION Y APOYO A LA VICTIMA Y AL OFENDIDO DEL DELITO EN EL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 27 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, SALVO LAS DISPOSICIONES RELATIVAS AL FONDO PARA LA ATENCIÓN Y APOYO PARA LAS VÍCTIMAS Y OFENDIDOS DEL DELITO DEL ESTADO DE GUANAJUATO A CARGO DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO.]
 
 LEY DE ATENCIÓN Y APOYO A LA VÍCTIMA Y AL OFENDIDO DEL DELITO EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2020 (ABROGADO)
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de mayo de 2006.
 
@@ -1064,3 +1066,37 @@ Procesos de entrega recepción
 Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
 
 El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+P.O. 27 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 183 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO”.]
+
+Entrada en vigor de la Ley
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación y disposiciones relativas al Fondo para la Atención y Apoyo para las Víctimas y Ofendidos del Delito del Estado de Guanajuato a cargo de la Fiscalía General del Estado de Guanajuato
+
+Artículo segundo. Se abroga la Ley de Atención y Apoyo a la Víctima y al Ofendido del Delito del Estado de Guanajuato, expedida mediante el Decreto número 268, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 86, Tercera Parte, de fecha treinta de mayo de dos mil seis, salvo las disposiciones relativas al Fondo para la Atención y Apoyo para las Víctimas y Ofendidos del Delito del Estado de Guanajuato a cargo de la Fiscalía General del Estado de Guanajuato, para cuyos efectos continuará vigente hasta en tanto la Fiscalía General emita las disposiciones correspondientes para la consecución y operación del citado Fondo e instancias respectivas, en el ámbito de su competencia conforme a la Ley Orgánica de la Fiscalía General del Estado de Guanajuato y su Reglamento Interior.
+
+Expedición del Reglamento de la presente Ley
+
+Artículo tercero. El Reglamento de la presente Ley deberá expedirse dentro de los ciento ochenta días siguientes a la fecha en que la Ley entre en vigor.
+
+Instalación del Consejo Consultivo de la Comisión Estatal de Atención Integral de Víctimas
+
+Artículo cuarto. El Consejo Consultivo de la Comisión Estatal de Atención Integral de Víctimas deberá quedar legalmente instalado dentro de los ciento ochenta días siguientes a la entrada en vigor de esta Ley.
+
+Integración de la Comisión Estatal de Atención Integral a Víctimas
+
+Artículo quinto. La Comisión Estatal de Atención Integral a Víctimas a que se refiere el presente Decreto deberá integrarse dentro de los ciento veinte días siguientes a la entrada en vigor de esta Ley.
+
+Previsiones presupuestales
+
+Artículo sexto. El Ejecutivo del Estado deberá hacer las previsiones presupuestales para la operación de la presente Ley y establecer una partida presupuestal específica en el Presupuesto General de Egresos del Estado.
+
+Por conducto de la Secretaría de Finanzas, Inversión y Administración, se proveerá los recursos presupuestales suficientes, creando la partida para la creación del Fondo Estatal de Ayuda , Asistencia y Reparación Integral , dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley.
+
+Establecimiento de planes y programas para la capacitación
+
+Artículo séptimo. Todas las Instituciones encargadas de la capacitación deberán establecer planes y programas tendientes a capacitar a su personal a efecto de dar cumplimiento al presente Decreto.
