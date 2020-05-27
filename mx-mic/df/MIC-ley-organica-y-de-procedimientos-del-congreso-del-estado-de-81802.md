@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2019-08-06"
+last_updated: "2020-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -111,7 +111,9 @@ XII. Ley: La Ley Orgánica y de Procedimientos del Congreso del Estado de Michoa
 
 XIII. Mesa: La Mesa Directiva del Congreso del Estado;
 
-XIV. Pleno: Sesión de los diputados en el Recinto, realizada con cuando menos la mitad más uno de los integrantes de la Legislatura;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2020)</small>
+
+XIV. Pleno: Sesión presencial o virtual de los diputados en el Recinto, realizada con cuando menos la mitad más uno de los integrantes de la Legislatura;
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -125,9 +127,9 @@ XVI. Propuesta de acuerdo: Aquélla propuesta de cualquier Diputado u órganos d
 
 XVII. Presidente del Congreso: Presidente de la Mesa Directiva;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2020)</small>
 
-XVIII. Recinto: El lugar en donde el Congreso se reúne para sesionar; y,
+XVIII. Recinto: El espacio físico o virtual en donde el Pleno se reúne para sesionar; y,
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -345,15 +347,17 @@ La falta de informe o emisión de criterios por parte del Comité no será imped
 
 La sede del Congreso está en la Ciudad de Morelia, Capital del Estado de Michoacán de Ocampo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 25.
 
-El edificio que alberga al Congreso se denomina Palacio del Poder Legislativo, cuenta con un Salón de Pleno o Recinto, donde se celebran las sesiones.
+El edificio que alberga al Congreso se denomina Palacio del Poder Legislativo, cuenta con un Salón de Pleno donde se celebran las sesiones.
 
 En los actos solemnes se podrá sesionar transitoriamente en lugar distinto a la sede del mismo, previa aprobación de las dos terceras partes de los diputados presentes del Congreso.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2020)</small>
 
-Si a juicio de las dos terceras partes de los diputados asistentes existe imposibilidad de sesionar en el Recinto, por causa grave, se podrá sesionar en un lugar distinto, solicitándolo por escrito al Presidente del Congreso.
+Si a juicio de las dos terceras partes de los diputados asistentes existe imposibilidad de sesionar en el Salón de Pleno, por causa grave, se podrá sesionar en un lugar distinto, solicitándolo por escrito al Presidente del Congreso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
 
@@ -455,7 +459,9 @@ XII. Cuidar que las comisiones cumplan oportunamente con sus encargos, dando cue
 
 XIII. Formular excitativa a las comisiones que no hayan presentado dictamen, en términos de la presente Ley;
 
-XIV. Convocar a Sesión a iniciativa propia, por acuerdo de la Junta, de la Conferencia, o a solicitud de los Diputados que representen la tercera parte del Congreso o por excitativa de los poderes del Estado;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2020)</small>
+
+XIV. Convocar a Sesión a iniciativa propia, por acuerdo de la Junta, de la Conferencia, o a solicitud de los Diputados que representen la tercera parte del Congreso o por excitativa de los poderes del Estado. A las convocatorias a sesiones virtuales, además de lo dispuesto en esta ley, se adjuntarán los motivos que dan lugar a las mismas y las especificaciones técnicas correspondientes o información necesaria para su realización;
 
 XV. Convocar y presidir las reuniones de la Conferencia para la Programación de los Trabajos Legislativos;
 
@@ -551,7 +557,9 @@ VII. Al finalizar cada año legislativo, presentar un informe a la Junta de Coor
 
 VIII. Informar por escrito al Presidente del Congreso sobre las faltas en que incurran los diputados;
 
-IX. Redactar personalmente las actas de las sesiones privadas; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2020)</small>
+
+IX. Redactar personalmente las actas de las sesiones privadas y virtuales; y,
 
 X. Las demás que le confiera la presente Ley, los ordenamientos que de ella se deriven y demás disposiciones emanadas del Congreso.
 
@@ -721,6 +729,8 @@ V. Las demás que le confieran esta Ley, las disposiciones reglamentarias y los 
 
 #### SECCIÓN II. DE LOS COMITÉS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 52.
 
 Para el desempeño de sus atribuciones legislativas, administrativas, de fiscalización e investigación del Congreso, los Diputados integrarán Comisiones, las que atendiendo a sus atribuciones, serán:
@@ -827,7 +837,9 @@ Para su funcionamiento, las Comisiones deberán:
 
 I. Elaborar dentro del primer trimestre del primer Año Legislativo, un programa de trabajo para ser presentado a la Conferencia;
 
-II. Sesionar ordinariamente por lo menos una vez al mes, previo citatorio de su presidente, o a petición de la mayoría de sus integrantes, con al menos cuarenta y ocho horas de anticipación, el cual deberá contener el orden del día y los documentos sobre los cuales versará la reunión;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2020)</small>
+
+II. Reunirse ordinariamente por lo menos una vez al mes, previo citatorio de su presidente, o a petición de la mayoría de sus integrantes, con al menos cuarenta y ocho horas de anticipación, el cual deberá contener el orden del día y los documentos sobre los cuales versará la reunión. En analogía a las Sesiones Virtuales del Pleno, dados esos supuestos de imposibilidad para reunirse de manera presencial, se realizarán reuniones virtuales;
 
 III. Integrarán quórum con el cincuenta por ciento más uno del total de sus integrantes;
 
@@ -1699,7 +1711,7 @@ Las Comisiones de Protocolo solamente se integrarán temporalmente para atender 
 
 ###### ARTÍCULO 97.
 
-Los Comités son órganos colegiados, se constituyen por disposición del Pleno para la supervisión y vigilancia de las unidades administrativas del Congreso.
+Los Comités son órganos colegiados, se constituyen por disposición del Pleno para la supervisión y vigilancia de las unidades administrativas del Congreso. En analogía a las Sesiones Virtuales del Pleno, dados esos supuestos de imposibilidad para reunirse de manera presencial, se podrán realizar reuniones virtuales.
 
 Se constituirán comités de las siguientes áreas:
 
@@ -2819,9 +2831,13 @@ I. Públicas: aquellas que se celebren permitiéndose el acceso del público al 
 
 II. Privadas: aquellas en que por tratarse de los casos a que se refiere esta Ley queda prohibido el acceso del público, medios de comunicación y personal administrativo del Congreso al Recinto, en virtud de lo cual los asuntos tratados y los acuerdos tomados, tienen el carácter de reservados;
 
-III. Permanentes: cuando lo determine el Pleno. El tiempo de duración será el necesario para desahogar los asuntos de que se trate; y,
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2020)</small>
 
-IV. Solemnes: aquellas en que por mandato constitucional o legal así se establezcan y conlleven un protocolo especial.
+III. Virtuales: aquellas en las cuales el Pleno se reúna de manera no presencial sino a través de medios electrónicos de comunicación debido a contingencias sanitarias, ecológicas o se trate de algún suceso extraordinario de crisis social o económica. Todos los documentos que se generen podrán ser firmados a través de medios digitales de conformidad con la legislación en la materia. Los asuntos que por su trascendencia deben reservarse para ser tratados en sesiones presenciales no podrán integrarse al orden del día ni ser discutidos o votados en sesiones virtuales, a criterio de la mitad más uno de los diputados integrantes del Congreso del Estado;
+
+IV. Permanentes: cuando lo determine el Pleno. El tiempo de duración será el necesario para desahogar los asuntos de que se trate; y,
+
+V. Solemnes: aquellas en que por mandato constitucional o legal así se establezcan y conlleven un protocolo especial.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
 
@@ -3321,7 +3337,9 @@ II. Para dictámenes con proyecto de Ley o Decreto;
 
 III. Actos del Congreso del Estado en materia de responsabilidades de los servidores públicos;
 
-IV. Asuntos planteados en sesión privada; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2020)</small>
+
+IV. Asuntos planteados en sesión privada y/o virtual; y,
 
 V. Cuando así lo ordene el Presidente del Congreso para mayor certeza en el escrutinio.
 
@@ -4116,3 +4134,13 @@ El presente Decreto entrará en vigor el día de su aprobación por el Pleno del
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 323 POR EL QUE "SE REFORMAN: LAS FRACCIONES XIV Y XVIII DEL ARTÍCULO 4; EL PRIMERO Y TERCER PÁRRAFO DEL ARTÍCULO 25; LA FRACCIÓN XIV DEL ARTÍCULO 33; LA FRACCIÓN IX DEL ARTÍCULO 37; LA FRACCIÓN II DEL ARTÍCULO 61; PRIMER PÁRRAFO DEL ARTÍCULO 97; Y, LA FRACCIÓN IV DEL ARTÍCULO 266; ASIMISMO SE ADICIONA LA FRACCIÓN III RECORRIÉNDOSE EN SU ORDEN LAS FRACCIONES SUBSECUENTES DEL ARTÍCULO 218, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. La presidencia de la Mesa Directiva deberá emitir e implementar las medidas y especificaciones técnicas, de logística o cualquier otra que se requieran para cumplir los periodos de sesiones virtuales ante la contingencia sanitaria y de distanciamiento social ocasionada por la pandemia mundial del COVID-19.
+
+TERCERO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
