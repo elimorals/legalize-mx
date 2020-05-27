@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2018-02-16"
+last_updated: "2020-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -127,19 +127,21 @@ IV. Violencia económica.- Es toda acción u omisión del agresor que afecta la 
 
 V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad sexual, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y (sic)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
-
-VI. Violencia Política.- Es cualquier acto u omisión que limite, niegue, obstaculice, lesione, dañe la integridad y libertad de las mujeres a ejercer en plenitud sus derechos políticos;
+VI. Violencia Política en contra de las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga porobjeto (sic) o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales d e (sic) una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acces (sic) oyejercicio (sic) a las prerrogativas correspondientes a una precandidatura, candidatura o a un cargo público;
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2015)</small>
 
 VII. Violencia Obstétrica.- Es toda acción u omisión por parte del personal médico y de salud, que dañe, lastime, denigre o cause la muerte a la mujer durante el embarazo, parto y puerperio; así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, trayendo consigo pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos (sic) y sexualidad; considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, existiendo condiciones para el parto natural; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer; así como obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2020)</small>
 
-VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VIII. Violencia Digital: Son los actos de acoso, hostigamiento, amenaza, insultos, vulneración de datos e información privada, divulgación de la información apócrifa, mensajes de odio, difusión de contenido sexualsin (sic) consentimiento, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida a través de las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, o cualquier otro espacio digital que atente contra la integridad, dignidad, intimidad, libertad, vida privada o vulnere algúnderecho (sic) humano de las mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE MAYO DE 2020)</small>
+
+IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
@@ -164,6 +166,14 @@ La violencia docente se materializa por aquellas conductas que dañen la autoest
 ###### ARTÍCULO 9.
 
 La violencia laboral y la docente pueden consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño y pueden en algunos casos configurar el acoso o el hostigamiento sexual, en los términos de la legislación penal del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2020)</small>
+
+Se entiende por hostigamiento el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2020)</small>
+
+Se entiende por acoso sexual una forma de violencia sin que exista una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar, pero en que el agresor, con fines sexuales, usa poder que conlleva a un estado de indefensión y riesgo de la víctima.
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
 
@@ -199,31 +209,65 @@ Cuando se presenten casos de violencia feminicida, el Gobierno del Estado y los 
 
 El Gobierno del Estado y los Municipios coadyuvarán con la Federación en la implementación de las medidas y acciones que se determinen en la declaratoria de alerta de violencia de género y participarán en los grupos interinstitucionales y multidisciplinarios que se formen para dar seguimiento a las acciones y medidas señaladas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2020)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2014)</small>
+### Capítulo V BIS. DE LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
 
-### CAPÍTULO V BIS. DE LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2020)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTÍCULO 16 BIS.- La violencia política contra las mujeres en razón de género, es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas correspondientes a una precandidatura, candidatura o a un cargo público.
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2014)</small>
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer, le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-ARTÍCULO 16 BIS.- La violencia contra las mujeres en el ámbito político es cualquier acto u omisión que limite, niegue, obstaculice, lesione, dañe la integridad y libertad de las mujeres a ejercer en plenitud sus derechos políticos en cuestiones como:
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-a) Participación igualitaria en materia política;
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
 
-b) Acceso a puestos públicos por elección o designación estatal como municipal, en agrupaciones, partidos políticos o función pública;
+I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-c) Acceso a los medios, información, recursos, espacios públicos, necesarios para su desarrollo, promoción, capacitación y participación;
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-d) El acceso a programas, proyectos, actividades a los que sea sujeto de derecho;
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-e) Liberad de expresión de sus ideas, filiación o visión política;
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones.
 
-f) Respeto a sus opiniones, imagen, posturas y posicionamientos;
+V. proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
 
-g) Erradicar el acoso, violencia y agresiones por razones políticas; (sic)
+VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
+
+VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+VIII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagenpública (sic) o limitar sus derechos políticos y electorales;
+
+IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+XI. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+XII. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+XIII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+XIV. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+XV. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+XVI. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujeren (sic) ejercicio de sus derechos políticos;
+
+XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas y otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XVIII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XIX. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+XX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio desus (sic) derechos políticos en condiciones de igualdad, o
+
+XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -251,27 +295,33 @@ VI. Procurar que en la designación de integrantes de los órganos colegiados de
 
 El Estado y los Municipios se coordinarán para establecer el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 18.
 
 El Sistema Estatal se conformará por los titulares, o las personas que estos designen de:
 
-I. La Secretaría de Gobierno, quien lo presidirá;
+I. La Secretaría General de Gobierno;
 
-II. La Secretaría de Desarrollo Social;
+II. La Secretaría de Desarrollo Social y Humano, quien lo presidirá;
 
 III. La Secretaría de Seguridad Pública;
 
-IV. La Procuraduría General de Justicia del Estado;
+IV. La Fiscalía General del Estado;
 
-V. La Secretaría de Educación, Cultura y Deporte;
+V. La Secretaría de Educación;
 
 VI. La Secretaría de Salud;
 
 VII. El Instituto de la Mujer del Estado, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
 
-VIII. DIF Estatal; y
+VIII. DIF Estatal;
 
-IX. Los organismos y dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer.
+IX. Los organismos y dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer y los mecanismos para el adelanto de las mujeres;
+
+X. La Delegación Estatal de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+
+XI. El Instituto Electoral del Estado.
 
 ###### ARTÍCULO 19.
 
@@ -359,9 +409,11 @@ XIII. Celebrar convenios de cooperación, coordinación y concertación con los 
 
 XIV. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 24.
 
-La Secretaría de Gobierno tendrá a su cargo:
+La Secretaría General de Gobierno tendrá a su cargo:
 
 I. A propuesta del Instituto de la Mujer formular las bases de coordinación entre las autoridades estatales y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -371,15 +423,19 @@ III. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los d
 
 IV. Realizar a través del Instituto de la Mujer, un diagnóstico estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-V. Presidir el Sistema Estatal; y
+V. (DEROGADA, P.O. 27 DE MAYO DE 2020)
 
 VI. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 25.
 
-La Secretaría de Desarrollo Social será la encargada de:
+La Secretaría de Desarrollo Social y Humano será la encargada de:
 
-I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2020)</small>
+
+I. Presidir el Sistema Estatal, así como fomentar el desarrollo social desde la visión de protección integralde (sic) los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
 II. Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
 
@@ -399,9 +455,11 @@ III. Establecer las acciones y medidas necesarias que para la reeducación de la
 
 IV. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 27.
 
-Corresponderá a la Secretaría de Educación, Cultura y Deporte;
+Corresponderá a la Secretaría de Educación:
 
 I. Promover en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
 
@@ -469,9 +527,11 @@ XI.- Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 XII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 29.
 
-Corresponde a la Procuraduría General de Justicia del Estado, en materia de violencia en contra de las mujeres:
+Corresponde a la Fiscalía General del Estado, en materia de violencia en contra de las mujeres
 
 I. Promover la formación y especialización de Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
 
@@ -551,6 +611,10 @@ XI. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente inmediatamente que conozcan de hechos que impliquen violencia contra las mujeres, en los términos que para tal efecto dispone la legislación Penal del Estado.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2020)</small>
+
+En materia de violencia política de las mujeres en razón de género, el Instituto Electoral del Estado de Campeche y el Tribunal Electoral del Estado de Campeche, podrán solicitar a las autoridades competentes las medidas a que se refiere el presente capítulo
+
 ## TÍTULO SEXTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
 
 ### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
@@ -606,6 +670,10 @@ VI. Realizar todas aquellas inherentes a la prevención, protección y atención
 Los refugios deberán contar con la infraestructura adecuada y el personal debidamente capacitado para proporcionar los servicios de protección y atención a las víctimas.
 
 En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2020)</small>
+
+En las demarcaciones municipales se instalarán refugios para mujeres víctimas de violencia.
 
 ###### ARTÍCULO 37.
 
@@ -674,3 +742,13 @@ P.O. 16 DE FEBRERO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 27 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 133 POR EL QUE SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLECIA DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los municipios del Estado, en la medida de sus posibilidades deberán hacer ajustes presupuestarios necesarios para la aplicación de lo dispuesto en el párrafo quinto del artículo 36 del presente decreto.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
