@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-entrega-y-recepcion-de-los-ayuntamientos-del-estado-8925
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-18"
-last_updated: "2012-07-18"
+last_updated: "2020-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE ENTREGA Y RECEPCION DE LOS AYUNTAMIENTOS DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE ENTREGA RECEPCIÓN DE LOS AYUNTAMIENTOS DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 27 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ENTREGA Y RECEPCIÓN DE LOS AYUNTAMIENTOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2020 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 18 de julio de 2012.
 
@@ -438,3 +440,17 @@ Dado en el Salón de Usos Múltiples del H. Congreso del Estado Libre y Soberano
 De conformidad con la fracción I, del artículo 44, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los diecisiete días del mes de julio del año dos mil doce.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 231 LEY DE ENTREGA RECEPCIÓN DE LOS AYUNTAMIENTOS DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley de Entrega y Recepción de los Ayuntamientos del Estado de Chiapas, publicada en el Periódico Oficial Número 379, Tomo III, de fecha 18 de julio de 2012, mediante Decreto 276; y se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+Artículo Tercero.- Los procedimientos de Entrega Recepción iniciados con anterioridad a la entrada en vigor de la presente Ley, se regirán bajo los parámetros establecidos en la Ley que se encontraba vigente al momento en que se actualizaron los hechos.
+
+Artículo Cuarto.- El Órgano de Fiscalización Superior del Congreso del Estado, emitirá en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, los lineamientos y anexos que resulten necesarios para el debido cumplimiento de la presente Ley.
