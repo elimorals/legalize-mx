@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-132100"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-01-31"
+last_updated: "2020-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2020.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 31 de diciembre de 2018.
 
@@ -2528,6 +2526,10 @@ B) Cuando se aporten bienes distintos a los
 mencionados en el inciso A) anterior, por
 
 cada instrumento. $679.00
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2020)</small>
+
+Los Derechos por la prestación de los servicios a que se refieren los incisos A) y B) de la fracción I, cuando se realicen con carácter de urgente, se pagarán por el equivalente al doble de las cuotas correspondientes al servicio de que se trate, y con carácter extra urgente el triple de las cuotas correspondientes. Los servicios ordinarios se entregarán a los cuatro días hábiles, los urgentes al día siguiente, y los extra urgentes el mismo día.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -5078,3 +5080,11 @@ Se instruye a los titulares de las dependencias y Unidades Administrativas del P
 ###### ARTÍCULO QUINTO.
 
 A las personas físicas o morales que durante el Ejercicio Fiscal 2016, hayan realizado el trámite correspondiente y cumplido con los requisitos para ser beneficiarios de placas subsidiadas, que por alguna causa no las hayan podido recoger, se les entregarán las placas previa comprobación fehaciente ante de la Secretaría de Finanzas y Administración de que cumplieron con los requisitos para ser acreedores a las mismas.
+
+P.O. 28 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 331 POR EL QUE “SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 114 DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
