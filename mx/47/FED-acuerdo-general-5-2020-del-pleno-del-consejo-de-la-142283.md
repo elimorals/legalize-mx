@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2020-del-pleno-del-consejo-de-la-142283"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-03-20"
-last_updated: "2020-04-30"
+last_updated: "2020-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142283&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-03-17"
 
 ACUERDO GENERAL 5/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS DE CONTINGENCIA EN LAS ÁREAS ADMINISTRATIVAS DEL PROPIO CONSEJO POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2020.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 20 de marzo de 2020.
 
@@ -43,11 +43,11 @@ En consecuencia, con apoyo en los párrafos primero y séptimo del artículo 100
 
 ACUERDO
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 9/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 11/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE MAYO DE 2020)</small>
 
 ###### Artículo 1.
 
-Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 18 de marzo al 31 de mayo de 2020.
+Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 18 de marzo al 15 de junio de 2020.
 
 > <small>(F. DE E., D.O.F. 9 DE ABRIL DE 2020)</small>
 
@@ -148,6 +148,14 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Jud
 D.O.F. 30 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 9/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 5/2020, RELATIVO A LAS MEDIDAS DE CONTINGENCIA EN LAS ÁREAS ADMINISTRATIVAS DEL PROPIO CONSEJO POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19, EN RELACIÓN CON EL PERÍODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 28 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 11/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 5/2020, RELATIVO A LAS MEDIDAS DE CONTINGENCIA EN LAS ÁREAS ADMINISTRATIVAS DEL PROPIO CONSEJO POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19, EN RELACIÓN CON EL PERÍODO DE VIGENCIA”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
