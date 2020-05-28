@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2020-02-20"
+last_updated: "2020-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -119,7 +119,7 @@ Se reconoce el derecho a la personalidad jurídica, a la libertad de conciencia 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2020)</small>
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad; bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -591,7 +591,9 @@ El Estado y los municipios, para promover la igualdad de oportunidades de los in
 
 Las autoridades estatales y municipales para abatir las carencias y rezagos socioeconómicos que afectan a los pueblos y comunidades indígenas impulsarán: el desarrollo regional; el crecimiento de los niveles de escolaridad; el establecimiento de espacios para la convivencia y la recreación; acceso al financiamiento para construcción y mejoramiento de vivienda; la ampliación de la cobertura de los servicios sociales básicos; el acceso a los servicios de salud; la incorporación de las mujeres indígenas al desarrollo productivo, y establecerán políticas sociales para apoyar las actividades productivas y el desarrollo sustentable.
 
-Todo grupo social equiparable a los pueblos y comunidades indígenas, tendrán los derechos establecidos en el presente artículo, en los términos que establezca la ley.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE MAYO DE 2020)</small>
+
+Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios con población indígena, representantes ante los Ayuntamientos de conformidad con la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1267,7 +1269,11 @@ h) Recibir los informes anuales de gestión gubernamental que rindan los poderes
 
 i) Decretar amnistías, en los casos que señala la ley.
 
-j) Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes.
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2020)</small>
+
+j) Expedir la ley que regule el Centro Estatal de Conciliación Laboral en términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable.
+
+k) Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes.
 
 > <small>(ADICIONADA, P.O. 26 DE ENERO DE 2017)</small>
 
@@ -1601,6 +1607,10 @@ Para el despacho de los asuntos que le compete al Ejecutivo estatal, contará co
 
 La administración pública del Estado será centralizada y paraestatal.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2020)</small>
+
+El Estado contará con un Centro de Conciliación laboral que tendrá la integración, atribuciones y competencias que señala la Constitución Política de los Estados Unidos Mexicanos y la demás legislación aplicable.
+
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 100.
@@ -1687,9 +1697,9 @@ IV. No haber sido condenado por delito doloso.
 
 El Poder Judicial del Estado, es autónomo y en el ejercicio de sus funciones, actuará con absoluta independencia y sólo estará sujeto a las normas constitucionales y leyes que de ellas emanen.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2020)</small>
 
-El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, el Tribunal Laboral Burocrático, el Tribunal de Menores Infractores, los juzgados de Primera Instancia, y municipales, y el Centro Estatal de Justicia Alternativa.
+El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, el Tribunal Laboral Burocrático, el Tribunal de Menores Infractores, el Tribunal de Justicia Laboral, los juzgados de Primera Instancia, y municipales, y el Centro Estatal de Justicia Alternativa.
 
 El Presidente del Tribunal Superior de Justicia representa al Poder Judicial, sus actividades se dirigirán a vigilar el estricto cumplimiento de las determinaciones del Tribunal Superior de Justicia y a cuidar de la administración de justicia, conforme a las atribuciones y obligaciones que le fijen las leyes.
 
@@ -1817,9 +1827,9 @@ II. Conceder licencias a los magistrados para separarse de su cargo en los térm
 
 III. Expedir su reglamento interior.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2020)</small>
 
-IV. Ejercer con auxilio del Consejo de la Judicatura el presupuesto del Poder Judicial y lo relativo al Fondo Auxiliar, en cuanto a las partidas que le correspondan al Tribunal para Menores Infractores y al Tribunal Laboral Burocrático, serán ejercidas con autonomía por el Tribunal respectivo.
+IV. Ejercer con auxilio del Consejo de la Judicatura el presupuesto del Poder Judicial y lo relativo al Fondo Auxiliar, en cuanto a las partidas que le correspondan al Tribunal para Menores Infractores, al Tribunal de Justicia Laboral y al Tribunal Laboral Burocrático, serán ejercidas con autonomía por el Tribunal respectivo.
 
 V. Recibir, analizar y aprobar en su caso, el informe anual que debe rendir su Presidente, de acuerdo a lo dispuesto por el artículo 167 de esta Constitución.
 
@@ -1857,9 +1867,9 @@ Los magistrados serán designados por el Ejecutivo del Estado y ratificados por 
 
 Los requisitos para ocupar el cargo y la forma de elección, así como los casos de renuncia y terminación del encargo, serán los mismos que establecen esta Constitución y la Ley, para los Magistrados del Tribunal Superior de Justicia.
 
-(REUBICADA [N. DE E. ANTES SECCIÓN QUINTA], P.O. 24 DE JUNIO DE 2014)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2020)</small>
 
-#### Sección cuarta (SIC). Del Tribunal laboral Burocrático
+#### Sección cuarta (SIC). Del Tribunal Laboral Burocrático y del Tribunal de Justicia Laboral
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1870,6 +1880,16 @@ El Tribunal Laboral Burocrático es la autoridad jurisdiccional dotada de autono
 El Tribunal se integrará por jueces en los términos que determine la ley.
 
 La ley establecerá las normas para su organización y funcionamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2020)</small>
+
+###### Artículo 116 Bis.
+
+La resolución de las diferencias o los conflictos entre trabajadores y patrones, relativas al apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, estará a cargo del Tribunal de Justicia Laboral, cuyos integrantes serán designados atendiendo a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable.
+
+Los jueces del Tribunal de Justicia Laboral deberán contar con capacidad y experiencia en materia laboral, sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+La ley establecerá el número de jueces integrantes del Tribunal de Justicia Laboral, así como las normas para su organización y funcionamiento de conformidad con la legislación aplicable.
 
 (REUBICADA [N. DE E. ANTES SECCIÓN SEXTA], P.O. 24 DE JUNIO DE 2014)
 
@@ -4018,3 +4038,35 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado expedirá, modificará o derogará la normatividad que corresponda a fin de dar cumplimiento al presente Decreto.
+
+P.O. 28 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 267 POR EL CUAL SE ADICIONA UN OCTAVO PÁRRAFO AL ARTÍCULO 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente decreto deberá expedir la normatividad que corresponda para dar cumplimiento al presente decreto.
+
+P.O. 28 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 287 POR EL CUAL SE ADICIONA UN INCISO J), PASANDO EN SU ORDEN EL SIGUIENTE, A LA FRACCIÓN V DEL ARTÍCULO 82; SE ADICIONA UNA PÁRRAFO TERCERO AL ARTÍCULO 99; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 105, SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 112 Y SE MODIFICA LA DENOMINACIÓN DE LA SECCIÓN CUARTA DEL CAPÍTULO VII ADICIONANDO UN ARTÍCULO 116 BIS TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+El Congreso del Estado en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente decreto deberá expedir la Ley del Centro Estatal de Conciliación así como las reformas a las Leyes Orgánicas que correspondan y demás ordenamientos aplicables al presente decreto.
+
+###### ARTICULO TERCERO.
+
+El proceso de transición de actividades de las Juntas Locales de Conciliación y Arbitraje al Centro de Conciliación y la creación del Tribunal de Justicia Laboral y lo relativo a los derechos de los trabajadores se desarrollarán atendiendo a lo dispuesto por el decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Justicia Laboral publicado en el Diario Oficial de la Federación en fecha 24 de febrero de 2017 y por el decreto (sic) que se reforman, derogan y adicionan diversas disposiciones de la Ley Federal del Trabajo publicado el día 1 de mayo de 2019 en el Diario Oficial de la Federación.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
