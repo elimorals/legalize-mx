@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-conjunto-1-2015-de-la-suprema-corte-de-110728"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-12-09"
-last_updated: "2018-10-15"
+last_updated: "2020-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110728&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-12-04"
 
 ACUERDO GENERAL CONJUNTO 1/2015 DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS SERVICIOS TECNOLÓGICOS RELATIVOS A LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO, LAS COMUNICACIONES OFICIALES Y LOS PROCESOS DE ORALIDAD PENAL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 9 de diciembre de 2015.
 
@@ -139,305 +139,233 @@ Las Áreas Técnicas deberán informar oportunamente al Comité de Gobierno y Ad
 
 Los sistemas tecnológicos de la SCJN y del CJF a que este Acuerdo General se refiere, operarán de manera interconectada en los términos precisados en el Acuerdo General Conjunto Número 1/2013, de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación y al expediente electrónico.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)</small>
+
 ## TÍTULO TERCERO. DE LOS SERVICIOS ELECTRÓNICOS DE LA SCJN
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)</small>
 
 ### CAPÍTULO PRIMERO. DEL SISTEMA ELECTRÓNICO DE LA SCJN
 
 ###### Artículo 8.
 
-Las disposiciones contenidas en este Título serán aplicables únicamente a la tramitación de los recursos, promociones, expedientes electrónicos y notificaciones electrónicas en la SCJN a través del Sistema Electrónico de la SCJN.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 9.
 
-El Sistema Electrónico de la SCJN se integrará por los módulos de Presentación de Recursos, de Promociones, del Expediente Electrónico y de Notificaciones.
-
-La Unidad para el Control de Certificación de Firmas de la SCJN será la responsable de velar por el adecuado funcionamiento del sistema.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 10.
 
-Para que los justiciables ingresen al Sistema Electrónico de la SCJN, será indispensable que utilicen su FIREL o una diversa firma electrónica de las referidas en el párrafo segundo del artículo 14 de este Acuerdo General Conjunto.
-
-Las partes y los servidores públicos podrán acceder a los diferentes módulos del Sistema Electrónico de la SCJN en el horario señalado en el artículo 53, párrafo cuarto, del presente Acuerdo General Conjunto.
-
-Las partes, antes de remitir cualquier Documento Electrónico a través del sistema, deberán:
-
-I. Verificar el correcto y completo registro de la información solicitada en los diversos campos de los módulos del Sistema Electrónico de la SCJN;
-
-II. Verificar el adecuado funcionamiento, integridad, legibilidad y formato de los archivos electrónicos, incluso los digitalizados, que adjunten, y
-
-III. Corroborar que los archivos electrónicos a remitir se encuentren libres de virus, y en caso contrario, aplicar los mecanismos necesarios para eliminarlos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 11.
 
-Los módulos del Sistema Electrónico de la SCJN deberán alojarse dentro de la infraestructura de almacenamiento y procesamiento de datos propiedad de la SCJN.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 12.
 
-El Sistema Electrónico de la SCJN contará con las bitácoras relativas a los certificados digitales de firma electrónica mediante los cuales se ingrese o consulte cualquier documento de los módulos que al efecto establezca la SCJN.
-
-El área técnica de la SCJN deberá informar a la Unidad de Control y Certificación de Firmas de la SCJN sobre cualquier incidencia que resulte relevante para el funcionamiento de los módulos que integran el Sistema Electrónico de la SCJN y del Sistema Electrónico del Poder Judicial de la Federación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 13.
 
-Cuando la Unidad a que se refiere el artículo anterior tenga noticia de que por caso fortuito, fuerza mayor o por fallas técnicas se ha interrumpido el sistema, haciendo imposible el envío y la recepción de promociones dentro de los plazos establecidos en la Ley de Amparo, deberá solicitar de inmediato al Área Técnica de la SCJN un informe sobre las causas de dicha interrupción, sin menoscabo de que éstas sigan el procedimiento previsto para tal efecto en el artículo 53 de este Acuerdo General Conjunto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 14.
 
-En la pantalla principal del Sistema Electrónico de la SCJN por la cual se pueda ingresar a los vínculos de la SCJN, también se establecerán los necesarios para que los justiciables tramiten su Firma Electrónica Certificada del Poder Judicial de la Federación, y tengan acceso a la diversa normativa que rige al referido sistema.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
-En la referida pantalla se publicará la lista de las firmas electrónicas o certificados digitales emitidos por otros órganos del Estado con los cuales el Poder Judicial de la Federación, a través de la Unidad, haya celebrado convenio de coordinación para el reconocimiento de certificados digitales homologados en términos del artículo 5, párrafo segundo, del Acuerdo General Conjunto Número 1/2013.
-
-En el caso de órganos del Estado que figuren como partes en los juicios de amparo, la SCJN podrá celebrar convenios con éstos a fin de que exista intercomunicación a través del MINTERSCJN o de diversa funcionalidad electrónica mediante el uso de la FIREL o de distinta firma electrónica.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL EXPEDIENTE IMPRESO Y ELECTRÓNICO EN LA SCJN
 
 ###### Artículo 15.
 
-Los expedientes impresos y electrónicos en la SCJN se integrarán con las constancias que reflejen o informen con exactitud las fases procesales en que se desarrollan los juicios y que permitan a las partes dar seguimiento puntual al asunto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 16.
 
-Los expedientes impreso y electrónico en la SCJN se integrarán con las constancias que documenten las actuaciones y las resoluciones emitidas dentro de un juicio de amparo, que resulten indispensables para sustentar las determinaciones adoptadas en éste.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 17.
 
-En la SCJN su Presidente designará a los servidores públicos responsables, respectivamente, de supervisar la adecuada integración de los expedientes impreso y electrónico.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
-En la SCJN los documentos aportados por las partes que sólo integrarán el o los cuadernos auxiliares y, por ende, no se agregarán por lo regular al expediente impreso respectivo ni a su versión electrónica, de manera enunciativa, son los siguientes:
-
-I. Las copias de traslado;
-
-II. Las hojas en blanco, folders, micas o cualquier tipo de material sin leyenda relevante alguna y de los que se aprecie que únicamente fueron presentados con la finalidad de proteger los documentos que ingresan ante la SCJN;
-
-III. Las copias presentadas como anexos por las partes, de los que se advierta que corresponden a actuaciones de la propia SCJN que evidentemente ya forman parte de los autos, y
-
-IV. Los documentos anexos a los informes rendidos por autoridades, que no resulten necesarios para sustentar una determinación judicial.
-
-Los cuadernos auxiliares podrán consultarse físicamente por las partes con las reservas respectivas, tratándose de la información reservada o confidencial.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)</small>
 
 ### CAPÍTULO TERCERO. DEL ACCESO AL EXPEDIENTE ELECTRÓNICO EN LA SCJN
 
 ###### Artículo 18.
 
-En el Sistema Electrónico de la SCJN las partes en un juicio de amparo, por sí o por conducto de sus representantes, podrán solicitar para sí o para un tercero, acceso al expediente electrónico, para lo cual deberán proporcionar su Clave Única de Registro de Población y la del tercero en relación con el cual se solicita la autorización correspondiente.
-
-Tratándose de personas morales, por conducto de sus representantes, podrán solicitar para éstos o para un tercero, acceso al expediente electrónico respectivo, debiendo indicar la Clave Única de Registro de Población de aquéllos o de éste.
-
-Con base en la referida petición se verificará si el autorizante cuenta con la capacidad procesal necesaria. De ser así, se verificará en el Sistema Electrónico de la SCJN si la o las diversas personas -incluyendo al autorizante cuando solicita acceso al expediente electrónico-, respecto de las cuales se solicita la autorización para ingresar al expediente electrónico cuentan con la FIREL o la diversa firma electrónica que hubiere utilizado, de las referidas en el párrafo segundo del artículo 14 de este Acuerdo General Conjunto, para los efectos de lo previsto en el párrafo quinto del artículo 3o. de la Ley de Amparo, ante lo cual se acordará favorablemente la autorización solicitada únicamente respecto de las personas que cuenten con alguna de esas firmas; en la inteligencia de que el acceso respectivo estará condicionado a que la firma en relación con la cual se otorgue la autorización respectiva, se encuentre vigente al momento de pretender ingresar al expediente de que se trate.
-
-Quien hubiere presentado la demanda por vía impresa o electrónica también podrá solicitar posteriormente, por sí o por conducto de su representante, para sí o para un tercero, autorización para ingresar al expediente electrónico, mediante promoción impresa o electrónica ingresada por el Sistema Electrónico de la SCJN debiendo precisar su Clave Única de Registro de Población y la del tercero.
-
-Cualquier autorización para acceder a un expediente electrónico surtirá efectos una vez que se acuerde favorablemente y el proveído respectivo se integre a dicho expediente.
-
-Las partes que hubieren solicitado expresamente la recepción de notificaciones por vía electrónica, podrán consultar en el Sistema Electrónico de la SCJN los acuerdos dictados en un asunto desde el momento en que éstos se ingresen al expediente electrónico respectivo, con motivo de la publicación electrónica de la lista de notificación correspondiente. Las partes que no hubieren realizado dicha solicitud o la hubieren revocado, sólo podrán consultar dichos proveídos por esa vía cuando se les hubiere notificado el acuerdo correspondiente.
-
-La revocación de la solicitud para acceder a un expediente electrónico en el Sistema Electrónico de la SCJN podrá realizarse por vía impresa o electrónica por las partes, por sí o a través de su representante, en la inteligencia de que surtirá efectos una vez que se acuerde favorablemente y el proveído respectivo se integre a dicho expediente.
-
-La autorización o la revocación de la solicitud para acceder a un expediente electrónico únicamente surtirán efectos en él o en los expedientes respecto de los cuales se formule la solicitud correspondiente, sin que lo actuado en los expedientes principales de los Juzgados de Distrito y Tribunales de Circuito trascienda a los expedientes integrados en la SCJN.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 19.
 
-Las personas autorizadas para consultar un expediente electrónico podrán acceder a los acuerdos respectivos para efectos de su notificación, si su autorizante solicitó expresamente recibir notificaciones por vía electrónica. Si dicha solicitud se revocó por el referido autorizante, la persona autorizada para acceder al expediente podrá consultar un acuerdo dictado con posterioridad así como las constancias relacionadas con éste, una vez que su autorizante hubiere sido notificado respecto de aquél por alguno de los medios previstos en las fracciones I a III del artículo 26 de la Ley de Amparo.
-
-Las personas autorizadas para consultar un expediente electrónico podrán descargar en sus equipos de cómputo copia de las constancias que obren en aquél, incluyendo la representación gráfica de la evidencia criptográfica de la Firma Electrónica Certificada del Poder Judicial de la Federación, utilizada para ingresar el documento respectivo al referido expediente; sin embargo, esos documentos electrónicos, en el caso de presentarse ante diversa instancia judicial, tendrán el valor de una copia simple, dado que la respectiva evidencia criptográfica se mantiene bajo resguardo del sistema electrónico de la SCJN.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 20.
 
-En los expedientes electrónicos podrá generarse una bitácora en la que se indique el nombre o los nombres de las personas autorizadas para ingresar a los expedientes electrónicos relacionados con un asunto específico, la cual se actualizará automáticamente con base en los datos ingresados por el servidor público responsable de aquélla, una vez que se dicte el proveído que recaiga a la promoción en la que se otorgue o revoque la autorización respectiva.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)</small>
 
 ### CAPÍTULO CUARTO. DE LA NOTIFICACIÓN POR VÍA ELECTRÓNICA EN LA SCJN
+
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)</small>
 
 DE LA MANIFESTACIÓN EXPRESA PARA SOLICITAR LA RECEPCIÓN DE NOTIFICACIONES POR VÍA ELECTRÓNICA
 
 ###### Artículo 21.
 
-Si en la primera promoción presentada ante la SCJN por vía impresa o electrónica, dentro de un juicio de amparo, recurso o incidente derivado de aquél, cualquiera de las partes, por si o por conducto de su representante, manifiesta expresamente la solicitud para recibir notificaciones electrónicas, el proveído que acuerde favorablemente dicha solicitud se notificará por el medio que corresponda de los previstos en las fracciones I a III del artículo 26 de la Ley de Amparo; en la inteligencia de que las siguientes determinaciones jurisdiccionales se notificarán a la parte respectiva por vía electrónica en tanto no revoque la referida solicitud.
-
-Las autoridades responsables podrán, por vía electrónica, indicar si las notificaciones se recibirán por el formato tradicional o incluso por vía electrónica. Si en posterior promoción alguna de aquéllas pretende designar como delegado a una diversa persona para que tenga acceso al expediente electrónico, bastará que lo solicite por vía impresa o electrónica, indicando el nombre y la Clave Única de Registro de Población de aquél, en la inteligencia de que la referida autorización llevará implícita la necesaria para recibir notificaciones en el formato tradicional o electrónico si expresamente así lo solicitó la autoridad respectiva, por sí, por conducto del servidor público que la sustituya o de su representante. Previo convenio celebrado en términos de lo indicado en el artículo 14, párrafo tercero, de este Acuerdo General Conjunto, los órganos del Estado podrán recibir las notificaciones respectivas por conducto del MINTERSCJN.
-
-La referida solicitud únicamente podrá realizarse por las partes o por sus representantes legales, en ningún caso por sus autorizados en términos de lo previsto en el artículo 12 de la Ley de Amparo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 22.
 
-Las partes que por vía impresa o electrónica en el expediente respectivo hayan manifestado expresamente su solicitud para recibir notificaciones electrónicas ante la SCJN, una vez que se haya acordado favorablemente dicha solicitud, tendrán derecho a consultar por esta vía, incluso el acuerdo que autorice esa solicitud así como las constancias relacionadas con éste, desde el momento en el que ese proveído se ingrese al expediente electrónico en el Sistema Electrónico de la SCJN.
-
-La solicitud para recibir notificaciones por vía electrónica formulada a través del Sistema Electrónico de la SCJN o por vía impresa una vez que se haya notificado por lista el proveído que la acuerda favorablemente, dará lugar a que los acuerdos que se dicten con posterioridad a éste se notifiquen a la parte autorizada por vía electrónica.
-
-Las partes que no hayan realizado dicha manifestación o habiéndola realizado no se hubiere notificado por lista el acuerdo que autorice la recepción de notificaciones electrónicas, o bien la hubieren revocado y el acuerdo respectivo ya se hubiere notificado por la vía electrónica, únicamente podrán consultar en el referido sistema un acuerdo y las constancias relacionadas con éste, una vez que ese proveído se les haya notificado por la vía tradicional que corresponda.
-
-Si la notificación personal o por oficio se llevó a cabo antes de la formulación de la solicitud correspondiente, se tendrá por válida la realizada previamente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 23.
 
-La solicitud para recibir notificaciones por vía electrónica que se presente por vía impresa o por el Sistema Electrónico de la SCJN surtirá sus efectos hasta el momento en el cual se acuerde favorablemente y el proveído respectivo se integre al expediente electrónico. Por ende, este último acuerdo se notificará por la vía que corresponda en términos de las fracciones I a III del artículo 26 de la Ley de Amparo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 24.
 
-La solicitud para recibir notificaciones por vía electrónica que se realice por esta vía, se documentará en la constancia que se genere automáticamente una vez que el sistema electrónico de la SCJN identifique la Firma Electrónica Certificada del Poder Judicial de la Federación que se haya utilizado para expresar dicha solicitud y corrobore que corresponde a la del solicitante.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 25.
 
-La referida constancia deberá contener los datos del asunto respectivo y del solicitante, así como la fecha y hora en que se realizó la manifestación correspondiente. Dicha constancia se agregará automáticamente al expediente electrónico respectivo y deberá imprimirse y certificarse para agregarse mediante razón secretarial al expediente impreso, en los términos del artículo 31, fracción III, párrafo primero, de la Ley de Amparo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 26.
 
-Si la solicitud en comento se presenta por vía impresa, se acordará favorablemente si el solicitante es un quejoso, un tercero interesado o una autoridad responsable e, incluso, el representante de alguno de éstos, y proporciona la Clave Única de Registro de Población correspondiente a su FIREL vigente o a la diversa firma que hubiere utilizado, de las referidas en el párrafo segundo del artículo 14 de este Acuerdo General Conjunto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 27.
 
-La solicitud expresa para recibir notificaciones por vía electrónica realizada en el expediente principal o en cualquiera de los integrados con motivo de los recursos o incidentes derivados de aquél, únicamente surtirá efectos en él o en los expedientes respecto de los cuales se formule dicha solicitud.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 28.
 
-Si un órgano del Estado por conducto de su titular o de su representante solicita expresamente, por vía electrónica o impresa, la recepción de notificaciones por vía electrónica, deberá realizar las manifestaciones respectivas en cada uno de los expedientes que al efecto se formen, salvo en el supuesto indicado en el artículo siguiente, las cuales surtirán efectos en éstos conforme a lo previsto, respectivamente, en el artículo 23 de este Acuerdo General Conjunto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 29.
 
-Los órganos del Estado por conducto de su titular o de su representante, podrán solicitar por vía impresa que todas las notificaciones realizadas en asuntos en los que se impugnen las mismas o similares disposiciones de observancia general se realicen por vía electrónica, para lo cual bastará que manifiesten ante la SCJN en una promoción en la que indique los números de los expedientes respecto de los cuales realiza esa solicitud.
-
-Si dicha solicitud se presenta por vía electrónica, surtirá efectos hasta el momento en el cual se acuerde favorablemente y los proveídos respectivos se integren a los expedientes electrónicos que correspondan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 30.
 
-En el Sistema Electrónico de la SCJN si una parte manifestó expresamente su autorización para recibir notificaciones por vía electrónica y se vence su Firma Electrónica Certificada del Poder Judicial de la Federación, para revocar la referida autorización será necesario que lo solicite por vía impresa.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 31.
 
-En el Sistema Electrónico de la SCJN el plazo para cumplir con un requerimiento o una prevención contenida en un acuerdo o para impugnar lo determinado en éste, se computará respecto de las partes que hayan solicitado expresamente recibir notificaciones por vía electrónica, a partir de la fecha en la que surta efectos la notificación electrónica respectiva, con independencia de la fecha en la que surta efectos la notificación por lista del proveído correspondiente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 32.
 
-Si en el Sistema Electrónico de la SCJN se autoriza a una persona para consultar un expediente y ésta accede a un acuerdo que no se ha notificado a su autorizante, la referida consulta surtirá efectos de notificación siempre y cuando el autorizante, por sí o por conducto de su representante, hubiere solicitado expresamente recibir notificaciones por vía electrónica, el acuerdo que la autorice se hubiere notificado por lista y no se hubiere revocado esa solicitud.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
+
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)</small>
 
 DE LA REVOCACIÓN DE LA SOLICITUD PARA RECIBIR NOTIFICACIONES POR VÍA ELECTRÓNICA
 
 ###### Artículo 33.
 
-La revocación de la solicitud para recibir notificaciones por vía electrónica podrá realizarse por las partes o por su representante en cualquier momento, en documento impreso o por conducto del Sistema Electrónico de la SCJN, en la inteligencia de que no se podrá, hasta el día hábil siguiente, manifestar nuevamente la solicitud expresa para recibir notificaciones electrónicas.
-
-La referida revocación únicamente podrá realizarse por las partes o por sus representantes legales, en ningún caso por sus autorizados en términos de lo previsto en el artículo 12 de la Ley de Amparo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 34.
 
-La revocación de la solicitud para recibir notificaciones electrónicas podrá presentarse en forma impresa o a través del Sistema Electrónico de la SCJN, en versión digitalizada o mediante el mecanismo electrónico automatizado. Si se presenta en esta última vía, se documentará con la constancia que se genera automáticamente en el Sistema Electrónico de la SCJN. La referida promoción o la constancia indicada deberán agregarse al expediente en sus versiones impresa y electrónica mediante el acuerdo que recaiga a la referida solicitud de revocación.
-
-Dicha revocación surtirá sus efectos una vez que se notifique por lista el acuerdo que recaiga a la solicitud respectiva.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 35.
 
-La manifestación expresa para revocar la solicitud para recibir notificaciones por vía electrónica realizada en el expediente principal o en cualquiera de los integrados, únicamente surtirá efectos en él o en los expedientes respecto de los cuales se formule dicha solicitud.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 36.
 
-La revocación de la solicitud para recibir notificaciones por vía impresa o electrónica sólo surtirá efectos respecto de los acuerdos pendientes de ingresar al expediente electrónico respectivo al momento en el que surta efectos el acuerdo que recaiga a la referida revocación, por lo que tratándose de los que ya se hubieren ingresado, su notificación se realizará por vía electrónica, bien sea en virtud de la consulta de éstos o por el transcurso de los dos días indicados en el artículo 30, fracciones I, párrafo cuarto y II, párrafo segundo, de la Ley de Amparo. Por tanto, dicha revocación únicamente implicará que se notifiquen a la parte respectiva, por lista, personalmente o por oficio, según corresponda, los acuerdos que se dicten y notifiquen por lista con posterioridad al que acuerde favorablemente la referida revocación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
+
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)</small>
 
 DE LAS NOTIFICACIONES ELECTRÓNICAS
 
 ###### Artículo 37.
 
-En términos de lo previsto en los artículos 30, fracciones I y II, y 31, fracción III, de la Ley de Amparo, las notificaciones electrónicas se tendrán por realizadas una vez que la parte que haya manifestado expresamente su solicitud para recibir ese tipo de notificaciones, acceda al expediente electrónico respectivo en el Sistema Electrónico de la SCJN, por sí o por conducto de cualquiera de las personas que hubiere autorizado para consultar ese expediente, y se consulte el texto del acuerdo correspondiente, lo que dará lugar a la generación de la constancia prevista en la citada fracción III del artículo 31.
-
-De no poder consultar el texto del documento remitido, las partes deberán dar aviso de inmediato a la SCJN, por conducto del vínculo denominado “aviso de fallas técnicas” y se procederá en los términos del artículo 53 de este Acuerdo General Conjunto.
-
-Si se advierte que el acuerdo materia de notificación sí es consultable en el Sistema Electrónico de la SCJN, dictará el proveído en virtud del cual a los dos días hábiles de la integración de aquél al expediente respectivo, se tenga por hecha la notificación correspondiente. Se exceptúa de lo anterior, el supuesto de solicitud de ampliación formulada por las autoridades responsables, en términos de lo previsto en el párrafo penúltimo de la fracción I del artículo 30 de la Ley de Amparo.
-
-Si se corrobora que no existe la posibilidad técnica de consultar el texto íntegro del acuerdo correspondiente, además de comunicar la falla respectiva en términos de lo señalado en el artículo 53 de este Acuerdo General Conjunto, ordenará que la notificación del proveído de que se trate se realice nuevamente por lista, personalmente o por oficio, según corresponda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 38.
 
-Dichas notificaciones también se tendrán por realizadas en los términos indicados en el artículo 30, fracciones I y II, de la Ley de Amparo, respecto de las partes que hayan manifestado expresamente recibirlas por vía electrónica, en el supuesto de que no hubieren consultado el acuerdo respectivo en el expediente electrónico correspondiente, dentro de los dos días hábiles siguientes al en que se haya ingresado aquél en éste, salvo en el supuesto de las determinaciones dictadas en el incidente de suspensión, en cuyo caso la notificación relativa se tendrá por realizada a las veinticuatro horas siguientes a la en que se haya ingresado el acuerdo correspondiente al expediente electrónico respectivo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 39.
 
-Las notificaciones realizadas en términos de lo señalado en el artículo 37 que antecede, se documentarán con la constancia que se genere automáticamente por el Sistema Electrónico de la SCJN, una vez que la parte respectiva o su representante hayan ingresado al expediente electrónico que corresponda y hayan tenido la posibilidad técnica de consultar el texto íntegro del acuerdo de que se trate.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 40.
 
-Las notificaciones que se tengan por hechas en términos de lo previsto en el artículo 38 que antecede, se documentarán con la constancia que se genere automáticamente por el Sistema Electrónico de la SCJN, una vez que haya concluido el segundo día hábil siguiente o, en su caso, las veinticuatro horas siguientes al o a la en que se haya ingresado al expediente electrónico respectivo el acuerdo correspondiente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 41.
 
-Las constancias referidas en los artículos 37 y 39 de este instrumento normativo, deberán contener los datos del asunto, de la parte relacionada con dicha notificación, la fecha y hora de su generación y, en su caso, los datos de la Firma Electrónica Certificada del Poder Judicial de la Federación que se utilizó para realizar la consulta correspondiente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 42.
 
-Cuando se estime conveniente, por la naturaleza del acto, ordenar que una notificación se realice por oficio o personalmente a una parte que haya manifestado expresamente su consentimiento para recibir aquéllas por vía electrónica, en términos de lo previsto en el artículo 30, fracciones I, párrafo quinto y II, párrafo segundo, de la Ley de Amparo, al expediente impreso y al expediente electrónico que corresponda, únicamente se agregarán las constancias respectivas a las notificaciones realizadas por el actuario, sin menoscabo de que en la bitácora de notificaciones del acuerdo correspondiente, se precise el tipo de notificación que se llevó a cabo.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
+
+> <small>(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)</small>
 
 DE LAS BITÁCORAS DE NOTIFICACIONES ELECTRÓNICAS EN LA SCJN
 
 ###### Artículo 43.
 
-En los expedientes electrónicos consultables en el Sistema Electrónico de la SCJN por cada acuerdo o resolución que se integre a éstos, se generará una bitácora donde se indique el tipo de notificación que se ha realizado respecto de cada una de las partes en el asunto que corresponda.
-
-Dichas bitácoras serán consultables respecto de todos los acuerdos ingresados al expediente electrónico de que se trate, para las partes que hayan manifestado su autorización para recibir notificaciones por vía electrónica. Las partes que no hayan realizado esa manifestación o bien, la hayan revocado, no podrán consultar las referidas bitácoras.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 44.
 
-Cuando se haya autorizado a una o más personas para recibir notificaciones en el Sistema Electrónico de la SCJN, para acceder a un expediente electrónico o en términos amplios del artículo 12 de la Ley de Amparo, en dicho expediente podrá generarse una bitácora en la cual pueda consultarse quién o quiénes son los autorizados respecto de cada una de las partes para recibir notificaciones personales, por oficio o por vía electrónica, o para imponerse de autos, en los referidos términos amplios.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)</small>
 
 ### CAPÍTULO QUINTO. DE LAS PROMOCIONES POR VÍA ELECTRÓNICA EN LA SCJN
 
 ###### Artículo 45.
 
-A través del módulo de promociones electrónicas del Sistema Electrónico de la SCJN, mediante el uso de su FIREL o de diversa firma de las señaladas en el párrafo segundo del artículo 14 de este Acuerdo General Conjunto, los justiciables podrán remitir documentos electrónicos o digitalizados a los expedientes previamente formados.
-
-Si los datos del expediente al que se pretende remitir una promoción por el módulo de promociones electrónicas del Sistema Electrónico de la SCJN, consistentes en el número de aquél y en el nombre del quejoso, no coinciden con los registrados, la promoción de que se trate no podrá ser enviada por el módulo respectivo.
-
-En este módulo también podrá solicitarse por el respectivo mecanismo automatizado, la recepción de notificaciones electrónicas o la revocación de dicha solicitud.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 46.
 
-Al módulo de promociones electrónicas también se podrá acceder desde el expediente electrónico respectivo por quienes tengan autorización para su consulta, en la inteligencia de que el Sistema Electrónico de la SCJN relacionará automáticamente la promoción correspondiente con el expediente desde el cual se ingrese a dicho módulo.
-
-Las personas que no tengan autorización para consultar un expediente electrónico, pero que cuenten con Firma Electrónica Certificada del Poder Judicial de la Federación, podrán remitir promociones por vía electrónica, quedando bajo su responsabilidad indicar correctamente los datos relativos y al número de expediente al que dirijan una promoción.
-
-Las promociones recibidas en el Sistema Electrónico de la SCJN por el módulo de promociones electrónicas, se les dará el mismo tratamiento que a las presentadas en formato impreso, sin menoscabo de que se adopten las medidas necesarias para que, por un lado, se impriman, se certifique la coincidencia de su versión impresa con la visible en la pantalla respectiva y se provea lo conducente y, por el otro, la versión electrónica recibida se ingrese al expediente electrónico que corresponda.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 47.
 
-El módulo de promociones electrónicas del Sistema Electrónico de la SCJN contará con un mecanismo que permita registrar la fecha y hora del envío, de la conclusión del envío y de la recepción de los documentos remitidos, en la inteligencia de que para efectos del cómputo de los plazos respectivos, se tomarán los datos de su envío.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 48.
 
-Por cada promoción se generará un acuse de recibo en el que conste el razonamiento levantado al efecto en la respectiva oficina de correspondencia de la SCJN. Dicho acuse se depositará en un repositorio creado en relación con todas las promociones generadas por el titular de una Firma Electrónica Certificada del Poder Judicial de la Federación, las que podrá consultar en el sistema electrónico de la SCJN por cada asunto respecto del cual haya promovido electrónicamente, en los términos de la normativa derivada del presente Acuerdo General Conjunto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)</small>
 
 ### CAPÍTULO SEXTO. DE LA INTERPOSICIÓN DE RECURSOS POR VÍA ELECTRÓNICA EN LA SCJN
 
 ###### Artículo 49.
 
-A través del módulo de presentación de recursos del Sistema Electrónico de la SCJN, mediante el uso de su FIREL o de diversa firma de las señaladas en el párrafo segundo del artículo 14 de este Acuerdo General Conjunto, los justiciables podrán interponer dentro de un juicio de amparo los recursos de revisión, de queja, de reclamación y de inconformidad.
-
-Si los datos del expediente en el que se pretende interponer un recurso de los previstos en el artículo 80 de la Ley de Amparo, por el módulo de presentación de recursos del Sistema Electrónico de la SCJN, consistentes en el número de aquél y en el nombre del quejoso, no coinciden con los registrados en el órgano jurisdiccional que hubiere dictado la resolución que se pretende impugnar, el recurso respectivo no podrá ser enviado por el módulo correspondiente.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 50.
 
-Al módulo de presentación de recursos del Sistema Electrónico de la SCJN, también se podrá acceder desde el expediente electrónico del asunto en el cual se haya dictado la resolución que se pretende impugnar, por quienes tengan autorización para su consulta, en la inteligencia de que el Sistema Electrónico de la SCJN relacionará automáticamente el recurso correspondiente con el expediente desde el cual se ingrese a dicho módulo.
-
-Las personas que no tengan autorización para consultar un expediente electrónico, pero que cuenten con Firma Electrónica Certificada del Poder Judicial de la Federación, podrán interponer recursos por vía electrónica, quedando bajo su responsabilidad indicar correctamente los datos relativos al órgano y al número de expediente ante el cual interpongan el recurso respectivo, tomando en cuenta que atendiendo a lo establecido en los artículos 86, 99, 104 y 202 de la Ley de Amparo, los recursos de que se trate deben interponerse por conducto del órgano jurisdiccional que haya dictado la resolución recurrida y su presentación ante órgano diferente no interrumpe el plazo para ello.
-
-Los recursos interpuestos en el Sistema Electrónico de la SCJN por el módulo de presentación de recursos, se les dará el mismo tratamiento que a los presentados en formato impreso, sin menoscabo de que se adopten las medidas necesarias para que, por un lado, se impriman, se certifique la coincidencia de su versión impresa con la visible en la pantalla respectiva y se provea lo conducente y, por el otro, la versión electrónica recibida se ingrese al expediente electrónico que corresponda y se remita por el respectivo sistema de intercomunicación con los sistemas tecnológicos del CJF.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 51.
 
-El módulo de presentación de recursos del Sistema Electrónico de la SCJN contará con un mecanismo que permita registrar la fecha y hora del registro del envío, de la conclusión del envío y de la recepción de los documentos remitidos, en la inteligencia de que para efectos del cómputo de los plazos respectivos, se tomarán los datos de su envío.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 52.
 
-Por cada recurso interpuesto se generará un acuse de recibo en el que conste el razonamiento levantado al efecto en la oficina de correspondencia de la SCJN. Dicho acuse se depositará en un repositorio creado en relación con todos los recursos interpuestos por el titular de una Firma Electrónica Certificada del Poder Judicial de la Federación, el que se podrá consultar en el Sistema Electrónico de la SCJN, en los términos de la normativa derivada de este Acuerdo General Conjunto.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ###### Artículo 53.
 
-Cuando las partes autorizadas para consultar expedientes electrónicos relativos a uno o más juicios de amparo o los servidores públicos de la SCJN adviertan una falla en el Sistema Electrónico de la SCJN que impida el envío de promociones por vía electrónica o la consulta de los acuerdos que obran en un expediente electrónico, dada su relevancia para las notificaciones electrónicas, deberán hacerlo del conocimiento, por vía impresa, del titular del Área Técnica de la SCJN por vía electrónica, a través del subvínculo denominado “aviso de fallas técnicas”, al que podrá accederse mediante el uso de la Firma Electrónica Certificada del Poder Judicial de la Federación en el vínculo correspondiente de la SCJN, o de no ser posible por esta vía, a los correos electrónicos destinados para tal efecto en la pantalla principal del referido sistema, desde la cuenta de correo proporcionada para la obtención del Certificado Digital de la Firma Electrónica Certificada del Poder Judicial de la Federación.
-
-Dentro de las veinticuatro horas naturales siguientes al momento en el que se presente un aviso de falla, el servidor público asignado del área técnica deberá rendir informe por vía electrónica, mediante el uso de su Firma Electrónica Certificada del Poder Judicial de la Federación a los titulares de la SCJN.
-
-En dicho informe deberá precisarse la existencia o no de la falla reportada y, en su caso, tanto la causa de ésta y el momento a partir del cual se suscitó, como el día y la hora a partir de la cual quedó subsanada.
-
-Tomando en cuenta que en términos de lo previsto en el artículo 281 del Código Federal de Procedimientos Civiles “(…) Son horas hábiles las comprendidas entre las ocho y las diecinueve. (…)”, con independencia de que en el Sistema Electrónico de la SCJN se pueda promover entre las ocho y las veinticuatro horas -hora del Centro-, los días hábiles en los que se interrumpa el Sistema Electrónico de la SCJN para promover o consultar expedientes electrónicos de asuntos radicados en la SCJN, durante más de seis horas de las hábiles antes referidas, conforme al huso horario que corresponda, en los asuntos en los que alguna de las partes haya promovido electrónicamente o esté autorizada para consultar el expediente electrónico respectivo, por sí o por conducto de un tercero, se suspenderán los plazos correspondientes únicamente por el o los días en los que se haya interrumpido el mencionado sistema por más de seis horas hábiles. En materia penal, se tomará en cuenta lo señalado en el artículo 22 de la Ley de Amparo, para efectos de proveer sobre la suspensión de los plazos, con base en el informe rendido por el área técnica que corresponda.
-
-En el supuesto de que en el referido informe se haga constar la inexistencia de alguna falla, así lo acordará en los asuntos respectivos y se ordenará su notificación a las partes. Si del análisis que se lleve a cabo por el área técnica de que se trate, se advierte que efectivamente existe una falla técnica que afecte el funcionamiento del Sistema Electrónico de la SCJN, bien sea para el envío y recepción de promociones o para la consulta de los expedientes respectivos, se suspenderán los plazos correspondientes en los asuntos referidos en el párrafo anterior, desde el día u hora –en materia penal- de la presentación de la falla, hasta que sea solventada.
-
-Una vez que se haya restablecido el Sistema Electrónico de la SCJN, el servidor público asignado del área técnica de la SCJN, enviará mediante el uso de su Firma Electrónica Certificada del Poder Judicial de la Federación, un reporte con el objeto de que éstos notifiquen a las partes en los asuntos antes referidos, el restablecimiento del Sistema Electrónico de la SCJN precisando la duración de la interrupción, así como el reinicio del cómputo de los plazos correspondientes, a partir del día siguiente al en que surta efectos la notificación de dicho proveído, personal, por oficio o por vía electrónica, tratándose de los que hubieren solicitado la recepción de notificaciones por esta última vía, y al momento del dictado del mismo proveído, no hubieren revocado esa solicitud.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
 ## TÍTULO CUARTO. DE LOS SERVICIOS ELECTRÓNICOS DEL CJF
 
@@ -960,3 +888,31 @@ D.O.F. 15 DE OCTUBRE DE 2018.
 PRIMERO. El presente Instrumento Normativo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, sin menoscabo de que la Secretaría General de Acuerdos de este Alto Tribunal difunda el texto íntegro del Acuerdo General Conjunto 1/2015 en los medios electrónicos respectivos.
+
+D.O.F. 28 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS”.]
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga el Título Tercero “De los servicios electrónicos de la SCJN”, del Acuerdo General Conjunto 1/2015, de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, que regula los servicios tecnológicos relativos a la tramitación electrónica del juicio de amparo, las comunicaciones oficiales y los procesos de oralidad penal en los Centros de Justicia Penal Federal.
+
+TERCERO. A partir de la entrada en vigor del presente Acuerdo General, los Tribunales Colegiados y Unitarios de Circuito, así como los Juzgados de Distrito remitirán a la SCJN, únicamente por el submódulo de “Remisión de asuntos a la SCJN”, previsto en el Capítulo Tercero del Acuerdo General Número 12/2014, de diecinueve de mayo de dos mil catorce, del Pleno de la Suprema Corte de Justicia de la Nación, relativo a los lineamientos que rigen el uso del Módulo de Intercomunicación para la transmisión electrónica de documentos entre los Tribunales del Poder Judicial de la Federación y la propia Suprema Corte, modificado por última vez mediante Instrumento Normativo del cinco de septiembre de dos mil diecisiete, versión electrónica de los recursos interpuestos contra las sentencias dictadas en los asuntos de su conocimiento dirigidos a la SCJN y de las respectivas constancias de notificación, una vez que se encuentren debidamente integrados, así como de las solicitudes de facultad de atracción o de reasunción de competencia, sin remitir a este Alto Tribunal la versión impresa de los respectivos expedientes de origen, en la inteligencia de que a su versión electrónica accederá el personal autorizado de la SCJN una vez integrado el asunto que corresponda a la competencia de la SCJN y de que únicamente mediante proveído presidencial, previo dictamen, se solicitará la respectiva versión impresa o bien la digitalización parcial o total de las constancias que por algún motivo no obren en la referida versión electrónica.
+
+En el caso de los recursos de revisión administrativa interpuestos contra resoluciones del Consejo de la Judicatura Federal, las constancias respectivas serán remitidas a la SCJN por el submódulo indicado en el párrafo anterior.
+
+Tratándose de los conflictos competenciales entre Tribunales Colegiados de Circuito únicamente se remitirán por el Submódulo regulado en el artículo 30 del mencionado Acuerdo General Plenario 12/2014, las resoluciones emitidas al respecto por aquéllos, sin menoscabo de que para la consulta de los expedientes relacionados se atienda a lo previsto en el párrafo primero de este numeral.
+
+CUARTO. Mientras se mantenga la suspensión de plazos en términos del Acuerdo General Plenario 7/2020 y sus prórrogas, las partes en los Asuntos de la competencia de la SCJN que se integren a partir del primero de junio de dos mil veinte o en los integrados previamente que se rijan por la Ley de Amparo, salvo en los asuntos regulados en el diverso Acuerdo General Plenario 8/2020, podrán promover únicamente mediante el uso de la FIREL o de la e.firma (antes firma electrónica avanzada o FIEL), por lo que se habilitarán los días y horas necesarios para la substanciación electrónica de dichos asuntos.
+
+QUINTO. Mientras se mantenga la suspensión de plazos en términos del Acuerdo General Plenario 7/2020 y sus prórrogas, los plazos para desahogar requerimientos ordenados en los proveídos dictados en ese lapso o previamente, así como para interponer recursos por vía electrónica en su contra, reiniciarán o comenzarán en los asuntos únicamente para la parte que promueva por vía electrónica, a partir de la fecha en la que surta efectos la notificación por lista o rotulón electrónicos del proveído que recaiga a dicha promoción.
+
+En el caso de los acuerdos en los que se admita a trámite un amparo en revisión o directo en revisión, tomando en cuenta que aquéllos no causan estado, el plazo para su impugnación iniciará con motivo del surtimiento de efectos de la respectiva notificación por oficio o por lista electrónica, en la inteligencia de que ésta hará las veces de la notificación por lista en estrados.
+
+SEXTO. La remisión de constancias, así como la integración y trámite de los expedientes respectivos únicamente se realizará por medios electrónicos, sin menoscabo de que se integre su versión impresa una vez que se normalicen las actividades jurisdiccionales de la SCJN.
+
+SÉPTIMO. Mientras se mantenga la suspensión de plazos en términos del Acuerdo General Plenario 7/2020 y sus prórrogas, en los acuerdos que se dicten a partir del primero de junio de dos mil veinte, se requerirá a las partes para que promuevan por vía electrónica en el Sistema Electrónico de la SCJN, mediante el uso de la FIREL o e.firma y que designen a las personas autorizadas para consultar el expediente electrónico respectivo y para recibir notificaciones electrónicas, haciendo de su conocimiento que las notificaciones posteriores se realizarán únicamente por oficio o por lista o rotulón electrónicos y, en su caso, mediante notificación electrónica, mientras no se reanuden en su totalidad los plazos ante la SCJN.
+
+OCTAVO. En caso de que no sea posible emplazar a la parte demandada o notificar por oficio a las autoridades responsables en un amparo en revisión o directo en revisión, o cuando las partes demandadas o las autoridades no cuenten con FIREL o manifiesten no contar con e.firma, la tramitación se suspenderá y podrá reanudarse una vez que se reanuden los plazos ante la SCJN, con la salvedad indicada en la parte final del Transitorio Quinto de este Acuerdo General en cuanto al transcurso de los plazos aplicables.
+
+NOVENO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
