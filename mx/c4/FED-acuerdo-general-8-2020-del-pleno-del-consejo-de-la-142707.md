@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-8-2020-del-pleno-del-consejo-de-la-142707"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-04-30"
-last_updated: "2020-04-30"
+last_updated: "2020-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142707&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,9 +23,9 @@ issue_date: "2020-04-27"
 
 ACUERDO GENERAL 8/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL ESQUEMA DE TRABAJO Y MEDIDAS DE CONTINGENCIA EN LOS ÓRGANOS JURISDICCIONALES POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2020.
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el 30 de abril de 2020.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de abril de 2020.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
@@ -81,9 +81,11 @@ Por lo anterior, con fundamento en los párrafos primero y séptimo del artícul
 
 ACUERDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 10/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE MAYO DE 2020)</small>
+
 ###### Artículo 1.
 
-Esquema de contingencia. Con el objetivo de dar continuidad a las medidas tendientes a evitar la concentración de personas y la propagación del virus, así como reanudar las actividades jurisdiccionales en mayor escala dentro del Poder Judicial de la Federación, se establece que durante el período del 6 al 31 de mayo de 2020, la función jurisdiccional se regirá por los siguientes postulados:
+Esquema de contingencia. Con el objetivo de dar continuidad a las medidas tendientes a evitar la concentración de personas y la propagación del virus, así como reanudar las actividades jurisdiccionales en mayor escala dentro del Poder Judicial de la Federación, se establece que durante el período del 6 de mayo al 15 de junio de 2020, la función jurisdiccional se regirá por los siguientes postulados:
 
 I. Trámite y resolución de casos urgentes. Únicamente se dará trámite a los casos nuevos que se califiquen como “urgentes”, ya sea que se promuevan de forma física o mediante “juicio en línea” en uso de la firma electrónica, de conformidad con lo dispuesto en Capítulo I del presente Acuerdo. Para efectos del presente acuerdo, la “firma electrónica” comprende a la Firma Electrónica Certificada del Poder Judicial de la Federación, conocida como “FIREL”, y a la firma electrónica o “e.firma” (antes firma electrónica avanzada o “FIEL”).
 
@@ -488,3 +490,19 @@ SÉPTIMO. La Dirección General de Tecnologías de la Información deberá reali
 OCTAVO. Se faculta a la Comisión Especial para que, considerando la información disponible sobre la evolución de la contingencia sanitaria y atendiendo las mejores prácticas en la materia, modifique o suspenda los esquemas de trabajo o medidas comprendidas en cada uno, según se estime necesario para hacer frente a la pandemia por Covid-19.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 8/2020, del Pleno del Consejo de la Judicatura Federal, relativo al esquema de trabajo y medidas de contingencia en los órganos jurisdiccionales por el fenómeno de salud pública derivado del virus COVID-19, fue aprobado por el Pleno del propio Consejo, en sesión extraordinaria de 27 de abril de 2020, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 27 de abril de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 28 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 10/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 8/2020, RELATIVO AL ESQUEMA DE TRABAJO Y MEDIDAS DE CONTINGENCIA EN LOS ÓRGANOS JURISDICCIONALES POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19, EN RELACIÓN CON EL PERIODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Los órganos jurisdiccionales rendirán los reportes estadísticos pendientes atendiendo a los lineamientos que publique a más tardar el 1 de junio la Dirección General de Estadística Judicial.
+
+CUARTO. La relación de los órganos jurisdiccionales de guardia durante el periodo de contingencia que transcurra del 1 al 15 de junio se encuentra en el anexo contenido en el siguiente enlace: https://www.cjf.gob.mx/2020/guardiasjunio.pdf. Adicionalmente, las ligas con órganos que han estado de guardia durante los períodos contenidos en los Acuerdos Generales 4/2020, 6/2020 y 8/2020 pueden consultarse, respectivamente, en los siguientes enlaces: https://www.cjf.gob.mx/resources/Anexoacdo4_2020.pdf; https://www.cjf.gob.mx/2020/anexocontingencia0420.pdf y https://www.cjf.gob.mx/2020/guardiasmayo.pdf.
+
+QUINTO. La relación de días en que el personal de cada órgano jurisdiccional se encuentra habilitado para acudir físicamente al mismo, con la limitante establecida en los artículos 11, fracción II, y 16, fracción III, del Acuerdo General 8/2020, se mantiene en los términos previstos en el Anexo 2 del Acuerdo General 8/2020, aunque las nuevas fechas se encuentran disponibles en el siguiente enlace: https://www.cjf.gob.mx/2020/personalOJjunio.pdf.
