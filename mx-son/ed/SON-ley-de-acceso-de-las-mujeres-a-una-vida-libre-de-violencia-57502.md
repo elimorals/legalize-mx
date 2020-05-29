@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2019-12-27"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -43,9 +43,11 @@ L E Y DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE S
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones contenidas en la presente ley son de orden público e interés social y tienen por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como establecer los principios, instrumentos y mecanismos, para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar.
+Las disposiciones contenidas en la presente ley son de orden público e interés social y tienen por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como establecer los principios, instrumentos y mecanismos, para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia, el desarrollo integral y sustentable que fortalezca (sic) soberanía y el régimen democrático establecidos en la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 2.
 
@@ -73,7 +75,9 @@ II.- DIF Municipal.- El organismo público descentralizado denominado Sistema pa
 
 III.- Organizaciones Civiles.- Las instituciones o agrupaciones ciudadanas legalmente constituidas que tengan por objeto atender a las mujeres víctimas de violencia, así como realizar acciones de difusión orientadas a la prevención y erradicación de la violencia en contra de las mujeres;
 
-IV.- Instituto.- Instituto Sonorense de la Mujer;
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+IV.- Instituto.- Instituto Sonorense de las Mujeres;
 
 V.- Ley: Ley de Acceso a las Mujeres a una Vida Libre de Violencia para el Estado de Sonora;
 
@@ -191,43 +195,63 @@ El Estado y los ayuntamientos promoverán las acciones conducentes para prevenir
 
 ### CAPÍTULO IV BIS. DE LA VIOLENCIA POLÍTICA
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
 
-ARTÍCULO 14 BIS.- La violencia política contra las mujeres es la acción u omisión ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones y la libertad de organización.
+ARTÍCULO 14 BIS.- La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-Se manifiesta en minimización, anulación, presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-Constituye una forma de discriminación de los espacios de poder y de decisión; fomenta la desigualdad y trasgrede los derechos políticos y civiles de las mujeres; puede expresarse a través de las siguientes acciones:
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-I.- Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
 
-II.- Imponer la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+ARTÍCULO 14 BIS 1.- La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
 
-III.- Suministrar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa, errada o imprecisa que induzca al incorrecto ejercicio de sus atribuciones;
+I.- Incumplir las disposiciones jurídicas estatales, nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-IV.- Proporcionar información incompleta o datos falsos a la autoridad administrativa, electoral o jurisdiccional con la finalidad de menoscabar los derechos político-electorales de las mujeres y la garantía del debido proceso;
+II.- Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-V.- Ocultar información u omitir la convocatoria de cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y/o actividades;
+III.- Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-VI.- Impedir o restringir la reincorporación al cargo que se ostente, cuando hagan uso de una licencia, incluida la licencia de maternidad;
+IV.- Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
 
-VII.- Impedir por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a cualquier puesto o encargo público, asistan a la toma de protesta de su encargo, así como a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que impliqué la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo el derecho a voz y voto;
+V.- Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
 
-VIII.- Impedir u obstaculizar, los derechos de asociación y afiliación en los partidos políticos y/u otro tipo de organizaciones civiles, en razón de género;
+VI.- Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
 
-IX.- Establecer conductas que impliquen amenazas verbales, difamación, desprestigio, burlas, descalificación, acecho, hostigamiento, acoso sexual y/o calumnias en público o privado, por cualquier medio convencional y/o digital;
+VII.- Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
 
-X.- Intimidar mediante agresiones físicas, sexuales, psicológicas o verbales contra su persona o sus familiares;
+VIII.- Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
 
-XI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un espacio público, de poder o de decisión.
+IX.- Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
 
-XII.- Excluir a las mujeres electas, titulares o designadas a cualquier puesto de liderazgo o encargo público, de la relación institucional directa que conlleva el ejercicio de su cargo.
+X.- Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
 
-XIII.- Presionar, intimidar y/u obligar de manera directa o indirecta a la renuncia o a la solicitud de licencia de los cargos de elección popular o de la función pública según sea el caso.
+XI.- Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
-XIV.- Impedir, obstaculizar o minimizar la construcción e implementación de proyectos políticos, legislativos, gubernamentales y políticas públicas, elaborados y abanderados por mujeres que ocupan cargos de elección popular, que tengan por objeto generar condiciones para la realización de la igualdad sustantiva.
+XII.- Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
 
-XV.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un espacio público, de poder o de decisión.
+XIII.- Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+XIV.- Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+XV.- Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+XVI.- Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+XVII.- Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XVIII.- Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XIX.- Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+XX.- Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+XXI.- Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad; o
+
+XXII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 ### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
 
@@ -365,19 +389,37 @@ I.- La Secretaría de Gobierno, quien lo presidirá;
 
 II.- La Secretaría de Desarrollo Social;
 
-III.- La Secretaría Ejecutiva de Seguridad Pública;
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-IV.- La Procuraduría General de Justicia del Estado;
+III.- La Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+IV.- La Fiscalía General de Justicia del Estado;
 
 V.- La Secretaría de Educación y Cultura;
 
-VI.- La Secretaría de Salud;
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-VII.- El Instituto Sonorense de la Mujer, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
+VI.- La Secretaría de Salud Pública;
+
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+VII.- El Instituto Sonorense de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
 
 VIII.- DIF Estatal; y
 
-IX.- Los organismos y dependencias instituidos en el ámbito municipal para la protección de los derechos de la mujer.
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+IX.- Las dependencia (sic) y entidades de la administración pública municipal para el adelanto de las mujeres;
+
+> <small>(ADICIONADA, B.O. 29 DE MAYO DE 2020)</small>
+
+X.- Coordinación General de la Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas; y
+
+> <small>(ADICIONADA, B.O. 29 DE MAYO DE 2020)</small>
+
+XI.- Instituto Estatal Electoral y de Participación Ciudadana.
 
 ###### ARTÍCULO 21.
 
@@ -429,7 +471,17 @@ La Secretaría de Gobierno procurará la participación de los sectores público
 
 ## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN, Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
+### CAPÍTULO III (SIC). DE LA COMPETENCIA DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 32 BIS.- Corresponde al Instituto Estatal Electoral y de Participación Ciudadana, en el ámbito de sus competencias:
+
+I.- Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II.- Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
+
+III.- Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
 
 ###### ARTÍCULO 24.
 
@@ -647,9 +699,13 @@ VII.- Promover y vigilar que la atención ofrecida en las diversas instituciones
 
 VIII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 29 DE MAYO DE 2020)</small>
+
+### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
+
 ### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 33.
 
@@ -689,11 +745,13 @@ XVI.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ## TÍTULO QUINTO. DE LAS MEDIDAS DE PROTECCIÓN
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
 
 ###### ARTÍCULO 34.
 
-Las órdenes de protección: Son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares.
+Las órdenes de protección: Son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Estatal Electoral de Sonora, el Instituto Estatal Electoral y de Participación Ciudadana podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
 ###### ARTÍCULO 35.
 
@@ -786,6 +844,8 @@ Cualquier persona podrá solicitar a las autoridades competentes que los represe
 ARTÍCULO 40 BIS.- La negativa a brindar las órdenes de protección de emergencia y preventivas, será considerada violencia institucional en los términos de esta Ley.
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
+
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
 
 ###### ARTÍCULO 41.
 
@@ -988,3 +1048,21 @@ B.O. 27 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ESTATAL DE RESPONSABILIDADES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA Y DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La observancia del principio de paridad de género a que se refiere este decreto, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+###### ARTÍCULO TERCERO.
+
+La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
