@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2020-01-30"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 30 DE ENERO DE 2020.]
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -692,6 +690,10 @@ P).- Establecer las bases para la participación, colaboración y cooperación d
 Q).- Constituir, en el ámbito de su competencia, los consejos municipales para la integración social de las personas con discapacidad, en los términos de la ley de la materia;
 
 R).- Nombrar y remover a los funcionarios y empleados de sus dependencias y concederles licencia de acuerdo a las leyes aplicables;
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+En los nombramientos de las y los titulares de las dependencias se sujetarán al principio de paridad de género.
 
 S).- Conceder pensiones a los empleados del Municipio en reconocimiento a su antigüedad en la función pública, así como a las viudas y huérfanos de los mismos, en los términos de ley;
 
@@ -4478,3 +4480,15 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año. Asimismo, la Secretaría de Hacienda deberá (sic) los lineamientos necesarios para implementar las disposiciones señaladas en el presente artículo.
+
+B.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 120 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL INCISO R) DE LA FRACCIÓN III DEL ARTÍCULO 61 DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La observancia del principio de paridad de género a que se refiere este decreto, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto.
