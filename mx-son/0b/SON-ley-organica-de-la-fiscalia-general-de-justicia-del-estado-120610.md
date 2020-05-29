@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1206
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-03-27"
-last_updated: "2020-04-27"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en el Número 25 de la Sección II, del Boletín Oficial del Estado de Sonora, el lunes 27 de marzo de 2017.
 
@@ -291,6 +291,14 @@ XXI.- Las demás que prevean otras disposiciones jurídicas aplicables.
 
 La Fiscalía General, para el despacho de los asuntos que le competen, estará integrada por el despacho de la Fiscalía General, la Fiscalía Anticorrupción del Estado de Sonora, la Fiscalía Especializada en Materia de Delitos Electorales, Fiscalías Especializadas creadas en términos de ley, los Ministerios Públicos, Unidades Especializadas, la Oficialía Mayor, Visitaduría, así como las Vicefiscalías, Delegaciones Regionales, Direcciones Generales y demás Unidades Administrativas que establezca el Reglamento o el Fiscal General mediante acuerdo.
 
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+La persona titular de la Fiscalía General podrá crear comisiones especiales, de carácter temporal, que gozarán de autonomía técnica y de gestión, para colaborar en las investigaciones de fenómenos y delitos que debido a su contexto, a juicio del fiscal, amerite su creación, incluyendo aquellos sobre feminicidios, violencia sexual, violencia política contra las mujeres en razón de género o que impliquen violaciones a derechos humanos, en especial de los pueblos y las comunidades indígenas, de las niñas, niños, adolescentes y personas migrantes. Los trabajos, recomendaciones y conclusiones de las comisiones podrán ser tomados en consideración por los órganos de la función fiscal, para la investigación y el ejercicio de la acción penal de los asuntos correspondientes.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+Las comisiones especiales tendrán como enfoque el acceso a la verdad, la justicia, la reparación integral y la garantía de no repetición. Serán integradas, de manera multidisciplinaria, por personas expertas de reconocida experiencia, tanto nacionales o internacionales en las materias que se requieran, organismos internacionales, organismos de la sociedad civil, universidades públicas y privadas y colectivos de víctimas.
+
 ###### ARTÍCULO 14.
 
 Los titulares de los órganos o unidades administrativas a que refiere el artículo anterior deberán reunir los requisitos que se establezcan en el Reglamento de esta Ley y demás disposiciones aplicables, y serán nombrados y removidos por el Fiscal General, pero deberán contar con título profesional expedido por una institución con reconocimiento de validez oficial, contar con experiencia de cuando menos 3 años en el área a desempeñarse y, contar con la acreditación del examen de control de confianza, previo a su nombramiento. El Reglamento determinará en qué casos el titular de alguna unidad tendrá, por ese hecho, carácter de agente del Ministerio Público, pero deberá cumplir con los requisitos para ser nombrado como tal.
@@ -311,13 +319,17 @@ Los acuerdos, convenios, circulares, instructivos, bases y demás normas o dispo
 
 ### CAPÍTULO II. DEL FISCAL GENERAL
 
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 17.
 
-La Fiscalía General, con todas sus facultades, estará a cargo del Fiscal General, quien presidirá la institución del Ministerio Público y tendrá autoridad jerárquica sobre todo el personal, en el que podrá delegar el ejercicio de sus atribuciones.
+La Fiscalía General, con todas sus facultades, estará a cargo de una persona a quien se le denominará Fiscal General, quien presidirá la institución del Ministerio Público y tendrá autoridad jerárquica sobre todo el personal, en el que podrá delegar el ejercicio de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 18.
 
-El nombramiento del Fiscal General se sujetará al procedimiento y requisitos previstos en el artículo 98 de la Constitución del Estado, quien podrá ser removido por el titular del Ejecutivo del Estado únicamente por alguna de las causas graves siguientes:
+El nombramiento de la persona titular de la Fiscalía General se sujetará al procedimiento y requisitos previstos en el artículo 98 de la Constitución del Estado, quien podrá ser removida o removido por la o el titular del Ejecutivo del Estado únicamente por alguna de las causas graves siguientes:
 
 I.- Perder la ciudadanía mexicana, en los términos que establece el artículo 37 de la Constitución General;
 
@@ -327,9 +339,11 @@ III.- Cometer violaciones graves a la Constitución General o a la Constitución
 
 Lo dispuesto en las fracciones anteriores se aplicará sin perjuicio de lo previsto en los artículos 110 y 111 de la Constitución General.
 
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 19.
 
-El Fiscal General rendirá protesta ante el titular del Poder Ejecutivo y el Presidente en turno del Congreso del Estado. Los demás integrantes de la Fiscalía rendirán protesta ante el Fiscal General o ante el servidor público que determine el Reglamento.
+La persona que ostente el cargo de Fiscal General rendirá protesta ante la persona titular del Poder Ejecutivo y la o el Presidente en turno del Congreso del Estado. Las demás personas integrantes de la Fiscalía rendirán protesta ante la Fiscal o el Fiscal General o ante la servidora o el servidor público que determine el Reglamento de esta Ley.
 
 ###### ARTÍCULO 20.
 
@@ -541,11 +555,17 @@ XXVII.- Las demás que en su caso le confiera el Reglamento, así como otras dis
 
 La Fiscalía Especializada en materia de Delitos Electorales, cuyo titular tendrá nivel de Vicefiscal y será agente del Ministerio Público para los efectos legales correspondientes, debiendo cumplir con los requisitos que establece la Constitución del Estado, contará con las siguientes atribuciones:
 
-I.- Recibir por sí o por conducto de las Unidades de Atención Temprana, las denuncias que se presenten en forma oral o por escrito sobre hechos que pudieren constituir violaciones, incumplimientos o falta de aplicación de las disposiciones jurídicas en materia electoral establecidas en la Legislación Estatal, que presuman la comisión de un delito electoral;
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+I.- Recibir por sí o por conducto de las Unidades de Atención Temprana, las denuncias que se presenten en forma oral o por escrito sobre hechos que presuman la comisión de un delito electoral en términos dela Ley General en Materia de Delitos Electorales;
 
 II.- Ejercitar la acción penal cuando así corresponda, así como determinar el archivo temporal o definitivo de la investigación o el no ejercicio, previo acuerdo y autorización del Fiscal General;
 
 III.- Coordinar los procesos penales o administrativos incluyendo la aplicación y cumplimiento de las disposiciones jurídicas en materia electoral, que conozca desde la etapa preliminar hasta la ejecución de la sentencia;
+
+> <small>(ADICIONADA, B.O. 29 DE MAYO DE 2020)</small>
+
+III Bis.- Llevar a cabo la creación de la Base Estadística Estatal de Violencia Política contra las Mujeres en razón de Género.
 
 IV.- Realizar los estudios y emitir las opiniones y dictámenes derivados de las consultas que le sean formuladas al Fiscal General, en materia electoral;
 
@@ -1240,3 +1260,21 @@ B.O. 27 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ESTATAL DE RESPONSABILIDADES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA Y DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al dia siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La observancia del principio de paridad de género a que se refiere este decreto, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+###### ARTÍCULO TERCERO.
+
+La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
