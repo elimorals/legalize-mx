@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-para-el-acceso-a-los-servicios-del-tribunal-86454"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-01"
-last_updated: "2012-03-01"
+last_updated: "2020-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO PARA EL ACCESO A LOS SERVICIOS DEL TRIBUNAL ELECTRONICO DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL ACCESO A LOS SERVICIOS DEL TRIBUNAL ELECTRÓNICO DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 29 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL ACCESO A LOS SERVICIOS DEL TRIBUNAL ELECTRÓNICO DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 1 de marzo de 2012.
 
@@ -346,3 +348,17 @@ Artículo Tercero.- En materia penal, la consulta de expedientes de forma electr
 EL SECRETARIO GENERAL DE ACUERDOS DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO, C E R T I F I C Ó: QUE EL ANTERIOR "REGLAMENTO PARA EL ACCESO A LOS SERVICIOS DEL TRIBUNAL ELECTRÓNICO DEL PODER JUDICIAL DEL ESTADO", FUE APROBADO POR EL HONORABLE PLENO, EN ACUERDO DIVERSO TOMADO EN SESIÓN CELEBRADA EL 8 OCHO DE DICIEMBRE DE 2011 DOS MIL ONCE. SE EXPIDE LA PRESENTE CERTIFICACIÓN, PARA LOS EFECTOS LEGALES. EN CIUDAD VICTORIA, TAMAULIPAS, A LOS 12 DOCE DÍAS DE DICIEMBRE DE 2011 DOS MIL ONCE. DOY FE.
 
 EL SECRETARIO GENERAL DE ACUERDOS.- LIC. JAIME ALBERTO PÉREZ AVALOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 13/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL ESTADO, RELATIVO A LA APROBACIÓN DEL REGLAMENTO PARA EL ACCESO A LOS SERVICIOS DEL TRIBUNAL ELECTRÓNICO".]
+
+Artículo Primero.- El presente Reglamento entrará el primero de junio de dos mil veinte, debiendo publicarse en el Periódico Oficial del Estado y en la página de Internet de este Poder Judicial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento para el Acceso a los Servicios del Tribunal Electrónico del Poder Judicial del Estado, publicado en el Periódico Oficial para el Estado de Tamaulipas el uno de marzo de dos mil doce.
+
+Artículo Tercero.- La disposición contenida en el artículo 35 surtirá efectos a partir de las notificaciones electrónicas que se generen a partir del inicio de vigencia del presente Reglamento. Por tanto, se deberá dar la debida publicidad a los usuarios en el portal del Tribunal Electrónico.
+
+Artículo Cuarto.- En el Sistema Penal Acusatorio, la consulta de constancias de la carpeta de forma electrónica y la posibilidad de presentar promociones electrónicas, se realizará en forma paulatina, conforme las capacidades materiales y técnicas lo permitan.
