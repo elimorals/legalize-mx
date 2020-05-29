@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-en-materia-electoral-y-de-participacion-101653"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2019-12-23"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 30 de junio de 2014.
 
@@ -45,9 +45,11 @@ LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE
 
 ### CAPÍTULO I. DEL ÁMBITO DE APLICACIÓN Y DE LOS CRITERIOS DE INTERPRETACIÓN
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, de observancia general en todo el Estado y tiene por objeto resolver las controversias emanadas de los procesos electorales y, en su caso, de los procedimientos de participación ciudadana previstos en la Constitución Local, así como de la elección de autoridades indígenas, conforme a sus normas, procedimientos y prácticas tradicionales, con pleno respeto a los derechos humanos.
+La presente Ley es de orden público, de observancia general en todo el Estado y tiene por objeto resolver las controversias emanadas de los procesos electorales, así como todas aquellas que se susciten con motivo del ejercicio de los derechos político-electorales; y, en su caso, de los procedimientos de participación ciudadana previstos en la Constitución Local, así como de la elección de autoridades indígenas, conforme a sus normas, procedimientos y prácticas tradicionales, con pleno respeto a los derechos humanos.
 
 ###### ARTÍCULO 2.
 
@@ -85,7 +87,9 @@ En la interpretación sobre la resolución de conflictos de asuntos internos de 
 
 El sistema de medios de impugnación regulado por esta Ley tiene por objeto garantizar:
 
-I. Que todos los actos, acuerdos y resoluciones de las autoridades electorales y de participación ciudadana se sujeten invariablemente, según corresponda, a los principios de constitucionalidad y de legalidad;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+I. Que todos los actos, acuerdos y resoluciones electorales y de participación ciudadana se sujeten invariablemente, según corresponda, a los principios de constitucionalidad, convencionalidad y de legalidad;
 
 II. La definitividad de los distintos actos y etapas del proceso electoral.
 
@@ -98,6 +102,10 @@ b) El recurso de apelación, para garantizar la legalidad de actos, acuerdos o r
 c) El juicio de inconformidad, procederá para impugnar las determinaciones de las autoridades electorales que violen normas constitucionales o legales, en la etapa de resultados y de declaraciones de validez; y,
 
 d) El juicio para la protección de los derechos político-electorales del ciudadano.
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+III. Garantizar, la salvaguarda, validez y eficacia de los derechos político-electorales de la ciudadanía.
 
 ###### ARTÍCULO 5.
 
@@ -129,9 +137,11 @@ Durante el proceso electoral todos los días y horas son hábiles. Los plazos se
 
 Cuando la violación reclamada en el medio de impugnación respectivo no se produzca durante el desarrollo de un proceso electoral, el cómputo de los plazos se hará contando solamente los días hábiles, debiendo entenderse por tales todos los días a excepción de los sábados, domingos y los inhábiles en términos de ley.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 9.
 
-Los medios de impugnación previstos en esta Ley deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquél en que se tenga conocimiento del acto, acuerdo o resolución impugnado, con excepción del juicio de inconformidad que será de 5 días.
+Los medios de impugnación previstos en esta Ley deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquel en que se tenga conocimiento del acto, acuerdo o resolución impugnado, con excepción del juicio de inconformidad y del juicio para la protección de los derechos políticos electorales que serán de cinco días.
 
 ### CAPÍTULO III. DE LOS REQUISITOS DE LOS MEDIOS DE IMPUGNACIÓN
 
@@ -173,9 +183,17 @@ IV. Que el promovente carezca de legitimación en los términos de la presente L
 
 V. Que no se hayan agotado las instancias previas establecidas en el presente Ordenamiento, o por las normas internas de los partidos políticos, según corresponda, para combatir los actos, acuerdos o resoluciones electorales o las determinaciones de estos últimos, en virtud de las cuales se pudieran haber modificado, revocado o anulado;
 
-VI. Cuando en un mismo escrito se pretenda impugnar más de una elección; y,
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-VII. Cuando resulte evidentemente frívolo o sea notoriamente improcedente.
+VI. Cuando en un mismo escrito se pretenda impugnar más de una elección;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+VII. Cuando resulte evidentemente frívolo o sea notoriamente improcedente; y,
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+VIII. Cuando la autoridad u órgano partidista responsable del acto, acuerdo o resolución impugnada lo modifique o revoque, o cuando sin provenir de la autoridad responsable, ocurra un acto o hecho que cambie su situación jurídica, de tal manera que quede totalmente sin materia el medio de impugnación respectivo antes de que se dicte resolución o sentencia.
 
 ###### ARTÍCULO 12.
 
@@ -203,7 +221,9 @@ Son partes en el procedimiento de los medios de impugnación las siguientes:
 
 I. El actor, que será quien estando legitimado lo presente por sí mismo o, en su caso, a través de representante, en los términos de este Ordenamiento;
 
-II. La autoridad responsable o el órgano partidista, que es el organismo electoral o partidista, según sea el caso, que realizó el acto, emitió el acuerdo o dictó la resolución que se impugna; y,
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+II. La autoridad responsable o el órgano partidista, que es, según sea el caso, quien realizó o se abstuvo de efectuar el acto, emitió el acuerdo o dictó la resolución que se impugna; y,
 
 III. El tercero interesado, que es el ciudadano, el partido político, la coalición, el candidato, la organización o agrupación política, según corresponda con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
 
@@ -385,7 +405,9 @@ a) En su caso, la mención de si el promovente o el compareciente, tiene reconoc
 
 b) Los motivos y fundamentos jurídicos que considere pertinentes para sostener la legalidad del acto, acuerdo o resolución impugnado; y,
 
-c) La firma autógrafa del Presidente o del Secretario del Consejo Electoral correspondiente.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+c) La firma autógrafa de quien esté facultado para ello y el cargo con el que se ostenta.
 
 ### CAPÍTULO IX. DE LA SUSTANCIACIÓN
 
@@ -865,13 +887,21 @@ Cuando por efecto de la acumulación de las sentencias de los distintos juicios,
 
 Los juicios de inconformidad deberán quedar resueltos:
 
-I. Los relativos a la elección de ayuntamiento, a más tardar quince días después de su recepción por el Tribunal;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-II. Los relativos a la elección de diputados por el principio de mayoría relativa, a más tardar veintiséis días después de su recepción por el Tribunal;
+I. Los relativos a la elección de ayuntamiento, a más tardar veinte días después de su recepción por el Tribunal;
 
-III. Los correspondientes a la elección de diputados por el principio de representación proporcional, a más tardar veintiocho días después de su recepción por el Tribunal;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-IV. Los relativos a la elección de Gobernador, a más tardar a los cuarenta y tres días después de su recepción por el Tribunal; y,
+II. Los relativos a la elección de diputados por el principio de mayoría relativa, a más tardar treinta y un días después de su recepción por el Tribunal;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+III. Los correspondientes a la elección de diputados por el principio de representación proporcional, a más tardar treinta y tres días después de su recepción por el Tribunal;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+IV. Los relativos a la elección de Gobernador, a más tardar a los cuarenta y ocho días después de su recepción por el Tribunal; y,
 
 V. Los relativos a los procesos de Referéndum o Plebiscito, a más tardar quince días después de su recepción por el Tribunal.
 
@@ -1027,9 +1057,17 @@ I. En relación con las elecciones de Gobernador, Diputados y ayuntamientos;
 
 II. Cuando se trate de la violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de Gobernador, Diputados, ayuntamientos y dirigentes de los órganos estatales de dichos institutos, así como en los conflictos internos de los partidos políticos;
 
-III. La violación al derecho de ser votado en las elecciones de los servidores públicos municipales diversos a los electos para integrar el ayuntamiento; y,
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-IV. La violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de las elecciones de autoridades municipales y diputados locales.
+III. La violación al derecho de ser votado en las elecciones de los servidores públicos municipales diversos a los electos para integrar el ayuntamiento;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+IV. La violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de las elecciones de autoridades municipales y diputados locales; y,
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+V. La violación de los derechos político electorales en su vertiente del ejercicio del cargo.
 
 ### CAPÍTULO III. DE LAS SENTENCIAS Y DE LAS NOTIFICACIONES
 
@@ -1050,6 +1088,40 @@ b) A la autoridad u órgano partidista responsable, a más tardar dentro de los 
 ###### ARTÍCULO 78.
 
 En los casos a que se refieren los incisos a) al c) del párrafo 1, del artículo 74 de este ordenamiento, cuando la sentencia que se dicte resulte favorable a los intereses de los promoventes y la autoridad responsable, federal o local, por razón de los plazos legales o por imposibilidad técnica o material, no los pueda incluir debidamente en la lista nominal de electores correspondiente a la sección de su domicilio, o expedirles el documento que exija la ley electoral para poder sufragar, bastará la exhibición de la copia certificada de los puntos resolutivos del fallo así como de una identificación para que los funcionarios electorales permitan que los ciudadanos respectivos ejerzan el derecho de voto el día de la jornada electoral, en la mesa de casilla que corresponda a su domicilio o, en su caso, en una casilla especial en los términos de la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+###### ARTÍCULO 79.
+
+El Tribunal en el desempeño de sus funciones en materia de acceso a la transparencia y protección de datos personales, se regirá de conformidad con las normas previstas en esta Ley, así como en la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+###### ARTÍCULO 80.
+
+Toda la información en posesión del Tribunal será pública, completa, oportuna y accesible, sujeta a un claro régimen de excepciones que deberán estar definidas y ser además legítimas y estrictamente necesarias en una sociedad democrática.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+###### ARTÍCULO 81.
+
+Toda la información pública generada, obtenida, adquirida, transformada o en posesión del Tribunal es pública y será accesible a cualquier persona, para lo que se deberán habilitar todos los medios, acciones y esfuerzos disponibles en los términos y condiciones que establezca la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+###### ARTÍCULO 82.
+
+El Tribunal buscará, en todo momento, que la información generada tenga un lenguaje sencillo para cualquier persona y se procurará, en la medida de lo posible, su accesibilidad y traducción a lenguas indígenas.
+
+En la generación, publicación y entrega de información se deberá garantizar que ésta sea accesible, confiable, verificable, veraz, oportuna y atenderá las necesidades del derecho de acceso a la información de toda persona.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+###### ARTÍCULO 83.
+
+El Tribunal deberá documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones.
+
+En los casos en que ciertas facultades, competencias o funciones no se hayan ejercido, se debe motivar la respuesta en función de las causas que motiven la inexistencia.
 
 T R A N S I T O R I O S
 
@@ -1096,3 +1168,11 @@ P.O. 23 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 205.- ÚNICO.- SE REFORMAN LOS INCISOS B) Y C); Y SE ADICIONA EL INCISO D), AL ARTÍCULO 72 DE LA LEY DE JUSTICIA EN MATERIA ELECTORAL Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 328 POR EL QUE “SE REFORMAN, EL ARTÍCULO 1; LA FRACCIÓN I DEL ARTÍCULO 4; 9; LAS FRACCIONES VI Y VII DEL ARTÍCULO 11; 13 FRACCIÓN II; 26 INCISO C); 63 FRACCIONES I, II, III Y IV; 76, FRACCIÓN III Y IV; Y, SE ADICIONA, LA FRACCIÓN III AL ARTÍCULO 4; FRACCIÓN VIII AL ARTÍCULO 11; 76, FRACCIÓN V; ARTÍCULOS 79, 80, 81, 82 Y 83; TODOS DE LA LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se instruye al Instituto Electoral de Michoacán a que modifique el calendario de ministraciones a que se refiere el artículo 112, inciso b), fracción II del presente decreto para la ministración del financiamiento público para la obtención del voto. De igual forma, deberá de hacer los ajustes necesarios en el presupuesto del Instituto, en la parte de las prerrogativas de los partidos políticos, a efecto de modificar lo relativo al financiamiento público para la obtención del voto para los partidos e incorporarlo en el presupuesto de 2021.
