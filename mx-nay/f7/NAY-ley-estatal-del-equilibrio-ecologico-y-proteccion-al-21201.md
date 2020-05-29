@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2020-02-13"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -4067,9 +4067,13 @@ Segundo. Para la transición paulatina de sustitución de bolsas, popotes y reci
 
 Tercero. La entrada en vigor de la restricción definitiva de venta, facilitación y obsequio de bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio ambiente para fines de envoltura transportación, carga o traslado de alimentos y bebidas, se ajustará a la siguiente gradualidad:
 
-a) En supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, en un plazo de doce meses a la entrada en vigor del presente decreto, y
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-b) En establecimientos dedicados a la venta de mayoreo y menudeo de los productos no compostables, en un plazo de dieciocho meses a la entrada en vigor del presente decreto.
+a) En supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, a partir del 1 de enero de 2021.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+b) En establecimientos dedicados a la venta de mayoreo y menudeo de los productos no compostables, a partir del 1 de enero de 2021.
 
 Cuarto. Concluidos los plazos definitivos señalados en (sic) artículo anterior, todos los establecimientos comerciales referidos con antelación, deberán de llevar a cabo la sustitución definitiva de los productos elaborados con materiales no compostables por los fabricados solamente con materiales que faciliten su reúso o reciclado y que sean derivados de productos compostables.
 
@@ -4086,3 +4090,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se contará con un plazo de ciento ochenta días naturales a partir de la entrada en vigor de la presente reforma, para formular e integrar los programas de capacitación y apoyo en materia de cosecha de agua.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LOS INCISOS A) Y B) DEL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
