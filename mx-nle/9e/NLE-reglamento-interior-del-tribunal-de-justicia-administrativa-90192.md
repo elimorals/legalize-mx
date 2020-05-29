@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-justicia-administrativa-901
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2019-05-24"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2012.
 
@@ -859,21 +859,39 @@ A fin de cumplir con lo establecido en el artículo 43 fracción I, de la Ley de
 
 Para el funcionamiento del sistema electrónico de recepción de oficialía de partes, deberán seguirse las siguientes reglas.
 
-I. Los promoventes deberán ingresar a la página oficial de internet del Tribunal de Justicia Administrativa del Estado, a fin de imprimir el acuse de recibido provisional y las etiquetas con código de barras necesarias, mismas que deberán ser adheridas al (sic) los sobres respectivos que contengan la o las promociones correspondientes y sus anexos.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-II. Se deberá depositar la promoción en sobre cerrado, debidamente identificado con la etiqueta referida en el párrafo anterior.
+I. Los promoventes deberán ingresar a la página oficial de internet del Tribunal de Justicia Administrativa del Estado, a fin de imprimir el acuse de recibido provisional y las etiquetas con código de barras necesarias, mismas que deberán ser adheridas al o los sobres respectivos que contengan la o las promociones correspondientes y sus anexos.
 
-III. A fin de presentar los documentos aludidos en la fracción anterior, los promoventes deberán acudir al recinto oficial del Tribunal de Justicia Administrativa del Estado y depositar el sobre o sobres que contenga el documento a presentar en el buzón que para tal efecto se establezca, dentro del horario de 15:01:01 a 23:59:59 del día del vencimiento del término.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+II. Se deberá pasar la etiqueta de código de barras a la que se refiere la fracción anterior, a través del escáner de código de barras con el que cuenta el Sistema Electrónico de Recepción de Oficialía de Partes, después se deberá depositar la promoción en sobre cerrado, debidamente identificado con la etiqueta referida en el párrafo anterior.
+
+En caso de que por una causa ajena al Tribunal no se realizó el escaneo correspondiente, el oficial de partes lo asentara de esa forma y lo remitirá a la Sala Ordinaria correspondiente, quien, a fin de analizar que el documento fue presentado en tiempo y forma, girará atento oficio a la Secretaría General de Acuerdos del Tribunal para que la misma en caso de ser posible certifique la hora de llegada del usuario al lugar en donde se ubica el buzón electrónico, para lo cual puede hacer uso de libros de registro y de la videocámara con la que se encuentra equipado el buzón electrónico, en caso de no ser posible lo anterior, el documento se tendrá por presentado a las ocho horas del día en que el encargado de la Oficialía de Partes del Tribunal lo haya encontrado depositado en el buzón, con las consecuencias legales a las que haya lugar.
+
+Si fuere imposible escanear el código de barras por fallas imputables al Sistema Electrónico de Recepción de Oficialía de Partes, el usuario deberá asentarlo bajo protesta de decir verdad, en la etiqueta que lleve el sobre que contenga los documentos, y el oficial de partes registrara que no es posible asentar la hora de llegada del documento y lo remitirá a la Sala Ordinaria que corresponda quien girará atento oficio a la Secretaría General de Acuerdos del Tribunal para que la misma constate la existencia del mal funcionamiento de dicho sistema, y en caso de ser posible certifique la hora de llegada del usuario al lugar en donde se ubica el buzón electrónico, para lo cual puede hacer uso de libros de registro y de la videocámara con la que se encuentra equipado el buzón electrónico, en caso de no ser posible lo anterior, se tendrá por presentado a las ocho horas del día en que el encargado de la Oficialía de partes lo haya encontrado en el buzón electrónico, y solo en este caso ante una falla del sistema de este buzón, se tendrá por presentada de forma oportuna la promoción que corresponda.
+
+Si no existiere falla alguna que impida el correcto funcionamiento del Sistema Electrónico de Recepción de Oficialía de Partes del Tribunal de Justicia Administrativa, la promoción o demanda solo se tendrá por presentado (sic) a las ocho horas del día en que el encargado de la Oficialía de Partes del Tribunal lo haya encontrado depositado en el buzón con las consecuencias legales a las que haya lugar.
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+III. A fin de presentar los documentos aludidos en la fracción anterior, los promoventes deberán acudir al recinto oficial del Tribunal de Justicia Administrativa del Estado y, siguiendo los pasos señalados en la fracción anterior, depositar el sobre o sobres que contenga el documento a presentar en el buzón que para tal efecto se establezca, dentro del horario de 15:00:01 a 23:59:59 horas del día del vencimiento del término.
 
 IV. Al día hábil siguiente del depósito, el promovente, por sí o a través de su autorizado, deberá presentar al personal encargado de la Oficialía de Partes, el boleto de acuse de recibido provisional que se obtuvo del (sic) página de internet antes referida, quien en presencia del interesado abrirá el sobre respectivo, sacará la promoción, la sellará con la fecha del día de su depósito y le dará el tramite que corresponda, entregando al interesado el acuse de recibido oficial definitivo correspondiente.
 
 V. En caso de no presentarse el promovente o autorizado a canjear el boleto y confirmar el depósito de las promociones, el personal encargado de la Oficialía de Partes identificará los sobres depositados en el buzón del Sistema Electrónico de Recepción de Oficialía de Partes y procederá estampar el sello en el que se precisará la fecha y hora del depósito del sobre y la siguiente leyenda "Promoción presentada a través del Sistema Electrónico de Recepción de Oficialía de Partes, no confirmada" (sic). Hecho lo anterior, se turnará el sobre cerrado a la Sala respectiva, para que el Secretario de Estudio y Cuenta correspondiente, abra el sobre y realice una certificación en el que hará constar la descripción de los documentos exhibidos, los anexos que en su caso se acompañen, las fojas que contienen cada uno de ellos, y en general los datos que estime pertinentes para la mejor identificación de los documentos presentados. Hecho lo anterior se dará la cuenta de dicha promoción al Magistrado, para la elaboración del acuerdo que corresponda.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### Artículo 52.
 
-Se publicará en los días hábiles, un instrumento de comunicación, con fines informativos denominado "Boletín" en el que se publicarán todos los acuerdos y resoluciones del día, dictados por las diversas Salas integrantes del Tribunal de Justicia Administrativa del Estado. Este boletín estará a disposición de los interesados en forma electrónica, en la página oficial del Tribunal y no tendrá efecto legal alguno.
+Se publicará en los días hábiles, un instrumento de comunicación, con validez oficial denominado “Boletín” en el que se publicarán los datos de todos los acuerdos y resoluciones jurisdiccionales del día, dictados por las diversas Salas integrantes del Tribunal de Justicia Administrativa del Estado. Este boletín estará a disposición de los interesados en forma electrónica, en la página oficial del Tribunal y en su caso podrá ser utilizado como un medio de comunicación procesal, cuando a si (sic) lo determine la Sala correspondiente mediante acuerdo debidamente fundado y motivado.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 53.
+
+Cuando las partes hayan autorizado que las notificaciones se realicen vía electrónica, el Tribunal enviará, en el mismo día en que se haya subido la resolución al Tribunal Virtual, un mensaje al correo electrónico proporcionado por ellas, en el cual identificará el número de expediente y la fecha del acuerdo. Las notificaciones que se realicen por la vía electrónica surtirán sus efectos en los términos dispuestos por el artículo 169 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
 T R A N S I T O R I O S
 
@@ -932,6 +950,14 @@ Tercero. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
 P.O. 24 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN POR ADICIÓN Y MODIFICACIÓN DE DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN".]
+
+Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN POR ADICIÓN Y MODIFICACIÓN DE (SIC) DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN”.]
 
 Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
