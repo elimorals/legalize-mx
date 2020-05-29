@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2019-04-22"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -5691,7 +5691,11 @@ Los gastos realizados por los partidos políticos en el Estado hasta antes de la
 
 Artículo décimo cuarto. Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de esta Ley.
 
-DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS VEINTISEIS DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL CATORCE.- PRESIDENTE DIPUTADO GONZALO JOSÉ ESCALANTE ALCOCER.- SECRETARIA DIPUTADA ELSA VIRGINIA SARABIA CRUZ.- SECRETARIA DIPUTADA MARÍA YOLANDA VALENCIA VALES.- RÚBRICA.”
+> <small>(ADICIONADO, D.O. 29 DE MAYO DE 2020)</small>
+
+Artículo único. Por única ocasión, el proceso electoral 2020-2021, a celebrarse en el Estado de Yucatán dará inicio en la primera semana del mes de noviembre del año previo al de la elección.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS VEINTISEIS DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL CATORCE.- PRESIDENTE DIPUTADO GONZALO JOSÉ ESCALANTE ALCOCER.- SECRETARIA DIPUTADA ELSA VIRGINIA SARABIA CRUZ.- SECRETARIA DIPUTADA MARÍA YOLANDA VALENCIA VALES.- RÚBRICA."
 
 Y, por tanto, mando se imprima, publique y circule para su conocimiento y debido cumplimiento.
 
@@ -5802,3 +5806,11 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente al de
 Derogación expresa
 
 Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 225/2020 POR EL QUE SE MODIFICA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. El Instituto Electoral y de Participación Ciudadana de Yucatán deberá ajustar los plazos y términos del proceso electoral al presente decreto.
