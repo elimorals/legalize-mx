@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2020-04-28"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -52,6 +52,10 @@ I. La función de organizar las elecciones de los integrantes de los poderes Leg
 II. La organización, funcionamiento, derechos, obligaciones, prerrogativas y demás acciones relativas a los partidos políticos; y,
 
 III. El ejercicio de los derechos y obligaciones político-electorales de los ciudadanos.
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+IV. Los Mecanismos de Participación Ciudadana, establecidos en la Ley de la materia.
 
 Además de lo anterior, establece y armoniza las disposiciones aplicables en materia de instituciones y procedimientos electorales entre el Estado y la Federación, así como la relación entre el Instituto Nacional Electoral y el Instituto Electoral de Michoacán.
 
@@ -97,29 +101,55 @@ XI. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estad
 
 XII. Tribunal: Tribunal Electoral del Estado de Michoacán;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XIII. UMA: Unidad de Medida y Actualización; y,
+XIII. UMA: Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ENERO DE 2020)</small>
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XIV. Violencia Política Por Razones de Género: todo acto u omisión en contra de las mujeres por medio del cual se cause daño moral, físico o psicológico a través de la presión, persecución, hostigamiento, acoso, coacción, amenaza y/o privación de la vida por cuestión de género, cometidos por una persona o grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirla u obligarla a tomar decisiones de tipo político-electoral en contra de su voluntad.
+XIV. Urna electrónica: medio electrónico o cualquier otra tecnología de recepción del sufragio, en el cual el emitente del voto deposita o expresa su voluntad; y,
+
+XV. Violencia Política Por Razones de Género: todo acto u omisión en contra de las mujeres por medio del cual se cause daño moral, físico o psicológico a través de la presión, persecución, hostigamiento, acoso, coacción, amenaza y/ o privación de la vida por cuestión de género, cometidos por una persona o grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirla u obligarla a tomar decisiones de tipo político-electoral en contra de su voluntad.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 3 BIS. Se consideran como conductas constitutivas de violencia política por razones de género, las siguientes:
+
+I. Imponer la realización de actividades distintas a las atribuciones inherentes al cargo o función;
+
+II. Restringir o limitar injustificadamente la realización de acciones o actividades inherentes a su cargo o función;
+
+III. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+IV. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+V. Difundir cualquier tipo de información y/o material con la finalidad de coartar, inhibir, impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+
+VI. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida;
+
+VII. Impedir o restringir su reincorporación al cargo o función en los casos de licencia o permiso conforme a las disposiciones aplicables;
+
+VIII. Impedir u obstaculizar los derechos de asociación y afiliación a un partido; y,
+
+IX. Dañar en cualquier forma el desarrollo de la campaña electoral en la que participe una mujer, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad.
 
 ### CAPÍTULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 4.
 
-Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar órganos del Estado de elección popular. También es derecho de los Ciudadanos y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular; así como brindar a las mujeres las condiciones propicias para ejercer libremente sus derechos político-electorales y sin ser víctimas de violencia política por razones de género.
+Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar órganos del Estado de elección popular. También es derecho de los Ciudadanos y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular; así como brindar a las mujeres y grupos vulnerables las condiciones propicias para ejercer libremente sus derechos político-electorales; además de prevenir, atender, sancionar y en su caso erradicar la violencia política por razones de género.
 
 El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
 
 Es derecho de los ciudadanos ser votado para todos los puestos de elección popular, teniendo las calidades que establece la ley y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine este Código.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 5.
 
-Es derecho y obligación de los ciudadanos, votar en las consultas populares sobre temas de trascendencia, en los términos que determine la ley de la materia y en los demás procesos de participación ciudadana que estén previstos en la legislación correspondiente.
+Es derecho y obligación de los ciudadanos, votar en las consultas populares sobre temas de trascendencia, en los términos que determine la ley de la materia y en los demás procesos de participación ciudadana que estén previstos en la legislación correspondiente, conforme a los requisitos y procedimientos que se establecen en la Ley local respectiva y el Reglamento de la materia.
 
 ###### ARTÍCULO 6.
 
@@ -141,13 +171,13 @@ VI. Por condena en sentencia judicial que así lo disponga que haya causado ejec
 
 Para ser electo se requiere no estar en ninguno de los supuestos anteriores.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 7.
 
-Es derecho exclusivo de los ciudadanos participar como observadores de los actos de preparación y desarrollo del proceso electoral, de todos los actos de la jornada electoral, que se realicen de conformidad con la legislación correspondiente, en la forma, términos y bases que determine la Ley General y demás normatividad aplicable.
+Es derecho exclusivo de los ciudadanos participar como observadores electorales de los actos de preparación y desarrollo del proceso electoral, de todos los actos de la jornada electoral, que se realicen de conformidad con la legislación correspondiente, en la forma, términos y bases que determine la Ley General y demás normatividad aplicable.
 
-La observación electoral podrá realizarse en cualquier ámbito territorial de la entidad, pudiendo realizarse respecto de toda y cada una de las actividades del proceso electoral, presentándose con los gafetes y acreditaciones que certifiquen la personalidad de observadores electorales, que haya expedido el órgano electoral correspondiente.
+La observación electoral podrá realizarse siempre y cuando se cumplan los requisitos correspondientes, pudiendo aplicarse en cualquier ámbito territorial de la entidad, respecto de todas y cada una de las actividades del proceso electoral, identificándose necesariamente con los gafetes y acreditaciones que certifiquen la personalidad de observadores electorales, que haya expedido el órgano electoral correspondiente.
 
 ###### ARTÍCULO 8.
 
@@ -159,11 +189,17 @@ II. Votar en la casilla de la sección electoral que corresponda a su domicilio,
 
 III. Integrar las mesas directivas de casilla desempeñando las funciones correspondientes en forma gratuita, en los términos de la Ley General y este Código;
 
-IV. Participar en los mecanismos establecidos en la Constitución Local;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+IV. Participar en los mecanismos de participación ciudadana establecidos en la Constitución Local, en la Ley de Mecanismos de Participación Ciudadana del Estado de Michoacán de Ocampo y en el presente Código;
 
 V. Ocupar los cargos de elección popular; y,
 
 VI. Las demás que señale este Código y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+En el ejercicio de los derechos y el cumplimiento de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de la no violencia.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -237,9 +273,11 @@ El Congreso convocará a elecciones extraordinarias de gobernador y diputados po
 
 Para las elecciones extraordinarias de Gobernador, de diputados o de ayuntamientos se estará a lo que dispone la Constitución Local, este Código y demás leyes aplicables, debiéndose celebrar a más tardar ciento cincuenta días después de expedida la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Las vacantes de diputaciones y de regidurías de representación proporcional, serán cubiertas por acuerdo del Congreso con quienes integren la lista plurinominal o planilla que hubiese presentado el mismo partido respetando el orden de prelación de la lista, para lo cual contará con un término hasta de treinta días naturales.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Las vacantes de diputaciones POR AMBOS PRINCIPIOS y regidurías de representación proporcional, serán cubiertas por acuerdo del Congreso de la lista plurinominal o planilla que hubiese presentado el mismo partido respetando el orden de prelación de la lista, para lo cual contará con un término hasta de treinta días naturales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -267,13 +305,11 @@ Para la elección de diputados se dividirá el territorio del Estado en veinticu
 
 Los diputados podrán ser electos de manera consecutiva para el mismo cargo hasta por cuatro periodos, en los términos que establecen la Constitución General y la Constitución Local.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-Para participar en una elección consecutiva, los diputados que representen a un partido político deberán haber sido electos en los procesos internos correspondientes. En el caso de los de origen independiente solo se ajustarán a lo establecido en el siguiente párrafo.
+Para participar en una elección consecutiva, los diputados que representen a un partido político deberán haber sido electos en los procesos internos correspondientes. En el caso de los de origen independiente no le serán exigibles las firmas de respaldo ciudadano para obtener su registro como candidato, salvo que no hubieren sido electos inicialmente por una candidatura independiente, y por ende, no hubiesen obtenido el respaldo ciudadano correspondiente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
-
-Los diputados que aspiren a participar en una elección consecutiva, están obligados a separarse de su encargo noventa días naturales previos al día de la elección, y no le serán exigibles las firmas de respaldo ciudadano para obtener su registro como candidato.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
 (REUBICADO, P.O. 1 DE JUNIO DE 2017)
 
@@ -307,13 +343,11 @@ Los integrantes de los ayuntamientos podrán participar en la elección consecut
 
 Para efectos de la elección consecutiva a los suplentes de síndicos y regidores que entren en funciones se les contabilizará el período respectivo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-Para acceder a una elección consecutiva, los presidentes municipales, síndicos o regidores que representen a un partido político, deberán haber sido electos en los procesos internos correspondientes. En el caso de los de origen independiente solo se ajustarán a lo establecido en el siguiente párrafo.
+Para acceder a una elección consecutiva, los presidentes municipales, síndicos o regidores que representen a un partido político, deberán haber sido electos en los procesos internos correspondientes. En el caso de los de origen independiente no le serán exigibles las firmas de respaldo ciudadano para obtener su registro como candidato, salvo que no hubieren sido electos inicialmente por candidatura independiente, y por ende, no hubiesen obtenido el respaldo ciudadano correspondiente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
-
-Los presidentes municipales, síndicos o regidores que aspiren a participar a una elección consecutiva, están obligados a separarse de su encargo noventa días naturales previos al día de la elección y no le serán exigibles las firmas de respaldo ciudadano para obtener su registro como candidato.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
 # LIBRO SEGUNDO. ÓRGANOS ELECTORALES
 
@@ -483,9 +517,9 @@ XIV. Determinar la conclusión en las funciones de los órganos desconcentrados 
 
 XV. Coadyuvar en la Insaculación de los ciudadanos a integrar las mesas directivas de casilla, cuando corresponda; así también solicitar al Instituto Nacional la aprobación del número, ubicación e integración de mesas directivas de casillas especiales para la elección local de los ciudadanos que se encuentren en tránsito en la entidad, en los distritos electorales en los que se divide el territorio del Estado para las elecciones de Gobernador y Diputados, cuando así lo establezca el Instituto Nacional;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XVI. Aprobar lo relativo a las boletas y documentación electoral que se utilicen en el proceso, en los términos de la normativa aplicable;
+XVI. Aprobar los diseños y modelos de la documentación y los materiales electorales que se utilicen en el proceso, en los términos de la normativa aplicable;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -543,25 +577,41 @@ XXXVII. Antes del inicio del proceso electoral el Consejo General a propuesta de
 
 XXXVIII. Llevar a cabo la implementación, operación, incorporación y evaluación en materia de Servicio Profesional Electoral, de acuerdo a las facultades conferidas por la Ley General y demás normatividad aplicable;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XXXIX. Emitir el acuerdo correspondiente relativo a la pérdida de la acreditación ante el Instituto, de los partidos políticos nacionales en aquellos casos en los que no se obtenga el porcentaje necesario establecido en la Ley General de Partidos Políticos o en los demás supuestos que establezcan las leyes relativo a la pérdida de la acreditación;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XXXIX BIS. Proponer al Instituto Nacional Electoral la utilización del modelo o sistema electrónico para la recepción del voto, cuando sea factible su utilización;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XXXIX TER. Promover el uso e implementación de instrumentos electrónicos o tecnológicos en el desarrollo de los mecanismos de participación ciudadana que le competan, con base en las medidas de certeza y seguridad que estime pertinentes.
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XL. Ajustar los plazos previstos en el calendario electoral del proceso electoral local a los plazos previstos en el proceso electoral federal para el mejor desarrollo del proceso electoral concurrente;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XLI. En el ámbito de su competencia, prevenir, atender y erradicar la violencia política por razones de género, garantizando el respeto al ejercicio de los derechos político-electorales de las mujeres y la igualdad sustantiva, mediante mecanismos y lineamientos que el propio Instituto diseñe para tal efecto.
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XLII. El Instituto proporcionará apoyo a los ayuntamientos que lo solicitaren, consistente en el préstamo del material electoral y en la impartición de cursos de capacitación para los funcionarios encargados de realizar la elección de las autoridades auxiliares;
+
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XXXIX. Emitir el acuerdo correspondiente relativo a la perdida de la acreditación ante el Instituto de los partidos políticos nacionales en aquellos casos en lo (sic) que se obtenga el porcentaje establecido en la Ley General de Partidos Políticos o en los demás supuestos que establezcan las leyes relativo a la pérdida de la acreditación;
-
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
-
-XL. Ajustar los plazos previstos en el calendario electoral del proceso electoral local a los plazos previstos en el proceso electoral federal para el mejor desarrollo del proceso electoral concurrente; y,
-
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
-
-XLI. Todas las demás que le confiere este Código y otras disposiciones legales.
+XLIII. Todas las demás que le confiere este Código y otras disposiciones legales.
 
 ###### ARTÍCULO 35.
 
 El Consejo General integrará las comisiones temporales que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por un consejero electoral.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-Independientemente de lo señalado en el párrafo anterior, las comisiones de: Organización Electoral; Administración, Prerrogativas y Partidos Políticos; Capacitación Electoral y Educación Cívica, Vinculación y Servicio Profesional Electoral; funcionarán permanentemente y se integrarán exclusivamente por consejeros electorales designados por el Consejo General. La presidencia de las comisiones será rotativa en forma anual entre sus integrantes.
+Independientemente de lo señalado en el párrafo anterior, las comisiones de: Organización Electoral; Administración, Prerrogativas y Partidos Políticos; Educación Cívica y Participación Ciudadana, Vinculación y Servicio Profesional Electoral, así como para la Atención a Pueblos Indígenas; funcionarán permanentemente y se integrarán exclusivamente por consejeros electorales designados por el Consejo General. La presidencia de las comisiones será rotativa en forma anual entre sus integrantes.
 
 Además de las anteriores se creará la Comisión Electoral para la Atención a Pueblos Indígenas que se integrará por consejeros, en la que participarán con derecho a voz representantes de los pueblos o comunidades indígenas de la demarcación que elijan autoridades tradicionales bajo el régimen de usos y costumbres.
 
@@ -697,9 +747,9 @@ IX. Emitir los informes que le sean requeridos por el Consejo General, las Comis
 
 X. Integrar los expedientes con las actas de cómputo distrital de las elecciones de Gobernador y diputados por el principio de representación proporcional y presentarlos oportunamente al Consejo General;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XI. Dar fe de actos y hechos que le consten de manera directa y expedir las certificaciones que se requieran, sobre documentos que tenga a la vista en original, relacionados con los asuntos de la competencia del Instituto, así como delegar dicha atribución en servidores públicos a su cargo;
+XI. Ejercer la función de la oficialía electoral dando fe de aquellos actos o hechos exclusivamente de naturaleza electoral que le consten de manera directa y expedir las certificaciones que se requieran, sobre documentos originales que tenga a la vista, relacionados con los asuntos de la competencia del Instituto, así como delegar dicha atribución en servidores públicos a su cargo;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -725,9 +775,9 @@ XVI. Firmar con el Presidente del Consejo todas las actas, acuerdos y resolucion
 
 XVII. Proveer lo necesario para que, cuando proceda, se publiquen en el Periódico Oficial, los acuerdos, resoluciones y demás que determine el Consejo General;
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XVIII. Dictar las medidas cautelares dentro de los procedimientos administrativos y especiales sancionadores;
+XVIII. Dictar las medidas cautelares dentro de los procedimientos ordinarios administrativos y especiales sancionadores;
 
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -737,9 +787,25 @@ XIX. Coordinar a las Direcciones Ejecutivas del Instituto;
 
 XX. Emitir los Nombramientos de Titularidad de incorporación al Servicio Profesional Electoral Nacional; y,
 
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XXI. Conocer y resolver lo conducente respecto de las vistas que el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales dé al Instituto, respecto de los incumplimientos por parte de los partidos políticos en materia de transparencia, acceso a la información y protección de datos personales;
+
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XXI. Las demás que le encomiende el Consejo General y la normativa aplicable.
+XXII. Las demás que le encomiende el Consejo General y la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 37 BIS. En el ejercicio de la función de oficialía electoral, el Secretario Ejecutivo y durante los procesos electorales, los secretarios de los Órganos Desconcentrados, así como los demás funcionarios en quien se delegue esta función tendrán las siguientes atribuciones, las que deberán realizar de manera oportuna:
+
+a) Durante la sustanciación de los procedimientos administrativos sancionadores, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales;
+
+b) A petición de los partidos políticos, sus candidatos, los candidatos independientes y/o sus representantes legales, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales;
+
+c) Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos locales o federales; y,
+
+d) Las demás que establezca el Código y demás disposiciones aplicables.
 
 #### SECCIÓN TERCERA. DE LA JUNTA ESTATAL EJECUTIVA
 
@@ -1003,13 +1069,17 @@ XIII. Promover la suscripción de convenios de cooperación para elaborar los pl
 
 XIV. Asesorar y capacitar a los órganos de representación ciudadana en la elaboración y ejecución de los mecanismos de participación ciudadana en los que el Instituto, tenga atribuciones para el desarrollo de los mismos;
 
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XV. De manera conjunta con otras áreas del Instituto, operar programas de capacitación y concientización dirigidos a mujeres, hombres, jóvenes, sociedad civil, agrupaciones, partidos políticos y entes de gobierno, así como con quienes integren grupos vulnerables y minoritarios, con la finalidad de prevenir y erradicar la violencia política en razón de género, así como, fomentar el respeto al ejercicio de sus derechos político-electorales;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XVI. Rendir los informes que le sean solicitados por el Consejo General, los Consejeros la Junta o el Presidente; y,
+
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XV. Rendir los informes que le sean solicitados por el Consejo General, los Consejeros, la Junta o el Presidente; y,
-
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
-
-XVI. Las demás que le encomiende el Consejo General y la normativa aplicable.
+XVII. Las demás que le encomiende el Consejo General y la normativa aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -1297,6 +1367,10 @@ Si no existe queja fundada de los representantes de los partidos políticos, los
 
 En los municipios cabeceras de distrito los Comités Distritales cumplirán las funciones correspondientes al Comité Municipal. En los casos de los municipios que comprenden más de un distrito, el Consejo General determinará a qué comité distrital corresponderá cumplir esta función.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Para la integración de los comités y consejos distritales y municipales, esta se realizará mediante convocatoria pública abierta de conformidad con los Lineamientos que emita el Consejo General para tal efecto.
+
 #### SECCIÓN PRIMERA. DE LOS CONSEJOS ELECTORALES DE COMITÉS DISTRITALES
 
 ###### ARTÍCULO 52.
@@ -1307,15 +1381,19 @@ I. Vigilar se cumpla con lo dispuesto en este Código;
 
 II. Cumplir con los acuerdos que dicte el Consejo General;
 
-III. Intervenir en la preparación, desarrollo y vigilancia del proceso electoral en sus distritos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+III. Intervenir en la preparación, desarrollo y vigilancia del proceso electoral en sus distritos, así como en su caso, en los mecanismos de participación ciudadana correspondientes, conforme a la normativa aplicable;
 
 IV. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 V. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
-VI. Recibir las listas nominales de electores, boletas y formatos para los comicios de diputados y Gobernador, en su caso;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-VII. Participar, en lo que corresponda, respecto de la entrega de las listas nominales de electores, boletas, formatos y útiles a los consejos municipales;
+VI. Recibir, en su caso, las boletas y demás documentación y materiales electorales para las elecciones de Gobernador, diputados y ayuntamientos, y en el caso de elecciones extraordinarias los cuadernillos de las listas nominales;
+
+VII. (DEROGADA, P.O. 29 DE MAYO DE 2020)
 
 VIII. Realizar el cómputo distrital y declarar la validez de la elección para diputados de mayoría así como expedir la constancia de mayoría y validez a la fórmula triunfadora;
 
@@ -1341,7 +1419,9 @@ I. Vigilar que se cumpla con lo dispuesto en este Código;
 
 II. Cumplir con los acuerdos que dicte el Consejo General;
 
-III. Intervenir en la preparación, desarrollo y vigilancia del proceso electoral en su Municipio;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+III. Intervenir en la preparación, desarrollo y vigilancia del proceso electoral en su Municipio, así como, en su caso, en los mecanismos de participación ciudadana correspondientes;
 
 IV. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
@@ -1357,7 +1437,9 @@ IX. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 X. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
-XI. Recibir, en su caso, del Consejo General y electoral de comité distrital las listas nominales de electores, boletas y formatos para los comicios de Gobernador, diputados y ayuntamientos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XI. Recibir las boletas, demás documentación y materiales electorales para las elecciones de la Gubernatura, diputaciones y ayuntamientos, y en el caso de elecciones extraordinarias los cuadernillos de las listas nominales;
 
 XII. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
@@ -1369,7 +1451,9 @@ XV. Expedir la constancia de asignación a los regidores por el principio de rep
 
 XVI. Enviar al Consejo General el expediente del cómputo municipal;
 
-XVII. Solicitar por conducto de su Presidente, el apoyo de la fuerza pública para asegurar el desarrollo del proceso electoral;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XVII. Solicitar por conducto de la Presidencia del consejo electoral municipal, el apoyo de la fuerza pública para asegurar el desarrollo del proceso electoral;
 
 XVIII. Las demás que le confiera este Código, el Consejo General y otras disposiciones legales.
 
@@ -1380,6 +1464,24 @@ XVIII. Las demás que le confiera este Código, el Consejo General y otras dispo
 ###### ARTÍCULO 54.
 
 (DEROGADO, P.O. 1 DE JUNIO DE 2017)
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 54 BIS. El Instituto, cuando corresponda, para apoyarse en la organización de las elecciones, contratará mediante convocatoria pública, a través de los consejos electorales a los capacitadores asistentes electorales locales que sean necesarios para el desarrollo de su función, de acuerdo con los criterios que apruebe el Consejo General.
+
+Los capacitadores-asistentes electorales locales colaborarán con los órganos desconcentrados del Instituto en el cumplimiento de las funciones relativas a:
+
+I. Conteo, sellado y agrupamiento de boletas electorales para las elecciones locales;
+
+II. Asistir a los capacitadores asistentes electorales contratados por el INE en la distribución de los paquetes electorales a los presidentes de las mesas directivas de casilla;
+
+III. Atender los mecanismos de recolección de los paquetes electorales de las elecciones locales;
+
+IV. Apoyar a los consejos del Instituto en el desarrollo de los cómputos distritales y/o municipales incluyendo los recuentos que se presenten;
+
+V. Coadyuvar en las actividades de Educación Cívica, Participación Ciudadana y Promoción al voto que desarrollen los Vocales de Capacitación Electoral y Educación Cívica de órganos desconcentrados; y,
+
+VI. Las demás que se deriven del Reglamento de Elecciones del INE y de la Estrategia de Capacitación y Asistencia Electoral.
 
 #### SECCIÓN CUARTA. DISPOSICIONES COMUNES A LOS ÓRGANOS DESCONCENTRADOS
 
@@ -1397,9 +1499,11 @@ IV. Un representante por partido político y candidato independiente, en su caso
 
 El Presidente y Secretario del Consejo Electoral, lo será también del Comité que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 56.
 
-El Presidente, el Secretario y el vocal de los comités tendrán en el ámbito de su competencia y en lo conducente, las mismas atribuciones que señala este Código a los órganos ejecutivos del Instituto. Por cada consejero electoral se designará un suplente.
+El Presidente, el Secretario y los vocales de los comités tendrán en el ámbito de su competencia y en lo conducente, las mismas atribuciones que señala este Código a los órganos ejecutivos del Instituto, así como las que específicamente señala el Reglamento Interior del Instituto Electoral de Michoacán. Por cada consejero electoral se designará un suplente.
 
 Por cada representante de partido político y candidato independiente se acreditará un suplente.
 
@@ -1421,17 +1525,19 @@ IV. Haber residido en el distrito durante los últimos tres años;
 
 V. No desempeñar, ni haber desempeñado en los tres años inmediatos anteriores a la designación, cargo de elección popular, ni cargo directivo nacional, estatal o municipal en algún partido político;
 
-VI. No desempeñar cargo de jerarquía superior en la Federación, el Estado o los municipios, salvo los que sean de carácter académico;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+VI. No desempeñar cargo de dirección en la Federación, el Estado o los municipios, salvo los que sean de carácter académico.
 
 VII. Gozar de buena reputación; y,
 
 VIII. No haber sido condenado por delito doloso que merezca pena corporal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 58.
 
-A más tardar ciento setenta días antes de la jornada electoral, los consejos electorales deberán ser instalados e iniciar sus sesiones y actividades. A partir de esa fecha y hasta el término del proceso, sesionarán por lo menos una vez al mes.
+A más tardar ciento setenta días antes de la jornada electoral, los consejos electorales deberán ser instalados e iniciar sus sesiones y actividades. El Consejo General podrá, por causa plenamente justificada, modificar el plazo de instalación, debiendo fijarlo en el respectivo calendario electoral. A partir de su instalación y hasta el término del proceso, sesionarán por lo menos una vez al mes.
 
 Para que los consejos electorales puedan sesionar será necesaria la presencia del Presidente y de la mayoría de los integrantes con derecho a voto, de no tenerse esa mayoría en primera convocatoria, se citará de inmediato a una sesión a realizarse dentro de las veinticuatro horas siguientes, llamándose a los consejeros suplentes de quienes no hayan asistido, la cual se podrá celebrar con la asistencia del Presidente y de los consejeros que concurran. Este acto se consignará en el acta respectiva.
 
@@ -1635,11 +1741,61 @@ IX. Llevar el registro de los criterios jurisprudenciales;
 
 X. Las demás que señale la ley o le indique el Pleno.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 ARTÍCULO 69 a). El Tribunal contará con un Órgano Interno de Control quien tendrá a su cargo la fiscalización de los ingresos y egresos, así como la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo por responsabilidades de los servidores públicos del Tribunal; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; así mismo contará con fe pública en sus actuaciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
 
-El titular del Órgano Interno de Control será nombrado por el Pleno, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Tribunal.
+El titular del Órgano Interno de Control será nombrado y removido por el Pleno, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Tribunal, y para el Desarrollo de sus funciones contará con las siguientes atribuciones:
+
+I. Elaborar y remitir a los magistrados el Programa Interno de Auditoría, a más tardar en la primera quincena de septiembre del año anterior al que se vaya a aplicar;
+
+II. Dar seguimiento a la atención, trámite y solventación de las observaciones, recomendaciones y demás promociones de acciones que deriven de las auditorías internas y de las que formule la Auditoría Superior de Michoacán, debiendo informar al Pleno;
+
+III. Prevenir, corregir, e investigar actos u omisiones que pudieran constituir responsabilidades administrativas de los servidores públicos del Tribunal, de lo cual deberá informar a los magistrados;
+
+IV. Proponer al Pleno, promueva ante las instancias competentes, las acciones administrativas y legales que deriven de las irregularidades detectadas en las auditorias;
+
+V. Proponer al Pleno los anteproyectos de procedimientos, manuales e instructivos que sean necesarios para el desempeño de sus funciones, así como la estructura administrativa de su área;
+
+VI. Informar de sus actividades institucionales al Pleno de manera bimestral y presentar el resultado de las auditorías practicadas conforme al Programa Interno de Auditoría, en los términos aprobados por el Pleno;
+
+VII. Participar en los actos de entrega-recepción de los servidores públicos del Tribunal, mandos medios, superiores y homólogos, con motivo de su separación del cargo, empleo o comisión y en aquellos derivados de las readscripciones, en términos de la normatividad aplicable;
+
+VIII. Instrumentar los procedimientos relacionados con las responsabilidades administrativas en que incurran los servidores del Tribunal, con excepción de los magistrados que estarán sujetos al régimen de responsabilidades de los servidores públicos establecidos en la Constitución Local y la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo. La información relativa a las sanciones no se hará pública hasta en tanto no haya causado estado;
+
+IX. Recibir, sustanciar y resolver los recursos de revocación que presenten los servidores públicos del Tribunal, en términos de la Ley de Responsabilidades Administrativas para el Estado de Michoacán;
+
+X. Llevar el registro de los servidores públicos que hayan sido sancionados, civil, penal, laboral y administrativamente, por resolución ejecutoriada;
+
+XI. Elaborar el instructivo para el adecuado manejo de fondos revolventes;
+
+XII. Recibir, llevar el registro y resguardar la declaración patrimonial inicial, de modificación o de conclusión de los servidores públicos del Tribunal que estén obligados a presentarla;
+
+XIII. Participar en las sesiones del Comité de adquisiciones, arrendamientos, prestación de servicios y obra pública del Tribunal y opinar respecto de los procedimientos;
+
+XIV. Recibir, sustanciar y resolver las inconformidades que presenten los proveedores respecto a actos o fallos en los procedimientos de adquisiciones y contratación de arrendamientos, servicios y obra pública;
+
+XV. Analizar y evaluar los sistemas de procedimientos y control interno del Tribunal, cuadyuvando (sic) en todo momento con el área Administrativa, para la construcción de mecanismos que permitan la aplicación de los recursos de forma eficaz, honesta y transparente, realizando sugerencias de carácter preventivo, informando al Pleno de este órgano jurisdiccional, de todas aquellas actividades que a manera de recomendaciones, promuevan el buen desempeño de los servidores públicos del Tribunal Electoral del Estado de Michoacán;
+
+XVI. Recibir, dar curso e informar a los magistrados, el trámite recaído a las denuncias presentadas por la ciudadanía o por las contralorías ciudadanas en un plazo que no deberá exceder de diez días hábiles;
+
+XVII. Revisar y auditar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, que las operaciones, informes contables y estados financieros, estén basados en los registros contables que lleve el área correspondiente, así como, examinar la asignación y correcta utilización de los recursos financieros, humanos y materiales, poniendo especial atención a los contratos de obra pública, servicios, adquisiciones y la subrogación de funciones de los entes públicos en particulares, incluyendo sus términos contractuales y estableciendo un programa de auditorías especiales en los procesos electorales;
+
+XVIII. Vigilar el cumplimiento de las normas y procedimientos establecidos por el Pleno y proponer a éste las medidas de prevención que considere;
+
+XIX. Revisar el cumplimiento de objetivos y metas fijados en los Programas Institucionales del Tribunal, y proponer al Pleno las medidas de prevención que considere pertinentes;
+
+XX. Realizar auditorías contables, operacionales y de resultados del Tribunal, formulando las observaciones y recomendaciones de carácter preventivo a las áreas del Tribunal Electoral del Estado de Michoacán, y en su caso iniciar los procedimientos de responsabilidad administrativa a que haya lugar;
+
+XXI. Vigilar que el Tribunal cumpla con los procedimientos previamente regulados para garantizar el derecho de acceso a la información, para lo cual deberá hacer las evaluaciones y auditorías correspondientes para verificar los procedimientos;
+
+XXII. Realizar auditorías en materia de datos personales para verificar los sistemas y medidas de seguridad para la protección de datos personales recabados por el Tribunal en el cumplimiento de sus atribuciones;
+
+XXIII. Requerir fundada y motivadamente a los órganos y servidores públicos del Tribunal la información necesaria para el desempeño de sus atribuciones;
+
+XXIV. Coordinar con los servidores públicos encargados del control y evaluación, auditoría y de sustanciación de responsabilidades, la evaluación de control, fiscalización de recursos y la sustanciación de procedimientos administrativos, para fortalecer la gestión administrativa del uso y destino de los recursos públicos y la rendición de cuentas del Tribunal Electoral. El desempeño del órgano interno de control será evaluado periódicamente por el Pleno; y,
+
+XXV. Las demás que le confiera este Código, las leyes aplicables y el Reglamento Interior del Tribunal.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -1845,9 +2001,9 @@ II. Organizaciones con objeto social diferente a la creación de partidos; y,
 
 III. Cualquier forma de afiliación corporativa.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-Los partidos políticos promoverán los valores cívicos y la cultura democrática en personas menores de edad y buscarán la participación efectiva de ambos géneros en condiciones de igualdad, seguridad y evitando que existan actos u omisiones que constituyan violencia política por razones de género, en la integración de sus órganos, así como en la postulación de candidatos.
+Los partidos políticos promoverán los valores cívicos y la cultura democrática en personas menores de edad y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos; cuyos dirigentes son responsables de garantizar que en sus institutos se respeten los derechos político-electorales de las mujeres participantes y ésta se genere en un ambiente libre de discriminación y violencia política.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -2041,9 +2197,9 @@ l) Actuar y conducirse sin ligas de dependencia o subordinación con partidos po
 
 m) Aplicar el financiamiento de que dispongan exclusivamente para los fines que les hayan sido entregados;
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-n) Abstenerse, en su propaganda política o electoral, de cualquier expresión que calumnie a las instituciones, a los partidos políticos y a las personas;
+n) Abstenerse, en su propaganda política o electoral, de cualquier expresión que calumnie a las instituciones, a los partidos políticos, a las personas o que constituya violencia política en razón de género;
 
 o) Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
@@ -2066,6 +2222,10 @@ t) Cumplir con las obligaciones que la legislación en materia de transparencia 
 u) En el caso de los partidos políticos locales, editar, por lo menos semestralmente una publicación de divulgación ideológica. Para los partidos políticos nacionales, bastará su edición nacional;
 
 v) Sostener por lo menos un centro de formación política; y,
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+v) bis. Establecer mecanismos para prevenir, atender, sancionar y, en su caso, erradicar la violencia política en razón de género; y,
 
 w) Las demás que establezcan las leyes aplicables.
 
@@ -2237,9 +2397,13 @@ V. Para la capacitación, promoción y el desarrollo del liderazgo político de 
 
 b) Para la obtención del voto:
 
-I. En el año de la elección, a cada partido político se le otorgará adicionalmente, para gastos de campaña, un monto equivalente al financiamiento que por actividades ordinarias le corresponda;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-II. El financiamiento de actividades para la obtención del voto se entregará en seis ministraciones mensuales a partir de que el Consejo General declare iniciado el proceso electoral;
+I. En el año de la elección que se renueve la gubernatura local, el Congreso del Estado y ayuntamientos, a cada partido político, en su caso, se le otorgará para gastos de campaña un monto equivalente al 50% del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponden ese año; y en el año en que solamente se renueve el Congreso del Estado y ayuntamientos, para gastos de campaña, se otorgará un monto equivalente al 30% del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponden ese año;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+II. El financiamiento de actividades para la obtención del voto se entregará hasta en cinco ministraciones mensuales previas a la jornada electoral;
 
 III. El financiamiento de campaña será administrado en su totalidad por los partidos políticos; estableciendo el prorrateo; teniendo que informarlas a la Unidad de Fiscalización diez días antes del inicio de la campaña electoral, la cual lo hará del conocimiento del Consejo General, en la siguiente sesión, sin que dichos porcentajes de prorrateo puedan ser modificados.
 
@@ -2393,73 +2557,23 @@ En su caso, el Instituto formulará recomendaciones preventivas a partidos polí
 
 ###### ARTÍCULO 122.
 
-En cuanto a su régimen financiero, los partidos políticos deberán:
-
-a) Llevar su contabilidad mediante libros, sistemas, registros contables, estados de cuenta, cuentas especiales, papeles de trabajo, discos o cualquier medio procesable de almacenamiento de datos que les permitan facilitar el registro y la fiscalización de sus activos, pasivos, ingresos y gastos y, en general, contribuir a medir la eficacia, economía y eficiencia del gasto e ingresos y la administración de la deuda;
-
-b) Generar estados financieros confiables, oportunos, comprensibles, periódicos, comparables y homogéneos, los cuales serán expresados en términos monetarios;
-
-c) Seguir las mejores prácticas contables en apoyo a las tareas de planeación financiera, control de recursos, análisis y fiscalización;
-
-d) Contar con manuales de contabilidad, así como con otros instrumentos contables que defina el Consejo General;
-
-e) Conservar la información contable por un término mínimo de cinco años; y,
-
-f) Entregar al Consejo General, la información siguiente:
-
-I. En un plazo de setenta y dos horas, contado a partir de que surta efectos la notificación del requerimiento, sus estados financieros con un corte de información al momento de la solicitud;
-
-II. Fuera de procesos electorales, el informe de los contratos será presentado de manera trimestral del periodo inmediato anterior; y,
-
-III. La información de carácter financiero, la relativa al gasto y condiciones de ejecución, de los contratos que celebren durante las precampañas y campañas, en un plazo máximo de tres días posteriores a su suscripción, previa entrega de los bienes o la prestación de servicios de que se trate, dicha información podrá ser notificada al Instituto por medios electrónicos con base en los lineamientos que éste emita.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 123.
 
-El Consejo General, comprobará el contenido de los avisos de contratación a que se refieren (sic) la fracción III del inciso f) del párrafo 1 del artículo anterior, de conformidad con los procedimientos que para tal efecto emita dicho Consejo General.
-
-Los partidos políticos deberán presentar al Consejo General, el aviso respectivo, acompañado de copia autógrafa del contrato respectivo que contenga:
-
-a) La firma del representante del partido político, la coalición o el candidato;
-
-b) El objeto del contrato;
-
-c) El valor o precio unitario y total de los bienes o servicios a proporcionar;
-
-d) Las condiciones a través de las cuales se llevará a cabo su ejecución; y,
-
-e) La penalización en caso de incumplimiento.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 124.
 
-Los gastos que realicen los partidos políticos, las coaliciones y los candidatos deberán reunir los siguientes requisitos:
-
-a) Estar amparados con un comprobante que cumpla los requisitos fiscales;
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
-
-b) Efectuar mediante transferencia electrónica, cheque nominativo para abono en cuenta del beneficiario, los pagos cuyo monto exceda de noventa veces el valor diario de la Unidad de Medida y Actualización.
-
-c) Estar debidamente registrados en la contabilidad;
-
-d) Cumplir con las obligaciones establecidas en materia de retenciones y entero de impuestos a cargo de terceros; y,
-
-e) Sujetar los gastos asociados a adquisiciones, a los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 125.
 
-Los partidos políticos pueden optar por realizar los pagos relativos a sus actividades ordinarias permanentes, a las precampañas y campañas, o bien únicamente los relativos a propaganda en vía pública durante el periodo de precampaña y campaña, por conducto de la Unidad de Fiscalización.
-
-Se entiende por propaganda en vía pública toda propaganda que se contrate o difunda en espectaculares, buzones, cajas de luz, carteleras, marquesinas, muebles urbanos de publicidad con o sin movimiento, muros, panorámicos, paradas de autobuses, puentes, vallas, vehículos o cualquier otro medio similar.
-
-En el supuesto que el partido opte porque el Instituto, a través de la Unidad de Fiscalización, pague la totalidad de las obligaciones contractuales contraídas por el partido en la etapa de campaña, la Unidad de Fiscalización, tendrá en todo momento a lo largo de la campaña el uso exclusivo de las chequeras.
-
-Para el caso de que el partido político opte por que el Instituto, a través de la Unidad de Fiscalización, pague únicamente la propaganda en vía pública se utilizará una cuenta para tal fin cuya chequera será exclusiva de la autoridad.
-
-El Consejo General expedirá los lineamientos para la realización de los pagos por conducto de la Unidad de Fiscalización, los cuales deberán garantizar, entre otros aspectos, la transparencia en el uso de los recursos; la realización de los pagos en forma oportuna; el cumplimiento de las disposiciones en materia fiscal, y la conciliación de saldos.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 126.
 
-El Instituto, emitirá los lineamientos para asegurar la máxima publicidad de los registros y movimientos contables, avisos previos de contratación y requerimientos de validación de contrataciones respecto de los partidos políticos, coaliciones y candidatos.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ## TÍTULO SEXTO. OTRAS PRERROGATIVAS
 
@@ -2467,29 +2581,15 @@ El Instituto, emitirá los lineamientos para asegurar la máxima publicidad de l
 
 ###### ARTÍCULO 127.
 
-Los partidos políticos, no son sujetos de los impuestos y derechos siguientes:
-
-a) Los relacionados con las rifas y sorteos que celebren previa autorización legal, y con las ferias, festivales y otros eventos que tengan por objeto allegarse de recursos para el cumplimiento de sus fines;
-
-b) Sobre la renta, en cuanto a sus utilidades gravables provenientes de la enajenación de los inmuebles que hubiesen adquirido para el ejercicio de sus funciones específicas, así como los ingresos provenientes de donaciones en numerario o en especie;
-
-c) Los relativos a la venta de los impresos que editen para la difusión de sus principios, programas, estatutos y, en general, para su propaganda, así como por el uso de equipos y medios audiovisuales en la misma; y,
-
-d) Respecto a los demás que establezcan las disposiciones legales aplicables.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 128.
 
-Los supuestos a que se refiere el artículo anterior no se aplicarán en los siguientes casos:
-
-a) En el de contribuciones, incluyendo tasas adicionales que establezca el Estado, sobre la propiedad inmobiliaria, de su fraccionamiento, adicionales que se establezcan sobre la propiedad, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles; y,
-
-b) De los impuestos y derechos que establezca el Estado o los municipios por la prestación de los servicios públicos.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 129.
 
-El régimen fiscal a que se refiere este Código no releva a los partidos políticos del cumplimiento de otras obligaciones fiscales.
-
-Los partidos políticos deberán retener y enterar a las autoridades fiscales, conforme a las leyes aplicables, el Impuesto Sobre la Renta que corresponda por los sueldos, salarios, honorarios y cualquier otra retribución equivalente que realicen a sus dirigentes, empleados, trabajadores o profesionistas independientes que les presten servicios. El órgano de Fiscalización que corresponda, dará aviso a las autoridades fiscales competentes de la omisión en el pago de impuestos y otras contribuciones en que incurran los partidos políticos.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ## TÍTULO SÉPTIMO. DE LA FISCALIZACIÓN DE PARTIDOS POLÍTICOS
 
@@ -2497,65 +2597,15 @@ Los partidos políticos deberán retener y enterar a las autoridades fiscales, c
 
 ###### ARTÍCULO 130.
 
-Los partidos políticos deberán reportar los ingresos y gastos del financiamiento para actividades ordinarias.
-
-Se entiende como rubros de gasto ordinario:
-
-a) El gasto programado que comprende los recursos utilizados por el partido político con el objetivo de conseguir la participación ciudadana en la vida democrática, la difusión de la cultura política y el liderazgo político de las mujeres;
-
-(NOTA: EL 25 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2014 Y SUS ACUMULADAS 55/2014, 61/2014 Y 71/2014, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO, INCISO B) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-B) LOS GASTOS DE ESTRUCTURA PARTIDISTA DE CAMPAÑA REALIZADOS DENTRO DE LOS PROCESOS ELECTORALES;
-
-c) El gasto de los procesos internos de selección de candidatos, el cual no podrá ser mayor al dos por ciento del gasto ordinario establecido para el año en el cual se desarrolle el proceso interno;
-
-d) Los sueldos y salarios del personal, arrendamiento de bienes muebles e inmuebles, papelería, energía eléctrica, combustible, viáticos y otros similares;
-
-e) La propaganda de carácter institucional que lleven a cabo únicamente podrá difundir el emblema del partido político, así como las diferentes campañas de consolidación democrática, sin que en las mismas se establezca algún tipo de frase o leyenda que sugiera posicionamiento político alguno; y,
-
-(NOTA: EL 25 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2014 Y SUS ACUMULADAS 55/2014, 61/2014 Y 71/2014, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO, INCISO F), INCLUIDO EL LISTADO QUE CONTIENE LOS GASTOS DE ESTRUCTURAS ELECTORALES DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-F) LOS GASTOS RELATIVOS A ESTRUCTURAS ELECTORALES QUE COMPRENDEN EL CONJUNTO DE EROGACIONES NECESARIAS PARA EL SOSTENIMIENTO Y FUNCIONAMIENTO DEL PERSONAL QUE PARTICIPA A NOMBRE O BENEFICIO DEL PARTIDO POLÍTICO EN EL ÁMBITO SECTORIAL, DISTRITAL, MUNICIPAL, ESTATAL O NACIONAL DE LOS PARTIDOS POLÍTICOS EN LAS CAMPAÑAS.
-
-LOS GASTOS DE ESTRUCTURAS ELECTORALES COMPRENDERÁN LOS REALIZADOS PARA EL PAGO DE VIÁTICOS Y ALIMENTOS DE:
-
-A) LOS INTEGRANTES DE LOS ÓRGANOS INTERNOS DE LOS PARTIDOS POLÍTICOS EN SUS ACTIVIDADES ESTATUTARIAS ORDINARIAS Y EXTRAORDINARIAS;
-
-B) LOS INTEGRANTES DE LOS COMITÉS O EQUIVALENTES, EN ACTIVIDADES ANTE LOS ÓRGANOS INTERNOS DE LOS PARTIDOS POLÍTICOS;
-
-C) LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS ANTE EL INSTITUTO;
-
-D) LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS EN LAS CASILLAS DE RECEPCIÓN DEL VOTO;
-
-E) LOS QUE DERIVEN DEL ACUERDO EMITIDO POR EL CONSEJO GENERAL, A PROPUESTA DE LA UNIDAD DE FISCALIZACIÓN, PREVIO A LA ENTREGA DE LOS INFORMES DE GASTOS ORDINARIOS DE CADA UNO DE LOS EJERCICIOS; Y,
-
-F) LA PROPAGANDA INSTITUCIONAL QUE DIFUNDA LOS LOGROS DE GOBIERNO DE CADA UNO DE LOS PARTIDOS POLÍTICOS O COALICIONES.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 131.
 
-Los partidos políticos podrán aplicar los recursos destinados para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, en los rubros siguientes:
-
-a) La realización de investigaciones que tengan como finalidad informar a la ciudadanía de la evolución, desarrollo, avances, y cualquier tema de interés relacionado con el liderazgo político de la mujer;
-
-b) La elaboración, publicación y distribución de libros, revistas, folletos o cualquier forma de difusión de temas de interés relacionados con la paridad de género;
-
-c) La organización de mesas de trabajo, conferencias, talleres, eventos y proyecciones que permitan difundir temas relacionados con el desarrollo de la mujer en su incorporación a la vida política;
-
-d) La realización de propaganda y publicidad relacionada con la ejecución y desarrollo de las acciones en la materia; y,
-
-e) Todo gasto necesario para la organización y difusión de las acciones referidas.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 132.
 
-Los partidos políticos podrán reportar en sus informes actividades específicas que desarrollan como entidades de interés público, entendiéndose como tales las siguientes:
-
-a) La educación y capacitación política, que implica la realización de todo tipo de evento o acción que promueva la participación política, los valores cívicos y el respeto a los derechos humanos, entre la ciudadanía;
-
-b) La realización de investigaciones socioeconómicas y políticas;
-
-c) La elaboración, publicación y distribución, a través de cualquier medio de difusión, de información de interés del partido, de los militantes y simpatizantes; y,
-
-d) Todo gasto necesario para la organización y difusión de las acciones referidas.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ### CAPÍTULO SEGUNDO. FISCALIZACIÓN DE LOS PARTIDOS POLÍTICOS DURANTE LOS PROCESOS ELECTORALES
 
@@ -2593,161 +2643,35 @@ Todos los bienes o servicios que se destinen a la campaña deberán tener como p
 
 ###### ARTÍCULO 135.
 
-El órgano interno de los partidos políticos previsto en este Código, será el responsable de la administración de su patrimonio y de sus recursos generales, de precampaña y campaña, así como de la presentación de los informes a que se refiere el presente Capítulo. Dicho órgano se constituirá en los términos y con las modalidades y características que cada partido libremente determine.
-
-La revisión de los informes que los partidos políticos presenten sobre el origen y destino de sus recursos ordinarios y de campaña, según corresponda, así como la práctica de auditorías sobre el manejo de sus recursos y su situación contable y financiera estará a cargo del Consejo General, a través de la Unidad de Fiscalización la cual estará a cargo de la elaboración y presentación al Consejo General del dictamen consolidado y proyecto de resolución de los diversos informes que están obligados a presentar los partidos políticos.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 136.
 
-Los partidos políticos deberán de presentar sus informes trimestrales y de gastos ordinarios bajo las directrices siguientes:
-
-a) Informes trimestrales de avance del ejercicio:
-
-I. Serán presentados a más tardar dentro de los treinta días siguientes a la conclusión del trimestre que corresponda;
-
-II. En el informe será reportado el resultado de los ingresos y gastos ordinarios que los partidos hayan obtenido y realizado durante el periodo que corresponda;
-
-III. Durante el año del proceso electoral estatal se suspenderá la obligación establecida en este inciso; y,
-
-IV. Si de la revisión que realice la Unidad de Fiscalización, se encuentran anomalías, errores u omisiones, se notificará al partido político a fin de que las subsane o realice las aclaraciones conducentes. Los informes constituyen un precedente para la revisión anual que realizará la autoridad.
-
-b) Informes anuales de gasto ordinario:
-
-I. Serán presentados a más tardar dentro de los sesenta días siguientes al último día de diciembre del año del ejercicio que se reporte;
-
-II. En el informe de gastos ordinarios serán reportados los ingresos totales y gastos ordinarios que los partidos hayan realizado durante el ejercicio objeto del informe;
-
-III. Junto con el informe anual se presentará el estado consolidado de situación patrimonial en el que se manifiesten los activos, pasivos y patrimonio, así como un informe detallado de los bienes inmuebles propiedad del partido que corresponda; y,
-
-IV. Los informes a que se refiere este inciso deberán estar autorizados y firmados por el auditor externo que cada partido designe para tal efecto.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 137.
 
-Los partidos políticos deberán presentar informes de precampaña y de campaña, conforme a las reglas siguientes:
-
-a) Informes de precampaña:
-
-I. Deberán ser presentados por los partidos políticos para cada uno de los precandidatos a candidatos a cargo de elección popular, registrados para cada tipo de precampaña, especificando el origen y monto de los ingresos, así como los gastos realizados;
-
-II. Los candidatos y precandidatos son responsables solidarios del cumplimiento de los informes de campaña y precampaña. Para tales efectos, se analizará de manera separada las infracciones en que incurran;
-
-III. Los informes deberán presentarse a más tardar dentro de los diez días siguientes al de la conclusión de las precampañas;
-
-IV. Los gastos de organización de los procesos internos para la selección de precandidatos que realicen los partidos políticos serán reportados en el informe anual que corresponda;
-
-V. Toda propaganda que sea colocada en el periodo en que se lleven a cabo las precampañas y que permanezcan en la vía pública una vez concluido dicho proceso o, en su caso, una vez que el partido postule a sus candidatos, especialmente los que contengan la imagen, nombre, apellidos, apelativo o sobrenombre del precandidato triunfador de la contienda interna, serán considerados para efectos de los gastos de campaña de éste, los cuales deberán ser reportados en los informes correspondientes.
-
-b) Informes de Campaña:
-
-I. Deberán ser presentados por los partidos políticos, para cada una de las campañas en las elecciones respectivas, especificando los gastos que el partido político y el candidato hayan realizado en el ámbito territorial correspondiente;
-
-II. El candidato es responsable solidario del cumplimiento de los informes de gastos que se refieren en el inciso anterior; y,
-
-III. Los partidos políticos presentarán informes de ingresos y gastos por periodos de treinta días contados a partir de que dé inicio la etapa de campaña, los cuales deberán entregar a la Unidad de Fiscalización dentro de los siguientes tres días concluido cada periodo.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 138.
 
-El procedimiento para la presentación y revisión de los informes de los partidos políticos se sujetará a las siguientes reglas:
-
-a) Informes trimestrales de avance del ejercicio:
-
-I. Una vez entregados los informes trimestrales, si de la revisión que realice la Unidad de Fiscalización, se encuentran anomalías, errores u omisiones, se notificará al partido a fin de que las subsane o realice las aclaraciones conducentes;
-
-II. En todo caso los informes trimestrales tienen carácter exclusivamente informativo para la autoridad.
-
-b) Informes anuales:
-
-I. Una vez entregados los informes anuales, la Unidad de Fiscalización, tendrá un término de sesenta días para su revisión y estará facultado en todo momento para solicitar al órgano previsto en el artículo 104, inciso c) de este Código, la documentación necesaria para comprobar la veracidad de lo reportado en los informes;
-
-II. Si durante la revisión de los informes la Unidad de Fiscalización, advierte la existencia de errores u omisiones técnicas, prevendrá al partido político que haya incurrido en ellos para que en un plazo de diez días, contados a partir de dicha prevención, presente las aclaraciones o rectificaciones que considere pertinentes;
-
-III. La Unidad de Fiscalización está obligada a informar al partido político si las aclaraciones o rectificaciones realizadas por éste subsanan los errores u omisiones encontrados, otorgándole, en su caso, un plazo improrrogable de cinco días para que los subsane. La Unidad de Fiscalización informará igualmente del resultado antes del vencimiento del plazo para la elaboración del dictamen consolidado a que se refiere la fracción siguiente;
-
-IV. Una vez concluido el plazo referido en la fracción I de este inciso o, en su caso, el concedido para la rectificación de errores u omisiones, contará con un plazo de veinte días para emitir el dictamen consolidado, así como el proyecto de resolución respectivo, para someterlos a consideración del Consejo General;
-
-V. Una vez concluido el plazo a que se refiere la fracción anterior, la Unidad de Fiscalización presentará en un término de setenta y dos horas, el proyecto ante el Consejo General, el cual contará con diez días para su discusión y aprobación.
-
-c) Informes de Precampaña:
-
-I. Una vez entregados los informes de gastos de precampaña, la Unidad de Fiscalización tendrá un término de quince días para la revisión de dichos informes;
-
-II. La Unidad de Fiscalización, informará a los partidos políticos, en su caso, la existencia de errores u omisiones técnicas y los prevendrá para que en el término de siete días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que considere pertinentes;
-
-III. Una vez concluido el término referido en la fracción anterior, la Unidad de Fiscalización contará con un término de diez días para emitir el dictamen consolidado, así como el proyecto de resolución respectivo y para someterlo a consideración del Consejo General;
-
-IV. Una vez concluido el plazo anterior, la Unidad de Fiscalización presentará en un plazo de setenta y dos horas el proyecto ante el Consejo General, el cual contará con un plazo de seis días, para su discusión y aprobación.
-
-d) Informes de Campaña:
-
-I. La Unidad de Fiscalización revisará y auditará, simultáneamente al desarrollo de la campaña, el destino que le den los partidos políticos a los recursos de campaña;
-
-II. Una vez entregados los informes de campaña, la Unidad de Fiscalización, contará con diez días para revisar la documentación soporte y la contabilidad presentada;
-
-III. En el caso que la autoridad se percate de la existencia de errores u omisiones técnicas en la documentación soporte y contabilidad presentada, otorgará un plazo de cinco días contados a partir de la notificación que al respecto realice al partido, para que éste presente las aclaraciones o rectificaciones que considere pertinentes;
-
-IV. Una vez concluida la revisión del último informe, la Unidad de Fiscalización, contará con un término de diez días para realizar el dictamen consolidado y la propuesta de resolución, así como para someterlos a consideración del Consejo General; y,
-
-V. Una vez aprobado el dictamen consolidado así como el proyecto de resolución respectivo, la Unidad de Fiscalización, a través de su Presidente, someterá a consideración del Consejo General, los proyectos para que éstos sean votados en un término improrrogable de seis días.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 139.
 
-Todos los dictámenes y proyectos de resolución emitidos por la Unidad de Fiscalización deberán contener como mínimo:
-
-a) El resultado y las conclusiones de la revisión de los informes que hayan presentado los partidos políticos;
-
-b) En su caso, la mención de los errores o irregularidades encontrados en los mismos; y,
-
-c) El señalamiento de las aclaraciones o rectificaciones que presentaron los partidos políticos después de haberles notificado con ese fin.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 140.
 
-Los partidos políticos podrán impugnar ante el Tribunal el dictamen consolidado y resolución que emita el Consejo General, en la forma y términos previstos en la ley de la materia, en cuyo caso, el Consejo General deberá:
-
-I. Remitir al Tribunal, junto con el recurso, el dictamen consolidado de la Unidad de Fiscalización y el informe respectivo;
-
-II. Remitir al Periódico Oficial, para su publicación, una vez cumplido el plazo para la interposición del recurso, o presentado éste una vez que el Tribunal emita la resolución correspondiente, una sinopsis del dictamen, de la resolución aprobada por el Consejo General y, en su caso, la resolución recaída al recurso; y,
-
-III. Publicar en la página de Internet del Instituto, el dictamen completo, así como la resolución aprobada por el Consejo General y, en su caso, las resoluciones emitidas por el Tribunal.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 141.
 
-Los gastos genéricos de campaña serán prorrateados entre las campañas beneficiadas, de acuerdo con lo siguiente:
-
-a) Como gastos genéricos de campaña, se entenderá los realizados en actos de campaña y de propaganda, en la que el partido o la coalición promueva o invite a votar por un conjunto de candidatos a cargos de elección popular que postulen, siempre y cuando no se especifique el candidato o el tipo de campaña;
-
-b) Los gastos genéricos en los que no se identifique algún candidato o tipo de campaña, pero se difunda alguna política pública o propuesta del partido o coalición;
-
-c) En los casos en los que se publique o difunda el emblema o la mención de lemas con los que se identifique al partido, coalición o sus candidatos o los contenidos de sus plataformas electorales.
-
-En los casos en los que se promocione a dos o más candidatos a cargos de elección popular, los gastos de campaña se distribuirán de la siguiente forma:
-
-a) En los casos en los que intervenga el candidato a Presidente de la República y una campaña local, se distribuirán en un cuarenta por ciento al candidato a Presidente de la República y en un sesenta por ciento a la campaña local;
-
-b) En los casos en que estén integrados por los candidatos a Presidente de la República, Senador y una campaña local; se distribuirá en un veinte por ciento al candidato a Presidente de la República; sesenta por ciento al candidato a Senador y un veinte por ciento al candidato de la elección local respectivo;
-
-c) En el caso en el cual intervengan los candidatos a Presidente de la República, Diputado Federal y un candidato en materia local, se distribuirá en un cuarenta por ciento al candidato a Presidente, en un treinta y cinco al candidato a Diputado Federal y en un veinticinco al candidato de la elección local;
-
-d) En el supuesto en el que participe un candidato a Senador, un candidato a Diputado Federal y un candidato en materia local, se distribuirá en un cincuenta por ciento al candidato a Senador, un treinta por ciento al candidato a Diputado Federal y un veinte por ciento al candidato a la campaña local;
-
-e) En el caso en que participen un candidato a Senador, y un candidato de índole local; se distribuirá, en un setenta y cinco por ciento al candidato a Senador y un veinticinco al candidato de la elección local respectiva;
-
-f) En el caso en el que participe un candidato a Diputado Federal y un candidato relacionado con una campaña local; se distribuirá en un cincuenta por ciento, respectivamente.
-
-Se entenderá que un gasto beneficia a un candidato cuando concurra alguno de los siguientes supuestos:
-
-a) Se mencione el nombre del candidato postulado por el partido o coalición;
-
-b) Se difunda la imagen del candidato; o,
-
-c) Se promueva el voto a favor de dicha campaña de manera expresa.
-
-El Reglamento de Fiscalización desarrollará las normas anteriores y establecerá las reglas para el registro contable y comprobación de los gastos a los que se refiere el presente artículo.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 142.
 
-El Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto, podrán solicitar en todo momento informes sobre los gastos ordinarios de los partidos políticos a la Unidad de Fiscalización.
-
-En cuanto a los informes de precampaña y campaña, la Unidad de Fiscalización dará en sesión privada al Consejero Presidente y los Consejeros Electorales un informe cada veinticinco días de los avances de las revisiones.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -2887,27 +2811,31 @@ IV. La determinación de las condiciones y requisitos para participar como aspir
 
 V. Los mecanismos para garantizar los derechos político electorales de los ciudadanos, la paridad de género en la selección de sus candidaturas a diputaciones, de mayoría relativa y representación proporcional y planillas de ayuntamientos;
 
-VI. Los topes de precampaña que no serán superiores al límite establecido en este Código;
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
 
-VII. La fecha de inicio del proceso interno;
+VI. Los mecanismos para prevenir, atender, y, en su caso, sancionar la violencia política en razón de género;
 
-VIII. El método o métodos que serán utilizados;
+VII. Los topes de precampaña que no serán superiores al límite establecido en este Código;
 
-IX. La fecha para la expedición de la convocatoria correspondiente;
+VIII. La fecha de inicio del proceso interno;
 
-X. Los plazos que comprenderá cada fase del proceso interno, sin sobrepasar los plazos establecidos en este Código;
+IX. El método o métodos que serán utilizados;
 
-XI. Los órganos de dirección responsables de su conducción y vigilancia;
+X. La fecha para la expedición de la convocatoria correspondiente;
 
-XII. El órgano responsable de la resolución de impugnaciones y quejas;
+XI. Los plazos que comprenderá cada fase del proceso interno, sin sobrepasar los plazos establecidos en este Código;
 
-XIII. Los mecanismos de control de confianza de sus precandidatos; y,
+XII. Los órganos de dirección responsables de su conducción y vigilancia;
+
+XIII. El órgano responsable de la resolución de impugnaciones y quejas;
+
+XIV. Los mecanismos de control de confianza de sus precandidatos; y,
 
 > <small>[N. DE E. EL CONTENIDO DEL TERCER PÁRRAFO DE ESTE ARTÍCULO, QUEDÓ INMERSO EN LA PRESENTE FRACCIÓN.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
-XIV. La fecha de celebración de la asamblea electoral, estatal, distrital o municipal o, en su caso, de realización de la jornada comicial interna. En caso de realización de la jornada comicial interna, se estará conforme a lo siguiente:
+XV. La fecha de celebración de la asamblea electoral, estatal, distrital o municipal o, en su caso, de realización de la jornada comicial interna. En caso de realización de la jornada comicial interna, se estará conforme a lo siguiente:
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -2928,6 +2856,10 @@ Los precandidatos a candidaturas a cargos de elección popular que participen en
 Los partidos políticos harán uso del tiempo en radio y televisión que conforme a la Constitución General y la Ley General les corresponda para la difusión de sus procesos de selección interna de candidatos a cargos de elección popular.
 
 Queda prohibido a los precandidatos a candidaturas a cargos de elección popular, en todo tiempo, la contratación o adquisición de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como precandidato o, en su caso, con la cancelación de dicho registro. De comprobarse la violación a esta norma en fecha posterior a la de postulación del candidato por el partido de que se trate, el Instituto negará el registro legal del infractor.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Las y los precandidatos, partidos políticos y coaliciones, deberán abstenerse de expresiones que impliquen calumnia, que discriminen o ejerzan actos que constituyan violencia política por razones de género durante las precampañas y en la propaganda política que se utilice durante las mismas. Por lo tanto, su propaganda no deberá atentar contra los derechos fundamentales de la honra y dignidad de las personas, ni contener elementos que configuren la violencia política por razones de género.
 
 ###### ARTÍCULO 159.
 
@@ -2952,6 +2884,10 @@ Se entiende por actos de precampaña electoral las reuniones públicas, asamblea
 Se entiende por propaganda de precampaña el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por la ley y el que señale la convocatoria respectiva difunden los precandidatos a candidaturas a cargos de elección popular con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar de manera expresa, por medios gráficos y auditivos, la calidad de precandidato de quien es promovido.
 
 Las precampañas se ajustarán a lo dispuesto por este Código y por los Estatutos y demás normas internas de los respectivos partidos políticos, que hayan sido oportunamente informadas al Consejo General. La precampaña concluirá el día que se celebre la elección interna.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+En caso que el contendiente ganador haya tenido excedente de propaganda impresa, ésta podrá ser utilizada dentro de su campaña hasta que ésta se agote, suprimiendo la leyenda de precandidato, a fin de cuidar el medio ambiente.
 
 ###### ARTÍCULO 161.
 
@@ -3039,7 +2975,11 @@ Ningún ciudadano por sí, por terceros, por organizaciones de cualquier tipo o 
 
 Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos o coaliciones en sus documentos básicos y particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
 
-La propaganda política o electoral, deberá abstenerse de expresiones que denigren a las instituciones y a los propios partidos, que calumnien a las personas o que invada su intimidad.
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO NOVENO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+La propaganda política o electoral deberá abstenerse de expresiones QUE DENIGREN A LAS INSTITUCIONES Y A LOS PROPIOS PARTIDOS, que calumnien a las personas o que invadan su intimidad, así como aquellas que constituyan violencia política por razones de género.
 
 Durante el tiempo que comprendan las campañas electorales, y hasta la conclusión de las jornadas comiciales, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
@@ -3053,21 +2993,27 @@ La entrega de cualquier tipo de material que contenga propaganda política o ele
 
 El partido político, candidato registrado o simpatizante que viole lo dispuesto en este artículo, será sancionado en los términos previstos en la norma.
 
-Durante los treinta días anteriores al de la jornada electoral, las autoridades estatales y municipales se abstendrán de establecer y operar programas extraordinarios de apoyo social o comunitario que impliquen la entrega a la población de materiales, alimentos o cualquier elemento relativo a programas asistenciales, de promoción o de desarrollo social, salvo en los casos de extrema urgencia debido a epidemias, desastres naturales, siniestros u otros eventos de naturaleza análoga.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Durante los treinta días anteriores al de la jornada electoral, las autoridades estatales y municipales se abstendrán de establecer y operar programas extraordinarios de apoyo social o comunitario que impliquen la entrega a la población de materiales, alimentos o cualquier elemento relativo a programas asistenciales, de promoción o de desarrollo social, salvo en los casos de extrema urgencia debido a epidemias, desastres naturales, siniestros u otros eventos de naturaleza análoga. Los beneficios de los programas sociales ordinarios no podrán ser entregados en eventos masivos o en modalidades que afecten el principio de equidad en la contienda electoral.
 
 Los servidores públicos se abstendrán de acudir en días y horas hábiles a cualquier evento relacionado con precampañas y campañas electorales, así como de vincular su encargo con manifestaciones o actos dirigidos a favorecer a un precandidato, candidato o partido político.
 
 Los servidores públicos no deberán vincular su cargo, imagen, nombre, voz o cualquier símbolo que implique promoción personalizada, con las campañas publicitarias de los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente tanto a nivel federal, estatal como municipal, con independencia del origen de los recursos; dichas campañas deberán tener carácter institucional y fines informativos, educativos o de orientación social.
 
-(NOTA: EL 25 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2014 Y SUS ACUMULADAS 55/2014, 61/2014 Y 71/2014, DECLARÓ LA INVALIDEZ DEL PÁRRAFO DÉCIMO NOVENO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-LOS INFORMES ANUALES DE LABORES O GESTIÓN DE LOS SERVIDORES PÚBLICOS, ASÍ COMO LOS MENSAJES QUE PARA DARLOS A CONOCER SE DIFUNDAN EN LOS MEDIOS DE COMUNICACIÓN SOCIAL, NO SERÁN CONSIDERADOS COMO PROPAGANDA, SIEMPRE QUE LA DIFUSIÓN SE LIMITE A UNA VEZ AL AÑO EN ESTACIONES Y CANALES CON COBERTURA REGIONAL CORRESPONDIENTE AL ÁMBITO GEOGRÁFICO DE RESPONSABILIDAD DEL SERVIDOR PÚBLICO Y NO EXCEDA DE LOS SIETE DÍAS ANTERIORES Y CINCO POSTERIORES A LA FECHA EN QUE SE RINDA EL INFORME. EN NINGÚN CASO LA DIFUSIÓN DE TALES INFORMES PODRÁ TENER FINES ELECTORALES, NI REALIZARSE DENTRO DEL PERIODO DE CAMPAÑA ELECTORAL.
+> <small>(DEROGADO DÉCIMO NOVENO PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
 En los casos de infracción a lo dispuesto en este artículo, será competente en todo momento el Instituto, quien conocerá y sancionará de manera pronta y expedita, sin menoscabo de las responsabilidades a que pueda ser acreedor.
 
 ###### ARTÍCULO 170.
 
 (DEROGADO, P.O. 1 DE JUNIO DE 2017)
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTICULO 170 BIS. Los gastos que realicen los partidos políticos, las coaliciones, las candidaturas comunes y sus candidatos, en la propaganda electoral y las actividades de campaña, no deberán de rebasar los topes que para cada elección acuerde el Consejo General.
+
+El Consejo General determinará, dentro de los cinco días siguientes al inicio del proceso electoral, los topes de gastos para cada una de las campañas considerando, el tope autorizado para la elección anterior de que se trate, el cual podrá incrementar de acuerdo al factor de actualización de la UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -3077,13 +3023,15 @@ Los partidos políticos, coaliciones, candidaturas comunes y candidatos, en la c
 
 I. Podrán colocar y pintar propaganda en los lugares de uso común que les asignen por sorteo los Consejos, General y electorales de comités distritales y municipales, previo convenio y con autorización de las autoridades correspondientes y de acuerdo con lo que las leyes dispongan. Para la distribución de los espacios se considerará a las coaliciones y a los partidos políticos que registren candidatos comunes, como uno solo;
 
-II. Podrán colocar y pintar propaganda en inmuebles propiedad de particulares, siempre que medie permiso escrito del propietario;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+II. Podrá colocar y pintar propaganda en inmuebles propiedad de particulares, siempre que medie permiso por escrito y con firma autógrafa del propietario, adjuntando al mismo, copia simple de su identificación oficial;
 
 III. No podrán colocar ni pintar propaganda en árboles ni en accidentes geográficos cualquiera que sea su régimen jurídico;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-IV. No podrán colocar ni pintar propaganda en el centro histórico, equipamiento urbano, carretero ni ferroviario, en monumentos, en edificios públicos, en pavimentos, guarniciones, banquetas ni en señalamientos de tránsito. Tampoco está permitida la distribución de propaganda en los edificios públicos;
+IV. No podrán colocar ni pintar propaganda en el centro histórico, equipamiento urbano, carretero, ferroviario, monumentos, edificios públicos, pavimentos, guarniciones, banquetas, arboles, ni señalamientos de tránsito. Tampoco está permitida la difusión ni distribución de propaganda en los edificios públicos;
 
 V. En la elaboración de la propaganda se utilizará material reciclable;
 
@@ -3155,9 +3103,21 @@ Los medios de comunicación nacional y local podrán organizar libremente debate
 
 I. Se comunique al Instituto;
 
-II. Participen por lo menos dos candidatos de la misma elección; y,
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-III. Se establezcan condiciones de equidad en el formato.
+II. Se extienda invitación a participar a todos los candidatos contendientes en la elección de que se trate;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+III. Participen por lo menos dos candidatos de la misma elección;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+IV. Se establezcan condiciones de equidad en el formato; y,
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+V. Se respeten los plazos legales de campaña y veda electoral.
 
 La transmisión de los debates por los medios de comunicación será gratuita y se llevará a cabo de forma íntegra y sin alterar los contenidos. La no asistencia de uno o más de los candidatos invitados a estos debates no será causa para la no realización del mismo.
 
@@ -3173,6 +3133,8 @@ El Sistema Michoacano de Radio y Televisión estará obligado a la transmisión 
 
 Las elecciones de Gobernador y diputados se harán con base en la división territorial del Estado en veinticuatro distritos electorales, conformados con la composición municipal y seccional que determine, con fundamento en sus atribuciones de geografía electoral, el Instituto Nacional.
 
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 ###### ARTÍCULO 174.
 
 La elección de diputados por el principio de representación proporcional se hará en una circunscripción plurinominal constituida por todo el Estado. La asignación de diputados por este principio, se realizará conforme a las disposiciones siguientes:
@@ -3181,39 +3143,61 @@ I. Para participar en la asignación de diputados por el principio de representa
 
 a) Participaron con candidatos a diputados de mayoría relativa en por lo menos dieciséis distritos; y,
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-b) Obtuvieron cuando menos el tres por ciento de la votación estatal válida emitida en la elección de la circunscripción plurinominal.
+b) Obtuvieron cuando menos el tres por ciento de la votación válida emitida en la elección de la circunscripción plurinominal.
 
 II. Ningún partido político podrá tener más de veinticuatro diputados por ambos principios;
 
-III. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-IV. Esta base prevista en la fracción anterior no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento; y,
+III. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación válida emitida;
 
-V. En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2017 Y SU ACUMULADA 57/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+IV. Esta base prevista en la fracción anterior no se aplicará al partido político que por sus triunfos en elecciones de diputados de mayoría relativa obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación válida emitida más el ocho por ciento;
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+V. En la integración de la legislatura, el porcentaje de representación de un partido político por ambos principios no podrá ser menor al porcentaje de votación válida emitida que hubiere recibido menos ocho puntos porcentuales; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2020)</small>
+
+VI. Para determinar los límites de la sub y sobre representación del porcentaje de representación de los partidos políticos por ambos principios en la integración de la legislatura, se utilizará el porcentaje obtenido de la votación valida emitida.
+
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 175.
 
-Para la asignación de diputados de representación proporcional se entiende por votación estatal válida emitida la que resulte de deducir de la suma de todos los votos depositados en las urnas, los votos nulos, y los correspondientes a los candidatos no registrados Y CANDIDATURAS INDEPENDIENTES. Por votación estatal efectiva se entiende la que resulte de deducir de la votación estatal válida emitida, los votos a favor de los partidos políticos que no hayan obtenido el tres por ciento de dicha votación.
+Para la asignación de diputados de representación proporcional se aplicarán los siguientes conceptos:
 
-I. Para la asignación de diputados por el principio de representación proporcional se procederá a la aplicación de una fórmula de proporcionalidad pura, integrada por los siguientes elementos:
+a) Votación Total Emitida, es la suma de todos los votos depositados en las urnas en la elección correspondiente.
 
-a) Cociente natural, que es el resultado de dividir la votación estatal efectiva entre los dieciséis diputados de representación proporcional; y,
+b) Votación Válida Emitida, es la que resulte de deducir de la votación total emitida, los votos nulos y los votos correspondientes a los candidatos no registrados.
 
-b) Resto mayor, que es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hecha la distribución de curules mediante el cociente natural. El resto mayor se utilizará cuando aún hubiese diputaciones por distribuir.
+c) Votación Estatal Efectiva, se entiende la que resulte de deducir de la votación válida emitida, los votos a favor de los partidos políticos que no hayan obtenido el tres por ciento de dicha votación y candidaturas independientes. Dicha votación estatal efectiva será utilizada únicamente para calcular el cociente electoral.
 
-II. Una vez desarrollada la fórmula prevista, en los párrafos anteriores, se observará el procedimiento siguiente:
+d) Cociente Electoral, que es el resultado de dividir la votación estatal efectiva entre los dieciséis diputados de representación proporcional.
 
-a) Se determinarán los diputados que se le asignarían a cada partido político, conforme al número de veces que contenga su votación el cociente natural;
+e) Resto mayor, que es el remanente más alto de votación de cada partido político, una vez hecha la distribución de curules mediante el cociente electoral. El resto mayor se utilizará cuando aún hubiese diputaciones por distribuir.
 
-b) Los que se distribuirían por resto mayor si después de aplicarse el cociente natural quedaren diputaciones por repartir, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos en la asignación de curules; y,
+I. Para la asignación de diputados por el principio de representación proporcional se procederá a la aplicación de una fórmula de proporcionalidad, de acuerdo a lo siguiente:
 
-c) Se determinará si es el caso de aplicar a algún partido político el o los límites establecidos en el artículo anterior, para lo cual al partido político cuyo número de diputados por ambos principios exceda de 24, o su porcentaje de curules del total del Congreso exceda en ocho puntos a su porcentaje de votación estatal emitida, le serán deducidos el número de diputados de representación proporcional hasta ajustarse a los límites establecidos, asignándose las diputaciones excedentes a los demás partidos políticos que no se ubiquen en estos supuestos.
+a) Se determinará el porcentaje de votación valida emitida que obtuvo cada partido político en la elección correspondiente. Dicho porcentaje será utilizado en el desarrollo de la fórmula de asignación de diputaciones de representación proporcional en concordancia con la fracción VI del artículo 174 de este Código.
+
+b) Posteriormente, se determinará la votación estatal efectiva y el Cociente electoral.
+
+c) Una vez realizado el cálculo del inciso anterior, se asignarán los diputados que le correspondan a cada partido político, dividiendo su votación obtenida entre el cociente electoral.
+
+d) Se verificarán los límites de sub y sobre representación legislativa por ambos principios, con el fin de que ningún partido político este fuera de ellos. En el caso de que algún partido alcanzara su límite de sobre representación no podrá continuar en la asignación de diputados de representación proporcional por resto mayor.
+
+e) Después de haber realizado lo establecido en el inciso anterior, en caso de que existiesen curules por asignar después de aplicar el cociente electoral, se procederá a distribuirlas por resto mayor, siguiendo el orden decreciente de los votos no utilizados para cada uno de los partidos políticos en la asignación de curules.
+
+f) Una vez hecha la asignación por resto mayor del inciso anterior, se verificarán nuevamente los límites de sub y sobre representación legislativa por ambos principios, con el fin de que ningún partido político esté fuera de ellos.
+
+g) Aplicado el inciso anterior, si existiera algún partido político que tuviera una sub representación que excediera en menos ocho puntos a su porcentaje de votación válida emitida, se procederá a quitar tantos escaños sean necesarios al partido o los partidos que tenga un porcentaje de sobre representación más cercano a ocho puntos de su porcentaje de votación válida emitida y se otorgarán al partido sub representado hasta alcanzar una sub representación que no exceda de menos ocho puntos a su porcentaje de votación válida emitida.
 
 ###### ARTÍCULO 176.
 
@@ -3291,7 +3275,13 @@ a) Preparación de la elección;
 
 b) Jornada electoral; y,
 
-c) Resultados y declaraciones de validez de las elecciones, dictamen y declaraciones de validez de la elección y de Gobernador electo.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+c) Resultados y declaraciones de validez de las elecciones; y,
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+d) Dictamen y declaraciones de validez de la elección y de Gobernador electo, en los procesos en que se renueve.
 
 ###### ARTÍCULO 183.
 
@@ -3325,7 +3315,9 @@ Podrán nombrarse un representante propietario y un suplente ante cada Mesa Dire
 
 Los representantes ante mesas directivas de casilla y generales, no sustituirán en sus atribuciones a los funcionarios de la misma.
 
-## TÍTULO SEXTO. DEL REGISTRO DE CANDIDATOS, DOCUMENTACIÓN Y MATERIAL ELECTORAL, Y APERTURA DE CASILLAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2020)</small>
+
+## TÍTULO SEXTO. DEL REGISTRO DE CANDIDATOS, DOCUMENTACIÓN, MATERIAL ELECTORAL, APERTURA DE CASILLAS Y URNA ELECTRÓNICA
 
 ### CAPÍTULO PRIMERO. DEL REGISTRO DE CANDIDATOS
 
@@ -3343,21 +3335,19 @@ b) Su distintivo, con el color o combinación de colores que lo identifiquen; y,
 
 c) En su caso, la mención de que solicita el registro en común con otros partidos políticos y la denominación de éstos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MAYO DE 2020)</small>
 
-II. De los candidatos de manera impresa y en medio magnético:
+II. De los candidatos de manera impresa:
 
 a) Nombre y apellidos;
 
-b) Lugar de nacimiento, edad, vecindad y domicilio;
+b) (DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 c) Cargo para el cual se le postula;
 
-d) Ocupación;
+d) (DEROGADO, P.O. 29 DE MAYO DE 2020)
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
-
-e) Folio, clave y año de registro de la credencial para votar;
+e) (DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 f) La plataforma electoral que sostendrán a lo largo de las campañas políticas;
 
@@ -3369,13 +3359,17 @@ g) Declaración patrimonial: Contendrá los bienes del candidato, a su nombre, l
 
 h) Declaración de intereses: Deberá manifestar aquellas actividades o relaciones que puedan entrar en conflicto con el desempeño responsable y objetivo de las facultades y obligaciones del cargo al cual aspira;
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-i) Declaración de situación fiscal emitida por la autoridad fiscal correspondiente; y,
+i) Declaración de situación fiscal emitida por la autoridad fiscal correspondiente.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-j) Cartas de no antecedentes penales, expedidas por la Fiscalía General del Estado y la Fiscalía General de la República, respectivamente, con una antigüedad no mayor a treinta días a la fecha de su presentación.
+j) Cartas de no antecedentes penales, expedidas por la Fiscalía General del Estado y la Fiscalía General de la República, respectivamente, con una antigüedad no mayor a treinta días a la fecha de su presentación; y
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+k) Manifestación bajo protesta de decir verdad, de que no ha sido condenado mediante sentencia firme por violencia política por razones de género.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
 
@@ -3401,7 +3395,9 @@ d) En caso de elección consecutiva presentar carta bajo protesta de decir verda
 
 En la postulación de candidatos a diputados y para integrar ayuntamientos, las fórmulas, listas y planillas se integrarán con propietarios y suplentes del mismo género.
 
-Los partidos políticos promoverán, en los términos que determinen sus documentos internos, una mayor participación de las mujeres en la vida política del Estado, a través de su postulación a cargos de elección popular.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Los partidos políticos promoverán, en los términos de sus documentos internos, una mayor participación de las mujeres en la vida política del Estado, a través de su postulación a cargos de elección popular y del impulso a la participación política con perspectiva de género, así como la prevención y erradicación de la discriminación y la violencia política contra las mujeres.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -3410,6 +3406,10 @@ De la totalidad de solicitudes de registro de candidaturas a diputaciones de may
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2020)</small>
 
 En el caso de los ayuntamientos las candidaturas a Presidente Municipal, Síndico y regidores deberá cumplir con la paridad de género vertical, integrando de forma alternada y en igual proporción de géneros hasta agotar la lista; de igual manera los partidos políticos, coaliciones y candidaturas comunes deberán garantizar la paridad de género horizontal y transversal en el registro de candidaturas entre los diferentes ayuntamientos que forman parte del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Se exceptúa la regla general de paridad de género, cuando el propietario lo encabece un hombre, en cuyo caso su suplente podrá ser hombre o mujer, indistintamente.
 
 ###### ARTÍCULO 190.
 
@@ -3431,19 +3431,29 @@ VII. El Consejo General celebrará en los diez días siguientes al término de c
 
 VIII. El Secretario Ejecutivo del Instituto, solicitará la publicación en el Periódico Oficial de los registros aprobados, así como las posteriores cancelaciones o sustituciones que, en su caso, se presenten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 191.
 
-Los partidos políticos podrán sustituir libremente a sus candidatos dentro de los plazos establecidos para el registro. Transcurrido éste, solamente lo podrán hacer por causa de fallecimiento, inhabilitación, incapacidad o renuncia, en este último caso, deberá acompañarse al escrito de sustitución copia de la renuncia. El Consejo General acordará lo procedente.
+Los partidos políticos podrán sustituir libremente a sus candidatos dentro de los plazos establecidos para el registro. Transcurrido éste, solamente lo podrán hacer por causa de fallecimiento, inhabilitación, incapacidad o renuncia, en este último caso, deberá acompañarse al escrito de sustitución original de la renuncia. El Consejo General acordará lo procedente.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Una vez recibida la renuncia ante la oficialía electoral del Instituto, se le otorgará al candidato o candidata un plazo máximo de cuarenta y ocho horas, contadas a partir de la notificación, para que acuda a las instalaciones del Instituto, o en su caso, a las del Comité Distrital o Municipal respectivo, con su credencial para votar vigente y copia simple de la misma, a efecto de que lleve a cabo la ratificación de su escrito de renuncia, bajo apercibimiento que en caso de no acudir para dicho efecto, se tendrá por no presentada la misma, acordándose lo procedente.
 
 Dentro de los treinta días anteriores al de la elección, no podrá ser sustituido un candidato que haya renunciado a su registro.
 
-Un candidato a cargo de elección, puede solicitar en todo tiempo la cancelación de su registro, requiriendo tan sólo dar aviso al partido y al Consejo General del Instituto.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+Un candidato a cargo de elección popular puede solicitar en todo tiempo la cancelación de su registro, con tan solo dar aviso por escrito al partido y al Consejo General del Instituto, el cual deberá ratificarse en un plazo máximo de cuarenta y ocho horas.
 
-En el caso de las candidaturas independientes no procede la sustitución; los efectos de la renuncia es la no participación en la contienda.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-### CAPÍTULO SEGUNDO. DE LA DOCUMENTACIÓN Y MATERIAL ELECTORAL
+En el caso de las candidaturas independientes, solo procede la sustitución por renuncia o fallecimiento y serán sustituidos única y exclusivamente por su suplente o uno de los integrantes de la misma planilla; en el caso de diputaciones por su suplente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2020)</small>
+
+### CAPÍTULO SEGUNDO. DE LA DOCUMENTACIÓN, MATERIAL ELECTORAL Y URNA ELECTRÓNICA
 
 ###### ARTÍCULO 192.
 
@@ -3457,7 +3467,11 @@ a) Nombre del Estado;
 
 b) Cargo para el que se eligen;
 
-c) El distintivo con el color o combinación de colores y emblema de cada partido político, coalición o candidato independiente;
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO c) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+c) El distintivo con el color o combinación de colores y emblema de cada partido político, COALICIÓN o candidato independiente; y, la fotografía del candidato;
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -3465,7 +3479,9 @@ d) Nombre y apellidos de los candidatos y en su caso el sobrenombre;
 
 e) Un solo espacio para cada partido político o coalición o candidato independiente;
 
-f) Un espacio para asentar los nombres de los candidatos no registrados;
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+f) Un espacio para asentar los nombres de los ciudadanos no registrados;
 
 g) Las firmas impresas del Presidente y Secretario Ejecutivo del Consejo General; y,
 
@@ -3489,13 +3505,17 @@ c) Un solo espacio para cada planilla de candidatos a integrar los ayuntamientos
 
 d) Los distintivos con el color o combinación de colores que tengan registrados los partidos políticos, coaliciones o candidatos independientes, mismos que aparecerán en las boletas en el orden que les corresponda, de acuerdo con la antigüedad de su registro.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 193.
 
-En caso de la cancelación o sustitución del registro de uno o más candidatos, las boletas que ya estuvieren impresas, serán corregidas en la parte relativa o sustituidas por otras, según lo acuerde el Consejo General. Si por razones técnicas no se pudiere efectuar la corrección o sustitución señalada, o bien las boletas ya hubiesen sido repartidas a las casillas, los votos contarán para los partidos políticos y los candidatos que estuviesen registrados al momento de la elección.
+Dentro de los treinta y cinco días anteriores a la jornada electoral, las boletas por ningún motivo podrán ser sustituidas, corregidas o reimpresas. En todo caso, los votos contarán para los partidos políticos y los candidatos que estuviesen registrados ante el Consejo General del Instituto Electoral, al momento de la elección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 194.
 
-Las boletas para la elección de Gobernador y diputados deberán estar en poder de los consejos electorales de comités distritales, quince días antes de la elección, los consejos electorales de comités municipales deberán recibir las correspondientes a la elección de ayuntamientos a más tardar quince días antes.
+Las boletas para las elecciones por la Gubernatura, diputaciones y ayuntamientos deberán estar en poder de los consejos distritales y municipales, respectivamente, a más tardar quince días antes de la elección.
 
 Para su control se tomarán las medidas siguientes:
 
@@ -3521,7 +3541,9 @@ De lo anterior se levantará acta circunstanciada, debiéndose especificar el n�
 
 El paquete que contenga las boletas sobrantes inutilizadas será entregado por el secretario del comité distrital o municipal correspondiente al Consejo General, quien podrá ser acompañado por los representantes que deseen hacerlo.
 
-El Consejo General dispondrá se provea a las mesas directivas de casilla de un porcentaje de planillas braille.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE MAYO DE 2020)</small>
+
+El Consejo General dispondrá se provea a las mesas directivas de casilla de un porcentaje de plantillas braille.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -3564,6 +3586,22 @@ El Consejo General, tomando las medidas que den certeza y seguridad, procurará 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 En su caso, el Consejo General encargará a una institución académica o técnica de reconocido prestigio la certificación de las características y calidad del líquido indeleble que ha de ser usado el día de la jornada electoral. El líquido seleccionado deberá garantizar plenamente su eficacia. Los envases que lo contengan deberán contar con elementos que identifiquen el producto.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 196 BIS. La votación podrá recogerse por medio de instrumentos electrónicos, cuando sea factible técnica y presupuestalmente, y se garantice la vigencia de las disposiciones constitucionales y legales que amparan la libertad y secrecía del voto ciudadano.
+
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 196 TER. El sistema electrónico para la recepción del voto que apruebe el Consejo General del Instituto Electoral de Michoacán deberá garantizar certeza, seguridad, transparencia y apego a los principios de la integridad del voto, así como ofrecer inmediatez en los resultados y trasmisión de los mismos.
+
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 196 QUATER. El Consejo General del Instituto Electoral, emitirá los lineamientos en el uso del sistema electrónico para la recepción del voto en urna electrónica, para cada proceso electoral, así como en el desarrollo de los mecanismos de participación ciudadana de conformidad con la Ley de Mecanismos de Participación Ciudadana del Estado de Michoacán de Ocampo.
 
 ### CAPÍTULO TERCERO. APERTURA DE CASILLAS
 
@@ -4029,7 +4067,7 @@ b) El incumplimiento de las resoluciones o acuerdos del Instituto;
 
 c) El incumplimiento de las obligaciones o la infracción de las prohibiciones y topes que en materia de financiamiento y fiscalización les impone el presente Código;
 
-d) No presentar los informes trimestrales, anuales, de precampaña o de campaña, o no atender los requerimientos de información de la unidad de fiscalización del Instituto, en los términos y plazos previstos en este Código y sus reglamentos;
+d) (DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 e) La realización anticipada de actos de precampaña o campaña atribuible a los propios partidos;
 
@@ -4075,9 +4113,17 @@ d) No presentar el informe de gastos de precampaña o campaña establecidos en e
 
 e) Exceder el tope de gastos de precampaña o campaña establecidos;
 
-f) La comisión de violencia política prevista en el inciso m) de la fracción I de este artículo; y,
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-g) El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+f) La comisión de violencia política prevista en el inciso m) de la fracción I de este artículo;
+
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO g) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2020)</small>
+
+g) Calumniar, OFENDER O CUALQUIER MANIFESTACIÓN QUE DENIGRE a otras personas aspirantes, precandidatas y candidatas, partidos políticos, instituciones públicas o privadas, así como toda aquella acción u omisión que constituya violencia política por razones de género; y,
+
+h) El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 IV. Constituyen infracciones de los aspirantes y Candidatos Independientes a cargos de elección popular al presente Código:
 
@@ -4103,7 +4149,11 @@ j) El incumplimiento de las resoluciones y acuerdos del Instituto;
 
 k) La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
 
-l) La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas, instituciones o los partidos políticos;
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO l) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+l) La difusión de propaganda política o electoral que contenga expresiones que calumnien Y DENIGREN a personas aspirantes, precandidatas y candidatas, instituciones o partidos políticos, y que dichas expresiones constituyan violencia política por razones de género.
 
 m) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
@@ -4135,9 +4185,13 @@ d) Durante los procesos electorales, la difusión de propaganda, en cualquier me
 
 e) La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal, o del Distrito Federal, con la finalidad de inducir o coaccionar a los Ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y,
 
-f) El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-VIII. Constituyen infracciones al presente Código de los notarios públicos, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, los ciudadanos y los representantes de partidos políticos, para dar fe de hechos o certificar documentos concernientes a la elección;
+f) El incumplimiento de las disposiciones aplicables en materia de mecanismos de participación ciudadana, conforme a lo establecido en el presente Código, la Ley de la materia y/o su Reglamento, así como cualquiera de las disposiciones contenidas en este Código.
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+VIII. Constituyen infracciones al presente Código de los notarios públicos, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, los ciudadanos y los representantes de partidos políticos, para dar fe de hechos o certificar documentos concernientes a la elección. Se considerará infracción de los notarios públicos, negarse injustificadamente a dar fe de hechos u omisiones cometidos en contra de una mujer en el ejercicio de su derecho al voto y su derecho a ser votada en los cargos de elección popular, así como negarse a certificar documentos concernientes con los actos u omisiones que constituyen la violencia política por razones de género.
 
 IX. Constituyen infracciones a la presente Ley de los extranjeros, las conductas que violen lo dispuesto por el artículo 33 de la Constitución General y las leyes aplicables;
 
@@ -4219,9 +4273,17 @@ e) Respecto de los dirigentes y afiliados a los partidos políticos; así como t
 
 I. Con amonestación pública;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-II. Con multa de hasta dos mil veces el valor diario de la Unidad de Medida y Actualización, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+II. Con multa de hasta dos mil veces el valor diario de la Unidad de Medida y Actualización, atendiendo a lo establecido en la fracción IV de este inciso;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+III. Con multa de hasta dos mil veces al valor diario de la Unidad de Medida y Actualización, en el caso de que promuevan una denuncia frívola; y,
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+IV. Para la individualización de las sanciones a que se refieren las fracciones anteriores, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 f) Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -4251,9 +4313,19 @@ I. Con amonestación pública; y,
 
 II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE MAYO DE 2020)</small>
+
+i) Respecto de los Fedatarios Públicos:
+
+I. Con amonestación pública; y,
+
+II. Con multa de hasta diez mil veces al valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 232.
 
-Cuando las autoridades estatales o municipales cometan alguna infracción contrarias a este Código, incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada, o no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto o del Tribunal, se dará vista al superior jerárquico y, en su caso, presentará la queja ante la autoridad competente por hechos que pudieran constituir responsabilidades administrativas o las denuncias o querellas ante el agente del Ministerio Público que deba conocer de ellas, a fin de que se proceda en los términos de las leyes aplicables, y se estará a lo siguiente:
+Cuando las autoridades estatales o municipales cometan alguna infracción contrarias a este Código, incumplan los mandatos de la autoridad electoral, omitan realizar o respetar las disposiciones respectivas en materia de mecanismos de participación ciudadana, no proporcionen en tiempo y forma la información que les sea solicitada, o no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto o del Tribunal, se dará vista al superior jerárquico y, en su caso, presentará la queja ante la autoridad competente por hechos que pudieran constituir responsabilidades administrativas o las denuncias o querellas ante el agente del Ministerio Público que deba conocer de ellas, a fin de que se proceda en los términos de las leyes aplicables, y se estará a lo siguiente:
 
 a) Conocida la infracción, la Secretaría Ejecutiva integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley;
 
@@ -4293,6 +4365,30 @@ Cuando el Instituto tenga conocimiento de la comisión de una infracción por pa
 
 Cuando el Instituto tenga conocimiento de que algún concesionario o permisionario de radio o televisión incumple con cualquiera de las disposiciones electorales, procederá a informar de inmediato al Instituto Nacional, para los efectos previstos por la legislación federal aplicable.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 237 BIS. En los casos en que los denunciados sean órganos del Estado, notarios públicos, extranjeros, ministros de culto, asociaciones vinculadas a iglesias o agrupaciones de cualquier religión o secta o se presuma la comisión de infracciones a la normativa electoral cometidas por dichos sujetos, la Secretaría Ejecutiva deberá integrar el expediente respectivo.
+
+Si de los hechos investigados se advierte una posible violación a disposiciones legales que no se encuentren relacionadas con la materia electoral, la Secretaría Ejecutiva deberá hacerlo del conocimiento a las autoridades competentes o, en su caso, se ordenará una vista a través de la resolución respectiva que apruebe el Consejo General.
+
+Cuando se considere necesario que otras autoridades tengan conocimiento de las resoluciones aprobadas por el Consejo General, por su relación con sus efectos, se les remitirá copia certificada de ésta.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 237 TER. De presentarse algún escrito de deslinde de responsabilidad derivado de cualquier circunstancia que pudiera vulnerar las normas constitucionales y legales en materia electoral, la Secretaría Ejecutiva deberá integrar el cuaderno respectivo.
+
+Para que un deslinde de responsabilidad respecto de actos de terceros que se estimen infractores de la ley sea considerado como efectivo, se deberá acreditar que las acciones o medidas tomadas al respecto contengan los siguientes elementos:
+
+a) Eficacia: cuando su implementación produzca el cese de la conducta infractora o genere la posibilidad cierta de que la autoridad competente conozca el hecho para investigar y resolver sobre la licitud o ilicitud de la conducta denunciada;
+
+b) Idoneidad: que resulte adecuada y apropiada para ese fin;
+
+c) Juridicidad: en tanto se realicen acciones permitidas en la ley y que las autoridades electorales puedan actuar en el ámbito de su competencia;
+
+d) Oportunidad: si la actuación es inmediata al desarrollo de los hechos que se consideren ilícitos; y,
+
+e) Razonabilidad: si la acción implementada es la que de manera ordinaria se podría exigir a los partidos políticos.
+
 ### CAPÍTULO SEGUNDO. DE LAS REGLAS GENERALES
 
 ###### ARTÍCULO 238.
@@ -4313,21 +4409,95 @@ Para lo no previsto en el trámite y resolución de estos procedimientos se esta
 
 Cualquier persona podrá presentar quejas o denuncias por presuntas violaciones a la normatividad electoral ante los órganos electorales del Instituto; las personas morales lo harán por medio de sus representantes, en términos de la legislación aplicable, y las personas físicas lo harán por su propio derecho.
 
-La queja o denuncia deberá ser presentada por escrito y cumplir con los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2020)</small>
 
-I. Nombre del quejoso o denunciante, con firma autógrafa o huella digital;
+En caso de que se presente algún escrito sin las formalidades o requisitos para iniciar su trámite como procedimiento administrativo sancionador, a criterio de la Secretaría Ejecutiva, podrá desecharse o bien, formarse como Cuaderno de Antecedentes.
 
-II. Domicilio para oír y recibir notificaciones;
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE MAYO DE 2020)</small>
 
-III. Los documentos que sean necesarios para acreditar la personería;
+El escrito inicial de queja o denuncia deberá contener los requisitos siguientes:
 
-IV. Narración expresa y clara de los hechos en que se basa la queja o denuncia y, de ser posible, los preceptos presuntamente violados; y,
+I. Nombre del quejoso o denunciante, con firma autógrafa o huella dactilar;
 
-V. Ofrecer y aportar las pruebas con que cuente; o en su caso, mencionar las que habrán de requerirse, cuando el promovente acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas.
+II. Correo electrónico o domicilio para oír y recibir notificaciones en la capital del Estado de Michoacán y, en su caso, autorizados para tal efecto;
+
+III. Los documentos necesarios e idóneos para acreditar la personería, en caso de acudir a nombre de un tercero o de persona moral;
+
+IV. Nombre del denunciado y su domicilio, en su caso;
+
+V. Narración expresa y clara de los hechos en que base su queja o denuncia y, de ser posible, los preceptos presuntamente violados; y,
+
+VI. Ofrecer y aportar las pruebas con que cuente; o en su caso, mencionar las que habrán de requerirse, cuando el promovente acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2020)</small>
+
+El promovente deberá relacionar las pruebas que ofrezca con cada uno de los hechos narrados en su escrito inicial de queja o denuncia.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 240 BIS. La Secretaría Ejecutiva a través de los órganos desconcentrados en su caso, ordenará el desahogo de verificaciones y certificaciones de hechos, siempre y cuando:
+
+a) Sean de naturaleza estrictamente electoral;
+
+b) La violación reclamada lo amerite;
+
+c) Los plazos permitan su desahogo y se estimen determinantes para el esclarecimiento de los hechos denunciados o puedan constituir afectaciones a la equidad de la contienda electoral.
+
+Lo anterior tomando en consideración los principios de expedites y debido proceso.
+
+Las solicitudes de verificación deberán contener:
+
+I. Petición clara y motivada de los hechos que se pretende sean verificados;
+
+II. Las circunstancias de modo, tiempo y lugar que permitan a la autoridad realizar las diligencias.
+
+En caso de no cumplir con los requisitos, la solicitud será desechada, determinación que deberá notificarse por escrito al solicitante.
+
+De la diligencia instrumentada por el secretario o en su caso por el personal autorizado para tal efecto, se levantará un acta en la que deberán asentarse de manera pormenorizada los elementos indispensables que lleven a la convicción de que se constataron los hechos, que se instruyó verificar, además de asentar las circunstancias de modo, tiempo y lugar de la actuación. En todo caso, en la certificación respectiva deberá:
+
+a) Detallarse los medios por los que se cercioró que efectivamente se constituyó en los lugares indicados;
+
+b) Las características o rasgos distintivos de los lugares en donde se actuó;
+
+c) Los elementos que se observaron en relación con los hechos objeto de la inspección;
+
+d) Los medios en que se registró la información;
+
+e) Los nombres de las personas con las que, en su caso se entrevistó y la información que éstas proporcionaron respecto de los hechos materia de inspección o reconocimiento; y,
+
+f) Se tomarán fotografías del lugar u objeto inspeccionado.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 240 TER. Cuando el denunciado sea un precandidato o candidato, deberá emplazarse a los partidos políticos que los postularon, o a los integrantes de la coalición postulante, a efecto de determinar su responsabilidad relacionada con el artículo 87, inciso a), del preste (sic) Código.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 240 QUATER. El escrito de contestación deberá cumplir con los siguientes requisitos:
+
+I. Nombre del denunciado o su representante y firma autógrafa o huella dactilar;
+
+II. Señalar correo electrónico o domicilio para oír y recibir notificaciones, en la capital del Estado de Michoacán; bajo apercibimiento que de no señalarlo, las posteriores notificaciones se realizarán a través de los estrados;
+
+III. Deberá referirse a los hechos que se imputan, afirmándolos, negándolos o declarando que los desconoce;
+
+IV. De acudir a través de representante, los documentos que sean necesarios para acreditar la personería, en caso que no se adjunten los mismos, se tendrá por no contestada la queja; y,
+
+V. Ofrecer y aportar las pruebas con que cuente debiendo relacionar éstas con los hechos o, en su caso, mencionar las que habrán de requerirse por estar en poder de una autoridad y que no le haya sido posible obtener, cuando el promovente acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 241.
 
-Ante la omisión de cualquiera de los requisitos señalados en el artículo anterior, la Secretaría Ejecutiva del Instituto prevendrá al denunciante para que la subsane dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que aclare su denuncia, cuando ésta sea imprecisa, vaga o genérica. En caso de no enmendar la omisión, se tendrá por no presentada la denuncia. Si no se señala domicilio, las notificaciones se harán por estrados.
+Ante la omisión de cualquiera de los requisitos señalados en el artículo 240, la Secretaría Ejecutiva del Instituto prevendrá al denunciante para que la subsane dentro del plazo improrrogable de tres días. En caso de no enmendar la omisión, se tendrá por no presentada la denuncia. Si no se señala correo electrónico o domicilio en la capital del Estado de Michoacán, las notificaciones se harán por estrados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2020)</small>
+
+De la misma forma lo prevendrá para que aclare su denuncia, cuando ésta sea imprecisa, vaga o genérica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2020)</small>
+
+En el Procedimiento Especial Sancionador de no cumplirse con los requisitos de la queja, el mismo se desechará de plano sin prevención alguna.
 
 Durante los procesos electorales, la queja o denuncia podrá ser formulada ante cualquier órgano del Instituto, debiendo ser remitida dentro del término de cuarenta y ocho horas siguientes a la Secretaría Ejecutiva para su trámite.
 
@@ -4342,6 +4512,54 @@ II. Determinar la admisión o proponer el desechamiento de la misma al Consejo G
 III. En su caso, ordenar las diligencias necesarias para el desarrollo de la investigación, previo a su admisión o desechamiento.
 
 La Secretaría Ejecutiva contará con un plazo de cinco días para emitir el acuerdo de admisión o desechamiento, contado a partir del día en que reciba la queja o denuncia; o que hayan concluido las diligencias de investigación previas. En caso de que se hubiese prevenido al quejoso, el plazo contará a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el período sin que se hubiese desahogado la misma.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 241 BIS. La queja o denuncia será improcedente y por lo tanto se desechará sin prevención alguna, en los siguientes supuestos:
+
+I. Verse sobre presuntas violaciones a la normatividad interna de un partido político y el quejoso o denunciante no acredite su pertenencia al mismo o su interés jurídico;
+
+II. En los procedimientos especiales sancionadores, cuando los hechos no estén relacionados con la violación en materia de propaganda política electoral;
+
+III. No se hubieren agotado previamente las instancias internas del partido denunciado, si la queja versa sobre presuntas violaciones a su normatividad interna;
+
+IV. Cuando exista previamente resolución firme en cuanto al fondo sobre la materia objeto de la queja o denuncia;
+
+V. Los actos denunciados no correspondan a la competencia del Instituto, o no constituyan violaciones al presente Código;
+
+VI. No se presente indicio de prueba alguna para acreditar los hechos denunciados;
+
+VII. Resulte evidentemente frívola;
+
+VIII. Previa la admisión de la denuncia, el quejoso se desista de la misma o de la acción, siempre y cuando por el avance de la investigación previa, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral;
+
+IX. Haya prescrito la facultad del Instituto para fincar responsabilidades; y,
+
+X. Cuando el escrito de queja no contenga firma autógrafa o huella dactilar de quien la suscribe; y,
+
+XI. Cuando el denunciado haya fallecido.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 241 TER. Procederá el sobreseimiento de la queja o denuncia, cuando:
+
+I. Habiendo sido admitida sobrevenga alguna de las causales de improcedencia;
+
+II. El denunciado sea un partido político que, con posterioridad a la admisión de la queja o denuncia, haya perdido su registro;
+
+III. El denunciante presente escrito de desistimiento, siempre y cuando lo exhiba antes de la aprobación del proyecto de resolución por parte de la Secretaría y que, a juicio de la misma, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral;
+
+IV. El fallecimiento del sujeto al que se le atribuye la conducta denunciada;
+
+V. En los procedimientos ordinarios sancionadores el sobreseimiento se resolverá por el Consejo General a propuesta del Secretario Ejecutivo, en los términos del presente Código; y,
+
+VI. En los procedimientos especiales sancionadores se resolverá, previa a su remisión al Tribunal, el acuerdo será dictado por el Secretario Ejecutivo del Instituto.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 241 QUATER. La Secretaría Ejecutiva podrá escindir los procedimientos, cuando se sigan contra varias personas y existan elementos razonables y proporcionales que impidan continuar con la sustanciación paralela, respecto de todos los presuntos responsables o, cuando derivado de la tramitación de un procedimiento sea necesario formar otro diverso para resolver cuestiones en lo particular.
+
+En los procedimientos ordinarios sancionadores se podrá dictar la escisión de un procedimiento hasta antes del cierre de instrucción y en el caso de los procedimientos especiales sancionadores, hasta antes del desahogo de la audiencia correspondiente, con base en un acuerdo en el que se deberán exponer los razonamientos fundados y motivados de la escisión.
 
 ###### ARTÍCULO 242.
 
@@ -4411,7 +4629,9 @@ El quejoso o el denunciado podrán aportar pruebas supervenientes hasta antes de
 
 Admitida una prueba superviniente, se dará vista al quejoso o denunciado, según corresponda para que en el plazo de cinco días manifieste lo que a su derecho convenga.
 
-La Secretaría Ejecutiva o el Consejo General podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la remisión del expediente. El Consejo General apercibirá a las autoridades en caso de que éstas no atiendan en tiempo y forma, el requerimiento de las pruebas.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+La Secretaría Ejecutiva podrá admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la remisión del expediente o, en su caso, antes del cierre de instrucción, tratándose del procedimiento ordinario. De estimarse conveniente, se apercibirá a las autoridades en caso de que éstas no atiendan en tiempo y forma, el requerimiento de las pruebas.
 
 Asimismo, el Secretario Ejecutivo podrá admitir aquellos elementos probatorios que, habiendo sido solicitados por los órganos del Instituto dentro de la investigación correspondiente, no se hubiesen recibido sino hasta veinticuatro horas antes de la remisión respectiva del expediente.
 
@@ -4547,7 +4767,9 @@ Una vez que la Secretaría Ejecutiva tenga conocimiento de los hechos denunciado
 
 Admitida la queja o denuncia por la Secretaría Ejecutiva, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, solicitará mediante oficio a los órganos centrales o desconcentrados del Instituto que lleven a cabo las investigaciones o recaben las pruebas necesarias. El plazo para llevar a cabo la investigación no podrá exceder de cuarenta días, contados a partir de la recepción del escrito de queja o denuncia en la Secretaría o del inicio de oficio del procedimiento por parte del Secretario. Dicho plazo podrá ser ampliado de manera excepcional por una sola vez, hasta por un periodo igual al antes señalado, mediante acuerdo debidamente motivado que emita la Secretaría Ejecutiva.
 
-Si dentro de los tres días siguientes a la presentación de la queja o denuncia, la Secretaría Ejecutiva valora que deben dictarse medidas cautelares lo propondrá al Consejo General para que ésta resuelva en un plazo de veinticuatro horas lo conducente, a fin lograr la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en este Código.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Si dentro de los tres días siguientes a la presentación de la queja o denuncia, la Secretaría Ejecutiva valora que deben dictarse medidas cautelares, ésta resolverá en un plazo no mayor de veinticuatro horas lo conducente, a fin lograr la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en este Código.
 
 El Secretario del Consejo General podrá solicitar a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados. Con la misma finalidad podrá requerir a las personas físicas y morales la entrega de informaciones y pruebas que sean necesarias.
 
@@ -4597,15 +4819,25 @@ Para la resolución expedita de las quejas o denuncias y con el objeto de determ
 
 Dentro de los procesos electorales, la Secretaría Ejecutiva del Instituto, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:
 
-(NOTA: EL 25 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2014 Y SUS ACUMULADAS 55/2014, 61/2014 Y 71/2014, DECLARÓ LA INVALIDEZ DEL INCISO A) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-A) VIOLEN LO ESTABLECIDO EN EL OCTAVO PÁRRAFO DEL ARTÍCULO 134 DE LA CONSTITUCIÓN GENERAL;
+a) (DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 b) Contravengan las normas sobre propaganda política o electoral;
 
-c) Constituyan actos anticipados de precampaña o campaña; o,
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-d) Violenten el ejercicio del derecho de réplica.
+c) Constituyan actos anticipados de precampaña o campaña;
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+d) Violenten el ejercicio del derecho de réplica;
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+e) Constituyan violencia política por razones de género; o,
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+f) Que afecten el principio de equidad en la contienda.
 
 ###### ARTÍCULO 255.
 
@@ -4629,7 +4861,9 @@ b) Domicilio para oír y recibir notificaciones;
 
 c) Los documentos que sean necesarios para acreditar la personería;
 
-d) Narración expresa y clara de los hechos en que se basa la denuncia;
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+d) Narración expresa y clara de los hechos en que se basa la denuncia; precisando circunstancias de modo, tiempo y lugar;
 
 e) Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas; y,
 
@@ -4639,7 +4873,9 @@ El órgano del Instituto que reciba o promueva la denuncia la remitirá inmediat
 
 La denuncia será desechada de plano por la Secretaría Ejecutiva, sin prevención alguna, cuando:
 
-a) No reúna los requisitos indicados en el párrafo 3 del presente artículo;
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+a) No reúna los requisitos previstos para tal efecto;
 
 b) Los hechos denunciados no constituyan una violación en materia de propaganda político-electoral;
 
@@ -4763,6 +4999,10 @@ II. En casos en que los poderes públicos o sus servidores en todos sus niveles 
 
 III. Hacer prevalecer los principios rectores del proceso electoral, así como los de imparcialidad y equidad por parte de los poderes públicos y sus servidores en el ejercicio y aplicación de recursos públicos.
 
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+IV. Para garantizar que la participación de las mujeres en los procesos electorales se realice en un ambiente libre de discriminación y violencia política.
+
 ###### ARTÍCULO 267.
 
 El pronunciamiento de medidas cautelares, se deberá sujetar a las siguientes condiciones:
@@ -4839,9 +5079,17 @@ VII. No preservar los principios que rigen el funcionamiento del Instituto Elect
 
 VIII. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
 
-IX. Dejar de desempeñar las funciones o las labores que tenga a su cargo; y,
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-X. Las previstas, en lo conducente, en la normatividad de Responsabilidades de los Servidores Públicos, así como, las demás que determine este Código o las leyes que resulten aplicables.
+IX. Dejar de desempeñar las funciones o las labores que tenga a su cargo;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+X. Las previstas, en lo conducente, en la normatividad de Responsabilidades de los Servidores Públicos, así como, las demás que determine este Código o las leyes que resulten aplicables; y,
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XI. Cometer actos que constituyan violencia política en razón de género.
 
 ###### ARTÍCULO 272.
 
@@ -5031,7 +5279,9 @@ El Consejo General, el miércoles siguiente al día de la elección, realizará 
 
 Quedan prohibidas en el extranjero, en cualquier tiempo, las actividades, actos y propaganda electoral a que se refiere este Código.
 
-La violación a lo establecido en el párrafo anterior podrá ser denunciada ante el Instituto, por los representantes de los partidos políticos ante el Consejo General, mediante queja presentada por escrito, debidamente fundada y motivada, y aportando los medios de prueba.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+La violación a lo establecido en el párrafo anterior podrá ser denunciada ante el Instituto, por cualquier ciudadano mexicano por su propio derecho, o bien, en cuanto representante de algún partido político, aspirante a candidato o candidato independiente, siempre que se encuentre debidamente acreditado ante el Consejo General, mediante queja presentada por escrito o por medios electrónicos, debidamente fundada y motivada, y aportando los medios de prueba con que cuente.
 
 ###### ARTÍCULO 292.
 
@@ -5229,6 +5479,14 @@ Tales actos deberán estar financiados, de forma libre y voluntaria, por las per
 
 Las manifestaciones de respaldo para cada uno de los aspirantes se recibirán en los consejos electorales de comités municipales exclusivamente dentro de la etapa de obtención del respaldo de que se trate.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Las manifestaciones de respaldo ciudadano, recabadas por los candidatos independientes no serán considerados como tales, por lo que solamente tendrán validez los que sean recibidos en los consejos electorales de comités distritales y municipales correspondientes.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Adicional al método tradicional de respaldo, las candidaturas independientes podrán hacer uso de la aplicación móvil en los términos que la normativa electoral señale.
+
 ###### ARTÍCULO 310.
 
 Son derechos de los aspirantes registrados:
@@ -5251,11 +5509,17 @@ V. Designar a un representante ante los órganos del Consejo que correspondan.
 
 Son obligaciones de los aspirantes registrados:
 
-I. Respetar lo dispuesto en la Constitución Local y en el presente Código;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+I. Respetar lo dispuesto en la Constitución Local, en el presente Código y en la demás normativa aplicable;
 
 II. Abstenerse de solicitar el voto del electorado dentro del período del proceso de selección de candidato;
 
-III. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre a otros aspirantes, precandidatos, partidos políticos, instituciones públicas o privadas, y terceros, incitar al desorden o utilizar símbolos, signos o motivos discriminatorios;
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+III. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada, OFENSAS O calumnia QUE DENIGRE a otros aspirantes, precandidatos, partidos políticos, instituciones públicas o privadas, y terceros, incitar al desorden o utilizar símbolos, signos o motivos discriminatorios o religiosos;
 
 IV. Insertar en su propaganda de manera visible la leyenda «aspirante a candidato independiente»;
 
@@ -5297,13 +5561,17 @@ VIII. Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en l
 
 IX. Abstenerse de realizar actos de presión o coacción para obtener el respaldo ciudadano;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+X. Retirar la propaganda utilizada, dentro de los tres días posteriores a la finalización de la etapa de obtención del respaldo ciudadano;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+XI. Abstenerse de cometer actos que constituyan violencia política en razón de género; y,
+
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-X. Retirar la propaganda utilizada, dentro de los tres días posteriores a la finalización de la etapa de obtención del respaldo ciudadano; y,
-
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
-
-XI. Las demás que establezca (sic) este Código, y los ordenamientos electorales.
+XII. Las demás que establezca (sic) este Código, y los ordenamientos electorales.
 
 ###### ARTÍCULO 312.
 
@@ -5393,9 +5661,13 @@ Los candidatos independientes que hayan participado en una elección ordinaria q
 
 Para obtener su registro, los ciudadanos que hayan sido seleccionados como candidatos independientes en términos del capítulo anterior, de manera individual en el caso de Gobernador del Estado, mediante fórmulas o planillas en el caso de diputados o integrantes de ayuntamientos de mayoría relativa, respectivamente, deberán presentar su solicitud dentro de los plazos que se señalan para candidatos de partido político.
 
-Los candidatos independientes que obtengan su registro no podrán ser sustituidos en ninguna de las etapas del proceso electoral.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-Los candidatos independientes, no podrán coaligarse o conformar candidaturas en común con partidos políticos.
+Las candidaturas independientes que obtengan su registro solo podrán ser sustituidas por integrantes de su propia planilla dentro del término establecido en la normativa conducente.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Las candidaturas independientes, no podrán coaligarse o conformar candidaturas en común con otras candidaturas independientes o partidos políticos.
 
 ###### ARTÍCULO 318.
 
@@ -5407,7 +5679,9 @@ II. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 III. El nombramiento de un representante ante el respectivo Consejo; y un responsable de la administración de los recursos financieros y de la presentación de los informes de campaña a que se refiere este Código, que deberá ser el de la persona moral dispuesta en el numeral 303 del presente Código; y,
 
-IV. Señalar los colores y, en su caso, emblema que pretendan utilizar en su propaganda electoral, los cuales no podrán ser iguales o semejantes a los utilizados por los partidos políticos ya existentes.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+IV. Señalar los colores y, en su caso, emblema que pretendan utilizar en su propaganda electoral, los cuales no podrán ser iguales o semejantes a los utilizados por los partidos políticos ya existentes, ni a los colores institucionales utilizados por el Instituto.
 
 No se podrán utilizar los colores que el Consejo General apruebe para la impresión de las boletas electorales.
 
@@ -5463,13 +5737,19 @@ Para la etapa del período de obtención del respaldo ciudadano, los aspirantes 
 
 Las aportaciones que se realicen de manera individual serán proporcionales a los topes dispuestos para los candidatos de partido político.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 324.
 
-Para el desarrollo de las campañas electorales, los candidatos independientes podrán obtener recursos, de la forma siguiente:
+Para el desarrollo de las campañas electorales, las candidaturas independientes podrán obtener financiamiento privado, de la forma siguiente:
 
 I. Aportaciones de simpatizantes; y,
 
 II. Aportaciones del propio candidato independiente.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+El límite de financiamiento privado que pueden recibir las candidaturas independientes, por concepto de aportaciones de simpatizantes o el mismo candidato, en dinero o en especie, será el resultado de restarle al tope de gastos de campaña que les corresponda, el financiamiento público al que tienen derecho.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -5491,11 +5771,25 @@ c) Para el caso de candidatos independientes para el cargo de Gobernador del Est
 
 La Ley General determinará los mecanismos en base a los que, se podrán recibir las donaciones en especie para las campañas de candidatos independientes.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTÍCULO 326.
 
 Las personas que hayan logrado el registro de candidato independiente tendrán derecho a recibir financiamiento público para la obtención del voto durante la campaña electoral.
 
-Se determinará una partida económica estatal igual a la del partido político que reciba el menor financiamiento para la obtención del voto, respecto del proceso electoral inmediato anterior, con el objetivo de que se distribuya equitativa y proporcionalmente entre los candidatos independientes debidamente registrados.
+Para los efectos de la distribución del financiamiento público y prerrogativas a que tienen derecho las candidaturas independientes, en su conjunto, serán considerados como un partido político de nuevo registro.
+
+El monto que le correspondería a un partido de nuevo registro se distribuirá entre todos los candidatos independientes de la siguiente manera:
+
+I. Un 33.3% que se distribuirá de manera igualitaria entre todas las candidaturas independientes a la Gubernatura del Estado;
+
+II. Un 33.3% que se distribuirá de manera proporcional entre todas las fórmulas de candidaturas independientes a diputaciones locales; y,
+
+III. Un 33.3% que se distribuirá de manera proporcional entre todas las planillas a integrar los ayuntamientos.
+
+Cuando no se elija Gubernatura del Estado el monto se distribuirá por partes iguales para las elecciones de las diputaciones por mayoría relativa y ayuntamientos.
+
+En el supuesto de que una sola candidatura obtenga su registro para cualquiera de los cargos antes mencionados, podrá recibir financiamiento hasta del 50% de los montos referidos en los incisos anteriores, siempre y cuando no rebase el tope de gastos de campaña aprobados por el Instituto.
 
 ###### ARTÍCULO 327.
 
@@ -6046,3 +6340,19 @@ P.O. 28 DE ABRIL DE 2020.
 PRIMERO. La presente reforma entrará en vigor a partir del día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Instituto Electoral de Michoacán, en un plazo no mayor a sesenta días naturales de entrada en vigor la presente reforma, deberá armonizar su normatividad interna.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 328 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 4; 5; 7; LA FRACCIÓN IV DEL ARTÍCULO 8; EL PÁRRAFO CUARTO DEL ARTÍCULO 18; EL PÁRRAFO CUARTO DEL ARTÍCULO 19; EL PÁRRAFO QUINTO DEL ARTÍCULO 21; LAS FRACCIONES XVI, XXXIX Y XL DEL ARTÍCULO 34; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 35; LAS FRACCIONES XI Y XVIII DEL ARTÍCULO 37; LAS FRACCIONES III Y VI DEL ARTÍCULO 52; LAS FRACCIONES III, XI Y XVII DEL ARTÍCULO 53; EL PÁRRAFO PRIMERO DEL ARTÍCULO 56; LA FRACCIÓN VI DEL ARTÍCULO 57; EL PÁRRAFO PRIMERO DEL ARTÍCULO 58; EL PÁRRAFO TERCERO DEL ARTÍCULO 71; EL INCISO N) DEL ARTÍCULO 87; LAS FRACCIONES I Y II DEL INCISO B) DEL ARTÍCULO 112; LOS PÁRRAFOS NOVENO Y DÉCIMO SEXTO DEL ARTÍCULO 169; LAS FRACCIONES II Y IV DEL ARTÍCULO 171; LAS FRACCIONES II Y III DEL PÁRRAFO SEXTO DEL ARTÍCULO 172; ARTÍCULO 174; ARTÍCULO 175; EL INCISO C) DEL PÁRRAFO TERCERO DEL ARTÍCULO 182; LA FRACCIÓN II Y EL PÁRRAFO TERCERO DEL ARTÍCULO 189; EL ARTÍCULO 191; EL ARTÍCULO 193; LOS PÁRRAFOS PRIMERO Y NOVENO DEL ARTÍCULO 194; EL INCISO G), RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES DE LA FRACCIÓN III, EL INCISO L DE LA FRACCIÓN IV, EL INCISO F) DE LA FRACCIÓN VII Y LA FRACCIÓN VIII, DEL ARTÍCULO 230; EL PÁRRAFO PRIMERO DEL ARTÍCULO 232; EL PÁRRAFO SEXTO DEL ARTÍCULO 250; LAS FRACCIONES IX Y X DEL ARTÍCULO 271; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 291; LA (SIC) FRACCIONES I, III Y X DEL ARTÍCULO 311; EL ARTÍCULO 317; LA FRACCIÓN IV DEL ARTÍCULO 318; EL PÁRRAFO PRIMERO DEL ARTÍCULO 324; EL ARTÍCULO 326; Y SE ADICIONAN, LA FRACCIÓN IV AL ARTÍCULO 1; EL ARTÍCULO 3 BIS; SE ADICIONA UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 8; LAS FRACCIONES XLI Y XLII RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 34; LA FRACCIÓN XXI RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 37; EL ARTÍCULO 37 BIS; LA FRACCIÓN XV, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 43; UN PÁRRAFO CUARTO AL ARTÍCULO 51; EL ARTÍCULO 54 BIS; EL INCISO V) BIS RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE DEL ARTÍCULO 87; LA FRACCIÓN VI RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES Y UN PÁRRAFO SEXTO AL ARTÍCULO 158; UN PÁRRAFO QUINTO AL ARTÍCULO 160; EL ARTÍCULO 170 BIS; SE ADICIONA LA FRACCIÓN IV Y V AL PÁRRAFO SEXTO DEL ARTÍCULO 172; EL INCISO D) AL ARTÍCULO 182; EL INCISO K) A LA FRACCIÓN II DEL PRIMER PÁRRAFO, ASÍ COMO UN PÁRRAFO SEXTO AL ARTÍCULO 189; UN PÁRRAFO SEGUNDO AL ARTÍCULO 191; EL ARTÍCULO 237 BIS; EL ARTÍCULO 237 TER; 240 BIS; LOS INCISOS E) Y F) AL ARTÍCULO 254; LA FRACCIÓN IV DEL ARTÍCULO 266; LA FRACCIÓN XI DEL ARTÍCULO 271; UN PÁRRAFO SEGUNDO Y TERCERO AL ARTÍCULO 309; FRACCIÓN XI Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 311; UN PÁRRAFO SEGUNDO AL ARTÍCULO 324; Y SE DEROGAN EL PÁRRAFO QUINTO DEL ARTÍCULO 19; EL PÁRRAFO SEXTO DEL ARTÍCULO 21; LA FRACCIÓN VII DEL ARTÍCULO 52; LOS ARTÍCULOS 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 135, 136, 137, 138, 139, 140, 141, 142; EL PÁRRAFO DÉCIMO NOVENO DEL ARTÍCULO 169; LOS INCISOS B), D) Y E) DE LA FRACCIÓN II DEL ARTÍCULO 189; EL INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 230; EL INCISO A) DEL ARTÍCULO 254, TODOS DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se instruye al Instituto Electoral de Michoacán a que modifique el calendario de ministraciones a que se refiere el artículo 112, inciso b), fracción II del presente decreto para la ministración del financiamiento público para la obtención del voto. De igual forma, deberá de hacer los ajustes necesarios en el presupuesto del Instituto, en la parte de las prerrogativas de los partidos políticos, a efecto de modificar lo relativo al financiamiento público para la obtención del voto para los partidos e incorporarlo en el presupuesto de 2021.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 329.- ÚNICO. SE REFORMA LA FRACCIÓN XIII Y SE ADICIONA LA FRACCIÓN XIV, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 3; SE ADICIONAN LAS FRACCIONES XXXIX BIS Y XXXIX TER AL ARTÍCULO 34 RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES; SE REFORMA EL ARTÍCULO 69 A), SE MODIFICA EL NOMBRE DEL TÍTULO SEXTO; SE REFORMA LA FRACCIÓN I EN LOS INCISOS C) Y F) DEL ARTÍCULO 192; SE REFORMA EL NOMBRE DEL CAPÍTULO SEGUNDO DEL TÍTULO SEXTO; SE ADICIONAN LOS ARTÍCULOS 196 BIS, 196 TER Y 196 QUATER; SE REFORMA LA FRACCIÓN II Y SE ADICIONAN LAS FRACCIONES III Y IV DEL INCISO E), Y SE ADICIONA EL INCISO I) CON LAS FRACCIONES I Y II TODAS DEL ARTÍCULO 231; SE REFORMA EL ARTÍCULO 240; SE ADICIONAN LOS ARTÍCULOS 240 TER Y 240 QUATER; SE REFORMA EL ARTÍCULO 241; SE ADICIONAN LOS ARTÍCULOS 241 BIS, 241 TER Y 241 QUATER; SE REFORMA EL OCTAVO PÁRRAFO DEL ARTÍCULO 243, Y SE REFORMAN EL INCISO D) DEL PRIMER PÁRRAFO Y EL INCISO A) DEL TERCER PÁRRAFO DEL ARTÍCULO 257; TODOS DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
