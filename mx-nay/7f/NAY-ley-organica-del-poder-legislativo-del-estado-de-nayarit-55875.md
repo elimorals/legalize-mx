@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2018-12-07"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -112,6 +112,10 @@ La sede del Congreso será la Ciudad de Tepic, Capital del Estado de Nayarit, y 
 ###### Artículo 6º.
 
 El recinto oficial del Congreso es el lugar en donde se reúnen los diputados para sesionar, y sólo por acuerdo de la mayoría calificada de sus miembros podrá trasladarse provisionalmente a otro lugar de la entidad.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+La Comisión de Gobierno podrá autorizar la celebración y desahogo de sesiones del Pleno y reuniones de trabajo de las comisiones de manera virtual, cuando exista un desastre natural, contingencia ambiental o de salud que las justifique, utilizando las tecnologías de la información y comunicación a distancia, la celebración de dichas sesiones y reuniones serán válidas cumpliendo Quórum legal y sus actos serán válidos reuniendo la votación establecida.
 
 ###### Artículo 7º.
 
@@ -459,9 +463,17 @@ VIII. Proponer ante la Asamblea el nombramiento de los integrantes de las comisi
 
 IX. Resolver lo conducente sobre las licencias de los Diputados, del Secretario General, Oficial Mayor y titulares administrativos a su cargo;
 
-X. Organizar y coordinar el área de Oficialía de Partes; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XI. Las demás que se deriven de esta ley, su reglamento y las que determine la Asamblea Legislativa.
+X. Organizar y coordinar el área de Oficialía de Partes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2020)</small>
+
+XI. Autorizar la celebración y el desahogo de sesiones del Pleno o reuniones de trabajo de las comisiones de manera virtual, considerando la necesidad por algún desastre natural, contingencia ambiental o de salud, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2020)</small>
+
+XII. Las demás que se deriven de esta ley, su reglamento y las que determine la Asamblea Legislativa.
 
 ###### Artículo 36.
 
@@ -1171,9 +1183,17 @@ VI. El número y periodicidad de las sesiones en un período extraordinario, se 
 
 VII. Queda prohibida toda manifestación y utilización de cualquier medio que se contraponga a las formalidades, solemnidad y desahogo de los trabajos plenarios;
 
-VIII. En toda sesión solemne quedan prohibidas las interpelaciones; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-IX. Para su registro oficial, corresponde exclusivamente al Congreso por conducto de la dependencia competente, registrar en audio, video y trascripción estenográfica la memoria de los trabajos parlamentarios y legislativos.
+VIII. En toda sesión solemne quedan prohibidas las interpelaciones;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+IX. Para su registro oficial, corresponde exclusivamente al Congreso por conducto de la dependencia competente, registrar en audio, video y transcripción estenográfica la memoria de los trabajos parlamentarios y legislativos, y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+X. La Comisión de Gobierno podrá autorizar llevar a cabo sesiones del Pleno o reuniones de trabajo de las comisiones de manera virtual, considerando la necesidad por algún desastre natural, contingencia ambiental o de salud.
 
 ### CAPÍTULO III. TRÁMITES LEGISLATIVOS
 
@@ -1654,3 +1674,9 @@ P.O. 7 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 72 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
