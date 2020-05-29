@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2019-05-17"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -510,6 +510,10 @@ La edad mínima para contraer matrimonio son los 18 años.
 ###### Artículo 44.
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2020)</small>
+
+Queda prohibido el uso de cualquier tipo de violencia, en especial el castigo corporal en todos los ámbitos, como método correctivo o disciplinario a niñas, niños o adolescentes.
 
 ###### Artículo 45.
 
@@ -1792,3 +1796,9 @@ P.O. 17 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 333 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 93 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente después al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 70 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 44 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
