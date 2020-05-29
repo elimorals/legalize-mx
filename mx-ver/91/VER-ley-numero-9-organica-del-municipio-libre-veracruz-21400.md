@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2020-02-13"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -355,17 +355,19 @@ El Cabildo es la forma de reunión del Ayuntamiento donde se resuelven, de maner
 
 Los acuerdos de Cabildo se tomarán por mayoría de votos de los presentes, salvo en aquellos casos en que la Constitución del Estado y esta ley exijan mayoría calificada. En caso de empate, el Presidente Municipal tendrá voto de calidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE MAYO DE 2020)</small>
+
 ###### Artículo 29.
 
-Los Ayuntamientos celebrarán al menos dos Sesiones Ordinarias cada mes, en los términos que señalen sus reglamentos interiores; asimismo, podrán celebrar las Sesiones Extraordinarias que estimen convenientes, cuando ocurriere algún asunto urgente o lo pidiere alguno de los Ediles.
+Los Ayuntamientos celebrarán al menos dos Sesiones Ordinarias cada mes, en los términos que señalen sus reglamentos interiores y al menos una Sesión de Cabildo abierto bimestralmente, en los términos que dispone la Ley Estatal de Participación Ciudadana y Gobierno Abierto; asimismo, podrán celebrar las Sesiones Extraordinarias que estimen convenientes, cuando ocurriere algún asunto urgente o lo pidiere alguno de los Ediles.
 
 Para que el Ayuntamiento pueda celebrar sus sesiones será necesario que estén presentes la mitad más uno de los Ediles, entre los que deberá estar el Presidente Municipal.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2020)</small>
 
 ###### Artículo 30.
 
-El resultado de las sesiones se hará constar en actas que contendrán una relación sucinta de los puntos tratados y acuerdos. Estas actas se levantarán en un libro foliado y, una vez aprobadas, las firmarán todos los presentes y el secretario del Ayuntamiento. Con una copia del acta y los documentos relativos se formará un expediente, con estos un volumen cada semestre. Las actas y los acuerdos respectivos serán publicados en la página de transparencia y en la tabla de avisos.
+El resultado de las sesiones se hará constar en actas que contendrán una relación sucinta de los puntos tratados y acuerdos. Estas actas se levantarán en un libro foliado y, una vez aprobadas, las firmarán todos los presentes y el secretario del Ayuntamiento. Con una copia del acta y los documentos relativos se formará un expediente, con éstos un volumen cada semestre. Las actas y los acuerdos respectivos serán publicados en la página de transparencia y en la tabla de avisos; y en el caso de las actas levantadas en las sesiones de Cabildo abierto, deberá remitirse una copia de éstas al Congreso del Estado de manera digital, dentro de los diez días siguientes de haberse celebrado, para el efecto del registro correspondiente.
 
 ###### Artículo 31.
 
@@ -4406,3 +4408,13 @@ G.O. 13 DE FEBRERO DE 2020.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 564 QUE REFORMA LOS ARTÍCULOS 29 Y 30 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. En un plazo no mayor a los sesenta días naturales, contado a partir de la entrada en vigor de este Decreto, los Ayuntamientos deberán realizar las adecuaciones a sus Reglamentos Municipales, conforme a lo previsto en la presente reforma.
+
+Tercero. Se derogan todas las disposiciones que contravengan al presente Decreto.
