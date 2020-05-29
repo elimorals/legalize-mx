@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-177-de-instituciones-y-procedimientos-101678"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2020-01-30"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 30 DE ENERO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en el Número 52 Sección I del Boletín Oficial del Estado de Sonora, el lunes 30 de junio de 2014.
 
@@ -133,13 +131,29 @@ XXXI.- Actos anticipados de precampaña: las expresiones que se realicen, bajo c
 
 XXXII.- Precandidato: es el ciudadano que pretende ser postulado por un partido político como candidato a cargo de elección popular, conforme a esta Ley y a los estatutos de un partido político, en el proceso de selección interna de candidatos a cargos de elección popular;
 
-> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-XXXIII.- Ciudadanos: las personas que, teniendo la calidad de mexicanos, reúnan los requisitos determinados en el artículo 34 de la Constitución Federal; y
+XXXIII.- Ciudadanos: las personas que, teniendo la calidad de mexicanos, reúnan los requisitos determinados en el artículo 34 de la Constitución Federal;
 
-> <small>(ADICIONADA, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-XXXIV.- Candidatura común: La que realizan dos o más partidos políticos para un mismo cargo de elección popular.
+XXXIV.- Candidatura común: La que realizan dos o más partidos políticos para un mismo cargo de elección popular;
+
+> <small>(ADICIONADA, B.O. 29 DE MAYO DE 2020)</small>
+
+XXXV.- Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación; y
+
+> <small>(ADICIONADA, B.O. 29 DE MAYO DE 2020)</small>
+
+XXXVI.- La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 ## TÍTULO SEGUNDO. De la participación de los ciudadanos en las elecciones
 
@@ -161,9 +175,11 @@ El Consejo General del Instituto Estatal aprobará los lineamientos que permitan
 
 Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político promoverá recursos correspondientes al financiamiento público ordinario, para la elaboración, publicación y distribución de libros revistas o folletos relacionados a la igualdad de género, así como para la organización de mesas, conferencias o talleres relacionadas a este fin.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE MAYO DE 2020)</small>
+
 ###### Artículo 6.
 
-Son derechos político-electorales de los ciudadanos mexicanos, los siguientes:
+Son derechos político-electorales de las ciudadanas y los ciudadanos mexicanos, los siguientes:
 
 I.- Asociarse o reunirse, pacíficamente, para tomar parte en los asuntos políticos del país;
 
@@ -184,6 +200,10 @@ V.- Ser votado para todos los puestos de elección popular, cumpliendo los requi
 VI.- Solicitar su registro de candidato de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine esta Ley; y
 
 VII.- Integrar organismos electorales, siempre que cumplan con los requisitos que exijan las leyes aplicables;
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+Los derechos político-electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 7.
 
@@ -327,9 +347,11 @@ V.- Insertar en su propaganda la leyenda "aspirante a candidato independiente"; 
 
 VI.- Los demás establecidos por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE MAYO DE 2020)</small>
+
 ###### Artículo 25.
 
-Son obligaciones de los aspirantes a candidatos independientes:
+Son obligaciones de las personas aspirantes a candidaturas independientes:
 
 I.- Conducirse con respeto irrestricto a lo dispuesto a la Constitución Federal, Constitución Local, la Ley General y la presente Ley;
 
@@ -355,7 +377,9 @@ g) Las personas que vivan o trabajen en el extranjero.
 
 V.- Abstenerse de realizar, por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
 
-VI.- Abstenerse de difamar, calumniar, proferir ofensas o, en general, cualquier otra expresión que denigre a otros aspirantes o precandidatos, partidos políticos, coaliciones, personas, instituciones públicas o privadas;
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+VI.- Abstenerse de ejercer violencia política contra las mujeres en razón de género o de recurrir a expresiones que degraden, denigren, o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, coaliciones, personas, instituciones públicas o privadas;
 
 VII.- Rendir el informe de ingresos y egresos;
 
@@ -525,9 +549,11 @@ VI.- Solicitar, a los organismos electorales, copia de la documentación elector
 
 VI (Sic).- Las demás que les otorgue esta Ley y los demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE MAYO DE 2020)</small>
+
 ###### Artículo 39.
 
-Son obligaciones de los candidatos independientes registrados:
+Son obligaciones de las candidatas y los candidatos independientes registrados:
 
 I.- Conducirse con respeto irrestricto a lo dispuesto en la Constitución Federal, la Constitución Local y en la presente Ley;
 
@@ -559,7 +585,9 @@ VII.- Depositar únicamente en la cuenta bancaria aperturada sus aportaciones y 
 
 VIII.- Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-IX.- Abstenerse de difamar, calumniar o proferir ofensas y, en general, cualquier expresión que denigre a otros candidatos, partidos políticos, coaliciones, personas, instituciones públicas o privadas;
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+IX.- Abstenerse de ejercer violencia política contra las mujeres en razón de género o de recurrir a expresiones que degraden, denigren o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas;
 
 X.- Insertar en su propaganda, de manera visible, la leyenda: “candidato independiente”;
 
@@ -799,11 +827,17 @@ IV.- Estimular discusiones sobre propósitos comunes y deliberaciones sobre obje
 
 V.- Fomentar la cultura y la observancia de los principios democráticos en el desarrollo de sus actividades y la vida política del Estado;
 
-VI.- Promover los valores cívicos y la cultura democrática entre niñas, niños y adolescentes y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como la postulación de candidatos; y
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
+VI.- Promover los valores cívicos y la cultura democrática entre niñas, niños y adolescentes y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como la postulación de candidatos;
 
-VII.- Determinar y hacer públicos los criterios para garantizar la igualdad de género en las candidaturas a diputados y planillas de ayuntamiento.
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+VII.- Determinar y hacer públicos los criterios para garantizar la igualdad de género en las candidaturas a diputados y planillas de ayuntamiento; y
+
+> <small>(ADICIONADA, B.O. 29 DE MAYO DE 2020)</small>
+
+VIII.- Garantizar a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, en los términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
 ###### Artículo 74.
 
@@ -852,6 +886,10 @@ En todo caso, la pérdida del derecho a que se refiere la presente Ley no tendr�
 Son derechos, obligaciones y prerrogativas de los partidos políticos, los contenidos en el título segundo, capítulos III y IV de la Ley General de Partidos Políticos y los demás establecidos en la Ley General y en la presente Ley.
 
 En cuanto a la organización interna de los partidos políticos y respecto al acceso a la radio y televisión se estará a lo dispuesto en los títulos tercero y cuarto de la Ley General de Partidos Políticos.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+Cuando se acredite violencia política contra las mujeres en uso de las prerrogativas referidas en el párrafo anterior, el Consejo General del Instituto Estatal, dará vista al Instituto Nacional Electoral para que proceda de manera inmediata en términos de lo dispuesto en el artículo 163 de la Ley General.
 
 ###### Artículo 83.
 
@@ -1251,9 +1289,17 @@ III.- Asegurar, a los ciudadanos, el ejercicio de los derechos político-elector
 
 IV.- Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los poderes legislativo y ejecutivo, así como de la totalidad de los ayuntamientos en el estado;
 
-V.- Velar por la autenticidad y efectividad del sufragio; y
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-VI.- Llevar a cabo la promoción del voto y coadyuvar a la difusión de la educación cívica y la cultura democrática.
+V.- Velar por la autenticidad y efectividad del sufragio;
+
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+VI.- Llevar a cabo la promoción del voto y coadyuvar a la difusión de la educación cívica y la cultura democrática; y
+
+> <small>(ADICIONADA, B.O. 29 DE MAYO DE 2020)</small>
+
+VII.- Garantizar la paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral.
 
 ###### Artículo 111.
 
@@ -1293,9 +1339,9 @@ XIII.- Ejercer la función de oficialía electoral respecto de actos o hechos ex
 
 XIV.- Informar a la Unidad Técnica de Vinculación con los organismos públicos locales, sobre el ejercicio de las funciones que, en su caso, le hubiere delegado el Instituto Nacional;
 
-> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-XV.- Vigilar el cumplimiento del principio de igualdad de género, con base a las reglas establecidas en la presente Ley; y
+XV.- Garantizar el cumplimiento del principio de paridad de género, así como el respeto de los derechos políticos y electorales de las mujeres; y
 
 > <small>(ADICIONADA, B.O. 25 DE MAYO DE 2017)</small>
 
@@ -1325,11 +1371,11 @@ Sección A
 
 Del Consejo General
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
 
 ###### Artículo 114.
 
-El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral y de participación ciudadana, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, guíen todas las actividades del Instituto Estatal con perspectiva de género.
+El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral y de participación ciudadana, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género guíen todas las actividades del Instituto Estatal. En su desempeño aplicará la perspectiva de género.
 
 > <small>(REFORMADO, B.O. 25 DE MAYO DE 2017)</small>
 
@@ -1401,7 +1447,9 @@ IV.- Designar a los funcionarios que durante los procesos electorales actuarán 
 
 V.- Resolver sobre los convenios de fusión, frente, coalición y candidaturas comunes, que celebren los partidos políticos, así como sobre los acuerdos de participación que efectúen las agrupaciones políticas con los partidos políticos;
 
-VI.- Vigilar que las actividades de los partidos políticos, precandidatos, candidatos y las agrupaciones políticas se desarrollen con apego a esta Ley y cumplan con las obligaciones a que están sujetos;
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+VI.- Vigilar que las actividades de los partidos políticos y las agrupaciones políticas estatales se desarrollen con apego a esta Ley, la Ley General de Partidos Políticos, así como los lineamientos que emita el INE, y este Instituto para que los partidos políticos prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género, y vigilar que cumplan con las obligaciones a que están sujetos;
 
 VII.- Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidatos, en términos de la Ley General de Partidos Políticos y la presente Ley;
 
@@ -2377,17 +2425,25 @@ El gobernador del estado tomará posesión de su cargo el día 13 de septiembre 
 
 El Ejercicio del Poder Legislativo del estado se depositará en una Asamblea de Representantes del Pueblo, denominada "Congreso del estado de Sonora".
 
-El Congreso del estado estará integrado por 21 diputados propietarios y sus respectivos suplentes, electos en forma directa por el principio de mayoría relativa, en igual número de distritos uninominales, y hasta por 12 diputados electos por el principio de representación proporcional, conforme a las siguientes disposiciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE MAYO DE 2020)</small>
 
-I.- Se elegirá un diputado por el principio de mayoría relativa, en cada uno de los distritos electorales; en el caso de municipios que abarquen dos o más Distritos Electorales en su demarcación, bastará con acreditar la vecindad y residencia en dicho municipio para contender por el cargo de diputado en cualquiera de los Distritos que lo integran.
+El Congreso estará integrado por 21 diputadas y diputados propietarios y sus respectivos suplentes, electos en forma directa por el principio de mayoría relativa, en igual número de distritos uninominales, y hasta por 12 diputadas y diputados electos por el principio de representación proporcional, conforme a las siguientes disposiciones:
 
-II.- Se asignarán hasta doce diputados de representación proporcional de conformidad con lo siguiente:
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+I.- Se elegirá una diputada o diputado por el principio de mayoritaria relativa, en cada uno de los distritos electorales; en el caso de municipios que abarquen dos o más Distritos Electorales en su demarcación, bastará con acreditar la vecindad y residencia en dicho municipio para contender por el cargo de diputada o diputado en cualquiera de los Distritos que lo integran. En caso de que un partido político, ya sea por sí solo, como coalición o en candidatura común, registre un número impar de candidaturas por el principio de votación mayoritaria relativa, deberá alternar el género mayoritario cada período electivo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE MAYO DE 2020)</small>
+
+II.- Se asignarán hasta doce diputaciones por el principio de representación proporcional de conformidad con lo siguiente:
 
 a) A todos los partidos políticos que hayan obtenido por lo menos el 3 % del total de la votación estatal emitida, se les asignará una diputación; y
 
 b) La fórmula para asignar las diputaciones de representación proporcional restantes, en su caso, tiene dos elementos: cociente natural y resto mayor.
 
-Las asignaciones a que se refieren la fracción II se realizarán mediante un sistema de listas de 12 fórmulas a diputados por el principio de representación proporcional que registrarán los partidos políticos ante el Instituto Estatal. Cada formula estará compuesta por un candidato a diputado propietario y un suplente, los cuales deberán ser del mismo género. En las listas los partidos políticos definirán el orden de preferencia, donde colocarán en forma sucesiva a una fórmula de género femenino seguida de una fórmula de género masculino, o viceversa, de tal modo que el mismo género no se encuentre en dos lugares consecutivos.
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
+
+Las asignaciones a que se refieren la fracción II se realizarán mediante un sistema de listas de 12 fórmulas a diputaciones por el principio de representación proporcional que registrarán los partidos políticos ante el Instituto Estatal. Cada fórmula estará compuesta por una o un candidato a diputado propietario y un o una suplente, quienes deberán ser del mismo género. En las listas los partidos políticos definirán el orden de prelación, colocando en forma sucesiva a una fórmula de género femenino seguida de una fórmula de género masculino, o viceversa, de tal modo que el mismo género no se encuentre en dos lugares consecutivos. La lista que registre cada partido político será encabezada por un género distinto al que encabezó el registro en el proceso electoral inmediato anterior.
 
 En ningún caso, un partido político podrá contar con un número de diputados, por ambos principios, que representen un porcentaje del total de la Legislatura que exceda en 8 puntos su porcentaje de votación válida emitida en la elección que se trate. Esta base no se aplicará al partido político que por sus triunfos en los distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida, más el 8%. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación válida que hubiere recibido menos 8 puntos porcentuales.
 
@@ -2409,47 +2465,55 @@ La geografía electoral será determinada en distritos electorales y su divisió
 
 La base de la división territorial, política y administrativa del Estado de Sonora será el municipio libre que estará gobernado por un Ayuntamiento de elección popular directa.
 
-Los ayuntamientos serán órganos colegiados deliberantes, integrados por un presidente municipal, un síndico y los regidores que sean designados por sufragio popular, directo, libre y secreto. En el caso de los regidores, habrá también de representación proporcional, en términos de la presente Ley. Por cada síndico y regidor propietario será elegido un suplente, el cual deberá ser del mismo género, así como un regidor étnico propietario y suplente en los municipios donde tienen su origen y se encuentran asentadas las etnias respectivas; estos últimos serán designados conforme a los usos y costumbres de dicha etnia, de acuerdo a lo estipulado en la presente Ley, garantizando la participación de hombres y mujeres, en condiciones de igualdad.
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
 
-La Ley de Gobierno y Administración Municipal determinará el número de regidores de mayoría relativa y de representación proporcional que corresponda a cada Ayuntamiento.
+Los ayuntamientos serán órganos colegiados deliberantes, integrados por un presidente o una presidenta municipal, un o una síndico y las y los regidores que sean electas y electos por sufragio popular, directo, libre y secreto. En el caso de las regidurías, se designarán también por el principio de representación proporcional, en términos de la presente Ley. Las planillas de candidatas y candidatos se compondrán, para los casos de las sindicaturas y regidurías, por fórmulas de propietarias o propietarios y suplentes, cada fórmula deberá integrarse por personas del mismo género. El (sic) los municipios con población indígena habrá una o un regidor étnico propietario y su suplente en los municipios donde tienen su origen y se encuentran asentadas las etnias respectivas, si a la fórmula de regiduría étnica se le designa como propietario a un hombre, la suplente deberá ser mujer, si a la fórmula de regiduría étnica se le designa como propietaria a una mujer, la suplente deberá ser del mismo género. La designación de las fórmulas de regidurías étnicas se realizará conforme a los usos y costumbres de dicha etnia, observando el principio de paridad de género, conforme a las normas aplicables.
 
-> <small>(ADICIONADO, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
 
-Los presidentes municipales, síndicos y regidores de los ayuntamientos, electos popularmente por elección directa, podrán ser reelectos para un periodo adicional para el mismo cargo, sin que la suma de dichos periodos exceda de seis años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato, en término (sic) de lo dispuesto en el artículo 35, fracción II, de la Constitución Federal y los aplicables de la Ley General, con excepción de los candidatos independientes.
+La Ley de Gobierno y Administración Municipal determinará el número de regidurías de mayoría relativa y de representación proporcional que corresponda a cada Ayuntamiento.
 
-> <small>(ADICIONADO, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
 
-Los integrantes de los ayuntamientos que se encuentren en ejercicio y pretendan su elección consecutiva deberán separarse de sus cargos, a más tardar un día antes de la fecha en que presente su registro como candidato. Si algún integrante del ayuntamiento decide no ejercer su derecho a la reelección, esto no invalidará el derecho que el resto tiene a su favor, al momento de solicitarlo a través del partido o coalición que lo postuló.
+Las personas electas popularmente por elección directa en las presidencias municipales, en las sindicaturas o en las regidurías de los ayuntamientos, podrán ser reelectas para un periodo adicional para el mismo cargo, sin que la suma de dichos periodos exceda de seis años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato, en término de lo dispuesto en el artículo 35, fracción II, de la Constitución Federal y los aplicables de la Ley General, con excepción de las y los candidatos independientes.
+
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
+
+Las y los integrantes de los ayuntamientos que se encuentren en ejercicio y pretendan su elección consecutiva, deberán separarse de sus cargos, a más tardar un día antes de la fecha en que presente su registro como candidata o candidato. Si algún integrante del ayuntamiento decide no ejercer su derecho a la reelección, esto no invalidará el derecho que el resto tiene a su favor, al momento de solicitarlo a través del partido o coalición que lo postuló.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE MAYO DE 2020)</small>
 
 ###### Artículo 173.
 
-Para efecto de dar cumplimiento a la designación del regidor étnico, conforme a lo establecido en el artículo anterior, se observará el procedimiento siguiente:
+Para efecto de dar cumplimiento a la designación de la regiduría étnica, conforme a lo establecido en el artículo anterior, se observará el procedimiento siguiente:
 
-> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-I.- El Consejero Presidente del Consejo General, solicitará a la Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas, dentro de los primeros 15 días del mes de enero del año de la jornada electoral, un informe donde se advierta el origen y lugar donde se encuentran asentadas las etnias locales en los municipios del estado, así como el territorio que comprende, su forma de gobierno, los procedimientos de elección de sus representantes y los nombres de las autoridades de las etnias, ante ella registradas o reconocidas; una vez recibida la solicitud, la Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas, tendrá un plazo no mayor a 15 días naturales, contados a partir de la recepción de la solicitud para informar lo correspondiente;
+I.- La o el Consejero Presidente del Consejo General, solicitará a la Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas, dentro de los primeros 15 días del mes de enero del año de la jornada electoral, un informe donde se advierta el origen y lugar donde se encuentran asentadas las etnias locales en los municipios del estado, así como el territorio que comprende, su forma de gobierno, los procedimientos de elección de sus representantes y los nombres de las autoridades de las etnias, ante ella registradas o reconocidas; una vez recibida la solicitud, la Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas, tendrá un plazo no mayor a 15 días naturales, contados a partir de la recepción de la solicitud para informar lo correspondiente;
 
-> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-II.- Durante el mes de febrero del año de la jornada electoral y de conformidad con la información señalada en la fracción anterior, el consejero presidente requerirá, mediante oficio, a las autoridades étnicas para que nombren, de conformidad con sus usos y costumbres, un regidor propietario y su suplente correspondiente. El nombramiento que realicen las autoridades étnicas del respectivo regidor étnico propietario y su suplente deberán comunicarlo, por escrito, al Instituto Estatal, en un plazo no mayor a 30 días naturales;
+II.- Durante el mes de febrero del año de la jornada electoral y de conformidad con la información señalada en la fracción anterior, la o el consejero presidente requerirá, mediante oficio, a las autoridades étnicas para que nombren, de conformidad con sus usos y costumbres, una o un regidor propietario y su suplente correspondiente. El nombramiento que realicen las autoridades étnicas de la fórmula de regiduría étnica deberán comunicarlo, por escrito, al Instituto Estatal, en un plazo no mayor a 30 días naturales;
 
-> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-III.- En caso de presentarse más de una propuesta por existir más de una autoridad registrada o reconocida y con facultades para efectuar la propuesta en un mismo municipio, el Consejo General citará a cada una de las autoridades étnicas para que, durante el mes de abril y en sesión pública, realice en su presencia la insaculación de quién será el regidor étnico propietario y suplente correspondiente. Una vez realizada la insaculación, las autoridades étnicas firmarán, en el mismo acto, el acuerdo de conformidad respectivo;
+III.- En caso de presentarse más de una propuesta por existir más de una autoridad registrada o reconocida y con facultades para efectuar la propuesta en un mismo municipio, el Consejo General citará a cada una de las autoridades étnicas para que, durante el mes de abril y en sesión pública, realice en su presencia la insaculación de quién será la fórmula de regiduría étnica correspondiente. Una vez realizada la insaculación, las autoridades étnicas firmarán, en el mismo acto, el acuerdo de conformidad respectivo;
 
 > <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
 
 IV.- De no presentarse propuesta alguna por parte de las autoridades étnicas registradas o reconocidas por la autoridad estatal en la materia, corresponderá exclusivamente al Consejo General, conocer y decidir sobre las propuestas extemporáneas que se presenten;
 
-> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-V.- El Consejo General otorgará la constancia de designación de regidor étnico propietario y suplente correspondiente y notificará al ayuntamiento respectivo dicha designación para que éste le tome la protesta de ley y asuma el cargo de referencia;
+V.- El Consejo General otorgará la constancia de designación de las y los integrantes de la fórmula de regiduría étnica correspondiente quince días después de la jornada electoral, el cual formará parte en la integración total del Ayuntamiento;
 
-> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-VI.- De no presentarse los regidores étnicos designados a la toma de protesta, el ayuntamiento correspondiente notificará de inmediato al Instituto Estatal para que éste aperciba a las autoridades de la etnia para que los designados se presenten a rendir la protesta constitucional, en un término no mayor de 30 días naturales después de instalado el nuevo ayuntamiento o efectúen las sustituciones que correspondan, conforme a sus usos y costumbres; y
+VI.- De no presentarse la o el regidor étnico designado a la toma de protesta, el ayuntamiento correspondiente notificará de inmediato al Instituto Estatal para que éste aperciba a las autoridades de la etnia para que el o la regidora designada se presente a rendir la protesta constitucional, en un término no mayor de 30 días naturales después de instalado el nuevo ayuntamiento o efectúen las sustituciones que correspondan, conforme a sus usos y costumbres; y
 
-VII.- Por ningún motivo y bajo ninguna circunstancia, el Consejo General dejará de realizar la designación a que se refiere el presente artículo ni se podrá impedir a los regidores étnicos designados por el Consejo General, asumir el cargo correspondiente, para lo cual, de ser necesario, el Congreso del Estado o su Diputación Permanente tomará la protesta correspondiente.
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+VII.- Por ningún motivo y bajo ninguna circunstancia, el Consejo General dejará de realizar la designación a que se refiere el presente artículo ni se podrá impedir a los o las regidoras étnicas designadas por el Consejo General, asumir el cargo correspondiente, para lo cual, de ser necesario, el Congreso del Estado o su Diputación Permanente tomará la protesta correspondiente.
 
 ###### Artículo 174.
 
@@ -2661,29 +2725,27 @@ II.- La de diputados por el principio de mayoría relativa, indistintamente, ant
 
 III.- Las planillas de ayuntamientos, ante el Consejo Municipal correspondiente al municipio que se pretenda contender y, de manera excepcional y justificada, ante el Instituto Estatal.
 
-> <small>(REFORMADO, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
 
 ###### Artículo 196.
 
-Los consejos distritales y municipales que reciban una solicitud de registro de candidatos, deberán emitir un dictamen sobre la verificación de los requisitos constitucionales y legales de cada uno de ellos, a excepción del correspondiente a igualdad de género y remitirlo a la Secretaria Ejecutiva del Instituto Estatal, en un plazo no mayor a 2 días naturales, contados a partir de su recepción, acompañando la totalidad de las constancias originales que integren la solicitud de registro, debiendo remitirlas previamente en forma digitalizada. Para cumplir lo anterior, el Consejero Presidente del Consejo Distrital o Municipal respectivo, citará a los consejeros electorales y al Secretario Técnico, a reunión de trabajo, de manera inmediata, por cada solicitud que se presente. La Secretaría Ejecutiva emitirá los formatos correspondientes para dar cumplimiento a lo dispuesto en el presente párrafo.
+Los consejos distritales y municipales que reciban una solicitud de registro de candidaturas, deberán emitir un dictamen sobre la verificación de los requisitos constitucionales y legales por cada registro, a excepción del correspondiente al principio de paridad de género y remitirlo a la Secretaria Ejecutiva del Instituto Estatal, en un plazo no mayor a 2 días naturales, contados a partir de su recepción, acompañando la totalidad de las constancias originales que integren la solicitud de registro, debiendo remitirlas previamente de forma digitalizada. Para el cumplimiento de lo anterior, el o la Consejera Presidenta del Consejo Distrital o Municipal respectivo, citará a las y los consejeros electorales y a el o la Secretaria Técnico (sic), a reunión de trabajo, de manera inmediata, por cada solicitud que se presente. La Secretaría Ejecutiva emitirá los formatos correspondientes para dar cumplimiento a lo dispuesto en el presente párrafo.
 
-Vencidos los términos señalados en el artículo 194 de la presente Ley, la Secretaría Ejecutiva notificará, dentro de los 6 días naturales siguientes, a los representantes de los partidos políticos o coaliciones, en su caso, que no hayan cumplido con alguno de los requisitos previstos en los artículos 192, 199 y 200 de la Ley, incluyendo, en su caso, el incumplimiento al principio de igualdad de género en los candidatos a diputados por ambos principios, así como la igualdad vertical y horizontal en las planillas de ayuntamiento, conforme a las reglas siguientes:
+Vencidos los términos señalados en el artículo 194 de la presente Ley, la Secretaría Ejecutiva notificará, dentro de los 6 días naturales siguientes, a las personas representantes de los partidos políticos o coaliciones, en su caso, que no hayan cumplido con alguno de los requisitos previstos en los artículos 192, 199 y 200 de la Ley, incluyendo, en su caso, el incumplimiento al principio de paridad de género en las candidaturas a diputaciones por ambos principios, así como la igualdad vertical y horizontal en las planillas de ayuntamiento, conforme a las reglas siguientes:
 
-I.- Para candidaturas a diputados por mayoría relativa, la Secretaría Ejecutiva verificará que de la totalidad de solicitudes de registro que presenten los partidos políticos o coaliciones, cumplan con la igualdad de género y la homogeneidad en sus fórmulas, compuestas cada una por un propietario y un suplente del mismo género.
+I.- Para candidaturas a diputaciones por mayoría relativa, la Secretaría Ejecutiva verificará que de la totalidad de solicitudes de registro que presenten los partidos políticos o coaliciones, cumplan con el principio de paridad de género y la homogeneidad en sus fórmulas, compuestas cada una por un propietario y un suplente del mismo género.
 
-II.- Para candidaturas a diputados de representación proporcional, la Secretaría Ejecutiva verificará que las listas de candidatos que presenten los partidos políticos o coaliciones, cumplan con la igualdad de género y homogeneidad en las fórmulas, compuestas cada una por un propietario y un suplente del mismo género. De igual forma, se verificará que en las listas, las fórmulas sean integradas en forma sucesiva e intercalada entre ambos géneros con el fin de cumplir con el principio de alternancia.
+II.- Para candidaturas a diputaciones de representación proporcional, la Secretaría Ejecutiva verificará que las listas de candidaturas que presenten los partidos políticos cumplan con el principio de paridad de género y homogeneidad en las fórmulas, compuestas cada una por una o un propietario y una o un suplente del mismo género. De igual forma, se verificará que, en las listas, las fórmulas sean integradas en forma sucesiva e intercalada entre ambos géneros con el fin de cumplir con el principio de alternancia.
 
-III.- Para candidaturas de ayuntamientos, la Secretaría Ejecutiva verificará que de la totalidad de solicitudes de registro de planillas que presenten los partidos políticos o coaliciones, cumplan con la paridad vertical y homogeneidad en las fórmulas, compuestas cada una por un propietario y un suplente del mismo género. De igual forma verificará que en la postulación de presidente y síndico, se conformen por géneros distintos, y que el resto de la planilla del ayuntamiento de que se trate se integre en forma sucesiva e intercalada entre ambos géneros con el fin de cumplir con el principio de alternancia. Asimismo, se verificará el cumplimiento de la igualdad horizontal, para efectos de asegurar la postulación de 50% de candidatas y 50% de candidatos, respecto de la totalidad de candidaturas a presidentes municipales.
+III.- Para candidaturas de ayuntamientos, la Secretaría Ejecutiva verificará que de la totalidad de solicitudes de registro de planillas que presenten los partidos políticos o coaliciones, cumplan con la paridad vertical y homogeneidad en las fórmulas, compuestas cada una por un propietario y un suplente del mismo género. De igual forma verificará que en la postulación a las presidencias municipales y a las sindicaturas, se conformen por géneros distintos, y que el resto de la planilla del ayuntamiento de que se trate se integre en forma sucesiva e intercalada entre ambos géneros con el fin de cumplir con el principio de alternancia. Asimismo, se verificará el cumplimiento de la igualdad horizontal, para efectos de asegurar la postulación de 50% de candidatas y 50% de candidatos, respecto de la totalidad de candidaturas a las presidencias municipales.
 
-Los criterios señalados en el presente artículo serán regla única para su estricta aplicación y observancia.
+Los partidos políticos o coaliciones, en su caso, que se encuentren en algún supuesto de incumplimiento señalado en este mismo numeral, tendrán un plazo de 5 días naturales, contados a partir de la notificación a sus representantes, para que subsanen lo que corresponda. Para efecto de lo dispuesto en los párrafos anteriores, se estará a lo establecido en el Libro Octavo, Título Segundo, Capítulo X de la presente Ley.
 
-Los partidos políticos o coaliciones, en su caso, que se encuentren en algún supuesto de incumplimiento señalado en este artículo, tendrán un plazo de 5 días naturales, contados a partir de la notificación a sus representantes, para que subsanen lo que corresponda. Para efecto de lo dispuesto en los párrafos anteriores, se estará a lo establecido en el Libro Octavo, Título Segundo, Capítulo X de la presente Ley.
+Vencido el plazo a que se refiere el párrafo anterior, los partidos políticos o coaliciones que no hubieren subsanado lo señalado por la Secretaría Ejecutiva, perderán el derecho al registro del o las y los candidatos(as) correspondientes;
 
-Vencido el plazo a que se refiere el párrafo anterior, los partidos políticos o coaliciones que no hubieren subsanado lo señalado por la Secretaría Ejecutiva, perderán el derecho al registro del o los candidatos correspondientes;
+Una vez agotadas las etapas anteriores, el Consejo General emitirá el acuerdo respectivo, antes del inicio del periodo de campañas.
 
-Agotadas las etapas anteriores, el Consejo General emitirá el acuerdo respectivo, antes del inicio del periodo de campañas.
-
-La Secretaría Ejecutiva del Instituto Estatal deberá realizar las capacitaciones necesarias a los órganos desconcentrados en materia de registro de candidatos.
+La Secretaría Ejecutiva del Instituto Estatal deberá realizar las capacitaciones necesarias a los órganos desconcentrados en materia de registro de candidaturas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE MAYO DE 2017)</small>
 
@@ -2931,11 +2993,13 @@ La propaganda que en el curso de una campaña difundan, por medios gráficos, lo
 
 La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos se ajustarán a lo dispuesto por el primer párrafo del artículo 6 de la Constitución Federal.
 
-> <small>(REFORMADO, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
 
-En la propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos, deberán abstenerse de expresiones que calumnien a las personas.
+En la propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos y precandidatos, deberán abstenerse de expresiones que calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley.
 
-El Consejo General está facultado para ordenar el retiro o la suspensión inmediata de la propaganda contraria a las disposiciones de esta norma, mediante acuerdo debidamente fundado y motivado.
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
+
+El Consejo General está facultado para ordenar el retiro o la suspensión inmediata de la propaganda contraria a las disposiciones de esta Ley, mediante acuerdo debidamente fundado y motivado.
 
 > <small>(REFORMADO, B.O. 25 DE MAYO DE 2017)</small>
 
@@ -3355,7 +3419,9 @@ Los presidentes de los consejos municipales darán a conocer, oportunamente, los
 
 Para efectos del presente capítulo se entiende por votación total emitida, la suma de todos los votos depositados en la urna en la elección de diputados. La votación total válida, será la que resulte de restar, a la votación total emitida, los votos a favor de candidatos no registrados, así como los votos nulos, para efecto de determinar los porcentajes de votación obtenida por los partidos políticos.
 
-Por votación estatal válida emitida se entenderá la que resulte de restar de la votación total emitida, los votos a favor de los partidos políticos que no hayan obtenido el 3% de dicha votación, los votos para candidatos independientes y los votos nulos.
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
+
+Por votación estatal válida emitida se entenderá la que resulte de restar de la votación total emitida, los votos a favor de los partidos políticos que no hayan obtenido el 3% de dicha votación, los votos para candidatos independientes, los votos nulos y votos de candidatos no registrados.
 
 ###### Artículo 262.
 
@@ -3437,9 +3503,23 @@ IV.- Para obtener el factor de distribución secundaria, el resultado de la rest
 
 V.- Si aún quedaren regidurías por repartir, la primera asignación se hará al partido que tenga el resto mayor. Enseguida se procederá a la asignación de las regidurías que quedasen, en orden de prelación, tomando en cuenta el resto de la votación que a cada partido quedare, hasta agotarlas.
 
-La asignación de regidores por el principio de representación proporcional se hará a propuesta de la dirigencia estatal del partido político que los postuló, quien deberá seleccionarlos de la lista de candidatos a síndico o regidores para el ayuntamiento de que se trate, pudiendo encabezar dicha lista el candidato a presidente municipal y respetando los principios de paridad y alternancia de género.
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
+
+La asignación de regidurías por el principio de representación proporcional se hará a propuesta de la dirigencia estatal del partido político que los postuló, quien deberá seleccionarlas de la Planilla del ayuntamiento de que se trate, respetando los principios de paridad y alternancia de género.
 
 Si el partido político no formula la propuesta correspondiente, la asignación se hará de oficio, siguiendo el orden que tengan los candidatos a regidores propietarios en la planilla respectiva, debiendo encabezarla el candidato a presidente municipal.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 29 DE MAYO DE 2020)</small>
+
+Concluida la asignación de regidurías por el principio de representación proporcional, el Instituto Estatal deberá verificar la paridad de género en la integración total del Ayuntamiento, y en caso de advertir un desequilibro (sic), procederá a realizar el siguiente procedimiento:
+
+I.- El Instituto Estatal deberá de identificar los géneros que integran el Ayuntamiento, con el objetivo de advertir cuántos de sus integrantes son del género masculino y cuántos son del género femenino. Lo anterior con el fin de identificar si existe desequilibrio en materia del principio de paridad de género;
+
+ii (sic).- Realizado lo anterior, el Instituto Estatal podrá advertir, cuantos integrantes son los necesarios para equilibrar los géneros y proceder a su asignación;
+
+III.- Para proceder a la asignación por razón de género, el Instituto Estatal enumerará los partidos políticos, que participaron en la asignación de regidurías por el principio de representación proporcional, de menor a mayor porcentaje de votación estatal valida emitida. Realizado lo anterior, se asignarán los integrantes del Ayuntamiento del género necesario en el orden antes señalado hasta empatar los géneros; y
+
+IV.- Si después de realizar lo anterior, aún quedaran regidurías por el principio de representación proporcional, éstas se asignarán de manera alternada hasta que el Ayuntamiento se encuentre conformado en total paridad de género de sus integrantes.
 
 # LIBRO QUINTO. DE LOS REGÍMENES SANCIONADORES ELECTORALES
 
@@ -3481,6 +3561,32 @@ XII.- Los consejeros electorales distritales o municipales; y
 
 XIII.- Los demás sujetos obligados en los términos de la presente Ley.
 
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+Cuando alguno de los sujetos señalados en este artículo sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en el artículo 268 BIS de esta Ley, así como en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, será sancionado en términos de lo dispuesto en este capítulo según corresponda de acuerdo con lo dispuesto en los artículos 269 al 280 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+Las quejas o denuncias por violencia política contra las mujeres en razón de género, se sustanciarán a través del procedimiento sancionador en materia de violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 268 Bis.
+
+La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley por parte de los sujetos de responsabilidad señalados en el artículo anterior y se manifiesta, entre otras, a través de las siguientes conductas:
+
+I.- Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+II.- Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+III.- Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+IV.- Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+V.- Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad; o
+
+VI.- Cualesquiera otras acciones que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
+
 ### CAPÍTULO II. De las infracciones
 
 ###### Artículo 269.
@@ -3513,9 +3619,17 @@ XI.- El incumplimiento de las reglas establecidas para el manejo y comprobación
 
 XII.- La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los organismos electorales, en su caso, o el Tribunal Estatal;
 
-XIII.- El incumplimiento de lo dispuesto en el artículo 219 de la presente Ley; y
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
 
-XIV.- La comisión de cualquier otra falta de las previstas en la presente Ley.
+XIII.- El incumplimiento de lo dispuesto en el artículo 219 de la presente Ley;
+
+> <small>(REFORMADA[N. DE E. ADICIONADA], B.O. 29 DE MAYO DE 2020)</small>
+
+XIV.- El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 29 DE MAYO DE 2020)</small>
+
+XV.- La comisión de cualquier otra falta de las previstas en la presente Ley.
 
 ###### Artículo 270.
 
@@ -3607,25 +3721,27 @@ Constituyen infracciones de los observadores electorales a la presente Ley:
 
 I.- El incumplimiento de cualquiera de las disposiciones contenidas en la presente Ley.
 
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
+
 ###### Artículo 275.
 
-Constituyen infracciones a la presente Ley de las autoridades, o los empleados o servidores públicos, según sea el caso, de cualquiera de los Poderes del Estado, órganos de gobierno municipal, órganos autónomos y cualquier otro ente público, así como los consejeros electorales distritales y municipales:
+Constituyen infracciones a la presente Ley de las autoridades o de las servidoras y los servidores públicos, según sea el caso, de cualquiera de los Poderes del Estado, órganos de gobierno municipal, órganos autónomos y cualquier otro ente público, así como las y los consejeros electorales distritales y municipales:
 
 I.- La omisión o el incumplimiento de la obligación de prestar la colaboración, auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los organismos electorales o el Tribunal Estatal;
 
-II.- Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal;
+II.- Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-III.- La utilización de programas sociales y de sus recursos en el ámbito estatal o municipal, con la finalidad de inducir o coaccionar a los ciudadanos a votar a favor o en contra de cualquier partido político, coalición, precandidato o candidato;
+III.- La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
 
-IV.- Obligue de manera expresa a sus subordinados y haciendo uso de su autoridad y jerarquía, a emitir su voto a favor o en contra de un partido político, coalición precandidato o candidato;
+IV.- El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre las personas aspirantes, precandidatas y candidatas durante los procesos electorales;
 
-V.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio a favor o en contra de un partido político, coalición precandidato o candidato;
+V.- Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución;
 
-VI.- Destine de manera ilegal recursos, fondos, bienes, servicios o personal que tenga a su disposición en virtud de su cargo, para el apoyo de un partido político, coalición precandidato o candidato;
+VI.- La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal con la finalidad de inducir o coaccionar a las Ciudadanas y Ciudadanos para votar a favor o en contra de cualquier partido político o persona candidata;
 
-VII.- En el caso de los consejeros distritales y municipales, la omisión o el incumplimiento de la obligación de prestar la colaboración, auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por el Consejo General o el Tribunal Estatal, así como en la omisión de dar trámite a las denuncias o medios de impugnación que les sean presentadas, en términos de la presente Ley y reglamentación aplicable; y
+VII.- En el caso de las y los consejeras y consejeros presidentes y de las y los consejeras y consejeros distritales y municipales, la omisión o el incumplimiento de la obligación de prestar la colaboración, auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por el Consejo General o el Tribunal Estatal, así como en la omisión de dar trámite a las denuncias o medios de impugnación que les sean presentadas, en términos de la presente Ley y reglamentación aplicable; o
 
-VIII.- El incumplimiento de cualquiera de las disposiciones contenidas en la presente Ley.
+VIII.- El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 276.
 
@@ -3681,7 +3797,13 @@ c) Con multa de mil a 10 mil veces el valor diario de la unidad de medida y actu
 
 d) Según la gravedad de la falta, con la reducción del 10% a 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
 
-e) En los casos de graves y reiteradas conductas violatorias de la Constitución Federal, Constitución Local y la presente Ley y las leyes aplicables, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, con la cancelación de su registro como partido político;
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
+
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
+
+e) En los casos de graves y reiteradas conductas violatorias de la Constitución Federal, Constitución Local y la presente Ley y las leyes aplicables, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, así como las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, con la cancelación de su registro como partido político;
 
 II.- Respecto de las agrupaciones políticas;
 
@@ -3831,21 +3953,29 @@ En el caso de los partidos políticos, el monto de las mismas se restará de sus
 
 Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Libro, serán destinados a los organismos estatales encargados de la promoción, fomento y desarrollo de la ciencia, tecnología e innovación, así como a las asociaciones civiles con fines de asistencia social debidamente acreditadas ante autoridad competente, ambas en los términos de las leyes aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE MAYO DE 2020)</small>
 
-## TÍTULO SEGUNDO. De las disposiciones comunes al procedimiento ordinario sancionador y al juicio oral sancionador
+## TÍTULO SEGUNDO
+
+De las disposiciones comunes al procedimiento ordinario sancionador, al procedimiento sancionador en materia de violencia política contra las mujeres en razón de género y al juicio oral sancionador
 
 ### CAPÍTULO I. De las disposiciones generales y comunes del procedimiento sancionador
 
-> <small>(REFORMADO, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE MAYO DE 2020)</small>
 
 ###### Artículo 287.
 
-El Tribunal Estatal será competente para resolver el procedimiento sancionador ordinario. Serán responsables de la tramitación de los procedimientos ordinarios sancionadores y del juicio oral sancionador, en términos de la presente Ley y los reglamentos aplicables:
+El Tribunal Estatal será competente para resolver los procedimientos sancionadores ordinario y en materia de violencia política contra las mujeres en razón de género. Serán responsables de la tramitación de los procedimientos sancionadores ordinario (sic) y en materia de violencia política contra las mujeres en razón de género, así como del juicio oral sancionador, en términos de la presente Ley y los reglamentos aplicables:
+
+> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
 
 I.- La Comisión del (sic) Denuncias del Instituto Estatal;
 
+> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
+
 II.- La Dirección Ejecutiva de Asuntos Jurídicos del Instituto Estatal; y
+
+> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
 
 III.- Los consejos electorales en sus respectivos ámbitos de competencia, los cuales fungirán como órganos auxiliares.
 
@@ -3947,11 +4077,41 @@ En el caso de existir imposibilidad material para compulsar las copias simples q
 
 Para la resolución expedita de las denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos o juicios, porque existan varias denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 29 DE MAYO DE 2020)</small>
+
+### CAPITULO I BIS. De las Medidas Cautelares
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 291 Bis.
+
+Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+I.- Realizar análisis de riesgos y un plan de seguridad;
+
+II.- En caso de que se trate de una campaña violenta contra la víctima mediante radio o televisión, dar vista al Instituto Nacional Electoral, a fin de que se tomen las medidas necesarias, haciendo públicas las razones;
+
+III.- Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+IV.- Ordenar la suspensión del cargo partidista, de la persona agresora; y
+
+V.- Cualquier otra requerida para la protección de la mujer víctima, o quien ella solicite.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 291 Ter.
+
+En la resolución de los procedimientos sancionadores, por violencia política en contra de las mujeres por razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral que correspondan considerando al menos las siguientes:
+
+I.- Indemnización de la víctima;
+
+II.- Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia;
+
+III.- Disculpa pública; y
+
+IV.- Medidas de no repetición.
+
 ### CAPÍTULO II. Del procedimiento sancionador ordinario
-
-### CAPÍTULO III. Del juicio oral sancionador
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE MAYO DE 2017)</small>
 
 ###### Artículo 292.
 
@@ -4109,13 +4269,129 @@ IV.- Una vez que se encuentre debidamente integrado el expediente, el Magistrado
 
 V.- El Pleno del Tribunal Estatal en sesión pública, resolverá el asunto en un plazo no mayor a 2 días contados a partir de que se haya distribuido el proyecto de resolución.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 29 DE MAYO DE 2020)</small>
+
+### CAPÍTULO II BIS. Del Procedimiento Sancionador en Materia de Violencia Política contra las Mujeres en Razón de Género
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 297 Bis.
+
+Las denuncias que se interpongan con motivo de la presunta comisión de actos u omisiones relacionadas con violencia política contra las mujeres en razón de género a que se refiere el artículo 268 BIS de esta Ley, se sustanciarán a través del procedimiento sancionador regulado en el presente capítulo.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 297 Ter.
+
+La denuncia en materia de violencia política contra las mujeres en razón de género, deberá presentarse por escrito ante el Instituto Estatal Electoral o ante los Consejos electorales, quienes a la brevedad posible deberán dar aviso al Tribunal Estatal Electoral.
+
+El órgano del Instituto que reciba la denuncia, la remitirá inmediatamente a la Dirección Ejecutiva de Asuntos Jurídicos para que ésta la examine junto con las pruebas aportadas.
+
+El escrito de interposición de denuncia deberá reunir los siguientes requisitos:
+
+I.- Nombre de la o el denunciante, con firma autógrafa o huella digital;
+
+II.- Domicilio para oír y recibir notificaciones;
+
+III.- Los documentos que sean necesarios para acreditar la personería;
+
+IV.- Narración expresa y clara de los hechos en que se basa la denuncia;
+
+V.- Ofrecer y exhibir las pruebas con que se cuente, o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas; y
+
+VI.- En su caso, las medidas cautelares que se soliciten.
+
+La Dirección Ejecutiva de Asuntos Jurídicos prevendrá a la o el denunciante en el caso de que omita los requisitos establecidos en las fracciones II, III y V del presente artículo, para que los subsane dentro del plazo improrrogable de 3 días, contados a partir de la notificación correspondiente. De la misma forma, lo prevendrá para que aclare su denuncia, cuando ésta sea imprecisa, vaga o genérica.
+
+En caso de no enmendar la omisión que se le requiera en relación con el domicilio para oír y recibir notificaciones, las subsecuentes incluso las personales se le realizarán por estrados; si omite presentar los documentos necesarios para acreditar la personería, se le tendrá por no interpuesta la denuncia, y si omite exhibir los documentos anexos relacionados con las pruebas ofrecidas o aportadas, éstas se le tendrán por desiertas.
+
+En caso de no cumplir con los requisitos establecidos en las fracciones I y IV, la denuncia se tendrá por no interpuesta.
+
+Recibida la denuncia, la Dirección Ejecutiva de Asuntos Jurídicos procederá a:
+
+I.- Su registro, debiendo informar de su presentación al Consejo General;
+
+II.- Su revisión para determinar si debe prevenir a la o el denunciante, para efectos de que, en su caso, subsane las omisiones en que ha ocurrido;
+
+III.- Su análisis para determinar la admisión o desechamiento de la misma; y
+
+IV.- En su caso, determinar y solicitar las diligencias necesarias para el desarrollo de la investigación.
+
+La Dirección Ejecutiva de Asuntos Jurídicos, contará con un plazo de 3 días para emitir el acuerdo de admisión, contados a partir del día siguiente de la recepción de la denuncia. En caso de que se hubiese prevenido a la o el denunciado, a partir del cumplimiento o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
+
+La denuncia será desechada de plano por la Dirección Ejecutiva de Asuntos Jurídicos, sin prevención alguna, cuando:
+
+I.- No reúna los requisitos indicados en el presente artículo;
+
+II.- Los hechos denunciados no constituyan una violación en materia de violencia política contra las mujeres en razón de género;
+
+III.- La o el denunciante no aporte ni ofrezca prueba alguna de sus dichos; o
+
+IV.- La denuncia sea evidentemente frívola.
+
+En caso de desechamiento, notificará a la o el denunciante su resolución, por el medio más expedito a su alcance, a más tardar al día siguiente; tal resolución deberá ser informada al Tribunal Estatal, para su conocimiento.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 297 Quáter.
+
+Admitida la denuncia, la Dirección Ejecutiva de Asuntos Jurídicos deberá dar vista al o los presuntos sujetos responsables, para que en el plazo de setenta y dos horas realicen sus manifestaciones por escrito, sin perjuicio de ordenar las diligencias de investigación que estime necesarias.
+
+En el mismo acuerdo de admisión, la Dirección Ejecutiva de Asuntos Jurídicos deberá proveer sobre las medidas cautelares solicitadas o las que estime convenientes al caso concreto, poniéndolas a consideración de la Comisión de Denuncias para que dentro del plazo de 2 días resuelva lo conducente. Esta decisión podrá ser impugnada ante el Tribunal Estatal.
+
+La investigación para el conocimiento cierto de los hechos se realizará por la Dirección Ejecutiva de Asuntos Jurídicos de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
+
+Una vez que la Dirección Ejecutiva de Asuntos Jurídicos tenga conocimiento de los hechos denunciados, en su caso, dictará de inmediato las medidas necesarias para dar fe de estos; para impedir que se pierdan, destruyan o alteren las huellas o vestigios, y en general para evitar que se dificulte la investigación.
+
+Admitida la denuncia por la Dirección Ejecutiva de Asuntos Jurídicos, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, solicitará mediante oficio a los órganos centrales o desconcentrados del Instituto o las direcciones ejecutivas que lleven a cabo las investigaciones o recaben las pruebas necesarias. El plazo para llevar a cabo la investigación no podrá exceder de 20 días, contados a partir de la recepción del escrito de denuncia. Dicho plazo podrá ser ampliado de manera excepcional por una sola vez, hasta por un período de hasta 10 días, mediante acuerdo debidamente fundado (sic) motivado que emita la Dirección Ejecutiva de Asuntos Jurídicos.
+
+La Secretaría Ejecutiva del Consejo General, a solicitud de la Dirección Ejecutiva de Asuntos Jurídicos, solicitará a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados.
+
+Con la misma finalidad, la Secretaría Ejecutiva del Consejo General, a solicitud de la Dirección Ejecutiva de Asuntos Jurídicos, requerirá a las personas físicas y morales la entrega de información y pruebas que obren en su poder y que sean necesarias.
+
+Las diligencias que se realicen en el curso de la investigación deberán ser decretadas por la Dirección Ejecutiva de Asuntos Jurídicos, y podrán ser desahogadas por la Secretaría Ejecutiva, a través del servidor público o por el apoderado legal que éste designe, así como por órganos auxiliares previstos por la presente Ley.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 297 Quinquies.
+
+Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, la Dirección Ejecutiva de Asuntos Jurídicos pondrá el expediente a la vista de las partes para que, en un plazo de 3 días hábiles, manifiesten lo que a su derecho convenga.
+
+Una vez transcurrido el plazo referido en el párrafo anterior, la Dirección Ejecutiva de Asuntos Jurídicos deberá turnar, en un plazo no mayor a 3 días hábiles, el expediente completo, exponiendo en su caso, las medidas cautelares y demás diligencias que se hayan llevado a cabo, así como un informe circunstanciado, al Tribunal Estatal que deberá contener por lo menos, lo siguiente:
+
+I.- La relatoría de los hechos que dieron motivo a la denuncia;
+
+II.- Las diligencias que se hayan realizado por la autoridad;
+
+III.- Las pruebas aportadas por las partes y el resultado de su desahogo; y
+
+IV.- Las demás actuaciones realizadas.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 297 Sexies.
+
+El Tribunal Estatal será competente para resolver sobre el procedimiento sancionador en materia de violencia política contra las mujeres en razón de género.
+
+El Tribunal Estatal recibirá del Instituto el expediente original formado con motivo de la denuncia y el informe circunstanciado respectivo y turnará el mismo para su resolución, la cual se emitirá dentro del plazo de quince días siguientes a su recepción.
+
+El Tribunal Estatal resolverá observando el procedimiento establecido en el artículo 304 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 297 Septies.
+
+Las resoluciones que se emitan en el procedimiento sancionador en materia de violencia política contra las mujeres en razón de género, podrán tener los efectos siguientes:
+
+I.- Declarar la inexistencia de la violación objeto de la denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto; o
+
+II.- De acreditarse la conducta, imponer las sanciones que resulten procedentes en términos de lo dispuesto en esta Ley y las leyes aplicables.
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 25 DE MAYO DE 2017)</small>
 
-### CAPÍTULO ÚNICO. De la integración y funcionamiento del Tribunal
+### CAPÍTULO III. Del juicio oral sancionador
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE MAYO DE 2017)</small>
-
-### CAPÍTULO ÚNICO. De las nulidades
 
 ###### Artículo 298.
 
@@ -4275,13 +4551,15 @@ II.- De acreditarse la conducta, imponer las sanciones que resulten procedentes 
 
 ## TÍTULO ÚNICO. De la integración y funcionamiento del Tribunal
 
-### CAPÍTULO ÚNICO. De las disposiciones generales
+### CAPÍTULO ÚNICO. De la integración y funcionamiento del Tribunal
+
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
 
 ###### Artículo 306.
 
-El Tribunal Estatal es la máxima autoridad jurisdiccional especializada en materia electoral y de procesos de participación ciudadana; funcionará de manera permanente y tendrá a su cargo la substanciación y resolución, en única instancia, de los medios de impugnación que establezca la presente Ley, así como la resolución de los juicios orales sancionadores. Gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones, así como personalidad jurídica y patrimonio propio.
+El Tribunal Estatal es la máxima autoridad jurisdiccional especializada en materia electoral y de procesos de participación ciudadana; funcionará de manera permanente y tendrá a su cargo la substanciación y resolución, en única instancia, de los medios de impugnación que establezca la presente Ley, así como la resolución de los procedimientos sancionadores ordinario (sic), en materia de violencia política contra las mujeres en razón de género y de los juicios orales sancionadores. Gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones, así como personalidad jurídica y patrimonio propio.
 
-Se regirá bajo los principios de certeza, independencia, imparcialidad, objetividad, legalidad y probidad.
+Se regirá bajo los principios de certeza, independencia, imparcialidad, objetividad, legalidad, probidad y paridad de género.
 
 ###### Artículo 307.
 
@@ -4389,7 +4667,7 @@ IX.- Las demás que le atribuya la presente Ley y el reglamento aplicable.
 
 ## TÍTULO ÚNICO. De las nulidades
 
-### CAPÍTULO I. Prevenciones generales
+### CAPÍTULO ÚNICO. De las nulidades
 
 ###### Artículo 318.
 
@@ -4461,7 +4739,7 @@ Los partidos políticos o coaliciones, no podrán invocar en su favor, en ningú
 
 ## TÍTULO PRIMERO. De las disposiciones generales
 
-### CAPÍTULO II. De los plazos y términos
+### CAPÍTULO ÚNICO. De las disposiciones generales
 
 ###### Artículo 322.
 
@@ -4501,7 +4779,7 @@ Las autoridades estatales, municipales, así como los ciudadanos, partidos polí
 
 ## TÍTULO SEGUNDO. De las reglas comunes aplicables a los medios de impugnación
 
-### CAPÍTULO III. De los requisitos de los medios de impugnación
+### CAPÍTULO I. Prevenciones generales
 
 ###### Artículo 324.
 
@@ -4511,9 +4789,7 @@ En ningún caso la interposición de los medios de impugnación previstos en la 
 
 El Tribunal Estatal, conforme a las disposiciones de la presente Ley, resolverá los asuntos de su competencia con plenitud de jurisdicción.
 
-### CAPÍTULO IV. De la improcedencia y del sobreseimiento
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE MAYO DE 2017)</small>
+### CAPÍTULO II. De los plazos y términos
 
 ###### Artículo 325.
 
@@ -4525,7 +4801,7 @@ Cuando la violación reclamada en el medio de impugnación respectivo no se prod
 
 Los medios de impugnación previstos en la presente Ley deberán presentarse dentro de los 4 días contados a partir del día siguiente a aquél en que se tenga conocimiento del acto, acuerdo, omisión o resolución impugnado, o se hubiese notificado de conformidad con la Ley aplicable, salvo las excepciones previstas expresamente en la presente Ley.
 
-### CAPÍTULO V. De las partes
+### CAPÍTULO III. De los requisitos de los medios de impugnación
 
 ###### Artículo 327.
 
@@ -4559,7 +4835,9 @@ Cuando el medio de impugnación no se presente por escrito ante la autoridad cor
 
 Respecto a lo previsto en el primer párrafo fracción II de este artículo, se realizará notificación electrónica de la resolución cuando las partes así lo soliciten. El Tribunal Estatal proveerá de un certificado de firma electrónica avanzada a quien así lo solicite. Las partes podrán proporcionar dirección de correo electrónico que cuente con mecanismos de confirmación de los envíos de las notificaciones. Las partes deberán manifestar expresamente su voluntad de que sean notificados en esta forma.
 
-### CAPÍTULO VI. De la legitimación y de la personería
+### CAPÍTULO IV. De la improcedencia y del sobreseimiento
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE MAYO DE 2017)</small>
 
 ###### Artículo 328.
 
@@ -4613,7 +4891,7 @@ V.- Cuando el recurrente fallezca o sea suspendido o privado de sus derechos pol
 
 VI.- Cuando la autoridad responsable modifique o revoque el acto, acuerdo o resolución impugnada, o realice la omisión, de tal manera que quede sin materia el recurso.
 
-### CAPÍTULO VII. De las pruebas
+### CAPÍTULO V. De las partes
 
 ###### Artículo 329.
 
@@ -4639,7 +4917,7 @@ IV.- Los coadyuvantes podrán ofrecer y aportar pruebas dentro de los plazos est
 
 V.- Los escritos deberán estar firmados autógrafamente.
 
-### CAPÍTULO VIII. Del trámite
+### CAPÍTULO VI. De la legitimación y de la personería
 
 ###### Artículo 330.
 
@@ -4663,7 +4941,7 @@ III.- Los que estén autorizados para representarlos mediante poder otorgado en 
 
 Los representantes a que se refiere este artículo, podrán autorizar a una o varias personas a fin de que realicen, en beneficio del partido político o coalición, todos los actos procesales que no impliquen la disposición de los derechos de litigio o que estén reservados directamente a los partidos políticos o coaliciones.
 
-### CAPÍTULO IX. De la acumulación
+### CAPÍTULO VII. De las pruebas
 
 ###### Artículo 331.
 
@@ -4731,7 +5009,7 @@ Las documentales públicas tendrán valor probatorio pleno, salvo prueba en cont
 
 Las documentales privadas, las técnicas, las presuncionales, la instrumental de actuaciones, la confesional, la testimonial, los reconocimientos o inspecciones judiciales y las periciales, sólo harán prueba plena cuando, a juicio del órgano competente para resolver, los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
 
-### CAPÍTULO X. De las notificaciones
+### CAPÍTULO VIII. Del trámite
 
 ###### Artículo 334.
 
@@ -4789,7 +5067,7 @@ II.- Los motivos y fundamentos jurídicos que considere pertinentes para sostene
 
 III.- La firma del representante legal de la autoridad responsable.
 
-### CAPÍTULO XI. De las resoluciones
+### CAPÍTULO IX. De la acumulación
 
 ###### Artículo 336.
 
@@ -4797,7 +5075,7 @@ Para la resolución pronta y expedita de los medios de impugnación previstos en
 
 La acumulación podrá decretarse al inicio o durante la sustanciación, o para la resolución de los medios de impugnación.
 
-### CAPÍTULO I. De la procedencia
+### CAPÍTULO X. De las notificaciones
 
 ###### Artículo 337.
 
@@ -4861,7 +5139,7 @@ El partido político, coalición o candidato independiente cuyo representante ha
 
 No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación, los actos, acuerdos o resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través del Boletín Oficial del Gobierno del estado, o los diarios o periódicos de circulación local, o en lugares públicos o mediante la fijación de cédulas en los estrados del Instituto Estatal o del Tribunal Estatal.
 
-### CAPÍTULO II. De la competencia y sustanciación
+### CAPÍTULO XI. De las resoluciones
 
 ###### Artículo 343.
 
@@ -4902,8 +5180,6 @@ Las resoluciones que recaigan a los medios de impugnación tendrán como efecto 
 ## TÍTULO TERCERO. Del recurso de revisión
 
 ### CAPÍTULO I. De la procedencia
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE MAYO DE 2017)</small>
 
 ###### Artículo 348.
 
@@ -4952,6 +5228,8 @@ III.- A los terceros interesados en el domicilio que hubieren señalado o por es
 ## TÍTULO CUARTO. Del recurso de apelación
 
 ### CAPÍTULO I. De la procedencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE MAYO DE 2017)</small>
 
 ###### Artículo 352.
 
@@ -5043,7 +5321,7 @@ Una vez cumplidas las reglas de trámite a que se refiere la fracción II del ar
 
 ## TÍTULO SEXTO. Del juicio para la protección de los derechos políticos-electorales del ciudadano
 
-### CAPÍTULO ÚNICO. Del cumplimiento y ejecución de las resoluciones del Tribunal Estatal y el Consejo General, de las medidas de apremio y de las correcciones disciplinarias
+### CAPÍTULO I. De la procedencia
 
 ###### Artículo 361.
 
@@ -5065,6 +5343,8 @@ El juicio sólo será procedente cuando el actor haya agotado todas las instanci
 
 En los casos previstos en la fracción IV del párrafo primero de este artículo, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
 
+### CAPÍTULO II. De la competencia y sustanciación
+
 ###### Artículo 363.
 
 Es competente para resolver el juicio para la protección de los derechos políticos-electorales el Tribunal Estatal.
@@ -5076,6 +5356,8 @@ Es competente para resolver el juicio para la protección de los derechos polít
 Una vez cumplidas las reglas de trámite a que se refiere la fracción II del artículo 334 de la presente Ley, recibida una demanda de juicio para la protección de los derechos políticos-electorales, el Tribunal Estatal, se estará a lo dispuesto en los artículos 354, 355 y 356 de la presente Ley. En todo caso, el juicio para la protección de los derechos político-electorales será resuelto dentro de los 15 días contados a partir de su admisión.
 
 ## TÍTULO SÉPTIMO. Del cumplimiento y ejecución de las resoluciones del Tribunal Estatal y el Consejo General, de las medidas de apremio y de las correcciones disciplinarias
+
+### CAPÍTULO ÚNICO. Del cumplimiento y ejecución de las resoluciones del Tribunal Estatal y el Consejo General, de las medidas de apremio y de las correcciones disciplinarias
 
 ###### Artículo 365.
 
@@ -5216,3 +5498,21 @@ B.O. 27 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ESTATAL DE RESPONSABILIDADES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA Y DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La observancia del principio de paridad de género a que se refiere este decreto, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+###### ARTÍCULO TERCERO.
+
+La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
