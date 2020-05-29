@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2019-12-10"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1587,7 +1587,25 @@ V. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la 
 
 VI. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
 
-El delito de feminicidio se sancionará conforme a lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+VII. Exista o haya existido entre el activo y la víctima una relación de cualquier naturaleza que implique confianza.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y de quinientas a mil Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Además de las sanciones que correspondan al sujeto activo, éste perderá, si los tuviere, todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia tratándose del delito de feminicidio, será sancionado conforme dispone el artículo 315 de este código penal.
 
 ### CAPÍTULO III. HOSTIGAMIENTO Y ACOSO SEXUAL
 
@@ -2697,6 +2715,12 @@ III. Violencia psicológica: Cualquier conducta que consista en actos u omisione
 
 Se impondrán de seis meses a cinco años de prisión y multa de cien a trescientos cincuenta días de salario a quien cometa actos de violencia física o psicológica en contra de una persona o su patrimonio por motivos de odio.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 245 Bis.
+
+Cuando las conductas descritas en el artículo anterior, se cometan en contra de médicos, cirujanos, personal de enfermería, y demás profesionistas o empleados del área de salubridad, durante el periodo que comprenda la declaración de una emergencia sanitaria o crisis de salud pública, se impondrán de dos a cinco años de prisión y multa de doscientas a quinientas unidades de medida y actualización.
+
 ###### Artículo 246.
 
 Se impondrán de tres meses a dos años de prisión y multa de treinta a ciento treinta días de salario a quien, públicamente o mediante cualquier medio apto para su difusión pública, provoque o incite, a través del odio, a cualquier forma de violencia física o psicológica.
@@ -3601,9 +3625,11 @@ Se impondrán de tres a ocho años de prisión y de treinta a mil cien Unidades 
 
 Se impondrán de cuatro a diez años de prisión, multa de cien a ciento cincuenta Unidades de Medida y Actualización, a la autoridad judicial que dirija o aconseje a las personas que litiguen ante él.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### Artículo 315.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 2016)
+Se impondrán de tres a ocho años de prisión y multa de quinientas a mil quinientas Unidades de Medida y Actualización, al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración e impartición de justicia tratándose de delitos graves. Además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -3836,6 +3862,12 @@ Al que quebrante los sellos puestos por orden de la autoridad, se le impondrá d
 ###### Artículo 345.
 
 Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones, o con motivo de ellas, se le impondrá de un mes a un año de tratamiento en semilibertad, sin perjuicio de las sanciones que sean aplicables por el delito cometido.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+###### Artículo 345 Bis.
+
+Cuando las conductas descritas en el artículo anterior, se cometan en contra de cualquier servidor público o empleado del Sistema Estatal de Salud, durante el periodo que comprenda la declaración de una emergencia sanitaria o crisis de salud pública, se impondrán de uno a tres años de prisión y multa de trescientas a quinientas unidades de medida y actualización.
 
 ## TÍTULO VIGÉSIMO. DELITOS CONTRA EL RESPETO A LOS SÍMBOLOS INSTITUCIONALES
 
@@ -4406,3 +4438,23 @@ PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de s
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
 
 TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 134 POR EL QUE “SE ADICIONAN UN ARTÍCULO 245 BIS Y UN ARTÍCULO 345 BIS AL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 50 POR EL QUE “SE ADICIONA UNA FRACCIÓN VII; SE REFORMA EL PÁRRAFO SEGUNDO; SE ADICIONAN TRES SUBSECUENTES PÁRRAFOS TODOS AL ARTÍCULO 160 Y, SE REPONE CON NUEVO TEXTO EL ARTÍCULO 315 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.”]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes al momento de la comisión del ilícito que corresponda.
