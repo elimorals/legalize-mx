@@ -4,7 +4,7 @@ identifier: "SON-ley-estatal-de-responsabilidades-del-estado-de-sonora-122668"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2019-12-17"
+last_updated: "2020-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ESTATAL DE RESPONSABILIDADES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de julio de 2017.
 
@@ -915,9 +915,11 @@ Para efectos del artículo anterior, se considera información privilegiada la q
 
 La restricción prevista en el artículo anterior será aplicable inclusive cuando el servidor público se haya retirado del empleo, cargo o comisión, hasta por un plazo de un año.
 
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
+
 ###### Artículo 96.
 
-Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 91 de esta Ley o para causar perjuicio a alguna persona o al servicio público.
+Incurrirá en abuso de funciones la persona que funja como servidora o servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 91 de esta Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realice por sí o a través de un tercero, alguna de las conductas descritas en el artículo 14 Bis de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
 ###### Artículo 97.
 
@@ -2502,3 +2504,21 @@ B.O. 17 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ESTATAL DE RESPONSABILIDADES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA Y DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La observancia del principio de paridad de género a que se refiere este decreto, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+###### ARTÍCULO TERCERO.
+
+La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior al proceso electoral 2020-2021.
