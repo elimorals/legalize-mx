@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2019-11-11"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -63,7 +63,13 @@ III.- La protección y el acrecentamiento de los valores que coadyuven a la crea
 
 IV.- La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+
+V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Tratándose de personas que carezcan de seguridad social, la prestación de los servicios de salud, medicamentos y demás insumos asociados, será obligatoria en términos de la Ley General y demás disposiciones aplicables para tal efecto;
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -165,9 +171,7 @@ VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de pr
 
 IX.- Fomentar la integración, organización y funcionamiento de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado, apoyándolos para la realización de programas de capacitación y actualización, a efecto de que coadyuven más eficazmente con el sistema estatal de salud;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
-
-X.- Implementar el régimen estatal de protección social en Salud; y
+X.- (DEROGADA, P.O. 29 DE MAYO DE 2020)
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -191,9 +195,9 @@ La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría,
 
 I.- Establecer y conducir la política estatal en materia de salud, en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-II.- Asumir y mantener la rectoría del Sistema Estatal de Salud, organizando en el Estado los servicios de salud a la población abierta y a la afiliada al Régimen Estatal de Protección Social y realizando acciones de protección contra riesgos sanitarios, conforme a lo establecido por esta Ley, la Ley General, los Acuerdos de Coordinación suscritos con los Gobiernos Federal y municipales, y demás ordenamientos aplicables;
+II.- Asumir y mantener la rectoría del Sistema Estatal de Salud, organizando en el Estado los servicios de salud a la población abierta, realizando acciones de protección contra riesgos sanitarios, conforme a lo establecido por esta Ley, la Ley General, los Acuerdos de Coordinación suscritos con los Gobiernos Federal y Municipales, y demás ordenamientos aplicables;
 
 III.- Coordinar los programas de servicios de salud de las dependencias y entidades de la Administración Pública Estatal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
 
@@ -413,9 +417,17 @@ e).- El control sanitario de los establecimientos dedicados al proceso de los pr
 
 f).- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere la Ley General de Salud;
 
-g).- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos; y
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-h).- La sanidad internacional.
+g).- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos;
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+h).- La sanidad internacional; y
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+i).- La prestación de los servicios de salud, medicamentos y demás insumos asociados para personas sin seguridad social.
 
 IV.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general siguientes:
 
@@ -647,9 +659,17 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MAYO DE 2020)</small>
 
-III.- La atención médica integral, que comprende actividades preventivas, curativas, de rehabilitación y paliativas, incluyendo la atención de urgencias;
+III. La atención médica integral, que comprende actividades preventivas, curativas, de rehabilitación y paliativas, incluyendo la atención de urgencias.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Para efectos del párrafo anterior, la atención médica integrada de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo con la edad, sexo y los determinantes físicos, psíquicos y sociales de las personas, realizadas preferentemente en una sola consulta.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+En el caso de las personas sin seguridad social, deberá garantizarse la prestación de servicios de salud, medicamentos y demás insumos asociados, en términos de la Ley General;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -735,9 +755,11 @@ III.- Servicios sociales y privados sea cual fuere la forma en que se contraten;
 
 IV.- Otros que se presten de conformidad con lo que establezca el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 46.
 
-Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios.
+Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a las personas que se encuentren en el Estado que así lo requieran, regidos por criterios de universalidad, igualdad e inclusión al momento de requerir los servicios de salud, medicamentos y demás insumos asociados.
 
 ###### ARTICULO 47.
 
@@ -3746,3 +3768,79 @@ P.O. 11 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346.- ARTÍCULO PRIMERO. SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO. SE DEROGA EL INCISO Y) DEL INCISO 312) CORRESPONDIENTE AL INCISO 3) DE LA FRACCIÓN I DEL ARTÍCULO 10 DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2020.- ARTÍCULO TERCERO. SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO "RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto en el ARTÍCULO TERCERO del Decreto, cuya vigencia estará sujeta a lo dispuesto por los ARTÍCULOS CUARTO Y QUINTO TRANSITORIOS del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir del 01 de julio de 2020, quedará abrogada la Ley que Crea el Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes con fecha 22 de octubre de 2015, así como sus reformas y adiciones subsecuentes y demás disposiciones normativas derivadas con motivo de aquella.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, el Organismo Público Descentralizado de la Administración Pública Estatal denominado Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, llevará a cabo la resolución de los vínculos administrativos, legales, judiciales y financieros, así como la celebración de los acuerdos administrativos de transferencia con las Dependencias y/o Entidades de la Administración Pública Estatal, atendiendo a la naturaleza de su competencia.
+
+Los casos no previstos en el presente Decreto, serán resueltos mediante acuerdos administrativos, celebrados por las Dependencias y/o Entidades de conformidad con las facultades que se establecen en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes y demás disposiciones aplicables.
+
+###### ARTÍCULO CUARTO.
+
+El proceso de extinción del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes iniciará a partir de la publicación del presente Decreto y tendrá como fecha límite el día 30 de junio de 2020, salvo que exista impedimento para ello. En este último supuesto, a partir del 1° de julio de 2020, el Instituto de Servicios de Salud del Estado (sic) Aguascalientes a través de los servidores públicos competentes de acuerdo con las disposiciones legales que lo rigen, será el encargado de llevar a cabo el cumplimiento de las obligaciones del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes que por su naturaleza le sean competentes.
+
+Dentro de las obligaciones a que hace referencia el párrafo anterior, se consideran incluidas las relativas al cumplimiento de las obligaciones fiscales, de seguridad social, así como cualquier otra a cargo del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes ante el Servicio de Administración Tributaria, Instituto Mexicano del Seguro Social y/o cualquier otra autoridad a la que haya lugar, incluido la realización de pagos ante las instituciones bancarias y realizar los trámites que resulten necesarios ante las autoridades correspondientes a fin de obtener su cancelación ante el registro Federal de Contribuyentes del Organismo Público Descentralizado en comento, así como cualquier otro trámite al que hubiere lugar.
+
+###### ARTÍCULO QUINTO.
+
+El encargado de llevar los trabajos y operaciones, desde la entrada en vigor del presente Decreto y hasta su extinción, será quien ocupe la titularidad del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, tomando en consideración lo previsto en el ARTÍCULO CUARTO TRANSITORIO del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos administrativos, legales y judiciales, así como los archivos, expedientes, documentos, expedientes en trámite y carpetas del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, serán transferidos al Instituto de Servicios de Salud del Estado de Aguascalientes, a través de los acuerdos administrativos de transferencia respectivos, dicho Instituto deberá continuar con la tramitación de los asuntos según corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los bienes muebles del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, serán transferidos al Gobierno del Estado, a través de la Contraloría del Estado, al Instituto de Servicios de Salud del Estado de Aguascalientes y al Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, en los términos y bajo las condiciones que se establezcan en los acuerdos administrativos de transferencia correspondientes.
+
+###### ARTÍCULO OCTAVO.
+
+Los recursos financieros del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, serán transferidos al Instituto de Servicios de Salud del Estado de Aguascalientes, a través de la Secretaría de Finanzas del Estado mediante los acuerdos administrativos de transferencia respectivos.
+
+###### ARTÍCULO NOVENO.
+
+Las obligaciones laborales respecto de los trabajadores que sean transferidos del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes al Instituto de Servicios de Salud del Estado de Aguascalientes, serán asumidas por este último, respetando los derechos de los trabajadores en términos de las disposiciones legales aplicables.
+
+Los derechos laborales de los trabajadores transferidos, serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, en la transferencia institucional que se realice al Instituto de Servicios de Salud del Estado de Aguascalientes.
+
+El Instituto de Servicios de Salud del Estado de Aguascalientes, de acuerdo con las necesidades institucionales y el presupuesto asignado podrá determinar juntamente con el Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes las transferencias de personal o la terminación de la relación laboral.
+
+###### ARTÍCULO DÉCIMO.
+
+La publicación en el Periódico Oficial del Estado de Aguascalientes de los acuerdos administrativos de transferencia, celebrados respecto de los asuntos pendientes del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, hará las veces de notificación para los efectos legales a que haya lugar.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Instituto de Servicios de Salud del Estado de Aguascalientes, de conformidad con la normatividad aplicable, tendrá las siguientes facultades y atribuciones, en términos del ARTÍCULO CUARTO TRANSITORIO del presente Decreto:
+
+I. Ejercer las facultades y atribuciones de apoderado general para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y aún las especiales que de acuerdo con las leyes requieran poder o cláusula, así como para delegar su representación mediante poderes generales o especiales;
+
+II. Informar a la Secretaría de Finanzas del Estado y a la Controlaría del Estado, sobre el avance y estado que (sic) de los asuntos pendientes del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes que le competa conocer; y
+
+III. Las demás inherentes a sus atribuciones que le otorgue la legislación aplicable y que se consideren necesarias para la liquidación del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las referencias que se hagan al Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, en otras disposiciones o instrumentos jurídicos emitidos con anterioridad a la entrada en vigor del presente Decreto, quedarán sin efectos.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Las erogaciones que se requieran hacer a partir de la entrada en vigor del presente Decreto y hasta el término señalado en el ARTÍCULO CUARTO TRANSITORIO del presente Decreto para la extinción del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, se harán con cargo al presupuesto asignado a este último en el Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal del año 2020.
+
+En caso de existir remanentes luego de que se hayan cumplido totalmente con las obligaciones derivadas de la liquidación y extinción del Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, los mismos se reintegrarán a la Secretaría de Finanzas del Estado.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Quedan derogadas todas aquellas disposiciones que se opongan al presente Decreto.
