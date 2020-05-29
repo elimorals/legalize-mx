@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-regula-la-entrega-recepcion-de-la-administracion-14269"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-15"
-last_updated: "2010-05-22"
+last_updated: "2020-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY QUE REGULA LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 29 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE REGULA LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2020 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de agosto de 1998.
 
@@ -192,3 +194,17 @@ P.O. 22 DE MAYO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE NAYARIT".]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Se abroga la Ley que Regula la Entrega-Recepción de la Administración Pública del Estado de Nayarit, publicada el 15 de agosto de 1998, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, en un plazo no mayor a sesenta días natruales, contados a partir de la entrada en vigor de la Ley.
+
+CUARTO.- Los procesos de Entrega-Recepción que se encuentren en trámite o que inicien antes de la entrada en vigor de esta Ley, serán concluidos en términos de lo dispuesto por la Ley que se abroga; por el Reglamento de la Ley que Regula la Entrega-Recepción de la Administración Pública del Estado de Nayarit, publicado en el Periódico Oficial el 8 (sic) junio de 2016; y por el Manual de Entrega-Recepción, publicado en el Periódico Oficial el 31 de agosto de 2016.
+
+QUINTO.- En los procesos de Entrega-Recepción que se inicien con la entrada en vigor de la presente Ley, y no se cuente con la reglamentación correspondiente, la Secretaría de la Contraloría General podrá emitir lineamientos o acuerdos de carácter general que estime convenientes para el desahogo de dichos procesos.
