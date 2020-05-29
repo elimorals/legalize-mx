@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2020-05-14"
+last_updated: "2020-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -191,23 +191,65 @@ VI. Las demás que dispongan las leyes, reglamentos y disposiciones administrati
 
 Promoción del desarrollo indígena
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### Artículo 13.
 
-En los municipios donde se encuentren asentados pueblos y comunidades indígenas, los ayuntamientos promoverán el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
+En los municipios donde se encuentren asentados pueblos y comunidades indígenas, los ayuntamientos, observando el principio de paridad de género, respetarán y protegerán la autonomía de los pueblos y comunidades indígenas, conforme a sus usos y costumbres, para elegir a sus autoridades y representantes ante los ayuntamientos. Asimismo, promoverán el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2020)</small>
+
+También, contarán con una unidad administrativa en materia de los pueblos y comunidades indígenas que atienda de manera directa los asuntos que les competan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2020)</small>
+
+Quien sea titular de la unidad administrativa señalada en el párrafo anterior, deberá ser elegido conforme a sus usos y costumbres.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Asimismo, promoverán que la educación básica y media superior que se imparta, sea tanto en idioma español como en la lengua indígena correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2020)</small>
+
+El Ayuntamiento coadyuvará en el registro de los pueblos y comunidades indígenas, asentados en su territorio, en el Padrón de Pueblos y Comunidades Indígenas en el estado, de conformidad con la Ley para la Protección de los Pueblos y Comunidades Indígenas en el Estado de Guanajuato.
+
 Para los efectos de los párrafos anteriores, los ayuntamientos expedirán normas de carácter general, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Consulta previa
+
+###### Artículo 13
+
+1. El Ayuntamiento garantizará la realización de consultas previo a la deliberación de asuntos que pudieran afectar a los pueblos y comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Autodeterminación de los pueblos indígenas
+
+###### Artículo 13
+
+2. El Ayuntamiento, a través del titular de la Secretaría, deberá notificar al representante de la comunidad o pueblo indígena, así como a sus autoridades indígenas, con noventa y seis horas de anticipación, sobre la celebración de sesiones del Ayuntamiento en las que se resolverán asuntos que competan al pueblo o a la comunidad, con el fin de que ésta pueda participar, con voz, en defensa de su libre determinación, sus derechos culturales y patrimoniales ancestrales que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y los tratados internacionales les reconocen, así como la defensa de sus intereses, cuando dichos asuntos puedan causar impactos en su vida y entorno.
+
+Los acuerdos que afecten a los pueblos y a las comunidades indígenas, tomados en sesiones en las que no se hayan cumplido la notificación que refiere el párrafo anterior o que no se haya garantizado su participación en la toma de decisiones estarán afectados de nulidad.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Participación de los pueblos indígenas
+
+###### Artículo 13
+
+3. Los pueblos y las comunidades indígenas podrán participar en el Consejo Municipal de Consulta y Participación Ciudadana establecido en la Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Guanajuato y sus Municipios, a través de su representante que al efecto designen.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Acciones a favor de los pueblos indígenas
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### Artículo 14.
 
-Los instrumentos de planeación deberán contener acciones tendientes al crecimiento y bienestar de los pueblos y las comunidades indígenas a que hace referencia el artículo anterior.
+Los instrumentos de planeación deberán contener acciones tendientes al crecimiento y bienestar de los pueblos y las comunidades indígenas. Para su diseño el Ayuntamiento deberá garantizar la participación previa de los pueblos y comunidades indígenas.
 
 ### Capítulo III. De la Participación Social
 
@@ -1931,7 +1973,9 @@ VIII. Administrar el Sistema Municipal de Información Estadística y Geográfic
 
 IX. Propiciar la vinculación con otras estructuras de planeación para el desarrollo sustentable del Municipio.
 
-### Capítulo IV. De los Consejos de Planeación De Desarrollo Municipales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2020)</small>
+
+### Capítulo IV. De los Consejos de Planeación de Desarrollo Municipales
 
 Consejo de Planeación de Desarrollo Municipal
 
@@ -1970,6 +2014,10 @@ IV. Representantes de la sociedad organizada que participen en las comisiones de
 V. Los funcionarios municipales que acuerde el Ayuntamiento; y
 
 VI. Los funcionarios estatales que el Ayuntamiento invite a participar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2020)</small>
+
+En los municipios donde se encuentren asentados pueblos y comunidades indígenas se integrará al Consejo de Planeación de Desarrollo Municipal, un representante que haya sido designado por el pueblo o comunidad indígena, ante el Ayuntamiento.
 
 Cuando el Municipio forme parte de un área conurbada o zona metropolitana se invitará a un representante de la comisión respectiva.
 
@@ -2592,6 +2640,20 @@ Los delegados y subdelegados municipales durarán en su cargo tres años, salvo 
 I. Cuando la propuesta de destitución la formule el Presidente Municipal, se requerirá para su aprobación la mayoría absoluta del Ayuntamiento; y
 
 II. Cuando la propuesta de destitución sea formulada por la mayoría absoluta del Ayuntamiento, se requerirá para su aprobación la mayoría calificada del mismo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Autoridades indígenas
+
+###### Artículo 141
+
+1. Tratándose de demarcaciones territoriales asignadas a una delegación en las que se encuentren asentados pueblos o comunidades indígenas, fungirán como autoridad auxiliar de los pueblos o comunidades indígenas quien sea electo conforme a sus usos y costumbres.
+
+El Ayuntamiento reconocerá a quien funge como autoridades auxiliares en la sesión inmediata siguiente a la designación que realice el pueblo o comunidad indígena, de conformidad con su reglamento.
+
+En ningún caso el Ayuntamiento podrá designar delegados o subdelegados tratándose de demarcaciones territoriales asignadas a una delegación en la que se encuentren asentados pueblos o comunidades indígenas.
+
+Las autoridades auxiliares representantes de los pueblos y comunidades indígenas durarán en su cargo el periodo de la administración municipal, y sólo podrán ser removidos de su cargo conforme a sus usos y costumbres de la comunidad que los nombró.
 
 Requisitos para ser delegado o subdelegado
 
@@ -3789,13 +3851,23 @@ Las actividades de programación-presupuestación, ejercicio, control, seguimien
 
 ## Título Noveno
 
-### Capítulo Único. De La Facultad Reglamentaria
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2020)</small>
+
+### Capítulo Único. De la Facultad Reglamentaria
 
 Facultad reglamentaria
 
 ###### Artículo 236.
 
 Los ayuntamientos están facultados para elaborar, expedir, reformar y adicionar, de acuerdo con las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Consulta a pueblos indígenas
+
+###### Artículo 236
+
+1. En la creación, o en su caso, reforma de los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, que afecten directamente a los pueblos y comunidades indígenas se deberá considerar su opinión a través de los mecanismos de consulta previa que establezcan las leyes y reglamentos respectivos.
 
 Bases para la expedición reglamentaria o normativa
 
@@ -4570,3 +4642,13 @@ P.O. 14 DE MAYO DE 2020.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Los Ayuntamientos, sus Comisiones y Órganos paramunicipales y desconcentrados que hayan deliberado y tomado acuerdos a través de sesiones a distancia, estos deberán ser convalidados cumpliendo con las formalidades que se prevén en las normas del presente decreto.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 186, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las disposiciones del artículo 141-1, del presente decreto, serán aplicables a partir de la administración municipal periodo 2021- 2024.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
