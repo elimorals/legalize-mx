@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2020-01-30"
+last_updated: "2020-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2019.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 30 DE ENERO DE 2020.]
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -207,7 +205,9 @@ XIV.- Determinar el número y, en su caso, la especialización por materia de lo
 
 XV.- Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia, cuando en un mismo lugar haya varios de ellos;
 
-XVI.- Nombrar, con carácter provisional, Magistrados Regionales de Circuito y Jueces de Primera Instancia cuando, en los casos previstos en esta Ley, se declaren desiertos los concursos;
+> <small>(REFORMADA, B.O. 29 DE MAYO DE 2020)</small>
+
+XVI.- Nombrar, con carácter provisional y con sujeción al principio de paridad de género, Magistrados Regionales de Circuito y Jueces de Primera Instancia cuando, en los casos previstos en esta Ley, se declaren desiertos los concursos;
 
 XVII.- Ordenar, cuando se considere conveniente por necesidades del servicio, la instalación de Juzgados de Primera Instancia Supernumerarios, y señalar el período de su funcionamiento, así como los asuntos de los que deban conocer;
 
@@ -1559,6 +1559,10 @@ Los órganos auxiliares contarán con el personal que fije el presupuesto.
 
 Los órganos auxiliares tendrán las atribuciones contenidas en la presente Ley, en los acuerdos generales y en los reglamentos internos que emita el Pleno del Supremo Tribunal de Justicia.
 
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+La designación de los titulares de los órganos auxiliares del Supremo Tribunal de Justicia y de las Direcciones, Centros y Unidades adscritos a ellos, así como los de las demás unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias creadas por acuerdo del Pleno, se sujetarán al principio de paridad de género.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE DICIEMBRE DE 2015)</small>
@@ -1786,6 +1790,8 @@ Los cargos de los integrantes del Comité Académico, con excepción del Directo
 El Comité Académico, en consulta con el titular del Instituto de la Judicatura Sonorense, tendrá como función determinar los lineamientos, políticas y estrategias de los programas de formación, capacitación y actualización a cargo de la Dirección, así como los mecanismos de evaluación y rendimiento de los servidores públicos del Poder Judicial estatal que desempeñen funciones jurisdiccionales. A la vez, el Comité Académico participará, conforme a las bases que emita el Pleno del Supremo Tribunal de Justicia, en la preparación y aplicación de los exámenes de aptitud y los de oposición.
 
 #### SECCION PRIMERA. DE LOS CONCURSOS DE OPOSICION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE MAYO DE 2020)</small>
 
 ### CAPITULO CUARTO. DE LA VISITADURIA JUDICIAL Y CONTRALORIA
 
@@ -2025,7 +2031,7 @@ ARTICULO 125 BIS.- La carrera judicial tiene por objeto, con base en el sistema 
 
 ###### ARTICULO 126.
 
-El ingreso y promoción para las categorías de Magistrado Regional de Circuito y Juez de Primera Instancia se realizará, en todos los casos, a través de:
+El ingreso y promoción para las categorías de Magistrado Regional de Circuito y Juez de Primera Instancia se sujetará al principio de paridad de género, a través de:
 
 I.- Concurso interno de oposición; y
 
@@ -2834,3 +2840,21 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Para que la Secretaría de Hacienda del Estado de Sonora, esté en posibilidades de dar cabal cumplimiento a lo dispuesto en los artículos 17, párrafo segundo de la Ley de Tránsito del Estado de Sonora y 316, párrafos tercero, cuarto y quinto de la Ley de Hacienda del Estado, deberá realizar el proceso de contratación sujetándose a lo previsto en el artículo 25 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal. Debiendo cubrir el pago de la póliza de seguro de responsabilidad civil en el mes de enero del 2020, para que los ciudadanos obtengan el beneficio planteado en los artículos señalados de las leyes de Tránsito del Estado de Sonora y de Hacienda del Estado, a partir del primer minuto del primer día de dicho año. Asimismo, la Secretaría de Hacienda deberá (sic) los lineamientos necesarios para implementar las disposiciones señaladas en el presente artículo.
+
+B.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 120, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ESTATAL DE RESPONSABILIDADES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA Y DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La observancia del principio de paridad de género a que se refiere este decreto, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+###### ARTÍCULO TERCERO.
+
+La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
