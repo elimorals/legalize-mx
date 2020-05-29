@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2020-05-07"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -1719,6 +1719,10 @@ La Oficialía Mayor tendrá bajo su dirección y supervisión las direcciones ge
 
 Los titulares de la Oficialía Mayor, de las Direcciones Generales y de Contraloría Interna, así como los subdirectores de dichas dependencias serán nombrados y removidos por el pleno del Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política.
 
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+La designación de todos los titulares a que hace referencia el párrafo anterior se realizará con estricto apego al principio de paridad de género.
+
 ###### ARTÍCULO 186.
 
 Queda prohibido acordar la entrega de numerario o bienes en especie a diputados o servidores públicos de confianza de primer nivel del Poder Legislativo, a título de bono, indemnización, compensación o cualquier otro concepto semejante o análogo, por motivo de la conclusión anticipada u ordinaria de sus funciones en el Congreso del Estado.
@@ -2737,11 +2741,23 @@ El presente Decreto entrará en vigor al siguiente día de su publicación en el
 
 La Comisión de Régimen Interno y Concertación Política, dentro del plazo de 20 días hábiles deberá emitir los lineamientos para el desarrollo de las sesiones del Pleno del Congreso del Estado no presenciales.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE DELITO DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
+B.O. 29 DE MAYO DE 2020.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, DE LA LEY ESTATAL DE RESPONSABILIDADES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA Y DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
 
-P.O. 13 JUNIO DE 2022.
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La observancia del principio de paridad de género a que se refiere este decreto, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+###### ARTÍCULO TERCERO.
+
+La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
 
