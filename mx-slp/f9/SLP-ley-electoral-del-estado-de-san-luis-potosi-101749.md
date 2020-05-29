@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-101749"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2020-03-24"
+last_updated: "2020-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE MAYO DE 2020.]
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 30 de junio de 2014.
 
@@ -229,7 +231,9 @@ XXXII. Precampaña: el conjunto de actividades que realizan los partidos políti
 
 XXXIII. Prerrogativas de los partidos políticos: los derechos que la Ley otorga a estas entidades para el ejercicio de sus funciones;
 
-XXXIV. Proceso electoral: la fase temporal que comienza con la primera sesión del Consejo, convocada la primera semana del mes de septiembre del año inmediato anterior al de la elección, de conformidad con el artículo 284 de la presente Ley, y que concluye con la declaración de validez de las elecciones que emita el Consejo o, en su caso, la última resolución que emita el Tribunal Electoral del Estado, y comprende el conjunto de decisiones de éste, así como los actos, tareas y actividades que realicen los organismos electorales del Estado, los partidos políticos y los ciudadanos, dentro de este término;
+(REFORMADA, P.O. 29 DE MAYO DE 2020) (F. DE E., P.O. 29 DE MAYO DE 2020)
+
+XXXIV. Proceso electoral: la fase temporal que comienza con la primera sesión del Consejo, convocada a más tardar el treinta de septiembre del año inmediato anterior al de la elección, de conformidad con el artículo 284 de la presente Ley, y que concluye con la declaración de validez de las elecciones que emita el Consejo o, en su caso, la última resolución que emita el Tribunal Electoral del Estado, y comprende el conjunto de decisiones de éste, así como los actos, tareas y actividades que realicen los organismos electorales del Estado, los partidos políticos y los ciudadanos, dentro de este término;
 
 XXXV. Propaganda electoral: el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las respectivas candidaturas;
 
@@ -693,9 +697,11 @@ Las demás que le confieren la Constitución Federal, la Ley General de Instituc
 
 El Pleno del Consejo se reunirá en sesión ordinaria por lo menos una vez al mes. Su presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los Consejeros Electorales o de los representantes de los partidos políticos, conjunta o indistintamente.
 
+(REFORMADO, P.O. 29 DE MAYO DE 2020) (F. DE E., P.O. 29 DE MAYO DE 2020)
+
 ###### ARTÍCULO 46.
 
-El Pleno del Consejo, para la preparación del proceso electoral, se reunirá dentro de la primera semana de septiembre del año anterior a aquél en que se celebren las elecciones estatales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Pleno del Consejo sesionará por lo menos dos veces por mes.
+El Pleno del Consejo, para la preparación del proceso electoral, se reunirá a más tardar el treinta de septiembre del año anterior a aquél en que se celebren las elecciones estatales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Pleno del Consejo sesionará por lo menos dos veces por mes.
 
 ###### ARTÍCULO 47.
 
@@ -3757,9 +3763,11 @@ El Consejo, para efectos de la contratación a que se refiere el artículo inmed
 
 ### Capítulo I. Del Inicio del Proceso Electoral
 
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020) (F. DE E., P.O. 29 DE MAYO DE 2020)
+
 ###### ARTÍCULO 284.
 
-El Pleno del Consejo dará inicio al proceso electoral, mediante una sesión pública de instalación convocada por el Presidente del mismo durante la primera semana del mes de septiembre del año inmediato anterior al de la elección, a fin de iniciar la preparación de la elección que corresponda, en la que se procederá a:
+El Pleno del Consejo dará inicio al proceso electoral, mediante una sesión pública de instalación convocada por el Presidente del mismo a más tardar el treinta de septiembre del año inmediato anterior al de la elección, a fin de iniciar la preparación de la elección que corresponda, en la que se procederá a:
 
 I. Convocar a los partidos políticos para que designen o ratifiquen ante el Consejo, a quienes deban representarlos:
 
@@ -3787,9 +3795,11 @@ III. De resultados y declaración de validez de las elecciones: que se inicia co
 
 Tratándose de elección extraordinaria, en la convocatoria respectiva deberá establecerse la fecha exacta para la celebración de la jornada electoral, para que con base en la misma, el Secretario Ejecutivo del Consejo esté en la posibilidad de elaborar el calendario electoral correspondiente, en el que deberán respetarse todos los plazos que se fijan en esta Ley para cada una de las etapas del proceso electoral ordinario, las que deberán adecuarse al proceso extraordinario.
 
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020) (F. DE E., P.O. 29 DE MAYO DE 2020)
+
 ###### ARTÍCULO 286.
 
-El proceso de las elecciones ordinarias de Gobernador, diputados, y ayuntamientos, comienza a partir de la sesión del Pleno del Consejo celebrada durante la primer semana del mes de septiembre del año anterior al de la elección; y culmina con la declaración de validez formal pronunciada por el Pleno, conforme a lo dispuesto por el párrafo segundo del artículo 31 de la Constitución del Estado, y el artículo 44 fracción II inciso l) de esta Ley. Sus fases serán:
+El proceso de las elecciones ordinarias de Gobernador, diputados, y ayuntamientos, comienza a partir de la sesión del Pleno del Consejo celebrada a más tardar el treinta de septiembre del año anterior al de la elección; y culmina con la declaración de validez formal pronunciada por el Pleno, conforme a lo dispuesto por el párrafo segundo del artículo 31 de la Constitución del Estado, y el artículo 44 fracción II inciso l) de esta Ley. Sus fases serán:
 
 I. Proveer la debida integración de las comisiones distritales electorales, comprobando la legal instalación de éstas, a más tardar el último día del mes de noviembre del año anterior al de la elección;
 
@@ -6160,5 +6170,23 @@ P.O. 24 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0644.- SE REFORMA LOS ARTÍCULOS, 92 EN SUS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO, 93 EN SUS FRACCIONES I, VI, VIII Y IX, 98 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES V Y VI, 101 EN SU FRACCIÓN III, 110 EN SU FRACCIÓN III Y 112 EN SUS PÁRRAFOS, PRIMERO, Y SEGUNDO; Y ADICIONA AL ARTÍCULO 98 LA FRACCIÓN VII, Y SEIS PÁRRAFOS ÉSTOS COMO NOVENO A DÉCIMO CUARTO, DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0680.- SE REFORMA (SIC) LOS ARTÍCULOS 6° EN SU FRACCIÓN XXXIV, 46, 284 EN SU PÁRRAFO PRIMERO Y 286 EN SU PÁRRAFO PRIMERO, DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+> <small>(F. DE E., P.O. 29 DE MAYO DE 2020)</small>
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0680.- SE REFORMA (SIC) LOS ARTÍCULOS 6° EN SU FRACCIÓN XXXIV, 46, 284 EN SU PÁRRAFO PRIMERO Y 286 EN SU PÁRRAFO PRIMERO, DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
