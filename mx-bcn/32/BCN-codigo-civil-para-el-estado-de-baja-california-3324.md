@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2020-04-03"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -769,19 +769,25 @@ Esta solicitud deberá ser firmada por los interesados, y si alguno no pudiere o
 
 Al escrito a que se refiere el artículo anterior, se acompañará:
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 146, 147, y 148;
+l.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón y la mujer sean mayores de edad;
+
+II.- (DEROGADA, P.O. 29 DE MAYO DE 2020)
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-IV.- Un certificado subscrito por un médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
+IV.- Un certificado subscrito por un médico titulado que establezca, bajo protesta de decir verdad, que los pretendientes padecen o no, sífilis, tuberculosis o enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+El padecimiento de alguna o algunas de las enfermedades señaladas en el párrafo anterior, no serán impedimento para contraer matrimonio.
 
-V.- En el convenio se expresara con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son personas menores de dieciocho años de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 186 y 208, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesitan saber al efecto de que el convenio quede debidamente formulado.
+Para los indigentes tienen obligación de expedir Gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MAYO DE 2020)</small>
+
+V.- En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. No puede dejarse de presentar este convenio ni a un (sic) pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 186 y 208, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicado a los interesados todo lo que necesitan saber al efecto de que el convenio quede debidamente formulado.
 
 Si de acuerdo con lo dispuesto en el artículo 182 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura;
 
@@ -799,9 +805,11 @@ VIII.- Constancia expedida por el Oficial del Registro Civil del domicilio corre
 
 En el caso de que los pretendientes por falta de conocimientos, no puedan redactar el convenio a que se refiere la Fracción V del artículo anterior, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 97.
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la Fracción III del artículo 95 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 95 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -825,15 +833,15 @@ Se levantará luego el acta de matrimonio en la cual se hará constar:
 
 I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
 
-II.- Si son mayores o menores de edad;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+II.- La mayoría de edad de los contrayentes;
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 1983)</small>
 
 III.- Los nombres, apellidos, domicilio y nacionalidad de los padres;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1983)</small>
-
-IV.- El consentimiento de los padres, de los abuelos o tutores, o de las autoridades que deban suplirlo, en su caso;
+IV.- (DEROGADA, P.O. 29 DE MAYO DE 2020)
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -851,9 +859,9 @@ VIII.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, y
 
 IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
-El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren o pudieren hacerlo.
+El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren o pudieren hacerlo, asimismo, en dicha acta se imprimirán las huellas digitales de los contrayentes.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -863,9 +871,11 @@ En el acta se imprimirán las huellas digitales de los contrayentes.
 
 Cuando por razón del matrimonio, alguno de los que lo contraigan adquiera la emancipación en los términos del Artículo 636, se hará la anotación respectiva en el acta de nacimiento del emancipado, expresándose en ella la fecha del matrimonio y el lugar en que se celebró.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 101.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la Fracción IV del artículo 95, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad serán consignados al Ministerio Público para que ejercite la acción penal correspondiente.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
@@ -909,7 +919,9 @@ El Oficial del Registro Civil que sin motivo justificado retarde la celebración
 
 El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que subscriban el certificado exigido por la Fracción IV del artículo 95.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+También podrá exigir declaración bajo protesta a los testigos que los interesados presenten.
 
 ### CAPITULO VIII. DE LAS ACTAS DE DIVORCIO
 
@@ -1191,21 +1203,19 @@ El matrimonio debe celebrarse ante los funcionarios que establece la Ley y con l
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 145.
 
-Para contraer matrimonio, tanto el hombre como la mujer, necesitan haber cumplido dieciocho años. Los Presidentes Municipales pueden conceder dispensas de edad por causas graves y justificadas. No se otorgara dispensa a ningún menor de dieciséis años.
+Para contraer matrimonio, tanto el hombre como la mujer, necesitan haber cumplido dieciocho años, por lo que en ningún caso los Presidentes Municipales podrán otorgar dispensa a menores de dieciocho años.
 
 ###### ARTICULO 146.
 
-El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 147.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, a petición de parte, cuando se niegue o revoque el consentimiento el Juez de Primera Instancia de lo Familiar de la residencia de la persona menor de dieciocho años de edad podrá o no suplir el consentimiento.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTÍCULO 148.
 
@@ -1213,29 +1223,29 @@ Faltando padres y abuelos, se necesita el consentimiento de los tutores; y falta
 
 ###### ARTICULO 149.
 
-Si el Juez, en el caso del artículo 147, se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Superior, en los términos que disponga el Código de Procedimientos Civiles.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 150.
 
-El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 151.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 98.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 152.
 
-El Juez que hubiere autorizado a una persona menor de dieciocho años de edad para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 153.
 
 Son impedimentos para celebrar el contrato de matrimonio:
 
-I.- La falta de edad requerida por la Ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o del Juez, en sus respectivos casos;
+I.- La falta de edad requerida por la Ley;
+
+II.- (DEROGADA, P.O. 29 DE MAYO DE 2020)
 
 III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -1247,9 +1257,9 @@ VI.- El atentado contra la vida de alguno de los casados para contraer matrimoni
 
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, el síndrome de inmunodeficiencia adquirida (SIDA), la locura y las enfermedades crónicas e incurables, que sean, además contagiosas o hereditarias;
+VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes y la locura;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -1257,7 +1267,9 @@ IX.- Las personas que no tengan la capacidad para comprender el significado del 
 
 X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+De estos impedimentos sólo es dispensable el parentesco de consanguinidad en línea colateral desigual.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1283,7 +1295,7 @@ Esta prohibición comprende también al curador y a los descendientes de éste y
 
 ###### ARTICULO 157.
 
-Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el Juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 158.
 
@@ -1359,11 +1371,9 @@ Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la 
 
 El marido y la mujer, mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta la autorización de aquel; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de bienes.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
 ###### ARTICULO 170.
 
-El hombre y la mujer, que sean personas menores de dieciocho años de edad; tendrán la administración de sus bienes en los términos del artículo que precede, pero necesitaran autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 171.
 
@@ -1397,11 +1407,9 @@ Las capitulaciones matrimoniales son los pactos que los esposos celebran para co
 
 Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieran después.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
 ###### ARTICULO 178.
 
-Las personas menores de dieciocho años de edad, que con arreglo a la ley puedan contraer matrimonio, pueden también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 179.
 
@@ -1429,13 +1437,11 @@ Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, cons
 
 En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 184.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si estos son personas menores de dieciocho años de edad, deben intervenir en la disolución de la sociedad prestando su consentimiento, las personas a que se refiere el artículo 178.
-
-Esta misma regla se observara cuando la sociedad conyugal se modifique mientras los consortes sean personas menores de dieciocho años de edad.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos.
 
 ###### ARTICULO 185.
 
@@ -1545,13 +1551,11 @@ Puede haber separación de bienes en virtud de capitulaciones anteriores al matr
 
 La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objetos de la sociedad conyugal que deben constituir los esposos.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 206.
 
-Durante el matrimonio la separación de bienes puede terminar para ser sustituida por la sociedad conyugal pero si los consortes son personas menores de dieciocho años de edad, se observara lo dispuesto en el artículo 178.
-
-Lo mismo se observara cuando las capitulaciones de separación se modifiquen mientras los consortes sean personas menores de dieciocho años de edad.
+Durante el matrimonio la separación de bienes puede terminar para ser sustituida por la sociedad conyugal.
 
 ###### ARTICULO 207.
 
@@ -1677,29 +1681,19 @@ La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge e
 
 ###### ARTICULO 234.
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
-
-I.- Cuando haya habido hijos;
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-II.- Cuando, aunque no los haya habido, la persona hubiere llegado a los dieciocho años; y ni él ni el otro cónyuge hubieren intentado la nulidad.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 235.
 
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquel o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 236.
 
-Cesa esta causa de nulidad:
-
-I.- Si han pasado los treinta días sin que se haya pedido;
-
-II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del Juez sean tan conducentes al efecto, como los expresados.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 237.
 
-La nulidad por falta de consentimiento del tutor o del Juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 238.
 
@@ -1725,7 +1719,9 @@ El miedo y la violencia serán causa de nulidad del matrimonio si concurren las 
 
 I.- Que uno u otro importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
 
-II.- Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+II.- Que el miedo haya sido causado o la violencia hecha al cónyuge.
 
 III.- Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
@@ -1825,13 +1821,15 @@ Es ilícito pero no nulo el matrimonio:
 
 I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa.
 
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 156, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 155 y 286.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+II.- Cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 155 y 286.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 262.
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con persona menor de dieciocho años de edad sin autorización de los padres de este, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
+Los que infrinjan el artículo anterior y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
 
 ### CAPITULO X. DEL DIVORCIO
 
@@ -3129,7 +3127,9 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-I.- Por la emancipación derivada del matrimonio o la mayor edad de los hijos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+I.- Por la mayoría de edad de los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
@@ -3165,7 +3165,7 @@ La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación, derivada del matrimonio;
+II.- (DEROGADA, P.O. 29 DE MAYO DE 2020)
 
 III.- Por la mayor edad del hijo.
 
@@ -3279,11 +3279,9 @@ IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado d
 
 V.- Las personas mayores de dieciocho años de edad que por enfermedad o cualquier causa que lo provoque sean declarados incapaces o no puedan valerse por sí mismas.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
 ###### ARTICULO 448.
 
-Las personas menores de dieciocho años de edad, emancipadas por razón del matrimonio, no tienen capacidad para comprender los actos que se mencionan en el artículo relativo al Capítulo I, del Titulo X de este libro.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 449.
 
@@ -4369,9 +4367,7 @@ Designarán por si mismos al curador, con aprobación judicial:
 
 I.- Los comprendidos en el Artículo 493, observándose lo que allí se dispone respecto de esos nombramientos;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
-II.- Las personas menores de dieciocho años de edad emancipados por razón de matrimonio; en el caso previsto en la fracción II del artículo 637.
+II.- (DEROGADA, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 622.
 
@@ -4461,23 +4457,19 @@ Las personas menores de dieciocho años de edad no pueden alegar la nulidad de q
 
 Tampoco pueden alegarla las personas menores de dieciocho años de edad, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
 
-## TITULO DECIMO. DE LA EMANCIPACION Y DE LA MAYOR EDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2020)</small>
+
+## TITULO DECIMO. DE LA MAYORIA DE EDAD
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
-
 ###### ARTICULO 636.
 
-El matrimonio de las personas menores de dieciocho años de edad produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea persona menor de dieciocho años de edad, no recaerá en la patria potestad.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 637.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
-
-I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
-
-II.- De un tutor para negocios judiciales.
+(DEROGADO, P.O. 29 DE MAYO DE 2020)
 
 ###### ARTICULO 638.
 
@@ -16714,3 +16706,11 @@ c) El arrendamiento de casa habitación de hasta de 120 metros cuadrados, de ah�
 TERCERO: Los Jueces del Poder Judicial del Estado deberán observar estas disposiciones en concordancia al artículo 20 del Código Civil del Estado y fomentarán al máximo en su caso los medios alternos de solución de conflictos de manera directa o apoyados por los Centros de Justicia Alternativa.
 
 CUARTO: Los propietarios de los negocios regulados por la Ley que Establece las Bases de Operación de las Casas de Empeño del Estado de Baja California deberán acatar a la letra las disposiciones contenidas en este Decreto bajo su estricta responsabilidad.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 69 MEDIANTE EL CUAL SE APRUEBA LA REFORMA Y DEROGACIÓN A DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los asuntos que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución, continuarán su trámite de conformidad con la legislación aplicable en el momento de la presentación de estos.
