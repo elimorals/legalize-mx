@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2020-02-28"
+last_updated: "2020-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2020.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -3879,11 +3879,11 @@ La Tesorería será responsable de integrar la cuenta pública del municipio, la
 
 La Tesorería determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las dependencias y entidades la información complementaria y aclaraciones que considere convenientes.
 
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2020)</small>
 
 ###### Artículo 380.
 
-La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo, la Cuenta Pública Municipal del ejercicio inmediato anterior, durante el mes de enero de cada año. Tratándose del último año de la administración municipal, deberán someterla a la consideración del Cabildo, durante el mes de diciembre, o bien, hasta el último día del mes de enero.
+La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el último día hábil del mes de marzo y la presentará al Congreso del Estado a más tardar el día treinta de abril. Tratándose del último año de la administración municipal, deberán someterla a la consideración del Cabildo, durante el mes de diciembre, o bien, hasta el último día del mes de enero.
 
 ###### Artículo 381.
 
@@ -5230,5 +5230,15 @@ G.O. 28 DE FEBRERO DE 2020.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Los Ayuntamientos a partir de la entrada en vigor del presente Decreto contarán con noventa días posteriores para emitir las disposiciones reglamentarias respectivas, para la aplicación de lo establecido en el presente Decreto.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 565 QUE REFORMA EL ARTÍCULO 380 DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Los Ayuntamientos que dispongan de (sic) Código Hacendario Municipal propio deberán proponer ante esta Soberanía la reforma correspondiente, con el propósito de ajustarse a lo dispuesto en el presente Decreto, en un plazo que no excederá de treinta días hábiles a partir de la entrada en vigor del mismo.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
