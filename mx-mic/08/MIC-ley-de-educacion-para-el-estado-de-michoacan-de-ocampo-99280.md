@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-para-el-estado-de-michoacan-de-ocampo-99280"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2019-11-12"
+last_updated: "2020-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,9 +29,11 @@ state: "MIC"
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)].
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 29 DE MAYO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EDUCACIÓN PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020 (ABROGADO).
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 28 de febrero de 2014.
 
@@ -1840,3 +1842,29 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO168.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 21 Y LA FRACCIÓN III DEL ARTÍCULO 94, AMBOS DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 35; Y LOS ARTÍCULOS 36 Y 37 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO". ]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de Educación para el Estado de Michoacán de Ocampo, publicada el 28 de febrero de 2014 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sujetándose a la legislación con la que se iniciaron, sin contravenir lo dispuesto por la legislación aplicable.
+
+La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+
+CUARTO. En lo no previsto por esta Ley se estará a lo dispuesto por la legislación aplicable.
+
+QUINTO. El Ejecutivo del Estado en un plazo no mayor de noventa días, publicará las modificaciones al Reglamento Interior de la Administración Pública Centralizada del Estado de Michoacán de Ocampo de conformidad y concordancia con los aspectos generales de la Ley General y la presente Ley.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo del Estado, para el ejercicio fiscal correspondiente, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, derivadas de la presente Ley.
+
+SÉPTIMO. En el cumplimiento de todo lo que se establece como progresivo se deberán observar las disposiciones y tiempos que establecen la Ley General y demás legislación aplicable en la materia.
+
+OCTAVO. Las autoridades educativas, en el ámbito de sus respectivas competencias, establecerán de forma paulatina y progresiva, conforme a la disponibilidad presupuestaria, un programa de subsidios escolares compensatorios para reducir condiciones de inequidad social en el sistema educativo.
+
+NOVENO. Las autoridades educativas, en el ámbito de su competencia, preverán de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar la prestación de educación inicial, así mismo, lo dispuesto en el artículo 60 párrafo segundo, que hace referencia a la educación física, educación artística y educación especial, con el fin de lograr una cobertura estatal de dicho servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia, en los términos a que se refiere el Artículo Décimo Segundo Transitorio de la Ley General.
+
+DÉCIMO. Remítase el presente Decreto al Titular del Poder Ejecutivo Federal, al Congreso de la Unión, a las Legislaturas de los Estados y a la Asamblea Legislativa de la Ciudad de México, así como a los 112 Ayuntamientos del Estado y al Concejo Mayor de Cherán, para su conocimiento.
