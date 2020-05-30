@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2020-05-09"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3471,9 +3471,15 @@ a) Se exceda el gasto de campaña en un cinco por ciento del monto total autoriz
 
 b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la Ley.
 
-c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas, y
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-d) Las demás causas previstas en esta Constitución y por las causas expresamente establecidas en la Ley.
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+d) Se acredite violencia política contra las mujeres en razón de género, y
+
+e) Las demás causas previstas en esta Constitución y por las causas expresamente establecidas en la Ley.
 
 VII. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
@@ -5592,3 +5598,11 @@ P.O. 9 DE MAYO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1508.- MEDIANTE EL CUAL SE REFORMA EL INCISO C), Y SE ADICIONA EL INCISO D) RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE DE LA FRACCIÓN VI DEL ARTÍCULO 114 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
