@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-de-medios-de-impugnacion-en-materia-89316"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2020-02-29"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto de 2012.
 
@@ -152,6 +152,10 @@ Las autoridades electorales, para el debido cumplimiento de sus funciones, se re
 7. Los magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos, por lo que tomarán, de oficio o a petición de parte, las medidas necesarias, para prevenir o sancionar cualquier acto contrario al respeto debido al Tribunal y al que han de guardarse las partes entre sí, así como las faltas de decoro y probidad, para lo que podrán requerir el auxilio de la fuerza pública.
 
 8. El acceso a los expedientes quedará reservado sólo a las partes y a las personas autorizadas para ello, y una vez que las resoluciones que se emitan para su resolución hayan causado estado, podrán ser consultados por cualquier persona, en los términos de la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+9. El Tribunal, en cualquier asunto que conozca, y en el cual advierta posibles actos de violencia política hacia las mujeres en razón de género, deberá dictar de oficio las medidas de protección necesarias.
 
 ###### Artículo 6.
 
@@ -1379,9 +1383,13 @@ También será nula una elección cuando todos los integrantes de la planilla de
 
 ### CAPÍTULO I. De la Procedencia
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 ###### Artículo 98.
 
-El juicio para la protección de los derechos político electorales de la ciudadanía establecida en este apartado, es el juicio procedente cuando el ciudadano por sí mismo y en forma individual, o a través de su representante legal, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones en los municipios y comunidades que se rigen bajo Sistemas Normativos Internos.
+El juicio para la protección de los derechos político electorales de la ciudadania establecida en este apartado, es el juicio procedente cuando la ciudadana o el ciudadano por si mismo y en forma individual, o a través de su representante legal, haga valer presuntas violaciones a sus derechos de votar y ser votada o votado, en las elecciones en los municipios y comunidades que se rigen bajo Sistemas Normativos Internos.
+
+Asimismo, el Juicio para la Protección de los Derechos Político Electorales de la ciudadanía en el Régimen de Sistemas Normativos Internos procederá cuando se cometa violencia política contra las mujeres en razón de género.
 
 ###### Artículo 99.
 
@@ -1462,6 +1470,20 @@ b) Se respeten todas las formalidades esenciales del procedimiento exigidas cons
 c) Que formal y materialmente resulten eficaces para restituir a los promoventes en el goce de sus derechos político-electorales transgredidos.
 
 Cuando falte algún requisito de los señalados con anterioridad, acudir a las instancias internas será optativo, por lo que el afectado podrá acudir directamente a la autoridad jurisdiccional, siempre y cuando se corra el riesgo de que la violación alegada se torne irreparable, y en su caso, acredite haberse desistido previamente de las instancias internas que hubiera iniciado, y que aún no se hubieran resuelto, a fin de evitar resoluciones contradictorias.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 30 DE MAYO DE 2020)</small>
+
+3. El juicio podrá ser promovido por la ciudadana o el ciudadano cuando:
+
+a) Considere que se violó su derecho a ser votado cuando, habiendo sido propuesta o propuesto por un partido político, le sea negado indebidamente su registro como candidata o candidato a un cargo de elección popular. En los procesos electorales locales, si también el partido político interpuso recurso de revisión o apelación, según corresponda, por la negativa del mismo registro, el Consejo del Instituto a solicitud del Tribunal remitirá el expediente para que sea resuelto por ésta (sic), junto con el juicio promovido por la ciudadana o el ciudadano;
+
+b) Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político;
+
+c) Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político electorales a que se refiere el artículo anterior, o bien de derechos fundamentales vinculados con éstos;
+
+d) Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos políticos y electorales. Lo anterior es aplicable a las personas precandidatas y candidatas a cargos de elección popular aun cuando no estén afiliadas al partido señalado como responsable; y
+
+e) Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca y la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
 
 ###### Artículo 106.
 
@@ -1792,3 +1814,17 @@ P.O. 29 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1399.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 11, Y EL INCISO B) DEL ARTÍCULO 37 DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1511.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, dentro de los 90 días hábiles posteriores a la entrada en vigor del presente Decreto, hará las modificaciones necesarias a su reglamento y manuales.
+
+TERCERO. Para el cumplimiento de los artículos 15, 24, 32 y 52 de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca, respecto de la paridad en sistemas normativos internos o indígenas, esta será gradual, logrando su cabal cumplimiento en el año 2023.
+
+CUARTO. La Secretaría General de Gobierno deberá realizar una campaña de difusión, con perspectiva intercultural, en coordinación con la Secretaría de las Mujeres de Oaxaca, el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y la Secretaría de Pueblos Indígenas y Afromexicano, en medios de comunicación impresos, digitales, radio y televisión, en español y traducido a las lenguas indígenas del Estado, con el objetivo de que las mujeres de Oaxaca, conozcan sus derechos político electorales.
+
+QUINTO. Para los efectos del párrafo décimo tercero del artículo 182 de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca, respecto a la integración de las planillas de concejales, indistintamente del género que encabece la planilla, la última fórmula será integrada por el género femenino, se considera que esta medida será de carácter temporal, en tanto no se alcance la paridad.
