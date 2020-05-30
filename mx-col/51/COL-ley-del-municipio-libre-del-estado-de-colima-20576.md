@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2020-02-01"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -389,9 +389,11 @@ El cargo de miembro de los observatorios ciudadanos será honorífico, por lo qu
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 25.
 
-Los ayuntamientos estarán integrados de conformidad con lo que establece el artículo 89 de la Constitución y el Código Electoral.
+Los ayuntamientos estarán integrados de conformidad con lo que establece el artículo 92 de la Constitución y el Código Electoral.
 
 ###### ARTICULO 26.
 
@@ -403,17 +405,19 @@ Las y los munícipes en funciones no podrán desempeñar, al mismo tiempo, un ca
 
 Los cargos de elección popular municipal son irrenunciables salvo que existan causas justificadas que calificará el propio ayuntamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 27.
 
-Para ser integrante de un ayuntamiento se requiere cumplir con los requisitos establecidos por el artículo 90 de la Constitución. Las categorías de los servidores públicos a que se refiere el último párrafo del citado artículo, son los siguientes:
+Para ser integrante de un ayuntamiento se requiere cumplir con los requisitos establecidos por el artículo 93 de la Constitución. Las categorías de los servidores públicos a que se refiere la fracción IX del citado artículo, son los siguientes:
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 a) De la federación: delegada o delegado, o su equivalente de las secretarías de Estado, Procuraduría General de la República, organismos descentralizados, empresas de participación estatal y fideicomisos;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-b) Del Estado: Secretaria o Secretario de la Administración Pública, Consejera o Consejero Jurídico, Fiscal General, Contralora y Contralor, Magistrada o Magistrado del Supremo Tribunal de Justicia, titulares de entidades paraestatales, empresas de participación estatal o fideicomisos; y
+b) Del Estado: Secretario de la Administración Pública, Consejero Jurídico, Fiscal General, Contralor, Magistrado del Supremo Tribunal de Justicia, titulares de entidades paraestatales; y
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
@@ -595,9 +599,9 @@ Instalado el ayuntamiento, se comunicará oficialmente su integración a los Pod
 
 Al siguiente día de la sesión de instalación, el ayuntamiento procederá en sesión ordinaria, a lo siguiente:
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-I. Nombrar a la secretaria o secretario, tesorera o tesorero, oficial mayor y contralora o contralor;
+I. Nombrar al secretario, tesorero, oficial mayor, contralor, Juez Cívico y Director de Seguridad Pública;
 
 II. Aprobar las comisiones a que se refiere esta Ley; y
 
@@ -715,6 +719,14 @@ q) Intervenir ante toda clase de autoridades civiles o militares, cuando por dis
 
 r) Concesionar la prestación de bienes y servicios públicos, en los términos de esta Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+s) Promover, respetar, proteger y garantizar los derechos humanos de toda persona dentro del ámbito de su competencia, previniendo, investigando, sancionando y reparando las violaciones a los mismos, en términos de la Constitución y de la Constitución General; y
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+t) Garantizar el ejercicio del derecho de toda persona a tener acceso a la información pública municipal, constituyendo al efecto el Comité de Transparencia y las Unidades de Transparencia correspondientes, vigilando su correcto funcionamiento de acuerdo a su normatividad interna.
+
 II. En materia de obra pública y desarrollo urbano:
 
 a) Dividir y modificar, para los efectos administrativos internos, la demarcación existente del territorio municipal; así como crear o suprimir categorías urbanas de los centro (sic) de población en el municipio, con excepción de la de ciudad;
@@ -775,13 +787,13 @@ b) Remitir mensualmente al Congreso, a más tardar el día 15, la cuenta detalla
 
 c) Autorizar y remitir anualmente al Congreso, para su aprobación, a más tardar el 31 de octubre y hasta el 15 de noviembre de cada tres años, cuando con motivo del cambio de gobierno municipal, la iniciativa de ley general de ingresos municipales para el siguiente año; en caso de incumplimiento quedará la (sic) vigente la ley general de ingresos municipales del ejercicio fiscal vigente.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2020)</small>
 
-d) Aprobar el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal que presenten conjuntamente la comisión de hacienda y la síndica o el síndico municipal, con base en el proyecto que presente la tesorería municipal, así como del informe de revisión que entregue la contraloría municipal, y remitirla al Congreso a más tardar el último día de febrero del ejercicio siguiente, para los efectos señalados en el artículo 33 fracción XI de la Constitución.
+d) Aprobar el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal que presenten conjuntamente la comisión de hacienda y síndico municipal, con base en el proyecto que presente la tesorería municipal, así como del informe de revisión que entregue la contraloría municipal, y remitirla al Congreso a más tardar el último día de febrero del ejercicio siguiente, para los efectos señalados en el artículo 36 de la Constitución.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-La aprobación del dictamen de revisión por el Cabildo no impide que se finquen responsabilidades a los servidores públicos que hayan incurrido en ellas, si del resultado de la revisión se determinan faltas administrativas ello en los términos que establece la Ley Estatal de Responsabilidades de los Servidores Públicos.
+La aprobación del dictamen de revisión por el Cabildo no impide que se finquen responsabilidades a los servidores públicos que hayan incurrido en ellas, si del resultado de la revisión se determinan faltas administrativas ello en los términos que establece la Ley General de Responsabilidades Administrativas.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
@@ -933,15 +945,19 @@ b) Prestar a las autoridades judiciales el auxilio que soliciten.
 
 IV. En materia de hacienda municipal:
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-a) Vigilar que la recaudación en todas las ramas de la hacienda pública municipal, se haga con apego a la ley de ingresos y de hacienda municipales; y
+a) Vigilar que la recaudación en todas las ramas de la hacienda pública municipal, se haga con apego a la ley de ingresos y de hacienda municipales;
 
 b) Vigilar que el gasto y la inversión de los fondos municipales, se haga con estricto apego al presupuesto de egresos;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-c) Vigilar que se entregue a la comisión de hacienda y a la síndica o síndico municipal, en tiempo y forma, el proyecto de la cuenta pública municipal del ejercicio fiscal que elabore la tesorería municipal, así como el resultado de la revisión practicada por la contraloría municipal a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten al patrimonio, la deuda pública municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento, así como toda la documentación que solicite la citada comisión, con el fin de que la misma conjuntamente con la síndica o síndico municipal elaboren el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal.
+c) Vigilar que se entregue a la comisión de hacienda y a la síndica o síndico municipal, en tiempo y forma, el proyecto de la cuenta pública municipal del ejercicio fiscal que elabore la tesorería municipal, así como el resultado de la revisión practicada por la contraloría municipal a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten al patrimonio, la deuda pública municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento, así como toda la documentación que solicite la citada comisión, con el fin de que la misma conjuntamente con la síndica o síndico municipal elaboren el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal; y
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+d) Vigilar que todo servidor público proporcione la información comprobatoria relativa a los gastos de viaje y viáticos cubiertos con cargo al erario público, para la verificación por parte del área competente de su correcta aplicación, así como del cumplimiento del objeto y justificación de la comisión, función o encargo realizados.
 
 V. En materia social, cultural y desarrollo comunitario:
 
@@ -1137,9 +1153,11 @@ En los casos de licencias y faltas de los integrantes de concejos municipales se
 
 ### CAPÍTULO IX. DE LA DESINTEGRACIÓN DE AYUNTAMIENTOS Y DE LA SUSPENSIÓN O REVOCACIÓN DEL MANDATO DE SUS INTEGRANTES
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 59.
 
-El Congreso, de conformidad con lo dispuesto por el artículo 87, fracción I, de la Constitución, podrá declarar que los ayuntamientos se han desintegrado y suspender o revocar el mandato a cualesquiera de sus miembros, por las causas que la misma determina, siempre y cuando sus integrantes hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan, de conformidad con el procedimiento que establezca la Ley Orgánica del Poder Legislativo.
+El Congreso, de conformidad con lo dispuesto por el artículo 90, fracción I, de la Constitución, podrá declarar que los ayuntamientos se han desintegrado y suspender o revocar el mandato a cualesquiera de sus miembros, por las causas que la misma determina, siempre y cuando sus integrantes hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan, de conformidad con el procedimiento que establezca la Ley para Regular la Participación del Congreso en Asuntos Municipales.
 
 ### CAPÍTULO X. DE LAS AUTORIDADES AUXILIARES
 
@@ -1215,11 +1233,21 @@ II. Tesorería municipal;
 
 III. Oficialía mayor;
 
-IV. Contraloría municipal; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+IV. Contraloría municipal;
 
-V. Las demás que el ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicable (sic), observando en su integración el principio de paridad de género.
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+V. Juzgado Cívico;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VI. Dirección de Seguridad Pública; y
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VII. Las demás que el ayuntamiento determine, considerando las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera del municipio, así como el ramo o servicio que se pretenda atender, en los términos de la presente Ley y otras disposiciones legales aplicables.
 
 Los ayuntamientos, en el reglamento correspondiente, deberán señalar las atribuciones que tendrán las dependencias; asimismo, podrán otorgarles la denominación que corresponda atendiendo a su organización administrativa.
 
@@ -1245,9 +1273,7 @@ Para ser secretaria o secretario de un ayuntamiento se requiere:
 
 I. Ser ciudadana o ciudadano colimense en pleno uso de sus derechos políticos y civiles y tener la capacidad para desempeñar el cargo;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
-
-II. Tener como mínimo 21 años cumplidos;
+II. (DEROGADA, P.O. 30 DE MAYO DE 2020)
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1323,11 +1349,11 @@ La o el titular de la tesorería municipal será nombrado por el cabildo a propu
 
 La tesorera o tesorero y los empleados que manejen fondos o recursos económicos municipales, estarán obligados a caucionar su manejo en la forma y términos previstos por el cabildo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 72.
 
-Son facultades y obligaciones de la tesorera o tesorero:
+Son facultades y obligaciones del tesorero:
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
@@ -1341,7 +1367,9 @@ III. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones fi
 
 IV. Planear y proyectar los presupuestos anuales de ingresos así como la previsión de egresos y presentarlos al ayuntamiento a través de la presidenta o presidente municipal;
 
-V. Llevar al corriente el padrón fiscal municipal y practicar revisiones y auditorías a causantes;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+V. Llevar al corriente el padrón fiscal municipal y practicar revisiones y auditorías a contribuyentes;
 
 VI. Formular mensualmente el estado de origen y aplicación de los recursos municipales;
 
@@ -1377,9 +1405,11 @@ XV. Las demás que les señalen las leyes y reglamentos.
 
 Serán responsables las tesoreras o tesoreros de las erogaciones que efectúen y que no estén comprendidas en el presupuesto o no hayan sido autorizadas por el ayuntamiento.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 74.
 
-En el supuesto del último párrafo de la fracción IV del artículo 115 de la Constitución General y similar del 87 de la Constitución, se procederá en los términos del acuerdo respectivo, aprobado por el cabildo por el voto de cuando menos las dos terceras partes del total de sus integrantes, el cual será publicado en el periódico oficial. En dicho acuerdo se precisarán, entre otros, el objeto específico, las modalidades de operación, las facultades de vigilancia y fiscalización de los órganos competentes, las infracciones y sanciones así como las causas de rescisión y terminación.
+En el supuesto del último párrafo de la fracción IV del artículo 115 de la Constitución General y similar del 90 de la Constitución, se procederá en los términos del acuerdo respectivo, aprobado por el cabildo por el voto de cuando menos las dos terceras partes del total de sus integrantes, el cual será publicado en el periódico oficial. En dicho acuerdo se precisarán, entre otros, el objeto específico, las modalidades de operación, las facultades de vigilancia y fiscalización de los órganos competentes, las infracciones y sanciones, así como las causas de rescisión y terminación.
 
 ### CAPÍTULO V. DE LA OFICIALÍA MAYOR
 
@@ -1447,9 +1477,9 @@ XVII. Las demás que le otorguen las leyes, reglamentos y manuales de organizaci
 
 La Contraloría municipal tendrá a su cargo promover, evaluar y fortalecer el buen funcionamiento del control interno del Municipio y de las dependencias y entidades que conforman su Administración Pública, centralizada y paramunicipal. La o el titular de la Contraloría municipal será nombrado por el Cabildo, a propuesta de la presidenta o presidente municipal, y deberá cumplir con los requisitos establecidos en el artículo 68 de esta Ley.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-La Contraloría municipal estará dotada de autonomía técnica y de gestión, y ejercerá las facultades que a los órganos internos de control confiere el artículo 109 de la Constitución Política de los Estados Unidos Mexicanos y su correlativo de la Constitución Política del Estado Libre y Soberano de Colima en materia de responsabilidades administrativas.
+La Contraloría municipal estará dotada de autonomía técnica y de gestión, y ejercerá las facultades que a los órganos internos de control confiere el artículo 109 de la Constitución General y su correlativo de la Constitución en materia de responsabilidades administrativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2020)</small>
 
@@ -1647,13 +1677,19 @@ Se considerará fideicomiso público municipal cuando el municipio o un organism
 
 El Ayuntamiento Podrá Participar en convenios de asociación productiva, participación e inversión, o fideicomisos con el gobierno del Estado, o sin él, con personas físicas o morales, para la instalación de plantas de tratamiento para la industrialización, comercialización y disposición final de residuos.
 
-## TÍTULO CUARTO. DE LOS SERVICIOS PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2020)</small>
 
-### CAPÍTULO I. SERVICIOS PÚBLICOS
+## TÍTULO CUARTO. DE LAS FUNCIONES Y SERVICIOS PÚBLICOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2020)</small>
+
+### CAPÍTULO I. FUNCIONES Y SERVICIOS PÚBLICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 86.
 
-Los Ayuntamientos organizarán y reglamentarán la administración, funcionamiento, conservación y explotación de sus servicios públicos, considerándose como tales en forma enunciativa, los siguientes:
+Los Ayuntamientos organizarán y reglamentarán la administración, funcionamiento, conservación y prestación de sus servicios públicos, así como la realización de las funciones públicas, considerándose como tales en forma enunciativa, los siguientes:
 
 I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
@@ -1825,13 +1861,15 @@ El Congreso podrá ordenar los estudios y análisis técnicos para determinar lo
 
 Los conflictos que se presenten con motivo de la aplicación de los convenios a que se refiere este capítulo, serán resueltos por el Supremo Tribunal de Justicia, sin perjuicio del derecho de acudir en controversia constitucional en los términos del artículo 105 de la Constitución General.
 
-### CAPÍTULO IV. DE LAS CONCESIONES DE BIENES Y SERVICIOS PÚBLICOS MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+### CAPÍTULO IV. DE LAS CONCESIONES DE BIENES, FUNCIONES Y SERVICIOS PÚBLICOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 95.
 
-Los bienes y servicios públicos municipales, con excepción de los servicios de seguridad pública, policía preventiva municipal, tránsito y vialidad, previa autorización de cuando menos las dos terceras partes de los integrantes del Cabildo, pueden ser materia de concesión o asociación público-privada, a particulares, sujetándose a lo establecido por esta Ley, las cláusulas del título-concesión y demás disposiciones jurídicas aplicables.
+Los bienes y servicios públicos municipales, con excepción de las funciones de seguridad pública, policía preventiva municipal, tránsito y vialidad, previa autorización de cuando menos las dos terceras partes de los integrantes del Cabildo, pueden ser materia de concesión o asociación público-privada, a particulares, sujetándose a lo establecido por esta Ley, las cláusulas del título-concesión y demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 96.
 
@@ -2199,21 +2237,29 @@ Los Ayuntamientos vigilarán que los ordenamientos jurídicos municipales que al
 
 ARTICULO 119 TER.- Todos los municipios deberán contar con el Reglamento del Gobierno Municipal y con aquellos ordenamientos que sean necesarios para el cumplimiento de sus fines. Sin menoscabo de esta obligación aquellos Municipios que no cuenten con bandos de policía y gobierno, reglamentos y disposiciones administrativas de observancia general y obligatoria, aplicarán las disposiciones similares de los municipios de Colima o Manzanillo. En cada caso, el Cabildo expedirá el acuerdo correspondiente, que deberá publicarse en el Periódico Oficial.
 
-## TÍTULO SÉPTIMO. DEL PROCESO CONTENCIOSO MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2020)</small>
+
+## TÍTULO SÉPTIMO. DEL PROCESO DE JUSTICIA ADMINISTRATIVA MUNICIPAL
 
 ### CAPÍTULO UNICO
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 120.
 
-Los actos y resoluciones dictadas por el cabildo, presidente municipal, titulares de las dependencias y entidades de la administración pública municipal y paramunicipal, que afecten los derechos de los particulares, podrán ser impugnados ante los órganos contencioso-administrativos municipales, mediante el recurso de inconformidad.
+Los actos y resoluciones dictadas por el cabildo, presidente municipal, titulares de las dependencias y entidades de la administración pública municipal y paramunicipal, que afecten los derechos de los particulares, podrán ser impugnados ante los órganos de Justicia Administrativa Municipales, mediante la interposición del recurso previsto en la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 121.
 
-El recurso de inconformidad se substanciará de conformidad con el procedimiento establecido en la ley de la materia.
+La nulidad de las sesiones y de los acuerdos y resoluciones del cabildo podrá ser reclamada por sus propios integrantes, siempre que los acuerdos o resoluciones requieran de la aprobación de cuando menos las dos terceras partes de los miembros del cabildo.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 122.
 
-Las resoluciones dictadas por los órganos contencioso-administrativos municipales podrán ser recurridas ante el Tribunal de lo Contencioso Administrativo, mediante el recurso de revisión.
+Las resoluciones dictadas por los órganos de Justicia Administrativa Municipales, podrán ser impugnadas por los afectados mediante el recurso de revisión ante el Tribunal de Justicia Administrativa del Estado.
 
 ## TÍTULO OCTAVO. DISPOSICIONES FINALES
 
@@ -2285,31 +2331,31 @@ Para los efectos y aplicación de las sanciones, se atenderá a lo dispuesto por
 
 ARTICULO 128 BIS.- Corresponde a la presidenta o presidente municipal conocer de los recursos de las infracciones administrativas, quien delegará la responsabilidad en la Jueza o Juez Cívico, quien conocerá, además de las facultades otorgadas en el Reglamento Interior del Juzgado Cívico, de las (sic) medios de impugnación a las sanciones aplicadas en materia de Tránsito y Vialidad, impuestas por la Jueza o Juez Calificador.
 
-### CAPÍTULO II. DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2020)</small>
+
+### CAPÍTULO II. DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL, DE INTERESES Y FISCAL
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
 ###### ARTICULO 129.
 
-Tienen obligación de presentar declaración de situación patrimonial:
+Tienen obligación de presentar declaración de situación patrimonial, de intereses y constancia de presentación de la declaración fiscal:
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+I. El presidente municipal;
 
-I. La presidenta o presidente municipal;
+II. Los regidores;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
+III. El síndico;
 
-II. Las regidoras o regidores;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
-
-III. La síndica o síndico;
-
-IV. Los servidores públicos de confianza; y
+IV. Los servidores públicos de confianza de las dependencias y organismos de la administración pública municipal centralizada y paramunicipal; y
 
 V. Los demás señalados en los reglamentos municipales.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 130.
 
-La declaración de situación patrimonial deberá presentarse en los plazos y términos que al efecto señale la Ley Estatal de Responsabilidades de los Servidores Públicos.
+La declaración de situación patrimonial, de intereses y la constancia fiscal deberán presentarse en los plazos y términos que al efecto señale la ley aplicable.
 
 ### CAPÍTULO III. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS
 
@@ -2317,9 +2363,11 @@ La declaración de situación patrimonial deberá presentarse en los plazos y t�
 
 Para los efectos de las responsabilidades a que se alude en este capítulo, se reputarán como servidores públicos municipales a los miembros del ayuntamiento o del concejo municipal, en su caso, y en general a toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza en la administración pública municipal u organismos paramunicipales, así como cualquier persona que maneje fondos y recursos económicos municipales, los que serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 ###### ARTICULO 132.
 
-Para la determinación de las responsabilidades, procedimientos, sanciones y recursos administrativos se estará a lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+Para la determinación de las responsabilidades, procedimientos, sanciones y recursos administrativos se estará a lo dispuesto por la Ley General de Responsabilidades Administrativas.
 
 ###### ARTICULO 133.
 
@@ -2616,5 +2664,11 @@ TERCERO.- La Comisión de Derechos Humanos del Estado deberá prever en su Proye
 P.O. 1 DE FEBRERO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 212 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 274 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
