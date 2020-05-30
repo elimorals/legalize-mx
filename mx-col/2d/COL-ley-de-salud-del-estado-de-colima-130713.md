@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-130713"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-29"
-last_updated: "2020-05-02"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de septiembre de 2018.
 
@@ -439,10 +439,6 @@ El Sistema coadyuvará a la consolidación y funcionamiento del Sistema Nacional
 
 Cuando se considere necesario, la Secretaría solicitará el auxilio de la Secretaría de Salud, en las acciones de descentralización a los Municipios que conforme a esta Ley, se lleven a cabo.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
 ###### Artículo 21.
 
 El Sistema tiene los siguientes objetivos:
@@ -613,135 +609,7 @@ IX. La realización de campañas intensivas de información y orientación en ma
 
 X. La prevención y atención médica integral de las infecciones de transmisión sexual, particularmente el VIH-SIDA.
 
-### Capítulo V (SIC). De la Prevención, Atención y Combate a los Problemas de Sobrepeso, Obesidad y los Trastornos de la Conducta Alimentaria
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
-Artículo 20 Bis 40 (SIC).- El presente capítulo tiene por objeto:
-
-I. Proporcionar un marco jurídico que permita establecer responsabilidades, desarrollar los mecanismos y las herramientas necesarias para prevenir y atender integralmente el sobrepeso, la obesidad y los trastornos de la conducta alimentaria en el Estado, así como para promover en sus habitantes, la adopción de hábitos alimenticios y nutricionales adecuados;
-
-II. Establecer la competencia de las autoridades, en el ámbito de sus facultades y atribuciones, para prevenir y combatir el sobrepeso, obesidad y trastornos de la conducta alimentaria;
-
-III. Definir las responsabilidades de los padres de familia o tutores en la prevención y combate a los problemas de sobrepeso, obesidad y trastornos de la conducta alimentaria;
-
-IV. Establecer la corresponsabilidad legislativa del Congreso del Estado para generar las herramientas legales que tiendan a la erradicación del sobrepeso, obesidad y los trastornos de la conducta alimentaria; y
-
-V. Las demás que le señalen otras leyes y disposiciones aplicables.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
-###### Artículo 20 Bis 41.
-
-El Gobierno del Estado de Colima, a través de la Secretaría, y los Ayuntamientos deberán realizar las siguientes acciones:
-
-I. Implementar planes y acciones de prevención y atención para la población que tiene sobrepeso, obesidad y trastornos de la conducta alimentaria;
-
-II. Desarrollar campañas para promover la adopción de hábitos alimenticios saludables;
-
-III. Promover e incentivar la participación de la sociedad civil y la iniciativa privada en la prevención, atención y combate al sobrepeso, obesidad y trastornos de la conducta alimentaria;
-
-IV. Coordinar tareas y programas con la Secretaría de Educación y el Instituto Colimense del Deporte, con la finalidad de implementar acciones pertinentes que permitan la prevención, atención y combate del sobrepeso, obesidad y trastornos de la conducta alimentaria; y
-
-V. Crear y en su caso actualizar, un Plan de Acción Estatal para el cumplimiento de los fines del presente Capítulo, para que los resultados de esas encomiendas se presenten al Consejo para su análisis, discusión y aprobación.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
-###### Artículo 20 Bis 42.
-
-Es responsabilidad de los padres de familia y tutores:
-
-I. Promover hábitos saludables en sus hijos a través de orientación y educación sobre los efectos y consecuencias de la mala nutrición y el sedentarismo;
-
-II. Solicitar asesoría a la Secretaría para el diseño de una alimentación familiar nutricional saludable;
-
-III. Solicitar asesoría a la Secretaría para la identificación, atención y combate del Sobrepeso, Obesidad y Trastornos de la conducta alimentaria en niños, niñas y adolescentes;
-
-IV. Incorporar la práctica de la alimentación correcta a la dieta familiar, así como actividad física regular; y
-
-V. Solicitar a las instituciones de salud la prevención, diagnóstico y control de manera integral de Sobrepeso, Obesidad y Trastornos de la conducta alimentaria.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
-###### Artículo 20 Bis 43.
-
-Se crea el Consejo de Prevención, Atención y Combate a la Obesidad, como una instancia colegiada permanente de diseño, consulta, evaluación y coordinación de las estrategias y programas orientados a la prevención, atención y combate del Sobrepeso, Obesidad y Trastornos de la conducta alimentaria en el Estado.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
-###### Artículo 20 Bis 44.
-
-El Consejo estará integrado por:
-
-I. El Titular de la Secretaría de Salud del Gobierno del Estado, como Presidente;
-
-II. El titular de la Secretaría de Educación del Gobierno del Estado;
-
-III. El Director de Servicios de Salud, como Secretario Técnico;
-
-IV. Los Presidentes Municipales de los diez municipios;
-
-V. Un representante del sector social;
-
-VI. Un representante del sector privado;
-
-VII. El presidente de la Comisión de Salud y Bienestar Social del H. Congreso del Estado;
-
-VIII. El Director del Instituto Colimense del Deporte; y
-
-IX. Titular del Consejo Estatal de Participación Social en la Educación.
-
-El Consejo funcionará válidamente con la asistencia de la mayoría de sus miembros, entre los cuales deberá estar el Presidente.
-
-Los acuerdos y resoluciones se tomarán por mayoría de votos de los Consejeros asistentes y el Presidente tendrá voto de calidad, en caso de empate.
-
-Los integrantes del Consejo tendrán voz y voto, por cada integrante del Consejo deberá designarse su respectivo suplente.
-
-A las reuniones del Consejo podrán ser invitados especialistas, funcionarios públicos o representantes de instituciones de educación, entre otros, cuya trayectoria profesional o actividades los vincule con los objetivos del Consejo. Estos invitados tendrán derecho a voz, pero no a voto.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
-###### Artículo 20 Bis 45.
-
-El pleno del Consejo sesionará ordinariamente dos veces al año y, de manera extraordinaria, cada vez que lo convoque el Secretario Técnico, mediante acuerdo con el Presidente del Consejo.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
-###### Artículo 20 Bis 46.
-
-El Consejo tendrá las siguientes funciones:
-
-I. Expedir su reglamento interno, que regule su organización y funcionamiento;
-
-II. Analizar, discutir y aprobar, el Plan de Acción Estatal para el cumplimiento de los fines del presente Capítulo que le presente la Secretaría;
-
-III. Proponer y evaluar políticas públicas y programas para la prevención, atención y combate a la obesidad, sobrepeso y trastornos de la conducta alimentaria, que por su particularidad no estén contenidas en el Plan Estatal de Acción;
-
-IV. Funcionar como un organismo de consulta permanente en materia de estrategias encaminadas hacia la prevención, atención y combate a la obesidad, sobrepeso y trastornos de la conducta alimentaria;
-
-V. Fortalecer hábitos alimenticios y actividades físicas saludables, equilibradas y adecuadas;
-
-VI. Promover ante el sector privado la prevención y atención del Sobrepeso, Obesidad y Trastornos de la conducta alimentaria, mediante la producción de alimentos saludables accesibles; y
-
-VII. Las demás que le correspondan conforme a la Ley y su Reglamento.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+### Capítulo II. Atención Materno-Infantil
 
 ###### Artículo 33.
 
@@ -863,39 +731,7 @@ En materia de higiene escolar, deberán seguirse las normas oficiales mexicanas 
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
-### Capítulo VI. Del Cáncer en la Infancia y Adolescencia
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
-###### Artículo 20 Bis 47.
-
-El cáncer en la infancia y adolescencia, es la enfermedad que afecta a niños, niñas y adolescentes, caracterizada por la reproducción, crecimiento y diseminación sin control de células específicas, las cuales posteriormente pueden invadir el tejido circundante y/o provocar metástasis en puntos distales del organismo.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
-###### Artículo 20 Bis 48.
-
-Las instituciones de salud del Gobierno del Estado, con base en su capacidad de atención y presupuestal, estarán obligadas a proporcionar de manera gratuita servicios médicos adecuados a las niñas, niños y adolescentes que presenten cualquier diagnóstico confirmado de cáncer sin importar derechohabiencia.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
-###### Artículo 20 Bis 49.
-
-Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de los derechos de las niñas, niños y adolescentes en materia de protección de la salud, velando por el interés superior de la niñez.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]</small>
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
-
-###### Artículo 20 Bis 50.
-
-Se establece que el mes de febrero de cada año sea considerado como el "Mes Dorado", con el fin de favorecer la detección oportuna y la solidaridad entre la población con respecto al cáncer en la infancia y la adolescencia. Las instituciones de salud difundirán campañas para exponer la necesidad de proteger y mejorar las condiciones de vida de los niños, niñas y adolescentes que padecen dicha enfermedad.
+### Capítulo III. Atención y Protección a las Personas con Trastornos del Espectro Autista
 
 ###### Artículo 43.
 
@@ -951,7 +787,7 @@ IV. La vigilancia de actividades ocupacionales que puedan poner en riesgo la sal
 
 En materia de higiene escolar, las escuelas que brinden educación especializada para las personas con trastornos del espectro autista, deberán apegarse a las normas oficiales para proteger su salud.
 
-### Capítulo II (sic). Atención Materno-Infantil
+### Capítulo IV. Salud Mental
 
 ###### Artículo 51.
 
@@ -1085,21 +921,219 @@ Todo prestador de servicios de salud mental de los sectores público, social y p
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-### Capítulo III. Atención y Protección a las Personas con Trastornos del Espectro Autista
+### Capítulo V. Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 62 Bis.
 
 El Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima, contará con un Consejo Directivo que será el encargado de determinar la administración y políticas de aplicación de los recursos del fondo.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018) (REFORMADA SU NOMENCLATURA [N. DE E. ANTES ARTÍCULO 62 TER], P.O. 30 DE MAYO DE 2020)
 
-### Capítulo IV. Salud Mental
+###### Artículo 62 Bis 1.
 
-### Capítulo V. Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima
+El Consejo Directivo del Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima se integrará de la siguiente manera:
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+I. Un Presidente que será el Secretario de Salud y Bienestar Social del Gobierno del Estado;
 
-### Capítulo I. Disposiciones Comunes
+II. Un Secretario que será el Presidente de Comisión de Salud del Congreso del Estado;
+
+III. Cinco vocales quienes serán:
+
+a) El Secretario de Planeación y Finanzas del Gobierno del Estado;
+
+b) El Presidente de la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos del Congreso del Estado;
+
+c) El Presidente de la Comisión de Derechos Humanos, Asuntos indígenas y Atención al migrante, del Congreso del Estado;
+
+d) El Secretario de Administración y Gestión Pública del Gobierno del Estado; y
+
+e) El Titular del DIF Estatal Colima.
+
+Las atribuciones, funcionamiento y operación del Consejo Directivo, así como las reglas para la administración del Fondo se sujetarán a lo previsto por el Reglamento respectivo.
+
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018) (REFORMADA SU NOMENCLATURA [N. DE E. ANTES ARTÍCULO 62 QUÁTER], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 2.
+
+La aplicación de los recursos del fondo deberá ser en beneficio de los pacientes originarios del Estado de Colima o que comprueben residencia de por lo menos 5 años en el Estado.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 273, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2020]</small>
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO V (SIC)], P.O. 30 DE MAYO DE 2020)
+
+### CAPÍTULO VI. DE LA PREVENCIÓN, ATENCIÓN Y COMBATE A LOS PROBLEMAS DE SOBREPESO, OBESIDAD Y LOS TRASTORNOS DE LA CONDUCTA ALIMENTARIA
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 40], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 3.
+
+El presente capítulo tiene por objeto:
+
+I. Proporcionar un marco jurídico que permita establecer responsabilidades, desarrollar los mecanismos y las herramientas necesarias para prevenir y atender integralmente el sobrepeso, la obesidad y los trastornos de la conducta alimentaria en el Estado, así como para promover en sus habitantes, la adopción de hábitos alimenticios y nutricionales adecuados;
+
+II. Establecer la competencia de las autoridades, en el ámbito de sus facultades y atribuciones, para prevenir y combatir el sobrepeso, obesidad y trastornos de la conducta alimentaria;
+
+III. Definir las responsabilidades de los padres de familia o tutores en la prevención y combate a los problemas de sobrepeso, obesidad y trastornos de la conducta alimentaria;
+
+IV. Establecer la corresponsabilidad legislativa del Congreso del Estado para generar las herramientas legales que tiendan a la erradicación del sobrepeso, obesidad y los trastornos de la conducta alimentaria; y
+
+V. Las demás que le señalen otras leyes y disposiciones aplicables.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 41], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 4.
+
+El Gobierno del Estado de Colima, a través de la Secretaría, y los Ayuntamientos deberán realizar las siguientes acciones:
+
+I. Implementar planes y acciones de prevención y atención para la población que tiene sobrepeso, obesidad y trastornos de la conducta alimentaria;
+
+II. Desarrollar campañas para promover la adopción de hábitos alimenticios saludables;
+
+III. Promover e incentivar la participación de la sociedad civil y la iniciativa privada en la prevención, atención y combate al sobrepeso, obesidad y trastornos de la conducta alimentaria;
+
+IV. Coordinar tareas y programas con la Secretaría de Educación y el Instituto Colimense del Deporte, con la finalidad de implementar acciones pertinentes que permitan la prevención, atención y combate del sobrepeso, obesidad y trastornos de la conducta alimentaria; y
+
+V. Crear y en su caso actualizar, un Plan de Acción Estatal para el cumplimiento de los fines del presente Capítulo, para que los resultados de esas encomiendas se presenten al Consejo para su análisis, discusión y aprobación.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 42], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 5.
+
+Es responsabilidad de los padres de familia y tutores:
+
+I. Promover hábitos saludables en sus hijos a través de orientación y educación sobre los efectos y consecuencias de la mala nutrición y el sedentarismo;
+
+II. Solicitar asesoría a la Secretaría para el diseño de una alimentación familiar nutricional saludable;
+
+III. Solicitar asesoría a la Secretaría para la identificación, atención y combate del Sobrepeso, Obesidad y Trastornos de la conducta alimentaria en niños, niñas y adolescentes;
+
+IV. Incorporar la práctica de la alimentación correcta a la dieta familiar, así como actividad física regular; y
+
+V. Solicitar a las instituciones de salud la prevención, diagnóstico y control de manera integral de Sobrepeso, Obesidad y Trastornos de la conducta alimentaria.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 43], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 6.
+
+Se crea el Consejo de Prevención, Atención y Combate a la Obesidad, como una instancia colegiada permanente de diseño, consulta, evaluación y coordinación de las estrategias y programas orientados a la prevención, atención y combate del Sobrepeso, Obesidad y Trastornos de la conducta alimentaria en el Estado.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 44], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 7.
+
+El Consejo estará integrado por:
+
+I. El Titular de la Secretaría de Salud del Gobierno del Estado, como Presidente;
+
+II. El titular de la Secretaría de Educación del Gobierno del Estado;
+
+III. El Director de Servicios de Salud, como Secretario Técnico.
+
+IV. Los Presidentes Municipales de los diez municipios;
+
+V. Un representante del sector social;
+
+VI. Un representante del sector privado;
+
+VII. El presidente de la Comisión de Salud y Bienestar Social del H. Congreso del Estado;
+
+VIII. El Director del Instituto Colimense del Deporte; y
+
+IX. Titular del Consejo Estatal de Participación Social en la Educación.
+
+El Consejo funcionará válidamente con la asistencia de la mayoría de sus miembros, entre los cuales deberá estar el Presidente.
+
+Los acuerdos y resoluciones se tomarán por mayoría de votos de los Consejeros asistentes y el Presidente tendrá voto de calidad, en caso de empate.
+
+Los integrantes del Consejo tendrán voz y voto, por cada integrante del Consejo deberá designarse su respectivo suplente.
+
+A las reuniones del Consejo podrán ser invitados especialistas, funcionarios públicos o representantes de instituciones de educación, entre otros, cuya trayectoria profesional o actividades los vincule con los objetivos del Consejo. Estos invitados tendrán derecho a voz, pero no a voto.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 45], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 8.
+
+El pleno del Consejo sesionará ordinariamente dos veces al año y, de manera extraordinaria, cada vez que lo convoque el Secretario Técnico, mediante acuerdo con el Presidente del Consejo.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 46], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 9.
+
+El Consejo tendrá las siguientes funciones:
+
+I. Expedir su reglamento interno, que regule su organización y funcionamiento;
+
+II. Analizar, discutir y aprobar, el Plan de Acción Estatal para el cumplimiento de los fines del presente Capítulo que le presente la Secretaría.
+
+III. Proponer y evaluar políticas públicas y programas para la prevención, atención y combate a la obesidad, sobrepeso y trastornos de la conducta alimentaria, que por su particularidad no estén contenidas en el Plan Estatal de Acción;
+
+IV. Funcionar como un organismo de consulta permanente en materia de estrategias encaminadas hacia la prevención, atención y combate a la obesidad, sobrepeso y trastornos de la conducta alimentaria;
+
+V. Fortalecer hábitos alimenticios y actividades físicas saludables, equilibradas y adecuadas;
+
+VI. Promover ante el sector privado la prevención y atención del Sobrepeso, Obesidad y Trastornos de la conducta alimentaria, mediante la producción de alimentos saludables accesibles; y
+
+VII. Las demás que le correspondan conforme a la Ley y su Reglamento.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 273, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2020]</small>
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI], P.O. 30 DE MAYO DE 2020)
+
+### CAPÍTULO VII. DEL CÁNCER EN LA INFANCIA Y ADOLESCENCIA
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 47], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 10.
+
+El cáncer en la infancia y adolescencia, es la enfermedad que afecta a niños, niñas y adolescentes, caracterizada por la reproducción, crecimiento y diseminación sin control de células específicas, las cuales posteriormente pueden invadir el tejido circundante y/o provocar metástasis en puntos distales del organismo.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 48], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 11.
+
+Las instituciones de salud del Gobierno del Estado, con base en su capacidad de atención y presupuestal, estarán obligadas a proporcionar de manera gratuita servicios médicos adecuados a las niñas, niños y adolescentes que presenten cualquier diagnóstico confirmado de cáncer sin importar derechohabiencia.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 49], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 12.
+
+Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de los derechos de las niñas, niños y adolescentes en materia de protección de la salud, velando por el interés superior de la niñez.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 50], P.O. 30 DE MAYO DE 2020)
+
+###### Artículo 62 Bis 13.
+
+Se establece que el mes de febrero de cada año sea considerado como el “Mes Dorado”, con el fin de favorecer la detección oportuna y la solidaridad entre la población con respecto al cáncer en la infancia y la adolescencia. Las instituciones de salud difundirán campañas para exponer la necesidad de proteger y mejorar las condiciones de vida de los niños, niñas y adolescentes que padecen dicha enfermedad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2020)</small>
+
+### CAPÍTULO VIII. DE LA MASTECTOMÍA
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+###### Artículo 62 Bis 14.
+
+La mastectomía es una cirugía para extirpar un seno, se realiza para tratar o para prevenir el cáncer de seno, practicándose solamente en pacientes de alto riesgo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+###### Artículo 62 Bis 15.
+
+Las instituciones de salud del Gobierno del Estado, con base en su capacidad de atención y presupuestal, estarán obligadas a proporcionar de manera gratuita servicios médicos adecuados para brindar atención, tratamiento y cirugía reconstructiva de senos a aquellas personas que por cuestiones de salud perdieron total o parcialmente los senos mediante una mastectomía.
+
+Lo anterior, siempre y cuando se realice un estudio socioeconómico donde indique que la persona solicitante, carece de recursos económicos y se constate un daño psicológico grave causado por la extirpación de seno, constancia que deberá estar signada por personal de las instituciones médicas públicas autorizadas para ello, debiendo estar sujeto a los lineamientos y requisitos que establezca el sector salud para el acceso a dicho servicio.
+
+Así mismo, las instituciones de salud del Gobierno del Estado deberán realizar campañas para la detección del cáncer de mama.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+###### Artículo 62 Bis 16.
+
+El Estado, adoptará todas las medidas legislativas, administrativas y de cualquier otra índole que sean pertinentes para hacer efectivo el desarrollo integral de las personas que hayan sido intervenidas en cirugía reconstructiva de senos.
+
+La Secretaría impulsará la participación del sector público y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud respecto a las personas que hayan sido intervenidas en cirugía reconstructiva de senos, mediante redes de apoyo, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 62 Ter.
 
@@ -1125,15 +1159,11 @@ Las atribuciones, funcionamiento y operación del Consejo Directivo, así como l
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
-###### Artículo 62 Quáter.
-
-La aplicación de los recursos del fondo deberá ser en beneficio de los pacientes originarios del Estado de Colima o que comprueben residencia de por lo menos 5 años en el Estado.
-
-### Capítulo II. Mercados y Centros de Abasto
+### Capítulo I. Disposiciones Comunes
 
 ## Título Tercero. Salubridad Local
 
-### Capítulo III. Construcciones
+### Capítulo II. Mercados y Centros de Abasto
 
 ###### Artículo 63.
 
@@ -1179,7 +1209,7 @@ La Secretaría expedirá las normas técnicas a que quedará sujeto el control s
 
 La Secretaría publicará en el Periódico Oficial, las normas técnicas en materia de salubridad local y, en caso de considerarlo necesario, las resoluciones que dicte sobre la revocación de las autorizaciones sanitarias.
 
-### Capítulo IV. Cementerios, Crematorios y Funerarias
+### Capítulo III. Construcciones
 
 ###### Artículo 69.
 
@@ -1197,7 +1227,7 @@ La Secretaría verificará que los mercados y centros de abasto, sean provisiona
 
 Los administradores, vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénico-sanitarias para el debido mantenimiento de sus locales y a sujetar el ejercicio de los mismos a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### Capítulo V. Limpieza Pública
+### Capítulo IV. Cementerios, Crematorios y Funerarias
 
 ###### Artículo 72.
 
@@ -1231,7 +1261,7 @@ Cuando los edificios, locales, construcciones o terrenos presenten un peligro, p
 
 Los propietarios o poseedores de los negocios establecidos en edificios o locales, están obligados a ejecutar las obras sanitarias que se requieran para cumplir con las disposiciones de higiene que establezca esta Ley, reglamentos y demás disposiciones relativas.
 
-### Capítulo VI. Rastros
+### Capítulo V. Limpieza Pública
 
 ###### Artículo 80.
 
@@ -1251,7 +1281,7 @@ La aprobación de las solicitudes de conservación, refrigeración, exhumación 
 
 Para el traslado de cadáveres humanos se estará a lo dispuesto por la Ley General.
 
-### Capítulo VII. Agua Potable
+### Capítulo VI. Rastros
 
 ###### Artículo 83.
 
@@ -1287,7 +1317,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 Los Ayuntamientos proveerán y colocarán depósitos de basura en los parques, jardines, paseos y en otros lugares de la vía pública; además, realizarán el aseo y mantenimiento de los mismos, cada vez que sea necesario.
 
-### Capítulo VIII. Establos, Granjas Avícolas, Porcícolas, Apiarios y Establecimientos Similares
+### Capítulo VII. Agua Potable
 
 ###### Artículo 88.
 
@@ -1343,7 +1373,7 @@ Queda a cargo del municipio, en el ámbito de su competencia, las actividades de
 
 La Secretaría podrá verificar en cualquier tiempo, el cumplimiento de la presente Ley y demás disposiciones legales aplicables.
 
-### Capítulo IX. Zonas de Tolerancia y Prostitución
+### Capítulo VIII. Establos, Granjas Avícolas, Porcícolas, Apiarios y Establecimientos Similares
 
 ###### Artículo 99.
 
@@ -1371,7 +1401,7 @@ Queda prohibido que los desechos que conduzcan los caños sean vertidos en ríos
 
 La infracción a esta disposición se sancionará de conformidad con los ordenamientos legales aplicables.
 
-### Capítulo X. Reclusorios y Centros de Readaptación Social
+### Capítulo IX. Zonas de Tolerancia y Prostitución
 
 ###### Artículo 105.
 
@@ -1403,7 +1433,7 @@ Los certificados podrán suscribirse con la firma autógrafa o con la firma elec
 
 Los establecimientos que se encuentren en el supuesto del artículo anterior, la Secretaría podrá ordenar la desocupación de los mismos siguiendo el procedimiento correspondiente.
 
-### Capítulo XI. Baños Públicos
+### Capítulo X. Reclusorios y Centros de Readaptación Social
 
 ###### Artículo 109.
 
@@ -1431,7 +1461,7 @@ II. A las personas que padezcan de alguna enfermedad sexualmente transmisible u 
 
 La autoridad municipal determinará los lugares donde se permitirá el ejercicio de la prostitución, para lo cual podrá solicitar la opinión de la Secretaría, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### Capítulo XII. Centros de Reunión y Espectáculos Públicos
+### Capítulo XI. Baños Públicos
 
 ###### Artículo 113.
 
@@ -1457,7 +1487,7 @@ Tratándose de casos graves, de emergencia o cuando así lo requiera el tratamie
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, a partir de que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como observar el capítulo respectivo de la Ley General.
 
-### Capítulo XIII. Establecimientos Dedicados a la Prestación de Servicios
+### Capítulo XII. Centros de Reunión y Espectáculos Públicos
 
 ###### Artículo 115.
 
@@ -1467,7 +1497,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local dicte la Secretaría.
 
-### Capítulo XIV. Establecimientos Dedicados a la Cirugía Estética, Plástica y Reconstructiva
+### Capítulo XIII. Establecimientos Dedicados a la Prestación de Servicios
 
 ###### Artículo 117.
 
@@ -1477,7 +1507,7 @@ Para los efectos de esta Ley, se entiende por centro de reunión y espectáculos
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local emita la Secretaría.
 
-### Capítulo XV. Establecimientos para el Hospedaje
+### Capítulo XIV. Establecimientos Dedicados a la Cirugía Estética, Plástica y Reconstructiva
 
 ###### Artículo 119.
 
@@ -1499,7 +1529,7 @@ Corresponde a la autoridad sanitaria ejercer el control sanitario de los estable
 
 El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### Capítulo XVI. Transporte Público
+### Capítulo XV. Establecimientos para el Hospedaje
 
 ###### Artículo 123.
 
@@ -1517,7 +1547,7 @@ El funcionamiento de los establecimientos señalados en este capítulo deberá a
 
 La oferta de los servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica, estética y reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad su nombre, título que ostenta y número de cédula del especialista, número de certificación otorgado por el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva y el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional, así como el nombre del establecimiento o unidad médica con licencia vigente.
 
-### Capítulo XVII. Gasolineras y Establecimientos Similares
+### Capítulo XVI. Transporte Público
 
 ###### Artículo 127.
 
@@ -1537,7 +1567,7 @@ En caso de que estos establecimientos cuenten con servicios complementarios como
 
 La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
 
-### Capítulo XVIII. Centros Antirrábicos
+### Capítulo XVII. Gasolineras y Establecimientos Similares
 
 ###### Artículo 131.
 
@@ -1547,7 +1577,7 @@ Para los efectos de esta Ley, se entiende por medio de transporte todo aquel veh
 
 Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
 
-### Capítulo XIX. Casas, Edificios y en general cualquier Inmueble de Dominio Público ó Privado
+### Capítulo XVIII. Centros Antirrábicos
 
 ###### Artículo 133.
 
@@ -1557,7 +1587,7 @@ Para los efectos de esta Ley, se entiende por gasolinería y estaciones de servi
 
 Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higiénico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
-### Capítulo I. Autorizaciones
+### Capítulo XIX. Casas, Edificios y en general cualquier Inmueble de Dominio Público ó Privado
 
 ###### Artículo 135.
 
@@ -1593,7 +1623,7 @@ Los propietarios serán responsables de las lesiones y daños a terceros que cau
 
 Las autoridades competentes mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos susceptibles de contraer la rabia.
 
-### Capítulo II. Revocación de las Autorizaciones Sanitarias
+### Capítulo I. Autorizaciones
 
 ###### Artículo 139.
 
@@ -1611,7 +1641,7 @@ En caso de incumplimiento por parte de los propietarios o poseedores de dichos e
 
 ## Título Cuarto. Autorizaciones y Certificados
 
-### Capítulo III. Certificados
+### Capítulo II. Revocación de las Autorizaciones Sanitarias
 
 ###### Artículo 142.
 
@@ -1643,7 +1673,7 @@ Requieren de autorización sanitaria bajo la modalidad de permiso, los proyectos
 
 Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autoridad sanitaria competente en los términos de las disposiciones generales aplicables; asimismo, se regirán por lo que determine la legislación y disposiciones correspondientes.
 
-### Capítulo Único
+### Capítulo III. Certificados
 
 ###### Artículo 149.
 
@@ -1689,7 +1719,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La revocación surtirá efectos de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### Capítulo I. Medidas de Seguridad Sanitaria
+### Capítulo Único
 
 ###### Artículo 156.
 
@@ -1723,7 +1753,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## Título Quinto. Vigilancia Sanitaria
 
-### Capítulo II. Sanciones Administrativas
+### Capítulo I. Medidas de Seguridad Sanitaria
 
 ###### Artículo 161.
 
@@ -1831,7 +1861,7 @@ En el caso de los productos muestreados en procedimientos de muestreo o verifica
 
 ## Título Sexto. Medidas de Seguridad Sanitaria y Sanciones
 
-### Capítulo III. Procedimiento para aplicar las Medidas de Seguridad y Sanciones
+### Capítulo II. Sanciones Administrativas
 
 ###### Artículo 174.
 
@@ -1907,7 +1937,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud de las personas.
 
-### Capítulo IV. Recurso de Inconformidad
+### Capítulo III. Procedimiento para aplicar las Medidas de Seguridad y Sanciones
 
 ###### Artículo 182.
 
@@ -1985,7 +2015,7 @@ II. A la persona que en rebeldía se niegue a cumplir los requerimientos y dispo
 
 Impuesto el arresto, se hará del conocimiento a la autoridad correspondiente a efecto de que proceda a su ejecución.
 
-### Capítulo V. Prescripción
+### Capítulo IV. Recurso de Inconformidad
 
 ###### Artículo 190.
 
@@ -2058,6 +2088,8 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 ###### Artículo 199.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad correspondiente lo hará del conocimiento del Ministerio Público; lo anterior, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### Capítulo V. Prescripción
 
 ###### Artículo 200.
 
@@ -2222,3 +2254,11 @@ P.O. 2 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 271 POR EL QUE SE ADICIONA UN TRANSITORIO TERCERO A LA LEY DE SALUD DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 273 POR EL QUE SE REORDENAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE COLIMA, Y SE ADICIONA LA FRACCIÓN II, AL ARTÍCULO 7º DE LA LEY PARA EL FOMENTO DE UNA CULTURA DE DONACIÓN, PROCURACIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 01 de enero de 2021, previa publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Las disposiciones establecidas en el Capítulo VIII denominado “DE LA MASTECTOMÍA”, que se integra por los artículos 62 Bis 14, 62 Bis 15, y 62 Bis 16, correspondiente al Título Segundo de la Ley de Salud del Estado de Colima, que requieran de presupuesto para su instrumentación y desarrollo, se sujetarán a la disponibilidad presupuestaria del Gobierno del Estado, debiéndose prever para el ejercicio fiscal 2021 una partida presupuestal para ello.
