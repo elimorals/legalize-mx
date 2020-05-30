@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2020-04-18"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -51,7 +53,9 @@ Las disposiciones de esta Ley son de orden e interés público y de observancia 
 
 I.- El ejercicio de los derechos y el cumplimiento de las obligaciones político-electorales de las ciudadanas y ciudadanos, en condiciones de igualdad;
 
-II.- La función estatal de organizar, desarrollar y vigilar los procesos electorales ordinarios o extraordinarios que se celebren para elegir Gobernador, diputados al Congreso e integrantes de los ayuntamientos de los municipios del régimen de partidos políticos y candidatos independientes;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+II.- La función estatal de organizar, desarrollar y vigilar los procesos electorales ordinarios o extraordinarios que se celebren para elegir al titular de la Gubernatura, diputadas y diputados al Congreso e integrantes de los ayuntamientos de los municipios del régimen de partidos políticos y candidaturas independientes;
 
 III.- El reconocimiento, la salvaguarda y la garantía de las instituciones y prácticas democráticas de los municipios que electoralmente se rigen por sus sistemas normativos indígenas;
 
@@ -79,13 +83,19 @@ IV.- Asamblea General Comunitaria: Es la máxima autoridad de deliberación y to
 
 V.- Ayuntamientos: Los órganos de gobierno de los municipios que conforman el Estado de Oaxaca;
 
-VI.- Candidato: El ciudadano que es postulado por un partido político, coalición o candidatura común, para ocupar un cargo de elección popular;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-VII.- Candidato independiente: El ciudadano que, sin el respaldo de un partido político, obtenga el porcentaje de apoyo ciudadano y mediante acuerdo que dicte la autoridad electoral, le otorgue el registro correspondiente, habiendo cumplido los requisitos de la presente Ley;
+VI.- Candidata o candidato: La ciudadana o ciudadano que es postulado por un partido político, coalición o candidatura común, para ocupar un cargo de elección popular;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VII.- Candidata o candidato independiente: La ciudadana o ciudadano que, sin el respaldo de un partido político, obtenga el porcentaje de apoyo ciudadano y mediante acuerdo que dicte la autoridad electoral, le otorgue el registro correspondiente, habiendo cumplido los requisitos de la presente Ley;
 
 VIII.- Candidatura común: Cuando dos o más partidos políticos registran al mismo candidato, formula o planilla de candidatos en la elección.
 
-IX.- Ciudadanos oaxaqueños: Los hombres y mujeres considerados como tales, en términos de la Constitución Política del Estado Libre y Soberano de Oaxaca y de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+IX.- Ciudadanas o ciudadanos del Estado de Oaxaca: Las mujeres y hombres considerados como tales, en términos de la Constitución Política del Estado Libre y Soberano de Oaxaca y esta Ley;
 
 X.- Congreso: El Honorable Congreso del Estado Libre y Soberano de Oaxaca;
 
@@ -105,9 +115,21 @@ XVII.- Instituto Estatal: El organismo público autónomo electoral del Estado d
 
 XVIII.- Ley General: La Ley General de Instituciones y Procedimientos Electorales;
 
-XIX.- Militante o afiliado: El ciudadano que, en pleno goce y ejercicio de sus derechos político-electorales, se registra libre, voluntaria e individualmente a un partido político, en los términos que para esos efectos disponga el partido en su normatividad interna, independientemente de su denominación, actividad y grado de participación;
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XX.- Paridad de género: Es un principio que garantiza la participación igualitaria de mujeres y hombres, en el cual las candidaturas de acceso a cargos públicos y de representación popular se distribuyen de manera igualitaria entre los géneros o al menos con mínimas diferencias porcentuales. La paridad de género debe observarse en las dimensiones vertical y horizontal, garantizando la misma proporción entre mujeres y hombres;
+XVIII Bis.- Ley General de Acceso: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XVIII Ter.- Ley Estatal de Acceso: Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XIX.- Militante o afiliado: La ciudadana o ciudadano que, en pleno goce y ejercicio de sus derechos político-electorales. se registra libre. voluntaria e individualmente a un partido político, en los términos que para esos efectos disponga el partido en su normatividad interna. Independientemente de su denominación, actividad y grado de participación;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XX.- Paridad de género: Es un principio que garantiza la participación igualitaria de mujeres y hombres, se garantiza con la asignación del cincuenta por ciento mujeres y cincuenta por ciento hombres en candidaturas a cargos de elección popular. La paridad de género debe observarse en las dimensiones vertical y horizontal, garantizando la misma proporción entre mujeres y hombres;
 
 XXI.- Partidos locales: Los partidos políticos con registro estatal;
 
@@ -117,7 +139,9 @@ XXIII.- Partidos políticos: Los partidos locales y los nacionales;
 
 XXIV.- Periódico oficial: El Periódico Oficial del Gobierno del Estado;
 
-XXV.- Presidente: El Consejero Presidente del Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XXV.- Presidenta o Presidente: La Consejera o Consejero titular de la Presidencia del Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca;
 
 XXVI.- Procesos electorales: Los procesos ordinarios y extraordinarios para la elección de cargos de elección popular, así como los procesos que se lleven a cabo dentro de los Mecanismos de participación ciudadana en el estado de Oaxaca;
 
@@ -129,7 +153,13 @@ XXIX.- Sistema normativo indígena: Es el conjunto de principios, normas orales 
 
 XXX.- Tribunal: El Tribunal Electoral del Estado de Oaxaca;
 
-XXXI.- Violencia política en razón de género: La acción u omisión que realiza una o más personas, en el ámbito político o público, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XXXI.- La violencia política contra las mujeres en razón de género: Es toda acción u omisión, realizada por sí o por interpósita, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el reconocimiento o ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer, le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General y Estatal de Acceso de las Mujeres a una Vida Libre de Violencia y puede ser perpetrada indistintamente por agentes estatales, superiores jerárquicos, colegas de trabajo, servidores públicos, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus Integrantes, por un particular o por un grupo de personas particulares; así como por asambleas comunitarias, autoridades municipales y/o autoridades comunitarias;
 
 > <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -151,6 +181,10 @@ XXXV.- Votación Valida Emitida: La que resulte de deducir de la suma de todos l
 
 XXXVI.- Voto nulo: Es una boleta electoral que fue utilizada y al que la mesa directiva de casilla y la autoridad electoral le atribuye tal carácter, por no cumplir con las características que esta Ley establece, en el escrutinio y cómputo, y lo asienta en el acta respectiva
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XXXVII.- lnterculturalidad: Implica tomar en cuenta las distintas visiones, perspectivas e intereses que se vean involucrados en el proceso de consulta, a fin de generar las condiciones necesarias que hagan posible que los proyectos o leyes con expresiones culturales e intereses diversos, se vuelvan compartidos y benéficos para las partes.
+
 Artículo 3
 
 1.- La interpretación de la presente Ley se hará conforme a la Constitución Federal, la Constitución Local, los tratados internacionales en materia de derechos humanos celebrados por el Estado mexicano y demás leyes aplicables, atendiendo a los criterios gramatical, sistemático y funcional, procurando en todo momento a las personas la protección más amplia.
@@ -167,9 +201,13 @@ La aplicación de las disposiciones de esta Ley corresponde al Instituto Estatal
 
 Artículo 5
 
-1.- El Estado a través del Instituto Estatal y demás autoridades competentes, los partidos políticos y los ciudadanos, son corresponsables de la organización, desarrollo y vigilancia de los procesos electorales, en los términos de esta Ley.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-2.- El ejercicio de la función electoral se sujetará a los principios rectores de certeza, imparcialidad, independencia, legalidad, interculturalidad, máxima publicidad y objetividad, de los cuales el Instituto Estatal, el INE y el Tribunal serán garantes de su observancia.
+1.- El Estado a través del Instituto Estatal y demás autoridades competentes, los partidos políticos, candidatos independientes y los ciudadanos, son corresponsables de la organización, desarrollo y vigilancia de los procesos electorales, en los términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+2.- El ejercicio de la función electoral se sujetará a los principios rectores de certeza, imparcialidad, independencia, legalidad, interculturalidad, máxima publicidad, objetividad, paridad, y se realizará con perspectiva de género, de los cuales el Instituto Estatal, y el Tribunal serán garantes de su observancia.
 
 3.- Para el desempeño de sus funciones, el Instituto Estatal contará con el apoyo y colaboración de las autoridades, órganos estatales y municipales en lo que corresponda. Para el mejor cumplimiento de su cometido, también podrá celebrar convenios o acuerdos con autoridades, dependencias, instituciones u órganos de la Federación.
 
@@ -217,25 +255,51 @@ Artículo 9
 
 3.- La Ley de Participación Ciudadana para el Estado de Oaxaca señalará las disposiciones a las que se sujetarán el ejercicio de los Mecanismos de participación ciudadana a que se refieren los artículos 25 Apartado C y 114 Ter de la Constitución Local.
 
-4.- Se entiende por violencia política en razón de género, la acción u omisión que realiza una o más personas, en el ámbito político o público, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer y el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público. Se puede manifestar en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE MAYO DE 2020)</small>
+
+4.- La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley, en los términos de la fracción XXXI del Artículo 2 y el artículo 303 de la presente Ley.
 
 Constituyen acciones y omisiones que configuran violencia política en razón de género las siguientes:
 
-I. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+I. Restringir o anular el derecho al voto libre de las mujeres;
 
-II. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones.
+II. Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
 
-III. Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+III. Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
 
-IV. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual una persona ha sido nombrada o elegida;
+IV. Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
 
-V. Impedir o restringir su reincorporación al cargo o función posterior en los casos de licencia o permiso conforme a las disposiciones aplicables; e
+V. Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
 
-VI. Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género.
+VI. Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad;
 
-5.- El ejercicio de los derechos y el cumplimento (sic) de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de la no violencia.
+VII. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual una persona ha sido nombrada o elegida;
 
-6.- El Instituto Estatal, el Tribunal y los Partidos Políticos, en términos de los artículos 1°, 2° y 4° de la Constitución Federal y de los tratados internacionales en la materia de los que el Estado mexicano sea parte, y en el ámbito de sus atribuciones, establecerán mecanismos, para prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género.
+VIII. Impedir o restringir su reincorporación al cargo o función posterior en los casos de licencia o permiso conforme a las disposiciones aplicables;
+
+IX. Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género;
+
+X. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+XI. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con base en estereotipos de género, con el objetivo de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades en el desempeño de su participación política o el ejercicio de sus funciones;
+
+XII. Amenazar o intimidar en cualquier forma a una o varias mujeres, a sus familiares o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+XIII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+XIV. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XV. Amenazar o intimidar en cualquier forma a una o varias mujeres, a sus familiares o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada; y,
+
+XVI. Cualquiera otra acción, conducta u omisión que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales, o esté considerada en el artículo 11 BIS de la Ley Estatal de Acceso de las Mujeres a Una Vida Libre de Violencia de Género.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+5.- Dentro del proceso electoral o fuera de este, las quejas o denuncias por violencia política hacia las mujeres en razón de género, se sustanciarán a través del Procedimiento Especial Sancionador, conforme a lo establecido en los artículos 335 a 340 de esta Ley.
+
+6.- El ejercicio de los derechos y el cumplimento (sic) de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de la no violencia.
+
+7.- El Instituto Estatal, el Tribunal y los Partidos Políticos, en términos de los artículos 1º, 2º y 4º de la Constitución Federal y de los tratados internacionales en la materia de los que el Estado mexicano sea parte, y en el ámbito de sus atribuciones, establecerán mecanismos, para prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género.
 
 Artículo 10
 
@@ -251,7 +315,9 @@ Artículo 11
 
 Artículo 12
 
-1.- Para el ejercicio del voto, los ciudadanos deberán satisfacer los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+1.- Para el ejercicio del voto, las ciudadanas y los ciudadanos deberán satisfacer los siguientes requisitos:
 
 I.- Estar inscrito en el Registro Federal de Electores;
 
@@ -279,7 +345,9 @@ VI.- Las demás causas que señale la ley.
 
 Artículo 13
 
-Son prerrogativas de los ciudadanos oaxaqueños:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+Son prerrogativas de las ciudadanas y los ciudadanos oaxaqueños:
 
 I.- Votar y participar en las elecciones, así como en los procesos de participación ciudadana, de acuerdo con lo dispuesto por la Constitución Federal, la Constitución Local y esta Ley;
 
@@ -295,13 +363,19 @@ VI.- Solicitar, de conformidad con esta Ley, la información pública al Institu
 
 VII.- Integrar organismos electorales, siempre que cumplan con los requisitos que exijan las leyes aplicables; y
 
-VIII.- Los demás que establezcan las leyes.
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VIII.- Los derechos políticos y electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas; y,
+
+IX.- Los demás que establezcan las leyes.
 
 ### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE LOS CIUDADANOS
 
 Artículo 14
 
-1.- Son obligaciones de los ciudadanos oaxaqueños:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+1.- Son obligaciones de las ciudadanas y los ciudadanos del Estado de Oaxaca:
 
 I.- Votar y participar en las elecciones, así como en los Mecanismos de participación ciudadana, de acuerdo con lo dispuesto por la Constitución Federal, la Constitución Local, esta Ley y demás disposiciones aplicables;
 
@@ -315,17 +389,23 @@ V.- Presentar denuncias y dar testimonios cuando sean testigos de delitos electo
 
 VI.- Integrar las mesas directivas de casillas en los términos de esta Ley y demás disposiciones aplicables.
 
-2.- Para el cumplimiento de la obligación de desempeñar las funciones electorales para las que sean requeridos los ciudadanos, los patrones están obligados a otorgar el permiso correspondiente a sus trabajadores, sin deducción en su salario, en los términos de la legislación laboral.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+2.- Para el cumplimiento de la obligación de desempeñar las funciones electorales para las que sean requeridas las ciudadanas y los ciudadanos, las y los patrones están obligados a otorgar el permiso correspondiente a sus trabajadoras y trabajadores, sin deducción en su salario, en los términos de la legislación laboral.
 
 ### CAPÍTULO TERCERO. DERECHOS Y OBLIGACIONES EN LOS SISTEMAS NORMATIVOS INDÍGENAS
 
 Artículo 15
 
-1.- Esta Ley, reconoce los derechos y obligaciones de los ciudadanos en lo que respecta a la elección de sus autoridades municipales por el régimen de sistemas normativos indígenas; así mismo las reglas de los diversos procedimientos electorales respectivos.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+1.- Esta Ley, reconoce los derechos y obligaciones de las ciudadanas y los ciudadanos en lo que respecta a la elección de sus autoridades municipales por el régimen de sistemas normativos indígenas; así mismo las reglas de los diversos procedimientos electorales respectivos.
 
 2.- En los municipios que eligen a sus autoridades municipales, mediante sus sistemas normativos indígenas, los requisitos para el ejercicio del voto, los derechos y sus restricciones así como las obligaciones de las y los ciudadanos, se harán conforme a sus normas, prácticas y tradiciones democráticas, de conformidad con los principios establecidos en la Constitución Federal, la Constitución Local y los tratados internacionales suscritos y ratificados por el Estado mexicano.
 
-3.- En asuntos relacionados con los pueblos indígenas y afromexicanos, las autoridades competentes actuarán y emitirán sus determinaciones, de conformidad con los principios pro persona, progresividad, buena fe, justicia, respeto de los derechos humanos, no discriminación, buena gobernanza, igualdad de derechos, libre determinación y respeto a la diversidad cultural, en el marco del pluralismo jurídico, considerando los sistemas normativos indígenas, en un plano de igualdad con el sistema jurídico estatal.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+3.- En asuntos relacionados con los pueblos indígenas y afromexicano, las autoridades competentes actuarán y emitirán sus determinaciones, de conformidad con los principios pro persona, progresividad, buena fe, justicia, respeto de los derechos humanos, no discriminación, buena gobernanza, igualdad de derechos, libre determinación y respeto a la diversidad cultural, en el marco del pluralismo jurídico, considerando los sistemas normativos indígenas, en un plano de igualdad con el sistema jurídico estatal; y, garantizando el principio de paridad de género en cumplimiento de lo establecido en los artículos 16 y 25 de la Constitución Local en un marco de progresividad e interculturalidad.
 
 4.- Se reconoce a la Asamblea General Comunitaria como la máxima autoridad de deliberación y toma de decisiones en los municipios que se rigen por Sistemas Normativos Indígenas para elegir a sus autoridades o representantes; se integra por ciudadanas y ciudadanos de una o más comunidades dependiendo del número que integran el municipio; este órgano puede sesionar de manera conjunta, es decir todas y todos los ciudadanos del municipio reunirse en la cabecera, o bien de manera separada en cada comunidad. Sus acuerdos serán plenamente válidos y deberán ser reconocidos y respetados por el Estado, siempre que no violen los derechos humanos de sus integrantes, reconocidos por la Constitución Federal y Tratados Internacionales. Se integra por los miembros de la comunidad, en condiciones de igualdad conforme a sus sistemas normativos indígenas.
 
@@ -337,9 +417,11 @@ Artículo 15
 
 ### CAPÍTULO PRIMERO. DE LOS REQUISITOS DE ELEGIBILIDAD
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 Artículo 16
 
-Para ser diputado propietario o suplente, se requiere reunir los requisitos establecidos por los artículos 34 y 35 de la Constitución Local.
+Para ser diputada o diputado propietario o suplente, se requiere reunir los requisitos establecidos por los artículos 34 y 35 de la Constitución Local.
 
 Artículo 17
 
@@ -355,9 +437,11 @@ II.- Los diputados propietarios que hayan obtenido el triunfo como candidatos de
 
 3.- La reelección de los diputados al Congreso, podrá ser hasta por un periodo consecutivo según lo dispuesto en el artículo 32 de la Constitución Local.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 Artículo 18
 
-Para ser Gobernador se requiere satisfacer los requisitos señalados en el artículo 68 de la Constitución Local.
+Para ser Gobernadora o Gobernador, se requiere satisfacer los requisitos señalados en el artículo 68 de la Constitución Local.
 
 Artículo 19
 
@@ -377,7 +461,9 @@ Artículo 20
 
 Artículo 21
 
-1.- Además de los requisitos que señala la Constitución Local, los candidatos a diputados, Gobernador e integrante de los ayuntamientos deberán satisfacer los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+1.- Además de los requisitos que señala la Constitución Local, las candidatas o candidatos a una Diputación o a la Gubernatura, o a integrar los Ayuntamientos, deberán satisfacer los siguientes requisitos:
 
 I.- Estar inscritos en el Registro Federal de Electores y contar con credencial para votar con fotografía;
 
@@ -391,25 +477,37 @@ IV.- No ser Presidente y Consejeros Electorales del Consejo General del Institut
 
 V.- Los Magistrados o Secretarios General o de Estudio y Cuenta del Tribunal, concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VI.- No estar sancionada o sancionado por violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VII.- No estar sentenciada o sentenciado por los delitos de violencia política contra las mujeres en razón de género, de violencia familiar y por delitos que atenten contra la obligación alimentaria, en los términos del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
+
 2.- A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral.
 
 ### CAPÍTULO SEGUNDO. DE LOS SISTEMAS ELECTORALES
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 Artículo 22
 
-El ejercicio del Poder Ejecutivo se deposita en una sola persona que se denominará Gobernador, el cual será electo cada seis años, mediante sufragio universal, libre, secreto y directo, por el sistema de mayoría relativa y en una circunscripción uninominal que comprende todo el territorio del Estado.
+El ejercicio del Poder Ejecutivo se deposita en una sola persona que se denominará Gobernadora o Gobernador, será electa cada seis años, mediante sufragio universal, libre, secreto y directo, por el sistema de mayoría relativa y en una circunscripción uninominal que comprende todo el territorio del Estado.
 
 Artículo 23
 
-1.- El Poder Legislativo se ejerce por el Congreso y estará integrado por 25 diputados electos según el principio de mayoría relativa en distritos electorales uninominales y 17 diputados que serán electos según el principio de representación proporcional mediante el sistema de lista votada en una sola circunscripción plurinominal, observando en ambos casos el principio de paridad y alternancia de género.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
 
-> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+1.- El Poder Legislativo se ejerce por el Congreso y estará integrado por 25 diputadas o diputados electos según el principio de mayoría relativa en distritos electorales uninominales y 17 diputadas o diputados que serán electos según el principio de representación proporcional mediante el sistema de lista votada en una sola circunscripción plurinominal, observando en ambos casos el principio de paridad y alternancia de género.
 
-En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos el porcentaje de su votación estatal valida emitida lo cual será considerado su límite superior
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
+En ningún caso, un partido político podrá contar con un número de diputadas y diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos el porcentaje de su votación estatal válida emitida lo cual será considerado su límite superior.
 
-Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal valida emitida más el ocho por ciento.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal válida emitida más el ocho por ciento.
 
 > <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -421,37 +519,31 @@ El número máximo de diputaciones por ambos principios que puede alcanzar un pa
 
 3.- Por cada candidato propietario se elegirá un suplente del mismo género. Los partidos políticos o coaliciones deberán postular candidaturas conforme a lo que establece esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 Artículo 24
 
-1.- Los ayuntamientos son órganos de gobierno de los municipios, electos mediante sufragio universal, libre, secreto y directo, de los ciudadanos de cada municipio, los que se integrarán de la siguiente forma:
+1.- Los ayuntamientos son órganos de gobierno de los municipios, electos mediante sufragio universal, libre, secreto y directo, de las ciudadanas y ciudadanos de cada municipio, los que se integraran de la siguiente forma:
 
-I.- Un Presidente Municipal, que será el candidato que ocupe el primer lugar de la planilla registrada ante el Instituto Estatal, quien representará al ayuntamiento en el orden político y lo dirigirá en lo administrativo;
+I.- Una Presidencia Municipal, su titular será la candidata o el candidato que ocupe el primer lugar de la planilla registrada ante el Instituto Estatal, quien representará al ayuntamiento en el orden político y lo dirigirá en lo administrativo;
 
-II.- Un Síndico, si el municipio tiene veinte mil habitantes o menos y dos si se tiene más de este número. La o las sindicaturas corresponderán a quien ocupe el segundo lugar cuando sea electo un síndico, o segundo y tercer lugar, cuando sean electos dos síndicos, según sea el caso de la planilla registrada ante el Instituto Estatal. El o los Síndicos tendrán la representación legal del ayuntamiento;
+II.- Una Sindicatura, si el municipio tiene veinte mil habitantes o menos y dos si se tiene más de este número. La o las sindicaturas corresponderán a quien ocupe el segundo lugar cuando sea electa una persona para ocupar la sindicatura, o segundo y tercer lugar, cuando sean electas dos sindicaturas, según sea el caso de la planilla registrada ante el Instituto Estatal. La o las personas titulares de las Sindicaturas tendrán la representación legal del ayuntamiento;
 
-(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, XIV Y XVI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2017 Y SUS ACUMULADAS 62/2017 Y 82/2017 DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN III DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+III.- En los municipios que tengan de cien mil a trescientos mil habitantes, el ayuntamiento se integrará hasta con once concejales electas o electos por el principio de mayoría relativa y hasta cinco regidurías electas por el principio de representación proporcional. Si los municipios se exceden de esa última cantidad, los ayuntamientos se integrarán hasta con quince integrantes del ayuntamiento electos por el principio de mayoría relativa y hasta siete regidurías electas por el principio de representación proporcional;
 
-III.- En los municipios que tengan de cien mil a trescientos mil habitantes, el ayuntamiento se integrará HASTA con once concejales electos por el principio de mayoría relativa y HASTA cinco regidores electos por el principio de representación proporcional. Si los municipios se exceden de esa última cantidad, los ayuntamientos se integrarán HASTA con quince integrantes del ayuntamiento electos por el principio de mayoría relativa y HASTA siete regidores electos por el principio de representación proporcional;
+IV.- En los municipios que tengan de cincuenta mil y menos de cien mil habitantes, el ayuntamiento se integrará hasta con nueve concejalías electas por el principio de mayoría relativa, y hasta cuatro regidurías electas por el principio de representación proporcional;
 
-(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, XIV Y XVI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2017 Y SUS ACUMULADAS 62/2017 Y 82/2017 DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN IV DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+V.- En los municipios que tengan de quince mil y menos de cincuenta mil habitantes, el ayuntamiento se integrará hasta con siete concejalías electas por el principio de mayoría relativa, y hasta tres regidurías electas por el principio de representación proporcional; y
 
-IV.- En los municipios que tengan de cincuenta mil y menos de cien mil habitantes, el ayuntamiento se integrará HASTA con nueve concejales electos por el principio de mayoría relativa, y HASTA cuatro regidores electos por el principio de representación proporcional;
+VI.- En los municipios que tengan menos de quince mil habitantes, el ayuntamiento se integrará hasta con cinco concejalías electas por el principio de mayoría relativa y hasta dos regidurías electas por el principio de representación proporcional.
 
-(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, XIV Y XVI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2017 Y SUS ACUMULADAS 62/2017 Y 82/2017 DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN V DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+2.- En el registro de las candidaturas a presidencia, regidurías y sindicaturas de los Ayuntamientos que se rigen bajo el sistema de partidos políticos; estos deberán garantizar el principio de paridad de género. En los casos de las fórmulas que les correspondan a hombres, con base al principio de paridad y alternancia, el propietario podrá tener como suplente a una mujer.
 
-V.- En los municipios que tengan de quince mil y menos de cincuenta mil habitantes, el ayuntamiento se integrará HASTA con siete concejales electos por el principio de mayoría relativa, y HASTA tres regidores electos por el principio de representación proporcional; y
+3.- El Consejo General determinará, en la segunda sesión ordinaria del proceso electoral que corresponda, el número de concejales y el orden de prelación que deberán integrar los ayuntamientos conforme a la presente disposición. Dicho orden de prelación y registro deberá respetarse al momento de la asignación de las regidurías según lo establecido en la Ley Orgánica Municipal del Estado de Oaxaca.
 
-(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, XIV Y XVI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2017 Y SUS ACUMULADAS 62/2017 Y 82/2017 DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN VI DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+4.- Los integrantes de los ayuntamientos a que se refieren las fracciones anteriores, tomarán posesión el primero de enero del año posterior a su elección y durarán en su encargo tres años.
 
-VI.- En los municipios que tengan menos de quince mil habitantes, el ayuntamiento se integrará HASTA con cinco concejales electos por el principio de mayoría relativa y HASTA dos regidores electos por el principio de representación proporcional.
-
-(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, XIV Y XVI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2017 Y SUS ACUMULADAS 62/2017 Y 82/2017 DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-2.- El Consejo General determinará, en la segunda sesión ordinaria del proceso electoral que corresponda, EL NÚMERO DE CONCEJALES Y el orden de prelación que deberán integrar los ayuntamientos conforme a la presente disposición. Dicho orden de prelación y registro deberá respetarse al momento de la asignación de las regidurías según lo establecido en la Ley Orgánica Municipal del Estado de Oaxaca.
-
-3.- Los integrantes de los ayuntamientos a que se refieren las fracciones anteriores, tomarán posesión el primero de enero del año posterior a su elección y durarán en su encargo tres años.
-
-4.- Los municipios con comunidades indígenas y afromexicanas integrarán sus ayuntamientos por representantes de estas, que serán electas de conformidad con sus sistemas normativos y tomarán participación conforme lo establezca la Ley.
+5.- Los municipios con comunidades indígenas y afromexicanas que se rigen bajo sistemas normativos, integrarán sus ayuntamientos por ciudadanas y ciudadanos de estas, que serán electas de conformidad con sus sistemas normativos, garantizando el principio de paridad de género, en cumplimiento de lo establecido en los artículos 16 y 25 de la Constitución Política del Estado Libre y Soberano de Oaxaca en un marco de progresividad e interculturalidad.
 
 ### CAPÍTULO TERCERO. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
@@ -513,7 +605,9 @@ Artículo 30
 
 3.- El Instituto Estatal, gozará de autonomía presupuestal en su funcionamiento e independencia en sus decisiones, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, la Constitución Política del Estado Libre y Soberano de Oaxaca, esta Ley y demás ordenamientos aplicables, según corresponda.
 
-4.- El ejercicio de esta función estatal se regirá por los principios de certeza, legalidad, independencia, imparcialidad, interculturalidad, máxima publicidad y objetividad.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+4.- El ejercicio de esta función estatal se regirá por los principios de certeza, legalidad, independencia, imparcialidad, interculturalidad, máxima publicidad, objetividad y paridad, y se realizarán con perspectiva de género.
 
 5.- Para el buen desempeño de sus funciones, atribuciones, obligaciones, procedimientos y acciones, el Instituto Estatal contará con un cuerpo de servidores públicos integrados en un Servicio Profesional Electoral Nacional y en una rama administrativa.
 
@@ -541,9 +635,13 @@ Son fines del Instituto Estatal:
 
 I.- Contribuir al desarrollo de la vida democrática del Estado
 
-II.- Fomentar el ejercicio de los derechos político-electorales del ciudadano, así como promover y difundir la educación cívica y la cultura democrática en el Estado;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-III.- Promover condiciones de paridad entre géneros en la participación política, postulación, acceso y desempeño de cargos públicos como criterio fundamental de la democracia;
+II.- Fomentar el ejercicio de los derechos político-electorales de las ciudadanas y ciudadanos, así como promover y difundir la educación cívica y la cultura democrática en el Estado;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+III.- Promover condiciones para garantizar la paridad de género en la participación política, postulación, acceso y desempeño de cargos públicos, así como el respeto a los derechos humanos de las mujeres en el ámbito político y electoral, como criterio fundamental de la democracia;
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
@@ -559,9 +657,13 @@ VIII.- Reconocer, respetar y garantizar los sistemas normativos indígenas de lo
 
 IX.- Fortalecer el régimen de partidos políticos y la participación electoral de los candidatos independientes;
 
-X.- Ser garante de los principios rectores de certeza, legalidad, independencia, imparcialidad, interculturalidad, máxima publicidad y objetividad; e
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XI.- Impulsar y garantizar la participación de las mujeres, así como el acceso paritario a los cargos de representación popular en los términos señalados en la Constitución Local y esta Ley.
+X.- Ser garante de los principios rectores de igualdad, certeza, legalidad, independencia, imparcialidad, interculturalidad, máxima publicidad, objetividad y paridad; e
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XI.- Impulsar la participación de las mujeres, así como garantizar la paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral, en los términos señalados en la Constitución Local y esta Ley.
 
 Artículo 32
 
@@ -603,9 +705,17 @@ XVII.- Ejercer la función de oficialía electoral respecto de actos o hechos ex
 
 XVIII.- Informar al INE, a través de su Unidad Técnica de Vinculación con los Organismos Públicos Locales, sobre el ejercicio de las funciones que le hubiera delegado conforme a lo previsto por la Ley General y demás disposiciones que emita el Consejo General del INE;
 
-XIX.- Reconocer y dar validez a los procesos electorales que se desarrollen bajo el régimen de sistemas normativos indígenas, en atención al principio de la libre autodeterminación de los pueblos y comunidades indígenas, para que estos se desarrollen con apego a los derechos humanos procurando la progresividad en la paridad entre hombres y mujeres; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2020)</small>
 
-XX.- Las demás que determine la Ley General y aquellas no reservadas al INE, que se establezcan en la presente Ley.
+XIX.- Garantizar el cumplimiento del principio de paridad de género, así como el respeto de los derechos políticos y electorales de las mujeres;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MAYO DE 2020)</small>
+
+XX.- Reconocer y dar validez a los procesos electorales que se desarrollen bajo el régimen de sistemas normativos indígenas, en atención al principio de la libre autodeterminación de los pueblos y comunidades indígenas, para que estos se desarrollen con apego a los derechos humanos garantizando la paridad entre mujeres y hombres, de conformidad con lo dispuesto en los artículos 16 y 25 de la Constitución Local; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MAYO DE 2020)</small>
+
+XXI.- Las demás que determine la Ley General y aquellas no reservadas al INE, que se establezcan en la presente Ley.
 
 Artículo 33
 
@@ -649,23 +759,37 @@ IV.- Órganos técnicos: Las Unidades Técnicas
 
 Artículo 35
 
-1.- El Consejo General del Instituto Estatal es el órgano superior de dirección y deliberación, responsable de vigilar el cumplimiento de las disposiciones, principios constitucionales y legales en materia electoral, sus decisiones se asumen de manera colegiada, en sesión pública y se integra de la siguiente manera
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
 
-I.- Un Consejero Presidente;
+1.- El Consejo General del Instituto Estatal es el órgano superior de dirección y deliberación, responsable de vigilar el cumplimiento de las disposiciones, principios constitucionales y legales en materia electoral, sus decisiones se asumen de manera colegiada, en sesión pública y se integrará garantizando el principio de paridad de género, de la siguiente manera:
 
-II.- Seis consejeros electorales;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-III.- Un Secretario Ejecutivo; y
+I.- Una Consejera o Consejero Presidente;
 
-IV.- Un representante por cada partido político con registro nacional y local, así como representantes de los candidatos independientes a Gobernador únicamente en proceso electoral.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+II.- Seis consejeras o consejeros electorales;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+III.- Una Secretaria o Secretario Ejecutivo; y
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+IV.- Una persona representante por cada partido político con registro nacional y local. Así como representantes de las candidatas y candidatos independientes a la titularidad de la Gubernatura únicamente en proceso electoral.
 
 2.- Todos los integrantes del Consejo General tendrán derecho a voz, pero sólo el Consejero Presidente y los consejeros electorales tendrán derecho a voz y voto.
 
 3.- Los partidos políticos designarán un representante propietario y un suplente; podrán sustituir en todo tiempo a sus representantes, previa comunicación que formulen al Presidente del Consejo General.
 
-4.- El Consejo General notificará a los partidos políticos y candidatos independientes las inasistencias de sus representantes. Los partidos políticos vigilarán que sus representantes no dejen de asistir a las sesiones.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-5.- El Secretario Ejecutivo será nombrado por la mayoría de los integrantes con voz y voto del Consejo General a propuesta de su Presidente. Deberá reunir los mismos requisitos que se exigen para ser Consejero Electoral, con excepción de lo dispuesto en el inciso k) del párrafo 2 del artículo 100 de la Ley General.
+4.- El Consejo General notificará a los partidos políticos y candidatos independientes las inasistencias de sus representantes. Los partidos políticos y candidatos independientes vigilarán que sus representantes no dejen de asistir a las sesiones.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+5.- La Secretaria o Secretario Ejecutivo será nombrado por la mayoría de los integrantes con voz y voto del Consejo General a propuesta de la Presidenta o Presidente. Deberá reunir los mismos requisitos que se exigen para ser consejera o consejero electoral, con excepción de lo dispuesto en el inciso k) del párrafo 2 del artículo 100 de la Ley General.
 
 Artículo 36
 
@@ -749,7 +873,9 @@ XIV.- Conocer y resolver sobre el registro de los convenios de coaliciones, y so
 
 XV.- Solicitar información a las autoridades federales y locales sobre la no inhabilitación de ciudadanos que hubiesen solicitado su registro para ser candidatos a un cargo de elección popular;
 
-XVI.- Supervisar que las actividades de los partidos políticos, las agrupaciones políticas y los candidatos, se realicen conforme a la Ley General de Partidos Políticos, la Ley General, esta Ley, y cumplan con todas las obligaciones a que estén sujetas;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XVI.- Supervisar que las actividades de los partidos políticos, las agrupaciones políticas, las candidatas y candidatos, se realicen conforme a la Ley General de Partidos Políticos, la Ley General, esta Ley, así como los lineamientos que emita el Consejo General para que los partidos políticos prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género, y vigilar que cumplan con todas las obligaciones a que están sujetas;
 
 XVII.- Garantizar la ministración oportuna del financiamiento público a que tienen derecho los partidos políticos nacionales, locales y, en su caso, los candidatos independientes en la entidad; así como garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y los candidatos, en estricto apego a esta Ley y la Ley General;
 
@@ -847,13 +973,19 @@ LXIII.- Dictar los acuerdos necesarios para hacer efectivas las anteriores atrib
 
 LXIV.- Convocar a las sesiones del Consejo General por acuerdo de la mayoría calificada de sus integrantes, cuando el Consejero Presidente se niegue a realizar la convocatoria correspondiente;
 
-LXV.- Las demás que establezca la Ley General, esta Ley, aquellas no reservadas al INE, y las que por razón de competencia puedan corresponderle.
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+LXV.- Aprobar y expedir los reglamentos internos y lineamientos para garantizar el cumplimiento de la paridad de género, así como el respeto a los derechos políticos de las mujeres; y
+
+LXVI.- Las demás que establezca la Ley General, esta Ley, aquellas no reservadas al INE, y las que por razón de competencia puedan corresponderle.
 
 #### SECCIÓN SEGUNDA. DE LA PRESIDENCIA DEL CONSEJO GENERAL
 
 Artículo 39
 
-Serán atribuciones del Presidente del Consejo General las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+Serán atribuciones de la Presidencia del Consejo General las siguientes:
 
 I.- Procurar la unidad y cohesión de las funciones de los órganos del Instituto Estatal y coordinar sus actividades;
 
@@ -907,7 +1039,9 @@ XXIV.- Las demás que le confiera esta Ley, el Consejo General y otras disposici
 
 Artículo 40
 
-Los consejeros electorales del Consejo General del Instituto Estatal tendrán las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+Las consejeras y consejeros electorales del Consejo General del Instituto Estatal tendrán las siguientes atribuciones:
 
 I.- Participar con voz y voto en las sesiones del Consejo General y de las comisiones de las que formen parte;
 
@@ -937,7 +1071,9 @@ XII.- Las demás que establezca la normatividad interna del Instituto Estatal o 
 
 Artículo 41
 
-Los representantes de los partidos políticos y en su caso, de los candidatos independientes, tendrán los siguientes derechos y obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+Las y los representantes de los partidos políticos y en su caso, de las candidaturas independientes, tendrán los siguientes derechos y obligaciones:
 
 I.- Cumplir con lo dispuesto en esta Ley y con los acuerdos del Consejo General;
 
@@ -967,11 +1103,21 @@ II.- De Prerrogativas, Partidos Políticos y Candidatos Independientes;
 
 III.- De Quejas y Denuncias o Procedimiento Contencioso Electoral;
 
-IV.- De Organización y Capacitación Electoral y vinculación con el INE; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-V.- De Sistemas Normativos Indígenas.
+IV.- De Organización y Capacitación Electoral y vinculación con el INE.
 
-3.- Todas las comisiones se integrarán con un máximo de tres consejeros electorales con voz y voto; podrán participar en ellas, con voz, pero sin voto, los representantes de los partidos políticos, excepto tratándose de la comisión de Quejas y Denuncias y de Sistemas Normativos Indígenas y cuando se discutan temas relacionados con el Servicio Profesional Electoral Nacional.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+V.- De Sistemas Normativos Indígenas; e
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VI.- Igualdad de Género y no Discriminación.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+3.- Todas las comisiones se integrarán con un máximo de tres consejeras o consejeros electorales bajo el principio de paridad de género, con voz y voto; podrán participar en ellas, con voz, pero sin voto, las y los representantes de los partidos políticos, excepto cuándo se trate de la comisión de Quejas y Denuncias y de Sistemas Normativos Indígenas y cuando se discutan temas relacionados con el Servicio Profesional Electoral Nacional.
 
 4.- Las sesiones de las comisiones serán públicas y conforme al reglamento que expida el Consejo General para su adecuado funcionamiento.
 
@@ -979,7 +1125,9 @@ V.- De Sistemas Normativos Indígenas.
 
 6.- El Secretario Ejecutivo del Instituto Estatal fungirá como Secretario Técnico de las comisiones de Quejas y Denuncias y de Organización y Capacitación Electoral y vinculación con el INE y en su caso, podrá delegar esta función en el servidor público del Instituto Estatal que él mismo designe.
 
-7.- Las comisiones tendrán como atribuciones, conocer y dar seguimiento a los trabajos de las áreas del Instituto Estatal, de acuerdo a su materia, así como proponer acciones, estudios, proyectos y otros necesarios para el cumplimiento de los fines del Instituto Estatal.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+7.- Las comisiones tendrán como atribuciones, conocer y dar seguimiento a los trabajos de las áreas del Instituto Estatal, de acuerdo a su materia, así como proponer acciones, estudios, proyectos y otros necesarios, observando la perspectiva de género, para el cumplimiento de los fines del Instituto Estatal.
 
 8.- El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto Estatal, podrá crear comités técnicos especiales para actividades o programas específicos, en que requiera del auxilio o asesoría técnico-científica de especialistas en las materias que así lo estime conveniente.
 
@@ -1051,7 +1199,9 @@ XIX.- Llevar el archivo del Consejo General;
 
 XX.- Otorgar poderes a nombre del Instituto Estatal para actos de dominio y de administración, para ser representado ante cualquier autoridad administrativa o judicial o ante particulares. Para realizar actos de dominio sobre inmuebles destinados al Instituto Estatal o para otorgar poderes para dichos efectos, el Secretario Ejecutivo requerirá de autorización previa del Consejo General;
 
-XXI.- Expedir los documentos que acrediten la personalidad de los consejeros y de los representantes de los partidos políticos;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XXI.- Expedir los documentos que acrediten la personalidad de los consejeros y de los representantes de los partidos políticos y representantes de candidatos independientes;
 
 XXII.- Certificar y expedir copias del registro de partidos, así como el de convenios de fusión, coaliciones y solicitudes de registro de candidaturas comunes;
 
@@ -1179,7 +1329,9 @@ III.- Recabar de los consejos distritales y municipales electorales copias de la
 
 IV.- Recabar la documentación necesaria e integrar los expedientes a fin de que el Consejo General efectúe los cómputos que conforme a esta Ley debe realizar;
 
-V.- Coordinar y vigilar el cumplimiento de los Programas de Capacitación Electoral que se desarrollen por los órganos electorales, de acuerdo a la reglamentación del INE;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+V.- Coordinar y vigilar el cumplimiento de los Programas de Capacitación Electoral que se desarrollen por los órganos electorales, en materia de educación cívica, paridad de género, respeto de los derechos humanos de las mujeres en el ámbito político, de acuerdo a la reglamentación del INE;
 
 VI.- Preparar el material didáctico y los instructivos electorales que le correspondan;
 
@@ -1197,7 +1349,9 @@ XII.- Coordinar la capacitación a los funcionarios de los consejos distritales 
 
 XIII.- Llevar la estadística de las elecciones estatales, así como de los procesos de participación ciudadana; y
 
-XIV.- Las demás que le confiera esta Ley, la normatividad interna o le encarguen el Consejo General del Instituto Estatal, su Presidente o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XIV.- Las demás que le confiera esta Ley, la normatividad interna o le encarguen el Consejo General del Instituto Estatal, su Presidencia o Secretaría Ejecutiva.
 
 Artículo 50
 
@@ -1263,11 +1417,17 @@ I.- Impulsar la creación de una cultura de participación ciudadana, compromiso
 
 II.- Promover los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y la participación efectiva de mujeres y hombres;
 
-III.- Orientar a los ciudadanos para ejercer sus derechos y cumplir con sus obligaciones político-electorales;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-IV.- Planear las campañas de difusión y los programas de divulgación de la educación cívica y cultura democrática en la entidad;
+III.- Orientar a las ciudadanas y los ciudadanos para ejercer sus derechos y cumplir con sus obligaciones políticos (sic) y electorales;
 
-V.- Elaborar, proponer, coordinar y vigilar los programas de educación cívica que deban aplicarse en el Estado de acuerdo a los lineamientos del INE;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+IV.- Diseñar, proponer y planear campañas de difusión y los programas de divulgación de la educación cívica, paridad de género, cultura de respeto a los derechos humanos de las mujeres en el ámbito político y electoral y de la cultura democrática en la entidad, para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, así como en igualdad sustantiva;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+V.- Elaborar, proponer, coordinar y vigilar los programas de educación cívica, paridad de género y respeto a los derechos humanos de las mujeres en el ámbito político, que deban aplicarse en el Estado, de acuerdo a los lineamientos del INE;
 
 VI.- Desarrollar las actividades para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en la Entidad, de acuerdo con los lineamientos y criterios que emita el INE;
 
@@ -1283,13 +1443,17 @@ XI.- Promover la participación de los ciudadanos oaxaqueños en los procesos de
 
 XII.- Llevar la estadística de los procesos de participación ciudadana, e integrar y actualizar la estadística del acceso de las mujeres a cargos públicos en el Estado; y
 
-XIII.- Las demás que le confiera esta Ley, la normatividad interna o le encarguen el Consejo General del Instituto Estatal, su Presidente o el Secretario Ejecutivo
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XIII.- Las demás que le confiera esta Ley, la normatividad interna o le encarguen el Consejo General del Instituto Estatal, su Presidencia o la Secretaría Ejecutiva.
 
 Artículo 52
 
 La Dirección Ejecutiva de Sistemas Normativos Indígenas tiene las siguientes atribuciones:
 
-I.- Garantizar y promover el fortalecimiento y respeto de los sistemas normativos de los pueblos indígenas y afromexicanos para la elección de sus autoridades o representantes;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+I.- Garantizar y promover el fortalecimiento y respeto de los sistemas normativos de los pueblos indígenas y afromexicano para la elección de sus autoridades o representantes en el marco de respeto a los derechos humanos y la paridad de género, garantizando lo dispuesto en los artículos 16 y 25 de la Constitución Local;
 
 II.- Garantizar que todos los asuntos y controversias se resuelvan con base en los sistemas normativos indígenas de que se trate, a fin de preservar la pluralidad política del estado;
 
@@ -1333,13 +1497,21 @@ Artículo 53
 
 3.- Los consejos distritales y municipales se integrarán con los siguientes miembros:
 
-I.- Un consejero presidente, con derecho a voz y voto;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-II.- Cuatro consejeros electorales propietarios con sus respectivos suplentes, con derecho a voz y voto;
+I.- Una consejera o consejero presidente, con derecho a voz y voto;
 
-III.- Un secretario, con voz pero sin voto; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-IV.- Un representante de cada uno de los partidos políticos y de candidatos independientes cuando así corresponda, quienes tendrán derecho a voz pero sin voto.
+II.- Cuatro consejerías electorales propietarias con sus respectivas suplencias, con derecho a voz y voto;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+III.- Una secretaria o secretario, con voz, pero sin voto; y
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+IV.- Una o un representante de cada uno de los partidos políticos y de candidaturas independientes cuando así corresponda, quienes tendrán derecho a voz, pero sin voto.
 
 Los partidos políticos y, en su caso los candidatos independientes, podrán designar un representante propietario y un representante suplente.
 
@@ -1355,7 +1527,9 @@ Los partidos políticos y, en su caso los candidatos independientes, podrán des
 
 Artículo 54
 
-1.- El Consejero Presidente y los consejeros electorales de los consejos distritales y municipales deberán satisfacer los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+1.- La Consejera o Consejero Presidente y las consejeras o consejeros electorales de los consejos distritales y municipales deberán satisfacer los siguientes requisitos:
 
 I.- Ser mexicano por nacimiento y estar en pleno goce y ejercicio de sus derechos políticos y civiles, estar inscrito en el Registro Federal de Electores y contar con credencial para votar vigente;
 
@@ -1375,21 +1549,31 @@ VII.- No desempeñar cargo de servidor público con mando medio o superior feder
 
 VIII.- Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
 
-2.- Para el caso de los consejeros presidentes y secretarios de los consejos distritales y municipales durante su encargo como tales, deberán tener plena disposición de tiempo y horario por lo que no podrán desempeñarse en ningún otro empleo, comisión u ocupación remunerada. La contravención a lo dispuesto en este artículo será causal de separación inmediata del cargo
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-3.- Los secretarios de los consejos distritales y municipales deberán reunir los mismos requisitos que se exigen para ser Consejero Electoral.
+2.- Para el caso de las consejeras y consejeros presidentes y secretarios de los consejos distritales y municipales durante su encargo como tales, deberán tener plena disposición de tiempo y horario por lo que no podrán desempeñarse en ningún otro empleo, comisión u ocupación remunerada. La contravención a lo dispuesto en este artículo será causal de separación inmediata del cargo.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+3.- Las y los secretarios de los consejos distritales y municipales deberán reunir los mismos requisitos que se exigen para ser Consejera o Consejero Electoral.
 
 Artículo 55
 
-1.- El Consejero Presidente y los consejeros electorales, propietarios y suplentes de los consejos distritales y municipales serán designados para un proceso electoral ordinario, pudiendo ser reelectos hasta por uno más.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-2.- Para el desempeño de sus funciones los consejeros electorales tendrán derecho a disfrutar de las facilidades necesarias en sus trabajos o empleos habituales.
+1.- La Consejera o Consejero Presidente y las consejeras o consejeros electorales, propietarios y suplentes de los consejos distritales y municipales serán designados para un proceso electoral ordinario, pudiendo ser reelectos hasta por uno más.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+2.- Para el desempeño de sus funciones las consejeras y consejeros electorales tendrán derecho a disfrutar de las facilidades necesarias en sus trabajos o empleos habituales.
 
 3.- Recibirán la dieta de asistencia que para cada proceso electoral determine el Consejo General, la cual en ningún caso será modificada. Estarán sujetos, en lo conducente, al régimen de responsabilidades previsto en la Constitución Local y a lo señalado en el Libro Noveno de esta Ley, sin menoscabo de las responsabilidades de orden civil o penal en que incurran en el ejercicio de sus funciones.
 
 Artículo 56
 
-La designación de los presidentes, secretarios y consejeros electorales propietarios y suplentes de los consejos distritales y municipales electorales, se hará bajo el siguiente procedimiento:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+La designación de las y los presidentes, las y los secretarios y las y los consejeros electorales propietarios y suplentes de los consejos distritales y municipales electorales, se hará bajo el siguiente procedimiento:
 
 I.- En la sesión de inicio del proceso electoral, el Consejo General emitirá y publicará la convocatoria dirigida a la ciudadanía en general, para designar a los presidentes, secretarios y consejeros electorales propietarios y suplentes de los consejos distritales y municipales electorales,
 
@@ -1417,9 +1601,13 @@ IV.- El Consejo General ordenará la publicación de la integración de los cons
 
 Artículo 57
 
-1.- Para cubrir las vacantes que se generen en el cargo de consejero electoral distrital o municipal, será llamado su suplente.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-2.- Se considerarán ausencias definitivas de los consejeros distritales y municipales, las que se susciten por:
+1.- Para cubrir las vacantes que se generen en el cargo de consejera o consejero electoral distrital o municipal, será llamado su suplente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2020)</small>
+
+2.- Se considerarán ausencias definitivas de las y los consejeros distritales y municipales, las que se susciten por:
 
 I.- La renuncia expresa al cargo;
 
@@ -1431,15 +1619,33 @@ IV.- No cumplir con lo dispuesto en los artículos 54 numeral 2 y 58 numeral 4 d
 
 V.- Cuando por cualquiera de las causas previstas en la presente Ley, este suspendido el ejercicio de sus derechos político-electorales.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Una vez notificada la ausencia definitiva al Consejo General del Órgano Electoral, éste deberá aprobar en sesión pública la designación de las y los integrantes sustitutos que habrán de ocupar las vacantes de los Consejos Distritales y Municipales Electorales, en un plazo de cinco días a partir de la vacante.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Artículo 57 Bis
+
+Cuando el Consejo General ejerza la facultad de atracción y/o declare la desaparición de un Consejo Distrital o Municipal Electoral, las y los integrantes de dicho Consejo desaparecido, dejarán de ejercer sus funciones, sin que lo anterior los exima de la responsabilidad de hacer la entrega correspondiente.
+
+Las personas quienes integran un órgano desconcentrado y no cumplen con su cargo conforme a esta Ley, tendrán responsabilidad conforme a lo establecido en el artículo 343 de esta Ley.
+
 Artículo 58
 
-1.- Los consejos distritales deberán instalarse e iniciar sesiones, a más tardar el 30 de noviembre del año anterior al de la elección. Los presidentes convocarán por escrito, a la sesión de instalación del consejo que presiden
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-2.- Los consejos municipales deberán instalarse e iniciar sesiones, a más tardar el 30 de diciembre del año anterior al de la elección. Los presidentes convocarán por escrito, a la sesión de instalación del consejo que presiden.
+1.- Los consejos distritales deberán instalarse e iniciar sesiones, a más tardar el 30 de noviembre del año anterior al de la elección. La presidencia convocará por escrito, a la sesión de instalación del consejo que preside.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+2.- Los consejos municipales deberán instalarse e iniciar sesiones, a más tardar el 30 de diciembre del año anterior al de la elección. La presidencia convocará por escrito, a la sesión de instalación del consejo que preside.
 
 3.- Los consejos distritales y municipales se instalarán válidamente con la mayoría de sus integrantes; así como de los representantes de los partidos políticos que para esa fecha hubieren sido acreditados.
 
-4.- Los consejos distritales y municipales en su primer sesión aprobarán un horario de oficina al que estarán obligados a cumplir tanto el presidente como el secretario, con la salvedad de las comisiones oficiales que deban realizar al interior de sus distritos o municipios o en la sede del Consejo General y oficinas centrales del Instituto Estatal en el cumplimiento de sus funciones. En el caso de los consejeros electorales por la naturaleza de sus funciones quedarán constreñidos a su asistencia a las sesiones y a las actividades para las que sean convocados por el Presidente del Consejo y de acuerdo a las propias actividades que sean de su competencia durante el proceso electoral. Lo anterior no es óbice para cumplir con la disposición que establece que en proceso electoral todos los días y horas son hábiles. La contravención a lo dispuesto en este artículo será causal de separación inmediata del cargo.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+4.- Los consejos distritales y municipales en su primera sesión aprobarán un horario de oficina al que estarán obligados a cumplir, tanto la presidencia como la secretaría, con la salvedad de las comisiones oficiales que deban realizar al interior de sus distritos o municipios o en la sede del Consejo General y oficinas centrales del Instituto Estatal en el cumplimiento de sus funciones. En el caso de las consejeras y consejeros electorales por la naturaleza de sus funciones quedarán constreñidos a su asistencia a las sesiones y a las actividades para las que sean convocados por la presidencia del Consejo y de acuerdo a las propias actividades que sean de su competencia durante el proceso electoral. Lo anterior no es óbice para cumplir con la disposición que establece que en proceso electoral todos los días y horas son hábiles. La contravención a lo dispuesto en este artículo será causal de separación inmediata del cargo.
 
 5.- Los consejos distritales y municipales, dentro de las veinticuatro horas siguientes a su instalación, remitirán copia del acta respectiva al Consejo General del Instituto Estatal a través de la Dirección que corresponda. De igual forma procederán respecto de las subsecuentes sesiones.
 
@@ -1447,7 +1653,9 @@ Artículo 58
 
 7.- Los concurrentes a las sesiones deberán guardar el debido orden en el recinto donde se celebren.
 
-8.- Para garantizar el orden, los presidentes de los consejos distritales y municipales podrán tomar las siguientes medidas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2020)</small>
+
+8.- Para garantizar el orden, la Presidencia de los consejos distritales y municipales podrá tomar las siguientes medidas:
 
 I.- Exhortación a guardar el orden;
 
@@ -1455,7 +1663,9 @@ II.- Conminar a abandonar el local; y
 
 III.- Solicitar el auxilio de la fuerza pública, para restablecer el orden y expulsar a quienes lo hayan alterado.
 
-9.- Las autoridades estatales y municipales están obligadas a proporcionar a los organismos electorales, a petición de los presidentes respectivos, los informes, las certificaciones y el auxilio de las instituciones de seguridad pública para el cumplimiento de sus funciones y resoluciones.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+9.- Las autoridades estatales y municipales están obligadas a proporcionar a los organismos electorales, a petición de las Presidencias respectivas, los informes, las certificaciones y el auxilio de las instituciones de seguridad pública para el cumplimiento de sus funciones y resoluciones.
 
 Artículo 59
 
@@ -1517,7 +1727,9 @@ XX.- Las demás que le confiere esta Ley, el Consejo General, y la normatividad 
 
 Artículo 61
 
-Corresponde a los presidentes de los consejos distritales, dentro del ámbito de su competencia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+Corresponde a la Presidencia de los consejos distritales, dentro del ámbito de su competencia:
 
 I.- Convocar y conducir las sesiones del consejo;
 
@@ -1541,7 +1753,9 @@ X.- Las demás que les confiera esta Ley y la normatividad interna del Instituto
 
 Artículo 62
 
-Corresponde a los secretarios de los consejos distritales electorales, dentro del ámbito de su competencia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+Corresponde a la Secretaría de los consejos distritales electorales, dentro del ámbito de su competencia:
 
 I.- Auxiliar al Consejo Distrital y a su presidente en el ejercicio de sus atribuciones;
 
@@ -1595,7 +1809,9 @@ X.- Las demás que le confiere esta Ley, el Consejo General, y la normatividad i
 
 Artículo 64
 
-Corresponde a los Presidentes de los Consejos Municipales Electorales, dentro del ámbito de su competencia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+Corresponde a la Presidencia de los Consejos Municipales Electorales, dentro del ámbito de su competencia:
 
 I.- Convocar y conducir las sesiones del Consejo;
 
@@ -1619,7 +1835,9 @@ X.- Las demás que les confiera esta Ley y la normatividad interna del Instituto
 
 Artículo 65
 
-Corresponde a los secretarios de los consejos municipales electorales, dentro del ámbito de su competencia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+Corresponde a la Secretaría de los consejos municipales electorales, dentro del ámbito de su competencia:
 
 I.- Auxiliar al Consejo Municipal y a su Presidente en el ejercicio de sus atribuciones;
 
@@ -2065,9 +2283,13 @@ V.- Insertar en su propaganda la leyenda “aspirante a candidato independiente"
 
 VI.- Los demás establecidos por esta Ley.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2020, PÁGINA 14.]</small>
+
 Artículo 102
 
-Son obligaciones de los aspirantes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+Son obligaciones de las y los aspirantes:
 
 I.- Conducirse con respeto irrestricto a lo dispuesto en la Constitución Federal, la Constitución Local, la Ley General, la convocatoria y en la presente Ley;
 
@@ -2093,13 +2315,23 @@ g).- Las personas que vivan o trabajen en el extranjero.
 
 V.- Abstenerse de realizar por sí o por interpósita persona, actos de presión, coacción o entrega de dádivas de cualquier naturaleza, con el fin de obtener el apoyo ciudadano;
 
-VI.- Abstenerse de proferir calumnias en contra de las instituciones, autoridades electorales, partidos políticos, coaliciones o candidatos independientes;
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
 
-VII.- Rendir el informe de ingresos y egresos;
+VI.- Abstenerse de ejercer violencia política contra las mujeres en razón de género o de proferir expresiones o calumnias que degraden, denigren o discriminen a otras personas aspirantes, precandidatas, precandidatos, candidatas, candidatos, instituciones, autoridades electorales, partidos políticos, coaliciones, candidatas y candidatos independientes;
 
-VIII.- Respetar los topes de gastos de campaña fijados para obtener el apoyo ciudadano, en los términos que establece la presente Ley; y
+VII.- Abstenerse de proferir calumnias en contra de las instituciones, autoridades electorales, partidos políticos, coaliciones o candidatos independientes;
 
-IX.- Las demás establecidas por esta Ley.
+VIII.- Rendir el informe de ingresos y egresos;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+IX.- Respetar los topes de gastos de campaña fijados para obtener el apoyo ciudadano, en los términos que establece la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+X.- Cuando en la propaganda político-electoral aparezcan menores de dieciocho años de edad, deberá recabar por escrito el consentimiento de quien o quienes ejerzan la patria potestad o tutela, a fin de salvaguardar el derecho a la intimidad de la niña, niño o adolescente; y
+
+XI.- Las demás establecidas por esta Ley.
 
 ### CAPÍTULO SEXTO. DEL REGISTRO DE CANDIDATOS INDEPENDIENTES
 
@@ -2295,9 +2527,11 @@ VII.- Depositar únicamente en la cuenta bancaria aperturada sus aportaciones y 
 
 VIII.- Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-IX.- Abstenerse de proferir calumnias en contra de las instituciones, autoridades electorales, partidos políticos, coaliciones o candidatos;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-X.- Insertar en su propaganda de manera visible la leyenda: “candidato independiente”;
+IX.- Abstenerse de ejercer violencia política contra las mujeres en razón de género o de proferir expresiones o calumnias que degraden, denigren o discriminen a otras personas aspirantes, precandidatas, precandidatos, candidatas, candidatos, instituciones, autoridades electorales, partidos políticos, coaliciones, candidatas y candidatos independientes;
+
+X.- Insertar en su propaganda de manera visible la leyenda: "candidato independiente";
 
 XI.- Abstenerse de utilizar en su propaganda política o electoral, emblemas y colores utilizados por partidos políticos o los relacionados con los símbolos patrios;
 
@@ -2307,9 +2541,15 @@ XIII.- Abstenerse de recibir aportaciones y/o donaciones en efectivo, así como 
 
 XIV.- Presentar al INE, en los mismos términos en que lo hagan los partidos políticos, los informes de campaña sobre el origen y monto de todos sus ingresos, así como su aplicación y empleo;
 
-XV.- Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XVI.- Las demás que establezcan esta Ley y los demás ordenamientos.
+XV.- Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XVI.- Cuando en la propaganda político-electoral aparezcan menores de dieciocho años de edad, deberá recabar por escrito el consentimiento de quien o quienes ejerzan la patria potestad o tutela, a fin de salvaguardar el derecho a la intimidad de la niña, niño o adolescente; y
+
+XVII.- Las demás que establezcan esta Ley y los demás ordenamientos.
 
 Artículo 115
 
@@ -2405,9 +2645,11 @@ Los candidatos independientes deberán reembolsar al Instituto Estatal el monto 
 
 #### SECCIÓN SEGUNDA. DEL ACCESO A RADIO Y TELEVISIÓN
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 Artículo 128
 
-El Instituto Estatal en coordinación con el INE, garantizará a las y los candidatos independientes el uso de sus prerrogativas en radio y televisión; establecerá las pautas para los mensajes y programas a que tengan derecho a difundir durante las campañas electorales; y atenderá las quejas y denuncias por la violación a las normas aplicables y determinará, en su caso, las sanciones.
+El Instituto Estatal en coordinación con el INE, garantizará a las y los candidatos independientes el uso de sus prerrogativas en radio y televisión; establecerá las pautas para los mensajes y programas a que tengan derecho a difundir durante las campañas electorales; cuándo se acredite violencia política en razón de género, en uso de estas prerrogativas, el Instituto Estatal solicitará de manera inmediata que sean retiradas y atenderá las quejas y denuncias por la violación a las normas aplicables y determinará, en su caso, las sanciones.
 
 Artículo 129
 
@@ -2422,6 +2664,10 @@ Las y los candidatos independientes deberán entregar sus materiales al Institut
 Artículo 131
 
 Ninguna persona física, moral o jurídica colectiva, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión para promover un candidato independiente o dirigida a influir en las preferencias electorales de los ciudadanos, a favor o en contra de los mismos o de los partidos políticos. Queda prohibida la transmisión en territorio estatal de este tipo de propaganda contratada en el extranjero.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+En uso de las prerrogativas señaladas en el presente capítulo, cuando se acredite violencia política contra las mujeres en razón de género, el Consejo General y la Comisión de Quejas y Denuncias, están facultados para solicitar al INE, suspender de manera inmediata su difusión y el retiro de cualquier otra propaganda, y asigne tiempos de radio y televisión con cargo a las prerrogativas de los partidos políticos, ciudadano o ciudadana infractora, quiénes deberán ofrecer disculpa pública con la finalidad de reparar el daño, con independencia de la responsabilidad penal en la que puedan incurrir.
 
 El Instituto Estatal hará del conocimiento al INE cualquier propaganda política o electoral en radio o televisión que resulte violatoria, lo anterior, para los efectos legales conducentes.
 
@@ -2469,9 +2715,13 @@ Son aplicables a los candidatos independientes, las normas sobre propaganda elec
 
 Artículo 138
 
-1.- La propaganda electoral de las y los candidatos independientes deberá tener el emblema y color o colores que los caractericen y diferencien de otros partidos políticos y de otros candidatos independientes, así como tener visible la leyenda: “candidato independiente”, en ningún caso el emblema o colores que utilicen las y los candidatos independientes podrán tener alusiones de carácter religioso ni relacionados con los símbolos patrios.
+1.- La propaganda electoral de las y los candidatos independientes deberá tener el emblema y color o colores que los caractericen y diferencien de otros partidos políticos y de otros candidatos independientes, así como tener visible la leyenda: "candidato independiente", en ningún caso el emblema o colores que utilicen las y los candidatos independientes podrán tener alusiones de carácter religioso ni relacionados con los símbolos patrios.
 
 2.- La propaganda electoral de los candidatos independientes debe ser diferente de la que difundan los partidos políticos, por lo que debe estar orientada a comunicar los principios, posicionamientos, programas, ofertas y/o agenda política de las y los candidatos, ya que de esa forma atiende a la naturaleza, finalidad y razones de la creación de ese tipo de participación: que la ciudadanía cuente con formas de participación políticas alternas al sistema de partidos.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+3.- La propaganda electoral en la que aparezcan menores de dieciocho años, sin que previamente se obtenga el consentimiento por escrito de quien o quienes ejerzan la patria potestad o tutela; deberá difuminarse, ocultarse o hacerse irreconocible la imagen, la voz o cualquier otro dato que haga identificable a las niñas, niños o adolescentes, salvaguardando en todo momento su derecho a la intimidad.
 
 ## TÍTULO CUARTO. DE LA FISCALIZACIÓN
 
@@ -2521,9 +2771,11 @@ Para determinar la votación estatal valida emitida que servira de base para la 
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
 Artículo 147
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución Local, la Ley General y esta Ley, realizados por las autoridades electorales nacionales y estatales, los partidos políticos, los candidatos de partidos e independientes, así como los ciudadanos, que tienen por objeto la renovación periódica de los integrantes de los Poderes Legislativo y Ejecutivo del Estado, así como de los ayuntamientos.
+El proceso electoral es el conjunto de actos ordenados por la Constitución Local, la Ley General y esta Ley, realizados por las autoridades electorales nacionales y estatales, los partidos políticos, las candidatas y candidatos de partidos e independientes, así como la ciudadanía, que tienen por objeto la renovación periódica de quienes integran los Poderes Legislativo y Ejecutivo del Estado, así como de los ayuntamientos. En dichos procesos debe cumplirse el principio de paridad.
 
 Artículo 148
 
@@ -2727,9 +2979,13 @@ Artículo 156
 
 2.- Tanto la propaganda electoral como las actividades de campaña y precampaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los candidatos y partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
 
-3.- Son aplicables a los candidatos independientes, las normas sobre propaganda electoral contenidas en esta Ley.
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
 
-4.- Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del periodo de precampaña y campaña electoral. Durante el periodo de un proceso electoral local el servidor público que pretenda dar publicidad a su informe en los términos del presente artículo deberá informar al Instituto Estatal con 30 días de anticipación la fecha exacta del evento público del informe, los días previos y posteriores que incluirá la difusión, los medios a utilizarse y la programación de los mensajes. El servidor público que incumpla con esta disposición estará sujeto a lo dispuesto por esta Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+3.- En la propaganda electoral deberán abstenerse de expresiones que calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley y la Ley Estatal de Acceso. El Consejo General y la Comisión de Quejas y Denuncias están facultados para solicitar al INE, una vez satisfechos los procedimientos establecidos en esta Ley; la suspensión inmediata de los mensajes en radio o televisión contrarios a esta norma, tratándose de cualquier otra propaganda el Instituto ordenará su retiro.
+
+4.- Son aplicables a los candidatos independientes, las normas sobre propaganda electoral contenidas en esta Ley.
+
+5.- Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del periodo de precampaña y campaña electoral. Durante el periodo de un proceso electoral local el servidor público que pretenda dar publicidad a su informe en los términos del presente artículo deberá informar al Instituto Estatal con 30 días de anticipación la fecha exacta del evento público del informe, los días previos y posteriores que incluirá la difusión, los medios a utilizarse y la programación de los mensajes. El servidor público que incumpla con esta disposición estará sujeto a lo dispuesto por esta Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
 
 Artículo 157
 
@@ -3085,7 +3341,9 @@ Artículo 182
 
 2.- Las candidaturas de diputados al Congreso, a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, se registrarán por fórmulas compuestas cada una por un propietario y un suplente del mismo género observando el principio de alternancia; para los ayuntamientos que se eligen por el sistema de partidos políticos, las candidaturas se registrarán por planillas integradas por propietarios y suplentes del mismo género observando el principio de alternancia. Serán consideradas, fórmulas y candidatos, separadamente, salvo para efectos de la votación.
 
-3.- En el caso que registren candidatos por un total de distritos electorales que sea par, deberán integrar la totalidad de los distritos electorales con la mitad de los candidatos hombres y la mitad de mujeres, conforme a los lineamientos integrados por segmentos de mayor y menor competitividad que para tal efecto emita el Consejo General.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2020)</small>
+
+3.- En el caso que registren candidaturas por un total de distritos electorales que sea par, deberán integrar la totalidad de los distritos electorales con la mitad de los candidatos hombres y la mitad de mujeres, conforme a los lineamientos integrados por segmentos de mayor y menor competitividad que para tal efecto emita el Consejo General.
 
 En el caso que registren candidatas y candidatos por un total de distritos electorales que sea impar, se deberá garantizar la diferencia mínima porcentual.
 
@@ -3109,29 +3367,39 @@ Las planillas deberan garantizar la paridad desde su doble dimensión, vertical 
 
 Se garantizará la alternancia de género en el registro de las planillas para hacer efectivo el principio constitucional de paridad de género. La alternancia deberá verse reflejada en la composición de la planilla, si el primer concejal es mujer, el siguiente concejal deberá ser hombre y así en forma sucesiva hasta agotar las candidaturas del segmento, dándose el mismo número de integrantes mujeres que de hombres. Si la lista es encabezada por un hombre se seguirá el mismo principio.
 
-En caso de que el número de concejales de la planilla sea impar, habrá una fórmula más del genero que el partido, coalición o candidatura común determine en cuyo caso guardará la mínima diferencia porcentual
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-Cada partido político, coalición o candidatura común deberá registrar el mismo número de planillas encabezadas por mujeres y por hombres. En caso de que el número de municipios por los que registren planillas sea impar, habrá una más encabezada por el género que el partido, coalición o candidatura común determine, siempre respetando la mínima diferencia porcentual.
+Para las planillas de concejales, indistintamente del género que encabece la planilla, la última fórmula será integrada por el género femenino.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Cada partido político, coalición o candidatura común deberá registrar el mismo número de planillas encabezadas por mujeres y por hombres. En caso de que el número de municipios por los que registren planillas sea impar, habrá una más encabezada por el género femenino.
 
 En las sustituciones de candidatas o candidatos que integran la planilla deberá ser considerando el principio de paridad y alternancia de tal manera que deberá ser del mismo género que la fórmula original tenía.
 
-En los distritos o municipios en los que la población sea mayoritar amente (sic) indígena, los partidos políticos de acuerdo a sus estatutos procurarán postular a cargos de elección popular a candidatos indígenas
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+En los distritos o municipios en los que la población sea mayoritariamente indígena, los partidos políticos de acuerdo a sus estatutos procurarán postular a cargos de elección popular candidaturas de personas que pertenecen a una comunidad indígena, garantizando que en dicha postulación se cumpla con el principio de paridad de género.
 
 Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a legisladores locales y ayuntamientos. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
 
 4.- Los partidos políticos promoverán y garantizarán la paridad y alternancia entre los géneros, en la postulación de candidatos a los cargos de elección popular para la integración del Congreso del Estado y los ayuntamientos. No se admitirán criterios que tengan como resultado que algunos de los géneros les sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior. Para efectos de lo anterior, de manera previa al registro de candidaturas, el consejo general emitirá un acuerdo calificando la competitividad de los partidos políticos en los distintos distritos electorales y municipios; se catalogarán en competitivos y no competitivos; todos los partidos políticos quedarán obligados a postular de manera paritaria ambos géneros en los distritos y municipios competitivos y no competitivos.
 
-5.- El Instituto Estatal, en el ámbito de su competencia, tendrá facultades para rechazar el registro del número de candidaturas de un género que exceda la paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+5.- El Instituto Estatal, en el ámbito de su competencia, rechazará el registro del número de candidaturas de un género que no garantice el principio de paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
 
 6.- En el caso que para un mismo cargo de elección popular sean registrados diferentes candidatos por un mismo partido político, el secretario del Consejo General del Instituto Estatal, una vez detectada esta situación, requerirá al partido político a efecto de que informe al Consejo General, en un término de cuarenta y ocho horas, qué candidato o fórmula prevalece. En caso de no hacerlo se entenderá que el partido político opta por el último de los registros presentados, quedando sin efecto los demás.
 
 Artículo 183
 
-1.- Hecho el cierre del registro de candidaturas, si un partido político, coalición o candidatura común no cumple con lo establecido en los artículos 179, 180 y 181 de esta Ley, el Consejo General del
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
-Instituto Estatal le requerirá en primera instancia para que, en el plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidaturas y le apercibirá de que, en caso de no hacerlo, le hará una amonestación pública.
+1.- Hecho el cierre del registro de candidaturas, si un partido político, coalición o candidatura común no cumple con lo establecido en los artículos 179, 180, 181 y 182 de esta Ley, el Consejo General del Instituto Estatal le requerirá en primera instancia para que, en el plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidaturas y le apercibirá de que, en caso de no hacerlo, le hará una amonestación pública.
 
-2.- Transcurrido el plazo a que se refiere el párrafo anterior, el partido político, coalición o candidatura común que no realice la sustitución de candidatos, será acreedor a una amonestación pública y el Consejo General del Instituto Estatal le requerirá, de nueva cuenta, para que, en un plazo de veinticuatro horas, contadas a partir de la notificación, haga la corrección. En caso de reincidencia se sancionará con la negativa del registro de las candidaturas correspondientes.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+2.- Transcurrido el plazo a que se refiere el párrafo anterior, el partido político, coalición o candidatura común que no realice la sustitución de candidaturas, será acreedor a una amonestación pública y el Consejo General del Instituto Estatal le requerirá, de nueva cuenta, para que, en un plazo de veinticuatro horas, contadas a partir de la notificación, haga la corrección. En caso de incumplimiento se sancionará con la negativa del registro de las candidaturas correspondientes.
 
 Artículo 184
 
@@ -3323,6 +3591,10 @@ Artículo 195
 
 2.- La propaganda que en el curso de una campaña difundan por medios gráficos los partidos políticos, las coaliciones, candidaturas en común y los candidatos, no tendrán más límite, en los términos del artículo 7o. de la Constitución Federal, que el respeto a la vida privada de candidatos, autoridades, terceros y a las instituciones y valores democráticos.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+3.- Tratándose de la propaganda político-electoral, en que aparezcan menores de dieciocho años; el partido político o candidato deberá previamente recabar por escrito el consentimiento de quien o quienes ejerzan la patria potestad o tutela, de no ser así, deberá difuminar, ocultar o hacer irreconocible la imagen o cualquier otro dato que haga identificable a la niña, niño o adolescente.
+
 Artículo 196
 
 1.- La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos y candidatos, se ajustarán a lo dispuesto por el primer párrafo del artículo 6 de la Constitución Federal y primer párrafo del artículo 3 de la Constitución Local.
@@ -3332,6 +3604,10 @@ Artículo 196
 3.- Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6o. de la Constitución Federal y tercer y cuarto párrafos del artículo 3 de la Constitución Local, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquéllos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
 
 4.- El derecho a que se refiere el párrafo anterior se ejercerá en la forma y términos que determine la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+5.- En la propaganda político-electoral, mensajes electorales y en actos políticos, actos de precampaña o campaña de los partidos políticos, coaliciones, candidaturas de coalición y candidaturas independientes, en que aparezcan menores de dieciocho años; el partido político o candidato deberá previamente recabar por escrito el consentimiento de quien o quienes ejerzan la patria potestad o tutela, de no ser así, deberá difuminar, ocultar o hacer irreconocible la imagen, la voz o cualquier otro dato que haga identificable a la niña, niño o adolescente.
 
 Artículo 197
 
@@ -4617,6 +4893,10 @@ Artículo 297
 
 4.- Los partidos políticos locales que hubieran obtenido su registro con fecha posterior a la última elección, tendrán derecho al financiamiento público conforme a las reglas establecidas en la Ley General de Partidos Políticos.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+5.- Cada partido político deberá destinar hasta el tres por ciento del financiamiento anual que le corresponda, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
+
 #### SECCIÓN CUARTA. DE LA FISCALIZACIÓN DE LOS PARTIDOS POLÍTICOS
 
 Artículo 298
@@ -4727,13 +5007,19 @@ VIII.- Las organizaciones de ciudadanos que pretendan formar un partido polític
 
 IX.- Las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos locales;
 
-X.- Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+X.- Las y los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión;
 
 XI.- Las personas físicas o morales que lleven a cabo encuestas de opinión, encuestas de salida o encuestas de conteo rápido, cuyos resultados sean publicados;
 
 XII.- Los concesionarios de radio y televisión; y
 
 XIII.- Los demás sujetos que resulten obligados en los términos de la Ley General y esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Cuando alguno de los sujetos señalados en este artículo sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en esta Ley, así como en la Ley General de Acceso y Ley Estatal de Acceso, será sancionado en los términos de lo dispuesto en la Ley Estatal de Acceso de las Mujeres a una Vida libre de Violencia, la Ley de Responsabilidades de Servidores Públicos del Estado y Municipios de Oaxaca y esta Ley.
 
 ### CAPÍTULO SEGUNDO. DE LAS INFRACCIONES
 
@@ -4757,7 +5043,9 @@ VII.- El incumplimiento de las demás disposiciones previstas en la presente Ley
 
 VIII.- La contratación, en forma directa o por terceras personas, de tiempo en cualquier modalidad en radio o televisión;
 
-IX.- La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas, y/o que realicen actos de violencia política de género;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+IX.- La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas, y/o que realicen actos de violencia política contra las mujeres en género;
 
 X.- El incumplimiento de las obligaciones establecidas por la presente Ley, en materia de transparencia y acceso a la información:
 
@@ -4769,9 +5057,19 @@ XIII.- El incumplimiento de sus obligaciones en materia de retiro y borrado de p
 
 XIV.- Realizar propuestas de precampaña o campaña electoral que atenten contra el régimen democrático;
 
-XV.- No presentar los informes trimestrales. anuales, de precampaña o de campaña, o no atender los requerimientos de información del Órgano Técnico de Fiscalización, en los términos y plazos previstos en esta Ley y sus reglamentos; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XVI.- La comisión de cualquier otra falta de las previstas en esta Ley.
+XV.- No presentar los informes trimestrales. anuales, de precampaña o de campaña, o no atender los requerimientos de información del Órgano Técnico de Fiscalización, en los términos y plazos previstos en esta Ley y sus reglamentos;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XVI.- El incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política hacia las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XVII.- La realización de actos que simulen el cumplimiento del principio de paridad de género; y
+
+XVIII.- La comisión de cualquier otra falta de las previstas en esta Ley.
 
 Artículo 305
 
@@ -4783,7 +5081,9 @@ Artículo 305
 
 Artículo 306
 
-Constituyen infracciones de los aspirantes, precandidatos y candidatos de partidos políticos a cargos de elección popular a la presente Ley:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+Constituyen infracciones de las y los aspirantes, precandidatas, precandidatos, candidatas y candidatos de partidos políticos a cargos de elección popular a la presente Ley:
 
 I.- La realización de actos anticipados de precampaña o campaña;
 
@@ -4797,9 +5097,15 @@ V.- Exceder el tope de gastos de precampaña o campaña que haya acordado el Con
 
 VI.- El incumplimiento de las obligaciones, en materia de retiro y borrado de propaganda electoral;
 
-VII.- Realizar propuestas de precampaña o campaña electoral que atenten contra el régimen democrático; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-VIII.- El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+VII.- Realizar propuestas de precampaña o campaña electoral que atenten contra el régimen democrático;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VIII.- Incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género; y
+
+IX.- El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 Artículo 307
 
@@ -4835,9 +5141,15 @@ XIV.- La obtención de bienes inmuebles con recursos provenientes del financiami
 
 XV.- La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas;
 
-XVI.- La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Estatal; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XVII.- El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
+XVI.- La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Estatal;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XVII.- Incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género; y
+
+XVIII.- El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
 
 Artículo 308
 
@@ -4857,19 +5169,31 @@ Constituyen infracciones de las organizaciones de observadores electorales y de 
 
 Artículo 310
 
-Constituyen infracciones por parte de los servidores públicos de la Federación, el Estado, los municipios, los órganos autónomos, y cualquier otro ente público a la presente Ley:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2020)</small>
+
+Constituyen infracciones a la Ley, por parte de autoridades, servidoras o servidores públicos de cualquiera de los Poderes de la Unión; de los poderes locales; órganos de gobierno municipales; órganos autónomos, y cualquier otro ente público:
 
 I.- La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Estatal;
 
-II.- La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, excepto la información relativa a servicios educativos, de salud, de orientación social y protección civil en casos de emergencia;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-III.- El incumplimiento del principio de imparcialidad establecido por el artículo 137 párrafos décimo segundo y décimo tercero de la Constitución Estatal, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
+II.- La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos, de salud, o la necesaria para la protección civil en casos de emergencia;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+III.- El incumplimiento del principio de imparcialidad establecido por el artículo 137 párrafos décimo segundo y décimo tercero de la Constitución Estatal, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre las personas aspirantes, precandidatas o candidatas durante los procesos electorales;
 
 IV.- Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal;
 
-V.- La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal o de las entidades federativas, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidatos; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-VI.- El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y disposiciones aplicables.
+V.- La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal o de las entidades federativas, con la finalidad de inducir o coaccionar a las ciudadanas y ciudadanos para votar a favor o en contra de cualquier partido político o persona candidata;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VI.- Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de la Ley General de Acceso, la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia y esta Ley; y
+
+VII.- El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y disposiciones aplicables.
 
 Artículo 311
 
@@ -4925,15 +5249,23 @@ b) Con multas de cincuenta a diez mil unidades de medida y actualización. En lo
 
 c) Con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que le corresponda, por el periodo que señale la resolución;
 
-d) Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponda por el periodo que señale la resolución;
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
 
-e) Con la suspensión de su registro como partido político local, o del financiamiento público para actividades ordinarias, si se trata de partidos políticos nacionales acreditados; y
+d) Con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución, tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta;
 
-f) Con la cancelación de su registro como partido político local.
+e) Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponda por el periodo que señale la resolución;
 
-II.- Las sanciones previstas en los incisos d) al f), sólo procederán cuando el incumplimiento o infracción sea particularmente grave o sistemática, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, o incumplimiento de sus obligaciones en materia de prevención y atención de violencia política en razón de género en términos de esta Ley.
+f) Con la suspensión de su registro como partido político local, o del financiamiento público para actividades ordinarias, si se trata de partidos políticos nacionales acreditados; y
 
-III.- Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular:
+g) Con la cancelación de su registro como partido político local.
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+II.- Las sanciones previstas en los incisos d) al g), sólo procederán cuando el incumplimiento o infracción sea particularmente grave o sistemática, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, o incumplimiento de sus obligaciones en materia de prevención y atención de violencia política en razón de género en términos de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2020)</small>
+
+III.- Respecto de las personas aspirantes, precandidatas o candidatas a cargos de elección popular:
 
 a) Con amonestación pública;
 
@@ -4941,7 +5273,9 @@ b) Con multa de cincuenta a cinco mil unidades de medida y actualización; y
 
 c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o con la cancelación si ya estuviere registrado. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
-IV.- Respecto de los Candidatos Independientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2020)</small>
+
+IV.- Respecto de las Candidatas y los Candidatos Independientes:
 
 a) Con amonestación pública;
 
@@ -4953,7 +5287,9 @@ d) En caso de que el aspirante omita informar y comprobar a la unidad de fiscali
 
 e) En caso de que el Candidato Independiente omita informar y comprobar a la unidad de fiscalización del Instituto Estatal los gastos de campaña y no los reembolse, no podrá ser registrado como candidato en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable.
 
-V.- Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o de cualquiera persona física o moral:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2020)</small>
+
+V.- Respecto de la ciudadanía, dirigentes y personas afiliadas a los partidos políticos, o de cualquiera persona física o moral:
 
 a) Con amonestación pública;
 
@@ -4961,7 +5297,9 @@ b) Con multa de hasta quinientas unidades de medida y actualización, en el caso
 
 c) Con multa de hasta mil unidades de medida y actualización, a las personas jurídicas por las conductas señaladas en la fracción anterior;
 
-VI.- Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil unidades de medida y actualización, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VI.- Respecto de la ciudadanía, dirigentes y personas afiliadas a los partidos políticos, o de cualquiera persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil unidades de medida y actualización, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 VII.- Respecto de las organizaciones de observadores electorales y de los observadores electorales:
 
@@ -4971,7 +5309,9 @@ b) Con la cancelación inmediata de la acreditación como observadores electoral
 
 c) Con multa de veinte a mil unidades de medida y actualización.
 
-VIII.- Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2020)</small>
+
+VIII.- Respecto de las organizaciones ciudadanas que pretendan constituir partidos políticos:
 
 a) Con amonestación pública;
 
@@ -5018,6 +5358,12 @@ Artículo 320
 Artículo 321
 
 En el caso de los notarios públicos que sin causa justificada dejen de realizar las actividades señaladas en esta Ley, la Comisión de Quejas y Denuncias instrumentará la queja y sin mayor trámite la remitirá al Ejecutivo del Estado, quien concediendo la garantía de audiencia al perjudicado, dictará la resolución que corresponda, debiendo comunicar al Instituto Estatal, dentro del plazo de un mes, las medidas que haya adoptado y, en su caso, las sanciones impuestas. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Artículo 321 Bis
+
+Cuando alguno de los sujetos señalados en el artículo 303 sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en esta Ley, así como en la Ley General de Acceso y Ley Estatal de Acceso, será sancionado en los términos de lo dispuesto en la Ley Estatal de Acceso, la Ley de Responsabilidades de Servidores Públicos del Estado y Municipios de Oaxaca y esta Ley.
 
 Artículo 322
 
@@ -5285,15 +5631,37 @@ Dentro de los procesos electorales, la Comisión de Quejas y Denuncias instruir�
 
 I.- Violen el párrafo decimocuarto del artículo 137, de la Constitución Local;
 
-II.- Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos y candidatos en esta Ley; o
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-III.- Constituyan actos anticipados de precampaña o campaña o actos anticipados para obtener el apoyo ciudadano.
+II.- Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos y candidatos en esta Ley;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+III.- Constituyan actos anticipados de precampaña o campaña o actos anticipados para obtener el apoyo ciudadano; o
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+IV.- En cualquier momento, cuando se presenten denuncias, o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Artículo 334 Bis
+
+En el caso de los procedimientos relacionados con violencia política en contra de las mujeres en razón de género:
+
+a) La Comisión de Quejas y Denuncias, ordenará en forma sucesiva iniciar el procedimiento, así como resolver sobre las medidas cautelares y de protección que fueren necesarias. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría de la Comisión de Quejas y Denuncias dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+b) Cuando las denuncias presentadas sean en contra de algún servidor o servidora pública, la Secretaría de la Comisión de Quejas y Denuncias dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 Artículo 335
 
 1.- Cuando una conducta infractora esté relacionada con propaganda política o electoral en radio y televisión durante o fuera de la etapa de los procesos electorales en el Estado, el Instituto Estatal presentará la denuncia ante el INE, dentro de las veinticuatro horas siguientes al momento en que tuvo conocimiento del hecho.
 
 2.- Los procedimientos sancionadores relacionados con la difusión de propaganda que denigre o calumnie en medios distintos a radio y televisión, sólo podrán iniciar a instancia de parte afectada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2020)</small>
+
+Tratándose de violencia política de género también podrán presentarlas, organizaciones civiles o cualquier persona designada por la parte afectada, en cuyo caso deberá ser ratificada dentro de las setenta y dos horas posteriores, ante la autoridad competente.
 
 3.- La denuncia deberá reunir los siguientes requisitos:
 
@@ -5309,7 +5677,9 @@ V.- Ofrecimiento y exhibición de pruebas; o la mención de las que habrán de r
 
 VI.- En su caso, las medidas cautelares que se soliciten.
 
-4.- El órgano del Instituto Estatal que reciba o provea la denuncia, la remitirá inmediatamente a la Comisión de Quejas y Denuncias, para que ésta la examine junto con las pruebas aportadas.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+4.- El órgano del Instituto Estatal que reciba o provea la denuncia, la remitirá inmediatamente a la Comisión de Quejas y Denuncias, para que ésta la examine con perspectiva de género y con irrestricto respeto a los derechos humanos junto con las demás pruebas aportadas.
 
 5.- La denuncia será desechada de plano por la Comisión de Quejas y Denuncias, sin prevención alguna, cuando:
 
@@ -5399,6 +5769,42 @@ I.- Declarar la inexistencia de la violación objeto de la queja o denuncia y, e
 
 II.- Imponer las sanciones que resulten procedentes en términos de lo dispuesto en esta Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2020)</small>
+
+### CAPÍTULO TERCERO (SIC). DE LAS ORDENES O MEDIDAS DE PROTECCIÓN Y DE REPARACIÓN
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Artículo 340 Bis
+
+La Comisión de Quejas y Denuncias, en los procedimientos relacionados con violencia política contra las mujeres en razón de género, cuando se presenten denuncias, o de oficio, por hechos relacionados con violencia política contra las mujeres en razón de género, atendiendo a su competencia podrá ordenar o solicitar a la autoridad competente, las siguientes órdenes o medidas de protección:
+
+I. Realizar análisis de riesgos y un plan de seguridad, con la colaboración de instituciones especializadas;
+
+II. Ordenar el retiro de la campaña violenta contra la víctima, haciendo públicas las razones;
+
+III. Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+IV. Ordenar la suspensión del cargo partidista, de la persona agresora; y
+
+V. Cualquier otra requerida para la protección de la mujer víctima, o que ella solicite.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Artículo 340 Ter
+
+En la resolución de los procedimientos sancionadores, por violencia política en contra de las mujeres por razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral que correspondan, considerando al menos las siguientes:
+
+I. Indemnización de la víctima;
+
+II. Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia;
+
+III. Disculpa pública; y
+
+IV. Medidas de no repetición.
+
+## TÍTULO TERCERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE OAXACA
+
 ### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 Artículo 341
@@ -5438,8 +5844,6 @@ VIII.- Emitir opinión pública que implique prejuzgar sobre un asunto de su con
 IX.- Dejar de desempeñar las funciones o las labores que tenga a su cargo; y
 
 X.- Las demás que determine esta Ley o las leyes que resulten aplicables.
-
-## TÍTULO TERCERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE OAXACA
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -5507,6 +5911,10 @@ Artículo 350
 
 Las resoluciones que impongan sanciones administrativas, podrán ser impugnadas a través del recurso de revocación que se interpondrá dentro de los diez días hábiles siguientes a la notificación y ante la autoridad que emitió la resolución, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
 
+# LIBRO DÉCIMO. DEL GOBIERNO DE COALICIÓN
+
+## TÍTULO ÚNICO. DEL GOBIERNO DE COALICIÓN
+
 ### CAPÍTULO ÚNICO. DEL CONVENIO DE GOBIERNO DE COALICIÓN Y PROGRAMA DE GOBIERNO
 
 Artículo 351
@@ -5569,10 +5977,6 @@ Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cump
 
 P.O. 23 DE JUNIO DE 2017.
 
-# LIBRO DÉCIMO. DEL GOBIERNO DE COALICIÓN
-
-## TÍTULO ÚNICO. DEL GOBIERNO DE COALICIÓN
-
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 650.- MEDIANTE EL CUAL APRUEBA DE MANERA PARCIAL LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO RESPECTO AL DECRETO NÚMERO 633 RELATIVO A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE OAXACA."]
 
 PRIMERO.- Para dar debido cumplimiento a lo dispuesto por el artículo 53 fracciones V y VI de la Constitución Política del Estado Libre y Soberano de Oaxaca, remítase al Poder Ejecutivo el presente Decreto, para su debida promulgación y publicación, para que se integren a las partes no vetadas del Decreto 633 y constituyan la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
@@ -5608,3 +6012,41 @@ P.O. 18 DE ABRIL DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1505.- MEDIANTE EL CUAL SE REFORMAN EL NUMERAL 1 DEL ARTÍCULO 5; EL NUMERAL 4 DEL ARTÍCULO 35; LA FRACCIÓN XXI DEL ARTÍCULO 44; Y SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTICULO 57; Y EL ARTÍCULO 57 BIS, TODOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1506.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL NUMERAL 4 DEL ARTÍCULO 9, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1507.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII Y SE ADICIONA LA FRACCIÓN IX DEL ARTICULO 102 RECORRIÉNDOSE LA SUBSECUENTE; SE REFORMA LA FRACCIÓN XV Y SE ADICIONA LA FRACCIÓN XVI DEL ARTICULO 114 RECORRIENDOSE LA SUBSECUENTE; SE ADICIONA EL NUMERAL 3 AL ARTICULO 138; SE ADICIONA EL NUMERAL 3 AL ARTICULO 195; Y SE ADICIONA EL NUMERAL 5 AL ARTICULO 196; TODOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1511.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, dentro de los 90 días hábiles posteriores a la entrada en vigor del presente Decreto, hará las modificaciones necesarias a su reglamento y manuales.
+
+TERCERO. Para el cumplimiento de los artículos 15, 24, 32 y 52 de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca, respecto de la paridad en sistemas normativos internos o indígenas, esta será gradual, logrando su cabal cumplimiento en el año 2023.
+
+CUARTO. La Secretaría General de Gobierno deberá realizar una campaña de difusión, con perspectiva intercultural, en coordinación con la Secretaría de las Mujeres de Oaxaca, el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y la Secretaría de Pueblos Indígenas y Afromexicano, en medios de comunicación impresos, digitales, radio y televisión, en español y traducido a las lenguas indígenas del Estado, con el objetivo de que las mujeres de Oaxaca, conozcan sus derechos político electorales.
+
+QUINTO. Para los efectos del párrafo décimo tercero del artículo 182 de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca, respecto a la integración de las planillas de concejales, indistintamente del género que encabece la planilla, la última fórmula será integrada por el género femenino, se considera que esta medida será de carácter temporal, en tanto no se alcance la paridad.
