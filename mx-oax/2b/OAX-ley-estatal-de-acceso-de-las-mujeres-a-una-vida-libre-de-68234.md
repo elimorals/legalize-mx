@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2019-09-07"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -139,9 +139,9 @@ Se entiende como víctima también a los familiares, personas a cargo que tengan
 
 X. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XI. Tipos de Violencia: Psicológica, física, patrimonial, económica, sexual, cibernética, política, simbólica y análogas que lesionen o sean susceptibles de dañar la dignidad e integridad o libertad de las mujeres, descritas en la presente Ley.
+XI. Tipos de Violencia: Psicológica, física, patrimonial, económica, sexual, feminicida, cibernética, política, simbólica, digital y análogas que lesionen o sean susceptibles de dañar la dignidad e integridad o libertad de las mujeres, descritas en la presente Ley;
 
 XII. Modalidades de la Violencia: Son los contextos, espacios, lugares o ámbitos en que se presenta la violencia contra las mujeres;
 
@@ -187,19 +187,21 @@ V. Violencia Sexual.- Cualquier acto realizado por la persona agresora que degra
 
 VI. (SIC) Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y pueden culminar en feminicidio y otras formas de muerte violenta de mujeres;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-VII. Violencia política: Es cualquier acción u omisión cometida por una o varias personas o servidores públicos por sí o a través de terceros, que causen daño físico, psicológico, económico o sexual en contra de una o varias mujeres y/o de su familia, para acotar, restringir, suspender o impedir el ejercicio de sus derechos ciudadanos y político-electorales o inducirla a tomar decisiones en contra de su voluntad; así como impedir el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público.
+VII. La violencia política contra las mujeres en razón de género: es toda acción u omisión, realizada por sí o interpósita persona, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida por razón de género.
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y esta Ley; puede ser perpetrada indistintamente por agentes estatales, servidores públicos, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 VIII. La violencia simbólica: Es la que se ejerce a través de patrones estereotipados, mensajes, valores, iconos o signos que trasmiten y reproducen dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad, implica una reproducción en cubierta y sistemática difícil de distinguir y percibir.
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-IX. La Violencia cibernética: Acción que mediante el uso de tecnologías de la información y comunicación, redes sociales, páginas web, correo electrónico, blogs, mensajes de texto, videos, o cualquiera otra, lesionen, afecten o dañen la dignidad, seguridad, libertad e integridad de las mujeres en cualquier ámbito de su vida.
+IX. Violencia digital: Acción que mediante el uso de tecnologías de la información y comunicación, redes sociales, páginas web, correo electrónico, blogs, mensajes de texto, videos, o cualquiera otra, lesionen, afecten o dañen la dignidad, seguridad, libertad e integridad de las mujeres en cualquier ámbito de su vida.
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -249,11 +251,11 @@ Se prohíbe la aplicación de los mecanismos de mediación, conciliación o alte
 
 ### Capítulo Segundo. En el Ámbito Institucional y Político
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
 ###### Artículo 10.
 
-Violencia institucional: Son los actos u omisiones de las y los servidores públicos del Estado o los Municipios que discriminen o tengan como fin dilatar, obstaculizar, entorpecer o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+Violencia en el ámbito institucional, son los actos u omisiones de las y los servidores públicos del Estado o los Municipios que discriminen, dilaten, obstaculicen, entorpezcan o impidan el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar la violencia de género en cualquiera de sus tipos y modalidades.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -291,73 +293,59 @@ XII. Cualquier otro análogo que, atente contra la autonomía de las mujeres a e
 
 El gobierno del Estado y los Ayuntamientos, implementaran las acciones procedentes para garantizar el derecho de las mujeres a una vida libre de violencia de género, como también para la prevención, atención, sanción y reparación del daño a las víctimas.
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
 
 ###### Artículo 11 Bis.
 
-Se consideran actos de violencia política, entre otros, aquellos que:
+Se consideran, entre otros, actos de violencia política:
 
-a) Impongan por estereotipos de género la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
+I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos y electorales de las mujeres;
 
-b) Asignen responsabilidades que tengan como resultado la limitación del ejercicio de la función político-pública.
+II. Discriminar a las mujeres aspirantes, candidatas, o autoridades electas o designadas en el ejercicio de la función político-público (sic), por razones de sexo, color, edad, orientación sexual, cultura, origen, idioma, credo religioso, ideología, afiliación política o filosófica, estado civil, condición económica, social o de salud, profesión, ocupación u oficio, grado de instrucción, condición de discapacidad, procedencia, apariencia física, vestimenta, apellidos u otras que tengan por objeto o resultado anular o menoscabar el reconocimiento o ejercicio en condiciones de igualdad de derechos humanos y libertades fundamentales reconocidas por la ley:
 
-c) Proporcionen a las mujeres candidatas o autoridades electas o designadas información falsa, errada o imprecisa que ocasione una competencia desigual o induzca al inadecuado ejercicio de sus funciones político- públicas.
+III. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos y electorales;
 
-d) Eviten por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a una función pública, asistan a la toma de protesta de su encargo, así como a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
+IV. Impedir, obstaculizar o anular el derecho al voto libre y secreto de las mujeres, sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+V. Restringir los derechos políticos y electorales de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
 
-e) Proporcionen al Instituto Nacional Electoral o Estatal, según corresponda datos falsos o información incompleta de la identidad o sexo de la persona candidata.
+VI. Ocultar información, omitir la convocatoria, o proporcionar a las mujeres que aspiren a un cargo público o sean candidatas, información falsa, errada, incompleta o imprecisa que impida el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+VII. Ocultar información o proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, errada, incompleta o imprecisa, que impida o induzca al incorrecto ejercicio de sus atribuciones, la toma (sic) decisiones o al inadecuado desarrollo o ejercicio de sus funciones y actividades;
 
-f) Impedir o restringir su incorporación al cargo o función posterior a los casos de licencia o permiso conforme a las disposiciones aplicables;
+VIII. Proporcionar información, documentación incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de impedir o menoscabar el ejercicio pleno de los derechos políticos electorales de las mujeres y la garantía del debido proceso;
 
-g) Restrinjan el uso de la palabra en las asambleas, sesiones u otras reuniones, así como su participación en comisiones, comités y otras instancias de toma de decisiones conforme a la reglamentación establecida.
+IX. Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad;
 
-h) Restringir o impedir el uso de las acciones constitucionales y legales para proteger sus derechos frente a los actos o eviten el cumplimiento de las resoluciones correspondientes;
+X. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
 
-i) Impongan sanciones injustificadas; impidiendo o restringiendo el ejercicio de sus derechos políticos.
+XI. Divulgar imágenes, mensajes o información privada de una mujer candidata, electa o designada o en el ejercicio de sus funciones político-públicas por cualquier medio físico o digital, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género, o que tenga por objeto
 
-j) Aplicar sanciones pecuniarias, descuentos arbitrarios e ilegales y/o retención de salarios.
+XII. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos y/u obtener contra su voluntad la renuncia y/o licencias al cargo que ejercen o se postulan;
 
-k) Discriminar por razones de sexo, color, edad, orientación, sexual, cultura, origen, idioma, credo religioso, ideología, afiliación política o filosófica, estado civil, condición económica, social o de salud, profesión, ocupación u oficio, grado de instrucción, condición de discapacidad, procedencia, apariencia física, vestimenta, apellidos u otras que tengan por objeto o resultado anular o menoscabar el reconocimiento o ejercicio en condiciones de igualdad de derechos humanos y libertades fundamentales reconocidas por la ley;
+XIII. Impedir o restringir por cualquier medio su incorporación o acceso de las mujeres electas, titulares, suplentes, o designadas a cualquier puesto, función o encargo pública (sic), tomen protesta o accedan a su cargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres;
 
-l) Divulgar información falsa relativa a las funciones político-público, con el objetivo de desprestigiar su gestión y/o obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o se postulan;
+XIV. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
-m) Obligar mediante la fuerza o intimidación a las autoridades electas o designadas en el ejercicio de sus funciones político-públicas, a suscribir todo tipo de documentos y/o avalar decisiones contrarias a su voluntad, al interés público o general.
+XV. Impedir o restringir su incorporación al cargo o función posterior a los casos de licencia o permiso conforme a las disposiciones aplicables;
 
-n) Discriminen a la autoridad electa designada o en el ejercicio de la función político-pública, por razón de su género o por encontrarse en la etapa de embarazo, parto y puerperio; y,
+XVI. Discriminar a la mujer en el ejercicio de sus derechos políticos y electorales por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
 
-o) Divulguen o revelen información personal y privada de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia y o licencia al cargo que ejercen o postulan.
+XVII. Imponer con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+XVIII. Restringir el uso de la palabra en las asambleas, sesiones u otras reuniones, así como su participación en comisiones, comités y otras instancias de toma de decisiones conforme a la reglamentación establecida;
 
-p) Imponer la realización de actividades distintas a las atribuciones inherentes a su cargo o función;
+XIX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+XX. Obligar a una mujer electa o designada en el ejercicio de sus funciones político-públicas, mediante fuerza, presión o intimidación a suscribir todo tipo de documentos y/o avalar decisiones contrarias a su voluntad, al interés público o general;
 
-q) Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función;
+XXI. Imponer sanciones administrativas o pecuniarias injustificadas o abusivas, descuentos arbitrarios y/o retención de salarios, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad;
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+XXII. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos; y
 
-r) Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+XXIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
-
-s) Ocultar, información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
-
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
-
-t) Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
-
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
-
-u) Impedir o restringir su incorporación o acceso al cargo o función, para el cual ha sido nombrada o elegida;
-
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
-
-v) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos, en razón de género.
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -558,6 +546,10 @@ Alerta de violencia de género es el conjunto de acciones gubernamentales de eme
 ###### Artículo 24.
 
 Las órdenes de protección, son actos de protección y de urgente aplicación en función del interés superior de la Víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad judicial, el Ministerio Público o en caso de urgencia el Síndico Municipal, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y el Tribunal Electoral del Estado de Oaxaca, podrán solicitar a las autoridades competentes el otorgamiento de las órdenes o medidas de protección y reparación, contenidas en el artículo 341 BIS y 341 TER de la Ley de Instituciones y Procedimientos Electorales de Oaxaca y esta Ley.
 
 El Ministerio Público y el Síndico Municipal en caso de urgencia, bajo su más estricta responsabilidad, ordenarán fundada y motivadamente la aplicación de las medidas de protección idóneas, cuando estime que el agresor representa un riesgo inminente en contra de la seguridad de la víctima, en términos del artículo 137 del Código Nacional de Procedimientos Penales, esta Ley y la Ley General, según corresponda.
 
@@ -891,6 +883,14 @@ XXI. Las demás que esta Ley y otros ordenamientos aplicables le señalen.
 
 El Sistema, para el mejor desarrollo de sus atribuciones, integrará un grupo de trabajo multidisciplinario, para la investigación y revisión integral de la violencia feminicida en contextos específicos, en el territorio del Estado, a efecto de establecer mecanismos que contribuyan a erradicarla.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+La investigación y revisión de la violencia feminicida a que hace referencia el presente artículo, deberá de contemplar un estudio cuantitativo y cualitativo exhaustivo que contenga los datos necesarios y suficientes para la plena identificación de la víctima y la persona agresora, así como para el esclarecimiento del delito sucedido.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Los datos necesarios para realizar mapas georeferenciales de la violencia contra las mujeres.
+
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 43.
@@ -967,11 +967,17 @@ VII. Estandarizar los procesos de prevención de la violencia de género contra 
 
 VIII. Establecer, coordinar, controlar y actualizar el Sistema Estatal de Información sobre la Violencia de Género Contra las Mujeres;
 
-IX. Promover la firma de convenios con instituciones públicas y privadas para el cumplimiento de los fines de esta Ley; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+IX. Promover la firma de convenios con instituciones públicas y privadas para el cumplimiento de los fines de esta Ley;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+X. Proporcionar información oportuna de carácter público a las instituciones y autoridades que así lo soliciten, sobre el número, porcentaje, cargo y ubicación de mujeres autoridades municipales en funciones, por el sistema de partidos políticos y por sistemas normativos internos; y
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-X. Las demás que le confieren el Sistema, su Presidencia, la presente Ley y otras disposiciones legales aplicables.
+XI. Las demás que le confieren el Sistema, su Presidencia, la presente Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 47.
 
@@ -1059,9 +1065,13 @@ XI. Proporcionar tratamiento terapéutico al personal encargado de la atención 
 
 XII. Integrar el Observatorio Ciudadano que dé seguimiento a las acciones del Sistema;
 
-XIII. Difundir semestralmente la información general y estadística sobre los casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XIV. Constituir la estadística estatal que estará contenida en el Banco Estatal de Datos e Información Sobre Casos de Violencia de Género Contra las Mujeres;
+XIII. Publicar y difundir mensualmente la información general y estadística sobre los casos de violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XIV. Generar la estadística estatal para integrar el Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres;
 
 XV. Evaluar el cumplimiento de los objetivos propuestos en el propio Programa; y
 
@@ -1143,7 +1153,9 @@ II. Establecer una instancia que institucionalice la perspectiva de género en l
 
 III. Impulsar la especialización en violencia de género contra las mujeres, en Derechos Humanos de las mujeres y en esta Ley, para el personal del Poder Judicial encargado de la impartición de justicia;
 
-IV. Informar sobre los procedimientos judiciales en materia de violencia de género contra las mujeres;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+IV. Proporcionar la información necesaria sobre los procedimientos judiciales en materia de Violencia de Género contra las mujeres; para la integración del Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -1181,15 +1193,17 @@ III. Proporcionar a las víctimas de violencia, auxilio inmediato, atención mé
 
 IV. Realizar, ante hechos presumiblemente delictivos, los exámenes necesarios a las mujeres víctimas de violencia para determinar las alteraciones producidas en su estado de salud físico y emocional, así como su causa probable y consecuencias;
 
-V. Colaborar proporcionando la información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres a instancias encargadas de realizar estadísticas;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+V. Proporcionar la información suficiente, oportuna y necesaria sobre los casos y delitos de violencia contra las mujeres, desagregados por modalidad y tipo de violencia, edad, género, número de víctimas, órdenes de protección, causas y daños derivados de la violencia, para el Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres; y a las instancias encargadas de realizar estadísticas;
 
 VI. Proporcionar a las víctimas información sobre las instituciones públicas o privadas encargadas de brindarles atención;
 
 VII. Brindar a las víctimas información objetiva que les permita reconocer su situación;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-VIII. Promover la cultura de denuncia de la violencia contra las mujeres garantizando la seguridad de quienes denuncian, así mismo, promover y proteger a través de la Fiscalía Especializada en Materia de Delitos Electorales, (sic) ejercicio de los derechos humanos político-electorales de las mujeres.
+VIII. Promover la cultura de denuncia de la violencia contra las mujeres, recepcionar las denuncias, realizar actos de investigación, otorgar órdenes de protección y garantizar la seguridad de quienes denuncian;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -1201,7 +1215,7 @@ X. Iniciar los procesos de investigación de todas las muertes violentas de muje
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XI. Evaluar, analizar y, en su caso, realizar la activación del programa "Alerta Rosa” en el Estado;
+XI. Evaluar, analizar y, en su caso, realizar la activación del programa "Alerta Rosa" en el Estado;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -1221,7 +1235,9 @@ XV. Especializar a las y los agentes del Ministerio Público, peritos, personal 
 
 a) Derechos humanos y género;
 
-b) Perspectiva de género para la debida diligencia en la conducción de investigación del delito y procesos judiciales relacionados con discriminación, violencia y feminicidio;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+b) Perspectiva de género para la debida diligencia en la conducción de investigación del delito y procesos judiciales relacionados con discriminación, violencia, feminicidio y violencia política contra las mujeres en razón de género;
 
 c) Incorporación de la perspectiva de género en los servicios periciales;
 
@@ -1239,13 +1255,17 @@ XVII. Elaborar y aplicar protocolos especializados con perspectiva de género en
 
 XVIII. Crear una base estatal de información genética que contenga la información personal disponible de mujeres y niñas desaparecidas a nivel estatal; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada; La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-XIX. Mantener información actualizada en su página de internet con los datos generales de las mujeres y niñas que se encuentran desaparecidas, y;
+XIX. Mantener información actualizada en su página de internet con los datos generales de las mujeres y niñas que se encuentren desaparecidas;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XX. Promover y proteger a través de la Fiscalía Especializada en Materia de Delitos Electorales, el ejercicio de los derechos humanos, políticos y electorales de las mujeres. Crear, actualizar y administrar el Registro de Casos de Violencia Política contra las Mujeres para alimentar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, a través de la Fiscalía Especializada en Materia de Delitos Electorales; y
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XX. Las demás que esta Ley y otras disposiciones aplicables le señalen.
+XXI. Las demás que esta Ley y otras disposiciones aplicables le señalen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -1339,7 +1359,9 @@ V. Solicitar la tutela, guarda y custodia de la víctima, a favor de cualquier p
 
 VI. Atender de forma inmediata la petición de cualquier integrante de la Administración Pública o de las instituciones coadyuvantes que conozcan de las diversas modalidades o tipos de la violencia, cuando ésta sea ejercida contra menores de edad y mujeres con discapacidad;
 
-VII. Proporcionar la información sobre las características de mujeres a las que se les da asesoría, relacionadas con cualquiera de los tipos y modalidades de la violencia señaladas en esta Ley, para la integración del Banco Estatal de Datos e Información Sobre Casos de Violencia de Género Contra las Mujeres;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VII. Proporcionar la información sobre las características de mujeres, niñas, adolescentes y ancianas, a las que se les da asesoría, relacionadas con cualquiera de los tipos y modalidades de la violencia señaladas en esta Ley, para la integración del Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres;
 
 VIII. Prestar servicios jurídicos gratuitos y especializados de orientación y asesoría, a las víctimas de violencia en los términos de la Ley;
 
@@ -1393,13 +1415,17 @@ IX. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
 X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XI. Proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XI. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+XII. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XII. Las demás previstas para el cumplimiento de la presente Ley.
+XIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 61.
 
@@ -1409,7 +1435,9 @@ I. Capacitar al personal de las diferentes corporaciones policiales del Estado p
 
 II. Tomar medidas y realizar las acciones necesarias en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
 
-III. Integrar el Banco Estatal de Datos e Información sobre casos de Violencia de Género contra las Mujeres;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+III. Administrar, vigilar y coordinar las acciones para la actualización e integración efectiva de la información del Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres;
 
 IV. Diseñar, con una visión transversal, la política integral para la prevención, atención, sanción y erradicación de la violencia contra las mujeres en el ámbito de su competencia;
 
@@ -1445,7 +1473,9 @@ XIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Finanzas:
 
-I. Asignar, en el Proyecto de Presupuesto de Egresos del Estado, recursos para el cumplimiento de los objetivos del Sistema y del Programa previstos en esta Ley;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+I. Asignar, en el Proyecto de Presupuesto de Egresos del Estado, recursos para el cumplimiento de los objetivos del Sistema, del Programa y del Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres; previstos en esta Ley;
 
 II. Conformar desde la perspectiva de género las normas y lineamientos de carácter técnico-presupuestal en la formulación de los programas y acciones;
 
@@ -1705,9 +1735,27 @@ III. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos pol�
 
 IV. Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política en razón de género; la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
 
-V. Capacitar al personal que labora en el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y personas integrantes de mesas directivas de casilla para prevenir y en su caso erradicar la violencia política en razón de género; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-VI. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+V. Capacitar al personal que labora en el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y personas integrantes de mesas directivas de casilla para prevenir y en su caso erradicar la violencia política en razón de género;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VI. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VII. Capacitar al personal que labora en el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, así como a las y los Consejeros Electorales Distritales y Municipales y, en su caso, coordinarse con el Instituto Nacional Electoral para vigilar el cumplimiento de los Programas de Capacitación Electoral, a las personas integrantes de mesas directivas de casilla para prevenir y erradicar la violencia política en razón de género;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VIII. Dar seguimiento al número y porcentaje de mujeres postuladas y electas por partidos políticos y sistemas normativos internos, a fin de detectar cualquier posible comisión de violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+IX. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género; y
+
+X. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 70.
 
@@ -1737,9 +1785,9 @@ VII. Impulsar proyectos culturales y productivos destinados a mejorar las condic
 
 VIII. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+IX. Proporcionar de manera mensual y dentro de su ámbito de competencia la información completa y oportuna de los casos que conozca de violencia contra las mujeres al Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -1967,6 +2015,90 @@ II. Proporcionar a los agresores atención especializada y talleres educativos q
 
 III. Aplicar en lo conducente el Programa.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2020)</small>
+
+## TÍTULO V. DEL BANCO ESTATAL DE DATOS E INFORMACIÓN SOBRE CASOS DE VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+###### Artículo 92.
+
+El Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres, es la herramienta digital que permite contar con información pública, confiable y oportuna sobre los casos y delitos de violencia en contra de las mujeres, con el objetivo de generar estadísticas y diagnósticos de violencia que sirvan como base para delinear políticas públicas con perspectiva de género, a nivel estatal y municipal que coadyuven en la erradicación de la violencia por razón de género, así como identificar áreas geográficas, patrones y situaciones de riesgo para las mujeres que demanden una atención inmediata.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+###### Artículo 93.
+
+El Banco, tiene por objeto crear un expediente electrónico único para la mujer en situación de violencia, con el fin de contar con un registro sistematizado que contenga los datos generales y sociodemográficos de las víctimas de violencia de género y de las personas agresoras; así como de las órdenes de protección dictadas en favor de las mujeres víctimas de violencia y el avance en los procesos judiciales, salvaguardando la información recopilada por las instancias involucradas.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+###### Artículo 94.
+
+La información contenida en el Banco deberá ser utilizada exclusivamente para generar reportes, gráficas y estadísticas para su análisis e interpretación, a fin de que permitan conocer sistemáticamente las características y patrones de la violencia, la detección de áreas geográficas y ámbitos de la sociedad que impliquen riesgo para las mujeres, así como las necesidades para su atención e instrumentar políticas públicas desde la perspectiva de género y de derechos humanos.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+###### Artículo 95.
+
+Será objeto de sanción en los términos de los artículos 159 y 163 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, así como el artículo 115, fracción VI de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Oaxaca, actuar con negligencia, dolo o mala fe, el negar la información o clasificar como confidencial, la información requerida por el Banco Estatal de Datos e Información Sobre Casos y Delitos de Violencia Contra las Mujeres, sin que se cumplan las características señaladas en las leyes que resulten aplicables
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+###### Artículo 96.
+
+El Banco funcionará bajo las siguientes bases:
+
+I. Las autoridades integrantes del Sistema están obligadas a proporcionar dentro de su ámbito de competencia la información completa y necesaria de los casos y delitos de violencia contra las mujeres de la cual tengan conocimiento dentro de los plazos establecido (sic) en la. Presente Ley o de manera inmediata a qué tengan conocimiento del hecho.
+
+II. Los datos arrojados por éste serán considerados como oficiales en el Estado y será el que alimentará a los bancos nacionales, internaciones (sic), redes o cualquier organismo que solicite información sobre la materia de violencia contra las mujeres en el Estado;
+
+III. Deberá contener los indicadores, datos y estadísticas necesarias que permitan obtener información desagregada por ubicación geográfica;
+
+IV. La información contenida en el Banco será confidencial en lo relativo a la protección de datos personales y será pública en lo que se refiera a datos de carácter estadístico, para fines de medición y evaluación
+
+V. Se deberá publicar trimestralmente la información general y estadística sobre los casos de violencia contra las mujeres en el Estado.
+
+VI. Este registro deberá integrarse a la estadística criminal y victimal para definir políticas públicas en materia de prevención del delito, procuración y administración de justicia.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+###### Artículo 97.
+
+El Banco contendrá de manera enunciativa más no limitativa, la siguiente información:
+
+I. Caso o delito del que se trata.
+
+II. Datos de la víctima.
+
+III. Datos del agresor o agresora.
+
+IV. Características socio demográficas de las víctimas y del sujeto activo.
+
+V. Pertenencia a un pueblo o comunidad indígena, o afromexicano
+
+VI. Pertenencia a la comunidad LGBTTIQ+
+
+VII. Fecha del acontecimiento.
+
+VIII. Relación entre el sujeto activo y pasivo
+
+IX. En caso de feminicidio, lugar de hallazgo del cuerpo.
+
+X. Análisis de riesgo y /u órdenes de protección si fuera el caso y de las personas sujetas a ellas.
+
+XI. Seguimiento de cada caso, las asesorías y atención brindada a la víctima.
+
+XII. Los reportes actualizados de desaparición forzada de personas.
+
+XIII. Datos que permitan la identificación de mujeres asesinadas.
+
+XIV. Datos de judicialización de las carpetas de investigación.
+
+XV. Las resoluciones, detallando sanciones y reparación del daño en las diversas materias.
+
+XVI. Los datos necesarios para realizar mapas georreferénciales de la violencia contra las mujeres.
+
 T R A N S I T O R I O S:
 
 PRIMERO. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
@@ -2092,3 +2224,33 @@ P.O. 7 DE SEPTIEMBRE DE 2019.
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Oaxaca.
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1509.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 6, LA FRACCIÓN IX DEL ARTÍCULO 7, EL ARTÍCULO 10, LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 51, LA FRACCIÓN IV DEL ARTÍCULO 55, LA FRACCIÓN V DEL ARTÍCULO 57, LA FRACCIÓN VII DEL ARTÍCULO 59, LA FRACCIÓN III DEL ARTÍCULO 61, LA FRACCIÓN I DEL ARTÍCULO 62 Y LA FRACCIÓN IX DEL ARTÍCULO 70; Y SE ADICIONAN EL INCISO B) AL ARTÍCULO 11 BIS RECORRIÉNDOSE LOS SUBSECUENTES; LOS PÁRRAFOS TRES Y CUATRO AL ARTÍCULO 42, LA FRACCIÓN XI AL ARTÍCULO 60 RECORRIÉNDOSE LAS SUBSECUENTES; EL TÍTULO V, DENOMINADO "DEL BANCO ESTATAL DE DATOS E INFORMACIÓN SOBRE CASOS DE VIOLENCIA CONTRA LAS MUJERES" QUE COMPRENDE LOS ARTÍCULOS 92, 93, 94, 95, 96 Y 97 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. La Secretaría General de Gobierno del Estado de Oaxaca, deberá de manera inmediata a la entrada en vigor de este Decreto, girar circular en el plazo de una semana a todas las autoridades que dentro del ámbito de sus competencias deban proporcionar información sobre violencia de género para el Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres, para que designen a las áreas encargadas de proporcionar la información.
+
+TERCERO. Que a efectos de dar cumplimiento al artículo 90 del presente Decreto, en un plazo de 30 días hábiles, la Secretaría de Seguridad Pública del Estado de Oaxaca, en coordinación con la Secretaría General de Gobierno del Estado de Oaxaca y la Secretaría de las Mujeres de Oaxaca, deberá entregar al Honorable Congreso del Estado a través de la Comisión de Igualdad de Género, el Protocolo para la Administración, Organización y Actualización de Información del Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres, con base en la guía de operaciones del Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres (BANAVIM). El protocolo deberá considerar la publicación y difusión mensual de los datos, por medios digitales y oficiales.
+
+CUARTO. La aplicación del Protocolo por las autoridades integrantes del Sistema para proporcionar información al Banco Estatal de Datos e Información Sobre Casos y Delitos de Violencia Contra las Mujeres, no podrá exceder los 45 días hábiles, a partir de la entrada en vigor se (sic) este Decreto.
+
+QUINTO. Atendiendo a la relevancia impostergable del tema, la Secretaría de Finanzas del Gobierno del Estado de Oaxaca deberá realizar la asignación necesaria inmediata para dar cumplimiento al presente Decreto, priorizando las solicitudes para la operación y mantenimiento del Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres realizadas por la Secretaría de Seguridad Pública del Gobierno del Estado de Oaxaca.
+
+SEXTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1510.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 7; EL ARTÍCULO 11 BIS; LA FRACCIÓN IX DEL ARTÍCULO 46; LA FRACCIÓN VIII, EL INCISO b) DE LA FRACCIÓN XV Y LA FRACCIÓN XIX DEL ARTÍCULO 57; LA FRACCIÓN V DEL ARTÍCULO 69 BIS; Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 24 RECORRIÉNDOSE LOS SUBSECUENTES; LA FRACCIÓN X AL ARTÍCULO 46 RECORRIÉNDOSE LA SUBSECUENTE; SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 57 RECORRIÉNDOSE LA SUBSECUENTE; Y LAS FRACCIONES VI, VII, VIII Y IX AL ARTÍCULO 69 BIS, RECORRIÉNDOSE LA SUBSECUENTE, DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. La Secretaria Ejecutiva del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, deberá entregar a el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y al Honorable Congreso del Estado de Oaxaca, a través de las Comisiones Permanentes de Igualdad de Género; y de Democracia y Participación Ciudadana, en un plazo no mayor a los 15 días hábiles, posterior a la publicación de este Decreto, informe pormenorizado sobre el número, porcentaje, cargo y ubicación de mujeres autoridades municipales.
+
+TERCERO. La Fiscalía General del Estado de Oaxaca a través de la Fiscalía Especializada en Materia de Delitos Electorales en coordinación con el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, deberá elaborar y remitir en un plazo no mayor a los noventa días el Protocolo para la creación, administración y actualización del Registro de Casos de Violencia Política contra las Mujeres al Honorable Congreso del Estado de Oaxaca, a través de las Comisiones Permanentes de Igualdad de Género; y de Democracia y Participación Ciudadana.
+
+CUARTO. El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca en un plazo no mayor a los sesenta días hábiles deberá actualizar sus reglamentos y manuales de conformidad con lo establecido en el presente Decreto, a más tardar al inicio del proceso electoral ordinario 2020-2021.
+
+QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
