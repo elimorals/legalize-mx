@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-14008
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-28"
-last_updated: "2019-12-28"
+last_updated: "2020-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2020
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 28 de diciembre de 2019.
 
@@ -51,7 +51,9 @@ LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2020
 
 En el ejercicio fiscal 2020, el Estado de Zacatecas, percibirá los ingresos provenientes de impuestos, contribuciones de mejoras, derechos, productos, aprovechamientos, participaciones, fondos de aportaciones federales, convenios y asignaciones, ingresos derivados de financiamientos e incentivos, en las cantidades estimadas que a continuación se enumeran:
 
-> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 28 DE DICIEMBRE DE 2019, PÁGINAS DE LA 47 A LA 50.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 28 DE DICIEMBRE DE 2019, PÁGINAS DE LA 47 A LA 50]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS EN EL SUPLEMENTO DEL P.O. 30 DE MAYO DE 2020, PÁGINAS DE LA 42 A LA 44.]</small>
 
 Cuando en alguna Ley se establezcan ingresos de los previstos en este artículo, o contenga disposiciones que señalen otros ingresos, estos se considerarán comprendidos en el numeral que corresponda a los ingresos a que se refiere este artículo.
 
@@ -72,6 +74,68 @@ La Secretaría de Finanzas podrá recibir de los contribuyentes el pago anticipa
 ###### Artículo 4.
 
 Los ingresos federales por Participaciones, se percibirán de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal, el Decreto de Presupuesto de Egresos de la Federación, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, así como en la Declaratoria de Coordinación en materia federal de Derechos entre la Federación y el Estado de Zacatecas; los cuales ingresarán a la Secretaría de Finanzas del Estado, salvo aquellos que hayan sido afectados como fuente de pago o garantía de las obligaciones contraídas por el Estado o sus Municipios, de conformidad con la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2020)</small>
+
+En el caso de que se observe una disminución de las participaciones federales establecidas en el artículo 1 de la presente Ley, con relación a las programadas por la Secretaría de Hacienda y Crédito Público, después de haber compensado el Fondo de Estabilización de los Ingresos de las Entidades Federativas (FEIEF), establecido en los artículos 19 y 21 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se faculta al titular del Ejecutivo del Estado, a través del titular de la Secretaría de Finanzas, a llevar cabo lo siguiente:
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+I. En convenio con la Secretaría de Hacienda y Crédito Público, participe en el Esquema de Potenciación del Fondo de Estabilización de los Ingresos de las Entidades Federativas (FEIEF), diseñado por la Federación, en virtud del cual, a cambio de una contraprestación en favor de la Entidad, el Estado, ya sea directamente o por conducto del Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, transmitirá irrevocablemente a un fideicomiso no público, que constituya un tercero para tales efectos, conocido como el "Vehículo de Potenciación" el derecho a recibir:
+
+a) El 100% de los recursos presentes y futuros del FEIEF que correspondan al Estado, en términos de lo previsto en el artículo 87, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como cualquier otro fondo que, en términos de las disposiciones aplicables, substituya o complemente a dicho FEIEF, de tiempo en tiempo, y
+
+b) El 80% de los recursos presentes y futuros del FEIEF que correspondan al Estado, en términos del artículo 19, fracción IV, inciso a) de dicha Ley, así como cualquier otro fondo que, en términos de las disposiciones aplicables, substituya o complemente a dicho FEIEF, de tiempo en tiempo.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+II. Celebrar los convenios o emitir instrucciones que sean necesarios o convenientes con el objeto de instrumentar y perfeccionar dicha transmisión irrevocable.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+III. Celebre un convenio de colaboración administrativa con la Secretaría de Hacienda y Crédito Público para la debida implementación del Esquema de Potenciación del FEIEF, en términos del tercer párrafo del artículo 9o. de la Ley de Coordinación Fiscal y demás disposiciones legales aplicables, el cual deberá prever, entre otros aspectos:
+
+a) La compensación entre las obligaciones que el Estado incurra con la Federación al amparo del Esquema de Potenciación del FEIEF y hasta el 4% de las participaciones presentes y futuras que en ingresos federales le correspondan al Estado del Fondo General de Participaciones a que se refiere el artículo 2 de la Ley de Coordinación Fiscal, así como cualesquier otros fondos, contribuciones e ingresos que eventualmente las sustituyan o complementen por cualquier causa, para el caso de que la Secretaría de Hacienda y Crédito Público anticipe cantidades al Vehículo de Potenciación, por cuenta del Estado, cuando el patrimonio del Vehículo de Potenciación sea insuficiente para pagar los financiamientos contratados por este último;
+
+b) Las estipulaciones que se requieran en favor del Vehículo de Potenciación para la debida implementación del Esquema de Potenciación del FEIEF y los derechos del Vehículo de Potenciación para exigir el cumplimiento de dichas estipulaciones;
+
+c) Que el convenio de colaboración administrativa no podrá ser terminado anticipadamente por el Estado sino hasta que los acreedores y tenedores respectivos acuerden por escrito, por conducto del Vehículo de Potenciación, que se han liquidado en su totalidad las obligaciones de pago debidas en términos de los financiamientos contratados por el Vehículo de Potenciación;
+
+d) Que el convenio de colaboración administrativa no podrá ser modificado sin el previo consentimiento por escrito de los acreedores y tenedores respectivos, por conducto del Vehículo de Potenciación, y
+
+e) Que los acreedores y tenedores de los valores respectivos no tendrán recurso en contra del Estado respecto del incumplimiento de pago de los financiamientos que sean contratados por el Vehículo de Potenciación. En consecuencia, las operaciones de monetización y la contratación de financiamiento que se realice al amparo del Esquema de Potenciación del FEIEF se regirán única y exclusivamente por lo acordado en el convenio de colaboración administrativa.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+IV. Realizar el reconocimiento de la recepción anticipada por parte del Estado de los recursos del FEIEF como resultado de las operaciones de monetización.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+V. Celebrar los convenios modificatorios al convenio de colaboración que sean necesarios o convenientes con objeto de implementar el Esquema de Potenciación y los demás actos autorizados en el presente Decreto.
+
+Asimismo para que gestione, negocie y acuerde los demás términos y condiciones que se estimen necesarios o convenientes para la instrumentación de las operaciones materia del presente Decreto, y para que celebre, firme y suscriba los convenios, contratos, documentos y demás actos jurídicos que sean necesarios o convenientes a su juicio, para implementar y perfeccionar la participación del Estado en el Esquema de Potenciación del FEIEF, incluyendo, sin limitar:
+
+a) La asunción de obligaciones de dar, hacer y no hacer;
+
+b) El otorgamiento de mandatos revocables o irrevocables;
+
+c) La modificación, revocación o cancelación de instrucciones, notificaciones o avisos girados con anterioridad, de cualquier naturaleza, o bien el otorgamiento o emisión de nuevas instrucciones, notificaciones o avisos, las que podrán tener el carácter de irrevocable;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VI. Realizar las promociones, avisos, instrucciones y registros que sean necesarios o convenientes ante autoridades, estatales o federales, incluyendo, sin limitar, a la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VII. La negociación de términos y condiciones y la celebración de cuantos actos, convenios, contratos o instrumentos se estimen necesarios o convenientes para el cumplimiento de lo previsto en el presente artículo, y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
+
+VIII. Las autorizaciones previstas en este Decreto podrán ser ejercidas, a más tardar, el 31 de diciembre del 2020. La transmisión irrevocable referida en este artículo subsistirá hasta que se hayan liquidado, en su totalidad, las obligaciones de pago al amparo de los financiamientos contratados por el Vehículo de Potenciación, según como dicha circunstancia sea confirmada, por escrito, por los acreedores y tenedores respectivos, por conducto del Vehículo de Potenciación.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VIII, P.O. 30 DE MAYO DE 2020]</small>
+
+Se instruye a la Secretaría de Finanzas que informe trimestralmente al Congreso del Estado sobre el destino y aplicación de los recursos netos de la monetización del FEIEF que reciba el Estado como parte del Esquema de Potenciación del FEIEF.
 
 ###### Artículo 5.
 
@@ -163,6 +227,16 @@ En ningún caso, se eximirá de la presentación de la declaración, independien
 
 Los Municipios y sus Organismos Operadores de Agua, así como los Organismos Públicos Descentralizados del Sector Educativo, que presenten adeudos del impuesto establecido en el presente artículo, podrán convenir con la Secretaría de Finanzas, una reducción de sus adeudos anteriores al ejercicio fiscal 2020, hasta de un cincuenta por ciento (50%), el cual estará vigente de enero a marzo del 2020.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Artículo 15 bis. Los contribuyentes sujetos del Impuesto Sobre Nóminas, establecido en el Capítulo Segundo del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, podrán diferir al mes de diciembre de 2020, el importe que les corresponda enterar de los meses de mayo, junio y julio del ejercicio fiscal correspondiente a esta Ley, para lo cual deberán solicitar la autorización correspondiente, a más tardar en (sic) el 15 de junio del 2020, a través del portal tributario de la Secretaría de Finanzas, especificando el período que requieran diferir.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Artículo 15 ter. Los contribuyentes sujetos del Impuesto Sobre Servicios de Hospedaje, establecido en el Capítulo Tercero del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, gozarán de un estímulo del 100 % (cien por ciento), del impuesto que les hubiese correspondido enterar por el período de abril a diciembre de 2020. Este estímulo no les relevará de presentar la declaración de los ingresos obtenidos que sirvan de base del impuesto, no obstante que no exista impuesto a enterar.
+
+Los contribuyentes a que se refiere este artículo, podrán diferir al mes de diciembre, el importe que les corresponda enterar, relativo al periodo del primer trimestre de este ejercicio fiscal, para lo cual deberán solicitar, a más tardar el 15 de junio del 2020, la autorización correspondiente, a través del portal tributario de la Secretaría de Finanzas.
+
 ###### Artículo 16.
 
 A las personas físicas y morales propietarios, poseedores o usuarios de vehículos aéreos, terrestres y marítimos o fluviales, obligados a cubrir el Impuesto Sobre Tenencia o Uso de Vehículos, establecido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, se les otorgará un estímulo fiscal en el importe por el que debió pagar el impuesto referido durante el ejercicio fiscal 2018 y anteriores, de conformidad al año de adeudo de que se trate, y según el momento del periodo en que se pague la contribución, en el por ciento establecido en la tabla siguiente:
@@ -188,6 +262,8 @@ Las personas físicas y morales que adquieran vehículos automotores en el ejerc
 A los contribuyentes sujetos del Impuesto Adicional para la Infraestructura, establecido en la Sección I del Capítulo Séptimo, Título Segundo de la Ley de Hacienda del Estado de Zacatecas, se les otorgará un estímulo fiscal en el importe por el que deba pagar del impuesto referido durante el ejercicio fiscal 2020, de conformidad al año modelo del vehículo de que se trate, y mes en que se pague la contribución, según la tabla siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 28 DE DICIEMBRE DE 2019, PÁGINA 55.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS EN EL SUPLEMENTO DEL P.O. 30 DE MAYO DE 2020, PÁGINA 47.]</small>
 
 I. Para aquellos que presenten adeudos anteriores al ejercicio 2020, el 50 % (cincuenta por ciento) de este Impuesto.
 
@@ -242,6 +318,8 @@ No serán sujetos del estímulo establecido en el presente artículo, tratándos
 A las personas físicas, personas morales o unidades económicas, propietarios, poseedores o usuarios de unidades automotrices obligados a cubrir los Derechos de Control Vehicular, según lo establecido en el artículo 99 de la Ley de Hacienda del Estado de Zacatecas, se les otorgará un estímulo fiscal del importe por el que deba pagar del Derecho referido durante el ejercicio fiscal 2020, de conformidad al año modelo de los vehículos y el mes en que se pague, con base en la tabla siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 28 DE DICIEMBRE DE 2019, PÁGINA 58.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS EN EL SUPLEMENTO DEL P.O. 30 DE MAYO DE 2020, PÁGINA 48.]</small>
 
 I. Para aquellos que presenten adeudos anteriores al ejercicio 2020, el 50% (cincuenta por ciento) del Derecho;
 
@@ -309,9 +387,13 @@ Por la inscripción de documentos de bienes inmuebles, se otorgará, previa soli
 
 A las personas morales que tienen la obligación de pagar el derecho de inscripción de documentos, ante la Dirección de Catastro y Registro Público, se les otorgará un estímulo de conformidad con lo siguiente:
 
-I. 50% (cincuenta por ciento) del costo de registro de escritura constitutiva de empresas que por primera vez se instalen en el Estado de Zacatecas, y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
-II. 50% (cincuenta por ciento) del costo de registro de escritura de bienes inmuebles para inicio de operaciones de empresas que por primera vez se instalen en el Estado de Zacatecas.
+I. 75 % (Setenta y cinco por ciento) del costo de registro de escritura constitutiva de empresas que por primera vez se instalen en el Estado de Zacatecas, y
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+II. 75 % (Setenta y cinco por ciento) del costo de registro de escritura de bienes inmuebles para inicio de operaciones de empresas que por primera vez se instalen en el Estado de Zacatecas.
 
 ###### Artículo 32.
 
@@ -415,9 +497,23 @@ SEXTO. Por lo que hace al importe a recaudar correspondiente a los impuestos: Po
 
 I. Para los ingresos que correspondan al ejercicio 2020, se faculta al titular de la Secretaría de Finanzas a realizar las adecuaciones contables y presupuestales que se requieran, con independencia de lo establecido en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, así como en el Decreto de Presupuesto de Egresos del Estado de Zacatecas para el ejercicio fiscal 2020.
 
-II. En cuanto a los ingresos que correspondan al ejercicio 2019 y anteriores, el Titular del Ejecutivo del Estado, enviará a la Legislatura del Estado, iniciativa que incluya la propuesta de asignaciones presupuestales con base en lo recaudado hasta el mes de junio de 2020, la cual deberá ser presentada a más tardar el 31 de julio de 2020.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2020)</small>
 
-III. Los ingresos que correspondan al ejercicio 2019 y anteriores, que sean recaudados por el periodo de julio a diciembre de 2020, estarán sujetos a lo establecido en la fracción I del presente artículo.
+II. Los ingresos que se recauden provenientes del ejercicio fiscal 2019 y anteriores, se destinarán en el orden de prioridad siguiente:
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+a) A cubrir la disminución de Ingresos Propios y Participaciones Federales, con motivo de la afectación económica que ha originado la contingencia de salud que padece el país y el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+b) A programas, obras e infraestructura que incentiven el crecimiento económico y empleo del Estado, relacionados con el objeto o destino del gasto a que se refieren los artículos 36 de la Ley de Hacienda del Estado de Zacatecas y 8 de la Ley General de Cambio Climático.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+c) A cubrir la diferencia de "Recursos en Gestión a la Federación" observados y los presupuestados en la presente Ley, cuando estos últimos sean mayores.
+
+III. (DEROGADA, P.O. 30 DE MAYO DE 2020)
 
 SÉPTIMO. Derivado de las resoluciones o las sentencias dictadas y que se lleguen a dictar por los órganos jurisdiccionales competentes, favorables al Gobierno del Estado, respecto de los impuestos establecidos en el artículo anterior, se faculta al Titular del Ejecutivo del Estado, a través del Secretario de Finanzas, a llevar a cabo acuerdos de pago definitivos respecto de los adeudos de los contribuyentes correspondiente (sic) a los ejercicios 2019 y anteriores, los cuales deberán ser ratificados con la intervención de la Comisión Estatal de Defensa del Contribuyente, con los efectos a que refiere el artículo 158 bis del Código Fiscal del Estado de Zacatecas y sus Municipios.
 
@@ -458,3 +554,27 @@ Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, m
 DADO en el Despacho del Poder Ejecutivo del Estado, a los veintisiete días del mes de diciembre del año dos mil diecinueve. EL GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. EL SECRETARIO GENERAL DE GOBIERNO.- JEHÚ EDUÍ SALAS DÁVILA.- Rúbricas.
 
 > <small>[N. DE E. VÉASE ANEXOS 1 Y 2 EN EL SUPLEMENTO DEL P.O. DE 28 DE DICIEMBRE DE 2019, PÁGINAS DE LA 66 A LA 68.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LOS ANEXOS 1 Y 2, P.O. 30 DE MAYO DE 2020, PÁGINAS DE LA 15 A LA 40.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 392.- REFORMAS Y ADICIONES A LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE ZACATECAS DEL EJERCICIO FISCAL 2020".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de sesenta días contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas del Gobierno del Estado, deberá realizar, en su caso, las modificaciones presupuestales a los anexos técnicos que conforman la Ley de Ingresos del Estado de Zacatecas para el Ejercicio Fiscal 2020 y del Presupuesto de Egresos del Estado de Zacatecas 2020 y sus modificaciones.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MAYO DE 2020.
+
+> <small>[N. DE E. LOS “ANEXOS.- DEL DECRETO 392, QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE ZACATECAS DEL EJERCICIO FISCAL 2020”, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4° DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE ZACATECAS.]</small>
