@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2020-04-20"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -359,7 +359,9 @@ La Presidencia de cada comisión deberá emitir la convocatoria para la sesión 
 
 Las determinaciones de las Comisiones serán válidas siempre que estén suscritas, por lo menos, por tres de sus integrantes.
 
-Las comisiones se reunirán, cuando menos, dos veces al mes, aún en los periodos de receso del Congreso.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Las comisiones se reunirán cuando menos, dos veces al mes, aun en los periodos de receso del Congreso. De considerarse necesario, las reuniones y sesiones de las Comisiones podrán realizarse de forma virtual mediante el uso de las herramientas tecnológicas disponibles que garanticen la eficacia y legalidad de los actos.
 
 ###### ARTÍCULO 27.
 
@@ -368,6 +370,10 @@ Son atribuciones del Presidente de cada Comisión:
 I. Presidir y conducir las sesiones y reuniones;
 
 II. Convocar a las sesiones ordinarias de la Comisión con una anticipación mínima de cuarenta y ocho horas, y a sesiones extraordinarias con veinticuatro horas de anticipación, salvo casos de urgencia que podrá citarse hasta con doce horas de anticipación. Lo mismo se observará para el caso de las convocatorias a reuniones de trabajo de la Comisión;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+La celebración de las sesiones y reuniones de trabajo, de manera excepcional podrán llevarse a cabo en forma virtual cuando se presenten los supuestos señalados en el artículo 183 del presente reglamento.
 
 III. Suscribir las convocatorias a sesiones y reuniones de trabajo;
 
@@ -1385,7 +1391,9 @@ d) Los artículos transitorios.
 
 XII. En caso de dictamen negativo, el proyecto de acuerdo respectivo;
 
-XIII. En ambos casos, el voto aprobatorio de la mayoría de los diputados de la comisión o comisiones que dictaminan, deberá constar mediante firma autógrafa, y;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+XIII. En ambos casos, el voto aprobatorio de la mayoría de los diputados de la comisión o comisiones que dictaminan, deberá constar mediante firma autógrafa o digital, y;
 
 XIV. Lugar y fecha de la sesión de la comisión en que se aprueba.
 
@@ -2275,7 +2283,9 @@ En iguales términos se procederá cuando se esté en el caso que sea la Diputac
 
 La Legislatura no podrá reunirse para tomar acuerdo o determinación oficial alguna fuera de la sede del Poder Legislativo, salvo el caso que por fuerza mayor o por acuerdo de la mayoría absoluta de sus integrantes así se dispusiere. En estos casos, la Legislatura podrá constituirse en un local distinto al Recinto oficial, que al efecto investirá de la legalidad necesaria expidiendo el Decreto correspondiente y dando aviso a las autoridades oficiales, informando sobre los motivos para tomar tal determinación. De igual forma podrá realizarse en los casos de toma de protesta del Titular del Poder Ejecutivo del Estado.
 
-Una vez desaparecidas las causas que motivaron el cambio del recinto, volverá nuevamente al recinto oficial.
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Cuando por razones de salubridad, protección civil, seguridad pública o cualquier otra contingencia que ponga en riesgo la integridad de los miembros de la legislatura, las sesiones o reuniones podrán llevarse a cabo de manera virtual.
 
 ## TÍTULO DÉCIMO CUARTO. DE LAS GALERÍAS
 
@@ -2832,3 +2842,9 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación. Publí
 SEGUNDO. La Junta de Coordinación Política del Congreso del Estado Libre y Soberano de Oaxaca, determinará las adecuaciones presupuestarias para el funcionamiento operativo del Centro de Estudios a que hace referencia éste Decreto.
 
 TERCERO. La Comisión Permanente de Vigilancia del Sistema Estatal de Combate a la Corrupción, emitirá los Lineamientos Operativos, la estructura interna y el Manual de Procedimientos del Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción, a que hace referencia éste Decreto, dentro del plazo de sesenta días hábiles contados a partir de su aprobación.
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1512.- MEDIANTE EL CUAL SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 9 y UN TERCER PÁRRAFO AL ARTÍCULO 71 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 26, LA FRACCIÓN XIII DEL ARTÍCULO 69 y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN SEGUNDA DEL ARTÍCULO 27 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 183 RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su aprobación. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca, y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
