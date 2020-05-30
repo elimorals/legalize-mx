@@ -4,7 +4,7 @@ identifier: "COL-ley-de-turismo-del-estado-de-colima-51979"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2018-10-20"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TURISMO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento No. 8 al Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -496,6 +496,10 @@ La Secretaría, escuchando a los Organismos del Sector, formulará coordinará y
 ###### Artículo 23.
 
 La Secretaría promoverá inversiones que tiendan a incrementar las instalaciones destinadas al turismo social y realizará gestiones ante los Prestadores de Servicios Turísticos, con el objeto de solicitar precios y tarifas preferenciales, así como paquetes que hagan posible el cumplimiento de los objetivos de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Así mismo, con la finalidad principal de movilizar a los colimenses de todos los niveles económicos dentro de la Entidad, facilitará, promoverá y difundirá la oferta turística y se implementará una tarifa especial del 15% de descuento en los atractivos, corredores, productos y destinos turísticos que dependan del Gobierno del Estado o estén en convenio con la Federación, durante todo (sic) los días del año, a las y los ciudadanos colimenses que acrediten la respectiva ciudadanía con una identificación oficial vigente.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1092,3 +1096,13 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 598 POR EL QUE SE ADICIONA EL CAPÍTULO SEXTO DENOMINADO "TURISMO MÉDICO" QUE COMPRENDE LOS ARTÍCULOS 26 TER Y 26 QUÁTER, TODOS A LA LEY DE TURISMO DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 275 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO, HACIENDO EL CORRIMIENTO DEL SUBSECUENTE, AL ARTÍCULO 23 DE LA LEY DE TURISMO DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La tarifa especial del 15% de descuento en los atractivos, corredores, productos y destinos turísticos que dependan del Gobierno del Estado o estén en convenio con la Federación para las y los colimenses, que establece el artículo 23 de la Ley de Turismo del Estado de Colima, tendrá plena aplicabilidad una vez que se haya decretado, por las autoridades de salud, la conclusión de la contingencia sanitaria de la pandemia del virus SARS-CoV-2, mejor conocido como Coronavirus o COVID-19.
+
+TERCERO.- El Poder Ejecutivo del Estado y los Municipios contaran con un plazo de 90 días naturales a la entrada en vigor del presente Decreto, para llevar a cabo las reformas reglamentarias que se deriven de este.
