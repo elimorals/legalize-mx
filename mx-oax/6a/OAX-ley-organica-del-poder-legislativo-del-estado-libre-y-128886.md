@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2020-04-20"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -182,6 +182,10 @@ El Congreso tendrá su residencia oficial en el Municipio de San Raymundo Jalpan
 El Congreso tendrá cada año dos períodos ordinarios de sesiones; el primero comenzará el quince de noviembre y terminará el quince de abril; y el segundo dará inicio el primero de julio y concluirá el treinta de septiembre.
 
 El Congreso podrá realizar sesiones ordinarias, extraordinarias, solemnes y permanentes, mismas que se desarrollarán conforme a lo establecido en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Cuando se considere necesario, las sesiones del Congreso podrán realizarse en forma virtual, mediante el uso de las herramientas tecnológicas disponibles que garanticen la eficacia y legalidad de los actos.
 
 ###### ARTÍCULO 10.
 
@@ -989,6 +993,10 @@ Las sesiones de las Comisiones serán públicas, salvo aquellas en las que se an
 
 Los integrantes de la Comisión asistirán a ellas con derecho a voz y voto; los Diputados que no formen parte de una Comisión podrán asistir a sus sesiones con derecho a voz, pero sin voto.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+
+Cuando se considere necesario, las sesiones podrán realizarse en forma virtual y mediante el uso de las herramientas tecnológicas disponibles que garanticen la eficacia y legalidad de los actos.
+
 ###### ARTÍCULO 72.
 
 Las Comisiones resolverán por escrito acerca de los asuntos que se le turnen y en los casos en que se requiera de un dictamen, propondrán la resolución que en su concepto deba tomarse, reduciéndola a proposiciones o artículos claros y sencillos que puedan sujetarse a votación.
@@ -1474,3 +1482,9 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación. Publí
 SEGUNDO. La Junta de Coordinación Política del Congreso del Estado Libre y Soberano de Oaxaca, determinará las adecuaciones presupuestarias para el funcionamiento operativo del Centro de Estudios a que hace referencia éste Decreto.
 
 TERCERO. La Comisión Permanente de Vigilancia del Sistema Estatal de Combate a la Corrupción, emitirá los Lineamientos Operativos, la estructura interna y el Manual de Procedimientos del Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción, a que hace referencia éste Decreto, dentro del plazo de sesenta días hábiles contados a partir de su aprobación.
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1512.- MEDIANTE EL CUAL SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 9 Y UN TERCER PÁRRAFO AL ARTÍCULO 71 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 26, LA FRACCIÓN XIII DEL ARTÍCULO 69 Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN SEGUNDA DEL ARTÍCULO 27 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 183 RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su aprobación. Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca, y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
