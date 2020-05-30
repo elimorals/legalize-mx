@@ -4,7 +4,7 @@ identifier: "COL-ley-para-el-fomento-de-una-cultura-de-donacion-procuracion-9205
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-26"
-last_updated: "2013-11-23"
+last_updated: "2020-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY PARA EL FOMENTO DE UNA CULTURA DE DONACION, PROCURACION Y TRASPLANTE DE ORGANOS, TEJIDOS Y CELULAS PARA EL ESTADO DE COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA EL FOMENTO DE UNA CULTURA DE DONACIÓN, PROCURACIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 26 de enero de 2013.
 
@@ -39,7 +41,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 33 FRACCIÓN II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-CONSIDERANDO:.
+CONSIDERANDO:
+
+[...]
 
 Por lo anteriormente expuesto, se expide el siguiente:
 
@@ -183,11 +187,19 @@ En el Estado, se considera donador expreso a toda persona mayor de 18 años de e
 
 La Secretaría de Salud deberá:
 
-I. Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar sus órganos y tejidos en los términos de la legislación aplicable; y (sic)
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2020)</small>
 
-II. Promover que las instituciones de salud acreditadas y certificadas legalmente para ello, puedan realizar los procedimientos de trasplante con fines terapéuticos, en forma oportuna y adecuada en beneficio de los usuarios de los servicios de salud.
+I. Promover la cultura de donación entre la sociedad, como forma esencial de sensibilización y solidaridad, toda vez que, el trasplante representa una alternativa para mejorar la calidad de vida, mediante la aplicación de acciones en materia de trasplantes que realicen las instituciones de salud públicas y privadas, con el propósito de reducir la morbilidad y mortalidad por padecimientos susceptibles de ser corregidos mediante este procedimiento;
 
-III. Ofrecer a los pacientes, donador, receptor y/o a familiares, servicios con un profesional de la psicología, a fin de que se puedan mediar y tratar los traumas que estas acciones de donación o recepción puedan generarse en las partes involucradas, con la finalidad de salvaguardar la salud mental e impacto emocional de los mencionados.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MAYO DE 2020)</small>
+
+II. Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar sus órganos y tejidos en los términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
+
+III. Promover que las instituciones de salud acreditadas y certificadas legalmente para ello, puedan realizar los procedimientos de trasplante con fines terapéuticos, en forma oportuna y adecuada en beneficio de los usuarios de los servicios de salud; y
+
+IV. Ofrecer a los pacientes, donador, receptor y/o a familiares, servicios con un profesional de la psicología, a fin de que se puedan mediar y tratar los traumas que estas acciones de donación o recepción puedan generarse en las partes involucradas, con la finalidad de salvaguardar la salud mental e impacto emocional de los mencionados.
 
 El Estado buscará los mecanismos para que toda persona que alcance la mayoría de edad, nacida o avecindada en su territorio, producto de su libre albedrío, sea un donador expreso.
 
@@ -1142,3 +1154,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO.- 
 P.O. 23 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 273 POR EL QUE SE REORDENAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE COLIMA, Y SE ADICIONA LA FRACCIÓN II, AL ARTÍCULO 7º DE LA LEY PARA EL FOMENTO DE UNA CULTURA DE DONACIÓN, PROCURACIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 01 de enero de 2021, previa publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Las disposiciones establecidas en el Capítulo VIII denominado “DE LA MASTECTOMÍA”, que se integra por los artículos 62 Bis 14, 62 Bis 15, y 62 Bis 16, correspondiente al Título Segundo de la Ley de Salud del Estado de Colima, que requieran de presupuesto para su instrumentación y desarrollo, se sujetarán a la disponibilidad presupuestaria del Gobierno del Estado, debiéndose prever para el ejercicio fiscal 2021 una partida presupuestal para ello.
