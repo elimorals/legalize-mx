@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-notariado-del-estado-de-queretaro-69096"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2019-12-22"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -267,11 +267,13 @@ Comprobados los requisitos a que se refieren los artículos anteriores, el Gober
 
 El nombramiento se publicará por una sola vez en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en alguno de los periódicos de mayor circulación en el Estado. Además, se comunicará por oficio al Tribunal Superior de Justicia, al Fiscal General del Estado, al Director General del Instituto de la Función Registral del Estado de Querétaro, a los Presidentes Municipales de la demarcación notarial donde el Notario nombrado deberá desempeñar su función, a las oficinas de las autoridades fiscales municipales, estatales y federales de la residencia del Notario y al Consejo de Notarios.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 21.
 
-El Instituto de la Función Registral del Estado de Querétaro, llevará un libro que se denominará "Registro de Notarios", en el cual se tomará razón de cada uno de los nombramientos expedidos por el Poder Ejecutivo del Estado.
+El Archivo General de Notarías, llevará un libro que se denominará “Registro de Notarios”, en el cual se tomará razón de cada uno de los nombramientos expedidos por el Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 3 DE OCTUBRE DE 2018)</small>
 
 El expediente personal del Notario deberá contener la siguiente información:
 
@@ -279,7 +281,23 @@ I. Copia certificada de su nombramiento como Notario;
 
 II. Fotografía del Notario tamaño título, de frente, a color, con una antigüedad no mayor a tres años;
 
-III. Registro de su firma autógrafa;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+III. Registro de su firma autógrafa y electrónica notarial.
+
+El registro y autorización de la firma electrónica notarial se realizará conforme a los lineamientos emitidos por el Archivo General de Notarías y demás disposiciones jurídicas aplicables.
+
+El trámite para la obtención de la autorización para utilizar la firma electrónica notarial deberá ser estrictamente personal y se acompañarán los documentos siguientes:
+
+a) La identificación oficial vigente del Notario;
+
+b) La solicitud de autorización para utilizar la firma electrónica notarial; y
+
+c) Los demás documentos e información establecida en los lineamientos emitidos por el Archivo General de Notarías.
+
+La firma electrónica notarial se considera con igual valor jurídico que la firma autógrafa y el sello de autorizar en términos de las disposiciones jurídicas aplicables.
+
+Los documentos con firma electrónica notarial, producirán los mismos efectos que las Leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
 
 IV. El domicilio de la Notaría;
 
@@ -302,6 +320,8 @@ IX. Registro del sello del Notario, especificando el color de la tinta que usar�
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2019)</small>
 
 X. Los cambios de sello del Notario.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
 Las anotaciones al expediente personal de los Notarios deberán realizarse en riguroso orden cronológico.
 
@@ -461,9 +481,23 @@ El Notario debe empezar a ejercer sus funciones dentro del plazo de treinta día
 
 Los instrumentos notariales se asentarán en hojas foliadas, selladas y autorizadas, a las que se llamará folios; dichos instrumentos, firmados al final por el Notario y por los otorgantes, serán archivados, debidamente ordenados y sólidamente empastados. Los folios y las hojas de anotaciones complementarias en los términos de esta Ley, junto con el registro de cotejos y sus apéndices, son los elementos que integran el protocolo.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+El Notario podrá contar con un respaldo a través de medios electrónicos, ópticos, magnéticos o cualquier otra tecnología de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+El Notario podrá generar un tomo de protocolo con folios electrónicos, así como sus apéndices y actas de apertura y cierre de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+El uso del protocolo electrónico deberá ser autorizado por el Archivo General de Notarías y deberá ajustarse a los lineamientos y disposiciones administrativas de carácter general que se emitan para tal efecto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 39.
 
-Los instrumentos que el Notario asiente en los folios, se ordenarán en tomos. Los instrumentos y tomos que integran el Protocolo, deberán ser numerados progresivamente.
+Los instrumentos que el Notario asiente en los folios, incluyendo los electrónicos, se ordenarán en tomos. Los instrumentos y tomos que integran el Protocolo, deberán ser numerados progresivamente.
 
 Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asienten en ellos, se ordenarán en tomos que tendrán siempre los folios en que se contengan cincuenta instrumentos, contándolos por cincuentenas cerradas, incluyendo los que no pasaron.
 
@@ -509,9 +543,15 @@ Los folios en los que se asienten los instrumentos serán uniformes, de iguales 
 
 Los folios estarán numerados progresivamente respecto de cada Notario Titular, anteponiendo el número de la Notaría en la cual serán utilizados, la demarcación asignada, el nombre del Notario y tendrán impreso o grabado el escudo del Consejo de Notarios del Estado.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+Los folios electrónicos se tendrán por autorizados cuando el Archivo General de Notarías realice dicha autorización con los medios electrónicos que para el efecto determine y se deberán cubrir los derechos causados de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 45.
 
-Para asentar las escrituras y actas en los folios, podrá utilizarse cualquier procedimiento de escritura o impresión que sea firme, indeleble y legible. Sólo en casos urgentes o por razón del lugar donde sean levantadas, a juicio del Notario, podrán ser manuscritas.
+Para asentar las escrituras y actas en los folios, podrá utilizarse cualquier procedimiento de escritura o impresión que sea firme, indeleble y legible, o en su caso, los medios electrónicos de conformidad con las disposiciones jurídicas aplicables. Sólo en casos urgentes o por razón del lugar donde sean levantadas, a juicio del Notario, podrán ser manuscritas.
 
 La parte utilizable del folio deberá aprovecharse al máximo posible, no deberán dejarse espacios en blanco y los renglones que se impriman deberán quedar a igual distancia unos de otros.
 
@@ -531,9 +571,9 @@ a) Volverá a asentar el instrumento en folios de numeración posterior en los m
 
 b) Si no fuera posible obtener nuevamente las firmas, hará la reposición con una copia certificada del testimonio, con el duplicado del instrumento que con firmas autógrafas de quienes en él intervinieron pudiera obrar en el apéndice o con la certificación del instrumento extraviado que obre en poder de las partes o alguna oficina pública, en razón de sus funciones, documento que protocolizará en folios que deberán ser intercalados en lugar de los faltantes, haciendo constar claramente al margen derecho del anverso de cada folio la palabra "reposición" y agregando la copia al Apéndice de la misma.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
-El Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno y del Instituto de la Función Registral del Estado de Querétaro, en todo momento vigilarán el cumplimiento de los procedimientos citados, para lo cual, el Notario, en los supuestos de la fracción III del presente artículo, deberá solicitar autorización por escrito al Instituto de la Función Registral del Estado de Querétaro para proceder a la reposición, la cual deberá efectuar dentro del plazo de tres días, contados a partir de que obtuvo dicha autorización.
+El Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno y del Archivo General de Notarías, en todo momento vigilarán el cumplimiento de los procedimientos citados, para lo cual, el Notario, en los supuestos de la fracción III del presente artículo, deberá solicitar autorización por escrito al Archivo General de Notarías para proceder a la reposición, la cual deberá efectuar dentro del plazo de tres días, contados a partir de que obtuvo dicha autorización.
 
 El procedimiento de reposición carecerá de validez, si no se obtiene previamente la autorización a que se refiere el párrafo anterior, de todo lo cual deberá dejarse constancia en el Apéndice.
 
@@ -575,7 +615,9 @@ e) Los folios inutilizados o extraviados; y
 
 f) Toda circunstancia relevante que requiera su asiento en el mismo.
 
-Al calce de esta nota, el Notario asentará su firma y el sello de autorizar. La hoja en la que conste esta razón deberá agregarse al final del tomo.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+Al calce de esta nota, el Notario asentará su sello y firma autógrafa o electrónica notarial. La hoja en la que conste esta razón deberá agregarse al final del tomo.
 
 ###### Artículo 49.
 
@@ -625,27 +667,31 @@ En el último folio utilizado de cada escritura, si hubiere necesidad, el Notari
 
 Si la parte final del folio no fuere suficiente, la autorización definitiva o las anotaciones se asentarán al final del instrumento, en una o varias hojas comunes de medidas y calidad semejante a los folios, anotando en éstas el número del instrumento a que corresponda, las cuales deberán ser firmadas y selladas por el Notario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 51.
 
-Los elementos que integran el Protocolo deberán estar siempre en la Notaría, salvo en los casos expresamente permitidos por esta Ley.
+Los elementos que integran el Protocolo en cualquiera de sus modalidades, deberán estar siempre en la Notaría, salvo en los casos expresamente permitidos por esta Ley.
 
 El Notario podrá recabar firmas fuera de la Notaría, si los interesados no pueden concurrir a la misma.
 
 Si alguna autoridad, con facultades legales, ordena la visita o inspección de uno o más instrumentos del Protocolo, el acto se efectuará en la oficina Notarial, siempre con la presencia del Notario.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
-En el caso de que el tomo del Protocolo en el que se encuentre asentado el instrumento ya obre en el Instituto de la Función Registral del Estado de Querétaro, la inspección se llevará cabo en el domicilio del referido Instituto, previa citación al Notario.
+En el caso de que el tomo del Protocolo en el que se encuentre asentado el instrumento ya obre en el Archivo General de Notarías, la inspección se llevará cabo en el domicilio del referido Archivo, previa citación al Notario.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
-El Notario guardará en su archivo los elementos integrantes de su Protocolo durante tres años, contados desde la fecha de terminación del tomo. A la expiración de este plazo, el Notario los entregará al Instituto de la Función Registral del Estado de Querétaro, donde quedarán definitivamente para su guarda; sin embargo, el Notario tendrá, en todo tiempo, acceso a los mismos.
+El Notario guardará en su archivo los elementos integrantes de su Protocolo, durante tres años, contados desde la fecha de terminación del tomo. A la expiración de este plazo, el Notario los entregará al Archivo General de Notarías, donde quedarán definitivamente para su guarda; sin embargo, el Notario tendrá, en todo tiempo, acceso a los mismos.
 
 > <small>(DEROGADO SEXTO PÁRRAFO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 52.
 
-El Notario, respecto de los tomos del protocolo, llevará una carpeta por cada uno de ellos, en donde irá depositando los documentos que se relacionen con las escrituras y las actas. El contenido de esta carpeta se llama "Apéndice".
+El Notario, respecto de los tomos del protocolo, llevará una carpeta por cada uno de ellos, en donde irá depositando o agregando los documentos que se relacionen con las escrituras y las actas. El contenido de esta carpeta se llama “Apéndice” y podrá integrarse a través de medios electrónicos.
 
 Los documentos del Apéndice se arreglarán por legajos, poniéndose en cada uno de éstos, el número que corresponde al del instrumento a que se refiere. En cada uno de los documentos se podrá poner una letra que los señale y distinga de los otros que forman el legajo. Los documentos que se protocolicen, integrados por más de una hoja se considerarán como uno sólo.
 
@@ -659,15 +705,21 @@ Los legajos del Apéndice debidamente ordenados, se empastarán para formar un c
 
 Los documentos del Apéndice no podrán desglosarse. Los conservará el Notario y seguirán a su tomo respectivo, cuando éstos deban ser entregados definitivamente al Instituto de la Función Registral del Estado de Querétaro.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 55.
 
-Independiente de los tomos y de las carpetas del Apéndice, el Notario tendrá la obligación de formar un índice por cada tomo, de todos los instrumentos que autorice, por orden sucesivo de la numeración de las escrituras, denominación o razón social de cada uno de los otorgantes y con expresión del número de instrumento, naturaleza del acto o hecho y folios donde está asentado. Cuando entregue el tomo al Instituto de la Función Registral del Estado de Querétaro para su guarda definitiva, se acompañará un ejemplar del índice respectivo.
+Independiente de los tomos y de las carpetas del Apéndice, en cualquiera de sus modalidades, el Notario tendrá la obligación de formar un índice por cada tomo, de todos los instrumentos que autorice, por orden sucesivo de la numeración de las escrituras, denominación o razón social de cada uno de los otorgantes y con expresión del número de instrumento, naturaleza del acto o hecho y folios donde está asentado. Cuando entregue el tomo al Archivo General de Notarías para su guarda definitiva, se acompañará un ejemplar del índice respectivo.
 
-Los Notarios deberán presentar un índice anual ante la Secretaría de Gobierno del Poder Ejecutivo del Estado y ante el Instituto de la Función Registral del Estado de Querétaro, en el cual se establezcan los datos precisados en el párrafo anterior, en relación a los instrumentos y folios utilizados en el periodo.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+Los Notarios deberán presentar un índice anual al Archivo General de Notarías, en el cual se establezcan los datos precisados en el párrafo anterior, en relación a los instrumentos y folios utilizados en el periodo.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
 El índice anual deberá presentarse en la segunda semana del mes de enero de cada año.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
 La Secretaría de Gobierno del Poder Ejecutivo del Estado estará facultada para requerir al Notario, la presentación de los índices a que se refiere el presente artículo.
 
@@ -679,9 +731,19 @@ Los cotejos que el Notario realice no serán asentados en los folios. Para estos
 
 El Notario deberá sellar y foliar todas las hojas que integren este registro y firmará las razones de su apertura y cierre anual. El registro de cotejos podrá llevarse en hojas sueltas, en cuyo caso, al asentar la razón de cierre, deberán ser ordenadas y empastadas sólidamente dentro de los primeros treinta días del año siguiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2020)</small>
+
+El Registro de Cotejos podrá realizarse a través de medios electrónicos de conformidad con los lineamientos que para tal efecto emita el Archivo General de Notarías.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 1 DE JUNIO DE 2020)</small>
+
 El Apéndice de Cotejos que se formará, también anualmente, se integrará con las copias de los documentos que el Notario certifique y éstas se empastarán en carpetas que de preferencia no excedan de un grosor de diez centímetros.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+El Apéndice de Cotejos podrá realizarse a través de medios electrónicos de conformidad con los lineamientos que para tal efecto emita el Archivo General de Notarías.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE JUNIO DE 2020)</small>
 
 Tanto el Registro como el Apéndice de Cotejos serán resguardados de manera permanente en el domicilio de la Notaria, bajo la responsabilidad del Notario en funciones.
 
@@ -691,11 +753,11 @@ Para el cotejo de un documento con su copia escrita, fotográfica, fotostática 
 
 ### Capítulo Séptimo. De la clausura del Protocolo
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 58.
 
-Cuando por cualquier circunstancia haya lugar a clausurar un Protocolo, esta diligencia se efectuará siempre con la intervención del Director General del Instituto de la Función Registral del Estado de Querétaro. El Director General al cerrar los libros del Protocolo, asentará razón, en una o varias hojas de calidad semejante a los folios, de la causa que motiva la clausura, agregando todas las circunstancias que estime convenientes, suscribiendo dicha razón con su firma.
+Cuando por cualquier circunstancia haya lugar a clausurar un Protocolo, esta diligencia se efectuará siempre con la intervención del Director del Archivo General de Notarías. Al cerrar los libros del Protocolo, se asentará razón en folios de la causa que motiva la clausura, agregando todas las circunstancias que estime convenientes, suscribiendo dicha razón con su firma.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
@@ -739,9 +801,11 @@ La diligencia se practicará por los interventores que se hubieren designado, le
 
 ### Capítulo Octavo. De las escrituras
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 66.
 
-Escritura es el instrumento asentado por el Notario en el Protocolo, haciendo constar uno o más actos jurídicos y que tiene la firma y sello del Notario.
+Escritura es el instrumento asentado por el Notario en el Protocolo, en cualquiera de sus modalidades, haciendo constar uno o más actos jurídicos autorizados con firma y sello. Tratándose de escrituras que consten en folios electrónicos, se autorizarán con la firma electrónica notarial.
 
 Se tendrá como parte de la escritura, el documento en que se consigne el contrato o acto jurídico de que se trata, siempre que, firmado por el Notario y por las partes que en él intervengan, en cada una de las hojas, se agregue al apéndice, llene los requisitos que señala este Capítulo y en el Protocolo se levante una acta en la que se haga un extracto del documento, indicando sus elementos esenciales. En este caso, la escritura se integrará por dicha acta y el documento que se agregue al apéndice, en el que se consigne el contrato o acto jurídico de que se trate.
 
@@ -943,9 +1007,11 @@ El Notario asentará los datos de identificación y localización de quién real
 
 ### Capítulo Noveno. De las actas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 83.
 
-Acta Notarial es el instrumento asentado en el Protocolo que, a petición de parte, es redactado por el Notario para hacer constar uno o varios hechos y que debe ser autorizado por éste, con su sello y firma.
+Acta Notarial es el instrumento asentado en el Protocolo, que a petición de parte, es redactado por el Notario para hacer constar uno o varios hechos y que debe ser autorizado por éste, con su sello y firma autógrafa o electrónica notarial.
 
 Si el acta se refiriera a la ratificación de contenido o firmas de un documento en el que conste un acto que deba asentarse en Escritura Pública, el Notario deberá abstenerse de intervenir.
 
@@ -985,9 +1051,11 @@ No se podrá protocolizar el documento cuyo contenido sea contrario a las leyes 
 
 ### Capítulo Décimo. De los testimonios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 87.
 
-Testimonio es la copia fiel que expide y certifica el Notario, bajo su firma y sello, en el que transcribe directamente de su protocolo el contenido de una escritura o acta notarial y relaciona, transcribe textualmente o anexa en copia sellada y rubricada o marcada de manera indubitable, los documentos que obran en el Apéndice, con excepción de los que ya se hayan insertado en el cuerpo del instrumento.
+Testimonio es la copia fiel que expide y certifica el Notario, con su sello y firma autógrafa o electrónica notarial, en el que transcribe directamente de su protocolo, el contenido de una escritura o acta notarial y relaciona, transcribe textualmente o anexa en copia sellada y rubricada o marcada de manera indubitable, los documentos que obran en el Apéndice, con excepción de los que ya se hayan insertado en el cuerpo del instrumento.
 
 El Notario no expedirá testimonio o copia parcial, cuando por lo que se omita pueda seguirse perjuicio a tercera persona.
 
@@ -1013,9 +1081,13 @@ III. Las certificaciones respecto de la razón de existencia de uno o varios doc
 
 Toda certificación será autorizada por el Notario, con su firma y sello.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2020)</small>
 
-El Instituto de la Función Registral del Estado de Querétaro, podrá expedir, cuando proceda legalmente, a los particulares interesados, los testimonios que pidieren de las escrituras o actas notariales que consten en los protocolos cuyo depósito y conservación le encomienda la presente Ley, sujetándose en la expedición de dichos testimonios, a las reglas establecidas respecto de los Notarios y conforme a las disposiciones aplicables.
+El Notario en funciones deberá realizar la autorización definitiva y la expedición de los testimonios que se encuentren en guarda definitiva. El Archivo General de Notarías pondrá a disposición de dicho notario el libro de protocolo para asentar en él las notas correspondientes.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+El Archivo General de Notarías podrá expedir los testimonios de las escrituras o actas notariales que consten en los protocolos cuyo depósito y conservación le encomienda la presente Ley.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2018)</small>
 
@@ -2030,3 +2102,15 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE EXPIDE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO; Y REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Las disposiciones aplicables a la firma electrónica de los servidores públicos del Registro Público de la Propiedad y demás trámites a través de medios electrónicos, se implementarán gradualmente conforme a las bases y lineamientos que publique el Registro Público, de conformidad con la suficiencia presupuestal y las capacidades para desarrollar la infraestructura tecnológica.
+
+Artículo Tercero. Las disposiciones aplicables a la la (sic) firma electrónica notarial, así como las relacionadas con el apéndice electrónico, folio electrónico, protocolo electrónico, registro de cotejos electrónico y demás trámites a través de medios electrónicos, se implementarán gradualmente conforme a las bases y lineamientos que publique el Archivo General de Notarías, de conformidad con la suficiencia presupuestal y las capacidades para desarrollar la infraestructura tecnológica.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
