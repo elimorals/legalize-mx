@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-expedicion-de-licencias-para-conducir-del-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2014-10-29"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -65,7 +65,9 @@ VI. Impedimento judicial: Limitación o prohibición para la conducción de veh�
 
 VII. Autoridad Estatal competente: Autoridad estatal competente en materia de expedición de licencias de acuerdo a las disposiciones legales aplicables;
 
-VIII. Licencia: Licencia de conducir, que es el documento que expide la autoridad estatal, a fin de certificar que el titular de la misma tiene la capacidad física, los conocimientos y la habilidad necesaria para operar vehículos automotores de transporte terrestre;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+VIII. Licencia: Licencia de conducir, que es el documento físico y/o digital para dispositivos móviles que expide la autoridad estatal, a fin de certificar que el titular de la misma tiene la capacidad física, los conocimientos y la habilidad necesaria para operar vehículos automotores de transporte terrestre. Las licencias en documento físico o en versión digital tendrán la misma validez legal y se les aplicarán las mismas disposiciones jurídicas;
 
 IX. Normativa: Disposiciones constitucionales, legales, reglamentarias o administrativas vigentes y aplicables;
 
@@ -101,15 +103,23 @@ Corresponde a las autoridades municipales competentes la emisión de las normas 
 
 I. Autorizar, para su expedición por parte de la autoridad estatal competente, las licencias para conducir a las personas que la soliciten por primera vez;
 
-II. Retener provisionalmente, como medida preventiva, las licencias para conducir por la comisión de infracciones que, de acuerdo a la normativa correspondiente, sean sancionables con la suspensión o cancelación de dichas licencias, informando de inmediato a la autoridad estatal competente en materia de expedición de licencias;
+II. (DEROGADA, P.O. 1 DE JUNIO DE 2020)
 
 III. Cancelar o suspender las licencias para conducir expedidas por la autoridad estatal competente en materia de expedición de licencias, de acuerdo a la normativa;
 
-IV. Entregar a la Autoridad Estatal competente en materia de expedición de licencias las licencias para conducir que hayan sido canceladas por el personal facultado para ello;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+IV. Informar a la Autoridad Estatal competente en materia de expedición de las licencias sobre la comisión de infracciones que de acuerdo a la normativa correspondiente, sean sancionables con la suspensión o cancelación de dichas licencias;
 
 V. Autorizar instituciones de enseñanza de manejo o conducción de vehículos; y
 
 VI. Las demás que dispongan las normas de carácter general.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+###### Artículo 6 Bis.
+
+En ningún caso se asegurarán como garantía de pago de las infracciones el permiso para circular, la tarjeta de circulación, la licencia de manejo o placas de circulación, a los conductores que infrinjan esta Ley o su Reglamento, exceptuando aquellas que estén contempladas en las leyes y reglamentos aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
@@ -289,6 +299,14 @@ Respecto de los datos personales que refieren los incisos d) y e) de la fracció
 
 Al autorizarse una licencia, su titular quedará inscrito en la Base de Datos de Conductores de Vehículos Automotores.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+Las licencias en documento en versión digital son intransferibles y de uso solo del Titular de la misma, la cual no podrá ser compartida ni descargada por terceras personas, y le será aplicable el marco jurídico en materia de protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+El uso indebido de la misma será causa de responsabilidad conforme a las disposiciones aplicables.
+
 ### CAPÍTULO III. DE LA SUSPENSIÓN, CANCELACIÓN O REVOCACIÓN DE LA LICENCIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2014)</small>
@@ -297,17 +315,17 @@ Al autorizarse una licencia, su titular quedará inscrito en la Base de Datos de
 
 Las autoridades municipales, al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión, cancelación o revocación de licencias de conducir:
 
-I. Retendrán provisionalmente, como medida preventiva, la licencia del conductor del vehículo;
+I. (DEROGADA, P.O. 1 DE JUNIO DE 2020)
 
 II. Tomarán las medidas necesarias, de acuerdo a la normativa, para evitar que el titular de la licencia continúe conduciendo;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-III. Notificarán de inmediato la retención a la autoridad estatal competente en materia de expedición de licencias; y
+III. Notificarán de inmediato la situación de la infracción a la autoridad estatal competente en materia de expedición de licencias; y
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-IV. Notificarán (sic) la autoridad municipal competente, remitiéndole la licencia y copia del documento en el que consten las infracciones cometidas para efectos de que ésta sustancie el procedimiento correspondiente y emita la resolución que proceda.
+IV. Notificarán (sic) la autoridad municipal competente, remitiéndole los datos de la licencia que permitan su identificación y copia del documento en el que consten las infracciones cometidas para efectos de que ésta sustancie el procedimiento correspondiente y emita la resolución que proceda.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
@@ -335,11 +353,11 @@ La autoridad municipal dentro de los siguientes diez días hábiles, contados a 
 
 Vencido el término para su defensa, dicha autoridad resolverá en definitiva y lo notificará dentro de los quince días hábiles siguientes al titular de la licencia.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 21 Bis.
 
-Posteriormente, la mencionada autoridad municipal notificará a la autoridad estatal competente en materia de expedición de licencias, sobre la resolución definitiva y en su caso le remitirá la licencia retenida, a fin de que ésta efectúe las anotaciones correspondientes en la Base de Datos donde se registren dichas sanciones, así como su cumplimiento, lo cual deberá tomarse en cuenta para determinar la reincidencia.
+Posteriormente, la mencionada autoridad municipal notificará a la autoridad estatal competente en materia de expedición de licencias, sobre la resolución definitiva y en su caso reactivará la licencia, a fin de que ésta efectúe las anotaciones correspondientes en la Base de Datos donde se registren dichas sanciones, así como su cumplimiento, lo cual deberá tomarse en cuenta para determinar la reincidencia.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
@@ -422,3 +440,23 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los Municipios deberán adecuar sus reglamentos, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Artículo Tercero.- Los procedimientos administrativos iniciados con anterioridad, continuarán hasta su conclusión conforme a las normas vigentes al momento de su inicio.
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 299. SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 6; LAS FRACCIONES III Y IV DEL ARTÍCULO 20; EL ARTÍCULO 21 BIS; SE ADICIONA EL ARTÍCULO 6 BIS; Y SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 6 Y LA FRACCIÓN I DEL ARTÍCULO 20; TODOS DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que sean opongan al presente Decreto.
+
+TERCERO.- Los Municipios deberán adecuar sus reglamentos, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 300. SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 3; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCER (SIC) AL ARTÍCULO 19 DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Instituto de Control Vehicular contará con un plazo no mayor a 90 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Decreto para comenzar a expedir las licencias de conducir digitales.
+
+TERCERO.- Los Municipios del Estado de Nuevo León, dentro de un plazo no mayor de 120 días, deberán modificar sus reglamentos de tránsito a fin de establecer en los mismos la equivalencia jurídica en cuanto a la validez de la Licencia de Conducir Digital expedida por la autoridad estatal.
