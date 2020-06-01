@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2019-10-18"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -131,6 +133,10 @@ Se reconoce el derecho a la práctica del deporte para alcanzar una mejor calida
 
 En el Estado se reconoce la presencia de sus pueblos y comunidades indígenas, admitiendo que fueron la base para su conformación política y territorial; garantizará que la riqueza de sus costumbres y tradiciones; territorio, lengua y patrimonio cultural, medicina tradicional y acceso a recursos naturales, así como su autonomía, libre determinación, sistemas normativos y el acceso a la consulta, sean preservados y reconocidos a través de la ley respectiva.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+El Estado garantizará y promoverá los derechos político electorales de los pueblos y comunidades indígenas en el Estado, prevaleciendo en todo momento sus prácticas, usos y costumbres en materia electoral, sin que estos vayan en detrimento de los principios rectores de la igualdad y de los derechos fundamentales. La Ley Electoral del Estado de Querétaro, regulará lo relativo al tema.
+
 > <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2014)</small>
 
 En el Estado de Querétaro el Gobierno se sustenta en el valor de la ética, por lo que todos los entes Públicos cuentan con un Código de Ética, mediante el establecimiento de una adecuada política, la creación de un comité de ética formalmente constituida y de la realización de la capacitación y difusión en dicho valor.
@@ -181,13 +187,17 @@ El Estado está obligado a implementar las políticas necesarias para hacer efec
 
 La soberanía del Estado reside esencial y originariamente en el pueblo, de éste emana el Poder Público que se instituye exclusivamente para su beneficio; adopta para su régimen interior la forma de gobierno republicano, representativo, democrático y popular, teniendo como base de su organización política y administrativa el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
-Los partidos políticos son entidades de interés público, cuyo fin es promover la participación ciudadana en la vida democrática del Estado. Están obligados a establecer las reglas para garantizar la paridad de género en candidaturas a diputados y fórmulas de Ayuntamientos, en los términos que establezca la Ley. Los partidos políticos podrán formar coaliciones electorales y postular candidatos en común con otros partidos, pero en ninguno de estos casos podrá producirse entre ellos transferencia de votos. El cómputo de votos que los partidos coaligados obtengan en cada proceso electoral, se sujetará exclusivamente a las reglas que al efecto establezcan las leyes generales en materia electoral expedidas por el Congreso de la Unión.
+Los partidos políticos son entidades de interés público, cuyo fin es promover la participación ciudadana en la vida democrática del Estado. Están obligados a establecer las reglas político electorales para garantizar la paridad de género en candidaturas a diputados y fórmulas de Ayuntamientos, así como garantizar la integración de los pueblos y comunidades indígenas en donde tengan presencia poblacionalmente mayoritaria, como en la Legislatura del Estado de Querétaro, en los términos que establezca la Ley. Los partidos políticos podrán formar coaliciones electorales y postular candidatos en común con otros partidos, pero en ninguno de estos casos podrá producirse entre ellos transferencia de votos. El cómputo de votos que los partidos coaligados obtengan en cada proceso electoral, se sujetará exclusivamente a las reglas que al efecto establezcan las leyes generales en materia electoral expedidas por el Congreso de la Unión.
 
-> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
-Los ciudadanos podrán ejercer sus derechos políticos electorales a través de los partidos políticos o por sí mismos y mediante los procesos electorales.
+La ciudadanía podrá ejercer sus derechos políticos electorales a través de los partidos políticos o por sí misma y mediante los procesos electorales, en condiciones de igualdad.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+El voto de la ciudadanía residente en el extranjero será para la elección de la gubernatura del Estado y se sujetará a lo previsto en la normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1886,3 +1896,13 @@ P.O. 18 DE OCTUBRE DE 2019.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Lo dispuesto en el artículo 7, párrafo cuarto, relativo al voto de los ciudadanos residentes en el extranjero para la elección de Gobernador del Estado, entrará en vigor a partir del año 2021.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
