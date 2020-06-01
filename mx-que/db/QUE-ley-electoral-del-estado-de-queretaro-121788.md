@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-121788"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-01"
-last_updated: "2017-06-01"
+last_updated: "2020-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ELECTORAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ELECTORAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. 1 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ELECTORAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 1 de junio de 2017.
 
@@ -3244,3 +3246,21 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JUNIO 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ELECTORAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se abroga la Ley Electoral del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, en fecha 1 de junio de 2017, así como todas las disposiciones legales vigentes de igual o menor jerarquía en la materia, o que resulten contrarias a la presente Ley.
+
+Artículo Tercero. Los asuntos que a la entrada en vigor de esta Ley se encuentren en proceso, se resolverán conforme a las disposiciones vigentes al momento en que iniciaron.
+
+Artículo Cuarto. La Dirección Ejecutiva de Educación Cívica y Participación Ciudadana, y la Unidad de Acceso a la Información Pública, ahora Dirección Ejecutiva de Educación Cívica y Participación, así como (sic) Unidad de Transparencia del Instituto Electoral del Estado de Querétaro, respectivamente mantendrán su integración.
+
+Artículo Quinto. El Consejo General del Instituto Electoral del Estado de Querétaro estará facultado para emitir los reglamentos, acuerdos y disposiciones administrativas, en el ámbito de su competencia.
+
+Artículo Sexto. Previo al inicio del proceso electoral 2020-2021, el Tribunal Electoral del Estado de Querétaro estará facultado para emitir la normatividad de los procedimientos administrativos sancionadores.
