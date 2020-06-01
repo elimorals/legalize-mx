@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-121285"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-05-10"
-last_updated: "2017-05-10"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121285&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-27"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2020.
 
 Reglamento publicado en la Segunda Sección al Número 6 del Diario Oficial de la Federación, el miércoles 10 de mayo de 2017.
 
@@ -315,37 +315,57 @@ XVI. Las que le confiera la Ley General, la Ley y las demás disposiciones aplic
 
 El Comité celebrará sesiones en forma ordinaria y en forma extraordinaria, a petición de cualquiera de sus integrantes, en cualquier fecha, para el conocimiento y resolución de los asuntos que son de su competencia. Serán extraordinarias las que se convoquen con al menos veinticuatro horas de anticipación.
 
-Las sesiones del Comité deberán celebrarse dentro de las instalaciones de la Comisión, salvo casos excepcionales, es decir, por caso fortuito o fuerza mayor, en cuyo caso podrá usarse una sede alterna. El Comité se tendrá por instalado al estar presentes todos los miembros, propietarios o suplentes, aun y cuando no se haya emitido convocatoria previa.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
 
-En las sesiones del Comité, los miembros tendrán derecho a voz y voto y los acuerdos se tomarán por mayoría de votos de los presentes.
+Las sesiones del Comité deberán celebrarse dentro de las instalaciones de la Comisión o, a petición de alguno de los miembros, realizarse vía remota mediante vídeo conferencia. El Comité se tendrá por instalado al estar reunidos todos los miembros, propietarios o suplentes, de manera presencial o vía remota, en cuyo caso, el Secretario deberá cerciorarse de su identidad.
 
-A las sesiones podrán asistir como invitados permanentes el Coordinador Operativo, el Coordinador de Archivos y el Consultor de Transparencia, quienes auxiliarán al Comité con voz, pero sin voto.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
+
+En las sesiones del Comité, los miembros tendrán derecho a voz y voto y los acuerdos se tomarán por mayoría de votos.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
+
+A las sesiones podrán asistir, de manera presencial o vía remota, como invitados permanentes el Coordinador Operativo, el Coordinador de Archivos y el Consultor de Transparencia, quienes auxiliarán al Comité con voz, pero sin voto.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 14.
 
-La convocatoria a la sesión del Comité, cuando corresponda, el orden del día, el acta de la sesión inmediata anterior y los documentos soporte que integren la carpeta correspondiente a cada sesión, deberán ser remitidos por el Coordinador Operativo a los miembros del Comité, con antelación mínima de tres días para el caso de sesiones ordinarias y de veinticuatro horas para el caso de sesiones extraordinarias.
+La convocatoria a la sesión del Comité indicará la manera en que se llevará a cabo, ya sea de manera presencial o vía remota, contendrá el orden del día, el acta de la sesión inmediata anterior y los documentos soporte que integren la carpeta correspondiente a cada sesión.
 
-La carpeta correspondiente podrá ser entregada a los miembros del Comité en formato electrónico, óptico o impreso.
+El Coordinador Operativo remitirá, a los miembros del Comité, el proyecto del orden del día y los documentos soporte con antelación mínima de tres días para el caso de sesiones ordinarias y de veinticuatro horas para el caso de sesiones extraordinarias.
+
+El proyecto del orden del día y los documentos soporte podrán ser entregados a los miembros del Comité en formato electrónico, óptico o impreso.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 15.
 
-De cada sesión del Comité se levantará acta, en la cual obrarán los acuerdos adoptados por el Comité y deberá ser firmada por los miembros propietarios o suplentes presentes en la sesión de que se trate.
+De cada sesión del Comité se levantará un acta, en la cual obrarán los acuerdos adoptados por el Comité y deberá ser firmada por los miembros propietarios o suplentes que hayan asistido a la sesión presencial de que se trate.
 
-No existirán versiones estenográficas de las sesiones, debiendo únicamente el Coordinador Operativo hacer constar en el acta los nombres y cargos de los asistentes a la sesión, el lugar en que se llevó a cabo, la fecha, la hora, los asuntos tratados, los acuerdos adoptados, y los plazos para su cumplimiento.
+En el caso de las sesiones que se realicen vía remota, las actas solamente se firmarán por el Secretario del Comité de Transparencia.
 
-Las actas no serán una transcripción, salvo que la atención de algún asunto en particular así lo amerite a juicio de los miembros del Comité; no obstante, por regla general, se asentarán en la misma los comentarios más relevantes vertidos por los asistentes, que hayan orientado o sustentado el acuerdo del Comité en un sentido determinado.
+No existirán versiones estenográficas de las sesiones, debiendo únicamente el Coordinador Operativo hacer constar en el acta los nombres y cargos de los asistentes a la sesión, especificando si la asistencia fue presencial o vía remota, el lugar en que se llevó a cabo, en su caso, la fecha, la hora, los asuntos tratados, los acuerdos adoptados y los plazos para su cumplimiento.
+
+Las actas no serán una transcripción de la sesión, solamente se asentarán los comentarios más relevantes vertidos por los asistentes, que hayan orientado o sustentado el acuerdo del Comité en un sentido determinado, salvo que la atención de algún asunto en particular así lo amerite a juicio de los miembros del Comité.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 16.
 
-Las resoluciones en materia de clasificación de la información que emita el Comité se harán del conocimiento de la Unidad de Transparencia y la Unidad Administrativa involucrada, por conducto de los servidores públicos que funjan como enlaces ante el Comité, o bien, aquéllos a los que haya sido turnado el asunto del que se trate.
+Las resoluciones que emita el Comité serán firmadas por los miembros propietarios o suplentes que hayan asistido a la sesión presencial de que se trate.
+
+En el caso de las sesiones que se realicen vía remota, se asentará en las resoluciones el sentido del voto de cada uno de los miembros del Comité y el Secretario dará fe del mismo. Dichas resoluciones serán válidas y surtirán efectos cuando se carguen a la Plataforma Nacional de Transparencia a través del usuario del Titular de la Unidad de Transparencia.
 
 ###### Artículo 17.
 
 En los casos en los que, a pesar de haber mayoría, uno de los miembros vote en contra, tendrá el derecho, si así lo desea, de emitir un voto particular, el cual deberá integrarse al acta de la sesión correspondiente.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 18.
 
-El Comité en todo momento podrá modificar o revocar una respuesta a una solicitud ya notificada, siempre y cuando dicha respuesta haya sido negativa para el solicitante y la modificación o revocación sea para el efecto de dar acceso a la información, en cuyo caso, deberá notificar al solicitante junto con el acceso a la información.
+El Comité en todo momento podrá modificar la respuesta otorgada a una solicitud, siempre y cuando dicho acto se realice a efecto de cumplir el procedimiento establecido en la Ley o se proporcione información adicional.
 
 ###### Artículo 19.
 
@@ -383,9 +403,17 @@ III. Recabar las firmas de los miembros del Comité en los formatos de voto part
 
 IV. Notificar a las Unidades Administrativas de la Comisión de los acuerdos adoptados por el Comité;
 
-V. Dar seguimiento a los acuerdos del Comité, y
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2020)</small>
 
-VI. Las que le encomiende el propio Comité, le atribuya la Ley General, la Ley, el presente Reglamento, y demás disposiciones normativas aplicables.
+V. Dar seguimiento a los acuerdos del Comité;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE JUNIO DE 2020)</small>
+
+VI. Cerciorarse de la identidad de los servidores públicos que asistan o participen en las sesiones del Comité vía remota; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 1 DE JUNIO DE 2020)</small>
+
+VII. Las que le encomiende el propio Comité, le atribuya la Ley General, la Ley, el presente Reglamento, y demás disposiciones normativas aplicables.
 
 ###### Artículo 21.
 
@@ -409,13 +437,17 @@ El Enlace de Transparencia a que hace referencia el párrafo anterior, deberá c
 
 De conformidad con lo establecido por los artículos 100 y 113, fracción XIII de la Ley General y 97 y 110, fracción XIII de la Ley, corresponde a los titulares de las Áreas Administrativas, de manera indelegable, clasificar la información de las áreas a su cargo.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 23.
 
-Los miembros del Comité podrán sugerir la participación de servidores públicos de la Comisión bajo el carácter de invitados en las sesiones, quienes serán convocados por el Presidente del Comité, con el objeto de que presenten temas en particular ante el Comité, o bien brinden su opinión con respecto de temas técnicos o sustantivos competencia de las Unidades Administrativas de la Comisión, éstos tendrán derecho a voz, pero no a voto.
+Los miembros del Comité podrán sugerir la participación de servidores públicos de la Comisión, de manera presencial o vía remota, bajo el carácter de invitados en las sesiones, quienes serán convocados por el Presidente del Comité, con el objeto de que presenten temas en particular ante el Comité, o bien brinden su opinión con respecto de temas técnicos o sustantivos competencia de las Unidades Administrativas de la Comisión, éstos tendrán derecho a voz, pero no a voto.
 
-También asistirán bajo el carácter de invitados, los Enlaces de Transparencia que al efecto designen los titulares de las Unidades Administrativas responsables de la información generada, obtenida, adquirida, transformada o consensada bajo cualquier título por la Comisión, siempre que el Comité haya acordado dentro del orden del día asuntos comprendidos dentro de su ámbito de competencia.
+También asistirán, de manera presencial o vía remota, bajo el carácter de invitados, los Enlaces de Transparencia que al efecto designen los titulares de las Unidades Administrativas responsables de la información generada, obtenida, adquirida, transformada o consensada bajo cualquier título por la Comisión, siempre que el Comité haya acordado dentro del orden del día asuntos comprendidos dentro de su ámbito de competencia.
 
-Cuando cualquier Unidad Administrativa haya remitido un asunto para ser valorado por el Comité en sesión, corresponderá al Titular de la Unidad Administrativa determinar si asistirá el Enlace de Transparencia de su área o si designa a otro servidor público para que exponga el asunto ante el Comité. La falta de asistencia de un representante de la Unidad Administrativa cuyo asunto se encuentra a discusión en la sesión, será razón suficiente para que el Comité, si así lo estima necesario, retire el asunto del orden del día para ser abordado en sesión posterior en la cual participe el Enlace de Transparencia o un representante de la Unidad Administrativa responsable.
+Cuando cualquier Unidad Administrativa haya remitido un asunto para ser valorado por el Comité en sesión, corresponderá al Titular de la Unidad Administrativa determinar si asistirá el Enlace de Transparencia de su área o si designa a otro servidor público para que exponga el asunto ante el Comité.
+
+La falta de asistencia, de manera presencial o vía remota, de un representante de la Unidad Administrativa cuyo asunto se encuentra a discusión en la sesión, será razón suficiente para que el Comité, si así lo estima necesario, retire el asunto del orden del día para ser abordado en sesión posterior en la cual participe el Enlace de Transparencia o un representante de la Unidad Administrativa responsable, siempre y cuando los términos legales así lo permitan.
 
 ### Capítulo III. De la Autoridad Investigadora
 
@@ -647,11 +679,11 @@ IV. Por estrados en la oficina de la Unidad de Transparencia y en la lista diari
 
 En ningún caso la entrega de información estará condicionada a que se motive o justifique su utilización, ni se requerirá demostrar interés alguno.
 
-(NOTA: EL 3 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL SUBAPARTADO VIII.4., Y EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 206/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE MARZO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 54.
 
-La representación a que se refieren los artículos 122 de la Ley General y 123 de la Ley, podrá recaer en un tercero autorizado MEDIANTE UNA CARTA PODER FIRMADA ANTE DOS TESTIGOS, SIN NECESIDAD DE RATIFICACIÓN PREVIA DE FIRMAS NI FORMALIDAD ALGUNA. Cuando la solicitud de datos personales se haga por medios electrónicos y se actúe en representación de un tercero, la Unidad de Transparencia prevendrá al Solicitante para que acredite su personalidad.
+La representación a que se refieren los artículos 122 de la Ley General y 123 de la Ley, podrá recaer en un tercero autorizado en la solicitud de acceso a la información.
 
 ###### Artículo 55.
 
@@ -898,3 +930,11 @@ TERCERO. Se deroga el Acuerdo CFCE-145-2016 publicado en el Diario Oficial de la
 PUBLÍQUESE. Así lo acordó y firma el Pleno de la Comisión por unanimidad de votos, en la sesión de mérito, de conformidad con lo dispuesto en los artículos anteriormente citados a lo largo del presente acuerdo, ante la fe del Secretario Técnico, quien actúa con fundamento en los artículos 4, fracción IV, 18, 19 y 20, fracciones XXVI, XXVII y LVI del Estatuto Orgánico.
 
 La Presidenta, Alejandra Palacios Prieto.- Rúbrica.- Los Comisionados: Jesús Ignacio Navarro Zermeño, Martín Moguel Gloria, Benjamín Contreras Astiazarán, Eduardo Martínez Chombo, Brenda Gisela Hernández Ramírez, Alejandro Faya Rodríguez.- Rúbricas.- El Secretario Técnico, Sergio López Rodríguez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO NO. CFCE-141-2020 MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA”.]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
