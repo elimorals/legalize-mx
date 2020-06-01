@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2020-03-05"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -1039,7 +1039,9 @@ Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención 
 
 I. Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis viral y otras enfermedades infecciosas del aparato digestivo;
 
-II. Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
+> <small>(REFORMADA, B.O. 1 DE JUNIO DE 2020)</small>
+
+II. Influenza epidémica, enfermedad por coronavirus (COVID-19), otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
 
 III. Tuberculosis;
 
@@ -1071,11 +1073,15 @@ Es obligatoria la notificación a la autoridad sanitaria más cercana, de las si
 
 I. Inmediatamente, en los casos individuales de enfermedades objeto del Reglamento Sanitario Internacional: fiebre amarilla, peste y cólera;
 
-II. Inmediatamente, en los casos de cualquier enfermedad que se presente en forma de brote o epidemia;
+> <small>(REFORMADA, B.O. 1 DE JUNIO DE 2020)</small>
+
+II. Inmediatamente, en lo (sic) casos de cualquier enfermedad que se presente en forma de brote o epidemia. Siempre se considerará en esta clasificación, aquellas enfermedades que motivaron una declaración de pandemia por parte de la Organización Mundial de la Salud o las que motivaron una declaración de contingencia o emergencia sanitaria por parte de autoridad estatal o federal facultada;
 
 III. En un plazo no mayor de veinticuatro horas en los casos individuales de enfermedades objeto de vigilancia internacional: poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria, los casos humanos de encefalitis equina venezolana e igualmente los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada, así como los de importancia para el Estado; y
 
-IV. Notificación obligatoria inmediata a la autoridad sanitaria más cercana de los casos en que se detecte la presencia del virus de la Inmunodeficiencia Humana (VIH) o de anticuerpos de dichos virus en alguna persona.
+> <small>(REFORMADA, B.O. 1 DE JUNIO DE 2020)</small>
+
+IV. Notificación obligatoria inmediata a la autoridad sanitaria más cercada (sic) de los casos que se detecte en alguna persona la presencia del virus de la Inmunodeficiencia Humana (VIH) o anticuerpos de dicho virus, enfermedad por coronavirus (COVID-19) o la presencia de cualquier tipo (sic) virus causante del síndrome respiratorio agudo grave (SARS).
 
 ###### ARTICULO 99.
 
@@ -1152,6 +1158,34 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 ###### ARTICULO 110.
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinfección de alto nivel, desinsectación u otras medidas de saneamientos de lugares, edificios, vehículos y objetos.
+
+> <small>(ADICIONADO, B.O. 1 DE JUNIO DE 2020)</small>
+
+ARÍCULO (SIC) 110 BIS.- En los casos de que una enfermedad transmisible motive a la autoridad federal o estatal facultada, la emisión de una declaración temporal de emergencia o contingencia sanitaria para la totalidad o una parcialidad del territorio del Estado, el Gobierno del Estado tomará, en el máximo nivel de transmisibilidad de la mencionada declaración y con cargo al presupuesto público, medidas para propiciar el fortalecimiento de las instituciones públicas integrantes del Sistema Estatal de Salud en beneficio de las personas que ejerzan la medicina, que realicen actividades afines o cualquiera que se desenvuelva como personal de salud del sector público que presten sus servicios en el Estado, de sus familiares y dependientes, debiendo asegurar adicionalmente a otras condiciones laborales y prestaciones prexistentes (sic):
+
+I.- El pago de bono extraordinario a los trabajadores de la salud que estén en contacto directo con los pacientes contagiados con la enfermedad trasmisible, de cuando menos el cinco por ciento del salario;
+
+II.- La habilitación de alojamientos o albergues suficientes o, en su caso, pago suficiente de apoyo para alojamiento o albergue para trabajadores de la salud y prestadores de servicio social que directamente traten o estén en contacto con los pacientes contagiados con la enfermedad transmisible y que sea de tales características que ponga en riesgo de contagio a sus familiares o cohabitantes;
+
+III.- La dotación completa y suficiente de equipo de protección de contagios a los trabajadores de la salud y prestadores de servicio social que traten o estén en contacto con pacientes contagiados o con sospecha de contagio de la enfermedad trasmisible;
+
+IV.- El pago de bono extraordinario para apoyo de alimentos o vales despensas adicionales, de cuando menos el cinco por ciento del sueldo base, a los trabajadores de la salud que directamente traten o estén en contacto con los pacientes contagiados con la enfermedad trasmisibles (sic);
+
+V.- El pago de apoyo económico para el pago de cuidados de dependientes de trabajadores de la salud, mientras atienden sus jornadas de servicio, en el caso de que la propia declaración de emergencia o contingencia médica obligue la suspensión de servicios de guarderías, casas hogares de adultos mayores, estancias para personas con discapacidad o similares. La Secretaría de Salud, emitirá los tabuladores con los que se calculará la base de estos apoyos;
+
+VI.- Se garantizará el servicio médico integral a los trabajadores de la salud, cualquiera que sea su relación laboral o de servicio social con cada una de las instituciones públicas que conforman el Sistema Estatal de Salud, en caso de que estos servidores enfermen durante la vigencia de la contingencia o emergencia;
+
+VII.- En caso de muerte o incapacidad total del trabajador de la salud o de prestador de servicio social, se pagará indemnización de cuando menos cinco mil días de salario base, cuando sean causadas por la enfermedad transmisible. En caso de fallecimiento de un prestador de servicio social por causa de la enfermedad transmisible, se tomará de base el salario del profesional correspondiente a la función que desempeñaba primordialmente, según los informes del director de la institución de adscripción. Esta indemnización podrá ser cubierta directamente con recursos presupuestales o por medio de la contratación de un seguro de vida y será pagada a los beneficiarios serán determinados por escrito por los trabajadores de la salud o prestadores de servicio social y de no haberlo hecho, se determinarán conforme a la ley;
+
+VIII.- Se otorgarán becas o estímulos educativos, hasta cumplir los 18 años, o los 25 años en caso de seguir estudiando en algún plantel del sistema (sic) educación nacional, a los dependientes de trabajadores de la salud de instituciones públicas que fallezcan o se incapaciten parcial o totalmente, a causa de contraer la enfermedad que motiva la declaración de contingencia o emergencia. Estas becas y estímulos serán entregados por el Gobierno del Estado, a través del Instituto de Becas y Estímulos Educativos del Estado de Sonora;
+
+IX.- En caso de muerte a consecuencia de la enfermedad trasmisible se pagarán a los deudos dos meses de salario por concepto de gastos funerarios;
+
+X.- La atención y seguimiento de enfermedades mentales, que pudieran contraer los trabajadores de la salud y prestadores de servicio social, a consecuencia de la exposición emocional causada por la emergencia o contingencia; y
+
+XI.- Las demás que se consideren pertinentes.
+
+El personal de salud que ya cuente con estos beneficios habitualmente o con equivalentes como el riesgo profesional, no gozarán de los mismos.
 
 ### CAPITULO IV. ACCIDENTES
 
@@ -3394,3 +3428,19 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado contará con una (sic) plazo de 180 días naturales contados a partir de la entrada en vigor de la presente Ley para adecuar sus reglamentaciones al presente decreto.
+
+B.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 117, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE SALUD PARA EL ESTADO DE SONORA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+La Secretaría de Hacienda en coordinación con la Secretaría de Salud, realizará las adecuaciones urgentes y necesarias para hacer frente a los requerimientos presupuestales inmediatos a consecuencia del Artículo Segundo de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para estar en posibilidad de dar cumplimiento de las disposiciones contenidas en el Artículo 110 BIS de la Ley de Salud del Estado de Sonora, que se adiciona en términos del Artículo Segundo del presente Decreto, la Secretaría de Salud deberá convocar al Titular de la Secretaría de Hacienda, al Titular de la Secretaría de la Contraloría General del Estado, al Titular del Instituto Superior de Auditoría y Fiscalización y a por lo menos un representante de organizaciones ciudadanas, con el objeto de integrar un Comité de Supervisión que implementará el proceso de asignaciones presupuestales y dará puntual seguimiento.
