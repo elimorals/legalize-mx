@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2019-12-22"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -15353,411 +15353,217 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA DENOMINACIÓN DEL PRESENTE TÍTULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2020)</small>
 
 ## Título Segundo. Del Registro Público de la Propiedad y del Comercio
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA DENOMINACIÓN DEL PRESENTE CAPÍTULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2020)</small>
 
 ### Capítulo Primero. De las oficinas del Registro Público de la Propiedad y del Comercio
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
 ###### Artículo 2898.
 
-Para efectos del presente Capítulo, el Registro Público de la Propiedad y del Comercio se denominará, en lo subsecuente, como Registro Público. Sus oficinas se establecerán en las poblaciones que determine el Gobernador del Estado.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2899.
 
-El Registro Público funcionará conforme al sistema y métodos que determine su reglamento, el cual fijará el número de secciones o divisiones de que se componga la oficina y en donde deban registrarse los títulos susceptibles de inscripción, así como los requisitos necesarios para desempeñar los cargos que requiere el funcionamiento de dicho Registro Público.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2900.
 
-La institución será pública. Los encargados de ésta, tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios o libros del Registro Público y de los documentos relacionados con los mismos, que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros y folios del Registro, así como certificaciones de existir o no anotaciones relativas a los bienes señalados o a cargo de ciertas personas.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
-Tratándose de testamentos, el Registro Público deberá remitir, vía electrónica, al Registro Nacional de Avisos de Testamento, el aviso de su depósito, con los datos conducentes.
-
-Cualquier consulta, trámite o solicitud que las autoridades locales o los habitantes en el Estado requieran hacer al Registro Nacional de Avisos de Testamento, se hará por conducto del Registro Público de la Propiedad y del Comercio. Para los testamentos ológrafos depositados en el Registro Público, se observará lo dispuesto en el artículo 1457.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2020)</small>
 
 ### Capítulo Segundo. Los títulos sujetos a registro De los efectos legales del registro
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
 ###### Artículo 2901.
 
-Se inscribirán en el Registro Público:
-
-I. Los títulos por los cuales se adquiere, transmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
-
-II. La constitución del patrimonio de familia;
-
-III. Los contratos de arrendamiento de bienes inmuebles por un período mayor de seis años y aquéllos en que haya anticipos de rentas por más de tres;
-
-IV. La condición resolutoria en las ventas de bienes inmuebles y muebles;
-
-V. Los contratos de prenda, cuando ésta haya quedado en poder de un tercero o del mismo deudor;
-
-VI. La escritura constitutiva de las asociaciones y la que la reforme;
-
-VII. La escritura constitutiva de las sociedades civiles y la que la reforme;
-
-VIII. Las asociaciones de beneficencia privada o asistencia social;
-
-IX. Las resoluciones judiciales o de árbitros o arbitradores que produzcan algunos de los efectos mencionados en la fracción I;
-
-X. Los testamentos por efectos de los cuales se deje la propiedad de bienes raíces o de derechos reales, haciéndose el registro después de la muerte del testador.
-
-Tratándose de la transmisión hereditaria de la vivienda de interés social o popular, se inscribirá la protocolización respectiva en calidad de título de propiedad;
-
-XI. En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo.
-
-En los casos previstos de las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia;
-
-XII. Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
-
-XIII. El testimonio de las informaciones ad perpétuam promovidas y protocolizadas, de acuerdo con lo que disponga el Código de Procedimientos Civiles del Estado de Querétaro; y
-
-XIV. Los demás títulos que la ley ordene expresamente que sean registrados.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2902.
 
-Los documentos que conforme a esta ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen, pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharse en cuanto le fueren favorables.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2903.
 
-Se inscribirán preventivamente, en el Registro Público de la Propiedad y del Comercio:
-
-I. Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos;
-
-II. El mandamiento y el acta de embargo que se haya hecho efectivo en bienes inmuebles el deudor;
-
-III. Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado, cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
-
-IV. Las providencias judiciales que ordenen el secuestro o prohíban la enajenación de bienes inmuebles o derechos reales;
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
-V. Los títulos presentados al Registro Público, cuya inscripción haya sido denegada o suspendida por el registrador;
-
-VI. Las fianzas legales o judiciales;
-
-VII. Las cédulas hipotecarias;
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
-VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con los bienes inscritos en el Registro Público; y
-
-IX. Cualquier otro título que sea inscribible, de acuerdo con este Código u otras leyes aplicables.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2904.
 
-La inscripción preventiva perjudicará a cualquier adquirente de la finca o de derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquélla y, en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
-
-En los casos de las fracciones IV y VIII del artículo anterior, podrá producirse el cierre del registro en los términos de la resolución correspondiente. En el caso de la fracción VI, la anotación no producirá otro efecto que el fijado por el artículo 2753.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2905.
 
-Los actos ejecutables, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero u otra entidad federativa, sólo se inscribirán concurriendo las circunstancias siguientes:
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
-I. Que tengan el carácter de inscribibles conforme a las disposiciones de este Código y del Reglamento del Registro Público de la Propiedad y del Comercio y requieren necesariamente de su inscripción en el Estado o país de que se trate;
-
-II. Que estén debidamente legalizados y, en su caso, traducidos por perito oficial; y
-
-III. Si fueran resoluciones judiciales, que se ordene su inscripción por la autoridad que corresponda; tratándose de las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con las leyes mexicanas y se ordena su ejecución la autoridad judicial competente.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2906.
 
-La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
-No obstante lo dispuesto en el párrafo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro Público aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante, en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
-
-Lo dispuesto en el párrafo anterior no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2907.
 
-El derecho registrado se presume que existe y que pertenece a su titular, en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión, tiene la posesión del inmueble inscrito.
-
-No podrá ejercitarse acción contradictoria del dominio del inmueble o derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
-
-En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales, se sobreseerá el procedimiento respectivo de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registro Público, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro Público.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2908.
 
-No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2020)</small>
 
 ### Capítulo Tercero. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
 ###### Artículo 2909.
 
-La inscripción de los títulos en el Registro Público, puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir o por el notario público que haya autorizado la escritura de que se trate.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2910.
 
-Sólo se registrarán:
-
-I. Los testimonios de escritura pública u otros documentos auténticos;
-
-II. Las sentencias y providencias judiciales, certificadas legalmente; y
-
-III. Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya constancia de que el registrador, el notario público o el juez de primera instancia respectivos, se cercioraron de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2911.
 
-El interesado presentará el título que va a ser registrado y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de fincas rústicas o urbanas, un croquis de esas fincas.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2912.
 
-Los registradores calificarán, bajo su responsabilidad, los documentos que se presenten para la práctica de alguna inscripción o anotación, la que suspenderá o denegará en los casos siguientes:
-
-I. Cuando el título presentado no sea de los que deben inscribirse o anotarse;
-
-II. Cuando el documento no revista las formas extrínsecas que establece la ley;
-
-III. Cuando los fedatarios ante quienes se haya otorgado o rectificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
-
-IV. Cuando el contenido del documento sea contrario a las leyes prohibitivas o de interés público;
-
-V. Cuando haya incompatibilidad entre el texto del documento y los asientos del registro; salvo los casos en que se demuestre la inexactitud registral;
-
-VI. Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real o cuando no se fije la cantidad máxima que garantice un gravamen, en el caso de obligaciones de monto indeterminado, excepto en los casos en que por la naturaleza de los bienes o del crédito otorgado no sea factible la individualización o la determinación correspondiente, siempre y cuando se fijen las bases para una u otra; y
-
-VII. Cuando falte algún otro requisito de forma que deba llenar el documento de acuerdo con este Código y otras leyes aplicables.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2913.
 
-En caso de que el registrador devuelva un documento sin registrar, tiene la obligación de hacer una inscripción preventiva, siempre y cuando el solicitante de la inscripción se inconforme con la negativa a su registro, en los términos establecidos en el Reglamento. Lo anterior, con la finalidad de que si la autoridad competente ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2914.
 
-Toda inscripción que se haga en el Registro Público, expresará las circunstancias siguientes:
-
-I. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse, su medida superficial, nombre y número si constare en el título o la referencia al registro anterior donde consten esos datos; asimismo, constará la mención de haberse agregado el croquis al legajo respectivo;
-
-II. La naturaleza, extensión, condiciones y cargas del derecho que se constituya, transmita, modifique o extinga;
-
-III. El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
-
-IV. Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr;
-
-V. Los nombres, estado civil, régimen conyugal y domicilios de las personas que por sí o por medio de representante hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven y las sociedades, por su razón social o denominación;
-
-VI. La naturaleza del acto o contrato;
-
-VII. La fecha del título y el funcionario que lo haya autorizado; y
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LA PRESENTE FRACCIÓN POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
-VIII. El día y la hora de la presentación del título en el Registro Público.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2915.
 
-El registrador que haga una inscripción sin cumplir con lo dispuesto en los artículos 2912, 2913 y 2914, será responsable de los daños y perjuicios que cause a los interesados, y sufrirá suspensión de empleo hasta por tres meses.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2916.
 
-El registro producirá sus efectos desde el día y la hora en que el documento se hubiera presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2917.
 
-Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el notario público ante quien se vaya a otorgar el instrumento, podrá solicitar al Registro Público certificado sobre la existencia e inexistencia de gravámenes en relación con los mismos. En dicha solicitud, que surtirá efectos de aviso preventivo a partir de su presentación, deberá mencionarse la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador practicará inmediatamente la nota de presentación en el folio o libro correspondiente, cuya vigencia se extenderá hasta los treinta días naturales contados a partir de la fecha de expedición del certificado.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo anterior, el notario público ante quien se otorgó, dentro del plazo de vigencia del aviso preventivo, dará aviso definitivo al Registro respecto de la operación de que se trate, el que contendrá, además de los datos mencionados en el párrafo anterior, la fecha de escritura y la de su firma. El registrador, con el aviso citado, practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de ciento ochenta días naturales, a partir de la fecha de presentación del aviso definitivo. Si éste se presenta dentro del término establecido para el aviso preventivo, sus efectos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el párrafo anterior; en caso contrario sólo surtirá efectos desde la fecha y hora en que fue presentado y según el número de entrada que le corresponda.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
-Si el testimonio respectivo se presenta al Registro Público dentro de cualquiera de los términos que se señalan en los dos párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso preventivo o, en su caso, desde la fecha de presentación del aviso definitivo, con arreglo a sus números de entrada. Si el testimonio se presenta vencidos los referidos plazos, su inscripción únicamente surtirá efectos desde la fecha y hora de su presentación.
-
-Si el documento en que conste alguna de las operaciones que se mencionan en el primer párrafo de este artículo fuere privado, deberá dar aviso definitivo el notario público o, en su caso, con arreglo a la ley, la autoridad que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo supuesto el aviso en cuestión surtirá los mismos efectos que el dado por los notarios respecto de instrumentos públicos.
-
-En virtud de lo dispuesto en los párrafos anteriores, los documentos que se presenten para inscripción o anotación en las partidas o folios en que aparezca un aviso preventivo o definitivo, no serán motivo de asiento registral alguno, mientras no caduque la vigencia de los términos señalados y solamente se anotarán en el control de entradas para el efecto de preservar su prioridad registral.
-
-No podrá presentarse más de un aviso preventivo por el mismo notario público, durante la vigencia de la nota a que se refiera el párrafo primero de este artículo.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2918.
 
-Los encargados del Registro Público son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar:
-
-I. Si rehúsan sin motivo legal o retardan sin causa justificada, la inscripción de los documentos que le sean presentados;
-
-II. Si rehúsan expedir con prontitud los certificados que les piden; y
-
-III. Si cometen omisiones al extender las certificaciones mencionadas, salvo si el error proviene de insuficiencia o inexactitud de las declaraciones, que no les sean imputables.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2919.
 
-En los casos de las fracciones I y II del artículo que precede, los interesados harán constar inmediatamente, por información judicial de dos testigos, el hecho de haberse rehusado el encargado del Registro, a fin de que pueda servirles de prueba en el juicio correspondiente.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2920.
 
-Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número. Asimismo, tratándose de testamentos, se remitirá, vía electrónica, al Registro Nacional de Avisos de Testamento, el aviso de su inscripción o depósito, con los datos conducentes.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2921.
 
-El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2020)</small>
 
 ### Capítulo Cuarto. Del registro de las informaciones de dominio
 
 ###### Artículo 2922.
 
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción de prescripción, por no estar inscrita en el Registro Público la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles del Estado de Querétaro. A su solicitud acompañará, precisamente, certificado del Registro Público que demuestre que los bienes no están inscritos.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
-La información se recibirá con citación del Ministerio Público, del respectivo registrador de la propiedad y de los colindantes.
-
-Los testigos deberán ser por lo menos tres, de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiera.
-
-No se recibirá la información sin que previamente se haya dado una amplia publicidad, por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
-
-Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración debidamente protocolizada se tendrá como título de propiedad y será inscrita en el Registro Público.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2020)</small>
 
 ### Capítulo Quinto. De las inscripciones de posesión
 
 ###### Artículo 2923.
 
-El que tenga una posesión, apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles del Estado de Querétaro.
-
-La información que se rinda para demostrar la posesión, se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo que precede.
-
-Las declaraciones de los testigos versarán sobre el hecho de la posesión y sobre los requisitos que deben tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
-
-El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la misma inscripción.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2924.
 
-Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y, además, las siguientes:
-
-I. Los nombres de los testigos que hayan declarado;
-
-II. El resultado de las declaraciones; y
-
-III. La resolución judicial que ordena la inscripción.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2925.
 
-Cualquiera que se crea con derecho a los bienes cuya inscripción se solicite mediante información de posesión, podrá alegarlo ante la autoridad judicial competente.
-
-La interposición de su demanda suspenderá el curso del expediente de información; si estuviere ya concluido y aprobado, deberá el juez ponerlo en conocimiento del registrador para que suspenda la inscripción y si ya estuviera hecha, para que anote la inscripción de la demanda. Para que se suspenda la tramitación del expediente o de la inscripción, así como para que se haga la anotación de ésta, es necesario que el demandante otorgue fianza para responder de los daños y perjuicios que se originen si su oposición se declara infundada, salvo el caso de que funde su oposición en título debidamente inscrito.
-
-Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará sin efecto haciéndose en su caso la cancelación que proceda.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2926.
 
-Transcurridos cinco años, sin que en el Registro Público aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción y ordene que se haga en el Registro Público la inscripción de dominio correspondiente.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
-###### Artículo 2927.
+###### Artículo 2926.
 
-No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2020)</small>
 
 ### Capítulo Sexto. De la extinción de las inscripciones
 
 ###### Artículo 2928.
 
-Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación o por el registro de la transmisión del dominio o derecho real inscrito a otra persona.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2929.
 
-Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2930.
 
-La cancelación de las inscripciones podrá ser total o parcial.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2931.
 
-Podrá pedirse y deberá ordenarse, en su caso, la cancelación total:
-
-I. Cuando se extinga por completo el inmueble objeto de la inscripción;
-
-II. Cuando se extinga también por completo el derecho inscrito;
-
-III. Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
-
-IV. Cuando se declare la nulidad de la inscripción; y
-
-V. Cuando sea enajenado judicialmente el inmueble que reporte el gravamen.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2932.
 
-Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
-
-I. Cuando se reduzca el inmueble objeto de la inscripción; y
-
-II. Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2933.
 
-Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas se encuentren legitimadas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2934.
 
-Si para cancelar el registro se pusiere alguna condición, se requiere, además, el cumplimiento de ésta.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2935.
 
-Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajene.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2936.
 
-Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2937.
 
-Los padres, como administradores de los bienes de sus hijos, los tutores de menores o incapacitados y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2938.
 
-La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse:
-
-I. Presentándose la escritura otorgada por lo que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
-
-II. Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos; y
-
-III. Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2939.
 
-Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar, por acta notarial, estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2940.
 
-Procederá también la cancelación total si se presentaren, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegure el pago de los restantes, consignándose su importe y el de los intereses que procedan.
-
-La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles del Estado de Querétaro.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2941.
 
-Podrán cancelarse parcialmente las inscripciones hipotecarias de que trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2942.
 
-Las cancelaciones se harán en la forma que fije el reglamento, pero deberán contener, para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa por que se hace la cancelación y su fecha.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### Artículo 2943.
 
-Las inscripciones preventivas, cualquiera que sea su origen, caducarán a los tres años de su fecha, salvo aquéllas a las que se les fije un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que los decretaron, podrá prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO OCTAVO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE PÁRRAFO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
-La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; en este supuesto, cualquier interesado podrá solicitar al Director del Registro Público de la Propiedad y del Comercio, que se registre la cancelación de dicho asiento.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ## TRANSITORIOS
 
@@ -16278,3 +16084,15 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE EXPIDE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO; Y REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las disposiciones aplicables a la firma electrónica de los servidores públicos del Registro Público de la Propiedad y demás trámites a través de medios electrónicos, se implementarán gradualmente conforme a las bases y lineamientos que publique el Registro Público, de conformidad con la suficiencia presupuestal y las capacidades para desarrollar la infraestructura tecnológica.
+
+Artículo Tercero. Las disposiciones aplicables a la la (sic) firma electrónica notarial, así como las relacionadas con el apéndice electrónico, folio electrónico, protocolo electrónico, registro de cotejos electrónico y demás trámites a través de medios electrónicos, se implementarán gradualmente conforme a las bases y lineamientos que publique el Archivo General de Notarías, de conformidad con la suficiencia presupuestal y las capacidades para desarrollar la infraestructura tecnológica.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
