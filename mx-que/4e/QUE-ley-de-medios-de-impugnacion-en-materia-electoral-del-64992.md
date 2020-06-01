@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-medios-de-impugnacion-en-materia-electoral-del-64992"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2017-06-01"
+last_updated: "2020-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 1 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2008.
 
@@ -1496,3 +1498,15 @@ Artículo Primero. La presente Ley entrará en vigor el día de su publicación 
 Artículo Segundo. Se abrogan todas las disposiciones legales vigentes de igual o menor jerarquía en la materia, o que resulten contrarias a la presente Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE EXPIDE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
+
+Artículo Segundo. Se abroga la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” en fecha 20 de diciembre de 2008, así como todas sus reformas.
+
+Artículo Tercero. Se abrogan todas las disposiciones legales vigentes de igual o menor jerarquía en la materia, o que resulten contrarias a la presente Ley.
+
+Artículo Cuarto. Los asuntos que se encuentren en trámite o pendientes de resolución, surgidos con anterioridad a la entrada en vigor de la presente Ley, se sustanciarán y resolverán hasta su total conclusión, conforme a las normas del ordenamiento vigente al momento de su inicio.
