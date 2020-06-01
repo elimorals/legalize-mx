@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2020-01-24"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE ENERO DE 2020.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -711,7 +709,9 @@ XVII. Dos representantes de Colectivos y Organizaciones No Gubernamentales, mism
 
 XVIII. Un representante de colegios y asociaciones de arquitectos e ingenieros de Nuevo León, designados por el Congreso del Estado, previa convocatoria pública.
 
-Los integrantes que señalan la fracción XVII durarán en su encargo un año a partir de su nombramiento. Los cargos dentro de la Junta de Gobierno serán de carácter honorífico, no obstante lo anterior, por los actos de Autoridad emitidos dentro de la Junta de Gobierno, serán sujetos de responsabilidad en los términos de la Ley de Responsabilidades Administrativas del Estado. Cada integrante deberá designar un suplente para que, debidamente acreditado, cubra sus ausencias temporales. La designación del suplente deberá recaer en una misma persona esta atribución es indelegable, a fin de garantizar la continuidad de los trabajos. Cuando un presidente municipal designe suplente, éste deberá ser otro presidente municipal. En el caso del Presidente de la Junta de Gobierno, su ausencia será suplida por el Secretario de Desarrollo Sustentable. En el caso de los Secretarios del Gabinete, su suplente deberá ser un subsecretario.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+Los integrantes que señalan la fracción XVII y XVIII durarán en su encargo un año a partir de su nombramiento. Los cargos dentro de la Junta de Gobierno serán de carácter honorífico, no obstante lo anterior, por los actos de Autoridad emitidos dentro de la Junta de Gobierno, serán sujetos de responsabilidad en los términos de la Ley de Responsabilidades Administrativas del Estado. Cada integrante deberá designar un suplente para que, debidamente acreditado, cubra sus ausencias temporales. La designación del suplente deberá recaer en una misma persona; esta atribución es indelegable a fin de garantizar la continuidad de los trabajos. Cuando un presidente municipal designe suplente, éste deberá ser otro presidente municipal. En el caso del Presidente de la Junta de Gobierno, su ausencia será suplida por el Secretario de Desarrollo Sustentable. En el caso de los Secretarios del Gabinete, su suplente deberá ser un subsecretario.
 
 Los Presidentes Municipales Metropolitanos, serán designados por la Comisión de Ordenamiento Metropolitano de Desarrollo Urbano de la Zona Metropolitana de Monterrey por un periodo de un año, a falta de ésta por la Comisión de la Zona Conurbada de Monterrey.
 
@@ -1419,11 +1419,17 @@ IX. Portar de manera visible en el vehículo del servicio público y especial de
 
 X. Contar con terminales para la salida y llegada de sus vehículos, así como lugares para el estacionamiento, pernocta y mantenimiento, fuera de la vía pública.
 
-###### Artículo 78.
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
 
-(Sic) El transporte público de pasajeros y el transporte regional, referidos en las fracciones I y II del artículo anterior, cuando no sean brindados directamente por el Estado, únicamente podrán brindarse mediante la concesión o permiso respectivo.
+###### Artículo 76.
 
-Los prestadores de este servicio garantizarán que sus vehículos cuenten por lo menos con:
+El transporte público de pasajeros y el transporte regional, referidos en el artículo 74 de esta Ley, cuando no sean brindados directamente por el Estado, únicamente podrán brindarse mediante la concesión o permiso respectivo.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+###### Artículo 77.
+
+Los prestadores del SETRA garantizarán que sus vehículos cuenten por lo menos con:
 
 I. Antigüedad no mayor a diez años; con excepción de que los vehículos empleen energías limpias, para lo cual la Junta de Gobierno podrá otorgar una antigüedad mayor considerando la dictaminación que haga el Comité Técnico basado en el costo de la unidad y la vida útil de la misma;
 
@@ -1435,13 +1441,17 @@ IV. Póliza Vigente de seguro de vehículo con cobertura amplia que cubra a cada
 
 V. Verificación vehicular anual en los términos que les señale el Instituto.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+###### Artículo 78.
+
 Tratándose de la modalidad de transporte público de pasajeros, adicionalmente deberán contar con un sistema de localización vía satelital que pueda ser monitoreado desde el Centro de Gestión de Movilidad, en cada uno de los vehículos sujetos a la concesión, que permita generar la información de la ruta, ubicación y destino del vehículo.
 
 Para garantizar la seguridad a las usuarias y usuarios los vehículos deberán contar con un Sistema de Video Vigilancia, así como un botón de pánico, en los términos que se precise por el Centro de Gestión de movilidad quien podrá vincular dicha información con la Autoridad responsable de seguridad.
 
 El Comité técnico establecerá los lineamientos que deben cubrir los dispositivos enunciados en los párrafos anteriores.
 
-La violación a este artículo será considerada grave para efectos de sanciones.
+La violación a los artículos 76, 77 y 78 de esta Ley, serán consideradas graves para efectos de sanciones.
 
 ###### Artículo 79.
 
@@ -1757,9 +1767,9 @@ Los automóviles particulares de motor de combustión interna de combustible fó
 
 El Instituto emitirá en el Reglamento las modalidades para el cumplimiento de este artículo.
 
-#### SECCIÓN CUARTA. SISTEMA DE TRANSPORTE CON DESTINO ESPECÍFICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2020)</small>
 
-STDE
+#### SECCIÓN CUARTA. SERVICIO DE TRANSPORTE CON DESTINO ESPECÍFICO STDE
 
 ###### Artículo 115.
 
@@ -1863,7 +1873,9 @@ Los municipios en sus reglamentos de tránsito deberán de establecer los lineam
 
 En caso de que dichos vehículos sean ofrecidos como servicio al público de traslado de personas, el prestador del servicio requerirá permiso del Instituto previo dictamen favorable del Comité Técnico en los términos del Reglamento. Debiendo contar con las autorizaciones municipales correspondientes.
 
-#### SECCIÓN PRIMERA. PERMISOS DE TRANSPORTE PÚBLICO
+#### SECCIÓN PRIMERA. PERMISOS DE TRANSPORTE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ## TÍTULO SEXTO. SISTEMA DE PLANEACIÓN DE LA MOVILIDAD
 
@@ -2068,6 +2080,8 @@ El Instituto realizará el pago a los concesionarios y prestadores del SETRA se 
 La operación y administración del sistema único de peaje es responsabilidad y atribución del Instituto.
 
 ### CAPÍTULO SEGUNDO. PERMISOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 150.
 
@@ -2363,7 +2377,7 @@ PERMISOS DE TRANSPORTE DE CARGA Y DEL SETIAP.
 
 ###### Artículo 171.
 
-El permiso de transporte público es el acto administrativo por medio del cual el Instituto puede conferir a una persona moral la prestación temporal del servicio de transporte de personas, en los términos de esta Ley y su Reglamento.
+El permiso de transporte es el acto administrativo por medio del cual el Instituto puede conferir a una persona moral la prestación temporal del servicio de transporte de personas, en los términos de esta Ley y, su Reglamento.
 
 El Reglamento de la Ley establecerá el procedimiento para el otorgamiento, terminación y revocación de los permisos, así como las condiciones a las que habrá de sujetarse la operación y funcionamiento de cada una de las modalidades de servicio.
 
@@ -2373,7 +2387,9 @@ Son susceptibles de permiso, en los términos de esta Ley y su Reglamento, las s
 
 I. El SETME;
 
-II. El SETRAS; y el
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+II. El SETRA; y el
 
 III. EL STDE.
 
@@ -2495,7 +2511,7 @@ Los municipios en los términos de las Leyes aplicables, podrán implementar sub
 
 (sic) Gobierno del Estado podrá otorgar incentivos fiscales a los concesionarios o permisionarios que presten cualquiera de las modalidades de transporte establecidas en esta Ley, para facilitar la adquisición de vehículos que utilicen energías limpias, así como vehículos adaptados para personas con discapacidad.
 
-### CAPÍTULO SEGUNDO. MEDIDAS DE SEGURIDAD
+### CAPÍTULO PRIMERO. MEDIDAS DE SEGURIDAD
 
 ###### Artículo 186.
 
@@ -2507,7 +2523,7 @@ Los municipios, mediante convenio con el Instituto podrán solicitar el apoyo de
 
 ## TÍTULO DÉCIMO PRIMERO. INSPECCIÓN Y VIGILANCIA
 
-### CAPÍTULO TERCERO. INFRACCIONES
+### CAPÍTULO SEGUNDO. INFRACCIONES Y SANCIONES
 
 #### SECCIÓN SEGUNDA
 
@@ -2531,7 +2547,7 @@ El Instituto podrá verificar la vigencia del permiso otorgado o la falta de est
 
 Los Reglamentos de Tránsito y Movilidad establecerán las normas para la seguridad vial y uso de vías para los automóviles particulares, medios no motorizados y micromovilidad, y los municipios vigilarán el cumplimiento.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN PRIMERA. SANCIONES AL TRANSPORTE PÚBLICO
 
 ###### Artículo 191.
 
@@ -2555,11 +2571,13 @@ A continuación se procederá a firmar el acta por la persona con quien se enten
 
 La autoridad que expida la orden de visita podrá solicitar el auxilio de la fuerza pública para efectuarla cuando alguna o algunas de las personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
 
-## TÍTULO DÉCIMO TERCERO. DELITOS
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
 
-### CAPÍTULO CUARTO
+## TÍTULO DÉCIMO SEGUNDO. MEDIDAS DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
-SANCIONES A AUTOMOVILISTAS PARTICULARES, MEDIOS NO MOTORIZADOS, PEATONES Y MICROMOVILIDAD.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO ÚNICO.
 
 ###### Artículo 194.
 
@@ -2637,7 +2655,9 @@ Siempre que la autoridad ejecute cualquiera de las medidas de seguridad establec
 
 Las medidas de seguridad a que hace referencia el presente Capítulo, deberán inscribirse en el Sistema de Información que contempla la presente Ley.
 
-### CAPÍTULO ÚNICO.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO DE SANCIÓN
 
 ###### Artículo 207.
 
@@ -2679,7 +2699,11 @@ III. Retiro de la circulación de vehículos, previo acuerdo por escrito.
 
 El plazo de prescripción para la aplicación de las sanciones será de cinco años y empezará a computarse desde el día en que se hubiere cometido la infracción si fuera consumada, o desde que cesó; si fuera continúa.
 
-#### SECCIÓN SEGUNDA. SANCIONES AL TRANSPORTE PÚBLICO
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+#### SECCIÓN SEGUNDA. SANCIONES AL SETIAP, STDE Y AL TRANSPORTE DE CARGA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 213.
 
@@ -2709,11 +2733,13 @@ Se considera reincidente al infractor que incurra más de una vez en conductas q
 
 El prestador del servicio será responsable solidario de los conductores de sus autobuses, únicamente por los daños y perjuicios que se cometan con motivo de la prestación del servicio de transporte público.
 
-#### SECCIÓN TERCERA. SANCIONES AL SETIAP Y AL TRANSPORTE DE CARGA
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+#### SECCIÓN TERCERA. SANCIONES A AUTOMOVILISTAS PARTICULARES, MEDIOS NO MOTORIZADOS, PEATONES Y MICROMOVILIDAD
 
 ###### Artículo 214.
 
-Las sanciones para el SETIAP, las impondrá el Instituto, por la violación a los preceptos de esta Ley o su Reglamento y demás disposiciones son las siguientes:
+Las sanciones para el SETIAP y el STDE, las impondrá el Instituto, por la violación a los preceptos de esta Ley o su Reglamento y demás disposiciones son las siguientes:
 
 I. Amonestación;
 
@@ -2775,13 +2801,15 @@ XVIII. Por no cumplir con las disposiciones operativas y de seguridad que se est
 
 XIX. Por transitar sin el permiso establecido en el artículo 91 expedido por el Instituto se impondrá multa de 495 a 500 UMAs.
 
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 216.
 
 Las sanciones a automovilistas particulares, medios no motorizados, peatones y medios de micromovilidad se establecerán en los reglamentos municipales.
 
-## TÍTULO DÉCIMO CUARTO. PROCEDIMIENTO ADMINISTRATIVO
+## TÍTULO DÉCIMO TERCERO. DELITOS
 
-### CAPÍTULO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO DE SANCIÓN
+### CAPÍTULO SEGUNDO. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 217.
 
@@ -2807,9 +2835,7 @@ Los delitos contenidos en los Artículos 217 al 219 de ésta Ley se perseguirán
 
 El o los responsables de cualquiera de los delitos contemplados en este capítulo, no tendrán derecho a solicitar y obtener concesión o permiso alguno para la prestación de servicio público de transporte de pasajeros. A efecto, se hará de conocimiento del Sistema Estatal de Información y Registro de Transporte, el nombre y demás datos personales de quien haya cometido alguno de los delitos en comento, a fin de que se proceda al registro correspondiente.
 
-## TÍTULO DÉCIMO QUINTO. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
-
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
+## TÍTULO DÉCIMO CUARTO. PROCEDIMIENTO ADMINISTRATIVO
 
 ### CAPÍTULO SEGUNDO. RECURSO DE INCONFORMIDAD
 
@@ -2854,6 +2880,10 @@ El promovente y el Instituto, deberán sujetarse a los requisitos, elementos, t�
 ###### Artículo 231.
 
 En contra de los actos o resoluciones que dicte la Autoridad en aplicación a esta Ley, su Reglamento y disposiciones que de ella emanen, los afectados podrán, de manera optativa, interponer el recurso de inconformidad a que se refiere este Capítulo, o acudir al Tribunal de Justicia Administrativa.
+
+## TÍTULO DÉCIMO QUINTO. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
+
+> <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
 
 ###### Artículo 232.
 
@@ -2952,3 +2982,19 @@ EL C. SECRETARIO DE DESARROLLO SUSTENTABLE
 JOSÉ MANUEL VITAL COUTURIER
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE A LA PROMULGACIÓN DEL DECRETO NÚM. 260 EXPEDIDO POR EL H. CONGRESO DEL ESTADO, LXXV LEGISLATURA, EN FECHA 18 DE DICIEMBRE DE 2019, REMITIDO AL PODER EJECUTIVO EL DÍA 20 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 301. SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 27 DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El representante de Colegios y Asociaciones de Arquitectos e Ingenieros de Nuevo León designado el 19 de febrero del 2020 por la Septuagésima Quinta Legislatura, durará en su encargo hasta por un periodo igual por el que fueron designados los dos representantes de Colectivos y Organizaciones No Gubernamentales, de conformidad a lo señalado en el artículo Único del presente Decreto.
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 305. SE REFORMAN POR ADICIÓN Y MODIFICACIÓN DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
