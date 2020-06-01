@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2020-02-21"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -82,6 +82,10 @@ El Poder Legislativo del Estado, con el voto de la mayoría calificada de sus in
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 Como domicilio oficial del Poder Legislativo del Estado de Querétaro, se tendrá el ubicado en Avenida Fray Luis de León número 2920, Colonia Centro Sur en la Ciudad de Santiago de Querétaro.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+En caso de circunstancias extraordinarias que impidan llevar a cabo una sesión presencial, ésta podrá llevarse a cabo de forma virtual, previo Acuerdo emitido por la Presidencia de la Mesa Directiva.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -1695,11 +1699,19 @@ XXIII. Celebrar convenios de colaboración a nombre de la Legislatura, de confor
 
 XXIV. Rendir ante la Legislatura, en el mes de julio, el informe anual de actividades del Poder Legislativo;
 
-XXV. Declarar recesos, cuando concurran causas que dificulten el curso normal de las deliberaciones o cuando con ello se favorezca la obtención de consensos; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+XXV. Declarar recesos, cuando concurran causas que dificulten el curso normal de las deliberaciones o cuando con ello se favorezca la obtención de consensos;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+XXVI. Emitir Acuerdo para que el Pleno y las Comisiones, sesionen de forma virtual cuando las circunstancias extraordinarias así lo justifiquen.
+
+Dicho Acuerdo contendrá las condiciones especiales habilitantes o restrictivas para su desarrollo respecto del orden del día, pase de lista, plataforma tecnológica, transmisión o difusión, entre otras; y
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
-XXVI. Las demás facultades que le señalen la presente Ley, la Mesa Directiva, el Pleno de la Legislatura y demás disposiciones vigentes.
+XXVII. Las demás facultades que le señalen la presente Ley, la Mesa Directiva, el Pleno de la Legislatura y demás disposiciones vigentes.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2174,6 +2186,10 @@ La Comisión Instructora sesionará de manera reservada y sus integrantes estar�
 (Sede de sesión y votaciones en las sesiones de Comisiones) Las Comisiones sesionarán en los recintos oficiales del Poder Legislativo o fuera de éstos, por acuerdo de la propia Comisión.
 
 El Presidente tendrá voto de calidad en caso de empate en la votación de los asuntos que resuelvan.
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+En caso de circunstancias extraordinarias que impidan llevar a cabo una sesión presencial, ésta podrá llevarse a cabo de forma virtual, previo Acuerdo emitido por la Presidencia de la Mesa Directiva.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3273,7 +3289,7 @@ P.O. 27 DE SEPTIEMBRE DE 2019.
 
 Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del Estado de Querétaro.
 
-Articulo Segundo. Se derogan todas las disposiciones contrarias a la presente Ley.
+Artículo Segundo. Se derogan todas las disposiciones contrarias a la presente Ley.
 
 Artículo Tercero. Las disposiciones previstas en el artículo 89 de la presente Ley, relativas a la participación de la persona intérprete en las sesiones del Pleno, contarán con un año a partir de la aprobación de la misma para su aplicación, plazo que será otorgado a efecto de que se capacite al personal del Poder Legislativo del Estado de Querétaro en el Lenguaje de Señas Mexicana, debiendo atender a la suficiencia presupuestaria que implica.
 
@@ -3292,3 +3308,15 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. La Presidencia de la Mesa Directiva determinará, mediante Acuerdo y de conformidad con el contenido de la presente Ley, si existen asuntos que requieran ser turnados o reasignados para trabajos en comisiones unidas, debiendo ínstruir, en su caso, a la Secretaría de Servicios Parlamentarios el apoyo para realizar el trámite respectivo, debiendo informar de ello a los presidentes de las comisiones involucradas.
 
 Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, HABILITANDO LAS SESIONES VIRTUALES DEL PLENO Y DE COMISIONES, CUÁNDO EXISTAN CIRCUNSTANCIAS EXTRAORDINARIAS”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del Estado de Querétaro".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
+
+Artículo Tercero. Para la realización de sesiones virtuales, se aplicarán las Reglas para el desahogo de sesiones virtuales del Pleno y de las Comisiones de la Quincuagésima Novena Legislatura del Estado de Querétaro, cuando por causas extraordinarias no sea posible llevarlas a cabo de manera presencial, contenidas en el Anexo que forma parte integrante de la presente Ley
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
