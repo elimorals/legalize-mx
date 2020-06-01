@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-tribunal-electoral-del-estado-de-queretaro-101
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-06-29"
-last_updated: "2019-08-23"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JULIO DE 2020 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el domingo 29 de junio de 2014.
 
@@ -47,9 +49,11 @@ LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO
 
 La presente Ley es de interés general, orden público y de observancia general en el Estado; es reglamentaria del segundo párrafo del artículo 32 de la Constitución Política del Estado de Querétaro; establece la autoridad jurisdiccional del Estado facultada para resolver sobre las controversias en la materia electoral local que prevé el artículo 116, fracción IV, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 2.
 
-La justicia electoral se administra por el Estado a través de la función jurisdiccional, ejercida por magistrados independientes, imparciales, responsables y sometidos únicamente al imperio de la Ley.
+La justicia electoral se imparte por el Estado a través de la función jurisdiccional, ejercida por magistratura (sic) independientes, imparciales, responsables, quienes únicamente se sometan al imperio de la Ley.
 
 Es obligación de la autoridad jurisdiccional:
 
@@ -59,9 +63,11 @@ II. Ejercer la función jurisdiccional gratuitamente; y
 
 III. Las demás que las leyes les impongan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 3.
 
-Es objeto de esta Ley, regular la organización, funcionamiento y atribuciones del Tribunal Electoral del Estado de Querétaro, a quien corresponde interpretar y aplicar las leyes en asuntos jurisdiccionales del orden electoral local y en materia federal cuando las leyes conducentes así lo faculten.
+Es objeto de esta Ley, regular la organización, funcionamiento y competencia del Tribunal Electoral del Estado de Querétaro, al que corresponde interpretar y aplicar las leyes en asuntos jurisdiccionales del orden electoral local y en materia federal cuando las leyes conducentes así lo faculten.
 
 Para todos los efectos de la presente Ley, se entenderá por:
 
@@ -75,9 +81,13 @@ IV. Tribunal: El Tribunal Electoral del Estado de Querétaro;
 
 V. Pleno: El Pleno del Tribunal Electoral del Estado de Querétaro;
 
-VI. Presidente: El Presidente del Tribunal Electoral del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-VII. Magistrado: El Magistrado del Tribunal Electoral del Estado de Querétaro;
+VI. Presidencia: Persona Titular de la Presidencia del Tribunal Electoral del Estado de Querétaro;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+VII. Magistratura: Magistrada o Magistrado del Tribunal Electoral del Estado de Querétaro;
 
 VIII. Instituto: El Instituto Electoral del Estado de Querétaro; y
 
@@ -87,11 +97,13 @@ IX. Legislatura: Legislatura del Estado de Querétaro.
 
 Para lo no previsto en la presente Ley y que resulte necesario para el funcionamiento del Tribunal o para el ejercicio de sus funciones, será de aplicación supletoria, en lo conducente, la Ley Orgánica del Poder Judicial del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 5.
 
-Los Poderes del Estado, los Ayuntamientos, los organismos constitucionalmente autónomos y sus dependencias son auxiliares de la administración de justicia electoral y están obligados a garantizar y facilitar el ejercicio de las funciones de auxilio a la administración de justicia electoral, en los términos que establezca la Ley Electoral y en las demás disposiciones legales que les resulten aplicables.
+Los Poderes del Estado, los Ayuntamientos, los organismos constitucionalmente autónomos y sus dependencias son auxiliares de la impartición de justicia electoral y están obligados a coadyuvar con el ejercicio de la función jurisdiccional en la materia, en los términos que establezca la Ley Electoral y en las demás disposiciones legales que les resulten aplicables.
 
-Asimismo, tendrán carácter de auxiliares de la administración de justicia electoral, los particulares, los partidos políticos, notarios y corredores públicos.
+Asimismo, tendrán carácter de auxiliares de la jurisdicción electoral, la ciudadanía, el notariado y los partidos políticos.
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN
 
@@ -113,11 +125,13 @@ El Pleno del Tribunal se conformará por tres magistrados que actuarán de forma
 
 Ordinariamente el Tribunal residirá en el Municipio de Querétaro y extraordinariamente en el lugar donde determine el Pleno, siempre dentro del Territorio del Estado de Querétaro y su organización, funcionamiento y competencia, se ajustará a lo dispuesto por la Constitución, por la presente Ley y las demás que emita el Poder Legislativo del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 9.
 
-El Tribunal funcionará en Pleno, de conformidad con lo que establece la presente Ley.
+El Tribunal funcionará en Pleno, de conformidad con lo dispuesto por la presente Ley.
 
-Contará con un Secretario General de Acuerdos, Secretarios Proyectistas y Actuarios, así como con el personal que requiera y que autorice su presupuesto de egresos para el ejercicio de sus funciones.
+Contará con una secretaria o un secretario general de acuerdos, secretarias y secretarios de acuerdos y proyectistas, actuarias y actuarios, así como, con el personal que requiera y que se autorice en el presupuesto de egresos respectivo para el ejercicio de sus funciones.
 
 ###### Artículo 10.
 
@@ -143,31 +157,45 @@ En tanto se lleve a cabo el procedimiento y siempre que existan asuntos de urgen
 
 El Tribunal podrá implementar los sistemas electrónicos de gestión o de control que requiera para el ejercicio de sus atribuciones.
 
-### CAPÍTULO II. ATRIBUCIONES DEL TRIBUNAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO II. COMPETENCIA DEL TRIBUNAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 13.
 
-El Tribunal tiene las siguientes atribuciones:
+El Tribunal es competente de lo siguiente:
 
 I. Ejercer la función jurisdiccional en materia electoral, de manera pronta, completa, imparcial y gratuita;
 
 II. Ajustar invariablemente sus actos, procedimientos y resoluciones, a los principios y normas aplicables y solicitar, en su caso, el apoyo de las autoridades estatales, municipales y federales;
 
-III. Dictar, en la esfera de su competencia, las providencias necesarias para que la administración de la justicia electoral sea eficaz, pronta y expedita;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-IV. Auxiliar a los órganos jurisdiccionales en materia electoral federal y de otras entidades y demás autoridades, en los términos que determinen las leyes relativas;
+III. Dictar, en la esfera de su competencia, las providencias necesarias para que la impartición de la justicia electoral sea eficaz, pronta y expedita;
 
-V. Diligenciar exhortos, requisitorias y despachos en materia electoral que les envíen autoridades de la federación y de otras entidades federativas, que se ajusten a la ley;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+IV. Auxiliar a los órganos jurisdiccionales en materia electoral tanto del orden federal, como de otras entidades federativas y demás autoridades, en los términos que determinen las leyes relativas;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+V. Diligenciar exhortos, requisitorias y despachos en materia electoral que les envíen autoridades de la federación y de otras entidades federativas, en apego a la ley;
 
 VI. Proporcionar a las autoridades competentes, los datos e informes que soliciten de acuerdo a la ley;
 
 VII. Resolver, sobre la determinación e imposición de sanciones en la materia;
 
-VIII. Elaborar anualmente el proyecto de presupuesto de egresos y enviarlo al Poder Ejecutivo y al Poder Legislativo;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+VIII. Elaborar anualmente el proyecto de presupuesto de egresos y enviarlo a los Poderes Ejecutivo y Legislativo;
 
 IX. Expedir su Reglamento Interno y los acuerdos generales necesarios para su adecuado funcionamiento;
 
-X. Calificar los impedimentos, recusaciones y las excusas de los magistrados del Tribunal, en los asuntos de su respectiva competencia;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+X. Calificar los impedimentos, recusaciones y las excusas de quienes integran el Pleno del Tribunal, en los asuntos de su respectiva competencia;
 
 XI. Desarrollar tareas de formación, investigación, capacitación y difusión en la materia;
 
@@ -181,15 +209,19 @@ El Tribunal tiene facultad para manejar en forma autónoma e independiente de cu
 
 En la determinación del proyecto de presupuesto de egresos y en el ejercicio del mismo, se atenderá a lo dispuesto por la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro. El proyecto del presupuesto de egresos será aprobado por el Pleno del Tribunal, en los términos de la ley de la materia.
 
-### CAPÍTULO III. DE LOS MAGISTRADOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+### CAPÍTULO III. DE LAS MAGISTRATURAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 15.
 
-Son atribuciones de las magistraturas electorales las siguientes:
+Son facultades de las magistraturas electorales las siguientes:
 
-I. Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por el presidente del Tribunal;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+I. Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por la Presidencia del Tribunal;
 
 II. Discutir y votar los proyectos de sentencia que sean sometidos a su consideración en las sesiones públicas;
 
@@ -199,13 +231,17 @@ III. Formular requerimientos para la integración de los medios de impugnación 
 
 IV. Girar exhortos a los juzgados federales o estatales encomendándoles la realización de alguna diligencia en el ámbito de su competencia o efectuar por sí mismos las que deban practicarse fuera de las oficinas del Tribunal;
 
-V. Prevenir, remediar y sancionar, en su caso, los actos contrarios a la administración de justicia, así como la buena fe que debe presidir el desarrollo del proceso, denunciando al Ministerio Público todo hecho que pueda constituir un delito;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+V. Prevenir, remediar y sancionar, en su caso, los actos contrarios a la impartición de justicia, así como la buena fe que debe presidir el desarrollo del proceso, denunciando al Ministerio Público todo hecho que pueda constituir un delito;
 
 VI. Preservar la igualdad de las partes en el proceso;
 
 VII. Guardar reserva sobre las decisiones que se proponga dictar en el proceso;
 
-VIII. Ejercer la supervisión y control sobre todos los servidores de su adscripción e instruir, en su caso, los procedimientos de responsabilidad administrativa, imponiendo las sanciones disciplinarias conducentes;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+VIII. Ejercer la supervisión y control sobre todos (sic) el personal de su adscripción e instruir, en su caso, los procedimientos de responsabilidad administrativa, imponiendo las sanciones disciplinarias conducentes;
 
 IX. Participar en los programas de capacitación institucionales;
 
@@ -217,7 +253,9 @@ XII. Elaborar los engroses que determine el Pleno, en coordinación con la Secre
 
 XIII. Participar conjuntamente con la Secretaría General, cuando así se requiera, en la elaboración de informes circunstanciados;
 
-XIV. Proponer al Pleno la denuncia de contradicción de criterios;
+> <small>(REFORMADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN XV DE ESTE ARTÍCULO], P.O. 1 DE JUNIO DE 2020)</small>
+
+XIV. Tramitar los incidentes de recuento de votos, someter el proyecto de resolución a consideración del Pleno y, en su caso, dirigir las diligencias de recuentos de votos ordenados, con el apoyo del personal designado para tal efecto;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -225,39 +263,45 @@ XV. Tramitar los incidentes de recuento, someter el proyecto de resolución a co
 
 XVI. Firmar, conjuntamente con la Secretaría General, las actas circunstanciadas de las diligencias de recuento de votos;
 
-XVII. Proponer al Pleno, por conducto de la Presidencia, los nombramientos o promociones del personal jurídico a su cargo;
+> <small>(REFORMADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO], P.O. 1 DE JUNIO DE 2020)</small>
+
+XVII. Decidir sobre la remoción de la persona titular de la Secretaría General de Acuerdos;
 
 XVIII. Decidir sobre la remoción del Secretario General de Acuerdos;
 
 XIX. Solicitar la incorporación de asuntos en el Orden del Día de las sesiones del Pleno;
 
-XX. Solicitar a la Presidencia se emita convocatoria para la celebración de sesiones del Pleno;
+> <small>(REFORMADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN XXI DE ESTE ARTÍCULO], P.O. 1 DE JUNIO DE 2020)</small>
+
+XX. Informar sobre las responsabilidades administrativas de las y los servidores públicos del Tribunal de que tengan conocimiento; y
 
 XXI. Informar sobre las responsabilidades administrativas de servidores públicos del Tribunal de que tengan conocimiento; y
 
 XXII. Las demás que las disposiciones constitucionales, legales y reglamentarias en la materia o las que sean necesarias para el correcto funcionamiento del Tribunal.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 16.
 
-En ningún caso los magistrados del Tribunal podrán abstenerse de votar, salvo cuando están impedidos para conocer de los asuntos en materia electoral, por alguna de las causas siguientes:
+En ningún caso la persona titular de la Magistratura del Tribunal podrán abstenerse de votar, salvo cuando tengan impedimento para conocer de los asuntos en materia electoral, por alguna de las causas siguientes:
 
 I. Hacer proselitismo o desempeñar comisiones a favor de algún partido político;
 
-II. Tener parentesco en línea recta sin limitación de grado, en línea colateral por consanguinidad hasta el cuarto grado o colateral por afinidad hasta el segundo, con alguno de los interesados o sus representantes;
+II. Tener parentesco en línea recta sin limitación de grado, en línea colateral por consanguinidad hasta el cuarto grado o colateral por afinidad hasta el segundo, con alguna de las personas interesadas en tales asuntos, o sus representantes;
 
-III. Tener amistad íntima o enemistad manifiesta con alguno de los interesados o sus representantes;
+III. Tener amistad íntima o enemistad manifiesta con alguna de las personas interesadas o sus representantes;
 
 IV. Tener interés personal en el asunto o que lo tenga su cónyuge o sus parientes en los grados mencionados en la fracción II;
 
-V. Haber presentado denuncia o querella o llevar juicio en contra de alguno de los interesados o sus representantes;
+V. Haber presentado denuncia o querella o llevar juicio en contra de alguna de las personas interesadas o sus representantes;
 
-VI. Ser acreedor o deudor, socio, arrendador o arrendatario o tener alguna relación contractual o que genere deberes y derechos o convivir, aceptar presentes o servicios de alguno de los interesados, sus representantes o personas relacionadas con las partes;
+VI. Ser persona acreedora o deudora, socia, arrendadora o arrendataria o tener alguna relación contractual o que genere deberes y derechos o convivir, aceptar presentes o servicios de alguna de las personas interesadas, sus representantes o de quienes tengan alguna relación con las partes;
 
-VII. Asistir durante la tramitación de un asunto a un convite que le diere o costeare alguno de los interesados, tener mucha familiaridad o vivir en familia con alguno de ellos;
+VII. Asistir durante la tramitación de un asunto a un convite que le diere o costeare alguna de las personas interesadas, tener mucha familiaridad, o vivir en familia con alguna de ellas;
 
-VIII. Aceptar presentes o servicios de alguno de los interesados;
+VIII. Aceptar presentes o servicios de alguna de las personas interesadas;
 
-IX. Hacer promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes, patronos o defensores o amenazar de cualquier modo a alguno de ellos; y
+IX. Hacer promesas que impliquen parcialidad a favor o en contra de alguna de las personas interesadas, sus representantes o de quienes ejerzan en relación a ellas algún tipo de patronato o defensoría, o en su caso, amenazar de cualquier modo a alguna de ellas; y
 
 X. Cualquier otra análoga a las anteriores.
 
@@ -267,17 +311,29 @@ X. Cualquier otra análoga a las anteriores.
 
 Los magistrados, aun cuando gocen de licencia, no podrán ejercer su profesión de abogados ni patrocinar negocios ante los tribunales, salvo que se trate de negocios propios.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 18.
 
-Los Magistrado serán recusables y deberán excusarse de conocer los medios de impugnación y controversias en los que tengan interés personal, de negocios, amistad o enemistad o por relación de parentesco con las partes, que pueda afectar su imparcialidad.
+Las personas titulares de las Magistraturas serán recusables y deberán excusarse de conocer los medios de impugnación y controversias cuando se actualice alguno de los impedimentos contemplados en la presente Ley.
 
-Los Magistrados que tengan impedimento para conocer asuntos deberán comunicarlo de inmediato al Presidente del Tribunal, pudiendo hacerlo por escrito, el Presidente resolverá sobre la procedencia de la excusa a la mayor inmediatez y en un plazo máximo de veinticuatro horas. En caso de que el impedido sea el Presidente la resolución corresponderá al Magistrado decano.
+A. Excusa. La persona titular de la Magistratura que tenga impedimento para conocer asuntos de carácter jurisdiccional, deberá excusarse mediante escrito presentado en la Oficialía de Partes y dirigido a la Presidencia del Tribunal, al cual, habrá de anexar la documentación que considere necesaria.
 
-En el caso de que el impedimento sea invocado por alguna de las partes, se estará a lo siguiente:
+En caso de que quien tenga el impedimento sea la persona titular de la Presidencia, el comunicado de excusa se hará del conocimiento de la Magistratura Decana o, en su caso, de quien cuente con mayor antigüedad en el cargo. Esta persona fungirá como la titular de la Presidencia para todos los actos tendentes a la solución del expediente.
 
-Deberá hacerse por escrito dirigido al Presidente, aportando los elementos de prueba conducentes. Presentada la excusa o recusación, el Presidente convocará al Pleno dentro de las veinticuatro horas siguientes de que reciba el escrito de excusa o recusación para que se admita o deseche. Admitida la excusa o recusación de alguno de los Magistrados, el Presidente del Tribunal o quien le sustituya, volverá a turnar el expediente respectivo siguiendo el orden de turno. De declararse infundado, el Magistrado respectivo continuará conociendo del negocio. En cualquier caso, se notificará inmediatamente a las partes. Aceptada la excusa o recusación, el Magistrado excusable o recusado se abstendrá de participar en la discusión y resolución correspondiente.
+Presentado el escrito de excusa la Presidencia o quien le sustituya convocará al Pleno dentro de las veinticuatro horas siguientes a que lo reciba para que, en el plazo de tres días posteriores al de la convocatoria, resuelva o califique sobre su procedencia.
 
-Las excusas y recusaciones que se presenten serán calificadas por el Pleno del Tribunal.
+En caso de calificarse como procedente la excusa de alguna Magistratura, la Presidencia del Tribunal o quien le sustituya, turnará el expediente respectivo conforme a la normatividad aplicable. La persona titular de la Magistratura objeto de recusación o excusa se abstendrá de participar en la discusión y resolución del asunto correspondiente.
+
+De calificarse como improcedente la manifestación de cualquier impedimento y en consecuencia la excusa, la Magistratura en cuestión, continuará conociendo del asunto.
+
+En cualquier caso, la calificación del impedimento hecha por el Pleno se notificará inmediatamente a las partes.
+
+B. Recusación. En el supuesto de que el impedimento sea invocado por cualquiera de las partes, solicitándose en consecuencia la recusación de alguna de las personas integrantes del Pleno, deberá presentarse por escrito dirigido a la Presidencia, al que se adjuntarán los elementos de prueba conducentes.
+
+Recibido el escrito de solicitud, de inmediato se dará vista a la Magistratura correspondiente para que, de estimarlo necesario y dentro del plazo de veinticuatro horas posteriores a su conocimiento, realice las manifestaciones que estime pertinentes para calificar la solicitud.
+
+Excepción hecha de la vista señalada en el párrafo que precede, las recusaciones serán tramitadas conforme al procedimiento establecido para las excusas.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
 
@@ -289,27 +345,37 @@ El Secretario que supla temporalmente la ausencia de (sic) Magistrado, deberá p
 
 ### CAPÍTULO IV. DE LA ADMINISTRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 20.
 
-Para la administración del Tribunal, habrá una Oficialía Mayor que tendrá a su cargo la recaudación de los ingresos y su erogación, de conformidad con los planes y programas aprobados, por tanto, la encargada de la administración de los servicios internos, los recursos humanos, materiales y técnicos con que cuente el Tribunal; así como de realizar las adquisiciones, enajenaciones y la contratación de servicios, de conformidad con el reglamento respectivo, para el buen funcionamiento del mismo.
+Para la administración del Tribunal, habrá una Oficialía Mayor que tendrá a su cargo la recaudación de los ingresos y su erogación, de conformidad con los planes y programas aprobados, por tanto, siendo la encargada de la administración de los servicios internos, los recursos humanos, materiales y técnicos con que cuente el Tribunal; así como de realizar las adquisiciones, enajenaciones y la contratación de servicios, de conformidad con el reglamento respectivo, para el buen funcionamiento de la Institución.
 
-La Legislatura del Estado elegirá, por mayoría absoluta de sus integrantes y, en su caso, removerá por el voto de la mayoría calificada de sus integrantes, al Oficial Mayor del Tribunal, que tendrá un periodo de desempeño de tres años, pudiendo ser reelecto por una ocasión.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+La Presidencia designará y removerá libremente a la persona titular de la Oficialía Mayor del Tribunal.
 
 En el desempeño de sus funciones quedará sujeto a las leyes y los reglamentos y manuales administrativos que para el objeto apruebe el Pleno del Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 21.
 
-Para ser Oficial Mayor del Tribunal, se requiere:
+Para ser titular de la Oficialía Mayor del Tribunal, se requiere:
 
-I. Ser mexicano en pleno ejercicio de sus derechos civiles y políticos, con residencia en el Estado de tres años al día de la elección;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+I. Tener nacionalidad mexicana en pleno ejercicio de sus derechos civiles y políticos, con residencia en el Estado de tres años al día de la elección;
 
 II. Tener título y cédula profesional de nivel licenciatura expedidos cuando menos con cinco años anteriores a la fecha de su elección; y
 
 III. Ser de reconocida honradez y solvencia ética.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 22.
 
-El Oficial Mayor del Tribunal contará con las siguientes funciones específicas:
+La persona titular de la Oficialía Mayor del Tribunal contará con las siguientes funciones específicas:
 
 I. Suministrar y administrar los recursos humanos, materiales y técnicos que se requieran para el buen funcionamiento del Tribunal;
 
@@ -327,9 +393,13 @@ VII. Organizar, dirigir y controlar la correspondencia para el Tribunal;
 
 VIII. Adquirir los bienes y servicios que se requieran para el funcionamiento del Tribunal, en los términos de la normatividad aplicable;
 
-IX. Programar, coordinar y realizar actividades recreativas y de integración familiar para los trabajadores del Tribunal;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-X. Elaborar y mantener el inventario de bienes muebles e inmuebles afectos al destino de la administración de justicia electoral, que están asignados al Tribunal, estableciendo las medidas de seguridad necesarias para su resguardo;
+IX. Programar, coordinar y realizar actividades recreativas y de integración familiar para el personal del Tribunal;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+X. Elaborar y mantener el inventario de bienes muebles e inmuebles afectos al destino de la impartición de justicia electoral, que están asignados al Tribunal, estableciendo las medidas de seguridad necesarias para su resguardo;
 
 XI. Llevar el control y mantenimiento de los medios de transporte del Tribunal;
 
@@ -337,11 +407,33 @@ XII. Adoptar las providencias necesarias para el eficiente manejo administrativo
 
 XIII. Proponer al Pleno del Tribunal, los acuerdos relativos a la suscripción de contratos, convenios y acuerdos concernientes al ejercicio de sus atribuciones, de conformidad con las disposiciones aplicables;
 
-XIV. Elaborar los informes que le sean requeridos por el Pleno o el Presidente;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-XV. Informar de manera trimestral al Presidente, sobre el cumplimiento de las tareas contables y administrativas que tiene encomendadas; y
+XIV. Elaborar los informes que le sean requeridos por el Pleno o la Presidencia;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+XV. Informar de manera trimestral a la Presidencia, sobre el cumplimiento de las tareas contables y administrativas que tiene encomendadas; y
 
 XVI. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables, así como el reglamento interior y los acuerdos que para el efecto emita el Pleno.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+Artículo 22 bis. El Tribunal contará con un Órgano Interno de Control, cuyo titular ejercerá en el ámbito de su competencia, las facultades a que se refiere el artículo 38 de la Constitución, la Ley de Responsabilidades Administrativas del Estado de Querétaro la Ley General de Responsabilidades Administrativas, el Reglamento Interior del Tribunal y demás disposiciones aplicables.
+
+La Legislatura del Estado designará por las dos terceras partes de sus miembros presentes y, en su caso, removerá por el voto de la mayoría calificada de sus integrantes al titular del Órganos (sic) Interno de Control, quien tendrá un periodo de desempeño de tres años, pudiendo ser reelegido por una ocasión.
+
+Los requisitos para ser titular de este órgano son:
+
+I. Contar con ciudadanía mexicana y estar en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Tener título de licenciatura en derecho, contaduría, administración, y/o cualquier área afín que le permita desarrollar las funciones de la contraloría, con una antigüedad mínima de tres años;
+
+III. Gozar de buena reputación, no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; ni haber tenido inhabilitación o suspensión para desempeñar funciones públicas;
+
+IV. No desempeñar ni haber desempeñado cargos de elección popular en los últimos cinco años; y
+
+V. No ser ni haber sido dirigente nacional, estatal o municipal de algún partido político en los últimos cinco años.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -363,9 +455,11 @@ Artículo 23 bis. Se podrá realizar el servicio social académico o estancia de
 
 ### CAPÍTULO VI. PERSONAL DEL TRIBUNAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 24.
 
-Ningún servidor público del Tribunal, podrá tener ocupación que lo coloque en situación de dependencia moral o económica de alguna corporación o persona en particular; consecuentemente, sus cargos son incompatibles con el desempeño de cualquier otro cargo retribuido; con los cargos de elección popular y representación política; con la calidad de ministro de cualquier culto; con la milicia; con la gestión profesional de negocios ajenos y con cualquier cargo auxiliar de la administración de justicia.
+Ninguna persona del servicio público del Tribunal, podrá tener ocupación que la coloque en situación de dependencia moral o económica en relación a otra persona, o a alguna corporación; consecuentemente, su función es incompatibles (sic) con el desempeño de cualquier otro cargo retribuido; con los cargos de elección popular y representación política; con la ministración de cualquier culto; con la milicia; con la gestión profesional de negocios ajenos y con cualquier cargo auxiliar de la impartición de justicia.
 
 Se exceptúan de este precepto las actividades docentes y honoríficas, siempre que no se afecte la prestación regular de su función.
 
@@ -373,15 +467,19 @@ Se exceptúan de este precepto las actividades docentes y honoríficas, siempre 
 
 Para contribuir al reparto equitativo de las responsabilidades familiares y en apego al principio de igualdad sustantiva entre hombres y mujeres, se garantizará el ejercicio de una licencia de maternidad o paternidad a quienes presten un servicio público en el Tribunal, con goce de sueldo, derivado del nacimiento o la concesión de la adopción de sus hijas e hijos.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 25.
 
-Los secretarios del Tribunal rendirán protesta de ley ante el Presidente, los demás servidores públicos y empleados la rendirán ante el titular del área a la que estén adscritos.
+Las personas titulares del secretariado del Tribunal, rendirán protesta de ley ante la Presidencia, asimismo, el resto del personal de la institución la rendirá ante la persona titular del área a la que se adscriban.
 
-De toda protesta de los servidores públicos del Tribunal se levantará acta con el número de copias necesarias, una de las cuales se remitirá a la Oficialía Mayor, para ser agregada a la hoja de servicios correspondiente.
+De toda protesta de Ley en el Tribunal, se levantará acta con el número de copias necesarias, una de las cuales se remitirá a la Oficialía Mayor, para ser agregada a la hoja de servicios correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 26.
 
-Para ningún cargo de la administración de justicia electoral podrá designarse a personas que sean ascendientes, descendientes, cónyuges o colaterales, dentro del cuarto grado, por consanguinidad, segundo por afinidad o civil, del servidor público que intervenga en la designación.
+Para ningún cargo de la impartición de justicia electoral podrá designarse a personas que sean ascendientes, descendientes, cónyuges o colaterales, dentro del cuarto grado, por consanguinidad, segundo por afinidad o civil, de la persona que intervenga en la designación.
 
 ###### Artículo 27.
 
@@ -393,45 +491,55 @@ El personal jurídico o administrativo del Tribunal está obligado a guardar res
 
 La contravención a esta disposición será causa de responsabilidad.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 29.
 
-Para ser Secretario o Actuario se deberán satisfacer los siguientes requisitos:
+Para ocupar un cargo de las secretarías de acuerdos y proyectista, o de actuarías, se deberán satisfacer los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+I. Tener la ciudadanía mexicana por nacimiento, y encontrarse en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener título de licenciado en derecho;
+II. Tener título de Licenciatura en Derecho; y
 
-III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; y
+III. Gozar de buena reputación y no haber recibido condena por delito intencional que amerite pena corporal de más de un año de prisión.
 
-IV. Sustentar y aprobar el examen de méritos.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 30.
 
-Los Secretarios de Acuerdos y los Actuarios tendrán fe pública, en todo lo relativo al ejercicio de su cargo.
+Las personas titulares de las secretarías de acuerdos y proyectista y quienes ejerzan la función de actuaría, tendrán fe pública, en todo lo relativo al ejercicio de su cargo.
 
 ## TÍTULO TERCERO. DE LA FUNCIÓN JURISDICCIONAL
 
 ### CAPÍTULO I. DEL PLENO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 31.
 
-El Pleno del Tribunal se integra con tres Magistrados. Tendrá las facultades que la Constitución Federal, la Constitución del Estado y la presente Ley le conceden al Tribunal.
+El Pleno del Tribunal se integra con tres Magistraturas. Tendrá las facultades que la Constitución Federal, la Constitución del Estado y la presente Ley le conceden al Tribunal.
 
 A. Son atribuciones administrativas del Pleno, las siguientes:
 
 I. Autorizar la celebración de convenios de colaboración con otros tribunales, instituciones y autoridades;
 
-II. Aprobar los programas e informes en los términos de esta Ley y demás asuntos que le se (sic) someta a su consideración;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+II. Aprobar los programas, informes y demás asuntos que, en los términos de esta Ley, se sometan a su consideración;
 
 III. Designar al personal necesario para actuar en los incidentes de recuentos de votos;
 
-IV. Recibir un informe mensual de la Unidad de Información, relativo a las solicitudes recibidas en materia de transparencia y acceso a la información pública, del trámite otorgado a las mismas, así como de los recursos que se presenten en contra de las determinaciones tomadas en la materia por los órganos del Tribunal;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-V. Nombrar, a propuesta de la Presidencia, al titular de la Unidad de Información;
+IV. Recibir un informe mensual de la Unidad de Transparencia, relativo a las solicitudes recibidas en materia de transparencia y acceso a la información pública, del trámite otorgado a las mismas, de los medios de impugnación que se presenten en contra de las determinaciones tomadas en la materia por los órganos del Tribunal, así como de la clasificación de información que se determine;
 
-VI. Acordar con los titulares de las coordinaciones, los asuntos competencia del Pleno;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+V. Nombrar, a propuesta de la Presidencia, a la persona titular de la Unidad de Transparencia;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+VI. Acordar con las y los titulares de las coordinaciones, los asuntos competencia del Pleno;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -441,31 +549,43 @@ VII. Aprobar los reglamentos y manuales administrativos;
 
 VIII. Aplicar las medidas de apremio y correcciones disciplinarias previstas en la Ley de Medios;
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-IX. Aprobar los proyectos y dictamines emitidos por el Comité Editorial, en sesiones ordinarias o extraordinarias del mismo, las cuales serán convocadas por quien ostente la presidencia del Tribunal. Las decisiones sobre dicho comité serán aprobadas por mayoría de votos; y
+IX. Aprobar los proyectos y dictámenes emitidos por el Comité Editorial, en sesiones ordinarias o extraordinarias del mismo, las cuales serán convocadas por quien ostente la presidencia del Tribunal. Las decisiones sobre dicho comité serán aprobadas por mayoría de votos;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-X. Las demás que le conceda la Ley y las disposiciones normativas aplicables.
+X. Establecer un sistema institucional de archivos en los términos de la normatividad aplicable; y
+
+(REUBICADA, P.O. 1 DE JUNIO DE 2020)
+
+XI. Las demás que le conceda la Ley y las disposiciones normativas aplicables.
 
 B. Son atribuciones jurisdiccionales del Pleno, las siguientes:
 
 I. Resolver con plenitud de jurisdicción, los medios de impugnación de su competencia, previstos en la Ley;
 
-II. Habilitar a los funcionarios autorizados para levantar constancia de las actuaciones del Tribunal;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+II. Habilitar al funcionariado autorizados para levantar constancia de las actuaciones del Tribunal;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
 III. Resolver sobre los medios de impugnación previstos en la Ley de Medios;
 
-IV. Conocer y resolver las excusas y recusaciones de los Magistrados;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-V. Realizar el recuento jurisdiccional en los términos de la Ley de Medios;
+IV. Conocer y resolver las excusas y recusaciones de los titulares de las Magistraturas;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+V. Ordenar la práctica de recuentos jurisdiccionales de votos, conforme a Derecho;
 
 VI. Aprobar, modificar o dejar sin efectos la jurisprudencia y tesis relevantes, que se deriven de las sentencias del Tribunal;
 
-VII. Desechar, sobreseer, tener por no interpuestos o por no presentados, cuando proceda, los medios de impugnación, los escritos de los terceros interesados y los de los coadyuvantes;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+VII. Desechar, sobreseer, tener por no interpuestos o por no presentados, cuando proceda, los medios de impugnación, los escritos de personas que tengan el carácter de personas terceras interesadas, y los de quienes sean coadyuvantes;
 
 VIII. Dar vista a las autoridades correspondientes, en el ámbito de sus atribuciones, cuando se desprendan posibles violaciones a leyes federales y locales en sus distintas competencias;
 
@@ -473,7 +593,7 @@ IX. Expedir las disposiciones y medidas necesarias para el despacho pronto y exp
 
 X. Determinar, en su caso, sobre la acumulación de los asuntos sometidos a su conocimiento;
 
-XI. Ordenar la apertura de incidentes de recuento de votos en los asuntos sometidos a su conocimiento, en aquellos supuestos previstos por la Ley;
+XI. (DEROGADA, P.O. 1 DE JUNIO DE 2020)
 
 XII. Fijar en los estrados del Tribunal, la lista de asuntos a tratar y las resoluciones que emitan;
 
@@ -499,13 +619,15 @@ XVI. Las demás que le conceda la Ley y las disposiciones normativas aplicables.
 
 Para sesionar válidamente, el Pleno requerirá la presencia de por lo menos dos de sus integrantes, entre los cuales deberá encontrarse el Presidente.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### Artículo 33.
 
-El Pleno tomará sus resoluciones por mayoría de votos. En caso de empate el Presidente tendrá voto de calidad.
+El Pleno tomará sus resoluciones por mayoría de votos. En caso de empate la Magistratura titular de la Presidencia tendrá voto de calidad.
 
-Cuando un magistrado disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que sea firmada esta última.
+Cuando un (sic) magistratura disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, concurrente o razonado el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que sea firmada esta última.
 
-Si el proyecto del magistrado ponente no fuese aceptado por la mayoría, el Presidente propondrá al Pleno que otro magistrado realice el engrose correspondiente, quien elaborará la sentencia con las argumentaciones que se hubiesen invocado, agregándose como voto particular el proyecto que no fue aprobado, si así lo desea el ponente.
+Si el proyecto de la magistratura ponente no fuese aceptado por la mayoría, la Presidencia propondrá al Pleno que la magistratura en turno realice el engrose correspondiente, quien elaborará la sentencia con las argumentaciones que se hubiesen invocado, agregándose como voto particular el proyecto que no fue aprobado, si así lo desea el ponente.
 
 ###### Artículo 34.
 
@@ -515,31 +637,37 @@ I. Públicas: para desahogar los medios de impugnación de naturaleza electoral;
 
 II. Publicas Solemnes: cuando así lo determine el propio Pleno o por la naturaleza y características de los asuntos a tratar.
 
-Las sesiones del Pleno tendrán verificativo en los días y horas que fije el Reglamento Interior del Tribunal. De las sesiones se levantará acta que firmarán los magistrados y el Secretario de Acuerdos.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+Las sesiones del Pleno tendrán verificativo en los días y horas que fije el Reglamento Interior del Tribunal. De las sesiones se levantará acta que firmarán quienes integran el Pleno y la persona titular de la Secretaría General de Acuerdos.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 35.
 
-El Pleno del Tribunal establecerá criterios derivados de las resoluciones que se emitan, los cuales serán obligatorios cuando tres recursos sean resueltos en el mismo sentido.
+El Pleno del Tribunal establecerá criterios derivados de las resoluciones que se emitan, los cuales serán obligatorios cuando tres medios de impugnación sean resueltos en el mismo sentido.
 
-Los criterios obligatorios que establezca, deberán ser publicados en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, a más tardar en el mes de diciembre del año en que se haya efectuado el proceso electoral.
+Los criterios obligatorios que establezca, deberán ser publicados en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", a más tardar en el mes de diciembre del año en que se haya efectuado el proceso electoral.
 
-Los magistrados, los órganos electorales y las partes podrán plantear en cualquier momento la contradicción existente entre criterios obligatorios.
+Las Magistraturas, los órganos electorales y las partes podrán plantear en cualquier momento la contradicción existente entre criterios obligatorios.
 
-Los criterios del Tribunal dejarán de ser obligatorios cuando existan razones jurídicas que lo motiven y la modificación sea aprobada por mayoría de los magistrados.
+Los criterios del Tribunal dejarán de ser obligatorios cuando existan razones jurídicas que lo motiven y la modificación sea aprobada por mayoría de las Magistraturas.
 
-### CAPÍTULO II. DEL PRESIDENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
+### CAPÍTULO II. DE LA PRESIDENCIA
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 36.
 
-La persona titular de la presidencia del Tribunal durará en su cargo un año, no pudiendo ser reelecta para el periodo inmediato posterior y será designada de entre los magistrados, por el voto de la mayoría absoluta en la sesión que para tal efecto se convoque durante el mes de diciembre de cada año, cuya sesión no podrá suspenderse hasta darse la designación. La presidencia será rotatoria.
+La persona titular de la presidencia del Tribunal durará en su cargo un año, pudiendo ser reelecta para el periodo inmediato posterior y será designada de entre las magistraturas, por el voto de la mayoría absoluta en la sesión que para tal efecto se convoque durante el mes de diciembre de cada año La sesión no podrá suspenderse hasta darse la designación. La presidencia será rotatoria.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 37.
 
-Son facultades y obligaciones de quien presida el Tribunal, además de las establecidas en la Ley de Medios y en el Reglamento Interior del Tribunal, las siguientes:
+Son facultades y obligaciones de la presidencia del Tribunal, además de las establecidas en la Ley de Medios y en el Reglamento Interior del Tribunal, las siguientes:
 
 I. Representar legalmente al Tribunal en toda clase de actos jurídicos y administrativos;
 
@@ -571,27 +699,37 @@ XIV. Vigilar que se cumplan las determinaciones del Tribunal, así como las disp
 
 XV. Vigilar el buen desempeño y funcionamiento del Tribunal;
 
-XVI. Solicitar al titular de la contraloría inicie las investigaciones conducentes en los casos en que se detecte alguna irregularidad en la administración del Tribunal;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+XVI. Solicitar a la persona titular de la contraloría inicie las investigaciones conducentes en los casos en que se detecte alguna irregularidad en la administración del Tribunal;
 
 XVII. Convocar, diferir o suspender las sesiones del Pleno;
 
 XVIII. Conducir las sesiones del Pleno, dirigiendo los debates y conservando el orden en las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y continuar la sesión en privado;
 
-XIX. Turnar al magistrado del Tribunal, de conformidad con lo dispuesto por el Reglamento interno, los expedientes que se integren con motivo de algún medio de impugnación o incidente, para su debida substanciación y resolución del proyecto de sentencia; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+XIX. Turnar a la magistratura que corresponda, de conformidad con lo dispuesto por el Reglamento Interno, los expedientes que se integren con motivo de algún medio de impugnación o incidente, para su debida substanciación y resolución del proyecto de sentencia; y
 
 XX. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO III. DE LAS RESOLUCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO III. DE LAS RESOLUCIONES Y SENTENCIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### Artículo 38.
 
-La resolución que emita el Tribunal con motivo de los recursos interpuestos en contra de la declaración de validez de la elección de que se trate, podrá tener en cada caso los siguientes efectos y sentidos:
+Las sentencias que emita el Tribunal con motivo de los medios de impugnación interpuestos en contra de la declaración de validez de la elección de que se trate, podrá tener en cada caso los siguientes efectos y sentidos:
 
 I. Confirmar la validez del resultado de las actas de cómputo distrital, estatal o municipal;
 
 II. Declarar la nulidad de la votación emitida en una o varias casillas, cuando se demuestre alguna de las causales aplicables y, en consecuencia, modificar el acta de cómputo distrital, estatal o municipal;
 
-III. Revocar la constancia de mayoría expedida por los órganos electorales competentes en favor de una fórmula o de candidato a gobernador y ordenar se otorgue a los candidatos o fórmulas que obtengan el triunfo como resultado de la anulación de la votación emitida en una o varias casillas y, en consecuencia, se modifiquen las actas de cómputo distrital, estatal o municipal respectivas; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+II (SIC). Revocar la constancia de mayoría expedida por los órganos electorales competentes en favor de una fórmula, de una candidatura a la gubernatura, y se ordene se otorgue a las candidaturas o las fórmulas que obtengan el triunfo como resultado de la anulación de la votación emitida en una o varias casillas y, en consecuencia, se modifiquen las actas de cómputo distrital, estatal o municipal respectivas; y
 
 IV. Corregir el resultado de los cómputos de que se trate, cuando sean impugnados por error aritmético.
 
@@ -672,3 +810,15 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Las referencias que en la presente Ley y en las demás que de ella derivan en los que se refiera a la nomenclatura "Estado de Querétaro", se entenderán como "Estado Libre y Soberano de Querétaro" hasta en tanto se realizan las adecuaciones pertinentes.
 
 Artículo Tercero. Los Magistrados Supernumerarios designados con anterioridad al inicio de la vigencia del presente Decreto, finalizarán su gestión y periodo para el que fueron nombrados, de conformidad con las disposiciones vigentes al momento de su designación.
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE EXPIDE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" en fecha 20 de diciembre de 2008, así como todas sus reformas.
+
+Artículo Tercero. Se abrogan todas las disposiciones legales vigentes de igual o menor jerarquía en la materia, o que resulten contrarias a la presente Ley.
+
+Artículo Cuarto. Los asuntos que se encuentren en trámite o pendientes de resolución, surgidos con anterioridad a la entrada en vigor de la presente Ley, se sustanciarán y resolverán hasta su total conclusión, conforme a las normas del ordenamiento vigente al momento de su inicio.
