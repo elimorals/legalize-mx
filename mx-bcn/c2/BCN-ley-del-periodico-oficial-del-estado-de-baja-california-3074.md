@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-periodico-oficial-del-estado-de-baja-california-3074"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-10"
-last_updated: "2015-03-27"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 10 de noviembre de 1992.
 
@@ -55,7 +55,9 @@ Serán materia de publicación en el Periódico Oficial del Estado:
 
 I.- Las leyes, decretos, iniciativas al Congreso de la Unión y acuerdos expedidos por el Congreso del Estado;
 
-II.- Los decretos, reglamentos y acuerdos del Ejecutivo que sean de interés general;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+II.- Los decretos, reglamentos, acuerdos, instructivos, circulares del Ejecutivo del Estado que sean de interés general;
 
 III.- Los acuerdos de interés general emitidos por el Pleno del Tribunal Superior de Justicia del Estado;
 
@@ -65,11 +67,25 @@ V.- Los acuerdos y circulares de las Dependencias del Ejecutivo del Estado que s
 
 VI.- Los convenios celebrados por el Gobierno del Estado de Baja California;
 
-VII.- Los edictos, convocatorias, avisos, balances, estados financieros, resultados financieros o inserciones similares, y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
 
-VIII.- Los actos y resoluciones que la Constitución Política del Estado de Baja California y las leyes, ordenen se publiquen en el Periódico oficial; y
+VII.- Los edictos, convocatorias, avisos, balances, estados financieros, resultados financieros o inserciones similares;
 
-IX.- Aquellos actos o resoluciones que por su propia importancia así lo determine el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+VIII.- Los actos y resoluciones que la Constitución Política del Estado de Baja California y las leyes, ordenen se publiquen en el Periódico oficial;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+
+IX.- Aquellos actos o resoluciones que por su propia importancia así lo determine el Gobernador del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2020)</small>
+
+X.- Las fe de erratas, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2020)</small>
+
+XI.- Los acuerdos y resoluciones que emitan los Organismos Constitucionales Autónomos Estatales que sean de interés general.
 
 ###### ARTICULO 4.
 
@@ -79,9 +95,11 @@ Es obligación del Gobernador del Estado, como lo establece el Artículo 49 Frac
 
 ARTICULO 4 BIS.- En los casos, en que las leyes y decretos no sean observadas ni publicadas por el Ejecutivo del Estado en los plazos a que se refiere el primer párrafo y el Apartado A del Artículo 34 de la Constitución Política del Estado, corresponderá al Presidente del Congreso del Estado dentro de los quince días siguientes a que venzan los plazos para ello, ordenar su publicación en el Periódico Oficial del Estado sin que se requiera refrendo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 5.
 
-El Periódico Oficial del Estado, deberá contener impresos, por lo menos, los siguientes datos:
+El Periódico Oficial del Estado deberá contener por lo menos, los siguientes datos:
 
 a) Llevar en el encabezado el nombre de Periódico Oficial del Estado de Baja California y la leyenda "Organo del Gobierno Constitucional del Estado de Baja California";
 
@@ -91,23 +109,21 @@ c) Tomo, fecha y número de publicación; y
 
 d) Indice del contenido.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 6.
 
-Serán publicados en el Periódico Oficial del estado, los documentos que en original y copia se reciban en Oficialía Mayor de gobierno, observándose lo dispuesto en la fracción III del Artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Baja California.
+Serán publicados en el Periódico Oficial del Estado los documentos que en original y copia se reciban en la Secretaría General de Gobierno, observándose lo dispuesto en la fracción XXIII del Artículo 26 de la Ley Orgánica de la Administración Pública del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 7.
 
-El Periódico Oficial se editará por la Oficialía Mayor de Gobierno, la cual a su vez establecerá el sistema adecuado y eficaz para su distribución oportuna y en cantidad suficiente que garantice la demanda en todo el Estado.
+El Periódico Oficial del Estado se publicará únicamente en la página electrónica del Periódico Oficial del Estado y su edición tendrá carácter oficial, el cual estará a cargo de la Secretaría General de Gobierno; la impresión del Periódico Oficial del Estado será únicamente a petición de parte, previo pago de la contribución respectiva.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
+La Secretaría General de Gobierno recibirá en custodia la documentación que habrá de publicarse, como soporte de la edición respectiva, la cual una vez publicada de manera electrónica deberá ser remitida para su resguardo al Archivo General del Poder Ejecutivo.
 
-La oficialía Mayor de Gobierno, recibirá en custodia la documentación que habrá de publicarse, como soporte de la edición respectiva, la cual deberá ser resguardada en el archivo general a su cargo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2015)</small>
-
-La publicación impresa en el Periódico Oficial de los documentos a que se refiere el artículo 3 de esta Ley, bastará para acreditar su autenticidad y la integridad de su contenido.
+La publicación en el Periódico Oficial del Estado de los documentos a que se refiere el artículo 3 de esta Ley, bastará para acreditar su autenticidad y la integridad de su contenido.
 
 ###### ARTICULO 8.
 
@@ -115,49 +131,45 @@ El Periódico Oficial del Estado, será publicado los viernes de cada semana; cu
 
 En caso de notoria urgencia, se publicarán en cualquier fecha, las leyes, decretos, reglamentos, acuerdos y demás actos expedidos por los Poderes del Estado, en números especiales.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 9.
 
-La Oficialía Mayor de Gobierno propondrá el precio de venta por ejemplar del día, atrasados del año en curso, de años anteriores y ediciones especiales, así como suscripciones anuales, expedición de copias simples o certificadas y el cobro por inserciones, para que sea comprendido en la Ley de Ingresos del Estado en vigor para el año de que se trate.
+El acceso a la edición electrónica del Periódico Oficial del Estado será gratuita, en el caso de la edición impresa la Secretaría General de Gobierno propondrá el precio de venta, expedición de copias simples o certificadas y el cobro por inserciones, para que sea comprendido en la Ley de Ingresos del Estado en vigor para el año de que se trate.
 
 Los Ayuntamientos del Estado no estarán obligados al pago de contribuciones tratándose de las publicaciones de Leyes de Ingresos, Tablas de Valores Catastrales, Presupuestos de Egresos y Reglamentos; también estarán exentos del pago las publicaciones de Acuerdos de Cabildo y Estados Financieros que por ley estén obligados a su publicación.
-
-En los casos de los Tres Poderes del Estado y de los Ayuntamientos de los Municipios el Periódico Oficial será distribuido gratuitamente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2012)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA DIVULGACIÓN DEL PERIÓDICO OFICIAL POR MEDIOS ELECTRÓNICOS
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 10.
 
-La Oficialía Mayor de Gobierno administrara la página electrónica del Periódico oficial en internet.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+La Secretaría General de Gobierno administrará la página electrónica del Periódico Oficial del Estado en internet.
 
 ###### ARTICULO 11.
 
-Cada edición del Periódico será reproducida en la página electrónica del Periódico dentro de los siguientes seis días hábiles de su publicación impresa.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
 ###### ARTICULO 12.
 
-La publicación del Periódico Oficial en la página electrónica correspondiente deberá identificarse con los mismos datos y requisitos que se enumeran en el artículo 5 de la presente Ley.
+(DEROGADO, P.O. 1 DE JUNIO DE 2020)
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
-###### ARTÍCULO 13.
+###### ARTICULO 13.
 
-La publicación electrónica del Periódico Oficial será únicamente para efectos de divulgación, por lo que no afecta la entrada en vigor ni el contenido oficial de los materiales publicados en el formato impreso.
+La publicación electrónica del Periódico Oficial del Estado tendrá validez legal y el carácter de documental pública cuando se emita por la Secretaría General de Gobierno, la cual deberá implementar las medidas de seguridad necesarias, a fin de asegurar la integridad, inalterabilidad y autenticidad de su contenido.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
+La alteración de la información contenida en publicación electrónica del Periódico Oficial del Estado será sancionada por las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 14.
 
-La Oficialía Mayor de Gobierno procurará editar compilaciones electrónicas del Periódico Oficial para facilitar su colección y análisis.
+La Secretaría General de Gobierno procurará editar compilaciones electrónicas del Periódico Oficial del Estado para facilitar su colección y análisis.
 
 T R A N S I T O R I O S
 
@@ -214,3 +226,11 @@ P.O. 27 DE MARZO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Dentro de los tres meses siguientes a la publicación del presente Decreto, el Ejecutivo del Estado deberá emitir las disposiciones reglamentarias conducentes.
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 5, 6, 7, 9, 10, 13 Y 14; SE DEROGAN LOS ARTÍCULOS 11 Y 12 DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Oficialía Mayor de Gobierno deberá pasar a la Secretaría General de Gobierno, todos los recursos materiales, humanos y financieros.
