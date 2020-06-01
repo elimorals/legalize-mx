@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2019-12-22"
+last_updated: "2020-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -1139,15 +1139,15 @@ Cuando la realidad socioeconómica de un municipio lo haga necesario se podrán 
 
 ### CAPÍTULO SEXTO. DE LAS AUTORIDADES MUNICIPALES AUXILIARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 52.
 
-Los delegados y subdelegados municipales son autoridades auxiliares del Ayuntamiento y del Presidente Municipal, en la demarcación territorial que se les asigne. Durarán en su encargo por un periodo de tres años y podrán realizar la función por un periodo más.
+Los delegados, las delegadas, los subdelegados y las subdelegadas municipales son autoridades auxiliares del Ayuntamiento y de la persona titular de la presidencia municipal, en la demarcación territorial que se les asigne. Durarán en su encargo por un periodo de tres años y podrán realizar la función por un periodo más.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
-Dentro de los primeros treinta días siguientes a la instalación del Ayuntamiento los delegados y subdelegados serán nombrados por el Presidente Municipal. En caso de que así lo estime pertinente, el Presidente Municipal tendrá la facultad discrecional de indicar método diverso a la designación directa de los delegados y subdelegados debiendo señalar los requisitos así como el método elegido, en el mismo plazo de los treinta días siguientes a la instalación del Ayuntamiento.
+Dentro de los primeros treinta días siguientes a la instalación del Ayuntamiento los delegados, las delegadas, los subdelegados y las subdelegadas serán nombrados por la persona titular de la presidencia municipal; en el supuesto de delegados, delegadas, subdelegados y subdelegadas que involucren comunidades indígenas, se privilegiará la designación de una persona integrante de ellas para ocupar el cargo
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1160,6 +1160,10 @@ La Comisión deberá de informar al Presidente Municipal de las personas que hay
 Una vez concluido el procedimiento de elección, entrarán en funciones previa protesta de ley ante el Ayuntamiento respectivo, dentro del plazo de siete días.
 
 Los delegados y subdelegados designados o electos que no accedieran al encargo de conformidad con lo establecido en este artículo terminarán su encargo cuando lo haga el Ayuntamiento que los designo y durante el tiempo que transcurra entre la instalación de nuevo ayuntamiento y la definición de los nuevos delegados el despacho de sus asuntos corresponderá a un encargado.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
+
+En caso de que la persona titular de la presidencia municipal opte por que la designación sea mediante elección directa, la comunidad podrá solicitar al Ayuntamiento que se notifique al Instituto Electoral del Estado de Querétaro su pretensión de organizar una consulta en la que se someta a votación si dicha elección se realizará conforme a su sistema normativo indígena o conforme a la legislación electoral. La solicitud se deberá comunicar al Ayuntamiento dentro del plazo de treinta días hábiles, contados a partir de la notificación formal a la comunidad de que la designación se llevará a cabo por el mecanismo señalado.
 
 ###### ARTICULO 53.
 
@@ -3110,3 +3114,15 @@ d) La inscripción de la cancelación de licencia de ejecución de obras de urba
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial; y
 
 XV. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y los Programas que se financien con dicho Fondo.
+
+P.O. 1 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE EXPIDE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
+
+Artículo Segundo. Se abroga la Ley de Medios de Impugnación en Materia Electoral del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" en fecha 20 de diciembre de 2008, así como todas sus reformas.
+
+Artículo Tercero. Se abrogan todas las disposiciones legales vigentes de igual o menor jerarquía en la materia, o que resulten contrarias a la presente Ley.
+
+Artículo Cuarto. Los asuntos que se encuentren en trámite o pendientes de resolución, surgidos con anterioridad a la entrada en vigor de la presente Ley, se sustanciarán y resolverán hasta su total conclusión, conforme a las normas del ordenamiento vigente al momento de su inicio.
