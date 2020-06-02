@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-de-pensiones-del-estado-de-jalisco-71070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-19"
-last_updated: "2019-08-10"
+last_updated: "2020-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2020.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 19 de noviembre de 2009.
 
@@ -1467,7 +1467,11 @@ I. Dos representantes del Gobierno del Estado, designados por el Titular del Pod
 
 II. Un representante del municipio de Guadalajara, que será designado por el Presidente Municipal;
 
-III. Un representante de los servidores públicos de la Federación de Sindicatos de Empleados al Servicio de los Poderes del Estado, Municipios y Organismos Públicos Descentralizados (FSESEJ), que será el Secretario General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2020)</small>
+
+III. Un representante de los servidores públicos, que será el Secretario General de la Federación de Sindicatos de Empleados al Servicio del Estado que tenga el mayor número de servidores públicos agremiados y lo acredite mediante la constancia respectiva expedida por el Tribunal de Arbitraje y Escalafón.
+
+El Consejo Directivo del Instituto podrá revisar y en su caso sustituir la representación a que se refiere esta fracción cada tres años, a petición de la Federación de Sindicatos interesada, conforme al informe que rinda el Tribunal de Arbitraje y Escalafón del Estado;
 
 IV. Un representante de los servidores públicos de la Sección 47 del Sindicato Nacional de Trabajadores de la Educación, que será el Secretario General; y
 
@@ -1841,6 +1845,18 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 10 DE AGOSTO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 27301/LXII/19 QUE REFORMA LOS ARTÍCULOS 10 Y 149 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 2, 15, 18, 20, 21, 22 Y 24 DE LA LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PÚBLICOS REGLAMENTARIA DEL ARTÍCULO 172 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO; SE REFORMA 34 Y 52 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 158 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMAN LOS ARTICULEOS 47 Y 108 DE LA LEY PARA EL EJERCICIO DE ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+## [N. DE E. TRANSITORIO DEL "DECRETO 27301/LXII/19 QUE REFORMA LOS ARTÍCULOS 10 Y 149 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 2, 15, 18, 20, 21, 22 Y 24 DE LA LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PÚBLICOS REGLAMENTARIA DEL ARTÍCULO 172 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO; SE REFORMA 34 Y 52 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 158 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMAN LOS ARTICULOS 47 Y 108 DE LA LEY PARA EL EJERCICIO DE ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27916/LXII/20 QUE REFORMA EL ARTÍCULO 151 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Para efectos de la fracción III del artículo 151 de la Ley del Instituto de Pensiones del Estado de Jalisco que se reforma a través de este decreto, por única ocasión se tomará en consideración la membresía de las federaciones de sindicatos de Empleados al Servicio del Estado realizada el 29 de mayo de 2019.
+
+TERCERO. Las federaciones de sindicatos podrán solicitar al Consejo Directivo del Instituto de Pensiones del Estado, dentro de los 20 días hábiles contados a partir del día siguiente de la entrada en vigor de ese Decreto, se inicie con el proceso señalado en la fracción III del artículo 151 de la Ley del Instituto de Pensiones del Estado de Jalisco reformado, para efectos del artículo transitorio que antecede; por lo que en casos posteriores deberá sujetarse al término de tres años a que se refiere dicho numeral, los cuales se computarán a partir del día en que se integre al Consejo Directivo en mención el nuevo representante de los servidores públicos, en su caso.
+
+CUARTO. En caso de no existir petición de revisión de la representación sindical en términos de los dos artículos transitorios anteriores, el plazo de tres años para poder solicitar la revisión de la representación sindical a que se refiere la fracción III del artículo 151 de la Ley del Instituto de Pensiones del Estado de Jalisco reformado, se computará a partir del día siguiente a que fenezca el plazo determinado en dicho artículo tercero transitorio.
