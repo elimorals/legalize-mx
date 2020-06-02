@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-de-la-ciudad-de-mexico-12295
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-18"
-last_updated: "2017-08-18"
+last_updated: "2020-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122955&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO PARA EL REGISTRO DE ORGANIZACIONES CIUDADANAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL REGISTRO DE ORGANIZACIONES CIUDADANAS ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 2 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO PARA EL REGISTRO DE ORGANIZACIONES CIUDADANAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE JUNIO DE 2020 (ABROGADO).
 
 Reglamento publicado en el Número 136 de la Gaceta Oficial de la Ciudad de México, el viernes 18 de agosto de 2017.
 
@@ -931,3 +933,21 @@ Primero. El presente Reglamento entrará en vigor y surtirá efectos al día sig
 Segundo. Se abroga el Reglamento del Instituto Electoral del Distrito Federal para el Registro de Organizaciones Ciudadanas, aprobado el 12 de julio de 2011 mediante Acuerdo del Consejo General ACU-043-11 y publicado en la Gaceta Oficial del Distrito Federal el 08 de agosto de 2011.
 
 Tercero. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo, serán resueltos conforme a las normas sustantivas vigentes al momento de su inicio.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 2 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA EL REGISTRO DE ORGANIZACIONES CIUDADANAS ANTE EL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor y surtirá efectos al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento del Instituto Electoral de la Ciudad de México para el Registro de Organizaciones Ciudadanas, aprobado el 04 de agosto de 2017 mediante Acuerdo del Consejo General IECM/ACU/CG/024/2017 y publicado en la Gaceta Oficial del Distrito Federal el 08 de agosto de 2017.
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo serán resueltos conforme a las normas sustantivas vigentes al momento de su inicio.
+
+CUARTO. Las Organizaciones Ciudadanas que actualmente cuentan con registro ante el Instituto Electoral deberán realizar el trámite de refrendo dentro de los dos años posteriores contados a partir de la entrada en vigor del presente reglamento.
+
+QUINTO. El registro a través de la Plataforma de Participación se podrá realizar una vez que se cuente con la herramienta informática correspondiente.
+
+SEXTO. Los casos no previstos en el presente Reglamento serán atendidos por la Comisión de Participación Ciudadana y Capacitación.
