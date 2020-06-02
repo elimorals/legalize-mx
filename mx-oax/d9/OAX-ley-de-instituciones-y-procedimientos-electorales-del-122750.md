@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2020-05-30"
+last_updated: "2020-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2020.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -5965,7 +5965,13 @@ QUINTO: Los asuntos que se encuentren en trámite a la entrada en vigor del pres
 
 SEXTO: El voto de los ciudadanos oaxaqueños en el extranjero por vía electrónica, se realizará hasta en tanto el INE haga pública la comprobación del sistema a utilizar para la emisión del voto en dicha modalidad, en términos del artículo décimo tercero de la Ley General.
 
-SÉPTIMO: Las elecciones ordinarias locales que se verifiquen en el año 2018, se llevarán a cabo el primer domingo del mes de julio.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2020)</small>
+
+SÉPTIMO: El Proceso Electoral Ordinario 2020-2021 para elegir diputadas y diputados al Congreso del Estado de Oaxaca, así como Concejales a los Ayuntamientos de los Municipios que electoralmente se rigen por partidos políticos, por única ocasión dará inicio en los primeros cinco días del mes de diciembre del año 2020. El Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, sesionará durante los primeros cinco días del mes de diciembre del año 2020, con el objeto de declarar iniciado el proceso electoral correspondiente.
+
+La jornada electoral del Proceso Electoral Ordinario 2020-2021, tendrá lugar el primer domingo del mes de junio del 2021.
+
+El Consejo General del Instituto Electoral por mayoría de votos de sus integrantes, modificará los plazos y hará los ajustes necesarios dentro del calendario electoral establecido para el mismo proceso, con base en la fecha de inicio del Proceso Ordinario 2020-2021 y la fecha de la jornada electoral.
 
 OCTAVO: El Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, procederá en un plazo máximo de sesenta días naturales a partir de la entrada en vigor del presente Decreto a nombrar al Secretario Ejecutivo y Directores Ejecutivos en los términos de esta Ley.
 
@@ -6050,3 +6056,15 @@ TERCERO. Para el cumplimiento de los artículos 15, 24, 32 y 52 de la Ley de Ins
 CUARTO. La Secretaría General de Gobierno deberá realizar una campaña de difusión, con perspectiva intercultural, en coordinación con la Secretaría de las Mujeres de Oaxaca, el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y la Secretaría de Pueblos Indígenas y Afromexicano, en medios de comunicación impresos, digitales, radio y televisión, en español y traducido a las lenguas indígenas del Estado, con el objetivo de que las mujeres de Oaxaca, conozcan sus derechos político electorales.
 
 QUINTO. Para los efectos del párrafo décimo tercero del artículo 182 de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca, respecto a la integración de las planillas de concejales, indistintamente del género que encabece la planilla, la última fórmula será integrada por el género femenino, se considera que esta medida será de carácter temporal, en tanto no se alcance la paridad.
+
+P.O. 2 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1515.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO NÚMERO 633, PUBLICADO EL 3 DE JUNIO DEL AÑO 2017 EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE OAXACA, POR EL QUE SE CREA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El Poder Ejecutivo del Estado contará con quince días naturales a partir de la entrada en vigor del presente Decreto para reasignar los recursos que no se erogarán debido a la reducción del proceso electoral, dirigiéndolos para cubrir, en el ejercicio fiscal 2020, las necesidades de seguridad del personal médico de las instituciones públicas que hagan frente a la emergencia sanitaria por COVID-19, así como para la adquisición de insumos, equipos, medicamentos e infraestructura para la atención médica de la epidemia, de lo que informará detalladamente al Congreso del Estado en el mismo plazo.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+CUARTO. Se derogan todas las disposiciones de igual o mejor jerarquía que se opongan al presente Decreto.
