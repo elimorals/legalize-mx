@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-141362"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-02-17"
-last_updated: "2020-02-17"
+last_updated: "2020-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141362&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-01-08"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2020.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 17 de febrero de 2020.
 
@@ -58,6 +58,10 @@ Los servidores públicos del Consejo, los miembros de la Junta de Gobierno y tod
 El Estatuto Orgánico establece las atribuciones que corresponden a los órganos y Unidades Administrativas que conforman el Consejo.
 
 Los órganos colegiados creados y operados por el Consejo para la ejecución de sus diversos programas, podrán sesionar de manera no presencial, a través de medios remotos de comunicación, los cuales pueden ser en forma enunciativa mas no limitativa, videoconferencia, audioconferencia o cualquier otro medio conocido o por conocerse que permita una presencia virtual, en la inteligencia de que el procedimiento de convocatoria, la lista de asistencia y el acta respectiva, deberán contener las firmas autógrafas correspondientes que permitan identificar el quórum requerido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+No podrán ser miembros de los órganos colegiados, ni ser invitados a sus sesiones, las personas que tengan litigios o procedimientos pendientes en contra del Consejo.
 
 ###### Artículo 4.
 
@@ -347,7 +351,9 @@ a) Dirección Adjunta de Desarrollo Científico.
 
 b) Dirección Adjunta de Desarrollo Tecnológico, Vinculación e Innovación.
 
-C. (SIC) Unidades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+B. Unidades:
 
 a) Unidad de Articulación Sectorial y Regional.
 
@@ -357,39 +363,63 @@ c) Unidad de Asuntos Jurídicos.
 
 d) Unidad de Administración y Finanzas.
 
-D. Secretaría Ejecutiva de la CIBIOGEM.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-E. Coordinaciones:
+C. Secretaría Ejecutiva de la CIBIOGEM.
 
-a) Coordinación de Apoyo a Becarios e Investigadores.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
 
-b) Coordinación de Proyectos de Comunicación e Información Estratégica.
+D. Coordinaciones:
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+a) Coordinación de Apoyos a Becarios e Investigadores
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+b) Coordinación de Comunicación.
 
 c) Coordinación de Repositorios, Investigación y Prospectiva.
 
-F. Órgano Interno de Control.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-IV. (SIC) Órgano de vigilancia: Comisario Público.
+E. Órgano Interno de Control.
 
-V. Órganos Colegiados Internos:
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+III. Órgano de vigilancia: Comisario Público.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+IV. Órganos Colegiados Internos:
 
 a) Comisión Asesora.
 
 b) Foro Consultivo Científico y Tecnológico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
 ###### Artículo 9.
 
-La estructura básica del Consejo será la siguiente:
+Las Unidades Administrativas estarán adscritas a la Dirección General, con excepción de la Coordinación de Apoyos a Becarios e Investigadores y la Coordinación de Comunicación, que estarán adscritas a la Dirección Adjunta de Desarrollo Científico y a la Unidad de Planeación, Comunicación y Cooperación Internacional, respectivamente.
 
-Las Unidades Administrativas estarán adscritas a la Dirección General, con excepción de la Coordinación de Apoyos a Becarios e Investigadores y la Coordinación de Proyectos de Comunicación e Información Estratégica, que estarán adscritas a la Dirección Adjunta de Desarrollo Científico y a la Unidad de Planeación, Comunicación y Cooperación Internacional, respectivamente.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
 
 Las Unidades Administrativas, a su vez, estarán integradas de las áreas que abajo se enuncian, cuyas facultades se establecerán en los Manuales de Organización que al efecto se expidan.
 
-Dirección General
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+La estructura básica del Consejo será la siguiente:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+A. Dirección General
 
 Dirección de Vinculación y Enlace Nacional e Internacional
 
-Coordinación de Repositorios, Investigación y Prospectiva
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+a) Coordinación de Repositorios, Investigación y Prospectiva
 
 Dirección de Infraestructura y Soporte Operativo
 
@@ -399,7 +429,9 @@ Dirección de Repositorios y Procesamiento de Datos
 
 Dirección de Arquitectura y Modelado para Cómputo Aplicado a Datos
 
-Dirección Adjunta de Desarrollo Científico
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+I. Dirección Adjunta de Desarrollo Científico
 
 Dirección de Ciencia de Frontera
 
@@ -407,7 +439,9 @@ Dirección de Programas Nacionales Estratégicos
 
 Dirección de Redes Horizontales del Conocimiento e Infraestructura Científica
 
-Coordinación de Apoyos a Becarios e Investigadores
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+a) Coordinación de Apoyos a Becarios e Investigadores
 
 Dirección de Posgrado
 
@@ -417,7 +451,9 @@ Dirección de Vocaciones Científicas y SNI
 
 Dirección de Análisis Estratégico
 
-Dirección Adjunta de Desarrollo Tecnológico, Vinculación e Innovación
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+II. Dirección Adjunta de Desarrollo Tecnológico, Vinculación e Innovación
 
 Dirección de Estrategia Tecnológica
 
@@ -425,7 +461,9 @@ Dirección de Vinculación e Innovación
 
 Dirección de Energías y Cambio Climático
 
-Unidad de Articulación Sectorial y Regional
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+III. Unidad de Articulación Sectorial y Regional
 
 Dirección de Vinculación y Articulación Regional
 
@@ -443,27 +481,31 @@ Dirección Regional 6 Occidente
 
 Dirección de Articulación de Centros de Investigación
 
-Unidad de Planeación, Comunicación y Cooperación Internacional
+> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 2 DE JUNIO DE 2020)</small>
 
-Dirección de Análisis Estadístico y Evaluación
+IV. Unidad de Planeación, Comunicación y Cooperación Internacional
 
-Dirección de Información y Normativa de Ciencia, Tecnología e Innovación
+Dirección de Planeación y Evaluación
 
-Dirección de Producción Editorial y Audiovisual
+Dirección de Acceso Universal al Conocimiento
 
 Dirección de Cooperación Internacional
 
-Coordinación de Proyectos de Comunicación e Información Estratégica
+a) Coordinación de Comunicación
 
-Dirección de Comunicación Estratégica
+Dirección de Contenidos, Producción Editorial y Audiovisual
 
-Unidad de Asuntos Jurídicos
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+V. Unidad de Asuntos Jurídicos
 
 Dirección de Consulta y Estudios Normativos
 
 Dirección de Estrategias y Procesos Jurídicos
 
-Unidad de Administración y Finanzas
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+VI. Unidad de Administración y Finanzas
 
 Dirección de Administración Presupuestal y Financiera
 
@@ -473,13 +515,17 @@ Dirección de Recursos Materiales y Servicios Generales
 
 Dirección de Administración e Información de Fondos CONACYT
 
-Secretaría Ejecutiva de la CIBIOGEM
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+VII. Secretaría Ejecutiva de la CIBIOGEM
 
 Dirección de Información y Fomento a la Investigación
 
 Dirección de Políticas y Normativa
 
-Órgano Interno de Control
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+VIII. Órgano Interno de Control
 
 Área de Auditoría Interna (Subcontralor)
 
@@ -781,9 +827,15 @@ XX. Imponer las sanciones laborales a que se haga acreedor el personal adscrito 
 
 XXI. Elaborar el Manual de Organización Específico de la Unidad Administrativa a su cargo y proponerlo a la Unidad de Administración y Finanzas para su expedición, previa validación de la Unidad de Asuntos Jurídicos.
 
-XXII. Las anteriores y todas las facultades que tenga atribuidas podrá realizarlas la Unidad Administrativa por si o a través de la estructura orgánica bajo su cargo, sin perjuicio de conservar su ejercicio directo.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XXIII. Las demás que establezcan las disposiciones legales y administrativas aplicables, el presente Estatuto Orgánico y las que le sean encomendadas por el Director General, en el ámbito de sus competencias.
+XXII. Las anteriores y todas las facultades que tenga atribuidas podrá realizarlas la Unidad Administrativa por sí o a través de la estructura orgánica bajo su cargo, sin perjuicio de conservar su ejercicio directo.
+
+En su caso, supervisar la operación de las coordinaciones que se encuentren a su cargo.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXIII. Las demás que establezcan las disposiciones legales y administrativas aplicables, el presente Estatuto Orgánico y las que le sean encomendadas por el Director General y, en su caso, el titular de la Dirección Adjunta o Unidad a la que se encuentren adscritos, en el ámbito de sus competencias.
 
 #### Sección I. Direcciones Adjuntas
 
@@ -809,7 +861,9 @@ VIII. Autorizar en el ámbito de su competencia, la definición de los ordenamie
 
 IX. Planear en coordinación con las Unidades Administrativas en los ámbitos de sus competencias: la formación y consolidación de la comunidad científica y humanística de alto nivel; la realización de estudios de prospectiva Nacional y de procesos de evaluación de sus programas; y a solicitud expresa, brindar asesoría a las dependencias y entidades de la administración pública federal, así como, a los gobiernos de las entidades federativas, a los municipios y demás organismos del sector público, social y privado; y evaluar la pertinencia de creación de centros de investigación en materia de ciencia.
 
-X. En conjunto con la Coordinación de Comunicación de la Ciencia impulsar programas de formación de vocaciones científicas y coadyuvar en el desarrollo de programas destinados a la difusión y apropiación social del conocimiento y la promoción de la cultura científica, tecnológica y de innovación.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+X. En conjunto con la Unidad de Planeación, Comunicación y Cooperación Internacional impulsar programas de formación de vocaciones científicas y coadyuvar en el desarrollo de programas destinados a la difusión y apropiación social del conocimiento y la promoción de la cultura científica, tecnológica y de innovación.
 
 XI. Establecer y coordinar estrategias de inclusión de las poblaciones sub representadas que garanticen igualdad de oportunidades y equidad de género, en todas las convocatorias y los procesos de evaluación a cargo de la Dirección Adjunta de Desarrollo Científico.
 
@@ -901,6 +955,8 @@ XX. Planear posibles transformaciones de las entidades paraestatales reconocidas
 
 XXI. Consolidar la función del CONACYT como el eje rector del SNCTI para detectar y atender las problemáticas nacionales, regionales y locales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
 ###### Artículo 25.
 
 Corresponde a la Unidad de Planeación, Comunicación y Cooperación Internacional:
@@ -915,7 +971,9 @@ IV. Dirigir la elaboración de todos los informes del sector que solicite el Eje
 
 V. Determinar, en coordinación con la Coordinación de Apoyos a Becarios e Investigadores, las necesidades de personal especializado de los sectores de la sociedad, regiones y entidades federativas del país.
 
-VI. Establecer, procesar, analizar y difundir sistemáticamente la información de las actividades de ciencia y tecnología en México, y elaborar anualmente los indicadores de las Actividades Científicas y Tecnológicas, así como la Cuenta Nacional de Ciencia, Tecnología e Innovación.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+VI. Elaborar anualmente los indicadores de las Actividades Científicas y Tecnológicas, así como la Cuenta Nacional de Ciencia, Tecnología e Innovación.
 
 VII. Publicar anualmente el Informe General del Estado de la Ciencia, la Tecnología y la Innovación en México, y coordinar otros estudios de análisis y prospectiva.
 
@@ -927,55 +985,107 @@ X. Coordinar la realización de encuestas para la obtención de información req
 
 XI. Coordinar la participación del Consejo ante el grupo de expertos en indicadores de ciencia y tecnología de la OCDE, ante la Red Iberoamericana de Indicadores de Ciencia y Tecnología y otras instancias internacionales de estadísticas en la materia.
 
-XII. Determinar la política integral de los sistemas de información del Consejo.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XIII. Dirigir la instrumentación, coordinación, ejecución, operación, seguimiento y evaluación anual del Programa Especial.
+XII. Dirigir la instrumentación, coordinación, ejecución, operación, seguimiento y evaluación anual del Programa Especial.
 
-XIV. Coordinar la implementación y presentación de resultados del Programa Anual de Evaluación del Consejo.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XV. Coordinar las actividades relacionadas con el diseño, revisión y seguimiento de la Matriz de Indicadores de Resultados de los programas presupuestarios del Consejo.
+XIII. Coordinar la implementación y presentación de resultados del Programa Anual de Evaluación del Consejo.
 
-XVI. Establecer y verificar la aplicación y resultados de la metodología, lineamientos e indicadores de evaluación de programas y fondos científicos y tecnológicos.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XVII. Coordinar la alineación de reglas de operación de programas y fondos con la política de ciencia, tecnología e innovación del país, así como con los sistemas de información del Consejo y los programas anuales de evaluación.
+XIV. Coordinar las actividades relacionadas con el diseño, revisión y seguimiento de la Matriz de Indicadores de Resultados de los programas presupuestarios del Consejo.
 
-XVIII. Planear la coordinación del Comité Intersecretarial para la Integración del Presupuesto Federal en materia de ciencia, tecnología e innovación.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XIX. Conducir y administrar el SINECYT, fijando sus objetivos, funciones y forma de organización dentro de las disposiciones normativas que al efecto se expidan.
+XV. Establecer y verificar la aplicación y resultados de la metodología, lineamientos e indicadores de evaluación de programas y fondos científicos y tecnológicos.
 
-XX. Representar al Consejo, en la planeación, elaboración de estadísticas e indicadores, así como en los ámbitos en que sea requerido, con el Instituto Nacional de Estadística, Geografía e Informática, entre otros.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XXI. Planear prioridades y criterios de asignación del gasto en ciencia, tecnología e innovación del Ramo Presupuestal del Consejo, en coordinación con las Unidades Administrativas correspondientes.
+XVI. Coordinar la alineación de reglas de operación de programas y fondos con la política de ciencia, tecnología e innovación del país, así como con los sistemas de información del Consejo y los programas anuales de evaluación.
 
-XXII. Determinar, en coordinación con la Unidad de Administración y Finanzas, la integración de la propuesta de estructura programática y la elaboración de la exposición de motivos del Presupuesto de Egresos de la Federación a emplear en cada ejercicio presupuestal.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XXIII. Establecer vínculos con los proyectos, organismos y editores asociados a las publicaciones científicas periódicas y coordinar acciones para conformar una política de desarrollo en este ámbito a nivel nacional.
+XVII. Planear la coordinación del Comité Intersecretarial para la Integración del Presupuesto Federal en materia de ciencia, tecnología e innovación.
 
-XXIV. Integrar y coordinar la implementación del Programa Anual de Evaluación del Consejo, vigilando el cumplimiento de la normativa establecida en la materia para los programas públicos federales, así como para las dependencias y entidades de la administración pública federal.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XVIII. Conducir y administrar el SINECYT, fijando sus objetivos, funciones y forma de organización dentro de las disposiciones normativas que al efecto se expidan.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XIX. Representar al Consejo en materia de planeación, elaboración de estadísticas e indicadores, así como en los ámbitos en que sea requerido, con el Instituto Nacional de Estadística y Geografía, entre otros.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XX. Planear prioridades y criterios de asignación del gasto en ciencia, tecnología e innovación del Ramo Presupuestal del Consejo, en coordinación con las Unidades Administrativas correspondientes.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXI. Determinar, en coordinación con la Unidad de Administración y Finanzas, la integración de la propuesta de estructura programática y la elaboración de la exposición de motivos del Presupuesto de Egresos de la Federación a emplear en cada ejercicio presupuestal.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXII. Establecer vínculos con los proyectos, organismos y editores asociados a las publicaciones científicas periódicas y coordinar acciones para conformar una política de desarrollo en este ámbito a nivel nacional.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXIII. Integrar y coordinar la implementación del Programa Anual de Evaluación del Consejo, vigilando el cumplimiento de la normativa establecida en la materia para los programas públicos federales, así como para las dependencias y entidades de la administración pública federal.
 
 Diseñar la estrategia de evaluación de los resultados y el impacto de los programas y proyectos gubernamentales de ciencia, tecnología e innovación coordinados por el Consejo.
 
-XXV. Coordinar las políticas transversales de Acceso Abierto y Ciencia Abierta del Consejo.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XXVI. Establecer las líneas estratégicas en materia de cooperación internacional en ciencia y tecnología y determinar las modalidades de cooperación internacional que se implementarán para contribuir a la solución de necesidades y prioridades nacionales.
+XXIV. Coordinar las políticas transversales de Acceso Abierto y Ciencia Abierta del Consejo.
 
-XXVII. Coordinar las acciones de cooperación internacional del Consejo con la finalidad de mantener una comunicación eficiente con las Unidades Administrativas y la Dirección General.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XXVIII. Establecer líneas de negociación para acuerdos, memorándums de entendimiento, convenios, cartas de intención y otros instrumentos con actores internacionales (gubernamentales, multilaterales, universidades, centros de investigación y otros) para establecer los términos y los compromisos de cooperación internacional del Consejo en materia de investigación científica, desarrollo tecnológico, innovación, movilidad y formación especializada de la comunidad académica, científica, tecnológica y de innovación.
+XXV. Establecer las líneas estratégicas en materia de cooperación internacional en ciencia y tecnología y determinar las modalidades de cooperación internacional que se implementarán para contribuir a la solución de necesidades y prioridades nacionales.
 
-XXIX. Representar al Consejo y al Director General en reuniones bilaterales, multilaterales, foros y organismos científicos y tecnológicos internacionales, cuando se requiera.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XXX. Diseñar, coordinar, evaluar y dar seguimiento, en el ámbito de su competencia, a los programas de cooperación internacional.
+XXVI. Coordinar las acciones de cooperación internacional del Consejo con la finalidad de mantener una comunicación eficiente con las Unidades Administrativas y la Dirección General.
 
-XXXI. Planear acciones que impulsen y fortalezcan la presencia y participación de México en materia de ciencia y tecnología en foros internacionales y organismos multilaterales.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XXXII. Coordinar la agenda internacional del Consejo e integrar las comunicaciones y concertación de encuentros en México y el extranjero.
+XXVII. Establecer líneas de negociación para acuerdos, memorándums de entendimiento, convenios, cartas de intención y otros instrumentos con actores internacionales (gubernamentales, multilaterales, universidades, centros de investigación y otros) para establecer los términos y los compromisos de cooperación internacional del Consejo en materia de investigación científica, desarrollo tecnológico, innovación, movilidad y formación especializada de la comunidad académica, científica, tecnológica y de innovación.
 
-XXXIII. Promover compromisos y acciones de cooperación internacional prioritarios para el Consejo y que estén en concordancia con los lineamientos y objetivos de política exterior que se establecen en el Plan Nacional de Desarrollo.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XXXIV. Diseñar contenidos editoriales y audiovisuales que promuevan las actividades del Consejo y el avance de los objetivos establecidos en el Programa Especial.
+XXVIII. Representar al Consejo y al Director General en reuniones bilaterales, multilaterales, foros y organismos científicos y tecnológicos internacionales, cuando se requiera.
 
-XXXV. Coordinar las actividades de difusión que promuevan el acceso universal al conocimiento científico, tecnológico y de innovación realizado en el país.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXIX. Diseñar, coordinar, evaluar y dar seguimiento, en el ámbito de su competencia, a los programas de cooperación internacional.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXX. Planear acciones que impulsen y fortalezcan la presencia y participación de México en materia de ciencia y tecnología en foros internacionales y organismos multilaterales.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXXI. Coordinar la agenda internacional del Consejo e integrar las comunicaciones y concertación de encuentros en México y el extranjero.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXXII. Promover compromisos y acciones de cooperación internacional prioritarios para el Consejo y que estén en concordancia con los lineamientos y objetivos de política exterior que se establecen en el Plan Nacional de Desarrollo.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXXIII. Coordinar las actividades de difusión que promuevan el acceso universal al conocimiento científico, tecnológico y de innovación realizado en el país.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXXIV. Promover la capacitación en escritura científica.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXXV. Realizar traducciones y revisar textos en inglés o idiomas extranjeros, así como dictaminar textos y contenidos científicos y de divulgación científica, y las demás actividades que contribuyan a la promoción del acceso universal al conocimiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXXVI. Elaborar los lineamientos estratégicos para la difusión de la ciencia.
 
 ###### Artículo 26.
 
@@ -1035,13 +1145,15 @@ XXI. Analizar la procedencia de medios alternativos para la solución de controv
 
 XXII. Asistir y representar a las Unidades Administrativas, en los aspectos jurídicos de las relaciones laborales del Consejo, incluidas las de naturaleza colectiva, y gestionar las controversias que deriven de ellas. Así como, en todo lo que corresponda para salvaguardar los intereses y patrimonio del Consejo.
 
-XXIII. Dictaminar la aplicación de las sanciones de carácter laboral a que se hagan acreedores los trabajadores del Consejo por violación a las disposiciones laborales aplicables, así como reconsiderar, en su caso, los dictámenes que hubiese emitido.
+XXIII. (DEROGADA, D.O.F. 2 DE JUNIO DE 2020)
 
 ###### Artículo 27.
 
 Corresponde a la Unidad de Administración y Finanzas:
 
-I. Dirigir la administración del patrimonio y los recursos financieros, materiales, humanos y de las tecnologías de la información y comunicación del Consejo, así como participar en la coordinación sectorial de las políticas de planeación, programación y presupuestación.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+I. Dirigir la administración del patrimonio y los recursos financieros, materiales y humanos del Consejo, así como participar en la coordinación sectorial de las políticas de planeación, programación y presupuestación.
 
 II. Participar, en coordinación con la Unidad de Planeación, Comunicación y Cooperación Internacional, en la integración de la propuesta de estructura programática para cada ejercicio presupuestal.
 
@@ -1103,9 +1215,13 @@ l) Solicitar a los miembros de la CIBIOGEM la información referente a los conve
 
 II. Formular y presentar a la CIBIOGEM:
 
-a) El Programa de Trabajo Bienal de la CIBIOGEM y el informe final del mismo.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-b) El Programa para el Desarrollo de la Bioseguridad y la Biotecnología.
+a) El Programa de Trabajo Anual de la Secretaría Ejecutiva de la CIBIOGEM y el informe final del mismo.
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+b) Los análisis y propuestas para la formulación del Programa para el Desarrollo de la Bioseguridad y la Biotecnología, en los términos establecidos en la Ley de Bioseguridad y la Ley.
 
 c) El anteproyecto de presupuesto para el desarrollo de las actividades de la CIBIOGEM, de la Secretaría Ejecutiva y del CCC.
 
@@ -1113,9 +1229,13 @@ d) El proyecto de las disposiciones que regulen el funcionamiento y aquello que 
 
 e) El proyecto de bases de operación y funcionamiento del Sistema Nacional de Información sobre Bioseguridad.
 
-f) El proyecto de Reglas de Operación de la CIBIOGEM, así como las bases de funcionamiento del CCC, del CCM y del Comité Técnico, regulados en la LBOGM, así como sus modificaciones.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-g) El informe anual de trabajo de la CIBIOGEM.
+f) El proyecto de Reglas de Operación de la CIBIOGEM, así como las bases de funcionamiento del CCC, del CCM y del Comité Técnico, regulados en la LBOGM y sus modificaciones.
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+g) El informe de las actividades realizadas por el Presidente de la CIBIOGEM al término de su gestión.
 
 h) Los resultados de los estudios e investigaciones a su cargo.
 
@@ -1137,15 +1257,21 @@ e) Las demás que le encomiende la CIBIOGEM y las que sean necesarias para su bu
 
 IV. Administrar y ejercer los recursos necesarios para el desarrollo de sus actividades, así como de las actividades de la CIBIOGEM y del CCC contemplados en el presupuesto del Consejo, de conformidad con la Ley de Bioseguridad y demás disposiciones aplicables.
 
-V. Apoyar a la CIBIOGEM para la formulación y operación del programa para el desarrollo a la investigación científica y tecnológica en Bioseguridad y Biotecnología, así como en la construcción, actualización y operación del Fondo para el fomento y apoyo a la investigación científica y tecnológica de Bioseguridad y Biotecnología; y sus reglas de operación
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-VI. Apoyar a la CIBIOGEM en la formulación y preparación de dictámenes para el establecimiento de zonas libres de OGMs con la opinión técnica de la CONABIO.
+V. Formular y apoyar en la operación del Programa para el Desarrollo de la Bioseguridad y la Biotecnología, en los términos establecidos en la Ley de Bioseguridad y la Ley; así como en la construcción, actualización y operación del Fondo para el fomento y apoyo a la investigación científica y tecnológica de Bioseguridad y Biotecnología; y sus reglas de operación.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+VI. Apoyar a la CIBIOGEM en la formulación y preparación de dictámenes para el establecimiento de zonas libres de OGMs en los términos establecidos en la Ley de Bioseguridad.
 
 VII. Apoyar a la CIBIOGEM en la realización de los estudios y las consideraciones socioeconómicas, en los términos de las disposiciones nacionales e internacionales aplicables.
 
 VIII. Apoyar a la CIBIOGEM en el establecimiento de los mecanismos para realizar la consulta y la participación de los pueblos y comunidades indígenas asentadas en las zonas donde se pretenda la liberación de OGMs, en los términos de las disposiciones nacionales e internacionales aplicables.
 
-IX. Formular y desarrollar el Sistema Nacional de Información sobre Bioseguridad; así como el proyecto de las disposiciones que regulen su funcionamiento. Para lo cual solicitará la información que se requiera, así como incorporar la correspondiente al Registro Nacional de Bioseguridad de los OGMs, en los términos que marca la Ley de Bioseguridad y las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+IX. Formular y desarrollar el Sistema Nacional de Información sobre Bioseguridad; y el proyecto de las disposiciones que regulen su funcionamiento. Para lo cual solicitará la información que se requiera, así como incorporar la correspondiente al Registro Nacional de Bioseguridad de los OGMs, en los términos que marca la Ley de Bioseguridad y las disposiciones aplicables.
 
 X. Formular y desarrollar el Registro Nacional de Bioseguridad de los OGMs; así como el proyecto de las disposiciones que regulen su funcionamiento. Para lo cual solicitará la información que se requiera en los términos que marca la Ley de Bioseguridad y las disposiciones aplicables.
 
@@ -1153,7 +1279,9 @@ XI. Facilitar y promover las acciones necesarias de fomento a la bioseguridad, a
 
 XII. Promover, coordinar y supervisar la participación de la CIBIOGEM en eventos, foros y reuniones de carácter internacional, contribuir al cumplimiento de convenios y acuerdos internacionales en materia de bioseguridad y biotecnología, así como al seguimiento de los compromisos derivados de los mismos.
 
-XIII. Supervisar y coordinar la colaboración entre la Secretaría Ejecutiva e instituciones gubernamentales y no gubernamentales; centros educativos y de investigación para el establecimiento de canales de comunicación e intercambio de información en temas de bioseguridad; así mismo, celebrar convenios o acuerdos de coordinación entre las mismas para cumplir con el objeto de la CIBIOGEM y de la propia Secretaría Ejecutiva.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XIII. Supervisar y coordinar la colaboración entre la Secretaría Ejecutiva e instituciones gubernamentales y no gubernamentales; centros educativos y de investigación para el establecimiento de canales de comunicación e intercambio de información en temas de bioseguridad; asimismo, celebrar convenios o acuerdos de coordinación entre las mismas para cumplir con el objeto de la CIBIOGEM y de la propia Secretaría Ejecutiva.
 
 XIV. Elaborar y publicar anualmente el informe de la situación general existente en el país en materia de biotecnología y bioseguridad.
 
@@ -1161,7 +1289,9 @@ XV. Asegurar el fomento, apoyo y fortalecimiento de la investigación científic
 
 XVI. Proponer a la CIBIOGEM y al CTA del Fondo CIBIOGEM las demandas de investigación científica y tecnológica en bioseguridad y biotecnología para gestionar su apoyo a través de recursos del Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología.
 
-XVII. Fungir como Punto Focal Nacional ante el Secretariado del Protocolo de Cartagena sobre Seguridad de la Biotecnología del Convenio sobre la Diversidad Biológica, nombrar al Punto Focal Nacional del Centro de Intercambio de Información sobre Seguridad de la Biotecnología del Protocolo de Cartagena y proporcionar la información establecida en el mencionado Protocolo.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XVII. Fungir como Punto Focal Nacional ante el Secretariado del Protocolo de Cartagena sobre Seguridad de la Biotecnología del Convenio sobre la Diversidad Biológica, nombrar a los Puntos Focales Nacionales que deriven del Protocolo de Cartagena y proporcionar la información establecida en el mencionado Protocolo.
 
 XVIII. Realizar las actividades relativas a la intervención de México en los organismos y foros internacionales en las materias que son competencia de la CIBIOGEM, con la participación que corresponda a la SRE.
 
@@ -1173,9 +1303,13 @@ XXI. Conducir, coordinar y operar los mecanismos de participación pública en l
 
 XXII. Fomentar y facilitar la concientización, educación y participación del público relativas a la bioseguridad.
 
-XXIII. Consultar a los grupos interesados, en lenguaje comprensible y a través de los medios a los que tienen acceso, buscando la participación de los pueblos y comunidades indígenas. En colaboración con las áreas de Comunicación Social de las instancias integrantes de la CIBIOGEM, además de aquellas instancias competentes.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XXIV. Conducir, coordinar y operar la Red Nacional de Laboratorios de Detección, Identificación y Cuantificación de OGMs, y la Red Mexicana de Monitoreo de OGMs; así mismo formular el proyecto de las disposiciones que regulen su funcionamiento.
+XXIII. Consultar a los grupos interesados, en lenguaje comprensible y a través de los medios a los que tienen acceso, buscando la participación de los pueblos y comunidades indígenas. En colaboración con las áreas de comunicación social de las instancias integrantes de la CIBIOGEM, además de aquellas instancias competentes.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXIV. Conducir, coordinar y operar la Red Nacional de Laboratorios de Detección, Identificación y Cuantificación de OGMs, y la Red Mexicana de Monitoreo de OGMs; asimismo formular el proyecto de las disposiciones que regulen su funcionamiento.
 
 XXV. Verificar que los proyectos que sean sometidos a consideración de la CIBIOGEM para obtener apoyo a través de los Instrumentos de Apoyo a la Investigación Científica, el Desarrollo Tecnológico y la Innovación que prevé la Ley y la Ley de Bioseguridad, cumplan con las regulaciones o limitaciones que por motivos de seguridad, de salud, de ética o de cualquier otra causa de interés público determinen las disposiciones legales nacionales o los tratados internacionales de los que el Estado mexicano sea parte.
 
@@ -1233,31 +1367,67 @@ XXI. Dirigir la estrategia para el proceso de instrumentación y operación de l
 
 XXII. Coordinar con el área que corresponda, la divulgación del PNPC, y del Programa de Becas de Posgrado y Apoyos a la Calidad del Consejo, para potenciar los beneficios derivados de las convocatorias y de los convenios nacionales e internacionales que suscriba el Consejo.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
 ###### Artículo 30.
 
-Corresponde a la Coordinación de Proyectos de Comunicación e Información Estratégica, adscrita a la Unidad de Planeación, Comunicación y Cooperación Internacional:
+Corresponde a la Coordinación de Comunicación, adscrita a la Unidad de Planeación, Comunicación y Cooperación Internacional:
 
-I. Generar y aplicar estrategias de comunicación entre los diferentes actores sociales involucrados directa o indirectamente en la producción, aplicación, transferencia y difusión del conocimiento científico y tecnológico.
+I. Generar los comunicados oficiales, avisos y notas informativas de los hechos y actividades sustanciales de la institución para ser difundidos entre los medios de información, sitio web y redes sociales institucionales.
 
-II. Coordinar el desarrollo y consolidación de redes horizontales de difusión del conocimiento científico y tecnológico, buscando que todos los sectores sociales, especialmente los más marginados, tengan acceso a él y, por tanto, acceso a una cultura científica de calidad.
+II. Coordinar la organización de ruedas de prensa institucionales.
 
-III. Generar proyectos para conseguir que los espacios de difusión del conocimiento científico tengan una distribución geográfica, de infraestructura y de presupuesto que sea realmente equitativa.
+III. Buscar, registrar y sistematizar la información relacionada o en la que se mencione al Consejo en los medios noticiosos, a fin de elaborar síntesis informativas y distribuirlas entre los titulares de las Unidades Administrativas del Consejo.
 
-IV. Conceptualizar, desarrollar e instrumentar modelos y estrategias para la difusión del conocimiento científico que respondan a las necesidades nacionales, regionales y locales, que promuevan la apropiación social de la ciencia como un camino para mejorar la calidad de vida y que permitan construir un desarrollo social equitativo y sustentable.
+IV. Establecer y mantener mecanismos de coordinación con las áreas de comunicación social de otras dependencias de la Administración Pública Federal y de otras instituciones, para la organización de ruedas de prensa y elaboración de comunicados conjuntos.
 
-V. Promover el trabajo colaborativo entre asociaciones, organizaciones e instituciones —públicas y privadas— del área de la divulgación científica para desarrollar políticas locales, regionales y nacionales de apropiación pública del conocimiento científico.
+V. Fungir como enlace institucional con la Coordinación General de Comunicación Social y Vocería del Gobierno de la República.
 
-VI. Desarrollar e instrumentar políticas y modelos de difusión del conocimiento científico que permitan establecer diálogos horizontales con la sociedad y valorar las distintas visiones sobre las formas de producción y apropiación del conocimiento científico.
+VI. Mantener comunicación y diálogo con los representantes de medios informativos, a fin de atender y gestionar peticiones de información o aclaraciones.
 
-VII. Promover que las actividades de difusión no se restrinjan únicamente a las áreas de las ciencias naturales y las ciencias exactas, sino también a las humanidades y a las ciencias sociales.
+VII. Gestionar las solicitudes de entrevistas de los representantes de medios informativos, así como pedir autorización de éstas ante las instancias correspondientes.
 
-VIII. Detectar e instrumentar estrategias de evaluación del trabajo y acciones de mejora.
+VIII. Registrar y mantener actualizado el Directorio de Medios.
 
-IX. Diseñar y establecer los mecanismos de comunicación con la comunidad, los usuarios y los sujetos de apoyo de los programas del Consejo, así como con las dependencias, entidades y órganos de Gobierno, que corresponda en el ámbito de sus competencias.
+IX. Autorizar, previo acuerdo con la persona titular de la Dirección General, a las personas que integran el servicio público del Consejo para que publiquen o anuncien a la ciudadanía información por escrito o en formato electrónico, incluyendo grabaciones de audio o video, pronuncien discursos, concedan entrevistas o hagan apariciones públicas, en nombre o como representantes del Consejo.
 
-X. Solicitar los requerimientos en materia presupuestal para el cumplimiento del Plan Anual de Trabajo.
+X. Solicitar información a las distintas Unidades Administrativas del Consejo para elaborar tarjetas informativas de apoyo para las personas que integran el servicio público del Consejo que sean entrevistados (sic), así como asistir a la Dirección General durante el desarrollo de las entrevistas.
 
-XI. Atender las demás funciones y tareas que le asignen las disposiciones legales y administrativas en el ámbito de su competencia.
+XI. Grabar, conservar y mantener actualizados los archivos temáticos con audios y fotografías derivados de las entrevistas.
+
+XII. Preservar y mantener actualizado el archivo fotográfico de las actividades institucionales realizadas por la Dirección General.
+
+XIII. Coordinar la elaboración de las presentaciones para conferencias y eventos en los que participe la Dirección General.
+
+XIV. Supervisar la elaboración de contenidos, incluyendo textos, gráficos y audiovisuales, que se requieran para ser publicados en el sitio web y las redes sociales institucionales del Consejo. Así como coordinar directamente la elaboración de dichos contenidos cuando estén relacionados con las actividades de la Dirección General.
+
+XV. Dirigir la elaboración de los materiales gráficos necesarios, la realización de pruebas de pre-producción y la producción de transmisiones en vivo (vía streaming) de conferencias de prensa, sesiones informativas, eventos o talleres en línea que sean solicitados con anticipación por las Unidades Administrativas del Consejo.
+
+XVI. Registrar de manera sistematizada, en una parrilla de contenidos, todas las publicaciones realizadas en las redes sociales institucionales.
+
+XVII. Elaborar informes trimestrales con las notas informativas en las que se mencione al Consejo en los medios de comunicación, así como un registro de las publicaciones realizadas por la Coordinación de Comunicación en las redes sociales institucionales.
+
+XVIII. Planear, diseñar y elaborar un boletín digital (newsletter) con las noticias, datos y eventos relevantes de la institución para ser distribuida (sic) a través de correos electrónicos.
+
+XIX. Elaborar informes de seguimiento de temas coyunturales en redes sociales que tengan un impacto relevante para la institución.
+
+XX. Solicitar los requerimientos en materia presupuestal para el cumplimiento del Plan Anual de Comunicación, así como la gestión de este ante las instancias correspondientes.
+
+XXI. Diseñar e instrumentar el Plan Anual de Comunicación, incluyendo las campañas de difusión con los planes, programas y logros institucionales en los medios de comunicación elegidos (electrónicos, impresos, digitales, complementarios, etc.)
+
+XXII. Elaborar las parrillas de programación de contenidos para ser publicados en las redes sociales institucionales, ajustadas en la medida de lo posible con el Plan Anual de Comunicación y las campañas de difusión que apliquen.
+
+XXIII. Coordinar el diseño y producción de materiales impresos como libros, revistas, folletos, boletines, carteles, etc., así como libros digitales (ebook) y piezas de diseño gráfico como postales, infografías, imágenes, etc.
+
+XXIV. Diseñar y elaborar el manual de imagen y la señalética institucional, ajustándolas al manual de identidad gráfica del Gobierno de México, así como proponer los diseños de las distintas publicaciones impresas, digitales, en redes sociales, audiovisuales y, en su caso, de elementos identificatorios de programas de tv.
+
+XXV. Mantener, ampliar y gestionar el sitio web del Consejo y los micrositios institucionales, desarrollando bases de datos, libros y otros productos digitales, en los casos que aplique.
+
+XXVI. Dirigir el diseño, producción y publicación de los materiales de difusión de las Convocatorias del Consejo.
+
+XXVII. Mantener y gestionar las distintas redes sociales institucionales.
+
+XXVIII. Diseñar contenidos editoriales y audiovisuales que promuevan las actividades del Consejo y el avance de los objetivos establecidos en el Programa Especial.
 
 ###### Artículo 31.
 
@@ -1279,7 +1449,9 @@ VII. Articular las estrategias con otros equipos de ciencias de datos, centros p
 
 VIII. Desarrollar proyectos de análisis y difusión sobre temas prioritarios, tanto para desarrollar los recursos y capacidades dentro de la administración pública, como para apoyar en el entendimiento, visibilidad y atención de estos temas.
 
-IX. Desarrollar una infraestructura robusta y fluida para centralizar, facilitar el acceso a los datos y al conocimiento bajo todas sus formas, modernizando los métodos vigentes de acceso e interoperabilidad de la información con una visión de largo plazo.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+IX. Determinar la política integral de los sistemas de información del Consejo. Así como desarrollar una infraestructura robusta y fluida para centralizar, facilitar el acceso a los datos y al conocimiento bajo todas sus formas, modernizando los métodos vigentes de acceso e interoperabilidad de la información con una visión de largo plazo.
 
 X. Definir y actualizar continuamente estándares, vocabularios controlados y ontologías que permitan la organización eficiente, la reutilización y el acceso ágil a datos.
 
@@ -1307,7 +1479,9 @@ XXI. Coordinar la estrategia de Ciencia Abierta, revisando y manteniendo actuali
 
 XXII. Establecer los mecanismos de operación, administración y resultados esperados del SIICYT, así como coordinar el establecimiento de convenios de colaboración entre el Consejo y diferentes instancias para el desarrollo de sistemas de información a fin de que sean incorporados al mismo.
 
-XXIII. Dirigir la administración de las tecnologías de la información y comunicaciones del Consejo, garantizando los niveles de servicio en apego a la normativa aplicable.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XXIII. Establecer, procesar, analizar y difundir sistemáticamente la información de las actividades de ciencia y tecnología en México
 
 #### Sección V. Órgano Interno de Control
 
@@ -1347,7 +1521,11 @@ I. Será presidida por el representante de la dependencia del Ejecutivo Federal 
 
 II. Fungirán como Secretario y Prosecretario las personas que para el efecto fueren nombradas por la Junta de Gobierno, a propuesta del Director General.
 
-III. Contará con 14 Vocales, quienes serán:
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL D.O.F. DE 2 DE JUNIO DE 2020, PÁGINA 151. SE ADVIERTE QUE CAMBIA LA ESTRUCTURA DE LA PRESENTE FRACCIÓN.]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+III. Contará con 16 Vocales, quienes serán:
 
 a) Un Representante de la Secretaría de Economía.
 
@@ -1371,17 +1549,25 @@ j) El Titular de la Unidad de Planeación, Comunicación y Cooperación Internac
 
 k) El Titular de la Unidad de Articulación Sectorial y Regional.
 
-l) El Titular de la Unidad de Asuntos Jurídicos, cuando no esté en funciones de presidente suplente.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-m) El Titular de la Unidad de Administración y Finanzas
+l) El Titular de la Unidad de Administración y Finanzas
 
-n) El titular de la Secretaría Ejecutiva de la CIBIOGEM.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-o) El Titular de la Coordinación de Apoyo a Becarios e Investigadores
+m) El Titular de la Secretaría Ejecutiva de la CIBIOGEM.
 
-p) El Titular de la Coordinación de Proyectos de Comunicación e Información Estratégica
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-q) El Titular de la Coordinación de Repositorios, Investigación y Prospectiva
+n) El Titular de la Coordinación de Apoyos a Becarios e Investigadores
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+ñ) El Titular de la Coordinación de Comunicación
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+o) El Titular de la Coordinación de Repositorios, Investigación y Prospectiva
 
 IV. Serán invitados permanentes:
 
@@ -1420,6 +1606,12 @@ El cargo y la participación de los miembros de la mesa directiva, del secretari
 El Consejo deberá transmitir al Consejo General y a las dependencias, entidades y demás instancias competentes, las opiniones y propuestas del Foro, informando a éste sobre el resultado de las mismas. Las opiniones y propuestas que presente el Foro se formularán con base en las recomendaciones que realicen sus comités, tomando en cuenta la opinión de las comunidades académicas, científicas y tecnológicas, así como de los sectores social y privado.
 
 Las Direcciones Adjuntas propondrán las bases de integración, funcionamiento y organización del Foro tomando en cuenta los criterios señalados en el artículo 36 de la Ley, las cuales serán expedidas conjuntamente por la mesa directiva del Foro y el Consejo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+Las Direcciones Adjuntas elaborarán la convocatoria a la que se refiere el segundo párrafo de la fracción V del artículo 36 de la Ley, la cual será expedida conjuntamente por el Consejo y el Foro.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 2 DE JUNIO DE 2020)</small>
 
 Se invitará a formar parte de la Junta de Gobierno a un miembro de la Mesa Directiva del Foro, teniendo las facultades que establece la Ley, la Ley Orgánica, la Ley de Bioseguridad, el presente Estatuto y los demás ordenamientos aplicables.
 
@@ -1485,15 +1677,33 @@ PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a la Dirección Adjunta de Desarrollo Tecnológico e Innovación, se entenderán referidas a la Dirección Adjunta de Desarrollo Tecnológico, Vinculación e Innovación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+Lo anterior sin perjuicio de lo que determine el Manual de Organización de la Dirección Adjunta de Desarrollo Tecnológico, Vinculación e Innovación.
+
 TERCERO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a la Dirección Adjunta de Centros de Investigación, se entenderán referidas a la Unidad de Articulación Sectorial y Regional.
 
-La Unidad de Articulación Sectorial y Regional también asumirá las facultades de la Dirección Adjunta de Desarrollo Regional.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+Lo anterior sin perjuicio de lo que determine el Manual de Organización de la Unidad de Articulación Sectorial y Regional.
 
 CUARTO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a la Dirección Adjunta de Planeación y Evaluación, se entenderán referidas a la Unidad de Planeación, Comunicación y Cooperación Internacional.
 
-QUINTO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a la Dirección Adjunta de Posgrado y Becas, se entenderán referidas a la Coordinación de Apoyo a Becarios e Investigadores.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 2 DE JUNIO DE 2020)</small>
 
-SEXTO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones en (sic) se hagan a la Coordinación de Proyectos, Comunicación e Información Estratégica, se entenderán referidas a la Coordinación de Proyectos de Comunicación e Información Estratégica.
+Lo anterior sin perjuicio de lo que determine el Manual de Organización de la Unidad de Planeación, Comunicación y Cooperación Internacional.
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+QUINTO. Todas las referencias que, en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a la Dirección Adjunta de Posgrado y Becas, se entenderán referidas a la Coordinación de Apoyos a Becarios e Investigadores.
+
+Lo anterior sin perjuicio de lo que determine el Manual de Organización de la Coordinación de Apoyos a Becarios e Investigadores.
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+SEXTO. Todas las referencias que, en las autorizaciones, nombramientos, documentos y demás disposiciones en (sic) se hagan a la Coordinación de Proyectos, Comunicación e Información Estratégica, se entenderán referidas a la Coordinación de Comunicación.
+
+Lo anterior sin perjuicio de lo que determine el Manual de Organización de la Coordinación de Comunicación.
 
 SÉPTIMO. Todas las referencias que en las autorizaciones, nombramientos, documentos y demás disposiciones se hagan a:
 
@@ -1527,13 +1737,23 @@ XI. La Dirección de Coordinación Sectorial, se entenderán referidas a la Dire
 
 La Dirección de Articulación de Centros de Investigación también asumirá las facultades de la Dirección de Asuntos Estratégicos del Sistema de Centros y de la Dirección de Planeación, Programación y Presupuesto de los Centros Públicos CONACYT.
 
-XII. La Dirección de Información y Normativa de Ciencia y Tecnología, se entenderán referidas a la Dirección de Información y Normativa de Ciencia, Tecnología e Innovación.
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-XIII. La Dirección de Divulgación y Difusión de Ciencia y Tecnología, se entenderán referidas a la Dirección de Producción Editorial y Audiovisual.
+XII. La Dirección de Análisis Estadístico y Evaluación, se entenderán referidas a la Dirección de Planeación y Evaluación.
+
+La Dirección de Planeación y Evaluación también asumirá las facultades de la Dirección de Información y Normativa de Ciencia y Tecnología.
+
+> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+
+XIII. La Dirección de Divulgación y Difusión de Ciencia y Tecnología, se entenderán referidas a la Dirección de Acceso Universal al Conocimiento.
 
 XIV. La Dirección de Normatividad, se entenderán referidas a la Dirección de Consulta y Estudios Normativos.
 
 XV. La Dirección de Procesos Jurídicos, se entenderán referidas a la Dirección de Estrategias y Procesos Jurídicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+Lo anterior sin perjuicio de lo que determine el Manual de Organización de la Unidad Administrativa que corresponda.
 
 OCTAVO. Se abroga el Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología publicado el 10 de junio de 2010 y sus reformas, así como el Manual de Organización del Consejo Nacional de Ciencia y Tecnología.
 
@@ -1545,6 +1765,22 @@ DÉCIMO PRIMERO. Los asuntos pendientes de resolución a la entrada en vigor del
 
 DÉCIMO SEGUNDO. Las unidades administrativas, en el ámbito de sus competencias, deberán adecuar la normativa vigente en todo aquello que guarde relación con el presente Estatuto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 2 DE JUNIO DE 2020)</small>
+
+DÉCIMO TERCERO. La terna para la designación de la Secretaría Técnica del Foro para el ejercicio 2020 será presentada por la Mesa Directiva del Foro en un plazo no mayor a 45 días naturales, contados a partir de la entrada en vigor del presente Estatuto Orgánico.
+
+Asimismo, la convocatoria para elegir a los investigadores que integren la Mesa Directiva del Foro será expedida en un plazo no mayor a 45 días naturales, contados a partir de la entrada en vigor del presente Estatuto Orgánico.
+
 Este Estatuto fue expedido por la Junta de Gobierno del Consejo Nacional de Ciencia y Tecnología, mediante Acuerdo 70 14/19 adoptado en su Septuagésima Sesión Ordinaria celebrada el día veinte de diciembre de dos mil diecinueve.
 
 Dado en la Ciudad de México, a los ocho días del mes de enero de dos mil veinte.- La Directora General, María Elena Álvarez-Buylla Roces.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 2 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. En cumplimiento a lo ordenado en el artículo 78 de la Ley General de Mejora Regulatoria, en un plazo de doce meses contados a partir de la publicación del presente Acuerdo en el Diario Oficial de la Federación, los costos de cumplimiento que en su caso genere el presente Acuerdo se compensarán con modificaciones en el Reglamento del Sistema Nacional de Investigadores.
