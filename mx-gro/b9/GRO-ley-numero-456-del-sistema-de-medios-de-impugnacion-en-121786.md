@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-456-del-sistema-de-medios-de-impugnacion-en-121786"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2017-06-23"
+last_updated: "2020-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 456 DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE JUNIO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2020.
 
 Ley publicada en el Alcance I al Número 44 en el Periódico Oficial del Estado de Guerrero, el viernes 2 de junio de 2017.
 
@@ -1249,6 +1247,10 @@ V. Para impugnar la violación al derecho de ser votado en las elecciones de los
 
 VI. Cuando considere que se violaron sus derechos político-electorales, de participar en el proceso de elección de los comités ciudadanos, por haberle negado indebidamente su registro como candidato; habiéndosele otorgado, se le revoque posteriormente; u obtenido el triunfo se le declara inelegible; También procederá para revisar la legalidad y constitucionalidad de los resultados. El Pleno del Tribunal Electoral resolverá a más tardar 16 días antes de la toma de posesión respectiva.
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2020)</small>
+
+VII. Considere la existencia de cualquier acto u omisión que constituya violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Guerrero y en la Ley de Instituciones y Procedimientos Electorales del Estado de Guerrero.
+
 ###### ARTÍCULO 99.
 
 El Juicio Electoral Ciudadano solo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes y la normatividad intrapartidaria respectivas establezcan para tal efecto.
@@ -1306,3 +1308,25 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 461 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO Y DE LA LEY NÚMERO 456 DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contraríen esta disposición.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+###### ARTICULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
