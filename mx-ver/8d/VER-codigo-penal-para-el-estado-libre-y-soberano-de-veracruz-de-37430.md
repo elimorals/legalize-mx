@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2020-05-07"
+last_updated: "2020-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JUNIO DE 2020.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1369,11 +1369,11 @@ III. Con la que esté o hubiese estado unida fuera de matrimonio, en un período
 
 Para los efectos de este artículo, se entenderá por uniones fuera de matrimonio las que existan entre quienes hagan vida en común, en forma constante y permanente, por un período mínimo de seis meses, o mantengan una relación de pareja, aunque no vivan en el mismo domicilio.
 
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2020)</small>
 
 ###### Artículo 154 Quáter.
 
-En todos los casos previstos en este Capítulo, el Ministerio Público acordará las medidas preventivas necesarias y pedirá al juez lo propio para salvaguardar la integridad física o psíquica de la víctima; si ésta fuere mujer, el Ministerio Público solicitará además al juez las órdenes de protección referidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave.
+En todos los casos previstos en este Capítulo, el Ministerio Público ordenará las medidas de protección que correspondan establecidas en el artículo 137 del Código Nacional de Procedimientos Penales; si la víctima fuese mujer también podrá solicitar las órdenes de protección referidas en la Ley de Acceso de las Mujeres a Una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave, para salvaguardar la integridad física o psíquica de la víctima, debiendo informar al juez para que en audiencia pública decrete lo procedente.
 
 ## TÍTULO II. DELITOS DE PELIGRO PARA LA VIDA O LA SALUD PERSONAL
 
@@ -5239,15 +5239,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS”.]
+G.O. 3 DE JUNIO DE 2020.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 563 QUE REFORMA EL ARTÍCULO 154 QUÁTER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo.- El Congreso de la Unión tendrá un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones que resulten necesarias a las leyes secundarias correspondientes, en los términos de este.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-Tercero.- Se derogan los artículos Transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía publicado en el Diario Oficial de la Federación el veinte de diciembre de dos mil trece, que se opongan a las disposiciones materia del presente Decreto.
-
-D.O.F. 31 DE OCTUBRE DE 2024.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 107, Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 105, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE INIMPUGNABILIDAD DE LAS ADICIONES O REFORMAS A LA CONSTITUCIÓN FEDERAL”.]
 
