@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2020-02-04"
+last_updated: "2020-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JUNIO DE 2020.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -1143,9 +1143,11 @@ X. Recibir del visitante la remuneración convenida por los servicios turístico
 
 XI. Los demás que establezcan éste y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2020)</small>
+
 ###### Artículo 97.
 
-Los prestadores de servicios turísticos tendrán las obligaciones siguientes:
+Las y los prestadores de servicios turísticos tendrán las obligaciones siguientes:
 
 I. Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono o correo electrónico, tanto del responsable del establecimiento como de la autoridad competente ante la que se puedan presentar quejas;
 
@@ -1189,19 +1191,25 @@ XX. Incluir en las tarifas de los servicios que se ofrecen al visitante, el pago
 
 XXI. Proporcionar al visitante los bienes o servicios ofrecidos en los términos acordados, excepto en casos fortuitos, de fuerza mayor o cuando aquél incumpla con el pago del servicio contratado o contravenga los reglamentos internos de los prestadores de servicios, regulados por las Normas Oficiales Mexicanas;
 
-XXII. Cumplir con las obligaciones que en materia de seguridad y salud les imponga la legislación vigente y, en su caso, los reglamentos municipales;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+XXII. Cumplir con las obligaciones que en materia de seguridad, migración y salud les imponga la legislación vigente y, en su caso, los reglamentos municipales;
 
 XXIII. Garantizar al usuario la tranquila y segura disposición y goce de los bienes y servicios prestados;
 
 XXIV. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada los servicios, ubicación, costo, restricciones y demás aspectos que sean de interés para el visitante; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2020)</small>
 
-XXV. Coadyuvar con la Secretaría en los programas que promuevan la donación de alimentos en buen estado no utilizados en hoteles y restaurantes, con la finalidad de que se destinen a la población en situación de carencia alimentaria; y
+XXV. Coadyuvar con la Secretaría en los programas que promuevan la donación de alimentos en buen estado no utilizados en hoteles y restaurantes, con la finalidad de que se destinen a la población en situación de carencia alimentaria;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+XXVI. Quienes tengan la responsabilidad de administración y manejo de un hotel, motel, casa de hospedaje o algún otro establecimiento donde se preste alojamiento mediante pago de una retribución, deberán exigir a quienes pretendan hospedarse por más de cuatro horas una identificación oficial al momento de su registro y, en su caso, el número de placas o características del vehículo en el que se transportan, dicha información deberá sujetarse a lo dispuesto por la Ley Federal de Protección de Datos Personales en Posesión de Particulares; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-XXVI. Las demás que establezcan los ordenamientos federales y estatales.
+XXVII. Las demás que establezcan los ordenamientos federales y estatales.
 
 ### CAPÍTULO II. De los visitantes
 
@@ -1229,17 +1237,33 @@ VIII. Contar con las condiciones de higiene y seguridad de sus personas y bienes
 
 IX. Los Visitantes Estatales contarán con un plan preferencial de descuento, con un mínimo de 20 % y un máximo de 50 %, sobre el precio establecido por producto turístico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2020)</small>
+
 ###### Artículo 99.
 
-Son deberes de los visitantes:
+Son deberes de las y los visitantes:
 
 I. Observar las normas usuales de convivencia en los establecimientos turísticos;
 
 II. Respetar el entorno natural y patrimonio cultural de los sitios en los que realice una actividad turística;
 
-III. Acatar las prescripciones particulares de establecimientos mercantiles y empresas cuyos servicios turísticos disfruten o contraten y particularmente las normas y reglamentos mercantiles de uso o de régimen interior; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+III. Acatar las prescripciones particulares de establecimientos mercantiles y empresas cuyos servicios turísticos disfruten o contraten y particularmente las normas y reglamentos mercantiles de uso o de régimen interior;
 
 IV. Pagar el precio de los servicios turísticos utilizados.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+V. Al hospedarse por más de cuatro horas en cualquier hotel, motel, casa de hospedaje o algún otros (sic) establecimiento donde se preste el servicio de alojamiento mediante pago de una retribución, exhibir al momento de su registro, identificación oficial vigente y, en su caso, el número de placas o características del vehículo en el que se transportan. Tratándose de extranjeros, deberán presentar documento idóneo expedido por autoridad competente que los identifique;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+VI. Observar las obligaciones que en materia de seguridad, migración y salud les imponga la legislación vigente; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+VII. Las demás que establezcan esta Ley y demás ordenamientos federales, estatales o municipales aplicables.
 
 ## TÍTULO DÉCIMO PRIMERO. Del Sistema Estatal de Información Estadística Turística
 
@@ -1574,3 +1598,11 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 3 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 561 POR EL QUE SE REFORMAN EL ACÁPITE Y LAS FRACCIONES XXII Y XXV DEL ARTÍCULO 97, Y EL ACÁPITE Y LA FRACCIÓN III AL ARTÍCULO 99 Y ADICIONA LA FRACCIÓN XXVI, RECORRIENDO LA SUBSECUENTE EN SU ORDEN NATURAL AL ARTÍCULO 97 Y LAS FRACCIONES V, VI Y VII AL ARTÍCULO 99 DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
