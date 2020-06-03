@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-hacendario-para-el-municipio-de-70963"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-11-04"
-last_updated: "2019-12-30"
+last_updated: "2020-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "VER"
 ---
 # CODIGO NUMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2020 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO NÚMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 3 DE JUNIO DE 2020.]</small>
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 4 de noviembre de 2009.
 
@@ -3063,9 +3063,9 @@ III. Reconocimiento de hijos 3.038
 
 IV. Adopciones 3.038
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
+(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019) (F. DE E., G.O. 3 DE JUNIO DE 2020)
 
-V. Celebración de matrimonios en oficina 214.306
+V. Celebración de matrimonios en oficina 24.306
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
