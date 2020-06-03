@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2020-05-06"
+last_updated: "2020-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE MAYO DE 2020 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 2 DE MAYO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2020.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -89,9 +87,9 @@ El Congreso del Estado tendrá su sede en la capital del Estado y sesionará en 
 
 Podrá declararse Recinto Oficial cualquier otro lugar, mediante formal Decreto.
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2020)</small>
 
-Por declaración de emergencia sanitaria emitida por las autoridades competentes, que impida la presencia física de las diputadas y los diputados para utilizar el Recinto Oficial o alguno alterno, se podrán realizar, de manera excepcional y previo acuerdo de la Presidencia de la Mesa Directiva, sesiones del Pleno o de la Diputación Permanente, y reuniones de la Junta de Coordinación Política, de la Mesa Directiva, de las comisiones y comités y, en su caso, discutir y votar mediante acceso remoto o virtual únicamente los asuntos relacionados con la emergencia referida, en materia de Salud, Seguridad Pública y Protección Civil, Presupuesto y Hacienda Pública, así como aquellos de carácter urgente. La mesa directiva garantizará al aprobar el orden del día esta última disposición.
+En caso de declaración de emergencia sanitaria emitida por las autoridades competentes, que impida la presencia física de las diputadas y los diputados para utilizar el Recinto Oficial o alguno alterno, se podrán realizar, de manera excepcional, previo acuerdo de la Presidencia de la Mesa Directiva, en la modalidad de acceso remoto o virtual, sesiones del Pleno o de la Diputación Permanente, reuniones de la Junta de Coordinación Política, de la Mesa Directiva, de las comisiones y comités, para conocer, analizar, discutir y, en su caso, votar los asuntos que les han sido encomendados y de su competencia.
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
 
@@ -741,9 +739,9 @@ XXI.- Llamar al orden al que faltare a él, sea representante popular, invitado,
 
 XXII.- Habilitar un recinto distinto al Oficial, por causas de fuerza mayor, caso fortuito, o cuando así fuese necesario dadas las condiciones de la sesión que está llevándose a cabo, para efectos de continuar desarrollando sus trabajos, garantizando la inviolabilidad del mismo y la seguridad de los integrantes de la Legislatura.
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2020)</small>
 
-De igual modo, emitir el Acuerdo para la celebración de sesiones del Pleno o de la Diputación Permanente, mediante acceso remoto o virtuales, por declaración de emergencia sanitaria emitida por las autoridades competentes en materia de salud, así como reuniones de las Comisiones Legislativas y Comités, únicamente para aquellos asuntos relacionados con la emergencia referida, en materia de Salud, Seguridad Pública y Protección Civil, Presupuesto y Hacienda Pública.
+De igual modo, en caso de que se emita declaración de emergencia sanitaria por las autoridades competentes en la materia, expedir el Acuerdo para la celebración de sesiones del Pleno o de la Diputación Permanente, reuniones de la Junta de Coordinación Política, Mesa Directiva, Comisiones Legislativas y Comités, en la modalidad de acceso remoto o virtual.
 
 XXIII.- Solicitar el auxilio de la fuerza pública, cuando sea necesario, para asegurar el buen funcionamiento del Congreso.
 
@@ -3142,6 +3140,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 2 DE MAYO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0713/2020 II P.O.".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0714/2020 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
