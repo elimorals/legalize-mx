@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-operacion-del-comite-tecnico-de-valuacion-de-8867
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-01"
-last_updated: "2012-08-01"
+last_updated: "2020-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88678&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-07-26"
 ---
 # REGLAMENTO DE OPERACION DEL COMITE TECNICO DE VALUACION DE LA SECRETARIA DE LA REFORMA AGRARIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA LA OPERACIÓN DEL COMITÉ TÉCNICO DE VALUACIÓN DE LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO, PUBLICADO EN EL D.O.F. DE 5 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE OPERACIÓN DEL COMITÉ TÉCNICO DE VALUACIÓN DE LA SECRETARÍA DE LA REFORMA AGRARIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2020 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 1 de agosto de 2012.
 
@@ -324,3 +326,15 @@ PRIMERO.- Se abroga el Reglamento de Operación del Comité Técnico de Valuaci�
 SEGUNDO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 26 de julio de 2012.- El Secretario de la Reforma Agraria, Abelardo Escobar Prieto.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. DE 5 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA LA OPERACIÓN DEL COMITÉ TÉCNICO DE VALUACIÓN DE LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO”.]
+
+PRIMERO.- Se abroga el Reglamento de Operación del Comité Técnico de Valuación de la Secretaría de Desarrollo Agrario, Territorial y Urbano de fecha 26 de julio de 2012, publicado el 1 de agosto del mismo año en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- A efecto de dar cumplimiento a los artículos 78 de la Ley General de Mejora Regulatoria y Quinto del “Acuerdo que fija los lineamientos que deberán ser observados por las dependencias y organismos descentralizados de la Administración Pública Federal, en cuanto a la emisión de los actos administrativos de carácter general a los que resulta aplicable el artículo 69-H de la Ley Federal de Procedimiento Administrativo”, publicado en el Diario Oficial de la Federación el 8 de marzo de 2017, la Secretaría de Desarrollo Agrario, Territorial y Urbano, realizará las acciones de simplificación indicadas en el AIR correspondiente.
