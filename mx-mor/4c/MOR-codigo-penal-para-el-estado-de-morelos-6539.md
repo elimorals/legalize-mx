@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2020-05-25"
+last_updated: "2020-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1048,6 +1048,14 @@ Cuando se cometa un delito doloso en contra de algún periodista, persona o inst
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2014)</small>
 
 En el caso anterior, se aumentará la pena hasta en una mitad cuando además el delito sea cometido por un servidor público en ejercicio de sus funciones o la víctima sea mujer y concurran razones de género en la comisión del delito, conforme a lo que establecen las leyes en la materia.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2020)</small>
+
+Cuando se cometa delito de homicidio, lesiones, amenazas o discriminación en contra de algún profesional, técnico, auxiliar o trabajador del Sector Salud, en situación de pandemia, epidemia, enfermedades transmisibles o cualquier otra de salubridad general contemplada por la normativa o las autoridades sanitarias competentes, se aumentarán hasta en una mitad las sanciones establecidas para esos delitos.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2020)</small>
+
+Se entiende por profesionales, técnicos y auxiliares a los especialistas a que se refieren los artículos 90 de la Ley de Salud del Estado de Morelos y 79 de la Ley General de Salud.
 
 ###### ARTICULO 59.
 
@@ -2580,6 +2588,10 @@ A quien por cualquier medio destruya o deteriore una cosa ajena o propia, en per
 ###### ARTICULO 194.
 
 Si el daño recae en bienes de valor científico, artístico, cultural o de utilidad pública, o se comete por medio de inundación, incendio o explosivos, se aplicará el incremento previsto para el robo calificado. En este caso, el supuesto de la fracción I del artículo 174 quedará comprendido dentro de la sanción establecida por la fracción II, para precisar la pena básica que deberá incrementarse.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2020)</small>
+
+Sin perjuicio de lo dispuesto por el párrafo anterior, cuando el daño se provoque a un hospital, clínica, centro de salud, consultorio médico o cualquier otro bien inmueble o unidad móvil destinada a la atención de la salud, en situaciones de pandemia, epidemia, enfermedades transmisibles o cualquier otra de salubridad general contemplada por la normativa o las autoridades sanitarias competentes, además se aplicará hasta una mitad más a las sanciones previstas para el delito.
 
 ###### ARTICULO 195.
 
@@ -5232,3 +5244,13 @@ PRIMER (SIC). Remítase el presente Decreto al Titular del Poder Ejecutivo, para
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan las disposiciones de igual o menor grado que se opongan a la presente reforma.
+
+P.O. 5 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS OCHENTA Y NUEVE.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, EN MATERIA DE PROTECCIÓN A LOS PROFESIONALES, TECNICOS, AUXILIARES Y TRABAJADORES DEL SECTOR SALUD, ANTE CUALQUIER SITUACIÓN DE SALUBRIDAD GENERAL”.]
+
+PRIMERA Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
