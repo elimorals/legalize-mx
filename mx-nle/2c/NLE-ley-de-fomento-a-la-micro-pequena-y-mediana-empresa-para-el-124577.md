@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2020-01-17"
+last_updated: "2020-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -211,7 +211,13 @@ VIII. Promover la modernización, innovación y desarrollo tecnológico en las M
 
 IX. Informar de manera general en materia económica y del conjunto de apoyos que se otorgan a las MIPYMES acorde a sus necesidades;
 
-X. Canalizar recursos de fondos federales para la adquisición de bienes y servicios de las MIPYMES del Estado; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2020)</small>
+
+X. Canalizar recursos de fondos federales para la adquisición de bienes y servicios de las MIPYMES del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2020)</small>
+
+X Bis. Auxiliar, con base en las disposiciones jurídicas aplicables en la materia, a las empresas solicitantes en la preparación y presentación de denuncias por prácticas monopólicas o contrarias a la libre competencia económica, ante la autoridad investigadora de la Comisión Federal de Competencia Económica; y
 
 XI. Fomentar la expansión nacional e internacional de las MIPYMES.
 
@@ -642,3 +648,11 @@ P.O. 17 DE ENERO DE 2020.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Para dar cumplimiento a las obligaciones emanadas de dicha reforma, estas se realizarán acorde a las capacidades financieras de la Secretaría de Economía y Trabajo y se tomarán en cuenta en el Presupuesto destinado a la misma en el ejercicio fiscal correspondiente.
+
+P.O. 5 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 297. SE REFORMA LA FRACCIÓN X Y SE ADICIONA LA FRACCIÓN X BIS AL PÁRRAFO PRIMERO DEL ARTÍCULO 7 DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
