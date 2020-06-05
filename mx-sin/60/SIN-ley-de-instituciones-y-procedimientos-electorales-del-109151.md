@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2017-12-11"
+last_updated: "2020-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -333,7 +333,9 @@ Las y los Presidentes Municipales que se encuentren en ejercicio, y pretendan su
 
 Las elecciones ordinarias se celebrarán el primer domingo de junio del año que corresponda.
 
-El Congreso del Estado convocará a elecciones dentro de la primera quincena del mes de septiembre del año previo al año de la elección.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2020)</small>
+
+El Congreso del Estado convocará a elecciones dentro de la primera quincena del mes de diciembre del año previo al año de la elección.
 
 El proceso electoral ordinario se inicia con la expedición de la convocatoria y concluye con la declaratoria que el Tribunal Electoral deberá publicar cuando:
 
@@ -549,33 +551,33 @@ Los partidos políticos estatales y los nacionales, gozarán de los mismos derec
 
 Los partidos políticos nacionales tienen derecho de participar en las elecciones estatales y municipales en los términos del artículo 41, párrafo cuarto, fracción I de la Constitución y en los establecidos en esta ley.
 
-Los partidos políticos al inicio del proceso electoral, en términos de la convocatoria que se expida para el caso, deberán solicitarle al Instituto, su acreditación para participar en el mismo dentro de los siguientes quince días a partir de la publicación de la convocatoria que declare iniciado el proceso electoral en el Estado para renovar los poderes constitucionales.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 5 DE JUNIO DE 2020)</small>
 
-El Instituto deberá de acordar la acreditación del partido político nacional para los procesos electorales en el Estado, dentro de los diez días siguientes a la solicitud recibida.
+Para el ejercicio del derecho reconocido en el párrafo anterior, bastará que cada partido político nacional lo manifieste por escrito al Instituto, dentro de los quince días posteriores a la publicación de la convocatoria a elecciones que expida el Congreso del Estado, proporcionando:
 
-La acreditación de los partidos políticos nacionales ante el Instituto deberá seguir las siguientes formalidades:
+I. El domicilio para notificaciones en la capital del Estado, al que se remitirán también las convocatorias a sesiones del Consejo General y de las comisiones de trabajo, así como cualquier otro aviso que se requiera;
 
-I. El partido solicita la acreditación por escrito dirigido al Instituto para cada proceso electoral;
+II. El directorio de integrantes de su dirigencia y demás órganos internos estatales, incluyendo teléfonos y correos electrónicos de contacto; y
 
-II. Deberán anexarse los documentos probatorios de su registro ante el Instituto Nacional Electoral, así como los documentos que contengan la declaración de principios, el programa de acción y los estatutos;
+III. El directorio de dirigencias y órganos municipales que tenga integrados.
 
-III. Señalar domicilio social permanente en la Capital del Estado de Sinaloa, mediante constancia levantada por un representante del Instituto, donde se manifieste la ubicación de sus instalaciones para sus actividades y notificaciones legales;
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE JUNIO DE 2020)</small>
 
-IV. Indicar cómo y por quiénes se integran sus órganos internos estatales; y,
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 5 DE JUNIO DE 2020)</small>
 
-V. Indicar cómo y por quiénes se integran sus órganos Municipales, los cuales deberán tener presencia en al menos la mitad más uno de los municipios de la Entidad.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 5 DE JUNIO DE 2020)</small>
 
-El Instituto tendrá en todo tiempo las facultades más amplias para verificar la información que los partidos políticos nacionales que pretendan su acreditación, le provean.
-
-El Instituto podrá negar la acreditación referida, si el partido político aspirante a la misma, le proporciona información falsa, incorrecta o incompleta.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 5 DE JUNIO DE 2020)</small>
 
 El Instituto en esta materia, tendrá en todo momento la obligación de integrar un expediente del asunto y resguardarlo.
 
 La información que en esta materia obre en el Instituto se considerará pública y por tanto a ella podrán tener acceso los ciudadanos conforme a los lineamientos que el Instituto defina al efecto.
 
-Dentro del primer mes del proceso electoral ordinario, el Instituto ordenará publicar en el Periódico Oficial, el acuerdo que emita sobre la procedencia de la acreditación de los partidos políticos nacionales.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2020)</small>
 
-La acreditación de los partidos políticos nacionales para participar en las elecciones locales deberá observarse al inicio de cada proceso electoral ordinario y sólo se suspenderá o perderá, de conformidad con lo dispuesto en esta ley.
+Dentro del primer mes del proceso electoral ordinario, el Instituto ordenará publicar en el Periódico Oficial del Estado, el listado de partidos políticos nacionales y locales que participarán en la elección.
+
+> <small>(DEROGADO DÉCIMO PÁRRAFO, P.O. 5 DE JUNIO DE 2020)</small>
 
 ###### Artículo 37.
 
@@ -1155,17 +1157,29 @@ IV. Del registro.
 
 El Consejo General emitirá y dará amplia difusión en la convocatoria que declara iniciado el proceso de registro de las y los ciudadanos interesados en postularse como candidatos independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, para la presentación de las solicitudes de registro, y para la emisión de la resolución sobre la procedencia, o improcedencia en su caso, del otorgamiento de las candidaturas, así como los topes de gastos que pueden erogar y los formatos para ello.
 
+(NOTA: EL 27 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, APARTADO B, TEMA 2 Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 135/2020 Y SU ACUMULADA 138/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2020)</small>
+
+DENTRO LOS ÚLTIMOS SIETE DÍAS DEL MES DE OCTUBRE DEL AÑO ANTERIOR A LA ELECCIÓN, el Consejo General del Instituto acordará los plazos en los que deberán desahogarse los procedimientos a que se refiere este artículo, y podrá AL CONCLUIR DICHO TÉRMINO publicar la convocatoria correspondiente.
+
 ###### Artículo 80.
 
 Las y los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del órgano correspondiente del Instituto, dependiendo del cargo al que aspiren, por escrito y en el formato que el Consejo General determine.
 
-En todo caso, la manifestación de la intención se realizará a partir del día siguiente al en que se emita la convocatoria y hasta el día previo al en que dé inicio el periodo para recabar el apoyo ciudadano correspondiente, conforme a las siguientes reglas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2020)</small>
+
+La manifestación de la intención se realizará a partir del día siguiente al de la celebración de la sesión del Consejo General para el inicio formal del proceso electoral y hasta el día previo al inicio del periodo para recabar el apoyo ciudadano correspondiente, conforme a las siguientes reglas:
 
 I. Las y los aspirantes al cargo de Gobernador del Estado, ante el Consejo General;
 
 II. Las fórmulas de aspirantes al cargo de Diputado local por el sistema de mayoría relativa ante el Consejo Distrital correspondiente; y,
 
 III. Las planillas de aspirantes a los cargos de Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa, ante el Consejo Municipal respectivo.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2020)</small>
+
+Las manifestaciones de intención de ciudadanos que pretendan postularse como candidatos independientes a los cargos de Diputados, Presidente municipal, Síndico Procurador y Regidurías, todos por el sistema de mayoría relativa, podrán presentarse supletoriamente ante el Consejo General, quien podrá acreditar a los aspirantes que hayan cumplido con los requisitos; así como recibir y resolver las solicitudes de registro de fórmulas de candidatos independientes a dichos cargos.
 
 Una vez hecha la comunicación a que se refiere el párrafo primero de este artículo y recibida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirantes.
 
@@ -1733,9 +1747,11 @@ Los partidos políticos podrán sustituir en todo tiempo a sus representantes, n
 
 En las sesiones de los órganos del Instituto, sólo el Presidente y los Consejeros Electorales tendrán derecho a voz y voto, el Presidente tendrá voto de calidad en caso de empate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2020)</small>
+
 ###### Artículo 142.
 
-El Consejo General funcionará en forma permanente, pero para efectos de dar inicio formal a los procesos electorales celebrará sesión en que así lo dé a conocer en la segunda quincena del mes de septiembre del año anterior al año de la elección ordinaria. A partir de esa fecha y hasta la conclusión del proceso el Consejo General sesionará por lo menos dos veces al mes.
+El Consejo General funcionará en forma permanente, pero para efectos de dar inicio formal a los procesos electorales celebrará sesión dentro de los cinco días posteriores a la fecha de expedición de la convocatoria a elecciones por el Congreso del Estado. A partir de esa fecha y hasta la conclusión del proceso el Consejo General sesionará por lo menos dos veces al mes.
 
 Concluido el proceso electoral, el Consejo General se reunirá a convocatoria de su Presidente.
 
@@ -1801,9 +1817,13 @@ I. Conducir la preparación, desarrollo y vigilancia del proceso electoral y cui
 
 II. Dictar normas y previsiones destinadas a hacer efectivas las disposiciones de esta ley;
 
-III. Designar durante la primera quincena del mes de noviembre del año previo al de la elección, al Presidente y consejeros electorales que integren los Consejos Distritales y a los integrantes de los Consejos Municipales con base en los lineamientos respectivos;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2020)</small>
 
-IV. Recibir y autorizar el registro de los Partidos Políticos nacionales, para participar en los procesos electorales locales;
+III. Designar durante la primera quincena del mes de enero del año de la elección, al Presidente y consejeros electorales que integren los Consejos Distritales y a los integrantes de los Consejos Municipales con base en los lineamientos respectivos;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2020)</small>
+
+IV. Recibir las manifestaciones de intención de participar en el proceso electoral que presenten los Partidos Políticos nacionales, para participar en los procesos electorales locales;
 
 V. Determinar conforme a las reglas establecidas en el Capítulo VIII del Título Tercero de esta ley, el monto del financiamiento público a que tendrán derecho los partidos políticos y acordar el calendario para la ministración de dicho financiamiento;
 
@@ -1844,6 +1864,10 @@ XXII. Resolver, en los términos de esta ley, el otorgamiento o pérdida del reg
 XXIII. Recibir de manera supletoria las solicitudes de registro de fórmulas de candidatos a Diputaciones por el sistema de mayoría relativa; y resolver sobre la procedencia o improcedencia de todas las solicitudes, incluidas las que se presenten en los Consejos Distritales Electorales;
 
 XXIV. Recibir supletoriamente solicitudes de registro de planillas municipales para la elección por el sistema de mayoría relativa y listas municipales de candidatos a Regidurías por el principio de representación proporcional y remitirlas para su resolución al Consejo Municipal o Distrital que corresponda;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2020)</small>
+
+XXIV Bis. Recibir supletoriamente las manifestaciones de intención de ciudadanos que pretendan postularse como candidatos independientes a los cargos de Diputados, Presidente municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa; acreditar a los aspirantes que hayan cumplido con los requisitos; así como recibir y resolver las solicitudes de registro de fórmulas de candidatos independientes a dichos cargos;
 
 XXV. Desahogar las dudas que se presenten sobre la aplicación e interpretación de esta ley;
 
@@ -2087,9 +2111,11 @@ Las y los Consejeros Electorales en el ejercicio de sus funciones, para garantiz
 
 Las y los Consejeros Electorales recibirán una dieta durante el proceso electoral y fungirán en Pleno hasta la calificación de las elecciones.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2020)</small>
+
 ###### Artículo 153.
 
-Los Consejos Distritales Electorales se instalarán durante la segunda quincena del mes de noviembre del año anterior al que se celebren las elecciones ordinarias. A partir de su instalación y hasta la conclusión del proceso, sesionarán en forma ordinaria por lo menos dos veces al mes.
+Los Consejos Distritales Electorales se instalarán durante la segunda quincena del mes de enero del año en que se celebren las elecciones ordinarias. A partir de su instalación y hasta la conclusión del proceso sesionarán en forma ordinaria por lo menos dos veces al mes.
 
 ###### Artículo 154.
 
@@ -2173,9 +2199,11 @@ Por cada representante de los partidos políticos y de los candidatos independie
 
 Las y los Consejeros Electorales de los Consejos Municipales, deberán de reunir los requisitos previstos en el artículo 152 de esta ley.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2020)</small>
+
 ###### Artículo 161.
 
-Los Consejos Municipales Electorales se instalarán durante la segunda quincena del mes de noviembre del año anterior al en que se celebren las elecciones ordinarias para Gobernador, y en la primera quincena del mes de enero del año de la elección, cuando se trate solamente de la renovación del Congreso del Estado y los Ayuntamientos. A partir de su instalación y hasta la conclusión del proceso, sesionarán por lo menos dos veces al mes.
+Los Consejos Municipales Electorales se instalarán durante la segunda quincena del mes de enero del año de la elección. A partir de su instalación y hasta la conclusión del proceso sesionarán por lo menos dos veces al mes.
 
 ###### Artículo 162.
 
@@ -4454,3 +4482,11 @@ P.O. 11 DE DICIEMBRE DE 2017.
 PRIMERO. El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción de lo dispuesto en el artículo siguiente.
 
 SEGUNDO. La reforma a la Ley de Instituciones y Procedimientos Electorales del Estado de Sinaloa entrará en vigor el día siguiente a aquel en que el Tribunal Estatal Electoral emita la última declaratoria de validez de las elecciones que se llevarán a cabo el primer domingo de julio de 2018.
+
+P.O. 5 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 454 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
