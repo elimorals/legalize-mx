@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-al-turismo-del-estado-de-nuevo-leon-51662"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-04"
-last_updated: "2018-01-08"
+last_updated: "2020-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO AL TURISMO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 4 de septiembre de 2006.
 
@@ -317,6 +317,20 @@ XI. Contar con los formatos foliados y de porte pagado para el sistema de quejas
 
 XII. Las demás que les señale esta Ley y su reglamento.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2020)</small>
+
+###### Artículo 27 Bis.
+
+Los prestadores de servicios turísticos que brinden el servicio de hospedaje, además de las obligaciones establecidas en el artículo anterior, deberán implementar medidas de seguridad para la protección de menores de edad, previa prestación del servicio.
+
+Para tal efecto, deberán al menos, realizar lo siguiente:
+
+I. Solicitar la exhibición de credencial de elector o de cualquier otro documento oficial que demuestre la mayoría de edad;
+
+II. Autorizar el ingreso de niñas, niños y adolescentes a las habitaciones o departamentos de establecimientos de hospedaje, exclusivamente en compañía de quien ejerza su patria potestad, tutela o guarda y custodia; y
+
+III. Notificar a la Procuraduría de Protección de Niñas, Niños y Adolescentes o al Ministerio Público, en caso de que se advierta la posible comisión de un delito.
+
 ### CAPÍTULO II. Del Registro Estatal de Turismo
 
 ###### Artículo 28.
@@ -417,13 +431,35 @@ I. Cumplir las condiciones convenidas al contratar el servicio turístico;
 
 II. Respetar y coadyuvar en la protección y preservación del patrimonio histórico y cultural, de los establecimientos turísticos y de los recursos naturales de la entidad;
 
-III. Informar a las autoridades turísticas o a las que corresponda, sobre cualquier acto, hecho u omisión que atente o ponga en peligro el patrimonio turístico y ecológico del Estado; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2020)</small>
 
-IV. Preservar la limpieza de las zonas, destinos y sitios turísticos, así como de los caminos que conducen hacia ellos.
+III. Informar a las autoridades turísticas o a las que corresponda, sobre cualquier acto, hecho u omisión que atente o ponga en peligro el patrimonio turístico y ecológico del Estado;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2020)</small>
+
+IV. Preservar la limpieza de las zonas, destinos y sitios turísticos, así como de los caminos que conducen hacia ellos;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2020)</small>
+
+V. Exhibir credencial de elector o de cualquier otro documento oficial que demuestre su mayoría de edad;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2020)</small>
+
+VI. En caso de hacer uso de los servicios de hospedaje en compañía de un menor de edad, demostrar o en su caso acreditar mediante documento idóneo ser quien ejerza la patria potestad, presentando la documentación establecida en los ordenamientos jurídicos aplicables; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2020)</small>
+
+VII. En caso de que el menor sea acompañado por persona distinta, ya sea por familiar o de tratarse de un viaje escolar o deportivo, el adulto que lo acompañe deberá acreditar mediante documento firmado por la persona que ejerce la patria potestad o guarda y custodia la autorización para realizar dicho viaje con el menor.
 
 ###### Artículo 44.
 
 Cuando el prestador de servicios turísticos incumpla con el servicio ofrecido o pactado, tendrá la obligación de reembolsar, bonificar o compensar la suma correspondiente al servicio incumplido, o bien, prestar otro servicio de la misma calidad o equivalencia, a elección del turista afectado.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2020)</small>
+
+###### Artículo 44 Bis.
+
+Cuando se incumplan con las obligaciones previstas en el artículo 27 bis de esta Ley, la Corporación para el Desarrollo Turístico de Nuevo León deberá aplicar las sanciones previstas en sus diposiciones legales y reglamentarias.
 
 ###### Artículo 45.
 
@@ -502,3 +538,11 @@ En caso de que los recursos aportados al fondo no sean suficientes para garantiz
 Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
 
 El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de fondo antes descrito antes del 1 de febrero del 2018.
+
+P.O. 5 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 292. SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 43 Y SE ADICIONAN LOS ARTÍCULOS 27 BIS, LAS FRACCIONES V, VI Y VII DEL ARTÍCULO 43 Y EL ARTÍCULO 44 BIS A LA LEY DE FOMENTO AL TURISMO DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- En un plazo de 120 días naturales contado a partir de la entrada en vigor del presente Decreto, el Gobierno del Estado de Nuevo León, deberá reglamentar las disposiciones relacionadas con el contenido de este instrumento.
