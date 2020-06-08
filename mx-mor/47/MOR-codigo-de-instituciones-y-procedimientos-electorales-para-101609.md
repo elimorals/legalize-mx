@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2019-12-25"
+last_updated: "2020-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MOR"
 ---
 # CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO Y PARIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/].
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
@@ -51,13 +53,19 @@ CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS 
 
 ### CAPÍTULO ÚNICO. MARCO JURÍDICO
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 1. Este Código es de orden público y tiene por objeto regular la función estatal de preparación, desarrollo, vigilancia y calificación de los procesos electorales ordinarios y extraordinarios que se celebran para elegir Gobernador, Diputados al Congreso del Estado y miembros de los ayuntamientos."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 1.
 
-Este Código es de orden público y tiene por objeto regular la función estatal de preparación, desarrollo, vigilancia y calificación de los procesos electorales ordinarios y extraordinarios que se celebran para elegir Gobernador, Diputados al Congreso del Estado y miembros de los ayuntamientos.
+ESTE CÓDIGO ES DE ORDEN PÚBLICO Y TIENE POR OBJETO REGULAR LA FUNCIÓN ESTATAL DE PREPARACIÓN, DESARROLLO, VIGILANCIA Y CALIFICACIÓN DE LOS PROCESOS ELECTORALES ORDINARIOS Y EXTRAORDINARIOS QUE SE CELEBRAN PARA ELEGIR A LA PERSONA TITULAR DEL PODER EJECUTIVO ESTATAL Y DE LOS MUNICIPIOS EN NUESTRA ENTIDAD, ASÍ COMO A LOS INTEGRANTES DE CADA UNO DE LOS CABILDOS EN LOS MISMOS Y; A LAS Y LOS INTEGRANTES DEL PLENO DEL CONGRESO DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Establece el marco jurídico que garantiza la efectividad del sufragio y, con ello, la vigencia de las instituciones republicanas y democráticas, a través del libre ejercicio de los derechos políticos de los ciudadanos; la realización, la organización, función y prerrogativas de los partidos políticos y las formas específicas de su intervención en los procesos electorales del Estado; así como la calificación de procedencia, organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana; en armonización con la normativa aplicable."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Establece el marco jurídico que garantiza la efectividad del sufragio y, con ello, la vigencia de las instituciones republicanas y democráticas, a través del libre ejercicio de los derechos políticos de los ciudadanos; la realización, la organización, función y prerrogativas de los partidos políticos y las formas específicas de su intervención en los procesos electorales del Estado; así como la calificación de procedencia, organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana; en armonización con la normativa aplicable.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+ESTABLECE EL MARCO JURÍDICO QUE GARANTIZA LA EFECTIVIDAD DEL SUFRAGIO Y, CON ELLO, LA VIGENCIA DE LAS INSTITUCIONES REPUBLICANAS Y DEMOCRÁTICAS, A TRAVÉS DEL LIBRE EJERCICIO DE LOS DERECHOS POLÍTICOS DE LA CIUDADANÍA; LA REALIZACIÓN, LA ORGANIZACIÓN FUNCIÓN Y PRERROGATIVAS DE LOS PARTIDOS POLÍTICOS Y LAS FORMAS ESPECÍFICAS DE SU INTERVENCIÓN EN LOS PROCESOS ELECTORALES DEL ESTADO; ASÍ COMO LA CALIFICACIÓN DE PROCEDENCIA, ORGANIZACIÓN, DESARROLLO, CÓMPUTO Y DECLARACIÓN DE RESULTADOS DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA; EN ARMONIZACIÓN CON LA NORMATIVA APLICABLE.
 
 La normativa federal se aplicará sin perjuicio de lo establecido en el presente Código.
 
@@ -85,49 +93,75 @@ La ciudadanía, los partidos políticos, los Poderes Ejecutivo y Legislativo y l
 
 Para los efectos del presente Código, se entenderá por:
 
-I. Candidatos Independientes, a los ciudadanos que una vez satisfechos los requisitos contenidos en la normativa, se les otorgue el registro respectivo, para tener, en lo que resulte aplicable, los derechos y obligaciones de los partidos políticos, ante las autoridades administrativas y jurisdiccionales locales;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Candidatos Independientes, a los ciudadanos que una vez satisfechos los requisitos contenidos en la normativa, se les otorgue el registro respectivo, para tener, en lo que resulte aplicable, los derechos y obligaciones de los partidos políticos, ante las autoridades administrativas y jurisdiccionales locales;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. Código, al Código de Instituciones y Procedimientos Electorales para el Estado de Morelos;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-III. Congreso, al Congreso del Estado de Morelos;
+I. CANDIDATAS O CANDIDATOS INDEPENDIENTES, A LAS CIUDADANAS Y CIUDADANOS QUE UNA VEZ SATISFECHOS LOS REQUISITOS CONTENIDOS EN LA NORMATIVA, SE LES OTORGUE EL REGISTRO RESPECTIVO, PARA TENER, EN LO QUE RESULTE APLICABLE, LOS DERECHOS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS, ANTE LAS AUTORIDADES ADMINISTRATIVAS Y JURISDICCIONALES LOCALES;
 
-IV. Consejo Estatal, al Consejo Estatal Electoral del Instituto Morelense de Procesos Electorales y Participación Ciudadana;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Código, al Código de Instituciones y Procedimientos Electorales para el Estado de Morelos;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-V. Constitución Federal, a la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-VI. Constitución, a la Constitución Política del Estado Libre y Soberano de Morelos;
+II. CIUDADANAS O CIUDADANOS, CIUDADANÍA: LAS PERSONAS QUE TENIENDO LA CALIDAD DE MEXICANAS REÚNAN LOS REQUISITOS DETERMINADOS EN EL ARTÍCULO 34 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS;
 
-VII. Determinaciones, a los acuerdos y resoluciones del Consejo Estatal Electoral;
+III. Código, al Código de Instituciones y Procedimientos Electorales para el Estado de Morelos;
 
-VIII. Gobernador, al Gobernador Constitucional del Estado de Morelos;
+IV. Congreso, al Congreso del Estado de Morelos;
 
-IX. Instituto Morelense, al Instituto Morelense de Procesos Electorales y Participación Ciudadana;
+V. Consejo Estatal, al Consejo Estatal Electoral del Instituto Morelense de Procesos Electorales y Participación Ciudadana;
 
-X. Instituto Nacional, al Instituto Nacional Electoral;
+VI. Constitución Federal, a la Constitución Política de los Estados Unidos Mexicanos;
 
-XI. Mecanismos de participación ciudadana, a los previstos en la Ley de la materia;
+VII. Constitución, a la Constitución Política del Estado Libre y Soberano de Morelos;
 
-XII. Normativa, a la Constitución Federal, los Tratados Internacionales, la Constitución, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, los reglamentos, lineamientos, resoluciones, acuerdos y determinaciones que dicte el Instituto Nacional, de aplicación directa o complementaria en el actuar del Instituto Morelense;
+VIII. Determinaciones, a los acuerdos y resoluciones del Consejo Estatal Electoral;
 
-XIII. Órganos jurisdiccionales estatales, al Tribunal Electoral del Estado de Morelos, Tribunal de Justicia Administrativa del Estado de Morelos, al Tribunal Unitario de Justicia para Adolescentes y a los demás órganos que por virtud de la normativa federal y estatal conozcan de las controversias suscitadas en el ámbito de sus competencias;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IX. Instituto Morelense, al Instituto Morelense de Procesos Electorales y Participación Ciudadana;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XIV. Partidos políticos, a los Partidos Políticos Nacionales y Locales debidamente registrados ante el Instituto Nacional o ante el Instituto Morelense, según sea el caso;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-XV. Periódico Oficial, al Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, y
+IX. TITULAR DEL PODER EJECUTIVO; AL GOBERNADOR O GOBERNADORA.
 
-XVI. Tribunal Electoral, al Tribunal Electoral del Estado de Morelos.
+X. Instituto Morelense, al Instituto Morelense de Procesos Electorales y Participación Ciudadana;
+
+XI. Instituto Nacional, al Instituto Nacional Electoral;
+
+XII. Mecanismos de participación ciudadana, a los previstos en la Ley de la materia;
+
+XIII. Normativa, a la Constitución Federal, los Tratados Internacionales, la Constitución, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, los reglamentos, lineamientos, resoluciones, acuerdos y determinaciones que dicte el Instituto Nacional, de aplicación directa o complementaria en el actuar del Instituto Morelense;
+
+XIV. Órganos jurisdiccionales estatales, al Tribunal Electoral del Estado de Morelos, Tribunal de Justicia Administrativa del Estado de Morelos, al Tribunal Unitario de Justicia para Adolescentes y a los demás órganos que por virtud de la normativa federal y estatal conozcan de las controversias suscitadas en el ámbito de sus competencias;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XV. Periódico Oficial, al Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, y"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XV. PARIDAD DE GÉNERO: IGUALDAD POLÍTICA ENTRE MUJERES Y HOMBRES, SE GARANTIZA CON LA ASIGNACIÓN DEL 50% MUJERES Y 50% HOMBRES EN CANDIDATURAS E INTEGRACIÓN EN CARGOS DE ELECCIÓN POPULAR EN EL CONGRESO DEL ESTADO Y EN LOS AYUNTAMIENTOS.
+
+XVI. Partidos políticos, a los Partidos Políticos Nacionales y Locales debidamente registrados ante el Instituto Nacional o ante el Instituto Morelense, según sea el caso;
+
+XVII. Periódico Oficial, al Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, y
+
+XVIII. Tribunal Electoral, al Tribunal Electoral del Estado de Morelos.
 
 ## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LAS ELECCIONES
 
 ### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 5. El sufragio es un derecho y una obligación del ciudadano. El voto es universal, libre, secreto, directo, personal e intransferible. Queda prohibido todo acto de presión, inducción o coacción del voto, los cuales serán sancionados de conformidad a lo que establezca este Código y la normativa aplicable."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 5.
 
-El sufragio es un derecho y una obligación del ciudadano. El voto es universal, libre, secreto, directo, personal e intransferible. Queda prohibido todo acto de presión, inducción o coacción del voto, los cuales serán sancionados de conformidad a lo que establezca este Código y la normativa aplicable.
+EL SUFRAGIO ES UN DERECHO Y UNA OBLIGACIÓN DE LA CIUDADANÍA. EL VOTO ES UNIVERSAL, LIBRE, SECRETO, DIRECTO, PERSONAL E INTRANSFERIBLE. QUEDA PROHIBIDO TODO ACTO DE PRESIÓN, INDUCCIÓN O COACCIÓN DEL VOTO, LOS CUALES SERÁN SANCIONADOS DE CONFORMIDAD A LO QUE ESTABLEZCA ESTE CÓDIGO Y LA NORMATIVA APLICABLE.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los ciudadanos morelenses tendrán, de forma enunciativa más no limitativa, los siguientes derechos político-electorales:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Los ciudadanos morelenses tendrán, de forma enunciativa más no limitativa, los siguientes derechos político-electorales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2020)</small>
+
+LA CIUDADANÍA MORELENSE TENDRÁ, DE FORMA ENUNCIATIVA MÁS NO LIMITATIVA, LOS SIGUIENTES DERECHOS POLÍTICO-ELECTORALES:
 
 I. Votar en las elecciones populares y participar en los procesos de participación ciudadana a que se convoquen;
 
@@ -147,19 +181,37 @@ IV. Ocupar el cargo para el cual fue electo y ejercer las funciones inherentes a
 
 V. Percibir una retribución por el ejercicio de su encargo de elección popular conforme a la normativa estatal y municipal aplicable;
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VI. Participar como observador electoral en los comicios locales, y"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-VI. Participar como observador electoral en los comicios locales, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+VI. PARTICIPAR COMO OBSERVADOR ELECTORAL EN LOS COMICIOS LOCALES;
 
-VII. Participar en los mecanismos de participación ciudadana.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VII. Participar en los mecanismos de participación ciudadana."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VII. PARTICIPAR EN LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VIII. LOS DERECHOS POLÍTICO-ELECTORALES, SE EJERCERÁN LIBRES DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+IX. LOS DERECHOS POLÍTICO-ELECTORALES DE LA CIUDADANÍA SE EJERCERÁN LIBRES DE TODA CLASE DE DISCRIMINACIÓN EN TÉRMINOS DEL ARTÍCULO PRIMERO CONSTITUCIONAL.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 6. Tendrán derecho a votar los ciudadanos morelenses que cuenten con credencial para votar con fotografía o, una resolución favorable del Tribunal Electoral del Poder Judicial de la Federación, y no se encuentren dentro de los supuestos siguientes:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 6.
 
-Tendrán derecho a votar los ciudadanos morelenses que cuenten con credencial para votar con fotografía o, una resolución favorable del Tribunal Electoral del Poder Judicial de la Federación, y no se encuentren dentro de los supuestos siguientes:
+TENDRÁN DERECHO A VOTAR LA CIUDADANÍA MORELENSE QUE CUENTEN CON CREDENCIAL PARA VOTAR CON FOTOGRAFÍA Y NO SE ENCUENTREN DENTRO DE LOS SUPUESTOS SIGUIENTES:
 
 I. Estar sujeto a proceso criminal privado de su libertad;
 
@@ -177,17 +229,29 @@ VI. Los demás que señale la normativa aplicable.
 
 Los ciudadanos morelenses radicados en el extranjero podrán participar en la elección para Gobernador del Estado, en los términos que señale la normativa.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 7. Para el ejercicio de sus derechos políticos electorales, los ciudadanos podrán asociarse individual y libremente en partidos políticos, en los términos establecidos en la Ley General de Partidos Políticos y este Código."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 7.
 
-Para el ejercicio de sus derechos políticos electorales, los ciudadanos podrán asociarse individual y libremente en partidos políticos, en los términos establecidos en la Ley General de Partidos Políticos y este Código.
+Para el ejercicio de sus derechos políticos electorales, los ciudadanos y ciudadanas podrán asociarse individual y libremente en partidos políticos, en los términos establecidos en la Ley General de Partidos Políticos y este Código.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 8. Es un derecho de los ciudadanos mexicanos poder participar como observadores electorales en términos de lo dispuesto en el artículo 217, numeral 1, inciso i), de la Ley General de Instituciones y Procedimientos Electorales y este Código."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 8.
 
-Es un derecho de los ciudadanos mexicanos poder participar como observadores electorales en términos de lo dispuesto en el artículo 217, numeral 1, inciso i), de la Ley General de Instituciones y Procedimientos Electorales y este Código.
+Es un derecho de las ciudadanas y ciudadanos mexicanos poder participar como observadores electorales en términos de lo dispuesto en el artículo 217, numeral 1, inciso i), de la Ley General de Instituciones y Procedimientos Electorales y este Código.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 9. Son obligaciones político-electorales de los ciudadanos:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 9.
 
-Son obligaciones político-electorales de los ciudadanos:
+SON OBLIGACIONES POLÍTICO-ELECTORALES DE LOS CIUDADANOS Y CIUDADANAS:
 
 I. Inscribirse en el Registro Federal de Electores;
 
@@ -211,11 +275,19 @@ VIII. Integrar las mesas directivas de casilla o mesa receptora del voto para el
 
 Sólo podrán admitirse excusas dentro del término previsto en este ordenamiento y cuando estas se funden en causas justificadas, las que el interesado comprobará a satisfacción de la autoridad que haya hecho el requerimiento.
 
-Será justificada la excusa del ciudadano, cuando haya sido designado representante de un partido político o candidato independiente, de una coalición o desempeñe cargo o función dentro de un organismo electoral o cuando sea candidato propietario o suplente a cargo de elección popular.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Será justificada la excusa del ciudadano, cuando haya sido designado representante de un partido político o candidato independiente, de una coalición o desempeñe cargo o función dentro de un organismo electoral o cuando sea candidato propietario o suplente a cargo de elección popular."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+SERÁ JUSTIFICADA LA EXCUSA DEL CIUDADANO O CIUDADANA, CUANDO HAYA SIDO DESIGNADO REPRESENTANTE DE UN PARTIDO POLÍTICO O CANDIDATO INDEPENDIENTE, DE UNA COALICIÓN O DESEMPEÑE CARGO O FUNCIÓN DENTRO DE UN ORGANISMO ELECTORAL O CUANDO SEA CANDIDATO PROPIETARIO O SUPLENTE A CARGO DE ELECCIÓN POPULAR.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 10. Son causas de responsabilidad de los ciudadanos:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 10.
 
-Son causas de responsabilidad de los ciudadanos:
+SON CAUSAS DE RESPONSABILIDAD DE LA CIUDADANÍA:
 
 I. No cumplir con sus obligaciones político-electorales, y
 
@@ -225,21 +297,33 @@ Estas darán lugar a la aplicación de las sanciones correspondientes.
 
 ### CAPÍTULO II. DE LOS REQUISITOS DE ELEGIBILIDAD
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 11. Son elegibles para los cargos de Gobernador, Diputados al Congreso del Estado y miembros integrantes de los ayuntamientos, los ciudadanos del Estado que, teniendo la calidad de electores, reúnan los requisitos que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, así como las demás leyes aplicables.
+
+No son elegibles para los cargos de elección popular, quienes hubieren ejercido como: Consejero Presidente, Consejeros Electorales, personal directivo del Instituto Morelense o Magistrados del Tribunal Electoral para el siguiente proceso electoral; en el modo y términos que establece la Constitución Política del Estado Libre y Soberano de Morelos."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 11.
 
-Son elegibles para los cargos de Gobernador, Diputados al Congreso del Estado y miembros integrantes de los ayuntamientos, los ciudadanos del Estado que, teniendo la calidad de electores, reúnan los requisitos que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, así como las demás leyes aplicables.
+Son elegibles para los cargos a la Gubernatura, Diputaciones del Congreso del Estado e integrantes de los Ayuntamientos, la ciudadanía del Estado que, teniendo la calidad de electores, reúnan los requisitos que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, así como las demás leyes aplicables y no haber sido condenada o condenado por el delito de violencia política contra mujeres en razón de género.
 
-No son elegibles para los cargos de elección popular, quienes hubieren ejercido como: Consejero Presidente, Consejeros Electorales, personal directivo del Instituto Morelense o Magistrados del Tribunal Electoral para el siguiente proceso electoral; en el modo y términos que establece la Constitución Política del Estado Libre y Soberano de Morelos.
+No son elegibles para los cargos de elección popular, quienes hubieren ejercido como: Consejera o Consejero Presidente o en las Consejerías Electorales, personal directivo del Instituto Morelense o en alguna magistratura del Tribunal Electoral; en el modo y términos que establece la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ## TÍTULO TERCERO. DE LA ELECCIÓN DEL PODER EJECUTIVO, DEL PODER LEGISLATIVO Y DE LOS AYUNTAMIENTOS DEL ESTADO
 
 ### CAPÍTULO I. DE LA ELECCIÓN DEL PODER EJECUTIVO
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 12. El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomina Gobernador Constitucional del Estado, electo por voto directo y mayoría relativa, cada seis años, en toda la Entidad.
+
+Para la designación de Gobernador interino, provisional o sustituto, se estará a lo que dispone la Constitución Política del Estado Libre y Soberano de Morelos."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 12.
 
-El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomina Gobernador Constitucional del Estado, electo por voto directo y mayoría relativa, cada seis años, en toda la Entidad.
+El ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador o Gobernadora Constitucional del Estado, electa por voto directo y mayoría relativa, cada seis años, en toda la Entidad.
 
-Para la designación de Gobernador interino, provisional o sustituto, se estará a lo que dispone la Constitución Política del Estado Libre y Soberano de Morelos.
+Para la designación de una Gobernadora o Gobernador interino, provisional o sustituto, se estará a lo que dispone la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ### CAPÍTULO II. DE LA ELECCIÓN DEL PODER LEGISLATIVO
 
@@ -263,21 +347,19 @@ Los diputados que pretendan reelegirse deberán estar en pleno ejercicio de sus 
 
 El estado de Morelos se divide en doce distritos electorales uninominales, determinados por el Instituto Nacional, de acuerdo a su facultad contenida en el artículo 214, numeral 1, de la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 15. Para la elección de Diputados, además de los distritos electorales uninominales, existirá una circunscripción plurinominal, constituida por toda la Entidad, en la que serán electos ocho diputados según el principio de representación proporcional, a través del sistema de lista estatal, integrada por hasta ocho candidatos propietarios y sus respectivos suplentes por cada partido político contendiente."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 15.
 
-Para la elección de Diputados, además de los distritos electorales uninominales, existirá una circunscripción plurinominal, constituida por toda la Entidad, en la que serán electos ocho diputados según el principio de representación proporcional, a través del sistema de lista estatal, integrada por hasta ocho candidatos propietarios y sus respectivos suplentes por cada partido político contendiente.
+Para la elección de las Diputaciones, además de los distritos electorales uninominales, existirá una circunscripción plurinominal, constituida por toda la Entidad, en la que serán electas ocho diputaciones según el principio de representación proporcional, a través del sistema de lista estatal, integrada por hasta ocho candidatas y candidatos propietarios y sus respectivos suplentes del mismo género, en listado de prelación alternando fórmulas de género distinto de manera sucesiva, por cada partido político contendiente.
 
-###### Artículo 16.
+Las listas de representación proporcional que presenten los partidos políticos se integrarán por fórmulas de candidaturas compuestas cada una por un propietario y un suplente del mismo género. En cada lista se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada una de las listas. Posteriormente se intercalará la lista “A” y la “B”, para crear la lista definitiva en términos del presente Código.
 
-Para la asignación de diputados de representación proporcional se procederá conforme a los siguientes criterios y fórmula de asignación:
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 16. Para la asignación de diputados de representación proporcional se procederá conforme a los siguientes criterios y fórmula de asignación:
 
-(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO Y NOVENO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: I. Tendrán derecho a participar en la asignación de diputados de representación proporcional, los partidos políticos que habiendo registrado candidatos de mayoría relativa en cuando menos doce distritos uninominales, hayan alcanzado por lo menos el tres por ciento de la votación estatal efectiva."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
-
-I. TENDRÁN DERECHO A PARTICIPAR EN LA ASIGNACIÓN DE DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL, LOS PARTIDOS POLÍTICOS QUE HABIENDO REGISTRADO CANDIDATOS DE MAYORÍA RELATIVA EN CUANDO MENOS OCHO DISTRITOS UNINOMINALES, HAYAN ALCANZADO POR LO MENOS EL CINCO POR CIENTO DE LA VOTACIÓN ESTATAL EFECTIVA.
+I. Tendrán derecho a participar en la asignación de diputados de representación proporcional, los partidos políticos que habiendo registrado candidatos de mayoría relativa en cuando menos ocho distritos uninominales, hayan alcanzado por lo menos el cinco por ciento de la votación estatal efectiva.
 
 Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento, en todo caso, deberá observarse que ningún partido político sobrepase de doce diputados por ambos principios.
 
@@ -287,79 +369,163 @@ III. La asignación de diputados se realizará mediante la aplicación de una f�
 
 IV. Para los efectos del presente Código, se entenderá por:
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
-
 a) Cociente Natural: Como el resultado de dividir la votación válida emitida, entre los ocho diputados de representación proporcional, y
 
 b) Resto Mayor: Como el remanente más alto, entre el resto de las votaciones de cada partido político, una vez hecha la distribución de diputaciones, mediante la aplicación del cociente natural. El resto mayor se utilizará, siguiendo el orden decreciente, cuando aún hubiese diputaciones por distribuir;
 
 V. La aplicación de la fórmula se desarrollará observando el siguiente procedimiento:
 
-(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO Y NOVENO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DEL INCISO A) DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: a) Se asignará un diputado a cada uno de los partidos políticos que hayan alcanzado por lo menos el tres por ciento de la votación estatal efectiva;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
-
-A) SE ASIGNARÁ UN DIPUTADO A CADA UNO DE LOS PARTIDOS POLÍTICOS QUE HAYAN ALCANZADO POR LO MENOS EL CINCO POR CIENTO DE LA VOTACIÓN VÁLIDA EMITIDA;
+a) Se asignará un diputado a cada uno de los partidos políticos que hayan alcanzado por lo menos el cinco por ciento de la votación válida emitida;
 
 b) En una segunda asignación, se distribuirán tantos diputados como veces contenga el cociente natural la votación obtenida por cada uno de los partidos políticos con derecho a ello;
 
+c) Si aún quedaren diputaciones por asignar, estas se repartirán en orden decreciente, atendiendo al resto mayor de cada partido político."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 16.
+
+Para la asignación de Diputadas y Diputados de representación proporcional se procederá respetando el principio de paridad de género, conforme a los siguientes criterios, fórmula de asignación, conceptos y principios:
+
+I. Tendrán derecho a participar en la asignación de diputaciones de representación proporcional, los partidos políticos que por sí o en coalición registren candidaturas de mayoría relativa en cuando menos quince distritos uninominales y que, como partido político, hayan alcanzado por lo menos el cuatro por ciento de la votación estatal emitida.
+
+Ningún partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total de la Legislatura, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento, en todo caso, deberá observarse que ningún partido político sobrepase de dieciséis diputaciones por ambos principios.
+
+II. La aplicación de la fórmula se desarrollará observando el siguiente procedimiento:
+
+a) Se asignará una diputación a cada uno de los partidos políticos que hayan alcanzado por lo menos el cuatro por ciento de la votación válida emitida;
+
+b) En una segunda asignación, se distribuirán tantas diputaciones como veces contenga el cociente natural la votación obtenida por cada uno de los partidos políticos con derecho a ello, y
+
 c) Si aún quedaren diputaciones por asignar, estas se repartirán en orden decreciente, atendiendo al resto mayor de cada partido político.
+
+III. Cociente natural: es el resultado de dividir la votación válida emitida entre el número de Diputaciones de representación proporcional por asignar, en los términos de este Código;
+
+IV. Cociente de distribución: Es el resultado de dividir la votación ajustada entre el número de Diputaciones de representación proporcional que quedan por asignar, una vez verificado el límite máximo de sobrerrepresentación, en los términos de este Código;
+
+V. Lista "A": Relación de cuatro fórmulas de candidaturas a las diputaciones: propietario y suplente del mismo género, listados en orden de prelación alternando fórmulas de género distinto de manera sucesiva, a elegir por el principio de representación proporcional, de las cuales una deberá estar integrada por una fórmula de candidatura indígena;
+
+VI. Lista "B": Relación de cuatro fórmulas de candidaturas a las diputaciones que no resultaron electos por el principio de mayoría relativa del distrito en que participaron, pero que alcanzaron a nivel distrital los mayores porcentajes de la votación local emitida, comparados respecto de otras fórmulas de su propio partido en esa misma elección; con la finalidad de garantizar la paridad de género, una vez que se determinó el primer lugar de ésta lista, el segundo lugar será ocupado por la fórmula del otro género con mayor porcentaje de la votación local emitida, e irán intercalando de esta manera hasta concluir la integración de la lista.
+
+VII. Lista Definitiva, es el resultado de intercalar las fórmulas de candidaturas de las Listas "A" y "B". La definición del orden de la lista definitiva integrada por candidaturas de la lista “A” o “B”, corresponde exclusivamente a las dirigencias de los partidos. Dicha lista se integrará una vez obtenida la votación válida emitida o la votación ajustada según sea el caso;
+
+VIII. Resto mayor: Es el remanente más alto entre los restos de las votaciones de cada partido, una vez hecha la distribución de espacios mediante cociente natural, el cual se utilizará cuando aún existan diputaciones por distribuir;
+
+IX. Votación ajustada: es la que resulte de deducir de la votación válida emitida los votos a favor de los partidos políticos a los que se les dedujo Diputadas o Diputados de representación proporcional por rebasar el límite de sobrerrepresentación y por superar el techo de dieciséis Diputados por ambos principios;
+
+X. Votación total emitida: es la suma de todos los votos depositados en las urnas en la elección de Diputaciones en todas las urnas del Estado de Morelos;
+
+XI. Votación válida emitida: es la que resulte de deducir de la votación total emitida, los votos a favor de candidatos no registrados y los votos nulos. Servirá para determinar si los partidos políticos cumplen con el umbral de votación establecido en la Constitución;
+
+XII. Votación estatal emitida: es la que resulte de deducir de la votación válida emitida, la votación a favor de los candidatos sin partido y los votos a favor de los partidos políticos que no alcanzaron el umbral de la votación válida emitida;
+
+XIII. Concluida la asignación total del número de diputaciones por el principio de representación proporcional a cada uno de los partidos políticos que superaron el cuatro por ciento de la votación válida emitida, se verificará si en conjunto con el total de Diputadas y Diputados electos se cumple con el principio de paridad en la integración del Congreso, y
+
+XIV. En caso de existir una integración de las diputaciones electas por ambos principios no paritaria, se deducirán tantas diputaciones electas por el principio de representación proporcional como sean necesarias del género sobrerrepresentado, y se sustituirán por las fórmulas del género subrepresentado, hasta agotar la lista.
+
+Para este fin, se alternará a los partidos políticos que hayan recibido diputaciones por el principio de representación proporcional, empezando por el partido que recibió el menor porcentaje de votación estatal emitida, y de ser necesario, continuando con el partido que haya recibido el segundo menor porcentaje de la votación estatal emitida y así sucesivamente en orden ascendente hasta cubrir la paridad.
 
 ### CAPÍTULO III. DE LA ELECCIÓN DE LOS AYUNTAMIENTOS
 
-###### Artículo 17.
-
-El municipio libre es la base de la división territorial y de la organización política y administrativa del Estado; estará gobernado por un ayuntamiento de elección popular directa, integrado por un Presidente Municipal y un Síndico, electos por el principio de mayoría relativa, y por regidores electos según el principio de representación proporcional.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 17. El municipio libre es la base de la división territorial y de la organización política y administrativa del Estado; estará gobernado por un ayuntamiento de elección popular directa, integrado por un Presidente Municipal y un Síndico, electos por el principio de mayoría relativa, y por regidores electos según el principio de representación proporcional.
 
 Para las elecciones de los integrantes de los ayuntamientos se estará a lo dispuesto por la Constitución, la Ley General de Instituciones y Procedimientos Electorales, la Ley Orgánica Municipal del Estado de Morelos y el presente Código.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
-
 La elección consecutiva para el cargo de presidentes municipales, síndicos y regidores de los Ayuntamientos será por un periodo adicional.
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
 
 La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubiere postulado, salvo que hayan renunciado o perdido su militancia hasta antes de cumplir la mitad del periodo para el que fueron electos.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+Los miembros de los Ayuntamientos que pretendan reelegirse deberán cumplir con los requisitos previstos en el artículo 117 de la Constitución Local y en el artículo 163 de este Código."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Los miembros de los Ayuntamientos que pretendan reelegirse deberán cumplir con los requisitos previstos en el artículo 117 de la Constitución Local y en el artículo 163 de este Código.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-###### Artículo 18.
+###### Artículo 17.
 
-La asignación de regidurías se sujetará a las siguientes reglas:
+El municipio libre es la base de la división territorial y de la organización política y administrativa del Estado; estará gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidencia Municipal y una Sindicatura, electas por el principio de mayoría relativa, y por Regidurías electas por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+En el registro de las candidaturas para las Alcaldías, Sindicaturas y Regidurías, los partidos políticos deberán garantizar el principio de paridad de género.
+
+Las fórmulas de candidaturas deberán considerar suplentes del mismo género que la persona propietaria.
+
+La elección consecutiva para el cargo de titular en la Presidencia, Sindicatura y Regidurías de los Ayuntamientos será por un periodo adicional.
+
+La postulación deberá siempre privilegiar la paridad de género y sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubiere postulado, salvo que hayan renunciado o perdido su militancia hasta antes de la mitad del periodo por el que fueron electos.
+
+En el caso de las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías que hayan obtenido el triunfo registrados como candidaturas independientes, también podrán ser postuladas a la reelección por un partido político, siempre y cuando se afilie a éste hasta antes de la mitad del término para el que fue electo.
+
+Las y los integrantes de los Ayuntamientos que pretendan reelegirse deberán cumplir con los requisitos previstos en el artículo 117 de la Constitución Local y en el artículo 163 de este Código.
+
+En la elección e integración de los Ayuntamientos existirá la paridad de género tanto vertical como horizontal.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 18. La asignación de regidurías se sujetará a las siguientes reglas:
 
 Se sumarán los votos de los partidos que hayan obtenido cuando menos el tres por ciento del total de los sufragios emitidos en el municipio correspondiente; el resultado se dividirá entre el número de regidurías por atribuir para obtener un factor porcentual simple de distribución, asignándose a cada partido, en riguroso orden decreciente, tantas regidurías como número de factores alcance hasta completar las regidurías previstas.
 
 Si aplicado el factor de distribución quedan regidurías por atribuir, éstas se asignarán en orden decreciente, de acuerdo tanto con los mayores porcentajes de votación obtenidos por los partidos políticos restantes, como con los porcentajes excedentes de aquéllos que obtuvieron regidurías con la aplicación de dicho factor.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+Al momento de realizar la asignación de regidurías, el Consejo Estatal observará las disposiciones constitucionales relativas a la sobre y subrepresentación; para ello se deberá observar la misma fórmula establecida para la asignación (sic) diputados por el principio de representación."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Al momento de realizar la asignación de regidurías, el Consejo Estatal observará las disposiciones constitucionales relativas a la sobre y subrepresentación; para ello se deberá observar la misma fórmula establecida para la asignación (sic) diputados por el principio de representación.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 18.
+
+La asignación de regidurías se sujetará a las siguientes reglas:
+
+I. Se sumarán los votos de los partidos que hayan obtenido cuando menos el cuatro por ciento del total de los sufragios emitidos en el municipio correspondiente; el resultado se dividirá entre el número de regidurías por atribuir para obtener un factor porcentual simple de distribución, asignándose a cada partido, en riguroso orden decreciente, tantas regidurías como número de factores alcance hasta completar las regidurías previstas.
+
+II. El Consejo Estatal deberá garantizar la paridad de género en la integración de los Cabildos siguiendo las siguientes reglas:
+
+a). Verificará que una vez asignadas las regidurías se logre la integración paritaria;
+
+b). En caso de no existir la integración paritaria se determinarán cuantas regidurías prevalecen del género sobrerrepresentado y se sustituirán por tantas fórmulas sea necesario del género subrepresentado;
+
+c). Para este fin, se alternarán a los partidos políticos que hayan recibido regidurías por el principio de representación proporcional, empezando por el partido que recibió el menor porcentaje de votación emitida, y de ser necesario, continuando con el partido que haya recibido el segundo menor porcentaje de la votación emitida y así sucesivamente en orden ascendente hasta cubrir la paridad;
+
+d). En términos de lo anterior, si a un partido se le deduce una regiduría de un género sobrerrepresentado, tendrá que ser sustituido por uno del género subrepresentado para cumplir la paridad, pero en todos los casos dicha sustitución deberá provenir de la lista de donde haya sido deducido, respetando la prelación.
+
+Las vacantes de integrantes titulares de las regidurías, serán cubiertas por las o los suplentes de la fórmula electa respectivamente, que deberán ser del mismo género que el titular. Si la vacante se presenta respecto de la fórmula completa, será cubierta por aquella fórmula del mismo partido y género que siga en el orden de la lista respectiva.
+
+III. Al momento de realizar la asignación de regidurías, el Consejo Estatal observará las disposiciones constitucionales relativas a la sobre y subrepresentación; para ello se deberá observar la misma fórmula establecida para la asignación de diputaciones por el principio de representación, y
+
+IV. Ningún partido político podrá contar con más del sesenta por ciento de representación del total del Cabildo.
 
 ### CAPÍTULO IV. DISPOSICIONES COMPLEMENTARIAS
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Artículo 19. Las elecciones ordinarias de Gobernador Constitucional del Estado, se celebrarán cada seis años, la de los Diputados del Congreso del Estado y la de los ayuntamientos cada tres años."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 19.
 
-Las elecciones ordinarias de Gobernador Constitucional del Estado, se celebrarán cada seis años, la de los Diputados del Congreso del Estado y la de los ayuntamientos cada tres años.
+LAS ELECCIONES ORDINARIAS DE GOBERNADOR O GOBERNADORA CONSTITUCIONAL DEL ESTADO, SE CELEBRARÁN CADA SEIS AÑOS, LA DE LOS DIPUTADOS O DIPUTADAS DEL CONGRESO DEL ESTADO Y LA DE LOS AYUNTAMIENTOS CADA TRES AÑOS.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 Las elecciones de los Poderes Legislativo y Ejecutivo, así como de los ayuntamientos, se realizarán en las mismas fechas en que se efectúen las elecciones federales; se deberá integrar una casilla única de conformidad con lo dispuesto en este Código, la normativa y los acuerdos que emita el Consejo General del Instituto Nacional.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 Los mecanismos de participación ciudadana que se convoquen se podrán efectuar en cualquier tiempo, salvo aquellos que requieran llevarse a cabo en una jornada electoral de elecciones constitucionales, de conformidad con la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 Las convocatorias a que hace alusión la fracción XXXIV del artículo 40 de la Constitución, se expedirán 30 días antes de la fecha de inicio del proceso electoral.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 20. Las elecciones extraordinarias serán convocadas por el Congreso o por el Gobernador, según lo establecido en la Constitución y se sujetarán a lo dispuesto por este ordenamiento, celebrándose en las fechas y términos que al efecto se señalen en la convocatoria correspondiente, cuyas disposiciones no podrán restringir los derechos que este Código reconoce a los ciudadanos y a los partidos políticos, ni alterar las formalidades que establece."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 20.
 
-Las elecciones extraordinarias serán convocadas por el Congreso o por el Gobernador, según lo establecido en la Constitución y se sujetarán a lo dispuesto por este ordenamiento, celebrándose en las fechas y términos que al efecto se señalen en la convocatoria correspondiente, cuyas disposiciones no podrán restringir los derechos que este Código reconoce a los ciudadanos y a los partidos políticos, ni alterar las formalidades que establece.
+LAS ELECCIONES EXTRAORDINARIAS SERÁN CONVOCADAS POR EL CONGRESO O POR EL GOBERNADOR O GOBERNADORA, SEGÚN LO ESTABLECIDO EN LA CONSTITUCIÓN Y SE SUJETARÁN A LO DISPUESTO POR ESTE ORDENAMIENTO, CELEBRÁNDOSE EN LAS FECHAS Y TÉRMINOS QUE AL EFECTO SE SEÑALEN EN LA CONVOCATORIA CORRESPONDIENTE, CUYAS DISPOSICIONES NO PODRÁN RESTRINGIR LOS DERECHOS QUE ESTE CÓDIGO RECONOCE A LOS CIUDADANOS, CIUDADANAS Y A LOS PARTIDOS POLÍTICOS, NI ALTERAR LAS FORMALIDADES QUE ESTABLECE.
 
 La convocatoria deberá expedirse a más tardar a los 15 días siguientes en que se actualice la hipótesis de elección extraordinaria, salvo que la normativa determine situaciones específicas.
 
-Cuando en una elección ordinaria existan partidos políticos o candidatos independientes que obtengan una votación igual y esta sea la más alta, ya resueltos los medios de impugnación que correspondan, la Legislatura del Estado convocará a elecciones extraordinarias, que se celebrarán en la fecha que se establezca en la propia convocatoria. En estas elecciones sólo participarán los partidos políticos o candidatos independientes que hayan empatado en la votación.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Cuando en una elección ordinaria existan partidos políticos o candidatos independientes que obtengan una votación igual y esta sea la más alta, ya resueltos los medios de impugnación que correspondan, la Legislatura del Estado convocará a elecciones extraordinarias, que se celebrarán en la fecha que se establezca en la propia convocatoria. En estas elecciones sólo participarán los partidos políticos o candidatos independientes que hayan empatado en la votación."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+CUANDO EN UNA ELECCIÓN ORDINARIA EXISTAN PARTIDOS POLÍTICOS, CANDIDATOS O CANDIDATAS INDEPENDIENTES QUE OBTENGAN UNA VOTACIÓN IGUAL Y ESTA SEA LA MÁS ALTA, YA RESUELTOS LOS MEDIOS DE IMPUGNACIÓN QUE CORRESPONDAN, LA LEGISLATURA DEL ESTADO CONVOCARÁ A ELECCIONES EXTRAORDINARIAS, QUE SE CELEBRARÁN EN LA FECHA QUE SE ESTABLEZCA EN LA PROPIA CONVOCATORIA. EN ESTAS ELECCIONES SÓLO PARTICIPARÁN LOS PARTIDOS POLÍTICOS, CANDIDATOS O CANDIDATAS INDEPENDIENTES QUE HAYAN EMPATADO EN LA VOTACIÓN.
 
 # LIBRO SEGUNDO. DE LOS PARTIDOS POLÍTICOS
 
@@ -367,11 +533,21 @@ Cuando en una elección ordinaria existan partidos políticos o candidatos indep
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-###### Artículo 21.
+NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 21. Los partidos políticos son entidades de interés público; se rigen por la Ley General de Partidos Políticos, que determina las normas y requisitos para su registro, las formas específicas de su intervención en el proceso electoral, así como los derechos, obligaciones y prerrogativas que les corresponden, resultando aplicable, en lo conducente, lo dispuesto por este Código. Tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto, directo, personal e intransferible."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Los partidos políticos son entidades de interés público; se rigen por la Ley General de Partidos Políticos, que determina las normas y requisitos para su registro, las formas específicas de su intervención en el proceso electoral, así como los derechos, obligaciones y prerrogativas que les corresponden, resultando aplicable, en lo conducente, lo dispuesto por este Código. Tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### ARTÍCULO 21.
+
+LOS PARTIDOS POLÍTICOS SON ENTIDADES DE INTERÉS PÚBLICO; SE RIGEN POR LA LEY GENERAL DE PARTIDOS POLÍTICOS, QUE DETERMINA LAS NORMAS Y REQUISITOS PARA SU REGISTRO, LAS FORMAS ESPECÍFICAS DE SU INTERVENCIÓN EN EL PROCESO ELECTORAL, ASÍ COMO LOS DERECHOS, OBLIGACIONES Y PRERROGATIVAS QUE LES CORRESPONDEN, RESULTANDO APLICABLE, EN LO CONDUCENTE, LO DISPUESTO POR ESTE CÓDIGO. TIENEN COMO FIN PROMOVER LA PARTICIPACIÓN DEL PUEBLO EN LA VIDA DEMOCRÁTICA, GARANTIZAR LA PARTICIPACIÓN PARITARIA EN LA INTEGRACIÓN DE SUS ÓRGANOS Y CONTRIBUIR A LA INTEGRACIÓN PARITARIA DE LOS ÓRGANOS DE REPRESENTACIÓN POLÍTICA Y COMO ORGANIZACIONES DE CIUDADANOS, HACER POSIBLE EL ACCESO DE ESTOS AL EJERCICIO DEL PODER PÚBLICO, DE ACUERDO CON LOS PROGRAMAS, PRINCIPIOS E IDEAS QUE POSTULEN Y MEDIANTE EL SUFRAGIO UNIVERSAL, LIBRE, SECRETO, DIRECTO, PERSONAL E INTRANSFERIBLE.
 
 Para los efectos de este Código, en tratándose de asuntos de partidos políticos, la interpretación deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes, en términos de la normativa.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+CADA PARTIDO POLÍTICO DETERMINARÁ Y HARÁ PÚBLICOS LOS CRITERIOS PARA GARANTIZAR LA PARIDAD DE GÉNERO EN LAS CANDIDATURAS LOCALES, Y DEBERÁN ASEGURAR CONDICIONES DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES. EN CASO DE INCUMPLIMIENTO A ESTA DISPOSICIÓN SERÁN ACREEDORES A LAS SANCIONES QUE ESTABLEZCAN LAS LEYES EN LA MATERIA.
 
 ###### Artículo 22.
 
@@ -443,19 +619,29 @@ XI. Los demás que se deriven de las normas aplicables.
 
 Los partidos políticos locales tendrán a su cargo las obligaciones que se les imponen en la Ley General de Partidos Políticos, la demás normativa aplicable y las derivadas de las resoluciones que dicte el Instituto Morelense.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+ADEMÁS DE LO ANTERIOR, EN LOS MUNICIPIOS CON POBLACIÓN PREDOMINANTEMENTE INDÍGENA, LOS PARTIDOS POLÍTICOS DEBERÁN GARANTIZAR LA INCLUSIÓN DE LA CIUDADANÍA INDÍGENA QUE DESEE PARTICIPAR EN LOS PROCESOS DE SELECCIÓN INTERNA, RESPETANDO SUS TRADICIONES, USOS Y COSTUMBRES, Y QUE, EN LAS PLANILLAS PARA LA INTEGRACIÓN DE LOS AYUNTAMIENTOS, LA POBLACIÓN INDÍGENA DE ESOS MUNICIPIOS, CUANTIFICADA BAJO EL CRITERIO PERTENENCIA, ESTÉ PROPORCIONALMENTE REPRESENTADA CONFORME AL PORCENTAJE DE DICHA POBLACIÓN, RESPECTO DEL TOTAL DEL MUNICIPIO CORRESPONDIENTE, OBSERVANDO EL PRINCIPIO DE PARIDAD DE GÉNERO.
+
 Los partidos políticos deberán respetar en todo momento el derecho humano de acceso a la información pública, en los términos que establezcan las leyes federales y locales de la materia.
 
 ###### Artículo 28.
 
 El incumplimiento de las obligaciones señaladas en la normativa, se sancionará en los términos que correspondan a cada caso.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [ EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 29. Los dirigentes, representantes, afiliados de los partidos políticos locales, candidatos a cargos de elección popular y miembros de equipos de campaña electoral, son responsables civil, administrativa y penalmente de los actos que realicen en el ejercicio de sus funciones, en términos de la normativa aplicable.
+
+Los candidatos, los partidos políticos y las autoridades electorales podrán denunciar ante las autoridades competentes los hechos o conductas que sean materia de responsabilidad civil, administrativa y penal."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 29.
 
-Los dirigentes, representantes, afiliados de los partidos políticos locales, candidatos a cargos de elección popular y miembros de equipos de campaña electoral, son responsables civil, administrativa y penalmente de los actos que realicen en el ejercicio de sus funciones, en términos de la normativa aplicable.
+Las y los dirigentes, representantes, afiliados de los partidos políticos locales, candidatos o candidatas a cargos de elección popular y miembros de equipos de campaña electoral, son responsables civil, administrativa y penalmente de los actos que realicen en el ejercicio de sus funciones, en términos de la normativa aplicable.
 
-Los candidatos, los partidos políticos y las autoridades electorales podrán denunciar ante las autoridades competentes los hechos o conductas que sean materia de responsabilidad civil, administrativa y penal.
+Los candidatos o candidatas, los partidos políticos y las autoridades electorales podrán denunciar ante las autoridades competentes los hechos o conductas que sean materia de responsabilidad civil, administrativa y penal.
 
 ## TÍTULO SEGUNDO. DEL FINANCIAMIENTO, PRERROGATIVAS Y FISCALIZACIÓN DE LOS PARTIDOS POLÍTICOS
 
@@ -541,7 +727,11 @@ I. Aplicar los lineamientos específicos en materia de fiscalización, contabili
 
 II. Resolver en definitiva el proyecto de dictamen consolidado, así como la resolución de cada uno de los informes que están obligados a presentar los partidos políticos;
 
-III. Vigilar que el origen y aplicación de los recursos de los partidos políticos observen las disposiciones legales;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. Vigilar que el origen y aplicación de los recursos de los partidos políticos observen las disposiciones legales;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+III. VIGILAR QUE EL ORIGEN Y APLICACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS OBSERVEN LAS DISPOSICIONES LEGALES, Y QUE EL EJERCICIO DEL MISMO NO MENOSCABE LOS DERECHOS POLÍTICO ELECTORALES DE LAS MUJERES.
 
 IV. Designar a los Consejeros Electorales que formarán parte de la Comisión de Fiscalización;
 
@@ -565,11 +755,15 @@ Se entiende por propaganda electoral el conjunto de escritos, publicaciones, im�
 
 Los partidos políticos durante sus precampañas y campañas político-electorales, podrán realizar actos de propaganda electoral sobre las siguientes bases:
 
-I. Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y candidatos independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y candidatos independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
 
 Para efectos de este Código se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, coalición o candidato que lo distribuye.
 
-Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil;
+Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+I. TODA LA PROPAGANDA ELECTORAL IMPRESA DEBERÁ SER RECICLABLE, FABRICADA CON MATERIALES BIODEGRADABLES QUE NO CONTENGAN SUSTANCIAS TÓXICAS O NOCIVAS PARA LA SALUD O EL MEDIO AMBIENTE. LOS PARTIDOS POLÍTICOS, CANDIDATAS Y CANDIDATOS INDEPENDIENTES DEBERÁN PRESENTAR UN PLAN DE RECICLAJE DE LA PROPAGANDA QUE UTILIZARÁN DURANTE SU CAMPAÑA. PARA EFECTOS DE ESTE CÓDIGO SE ENTENDERÁ POR ARTÍCULOS PROMOCIONALES UTILITARIOS AQUELLOS QUE CONTENGAN IMÁGENES, SIGNOS, EMBLEMAS Y EXPRESIONES QUE TENGAN POR OBJETO DIFUNDIR LA IMAGEN Y PROPUESTAS DEL PARTIDO POLÍTICO, COALICIÓN O CANDIDATO QUE LO DISTRIBUYE. LOS ARTÍCULOS PROMOCIONALES UTILITARIOS SÓLO PODRÁN SER ELABORADOS CON MATERIAL TEXTIL;
 
 II. No podrán pintar, fijar o colgar propaganda en:
 
@@ -609,7 +803,11 @@ VIII. La entrega de cualquier tipo de material que contenga propaganda política
 
 IX. DURANTE EL TIEMPO QUE COMPRENDAN LAS CAMPAÑAS ELECTORALES LOCALES Y HASTA LA CONCLUSIÓN DE LA RESPECTIVA JORNADA COMICIAL, DEBERÁ SUSPENDERSE LA DIFUSIÓN DE TODA PROPAGANDA GUBERNAMENTAL EN LOS MEDIOS DE COMUNICACIÓN SOCIAL ESTATAL Y MUNICIPAL.
 
-Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. Queda prohibida la propaganda política electoral que calumnie a las instituciones, los partidos o las personas. Las violaciones a lo dispuesto en el presente inciso serán sancionadas por las autoridades electorales competentes.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. Queda prohibida la propaganda política electoral que calumnie a las instituciones, los partidos o las personas. Las violaciones a lo dispuesto en el presente inciso serán sancionadas por las autoridades electorales competentes."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS ÚNICAS EXCEPCIONES A LO ANTERIOR SERÁN LAS CAMPAÑAS DE INFORMACIÓN DE LAS AUTORIDADES ELECTORALES, LAS RELATIVAS A SERVICIOS EDUCATIVOS Y DE SALUD, O LAS NECESARIAS PARA LA PROTECCIÓN CIVIL EN CASOS DE EMERGENCIA. QUEDA PROHIBIDA LA PROPAGANDA POLÍTICA ELECTORAL QUE CALUMNIE A LAS INSTITUCIONES, LOS PARTIDOS O LAS PERSONAS, DISCRIMINEN O CONSTITUYAN ACTOS DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO. DISCRIMINEN O CONSTITUYAN ACTOS DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO (SIC). LAS VIOLACIONES A LO DISPUESTO EN EL PRESENTE INCISO SERÁN SANCIONADAS POR LAS AUTORIDADES ELECTORALES COMPETENTES.
 
 Los servidores públicos del Estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos a su disposición, sin afectar la igualdad de oportunidades de los partidos políticos y candidatos independientes.
 
@@ -617,17 +815,25 @@ La propaganda bajo cualquier modalidad de comunicación social, de acciones, pro
 
 Las leyes en los respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 40. Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 40.
 
-Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades.
+LOS PARTIDOS POLÍTICOS, LAS Y LOS PRECANDIDATOS, CANDIDATAS Y CANDIDATOS PODRÁN EJERCER EL DERECHO DE RÉPLICA QUE ESTABLECE EL PRIMER PÁRRAFO DEL ARTÍCULO 6 DE LA CONSTITUCIÓN RESPECTO DE LA INFORMACIÓN QUE PRESENTEN LOS MEDIOS DE COMUNICACIÓN, CUANDO CONSIDEREN QUE LA MISMA HA DEFORMADO HECHOS O SITUACIONES REFERENTES A SUS ACTIVIDADES.
 
 Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
 
 El derecho a que se refiere el primer párrafo de este artículo se ejercerá en la forma y términos que determine la ley de la materia.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 41. Los partidos políticos y candidatos independientes que infrinjan las disposiciones contenidas en el artículo 48 del presente Código, podrán ser denunciados ante el Consejo Estatal; el Consejero Presidente concederá un plazo de 48 horas para que el partido político de que se trate borre o quite, según sea el caso, la propaganda que hubiere fijado en contravención a ese; de no hacerlo, se pedirá a la autoridad municipal que lo haga, pero el costo que ello implique se duplicará y le será deducido del financiamiento público que le corresponda al partido político, entregándose el monto al ayuntamiento que sufragó el gasto; en el caso de que el infractor sea candidato independiente, el costo será cubierto con su propio peculio."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 41.
 
-Los partidos políticos y candidatos independientes que infrinjan las disposiciones contenidas en el artículo 48 del presente Código, podrán ser denunciados ante el Consejo Estatal; el Consejero Presidente concederá un plazo de 48 horas para que el partido político de que se trate borre o quite, según sea el caso, la propaganda que hubiere fijado en contravención a ese; de no hacerlo, se pedirá a la autoridad municipal que lo haga, pero el costo que ello implique se duplicará y le será deducido del financiamiento público que le corresponda al partido político, entregándose el monto al ayuntamiento que sufragó el gasto; en el caso de que el infractor sea candidato independiente, el costo será cubierto con su propio peculio.
+Los partidos políticos, candidatas y candidatos independientes que infrinjan las disposiciones contenidas en el artículo 48 del presente Código, podrán ser denunciados ante el Consejo Estatal; la o el Consejero Presidente concederá un plazo de 48 horas para que el partido político de que se trate borre o quite, según sea el caso, la propaganda que hubiere fijado en contravención a ese; de no hacerlo, se pedirá a la autoridad municipal que lo haga, pero el costo que ello implique se duplicará y le será deducido del financiamiento público que le corresponda al partido político, entregándose el monto al Ayuntamiento que sufragó el gasto; en el caso de que el infractor sea candidato independiente, el costo será cubierto con su propio peculio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -645,11 +851,15 @@ El día de la elección y los tres que le precedan, no se permitirá la celebrac
 
 En los lugares señalados para la ubicación de las casillas no habrá ninguna propaganda electoral el día de la elección y si la hubiere, ésta deberá ser retirada inmediatamente. Los partidos políticos serán responsables de que esta disposición se cumpla.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 45. La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político o coalición que haya registrado al candidato o bien la calidad de candidato independiente.
+
+La propaganda que en el transcurso de una campaña difundan por medios gráficos los partidos políticos, las coaliciones y los candidatos, no tendrán más límite que lo dispuesto en las normas aplicables, así como el respeto a la vida privada de los ciudadanos, candidatos, autoridades, las instituciones y los valores democráticos."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 45.
 
-La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político o coalición que haya registrado al candidato o bien la calidad de candidato independiente.
-
-La propaganda que en el transcurso de una campaña difundan por medios gráficos los partidos políticos, las coaliciones y los candidatos, no tendrán más límite que lo dispuesto en las normas aplicables, así como el respeto a la vida privada de los ciudadanos, candidatos, autoridades, las instituciones y los valores democráticos.
+La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político o coalición que haya registrado al candidato o candidata, o bien la calidad de candidato independiente. La propaganda que en el transcurso de una campaña difundan por medios gráficos los partidos políticos, las coaliciones, candidatas y candidatos, no tendrán más límite que lo dispuesto en las normas aplicables, así como el respeto a la vida privada de los ciudadanos y ciudadanas, candidatos y candidatas, autoridades, las instituciones y los valores democráticos.
 
 ###### Artículo 46.
 
@@ -659,9 +869,13 @@ La propaganda que en el curso de una campaña difundan los partidos políticos a
 
 Al interior de las oficinas, edificios y locales ocupados por la administración de los poderes públicos y organismos descentralizados en todos los órdenes de gobierno, de los órganos constitucionales autónomos y de los planteles educativos públicos no podrá fijarse, ni distribuirse, propaganda electoral de ningún tipo.
 
-###### Artículo 48.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 48. En la colocación de la propaganda electoral los partidos y candidatos observarán las siguientes reglas:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-En la colocación de la propaganda electoral los partidos y candidatos observarán las siguientes reglas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### ARTÍCULO 48.
+
+EN LA COLOCACIÓN DE LA PROPAGANDA ELECTORAL LOS PARTIDOS, CANDIDATAS Y CANDIDATOS OBSERVARÁN LAS SIGUIENTES REGLAS:
 
 I. No podrá colgarse en elementos del equipamiento urbano, ni obstaculizar en forma alguna la visibilidad de los señalamientos que permiten a las personas transitar y orientarse dentro de los centros de población. Las autoridades electorales competentes ordenarán el retiro de la propaganda electoral contraria a esta norma;
 
@@ -677,15 +891,27 @@ El Consejo Estatal y los Consejos Distritales y Municipales electorales, dentro 
 
 ### CAPÍTULO III. DEL ACCESO A RADIO Y LA TELEVISIÓN
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 49. Los partidos políticos y los candidatos independientes accederán a radio y televisión, conforme a lo establecido en la normatividad aplicable."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 49.
 
-Los partidos políticos y los candidatos independientes accederán a radio y televisión, conforme a lo establecido en la normatividad aplicable.
+Los partidos políticos, las y los candidatos independientes accederán a radio y televisión, conforme a lo establecido en la normatividad aplicable.
 
-###### Artículo 50.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 50. Queda prohibido para los partidos políticos, los precandidatos y los candidatos independientes contratar o adquirir tiempos en cualquier modalidad de radio y televisión, ya sea directa o indirectamente y en cualquier tiempo."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Queda prohibido para los partidos políticos, los precandidatos y los candidatos independientes contratar o adquirir tiempos en cualquier modalidad de radio y televisión, ya sea directa o indirectamente y en cualquier tiempo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
-De igual forma, ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos a favor o en contra de partidos, precandidatos o candidatos a cargos de elección popular.
+###### ARTÍCULO 50.
+
+QUEDA PROHIBIDO PARA LOS PARTIDOS POLÍTICOS, LOS PRECANDIDATOS, LAS PRECANDIDATAS Y LOS CANDIDATOS Y CANDIDATAS INDEPENDIENTES CONTRATAR O ADQUIRIR TIEMPOS EN CUALQUIER MODALIDAD DE RADIO Y TELEVISIÓN, YA SEA DIRECTA O INDIRECTAMENTE Y EN CUALQUIER TIEMPO.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “De igual forma, ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos a favor o en contra de partidos, precandidatos o candidatos a cargos de elección popular."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+DE IGUAL FORMA, NINGUNA PERSONA FÍSICA O MORAL, SEA A TÍTULO PROPIO O POR CUENTA DE TERCEROS, PODRÁ CONTRATAR PROPAGANDA EN RADIO Y TELEVISIÓN DIRIGIDA A INFLUIR EN LAS PREFERENCIAS ELECTORALES DE LA CIUDADANÍA A FAVOR O EN CONTRA DE PARTIDOS, PRECANDIDATAS, PRECANDIDATOS O CANDIDATAS, CANDIDATOS A CARGOS DE ELECCIÓN POPULAR O CON LA INTENCIÓN DE INFRINGIR VIOLENCIA MEDIÁTICA CONTRA LAS MUJERES.
 
 Salvo disposición expresa, la autoridad competente para sancionar las conductas que transgredan lo anterior, es el Instituto Nacional, autoridad única en la materia.
 
@@ -779,29 +1005,63 @@ Serán formas específicas de intervención de los partidos políticos en el pro
 
 ### CAPÍTULO II. DE LAS CANDIDATURAS COMUNES
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 60. Para presentar candidatos a Gobernador, Diputados por el principio de Mayoría Relativa, Presidentes Municipales y Síndicos, dos o más partidos políticos, sin mediar coalición, pueden postular al mismo candidato; para ello es indispensable el consentimiento por escrito del propio candidato y el convenio de los partidos políticos que lo postulen."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### ARTÍCULO 60.
+
+PARA PRESENTAR CANDIDATOS A GOBERNADORA O GOBERNADOR, DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA, PRESIDENTAS Y PRESIDENTES MUNICIPALES, SÍNDICAS Y SÍNDICOS, DOS O MÁS PARTIDOS POLÍTICOS, SIN MEDIAR COALICIÓN, PUEDEN POSTULAR AL MISMO CANDIDATO; PARA ELLO ES INDISPENSABLE EL CONSENTIMIENTO POR ESCRITO DEL PROPIO CANDIDATO Y EL CONVENIO DE LOS PARTIDOS POLÍTICOS QUE LO POSTULEN.
+
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
-
-###### Artículo 60.
-
-Para presentar candidatos a Gobernador, Diputados por el principio de Mayoría Relativa, Presidentes Municipales y Síndicos, dos o más partidos políticos, sin mediar coalición, pueden postular al mismo candidato; para ello es indispensable el consentimiento por escrito del propio candidato y el convenio de los partidos políticos que lo postulen.
 
 La postulación de candidatura común se sujetará a las siguientes reglas y lineamientos:
 
-a. Solicitud. Debe ser solicitada por escrito ante el Instituto Morelense por dos o más partidos políticos que no estén coaligados, siempre que se demuestre que tal forma de participación ha sido aprobada en un convenio por los órganos estatutarios o directivos correspondientes, acreditando todos y cada uno de los documentos para la realización del mismo y se solicite con el consentimiento por escrito del candidato;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO A. DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a. Solicitud. Debe ser solicitada por escrito ante el Instituto Morelense por dos o más partidos políticos que no estén coaligados, siempre que se demuestre que tal forma de participación ha sido aprobada en un convenio por los órganos estatutarios o directivos correspondientes, acreditando todos y cada uno de los documentos para la realización del mismo y se solicite con el consentimiento por escrito del candidato;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-b. Procedimiento de registro de convenio de candidatura común. Hasta antes del inicio del período de precampañas, los partidos políticos interesados deberán presentar ante el Consejero Presidente del Instituto Morelense, la solicitud de registro de convenio de candidatura común, quien a su vez deberá someterlo a consideración del Consejo Electoral, a efecto de que proceda a su revisión y en su caso aprobación y publicación;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-c. Anotación registral de convenios de candidatura común. El Secretario Ejecutivo del Instituto Morelense, debe llevar un libro de candidaturas comunes, en el que la Dirección Ejecutiva de Organización y Partidos deberá inscribir lo conducente;
+a. SOLICITUD. DEBE SER SOLICITADA POR ESCRITO ANTE EL INSTITUTO MORELENSE POR DOS O MÁS PARTIDOS POLÍTICOS QUE NO ESTÉN COALIGADOS, SIEMPRE QUE SE DEMUESTRE QUE TAL FORMA DE PARTICIPACIÓN HA SIDO APROBADA EN UN CONVENIO POR LOS ÓRGANOS ESTATUTARIOS O DIRECTIVOS CORRESPONDIENTES, ACREDITANDO TODOS Y CADA UNO DE LOS DOCUMENTOS PARA LA REALIZACIÓN DEL MISMO Y SE SOLICITE CON EL CONSENTIMIENTO POR ESCRITO DE LA CANDIDATA O CANDIDATO;
 
-d. Procedimiento de selección de candidato común. Al respecto, le son aplicables todas las reglas previstas para el procedimiento de selección de candidatos, con la excepción de que cuando exista la intención de participar en candidatura común, el ciudadano a ser postulado puede participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, siempre y cuando exista acuerdo para participar en esta modalidad para lo que deberán sujetarse a los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, máxima publicidad y paridad de género;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO B. DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b. Procedimiento de registro de convenio de candidatura común. Hasta antes del inicio del período de precampañas, los partidos políticos interesados deberán presentar ante el Consejero Presidente del Instituto Morelense, la solicitud de registro de convenio de candidatura común, quien a su vez deberá someterlo a consideración del Consejo Electoral, a efecto de que proceda a su revisión y en su caso aprobación y publicación;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-e. Registro de candidaturas comunes. Una vez registrado el convenio respectivo, se deberá atender a las reglas establecidas en el Capítulo III, del Título Primero del Libro Quinto de este Código, para solicitar el registro de la candidatura, con la única salvedad de que el candidato postulado deberá manifestar por escrito su conformidad con participar en la modalidad de candidatura común y, dependiendo de la elección de que se trate, el Instituto Morelense deberá verificar y dar cumplimiento estrictamente con las disposiciones que la Constitución Federal, la normativa y este Código, establecen en materia de paridad de género;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+b. PROCEDIMIENTO DE REGISTRO DE CONVENIO DE CANDIDATURA COMÚN. HASTA ANTES DEL INICIO DEL PERÍODO DE PRECAMPAÑAS, LOS PARTIDOS POLÍTICOS INTERESADOS DEBERÁN PRESENTAR ANTE LA O EL CONSEJERO PRESIDENTE DEL INSTITUTO MORELENSE, LA SOLICITUD DE REGISTRO DE CONVENIO DE CANDIDATURA COMÚN, QUIEN A SU VEZ DEBERÁ SOMETERLO A CONSIDERACIÓN DEL CONSEJO ELECTORAL, A EFECTO DE QUE PROCEDA A SU REVISIÓN Y EN SU CASO APROBACIÓN Y PUBLICACIÓN;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C. DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c. Anotación registral de convenios de candidatura común. El Secretario Ejecutivo del Instituto Morelense, debe llevar un libro de candidaturas comunes, en el que la Dirección Ejecutiva de Organización y Partidos deberá inscribir lo conducente;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c. ANOTACIÓN REGISTRAL DE CONVENIOS DE CANDIDATURA COMÚN. LA O EL SECRETARIO EJECUTIVO DEL INSTITUTO MORELENSE, DEBE LLEVAR UN LIBRO DE CANDIDATURAS COMUNES, EN EL QUE LA DIRECCIÓN EJECUTIVA DE ORGANIZACIÓN Y PARTIDOS DEBERÁ INSCRIBIR LO CONDUCENTE;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO D. DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d. Procedimiento de selección de candidato común. Al respecto, le son aplicables todas las reglas previstas para el procedimiento de selección de candidatos, con la excepción de que cuando exista la intención de participar en candidatura común, el ciudadano a ser postulado puede participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, siempre y cuando exista acuerdo para participar en esta modalidad para lo que deberán sujetarse a los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, máxima publicidad y paridad de género;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+d. PROCEDIMIENTO DE SELECCIÓN DE CANDIDATA O CANDIDATO COMÚN. AL RESPECTO, LE SON APLICABLES TODAS LAS REGLAS PREVISTAS PARA EL PROCEDIMIENTO DE SELECCIÓN DE CANDIDATOS, CON LA EXCEPCIÓN DE QUE CUANDO EXISTA LA INTENCIÓN DE PARTICIPAR EN CANDIDATURA COMÚN, LA O EL CIUDADANO A SER POSTULADO PUEDE PARTICIPAR SIMULTÁNEAMENTE EN PROCESOS DE SELECCIÓN INTERNA DE CANDIDATOS A CARGOS DE ELECCIÓN POPULAR POR DIFERENTES PARTIDOS POLÍTICOS, SIEMPRE Y CUANDO EXISTA ACUERDO PARA PARTICIPAR EN ESTA MODALIDAD PARA LO QUE DEBERÁN SUJETARSE A LOS PRINCIPIOS DE CONSTITUCIONALIDAD, CERTEZA, LEGALIDAD, INDEPENDENCIA, IMPARCIALIDAD, EQUIDAD, OBJETIVIDAD, DEFINITIVIDAD, PROFESIONALISMO, MÁXIMA PUBLICIDAD Y PARIDAD DE GÉNERO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO E. DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e. Registro de candidaturas comunes. Una vez registrado el convenio respectivo, se deberá atender a las reglas establecidas en el Capítulo III, del Título Primero del Libro Quinto de este Código, para solicitar el registro de la candidatura, con la única salvedad de que el candidato postulado deberá manifestar por escrito su conformidad con participar en la modalidad de candidatura común y, dependiendo de la elección de que se trate, el Instituto Morelense deberá verificar y dar cumplimiento estrictamente con las disposiciones que la Constitución Federal, la normativa y este Código, establecen en materia de paridad de género;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+e. REGISTRO DE CANDIDATURAS COMUNES. UNA VEZ REGISTRADO EL CONVENIO RESPECTIVO, SE DEBERÁ ATENDER A LAS REGLAS ESTABLECIDAS EN EL CAPÍTULO III, DEL TÍTULO PRIMERO DEL LIBRO QUINTO DE ESTE CÓDIGO, PARA SOLICITAR EL REGISTRO DE LA CANDIDATURA, CON LA ÚNICA SALVEDAD DE QUE LA O EL CANDIDATO POSTULADO DEBERÁ MANIFESTAR POR ESCRITO SU CONFORMIDAD CON PARTICIPAR EN LA MODALIDAD DE CANDIDATURA COMÚN Y, DEPENDIENDO DE LA ELECCIÓN DE QUE SE TRATE, EL INSTITUTO MORELENSE DEBERÁ VERIFICAR Y DAR CUMPLIMIENTO ESTRICTAMENTE CON LAS DISPOSICIONES QUE LA CONSTITUCIÓN FEDERAL, LA NORMATIVA Y ESTE CÓDIGO, ESTABLECEN EN MATERIA DE PARIDAD DE GÉNERO;
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 f. Campañas, gastos de campaña y fiscalización. Deberán ceñirse a lo dispuesto en la normativa aplicable;
 
-g. Aparición en la boleta. Los partidos políticos aparecerán en la boleta con su propio emblema y espacio, con la salvedad que el nombre del candidato será el mismo en ambos espacios, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO G. DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “g. Aparición en la boleta. Los partidos políticos aparecerán en la boleta con su propio emblema y espacio, con la salvedad que el nombre del candidato será el mismo en ambos espacios, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-h. Cómputo de los votos. Los votos cuentan para cada partido político y candidato. Cuando el elector marque en la boleta dos o más cuadros y exista candidatura común, el voto contará para el candidato y se registrará por separado en el espacio correspondiente del acta de escrutinio y cómputo de casilla para que la suma de tales votos se distribuya igualitariamente entre los partidos que integran la candidatura común y de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+g. APARICIÓN EN LA BOLETA. LOS PARTIDOS POLÍTICOS APARECERÁN EN LA BOLETA CON SU PROPIO EMBLEMA Y ESPACIO, CON LA SALVEDAD QUE EL NOMBRE DE LA CANDIDATA O CANDIDATO SERÁ EL MISMO EN AMBOS ESPACIOS, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO H. DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “h. Cómputo de los votos. Los votos cuentan para cada partido político y candidato. Cuando el elector marque en la boleta dos o más cuadros y exista candidatura común, el voto contará para el candidato y se registrará por separado en el espacio correspondiente del acta de escrutinio y cómputo de casilla para que la suma de tales votos se distribuya igualitariamente entre los partidos que integran la candidatura común y de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+h. CÓMPUTO DE LOS VOTOS. LOS VOTOS CUENTAN PARA CADA PARTIDO POLÍTICO Y LA CANDIDATA O CANDIDATO. CUANDO EL ELECTOR MARQUE EN LA BOLETA DOS O MÁS CUADROS Y EXISTA CANDIDATURA COMÚN, EL VOTO CONTARÁ PARA LA O EL CANDIDATO Y SE REGISTRARÁ POR SEPARADO EN EL ESPACIO CORRESPONDIENTE DEL ACTA DE ESCRUTINIO Y CÓMPUTO DE CASILLA PARA QUE LA SUMA DE TALES VOTOS SE DISTRIBUYA IGUALITARIAMENTE ENTRE LOS PARTIDOS QUE INTEGRAN LA CANDIDATURA COMÚN Y DE EXISTIR FRACCIÓN, LOS VOTOS CORRESPONDIENTES SE ASIGNARÁN A LOS PARTIDOS DE MÁS ALTA VOTACIÓN.
 
 ###### ARTÍCULO 61.
 
@@ -819,19 +1079,37 @@ Los convenios a que se refiere el artículo 59 de este Código, suscritos entre 
 
 ### CAPÍTULO I. DE SU NATURALEZA Y FINES
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 63. Se crea el Instituto Morelense de Procesos Electorales y Participación Ciudadana, como un organismo público local electoral, constitucionalmente autónomo, que cuenta con personalidad jurídica y patrimonio propio, en cuya integración concurren los ciudadanos y los partidos políticos; que goza de autonomía en su funcionamiento, independencia en sus decisiones, de carácter permanente, teniendo su sede en la ciudad de Cuernavaca, capital del Estado, conforme a las disposiciones previstas en el presente Código."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 63.
 
-Se crea el Instituto Morelense de Procesos Electorales y Participación Ciudadana, como un organismo público local electoral, constitucionalmente autónomo, que cuenta con personalidad jurídica y patrimonio propio, en cuya integración concurren los ciudadanos y los partidos políticos; que goza de autonomía en su funcionamiento, independencia en sus decisiones, de carácter permanente, teniendo su sede en la ciudad de Cuernavaca, capital del Estado, conforme a las disposiciones previstas en el presente Código.
+SE CREA EL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN CIUDADANA, COMO UN ORGANISMO PÚBLICO LOCAL ELECTORAL, CONSTITUCIONALMENTE AUTÓNOMO, QUE CUENTA CON PERSONALIDAD JURÍDICA Y PATRIMONIO PROPIO, EN CUYA INTEGRACIÓN CONCURREN LA CIUDADANÍA Y LOS PARTIDOS POLÍTICOS; QUE GOZA DE AUTONOMÍA EN SU FUNCIONAMIENTO, INDEPENDENCIA EN SUS DECISIONES, DE CARÁCTER PERMANENTE, TENIENDO SU SEDE EN LA CIUDAD DE CUERNAVACA, CAPITAL DEL ESTADO, CONFORME A LAS DISPOSICIONES PREVISTAS EN EL PRESENTE CÓDIGO. DICHOS INTEGRANTES, EN EL EJERCICIO DE LAS FUNCIONES DEBERÁN CONDUCIRSE EN UN AMBIENTE LIBRE DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO Y DE TODA CLASE DE DISCRIMINACIÓN.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 Será la autoridad en materia electoral y de participación ciudadana, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+EN LA CONFORMACIÓN DEL CONSEJO ESTATAL ELECTORAL; LAS CONSEJERÍAS, SECRETARÍAS Y DIRECCIONES SERÁN INTEGRADAS BAJO EL PRINCIPIO DE PARIDAD, DEBIENDO GARANTIZAR QUE TANTO LA POSTULACIÓN, LA INTEGRACIÓN, Y EL EJERCICIO DE LAS FUNCIONES SEA LIBRE DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO Y DE TODA CLASE DE DISCRIMINACIÓN.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 Tendrá a su cargo la preparación, desarrollo y conclusión de los procesos electorales locales ordinarios y extraordinarios, así como los de participación ciudadana a que se convoquen, según sea el caso, de acuerdo a los términos previstos por la normativa aplicable. Se estructurará con comisiones ejecutivas y órganos de dirección, ejecutivos y técnicos.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 En el ámbito de su competencia, garantizará la correcta aplicación de las normas de la materia.
 
-Se rige por las disposiciones que se establecen en la normativa y el presente Código, bajo los principios generales del derecho y los electorales de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, máxima publicidad, paridad de género.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEXTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Se rige por las disposiciones que se establecen en la normativa y el presente Código, bajo los principios generales del derecho y los electorales de constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, objetividad, definitividad, profesionalismo, máxima publicidad, paridad de género.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+SE RIGE POR LAS DISPOSICIONES QUE SE ESTABLECEN EN LA NORMATIVA Y EL PRESENTE CÓDIGO, BAJO LOS PRINCIPIOS GENERALES DEL DERECHO Y LOS ELECTORALES DE CONSTITUCIONALIDAD, CERTEZA, LEGALIDAD, INDEPENDENCIA, IMPARCIALIDAD, EQUIDAD, OBJETIVIDAD, DEFINITIVIDAD, PROFESIONALISMO, MÁXIMA PUBLICIDAD, PROGRESIVIDAD, PARIDAD DE GÉNERO Y SE REALIZARÁN CON PERSPECTIVA DE GÉNERO.
 
 ###### Artículo 64.
 
@@ -871,39 +1149,61 @@ I. Aplicar las disposiciones generales, reglas, lineamientos, criterios y format
 
 II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidatos;
 
-III. Garantizar la ministración oportuna del financiamiento público a que tienen derechos los partidos políticos nacionales y locales y, en su caso, a los candidatos independientes, en la Entidad;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-IV. Desarrollar y ejecutar los programas de educación cívica en el Estado;
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-V. Orientar a los ciudadanos en la Entidad para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+III. VIGILAR QUE LOS PARTIDOS POLÍTICOS GARANTICEN A LA CIUDADANÍA INDÍGENA SU PARTICIPACIÓN EN LOS PROCESOS DE SELECCIÓN INTERNO DE CANDIDATURAS A CARGO DE ELECCIÓN POPULAR DE DIPUTADOS Y DIPUTADAS, Y LOS AYUNTAMIENTOS, A TRAVÉS DEL SISTEMA DE PARTIDOS POLÍTICOS, RESPETANDO SUS TRADICIONES, USOS Y COSTUMBRES, ATENDIENDO AL CRITERIO DE PERTENENCIA A LA COMUNIDAD O PUEBLO INDÍGENA Y OBSERVANDO EL PRINCIPIO DE PARIDAD DE GÉNERO.
 
-VI. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral;
+PARA TAL EFECTO, DEBERÁ ALLEGARSE DE INFORMACIÓN VERAZ Y OBJETIVA, GENERANDO LOS PROCEDIMIENTOS IDÓNEOS QUE LE PERMITAN OBTENER CUALQUIER DATO TRASCENDENTAL EN TORNO A LOS USOS Y COSTUMBRES QUE RIGEN EN DETERMINADA COMUNIDAD CON POBLACIÓN PREDOMINANTEMENTE INDÍGENA, MISMA QUE DEBERÁ ENTREGAR A LOS PARTIDOS POLÍTICOS CON LA DEBIDA OPORTUNIDAD. PODRÁ APOYARSE, EN INSTITUCIONES PÚBLICAS O PRIVADAS QUE CUENTEN CON INFORMACIÓN SOBRE EL TEMA;
 
-VII. Imprimir los documentos y producir los materiales electorales, en términos de los lineamientos que al efecto emita el Instituto Nacional;
+IV. Garantizar la ministración oportuna del financiamiento público a que tienen derechos (sic) los partidos políticos nacionales y locales y, en su caso, a los candidatos independientes, en la Entidad;
 
-VIII. Efectuar el escrutinio y cómputo total de las elecciones que se lleven a cabo en el Estado, con base en los resultados consignados en las actas de cómputos distritales y municipales;
+V. Desarrollar y ejecutar los programas de educación cívica en el Estado;
 
-IX. Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de representación proporcional de la Legislatura, conforme al cómputo y declaración de validez que efectúe el propio Instituto Morelense;
+VI. Orientar a los ciudadanos en la Entidad para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
 
-X. Efectuar el cómputo de la elección de Gobernador;
+VII. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral;
 
-XI. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la Entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional;
+VIII. Imprimir los documentos y producir los materiales electorales, en términos de los lineamientos que al efecto emita el Instituto Nacional;
 
-XII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en la entidad de que se trate;
+IX. Efectuar el escrutinio y cómputo total de las elecciones que se lleven a cabo en el Estado, con base en los resultados consignados en las actas de cómputos distritales y municipales;
 
-XIII. Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en el Estado, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
+X. Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de representación proporcional de la Legislatura, conforme al cómputo y declaración de validez que efectúe el propio Instituto Morelense;
 
-XIV. Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional;
+XI. Efectuar el cómputo de la elección de Gobernador;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+XII. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la Entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional;
 
-XV. Calificar la procedencia, organizar, desarrollar, y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana;
+XIII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en la entidad de que se trate;
 
-XVI. Supervisar las actividades que realicen los órganos distritales y municipales, durante el proceso electoral;
+XIV. Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en el Estado, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
 
-XVII. Informar a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, sobre el ejercicio de las funciones que le hubiera delegado el Instituto Nacional, conforme a lo previsto por la Ley General de Instituciones y Procedimientos Electorales y demás disposiciones que emita el Consejo General del Instituto Nacional, y
+XV. Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional;
 
-XVIII. Las demás que determine la Ley General de Instituciones y Procedimientos Electorales y aquéllas no reservadas al Instituto Nacional, que establezca este Código.
+XVI. Calificar la procedencia, organizar, desarrollar, y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana;
+
+XVII. Supervisar las actividades que realicen los órganos distritales y municipales, durante el proceso electoral;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XVIII. Las demás que determine la Ley General de Instituciones y Procedimientos Electorales y aquéllas no reservadas al Instituto Nacional, que establezca este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XVIII. INFORMAR A LA UNIDAD TÉCNICA DE VINCULACIÓN CON LOS ORGANISMOS PÚBLICOS LOCALES, SOBRE EL EJERCICIO DE LAS FUNCIONES QUE LE HUBIERA DELEGADO EL INSTITUTO NACIONAL, CONFORME A LO PREVISTO POR LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y DEMÁS DISPOSICIONES QUE EMITA EL CONSEJO GENERAL DEL INSTITUTO NACIONAL;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XIX. GARANTIZAR A LA CIUDADANÍA SU ACCESO AL PLENO EJERCICIO DE LOS DERECHOS POLÍTICO ELECTORALES LIBRES DE VIOLENCIA POLÍTICA POR RAZÓN DE GÉNERO Y DE DISCRIMINACIÓN;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XX. GARANTIZAR EL CUMPLIMIENTO DEL PRINCIPIO DE PARIDAD DE GÉNERO Y EL RESPETO A LOS DERECHOS POLÍTICOS ELECTORALES, Y
+
+XXI. Las demás que determine la Ley General de Instituciones y Procedimientos Electorales y aquéllas no reservadas al Instituto Nacional, que establezca este Código.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -955,6 +1255,18 @@ V. Las Mesas Directivas de Casilla, y
 
 VI. Los demás organismos que la normativa y este Código señalen.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LA CONFORMACIÓN DE LOS MISMOS DEBERÁ GARANTIZAR EL PRINCIPIO DE PARIDAD DE GÉNERO.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+QUIENES INTEGREN LOS ÓRGANOS ELECTORALES DEBERÁN TRABAJAR ENTRE ELLOS CON TOTAL RESPETO, EN UN AMBIENTE LIBRE DE VIOLENCIA POLÍTICA.
+
 ### CAPÍTULO II. DE LAS BASES Y CONTENIDOS DEL CONVENIO CON EL INSTITUTO NACIONAL
 
 ###### Artículo 70.
@@ -979,67 +1291,125 @@ VII. Para la adecuada fiscalización de los partidos políticos;
 
 VIII. Para acceder a los tiempos de radio y televisión tanto del Instituto Morelense como de los partidos políticos en el Estado, y
 
-IX. Para el monitoreo de los medios de comunicación.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IX. Para el monitoreo de los medios de comunicación.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+IX. PARA EL MONITOREO DE LOS MEDIOS DE COMUNICACIÓN, PUDIENDO ACORDAR ENTRE OTROS ASPECTOS, QUE ESTOS SE EJERZAN CON PERSPECTIVA DE GÉNERO EN LAS TRANSMISIONES SOBRE LAS PRECAMPAÑAS Y CAMPAÑAS ELECTORALES, EN LOS PROGRAMAS EN RADIO Y TELEVISIÓN QUE CORRESPONDAN A LAS PRERROGATIVAS DE LOS PARTIDOS.
 
 ### CAPÍTULO III. DE LA INTEGRACIÓN DEL CONSEJO ESTATAL ELECTORAL
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 71. El Consejo Estatal es el órgano de Dirección superior y deliberación del Instituto Morelense y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral y se integra por:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 71.
 
-El Consejo Estatal es el órgano de Dirección superior y deliberación del Instituto Morelense y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral y se integra por:
+EL CONSEJO ESTATAL ES EL ÓRGANO DE DIRECCIÓN SUPERIOR Y DELIBERACIÓN DEL INSTITUTO MORELENSE Y RESPONSABLE DE VIGILAR EL CUMPLIMIENTO DE LAS DISPOSICIONES CONSTITUCIONALES Y LEGALES EN MATERIA ELECTORAL Y SE INTEGRA POR:
 
-I. Un Consejero Presidente;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Un Consejero Presidente;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. Seis Consejeros Electorales;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-III. Un Secretario Ejecutivo, y
+I. UNA CONSEJERA O CONSEJERO PRESIDENTE;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Seis Consejeros Electorales;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+II. LAS Y LOS SEIS CONSEJERAS Y CONSEJEROS ELECTORALES;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. Un Secretario Ejecutivo, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+III. UNA SECRETARIA O SECRETARIO EJECUTIVO, Y
 
 IV. Un representante por cada partido político con registro o coalición.
 
-Todos los integrantes del Consejo Estatal Electoral tendrán derecho a voz, pero sólo el Consejero Presidente y los Consejeros Electorales tendrán derecho a voz y voto.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Todos los integrantes del Consejo Estatal Electoral tendrán derecho a voz, pero sólo el Consejero Presidente y los Consejeros Electorales tendrán derecho a voz y voto.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Los partidos políticos designarán un representante propietario y un suplente.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+TODOS LOS INTEGRANTES DEL CONSEJO ESTATAL ELECTORAL TENDRÁN DERECHO A VOZ, PERO SÓLO LA O EL CONSEJERO PRESIDENTE, Y LAS Y LOS CONSEJEROS ELECTORALES TENDRÁN DERECHO A VOZ Y VOTO.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los partidos políticos designarán un representante propietario y un suplente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LOS PARTIDOS POLÍTICOS DESIGNARÁN UNA O UN REPRESENTANTE PROPIETARIO Y UN SUPLENTE.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 72. El Consejero Presidente y los Consejeros Electorales del Instituto Morelense serán designados por el Consejo General del Instituto Nacional, por un periodo de siete años, de conformidad a lo estipulado en la Constitución Federal y la Ley General de Instituciones y Procedimientos Electorales."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 72.
 
-El Consejero Presidente y los Consejeros Electorales del Instituto Morelense serán designados por el Consejo General del Instituto Nacional, por un periodo de siete años, de conformidad a lo estipulado en la Constitución Federal y la Ley General de Instituciones y Procedimientos Electorales.
+La o el Consejero Presidente y las y los Consejeros Electorales del Instituto Morelense serán designados por el Consejo General del Instituto Nacional, por un periodo de siete años, de conformidad a lo estipulado en la Constitución Federal y la Ley General de Instituciones y Procedimientos Electorales.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 73. El Consejero Presidente, los Consejeros Electorales y los servidores públicos asignados al Instituto Morelense, no podrán utilizar en beneficio propio o de terceros, la información confidencial de que dispongan en razón de su cargo; dicha información, cuando así proceda, sólo será divulgada con autorización del Consejo Estatal."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 73.
 
-El Consejero Presidente, los Consejeros Electorales y los servidores públicos asignados al Instituto Morelense, no podrán utilizar en beneficio propio o de terceros, la información confidencial de que dispongan en razón de su cargo; dicha información, cuando así proceda, sólo será divulgada con autorización del Consejo Estatal.
+La o el Consejero Presidente, las y los Consejeros Electorales y las y los servidores públicos asignados al Instituto Morelense, no podrán utilizar en beneficio propio o de terceros, la información confidencial de que dispongan en razón de su cargo; dicha información, cuando así proceda, sólo será divulgada con autorización del Consejo Estatal.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 74. Las retribuciones que perciban el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo, estarán previstas en el Presupuesto de Egresos del Gobierno del Estado, en términos de lo previsto en el artículo 127 de la Constitución Federal y 82 de la Constitución; asimismo por ningún motivo se incrementarán sus emolumentos durante el ejercicio fiscal respectivo.
+
+Por la naturaleza de su función, el consejero presidente y los consejeros electorales al ostentar la representación del órgano de dirección superior y deliberación del instituto morelense y por carecer de la condición de subordinación, quedan excluidos de obtener alguna retribución económica por concepto de aguinaldo."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 74.
 
-Las retribuciones que perciban el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo, estarán previstas en el Presupuesto de Egresos del Gobierno del Estado, en términos de lo previsto en el artículo 127 de la Constitución Federal y 82 de la Constitución; asimismo por ningún motivo se incrementarán sus emolumentos durante el ejercicio fiscal respectivo.
-
-(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-POR LA NATURALEZA DE SU FUNCIÓN, EL CONSEJERO PRESIDENTE Y LOS CONSEJEROS ELECTORALES AL OSTENTAR LA REPRESENTACIÓN DEL ÓRGANO DE DIRECCIÓN SUPERIOR Y DELIBERACIÓN DEL INSTITUTO MORELENSE Y POR CARECER DE LA CONDICIÓN DE SUBORDINACIÓN, QUEDAN EXCLUIDOS DE OBTENER ALGUNA RETRIBUCIÓN ECONÓMICA POR CONCEPTO DE AGUINALDO.
+Las retribuciones que perciban la o el Consejero Presidente, las y los Consejeros Electorales y la o el Secretario Ejecutivo, estarán previstas en el Presupuesto de Egresos del Gobierno del Estado, en términos de lo previsto en el artículo 127 de la Constitución Federal y 82 de la Constitución; asimismo por ningún motivo se incrementarán sus emolumentos durante el ejercicio fiscal respectivo.
 
 ### CAPÍTULO IV. DE LAS SESIONES DEL CONSEJO ESTATAL ELECTORAL
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 75. El Consejo Estatal sesionará en forma ordinaria o extraordinaria. Las sesiones ordinarias se celebrarán a convocatoria expedida cuando menos con setenta y dos horas de anticipación por el Consejero Presidente. El Consejo se reunirá cuando menos una vez al mes, excepto en el período de elecciones ordinarias o extraordinarias, en que sesionará cuantas veces sea necesario a juicio del Consejero Presidente, que nunca serán menores a dos veces al mes.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 75.
 
-El Consejo Estatal sesionará en forma ordinaria o extraordinaria. Las sesiones ordinarias se celebrarán a convocatoria expedida cuando menos con setenta y dos horas de anticipación por el Consejero Presidente. El Consejo se reunirá cuando menos una vez al mes, excepto en el período de elecciones ordinarias o extraordinarias, en que sesionará cuantas veces sea necesario a juicio del Consejero Presidente, que nunca serán menores a dos veces al mes.
+EL CONSEJO ESTATAL SESIONARÁ EN FORMA ORDINARIA O EXTRAORDINARIA. LAS SESIONES ORDINARIAS SE CELEBRARÁN A CONVOCATORIA EXPEDIDA CUANDO MENOS CON SETENTA Y DOS HORAS DE ANTICIPACIÓN POR LA O EL CONSEJERO PRESIDENTE. EL CONSEJO SE REUNIRÁ CUANDO MENOS UNA VEZ AL MES, EXCEPTO EN EL PERÍODO DE ELECCIONES ORDINARIAS O EXTRAORDINARIAS, EN QUE SESIONARÁ CUANTAS VECES SEA NECESARIO A JUICIO DE LA O EL CONSEJERO PRESIDENTE, QUE NUNCA SERÁN MENORES A DOS VECES AL MES.
 
-Sesionará en forma extraordinaria a convocatoria expedida al menos con veinticuatro horas de antelación por el Consejero Presidente, a solicitud de la mayoría de los Consejeros Electorales, o de los partidos políticos integrantes del Consejo Estatal.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Sesionará en forma extraordinaria a convocatoria expedida al menos con veinticuatro horas de antelación por el Consejero Presidente, a solicitud de la mayoría de los Consejeros Electorales, o de los partidos políticos integrantes del Consejo Estatal.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Cuando se trate de casos urgentes, así calificados por el Consejero Presidente, se podrá convocar hasta con tres horas previas a la celebración de la sesión respectiva.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-El Secretario Ejecutivo, a propuesta de quien o quienes estén legitimados para ello en los términos de este artículo, hará la convocatoria respectiva. En período de elecciones ordinarias o extraordinarias todos los días y horas, se consideran hábiles para sesionar.
+SESIONARÁ EN FORMA EXTRAORDINARIA A CONVOCATORIA EXPEDIDA AL MENOS CON VEINTICUATRO HORAS DE ANTELACIÓN POR LA O EL CONSEJERO PRESIDENTE, A SOLICITUD DE LA MAYORÍA DE LOS CONSEJEROS ELECTORALES, O DE LOS PARTIDOS POLÍTICOS INTEGRANTES DEL CONSEJO ESTATAL.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Cuando se trate de casos urgentes, así calificados por el Consejero Presidente, se podrá convocar hasta con tres horas previas a la celebración de la sesión respectiva.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+CUANDO SE TRATE DE CASOS URGENTES, ASÍ CALIFICADOS POR LA O EL CONSEJERO PRESIDENTE, SE PODRÁ CONVOCAR HASTA CON TRES HORAS PREVIAS A LA CELEBRACIÓN DE LA SESIÓN RESPECTIVA.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “El Secretario Ejecutivo, a propuesta de quien o quienes estén legitimados para ello en los términos de este artículo, hará la convocatoria respectiva. En período de elecciones ordinarias o extraordinarias todos los días y horas, se consideran hábiles para sesionar.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LA O EL SECRETARIO EJECUTIVO, A PROPUESTA DE QUIEN O QUIENES ESTÉN LEGITIMADOS PARA ELLO EN LOS TÉRMINOS DE ESTE ARTÍCULO, HARÁ LA CONVOCATORIA RESPECTIVA. EN PERÍODO DE ELECCIONES ORDINARIAS O EXTRAORDINARIAS TODOS LOS DÍAS Y HORAS, SE CONSIDERAN HÁBILES PARA SESIONAR.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 Las sesiones de Consejo Estatal y de todos los órganos colegiados del Instituto Morelense serán públicas, salvo en los casos de grave alteración al orden que pongan en riesgo el proceso mismo o pongan en riesgo la integridad física de sus miembros.
 
-Para cada sesión de consejo se levantará el acta respectiva, misma que deberá ser redactada con toda fidelidad conforme a lo expuesto en ella. La Secretaría del Consejo estará a cargo del Secretario Ejecutivo del Instituto Morelense, quien tendrá derecho de voz en las reuniones.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEXTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Para cada sesión de consejo se levantará el acta respectiva, misma que deberá ser redactada con toda fidelidad conforme a lo expuesto en ella. La Secretaría del Consejo estará a cargo del Secretario Ejecutivo del Instituto Morelense, quien tendrá derecho de voz en las reuniones.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+PARA CADA SESIÓN DE CONSEJO SE LEVANTARÁ EL ACTA RESPECTIVA, MISMA QUE DEBERÁ SER REDACTADA CON TODA FIDELIDAD CONFORME A LO EXPUESTO EN ELLA. LA SECRETARÍA DEL CONSEJO ESTARÁ A CARGO DE LA O EL SECRETARIO EJECUTIVO DEL INSTITUTO MORELENSE, QUIEN TENDRÁ DERECHO DE VOZ EN LAS REUNIONES.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 76. Las sesiones del Consejo Estatal serán válidas con la asistencia de más de la mitad de sus integrantes, a primera convocatoria; en caso de no reunirse la mayoría, la sesión tendrá lugar a segunda convocatoria, con los Consejeros y representantes que asistan. En el supuesto de que el Consejero Presidente no asista o se ausente de la sesión en forma definitiva, el Consejo Estatal designará a uno de los Consejeros Electorales presentes para que la presida, quien ejercerá todos los derechos y tendrá todas las obligaciones que corresponden al Consejero Presidente, de manera temporal, en el cumplimiento de los acuerdos de la sesión que presida.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 76.
 
-Las sesiones del Consejo Estatal serán válidas con la asistencia de más de la mitad de sus integrantes, a primera convocatoria; en caso de no reunirse la mayoría, la sesión tendrá lugar a segunda convocatoria, con los Consejeros y representantes que asistan. En el supuesto de que el Consejero Presidente no asista o se ausente de la sesión en forma definitiva, el Consejo Estatal designará a uno de los Consejeros Electorales presentes para que la presida, quien ejercerá todos los derechos y tendrá todas las obligaciones que corresponden al Consejero Presidente, de manera temporal, en el cumplimiento de los acuerdos de la sesión que presida.
+LAS SESIONES DEL CONSEJO ESTATAL SERÁN VÁLIDAS CON LA ASISTENCIA DE MÁS DE LA MITAD DE SUS INTEGRANTES, A PRIMERA CONVOCATORIA; EN CASO DE NO REUNIRSE LA MAYORÍA, LA SESIÓN TENDRÁ LUGAR A SEGUNDA CONVOCATORIA, CON LOS CONSEJEROS Y REPRESENTANTES QUE ASISTAN. EN EL SUPUESTO DE QUE LA O EL CONSEJERO PRESIDENTE NO ASISTA O SE AUSENTE DE LA SESIÓN EN FORMA DEFINITIVA, EL CONSEJO ESTATAL DESIGNARÁ A UNO DE LAS O LOS CONSEJEROS ELECTORALES PRESENTES PARA QUE LA PRESIDA, QUIEN EJERCERÁ TODOS LOS DERECHOS Y TENDRÁ TODAS LAS OBLIGACIONES QUE CORRESPONDEN A LA O EL CONSEJERO PRESIDENTE, DE MANERA TEMPORAL, EN EL CUMPLIMIENTO DE LOS ACUERDOS DE LA SESIÓN QUE PRESIDA.
 
 Sus resoluciones se tomarán por mayoría simple, excepto las que por disposición de la normativa aplicable, requieran de mayoría calificada.
 
@@ -1047,17 +1417,23 @@ Sus resoluciones se tomarán por mayoría simple, excepto las que por disposici�
 
 Para los efectos de las disposiciones contenidas en el presente Capítulo, las votaciones emitidas por el Consejo Estatal, serán:
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Mayoría simple, la aprobación emitida por la mayoría de los Consejeros electorales presentes;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-I. Mayoría simple, la aprobación emitida por la mayoría de los Consejeros electorales presentes;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+I. MAYORÍA SIMPLE, LA APROBACIÓN EMITIDA POR LA MAYORÍA DE LAS Y LOS CONSEJEROS ELECTORALES PRESENTES;
 
-II. Mayoría calificada, la aprobación de cuando menos cinco Consejeros electorales, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Mayoría calificada, la aprobación de cuando menos cinco Consejeros electorales, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-III. Unanimidad, la aprobación emitida por la totalidad de los Consejeros electorales Presentes.
+II. MAYORÍA CALIFICADA, LA APROBACIÓN DE CUANDO MENOS CINCO INTEGRANTES DEL CONSEJO ELECTORAL, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. Unanimidad, la aprobación emitida por la totalidad de los Consejeros electorales Presentes.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+III. UNANIMIDAD, LA APROBACIÓN EMITIDA POR LA TOTALIDAD DE LOS INTEGRANTES DEL CONSEJO ELECTORAL PRESENTES.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DEL CONSEJO ESTATAL ELECTORAL
 
@@ -1073,11 +1449,19 @@ II. Fijar las políticas del Instituto Morelense y aprobar su estructura, las di
 
 III. Expedir los reglamentos y lineamientos necesarios para el cumplimiento de sus atribuciones;
 
-IV. Designar y remover al Secretario Ejecutivo, a los Directores Ejecutivos y, en su caso, a los encargados de despacho, a propuesta de la mayoría simple de los consejeros electorales del Consejo Estatal, con la aprobación calificada de los Consejeros Electorales;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IV. Designar y remover al Secretario Ejecutivo, a los Directores Ejecutivos y, en su caso, a los encargados de despacho, a propuesta de la mayoría simple de los consejeros electorales del Consejo Estatal, con la aprobación calificada de los Consejeros Electorales;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+IV. DESIGNAR Y REMOVER A LA O EL SECRETARIO EJECUTIVO, A LAS O LOS DIRECTORES EJECUTIVOS Y, EN SU CASO, A LOS ENCARGADOS DE DESPACHO, A PROPUESTA DE LA MAYORÍA SIMPLE DE LOS INTEGRANTES DEL CONSEJO ESTATAL ELECTORAL, CON LA APROBACIÓN CALIFICADA DE LOS INTEGRANTES DEL CONSEJO ELECTORAL;
 
 V. Cuidar la debida integración, instalación y funcionamiento de los consejos distritales y municipales electorales;
 
-VI. Designar y remover al Consejero Presidente, a los Consejeros Electorales y al Secretario de los consejos distritales y municipales, a propuesta de la Comisión Ejecutiva de Organización y Partidos Políticos, con la aprobación de mayoría calificada de los Consejeros Electorales;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VI. Designar y remover al Consejero Presidente, a los Consejeros Electorales y al Secretario de los consejos distritales y municipales, a propuesta de la Comisión Ejecutiva de Organización y Partidos Políticos, con la aprobación de mayoría calificada de los Consejeros Electorales;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VI. DESIGNAR Y REMOVER A LA O EL CONSEJERO PRESIDENTE, A LAS Y LOS CONSEJEROS ELECTORALES Y A LA O EL SECRETARIO DE LOS CONSEJOS DISTRITALES Y MUNICIPALES, A PROPUESTA DE LA COMISIÓN EJECUTIVA DE ORGANIZACIÓN Y PARTIDOS POLÍTICOS, CON LA APROBACIÓN DE MAYORÍA CALIFICADA DE LOS INTEGRANTES DEL CONSEJO ELECTORAL;
 
 VII. Convocar a los partidos políticos para que nombren a sus representantes, propietarios y suplentes, ante estas instancias;
 
@@ -1117,25 +1501,45 @@ XXIV. Aprobar el modelo y los formatos de la documentación, materiales electora
 
 XXV. Recabar de los consejos electorales distritales, municipales, así como de las comisiones y direcciones, los informes y certificaciones que estime necesarios por estar relacionados con el proceso electoral;
 
-XXVI. Recibir y resolver sobre las solicitudes de registro que le formulen los ciudadanos que deseen constituirse en partido político estatal; así como sobre la cancelación o pérdida, en su caso, del registro que se otorgue;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XXVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXVI. Recibir y resolver sobre las solicitudes de registro que le formulen los ciudadanos que deseen constituirse en partido político estatal; así como sobre la cancelación o pérdida, en su caso, del registro que se otorgue;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XXVI. RECIBIR Y RESOLVER SOBRE LAS SOLICITUDES DE REGISTRO QUE LE FORMULEN LA CIUDADANÍA QUE DESEEN CONSTITUIRSE EN PARTIDO POLÍTICO ESTATAL; ASÍ COMO SOBRE LA CANCELACIÓN O PÉRDIDA, EN SU CASO, DEL REGISTRO QUE SE OTORGUE;
 
 XXVII. Recibir, revisar, aprobar, registrar y publicar los convenios que se celebren entre los partidos políticos en materia de coaliciones o candidaturas comunes, así como de frentes o fusiones en los casos de partidos políticos locales;
 
 XXVIII. Registrar y publicar por una sola vez, la plataforma electoral que por cada proceso electoral deben presentar los partidos políticos, coaliciones o candidatos independientes en los términos de este Código;
 
-XXIX. Registrar las candidaturas a Gobernador, a Diputados de mayoría relativa al Congreso, las listas de asignación de los candidatos a Diputados por el principio de representación proporcional y, en su caso, registrar supletoriamente las candidaturas a Diputados por principio de mayoría relativa, así como a miembros de los ayuntamientos;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XXIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXIX. Registrar las candidaturas a Gobernador, a Diputados de mayoría relativa al Congreso, las listas de asignación de los candidatos a Diputados por el principio de representación proporcional y, en su caso, registrar supletoriamente las candidaturas a Diputados por principio de mayoría relativa, así como a miembros de los ayuntamientos;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XXX. Resolver sobre la sustitución de candidatos;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XXIX. REGISTRAR LAS CANDIDATURAS A GOBERNADOR O GOBERNADORA, A DIPUTADOS Y DIPUTADAS DE MAYORÍA RELATIVA AL CONGRESO, LAS LISTAS DE ASIGNACIÓN DE LAS Y LOS CANDIDATOS A DIPUTADOS Y DIPUTADAS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y, EN SU CASO, REGISTRAR SUPLETORIAMENTE LAS CANDIDATURAS A DIPUTADOS Y DIPUTADAS POR PRINCIPIO DE MAYORÍA RELATIVA, ASÍ COMO A MIEMBROS DE LOS AYUNTAMIENTOS;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XXX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXX. Resolver sobre la sustitución de candidatos;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XXX. RESOLVER SOBRE LA SUSTITUCIÓN DE LAS CANDIDATURAS;
 
 XXXI. Registrar a los representantes de los partidos políticos, coaliciones y candidatos independientes ante el programa de resultados electorales preliminares y ante el conteo rápido, en su caso;
 
-XXXII. Promover y organizar los debates públicos entre candidatos, previa solicitud de los partidos políticos en los términos establecidos en la Ley General de Instituciones y Procedimientos Electorales;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XXXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXXII. Promover y organizar los debates públicos entre candidatos, previa solicitud de los partidos políticos en los términos establecidos en la Ley General de Instituciones y Procedimientos Electorales;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XXXII. PROMOVER Y ORGANIZAR LOS DEBATES PÚBLICOS ENTRE CANDIDATOS Y CANDIDATAS, PREVIA SOLICITUD DE LOS PARTIDOS POLÍTICOS EN LOS TÉRMINOS ESTABLECIDOS EN LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES;
 
 XXXIII. Proveer lo necesario a fin de que los funcionarios de casilla, así como los representantes de partido, reciban alimentación durante el día de la elección, desde su apertura hasta su cierre;
 
 XXXIV. Implementar y operar el programa de resultados preliminares de las elecciones locales de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional, así como los conteos rápidos que se aprueben;
 
-XXXV. Recibir de los Consejos Distritales Electorales el cómputo de la elección de Gobernador y Diputados de mayoría relativa para realizar el cómputo total, declarar la validez de la elección, determinar la distribución y asignación de diputados plurinominales y otorgar las constancias respectivas;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XXXV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXXV. Recibir de los Consejos Distritales Electorales el cómputo de la elección de Gobernador y Diputados de mayoría relativa para realizar el cómputo total, declarar la validez de la elección, determinar la distribución y asignación de diputados plurinominales y otorgar las constancias respectivas;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XXXV. RECIBIR DE LOS CONSEJOS DISTRITALES ELECTORALES EL CÓMPUTO DE LA ELECCIÓN DE GOBERNADOR O GOBERNADORA, DIPUTADOS Y DIPUTADAS DE MAYORÍA RELATIVA PARA REALIZAR EL CÓMPUTO TOTAL, DECLARAR LA VALIDEZ DE LA ELECCIÓN, DETERMINAR LA DISTRIBUCIÓN Y ASIGNACIÓN (SIC) DIPUTACIONES PLURINOMINALES Y OTORGAR LAS CONSTANCIAS RESPECTIVAS;
 
 XXXVI. Recibir de los Consejos Municipales Electorales el cómputo de la elección de miembros de los ayuntamientos, distribuir y asignar regidurías, otorgando las constancias respectivas;
 
@@ -1173,17 +1577,51 @@ LII. Requerir, en su caso, a las autoridades estatales y municipales que corresp
 
 LIII. Observar y hacer cumplir las normas y procedimientos relativos al Servicio Profesional Electoral, así como atender los requerimientos que en esa materia le haga el Instituto Nacional Electoral;
 
-LIV. Presentar un informe sobre cada proceso electoral, dentro de los seis meses siguientes a la conclusión de este, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN LIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “LIV. Presentar un informe sobre cada proceso electoral, dentro de los seis meses siguientes a la conclusión de este, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-LV. Las demás que le confiere este Código y otras disposiciones legales.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+LIV. PRESENTAR UN INFORME SOBRE CADA PROCESO ELECTORAL, DENTRO DE LOS SEIS MESES SIGUIENTES A LA CONCLUSIÓN DE ESTE;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN LV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+LV. GARANTIZAR LA PARIDAD DE GÉNERO Y EL RESPETO DE LOS DERECHOS HUMANOS DE LAS MUJERES EN EL ÁMBITO POLÍTICO Y ELECTORAL:
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN LVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+LVI. VIGILAR QUE LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS, CANDIDATOS Y CANDIDATAS, PREVENGAN, ATIENDAN Y ERRADIQUEN LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN LVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+LVII. PRESENTAR UN INFORME SOBRE CADA PROCESO ELECTORAL, DENTRO DE LOS SEIS MESES SIGUIENTES A LA CONCLUSIÓN DE ESTE;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN LVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+LVIII. ORDENAR, A PROPUESTA MOTIVADA Y FUNDADA DE LA COMISIÓN EJECUTIVA DE QUEJAS, LA SUSPENSIÓN INMEDIATA DE CUALQUIER PROPAGANDA POLÍTICA O ELECTORAL, DIFUNDIDA EN RADIO O TELEVISIÓN LOCAL, QUE RESULTE VIOLATORIA DE ESTA LEY, O BIEN CUANDO EN CUYOS CONTENIDOS SE IDENTIFIQUE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO. LO ANTERIOR, SIN PERJUICIO DE LAS DEMÁS SANCIONES QUE DEBAN APLICARSE A LAS PERSONAS INFRACTORAS, Y
+
+LIX. Las demás que le confiere este Código y otras disposiciones legales.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 79. Son atribuciones del Consejero Presidente del Instituto Morelense, las siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 79.
 
-Son atribuciones del Consejero Presidente del Instituto Morelense, las siguientes:
+SON ATRIBUCIONES DE LA O EL CONSEJERO PRESIDENTE DEL INSTITUTO MORELENSE, LAS SIGUIENTES:
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Tener la representación legal y administrativa del Instituto Morelense, siendo responsable en términos de lo establecido en el Titulo Cuarto de la Constitución Federal; la representación electoral se ejercerá de manera conjunta con los presidentes de las comisiones ejecutivas permanentes o temporales;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-I. Tener la representación legal y administrativa del Instituto Morelense, siendo responsable en términos de lo establecido en el Titulo Cuarto de la Constitución Federal; la representación electoral se ejercerá de manera conjunta con los presidentes de las comisiones ejecutivas permanentes o temporales;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+I. TENER LA REPRESENTACIÓN LEGAL Y ADMINISTRATIVA DEL INSTITUTO MORELENSE, SIENDO RESPONSABLE EN TÉRMINOS DE LO ESTABLECIDO EN EL TITULO CUARTO DE LA CONSTITUCIÓN FEDERAL; LA REPRESENTACIÓN ELECTORAL SE EJERCERÁ DE MANERA CONJUNTA CON LAS Y LOS PRESIDENTES DE LAS COMISIONES EJECUTIVAS PERMANENTES O TEMPORALES;
 
 II. Remitir oportunamente al titular del Poder Ejecutivo, el anteproyecto de presupuesto de egresos del Instituto Morelense, una vez aprobado por el Consejo Estatal;
 
@@ -1191,15 +1629,21 @@ II. Remitir oportunamente al titular del Poder Ejecutivo, el anteproyecto de pre
 
 III. Ejercer el presupuesto de egresos asignado al Instituto Morelense, aprobado por el Consejo Estatal a propuesta de la Comisión Ejecutiva de Administración y Financiamiento, y presentar al Consejo Estatal un informe trimestral de los ingresos y egresos del mismo, que deberá contener la información del gasto programado y ejercido por cada una de las partidas autorizadas.
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IV. Suscribir, junto con el Secretario Ejecutivo y los presidentes de las comisiones ejecutivas, los convenios que sean necesarios con el Instituto Nacional y otras autoridades de cualquier orden de Gobierno, que se requieran para cumplimiento de las atribuciones del Instituto Morelense previa autorización del Consejo Estatal;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-IV. Suscribir, junto con el Secretario Ejecutivo y los presidentes de las comisiones ejecutivas, los convenios que sean necesarios con el Instituto Nacional y otras autoridades de cualquier orden de Gobierno, que se requieran para cumplimiento de las atribuciones del Instituto Morelense previa autorización del Consejo Estatal;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+IV. SUSCRIBIR, JUNTO CON LA O EL SECRETARIO EJECUTIVO Y LAS O LOS PRESIDENTES DE LAS COMISIONES EJECUTIVAS, LOS CONVENIOS QUE SEAN NECESARIOS CON EL INSTITUTO NACIONAL Y OTRAS AUTORIDADES DE CUALQUIER ORDEN DE GOBIERNO, QUE SE REQUIERAN PARA CUMPLIMIENTO DE LAS ATRIBUCIONES DEL INSTITUTO MORELENSE PREVIA AUTORIZACIÓN DEL CONSEJO ESTATAL;
 
 V. (DEROGADA, P.O. 26 DE MAYO DE 2017)
 
 VI. Convocar en tiempo a los partidos políticos para que nombren a sus representantes, a efecto de integrar debidamente, el Consejo Estatal;
 
-VII. Determinar y presidir las sesiones ordinarias o extraordinarias del consejo y convocar a sus miembros a través del Secretario Ejecutivo;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VII. Determinar y presidir las sesiones ordinarias o extraordinarias del consejo y convocar a sus miembros a través del Secretario Ejecutivo;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VII. DETERMINAR Y PRESIDIR LAS SESIONES ORDINARIAS O EXTRAORDINARIAS DEL CONSEJO Y CONVOCAR A SUS MIEMBROS A TRAVÉS DE LA SECRETARÍA EJECUTIVA;
 
 VIII. Remitir para su publicación en el Periódico Oficial:
 
@@ -1207,13 +1651,25 @@ a) La integración de los consejos distritales y municipales electorales;
 
 b) La resolución que cancele el registro de un partido político;
 
-c) La resolución que autorice la sustitución de candidatos, conforme a lo dispuesto por este Código;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) La resolución que autorice la sustitución de candidatos, conforme a lo dispuesto por este Código;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-d) La relación completa de candidatos registrados por los partidos políticos y las candidaturas independientes, para la elección que corresponda, debiendo publicarse también en uno de los diarios de mayor circulación de la Entidad;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c) LA RESOLUCIÓN QUE AUTORICE LA SUSTITUCIÓN DE CANDIDATURAS, CONFORME A LO DISPUESTO POR ESTE CÓDIGO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO D) DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) La relación completa de candidatos registrados por los partidos políticos y las candidaturas independientes, para la elección que corresponda, debiendo publicarse también en uno de los diarios de mayor circulación de la Entidad;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+d) LA RELACIÓN COMPLETA DE CANDIDATOS Y CANDIDATAS REGISTRADOS POR LOS PARTIDOS POLÍTICOS Y LAS CANDIDATURAS INDEPENDIENTES, PARA LA ELECCIÓN QUE CORRESPONDA, DEBIENDO PUBLICARSE TAMBIÉN EN UNO DE LOS DIARIOS DE MAYOR CIRCULACIÓN DE LA ENTIDAD;
 
 e) La convocatoria para las elecciones ordinarias y extraordinarias en su caso, y
 
-f) La relación de los Diputados electos que integran la Legislatura local que corresponda, así como la integración de los ayuntamientos, debiéndose publicar también en uno de los diarios de mayor circulación en la Entidad;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO F) DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “f) La relación de los Diputados electos que integran la Legislatura local que corresponda, así como la integración de los ayuntamientos, debiéndose publicar también en uno de los diarios de mayor circulación en la Entidad;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+f) LA RELACIÓN DE LAS Y LOS DIPUTADOS ELECTOS QUE INTEGRAN LA LEGISLATURA LOCAL QUE CORRESPONDA, ASÍ COMO LA INTEGRACIÓN DE LOS AYUNTAMIENTOS, DEBIÉNDOSE PUBLICAR TAMBIÉN EN UNO DE LOS DIARIOS DE MAYOR CIRCULACIÓN EN LA ENTIDAD;
 
 IX. Garantizar el orden durante las sesiones del Consejo Estatal, así como la seguridad de sus integrantes y vigilar el desarrollo pacífico del proceso electoral y de los demás procesos de participación ciudadana, pudiendo solicitar en su caso, el auxilio de la fuerza pública;
 
@@ -1221,11 +1677,17 @@ X. (DEROGADA, P.O. 26 DE MAYO DE 2017)
 
 XI. Recibir las solicitudes de registro de los convenios de coalición o candidatura común que presenten los partidos y someterlos al Pleno del Consejo para su aprobación;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XII. Someter a la consideración del Consejo Estatal los dictámenes de registro de candidatos a Gobernador y las listas de candidatos a Diputados por el principio de representación proporcional, elaborados por la Comisión Ejecutiva de Organización y Partidos Políticos;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XII. Someter a la consideración del Consejo Estatal los dictámenes de registro de candidatos a Gobernador y las listas de candidatos a Diputados por el principio de representación proporcional, elaborados por la Comisión Ejecutiva de Organización y Partidos Políticos;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-XIII. Solicitar a las autoridades competentes los medios de seguridad personal para los candidatos a Gobernador que lo requieran;
+XII. SOMETER A LA CONSIDERACIÓN DEL CONSEJO ESTATAL LOS DICTÁMENES DE REGISTRO DE CANDIDATOS A GOBERNADOR O GOBERNADORA Y LAS LISTAS DE CANDIDATOS A DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, ELABORADOS POR LA COMISIÓN EJECUTIVA DE ORGANIZACIÓN Y PARTIDOS POLÍTICOS;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XIII. Solicitar a las autoridades competentes los medios de seguridad personal para los candidatos a Gobernador que lo requieran;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XIII. SOLICITAR A LAS AUTORIDADES COMPETENTES LOS MEDIOS DE SEGURIDAD PERSONAL PARA LAS Y LOS CANDIDATOS A GOBERNADOR QUE LO REQUIERAN;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -1233,19 +1695,35 @@ XIV. Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo Est
 
 XV. Las demás que señale este ordenamiento, determinen las autoridades federales o el Consejo Estatal le asigne.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 80. El Consejero Presidente coordinará las actividades entre el Instituto Morelense y el Instituto Nacional a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 80.
 
-El Consejero Presidente coordinará las actividades entre el Instituto Morelense y el Instituto Nacional a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales.
+La o el Consejero Presidente coordinará las actividades entre el Instituto Morelense y el Instituto Nacional a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales.
 
-### CAPÍTULO VI. DE LOS CONSEJEROS ELECTORALES
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO PRIMERO DEL LIBRO TERCERO DE ESTE ORDENAMIENTO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “DE LOS CONSEJEROS ELECTORALES”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO VI. DE LAS Y LOS CONSEJEROS ELECTORALES
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 81. Son facultades de los Consejeros Estatales Electorales las siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 81.
 
-Son facultades de los Consejeros Estatales Electorales las siguientes:
+SON FACULTADES DE LAS Y LOS CONSEJEROS ESTATALES ELECTORALES LAS SIGUIENTES:
 
 I. Asistir con voz y voto a las sesiones ordinarias y extraordinarias del Consejo Estatal;
 
-II. Solicitar se convoque a sesión extraordinaria del Consejo Estatal; el Consejero Presidente atenderá la petición y, por conducto del Secretario Ejecutivo, cuando así corresponda se convocará en un plazo no mayor de veinticuatro horas;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Solicitar se convoque a sesión extraordinaria del Consejo Estatal; el Consejero Presidente atenderá la petición y, por conducto del Secretario Ejecutivo, cuando así corresponda se convocará en un plazo no mayor de veinticuatro horas;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+II. SOLICITAR SE CONVOQUE A SESIÓN EXTRAORDINARIA DEL CONSEJO ESTATAL; LA O EL CONSEJERO PRESIDENTE ATENDERÁ LA PETICIÓN Y, POR CONDUCTO DEL SECRETARIO EJECUTIVO, CUANDO ASÍ CORRESPONDA SE CONVOCARÁ EN UN PLAZO NO MAYOR DE VEINTICUATRO HORAS;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -1307,13 +1785,19 @@ XI. De Fortalecimiento de la Igualdad de Género y No Discriminación en la Part
 
 Cuando exista Acuerdo Delegatorio del Instituto Nacional, se establecerá una Comisión de Fiscalización, que asumirá las funciones contenidas en la normativa aplicable.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 84. Las comisiones ejecutivas permanentes y temporales se integrarán únicamente por tres Consejeros Electorales. Por mayoría calificada de votos, el pleno del Consejo Estatal determinará quién las presidirá. El titular de la Dirección Ejecutiva o unidad técnica correspondiente realizará la función de secretario técnico de la misma y el Secretario Ejecutivo coadyuvará en las actividades de las secretarías técnicas de las comisiones.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 84.
 
-Las comisiones ejecutivas permanentes y temporales se integrarán únicamente por tres Consejeros Electorales. Por mayoría calificada de votos, el pleno del Consejo Estatal determinará quién las presidirá. El titular de la Dirección Ejecutiva o unidad técnica correspondiente realizará la función de secretario técnico de la misma y el Secretario Ejecutivo coadyuvará en las actividades de las secretarías técnicas de las comisiones.
+LAS COMISIONES EJECUTIVAS PERMANENTES Y TEMPORALES SE INTEGRARÁN ÚNICAMENTE POR TRES CONSEJERÍAS ELECTORALES. POR MAYORÍA CALIFICADA DE VOTOS, EL PLENO DEL CONSEJO ESTATAL DETERMINARÁ QUIÉN LAS PRESIDIRÁ. EL TITULAR DE LA DIRECCIÓN EJECUTIVA O UNIDAD TÉCNICA CORRESPONDIENTE REALIZARÁ LA FUNCIÓN DE SECRETARIO TÉCNICO DE LA MISMA Y EL SECRETARIO EJECUTIVO COADYUVARÁ EN LAS ACTIVIDADES DE LAS SECRETARÍAS TÉCNICAS DE LAS COMISIONES.
 
-El Consejo Estatal determinará la periodicidad en la participación de los consejeros electorales en las comisiones, el Consejero Presidente no podrá ser integrante de comisiones permanentes o temporales.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “El Consejo Estatal determinará la periodicidad en la participación de los consejeros electorales en las comisiones, el Consejero Presidente no podrá ser integrante de comisiones permanentes o temporales.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+EL CONSEJO ESTATAL DETERMINARÁ LA PERIODICIDAD EN LA PARTICIPACIÓN DE LOS CONSEJEROS Y LAS CONSEJERAS ELECTORALES EN LAS COMISIONES
 
 ###### Artículo 85.
 
@@ -1321,9 +1805,13 @@ Las comisiones temporales son las que se crean para la realización de tareas es
 
 Para cada comisión deberá señalarse el objeto de la misma y el tiempo para el cumplimiento de ésta; sólo se podrá ampliar el plazo si a juicio del Consejo Estatal queda debidamente justificado.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 86. El Secretario Ejecutivo y los Directores Ejecutivos prestarán el apoyo a las comisiones para la realización de sus actividades o programas específicos. En el caso que se requiera también contarán con el auxilio o asesoría técnico-científica de especialistas."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 86.
 
-El Secretario Ejecutivo y los Directores Ejecutivos prestarán el apoyo a las comisiones para la realización de sus actividades o programas específicos. En el caso que se requiera también contarán con el auxilio o asesoría técnico-científica de especialistas.
+La o el Secretario Ejecutivo y las y los Directores Ejecutivos prestarán el apoyo a las comisiones para la realización de sus actividades o programas específicos. En el caso que se requiera también contarán con el auxilio o asesoría técnico-científica de especialistas.
 
 ###### Artículo 87.
 
@@ -1337,57 +1825,103 @@ Las sesiones de las comisiones serán públicas y podrán participar con derecho
 
 En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución según sea el caso.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 88 Bis. Las comisiones ejecutivas permanentes y temporales, por conducto de su Presidente cuentan para el cumplimiento de sus funciones con las siguientes atribuciones genéricas:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 88 Bis.
 
-Las comisiones ejecutivas permanentes y temporales, por conducto de su Presidente cuentan para el cumplimiento de sus funciones con las siguientes atribuciones genéricas:
+LAS COMISIONES EJECUTIVAS PERMANENTES Y TEMPORALES, POR CONDUCTO DE SU PRESIDENTA O PRESIDENTE CUENTAN PARA EL CUMPLIMIENTO DE SUS FUNCIONES CON LAS SIGUIENTES ATRIBUCIONES GENÉRICAS:
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
 I. Elaborar su propuesta de programa anual de actividades para que sea incluido en el Programa Operativo Anual del Instituto Morelense;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
 II. Supervisar, vigilar y coadyuvar con las Unidades Administrativas respectivas del Instituto Morelense en el cumplimiento de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
 III. Realizar informes y dictámenes relacionados con el ámbito de su competencia;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
 IV. Formular observaciones y directrices a las unidades administrativas del Instituto Morelense;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
 V. Solicitar la información necesaria a las Unidades Administrativas del Instituto Morelense, las cuales deberán remitir la información dentro del término para el cual fueran requeridas;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
 VI. Solicitar la información necesaria a las demás comisiones ejecutivas del Instituto Morelense;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
 VII. Solicitar información a autoridades diversas al Instituto Morelense;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
 VIII. Presentar al Consejo Estatal, las propuestas de reforma a la normatividad interna del Instituto Morelense que le competa;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
 IX. Presentar al Consejo Estatal un informe anual de actividades de la comisión, y presentar informes parciales cuando el Consejo Estatal así lo requiera;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
 X. Conocer los informes que deberán ser presentados por los Titulares de las áreas administrativas en los asuntos de su competencia, conforme al calendario que anualmente apruebe la comisión;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
 XI. Representar electoralmente a la Comisión para dar a conocer las actividades que desempeñan;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
 XII. Ejecutar y suscribir todas aquellas acciones de carácter operativo, presupuestal y administrativas para el buen desempeño de las atribuciones de la Comisión, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
 XIII. Las demás que deriven de este Código, de las disposiciones reglamentarias, de los acuerdos del Consejo Estatal y de las demás disposiciones aplicables, que les resulten compatibles conforme a sus objetivos, para su mejor desarrollo, atendiendo a la naturaleza de su función.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 88 Ter. Al Consejero Presidente de cada Comisión Ejecutiva, le corresponden las siguientes atribuciones:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 88 Ter.
 
-Al Consejero Presidente de cada Comisión Ejecutiva, le corresponden las siguientes atribuciones:
+AL CONSEJERO PRESIDENTE O PRESIDENTA DE CADA COMISIÓN EJECUTIVA, LE CORRESPONDEN LAS SIGUIENTES ATRIBUCIONES:
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
 I. Presidir las sesiones adoptando las medidas que estime necesarias para el adecuado desarrollo;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
 II. Emitir las convocatorias a sesiones y reuniones de trabajo, conjuntamente con el Secretario Técnico;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
 III. Diferir las sesiones o reuniones de trabajo antes de su celebración, por causas que impidan su realización;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
 IV. Declarar el inicio y término de las sesiones y reuniones de trabajo;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
 V. Proponer a los integrantes de la Comisión Ejecutiva la participación de servidores electorales o invitados especiales, con el fin de auxiliarlos en la materia de sus funciones;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
 VI. Solicitar al Consejo Estatal, la asignación de recursos humanos, materiales y financieros para el apoyo en el ejercicio de sus funciones y de la Comisión;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+
 VII. Dar seguimiento al cumplimiento de los acuerdos y dictámenes aprobados por el Consejo Estatal, que correspondan a la materia de la Comisión, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
 
 VIII. Las que le establezcan otras disposiciones y las que le encomiende el Consejo Estatal.
 
@@ -1459,9 +1993,33 @@ X. Aprobar el proyecto de dictamen relativo al marco geográfico para la realiza
 
 XI. Aprobar la elaboración de los materiales, manuales e instructivos de educación y capacitación correspondientes a los mecanismos de participación ciudadana;
 
-XII. Recibir, atender, coordinar, aprobar y supervisar todas las actividades relacionadas con los mecanismos de participación ciudadana, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XIII. Aprobar las políticas y programas de participación ciudadana y proponer al Instituto Morelense las modificaciones y ampliaciones que considere pertinentes.
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XII. APROBAR LA ESTRATEGIA DE DIFUSIÓN EN MEDIOS DE COMUNICACIÓN DE CAMPAÑAS DE SENSIBILIZACIÓN Y PREVENCIÓN DE CONDUCTAS QUE CONSTITUYEN VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XIII. PROMOVER LA CULTURA DE LA NO VIOLENCIA EN EL MARCO DEL EJERCICIO DE LOS DERECHOS POLÍTICOS Y ELECTORALES DE LAS MUJERES;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XIV. IMPULSAR Y DAR SEGUIMIENTO A LAS ACTIVIDADES DE VINCULACIÓN PARA LA SUSCRIPCIÓN DE CONVENIOS RELACIONADOS CON LA PARTICIPACIÓN POLÍTICA EFECTIVA DE LAS MUJERES, ASÍ COMO CON LA PREVENCIÓN DE LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XV. CAPACITAR AL PERSONAL DEL INSTITUTO Y DE LOS CONSEJOS DISTRITALES Y MUNICIPALES PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, ASÍ COMO EN IGUALDAD SUSTANTIVA Y NO DISCRIMINACIÓN.
+
+XVI. Recibir, atender, coordinar, aprobar y supervisar todas las actividades relacionadas con los mecanismos de participación ciudadana, y
+
+XVII. Aprobar las políticas y programas de participación ciudadana y proponer al Instituto Morelense las modificaciones y ampliaciones que considere pertinentes.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -1517,9 +2075,15 @@ V. Establecer sus procedimientos y normas de trabajo acorde a lo que disponen lo
 
 VI. Determinar dentro de los plazos previstos en la normativa, las medidas cautelares que sean necesarias, a fin de lograr la cesación de los actos denunciados y las consecuencias de los mismos;
 
-VII. Solicitar a la Secretaría Ejecutiva y a las áreas administrativas del Instituto Morelense, el auxilio que corresponda, para la substanciación del procedimiento, el desarrollo de la investigación y la obtención de las pruebas que resulten necesarias, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VII. Solicitar a la Secretaría Ejecutiva y a las áreas administrativas del Instituto Morelense, el auxilio que corresponda, para la substanciación del procedimiento, el desarrollo de la investigación y la obtención de las pruebas que resulten necesarias, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-VIII. Conocer del informe circunstanciado que se remita al Tribunal Electoral, producto del desahogo del procedimiento ordinario o especial sancionador.
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VII. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+
+VIII. Solicitar a la Secretaría Ejecutiva y a las áreas administrativas del Instituto Morelense, el auxilio que corresponda, para la substanciación del procedimiento, el desarrollo de la investigación y la obtención de las pruebas que resulten necesarias, y
+
+IX. Conocer del informe circunstanciado que se remita al Tribunal Electoral, producto del desahogo del procedimiento ordinario o especial sancionador.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -1613,19 +2177,39 @@ VI. Supervisar los procesos institucionales que favorecen la participación y re
 
 VII. Opinar sobre las publicaciones institucionales en materia de género y derechos humanos;
 
-VIII. Supervisar la implementación de los mecanismos que favorecen una cultura institucional incluyente, no discriminatoria y no sexista en el Instituto;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VIII. Supervisar la implementación de los mecanismos que favorecen una cultura institucional incluyente, no discriminatoria y no sexista en el Instituto;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VIII. SUPERVISAR LA IMPLEMENTACIÓN DE LOS MECANISMOS QUE FAVOREZCAN A UNA CULTURA INSTITUCIONAL INCLUYENTE, NO DISCRIMINATORIA, SIN VIOLENCIA POLÍTICA, NO SEXISTA, EL RESPETO DE LOS DERECHOS HUMANOS EN EL INSTITUTO;
 
 IX. Opinar respecto del contenido de materiales e instructivos de promoción de la cultura de igualdad de género y no discriminación elaborados por las Direcciones del Instituto;
 
 X. Impulsar el desarrollo de proyectos de investigación y estudios sobre la materia;
 
-XI. Aprobar la estrategia de difusión en medios de comunicación de campañas de sensibilización y prevención de conductas que constituyen violencia política electoral en razón de género;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XII. Impulsar y dar seguimiento a las actividades de vinculación para la suscripción de convenios relacionados con la participación política efectiva de las mujeres, así como con la prevención de la violencia política en razón de género;
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-XIII. Tener a cargo las relaciones interinstitucionales en materia de Igualdad de Género y No Discriminación entre el Instituto y otras Dependencias u Organizaciones; y,
+XI. PROMOVER LA CULTURA DE LA NO VIOLENCIA Y NO DISCRIMINACIÓN EN EL MARCO DEL EJERCICIO DE LOS DERECHOS POLÍTICOS Y ELECTORALES DE LAS MUJERES;
 
-XIV. Las demás que se señalen en este Código, y en la normatividad aplicable.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XII. Impulsar y dar seguimiento a las actividades de vinculación para la suscripción de convenios relacionados con la participación política efectiva de las mujeres, así como con la prevención de la violencia política en razón de género;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XII. APROBAR LA ESTRATEGIA DE DIFUSIÓN EN MEDIOS DE COMUNICACIÓN DE CAMPAÑAS DE SENSIBILIZACIÓN Y PREVENCIÓN DE CONDUCTAS QUE CONSTITUYEN VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO;
+
+XIII. Impulsar y dar seguimiento a las actividades de vinculación para la suscripción de convenios relacionados con la participación política efectiva de las mujeres, así como con la prevención de la violencia política en razón de género;
+
+XIV. Tener a cargo las relaciones interinstitucionales en materia de Igualdad de Género y No Discriminación entre el Instituto y otras Dependencias u Organizaciones; y,
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XV. CAPACITAR AL PERSONAL DEL INSTITUTO PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, ASÍ COMO EN IGUALDAD SUSTANTIVA Y NO DISCRIMINACIÓN.
+
+XVI. Las demás que se señalen en este Código, y en la normatividad aplicable.
 
 ###### Artículo 92.
 
@@ -1697,13 +2281,19 @@ b) El titular de la Unidad Técnica de Fiscalización fungirá como Secretario T
 
 ### CAPÍTULO VII. DE LA SECRETARÍA EJECUTIVA
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 96. El Instituto Morelense tendrá un Secretario Ejecutivo, que también lo será del Consejo Estatal, y su designación será por propuesta de la mayoría simple de los consejeros electorales del Consejo Estatal, con la aprobación calificada de los Consejeros Electorales."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 96.
 
-El Instituto Morelense tendrá un Secretario Ejecutivo, que también lo será del Consejo Estatal, y su designación será por propuesta de la mayoría simple de los consejeros electorales del Consejo Estatal, con la aprobación calificada de los Consejeros Electorales.
+EL INSTITUTO MORELENSE TENDRÁ UNA O UN SECRETARIO EJECUTIVO, QUE TAMBIÉN LO SERÁ DEL CONSEJO ESTATAL, Y SU DESIGNACIÓN SERÁ POR PROPUESTA DE LA MAYORÍA SIMPLE DE LAS Y LOS CONSEJEROS ELECTORALES DEL CONSEJO ESTATAL, CON LA APROBACIÓN CALIFICADA DE LAS Y LOS CONSEJEROS ELECTORALES.
 
-El Titular de la Secretaría Ejecutiva es responsable administrativa y penalmente de la documentación que obre en su poder y la que se expida en el ejercicio de su encargo, incluyendo aquella que se presente ante órganos jurisdiccionales.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “El Titular de la Secretaría Ejecutiva es responsable administrativa y penalmente de la documentación que obre en su poder y la que se expida en el ejercicio de su encargo, incluyendo aquella que se presente ante órganos jurisdiccionales."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LA O EL TITULAR DE LA SECRETARÍA EJECUTIVA ES RESPONSABLE ADMINISTRATIVA Y PENALMENTE DE LA DOCUMENTACIÓN QUE OBRE EN SU PODER Y LA QUE SE EXPIDA EN EL EJERCICIO DE SU ENCARGO, INCLUYENDO AQUELLA QUE SE PRESENTE ANTE ÓRGANOS JURISDICCIONALES.
 
 ###### Artículo 97.
 
@@ -1733,9 +2323,13 @@ VIII. No haber ejercido cargos directivos a nivel nacional, estatal, distrital o
 
 IX. No ser ministro de culto religioso alguno.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 98. Son atribuciones del Secretario Ejecutivo del Instituto Morelense:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 98.
 
-Son atribuciones del Secretario Ejecutivo del Instituto Morelense:
+SON ATRIBUCIONES DE LA O EL SECRETARIO EJECUTIVO DEL INSTITUTO MORELENSE:
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -1863,7 +2457,13 @@ XLII. Facilitar, a petición del órgano de enlace, el apoyo de diversas áreas 
 
 XLIII. Ser autoridad resolutora en los Procedimientos Laborales Disciplinarios, y
 
-XLIV. Las demás que señale este Código, le asigne el Consejero Presidente o el Consejo Estatal.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XLIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XLIV. INSTRUIR POR CONDUCTO DE LA COMISIÓN EJECUTIVA DE QUEJAS EL PROCEDIMIENTO ESPECIAL SANCIONADOR EN CUALQUIER MOMENTO, CUANDO SE PRESENTEN DENUNCIAS, O DE OFICIO POR HECHOS RELACIONADOS CON VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, Y
+
+XLV. Las demás que señale este Código, le asigne el Consejero Presidente o el Consejo Estatal.
 
 ### CAPÍTULO VIII. DE LAS DIRECCIONES EJECUTIVAS
 
@@ -1931,7 +2531,11 @@ XVIII. Las demás que le confiera este Código, el Consejero Presidente, el Cons
 
 Son atribuciones de la Dirección Ejecutiva de Capacitación Electoral, Educación Cívica y Participación Ciudadana las siguientes:
 
-I. Elaborar y proponer al Consejo Estatal los programas de educación cívica y participación ciudadana, los cuales deberán estar contenidos en su programa anual de actividades, mismos que previamente deberán contar con la aprobación de las Comisiones Ejecutivas de Capacitación Electoral y Educación Cívica, y la de Participación Ciudadana;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "I. Elaborar y proponer al Consejo Estatal los programas de educación cívica y participación ciudadana, los cuales deberán estar contenidos en su programa anual de actividades, mismos que previamente deberán contar con la aprobación de las Comisiones Ejecutivas de Capacitación Electoral y Educación Cívica, y la de Participación Ciudadana;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+I. ELABORAR Y PROPONER AL CONSEJO ESTATAL LOS PROGRAMAS DE EDUCACIÓN CÍVICA, PARIDAD DE GÉNERO, RESPETO A LOS DERECHOS HUMANOS DE LAS MUJERES EN EL ÁMBITO POLÍTICO Y PARTICIPACIÓN CIUDADANA, LOS CUALES DEBERÁN ESTAR CONTENIDOS EN SU PROGRAMA ANUAL DE ACTIVIDADES, MISMOS QUE PREVIAMENTE DEBERÁN CONTAR CON LA APROBACIÓN DE LAS COMISIONES EJECUTIVAS DE CAPACITACIÓN ELECTORAL Y EDUCACIÓN CÍVICA, Y LA DE PARTICIPACIÓN CIUDADANA;
 
 II. Elaborar y proponer al Consejo Estatal previa aprobación de la Comisión Ejecutiva de Capacitación Electoral y Educación Cívica los programas de capacitación electoral que desarrollen los órganos del Instituto Morelense, los cuales deberán estar contenidos en su programa anual de actividades; en el caso de los relativos a los funcionarios de la mesa directiva de casilla cuando esta función sea delegada al Instituto Morelense, estos programas deberán apegarse a lo señalado por el Instituto Nacional;
 
@@ -2109,21 +2713,41 @@ Los Consejos a que se hace referencia en los párrafos anteriores, una vez calif
 
 Los consejos distritales y municipales se integrarán por:
 
-I. Un Consejero Presidente con derecho a voz y voto, designado por el Consejo Estatal;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Un Consejero Presidente con derecho a voz y voto, designado por el Consejo Estatal;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. Cuatro Consejeros Electorales con derecho a voz y voto, designados por el Consejo Estatal, así como 4 suplentes, quienes en su caso asumirán el cargo en el orden de prelación en que fueron designados;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-III. Un Secretario designado por el Consejo Estatal, que sólo tendrá derecho a voz, y
+I. UNA O UN CONSEJERO PRESIDENTE CON DERECHO A VOZ Y VOTO, DESIGNADO POR EL CONSEJO ESTATAL;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Cuatro Consejeros Electorales con derecho a voz y voto, designados por el Consejo Estatal, así como 4 suplentes, quienes en su caso asumirán el cargo en el orden de prelación en que fueron designados;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+II. CUATRO CONSEJERAS Y CONSEJEROS ELECTORALES CON DERECHO A VOZ Y VOTO, DESIGNADOS POR EL CONSEJO ESTATAL, ASÍ COMO 4 SUPLENTES, QUIENES EN SU CASO ASUMIRÁN EL CARGO EN EL ORDEN DE PRELACIÓN EN QUE FUERON DESIGNADOS;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. Un Secretario designado por el Consejo Estatal, que sólo tendrá derecho a voz, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+III. UN SECRETARIO O SECRETARIA DESIGNADO POR EL CONSEJO ESTATAL, QUE SÓLO TENDRÁ DERECHO A VOZ, Y
 
 IV. Un representante de cada uno de los partidos políticos o coaliciones con registro, con derecho a voz.
 
 Los partidos políticos o coaliciones podrán designar un suplente.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 106. Los Consejeros Electorales de los consejos distritales y municipales deberán satisfacer los siguientes requisitos:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 106.
 
-Los Consejeros Electorales de los consejos distritales y municipales deberán satisfacer los siguientes requisitos:
+LAS Y LOS CONSEJEROS ELECTORALES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES DEBERÁN SATISFACER LOS SIGUIENTES REQUISITOS:
 
-I. Ser ciudadano mexicano, preferentemente morelense en pleno ejercicio de sus derechos políticos y civiles;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Ser ciudadano mexicano, preferentemente morelense en pleno ejercicio de sus derechos políticos y civiles;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+I. SER CIUDADANA O CIUDADANO MEXICANO, PREFERENTEMENTE MORELENSE EN PLENO EJERCICIO DE SUS DERECHOS POLÍTICOS Y CIVILES;
 
 II. Tener residencia en el distrito o municipio de que se trate, de cuando menos tres años anteriores al día de la designación;
 
@@ -2131,9 +2755,17 @@ III. Estar inscrito en el Registro Federal de Electores y contar con credencial 
 
 IV. Tener más de veinticinco años de edad, el día de la designación;
 
-V. No desempeñar o haberse desempeñado como alto funcionario de la federación, del estado o de los municipios, tanto de la administración central como del sector paraestatal, en los últimos cuatro años anteriores a su designación. Se consideran por este ordenamiento como altos funcionarios los correspondientes al nivel de subsecretario, Oficial Mayor, Fiscal, y superiores;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “V. No desempeñar o haberse desempeñado como alto funcionario de la federación, del estado o de los municipios, tanto de la administración central como del sector paraestatal, en los últimos cuatro años anteriores a su designación. Se consideran por este ordenamiento como altos funcionarios los correspondientes al nivel de subsecretario, Oficial Mayor, Fiscal, y superiores;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-VI. No haber sido registrado como precandidato o candidato a ningún cargo de elección popular, ni haberlo desempeñado por cualquier circunstancia en cuatro años anteriores a su designación;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+V. NO DESEMPEÑAR O HABERSE DESEMPEÑADO COMO ALTO FUNCIONARIO O FUNCIONARIA DE LA FEDERACIÓN, DEL ESTADO O DE LOS MUNICIPIOS, TANTO DE LA ADMINISTRACIÓN CENTRAL COMO DEL SECTOR PARAESTATAL, EN LOS ÚLTIMOS CUATRO AÑOS ANTERIORES A SU DESIGNACIÓN. SE CONSIDERAN POR ESTE ORDENAMIENTO COMO ALTOS FUNCIONARIOS O FUNCIONARIAS LOS CORRESPONDIENTES AL NIVEL DE SUBSECRETARIO, OFICIAL MAYOR, FISCAL, Y SUPERIORES;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VI. No haber sido registrado como precandidato o candidato a ningún cargo de elección popular, ni haberlo desempeñado por cualquier circunstancia en cuatro años anteriores a su designación;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VI. NO HABER SIDO REGISTRADO COMO PRECANDIDATA, PRECANDIDATO, CANDIDATA O CANDIDATO A NINGÚN CARGO DE ELECCIÓN POPULAR, NI HABERLO DESEMPEÑADO POR CUALQUIER CIRCUNSTANCIA EN CUATRO AÑOS ANTERIORES A SU DESIGNACIÓN;
 
 VII. No haber ejercido cargos directivos a nivel nacional, estatal, distrital o municipal de algún partido político en cuatro años anteriores a su designación, y
 
@@ -2247,9 +2879,13 @@ IX. Expedir copias certificadas previo cotejo de todos aquellos documentos o con
 
 X. Las demás que le señale este Código o le asigne el Consejo Estatal.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 112. Corresponde al Consejero Presidente del Consejo Municipal Electoral:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 112.
 
-Corresponde al Consejero Presidente del Consejo Municipal Electoral:
+CORRESPONDE A LA CONSEJERA O CONSEJERO PRESIDENTE DEL CONSEJO MUNICIPAL ELECTORAL:
 
 I. Convocar y conducir las sesiones del consejo;
 
@@ -2273,9 +2909,13 @@ VII. Presentar a petición de cualquiera de los integrantes del consejo las denu
 
 VIII. Las demás que este ordenamiento le señale o le asigne el consejo estatal.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 113. Corresponden a los secretarios de los consejos distritales o municipales las atribuciones siguientes:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 113.
 
-Corresponden a los secretarios de los consejos distritales o municipales las atribuciones siguientes:
+CORRESPONDEN A LAS Y LOS SECRETARIOS DE LOS CONSEJOS DISTRITALES O MUNICIPALES LAS ATRIBUCIONES SIGUIENTES:
 
 I. Preparar el orden del día de las sesiones del consejo, informar la existencia del quórum legal necesario para sesionar, dar fe de lo actuado en las sesiones, levantar las actas correspondientes y autorizarlas;
 
@@ -2335,11 +2975,19 @@ Los partidos políticos y los candidatos independientes podrán substituir en to
 
 ### CAPÍTULO I. DE LA INTEGRACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 119. Las mesas directivas de casilla son los organismos electorales integrados por ciudadanos facultados para recibir la votación, realizar el escrutinio y cómputo del sufragio en cada una de las casillas ubicadas en las distintas secciones de los distritos electorales y los municipios del Estado, que se integran, ubican y funcionan en términos de lo dispuesto en la Ley General de Instituciones y Procedimientos Electorales."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 119.
 
-Las mesas directivas de casilla son los organismos electorales integrados por ciudadanos facultados para recibir la votación, realizar el escrutinio y cómputo del sufragio en cada una de las casillas ubicadas en las distintas secciones de los distritos electorales y los municipios del Estado, que se integran, ubican y funcionan en términos de lo dispuesto en la Ley General de Instituciones y Procedimientos Electorales.
+LAS MESAS DIRECTIVAS DE CASILLA SON LOS ORGANISMOS ELECTORALES INTEGRADOS POR CIUDADANAS Y CIUDADANOS FACULTADOS PARA RECIBIR LA VOTACIÓN, REALIZAR EL ESCRUTINIO Y CÓMPUTO DEL SUFRAGIO EN CADA UNA DE LAS CASILLAS UBICADAS EN LAS DISTINTAS SECCIONES DE LOS DISTRITOS ELECTORALES Y LOS MUNICIPIOS DEL ESTADO, QUE SE INTEGRAN, UBICAN Y FUNCIONAN EN TÉRMINOS DE LO DISPUESTO EN LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES.
 
-Los partidos políticos, candidatos independientes o coaliciones tendrán derecho a estar representados en las mesas directivas de casilla en los términos dispuestos en la normativa antes invocada.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los partidos políticos, candidatos independientes o coaliciones tendrán derecho a estar representados en las mesas directivas de casilla en los términos dispuestos en la normativa antes invocada."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LOS PARTIDOS POLÍTICOS, CANDIDATAS Y CANDIDATOS INDEPENDIENTES O COALICIONES TENDRÁN DERECHO A ESTAR REPRESENTADOS EN LAS MESAS DIRECTIVAS DE CASILLA EN LOS TÉRMINOS DISPUESTOS EN LA NORMATIVA ANTES INVOCADA.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS PRESIDENTES Y SECRETARIOS DE LAS MESAS DIRECTIVA (SIC) DE CASILLA
 
@@ -2349,15 +2997,25 @@ Los funcionarios de las Mesas Directivas de Casilla, tendrán las atribuciones s
 
 ### CAPÍTULO III. DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y DE CANDIDATOS INDEPENDIENTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 121. Los partidos políticos o candidatos independientes, a partir del día siguiente a la aprobación de las casillas y hasta trece días antes de la elección, tendrán derecho a nombrar un representante propietario y un suplente, ante cada mesa directiva de casilla."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 121.
 
-Los partidos políticos o candidatos independientes, a partir del día siguiente a la aprobación de las casillas y hasta trece días antes de la elección, tendrán derecho a nombrar un representante propietario y un suplente, ante cada mesa directiva de casilla.
+LOS PARTIDOS POLÍTICOS, CANDIDATAS O CANDIDATOS INDEPENDIENTES, A PARTIR DEL DÍA SIGUIENTE A LA APROBACIÓN DE LAS CASILLAS Y HASTA TRECE DÍAS ANTES DE LA ELECCIÓN, TENDRÁN DERECHO A NOMBRAR UN REPRESENTANTE PROPIETARIO Y UN SUPLENTE, ANTE CADA MESA DIRECTIVA DE CASILLA.
 
-Los partidos políticos o candidatos independientes podrán dentro del mismo plazo, acreditar a un representante, por cada diez casillas ubicadas en zonas urbanas y uno por cada cinco casillas en zonas rurales.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los partidos políticos o candidatos independientes podrán dentro del mismo plazo, acreditar a un representante, por cada diez casillas ubicadas en zonas urbanas y uno por cada cinco casillas en zonas rurales.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Los representantes de los partidos políticos o candidatos independientes ante los consejos municipales electorales podrán sustituir representantes ante las casillas y generales, durante la jornada electoral por ausencia, impedimento físico o por pérdida de confianza y plenamente acreditadas.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LOS PARTIDOS POLÍTICOS, CANDIDATAS O CANDIDATOS INDEPENDIENTES PODRÁN DENTRO DEL MISMO PLAZO, ACREDITAR A UN REPRESENTANTE, POR CADA DIEZ CASILLAS UBICADAS EN ZONAS URBANAS Y UNO POR CADA CINCO CASILLAS EN ZONAS RURALES.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los representantes de los partidos políticos o candidatos independientes ante los consejos municipales electorales podrán sustituir representantes ante las casillas y generales, durante la jornada electoral por ausencia, impedimento físico o por pérdida de confianza y plenamente acreditadas.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS, CANDIDATAS O CANDIDATOS INDEPENDIENTES ANTE LOS CONSEJOS MUNICIPALES ELECTORALES PODRÁN SUSTITUIR REPRESENTANTES ANTE LAS CASILLAS Y GENERALES, DURANTE LA JORNADA ELECTORAL POR AUSENCIA, IMPEDIMENTO FÍSICO O POR PÉRDIDA DE CONFIANZA Y PLENAMENTE ACREDITADAS.
 
 ###### Artículo 122.
 
@@ -2433,11 +3091,15 @@ La actuación de los representantes de los partidos políticos señalados en est
 
 ### CAPÍTULO IV. DE LOS OBSERVADORES ELECTORALES
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 127. Los ciudadanos mexicanos podrán participar como observadores en la jornada electoral ordinaria o extraordinaria así como en los mecanismos de participación ciudadana que se realicen de conformidad con la legislación correspondiente, en la forma y términos que determine el Consejo Estatal, y este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 127.
 
-Los ciudadanos mexicanos podrán participar como observadores en la jornada electoral ordinaria o extraordinaria así como en los mecanismos de participación ciudadana que se realicen de conformidad con la legislación correspondiente, en la forma y términos que determine el Consejo Estatal, y este Código.
+LAS Y LOS CIUDADANOS MEXICANOS PODRÁN PARTICIPAR COMO OBSERVADORES EN LA JORNADA ELECTORAL ORDINARIA O EXTRAORDINARIA, ASÍ COMO EN LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA QUE SE REALICEN DE CONFORMIDAD CON LA LEGISLACIÓN CORRESPONDIENTE, EN LA FORMA Y TÉRMINOS QUE DETERMINE EL CONSEJO ESTATAL, Y ESTE CÓDIGO.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 La observación tiene por objeto que la ciudadanía testimonie el desarrollo de los procesos electorales y de la jornada electoral y emita su informe a las autoridades competentes. La observación podrá realizarse en cualquier parte del territorio del estado de Morelos.
 
@@ -2471,13 +3133,21 @@ III. Externar cualquier expresión de ofensa, difamación o calumnia en contra d
 
 IV. Declarar el triunfo de partido político o candidato alguno.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 131. Los ciudadanos acreditados como observadores electorales podrán solicitar ante el Consejo Estatal, la información electoral relativa a la jornada electoral que requieran para el mejor desarrollo de sus actividades, que nunca podrá ampliarse a la que se proporcione a los partidos políticos para el mismo efecto. Dicha información será proporcionada siempre que existan las posibilidades materiales y técnicas para su entrega."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 131.
 
-Los ciudadanos acreditados como observadores electorales podrán solicitar ante el Consejo Estatal, la información electoral relativa a la jornada electoral que requieran para el mejor desarrollo de sus actividades, que nunca podrá ampliarse a la que se proporcione a los partidos políticos para el mismo efecto. Dicha información será proporcionada siempre que existan las posibilidades materiales y técnicas para su entrega.
+Las y los ciudadanos acreditados como observadores electorales podrán solicitar ante el Consejo Estatal, la información electoral relativa a la jornada electoral que requieran para el mejor desarrollo de sus actividades, que nunca podrá ampliarse a la que se proporcione a los partidos políticos para el mismo efecto. Dicha información será proporcionada siempre que existan las posibilidades materiales y técnicas para su entrega.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 132. Los observadores electorales podrán presentarse el día de la jornada electoral con sus acreditaciones e identificaciones en una o varias casillas, así como en el local de los consejos correspondientes, pudiendo observar los siguientes actos:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 132.
 
-Los observadores electorales podrán presentarse el día de la jornada electoral con sus acreditaciones e identificaciones en una o varias casillas, así como en el local de los consejos correspondientes, pudiendo observar los siguientes actos:
+LAS Y LOS OBSERVADORES ELECTORALES PODRÁN PRESENTARSE EL DÍA DE LA JORNADA ELECTORAL CON SUS ACREDITACIONES E IDENTIFICACIONES EN UNA O VARIAS CASILLAS, ASÍ COMO EN EL LOCAL DE LOS CONSEJOS CORRESPONDIENTES, PUDIENDO OBSERVAR LOS SIGUIENTES ACTOS:
 
 I. Instalación de la casilla;
 
@@ -2493,17 +3163,29 @@ VI. Lectura en voz alta de los resultados en el consejo distrital o municipal, y
 
 VII. Recepción de escritos de incidencias y protesta.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 133. Los observadores electorales deberán portar en todo tiempo y lugar, gafete de identificación con fotografía en forma visible."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 133.
 
-Los observadores electorales deberán portar en todo tiempo y lugar, gafete de identificación con fotografía en forma visible.
+Las y los observadores electorales deberán portar en todo tiempo y lugar, gafete de identificación con fotografía en forma visible.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 134. Los observadores podrán presentar, ante la autoridad electoral, informe de sus actividades en los términos y tiempos que para tal efecto determine el Consejo Estatal. En ningún caso, los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 134.
 
-Los observadores podrán presentar, ante la autoridad electoral, informe de sus actividades en los términos y tiempos que para tal efecto determine el Consejo Estatal. En ningún caso, los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
+Las y los observadores podrán presentar, ante la autoridad electoral, informe de sus actividades en los términos y tiempos que para tal efecto determine el Consejo Estatal. En ningún caso, los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 135. Los observadores electorales que hagan uso indebido de su acreditación o no se ajusten a las disposiciones establecidas, se harán acreedores a las sanciones que establece la normativa aplicable."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 135.
 
-Los observadores electorales que hagan uso indebido de su acreditación o no se ajusten a las disposiciones establecidas, se harán acreedores a las sanciones que establece la normativa aplicable.
+Las y los observadores electorales que hagan uso indebido de su acreditación o no se ajusten a las disposiciones establecidas, se harán acreedores a las sanciones que establece la normativa aplicable.
 
 # LIBRO CUARTO. DE LA AUTORIDAD ELECTORAL JURISDICCIONAL
 
@@ -2523,7 +3205,11 @@ El Tribunal Electoral, resolverá los asuntos de su competencia en sesión públ
 
 Las sesiones del Tribunal Electoral se desarrollarán conforme a su Reglamento Interior y demás disposiciones aplicables.
 
-El magistrado presidente ordenará que se publique en los estrados físicos y electrónicos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL QUINTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “El magistrado presidente ordenará que se publique en los estrados físicos y electrónicos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LA O EL MAGISTRADO PRESIDENTE ORDENARÁ QUE SE PUBLIQUE EN LOS ESTRADOS FÍSICOS Y ELECTRÓNICOS, POR LO MENOS CON VEINTICUATRO HORAS DE ANTELACIÓN, LA LISTA DE LOS ASUNTOS QUE SERÁN VENTILADOS EN CADA SESIÓN.
 
 Este órgano jurisdiccional no estará adscrito al Poder Judicial del Estado.
 
@@ -2553,35 +3239,75 @@ IX. Dictar resolución respecto de los recursos que se interpongan con motivo de
 
 X. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño;
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XI. Conocer del juicio que se promueva por violaciones al derecho de ser votado, en su vertiente de acceso y desempeño del cargo. Las controversias vinculadas con la probable violación al derecho de los servidores públicos, de elección popular, de recibir las remuneraciones que en derecho les correspondan por el desempeño de un encargo de elección popular, cuando el periodo de su ejercicio ya ha concluido, serán competencia del Tribunal de Justicia Administrativa del Estado de Morelos, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XI. Conocer del juicio que se promueva por violaciones al derecho de ser votado, en su vertiente de acceso y desempeño del cargo.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-Las controversias vinculadas con la probable violación al derecho de los servidores públicos, de elección popular, de recibir las remuneraciones que en derecho les correspondan por el desempeño de un encargo de elección popular, cuando el periodo de su ejercicio ya ha concluido, serán competencia del Tribunal de Justicia Administrativa del Estado de Morelos, y
+XI. CONOCER DEL JUICIO QUE SE PROMUEVA POR VIOLACIONES AL DERECHO DE SER VOTADO, EN SU VERTIENTE DE ACCESO Y DESEMPEÑO DEL CARGO;
 
-XII. Las demás que sean necesarias para su correcto funcionamiento.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XII. Las demás que sean necesarias para su correcto funcionamiento.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XII. LAS CONTROVERSIAS VINCULADAS CON LA PROBABLE VIOLACIÓN AL DERECHO DE LOS SERVIDORES PÚBLICOS, DE ELECCIÓN POPULAR, DE RECIBIR LAS REMUNERACIONES QUE EN DERECHO LES CORRESPONDAN POR EL DESEMPEÑO DE UN ENCARGO DE ELECCIÓN POPULAR, CUANDO EL PERIODO DE SU EJERCICIO YA HA CONCLUIDO, SERÁN COMPETENCIA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XIII. EN LA RESOLUCIÓN DE LOS PROCEDIMIENTOS SANCIONADORES, POR VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, LA AUTORIDAD RESOLUTORA DEBERÁ CONSIDERAR ORDENAR LAS MEDIDAS DE REPARACIÓN INTEGRAL QUE CORRESPONDAN, CONSIDERANDO AL MENOS LAS SIGUIENTES:
+
+a) INDEMNIZACIÓN DE LA VÍCTIMA;
+
+b) RESTITUCIÓN INMEDIATA EN EL CARGO AL QUE FUE OBLIGADA A RENUNCIAR POR MOTIVOS DE VIOLENCIA DE GÉNERO;
+
+c) DISCULPA PÚBLICA;
+
+d) MEDIDAS DE NO REPETICIÓN, Y
+
+XIV. Las demás que sean necesarias para su correcto funcionamiento.
 
 ### CAPÍTULO II. DE SU INTEGRACIÓN
 
-###### Artículo 138.
-
-El Tribunal Electoral se integra con tres magistrados, que actuarán en forma colegiada y permanecerán en su encargo durante siete años.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 138. El Tribunal Electoral se integra con tres magistrados, que actuarán en forma colegiada y permanecerán en su encargo durante siete años.
 
 Para ser Magistrado del Tribunal Electoral deberá reunir los requisitos establecidos en la normativa correspondiente.
 
-El pleno del Tribunal Electoral designará al Magistrado Presidente. La presidencia será rotativa en términos de lo que se disponga en su reglamentación interna.
+El pleno del Tribunal Electoral designará al Magistrado Presidente. La presidencia será rotativa en términos de lo que se disponga en su reglamentación interna."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 138.
+
+El Tribunal Electoral se integra con tres magistraturas observando el principio de paridad, que actuarán en forma colegiada y permanecerán en su encargo durante siete años.
+
+Para ser Magistrado o Magistrada del Tribunal Electoral deberá reunir los requisitos establecidos en la normativa correspondiente.
+
+El pleno del Tribunal Electoral designará al Magistrado o Magistrada Presidente. La presidencia será rotativa en términos de lo que se disponga en su reglamentación interna.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 139. Durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 139.
 
-Durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+DURANTE EL PERIODO DE SU ENCARGO, LAS Y LOS MAGISTRADOS ELECTORALES NO PODRÁN TENER NINGÚN OTRO EMPLEO, CARGO O COMISIÓN CON EXCEPCIÓN DE AQUÉLLOS EN QUE ACTÚEN EN REPRESENTACIÓN DE LA AUTORIDAD ELECTORAL JURISDICCIONAL LOCAL Y DE LOS QUE DESEMPEÑEN EN ASOCIACIONES DOCENTES, CIENTÍFICAS, CULTURALES, DE INVESTIGACIÓN O DE BENEFICENCIA, NO REMUNERADOS.
 
 Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que hayan ejercido su función.
 
-Los magistrados del Tribunal Electoral deberán excusarse de conocer de algún asunto en el que tengan interés personal, por relaciones de parentesco, negocios, amistad o enemistad, que pueda afectar su imparcialidad.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los magistrados del Tribunal Electoral deberán excusarse de conocer de algún asunto en el que tengan interés personal, por relaciones de parentesco, negocios, amistad o enemistad, que pueda afectar su imparcialidad.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS Y LOS MAGISTRADOS DEL TRIBUNAL ELECTORAL DEBERÁN EXCUSARSE DE CONOCER DE ALGÚN ASUNTO EN EL QUE TENGAN INTERÉS PERSONAL, POR RELACIONES DE PARENTESCO, NEGOCIOS, AMISTAD O ENEMISTAD, QUE PUEDA AFECTAR SU IMPARCIALIDAD.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 140. Los magistrados del Tribunal Electoral están impedidos para conocer de los asuntos, al presentarse alguna de las causas siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 140.
 
-Los magistrados del Tribunal Electoral están impedidos para conocer de los asuntos, al presentarse alguna de las causas siguientes:
+LAS Y LOS MAGISTRADOS DEL TRIBUNAL ELECTORAL ESTÁN IMPEDIDOS PARA CONOCER DE LOS ASUNTOS, AL PRESENTARSE ALGUNA DE LAS CAUSAS SIGUIENTES:
 
 I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados, sus representantes, patronos o defensores;
 
@@ -2661,23 +3387,41 @@ XII. Aplicar las medidas de apremio necesarias para garantizar el cumplimiento d
 
 XIII. Las demás que le otorga la normativa aplicable.
 
-###### Artículo 143.
-
-Para la integración, tramitación y substanciación de los medios de impugnación que deba resolver, el Tribunal Electoral contará con un Secretario General, con los Secretarios instructores, proyectistas, notificadores y demás personal que sea necesario y autorice el presupuesto de egresos respectivo.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 143. Para la integración, tramitación y substanciación de los medios de impugnación que deba resolver, el Tribunal Electoral contará con un Secretario General, con los Secretarios instructores, proyectistas, notificadores y demás personal que sea necesario y autorice el presupuesto de egresos respectivo.
 
 Durante el período de su encargo los Magistrados del Tribunal Electoral, el Secretario General, los Secretarios instructores y proyectistas estarán impedidos para desempeñar cualquier otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del Tribunal Electoral, y de las que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados. La infracción a esta disposición será sancionada con la pérdida del cargo.
 
-Concluido su encargo, quienes hayan sido magistrados no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+Concluido su encargo, quienes hayan sido magistrados no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 143.
+
+Para la integración, tramitación y substanciación de los medios de impugnación que deba resolver, el Tribunal Electoral contará con una o un Secretario General, con las y los Secretarios instructores, proyectistas, notificadores y demás personal que sea necesario y autorice el presupuesto de egresos respectivo.
+
+Durante el período de su encargo los Magistrados del Tribunal Electoral, la o el Secretario General, las y los Secretarios instructores y proyectistas estarán impedidos para desempeñar cualquier otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del Tribunal Electoral, y de las que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados. La infracción a esta disposición será sancionada con la pérdida del cargo.
+
+Concluido su encargo, quienes hayan sido magistradas o magistrados no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 144. El Secretario General y los Secretarios Proyectistas del Tribunal Electoral deberán ser ciudadanos del Estado, con título de licenciado en derecho legalmente registrado y en pleno ejercicio de sus derechos civiles y políticos.
+
+Los notificadores deberán reunir los mismos requisitos que los Secretarios Proyectistas, a excepción del relativo al título profesional, pudiendo ser pasantes de la carrera de licenciado en derecho."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 144.
 
-El Secretario General y los Secretarios Proyectistas del Tribunal Electoral deberán ser ciudadanos del Estado, con título de licenciado en derecho legalmente registrado y en pleno ejercicio de sus derechos civiles y políticos.
+La o el Secretario General y las y los Secretarios Proyectistas del Tribunal Electoral deberán ser ciudadanas y ciudadanos del Estado, con título de licenciado en derecho legalmente registrado y en pleno ejercicio de sus derechos civiles y políticos.
 
-Los notificadores deberán reunir los mismos requisitos que los Secretarios Proyectistas, a excepción del relativo al título profesional, pudiendo ser pasantes de la carrera de licenciado en derecho.
+Las y los notificadores deberán reunir los mismos requisitos que los Secretarios Proyectistas, a excepción del relativo al título profesional, pudiendo ser pasantes de la carrera de licenciado en derecho.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 145. Los Secretarios Instructores deberán reunir los siguientes requisitos:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 145.
 
-Los Secretarios Instructores deberán reunir los siguientes requisitos:
+LAS Y LOS SECRETARIOS INSTRUCTORES DEBERÁN REUNIR LOS SIGUIENTES REQUISITOS:
 
 I. Ser ciudadano mexicano por nacimiento, preferentemente morelense, en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -2701,9 +3445,13 @@ X. No haber sido registrado como candidato, con excepción de los candidatos ind
 
 XI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 146. Corresponden al Presidente del Tribunal Electoral las siguientes atribuciones:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 146.
 
-Corresponden al Presidente del Tribunal Electoral las siguientes atribuciones:
+CORRESPONDEN A LA PRESIDENTA O PRESIDENTE DEL TRIBUNAL ELECTORAL LAS SIGUIENTES ATRIBUCIONES:
 
 I. Representar al Tribunal Electoral ante toda clase de autoridades;
 
@@ -2711,7 +3459,11 @@ II. Convocar a los demás miembros del Tribunal Electoral para la instalación e
 
 III. Presidir las sesiones del pleno, dirigir los debates y conservar el orden durante las mismas;
 
-IV. Proponer al Pleno la designación del Secretario General, Secretarios instructores y Secretarios proyectistas;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IV. Proponer al Pleno la designación del Secretario General, Secretarios instructores y Secretarios proyectistas;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+IV. PROPONER AL PLENO LA DESIGNACIÓN DE LA O EL SECRETARIO GENERAL, LAS Y LOS SECRETARIOS INSTRUCTORES Y PROYECTISTAS;
 
 V. Administrar los recursos del Tribunal Electoral;
 
@@ -2743,9 +3495,13 @@ XIV. Garantizar el orden y acceso a los estrados físicos del Tribunal, y
 
 XV. Las demás que le confiera la normativa aplicable.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 147. Son atribuciones de los magistrados las siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 147.
 
-Son atribuciones de los magistrados las siguientes:
+SON ATRIBUCIONES DE LAS Y LOS MAGISTRADOS LAS SIGUIENTES:
 
 I. Concurrir, participar y votar, cuando corresponda, en las sesiones a las que sean convocados por el presidente del Tribunal Electoral;
 
@@ -2765,9 +3521,13 @@ VI. Decretar las medidas de apremio para hacer cumplir las determinaciones de la
 
 VII. Las demás que le asigne la legislación de la materia.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 148. El Secretario General tendrá las siguientes funciones:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 148.
 
-El Secretario General tendrá las siguientes funciones:
+LA O EL SECRETARIO GENERAL TENDRÁ LAS SIGUIENTES FUNCIONES:
 
 I. Dar cuenta en las sesiones del pleno, de los asuntos en cartera, tomar las votaciones de los Magistrados y formular el acta respectiva;
 
@@ -2797,9 +3557,13 @@ IX. Mantener el orden de la publicación en los estrados físicos del Tribunal, 
 
 X. Las demás que le encomiende el Presidente.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 149. Los Secretarios Instructores tendrán a su cargo:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 149.
 
-Los Secretarios Instructores tendrán a su cargo:
+LAS Y LOS SECRETARIOS INSTRUCTORES TENDRÁN A SU CARGO:
 
 I. Recibir los recursos de apelación, inconformidad, reconsideración y de revisión, en los casos previstos por el Libro correspondiente a la justicia Electoral en este Código, admitirlos si reúnen los requisitos legales y, en su caso recabar de los Magistrados el acuerdo que proceda;
 
@@ -2807,9 +3571,13 @@ II. Sustanciar los recursos y procedimientos, realizando todas las diligencias p
 
 III. Permitir el acceso y consulta de los expedientes, a quienes tengan y acrediten la legitimación legal que corresponda, facilitando copia simple de las actuaciones, acuerdos y resoluciones que obren en los mismos, una vez colocados en los estrados.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 150. Los Secretarios Proyectistas tendrán a su cargo:"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 150.
 
-Los Secretarios Proyectistas tendrán a su cargo:
+LAS Y LOS SECRETARIOS PROYECTISTAS TENDRÁN A SU CARGO:
 
 I. Estudiar y analizar los expedientes de los recursos planteados, y
 
@@ -2817,13 +3585,21 @@ II. Formular los proyectos de resolución que someterán a la consideración del
 
 ### CAPÍTULO III. DE LAS SUPLENCIAS
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 151. Las ausencias de los magistrados del Tribunal Electoral serán consideradas como vacantes temporales o definitivas."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 151.
 
-Las ausencias de los magistrados del Tribunal Electoral serán consideradas como vacantes temporales o definitivas.
+LAS AUSENCIAS DE LAS Y LOS MAGISTRADOS DEL TRIBUNAL ELECTORAL SERÁN CONSIDERADAS COMO VACANTES TEMPORALES O DEFINITIVAS.
 
 Son vacantes definitivas las que excedan de tres meses; cuando la ausencia sea hasta por tres meses, se considerará como vacante temporal.
 
-Como se dispone en el artículo 109 de la Ley General de Instituciones y Procedimientos Electorales, ante la vacante temporal hasta por tres meses de un Magistrado Electoral, actuará en suplencia, con todos los derechos y obligaciones inherentes al cargo, el Secretario Instructor de la Ponencia de que se trate, para garantizar el correcto y oportuno desempeño de la justicia electoral. Al actualizarse la hipótesis descrita, el Tribunal Electoral podrá hacer los ajustes presupuestales y las contrataciones que sean necesarias para afrontar la vacante que se genere.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Como se dispone en el artículo 109 de la Ley General de Instituciones y Procedimientos Electorales, ante la vacante temporal hasta por tres meses de un Magistrado Electoral, actuará en suplencia, con todos los derechos y obligaciones inherentes al cargo, el Secretario Instructor de la Ponencia de que se trate, para garantizar el correcto y oportuno desempeño de la justicia electoral. Al actualizarse la hipótesis descrita, el Tribunal Electoral podrá hacer los ajustes presupuestales y las contrataciones que sean necesarias para afrontar la vacante que se genere.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+COMO SE DISPONE EN EL ARTÍCULO 109 DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, ANTE LA VACANTE TEMPORAL HASTA POR TRES MESES DE UNA MAGISTRADA O MAGISTRADO ELECTORAL, ACTUARÁ EN SUPLENCIA, CON TODOS LOS DERECHOS Y OBLIGACIONES INHERENTES AL CARGO, EL SECRETARIO INSTRUCTOR DE LA PONENCIA DE QUE SE TRATE, PARA GARANTIZAR EL CORRECTO Y OPORTUNO DESEMPEÑO DE LA JUSTICIA ELECTORAL. AL ACTUALIZARSE LA HIPÓTESIS DESCRITA, EL TRIBUNAL ELECTORAL PODRÁ HACER LOS AJUSTES PRESUPUESTALES Y LAS CONTRATACIONES QUE SEAN NECESARIAS PARA AFRONTAR LA VACANTE QUE SE GENERE.
 
 En tratándose de vacantes superiores a los tres meses o definitivas, se procederá conforme a lo establecido en el dispositivo citado en el párrafo precedente.
 
@@ -2915,13 +3691,19 @@ Artículo 153 Septimus. El órgano interno de control dictará las providencias 
 
 Artículo 153 Octavus. El órgano interno de control podrá recibir quejas y denuncias en contra de los funcionarios y el personal del Tribunal Electoral, en cuyo caso las canalizará al Pleno del Tribunal, o en su caso, a la Entidad Superior de Fiscalización.
 
-### CAPITULO V
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO PRIMERO DEL LIBRO CUARTO DE ESTE ORDENAMIENTO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “DE LAS RESPONSABILIDADES DE LOS MAGISTRADOS.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-DE LAS RESPONSABILIDADES DE LOS MAGISTRADOS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO V. DE LAS RESPONSABILIDADES DE LAS Y LOS MAGISTRADOS
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 154. Serán causas de responsabilidad de los magistrados del Tribunal Electoral, las siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 154.
 
-Serán causas de responsabilidad de los magistrados del Tribunal Electoral, las siguientes:
+SERÁN CAUSAS DE RESPONSABILIDAD DE LAS Y LOS MAGISTRADOS DEL TRIBUNAL ELECTORAL, LAS SIGUIENTES:
 
 I. Realizar conductas que atenten contra la independencia de la función jurídico-electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
 
@@ -2941,11 +3723,19 @@ VIII. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e i
 
 IX. Las demás que determinen las leyes que resulten aplicables.
 
-Los magistrados electorales estatales gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los magistrados electorales estatales gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS Y LOS MAGISTRADOS ELECTORALES ESTATALES GOZARÁN DE TODAS LAS GARANTÍAS JUDICIALES PREVISTAS EN EL ARTÍCULO 17 DE LA CONSTITUCIÓN A EFECTO DE GARANTIZAR SU INDEPENDENCIA Y AUTONOMÍA, CUYO CONTENIDO MÍNIMO SE INTEGRA POR LA PERMANENCIA, LA ESTABILIDAD EN EL EJERCICIO DEL CARGO POR EL TIEMPO DE SU DURACIÓN Y LA SEGURIDAD ECONÓMICA.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 155. Los magistrados electorales sólo podrán ser privados de sus cargos en términos del Título Cuarto de la Constitución Federal y las leyes de responsabilidades de los servidores públicos aplicables."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 155.
 
-Los magistrados electorales sólo podrán ser privados de sus cargos en términos del Título Cuarto de la Constitución Federal y las leyes de responsabilidades de los servidores públicos aplicables.
+Las y los magistrados electorales sólo podrán ser privados de sus cargos en términos del Título Cuarto de la Constitución Federal y las leyes de responsabilidades de los servidores públicos aplicables.
 
 ## TÍTULO SEGUNDO. DE LA FUNCIÓN ACADÉMICA
 
@@ -2971,9 +3761,13 @@ El Pleno del Tribunal Electoral designará por mayoría al Director General del 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 159. El proceso electoral está constituido por el conjunto de actos ordenados por la Constitución Federal, la Constitución, la Ley General de Instituciones y Procedimientos Electorales y este Código, que se realizarán por las autoridades electorales, los partidos políticos y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Legislativo y Ejecutivo del Estado, así como de los ayuntamientos."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 159.
 
-El proceso electoral está constituido por el conjunto de actos ordenados por la Constitución Federal, la Constitución, la Ley General de Instituciones y Procedimientos Electorales y este Código, que se realizarán por las autoridades electorales, los partidos políticos y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Legislativo y Ejecutivo del Estado, así como de los ayuntamientos.
+EL PROCESO ELECTORAL ESTÁ CONSTITUIDO POR EL CONJUNTO DE ACTOS ORDENADOS POR LA CONSTITUCIÓN FEDERAL, LA CONSTITUCIÓN, LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y ESTE CÓDIGO, QUE SE REALIZARÁN POR LAS AUTORIDADES ELECTORALES, LOS PARTIDOS POLÍTICOS Y LAS CIUDADANAS Y CIUDADANOS, QUE TIENE POR OBJETO LA RENOVACIÓN PERIÓDICA DE LOS INTEGRANTES DE LOS PODERES LEGISLATIVO Y EJECUTIVO DEL ESTADO, ASÍ COMO DE LOS AYUNTAMIENTOS. EN LA ELECCIÓN E INTEGRACIÓN DE LOS AYUNTAMIENTOS SE DEBERÁ APLICAR EL PRINCIPIO DE PARIDAD DE GÉNERO TANTO VERTICAL COMO HORIZONTAL.
 
 Durante los procesos electorales ordinarios y extraordinarios todos los días y horas son hábiles.
 
@@ -3007,25 +3801,51 @@ La etapa de la jornada electoral se inicia a las 08:00 horas del día de la elec
 
 La etapa de resultados y declaraciones de validez de las elecciones, se inicia con la remisión de la documentación y expedientes electorales a los consejos distritales y municipales; concluye con los cómputos y declaraciones que realicen los Consejos Electorales, o las resoluciones que, en su caso, emita en última instancia el órgano jurisdiccional correspondiente.
 
-En los procesos electorales al concluir cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los organismos electorales, el Consejero Presidente del Consejo Estatal, podrá difundir su realización y conclusión. La publicidad en ningún caso será obligatoria, ni interrumpe o afecta, por su omisión o ejecución, la validez, eficacia y continuidad de las actividades, actos o resoluciones de los organismos electorales.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL QUINTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En los procesos electorales al concluir cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los organismos electorales, el Consejero Presidente del Consejo Estatal, podrá difundir su realización y conclusión. La publicidad en ningún caso será obligatoria, ni interrumpe o afecta, por su omisión o ejecución, la validez, eficacia y continuidad de las actividades, actos o resoluciones de los organismos electorales."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+EN LOS PROCESOS ELECTORALES AL CONCLUIR CUALQUIERA DE SUS ETAPAS O DE ALGUNO DE LOS ACTOS O ACTIVIDADES TRASCENDENTES DE LOS ORGANISMOS ELECTORALES, LA O EL CONSEJERO PRESIDENTE DEL CONSEJO ESTATAL, PODRÁ DIFUNDIR SU REALIZACIÓN Y CONCLUSIÓN. LA PUBLICIDAD EN NINGÚN CASO SERÁ OBLIGATORIA, NI INTERRUMPE O AFECTA, POR SU OMISIÓN O EJECUCIÓN, LA VALIDEZ, EFICACIA Y CONTINUIDAD DE LAS ACTIVIDADES, ACTOS O RESOLUCIONES DE LOS ORGANISMOS ELECTORALES.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 161. Por cada candidato propietario para ocupar el cargo de Diputado o miembro de un ayuntamiento se elegirá un suplente."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 161.
 
-Por cada candidato propietario para ocupar el cargo de Diputado o miembro de un ayuntamiento se elegirá un suplente.
+Por cada candidatura propietaria para ocupar el cargo de las diputaciones, o integrantes de un Ayuntamiento se elegirá un suplente del mismo género.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 162. Ninguna persona podrá ser registrada como candidato a distintos cargos de elección popular en el mismo proceso electoral local, salvo por lo dispuesto en el párrafo siguiente, así como en la normativa de la materia, ni tampoco, simultáneamente podrá ser candidato para un cargo federal de elección popular.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 162.
 
-Ninguna persona podrá ser registrada como candidato a distintos cargos de elección popular en el mismo proceso electoral local, salvo por lo dispuesto en el párrafo siguiente, así como en la normativa de la materia, ni tampoco, simultáneamente podrá ser candidato para un cargo federal de elección popular.
+NINGUNA PERSONA PODRÁ SER REGISTRADA COMO CANDIDATA O CANDIDATO A DISTINTOS CARGOS DE ELECCIÓN POPULAR EN EL MISMO PROCESO ELECTORAL LOCAL, SALVO POR LO DISPUESTO EN EL PÁRRAFO SIGUIENTE, ASÍ COMO EN LA NORMATIVA DE LA MATERIA, NI TAMPOCO, SIMULTÁNEAMENTE PODRÁ SER CANDIDATO PARA UN CARGO FEDERAL DE ELECCIÓN POPULAR.
 
-En el caso de la elección de los miembros de Ayuntamiento, los candidatos a presidente municipal podrán ser registrados como primer regidor y el candidato a Síndico Municipal como segundo regidor en la lista de regidores a que se refiere el artículo 112, párrafo cuarto, de la Constitución Política del Estado.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En el caso de la elección de los miembros de Ayuntamiento, los candidatos a presidente municipal podrán ser registrados como primer regidor y el candidato a Síndico Municipal como segundo regidor en la lista de regidores a que se refiere el artículo 112, párrafo cuarto, de la Constitución Política del Estado.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Para el caso de los Diputados del Congreso electos por el principio de mayoría relativa que busquen la reelección, solo podrán ser postulados por el mismo Distrito Electoral por el que obtuvieron su constancia de mayoría en la elección inmediata anterior, o bien podrán ser incluidos en la lista de Diputados por el principio de Representación Proporcional del partido político que los postuló inicialmente, en los términos de este Código.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-Los Diputados del Congreso electos por el Principio de Representación Proporcional, que pretendan la reelección, podrán ser postulados tanto por el Principio de Mayoría Relativa en cualquier distrito electoral, así como nuevamente por el de Representación Proporcional, del partido político que los postulóinicialmente (sic), de acuerdo a las reglas establecidas en los términos en este Código.
+EN EL CASO DE LA ELECCIÓN DE LOS MIEMBROS DE AYUNTAMIENTO, LOS CANDIDATOS A PRESIDENTE MUNICIPAL PODRÁN SER REGISTRADOS COMO PRIMER REGIDOR Y EL CANDIDATO A SÍNDICO MUNICIPAL COMO SEGUNDO REGIDOR EN LA LISTA DE REGIDORES A QUE SE REFIERE EL ARTÍCULO 112, PÁRRAFO CUARTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
-Los Diputados locales que pretendan ser reelectos, podrán optar por no separarse de su cargo, mientras cumplan con las siguientes reglas y restricciones:
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Para el caso de los Diputados del Congreso electos por el principio de mayoría relativa que busquen la reelección, solo podrán ser postulados por el mismo Distrito Electoral por el que obtuvieron su constancia de mayoría en la elección inmediata anterior, o bien podrán ser incluidos en la lista de Diputados por el principio de Representación Proporcional del partido político que los postuló inicialmente, en los términos de este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+PARA EL CASO DE LAS DIPUTADAS Y DIPUTADOS DEL CONGRESO ELECTOS POR EL PRINCIPIO DE MAYORÍA RELATIVA QUE BUSQUEN LA REELECCIÓN, SÓLO PODRÁN SER POSTULADOS POR EL MISMO DISTRITO ELECTORAL POR EL QUE OBTUVIERON SU CONSTANCIA DE MAYORÍA EN LA ELECCIÓN INMEDIATA ANTERIOR, O BIEN PODRÁN SER INCLUIDOS EN LA LISTA DE LAS DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL DEL PARTIDO POLÍTICO QUE LOS POSTULÓ INICIALMENTE, EN LOS TÉRMINOS DE ESTE CÓDIGO.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los Diputados del Congreso electos por el Principio de Representación Proporcional, que pretendan la reelección, podrán ser postulados tanto por el Principio de Mayoría Relativa en cualquier distrito electoral, así como nuevamente por el de Representación Proporcional, del partido político que los postulóinicialmente (sic), de acuerdo a las reglas establecidas en los términos en este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS Y LOS DIPUTADOS DEL CONGRESO ELECTOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, QUE PRETENDAN LA REELECCIÓN, PODRÁN SER POSTULADOS TANTO POR EL PRINCIPIO DE MAYORÍA RELATIVA EN CUALQUIER DISTRITO ELECTORAL, ASÍ COMO NUEVAMENTE POR EL DE REPRESENTACIÓN PROPORCIONAL, DEL PARTIDO POLÍTICO QUE LOS POSTULÓ INICIALMENTE, DE ACUERDO A LAS REGLAS ESTABLECIDAS EN LOS TÉRMINOS EN ESTE CÓDIGO.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL QUINTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los Diputados locales que pretendan ser reelectos, podrán optar por no separarse de su cargo, mientras cumplan con las siguientes reglas y restricciones:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS DIPUTADAS Y LOS DIPUTACIONES LOCALES QUE PRETENDAN SER REELECTOS, PODRÁN OPTAR POR NO SEPARARSE DE SU CARGO, MIENTRAS CUMPLAN CON LAS SIGUIENTES REGLAS Y RESTRICCIONES:
 
 a) No podrán realizar actos de campaña en días y horas hábiles propias de su encargo;
 
@@ -3033,9 +3853,17 @@ b) No podrán utilizar recursos públicos, ya sean humanos, materiales o económ
 
 c) No podrán ocupar al personal adscrito a la nómina del Congreso del Estado, para realizar actos de campaña en horario laboral, y
 
-d) Deberán cumplir con las obligaciones inherentes a su encargo como Diputado.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO D) DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) Deberán cumplir con las obligaciones inherentes a su encargo como Diputado.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Los miembros de los Ayuntamientos, por elección directa, podrán ser reelectos únicamente para un período adicional de gestión consecutiva. La postulación sólo podrá ser realizada por el mismo Partido o por cualquiera de los Partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia hasta antes de la mitad del periodo por el que fueron electos.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+D) DEBERÁN CUMPLIR CON LAS OBLIGACIONES INHERENTES A SU ENCARGO COMO DIPUTADA O DIPUTADO.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los miembros de los Ayuntamientos, por elección directa, podrán ser reelectos únicamente para un período adicional de gestión consecutiva. La postulación sólo podrá ser realizada por el mismo Partido o por cualquiera de los Partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia hasta antes de la mitad del periodo por el que fueron electos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS Y LOS MIEMBROS DE LOS AYUNTAMIENTOS, POR ELECCIÓN DIRECTA, PODRÁN SER REELECTOS ÚNICAMENTE PARA UN PERÍODO ADICIONAL DE GESTIÓN CONSECUTIVA. LA POSTULACIÓN SÓLO PODRÁ SER REALIZADA POR EL MISMO PARTIDO O POR CUALQUIERA DE LOS PARTIDOS INTEGRANTES DE LA COALICIÓN QUE LOS HUBIEREN POSTULADO, SALVO QUE HAYAN RENUNCIADO O PERDIDO SU MILITANCIA HASTA ANTES DE LA MITAD DEL PERIODO POR EL QUE FUERON ELECTOS.
 
 Para efectos del presente artículo, las autoridades electorales siempre velarán por mantener la equidad en la contienda.
 
@@ -3047,15 +3875,31 @@ I. Estar inscrito en el Registro Federal de Electores y contar con Credencial vi
 
 II. No desempeñarse como Magistrado Electoral, Consejero Electoral u ocupar un cargo de dirección o en el Servicio Profesional Electoral Nacional en los organismos electorales, salvo que se separe de su cargo conforme lo establece la Constitución;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. No ocupar un cargo de dirección en los gobiernos federal, estatal, municipal, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo ciento ochenta días antes del día de la jornada electoral, con excepción de los diputados que pretendan su reelección, en cuyo caso podrán optar por no separarse del cargo, de acuerdo a lo dispuesto en el artículo anterior, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-III. No ocupar un cargo de dirección en los gobiernos federal, estatal, municipal, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo ciento ochenta días antes del día de la jornada electoral, con excepción de los diputados que pretendan su reelección, en cuyo caso podrán optar por no separarse del cargo, de acuerdo a lo dispuesto en el artículo anterior, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-IV. No estar inhabilitado por el Consejo Estatal por haber violado las disposiciones de este código en materia de precampañas.
+III. NO OCUPAR UN CARGO DE DIRECCIÓN EN LOS GOBIERNOS FEDERAL, ESTATAL, MUNICIPAL, NI EJERCER BAJO CIRCUNSTANCIA ALGUNA LAS MISMAS FUNCIONES, SALVO QUE SE SEPARE DEL CARGO NOVENTA DÍAS ANTES DEL DÍA DE LA JORNADA ELECTORAL, CON EXCEPCIÓN DE LOS DIPUTADOS QUE PRETENDAN SU REELECCIÓN, EN CUYO CASO PODRÁN OPTAR POR NO SEPARARSE DEL CARGO, DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO ANTERIOR;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IV. No estar inhabilitado por el Consejo Estatal por haber violado las disposiciones de este código en materia de precampañas.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+IV. NO ESTAR INHABILITADO POR EL CONSEJO ESTATAL POR HABER VIOLADO LAS DISPOSICIONES DE ESTE CÓDIGO EN MATERIA DE PRECAMPAÑAS, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+V. NO HABER SIDO CONDENADO O CONDENADA CON SENTENCIA FIRME POR EL DELITO DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, ACORDE A LAS NORMAS APLICABLES.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 164. Los partidos políticos, candidatos independientes o coaliciones, deberán cumplir estrictamente con las disposiciones que la Constitución Federal, la normativa y este Código, establecen en materia de paridad de género."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 164.
 
-Los partidos políticos, candidatos independientes o coaliciones, deberán cumplir estrictamente con las disposiciones que la Constitución Federal, la normativa y este Código, establecen en materia de paridad de género.
+Los partidos políticos, candidatas y candidatos independientes o coaliciones, deberán cumplir estrictamente con las disposiciones que la Constitución Federal, la normativa y este Código, establecen en materia de paridad de género.
 
 ###### Artículo 165.
 
@@ -3063,29 +3907,49 @@ En caso de que el Consejo Estatal resuelva la pérdida del derecho a registrarse
 
 ### CAPÍTULO II. DE LOS PROCESOS DE SELECCIÓN INTERNA DE CANDIDATOS A CARGOS DE ELECCIÓN POPULAR Y LAS PRECAMPAÑAS ELECTORALES
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 166. Los procesos de selección interna de candidatos a cargos de elección popular son el conjunto de actos y actividades que realizan los aspirantes y los partidos políticos con objeto de definir quiénes contenderán a dichos cargos, de conformidad con lo establecido en este Código, las resoluciones que dicte el Consejo Estatal, en los estatutos, reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político en la normatividad interna de los partidos políticos."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 166.
 
-Los procesos de selección interna de candidatos a cargos de elección popular son el conjunto de actos y actividades que realizan los aspirantes y los partidos políticos con objeto de definir quiénes contenderán a dichos cargos, de conformidad con lo establecido en este Código, las resoluciones que dicte el Consejo Estatal, en los estatutos, reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político en la normatividad interna de los partidos políticos.
+Los procesos de selección interna de candidatas y candidatos a cargos de elección popular son el conjunto de actos y actividades que realizan las y los aspirantes y los partidos políticos con objeto de definir quiénes contenderán a dichos cargos, garantizando la participación paritaria en la postulación de candidaturas de conformidad con lo establecido en este Código, las resoluciones que dicte el Consejo Estatal, en los estatutos, reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político en la normatividad interna de los partidos políticos.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 167. Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie el acuerdo para participar en coalición o candidatura común. Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 167.
 
-Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie el acuerdo para participar en coalición o candidatura común. Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios.
+NINGUNA CIUDADANA O CIUDADANO PODRÁ PARTICIPAR SIMULTÁNEAMENTE EN PROCESOS DE SELECCIÓN INTERNA DE CANDIDATAS Y CANDIDATOS A CARGOS DE ELECCIÓN POPULAR POR DIFERENTES PARTIDOS POLÍTICOS, SALVO QUE ENTRE ELLOS MEDIE EL ACUERDO PARA PARTICIPAR EN COALICIÓN O CANDIDATURA COMÚN. DURANTE LAS PRECAMPAÑAS ESTÁ PROHIBIDO EL OTORGAMIENTO DE ARTÍCULOS PROMOCIONALES UTILITARIOS.
 
-Los partidos políticos determinarán conforme a sus estatutos el procedimiento que aplicarán para la selección de todos sus candidatos a cargos de elección popular. El acuerdo deberá ser comunicado al Consejo Estatal al menos cinco días antes de cualquier proceso de selección de candidatos o precampañas. Asimismo, se deberá comunicar a la autoridad electoral el retiro de la precampaña de alguno de los precandidatos y modificaciones o resoluciones de cualquier tipo a la convocatoria respectiva.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los partidos políticos determinarán conforme a sus estatutos el procedimiento que aplicarán para la selección de todos sus candidatos a cargos de elección popular. El acuerdo deberá ser comunicado al Consejo Estatal al menos cinco días antes de cualquier proceso de selección de candidatos o precampañas. Asimismo, se deberá comunicar a la autoridad electoral el retiro de la precampaña de alguno de los precandidatos y modificaciones o resoluciones de cualquier tipo a la convocatoria respectiva.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LOS PARTIDOS POLÍTICOS DETERMINARÁN CONFORME A SUS ESTATUTOS EL PROCEDIMIENTO QUE APLICARÁN PARA LA SELECCIÓN DE TODOS SUS CANDIDATAS Y CANDIDATOS A CARGOS DE ELECCIÓN POPULAR. EL ACUERDO DEBERÁ SER COMUNICADO AL CONSEJO ESTATAL AL MENOS CINCO DÍAS ANTES DE CUALQUIER PROCESO DE SELECCIÓN DE CANDIDATAS Y CANDIDATOS O PRECAMPAÑAS. ASIMISMO, SE DEBERÁ COMUNICAR A LA AUTORIDAD ELECTORAL EL RETIRO DE LA PRECAMPAÑA DE ALGUNO DE LOS PRECANDIDATOS Y MODIFICACIONES O RESOLUCIONES DE CUALQUIER TIPO A LA CONVOCATORIA RESPECTIVA.
 
 Oportunamente los partidos políticos deberán informar por escrito al Consejo Estatal los resultados del proceso de selección interna, mismo que previamente fijará las características del informe y la fecha límite para su entrega.
 
-> <small>(REFORMADO P.O. 26 DE MAYO DE 2017)</small>
-
-###### Artículo 168.
-
-Los procesos de selección interna de candidatos a los cargos de Gobernador, Diputados al Congreso y miembros de los ayuntamientos, se llevarán a cabo a partir del 15 de diciembre del año previo a la elección. Durarán como máximo hasta dos terceras partes del tiempo de campaña respectivo, no podrán extenderse más allá del día 15 de febrero del año de la elección. Las precampañas de todos los partidos políticos se celebrarán de conformidad con la convocatoria respectiva que emita el partido, en todo caso deberán respetar los plazos establecidos en el presente Código.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 168. Los procesos de selección interna de candidatos a los cargos de Gobernador, Diputados al Congreso y miembros de los ayuntamientos, se llevarán a cabo a partir del 15 de diciembre del año previo a la elección. Durarán como máximo hasta dos terceras partes del tiempo de campaña respectivo, no podrán extenderse más allá del día 15 de febrero del año de la elección. Las precampañas de todos los partidos políticos se celebrarán de conformidad con la convocatoria respectiva que emita el partido, en todo caso deberán respetar los plazos establecidos en el presente Código.
 
 Durarán como máximo hasta dos terceras partes del tiempo de campaña respectivo, no podrán extenderse más allá del día 15 de febrero del año de la elección. Las precampañas de todos los partidos políticos se celebrarán de conformidad con la convocatoria respectiva que emita el partido, la cual deberá ser notificada al Instituto Morelense a más tardar cinco días antes del inicio de los procesos de selección interna, en todo caso deberán respetar los plazos establecidos en el presente Código.
 
 En el caso de las coaliciones y candidaturas comunes, el convenio respectivo deberá registrarse hasta antes del inicio del periodo de precampañas.
 
 Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a legisladores locales y para miembros de los ayuntamientos, los cuales deberá notificar al Instituto Morelense a más tardar cinco días antes del inicio de los procesos de selección interna; ello con la finalidad de garantizar y salvaguardar los derechos políticos electorales de sus militantes, precandidatos y de los ciudadanos.
+
+Asimismo, se deberá comunicar al Instituto Morelense el retiro de la precampaña de alguno de los precandidatos y modificaciones o resoluciones de cualquier tipo a la convocatoria respectiva."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 168.
+
+Los procesos de selección interna de candidatas y candidatos a los cargos de Gobernadora o Gobernador, Diputadas y Diputados al Congreso y miembros de los Ayuntamientos, se llevarán a cabo a partir del 15 de diciembre del año previo a la elección. Durarán como máximo hasta dos terceras partes del tiempo de campaña respectivo, no podrán extenderse más allá del día 15 de febrero del año de la elección. Las precampañas de todos los partidos políticos se celebrarán de conformidad con la convocatoria respectiva que emita el partido, en todo caso deberán respetar los plazos establecidos en el presente Código.
+
+En el caso de las coaliciones y candidaturas comunes, el convenio respectivo deberá registrarse hasta antes del inicio del periodo de precampañas.
+
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a legisladores locales y para miembros de los Ayuntamientos, los cuales deberá notificar al Instituto Morelense a más tardar cinco días antes del inicio de los procesos de selección interna; ello con la finalidad de garantizar y salvaguardar los derechos políticos electorales de sus militantes, precandidatos y de los ciudadanos.
 
 Asimismo, se deberá comunicar al Instituto Morelense el retiro de la precampaña de alguno de los precandidatos y modificaciones o resoluciones de cualquier tipo a la convocatoria respectiva.
 
@@ -3125,37 +3989,63 @@ IX. Utilizar en su propaganda símbolos, distintivos, emblemas, imágenes o figu
 
 X. Utilizar expresiones verbales o escritas CONTRARIAS A LA MORAL, QUE INJURIEN A LAS AUTORIDADES, A LOS DEMÁS PARTIDOS POLÍTICOS O PRECANDIDATOS O que tiendan a incitar a la violencia y al desorden público.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 172. Antes de la fecha del inicio de las precampañas ningún ciudadano que pretenda ser precandidato a un cargo de elección popular y participe en los procesos de selección interna convocados por cada partido político, podrá realizar actividades propagandísticas y publicitarias con el propósito inequívoco de su postulación. El incumplimiento de esta disposición se sancionará con la negativa de registro como candidato; en todo caso, antes de tomar esta determinación, el Consejo Estatal respetará la garantía de audiencia."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 172.
 
-Antes de la fecha del inicio de las precampañas ningún ciudadano que pretenda ser precandidato a un cargo de elección popular y participe en los procesos de selección interna convocados por cada partido político, podrá realizar actividades propagandísticas y publicitarias con el propósito inequívoco de su postulación. El incumplimiento de esta disposición se sancionará con la negativa de registro como candidato; en todo caso, antes de tomar esta determinación, el Consejo Estatal respetará la garantía de audiencia.
+ANTES DE LA FECHA DEL INICIO DE LAS PRECAMPAÑAS NINGÚN CIUDADANO O CIUDADANA QUE PRETENDA SER PRECANDIDATO O PRECANDIDATA A UN CARGO DE ELECCIÓN POPULAR Y PARTICIPE EN LOS PROCESOS DE SELECCIÓN INTERNA CONVOCADOS POR CADA PARTIDO POLÍTICO, PODRÁ REALIZAR ACTIVIDADES PROPAGANDÍSTICAS Y PUBLICITARIAS CON EL PROPÓSITO INEQUÍVOCO DE SU POSTULACIÓN. EL INCUMPLIMIENTO DE ESTA DISPOSICIÓN SE SANCIONARÁ CON LA NEGATIVA DE REGISTRO COMO CANDIDATO; EN TODO CASO, ANTES DE TOMAR ESTA DETERMINACIÓN, EL CONSEJO ESTATAL RESPETARÁ LA GARANTÍA DE AUDIENCIA.
 
 Los actos anticipados de precampaña o campaña podrán ser denunciados por los representantes de los partidos políticos o coaliciones acreditados ante el Consejo Estatal, ofreciendo las constancias o pruebas pertinentes para acreditar su dicho. La denuncia será investigada y evaluada por el Consejo Estatal, que resolverá lo procedente.
 
-###### Artículo 173.
-
-La propaganda electoral comprende el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que se producen y difunden por los partidos políticos y precandidatos. Toda propaganda para buscar la candidatura a un cargo de elección popular deberá señalar en forma visible la leyenda que diga: “Proceso de Selección Interna de Candidatos”.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 173. La propaganda electoral comprende el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que se producen y difunden por los partidos políticos y precandidatos. Toda propaganda para buscar la candidatura a un cargo de elección popular deberá señalar en forma visible la leyenda que diga: “Proceso de Selección Interna de Candidatos”.
 
 Los precandidatos podrán acceder a radio y televisión exclusivamente a través del tiempo que corresponda en dichos medios a los partidos políticos, de conformidad con las reglas y pautas que determine para tal efecto el Instituto Nacional.
 
 Queda prohibido a los precandidatos la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión, por si o por interpósita persona. La violación a esta norma se sancionará con la cancelación del registro del precandidato, por los órganos internos de los partidos políticos.
 
-Una vez terminados los procesos de selección interna, la propaganda deberá ser retirada por los partidos políticos, a más tardar cinco días antes del inicio de registro de candidatos. De no hacerlo, se notificará a la autoridad administrativa correspondiente para que proceda a su retiro, aplicando el costo de dichos trabajos con cargo a las prerrogativas del partido infractor, independientemente de las sanciones previstas en este Código.
+Una vez terminados los procesos de selección interna, la propaganda deberá ser retirada por los partidos políticos, a más tardar cinco días antes del inicio de registro de candidatos. De no hacerlo, se notificará a la autoridad administrativa correspondiente para que proceda a su retiro, aplicando el costo de dichos trabajos con cargo a las prerrogativas del partido infractor, independientemente de las sanciones previstas en este Código."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 173.
+
+La propaganda electoral comprende el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que se producen y difunden por los partidos políticos y precandidatos. Toda propaganda para buscar la candidatura a un cargo de elección popular deberá señalar en forma visible la leyenda que diga: "Proceso de Selección Interna de Candidatas y Candidatos".
+
+Las precandidatas y precandidatos podrán acceder a radio y televisión exclusivamente a través del tiempo que corresponda en dichos medios a los partidos políticos, de conformidad con las reglas y pautas que determine para tal efecto el Instituto Nacional.
+
+Queda prohibido a las precandidatas y precandidatos la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión, por si o por interpósita persona. La violación a esta norma se sancionará con la cancelación del registro del precandidato, por los órganos internos de los partidos políticos.
+
+Una vez terminados los procesos de selección interna, la propaganda deberá ser retirada por los partidos políticos, a más tardar cinco días antes del inicio de registro de candidatas y candidatos. De no hacerlo, se notificará a la autoridad administrativa correspondiente para que proceda a su retiro, aplicando el costo de dichos trabajos con cargo a las prerrogativas del partido infractor, independientemente de las sanciones previstas en este Código.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 174. El Consejo Estatal, previo al inicio del proceso electoral, determinará los topes de gasto de precampaña por precandidato y tipo de elección, conforme a las siguientes bases;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 174.
 
-El Consejo Estatal, previo al inicio del proceso electoral, determinará los topes de gasto de precampaña por precandidato y tipo de elección, conforme a las siguientes bases;
+EL CONSEJO ESTATAL, PREVIO AL INICIO DEL PROCESO ELECTORAL, DETERMINARÁ LOS TOPES DE GASTO DE PRECAMPAÑA POR PRECANDIDATA O PRECANDIDATO Y TIPO DE ELECCIÓN, CONFORME A LAS SIGUIENTES BASES;
 
 I. El tope será equivalente hasta el veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate;
 
-II. Los precandidatos deberán presentar un informe de ingresos y gastos de precampaña, en términos de la legislación aplicable;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Los precandidatos deberán presentar un informe de ingresos y gastos de precampaña, en términos de la legislación aplicable;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-III. Si el precandidato que hubiese obtenido la candidatura, rebasa el tope de precampaña o incumple la obligación de entregar su informe de ingresos y gastos de precampaña dentro del plazo señalado, será sancionado por el Consejo Estatal con la negativa del registro como candidato o, en su caso, con la pérdida de la candidatura, con base a las determinaciones que emita el Instituto Nacional Electoral;
+II. LAS PRECANDIDATAS Y PRECANDIDATOS DEBERÁN PRESENTAR UN INFORME DE INGRESOS Y GASTOS DE PRECAMPAÑA, EN TÉRMINOS DE LA LEGISLACIÓN APLICABLE;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. Si el precandidato que hubiese obtenido la candidatura, rebasa el tope de precampaña o incumple la obligación de entregar su informe de ingresos y gastos de precampaña dentro del plazo señalado, será sancionado por el Consejo Estatal con la negativa del registro como candidato o, en su caso, con la pérdida de la candidatura, con base a las determinaciones que emita el Instituto Nacional Electoral;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-IV. Los precandidatos que no cumplan con la presentación del informe de ingreso-gasto de precampaña, serán sancionados en términos de la normativa aplicable, y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+III. SI LA PRECANDIDATA O PRECANDIDATO QUE HUBIESE OBTENIDO LA CANDIDATURA, REBASA EL TOPE DE PRECAMPAÑA O INCUMPLE LA OBLIGACIÓN DE ENTREGAR SU INFORME DE INGRESOS Y GASTOS DE PRECAMPAÑA DENTRO DEL PLAZO SEÑALADO, SERÁ SANCIONADO POR EL CONSEJO ESTATAL CON LA NEGATIVA DEL REGISTRO COMO CANDIDATA O CANDIDATO O, EN SU CASO, CON LA PÉRDIDA DE LA CANDIDATURA, CON BASE A LAS DETERMINACIONES QUE EMITA EL INSTITUTO NACIONAL ELECTORAL;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IV. Los precandidatos que no cumplan con la presentación del informe de ingreso-gasto de precampaña, serán sancionados en términos de la normativa aplicable, y"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+IV. LAS PRECANDIDATAS Y PRECANDIDATOS QUE NO CUMPLAN CON LA PRESENTACIÓN DEL INFORME DE INGRESO-GASTO DE PRECAMPAÑA, SERÁN SANCIONADOS EN TÉRMINOS DE LA NORMATIVA APLICABLE, Y
 
 V. En caso de la cancelación de una candidatura, los partidos conservan el derecho de realizar las sustituciones que procedan.
 
@@ -3171,9 +4061,7 @@ En caso de que un precandidato incumpla la obligación de presentar su respectiv
 
 El Consejo Estatal normará los procedimientos expeditos para la presentación, revisión y solventación de los informes de ingresos y gastos de precampaña de los precandidatos.
 
-###### Artículo 176.
-
-Los partidos políticos, conforme a sus estatutos, deberán establecer órganos internos competentes para organizar los procesos de selección interna de candidatos y para resolver en materia de medios de impugnación, de conformidad con las siguientes bases;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 176. Los partidos políticos, conforme a sus estatutos, deberán establecer órganos internos competentes para organizar los procesos de selección interna de candidatos y para resolver en materia de medios de impugnación, de conformidad con las siguientes bases;
 
 I. Es competencia directa de cada partido político, a través de los órganos facultados por sus estatutos, o por el reglamento o convocatoria correspondiente, negar o cancelar el registro a los precandidatos que incurran en conductas contrarias a este Código o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus estatutos o en los reglamentos, acuerdos, disposiciones generales y convocatorias respectivas;
 
@@ -3185,51 +4073,129 @@ IV. Los medios de impugnación que presenten los precandidatos debidamente regis
 
 V. Los medios de impugnación internos que se interpongan con motivo de los resultados de los procesos de selección interna de candidatos a cargos de elección popular deberán quedar resueltos en definitiva a más tardar catorce días después de la fecha de realización de su proceso interno.
 
-Los tres días anteriores al de la elección interna y éste inclusive, los Jueces de Paz de los Municipios, los Síndicos que actúen como auxiliares del Ministerio Público, los Juzgados de Primera Instancia y Menores, los notarios públicos en ejercicio, así como las Agencias del Ministerio Público, mantendrán abiertas sus oficinas para atender las solicitudes que les hagan los partidos políticos, los precandidatos y los funcionarios de la mesa receptora de votos, para dar fe de los hechos, o practicar diligencias concernientes a la elección. En el caso de los notarios públicos todos sus servicios serán gratuitos.
+Los tres días anteriores al de la elección interna y éste inclusive, los Jueces de Paz de los Municipios, los Síndicos que actúen como auxiliares del Ministerio Público, los Juzgados de Primera Instancia y Menores, los notarios públicos en ejercicio, así como las Agencias del Ministerio Público, mantendrán abiertas sus oficinas para atender las solicitudes que les hagan los partidos políticos, los precandidatos y los funcionarios de la mesa receptora de votos, para dar fe de los hechos, o practicar diligencias concernientes a la elección. En el caso de los notarios públicos todos sus servicios serán gratuitos."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 176.
+
+Los partidos políticos, conforme a sus estatutos, deberán establecer órganos internos competentes para organizar los procesos de selección interna de candidatas y candidatos, para resolver en materia de medios de impugnación, de conformidad con las siguientes bases;
+
+I. Es competencia directa de cada partido político, a través de los órganos facultados por sus estatutos, o por el reglamento o convocatoria correspondiente, negar o cancelar el registro a las precandidatas y precandidatos que incurran en conductas contrarias a este Código o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus estatutos o en los reglamentos, acuerdos, disposiciones generales y convocatorias respectivas;
+
+II. Las precandidatas y precandidatos debidamente registrados tendrán la personalidad para impugnar el conjunto de actos que se realicen dentro del proceso de selección interna y el resultado del proceso de selección de candidatas y candidatos en que hayan participado. Las decisiones que adopten los órganos competentes de cada partido podrán ser recurridas por las y los aspirantes o precandidatos ante el Tribunal Electoral, una vez agotados los procedimientos internos de justicia partidaria;
+
+III. Las y los precandidatos podrán impugnar, ante el órgano interno competente, los reglamentos y convocatorias, la integración de los órganos responsables de conducir los procesos internos, los acuerdos y resoluciones que adopten y, en general, los actos que realicen los órganos directivos o sus integrantes, cuando de los mismos se desprenda la violación de las normas que rijan los procesos de selección de candidatas y candidatos a cargos de elección popular. Cada partido emitirá un reglamento interno en el que se normarán los procedimientos y plazos para la resolución de tales controversias;
+
+IV. Los medios de impugnación que presenten las y los precandidatos debidamente registrados en contra de los resultados de su proceso de selección interna en que se hayan adoptado decisiones sobre candidaturas, se presentarán ante el órgano interno competente a más tardar dentro de los cuatro días siguientes a la emisión del resultado, y
+
+V. Los medios de impugnación internos que se interpongan con motivo de los resultados de los procesos de selección interna de candidatas y candidatos a cargos de elección popular deberán quedar resueltos en definitiva a más tardar catorce días después de la fecha de realización de su proceso interno.
+
+Los tres días anteriores al de la elección interna y éste inclusive, los Jueces de Paz de los Municipios, los Síndicos que actúen como auxiliares del Ministerio Público, los Juzgados de Primera Instancia y Menores, los notarios públicos en ejercicio, así como las Agencias del Ministerio Público, mantendrán abiertas sus oficinas para atender las solicitudes que les hagan los partidos políticos, las y los precandidatos y las y los funcionarios de la mesa receptora de votos, para dar fe de los hechos, o practicar diligencias concernientes a la elección. En el caso de los notarios públicos todos sus servicios serán gratuitos.
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS, COALICIONES Y CANDIDATURAS COMUNES
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 177. El plazo para solicitar el registro de candidatos al cargo de Gobernador Constitucional del Estado, se hará ante el Consejo Estatal, del 1 al 7 de marzo del año en que se efectúe la elección.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 177.
 
-El plazo para solicitar el registro de candidatos al cargo de Gobernador Constitucional del Estado, se hará ante el Consejo Estatal, del 1 al 7 de marzo del año en que se efectúe la elección.
+EL PLAZO PARA SOLICITAR EL REGISTRO DE CANDIDATOS AL CARGO DE GOBERNADORA O GOBERNADOR CONSTITUCIONAL DEL ESTADO, SE HARÁ ANTE EL CONSEJO ESTATAL, DEL 1 AL 7 DE MARZO DEL AÑO EN QUE SE EFECTÚE LA ELECCIÓN.
 
-El plazo para solicitar el registro de candidatos a los cargos de Diputados y ayuntamientos, se hará ante el consejo correspondiente del 8 al 15 de marzo del año de la elección.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “El plazo para solicitar el registro de candidatos a los cargos de Diputados y ayuntamientos, se hará ante el consejo correspondiente del 8 al 15 de marzo del año de la elección.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Los partidos políticos deberán registrar ante el Consejo Estatal, del 15 al 22 de febrero del año de la elección, la plataforma electoral que sus candidatos sostendrán durante las campañas políticas. Del registro de dicha plataforma se expedirá constancia.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+EL PLAZO PARA SOLICITAR EL REGISTRO DE CANDIDATAS Y CANDIDATOS A LOS CARGOS DE DIPUTADAS, DIPUTADOS Y MIEMBROS DE AYUNTAMIENTOS, SE HARÁ ANTE EL CONSEJO CORRESPONDIENTE DEL 8 AL 15 DE MARZO DEL AÑO DE LA ELECCIÓN.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los partidos políticos deberán registrar ante el Consejo Estatal, del 15 al 22 de febrero del año de la elección, la plataforma electoral que sus candidatos sostendrán durante las campañas políticas. Del registro de dicha plataforma se expedirá constancia.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LOS PARTIDOS POLÍTICOS DEBERÁN REGISTRAR ANTE EL CONSEJO ESTATAL, DEL 15 AL 22 DE FEBRERO DEL AÑO DE LA ELECCIÓN, LA PLATAFORMA ELECTORAL QUE SUS CANDIDATAS Y CANDIDATOS SOSTENDRÁN DURANTE LAS CAMPAÑAS POLÍTICAS. DEL REGISTRO DE DICHA PLATAFORMA SE EXPEDIRÁ CONSTANCIA.
 
 Esta obligación aplicará también a las candidaturas independientes.
 
-Las plataformas electorales que por cada proceso electoral deban presentar los partidos políticos, coaliciones o candidatos independientes serán publicadas por una sola vez por el Consejo Estatal.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL QUINTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Las plataformas electorales que por cada proceso electoral deban presentar los partidos políticos, coaliciones o candidatos independientes serán publicadas por una sola vez por el Consejo Estatal.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Los partidos políticos, una vez presentadas sus solicitudes de registro de candidatos, podrán cumplimentar los requisitos que la norma exige, durante el plazo de registro o bien dentro del término de cuarenta y ocho horas posteriores a la conclusión del plazo de registro, para proceder a la calificación de la solicitud dentro de los días que este Código establece.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS PLATAFORMAS ELECTORALES QUE POR CADA PROCESO ELECTORAL DEBAN PRESENTAR LOS PARTIDOS POLÍTICOS, COALICIONES Y CANDIDATURAS INDEPENDIENTES SERÁN PUBLICADAS POR UNA SOLA VEZ POR EL CONSEJO ESTATAL.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEXTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los partidos políticos, una vez presentadas sus solicitudes de registro de candidatos, podrán cumplimentar los requisitos que la norma exige, durante el plazo de registro o bien dentro del término de cuarenta y ocho horas posteriores a la conclusión del plazo de registro, para proceder a la calificación de la solicitud dentro de los días que este Código establece.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LOS PARTIDOS POLÍTICOS, UNA VEZ PRESENTADAS SUS SOLICITUDES DE REGISTRO DE LAS Y LOS CANDIDATOS Y, PODRÁN CUMPLIMENTAR LOS REQUISITOS QUE LA NORMA EXIGE, DURANTE EL PLAZO DE REGISTRO O BIEN DENTRO DEL TÉRMINO DE CUARENTA Y OCHO HORAS POSTERIORES A LA CONCLUSIÓN DEL PLAZO DE REGISTRO, PARA PROCEDER A LA CALIFICACIÓN DE LA SOLICITUD DENTRO DE LOS DÍAS QUE ESTE CÓDIGO ESTABLECE.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 178. El registro de candidatos a Gobernador y Diputados de representación proporcional, se hará ante el Consejo Estatal."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 178.
 
-El registro de candidatos a Gobernador y Diputados de representación proporcional, se hará ante el Consejo Estatal.
+El registro de candidata o candidato a la Gubernatura, y Diputaciones de representación proporcional, se hará ante el Consejo Estatal.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 179. El registro de candidatos a diputados de mayoría relativa será por fórmulas integradas cada una por un propietario y un suplente del mismo género ante el consejo distrital electoral respectivo. De la totalidad de solicitudes de registro de las candidaturas a diputados que realice cada partido político, en ningún caso incluirán más del cincuenta por ciento de candidatos de un mismo género.
+
+En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a diputados de mayoría relativa en distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 179.
 
-El registro de candidatos a diputados de mayoría relativa será por fórmulas integradas cada una por un propietario y un suplente del mismo género ante el consejo distrital electoral respectivo. De la totalidad de solicitudes de registro de las candidaturas a diputados que realice cada partido político, en ningún caso incluirán más del cincuenta por ciento de candidatos de un mismo género.
+El registro de candidatas y candidatos a Diputadas y Diputados de mayoría relativa será por fórmulas integradas cada una por una o un propietario y un suplente del mismo género ante el consejo distrital electoral respectivo. De la totalidad de solicitudes de registro de las candidaturas a las diputaciones que realice cada partido político, en ningún caso incluirán más del cincuenta por ciento de candidatos de un mismo género.
 
-En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a diputados de mayoría relativa en distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a Diputadas y Diputados de mayoría relativa en distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 179 Bis.
+
+Para evitar que a algún género le sean asignados los Distritos o Municipios en los que el partido político, coalición o candidatura común haya obtenido los porcentajes de votación más bajos y más altos en el proceso electoral local anterior, se establece el siguiente procedimiento:
+
+El Instituto Morelense de Procesos Electorales y Participación Ciudadana, deberá enlistar los distritos y municipios en los que cada partido político local postuló candidatos a Diputadas o Diputados o a miembros de los Ayuntamientos, dicho documento deberá ser proporcionado a los partidos políticos antes del inicio de las precampañas.
+
+I. En el caso de candidatas o candidatos a miembros de los Ayuntamientos se deberán generar tres bloques los Municipios que hubiesen postulado candidatos, conforme a los porcentajes de votación con base en los resultados obtenidos en la elección inmediata anterior, de lo cual resultará un bloque de municipios con alto porcentaje de votación, un bloque intermedio de votación y un bloque de baja votación.
+
+Si al hacer la división de municipios en los tres bloques señalados, sobrare uno, este se agregará al bloque de votación más baja, si restasen dos, se agregará uno al de votación más baja y el segundo al de votación más alta.
+
+En los referidos bloques, el Instituto Morelense de Procesos Electorales y Participación Ciudadana verificará que la mitad de las candidaturas de Presidente Municipal, sean ocupadas por mujeres y la otra por hombres, y
+
+II. Para la postulación de candidatas o candidatos a Diputaciones se deberán generar tres bloques, los Distritos que hubiesen postulado candidatos, conforme a los porcentajes de votación con base en los resultados obtenidos en la elección inmediata anterior, de lo cual resultará un bloque de distritos con alto porcentaje de votación, un bloque intermedio de votación y un bloque de baja votación.
+
+Si al hacer la división de distritos en los tres bloques señalados, sobrare uno, este se agregará al bloque de votación más baja, si restasen dos, se agregará uno al de votación más baja y el segundo al de votación más alta.
+
+En los referidos bloques, el Instituto Morelense de Procesos Electorales y Participación Ciudadana verificará que la mitad de las candidaturas que integran cada bloque sean ocupadas por mujeres y la otra por hombres.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 180. Los partidos políticos y candidatos independientes deberán postular una planilla con candidaturas a la presidencia municipal, sindicatura, y regidurías. La planilla deberá alternar los géneros desde la presidencia municipal hasta la última regiduría. Los partidos políticos no podrán postular candidatos de un mismo género en más de la mitad de sus candidaturas a presidencias municipales si el número de sus candidaturas es par o en más de la mitad más una en caso de candidaturas impares.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 180.
 
-Los partidos políticos y candidatos independientes deberán postular una planilla con candidaturas a la presidencia municipal, sindicatura, y regidurías. La planilla deberá alternar los géneros desde la presidencia municipal hasta la última regiduría. Los partidos políticos no podrán postular candidatos de un mismo género en más de la mitad de sus candidaturas a presidencias municipales si el número de sus candidaturas es par o en más de la mitad más una en caso de candidaturas impares.
+LOS PARTIDOS POLÍTICOS, CANDIDATAS Y CANDIDATOS INDEPENDIENTES DEBERÁN POSTULAR UNA PLANILLA CON CANDIDATURAS A LA PRESIDENCIA MUNICIPAL, SINDICATURA, Y REGIDURÍAS. LA PLANILLA DEBERÁ ALTERNAR LOS GÉNEROS DESDE LA PRESIDENCIA MUNICIPAL HASTA LA ÚLTIMA REGIDURÍA. LOS PARTIDOS POLÍTICOS NO PODRÁN POSTULAR CANDIDATAS Y CANDIDATOS DE UN MISMO GÉNERO EN MÁS DE LA MITAD DE SUS CANDIDATURAS A PRESIDENCIAS MUNICIPALES SI EL NÚMERO DE SUS CANDIDATURAS ES PAR O EN MÁS DE LA MITAD MÁS UNA EN CASO DE CANDIDATURAS IMPARES.
 
-Las candidaturas para miembros de ayuntamientos, se registrarán ante el consejo municipal electoral que corresponda, por planillas integradas por candidatos a Presidente Municipal y un Síndico propietarios y suplentes, que se elegirán por el principio de mayoría relativa y, en su caso, una lista de regidores, propietarios y suplentes en número igual al previsto para ese municipio en la legislación, que se elegirán por el principio de representación proporcional.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Las candidaturas para miembros de ayuntamientos, se registrarán ante el consejo municipal electoral que corresponda, por planillas integradas por candidatos a Presidente Municipal y un Síndico propietarios y suplentes, que se elegirán por el principio de mayoría relativa y, en su caso, una lista de regidores, propietarios y suplentes en número igual al previsto para ese municipio en la legislación, que se elegirán por el principio de representación proporcional.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-De igual forma los partidos políticos deberán observar para el registro de sus planillas de candidatos para los 33 municipios que integran el Estado de Morelos un enfoque horizontal, que consiste en que del total de los 33 ayuntamientos se exija el registro de dieciséis candidaturas a la presidencia municipal de un mismo género, de tal manera que los diecisiete restantes correspondan al género distinto.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a presidencias municipales en las que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+LAS CANDIDATURAS PARA MIEMBROS DE AYUNTAMIENTOS, SE REGISTRARÁN ANTE EL CONSEJO MUNICIPAL ELECTORAL QUE CORRESPONDA, POR PLANILLAS INTEGRADAS POR CANDIDATAS Y CANDIDATOS A PRESIDENTA O PRESIDENTE MUNICIPAL Y UNA O UN SÍNDICO PROPIETARIOS Y SUPLENTES Y EL NÚMERO DE REGIDURÍAS QUE SEÑALE LA LEY ORGÁNICA MUNICIPAL, QUE SE ELEGIRÁN POR EL PRINCIPIO DE MAYORÍA RELATIVA Y, EN SU CASO, UNA LISTA DE REGIDORAS Y REGIDORES, PROPIETARIOS Y SUPLENTES EN NÚMERO IGUAL AL PREVISTO PARA ESE MUNICIPIO EN LA LEGISLACIÓN, QUE SE ELEGIRÁN POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL.
 
-En los demás casos, los partidos políticos deberán registrar sus planillas, de conformidad con los siguientes criterios:
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “De igual forma los partidos políticos deberán observar para el registro de sus planillas de candidatos para los 33 municipios que integran el Estado de Morelos un enfoque horizontal, que consiste en que del total de los 33 ayuntamientos se exija el registro de dieciséis candidaturas a la presidencia municipal de un mismo género, de tal manera que los diecisiete restantes correspondan al género distinto.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+DE IGUAL FORMA LOS PARTIDOS POLÍTICOS DEBERÁN OBSERVAR PARA EL REGISTRO DE SUS PLANILLAS DE CANDIDATOS PARA LOS MUNICIPIOS QUE INTEGRAN EL ESTADO DE MORELOS UN ENFOQUE HORIZONTAL, QUE CONSISTE EN QUE DEL TOTAL DE LOS AYUNTAMIENTOS, SE EXIJA EL REGISTRO DE CANDIDATURAS A LA PRESIDENCIA MUNICIPAL BAJO EL PRINCIPIO DE PARIDAD DE GÉNERO. EN NINGÚN CASO SE ADMITIRÁN CRITERIOS QUE TENGAN COMO RESULTADO QUE A ALGUNO DE LOS GÉNEROS LE SEAN ASIGNADOS EXCLUSIVAMENTE AQUELLAS CANDIDATURAS A PRESIDENCIAS MUNICIPALES EN LAS QUE EL PARTIDO HAYA OBTENIDO LOS PORCENTAJES DE VOTACIÓN MÁS BAJOS EN EL PROCESO ELECTORAL ANTERIOR.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En los demás casos, los partidos políticos deberán registrar sus planillas, de conformidad con los siguientes criterios:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2020)</small>
+
+EN LOS DEMÁS CASOS, LOS PARTIDOS POLÍTICOS DEBERÁN REGISTRAR SUS PLANILLAS, DE CONFORMIDAD CON LOS SIGUIENTES CRITERIOS:
 
 Municipios en que los Mujer Hombre
 
@@ -3313,29 +4279,49 @@ planillas de candidatos:
 
 1 1
 
-###### Artículo 181.
-
-Los partidos políticos sólo podrán incluir en la lista de candidatos a diputados de representación proporcional hasta dos personas que sean candidatos de mayoría relativa. Los institutos políticos podrán registrar lista de candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatos a Diputados de mayoría relativa, por lo menos en las dos terceras partes de los Distritos uninominales del Estado. La lista de representación proporcional se integrará intercalando una a una candidaturas de ambos géneros.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 181. Los partidos políticos sólo podrán incluir en la lista de candidatos a diputados de representación proporcional hasta dos personas que sean candidatos de mayoría relativa. Los institutos políticos podrán registrar lista de candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatos a Diputados de mayoría relativa, por lo menos en las dos terceras partes de los Distritos uninominales del Estado. La lista de representación proporcional se integrará intercalando una a una candidaturas de ambos géneros.
 
 Las fórmulas de candidatos, propietarios y suplentes, deberán ser del mismo género.
 
-Los partidos políticos podrán registrar lista de candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatos a Diputados de mayoría relativa, por lo menos en las dos terceras partes de los distritos uninominales del Estado, de manera directa, participando en coalición o en candidaturas comunes.
+Los partidos políticos podrán registrar lista de candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatos a Diputados de mayoría relativa, por lo menos en las dos terceras partes de los distritos uninominales del Estado, de manera directa, participando en coalición o en candidaturas comunes."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-###### Artículo 182.
+###### Artículo 181.
 
-Dentro de los plazos establecidos por este Código, los partidos políticos podrán libremente sustituir a los candidatos que hubiesen registrado. Concluidos aquéllos, sólo por acuerdo podrá hacerse sustitución de candidatos por causa de muerte, inhabilitación, incapacidad o renuncia. Los partidos políticos podrán solicitar ante el Consejo Estatal, fuera de los casos previstos, la cancelación del registro de uno o varios de sus candidatos.
+Los partidos políticos sólo podrán incluir en la lista de candidatas y candidatos a Diputadas y Diputados de representación proporcional hasta dos personas que sean candidatas o candidatos de mayoría relativa. Los institutos políticos podrán registrar lista de candidatas y candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatas y candidatos a Diputadas y Diputados de mayoría relativa, por lo menos en las dos terceras partes de los Distritos uninominales del Estado. La lista de representación proporcional se integrará intercalando una a una candidaturas de ambos géneros.
+
+Las fórmulas de candidatas y candidatos, propietarios y suplentes, deberán ser del mismo género.
+
+Los partidos políticos podrán registrar lista de candidatas y candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatas y candidatos a Diputadas y Diputados de mayoría relativa, por lo menos en las dos terceras partes de los distritos uninominales del Estado, de manera directa, participando en coalición o en candidaturas comunes.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 182. Dentro de los plazos establecidos por este Código, los partidos políticos podrán libremente sustituir a los candidatos que hubiesen registrado. Concluidos aquéllos, sólo por acuerdo podrá hacerse sustitución de candidatos por causa de muerte, inhabilitación, incapacidad o renuncia. Los partidos políticos podrán solicitar ante el Consejo Estatal, fuera de los casos previstos, la cancelación del registro de uno o varios de sus candidatos.
 
 Cuando la renuncia del candidato fuera notificada por este al Consejo Estatal, se hará del conocimiento del partido o coalición que lo registró para que proceda, en su caso, a la sustitución. En caso de que la renuncia sea entregada por el partido político al Instituto Morelense, este solicitará al renunciante la ratificación de firma y contenido, en caso de que desconozca su firma se tendrá por no interpuesta la renuncia.
 
-Para la corrección o sustitución, en su caso, de las boletas electorales, se estará a lo dispuesto en este Código.
+Para la corrección o sustitución, en su caso, de las boletas electorales, se estará a lo dispuesto en este Código."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 182.
+
+Dentro de los plazos establecidos por este Código, los partidos políticos podrán libremente sustituir a las y los candidatos que hubiesen registrado. Concluidos aquéllos, sólo por acuerdo podrá hacerse sustitución de candidatas y candidatos por causa de muerte, inhabilitación, incapacidad o renuncia. Los partidos políticos podrán solicitar ante el Consejo Estatal, fuera de los casos previstos, la cancelación del registro de uno o varios de sus candidatas y candidatos.
+
+Cuando la renuncia de la candidata o candidato fuera notificada por este al Consejo Estatal, se hará del conocimiento del partido, coalición o candidatura independiente que lo registró para que proceda, en su caso, a la sustitución. En caso de que la renuncia sea entregada por el partido político, coalición o candidatura independiente al Instituto Morelense, este solicitará al renunciante la ratificación de firma y contenido, en caso de que desconozca su firma se tendrá por no interpuesta la renuncia.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 183. La solicitud de registro de candidatos deberá contener, cuando menos:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 183.
 
-La solicitud de registro de candidatos deberá contener, cuando menos:
+LA SOLICITUD DE REGISTRO DE LAS Y LOS CANDIDATOS DEBERÁ CONTENER, CUANDO MENOS:
 
-I. Nombre y apellidos del candidato y, en su caso, el sobrenombre con el que pretenda aparecer en la boleta electoral;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Nombre y apellidos del candidato y, en su caso, el sobrenombre con el que pretenda aparecer en la boleta electoral;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+I. NOMBRE Y APELLIDOS DE LA O EL CANDIDATO Y, EN SU CASO, EL SOBRENOMBRE CON EL QUE PRETENDA APARECER EN LA BOLETA ELECTORAL;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -3349,15 +4335,27 @@ IV. Denominación y emblemas de partido, coalición o candidatura común que lo 
 
 V. Clave y fecha de la credencial de elector.
 
-Los candidatos independientes deberán presentar su solicitud de registro conforme al formato autorizado por el Consejo Estatal.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los candidatos independientes deberán presentar su solicitud de registro conforme al formato autorizado por el Consejo Estatal.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS Y LOS CANDIDATOS INDEPENDIENTES DEBERÁN PRESENTAR SU SOLICITUD DE REGISTRO CONFORME AL FORMATO AUTORIZADO POR EL CONSEJO ESTATAL.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 184. La solicitud de registro deberá elaborarse en el formato que expida el Consejo Estatal, debidamente firmada por el candidato propuesto e ir acompañada de los siguientes documentos:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 184.
 
-La solicitud de registro deberá elaborarse en el formato que expida el Consejo Estatal, debidamente firmada por el candidato propuesto e ir acompañada de los siguientes documentos:
+LA SOLICITUD DE REGISTRO DEBERÁ ELABORARSE EN EL FORMATO QUE EXPIDA EL CONSEJO ESTATAL, DEBIDAMENTE FIRMADA POR LA O EL CANDIDATO PROPUESTO E IR ACOMPAÑADA DE LOS SIGUIENTES DOCUMENTOS:
 
 I. Declaración, bajo protesta de decir verdad, de aceptación de la candidatura y que cumple con los requisitos de elegibilidad;
 
-II. Copia certificada del acta de nacimiento del candidato expedida por el Registro Civil;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Copia certificada del acta de nacimiento del candidato expedida por el Registro Civil;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+II. COPIA CERTIFICADA DEL ACTA DE NACIMIENTO DE LA O EL CANDIDATO EXPEDIDA POR EL REGISTRO CIVIL;
 
 III. Copia de la credencial para votar con fotografía;
 
@@ -3379,49 +4377,91 @@ La expedición de los documentos de las fracciones II y IV de este artículo ser
 
 Los organismos electorales recibirán las solicitudes de registro junto con la documentación a que se refiere el artículo anterior, de acuerdo a lo siguiente:
 
-I. Concluido el plazo de registro de candidatos las solicitudes recibidas serán revisadas por el Consejero Presidente o el Secretario del órgano que corresponda, quienes verificarán dentro de los cinco días siguientes de su recepción, que se haya cumplido con todos los requisitos señalados en este Código;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Concluido el plazo de registro de candidatos las solicitudes recibidas serán revisadas por el Consejero Presidente o el Secretario del órgano que corresponda, quienes verificarán dentro de los cinco días siguientes de su recepción, que se haya cumplido con todos los requisitos señalados en este Código;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. Durante el plazo a que se refiere el párrafo anterior, el Consejo Estatal, con base en la información procesada del registro de candidatos que hayan presentado los partidos políticos y coaliciones en el término establecido para las elecciones de Diputados y Ayuntamientos de mayoría relativa, sesionará con el único efecto de determinar el cumplimiento de la paridad horizontal;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-II (sic). Vencido el plazo a (sic) referido en el segundo párrafo de este artículo y si se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido político correspondiente para que, dentro de las setenta y dos horas siguientes, subsane el o los requisitos omitidos o sustituya al candidato, siempre que esto pueda realizarse dentro de los plazos que señale este Código. Si transcurrido este lapso el partido político no cumpliera, se le otorgará una prórroga única de veinticuatro horas para cumplimentar, en caso de reincidencia se le sancionará con la pérdida del registro de la candidatura correspondiente;
+I. CONCLUIDO EL PLAZO DE REGISTRO DE LAS Y LOS CANDIDATOS LAS SOLICITUDES RECIBIDAS SERÁN REVISADAS POR LA O EL CONSEJERO PRESIDENTE O LA O EL SECRETARIO DEL ÓRGANO QUE CORRESPONDA, QUIENES VERIFICARÁN DENTRO DE LOS CINCO DÍAS SIGUIENTES DE SU RECEPCIÓN, QUE SE HAYA CUMPLIDO CON TODOS LOS REQUISITOS SEÑALADOS EN ESTE CÓDIGO;
 
-III. Cualquier solicitud o documentación presentada fuera de dichos plazos será desechada de plano, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Durante el plazo a que se refiere el párrafo anterior, el Consejo Estatal, con base en la información procesada del registro de candidatos que hayan presentado los partidos políticos y coaliciones en el término establecido para las elecciones de Diputados y Ayuntamientos de mayoría relativa, sesionará con el único efecto de determinar el cumplimiento de la paridad horizontal;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-IV. Dentro de los quince días siguientes al vencimiento del plazo de registro, los Consejos Estatal, Distritales y Municipales celebrarán sesión cuyo único objeto será aprobar el registro de las candidaturas que reúnan los requisitos establecidos en la Constitución y en este Código.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+II. DURANTE EL PLAZO A QUE SE REFIERE EL PÁRRAFO ANTERIOR, EL CONSEJO ESTATAL, CON BASE EN LA INFORMACIÓN PROCESADA DEL REGISTRO DE CANDIDATAS Y CANDIDATOS QUE HAYAN PRESENTADO LOS PARTIDOS POLÍTICOS Y COALICIONES EN EL TÉRMINO ESTABLECIDO PARA LAS ELECCIONES DE DIPUTADOS Y AYUNTAMIENTOS DE MAYORÍA RELATIVA, SESIONARÁ CON EL ÚNICO EFECTO DE DETERMINAR EL CUMPLIMIENTO DE LA PARIDAD HORIZONTAL;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II (sic). Vencido el plazo a (sic) referido en el segundo párrafo de este artículo y si se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido político correspondiente para que, dentro de las setenta y dos horas siguientes, subsane el o los requisitos omitidos o sustituya al candidato, siempre que esto pueda realizarse dentro de los plazos que señale este Código. Si transcurrido este lapso el partido político no cumpliera, se le otorgará una prórroga única de veinticuatro horas para cumplimentar, en caso de reincidencia se le sancionará con la pérdida del registro de la candidatura correspondiente;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+III. VENCIDO EL PLAZO A (SIC) REFERIDO EN EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO Y SI SE ADVIERTE QUE HUBO OMISIÓN DE UNO O VARIOS REQUISITOS, SE NOTIFICARÁ DE INMEDIATO AL PARTIDO POLÍTICO CORRESPONDIENTE PARA QUE, DENTRO DE LAS SETENTA Y DOS HORAS SIGUIENTES, SUBSANE EL O LOS REQUISITOS OMITIDOS O SUSTITUYA A LA CANDIDATA O CANDIDATO, SIEMPRE QUE ESTO PUEDA REALIZARSE DENTRO DE LOS PLAZOS QUE SEÑALE ESTE CÓDIGO. SI TRANSCURRIDO ESTE LAPSO EL PARTIDO POLÍTICO, COALICIÓN O CANDIDATURA INDEPENDIENTE, NO CUMPLIERA, SE LE OTORGARÁ UNA PRÓRROGA ÚNICA DE VEINTICUATRO HORAS PARA CUMPLIMENTAR, EN CASO DE REINCIDENCIA SE LE SANCIONARÁ CON LA PÉRDIDA DEL REGISTRO DE LA CANDIDATURA CORRESPONDIENTE;
+
+IV. Cualquier solicitud o documentación presentada fuera de dichos plazos será desechada de plano, y
+
+V. Dentro de los quince días siguientes al vencimiento del plazo de registro, los Consejos Estatal, Distritales y Municipales celebrarán sesión cuyo único objeto será aprobar el registro de las candidaturas que reúnan los requisitos establecidos en la Constitución y en este Código.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 186. Los consejos distritales y municipales electorales comunicarán al Secretario Ejecutivo del Instituto Morelense, el registro de los candidatos que hubiesen efectuado, dentro de las veinticuatro horas siguientes a la fecha en que se realizó dicho registro."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 186.
 
-Los consejos distritales y municipales electorales comunicarán al Secretario Ejecutivo del Instituto Morelense, el registro de los candidatos que hubiesen efectuado, dentro de las veinticuatro horas siguientes a la fecha en que se realizó dicho registro.
+Los consejos distritales y municipales electorales comunicarán a la o a el Secretario Ejecutivo del Instituto Morelense, el registro de las y los candidatos que hubiesen efectuado, dentro de las veinticuatro horas siguientes a la fecha en que se realizó dicho registro.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 187. Para efectos de su difusión, el Consejo Estatal enviará para su publicación y por una sola vez en el Periódico Oficial y en uno de los diarios de mayor circulación en la Entidad, las listas de candidatos registrados ante los organismos electorales, para Gobernador y en su caso para Diputados de mayoría relativa, Diputados de representación proporcional, Presidentes Municipales, Síndicos y Regidores de los ayuntamientos. En caso de sustitución de candidatos la publicación se hará en la misma forma, a más tardar tres días después del acuerdo respectivo."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 187.
 
-Para efectos de su difusión, el Consejo Estatal enviará para su publicación y por una sola vez en el Periódico Oficial y en uno de los diarios de mayor circulación en la Entidad, las listas de candidatos registrados ante los organismos electorales, para Gobernador y en su caso para Diputados de mayoría relativa, Diputados de representación proporcional, Presidentes Municipales, Síndicos y Regidores de los ayuntamientos. En caso de sustitución de candidatos la publicación se hará en la misma forma, a más tardar tres días después del acuerdo respectivo.
+PARA EFECTOS DE SU DIFUSIÓN, EL CONSEJO ESTATAL ENVIARÁ PARA SU PUBLICACIÓN Y POR UNA SOLA VEZ EN EL PERIÓDICO OFICIAL Y EN UNO DE LOS DIARIOS DE MAYOR CIRCULACIÓN EN LA ENTIDAD, LAS LISTAS DE CANDIDATOS REGISTRADOS ANTE LOS ORGANISMOS ELECTORALES, PARA GOBERNADORA O GOBERNADOR Y EN SU CASO PARA DIPUTADAS Y DIPUTADOS DE MAYORÍA RELATIVA, DIPUTADAS Y DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL, PRESIDENTAS O PRESIDENTES MUNICIPALES, SÍNDICAS O SÍNDICOS Y REGIDORES DE LOS AYUNTAMIENTOS. EN CASO DE SUSTITUCIÓN DE CANDIDATURAS LA PUBLICACIÓN SE HARÁ EN LA MISMA FORMA, A MÁS TARDAR TRES DÍAS DESPUÉS DEL ACUERDO RESPECTIVO.
 
 En ningún caso, la falta de publicación afectará la validez y eficacia de los registros aprobados por el Consejo Estatal.
 
 ### CAPÍTULO IV. DE LAS CAMPAÑAS ELECTORALES
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 188. La campaña electoral es el conjunto de actividades que se llevan a cabo por los partidos políticos, las coaliciones y los candidatos registrados para la obtención del voto.
+
+Se entiende por actos de campaña, las reuniones públicas, asambleas, marchas, y en general aquellos actos en que los candidatos o voceros de los partidos políticos se dirigen al electorado para promover sus candidaturas."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 188.
 
-La campaña electoral es el conjunto de actividades que se llevan a cabo por los partidos políticos, las coaliciones y los candidatos registrados para la obtención del voto.
+La campaña electoral es el conjunto de actividades que se llevan a cabo por los partidos políticos, las coaliciones y las y los candidatos registrados para la obtención del voto. Se entiende por actos de campaña, las reuniones públicas, asambleas, marchas, y en general aquellos actos en que las candidatas y candidatos o voceros de los partidos políticos se dirigen al electorado para promover sus candidaturas.
 
-Se entiende por actos de campaña, las reuniones públicas, asambleas, marchas, y en general aquellos actos en que los candidatos o voceros de los partidos políticos se dirigen al electorado para promover sus candidaturas.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 189. El Consejo Estatal podrá a, solicitud de uno o varios partidos políticos o candidatos independientes, organizar la celebración de debates. En el desarrollo de los mismos se garantizará la igualdad entre los participantes así como la seguridad y el respeto a su dignidad personal.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 189.
 
-El Consejo Estatal podrá a, solicitud de uno o varios partidos políticos o candidatos independientes, organizar la celebración de debates. En el desarrollo de los mismos se garantizará la igualdad entre los participantes así como la seguridad y el respeto a su dignidad personal.
+EL CONSEJO ESTATAL PODRÁ A, SOLICITUD DE UNO O VARIOS PARTIDOS POLÍTICOS, CANDIDATAS O CANDIDATOS INDEPENDIENTES, ORGANIZAR LA CELEBRACIÓN DE DEBATES. EN EL DESARROLLO DE LOS MISMOS SE GARANTIZARÁ LA IGUALDAD ENTRE LOS PARTICIPANTES, ASÍ COMO LA SEGURIDAD Y EL RESPETO A SU DIGNIDAD PERSONAL.
 
-En el caso de elección a Gobernador deberá celebrarse cuando menos un debate.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En el caso de elección a Gobernador deberá celebrarse cuando menos un debate.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-El Consejo Estatal organizará y promoverá debates entre los candidatos a Gobernador, Diputados locales y Presidentes Municipales, para lo cual las señales radiodifundidas que el Instituto Morelense genere para este fin, podrán ser utilizadas en vivo y en forma gratuita por los demás concesionarios de radio y televisión, así como por otros concesionarios de telecomunicaciones.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-En el supuesto del párrafo anterior, los debates de los candidatos a Gobernador, deberán ser transmitidos por las estaciones de radio y televisión de las concesionarias locales de uso público en el Estado.
+EN EL CASO DE ELECCIÓN A GOBERNADORA O GOBERNADOR DEBERÁ CELEBRARSE CUANDO MENOS UN DEBATE.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “El Consejo Estatal organizará y promoverá debates entre los candidatos a Gobernador, Diputados locales y Presidentes Municipales, para lo cual las señales radiodifundidas que el Instituto Morelense genere para este fin, podrán ser utilizadas en vivo y en forma gratuita por los demás concesionarios de radio y televisión, así como por otros concesionarios de telecomunicaciones.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+EL CONSEJO ESTATAL ORGANIZARÁ Y PROMOVERÁ DEBATES ENTRE LAS Y LOS CANDIDATOS A GOBERNADORA O GOBERNADOR, DIPUTADAS Y DIPUTADOS LOCALES Y PRESIDENTAS O PRESIDENTES MUNICIPALES, PARA LO CUAL LAS SEÑALES RADIODIFUNDIDAS QUE EL INSTITUTO MORELENSE GENERE PARA ESTE FIN, PODRÁN SER UTILIZADAS EN VIVO Y EN FORMA GRATUITA POR LOS DEMÁS CONCESIONARIOS DE RADIO Y TELEVISIÓN, ASÍ COMO POR OTROS CONCESIONARIOS DE TELECOMUNICACIONES.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En el supuesto del párrafo anterior, los debates de los candidatos a Gobernador, deberán ser transmitidos por las estaciones de radio y televisión de las concesionarias locales de uso público en el Estado.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+EN EL SUPUESTO DEL PÁRRAFO ANTERIOR, LOS DEBATES DE LAS Y LOS CANDIDATOS A GOBERNADOR, DEBERÁN SER TRANSMITIDOS POR LAS ESTACIONES DE RADIO Y TELEVISIÓN DE LAS CONCESIONARIAS LOCALES DE USO PÚBLICO EN EL ESTADO.
 
 El Instituto Nacional promoverá, a petición del Instituto Morelense, la transmisión de los debates por parte de otros concesionarios de radiodifusión con cobertura en el Estado y de telecomunicaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEXTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Las Cámaras, Sindicatos, los medios de comunicación locales y cualquier otra organización de ciudadanos, podrán organizar libremente debates entre candidatos, siempre y cuando cumplan con lo siguiente:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Las Cámaras, Sindicatos, los medios de comunicación locales y cualquier otra organización de ciudadanos, podrán organizar libremente debates entre candidatos, siempre y cuando cumplan con lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS CÁMARAS, SINDICATOS, LOS MEDIOS DE COMUNICACIÓN LOCALES Y CUALQUIER OTRA ORGANIZACIÓN DE CIUDADANOS, PODRÁN ORGANIZAR LIBREMENTE DEBATES ENTRE CANDIDATAS Y CANDIDATOS, SIEMPRE Y CUANDO CUMPLAN CON LO SIGUIENTE:
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -3449,9 +4489,13 @@ El Instituto Morelense determinará la viabilidad en la realización de los cont
 
 De igual manera, las personas físicas o morales que realicen estos conteos pondrán a consideración las metodologías y financiamiento para su elaboración y términos para dar a conocer los resultados de conformidad con los criterios que para cada caso se determinen.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 192. La campaña electoral para Gobernador durará 60 días y las de Diputados al Congreso y ayuntamientos 45 días. Se iniciarán de conformidad con el calendario aprobado por el Consejo Estatal para cada proceso electoral. Durante los tres días anteriores a la jornada electoral y durante ésta, no se permitirá la celebración de actos de campaña."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 192.
 
-La campaña electoral para Gobernador durará 60 días y las de Diputados al Congreso y ayuntamientos 45 días. Se iniciarán de conformidad con el calendario aprobado por el Consejo Estatal para cada proceso electoral. Durante los tres días anteriores a la jornada electoral y durante ésta, no se permitirá la celebración de actos de campaña.
+La campaña electoral para Gobernadora o Gobernador durará 60 días y las de Diputadas y Diputados al Congreso y Ayuntamientos 45 días. Se iniciarán de conformidad con el calendario aprobado por el Consejo Estatal para cada proceso electoral. Durante los tres días anteriores a la jornada electoral y durante ésta, no se permitirá la celebración de actos de campaña.
 
 ###### Artículo 193.
 
@@ -3473,9 +4517,13 @@ Los tres días anteriores al de la elección y éste inclusive, los Jueces de Pa
 
 Para dar cumplimiento a esta disposición, el Consejo Estatal publicará, en un diario de mayor circulación o bien mediante circulares u oficios en las casillas o cualquier otro medio de difusión, cinco días antes del día de la elección, los nombres de las autoridades o fedatarios antes citados, así como la ubicación de sus respectivas oficinas.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 196. Los gastos de cada campaña electoral que realicen los partidos políticos, las coaliciones y los candidatos, en la propaganda electoral y en las actividades de campaña, no podrán rebasar los topes que para cada elección determine el Consejo Estatal, en los términos de este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 196.
 
-Los gastos de cada campaña electoral que realicen los partidos políticos, las coaliciones y los candidatos, en la propaganda electoral y en las actividades de campaña, no podrán rebasar los topes que para cada elección determine el Consejo Estatal, en los términos de este Código.
+LOS GASTOS DE CADA CAMPAÑA ELECTORAL QUE REALICEN LOS PARTIDOS POLÍTICOS, LAS COALICIONES Y LAS Y LOS CANDIDATOS, EN LA PROPAGANDA ELECTORAL Y EN LAS ACTIVIDADES DE CAMPAÑA, NO PODRÁN REBASAR LOS TOPES QUE PARA CADA ELECCIÓN DETERMINE EL CONSEJO ESTATAL, EN LOS TÉRMINOS DE ESTE CÓDIGO.
 
 Para los efectos de este artículo, quedarán comprendidos dentro de los topes de gasto los siguientes conceptos:
 
@@ -3493,9 +4541,17 @@ No se consideran dentro de los topes de campaña, los gastos que realicen los pa
 
 Para la determinación de los topes de campaña el Consejo Estatal aplicará las siguientes reglas:
 
-a) En el caso de la elección a Gobernador se multiplicará el número de ciudadanos inscritos en el padrón electoral del Estado por un veinticinco por ciento de la Unidad de Medida y Actualización; y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO A) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) En el caso de la elección a Gobernador se multiplicará el número de ciudadanos inscritos en el padrón electoral del Estado por un veinticinco por ciento de la Unidad de Medida y Actualización; y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-b) En el caso de la elección a Diputados y ayuntamientos se multiplicará el número de ciudadanos inscritos en el padrón electoral de que se trate por municipio o distrito, según sea la elección, por un veinte por ciento de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+a) EN EL CASO DE LA ELECCIÓN A GOBERNADORA O GOBERNADOR SE MULTIPLICARÁ EL NÚMERO DE CIUDADANOS INSCRITOS EN EL PADRÓN ELECTORAL DEL ESTADO POR UN VEINTICINCO POR CIENTO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO B) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) En el caso de la elección a Diputados y ayuntamientos se multiplicará el número de ciudadanos inscritos en el padrón electoral de que se trate por municipio o distrito, según sea la elección, por un veinte por ciento de la Unidad de Medida y Actualización.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+b) EN EL CASO DE LA ELECCIÓN A DIPUTADAS Y DIPUTADOS, ASÍ COMO AYUNTAMIENTOS SE MULTIPLICARÁ EL NÚMERO DE CIUDADANOS INSCRITOS EN EL PADRÓN ELECTORAL DE QUE SE TRATE POR MUNICIPIO O DISTRITO, SEGÚN SEA LA ELECCIÓN, POR UN VEINTE POR CIENTO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.
 
 En los municipios que tengan un padrón electoral menor a veinte mil ciudadanos, se multiplicará veinte mil por el veinte por ciento de la Unidad de Medida y Actualización.
 
@@ -3509,9 +4565,13 @@ I. Las autoridades estatales y municipales deberán dar un trato equitativo en e
 
 II. Los partidos políticos y los candidatos independientes deberán solicitar el uso de los locales con anticipación suficiente, señalando la naturaleza del acto a realizar, las horas necesarias para el evento, los requerimientos de la instalación y el responsable autorizado por el partido político que se hará cargo del buen uso de las instalaciones.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 199. El Consejero Presidente del Consejo Estatal podrá solicitar a las autoridades competentes las medidas de seguridad personal para los candidatos a gobernador que lo requieran, desde el momento en que, de acuerdo con los mecanismos internos de su partido y ante el organismo electoral respectivo, obtengan tal carácter."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 199.
 
-El Consejero Presidente del Consejo Estatal podrá solicitar a las autoridades competentes las medidas de seguridad personal para los candidatos a gobernador que lo requieran, desde el momento en que, de acuerdo con los mecanismos internos de su partido y ante el organismo electoral respectivo, obtengan tal carácter.
+La o el Consejero Presidente del Consejo Estatal podrá solicitar a las autoridades competentes las medidas de seguridad personal para las candidatas o candidatos a gobernadora o gobernador que lo requieran, desde el momento en que, de acuerdo con los mecanismos internos de su partido y ante el organismo electoral respectivo, obtengan tal carácter.
 
 ###### Artículo 200.
 
@@ -3543,9 +4603,11 @@ Para la emisión del voto, el Consejo Estatal tomará las medidas de certeza y s
 
 El modelo de las boletas para ejercer los mecanismos de participación ciudadana, será determinado por el Consejo Estatal.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En la boleta electoral se podrá incluir a solicitud de los candidatos a Gobernador, Diputados locales o Presidentes Municipales, su fotografía, así como su sobrenombre.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-En la boleta electoral se podrá incluir a solicitud de los candidatos a Gobernador, Diputados locales o Presidentes Municipales, su fotografía, así como su sobrenombre.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+EN LA BOLETA ELECTORAL SE PODRÁ INCLUIR A SOLICITUD DE LAS Y LOS CANDIDATOS A GOBERNADORA O GOBERNADOR, DIPUTADAS Y DIPUTADOS LOCALES O PRESIDENTAS O PRESIDENTES MUNICIPALES, SU FOTOGRAFÍA, ASÍ COMO SU SOBRENOMBRE.
 
 ###### Artículo 203.
 
@@ -3555,9 +4617,13 @@ En caso de cancelación del registro o sustitución de uno o más candidatos, no
 
 Las boletas estarán en poder de los consejos municipales, a más tardar quince días anteriores a la elección.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 205. Los consejeros presidentes de cada consejo municipal entregarán a los presidentes de mesa directiva de casilla dentro de los cinco días previos a la elección y contra recibo correspondiente, detallando, en su caso, lo siguiente:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 205.
 
-Los consejeros presidentes de cada consejo municipal entregarán a los presidentes de mesa directiva de casilla dentro de los cinco días previos a la elección y contra recibo correspondiente, detallando, en su caso, lo siguiente:
+LAS Y LOS CONSEJEROS PRESIDENTES DE CADA CONSEJO MUNICIPAL ENTREGARÁN A LAS Y LOS PRESIDENTES DE MESA DIRECTIVA DE CASILLA DENTRO DE LOS CINCO DÍAS PREVIOS A LA ELECCIÓN Y CONTRA RECIBO CORRESPONDIENTE, DETALLANDO, EN SU CASO, LO SIGUIENTE:
 
 I. La lista nominal con fotografía de electores que podrán votar en la casilla;
 
@@ -3579,7 +4645,11 @@ IX. Los canceles o elementos modulares que garanticen que el elector pueda emiti
 
 La entrega del material a que se refieren los incisos que preceden, se hará con la participación de los integrantes del consejo que decidan asistir.
 
-A los presidentes de mesas directivas de casillas especiales les será entregada la documentación y materiales a que se refiere este artículo, con excepción de la lista nominal de electores, en lugar de la cual, recibirán las formas especiales para anotar los datos de los electores que estando transitoriamente fuera de su sección voten en la casilla especial. El número de boletas que reciban no será superior a 750.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “A los presidentes de mesas directivas de casillas especiales les será entregada la documentación y materiales a que se refiere este artículo, con excepción de la lista nominal de electores, en lugar de la cual, recibirán las formas especiales para anotar los datos de los electores que estando transitoriamente fuera de su sección voten en la casilla especial. El número de boletas que reciban no será superior a 750.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+A LAS Y LOS PRESIDENTES DE MESAS DIRECTIVAS DE CASILLAS ESPECIALES LES SERÁ ENTREGADA LA DOCUMENTACIÓN Y MATERIALES A QUE SE REFIERE ESTE ARTÍCULO, CON EXCEPCIÓN DE LA LISTA NOMINAL DE ELECTORES, EN LUGAR DE LA CUAL, RECIBIRÁN LAS FORMAS ESPECIALES PARA ANOTAR LOS DATOS DE LOS ELECTORES QUE ESTANDO TRANSITORIAMENTE FUERA DE SU SECCIÓN VOTEN EN LA CASILLA ESPECIAL. EL NÚMERO DE BOLETAS QUE RECIBAN NO SERÁ SUPERIOR A 750.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -3953,13 +5023,21 @@ d) La información de los hechos que puedan influir o alterar el resultado de la
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 239. Los ciudadanos morelenses que residan en el extranjero podrán ejercer su derecho al voto exclusivamente para la elección de Gobernador Constitucional del Estado.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 239.
 
-Los ciudadanos morelenses que residan en el extranjero podrán ejercer su derecho al voto exclusivamente para la elección de Gobernador Constitucional del Estado.
+Las y los ciudadanos morelenses que residan en el extranjero podrán ejercer su derecho al voto exclusivamente para la elección de Gobernador Constitucional del Estado.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 240. Para el ejercicio del voto los ciudadanos morelenses que residan en el extranjero se atenderá a lo establecido en la Constitución Federal, la Constitución y la Ley General de Instituciones y Procedimientos Electorales.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 240.
 
-Para el ejercicio del voto los ciudadanos morelenses que residan en el extranjero se atenderá a lo establecido en la Constitución Federal, la Constitución y la Ley General de Instituciones y Procedimientos Electorales.
+Para el ejercicio del voto las y los ciudadanos morelenses que residan en el extranjero se atenderá a lo establecido en la Constitución Federal, la Constitución y la Ley General de Instituciones y Procedimientos Electorales.
 
 ## TITULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN, DE LOS RESULTADOS ELECTORALES, DEL RECUENTO Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN
 
@@ -4117,27 +5195,45 @@ El recuento jurisdiccional deberá desahogarse a partir del acuerdo respectivo.
 
 Concluido el cómputo, los consejeros presidentes de los consejos distritales o municipales, deberán fijar en el exterior del local los resultados de la elección correspondiente.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 254. Por cuanto hace a la elección de Gobernador, se declarará la validez de la elección y se entregará constancia de mayoría al candidato triunfador.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 254.
 
-Por cuanto hace a la elección de Gobernador, se declarará la validez de la elección y se entregará constancia de mayoría al candidato triunfador.
+POR CUANTO HACE A LA ELECCIÓN DE GOBERNADORA O GOBERNADOR, SE DECLARARÁ LA VALIDEZ DE LA ELECCIÓN Y SE ENTREGARÁ CONSTANCIA DE MAYORÍA AL CANDIDATO TRIUNFADOR.
 
-En relación a la elección de Diputados por el principio de representación proporcional y de regidores a los ayuntamientos, concluido el proceso de cómputo, el Consejo Estatal hará la asignación de los Diputados plurinominales y regidores, declarará en su caso, la validez de las elecciones y entregará constancia a los candidatos electos.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En relación a la elección de Diputados por el principio de representación proporcional y de regidores a los ayuntamientos, concluido el proceso de cómputo, el Consejo Estatal hará la asignación de los Diputados plurinominales y regidores, declarará en su caso, la validez de las elecciones y entregará constancia a los candidatos electos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+EN RELACIÓN A LA ELECCIÓN DE DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y DE REGIDORES A LOS AYUNTAMIENTOS, CONCLUIDO EL PROCESO DE CÓMPUTO, EL CONSEJO ESTATAL HARÁ LA ASIGNACIÓN DE LAS Y LOS DIPUTADOS PLURINOMINALES Y REGIDORES, DECLARARÁ EN SU CASO, LA VALIDEZ DE LAS ELECCIONES Y ENTREGARÁ CONSTANCIA A LOS CANDIDATOS ELECTOS.
 
 Los cómputos y la asignación, se efectuará el séptimo día de la jornada electoral.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 255. El cómputo total y la declaración de validez de las elecciones de Gobernador y Diputados por el principio de representación proporcional, así como de los mecanismos de participación ciudadana, corresponde, en primera instancia, al Consejo Estatal.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 255.
 
-El cómputo total y la declaración de validez de las elecciones de Gobernador y Diputados por el principio de representación proporcional, así como de los mecanismos de participación ciudadana, corresponde, en primera instancia, al Consejo Estatal.
+El cómputo total y la declaración de validez de las elecciones de Gobernadora o Gobernador y Diputadas y Diputados por el principio de representación proporcional, así como de los mecanismos de participación ciudadana, corresponde, en primera instancia, al Consejo Estatal.
 
 ###### Artículo 256.
 
 El Consejo Estatal hará la asignación de regidores a los ayuntamientos.
 
-Las declaraciones de Diputados por ambos principios deberán remitirse al Congreso.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Las declaraciones de Diputados por ambos principios deberán remitirse al Congreso.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-El Consejo Estatal realizará la asignación de regidores a los ayuntamientos.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS DECLARACIONES DE DIPUTADAS Y DIPUTADOS POR AMBOS PRINCIPIOS DEBERÁN REMITIRSE AL CONGRESO.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “El Consejo Estatal realizará la asignación de regidores a los ayuntamientos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+EL CONSEJO ESTATAL REALIZARÁ LA ASIGNACIÓN DE REGIDORAS Y REGIDORES A LOS AYUNTAMIENTOS.
 
 ###### Artículo 257.
 
@@ -4151,9 +5247,13 @@ En los recursos que se interpongan de la etapa posterior a la elección, el Trib
 
 El Congreso, con base en las resoluciones emitidas por el Consejo Estatal y por el Tribunal Electoral, declarará legalmente integrada la Legislatura y, en su caso, convocará a elecciones extraordinarias en aquellos distritos en donde hubiere resultado procedente la nulidad de la elección.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 259. En el caso de la elección de Gobernador, el Congreso, una vez instalado, recibirá la declaración del Consejo Estatal o resolución del Tribunal Electoral, según sea el caso, emitirá el Bando Solemne respectivo, el cual deberá enviarse para su publicación en el Periódico Oficial.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 259.
 
-En el caso de la elección de Gobernador, el Congreso, una vez instalado, recibirá la declaración del Consejo Estatal o resolución del Tribunal Electoral, según sea el caso, emitirá el Bando Solemne respectivo, el cual deberá enviarse para su publicación en el Periódico Oficial.
+En el caso de la elección de Gobernadora o Gobernador, el Congreso, una vez instalado, recibirá la declaración del Consejo Estatal o resolución del Tribunal Electoral, según sea el caso, emitirá el Bando Solemne respectivo, el cual deberá enviarse para su publicación en el Periódico Oficial.
 
 # LIBRO SEXTO. DE LAS CANDIDATURAS INDEPENDIENTES
 
@@ -4165,37 +5265,69 @@ En el caso de la elección de Gobernador, el Congreso, una vez instalado, recibi
 
 Además de los derechos y obligaciones establecidos en el presente Código, las candidaturas independientes se regularán de conformidad a lo dispuesto en este Libro.
 
-Las candidaturas independientes para Gobernador, Diputados por el principio de mayoría relativa y miembros de los ayuntamientos se regularán de acuerdo a lo establecido en este Código y demás disposiciones aplicables.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Las candidaturas independientes para Gobernador, Diputados por el principio de mayoría relativa y miembros de los ayuntamientos se regularán de acuerdo a lo establecido en este Código y demás disposiciones aplicables.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS CANDIDATURAS INDEPENDIENTES PARA GOBERNADORA O GOBERNADOR, DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA Y MIEMBROS DE LOS AYUNTAMIENTOS SE REGULARÁN DE ACUERDO A LO ESTABLECIDO EN ESTE CÓDIGO Y DEMÁS DISPOSICIONES APLICABLES.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 261. Los ciudadanos morelenses tendrán el derecho de solicitar su registro ante el Instituto Morelense de manera independiente cumpliendo con los requisitos y términos establecidos por la normatividad en la materia.
+
+Los candidatos independientes tendrán derecho de acceso a prerrogativas y tiempo en los medios de comunicación para las campañas electorales en los términos que señale la misma normatividad correspondiente."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 261.
 
-Los ciudadanos morelenses tendrán el derecho de solicitar su registro ante el Instituto Morelense de manera independiente cumpliendo con los requisitos y términos establecidos por la normatividad en la materia.
+Las y los ciudadanos morelenses tendrán el derecho de solicitar su registro ante el Instituto Morelense de manera independiente cumpliendo con los requisitos y términos establecidos por la normatividad en la materia.
 
-Los candidatos independientes tendrán derecho de acceso a prerrogativas y tiempo en los medios de comunicación para las campañas electorales en los términos que señale la misma normatividad correspondiente.
+Las y los candidatos independientes tendrán derecho de acceso a prerrogativas y tiempo en los medios de comunicación para las campañas electorales en los términos que señale la misma normatividad correspondiente.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 262. Los ciudadanos que cumplan con los requisitos, condiciones y términos establecidos por la legislación aplicable, tendrán derecho a participar y, en su caso, a ser registrados como candidatos independientes para ocupar los siguientes cargos de elección popular:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 262.
 
-Los ciudadanos que cumplan con los requisitos, condiciones y términos establecidos por la legislación aplicable, tendrán derecho a participar y, en su caso, a ser registrados como candidatos independientes para ocupar los siguientes cargos de elección popular:
+LAS Y LOS CIUDADANOS QUE CUMPLAN CON LOS REQUISITOS, CONDICIONES Y TÉRMINOS ESTABLECIDOS POR LA LEGISLACIÓN APLICABLE, TENDRÁN DERECHO A PARTICIPAR Y, EN SU CASO, A SER REGISTRADOS COMO CANDIDATOS INDEPENDIENTES PARA OCUPAR LOS SIGUIENTES CARGOS DE ELECCIÓN POPULAR:
 
-a) Gobernador del Estado;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO A) DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) Gobernador del Estado;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-b) Diputado por el principio de mayoría relativa, y
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-c) Presidente Municipal y Síndico.
+a) GOBERNADORA O GOBERNADOR DEL ESTADO;
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO B) DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) Diputado por el principio de mayoría relativa, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-No procederá el registro de aspirantes a candidatos independientes por el principio de representación proporcional, en tratándose de la elección de diputados por este principio.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+b) DIPUTADA O DIPUTADO POR EL PRINCIPIO DE MAYORÍA RELATIVA, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) Presidente Municipal y Síndico.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c) PRESIDENTA O PRESIDENTE MUNICIPAL Y SÍNDICA O SÍNDICO.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “No procederá el registro de aspirantes a candidatos independientes por el principio de representación proporcional, en tratándose de la elección de diputados por este principio.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+NO PROCEDERÁ EL REGISTRO DE ASPIRANTES A CANDIDATAS O CANDIDATOS INDEPENDIENTES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, EN TRATÁNDOSE DE LA ELECCIÓN DE DIPUTADAS O DIPUTADOS POR ESTE PRINCIPIO.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 En la convocatoria que al efecto expida el Consejo Estatal, se determinará la participación de los candidatos independientes en la elección de que se trate, por distrito y por municipio, debiendo ser quienes obtengan el porcentaje de apoyo requerido en los términos de este Código.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 263. Los candidatos independientes para el cargo de Diputado deberán registrar la fórmula correspondiente de propietario y suplente. En el caso de candidatos independientes para la integración de ayuntamiento, se deberá registrar una lista completa de candidatos a Presidente Municipal, Síndico y regidores, propietarios y suplentes, quienes tendrán derecho de participar en la asignación por representación proporcional.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 263.
 
-Los candidatos independientes para el cargo de Diputado deberán registrar la fórmula correspondiente de propietario y suplente. En el caso de candidatos independientes para la integración de ayuntamiento, se deberá registrar una lista completa de candidatos a Presidente Municipal, Síndico y regidores, propietarios y suplentes, quienes tendrán derecho de participar en la asignación por representación proporcional.
+Las candidatas y los candidatos independientes para el cargo de Diputada y Diputado deberán registrar la fórmula correspondiente de propietario y suplente, ambos del mismo género.
+
+En el caso de candidaturas independientes para la integración de Ayuntamiento, se deberá registrar una lista completa de las candidatas y los candidatos a la Presidencia Municipal, Sindicatura y Regidurías, propietarios y suplentes, quienes tendrán derecho de participar en la asignación por representación proporcional.
 
 ###### Artículo 264.
 
@@ -4205,45 +5337,85 @@ Los candidatos independientes que hayan participado en una elección ordinaria q
 
 ### CAPÍTULO I. DISPOSICIÓN GENERAL
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 265. El proceso de selección de los candidatos independientes comprende las siguientes etapas:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 265.
 
-El proceso de selección de los candidatos independientes comprende las siguientes etapas:
+EL PROCESO DE SELECCIÓN DE LAS Y LOS CANDIDATOS INDEPENDIENTES COMPRENDE LAS SIGUIENTES ETAPAS:
 
 a) De la Convocatoria;
 
-b) De los actos previos al registro de candidatos independientes;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO B) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) De los actos previos al registro de candidatos independientes;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+b) DE LOS ACTOS PREVIOS AL REGISTRO DE LAS Y LOS CANDIDATOS INDEPENDIENTES;
 
 c) De la obtención del apoyo ciudadano, y
 
-d) Del registro de candidatos independientes.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO D) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) Del registro de candidatos independientes.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+d) DEL REGISTRO DE LAS Y LOS CANDIDATOS INDEPENDIENTES.
 
 ### CAPÍTULO II. DE LA CONVOCATORIA
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 266. El Consejo Estatal emitirá la Convocatoria dirigida a los ciudadanos interesados en postularse como candidatos independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, los topes de gastos que pueden erogar y los formatos para ello.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 266.
 
-El Consejo Estatal emitirá la Convocatoria dirigida a los ciudadanos interesados en postularse como candidatos independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, los topes de gastos que pueden erogar y los formatos para ello.
+EL CONSEJO ESTATAL EMITIRÁ LA CONVOCATORIA DIRIGIDA A LAS Y LOS CIUDADANOS INTERESADOS EN POSTULARSE COMO CANDIDATAS Y CANDIDATOS INDEPENDIENTES, SEÑALANDO LOS CARGOS DE ELECCIÓN POPULAR A LOS QUE PUEDEN ASPIRAR, LOS REQUISITOS QUE DEBEN CUMPLIR, LA DOCUMENTACIÓN COMPROBATORIA REQUERIDA, LOS PLAZOS PARA RECABAR EL APOYO CIUDADANO CORRESPONDIENTE, LOS TOPES DE GASTOS QUE PUEDEN EROGAR Y LOS FORMATOS PARA ELLO.
 
 El Instituto Morelense dará amplia difusión a la convocatoria respectiva y para tal efecto, el Consejo Estatal enviará para su publicación y por una sola vez en el Periódico Oficial y en uno de los diarios de mayor circulación en la Entidad.
 
 ### CAPÍTULO III. DE LOS ACTOS PREVIOS AL REGISTRO DE CANDIDATOS INDEPENDIENTES
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 267. Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular, deberán hacerlo del conocimiento del Instituto Morelense, por escrito en el formato que éste determine, a partir del día siguiente al en que se publique oficialmente la convocatoria y hasta que dé inicio el periodo para recabar el apoyo ciudadano correspondiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 267.
 
-Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular, deberán hacerlo del conocimiento del Instituto Morelense, por escrito en el formato que éste determine, a partir del día siguiente al en que se publique oficialmente la convocatoria y hasta que dé inicio el periodo para recabar el apoyo ciudadano correspondiente.
+LAS Y LOS CIUDADANOS QUE PRETENDAN POSTULAR SU CANDIDATURA INDEPENDIENTE A UN CARGO DE ELECCIÓN POPULAR, DEBERÁN HACERLO DEL CONOCIMIENTO DEL INSTITUTO MORELENSE, POR ESCRITO EN EL FORMATO QUE ÉSTE DETERMINE, A PARTIR DEL DÍA SIGUIENTE AL EN QUE SE PUBLIQUE OFICIALMENTE LA CONVOCATORIA Y HASTA QUE DÉ INICIO EL PERIODO PARA RECABAR EL APOYO CIUDADANO CORRESPONDIENTE.
 
 La organización y desarrollo de la elección de candidaturas independientes atenderá las siguientes reglas:
 
-a) Los aspirantes a Gobernador del Estado, ante el Consejo Estatal del Instituto Morelense;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO A) DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) Los aspirantes a Gobernador del Estado, ante el Consejo Estatal del Instituto Morelense;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-b) Los aspirantes al cargo de Diputado por el principio de mayoría relativa, ante el consejo distrital correspondiente, y
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-c) Los aspirantes al cargo de Presidente Municipal y Síndico, ante el consejo municipal respectivo.
+a) LAS Y LOS ASPIRANTES A LA GUBERNATURA DEL ESTADO, ANTE EL CONSEJO ESTATAL DEL INSTITUTO MORELENSE;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO B) DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) Los aspirantes al cargo de Diputado por el principio de mayoría relativa, ante el consejo distrital correspondiente, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+b) LAS Y LOS ASPIRANTES A LA DIPUTACIÓN POR EL PRINCIPIO DE MAYORÍA RELATIVA, ANTE EL CONSEJO DISTRITAL CORRESPONDIENTE, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) Los aspirantes al cargo de Presidente Municipal y Síndico, ante el consejo municipal respectivo.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c) LAS Y LOS ASPIRANTES AL CARGO DE LA PRESIDENCIA MUNICIPAL Y SINDICATURA, ANTE EL CONSEJO MUNICIPAL RESPECTIVO.
 
 Una vez hecha la comunicación a que se refiere el primer párrafo de este artículo y recibida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirantes.
 
-Con la manifestación de intención, el candidato independiente deberá presentar la documentación que acredite la creación de una nueva persona moral, constituida en asociación civil, exclusivamente a propósito de participar como candidato independiente alguno de sus integrantes, la cual deberá tener el mismo tratamiento que un partido político en el régimen fiscal. El Consejo Estatal establecerá la propuesta del modelo de contrato y estatutos de la asociación civil. De la misma manera deberá acreditar su alta ante el Sistema de Administración Tributaria y anexar los datos de la cuenta bancaria aperturada a nombre de la persona moral para recibir el financiamiento público y privado correspondiente.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Con la manifestación de intención, el candidato independiente deberá presentar la documentación que acredite la creación de una nueva persona moral, constituida en asociación civil, exclusivamente a propósito de participar como candidato independiente alguno de sus integrantes, la cual deberá tener el mismo tratamiento que un partido político en el régimen fiscal. El Consejo Estatal establecerá la propuesta del modelo de contrato y estatutos de la asociación civil. De la misma manera deberá acreditar su alta ante el Sistema de Administración Tributaria y anexar los datos de la cuenta bancaria aperturada a nombre de la persona moral para recibir el financiamiento público y privado correspondiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-La persona moral a la que se refiere el párrafo anterior deberá estar constituida con por lo menos el aspirante a candidato independiente, su representante legal y el encargado de la administración de los recursos de la candidatura independiente.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+CON LA MANIFESTACIÓN DE INTENCIÓN, LA Y EL CANDIDATO INDEPENDIENTE DEBERÁ PRESENTAR LA DOCUMENTACIÓN QUE ACREDITE LA CREACIÓN DE UNA NUEVA PERSONA MORAL, CONSTITUIDA EN ASOCIACIÓN CIVIL, EXCLUSIVAMENTE A PROPÓSITO DE PARTICIPAR COMO CANDIDATA O CANDIDATO INDEPENDIENTE ALGUNO DE SUS INTEGRANTES, LA CUAL DEBERÁ TENER EL MISMO TRATAMIENTO QUE UN PARTIDO POLÍTICO EN EL RÉGIMEN FISCAL. EL CONSEJO ESTATAL ESTABLECERÁ LA PROPUESTA DEL MODELO DE CONTRATO Y ESTATUTOS DE LA ASOCIACIÓN CIVIL. DE LA MISMA MANERA DEBERÁ ACREDITAR SU ALTA ANTE EL SISTEMA DE ADMINISTRACIÓN TRIBUTARIA Y ANEXAR LOS DATOS DE LA CUENTA BANCARIA APERTURADA A NOMBRE DE LA PERSONA MORAL PARA RECIBIR EL FINANCIAMIENTO PÚBLICO Y PRIVADO CORRESPONDIENTE.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL QUINTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “La persona moral a la que se refiere el párrafo anterior deberá estar constituida con por lo menos el aspirante a candidato independiente, su representante legal y el encargado de la administración de los recursos de la candidatura independiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LA PERSONA MORAL A LA QUE SE REFIERE EL PÁRRAFO ANTERIOR DEBERÁ ESTAR CONSTITUIDA CON POR LO MENOS LA O EL ASPIRANTE A CANDIDATO INDEPENDIENTE, SU REPRESENTANTE LEGAL Y EL ENCARGADO DE LA ADMINISTRACIÓN DE LOS RECURSOS DE LA CANDIDATURA INDEPENDIENTE.
 
 ### CAPÍTULO IV. DE LA OBTENCIÓN DEL APOYO CIUDADANO
 
@@ -4251,19 +5423,29 @@ La persona moral a la que se refiere el párrafo anterior deberá estar constitu
 
 A partir del día siguiente de la fecha en que obtengan la calidad de aspirantes, éstos podrán realizar actos tendentes a recabar el porcentaje de apoyo ciudadano requerido por medios diversos a la radio y la televisión.
 
-Los actos tendientes a recabar el apoyo ciudadano en los procesos en que se elijan a Gobernador, Diputados, Presidente y Síndico, se sujetarán a los siguientes plazos, según corresponda:
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los actos tendientes a recabar el apoyo ciudadano en los procesos en que se elijan a Gobernador, Diputados, Presidente y Síndico, se sujetarán a los siguientes plazos, según corresponda:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-a) Los aspirantes a Candidato Independiente para el cargo de Gobernador, contarán con cuarenta y cinco días;
+LOS ACTOS TENDIENTES A RECABAR EL APOYO CIUDADANO EN LOS PROCESOS EN QUE SE ELIJAN A GOBERNADORA O GOBERNADOR, DIPUTADAS Y DIPUTADOS, PRESIDENTA O PRESIDENTE Y SÍNDICA O SÍNDICO, SE SUJETARÁN A LOS SIGUIENTES PLAZOS, SEGÚN CORRESPONDA:
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO A) DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) Los aspirantes a Candidato Independiente para el cargo de Gobernador, contarán con cuarenta y cinco días;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-b) Los aspirantes a Candidato Independiente para el cargo de Diputado, contarán con treinta y cinco días, y
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+a) LAS Y LOS ASPIRANTES A CANDIDATA O CANDIDATO INDEPENDIENTE PARA EL CARGO DE GOBERNADORA O GOBERNADOR, CONTARÁN CON CUARENTA Y CINCO DÍAS;
 
-c) Los aspirantes a Candidato Independiente para el cargo de Presidente, Síndico y regidores contarán con treinta y cinco días.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO B) DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) Los aspirantes a Candidato Independiente para el cargo de Diputado, contarán con treinta y cinco días, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+b) LAS Y LOS ASPIRANTES A CANDIDATA O CANDIDATO INDEPENDIENTE PARA EL CARGO DE DIPUTADA O DIPUTADO, CONTARÁN CON TREINTA Y CINCO DÍAS, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) Los aspirantes a Candidato Independiente para el cargo de Presidente, Síndico y regidores contarán con treinta y cinco días.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c) LAS Y LOS ASPIRANTES A CANDIDATA O CANDIDATOS INDEPENDIENTE PARA EL CARGO DE PRESIDENTA O PRESIDENTE, SÍNDICA O SÍNDICO, REGIDORAS Y REGIDORES, CONTARÁN CON TREINTA Y CINCO DÍAS.
 
 El Consejo Estatal podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los plazos de registro y que la duración de los actos tendentes a recabar el apoyo ciudadano se ciñan a lo establecido en los incisos anteriores. Cualquier ajuste que el Consejo Estatal realice deberá ser difundido ampliamente.
 
@@ -4271,13 +5453,23 @@ El Consejo Estatal podrá realizar ajustes a los plazos establecidos en este art
 
 Se entiende por actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas y todas aquellas actividades dirigidas a la ciudadanía en general, que realicen los aspirantes con el objeto de obtener el apoyo ciudadano para satisfacer el requisito en los términos de este Código.
 
-###### Artículo 270.
-
-Para la candidatura de Gobernador, la cédula de respaldo deberá contener la firma de una cantidad de ciudadanos equivalente al 2% o más de la lista nominal de electores con corte al 31 de agosto del año previo al de la elección y estar integrada por electores de por lo menos 17 municipios, que sumen cuando menos el 1% o más de ciudadanos que figuren en la lista nominal de electores en cada uno de ellos.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 270. Para la candidatura de Gobernador, la cédula de respaldo deberá contener la firma de una cantidad de ciudadanos equivalente al 2% o más de la lista nominal de electores con corte al 31 de agosto del año previo al de la elección y estar integrada por electores de por lo menos 17 municipios, que sumen cuando menos el 1% o más de ciudadanos que figuren en la lista nominal de electores en cada uno de ellos.
 
 Para fórmulas de Diputados de mayoría relativa, la cédula de respaldo deberá contener la firma de una cantidad de ciudadanos equivalente al 2% o más de la lista nominal de electores correspondiente al Distrito local electoral correspondiente, con corte al 31 de agosto del año previo al de la elección y estar integrada por ciudadanos de por lo menos de la mitad de las secciones electorales que sumen el 2% o más de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
 
 Para la planilla de Presidente Municipal y Síndico, la cédula de respaldo deberá contener la firma de una cantidad de ciudadanos equivalente al 3% o más de la lista nominal de electores correspondiente al municipio en cuestión, con corte al 31 de agosto del año previo al de la elección y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen el 3% o más de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+
+”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 270.
+
+Para la candidatura de Gobernadora o Gobernador, la cédula de respaldo deberá contener la firma de una cantidad de ciudadanos equivalente al 2% o más de la lista nominal de electores con corte al 31 de agosto del año previo al de la elección y estar integrada por electores de por lo menos 17 municipios, que sumen cuando menos el 1% o más de ciudadanos que figuren en la lista nominal de electores en cada uno de ellos.
+
+Para fórmulas de Diputadas y Diputados de mayoría relativa, la cédula de respaldo deberá contener la firma de una cantidad de ciudadanos equivalente al 2% o más de la lista nominal de electores correspondiente al Distrito local electoral correspondiente, con corte al 31 de agosto del año previo al de la elección y estar integrada por ciudadanos de por lo menos de la mitad de las secciones electorales que sumen el 2% o más de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+
+Para la planilla de Presidenta o Presidente Municipal y Síndica o Síndico, la cédula de respaldo deberá contener la firma de una cantidad de ciudadanos equivalente al 3% o más de la lista nominal de electores correspondiente al municipio en cuestión, con corte al 31 de agosto del año previo al de la elección y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen el 3% o más de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
 
 ###### Artículo 271.
 
@@ -4327,7 +5519,11 @@ c) Utilizar financiamiento privado para el desarrollo de sus actividades;
 
 d) Nombrar a un representante para asistir a las sesiones de los Consejos Estatal, Distrital y Municipal;
 
-e) Insertar en su propaganda la leyenda “aspirante a Candidato Independiente”, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO E) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Insertar en su propaganda la leyenda “aspirante a Candidato Independiente”, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+e) INSERTAR EN SU PROPAGANDA LA LEYENDA "ASPIRANTE A CANDIDATA O CANDIDATO INDEPENDIENTE", Y
 
 f) Los demás establecidos por este Código.
 
@@ -4367,9 +5563,13 @@ i) Las demás que se determinen conforme a la normativa aplicable.
 
 #### SECCIÓN PRIMERA. DE LOS REQUISITOS DE ELEGIBILIDAD
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 279. Los ciudadanos que aspiren a participar como candidatos independientes, deberán satisfacer, además de los requisitos señalados por este Código, los de elegibilidad establecidos por la Constitución.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 279.
 
-Los ciudadanos que aspiren a participar como candidatos independientes, deberán satisfacer, además de los requisitos señalados por este Código, los de elegibilidad establecidos por la Constitución.
+Las y los ciudadanos que aspiren a participar como candidatas o candidatos independientes, deberán satisfacer, además de los requisitos señalados por este Código, los de elegibilidad establecidos por la Constitución.
 
 #### SECCIÓN SEGUNDA. DE LA SOLICITUD DE REGISTRO
 
@@ -4379,9 +5579,13 @@ Los plazos y organismos competentes para el registro de las candidaturas indepen
 
 El Instituto Morelense dará amplia difusión a la apertura del registro de las candidaturas independientes y a los plazos a que se refiere el presente artículo.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 281. Los ciudadanos que aspiren a participar como candidatos independientes a un cargo de elección popular deberán:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 281.
 
-Los ciudadanos que aspiren a participar como candidatos independientes a un cargo de elección popular deberán:
+LAS Y LOS CIUDADANOS QUE ASPIREN A PARTICIPAR COMO CANDIDATOS INDEPENDIENTES A UN CARGO DE ELECCIÓN POPULAR DEBERÁN:
 
 a) Presentar su solicitud por escrito;
 
@@ -4459,9 +5663,13 @@ g) En el caso que se haya presentado por una misma persona más de una manifesta
 
 h) En el caso que una misma persona haya presentado manifestación en favor de más de un aspirante, sólo se computará la primera manifestación presentada.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 284. Los candidatos independientes que hayan sido registrados no podrán ser postulados como candidatos por un partido político o coalición en el mismo proceso electoral.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 284.
 
-Los candidatos independientes que hayan sido registrados no podrán ser postulados como candidatos por un partido político o coalición en el mismo proceso electoral.
+Las y los candidatos independientes que hayan sido registrados no podrán ser postulados como candidatas y candidatos por un partido político o coalición en el mismo proceso electoral.
 
 #### SECCIÓN TERCERA. DEL REGISTRO
 
@@ -4469,41 +5677,69 @@ Los candidatos independientes que hayan sido registrados no podrán ser postulad
 
 Dentro de los tres días siguientes al que venzan los plazos, el Consejo Estatal, Distritales y Municipales electorales deberán celebrar la sesión de registro de candidaturas, en los términos de este Código.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 286. El Secretario Ejecutivo del Consejo Estatal, los Secretarios de los Consejos Distritales y Municipales electorales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas independientes, dando a conocer los nombres de los candidatos o fórmulas registradas y de aquéllos que no cumplieron con los requisitos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 286.
 
-El Secretario Ejecutivo del Consejo Estatal, los Secretarios de los Consejos Distritales y Municipales electorales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas independientes, dando a conocer los nombres de los candidatos o fórmulas registradas y de aquéllos que no cumplieron con los requisitos.
+La o el Secretario Ejecutivo del Consejo Estatal, las y los Secretarios de los Consejos Distritales y Municipales electorales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas independientes, dando a conocer los nombres de los candidatos o fórmulas registradas y de aquéllos que no cumplieron con los requisitos
 
 #### SECCIÓN CUARTA. DE LA SUSTITUCIÓN Y CANCELACIÓN DEL REGISTRO
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 287. Los candidatos independientes propietarios que obtengan su registro no podrán ser sustituidos en ninguna de las etapas del proceso electoral. Los candidatos independientes suplentes, podrán ser sustituidos en los términos de este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 287.
 
-Los candidatos independientes propietarios que obtengan su registro no podrán ser sustituidos en ninguna de las etapas del proceso electoral.
+Las y los candidatos independientes propietarios que obtengan su registro no podrán ser sustituidos en ninguna de las etapas del proceso electoral.
 
-Los candidatos independientes suplentes, podrán ser sustituidos en los términos de este Código.
+Las y los candidatos independientes suplentes, podrán ser sustituidos en los términos de este Código.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 288. Tratándose de la fórmula de diputados, será cancelado el registro de la fórmula completa cuando falte el propietario. La ausencia del suplente no invalidará la fórmula.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 288.
 
-Tratándose de la fórmula de diputados, será cancelado el registro de la fórmula completa cuando falte el propietario. La ausencia del suplente no invalidará la fórmula.
+Tratándose de la fórmula de Diputadas o Diputados, será cancelado el registro de la fórmula completa cuando falte el propietario. La ausencia del suplente no invalidará la fórmula.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 289. En el caso de la planilla de candidatos independientes al cargo de Presidente Municipal y Síndico, si por cualquier causa falta uno de los integrantes propietarios, se cancelará el registro. La ausencia del suplente no invalidará las fórmulas.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 289.
 
-En el caso de la planilla de candidatos independientes al cargo de Presidente Municipal y Síndico, si por cualquier causa falta uno de los integrantes propietarios, se cancelará el registro. La ausencia del suplente no invalidará las fórmulas.
+En el caso de la planilla de candidatas o candidatos independientes al cargo de Presidenta o Presidente Municipal, Síndica y Síndico, si por cualquier causa falta uno de los integrantes propietarios, se cancelará el registro. La ausencia del suplente no invalidará las fórmulas.
 
 ## TÍTULO TERCERO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES
 
 ### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 290. En lo aplicable, son prerrogativas y derechos de los candidatos independientes, los mismos otorgados a los partidos políticos y sus candidatos en los términos de este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 290.
 
-En lo aplicable, son prerrogativas y derechos de los candidatos independientes, los mismos otorgados a los partidos políticos y sus candidatos en los términos de este Código.
+En lo aplicable, son prerrogativas y derechos de las y los candidatos independientes, los mismos otorgados a los partidos políticos y sus candidatos en los términos de este Código.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 291. Son obligaciones de los candidatos independientes, además de las que le resulten aplicables a los partidos políticos y sus candidatos, las siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 291.
 
-Son obligaciones de los candidatos independientes, además de las que le resulten aplicables a los partidos políticos y sus candidatos, las siguientes:
+SON OBLIGACIONES DE LAS Y LOS CANDIDATOS INDEPENDIENTES, ADEMÁS DE LAS QUE LE RESULTEN APLICABLES A LOS PARTIDOS POLÍTICOS Y SUS CANDIDATOS, LAS SIGUIENTES:
 
 I. Depositar únicamente en la cuenta bancaria aperturada sus aportaciones y realizar todos los egresos de los actos de campaña con dicha cuenta;
 
-II. Insertar en su propaganda de manera visible la leyenda: “Candidato Independiente”;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Insertar en su propaganda de manera visible la leyenda: “Candidato Independiente”;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+II. INSERTAR EN SU PROPAGANDA DE MANERA VISIBLE LA LEYENDA: "CANDIDATA O CANDIDATO INDEPENDIENTE";
 
 III. Abstenerse de utilizar en su propaganda política o electoral, emblemas y colores utilizados por partidos políticos.
 
@@ -4515,27 +5751,39 @@ VI. Ser responsable solidario, junto con el encargado de la administración de s
 
 VII. Las demás que establezcan las leyes aplicables.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 292. Los candidatos independientes que incumplan con la normatividad electoral que les resulte aplicable, serán sancionados.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 292.
 
-Los candidatos independientes que incumplan con la normatividad electoral que les resulte aplicable, serán sancionados.
+Las y los candidatos independientes que incumplan con la normatividad electoral que les resulte aplicable, serán sancionados.
 
 #### SECCIÓN PRIMERA. DE LOS REPRESENTANTES ANTE LOS ORGANISMOS DEL INSTITUTO
 
-###### Artículo 293.
-
-Los candidatos independientes, de conformidad con lo previsto por los reglamentos de sesiones de Consejos Estatal, Distritales y Municipales aprobados, podrán designar representantes ante dichos organismos en los términos siguientes:
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 293. Los candidatos independientes, de conformidad con lo previsto por los reglamentos de sesiones de Consejos Estatal, Distritales y Municipales aprobados, podrán designar representantes ante dichos organismos en los términos siguientes:
 
 a) Los candidatos independientes a Gobernador, ante el Consejo Estatal y la totalidad de los consejos distritales;
 
 b) Los candidatos independientes a Diputado por el principio de mayoría relativa, ante el consejo electoral del distrito por el cual se quiera postular, debiendo designar un solo representante.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
-
 c) Los candidatos independientes a Presidente Municipal, Síndico y regidores, ante el consejo municipal correspondiente.
 
-La acreditación de representantes ante los organismos mencionados, se realizará dentro de los treinta días posteriores al de la aprobación de su registro como aspirante a Candidato Independiente.
+La acreditación de representantes ante los organismos mencionados, se realizará dentro de los treinta días posteriores al de la aprobación de su registro como aspirante a Candidato Independiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 293.
+
+Las y los candidatos independientes, de conformidad con lo previsto por los reglamentos de sesiones de Consejos Estatal, Distritales y Municipales aprobados, podrán designar representantes ante dichos organismos en los términos siguientes:
+
+a) Las y los candidatos independientes a Gobernadora o Gobernador, ante el Consejo Estatal y la totalidad de los consejos distritales;
+
+b) Las y los candidatos independientes a Diputada o Diputado por el principio de mayoría relativa, ante el consejo electoral del distrito por el cual se quiera postular, debiendo designar un solo representante.
+
+c) Las y los candidatos independientes a Presidenta o Presidente Municipal, Síndica o Síndico, Regidoras y Regidores, ante el Consejo Municipal correspondiente.
+
+La acreditación de representantes ante los organismos mencionados, se realizará dentro de los treinta días posteriores al de la aprobación de su registro como aspirante a Candidata o Candidato Independiente.
 
 #### SECCIÓN SEGUNDA. DE LOS REPRESENTANTES ANTE MESA DIRECTIVA DE CASILLA
 
@@ -4547,19 +5795,25 @@ En su caso, el registro de los nombramientos de los representantes ante mesas di
 
 #### SECCIÓN PRIMERA. DEL FINANCIAMIENTO
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 295. El régimen de financiamiento de los candidatos independientes tendrá las siguientes modalidades:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 295.
 
-El régimen de financiamiento de los candidatos independientes tendrá las siguientes modalidades:
+EL RÉGIMEN DE FINANCIAMIENTO DE LAS Y LOS CANDIDATOS INDEPENDIENTES TENDRÁ LAS SIGUIENTES MODALIDADES:
 
 a) Financiamiento privado, y
 
 b) Financiamiento público.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 296. El financiamiento privado se constituye por las aportaciones que realicen el candidato independiente y sus simpatizantes, el cual no podrá rebasar en ningún caso, el cincuenta por ciento del tope de gasto para la elección de que se trate.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 296.
 
-El financiamiento privado se constituye por las aportaciones que realicen el candidato independiente y sus simpatizantes, el cual no podrá rebasar en ningún caso, el cincuenta por ciento del tope de gasto para la elección de que se trate.
+El financiamiento privado se constituye por las aportaciones que realicen la o el candidato independiente y sus simpatizantes, el cual no podrá rebasar en ningún caso, el cincuenta por ciento del tope de gasto para la elección de que se trate.
 
 ###### Artículo 297.
 
@@ -4583,31 +5837,45 @@ h) Las personas que vivan o trabajen en el extranjero, y
 
 i) Las empresas mexicanas de carácter mercantil.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 298. Los candidatos independientes no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 298.
 
-Los candidatos independientes no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas.
+Las y los candidatos independientes no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas.
 
 ###### Artículo 299.
 
-Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica. En el caso de los pagos por la prestación de bienes o servicios, adicionalmente el cheque deberá contener la leyenda “para abono en cuenta del beneficiario”. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia del cheque a que se hace referencia.
+Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica. En el caso de los pagos por la prestación de bienes o servicios, adicionalmente el cheque deberá contener la leyenda "para abono en cuenta del beneficiario". Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia del cheque a que se hace referencia.
 
-Los comprobantes que amparen los egresos que realicen los candidatos independientes, deberán ser expedidos a su nombre y constar en original como soporte a los informes financieros de las campañas electorales, los cuales estarán a disposición de la instancia encargada de la fiscalización que señalen las disposiciones legales, para su revisión. Dicha documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales, así como las establecidas por el Reglamento respectivo.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los comprobantes que amparen los egresos que realicen los candidatos independientes, deberán ser expedidos a su nombre y constar en original como soporte a los informes financieros de las campañas electorales, los cuales estarán a disposición de la instancia encargada de la fiscalización que señalen las disposiciones legales, para su revisión. Dicha documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales, así como las establecidas por el Reglamento respectivo.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LOS COMPROBANTES QUE AMPAREN LOS EGRESOS QUE REALICEN LAS Y LOS CANDIDATOS INDEPENDIENTES, DEBERÁN SER EXPEDIDOS A SU NOMBRE Y CONSTAR EN ORIGINAL COMO SOPORTE A LOS INFORMES FINANCIEROS DE LAS CAMPAÑAS ELECTORALES, LOS CUALES ESTARÁN A DISPOSICIÓN DE LA INSTANCIA ENCARGADA DE LA FISCALIZACIÓN QUE SEÑALEN LAS DISPOSICIONES LEGALES, PARA SU REVISIÓN. DICHA DOCUMENTACIÓN DEBERÁ CUMPLIR CON LOS REQUISITOS QUE EXIGEN LAS DISPOSICIONES FISCALES, ASÍ COMO LAS ESTABLECIDAS POR EL REGLAMENTO RESPECTIVO.
 
 ###### Artículo 300.
 
 Las aportaciones de bienes muebles, servicios o de cualquier otra en especie, deberán destinarse exclusivamente a las actividades de la candidatura independiente.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 301. En ningún caso, los candidatos independientes podrán recibir en propiedad bienes inmuebles para las actividades de su candidatura, así como adquirir bienes inmuebles con el financiamiento público o privado que reciban.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 301.
 
-En ningún caso, los candidatos independientes podrán recibir en propiedad bienes inmuebles para las actividades de su candidatura, así como adquirir bienes inmuebles con el financiamiento público o privado que reciban.
+En ningún caso, las y los candidatos independientes podrán recibir en propiedad bienes inmuebles para las actividades de su candidatura, así como adquirir bienes inmuebles con el financiamiento público o privado que reciban.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 302. Los candidatos independientes tendrán derecho a recibir financiamiento público para sus gastos de campaña. Para los efectos de la distribución del financiamiento público y prerrogativas a que tienen derecho los candidatos independientes, en su conjunto, serán considerados como un partido político de nuevo registro.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 302.
 
-Los candidatos independientes tendrán derecho a recibir financiamiento público para sus gastos de campaña. Para los efectos de la distribución del financiamiento público y prerrogativas a que tienen derecho los candidatos independientes, en su conjunto, serán considerados como un partido político de nuevo registro.
+Las y los candidatos independientes tendrán derecho a recibir financiamiento público para sus gastos de campaña. Para los efectos de la distribución del financiamiento público y prerrogativas a que tienen derecho los candidatos independientes, en su conjunto, serán considerados como un partido político de nuevo registro.
 
-###### Artículo 303.
-
-El monto que le correspondería a un partido de nuevo registro, se distribuirá entre todos los candidatos independientes de la siguiente manera:
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 303. El monto que le correspondería a un partido de nuevo registro, se distribuirá entre todos los candidatos independientes de la siguiente manera:
 
 a) Un 33.3% que se distribuirá de manera igualitaria entre todos los Candidatos Independientes al cargo de Gobernador;
 
@@ -4615,33 +5883,67 @@ b) Un 33.3% que se distribuirá de manera igualitaria entre todas las fórmulas 
 
 c) Un 33.3% que se distribuirá de manera igualitaria entre todas las planilla de candidatos independientes al cargo de Presidente Municipal y Síndico.
 
-En el supuesto de que un sólo candidato obtenga su registro para cualquiera de los cargos antes mencionados, no podrá recibir financiamiento que exceda del 50% de los montos referidos en los incisos anteriores.
+En el supuesto de que un sólo candidato obtenga su registro para cualquiera de los cargos antes mencionados, no podrá recibir financiamiento que exceda del 50% de los montos referidos en los incisos anteriores.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 303.
+
+El monto que le correspondería a un partido de nuevo registro, se distribuirá entre todos las y los candidatos independientes de la siguiente manera:
+
+a) Un 33.3% que se distribuirá de manera igualitaria entre todos las y los Candidatos Independientes al cargo de Gobernadora o Gobernador;
+
+b) Un 33.3% que se distribuirá de manera igualitaria entre todas las fórmulas de candidatas o candidatos independientes al cargo de Diputada o Diputado de mayoría relativa, y
+
+c) Un 33.3% que se distribuirá de manera igualitaria entre todas las planillas de candidatas y candidatos independientes al cargo de Presidenta o Presidente Municipal, Síndica o Síndico.
+
+En el supuesto de que un sólo candidata o candidato obtenga su registro para cualquiera de los cargos antes mencionados, no podrá recibir financiamiento que exceda del 50% de los montos referidos en los incisos anteriores.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 304. Los candidatos deberán nombrar una persona encargada del manejo de los recursos financieros y administración de los recursos generales y de campaña, así como de la presentación de los informes a que se refiere la legislación aplicable.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 304.
 
-Los candidatos deberán nombrar una persona encargada del manejo de los recursos financieros y administración de los recursos generales y de campaña, así como de la presentación de los informes a que se refiere la legislación aplicable.
+Las y los candidatos deberán nombrar una persona encargada del manejo de los recursos financieros y administración de los recursos generales y de campaña, así como de la presentación de los informes a que se refiere la legislación aplicable.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 305. Los candidatos independientes deberán reembolsar al Instituto Morelense el monto del financiamiento público no erogado.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 305.
 
-Los candidatos independientes deberán reembolsar al Instituto Morelense el monto del financiamiento público no erogado.
+Las y los candidatos independientes deberán reembolsar al Instituto Morelense el monto del financiamiento público no erogado.
 
 #### SECCIÓN SEGUNDA. DEL ACCESO A RADIO Y TELEVISIÓN
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 306. El acceso a radio y televisión de los candidatos independientes atenderá a las reglas establecidas en la normatividad aplicable.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 306.
 
-El acceso a radio y televisión de los candidatos independientes atenderá a las reglas establecidas en la normatividad aplicable.
+El acceso a radio y televisión de las y los candidatos independientes atenderá a las reglas establecidas en la normatividad aplicable.
 
 ## TÍTULO CUARTO. DE LA PROPAGANDA ELECTORAL DE LOS CANDIDATOS INDEPENDIENTES
 
 ### CAPÍTULO ÚNICO
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 307. Son aplicables a los candidatos independientes, las normas sobre propaganda electoral contenidas en este Código y en demás disposiciones en la materia.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 307.
 
-Son aplicables a los candidatos independientes, las normas sobre propaganda electoral contenidas en este Código y en demás disposiciones en la materia.
+Son aplicables a las y los candidatos independientes, las normas sobre propaganda electoral contenidas en este Código y en demás disposiciones en la materia.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 308. La propaganda electoral de los candidatos independientes deberá tener el color o colores que los caractericen y diferencien de otros partidos políticos y de otros Candidatos Independientes, así como tener visible la leyenda: “Candidato Independiente".”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 308.
 
-La propaganda electoral de los candidatos independientes deberá tener el color o colores que los caractericen y diferencien de otros partidos políticos y de otros Candidatos Independientes, así como tener visible la leyenda: “Candidato Independiente".
+La propaganda electoral de las y los candidatos independientes deberá tener el color o colores que los caractericen y diferencien de otros partidos políticos y de otros Candidatos o Candidatas Independientes, así como tener visible la leyenda: "Candidata o Candidato Independiente".
 
 ## TÍTULO QUINTO. DE LA FISCALIZACIÓN
 
@@ -4653,9 +5955,13 @@ Cuando el Instituto Nacional delegare al Instituto Morelense la fiscalización d
 
 La revisión de los informes que los aspirantes presenten sobre el origen y destino de sus recursos y de actos para el apoyo ciudadano según corresponda, así como la práctica de auditorías sobre el manejo de sus recursos y su situación contable y financiera estará a cargo de la Unidad Técnica de Fiscalización de la Comisión de Fiscalización del Instituto Morelense.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 310. La Unidad Técnica de Fiscalización de la Comisión de Fiscalización tendrá a su cargo la recepción y revisión integral de los informes de ingresos y egresos que presenten los candidatos independientes respecto del origen y monto de los recursos por cualquier modalidad de financiamiento, así como sobre su destino y aplicación.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 310.
 
-La Unidad Técnica de Fiscalización de la Comisión de Fiscalización tendrá a su cargo la recepción y revisión integral de los informes de ingresos y egresos que presenten los candidatos independientes respecto del origen y monto de los recursos por cualquier modalidad de financiamiento, así como sobre su destino y aplicación.
+LA UNIDAD TÉCNICA DE FISCALIZACIÓN DE LA COMISIÓN DE FISCALIZACIÓN TENDRÁ A SU CARGO LA RECEPCIÓN Y REVISIÓN INTEGRAL DE LOS INFORMES DE INGRESOS Y EGRESOS QUE PRESENTEN LAS Y LOS CANDIDATOS INDEPENDIENTES RESPECTO DEL ORIGEN Y MONTO DE LOS RECURSOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO, ASÍ COMO SOBRE SU DESTINO Y APLICACIÓN.
 
 El Instituto Morelense podrá solicitar a la unidad técnica de fiscalización del Instituto Nacional, requiera a las autoridades competentes información respecto a las materias bancaria, fiduciaria y fiscal, para cumplir con sus obligaciones de fiscalización.
 
@@ -4663,11 +5969,23 @@ El Instituto Morelense podrá solicitar a la unidad técnica de fiscalización d
 
 La Comisión de Fiscalización del Instituto Morelense, tendrá como facultades, además de las disposiciones legales y lineamientos aplicables, las siguientes:
 
-a) Revisar y someter a la aprobación del Consejo Estatal los informes de resultados y proyectos de resolución sobre las auditorías y verificaciones practicadas a los aspirantes y candidatos independientes. Los informes especificarán las irregularidades en que hubiesen incurrido en el manejo de sus recursos; el incumplimiento de su obligación de informar sobre la aplicación de los mismos y, en su caso, propondrán las sanciones que procedan conforme a la normatividad aplicable;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO A) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) Revisar y someter a la aprobación del Consejo Estatal los informes de resultados y proyectos de resolución sobre las auditorías y verificaciones practicadas a los aspirantes y candidatos independientes. Los informes especificarán las irregularidades en que hubiesen incurrido en el manejo de sus recursos; el incumplimiento de su obligación de informar sobre la aplicación de los mismos y, en su caso, propondrán las sanciones que procedan conforme a la normatividad aplicable;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-b) Ordenar la práctica de auditorías, directamente o a través de terceros, a las finanzas de los aspirantes y candidatos independientes;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-c) Ordenar visitas de verificación a los aspirantes y candidatos independientes con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes, y
+a) REVISAR Y SOMETER A LA APROBACIÓN DEL CONSEJO ESTATAL LOS INFORMES DE RESULTADOS Y PROYECTOS DE RESOLUCIÓN SOBRE LAS AUDITORÍAS Y VERIFICACIONES PRACTICADAS A LAS Y LOS ASPIRANTES Y CANDIDATAS Y CANDIDATOS INDEPENDIENTES. LOS INFORMES ESPECIFICARÁN LAS IRREGULARIDADES EN QUE HUBIESEN INCURRIDO EN EL MANEJO DE SUS RECURSOS; EL INCUMPLIMIENTO DE SU OBLIGACIÓN DE INFORMAR SOBRE LA APLICACIÓN DE LOS MISMOS Y, EN SU CASO, PROPONDRÁN LAS SANCIONES QUE PROCEDAN CONFORME A LA NORMATIVIDAD APLICABLE;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO B) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) Ordenar la práctica de auditorías, directamente o a través de terceros, a las finanzas de los aspirantes y candidatos independientes;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+b) ORDENAR LA PRÁCTICA DE AUDITORÍAS, DIRECTAMENTE O A TRAVÉS DE TERCEROS, A LAS FINANZAS DE LAS Y LOS ASPIRANTES Y CANDIDATAS Y CANDIDATOS INDEPENDIENTES;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) Ordenar visitas de verificación a los aspirantes y candidatos independientes con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c) ORDENAR VISITAS DE VERIFICACIÓN A LAS Y LOS ASPIRANTES Y CANDIDATAS Y CANDIDATOS INDEPENDIENTES CON EL FIN DE CORROBORAR EL CUMPLIMIENTO DE SUS OBLIGACIONES Y LA VERACIDAD DE SUS INFORMES, Y
 
 d) Las demás que le confiera la normativa y los lineamientos aprobados por el Instituto Nacional.
 
@@ -4675,31 +5993,67 @@ d) Las demás que le confiera la normativa y los lineamientos aprobados por el I
 
 La Unidad Técnica de Fiscalización del Instituto Morelense tendrá como facultades, además de las disposiciones legales y lineamientos aplicables, las siguientes:
 
-a) Verificar conforme a los lineamientos aplicables lo relativo al registro contable de los ingresos y egresos de los aspirantes y candidatos independientes, las características de la documentación comprobatoria sobre el manejo de sus recursos y los requisitos que deberán satisfacer los informes de ingresos y egresos que le presenten, de conformidad a lo establecido por la normativa;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO A) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) Verificar conforme a los lineamientos aplicables lo relativo al registro contable de los ingresos y egresos de los aspirantes y candidatos independientes, las características de la documentación comprobatoria sobre el manejo de sus recursos y los requisitos que deberán satisfacer los informes de ingresos y egresos que le presenten, de conformidad a lo establecido por la normativa;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-b) Vigilar que los recursos de los aspirantes y candidatos independientes tengan origen lícito y se apliquen estricta e invariablemente a las actividades señaladas en este Código;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-c) Recibir y revisar los informes de ingresos y egresos, así como de gastos de los actos tendentes a recabar el apoyo ciudadano de los aspirantes y de campaña de los candidatos independientes, así como los demás informes de ingresos y gastos establecidos por la normativa aplicable;
+a) VERIFICAR CONFORME A LOS LINEAMIENTOS APLICABLES LO RELATIVO AL REGISTRO CONTABLE DE LOS INGRESOS Y EGRESOS DE LAS Y LOS ASPIRANTES Y A INDEPENDIENTES, LAS CARACTERÍSTICAS DE LA DOCUMENTACIÓN COMPROBATORIA SOBRE EL MANEJO DE SUS RECURSOS Y LOS REQUISITOS QUE DEBERÁN SATISFACER LOS INFORMES DE INGRESOS Y EGRESOS QUE LE PRESENTEN, DE CONFORMIDAD A LO ESTABLECIDO POR LA NORMATIVA;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO B) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) Vigilar que los recursos de los aspirantes y candidatos independientes tengan origen lícito y se apliquen estricta e invariablemente a las actividades señaladas en este Código;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+b) VIGILAR QUE LOS RECURSOS DE LAS Y LOS ASPIRANTES Y CANDIDATAS Y CANDIDATOS INDEPENDIENTES TENGAN ORIGEN LÍCITO Y SE APLIQUEN ESTRICTA E INVARIABLEMENTE A LAS ACTIVIDADES SEÑALADAS EN ESTE CÓDIGO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) Recibir y revisar los informes de ingresos y egresos, así como de gastos de los actos tendentes a recabar el apoyo ciudadano de los aspirantes y de campaña de los candidatos independientes, así como los demás informes de ingresos y gastos establecidos por la normativa aplicable;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c) RECIBIR Y REVISAR LOS INFORMES DE INGRESOS Y EGRESOS, ASÍ COMO DE GASTOS DE LOS ACTOS TENDENTES A RECABAR EL APOYO CIUDADANO DE LOS ASPIRANTES Y DE CAMPAÑA DE LAS CANDIDATAS Y CANDIDATOS INDEPENDIENTES, ASÍ COMO LOS DEMÁS INFORMES DE INGRESOS Y GASTOS ESTABLECIDOS POR LA NORMATIVA APLICABLE;
 
 d) Requerir información complementaria respecto de los diversos apartados de los informes de ingresos y egresos o documentación comprobatoria de cualquier otro aspecto vinculado a los mismos;
 
-e) Proporcionar a los aspirantes y candidatos independientes la orientación, asesoría y capacitación necesarias para el cumplimiento de las obligaciones conferidas;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO E) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Proporcionar a los aspirantes y candidatos independientes la orientación, asesoría y capacitación necesarias para el cumplimiento de las obligaciones conferidas;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+e) PROPORCIONAR A LAS Y LOS ASPIRANTES, CANDIDATAS Y CANDIDATOS INDEPENDIENTES LA ORIENTACIÓN, ASESORÍA Y CAPACITACIÓN NECESARIAS PARA EL CUMPLIMIENTO DE LAS OBLIGACIONES CONFERIDAS;
 
 f) Instruir los procedimientos administrativos a que haya lugar respecto de las quejas que se presenten y proponer a la consideración de la Comisión de Fiscalización la imposición de las sanciones que procedan;
 
-g) Requerir a las personas físicas o morales, públicas o privadas, que tengan relación con las operaciones que realicen los aspirantes y candidatos independientes, la información necesaria para el cumplimiento de sus tareas respetando en todo momento las garantías del requerido. Quienes se nieguen a proporcionar la información que les sea requerida, o no la proporcionen, sin causa justificada, dentro de los plazos que se señalen, se harán acreedores a las sanciones correspondientes, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO G) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “g) Requerir a las personas físicas o morales, públicas o privadas, que tengan relación con las operaciones que realicen los aspirantes y candidatos independientes, la información necesaria para el cumplimiento de sus tareas respetando en todo momento las garantías del requerido. Quienes se nieguen a proporcionar la información que les sea requerida, o no la proporcionen, sin causa justificada, dentro de los plazos que se señalen, se harán acreedores a las sanciones correspondientes, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+g) REQUERIR A LAS PERSONAS FÍSICAS O MORALES, PÚBLICAS O PRIVADAS, QUE TENGAN RELACIÓN CON LAS OPERACIONES QUE REALICEN LAS Y LOS ASPIRANTES, CANDIDATAS Y CANDIDATOS INDEPENDIENTES, LA INFORMACIÓN NECESARIA PARA EL CUMPLIMIENTO DE SUS TAREAS RESPETANDO EN TODO MOMENTO LAS GARANTÍAS DEL REQUERIDO. QUIENES SE NIEGUEN A PROPORCIONAR LA INFORMACIÓN QUE LES SEA REQUERIDA, O NO LA PROPORCIONEN, SIN CAUSA JUSTIFICADA, DENTRO DE LOS PLAZOS QUE SE SEÑALEN, SE HARÁN ACREEDORES A LAS SANCIONES CORRESPONDIENTES, Y
 
 h) Las demás conferidas por las disposiciones legales aplicables.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 313. En el ejercicio de sus facultades, la Unidad Técnica de Fiscalización del Instituto Morelense deberá garantizar el derecho de audiencia de los aspirantes y candidatos independientes con motivo de los procesos de fiscalización a que se refiere el presente Título.
+
+Los aspirantes y candidatos independientes tendrán derecho a la confronta de los documentos comprobatorios de sus ingresos y egresos, o de sus estados contables, contra los obtenidos o elaborados por la Unidad Técnica de Fiscalización del Instituto Morelense sobre las mismas operaciones, a fin de aclarar las discrepancias entre unos y otros.] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 313.
 
-En el ejercicio de sus facultades, la Unidad Técnica de Fiscalización del Instituto Morelense deberá garantizar el derecho de audiencia de los aspirantes y candidatos independientes con motivo de los procesos de fiscalización a que se refiere el presente Título.
+En el ejercicio de sus facultades, la Unidad Técnica de Fiscalización del Instituto Morelense deberá garantizar el derecho de audiencia de las y los aspirantes, candidatas y candidatos independientes con motivo de los procesos de fiscalización a que se refiere el presente Título.
 
-Los aspirantes y candidatos independientes tendrán derecho a la confronta de los documentos comprobatorios de sus ingresos y egresos, o de sus estados contables, contra los obtenidos o elaborados por la Unidad Técnica de Fiscalización del Instituto Morelense sobre las mismas operaciones, a fin de aclarar las discrepancias entre unos y otros.
+Las y los aspirantes, candidatas y candidatos independientes tendrán derecho a la confronta de los documentos comprobatorios de sus ingresos y egresos, o de sus estados contables, contra los obtenidos o elaborados por la Unidad Técnica de Fiscalización del Instituto Morelense sobre las mismas operaciones, a fin de aclarar las discrepancias entre unos y otros.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 314. Los aspirantes deberán presentar ante la Unidad Técnica de Fiscalización del Instituto Morelense los informes del origen y monto de los ingresos y egresos de los gastos de los actos tendentes a obtener el apoyo ciudadano del financiamiento privado, así como su empleo y aplicación, atendiendo a las siguientes reglas:
+
+a) Origen y monto de los ingresos, así como los egresos realizados de la cuenta bancaria aperturada;
+
+b) Acompañar los estados de cuenta bancarios, y
+
+c) Entregarlos junto con la solicitud de registro a que se refiere este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 314.
 
-Los aspirantes deberán presentar ante la Unidad Técnica de Fiscalización del Instituto Morelense los informes del origen y monto de los ingresos y egresos de los gastos de los actos tendentes a obtener el apoyo ciudadano del financiamiento privado, así como su empleo y aplicación, atendiendo a las siguientes reglas:
+LAS Y LOS ASPIRANTES DEBERÁN PRESENTAR ANTE LA UNIDAD TÉCNICA DE FISCALIZACIÓN DEL INSTITUTO MORELENSE LOS INFORMES DEL ORIGEN Y MONTO DE LOS INGRESOS Y EGRESOS DE LOS GASTOS DE LOS ACTOS TENDENTES A OBTENER EL APOYO CIUDADANO DEL FINANCIAMIENTO PRIVADO, ASÍ COMO SU EMPLEO Y APLICACIÓN, ATENDIENDO A LAS SIGUIENTES REGLAS:
 
 a) Origen y monto de los ingresos, así como los egresos realizados de la cuenta bancaria aperturada;
 
@@ -4707,9 +6061,13 @@ b) Acompañar los estados de cuenta bancarios, y
 
 c) Entregarlos junto con la solicitud de registro a que se refiere este Código.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 315. Los candidatos deberán presentar ante la Unidad Técnica de Fiscalización del Instituto Morelense los informes de campaña, respecto al origen y monto de los ingresos y egresos por cualquier modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las reglas establecidas en la Ley General de Partidos Políticos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 315.
 
-Los candidatos deberán presentar ante la Unidad Técnica de Fiscalización del Instituto Morelense los informes de campaña, respecto al origen y monto de los ingresos y egresos por cualquier modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las reglas establecidas en la Ley General de Partidos Políticos.
+LAS Y LOS CANDIDATOS DEBERÁN PRESENTAR ANTE LA UNIDAD TÉCNICA DE FISCALIZACIÓN DEL INSTITUTO MORELENSE LOS INFORMES DE CAMPAÑA, RESPECTO AL ORIGEN Y MONTO DE LOS INGRESOS Y EGRESOS POR CUALQUIER MODALIDAD DE FINANCIAMIENTO, ASÍ COMO SU EMPLEO Y APLICACIÓN, ATENDIENDO A LAS REGLAS ESTABLECIDAS EN LA LEY GENERAL DE PARTIDOS POLÍTICOS.
 
 En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos correspondientes a los rubros señalados en este Código y demás disposiciones aplicables, así como el monto y destino de dichas erogaciones.
 
@@ -4719,15 +6077,25 @@ El procedimiento para la presentación y revisión de los informes se sujetará 
 
 ### CAPÍTULO ÚNICO. DE LA DOCUMENTACIÓN Y EL MATERIAL ELECTORAL
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 316. Los candidatos independientes figurarán en la misma boleta que el Consejo Estatal apruebe para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen.
+
+Se utilizará un recuadro para cada candidato independiente o fórmula de candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 316.
 
-Los candidatos independientes figurarán en la misma boleta que el Consejo Estatal apruebe para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen.
+Las y los candidatos independientes figurarán en la misma boleta que el Consejo Estatal apruebe para las y los candidatos de los partidos políticos o coaliciones, según la elección en la que participen.
 
-Se utilizará un recuadro para cada candidato independiente o fórmula de candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
+Se utilizará un recuadro para cada candidata o candidato independiente o fórmula de candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 317. En la boleta, en el espacio del recuadro respectivo aparecerá el nombre completo del candidato independiente o de los integrantes de la fórmula de candidatos independientes, en su caso los sobrenombres y la leyenda “Candidato independiente” o “Candidatos independientes” según corresponda.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 317.
 
-En la boleta, en el espacio del recuadro respectivo aparecerá el nombre completo del candidato independiente o de los integrantes de la fórmula de candidatos independientes, en su caso los sobrenombres y la leyenda “Candidato independiente” o “Candidatos independientes” según corresponda.
+En la boleta, en el espacio del recuadro respectivo aparecerá el nombre completo del candidato independiente o de las y los integrantes de la fórmula de candidatas y candidatos independientes, en su caso los sobrenombres y la leyenda “Candidata o Candidato independiente” o “Candidatas o Candidatos independientes” según corresponda.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -4821,13 +6189,29 @@ III. En la etapa posterior a la jornada electoral, el recurso de inconformidad q
 
 a) Los resultados consignados en las actas de cómputo distrital o municipal en la elección de que se trate;
 
-b) La declaración de validez de Diputados por el principio de mayoría relativa y de ayuntamientos y el otorgamiento de las constancias respectivas;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO B) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) La declaración de validez de Diputados por el principio de mayoría relativa y de ayuntamientos y el otorgamiento de las constancias respectivas;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-c) La asignación de Diputados por el principio de representación proporcional y, por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-d) La asignación de regidores y, por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente, y
+b) LA DECLARACIÓN DE VALIDEZ DE DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA Y DE AYUNTAMIENTOS Y EL OTORGAMIENTO DE LAS CONSTANCIAS RESPECTIVAS;
 
-e) Los cómputos para Gobernador, diputados al Congreso y miembros de los ayuntamientos por error aritmético;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) La asignación de Diputados por el principio de representación proporcional y, por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c) LA ASIGNACIÓN DE DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y, POR CONSIGUIENTE, EL OTORGAMIENTO DE LAS CONSTANCIAS RESPECTIVAS, POR ERROR EN LA APLICACIÓN DE LA FÓRMULA CORRESPONDIENTE;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO D) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) La asignación de regidores y, por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+d) LA ASIGNACIÓN DE REGIDORAS Y REGIDORES Y, POR CONSIGUIENTE, EL OTORGAMIENTO DE LAS CONSTANCIAS RESPECTIVAS, POR ERROR EN LA APLICACIÓN DE LA FÓRMULA CORRESPONDIENTE, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO E) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Los cómputos para Gobernador, diputados al Congreso y miembros de los ayuntamientos por error aritmético;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+e) LOS CÓMPUTOS PARA GOBERNADORA O GOBERNADOR, DIPUTADAS Y DIPUTADOS AL CONGRESO Y MIEMBROS DE LOS AYUNTAMIENTOS POR ERROR ARITMÉTICO;
 
 IV. Durante los procesos electorales extraordinarios, serán procedentes, los recursos a que se refiere la fracción que antecede, y
 
@@ -4857,21 +6241,39 @@ I.- El actor, que será el partido político que lo interponga, debiendo observa
 
 II.- La autoridad o el partido político que realice el acto o dicte la resolución que se impugna;
 
-III.- El tercero interesado, que será el partido político que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretenda el actor, o en su caso la coalición, el ciudadano y el candidato;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III.- El tercero interesado, que será el partido político que tenga un interés legítimo en la causa, derivado de un derecho incompatible con el que pretenda el actor, o en su caso la coalición, el ciudadano y el candidato;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-IV.- Los candidatos podrán participar como coadyuvantes del partido político que los registró, en los recursos interpuestos ante los organismos electorales conforme a lo dispuesto en este Código;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS E INCLUSO LA "," POSTERIOR A LA PALABRA "INDIVIDUAL", LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+III. EL TERCERO INTERESADO, QUE SERÁ EL PARTIDO POLÍTICO QUE TENGA UN INTERÉS LEGÍTIMO EN LA CAUSA, DERIVADO DE UN DERECHO INCOMPATIBLE CON EL QUE PRETENDA EL ACTOR, O EN SU CASO LA COALICIÓN, LA O EL CIUDADANO Y LA O EL CANDIDATO;
 
-V.- Los ciudadanos quienes POR SÍ MISMOS Y en forma individual, hagan valer presuntas violaciones a sus derechos políticos electorales en los términos de este Código;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IV.- Los candidatos podrán participar como coadyuvantes del partido político que los registró, en los recursos interpuestos ante los organismos electorales conforme a lo dispuesto en este Código;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-(NOTA: EL 24 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2017 Y SUS ACUMULADAS 42/2017, 43/2017, 45/2017 Y 47/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS E INCLUSO LA "," POSTERIOR A LA PALABRA "INDIVIDUAL", LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 1962 PUBLICADO EN EL P.O. DE 26 DE MAYO DE 2017 SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR A LA FRACCIÓN V.]</small>
+IV. LAS Y LOS CANDIDATOS PODRÁN PARTICIPAR COMO COADYUVANTES DEL PARTIDO POLÍTICO QUE LOS REGISTRÓ, EN LOS RECURSOS INTERPUESTOS ANTE LOS ORGANISMOS ELECTORALES CONFORME A LO DISPUESTO EN ESTE CÓDIGO;
 
-VI.- Los ciudadanos quienes POR SÍ MISMOS Y en forma individual, hagan valer presuntas violaciones a sus derechos políticos electorales en los términos de este Código, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “V.- Los ciudadanos quienes POR SÍ MISMOS Y en forma individual, hagan valer presuntas violaciones a sus derechos políticos electorales en los términos de este Código;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-VII.- Los candidatos y partidos políticos que tengan un interés legítimo podrán participar como terceros coadyuvantes, en los recursos interpuestos ante los órganos electorales conforme a lo dispuesto en este Código.
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN VI, VÉASE PUBLICACIÓN OFICIAL DE FECHA 8 DE JUNIO DE 2020.]</small>
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+V. LAS Y LOS CIUDADANOS QUIENES, EN FORMA INDIVIDUAL, HAGAN VALER PRESUNTAS VIOLACIONES A SUS DERECHOS POLÍTICOS ELECTORALES EN LOS TÉRMINOS DE ESTE CÓDIGO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VI.- Los ciudadanos quienes POR SÍ MISMOS Y en forma individual, hagan valer presuntas violaciones a sus derechos políticos electorales en los términos de este Código, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN V, VÉASE PUBLICACIÓN OFICIAL DE FECHA 8 DE JUNIO DE 2020.]</small>
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VI. LAS Y LOS CIUDADANOS QUIENES, EN FORMA INDIVIDUAL, HAGAN VALER PRESUNTAS VIOLACIONES A SUS DERECHOS POLÍTICOS ELECTORALES EN LOS TÉRMINOS DE ESTE CÓDIGO, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VII.- Los candidatos y partidos políticos que tengan un interés legítimo podrán participar como terceros coadyuvantes, en los recursos interpuestos ante los órganos electorales conforme a lo dispuesto en este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VII. LAS Y LOS CANDIDATOS Y PARTIDOS POLÍTICOS QUE TENGAN UN INTERÉS LEGÍTIMO PODRÁN PARTICIPAR COMO TERCEROS COADYUVANTES, EN LOS RECURSOS INTERPUESTOS ANTE LOS ÓRGANOS ELECTORALES CONFORME A LO DISPUESTO EN ESTE CÓDIGO.
 
 Para efectos de la fracción anterior, podrán participar como coadyuvantes, de conformidad con las reglas siguientes:
 
@@ -4885,7 +6287,11 @@ d. Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y de
 
 e. Los escritos deberán contener la firma autógrafa del promovente.
 
-Para los efectos de lo establecido en este libro el candidato independiente tendrá los mismos derechos y obligaciones procesales que los partidos políticos, en lo conducente.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Para los efectos de lo establecido en este libro el candidato independiente tendrá los mismos derechos y obligaciones procesales que los partidos políticos, en lo conducente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+PARA LOS EFECTOS DE LO ESTABLECIDO EN ESTE LIBRO LA O EL CANDIDATO INDEPENDIENTE TENDRÁ LOS MISMOS DERECHOS Y OBLIGACIONES PROCESALES QUE LOS PARTIDOS POLÍTICOS, EN LO CONDUCENTE.
 
 ### CAPÍTULO IV. DE LEGITIMACIÓN Y PERSONERÍA
 
@@ -4911,7 +6317,11 @@ II. Los dirigentes de los comités estatales, distritales o municipales, o sus e
 
 III. Los que estén autorizados para representarlos mediante mandato otorgado en escritura pública por los dirigentes del partido facultados estatutariamente para tal efecto, y
 
-IV. Los candidatos independientes, a través de sus representantes legítimos, entendiéndose por estos los que se encuentren acreditados ante el organismo correspondiente
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IV. Los candidatos independientes, a través de sus representantes legítimos, entendiéndose por estos los que se encuentren acreditados ante el organismo correspondiente”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+IV. LAS Y LOS CANDIDATOS INDEPENDIENTES, A TRAVÉS DE SUS REPRESENTANTES LEGÍTIMOS, ENTENDIÉNDOSE POR ESTOS LOS QUE SE ENCUENTREN ACREDITADOS ANTE EL ORGANISMO CORRESPONDIENTE.
 
 ### CAPÍTULO V. DE LOS PLAZOS Y DE LOS TÉRMINOS
 
@@ -4923,9 +6333,11 @@ Durante los períodos no electorales, son hábiles los días lunes a viernes de 
 
 El cómputo de los plazos, en los períodos no electorales, se hará a partir del día siguiente de aquel en que se hubiere notificado el acto o resolución que se impugna.
 
-> <small>(ADICIONADO P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los medios de impugnación interpuestos fuera del proceso electoral deberán ser resueltos a la brevedad posible. Cuando el Magistrado instructor no resuelva en un plazo razonable, las partes podrán interponer excitativa de justicia ante el Presidente del Tribunal Electoral; una vez interpuesta, y en caso de ser procedente, el Magistrado Presidente dará vista al Magistrado Instructor para que dentro de las cuarenta y ocho horas siguientes informe al respecto.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Los medios de impugnación interpuestos fuera del proceso electoral deberán ser resueltos a la brevedad posible. Cuando el Magistrado instructor no resuelva en un plazo razonable, las partes podrán interponer excitativa de justicia ante el Presidente del Tribunal Electoral; una vez interpuesta, y en caso de ser procedente, el Magistrado Presidente dará vista al Magistrado Instructor para que dentro de las cuarenta y ocho horas siguientes informe al respecto.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LOS MEDIOS DE IMPUGNACIÓN INTERPUESTOS FUERA DEL PROCESO ELECTORAL DEBERÁN SER RESUELTOS A LA BREVEDAD POSIBLE. CUANDO LA O EL MAGISTRADO INSTRUCTOR NO RESUELVA EN UN PLAZO RAZONABLE, LAS PARTES PODRÁN INTERPONER EXCITATIVA DE JUSTICIA ANTE EL PRESIDENTE DEL TRIBUNAL ELECTORAL; UNA VEZ INTERPUESTA, Y EN CASO DE SER PROCEDENTE, LA O EL MAGISTRADO PRESIDENTE DARÁ VISTA AL MAGISTRADO INSTRUCTOR PARA QUE DENTRO DE LAS CUARENTA Y OCHO HORAS SIGUIENTES INFORME AL RESPECTO.
 
 ###### Artículo 326.
 
@@ -5027,27 +6439,47 @@ VII. Los demás elementos que se estimen necesarios para la resolución.
 
 El informe circunstanciado a que se refiere la fracción V de este artículo será rendido por el Secretario del organismo electoral correspondiente y deberá expresar si el promovente del recurso o del escrito del tercero interesado tiene reconocida su personería, y los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución impugnada.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 333. Para el recurso de inconformidad, cuando se impugne la asignación de diputados y regidores por el principio de representación proporcional, son supuestos los siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 333.
 
-Para el recurso de inconformidad, cuando se impugne la asignación de diputados y regidores por el principio de representación proporcional, son supuestos los siguientes:
+PARA EL RECURSO DE INCONFORMIDAD, CUANDO SE IMPUGNE LA ASIGNACIÓN DE DIPUTADAS, DIPUTADOS, REGIDORAS Y REGIDORES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, SON SUPUESTOS LOS SIGUIENTES:
 
 I. Que se hayan otorgado indebidamente constancias de asignación de esta elección, o
 
-II. Que la asignación de diputados y regidores por el principio de representación proporcional resulten afectadas por las resoluciones que en su caso hubiere dictado el tribunal, o que se haya aplicado erróneamente la fórmula que para tal efecto establece este Código y la Constitución, respectivamente.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Que la asignación de diputados y regidores por el principio de representación proporcional resulten afectadas por las resoluciones que en su caso hubiere dictado el tribunal, o que se haya aplicado erróneamente la fórmula que para tal efecto establece este Código y la Constitución, respectivamente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+II. QUE LA ASIGNACIÓN DE DIPUTADAS O DIPUTADOS, REGIDORAS Y REGIDORES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL RESULTEN AFECTADAS POR LAS RESOLUCIONES QUE EN SU CASO HUBIERE DICTADO EL TRIBUNAL, O QUE SE HAYA APLICADO ERRÓNEAMENTE LA FÓRMULA QUE PARA TAL EFECTO ESTABLECE ESTE CÓDIGO Y LA CONSTITUCIÓN, RESPECTIVAMENTE.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 334. Recibido el recurso de revisión por el organismo electoral competente, el Secretario certificará si se cumplió con lo dispuesto en este Código respecto a los términos, y en todo caso se procederá conforme a lo establecido en el presente ordenamiento.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 334.
 
-Recibido el recurso de revisión por el organismo electoral competente, el Secretario certificará si se cumplió con lo dispuesto en este Código respecto a los términos, y en todo caso se procederá conforme a lo establecido en el presente ordenamiento.
+RECIBIDO EL RECURSO DE REVISIÓN POR EL ORGANISMO ELECTORAL COMPETENTE, LA O EL SECRETARIO CERTIFICARÁ SI SE CUMPLIÓ CON LO DISPUESTO EN ESTE CÓDIGO RESPECTO A LOS TÉRMINOS, Y EN TODO CASO SE PROCEDERÁ CONFORME A LO ESTABLECIDO EN EL PRESENTE ORDENAMIENTO.
 
-Si el recurso debe desecharse por notoriamente improcedente o, en su caso, si se ha cumplido con todos los requisitos, el Secretario procederá a formular el proyecto de resolución que corresponda, mismo que será discutido en la primera sesión que se celebre después de su recepción, debiéndose dictar en la misma la resolución, que será engrosada en términos de ley.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Si el recurso debe desecharse por notoriamente improcedente o, en su caso, si se ha cumplido con todos los requisitos, el Secretario procederá a formular el proyecto de resolución que corresponda, mismo que será discutido en la primera sesión que se celebre después de su recepción, debiéndose dictar en la misma la resolución, que será engrosada en términos de ley.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+SI EL RECURSO DEBE DESECHARSE POR NOTORIAMENTE IMPROCEDENTE O, EN SU CASO, SI SE HA CUMPLIDO CON TODOS LOS REQUISITOS, LA O EL SECRETARIO PROCEDERÁ A FORMULAR EL PROYECTO DE RESOLUCIÓN QUE CORRESPONDA, MISMO QUE SERÁ DISCUTIDO EN LA PRIMERA SESIÓN QUE SE CELEBRE DESPUÉS DE SU RECEPCIÓN, DEBIÉNDOSE DICTAR EN LA MISMA LA RESOLUCIÓN, QUE SERÁ ENGROSADA EN TÉRMINOS DE LEY.
 
 Si el organismo electoral remitente omitió algún requisito, se requerirá la complementación de los mismos, procurando que se dicte resolución en términos del párrafo anterior.
 
 Los recursos de revisión deberán resolverse con los elementos que se cuente a más tardar en la segunda sesión posterior a la recepción del recurso.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 335. Recibido un recurso de apelación por el Tribunal Electoral, se seguirá en lo conducente el procedimiento señalado en el artículo anterior. Se substanciará el recurso integrándose el expediente y se turnará al magistrado ponente para que se pronuncie la resolución correspondiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 335.
 
-Recibido un recurso de apelación por el Tribunal Electoral, se seguirá en lo conducente el procedimiento señalado en el artículo anterior. Se substanciará el recurso integrándose el expediente y se turnará al magistrado ponente para que se pronuncie la resolución correspondiente.
+Recibido un recurso de apelación por el Tribunal Electoral, se seguirá en lo conducente el procedimiento señalado en el artículo anterior. Se substanciará el recurso integrándose el expediente y se turnará al magistrado o magistrada ponente para que se pronuncie la resolución correspondiente.
 
 ###### Artículo 336.
 
@@ -5065,13 +6497,35 @@ b) Por violaciones al derecho a ser votado, que impidan u obstaculicen acceder o
 
 c) Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política;
 
-d) Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político electorales, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL INCISO D) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político electorales, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-e) Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político electorales.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE JUNIO DE 2020)</small>
 
-Lo dispuesto en el inciso e) será aplicable a los precandidatos y candidatos a cargos de elección popular aun cuando no estén afiliados al partido señalado como responsable.
+d) CONSIDERE QUE UN ACTO O RESOLUCIÓN DE UNA AUTORIDAD ES VIOLATORIO DE CUALQUIER OTRO DE LOS DERECHOS POLÍTICOS ELECTORALES;
 
-Asimismo, en tal supuesto el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL INCISO E) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político electorales.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE JUNIO DE 2020)</small>
+
+e) CONSIDERE QUE LOS ACTOS O RESOLUCIONES DEL PARTIDO POLÍTICO AL QUE ESTÁ AFILIADO VIOLAN ALGUNO DE SUS DERECHOS POLÍTICO ELECTORALES, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL INCISO F) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+f) CONSIDERE QUE SE ACTUALIZA ALGÚN SUPUESTO DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, EN LOS TÉRMINOS ESTABLECIDOS EN LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Lo dispuesto en el inciso e) será aplicable a los precandidatos y candidatos a cargos de elección popular aun cuando no estén afiliados al partido señalado como responsable.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LO DISPUESTO EN EL INCISO E) SERÁ APLICABLE A LAS Y LOS PRECANDIDATAS, PRECANDIDATOS, CANDIDATAS Y CANDIDATOS A CARGOS DE ELECCIÓN POPULAR AUN CUANDO NO ESTÉN AFILIADOS AL PARTIDO SEÑALADO COMO RESPONSABLE.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Asimismo, en tal supuesto el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+ASIMISMO, EN TAL SUPUESTO LA PARTE QUEJOSA DEBERÁ HABER AGOTADO PREVIAMENTE LAS INSTANCIAS DE SOLUCIÓN DE CONFLICTOS PREVISTAS EN LAS NORMAS INTERNAS DEL PARTIDO DE QUE SE TRATE, SALVO QUE LOS ÓRGANOS PARTIDISTAS COMPETENTES NO ESTUVIEREN INTEGRADOS E INSTALADOS CON ANTELACIÓN A LOS HECHOS LITIGIOSOS, O DICHOS ÓRGANOS INCURRAN EN VIOLACIONES GRAVES DE PROCEDIMIENTO QUE DEJEN SIN DEFENSA AL QUEJOSO.
 
 Para lo dispuesto en el inciso b) las controversias surgidas por la probable violación al derecho de los servidores públicos de elección popular, por la omisión del pago de las remuneraciones que en Derecho les correspondan, que se promuevan una vez concluido el periodo para el cual fueron electos, serán competencia del Tribunal de Justicia Administrativa del Estado de Morelos, dada la naturaleza de la relación administrativa y no laboral; el ejercicio de esta acción prescribirá en un año.
 
@@ -5135,9 +6589,13 @@ a) Original y copia de la credencial de elector, y
 
 b) Original y copia del documento fehaciente de afiliación al partido o en su caso testimonio de dos personas que declaren bajo protesta de decir verdad que el recurrente es miembro del partido político impugnado.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 344. Tendrán el carácter de terceros interesados en el juicio para la protección de los derechos político electorales del ciudadano, el partido político, la coalición, el candidato o la organización política, según corresponda, con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 344.
 
-Tendrán el carácter de terceros interesados en el juicio para la protección de los derechos político electorales del ciudadano, el partido político, la coalición, el candidato o la organización política, según corresponda, con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
+Tendrán el carácter de terceros interesados en el juicio para la protección de los derechos político electorales del ciudadano, el partido político, la coalición, el candidato o candidata o la organización política, según corresponda, con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
 
 ###### Artículo 345.
 
@@ -5197,11 +6655,19 @@ Una vez que el magistrado ponente considere debidamente integrado el expediente 
 
 En la sesión de resolución del Tribunal Electoral, que deberá ser pública, se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
 
-I. El magistrado ponente presentará el caso y el sentido de su resolución, señalando las consideraciones jurídicas y los preceptos legales en que se funda;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. El magistrado ponente presentará el caso y el sentido de su resolución, señalando las consideraciones jurídicas y los preceptos legales en que se funda;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+I. LA O EL MAGISTRADO PONENTE PRESENTARÁ EL CASO Y EL SENTIDO DE SU RESOLUCIÓN, SEÑALANDO LAS CONSIDERACIONES JURÍDICAS Y LOS PRECEPTOS LEGALES EN QUE SE FUNDA;
 
 II. Los magistrados podrán discutir el proyecto en turno;
 
-III. Cuando el Presidente del Tribunal Electoral lo considere suficientemente discutido, lo someterá a votación, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. Cuando el Presidente del Tribunal Electoral lo considere suficientemente discutido, lo someterá a votación, y;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+III. CUANDO LA O EL PRESIDENTE DEL TRIBUNAL ELECTORAL LO CONSIDERE SUFICIENTEMENTE DISCUTIDO, LO SOMETERÁ A VOTACIÓN, Y
 
 IV. Los magistrados podrán presentar voto particular, el cual se agregará al expediente.
 
@@ -5261,9 +6727,13 @@ Las resoluciones del Tribunal Electoral recaídas en los recursos de apelación 
 
 ### CAPÍTULO VIII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 359. Cuando un recurso se considere notoriamente frívolo o su improcedencia se derive de las disposiciones de este código, el Secretario Ejecutivo del Instituto Morelense o el Secretario General del Tribunal Electoral, según sea el caso, dará cuenta del mismo a dicho organismo o al Pleno del Tribunal Electoral para que resuelvan lo conducente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 359.
 
-Cuando un recurso se considere notoriamente frívolo o su improcedencia se derive de las disposiciones de este código, el Secretario Ejecutivo del Instituto Morelense o el Secretario General del Tribunal Electoral, según sea el caso, dará cuenta del mismo a dicho organismo o al Pleno del Tribunal Electoral para que resuelvan lo conducente.
+Cuando un recurso se considere notoriamente frívolo o su improcedencia se derive de las disposiciones de este código, la o el Secretario Ejecutivo del Instituto Morelense, la o el Secretario General del Tribunal Electoral, según sea el caso, dará cuenta del mismo a dicho organismo o al Pleno del Tribunal Electoral para que resuelvan lo conducente.
 
 ###### Artículo 360.
 
@@ -5421,9 +6891,13 @@ El Tribunal Electoral hará la publicación de los criterios obligatorios dentro
 
 Los recursos de revisión deberán ser resueltos por el Consejo Estatal a más tardar en la segunda sesión que celebre después de su admisión, salvo cuando el recurso de revisión hubiese sido interpuesto dentro de los cinco días anteriores a la elección, siendo en este último caso enviado al Tribunal Electoral, a efecto de que sea resuelto junto con el recurso de inconformidad con el que guarde relación.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 373. Encontrándose debidamente integrado el expediente del procedimiento especial sancionador respectivo, el magistrado ponente, dentro de las cuarenta y ocho horas siguientes contadas a partir de su turno para resolver, deberá poner a consideración del pleno del Tribunal Electoral el proyecto de sentencia.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 373.
 
-Encontrándose debidamente integrado el expediente del procedimiento especial sancionador respectivo, el magistrado ponente, dentro de las cuarenta y ocho horas siguientes contadas a partir de su turno para resolver, deberá poner a consideración del pleno del Tribunal Electoral el proyecto de sentencia.
+ENCONTRÁNDOSE DEBIDAMENTE INTEGRADO EL EXPEDIENTE DEL PROCEDIMIENTO ESPECIAL SANCIONADOR RESPECTIVO, LA O EL MAGISTRADO PONENTE, DENTRO DE LAS CUARENTA Y OCHO HORAS SIGUIENTES CONTADAS A PARTIR DE SU TURNO PARA RESOLVER, DEBERÁ PONER A CONSIDERACIÓN DEL PLENO DEL TRIBUNAL ELECTORAL EL PROYECTO DE SENTENCIA.
 
 El Pleno, en sesión pública, resolverá el asunto en un plazo de veinticuatro horas contadas a partir de que se haya distribuido el proyecto de resolución.
 
@@ -5477,49 +6951,105 @@ XII. Ejercer violencia física o presión sobre los miembros de la mesa directiv
 
 XIII. Cuando la casilla electoral se hubiere aperturado antes de la hora establecida en éste Código.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 377. Solo podrá declararse la nulidad de una elección en el caso de Gobernador, y los electos por el principio de mayoría relativa, en un distrito uninominal o municipio, cuando las causas que se invoquen hayan sido plenamente acreditadas y se demuestre que las mismas son determinantes para el resultado de la elección correspondiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 377.
 
-Solo podrá declararse la nulidad de una elección en el caso de Gobernador, y los electos por el principio de mayoría relativa, en un distrito uninominal o municipio, cuando las causas que se invoquen hayan sido plenamente acreditadas y se demuestre que las mismas son determinantes para el resultado de la elección correspondiente.
+SOLO PODRÁ DECLARARSE LA NULIDAD DE UNA ELECCIÓN EN EL CASO DE GOBERNADORA O GOBERNADOR, Y LOS ELECTOS POR EL PRINCIPIO DE MAYORÍA RELATIVA, EN UN DISTRITO UNINOMINAL O MUNICIPIO, CUANDO LAS CAUSAS QUE SE INVOQUEN HAYAN SIDO PLENAMENTE ACREDITADAS Y SE DEMUESTRE QUE LAS MISMAS SON DETERMINANTES PARA EL RESULTADO DE LA ELECCIÓN CORRESPONDIENTE.
 
-I. Son causas de nulidad de una elección de Gobernador, cualquiera de las siguientes:
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN I ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. Son causas de nulidad de una elección de Gobernador, cualquiera de las siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-a) Cuando el candidato a Gobernador que haya obtenido la mayoría de votos en la elección no reúna los requisitos de elegibilidad establecidos en la Constitución Federal, la Constitución y los señalados en este Código;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+I. SON CAUSAS DE NULIDAD DE UNA ELECCIÓN DE GOBERNADORA O GOBERNADOR, CUALQUIERA DE LAS SIGUIENTES:
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO A) DE LA FRACCIÓN I ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) Cuando el candidato a Gobernador que haya obtenido la mayoría de votos en la elección no reúna los requisitos de elegibilidad establecidos en la Constitución Federal, la Constitución y los señalados en este Código;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+a) CUANDO EL CANDIDATO A GOBERNADORA O GOBERNADOR QUE HAYA OBTENIDO LA MAYORÍA DE VOTOS EN LA ELECCIÓN NO REÚNA LOS REQUISITOS DE ELEGIBILIDAD ESTABLECIDOS EN LA CONSTITUCIÓN FEDERAL, LA CONSTITUCIÓN Y LOS SEÑALADOS EN ESTE CÓDIGO;
 
 b) Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en por lo menos el treinta por ciento de las casillas instaladas en la Entidad;
 
 c) Cuando no se instale el treinta por ciento o más de las casillas electorales que correspondan al territorio de la Entidad.
 
-d) Cuando el candidato a Gobernador que haya obtenido la mayoría de votos en la elección y se acredite que recibió recursos de delincuencia organizada, o
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO D) DE LA FRACCIÓN I ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) Cuando el candidato a Gobernador que haya obtenido la mayoría de votos en la elección y se acredite que recibió recursos de delincuencia organizada, o”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-e) Cuando el candidato a Gobernador que haya obtenido la mayoría de votos en la elección, viole y rebase el tope de campaña en más de un diez por ciento;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-II. Son causas de nulidad de una elección de Diputado de mayoría relativa en un distrito electoral uninominal, cualquiera de las siguientes:
+d) CUANDO EL CANDIDATO A GOBERNADORA O GOBERNADOR QUE HAYA OBTENIDO LA MAYORÍA DE VOTOS EN LA ELECCIÓN Y SE ACREDITE QUE RECIBIÓ RECURSOS DE DELINCUENCIA ORGANIZADA, O
 
-a) Cuando los integrantes de la fórmula de candidatos que hubieren obtenido constancia de mayoría no reúnan los requisitos de elegibilidad establecidos en la Constitución y no satisfagan los requisitos señalados en este Código. En este caso, la nulidad afectará a la elección, únicamente por lo que hace a los candidatos que resultaren inelegibles;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO E) DE LA FRACCIÓN I ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Cuando el candidato a Gobernador que haya obtenido la mayoría de votos en la elección, viole y rebase el tope de campaña en más de un diez por ciento;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+e) CUANDO EL CANDIDATO A GOBERNADORA O GOBERNADOR QUE HAYA OBTENIDO LA MAYORÍA DE VOTOS EN LA ELECCIÓN, VIOLE Y REBASE EL TOPE DE CAMPAÑA EN MÁS DE UN DIEZ POR CIENTO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Son causas de nulidad de una elección de Diputado de mayoría relativa en un distrito electoral uninominal, cualquiera de las siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+II. SON CAUSAS DE NULIDAD DE UNA ELECCIÓN DE DIPUTADA O DIPUTADO DE MAYORÍA RELATIVA EN UN DISTRITO ELECTORAL UNINOMINAL, CUALQUIERA DE LAS SIGUIENTES:
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO A) DE LA FRACCIÓN II ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) Cuando los integrantes de la fórmula de candidatos que hubieren obtenido constancia de mayoría no reúnan los requisitos de elegibilidad establecidos en la Constitución y no satisfagan los requisitos señalados en este Código. En este caso, la nulidad afectará a la elección, únicamente por lo que hace a los candidatos que resultaren inelegibles;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+a) CUANDO LOS INTEGRANTES DE LA FÓRMULA DE CANDIDATAS O CANDIDATOS QUE HUBIEREN OBTENIDO CONSTANCIA DE MAYORÍA NO REÚNAN LOS REQUISITOS DE ELEGIBILIDAD ESTABLECIDOS EN LA CONSTITUCIÓN Y NO SATISFAGAN LOS REQUISITOS SEÑALADOS EN ESTE CÓDIGO. EN ESTE CASO, LA NULIDAD AFECTARÁ A LA ELECCIÓN, ÚNICAMENTE POR LO QUE HACE A LAS Y LOS CANDIDATOS QUE RESULTAREN INELEGIBLES;
 
 b) Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en por lo menos el treinta por ciento de las casillas instaladas en el distrito electoral de que se trate;
 
 c) Cuando no se instalen el treinta por ciento o más de las casillas electorales que correspondan al distrito electoral de que se trate;
 
-d) Cuando el candidato a diputado de mayoría relativa que haya obtenido la mayoría de votos en la elección y se acredite que recibió recursos de delincuencia organizada, o
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO D) DE LA FRACCIÓN II ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) Cuando el candidato a diputado de mayoría relativa que haya obtenido la mayoría de votos en la elección y se acredite que recibió recursos de delincuencia organizada, o”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-e) Cuando el candidato a diputado de mayoría relativa que haya obtenido la mayoría de votos en la elección, viole y rebase el tope de campaña en más de un diez por ciento;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-III. Son causas de nulidad de una elección de un ayuntamiento, cualquiera de las siguientes:
+d) CUANDO LA CANDIDATA A DIPUTADA O CANDIDATO DIPUTADO DE MAYORÍA RELATIVA QUE HAYA OBTENIDO LA MAYORÍA DE VOTOS EN LA ELECCIÓN Y SE ACREDITE QUE RECIBIÓ RECURSOS DE DELINCUENCIA ORGANIZADA, O
 
-a) Cuando los candidatos a presidente municipal, el síndico y los integrantes de la planilla que hubieren obtenido constancia de mayoría no reúnan los requisitos de elegibilidad establecidos en la Constitución y no satisfagan los requisitos señalados en este Código. En este caso, la nulidad afectará, únicamente a los integrantes de la planilla que resultaren inelegible;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO E) DE LA FRACCIÓN II ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Cuando el candidato a diputado de mayoría relativa que haya obtenido la mayoría de votos en la elección, viole y rebase el tope de campaña en más de un diez por ciento;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+e) CUANDO LA CANDIDATA A DIPUTADA O CANDIDATO DIPUTADO DE MAYORÍA RELATIVA QUE HAYA OBTENIDO LA MAYORÍA DE VOTOS EN LA ELECCIÓN, VIOLE Y REBASE EL TOPE DE CAMPAÑA EN MÁS DE UN DIEZ POR CIENTO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. Son causas de nulidad de una elección de un ayuntamiento, cualquiera de las siguientes:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+III. SON CAUSAS DE NULIDAD DE UNA ELECCIÓN DE UN AYUNTAMIENTO, CUALQUIERA DE LAS SIGUIENTES:
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO A) DE LA FRACCIÓN III ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) Cuando los candidatos a presidente municipal, el síndico y los integrantes de la planilla que hubieren obtenido constancia de mayoría no reúnan los requisitos de elegibilidad establecidos en la Constitución y no satisfagan los requisitos señalados en este Código. En este caso, la nulidad afectará, únicamente a los integrantes de la planilla que resultaren inelegible;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+a) CUANDO LA CANDIDATA A PRESIDENTA O CANDIDATO A PRESIDENTE MUNICIPAL, LA O EL SÍNDICO Y LOS INTEGRANTES DE LA PLANILLA QUE HUBIEREN OBTENIDO CONSTANCIA DE MAYORÍA NO REÚNAN LOS REQUISITOS DE ELEGIBILIDAD ESTABLECIDOS EN LA CONSTITUCIÓN Y NO SATISFAGAN LOS REQUISITOS SEÑALADOS EN ESTE CÓDIGO. EN ESTE CASO, LA NULIDAD AFECTARÁ, ÚNICAMENTE A LOS INTEGRANTES DE LA PLANILLA QUE RESULTAREN INELEGIBLE;
 
 b) Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en por lo menos el treinta por ciento de las casillas instaladas en el municipio de que se trate;
 
 c) Cuando no se instalen el treinta por ciento o más de las casillas electorales que correspondan al municipio de que se trate;
 
-d) Cuando los candidatos a Presidente Municipal y Síndico que hayan obtenido la mayoría de votos en la elección y se acredite que recibió recursos de delincuencia organizada, o
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO D) DE LA FRACCIÓN III ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) Cuando los candidatos a Presidente Municipal y Síndico que hayan obtenido la mayoría de votos en la elección y se acredite que recibió recursos de delincuencia organizada, o”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-e) Cuando los candidatos a Presidente Municipal y Síndico que hayan obtenido la mayoría de votos en la elección, violen y rebasen el tope de campaña en más de un diez por ciento.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+d) CUANDO LA CANDIDATA A PRESIDENTA O CANDIDATO A PRESIDENTE MUNICIPAL, SÍNDICA O SÍNDICO QUE HAYAN OBTENIDO LA MAYORÍA DE VOTOS EN LA ELECCIÓN Y SE ACREDITE QUE RECIBIÓ RECURSOS DE DELINCUENCIA ORGANIZADA, O
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO E) DE LA FRACCIÓN III ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Cuando los candidatos a Presidente Municipal y Síndico que hayan obtenido la mayoría de votos en la elección, violen y rebasen el tope de campaña en más de un diez por ciento.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+e) CUANDO LA CANDIDATA A PRESIDENTA O CANDIDATO A PRESIDENTE MUNICIPAL, SÍNDICA O SÍNDICO QUE HAYAN OBTENIDO LA MAYORÍA DE VOTOS EN LA ELECCIÓN, VIOLEN Y REBASEN EL TOPE DE CAMPAÑA EN MÁS DE UN DIEZ POR CIENTO.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 378. El Tribunal Electoral podrá declarar la nulidad de una elección de Gobernador, de Diputado de mayoría relativa en un distrito electoral o de un ayuntamiento en un municipio, cuando:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 378.
 
-El Tribunal Electoral podrá declarar la nulidad de una elección de Gobernador, de Diputado de mayoría relativa en un distrito electoral o de un ayuntamiento en un municipio, cuando:
+EL TRIBUNAL ELECTORAL PODRÁ DECLARAR LA NULIDAD DE UNA ELECCIÓN DE GOBERNADORA O GOBERNADOR, DE DIPUTADA O DIPUTADO DE MAYORÍA RELATIVA EN UN DISTRITO ELECTORAL O DE UN AYUNTAMIENTO EN UN MUNICIPIO, CUANDO:
 
 a) Existan violaciones graves, dolosas y determinantes en los casos previstos en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -5537,9 +7067,17 @@ A fin de salvaguardar las libertades de expresión, información y a fin de fort
 
 b) Se hayan cometido en forma generalizada violaciones sustanciales durante la jornada electoral en la entidad, o en el distrito o municipio de que se trate y se demuestre que las mismas fueron determinantes para el resultado de la elección;
 
-c) El candidato ganador sobrepase los topes de gastos de campaña en la elección que corresponda y tal determinación se realice por la autoridad electoral, en términos de lo previsto en este Código, o
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) El candidato ganador sobrepase los topes de gastos de campaña en la elección que corresponda y tal determinación se realice por la autoridad electoral, en términos de lo previsto en este Código, o”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-d) El candidato ganador, utilice recursos públicos o se destinen programas sociales de cualquier nivel de gobierno para favorecerlo.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c) LA O EL CANDIDATO GANADOR SOBREPASE LOS TOPES DE GASTOS DE CAMPAÑA EN LA ELECCIÓN QUE CORRESPONDA Y TAL DETERMINACIÓN SE REALICE POR LA AUTORIDAD ELECTORAL, EN TÉRMINOS DE LO PREVISTO EN ESTE CÓDIGO, O
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO D) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) El candidato ganador, utilice recursos públicos o se destinen programas sociales de cualquier nivel de gobierno para favorecerlo.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+d) LA O EL CANDIDATO GANADOR, UTILICE RECURSOS PÚBLICOS O SE DESTINEN PROGRAMAS SOCIALES DE CUALQUIER NIVEL DE GOBIERNO PARA FAVORECERLO.
 
 ### CAPÍTULO II. DE LA DECLARACIÓN DE NULIDAD Y SUS EFECTOS
 
@@ -5549,11 +7087,17 @@ Los efectos de las nulidades decretadas por el Tribunal Electoral respecto de la
 
 Las elecciones cuyos cómputos o constancias no sean impugnadas en tiempo y forma se considerarán válidas, definitivas e inatacables.
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 380. Tratándose de la inelegibilidad de candidatos por el principio de representación proporcional, tomará el lugar del declarado no elegible el que le siga en la lista correspondiente al mismo partido. Cuando dicha lista se agote o no exista, el que sea designado por el propio partido político, este derecho podrá ejercitarse dentro de la etapa preparatoria del proceso electoral.
+
+En el caso de la declaración de inelegibilidad de un candidato electo por el principio de mayoría relativa, tomará el lugar del declarado no elegible quien fuera su suplente en la fórmula.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 380.
 
-Tratándose de la inelegibilidad de candidatos por el principio de representación proporcional, tomará el lugar del declarado no elegible el que le siga en la lista correspondiente al mismo partido. Cuando dicha lista se agote o no exista, el que sea designado por el propio partido político, este derecho podrá ejercitarse dentro de la etapa preparatoria del proceso electoral.
+Tratándose de la inelegibilidad de candidatos o candidatas por el principio de representación proporcional, tomará el lugar del declarado no elegible el que le siga en la lista correspondiente al mismo partido. Cuando dicha lista se agote o no exista, el que sea designado por el propio partido político, este derecho podrá ejercitarse dentro de la etapa preparatoria del proceso electoral.
 
-En el caso de la declaración de inelegibilidad de un candidato electo por el principio de mayoría relativa, tomará el lugar del declarado no elegible quien fuera su suplente en la fórmula.
+En el caso de la declaración de inelegibilidad de un candidato o candidata electo por el principio de mayoría relativa, tomará el lugar del declarado no elegible quien fuera su suplente en la fórmula.
 
 # LIBRO OCTAVO. DE LOS REGÍMENES SANCIONADOR ELECTORAL Y DISCIPLINARIO INTERNO
 
@@ -5597,17 +7141,37 @@ Son sujetos de responsabilidad por infracciones cometidas a las disposiciones el
 
 I. Los partidos políticos, sus dirigentes y militantes;
 
-II. Los aspirantes, precandidatos y candidatos a cargos de elección popular;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN II ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. Los aspirantes, precandidatos y candidatos a cargos de elección popular;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-III. Los ciudadanos, o cualquier persona física o moral;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-IV. Los observadores electorales o las organizaciones de observadores electorales;
+II. LAS Y LOS ASPIRANTES, PRECANDIDATOS, PRECANDIDATAS, CANDIDATAS Y CANDIDATOS A CARGOS DE ELECCIÓN POPULAR;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN III ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. Los ciudadanos, o cualquier persona física o moral;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+III. LAS Y LOS CIUDADANOS Y CIUDADANAS, O CUALQUIER PERSONA FÍSICA O MORAL;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN IV ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “IV. Los observadores electorales o las organizaciones de observadores electorales;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+IV. LAS Y LOS OBSERVADORES ELECTORALES O LAS ORGANIZACIONES DE OBSERVADORES ELECTORALES;
 
 V. Las autoridades o los servidores públicos de cualquiera de los Poderes de la Unión, de los Poderes del Estado, de los órganos de gobierno municipales, de los órganos autónomos y cualquier otro ente público;
 
-VI. Los notarios públicos;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VI ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VI. Los notarios públicos;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-VII. Los extranjeros;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VI. LAS Y LOS NOTARIOS PÚBLICOS;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VII ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VII. Los extranjeros;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VII. LAS Y LOS EXTRANJEROS;
 
 VIII. Las organizaciones de ciudadanos que pretendan formar un partido político local;
 
@@ -5616,6 +7180,38 @@ IX. Las organizaciones sindicales, laborales o patronales, o de cualquier otra a
 X. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, y
 
 XI. Los demás sujetos obligados en los términos del presente Código.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+CUANDO ALGUNO DE LOS SUJETOS SEÑALADOS EN ESTE ARTÍCULO SEA RESPONSABLE DE LAS CONDUCTAS RELACIONADAS POR VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, CONTENIDAS EN EL ARTÍCULO 383 BIS, ASÍ COMO EN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, SERÁ SANCIONADO EN TÉRMINOS DE LO DISPUESTO EN ESTE CAPÍTULO SEGÚN CORRESPONDA DE ACUERDO CON LO DISPUESTO EN LOS ARTÍCULOS 384 AL 400.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+LAS QUEJAS O DENUNCIAS POR VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, SE SUSTANCIARÁN A TRAVÉS DEL PROCEDIMIENTO ESPECIAL SANCIONADOR.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 383 Bis.
+
+La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción al presente Código por parte de los sujetos de responsabilidad señalados en el artículo 383 del mismo, y se manifiesta, entre otras, a través de las siguientes conductas:
+
+a) Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+b) Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+c) Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+d) Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+e) Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad, y
+
+f) Cualquier otra acción que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
 
 ###### Artículo 384.
 
@@ -5651,7 +7247,19 @@ XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiemp
 
 XIV. La negativa a entregar la información requerida por el Instituto Morelense, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento, y
 
-XV. La comisión de cualquier otra falta de las previstas en este Código.
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XV. EL EJERCER VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XVI. EL INCUMPLIMIENTO A LAS OBLIGACIONES PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, Y
+
+XVII. La comisión de cualquier otra falta de las previstas en este Código.
 
 ###### Artículo 385.
 
@@ -5671,13 +7279,27 @@ V. No presentar el informe de gastos de precampaña o campaña establecidos en e
 
 VI. Cualquier acción, tolerancia u omisión, que basadas en elementos de género, tengan por objeto o resultado menoscabar, anular, obstaculizar o restringir el reconocimiento, goce o ejercicio de los derechos político electorales o de las prerrogativas inherentes a un cargo público;
 
-VII. Exceder el tope de gastos de precampaña o campaña establecido en este Código, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VII. Exceder el tope de gastos de precampaña o campaña establecido en este Código, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-VIII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VII. EXCEDER EL TOPE DE GASTOS DE PRECAMPAÑA O CAMPAÑA ESTABLECIDO EN ESTE CÓDIGO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VIII. EJERCER VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, Y
+
+IX. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 386. Constituyen infracciones de los aspirantes y candidatos independientes a cargos de elección popular al presente Código:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 386.
 
-Constituyen infracciones de los aspirantes y candidatos independientes a cargos de elección popular al presente Código:
+CONSTITUYEN INFRACCIONES DE LOS ASPIRANTES Y CANDIDATOS Y CANDIDATAS INDEPENDIENTES A CARGOS DE ELECCIÓN POPULAR AL PRESENTE CÓDIGO:
 
 a) El incumplimiento de las obligaciones establecidas en este Código;
 
@@ -5709,21 +7331,45 @@ m) La difusión de propaganda política o electoral que contenga expresiones que
 
 n) Cualquier acción, tolerancia u omisión, que basadas en elementos de género, tengan por objeto o resultado menoscabar, anular, obstaculizar o restringir el reconocimiento, goce o ejercicio de los derechos político electorales o de las prerrogativas inherentes a un cargo público;
 
-ñ) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Morelense, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO Ñ) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “ñ) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Morelense, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-o) El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+ñ) LA OMISIÓN O EL INCUMPLIMIENTO DE LA OBLIGACIÓN DE PROPORCIONAR EN TIEMPO Y FORMA, LA INFORMACIÓN QUE LES SEA SOLICITADA POR LOS ÓRGANOS DEL INSTITUTO MORELENSE;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL INCISO O) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+o) EJERCER VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO, Y
+
+p) El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 387. Constituyen infracciones de los ciudadanos, de los dirigentes y afiliados a partidos políticos, o en su caso de cualquier persona física o moral, al presente Código:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 387.
 
-Constituyen infracciones de los ciudadanos, de los dirigentes y afiliados a partidos políticos, o en su caso de cualquier persona física o moral, al presente Código:
+CONSTITUYEN INFRACCIONES DE LOS CIUDADANOS Y CIUDADANAS DE LOS DIRIGENTES Y AFILIADOS A PARTIDOS POLÍTICOS, O EN SU CASO DE CUALQUIER PERSONA FÍSICA O MORAL, AL PRESENTE CÓDIGO:
 
 a) La negativa a entregar la información requerida por el Instituto Morelense, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento, respecto de las operaciones mercantiles, los contratos que celebren, los donativos o aportaciones que realicen, o cualquier otro acto que los vincule con los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular;
 
 b) Contratar propaganda en radio y televisión, tanto en territorio nacional como en el extranjero, dirigida a la promoción personal con fines políticos o electorales, a influir en las preferencias electorales de los ciudadanos, o a favor o en contra de partidos políticos o de candidatos a cargos de elección popular;
 
-c) La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) La promoción de denuncias frívolas. Para tales efectos, se entenderá como denuncia frívola aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-e) (sic) El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c) LA PROMOCIÓN DE DENUNCIAS FRÍVOLAS. PARA TALES EFECTOS, SE ENTENDERÁ COMO DENUNCIA FRÍVOLA AQUÉLLA QUE SE PROMUEVA RESPECTO A HECHOS QUE NO SE ENCUENTREN SOPORTADOS EN NINGÚN MEDIO DE PRUEBA O QUE NO PUEDAN ACTUALIZAR EL SUPUESTO JURÍDICO ESPECÍFICO EN QUE SE SUSTENTE LA QUEJA O DENUNCIA;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL INCISO D) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+d) EJERCER VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, Y
+
+e) El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 ###### Artículo 388.
 
@@ -5741,9 +7387,29 @@ III. El incumplimiento del principio de imparcialidad cuando tal conducta afecte
 
 IV. La utilización de programas sociales y de sus recursos, del ámbito estatal, o municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o coalición, precandidato o candidato;
 
-V. Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “V. Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-VI. El incumplimiento de las disposiciones de carácter local contenidas en la Ley General de Instituciones y Procedimientos Electorales y las contenidas en este Código.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+V. DURANTE LOS PROCESOS ELECTORALES, LA DIFUSIÓN DE PROPAGANDA, EN CUALQUIER MEDIO DE COMUNICACIÓN SOCIAL, QUE CONTRAVENGA LO DISPUESTO POR EL PÁRRAFO OCTAVO DEL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VI. El incumplimiento de las disposiciones de carácter local contenidas en la Ley General de Instituciones y Procedimientos Electorales y las contenidas en este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VI. EL INCUMPLIMIENTO DE LAS DISPOSICIONES DE CARÁCTER LOCAL CONTENIDAS EN LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y LAS CONTENIDAS EN ESTE CÓDIGO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VII. CUALQUIER ACCIÓN, TOLERANCIA U OMISIÓN, QUE, BASADA EN ELEMENTOS DE GÉNERO, TENGAN POR OBJETO O RESULTADO MENOSCABAR, ANULAR, OBSTACULIZAR O RESTRINGIR EL RECONOCIMIENTO, GOCE O EJERCICIO DE LOS DERECHOS POLÍTICO ELECTORALES O DE LAS PRERROGATIVAS INHERENTES A UN CARGO PÚBLICO, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+VIII. MENOSCABAR, LIMITAR O IMPEDIR EL EJERCICIO DE DERECHOS POLÍTICOS ELECTORALES DE LAS MUJERES O INCURRIR EN ACTOS U OMISIONES CONSTITUTIVOS DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, EN LOS TÉRMINOS DE ESTE CÓDIGO Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS.
 
 ###### Artículo 390.
 
@@ -5795,7 +7461,17 @@ b) Con multa de cien hasta cinco mil veces el valor de la Unidad de Medida y Act
 
 Según la gravedad de la falta, con la reducción de hasta el 50% de las ministraciones del financiamiento público, que les corresponda, por el período que señale la reducción, y
 
-c) En los casos de graves y reiteradas conductas violatorias de la Constitución y de este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, con la cancelación de su registro como partido político estatal;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) En los casos de graves y reiteradas conductas violatorias de la Constitución y de este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, con la cancelación de su registro como partido político estatal;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c) EN LOS CASOS DE GRAVES Y REITERADAS CONDUCTAS VIOLATORIAS DE LA CONSTITUCIÓN Y DE ESTE CÓDIGO, ESPECIALMENTE EN CUANTO A SUS OBLIGACIONES EN MATERIA DE ORIGEN Y DESTINO DE SUS RECURSOS, ASÍ COMO LAS RELACIONADAS CON EL INCUMPLIMIENTO DE LAS OBLIGACIONES PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, CON LA CANCELACIÓN DE SU REGISTRO COMO PARTIDO POLÍTICO ESTATAL, Y
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL INCISO D) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+d) TRATÁNDOSE DE INFRACCIONES RELACIONADAS CON EL INCUMPLIMIENTO DE LAS OBLIGACIONES PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, SEGÚN LA GRAVEDAD DE LA FALTA, PODRÁ SANCIONARSE CON LA REDUCCIÓN DE HASTA EL 50% DE LAS MINISTRACIONES DEL FINANCIAMIENTO PÚBLICO QUE LES CORRESPONDA, POR EL PERIODO QUE SEÑALE LA RESOLUCIÓN.
 
 II. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular y dirigentes:
 
@@ -5851,11 +7527,23 @@ VI. Respecto de las organizaciones de ciudadanos que pretendan constituir partid
 
 a) Con amonestación pública;
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO B) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) Con multa de cincuenta hasta quinientas veces el valor de la Unidad de Medida y Actualización, según la gravedad de la falta, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-b) Con multa de cincuenta hasta quinientas veces el valor de la Unidad de Medida y Actualización, según la gravedad de la falta, y
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-c) Con la cancelación del procedimiento tendente a obtener el registro como partido político nacional;
+b) CON MULTA DE CINCUENTA HASTA QUINIENTAS VECES EL VALOR DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, SEGÚN LA GRAVEDAD DE LA FALTA;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) Con la cancelación del procedimiento tendente a obtener el registro como partido político nacional;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+c) CON LA CANCELACIÓN DEL PROCEDIMIENTO TENDENTE A OBTENER EL REGISTRO COMO PARTIDO POLÍTICO;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL INCISO D) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+d) SEGÚN LA GRAVEDAD DE LA FALTA, LA AUTORIDAD ELECTORAL COMPETENTE, PODRÁ RESTRINGIR EL REGISTRO COMO AGRUPACIÓN POLÍTICA.
 
 VII. Respecto de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos:
 
@@ -5867,15 +7555,35 @@ b) Con multa de mil hasta cinco mil veces el valor de la Unidad de Medida y Actu
 
 VIII. Respecto de las autoridades o los servidores públicos de cualquiera de los poderes de la federación, del estado, municipales, órganos autónomos, y cualquier otro ente público:
 
-a) Con amonestación pública;
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL INCISO A) DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+a) CON APERCIBIMIENTO;
+
+b) Con amonestación pública;
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
-b) Con multa de mil hasta cinco mil veces el valor de la Unidad de Medida y Actualización, según la gravedad de la falta;
+c) Con multa de mil hasta cinco mil veces el valor de la Unidad de Medida y Actualización, según la gravedad de la falta;
 
-c) Con la solicitud de la inhabilitación a través del órgano correspondiente, tratándose de una causa grave, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO D) DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) Con la orden del retiro inmediato de la propaganda gubernamental que se publique durante los noventa días previos al día de la jornada electoral inclusive, o la que vulnere lo establecido en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-d) Con la orden del retiro inmediato de la propaganda gubernamental que se publique durante los noventa días previos al día de la jornada electoral inclusive, o la que vulnere lo establecido en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+d) CON LA SOLICITUD DE LA INHABILITACIÓN A TRAVÉS DEL ÓRGANO CORRESPONDIENTE, TRATÁNDOSE DE UNA CAUSA GRAVE;
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO E) DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+e) CON LA ORDEN DEL RETIRO INMEDIATO DE LA PROPAGANDA GUBERNAMENTAL QUE SE PUBLIQUE DURANTE LOS NOVENTA DÍAS PREVIOS AL DÍA DE LA JORNADA ELECTORAL INCLUSIVE, O LA QUE VULNERE LO ESTABLECIDO EN EL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; Y.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL INCISO F) DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+f) AUXILIO DE LA FUERZA PÚBLICA.
 
 ###### Artículo 396.
 
@@ -5921,15 +7629,119 @@ Las multas deberán ser pagadas en la Dirección Ejecutiva de Administración y 
 
 Los recursos económicos obtenidos con motivo de la aplicación de sanciones económicas impuestas por resoluciones decretadas dentro del Régimen Sancionador Electoral, determinados en la normativa, serán considerados créditos fiscales y una vez enterados, serán destinados al Consejo de Ciencia y Tecnología del Estado de Morelos, en los términos de las disposiciones aplicables; los cuales serán utilizados para el fortalecimiento de la infraestructura y proyectos estratégicos en Ciencia, Tecnología e Innovación, los cuales no podrán ejercerse para gasto corriente.
 
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL CAPÍTULO III DEL TÍTULO PRIMERO DEL LIBRO OCTAVO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “DE LAS RESPONSABILIDADES DE LOS MAGISTRADOS.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO III. DE LAS ÓRDENES DE PROTECCIÓN Y DE REPARACIÓN
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 400 Bis.
+
+Las órdenes de protección que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+a) Retirar la campaña violenta contra la víctima, haciendo públicas las razones;
+
+b) Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+c) Si la violencia atentara contra su integridad física o existieran amenazas de muerte, se otorgarán las medidas previstas por el Código Nacional de Procedimientos Penales, en coordinación con la Fiscalía General del Estado;
+
+d) Ordenar la suspensión del cargo partidista, de la persona agresora, y
+
+e) Cualquier otra requerida para la protección de la víctima, o quien en su nombre lo solicite.
+
+Para otorgar las medidas de Protección se deberá realizar el análisis de riesgo y de acuerdo al Plan de Seguridad proceder de manera inmediata.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 400 Ter.
+
+En la resolución de los procedimientos sancionadores por violencia política en contra de las mujeres por razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral que correspondan considerando al menos las siguientes:
+
+a) Indemnización de la víctima;
+
+b) Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia;
+
+c) Disculpa pública, y
+
+d) Medidas de no repetición.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL CAPÍTULO IV DEL TÍTULO PRIMERO DEL LIBRO OCTAVO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “DE LAS RESPONSABILIDADES DE LOS MAGISTRADOS.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO IV. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 400 Quater.
+
+Dentro de los procesos electorales, la Secretaría Ejecutiva del Instituto, por conducto de la Comisión Ejecutiva de Quejas, instruirá el procedimiento especial, cuando se denuncie la comisión de conductas que:
+
+a) Contravengan las normas sobre propaganda política o electoral, o
+
+b) Constituyan actos anticipados de precampaña o campaña.
+
+La Secretaría Ejecutiva por conducto de la Comisión Ejecutiva de Quejas, instruirá el procedimiento especial, en cualquier momento, cuando se presenten denuncias, o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+Artículo 400 Quintus. En los procedimientos relacionados con violencia política contra las mujeres en razón de género, la Comisión Ejecutiva de Quejas, ordenará en forma inmediata iniciar el procedimiento, así como resolver sobre las medidas cautelares de protección que fueren necesarias en un término máximo de veinticuatro horas.
+
+I. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias en un término máximo de veinticuatro horas;
+
+II. Cuando la conducta infractora sea del conocimiento de las autoridades electorales administrativas distritales o municipales, de inmediato la remitirán, a la Secretaría Ejecutiva del Instituto para que ordene iniciar el procedimiento correspondiente;
+
+III. Cuando las denuncias presentadas sean en contra de algún servidor o servidora pública, la Secretaría Ejecutiva dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la Legislación aplicable.
+
+IV. La denuncia deberá contener lo siguiente:
+
+a) Nombre de la persona denunciante, con firma autógrafa o huella digital;
+
+b) Domicilio para oír y recibir notificaciones;
+
+c) Narración expresa de los hechos en que se basa la denuncia;
+
+d) Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas, y
+
+e) En su caso, las medidas cautelares y de protección que se soliciten.
+
+V. La Comisión Ejecutiva de Quejas deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción; tal resolución deberá ser confirmada por escrito y se informará al Tribunal Electoral, para su conocimiento.
+
+VI. La Comisión Ejecutiva de Quejas Electoral desechará la denuncia cuando:
+
+a) No se aporten u ofrezcan pruebas.
+
+b) Sea notoriamente frívola o improcedente.
+
+VII. Cuando la Comisión Ejecutiva de Quejas por conducto de la Secretaría Ejecutiva admita la denuncia, emplazará a las partes, para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión.
+
+En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos;
+
+VIII. En lo procedente, el desarrollo de la audiencia de pruebas y alegatos y su traslado al Tribunal Electoral, se desarrollará conforme lo dispone el reglamento del régimen sancionador electoral, y
+
+IX. Las denuncias presentadas ante el Consejo Estatal Electoral, así como procedimientos iniciados de oficio, deberán ser sustanciados en lo conducente, de acuerdo con el procedimiento establecido en este artículo.
 
 ## TÍTULO SEGUNDO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS ELECTORALES
 
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 401. Para los efectos del presente Capítulo, serán considerados como servidores públicos electorales el Consejero Presidente, los Consejeros Electorales del Instituto Morelense, los magistrados del Tribunal Electoral y, en general, todo aquel que desempeñe un cargo, comisión o empleo en el Instituto Morelense y en el Tribunal Electoral, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 401.
 
-Para los efectos del presente Capítulo, serán considerados como servidores públicos electorales el Consejero Presidente, los Consejeros Electorales del Instituto Morelense, los magistrados del Tribunal Electoral y, en general, todo aquel que desempeñe un cargo, comisión o empleo en el Instituto Morelense y en el Tribunal Electoral, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos del presente Capítulo, serán considerados como servidores públicos electorales la o el Consejero Presidente, las y los Consejeros Electorales del Instituto Morelense, las y los magistrados del Tribunal Electoral y, en general, todo aquel que desempeñe un cargo, comisión o empleo en el Instituto Morelense y en el Tribunal Electoral, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 ###### Artículo 402.
 
@@ -5946,6 +7758,8 @@ IV. Las demás que determine este Código o las leyes que resulten aplicables.
 # LIBRO NOVENO. DE LAS RELACIONES LABORALES
 
 ## TÍTULO ÚNICO. DEL RÉGIMEN JURÍDICO
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 403.
 
@@ -6086,3 +7900,27 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su p
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- (SIC) Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO Y PARIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+P.O. 8 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS NOVENTA.- DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS, SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS; Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO Y PARIDAD”.]
+
+PRIMERA. […]
+
+SEGUNDA. […]
+
+TERCERA. Las reformas legales en materia de violencia política contra las mujeres en razón de género y paridad, contenidas en el presente Decreto, cobrarán vigencia a partir de su publicación respectiva en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+CUARTA. […]
+
+QUINTA. […]
+
+SEXTA. […]
+
+SÉPTIMA. […]
+
+OCTAVA. […]
+
+NOVENA. Se derogan las disposiciones de menor rango que se opongan al presente Decreto.
