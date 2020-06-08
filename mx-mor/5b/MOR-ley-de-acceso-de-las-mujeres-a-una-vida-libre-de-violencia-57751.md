@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2020-01-22"
+last_updated: "2020-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO Y PARIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www2.scjn.gob.mx/).
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -279,15 +281,75 @@ El Estado y los Municipios participaran de manera conjunta en la implementación
 
 ### CAPÍTULO VI BIS. DE LA VIOLENCIA POLÍTICA
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 19 Quater.
 
-La violencia política es cualquier acción, conducta u omisión, que basada en elementos de género, tenga por objeto o resultado menoscabar, anular, obstaculizar o restringir el reconocimiento o ejercicio de los derechos políticos de las mujeres, su participación en asuntos públicos, o de las prerrogativas inherentes a un cargo público.
+La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-Artículo 19 Quintus.- Las autoridades de los distintos órdenes de gobierno, el Instituto Morelense de Procedimientos Electorales y Participación Ciudadana, la Fiscalía General del Estado de Morelos, el Tribunal Electoral del Estado de Morelos y los demás integrantes del Sistema Estatal, coordinarán las acciones e instrumentos interinstitucionales que permitan avanzar en materia de combate de la violencia política contra las mujeres.
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+Artículo 19 Quintus.- Las autoridades de los distintos órdenes de gobierno, el Instituto Morelense de Procedimientos Electorales y Participación Ciudadana, la Fiscalía General del Estado de Morelos, el Tribunal Electoral del Estado de Morelos y los demás integrantes del Sistema Estatal, coordinarán las acciones e instrumentos interinstitucionales que permitan avanzar en materia de combate de la violencia política contra las mujeres, y podrán solicitar a las autoridades competentes el otorgamiento de las medidas que sean necesarias, de protección y de urgente aplicación en función del interés superior de la Víctima.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA ESTE ARTÍCULO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+Artículo 19 Sextus.- La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
+
+I. Incumplir las disposiciones jurídicas locales, nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
+
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
+
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
+
+V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
+
+VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
+
+VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+VIII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+XI. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+XII. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+XIII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+XIV. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+XV. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+XVI. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XVIII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XIX. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+XX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
+
+XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 ### CAPÍTULO VII. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
 
@@ -325,9 +387,9 @@ e. Alterar el proceso natural del parto de bajo riesgo, mediante su patologizaci
 
 f. Practicar el parto vía cesárea cuando existan condiciones para el parto natural, sin obtener el consentimiento expreso e informado de la mujer embarazada;
 
-> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE DEROGA LA FRACCIÓN VII DE ESTE ARTÍCULO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-VII.- Violencia Política.- Es cualquier acto u omisión que limite, niegue, obstaculice, lesione, dañe la integridad y libertad de las mujeres a ejercer en plenitud sus derechos políticos;
+VII.- (DEROGADA, P.O. 8 DE JUNIO DE 2020)
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -639,13 +701,23 @@ La Mesa de Armonización Legislativa a que hace alusión el artículo anterior d
 
 ### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 41.
 
-Las órdenes de protección son personalísimas e intransferibles, son actos de aplicación urgente en función del interés superior de la víctima de violencia en el ámbito familiar y sexual, son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad o autoridades competentes, inmediatamente que conozcan de los hechos probables constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+LAS ÓRDENES DE PROTECCIÓN SON ACTOS FUNDAMENTALMENTE PRECAUTORIOS Y CAUTELARES, DE APLICACIÓN URGENTE EN FUNCIÓN DEL INTERÉS SUPERIOR DE LA VÍCTIMA DE VIOLENCIA, CON CARÁCTER PERSONALÍSIMO E INTRANSFERIBLE. DEBERÁN OTORGARSE POR LA AUTORIDAD O AUTORIDADES COMPETENTES, INMEDIATAMENTE QUE CONOZCAN DE LOS HECHOS PROBABLEMENTE CONSTITUTIVOS DE INFRACCIONES O DELITOS QUE IMPLIQUEN VIOLENCIA CONTRA LAS MUJERES.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
 Consecuentemente no dicta ni causan estado sobre los bienes o derechos de los probables responsables o infractores y duraran por el tiempo que determine la legislación aplicable.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, EL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN CIUDADANA Y EL TRIBUNAL ELECTORAL DEL ESTADO DE MORELOS, PODRÁN SOLICITAR A LAS AUTORIDADES COMPETENTES EL OTORGAMIENTO DE LAS ÓRDENES A QUE SE REFIERE ESTE CAPÍTULO Y DECRETAR LAS QUE SEAN PROCEDENTES EN EL MARCO DE SUS ATRIBUCIONES.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -731,11 +803,17 @@ XI.- La Secretaría de Desarrollo Social;
 
 XII.- La Secretaría de Desarrollo Agropecuario;
 
-XIII.- El Instituto de Desarrollo y Fortalecimiento Municipal, y
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+XIII.- EL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN CIUDADANA;
+
+XIV.- El Instituto de Desarrollo y Fortalecimiento Municipal, y
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-XIV.- La Comisión de Igualdad de Género del Congreso del Estado de Morelos.
+XV.- La Comisión de Igualdad de Género del Congreso del Estado de Morelos.
 
 Lo anterior sin perjuicio de la participación que se requiera de las personas titulares del resto de las Secretarías, Dependencias y Entidades que forman parte de la Administración Pública Estatal, quienes podrán ser convocadas cuando los asuntos a tratar en las sesiones correspondientes sean de su competencia y conforme a lo dispuesto en el Reglamento de la presente Ley.
 
@@ -1259,6 +1337,12 @@ V. Establecer, utilizar y supervisar todos los instrumentos y acciones del Siste
 
 VI. Las demás previstas para el cumplimiento de la presente Ley.
 
+### CAPÍTULO III. DEL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN CIUDADANA
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA ESTE ARTÍCULO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 60.
 
 Corresponde a los Municipios, las siguientes atribuciones:
@@ -1300,6 +1384,20 @@ III.- Asesorar en coordinación con el Instituto de la Mujer en el Estado de Mor
 IV.- Brindar la asesoría que requieran los Municipios a fin de suscribir convenios y acuerdos de colaboración con autoridades federales o estatales, para el eficaz cumplimiento del Programa Estatal en la materia, y
 
 V.- Las demás previstas en la normatividad aplicable para el cumplimiento de esta ley.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE ADICIONA EL CAPÍTULO III AL TÍTULO SEXTO DE ESTE ORDENAMIENTO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 62.
+
+Corresponde al Instituto Morelense de Procesos Electorales y Participación Ciudadana, en el ámbito de sus competencias:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
 
 ## TRANSITORIOS
 
@@ -1660,3 +1758,27 @@ PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma constitucional local.
+
+(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO Y PARIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+P.O. 8 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS NOVENTA.- DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS, SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS; Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO Y PARIDAD".]
+
+PRIMERA. […]
+
+SEGUNDA. […]
+
+TERCERA. Las reformas legales en materia de violencia política contra las mujeres en razón de género y paridad, contenidas en el presente Decreto, cobrarán vigencia a partir de su publicación respectiva en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+CUARTA. […]
+
+QUINTA. […]
+
+SEXTA. […]
+
+SÉPTIMA. […]
+
+OCTAVA. […]
+
+NOVENA. Se derogan las disposiciones de menor rango que se opongan al presente Decreto.
