@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-planeacion-estrategica-del-estado-de-nuevo-leon-97738"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-17"
-last_updated: "2016-04-15"
+last_updated: "2020-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PLANEACIÓN ESTRATÉGICA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2020.
 
 Ley publicada en Periódico Oficial del Estado de Nuevo León, el viernes 17 de enero de 2014.
 
@@ -163,9 +163,9 @@ VIII. El Titular de la Secretaría de Finanzas y Tesorería General del Estado; 
 
 IX. Un representante del Gobierno Federal, a invitación del Presidente del Consejo; y
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-X. El Titular de la Coordinación Ejecutiva de la Administración Pública del Estado.
+X. Titular de la Oficina Ejecutiva.
 
 El Consejo contará con un Secretario Técnico nombrado por el Consejo en la primera sesión; cuyo carácter será remunerado, salvo que se encuentre dentro del supuesto del artículo 141 de la Constitución Política del Estado Libre y Soberano de Nuevo León, y sea designado de entre los integrantes de la administración Pública Estatal.
 
@@ -319,9 +319,9 @@ El Plan Estratégico que sea sometido a consulta pública deberá analizarse y e
 
 El Plan Estratégico Estatal es el documento en el que se identifican las prioridades de mediano plazo para el desarrollo estatal, así como de orientación en la gestión por resultados y presupuesto basado en resultados. Contiene los objetivos, y las estrategias y líneas de acción que implementará el Gobierno del Estado para alcanzarlos; define sus proyectos Estratégicos y programas prioritarios, mismos que serán congruentes con el Plan Estratégico. El Plan Estratégico y el Plan Estatal definen, así mismo, los indicadores del desarrollo económico y social, los cuales deben permitir la formulación de comparaciones nacionales e internacionales.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
-Al inicio de cada administración el Ejecutivo Estatal, es el responsable de formular el Plan Estatal. Para ello se llevará a cabo un ejercicio de consulta ciudadana que permita recoger sus intereses y aspiraciones. Corresponde a la Coordinación Ejecutiva de la Administración Pública del Estado coordinar la formulación del Plan Estatal, el cual se hará del conocimiento del Consejo para su opinión y deberá aprobarse por el Titular del Ejecutivo y publicarse en el Periódico Oficial del Estado dentro de los primeros seis meses de su gestión. Para tal efecto el Ejecutivo del Estado emitirá el manual de procedimientos para la elaboración del Plan Estatal y sus programas.
+Al inicio de cada administración el Ejecutivo Estatal, es el responsable de formular el Plan Estatal. Para ello se llevará a cabo un ejercicio de consulta ciudadana que permita recoger sus intereses y aspiraciones. Corresponde al Titular de la Oficina Ejecutiva la formulación del Plan Estatal, el cual se hará del conocimiento del Consejo para su opinión y deberá aprobarse por el Titular del Ejecutivo y publicarse en el Periódico Oficial del Estado dentro de los primeros seis meses de su gestión. Para tal efecto el Ejecutivo del Estado emitirá el manual de procedimientos para la elaboración del Plan Estatal y sus programas.
 
 El Plan Estatal deberá contener, al menos, los siguientes elementos:
 
@@ -478,3 +478,13 @@ P.O. 15 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 093. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PLANEACIÓN ESTRATÉGICA DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 307. SE REFORMAN LAS FRACCIONES II, XXI Y XXII DEL ARTÍCULO 21; EL ARTÍCULO 23, Y LA FRACCIÓN III DEL ARTÍCULO 29; Y SE DEROGAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17, LAS FRACCIONES I Y IV DEL ARTÍCULO 18 Y LOS ARTÍCULOS 19 BIS Y 22 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 7º, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 16 DE LA LEY DE PLANEACIÓN ESTRATÉGICA DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN II Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 9, EL ARTÍCULO 12; Y SE DEROGAN LA FRACCIÓN X DEL ARTÍCULO 3, DE LA LEY PARA LA MEJORA REGULATORIA Y SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El personal y los recursos materiales que estaban asignados a la Coordinación Ejecutiva de la Administración Pública del Estado, se transferirán a la Dependencia que asuma, en su caso, la o las funciones de ésta, conforme a los reglamentos interiores que expedirá el Ejecutivo del Estado.
+
+TERCERO.- Cuando en otras Leyes, Reglamentos y Acuerdos del Ejecutivo se haga mención del Jefe de la Oficina Ejecutiva del Gobernador, se entenderá al o la Titular de la Oficina Ejecutiva.
