@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-la-ciudad-de-mexico-128986"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2019-12-27"
+last_updated: "2020-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128986&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-21"
 
 LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JUNIO DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 11 de junio de 2018.
 
@@ -61,6 +61,8 @@ Se expide la Ley del Notariado para la Ciudad de México, para quedar como sigue
 LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO. DE LA FUNCIÓN NOTARIAL Y DEL NOTARIADO DE LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], G.O. 8 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO I. EL NOTARIADO COMO GARANTÍA INSTITUCIONAL
 
@@ -102,7 +104,9 @@ XII. Colegio: El Colegio de Notarios de la Ciudad de México, A. C.;
 
 XIII. Comisión de Arbitraje, Legalidad y Justicia: La Comisión de Arbitraje, Legalidad y Justicia del Colegio designada por su junta de Decanos;
 
-XIV. Comisión Registral y Notarial: Comisión Registral y Notarial del Congreso de la Ciudad de México;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+
+XIV. Comisión Registral y Notarial: Comisión Registral, Notarial y Tenencia de la Tierra del Congreso de la Ciudad de México;
 
 XV. Congreso: El Congreso de la Ciudad de México;
 
@@ -124,19 +128,23 @@ XXIII. Índice Electrónico: A la información electrónica capturada de manera 
 
 XXIV. Jornada Notarial: Programa anual, obligatorio y continuo que se organiza en la Ciudad de México en los meses de febrero y marzo de forma conjunta por el Colegio y las Autoridades Competentes, mediante el cual se otorgan importantes reducciones en impuestos, derechos y honorarios Notariales, para la escrituración de inmuebles y la tramitación de sucesiones;
 
-XXV. Ley Orgánica: La Ley Orgánica de la Administración Pública de la Ciudad de México;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE JUNIO DE 2020)</small>
 
-XXVI. Matricidad electrónica: Archivo digital de cualquier documento fuente en soporte papel que integre el protocolo en sentido amplio, incluyendo la imagen del original de los documentos públicos o privados que han sido cotejados por el Notario.
+XXV. Jornada Testamentaria: Campaña organizada conjuntamente por el Colegio y las Autoridades Competentes, en la que mediante convenio y con una dimensión social, establezcan la implementación, entre otros beneficios, de asesorías gratuitas y reducciones de honorarios en testamentos;
 
-XXVII. Notariado: El Notariado de la Ciudad de México;
+XXVI. Ley Orgánica: La Ley Orgánica de la Administración Pública de la Ciudad de México;
 
-XXVIII. Registro Público: El Registro Público de la Propiedad Inmueble y el Registro Público de las Personas Morales, ambos de la Ciudad de México;
+XXVII. Matricidad electrónica: Archivo digital de cualquier documento fuente en soporte papel que integre el protocolo en sentido amplio, incluyendo la imagen del original de los documentos públicos o privados que han sido cotejados por el Notario.
 
-XXIX. Registro Nacional de Testamentos: A la Dirección del Registro Nacional de Avisos de Testamento, dependiente de la Dirección General de Compilación y Consulta del Orden Jurídico Nacional de la Secretaría de Gobernación; y
+XXVIII. Notariado: El Notariado de la Ciudad de México;
 
-XXX. Sistema Informático”: A la plataforma tecnológica e informática del “Notariado” desarrollada y administrada por el “Colegio” que permite a éste y a los Notarios de la Ciudad de México la prestación de servicios de certificación necesarios para garantizar la seguridad, validez y eficacia de la emisión y recepción de comunicaciones y documentos a través de medios electrónicos en las relaciones que se producen entre los prestatarios del servicio notarial, en su interconexión con las autoridades de la Administración Pública Federal, Local y Municipal, “Entes Públicos” y Alcaldías, y entre los propios Notarios y el “Colegio”, a través de una Red Integral Notarial que comprende el almacenamiento y administración del Archivo Electrónico y del Índice Electrónico del Libro de Registro de Cotejos y su “Apéndice Electrónico de Cotejos”, para coadyuvar con el “Archivo” en el cumplimiento de sus fines; y
+XXIX. Registro Público: El Registro Público de la Propiedad Inmueble y el Registro Público de las Personas Morales, ambos de la Ciudad de México;
 
-XXXI. Quejoso: a) La persona física o moral que sea parte de un instrumento notarial
+XXX. Registro Nacional de Testamentos: A la Dirección del Registro Nacional de Avisos de Testamento, dependiente de la Dirección General de Compilación y Consulta del Orden Jurídico Nacional de la Secretaría de Gobernación; y
+
+XXXI. Sistema Informático”: A la plataforma tecnológica e informática del “Notariado” desarrollada y administrada por el “Colegio” que permite a éste y a los Notarios de la Ciudad de México la prestación de servicios de certificación necesarios para garantizar la seguridad, validez y eficacia de la emisión y recepción de comunicaciones y documentos a través de medios electrónicos en las relaciones que se producen entre los prestatarios del servicio notarial, en su interconexión con las autoridades de la Administración Pública Federal, Local y Municipal, “Entes Públicos” y Alcaldías, y entre los propios Notarios y el “Colegio”, a través de una Red Integral Notarial que comprende el almacenamiento y administración del Archivo Electrónico y del Índice Electrónico del Libro de Registro de Cotejos y su “Apéndice Electrónico de Cotejos”, para coadyuvar con el “Archivo” en el cumplimiento de sus fines; y
+
+XXXII. Quejoso: a) La persona física o moral que sea parte de un instrumento notarial
 
 b) Aquellos que acrediten ser prestatarios o solicitantes del servicio notarial, así como los causahabientes de estos, que acrediten tal carácter.
 
@@ -150,7 +158,9 @@ Se equipara a quejoso aquel que obtenga sentencia judicial que se encuentre firm
 
 En la Ciudad de México corresponde al Notariado el ejercicio de la función Notarial, de conformidad con el Artículo 122 de la Constitución y al Artículo 6 de la Constitución de la Ciudad, a través de la reserva y determinación de facultades del Congreso y es tarea de éste regularla y efectuar sobre ella una supervisión legislativa por medio de su Comisión Registral y Notarial.
 
-El Notariado como garantía institucional consiste en un tipo de ejercicio profesional del Derecho y establece las condiciones necesarias para su correcto ejercicio imparcial, calificado, colegiado y libre.
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
+El Notariado como garantía institucional consiste en el sistema que, en el marco del notariado latino, esta ley organiza la función del notario como un tipo de ejercicio profesional del Derecho y establece las condiciones necesarias para su correcto ejercicio imparcial, calificado, colegiado y libre, en términos de ley.
 
 Su imparcialidad y probidad debe extenderse a todos los actos en los que intervenga de acuerdo con ésta y con otras leyes.
 
@@ -176,7 +186,9 @@ Esta Ley establece como principios regulatorios e interpretativos de la función
 
 I. El de la conservación jurídica de fondo y forma del instrumento Notarial y de su efecto adecuado;
 
-II. El de la conservación del instrumento Notarial y de la matricidad en todo tiempo del mismo. Esta matricidad podrá ser en soporte papel o electrónico con equivalencia jurídica y funcional entre ambas y en caso de discrepancia, prevalecerá el soporte en papel, salvo prueba en contrario declarada judicialmente;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+
+II. El de la conservación del instrumento Notarial y de la matricidad en todo el tiempo del mismo. Esta matricidad podrá ser en soporte papel o electrónico con equivalencia jurídica y funcional entre ambas y en caso de discrepancia, prevalecerá el soporte en papel, salvo prueba en contrario declarada judicialmente, con excepción del Apéndice Electrónico de Cotejos, en el que siempre prevalecerá el soporte electrónico;
 
 III. El de la concepción del Notariado como garantía Institucional;
 
@@ -208,9 +220,13 @@ El Jefe de Gobierno expedirá el Decreto de autorización de nuevas Notarías, c
 
 I. La preparación que deben tener los solicitantes de los exámenes de Aspirante y oposición y el de sus respectivos aprobados y triunfadores; y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 8 DE JUNIO DE 2020)</small>
+
 II. La imparcialidad, la calidad profesional, la autonomía, la independencia y el sustrato material y económico de los Notarios.
 
-El Decreto, fundado y motivado, deberá prever un examen de oposición por cada Notaría, tomando en cuenta la población beneficiada y tendencias de su crecimiento, así como las necesidades Notariales de ésta, mediando el tiempo conveniente entre cada convocatoria.
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
+El Decreto, fundado y motivado, deberá prever un examen de oposición hasta por tres Notarías, tomando en cuenta la población beneficiada y tendencias de su crecimiento, así como las necesidades Notariales de ésta, mediando el tiempo conveniente entre cada convocatoria.
 
 El Jefe de Gobierno podrá solicitar la opinión del Colegio para los efectos a que se refiere el primer párrafo de este Artículo.
 
@@ -224,9 +240,11 @@ Los Notarios son auxiliares en la administración de justicia. El Congreso, la A
 
 Toda persona tiene derecho, en términos de esta Ley, al servicio profesional del Notario. El Notario está obligado a prestar sus servicios profesionales, cuando para ello fuere requerido por las Autoridades Competentes, por los particulares o en cumplimiento de resoluciones judiciales, siempre y cuando no exista impedimento legal para realizar el documento Notarial solicitado, salvo las causas de excusa a que se refieren los Artículos 45 y 46 de esta Ley. En los programas especiales previstos por esta Ley participarán todos los Notarios.
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 13.
 
-El Notario ejerce su función sin sometimiento al erario y sin sueldo o paga del Gobierno o de entidades públicas o privadas, ni favoritismo alguno. La fe pública se ejerce en cada caso concreto.
+El Notario ejerce su función sin sometimiento al erario y sin sueldo o paga del Gobierno o de entidades públicas o privadas, ni favoritismo alguno. La fe pública se ejerce en cada caso concreto, y es una función delegada por el Estado, que corresponde a la figura de descentralización por colaboración, por lo que sus actividades son vigiladas o supervisadas por el Gobierno de la Ciudad de México, a través de las autoridades competentes, establecidas en la presente ley.
 
 ###### Artículo 14.
 
@@ -258,9 +276,11 @@ V. Solicitar y obtener el original o copia certificada de los documentos con los
 
 Las Autoridades Competentes podrán requerir de los Notarios la prestación de sus servicios para atender asuntos de orden público o de interés social. En estos casos las autoridades y el Colegio convendrán los honorarios correspondientes.
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 18.
 
-Los Notarios participarán también, con tarifas reducidas y convenidas por el Colegio con las Autoridades Competentes, en programas de fomento a la vivienda, programas de regularización de la tenencia de la propiedad inmueble y el programa de Jornada Notarial.
+Los Notarios participarán también, con tarifas reducidas y convenidas por el Colegio con las Autoridades Competentes, en programas de fomento a la vivienda, programas de regularización de la tenencia de la propiedad inmueble, así como en los programas de Jornada Notarial y Jornada Testamentaria.
 
 ###### Artículo 19.
 
@@ -442,9 +462,11 @@ Cada Notario deberá señalar el horario de trabajo de su oficina, anunciarlo al
 
 #### SECCIÓN SEGUNDA. DEL NOTARIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 44.
 
-Notario es el profesional del Derecho investido de fe pública por el Estado, y que tiene a su cargo recibir, interpretar, redactar y sustentar de forma legal a la voluntad de las personas que ante él acuden, y conferir autenticidad y certeza jurídicas a los actos y hechos pasados ante su fe, mediante la consignación de los mismos en instrumentos públicos de su autoría.
+Notario es el profesional del Derecho investido de fe pública por el Estado, y que tiene a su cargo recibir, interpretar, redactar y dar forma legal a la voluntad de las personas que ante él acuden, y conferir autenticidad y certeza jurídicas a los actos y hechos pasados ante su fe, mediante la consignación de los mismos en instrumentos públicos de su autoría.
 
 El Notario conserva los instrumentos en el protocolo a su cargo, los reproduce y da fe de ellos.
 
@@ -582,9 +604,11 @@ IV. Señalar la obligación de pagar previamente, los derechos que determine el 
 
 Así mismo, esta convocatoria se publicará en el sitio oficial que el Colegio tiene en la red electrónica de información mundial conocida como Internet o la que haga sus veces.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 57.
 
-Para obtener la patente de Notario, el profesional del Derecho interesado, además de no estar impedido para presentar examen, conforme a la fracción VIII del Artículo 60 de esta ley, deberá:
+Para obtener la patente de Notario, el profesional del Derecho interesado, además de no estar impedido para presentar examen, conforme a las fracciones I y VIII del Artículo 60 de esta ley, deberá:
 
 I. Acreditar los requisitos de calidad profesional, práctica y honorabilidad. Los requisitos a que se refiere esta fracción se presumen acreditados en términos de la información ad perpetuam a que se refiere el Artículo 55 de esta Ley, salvo que posteriormente se demuestren hechos concretos que hicieren dudar de dicha cualidad, para lo cual con la opinión del Colegio y la determinación de la autoridad competente podrá ser requerida una complementación del procedimiento de información ad perpetuam;
 
@@ -594,7 +618,9 @@ III. Solicitar la inscripción al examen de oposición, según la convocatoria e
 
 IV. Efectuar el pago de los derechos que fije el Código Fiscal de la Ciudad de México vigente;
 
-V. Obtener el primer lugar en el examen de oposición respectivo, en los términos de los Artículos 58 y 60 de esta ley; y
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+
+V. Obtener, según sea el caso, la o las calificaciones aprobatorias más altas en el examen de oposición respectivo, en los términos de los Artículos 58 y 60 de esta ley; y
 
 VI. Rendir la protesta a que se refiere el Artículo 66 de esta ley, lo que implica para quien la realiza la aceptación de la patente respectiva, su habilitación para el ejercicio Notarial y su pertenencia al Notariado de la Ciudad de México.
 
@@ -658,19 +684,23 @@ Con la apertura del sobre que contenga el tema del examen se dará por iniciada 
 
 El examen para obtener la patente de Notario se regirá por las siguientes reglas:
 
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+
 I. En cada uno podrán concursarse hasta tres notarías, y al examen se hubiesen inscrito al menos tres sustentantes por cada Notaría.
 
-Si el aspirante se inscribió y no se presentó a la prueba práctica o habiéndose presentado a esta última no se presenta o desiste de la prueba teórica, no podrá volverse a presentar para concursar a nueva notaría, sino pasados 3 meses a la fecha en la que debió haberse presentado.
+Si el aspirante se inscribió y no se presentó a la prueba práctica o habiéndose presentado a esta última no se presenta o desiste de la prueba teórica, no podrá volverse a presentar para concursar a nueva notaría, sino pasados 3 meses a partir de la fecha en la que se dé por terminada la oposición.
 
-Para la realización del examen de oposición, los aspirantes inscritos y que hayan realizado el pago de derechos correspondiente, acudirán personalmente ante la Autoridad Competente en la hora, fecha y lugar señalado al efecto, levantándose un acta en la que se señalará la fecha, hora y lugar en que se levanta, los nombres de los representantes del Colegio y de la Autoridad Competente que hayan asistido, los aspirantes que comparezcan a la notificación, la notaría o notarías que se concursa(n), la fecha y hora de la celebración del examen de oposición en su parte práctica y las fechas y horas en que se realizarán las pruebas teóricas del examen, la cual será firmada por los asistentes.
+Para la realización del examen de oposición, los aspirantes inscritos y que hayan realizado el pago de derechos correspondiente, acudirán personalmente ante la Autoridad Competente en la hora, fecha y lugar señalado al efecto, levantándose un acta en la que se señalará la fecha, hora y lugar en que se levanta, los nombres de los representantes del Colegio y de la Autoridad Competente que hayan asistido, los aspirantes que comparezcan a la notificación, la notaría o notarías que se concursa(n), la fecha y hora de la celebración del examen de oposición en su parte práctica y las fechas y horas en que se realizarán las pruebas teóricas del examen, la cual será firmada por los asistentes. En caso de no comparecer el o los aspirantes, se tendrán por desistidos del examen de oposición.
 
-Para la celebración del examen en su parte teórica, deberán estar inscritos y presentar el examen en su parte práctica, por lo menos tres sustentantes por cada notaría que esté en concurso, lo mismo se observara para el caso a que se refiere el primer párrafo de la fracción primera del artículo 60 de esta ley, supuesto en el cual, deberán estar inscritos un total mínimo de nueve sustentantes.
+Para la celebración del examen en su parte teórica, deberán estar inscritos y presentar el examen en su parte práctica, por lo menos tres sustentantes por cada notaría que esté en concurso, lo mismo se observara para el caso a que se refiere el primer párrafo de la fracción primera del artículo 60 de esta ley, supuesto en el cual, deberán estar inscritos un total mínimo de nueve sustentantes, en el caso de que no se cumpla con este requisito se declarará desierta la o las notarías que correspondan.
 
 II. Para la prueba práctica, se reunirán los aspirantes en el Colegio, el día y hora señalados en la convocatoria. En presencia de un representante de la Autoridad Competente y uno del Colegio, alguno de los aspirantes elegirá uno de los sobres que guarden los temas, de entre veinte de ellos, debiendo todos los sustentantes desarrollar el que se haya elegido; así mismo ahí se sorteará el orden de presentación de los sustentantes a la prueba teórica;
 
 III. Al concluirse la prueba práctica, los responsables de la vigilancia de la prueba recogerán los trabajos hechos; los colocarán en sobres que serán cerrados, firmados por ellos y por el correspondiente sustentante, y se depositarán bajo seguro en el Colegio;
 
-IV. La prueba teórica será pública; se iniciará en el Colegio el día y hora señalados por la convocatoria. Los aspirantes serán examinados sucesivamente de acuerdo al orden de presentación, resultado del sorteo señalado. Los aspirantes que no se presenten oportunamente a la prueba, perderán su turno y tendrán derecho. En su caso, a presentar el examen en una segunda vuelta, respetando el orden establecido;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+
+IV. La prueba teórica será pública; se iniciará en el Colegio el día y hora señalados por la convocatoria. Los aspirantes serán examinados sucesivamente de acuerdo al orden de presentación, resultado del sorteo señalado. Los aspirantes que no se presenten oportunamente a la prueba, perderán su turno y tendrán derecho, en su caso, a presentar el examen en una segunda vuelta, respetando el orden establecido;
 
 V. El Aspirante que no se presente a la segunda vuelta se tendrá por desistido;
 
@@ -680,7 +710,9 @@ VII. Para el desahogo del examen teórico deberán celebrarse cuando menos dos s
 
 VIII. Concluida la prueba teórica de cada sustentante, los miembros del jurado emitirán separadamente y por escrito, la calificación que cada uno de ellos otorgue a las pruebas, práctica y teórica, en escala numérica del 0 al 100 y promediarán los resultados. La suma de los promedios se dividirá entre cinco para obtener la calificación final, cuyo mínimo para aprobar será el de 70 puntos; los que obtengan calificación inferior a 70, pero no inferior a 65 puntos, podrán presentar nuevo examen tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el Artículo 57 de esta ley.
 
-Los aspirantes que obtengan una calificación inferior a 65 puntos, no podrán solicitar nuevo examen de oposición, sino pasado un año a partir de su reprobación.
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
+Los aspirantes que obtengan una calificación inferior a 65 puntos, no podrán presentar nuevo examen de oposición, sino pasado un año a partir del día en que concluya la oposición respectiva.
 
 Quienes desistan antes del tiempo máximo de entrega de la prueba práctica, se entenderá que abandonan el examen y podrán presentar nuevo examen, tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el Artículo 57 de esta ley.
 
@@ -698,9 +730,11 @@ Como labor de supervisión, los Órganos Locales de Gobierno podrán, si lo esti
 
 Concluidos los exámenes, el Jefe de Gobierno expedirá las patentes de aspirante y de Notario, a quien haya resultado aprobado y triunfador en el examen respectivo. De cada patente se expedirán dos ejemplares.
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 63.
 
-El Jefe de Gobierno expedirá las patentes a que se refiere el Artículo anterior, y tomará la protesta del fiel desempeño de las funciones del Notario, a quien haya resultado triunfador en el examen, en un plazo que no excederá de treinta días hábiles, contados a partir de la fecha de celebración del mismo.
+El Jefe de Gobierno expedirá las patentes a que se refiere el Artículo anterior, y tomará la protesta del fiel desempeño de las funciones del Notario, a quien o quienes hayan resultado triunfadores en el examen, en un plazo que no excederá de treinta días hábiles, contados a partir de la fecha de celebración del mismo.
 
 ###### Artículo 64.
 
@@ -802,7 +836,9 @@ B. PROTOCOLO
 
 Protocolo es el conjunto de libros formados por folios numerados y sellados en los que el Notario, observando las formalidades que establece la presente Ley, asienta y autoriza las escrituras y actas que se otorguen ante su fe, con sus respectivos apéndices; así como por los libros de registro de cotejos con sus apéndices electrónicos.
 
-En sentido amplio es la expresión que se refiere a todos los documentos que obran en el haber de cada Notaría. El protocolo es abierto, por cuanto lo forman folios encuadernables con número progresivo de instrumentos y de libros. En sentido estricto es tanto el conjunto de instrumentos públicos fuente original o matriz en los que se hace constar las relaciones jurídicas constituidas por los interesados, bajo la fe Notarial; como la colección ordenada cronológicamente de escrituras y actas autorizadas por el Notario y aquellas que no pasaron, y de sus respectivos apéndices, conforme a una periodicidad, procedimiento y formalidades reglados en esta Ley; y que adquiridos a costa del Notario respectivo son conservados permanentemente por él o por su sustituto en términos de esta Ley afectos exclusivamente al fin encomendado y, posteriormente, destinados permanentemente al servicio y matricidad Notarial del documento en el Archivo como propiedad del Estado, a partir de la entrega de los mismos a dicha oficina, en uno o más libros, observando para su redacción y conformación de actos y hechos las formalidades y solemnidades previstas por esta Ley, todo lo que constituye materia de garantía institucional de origen constitucional regulada por esta Ley.
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
+En sentido amplio es la expresión que se refiere a todos los documentos que obran en el haber de cada Notaría. El protocolo es abierto, por cuanto lo forman folios encuadernables con número progresivo de instrumentos y de libros. En sentido estricto es tanto el conjunto de instrumentos públicos fuente original o matriz en los que se hace constar las relaciones jurídicas constituidas por los interesados, bajo la fe Notarial; como la colección ordenada cronológicamente de escrituras y actas autorizadas por el Notario y aquellas que no pasaron, y de sus respectivos apéndices, conforme a una periodicidad, procedimiento y formalidades reglados en esta Ley; y que adquiridos a costa del Notario respectivo son conservados permanentemente por él o por su sustituto en términos de esta Ley afectos exclusivamente al fin encomendado, los cuales son Bienes del Dominio Público de la Ciudad de México, que serán destinados permanentemente al servicio y matricidad Notarial del documento en el Archivo, a partir de la entrega definitiva de los mismos a dicha oficina, en uno o más libros, observando para su redacción y conformación de actos y hechos las formalidades y solemnidades previstas por esta Ley, todo lo que constituye materia de garantía institucional de origen constitucional regulada por esta Ley.
 
 Los folios que forman el protocolo son aquellas hojas que constituyen la papelería oficial que el Notario usa para ejercer la función Notarial. Son el sustracto o base material del instrumento público Notarial, en términos de esta Ley.
 
@@ -812,9 +848,9 @@ Los instrumentos que integren el protocolo deberán constar además en Archivo E
 
 El Archivo únicamente recibirá para depósito definitivo los libros de protocolo y sus respectivos apéndices, en unión del índice electrónico impreso. Esta recepción para depósito definitivo solamente la hará el Archivo si el Colegio emite previamente una constancia de recepción del respectivo Archivo Electrónico. Para tal efecto, treinta días hábiles previos a que concluya el plazo a que se refiere el Artículo 96, el Notario deberá entregar al Colegio para su guarda y custodia el Archivo Electrónico de cada decena que corresponda y el Colegio expedirá una constancia de haber recibido el Archivo Electrónico. El Colegio deberá expedir dicha constancia dentro de los veinte días hábiles siguientes a la recepción del Archivo Electrónico.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE PÁRRAFO ENTRA EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
 
-El Colegio estará obligado a observar en todo momento el secreto profesional que establezcan las leyes. Así mismo, el Colegio en todo momento será responsable de la seguridad, conservación, mantenimiento y actualización del Archivo Electrónico que se encuentre bajo su guarda y custodia, únicamente para los efectos de coadyuvancia con el Archivo quien de forma exclusiva expedirá las copias certificadas y testimonios en soporte electrónico respectivos, previo paro de derechos y aprovechamientos que correspondan.
+El Colegio estará obligado a observar en todo momento el secreto profesional que establezcan las leyes. Así mismo, el Colegio en todo momento será responsable de la seguridad, conservación, mantenimiento y actualización del Archivo Electrónico que se encuentre bajo su guarda y custodia, únicamente para los efectos de coadyuvancia con el Archivo quien de forma exclusiva expedirá las copias certificadas y testimonios en soporte electrónico respectivo, previo pago de derechos y aprovechamientos que correspondan.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE PÁRRAFO ENTRA EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
 
@@ -830,9 +866,11 @@ Excepcionalmente, un libro de protocolo podrá exceder de doscientos folios, si 
 
 El Notario no podrá autorizar acto alguno sin que lo haga constar en los folios que forman el protocolo, salvo los que deban constar en los libros de registro de cotejos. Para lo relativo a la clausura del protocolo se procederá conforme a lo previsto por los Artículos 217 y 218 de esta Ley.
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 79.
 
-Todos los folios y los libros que integren el protocolo deberán estar siempre en la notaría, salvo los casos expresamente permitidos por esta Ley, o cuando el Notario recabe firmas fuera de ella, lo cual se hará cuando será necesario a juicio del Notario. Cuando hubiere necesidad de sacar los libros o folios de la Notaría, lo hará el propio Notario, o bajo su responsabilidad, una persona designada por él.
+Todos los folios y los libros que integren el protocolo deberán estar siempre en la notaría, salvo los casos expresamente permitidos por esta Ley, o cuando el Notario recabe firmas fuera de ella, lo cual se hará cuando sea necesario a juicio del Notario. Cuando hubiere necesidad de sacar los libros o folios de la Notaría, lo hará el propio Notario, o bajo su responsabilidad, una persona designada por él.
 
 ###### Artículo 80.
 
@@ -850,9 +888,11 @@ Para integrar el protocolo, el Colegio, bajo su responsabilidad, proveerá a cad
 
 Al iniciar la formación de una decena de libros, el Notario hará constar la fecha en que se inician, el número que le corresponda dentro de la serie de los que sucesivamente se hayan abierto en la Notaría a su cargo, y la mención de que los libros de la misma se formarán con los instrumentos autorizados por el Notario o por quien legalmente lo substituya en sus funciones, de acuerdo con esta ley. La hoja en la que se asiente la razón a que se refiere este Artículo no irá foliada y se encuadernará antes del primer folio del libro con el cual se inicia la decena. El Notario asentará su sello y firma y contará con un término de cinco días hábiles para dar el aviso de inicio a la Dirección General Jurídica y de Estudios Legislativos, mencionando el número de folio y el número del instrumento Notarial con que dicha decena de libros se inicie.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 84.
 
-La pérdida, el deterioro y la destrucción total o parcial de algún folio, utilizado o pendiente de utilizar, o libro del protocolo deberá ser comunicada por el notario a las Autoridades competentes, una vez cumplidas las disposiciones del artículo 81 de esta Ley. La Autoridad competente podrá autorizar la reposición, restauración y la restitución, en su caso, de los instrumentos en ellos contenidos en papel que reúna los requisitos de seguridad previsto por los artículos 7 fracción I, 76 párrafo tercero, 260 fracciones XIII y XIV de esta Ley y en el supuesto de la reposición, de acuerdo con el siguiente procedimiento:
+La pérdida, el deterioro y la destrucción total o parcial de algún folio, utilizado o pendiente de utilizar, o libro del protocolo deberá ser comunicada por el notario a las Autoridades competentes, una vez cumplidas las disposiciones del artículo 81 de esta Ley. La Autoridad competente podrá autorizar la reposición, restauración y la restitución, en su caso, de los instrumentos en ellos contenidos en papel que reúna los requisitos de seguridad previstos por los artículos 7 fracción I, 76 párrafo tercero, 260 fracciones XIII y XIV de esta Ley y en el supuesto de la reposición, de acuerdo con el siguiente procedimiento:
 
 I.- La reposición del libro o folios de protocolo procede cuando por extravío, destrucción, inutilización, total o parcial, la Autoridad Competente a requerimiento y bajo la responsabilidad del notario, autoriza a éste a reponer los folios a que se refiere el párrafo anterior o reproducciones de instrumentos autorizados e inclusive el mismo libro.
 
@@ -878,7 +918,9 @@ III.- A partir de la autorización el notario tendrá un plazo de 30 días hábi
 
 IV.- Mientras se encuentre en trámite el procedimiento de reposición, el notario queda exento de presentar al Archivo General de Notarías de la Ciudad de México, la decena de libros para revisión o guarda definitiva en términos de los artículos 92 y 96 de esta ley. Concluido el trámite de reposición, los notarios tendrán la obligación de dar cabal cumplimiento a los artículos antes citados. Los términos a que aluden los artículos 92 y 96 comenzarán a correr al día hábil siguiente al de la conclusión del término de treinta días hábiles a que alude la fracción anterior.
 
-VI(sic).- Los folios de reposición serán de las mismas dimensiones y medidas de seguridad que los folios que integran el protocolo, pero tendrán un signo que los distinga de éstos.
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 8 DE JUNIO DE 2020)</small>
+
+V.- Los folios de reposición serán de las mismas dimensiones y medidas de seguridad que los folios que integran el protocolo, pero tendrán un signo que los distinga de éstos.
 
 En caso de pérdida o destrucción parcial o total de un apéndice, se procederá a su reposición obteniendo los documentos que lo integren de sus fuentes de origen o del lugar donde obren y siguiendo siempre el procedimiento antes mencionado, asentando una certificación de que se trata de una reposición.
 
@@ -910,21 +952,23 @@ Cuando se inutilice un folio, se cruzará con líneas de tinta y se colocará al
 
 Todo instrumento se iniciará al principio de un folio y si al final del último empleado en el mismo queda espacio, después de las firmas de autorización, éste se empleará para asentar las notas complementarias correspondientes.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE PÁRRAFO ENTRA EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
-
-Las notas complementarias deberán constar igualmente en formato electrónico y serán ingresadas al "Sistema Informático" conforme se vayan asentando en los folios.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 89.
 
 Si en el último folio donde conste el instrumento no hay espacio para las notas complementarias, se podrán agregar en el folio siguiente al último del instrumento o se pondrá razón de que las notas complementarias se continuarán en hoja por separado, la cual se agregará al apéndice.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE PÁRRAFO ENTRA EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
 
-Las autorizaciones a que se refiere el presente artículo deberán constar igualmente en formato electrónico y serán ingresadas al "Sistema Informático" conforme se vayan asentando en los folios.
+Las notas complementarias deberán constar igualmente en formato electrónico y serán ingresadas al “Sistema Informático” conforme se vayan asentando en los folios.
+
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 90.
 
-Toda autorización preventiva o definitiva de los Notarios, así como las que efectúe el titular del Archivo en términos del Artículo 114 se asentarán sólo en los folios correspondientes del instrumento de que se trate.
+Toda autorización preventiva o definitiva de los Notarios, así como las que efectúe el titular del Archivo en términos del artículo 114 se asentarán sólo en los folios correspondientes del instrumento que se trate.
+
+Las autorizaciones a que se refiere el presente artículo deberán constar igualmente en formato electrónico y serán ingresadas al “Sistema Informático” conforme se vayan asentando en los folios.
 
 ###### Artículo 91.
 
@@ -952,7 +996,9 @@ El Notario deberá guardar en la Notaría, la decena de libros durante cinco añ
 
 Una vez realizada la entrega definitiva a que se refiere el presente artículo, el Notario podrá, sin responsabilidad alguna a su cargo, destruir los testimonios respecto de los instrumentos que consten en las decenas entregadas al Archivo, y que no hayan sido recogidos por el prestatario del servicio o sus causahabientes.
 
-Ésta misma facultad, la tendrá el Archivo, respecto de los testimonios que reciba respecto de la entrega da protocolos de Notarios que hayan cesado en sus funciones por cualquier causa., (sic) y que tengan una antigüedad de más de 5 años.
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
+Ésta misma facultad, la tendrá el Archivo, respecto de los testimonios que reciba respecto de la entrega da (sic) protocolos de Notarios que hayan cesado en sus funciones por cualquier causa, y que tengan una antigüedad de más de 5 años.
 
 ###### Artículo 97.
 
@@ -976,9 +1022,9 @@ VIII. Los datos que el Colegio determine como necesarios para el constante mejor
 
 El Índice se formará a medida que los instrumentos se vayan asentando en forma progresiva en los folios y será capturado en todas las Notarías a través del Sistema Informático para construir una base de datos integral que servirá para adjuntar y conservar el Archivo Electrónico y para las interconexiones que se realicen con las autoridades de la Administración Pública Federal, Local y Municipal, "Entes Públicos" y Alcaldías, y entre los propios Notarios y el "Colegio".
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE PÁRRAFO ENTRA EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
 
-Al entregarse definitivamente la decena de libros al Archivo, se acompañará un ejemplar de dicho índice y la información se conservará de manera permanente en el "Sistema Informático".
+Al entregarse definitivamente la decena de libros al Archivo, se acompañará un ejemplar de dicho índice electrónico y la información se conservará de manera permanente en el “Sistema Informático”.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE ARTÍCULO ENTRA EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
 
@@ -1002,7 +1048,9 @@ IV. El notario certificará con su sello y firma la o las copias cotejadas, haci
 
 Las copias cotejadas deberán contener las medidas de seguridad que señale el Colegio, sin que su omisión sea causa de invalidez de la certificación.
 
-El índice del libro de registro de cotejos en formato electrónico servirá para adjuntar el Apéndice Electrónico de Cotejos constituido por la imagen digitalizada de cada uno de los documentos públicos o privados presentados para cotejo que integran cada registro y que serán remitidos con Firma Electrónica Notarial al Colegio mediante el "Sistema Informático" el cual lo almacenará y resguardará permanentemente en dispositivos magnéticos o bien tecnologías de vanguardia que los sustituyan, a efecto de remitirlo al Archivo en la forma y términos que establezcan las Autoridades Competentes.
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
+El índice del libro de registro de cotejos en formato electrónico servirá para adjuntar el Apéndice Electrónico de Cotejos constituido por la imagen digitalizada de cada uno de los documentos públicos o privados presentados para cotejo que integran cada registro y que serán remitidos con Firma Electrónica Notarial al Colegio mediante el “Sistema Informático” el cual lo almacenará y resguardará permanentemente en dispositivos magnéticos o bien tecnologías de vanguardia que los sustituyan, a efecto de remitirlo al Archivo en la forma y términos que establezcan las Autoridades Competentes, tomando las medidas de seguridad y observando en todo momento el secreto profesional y la privacidad de la información que establezcan las leyes.
 
 El Archivo solo recibirá para depósito definitivo el libro de registro de cotejos. El Notario remitirá al Colegio el respectivo Índice del libro de registro de cotejos con su Apéndice Electrónico de Cotejos.
 
@@ -1012,11 +1060,11 @@ El Archivo solo recibirá para depósito definitivo el libro de registro de cote
 
 Por cada registro, el notario deberá llevar a través del Sistema Informático un Apéndice Electrónico de Cotejos, el cual se integrará con una imagen digitalizada de cada uno de los documentos cotejados que se ordenarán en forma progresiva, sin necesidad de formar dicho apéndice en soporte papel.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL “ACUERDO POR EL QUE SE PUBLICA LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 76 ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, 88 ÚLTIMO PÁRRAFO, 89 ÚLTIMO PÁRRAFO, 97 ÚLTIMO PÁRRAFO, 98, 99 Y 100 DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, ASÍ COMO EL TÍTULO SEXTO DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2019, EL PRESENTE ARTÍCULO ENTRA EN VIGOR A PARTIR DEL 31 DE DICIEMBRE DE 2019.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 100.
 
-Los libros de registro de cotejos se remitirán al Archivo para su guarda al año contado a partir de la fecha de su razón de terminación.
+Los libros de registro de cotejos se remitirán al Archivo para su guarda, dentro de los 10 días hábiles siguientes del año, contado a partir de la fecha de su razón de terminación.
 
 La remisión del Índice electrónico con las imágenes digitalizadas que constituyen el Apéndice electrónico de cotejos se hará al Colegio a través del Sistema Informático, para los efectos de lo dispuesto en el último párrafo del artículo 98 de la presente Ley.
 
@@ -1056,9 +1104,11 @@ VI. Si no le fuese exhibido el documento que contenga los antecedentes en origin
 
 VII. No deberá modificarse en una escritura la descripción de un inmueble, si por una modificación se le agrega un área que no le corresponde conforme a sus antecedentes de propiedad. La adición podrá ser hecha si se funda en una resolución o diligencia judicial, o en una orden o constancia administrativa que provenga de Autoridad Competente. Por el contrario, cualquier error aritmético material o de transcripción que conste en asientos o instrumentos registrales sí podrá rectificarse mediante escritura, sin los requisitos señalados, teniéndose esto en cuenta para que el Registro haga posteriormente la rectificación correspondiente en términos del Código Civil en el asiento respectivo. En todo caso el Notario asentará expresamente el haber efectuado dicha rectificación por la rogación de parte pudiendo expresar las evidencias que le indujeron a efectuarla;
 
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+
 VIII. En las protocolizaciones de actas que se levanten con motivo de reuniones o asambleas, se relacionarán únicamente, sin necesidad de transcribir, o transcribirán los antecedentes que sean necesarios en concepto del Notario para acreditar su legal constitución y existencia, así como la validez y eficacia de los acuerdos respectivos, de conformidad con su régimen legal y estatutos vigentes, según los documentos que se le exhiban al Notario.
 
-En caso de duda judicial esté deberá ser sobre la situación jurídica de fondo de existencia o no de dicha acreditación en el plano de los derechos subjetivos y no por diferencias de criterio formales sobre relación o transcripción. En este caso, sobre dichos antecedentes y dicha acreditación, la carga de la prueba corresponde a quien objeta la validez de los actos contenidos en el documento;
+En caso de duda judicial ésta deberá ser sobre la situación jurídica de fondo de existencia o no de dicha acreditación en el plano de los derechos subjetivos y no por diferencias de criterio formales sobre relación o transcripción. En este caso, sobre dichos antecedentes y dicha acreditación, la carga de la prueba corresponde a quien objeta la validez de los actos contenidos en el documento;
 
 IX. En caso de urgencia, a juicio del Notario, los interesados podrán liberarlo expresamente en la escritura de tener a la vista alguno de los documentos antecedentes;
 
@@ -1110,7 +1160,9 @@ Cuando ante un Notario se vayan a otorgar diversas escrituras, cuyos actos sean 
 
 I. En un primer instrumento, que se llamará de certificación de antecedentes, a solicitud de cualquiera de las partes, el Notario relacionará todos los títulos y demás documentos necesarios para el otorgamiento de dichos actos;
 
-II. En las escrituras en que se contengan éstos, el Notario no relacionará ya los antecedentes que consten en el instrumento indicado en la fracción anterior, sino sólo se haré (sic) mención de su otorgamiento y que conforme al mismo quien dispone puede hacerlo legítimamente; describirá sólo el inmueble materia de la operación y citará el antecedente registral en el que haya quedado inscrita la lotificación en los casos de fraccionamiento, o la constitución del régimen de propiedad en condominio, cuando se trate de actos cuyo objeto sean las unidades del inmueble antecedente; así como los relativos a gravámenes o fideicomisos que se extingan;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+
+II. En las escrituras en que se contengan éstos, el Notario no relacionará ya los antecedentes que consten en el instrumento indicado en la fracción anterior, sino sólo se hará mención de su otorgamiento y que conforme al mismo quien dispone puede hacerlo legítimamente; describirá sólo el inmueble materia de la operación y citará el antecedente registral en el que haya quedado inscrita la lotificación en los casos de fraccionamiento, o la constitución del régimen de propiedad en condominio, cuando se trate de actos cuyo objeto sean las unidades del inmueble antecedente; así como los relativos a gravámenes o fideicomisos que se extingan;
 
 III. Cuando la escritura de lotificación o constitución del régimen de propiedad en condominio se haya otorgado en el protocolo del mismo Notario ante quien se otorguen los actos sucesivos, dicha escritura hará los efectos del instrumento de certificación de antecedentes. Surtirá también esos efectos la escritura en la que por una operación anterior consten en el mismo protocolo los antecedentes de propiedad de un inmueble; y
 
@@ -1182,9 +1234,11 @@ Si quienes deben firmar una escritura no lo hacen a más tardar dentro de los tr
 
 Si la escritura contuviere varios actos jurídicos y dentro del término que se establece en el Artículo anterior se firmare por los otorgantes de uno o de varios de dichos actos y dejare de firmarse por los otorgantes de otro u otros actos, el Notario pondrá la razón “Ante mi” en lo concerniente a los actos cuyos otorgantes han firmado, su firma y su sello, e inmediatamente después pondrá la nota “No pasó” sólo respecto del acto no firmado, el cual quedará sin efecto.
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 119.
 
-El Notario que autorice una escritura en la que mencione a otra u otras escrituras anteriores extendidas en su protocolo, que no hayan sido objeto da registro, lo advertirá así al otorgante interesado y cuidará, una vez que haya sido expensado para ello, en su caso, que se haga en aquél la inscripción o inscripciones, así como la anotación o anotaciones correspondientes. Si el libro de que se trate estuviera depositado definitivamente en el Archivo, el Notario comunicará a dicha dependencia lo procedente para que ésta, sin costo alguno, haga la anotación o anotaciones del caso.
+El Notario que autorice una escritura en la que mencione a otra u otras escrituras anteriores extendidas en su protocolo, que no hayan sido objeto de registro, lo advertirá así al otorgante interesado y cuidará, una vez que haya sido expensado para ello, en su caso, que se haga en aquél la inscripción o inscripciones, así como la anotación o anotaciones correspondientes. Si el libro de que se trate estuviera depositado definitivamente en el Archivo, el Notario comunicará a dicha dependencia lo procedente para que ésta, sin costo alguno, haga la anotación o anotaciones del caso.
 
 ###### Artículo 120.
 
@@ -1202,21 +1256,25 @@ V. El Notario advertirá al compareciente la conveniencia de llevar a cabo el av
 
 En los supuestos previstos en las fracciones I a IV, el aviso podrá ser enviado por correo electrónico o por cualquier otra tecnología, recabando en todo caso, el acuse correspondiente.
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 121.
 
-Los Notarios deberán informar a la Autoridad Competente sobre el otorgamiento o revocación de los poderes, mandatos, y actos de apoderamiento pasados ante su fe, que faculten a realizar actos de disposición sobre bienes inmuebles, dentro de los cinco días hábiles siguientes al otorgamiento del instrumento de que se trate.
+Los Notarios deberán informar a la Autoridad Competente sobre el otorgamiento o revocación de los poderes, mandatos, y actos de apoderamiento pasados ante su fe, ya sean generales o especiales, otorgados por personas físicas y personas morales con fines no mercantiles y que faculten a realizar actos de disposición sobre bienes inmuebles, dentro de los cinco días hábiles siguientes al otorgamiento del instrumento de que se trate.
 
-El aviso correspondiente podrá ser presentado por medios electrónicos cuando la Autoridad Competente cuente con la plataforma necesaria para ello.
+El aviso correspondiente será presentado por medios electrónicos en la Plataforma del Registro Nacional de Avisos de Poderes Notariales, perteneciente a la Secretaría de Gobernación, en un término que no excederá de cinco días hábiles contados a partir de su recepción u otorgamiento.
 
-La Autoridad Competente o en su caso, el Notario, ingresará la información a la base de datos del Registro Nacional de Avisos Poderes Notariales, en un término que no excederá de cinco días hábiles contados a partir de su recepción u otorgamiento.
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 122.
 
-Cuando se revoque, rescinda o modifique un acto contenido en una escritura, se deberá extender una nueva escritura y se realizará la anotación o la comunicación que procedan en los términos previstos en el Artículo anterior, para que se haga la anotación correspondiente.
+Cuando se revoque, rescinda o modifique un acto contenido en una escritura, se deberá extender una nueva escritura y se realizará la anotación o la comunicación que procedan en los términos previstos en el Artículo 120 anterior, para que se haga la anotación correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 123.
 
-Siempre que ante un Notario se otorgue un testamento, éste dará aviso al Archivo, dentro de los cinco días hábiles siguientes, en el que expresará la fecha del otorgamiento, el número de notaría, nombre completo del Notario, tipo de testamento, número de escritura, volumen o tomo, el nombre, sus demás generales, en su caso cualquier otro dato que requiera el formato para integrar los avisos de testamento, y recabará la constancia correspondiente. En caso de que el testador manifieste en su testamento los nombres de sus padres, se incluirán éstos en el aviso.
+Siempre que ante un Notario se otorgue un testamento público abierto, éste dará aviso al Archivo, dentro de los cinco días hábiles siguientes, en el que expresará la fecha del otorgamiento, el número de notaría, nombre completo del Notario, número de escritura, volumen o tomo, el nombre, sus demás generales, en su caso cualquier otro dato que requiera el formato para integrar los avisos de testamento, y recabará la constancia correspondiente. En caso de que el testador manifieste en su testamento los nombres de sus padres, se incluirán éstos en el aviso.
 
 El aviso correspondiente podrá ser presentado por medios electrónicos cuando la Autoridad Competente cuente con la plataforma necesaria para ello.
 
@@ -1448,11 +1506,17 @@ Certificación Notarial es la relación que hace el Notario de un acto o hecho q
 
 I. Las razones que el Notario asienta en copias al efectuar un cotejo conforme a lo previsto en el Artículo 98 de esta Ley;
 
-II. La razón que el Notario asienta al expedir las copias a que se refiere el Artículo anterior. En estos casos la certificación se asentará al final de la transcripción o reproducción, haciendo constar el número y fecha del instrumento del protocolo correspondiente, a no ser que estos datos se reproduzcan al principio de la copia. En el caso a que se refiere la fracción I del Artículo anterior, bastará señalar para qué efectos se expide, sin que conste petición de parte, ni se tomará razón de su expedición en parte alguna del protocolo;
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
+II. La razón que el Notario asienta al expedir las copias a que se refiere el Artículo 157. En estos casos la certificación se asentará al final de la transcripción o reproducción, haciendo constar el número y fecha del instrumento del protocolo correspondiente, a no ser que estos datos se reproduzcan al principio de la copia. En el caso a que se refiere la fracción I del Artículo 157, bastará señalar para qué efectos se expide, sin que conste petición de parte, ni se tomará razón de su expedición en parte alguna del protocolo;
 
 III. La relación sucinta de un acto o hecho, o de uno de sus elementos o circunstancias que consten en su protocolo, que asiente en un documento que al efecto expida a petición de parte o autoridad facultada para hacerlo, o en un documento preexistente, también a solicitud de parte, lo que hará constar en la propia certificación sin necesidad de tomar razón en nota complementaria; y
 
 IV. La razón de existencia de uno o varios documentos que se le exhiban, para acreditar la personalidad de los otorgantes o interesados en una escritura o acta que el Notario asiente en la reproducción total o parcial, lo que será suficiente para dejar acreditada dicha personalidad; bastando para ello relacionar en la escritura o acta respectiva, el número y fecha de la escritura cuyo testimonio o copia se le exhiba, y el nombre y el número del Notario ante quien se haya otorgado, o la autoridad y procedimiento de que se deriven, en caso de ser copias certificadas expedidas respecto de constancias de algún procedimiento judicial. En los casos a que se refieren las fracciones II y III del Artículo anterior, se deberá hacer constar, tanto en nota complementaria como en la razón de certificación respectiva, la autoridad que ordenó el informe o expedición de la copia, del expediente en que ella actúa y el número y fecha del oficio correspondiente. Igualmente, podrá hacer constar en nota complementaria y agregar al apéndice la copia de la comunicación mediante la cual haya sido enviada la copia certificada a la autoridad respectiva. Toda certificación será autorizada por el Notario con su firma y sello.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 8 DE JUNIO DE 2020)</small>
+
+En los casos a que se refieren las fracciones II y III del Artículo 157, se deberá hacer constar, tanto en nota complementaria como en la razón de certificación respectiva, la autoridad que ordenó el informe o expedición de la copia, del expediente en que ella actúa y el número y fecha del oficio correspondiente.
 
 ### CAPÍTULO III. DE LOS EFECTOS, VALOR Y DE LA PROTECCIÓN DE EFECTOS DEL INSTRUMENTO PÚBLICO NOTARIAL
 
@@ -1502,7 +1566,9 @@ VI. Si no está firmado por todos los que deben firmarlo según esta Ley, o no c
 
 VII. Si está autorizado con la firma y sello del Notario cuando debiera tener nota de “No pasó”, o cuando el instrumento no esté autorizado con la firma y sello del Notario; y
 
-VIII. Si el Notario no se aseguré de la identidad de los otorgantes en términos de esta Ley.
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+
+VIII. Si el Notario no se aseguró de la identidad de los otorgantes en términos de esta Ley.
 
 En el caso de la fracción II de este Artículo, solamente será nulo el instrumento en lo referente al acto o hecho relativos, pero será válido respecto de los otros actos o hechos que contenga y que no estén en el mismo caso. Fuera de los casos determinados en este Artículo, el instrumento o asiento será válido. Cuando se demande la nulidad de un acto jurídico no podrá demandarse al Notario la nulidad de la escritura que lo contiene, si no existe alguno de los supuestos a que se refieren las fracciones anteriores. Sin embargo, cuando se dicte la sentencia que declare la nulidad del acto, una vez firme, el juez enviará oficio al Notario o al Archivo según se trate, para que en nota complementaria se tome razón de ello.
 
@@ -1524,9 +1590,11 @@ La copia certificada electrónica será nula en los dos primeros supuestos del A
 
 Cuando se expida un testimonio por Notario, o cuando así corresponda, por el titular del Archivo, se asentará una nota complementaria que contendrá la fecha de expedición, el número de hojas de que conste el testimonio, el número ordinal, que corresponda a éste, según los Artículos 149 y 152 de esta Ley, así como para quién se expida y a qué título. Las constancias sobre los asientos de inscripción puestas por los registros públicos correspondientes al calce de los testimonios, serán relacionadas o transcritas por el Notario en una nota complementaria del instrumento. En todo caso, las notas complementarias llevarán la rúbrica o media firma del Notario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 177.
 
-Se aplicará la pena prevista por Código Penal, en su tipo de falsedad ante autoridades, al que:
+Se aplicará la pena prevista por el artículo 311 del Código Penal, en su tipo de falsedad ante autoridades, al que:
 
 I. Interrogado por Notario de la Ciudad de México, por el Colegio en cumplimiento de las atribuciones establecidas por esta ley, o por el Archivo, falte a la verdad;
 
@@ -1624,9 +1692,11 @@ Estas publicaciones podrán ser suplidas por otra u otras publicaciones en medio
 
 Una vez hechas las publicaciones a que se refiere el Artículo anterior, de lo que se dejará constancia en el instrumento, el o los albaceas presentarán al Notario el inventario y avalúos de los bienes que forman el acervo hereditario del autor de la sucesión para que, con la aprobación de todos los coherederos, en su caso, se realice su protocolización.
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 189.
 
-Los herederos y albacea otorgarán las escrituras de parición y adjudicación tal como haya sido ordenado por el autor de la sucesión en su testamento. A falta de éste, conforme a las disposiciones de la Ley de la materia para los intestados, como los propios herederos convengan.
+Los herederos y albacea otorgarán las escrituras de partición y adjudicación tal como haya sido ordenado por el autor de la sucesión en su testamento. A falta de éste, conforme a las disposiciones de la Ley de la materia para los intestados, como los propios herederos convengan.
 
 ###### Artículo 190.
 
@@ -1704,13 +1774,17 @@ En el caso del varón notario tampoco se computarán dentro de los mencionados 3
 
 Los Notarios podrán solicitar de la Autoridad Competente licencia para separarse del ejercicio de sus funciones hasta por el término de un año renunciable. Para el otorgamiento de la licencia dicha autoridad consultará al Colegio.
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 204.
 
-Sin perjuicio de lo de lo (sic) dispuesto en el Artículo anterior, salvo causa justificada, no se concederá nueva licencia al Notario que no hubiere actuado ininterrumpidamente por seis meses a parir del vencimiento de la anterior licencia. Transcurridos los términos de la licencia o aviso a que se refieren los Artículos anteriores, el Notario deberá reiniciar sus funciones de inmediato.
+Sin perjuicio de lo dispuesto en el Artículo anterior, salvo causa justificada, no se concederá nueva licencia al Notario que no hubiere actuado ininterrumpidamente por seis meses a partir del vencimiento de la anterior licencia. Transcurridos los términos de la licencia o aviso a que se refieren los Artículos anteriores, el Notario deberá reiniciar sus funciones de inmediato.
+
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 205.
 
-La Autoridad Competente concederá licencia, por el tiempo que dure en el ejercicio de su cargo. Al Notario que resulte electo para ocupar un puesto de elección popular o designad para la judicatura o para desempeñar algún empleo, cargo o comisión públicos. El Notario formulará la solicitud correspondiente, exhibiendo constancia certificada expedida por la autoridad de que se trate, junto con el convenio de suplencia correspondiente. Si no presentare éste último, la autoridad, en un lapso no mayor de siete días hábiles y previa consulta que de estimarla conveniente haga al Colegio, procederá a designar al suplente en los términos previstos por el Artículo 194 de esta ley.
+La Autoridad Competente concederá licencia, por el tiempo que dure en el ejercicio de su cargo, al Notario que resulte electo para ocupar un puesto de elección popular o designado para la judicatura o para desempeñar algún empleo, cargo o comisión públicos. El Notario formulará la solicitud correspondiente, exhibiendo constancia certificada expedida por la autoridad de que se trate, junto con el convenio de suplencia correspondiente. Si no presentare éste último, la autoridad, en un lapso no mayor de siete días hábiles y previa consulta que de estimarla conveniente haga al Colegio, procederá a designar al suplente en los términos previstos por el Artículo 194 de esta ley.
 
 #### SECCIÓN PRIMERA. DE LA VIGILANCIA
 
@@ -1986,9 +2060,11 @@ I. Por incurrir reiteradamente en alguno de los supuestos señalados en el Artí
 
 II. Cuando en el ejercicio de su función incurra en reiteradas deficiencias administrativas, y las mismas hayan sido oportunamente advertidas al Notario por la autoridad competente, siendo aquél omiso en corregirlas;
 
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+
 III. Por falta grave de probidad, o notorias deficiencias o vicios debidamente comprobados en el ejercicio de sus funciones;
 
-En el Reglamento, en su caso, se establecerá que se entenderá como falta grave de probidad; y
+Se entenderá como falta grave de probidad al conjunto de actos u omisiones dolosos reiterados que impliquen el incumplimiento de las garantías sociales, de los principios contenidos en las mismas y el buen concepto de la función notarial contemplados en la presente Ley; y
 
 IV. Por permitir la suplantación de su persona, firma o sello.
 
@@ -2164,7 +2240,9 @@ II. Con los protocolos, que no sean aquellos que los Notarios puedan conservar e
 
 III. Con los sellos de los Notarios que deban depositarse o inutilizarse, conforme a las disposiciones de esta ley; y
 
-IV. Con los expedientes manuscritos, libros y demás documentos que conforme a esta ley deba mantener en custodia definitiva.
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+
+IV. Con los expedientes manuscritos, libros y demás documentos que conforme a esta ley deba mantener en custodia definitiva, además de contar con un respaldo en medio digital de cada uno de éstos, previendo los mecanismos de seguridad electrónicos conducentes.
 
 ###### Artículo 249.
 
@@ -2211,6 +2289,12 @@ XIX. Recibir las inspecciones judiciales, fiscales, ministeriales o de autoridad
 XX. Colaborar para la integración, alimentación, mantenimiento y actualización del sistema de datos del Registro Nacional de Testamentos y del Registro Nacional de Poderes; y
 
 XXI. Las demás que le confieran otros ordenamientos jurídicos.
+
+> <small>(ADICIONADO, G.O. 8 DE JUNIO DE 2020)</small>
+
+###### Artículo 249 Bis.
+
+La Autoridad Competente deberá implementar un programa de digitalización de los documentos que integran el Archivo, a fin de generar un documento electrónico que funja como respaldo de los mismos.
 
 ###### Artículo 250.
 
@@ -2298,7 +2382,9 @@ I. Vigilar y organizar el ejercicio de la función Notarial por sus agremiados, 
 
 II. Colaborar con los Órganos de Gobierno de la Ciudad de México y con los poderes de la unión, en todo lo relativo a la preservación y vigencia del Estado de Derecho y leyes relacionadas con la función Notarial;
 
-III. Colaborar con las Autoridades Competentes, actuando como órgano de opinión y de consulta, en todo lo relativo a la función Notarial, así como coordinar la intervención de los Notarios en todos los instrumentos que se requieran en los programas y planes de la Administración;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2020)</small>
+
+III. Colaborar con las Autoridades Competentes y Entes Públicos, actuando como órgano de opinión y de consulta, en todo lo relativo a la función Notarial, así como coordinar la intervención de los Notarios en todos los instrumentos que se requieran en los programas y planes de la Administración;
 
 IV. Colaborar con las autoridades y organismos de vivienda de la Federación y de la Ciudad de México, principalmente en programas de vivienda;
 
@@ -2557,3 +2643,13 @@ OCTAVO.- Para el inicio del nuevo Libro de Registro de Cotejos a que se refiere 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente acuerdo entrará en vigor a partir del 31 de diciembre de 2019.
+
+G.O. 8 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL TÍTULO PRIMERO, CAPÍTULO I; LOS ARTÍCULOS 2, FRACCIÓN XIV Y XXV, RECORRIENDO LAS SUBSECUENTES; 3, PÁRRAFO SEGUNDO; 7 FRACCIÓN II; 10, FRACCIÓN II; 13;18;44 PRIMER PÁRRAFO; 57 PRIMER PÁRRAFO Y FRACCIÓN V; 60, FRACCIÓN I, IV Y VIII SEGUNDO PÁRRAFO; 63; 76 SEGUNDO Y SEXTO PÁRRAFO; 79; 84 PRIMER PÁRRAFO Y MODIFICANDO CONSECUTIVO EN LA FRACCIÓN V; 89 SEGUNDO PÁRRAFO; 90 SEGUNDO PÁRRAFO; 96 ÚLTIMO PÁRRAFO; 97 ÚLTIMO PÁRRAFO; 98, FRACCIÓN IV TERCER PÁRRAFO; 100; 103, FRACCIÓN VIII; 104, FRACCIÓN II; 119; 121; 122; 123; 166, FRACCIÓN II Y IV; 173, FRACCIÓN VIII; 177, PÁRRAFO PRIMERO; 189; 204; 205; 241, FRACCIÓN III; 248, FRACCIÓN IV Y 260, FRACCIÓN III; SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 88; SE ADICIONA EL ARTÍCULO 249 BIS, TODOS DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Para la implementación del programa de digitalización del acervo del Archivo, la Autoridad Competente establecerá un calendario a fin de que a más tardar en enero de 2024 se cuente con el documento electrónico que funja como respaldo de la totalidad de los documentos que resguarda el Archivo.
