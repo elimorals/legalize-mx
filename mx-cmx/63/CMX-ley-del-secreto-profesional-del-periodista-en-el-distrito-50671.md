@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-secreto-profesional-del-periodista-en-el-distrito-50671
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-07"
-last_updated: "2014-09-11"
+last_updated: "2020-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50671&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2006-05-11"
 ---
 # LEY DEL SECRETO PROFESIONAL DEL PERIODISTA EN EL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO POR EL QUE SE ABROGA LA LEY DEL SECRETO PROFESIONAL DEL PERIODISTA EN EL DISTRITO FEDERAL Y SE EXPIDE LA LEY DEL SECRETO PROFESIONAL Y CLÁUSULA DE CONCIENCIA PARA EL EJERCICIO PERIODÍSTICO DE LA CIUDAD DE MÉXICO Y EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL SECRETO PROFESIONAL Y CLÁUSULA DE CONCIENCIA PARA EL EJERCICIO PERIODÍSTICO DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 8 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SECRETO PROFESIONAL DEL PERIODISTA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 11 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JUNIO DE 2020 (ABROGADA).
 
 Ley publicada en el Número Ter de la Gaceta Oficial del Distrito Federal, el miércoles 7 de junio de 2006.
 
@@ -161,3 +163,21 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda
 G.O. 11 DE SEPTIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE JUNIO DE 2020.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO ÚNICO DEL DECRETO POR EL QUE SE ABROGA LA LEY DEL SECRETO PROFESIONAL DEL PERIODISTA EN EL DISTRITO FEDERAL Y SE EXPIDE LA LEY DEL SECRETO PROFESIONAL Y CLÁUSULA DE CONCIENCIA PARA EL EJERCICIO PERIODÍSTICO DE LA CIUDAD DE MÉXICO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ÚNICO. Se aprueba EL DICTAMEN A LAS OBSERVACIONES EMITIDAS POR LA DRA. CLAUDIA SHEINBAUM PARDO, JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, AL DECRETO POR EL QUE SE ABROGA LA LEY DEL SECRETO PROFESIONAL DEL PERIODISTA EN EL DISTRITO FEDERAL Y SE EXPIDE LA LEY DEL SECRETO PROFESIONAL Y CLÁUSULA DE CONCIENCIA PARA EL EJERCICIO PERIODÍSTICO DE LA CIUDAD DE MÉXICO.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DEL SECRETO PROFESIONAL DEL PERIODISTA EN EL DISTRITO FEDERAL Y SE EXPIDE LA LEY DEL SECRETO PROFESIONAL Y CLÁUSULA DE CONCIENCIA PARA EL EJERCICIO PERIODÍSTICO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Cuidad de México, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga la Ley del Secreto Profesional del Periodista en el Distrito Federal.
+
+CUARTO. Todos los procedimientos, recursos y resoluciones administrativas, sanciones y demás asuntos relacionados con las materias a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio.
+
+QUINTO. Los medios de comunicación ubicados en la Ciudad de México tendrán un plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para hacer públicos sus respectivos Códigos de Ética y sus Estatutos de Redacción.
