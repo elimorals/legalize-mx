@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2019-06-07"
+last_updated: "2020-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -141,7 +141,7 @@ Para la eficaz atención y eficiente despacho de los asuntos de su competencia, 
 
 La estructura orgánica de cada dependencia será determinada por el Titular del Poder Ejecutivo en el reglamento interior correspondiente. Cada dependencia deberá contar con manuales de organización y de procedimientos administrativos.
 
-Una Ley Orgánica y su reglamento, determinarán la organización y funcionamiento de la Procuraduría General de Justicia del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ## TÍTULO TERCERO. DE LA COMPETENCIA DE LAS DEPENDENCIAS DEL EJECUTIVO
 
@@ -151,13 +151,13 @@ Una Ley Orgánica y su reglamento, determinarán la organización y funcionamien
 
 Para el estudio y despacho de los asuntos de la Administración Pública del Estado, auxiliarán al Titular del Ejecutivo las siguientes dependencias:
 
-I. Coordinación Ejecutiva de la Administración Pública del Estado;
+I. (DEROGADA, P.O. 8 DE JUNIO DE 2020)
 
 II. Secretaría General de Gobierno;
 
 III. Secretaría de Finanzas y Tesorería General del Estado;
 
-IV. Procuraduría General de Justicia;
+IV. (DEROGADA, P.O. 8 DE JUNIO DE 2020)
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -213,53 +213,9 @@ VII. Informar al Gobernador del Estado de los avances y resultados de los planes
 
 VIII. Las demás que señalen las leyes o decretos, reglamentos, acuerdos y resoluciones del Ejecutivo Estatal.
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2015)</small>
-
 ###### Artículo 19 Bis.
 
-La Coordinación Ejecutiva de la Administración Pública del Estado, tendrá como función coordinar la integración y operación del gabinete de gobierno, servir de enlace con la sociedad civil y orientar las políticas, planes, programas y acciones de la administración pública.
-
-Su titular será propuesto al Congreso del Estado, por el Ejecutivo del Estado, la aprobación se hará previa comparecencia de la persona propuesta, por el voto secreto de cuando menos las dos terceras partes de los integrantes del Congreso, dentro de los cinco días siguientes a la fecha de la comparecencia. Si el Congreso, no se encontrase reunido la Diputación Permanente convocará a un Período Extraordinario de Sesiones, para tal efecto.
-
-En caso de que, transcurrido el plazo de cinco días, el Congreso, rechace a la persona propuesta para ocupar el cargo, se abstenga de resolver, o no se alcance la votación de cuando menos las dos terceras partes de sus integrantes, el Ejecutivo del Estado, en un plazo de diez días, propondrá a otra persona y la aprobación se efectuará en los términos del párrafo anterior.
-
-Si presentada la segunda propuesta, el Congreso la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esta votación, el Ejecutivo del Estado, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación, la cual no podrá recaer en ninguna de las personas que en ese mismo procedimiento ya hubieran sido propuestas al Congreso, para ocupar dicho cargo.
-
-La Coordinación Ejecutiva de la Administración Pública del Estado, tendrá las siguientes facultades y obligaciones:
-
-I. Coordinar la formulación del Plan Estatal de Desarrollo;
-
-II. Formular y proponer al Gobernador políticas públicas, planes, programas y acciones, generales o para cada ramo;
-
-III. Dar seguimiento a las políticas, planes, programas y acciones de gobierno y evaluar sus resultados presupuestales, económicos y sociales, informando al Gobernador de ellos;
-
-IV. Proponer al Gobernador la organización del gobierno, la creación o eliminación de dependencias, unidades administrativas y organismos, para lograr la máxima eficacia, eficiencia y austeridad;
-
-V. Coordinar la formulación de las iniciativas de ley de Ingresos, Ley de Egresos y demás normas que integren el paquete fiscal, en participación con la Secretaría de Finanzas y Tesorería General del Estado y demás dependencias, y proponerlas al Gobernador;
-
-VI. Coordinar las acciones de las diversas Secretarías y organismos en los programas y acciones plurisectoriales, organizando y controlando Unidades de Entrega encargadas de lograr sus resultados;
-
-VII. Coordinar reuniones de gabinete general y de gabinetes funcionales y presidirlas en ausencia del Gobernador;
-
-VIII. Propiciar y facilitar la comunicación y coordinación entre las dependencias y entidades de gobierno;
-
-IX. Integrar y procesar la información de gobierno, a fin de facilitar el diagnóstico, la evaluación y el seguimiento de los planes y programas que se establezcan;
-
-X. Establecer los criterios y estándares a que deben ajustarse los sistemas informáticos del gobierno;
-
-XI. Coordinar la elaboración de los informes de gobierno;
-
-XII. Servir como enlace, apoyo y conducto de comunicación del Gobernador con las organizaciones de la sociedad civil;
-
-XIII. Fomentar, formular y proponer al Gobernador mecanismos de participación ciudadana;
-
-XIV. Diseñar y supervisar sistemas de atención y quejas de ciudadanos;
-
-XV. Comparecer ante el Congreso del Estado de Nuevo León, previa autorización del Gobernador del Estado, para informar sobre los asuntos de sus (sic) ramo; y
-
-XVI. Las demás que señalen las leyes o decretos, reglamentos, acuerdos y resoluciones del Ejecutivo Estatal.
-
-El Coordinador Ejecutivo tendrá rango organizacional y remuneración intermedios entre Gobernador y Secretario. Contará con las unidades que sean necesarias para el eficaz desempeño de sus funciones, las cuales se autorizarán en los términos que indique el Gobernador. Sus órdenes y directrices deberán ser acatadas por las dependencias y organismos de la administración estatal siempre que no estén en conflicto con las órdenes y determinaciones del Gobernador.
+(DEROGADO, P.O. 8 DE JUNIO DE 2020)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -391,9 +347,9 @@ La Secretaría de Finanzas y Tesorería General del Estado es la dependencia enc
 
 I. Recaudar los ingresos de carácter fiscal que establezcan las leyes y aquellos otros ingresos cuya exacción le corresponda o le haya sido delegada de acuerdo a la Ley;
 
-(REFORMADA, P.O. 6 DE ABRIL DE 2016) (F. DE E., P.O. 8 DE ABRIL DE 2016)
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-II. Elaborar conjuntamente con la Coordinación Ejecutiva de la Administración Pública del Estado, y presentar al Ejecutivo el anteproyecto de la Ley de Ingresos y el Presupuesto de Egresos;
+II. Elaborar y presentar al Ejecutivo el anteproyecto de la Ley de Ingresos y el Presupuesto de Egresos;
 
 III. Promover, organizar y realizar estudios con el fin de incrementar los ingresos y mejorar los sistemas de control fiscal;
 
@@ -433,13 +389,13 @@ XIX. Recibir, revisar y reclamar, en su caso, las participaciones en impuestos f
 
 XX. Elaborar los estudios de planeación financiera de las dependencias del Gobierno y de los organismos y entidades del sector paraestatal;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-XXI. Recibir los programas operativos anuales elaborados por las dependencias y entidades de la Administración Pública Estatal y con vista de los mismos formular, en coordinación con la Coordinación Ejecutiva de la Administración Pública del Estado, el Programa Anual del Gasto Público;
+XXI. Recibir los programas operativos anuales elaborados por las dependencias y entidades de la Administración Pública Estatal y con vista de los mismos formular, el Programa Anual del Gasto Público;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-XXII. Elaborar, en coordinación con la Coordinación Ejecutiva de la Administración Pública del Estado, los programas estatales de inversión y someterlos al Ejecutivo para su aprobación, observando congruencia con los planes y estrategias de Gobierno;
+XXII. Elaborar los programas estatales de inversión y someterlos al Ejecutivo para su aprobación, observando congruencia con los planes y estrategias de Gobierno;
 
 XXIII. Integrar y mantener actualizada la información catastral del Estado en los términos de la Ley de la materia;
 
@@ -503,53 +459,13 @@ XLI. (DEROGADA, P.O. 6 DE ABRIL DE 2016)
 
 ###### Artículo 22.
 
-La Procuraduría General de Justicia es la dependencia del Poder Ejecutivo que representa a la institución del Ministerio Público. Además de las atribuciones que específicamente le concede la Constitución Política del Estado, la Ley Orgánica de la Procuraduría General de Justicia y demás leyes vigentes, le corresponde el despacho de los siguientes asuntos:
+(DEROGADO, P.O. 8 DE JUNIO DE 2020)
 
-I. Velar porque todas las autoridades estatales respeten las leyes y, en su caso, proponer al Gobernador las medidas que correspondan para prevenir cualquier violación a las mismas;
-
-II. Conocer, investigar y, en su caso, perseguir ante los tribunales todos los delitos de orden local y solicitar las órdenes de aprehensión a través del Ministerio Público contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad y pedir la aplicación de las penas impuestas por los Tribunales, tramitar por acuerdo del Gobernador las solicitudes de extradición, y velar por el debido cumplimiento de la ejecución de las sentencias, en términos de Ley;
-
-III. Vigilar y garantizar la vigencia de las garantías constitucionales en el Estado;
-
-IV. Presentar al Ejecutivo, en coordinación con el Secretario General de Gobierno y el Secretario de Seguridad Pública, proyectos de leyes, decretos y reglamentos para asegurar que la justicia en el Estado sea pronta, expedita e imparcial;
-
-V. Informar al Ejecutivo Estatal sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado, a fin de que promueva su reforma o derogación;
-
-VI. (DEROGADA, P.O. 29 DE MARZO DE 2010)
-
-VII. (DEROGADA, P.O. 29 DE MARZO DE 2010)
-
-VIII. Convenir y fortalecer las relaciones con los gobiernos federal y municipales, y con otros Estados, así como con la Secretaría de Seguridad Pública, para coordinar esfuerzos en materia de prevención contra la delincuencia organizada, en protección ciudadana y en la persecución de delitos;
-
-IX. Intervenir en los asuntos del orden penal, de adolescentes infractores, civil y familiar, en los cuales el Ministerio Público deba ser oído;
-
-X. Designar y remover, por acuerdo del Gobernador, a los Agentes del Ministerio Público y libremente cambiarlos de adscripción según convenga al mejor servicio;
-
-XI. Dirigir las actividades de la Policía Ministerial en el Estado y coordinar sus acciones con otras autoridades federales, estatales y municipales;
-
-XII. Intervenir en los asuntos y procedimientos en que se ventilen intereses de los ausentes, menores e incapaces, en los casos determinados por la Ley;
-
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2010)</small>
-
-XIII. Ejercer a través del Ministerio Público la acción de extinción de dominio, solicitar las medidas cautelares y efectuar las intervenciones que le correspondan de acuerdo con la Ley de Extinción de Dominio para el Estado de Nuevo León;
-
-XIV. Formular y desarrollar programas de capacitación para el personal de la Procuraduría y de la Policía Ministerial;
-
-XV. Proponer al Gobernador programas que tiendan a prevenir la delincuencia;
-
-XVI. Llevar la estadística e identificación delincuencial del Estado;
-
-XVII. Ejercer las funciones que le encomienden las leyes, en materia de menores infractores;
-
-XVIII. Coordinar, supervisar y evaluar las actividades y resultados de las entidades que le sean sectorizadas; y
-
-XIX. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
 
 ###### Artículo 23.
 
-El Gobernador contará con la Secretaría Particular del Gobernador y la Coordinación de Relaciones Públicas Institucionales quienes serán designados directamente por el Gobernador del Estado y llevarán a cabo las actividades inherentes a su encargo, agenda, protocolo, como aquéllas que se establezcan en el Reglamento que emita el Ejecutivo y las que en forma expresa les asigne el Gobernador del Estado.
+El Gobernador contará con la Oficina Ejecutiva del Gobernador, Secretaría Particular del Gobernador y la Coordinación de Relaciones Públicas Institucionales, cuyos titulares serán designados directamente por el Gobernador del Estado y llevarán a cabo las actividades inherentes a su encargo, agenda, protocolo, así como las que se establezcan en los reglamentos interiores y las que en forma expresa les asigne el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -883,9 +799,9 @@ I. Diseñar y aplicar los programas de obras públicas, conforme a los planes es
 
 II. Dirigir, coordinar y controlar la ejecución de los programas de obras públicas, utilizando las mejores tecnologías y sistemas de construcción disponibles;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
-III. Elaborar, por instrucciones del Ejecutivo y a solicitud de los municipios o de los particulares, en coordinación con la Secretaría de Finanzas y Tesorería General del Estado, la Secretaría de Administración y la Coordinación Ejecutiva de la Administración Pública del Estado, los programas de financiamiento para las obras públicas;
+III. Elaborar, por instrucciones del Ejecutivo y a solicitud de los municipios o de los particulares, en coordinación con la Secretaría de Finanzas y Tesorería General del Estado y la Secretaría de Administración, los programas de financiamiento para las obras públicas;
 
 IV. Brindar la asesoría técnica que soliciten los municipios, para la formulación de los programas que les competa elaborar sobre obras públicas;
 
@@ -1698,3 +1614,13 @@ Cuarto.- Los formatos para declaración señalados en los artículos 29 y 34 del
 Quinto.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto, en materia de justicia administrativa.
 
 Sexto.- Los entes públicos que no tengan designado al Titular de su órgano interno de control, tendrán un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto para designarle.
+
+P.O. 8 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 307. SE REFORMAN LAS FRACCIONES II, XXI Y XXII DEL ARTÍCULO 21; EL ARTÍCULO 23, Y LA FRACCIÓN III DEL ARTÍCULO 29; Y SE DEROGAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17, LAS FRACCIONES I Y IV DEL ARTÍCULO 18 Y LOS ARTÍCULOS 19 BIS Y 22 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 7°, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 16 DE LA LEY DE PLANEACIÓN ESTRATÉGICA DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN II Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 9, EL ARTÍCULO 12; Y SE DEROGAN LA FRACCIÓN X DEL ARTÍCULO 3, DE LA LEY PARA LA MEJORA REGULATORIA Y SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El personal y los recursos materiales que estaban asignados a la Coordinación Ejecutiva de la Administración Pública del Estado, se transferirán a la Dependencia que asuma, en su caso, la o las funciones de ésta, conforme a los reglamentos interiores que expedirá el Ejecutivo del Estado.
+
+TERCERO.- Cuando en otras Leyes, Reglamentos y Acuerdos del Ejecutivo se haga mención del Jefe de la Oficina Ejecutiva del Gobernador, se entenderá al o la Titular de la Oficina Ejecutiva.
