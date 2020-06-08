@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-mejora-regulatoria-y-la-simplificacion-118215"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-18"
-last_updated: "2017-09-12"
+last_updated: "2020-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA MEJORA REGULATORIA Y LA SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 18 de enero de 2017.
 
@@ -85,7 +85,7 @@ VIII. Comisión Municipal: La Comisión Municipal de Mejora Regulatoria o equiva
 
 IX. Consejo: El Consejo Estatal de Mejora Regulatoria;
 
-X. Coordinación Ejecutiva: Coordinación Ejecutiva de la Administración Pública del Estado de Nuevo León;
+X. (DEROGADA, P.O. 8 DE JUNIO DE 2020)
 
 XI. Dependencias: Las mencionadas en la Ley Orgánica de la Administración Pública del Estado de Nuevo León;
 
@@ -263,7 +263,9 @@ El Consejo estará integrado de la siguiente manera:
 
 l. El Gobernador del Estado, quien será el presidente;
 
-II. Coordinador Ejecutivo de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
+
+II. Titular de la Oficina Ejecutiva;
 
 III. El Secretario de Economía y Trabajo;
 
@@ -291,7 +293,9 @@ XIII. Presidente de la Comisión de Transparencia y Acceso a la Información Pú
 
 XIV. Dos ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, al desarrollo económico o social de la localidad propuestos por miembros del Consejo y aprobados por el Presidente del mismo en sesión del pleno.
 
-El Presidente del Consejo será suplido en sus ausencias por el Coordinador Ejecutivo de la Administración Pública del Estado.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
+El Presidente del Consejo será suplido en sus ausencias por el Secretario de Economía y Trabajo.
 
 Por cada miembro propietario, el titular deberá nombrar un suplente, debiendo enviar por escrito dirigido al Secretario Técnico el documento en el que informe de su designación.
 
@@ -341,9 +345,11 @@ El Consejo sesionará válidamente con la asistencia de por lo menos la mitad m�
 
 De cada sesión se levantará un acta en la cual se asentará una síntesis de las discusiones y de los acuerdos tomados por el Consejo. Las actas deberán ser firmadas por los miembros del Consejo que hayan asistido a la sesión correspondiente.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+
 ###### Artículo 12.
 
-La Comisión es el órgano desconcentrado de la Coordinación Ejecutiva de la Administración Pública del Estado, dotada de autonomía técnica, operativa y de gestión, encargada de implementar la Política Pública en la materia.
+La Comisión es un órgano desconcentrado de la Secretaría de Economía y Trabajo, dotada de autonomía técnica, operativa y de gestión, encargada de implementar la Política Publica en la materia.
 
 ###### Artículo 13.
 
@@ -1422,3 +1428,13 @@ Tercero.- La VUMAT y VUC deberán estar integradas y operando en un término de 
 Cuarto.- Se deroga el Artículo Sexto Transitorio del Decreto Número 216.
 
 Quinto.- Se deberá adecuar la legislación en materia de mejora regulatoria de los municipios, en atención a lo dispuesto en el artículo 17 de esta Ley, en un plazo no mayor de 180 días naturales contado a partir de la entrada en vigor de la misma.
+
+P.O. 8 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 307. SE REFORMAN LAS FRACCIONES II, XXI Y XXII DEL ARTÍCULO 21; EL ARTÍCULO 23, Y LA FRACCIÓN III DEL ARTÍCULO 29; Y SE DEROGAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17, LAS FRACCIONES I Y IV DEL ARTÍCULO 18 Y LOS ARTÍCULOS 19 BIS Y 22 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 7°, Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 16 DE LA LEY DE PLANEACIÓN ESTRATÉGICA DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN II Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 9, EL ARTÍCULO 12; Y SE DEROGAN (SIC) LA FRACCIÓN X DEL ARTÍCULO 3, DE LA LEY PARA LA MEJORA REGULATORIA Y SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El personal y los recursos materiales que estaban asignados a la Coordinación Ejecutiva de la Administración Pública del Estado, se transferirán a la Dependencia que asuma, en su caso, la o las funciones de ésta, conforme a los reglamentos interiores que expedirá el Ejecutivo del Estado.
+
+TERCERO.- Cuando en otras Leyes, Reglamentos y Acuerdos del Ejecutivo se haga mención del Jefe de la Oficina Ejecutiva del Gobernador, se entenderá al o la Titular de la Oficina Ejecutiva.
