@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2020-05-22"
+last_updated: "2020-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -1153,9 +1153,15 @@ El reconocimiento de la inocencia del sentenciado y de la anulación de la sente
 
 ### CAPÍTULO V. PERDÓN DEL OFENDIDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 9 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 115.
 
 El perdón del ofendido o del legitimado para otorgarlo, extingue la acción penal respecto de los delitos que se persiguen por querella, siempre que el inculpado no manifieste expresamente su oposición dentro del término de tres días, a partir de su notificación, transcurrido el cual, se le tendrá por conforme. El perdón puede concederse ante el Ministerio Público si éste no ha ejercitado la citada acción o ante el órgano jurisdiccional, hasta antes de dictarse sentencia de segunda instancia. Una vez otorgado el perdón, éste no podrá revocarse.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 9 DE JUNIO DE 2020)</small>
+
+No procederá el perdón del ofendido o del legitimado para otorgarlo en los casos del delito de violencia familiar y su equiparable.
 
 Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorga.
 
@@ -3745,13 +3751,17 @@ III. Con prisión de un año seis meses a cinco años y de cien a doscientos dí
 
 IV. Con prisión de cinco a diez años y de doscientos a quinientos días-multa, si el valor de lo defraudado fuere mayor de seiscientas unidades de medida y actualización;
 
-> <small>(REFORMADA, D.O. 27 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
 
-V. La reparación del daño proveniente de la fracción XVIII del Artículo 324 de este Código, será regulado en la sentencia de gradación del concurso, y
+V. La reparación del daño proveniente de la fracción XVIII del Artículo 324 de este Código, será regulado en la sentencia de gradación del concurso;
 
-> <small>(ADICIONADA, D.O. 27 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
 
-VI. La conducta prevista en la fracción XXIII del artículo 324, se sancionará por su gravedad, con prisión de cuatro a ocho años y de quinientos a mil días-multa si el valor de lo defraudado fuera mayor de seiscientas unidades de medida y actualización.
+VI. La conducta prevista en la fracción XXIII del artículo 324, se sancionará por su gravedad, con prisión de cuatro a ocho años y de quinientos a mil días multa si el valor de lo defraudado fuera mayor de seiscientas unidades de medida y actualización, y
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+VII. Cuando la simulación prevista en la fracción XVII del artículo 324 se hiciera con la intención de afectar las resoluciones provisionales o definitivas de la autoridad competente en materia de pensión de alimentos a las personas contempladas en el artículo 220 de este código se duplicará la sanción, independientemente de las que pudieran resultar por la comisión de cualquier otro delito.
 
 > <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
@@ -3768,6 +3778,8 @@ Este delito se perseguirá por querella de la parte ofendida.
 Si el agente restituye el objeto del ilícito directamente al ofendido o tribunal de los autos antes de dictarse sentencia definitiva de primera o segunda instancia, se impondrá al imputado de tres meses a una tercera parte del máximo de la que correspondería imponer o prescindir de la imposición de las mismas. En ambos casos, el juez o tribunal hará saber al imputado en el momento procedimental oportuno, este beneficio.
 
 ### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 327.
 
@@ -4043,7 +4055,7 @@ En caso de tratarse de robo de ganado, sea mayor o menor, o de aves de corral, l
 
 ###### ARTÍCULO 348.
 
-Se impondrá sanción de seis a doce años de prisión, independientemente de las sanciones que correspondan por otro u otros delitos que resultaren cometidos a quien, por medio de incendio o de explosión, cause daño intencionalmente:
+Se impondrá sanción de seis a doce años de prisión y el equivalente de 10 a 60 días multa, independientemente de las sanciones que correspondan por otro u otros delitos que resultaren cometidos a quien, por medio de incendio, inundación o de explosión, cause daño:
 
 I. En un edificio, en sus dependencias, en una vivienda o cuarto que estén habitados. Si no lo estuvieren, se impondrá la mitad de las sanciones mencionadas;
 
@@ -4058,6 +4070,10 @@ V. En montes, bosques, selvas, pastos, mieses o en cultivos de cualquier género
 VI. En una embarcación, vagón, coche o cualquier otro vehículo destinado al transporte de personas, si están ocupadas por alguna o algunas de éstas. Si no lo estuvieren se impondrán la cuarta parte de las sanciones expresadas en este artículo.
 
 Para la aplicación de las sanciones establecidas en este precepto y en los siguientes, por incendio se entiende fuego grande que abrasa lo que no está destinado a arder.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+Para efectos de este artículo, no se considerará como incendio la quema que se ajuste a lo dispuesto por la Ley de Prevención y Combate de Incendios Agropecuarios y Forestales del Estado de Yucatán.
 
 ###### ARTÍCULO 349.
 
@@ -5138,3 +5154,27 @@ D.O. 22 DE MAYO DE 2020.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del Gobierno del Estado de Yucatán.
+
+D.O. 9 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 232/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE PERDÓN DEL OFENDIDO”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del Gobierno del Estado de Yucatán.
+
+D.O. 9 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 233/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE FRAUDE TRATÁNDOSE DE LA INSOLVENCIA VOLUNTARIA DEL DEUDOR ALIMENTISTA”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 9 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 236/2020 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE DAÑO EN PROPIEDAD AJENA”
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
