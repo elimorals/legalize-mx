@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-gobierno-del-poder-legislativo-del-8401
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-01"
-last_updated: "2019-11-14"
+last_updated: "2020-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 1 de diciembre de 2011.
 
@@ -1639,6 +1639,10 @@ V.- Dirección de Evaluación del Presupuesto, y
 
 VI.- Unidad de Vigilancia y Evaluación de la Auditoría Superior del Estado.
 
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+VII.- Contraloría Interna.
+
 ###### Artículo 178.
 
 La Junta de Gobierno y Coordinación Política emitirá el estatuto interno de la Secretaría General y de la Dirección de Administración y Finanzas del Poder Legislativo. Éstos últimos estarán facultados para proponer sus manuales administrativos y de operación internos.
@@ -1694,6 +1698,10 @@ La Dirección de Evaluación del Presupuesto tendrá la organización, funcionam
 > <small>(ADICIONADO, D.O. 1 DE MARZO DE 2019)</small>
 
 Artículo 185 bis.- La Unidad de Vigilancia y Evaluación de la Auditoría Superior del Estado tendrá la organización, funcionamiento y atribuciones que establecen la Ley de Fiscalización, su reglamento y las demás normas aplicables.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+Artículo 185 ter.- La Contraloría Interna, tendrá la organización y funciones que se establecen en la Ley, su reglamento y las demás normas aplicables.
 
 ## TÍTULO NOVENO. Reformas al Reglamento
 
@@ -1790,3 +1798,15 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente de su
 Derogación expresa
 
 Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 9 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 230/2020 POR EL QUE SE MODIFICAN LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo.- El Congreso del Estado en un plazo que no excederá de 180 días naturales deberá realizar la designación del titular de la Contraloría Interna.
+
+Sin perjuicio de lo ordenado en el párrafo anterior, los ajustes administrativos y estructurales para dar cumplimiento al presente decreto se harán conforme a la capacidad presupuestal.
+
+Tercero.- Se derogan todas las normas que se opongan al presente decreto.
