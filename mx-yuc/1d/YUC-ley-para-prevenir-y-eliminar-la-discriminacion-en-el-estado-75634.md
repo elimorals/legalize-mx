@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-756
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-06"
-last_updated: "2020-05-22"
+last_updated: "2020-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2010.
 
@@ -375,7 +375,11 @@ X.- Establecer incentivos a las empresas que contraten a personas con discapacid
 
 XI.- Sensibilizar, informar y promover la capacitación y asesoraría a los profesionales de la construcción acerca de los requerimientos que establece la ley en la materia para facilitar el acceso y uso de inmuebles, a fin de que desde el diseño original incluyan elementos de accesibilidad, en los que se puedan realizar modificaciones de manera fácil y económica, y pueda ser habitada por personas con discapacidad de acuerdo con sus particularidades personales; incluyendo en ella rutas accesibles desde la vía pública, espacio de transporte, el estacionamiento, hasta el ingreso a la vivienda, y
 
-XII.-Promover que en las Instituciones de Salud y de seguridad social del Estado, los Adultos Mayores reciban regularmente el tratamiento y medicamentos necesarios para mantener y aumentar su capacidad funcional y su calidad de vida.
+XII.- Promover que en las Instituciones de Salud y de seguridad social del Estado, los Adultos Mayores reciban regularmente el tratamiento y medicamentos necesarios para mantener y aumentar su capacidad funcional y su calidad de vida.
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XIII.- Realizar políticas públicas de inclusión y accesibilidad universal para las personas con condición de talla baja.
 
 #### Sección Quinta. De las Medidas Positivas y Compensatorias a favor de la Población Indígena
 
@@ -884,3 +888,11 @@ D.O. 22 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 223/2020 POR EL QUE SE MODIFICA LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN, EN MATERIA DE ACTUALIZACIÓN DE LINEAMIENTOS, CRITERIOS E INDICADORES EN LA APLICACIÓN DE LAS POLÍTICAS PÚBLICAS A FAVOR DE LA NO DISCRIMINACIÓN EN YUCATÁN".]
 
 Artículo único. Este decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 9 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 237/2020 POR EL QUE SE MODIFICA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN Y LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN”.]
+
+Artículo Único. Entrada en vigor
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
