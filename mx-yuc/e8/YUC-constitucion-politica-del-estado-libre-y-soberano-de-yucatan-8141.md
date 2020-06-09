@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2020-05-22"
+last_updated: "2020-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -135,9 +135,9 @@ III.- Prestar los servicios que las Leyes prescriban, considerándose como tales
 
 IV.- Inscribirse en el padrón de su municipalidad manifestando la propiedad que tengan, o la industria, profesión o trabajo de que subsistan; y
 
-> <small>(REFORMADA, D.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
 
-V.- Corresponsabilizarse con el Estado en la protección y vigilancia de los derechos de las niñas, niños y adolescentes, conforme a las leyes, así como hacer que sus hijos concurran a las escuelas públicas o particulares para obtener la educación preescolar, primaria y secundaria y demás asistencia que requieran, según el caso.
+V.- Corresponsabilizarse con el Estado en la protección y vigilancia de los derechos de las niñas, niños y adolescentes, conforme a las leyes, así como ser responsables de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir la educación obligatoria en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -486,6 +486,22 @@ Los Diputados son inviolables por la manifestación de ideas y expresión de opi
 > <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
 
 El Presidente del Congreso en los términos de las leyes garantizará la inviolabilidad del recinto donde los diputados se reúnan a sesionar.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+Los integrantes del Congreso del Estado podrán llevar a cabo sesiones fuera del lugar que ocupe el Recinto del Poder Legislativo de manera presencial o mediante el uso de las tecnologías de la información y la comunicación en los términos que la ley señale.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+Se entenderá, por sesión mediante el uso de las tecnologías de la información y la comunicación, aquella que garantice la posibilidad de comunicación simultánea o consecutiva entre las y los diputados asociadas a la red de internet en conjunto con el sistema informático legislativo.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+Las sesiones señaladas en el párrafo anterior podrán celebrarse por causas de fuerza mayor, fenómenos naturales, situaciones de emergencia o catástrofes tomando en consideración las determinaciones de las autoridades estatales o federales competentes.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+Cuando en esta Constitución se haga referencia a que las o los diputados se encuentren presentes en una sesión, para la aprobación de un asunto que corresponda a las facultades o atribuciones del Congreso, se entenderá que lo estarán si se encuentran en alguno de los casos comprendidos en este artículo y para ello se estará a lo dispuesto al tipo de votación o porcentaje expresamente requerido dentro del numeral que corresponda de esta Constitución.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -2547,35 +2563,93 @@ Los habitantes del Estado tienen derecho a la educación, a la cultura y al acce
 
 Apartado A.- De la Educación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 9 DE JUNIO DE 2020)</small>
+
+El Estado impartirá y garantizará la educación inicial, preescolar, primaria, secundaria, media superior y superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 9 DE JUNIO DE 2020)</small>
+
+La educación inicial, preescolar, primaria y secundaria, conforman la educación básica; esta y la media superior serán obligatorias. La educación superior lo será en términos de la fracción X del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 9 DE JUNIO DE 2020)</small>
+
+La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O. 9 DE JUNIO DE 2020)</small>
+
 Son bases de la Educación que se imparta en el Estado, las siguientes:
 
-> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 9 DE JUNIO DE 2020)</small>
 
-I.- Será progresista, con contenido nacional y regional, democrática y tenderá a la igualdad entre las personas, procurará siempre desarrollar de manera armónica las facultades del ser humano hasta el máximo de sus posibilidades, fomentará, la inclusión, la no discriminación, el civismo, la identidad nacional y el máximo aprovechamiento sustentable de los recursos naturales y promoverá la enseñanza de la lengua de señas mexicana, en la educación básica y el respeto a los derechos humanos, libertades fundamentales y al medio ambiente;
+I.- Será obligatoria, universal, inclusiva, pública, gratuita, progresista, con contenido nacional y regional, democrática y tenderá a la igualdad entre las personas, procurará siempre desarrollar de manera armónica las facultades del ser humano hasta el máximo de sus posibilidades, fomentará la no discriminación, el civismo, la identidad nacional, el máximo aprovechamiento sustentable de los recursos naturales y la protección del medio ambiente, y promoverá la enseñanza de la lengua de señas mexicana, en la educación básica, el respeto a todos los derechos humanos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia, la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], D.O. 9 DE JUNIO DE 2020)</small>
 
-II.- Respecto a la educación del pueblo maya, será objeto de atención especial por parte del Estado, su acceso se garantizará, mediante leyes y programas que contribuyan a su propio desarrollo, de manera equitativa y sustentable, así como, la educación bilingüe e intercultural, basado en el principio de equidad entre las comunidades; estableciendo los mecanismos que permitan el fomento, subsistencia, enriquecimiento, defensa y orgullo de la cultura maya, así como el respeto por otras culturas.
+Además:
+
+a) Será laica, combatirá la ignorancia, el fanatismo y los prejuicios, preparando desde la infancia, para asumir una vida responsable, basada en la comprensión, armonía, tolerancia, equidad de género, inclusión, la no discriminación y cooperación entre todos los pueblos;
+
+b) Coadyuvará con la nación, en la defensa de nuestra independencia política y económica;
+
+c) Priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos;
+
+d) Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
+
+e) Será equitativa, para lo cual el Estado implementará medidas que favorezcan el ejercicio pleno del derecho a la educación de las personas y combatan las desigualdades socioeconómicas y de género en el acceso, tránsito y permanencia en los servicios educativos.
+
+En las escuelas de educación básica de alta marginación, se impulsarán acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario. Asimismo, se respaldará a estudiantes en vulnerabilidad social, mediante el establecimiento de políticas incluyentes y transversales.
+
+En educación para personas adultas, se aplicarán estrategias que aseguren su derecho a ingresar a las instituciones educativas en sus distintos tipos y modalidades;
+
+f) Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancias y necesidades de los educandos. Con base en el principio de accesibilidad se realizarán ajustes razonables y se implementarán medidas específicas con el objetivo de eliminar las barreras para el aprendizaje y la participación;
+
+g) Será intercultural, al promover la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
+
+h) Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar, y
+
+i) Será de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 9 DE JUNIO DE 2020)</small>
+
+II.- Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, lecto-escritura y la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente, entre otras;
+
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+III.- Respecto a la educación del pueblo maya, será objeto de atención especial por parte del Estado; su acceso se garantizará mediante leyes y programas que contribuyan a su propio desarrollo, de manera equitativa y sustentable, así como, la educación plurilingüe e intercultural, basada en el respeto, promoción y preservación del patrimonio histórico y cultural y el principio de equidad entre las comunidades; estableciendo los mecanismos que permitan el fomento, subsistencia, enriquecimiento, defensa y orgullo de la cultura maya, así como el respeto por otras culturas.
 
 Cuando se tratare de programas educativos de contenido regional, el Estado deberá consultar al pueblo maya para su definición y desarrollo;
 
-III.- Coadyuvará con la nación, en la defensa de nuestra independencia política y económica;
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2019)</small>
+IV.- La educación inicial, preescolar, primaria, secundaria, conforman la educación básica, esta y la media superior serán obligatorias; asimismo el Estado promoverá todos los tipos y modalidades educativas;
 
-IV.- Será laica, combatirá la ignorancia, el fanatismo y los prejuicios, preparando desde la infancia, para asumir una vida responsable, basada en la comprensión, armonía, tolerancia, equidad de género, inclusión, la no discriminación y cooperación entre todos los pueblos;
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
 
-V.- El Estado apoyará la investigación científica y tecnológica, su resultado será sustento de la actividad educativa;
+V.- La educación superior será obligatoria en los términos que emanen de la Constitución Política de los Estados Unidos Mexicanos, así como de las que emanen de esta Constitución.
 
-> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2019)</small>
+El Estado establecerá las políticas para fomentar su inclusión, permanencia y continuidad, en los términos que la ley señale;
 
-VI.- El Estado, impartirá gratuitamente educación inclusiva preescolar, primaria y secundaria inclusiva; asimismo promoverá todos los tipos y modalidades;
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
 
-VII.- La educación media superior y superior podrán ser gratuitas, según lo determinen las leyes;
+VI.- Reconocerá a las maestras y maestros como agentes fundamentales del proceso educativo y su contribución a la transformación social;
 
-VIII.- Las Instituciones Educativas particulares no funcionarán y los estudios que impartan no tendrán validez, sin que previamente cuenten con autorización oficial; estas podrán ser de todos los tipos y modalidades, con sujeción a lo dispuesto en esta Constitución, y
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
 
-IX.- Las universidades y demás instituciones de educación superior, a las que la Ley otorgue autonomía, se regirán conforme a lo siguiente:
+VII.- El Estado garantizará materiales didácticos, la infraestructura educativa, su mantenimiento y que las condiciones del entorno, sean idóneas y contribuyan a los fines de la educación, reconociendo que los planteles escolares constituyen un espacio fundamental para el proceso de enseñanza aprendizaje;
+
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+VIII.- El Estado apoyará la investigación e innovación científica, tecnológica y humanística, su resultado será sustento de la actividad educativa en concordancia con las leyes reglamentarias de carácter federal, estatal y municipal que así lo dispongan;
+
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+IX.- Las Instituciones Educativas particulares no funcionarán y los estudios que impartan no tendrán validez, sin que previamente cuenten con autorización oficial; estas podrán ser de todos los tipos y modalidades, con sujeción a lo dispuesto en esta Constitución.
+
+El Estado será quien otorgue y retire los reconocimientos de validez, con apego a lo que indique la normativa reglamentaria, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA CON SUS INCISOS], D.O. 9 DE JUNIO DE 2020)</small>
+
+X.- Las universidades y demás instituciones de educación superior, a las que la Ley otorgue autonomía, se regirán conforme a lo siguiente:
 
 a) Tendrán la facultad de gobernarse a sí mismas;
 
@@ -2589,7 +2663,9 @@ e) Fijarán los términos de ingreso, promoción y permanencia de su personal ac
 
 f) Administrarán su patrimonio, y
 
-g) Las relaciones laborales, tanto del personal académico como del administrativo, se regirán por el apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los términos de la Ley Federal del Trabajo, conforme a las características propias de un trabajo especial.
+> <small>(REFORMADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+g) Regirán sus relaciones, con el personal académico y administrativo, por el apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los términos de la Ley Federal del Trabajo, conforme a las características propias de un trabajo especial.
 
 > <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
 
@@ -4670,3 +4746,31 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 Segundo.- Derogación Expresa
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga (sic) al presente decreto.
+
+D.O. 9 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 228/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación normativa
+
+El Congreso del Estado de Yucatán deberá de expedir las modificaciones necesarias a la legislación secundaria para armonizarla a las disposiciones de este decreto en un plazo no mayor a noventa días naturales contado a partir de su entrada en vigor.
+
+Tercero. Derogación Expresa
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O. 9 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 229/2020 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE SESIONES FUERA DEL RECINTO LEGISLATIVO POR CONTINGENCIA”.]
+
+Artículo Primero. Entrada en vigor.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Artículo segundo. Derogación expresa.
+
+Se derogan todas las disposiciones de igual o mayor jerarquía que se opongan al presente decreto.
