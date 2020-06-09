@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-21"
-last_updated: "2019-07-31"
+last_updated: "2020-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 21 de diciembre de 2011.
 
@@ -35,7 +35,9 @@ QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS:.
+EXPOSICIÓN DE MOTIVOS:
+
+[...]
 
 Por todo lo expuesto y fundado, los integrantes de esta Comisión Permanente de Equidad de Género, Grupo Vulnerables y Derechos Humanos, consideramos viable aprobar la Ley para la Protección de los Derechos de las Personas con Discapacidad del Estado de Yucatán, por todos los razonamientos en este dictamen. En tal virtud con fundamento en el artículo 30 fracción V de la Constitución Política, y 18 y 43 fracción XII de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -103,7 +105,9 @@ XX.- Organizaciones de la Sociedad Civil: todas aquellas organizaciones sociales
 
 XXI.- Perro guía o animal de servicio: aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
-XXII.- Persona con discapacidad: toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XXII.- Persona con discapacidad: toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, así como una condición de talla baja, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
 
 XXIII.- Política pública: todos aquellos planes, programas, mecanismos o acciones que la autoridad desarrolle para asegurar los derechos establecidos en esta Ley;
 
@@ -369,9 +373,11 @@ XII.- La Transversalidad.
 
 ### CAPÍTULO I. Derecho a la igualdad y no discriminación
 
+> <small>(REFORMADO, D.O. 9 DE JUNIO DE 2020)</small>
+
 ###### Artículo 17.
 
-Todas las personas con discapacidad gozarán plenamente de todos los derechos que establece esta Ley y demás ordenamientos legales, en igualdad de condiciones que las demás, sin distinción de origen étnico, nacional, género, edad, condición social, económica o de salud, religión, opiniones, estado civil, preferencias sexuales, embarazo, identidad política, lengua, situación migratoria o cualquier otra característica propia de la condición humana o que atente contra su dignidad.
+Todas las personas con discapacidad gozarán plenamente de todos los derechos que establece esta Ley y demás ordenamientos legales, en igualdad de condiciones que las demás, sin distinción de origen étnico, nacional, género, edad, una condición de talla baja, condición social, económica o de salud, religión, opiniones, estado civil, preferencias sexuales, embarazo, identidad política, lengua, situación migratoria o cualquier otra característica propia de la condición humana o que atente contra su dignidad.
 
 ###### Artículo 18.
 
@@ -1404,3 +1410,11 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 9 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 237/2020 POR EL QUE SE MODIFICA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN Y LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN”.]
+
+Artículo Único. Entrada en vigor
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
