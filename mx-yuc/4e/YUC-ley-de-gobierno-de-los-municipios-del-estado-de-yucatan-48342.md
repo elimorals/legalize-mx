@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2020-01-09"
+last_updated: "2020-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -829,13 +829,27 @@ XIII.- Procurar dotar del equipamiento médico básico que sea necesario, confor
 
 XIV.- Garantizar que las cárceles municipales cubran con los requisitos mínimos de salubridad e higiene;
 
-> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
 
-XV.- Promover y coadyuvar con la certificación de los establecimientos dedicados al sacrificio de animales o que procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal de competencia municipal ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
+XV.- Promover y coadyuvar con la certificación de los establecimientos dedicados al sacrificio de animales o que procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal de competencia municipal ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
 
-XVI.- Las demás que les asignen otras leyes en el ámbito de su competencia.
+XVI.- Promover programas, actividades y mecanismos de atención a la salud mental para la prevención del suicidio, pudiendo llevar a cabo convenios de colaboración en la materia con autoridades de salud a nivel estatal, así como con universidades que tengan la carrera de psicología o instituciones afines a la materia. También deberán brindar la atención necesaria y el seguimiento oportuno a las familias de quienes han sufrido un intento de suicidio o el suicidio consumado en su núcleo familiar;
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XVII.- Deberá promover e informar a la población sobre los centros de ayuda a los que pueden acudir en caso de intento de suicidio o suicidio consumado;
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XVIII.- Deberá promover pláticas sobre prevención, intervención y posvención del suicidio, preferentemente, a través del Sistema Municipal para el Desarrollo Integral de la Familia;
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XIX.- Llevar un registro, a través de un formato único, de quienes tienen riesgo suicida, para realizar pláticas de prevención e intervención; así como de familiares de víctimas de suicidio para realizar acciones de posvención, y
+
+XX.- Las demás que les asignen otras leyes en el ámbito de su competencia.
 
 ###### Artículo 44.
 
@@ -3648,3 +3662,15 @@ D.O. 9 DE ENERO DE 2020.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 9 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 238/2020 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE SUICIDIO”.]
+
+Primero.- Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo.- Derogación Expresa
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se oponga al presente decreto.
