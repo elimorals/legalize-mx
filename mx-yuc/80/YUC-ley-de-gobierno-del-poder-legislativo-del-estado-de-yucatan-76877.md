@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2019-11-14"
+last_updated: "2020-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -53,7 +53,9 @@ LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO ÚNICO. Del objeto de la Ley
+> <small>(REFORMADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO I. Del Objeto de la Ley
 
 ###### Artículo 1.
 
@@ -157,6 +159,62 @@ XXVI.- Períodos Ordinarios: Son las sesiones efectuadas por el Pleno del Congre
 
 XXVII.- Períodos Extraordinarios: Son las sesiones efectuadas por el Pleno del Congreso convocadas por la Diputación Permanente dentro de las facultades que le confiere el artículo 43 fracción I de la Constitución Política del Estado. En estas sesiones únicamente se abordarán los asuntos para los cuales se convocó en el acuerdo respectivo mismo que deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
 
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XXVIII.- Datos abiertos: Los datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier interesado y que tienen las siguientes características:
+
+a) Accesibles: Los datos están disponibles para la gama más amplia de usuarios y para cualquier propósito;
+
+b) Integrales: Contienen el tema que describen a detalle y con los metadatos necesarios;
+
+c) Gratuitos: Se obtienen sin entregar a cambio contraprestación alguna;
+
+d) No discriminatorios: Los datos están disponibles para cualquier persona, sin necesidad de registro;
+
+e) Oportunos: Son actualizados, periódicamente, conforme se generen;
+
+f) Permanentes: Se conservan en el tiempo, para lo cual, las versiones históricas relevantes para uso público se mantendrán disponibles con identificadores adecuados al efecto;
+
+g) Primarios: Provienen de la fuente de origen con el máximo nivel de desagregación posible;
+
+h) Legibles por máquinas: Deberán estar estructurados, total o parcialmente, para ser procesados e interpretados por equipos electrónicos de manera automática;
+
+i) En formatos abiertos: Los datos estarán disponibles con el conjunto de características técnicas y de presentación que corresponden a la estructura lógica usada para almacenar datos en un archivo digital, cuyas especificaciones técnicas están disponibles públicamente, que no suponen una dificultad de acceso y que su aplicación y reproducción no estén condicionadas a contraprestación alguna, y
+
+j) De libre uso: Citan la fuente de origen como único requerimiento para ser utilizados libremente.
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XXIX.- Principios de Parlamento Abierto: Conjunto de reglas que conforman el sistema de parlamento abierto; se entenderá por principios de Parlamento Abierto los siguientes:
+
+a) Derecho a la información: Principio que garantiza el derecho de acceso a la información que producen, poseen y resguardan, mediante marcos normativos, mecanismos, sistemas, procedimientos, plataformas, que permitan un acceso de manera simple, sencilla, oportuna, sin que media (sic) la necesidad de justificar la solicitud;
+
+b) Participación ciudadana y Rendición de cuentas: Precisa promover la participación de todos aquellos interesados en la toma de decisiones en las actividades legislativas; se deben prever mecanismos y herramientas que faciliten la supervisión de tareas por parte de la población, así como las acciones de control realizadas por sus contralorías internas y los demás organismos legalmente constituidos para ello;
+
+c) Información parlamentaria: Prevé la publicación y difusión proactiva de la mayor cantidad de información relevante para la ciudadanía, en formatos sencillos, con mecanismos de búsqueda amigables y bases de datos en línea con actualización periódica;
+
+d) Información presupuestal y administrativa: implica la publicación y divulgación de información oportuna, detallada sobre la gestión, administración y gasto del presupuesto asignado a la institución legislativa, así como a los organismos que lo integran: comisiones legislativas, personal de apoyo, grupos parlamentarios y representantes populares en lo individual;
+
+e) Información sobre legisladores y servidores públicos: Debe publicarse información detallada sobre los representantes de elección popular y de los servidores públicos que lo integran, incluidas la declaración patrimonial y registro de interés de los representantes;
+
+f) Información histórica: Implica disponibilidad de información de la actividad Legislativa que conforma un archivo histórico, accesible y abierto, en un lugar que se mantenga constante en el tiempo con una URL permanente;
+
+g) Datos abiertos y no propietario: La información debe estar disponible con características de datos abiertos, interactivos e históricos, utilizar software libre y de código abierto y facilitar la descarga masiva de información en formatos de datos abiertos;
+
+h) Accesibilidad y difusión: asegura que las instalaciones, las sesiones y reuniones sean accesibles y abiertas al público; que la transmisión sea en tiempo real de los procedimientos parlamentarios por canales de comunicación abiertos;
+
+i) Conflictos de interés: debe regular, ordenar y transparentar las acciones de cabildeo, contar con mecanismos para evitar conflictos de interés y asegurar la conducta ética de los representantes;
+
+j) Legislar a favor del gobierno abierto: implica la aprobación de leyes que favorezcan políticas de gobierno abierto en otros poderes y órdenes de gobierno, asegurándose de que en todas las funciones de la vida parlamentaria se incorporen estos principios;
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XXX.- Página de Internet del Poder Legislativo: Medio de difusión electrónica del Congreso del Estado para dar a conocer actividades relevantes en materia legislativa y aquellas que regulen las leyes de la materia, y,
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+XXXI.- Micrositios: Sitios de internet que agrupan información específica dentro de la Página de Internet del Poder Legislativo, permitiendo la difusión de la misma o recabar información de la ciudadanía para algún propósito en particular.
+
 ###### Artículo 6.
 
 La sede del Poder Legislativo, es el lugar donde actualmente se realizan las sesiones de Pleno, está ubicada en la ciudad de Mérida, capital del Estado, y sólo por causa justificada podrá ser trasladada provisional o definitivamente a otro sitio.
@@ -193,11 +251,101 @@ El público asistente deberá guardar el debido orden y deberá abstenerse de to
 
 El Poder Legislativo tendrá plena autonomía para el ejercicio de su presupuesto de egresos, mismo que será suficiente para el adecuado desarrollo de sus atribuciones y para organizarse administrativamente, con apego a lo dispuesto en la Constitución Política del Estado de Yucatán, en esta Ley y demás disposiciones reglamentarias aplicables.
 
-### CAPÍTULO I. De la Instalación del Congreso y del Proceso de Entrega-Recepción
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO II. Del Parlamento Abierto
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 10 Bis.
+
+El Congreso del Estado basará el desarrollo de sus actividades en el sistema de Parlamento Abierto, orientando sus acciones a los principios de transparencia de la información, rendición de cuentas, participación ciudadana, evaluación del desempeño legislativo, datos abiertos y uso de tecnologías de la información.
+
+En el ejercicio de sus funciones, los Diputados promoverán la participación pacífica y organizada de la ciudadanía en los trabajos legislativos, quien tendrá derecho a voz, pero sin voto.
+
+A su vez el Congreso del Estado promoverá, una agenda de parlamento y gobierno abierto en los ámbitos estatal y municipal.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 10 Ter.
+
+La información relacionada con la implementación del Parlamento Abierto se deberá mostrar actualizada en la página de internet del Congreso del Estado, sujetándose para ello en lo conducente, a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán, la Ley General de Transparencia y Acceso a la Información Pública y demás normatividad aplicable.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 10 Quáter.
+
+En la implementación del Parlamento Abierto, de manera enunciativa más no limitativa, se deberán (sic) realizar lo siguiente:
+
+I.- Poner a consulta de la ciudadanía las iniciativas y proposiciones que se presenten al Congreso del Estado a través del uso de las tecnologías de la información y de la comunicación, mediante la implementación de esquemas, modelos y vías de interacción, que permitan la comunicación entre la ciudadanía y el Congreso del Estado;
+
+II.- Poner en conocimiento, y en su caso, a disposición de la ciudadanía la información que se genere o posea por parte del Poder Legislativo sujetándose para ello a lo que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán, la Ley General de Transparencia y Acceso a la Información Pública y demás normatividad aplicable; y,
+
+III.- Propiciar la participación ciudadana en las sesiones de comisiones y del pleno del Congreso, así como en los demás trabajos legislativos, con derecho a voz, pero sin voto, de conformidad con la convocatoria que al efecto se emita.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 10 Quinquies.
+
+El Congreso del Estado dentro de su página de internet, contará con un espacio para la recepción de quejas o denuncias sobre un tema en particular para lo cual deberá aplicar al menos lo siguiente:
+
+a) Formulario para recabar datos del quejoso;
+
+b) Cuadro para capturar la información sobre la queja o denuncia;
+
+c) folio de confirmación generado por el Congreso del Estado, y,
+
+d) Respuesta a su queja.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 10 Sexies.
+
+El Congreso del Estado dentro de su página de internet, podrá crear y usar micrositios para ofrecer información concreta y clara acerca de un tema en particular, con el objetivo de generar una comunicación directa y de fácil acceso entre el Poder Legislativo y los ciudadanos. Los micrositios podrán realizarse para lo siguiente:
+
+I.- Poner a consulta de la ciudadanía las iniciativas y proposiciones que se presenten al Congreso del Estado;
+
+II.- Poner a disposición de la ciudadanía la información que se genere o posea por parte del Congreso del Estado;
+
+III.- Ofrecer a la ciudadanía un medio para la presentación de quejas o denuncias que sean competencia del Congreso del Estado;
+
+IV.- Para la creación de foros de discusión sobre los proyectos de legislación del Congreso del Estado, y,
+
+V.- Los demás que se consideren necesarios para el buen funcionamiento del parlamento abierto.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 10 Septies.
+
+Los micrositios para su funcionamiento deberán contener al menos lo siguiente:
+
+I.- Información clara y precisa sobre el tema a tratar, así como los motivos de su creación;
+
+II.- Área de consultas donde el ciudadano puede analizar y descargar los documentos relacionados al tema, y,
+
+III.- Área de opinión donde toda persona interesada puede generar aportes y emitir opiniones que coadyuven al enriquecimiento del tema a tratar.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 10 Octies.
+
+El contenido de micrositios, denuncias, quejas o información relevante en materia legislativa producto de la aplicación del Sistema de Parlamento Abierto, deberá ser distribuida a todos los diputados integrantes del Congreso del Estado.
+
+La Secretaría General será la encargada de distribuir la información a través de alguno de los medios siguientes:
+
+I.- Circulares;
+
+II.- Correo Electrónico;
+
+III.- Informes mensuales, y,
+
+IV.- Los demás que considere necesarios.
+
+La Secretaría General deberá prever la difusión anticipada y proactiva para que los diputados emitan sus opiniones o comentarios al respecto.
 
 ## TÍTULO SEGUNDO. INSTALACIÓN Y FUNCIONAMIENTO DEL CONGRESO
 
-### CAPÍTULO II. De las Sesiones del Congreso
+### CAPÍTULO I. De la Instalación del Congreso y del Proceso de Entrega-Recepción
 
 ###### Artículo 11.
 
@@ -243,7 +391,7 @@ VIII.- El Presidente de la Mesa Directiva, convocará a los diputados el día 1 
 
 La instalación de la nueva Legislatura se publicará en el Diario Oficial del Gobierno del Estado, se comunicará a los poderes de la Federación, a los del Estado y a las legislaturas de las distintas entidades federativas. De igual forma, se realizará cada vez que el Congreso inicie un período de sesiones ordinarias o períodos extraordinarios.
 
-### CAPÍTULO III. De los Proyectos y Reformas de Leyes, Decretos y Resoluciones del Congreso
+### CAPÍTULO II. De las Sesiones del Congreso
 
 ###### Artículo 15.
 
@@ -267,9 +415,9 @@ En la apertura de la primera sesión de un período, el Presidente o en su caso 
 
 El Congreso en la clausura del período de sesiones, el Presidente o en su caso el Vicepresidente hará la declaración respectiva en los siguientes términos: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán, clausura hoy su (Primer, Segundo o Tercer) Período (Ordinario o Extraordinario) de sesiones, correspondientes al (Primer, Segundo o Tercer) año de su Ejercicio Constitucional". Al pronunciarse estas palabras los concurrentes deberán estar de pie.
 
-### CAPÍTULO IV. De los Diputados
+### CAPÍTULO III. De los Proyectos y Reformas de Leyes, Decretos y Resoluciones del Congreso
 
-### CAPÍTULO V. De la Mesa Directiva del Congreso
+### CAPÍTULO IV. De los Diputados
 
 ###### Artículo 16.
 
@@ -297,9 +445,7 @@ Las resoluciones del Congreso tendrán el carácter de leyes y decretos.
 
 El Congreso podrá emitir acuerdos para dar cumplimiento a las atribuciones y funciones del Poder Legislativo, y que por su naturaleza no requieren de sanción y promulgación.
 
-### CAPÍTULO VI. De la Diputación Permanente
-
-> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
+### CAPÍTULO V. De la Mesa Directiva del Congreso
 
 ###### Artículo 19.
 
@@ -377,9 +523,9 @@ Cuando sin causa justificada, un Diputado faltare a tres sesiones consecutivas, 
 
 Para suplir a los diputados electos, el Congreso mandará llamar al que deba sustituirlo, conforme a lo establecido en la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán.
 
-### CAPÍTULO VII. De las Comisiones
+### CAPÍTULO VI. De la Diputación Permanente
 
-> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
 
 #### Sección Primera. De su Conformación y Atribuciones
 
@@ -521,7 +667,9 @@ Los procedimientos para el desahogo de las sesiones del Pleno para los acuerdos,
 
 El vicepresidente auxiliará al Presidente en las distintas tareas correspondientes a la Mesa Directiva y sustituirá al mismo en sus ausencias, faltas, o imposibilidad para desempeñar el cargo, con todas las funciones y condiciones inherentes.
 
-### CAPÍTULO VIII. De las Fracciones y Representaciones Legislativas
+### CAPÍTULO VII. De las Comisiones
+
+> <small>(REFORMADO, D.O. 20 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 36.
 
@@ -555,9 +703,7 @@ La Diputación Permanente celebrará sesiones cuando así lo acuerde, para lo cu
 
 Al inicio del siguiente período ordinario de sesiones el Presidente de la Diputación Permanente rendirá un informe de labores a la Mesa Directiva, sobre los asuntos tratados durante el período de receso, el trámite que se les dio y el estado en que se encuentran.
 
-### CAPITULO IX. De la Designación de los Titulares de los Órganos de Control Interno de los Organismos Constitucionales Autónomos
-
-> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+### CAPÍTULO VIII. De las Fracciones y Representaciones Legislativas
 
 ###### Artículo 41.
 
@@ -951,7 +1097,9 @@ V.- Contar con estudios de Maestría, preferentemente.
 
 Los dictámenes aprobados en las Comisiones y de los que no llegue a conocer el Pleno de la Legislatura saliente, quedarán a disposición del Pleno de la Legislatura entrante, el cual podrá, en caso de ser necesario, enviarlo de nueva cuenta a la Comisión competente para los efectos legales procedentes.
 
-### CAPÍTULO I. De la Junta de Gobierno y Coordinación Política
+### CAPITULO IX. De la Designación de los Titulares de los Órganos de Control Interno de los Organismos Constitucionales Autónomos
+
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### Artículo 53.
 
@@ -977,7 +1125,7 @@ Los diputados que dejen de pertenecer a una Fracción o Representación Legislat
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
 
-### CAPÍTULO II. De los Órganos Técnicos y Administrativos
+### CAPÍTULO I. De la Junta de Gobierno y Coordinación Política
 
 ###### Artículo 56 Bis.
 
@@ -1043,7 +1191,7 @@ Cualquier persona, cuando presuma que los titulares de los órganos de control i
 
 ## TÍTULO TERCERO. GOBIERNO Y ADMINISTRACIÓN DEL PODER LEGISLATIVO
 
-### CAPÍTULO III. De las Áreas Administrativas
+### CAPÍTULO II. De los Órganos Técnicos y Administrativos
 
 ###### Artículo 57.
 
@@ -1097,7 +1245,9 @@ V.- Presentar a la Mesa Directiva y al Pleno, las propuestas de Acuerdo, pronunc
 
 VI.- Proponer al Congreso, la integración de las Comisiones;
 
-VII.- Proponer al Pleno, por medio del Presidente de la Junta, el nombramiento y remoción, en su caso, del Secretario General del Poder Legislativo, del Director General de Administración y Finanzas, del Director del Instituto de Investigaciones Legislativas y del Director de Evaluación del Presupuesto;
+> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+VII.- Proponer al Pleno, por medio del Presidente de la Junta, el nombramiento y remoción, en su caso, del Secretario General del Poder Legislativo, del Director General de Administración y Finanzas, del Director del Instituto de Investigaciones Legislativas, del Director de Evaluación del Presupuesto y del Titular de la Contraloría Interna.
 
 VIII.- Proponer al Congreso, los reglamentos, manuales de organización con sus procedimientos y funcionamiento de las distintas unidades técnicas y administrativas;
 
@@ -1147,7 +1297,7 @@ VI.- Proveer a la Junta de los asuntos, estudios, análisis y proyectos legislat
 
 VII.- Las demás que deriven de esta Ley, reglamento o que le fueren conferidas por la propia Junta.
 
-### CAPÍTULO ÚNICO. Del Servicio Profesional Legislativo
+### CAPÍTULO III. De las Áreas Administrativas
 
 ###### Artículo 65.
 
@@ -1168,6 +1318,10 @@ IV.- Dirección de Evaluación del Presupuesto, y
 > <small>(ADICIONADA, D.O. 1 DE MARZO DE 2019)</small>
 
 V.- Unidad de Vigilancia y Evaluación de la Auditoria Superior del Estado.
+
+> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+
+VI.- Contraloría Interna.
 
 Estos órganos contarán con las unidades administrativas necesarias para el cumplimiento de sus funciones, de conformidad con el Presupuesto de Egresos del Poder Legislativo, de esta Ley y su reglamento, y demás disposiciones normativas aplicables.
 
@@ -1327,9 +1481,87 @@ La Revista Legislativa es el medio de difusión, que se encarga de dar a conocer
 
 La Gaceta Parlamentaria, es el medio de difusión electrónica del Congreso, y estará a cargo de la Secretaria General para dar a conocer en el portal de internet del Poder Legislativo, los asuntos que se tratarán en las sesiones del Pleno y de Comisiones o Comités, así como de las actividades relevantes en materia legislativa y que deban conocer previamente los diputados y la sociedad en general.
 
-#### Sección Única. De la Comunicación Social
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 9 DE JUNIO DE 2020)</small>
 
-### CAPÍTULO PRIMERO. De la sustanciación del trámite para suspender ayuntamientos, declarar su desaparición, o suspender o revocar el mandato de alguno de sus miembros
+#### Sección Sexta. De la Contraloría Interna
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 75 Bis.
+
+La Contraloría Interna, es un órgano funcionalmente autónomo y dependerá del Congreso, a través de la Junta de Gobierno y Coordinación Política, encargada de las funciones de control y evaluación del cumplimiento de las obligaciones legales y normativas en materias financiera y administrativa dentro del Poder Legislativo del Estado, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 75 Ter.
+
+Las funciones de la Contraloría Interna serán ejercidas por su titular y contará con el personal que requiera para el desempeño de sus funciones de acuerdo al presupuesto asignado.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 75 Quáter.
+
+La Contraloría Interna, tendrá las siguientes funciones:
+
+I.- Conocer e investigar las conductas de los servidores públicos que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos e imponer o solicitar la imposición de las medidas cautelares correspondientes conforme a lo establecido en la legislación aplicable en materia de responsabilidades administrativas; para lo cual podrá aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Yucatán y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+II.- Imponer la sanción económica y administrativa correspondiente, en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado de Yucatán, al licitante, proveedor, prestador o proveedor de bienes y servicios, que infrinja las disposiciones legales aplicables que regulen la materia que corresponda;
+
+III.- Supervisar y evaluar la implementación del sistema de control interno; auditar y revisar el ejercicio del gasto público del Congreso y su congruencia con los presupuestos de egresos;
+
+IV.- Formular y establecer las normas de control y fiscalización y vigilar su cumplimiento;
+
+V.- Establecer las bases generales para la realización de auditorías en el Congreso; y expedir las normas que regulen los instrumentos y procedimientos en dichas materias;
+
+VI.- Practicar las auditorías y revisiones a los órganos técnicos y áreas administrativas del Congreso, conforme al programa anual de trabajo o cuando la situación lo requiera;
+
+VII.- Llevar el registro de servidores públicos del Congreso obligados a presentar declaración de situación patrimonial y registrar la información sobre las sanciones administrativas que en su caso hayan sido impuestas.
+
+VIII.- Coordinarse con la Auditoría Superior del Estado de Yucatán para el establecimiento de normas, sistemas y procedimientos para el cumplimiento eficaz de sus respectivas responsabilidades;
+
+IX.- Presentar los informes que solicite el Comité Coordinador del Sistema Estatal Anticorrupción, en el ámbito de su competencia, así como informar semestralmente a la Junta de Gobierno y Coordinación Política del Congreso, del resultado de las revisiones que realice al ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover las medidas correctivas que procedan;
+
+X.- Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, en el ámbito de su competencia;
+
+XI.- Intervenir en todo cambio de titulares de los órganos técnicos y áreas administrativas del Congreso, para efectos de verificar la correcta ejecución del proceso de entrega y recepción y de transferencias, en los términos de las disposiciones legales, aplicando, en su caso, las responsabilidades en que incurran los funcionarios e imponer la sanción correspondiente;
+
+XII.- Organizar y conducir el servicio de recepción para la atención de quejas y denuncias que presenten los ciudadanos en general en contra de los servidores públicos del Poder Legislativo;
+
+XIII.- Participar en los procedimientos de adquisiciones, arrendamientos y servicios del Congreso, emitiendo opiniones, debidamente sustentadas, tendientes al cumplimiento de las disposiciones jurídicas que regulan dichas materias, según corresponda, así como el ejercicio del presupuesto;
+
+XIV.- Conocer, substanciar y resolver las quejas que presenten quienes tengan interés jurídico, contra los actos de los procedimientos de contratación de licitación pública o de invitación a cuando menos tres personas, que se efectúen en el Congreso, relacionados con los proyectos de prestación de servicios, adquisiciones y arrendamientos, en los casos en que las leyes le otorguen competencia para ello;
+
+XV.- Actuar como enlace y realizar las auditorías que se acuerden con la Secretaría de la Función Pública y la Auditoría Superior de la Federación, respecto a la fiscalización de recursos federales que se ejerzan en el Poder Legislativo del Estado;
+
+XVI.- Colaborar en el marco de los sistemas nacional y estatal anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+XVII.- Implementar las acciones que acuerden los sistemas nacional y estatal anticorrupción, en términos de las disposiciones aplicables;
+
+XVIII.- Establecer mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+XIX.- Promover la coordinación y cooperación con los Poderes Ejecutivo y Judicial, los órganos constitucionales autónomos, la federación y los municipios y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel estatal;
+
+XX.- Conducir, conforme a las bases de coordinación que establezcan los comités coordinadores de los Sistemas Nacional y Estatal Anticorrupción, acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que se genere en la Administración Pública estatal; así como promover dichas acciones hacia la sociedad;
+
+XXI.- Implementar las políticas de coordinación que promuevan los comités coordinadores de los Sistemas Nacional y Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública estatal, y
+
+XXII.- Emitir el código de ética de los servidores públicos del estado y las reglas de Integridad para el ejercicio de la función pública.
+
+> <small>(ADICIONADO, D.O. 9 DE JUNIO DE 2020)</small>
+
+###### Artículo 75 Quinquies.
+
+Para ser titular de la Contraloría Interna se requiere:
+
+I.- Ser mexicano y tener además la calidad de ciudadano yucateco en pleno ejercicio de sus derechos;
+
+II.- No ser militar en servicio activo o ministro de culto religioso alguno, salvo que se haya separado definitivamente cinco años antes del día del nombramiento;
+
+III.- Poseer al día del nombramiento, título profesional en el ramo contable o administrativo o afín, con cédula profesional legalmente expedida, acreditar estudios de posgrado, o bien contar con experiencia probada en temas de auditoría, fiscalización y rendición de cuentas; y
+
+IV.- No haber sido sentenciado con resolución firme de autoridad judicial competente por la comisión de delito doloso.
+
+### CAPÍTULO ÚNICO. Del Servicio Profesional Legislativo
 
 ###### Artículo 76.
 
@@ -1373,6 +1605,8 @@ De igual manera, contará con la Unidad de Vigilancia y Evaluación de la Audito
 
 El Director General de Administración y Finanzas deberá cubrir los requisitos establecidos en el artículo 68, con excepción a lo establecido en la fracción II de dicho artículo, por lo que deberá contar con experiencia en materia de contabilidad, administración o finanzas.
 
+#### Sección Única. De la Comunicación Social
+
 ###### Artículo 78.
 
 El Poder Legislativo informará de los asuntos resueltos por sus órganos, con el fin de difundir entre habitantes del Estado sus alcances y beneficios para contribuir a la formación de una opinión pública responsable.
@@ -1389,7 +1623,7 @@ Las tareas de difusión serán objetivas e imparciales.
 
 ## TÍTULO CUARTO. Del Personal Técnico y Administrativo del Poder Legislativo
 
-### CAPÍTULO SEGUNDO. De la Responsabilidad de los Servidores Públicos
+### CAPÍTULO PRIMERO. De la sustanciación del trámite para suspender ayuntamientos, declarar su desaparición, o suspender o revocar el mandato de alguno de sus miembros
 
 ###### Artículo 81.
 
@@ -1418,6 +1652,8 @@ IV.- El sistema salarial, y
 V.- Los programas para la capacitación, actualización, estímulos y desarrollo de los servidores públicos.
 
 ## TÍTULO QUINTO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+
+### CAPÍTULO SEGUNDO. De la Responsabilidad de los Servidores Públicos
 
 ###### Artículo 84.
 
@@ -1646,3 +1882,23 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente de su
 Derogación expresa
 
 Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 9 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 230/2020 POR EL QUE SE MODIFICAN LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo.- El Congreso del Estado en un plazo que no excederá de 180 días naturales deberá realizar la designación del titular de la Contraloría Interna.
+
+Sin perjuicio de lo ordenado en el párrafo anterior, los ajustes administrativos y estructurales para dar cumplimiento al presente decreto se harán conforme a la capacidad presupuestal.
+
+Tercero.- Se derogan todas las normas que se opongan al presente decreto.
+
+D.O. 9 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 231/2020 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EN MATERIA DE PARLAMENTO ABIERTO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO.- Las áreas correspondientes del Congreso del Estado de Yucatán implementarán las presentes disposiciones del Parlamento Abierto en un plazo no mayor a 30 días hábiles posteriores a la entrada en vigor del presente decreto.
