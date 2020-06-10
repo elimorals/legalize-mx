@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-127749
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-07"
-last_updated: "2018-04-07"
+last_updated: "2020-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2020.
 
 Ley publicada en el Suplemento No.1 del Periódico Oficial del Estado de Colima, el sábado 7 de abril de 2018.
 
@@ -261,6 +261,10 @@ De no proporcionar la información o documentación dentro de los plazos y en la
 
 Los entes fiscalizados a que se refiere este artículo, deberán acompañar a la información solicitada, los anexos, estudios, memorias de cálculo y demás documentación soporte relacionada con el requerimiento respectivo.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+Las entidades fiscalizadas facilitarán los auxilios que requiera el Órgano Superior de Auditoría y Fiscalización Gubernamental, cumpliendo con la entrega de información requerida a través de cualquier plataforma tecnológica, cuando esto así sea solicitado por aquél, ante la declaratoria de emergencia o contingencia sanitaria, estado de emergencia o excepción, así declarado por una autoridad competente; mismo tratamiento realizarán ante el surgimiento de un caso fortuito o de fuerza mayor, inclusive estos eventos podrán ser invocados ante el Congreso del Estado de Colima o el Órgano Superior de Auditoría, por los entes fiscalizados para los efectos de la revisión y fiscalización a que se refiere esta Ley, en su respectivo caso se dictaminará o resolverá lo conducente. El Auditor Superior del Estado instrumentará los planes y lineamientos que transitoriamente sean pertinentes para el eficaz despacho de la fiscalización gubernamental.
+
 ###### Artículo 10.
 
 El Órgano Superior de Auditoría, por conducto del Auditor Superior, podrá imponer multas a los servidores públicos, y las personas físicas y morales, conforme a lo siguiente:
@@ -278,6 +282,10 @@ V. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscal
 VI. Para imponer la multa que corresponda, el Órgano Superior de Auditoría debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley; y
 
 VII. Las multas que se impongan en términos de este artículo son independientes de las sanciones administrativas y penales que, en términos de las leyes en dichas materias, resulten aplicables por la negativa a entregar información al Órgano Superior de Auditoría, así como por los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora o la entrega de información falsa.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+No procederá la imposición de sanciones ante la declaratoria de emergencia o contingencia sanitaria, estado de emergencia o excepción, así declarado por una autoridad competente; ni ante el surgimiento de un caso fortuito o de fuerza mayor; sin embargo, las entidades fiscalizadas dispondrán del auxilio al Órgano Superior de Auditoría en los términos del artículo 9 de esta ley y para el objeto de que no se paralice la labor de fiscalización correspondiente, ni el seguimiento de las observaciones respectivas. De no comprobarse la atención al auxilio solicitado, se estará a lo señalado en el párrafo primero.
 
 ###### Artículo 11.
 
@@ -568,6 +576,10 @@ b) Nombre de las personas que las practicarán, las cuales podrán ser sustituid
 c) El objeto y alcance que deban tener, el ejercicio o período presupuestal a que se refieran y las disposiciones legales que las fundamenten.
 
 II. Si al momento de entregar o notificar el oficio a que se refiere la fracción anterior, no se encontrara el titular o representante legal del Ente Fiscalizado en el domicilio señalado en la orden respectiva, de entregar o notificar, en su caso se iniciará la auditoría respectiva, con quien haya sido delegado mediante el oficio respectivo para atender dicha diligencia, o en su defecto con quien se encuentre en el lugar en que se actúa, lo anterior siempre que se acredite como servidor público del Ente Fiscalizado, todo lo anterior se hará constar en el acta correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+Ante la declaratoria de emergencia o contingencia sanitaria, estado de emergencia o excepción, así declarado por una autoridad competente, o el surgimiento de un caso fortuito o de fuerza mayor, el Auditor Superior del Estado instrumentará los planes y lineamientos para que la práctica de las auditorías, inspecciones y demás diligencias se desahoguen a través de plataformas tecnológicas, para los efectos de la revisión y fiscalización a que se refiere esta Ley, todo lo remitido y recibido a través de esos medios tendrá plena validez, con independencia de que los cotejos de documentos, levantamiento de actas circunstanciadas, reuniones de trabajo y entrega de documentos o suscripción de documentales, en físico, se deban realizar con posterioridad.
 
 ###### Artículo 23.
 
@@ -987,7 +999,9 @@ El Órgano Superior de Auditoría, en los términos de la Ley del Sistema Antico
 
 Las actuaciones y diligencias que se lleven a cabo por o ante el Órgano Superior de Auditoría, se practicarán en horas y días hábiles. Son horas hábiles, las comprendidas entre las 08:30 y las 20:00 horas. Para efectos de esta Ley, son hábiles todos los días del año, con excepción de los sábados, los domingos, el 1º de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1º y 5 de mayo, el 16 de septiembre, los días 1 y 2, así como el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 1º de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre; los días que se declaren como no laborables por el Auditor Superior, así como los días en que tengan vacaciones generales los servidores públicos del Órgano Superior de Auditoría.
 
-El Órgano Superior de Auditoría por acuerdo del Auditor Superior, podrá habilitar días y horas inhábiles, para actuar o para que se practiquen diligencias, cuando éstas se inicien en horas hábiles, podrán concluirse en horas inhábiles, sin afectar su validez y podrá suspenderse por causa de fuerza mayor, caso fortuito o cuando a juicio de los auditores comisionados, habilitados o designados por el Órgano Superior de Auditoría para que lleve a cabo la actuación o diligencia lo consideren necesario, asentado en el acta respectiva la o las circunstancias particulares que justifiquen y motiven la necesidad de dicha suspensión.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+El Órgano Superior de Auditoría por acuerdo del Auditor Superior, podrá habilitar días y horas inhábiles, para actuar o para que se practiquen diligencias, cuando éstas se inicien en horas hábiles, podrán concluirse en horas inhábiles, sin afectar su validez; podrá suspender los plazos y términos a que se refiere esta Ley ante la declaratoria de emergencia o contingencia sanitaria, estado de emergencia o excepción, así declarado por una autoridad competente, o el surgimiento de un caso fortuito o de fuerza mayor, esto, hasta por un plazo improrrogable de 30 días naturales; o, cuando a juicio de los auditores comisionados, habilitados o designados por el Órgano Superior de Auditoría para que lleven a cabo la actuación o diligencia lo consideren necesario, asentando en el acta respectiva la o las circunstancias particulares que justifiquen y motiven la necesidad de dicha suspensión. La declaratoria excepcional por más de 30 treinta días de suspensión de plazos y términos o de ampliación de los mismos para los efectos de la revisión y fiscalización a que se refiere esta Ley, descansará en Decreto que al efecto emita el Congreso del Estado de Colima, previa solicitud del Auditor Superior del Estado y justificación de dicha medida.
 
 Los plazos referidos en meses y años, se computarán en días naturales.
 
@@ -1776,3 +1790,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ARNOLDO OCHOA GONZÁLEZ
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 276 POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
