@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2019-12-31"
+last_updated: "2020-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2020.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -3979,9 +3979,9 @@ El Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos se
 
 El Estado enterará las participaciones en lo que se refiere la fracción I del artículo 272, que correspondan a los municipios de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
 
-I. Dentro de los cinco días siguientes a aquel en que el Estado reciba el anticipo de las participaciones de este fondo, se pagará una cantidad equivalente al 40% de las participaciones que le correspondieron al Municipio en el mes inmediato anterior al que corresponda el pago, por concepto de anticipo a sus participaciones, a excepción del mes de diciembre, en el que se pagará una cantidad equivalente al 90%; siempre y cuando la Federación mantenga vigente el mecanismo de anticipos para el Estado.
+I. Dentro de los cinco días siguientes a aquel en el que (sic) Estado reciba el anticipo de las participaciones de este fondo, se pagará una cantidad equivalente al 40% de las participaciones que le correspondieron al Municipio en el mes inmediato anterior al que corresponde el pago, por concepto de anticipo a sus participaciones, monto que no debe exceder a la base mensual para cada Municipio, establecida en el artículo 273, fracción I, de este Código, de ser superior éste anticipo, se considerará hasta por el monto total de dicha base; a excepción del mes de diciembre, en el que se pagará una cantidad equivalente al 90%; siempre y cuando la Federación mantenga vigente el mecanismo de anticipos para el Estado.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -6898,3 +6898,15 @@ P.O. 31 DE DICIEMBRE DE 2019.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día 1 de enero de 2020.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 10 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 232 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La Secretaria de Hacienda del Estado, deberá realizar un estudio cualitativo y cuantitativo con el objeto de informar a los Municipios del Estado, respecto a los ajustes que realice al Ramo General 28, de las participaciones de los Estados, Municipios y Distrito Federal, en ingresos federales, con el objeto de que conozcan las variaciones realizadas a los mismos.
+
+La Secretaria de Hacienda del Estado, deberá informar al Congreso del Estado, a través de la Comisión de Hacienda, sobre los ajustes que realice en cumplimiento el presente decreto, con la finalidad de contar con la información necesaria al momento de la revisión de los presupuestos de egresos y las cuentas públicas de los Municipios del Estado de Chiapas.
