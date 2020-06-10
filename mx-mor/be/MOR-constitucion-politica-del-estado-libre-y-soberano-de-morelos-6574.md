@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2019-09-26"
+last_updated: "2020-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2020.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -136,9 +136,11 @@ VIII.- Se garantizará a los indígenas el efectivo acceso a la justicia, tanto 
 
 IX.- Los pueblos y comunidades indígenas, aplicarán internamente sus propios sistemas normativos comunitarios, en la regulación y solución de conflictos internos, sujetándose a los principios generales de la Constitución Federal y la del Estado y las leyes que de ellos emanen, respetando los Derechos Humanos, así como la dignidad e integridad de la mujer;
 
-X. Los pueblos y comunidades indígenas tienen derecho a elegir, en los Municipios con población indígena, representantes a los Ayuntamientos, en los términos que señale la normatividad en la materia.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
 
-Elegir a los representantes de su gobierno interno de conformidad con sus normas, procedimientos y prácticas tradicionales, garantizando la participación de las mujeres en condiciones de paridad frente a los varones, respetando el pacto federal y la soberanía del Estado.
+X. Los pueblos y comunidades indígenas tienen derecho a elegir, en los Municipios con población indígena, representantes a los Ayuntamientos, observando el principio de paridad de género, en los términos que señale la normatividad en la materia.
+
+Elegir a los representantes de su gobierno interno de conformidad con sus normas, procedimientos y prácticas tradicionales, garantizando la participación de las mujeres en condiciones de paridad frente a los hombres, respetando el pacto federal y la soberanía del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
 
@@ -270,17 +272,17 @@ II.- Tener un modo honesto de vivir.
 
 III.- Residir habitualmente en el territorio del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2020)</small>
 
 ###### Artículo 14.
 
-Son derechos del ciudadano morelense:
+Son derechos de la ciudadanía morelense:
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
 
-I.- Votar, ser votado y participar activamente en los procesos electorales y de participación ciudadana que correspondan, previstos en esta Constitución y la normativa aplicable.
+I.- Votar, ser votada y participar activamente en los procesos electorales en condiciones de paridad y de participación ciudadana que correspondan, previstos en esta Constitución y la normativa aplicable.
 
-Los ciudadanos morelenses radicados en el extranjero solo podrán participar en las elecciones para Gobernador del Estado, en los términos que señala la ley;
+La ciudadanía morelense radicada en el extranjero solo podrá participar en las elecciones para Gobernador del Estado, en los términos que señala la ley;
 
 > <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
@@ -290,11 +292,11 @@ II.- Participar del derecho de iniciar leyes, de conformidad con lo que establec
 
 III.- Solicitar su registro como candidato independiente en las elecciones locales a los diferentes puestos de representación popular, bajo las normas que establezca la normatividad aplicable y los demás establecidos en el artículo 35 de la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2020)</small>
 
 ###### Artículo 15.
 
-Son obligaciones del ciudadano morelense:
+Son obligaciones de la ciudadanía morelense:
 
 > <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
@@ -304,23 +306,35 @@ I.- Votar en las elecciones populares y en los procesos de Plebiscito y Referén
 
 II.- Las demás establecidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos; y
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
 III.- Las demás establecidas por la presente Constitución.
 
-###### Artículo 16.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2020)</small>
 
-Pierde su calidad de ciudadano morelense:
+###### ARTICULO 16.
 
-I.- El que ha perdido la de mexicano.
+Pierde la ciudadanía morelense:
 
-II.- El que por sentencia ejecutoria haya sido condenado a inhabilitación para obtener empleos o cargos públicos, aunque dicha inhabilitación comprenda determinado ramo de la Administración.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
 
-III.- El que solicitare y obtuviere carta de ciudadanía en otro Estado.
+I.- Quien ha perdido la de mexicano;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
+
+II.- Quien por sentencia ejecutoria haya sido condenado a inhabilitación para obtener empleos o cargos públicos, aunque dicha inhabilitación comprenda determinado ramo de la administración;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
+
+III.- Quien solicitare y obtuviere carta de ciudadanía en otro Estado, y
 
 IV.- (DEROGADA, P.O. 16 DE OCTUBRE DE 1932)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2020)</small>
+
 ###### Artículo 17.
 
-Los derechos y prerrogativas del ciudadano se suspenden:
+Los derechos y prerrogativas de la ciudadanía morelense se suspenden:
 
 I.- Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que esta Constitución impone al Ciudadano morelense. Esta suspensión durará un año sin perjuicio de las otras penas que por el mismo hecho u omisión le señale la Ley.
 
@@ -332,9 +346,9 @@ IV.- Por estar prófugo de la justicia, desde que se dicte orden de aprehensión
 
 V.- Por vagancia, ebriedad o toxicomanía consuetudinarias, declaradas en la forma que prevengan las leyes.
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
 
-VI.- El que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
+VI.- Por residir habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
@@ -342,11 +356,11 @@ VI.- El que esté residiendo habitualmente fuera del Estado, salvo los casos de 
 
 La calidad de ciudadano morelense se recobra por el solo hecho de haber cesado la causa que motiva la pérdida o suspensión, pero es requisito indispensable que la persona goce de los derechos de ciudadano mexicano.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2020)</small>
 
 ###### Artículo 19.
 
-La mujer y el varón tienen igualdad de derechos ante la Ley. Los ordenamientos respectivos tutelarán la igualdad de estos derechos y sancionarán cualquier tipo de discriminación o menoscabo producido en relación al género masculino y femenino, a la edad, religión, etnia, condición social, discapacidad, y cualquiera otra que vulnere o dañe la dignidad, la condición y los derechos humanos reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y los tratados, acuerdos e instrumentos internacionales a los que el país se haya adherido. El Estado protegerá la organización y desarrollo en armonía de la familia, incluidas las familias monoparentales, entre las que se dará protección al menor de edad, la mujer, las personas con discapacidad y las personas adultas mayores.
+La mujer y el hombre tienen igualdad de derechos ante la Ley. Los ordenamientos respectivos tutelarán la igualdad de estos derechos y sancionarán cualquier tipo de discriminación o menoscabo producido en relación al género masculino y femenino, a la edad, religión, etnia, condición social, discapacidad, y cualquiera otra que vulnere o dañe la dignidad, la condición y los derechos humanos reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y los tratados, acuerdos e instrumentos internacionales a los que el país se haya adherido. El Estado protegerá la organización y desarrollo en armonía de la familia, incluidas las familias monoparentales, entre las que se dará protección al menor de edad, la mujer, las personas con discapacidad y las personas adultas mayores.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
@@ -526,7 +540,9 @@ Las elecciones de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos se r
 
 I. El derecho de solicitar el registro de candidatos ante la autoridad electoral, corresponde a los Partidos Políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos y términos que determine la normatividad en la materia. Los candidatos independientes tendrán derecho de acceso a prerrogativas y tiempo en los medios de comunicación para las campañas electorales en los términos que señale la misma normatividad correspondiente.
 
-II. Los Partidos Políticos son Entidades de Interés Público, tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo. Para mantener el registro el Partido Político Local deberá obtener al menos el tres por ciento de la votación válida emitida en la elección de Diputados, según lo dispuesto en la normatividad relativa.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JUNIO DE 2020)</small>
+
+II.- Los Partidos Políticos son Entidades de Interés Público, tienen como fin promover la participación del pueblo en la vida democrática, promover la paridad de género, contribuir a la integración de la representación estatal política y como organizaciones ciudadanas, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo. En la postulación de sus candidaturas, se observará el principio de paridad de género. Para mantener el registro el Partido Político Local deberá obtener al menos el tres por ciento de la votación válida emitida en la elección de Diputados, según lo dispuesto en la normatividad relativa.
 
 La Ley normativa aplicable, determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral, los derechos, obligaciones y prerrogativas que les corresponden. Los Partidos Políticos sólo se constituyen por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La Ley normativa establecerá las reglas para la constitución, registro, vigencia y liquidación de los Partidos Políticos.
 
@@ -710,11 +726,11 @@ VII. El Tribunal Electoral del Estado de Morelos, es la Autoridad Electoral Juri
 
 ### CAPÍTULO III.. DE LOS ORGANISMOS PÚBLICOS AUTÓNOMOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2020)</small>
 
 ###### Artículo 23-A.
 
-El Congreso del Estado establecerá un organismo público autónomo imparcial, colegiado, con personalidad jurídica y patrimonio propio, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública de todas las personas, proteger los datos personales y realizar estadísticas, sondeos y encuestas imparciales que coadyuven al cumplimiento de las funciones de los poderes públicos y al desarrollo democrático del Estado, denominado Instituto Morelense de Información Pública y Estadística; en la conformación de este organismo garante se procurará la equidad de género. El Instituto será el encargado de aplicar las leyes de la materia y sus resoluciones serán acatadas por las entidades y dependencias públicas del Estado y municipios, organismos públicos autónomos, organismos auxiliares de la administración pública, partidos políticos, fondos públicos, personas físicas, morales o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal o municipal, y por toda persona que reciba, maneje, aplique o participe en el ejercicio de recursos públicos o privados, siempre que estos se destinen a actividades relacionadas con la función pública.
+El Congreso del Estado establecerá un Organismo Público Autónomo imparcial, colegiado, con personalidad jurídica y patrimonio propio, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública de todas las personas, proteger los datos personales y realizar estadísticas, sondeos y encuestas imparciales que coadyuven al cumplimiento de las funciones de los poderes públicos y al desarrollo democrático del Estado, denominado Instituto Morelense de Información Pública y Estadística; en la conformación de este organismo garante se observará el principio de paridad de género. El Instituto será el encargado de aplicar las Leyes de la materia y sus resoluciones serán acatadas por las Entidades y Dependencias Públicas del Estado y Municipios, Organismos Públicos Autónomos, Organismos Auxiliares de la Administración Pública, partidos políticos, fondos públicos, personas físicas, morales o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal o municipal, y por toda persona que reciba, maneje, aplique o participe en el ejercicio de recursos públicos o privados, siempre que estos se destinen a actividades relacionadas con la función pública.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
 
@@ -724,9 +740,9 @@ El Instituto Morelense de Información Pública y Estadística se integra por ci
 
 Los comisionados durarán en su cargo siete años, sin posibilidad de otra designación; no podrán tener otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
 
-En los procedimientos para la selección de los comisionados se deberá garantizar la transparencia, independencia y participación de la sociedad.
+En los procedimientos para la selección de los comisionados se deberá garantizar la transparencia, independencia, participación de la sociedad y paridad de género.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2007)</small>
 
@@ -738,9 +754,9 @@ Se crea el organismo público autónomo denominado Comisión de Derechos Humanos
 
 Este órgano formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presente este Organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Pleno del Congreso del Estado o en sus recesos la Diputación Permanente, según corresponda, podrán llamar, a solicitud de este Organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dichos Órganos Legislativos, a efecto de que expliquen el motivo de su negativa. No será competente tratándose de asuntos electorales y jurisdiccionales, ni de consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y de la legislación reglamentaria.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
 
-La Comisión de Derechos Humanos del Estado de Morelos, se integra por un Presidente, que será la máxima autoridad del Organismo, y un Consejo Consultivo, integrado por seis Consejeros con carácter honorífico y el Presidente, quienes no podrán desempeñar ningún cargo o comisión como servidores públicos. Serán electos por el voto aprobatorio de las dos terceras partes de los miembros del Congreso y durarán en su cargo tres años; el Presidente sólo podrá ser removido de sus funciones en los términos del Título Séptimo de esta Constitución.
+La Comisión de Derechos Humanos del Estado de Morelos, se integra por un Presidente, que será la máxima autoridad del Organismo, y un Consejo Consultivo, este último deberá de ser integrado observando el principio de paridad de género, por seis Consejeros con carácter honorífico y el Presidente, quienes no podrán desempeñar ningún cargo o comisión como servidores públicos. Serán electos por el voto aprobatorio de las dos terceras partes de los miembros del Congreso y durarán en su cargo tres años; el Presidente sólo podrá ser removido de sus funciones en los términos del Título Séptimo de esta Constitución.
 
 El Presidente de la Comisión de Derechos Humanos del Estado de Morelos, lo será también del Consejo Consultivo, deberá contar con título y cédula profesional a nivel de licenciatura, expedido por la autoridad competente, y reunir los demás requisitos que prevea esta Constitución y la ley secundaria; será elegido y durará en su cargo en la forma y términos que para los consejeros se establece en el párrafo anterior, y podrá ser reelecto por una sola vez. Presentará anualmente su informe de actividades ante el Congreso del Estado, en los términos que prevea la ley.
 
@@ -757,6 +773,10 @@ Cada uno de los organismos públicos autónomos creados por disposición de esta
 La persona titular de dicho órgano interno de control será designado por el Congreso del Estado, mediante el voto aprobatorio de cuando menos las dos terceras partes de sus integrantes; durará seis años en su cargo, pudiendo ser designado por un periodo más.
 
 Los órganos internos de control estarán adscritos administrativamente a los entes de gobierno respectivos y mantendrán la coordinación necesaria con la Entidad Superior de Auditoría y Fiscalización.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+En la integración de los Organismos Públicos Autónomos creados por disposición de esta Constitución, se observará el principio de paridad de género.
 
 (ADICIONADO, P.O. 16 DE AGOSTO DE 2018) (F. DE E., P.O. 20 DE AGOSTO DE 2018)
 
@@ -790,45 +810,25 @@ DEL PODER LEGISLATIVO.
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-(NOTA: EL 21 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2017 Y SUS ACUMULADAS 32/2017, 34/2017 Y 35/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
 
 ###### Artículo 24.
 
-El Poder Legislativo se deposita en una Asamblea que se denomina Congreso del Estado de Morelos, integrada por doce Diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales y por ocho Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial. LA LEY DETERMINARÁ LA DEMARCACIÓN TERRITORIAL DE CADA UNO DE LOS DISTRITOS Y el territorio del Estado comprenderá una circunscripción plurinominal única.
+El Poder Legislativo se deposita en una Asamblea que se denomina Congreso del Estado de Morelos, integrada por doce Diputadas y Diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales y por ocho Diputadas y Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial conformadas de acuerdo con el principio de paridad y encabezadas alternadamente entre mujeres y hombres. El territorio del Estado comprenderá una circunscripción plurinominal única.
 
-(NOTA: EL 21 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2017 Y SUS ACUMULADAS 32/2017, 34/2017 Y 35/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
-
-AL PARTIDO POLÍTICO QUE OBTENGA EN LAS RESPECTIVAS ELECCIONES EL CINCO POR CIENTO DE LA VOTACIÓN VÁLIDA EMITIDA PARA DIPUTADOS, SE LE ASIGNARÁ UNA DIPUTACIÓN POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, INDEPENDIENTEMENTE DE LOS TRIUNFOS DE MAYORÍA QUE HUBIESE OBTENIDO.
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+Al Partido Político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida para Diputados, se le asignará una diputación por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido.
 
 Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional conforme a la fórmula establecida en la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
-
-La Legislatura del Estado se integrará con Diputados Electos, según los principios de mayoría relativa y de representación proporcional, en los términos que señale la ley.
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+La Legislatura del Estado se integrará con Diputados Electos, según los principios de mayoría relativa y de representación proporcional, en los términos que señale la Ley.
 
 En ningún caso, un Partido Político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al Partido Político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un Partido Político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
-
 El Congreso del Estado se renovará cada tres años. Por cada Diputado Propietario se elegirá un Suplente; los Diputados Propietarios podrán ser electos hasta por cuatro períodos consecutivos.
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 La postulación sólo podrá ser realizada por el mismo Partido o por cualquiera de los Partidos integrantes de la Coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su encargo.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
-
 Los Diputados Locales Suplentes podrán ser electos para el período inmediato con el carácter de Propietario, pudiendo reelegirse de conformidad con la normatividad.
-
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
 
 Ningún Partido Político podrá contar con más de doce Diputados por ambos principios.
 
@@ -1288,9 +1288,9 @@ XXXVIII.- Examinar los informes sobre la cuenta pública que trimestralmente deb
 
 XXXIX.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al Estado ante la Suprema Corte de Justicia, cuando se suscite alguna controversia con otro Estado o con la Nación.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
 
-XL.- Nombrar a los Comisionados propietarios y suplentes del Instituto Morelense de Información Pública y Estadística, previa consulta pública;
+XL.- Nombrar a los Comisionados propietarios y suplentes del Instituto Morelense de Información Pública y Estadística, previa consulta pública y atendiendo el principio de paridad de género en las designaciones;
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2018)</small>
 
@@ -1304,9 +1304,9 @@ XLII.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delito
 
 XLIII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado y las que se susciten entre el Tribunal Superior de Justicia y el Instituto Morelense de Información Pública y Estadística, siempre que no tengan el carácter de controversias que deba conocer la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Federal.
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
 
-XLIV.- Designar y remover, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado; así mismo designar con el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura, a los titulares de los órganos internos de control de los organismos públicos autónomos a que se refiere el artículo 23-C de esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado; a los miembros de la Comisión de Selección que elegirá a su vez a los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción; así como ratificar con el voto de las dos terceras partes de los miembros de la Legislatura, el nombramiento del Secretario de la Contraloría del Estado;
+XLIV.- Designar y remover, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado; así como ratificar con el voto de las dos terceras partes de los miembros de la Legislatura, el nombramiento del Secretario de la Contraloría del Estado; así mismo, observando el principio de paridad de género, designar con el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura, a los Titulares de los Órganos Internos de Control de los Organismos Públicos Autónomos a que se refiere el artículo 23-C de esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado; y a los miembros de la Comisión de Selección que elegirá a su vez a los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -2204,7 +2204,9 @@ Para la consecución de sus objetivos, la Entidad Superior de Auditoría y Fisca
 
 El Congreso del Estado evaluará el desempeño de la Entidad Superior de Auditoría y Fiscalización, a través del Consejo de Vigilancia; el cual tendrá las atribuciones que la ley le confiera.
 
-El Consejo de Dirección de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, es el órgano de consulta de las políticas y estrategias institucionales de la misma. Se integra por el Auditor General, cuatro Auditores Especiales y los Directores Generales de las áreas Jurídica, de Administración y de Capacitación. Los Auditores Especiales y los Directores Generales durarán en su cargo cuatro años, pudiendo ser nombrados por un periodo más, previa evaluación que haga el órgano político del Congreso del Estado; serán nombrados y removidos por la Junta Política y de Gobierno del Congreso del Estado, a propuesta de la Comisión de Hacienda, Presupuesto y Cuenta Pública del mismo Congreso.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+El Consejo de Dirección de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, es el Órgano de consulta de las políticas y estrategias institucionales de la misma. Se integra por el Auditor General, cuatro Auditores Especiales y los Directores Generales de las áreas Jurídica, de Administración y de Capacitación. Los Auditores Especiales y los Directores Generales durarán en su cargo cuatro años, pudiendo ser nombrados por un periodo más, previa evaluación que haga el Órgano político del Congreso del Estado; serán nombrados y removidos por la Junta Política y de Gobierno del Congreso del Estado, a propuesta de la Comisión de Hacienda, Presupuesto y Cuenta Pública del mismo Congreso, en su designación se observará el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
@@ -2376,11 +2378,11 @@ Los Magistrados de los Tribunales del Estado, los Jueces y los respectivos Secre
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2020)</small>
 
 ###### Artículo 89.
 
-El Tribunal Superior de Justicia del Estado se compondrá de los Magistrados que se requieran para la integración de las salas que lo conformen. Los magistrados serán designados por el Pleno del Congreso del Estado a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública para designarlos, conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
+El Tribunal Superior de Justicia del Estado se compondrá de las Magistradas y Magistrados que se requieran para la integración de las salas que lo conformen. Los Magistrados serán designados por el Pleno del Congreso del Estado a propuesta del Órgano político del Congreso, el cual emitirá la Convocatoria Pública para designarlos, conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2018)</small>
 
@@ -2402,9 +2404,9 @@ Ninguna que (sic) persona que haya sido nombrada magistrado del Tribunal Superio
 
 Al término de los catorce años, los Magistrados tendrán derecho a un haber por retiro, conforme lo establezca la Ley en la materia.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
 
-El Congreso del Estado conforme a sus facultades, decide sobre la designación de los magistrados, mediante el voto aprobatorio de las dos terceras partes de los diputados integrantes de la Legislatura.
+El Congreso del Estado conforme a sus facultades, decide sobre la designación de las magistradas y los magistrados, mediante el voto aprobatorio de las dos terceras partes de los Diputados integrantes de la Legislatura, observando el principio de paridad de género en las designaciones.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
@@ -2448,9 +2450,9 @@ VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intenc
 
 VII.- Cumplir con los requisitos, criterios, procedimientos, e indicadores de gestión y aprobar la evaluación que en su caso se realice.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
 
-Los nombramientos de los Magistrados deberán recaer preferentemente entre aquéllas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, plenamente acreditados, procurando alcanzar una efectiva paridad de género en las designaciones, y
+Los nombramientos de los Magistrados deberán recaer preferentemente entre aquéllas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, plenamente acreditados, observando el principio de paridad de género en las designaciones, y
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -2470,19 +2472,29 @@ En caso de excusa, recusación y ausencias hasta treinta días de los Magistrado
 
 (DEROGADO, P.O. 15 DE FEBRERO DE 2018)
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2020)</small>
 
 ###### Artículo 92-A.
 
-La Junta de Administración, Vigilancia y Disciplina del Poder Judicial es un órgano administrativo que se integrará por el Presidente en funciones del Tribunal Superior de Justicia, quien también lo será de dicha Junta; así como por un Magistrado y un Juez de Primera Instancia, estos últimos designados por el Pleno del Tribunal a propuesta de las respectivas ternas enviadas por el Presidente del mismo.
+La Junta de Administración, Vigilancia y Disciplina del Poder Judicial es un órgano administrativo que se integrará por el Presidente en funciones del Tribunal Superior de Justicia, quien también lo será de dicha Junta; así como por un Magistrado y un Juez de Primera Instancia, estos últimos designados por el Pleno del Tribunal a propuesta de las respectivas ternas enviadas por el Presidente del mismo, en su integración se observará el principio de paridad de género.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2018)</small>
 
 Para la elección de los integrantes de la Junta de Administración, Vigilancia y Disciplina deberá considerarse a funcionarios que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2018)</small>
+
 Los integrantes de la Junta de Administración, Vigilancia y Disciplina durarán cuatro años en el cargo, con excepción de su Presidente. Ninguno podrá ser designado para un nuevo periodo. Asimismo, serán sujetos de responsabilidad en términos de la Ley.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2018)</small>
 
 La Junta de Administración, Vigilancia y Disciplina gozará de independencia de gestión y técnica, así como para emitir sus resoluciones, a las cuales deberá dar publicidad y transparencia en los términos de la ley.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2018)</small>
+
 La integración y facultades de la Junta de Administración, Vigilancia y Disciplina se regirán por las disposiciones de la ley orgánica del Poder Judicial, de igual forma lo harán las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se ajustará a los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia, transparencia y rendición de cuentas.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE ABRIL DE 2018)</small>
 
 A la Junta de Administración, Vigilancia y Disciplina del Poder Judicial le compete:
 
@@ -2654,7 +2666,9 @@ La ley determinará la integración, atribuciones, funcionamiento y demás parti
 
 Los Magistrados integrantes del Tribunal Laboral deberán reunir los mismos requisitos que se requieren para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con capacidad y experiencia en materia laboral.
 
-Serán designados por el Pleno del Congreso del Estado a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+Serán designados por el Pleno del Congreso del Estado a propuesta del Órgano político del Congreso, el cual emitirá la Convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado, debiendo observar el principio de paridad de género en las designaciones.
 
 Durarán en su cargo catorce años, contados a partir de la fecha en que rindan la protesta constitucional y sólo podrán ser removidos de sus cargos en los términos que establece esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
 
@@ -2736,9 +2750,9 @@ Para la investigación, substanciación y sanción de las responsabilidades admi
 
 El Tribunal de Justicia Administrativa estará integrado por siete magistrados; funcionará en términos de lo dispuesto en las normas aplicables.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
 
-Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa, fiscal o de responsabilidades plenamente acreditada, procurando alcanzar una efectiva paridad de género en las designaciones. Serán designados por el Pleno del Poder Legislativo a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
+Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa, fiscal o de responsabilidades plenamente acreditada, observando el principio de paridad de género en las designaciones. Serán designados por el Pleno del Poder Legislativo a propuesta del Órgano político del Congreso, el cual emitirá la Convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
@@ -2770,9 +2784,7 @@ Los Magistrados deberán cumplir con la presentación oportuna de su declaració
 
 DE SU INTEGRACIÓN Y ELECCION.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2016, PÁGINA 11.]</small>
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2020)</small>
 
 ###### Artículo 109
 
@@ -2792,7 +2804,9 @@ Ninguna persona que haya sido nombrada magistrado podrá volver a ocupar el carg
 
 El Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes administrará sus recursos y propondrá su presupuesto de egresos al Titular del Poder Judicial, quien lo integrará al presupuesto de egresos de dicho poder. La fiscalización de sus recursos estará a cargo de la Entidad Superior de Fiscalización del Estado de Morelos.
 
-Habrá un Magistrado titular y un suplente, así como el número de Jueces especializados que señale la Ley Orgánica que para tal efecto se expida. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las leyes del Estado de Morelos. Los Jueces Especializados serán nombrados por el Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, mediante convocatoria a examen de oposición calificado por el Centro Nacional de Evaluación para la Educación Superior, designando en el cargo a quienes obtengan las más altas evaluaciones en dicho examen. Una vez nombrados tienen los mismos derechos, obligaciones y prerrogativas que los demás jueces pertenecientes al Poder Judicial del Estado de Morelos.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+Habrá un Magistrado Titular y un suplente, así como el número de Jueces especializados que señale la Ley Orgánica que para tal efecto se expida. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las Leyes del Estado de Morelos. Los Jueces Especializados serán nombrados por el Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, mediante convocatoria a examen de oposición calificado por el Centro Nacional de Evaluación para la Educación Superior, designando en el cargo a quienes obtengan las más altas evaluaciones en dicho examen, debiendo observar el principio de paridad de género en las designaciones. Una vez nombrados tienen los mismos derechos, obligaciones y prerrogativas que los demás Jueces pertenecientes al Poder Judicial del Estado de Morelos.
 
 La Ley Orgánica establecerá la organización, el funcionamiento, las atribuciones del Tribunal y demás disposiciones para el correcto desempeño de sus funciones. La información relacionada con los procesos jurisdiccionales en materia de justicia para adolescentes no será pública.
 
@@ -2836,19 +2850,33 @@ DE LOS SERVICIOS QUE PRESTAN.
 
 ###### Artículo 112.
 
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal, un Síndico y el número de Regidores que la ley determine, debiendo ser para cada Municipio proporcional al número de sus habitantes y nunca menor de tres Regidores.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal, un Síndico y el número de Regidurías que la Ley determine, de conformidad con el principio de paridad de género, debiendo ser para cada Municipio proporcional al número de sus habitantes y nunca menor de tres Regidores.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
 
 El Presidente Municipal y el Síndico serán electos conforme al principio de mayoría relativa; y los Regidores serán electos por el principio de representación proporcional.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
+
 Por cada Presidente Municipal, Síndico y Regidores propietarios, se elegirá un suplente.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
 
 Los Partidos Políticos deberán postular una fórmula de candidatos a Presidente y Síndico; los Partidos Políticos deberán postular la lista de Regidores en número igual al previsto para ese Municipio en la normatividad respectiva.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
+
 Para la asignación de Regidores se estará al principio de cociente natural y resto mayor, de conformidad como lo establezca la ley electoral
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
 
 Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, por elección directa, podrán ser reelectos únicamente para un período adicional de gestión consecutiva. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectos para el período inmediato. Todos los representantes populares antes mencionados, cuando tengan el carácter de propietarios, podrán ser reelectos para el período inmediato con el carácter de suplentes, los que tengan el carácter de suplentes, podrán ser electos para el período inmediato como propietarios a menos que tengan alguna causa de exclusión por haber sido reelectos en el período constitucional establecido. La postulación sólo podrá ser realizada por el mismo Partido o por cualquiera de los Partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
+
 El ejercicio de los Ayuntamientos electos será de tres años, iniciará (sic) uno de enero del año siguiente de la elección y concluirá el treinta y uno de diciembre, salvo lo que disponga esta Constitución y la normatividad aplicable para el caso de elecciones extraordinarias.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
 
 Los Presidentes Municipales, los Síndicos y los Regidores, así como los demás servidores públicos municipales que determine la Ley de la materia, deberán cumplir con la presentación oportuna de sus declaraciones patrimoniales ante el Congreso del Estado, en los términos del Artículo 133-bis de esta Constitución.
 
@@ -5463,3 +5491,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su p
 SEGUNDA. Hecha la Declaratoria a que se refiere la disposición transitoria anterior, remítase al Titular del Poder Ejecutivo del Estado, para su promulgación y su publicación, de conformidad con los artículos 44 y 70 fracción XIII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS OCHENTA Y OCHO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ESTABLECER LA PARIDAD CONSTITUCIONAL EN TODO, GABINETES, TRIBUNALES, LEGISLATURA, CANDIDATURAS Y GOBIERNOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor rango que (sic) lo establecido en el presente Decreto.
