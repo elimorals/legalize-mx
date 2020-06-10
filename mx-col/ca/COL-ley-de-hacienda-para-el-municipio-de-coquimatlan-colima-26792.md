@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-08-24"
+last_updated: "2020-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -2775,33 +2775,47 @@ I. Inhumaciones y reinhumaciones, por cada vez, en cementerios municipales y par
 
 a) En fosa común 0.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
 
-b) En propiedad particular 2.00
+b) En propiedad particular 5.00
 
-c) Otros 20.00
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+c) Otros 25.00
 
-II. Exhumaciones, por cada una 2.00
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
 
-III. Permiso de traslado de cadáveres fuera del municipio 3.70
+II. Exhumaciones, por cada una 15.00
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
+
+III. Permiso de traslado de cadáveres fuera del municipio 5.00
 
 IV. Por la limpieza de lotes en propiedad particular, anualmente, que deberá pagarse en los meses de enero y febrero:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
 
-a) Para la propiedad de 1 x 3 mts. 2.00
+a) Para la propiedad de hasta 3 m2 2.00
 
-b) Para la propiedad mayor de 1 x 3 mts 3.00
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
 
-V. Cremaciones, por cada una 10.00
+b) Para la propiedad mayor de 3 m2 3.00
 
-VI. Expedición de títulos de propiedad 1.50
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+V. Cremaciones, por cada una 15.00
 
-VII. Traspaso de título de propiedad 2.00
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
+
+VI. Expedición de título de propiedad 3.00
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
+
+VII. Traspaso de título de propiedad 5.00
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+Los derechos previstos en el presente artículo se causarán al 50% de su valor en los cementerios ubicados en las zonas rurales del Municipio.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -2963,29 +2977,45 @@ DE 2016)
 
 UMA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JUNIO DE 2020)</small>
+
+I. Venta de lotes en propiedad:
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+a).- Lotes de terreno ubicados en los andadores 2, 3 y 4 en adelante, en cementerio urbano con disponibilidad de hasta tres gavetas, por m2. 80.00
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+b).- Lotes de terreno ubicados en el andador 1, en cementerio urbano con disponibilidad de hasta tres gavetas, por m2. 120.00
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+c).- Lotes de terreno ubicados en paseo, en cementerio urbano con disponibilidad mayor a tres gavetas, por m2. 160.00
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2020)</small>
+
+d).- Lotes de terreno en área común de cementerio urbano sin clasificar, por m2 30.00
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
+
+II. Venta de urnas o nichos de 0.50 x .060 mts, para depósito de cenizas en cementerio urbano 82.00
+
+a).- (DEROGADO, P.O. 10 DE JUNIO DE 2020)
+
+b).- (DEROGADO, P.O. 10 DE JUNIO DE 2020)
+
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
-I. Venta de lotes en panteón antiguo:
+III. Construcción y venta de gavetas para fosas en el cementerio ... según contrato
 
-a).- 1.20 X 2.40 20.00
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
 
-b).- 2.40 X 2.50 40.00
+IV. En los cementerios ubicados fuera de la cabecera municipal, se causará y pagará solo el 50 por ciento del total del costo previsto para el inciso d) de la fracción I de este artículo
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2020)</small>
 
-II. Venta de lotes en panteón nuevo:
-
-a).- 1.20 X 2.50 97.00
-
-b).- 3.00 X 2.50 193.00
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
-
-III. Construcción y venta de gavetas para fosas en el cementerio ….. según contrato
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
-
-IV. En los cementerios ubicados fuera de la cabecera municipal, se causará y pagará sólo el 50 por ciento del total del costo.
+Los títulos que amparan la propiedad de los inmuebles señalados en el presente artículo deberán ser refrendados cada siete años, para lo cual el titular de los derechos deberá cubrir a la tesorería municipal 5 UMAS en zona urbana y 2 UMAS en zona rural.
 
 ### CAPITULO III. RENDIMIENTOS FINANCIEROS DE CAPITAL Y VALORES
 
@@ -3448,3 +3478,9 @@ P.O. 24 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 123 POR EL QUE SE REFORMA LA FRACCIÓN XI, DEL ARTÍCULO 21; Y SE DEROGAN LAS FRACCIONES XII, XIII Y XIV, DEL ARTÍCULO 21, Y EL ARTÍCULO 30, TODOS DE LA LEY DE HACIENDA PARA CADA MUNICIPIO: ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MANZANILLO, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ".]
 
 ÙNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 278 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES, DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLÁN, COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
