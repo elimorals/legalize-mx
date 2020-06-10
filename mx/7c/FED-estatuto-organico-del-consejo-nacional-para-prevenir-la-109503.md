@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-109503"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-08-21"
-last_updated: "2019-03-12"
+last_updated: "2020-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109503&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2015-08-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 12 DE MARZO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2020.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2015.
 
@@ -731,9 +729,9 @@ VII. Establecer, cuando así se requiera, los criterios de interpretación y de 
 
 VIII. Dirigir las acciones que en materia jurídica interna lleva a cabo el Consejo, a fin de prevenir y atender posibles conflictos normativos;
 
-> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2020)</small>
 
-IX. Expedir Lineamientos para el desarrollo de la Función Jurídica Institucional en los que se establezcan los criterios, parámetros y procedimientos para el desarrollo de la función a cargo de las diversas áreas del Consejo;
+IX. Elaborar los manuales, lineamientos e instrumentos jurídicos de cualquier índole, que tengan por objeto establecer los criterios, parámetros y procedimientos para el mejor desempeño de las atribuciones de la Dirección de Asuntos Jurídicos.
 
 > <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
@@ -1248,3 +1246,9 @@ TERCERO. A partir de la entrada en vigor de las reformas al artículo 55, se ins
 CUARTO. La reforma por la que se deroga el Título Séptimo del Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación entrará en vigor al día hábil siguiente de la fecha en que se publique en el Diario Oficial de la Federación el Reglamento que regule (sic) Procedimiento de Queja del Consejo Nacional para Prevenir la Discriminación.
 
 QUINTO. Los procedimientos de queja iniciados antes de la entrada en vigor del presente Acuerdo por el que se deroga el Título Séptimo del Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos o actos que le dieron origen.
+
+D.O.F. 10 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN AL ARTÍCULO 55 FRACCIÓN IX DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EL VEINTIUNO DE AGOSTO DE DOS MIL QUINCE”.]
+
+UNICO.- La presente modificación entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
