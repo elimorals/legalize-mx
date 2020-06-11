@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2020-05-10"
+last_updated: "2020-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -503,35 +503,71 @@ Los Diputados no pueden celebrar contrato alguno con el Estado, ni obtener conce
 
 #### SECCIÓN TERCERA. DE LAS FORMAS DE ORGANIZACIÓN PARLAMENTARIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2020)</small>
+
 ###### Artículo 46.
 
-Los Diputados de un mismo partido político, podrán agruparse en las formas de organización siguientes:
+Los Diputados podrán agruparse en las formas de organización siguientes:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE JUNIO DE 2020)</small>
 
 I. Grupos Parlamentarios;
 
-II. Fracciones Parlamentarias; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2020)</small>
 
-III. Representaciones de Partido.
+II. Coaliciones Parlamentarias;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE JUNIO DE 2020)</small>
+
+III. Fracciones Parlamentarias; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE JUNIO DE 2020)</small>
+
+IV. Representaciones de Partido.
 
 Sólo podrá constituirse una forma de organización partidista por cada partido político representado en la Legislatura.
 
 Los Diputados sin filiación partidista o que dejen de pertenecer a alguna forma de organización parlamentaria, sin integrarse a otra existente, serán considerados como Diputados independientes.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2020)</small>
+
 ###### Artículo 47.
 
 El grupo parlamentario podrá constituirse con al menos tres Diputados; la fracción parlamentaria con dos; y la representación de partido con uno, quienes serán de la misma filiación partidista.
 
+Las coaliciones parlamentarias se constituyen por el acuerdo entre los diputados con o sin afiliación partidista, con la finalidad de impulsar acuerdos, principios y una agenda legislativa coincidentes.
+
 La constitución de las formas de organización parlamentaria, será declarada por el Presidente de la Mesa Directiva; para tal efecto, presentarán el expediente de constitución, que deberá contener lo siguiente:
 
-I. Acta en la que conste la decisión de sus miembros de constituirse, especificando el partido político al que pertenecen, el número de miembros, la lista de los integrantes y las reglas que regirán al grupo o fracción;
+I. Acta en la que conste la decisión de sus miembros de constituirse, especificando el o los partidos políticos al que pertenecen, el número de miembros, la lista de los integrantes y las reglas que regirán al grupo, coalición o fracción;
 
-II. El nombre del diputado que haya sido electo como coordinador del grupo o fracción parlamentaria; y
+II. El nombre del diputado que haya sido electo como coordinador del grupo, coalición o fracción parlamentaria; y
 
-III. La denominación del grupo o fracción parlamentaria, correspondiente al partido político al que pertenezcan los Diputados que lo integran.
+III. La denominación del grupo, coalición o fracción parlamentaria.
 
 En el caso de las representaciones de partido, se comunicará la decisión de constituirse como tal, mediante escrito donde se haga constar dicha voluntad.
 
 El expediente de constitución se remitirá a la Secretaría General a más tardar el treinta de agosto del año de la elección, para que a su vez sea entregado a la Mesa Directiva Inicial, electa en la junta preparatoria.
+
+Las coaliciones parlamentarias podrán extinguirse por decisión de la mayoría de sus integrantes, para lo cual deberán comunicarlo por escrito a la Presidencia de la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
+
+###### Artículo 47 Bis.
+
+Las coaliciones parlamentarias tendrán derecho al ejercicio de recursos económicos y a la asignación de recursos humanos y materiales como una sola forma de organización parlamentaria, de conformidad con el número de sus integrantes, sin tener la posibilidad de acceder a prerrogativas adicionales o especiales.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
+
+###### Artículo 47 Ter.
+
+Las coaliciones parlamentarias podrán constituirse
+
+I. Entre distintos Grupos Parlamentarios y/o fracciones parlamentarias;
+
+II. Entre un Grupo Parlamentario y uno o más Diputados que no pertenecen a un Grupo o partido político, y
+
+III. Entre mínimo tres Diputados que no pertenecen a un Grupo Parlamentario o partido político.
 
 ###### Artículo 48.
 
@@ -549,9 +585,11 @@ III. Facilitar la formación de criterios comunes de los Diputados de una sola f
 
 IV. Propiciar y suscribir acuerdos parlamentarios, para agilizar un procedimiento o acto y resolver algún asunto o caso no previsto.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2020)</small>
+
 ###### Artículo 50.
 
-Las formas de organización parlamentaria, dispondrán de locales adecuados en las instalaciones del Congreso del Estado; los grupos parlamentarios y las comisiones dispondrán de un Secretario Técnico, asesores, personal de apoyo y los elementos materiales necesarios para el cumplimiento de sus funciones, de acuerdo a las posibilidades y el presupuesto del Congreso.
+Las formas de organización parlamentaria, dispondrán de locales adecuados en las instalaciones del Congreso del Estado; los grupos parlamentarios, las coaliciones parlamentarias y las comisiones dispondrán de un Secretario Técnico, asesores, personal de apoyo y los elementos materiales necesarios para el cumplimiento de sus funciones, de acuerdo a las posibilidades y el presupuesto del Congreso.
 
 ### CAPÍTULO IV. DE LAS SESIONES DEL CONGRESO
 
@@ -993,15 +1031,23 @@ El Presidente de la Comisión Permanente podrá delegar en el Secretario de Serv
 
 ### CAPÍTULO IV. DE LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2020)</small>
+
 ###### Artículo 86.
 
-En la segunda sesión de la Legislatura y para todo el ejercicio constitucional, la asamblea elegirá por mayoría absoluta y mediante votación por cédula, el órgano de gobierno interior denominado Junta de Gobierno y Coordinación Política, integrado por un Presidente, que será el coordinador del grupo parlamentario que por sí mismo cuente con la mayoría absoluta de Diputados del Congreso; dos secretarios, uno de grupo mayoritario y otro de la primera minoría y dos vocales que corresponderán a Diputados del grupo parlamentario mayoritario y de la segunda minoría respectivamente.
+En la segunda sesión de la Legislatura y para todo el ejercicio constitucional, la asamblea elegirá por mayoría absoluta y mediante votación por cédula, el órgano de gobierno interior denominado Junta de Gobierno y Coordinación Política, integrado por un Presidente, que será el coordinador del grupo parlamentario o coalición parlamentaria que por sí mismo cuente con la mayoría absoluta de Diputados del Congreso; dos secretarios, uno de grupo o coalición mayoritario y otro de la primera minoría y dos vocales que corresponderán a Diputados del grupo parlamentario o coalición parlamentaria mayoritarios y de la segunda minoría respectivamente.
 
 A la Junta concurrirán con voz los demás representantes parlamentarios de los Partidos Políticos representados en el Congreso.
 
 Para efectos de determinar la prelación de las minorías, se estará al número de Diputados acreditados en la Legislatura por cada partido político y en su caso, a la votación que éstos hayan obtenido por sí mismos en la última elección de Diputados de representación proporcional.
 
-En caso de que ningún grupo se encuentre con mayoría absoluta, la responsabilidad de presidir la Junta tendrá una duración anual; esta encomienda se desempeñará sucesivamente por los coordinadores de las representaciones parlamentarias en orden decreciente al número de legisladores que la integren, siempre y cuando cuenten por lo menos con el veinte por ciento del número total de Diputados de la Legislatura
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2020)</small>
+
+En el caso de las coaliciones parlamentarias, la prelación se determinará de acuerdo al número de diputados que la integran y en su caso, a la suma de la votación que éstos hayan obtenido por sí mismos en la última elección de Diputados de representación proporcional.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2020)</small>
+
+En caso de que ningún grupo o coalición parlamentaria se encuentre con mayoría absoluta, la responsabilidad de presidir la Junta tendrá una duración anual; esta encomienda se desempeñará sucesivamente por los coordinadores de las representaciones parlamentarias en orden decreciente al número de legisladores que la integren, siempre y cuando cuenten por lo menos con el veinte por ciento del número total de Diputados de la Legislatura.
 
 La Junta de Gobierno y Coordinación Política deberá impulsar los entendimientos, convergencias y consensos sobre las tareas legislativas, políticas y administrativas del Congreso del Estado. Adoptará sus resoluciones preferentemente por consenso; y en caso de no lograrlo, por la mayoría absoluta de sus miembros. En caso de empate, el Presidente ejercerá su voto de calidad.
 
@@ -1389,7 +1435,9 @@ Las Comisiones Legislativas ordinarias son las siguientes:
 
 I. Vigilancia de la Entidad de Auditoría Superior del Estado;
 
-II. Administración y Contraloría Interna;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2020)</small>
+
+II.- De Administración Interna
 
 III. Responsabilidades;
 
@@ -1689,21 +1737,33 @@ III. Proponer las sanciones administrativas que deban imponerse al personal de l
 
 La certificación de documentos que deban expedirse con motivo del ejercicio de facultades de fiscalización, deberá ser suscrita por el Auditor Superior del Estado o por el funcionario en el que delegue tal facultad.
 
-###### Artículo 153.
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
 
-La Comisión de Administración y Contraloría Interna, tendrá a su cargo los siguientes asuntos:
+###### Artículo 152 Bis.
 
-I. Elaborar para su posterior aprobación por la Junta de Gobierno y Coordinación Política el proyecto de presupuesto del Congreso, así como revisar el manejo de los fondos del Congreso;
+La Comisión de Vigilancia de la Entidad de Auditoria Superior del Estado contara con la Unidad Técnica de Apoyo la cual tendrá las atribuciones que le señala la Ley de Fiscalización Superior del Estado de Durango y demás normatividad aplicable.
 
-II. Aprobar, en su caso, los resultados de las revisiones a que se refiere la fracción anterior;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2020)</small>
 
-III. Vigilar que se conserve actualizado y debidamente resguardado el inventario de los bienes del Congreso, así como del cuidado y conservación de los mismos; y,
+###### ARTÍCULO 153.
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+La Comisión de Administración Interna, tendrá a su cargo los siguientes asuntos:
 
-IV. Participar en la elaboración del presupuesto anual de egresos del Congreso y presentarlo al Titular del Poder Ejecutivo para su integración en el proyecto del presupuesto de egresos del Estado, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, y enviarlo al Titular del Poder Ejecutivo para el trámite de aprobación respectivo;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2020)</small>
+
+I. Elaborar para su posterior aprobación por la Junta de Gobierno y Coordinación Política el proyecto de presupuesto del Congreso, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, y enviarlo al Titular del Poder Ejecutivo para el trámite de aprobación respectivo.
 
 El proyecto propuesto deberá de contribuir a un balance presupuestario sostenible.
+
+II. (DEROGADA, P.O. 11 DE JUNIO DE 2020)
+
+III. (DEROGADA, P.O. 11 DE JUNIO DE 2020)
+
+IV. (DEROGADA, P.O. 11 DE JUNIO DE 2020)
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2020)</small>
+
+V. Proponer al Pleno del Congreso para su designación o remoción al titular del órgano Interno de Control del Congreso.
 
 ###### Artículo 154.
 
@@ -1795,7 +1855,9 @@ i) Iniciativas y Dictámenes;
 
 j) Registro de las votaciones por asunto;
 
-k) Estadísticas de participación por diputado y por grupo parlamentario;
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2020)</small>
+
+k) Estadísticas de participación por diputado, por coalición parlamentaria, por fracción parlamentaria y por grupo parlamentario;
 
 l) Eventos y convocatorias;
 
@@ -2007,7 +2069,57 @@ El Secretario General estará bajo la dirección inmediata del Presidente del Co
 
 El Congreso del Estado, para el ejercicio de la facultad que le confiere el artículo 85 de la Constitución Política del Estado Libre y Soberano de Durango, tiene como órgano técnico-contable, a la Entidad de Auditoria Superior del Estado, la cual funcionará con las facultades y atribuciones que le señale la ley de la materia.
 
-### CAPITULO I. DE LAS ETAPAS DEL PROCESO LEGISLATIVO
+### CAPÍTULO VII. DE LA CONTRALORÍA INTERNA
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
+
+Artículo 172 bis.- El Órgano Interno de Control del Congreso, es el órgano de apoyo que tiene a su cargo ejercer, dentro del ámbito del Poder Legislativo del Estado, las atribuciones que la legislación en materia de responsabilidades administrativas confiere a los órganos internos de control, así como las que establecen la legislación en materia de obras públicas y de adquisiciones, arrendamientos y servicios.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
+
+Artículo 172 ter.- El Órgano Interno de Control dependerá de la Comisión de Administración Interna y tendrá una relación de coordinación con la Secretaría General del Congreso, sus unidades y áreas administrativas, así como con la Auditoría Superior del Estado.
+
+El titular del órgano de control interno durará siete años en el cargo, pudiendo ser ratificado para un subsiguiente periodo.
+
+Los servidores públicos adscritos al Órgano Interno de Control del Congreso y, en su caso, los profesionales contratados para la práctica de auditorías deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
+
+Artículo 172 quater.- El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal de todos los servidores públicos del Congreso del Estado, de conformidad con la Ley General de Responsabilidades Administrativas y demás legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
+
+Artículo 172 quintus.- El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
+
+II. Tener por lo menos treinta años cumplidos el día de la designación;
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena de prisión;
+
+IV. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos y responsabilidades administrativas;
+
+V. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
+
+VI. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios al Congreso del Estado o haber fungido como consultor o auditor externo al Congreso del Estado en lo individual durante ese periodo; y
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2020)</small>
+
+Artículo 172 sexties.- El Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas;
+
+II. Inspeccionar el cumplimiento de las normas de funcionamiento administrativo que rijan a servidores públicos del Congreso;
+
+III. Vigilar y comprobar el cumplimiento por parte de los órganos administrativos de las obligaciones en materia de planeación, programación, presupuestación, ingresos, egresos, patrimonio y fondos; así como, la administración de recursos humanos, materiales y financieros;
+
+IV. Presentar a la Comisión de Administración Interna los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Congreso del Estado;
+
+V. Investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Congreso del Estado; y
+
+VI. Las demás que señale la legislación aplicable y el Reglamento Interno del Órgano interno de Control.
 
 ###### Artículo 167.
 
@@ -2047,11 +2159,11 @@ XVI. Fungir como instancia de solventación de los procedimientos reglamentarios
 
 XVII. Las demás que se le encomienden a través del Comité respectivo.
 
+### CAPITULO I. DE LAS ETAPAS DEL PROCESO LEGISLATIVO
+
 ### CAPITULO II. DE LAS INICIATIVAS
 
 ### CAPÍTULO III. DE LA DICTAMINACIÓN
-
-### CAPÍTULO IV. DE LA DISCUSIÓN
 
 ###### Artículo 168.
 
@@ -2061,13 +2173,13 @@ La Dirección operará un sistema de televisión, a través de un canal vía Int
 
 La información que sea transmitida en forma pública a través del Sistema de Televisión vía Internet, no tendrá carácter vinculante ni constituirá prueba alguna.
 
-### CAPÍTULO V. DE LA VOTACIÓN Y DE LAS RESOLUCIONES
+### CAPÍTULO IV. DE LA DISCUSIÓN
 
 ###### Artículo 169.
 
 El Comité de Transparencia se integrará por el Titular de la Unidad de Enlace para el Acceso a la Información Pública, el Secretario de Servicios Administrativos y Financieros y el Secretario de Servicios Jurídicos y sus funciones, atribuciones y obligaciones serán regidos conforme a la Ley General de la materia, la Ley de Acceso a la Información Pública del Estado y los reglamentos que corresponda (sic).
 
-### CAPÍTULO VI. DE LA PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
+### CAPÍTULO V. DE LA VOTACIÓN Y DE LAS RESOLUCIONES
 
 ###### Artículo 170.
 
@@ -2079,7 +2191,7 @@ La Unidad de Enlace de Acceso a la Información Pública dispondrá de los recur
 
 Para el adecuado desempeño de sus funciones, la Unidad de Enlace de Acceso a la Información Pública contará con el personal necesario de acuerdo a las posibilidades presupuestales del Congreso.
 
-### CAPITULO I. DISPOSIUCIONES (SIC) GENERALES
+### CAPÍTULO VI. DE LA PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
 
 ###### Artículo 172.
 
@@ -2089,11 +2201,13 @@ Las condiciones de edición, publicación y periodicidad serán acordadas por el
 
 El contenido de la gaceta tendrá solo efectos informativos, sin que se considere lo publicado con validez legal y efecto jurídico vinculatorio.
 
-### CAPITULO PRIMERO. DEL INFORME DE GESTION GUBERNAMENTAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2020)</small>
+
+### CAPITULO I. DISPOSIUCIONES (SIC) GENERALES
 
 ## TÍTULO CUARTO. DEL PROCESO LEGISLATIVO
 
-### CAPITULO SEGUNDO. PREGUNTAS PARLAMENTARIAS
+### CAPITULO PRIMERO. DEL INFORME DE GESTION GUBERNAMENTAL
 
 ###### Artículo 173.
 
@@ -2133,7 +2247,7 @@ Cuando se considere que un asunto sea considerado de urgente y obvia resolución
 
 La discusión y votación de los dictámenes relativos a la Constitución Política de los Estados Unidos Mexicanos se desarrollaran conforme a lo establecido en esta Ley.
 
-### CAPITULO TERCERO. PROCESO DE GLOSA DEL INFORME DE GOBIERNO
+### CAPITULO SEGUNDO. PREGUNTAS PARLAMENTARIAS
 
 ###### Artículo 177.
 
@@ -2199,9 +2313,7 @@ Las iniciativas presentadas por los ciudadanos, se sujetarán a lo que disponga 
 
 Toda iniciativa cuyo dictamen haya sido considerado desechado por el Pleno, no podrá ser presentado nuevamente en el mismo período ordinario de sesiones.
 
-### CAPITULO CUARTO
-
-RATITIFICACION (SIC) Y DESIGNACION DE SERVIDORES PÚBLICOS.
+### CAPITULO TERCERO. PROCESO DE GLOSA DEL INFORME DE GOBIERNO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2254,6 +2366,10 @@ Aprobado el dictamen y recabadas las firmas de la mayoría de los Diputados, el 
 Recibido el dictamen, la Mesa Directiva procederá a declarar la publicidad del dictamen, para los efectos de su discusión en el Pleno.
 
 Si en el dictamen se efectúan modificaciones a la iniciativa, asunto o petición turnados para su estudio, la Comisión hará una exposición de los argumentos en que apoyó su decisión.
+
+### CAPITULO CUARTO
+
+RATITIFICACION (SIC) Y DESIGNACION DE SERVIDORES PÚBLICOS.
 
 #### SECCIÓN TERCERA. DEL USO DE LA PALABRA
 
@@ -2998,3 +3114,31 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 11 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 330 POR EL QUE "SE ADICIONAN LOS ARTÍCULOS 47 BIS Y 47 TER Y SE REFORMAN LOS ARTÍCULOS 46, 47, 50, 86 Y 159 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- En el caso de constituirse coaliciones parlamentarias en la presente Legislatura, la integración de la Junta de Gobierno y Coordinación Política deberá modificarse conforme a lo dispuesto en el presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 11 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO No. 331 POR EL QUE “SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 119; SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 153, SE ADICIONA EL CAPÍTULO VII AL TÍTULO TERCERO; Y SE ADICIONAN LOS ARTÍCULOS 172 BIS, 172 TER, 172 QUATER, 172 QUINTUS Y 172 SEXTIES, TODOS ELLOS DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En un plazo que no exceda de 60 días a partir de la entrada en vigor del presente decreto, se deberá designar al titular del Órgano de Control Interno del Congreso.
+
+TERCERO.- En un plazo que no exceda de 30 días a partir de la entrada en vigor del presente decreto, se deberá aprobar el Reglamento Interno del Órgano de Control Interno del Congreso.
+
+P.O. 11 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO No. 332 POR EL QUE "SE ADICIONA UNA FRACCIÓN 152 BIS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaria General del Congreso realizara los ajustes administrativos necesarios para dar cumplimiento al presente decreto.
