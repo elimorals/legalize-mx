@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-electoral-del-estado-de-san-luis-potosi-101758"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2017-05-31"
+last_updated: "2020-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 30 de junio de 2014.
 
@@ -89,285 +89,117 @@ IX. Sala. El Tribunal Electoral del Estado de San Luis Potosí;
 
 X. Tribunal Electoral. El Tribunal Electoral del Estado de San Luis Potosí.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2020)</small>
+
 ## TÍTULO SEGUNDO. De la Organización y Competencia del Tribunal Electoral
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2020)</small>
 
 ### Capítulo I. De la Integración del Tribunal
 
 ###### ARTÍCULO 5°.
 
-El Tribunal Electoral del Estado es el órgano jurisdiccional especializado, dotado de autonomía técnica y de gestión en su funcionamiento e independiente en sus decisiones, competente para resolver las controversias que se susciten con motivo de los procesos electorales locales ordinarios y extraordinarios, de los actos y resoluciones que emitan las autoridades electorales locales, así como para resolver los procedimientos especiales sancionadores.
-
-Todos los actos del Tribunal Electoral deberán sujetarse a los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 6°.
 
-El Tribunal Electoral es la única instancia en materia electoral.
-
-Funcionará en una sola Sala, cuyas sesiones de resolución jurisdiccional serán públicas.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 7°.
 
-El Tribunal Electoral del Estado se integrará por tres magistrados numerarios electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores; y por tres magistrados supernumerarios electos por el Pleno del Honorable Congreso del Estado de San Luis Potosí.
-
-Los magistrados numerarios y supernumerarios, permanecerán en su encargo durante siete años.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 8°.
 
-Para ser magistrado del Tribunal Electoral se requieren los siguientes requisitos:
-
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
-
-III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho expedido por autoridad o institución legalmente facultada para ello;
-
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-V. Haber residido en el Estado, durante un año anterior al día de la designación;
-
-VI. No haber desempeñado en el Estado el cargo de gobernador, secretario, procurador general de justicia, senador, diputado federal o local, durante los cuatro años previos al día de su nombramiento;
-
-VII. Contar con credencial para votar con fotografía;
-
-VIII. Acreditar conocimientos en derecho electoral;
-
-IX. No desempeñar ni haber desempeñado el cargo de presidente del Comité Ejecutivo Nacional o equivalente de un partido político;
-
-X. No haber sido registrado como candidato, con excepción de los candidatos independientes, a cargo alguno de elección popular en los últimos cuatro años inmediatos anteriores a la designación, y
-
-XI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
-
-Los nombramientos de los magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia; o que se hayan distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la profesión del derecho.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 9°.
 
-Las vacantes temporales de los magistrados numerarios o las excusas de los mismos, calificadas de procedentes, se suplirán por los magistrados supernumerarios, en el orden de su nombramiento. Cuando la vacante sea definitiva, se hará una nueva designación de magistrado de conformidad con lo establecido en la Ley General de Instituciones y Procedimientos Electorales
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 10.
 
-Los magistrados supernumerarios se elegirán de la siguiente forma:
-
-I. La Comisión de Justicia del Congreso del Estado llevará a cabo el proceso para proponer a las personas que aspiran al cargo de magistrados supernumerarios, previa convocatoria que para el efecto se expida, emitiendo el dictamen correspondiente en el que se contendrá la lista de aquellos aspirantes que acrediten los extremos establecidos en el artículo 8° de esta Ley;
-
-II. De la lista presentada, el Pleno del Congreso elegirá a cada uno de los magistrados supernumerarios, por el voto secreto de por lo menos las dos terceras partes de sus miembros presentes;
-
-III. Para la elección de los magistrados, el Pleno del Congreso llevará a cabo las rondas que sean necesarias hasta cubrir las magistraturas supernumerarias, en el orden que determine el Congreso al elegirlos.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 11.
 
-El Tribunal Electoral nombrará a un secretario general de acuerdos, a los actuarios, así como al personal administrativo y técnico que se requiera para su buen funcionamiento de acuerdo al presupuesto de egresos del propio Tribunal.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2020)</small>
 
 ### Capítulo II. Del Funcionamiento de la Sala
 
 ###### ARTÍCULO 12.
 
-Son atribuciones de la Sala del Tribunal:
-
-I. Dictar las resoluciones en los asuntos de su competencia;
-
-II. Despachar su correspondencia;
-
-III. Imponer las correcciones disciplinarias, así como hacer uso de los medios de apremio que procedan; y
-
-IV. Las demás atribuciones de carácter administrativo que establezca el Reglamento Interior del Tribunal.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 13.
 
-La Sala se integrará por tres magistrados electorales y tendrá su sede en la capital del Estado.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
-Para que sesione válidamente la Sala, se requerirá la presencia de los tres magistrados que la integran.
-
-La Salas del Tribunal Electoral dictarán sus sentencias, de conformidad con el Reglamento Interior del propio Tribunal, así como el procedimiento siguiente:
-
-I. Abierta la sesión pública por el presidente de la Sala y verificado el quórum, se procederá a exponer cada uno de los asuntos listados con las consideraciones y preceptos jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen;
-
-II. El Presidente de la Sala ordenará que se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión, o en un plazo menor cuando se trate de asuntos de urgente resolución;
-
-III. Se procederá a discutir los asuntos y cuando el presidente de la Sala los considere suficientemente discutidos, los someterá a votación. Los magistrados no podrán abstenerse de votar, sino cuando tengan impedimento legal. Las sentencias se aprobarán por unanimidad o por mayoría de votos;
-
-IV. Si el proyecto que se presenta es votado en contra por la mayoría de los magistrados, a propuesta del Presidente, se designará a otro magistrado electoral para que, dentro de un plazo de veinticuatro horas contadas a partir de que concluya la sesión respectiva, engrose el fallo con las consideraciones y razonamientos jurídicos correspondientes, y
-
-V. En las sesiones públicas sólo podrán participar y hacer uso de la palabra los magistrados electorales, directamente o a través de uno de sus secretarios, y el secretario general respectivo, el cual levantará el acta circunstanciada correspondiente.
-
-En casos extraordinarios, debidamente motivados, la Sala podrá diferir la resolución de un asunto listado.
-
-Cuando un magistrado electoral disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que sea firmada esta última.
-
-Las sentencias que dicte la Sala del Tribunal Electoral serán definitivas e inatacables.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2020)</small>
 
 ### Capítulo III. De los Magistrados
 
 ###### ARTÍCULO 14.
 
-Son facultades y obligaciones de los magistrados de la Sala las siguientes:
-
-I. Concurrir, participar y votar cuando corresponda, en las sesiones a las que sean convocados por el Presidente;
-
-II. Resolver los asuntos de su competencia;
-
-III. Formular los proyectos de resolución de los asuntos que les sean turnados para tal efecto;
-
-IV. Discutir y votar los proyectos de resolución que sean sometidos a su consideración;
-
-V. Formular voto particular razonado, en caso de disentir de un proyecto de resolución aprobado por la mayoría;
-
-VI. Exponer en sesión pública, personalmente o por conducto de un secretario, sus proyectos de sentencia, señalando las consideraciones jurídicas y los preceptos en que se funden;
-
-VII. Realizar los engroses de los fallos aprobados por la Sala, cuando sean designados para tales efectos;
-
-VIII. Admitir los medios de impugnación y los escritos de terceros interesados o coadyuvantes, en los términos que se señalen en esta ley;
-
-IX. Someter a la Sala los proyectos de sentencia de desechamiento cuando las impugnaciones sean notoriamente improcedentes o evidentemente frívolas, en los términos de esta ley;
-
-X. Someter a la Sala los proyectos de sentencia relativos a tener por no interpuestas las impugnaciones o por no presentados los escritos cuando no reúnan los requisitos que señale esta ley;
-
-XI. Someter a consideración de la Sala, cuando proceda, la acumulación o la escisión de las impugnaciones así como la procedencia de la conexidad, en los términos de esta Ley;
-
-XII. Formular los requerimientos ordinarios necesarios para la integración de los expedientes en los términos de la legislación aplicable, y requerir cualquier informe o documento que, obrando en poder de los órganos electorales, de las autoridades federales, estatales o municipales, de los partidos políticos o de particulares, pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables;
-
-XIII. Girar exhortos a los juzgados federales o estatales encomendándoles la realización de alguna diligencia en el ámbito de su competencia, o efectuar por sí mismos las que deban practicarse fuera de las oficinas de la Sala, y
-
-XIV. Las demás que les señalen las leyes o el Reglamento Interno del Tribunal o las que sean necesarias para el correcto funcionamiento del Tribunal.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 15.
 
-Las licencias de los magistrados podrán ser otorgadas por la Sala en los términos de esta Ley y su reglamento interior.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 16.
 
-El cargo de magistrado no es renunciable sino por causa grave calificada por la Sala del propio Tribunal.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 17.
 
-Durante el ejercicio de su encargo, los magistrados y funcionarios del Tribunal no podrán desempeñar ningún otro empleo, cargo o comisión, oficial o particular, que sean remunerados, o que en su caso, pueda ocasionar un conflicto de intereses aun sin ser remunerados. El incumplimiento de esta disposición será causa de separación del encargo; con excepción de aquéllos en que actúen en representación del propio Tribunal Electoral, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 18.
 
-Los magistrados y funcionarios del Tribunal quedan impedidos para postular, salvo cuando se trate de causa propia. Se exceptúa de lo dispuesto anteriormente a los magistrados supernumerarios que no ejerzan el cargo de numerarios.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
-Concluido el encargo de magistrado, éstos no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2020)</small>
 
 ### Capítulo IV. De los Impedimentos y Excusas
 
 ###### ARTÍCULO 19.
 
-Son impedimentos para conocer de los asuntos las causas siguientes:
-
-I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados, sus representantes, patronos o defensores;
-
-II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere la fracción I anterior;
-
-III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus parientes, en los grados que expresa la fracción I de este artículo;
-
-IV. Haber presentado querella o denuncia el servidor público, su cónyuge o sus parientes, en los grados que expresa la fracción I, en contra de alguno de los interesados;
-
-V. Tener pendiente el servidor público, su cónyuge o sus parientes, en los grados que expresa la fracción I, un juicio contra alguno de los interesados o no haber transcurrido más de un año desde la fecha de la terminación del que hayan seguido hasta la fecha en que tome conocimiento del asunto;
-
-VI. Haber sido procesado el servidor público, su cónyuge o parientes, en los grados expresados en la misma fracción I, en virtud de querella o denuncia presentada ante las autoridades, por alguno de los interesados, sus representantes, patronos o defensores;
-
-VII. Estar pendiente de resolución un asunto que hubiese promovido como particular, semejante a aquél que le es sometido para su conocimiento o tenerlo su cónyuge o sus parientes en los grados expresados en la fracción I;
-
-VIII. Tener interés personal en asuntos donde alguno de los interesados sea juez, árbitro o arbitrador;
-
-IX. Asistir, durante la tramitación del asunto, a convite que le diere o costeare alguno de los interesados, tener mucha familiaridad o vivir en familia con alguno de ellos;
-
-X. Aceptar presentes o servicios de alguno de los interesados;
-
-XI. Hacer promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes, patronos o defensores, o amenazar de cualquier modo a alguno de ellos;
-
-XII. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal de alguno de los interesados;
-
-XIII. Ser o haber sido tutor o curador de alguno de los interesados o administrador de sus bienes por cualquier título;
-
-XIV. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el servidor público ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido;
-
-XV. Ser cónyuge o hijo del servidor público, acreedor, deudor o fiador de alguno de los interesados;
-
-XVII (SIC). Haber sido agente del Ministerio Público, jurado, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto en favor o en contra de alguno de los interesados, y
-
-XVIII. Cualquier otra análoga a las anteriores.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 20.
 
-Las excusas y recusaciones que por impedimento legal se presenten, serán calificadas y resueltas de inmediato por la propia Sala.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2020)</small>
 
 ### Capítulo V. Del Presidente
 
 ###### ARTÍCULO 21.
 
-El Presidente de la Sala será electo por sus integrantes de entre sus miembros, y fungirá a la vez como Presidente del Tribunal Electoral y durará en su cargo un año, con posibilidad de ser reelecto por otro periodo.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 22.
 
-El Presidente de la Sala tendrá las siguientes atribuciones:
-
-I. Representar a la Sala ante toda clase de autoridades;
-
-II. Convocar a los magistrados a las sesiones;
-
-III. Presidir las sesiones, dirigir los debates y conservar el orden de las mismas;
-
-IV. Vigilar que se cumplan las determinaciones de carácter jurisdiccional de la Sala;
-
-V. Despachar la correspondencia a través de la Secretaría;
-
-VI. Turnar a los magistrados, sin excluirse, y conforme al sistema de distribución previsto en el reglamento interior del Tribunal, los expedientes para que se formule el proyecto de resolución;
-
-VII. Vigilar que se dicten en tiempo y forma las resoluciones de la Sala;
-
-VIII. Proponer oportunamente a la Sala el nombramiento de los funcionarios que son de su competencia;
-
-IX. Despachar la correspondencia del Tribunal y de la Sala;
-
-X. Someter a la consideración de la Sala del Tribunal el proyecto de presupuesto del Tribunal Electoral, a efecto de que, una vez aprobado por ella, deberá presentarlo ante el Congreso del Estado, a través del Poder Ejecutivo;
-
-XI. Vigilar que la Sala cuente con los recursos humanos, materiales y financieros necesarios para su buen funcionamiento;
-
-XII. Vigilar que se adopten y cumplan las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas de la Sala;
-
-XIII. Vigilar que se cumplan las medidas adoptadas para el buen servicio y disciplina en las oficinas de la Sala y tomar cualquier medida urgente y necesaria para ello;
-
-XIV. Comunicar a la Cámara de Senadores las ausencias definitivas de los magistrados electorales para los efectos que procedan de conformidad con las disposiciones constitucionales y legales aplicables;
-
-XV. Requerir cualquier informe o documento que, obrando en poder de los órganos del Consejo Estatal Electoral y de Participación Ciudadana, de las autoridades federales, estatales o municipales, de los partidos políticos, agrupaciones u organizaciones políticas, o de particulares, pueda servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en las leyes;
-
-XVI. Ordenar, en casos extraordinarios, que se realice alguna diligencia o se desahogue o perfeccione alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en las leyes, y
-
-XVII. Las demás que señalen las leyes, el Reglamento Interno o aquellas que sean necesarias para el correcto funcionamiento del Tribunal.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 23.
 
-El Tribunal deberá rendir a través de su Presidente, una vez concluido el proceso electoral, un informe en el que hará del conocimiento público las actividades realizadas por el mismo durante el proceso, debiendo entregarlo por escrito al Congreso del Estado para su conocimiento.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2020)</small>
 
 ### Capítulo VI. De la Remoción de los Magistrados
 
 ###### ARTÍCULO 24.
 
-Serán causas de responsabilidad de los magistrados electorales las siguientes:
-
-I. Realizar conductas que atenten contra la independencia de la función jurídico-electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
-
-II. Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
-
-III. Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
-
-IV. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones correspondientes;
-
-V. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
-
-VI. Dejar de desempeñar injustificadamente las funciones o las labores que tenga a su cargo;
-
-VII. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de las demás disposiciones aplicables;
-
-VIII. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia, con motivo del ejercicio de sus atribuciones, y
-
-IX. Las demás que determine la Constitución Política del Estado Libre y Soberano del San Luis Potosí o demás disposiciones aplicables.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 25.
 
-Los magistrados electorales gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución Federal a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
-
-Los magistrados electorales sólo podrán ser privados de sus cargos en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos; de lo dispuesto en la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y la Ley de Responsabilidad de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+(DEROGADO, P.O. 11 DE JUNIO DE 2020)
 
 # LIBRO SEGUNDO. De los Medios de Impugnación
 
@@ -1398,3 +1230,11 @@ P.O. 31 DE MAYO DE 2017.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0680 BIS.- SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; SE DEROGA DEL LIBRO PRIMERO EL TÍTULO SEGUNDO CON LOS CAPÍTULOS I A VI Y LOS ARTÍCULOS 5 A 25, DE LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
