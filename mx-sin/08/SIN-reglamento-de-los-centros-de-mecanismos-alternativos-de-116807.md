@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-los-centros-de-mecanismos-alternativos-de-116807"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-07"
-last_updated: "2017-08-18"
+last_updated: "2020-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE LOS CENTROS DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2020.
 
 Reglamento publicado en el No. 122 del Periódico Oficial del Estado de Sinaloa, el viernes 7 de octubre de 2016.
 
@@ -217,15 +217,15 @@ I. A solicitud de una o ambas partes involucradas en un conflicto, y;
 
 II. Por derivación, cuando un juez del ramo familiar lleve a cabo la remisión de un caso que se encuentre radicado en el órgano jurisdiccional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 18 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE JUNIO DE 2020)</small>
 
 ###### Artículo 16.
 
 Solicitud de inicio del mecanismo alternativo
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2020)</small>
 
-Para iniciar el procedimiento de mediación o conciliación, se requiere la petición verbal o escrita de una o de ambas partes ante el Centro o ante un Facilitador. En su caso, para el trámite del procedimiento, deberá proporcionar sus datos personales, el asunto a resolver, su voluntad de vincularse a un mecanismo alternativo de solución de controversia, así como el nombre y domicilio de la persona con la que tenga el conflicto, a fin de que sea invitada para que asista a una sesión de mediación o conciliación, según sea el caso. Esta información será ingresada al sistema informático de seguimiento de casos con que cuenten los Centros, asignándosele el número de registro que le corresponda.
+Para iniciar el procedimiento de mediación o conciliación, se requiere la petición verbal, escrita o electrónica de una o de ambas partes ante el Centro o ante un Facilitador. En su caso, para el trámite del procedimiento, deberá proporcionar sus datos personales, el asunto a resolver, su voluntad de vincularse a un mecanismo alternativo de solución de controversia, así como el nombre y domicilio de la persona con la que tenga el conflicto, a fin de que sea invitada para que asista a una sesión de mediación o conciliación, según sea el caso. Esta información será ingresada al sistema informático de seguimiento de casos con que cuenten los Centros, asignándosele el número de registro que le corresponda.
 
 Previo al trámite de su solicitud, el Facilitador le deberá hacer saber al solicitante en qué consiste el procedimiento de mediación o conciliación, la diferencia entre ambos medios alternos, sus alcances, así como las reglas a observar, y que éste sólo se llevará a cabo con el consentimiento de ambas partes.
 
@@ -234,6 +234,10 @@ Previo al trámite de su solicitud, el Facilitador le deberá hacer saber al sol
 Una vez que la parte solicitante acepte vincularse a un mecanismo alternativo, el Facilitador la escuchará, analizará el caso y evaluará si puede aplicarse algún mecanismo alternativo de los previstos en el Reglamento; si es así, se actualizará el registro de su solicitud, anotando los datos del Facilitador que llevará el procedimiento; a su vez, se fijará fecha y hora para que tengan lugar las sesiones con la parte complementaria, en primer término una preliminar y posteriormente la inicial conjunta; ambas sesiones se desarrollarán dentro de los siguientes diez días hábiles. En caso de no haber comparecido todas las partes involucradas, se girarán las invitaciones necesarias a las partes complementarias.
 
 En caso de que el Facilitador determine que no procede la aplicación de la mediación o conciliación en el conflicto expuesto, dará por concluido el caso y lo informará a quien corresponda.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2020)</small>
+
+Este proceso podrá llevarse a través de medios electrónicos conforme con lo señalado en el Capítulo Octavo de este Instrumento.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2017)</small>
 
@@ -779,6 +783,146 @@ Recursos
 
 Contra las determinaciones que tome el Comité de Certificación no procede recurso alguno.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO OCTAVO. De la Mediación y Conciliación por Medios Electrónicos
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2020)</small>
+
+###### Artículo 49.
+
+Formulario de solicitud de servicios por medios electrónicos.
+
+Conforme lo señalado por el primer párrafo del artículo 16 de este Reglamento, la parte solicitante deberá llenar el formulario de solicitud de servicio de mediación y/o conciliación por medios electrónicos que estará disponible en el micrositio dedicado a los Centros de Mecanismos Alternativos de Solución de Controversias en Materia Familiar en la página oficial del Poder Judicial del Estado de Sinaloa.
+
+Los datos que la parte solicitante deberá proporcionar serán:
+
+I. Datos personales de la persona solicitante:
+
+a. Nombre(s) y apellido(s);
+
+b. Domicilio;
+
+c. Teléfono de contacto; y,
+
+d. Correo electrónico.
+
+II. Datos personales de la(s) persona(s) complementaria(s) a Invitar:
+
+a. Nombre(s) y apellido(s);
+
+b. Domicilio;
+
+c. Teléfono de contacto; y,
+
+d. Correo electrónico.
+
+III. Tipo de controversia que desea solucionar.
+
+IV. Breve descripción de la controversia que desea solucionar.
+
+V. Propuesta de día y hora para realización de la sesión preliminar.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2020)</small>
+
+###### Artículo 50.
+
+Registro y asignación de Facilitador.
+
+Una vez enviado el formulario, el Centro ingresará la solicitud en el sistema Informático, asignándole el número de registro correspondiente, así como la asignación a la persona facilitadora conforme el sistema aleatorio de turno y distribución equitativa de carga de trabajo.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2020)</small>
+
+###### Artículo 51.
+
+Comunicación con la parte solicitante.
+
+La persona facilitadora asignada se comunicará vía telefónica y/o electrónica con la parte solicitante para informarle el número de solicitud que le fue asignado, verificando los datos proporcionados y solicitando le haga llegar electrónicamente copia de su identificación oficial.
+
+La persona facilitadora informará a la parte solicitante que su solicitud será atendida en la modalidad de videoconferencia, por lo que deberá contar son los siguientes recursos tecnológicos para llevar a cabo el servicio:
+
+a. Contar con un dispositivo electrónico (teléfono celular, tableta electrónica o computadora personal) que incluya cámara, micrófono y bocinas; y,
+
+b. Que el dispositivo cuente con acceso a servicio de internet.
+
+En caso de no contar con estos recursos tecnológicos, la persona facilitadora comunicará a la parte solicitante que la solicitud deberá llevarse a cabo mediante el proceso presencial, conforme lo estipulado en el Capítulo Tercero de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2020)</small>
+
+###### Artículo 52.
+
+Sesión preliminar por videoconferencia con la parte solicitante.
+
+En los casos que sea posible lograr la conexión mediante medios electrónicos, el día y hora programada se llevará a cabo la sesión preliminar a través de la plataforma electrónica habilitada para ello, vía videoconferencia.
+
+Iniciada la sesión, la persona facilitadora le informará a la solicitante los principios rectores de los Mecanismos Alternativos de Solución de Controversias y en qué consiste el proceso de mediación y/o conciliación por medios electrónicos; asimismo, se cerciorará de la voluntad de participar y escuchará a la parte respecto de su situación, obtendrá toda la información que requiere para determinar si el caso es susceptible de aplicación de cualquiera de los mecanismos alternativos previstos en el artículo 9 del Reglamento; de ser procedente, señalará fecha para llevar a cabo la sesión conjunta con la parte complementaria, la cual también será mediante videoconferencia, notificándosele en ese acto a la parte solicitante la fecha y hora de la misma.
+
+En caso de que la solicitud no sea susceptible, la persona facilitadora orientará a la solicitante sobre las instituciones correspondientes en las que puedan conocer de su asunto.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2020)</small>
+
+###### Artículo 53.
+
+Invitación a la parte complementaria.
+
+Cuando la solicitud sea procedente y la parte solicitante haya proporcionado los datos telefónicos o el correo electrónico de la parte complementaria, se señalará fecha para llevar a cabo la sesión preliminar correspondiente, haciéndosele llegar la invitación por cualquiera de esas vías, la cual cumplirá con los requisitos establecidos en el artículo 18 del Reglamento.
+
+El área de invitadores se encargará de realizar la notificación y también serán quienes se ocupen de verificar, con la parte invitada, que cuente con los requerimientos tecnológicos necesarios para llevar a cabo el procedimiento a través de medios electrónicos.
+
+Si, al realizar la invitación, la parte complementaria manifiesta que no cuenta con la tecnología necesaria, se le invitará a una sesión presencial, conforme lo establecido en el Capítulo Tercero de este Reglamento.
+
+En caso de que la parte complementaria no decida someterse al mecanismo planteado, se tendrá por terminada la solicitud, comunicándole lo anterior a la parte solicitante.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2020)</small>
+
+###### Artículo 54.
+
+Sesión preliminar por videoconferencia con la parte complementaria.
+
+Verificado que la parte invitada cuente con la tecnología necesaria, el día y hora programada se llevará a cabo la conexión a través de la plataforma electrónica habilitada para ello; vía videoconferencia, la persona facilitadora le solicitará constancia electrónica de su identificación oficial, le informará los principios rectores de los Mecanismos Alternativos de Solución de Controversias y en qué consiste el proceso de mediación y/o conciliación en línea; asimismo, se cerciorará de la voluntad de participar y escuchará a la parte respecto de su situación, obtendrá toda la información que sea necesaria para identificar el conflicto y verificará que las condiciones sean favorables para ambas partes.
+
+Una vez manifestada su voluntad para continuar en el procedimiento de forma virtual a través de medios electrónicos, se le notificará la fecha y hora en la que se celebrará la sesión conjunta.
+
+En caso de que la parte complementaria decida no continuar con el proceso, se tendrá por terminada la solicitud, comunicándole lo anterior a la parte solicitante.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2020)</small>
+
+###### Artículo 55.
+
+Sesión conjunta por videoconferencia con ambas partes.
+
+La sesión conjunta se llevará a cabo a través de videoconferencia, en ésta participarán ambas partes y la persona facilitadora asignada, en la plataforma electrónica habilitada para ello; esta sesión se llevará a cabo de acuerdo a lo establecido en los artículos 20, 21, 22 y 23 del Reglamento.
+
+Adicionalmente a lo señalado en los artículos referidos en el párrafo anterior, la persona facilitadora establecerá las formalidades de la Identificación entre ambas partes, les explicará de forma específica las reglas del procedimiento virtual, la forma de utilizar la plataforma y que, en caso de que lleguen a un acuerdo, cómo se llevará a cabo la firma.
+
+Asimismo, iniciada la sesión les explicará y enviará de forma electrónica el convenio de confidencialidad, el cual contendrá los datos de las partes, así como la manifestación voluntaria de ambas de participar de forma virtual en el proceso, y la imposibilidad de la firma autógrafa; este documento contendrá únicamente la firma de la persona facilitadora y la certificación por parte de la persona titular de la dirección del Centro, en la que deje constancia de la modalidad en la que se desarrolló el proceso.
+
+Se podrán llevar a cabo hasta tres sesiones conjuntas, esto dependerá de la complejidad del conflicto y de las necesidades de las partes. Cuando no sea posible concluir el proceso con convenio, se les reiterará a ambas partes la salvedad de su derecho de iniciar y/o continuar con las acciones legales correspondientes.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2020)</small>
+
+###### Artículo 56.
+
+Convenio.
+
+Si las partes llegan a un convenio, estipularán junto con la persona facilitadora la fecha y hora para llevar a cabo la lectura del convenio, la cual también será a través de videoconferencia, una vez que la persona facilitadora haya integrado las constancias del proceso, indicándoles, en su caso, la necesidad de presentar y/o hacer llegar, dependiendo la naturaleza de los mismos, los documentos y anexos al convenio de forma física o electrónica.
+
+La persona facilitadora redactará el convenio, con los acuerdos a los que llegaron las partes, el cual deberá cumplir con los requisitos previstos en el artículo 26 del Reglamento; cuando menos un día antes de la fecha programada para la lectura, será enviado a la persona titular de la dirección para su revisión, quien deberá regresárselo debidamente revisado, previo a la celebración de la sesión de lectura del mismo.
+
+El día y hora señalado, se establecerá conexión mediante videoconferencia y al inicio de ésta se les enviará de forma electrónica, en archivo PDF, el proyecto del convenio; la persona facilitadora le dará lectura y realizará las precisiones que, de forma conjunta, las partes le indiquen, siempre y cuando no contravengan derechos de terceras personas ni normas del orden público.
+
+Al finalizar la lectura, si las partes están conformes, la persona facilitadora requerirá a cada una para que exprese verbalmente su consentimiento para someterse a las cláusulas y condiciones fijadas en el convenio, situación que la persona facilitadora asentará en las constancias correspondientes, bajo su estricta responsabilidad.
+
+Si las partes participantes desean hacer cambios o precisiones que ameriten una sesión conjunta, la persona facilitadora les agendará una nueva sesión, dándose por notificadas las partes en ese momento; llegados el día y hora señalados, la sesión será celebrada bajo la misma modalidad de videoconferencia.
+
+Una vez integrado el convenio en su conjunto, y de acuerdo las partes, se realizará una bitácora de actuación, en la que se asiente la forma en la que se desarrolló el proceso, y se anexará también la versión final del convenio, asentándose por la persona facilitadora que, bajo su más estricta responsabilidad, fue recibida por las partes participantes su consentimiento verbal en la sesión de lectura del convenio.
+
+Las actuaciones serán remitidas a la persona encargada de la dirección del Centro, para su certificación y remisión a la autoridad judicial competente para que, de ser procedente, lo eleve a categoría de cosa juzgada, en términos del artículo 18, fracción V, del Código de Procedimientos Familiares del Estado de Sinaloa. Lo anterior no aplicará para los convenios de divorcios en los que no existe un juicio previo ante la autoridad jurisdiccional.
+
+Cuando las partes no deseen firmar el convenio, se dará por concluido el procedimiento.
+
+En aquello que no sea contrario a lo señalado en este artículo, se estará al Capítulo Cuarto de este Reglamento.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -824,3 +968,15 @@ El presente acuerdo entrará en vigor al día siguiente de su publicación.
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA Y ADICIONA EL REGLAMENTO DEL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente acuerdo entrará en vigor el día 16 dieciséis del mes de Junio de dos mil veinte.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial “El Estado de Sinaloa”.
