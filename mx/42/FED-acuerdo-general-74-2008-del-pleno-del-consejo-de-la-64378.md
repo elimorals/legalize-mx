@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-74-2008-del-pleno-del-consejo-de-la-64378"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-11-19"
-last_updated: "2016-07-06"
+last_updated: "2020-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64378&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-10-15"
 ---
 # ACUERDO GENERAL 74/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO AL USO DE VIDEOCONFERENCIA COMO UN METODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 12 DE JUNIO DE 2020, EL PRESENTE ACUERDO HA SIDO DEROGADO.]</small>
+
 ACUERDO GENERAL 74/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE PONE A DISPOSICIÓN DE LOS ORGANOS JURISDICCIONALES EL USO DE LA VIDEOCONFERENCIA COMO UN METODO ALTERNATIVO PARA EL DESAHOGO DE DILIGENCIAS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2020 (DEROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2008.
 
@@ -736,3 +738,45 @@ D.O.F. 6 DE JULIO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 12 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se deroga el Título Cuarto, De los servicios electrónicos del CJF, del "Acuerdo General conjunto 1/2015 de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, que regula los servicios tecnológicos relativos a la tramitación tecnológica del juicio de amparo, las comunicaciones oficiales y los procesos de oralidad penal en los Centros de Justicia Penal Federal". Dado que se trata de un Acuerdo General Conjunto, infórmese de esta determinación a la Suprema Corte de Justicia de la Nación.
+
+CUARTO. Se deroga el Acuerdo General 74/2008 del Pleno del Consejo de la Judicatura Federal, que pone a disposición de los órganos jurisdiccionales el uso de la videoconferencia como un método alternativo para el desahogo de diligencias judiciales, así como el Protocolo para el uso de la videoconferencia en los juzgados de Distrito en materia Penal y de Procesos Penales Federales, en aquellas disposiciones que contravengan o se opongan al presente Acuerdo y su Anexo Técnico.
+
+En lo que no se oponga al presente Acuerdo, continúa vigente el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los servicios de interconexión tecnológica entre los órganos jurisdiccionales con diversas instituciones públicas". Los convenios de interconexión celebrados conforme a lo previsto en el Acuerdo antes citado, así como las declaratorias de publicidad continuarán vigentes en lo que no se opongan a este instrumento normativo.
+
+QUINTO. Toda vez que el presente Acuerdo se emite durante la contingencia sanitaria por Covid-19, el acatamiento a algunas de sus disposiciones se modificará atendiendo a las reglas contenidas en los Acuerdos Generales vigentes y los que se emitan para hacerle frente. En específico:
+
+I. La obligación prevista en el artículo 22, párrafo cuarto, referente a la inclusión de las constancias generadas electrónicamente a los expedientes físicos y a la identidad entre ambos expedientes, se satisfará en los términos en que el CJF lo determine, a partir de la regularización de las actividades dentro del PJF.
+
+II. La utilización de videoconferencias para el desahogo de audiencias, prevista en el artículo 27 y demás relacionados, se estimará como la regla general, de modo que sólo de forma excepcional se celebrarán audiencias con presencia física de las partes y demás intervinientes. En el sistema penal adversarial se estará a las reglas específicamente previstas para dichos asuntos durante el período de contingencia.
+
+III. Podrá restringirse el acceso del público a las sesiones de los tribunales colegiados de Circuito, incluso cuando se realicen por videoconferencia, para lo cual se adoptarán las medidas pertinentes para garantizar la publicidad de las mismas mediante la posibilidad de consultar los registros correspondientes a partir de la regularización de actividades en el Poder Judicial de la Federación. Lo anterior se hará aplicable a los Plenos de Circuito en caso de que se reestablezcan sus actividades durante el período de contingencia.
+
+SEXTO. La Secretaría Ejecutiva de Administración, a través de sus unidades administrativas adscritas, llevará a cabo las acciones necesarias a efecto de que cada órgano jurisdiccional cuente con el equipo y tecnología indispensable para el buen desarrollo de las videoconferencias.
+
+En específico, la Dirección General de Tecnologías de la Información llevará a cabo las acciones necesarias para optimizar y, en su caso, modificar la estrategia tecnológica y de infraestructura que apoye el servicio de "videoconferencia" en los órganos jurisdiccionales, como una herramienta tecnológica que permanentemente esté a disposición de los órganos jurisdiccionales. Para lo anterior, deberá actuarse en observancia a la normatividad interna y a los principios contenidos en el artículo 134 Constitucional.
+
+SÉPTIMO. Las obligaciones previstas en el quinto párrafo del artículo 31 y en el primer párrafo del SEXTO transitorio quedarán sujetas a la existencia de disponibilidad presupuestaria y, en su caso, a la adquisición y distribución de los equipos de conformidad con la normativa administrativa del Consejo que rige este tipo de procedimientos. Para su cumplimiento, la Dirección General de Tecnologías de la Información, en conjunto con las unidades administrativas competentes, elaborará de inmediato e implementará un plan gradual que permita dar cumplimiento a esta obligación.
+
+OCTAVO. El registro y resguardo de las videoconferencias se realizará en los medios de almacenamiento de datos institucionales u otros que la Dirección General de Tecnologías de la Información disponga para tal fin, especificando el número de expediente y NEUN de los asuntos sesionados, y garantizando en todo momento la seguridad de la información y su disponibilidad para ulterior consulta.
+
+NOVENO. El Consejo de la Judicatura Federal tendrá un plazo de un año a partir de la publicación del presente Acuerdo para liberar el sistema centralizado previsto en el Capítulo Séptimo, que regirá en todas las Oficinas de Correspondencia Común que pertenecen al Poder Judicial Federal.
+
+DÉCIMO. El Consejo de la Judicatura Federal tendrá un plazo de un año a partir de la publicación del presente Acuerdo para incorporar el Capítulo Décimo Segundo relativo a la regulación aplicable para la reforma en materia laboral. Para dar cumplimiento a este mandato, la Dirección General de Asuntos Jurídicos y la Unidad de Implementación de la Reforma en Materia de Justicia Laboral se coordinarán para la presentación de la propuesta respectiva antes de la entrada en vigor del sistema de justicia laboral.
+
+DÉCIMO PRIMERO. La Dirección General de Gestión Judicial tendrá 30 días naturales a partir de la entrada en vigor del presente Acuerdo para emitir los Lineamientos referidos en el artículo 3, fracción VIII, y los diversos previsto (sic) en el artículo 28, fracción VII. Asimismo, tendrá tres meses para proponer e implementar los ajustes necesarios para que el personal de las OCC pueda contribuir a la digitalización de constancias para la integración de expedientes electrónicos.
+
+DÉCIMO SEGUNDO. La Dirección General de Tecnologías de la Información liberará las funcionalidades del Portal de Servicios en Línea y del SISE que permitan la tramitación electrónica de todos los asuntos competencia del Poder Judicial de la Federación a más tardar el 16 de junio de 2020.
+
+DÉCIMO TERCERO. La Dirección General de Asuntos Jurídicos contará con tres meses para presentar al Pleno una propuesta de reforma a los Acuerdos Generales "8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito", y "16/2009 del Pleno del Consejo de la Judicatura Federal, que regula las sesiones de los tribunales colegiados de Circuito y establece los lineamientos para su videograbación y difusión, en relación con las videoconferencias", para ajustarlos a lo dispuesto en el presente Acuerdo General.
+
+DÉCIMO CUARTO. La entrada en vigor de lo dispuesto en el último párrafo del artículo 74 estará condicionado a que la Suprema Corte de Justicia de la Nación modifique el "Acuerdo General 12/2014, de 19 de mayo de 2014, del Pleno de la Suprema Corte de Justicia de la Nación, relativo a los lineamientos que rigen el uso del módulo de intercomunicación para la transmisión electrónica de documentos entre los tribunales del Poder Judicial de la Federación y la propia Suprema Corte", para permitir esta posibilidad. Mientras tanto, el acceso al MINTERSCJN se realizará en los términos en que actualmente funciona.
