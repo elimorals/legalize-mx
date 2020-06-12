@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-sala-superior-del-tribunal-electoral-1431
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-06-10"
-last_updated: "2020-06-10"
+last_updated: "2020-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2020-05-27"
 ---
 # ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION NUMERO 5/2020, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA IMPLEMENTACION Y EL DESARROLLO DEL JUICIO EN LINEA EN MATERIA ELECTORAL, RESPECTO DE LOS RECURSOS DE RECONSIDERACION Y DE REVISION DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JUNIO DE 2020 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 5/2020, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA IMPLEMENTACIÓN Y EL DESARROLLO DEL JUICIO EN LÍNEA EN MATERIA ELECTORAL, RESPECTO DE LOS RECURSOS DE RECONSIDERACIÓN Y DE REVISIÓN DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 12 DE JUNIO DE 2020.]
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 10 de junio de 2020.
 
@@ -281,7 +281,9 @@ El tratamiento de la información proporcionada por los particulares será en cu
 
 Para que las partes ingresen al Sistema del Juicio en Línea en Materia Electoral, será indispensable que utilicen su FIREL, o bien, los certificados digitales emitidos por otros órganos del Estado con los cuales el Poder Judicial de la Federación, a través de la Unidad del Poder Judicial de la Federación para el Control de Certificación de Firmas, haya celebrado convenio de coordinación para el reconocimiento de certificados digitales homologados en términos de lo previsto en el artículo 5, párrafo segundo, del Acuerdo General Conjunto Número 1/2013, de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación y al expediente electrónico.
 
-Las partes, antes de remitir cualquier documento electrónico a través del Sistema Electrónico de la SCJN, deberán:
+> <small>(F. DE E., D.O.F. 12 DE JUNIO DE 2020)</small>
+
+Las partes, antes de remitir cualquier documento electrónico a través del Sistema, deberán:
 
 I. Verificar el correcto y completo registro de la información solicitada en los diversos campos de los módulos de dicho Sistema;
 
