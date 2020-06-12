@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-v-124878"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-22"
-last_updated: "2018-11-05"
+last_updated: "2020-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124878&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-12-04"
 ---
 # ESTATUTO ORGANICO DE CFE GENERACION V
 
+> <small>[N. DE E. LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN V, PUBLICADO EN EL D.O.F. DE 12 DE JUNIO DE 2020, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN V
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2020.
 
 Estatuto publicado en la Octava Sección al Número 19 del Diario Oficial de la Federación, el viernes 22 de diciembre de 2017.
 
@@ -31,7 +33,11 @@ CFE GENERACIÓN V
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN V
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ÍNDICE
+
+CONSIDERANDOS
 
 ## TÍTULO I. De la Organización
 
@@ -61,19 +67,13 @@ ESTATUTO ORGÁNICO DE CFE GENERACIÓN V
 
 ### CAPÍTULO ÚNICO. De la Representación de CFE Generación V y Suplencias del Personal
 
-## TÍTULO V. De la instancia en materia de Transparencia
+## TÍTULO V. De la instancia en Materia de Transparencia
 
 ### CAPÍTULO ÚNICO. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
 
-> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
-
 ## TÍTULO V BIS. De la Instancia en Materia de Responsabilidades
 
-> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
-
 ### CAPÍTULO ÚNICO. Unidad de Responsabilidades
-
-CONSIDERANDOS
 
 ## TRANSITORIOS
 
@@ -91,9 +91,15 @@ Que, con base en los considerandos que anteceden, se emite el siguiente:
 
 Estatuto Orgánico de CFE Generación V
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ## TÍTULO I. De la Organización
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 1.
 
@@ -103,6 +109,8 @@ CFE Generación V es una Empresa Productiva Subsidiaria de la Comisión, la cual
 
 CFE Generación V tendrá su domicilio en la Ciudad de México, sin perjuicio de que para el desarrollo de sus actividades puede establecer oficinas o domicilios legales o convencionales tanto en territorio nacional como en el extranjero.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 2.
 
 Para los efectos de este Estatuto se entenderá por:
@@ -111,7 +119,7 @@ I. Actividades Independientes: La Generación, Transmisión, Distribución, Sumi
 
 II. Acuerdo de Creación: Acuerdo de creación de la empresa productiva subsidiaria de la Comisión Federal de Electricidad denominada CFE Generación V;
 
-III. Auditoría Interna de la CFE: Auditoría Interna de la Comisión Federal de Electricidad.
+III. Auditoría Interna de la CFE: Auditoría Interna de la Comisión Federal de Electricidad;
 
 IV. Auditoría Interna: Auditoría Interna de CFE Generación V;
 
@@ -153,9 +161,13 @@ XXII. SHCP: Secretaría de Hacienda y Crédito Público;
 
 XXIII. Sistema de Control Interno: el conjunto de políticas, principios, normas, procedimientos y mecanismos de verificación y evaluación establecidos conforme a los lineamientos emitidos por el Consejo de Administración de la Comisión, en términos del artículo 54 de la Ley; y
 
-XXIV. TESL: Términos para la Estricta Separación Legal de la Comisión Federal de Electricidad.
+XXIV. TESL: Términos para la estricta separación legal de la Comisión Federal de Electricidad.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO II. De la Estructura de CFE Generación V
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 3.
 
@@ -231,25 +243,33 @@ b. Oficina de Operación Financiera
 
 c. Oficina de Control Financiero
 
-VII. Departamento Jurídico.
+VII. Departamento Jurídico
 
 a. Oficina de Atención de Controversias
 
 b. Oficina de Análisis Regulatorio
 
-VIII. Departamento de Gestión Operativa.
+VIII. Departamento de Gestión Operativa
 
 a. Oficina de Integración de Bitácoras de Eventos y Programas de Mantenimiento
 
-b. Oficina de Gestión de Procedimientos Operativos y Pruebas a Centrales.
+b. Oficina de Gestión de Procedimientos Operativos y Pruebas a Centrales
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ## TÍTULO II. Del Gobierno Corporativo
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ### CAPÍTULO I. Integración y funcionamiento del Consejo de CFE Generación V y sus Comités
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 4.
 
 CFE Generación V será dirigida y administrada por un Consejo de Administración y un Director General.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 5.
 
@@ -271,6 +291,8 @@ Los consejeros podrán designar a sus respectivos suplentes, salvo por el consej
 
 Los consejeros del Gobierno Federal podrán ser o no servidores públicos al momento de su designación. Cuando el Director General de la Comisión designe a otra persona en la Presidencia del Consejo, este consejero no podrá participar en otros consejos de Empresas Productivas Subsidiarias o Empresas Filiales de Generación o Suministro Básico.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 6.
 
 El Consejo tendrá las funciones previstas por los TESL, el Acuerdo de Creación, este estatuto, las que establezca el propio Consejo de Administración, así como otros ordenamientos jurídicos aplicables:
@@ -279,7 +301,7 @@ I. Tomar conocimiento del Plan de Negocios, de las políticas, lineamientos y vi
 
 II. Definir las directrices para la operación de CFE Generación V, alinear sus actividades al Plan de Negocios de la Comisión, así como conducir sus operaciones con base en las mejores prácticas del gobierno corporativo;
 
-III. Designar y remover a propuesta del Director General al siguiente nivel jerárquico de CFE Generación V y concederles licencias; por siguiente nivel jerárquico se entenderá, Subgerente de Supervisión Técnica, Subgerente de Estudios, Subgerente de Servicios y Análisis Financiero, Jefe de la Unidad de Administración y Recursos Humanos, Jefe del Departamento Jurídico, Jefe del Departamento de Finanzas, y Jefe del Departamento de Optimización y Control de Energía.
+III. Designar y remover a propuesta del Director General al siguiente nivel jerárquico de CFE Generación V y concederles licencias; por siguiente nivel jerárquico se entenderá, Subgerente de Supervisión Técnica, Subgerente de Estudios, Subgerente de Servicios y Análisis Financiero, Jefe de la Unidad de Administración y Recursos Humanos, Jefe del Departamento de Optimización y Control de Energía, Jefe del Departamento de Finanzas, Jefe del Departamento Jurídico, Jefe del Departamento de Gestión Operativa;
 
 IV. Vigilar y evaluar la operación de CFE Generación V;
 
@@ -305,23 +327,35 @@ XIV. Aprobar los Proyectos y Programas de Inversión de conformidad a los lineam
 
 XV. Además de las anteriores, tendrá las funciones previstas por la Ley, los TESL, el Acuerdo de Creación; este Estatuto; así como otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 7.
 
 El Consejo contará con los Comités que al efecto establezca. En todo caso contará con un Comité de Auditoría.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 8.
 
 Los Comités tendrán las funciones previstas por la (sic) Reglas de Funcionamiento y las que determine el Consejo. En el caso del Comité de Auditoría, además de lo anterior, tendrá las funciones previstas por los lineamientos que al efecto emita el Consejo de Administración.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 9.
 
-Las reglas de operación y funcionamiento del Consejo de Administración deberán prever como mínimo los supuestos previstos por el Acuerdo de Creación.
+Las reglas de operación y funcionamiento del Consejo deberán prever como mínimo los supuestos previstos por el Acuerdo de Creación.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 10.
 
 Las actas y acuerdos del Consejo y sus Comités se difundirán conforme a la normatividad aplicable, a través del portal electrónico de CFE Generación V.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ### CAPÍTULO II. Del Director General
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 11.
 
@@ -336,6 +370,8 @@ III. Será designado en razón de su experiencia, capacidad y prestigio profesio
 IV. Será el responsable de ejecutar los acuerdos o resoluciones adoptados por el Consejo.
 
 Adicionalmente, el Director General deberá reunir los requisitos señalados en el artículo 19 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 12.
 
@@ -371,15 +407,29 @@ XIII. Determinar la información relevante y eventos que deban ser públicos en 
 
 XIV. Implementar los mecanismos para atender las disposiciones del Consejo de Administración y del Director General de la Comisión, relativas a la instrumentación y evaluación del Sistema de Control Interno;
 
-XV. Dirige la elaboración del Plan de Negocios anual de CFE Generación V y someterlo a consideración del Director General;
+XV. Dirigir la elaboración del Plan de Negocios anual de CFE Generación V y someterlo a consideración del Director General;
 
-XVI. Las funciones y facultades que establezca la SENER en términos de la Ley;
+XVI. Delegar facultades a los titulares de las Unidades Administrativas y Operativas, sin perjuicio de su ejercicio directo, y expedir los acuerdos respectivos;
 
-XVII. Las demás previstas en los ordenamientos jurídicos aplicables, el Estatuto, el Acuerdo de Creación y las que le confiera el Consejo de Administración o el Consejo; y
+XVII. Establecer sistemas de control y adoptar las medidas preventivas y correctivas necesarias;
 
-Para el ejercicio de sus funciones, el Director General se auxiliará de las Unidades Operativas, Administrativas y Servidores Públicos que se establezcan en el presente Estatuto.
+XVIII. Nombrar al personal de confianza, cuya designación no esté reservada expresamente al Consejo;
+
+XIX. Expedir copias certificadas, previo cotejo, de expedientes y documentos a cargo de las Unidades Administrativas y Operativas bajo su adscripción;
+
+XX. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y entregar los documentos que obren en sus archivos. Asimismo, expedir, a petición del interesado, los documentos que obren en los archivos de las respectivas Unidades Operativas y Administrativas bajo su adscripción, en términos de lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y su Reglamento;
+
+XXI. Las funciones y facultades que establezca la SENER en términos de la Ley; y
+
+XXII. Las demás previstas en los ordenamientos jurídicos aplicables, el Estatuto, el Acuerdo de Creación y las que le confiera el Consejo de Administración o el Consejo.
+
+Para el ejercicio de sus funciones, el Director General se auxiliará de las Unidades Operativas y Administrativas y Servidores Públicos que se establezcan en el presente Estatuto.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO III. De la Auditoría Interna
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 13.
 
@@ -389,9 +439,15 @@ La Auditoría Interna se auxiliará de un Auditor Supervisor y un Auxiliar, así
 
 Dicho personal tendrá a su cargo las funciones previstas en la normativa interna aplicable, así como aquellas que, le sean asignadas o delegadas de manera expresa por sus superiores jerárquicos.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ## TÍTULO III. De las Unidades Operativas y Administrativas
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ### CAPÍTULO I. De las Subgerencias
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 14.
 
@@ -399,11 +455,11 @@ A cargo de cada Subgerencia habrá un Subgerente, quien para el debido cumplimie
 
 I. Planear, programar, organizar, dirigir y supervisar el funcionamiento de las áreas adscritas;
 
-II. Proponer al Jefe Inmediato las políticas, programas, proyectos y estudios del área de su competencia;
+II. Proponer al Director General las políticas, programas, proyectos y estudios del área de su competencia;
 
-III. Acordar con su Jefe Inmediato el despacho de los asuntos relevantes de su competencia;
+III. Acordar con el Director General el despacho de los asuntos relevantes de su competencia;
 
-IV. Desempeñar las atribuciones y comisiones que el Jefe Inmediato le delegue o encomiende, y mantenerlo informado sobre el desarrollo de sus actividades;
+IV. Desempeñar las atribuciones y comisiones que el que el Director General le delegue o encomiende, y mantenerlo informado sobre el desarrollo de sus actividades;
 
 V. Delegar facultades a los titulares de los Departamentos de su competencia;
 
@@ -437,11 +493,15 @@ XIX. Participar en órganos colegiados o grupos de trabajo que propicien el cump
 
 XX. Supervisar y coadyuvar al cumplimiento de las políticas establecidas por el Consejo y Director General;
 
-XXI. Acordar con el Director General el nombramiento de los Jefes de Departamento que de ellos dependan;
+XXI. Proponer al Director General el nombramiento de los Jefes de Departamento que de ellos dependan;
 
-XXII. Las demás que le resulten necesarias para el cumplimiento de las facultades conferidas y la resolución de los asuntos que son de su competencia, así como las que le otorgue el Consejo, el Director General, los manuales o normatividad interna y demás ordenamientos legales aplicables; y
+XXII. Las demás que le resulten necesarias para el cumplimiento de las facultades conferidas y la resolución de los asuntos que son de su competencia, así como las que le otorgue el Consejo, el Director General, los manuales o normatividad interna y demás ordenamientos legales aplicables;
 
-XXIII. Transmitir los poderes que le otorgue el Director General y revocar los que hubiere otorgado conforme a lo dispuesto por esta fracción.
+XXIII. Transmitir los poderes que le otorgue el Director General y revocar los que hubiere otorgado conforme a lo dispuesto por esta fracción y;
+
+XXIV. El Director General designará a los Representantes de CFE Generación V para celebrar los Comités de Coordinación de los PEE; dicha designación, puede ser temporal o permanente.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 15.
 
@@ -467,49 +527,53 @@ IX. Supervisar la información relacionada con los eventos que los Productores E
 
 X. Dar seguimiento a los programas de reuniones de conciliación entre los Departamentos de Análisis y Resultados de la Subgerencia y los Productores Externos de Energía, para desahogar las impugnaciones hechas para todo o parte de la facturación presentada por dichos productores de acuerdo con los contratos suscritos y procedimientos convenidos;
 
-XI. Supervisar la obtención de la información técnica necesaria en la revisión de las facturas que presenten los Productores Externos de Energía, de acuerdo con los contratos celebrados y procedimientos convenidos; y
+XI. Supervisar la obtención de la información técnica necesaria en la revisión de las facturas que presenten los Productores Externos de Energía, de acuerdo con los contratos celebrados y procedimientos convenidos;
 
-XII. Dar seguimiento a la revisión de la información técnica anexa a la facturación que presentan mensualmente los Productores Externos de Energía a CFE Generación V, relacionada con las impugnaciones de una porción o el total de las facturas, de acuerdo a los contratos y procedimientos convenidos.
+XII. Dar seguimiento a la revisión de la información técnica anexa a la facturación que presentan mensualmente los Productores Externos de Energía a CFE Generación V, relacionada con las impugnaciones de una porción o el total de las facturas, de acuerdo a los contratos y procedimientos convenidos; y
+
+XIII. El Director General designará a los Representantes de CFE Generación V en los Comités de Coordinación de los PEE; dicha designación, puede ser temporal o permanente.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 16.
 
 De la Subgerencia de Estudios dependerán el Departamento de Control de Energéticos, Departamento de Control de Gestión y Departamento de Estudios. A esta Subgerencia le corresponde además de las facultades señaladas en el artículo 14 de este Estatuto, las siguientes:
 
-I. Diseñar y emitir estudios a efecto de acordar la sustitución temporal o definitiva de índices de precios de combustible base cuando éstos no se encuentren disponibles o ya no reflejen sustancialmente los precios del Combustible Base en el mercado relevante de alguna central de acuerdo a lo establecido en las cláusulas de los contratos que no cuentan con contrato de suministro con la CFE;
+I. Diseñar y emitir estudios a efecto de acordar la sustitución temporal o definitiva de índices de precios de Combustible Base o Combustible Alterno cuando éstos no se encuentren disponibles o ya no reflejen sustancialmente los precios del Combustible Base o Combustible Alterno en el mercado relevante de alguna central de acuerdo a lo establecido en las cláusulas de los contratos que no cuentan con contrato de suministro con la CFE;
 
-II. Coordinar la elaboración y emisión del "Proyecto de Presupuesto Anual" conforme a los contratos de Compromiso de Capacidad de Generación de Energía Eléctrica y Compraventa de Energía Eléctrica Asociada para cumplir con los compromisos de pago a los Productores Externos de Energía;
+II. Coordinar la elaboración y emisión del "Proyecto de Presupuesto Anual" conforme a los contratos de Compromiso de Capacidad de Generación de Energía Eléctrica y Compraventa de Energía Eléctrica Asociada para cumplir con los compromisos de pago a los Productores Externos e Energía;
 
-III. Conducir el seguimiento a la evolución y comportamiento de los Precios Índice del Combustible Base en la publicación contractual, para la revisión de las facturas presentadas por los Productores Externos de Energía (PEE's);
+III. Conducir el seguimiento a la evolución y comportamiento de los Precios Índice del Combustible Base en la publicación contractual, para la revisión de las facturas presentadas por los Productores Externos de Energía (PEE);
 
 IV. Conducir la elaboración del "Informe mensual de Resultados Relevantes" por Central Generadora e Integrado de CFE Generación V, a efecto de mantener informadas a las autoridades de la CFE;
 
-V. Gestionar la revisión de las Actas de Entrega-Recepción entre CFE Generación V y la Coordinación de Proyectos Termoeléctricos (CPT), correspondientes a las centrales de PEE's en operación comercial, para su formalización;
+V. Gestionar la revisión de las Actas de Entrega-Recepción entre CFE Generación V y la Coordinación de Proyectos Termoeléctricos (CPT), correspondientes a las centrales de PEE en operación comercial, para su formalización;
 
-VI. Instrumentar el seguimiento a la evolución y comportamiento de los índices de precio del combustible base, combustible alterno reportando por las Subgerencias Regionales de Energéticos para el pago de los PEE's que tienen contrato de suministro con la CFE;
+VI. Instrumentar el seguimiento a la evolución y comportamiento de los índices de precio del combustible base, combustible alterno reportado por las Subgerencias Regionales de Energéticos para el pago de los PEE que tienen contrato de suministro con la CFE;
 
-VII. Dirigir la elaboración y emitir los Informes de Generación Neta Facturada, Costos Unitarios de Producción, Datos Técnicos de Eficiencia Térmica Neta, Disponibilidad y Factor de Planta, así como también las Desviaciones sobre Datos Técnicos, relacionados con las Centrales de PEE's para su envío a la Secretaría de Energía, Dirección General de la CFE, Dirección Corporativa de Operación, Subdirección de Negocios no Regulados, Consejo y a otras áreas de la CFE;
+VII. Dirigir la elaboración y emitir los Informes de Generación Neta Facturada, Costos Unitarios de Producción, Datos Técnicos de Eficiencia Térmica Neta, Disponibilidad y Factor de Planta, así como también las Desviaciones sobre Datos Técnicos, relacionados con las Centrales de PEE para su envío a la Secretaría de Energía, Dirección General de la CFE, Dirección Corporativa de Operación, Subdirección de Negocios no Regulados, Consejo y a otras áreas de la CFE;
 
-VIII. Integrar la información correspondiente de precios de agua, precio índice del combustible base, transporte de combustible, porcentajes de combustibles de compresión, precios de diésel en el sistema de revisión de facturas, necesarios para la validación de los cargos por combustible presentados por los PEE's;
+VIII. Integrar la información correspondiente de Cuotas de Agua, Precio Índice del Combustible Base, transporte de combustible, porcentajes de combustibles de compresión, Precios de Combustible Alterno entre otros, en el sistema de revisión de facturas, necesarios para la validación de los cargos por combustible presentados por los PEE;
 
-IX. Dar seguimiento a la evolución del precio de combustible alterno. necesario para el cálculo del precio de venta del diésel (PVD);
+IX. Dar seguimiento a la publicación de tarifas autorizadas por la Comisión Reguladora de Energía para el transporte y compresión de gas natural;
 
-X. Dar seguimiento a la publicación de tarifas autorizadas por la Comisión Reguladora de Energía para el transporte y compresión de gas natural;
+X. Dirigir la elaboración de estudios, reportes, documentos y medición del desempeño de las Centrales de los Productores Externos de Energía, así como el ejercicio presupuestal de conformidad con la normatividad aplicable;
 
-XI. Dirigir la elaboración de estudios, reportes, documentos y medición del desempeño de las Centrales de los Productores Externos de Energía, así como el ejercicio presupuestal de conformidad con la normatividad aplicable;
+XI. Coordinar la aplicación de la regulación relativa a los índices de precios y transporte de combustible de acuerdo con los Contratos celebrados con los Productores Externos de Energía y las leyes aplicables;
 
-XII. Coordinar la aplicación de la regulación relativa a los índices de precios y transporte de combustible de acuerdo con los Contratos celebrados con los Productores Externos de Energía y las leyes aplicables;
+XII. Dar seguimiento a la elaboración y emisión de estudios, reportes y documentos relativos a los índices de precio de los combustibles utilizados para determinar los pagos de la energía adquirida a los Productores Externos de Energía de conformidad con los requerimientos de los mandos directivos de CFE;
 
-XIII. Dar seguimiento a la elaboración y emisión de estudios, reportes y documentos relativos a los índices de precio de los combustibles utilizados para determinar los pagos de la energía adquirida a los Productores Externos de Energía de conformidad con los requerimientos de los mandos directivos de CFE;
+XIII. Coordinar con el Departamento Jurídico de la CFE Generación V el seguimiento y atención a las notificaciones de Cambios en la Ley que realicen los Productores Externos de Energía de conformidad con los Contratos que tienen celebrados con la CFE;
 
-XIV. Coordinar con el Departamento Jurídico de la CFE Generación V el seguimiento y atención a las notificaciones de Cambios en la Ley que realicen los Productores Externos de Energía de conformidad con los Contratos que tienen celebrados con la CFE;
+XIV. Elaborar y convenir los procedimientos necesarios con las Subgerencias Regionales de Energéticos a fin de recabar la información mensual de precios y tarifas de transporte del Combustible Base y Combustible Alterno relacionada con las Centrales de Productores Externos de Energía para las cuales la CFE es la responsable del suministro o transporte del Combustible;
 
-XV. Elaborar y convenir los procedimientos necesarios con las Subgerencias Regionales de Energéticos a fin de recabar la información mensual de precios y tarifas de transporte del Combustible Base y Combustible Alterno relacionada con las Centrales de Productores Externos de Energía para las cuales la CFE es la responsable del suministro o transporte del Combustible;
+XV. Apoyar al Departamento Jurídico en la atención de los Procedimientos de Perito Independiente relacionados con controversias de carácter técnico y de facturación suscitadas entre la CFE y los Productores Externos de Energía de conformidad con los Contratos de Compromiso de Capacidad de Generación de Energía Eléctrica y Compraventa de Energía Eléctrica Asociada y los Contratos de Compraventa de Energía Eléctrica de Origen Eólico;
 
-XVI. Apoyar al Departamento Jurídico en la atención de los Procedimientos de Perito Independiente relacionados con controversias de carácter técnico y de facturación suscitadas entre la CFE y los Productores Externos de Energía de conformidad con los Contratos de Compromiso de Capacidad de Generación de Energía Eléctrica y Compraventa de Energía Eléctrica Asociada y los Contratos de Compraventa de Energía Eléctrica de Origen Eólico;
+XVI. Coordinar con el Departamento Jurídico el apoyo que deba proporcionarse a la Oficina del Abogado General de la CFE para atender los Procedimientos de Arbitraje relacionados con las controversias de interpretación legal suscitadas entre la CFE y los Productores Externos de Energía de conformidad con los Contratos de Compromiso de Capacidad de Generación de Energía Eléctrica y Compraventa de Energía Eléctrica Asociada y los Contratos de Compraventa de Energía Eléctrica de Origen Eólico; y
 
-XVII. Coordinar con Departamento Jurídico el apoyo que deba proporcionarse a la Oficina del Abogado General de la CFE para atender los Procedimientos de Arbitraje relacionados con las controversias de interpretación legal suscitadas entre la CFE y los Productores Externos de Energía de conformidad con los Contratos de Compromiso de Capacidad de Generación de Energía Eléctrica y Compraventa de Energía Eléctrica Asociada y los Contratos de Compraventa de Energía Eléctrica de Origen Eólico; y
+XVII. Coordinar las actividades de Control Interno de CFE Generación V.
 
-XVIII. Coordinar las actividades de Control Interno de CFE Generación V.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 17.
 
@@ -517,11 +581,11 @@ De la Subgerencia de Servicios y Análisis Financiero dependerán el Departament
 
 I. Planear la elaboración de los presupuestos anuales de gastos de explotación de las áreas técnicas y administrativas en coordinación con la Dirección Corporativa de Finanzas de la CFE, a fin de situar los recursos de conformidad con las necesidades de CFE Generación V;
 
-II. Supervisar la recopilación de las Tasas de Gastos Financieros para pesos y dólares de cada Central de PEE´s y dar seguimiento al cálculo de los Gastos Financieros aplicables a las porciones de las facturas pagadas en exceso vigilando que los PEE's efectúen el pago correspondiente a la CFE;
+II. Supervisar la recopilación de las Tasas de Gastos Financieros para pesos y dólares aplicables a cada Central de PEE y dar seguimiento al cálculo de los Gastos Financieros correspondientes a las porciones de las facturas pagadas en exceso, a fin de que los PEE efectúen el pago respectivo a la CFE;
 
-III. Coordinar la integración de la información necesaria para atender las auditorías que realicen los órganos internos y externos de control a la CFE Generación V;
+III. Coordinar y supervisar la integración de la información necesaria para atender las auditorías que realicen los órganos internos y externos de control a CFE Generación V;
 
-IV. Coordinar la formulación e integración de los anteproyectos anuales de presupuesto de CFE Generación V y someterlos a la consideración del Director General;
+IV. Coordinar la formulación e integración de los anteproyectos anuales de presupuesto de la propia CFE Generación V y someterlos a la consideración del Director General;
 
 V. Coordinar el establecimiento de los sistemas de información financiera en el ámbito de CFE Generación V;
 
@@ -531,19 +595,21 @@ VII. Coordinar la gestión de los recursos financieros con la Dirección de Fina
 
 VIII. Coordinar la recepción y revisión fiscal y administrativa de la facturación que presentan mensualmente los Productores Externos de Energía a la CFE;
 
-IX. Supervisar la gestión de trámite de pago de la facturación de los Productores Externos de Energía ante la Dirección de Finanzas de la CFE;
+IX. Supervisar el apoyo administrativo relacionado con las comisiones del personal de CFE Generación V que atiende las reuniones de Comité de Coordinación que se celebran entre la CFE y los PEE cuando menos una vez cada dos meses de conformidad con la Cláusula de Comité de Coordinación de los Contratos suscritos con los PEE;
 
-X. Conducir la formulación de las adecuaciones que resulten necesarias al presupuesto autorizado;
+X. Conducir la formulación de las adecuaciones que resulten necesarias al presupuesto autorizado para la correcta operación de la empresa;
 
-XI. Supervisar el cumplimiento y vigencia de las pólizas de “Seguro de Responsabilidad Civil” y “Seguro Contra Todo Riesgo Durante Operación” de las Centrales de PEE´s de conformidad con lo establecido en la Cláusula de Seguros de los Contratos que tienen celebrados con la CFE;
+XI. Supervisar el cumplimiento y vigencia de las pólizas de "Seguro de Responsabilidad Civil" y "Seguro Contra Todo Riesgo Durante Operación" de las Centrales de PEE de conformidad con lo establecido en la Cláusula de Seguros de los Contratos que tienen celebrados con la CFE;
 
-XII. Supervisar el cumplimiento y vigencia de las Cartas de Crédito durante el periodo de Operación Comercial de las Centrales, que los Productores Externos de Energía entregan a la CFE de conformidad con lo establecido en la Cláusula de Garantía Operativa de los Contratos que tienen celebrados con la CFE;
+XII. Supervisar el cumplimiento y vigencia de las Cartas de Crédito durante el periodo de Operación Comercial de las Centrales, que los Productores Externos de Energía entregan a la CFE de conformidad con lo establecido en la Cláusula de Garantía Operativa de los Contratos que tienen celebrados con la CFE; y
 
-XIII. Supervisar el apoyo administrativo y comisiones del personal en relación con las reuniones de Comité de Coordinación que se celebran entre la CFE y los PEE´s cuando menos una vez cada dos meses de conformidad con la Cláusula de Comité de Coordinación de los Contratos suscritos con los PEE; y
+XIII. Supervisar el apoyo administrativo y comisiones del personal en relación con las reuniones de Comité de Coordinación que se celebran entre la CFE y los PEE cuando menos una vez cada dos meses de conformidad con la Cláusula de Comité de Coordinación de los Contratos suscritos con los PEE;
 
-XIV. Supervisar la atención de los requerimientos de información relacionada con las auditorías internas y externas a la CFE Generación V.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO II. De la Unidad de Administración y Recursos Humanos
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 18.
 
@@ -555,13 +621,13 @@ Esta Unidad tendrá en el ámbito de su respectiva competencia las siguientes fa
 
 Genéricas:
 
-I. Planear, programar, organizar, dirigir y supervisar el funcionamiento de las áreas adscritas;
+I. Planear, programar, organizar, dirigir y supervisar el funcionamiento de las áreas de su adscripción;
 
-II. Proponer al Jefe Inmediato las políticas, programas, proyectos y estudios del área de su competencia;
+II. Proponer al Director General las políticas, programas, proyectos y estudios del área de su competencia;
 
-III. Acordar con su Jefe Inmediato el despacho de los asuntos relevantes de su competencia;
+III. Acordar con el Director General el despacho de los asuntos relevantes de su competencia;
 
-IV. Desempeñar las atribuciones y comisiones que el Jefe Inmediato le delegue o encomiende, y mantenerlo informado sobre el desarrollo de sus actividades;
+IV. Desempeñar las atribuciones y comisiones que el Director General le delegue o encomiende, y mantenerlo informado sobre el desarrollo de sus actividades;
 
 V. Delegar facultades a los titulares de las Subjefaturas de Unidad de su competencia;
 
@@ -595,7 +661,7 @@ XIX. Participar en órganos colegiados o grupos de trabajo que propicien el cump
 
 XX. Supervisar y coadyuvar al cumplimiento de las políticas establecidas por el Consejo y Director General;
 
-XXI. Acordar con el Director General el nombramiento de los Subjefes de Unidad que de ellos dependan;
+XXI. Proponer al Director General el nombramiento de los Subjefes de Unidad que de ellos dependan;
 
 XXII. Las demás que le resulten necesarias para el cumplimiento de las facultades conferidas y la resolución de los asuntos que son de su competencia, así como las que le otorgue el Consejo, el Director General, los manuales o normatividad interna y demás ordenamientos legales aplicables; y
 
@@ -639,7 +705,11 @@ XVII. Supervisar con apoyo del Departamento Jurídico, el correcto dictamen de l
 
 XVIII. Atender las solicitudes de información del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ### CAPÍTULO III. De los Departamentos
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 19.
 
@@ -689,11 +759,13 @@ XXI. Las demás que le resulten necesarias para el cumplimiento de las facultade
 
 XXII. Transmitir los poderes que le otorgue el Director General y revocar los que hubiere otorgado conforme a lo dispuesto por esta fracción.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 20.
 
 Del Departamento de Optimización y Control de Energía dependerán la Oficina de Transacciones Comerciales y la Oficina de Conciliación de Transacciones. A este Departamento le corresponde, además de las facultades genéricas señaladas en el artículo 19 de este Estatuto, las siguientes:
 
-I. Normar y unificar criterios a utilizar en los diversos aspectos técnicos-administrativos que surjan en el ámbito de las Centrales a su cargo;
+I. Normar y unificar criterios a utilizar en los diversos aspectos técnico-administrativos que surjan en el ámbito de las Centrales a su cargo;
 
 II. Liderar la presentación de las ofertas de energía en el Mercado Eléctrico Mayorista (MEM) para el día en adelanto y tiempo real;
 
@@ -701,7 +773,7 @@ III. Dirigir y dar seguimiento al análisis de riesgos inherentes a la participa
 
 IV. Establecer políticas para la dirección de los procesos de conciliación y liquidación de:
 
-a) La facturación y conciliación de energía ante el Mercado Eléctrico Mayorista.
+a) La facturación y conciliación de energía ante el Mercado Eléctrico Mayorista
 
 b) La facturación y conciliación de energía derivada del Contrato Legado con la Subsidiaria de Suministro Básico;
 
@@ -711,7 +783,7 @@ VI. Coordinar la elaboración de estudios y reportes para evaluar el desempeño 
 
 VII. Coordinar la aplicación de la regulación relativa a los índices de precios y transporte de acuerdo con los contratos celebrados con los Productores Externos de Energía y las leyes aplicables;
 
-VIII. Coordinar la elaboración de estudios, reportes y documentos relativos a los índices de precios de los energéticos utilizados para el pago de la energía adquirida a los Productores Externos de Energía de conformidad con los requerimientos de los mandos directivos de CFE;
+VIII. Coordinar la elaboración de estudios, reportes y documentos relativos a los índices de precios de los combustibles utilizados para el pago de la energía adquirida a los Productores Externos de Energía de conformidad con los requerimientos de los mandos directivos de CFE;
 
 IX. Autorizar de conformidad con las directrices del Corporativo, las políticas, lineamientos, estrategias, mecanismos y procesos para la presentación de las ofertas al Mercado Eléctrico Mayorista;
 
@@ -723,7 +795,7 @@ XII. Establecer guía para la integración de estudios que permitan determinar l
 
 XIII. Controlar la administración de los riesgos derivados del Mercado Eléctrico Mayorista;
 
-XIV. Establecer la Implementación de procedimientos administrativos de facturación de acuerdo con las obligaciones del Mercado Eléctrico Mayorista y el Contrato Legado con el Suministro Básico;
+XIV. Establecer la Implementación de procedimientos administrativos de facturación de acuerdo con las obligaciones del Mercado Eléctrico Mayorista y los Contratos Legados celebrados entre CFE Generación V y CFE Suministrador de Servicios Básicos;
 
 XV. Supervisar el seguimiento a las resoluciones de procedencia o improcedencia en la facturación que correspondan, así como el cumplimiento a la normatividad;
 
@@ -733,89 +805,129 @@ XVII. Supervisar el envío de los informes, estudios y requerimientos de informa
 
 XVIII. Establecer guías para la elaboración de los reportes de desempeño de las Centrales Externas Legadas.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 21.
 
 Del Departamento de Finanzas dependerán la Oficina de Ingresos, Oficina de Operación Financiera y Oficina de Control Financiero. A este Departamento le corresponden, además de las facultades genéricas señaladas en el artículo 19 de este Estatuto, las siguientes:
 
-I. Participar en la elaboración de la planeación estratégica y operativa de CFE Generación V, así como asegurar la alineación a la planeación estratégica diseñada por la Dirección General y su Consejo, contemplando a corto, mediano y largo plazo las actividades, acciones, programas, proyectos y necesidades de recursos, para el cumplimiento de las metas y objetivos establecidos en el Plan de Negocios, que aseguren la rentabilidad;
+I. Participar en la elaboración de la planeación estratégica y operativa de CFE Generación V, así como asegurar la alineación a la planeación estratégica diseñada por la Dirección General y el Consejo, contemplando a corto, mediano y largo plazo las actividades, acciones, programas, proyectos y necesidades de recursos, para el cumplimiento de las metas y objetivos establecidos en el Plan de Negocios, que aseguren la rentabilidad;
 
-II. Elaborar y presentar las facturas ante el Centro Nacional de Control de Energía por concepto de ingresos por energía, potencia, servicios conexos, etc. asociados a las Centrales Externas Legadas, de conformidad con las Reglas de Mercado vigentes;
+II. Elaborar y presentar las facturas ante el Centro Nacional de Control de Energía por concepto de ingresos por energía, potencia, servicios conexos, considerando las Transacciones Bilaterales Financieras (TBFin) y las Transacciones Bilaterales de Potencia (TBPot), asociados a las Centrales Externas Legadas, de conformidad con las Reglas de Mercado vigentes;
 
-III. Elaborar y presentar las facturas ante CFE Suministrador de Servicios Básicos por concepto de energía, capacidad, servicios conexos, etc. asociados a las Centrales Externas Legadas, en el marco de los Contratos Legados vigentes;
+III. Elaborar y presentar las facturas ante CFE Suministrador de Servicios Básicos por concepto de energía y capacidad, servicios conexos, asociados a las Centrales Externas Legadas, en el marco de los Contratos Legados vigentes;
 
-IV. Elaborar y presentar las facturas por concepto del “Cargo administración del Contrato de Producción Independiente de Energía” y “Bono” establecido en los Contratos Legados suscritos entre CFE Generación V y CFE Suministrador de Servicios Básicos;
+IV. Elaborar y presentar las facturas que en su caso resulten aplicables por concepto del "Cargo administración del Contrato de Producción Independiente de Energía" y "Bono" establecido en los Contratos Legados suscritos entre CFE Generación V y CFE Suministrador de Servicios Básicos;
 
-V. Elaborar y presentar las facturas por concepto de energía, capacidad, y servicios conexos asociados a las Centrales Externas Legadas etc., en el marco de los Contratos Legados vigentes, ante CFE Suministrador de Servicios Básicos;
+V. Hacer uso de los sistemas integrales de registro y control contable, así como difundir la aplicación de las normas y criterios definidos por la CFE;
 
-VI. Normar y establecer los sistemas integrales de registro y control contable, así como difundir la aplicación de criterios de la CFE;
+VI. Dirigir la creación de las provisiones financieras que autorice el Consejo y mantenerlas actualizadas;
 
-VII. Dirigir la creación de las provisiones financieras que autorice el Consejo y mantenerlas actualizadas;
+VII. Coordinar la contabilidad y la elaboración de los Estados Financieros de CFE Generación V, conforme a la normatividad vigente y mejores prácticas aplicables;
 
-VIII. Coordinar la contabilidad y la elaboración de los Estados Financieros de CFE Generación V, conforme a la normatividad vigente y mejores prácticas aplicables;
+VIII. Coordinar la elaboración y presentación de los estudios de análisis y evaluación financiera de CFE Generación V;
 
-IX. Coordinar la elaboración y presentación de los estudios de análisis y evaluación financiera de CFE Generación V;
+IX. Determinar las políticas relacionadas con la gestión de riesgos financieros y de insumos de producción, presupuestal, crediticia y contable de CFE Generación V;
 
-X. Determinar las políticas relacionadas con la gestión de riesgos financieros y de insumos de producción, presupuestal, crediticia y contable de CFE Generación V;
+X. Dirigir la contratación de créditos y demás financiamientos que autorice el Consejo, así como controlar el ejercicio;
 
-XI. Dirigir la contratación de créditos y demás financiamientos que autorice el Consejo, así como controlar el ejercicio;
+XI. Coordinar la correcta aplicación del presupuesto de ingresos y egresos, sin perjuicio de lo que determine el Consejo;
 
-XII. Coordinar la correcta aplicación del presupuesto de ingresos y egresos, sin perjuicio de lo que determine el Consejo;
+XII. Supervisar y elaborar el Plan de Negocios de CFE Generación V y someterlo a consideración del Director General;
 
-XIII. Supervisar y elaborar el Plan de Negocios de CFE Generación V y someterlo a consideración del Director General;
+XIII. Coordinar el análisis del entorno y la perspectiva de los mercados financieros;
 
-XIV. Coordinar el análisis del entorno y la perspectiva de los mercados financieros;
+XIV. Coordinar y supervisar la programación de los pagos relacionados con los compromisos adquiridos por CFE Generación V;
 
-XV. Coordinar y supervisar la programación de los pagos relacionados con los compromisos adquiridos por CFE Generación V;
+XV. Supervisar la operación de la tesorería de CFE Generación V;
 
-XVI. Supervisar la operación de la tesorería de CFE Generación V;
+XVI. Conducir la gestión y suscripción de los contratos de operación con las diversas instituciones financieras, e instrumentar la apertura, actualización y cancelación de cuentas de cheques, fondos revolventes y cuentas operativas en el ámbito de competencia de CFE Generación V;
 
-XVII. Conducir la gestión y suscripción de los contratos de operación con las diversas instituciones financieras, e instrumentar la apertura, actualización y cancelación de cuentas de cheques, fondos revolventes y cuentas operativas en el ámbito de competencia de CFE Generación V;
+XVII. Dirigir las acciones necesarias para el cumplimiento de las obligaciones financieras, presupuestales y fiscales; y
 
-XVIII. Dirigir las acciones necesarias para el cumplimiento de las obligaciones financieras, presupuestales y fiscales; y
+XVIII. Emitir las recomendaciones sobre la viabilidad, impacto económico y la adecuada instrumentación de futuros compromisos.
 
-XIX. Emitir las recomendaciones sobre la viabilidad, impacto económico y la adecuada instrumentación de futuros compromisos.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 22.
 
 Del Departamento Jurídico dependerán la Oficina de Atención de Controversias y la Oficina de Análisis Regulatorio. A este Departamento le corresponde, además de las facultades genéricas señaladas en el artículo 19 de este Estatuto, las siguientes:
 
-I. Coordinar la atención de los asuntos de carácter legal y proponer soluciones a las controversias jurídicas que se susciten durante la gestión de CFE Generación V;
+I. Coordinar la atención de los asuntos de carácter legal y proponer al Director General soluciones a las controversias jurídicas en que tenga injerencia la CFE Generación V;
 
-II. Firmar documentos en los que se requiera la representatividad como apoderado legal ante diversas autoridades o instancias, para cumplimentar los trámites o requerimientos hechos por la misma;
+II. Emitir opiniones, respecto de las consultas que en materia jurídica formulen las diferentes áreas de CFE Generación V que puedan implicar cualquier tipo de responsabilidad, así como dar seguimiento a su atención;
 
-III. Emprender las acciones legales necesarias en las diferentes materias del derecho para defender los intereses de CFE Generación V;
+III. Auxiliar al Director General, en la vigilancia del cumplimiento del marco normativo, en los términos que señalen las leyes de la materia;
 
-IV. Establecer comunicación permanente con las diversas áreas de la CFE, la Oficina del Abogado General y Gerencia de Relaciones Laborales, para consultar los asuntos relevantes;
+IV. Asesorar en materia jurídica al Director General, así como a las unidades y órganos administrativos señalados en el artículo tercero del presente Estatuto, actuando como unidad de consulta, asesoría e investigación jurídica, así como fijar, sistematizar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas que normen su funcionamiento;
 
-V. Coordinar el seguimiento a las negociaciones en aquellos juicios en los que haya riesgo de obtener resultados adversos, a fin de resolverlos mediante convenio cuando resulte aplicable en términos de la normatividad aplicable;
+V. Intervenir, en los asuntos de carácter legal en que tenga injerencia CFE Generación V; en materia consultiva, de contratos y convenios, y en lo relativo a asuntos contenciosos;
 
-VI. Dar seguimiento a la atención de las consultas realizadas por las Unidades Operativas y Administrativas, relacionadas con aquellos actos de naturaleza jurídica que puedan implicar cualquier tipo de responsabilidad para CFE Generación V;
+VI. Registrar y resguardar los contratos, convenios, acuerdos y demás actos jurídicos de los que se deriven derechos y obligaciones a cargo de CFE Generación V, así como dar seguimiento institucional, en coordinación con las Unidades Operativas y Administrativas competentes, al cumplimiento de los mismos;
 
-VII. Atender la gestión del otorgamiento y revocación de poderes notariales;
+VII. Establecer los mecanismos de comunicación y coordinación con las áreas a que hace referencia el artículo tercero del presente Estatuto Orgánico, para apoyarlas en el cumplimiento de las resoluciones judiciales o extrajudiciales;
 
-VIII. Dirigir la revisión jurídica de los contratos y convenios, a efecto de otorgar, en su caso, la validación jurídica respectiva;
+VIII. Supervisar y evaluar en acuerdo con el Director General que la operación de CFE Generación V, se realice con estricto apego a las normas jurídicas vigentes;
 
-IX. Promover la contratación de personas físicas o morales, en relación con los servicios de tipo jurídico que resulten necesarios para CFE Generación V;
+IX. Coordinar el análisis, estudio y en su caso, dictamen de los anteproyectos y proyectos de modificación del Estatuto Orgánico, reglamentos internos, acuerdos, lineamientos, términos, circulares, manuales de organización, procedimientos y servicios al público y demás disposiciones en materias relacionadas con CFE Generación V;
 
-X. Supervisar las actividades jurídicas que lleven a cabo las personas físicas o morales, que presten un servicio jurídico a CFE Generación V;
+X. Emitir opiniones sobre la procedencia de convenios, acuerdos, contratos y demás actos jurídicos que celebre o tenga interés CFE Generación V;
 
-XI. Dirigir la implementación de estrategias y lineamientos emitidos por la Oficina del Abogado General, de carácter preventivo y correctivo para evitar procedimientos judiciales o administrativos en contra de CFE Generación V;
+XI. Suscribir escritos y desahogar los trámites que correspondan relativos a términos, interposición de recursos y recepción de toda clase de notificaciones y rendición de informes previos y justificados en materia de amparo;
 
 XII. Emitir las recomendaciones sobre los dictámenes de jubilación, separaciones voluntarias, reajustes y rescisiones de personal, observando se cumplan con las disposiciones que para tal efecto prevé la Ley Federal del Trabajo, Contrato Colectivo de Trabajo y demás disposiciones legales aplicables;
 
-XIII. Gestionar la emisión de opiniones y, en su caso, otorgar conformidad jurídica en cuanto a la dictaminación de las actas administrativas dentro de CFE Generación V;
+XIII. Delegar, en acuerdo con el Director General, las atribuciones para la adecuada atención de las funciones que tiene encomendadas y establecer los criterios que sean necesarios para el trámite y la resolución de los asuntos que le correspondan;
 
-XIV. Dirigir la elaboración de los informes del estado que guardan los juicios en trámite para control estadístico, e informar lo concerniente cuando así le sea requerido por el Consejo y/o Director General;
+XIV. Coordinar la relación jurídica de CFE Generación V con la Comisión Federal de Electricidad, sus Empresas Productivas Subsidiarias, Filiales, y todas las Unidades Administrativas y Técnicas que la integren, así como establecer comunicación permanente con la Oficina del Abogado General y Gerencia de Relaciones Laborales para consultar los asuntos relevantes;
 
-XV. Participar activamente en la integración de las Sesiones de los Comités y Comisiones que establezcan las disposiciones legales aplicables, así como aquellas que determine el Consejo y el Director General;
+XV. Ocupar el cargo de Prosecretario ante el Consejo de CFE Generación V y de Secretario ante el Comité de Auditoría;
 
-XVI. Representar legalmente a la Empresa y al Director General ante los tribunales y demás autoridades, así como ante las instancias arbitrales. Estas funciones podrá ejercitarlas por sí, o por la persona en quien las designe;
+XVI. Coordinar, en acuerdo con el Director General, las acciones que en materia jurídica lleva a cabo CFE Generación V, a fin de prevenir y atender posibles conflictos normativos;
 
-XVII. Defender los intereses jurídicos de la Empresa, así como representar a la misma y a su Director General en los juicios, procedimientos y recursos administrativos, judiciales, laborales, incluidos los juicios de amparo, o arbitrales en que sea parte o tenga interés jurídico, así como realizar todos y cada uno de los actos procesales necesarios para la adecuada defensa o iniciación del juicio o procedimiento administrativo correspondiente. Estas funciones podrá ejercerlas por sí, o por la persona en quien las delegue;
+XVII. Requerir a las Unidades Operativas y Administrativas a que se refiere el artículo tercero del presente Estatuto, la documentación e información que requiera para el cumplimiento de sus atribuciones;
 
-XVIII. Promover demandas de amparo y realizar todos y cada uno de los actos procesales necesarios para la adecuada defensa o iniciación del juicio o procedimiento correspondiente en defensa de los intereses de la Empresa. Estas funciones podrá ejercerlas por sí, o por la persona en quien la delegue; y
+XVIII. Firmar documentos en los que se requiera la representatividad como apoderado legal ante diversas autoridades o instancias, para cumplimentar los trámites o requerimientos hechos por la misma;
 
-XIX. Atender los asuntos relacionados con la gestión y convocatoria de las reuniones del Comité de Auditoría y del Consejo de Administración de CFE Generación V.
+XIX. Asesorar, evaluar, registrar y dirigir la revisión jurídica de los contratos y convenios que suscriba CFE Generación V, a efecto de otorgar, en su caso, la validación jurídica respectiva;
+
+XX. Asesorar a las Unidades Operativas y Administrativas de CFE Generación V en los procedimientos de licitación y adjudicación de contratos;
+
+XXI. Realizar, a solicitud del Director General, la gestión del otorgamiento y revocación de poderes notariales;
+
+XXII. Proponer la contratación de personas físicas o morales, en relación con los servicios de tipo jurídico que resulten necesarios para CFE Generación V;
+
+XXIII. Supervisar las actividades jurídicas que lleven a cabo las personas físicas o morales, que presten un servicio jurídico a CFE Generación V;
+
+XXIV. Dirigir la implementación de estrategias y lineamientos emitidos por la Oficina del Abogado General, de carácter preventivo y correctivo para evitar procedimientos judiciales o administrativos en contra de CFE Generación V;
+
+XXV. A solicitud del Director General emitir opiniones y, en su caso, otorgar conformidad jurídica en cuanto a la dictaminación de las actas administrativas dentro de CFE Generación V;
+
+XXVI. Elaborar los informes del estado que guardan los juicios en trámite y demás procedimientos contenciosos, para control estadístico, e informar lo concerniente cuando así le sea requerido por el Consejo o el Director General;
+
+XXVII. Participar en la integración de las Sesiones de los Comités y Comisiones que establezcan las disposiciones legales aplicables, así como aquellas que determine el Consejo y el Director General de CFE Generación V;
+
+XXVIII. Representar legalmente a CFE Generación V para defender sus intereses jurídicos ante los tribunales y demás autoridades, ante procedimientos y recursos administrativos, judiciales, laborales, incluidos los juicios de amparo, ante peritos independientes e instancias arbitrales en que sea parte o tenga interés jurídico, así como realizar todos y cada uno de los actos procesales necesarios para la adecuada defensa o iniciación del juicio o procedimiento administrativo correspondiente. Estas funciones podrán ser ejercidas por sí, o por la persona a quien designe;
+
+XXIX. Realizar las notificaciones de los actos que deban ser del conocimiento en forma personal de los interesados;
+
+XXX. Expedir copias certificadas, previo cotejo, de expedientes y documentos a cargo de las Unidades Operativas y Administrativas de CFE Generación V;
+
+XXXI. Atender los asuntos relacionados con la gestión y convocatoria de las reuniones del Comité de Auditoría y del Consejo de Administración de CFE Generación V;
+
+XXXII. Participar como unidad jurídica de consulta y asesoría en los proyectos especiales que el Consejo y/o la Dirección General le encomiende;
+
+XXXIII. Coordinar la integración y sistematización del acervo de información y documentación necesaria para el eficiente cumplimiento de sus atribuciones;
+
+XXXIV. Supervisar la compilación, sistematización, actualización y certificación de las leyes, tratados internacionales, reglamentos, decretos, acuerdos y disposiciones federales, estatales y municipales que conforman el orden jurídico nacional;
+
+XXXV. Promover la capacitación y actualización de los servidores públicos para el aprovechamiento óptimo del banco de datos relativo al orden jurídico nacional;
+
+XXXVI. Coordinar la participación de las oficinas a su cargo en la modernización y adecuación del orden normativo que rige el funcionamiento de CFE Generación V; y
+
+XXXVII. Las demás que señalan otras disposiciones normativas aplicables o las que le sean asignadas por la Dirección General.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 23.
 
@@ -839,77 +951,111 @@ VIII. Dar seguimiento a la realización de pruebas de confiabilidad a las Centra
 
 IX. Dirigir la vigilancia de la participación de las Centrales en el control y correcta operación en el Sistema Eléctrico Nacional de acuerdo con los límites técnicos establecidos en los Contratos celebrados con los Productores Externos de Energía.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ### CAPÍTULO IV. Del Personal de CFE Generación V
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 24.
 
 El personal de CFE Generación V, distinto al señalado en los Títulos precedentes de este Capítulo, y que integren la plantilla de personal de Confianza, tendrá a su cargo las funciones previstas en los perfiles de puesto, los manuales de organización y en la normatividad interna aplicable, así como aquéllas que, en los términos del presente Estatuto, le sean asignadas o delegadas de manera expresa por sus superiores jerárquicos.
 
-En caso de que las actividades que deban desarrollar requieran la representación legal de CFE Generación V ante terceros, los titulares de las Unidades Operativas y Administrativas de quienes dependan solicitarán, a través del Departamento de Asuntos Jurídicos, al Director General el otorgamiento de los poderes respectivos.
+En caso de que las actividades que deban desarrollar requieran la representación legal de CFE Generación V ante terceros, los titulares de las Unidades Operativas y Administrativas de quienes dependan solicitarán, a través del Departamento Jurídico, al Director General el otorgamiento de los poderes respectivos.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ## TÍTULO IV. De la Representación y Suplencias
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ### CAPÍTULO ÚNICO. De la Representación de CFE Generación V y Suplencias del Personal
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 25.
 
 La representación de CFE Generación V, estará a cargo del Director General, con las más amplias facultades para actos de dominio, administración, pleitos y cobranzas, incluso los que requieran autorización, poder o cláusula especial en términos de las disposiciones aplicables, acorde con lo establecido en el artículo 17, fracción I, del Acuerdo de Creación.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 26.
 
 El Director General acreditará su representación en términos del nombramiento respectivo y las funciones que le corresponden de conformidad con este Estatuto y demás ordenamientos legales aplicables; en tanto que, los Subgerentes, Jefe de Unidad, Subjefes de Unidad y Jefes de Departamento lo harán con base en los poderes que se les otorguen.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 27.
 
-Las ausencias por vacaciones, del Director General, serán suplidas en el siguiente orden: por el Subgerente de Supervisión Técnica, Subgerente de Estudios, Subgerente de Servicios y Análisis Financiero, Jefe de la Unidad de Administración y Recursos Humanos. Dichas suplencias serán notificadas mediante oficio.
+Las ausencias por tres días hábiles o más del Director General, serán suplidas preferentemente en el siguiente orden: por el Subgerente de Supervisión Técnica, Subgerente de Estudios, Subgerente de Servicios y Análisis Financiero, Jefe de la Unidad de Administración y Recursos Humanos. Dichas suplencias serán notificadas mediante oficio.
 
 El orden anteriormente descrito también aplicará en caso de ausencia y vacancia, hasta en tanto sea nombrado el nuevo Director General.
 
-En toda clase de juicios, especialmente, en los de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, contestación de demandas e interposición del recurso de revisión al que se refiere la Ley Federal de Procedimiento Contencioso Administrativo será representado por el Jefe del Departamento de Asuntos Jurídicos.
+En toda clase de juicios, especialmente, en los de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, contestación de demandas e interposición del recurso de revisión al que se refiere la Ley Federal de Procedimiento Contencioso Administrativo será representado por el Jefe del Departamento de Jurídico.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 28.
 
 Las ausencias del Titular de la Auditoría Interna serán suplidas conforme a lo establecido en el Manual de Organización de la Auditoría Interna aprobado por el Consejo de Administración.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 29.
 
 Las ausencias por vacaciones de un Subgerente serán suplidas por el Jefe de Departamento que el mismo designe.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 30.
 
 Las ausencias por vacaciones del Jefe de la Unidad de Administración y Recursos Humanos serán suplidas por el Subjefe de Unidad que el mismo designe.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 31.
 
-Las suplencias a que se hace mención en los artículos 27 al 30 de este Estatuto por un periodo de más de 5 días hábiles, se realizarán mediante el oficio correspondiente. En caso de que no se haya expedido el oficio de suplencia, las ausencias deberán ser cubiertas por el servidor público del nivel inmediato inferior al del funcionario ausente, tomando en cuenta la materia del asunto.
+Las suplencias a que se hace mención en los artículos 27 al 30 de este Estatuto por un periodo de más de tres días hábiles, se realizarán mediante el oficio correspondiente. En caso de que no se haya expedido el oficio de suplencia, las ausencias deberán ser cubiertas por el servidor público del nivel inmediato inferior al del funcionario ausente, tomando en cuenta la materia del asunto.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ## TÍTULO V. De la instancia en materia de Transparencia
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ### CAPÍTULO ÚNICO. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 32.
 
-El Enlace de Transparencia de CFE Generación V, así como el Comité de Transparencia, tendrá las funciones que le otorguen las disposiciones jurídicas aplicables en la materia.
+La Unidad de Transparencia de CFE Generación V, así como el Comité de Transparencia, tendrá las funciones que le otorguen las disposiciones jurídicas aplicables en la materia.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 33.
 
 El Comité de Transparencia de CFE Generación V, estará integrado por 3 miembros designados por el Director General, entre los que se encontrará el Titular de la Unidad de Transparencia. Para cada integrante propietario deberá ser designado un suplente.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ## TÍTULO V BIS. De la Instancia en Materia de Responsabilidades
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO ÚNICO. Unidad de Responsabilidades
 
-> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
-ARTÍCULO 33 BIS. La Unidad de Responsabilidades es la instancia competente para aplicar al personal de CFE Generación V las leyes en materia de responsabilidades administrativas correspondientes.
+###### ARTÍCULO 33 Bis.
 
-> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+La Unidad de Responsabilidades es la instancia competente para aplicar al personal de CFE Generación V las leyes en materia de responsabilidades administrativas correspondientes.
 
-ARTÍCULO 33 TER. La Unidad de Responsabilidades en CFE Generación V contará con la estructura y las funciones que le otorguen la Ley de la Comisión Federal de Electricidad y su Reglamento, así como las demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
+###### ARTÍCULO 33 Ter.
+
+La Unidad de Responsabilidades en CFE Generación V contará con la estructura y las funciones que le otorguen la Ley de la Comisión Federal de Electricidad y su Reglamento, así como las demás disposiciones jurídicas aplicables.
 
 ## TRANSITORIOS
 
@@ -926,5 +1072,11 @@ En la Ciudad de México, a los cuatro días del mes de diciembre de dos mil diec
 D.O.F. 5 DE NOVIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DE LAS "ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN V, PUBLICADO EL 22 DE DICIEMBRE DE 2017".]
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN V".]
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
