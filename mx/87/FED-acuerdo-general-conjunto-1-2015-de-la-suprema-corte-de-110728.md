@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-conjunto-1-2015-de-la-suprema-corte-de-110728"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-12-09"
-last_updated: "2020-05-28"
+last_updated: "2020-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110728&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-12-04"
 
 ACUERDO GENERAL CONJUNTO 1/2015 DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS SERVICIOS TECNOLÓGICOS RELATIVOS A LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO, LAS COMUNICACIONES OFICIALES Y LOS PROCESOS DE ORALIDAD PENAL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2020.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 9 de diciembre de 2015.
 
@@ -367,491 +367,429 @@ DE LAS BITÁCORAS DE NOTIFICACIONES ELECTRÓNICAS EN LA SCJN
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 28 DE MAYO DE 2020)
 
+> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)</small>
+
 ## TÍTULO CUARTO. DE LOS SERVICIOS ELECTRÓNICOS DEL CJF
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 54.
 
-Las disposiciones contenidas en este Título son aplicables únicamente en los Juzgados de Distrito y Tribunales de Circuito, así como en los Centros de Justicia Penal Federal y las áreas administrativas del CJF.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 55.
 
-El CJF a través de los sistemas denominados Portal de Servicios en Línea del Poder Judicial de la Federación, Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común y el Sistema Integral de Seguimiento de Expedientes, implementará en los Juzgados de Distrito y Tribunales de Circuito, la tramitación electrónica del juicio de amparo y las comunicaciones oficiales.
-
-Asimismo, los referidos sistemas se utilizarán para el trámite de los juicios orales en materia penal en los Centros de Justicia Penal Federal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 56.
 
-El Área Técnica del CJF, será la unidad administrativa encargada de velar por el adecuado funcionamiento de los servicios tecnológicos que se prestan en el Portal de Servicios en Línea del Poder Judicial de la Federación, Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común y Sistema Integral de Seguimiento de Expedientes, y será responsable de enviar un reporte a los Juzgados de Distrito y Tribunales de Circuito, así como a las áreas administrativas del CJF, cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el servicio, en que señalará el tiempo y causas de la interrupción, de conformidad con el artículo 30, fracción III, de la Ley de Amparo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 57.
 
-Cuando las partes autorizadas para consultar expedientes electrónicos relativos a uno o más juicios de amparo o carpetas digitales relativas a causas penales, o bien, los servidores públicos de los Juzgados de Distrito y Tribunales de Circuito, así como de los Centros de Justicia Penal Federal adviertan una falla en los sistemas del CJF, que impida el envío de documentos por vía electrónica o la consulta de las determinaciones judiciales que obran en un expediente electrónico o carpeta digital, dada su relevancia para las notificaciones electrónicas, deberán hacerlo del conocimiento, por vía impresa, del titular del Área Técnica del CJF por vía electrónica, a través del subvínculo denominado “Aviso de fallas técnicas”, al que podrá accederse mediante el uso de la firma electrónica en el Portal de Servicios en Línea del Poder Judicial de la Federación, o de no ser posible por esta vía, a los correos electrónicos destinados para tal efecto en la pantalla principal del Portal de Servicios en Línea del Poder Judicial de la Federación o desde la cuenta de correo proporcionada para la obtención del Certificado Digital de la Firma Electrónica Certificada del Poder Judicial de la Federación.
-
-Dentro de las veinticuatro horas siguientes al momento en el que se presente un aviso de falla, el servidor público asignado del Área Técnica del CJF deberá rendir informe por vía electrónica, mediante el uso de su firma electrónica a los titulares de los Juzgados de Distrito y Tribunales de Circuito, así como a los Centros de Justicia Penal Federal.
-
-En dicho informe deberá precisarse la existencia o no de la falla reportada y, en su caso, tanto la causa de ésta y el momento a partir del cual se suscitó, como el día y la hora en que se subsanó.
-
-En el supuesto de que en el referido informe se haga constar la inexistencia de alguna falla, así lo acordará el titular del órgano jurisdiccional que corresponda en los asuntos respectivos y ordenará su notificación a las partes a través de la lista de acuerdos correspondiente. Si del análisis que se lleve a cabo por el Área Técnica del CJF, se advierte que efectivamente existe una falla técnica que afecte el funcionamiento de los sistemas, bien sea para el envío y recepción de documentos o para la consulta de los expedientes electrónicos o carpetas digitales, se suspenderán los plazos correspondientes.
-
-Una vez que se restablezca el servicio electrónico, el servidor público asignado por el Área Técnica del CJF, enviará mediante el uso de su firma electrónica, un reporte al o a los órganos jurisdiccionales correspondientes, con el objeto de que éstos notifiquen a las partes en los asuntos antes referidos, así como el restablecimiento del servicio y precisará la duración de la interrupción, el reinicio del cómputo de los plazos correspondientes, a partir del día siguiente al en que surta efectos la notificación de dicho proveído, personal, por oficio o por vía electrónica, tratándose de los que hubieren solicitado la recepción de notificaciones por esta última vía, y al momento del dictado del mismo proveído, no hubieren revocado esa solicitud.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 58.
 
-En los servicios electrónicos que brinde el CJF a través del Portal de Servicios en Línea del Poder Judicial de la Federación, Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común y Sistema Integral de Seguimiento de Expedientes se requerirá el uso de firmas electrónicas vigentes, salvo la promoción de demandas electrónicas en términos del artículo 15 de la Ley de Amparo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 59.
 
-En los servicios en línea que presta el CJF se utilizará la Firma Electrónica Certificada del Poder Judicial de la Federación como firma electrónica o certificado digital institucional, emitida por la Unidad, a través de las Unidades de Certificación de la SCJN, el CJF y el Tribunal Electoral del Poder Judicial de la Federación, de conformidad con el Acuerdo General Conjunto Número 1/2013, de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación y al expediente electrónico, publicado en el Diario Oficial de la Federación el ocho de julio de dos mil trece.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
-El CJF publicará en el mismo Portal de Servicios en Línea del Poder Judicial de la Federación una lista de las firmas electrónicas o certificados digitales emitidos por otros órganos del Estado con los cuales el Poder Judicial de la Federación a través de la Unidad celebró convenio de coordinación para el reconocimiento de certificados digitales homologados en términos del artículo 5, párrafo segundo, de Acuerdo General Conjunto Número 1/2013, de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación y al expediente electrónico.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO
 
 ###### Artículo 60.
 
-En los Juzgados de Distrito y Tribunales de Circuito, la presentación de demandas de amparo, recursos y promociones, así como la consulta del expediente electrónico y la práctica de notificaciones electrónicas se realizarán a través de los sistemas tecnológicos del CJF conforme a las disposiciones de este capítulo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 61.
 
-Tratándose de los recursos que sean del conocimiento de la SCJN, se atenderá en su trámite electrónico a las normas previstas en el Título Tercero del presente Acuerdo General Conjunto.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 #### SECCIÓN PRIMERA. DEL PORTAL DE SERVICIOS EN LÍNEA DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL JUICIO DE AMPARO ELECTRÓNICO
 
 ###### Artículo 62.
 
-El Portal de Servicios en Línea del Poder Judicial de la Federación es un sitio web a través del cual las partes y sus representantes en los juicios de amparo podrán acceder electrónicamente a las Oficinas de Correspondencia Común, así como a los Juzgados de Distrito y Tribunales de Circuito para presentar demandas, recursos y promociones, acceder a los expedientes electrónicos y notificarse electrónicamente de las resoluciones judiciales que se emitan en estos.
-
-El Portal de Servicios en Línea del Poder Judicial de la Federación cuenta con los módulos de presentación de Demandas, de Recursos, de Promociones, de Expediente Electrónico y de Notificaciones.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 63.
 
-El Portal de Servicios en Línea del Poder Judicial de la Federación funcionará las veinticuatro horas del día todos los días del año.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 64.
 
-Para acceder a los servicios que se prestan en el Portal de Servicios en Línea del Poder Judicial de la Federación será necesario que las personas interesadas cuenten con firma electrónica emitida o reconocida por el Poder Judicial de la Federación a través de la Unidad en términos del artículo 59 del presente Acuerdo General y se registren en el sistema.
-
-Para registrarse en el Portal de Servicios en Línea del Poder Judicial de la Federación los usuarios deberán indicar su nombre, correo electrónico, Registro Federal de Contribuyentes, Clave Única del Registro de Población, crear un “Nombre de Usuario” y una “Contraseña”, y vincular al registro su firma electrónica.
-
-El registro de cada usuario en el sistema es de carácter personal y en ningún caso una persona podrá hacerlo a nombre de otra.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 65.
 
-El registro de usuarios en el Portal de Servicios en Línea del Poder Judicial de la Federación no es obligatorio tratándose de demandas de amparo en los que se señalen como reclamados actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, en términos del artículo 15 de la Ley de Amparo.
-
-En este caso tampoco se exigirá que el archivo que contenga la demanda de amparo sea firmado electrónicamente, sin embargo, para la consulta del expediente electrónico y la práctica de notificaciones electrónicas, será necesario que el usuario se registre en el Portal de Servicios en Línea del Poder Judicial de la Federación.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 66.
 
-El registro de los usuarios en el Portal de Servicios en Línea del Poder Judicial de la Federación no implica la consulta de los expedientes electrónicos en los que tengan interés, ni tampoco la práctica de notificaciones electrónicas de las resoluciones judiciales, pues ello depende que lo soliciten así al Juzgado de Distrito o Tribunal de Circuito que conozca del juicio de amparo o recurso respectivo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 67.
 
-Una vez realizado el registro en el Portal de Servicios en Línea del Poder Judicial de la Federación, el usuario podrá entrar al sistema a través de su “Nombre de Usuario y Contraseña”, o bien, a través de su firma electrónica reconocida por la Unidad y que se encuentre vigente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 68.
 
-En el caso de instituciones públicas que figuren como partes en los juicios de amparo y que cuenten con sistemas tecnológicos de gestión propios, el CJF podrá celebrar convenios con éstas a fin de que exista interconectividad entre el Portal de Servicios en Línea del Poder Judicial de la Federación y sus respectivos sistemas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
+
+> <small>(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 DE LA PRESENTACIÓN DE DEMANDAS DE AMPARO INDIRECTO EN TÉRMINOS DEL ARTÍCULO 15 DE LA LEY DE AMPARO
 
 ###### Artículo 69.
 
-El Portal de Servicios en Línea del Poder Judicial de la Federación contará con una opción para presentar demandas de amparo electrónicas en los que se señalen como reclamados actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, en términos del artículo 15 de la Ley de Amparo.
-
-Para ello bastará que se ingrese el nombre del quejoso, una cuenta de correo electrónico en caso de contar con ella, seleccionar a través de un mapa la Oficina de Correspondencia Común de los órganos jurisdiccionales a los que se solicite el amparo o, en caso de que no exista, la Oficialía de Partes del órgano jurisdiccional; de igual manera, deberá ingresar el archivo electrónico que contenga la demanda de amparo, o bien, podrá utilizar el formato preexistente o el texto en blanco que se encontrarán a su disposición, capturar un código de seguridad y enviar su escrito de demanda.
-
-Asimismo, podrán enviar junto con su demanda de amparo electrónica los archivos que contengan documentos anexos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 70.
 
-Enviada la demanda de amparo, el sistema generará un acuse de recepción electrónica en la que se señalarán los datos de identificación del promovente, el archivo electrónico que contenga la demanda de amparo, los archivos anexos, la fecha y hora de recepción, así como un folio electrónico.
-
-De proporcionarse una cuenta de correo electrónico al momento de enviar la demanda de amparo se remitirá automáticamente el acuse de recepción electrónica.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 71.
 
-A través del número de folio electrónico que arroje el acuse de recibo se podrá consultar en el Portal de Servicios en Línea del Poder Judicial de la Federación el órgano jurisdiccional al que fue turnado el escrito de demanda y el número de expediente que se le asignó en este.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 72.
 
-Para la presentación de demandas de manera electrónica, con excepción de las promovidas en términos del artículo 15 de la Ley de Amparo, los usuarios en la opción de Juzgados de Distrito y Tribunales de Circuito del Portal de Servicios en Línea del Poder Judicial de la Federación, ingresarán su “Nombre de Usuario y Contraseña” que generaron al momento de registrarse conforme al artículo 64 del presente Acuerdo General Conjunto, o bien, a través de su firma electrónica vigente y reconocida por la Unidad.
-
-Hecho lo anterior, señalarán en el botón de Demandas, el nombre del quejoso, una cuenta de correo electrónico en caso de contar con ella, seleccionarán de un mapa la Oficina de Correspondencia Común de los órganos jurisdiccionales a los que se solicite el amparo o, en caso de que no exista, directamente a la Oficialía de Partes del órgano jurisdiccional, ingresarán el archivo electrónico que contenga la demanda de amparo, o bien, utilizarán el formato o el texto en blanco que se encontrará a su disposición, agregarán a su escrito de demanda su firma electrónica vigente, capturarán un código de seguridad y enviarán su demanda.
-
-Asimismo, podrán enviar junto con su demanda de amparo los archivos electrónicos que contengan los documentos anexos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 73.
 
-Una vez enviada su demanda de amparo, el sistema generará un acuse de recepción electrónica en la que se señalarán los datos de identificación del promovente, el archivo electrónico que contenga su demanda y los archivos anexos, la fecha y hora de envío y recepción, así como un folio electrónico.
-
-De proporcionarse una cuenta de correo electrónico al momento de enviar la demanda de amparo se remitirá automáticamente a ésta el acuse de recepción electrónica.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 74.
 
-En el Portal de Servicios en Línea del Poder Judicial de la Federación se podrá consultar a través del número de folio electrónico que arroje el acuse de recibo, el órgano jurisdiccional al que fue turnado el escrito de demanda y el número de expediente que se le asignó.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 75.
 
-Para la presentación de recursos y promociones electrónicas los usuarios en la opción de Juzgados de Distrito y Tribunales de Circuito en el Portal de Servicios en Línea del Poder Judicial de la Federación, ingresarán su "Nombre de Usuario y Contraseña" que generaron al momento de registrarse, o bien, a través de su firma electrónica vigente y reconocida por la Unidad.
-
-Hecho lo anterior, en el botón de promociones, seleccionarán el Juzgado de Distrito o Tribunal de Circuito al que dirigirán su promoción, e ingresarán el tipo de asunto y número de expediente respectivo, adjuntarán el archivo que contenga su promoción o utilizarán el texto en blanco, y le agregarán su firma electrónica vigente, finalmente, capturarán un código de seguridad y enviarán su archivo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 76.
 
-El sistema generará un acuse de recepción electrónica en la que se señalarán los datos de identificación del asunto y de quien promueve, el archivo electrónico enviado, así como la hora y fecha de envío y recepción.
-
-Cada documento electrónico que se reciba contendrá en la parte final una evidencia criptográfica de la firma electrónica que mostrará el nombre del titular de la firma electrónica, si el certificado es reconocido por la Unidad y si se encuentra vigente, datos que deberán tomarse en consideración por los Juzgados de Distrito y Tribunales de Circuito para acordar lo correspondiente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 77.
 
-Las partes o sus representantes en los juicios de amparo, previa solicitud expresa y acceso otorgado por el Juzgado de Distrito o Tribunal de Circuito en el que se tramite el asunto de su interés, podrán consultar los expedientes electrónicos, sin que implique permisos para notificarse electrónicamente de resoluciones judiciales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 78.
 
-El acceso a los expedientes electrónicos solo es otorgado o revocado por los Juzgados de Distrito y Tribunal de Circuito, y atenderá en todo caso a la situación jurídica que respecto a cada usuario del impere en los asuntos en que se solicite, de conformidad con los términos legales que las propias partes otorgaron al solicitante, así como a la vigencia de su firma electrónica.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 79.
 
-Las partes o sus representantes en los juicios de amparo, previa solicitud expresa ante el Juzgado de Distrito o Tribunal de Circuito en el que se tramite el asunto de su interés, podrán solicitar se les notifique electrónicamente de las resoluciones judiciales, en términos del artículo 26, fracción IV, de la Ley de Amparo.
-
-Para ello, es necesario que las partes lo soliciten expresamente a través de una promoción impresa o electrónica en el asunto de que se trate, al órgano jurisdiccional donde se tramita en la que señalen el “Nombre de Usuario” que crearon al registrarse en el Portal de Servicios en Línea del Poder Judicial de la Federación y, tratándose de otras personas que deseen autorizar en términos de la legislación aplicable, para que se notifiquen electrónicamente, lo harán en los mismos términos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 80.
 
-Sólo los Juzgados de Distrito y Tribunales de Circuito otorgarán o revocarán a las partes o sus representantes, los permisos necesarios para que se notifiquen electrónicamente de las resoluciones judiciales que emitan.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 81.
 
-Para notificarse electrónicamente de las resoluciones judiciales en un juicio de amparo los usuarios deberán acceder a la opción de Juzgados de Distrito y Tribunales de Circuito en el Portal de Servicios en Línea del Poder Judicial de la Federación, ingresar su “Nombre de Usuario y Contraseña” que generaron al momento de registrarse, o bien, a través de su firma electrónica.
-
-Una vez que accedan, podrán notificarse electrónicamente al ingresar al Juzgado de Distrito o Tribunal de Circuito en el que se tramite el asunto correspondiente, ya sea en las opciones de Estrados o Expediente Electrónico, o bien, a través de un listado condensado que contendrá las resoluciones electrónicas pendientes de notificarse.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 82.
 
-Los usuarios al seleccionar la resolución judicial correspondiente se notificarán electrónicamente con lo que se generará una constancia de consulta de conformidad con la fracción III del artículo 31 de la Ley de Amparo, que contendrá los datos del asunto y de la resolución judicial, el nombre de la persona que se notifica, así como la fecha y hora en que se llevó a cabo.
-
-Hecho lo anterior los usuarios visualizarán la resolución judicial respectiva.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 83.
 
-Las partes o sus representantes, podrán solicitar a través de promociones impresas o electrónicas ante el órgano jurisdiccional correspondiente, que las personas que previamente fueron autorizadas para acceder a un expediente electrónico o, en su caso, autorizadas para notificarse electrónicamente de las resoluciones judiciales, dejen de estarlo y solamente será por disposición del propio órgano jurisdiccional mediante un proveído.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 #### SECCIÓN SEGUNDA. DEL SISTEMA DE RECEPCIÓN, REGISTRO, TURNO Y ENVÍO DE ASUNTOS UTILIZADO POR LAS OFICINAS DE CORRESPONDENCIA COMÚN EN EL JUICIO DE AMPARO ELECTRÓNICO
 
 ###### Artículo 84.
 
-Las demandas y promociones presentadas en el Portal de Servicios en Línea del Poder Judicial de la Federación, junto con el acuse de recibo correspondiente, serán recibidas electrónicamente en la Oficina de Correspondencia Común a través del Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común, que es el sistema para la recepción, registro y turno de los asuntos entre los Juzgados de Distrito y Tribunales de Circuito.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 85.
 
-Las Oficinas de Correspondencia Común contarán en el Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común con un aviso de recepción electrónica de demandas y promociones, visualizarán los archivos que las contengan, así como sus anexos, clasificarán los escritos conforme a su contenido y turnarán los asuntos de acuerdo a la normativa que en la materia sea vigente, sin que pueda tomarse como criterio de turno la recepción electrónica.
-
-Al generarse el turno de los asuntos el sistema generará una boleta de turno electrónica.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 86.
 
-Una vez turnadas las demandas y promociones que se presenten de manera electrónica serán enviadas de la misma manera por el Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común junto con la boleta de turno electrónica a los órganos jurisdiccionales correspondientes a través del Sistema Integral de Seguimiento de Expedientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 #### SECCIÓN TERCERA. DEL SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES EN EL JUICIO DE AMPARO ELECTRÓNICO
 
 ###### Artículo 87.
 
-En el Sistema Integral de Seguimiento de Expedientes, como sistema de gestión jurisdiccional, los Juzgados de Distrito y Tribunales de Circuito recibirán las demandas, recursos y promociones electrónicas, junto con sus anexos, acuses de recibo y boletas de turno electrónicas, integrarán el expediente electrónico, otorgarán los accesos para su consulta y los permisos para notificarse electrónicamente, y ordenarán la práctica de este tipo de notificaciones.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 88.
 
-Los Juzgados de Distrito y Tribunales de Circuito recibirán las demandas, recursos y promociones junto con sus anexos, acuses de recibo y boletas de turno electrónicas, que se presenten a través del Portal de Servicios en Línea del Poder Judicial de la Federación o sean turnadas a través del Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común, en el módulo de Oficialía de Partes del Sistema Integral de Seguimiento de Expedientes, las registrarán conjuntamente con las que se presenten de manera impresa, y se dará el trámite correspondiente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 89.
 
-Los Juzgados de Distrito y Tribunales de Circuito integrarán los expedientes electrónicos en el Sistema Integral de Seguimiento de Expedientes y sus titulares serán los responsables de vigilar que el personal a su cargo digitalice oportunamente y de manera legible las constancias de los juicios de amparo que en su caso se presenten de manera impresa y de la impresión de las que se presenten de forma electrónica, de conformidad con el artículo 3, párrafos quinto y séptimo, de la Ley de Amparo.
-
-En la integración del expediente electrónico en el Sistema Integral de Seguimiento de Expedientes se atenderá a lo establecido en el Acuerdo General Conjunto Número 1/2013, de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación y al expediente electrónico.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 90.
 
-Los Secretarios de Acuerdos y demás servidores públicos fedatarios designados por los titulares de los Juzgados de Distrito y Tribunales de Circuito, darán fe en cada asunto que las promociones, documentos, autos y resoluciones coinciden en su totalidad en el expediente electrónico e impreso, de conformidad con los párrafos quinto y séptimo del artículo 3 de la Ley de Amparo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 91.
 
-En caso de que exista imposibilidad material para la digitalización de determinadas constancias aportadas por las partes, los titulares de los Juzgados de Distrito y Tribunales de Circuito decidirán si hacen del conocimiento de las partes tal situación mediante proveído y que dichas constancias se encuentran a su disposición en el expediente impreso, o bien, ordenarán la integración de cuadernos auxiliares con los documentos aportados por las partes que no se agregarán al expediente impreso respectivo ni a su versión electrónica que de manera enunciativa se señalan en el artículo siguiente.
-
-Los cuadernos auxiliares podrán consultarse físicamente por las partes en los Juzgados de Distrito y Tribunales de Circuito con las reservas respectivas tratándose de la información reservada o confidencial.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 92.
 
-No formarán parte del expediente electrónico y, por ende, no deberán digitalizarse, las copias de traslado, las hojas en blanco, folders, micas o cualquier tipo de material sin leyenda relevante alguna y de los que se aprecie que únicamente fueron presentados con la finalidad de proteger los documentos, así como las copias presentadas como anexos por las partes, de los que se advierta que corresponden a actuaciones del propio Juzgado de Distrito o Tribunal de Circuito que evidentemente ya forman parte de los autos y los documentos anexos a los informes justificados que no resulten necesarios para sustentar una determinación judicial.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 93.
 
-Los Juzgados de Distrito y Tribunales de Circuito otorgarán a las partes o sus representantes que así lo soliciten a través de una promoción electrónica o impresa, los permisos necesarios para la consulta de los expedientes electrónicos o, en su caso, revocar los concedidos.
-
-Para el otorgamiento y revocación de los accesos a la consulta del expediente electrónico se atenderá a las reglas establecidas en el Capítulo Segundo del Título Primero de la Ley de Amparo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 94.
 
-El otorgamiento de accesos a los expedientes electrónicos se realizará a través del Sistema Integral de Seguimiento de Expedientes al asociar el “Nombre de Usuario” que el solicitante ingresó al registrarse en el Portal de Servicios en Línea del Poder Judicial de la Federación, y la captura de los datos de las partes en el seguimiento de los expedientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 95.
 
-Los Juzgados de Distrito y Tribunales de Circuito al integrar el expediente electrónico determinarán sobre qué promociones o constancias deberá guardarse sigilo en relación a una o varias partes y, consecuentemente, si deben conservarse en el seguro del órgano jurisdiccional sin digitalizarse, o bien, proceder a su digitalización e integración al expediente electrónico. En este último caso el sistema impedirá su visualización electrónica a la parte respectiva y a sus representantes, de conformidad con el artículo 16, segundo párrafo, del Acuerdo General Conjunto Número 1/2013, de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación y al expediente electrónico.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 96.
 
-Los Juzgados de Distrito o Tribunales de Circuito otorgarán o revocarán en el Sistema Integral de Seguimiento de Expedientes los permisos necesarios para que las partes o sus representantes, previa solicitud expresa en el asunto de que se trate, puedan notificarse electrónicamente de las resolución judiciales, conforme a las reglas establecidas en el Capítulo Segundo del Título Primero de la Ley de Amparo.
-
-Los permisos otorgados para la consulta de expedientes electrónicos y la práctica de notificaciones electrónicas se conservarán para cualquiera de sus instancias.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 97.
 
-El otorgamiento de permisos para notificarse de las resoluciones judiciales se realizará a través del Sistema Integral de Seguimiento de Expedientes al asociar el “Nombre de Usuario” que el solicitante ingresó al registrarse en el Portal de Servicios en Línea del Poder Judicial de la Federación, a la captura de los datos de las partes en el seguimiento de los expedientes.
-
-Los permisos para notificarse electrónicamente en los juicios de amparo se conservarán en cualquiera de sus instancias.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 98.
 
-Al integrarse cada resolución judicial en los expedientes electrónicos, los Juzgados de Distrito y Tribunales de Circuito ordenarán, en su caso, se notifique electrónicamente a una o a varias de las partes, que podrán notificarse a través del Portal de Servicios en Línea del Poder Judicial de la Federación tratándose del expediente principal a partir de las nueve horas de la fecha que se ingrese para la publicación de las listas de acuerdos y en el incidente de suspensión a partir de que dicha resolución sea ingresada al Sistema Integral de Seguimiento de Expedientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 99.
 
-Al notificarse electrónicamente las partes de las resoluciones judiciales en que así se ordenó, se generará la constancia de consulta respectiva que se visualizará automáticamente en el expediente electrónico consultable a través del Portal de Servicios en Línea del Poder Judicial de la Federación y del Sistema Integral de Seguimiento de Expedientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 100.
 
-El Sistema Integral de Seguimiento de Expedientes contendrá reportes para el control de las notificaciones electrónicas que sean ordenadas y que servirán de referencia para los Juzgados de Distrito y Tribunales de Circuito cuando las partes que cuente con permisos para notificarse electrónicamente no lo hagan en los plazos establecidos en la Ley de Amparo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 101.
 
-El CJF podrá celebrar convenios con los tribunales judiciales, administrativos o de trabajo para efecto que los justiciables cuenten con la posibilidad de promover juicios de amparo directo ante ellos cuando dichos tribunales sean señalados como autoridades responsables, ya sea que cuenten con sistemas tecnológicos de gestión jurisdiccional que les permitan integrar expedientes electrónicos y hagan uso de firmas electrónicas, o bien, que el propio CJF pueda compartir los desarrollos tecnológicos con los que cuenta.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 102.
 
-En caso que los tribunales judiciales, administrativos o de trabajo cuenten con sistemas de gestión jurisdiccional, el convenio tendrá por objeto la interconexión entre los sistemas que permitan el envío de las demandas de juicios de amparo directo e informes justificados a los Tribunales Colegiados de Circuito, así como la consulta de los expedientes electrónicos respectivos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 103.
 
-Si los tribunales judiciales, administrativos o de trabajo no cuentan con herramientas tecnológicas que permitan la interconexión con los sistemas del CJF, el convenio tendrá por objeto compartir los desarrollos tecnológicos implementados en los Juzgados de Distrito y Tribunales de Circuito.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 104.
 
-El CJF mediante declaratoria publicada en el Diario Oficial de la Federación, hará del conocimiento a los justiciables que pueden promover demandas de amparo directo ante el tribunal judicial, administrativo o de trabajo con el que se celebró el convenio respectivo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 105.
 
-En los casos de la interposición de recursos, los Juzgados de Distrito y Tribunales de Circuito pondrán a disposición del órgano jurisdiccional que corresponda, incluida la SCJN, la consulta de los expedientes electrónicos respectivos a través del Sistema Integral de Seguimiento de Expedientes, mediante los permisos que se soliciten por escrito respecto de los servidores públicos que asuman la responsabilidad conducente.
-
-La misma consulta se facilitará a la SCJN y a los Tribunales Colegiados de Circuito de los expedientes principales relacionados con los incidentes de inejecución que se integren.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 106.
 
-Cuando el órgano jurisdiccional que conozca del recurso estime necesario consultar las constancias que no fueron digitalizadas en términos del artículo 95, lo solicitará al diverso Juzgado de Distrito o Tribunal de Circuito y, en caso de que exista imposibilidad material, requerirá dichas constancias de manera impresa o la remisión del cuaderno auxiliar cuando se haya determinado integrarlo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO TERCERO. DE LAS COMUNICACIONES OFICIALES ELECTRÓNICAS
 
-> <small>(REFORMADO POR INSTRUMENTO NORMATIVO APROBADO POR LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL ARTÍCULO 107 DEL ACUERDO GENERAL CONJUNTO 1/2015, DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS SERVICIOS TECNOLÓGICOS RELATIVOS A LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO, LAS COMUNICACIONES OFICIALES Y LOS PROCESOS DE ORALIDAD PENAL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 15 DE OCTUBRE DE 2018)</small>
-
 ###### Artículo 107.
 
-A través del Sistema Integral de Seguimiento de Expedientes los Juzgados de Distrito y Tribunales de Circuito podrán enviarse entre ellos comunicaciones oficiales electrónicas sin importar la especialidad que tengan, la materia ni el asunto del que deriven, para lo cual tendrán acceso a todas las Oficinas de Correspondencia Común y Oficialías de Partes correspondientes, y se hará uso de firmas electrónicas vigentes y reconocidas por el Poder Judicial de la Federación.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 108.
 
-Las Oficinas de Correspondencia Común recibirán las comunicaciones oficiales electrónicas en el Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común que envíen los Juzgados de Distrito y Tribunales de Circuito, las registrarán y enviarán al órgano jurisdiccional que por turno deba tramitarlas conforme a la normativa vigente, sin que la recepción electrónica pueda ser un criterio de turno.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 109.
 
-Una vez turnadas las comunicaciones oficiales electrónicas en el Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común, se enviarán de manera electrónica al órgano jurisdiccional correspondiente quien las recibirá a través del módulo de Oficialía de Partes del Sistema Integral de Seguimiento de Expedientes, con independencia de que se integren en formato impreso tanto en el órgano jurisdiccional requirente como requerido.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 110.
 
-El resultado del trámite de las comunicaciones oficiales electrónicas será enviado de la misma manera al órgano jurisdiccional que la libró a través de su Oficialía de Partes en el Sistema Integral de Seguimiento de Expedientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 111.
 
-Tratándose de órganos jurisdiccionales que no cuenten con Oficina de Correspondencia Común, las comunicaciones oficiales electrónicas se enviarán directamente a través de su Oficialía de Partes en el Sistema Integral de Seguimiento de Expedientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO CUARTO. DE LOS SERVICIOS EN LÍNEA EN LOS CENTROS DE JUSTICIA PENAL FEDERAL
 
 ###### Artículo 112.
 
-En los Centros de Justicia Penal Federal para la tramitación de los juicios de oralidad penal se hará uso del Portal de Servicios en Línea del Poder Judicial de la Federación, Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común y Sistema Integral de Seguimiento de Expedientes, para la presentación de solicitudes, recursos y promociones, integración y consulta de carpetas digitales, así como la práctica de notificaciones electrónicas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 113.
 
-La presentación de solicitudes, recursos y promociones de manera electrónica, no limita a las partes a exhibir de manera impresa tales documentos ante los Centros de Justicia Penal Federal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 114.
 
-Para acceder a los servicios en línea que se presten en los Centros de Justicia Penal Federal se requerirá el uso de firmas electrónicas emitidas por la Unidad o reconocidas por el Poder Judicial de la Federación a través de ésta, incluyendo la práctica de notificaciones electrónicas, lo anterior para garantizar la identidad de los sujetos que hagan uso de tales servicios.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 115.
 
-A través del Portal de Servicios en Línea del Poder Judicial de la Federación las partes en los juicios de oralidad penal podrán presentar solicitudes, recursos y promociones a los Centros de Justicia Penal Federal, consultar las carpetas digitales y notificarse electrónicamente de las determinaciones judiciales.
-
-Asimismo, las carpetas digitales podrán ser consultadas por los terceros a través del Portal de Servicios en Línea del Poder Judicial de la Federación en términos del artículo 50 del Código Nacional de Procedimientos Penales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 116.
 
-El Portal de Servicios en Línea del Poder Judicial de la Federación en los Centros de Justicia Penal Federal funcionará las veinticuatro horas del día los trescientos sesenta y cinco días del año.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 117.
 
-Las personas interesadas en acceder a los servicios que a través del Portal de Servicios en Línea del Poder Judicial de la Federación se prestan en los Centros de Justicia Penal Federal deberán registrarse en el sistema, indicar su nombre, correo electrónico, Registro Federal de Contribuyentes, Clave Única del Registro de Población, crear un “Nombre de Usuario” y una “Contraseña”, y vincular al registro su firma electrónica.
-
-El registro de cada usuario en el sistema es de carácter personal y en ningún caso una persona podrá hacerlo a nombre de otra.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 118.
 
-El registro de los usuarios al Portal de Servicios en Línea del Poder Judicial de la Federación no implica la consulta de las carpetas digitales, la presentación electrónica de solicitudes, recursos y promociones, ni tampoco la práctica de notificaciones electrónicas de las resoluciones judiciales, pues ello depende que lo soliciten así al Centro de Justicia Penal Federal correspondiente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 119.
 
-Una vez realizado el registro en el Portal de Servicios en Línea del Poder Judicial de la Federación, el usuario podrá entrar al sistema a través de la firma electrónica que se encuentre vinculada a su cuenta.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 120.
 
-En el caso que la Procuraduría General de la República o las Procuradurías Generales de Justicia y Fiscalías Generales de las Entidades Federativas cuenten con sistemas tecnológicos de gestión propios, de así solicitarlo, se realizarán los ajustes necesarios para que exista interconectividad entre el Portal de Servicios en Línea del Poder Judicial de la Federación y sus respectivos sistemas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 121.
 
-Para la presentación de solicitudes y promociones electrónicas ante los Centros de Justicia Penal Federal, los usuarios deberán acceder a la opción de Centros de Justicia Penal Federal e ingresar a través de la firma electrónica vigente que se vinculó al registrarse en el Portal de Servicios en Línea del Poder Judicial de la Federación.
-
-Para la presentación de solicitudes se ingresará al botón “Presentar Solicitud”, después anotarán los datos correspondientes, seleccionarán de un mapa el Centro de Justicia Penal Federal que corresponda, adjuntarán el archivo electrónico, o bien, utilizarán el texto en blanco que se encontrará a su disposición, le agregarán su firma electrónica vigente, capturar un código de seguridad y enviarán su archivo.
-
-Asimismo, podrán enviar junto con sus solicitudes los archivos que contengan los documentos anexos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 122.
 
-Una vez enviada la solicitud, el sistema generará un acuse de recepción electrónica en la que se señalarán los datos de identificación del promovente, el nombre del archivo electrónico que contenga los documentos, la fecha y hora de envío y recepción, así como un folio electrónico.
-
-De proporcionarse una cuenta de correo electrónico al momento de enviar la solicitud se enviará automáticamente el acuse de recepción electrónica.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 123.
 
-En el Portal de Servicios en Línea del Poder Judicial de la Federación se podrá consultar a través del número de folio electrónico que arroje el acuse de recibo, el Centro de Justicia Penal Federal al que fue turnado y el número de expediente que se le asignó en éste.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 124.
 
-Para la presentación de promociones y recursos los usuarios en la opción de Centros de Justicia Penal Federal en el Portal de Servicios en Línea del Poder Judicial de la Federación, ingresarán con su firma electrónica que se encuentra vinculada a la cuenta que registraron en el sistema.
-
-Hecho lo anterior, en el botón de Recursos y Promociones, seleccionarán el Centro de Justicia Penal Federal al que la deseen dirigir e ingresarán el tipo de causa y número respectivo, adjuntarán el archivo que contenga su promoción y le agregarán su firma electrónica vigente, capturarán un código de seguridad y enviarán su archivo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 125.
 
-El sistema generará un acuse de recepción electrónica en el que se señalarán los datos de identificación del asunto y de quien promueve, el archivo electrónico enviado, así como la hora y fecha en que se envió y recibió.
-
-Cada documento electrónico que se reciba contendrá en la parte final una evidencia criptográfica de la firma electrónica que mostrará entre otros datos, si el certificado con el que se firmó se encuentra vigente a la fecha de su incorporación al sistema.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 126.
 
-Las partes en los juicios de oralidad penal, previa solicitud expresa y acceso otorgado por el Centro de Justicia Penal Federal en el que se tramite la causa de su interés, podrán consultar las carpetas digitales, sin que implique permisos para notificarse electrónicamente de resoluciones judiciales.
-
-Para ello, es necesario que las partes lo soliciten expresamente a través de una promoción impresa o electrónica en el asunto de que se trate, en la que señalen el “Nombre de Usuario” que crearon al registrarse en el Portal de Servicios en Línea del Poder Judicial de la Federación y, tratándose de otras personas que las propias partes deseen autorizar para acceder a la carpeta digital, lo harán en los mismos términos, y será el Centro de Justicia Penal Federal correspondiente el que acuerde en términos de ley quien determine si se autoriza a dicha persona consultar la carpeta digital.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 127.
 
-El acceso a las carpetas digitales sólo es otorgado o revocado por los Centros de Justicia Penal Federal, y atenderá en todo caso a la situación jurídica que respecto a cada usuario del Portal de Servicios en Línea del Poder Judicial de la Federación impere en la causa solicitada.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 128.
 
-Las partes en los juicios de oralidad penal, previa solicitud expresa ante el Centro de Justicia Penal Federal en el que se tramite la causa de su interés, podrán solicitar se les notifique electrónicamente de las resoluciones judiciales.
-
-Para ello, es necesario que las partes lo soliciten expresamente a través de una promoción impresa o electrónica en el asunto de que se trate, en la que señalen el “Nombre de Usuario” que crearon al registrarse en el Portal de Servicios en Línea del Poder Judicial de la Federación y, tratándose de otras personas que deseen autorizar para que se notifiquen electrónicamente, lo harán en los mismos términos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 129.
 
-Sólo los Centros de Justicia Penal Federal otorgarán o revocarán a las partes, así como a las personas que soliciten éstos, los permisos necesarios para que se notifiquen electrónicamente de las resoluciones judiciales cuando así se ordene.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 130.
 
-En la práctica de notificaciones electrónicas que ordenen los Centros de Justicia Penal Federal se hará uso de firmas electrónicas vigentes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 131.
 
-Se tendrá por recibido el archivo electrónico de la determinación judicial por las partes cuando el Centro de Justicia Penal Federal ingrese el archivo que la contenga en el Sistema Integral de Seguimiento de Expedientes, pues se hace visible en el Portal de Servicios en Línea del Poder Judicial de la Federación, en términos del artículo 87 del Código Nacional de Procedimientos Penales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 132.
 
-Para notificarse electrónicamente de las resoluciones judiciales en un juicio de oralidad penal los usuarios deberán acceder a la opción de Centros de Justicia Penal Federal a través de la firma digital que se encuentre vinculada a su cuenta de registro en el Portal de Servicios en Línea del Poder Judicial de la Federación.
-
-Una vez que accedan, podrán notificarse electrónicamente al entrar al Centro de Justicia Penal Federal en el que se tramite la causa correspondiente, ya sea en las opciones de Estrados o Carpetas Digitales, o bien, a través de un listado condensado que contendrá las resoluciones electrónicas pendientes de notificarse, con independencia del Centro de Justicia Penal Federal en el que se tramiten.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 133.
 
-Los usuarios al seleccionar la resolución judicial correspondiente se notificarán electrónicamente con lo que se generará una constancia de consulta que contendrá los datos del asunto y de la resolución judicial, el nombre de la persona que se notifica, así como la fecha y hora en que se llevó a cabo.
-
-Hecho lo anterior, los usuarios visualizarán la resolución judicial respectiva.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 134.
 
-Las partes podrán solicitar a través de promociones impresas o electrónicas ante el Centro de Justicia Penal Federal correspondiente, que las personas que previamente hayan sido autorizadas para acceder a una carpeta digital o, en su caso, autorizadas para notificarse electrónicamente de las resoluciones judiciales, dejen de estarlo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 135.
 
-Las solicitudes presentadas en el Portal de Servicios en Línea del Poder Judicial de la Federación, junto con el acuse de recibo correspondiente, serán recibidas electrónicamente en los Centros de Justicia Penal Federal a través del Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común, que permitirá turnar los asuntos entre los jueces de los propios Centros conforme a la normatividad vigente a fin de equilibrar las cargas de trabajo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 136.
 
-Una vez turnadas las solicitudes que se presenten de manera electrónica, serán enviadas por el Sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común de manera electrónica al Sistema Integral de Seguimiento de Expedientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 137.
 
-En el Sistema Integral de Seguimiento de Expedientes, como sistema de gestión jurisdiccional, los Centros de Justicia Penal Federal recibirán las solicitudes y promociones electrónicas de las partes, junto con sus anexos, integrarán las carpetas digitales, otorgarán los accesos para su consulta y los permisos para notificarse electrónicamente, y ordenarán la práctica de este tipo de notificaciones.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 138.
 
-Los Centros de Justicia Penal Federal registrarán las solicitudes y promociones, junto con sus anexos y acuses de recibo electrónicos, en el módulo de Oficialía de Partes del Sistema Integral de Seguimiento de Expedientes, se registrarán conjuntamente con las que se presenten de manera impresa, y se dará el trámite correspondiente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 139.
 
-Los Centros de Justicia Penal Federal integrarán las carpetas digitales en el Sistema Integral de Seguimiento de Expedientes y los Jueces que tengan en turno la administración serán los responsables de vigilar que el personal a su cargo agregue los registros de las audiencias, digitalice oportunamente y de manera legible las constancias complementarias impresas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 140.
 
-En caso de que exista imposibilidad material para la digitalización de determinadas constancias complementarias aportadas por las partes, se hará de su conocimiento tal situación y se informará que las mismas se encuentran físicamente para su consulta en el Centro de Justicia Penal Federal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 141.
 
-No formarán parte de las carpetas digitales y, por ende, no deberán digitalizarse las hojas en blanco, folders, micas o cualquier tipo de material sin leyenda relevante alguna y de los que se aprecie que únicamente fueron presentados con la finalidad de proteger los documentos, así como las copias presentadas como anexos por las partes, de los que se advierta que corresponden a actuaciones del propio Centro de Justicia Penal Federal que evidentemente ya forman parte de la carpeta digital autos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 142.
 
-Los Centros de Justicia Penal Federal otorgarán a los partes que así se lo soliciten a través de una promoción electrónica o impresa, los permisos necesarios para la consulta de las carpetas digitales o, en su caso, revocar los concedidos, sin que ello implique que se otorga permisos o revocan para notificarse electrónicamente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 143.
 
-El otorgamiento de accesos a los expedientes electrónicos se realizará a través del Sistema Integral de Seguimiento de Expedientes al asociar el “Nombre de Usuario” que el solicitante ingresó al registrarse en el Portal de Servicios en Línea del Poder Judicial de la Federación a la captura de los datos de las partes en el seguimiento de las causas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 144.
 
-Los Centros de Justicia Penal Federal al integrar las carpetas digitales determinarán sobre qué promociones o constancias deberá guardarse sigilo en relación a una o varias partes, lo que impedirá su visualización electrónica a estas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 145.
 
-El otorgamiento de permisos para notificarse de las resoluciones judiciales se realizará a través del Sistema Integral de Seguimiento de Expedientes al asociar el “Nombre de Usuario” que el solicitante ingresó al registrarse en el Portal de Servicios en Línea del Poder Judicial de la Federación a la captura de los datos de las partes en el seguimiento de los expedientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 146.
 
-Al integrarse cada resolución judicial en las carpetas digitales, los Centros de Justicia Penal Federal ordenarán, en su caso, se notifique electrónicamente a una o a varias de las partes, misma que podrá notificarse a través del Portal de Servicios en Línea del Poder Judicial de la Federación a partir de que los archivos correspondientes sean ingresados en el Sistema Integral de Seguimiento de Expedientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 147.
 
-Al notificarse electrónicamente las partes de las resoluciones judiciales en que así se haya ordenado, se generará la constancia de consulta, que podrá visualizarse en la carpeta digital del Portal de Servicios en Línea del Poder Judicial de la Federación y del Sistema Integral de Seguimiento de Expedientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 148.
 
-En el Sistema Integral de Seguimiento de Expedientes se generarán reportes para el control de las notificaciones electrónicas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 149.
 
-En los casos de la interposición de recursos y juicios de amparo, los Centros de Justicia Penal Federal pondrán a disposición del que corresponda la consulta de las carpetas digitales a través del Sistema Integral de Seguimiento de Expedientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 ###### Artículo 150.
 
-Cuando el órgano jurisdiccional que conozca del recurso o juicio de amparo estime necesario consultar las constancias que no fueron digitalizadas, lo solicitará al diverso órgano jurisdiccional de que se trate y en caso de que exista imposibilidad material, requerirá dichas constancias de manera impresa.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2020)
 
 TRANSITORIOS:
 
@@ -916,3 +854,45 @@ SÉPTIMO. Mientras se mantenga la suspensión de plazos en términos del Acuerdo
 OCTAVO. En caso de que no sea posible emplazar a la parte demandada o notificar por oficio a las autoridades responsables en un amparo en revisión o directo en revisión, o cuando las partes demandadas o las autoridades no cuenten con FIREL o manifiesten no contar con e.firma, la tramitación se suspenderá y podrá reanudarse una vez que se reanuden los plazos ante la SCJN, con la salvedad indicada en la parte final del Transitorio Quinto de este Acuerdo General en cuanto al transcurso de los plazos aplicables.
 
 NOVENO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
+
+D.O.F. 12 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se deroga el Título Cuarto, De los servicios electrónicos del CJF, del “Acuerdo General conjunto 1/2015 de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, que regula los servicios tecnológicos relativos a la tramitación tecnológica del juicio de amparo, las comunicaciones oficiales y los procesos de oralidad penal en los Centros de Justicia Penal Federal”. Dado que se trata de un Acuerdo General Conjunto, infórmese de esta determinación a la Suprema Corte de Justicia de la Nación.
+
+CUARTO. Se deroga el Acuerdo General 74/2008 del Pleno del Consejo de la Judicatura Federal, que pone a disposición de los órganos jurisdiccionales el uso de la videoconferencia como un método alternativo para el desahogo de diligencias judiciales, así como el Protocolo para el uso de la videoconferencia en los juzgados de Distrito en materia Penal y de Procesos Penales Federales, en aquellas disposiciones que contravengan o se opongan al presente Acuerdo y su Anexo Técnico.
+
+En lo que no se oponga al presente Acuerdo, continúa vigente el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los servicios de interconexión tecnológica entre los órganos jurisdiccionales con diversas instituciones públicas”. Los convenios de interconexión celebrados conforme a lo previsto en el Acuerdo antes citado, así como las declaratorias de publicidad continuarán vigentes en lo que no se opongan a este instrumento normativo.
+
+QUINTO. Toda vez que el presente Acuerdo se emite durante la contingencia sanitaria por Covid-19, el acatamiento a algunas de sus disposiciones se modificará atendiendo a las reglas contenidas en los Acuerdos Generales vigentes y los que se emitan para hacerle frente. En específico:
+
+I. La obligación prevista en el artículo 22, párrafo cuarto, referente a la inclusión de las constancias generadas electrónicamente a los expedientes físicos y a la identidad entre ambos expedientes, se satisfará en los términos en que el CJF lo determine, a partir de la regularización de las actividades dentro del PJF.
+
+II. La utilización de videoconferencias para el desahogo de audiencias, prevista en el artículo 27 y demás relacionados, se estimará como la regla general, de modo que sólo de forma excepcional se celebrarán audiencias con presencia física de las partes y demás intervinientes. En el sistema penal adversarial se estará a las reglas específicamente previstas para dichos asuntos durante el período de contingencia.
+
+III. Podrá restringirse el acceso del público a las sesiones de los tribunales colegiados de Circuito, incluso cuando se realicen por videoconferencia, para lo cual se adoptarán las medidas pertinentes para garantizar la publicidad de las mismas mediante la posibilidad de consultar los registros correspondientes a partir de la regularización de actividades en el Poder Judicial de la Federación. Lo anterior se hará aplicable a los Plenos de Circuito en caso de que se reestablezcan sus actividades durante el período de contingencia.
+
+SEXTO. La Secretaría Ejecutiva de Administración, a través de sus unidades administrativas adscritas, llevará a cabo las acciones necesarias a efecto de que cada órgano jurisdiccional cuente con el equipo y tecnología indispensable para el buen desarrollo de las videoconferencias.
+
+En específico, la Dirección General de Tecnologías de la Información llevará a cabo las acciones necesarias para optimizar y, en su caso, modificar la estrategia tecnológica y de infraestructura que apoye el servicio de “videoconferencia” en los órganos jurisdiccionales, como una herramienta tecnológica que permanentemente esté a disposición de los órganos jurisdiccionales. Para lo anterior, deberá actuarse en observancia a la normatividad interna y a los principios contenidos en el artículo 134 Constitucional.
+
+SÉPTIMO. Las obligaciones previstas en el quinto párrafo del artículo 31 y en el primer párrafo del SEXTO transitorio quedarán sujetas a la existencia de disponibilidad presupuestaria y, en su caso, a la adquisición y distribución de los equipos de conformidad con la normativa administrativa del Consejo que rige este tipo de procedimientos. Para su cumplimiento, la Dirección General de Tecnologías de la Información, en conjunto con las unidades administrativas competentes, elaborará de inmediato e implementará un plan gradual que permita dar cumplimiento a esta obligación.
+
+OCTAVO. El registro y resguardo de las videoconferencias se realizará en los medios de almacenamiento de datos institucionales u otros que la Dirección General de Tecnologías de la Información disponga para tal fin, especificando el número de expediente y NEUN de los asuntos sesionados, y garantizando en todo momento la seguridad de la información y su disponibilidad para ulterior consulta.
+
+NOVENO. El Consejo de la Judicatura Federal tendrá un plazo de un año a partir de la publicación del presente Acuerdo para liberar el sistema centralizado previsto en el Capítulo Séptimo, que regirá en todas las Oficinas de Correspondencia Común que pertenecen al Poder Judicial Federal.
+
+DÉCIMO. El Consejo de la Judicatura Federal tendrá un plazo de un año a partir de la publicación del presente Acuerdo para incorporar el Capítulo Décimo Segundo relativo a la regulación aplicable para la reforma en materia laboral. Para dar cumplimiento a este mandato, la Dirección General de Asuntos Jurídicos y la Unidad de Implementación de la Reforma en Materia de Justicia Laboral se coordinarán para la presentación de la propuesta respectiva antes de la entrada en vigor del sistema de justicia laboral.
+
+DÉCIMO PRIMERO. La Dirección General de Gestión Judicial tendrá 30 días naturales a partir de la entrada en vigor del presente Acuerdo para emitir los Lineamientos referidos en el artículo 3, fracción VIII, y los diversos previsto en el artículo 28, fracción VII. Asimismo, tendrá tres meses para proponer e implementar los ajustes necesarios para que el personal de las OCC pueda contribuir a la digitalización de constancias para la integración de expedientes electrónicos.
+
+DÉCIMO SEGUNDO. La Dirección General de Tecnologías de la Información liberará las funcionalidades del Portal de Servicios en Línea y del SISE que permitan la tramitación electrónica de todos los asuntos competencia del Poder Judicial de la Federación a más tardar el 16 de junio de 2020.
+
+DÉCIMO TERCERO. La Dirección General de Asuntos Jurídicos contará con tres meses para presentar al Pleno una propuesta de reforma a los Acuerdos Generales “8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito”, y “16/2009 del Pleno del Consejo de la Judicatura Federal, que regula las sesiones de los tribunales colegiados de Circuito y establece los lineamientos para su videograbación y difusión, en relación con las videoconferencias”, para ajustarlos a lo dispuesto en el presente Acuerdo General.
+
+DÉCIMO CUARTO. La entrada en vigor de lo dispuesto en el último párrafo del artículo 74 estará condicionado a que la Suprema Corte de Justicia de la Nación modifique el “Acuerdo General 12/2014, de 19 de mayo de 2014, del Pleno de la Suprema Corte de Justicia de la Nación, relativo a los lineamientos que rigen el uso del módulo de intercomunicación para la transmisión electrónica de documentos entre los tribunales del Poder Judicial de la Federación y la propia Suprema Corte”, para permitir esta posibilidad. Mientras tanto, el acceso al MINTERSCJN se realizará en los términos en que actualmente funciona.
