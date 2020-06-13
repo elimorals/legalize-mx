@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2018-01-11"
+last_updated: "2020-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -49,9 +49,9 @@ Procede el juicio en materia administrativa en contra de disposiciones normativa
 
 También procede el juicio en materia administrativa en cualquier otro caso que expresamente determinen las leyes.
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2011
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-El juicio en materia administrativa no procede en contra de las resoluciones de los recursos de revisión y de transparencia, ni de las revisiones oficiosas en materia de información pública, emitidas por el Instituto de Transparencia e Información Pública del Estado.
+El juicio en materia administrativa no procede en contra de las resoluciones de los recursos de revisión y de transparencia, ni de las revisiones oficiosas en materia de información pública, emitidas por el Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco.
 
 ###### Artículo 2.
 
@@ -677,11 +677,15 @@ El análisis a que se alude en el párrafo anterior debe realizarse sin prejuzga
 
 Tratándose de créditos fiscales podrá suspenderse su ejecución, pero tal suspensión sólo surtirá efectos si, quien la solicita, garantiza su importe ante:
 
-I. La Secretaría de Planeación, Administración y Finanzas del Estado cuando el crédito fuere estatal;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. La Secretaría de la Hacienda Pública del Estado cuando el crédito fuere estatal;
 
 II. La Tesorería del municipio que corresponda, cuando el crédito fuere municipal;
 
-III. La Secretaría de Planeación, Administración y Finanzas del Estado cuando el crédito fuere a favor de alguna entidad pública paraestatal del Estado;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. La Secretaría de la Hacienda Pública del Estado cuando el crédito fuere a favor de alguna entidad pública paraestatal del Estado;
 
 IV. La Tesorería del municipio que corresponda, cuando el crédito fuere a favor de una entidad pública paraestatal municipal; y
 
@@ -827,11 +831,17 @@ En el supuesto de que la excitativa se promueva por no haberse dictado sentencia
 
 La ejecución de las sentencias es competencia del órgano jurisdiccional que las hubiese dictado en primera instancia.
 
-Una vez que la sentencia definitiva que hubiese declarado procedente la pretensión del particular actor, haya quedado firme, el Magistrado, de oficio o a petición de parte, dictará auto concediendo a la autoridad el término de quince días para cumplir voluntariamente con la sentencia e informar sobre dicho cumplimiento.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-Transcurrido el término a que alude el párrafo anterior sin que la autoridad hubiere dado cumplimiento a la sentencia, se decretará la ejecución forzosa de la misma. Si existe algún acto material que ejecutar, lo podrá hacer la Sala por sus propios medios. Si se trata de dictar una nueva resolución y en la sentencia se hubiese definido el sentido de la misma, el Magistrado procederá a dictarla en rebeldía de la autoridad, dentro de un término que no excederá de cinco días. Lo anterior, sin perjuicio de las responsabilidades en que pueda incurrir la autoridad demandada.
+Una vez que la sentencia definitiva que hubiese declarado procedente la pretensión del particular actor, haya quedado firme, el Magistrado, de oficio o a petición de parte, dictará auto concediendo a la autoridad un término no menor a cuarenta y ocho horas ni mayor a quince días hábiles, para cumplir con la sentencia e informar sobre dicho cumplimiento, apercibiendo que de no hacerlo en el término concedido se hará acreedora a los medios de apremio y sanciones correspondientes.
 
-Si en la sentencia no se hubiere señalado el sentido de la resolución que debe dictarse, o para la ejecución del acto o el dictado de la resolución requieren mayores elementos técnicos de aquellos con los que ordinariamente cuenta el tribunal, o cuando por alguna otra causa no sea posible que el tribunal ejecute directamente el acto material a que se refiere el párrafo anterior, se hará uso de las medidas de apremio previstas en la ley; si la autoridad tuviese superior jerárquico se le requerirá su cumplimiento por tal conducto; si no obstante los anteriores requerimientos y el uso de medios de apremio, por dos ocasiones, no se cumplimenta la resolución y se trata de una autoridad que no haya sido electa en forma popular, será separada del cargo. Cuando se trate de autoridades electas popularmente, a petición de parte, se expedirán copias certificadas de las actuaciones, para que la parte perjudicada por el incumplimiento promueva las responsabilidades que resulten.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Transcurrido el término a que alude el párrafo anterior sin que la autoridad hubiere dado cumplimiento a la sentencia, se decretará la ejecución forzosa de la misma, haciendo uso de las medidas de apremio e imponiendo las sanciones que correspondan. Si existe algún acto material que ejecutar, lo podrá hacer la Sala por sus propios medios. Si se trata de dictar una nueva resolución y en la sentencia se hubiese definido el sentido de la misma, el Magistrado procederá a dictarla en rebeldía de la autoridad, dentro de un término que no excederá de cinco días.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Si en la sentencia no se hubiere señalado el sentido de la resolución que debe dictarse, o para la ejecución del acto o el dictado de la resolución requieren mayores elementos técnicos de aquellos con los que ordinariamente cuenta el tribunal, o cuando por alguna otra causa no sea posible que el tribunal ejecute directamente el acto material a que se refiere el párrafo anterior; se hará uso de las medidas de apremio previstas en la ley; si la autoridad tuviese superior jerárquico se le requerirá su cumplimiento por tal conducto; si no obstante los anteriores requerimientos y el uso de medios de apremio, por dos ocasiones, no se cumplimenta la resolución y se trata de una autoridad que no haya sido electa en forma popular, será separada del cargo. Cuando se trate de autoridades electas popularmente, a petición de parte se expedirán copias certificadas de las actuaciones, para que la parte perjudicada por el incumplimiento promueva las responsabilidades que resulten.
 
 ###### Artículo 86.
 
@@ -1252,3 +1262,9 @@ P.O. 11 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26722/LXI/17 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1°, 10, 20, 21, 23, 25, 26, 29, 34, 80, 81, 83, 93, 95, 98, 100, 101, 102 Y 103 DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día primero de enero del año 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 13 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27881/LXII/20 QUE REFORMA LOS ARTÍCULOS 1°, 69 Y 85 DE LA LEY DE JUSTICIA ADMINISTRATIVA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
