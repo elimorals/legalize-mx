@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-medios-de-impugnacion-electorales-de-tamaulipas-66394"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-29"
-last_updated: "2017-06-02"
+last_updated: "2020-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2020.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre de 2008.
 
@@ -687,17 +687,19 @@ Todos los recursos de apelación interpuestos dentro de los cinco días anterior
 
 El recurso de defensa de derechos político-electorales del ciudadano, será procedente en todo momento, cuando el ciudadano por sí mismo y en forma individual, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 65.
 
-El recurso podrá ser promovido por el ciudadano cuando:
+El recurso podrá ser promovido por el ciudadano o ciudadana cuando:
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+I. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, o habiendo acreditado la representatividad necesaria para contender de manera independiente, le sea negado indebidamente su registro como candidato o candidata a un cargo de elección popular;
 
-I. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, o habiendo acreditado la representatividad necesaria para contender de manera independiente, le sea negado indebidamente su registro como candidato a un cargo de elección popular;
+II. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior;
 
-II. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior; y
+III. Considere que los actos o resoluciones del partido político al que está afiliado o afiliada violan alguno de sus derechos político-electorales. En este caso, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso; y
 
-III. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. En este caso, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
+IV. Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y en la Ley Electoral del Estado de Tamaulipas.
 
 ## TITULO CUARTO. Del recurso de Inconformidad
 
@@ -1514,3 +1516,11 @@ La Convocatoria para designar a los titulares de los órganos internos de contro
 ###### ARTÍCULO TERCERO.
 
 Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
+
+P.O. 13 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-106 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
