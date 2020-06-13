@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2019-08-20"
+last_updated: "2020-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2020.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -53,7 +53,9 @@ Las disposiciones de la presente Ley son de orden público y de observancia gene
 
 Esta Ley reglamenta lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Tamaulipas y las leyes generales aplicables, en relación con:
 
-I. Los derechos y obligaciones político-electorales de los ciudadanos del Estado;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. Los derechos y obligaciones político-electorales de los ciudadanos y las ciudadanas del Estado;
 
 II. Los procesos electorales y la función estatal de organizarlos para renovar integrantes de los Poderes Ejecutivo y Legislativo del Estado así como sus Ayuntamientos y
 
@@ -79,15 +81,23 @@ I. Actos Anticipados de Campaña: los actos de expresión que se realicen bajo c
 
 II. Actos Anticipados de Precampaña: las expresiones que se realicen bajo cualquier modalidad y en cualquier momento durante el lapso que va desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las precampañas, que contengan llamados expresos al voto en contra o a favor de una precandidatura;
 
-III. Candidato: los ciudadanos que son postulados directamente por un partido político o coalición, para ocupar un cargo de elección popular;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-IV. Candidatos: los establecidos en las fracciones III y V, del presente artículo;
+III. Candidato o candidata: el ciudadano o la ciudadana postulados directamente por un partido político o coalición, para ocupar un cargo de elección popular;
 
-V. Candidato independiente: el ciudadano que obtenga, por parte de la autoridad electoral, el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. Candidatos o candidatas: a quienes se refieren las fracciones III y V, del presente artículo;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. Candidato o candidata independiente: el ciudadano o la ciudadana que obtenga, por parte de la autoridad electoral, el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
 
 VI. Casilla: la mesa directiva de casilla;
 
-VII. Ciudadanos: las personas que teniendo la calidad de mexicanos reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VII. Ciudadanos o ciudadanas: las personas que teniendo la calidad de mexicanos reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
 
 VIII. Consejo Distrital o Consejos Distritales: el o los Consejos Distritales Electorales del IETAM;
 
@@ -119,45 +129,79 @@ XXI. Lista nominal: la lista nominal de electores;
 
 XXII. Medios de comunicación: la televisión, radio, prensa escrita y medios electrónicos;
 
-XXIII. Militante: cualquier ciudadano que en pleno goce y ejercicio de sus derechos político-electorales, se registra libre, voluntaria e individualmente, a un partido político, en los términos que para esos efectos disponga el partido político en su normatividad, independientemente de su denominación, actividad o grado de participación;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXIII. Militante: cualquier ciudadano o ciudadana que en pleno goce y ejercicio de sus derechos político-electorales, se registra libre, voluntaria e individualmente, a un partido político, en los términos que para esos efectos disponga el partido político en su normatividad, independientemente de su denominación, actividad o grado de participación;
 
 XXIV. Padrón: el padrón electoral;
 
 XXV. Partidos: los partidos políticos estatales y nacionales;
 
-XXVI. Precandidato: es el ciudadano que se registra como tal porque pretende ser postulado por un partido político como candidato a cargo de elección popular, conforme a esta Ley y a los estatutos de un partido político, en el proceso de selección interna de candidatos a cargos de elección popular;
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XXVII. Representante de casilla: el representante del partido o coalición, designado para actuar ante las mesas directivas de casilla, o del candidato independiente, conforme a lo dispuesto en la presente Ley;
+XXV bis. Paridad de género: igualdad política entre mujeres y hombres. Se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular;
 
-XXVIII. Representante general: el representante general del partido o coalición, designado para actuar el día de la jornada electoral, o del candidato independiente, de conformidad con lo dispuesto en la presente Ley;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXVI. Precandidato o precandidata: es el ciudadano o la ciudadana que se registra como tal porque pretende postularse por un partido político para una candidatura a cargo de elección popular, conforme a esta Ley y a los estatutos de un partido político, en el proceso de selección interna de candidatos o candidatas a cargos de elección popular;
+
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXVII. Representante de casilla: la persona representante del partido O COALICIÓN, designada para actuar ante las mesas directivas de casilla, o del candidato o candidata independiente, conforme a lo dispuesto en la presente Ley;
+
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXVIII. Representante general: la persona representante general del partido O COALICIÓN, designada para actuar el día de la jornada electoral, o del candidato o candidata independiente, de conformidad con lo dispuesto en la presente Ley;
 
 XXIX. Sección: la sección electoral;
 
-XXX. Tribunal Estatal: el Tribunal Electoral de Tamaulipas; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XXXI. Tribunal Federal: el Tribunal Electoral del Poder Judicial de la Federación.
+XXX. Tribunal Estatal: el Tribunal Electoral de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXXI. Tribunal Federal: el Tribunal Electoral del Poder Judicial de la Federación; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXXII. Violencia política contra las mujeres en razón de género: toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo. Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 # LIBRO SEGUNDO. Participación Ciudadana en las Elecciones
 
-## TÍTULO PRIMERO. Derechos y Obligaciones de los ciudadanos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+## TÍTULO PRIMERO. Derechos y Obligaciones de los ciudadanos y las ciudadanas
 
 ### CAPÍTULO I. Derechos
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 5.
 
-Votar en las elecciones constituye un derecho y una obligación del ciudadano del Estado, que tiene como objetivo elegir a los integrantes de los Poderes Ejecutivo y Legislativo, así como de los Ayuntamientos.
+Votar en las elecciones constituye un derecho y una obligación de los ciudadanos y ciudadanas del Estado, que tiene como objetivo elegir a quienes integren los Poderes Ejecutivo y Legislativo, así como de los Ayuntamientos.
 
-El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
+El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción al electorado.
 
-Es derecho de los ciudadanos y obligación para los partidos políticos, la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a las candidaturas de elección popular.
+Es derecho de los ciudadanos y las ciudadanas, y obligación para los partidos políticos, la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a las candidaturas de elección popular.
 
-Es derecho de los ciudadanos ser candidato y ser votado para todos los puestos de elección popular, a través de un partido político o de manera independiente, teniendo las calidades que establecen la Constitución General de la República, la del Estado y esta Ley.
+Es derecho de los ciudadanos y ciudadanas postularse a candidaturas y ser votado o votada para todos los puestos de elección popular, a través de un partido político o de manera independiente, teniendo las calidades que establecen la Constitución General de la República, la del Estado y esta Ley.
 
-Es derecho y obligación de los ciudadanos votar en las consultas populares sobre temas de trascendencia y en los procesos de participación ciudadana, en los términos que determine la Ley.
+Es derecho y obligación de los ciudadanos y ciudadanas votar en las consultas populares sobre temas de trascendencia y en los procesos de participación ciudadana, en los términos que determine la Ley.
+
+Los derechos político-electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o racial, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 6.
 
-Para el ejercicio del derecho del voto los ciudadanos deberán satisfacer, además de los que fija el artículo 34 de la Constitución Federal, los siguientes requisitos:
+Para el ejercicio del derecho del voto los ciudadanos y las ciudadanas deberán satisfacer, además de los que fija el artículo 34 de la Constitución Federal, los siguientes requisitos:
 
 a) Estar inscritos en el Registro Federal de Electores en los términos dispuestos por la Ley General;
 
@@ -167,11 +211,15 @@ c) Aparecer en la lista nominal de su sección; o
 
 d) En su caso, exhibir la resolución del Tribunal Federal que les otorga el derecho de votar sin aparecer en la lista nominal o sin contar con credencial para votar o en ambos casos.
 
-En cada distrito electoral el sufragio se emitirá en la sección electoral que comprenda al domicilio del ciudadano, salvo en los casos de excepción expresamente señalados por esta Ley.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+En cada distrito electoral el sufragio se emitirá en la sección electoral que comprenda al domicilio del ciudadano o la ciudadana, salvo en los casos de excepción expresamente señalados por esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 7.
 
-Son derechos de los ciudadanos de Tamaulipas, además de los que señala el artículo 7o. de la Constitución Política del Estado, los siguientes:
+Son derechos de los ciudadanos y las ciudadanas de Tamaulipas, además de los que señala el artículo 7o. de la Constitución Política del Estado, los siguientes:
 
 I. Afiliarse libre, individual y voluntariamente a los partidos políticos, así como participar en la constitución de los mismos;
 
@@ -185,11 +233,17 @@ V. Promover medios de impugnación en materia electoral ante las autoridades com
 
 VI. Integrar organismos electorales, siempre que cumplan con los requisitos que exijan las leyes aplicables;
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Los derechos político-electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
 ### CAPÍTULO II. Obligaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 8.
 
-Son obligaciones de los ciudadanos de Tamaulipas, además de los que señala el artículo 8 de la Constitución Política del Estado, los siguientes:
+Son obligaciones de los ciudadanos y las ciudadanas de Tamaulipas, además de los que señala el artículo 8 de la Constitución Política del Estado, los siguientes:
 
 I. Integrar las mesas directivas de casillas, y prestar, en forma obligatoria y gratuita, las funciones electorales para las que sean requeridos, con excepción de las realizadas profesionalmente que sí serán retribuidas, en los términos que dispone esta Ley;
 
@@ -211,31 +265,39 @@ VI. Cumplir las demás obligaciones que señalen los demás ordenamientos juríd
 
 El Consejo General creará una Comisión Especial encargada de dar seguimiento al procedimiento de postulación y registro de las candidaturas independientes, con base en los lineamientos operativos que emita el citado Consejo.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 10.
 
-El derecho de los ciudadanos de solicitar su registro de manera independiente a los partidos políticos se sujetará a los requisitos, condiciones y términos establecidos en la Constitución Federal, la Constitución del Estado, la Ley General y en la presente Ley, salvo en el requisito de la obtención del apoyo ciudadano, que será en todos los casos del 3% de la lista nominal de electores de la demarcación territorial que corresponda, aplicando los mecanismos que sobre dicho tema contempla la Ley General.
+El derecho de los ciudadanos y las ciudadanas de solicitar su registro de manera independiente a los partidos políticos se sujetará a los requisitos, condiciones y términos establecidos en la Constitución Federal, la Constitución del Estado, la Ley General y en la presente Ley, salvo en el requisito de la obtención del apoyo ciudadano, que será en todos los casos del 3% de la lista nominal de electores de la demarcación territorial que corresponda, aplicando los mecanismos que sobre dicho tema contempla la Ley General.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 11.
 
-Los ciudadanos que cumplan con los requisitos, condiciones y términos, tendrán derecho a participar y, en su caso, a ser registrados como candidatos independientes para ocupar los siguientes cargos de elección popular:
+Los ciudadanos y ciudadanas que cumplan con los requisitos, condiciones y términos, tendrán derecho a participar y, en su caso, a registrarse como candidatos o candidatas independientes para ocupar los siguientes cargos de elección popular:
 
-I. Gobernador del Estado de Tamaulipas;
+I. Gubernatura del Estado de Tamaulipas;
 
-II. Diputados al Congreso del Estado de Tamaulipas por el principio de mayoría relativa. Para ello deberán registrar la fórmula correspondiente de propietario y suplente, en los términos de la presente Ley; y
+II. Diputaciones al Congreso del Estado de Tamaulipas por el principio de mayoría relativa. Para ello deberán registrar la fórmula correspondiente de propietario y suplente, en los términos de la presente Ley; y
 
-III. Presidente municipal, síndico y regidor. Para ello deberán registrarse como una planilla completa y no de manera individual, en los términos de la presente Ley.
+III. Presidencia municipal, sindicatura y regiduría. Para ello deberán registrarse como una planilla completa y no de manera individual, en los términos de la presente Ley.
 
-No procederá el registro de candidatos independientes por el principio de representación proporcional.
+No procederá el registro de candidaturas independientes por el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 12.
 
-En caso de nulidad de la elección, se convocará a una extraordinaria, en la que no podrá participar el candidato independiente si es la persona sancionada.
+En caso de nulidad de la elección, se convocará a una extraordinaria, en la que no podrá participar el candidato o candidata independiente si es la persona sancionada.
 
 ### CAPÍTULO II. Proceso de conformación de las Candidaturas Independientes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 13.
 
-Para los efectos de esta Ley, el proceso de selección de los candidatos independientes comprende las siguientes etapas:
+Para los efectos de esta Ley, el proceso de selección de candidaturas independientes comprende las siguientes etapas:
 
 I. La convocatoria;
 
@@ -243,63 +305,89 @@ II. Los actos previos al registro de candidatos independientes;
 
 III. La obtención del apoyo ciudadano;
 
-IV. La declaratoria de quiénes tendrán derecho a ser registrados como candidatos independientes; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-V. El registro de candidatos independientes.
+IV. La declaratoria de quiénes tendrán derecho a registrarse como candidatos o candidatas independientes; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. El registro de candidaturas independientes.
 
 ### CAPÍTULO III. De la Convocatoria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 14.
 
-El Consejo General emitirá la convocatoria dirigida a los ciudadanos interesados en postularse como candidatos independientes, a más tardar el 15 de diciembre previo al año de la elección, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los actos previos al registro, los plazos para conseguir y demostrar el apoyo ciudadano, los topes a los gastos que pueden erogar y los formatos documentales conducentes.
+El Consejo General emitirá la convocatoria dirigida a los ciudadanos y ciudadanas interesadas en postularse como candidatos o candidatas independientes, a más tardar el 15 de diciembre previo al año de la elección, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los actos previos al registro, los plazos para conseguir y demostrar el apoyo ciudadano, los topes a los gastos que pueden erogar y los formatos documentales conducentes.
 
 El IETAM dará amplia difusión a la convocatoria en el Estado.
 
 ### CAPÍTULO IV. Actos Previos al Registro
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 15.
 
-Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del IETAM por escrito, en el formato que el Consejo General determine.
+Los ciudadanos y ciudadanas que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del IETAM por escrito, en el formato que el Consejo General determine.
 
 Durante los procesos electorales ordinarios, la manifestación de la intención se deberá efectuar a partir del día siguiente al en que se emita la convocatoria y hasta tres días antes del inicio del periodo para recabar el apoyo ciudadano correspondiente, ante el Consejo General del IETAM.
 
-Con la manifestación de intención, el aspirante a candidato independiente deberá presentar la documentación que acredite la creación de la persona moral constituida en asociación civil, la cual deberá tener el mismo tratamiento que un partido político en un régimen fiscal. El IETAM establecerá el modelo único de estatutos de la asociación civil. De la misma manera, deberá acreditar el registro ante el Servicio de Administración Tributaria y anexar los datos de la cuenta bancaria que se haya abierto a nombre de la persona moral para recibir el financiamiento público y privado correspondiente. Dicha asociación civil deberá expedir comprobantes con los requisitos fiscales, en términos de las leyes aplicables.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Con la manifestación de intención, quien aspire a una candidatura independiente deberá presentar la documentación que acredite la creación de la persona moral constituida en asociación civil, la cual deberá tener el mismo tratamiento que un partido político en un régimen fiscal. El IETAM establecerá el modelo único de estatutos de la asociación civil. De la misma manera, deberá acreditar el registro ante el Servicio de Administración Tributaria y anexar los datos de la cuenta bancaria que se haya abierto a nombre de la persona moral para recibir el financiamiento público y privado correspondiente. Dicha asociación civil deberá expedir comprobantes con los requisitos fiscales, en términos de las leyes aplicables.
 
 La cuenta bancaria referida en el párrafo anterior, servirá para el manejo de los recursos para obtener el apoyo ciudadano y para, en su caso, la campaña electoral, y se utilizará a partir del inicio de los actos tendentes a obtener el apoyo ciudadano y hasta la conclusión de las campañas electorales y con posterioridad, exclusivamente para cubrir los pasivos contraídos y demás erogaciones. Su cancelación deberá realizarse una vez que se concluyan los procedimientos que correspondan a la unidad de fiscalización respectiva, con base en la Ley General.
 
-La persona moral a que se refiere el párrafo tercero de este artículo, deberá estar constituida con por lo menos, los aspirantes a candidatos independientes, su representante legal y el encargado de la administración de los recursos de la candidatura independiente.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-El encargado de la administración de los recursos financieros será responsable solidario con el aspirante o candidato independiente dentro de los procedimientos de fiscalización.
+La persona moral a que se refiere el párrafo tercero de este artículo, deberá estar constituida con por lo menos, quienes aspiren a la candidatura independiente, quien tenga su representación legal y la persona encargada de la administración de los recursos de la candidatura independiente.
 
-Una vez presentada la carta de intención, acompañada de los requisitos respectivos y que el Consejo General expida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirante a candidato independiente.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+La persona encargada de la administración de los recursos financieros será responsable solidaria con la persona aspirante o quien encabece la candidatura independiente dentro de los procedimientos de fiscalización.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Una vez presentada la carta de intención, acompañada de los requisitos respectivos y que el Consejo General expida la constancia respectiva, los ciudadanos y ciudadanas adquirirán la calidad de aspirante a candidato o candidata independiente.
 
 ### CAPÍTULO V. Obtención del Apoyo Ciudadano
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 16.
 
-A partir del día siguiente a la fecha en que los ciudadanos adquieran la calidad de aspirantes a candidatos independientes, podrán realizar actos tendentes a recabar el porcentaje de apoyo ciudadano requerido por medios distintos a la radio y la televisión, siempre que los mismos no constituyan actos anticipados de campaña.
+A partir del día siguiente a la fecha en que los ciudadanos o ciudadanas adquieran la calidad de aspirantes a candidaturas independientes, podrán realizar actos tendentes a recabar el porcentaje de apoyo ciudadano requerido por medios distintos a la radio y la televisión, siempre que los mismos no constituyan actos anticipados de campaña.
 
 Los actos tendentes a recabar el apoyo ciudadano se sujetarán a los plazos establecidos para precampañas, en la elección que corresponda.
 
 El Consejo General podrá realizar ajustes a los plazos establecidos en este artículo, a fin de garantizar los plazos de registro. Cualquier ajuste que el Consejo General realice, deberá ser difundido ampliamente.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 17.
 
-Se entiende por actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas, marchas y todas aquellas actividades dirigidas a la ciudadanía en general, que realizan los aspirantes a candidatos independientes con el objeto de obtener el apoyo ciudadano para satisfacer el requisito en los términos de esta Ley, para obtener la declaratoria que le dará derecho a registrarse como candidato independiente y contender en el proceso electoral que se trate.
+Se entiende por actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas, marchas y todas aquellas actividades dirigidas a la ciudadanía en general, que realizan quienes aspiran a una candidatura independiente con el objeto de obtener el apoyo ciudadano para satisfacer el requisito en los términos de esta Ley, para obtener la declaratoria que le dará derecho a registrarse como candidato o candidata independiente y contender en el proceso electoral que se trate.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 18.
 
-Tratándose de la candidatura independiente a Gobernador del Estado, la cédula de respaldo deberá contener, cuando menos, la firma de una cantidad de ciudadanos equivalente al 3% de la lista nominal de electores, cuyo corte temporal haya sido el 31 de agosto del año previo al de la elección; ésta deberá estar integrada por electores de por lo menos, veintidós municipios, que sumen, cuando menos, el 1% de ciudadanos que figuren en la lista nominal de electores en cada uno de ellos.
+Tratándose de la candidatura independiente a la Gubernatura del Estado, la cédula de respaldo deberá contener, cuando menos, la firma de una cantidad de ciudadanos y ciudadanas equivalente al 3% de la lista nominal de electores, cuyo corte temporal haya sido el 31 de agosto del año previo al de la elección; ésta deberá estar integrada por electores de por lo menos, veintidós municipios, que sumen, cuando menos, el 1% de ciudadanos que figuren en la lista nominal de electores en cada uno de ellos.
 
-Para fórmulas de diputados de mayoría relativa, la cédula de respaldo deberá contener, cuando menos, la firma de una cantidad de ciudadanos equivalente al 3% de la lista nominal de electores, cuyo corte temporal haya sido el 31 de agosto del año previo al de la elección, del distrito que se pretende contender; ésta deberá estar integrada de electores de más de la mitad de las secciones de los municipios que conforman el distrito, que sumen, cuando menos, el 1% de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+Para fórmulas de diputaciones de mayoría relativa, la cédula de respaldo deberá contener, cuando menos, la firma de una cantidad de ciudadanos y ciudadanas equivalente al 3% de la lista nominal de electores, cuyo corte temporal haya sido el 31 de agosto del año previo al de la elección, del distrito que se pretende contender; ésta deberá estar integrada de electores de más de la mitad de las secciones de los municipios que conforman el distrito, que sumen, cuando menos, el 1% de ciudadanos y ciudadanas que figuren en la lista nominal de electores en cada una de ellas.
 
-Para la planilla de ayuntamiento, la cédula de respaldo deberá contener, cuando menos, la firma de una cantidad de ciudadanos equivalente al 3% de la lista nominal de electores, cuyo corte temporal haya sido el 31 de agosto del año previo al de la elección; ésta deberá estar integrada de electores de más de la mitad de las secciones que lo integren, que sumen, cuando menos, el 1% de ciudadanos que figuren en la lista nominal de electores en cada una de ellas.
+Para la planilla de ayuntamiento, la cédula de respaldo deberá contener, cuando menos, la firma de una cantidad de ciudadanos y ciudadanas equivalente al 3% de la lista nominal de electores, cuyo corte temporal haya sido el 31 de agosto del año previo al de la elección; ésta deberá estar integrada de electores de más de la mitad de las secciones que lo integren, que sumen, cuando menos, el 1% de ciudadanos y ciudadanas que figuren en la lista nominal de electores en cada una de ellas.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 19.
 
-Los aspirantes a candidato independiente no podrán realizar actos anticipados de campaña por ningún medio. La violación a esta disposición se sancionará con la negativa de registro como candidato independiente.
+Quienes aspiren a una candidatura independiente no podrán realizar actos anticipados de campaña por ningún medio. La violación a esta disposición se sancionará con la negativa de registro como candidato o candidata independiente.
 
-Queda prohibido a los aspirantes a candidatos independientes, en todo tiempo, la contratación o adquisición de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como candidato independiente o, en su caso, con la cancelación de dicho registro.
+Queda prohibido a quienes aspiren a una candidatura independiente, en todo tiempo, la contratación o adquisición de propaganda o cualquier otra forma de promoción personal en radio y televisión.
+
+La violación a esta norma se sancionará con la negativa de registro como candidato o candidata independiente o, en su caso, con la cancelación de dicho registro.
 
 ###### Artículo 20.
 
@@ -311,45 +399,65 @@ Los actos tendentes a recabar el apoyo ciudadano se financiarán con recursos pr
 
 El Consejo General determinará el tope de gastos equivalente al 10% de lo establecido para las campañas inmediatas anteriores según la elección de que se trate.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 22.
 
-Los aspirantes a candidato independiente que rebasen el tope de gastos señalado en el artículo anterior perderán el derecho a ser registrados como candidato independiente o, en su caso, si ya está hecho el registro, se cancelará el mismo.
+Cuando quienes aspiren a una candidatura independiente rebasen el tope de gastos señalado en el artículo anterior perderán el derecho a su registro como candidato o candidata independiente o, en su caso, si ya está hecho el registro, se cancelará el mismo.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 23.
 
-Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica y los comprobantes que los amparen, deberán ser expedidos a nombre del aspirante y la persona encargada del manejo de recursos financieros en cuentas mancomunadas, debiendo constar en original como soporte a los informes financieros de los actos tendentes a obtener el apoyo ciudadano.
+Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica y los comprobantes que los amparen, deberán ser expedidos a nombre de la persona aspirante y la persona encargada del manejo de recursos financieros en cuentas mancomunadas, debiendo constar en original como soporte a los informes financieros de los actos tendentes a obtener el apoyo ciudadano.
 
-Le serán aplicables a los aspirantes a candidatos independientes, las disposiciones relacionadas con el financiamiento privado de los candidatos independientes de la presente Ley.
+Le serán aplicables a las personas aspirantes a candidaturas independientes, las disposiciones relacionadas con el financiamiento privado de las candidaturas independientes de la presente Ley.
 
-Los aspirantes a candidatos independientes deberán nombrar a una persona encargada del manejo de los recursos financieros y administración de los recursos relacionados con el apoyo ciudadano, así como de la presentación de los informes, en los términos de la Ley General y la presente Ley.
+Las personas aspirantes a candidaturas independientes deberán nombrar a una persona encargada del manejo de los recursos financieros y administración de los recursos relacionados con el apoyo ciudadano, así como de la presentación de los informes, en los términos de la Ley General y la presente Ley.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 24.
 
-El aspirante a candidato independiente deberá entregar, en términos de la Ley General, un informe de ingresos y egresos.
+Las personas aspirantes a candidaturas independientes deberán entregar, en términos de la Ley General, un informe de ingresos y egresos.
 
-### CAPÍTULO VI. Derechos y las obligaciones de los aspirantes a candidatos independientes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO VI. Derechos y las obligaciones de las personas aspirantes a candidaturas Independientes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 25.
 
-Son derechos de los aspirantes a candidatos independientes:
+Son derechos de las personas aspirantes a candidaturas independientes:
 
-I. Solicitar al Consejo General, su registro como aspirante a candidato independiente;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. Solicitar al Consejo General, su registro como aspirante a candidatura independiente;
 
 II. Realizar actos para promover sus ideas y propuesta, con el fin de obtener el apoyo ciudadano para el cargo al que aspira;
 
 III. Utilizar financiamiento privado para el desarrollo de sus actividades, en términos de esta Ley;
 
-IV. Nombrar a un representante para asistir a las sesiones del Consejo que corresponda, en términos de lo que dispone el artículo 379, inciso d) de la Ley General;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-V. Insertar en su propaganda la leyenda “aspirante a candidato independiente”; y
+IV. Nombrar a una persona representante para asistir a las sesiones del Consejo que corresponda, en términos de lo que dispone el artículo 379, inciso d) de la Ley General;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. Insertar en su propaganda la leyenda "aspirante a candidatura independiente"; y
 
 VI. Los demás establecidos por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 26.
 
-Son obligaciones de los aspirantes a candidatos independientes:
+Son obligaciones de las personas aspirantes a candidaturas independientes:
 
-I. Conducirse con respeto irrestricto a lo que disponen la Constitución General de la República, la Constitución del Estado, la Ley General, y esta Ley;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. Conducirse con respeto irrestricto a lo que disponen la Constitución General de la República, la Constitución del Estado, la Ley General, la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y esta Ley;
 
 II. No aceptar ni utilizar recursos de procedencia ilícita para realizar actos tendentes a obtener el apoyo ciudadano;
 
@@ -373,7 +481,11 @@ g) Las personas que vivan o trabajen en el extranjero.
 
 V. Abstenerse de realizar, por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
 
-VI. Abstenerse de proferir ofensas, difamación o calumnia en contra de cualquier aspirante o precandidato, partidos políticos, personas, instituciones públicas o privadas;
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VI. Abstenerse de ejercer violencia política contra las mujeres en razón de género y de recurrir a expresiones que degraden, DENIGREN o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas;
 
 VII. Rendir el informe de ingresos y egresos;
 
@@ -383,23 +495,35 @@ IX. Las demás establecidas por esta Ley.
 
 ### CAPÍTULO VII. Declaratoria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 27.
 
-Al concluir el plazo para que los ciudadanos manifiesten su respaldo a favor de alguno de los aspirantes a candidatos independientes, iniciará la etapa de declaratoria de quienes tendrán derecho a registrarse como candidatos independientes, según el tipo de elección que se trate, la cual será emitida por el Consejo General del IETAM.
+Al concluir el plazo para que los ciudadanos y ciudadanas manifiesten su respaldo a favor de alguna de las personas aspirantes a candidaturas independientes, iniciará la etapa de declaratoria de quienes tendrán derecho a registrarse como candidatos y candidatas independientes, según el tipo de elección que se trate, la cual será emitida por el Consejo General del IETAM.
 
-La declaratoria de aspirantes a candidatos independientes que tendrán derecho a ser registrados como tales se llevará a cabo conforme a las siguientes reglas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
 
-I.- El IETAM, a través de la Comisión Especial, verificará la cantidad de manifestaciones de apoyo válidas obtenidas por cada uno de los aspirantes a ser registrados como candidatos independientes a los distintos cargos de elección popular; y
+La declaratoria de personas aspirantes a candidaturas independientes que tendrán derecho a registrarse como tales se llevará a cabo conforme a las siguientes reglas:
 
-II.- Si ninguno de los aspirantes registrados al cargo de Gobernador, fórmula de Diputado o planilla de Ayuntamiento obtiene, en su respectiva demarcación, el respaldo en términos de lo dispuesto por el artículo 18 de la presente Ley, el Consejo General declarará desierto el proceso de selección de candidato independiente en la elección de que se trate.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. El IETAM, a través de la Comisión Especial, verificará la cantidad de manifestaciones de apoyo válidas obtenidas por cada una de las personas aspirantes a registrarse a candidaturas independientes a los distintos cargos de elección popular; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Si ninguna de las personas aspirantes registradas al cargo de Gubernatura, fórmula de Diputación o planilla de Ayuntamiento obtiene, en su respectiva demarcación, el respaldo en términos de lo dispuesto por el artículo 18 de la presente Ley, el Consejo General declarará desierto el proceso de selección de candidatura independiente en la elección de que se trate.
 
 El Consejo General deberá emitir la declaratoria a que se refiere el primer párrafo del presente artículo, dentro de los 5 días posteriores a que concluya el plazo para la obtención del respaldo ciudadano.
 
-Dicha declaratoria se notificará en las siguientes 24 horas a todos los interesados, mediante su publicación en los estrados y en la página de internet del IETAM. Además, la declaratoria se hará del conocimiento público mediante su publicación en el Periódico Oficial del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Dicha declaratoria se notificará en las siguientes 24 horas a todas las personas interesadas, mediante su publicación en los estrados y en la página de internet del IETAM. Además, la declaratoria se hará del conocimiento público mediante su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 28.
 
-La Comisión Especial procederá a verificar que se haya reunido el porcentaje de apoyo ciudadano que corresponda según la elección de que se trate, constatando que los ciudadanos aparecen en la lista nominal de electores.
+La Comisión Especial procederá a verificar que se haya reunido el porcentaje de apoyo ciudadano que corresponda según la elección de que se trate, constatando que los ciudadanos y ciudadanas aparecen en la lista nominal de electores.
 
 Las firmas no se computarán para los efectos del porcentaje requerido cuando se presente alguna de las siguientes circunstancias:
 
@@ -407,59 +531,97 @@ I. Nombres con datos falsos o erróneos;
 
 II. No se acompañen las copias de la credencial para votar vigente;
 
-III. En el caso de candidatos a Gobernador, los ciudadanos no tengan su domicilio en la Entidad;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-IV. En el caso de candidatos a Diputado por el principio de mayoría relativa, los ciudadanos no tengan su domicilio en el Distrito para el que se están postulando;
+III. En el caso de candidaturas a la Gubernatura, los ciudadanos o ciudadanas no tengan su domicilio en la Entidad;
 
-V. En el caso de candidatos que integren una planilla, los ciudadanos no tengan su domicilio en el Municipio para el que se están postulando;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-VI. Los ciudadanos hayan sido dados de baja de la lista nominal;
+IV. En el caso de candidaturas a Diputaciones por el principio de mayoría relativa, los ciudadanos o las ciudadanas no tengan su domicilio en el Distrito para el que se están postulando;
 
-VII. En el caso que se haya presentado por una misma persona más de una manifestación a favor de un mismo aspirante a candidato independiente, sólo se computará una; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-VIII. En el caso que una misma persona haya presentado manifestación en favor de más de un aspirante a candidato independiente por el mismo puesto de elección, sólo se computará la primera manifestación presentada.
+V. En el caso de candidaturas para integrar una planilla, los ciudadanos o ciudadanas no tengan su domicilio en el Municipio para el que se están postulando;
 
-### CAPÍTULO VIII. Registro de Candidatos Independientes
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VI. Los ciudadanos o ciudadanas hayan sido dados de baja de la lista nominal;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VII. En el caso que se haya presentado por una misma persona más de una manifestación a favor de una misma persona aspirante a candidatura independiente, sólo se computará una; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VIII. En el caso que una misma persona haya presentado manifestación en favor de más de una persona aspirante a candidatura independiente por el mismo puesto de elección, sólo se computará la primera manifestación presentada.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO VIII. Registro de candidaturas independientes
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 29.
 
-Los ciudadanos que hayan obtenido el derecho a registrarse como candidatos independientes, en términos del artículo 27 de esta ley, deberán satisfacer los requisitos constitucionales y legales para el registro.
+Los ciudadanos y ciudadanas que hayan obtenido el derecho a registrarse a candidaturas independientes, en términos del artículo 27 de esta ley, deberán satisfacer los requisitos constitucionales y legales para el registro.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 30.
 
-Los plazos para el registro de las candidaturas independientes en el año de la elección serán los mismos que se señalan en la Ley para las elecciones de Gobernador, Diputados y planillas de Ayuntamiento. El registro se solicitará ante el Consejo General.
+Los plazos para el registro de las candidaturas independientes en el año de la elección serán los mismos que se señalan en la Ley para las elecciones de Gubernatura, Diputaciones y planillas de Ayuntamiento. El registro se solicitará ante el Consejo General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 31.
 
-Para registrarse como candidato independiente a un cargo de elección popular deberá:
+Para registrarse como candidato o candidata independiente a un cargo de elección popular deberá:
 
 I. Presentar su solicitud por escrito, que deberá contener:
 
-a) Apellido paterno, apellido materno, nombre completo y, en su caso, sobrenombre, además de la firma o, en su caso, huella dactilar del solicitante;
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-b) Lugar y fecha de nacimiento del solicitante;
+a) Apellido paterno, apellido materno, nombre completo y, en su caso, sobrenombre, además de la firma o, en su caso, huella dactilar de la persona solicitante;
 
-c) Domicilio del solicitante y tiempo de residencia en el mismo;
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-d) Ocupación del solicitante;
+b) Lugar y fecha de nacimiento de la persona solicitante;
 
-e) Clave de credencial de elector del solicitante;
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-f) Cargo para el que se pretenda postular el solicitante;
+c) Domicilio de la persona solicitante y tiempo de residencia en el mismo;
 
-g) Designación del representante legal y domicilio para oír y recibir notificaciones; y
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+d) Ocupación de la persona solicitante;
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+e) Clave de credencial de elector de la persona solicitante;
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+f) Cargo para el que se pretenda postular la persona solicitante;
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+g) Designación de la persona encargada de su representación legal y domicilio para oír y recibir notificaciones; y
 
 h) Designación de la persona encargada del manejo de los recursos financieros y de la rendición de informes correspondientes.
 
 II. La solicitud deberá acompañarse de la siguiente documentación:
 
-a) Formato en el que manifieste su voluntad de ser candidato independiente, a que se refiere esta Ley;
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+a) Formato en el que manifieste su voluntad de ser candidato o candidata independiente, a que se refiere esta Ley;
 
 b) Copia certificada del acta de nacimiento y del anverso y reverso de la credencial para votar vigente;
 
 c) Constancia de residencia efectiva o los documentos que la acrediten fehacientemente;
 
-d) La plataforma electoral que contenga las principales propuestas que el candidato independiente sostendrá en la campaña electoral;
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+d) La plataforma electoral que contenga las principales propuestas que el candidato o candidata independiente sostendrá en la campaña electoral;
 
 e) Los datos de identificación y vigencia de la cuenta bancaria abierta para el manejo de los recursos de la candidatura independiente, en los términos de esta Ley;
 
@@ -477,43 +639,57 @@ h) Manifestación por escrito, bajo protesta de decir verdad, de:
 
 i) Escrito en el que manifieste su conformidad para que todos los ingresos y egresos de la cuenta bancaria mencionada en el inciso e) de la fracción II, sean fiscalizados, en cualquier momento, por el IETAM.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 32.
 
-Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al solicitante o a su representante, para que dentro de las 48 horas siguientes subsane el o los requisitos omitidos, siempre y cuando esto pueda realizarse dentro de los plazos que señala esta Ley.
+Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato a la persona solicitante o a la persona encargada de su representación, para que dentro de las 48 horas siguientes subsane el o los requisitos omitidos, siempre y cuando esto pueda realizarse dentro de los plazos que señala esta Ley.
 
 Si no se subsanan los requisitos omitidos o se advierte que la solicitud se realizó en forma extemporánea, se tendrá por no presentada.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 33.
 
-Ninguna persona podrá registrarse como candidato independiente a distintos cargos de elección popular en el mismo proceso electoral; tampoco podrá ser candidato para un cargo federal de elección popular y, simultáneamente, para otro de los Estados, los Municipios o del Distrito Federal. En este supuesto, si el registro para el cargo de la elección federal ya estuviere hecho, se procederá a la cancelación automática del registro local.
+Ninguna persona podrá registrarse como candidato o candidata independiente a distintos cargos de elección popular en el mismo proceso electoral; tampoco podrá ser candidato o candidata para un cargo federal de elección popular y, simultáneamente, para otro de los Estados, los Municipios o del Distrito Federal. En este supuesto, si el registro para el cargo de la elección federal ya estuviere hecho, se procederá a la cancelación automática del registro local.
 
-Los candidatos independientes que hayan sido registrados no podrán ser postulados como candidatos por un partido político o coalición en el mismo proceso electoral local o federal.
+Los candidatos y candidatas independientes que hayan sido registrados no podrán postularse como por un partido político o coalición en el mismo proceso electoral local o federal.
 
 ###### Artículo 34.
 
 Dentro de los 3 días siguientes a aquel en que venzan los plazos, el Consejo General deberá celebrar la sesión de registro de candidaturas, en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 35.
 
-El secretario del Consejo General y los presidentes de los consejos electorales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas independientes, dando a conocer los nombres de los candidatos, fórmulas registradas o planillas de Ayuntamientos y de aquéllos que no cumplieron con los requisitos.
+La persona titular de la Secretaría del Consejo General y quienes presidan los consejos electorales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas independientes, dando a conocer los nombres de los candidatos y candidatas, fórmulas registradas o planillas de Ayuntamientos y de aquellas personas que no cumplieron con los requisitos.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 36.
 
-Los candidatos independientes que obtengan su registro para Gobernador, Diputado y Presidente Municipal, no podrán ser sustituidos en ninguna de las etapas del proceso electoral.
+Los candidatos y candidatas independientes que obtengan su registro para Gubernatura, Diputaciones y Presidencias Municipales, no podrán ser sustituidos en ninguna de las etapas del proceso electoral.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 37.
 
-Tratándose de la fórmula de Diputados, será cancelado el registro de la fórmula completa cuando falte el propietario. La ausencia del suplente no invalidará la fórmula.
+Tratándose de la fórmula de Diputaciones, será cancelado el registro de la fórmula completa cuando falte la persona propietaria. La ausencia del suplente no invalidará la fórmula.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 38.
 
-Tratándose de planillas de Ayuntamiento, será cancelado el registro de la planilla completa cuando falte el candidato a Presidente Municipal. En el caso de las planillas de ayuntamiento, los candidatos a síndico o regidor podrán ser sustituidos en los términos y plazos que para tal efecto, establece la presente Ley para la sustitución de candidatos.
+Tratándose de planillas de Ayuntamiento, será cancelado el registro de la planilla completa cuando falte la persona candidata a la Presidencia Municipal. En el caso de las planillas de ayuntamiento, las personas candidatas a sindicaturas o regidurías podrán ser sustituidas en los términos y plazos que para tal efecto, establece la presente Ley para la sustitución de candidatos.
 
 ### CAPÍTULO IX. Prerrogativas, derechos y obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 39.
 
-Son prerrogativas y derechos de los candidatos independientes registrados:
+Son prerrogativas y derechos de los candidatos y candidatas independientes con registro:
 
 I. Participar en la campaña electoral correspondiente y en la elección al cargo para el que hayan sido registrados;
 
@@ -529,9 +705,11 @@ VI. Solicitar, a los organismos electorales, copia de la documentación electora
 
 VII. Las demás que les otorgue esta Ley y los demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 40.
 
-Son obligaciones de los candidatos independientes registrados:
+Son obligaciones de los candidatos y candidatas independientes con registro:
 
 I. Conducirse con respeto irrestricto a lo dispuesto en la Constitución Federal, la Constitución del Estado y en la presente Ley;
 
@@ -563,9 +741,15 @@ VII. Depositar únicamente en la cuenta bancaria abierta sus aportaciones y real
 
 VIII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-IX. Abstenerse de proferir ofensas, difamación o calumnia en contra de cualquier aspirante o precandidato, partidos políticos, personas, instituciones públicas o privadas;
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-X. Insertar en su propaganda, de manera visible, la leyenda: “Candidato Independiente”;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IX. Abstenerse de ejercer violencia política contra las mujeres en razón de género y de recurrir a expresiones que degraden, DENIGREN o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+X. Insertar en su propaganda, de manera visible, la leyenda: "Candidatura Independiente";
 
 XI. Abstenerse de utilizar en su propaganda política o electoral, emblemas y colores utilizados por partidos políticos nacionales o locales;
 
@@ -575,21 +759,33 @@ XIII. Presentar, en los mismos términos en que lo hagan los partidos políticos
 
 XIV. Las demás que establezcan esta Ley y los demás ordenamientos.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 41.
 
-Los candidatos independientes que incumplan con la normatividad electoral que les resulte aplicable serán sancionados en términos de esta Ley.
+Los candidatos y candidatas independientes que incumplan con la normatividad electoral que les resulte aplicable recibirán sanciones en términos de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 42.
 
-Los candidatos independientes, de conformidad con lo previsto por los reglamentos de sesiones de los organismos electorales aprobados por el Consejo General, podrán designar representantes en los términos siguientes:
+Los candidatos y candidatas independientes, de conformidad con lo previsto por los reglamentos de sesiones de los organismos electorales aprobados por el Consejo General, podrán designar representantes en los términos siguientes:
 
-I. Los candidatos independientes a Gobernador, ante el Consejo General y la totalidad de los Consejos Distritales y Municipales;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Los candidatos independientes a Diputados por el principio de mayoría relativa, ante el Consejo Distrital y los Consejos Municipales que comprende el Distrito, por el cual se postula; y
+I. Los candidatos y candidatas independientes a Gubernatura, ante el Consejo General y la totalidad de los Consejos Distritales y Municipales;
 
-III. Los candidatos independientes que integren una planilla de Ayuntamiento ante el Consejo Municipal del Municipio, por el cual se postulan.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-La acreditación de representantes ante los organismos electorales se realizará dentro de los 10 días posteriores al de la aprobación de su registro como aspirante a candidato independiente.
+II. Los candidatos y candidatas independientes a Diputaciones por el principio de mayoría relativa, ante el Consejo Distrital y los Consejos Municipales que comprende el Distrito, por el cual se postula; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Los candidatos y candidatas independientes que integren una planilla de Ayuntamiento ante el Consejo Municipal del Municipio, por el cual se postulan.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+La acreditación de representantes ante los organismos electorales se realizará dentro de los 10 días posteriores al de la aprobación de su registro como persona aspirante a candidatura independiente.
 
 Si la designación no se realiza en el plazo previsto en el párrafo anterior perderá este derecho.
 
@@ -613,83 +809,121 @@ El financiamiento privado SE CONSTITUYE POR LAS APORTACIONES QUE REALICEN EL CAN
 
 El financiamiento público, para todos los candidatos independientes, consistirá en un monto igual al que se le otorga a un partido político con nuevo registro y será distribuido en términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 46.
 
-Los candidatos independientes tienen prohibido recibir aportaciones y donaciones en efectivo, así como de metales y piedras preciosas, por cualquier persona física o moral, con excepción de lo dispuesto por el párrafo primero del Artículo anterior del presente ordenamiento.
+Los candidatos y candidatas independientes tienen prohibido recibir aportaciones y donaciones en efectivo, así como de metales y piedras preciosas, por cualquier persona física o moral, con excepción de lo dispuesto por el párrafo primero del Artículo anterior del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 47.
 
-No podrán realizar aportaciones o donativos en efectivo, metales y piedras preciosas o en especie, por sí o por interpósita persona, a los aspirantes o candidatos independientes a cargos de elección popular, bajo ninguna circunstancia, las personas señaladas por el artículo 40, fracción VI de la presente Ley.
+No podrán realizar aportaciones o donativos en efectivo, metales y piedras preciosas o en especie, por sí o por interpósita persona, a las personas aspirantes o candidatas y candidatos independientes a cargos de elección popular, bajo ninguna circunstancia, las personas señaladas por el artículo 40, fracción VI de la presente Ley.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 48.
 
-Los candidatos independientes no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas.
+Los candidatos y candidatas independientes no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 49.
 
-En ningún caso, los candidatos independientes podrán recibir en propiedad, bienes inmuebles para las actividades de su candidatura, así como adquirir bienes inmuebles con el financiamiento público o privado que reciban.
+En ningún caso, los candidatos y candidatas independientes podrán recibir en propiedad, bienes inmuebles para las actividades de su candidatura, así como adquirir bienes inmuebles con el financiamiento público o privado que reciban.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 50.
 
-Los candidatos independientes tendrán derecho a recibir financiamiento público para sus gastos de campaña. Para los efectos de la distribución del financiamiento público y prerrogativas a que tienen derecho, en su conjunto, serán considerados como un partido político de nuevo registro.
+Los candidatos y candidatas independientes tendrán derecho a recibir financiamiento público para sus gastos de campaña. Para los efectos de la distribución del financiamiento público y prerrogativas a que tienen derecho, en su conjunto, serán considerados como un partido político de nuevo registro.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 51.
 
-El monto que le correspondería a un partido de nuevo registro, se distribuirá entre todos los candidatos independientes de la siguiente manera:
+El monto que le correspondería a un partido de nuevo registro, se distribuirá entre todos los candidatos y candidatas independientes de la siguiente manera:
 
-I. Un 33.3% que se distribuirá al candidatos independiente al cargo de Gobernador;
+I. Un 33.3% que se distribuirá a los candidatos y candidatas independientes a la Gubernatura;
 
-II. Un 33.3% que se distribuirá de manera igualitaria entre todas las fórmulas de candidatos independientes al cargo de diputados por el principio de mayoría relativa; y
+II. Un 33.3% que se distribuirá de manera igualitaria entre todas las fórmulas de candidatos y candidatas independientes a diputaciones por el principio de mayoría relativa; y
 
-III. Un 33.3% que se distribuirá de manera igualitaria entre todas las planillas de candidatos independientes al cargo de Presidente, síndico y regidor.
+III. Un 33.3% que se distribuirá de manera igualitaria entre todas las planillas de candidatos y candidatas independientes a presidencias municipales, sindicaturas y regidurías.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 52.
 
-En el supuesto de que un solo candidato obtenga su registro para cualquiera de los cargos mencionados, no podrá recibir financiamiento que exceda el 50% del otorgado a ese cargo.
+En el supuesto de que un solo candidato o candidata obtenga su registro para cualquiera de los cargos mencionados, no podrá recibir financiamiento que exceda el 50% del otorgado a ese cargo.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 53.
 
-Los candidatos deberán nombrar una persona encargada de la administración de los recursos financieros, de los recursos generales y de campaña, así como de la presentación de los informes a que se refiere esta Ley.
+Los candidatos y candidatas deberán nombrar una persona encargada de la administración de los recursos financieros, de los recursos generales y de campaña, así como de la presentación de los informes a que se refiere esta Ley. La persona encargada de la administración de los recursos financieros será responsable solidaria con la persona aspirante, candidato o candidata independiente dentro de los procedimientos de fiscalización.
 
-El encargado de la administración de los recursos financieros será responsable solidario con el aspirante o candidato independiente dentro de los procedimientos de fiscalización.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 54.
 
-Los candidatos independientes tendrán el derecho al acceso a radio y televisión, en los términos de la Constitución Federal, la Ley General y los reglamentos aplicables.
+Los candidatos y candidatas independientes tendrán el derecho al acceso a radio y televisión, en los términos de la Constitución Federal, la Ley General y los reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 55.
 
-Los candidatos independientes deberán reembolsar al IETAM el monto del financiamiento público no erogado.
+Los candidatos y candidatas independientes deberán reembolsar al IETAM el monto del financiamiento público no erogado.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 56.
 
-Los candidatos independientes tendrán el derecho a las prerrogativas tales como acceso a radio y televisión, y franquicias postales en los términos de la Constitución Federal, la Ley General y los reglamentos aplicables.
+Los candidatos y candidatas independientes tendrán el derecho a las prerrogativas tales como acceso a radio y televisión, y franquicias postales en los términos de la Constitución Federal, la Ley General y los reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 57.
 
-Son aplicables a los aspirantes y candidatos independientes, las normas sobre propaganda electoral contenidas en esta Ley. La propaganda electoral de los candidatos independientes deberá tener el emblema y color o colores que los caractericen y diferencien de otros partidos políticos y de otros candidatos independientes, así como tener visible la leyenda: “Candidato Independiente”.
+Son aplicables a las personas aspirantes y candidatas independientes, las normas sobre propaganda electoral contenidas en esta Ley. La propaganda electoral de los candidatos y candidatas independientes deberá tener el emblema y color o colores que los caractericen y diferencien de otros partidos políticos y de otros candidatos y candidatas independientes, así como tener visible la leyenda: "Candidatura Independiente".
 
-### CAPÍTULO X. Fiscalización de los aspirantes y candidatos independientes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO X. Fiscalización de las personas aspirantes y candidatas independientes
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 58.
 
-La fiscalización de los aspirantes y candidatos independientes se realizará de acuerdo a lo que establece la Ley General.
+La fiscalización de las personas aspirantes y candidatas independientes se realizará de acuerdo a lo que establece la Ley General.
 
-### CAPÍTULO XI. Actos en la jornada electoral de los candidatos independientes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO XI. Actos en la jornada electoral de los candidatos y candidatas independientes
+
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO XX, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 59.
 
-Los candidatos independientes figurarán en la misma boleta que el Consejo General apruebe para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen, de conformidad con esta Ley.
+Los candidatos y candidatas independientes figurarán en la misma boleta que el Consejo General apruebe para los candidatos y candidatas de los partidos políticos O COALICIONES, según la elección en la que participen, de conformidad con esta Ley.
 
-Se utilizará un recuadro para cada candidato independiente, fórmula o planilla de candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos políticos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos.
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+Se utilizará un recuadro para cada candidato y candidata independiente, fórmula o planilla de candidatos y candidatas independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos políticos O COALICIONES que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 60.
 
-En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del candidato independiente o de los integrantes de la fórmula de candidatos independientes o planilla.
+En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del candidato o candidata independiente o quienes integren la fórmula de candidaturas independientes o planilla.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 61.
 
-En la boleta no se incluirá ni la fotografía ni la silueta del candidato.
+En la boleta no se incluirá ni la fotografía ni la silueta del candidato o candidata.
 
 ###### Artículo 62.
 
@@ -699,17 +933,21 @@ Los documentos electorales serán elaborados por el IETAM, aplicando en lo condu
 
 Para determinar la validez o nulidad de los votos se estará a lo dispuesto en la presente Ley.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 64.
 
-Corresponde al IETAM la organización, desarrollo, otorgamiento y vigilancia de las prerrogativas a los candidatos independientes, conforme a lo establecido en esta Ley y los reglamentos aplicables.
+Corresponde al IETAM la organización, desarrollo, otorgamiento y vigilancia de las prerrogativas a los candidatos y candidatas independientes, conforme a lo establecido en esta Ley y los reglamentos aplicables.
 
 ## TÍTULO TERCERO. De la observación electoral
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 65.
 
-Es derecho exclusivo de los ciudadanos mexicanos participar como observadores de los actos de preparación y desarrollo, así como de los que se lleven a cabo el día de la jornada electoral, conforme a las reglas, lineamientos, criterios y formatos que para tal efecto emita el INE, en los términos de la Ley General.
+Es derecho exclusivo de los ciudadanos y ciudadanas mexicanas participar como observadores de los actos de preparación y desarrollo, así como de los que se lleven a cabo el día de la jornada electoral, conforme a las reglas, lineamientos, criterios y formatos que para tal efecto emita el INE, en los términos de la Ley General.
 
 # LIBRO TERCERO. Partidos Políticos y Agrupaciones Políticas
 
@@ -721,7 +959,9 @@ Es derecho exclusivo de los ciudadanos mexicanos participar como observadores de
 
 En los términos establecidos por la Constitución General de la República y la Ley de Partidos, los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, con registro legal ante el INE o ante el IETAM, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público.
 
-Es derecho exclusivo de los ciudadanos mexicanos, formar parte de partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
+
+Es derecho exclusivo de los ciudadanos y las ciudadanas mexicanas, formar parte de partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de:
 
 I. Organizaciones civiles, sociales o gremiales, nacionales o extranjeras;
 
@@ -729,9 +969,13 @@ II. Organizaciones con objeto social diferente a la creación de partidos polít
 
 III. Cualquier forma de afiliación corporativa.
 
-Los partidos políticos promoverán los valores cívicos y la cultura democrática entre la niñez y los adolescentes, y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como la paridad de género en la postulación de candidatos.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a Diputados. Éstos deberán ser objetivos y asegurar condiciones de paridad entre géneros.
+Los partidos políticos promoverán los valores cívicos y la cultura democrática, la igualdad sustantiva entre niñas, niños y adolescentes, y garantizarán la participación paritaria en la integración de sus órganos, así como en la postulación de candidaturas.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputaciones, así como en la integración de los Ayuntamientos. Éstos deberán ser objetivos y asegurar condiciones de igualdad sustantiva entre mujeres y hombres.
 
 En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados, exclusivamente, aquellos distritos en los que el partido político haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
@@ -745,9 +989,11 @@ El procedimiento de registro de partidos políticos estatales, de conformidad co
 
 El IETAM ejercerá la facultad de fiscalización de los recursos de los partidos políticos, únicamente cuando esta atribución le sea delegada por el INE, en términos del último párrafo del apartado B de la fracción V del Artículo 41 Constitución Federal y, en su caso, se sujetará a los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que para tal efecto determine el Consejo General del INE. En ese supuesto, el IETAM deberá coordinarse con la Unidad Técnica de Fiscalización de la Comisión de Fiscalización del INE, en términos de la Ley General.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 68.
 
-Los procedimientos para la integración de los órganos internos de los partidos políticos y para la postulación de candidatos a cargos de elección popular se desarrollarán conforme a los lineamientos dispuestos en las leyes generales aplicables.
+Los procedimientos para la integración de los órganos internos de los partidos políticos y para la postulación de candidatos y candidatas a cargos de elección popular se desarrollarán conforme a los lineamientos dispuestos en las leyes generales aplicables.
 
 ## TÍTULO SEGUNDO. Partidos políticos
 
@@ -789,13 +1035,17 @@ El incumplimiento de la acreditación establecida en el párrafo anterior, gener
 
 Los partidos políticos nacionales perderán su derecho a participar en las elecciones reguladas por este ordenamiento al perder su registro ante el INE, a menos que en la elección inmediata anterior para diputados locales hayan obtenido, cuando menos, el 3% de la votación.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 77.
 
-Los candidatos registrados por partidos políticos nacionales reconocidos en el Estado, no perderán su derecho a participar en las elecciones reguladas por este ordenamiento, al perder dicho partido su registro ante el INE.
+Los candidatos y candidatas registradas por partidos políticos nacionales reconocidos en el Estado, no perderán su derecho a participar en las elecciones reguladas por este ordenamiento, al perder dicho partido su registro ante el INE.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 78.
 
-En todo caso, la pérdida del derecho a que se refiere la presente Ley no tendrá efecto en relación con los triunfos que los candidatos del partido político que hubiere perdido el registro hayan obtenido en la elección correspondiente por el principio de mayoría relativa.
+En todo caso, la pérdida del derecho a que se refiere la presente Ley no tendrá efecto en relación con los triunfos que los candidatos y candidatas del partido político que hubiere perdido el registro hayan obtenido en la elección correspondiente por el principio de mayoría relativa.
 
 ### CAPÍTULO III. Derechos, obligaciones y prerrogativas de los partidos políticos
 
@@ -963,13 +1213,19 @@ La fiscalización del financiamiento público y privado de los partidos polític
 
 Los frentes, las coaliciones, las candidaturas comunes y las fusiones en los que pueden participar los partidos políticos se regirán por lo que establece el Título Noveno de la Ley de Partidos y este capítulo; por cuanto hace a las candidaturas comunes, en términos de lo que dispone el Artículo 85, párrafo 5 de la Ley de Partidos.
 
-En los votos en los que se hubiesen marcado más de una opción de los partidos políticos coaligados, serán considerados válidos para el candidato postulado, contarán como un solo voto y serán tomados en cuenta para la asignación vía representación proporcional y de otras prerrogativas.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-Por cuanto hace a las candidaturas comunes, los partidos políticos con registro, tendrán derecho a postularlas para la elección de gobernador, diputados de mayoría y planillas de ayuntamientos, de acuerdo con lo siguiente:
+En los votos en los que se hubiesen marcado más de una opción de los partidos políticos coaligados, serán considerados válidos para el candidato o candidata postulada, contarán como un solo voto y serán tomados en cuenta para la asignación vía representación proporcional y de otras prerrogativas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
+
+Por cuanto hace a las candidaturas comunes, los partidos políticos con registro, tendrán derecho a postularlas para la elección de Gubernatura, Diputaciones de mayoría y planillas de ayuntamientos, de acuerdo con lo siguiente:
 
 I. Deberán suscribir un convenio firmado por sus representantes y dirigentes, el cual deberán presentar para su registro ante el IETAM, a más tardar, el 10 de enero del año de la elección.
 
-II. En caso de participar en candidaturas comunes en la elección de integrantes de ayuntamientos y diputados locales, no se podrá participar en más del 33% de los municipios o distritos.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. En caso de participar en candidaturas comunes en la elección de integrantes de ayuntamientos y diputaciones locales, no se podrá participar en más del 33% de los municipios o distritos.
 
 III. El convenio de candidatura común deberá contener:
 
@@ -977,7 +1233,9 @@ a) Nombre de los partidos que la conforman, así como el tipo de elección de qu
 
 b) Emblema común de los partidos que lo conforman y el color o colores con que se participa;
 
-c) Nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar y el consentimiento, por escrito, del candidato;
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+c) Nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar y el consentimiento, por escrito, del candidato o candidata;
 
 d) La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes del candidato común;
 
@@ -985,7 +1243,9 @@ e) La forma en que se acreditarán los votos a cada uno de los partidos polític
 
 f) Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de la campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión y a los topes de gastos de campaña determinados por el Consejo General; y
 
-g) Las actas en que consten la ratificación de la candidatura común a gobernador por los comités municipales de los partidos políticos postulantes en todos los municipios de la entidad.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+g) Las actas en que consten la ratificación de la candidatura común a la gubernatura por los comités municipales de los partidos políticos postulantes en todos los municipios de la entidad.
 
 IV. Al convenio de candidatura común deberá anexársele los siguientes documentos:
 
@@ -997,11 +1257,17 @@ b) Las actas que acrediten que los órganos internos de los partidos aprobaron d
 
 V. El Consejo General, dentro de los cinco días siguientes a la presentación de la solicitud de registro del convenio de candidatura común, deberá resolver lo conducente sobre la procedencia del mismo, mandando publicar su resolución en el Periódico Oficial del Estado.
 
-VI. Los partidos políticos que postulen candidatos comunes no podrán postular candidatos propios ni de otros partidos políticos para la elección que convinieron la candidatura común.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-VII. Para los efectos de la integración de los organismos electorales, del financiamiento y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidatos comunes mantendrán su autonomía y serán responsables de sus actos.
+VI. Los partidos políticos que postulen candidatos o candidatas comunes no podrán postular candidaturas propias ni de otros partidos políticos para la elección que convinieron la candidatura común.
 
-VIII. Los votos se computarán a favor del candidato común y la distribución del porcentaje de votación será conforme al convenio de candidatura común registrado ante el Instituto.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VII. Para los efectos de la integración de los organismos electorales, del financiamiento y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidaturas comunes mantendrán su autonomía y serán responsables de sus actos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
+
+VIII. Los votos se computarán a favor del candidato o candidata común y la distribución del porcentaje de votación será conforme al convenio de candidatura común registrado ante el Instituto.
 
 En la boleta deberá aparecer en un mismo espacio el emblema conjunto de los partidos.
 
@@ -1021,9 +1287,11 @@ Son causa de pérdida de registro de un partido político, las contenidas en el 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 91.
 
-Los organismos electorales que tienen a su cargo la preparación, desarrollo y vigilancia del proceso electoral, en las elecciones de Gobernador, Diputados y Ayuntamientos, en términos de la Constitución Federal, la Constitución del Estado, la Ley General y la presente Ley, son los siguientes:
+Los organismos electorales que tienen a su cargo la preparación, desarrollo y vigilancia del proceso electoral, en las elecciones de Gubernatura, Diputaciones y Ayuntamientos, en términos de la Constitución Federal, la Constitución del Estado, la Ley General y la presente Ley, son los siguientes:
 
 I. El Consejo General y órganos del IETAM;
 
@@ -1033,49 +1301,61 @@ III. Los Consejos Municipales; y
 
 IV. Las mesas directivas de casilla.
 
-En el ejercicio de esa función estatal, por parte de los organismos electorales, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Todas las actividades de los organismos electorales se regirán por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad, paridad, y se realizarán con perspectiva de género.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 92.
 
-El Consejero Presidente y los Consejeros Electorales, así como el Secretario Ejecutivo que integran el Consejo General, los Consejeros Electorales y los Secretarios de los Consejos Distritales y Municipales, deberán rendir la protesta de guardar y hacer guardar la Constitución Federal, la Constitución del Estado y las leyes que de ellas emanen, cumplir con las normas contenidas en la presente Ley y desempeñar, leal y patrióticamente, la función que se les ha encomendado.
+La Consejera o Consejero Presidente y las Consejeras y Consejeros Electorales, así como quien encabece la Secretaría Ejecutiva que integran el Consejo General, las Consejeras y los Consejeros Electorales y quienes encabecen las Secretarías de los Consejos Distritales y Municipales, deberán rendir la protesta de guardar y hacer guardar la Constitución Federal, la Constitución del Estado y las leyes que de ellas emanen, cumplir con las normas contenidas en la presente Ley y desempeñar, leal y patrióticamente, la función que se les ha encomendado.
 
 ## TÍTULO SEGUNDO. Instituto Electoral de Tamaulipas
 
 ### CAPÍTULO I. Integración
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 93.
 
-El IETAM es un organismo público, autónomo, independiente en sus decisiones y profesional en su desempeño que tiene a cargo la función estatal de organizar las elecciones en el Estado, con excepción de lo dispuesto en el segundo párrafo del apartado C de la fracción V del artículo 41 de la Constitución Federal. Se encuentra dotado de personalidad jurídica y patrimonio propios y será integrado por ciudadanos y partidos políticos.
+El IETAM es un organismo público, autónomo, independiente en sus decisiones y profesional en su desempeño que tiene a cargo la función estatal de organizar las elecciones en el Estado, con excepción de lo dispuesto en el segundo párrafo del apartado C de la fracción V del artículo 41 de la Constitución Federal. Se encuentra dotado de personalidad jurídica y patrimonio propios y será integrado por ciudadanos, ciudadanas y partidos políticos.
 
-El Consejo General será su máximo órgano de dirección y se integrará por un Consejero Presidente y seis Consejeros Electorales con derecho a voz y voto que durarán en su encargo por un período de 7 años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del INE, por las causas graves que establezca la Ley General.
+El Consejo General será su máximo órgano de dirección y se integrará por una Consejera o Consejero Presidente y seis Consejeras y Consejeros Electorales con derecho a voz y voto que, electos y electas bajo el principio de paridad; durarán en su encargo por un período de 7 años y no podrán reelegirse; percibirán una remuneración acorde con sus funciones y podrán removerse por el Consejo General del INE, por las causas graves que establezca la Ley General.
 
-Las decisiones del Consejo General se tomarán por mayoría de votos de los Consejeros Presentes, salvo que la Ley prevea una mayoría calificada.
+Las decisiones del Consejo General se tomarán por mayoría de votos de las Consejeras y Consejeros Presentes, salvo que la Ley prevea una mayoría calificada.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 94.
 
-El Consejero Presidente y los Consejeros del Consejo General recibirán la retribución que al efecto se indique en el presupuesto de egresos del propio IETAM.
+La Consejera o el Consejero Presidente y las Consejeras y Consejeros del Consejo General recibirán la retribución que al efecto se indique en el presupuesto de egresos del propio IETAM.
 
-El Consejero Presidente y los Consejeros del IETAM, durante el tiempo de su nombramiento, no podrán, en ningún caso, aceptar o desempeñar empleo o cargo de la Federación, del Estado, Municipios o de los partidos políticos, ni aceptar cargo o empleo de particulares que implique dependencia o subordinación de carácter político.
+La Consejera o el Consejero Presidente y las Consejeras y Consejeros del IETAM, durante el tiempo de su nombramiento, no podrán, en ningún caso, aceptar o desempeñar empleo o cargo de la Federación, del Estado, Municipios o de los partidos políticos, ni aceptar cargo o empleo de particulares que implique dependencia o subordinación de carácter político.
 
-El Consejero Presidente y los Consejeros Electorales no podrán tener otro empleo, cargo o comisión, con excepción de aquellas que actúen en representación del Consejo General y los no remunerados que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia.
+La Consejera o el Consejero Presidente y las Consejeras y Consejeros del IETAM, no podrán tener otro empleo, cargo o comisión, con excepción de aquellas que actúen en representación del Consejo General y los no remunerados que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia.
 
-El Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones del Consejo General con derecho a voz. Las sesiones de los organismos electorales serán públicas.
+Quien encabece la Secretaría Ejecutiva y quienes representen a los partidos políticos concurrirán a las sesiones del Consejo General con derecho a voz. Las sesiones de los organismos electorales serán públicas.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 95.
 
-El Consejero Presidente y los Consejeros Electorales serán designados por el Consejo General del INE, conforme a los requisitos y procedimientos previstos en la Constitución Federal y en la Ley General.
+La Consejera o el Consejero Presidente y las Consejeras y Consejeros serán designados por el Consejo General del INE, conforme a los requisitos y procedimientos previstos en la Constitución Federal y en la Ley General.
 
 ###### Artículo 96.
 
 El IETAM cumplirá la función de oficialía electoral con fe pública, a través de la Secretaría Ejecutiva para actos de naturaleza electoral, de conformidad con las normas contenidas en el (sic) la Ley General, la presente Ley y demás reglamentación aplicable.
 
-En el ejercicio de la oficialía electoral, el Secretario Ejecutivo dispondrá del apoyo de funcionarios del IETAM, conforme a las bases que se establezcan en la reglamentación aplicable.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+En el ejercicio de la oficialía electoral, quien encabece la Secretaría Ejecutiva dispondrá del apoyo del funcionariado del IETAM, conforme a las bases que se establezcan en la reglamentación aplicable.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 97.
 
-El IETAM contará con un Titular del Órgano Interno de Control que será designado por el Congreso del Estado por el voto de las dos terceras partes de sus miembros presentes, en términos de lo que dispone la Constitución del Estado y la ley aplicable.
+El IETAM contará con una persona Titular del Órgano Interno de Control que será designada por el Congreso del Estado por el voto de las dos terceras partes de sus integrantes presentes, en términos de lo que dispone la Constitución del Estado y la ley aplicable.
 
 ###### Artículo 98.
 
@@ -1095,21 +1375,35 @@ I. Contribuir al desarrollo de la vida democrática;
 
 II. Preservar el fortalecimiento del régimen de partidos políticos;
 
-III. Asegurar, a los ciudadanos, el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Asegurar, a los ciudadanos y ciudadanas, el ejercicio de los derechos político-electorales y vigilar el cumplimiento de sus obligaciones;
 
 IV. Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo y Ejecutivo, así como de la totalidad de los Ayuntamientos en el Estado;
 
-V. Velar por la autenticidad y efectividad del sufragio; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-VI. Llevar a cabo la promoción del voto y coadyuvar a la difusión de la educación cívica y la cultura democrática.
+V. Velar por la autenticidad y efectividad del sufragio;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VI. Llevar a cabo la promoción del voto y coadyuvar a la difusión de la educación cívica y la cultura democrática; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VII. Garantizar la paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral.
 
 ###### Artículo 101.
 
 En términos del artículo 41, fracción V, apartado C de la Constitución Federal, corresponde al IETAM, ejercer funciones en las siguientes materias:
 
-I. Derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Educación cívica;
+I. Derechos y el acceso a las prerrogativas de los candidatos, candidatas y partidos políticos;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Desarrollar y ejecutar los programas de educación cívica en la entidad, de paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral;
 
 III. Preparación de la jornada electoral;
 
@@ -1127,7 +1421,9 @@ IX. Organización, desarrollo, cómputo y declaración de resultados en los meca
 
 X. Aplicar las disposiciones generales, reglas, lineamientos, criterios y formatos que, en ejercicio de las facultades que le confiere la Constitución Federal y la Ley General, así como la normativa que establezca el INE;
 
-XI. Orientar a los ciudadanos en la Entidad para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XI. Orientar a la ciudadanía en la Entidad para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
 
 XII. Expedir las constancias de asignación a las fórmulas de representación proporcional del Congreso del estado y la declaración de validez;
 
@@ -1137,9 +1433,15 @@ XIV. Supervisar las actividades que realicen los Consejos Distritales y Municipa
 
 XV. Ejercer la función de oficialía electoral respecto de actos o hechos exclusivamente de naturaleza electoral;
 
-XVI. Informar a la Unidad Técnica de Vinculación con los organismos públicos locales, sobre el ejercicio de las funciones que, en su caso, le hubiere delegado el INE; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XVII. Todas las no reservadas al INE.
+XVI. Informar a la Unidad Técnica de Vinculación con los organismos públicos locales, sobre el ejercicio de las funciones que, en su caso, le hubiere delegado el INE;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XVII. Garantizar el cumplimiento del principio de paridad de género, así como el respeto de los derechos políticos y electorales de las mujeres; y
+
+XVIII. Todas las no reservadas al INE.
 
 ### CAPÍTULO III. Órganos centrales
 
@@ -1163,75 +1465,101 @@ VI. Las direcciones ejecutivas.
 
 ### CAPÍTULO IV. Consejo General
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 103.
 
-El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral y de participación ciudadana, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, guíen todas las actividades del IETAM.
+El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral y de participación ciudadana, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género, guíen todas las actividades del IETAM. En su desempeño aplicará la perspectiva de género.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 104.
 
-El Consejo General se integra por un Consejero Presidente, seis Consejeros Electorales, representantes de los partidos políticos y el Secretario Ejecutivo.
+El Consejo General se integra por:
 
-Cada partido político con registro en el Estado, designará a un representante propietario y un suplente con voz pero sin voto. Los partidos políticos podrán sustituir, en todo tiempo, a sus representantes, dando con oportunidad el aviso correspondiente al Consejero Presidente del Consejo General.
+I. Una Consejera o Consejero Presidente, seis Consejeras y Consejeros Electorales, en su conformación deberá garantizarse el principio de paridad de género;
+
+II. La persona titular del Secretariado Ejecutivo, sólo con derecho a voz; y
+
+III. Una persona representante propietaria y una suplente con voz pero sin voto, que será designada por cada partido político con registro en el Estado. Los partidos políticos podrán sustituir, en todo tiempo, a sus representantes, dando con oportunidad el aviso correspondiente al Consejero Presidente del Consejo General.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 105.
 
-El Secretario del Consejo General deberá reunir los mismos requisitos que se exigen para ser Consejero Electoral, con excepción del establecido en el inciso k) del segundo párrafo del Artículo 100 de la Ley General.
+La persona titular de la Secretaría del Consejo General deberá reunir los mismos requisitos que se exigen para ser Consejero o Consejera Electoral, con excepción del establecido en el inciso k) del segundo párrafo del Artículo 100 de la Ley General.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 106.
 
-El Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo y los demás servidores públicos del IETAM, desempeñarán su función con autonomía y probidad.
+La Consejera o Consejero Presidente, las Consejeras y Consejeros Electorales, la persona titular de la Secretaría Ejecutiva y el funcionariado del IETAM, desempeñarán su función con autonomía y probidad. La Consejera o Consejero Presidente, las Consejeras y Consejeros Electorales, la persona titular de la Secretaría Ejecutiva, estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en la Constitución del Estado.
 
-El Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo, estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en la Constitución del Estado.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 107.
 
-El Presidente del Consejo General convocará a sesión ordinaria con 48 horas de anticipación a los miembros del Consejo General y a los representantes de los partidos políticos, coaliciones o, en su caso, de candidatos independientes.
-
-A convocatoria del presidente del Consejo General o a petición de la mayoría de los Consejeros Electorales se podrán celebrar sesiones extraordinarias, las cuales deberán ser convocadas, cuando menos, con 24 horas de anticipación.
-
-Para la preparación del proceso electoral, el Consejo General se reunirá el segundo domingo del mes de septiembre del año anterior a aquél en que se celebren las elecciones ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará, por lo menos, una vez al mes.
-
-Concluido el proceso, el Consejo General del IETAM sesionará, en forma ordinaria, cada 2 meses, debiendo convocar, cuando menos, con 48 horas de anticipación a la celebración de la sesión.
+La persona titular de la Presidencia del Consejo General convocará a sesión ordinaria con 48 horas de anticipación a los miembros del Consejo General y a quienes representen a los partidos políticos, coaliciones o, en su caso, de candidatos y candidatas independientes. A convocatoria (sic) la Presidenta o Presidente del Consejo General o a petición de la mayoría de los Consejeros y Consejeras Electorales se podrán celebrar sesiones extraordinarias, las cuales deberán ser convocadas, cuando menos, con 24 horas de anticipación.
 
 ###### Artículo 108.
 
 En toda convocatoria para sesión se deberán acompañar los proyectos de acuerdos, resoluciones o demás documentos que tengan relación con los puntos a tratar dentro del orden del día, para su discusión.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 109.
 
-Para que el Consejo General pueda sesionar es necesario que estén presentes al menos, 4 Consejeros. En el supuesto de que el Consejero Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo General designará a uno de los Consejeros Electorales presentes para que presida la sesión por mayoría de los presentes.
+Para que el Consejo General pueda sesionar es necesario que estén presentes al menos, 4 Consejeros y Consejeras. En el supuesto de que la Consejera o Consejero Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo General designará a uno de los Consejeros o Consejeras Electorales presentes para que presida la sesión por mayoría de los presentes.
 
-La Secretaría del Consejo General estará a cargo del Secretario Ejecutivo del IETAM. En caso de ausencia del Secretario a la sesión, sus funciones serán realizadas por alguno de los integrantes del Servicio Profesional Electoral que al efecto designe el Consejo General para esa sesión.
+La Secretaría del Consejo General estará a cargo de la persona titular de la Secretaría Ejecutiva del IETAM. En caso de ausencia de la persona titular de la Secretaría a la sesión, sus funciones serán realizadas por alguno de los integrantes del Servicio Profesional Electoral que al efecto designe el Consejo General para esa sesión.
 
-En caso de que no se reúna la mayoría a la que se refiere el párrafo primero del presente Artículo, la sesión tendrá lugar dentro de las 24 horas siguientes, con los Consejeros y representantes que asistan.
+En caso de que no se reúna la mayoría a la que se refiere el párrafo primero del presente Artículo, la sesión tendrá lugar dentro de las 24 horas siguientes, con los Consejeros, Consejeras y representantes que asistan.
 
-Los acuerdos y resoluciones se tomarán por mayoría de los integrantes del Consejo General, con excepción de los que requieran mayoría calificada. Los Consejeros podrán votar a favor o en contra del proyecto de acuerdo o resolución pudiendo emitir votos particulares o concurrentes pero, en ningún caso, podrán abstenerse, salvo en caso de acreditar excusa o impedimento legal, en términos del Artículo 113 de la Ley General. Cuando no exista pronunciamiento se contará como un voto en contra.
+Los acuerdos y resoluciones se tomarán por mayoría de los integrantes del Consejo General, con excepción de los que requieran mayoría calificada. Los Consejeros y Consejeras podrán votar a favor o en contra del proyecto de acuerdo o resolución pudiendo emitir votos particulares o concurrentes pero, en ningún caso, podrán abstenerse, salvo en caso de acreditar excusa o impedimento legal, en términos del Artículo 113 de la Ley General. Cuando no exista pronunciamiento se contará como un voto en contra.
 
 ###### Artículo 110.
 
 El Consejo General tiene las siguientes atribuciones:
 
-I. Designar, a propuesta del Consejero Presidente, por mayoría simple, al Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Designar, a propuesta del Consejero Presidente, por mayoría simple, a los directores ejecutivos y de administración;
+I. Designar, a propuesta de la Consejera o Consejero Presidente, por mayoría simple, a la persona titular de la Secretaría Ejecutiva;
 
-III. Designar, a propuesta del Consejero Presidente, por mayoría simple, al titular de la Unidad de Fiscalización;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Designar, a propuesta de la Consejera o Consejero Presidente, por mayoría simple, a las personas titulares de las direcciones ejecutivas y de administración;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Designar, a propuesta de la Consejera o Consejero Presidente, por mayoría simple, a la persona titular de la Unidad de Fiscalización;
 
 IV. Aprobar y expedir los reglamentos interiores necesarios para el debido ejercicio de las facultades y atribuciones del IETAM, así como los Consejos Distritales y Municipales, en su caso;
 
-V. Vigilar la oportuna integración y adecuado funcionamiento de los órganos del IETAM, y conocer, por conducto de su presidente, del secretario ejecutivo o de sus comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General estime necesario solicitarles;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-VI. Designar, en caso de ausencia del Secretario Ejecutivo, de entre los integrantes del Servicio Profesional Electoral, a la persona que fungirá como Secretario del Consejo General en la sesión respectiva;
+V. Vigilar la oportuna integración y adecuado funcionamiento de los órganos del IETAM, y conocer, por conducto de su presidente o presidenta, de la persona titular de la secretaría ejecutiva o de sus comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General estime necesario solicitarles;
 
-VII. Designar a los funcionarios que durante los procesos electorales actuarán como Presidentes y Consejeros de los Consejos Distritales y Municipales para su oportuna integración, instalación y funcionamiento;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VI. Designar, en caso de ausencia de la persona titular de la Secretaría Ejecutiva, de entre quienes integran el Servicio Profesional Electoral, a la persona que fungirá como titular de la Secretaría del Consejo General en la sesión respectiva;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VII. Designar a las personas que para cada proceso electoral actuarán como Presidentas y Presidentes, Consejeras y Consejeros de los Consejos Distritales y Municipales para su oportuna integración, instalación y funcionamiento. Los Consejos Municipales se integrarán, instalarán y funcionarán sólo para las elecciones de Ayuntamientos;
 
 VIII. Resolver sobre los convenios de fusión, frente y coalición que celebren los partidos políticos estatales, así como sobre los acuerdos de participación que efectúen las agrupaciones políticas con los partidos políticos;
 
-IX. Vigilar que las actividades de los partidos políticos, precandidatos, candidatos y las agrupaciones políticas se desarrollen con apego a la Ley y cumplan con las obligaciones a que están sujetos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-X. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidatos, en términos de la Ley de Partidos y la presente Ley;
+IX. Vigilar que las actividades de los partidos políticos, precandidatas y precandidatos, candidatas y candidatos, y de las agrupaciones políticas, se desarrollen con apego a la Ley y cumplan con las obligaciones a que están sujetos;
 
-XI. Garantizar la ministración oportuna del financiamiento público a que tienen derecho los partidos políticos y, en su caso, a los candidatos independientes;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+X. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos, candidatos y candidatas, en términos de la Ley de Partidos y la presente Ley;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XI. Garantizar la ministración oportuna del financiamiento público a que tienen derecho los partidos políticos y, en su caso, a los candidatos y candidatas independientes;
 
 XII. Resolver, en los términos de esta Ley, el otorgamiento del registro a los partidos políticos y a las agrupaciones políticas estatales, así como sobre la cancelación de los mismos;
 
@@ -1241,25 +1569,35 @@ XIV. Resolver sobre el registro de la plataforma electoral que para cada proceso
 
 XV. Expedir el reglamento interno, el reglamento de sesiones del IETAM y el de los Consejos Electorales;
 
-XVI. Resolver sobre el registro de candidaturas a Gobernador y a Diputados por el principio de representación proporcional, así como de Diputados por el principio de mayoría relativa y Ayuntamientos, en su caso;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XVI. Resolver sobre el registro de candidaturas a la Gubernatura y Diputaciones por el principio de representación proporcional, así como de Diputaciones por el principio de mayoría relativa y Ayuntamientos, en su caso;
 
 XVII. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral;
 
-XVIII. Efectuar el cómputo total de la elección de Diputados por el principio de representación proporcional, la declaración de validez y determinando para tal efecto la asignación de Diputados para cada partido político, otorgar las constancias respectivas, en los términos de esta Ley, a más tardar el día 30 de junio del año de la elección;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XIX. Informar al Poder Legislativo sobre el otorgamiento de las constancias de asignación de Diputados electos por el principio de representación proporcional, así como de los medios de impugnación interpuestos;
+XVIII. Efectuar el cómputo total de la elección de Diputaciones por el principio de representación proporcional, la declaración de validez y determinando para tal efecto la asignación de Diputaciones para cada partido político, otorgar las constancias respectivas, en los términos de esta Ley, a más tardar el día 30 de junio del año de la elección;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XX. Conocer los informes que anual y trimestralmente, rinda por el Secretario Ejecutivo del IETAM, así como los que, en su caso, deba rendir el Órgano Interno de Control;
+XIX. Informar al Poder Legislativo sobre el otorgamiento de las constancias de asignación de Diputaciones electas por el principio de representación proporcional, así como de los medios de impugnación interpuestos;
 
-XXI. Aprobar, anualmente y a más tardar la última semana del mes de agosto, el anteproyecto de presupuesto del IETAM que proponga el Presidente del Consejo General y remitirlo al Titular del Ejecutivo del Estado para su inclusión en el proyecto de Presupuesto de Egresos del Estado, el cual incluirá el financiamiento de los partidos políticos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XX. Conocer los informes que anual y trimestralmente, rinda por la persona titular de la Secretaría Ejecutiva del IETAM, así como los que, en su caso, deba rendir el Órgano Interno de Control;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXI. Aprobar, anualmente y a más tardar la última semana del mes de septiembre, el anteproyecto de presupuesto del IETAM que proponga la Presidenta o el Presidente del Consejo General y remitirlo a la persona Titular del Ejecutivo del Estado para su inclusión en el proyecto de Presupuesto de Egresos del Estado, el cual incluirá el financiamiento de los partidos políticos;
 
 XXII. Conocer de las infracciones y, en su caso, imponer las sanciones que correspondan, en los términos previstos en esta Ley;
 
 XXIII. Fijar las políticas y los programas generales del IETAM;
 
-XXIV. Nombrar, de entre los Consejeros Electorales propietarios del Consejo General, a quien deba sustituir, provisionalmente, al Consejero Presidente, en caso de ausencia definitiva, debiendo de informar al INE para los efectos conducentes, en términos de los párrafos 3 y 4 del artículo 101 de la Ley General;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXIV. Nombrar, de entre los Consejeros y Consejeras Electorales propietarios del Consejo General, a quien deba sustituir, provisionalmente, al Consejero Presidente, en caso de ausencia definitiva, debiendo de informar al INE para los efectos conducentes, en términos de los párrafos 3 y 4 del artículo 101 de la Ley General;
 
 XXV. Difundir la integración de los Consejos Distritales y Municipales;
 
@@ -1271,19 +1609,27 @@ XXVIII. Recabar y distribuir las listas nominales entre los Consejos Distritales
 
 XXIX. Proporcionar a los demás organismos electorales, la documentación, las formas que apruebe para las actas del proceso y los recursos necesarios para el cumplimiento de sus funciones;
 
-XXX. Designar a los Secretarios de los Consejos Distritales y Municipales, a propuesta de los Presidentes de los propios organismos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XXXI. Integrar las comisiones permanentes y, en su caso, especiales, por el voto, de cuando menos, 5 de sus integrantes;
+XXX. Designar a los Secretarios y Secretarias de los Consejos Distritales y Municipales, a propuesta de los Presidentes y Presidentas de los propios organismos;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXXI. Integrar las comisiones permanentes y, en su caso, especiales, por el voto, de cuando menos, 5 de sus integrantes, observando el principio de paridad de género;
 
 XXXII. Aprobar, conforme a las disposiciones de esta Ley, el calendario de ministraciones para la entrega de su financiamiento público;
 
-XXXIII. Informar al Congreso del Estado sobre el otorgamiento de las constancias de mayoría y asignación de Diputados; así como de las impugnaciones recibidas que guarden relación con motivo de los resultados, declaraciones de validez, expedición de constancias de mayoría, y asignaciones de las elecciones de Diputados y de Gobernador;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXXIII. Informar al Congreso del Estado sobre el otorgamiento de las constancias de mayoría y asignación de Diputaciones; así como de las impugnaciones recibidas que guarden relación con motivo de los resultados, declaraciones de validez, expedición de constancias de mayoría, y asignaciones de las elecciones de Diputaciones y Gubernatura;
 
 XXXIV. Difundir, ampliamente, las modificaciones a los plazos y términos del proceso, a más tardar dentro de los 5 días siguientes a la fecha de su aprobación;
 
 XXXV. Asumir las funciones de los Consejos Distritales y Municipales, cuando por causas imprevistas o de fuerza mayor no puedan integrarse, instalarse o ejercer las mismas en las fechas que establece la presente Ley, cuando sea determinante para que pueda efectuarse la jornada electoral o el cómputo respectivo, mediante la votación de al menos 5 de sus integrantes;
 
-XXXVI. Resolver sobre el registro o sustitución y la cancelación del registro de candidatos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXXVI. Resolver sobre el registro o sustitución y la cancelación del registro de candidaturas;
 
 XXXVII. Otorgar las autorizaciones necesarias para la participación de los observadores electorales, en términos de la Ley General;
 
@@ -1305,17 +1651,23 @@ XLV. Apoyar la realización y difusión de debates públicos, cuando lo solicite
 
 XLVI. Dar curso a las solicitudes de participación ciudadana, atendiendo lo establecido por la Constitución del Estado y la ley aplicable, sustanciando los procedimientos de las figuras de participación ciudadana;
 
-XLVII. Emitir los acuerdos que garanticen a los ciudadanos con discapacidad, el ejercicio del sufragio, comprendiendo procedimientos de aspectos de accesibilidad, comunicación, capacitación y difusión;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XLVII. Emitir los acuerdos que garanticen a los ciudadanos y ciudadanas con discapacidad, el ejercicio del sufragio, comprendiendo procedimientos de aspectos de accesibilidad, comunicación, capacitación y difusión;
 
 XLVIII. Aprobar la forma e imprimir los documentos y producir los materiales electorales, en términos de los lineamientos que para tal efecto emita el INE, en su caso;
 
 XLIX. Resolver sobre la solicitud de algún partido político Estatal, respecto de la organización de la elección de sus dirigentes, con cargo a sus prerrogativas, en los términos que establezca la Ley General, la Ley de Partidos y la presente Ley;
 
-L. Llevar a cabo el cómputo de la elección de Gobernador, la declaración de validez y la entrega de la constancia respectiva;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+L. Llevar a cabo el cómputo de la elección de la Gubernatura, la declaración de validez y la entrega de la constancia respectiva;
 
 LI. Invitar y acordar las bases y criterios en que habrá de atenderse e informar a los visitantes extranjeros que acudan a conocer las modalidades del desarrollo del proceso electoral, en cualquiera de sus etapas;
 
-LII. Organizar dos debates obligatorios entre todos los candidatos a Gobernador y promover la celebración de debates entre candidatos a Diputados locales, Presidentes Municipales y otros cargos de elección popular, en términos de la Ley General;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+LII. Organizar dos debates obligatorios entre todos los candidatos y candidatas a la Gubernatura y promover la celebración de debates entre candidatos y candidatas a Diputaciones locales, Presidencias Municipales y otros cargos de elección popular, en términos de la Ley General;
 
 LIII. Dar oportuno aviso a las estaciones de radio y televisión permisionarias públicas y comerciales para la transmisión de los debates señalados en la fracción anterior, mismos que tendrán la obligación de transmitir en vivo;
 
@@ -1325,13 +1677,17 @@ LV. Resolver peticiones sobre el derecho de réplica, en términos de la present
 
 LVI. Desarrollar y ejecutar los programas de educación cívica;
 
-LVII. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+LVII. Orientar a la ciudadanía para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
 
 LVIII. Acordar en los términos que dispone el artículo 251 de esta ley, con los Ayuntamientos la utilización de determinados elementos del equipamiento urbanos, que sean propiedad de los municipios, y que no se encuentren concesionados, para la colocación de propaganda reciclable en las dimensiones que se especifiquen en el convenio respectivo; la asignación de dichos espacios se sorteará entre los partidos políticos que participen en la campaña respectiva;
 
 LIX. Implementar y operar el programa de resultados electorales preliminares de las elecciones, de conformidad con las reglas, lineamientos, criterios y formatos que para tal efecto emita el INE;
 
-LX. Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral, de acuerdo la Ley General y con los lineamientos y criterios que emita el INE;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+LX. Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos y ciudadanas a realizar labores de observación electoral, de acuerdo (sic) la Ley General y con los lineamientos y criterios que emita el INE;
 
 LXI. Informar a la Unidad Técnica de Vinculación con los organismos públicos locales, sobre el ejercicio de las funciones que, en su caso, le delegue el INE, conforme a lo previsto en la Ley General y la presente Ley;
 
@@ -1347,21 +1703,49 @@ LXVI. Suscribir convenios con el INE para la organización de las elecciones loc
 
 LXVII. Dictar los acuerdos y reglamentación necesarios para hacer efectivas sus atribuciones;
 
-LXVIII. Resolver sobre peticiones y consultas que sometan los ciudadanos, los candidatos, los partidos políticos y, en su caso, las coaliciones, relativas a la integración y funcionamiento de los organismos electorales, al desarrollo del proceso y demás asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-LXIX. Las demás que le señalen la presente Ley y demás disposiciones aplicables.
+LXVIII. Resolver sobre peticiones y consultas que sometan las ciudadanas y ciudadanos, las candidatas y candidatos, los partidos políticos y, en su caso, las coaliciones, relativas a la integración y funcionamiento de los organismos electorales, al desarrollo del proceso y demás asuntos de su competencia;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+LXIX. Remover a las Presidentas y Presidentes, a las Consejeras y Consejeros de los Consejos Distritales y Municipales, conforme al procedimiento establecido en la normativa del IETAM;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+LXX. A propuesta de la Presidenta o Presidente del Consejo General, determinar el número de direcciones ejecutivas, direcciones de área y unidades técnicas que sean necesarias para el cumplimiento de las atribuciones del IETAM, disminuyéndolas o incrementándolas. En caso de adición, las atribuciones se establecerán en el reglamento interior;
+
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN LXXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+LXXI. A PROPUESTA DE LA PRESIDENTA O PRESIDENTE DEL CONSEJO GENERAL, DETERMINAR LA CREACIÓN DE OFICINAS MUNICIPALES CUANDO SE REQUIERA, ATENDIENDO AL TIPO DE ELECCIÓN QUE SE LLEVARÁ A CABO, MISMAS QUE FUNCIONARÁN UN MES ANTES Y UN MES DESPUÉS DEL DÍA DE LA JORNADA ELECTORAL, LOS PARTIDOS PODRÁN ACREDITAR UN REPRESENTANTE PARA TODO TIPO DE ACTUACIONES ANTE DICHAS OFICINAS MUNICIPALES;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+LXXII. Acordar en su caso, los órganos desconcentrados encargados de la distribución de la documentación, formas aprobadas y útiles necesarios para las mesas directivas de casillas, atendiendo al tipo de elección de que se trate; y
+
+LXXIII. Las demás que le señalen la presente Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 111.
 
-Los Consejeros electorales integrantes del Consejo General tienen, entre otras, las siguientes obligaciones:
+Los Consejeros y consejeras electorales integrantes del Consejo General tienen, entre otras, las siguientes obligaciones:
 
-I. Conducirse de manera respetuosa con los partidos políticos y candidatos, con sus pares del Consejo General, con el Secretario Ejecutivo, con los Directores Ejecutivos y de área, así como con todo el personal que labora en el IETAM;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. Conducirse de manera respetuosa con los partidos políticos, candidatos y candidatas, con sus pares del Consejo General, con la persona titular de la Secretaría Ejecutiva, con las personas titulares de las Direcciones Ejecutivas y de área, así como con todo el personal que labora en el IETAM;
 
 II. Imponerse, con la debida antelación, del contenido de los asuntos a tratar en el orden del día de las sesiones del Consejo General;
 
-III. Utilizar el conducto del Secretario Ejecutivo para los asuntos en los que requieran apoyo del personal del IETAM, debiendo esto estar derivado de las tareas de las comisiones o de su competencia como integrantes del Consejo General;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-IV. El Secretario Ejecutivo atenderá estas comunicaciones y será el conducto para asignar tareas, con apego a la ley, al personal del IETAM respecto de las solicitudes de los Consejeros;
+III. Utilizar el conducto de la Secretaría Ejecutiva para los asuntos en los que requieran apoyo del personal del IETAM, debiendo esto estar derivado de las tareas de las comisiones o de su competencia como integrantes del Consejo General;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. La persona titular de la Secretaría Ejecutiva atenderá estas comunicaciones y será el conducto para asignar tareas, con apego a la ley, al personal del IETAM respecto de las solicitudes de los Consejeros y las Consejeras;
 
 V. Guardar la debida reserva de los asuntos de su competencia que no sean susceptibles de ser divulgados en razón de su estado procesal o de la protección de datos y la privacidad de las personas;
 
@@ -1371,9 +1755,11 @@ VII. Las demás que deriven de las leyes aplicables.
 
 ### CAPÍTULO V. Presidencia del Consejo General
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 112.
 
-Corresponden al Consejero Presidente del Consejo General, las atribuciones siguientes:
+Corresponden (sic) la Consejera o Consejero Presidente del Consejo General, las atribuciones siguientes:
 
 I. Representar legalmente al IETAM;
 
@@ -1385,13 +1771,19 @@ IV. Convocar y conducir las sesiones del Consejo General;
 
 V. Vigilar y, en su caso, ejecutar el cumplimiento de los acuerdos adoptados por el propio Consejo General;
 
-VI. Proponer al Consejo General a los Directores Ejecutivos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-VII. Proponer al Consejo General el nombramiento del Secretario Ejecutivo;
+VI. Proponer al Consejo General a las personas titulares de las Direcciones Ejecutivas;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VII. Proponer al Consejo General el nombramiento de la persona titular de la Secretaría Ejecutiva;
 
 VIII. Proponer, anualmente, al Consejo General, el anteproyecto de presupuesto del IETAM para su aprobación;
 
-IX. Remitir al titular del Poder Ejecutivo, el proyecto de presupuesto del IETAM aprobado por el Consejo General, en los términos de la ley de la materia;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IX. Remitir a la persona titular del Poder Ejecutivo, el proyecto de presupuesto del IETAM aprobado por el Consejo General, en los términos de la ley de la materia;
 
 X. Dar a conocer la estadística electoral, por Sección, Municipio y Distrito, una vez concluido el proceso electoral;
 
@@ -1399,9 +1791,13 @@ XI. Someter al Consejo General, las propuestas para la creación de nuevas direc
 
 XII. Ordenar, en su caso, la publicación en el Periódico Oficial del Estado, los acuerdos y resoluciones que pronuncie el Consejo General;
 
-XIII. Turnar a las comisiones, los asuntos que les correspondan; asimismo, recibir del titular del órgano de control interno, los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del organismo, a fin de que sean aprobados por el Consejo General y, en su caso, la aplicación de las sanciones que correspondan;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XIV. Firmar, junto con el Secretario, las actas, acuerdos y resoluciones que emita el IETAM;
+XIII. Turnar a las comisiones, los asuntos que les correspondan; asimismo, recibir de la persona titular del órgano de control interno, los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del organismo, a fin de que sean aprobados por el Consejo General y, en su caso, la aplicación de las sanciones que correspondan;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XIV. Firmar, junto con la persona titular de la Secretaría, las actas, acuerdos y resoluciones que emita el IETAM;
 
 XV. Ordenar la publicación de la información a la que hacen referencia la legislación en materia de transparencia, de la totalidad de los Consejos Distritales y Municipales Electorales; y
 
@@ -1409,43 +1805,65 @@ XVI. Las demás que le confiera la presente Ley y reglamentación aplicable.
 
 ### CAPÍTULO VI. Secretaría del Consejo General
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 113.
 
-Corresponde al Secretario Ejecutivo del Consejo General:
+Corresponde a la persona titular de la Secretaría Ejecutiva del Consejo General:
 
 I. Representar legalmente al IETAM;
 
-II. Asistir a las sesiones del Consejo General, del cual fungirá como Secretario del mismo, con voz pero sin voto; en caso de ausencia del Secretario a la sesión, sus funciones serán realizadas por el funcionario del IETAM que al efecto designe el Consejo General para esa sesión. Esta regla se aplicará en lo conducente, también en el caso de los Consejos Distritales y Municipales;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-III. Auxiliar al propio Consejo en las sesiones y a su Presidente en el ejercicio de sus atribuciones, cumpliendo sus instrucciones;
+II. Asistir a las sesiones del Consejo General, del cual fungirá como Secretaria o Secretario del mismo, con voz pero sin voto; en caso de ausencia de la persona titular de la Secretaría Ejecutiva a la sesión, sus funciones serán realizadas por la persona del IETAM que al efecto designe el Consejo General para esa sesión. Esta regla se aplicará en lo conducente, también en el caso de los Consejos Distritales y Municipales;
 
-IV. Preparar el orden del día de las sesiones, declarar la existencia del quórum, someter al conocimiento y, en su caso, a la aprobación del Consejo General, los asuntos de su competencia; dar fe de lo actuado en las sesiones, levantar el acta correspondiente, someterla a la aprobación de los Consejeros presentes y autorizarla;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Auxiliar al propio Consejo en las sesiones y a la Presidenta o Presidente en el ejercicio de sus atribuciones, cumpliendo sus instrucciones;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. Preparar el orden del día de las sesiones, declarar la existencia del quórum, someter al conocimiento y, en su caso, a la aprobación del Consejo General, los asuntos de su competencia; dar fe de lo actuado en las sesiones, levantar el acta correspondiente, someterla a la aprobación de las Consejeras y los Consejeros presentes y autorizarla;
 
 V. Dar cuenta con los proyectos de dictamen y resoluciones;
 
 VI. Dar cumplimiento a los acuerdos del Consejo General e informar a este al respecto;
 
-VII. Orientar y coordinar las acciones de las direcciones ejecutivas y de los Consejos Distritales y Municipales del IETAM, informando permanentemente al Presidente del Consejo;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VII. Orientar y coordinar las acciones de las direcciones ejecutivas y de los Consejos Distritales y Municipales del IETAM, informando permanentemente a la Presidenta o Presidente del Consejo;
 
 VIII. Recibir y dar el trámite previsto en la presente Ley, a los medios de impugnación que se interpongan en contra de los actos, acuerdos, omisiones o resoluciones del IETAM, informando al Consejo General le sobre los mismos en la sesión inmediata posterior;
 
 IX. Informar al Consejo General de las resoluciones dictadas por el Tribunal Estatal y el Tribunal Federal que recaigan a controversias derivadas de actos y resoluciones de su competencia o cuyo cumplimiento lo obligue;
 
-X. Llevar el archivo del IETAM;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XI. Expedir los documentos que acrediten la personalidad de los Consejeros y de los representantes de los partidos políticos, coaliciones y candidatos independientes;
+X. Coordinar las actividades en materia de archivo institucional;
 
-XII. Firmar, junto con el presidente del Consejo General, todos los acuerdos y resoluciones que emita el IETAM;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XI. Expedir los documentos que acrediten la personalidad de las Consejeras y Consejeros y de las representaciones de los partidos políticos, coaliciones y candidaturas independientes;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XII. Firmar, junto con la Presidenta o Presidente del Consejo General, todos los acuerdos y resoluciones que emita el IETAM;
 
 XIII. Proveer lo necesario para que se publiquen los acuerdos y resoluciones que pronuncie el Consejo General;
 
-XIV. Elaborar anualmente, de acuerdo con las disposiciones jurídicas aplicables, el anteproyecto de presupuesto del IETAM para someterlo a la consideración del Presidente del Consejo General;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XV. Presentar al Consejo General las propuestas para Consejeros Electorales de los Consejos Distritales y Municipales, que hayan formulado los Consejeros Electorales;
+XIV. Elaborar anualmente, de acuerdo con las disposiciones jurídicas aplicables, el anteproyecto de presupuesto del IETAM para someterlo a la consideración de la Presidenta o Presidente del Consejo General;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XV. Presentar al Consejo General las propuestas para Consejeras y Consejeros Electorales de los Consejos Distritales y Municipales, que hayan formulado las Consejeras y Consejeros Electorales;
 
 XVI. Expedir las certificaciones que en el ámbito de sus atribuciones se requieran;
 
-XVII. Conducir la administración y supervisar el desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del IETAM, así como ser el conducto, cuando así proceda, para que el personal del IETAM apoye a una Comisión o Consejero en alguna tarea determinada estableciendo, para cada tarea específica a asignar, los alcances temporales, espaciales, así como la modalidad, velando en todo momento por la alineación de las tareas y la competencia legal;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XVII. Conducir la administración y supervisar el desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del IETAM, así como ser el conducto, cuando así proceda, para que el personal del IETAM apoye a una Comisión, Consejero o Consejera en alguna tarea determinada estableciendo, para cada tarea específica a asignar, los alcances temporales, espaciales, así como la modalidad, velando en todo momento por la alineación de las tareas y la competencia legal;
 
 XVIII. Llevar los libros de registro de los asuntos del IETAM;
 
@@ -1459,9 +1877,11 @@ XXII. Ser el conducto para distribuir y turnar a las direcciones ejecutivas los 
 
 XXIII. Recibir, para turno al Consejo General, los informes de las direcciones ejecutivas y de las demás áreas del IETAM;
 
-XXIV. Expedir los documentos que acrediten la personalidad de los Consejeros y de los representantes de los partidos políticos;
+XXIV. (DEROGADA, P.O. 13 DE JUNIO DE 2020)
 
-XXV. Proponer al Consejo General o al Presidente, según corresponda, los procedimientos administrativos, conforme a las políticas y programas generales del IETAM;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXV. Proponer al Consejo General o al Presidente o Presidenta, según corresponda, los procedimientos administrativos, conforme a las políticas y programas generales del IETAM;
 
 XXVI. Dar vista al ministerio público cuando se tenga conocimiento o presuma la actualización de algún delito;
 
@@ -1469,45 +1889,73 @@ XXVII. Dar cuenta al Consejo General con los informes que sobre las elecciones r
 
 XXVIII. Recibir, para efectos de información y estadística electorales, copias de los expedientes de todas las elecciones;
 
-XXIX. Informar a los Consejos Distritales o Municipales correspondientes sobre la recepción y resolución de las solicitudes de registro de candidatos presentadas ante el IETAM;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XXX. Coadyuvar con los Consejos Distritales para la oportuna remisión de la documentación necesaria para la asignación de Diputados por el principio de representación proporcional y de Gobernador;
+XXIX. Informar a los Consejos Distritales o Municipales correspondientes sobre la recepción y resolución de las solicitudes de registro de candidaturas presentadas ante el IETAM;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXX. Coadyuvar con los Consejos Distritales para la oportuna remisión de la documentación necesaria para la asignación de Diputaciones por el principio de representación proporcional y de Gobernador;
 
 XXXI. Mantener constante comunicación con los Consejos Distritales y Municipales para el mejor desempeño de sus funciones;
 
-XXXII. Vigilar que se reciban los paquetes electorales y los expedientes de la elección de Gobernador, remitidos por los Consejos Distritales, resguardándolos bajo inventario para efecto de que el Consejo General realice el escrutinio y cómputo estatal de dicha elección;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXXII. Vigilar que se reciban los paquetes electorales y los expedientes de la elección de Gubernatura, remitidos por los Consejos Distritales, resguardándolos bajo inventario para efecto de que el Consejo General realice el escrutinio y cómputo estatal de dicha elección;
 
 XXXIII. Vigilar que los Consejos Electorales cuenten con los recursos necesarios para el cumplimiento de sus funciones;
 
-XXXIV. Ejercer y atender, oportunamente, la función de oficialía electoral, por sí o por conducto de los Secretarios de los Consejos Electorales u otros servidores públicos del IETAM en los que delegue dicha función, respecto de actos o hechos exclusivamente de naturaleza electoral;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XXXV. Apoyar la realización de los estudios o procedimientos pertinentes, a fin de conocer las tendencias electorales el día de la jornada electoral, cuando así lo ordene el Consejero Presidente;
+XXXIV. Ejercer y atender, oportunamente, la función de oficialía electoral, por sí o por conducto de los Secretarios y las Secretarias de los Consejos Electorales u otros servidores públicos del IETAM en los que delegue dicha función, respecto de actos o hechos exclusivamente de naturaleza electoral;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXXV. Apoyar la realización de los estudios o procedimientos pertinentes, a fin de conocer las tendencias electorales el día de la jornada electoral, cuando así lo ordene la Consejera o Consejero Presidente;
 
 XXXVI. Preparar, para la aprobación del Consejo General, el proyecto de calendario integral de los procesos electorales ordinarios y, en su caso, extraordinarios, que se sujetarán a la convocatoria respectiva;
 
-XXXVII. Nombrar al titular de la Dirección del Secretariado, al Director de Asuntos Jurídicos, así como al titular de la Unidad de Enlace con el Servicio Profesional Electoral Nacional;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XXXVIII. Coordinar las acciones para dar cumplimiento a las obligaciones en materia de transparencia y asignar responsabilidades al efecto a la Direcciones Jurídica, Jurídico-Electoral y del Secretariado; y
+XXXVII. Nombrar a la persona titular de la Dirección del Secretariado, de la Dirección de Asuntos Jurídicos, así como al titular de la Unidad de Enlace con el Servicio Profesional Electoral Nacional;
 
-XXXIX. Las demás que le confieran esta Ley, otras disposiciones relativas, el Consejo General y su Presidente.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXXVIII. Coordinar las acciones para dar cumplimiento a las obligaciones en materia de transparencia y asignar responsabilidades al efecto a las Direcciones Jurídica, Jurídico-Electoral y del Secretariado; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XXXIX. Las demás que le confieran esta Ley, otras disposiciones relativas, el Consejo General y la Consejera Presidenta o Consejero Presidente.
 
 ###### Artículo 114.
 
 La Secretaría Ejecutiva coordinará directamente la Dirección Ejecutiva de Asuntos Jurídico-Electorales, la cual, entre otras atribuciones, será competente para la tramitación de los medios de impugnación y la instrucción y substanciación de los procedimientos sancionadores, en términos de la presente Ley y las demás aplicables.
 
-En el ejercicio de la función de oficialía electoral, el Secretario Ejecutivo, los Secretarios de los Consejos Electorales, así como los demás funcionarios en quien se delegue esta función, tendrán las siguientes atribuciones, las cuales deberán realizarlas de manera oportuna:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
 
-I. A petición de los partidos políticos, coaliciones o candidatos independientes, de manera expedita, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales locales;
+En el ejercicio de la función de oficialía electoral, la persona titular de la Secretaría Ejecutiva, las personas titulares de las Secretarías de los Consejos Electorales, así como el funcionariado en quien se delegue esta responsabilidad, tendrán las siguientes atribuciones, las cuales deberán realizarlas de manera oportuna:
 
-II. A petición de los Consejeros Electorales del Consejo General o de los Consejos Electorales, constatar hechos que influyan o afecten la organización de los procesos electorales;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-III. Solicitar la colaboración de los Notarios Públicos para el auxilio de la función electoral, durante el desarrollo de la jornada electoral en los procesos locales; y
+I. A petición de los partidos políticos, coaliciones, candidatas o candidatos independientes, de manera expedita, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales locales;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. A petición de los Consejeros y Consejeras Electorales del Consejo General o de los Consejos Electorales, constatar hechos que influyan o afecten la organización de los procesos electorales;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Solicitar la colaboración del notariado público para el auxilio de la función electoral, durante el desarrollo de la jornada electoral en los procesos locales; y
 
 IV. Los demás que determine el Consejo General.
 
-Asimismo, la Secretaría Ejecutiva contará con una Dirección de Asuntos Jurídicos que atendrá todas cuestiones jurídicas del IETAM que no tengan relación con la materia electoral, tales como asuntos civiles, penales, administrativos, laborales, entre otros, así como los asuntos contenciosos. El titular de esa Dirección será nombrado por el Secretario Ejecutivo.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-Esta dirección coadyuvará con la Dirección Ejecutiva de Asuntos Jurídico-Electorales, cuando el Secretario Ejecutivo lo instruya.
+Asimismo, la Secretaría Ejecutiva contará con una Dirección de Asuntos Jurídicos que atendrá (sic) todas cuestiones jurídicas del IETAM que no tengan relación con la materia electoral, tales como asuntos civiles, penales, administrativos, laborales, entre otros, así como los asuntos contenciosos. La persona titular de esa Dirección será nombrada por la persona titular de la Secretaría Ejecutiva.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Esta dirección coadyuvará con la Dirección Ejecutiva de Asuntos Jurídico-Electorales, cuando la persona titular de la Secretaría Ejecutiva lo instruya.
 
 ### CAPÍTULO VII. Comisiones permanentes y especiales
 
@@ -1525,45 +1973,59 @@ II. Comisión para los Procedimientos Administrativos Sancionadores;
 
 III. Comisión de Prerrogativas, Partidos y Agrupaciones;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-IV. Comisión de Organización Electoral; y
+IV. Comisión de Organización Electoral;
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-V. Comisión de Igualdad de Género.
+V. Comisión de Igualdad de Género y no Discriminación; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VI. Comisión de Seguimiento al Servicio Profesional Electoral Nacional del Instituto Electoral de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 116.
 
-Cada comisión permanente estará integrada por 5 Consejeros nombrados por el Consejo General mediante la aprobación de, cuando menos, 5 votos y una vez integradas, de entre los integrantes de cada Comisión elegirá al Consejero que ocupará el cargo de Presidente de la misma.
+Cada comisión permanente estará integrada por un mínimo de 3 y un máximo de 5 Consejeras y Consejeros nombrados por el Consejo General privilegiando el principio de paridad de género, mediante la aprobación de, cuando menos, 5 votos y una vez integradas, de entre los integrantes de cada Comisión elegirá a la Consejera o al Consejero que ocupará la Presidencia de la misma.
 
-La integración de las comisiones podrá ser modificada mediante el voto de, cuando menos, 5 votos de los integrantes del Consejo General.
+La integración de las comisiones podrá ser modificada mediante el voto de, cuando menos, 5 votos de las Consejeras y los Consejeros integrantes del Consejo General.
 
-Los Consejeros Electorales podrán participar hasta en 3 de las comisiones antes mencionadas, procurando siempre la participación en igualdad de condiciones y de manera equitativa.
+Las Consejeras y Consejeros Electorales participarán en las comisiones establecidas en el artículo que antecede, procurando siempre la participación en igualdad de condiciones y de manera equitativa. El Consejo General emitirá el Reglamento aplicable a la integración y funcionamiento de las Comisiones permanentes y especiales.
 
 ###### Artículo 117.
 
 Las comisiones permanentes sesionarán, por lo menos, una vez al mes; en las sesiones participarán los representantes de los partidos políticos, con derecho a voz, con excepción de la Comisión para los Procedimientos Administrativos Sancionadores.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 118.
 
-Las comisiones permanentes contarán con un Secretario Técnico que será el Director del Secretariado, o quien éste designe. La función de Secretaría Técnica de las comisiones tiene por objeto elaborar la minuta de las discusiones y los acuerdos que se tomen en las comisiones.
+Las comisiones permanentes contarán con una Secretaría Técnica que será la persona titular de la Dirección del Secretariado, o quien ésta designe. La función de Secretaría Técnica de las comisiones tiene por objeto elaborar la minuta de las discusiones y los acuerdos que se tomen en las comisiones.
 
-El titular de la Dirección Ejecutiva correspondiente asistirá a las sesiones de la comisión sólo con derecho de voz. Sus opiniones y recomendaciones técnicas deberán asentarse en las minutas que se elaboren. La asistencia del titular de la Dirección Ejecutiva correspondiente no implica, en sentido alguno, relación jerárquica de subordinación respecto de la comisión, ya que el conducto para coadyuvar con las comisiones es el Secretario Ejecutivo.
+La persona titular de la Dirección Ejecutiva correspondiente asistirá a las sesiones de la comisión sólo con derecho de voz. Sus opiniones y recomendaciones técnicas deberán asentarse en las minutas que se elaboren. La asistencia de la persona titular de la Dirección Ejecutiva correspondiente no implica, en sentido alguno, relación jerárquica de subordinación respecto de la comisión, ya que el conducto para coadyuvar con las comisiones es la persona titular de la Secretaría Ejecutiva.
 
 ###### Artículo 119.
 
 Las comisiones del Consejo General y sus integrantes conocerán y atenderán los asuntos que el propio Consejo General les asigne. Las acciones y proyectos planeados en una comisión guardarán relación con el objeto de la misma y deben ser conocidos justificados y aprobados por el Consejo General.
 
-Los trabajos de las comisiones serán apoyados por el personal adscrito a las distintas áreas ejecutivas del IETAM en términos de lo que ordene el Consejo General a través del Secretario Ejecutivo.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-En caso de que algún Consejero del Consejo General requiera apoyo específico del personal del IETAM adscrito a las direcciones ejecutivas y otros órganos del IETAM en algún asunto que esté relacionado con el cumplimiento de sus atribuciones, lo podrá solicitar por escrito al Secretario Ejecutivo. Se llevará una bitácora de dichas solicitudes y su atención.
+Los trabajos de las comisiones serán apoyados por el personal adscrito a las distintas áreas ejecutivas del IETAM en términos de lo que ordene el Consejo General a través de la Secretaría Ejecutiva.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+En caso de que algún Consejero o Consejera del Consejo General requiera apoyo específico del personal del IETAM adscrito a las direcciones ejecutivas y otros órganos del IETAM en algún asunto que esté relacionado con el cumplimiento de sus atribuciones, lo podrá solicitar por escrito a la Secretaría Ejecutiva. Se llevará una bitácora de dichas solicitudes y su atención.
 
 ###### Artículo 120.
 
 En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución, según sea el caso, dentro del plazo que determine la Ley, el reglamento respectivo o el Consejo General.
 
-El Secretario del Consejo General colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+El Secretario o Secretaria del Consejo General colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado.
 
 El Consejo General, de acuerdo con la disponibilidad presupuestal del IETAM, podrá crear comités técnicos especiales para actividades o programas específicos, en que requiera del auxilio o asesoría técnico-científica de especialistas.
 
@@ -1581,7 +2043,9 @@ I. En el ejercicio de sus atribuciones, la Unidad contará con autonomía de ges
 
 II. Para el cumplimiento de sus atribuciones, la Unidad de Fiscalización se coordinará con el INE en los términos de lo establecido en los dos últimos párrafos del inciso b) del apartado B del Artículo 41 de la Constitución Federal y de lo que dispongan la Ley General y la Ley de Partidos;
 
-III. El Director de la Unidad de Fiscalización será designado por el Consejo General, a propuesta del Consejero Presidente; deberá reunir los mismos requisitos que esta Ley establece para los Directores Ejecutivos del IETAM; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. La persona titular de la Unidad de Fiscalización será designada por el Consejo General, a propuesta de la Consejera o Consejero Presidente; deberá reunir los mismos requisitos que esta Ley establece para las personas titulares de las Direcciones Ejecutivas del IETAM; y
 
 IV. La Unidad de Fiscalización contará con la estructura administrativa que determine el Reglamento Interior del IETAM, con los recursos presupuestarios que apruebe el Consejo General y tendrá las siguientes atribuciones:
 
@@ -1603,51 +2067,71 @@ d) Las demás que le confieran las leyes aplicables.
 
 El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del propio órgano y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la ley en materia de responsabilidades administrativas del Estado.
+El Órgano Interno de Control tendrá una persona titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+En el desempeño de su cargo, la persona Titular del Órgano Interno de Control se sujetará a los principios previstos en la ley en materia de responsabilidades administrativas del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 123.
 
-El Titular del Órgano Interno de Control será designado por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, mediante convocatoria pública y conforme al procedimiento y en los plazos que contemple la ley interna del Congreso del Estado.
+La persona Titular del Órgano Interno de Control será designada por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, mediante convocatoria pública y conforme al procedimiento y en los plazos que contemple la ley interna del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 124.
 
-El Titular del Órgano Interno de Control durará en su encargo seis años cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
+La persona Titular del Órgano Interno de Control durará en su encargo seis años cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
 
-Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del propio órgano, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización del Estado a que se refiere el artículo 76 de la Constitución Política de (sic) del Estado de Tamaulipas.
+Tendrá un nivel jerárquico igual al de Dirección General o su equivalente en la estructura orgánica del propio órgano, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización del Estado a que se refiere el artículo 76 de la Constitución Política de (sic) del Estado de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 125.
 
-El Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+La persona Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Gozar de buena reputación y no haber sido condenado o condenada por delito doloso que amerite pena de prisión por más de un año;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 III. Contar al momento de su designación con experiencia en el control, manejo y fiscalización de recursos;
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+
 IV. Contar al día de su designación, con título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 V. Contar con reconocida solvencia moral;
 
-VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios o haber fungido como consultor o auditor externo del propio órgano, en lo individual durante ese periodo;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios o haber fungido como consultor, consultora, auditor o auditora externa del propio órgano, en lo individual durante ese periodo;
 
-VIII. No haber sido Secretario de Estado, Procurador General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+VII. No tener inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VIII. No haber sido titular de alguna Secretaría de Estado, de la Fiscalía General de Justicia del Estado, Diputado o Diputada Local, titular del Poder Ejecutivo del Estado, o haber ocupado algún alto cargo ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado o postulada para cargo de elección popular en los tres años anteriores a la propia designación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 126.
 
-El Titular del Órgano Interno de Control tendrá las atribuciones siguientes:
+La persona Titular del Órgano Interno de Control tendrá las atribuciones siguientes:
 
 I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del IETAM;
 
@@ -1661,11 +2145,15 @@ V. Verificar, en su caso, las obras, bienes adquiridos o arrendados y servicios 
 
 VI. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones;
 
-VII. Emitir los lineamientos en torno a los procedimientos administrativos de las quejas que se presenten en contra de los servidores públicos del IETAM; instruirlos, desahogarlos y resolverlos, y llevar el registro de los servidores públicos sancionados;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VII. Emitir los lineamientos en torno a los procedimientos administrativos de las quejas que se presenten en contra de los servidores y servidoras públicas del IETAM; instruirlos, desahogarlos y resolverlos, y llevar el registro de los servidores y servidoras públicas sancionadas;
 
 VIII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del IETAM;
 
-IX. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del IETAM por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IX. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del IETAM por parte de los servidores y servidoras públicas del mismo y desahogar los procedimientos a que haya lugar;
 
 X. Formular pliegos de observaciones en materia administrativa;
 
@@ -1673,29 +2161,35 @@ XI. Determinar los daños y perjuicios que afecten al IETAM en su patrimonio y f
 
 XII. Fincar las responsabilidades e imponer las sanciones en términos de las disposiciones jurídicas aplicables;
 
-XIII. Presentar al Consejo General los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XIV. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
+XIII. Presentar al Consejo General los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera la Consejera o el Consejero Presidente;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XIV. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores y servidoras públicas que corresponda;
 
 XV. Dar vista al ministerio público cuando se tenga conocimiento o presuma la actualización de algún delito; y
 
 XVI. Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 127.
 
-Los servidores públicos adscritos al Órgano Interno de Control, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
+Los servidores y servidoras públicas adscritas al Órgano Interno de Control, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 128.
 
-Los órganos, áreas ejecutivas y servidores públicos del IETAM estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+Los órganos, áreas ejecutivas, servidores y servidoras públicas del IETAM tienen la obligación de proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 129.
 
-Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al fincamiento de responsabilidades, los servidores públicos gozaran de los derechos humanos de seguridad jurídica.
+Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al fincamiento de responsabilidades, los servidores y servidoras públicas gozarán de los derechos humanos de seguridad jurídica.
 
 ### CAPÍTULO X. Direcciones Ejecutivas
 
@@ -1713,43 +2207,69 @@ IV. Dirección Ejecutiva de Prerrogativas, Partidos y Agrupaciones;
 
 El Estatuto del servicio profesional electoral será emitido por el INE, conforme a lo dispuesto en la Ley General.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 131.
 
-Los Directores Ejecutivos deberán satisfacer los mismos requisitos que los establecidos para ser Secretario Ejecutivo, salvo el relativo a la profesión, en cuyo caso deberán contar con título profesional legalmente expedido en disciplina idónea vinculada con el encargo que se le otorga.
+Las personas titulares de las Direcciones Ejecutivas deberán satisfacer los mismos requisitos que los establecidos para ser titular de la Secretaría Ejecutiva, salvo el relativo a la profesión, en cuyo caso deberán contar con título profesional legalmente expedido en disciplina idónea vinculada con el encargo que se le otorga.
 
 ###### Artículo 132.
 
 La Dirección Ejecutiva de Asuntos Jurídico-Electorales tendrá las siguientes funciones:
 
-I. Representar legalmente al IETAM, en ausencia del Secretario Ejecutivo, en los procedimientos de naturaleza electoral en que el IETAM sea parte;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Auxiliar al Secretario Ejecutivo en la substanciación de los procedimientos que deban ser resueltos por el Consejo General;
+I. Representar legalmente al IETAM, en ausencia de la persona titular de la Secretaría Ejecutiva, en los procedimientos de naturaleza electoral en que el IETAM sea parte;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Auxiliar a la persona titular de la Secretaría Ejecutiva en la substanciación de los procedimientos que deban ser resueltos por el Consejo General;
 
 III. Prestar apoyo jurídico a todas las áreas del IETAM;
 
 IV. Realizar las diligencias de inspección y notificación en los procedimientos substanciados por el IETAM; y
 
-V. Las demás que le confiera esta Ley o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. Las demás que le confiera esta Ley o la persona titular de la Secretaría Ejecutiva.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 133.
 
-El Director Ejecutivo de Educación Cívica, Difusión y Capacitación tiene las siguientes funciones:
+La Dirección Ejecutiva de Educación Cívica, Difusión y Capacitación tiene las siguientes funciones:
 
-I. Elaborar y proponer al Presidente los programas de educación cívica y capacitación electoral que deban desarrollar los Consejos Distritales y Municipales;
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-II. Apoyar a los Consejos Distritales y Municipales en la aplicación de los programas de capacitación electoral a los miembros de las mesas directivas de casillas;
+I. Elaborar y proponer a la Presidenta o Presidente los programas de educación cívica, paridad de género y respeto a los derechos humanos de las mujeres en el ámbito político Y CAPACITACIÓN ELECTORAL que deban desarrollar los Consejos Distritales y Municipales;
 
-III. Organizar cursos de capacitación electoral;
+II. Diseñar y proponer campañas de educación cívica, paridad de género y cultura de respeto de los derechos humanos de las mujeres en el ámbito político y electoral, en coordinación con la Fiscalía Especializada de Delitos Electorales del Estado;
 
-IV. Impartir, a través de los Consejos Municipales, cursos de capacitación a los observadores electorales;
+III. Realizar campañas de información para la prevención, atención y erradicación de la violencia política contra las mujeres en razón de género, así como de igualdad sustantiva, en coordinación con la Unidad de Género del Instituto;
 
-V. Asistir con voz a las sesiones de la comisión de su ramo; y
+IV. Capacitar al personal del IETAM para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, así como en igualdad sustantiva;
 
-VI. Las demás que le confiera esta Ley, otras disposiciones relativas, el Presidente y el Secretario Ejecutivo.
+V. Orientar a las ciudadanas y los ciudadanos en el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+VI. APOYAR A LOS CONSEJOS DISTRITALES Y MUNICIPALES EN LA APLICACIÓN DE LOS PROGRAMAS DE CAPACITACIÓN ELECTORAL A LOS MIEMBROS DE LAS MESAS DIRECTIVAS DE CASILLAS, MISMOS QUE DEBERÁN INCLUIR CAPACITACIÓN EN MATERIA DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, ASÍ COMO EN IGUALDAD SUSTANTIVA;
+
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+VII. ORGANIZAR CURSOS DE CAPACITACIÓN ELECTORAL;
+
+VIII. Impartir, a través de los Consejos Distritales y Municipales, cursos de capacitación a los observadores electorales;
+
+IX. Asistir con voz a las sesiones de la comisión de su ramo; y
+
+X. Las demás que le confiera esta Ley, otras disposiciones relativas, la Consejera Presidenta o Consejero Presidente y la persona titular de la Secretaría Ejecutiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 134.
 
-El Director Ejecutivo de Organización y Logística Electoral tiene las siguientes funciones:
+La Dirección Ejecutiva de Organización y Logística Electoral tiene las siguientes funciones:
 
 I. Asistir, con voz a las sesiones de la comisión de su ramo;
 
@@ -1767,11 +2287,15 @@ VII. Llevar la estadística de las elecciones locales;
 
 VIII. Supervisar lo relativo a la ejecución de los convenios suscritos con el Registro Federal de Electores del INE; y
 
-IX. Las demás que le confieran esta Ley, otras disposiciones relativas, el Presidente y el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IX. Las demás que le confieran esta Ley, otras disposiciones relativas, la Presidenta o Presidente y la persona titular de la Secretaría Ejecutiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 135.
 
-El Director Ejecutivo de Prerrogativas, Partidos y Agrupaciones Políticas tiene las siguientes funciones:
+La Dirección Ejecutiva de Prerrogativas, Partidos y Agrupaciones Políticas tiene las siguientes funciones:
 
 I. Asistir, con voz, a las sesiones de la Comisión de su ramo;
 
@@ -1789,19 +2313,39 @@ VII. Dentro del marco jurídico aplicable, apoyar las acciones necesarias para q
 
 VIII. Llevar el libro de registro de los integrantes de los órganos directivos de los partidos políticos y de sus representantes acreditados ante los órganos del IETAM a nivel estatal, distrital y municipal;
 
-IX. Llevar el libro de registro de los candidatos a los puestos de elección popular; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-X. Las demás que le confiera esta Ley, otras disposiciones relativas, el Presidente y el Secretario Ejecutivo.
+IX. Llevar el libro de registro de los candidatos y candidatas a los puestos de elección popular; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+X. Las demás que le confiera esta Ley, otras disposiciones relativas, la Presidenta o Presidente y la persona titular de la Secretaría Ejecutiva.
 
 ### CAPÍTULO XI. Otras áreas de apoyo
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 136.
 
-La Secretaría Ejecutiva contará con la Dirección del Secretariado, la Dirección de Asuntos Jurídicos y la Unidad de Enlace con el Servicio Profesional Electoral; estas serán áreas de apoyo del Secretario Ejecutivo, sus titulares serán designados por éste, informando al Consejo General sobre los nombramientos respectivos.
+Para el desarrollo de sus atribuciones la Secretaría Ejecutiva contará con las siguientes áreas de apoyo:
+
+a) Dirección de Asuntos Jurídicos;
+
+b) Dirección del Secretariado;
+
+c) Oficialía Electoral;
+
+d) Oficialía de Partes;
+
+e) Unidad de Enlace con el Servicio Profesional Electoral Nacional; y
+
+f) Coordinación de Archivo Institucional.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 137.
 
-Los titulares de dichas instancias deberán contar con título profesional, legalmente expedido, afín a las funciones o labores inherentes a su encargo.
+Las personas titulares de dichas instancias deberán contar con título profesional, legalmente expedido, afín a las funciones o labores inherentes a su encargo.
 
 ###### Artículo 138.
 
@@ -1813,7 +2357,9 @@ II. Conservar bajo su custodia los archivos de la Secretaría Ejecutiva;
 
 III. Auxiliar a la Secretaría Ejecutiva en la preparación de proyectos de acuerdo que le competan presentar ante el Consejo General;
 
-IV. Dar cuenta al Secretario Ejecutivo de los documentos recibidos por los partidos políticos o las diversas áreas del IETAM;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. Dar cuenta a la persona titular de la Secretaría Ejecutiva de los documentos recibidos por los partidos políticos o las diversas áreas del IETAM;
 
 V. Preparar las actas de las sesiones del Consejo General;
 
@@ -1821,19 +2367,29 @@ VI. Ser responsable de la elaboración de las versiones estenográficas de las s
 
 VII. Fungir como Secretaría Técnica de las sesiones de las comisiones del Consejo General; y
 
-VIII. Las demás que le confieran esta Ley o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VIII. Las demás que le confieran esta Ley o la persona titular de la Secretaría Ejecutiva.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 139.
 
-Habrá una Unidad de Enlace con el Servicio Profesional Electoral Nacional. Su titular será designado por el Secretario Ejecutivo. Esta Unidad informará al Secretario Ejecutivo los acuerdos, comunicaciones y normativa a aplicarse, determinada por el INE en su función de regulador del Servicio Profesional Electoral Nacional y coadyuvará con dicho funcionario en la difusión y aplicación de las políticas y directrices en la materia.
+Habrá una Unidad de Enlace con el Servicio Profesional Electoral Nacional. La designación de su titular será hecha por la persona titular de la Secretaría Ejecutiva. Esta Unidad informará a la persona titular de la Secretaría Ejecutiva los acuerdos, comunicaciones y normativa a aplicarse, determinada por el INE en su función de regular el Servicio Profesional Electoral Nacional y coadyuvará con dicho funcionario en la difusión y aplicación de las políticas y directrices en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 140.
 
-La Dirección de Administración tendrá las siguientes funciones:
+La Dirección de Administración tendrá nivel jerárquico equivalente al de Dirección Ejecutiva del IETAM y tendrá las siguientes funciones:
 
-I. Aplicar las políticas, normas y procedimientos para la administración de los recursos financieros y materiales del IETAM;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Organizar la administración de los recursos materiales y financieros, así como la prestación de los servicios generales en el IETAM;
+I. Aplicar las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales del IETAM;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Organizar la administración de los recursos humanos, materiales y financieros, así como la prestación de los servicios generales en el IETAM;
 
 III. Auxiliar a la Secretaría Ejecutiva en la formulación del anteproyecto anual del presupuesto del IETAM;
 
@@ -1841,19 +2397,25 @@ IV. Establecer y coadyuvar en la operación de los sistemas administrativos para
 
 V. Atender las necesidades administrativas de los órganos del IETAM; y
 
-VI. Las demás que le confiera esta Ley o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VI. Las demás que le confiera esta Ley, la Consejera Presidenta o Presidente, o la persona titular de la Secretaría Ejecutiva.
 
 ## TÍTULO TERCERO. Consejos distritales y municipales
 
 ### CAPÍTULO I. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 141.
 
-El Consejo General designará a los Consejeros que integrarán los Consejos Distritales y Municipales para un proceso electoral ordinario, pudiendo ser reelectos para un proceso adicional.
+El Consejo General designará a las Consejeras y los Consejeros que integrarán los Consejos Distritales y Municipales para un proceso electoral ordinario, pudiendo ser reelectos para un proceso adicional.
 
 Para tal efecto, emitirá una convocatoria que deberá publicar en los medios de mayor circulación con cobertura en el Estado, así como en la página oficial de Internet del propio IETAM y en el Periódico Oficial del Estado; dicha convocatoria deberá emitirse a más tardar el día 15 de octubre del año previo al de la elección.
 
-Los Consejeros que deberán integrar los Consejos Distritales y Municipales deberán ser electos a más tardar el día 10 de diciembre del año previo a la elección, a fin de que se constituyan e instalen los respectivos Consejos, en la primer semana del mes de enero del año de la elección, debiéndose publicar la integración en los medios de mayor circulación con cobertura en el Estado, así como en la página oficial de Internet del propio IETAM y en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Las Consejeras y los Consejeros que deberán integrar los Consejos Distritales y Municipales deberán ser electos a más tardar el mes de diciembre del año previo a la elección, a fin de que se constituyan e instalen los respectivos Consejos, en la primer semana del mes de febrero del año de la elección, debiéndose publicar la integración en los medios de mayor circulación con cobertura en el Estado, así como en la página oficial de Internet del propio IETAM y en el Periódico Oficial del Estado.
 
 ###### Artículo 142.
 
@@ -1869,35 +2431,51 @@ Los Consejos Distritales funcionarán durante el proceso electoral y se encargar
 
 El Consejo Distrital se integrará de la siguiente forma:
 
-I. Cinco Consejeros Electorales Distritales, con derecho a voz y voto, que serán nombrados por el Consejo General, a propuesta de los Consejeros Electorales del mismo;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Un Secretario, sólo con derecho a voz; y
+I. Cinco Consejeros y Consejeras Electorales Distritales, con derecho a voz y voto, que se nombrarán por el Consejo General, a propuesta de los Consejeros y Consejeras Electorales del mismo; en su conformación deberá garantizarse el principio de paridad de género;
 
-III. Un representante por cada uno de los partidos políticos, sólo con derecho a voz.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-Por cada Consejero y representante de partido político habrá un suplente.
+II. Un Secretario o Secretaria, sólo con derecho a voz; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Una persona representante por cada uno de los partidos políticos, sólo con derecho a voz.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Por cada Consejero, Consejera y representante de partido político habrá una persona suplente.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 145.
 
-Para ser Secretario del Consejo Distrital se deberán reunir los requisitos que se exigen para ser Secretario Ejecutivo, salvo el relativo a la profesión, en cuyo caso bastará con poseer instrucción suficiente.
+Para ser Secretario o Secretaria del Consejo Distrital se deberán reunir los requisitos que se exigen para ser titular de la Secretaría Ejecutiva, salvo el relativo a la profesión, en cuyo caso bastará con poseer instrucción suficiente.
 
-Las funciones del Secretario del Consejo Distrital se ajustarán, en lo conducente, a las que competen al Secretario Ejecutivo.
+Las funciones de la Secretaría del Consejo Distrital se ajustarán, en lo conducente, a las que competen a la Secretaría Ejecutiva.
 
-Los Secretarios de los Consejos Distritales serán nombrados por el Consejo General a propuesta del Presidente del cada Consejo.
+Los Secretarios y Secretarias de los Consejos Distritales se nombrarán por el Consejo General a propuesta de la Presidenta o Presidente del (sic) cada Consejo.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 146.
 
-El Presidente del Consejo Distrital será nombrado por el Consejo General de entre los Consejeros Electorales que lo integren.
+La Presidenta o Presidente del Consejo Distrital se nombrará por el Consejo General de entre los Consejeros y Consejeras Electorales que lo integren.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 147.
 
-Los Consejos Distritales iniciarán sus sesiones en la primer semana del mes de enero del año de la elección, siendo necesario para ello que estén presentes más de la mitad de los Consejeros Distritales, entre los que deberá estar el Presidente. A partir de la primera sesión y hasta la conclusión del proceso, sesionarán por lo menos una vez al mes. Su función concluye al término del proceso electoral, salvo que haya impugnaciones pendientes de resolver por parte de los tribunales electorales.
+Los Consejos Distritales iniciarán sus sesiones en la primer semana del mes de febrero del año de la elección, siendo necesario para ello que estén presentes más de la mitad de las Consejeras y los Consejeros Distritales, entre los que deberá estar la Presidenta o Presidente. A partir de la primera sesión y hasta la conclusión del proceso, sesionarán por lo menos una vez al mes. Su función concluye al término del proceso electoral, salvo que haya impugnaciones pendientes de resolver por parte de los tribunales electorales.
 
-En caso de que no se reúna la mayoría de los Consejeros Electorales, la sesión de instalación tendrá lugar dentro de las 24 horas siguientes con los Consejeros que asistan, entre los que deberá estar el Presidente, levantándose el acta correspondiente e informando de ello al Consejo General.
+En caso de que no se reúna la mayoría de las Consejeras y los Consejeros Electorales, la sesión de instalación tendrá lugar dentro de las 24 horas siguientes con las Consejeros (sic) y los Consejeros que asistan, entre los que deberá estar la Presidenta o el Presidente, levantándose el acta correspondiente e informando de ello al Consejo General.
 
-En ambos casos, las convocatorias firmadas por el Secretario del Consejo, deberán ser notificadas en el domicilio particular de sus integrantes, señalando el día y la hora para su realización; con excepción de los representantes de los partidos políticos, a quienes se les notificará la convocatoria en el domicilio de su partido, el que para esos efectos deberá comunicarse oportunamente al Consejo. Las notificaciones referidas, y las demás a que haya lugar, también podrán realizarse en las instalaciones del Consejo Distrital.
+En ambos casos, las convocatorias firmadas por la Secretaria o el Secretario del Consejo, deberán ser notificadas en el domicilio particular de sus integrantes, señalando el día y la hora para su realización; con excepción de las personas representantes de los partidos políticos y de las candidaturas independientes, a quienes se les notificará la convocatoria en el domicilio de su partido o en el oficial, el que para esos efectos deberá comunicarse oportunamente al Consejo. Las notificaciones referidas, y las demás a que haya lugar, también podrán realizarse en las instalaciones del Consejo Distrital.
 
-Tomarán sus resoluciones por mayoría de votos, y en caso de empate, será de calidad el del Presidente. Para las sesiones ordinarias y extraordinarias se utilizará el mismo procedimiento establecido en este artículo.
+Tomarán sus resoluciones por mayoría de votos, y en caso de empate, será de calidad el de la Presidenta o Presidente.
+
+Para las sesiones ordinarias y extraordinarias se utilizará el mismo procedimiento establecido en este artículo.
 
 ###### Artículo 148.
 
@@ -1907,45 +2485,81 @@ I. Vigilar la observancia de esta Ley y demás disposiciones relativas;
 
 II. Cumplir y hacer cumplir los acuerdos y disposiciones del Consejo General;
 
-III. Registrar las fórmulas de candidatos a diputados que serán electos según el principio de mayoría relativa;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-IV. Ordenar la entrega de la documentación, formas aprobadas y útiles necesarios para las mesas directivas de casillas a los Consejos Municipales;
+III. Registrar las fórmulas de candidaturas a diputaciones que serán electas por el principio de mayoría relativa;
 
-V. Registrar los nombramientos de representantes generales, en un plazo de 72 horas, a partir de su presentación y, en todo caso, 10 días antes del señalado para las elecciones en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-VI. Realizar el cómputo distrital final de la votación para diputados electos según el principio de mayoría relativa;
+IV. Ordenar la entrega de la documentación electoral, formas aprobadas y útiles necesarios para las mesas directivas de casillas a los Consejos Municipales, o en su caso, a la Presidencia de la mesa directiva de casilla según determine el Consejo General;
 
-VII. Realizar el cómputo distrital de la elección de Gobernador y de diputados según el principio de representación proporcional y remitir al Consejo General los expedientes de estos cómputos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-VIII. Declarar la validez de la elección de diputados electos según el principio de mayoría relativa, y expedir la constancia de mayoría a la fórmula ganadora;
+V. Registrar los nombramientos de las personas representantes generales, en un plazo de 72 horas, a partir de su presentación y, en todo caso, 10 días antes del señalado para las elecciones en los términos de esta Ley;
 
-IX. Por conducto del Secretario, recibir, tramitar y remitir a la instancia correspondiente, los medios de impugnación presentados en contra de sus actos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VI. Realizar el cómputo distrital final de la votación para diputaciones electas según el principio de mayoría relativa;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VII. Realizar el cómputo distrital de la elección de la Gubernatura y de diputaciones según el principio de representación proporcional y remitir al Consejo General los expedientes de estos cómputos;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VIII. Declarar la validez de la elección de diputaciones electas según el principio de mayoría relativa, y expedir la constancia de mayoría a la fórmula ganadora;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IX. Por conducto del Secretario o Secretaria, recibir, tramitar y remitir a la instancia correspondiente, los medios de impugnación presentados en contra de sus actos;
 
 X. Recibir la solicitud y resolver sobre el registro de los observadores electorales, de conformidad con el marco jurídico aplicable;
 
-XI. Designar, a propuesta del Presidente, un coordinador encargado de la organización y la capacitación electoral en cada distrito, dependiente de las direcciones ejecutivas de Organización Electoral y de Capacitación Electoral. Los coordinadores actuarán exclusivamente durante el proceso electoral; y
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-XII. Las demás que esta Ley les confiere.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XI. Designar, a propuesta del Consejero Presidente o Presidenta, un coordinador o coordinadora encargado de la organización Y LA CAPACITACIÓN ELECTORAL en cada distrito, dependiente de las Direcciones Ejecutivas de Organización y Logística Electoral y de Educación Cívica, Difusión y Capacitación. Las personas coordinadoras actuarán exclusivamente durante el proceso electoral;
+
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XII. Ejecutar los programas de CAPACITACIÓN ELECTORAL, educación cívica, paridad de género y cultura de respeto de los derechos humanos de las mujeres en el ámbito político y electoral; y
+
+XIII. Las demás que esta Ley les confiere.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 149.
 
-Corresponde al Presidente del Consejo Distrital:
+Corresponde al Presidente o Presidenta del Consejo Distrital:
 
 I. Convocar y conducir las sesiones del Consejo;
 
-II. Recibir las solicitudes de registro de candidaturas de diputados según el principio de mayoría relativa;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-III. Entregar a los Consejos Municipales, la documentación, formas aprobadas y útiles necesarios para las mesas directivas de casillas;
+II. Recibir las solicitudes de registro de candidaturas de diputaciones según el principio de mayoría relativa;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Entregar a los Consejos Municipales, la documentación electoral, formas aprobadas y útiles necesarios para las mesas directivas de casillas o; en su caso, a las presidencias de las mesas directivas de casilla, según lo determine el Consejo General;
 
 IV. Remitir al Consejo General, dentro de las 48 horas siguientes, copia de las actas levantadas durante las sesiones ordinarias y extraordinarias;
 
-V. Remitir al Consejo General, copia certificada de las actas de cómputos distritales de las elecciones de Gobernador y diputados por ambos principios;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. Remitir al Consejo General, copia certificada de las actas de cómputos distritales de las elecciones de Gubernatura y diputaciones por ambos principios;
 
 VI. Expedir las constancias que se le soliciten por escrito;
 
-VII. Nombrar y remover al personal profesional para el cumplimiento de las atribuciones y los acuerdos del Consejo; y
+VII. (DEROGADA, P.O. 13 DE JUNIO DE 2020)
 
-VIII. Las demás que le confiera esta Ley.
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VIII. Administrar, comprobar y justificar, de conformidad con la Ley del Gasto Público, los recursos financieros y materiales que le sean asignados para la operación del Consejo; y
+
+IX. Las demás que le confiera esta Ley.
 
 ### CAPÍTULO III. Consejos Municipales
 
@@ -1967,33 +2581,57 @@ Los Consejos Municipales funcionarán durante el proceso electoral y se encargar
 
 El Consejo Municipal se integrará de la siguiente forma:
 
-I. Cinco Consejeros Municipales electorales, con derecho a voz y voto, que serán nombrados por el Consejo General, a propuesta de los Consejeros Electorales del mismo, mediante convocatoria pública y a través del procedimiento que el Consejo General determine;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Un Secretario, sólo con derecho a voz; y
+I. Cinco Consejeros y Consejeras Municipales electorales, con derecho a voz y voto, que serán nombrados por el Consejo General, a propuesta de los Consejeros Electorales del mismo, mediante convocatoria pública y a través del procedimiento que el Consejo General determine. En su conformación deberá garantizarse el principio de paridad de género;
 
-III. Un representante por cada uno de los partidos políticos, sólo con derecho a voz.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-Por cada Consejero y representante, habrá un suplente.
+II. Un Secretario o Secretaria, sólo con derecho a voz; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Una persona representante por cada uno de los partidos políticos o candidaturas independientes, sólo con derecho a voz.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Por cada Consejero o Consejera Electoral, persona representante de partido político o candidatura independiente habrá un suplente.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Los consejos municipales se integrarán e instalarán para los procesos electorales en los que se elija ayuntamientos.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 153.
 
-Para ser Secretario del Consejo Municipal se deberán reunir los requisitos que se exigen para ser Secretario Ejecutivo, salvo el referido a la profesión, en cuyo caso bastará con poseer instrucción suficiente.
+Para ser Secretario o Secretaria del Consejo Municipal se deberán reunir los requisitos que se exigen para ser titular de la Secretaría Ejecutiva, salvo el referido a la profesión, en cuyo caso bastará con poseer instrucción suficiente.
 
-Las funciones del Secretario del Consejo Municipal se ajustarán, en lo conducente, a las que competen al Secretario Ejecutivo.
+Las funciones del Secretario o Secretaria del Consejo Municipal se ajustarán, en lo conducente, a las que competen a la persona titular de la Secretaría Ejecutiva.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 154.
 
-El Presidente del Consejo Municipal será nombrado por el Consejo General de entre los Consejeros Municipales que lo integren.
+La Presidenta o Presidente del Consejo Municipal será nombrado por el Consejo General de entre los Consejeros y Consejeras Municipales que lo integren.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 155.
 
-Los Consejos Municipales iniciarán sus sesiones en la primer semana del mes de enero del año de la elección, siendo necesario para ello que estén presentes más de la mitad de los Consejeros Municipales, entre los que deberá estar el Presidente. A partir de la primera sesión y hasta la conclusión del proceso, sesionarán por lo menos una vez al mes. Su función concluye al término del proceso electoral, salvo que haya impugnaciones pendientes de resolver por parte de los tribunales electorales.
+Los Consejos Municipales iniciarán sus sesiones en la primer semana del mes de febrero del año de la elección, siendo necesario para ello que estén presentes más de la mitad de las Consejeras y los Consejeros Municipales, entre los que deberá estar la Presidenta o el Presidente. A partir de la primera sesión y hasta la conclusión del proceso, sesionarán por lo menos una vez al mes. Su función concluye al término del proceso electoral, salvo que haya impugnaciones pendientes de resolver por parte de los tribunales electorales.
 
-En caso de que no se reúna la mayoría de los Consejeros, la sesión de instalación tendrá lugar dentro de las 24 horas siguientes con los Consejeros que asistan, entre los que deberán estar el Presidente, levantándose el acta correspondiente e informando de ello al Consejo General.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-En ambos casos, las convocatorias firmadas por el Secretario del Consejo, deberán ser notificadas en el domicilio particular de sus integrantes, señalando el día y la hora para su realización; con excepción de los representantes de los partidos políticos, a quienes se les notificará la convocatoria en el domicilio de su partido, el que para esos efectos, deberá comunicarse oportunamente al Consejo. Las notificaciones referidas, y las demás a que haya lugar, también podrán realizarse en las instalaciones del Consejo Municipal.
+En caso de que no se reúna la mayoría de las Consejeras y los Consejeros, la sesión de instalación tendrá lugar dentro de las 24 horas siguientes con las Consejeras y los Consejeros que asistan, entre los que deberán estar la Presidenta o el Presidente, levantándose el acta correspondiente e informando de ello al Consejo General.
 
-Tomarán sus resoluciones por mayoría de votos y, en caso de empate, será de calidad el del Presidente.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+En ambos casos, las convocatorias firmadas por la Secretaria o el Secretario del Consejo, deberán ser notificadas en el domicilio particular de sus integrantes, señalando el día y la hora para su realización; con excepción de las personas representantes de los partidos políticos y de las candidaturas independientes, a quienes se les notificará la convocatoria en el domicilio de su partido o en el oficial, el que para esos efectos, deberá comunicarse oportunamente al Consejo. Las notificaciones referidas, y las demás a que haya lugar, también podrán realizarse en las instalaciones del Consejo Municipal.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Tomarán sus resoluciones por mayoría de votos y, en caso de empate, será de calidad el de la Presidenta o el Presidente.
 
 Para las sesiones ordinarias y extraordinarias se utilizará el mismo procedimiento establecido en este Artículo.
 
@@ -2005,11 +2643,15 @@ I. Vigilar la observancia de esta Ley y demás disposiciones relativas;
 
 II. Cumplir y hacer cumplir los acuerdos y disposiciones del Consejo General;
 
-III. Registrar las planillas de candidatos a Presidente Municipal, síndicos y regidores, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Registrar las planillas de candidaturas a Presidencias Municipales, sindicaturas y regidurías, en los términos de esta Ley;
 
 IV. Ordenar la entrega de la documentación, formas aprobadas y útiles necesarios a las mesas directivas de casillas;
 
-V. Registrar, en los términos de esta Ley, los nombramientos de representantes de partido ante las casillas, en un plazo de 72 horas a partir de su presentación y, en todo caso, 10 días antes del señalado para las elecciones;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. Registrar, en los términos de esta Ley, los nombramientos de personas representantes de partidos o candidaturas independientes ante las casillas, en un plazo de 72 horas a partir de su presentación y, en todo caso, 10 días antes del señalado para las elecciones;
 
 VI. Realizar el cómputo municipal final de la votación de la elección para ayuntamientos, declarar su validez y expedir las constancias de mayoría de votos a la planilla ganadora;
 
@@ -2021,21 +2663,35 @@ IX. Turnar al Consejo General, los paquetes electorales correspondientes a la el
 
 X. Recibir la solicitud y resolver sobre el registro de los observadores electorales; en términos de lo que disponga el marco jurídico aplicable;
 
-XI. Por conducto del Secretario, recibir, tramitar y remitir a la instancia correspondiente, los medios de impugnación presentados en contra de sus actos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XII. Designar al Secretario del Consejo a propuesta de su Presidente; y
+XI. Por conducto de la Secretaria o Secretario, recibir, tramitar y remitir a la instancia correspondiente, los medios de impugnación presentados en contra de sus actos;
 
-XIII. Las demás que esta Ley les confiere.
+XII. (DEROGADA, P.O. 13 DE JUNIO DE 2020)
+
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XIII. Ejecutar los programas de CAPACITACIÓN ELECTORAL, educación cívica, paridad de género y cultura de respeto de los derechos humanos de las mujeres en el ámbito político y electoral, y
+
+XIV. Las demás que esta Ley les confiere.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 157.
 
-Corresponde al Presidente del Consejo Municipal:
+Corresponde al Presidente o Presidenta del Consejo Municipal:
 
 I. Convocar y presidir las sesiones del Consejo;
 
-II. Recibir las solicitudes de registro de las planillas de candidatos a Presidentes, síndicos y regidores, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-III. Proveer la entrega a los funcionarios de las mesas directivas de casillas, de la documentación, formas aprobadas y útiles necesarios para el cumplimiento de sus funciones;
+II. Recibir las solicitudes de registro de las planillas de candidaturas a Presidencias, sindicaturas y regidurías, en los términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Proveer la entrega al funcionariado de las mesas directivas de casillas, de la documentación electoral, formas aprobadas y útiles necesarios para el cumplimiento de sus funciones, observando las determinaciones que adopte el Consejo General;
 
 IV. Extender los nombramientos a los asistentes electorales aprobados por el Consejo Municipal. Los asistentes electorales, en el desempeño de su función, portarán una identificación con fotografía expedida por el organismo que representan;
 
@@ -2043,15 +2699,21 @@ V. Remitir al Consejo General dentro de las 48 horas siguientes, copia de las ac
 
 VI. Coordinar y auxiliar a las mesas directivas de casillas durante la jornada electoral;
 
-VII. Nombrar y remover al personal profesional para el cumplimiento de las atribuciones y los acuerdos del Consejo; y
+VII. (DEROGADA, P.O. 13 DE JUNIO DE 2020)
 
-VIII. Las demás que le sean conferidas por esta Ley.
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VIII. Administrar, comprobar y justificar, de conformidad con la Ley del Gasto Público, los recursos financieros y materiales que le sean asignados para la operación del Consejo; y
+
+IX. Las demás que le sean conferidas por esta Ley.
 
 ### CAPÍTULO IV. Integración y Funciones de las Mesas Directivas de Casillas
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 158.
 
-Las mesas directivas de casilla son los órganos electorales formados por ciudadanos, facultados para recibir la votación y realizar el escrutinio y cómputo en cada una de las secciones electorales que para tal efecto se dividan los municipios del estado. Durante la jornada electoral, las mesas directivas tendrán a su cargo, respetar y hacer respetar la libre emisión y efectividad del sufragio, garantizar el secreto del voto y asegurar la autenticidad del escrutinio y cómputo.
+Las mesas directivas de casilla son los órganos electorales formados por ciudadanos y ciudadanas, con facultades para recibir la votación y realizar el escrutinio y cómputo en cada una de las secciones electorales que para tal efecto se dividan los municipios del estado. Durante la jornada electoral, las mesas directivas tendrán a su cargo, respetar y hacer respetar la libre emisión y efectividad del sufragio, garantizar el secreto del voto y asegurar la autenticidad del escrutinio y cómputo.
 
 ###### Artículo 159.
 
@@ -2071,21 +2733,27 @@ El Consejo General del IETAM emitirá los acuerdos necesarios para adaptar los c
 
 ### CAPÍTULO V. Disposiciones Comunes
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 163.
 
-Los integrantes de los Consejos General, Distritales y Municipales, así como de las mesas directivas de casillas, deberán rendir protesta de guardar y hacer guardar la Constitución Federal, la Constitución del Estado y las leyes que de ambas emanan, cumplir con las normas contenidas en esta Ley y desempeñar leal y patrióticamente la función que se les ha encomendado.
+Las personas integrantes de los Consejos General, Distritales y Municipales, así como de las mesas directivas de casillas, deberán rendir protesta de guardar y hacer guardar la Constitución Federal, la Constitución del Estado y las leyes que de ambas emanan, cumplir con las normas contenidas en esta Ley y desempeñar leal y patrióticamente la función que se les ha encomendado.
 
 ###### Artículo 164.
 
 La protesta referida en el artículo anterior podrá ser verbal o por escrito.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 165.
 
-Los partidos políticos podrán integrarse a los Consejos Distritales y Municipales, a través de los representantes que acrediten dentro de los diez días anteriores a la sesión de instalación del organismo de que se trate.
+Los partidos políticos podrán integrarse a los Consejos Distritales y Municipales, a través de las personas representantes que acrediten dentro de los diez días anteriores a la sesión de instalación del organismo de que se trate.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 166.
 
-Sólo los partidos políticos que acrediten a sus representantes en los términos del Artículo anterior, serán convocados por el Presidente del organismo respectivo a la sesión de instalación.
+Sólo los partidos políticos que acrediten a sus representantes en los términos del Artículo anterior, serán convocados por el Presidente o Presidenta del organismo respectivo a la sesión de instalación.
 
 ###### Artículo 167.
 
@@ -2095,9 +2763,11 @@ Los partidos políticos que no hayan acreditado a sus representantes podrán hac
 
 Los partidos políticos podrán sustituir, en todo tiempo, a sus representantes acreditados ante los organismos electorales, en los términos de los Artículos de esta Ley.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 169.
 
-Cuando el representante propietario de un partido político y, en su caso, el suplente, falte sin causa justificada por tres veces consecutivas a las sesiones del organismo electoral ante el cual se encuentran acreditados, se notificarán dichas ausencias al partido político de que se trate; si en la siguiente sesión no se presenta el representante o su suplente, el partido político dejará de formar parte del organismo. La resolución se comunicará al organismo electoral superior y al partido político respectivo.
+Cuando la persona representante propietaria de un partido político y, en su caso, su suplente, falte sin causa justificada por tres veces consecutivas a las sesiones del organismo electoral ante el cual se encuentran acreditados, se notificarán dichas ausencias al partido político de que se trate; si en la siguiente sesión no se presenta la persona representante o su suplente, el partido político dejará de formar parte del organismo. La resolución se comunicará al organismo electoral superior y al partido político respectivo.
 
 ###### Artículo 170.
 
@@ -2109,11 +2779,15 @@ Los Consejos Distritales y Municipales, en la sesión de instalación, acordará
 
 Sin perjuicio de lo anterior, para los efectos de esta Ley serán hábiles todas las horas y días del año que se encuentren dentro del proceso electoral.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 172.
 
-Las autoridades federales, estatales y municipales están obligadas a proporcionar a los organismos electorales, a petición de los Presidentes respectivos, los informes, certificaciones y el auxilio de la fuerza pública necesaria para el cumplimiento de sus funciones y resoluciones.
+Las autoridades federales, estatales y municipales están obligadas a proporcionar a los organismos electorales, a petición de los Presidentes o Presidentas respectivas, los informes, certificaciones y el auxilio de la fuerza pública necesaria para el cumplimiento de sus funciones y resoluciones.
 
-# LIBRO QUINTO. Elecciones de Gobernador, Diputados al Congreso y Ayuntamientos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+# LIBRO QUINTO. Elecciones de Gubernatura, Diputaciones al Congreso y Ayuntamientos
 
 ## TÍTULO PRIMERO. Elecciones Ordinarias y Extraordinarias
 
@@ -2123,9 +2797,13 @@ Las autoridades federales, estatales y municipales están obligadas a proporcion
 
 Las elecciones ordinarias deberán celebrarse el primer domingo del mes de junio del año que corresponda, para elegir:
 
-I. Gobernador del Estado, cada 6 años; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Diputados al Congreso del Estado y Ayuntamientos, cada 3 años.
+I. Gubernatura del Estado, cada 6 años; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Diputaciones al Congreso del Estado y Ayuntamientos, cada 3 años.
 
 ###### Artículo 174.
 
@@ -2165,7 +2843,9 @@ En ningún caso podrá participar en elecciones ordinarias o extraordinarias, el
 
 Las vacantes de miembros del Congreso del Estado, electos por ambos principios, se cubrirán conforme al procedimiento previsto en los artículos 34, 35 y 36 de la Constitución Política del Estado.
 
-Las elecciones extraordinarias para Gobernador del Estado, se sujetarán a lo previsto en los artículos 83 y 84 de la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Las elecciones extraordinarias para la Gubernatura del Estado, se sujetarán a lo previsto en los artículos 83 y 84 de la Constitución Política del Estado.
 
 Las vacantes de los miembros de los ayuntamientos serán cubiertas en primer término por los suplentes, y a falta de éstos, el cabildo propondrá una terna al Congreso del Estado para que éste realice la designación correspondiente. En la propuesta que realice el Ayuntamiento podrá tomarse en cuenta al partido afectado por la vacante.
 
@@ -2175,53 +2855,71 @@ En caso de elecciones extraordinarias, el Consejo General podrá ajustar los pla
 
 ## TÍTULO SEGUNDO. Requisitos de elegibilidad para los diferentes cargos de elección
 
-### CAPÍTULO I. Requisitos de elegibilidad para ser Diputado del Congreso del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO I. Requisitos de elegibilidad para ser Diputada o Diputado del Congreso del Estado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 180.
 
-Son requisitos para ser Diputado propietario o suplente al Congreso del Estado, además de los que se señalan en el artículo 29 de la Constitución del Estado, los siguientes:
+Son requisitos para ser Diputada o Diputado propietario o suplente al Congreso del Estado, además de los que se señalan en el artículo 29 de la Constitución del Estado, los siguientes:
 
 I. Por el principio de mayoría relativa, estar inscrito en el Registro Federal de Electores en el distrito motivo de la elección y contar con credencial para votar con fotografía.
 
-Cuando el ciudadano esté inscrito en un municipio cabecera de más de un distrito, bastará su inscripción en cualquiera de las secciones electorales que conforman el propio municipio.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Cuando la ciudadana o el ciudadano estén inscritos en un municipio cabecera de más de un distrito, bastará su inscripción en cualquiera de las secciones electorales que conforman el propio municipio.
 
 II. Por el principio de representación proporcional, estar inscrito en el Registro Federal de Electores en cualquiera de las secciones electorales del Estado y contar con credencial para votar con fotografía.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 181.
 
-Son impedimentos para ser electo diputado, además de los que se señalan en el artículo 30 de la Constitución Política del Estado, los siguientes:
+Son impedimentos para ser electo diputado o diputada, además de los que se señalan en el artículo 30 de la Constitución Política del Estado, los siguientes:
 
-I. Ser Consejero Electoral en los Consejos General, Distritales o Municipales del IETAM, a menos que se separe del cargo un año antes de la elección;
+I. Ser Consejero o Consejera Electoral en los Consejos General, Distritales o Municipales del IETAM, a menos que se separe del cargo un año antes de la elección;
 
-II. Ser Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario, del Tribunal Electoral, a menos que se separe de su cargo un año antes de la elección;
+II. Ser Magistrado o Magistrada, titular de la Secretaría General, Secretaría de Estudio y Cuenta, Actuario o Actuaria del Tribunal Electoral, a menos que se separe de su cargo un año antes de la elección;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+III. Ser integrante de algún ayuntamiento, a menos que se separe del cargo 90 días antes de la elección;
 
-III. Ser integrante de algún ayuntamiento, a menos que se separe del cargo 90 días antes de la elección; y
+IV. Haber sido reelecto diputado o diputada en la elección anterior; y
 
-IV. Haber sido reelecto diputado en la elección anterior.
+V. Estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 182.
 
-A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral.
+A ninguna persona podrá registrársele como candidato o candidata a distintos cargos de elección popular en el mismo proceso electoral.
 
-Los partidos políticos no podrán registrar simultáneamente, en un mismo proceso electoral, más de cinco candidatos al cargo de Diputado por el principio de mayoría relativa y por el principio de representación proporcional.
+Los partidos políticos no podrán registrar simultáneamente, en un mismo proceso electoral, más de cinco candidatos o candidatas al cargo de Diputación por el principio de mayoría relativa y por el principio de representación proporcional.
 
-### CAPÍTULO II. Requisitos de elegibilidad para ser Gobernador del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO II. Requisitos de elegibilidad para ser Gobernador o Gobernadora del Estado
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 183.
 
-Son requisitos para ser Gobernador del Estado, además de los que se señalan en el artículo 78 de la Constitución del Estado, estar inscrito en el Registro Federal de Electores en el Estado y contar con credencial para votar con fotografía.
+Son requisitos para ser Gobernador o Gobernadora del Estado, además de los que se señalan en el artículo 78 de la Constitución del Estado, estar inscrito en el Registro Federal de Electores en el Estado y contar con credencial para votar con fotografía.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 184.
 
-Son impedimentos para obtener el cargo de Gobernador del Estado por elección, además de los que se señalan en el artículo 79 de la Constitución del Estado, los siguientes:
+Son impedimentos para obtener el cargo de Gobernador o Gobernadora del Estado por elección, además de los que se señalan en el artículo 79 de la Constitución del Estado, los siguientes:
 
-I. Ser Consejero Electoral en los Consejos General, Distritales o Municipales del IETAM, a menos que se separe del cargo un año antes de la elección;
+I. Ser Consejero o Consejera Electoral en los Consejos General, Distritales o Municipales del IETAM, a menos que se separe del cargo un año antes de la elección;
 
-II. Ser Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario del Tribunal Electoral, a menos que se separe del cargo un año antes de la elección; y
+II. Ser Magistrado o Magistrada, titular de la Secretaría General, Secretaría de Estudio y Cuenta, Actuario o Actuaria del Tribunal Electoral, a menos que se separe del cargo un año antes de la elección;
 
-III. Ser integrante de algún Ayuntamiento, a menos que se separe del cargo 120 días antes de la elección.
+III. Ser integrante de algún Ayuntamiento, a menos que se separe del cargo 120 días antes de la elección; y
+
+IV. Estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
 
 ### CAPÍTULO III. Requisitos de elegibilidad para ser miembro de un Ayuntamiento
 
@@ -2229,7 +2927,9 @@ III. Ser integrante de algún Ayuntamiento, a menos que se separe del cargo 120 
 
 Son requisitos para ser miembro de un Ayuntamiento:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. Ser ciudadano o ciudadana mexicana por nacimiento, en pleno ejercicio de sus derechos;
 
 II. Ser originario del Municipio o tener una residencia en el mismo por un periodo no menor de 3 años inmediatos anteriores al día de la elección; y
 
@@ -2239,49 +2939,73 @@ III. Estar inscrito en el Registro Federal de Electores en el Municipio motivo d
 
 Son impedimentos para ser miembro de un Ayuntamiento, además de los que se señalan en el artículo 26 del Código Municipal para el Estado de Tamaulipas los siguientes:
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-I. Ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular, o del Municipio; o mando de la fuerza pública en el Municipio, a no ser que se separe de su cargo o participación por lo menos 90 días antes de la elección;
+I. Ser servidor o servidora pública de la Federación o del Estado, con excepción de los cargos de elección popular, o del Municipio; o mando de la fuerza pública en el Municipio, a no ser que se separe de su cargo o participación por lo menos 90 días antes de la elección;
 
-II. Ser ministro de algún culto religioso, salvo que se ciña a lo dispuesto en el Artículo 130 de la Constitución Federal y su ley reglamentaria;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-III. Ser Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario del Tribunal Electoral, a menos que se separe del cargo un año antes de la elección;
+II. Ser ministro o ministra de algún culto religioso, salvo que se ciña a lo dispuesto en el Artículo 130 de la Constitución Federal y su ley reglamentaria;
 
-IV. Ser Consejero Electoral en los Consejos General, Distritales o Municipales del IETAM, a menos que se separe del cargo un año antes de la elección;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-V. Ser integrante de algún Ayuntamiento de otro Municipio del Estado, aun cuando haya solicitado licencia para separarse del cargo; y
+III. Ser Magistrado, Magistrada, titular de la Secretaría General, Secretaría de Estudio y Cuenta, Actuario o Actuaria del Tribunal Electoral, a menos que se separe del cargo un año antes de la elección;
 
-VI. Haber sido reelecto en el cargo en la elección anterior.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-## TÍTULO TERCERO. Elección de los integrantes del Congreso del Estado, del Gobernador Constitucional y de Miembros de los Ayuntamientos
+IV. Ser Consejero o Consejera Electoral en los Consejos General, Distritales o Municipales del IETAM, a menos que se separe del cargo un año antes de la elección;
 
-### CAPÍTULO I. Elección de los Integrantes del Congreso del Estado
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. Ser integrante de algún Ayuntamiento de otro Municipio del Estado, aun cuando haya solicitado licencia para separarse del cargo;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VI. Haber obtenido la reelección en el cargo en la elección anterior; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VII. Estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+## TÍTULO TERCERO. Elección de integrantes del Congreso del Estado, de la Gubernatura Constitucional e integrantes de los Ayuntamientos
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO I. Elección de Integrantes del Congreso del Estado
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 187.
 
-El ejercicio de las funciones propias del Poder Legislativo se encomienda a una Asamblea que se denominará "Congreso del Estado Libre y Soberano de Tamaulipas". Los Diputados al Congreso serán electos en su totalidad cada 3 años, el primer domingo del mes de junio del año que corresponda. Por cada Diputado propietario se elegirá a un suplente.
+El ejercicio de las funciones propias del Poder Legislativo se encomienda a una Asamblea que se denominará "Congreso del Estado Libre y Soberano de Tamaulipas". Los Diputados y Diputadas al Congreso serán electos en su totalidad cada 3 años, el primer domingo del mes de junio del año que corresponda. Por cada Diputado o Diputada propietaria se elegirá a una persona suplente.
 
-El Congreso del Estado se integrará por 36 Diputados, de los cuales 22 serán electos según el principio de votación de mayoría relativa, mediante el sistema de distritos Electorales Uninominales y 14 serán electos según el principio de representación proporcional, mediante el sistema de lista estatal, votada en una circunscripción plurinominal cuya demarcación territorial es el Estado.
+El Congreso del Estado se integrará por 36 Diputados y Diputadas, de los cuales 22 se elegirán según el principio de votación de mayoría relativa, mediante el sistema de distritos Electorales Uninominales y 14 se elegirán según el principio de representación proporcional, mediante el sistema de lista estatal, votada en una circunscripción plurinominal cuya demarcación territorial es el Estado.
 
-Se entiende por distrito electoral uninominal, la demarcación territorial en la que será electa una fórmula de Diputados propietario y suplente, por el principio de mayoría relativa.
+Se entiende por distrito electoral uninominal, la demarcación territorial en la que será electa una fórmula de Diputados y Diputadas propietario y suplente, por el principio de mayoría relativa.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 188.
 
-Las elecciones de Diputados por ambos principios, se sujetarán a las disposiciones de la Constitución General de la República, de la Ley General, de la Ley de Partidos, Constitución del Estado y a lo previsto por esta Ley.
+Las elecciones de diputaciones por ambos principios, se sujetarán a las disposiciones de la Constitución General de la República, de la Ley General, de la Ley de Partidos, Constitución del Estado y a lo previsto por esta Ley.
 
-Los Diputados podrán ser reelectos de manera consecutiva por una sola ocasión.
+Los Diputados y Diputadas podrán ser reelectos de manera consecutiva por una sola ocasión.
 
 ###### Artículo 189.
 
 Para los efectos de esta Ley, el territorio del Estado se dividirá en 22 distritos electorales uninominales, cuya demarcación territorial será determinada por el INE, en términos del marco jurídico aplicable:
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 190.
 
-La asignación de los Diputados electos según el principio de representación proporcional y el sistema de listas estatales, se sujetará a las siguientes bases:
+La asignación de los Diputados y Diputadas electas según el principio de representación proporcional y el sistema de listas estatales, se sujetará a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-I. A todos los partidos políticos que hayan obtenido por lo menos el 3.0 % del total de la votación válida emitida, se les asignará una diputación. Se entiende por votación válida emitida la que resulte de deducir de la votación total emitida, los votos nulos y los correspondientes a los candidatos no registrados. Se entiende por votación total emitida, la suma de todos los votos depositados en las urnas.
+I. A todos los partidos políticos que hayan obtenido por lo menos el 3.0 % del total de la votación válida emitida, se les asignará una diputación. Se entiende por votación válida emitida la que resulte de deducir de la votación total emitida, los votos nulos y los correspondientes a los candidatos y candidatas no registrados. Se entiende por votación total emitida, la suma de todos los votos depositados en las urnas.
 
 II. La fórmula para asignar las diputaciones de representación proporcional restantes, en su caso, tiene dos elementos:
 
@@ -2301,7 +3025,9 @@ Por votación efectiva se entenderá la que resulte de deducir de la votación v
 
 Si después de aplicarse; el cociente electoral aún quedaren diputaciones por distribuir, se utilizarán en forma decreciente los restos mayores, que son los remanentes de votos que tuvieron los partidos políticos una vez restados los utilizados en las asignaciones anteriores.
 
-III. En ningún caso un partido político podrá contar con más de 22 diputados por ambos principios. Tampoco podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos el porcentaje que obtuvo de la votación estatal efectiva. Se exceptúa de lo anterior el partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. En ningún caso un partido político podrá contar con más de 22 diputaciones por ambos principios. Tampoco podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos el porcentaje que obtuvo de la votación estatal efectiva. Se exceptúa de lo anterior el partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento.
 
 Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. De actualizarse el supuesto anterior, se estará a lo siguiente:
 
@@ -2311,17 +3037,25 @@ b) Al partido que se encuentre subrepresentado se le asignará una diputación d
 
 c) Si se hubiese utilizado una curul de cada uno de los partidos políticos y todavía se encontrase un partido en el supuesto de subrepresentación, se iniciará una segunda vuelta comenzando nuevamente a tomar un diputado de aquel partido político que se encuentre más sobrerrepresentado.
 
-Las diputaciones obtenidas según el principio de representación proporcional, se asignarán en el orden en que fueron registrados los candidatos en las listas estatales de cada partido político.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-### CAPÍTULO II. Elección de Gobernador
+Las diputaciones obtenidas según el principio de representación proporcional, se asignarán en el orden en que fueron registrados los candidatos o candidatas en las listas estatales de cada partido político.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO II. Elección de la Gubernatura
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 191.
 
-El Poder Ejecutivo se deposita en un ciudadano que se denominará "Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas", quien ejercerá sus funciones a partir del día 1 de octubre del año de la elección y durará en su encargo 6 años.
+El Poder Ejecutivo se deposita en un ciudadano o ciudadana que se denominará "Gobernador o Gobernadora Constitucional del Estado Libre y Soberano de Tamaulipas", quien ejercerá sus funciones a partir del día 1 de octubre del año de la elección y durará en su encargo 6 años.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 192.
 
-El Gobernador se elegirá el primer domingo del mes de junio del año que corresponda, por votación directa en todo el Estado, mediante el principio de mayoría relativa, conforme a lo establecido en la Constitución del Estado y esta Ley.
+La Gubernatura se elegirá el primer domingo del mes de junio del año que corresponda, por votación directa en todo el Estado, mediante el principio de mayoría relativa, conforme a lo establecido en la Constitución del Estado y esta Ley.
 
 ### CAPÍTULO III. Elección de Miembros de los Ayuntamientos
 
@@ -2329,9 +3063,11 @@ El Gobernador se elegirá el primer domingo del mes de junio del año que corres
 
 El municipio es la base de la división territorial y de la organización política y administrativa del Estado de Tamaulipas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 194.
 
-Cada municipio será gobernado por un ayuntamiento, integrado con representantes electos popularmente por votación directa, según el principio de mayoría relativa y complementado con regidores electos según el principio de representación proporcional.
+Cada municipio será gobernado por un ayuntamiento, integrado con representantes que se elegirán popularmente por votación directa, según el principio de mayoría relativa y complementado con regidurías electas según el principio de representación proporcional. En la integración de los ayuntamientos deberá observarse el principio de paridad de género.
 
 En los términos de los que dispone la Constitución del Estado, los integrantes de los Ayuntamientos electos popularmente por elección directa podrán ser reelectos para el período inmediato por una sola ocasión.
 
@@ -2347,41 +3083,59 @@ Los Municipios del Estado son los siguientes: Abasolo, Aldama, Altamira, Antiguo
 
 Los Ayuntamientos se integrarán conforme a las bases siguientes:
 
-I. En los Municipios cuya población sea menor de 30,000 habitantes, el Ayuntamiento se integrará con 1 presidente municipal, 4 regidores y 1 síndico;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. En los Municipios cuya población sea hasta 50,000 habitantes, el Ayuntamiento se integrará con 1 presidente municipal, 5 regidores y 2 síndicos;
+I. En los Municipios cuya población sea menor de 30,000 habitantes, el Ayuntamiento se integrará con 1 presidencia municipal, 4 regidurías y 1 sindicatura;
 
-III. En los municipios cuya población sea hasta 100,000 habitantes, el ayuntamiento se integrará con 1 presidente municipal, 8 regidores y 2 síndicos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-IV. En los municipios cuya población sea hasta 200,000 habitantes, el ayuntamiento se integrará con 1 presidente municipal, 12 regidores y 2 síndicos; y
+II. En los Municipios cuya población sea hasta 50,000 habitantes, el Ayuntamiento se integrará con 1 presidencia municipal, 5 regidurías y 2 sindicaturas;
 
-V. En los municipios cuya población sea mayor 200,000 habitantes, el ayuntamiento será integrado con 1 presidente municipal, 14 regidores y 2 síndicos.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. En los municipios cuya población sea hasta 100,000 habitantes, el ayuntamiento se integrará con 1 presidencia municipal, 8 regidurías y 2 sindicaturas;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. En los municipios cuya población sea hasta 200,000 habitantes, el ayuntamiento se integrará con 1 presidencia municipal, 12 regidurías y 2 sindicaturas; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. En los municipios cuya población sea mayor 200,000 habitantes, el ayuntamiento será integrado con 1 presidencia municipal, 14 regidurías y 2 sindicaturas.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 198.
 
-En todos los municipios sus Ayuntamientos se complementarán con Regidores asignados según el principio de representación proporcional.
+En todos los municipios sus Ayuntamientos se complementarán con regidurías asignadas según el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 199.
 
-Para la asignación de Regidores electos según el principio de representación proporcional, se atenderá el orden en que los candidatos a regidores hayan sido registrados por los partidos políticos en su respectiva planilla.
+Para la asignación de regidurías electas según el principio de representación proporcional, se atenderá el orden en que los candidatos y candidatas a regidurías se hayan registrado por los partidos políticos en su respectiva planilla.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 200.
 
-Tendrán derecho a la asignación de Regidores de representación proporcional, los partidos políticos que en la elección de Ayuntamientos no hayan obtenido la mayoría relativa, siempre que la votación recibida a su favor sea igual o mayor al 1.5 % del total de la votación municipal emitida para el Ayuntamiento correspondiente.
+Tendrán derecho a la asignación de regidurías de representación proporcional, los partidos políticos que en la elección de Ayuntamientos no hayan obtenido la mayoría relativa, siempre que la votación recibida a su favor sea igual o mayor al 1.5 % del total de la votación municipal emitida para el Ayuntamiento correspondiente.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 201.
 
-Para complementar los Ayuntamientos con Regidores de representación proporcional se procederá de acuerdo a las siguientes premisas y bases:
+Para complementar los Ayuntamientos con regidurías de representación proporcional se procederá de acuerdo a las siguientes premisas y bases:
 
-I. En los municipios con población hasta 30,000 habitantes se asignarán dos Regidores de representación proporcional;
+I. En los municipios con población hasta 30,000 habitantes se asignarán dos regidurías de representación proporcional;
 
-II. En los municipios con población hasta 50,000 habitantes se asignarán tres Regidores de representación proporcional;
+II. En los municipios con población hasta 50,000 habitantes se asignarán tres regidurías de representación proporcional;
 
-III. En los municipios con población hasta 100,000 habitantes se asignarán cuatro Regidores de representación proporcional;
+III. En los municipios con población hasta 100,000 habitantes se asignarán cuatro regidurías de representación proporcional;
 
-IV. En los municipios con población hasta 200,000 habitantes se asignarán seis Regidores de representación proporcional; y
+IV. En los municipios con población hasta 200,000 habitantes se asignarán seis regidurías de representación proporcional; y
 
-V. En los municipios con población superior a 200,000 habitantes se asignarán siete Regidores de representación proporcional;
+V. En los municipios con población superior a 200,000 habitantes se asignarán siete regidurías de representación proporcional.
 
 ###### Artículo 202.
 
@@ -2403,9 +3157,11 @@ V. Si solamente un partido político hubiera obtenido el derecho a la asignació
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 203.
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, la Constitución del Estado, la Ley General, la Ley de Partidos y la presente Ley, realizados por las autoridades electorales, los partidos políticos estatales y nacionales y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Ejecutivo y Legislativo, y los Ayuntamientos en el Estado.
+El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, la Constitución del Estado, la Ley General, la Ley de Partidos y la presente Ley, realizados por las autoridades electorales, los partidos políticos estatales y nacionales, y las ciudadanas y ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Ejecutivo y Legislativo, y los Ayuntamientos en el Estado.
 
 ###### Artículo 204.
 
@@ -2431,19 +3187,27 @@ Atendiendo al principio de definitividad que rige en los procesos electorales, a
 
 Durante los procesos electorales ordinarios o, en su caso, en los procesos electorales extraordinarios, todos los días y horas son hábiles.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 206.
 
-Los partidos políticos no podrán proponer a más del 50% de candidatos de un solo género, a un mismo órgano de representación política. La autoridad electoral administrativa velará por la aplicación e interpretación de este precepto para garantizar la paridad de género.
+Los partidos políticos garantizarán la paridad de género en las candidaturas en los términos previstos en la presente ley. La autoridad electoral administrativa velará por la aplicación e interpretación de este precepto para garantizar su cumplimiento.
 
 ###### Artículo 207.
 
 Las elecciones ordinarias se celebrarán el primer domingo de junio del año que corresponda, en los términos señalados por la Constitución Federal y la Constitución del Estado para elegir:
 
-I. Gobernador, cada 6 años;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Diputado local, cada 3 años; y
+I. Gubernatura, cada 6 años;
 
-III. Presidente Municipal, Síndicos y Regidores, cada 3 años.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Diputaciones locales, cada 3 años; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Presidencias Municipales, Sindicaturas y Regidurías, cada 3 años.
 
 El día en que deban celebrarse las elecciones ordinarias será considerado como no laborable en todo el territorio de la Entidad. En el caso de las elecciones extraordinarias, el día de la elección será considerado solamente en el territorio que corresponda.
 
@@ -2459,11 +3223,17 @@ Queda prohibida la compra o adquisición de tiempos en radio y televisión para 
 
 Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la jornada electoral, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, de cualquier orden de gobierno. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. Esto se aplicará, en lo conducente, para las elecciones extraordinarias.
 
-Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos, coaliciones, candidatos o candidatos independientes, deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña, al Consejo General o a los Consejos Electorales.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-Para efectos de esta Ley se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, coalición o candidato que lo distribuye. Los artículos promocionales utilitarios durante las precampañas y campañas, solo podrán ser elaborados con material textil.
+Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos, coaliciones, quienes encabecen candidaturas y candidaturas independientes, deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña, al Consejo General o a los Consejos Electorales.
 
-Los partidos políticos, precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña para su reciclaje por lo menos tres días antes al inicio del plazo de registro de candidatos de la elección que se trate. De no retirarse el IETAM tomará las medidas para su retiro con cargo a la administración de financiamiento que corresponda al partido, además de la imposición de sanciones que al respecto establezca la ley.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Para efectos de esta Ley se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, coalición, candidato o candidata que lo distribuye. Los artículos promocionales utilitarios durante las precampañas y campañas, solo podrán ser elaborados con material textil.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Los partidos políticos, precandidatos, precandidatas y simpatizantes están obligados a retirar su propaganda electoral de precampaña para su reciclaje por lo menos tres días antes al inicio del plazo de registro de candidaturas de la elección que se trate. De no retirarse el IETAM tomará las medidas para su retiro con cargo a la administración de financiamiento que corresponda al partido, además de la imposición de sanciones que al respecto establezca la ley.
 
 ###### Artículo 211.
 
@@ -2473,15 +3243,19 @@ En el caso de la propaganda colocada en vía pública, deberá retirarse durante
 
 La omisión en el retiro o fin de distribución de la propaganda, serán sancionados conforme a esta Ley.
 
-## TÍTULO SEGUNDO. Procesos de selección de candidatos a cargos de elección popular y las precampañas electorales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+## TÍTULO SEGUNDO. Procesos de selección de candidatos y candidatas a cargos de elección popular y las precampañas electorales
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 212.
 
-Los procesos internos para la selección de candidatos a cargos de elección popular son el conjunto de actividades que realizan los partidos políticos y los aspirantes a dichos cargos, de conformidad con lo establecido en la Ley General y la presente Ley, en los Estatutos y en los reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político para seleccionar a sus candidatos.
+Los procesos internos para la selección de candidatos y candidatas a cargos de elección popular son el conjunto de actividades que realizan los partidos políticos y quienes aspiran a dichos cargos, de conformidad con lo establecido en la Ley General y la presente Ley, en los Estatutos y en los reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político para seleccionar a sus candidatos.
 
-A más tardar el 17 de diciembre del año previo al de la elección, cada partido político determinará, de conformidad con sus estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate.
+A más tardar el 17 de diciembre del año previo al de la elección, el órgano de dirección estatal de cada partido político, a través de su representante ante el Instituto, determinará el procedimiento aplicable para la selección de sus candidatos y candidatas a cargos de elección popular, según la elección de que se trate.
 
 ###### Artículo 213.
 
@@ -2507,23 +3281,29 @@ Las precampañas se realizarán del 20 de enero al 28 de febrero del año de la 
 
 El Consejo General deberá publicar el calendario oficial para precampañas aplicable al proceso electoral correspondiente, dentro del calendario que, para tal efecto, emita al iniciar el proceso electoral respectivo.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 215.
 
-Se entiende por precampaña electoral, el conjunto de actos que realizan los partidos políticos, sus militantes y los precandidatos a candidaturas a cargos de elección popular debidamente registrados en los procesos internos por cada partido político.
+Se entiende por precampaña electoral, el conjunto de actos que realizan los partidos políticos, sus militantes y los precandidatos y precandidatas a candidaturas a cargos de elección popular debidamente registradas en los procesos internos por cada partido político.
 
-Se entiende por actos de precampaña electoral, las reuniones públicas, asambleas, marchas y, en general, aquéllos en que los precandidatos a una candidatura se dirigen a los militantes, simpatizantes o al electorado en general, con el objetivo de obtener su respaldo para ser postulado como candidato a un cargo de elección popular.
+Se entiende por actos de precampaña electoral, las reuniones públicas, asambleas, marchas y, en general, aquéllos en que los precandidatos y precandidatas a una candidatura se dirigen a militantes, simpatizantes o al electorado en general, con el objetivo de obtener su respaldo para obtener la postulación a la candidatura a un cargo de elección popular.
 
-Se entiende por propaganda de precampaña electoral, el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por esta Ley y el que señale la convocatoria respectiva, difunden los precandidatos a candidaturas a cargos de elección popular con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar, de manera expresa, por medios gráficos y auditivos, la calidad de precandidato de quien es promovido.
+Se entiende por propaganda de precampaña electoral, el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por esta Ley y el que señale la convocatoria respectiva, difunden los precandidatos y precandidatas a candidaturas a cargos de elección popular con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar, de manera expresa, por medios gráficos y auditivos, la calidad de precandidato o precandidata de quien es promovido.
 
-Precandidato es el ciudadano que pretende ser postulado por un partido político como candidato a cargo de elección popular, conforme a esta Ley y a los Estatutos de un partido político, en el proceso de selección interna de candidatos a cargos de elección popular.
+Precandidato o precandidata es el ciudadano o ciudadana que pretende postularse por un partido político como candidato o candidata a cargo de elección popular, conforme a esta Ley y a los Estatutos de un partido político, en el proceso de selección interna de candidaturas a cargos de elección popular.
 
-Ningún ciudadano podrá participar, simultáneamente, en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición.
+Ningún ciudadano o ciudadana podrá participar, simultáneamente, en procesos de selección interna de candidaturas a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 216.
 
-El partido político deberá informar al IETAM, dentro de los 5 días siguientes a la acreditación de precandidatos, lo siguiente:
+El partido político deberá informar al IETAM, dentro de los 5 días siguientes a la acreditación de precandidaturas, lo siguiente:
 
-I. Relación de los precandidatos acreditados y cargo por el que compiten;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. Relación de los precandidatos y precandidatas acreditadas y cargo por el que compiten;
 
 II. Fecha de Inicio y conclusión de actividades de precampaña; y
 
@@ -2533,121 +3313,199 @@ III. Calendario de actividades oficiales de precampaña.
 
 Los partidos políticos, conforme a sus estatutos, deberán establecer el órgano interno responsable de la organización de los procesos de selección de sus candidatos y, en su caso, de las precampañas.
 
-Los partidos políticos harán uso del tiempo en radio y televisión que establezcan la Ley de Partidos Políticos y la Ley General, para la difusión de sus procesos de selección interna de candidatos a cargos de elección popular, de conformidad con las reglas y pautas que determine el INE.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Los partidos políticos harán uso del tiempo en radio y televisión que establezcan la Ley de Partidos Políticos y la Ley General, para la difusión de sus procesos de selección interna de candidatos y candidatas a cargos de elección popular, de conformidad con las reglas y pautas que determine el INE. Cuando se acredite violencia política contra las mujeres en uso de las prerrogativas señaladas en el presente capítulo, el Consejo General procederá de manera inmediata en términos de lo dispuesto en esta Ley y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 218.
 
-Los precandidatos podrán impugnar, ante el órgano interno competente, los reglamentos y convocatorias; la integración de los órganos responsables de conducir los procesos internos, los acuerdos y resoluciones que adopten y, en general, los actos que realicen los órganos directivos, o sus integrantes, cuando de los mismos se desprenda la violación de las normas que rijan los procesos de selección de candidatos a cargos de elección popular. Cada partido político emitirá un reglamento interno en el que se normarán los procedimientos y plazos para la resolución de tales controversias.
+Los precandidatos y precandidatas podrán impugnar, ante el órgano interno competente, los reglamentos y convocatorias; la integración de los órganos responsables de conducir los procesos internos, los acuerdos y resoluciones que adopten y, en general, los actos que realicen los órganos directivos, o sus integrantes, cuando de los mismos se desprenda la violación de las normas que rijan los procesos de selección de candidaturas a cargos de elección popular. Cada partido político emitirá un reglamento interno en el que se normarán los procedimientos y plazos para la resolución de tales controversias.
 
-Los medios de impugnación internos que se interpongan con motivo de los resultados de los procesos de selección interna de candidatos a cargos de elección popular deberán quedar resueltos, en definitiva, a más tardar el 22 de marzo del año de la elección.
+Los medios de impugnación internos que se interpongan con motivo de los resultados de los procesos de selección interna de candidaturas a cargos de elección popular deberán quedar resueltos, en definitiva, a más tardar el 22 de marzo del año de la elección.
 
-Los medios de impugnación que presenten los precandidatos debidamente registrados en contra de los resultados de elecciones internas o de la asamblea en que se hayan adoptado decisiones sobre candidaturas se presentarán ante el órgano interno competente, a más tardar, dentro de los 4 días siguientes a la emisión del resultado o a la conclusión de la asamblea.
+Los medios de impugnación que presenten los precandidatos y precandidatas debidamente registradas en contra de los resultados de elecciones internas o de la asamblea en que se hayan adoptado decisiones sobre candidaturas se presentarán ante el órgano interno competente, a más tardar, dentro de los 4 días siguientes a la emisión del resultado o a la conclusión de la asamblea.
 
-Solamente los precandidatos debidamente registrados por el partido político de que se trate podrán impugnar el resultado del proceso de selección de candidatos en que hayan participado.
+Solamente los precandidatos y precandidatas debidamente registradas por el partido político de que se trate podrán impugnar el resultado del proceso de selección de candidaturas en que hayan participado.
 
-Es competencia directa de cada partido político, a través del órgano establecido por sus Estatutos, o por el reglamento o convocatoria correspondiente, negar o cancelar el registro a los precandidatos que incurran en conductas contrarias a esta Ley o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus Estatutos o en los reglamentos y convocatorias respectivas. Las decisiones que adopten los órganos competentes de cada partido político podrán ser recurridas por los aspirantes o precandidatos ante las autoridades jurisdiccionales competentes, una vez agotados los procedimientos internos de justicia partidaria.
+Es competencia directa de cada partido político, a través del órgano establecido por sus Estatutos, o por el reglamento o convocatoria correspondiente, negar o cancelar el registro a los precandidatos y precandidatas que incurran en conductas contrarias a esta Ley o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus Estatutos o en los reglamentos y convocatorias respectivas.
+
+Las decisiones que adopten los órganos competentes de cada partido político podrán ser recurridas por las personas aspirantes, precandidatos o precandidatas ante las autoridades jurisdiccionales competentes, una vez agotados los procedimientos internos de justicia partidaria.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 219.
 
-A más tardar en el mes de noviembre del año previo al de la elección, el Consejo General determinará los topes de gasto de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al 30% del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+A más tardar en el mes de noviembre del año previo al de la elección, el Consejo General determinará los topes de gasto de precampaña por precandidato y precandidata y tipo de elección para la que pretenda postularse. El tope será equivalente al 30% del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
 
-Los precandidatos que rebasen el tope de gastos de precampaña establecido por el Consejo General serán sancionados con la cancelación de su registro o, en su caso, con la pérdida de la candidatura que hayan obtenido. En el último supuesto, los partidos políticos conservan el derecho de realizar las sustituciones que procedan.
+Los precandidatos y precandidatas que rebasen el tope de gastos de precampaña establecido por el Consejo General serán sancionados con la cancelación de su registro o, en su caso, con la pérdida de la candidatura que hayan obtenido. En el último supuesto, los partidos políticos conservan el derecho de realizar las sustituciones que procedan.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 220.
 
-Los recursos obtenidos para y durante una precampaña electoral, estarán conformados por las aportaciones o donaciones, en dinero o en especie, efectuadas a favor de los aspirantes a candidatos, en forma libre y voluntaria, por personas físicas.
+Los recursos obtenidos para y durante una precampaña electoral, estarán conformados por las aportaciones o donaciones, en dinero o en especie, efectuadas a favor de las personas aspirantes a candidaturas, en forma libre y voluntaria, por personas físicas.
 
 ###### Artículo 221.
 
 (DEROGADO, P.O. 8 DE JUNIO DE 2017)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 222.
 
-A los precandidatos a candidaturas a cargos de elección popular que participen en los procesos de selección interna convocados por cada partido político les está prohibido:
+A los precandidatos y precandidatas a candidaturas a cargos de elección popular que participen en los procesos de selección interna convocados por cada partido político les está prohibido:
 
 I. Recibir cualquier aportación que no esté autorizada por el partido político o coalición, así como aquellas expresamente prohibidas en la presente Ley;
 
-II. Realizar actos de precampaña electoral antes de la expedición de la constancia de registro correspondiente por el órgano autorizado del partido político. La violación a esta disposición se sancionará con la negativa de registro como precandidato; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-III. En todo tiempo, contratar o adquirir propaganda de carácter político o electoral o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como precandidato o, en su caso, con la cancelación de dicho registro.
+II. Realizar actos de precampaña electoral antes de la expedición de la constancia de registro correspondiente por el órgano autorizado del partido político. La violación a esta disposición se sancionará con la negativa de registro como precandidato o precandidata;
 
-De comprobarse la violación a estas normas en fecha posterior a la de postulación del candidato por el partido político de que se trate, el Consejo General negará el registro del infractor.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-## TÍTULO TERCERO. Procedimiento de registro de candidatos
+III. En todo tiempo, contratar o adquirir propaganda de carácter político o electoral o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como precandidato o, en su caso, con la cancelación de dicho registro; y
+
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. Ejercer violencia política contra las mujeres en razón de género o recurrir a expresiones que degraden, DENIGREN o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+De comprobarse la violación a estas normas en fecha posterior a la de postulación del candidato o candidata por el partido político de que se trate, el Consejo General negará el registro de la persona infractora.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+## TÍTULO TERCERO. Procedimiento de registro de candidaturas
 
 ### CAPÍTULO ÚNICO
 
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 223.
 
-Los partidos políticos y coaliciones tendrán derecho de solicitar el registro de candidatos a elección popular, con independencia del derecho otorgado a los ciudadanos en lo individual, en términos de la Constitución Federal, la Constitución del Estado, la Ley General y esta Ley.
+Los partidos políticos Y COALICIONES tendrán derecho de solicitar el registro de candidaturas a elección popular, con independencia del derecho otorgado a los ciudadanos y ciudadanas en lo individual, en términos de la Constitución Federal, la Constitución del Estado, la Ley General y esta Ley. De la totalidad de solicitudes de registro, tanto de las candidaturas a diputaciones locales como a las planillas a Ayuntamientos que presenten los partidos políticos O LAS COALICIONES ante el IETAM deberán integrarse salvaguardando la paridad entre los géneros.
+
+El IEATM deberá rechazar el registro del número de candidaturas de un género que no garantice el principio de paridad, fijando al partido un plazo improrrogable para la sustitución de las mismas. En caso de que no sean sustituidas no se aceptarán dichos registros.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 224.
 
-A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral; tampoco podrá ser candidato para un cargo federal de elección popular y simultáneamente en la Entidad. En este supuesto, si el registro para el cargo de la elección federal ya estuviere hecho, se procederá a la cancelación automática del registro local respectivo.
+A ninguna persona podrá registrársele como candidato o candidata a distintos cargos de elección popular en el mismo proceso electoral; tampoco podrá ser candidato o candidata para un cargo federal de elección popular y simultáneamente en la Entidad. En este supuesto, si el registro para el cargo de la elección federal ya estuviere hecho, se procederá a la cancelación automática del registro local respectivo.
 
-En el caso de que para un mismo cargo de elección popular, bajo el principio de mayoría relativa, sean registrados diferentes candidatos por un mismo partido político en la Entidad, el Secretario del Consejo General, una vez detectada esta situación, requerirá al partido político a efecto de que informe al Consejo General, en un término de 24 horas, qué candidato o fórmula prevalecerá. En caso de no hacerlo en el término concedido se entenderá que el partido político opta por el último de los registros presentados, quedando sin efecto los demás.
+En el caso de que para un mismo cargo de elección popular, bajo el principio de mayoría relativa, se registren diferentes candidatos o candidatas por un mismo partido político en la Entidad, la persona titular de la Secretaría del Consejo General, una vez detectada esta situación, requerirá al partido político a efecto de que informe al Consejo General, en un término de 24 horas, qué candidato, candidata o fórmula prevalecerá. En caso de no hacerlo en el término concedido se entenderá que el partido político opta por el último de los registros presentados, quedando sin efecto los demás.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 225.
 
-El plazo para el registro de candidatos a Gobernador, Diputados por el principio de mayoría relativa o planillas de Ayuntamiento, en el año de la elección, concluirá tres días antes del inicio de la misma campaña. El inicio se llevará a cabo en las siguientes fechas:
+El plazo para el registro de candidatos y candidatas a la Gubernatura, Diputaciones por el principio de mayoría relativa o planillas de Ayuntamiento, en el año de la elección, concluirá tres días antes del inicio de la misma campaña. El inicio se llevará a cabo en las siguientes fechas:
 
-I. Registro de candidatos a Gobernador, del 23 al 27 de marzo; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Registro de candidatos a Diputados por ambos principios y a integrantes de Ayuntamientos, del 27 al 31 de marzo.
+I. Registro de candidaturas a la Gubernatura, del 23 al 27 de marzo; y
 
-El Consejo General deberá hacer público, durante el mes de enero del año de la elección, el calendario oficial para registro de candidatos aplicable al proceso electoral correspondiente.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Registro de candidaturas a Diputaciones por ambos principios y a integrantes de Ayuntamientos, del 27 al 31 de marzo.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+El Consejo General deberá hacer público, durante el mes de enero del año de la elección, el calendario oficial para registro de candidaturas aplicable al proceso electoral correspondiente.
 
 Cualquier solicitud o documentación presentada fuera de los plazos de esta Ley será desechada de plano y, en su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos. Serán desechadas de plano las candidaturas presentadas por fórmulas, planillas y lista estatal, si no están debidamente integradas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 226.
 
-Las solicitudes de registro de candidatos deberán ser presentadas:
+Las solicitudes de registro de candidaturas deberán ser presentadas:
 
-I. La de Gobernador del Estado y las de Diputados por el principio de representación proporcional, ante el Consejo General del IETAM;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. La de Diputados por el principio de mayoría relativa, indistintamente, ante el Consejo Distrital correspondiente al Distrito Electoral que se pretenda contender o ante el Consejo General del IETAM; y
+I. La de Gubernatura del Estado y las de Diputaciones por el principio de representación proporcional, ante el Consejo General del IETAM;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. La de Diputaciones por el principio de mayoría relativa, indistintamente, ante el Consejo Distrital correspondiente al Distrito Electoral que se pretenda contender o ante el Consejo General del IETAM; y
 
 III. Las planillas de Ayuntamientos, indistintamente, ante el Consejo Municipal correspondiente al municipio que se pretenda contender o ante el Consejo General del IETAM.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 227.
 
-El plazo para aprobación, en su caso de los registros de los candidatos, será el siguiente:
+El plazo para aprobación, en su caso de los registros de candidaturas, será el siguiente:
 
-I. Candidatos a Gobernador, del 28 al 30 de marzo del año de la elección; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Candidatos a Diputados por ambos principios y a integrantes de Ayuntamientos, del 1 al 3 de abril del año de la elección.
+I. Candidaturas a la Gubernatura, del 28 al 30 de marzo del año de la elección; y
 
-Recibida una solicitud de registro de candidaturas por el Presidente o Secretario que corresponda, dentro de los tres días siguientes se verificará que se cumplió con todos los requisitos conducentes.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Candidaturas a Diputaciones por ambos principios y a integrantes de Ayuntamientos, del 1 al 3 de abril del año de la elección.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Recibida una solicitud de registro de candidaturas por la persona titular de la Presidencia o Secretaría que corresponda, dentro de los tres días siguientes se verificará que se cumplió con todos los requisitos conducentes.
 
 Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se hará la notificación correspondiente, para que dentro de las 48 horas siguientes a dicha notificación se subsane el o los requisitos omitidos o se sustituya la candidatura, siempre y cuando esto pueda realizarse dentro de los plazos previstos en este artículo.
 
 Los partidos políticos o coaliciones, en su caso, que se encuentren en el supuesto del párrafo anterior tendrán un plazo de 3 días, contado a partir de la notificación, para que subsanen las irregularidades correspondientes.
 
-Vencido el plazo a que se refiere el párrafo anterior, los partidos políticos o coaliciones que no hubieren subsanado tales irregularidades, perderán el derecho al registro del o los candidatos correspondientes;
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Vencido el plazo a que se refiere el párrafo anterior, los partidos políticos o coaliciones que no hubieren subsanado tales irregularidades, perderán el derecho al registro de la o las candidaturas correspondientes;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 228.
 
-Para la sustitución de candidatos, los partidos políticos y coaliciones lo solicitarán por escrito al IETAM, observando las siguientes disposiciones:
+Para la sustitución de candidatas o candidatos, los partidos políticos y coaliciones lo solicitarán por escrito al IETAM, observando las siguientes disposiciones:
 
-I. Dentro del plazo establecido para el registro de candidatos, podrán sustituirlos libremente;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. Dentro del plazo establecido para el registro de candidaturas, podrán sustituirlos libremente;
 
 II. Vencido el plazo a que se refiere la fracción anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia. En este último caso, no podrán sustituirlos cuando la renuncia se presente dentro de los 10 días anteriores al de la jornada electoral. Para la corrección o sustitución, en su caso, de las boletas electorales se estará a lo dispuesto en el artículo 234 de la presente Ley; y
 
-III. En los casos en que la renuncia del candidato fuera notificada por éste al IETAM, se hará del conocimiento del partido político que lo registró para que proceda, en su caso, a su sustitución.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. En los casos en que la renuncia del candidato o candidata fuera notificada por éste al IETAM, se hará del conocimiento del partido político que lo registró para que proceda, en su caso, a su sustitución.
 
 ###### Artículo 229.
 
 En todos los registros se deberán observar los principios de paridad y alternancia de género.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+###### Artículo 229 Bis.
+
+Hecho el cierre del registro de candidaturas, si un partido político o coalición no cumple con las disposiciones previstas en esta Ley respecto de la integración de listas de representación proporcional observando los principios de paridad de género y alternancia, el Consejo General y los órganos electorales competentes, le requerirán en primera instancia para que en el plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidaturas y le apercibirá de que, en caso de no hacerlo, le hará una amonestación pública.
+
+Transcurrido el plazo a que se refiere el párrafo anterior, el partido político o coalición que no realice la sustitución de candidaturas, será acreedor a una amonestación pública y el Consejo General o, en su caso, los órganos electorales competentes, le requerirán, de nueva cuenta, para que en un plazo de veinticuatro horas, contadas a partir de la notificación, haga la corrección. En caso de incumplimiento se sancionará con la negativa del registro de las candidaturas correspondientes.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 230.
 
-Las candidaturas a Diputados serán registradas por fórmulas de candidatos compuestas por un candidato propietario y un suplente, los cuales deberán ser del mismo género.
+Las candidaturas a Diputaciones serán registradas por fórmulas de candidatos y candidatas compuestas por una persona propietaria y una suplente, los cuales deberán ser del mismo género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 231.
 
-La solicitud de registro de candidatos deberá señalar el partido o coalición que los postulan, así como los siguientes datos y documentos:
+La solicitud de registro de candidatura deberá señalar el partido o coalición que los postulan, así como los siguientes datos y documentos:
 
-I. Nombre y apellido de los candidatos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. Nombre y apellido de los candidatos y candidatas;
 
 II. Lugar y fecha de nacimiento;
 
@@ -2665,19 +3523,27 @@ VIII. Constancia de residencia, precisando el tiempo de la misma;
 
 IX. Declaración de aceptación de la candidatura; y
 
-X.- Declaración, bajo protesta de decir verdad, de que cumple con los requisitos que exigen la Constitución Federal, la Constitución del Estado y esta Ley. En la solicitud de registro de candidatos, los partidos políticos deben manifestar que las personas que proponen fueron seleccionadas de conformidad con sus normas estatutarias.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+X. Declaración, bajo protesta de decir verdad, de que cumple con los requisitos que exigen la Constitución Federal, la Constitución del Estado y esta Ley. En la solicitud de registro de candidaturas, los partidos políticos deben manifestar que las personas que proponen fueron seleccionadas de conformidad con sus normas estatutarias.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 232.
 
-Los Consejos Distritales y Municipales, dentro de las 24 horas siguientes a la fecha en que se lleve a cabo el registro, comunicarán al IETAM, los registros correspondientes de candidatos que hubieren recibido.
+Los Consejos Distritales y Municipales, dentro de las 24 horas siguientes a la fecha en que se lleve a cabo el registro, comunicarán al IETAM, los registros correspondientes de candidaturas que hubieren recibido.
 
 ###### Artículo 233.
 
 Las plataformas electorales para el proceso electoral que corresponda se deberán presentar ante el Consejo General del IETAM a más tardar el 10 de diciembre del año de la elección. Lo mismo aplicará para las coaliciones que en su caso se conformen y para sus respectivas plataformas. El Consejo General expedirá la constancia correspondiente.
 
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO XX, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 234.
 
-Dentro del plazo establecido para el registro de candidatos, los partidos políticos o coaliciones pueden sustituirlos libremente, respetando los principios de paridad y alternancia de género que, en su caso, se deba seguir en el registro del total de fórmulas de candidatos. Vencido éste, los partidos políticos o coaliciones podrán solicitar, ante el Consejo General, la sustitución o cancelación del registro de uno o varios candidatos, respetando los principios antes citados y sólo por las siguientes causas:
+Dentro del plazo establecido para el registro de candidaturas, los partidos políticos O COALICIONES pueden hacer sustituciones libremente, respetando los principios de paridad y alternancia de género que, en su caso, se deba seguir en el registro del total de fórmulas de candidaturas. Vencido éste, los partidos políticos o coaliciones podrán solicitar, ante el Consejo General, la sustitución o cancelación del registro de una o varias candidaturas, respetando los principios antes citados y sólo por las siguientes causas:
 
 I. Fallecimiento;
 
@@ -2687,51 +3553,67 @@ III. Incapacidad física o mental declarada médicamente; o
 
 IV. Renuncia.
 
-En este último caso, el candidato deberá notificar a su partido político y no procederá la sustitución cuando la renuncia se presente dentro de los 10 días anteriores al de la elección. Para la corrección o sustitución, en su caso, de las boletas electorales se estará a lo dispuesto por el presente.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-Las renuncias que se presenten vencido el plazo de registro de candidatos, no afectarán los derechos adquiridos por los partidos políticos o coaliciones en lo que toca a la asignación de Diputados de representación proporcional.
+En este último caso, el candidato o candidata deberá notificar a su partido político y no procederá la sustitución cuando la renuncia se presente dentro de los 10 días anteriores al de la elección. Para la corrección o sustitución, en su caso, de las boletas electorales se estará a lo dispuesto por el presente.
+
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Las renuncias que se presenten vencido el plazo de registro de candidaturas, no afectarán los derechos adquiridos por los partidos políticos O COALICIONES en lo que toca a la asignación de Diputaciones de representación proporcional.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 235.
 
-El IETAM hará del conocimiento público, oportunamente, los nombres de los candidatos y planillas registrados, mediante publicación en el Periódico Oficial del Estado, así como en los estrados y su página oficial de internet. Los Consejos Distritales y Municipales lo harán en sus respectivos ámbitos territoriales.
+El IETAM hará del conocimiento público, oportunamente, los nombres de los candidatos, candidatas y planillas registrados, mediante publicación en el Periódico Oficial del Estado, así como en los estrados y su página oficial de internet. Los Consejos Distritales y Municipales lo harán en sus respectivos ámbitos territoriales.
 
-En la misma forma se procederá respecto de las cancelaciones de registro o sustituciones de candidatos.
+En la misma forma se procederá respecto de las cancelaciones de registro o sustituciones de candidaturas.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 236.
 
-Las candidaturas a Diputados a elegirse por el principio de mayoría relativa y por el principio de representación proporcional se registrarán por fórmulas de candidatos compuestas, cada una, por un propietario y un suplente del mismo género y serán consideradas, fórmulas y candidatos, separadamente, salvo para efectos de la votación.
+Las candidaturas a Diputaciones a elegirse por el principio de mayoría relativa y por el principio de representación proporcional se registrarán por fórmulas de candidatos y candidatas compuestas, cada una, por una persona propietaria y una suplente del mismo género y serán consideradas, fórmulas y candidatos y candidatas, separadamente, salvo para efectos de la votación.
 
-El registro total de las candidaturas para integrar las fórmulas para la elección de Diputados de mayoría relativa propuestas por los partidos políticos, deberán respetar el principio de paridad de género.
+El registro total de las candidaturas para integrar las fórmulas para la elección de Diputaciones de mayoría relativa propuestas por los partidos políticos, deberán respetar el principio de paridad de género.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 237.
 
-Las candidaturas a Presidente, Síndico y Regidores del Ayuntamiento, serán registradas mediante planillas completas.
+Las candidaturas a Presidencia, Sindicatura y Regidurías del Ayuntamiento, serán registradas mediante planillas completas en las que deberá observarse el principio de paridad de género horizontal y vertical. En las fórmulas de candidaturas de las planillas las personas propietarias y suplentes deberán ser del mismo sexo.
 
-(NOTA: EL 10 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS DÉCIMO Y VIGÉSIMO, ASÍ COMO EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2015 Y SUS ACUMULADAS 46/2015 Y 47/2015, DECLARÓ LA INVALIDEZ PARCIAL DE ESTE ARTÍCULO, EN LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-Los candidatos A REGIDORES propietarios y suplentes deberán ser del mismo género.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 238.
 
-Se considerará como requisito indispensable para que proceda el registro de candidatos que el partido político o coalición que los postula:
+Se considerará como requisito indispensable para que proceda el registro de candidaturas que el partido político O COALICIÓN que los postula:
 
-I. Haya registrado la plataforma electoral mínima; y
+I. Haya registrado la plataforma electoral mínima;
 
-II. Que la totalidad de solicitudes de registro para candidatos a diputados por el principio de mayoría relativa respete el principio de paridad de género; y los Diputados por el principio de representación proporcional el principio de paridad y alternancia de género.
+II. Que la totalidad de solicitudes de registro para candidaturas a diputaciones por el principio de mayoría relativa respete el principio de paridad de género; y las diputaciones por el principio de representación proporcional el principio de paridad y alternancia de género. Las fórmulas de candidaturas deberán considerar suplentes del mismo género que la persona propietaria; y
+
+III. Que la totalidad de solicitudes de registro para candidaturas a integrantes de ayuntamientos, postulen planillas observando el principio de paridad de género vertical y horizontal. Las fórmulas de candidaturas deberán considerar suplentes del mismo género que la persona propietaria.
 
 ## TÍTULO CUARTO. Campañas Electorales
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 239.
 
-La campaña electoral, para los efectos la presente Ley, es el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones y los candidatos registrados para la obtención del voto.
+La campaña electoral, para los efectos (sic) la presente Ley, es el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones, las candidatas y candidatos registrados para la obtención del voto.
 
-Se entiende por actos de campaña electoral, las reuniones públicas, asambleas, marchas y, en general, aquellos en que los candidatos, los dirigentes y militantes de los partidos políticos o coaliciones se dirigen al electorado para promover sus candidaturas con el objeto de obtener el voto ciudadano.
+Se entiende por actos de campaña electoral, las reuniones públicas, asambleas, marchas y, en general, aquellos en que los candidatos y candidatas, dirigentes y militantes de los partidos políticos o coaliciones se dirigen al electorado para promover sus candidaturas con el objeto de obtener el voto ciudadano.
 
-Se entiende por propaganda electoral, el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que, durante la campaña electoral, producen y difunden los partidos políticos, las coaliciones, los candidatos registrados y sus militantes y simpatizantes respectivos, con el propósito de manifestar y promover el apoyo o rechazo a alguna candidatura, partidos políticos o coaliciones, a la ciudadanía en general.
+Se entiende por propaganda electoral, el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que, durante la campaña electoral, producen y difunden los partidos políticos, las coaliciones, las candidatas y los candidatos registrados y sus militantes y simpatizantes respectivos, con el propósito de manifestar y promover el apoyo o rechazo a alguna candidatura, partidos políticos o coaliciones, a la ciudadanía en general.
 
-Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos y candidatos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
+Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos, candidatas y candidatos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
 
 ###### Artículo 240.
 
@@ -2741,9 +3623,11 @@ Quedará prohibida la distribución o colocación de la propaganda electoral den
 
 Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda, siempre que la difusión se limite una vez al año en estaciones y canales con cobertura en el ámbito geográfico de responsabilidad del servidor público y no exceda los 7 días anteriores y 5 posteriores a la fecha en que se rinda el informe. En ningún caso, la difusión de tales informes podrá tener fines electorales ni realizarse dentro del periodo de campaña electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 242.
 
-Los gastos que realicen los partidos políticos, las coaliciones y sus candidatos, así como los candidatos independientes en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección acuerde el Consejo General.
+Los gastos que realicen los partidos políticos, las coaliciones, sus candidatos y candidatas, así como los candidatos y candidatas independientes en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección acuerde el Consejo General.
 
 No se considerarán dentro de los topes de campaña, los gastos que realicen los partidos políticos para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
 
@@ -2755,51 +3639,67 @@ Los gastos que para cada campaña realicen los partidos políticos, coaliciones 
 
 El tope de gastos de campaña será equivalente al monto que resulte de multiplicar el 55 % del valor diario de la Unidad de Medida y Actualización, por el número de electores que estén inscritos en el padrón electoral correspondiente al territorio de la elección que corresponda.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 244.
 
-Las reuniones públicas realizadas por los partidos políticos, coaliciones y los candidatos registrados se regirán por lo dispuesto en el artículo 9 de la Constitución Federal y no tendrán más límite que el respeto a los derechos de terceros, en particular, los de otros partidos políticos y candidatos, así como las disposiciones que para el ejercicio del derecho humano de reunión y la preservación del orden público dicte la autoridad administrativa competente.
+Las reuniones públicas realizadas por los partidos políticos, coaliciones, las candidatas y los candidatos registrados se regirán por lo dispuesto en el artículo 9 de la Constitución Federal y no tendrán más límite que el respeto a los derechos de terceros, en particular, los de otros partidos políticos, candidatas y candidatos, así como las disposiciones que para el ejercicio del derecho humano de reunión y la preservación del orden público dicte la autoridad administrativa competente.
 
-En aquellos casos en los que las autoridades concedan, gratuitamente, a los partidos políticos, coaliciones o candidatos, el uso de locales cerrados de propiedad pública, se estará a lo siguiente:
+En aquellos casos en los que las autoridades concedan, gratuitamente, a los partidos políticos, coaliciones o candidatos y candidatas, el uso de locales cerrados de propiedad pública, se estará a lo siguiente:
 
-I. Las autoridades estatales y municipales deberán dar un trato equitativo en el uso de los locales públicos a todos los partidos políticos y candidatos que participan en la elección; en todo caso, concederán su uso atendiendo a la insaculación de esos lugares públicos que, para tal efecto se realice, evitando que actos convocados por diversos partidos políticos, coaliciones o candidatos, coincidan en un mismo tiempo y lugar; y
+I. Las autoridades estatales y municipales deberán dar un trato equitativo en el uso de los locales públicos a todos los partidos políticos, candidatos y candidatas que participan en la elección; en todo caso, concederán su uso atendiendo a la insaculación de esos lugares públicos que, para tal efecto se realice, evitando que actos convocados por diversos partidos políticos, coaliciones, candidatos o candidatas, coincidan en un mismo tiempo y lugar; y
 
-II. Los partidos políticos y candidatos deberán solicitar el uso de los locales con suficiente antelación, señalando la naturaleza del acto a realizar, el número de ciudadanos que se estima habrán de concurrir, las horas necesarias para la preparación y realización del evento, los requerimientos en materia de iluminación y sonido y el nombre del ciudadano autorizado por el partido político, coalición o el candidato en cuestión que se responsabilice del buen uso del local y sus instalaciones.
+II. Los partidos políticos, candidatas y candidatos deberán solicitar el uso de los locales con suficiente antelación, señalando la naturaleza del acto a realizar, el número de personas que se estima habrán de concurrir, las horas necesarias para la preparación y realización del evento, los requerimientos en materia de iluminación y sonido y el nombre de la persona autorizada por el partido político, coalición, el candidato o la candidata en cuestión que se responsabilice del buen uso del local y sus instalaciones.
 
-El presidente del Consejo General podrá solicitar a las autoridades competentes, los medios de seguridad personal para los candidatos que lo requieran, desde el momento en que de acuerdo con los mecanismos internos de su partido político se ostenten con tal carácter. Las medidas que adopte la autoridad competente serán informadas al Consejero Presidente.
+El presidente o presidenta del Consejo General podrá solicitar a las autoridades competentes, los medios de seguridad personal para los candidatos y candidatas que lo requieran, desde el momento en que de acuerdo con los mecanismos internos de su partido político se ostenten con tal carácter. Las medidas que adopte la autoridad competente serán informadas a la Consejera o Consejero Presidente.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 245.
 
-Los partidos políticos o candidatos que decidan, dentro de la campaña electoral, realizar marchas o reuniones que impliquen una interrupción temporal de la vialidad, deberán dar a conocer a la autoridad competente su itinerario, a fin de que ésta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión.
+Los partidos políticos, candidatos o candidatas que decidan, dentro de la campaña electoral, realizar marchas o reuniones que impliquen una interrupción temporal de la vialidad, deberán dar a conocer a la autoridad competente su itinerario, a fin de que ésta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 246.
 
-La propaganda impresa o electrónica que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político o coalición que ha registrado al candidato, o el emblema del candidato independiente.
+La propaganda impresa o electrónica que los candidatos y candidatas utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político o coalición que ha realizado el registro, o el emblema del candidato o candidata independiente.
 
-La propaganda que en el curso de una campaña difundan, por medios gráficos, los partidos políticos, las coaliciones y los candidatos, no tendrán más límite, en los términos del artículo 7 de la Constitución Federal, que el respeto a la vida privada de candidatos, autoridades, terceros y a las instituciones y valores democráticos.
+La propaganda que en el curso de una campaña difundan, por medios gráficos, los partidos políticos, las coaliciones, las candidatas y los candidatos, no tendrán más límite, en los términos del artículo 7 de la Constitución Federal, que el respeto a la vida privada de candidatos, autoridades, terceros y a las instituciones y valores democráticos.
 
 ###### Artículo 247.
 
 La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos se ajustarán a lo dispuesto por el primer párrafo del artículo 6 de la Constitución Federal.
 
-En la propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos, deberán abstenerse de expresiones que calumnien a las personas.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-El Consejo General está facultado para ordenar el retiro o la suspensión inmediata de la propaganda contraria a las disposiciones de esta norma, mediante acuerdo debidamente fundado y motivado.
+En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, los candidatos y las candidatas deberán abstenerse de expresiones que calumnien a las personas, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley y las demás disposiciones aplicables.
 
-Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución Federal, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la Ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+El Consejo General está facultado para ordenar, una vez satisfechos los procedimientos establecidos en esta Ley y las demás disposiciones aplicables, el retiro o la suspensión inmediata de la propaganda contraria a esta norma.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Los partidos políticos, y las personas precandidatas y candidatas podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución Federal, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la Ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
 
 El derecho a que se refiere el párrafo anterior se ejercerá en la forma y términos que determine la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 248.
 
-La propaganda que los partidos políticos, las coaliciones y los candidatos realicen en la vía pública, a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones legales y administrativas expedidas en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
+La propaganda que los partidos políticos, las coaliciones, las candidatas y los candidatos realicen en la vía pública, a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones legales y administrativas expedidas en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
 
 ###### Artículo 249.
 
 En las oficinas, edificios y locales ocupados por la administración y los poderes públicos no podrá fijarse ni distribuirse propaganda electoral de ningún tipo, así como tampoco podrán realizar actos de propaganda electoral, salvo cuando se trate de los locales a que se refiere el párrafo segundo del artículo 245 de esta Ley y exclusivamente por el tiempo de duración del acto de campaña que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 250.
 
-En la colocación de propaganda electoral, los partidos políticos, coaliciones y candidatos, observarán las reglas siguientes:
+En la colocación de propaganda electoral, los partidos políticos, coaliciones, candidatos y candidatas, observarán las reglas siguientes:
 
 I. No podrá colgarse en elementos del equipamiento urbano ni obstaculizar, en forma alguna, la visibilidad de los señalamientos que permiten a las personas transitar y orientarse dentro de los centros de población. Las autoridades electorales competentes ordenarán el retiro de la propaganda electoral contraria a esta norma;
 
@@ -2825,29 +3725,41 @@ En todo caso, los Ayuntamientos determinarán las reglas para la colocación de 
 
 Para el cumplimiento de estas disposiciones, los organismos electorales, con el auxilio de la fuerza pública en caso necesario, velarán por su observancia y adoptarán las medidas a que hubiere lugar.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 251.
 
-En los lugares señalados para los centros de votación y en los alrededores de las sedes de los organismos electorales, los partidos políticos, coaliciones o candidatos, no deberán fijar propaganda en un radio de 100 metros y, si la hubiere, el Consejo General, los Consejos Distritales o Municipales, según sea el caso, ordenará su retiro con cargo al infractor a que se refiera la misma.
+En los lugares señalados para los centros de votación y en los alrededores de las sedes de los organismos electorales, los partidos políticos, coaliciones, candidatas o candidatos, no deberán fijar propaganda en un radio de 100 metros y, si la hubiere, el Consejo General, los Consejos Distritales o Municipales, según sea el caso, ordenará su retiro con cargo al infractor a que se refiera la misma.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 252.
 
-Los bastidores y mamparas de uso común serán repartidos por sorteo en forma equitativa de conformidad a lo que corresponda a los partidos políticos, coaliciones y candidatos registrados, conforme al procedimiento que establezca el Consejo General.
+Los bastidores y mamparas de uso común serán repartidos por sorteo en forma equitativa de conformidad a lo que corresponda a los partidos políticos, coaliciones, candidatas y candidatos registrados, conforme al procedimiento que establezca el Consejo General.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 253.
 
-El IETAM y los Consejos Electorales, dentro del ámbito de su competencia harán cumplir estas disposiciones y adoptarán las medidas a que hubiere lugar, con el fin de asegurar a partidos políticos, coaliciones y candidatos, el pleno ejercicio de sus derechos y garantizar el cumplimiento de sus obligaciones en la materia, por lo que podrán ordenar el retiro o destrucción de la propaganda empleada en contra de lo dispuesto por la presente Ley, mediante acuerdo debidamente fundado y motivado.
+El IETAM y los Consejos Electorales, dentro del ámbito de su competencia harán cumplir estas disposiciones y adoptarán las medidas a que hubiere lugar, con el fin de asegurar a partidos políticos, coaliciones, candidatas y candidatos, el pleno ejercicio de sus derechos y garantizar el cumplimiento de sus obligaciones en la materia, por lo que podrán ordenar el retiro o destrucción de la propaganda empleada en contra de lo dispuesto por la presente Ley, mediante acuerdo debidamente fundado y motivado.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 254.
 
-Las denuncias motivadas por la propaganda impresa y electrónica de los partidos políticos, coaliciones o candidatos que sean presentadas en el Consejo Distrital o Municipal que corresponda al ámbito territorial en que se presente el hecho que motiva la queja, el mencionado Consejo ordenará la verificación de los hechos, integrará el expediente y lo remitirá al IETAM para efecto de que el Consejo General resuelva conforme a la presente Ley.
+Las denuncias motivadas por la propaganda impresa y electrónica de los partidos políticos, coaliciones, candidatas o candidatos que sean presentadas en el Consejo Distrital o Municipal que corresponda al ámbito territorial en que se presente el hecho que motiva la queja, el mencionado Consejo ordenará la verificación de los hechos, integrará el expediente y lo remitirá al IETAM para efecto de que el Consejo General resuelva conforme a la presente Ley.
 
 ###### Artículo 255.
 
 Las campañas electorales se realizarán bajo las siguientes reglas:
 
-I. Para Gobernador del Estado, iniciará con posterioridad a la aprobación del registro y deberán concluir tres días antes de la jornada electoral, con un duración de 60 días; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Para Diputados por ambos principios, así como para Ayuntamientos, iniciarán con posterioridad a la aprobación del registro y deberán concluir tres días antes de la jornada electoral, con una duración de 45 días.
+I. Para la Gubernatura del Estado, iniciará con posterioridad a la aprobación del registro y deberán concluir tres días antes de la jornada electoral, con un duración de 60 días; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Para Diputaciones por ambos principios, así como para Ayuntamientos, iniciarán con posterioridad a la aprobación del registro y deberán concluir tres días antes de la jornada electoral, con una duración de 45 días.
 
 El Consejo General publicará el calendario de duración de las campañas en los términos de la presente Ley.
 
@@ -2857,13 +3769,19 @@ El día de la jornada electoral y durante los 3 días anteriores, no se permitir
 
 El INE emitirá las reglas, lineamientos, criterios y formatos de los resultados preliminares, encuestas o sondeos de opinión y conteos rápidos, en términos de la Ley General.
 
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+REFORMADO, P.O. 13 DE JUNIO DE 2020)
+
 ###### Artículo 257.
 
-Los partidos políticos, coaliciones y los candidatos están obligados a retirar su propaganda dentro de los 7 días siguientes a la terminación del proceso electoral respectivo.
+Los partidos políticos, coaliciones, candidatas y candidatos están obligados a retirar su propaganda DENTRO DE LOS 7 DÍAS SIGUIENTES A LA TERMINACIÓN DEL PROCESO ELECTORAL RESPECTIVO.
 
-Los partidos políticos, las coaliciones y sus candidatos respectivos serán solidariamente responsables de los gastos que se generen por motivo del retiro de su propaganda electoral.
+Los partidos políticos, las coaliciones y sus candidatas y candidatos respectivos serán solidariamente responsables de los gastos que se generen por motivo del retiro de su propaganda electoral.
 
-En caso de que no se retire la propaganda dentro del plazo a que se refiere este artículo, el Consejo General la retirará con cargo a las prerrogativas de los partidos políticos o coaliciones responsables. En el caso de los candidatos independientes serán sancionados con una multa equivalente al gasto erogado por el retiro de su propaganda electoral.
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+En caso de que no se retire la propaganda DENTRO DEL PLAZO A QUE SE REFIERE ESTE ARTÍCULO, el Consejo General la retirará con cargo a las prerrogativas de los partidos políticos o coaliciones responsables. En el caso de las candidatas y candidatos independientes serán sancionados con una multa equivalente al gasto erogado por el retiro de su propaganda electoral.
 
 ###### Artículo 258.
 
@@ -2873,29 +3791,49 @@ Para efectos de lo dispuesto en el artículo 246 de la presente Ley, el Consejo 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 259.
 
-El Consejo General organizará dos debates obligatorios entre todos los candidatos a Gobernador y promoverá, a través de los Consejos Distritales y Municipales, la celebración de debates entre candidatos a Diputados o Presidentes Municipales.
+El Consejo General organizará dos debates obligatorios entre todos los candidatos y candidatas a la Gubernatura y promoverá, a través de los Consejos Distritales y Municipales, la celebración de debates entre candidatos y candidatas a Diputaciones o Presidencias Municipales.
 
-Para la realización de los debates obligatorios, el Consejo General definirá las reglas, fechas y sedes, respetando el principio de equidad entre los candidatos, mediante el reglamento respectivo.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-Los debates obligatorios de los candidatos al cargo de Gobernador, serán transmitidos por las estaciones de radio y televisión de las concesionarias de uso público. Los concesionarios de uso comercial deberán transmitir dichos debates en, por lo menos, una de sus señales radiodifundidas, cuando tengan una cobertura de cincuenta por ciento o más del territorio estatal.
+Para la realización de los debates obligatorios, el Consejo General definirá las reglas, fechas y sedes, respetando el principio de equidad entre los candidatos y candidatas, mediante el reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Los debates obligatorios de los candidatos y candidatas a la Gubernatura, serán transmitidos por las estaciones de radio y televisión de las concesionarias de uso público. Los concesionarios de uso comercial deberán transmitir dichos debates en, por lo menos, una de sus señales radiodifundidas, cuando tengan una cobertura de cincuenta por ciento o más del territorio estatal.
 
 El IETAM realizará las gestiones necesarias a fin de propiciar la transmisión de los debates en el mayor número posible de estaciones y canales.
 
 Las señales radiodifundidas que el IETAM genere para este fin podrán ser utilizadas, en vivo y en forma gratuita, por los demás concesionarios de radio y televisión, así como por otros concesionarios de telecomunicaciones.
 
-Los medios de comunicación estatal podrán organizar, libremente, debates entre candidatos, siempre y cuando cumplan con lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
+
+Los medios de comunicación estatal podrán organizar, libremente, debates entre candidatos y candidatas, siempre y cuando cumplan con lo siguiente:
 
 I. Se comunique al IETAM y a los Consejos Distritales o Municipales, según corresponda;
 
-II. Participen por lo menos dos candidatos de la misma elección;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Participen por lo menos dos candidatos o candidatas de la misma elección;
 
 III. Se establezcan condiciones de equidad en el formato; y
 
-IV. Se inviten a todos los candidatos correspondientes.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-La transmisión de los debates por los medios de comunicación será gratuita y se llevará a cabo de forma íntegra y sin alterar los contenidos. La no asistencia de uno o más de los candidatos invitados a estos debates no será causa para la no realización del mismo.
+IV. Se inviten a todos los candidatos y candidatas correspondientes.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+La transmisión de los debates por los medios de comunicación será gratuita y se llevará a cabo de forma íntegra y sin alterar los contenidos. La no asistencia de uno o más de las candidatas o candidatos invitados a estos debates no será causa para la no realización del mismo.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+###### Artículo 259 Bis.
+
+Durante los debates a que se refiere el presente apartado, las candidatas y los candidatos deberán abstenerse de expresiones que calumnien a las personas, así como a otras candidatas o candidatos, discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley y las demás disposiciones aplicables.
 
 ## TÍTULO SEXTO. De la documentación y material electoral
 
@@ -2911,33 +3849,57 @@ En las elecciones estatales, y en las concurrentes, en términos de lo que dispo
 
 En términos de lo que establece el inciso f) del párrafo 1 del Artículo 104 de la Ley General, en este capítulo se regula la entrega y recepción de la documentación y material electoral para la jornada electoral.
 
-Las boletas y el material electoral deberán obrar en poder del Consejo Municipal 15 días antes de la elección.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Las boletas y el material electoral deberán obrar en poder del Consejo Distrital o Municipal a más tardar 15 días antes de la elección correspondiente.
 
 Para su control se tomarán las medidas siguientes:
 
-I. Los consejos correspondientes del Instituto IETAM deberán designar, con la oportunidad debida, el lugar que ocupará la bodega electoral para el resguardo de la documentación electoral de las elecciones;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. El personal autorizado del Consejo General entregará las boletas en el día, lugar y hora preestablecidos a los Presidentes de los Consejos Distritales, quienes estarán acompañados de los demás integrantes de su respectivo Consejo; y
+I. Los consejos correspondientes del IETAM deberán designar, con la oportunidad debida, el lugar que ocupará la bodega electoral para el resguardo de la documentación electoral de las elecciones, conforme a los lineamientos y normatividad aplicable;
 
-III. El personal autorizado del Consejo Distrital entregará las boletas en el día, hora y lugar preestablecidos a los Presidentes de los Consejos Municipales, quienes estarán acompañados de los demás integrantes del propio Consejo.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-Los Secretarios de los Consejos Distritales y Municipales, levantarán acta pormenorizada de la entrega y recepción de las boletas, asentando en ella los datos relativos al número de las boletas, las características del embalaje que las contiene y los nombres y cargos de los funcionarios presentes.
+II. El personal autorizado del Consejo General entregará las boletas en el día, lugar y hora preestablecidos a las Presidentas o los Presidentes de los Consejos Distritales o Municipales, quienes estarán acompañados de los demás integrantes de su respectivo Consejo;
 
-A continuación los miembros presentes de los Consejos Distritales y Municipales, acompañarán al Presidente para depositar la documentación recibida en el lugar previamente asignado dentro de su local, debiendo asegurar su integridad mediante fajillas selladas y firmadas por los concurrentes. Estos pormenores se asentarán en el acta respectiva.
+III. (DEROGADA, P.O. 13 DE JUNIO DE 2020)
 
-El mismo día o a más tardar el siguiente, el Presidente, el Secretario y los consejeros electorales del Consejo Municipal procederán a verificar el número de boletas recibidas, sellarlas al dorso y agruparlas, en razón del número de electores que corresponda a cada una de las casillas a instalar, incluyendo los de las casillas especiales. El Secretario registrará los datos de esta distribución.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-Estas operaciones se realizarán con la presencia de los representantes de los partidos políticos que decidan asistir.
+Las Secretarias o los Secretarios de los Consejos Distritales y Municipales, levantarán acta pormenorizada de la entrega y recepción de las boletas, asentando en ella los datos relativos al número de las boletas, las características del embalaje que las contiene y los nombres y cargos de los funcionarios presentes.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+A continuación los miembros presentes de los Consejos Distritales y Municipales, acompañarán a la Presidenta o al Presidente para depositar la documentación recibida en el lugar previamente asignado dentro de su local, debiendo asegurar su integridad mediante fajillas selladas y firmadas por los concurrentes. Estos pormenores se asentarán en el acta respectiva.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+El mismo día o a más tardar el siguiente, la Presidenta o el Presidente, la Secretaria o el Secretario y las Consejeras y los Consejeros electorales del Consejo Distrital o Municipal procederán a verificar el número de boletas recibidas, sellarlas al dorso y agruparlas, en razón del número de electores que corresponda a cada una de las casillas a instalar, incluyendo los de las casillas especiales, conforme a los lineamientos y normatividad aplicable. La Secretaria o el Secretario registrará los datos de esta distribución.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Estas operaciones se realizarán con la presencia de las personas representantes de los partidos políticos y de las candidaturas independientes que decidan asistir.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 262.
 
-Los Consejos Municipales entregarán a los Presidentes de las mesas directivas de casillas, dentro de los cinco días previos al anterior del de la jornada electoral, contra recibo detallado, lo siguiente:
+Los Consejos Distritales o Municipales entregarán a las Presidentas y los Presidentes de las mesas directivas de casillas, dentro de los cinco días previos al anterior del de la jornada electoral, contra recibo detallado, lo siguiente:
 
 I. La lista nominal de electores con fotografía de la sección;
 
-II. La relación de los representantes de partido o coalición registrados ante la mesa directiva de casilla;
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-III. La relación de los representantes generales acreditados por cada partido político o coalición;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. La relación de las personas representantes de partido, COALICIÓN o candidatura independiente registrados ante la mesa directiva de casilla;
+
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV y XIX, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. La relación de las personas representantes generales acreditados por cada partido político, COALICIÓN o candidatura independiente;
 
 IV. Las boletas para cada elección, en número igual al de electores que figuren en la lista nominal para cada casilla de la sección;
 
@@ -2947,17 +3909,25 @@ VI. El líquido indeleble;
 
 VII. La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios;
 
-VIII. Los instructivos que indiquen las atribuciones y responsabilidades de los funcionarios de la casilla; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VIII. Los instructivos que indiquen las atribuciones y responsabilidades de las personas funcionarias de la casilla; y
 
 IX. Los canceles o elementos modulares que garanticen que el elector pueda emitir su voto en secreto.
 
-A los Presidentes de las mesas directivas de casillas especiales les será entregada la documentación y materiales a que se refiere el párrafo anterior, con excepción de la lista nominal de electores con fotografía, en lugar de la cual recibirán los medios informáticos necesarios para verificar que los electores que acudan a votar se encuentren inscritos en la lista nominal de electores que corresponde al domicilio consignado en su credencial para votar.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-La entrega y recepción del material a que se refiere este artículo se hará con la participación de los integrantes de los Consejos Municipales que decidan asistir.
+A las Presidentas y Presidentes de las mesas directivas de casillas especiales les será entregada la documentación y materiales a que se refiere el párrafo anterior, con excepción de la lista nominal de electores con fotografía, en lugar de la cual recibirán los medios informáticos necesarios para verificar que los electores que acudan a votar se encuentren inscritos en la lista nominal de electores que corresponde al domicilio consignado en su credencial para votar.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+La entrega y recepción del material a que se refiere este artículo se hará con la participación de las personas integrantes de los Consejos Distritales o Municipales que decidan asistir.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 263.
 
-En el local de la casilla y en su exterior no deberá haber propaganda de partidos políticos, coaliciones o candidatos; de haberla, la mandarán retirar.
+En el local de la casilla y en su exterior no deberá haber propaganda de partidos políticos, coaliciones, candidatas o candidatos; de haberla, la mandarán retirar.
 
 ###### Artículo 264.
 
@@ -3035,11 +4005,15 @@ El programa de resultados electorales preliminares será un programa único cuya
 
 El cómputo municipal de una elección es la suma que realiza el Consejo Municipal de los resultados anotados en las actas de escrutinio y cómputo de las casillas de un municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 276.
 
-Los Consejos Municipales sesionarán a partir de las 8:00 horas del martes siguiente al día de la elección, para hacer el cómputo final de la elección de ayuntamientos. El cómputo municipal se realizará sucesiva e ininterrumpidamente hasta su conclusión.
+Los Consejos Municipales sesionarán a partir de las 8:00 horas del miércoles siguiente al día de la elección, para hacer el cómputo final de la elección de ayuntamientos. El cómputo municipal se realizará sucesiva e ininterrumpidamente hasta su conclusión.
 
-Los Consejos Municipales, en sesión previa a la de los cómputos, acordarán que los miembros del Consejo y los representantes de los partidos políticos o coaliciones, podrán sustituirse o alternarse con sus propios suplentes en la sesión del cómputo, de manera que se pueda sesionar permanentemente hasta la conclusión del mismo.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Los Consejos Municipales, en sesión previa a la de los cómputos, acordarán que las y los miembros del Consejo, las representaciones de los partidos políticos y de las candidaturas independientes, podrán sustituirse o alternarse con las personas suplentes en la sesión del cómputo, de manera que se pueda sesionar permanentemente hasta la conclusión del mismo.
 
 Los Consejos Municipales, deberán contar con los elementos humanos, materiales, técnicos y financieros necesarios para la realización de los cómputos en forma permanente.
 
@@ -3049,9 +4023,9 @@ El cómputo municipal de la elección de ayuntamientos se sujetará al procedimi
 
 I. Se abrirán los paquetes que no tengan muestras de alteración, y siguiendo el orden numérico de las casillas, se cotejarán los resultados de las actas de escrutinio y cómputo contenidas en el paquete con los resultados de las actas en poder del Consejo Municipal. Cuando los resultados de ambas actas coincidan, se tomarán en cuenta para el cómputo y se asentarán en las formas autorizadas para ello;
 
-II. Cuando los resultados de las actas no coincidan, no exista acta final de escrutinio y cómputo en el paquete, y no obrare ésta en poder del Presidente del Consejo Municipal, se procederá a realizar nuevamente el escrutinio y cómputo de la casilla, levantándose el acta correspondiente.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-Los resultados se anotarán en la forma establecida para ello, dejándose constancia en el acta circunstanciada correspondiente; de igual manera, se harán constar en dicha acta las objeciones que hubiere manifestado cualesquiera de los representantes ante el Consejo, quedando a salvo sus derechos para impugnar el cómputo de que se trate. En ningún caso se podrá interrumpir u obstaculizar la realización de los cómputos.
+II. Cuando los resultados de las actas no coincidan, no exista acta final de escrutinio y cómputo en el paquete, y no obrare ésta en poder del Presidente o Presidenta del Consejo Municipal, se procederá a realizar nuevamente el escrutinio y cómputo de la casilla, levantándose el acta correspondiente;
 
 III. Cuando existan errores o alteraciones evidentes en las actas, el Consejo Municipal podrá acordar que el escrutinio y cómputo se realicen nuevamente en los términos señalados en la fracción anterior;
 
@@ -3061,25 +4035,37 @@ V. La suma de los resultados constituirá el cómputo municipal de la elección 
 
 VI. En acta circunstanciada de la sesión se harán constar los resultados del cómputo, los incidentes que ocurrieron durante la misma y la declaración de validez de la elección de la planilla;
 
-VII. Concluido el cómputo y emitida la declaración de validez para la elección de ayuntamientos, el Presidente del Consejo Municipal expedirá constancia de mayoría a la planilla que hubiese obtenido el triunfo; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-VIII. Los Presidentes de los Consejos Municipales fijarán en el exterior de los locales del Consejo, al término de la sesión del cómputo municipal, los resultados de la elección del ayuntamiento respectivo.
+VII. Concluido el cómputo y emitida la declaración de validez para la elección de ayuntamientos, el Presidente o Presidenta del Consejo Municipal expedirá constancia de mayoría a la planilla que hubiese obtenido el triunfo; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VIII. Los Presidentes o Presidentas de los Consejos Municipales fijarán en el exterior de los locales del Consejo, al término de la sesión del cómputo municipal, los resultados de la elección del ayuntamiento respectivo.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 278.
 
-El Presidente del Consejo Municipal deberá integrar el expediente del cómputo municipal de la elección del ayuntamiento, con las actas de casilla, el original del acta de cómputo municipal, el acta circunstanciada de la sesión de cómputo y el informe del propio Presidente sobre el desarrollo del proceso electoral.
+El Presidente o Presidenta del Consejo Municipal deberá integrar el expediente del cómputo municipal de la elección del ayuntamiento, con las actas de casilla, el original del acta de cómputo municipal, el acta circunstanciada de la sesión de cómputo y el informe del propio Presidente sobre el desarrollo del proceso electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 279.
 
-El Presidente del Consejo Municipal, una vez integrado el expediente, procederá a:
+El Presidente o Presidenta del Consejo Municipal, una vez integrado el expediente, procederá a:
 
 I. Remitir al Tribunal Electoral, cuando se hubiere interpuesto, el recurso de inconformidad, y junto con éste los escritos presentados por los terceros interesados y el informe circunstanciado, así como copia certificada del expediente del cómputo municipal y declaración de validez de la elección del ayuntamiento respectivo; y
 
 II. Remitir al Consejo General, una vez vencido el plazo para la interposición del recurso de inconformidad, el expediente del cómputo municipal que contenga copia certificada de las actas, copia certificada de la constancia de mayoría de la planilla que la hubiese obtenido, así como un informe de los recursos que se hubieren interpuesto. Cuando se interponga medio de impugnación, se enviará copia del mismo al Consejo General.
 
-Los Presidentes de los Consejos Municipales conservarán en su poder las actas originales y documentación de cada uno de los expedientes de los cómputos municipales.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-Asimismo, los Presidentes tomarán las medidas necesarias para resguardar escrupulosamente el material electoral existente y el depósito de los paquetes que contengan la documentación electoral en un lugar seguro, hasta la conclusión del proceso electoral, en que el Consejo General procederá a su destrucción. En su caso alentarán la adopción del acuerdo correspondiente.
+Los Presidentes o Presidentas de los Consejos Municipales consensarán en su poder las actas originales y documentación de cada uno de los expedientes de los cómputos municipales.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Asimismo, los Presidentes o Presidentas tomarán las medidas necesarias para resguardar escrupulosamente el material electoral existente y el depósito de los paquetes que contengan la documentación electoral en un lugar seguro, hasta la conclusión del proceso electoral, en que el Consejo General procederá a su destrucción. En su caso alentarán la adopción del acuerdo correspondiente.
 
 ### CAPÍTULO III. Cómputos distritales y la declaración de validez de la elección de Diputados
 
@@ -3087,85 +4073,127 @@ Asimismo, los Presidentes tomarán las medidas necesarias para resguardar escrup
 
 El cómputo distrital de una elección es la suma que realiza el Consejo Distrital, de los resultados anotados en las actas del escrutinio y cómputo de las casillas de un distrito, excepción hecha de la elección de ayuntamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 281.
 
-Los Consejos Distritales sesionarán el martes siguiente al día de la jornada electoral, para hacer el cómputo de cada una de las elecciones en el orden siguiente:
+Los Consejos Distritales sesionarán a partir de las 8:00 horas del miércoles siguiente al día de la jornada electoral, para hacer el cómputo de cada una de las elecciones en el orden siguiente:
 
-I. Cómputo distrital de la elección de Gobernador;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Cómputo de la elección de diputados de mayoría relativa; y
+I. Cómputo distrital de la elección de la Gubernatura;
 
-III. Cómputo distrital de la elección de diputados de representación proporcional.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Cómputo de la elección de diputaciones de mayoría relativa; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Cómputo distrital de la elección de diputaciones de representación proporcional.
 
 El cómputo distrital se sujetará a las normas establecidas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 282.
 
-El cómputo distrital de la elección de Gobernador del Estado, de diputados de mayoría relativa y de representación proporcional, se sujetará al procedimiento siguiente:
+El cómputo distrital de la elección de la Gubernatura, de diputaciones de mayoría relativa y de representación proporcional, se sujetará al procedimiento siguiente:
 
 I. Se harán las operaciones señaladas para el cómputo municipal de esta Ley;
 
-II. Acto seguido, se procederá a extraer de los paquetes electorales de las casillas especiales, los expedientes relativos a la elección de Gobernador del Estado y de diputados por ambos principios; y se realizarán las operaciones referidas en la fracción anterior;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-III. El cómputo distrital de la elección de Gobernador y de diputados por ambos principios, será el resultado de sumar las cifras obtenidas en las actas de las casillas y de las especiales instaladas en el distrito, asentándose en el acta correspondiente a estas elecciones;
+II. Acto seguido, se procederá a extraer de los paquetes electorales de las casillas especiales, los expedientes relativos a la elección de la Gubernatura y de diputaciones por ambos principios; y se realizarán las operaciones referidas en la fracción anterior;
 
-IV. Concluido el cómputo y emitida la declaración de validez para la elección de diputados de mayoría relativa, el Presidente del Consejo Distrital expedirá la constancia de mayoría a la fórmula que hubiese obtenido el triunfo; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-V. Se hará constar en las actas circunstanciadas de sesión de cada elección, los resultados del cómputo, los incidentes que ocurrieron durante la misma y la declaración de validez de la elección de diputados de mayoría relativa, así como la expedición de la constancia de mayoría relativa.
+III. El cómputo distrital de la elección de la Gubernatura y de diputaciones por ambos principios, será el resultado de sumar las cifras obtenidas en las actas de las casillas y de las especiales instaladas en el distrito, asentándose en el acta correspondiente a estas elecciones;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. Concluido el cómputo y emitida la declaración de validez para la elección de diputados de mayoría relativa, el Presidente o Presidenta del Consejo Distrital expedirá la constancia de mayoría a la fórmula que hubiese obtenido el triunfo; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. Se hará constar en las actas circunstanciadas de sesión de cada elección, los resultados del cómputo, los incidentes que ocurrieron durante la misma y la declaración de validez de la elección de diputaciones de mayoría relativa, así como la expedición de la constancia de mayoría relativa.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 283.
 
-El Presidente del Consejo Distrital deberá:
+· El Presidente o Presidenta del Consejo Distrital deberá:
 
-I. Integrar el expediente del cómputo distrital de la elección de diputados por ambos principios con las actas de casillas, el original del acta de cómputo distrital, el acta circunstanciada de la sesión de cómputo y el informe del propio Presidente sobre el desarrollo del proceso electoral; e
+I. Integrar el expediente del cómputo distrital de la elección de diputaciones por ambos principios con las actas de casillas, el original del acta de cómputo distrital, el acta circunstanciada de la sesión de cómputo y el informe del propio Presidente o Presidenta sobre el desarrollo del proceso electoral; e
 
-II. Integrar el expediente del cómputo distrital de la elección de Gobernador con las correspondientes actas de casillas, el original del acta de cómputo y copia del informe del propio Presidente sobre el desarrollo del proceso electoral.
+II. Integrar el expediente del cómputo distrital de la elección de la Gubernatura con las correspondientes actas de casillas, el original del acta de cómputo y copia del informe del propio Presidente o Presidenta sobre el desarrollo del proceso electoral.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 284.
 
-El Presidente del Consejo Distrital, una vez integrados los expedientes, procederá a:
+El Presidente o Presidenta del Consejo Distrital, una vez integrados los expedientes, procederá a:
 
-I. Remitir al Tribunal Electoral, cuando se hubiere interpuesto, el recurso de inconformidad, y junto con éste los escritos presentados por los terceros interesados y el informe circunstanciado, así como copia certificada del expediente del cómputo distrital y declaración de validez de la elección de diputados de mayoría relativa y, en su caso, el expediente de cómputo distrital de la elección de Gobernador y de diputados según el principio de representación proporcional, cuyos resultados hubiesen sido impugnados en los términos de la legislación correspondiente;
+I. Remitir al Tribunal Electoral, cuando se hubiere interpuesto, el recurso de inconformidad, y junto con éste los escritos presentados por los terceros interesados y el informe circunstanciado, así como copia certificada del expediente del cómputo distrital y declaración de validez de la elección de diputados de mayoría relativa y, en su caso, el expediente de cómputo distrital de la elección de la Gubernatura y de diputaciones según el principio de representación proporcional, cuyos resultados hubiesen sido impugnados en los términos de la legislación correspondiente;
 
-II. Remitir al Consejo General, una vez vencido el plazo para la interposición del recurso de inconformidad, el expediente del cómputo distrital que contenga las actas originales y el expediente del cómputo distrital de la elección de Gobernador y de diputados según el principio de representación proporcional, así como un informe de los recursos que se hubieren interpuesto para cada una de las elecciones; cuando se haya presentado el recurso de inconformidad, se enviará copia del mismo al Consejo General; y
+II. Remitir al Consejo General, una vez vencido el plazo para la interposición del recurso de inconformidad, el expediente del cómputo distrital que contenga las actas originales y el expediente del cómputo distrital de la elección de la Gubernatura y de diputaciones según el principio de representación proporcional, así como un informe de los recursos que se hubieren interpuesto para cada una de las elecciones; cuando se haya presentado el recurso de inconformidad, se enviará copia del mismo al Consejo General; y
 
-III. Los Presidentes de los Consejos Distritales conservarán en su poder las actas originales y documentación de cada uno de los expedientes de los cómputos distritales.
+III. Los Presidentes o Presidentas de los Consejos Distritales conservarán en su poder fas (sic) actas originales y documentación de cada uno de los expedientes de los cómputos distritales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO IV
 
-De los Cómputos Estatal de la elección de Gobernador, Final de la elección de diputados por el principio de Representación Proporcional y de las Constancias de Asignación
+De los Cómputos Estatal de la elección de la Gubernatura, final de la elección de diputaciones por el principio de Representación Proporcional y de las Constancias de Asignación
 
 ###### Artículo 285.
 
 El Consejo General sesionará el sábado siguiente del día de la elección, a efecto de:
 
-I. Realizar el cómputo estatal de la elección de Gobernador, emitir la declaratoria de validez y expedir la constancia de mayoría respectiva al candidato que la hubiere obtenido;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Realizar el cómputo final de la elección de diputados según el principio de representación proporcional, emitir la declaratoria de validez de esta elección; y
+I. Realizar el cómputo estatal de fa (sic) elección de la Gubernatura, emitir la declaratoria de validez y expedir la constancia de mayoría respectiva al candidato o candidata que la hubiere obtenido;
 
-III. Dar a conocer el resultado de la aplicación de la fórmula de asignación; de regidores de representación proporcional.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Realizar el cómputo final de la elección de diputaciones según el principio de representación proporcional, emitir la declaratoria de validez de esta elección; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Dar a conocer el resultado de la aplicación de la fórmula de asignación; de regidurías de representación proporcional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 286.
 
-Para realizar el cómputo estatal de la elección de Gobernador y final de diputados según el principio de representación proporcional, el Consejo General se sujetará a las reglas siguientes:
+Para realizar el cómputo estatal de fa (sic) elección de la Gubernatura y final de diputaciones según el principio de representación proporcional, el Consejo General se sujetará a las reglas siguientes:
 
-I. Respecto de la elección de Gobernador, tomará como base los resultados que consten en las actas del cómputo distrital; la sumatoria de éstos constituirá el resultado del cómputo estatal de dicha elección;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Con relación a la elección de diputados de representación proporcional tomará como base los resultados que consten en las actas del cómputo distrital; la sumatoria de éstos constituirá el resultado del cómputo final de dicha elección;
+I. Respecto de la elección de la Gubernatura, tomará como base los resultados que consten en las actas del cómputo distrital; la sumatoria de éstos constituirá el resultado del cómputo estatal de dicha elección;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Con relación a la elección de diputaciones de representación proporcional tomará como base los resultados que consten en las actas del cómputo distrital; la sumatoria de éstos constituirá el resultado del cómputo final de dicha elección;
 
 III. Se harán constar en las actas los resultados de cada cómputo y los incidentes; y
 
-IV. Se informará al Congreso del Estado, por conducto de la Secretaría general, los resultados de la aplicación de la fórmula de asignación de la elección de diputados por el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. Se informará al Congreso del Estado, por conducto de la Secretaría general, los resultados de la aplicación de la fórmula de asignación de la elección de diputaciones por el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 287.
 
-Dictadas las resoluciones por el Tribunal Electoral del Poder Judicial del Estado dentro de los recursos que se hubieren hecho valer, para la elección de Gobernador, el Consejo General procederá a realizar el cómputo final de la misma, tomando como base los resultados que consten en el acta del cómputo estatal, acatando en su caso, las resoluciones de Tribunal Electoral y su ejecución.
+Dictadas las resoluciones por el Tribunal Electoral del Poder Judicial del Estado dentro de los recursos que se hubieren hecho valer, para la elección de la Gubernatura, el Consejo General procederá a realizar el cómputo final de la misma, tomando como base los resultados que consten en el acta del cómputo estatal, acatando en su caso, las resoluciones de Tribunal Electoral y su ejecución.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 288.
 
-El Consejo General hará las asignaciones de diputados de representación proporcional y de regidores de representación proporcional, una vez resueltos por el Tribunal Electoral los recursos que se hayan interpuesto en los términos de la legislación correspondiente.
+El Consejo General hará las asignaciones de diputaciones de representación proporcional y de regidurías de representación proporcional, una vez resueltos por el Tribunal Electoral los recursos que se hayan interpuesto en los términos de la legislación correspondiente.
 
-El Presidente del Consejo General expedirá a quien corresponda, según los resultados de las elecciones y la resolución de los medios de impugnación, las constancias de asignación de diputados y de regidores según el principio de representación proporcional, de lo que informará a la Secretaría General del Congreso del Estado y a los ayuntamientos.
+El Presidente o Presidenta del Consejo General expedirá a quien corresponda, según los resultados de las elecciones y la resolución de los medios de impugnación, las constancias de asignación de diputaciones y de regidurías según el principio de representación proporcional, de lo que informará a la Secretaria General del Congreso del Estado y a los ayuntamientos.
 
 ### CAPÍTULO V. Del recuento de votos
 
@@ -3179,9 +4207,13 @@ Los recuentos totales o parciales de votos, de ser procedentes, se realizarán:
 
 I. En las sesiones de cómputo municipal para el caso de la elección de integrantes de los ayuntamientos;
 
-II. En las sesiones de cómputos distritales para el caso de la elección de diputados por el principio de mayoría relativa; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-III. En las sesiones de cómputos distritales, para el caso de la elección de Gobernador, respecto de los resultados en el distrito en el que se actualice alguna de las hipótesis para la procedencia del recuento.
+II. En las sesiones de cómputos distritales para el caso de la elección de diputaciones por el principio de mayoría relativa; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+III. En las sesiones de cómputos distritales, para el caso de la elección de la Gubernatura, respecto de los resultados en el distrito en el que se actualice alguna de las hipótesis para la procedencia del recuento.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -3189,25 +4221,29 @@ III. En las sesiones de cómputos distritales, para el caso de la elección de G
 
 El recuento parcial de votos, solamente se realizará respecto de aquellas casillas en las que se presente alguno de los siguientes elementos:
 
-I. Todos los votos hayan sido depositados a favor de un mismo partido político o candidato independiente;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. Todos los votos hayan sido depositados a favor de un mismo partido político, candidata o candidato independiente;
 
 II. Si los resultados de las actas no coinciden, o se detectaren alteraciones evidentes en las actas que generen duda fundada sobre el resultado de la elección en la casilla, o no existiere el acta de escrutinio y cómputo en el expediente de la casilla ni obrare en poder del presidente del Consejo; y
 
 III. Existan errores o inconsistencias evidentes en los distintos elementos de las actas, salvo que puedan corregirse o aclararse con otros elementos a satisfacción plena de quien lo haya solicitado.
 
-Además de que se presente alguno de los elementos anteriores, deberá obrar solicitud al inicio de la sesión de cómputo del representante del Partido Político, Coalición o Candidato independiente que presuntamente estuviera en segundo lugar de la elección de que se trate.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Además de que se presente alguno de los elementos anteriores, deberá obrar solicitud al inicio de la sesión de cómputo del representante del Partido Político, Coalición, Candidata o Candidato independiente que presuntamente estuviera en segundo lugar de la elección de que se trate.
 
 ###### Artículo 292.
 
 El recuento total de votos, procederá cuando se actualice cualquiera de los siguientes supuestos:
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-I. El número de votos nulos sea mayor a la diferencia entre los candidatos ubicados en el primero y segundo lugar de votación. En estas hipótesis deberá solicitarse el recuento al inicio de la sesión de cómputo;
+I. El número de votos nulos sea mayor a la diferencia entre los candidatos o candidatas ubicadas en el primero y segundo lugar de votación. En estas hipótesis deberá solicitarse el recuento al inicio de la sesión de cómputo;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Cuando al final de la sesión de cómputo se establezca que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar en la elección según corresponda, sea igual o menor a un punto porcentual.
+II. Cuando al final de la sesión de cómputo se establezca que la diferencia entre la candidata o candidato presuntamente ganador y el ubicado en segundo lugar en la elección según corresponda, sea igual o menor a un punto porcentual.
 
 III. (DEROGADA, P.O. 8 DE JUNIO DE 2017)
 
@@ -3217,21 +4253,33 @@ Los recuentos de votos, cuando sean procedentes, se sujetarán a las siguientes 
 
 I. El Consejo correspondiente dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del sábado siguiente al de la jornada electoral;
 
-II. De admitirse la procedencia del recuento, el Presidente del Consejo correspondiente dará aviso inmediato al Secretario Ejecutivo del Instituto; ordenará la creación de grupos de trabajo integrados por los consejeros electorales y demás funcionarios del Instituto, con la participación de los representantes de los partidos o coaliciones;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-III. El Consejo habilitará a los consejeros o funcionarios del Instituto que presidirán los grupos de trabajo;
+II. De admitirse la procedencia del recuento, el Presidente o Presidenta del Consejo correspondiente dará aviso inmediato a la Secretaría Ejecutiva del Instituto; ordenará la creación de grupos de trabajo integrados por los consejeros y consejeras electorales y demás funcionariado del Instituto, con la participación de quienes representen a los partidos o coaliciones;
 
-IV. Los grupos de trabajo realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos o coaliciones tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-V. De así requerirse, a petición del Presidente del Consejo respectivo, el Secretario Ejecutivo podrá asignar a funcionarios electorales de otros Consejos Electorales o del Consejo General, para apoyar las tareas de recuento. Esta determinación será hecha del conocimiento de los partidos políticos o coaliciones;
+III. El Consejo habilitará a los consejeros, consejeras o funcionariado del Instituto que presidirán los grupos de trabajo;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. Los grupos de trabajo realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos o coaliciones tendrán derecho a nombrar a una persona representante en cada grupo, con su respectivo suplente;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. De así requerirse, a petición del Presidente o Presidenta del Consejo respectivo, la persona titular de la Secretaría Ejecutiva podrá asignar al funcionariado electoral de otros Consejos Electorales o del Consejo General, para apoyar las tareas de recuento. Esta determinación será hecha del conocimiento de los partidos políticos o coaliciones;
 
 VI. En el caso de los cómputos distritales, y cuando se actualice el recuento en las elecciones, no se suspenderá el cómputo de la que no amerite recuento, y se formarán los grupos de trabajo para la que requiera el ejercicio;
 
 VII. Si durante el recuento de votos se encuentran en el paquete votos de una elección distinta, se contabilizarán para la elección de que se trate;
 
-VIII. El funcionario electoral que presida cada grupo de trabajo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido o coalición y candidato;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-IX. El presidente del Consejo realizará, en sesión plenaria, la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate; y
+VIII. El funcionario o funcionaria electoral que presida cada grupo de trabajo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido o coalición y candidato;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IX. El presidente o presidenta del Consejo realizará, en sesión plenaria, la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate; y
 
 X. Los errores contenidos en las actas originales de escrutinio y cómputo de casilla que sean corregidos por los Consejos siguiendo el procedimiento para el recuento de votos, no podrán invocarse como causa de nulidad ante la autoridad jurisdiccional;
 
@@ -3251,49 +4299,63 @@ No procederá el recuento respecto de las casillas sobre las que se hubiera real
 
 Cuando exista una petición infundada de recuento, y así lo acuerde el Consejo respectivo, se asentarán en el acta correspondiente los motivos y fundamentos para dicha determinación.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
 
-# LIBRO SÉPTIMO. Del Voto de los Tamaulipecos Residentes en el Extranjero
+# LIBRO SÉPTIMO. Del Voto de los Tamaulipecos y Tamaulipecas Residentes en el Extranjero
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO I. Derecho del Voto en el Extranjero
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 297 Bis.
 
-Los tamaulipecos que se encuentren en el extranjero podrán ejercer su derecho al sufragio para Gobernador del Estado, de conformidad con lo que dispone la presente Ley.
+Los tamaulipecos y tamaulipecas que se encuentren en el extranjero podrán ejercer su derecho al sufragio para la Gubernatura del Estado, de conformidad con lo que dispone la presente Ley.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 297 Ter.
 
-El Instituto tendrá bajo su responsabilidad el voto de los ciudadanos tamaulipecos en el extranjero, y para ello podrá emitir acuerdos y suscribir convenios con dependencias de competencia federal y estatal; así como con instituciones de carácter social y privado. Para el cumplimiento de las presentes atribuciones, el Consejo General integrará una Comisión Especial para el Voto de los Tamaulipecos en el Extranjero, y aprobará, a propuesta de su Presidente, la Unidad Técnica del Voto en el Extranjero.
+El Instituto tendrá bajo su responsabilidad el voto de las ciudadanas y ciudadanos tamaulipecos en el extranjero, y para ello podrá emitir acuerdos y suscribir convenios con dependencias de competencia federal y estatal; así como con instituciones de carácter social y privado. Para el cumplimiento de las presentes atribuciones, el Consejo General integrará una Comisión Especial para el Voto de los tamaulipecos y las tamaulipecas en el Extranjero, y aprobará, a propuesta de su Presidente o Presidenta, la Unidad Técnica del Voto en el Extranjero.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 297 Quáter.
 
-Para el ejercicio del voto, los ciudadanos tamaulipecos en el extranjero deberán cumplir, además de los que fija expresamente la ley, los siguientes requisitos:
+Para el ejercicio del voto, las ciudadanas y ciudadanos tamaulipecos en el extranjero deberán cumplir, además de los que fija expresamente la ley, los siguientes requisitos:
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
 
 I. Solicitar al Instituto, por escrito, con firma autógrafa o, en su caso, huella digital, su inscripción en el listado nominal de electores tamaulipecos en el extranjero en el formato y según los plazos y procedimientos establecidos en la presente Ley, así como los dispuestos por el Consejo General;
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
 II. Anexar a su solicitud copia por anverso y reverso, legible de su credencial de elector con fotografía domiciliada en el Estado; y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
 
 III. Los demás que establezca este Libro.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 297 Quinquies.
 
-Los ciudadanos tamaulipecos que cumplan con los requisitos para votar conforme a este Libro, podrán solicitar su inscripción en la lista de votantes tamaulipecos en el extranjero de manera individual. El Instituto preverá lo necesario para que, ciento ochenta días antes del inicio del proceso electoral, los ciudadanos interesados puedan obtener su solicitud de inscripción por cualquiera de los siguientes medios:
+Las ciudadanas y ciudadanos tamaulipecos que cumplan con los requisitos para votar conforme a este Libro, podrán solicitar su inscripción en la lista de votantes tamaulipecos y tamaulipecas en el extranjero de manera individual. El Instituto preverá lo necesario para que, ciento ochenta días antes del inicio del proceso electoral, las ciudadanas y ciudadanos interesados puedan obtener su solicitud de inscripción por cualquiera de los siguientes medios:
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
 
 I. En las oficinas del Instituto;
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
 II. En consulados y embajadas de México;
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
 III. Por vía electrónica; y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
 
 IV. Otros que acuerde el Consejo General.
 
@@ -3305,9 +4367,13 @@ Las solicitudes deberán ser enviadas al Instituto a través de correo postal a 
 
 El Instituto resolverá la procedencia de la solicitud dentro del plazo de diez días contados a partir de su recepción.
 
-En los casos en que se advierta la omisión de alguno de los requisitos para la inscripción, el Instituto lo notificará de manera inmediata al ciudadano, indicándole el motivo y fundamento, para que en su caso, la pueda subsanar dentro del plazo de noventa días a que se refiere el primer párrafo.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-El ciudadano interesado podrá consultar al Instituto, por vía telefónica o electrónica, el estado de su registro o resolver cualquier otra duda.
+En los casos en que se advierta la omisión de alguno de los requisitos para la inscripción, el Instituto lo notificará de manera inmediata a la ciudadana o ciudadano, indicándole el motivo y fundamento, para que en su caso, la pueda subsanar dentro del plazo de noventa días a que se refiere el primer párrafo.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+La ciudadana o ciudadano interesado podrá consultar al Instituto, por vía telefónica o electrónica, el estado de su registro o resolver cualquier otra duda.
 
 De ser procedente, dentro del plazo comprendido entre los cincuenta y a más tardar treinta días antes de la elección, enviará un sobre contendiendo (sic):
 
@@ -3317,43 +4383,53 @@ II. Las propuestas de los candidatos, partidos políticos o coaliciones;
 
 III. Un instructivo para votar, donde se indique el carácter secreto, personal e intransferible del voto; y
 
-IV. Dos sobres; uno de resguardo en que el ciudadano introducirá la boleta sufragada y otro de envío en el que remitirá el sobre anterior, por correo postal. Este último tendrá impreso un código de barras con la clave del elector remitente, así como el domicilio en el que tenga su sede el Instituto Electoral de Tamaulipas.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2017)</small>
+IV. Dos sobres; uno de resguardo en que la ciudadana o ciudadano introducirá la boleta sufragada y otro de envío en el que remitirá el sobre anterior, por correo postal. Este último tendrá impreso un código de barras con la clave del elector remitente, así como el domicilio en el que tenga su sede el Instituto Electoral de Tamaulipas.
 
-### CAPÍTULO II. Del Registro y de la Lista de Votantes Tamaulipecos en el Extranjero
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+### CAPÍTULO II. Del Registro y de la Lista de Votantes Tamaulipecos y Tamaulipecas en el Extranjero
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 297 Septies.
 
-La lista de votantes tamaulipecos en el extranjero es la relación de ciudadanos cuya solicitud de inscripción ha sido aprobada para votar en el extranjero, elaborada por el Instituto a través del Registro de Electores, la cual tendrá carácter temporal para cada proceso electoral. El Consejo General difundirá los plazos y términos para solicitar el registro de inscripción en la lista de votantes tamaulipecos en el extranjero.
+La lista de votantes tamaulipecos y tamaulipecas en el extranjero es la relación de ciudadanos y ciudadanas cuya solicitud de inscripción ha sido aprobada para votar en el extranjero, elaborada por el Instituto a través del Registro de Electores, la cual tendrá carácter temporal para cada proceso electoral. El Consejo General difundirá los plazos y términos para solicitar el registro de inscripción en la lista de votantes tamaulipecos y tamaulipecas en el extranjero.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 297 Octies.
 
-Los ciudadanos inscritos en la lista de votantes tamaulipecos en el extranjero serán excluidos de la Lista Nominal correspondiente a su sección electoral hasta la conclusión del proceso electoral.
+Las ciudadanas y ciudadanos inscritos en la lista de votantes tamaulipecos y tamaulipecas en el extranjero serán excluidos de la Lista Nominal correspondiente a su sección electoral hasta la conclusión del proceso electoral.
 
-Una vez concluido el proceso electoral, la autoridad correspondiente reinscribirá a los ciudadanos inscritos en la lista de votantes tamaulipecos en el extranjero en la Lista Nominal de Electores de la sección electoral a que corresponde su Credencial para Votar con Fotografía.
+Una vez concluido el proceso electoral, la autoridad correspondiente reinscribirá a las ciudadanas y ciudadanos inscritos en la lista de votantes tamaulipecos y tamaulipecas en el extranjero en la Lista Nominal de Electores de la sección electoral a que corresponde su Credencial para Votar con Fotografía.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 297 Nonies.
 
-El Instituto deberá elaborar la lista de votantes tamaulipecos en el extranjero de acuerdo a los siguientes criterios:
+El Instituto deberá elaborar la lista de votantes tamaulipecos y tamaulipecas en el extranjero de acuerdo a los siguientes criterios:
 
-I. Conforme al domicilio en el extranjero de los ciudadanos, ordenados alfabéticamente. Estas listas serán utilizadas exclusivamente para efectos del envío de las boletas electorales a los ciudadanos inscritos; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+I. Conforme al domicilio en el extranjero de los ciudadanos y ciudadanas, ordenados alfabéticamente. Estas listas serán utilizadas exclusivamente para efectos del envío de las boletas electorales a las ciudadanas y ciudadanos inscritos; y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
 
 II. Conforme al domicilio en el Estado, sección, municipio y distrito electoral, ordenados alfabéticamente. Estas listas serán utilizadas por el Instituto para efectos del escrutinio y cómputo de la votación.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 297 Decies.
 
-Con base en la lista de votantes tamaulipecos en el extranjero y conforme al criterio de su domicilio en territorio del Estado, a más tardar veinte días antes de la jornada electoral, el Consejo General realizará lo siguiente:
+Con base en la lista de votantes tamaulipecos y tamaulipecas en el extranjero y conforme al criterio de su domicilio en territorio del Estado, a más tardar veinte días antes de la jornada electoral, el Consejo General realizará lo siguiente:
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
 
 I. Determinará el número de mesas de escrutinio y cómputo que correspondan y el procedimiento para seleccionar y capacitar a sus integrantes, aplicando en lo conducente lo establecido en la presente Ley. Cada mesa escrutará un máximo de mil quinientos votos; y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
 
 II. Aprobará en su caso, los asistentes electorales que auxiliarán a los integrantes de las mesas.
 
@@ -3361,23 +4437,29 @@ II. Aprobará en su caso, los asistentes electorales que auxiliarán a los integ
 
 Artículo 297 Undecies.- Las mesas de escrutinio y cómputo tendrán como sede un local único en la Ciudad de Victoria que determine el Consejo General.
 
-Los partidos políticos tendrán derecho a designar un representante por cada mesa de escrutinio y cómputo y un representante general por cada veinte mesas.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-En caso de ausencia de los funcionarios de las mesas directivas de casilla, el Consejo General, a propuesta de su presidente, determinará el procedimiento para la designación del personal del Instituto que los supla y adoptará las medidas necesarias para asegurar la integración y funcionamiento de las mesas de escrutinio y cómputo.
+Los partidos políticos tendrán derecho a designar una persona representante por cada mesa de escrutinio y cómputo y un representante general por cada veinte mesas.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+En caso de ausencia de los funcionario (sic) o funcionarias de las mesas directivas de casilla, el Consejo General, a propuesta de su presidente o presidenta, determinará el procedimiento para la designación del personal del Instituto que los supla y adoptará las medidas necesarias para asegurar la integración y funcionamiento de las mesas de escrutinio y cómputo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2017)</small>
 
 ### CAPÍTULO TERCERO. Del Voto Postal
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-Artículo 297 Duodecies.- El tamaulipeco en el extranjero que reciba su boleta electoral, ejercerá su derecho al voto. Los electores que no sepan leer o que se encuentren impedidos físicamente para marcar su boleta de voto, podrán hacerse asistir por una persona de su confianza.
+Artículo 297 Duodecies.- El tamaulipeco y tamaulipeca en el extranjero que reciba su boleta electoral, ejercerá su derecho al voto. Los electores que no sepan leer o que se encuentren impedidos físicamente para marcar su boleta de voto, podrán hacerse asistir por una persona de su confianza.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 Artículo 297 Terdecies.- La boleta electoral será doblada e introducida en el sobre de resguardo, cerrándolo de forma que asegure el secreto del voto, el que a su vez será incluido en el sobre de envío.
 
-El ciudadano deberá remitir el sobre por vía postal al IETAM.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+El ciudadano o ciudadana deberá remitir el sobre por vía postal al IETAM.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -3395,27 +4477,43 @@ Artículo 297 Quindecies.- Son votos emitidos en el extranjero, los que se recib
 
 Respecto de los sobres recibidos después del plazo señalado, se elaborará una relación de sus remitentes, se levantará un acta en presencia de los representantes y, sin abrirlos, se procederá a su destrucción.
 
-El día de la jornada electoral, el Secretario Ejecutivo rendirá al Consejo General del Instituto, informe previo respecto del número de sobres remitidos por tamaulipecos en el extranjero, clasificando por país de residencia de los electores, así como de los sobres recibidos fuera del plazo referido.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+El día de la jornada electoral, la persona titular de la Secretaría Ejecutiva rendirá al Consejo General del Instituto, informe previo respecto del número de sobres remitidos por tamaulipecos y tamaulipecas en el extranjero, clasificando por país de residencia de los electores, así como de los sobres recibidos fuera del plazo referido.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
 
 Artículo 297 Sexdecies.- Las mesas de escrutinio y cómputo se instalarán a las diecisiete horas del día de la jornada electoral. A las dieciocho horas iniciará el escrutinio y cómputo de la votación emitida en el extranjero.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
-Articulo 297 Septendecies.- Para el escrutinio y cómputo de los votos emitidos en el extranjero para la elección de Gobernador del Estado, se aplicará lo siguiente:
+Artículo 297 Septendecies.- Para el escrutinio y cómputo de los votos emitidos en el extranjero para la elección de la Gubernatura del Estado, se aplicará lo siguiente:
 
-I. El Consejo General hará llegar a los presidentes de las mesas directivas de casilla la lista de votantes tamaulipecos en el extranjero en la que conste los nombres de los electores que votaron dentro del plazo establecido, junto con los sobres de resguardo correspondientes a dicho listado;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. El Presidente de la mesa verificará que cuenta con el listado de votantes correspondiente, y sumará los registros que en dicho listado tengan marcada la palabra voto;
+I. El Consejo General hará llegar a los presidentes o presidentas de las mesas directivas de casilla la lista de votantes tamaulipecos y tamaulipecas en el extranjero en la que conste los nombres de los electores que votaron dentro del plazo establecido, junto con los sobres de resguardo correspondientes a dicho listado;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+II. El Presidente o Presidenta de la mesa verificará que cuenta con el listado de votantes correspondiente, y sumará los registros que en dicho listado tengan marcada la palabra voto;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
 
 III. Acto seguido, los escrutadores procederán a contar los sobres de resguardo que contienen las boletas electorales y verificarán que el resultado sea igual a la suma de electores marcados con la palabra votó que señala la fracción anterior. Si el número de electores marcados con la palabra votó en el listado de votantes y el número de sobres no coinciden, el hecho deberá consignarse en el acta y la hoja de incidentes respectiva, señalándose la diferencia que se encontró;
 
-IV. Verificado lo anterior, el Presidente de la mesa procederá a abrir cada uno de los sobres de resguardo y extraerá la boleta electoral para depositarla en la urna Si al abrir un sobre se constata que no contiene la boleta electoral o contiene más de una, se considerará que el voto o los votos son nulos, y el hecho se consignará en el acta y en la hoja de incidentes;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. Verificado lo anterior, el Presidente o Presidenta de la mesa procederá a abrir cada uno de los sobres de resguardo y extraerá la boleta electoral para depositarla en la urna Si al abrir un sobre se constata que no contiene la boleta electoral o contiene más de una, se considerará que el voto o los votos son nulos, y el hecho se consignará en el acta y en la hoja de incidentes;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
 
 V. Realizado lo anterior, dará inicio el escrutinio y cómputo, aplicándose, en lo conducente, las reglas establecidas en el apartado relativo de cómputo de esta Ley;
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+
 VI. Para determinar la validez o nulidad del voto, será aplicable lo conducente en la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
 
 VII. Concluido lo anterior, se levantará el acta de escrutinio y cómputo.
 
@@ -3433,15 +4531,17 @@ El Consejo General, el miércoles siguiente al día de la elección, realizará 
 
 Artículo 297 Novodecies.- Quedan prohibidas en el extranjero, en cualquier tiempo, las actividades, actos y propaganda electoral a que se refiere esta Ley.
 
-La violación a lo establecido en el párrafo anterior podrá ser denunciada ante el Instituto, por los representantes de los partidos políticos, Coaliciones o Candidaturas independientes ante el Consejo General, mediante queja presentada por escrito, debidamente fundada y motivada, y aportando los medios de prueba.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+La violación a lo establecido en el párrafo anterior podrá ser denunciada ante el Instituto, por las personas representantes de los partidos políticos, Coaliciones o Candidaturas independientes ante el Consejo General, mediante queja presentada por escrito, debidamente fundada y motivada, y aportando los medios de prueba.
 
-Artículo 297 Vicies.- El Consejo General, una vez aprobados los registros de candidatos a Gobernador del Estado y finalizado el plazo para la inscripción en el listado de tamaulipecos en el extranjero, procederá de inmediato a elaborar las boletas en número que corresponda al listado, así como el material y documentación electoral necesarios. Las boletas deberán llevar la leyenda "voto de tamaulipecos en el extranjero".
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
+Artículo 297 Vicies.- El Consejo General, una vez aprobados los registros de candidatos y candidatas a la Gubernatura y finalizado el plazo para la inscripción en el listado de tamaulipecos y tamaulipecas en el extranjero, procederá de inmediato a elaborar las boletas en número que corresponda al listado, así como el material y documentación electoral necesarios. Las boletas deberán llevar la leyenda "voto de tamaulipecos y tamaulipecas en el extranjero".
 
-Artículo 297 Unvicies.- El Consejo General establecerá las medidas para salvaguardar la confidencialidad de los datos personales contenidos en la lista de votantes tamaulipecos en el extranjero, la cual no será exhibida fuera del territorio estatal.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Artículo 297 Unvicies.- El Consejo General establecerá las medidas para salvaguardar la confidencialidad de los datos personales contenidos en la lista de votantes tamaulipecos y tamaulipecas en el extranjero, la cual no será exhibida fuera del territorio estatal.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -3465,25 +4565,63 @@ Son sujetos de responsabilidad por infracciones cometidas a las disposiciones el
 
 I. Los partidos políticos;
 
-II. Los aspirantes, precandidatos, candidatos y candidatos independientes a cargos de elección popular;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-III. Los ciudadanos, o cualquier persona física o moral;
+II. Las personas aspirantes, precandidatas, candidatas y candidatas independientes a cargos de elección popular;
 
-IV. Los observadores electorales o las organizaciones de observadores electorales;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-V. Las autoridades o los servidores públicos de los poderes locales; órganos de gobierno municipales; órganos autónomos, y cualquier otro ente público;
+III. Los ciudadanos y ciudadanas, o cualquier persona física o moral;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. Las y los observadores electorales o las organizaciones de observadores electorales;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. Las autoridades, las servidoras o los servidores públicos de los poderes locales; órganos de gobierno municipales; órganos autónomos, y cualquier otro ente público;
 
 VI. Los Notarios Públicos;
 
 VII. Los extranjeros;
 
-VIII. Las organizaciones de ciudadanos que pretendan formar un partido político y las agrupaciones políticas;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VIII. Las organizaciones de ciudadanos y ciudadanas que pretendan formar un partido político y las agrupaciones políticas;
 
 IX. Las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos;
 
-X. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+X. Las y los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión; y
 
 XI. Los demás sujetos obligados en los términos la presente Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Cuando alguno de los sujetos señalados en este artículo sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en el artículo 299 Bis así como en la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, será sancionado en términos de lo dispuesto en este capítulo según corresponda de acuerdo con lo dispuesto en los artículos 300 al 325.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+Las quejas o denuncias por violencia política contra las mujeres en razón de género, se sustanciarán a través del Procedimiento Especial Sancionador.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+###### Artículo 299 Bis.
+
+La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley por parte de los sujetos de responsabilidad señalados en el artículo 299 de esta Ley, y se manifiesta, entre otras, a través de las siguientes conductas:
+
+I. Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+II. Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+III. Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+IV. Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+V. Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad; y
+
+VI. Cualquier otra acción que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
 
 ###### Artículo 300.
 
@@ -3505,13 +4643,25 @@ VII. La difusión de propaganda política o electoral que contenga expresiones q
 
 VIII. El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
 
-IX. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del IETAM; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-X. La comisión de cualquier otra falta de las previstas en esta Ley.
+IX. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del IETAM;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+X. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+XI. La difusión de propaganda política o electoral que contenga expresiones de discriminación por género o que constituyan actos de violencia política contra las mujeres en razón de género; y
+
+XII. La comisión de cualquier otra falta de las previstas en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 301.
 
-Constituyen infracciones a la presente Ley de los aspirantes a precandidatos, precandidatos o candidatos a cargos de elección popular:
+Constituyen infracciones a la presente Ley de las personas aspirantes a precandidatas, precandidatas o candidatas a cargos de elección popular:
 
 I. La realización de actos anticipados de precampaña o campaña, según sea el caso;
 
@@ -3521,13 +4671,21 @@ III. Omitir en los informes respectivos los recursos recibidos, en dinero o en e
 
 IV. No presentar el informe de gastos de precampaña o campaña establecidos en esta Ley;
 
-V. Exceder el tope de gastos de precampaña o campaña establecido por el Consejo General; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+V. Exceder el tope de gastos de precampaña o campaña establecido por el Consejo General;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+VI. La realización de actos u omisiones que constituyan violencia política contra las mujeres en razón de género; y
+
+VII. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 302.
 
-Constituyen infracciones de los aspirantes a candidatos independientes y candidatos independientes a cargos de elección popular a la presente Ley:
+Constituyen infracciones de las personas aspirantes a candidaturas independientes y personas candidatas independientes a cargos de elección popular a la presente Ley:
 
 I. El incumplimiento de las obligaciones establecidas en esta Ley;
 
@@ -3551,15 +4709,31 @@ X. El incumplimiento de las resoluciones y acuerdos del Consejo General, así co
 
 XI. La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
 
-XII. La difusión de propaganda político o electoral que contenga expresiones que calumnien a las personas o denigren a las instituciones o a los partidos políticos;
+(NOTA: EL 7 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IX, X, XIV, XV, XIX Y XX, ASÍ COMO EN LOS RESOLUTIVO QUINTO Y SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2020 Y SU ACUMULADA 145/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS “O” Y “A LAS INSTITUCIONES O A LOS PARTIDOS POLÍTICOS” LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los organismos electorales o el Tribunal Estatal;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-XIV. El incumplimiento de lo dispuesto en el artículo 251 de la presente Ley;
+XII. La difusión de propaganda político o electoral que contenga expresiones que calumnien a las personas O DENIGREN A LAS INSTITUCIONES O A LOS PARTIDOS POLÍTICOS; así como aquellas que discriminen o constituyan actos de violencia política contra las mujeres en razón de género en términos de esta Ley y las demás disposiciones aplicables;
 
-XV. La contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2020)</small>
 
-XVI. El incumplimiento de cualquiera de las disposiciones contenidas en la presente Ley y demás disposiciones aplicables.
+XIII. La realización de actos u omisiones que constituyan violencia política contra las mujeres en razón de género;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JUNIO DE 2020)</small>
+
+XIV. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los organismos electorales o el Tribunal Estatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JUNIO DE 2020)</small>
+
+XV. El incumplimiento de lo dispuesto en el artículo 251 de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JUNIO DE 2020)</small>
+
+XVI. La contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JUNIO DE 2020)</small>
+
+XVII. El incumplimiento de cualquiera de las disposiciones contenidas en la presente Ley y demás disposiciones aplicables.
 
 ###### Artículo 303.
 
@@ -3569,9 +4743,11 @@ I. El incumplimiento de los establecido en el artículo 65 de esta Ley; y
 
 II. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+
 ###### Artículo 304.
 
-Constituyen infracciones a la presente Ley de las autoridades o los servidores públicos, según sea el caso, de los poderes locales o federales; órganos de gobierno municipales; órganos autónomos, y cualquier otro ente público del Estado:
+Constituyen infracciones a la presente Ley de las autoridades, servidores y servidoras públicas, según sea el caso, de los poderes locales o federales; órganos de gobierno municipales; órganos autónomos, y cualquier otro ente público del Estado:
 
 I. La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del IETAM;
 
@@ -3579,9 +4755,15 @@ II. La difusión, por cualquier medio, de propaganda gubernamental dentro del pe
 
 III. El incumplimiento de lo establecido en los tres últimos párrafos del artículo 134 de la Constitución Federal;
 
-IV. La utilización de programas sociales y de sus recursos, en el ámbito estatal o municipal, con la finalidad de inducir a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
 
-V. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+IV. La utilización de programas sociales y de sus recursos, en el ámbito estatal o municipal, con la finalidad de inducir a los ciudadanos para votar a favor o en contra de cualquier partido político, candidata o candidato;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+
+V. Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley, la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y las demás disposiciones aplicables; y
+
+VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 305.
 
@@ -3633,13 +4815,21 @@ b) Con amonestación pública;
 
 c) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta;
 
-d) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público ordinario que les corresponda, por el periodo que señale la resolución;
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+d) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público ordinario que les corresponda, por el periodo que señale la resolución.
+
+Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
 
 e) En los casos de graves y reiteradas conductas violatorias de la Constitución Federal, Constitución del Estado y de esta Ley, con suspensión de las ministraciones del financiamiento público ordinario; y
 
-f) En los casos de graves y reiteradas conductas violatorias de la Constitución Política del Estado y de esta Ley, con la cancelación de su registro como partido político.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
-II. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular:
+f) En los casos de graves y reiteradas conductas violatorias de la Constitución Política del Estado y de esta Ley, así como las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, con la cancelación de su registro como partido político.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
+
+II. Respecto de las personas aspirantes, precandidatas o candidatas a cargos de elección popular:
 
 a) Con apercibimiento;
 
@@ -3651,7 +4841,9 @@ c) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y A
 
 d) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político o coalición de que se trate, pudiendo éste sustituir, en su caso, al candidato;
 
-III. Respecto de los aspirantes a candidatos independientes o candidatos independientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
+
+III. Respecto de las personas aspirantes a candidatas independientes o candidatas independientes:
 
 a) Con apercibimiento;
 
@@ -3663,7 +4855,9 @@ c) Con multa de quinientas a cinco mil veces el valor diario de la Unidad de Med
 
 d) Con la pérdida del derecho del aspirante infractor a ser registrado como candidato independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo, cuando realice actos anticipados de campaña o rebase los topes de gastos que determine el Consejo General para recabar el apoyo ciudadano.
 
-IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos o coaliciones, o de cualquier persona física o moral:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
+
+IV. Respecto de los ciudadanos y ciudadanas, dirigentes y personas afiliadas a los partidos políticos o coaliciones, o de cualquier persona física o moral:
 
 a) Con apercibimiento;
 
@@ -3685,7 +4879,9 @@ c) Con la cancelación inmediata de la acreditación como observadores electoral
 
 d) Con multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización, tratándose de las organizaciones a las que pertenezcan los observadores electorales;
 
-VI. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
+
+VI. Respecto de las organizaciones de ciudadanos y ciudadanas que pretendan constituir partidos políticos:
 
 a) Con apercibimiento;
 
@@ -3711,9 +4907,9 @@ VIII. Cuando el IETAM conozca del incumplimiento por parte de los notarios públ
 
 IX. Cuando el IETAM tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones religiosas, iglesias o agrupaciones de cualquier religión, informará a la Secretaría de Gobernación para los efectos legales conducentes; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2020)</small>
 
-X. Respecto de las autoridades o los servidores públicos de los poderes públicos, órganos autónomos, órganos de gobierno municipales y cualquier otro ente público del Estado, en términos del artículo 151 de la Constitución Política del Estado de Tamaulipas; de las disposiciones establecidas en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás relativos aplicables de los mismos ordenamientos:
+X. Respecto de las autoridades, los servidores y servidoras públicas de los poderes públicos, órganos autónomos, órganos de gobierno municipales y cualquier otro ente público del Estado, en términos del artículo 151 de la Constitución Política del Estado de Tamaulipas; de las disposiciones establecidas en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás relativos aplicables de los mismos ordenamientos:
 
 a) Apercibimiento privado o público;
 
@@ -3861,9 +5057,37 @@ Las documentales privadas, técnicas, periciales, e instrumental de actuaciones,
 
 Para la resolución expedita de las quejas o denuncias y con objeto de determinar en una sola resolución sobre dos o más de ellas, se procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
 
-### CAPÍTULO III. Procedimiento Sancionador Ordinario
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2020)</small>
 
-### CAPÍTULO IV. Procedimiento Sancionador Especial
+### CAPÍTULO II BIS. De las Medidas Cautelares y de Reparación
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+###### Artículo 325 Bis.
+
+Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+I. Retirar la campaña violenta contra la víctima, haciendo públicas las razones;
+
+II. Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora; y
+
+III. Ordenar la suspensión del cargo partidista, de la persona agresora.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+###### Artículo 325 Ter.
+
+En la resolución de los procedimientos sancionadores por violencia política en contra de las mujeres por razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral que correspondan considerando al menos las siguientes:
+
+I. Indemnización de la víctima;
+
+II. Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia;
+
+III. Disculpa pública; y
+
+IV. Medidas de no repetición.
+
+### CAPÍTULO III. Procedimiento Sancionador Ordinario
 
 ###### Artículo 326.
 
@@ -4001,9 +5225,7 @@ IV. Rechazarlo y ordenar a la Secretaría Ejecutiva elaborar un nuevo proyecto e
 
 En el desahogo de los puntos de la orden del día en que el Consejo deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+### CAPÍTULO IV. Procedimiento Sancionador Especial
 
 ###### Artículo 342.
 
@@ -4014,6 +5236,10 @@ I. Violen lo establecido en la Base III del artículo 41 o en el séptimo párra
 II. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos o coaliciones en esta Ley; o
 
 III. Constituyan actos anticipados de precampaña o campaña.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+La Secretaría Ejecutiva, instruirá el procedimiento especial establecido en este capítulo, en cualquier momento cuando se presenten denuncias, o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.
 
 ###### Artículo 343.
 
@@ -4091,7 +5317,49 @@ c) En un plazo no mayor a 48 horas días después de la devolución del proyecto
 
 En la sesión respectiva el Consejo General conocerá y resolverá sobre el proyecto de resolución. En caso de comprobarse la infracción denunciada, y no se haya otorgado medida cautelar, el Consejo ordenará el retiro físico o la inmediata suspensión de la distribución o difusión de propaganda violatoria de esta Ley o de los actos anticipados de precampaña o campaña, cualquiera que sea su forma o medio de difusión e impondrá, en su caso, las sanciones correspondientes.
 
-## TÍTULO SEGUNDO. Responsabilidades de los Servidores Públicos del Instituto Electoral de Tamaulipas
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2020)</small>
+
+###### Artículo 351 Bis.
+
+En los procedimientos relacionados con violencia política contra las mujeres en razón de género, la Secretaría Ejecutiva, ordenará en forma sucesiva iniciar el procedimiento, así como resolver sobre las medidas cautelares y de protección que fueren necesarias. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+Cuando la conducta infractora sea del conocimiento de las autoridades electorales distritales o municipales, de inmediato la remitirán a la Secretaría Ejecutiva del Instituto para que ordene iniciar el procedimiento correspondiente.
+
+Cuando las denuncias presentadas sean en contra de algún servidor o servidora pública, la Secretaría Ejecutiva dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la legislación aplicable.
+
+La denuncia deberá contener lo siguiente:
+
+I. Nombre de la persona denunciante, con firma autógrafa o huella digital;
+
+II. Domicilio para oír y recibir notificaciones;
+
+III. Narración expresa de los hechos en que se basa la denuncia;
+
+IV. Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas; y
+
+V. En su caso, las medidas cautelares y de protección que se soliciten.
+
+La Secretaría Ejecutiva deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción; tal resolución deberá ser confirmada por escrito y se informará al Consejo General del Instituto Electoral, para su conocimiento.
+
+Se desechará la denuncia cuando:
+
+I. No se aporten u ofrezcan pruebas; o
+
+II. Sea notoriamente frívola o improcedente.
+
+Cuando la Secretaría Ejecutiva admita la denuncia, emplazará a las partes, para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión.
+
+En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+En lo procedente, una vez desahogada la audiencia de pruebas y alegatos, se procederá a elaborar el proyecto de resolución correspondiente. El proyecto de resolución que formule la Secretaría Ejecutiva será enviado a la Comisión para los Procedimientos Administrativos Sancionadores del Consejo General, para su conocimiento y estudio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
+
+## TÍTULO SEGUNDO. Responsabilidades de las Servidoras y Servidores Públicos del Instituto Electoral de Tamaulipas
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 352.
 
@@ -4103,11 +5371,11 @@ A falta de disposición expresa en el presente capítulo, serán de aplicación 
 
 El órgano competente para aplicar la ley en materia de responsabilidades administrativas del Estado, es el Órgano Interno de Control del IETAM, en términos del artículo 154 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 354.
 
-Para los efectos del presente capítulo, serán considerados como servidores públicos del IETAM el Consejero Presidente, los Consejeros de los Consejos General Distritales y Municipales, el Secretario Ejecutivo, el Titular del Órgano Interno de Control, los Directores Ejecutivos, el Director de la Unidad de Fiscalización, los jefes de unidades administrativas, los funcionarios, empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el IETAM, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos del presente capítulo, serán considerados como servidoras y servidores públicos del IETAM la Consejera o Consejero Presidente, los Consejeros y Consejeras de los Consejos General Distritales y Municipales, la persona titular de la Secretaría Ejecutiva, la persona titular del Órgano Interno de Control, las personas titulares de las Direcciones Ejecutivas, la persona titular de la Dirección de la Unidad de Fiscalización, los jefes y jefas de unidades administrativas, el funcionariado, las personas empleadas y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el IETAM, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -4115,17 +5383,17 @@ Para los efectos del presente capítulo, serán considerados como servidores pú
 
 El Órgano Interno de Control del IETAM, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución Política del Estado y esta Ley confieren a los funcionarios del IETAM.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 356.
 
-Serán causas de responsabilidad para los servidores públicos del IETAM las violaciones a lo dispuesto en la ley en materia de responsabilidades administrativas del Estado.
+Serán causas de responsabilidad para las servidoras y los servidores públicos del IETAM las violaciones a lo dispuesto en la ley en materia de responsabilidades administrativas del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 357.
 
-Los servidores públicos adscritos al Órgano Interno de Control y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de (sic) desempeño de sus facultades, así como de sus actuaciones y observaciones.
+Las servidoras y los servidores públicos adscritos al Órgano Interno de Control y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de (sic) desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
 ## TRANSITORIOS
 
@@ -4242,3 +5510,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIV-106 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
