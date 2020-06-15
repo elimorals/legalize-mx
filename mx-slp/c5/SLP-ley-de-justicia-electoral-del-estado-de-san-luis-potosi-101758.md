@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-electoral-del-estado-de-san-luis-potosi-101758"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2020-06-11"
+last_updated: "2020-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 15 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2020 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 30 de junio de 2014.
 
@@ -33,7 +35,9 @@ DECRETO 614
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-E X P O S I C I Ó N D E M O T I V O S...
+E X P O S I C I Ó N D E M O T I V O S
+
+[...]
 
 De lo anterior se desprende la obligación del Constituyente de generar la norma que tutele la legalidad, imparcialidad, objetividad, certeza e independencia que deben regir en la justicia electoral; en este tenor la norma determina los órganos encargados, su integración, las facultades, atribuciones y la forma en que habrán de desahogarse los procedimientos de impugnación que incluye el sistema de nulidades electorales.
 
@@ -1238,3 +1242,15 @@ P.O. 11 DE JUNIO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0680 TER.- SE EXPIDE LA LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Con la entrada en vigor del presente Decreto se abroga la Ley de Justicia Electoral del Estado de San Luis Potosí, expedida en el Decreto Legislativo número 614, publicada el treinta de junio de dos mil catorce en el Periódico Oficial del Estado Libre y Soberano de San Luis Potosí
+
+TERCERO. Los procedimientos jurisdiccionales relacionados con las agrupaciones políticas, y partidos políticos, así como de sus militantes o simpatizantes, iniciados con anterioridad al inicio de la vigencia de este Decreto, seguirán tramitándose con las disposiciones previstas en la Ley de Justicia Electoral del Estado de San Luis Potosí, expedida en el Decreto Legislativo número 614.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
