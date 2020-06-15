@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2020-03-13"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -2611,9 +2611,17 @@ No se considerará ilegal y no podrá ser disuelta una asamblea o reunión que t
 
 Los habitantes mayores de edad del Estado de Nuevo León, tienen el derecho de poseer armas para su legítima defensa, con excepción de las prohibidas por la Ley y las reservadas para el uso exclusivo del Ejército, Armada, Fuerza Aérea y Guardia Nacional. Las leyes determinarán los casos, condiciones, requisitos y lugares en que se podrá autorizar a los habitantes la portación de armas y las penas a las que incurran los que las porten violando dichas disposiciones.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2020)</small>
+
 ###### Art. 11.
 
-Todos tienen derecho para entrar en el Estado, salir de él, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, pasaporte, salvo-conducto u otro requisito semejante. El ejercicio de este derecho estará subordinado a las facultades de la autoridad judicial en los casos de responsabilidad criminal o civil, y a las de la administrativa por lo que toca a los reglamentos de sanidad.
+Todos tienen derecho para entrar en el Estado, salir de él, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, pasaporte, salvoconducto u otro requisito semejante. El ejercicio de este derecho estará subordinado a las facultades de la autoridad judicial en los casos de responsabilidad criminal o civil, y a las de la administrativa por lo que toca a los reglamentos de sanidad.
+
+Toda persona tiene derecho al uso pacífico de la vía pública, en los términos previstos por las leyes en la materia. El Estado y los municipios adoptarán las medidas necesarias para garantizar el ejercicio de este derecho con base en los objetivos de inclusión, funcionalidad y movilidad sustentable de las vías públicas.
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad, accesibilidad, comodidad, eficiencia, calidad, aceptabilidad, exigibilidad e igualdad y a gozar de ciudades sustentables que garanticen una adecuada calidad de vida. En el desarrollo de políticas y obras públicas, el Estado y los municipios, de acuerdo a la jerarquía de movilidad, darán prioridad a los peatones y conductores de vehículos no motorizados y se fomentará la cultura de la movilidad sustentable.
+
+Toda persona tiene derecho a un transporte público de calidad, digno, eficiente, a un precio asequible, y con altos niveles de cobertura territorial. Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho mediante la conformación e implementación de un sistema integral de movilidad enfocado en favorecer al usuario, incentivando el transporte de bajas emisiones contaminantes, con pleno respeto de los derechos de los usuarios más vulnerables, y generando los estímulos necesarios para incrementar la oferta y demanda de este servicio.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
 
@@ -4180,3 +4188,9 @@ P.O. 13 DE MARZO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los municipios tienen 180 días después de la publicación del presente decreto para reformar sus disposiciones normativas acorde con lo dispuesto en el presente decreto.
+
+P.O. 15 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 310, SE REFORMA EL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
