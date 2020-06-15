@@ -4,7 +4,7 @@ identifier: "SON-ley-de-agua-del-estado-de-sonora-50894"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-26"
-last_updated: "2017-08-03"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE AGUA DEL ESTADO SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2020.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 26 de junio de 2006.
 
@@ -2077,6 +2077,10 @@ Lo anterior será independiente de poner en conocimiento de tal situación a las
 
 En caso de suspensión total en el servicio doméstico, cuando se trate de usuarios que se ubiquen en el supuesto del artículo 160, fracción III de esta Ley, sólo podrá llevarse a cabo previo estudio socioeconómico que se realice de tal suerte que se proteja la no violación de derechos humanos.
 
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2020)</small>
+
+Cuando las autoridades competentes declaren una emergencia o contingencia sanitaria, los organismos operadores de agua potable no podrán suspender la prestación del servicio doméstico por falta de pago, durante todo el tiempo que dure la misma, así como se deberá garantizar la prestación del mismo durante las 24 horas del día.
+
 ###### ARTÍCULO 169.
 
 Los adeudos a cargo de los usuarios y a favor de los organismos operadores o, en su defecto, al prestador del servicio, exclusivamente para efectos de cobro, conforme a la presente Ley, tendrán el carácter de créditos fiscales, para cuya recuperación la autoridad responsable solicitará en los términos de ley, a las autoridades correspondientes, el ejercicio del procedimiento económico-coactivo señalado en el Código Fiscal aplicable al caso.
@@ -2462,3 +2466,15 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 122, QUE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 168 DE LA LEY DE AGUA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los organismos operadores de agua potable, deberán elaborar un registro de los usuarios del servicio de uso doméstico que, durante el tiempo que dure la declaratoria de emergencia o contingencia sanitaria, no puedan realizar sus pagos correspondientes, para que, una vez levantada dicha declaratoria, puedan convenir con dichos usuarios los diferentes esquemas de pago para su regularización.
