@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2020-05-29"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -479,29 +479,79 @@ Simultáneamente a la emisión de dicho acuerdo, el Ayuntamiento remitirá copia
 
 Los miembros del Ayuntamiento durarán en su cargo tres años e iniciarán sus funciones el día dieciséis de septiembre del año que corresponda a su elección.
 
-> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE JUNIO DE 2020)</small>
 
 ###### Artículo 50.
 
-El Ayuntamiento como órgano deliberante deberá resolver los asuntos de su competencia colegiadamente, y para tal efecto, celebrará sesiones ordinarias, extraordinarias, solemnes y de Ayuntamiento Abierto que serán públicas.
+El Ayuntamiento como órgano deliberante deberá resolver los asuntos de su competencia colegiadamente, y para tal efecto, celebrará sesiones ordinarias, extraordinarias, solemnes y de Ayuntamiento Abierto que serán públicas. Las sesiones del Ayuntamiento serán presenciales o virtuales.
+
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
 
 Habrá por lo menos una sesión ordinaria cada mes y las extraordinarias que sean necesarias a juicio del Presidente Municipal o a petición de las dos terceras partes de los integrantes del Ayuntamiento, ajustándose en cada caso al Reglamento Interior.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
 El Ayuntamiento deberá celebrar, por lo menos una vez al mes, una sesión de Ayuntamiento Abierto, en la cual los habitantes serán informados de las acciones de gobierno y participarán de viva voz frente a los miembros del Ayuntamiento. Todas las inquietudes planteadas en las sesiones de Ayuntamiento Abierto por los ciudadanos, serán abordadas y discutidas por los integrantes del Ayuntamiento, dándose respuesta a los ciudadanos de ser posible en esta misma sesión.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
 El Ayuntamiento podrá celebrar eventualmente sesiones privadas, para lo que se requerirá el voto de las dos terceras partes de sus integrantes, para analizar temas extraordinarios y urgentes de seguridad pública del Municipio, con la excepción de cuando la sesión sea relativa a los nombramientos en materia de seguridad pública que le corresponde realizar al Ayuntamiento.
+
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2020)</small>
+
+Cuando con motivo de una declaratoria de emergencia decretada por autoridad competente se ponga en riesgo en riesgo (sic) la salud o la integridad física de los integrantes del Ayuntamiento podrán celebrarse sesiones virtuales, a través de medios electrónicos y tecnológicos que permitan realizar videoconferencias o cualquier método de acceso a distancia, a través de las cuales se pueda realizar el computo del quorum legal, la lectura del orden del día, las intervenciones de los integrantes del Ayuntamiento, las votaciones y todo aquello que permitan (sic) evidenciar todo el desarrollo de la (sic) sesiones.
+
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2020)</small>
+
+El Ayuntamiento deberá expedir los lineamientos mediante los cuales deberán celebrarse las sesiones virtuales.
+
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2020)</small>
+
+###### Artículo 50 Bis.
+
+Para la validez de la (sic) sesiones virtuales, deberán cumplirse los mismos requisitos previstos en esta Ley y (sic) demás disposiciones aplicables para la (sic) sesiones presenciales.
+
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2020)</small>
+
+###### Artículo 50 Ter.
+
+No podrán celebrarse sesiones virtuales cuando se pretenda:
+
+I.- Nombrar al Secretario del Ayuntamiento, al Tesorero Municipal, al Jefe de la Policía Preventiva Municipal y al titular del Órgano de Control y Evaluación Gubernamental;
+
+II.- Aprobar los convenios y contratos que a nombre del Ayuntamiento celebre el Presidente Municipal;
+
+III.- Aprobar el Plan Municipal de Desarrollo;
+
+IV.- Aprobar el Reglamento Interior que defina el gobierno, la organización y funcionamiento del propio Ayuntamiento, así como la creación, organización y funcionamiento de sus dependencias directas,
+
+V.- Aprobar el otorgamiento de licencias, permisos o autorizaciones para la apertura y operación de establecimientos mercantiles, desempeño de oficios y desarrollo de espectáculos en la vía pública,
+
+VI.- Acordar, por mayoría calificada, la naturaleza y monto de los convenios y contratos que puede celebrar el Presidente Municipal, sin su autorización previa;
+
+VII.- Aprobar y administrar la zonificación y programas de desarrollo urbano municipal; así como participar en la creación y administración de sus reservas territoriales;
+
+VIII.- Proponer al Congreso, dentro del ámbito de su competencia, las cuotas, tasas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
+
+IX.- Aprobar, con base en las contribuciones y demás ingresos que determine anualmente el Congreso, su Presupuesto de Egresos y publicarlo en el Boletín Oficial del Gobierno del Estado de Sonora; y
+
+X.- Autorizar la creación, ampliación, transferencia y supresión de las partidas del Presupuesto de Egresos en los términos de ley.
 
 ###### Artículo 51.
 
 Para que las sesiones del Ayuntamiento sean válidas se requiere que sean citados todos los integrantes del Ayuntamiento y que se constituya el quórum por lo menos con la mitad más uno de los integrantes del mismo.
 
-> <small>(REFORMADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE JUNIO DE 2020)</small>
 
 ###### Artículo 52.
 
-La citación a que se refiere el artículo anterior deberá efectuarla el Secretario, misma que será por escrito, de carácter personal, en el domicilio del integrante del Ayuntamiento o por correo electrónico, el cual deberá ser proporcionado por los integrantes del Ayuntamiento, dentro de los 5 días hábiles siguientes a la toma de protesta a que se refiere el artículo 33 de esta ley.
+La citación a que se refiere el artículo anterior deberá efectuarla el Secretario, misma que será por escrito, de carácter personal, en el domicilio del integrante del Ayuntamiento o por correo electrónico, el cual deberá ser proporcionado por los integrantes del Ayuntamiento, dentro de los 5 días hábiles siguientes a la toma de protesta a que se refiere el artículo 33 de esta ley. Cuando la sesión del Ayuntamiento sea virtual, la citación deberá realizarse por correo electrónico.
+
+> <small>(REFORMADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
 
 Cuando un Regidor suplente entre en funciones como propietario, deberá proporcionar al Secretario, un correo electrónico para que reciba las citaciones a que se refiere el artículo 51 de esta Ley, dentro de los 5 días hábiles siguientes en que entre en funciones.
+
+> <small>(REFORMADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
 
 La citación deberá realizarse con una anticipación de por lo menos cuarenta y ocho horas al día en que vaya a celebrarse, tratándose de sesiones ordinarias. La citación deberá contener el lugar, día y hora en que habrá de celebrarse la sesión, así como el orden del día, anexando, en todos los casos, la información y documentación necesaria para su desarrollo.
 
@@ -519,9 +569,11 @@ Cuando el cálculo de la proporción señalada en las fracciones anteriores indi
 
 Cuando en esta Ley no se especifique el tipo de mayoría necesaria para la toma de un acuerdo, deberá entenderse que éste habrá de tomarse por mayoría simple.
 
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2020)</small>
+
 ###### Artículo 54.
 
-Las sesiones del Ayuntamiento se celebrarán en la sala de sesiones, o cuando el caso lo requiera, en el recinto previamente declarado oficial por el propio Ayuntamiento para tal objeto.
+Las sesiones del Ayuntamiento se celebrarán en la sala de sesiones, o cuando el caso lo requiera, en el recinto previamente declarado oficial por el propio Ayuntamiento para tal objeto, excepto cuando las sesiones sean virtuales.
 
 ###### Artículo 55.
 
@@ -1781,7 +1833,7 @@ IX. Proyecciones de finanzas públicas, considerando las premisas empleadas en l
 
 > <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
-X. Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un período de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán, y en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
+X. Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un periodo de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán, y en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
 
 > <small>(ADICIONADA, B.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -4492,3 +4544,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La observancia del principio de paridad de género a que se refiere este decreto, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto.
+
+B.O. 15 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 118, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ayuntamiento, dentro del plazo de 15 días hábiles siguientes a la entrada en vigor del presente Decreto, deberá de expedir los lineamientos para la celebración de sesiones virtuales.
