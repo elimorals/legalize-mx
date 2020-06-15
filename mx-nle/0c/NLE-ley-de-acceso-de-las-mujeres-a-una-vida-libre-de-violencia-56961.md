@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2020-06-05"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -295,11 +295,17 @@ IV. Evitar que la atención que reciban la víctima y el agresor sea proporciona
 
 V. Evitar procedimientos de mediación o conciliación salvo que la Ley lo determine, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
 
-VI. Favorecer la separación y alejamiento del agresor con respecto a la víctima, en los términos de las leyes respectivas; y
+> <small>(REFORMADA, P.O. 15 JUNIO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+VI. Favorecer la separación y alejamiento del agresor con respecto a la víctima, en los términos de las leyes respectivas;
 
-VII. Favorecer la instalación y el mantenimiento de refugios para las víctimas y familiares de niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos.
+> <small>(REFORMADA, P.O. 15 JUNIO DE 2020)</small>
+
+VII. Favorecer la instalación, operación, fortalecimiento y el mantenimiento de refugios para las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural adolescentes, que habiten en el mismo domicilio; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos; y
+
+> <small>(ADICIONADA, P.O. 15 JUNIO DE 2020)</small>
+
+VIII. Establecer en sus portales de internet o en micrositios información relativa a la prevención de cualquier tipo de violencia contra las mujeres, así como los números telefónicos donde se les pueda brindar atención y orientación.
 
 ###### Artículo 16.
 
@@ -1041,9 +1047,11 @@ En los casos en que persista algún riesgo para la integridad física de las ví
 
 El Estado y los Municipios se coordinarán con los sectores social y privado para impulsar la creación de refugios para la atención a las víctimas de violencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 JUNIO DE 2020)</small>
+
 ###### Artículo 49.
 
-Las personas que laboren en los refugios deberán contar en su caso, con cédula profesional correspondiente a la especialidad en que desarrollen su trabajo y en ningún caso podrán haber sido sancionados por ejercer algún tipo de violencia.
+Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
 
 Estos refugios deberán ser registrados y supervisados por la Secretaría de Salud. El Sistema deberá emitir el Reglamento para el funcionamiento de los refugios.
 
@@ -1053,7 +1061,9 @@ Corresponde a los refugios, desde la perspectiva de género:
 
 I. Aplicar el Programa;
 
-II. Velar por la seguridad de las mujeres que se encuentren en ellos;
+> <small>(REFORMADA, P.O. 15 JUNIO DE 2020)</small>
+
+II. Velar por la seguridad de las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural, que habiten con ellas en el mismo domicilio y que se encuentren en ellos;
 
 III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
 
@@ -1061,11 +1071,13 @@ IV. Dar información a las víctimas sobre las instituciones encargadas de prest
 
 V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 JUNIO DE 2020)</small>
 
-VI. Permitir la permanencia de las víctimas con las niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio.
+VI. Permitir la permanencia de las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural que habiten con ellas en el mismo domicilio, debiendo también proporcionarles a ellas y ellos la atención necesaria para su recuperación física y psicológica.
 
-VII. Contar preferentemente con personal debidamente capacitado y especializado en la materia; y
+> <small>(REFORMADA, P.O. 15 JUNIO DE 2020)</small>
+
+VII. Contar con el personal debidamente capacitado y especializado en la materia; y
 
 VIII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
 
@@ -1073,11 +1085,11 @@ VIII. Todas aquellas inherentes a la prevención, protección y atención de las
 
 Los refugios deberán ser lugares seguros para las víctimas, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 JUNIO DE 2020)</small>
 
 ###### Artículo 52.
 
-Los refugios deberán prestar a las víctimas y, en su caso, a las niñas, niños y adolescentes o incapaces que habiten en el mismo domicilio, los siguientes servicios especializados y gratuitos:
+Los refugios deberán prestar a las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural que habiten con ellas en el mismo domicilio, los siguientes servicios especializados y gratuitos:
 
 I. Hospedaje;
 
@@ -1097,9 +1109,13 @@ VIII. Capacitación, para que puedan adquirir conocimientos para el desempeño d
 
 IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
 
+> <small>(REFORMADO, P.O. 15 JUNIO DE 2020)</small>
+
 ###### Artículo 53.
 
-La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física o psicológica o su situación de riesgo.
+La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física o psicológica o su situación de riesgo. Los refugios deberán contar con un modelo adecuado para el egreso y seguimiento de las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural, conforme a lo dispuesto por el Instituto Estatal de las Mujeres y el Reglamento al que hace referencia esta Ley.
+
+El objetivo principal del modelo de seguimiento de las víctimas, debe ser verificar, cada dos meses durante un año posterior al egreso del refugio, que tanto la víctima, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural que habiten con ella en el mismo domicilio, no se encuentren en riesgo o hayan vuelto al lugar o a la situación de violencia en que se encontraban, en cuyo caso, sin perjuicio de lo dispuesto por esta Ley, se le deberá de ofrecer el reingreso.
 
 ###### Artículo 54.
 
@@ -1295,6 +1311,14 @@ Segundo.- El Ejecutivo del Estado y los Municipios deberán hacer los ajustes pr
 
 P.O. 5 DE JUNIO DE 2020.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 304. SE REFORMA LA FRACCIÓN VI, AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 304. SE REFORMA LA FRACCIÓN VI, AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 303. SE REFORMA LAS FRACCIONES VI Y VII DEL ARTÍCULO 15, EL ARTÍCULO 49, LAS FRACCIONES II, VL (SIC) Y VII DEL ARTÍCULO 50, LOS ARTÍCULOS 52 Y 53; POR ADICIÓN DE UNA FRACCIÓN VIII AL ARTÍCULO 15; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los 60 días naturales posteriores a la entrada en vigor del presente Decreto, el Instituto Estatal de las Mujeres deberá crear el modelo de seguimiento a las víctimas ingresadas a los refugios, que hayan cumplido su periodo máximo de estancia dentro de los mismos.
