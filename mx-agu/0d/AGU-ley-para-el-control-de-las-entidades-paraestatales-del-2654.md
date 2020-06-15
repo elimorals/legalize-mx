@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2018-05-28"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 28 DE MAYO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2020.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -155,11 +153,17 @@ Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su 
 
 La administración de los organismos descentralizados estará a cargo de un Organo de Gobierno, que podrá ser una Junta de Gobierno o su equivalente y un Director General.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 11.
 
-El Organo de Gobierno estará integrado por no menos de cinco ni más de quince miembros propietarios y de sus respectivos suplentes. Será presidido por el Gobernador del Estado o por la persona que él designe.
+El Órgano de Gobierno estará integrado por no menos de cinco ni más de quince miembros propietarios y de sus respectivos suplentes.
 
-El cargo de miembro del Organo de Gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes.
+El Órgano de Gobierno será presidido por el Gobernador del Estado, quien podrá ser suplido por el servidor público que aquél designe, cuyo nivel jerárquico deberá ser cuando menos de Director General, o por quien la ley que rige a cada Entidad Paraestatal así lo prescriba.
+
+Cuando el servidor público suplente designado en términos del párrafo anterior se encuentre en algún impedimento legal para cumplir con dicha función, el Gobernador deberá sustituirlo por diverso suplente, con el mismo nivel jerárquico señalado en el párrafo anterior inmediato.
+
+Solo los miembros propietarios del Órgano de Gobierno podrán ser suplidos y el cargo de éstos será estrictamente personal y no podrá desempeñarse por medio de representantes.
 
 ###### ARTICULO 12.
 
@@ -830,3 +834,11 @@ La Contraloría del Estado deberá publicar en el Periódico Oficial del Estado 
 ###### ARTÍCULO QUINTO.
 
 Quedan sin efecto todas aquellas disposiciones que se contrapongan con el presente Decreto.
+
+P.O. 15 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 349.- SE REFORMA E ARTÍCULO 11 DE LA LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
