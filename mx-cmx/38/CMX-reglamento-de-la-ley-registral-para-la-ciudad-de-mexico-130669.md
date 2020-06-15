@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-registral-para-la-ciudad-de-mexico-130669"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-10-01"
-last_updated: "2018-10-01"
+last_updated: "2020-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130669&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-09-24"
 
 REGLAMENTO DE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2020.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el lunes 1 de octubre de 2018.
 
@@ -1412,25 +1412,39 @@ Podrán solicitar la liberación del Antecedente Registral en Custodia:
 
 I. El titular registral, su representante con poder notarial o su albacea debidamente acreditado;
 
-II. El Notario que haya otorgado la escritura del acto motivo de la Custodia o el Notario ante el que se otorgue alguna operación con base en dicho Antecedente Registral;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2020)</small>
+
+II. El Notario que haya otorgado la escritura del acto motivo de la custodia o el Notario ante el que se otorgue o vaya a otorgarse alguna operación con base en dicho Antecedente Registral;
 
 III. El que sea parte en un procedimiento judicial en contra del derecho de propiedad del titular registral, su representante con poder notarial o su albacea debidamente acreditado; y
 
 IV. Las autoridades judiciales y administrativas, que en resolución fundada y motivada lo determinen.
 
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2020)</small>
+
+V. Cualquier persona que acredite su interés jurídico en la liberación.
+
 ###### Artículo 164.
 
 En el caso de Suspensión de Procedimiento por Custodia de Antecedente Registral sobre el que se va a inscribir o donde conste inscrita la titularidad registral, el Registrador deberá notificar dicha resolución al solicitante del servicio informándole el motivo de la misma.
 
-En el caso de que la Custodia se derive de los motivos a que hace mención el Artículo 156 del presente Reglamento, el interesado deberá presentar en el término de diez días hábiles la solicitud de liberación del Antecedente Registral. Si no es presentada dentro del término dicha solicitud o la misma es denegada, el trámite que se encontraba suspendido seguirá la misma suerte.
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2020)</small>
 
-Tratándose de Custodia de Antecedentes Registrales ordenada por autoridad judicial o administrativa antes de la entrada en vigor del presente ordenamiento, quien acredite su interés legítimo podrá solicitar su liberación una vez transcurrido el plazo de tres años a que hace referencia el párrafo anterior, a cuyo efecto la Dirección Jurídica notificará a la Autoridad ordenadora su liberación, sin responsabilidad para el Registro Público.
+En el caso de que la Custodia se derive de los motivos a que hace mención el Artículo 156 del presente Reglamento, el interesado deberá presentar en el término de diez días hábiles la solicitud de liberación del Antecedente Registral. Si no es presentada dentro del término indicado, dicha solicitud o la misma es denegada, el trámite que se encontraba suspendido seguirá la misma suerte.
 
-De conformidad con lo establecido en el último párrafo del Artículo 90 de la Ley y su Artículo segundo transitorio, el procedimiento registral deberá continuarse hasta su conclusión total por lo que se refiere a aquellos documentos que tengan mejor prelación que la resolución de autoridad que en su momento ordenó la custodia, según informe emitido por la Dirección Jurídica a solicitud del área responsable del documento, aún cuando ésta sea anterior a la entrada en vigor de los referidos Artículos, respetando la prelación de los documentos presentados a Registro, sin responsabilidad para la autoridad registral, debiendo ingresar el folio correspondiente nuevamente a custodia, conforme a las disposiciones legales aplicables, únicamente por lo que se refiere a las inscripciones y anotaciones de documentos que no tengan mejor prelación en términos de los artículos 3015 y 3016 del Código, circunstancia que deberá informar el Registro Público de la Propiedad a la autoridad ordenadora respectiva. Lo anterior no será aplicable ante las resoluciones emanadas de juicios de amparo, de extinción de dominio y ante las órdenes de ministerio público derivadas de carpetas de investigación.
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2020)</small>
+
+Tratándose de Custodia de Antecedentes Registrales ordenada por autoridad judicial o administrativa antes de la entrada en vigor del presente ordenamiento, quien acredite su interés legítimo podrá solicitar su liberación una vez transcurrido el plazo de tres años a que hace referencia el artículo 162 de este Reglamento, a cuyo efecto la Dirección Jurídica notificará a la Autoridad ordenadora su liberación, sin responsabilidad para el Registro Público.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2020)</small>
+
+De conformidad con lo establecido en el último párrafo del Artículo 90 de la Ley y su Artículo segundo transitorio, el procedimiento registral deberá continuarse hasta su conclusión total por lo que se refiere a aquellos documentos que tengan mejor prelación que la resolución de autoridad que en su momento ordenó la custodia, según informe emitido por la Dirección Jurídica a solicitud del área responsable del documento, aun cuando ésta sea anterior a la entrada en vigor de los referidos Artículos, respetando la prelación de los documentos presentados a Registro, sin responsabilidad para la autoridad registral, debiendo ingresar el folio correspondiente nuevamente a custodia, conforme a las disposiciones legales aplicables, únicamente por lo que se refiere a las inscripciones y anotaciones de documentos que no tengan mejor prelación en términos de los artículos 3015 y 3016 del Código, circunstancia que deberá informar el Registro Público de la Propiedad a la autoridad ordenadora respectiva.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2020)</small>
 
 ###### Artículo 165.
 
-En caso de que la persona que acredite su interés exhiba los elementos necesarios para realizar la liberación solicitada, la Dirección Jurídica dentro del término que marca el Artículo 93 de la Ley deberá emitir una nueva resolución.
+En caso de que la persona que acredite su interés exhiba los elementos necesarios para realizar la liberación solicitada, la Dirección Jurídica dentro del término que marca el Artículo 93 de la Ley deberá emitir la resolución de liberación.
 
 ###### Artículo 166.
 
@@ -1456,7 +1470,9 @@ III. Se denegarán los trámites relacionados, con excepción de aquellos docume
 
 IV. No se pueda consultar vía Sistema Informático.
 
-A petición de parte, solamente se contestará para indicar los motivos de la Custodia.
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2020)</small>
+
+A petición de parte, se contestará para indicar los motivos de la custodia en términos del artículo 84 de la Ley.
 
 ### CAPÍTULO OCTAVO. DEL RECURSO DE INCONFORMIDAD
 
@@ -1553,3 +1569,15 @@ CUARTO.- De conformidad con el segundo párrafo del artículo 16 de la Ley Regis
 QUINTO.- Hasta en tanto opere el Servicio Profesional de Carrera Registral, para el ingreso de registradores no será requisito el examen correspondiente, siempre y cuando se cumplan con los requisitos de Ley.
 
 Dado en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veinticuatro días del mes de septiembre del año dos mil dieciocho.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, GUILLERMO OROZCO LORETO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los trámites que se hayan ingresado con anterioridad a la entrada en vigor de la presente reforma deberán continuarse con el procedimiento registral vigente al momento que lo ingresaron hasta su conclusión total, siempre y cuando éstos se ubiquen en los supuestos establecidos por el artículo 90 de la Ley Registral para la Ciudad de México y del artículo 164 del Reglamento de la Ley Registral para la Ciudad de México.
