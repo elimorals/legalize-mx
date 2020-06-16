@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2020-04-21"
+last_updated: "2020-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -1137,11 +1137,15 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. La Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-III. La Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
+
+III. La Secretaría de la Hacienda Pública;
 
 IV. La Secretaría de Innovación, Ciencia y Tecnología;
 
-V. La Secretaría de Movilidad;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
+
+V. La Secretaría del Transporte;
 
 VI. La Secretaría de Salud;
 
@@ -1165,23 +1169,43 @@ El fideicomiso contará con un Consejo Consultivo, encargado de recabar y analiz
 
 I. La Secretaría de Medio Ambiente y Desarrollo Territorial, que lo presidirá;
 
-II. La Secretaría de Movilidad;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
 
-IV (SIC). La Secretaría de Innovación, Ciencia y Tecnología;
+II. La Secretaría del Transporte;
 
-V. La Secretaría de Salud;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
 
-VI. El Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara;
+III. La Secretaría de Innovación, Ciencia y Tecnología;
 
-VII. Tres Universidades del Estado;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
 
-VIII. Centro Mario Molina;
+IV. La Secretaría de Salud;
 
-IX. Instituto Nacional de Ecología y Cambio Climático;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
 
-X. Un representante de las cúpulas empresariales.
+V. El Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
+
+VI. Tres Universidades del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
+
+VII. Centro Mario Molina;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
+
+VIII. Instituto Nacional de Ecología y Cambio Climático; y
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
+
+IX. Un representante de las cúpulas empresariales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2020)</small>
 
 El nombramiento como integrante del Consejo es honorífico y por lo tanto no será remunerado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2020)</small>
 
 Para la validez de los acuerdos del Consejo, se requerirá la presencia de la mitad más uno de sus integrantes; las decisiones se tomarán por mayoría simple y en caso de empate el Presidente tendrá voto de calidad.
 
@@ -3240,3 +3264,9 @@ SEGUNDO. El titular del Poder Ejecutivo Estatal contará con un plazo no mayor d
 TERCERO. Los municipios de Jalisco tendrán un plazo de 90 días naturales, para efecto de realizar las modificaciones reglamentarias conforme a lo dispuesto por el presente decreto, así como para presentar al Congreso del Estado la iniciativa de reforma a la Ley de Ingresos correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27915/LXII/20 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 41 QUINQUES (SIC) Y 41 SEXIES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
