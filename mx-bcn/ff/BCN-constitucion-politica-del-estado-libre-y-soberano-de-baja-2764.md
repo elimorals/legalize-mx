@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2020-03-27"
+last_updated: "2020-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -749,7 +749,27 @@ Los Diputados se elegirán cada tres años y podrán ser electos de manera conse
 
 Cuando los diputados hayan sido postulados por algún partido político o coalición, la postulación para su elección consecutiva sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-Para ser electo Diputado de manera consecutiva, el funcionario interesado, deberá separarse de su encargo por lo menos un día antes del inicio de la campaña electoral correspondiente.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2020)</small>
+
+Para ser electo Diputado de manera consecutiva, no será necesario que el funcionario interesado, solicite licencia para separarse del cargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 16 DE JUNIO DE 2020)</small>
+
+Durante los periodos de campaña respectiva, quien pretenda reelegirse de manera consecutiva, debe ponderar los siguientes supuestos:
+
+I.- No podrá recibir emolumentos o salarios, dietas, apoyos para gestión social o cualquier otra que se le asimile, independientemente de la obligación de continuar en el desempeño del cargo para el cual ha decidido participar en elección consecutiva.
+
+II.- No podrá utilizar recursos públicos que les correspondan por el ejercicio de su encargo para promover o influir de manera alguna en el voto a su favor o en contra de algún candidato.
+
+III.- No podrá ocupar al personal adscrito a la nómina del Congreso del Estado durante su horario laboral para realizar actos de campaña.
+
+IV.- No podrá estar presente en actos públicos relacionados con la entrega de beneficios derivados de programas sociales promovidos en su encargo.
+
+V.- No podrá condicionar la entrega de recursos provenientes de programas públicos en ninguna circunstancia.
+
+VI.- No podrá promocionar o publicar las acciones de beneficio social realizadas en el periodo que comprende, desde el inicio de las campañas hasta la conclusión de la jornada electoral.
+
+VII.- Las demás prohibiciones o limitaciones que determinen las leyes aplicables en la materia.
 
 Los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar en primer término, el derecho a la elección consecutiva del diputado que haya obtenido la constancia de mayoría relativa o de representación proporcional en el proceso electoral anterior para la asignación de género por distrito o su equivalencia.
 
@@ -947,7 +967,7 @@ X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XI.- Examinar, discutir, modificar, aumentar, reducir y aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, en los términos de la ley de la materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
+XI.- Examinar, discutir, modificar, aumentar, reducir y aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, en los términos de la ley de la materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
 
@@ -1117,7 +1137,7 @@ II.- Al Gobernador;
 
 III.- Al Tribunal Superior en asuntos relacionados con la organización y funcionamiento de la administración de Justicia; así como al Tribunal de Justicia Electoral en asuntos inherentes a la materia electoral;
 
-IV.- A los Ayuntamientos;
+IV.- A los Ayuntamientos.
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -2243,9 +2263,13 @@ Los ayuntamientos iniciarán el ejercicio de sus funciones el día primero de oc
 
 Los Presidentes Municipales, Regidores y Síndicos de los ayuntamientos durarán en su cargo tres años, pudiendo ser electos por un período adicional consecutivo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2020)</small>
 
-Para ser electo Presidente Municipal, Regidor o Síndicos de un ayuntamiento, de manera consecutiva, los funcionarios interesados, deberán separarse de su encargo por lo menos un día antes del inicio de la campaña electoral correspondiente.
+Para ser electo Presidente Municipal, Regidor o Síndicos de un ayuntamiento, de manera consecutiva, no será necesario que el funcionario interesado, solicite licencia para separarse del cargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2020)</small>
+
+Durante los actos de precampaña o campaña respectiva, quien pretenda participar en una elección consecutiva, deberá abstenerse del uso de recursos públicos en los términos que prevé el artículo 16 de esta Constitución y 9 TER de la Ley para el Régimen Municipal para el Estado de Baja California, además en el periodo de campaña, no podrán recibir emolumentos o salarios, dietas, apoyos para gestión social o cualquier otra que se le asimile, independientemente de la obligación de desempeñar el cargo para el cual ha decidido participar en elección consecutiva.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -2337,13 +2361,11 @@ La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un 
 
 III.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
 
 IV.- No tener empleo, cargo o comisión en el Gobierno federal, estatal o municipal, en los organismos descentralizados municipales o estatales, e instituciones educativas; salvo que se separen, en forma provisional, noventa días antes del día de la elección.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
-
-Estos mismos requisitos serán necesarios tratándose de la elección consecutiva a que refiere el artículo 78 de esta Constitución.
+Tratándose de la elección consecutiva, se estará a lo que establece el artículo 78 de esta Constitución.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
 
@@ -4988,3 +5010,9 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Aprobada la presente reforma por el Pleno del Congreso, túrnese a los Ayuntamientos para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 TERCERO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado deberá de emitir la declaratoria de incorporación constitucional correspondiente.
+
+P.O. 16 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 74 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 16, 78 Y 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
