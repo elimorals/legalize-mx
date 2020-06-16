@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2020-05-27"
+last_updated: "2020-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2020.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -3105,6 +3105,10 @@ Tratándose de iniciativas en las que la Comisión requiera de mayor tiempo para
 
 Para emitir dictamen de los asuntos turnados, las Comisiones deberán reunirse para su análisis, discusión y aprobación, lo que se hará constar en el acta que al efecto se levante, misma que, se remitirá junto con el dictamen correspondiente y el expediente a la Conferencia.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2020)</small>
+
+A la reunión en la que se vaya a estudiar, analizar y dictaminar una iniciativa presentada por un diputado de la legislatura en turno, se le deberá de citar también por parte del presidente de la Comisión, a efecto de que exponga las consideraciones al respecto, las que se asentarán en el acta que se levante de la reunión respectiva.
+
 ###### ARTÍCULO 244.
 
 Los dictámenes deberán contener:
@@ -4144,3 +4148,9 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación por el 
 SEGUNDO. La presidencia de la Mesa Directiva deberá emitir e implementar las medidas y especificaciones técnicas, de logística o cualquier otra que se requieran para cumplir los periodos de sesiones virtuales ante la contingencia sanitaria y de distanciamiento social ocasionada por la pandemia mundial del COVID-19.
 
 TERCERO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 333 POR EL QUE “SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 243 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al momento de su aprobación. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
