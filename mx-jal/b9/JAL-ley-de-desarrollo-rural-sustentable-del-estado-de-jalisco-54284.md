@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2020-04-21"
+last_updated: "2020-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -498,6 +498,10 @@ IX. Las demás que determinen esta Ley y demás ordenamientos aplicables.
 ###### Artículo 24.
 
 La Comisión Intersecretarial coordinará la participación de las diversas dependencias y entidades; dará seguimiento y evaluará los programas y acciones públicas establecidas e instrumentadas en cumplimiento de los objetivos de la política pública integral y de los programas especiales, emergentes y concurrentes que se implementen para impulsar el desarrollo rural sustentable.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2020)</small>
+
+Además propondrá las políticas públicas necesarias que le permitan coadyuvar en la eficaz y eficiente obtención de productos básicos y estratégicos, para tal efecto, podrá apoyarse en la iniciativa privada, la sociedad civil y la academia, a través de las instituciones de educación superior reconocidas por la Secretaría de Educación Pública.
 
 ###### Artículo 25.
 
@@ -1674,3 +1678,9 @@ P.O. 21 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27877/LXII/20 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 7° DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco"
+
+P.O. 16 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27914/LXII/20 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 24, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
