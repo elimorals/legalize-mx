@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2019-12-12"
+last_updated: "2020-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -2531,6 +2531,10 @@ d) En votación económica inmediata, el Congreso determinará si se admite o no
 
 5. En caso de ser aprobada la dispensa del turno a comisiones de una iniciativa o proposición, si ésta ya hubiese sido leída se continuará con su puesta a discusión y subsiguiente votación; pero si no hubiese sido leída, el presidente de la Mesa Directiva dispondrá su lectura íntegra y, posteriormente, se procederá a su discusión y votación.
 
+### CAPÍTULO OCTAVO. DEL PARLAMENTO ABIERTO
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 149.
 
 1. Cuando a la sesión asista el Presidente de los Estados Unidos Mexicanos, ocupará el lugar situado a la izquierda del Presidente del Congreso, el Gobernador del Estado el de la izquierda del Presidente de los Estados Unidos Mexicanos y el Presidente del Supremo Tribunal de Justicia al lado derecho del Presidente del Congreso.
@@ -2680,6 +2684,14 @@ El acta que se levante de cada sesión deberá contener una relación sucinta de
 1. La grabación de lo acontecido en las sesiones es un instrumento para la conservación de la historia de los procesos parlamentarios del Estado, la cual comprenderá íntegramente las voces de las intervenciones que por cualquier causa se presenten en las sesiones.
 
 2. El secretario general vigilará que el local de grabación se mantenga debidamente equipado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2020)</small>
+
+###### ARTÍCULO 168.
+
+1. El Congreso del Estado promoverá la implementación de un Parlamento Abierto, con base en los principios que lo rigen y con énfasis en la participación ciudadana y el uso de tecnologías de la información. En el ejercicio de su función los Diputados promoverán la participación e inclusión de la ciudadanía en la toma de decisiones relacionadas con el proceso legislativo.
+
+2. Como parte del Parlamento Abierto, el Congreso del Estado convocará a la ciudadanía a participar en la realización de parlamentos mediante el formato de un ejercicio simulado de asamblea plenaria, así como a otros espacios de participación en los que las personas expresen y formulen propuestas con relación a los diferentes temas de su entorno social.
 
 ## TRANSITORIOS
 
@@ -3354,3 +3366,11 @@ P.O. 12 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-105 MEDIANTE EL CUAL SE ADICIONA UN CAPÍTULO OCTAVO AL TÍTULO TERCERO, DENOMINADO DEL PARLAMENTO ABIERTO, QUE CONTIENE EL ARTÍCULO 168 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición, y deberá publicarse en el Periódico Oficial del Estado.
