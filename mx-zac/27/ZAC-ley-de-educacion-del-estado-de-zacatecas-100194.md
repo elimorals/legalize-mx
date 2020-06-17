@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-100194"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-02"
-last_updated: "2018-01-13"
+last_updated: "2020-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE EDUCACION DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2020 (ABROGADA).
 
 Ley publicada en el Suplemento 5 del Periódico Oficial del Estado de Zacatecas, el miércoles 2 de abril de 2014
 
@@ -1592,3 +1594,25 @@ P.O. 13 DE ENERO DE 2018.
 PRIMERO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS".]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Segundo. Se abroga la Ley de Educación del Estado de Zacatecas, aprobada mediante el Decreto número 113, publicada en el Suplemento 5 al número 27, del Periódico Oficial, órgano de Gobierno del Estado, del 2 de abril de 2014, y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+
+Tercero. La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto, continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+Quinto. Las autoridades educativas, en coordinación con las autoridades correspondientes, realizarán consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas o afromexicanas relativo a la aplicación de las disposiciones que, en materia de educación indígena, son contempladas en este Decreto; hasta en tanto, las autoridades educativas no realizarán ninguna acción derivada de la aplicación de dichas disposiciones.
+
+Sexto. La Comisión Estatal de Planeación y Coordinación del Sistema de Educación Media Superior del Estado de Zacatecas prevista en el artículo 28 de este Decreto deberá quedar instalada en un plazo de sesenta días contados a partir de la entrada en vigor del mismo.
+
+Séptimo. El Sistema Integral de Formación, Capacitación y Actualización del Estado de Zacatecas, previsto en el artículo 88 de este Decreto deberá instalarse antes de finalizar el año 2020.
+
+Octavo. El Programa Educativo Estatal previsto en el artículo 105 de este Decreto se presentará en un plazo no mayor a sesenta días contados a la entrada en vigor del mismo. Dicho Programa se actualizará en el caso de los cambios de administración del Poder Ejecutivo Estatal y observará lo establecido en la presente Ley de Educación.
