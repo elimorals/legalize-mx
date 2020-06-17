@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-prestaciones-de-la-caja-de-prevision-para-15469"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-19"
-last_updated: "2018-05-18"
+last_updated: "2020-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15469&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1988-11-25"
 
 REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE JUNIO DE 2020.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 19 de diciembre de 1988.
 
@@ -66,31 +66,27 @@ XIII. De bienestar social; y
 
 XIV. Servicios médicos subrogados.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 2°.
 
 Las disposiciones de este Reglamento son de interés social y de aplicación para:
 
-> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
+I. El Gobierno de la Ciudad de México;
 
-I. El Gobierno del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
-
-II. La Caja de Previsión para Trabajadores a Lista de Raya del Gobierno del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
+II. La Caja de Previsión para Trabajadores a Lista de Raya del Gobierno de la Ciudad de México;
 
 III. Los trabajadores a lista de raya del Gobierno y empleados de la propia Institución;
 
 IV. Los pensionados y familiares derechohabientes de éstos y de los trabajadores en activo, y
 
-V. El Sindicato Unico de Trabajadores del Gobierno del Distrito Federal.
+V. El Sindicato Único de Trabajadores de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 3º.
 
-Para los efectos de este Reglamento, se entenderá como “Gobierno”, a todas las dependencias y autoridades del Gobierno del Distrito Federal; como “Institución”, a la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno del Distrito Federal; como “trabajadores” a quienes prestan sus servicios de base o eventual, figurando con tal carácter en la nómina de lista de raya del Gobierno y a los servidores públicos de la propia Institución; como “sueldo básico” al determinado como sueldo base y prima quinquenal de antigüedad por la Oficialía Mayor del Gobierno; como “pensionados”, a quienes perciben alguna o algunas de las pensiones establecidas, y como “Sindicato” a los representantes del Sindicato Único de Trabajadores del Gobierno del Distrito Federal.
+Para los efectos de este Reglamento, se entenderá como “Gobierno”, a todas las dependencias y autoridades del Gobierno de la Ciudad de México; se entenderá como “Institución”, a la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno de la Ciudad de México; se entenderá como “trabajadores” a quienes prestan sus servicios de base o eventual, figurando con tal carácter en la nómina de lista de raya del Gobierno y a los servidores públicos de la propia Institución; se entenderá como “sueldo básico” al determinado como sueldo base y prima quinquenal de antigüedad por la Secretaría de Administración y Finanzas del Gobierno; se entenderá como “pensionados”, a quienes perciben alguna pensión de las establecidas y se entenderá como “Sindicato” a los representantes del Sindicato Único de Trabajadores del Gobierno de la Ciudad de México.
 
 ###### ARTICULO 3°.
 
@@ -110,145 +106,135 @@ Las controversias que se susciten en la observancia de las disposiciones del pre
 
 ### CAPITULO II. De los Sujetos de las Pensiones
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 7°.
 
-Los trabajadores estarán sujetos a lo establecido por el presente Reglamento, siempre y cuando reúnan los requisitos que establece, y tendrán derecho a que se les otorguen pensiones.
+Los trabajadores estarán sujetos a lo establecido por el presente Reglamento y tendrán derecho a que se les otorgue una de las pensiones señaladas en el mismo, así también sus familiares derechohabientes siempre que reúnan los requisitos señalados en el propio reglamento.
 
-Las pensiones a los familiares derechohabientes de los trabajadores o pensionados que fallezcan, se otorgarán debiendo reunir éstos los requisitos que el Reglamento consigna.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 8°.
 
-La calidad de pensionado se adquiere a partir de la fecha en que la Institución notifique al interesado el acuerdo que le concede el beneficio.
+El trabajador adquiere el estatus de pensionado cuando recibe el pago por primera vez y la concesión de pensión que le concede tal beneficio.
 
-Asimismo, éste lo adquiere cuando ha causado baja y reúne los demás requisitos que establece el presente Reglamento y muera durante la tramitación, sin que se le haya notificado la resolución favorable.
+Si el trabajador falleciere antes de culminar los tramites de pensión, este derecho se transferirá a sus familiares derechohabientes.
 
 ### CAPITULO III. De los Fines de las Pensiones
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 9°.
 
-Las pensiones tendrán como finalidad para quienes las perciban, otorgarles una garantía que los proteja mediante un ingreso para la subsistencia de ellos y de sus familiares en los casos de invalidez, retiro por edad, jubilación, cesantía y muerte.
+La finalidad de las pensiones es otorgar bienestar a los pensionados y sus familiares.
 
-Tendrán derecho a que se les otorguen:
+Tendrán derecho a recibir una pensión:
 
-> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
-
-I. Quienes hayan sido trabajadores a lista de raya del Gobierno del Distrito Federal, y
-
-> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
-
-II. Los trabajadores en activo a lista de raya del Gobierno del Distrito Federal y empleados de la Institución.
-
-El disfrute de la pensión, permitirá que el trabajador o pensionado, valorice y capte cabalmente las dimensiones de índole económica y social que el Estado, a través del sistema de seguridad social, le otorga para su bienestar y el de sus familiares.
+Los trabajadores en activo a lista de raya del Gobierno de la Ciudad de México y empleados de la Institución que cumplan con todos y cada uno de los requisitos establecidos en este reglamento.
 
 ### CAPITULO IV. Disposiciones Comunes a las Pensiones
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 10.
 
-Las pensiones se otorgarán, debiéndose resolver durante un plazo máximo de 90 días contados a partir de la fecha en que se presente la solicitud y los anexos correspondienes (sic), entre ellos la constancia de licencia para trámite de pensión o el aviso oficial de la baja definitiva. Se considerará fecha de baja, el último día retribuido al trabajador.
+Las pensiones se otorgarán, debiéndose resolver durante un plazo máximo de 90 días contados a partir de la fecha en que se presente la solicitud y los anexos correspondientes conforme los requisitos establecidos en este reglamento.
 
-El derecho al pago de las pensiones a los deudos, se iniciará el día siguiente a la fecha en que fallezca el trabajador o pensionado que las origina.
-
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 11.
 
-El trabajador podrá obtener, previamente a los trámites de su pensión, la cuantificación de ésta.
+El trabajador podrá obtener la cuantificación de su pensión previamente a que realice los trámites para obtenerla; las cuales se pagarán mensualmente a partir de que cause baja definitiva en el Gobierno o en la Institución.
 
-> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
-
-Las pensiones se pagarán mensualmente, a partir de la fecha en que el trabajador cause baja en el Gobierno o en la Institución.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 12.
 
-Transcurrido el plazo máximo de 90 días, si no se hubiere otorgado la pensión exceptuándose aquellas derivadas de riesgos del trabajo, la Institución pagará los anticipos que estime convenientes al solicitante que estuviere separado definitivamente del servicio o a los beneficiarios del trabajador fallecido, pudiéndose proseguir el trámite para el otorgamiento de la pensión.
+Transcurrido el plazo máximo de 90 días, si no se hubiere otorgado la pensión, exceptuándose aquellas derivadas de riesgos de trabajo, la Institución otorgará los anticipos requeridos por el futuro pensionado que estuviere separado definitivamente del servicio o a los familiares derechohabientes del trabajador fallecido, pudiéndose proseguir el trámite para el otorgamiento de la pensión.
 
-> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
-
-Para la debida integración de los expedientes respectivos, el Gobierno deberá proporcionar la información y los documentos requeridos.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 13.
 
-Para el efecto de que un trabajador o sus familiares derechohabientes puedan disfrutar de una pensión que la Institución les otorgue, deberá cubrir los adeudos pendientes en ésta por concepto de las cuotas, a las cuales alude el artículo 19 de este Reglamento.
+Para el efecto de que un trabajador o sus familiares derechohabientes puedan disfrutar de una pensión que la Institución les otorgue, deberá cubrir los adeudos pendientes en ésta por concepto de las cuotas a las que alude el artículo 19 de este Reglamento.
 
-A los familiares derechohabientes del trabajador o pensionado que fallezca y que sea deudor de un préstamo a corto plazo, al concedérseles la pensión respectiva, la Institución lo cancelará de acuerdo a lo previsto por el artículo 133 del presente ordenamiento.
+A los familiares derechohabientes del trabajador o pensionado que fallezca y que sea deudor de un préstamo a corto plazo, al concedérseles la pensión respectiva, la Institución lo cancelará de acuerdo a lo previsto por los artículos 134, 135 del presente ordenamiento
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 14.
 
-A los trabajadores con derecho tanto a pensión de retiro por edad y tiempo de servicios como a pensión por invalidez, se les otorgará, a su elección, sólo una de ellas.
+Los trabajadores que tengan derecho a pensiones por jubilación, por retiro por edad y tiempo de servicios, por invalidez, y por viudez y orfandad, se les otorgará a su elección, solo una de ellas.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 15.
 
 Para el cómputo de los años de servicios de los trabajadores, se observarán las siguientes disposiciones:
 
-I. Para el otorgamiento de las pensiones, toda fracción de más de seis meses de servicios, se contará como años completos.
+I. Para el otorgamiento de las pensiones, toda fracción de más de seis meses y un día de servicios, se contará como años completos.
 
-II. Se considerará como interrupción en los servicios, el período que el trabajador haya dejado de laborar en un lapso que exceda de seis meses.
+II. Se considerará como interrupción en los servicios, el período que el trabajador haya dejado de laborar en un lapso que exceda de seis meses y un día.
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2000)</small>
+III. Se tomarán en cuenta los periodos que haya laborado el trabajador del Servicio Civil en nómina 1 del Gobierno y nómina 412, siempre y cuando éstos no rebasen el tiempo trabajado a nómina 5 y que esta Institución no le haya otorgado Pensión por Cesantía en Edad Avanzada, a excepción de los trabajadores que integren los Convenios de Agencia Civil. Las cuotas y aportaciones que no hayan sido cubiertas oportunamente por la causa anterior, las deberá cubrir el trabajador directamente a la Institución.
 
-III. Se tomaran en cuenta los periodos que haya laborado el trabajador del Servicio Civil en nómina 1 del Gobierno y nómina 412, siempre y cuando éstos no rebasen el tiempo trabajado a nómina 5 y que esta Institución no le haya otorgado Pensión por Cesantía en Edad Avanzada, a excepción de los trabajadores que integren los Convenio de Agencia Civil. Las cuotas y aportaciones que no hayan sido cubiertas oportunamente por la causa anterior, las deberá cubrir el trabajador directamente a la Institución.
+En el supuesto de que el trabajador haya cotizado un periodo mayor en nómina 1 o 412 al de nómina 5, será competente para conocer del trámite de las prestaciones que les correspondan por Ley, la Institución que haya recibido el mayor número de aportaciones.
 
-En el supuesto de que el trabajador haya cotizado un periodo mayor en nómina 1 ó 412 al de nómina 5, será competente para conocer del trámite de las prestaciones que les correspondan por Ley, la Institución que haya recibido el mayor número de aportaciones.
+IV. Los trabajadores a lista de raya del Gobierno de la Ciudad de México que hubieren prestado servicios con anterioridad al 1º de enero de 1962, fecha en que inició operaciones la Institución, y siempre que hayan pagado sus cuotas a partir de esa fecha, cumpliendo con los demás requisitos establecidos para disfrutar de pensión, tendrán derecho a la misma, computándoseles ese tiempo sin estar obligados a cubrir cuotas especiales. Si llegaran a fallecer, a sus familiares derechohabientes se les concederá la pensión correspondiente, reconociéndoles ese lapso sin pago alguno de cuotas.
 
-> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
-
-IV. Los trabajadores a lista de raya del Gobierno que hubieren prestado servicios con anterioridad al 1º de enero de 1962, fecha en que inició operaciones la Institución, y siempre que hayan pagado sus cuotas a partir de esa fecha, cumpliendo con los demás requisitos establecidos para disfrutar de pensión, tendrán derecho a la misma, computándoseles ese tiempo sin estar obligados a cubrir cuotas especiales. Si llegaran a fallecer, a sus familiares derechohabientes se les concederá la pensión correspondiente, reconociéndoles ese lapso sin pago alguno de cuotas.
-
-> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 1997)</small>
-
-V. Cuando se hubieren prestado servicios con interrupciones con más de seis meses antes o después del 01 de enero de 1962, los trabajadores o al fallecer estos, sus familiares derechohabientes, podrán solicitar que la institución adicione el período de tiempo interrumpido al nuevo período cotizado, para así tener derecho a pensión, o correspondiendo ésta, para incrementar su antigüedad, pagando previamente las cuotas especiales relativas al preríodo (sic) de tiempo no cotizado.
-
-> <small>(F. DE E., G.O. 17 DE NOVIEMBRE DE 1997)</small>
-
-El período de tiempo cotizado con anterioridad a la interrupción deberá reconocerse, independientemente del pago de cuotas especiales antes señalado.
+V. Cuando se hubieren prestado servicios con interrupciones con más de seis y un día antes o después del 01 de enero de 1962, los trabajadores o al fallecer estos, sus familiares derechohabientes, podrán solicitar que la institución adicione el período de tiempo interrumpido al nuevo período cotizado, para así tener derecho a pensión, o correspondiendo ésta, para incrementar su antigüedad, pagando previamente las cuotas especiales relativas al período de tiempo no cotizado.
 
 ###### ARTICULO 16.
 
 Para efecto del cómputo de los años de servicios y de cotización, sin demérito de los demás requisitos que establece el presente Reglamento, el derecho a la pensión por cesantía en edad avanzada podrá iniciarse a los nueve años seis meses un día; las de invalidez y retiro por edad y tiempo de servicios, a los catorce años seis meses y un día.
 
-> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 17.
 
-La cuantía de las pensiones aumentará simultáneamente y en la misma proporción en que se incremente el salario mínimo general para el Distrito Federal.
+La cuantía de las pensiones aumentará simultáneamente y en la misma proporción en que se incremente el salario mínimo general para la Ciudad de México.
 
-Los pensionados tendrán derecho a una graficación (sic) anual equivalente en número de días a la concedida a los trabajadores en activo, según el monto de su pensión. Esta gratificación deberá pagarse un 50% antes del 15 de diciembre y el otro 50% a más tardar el 15 de enero del siguiente año.
+Los pensionados tendrán derecho a una gratificación anual equivalente en número de días a la concedida a los trabajadores en activo, según el monto de su pensión. Esta gratificación deberá pagarse de la siguiente forma: el 50% antes del 15 de diciembre y el otro 50% antes del 15 de enero del siguiente año.
 
 ### CAPITULO V. Sueldo, Cuotas Pensionarias y Cotizaciones
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 18.
 
-Para la aplicación de las disposiciones del presente Reglamento, el sueldo básico estará integrado con todas las percepciones del trabajador, cuyo monto total servirá para determinar las cuotas que cubra a la Institución.
+Para la aplicación de las disposiciones del presente Reglamento, el sueldo básico estará integrado con las percepciones del trabajador indicadas en el artículo tercero de este reglamento, cuyo monto total servirá para determinar las cuotas que cubra a la institución.
 
-Cuando el trabajador o empleado hubiere pagado más de la suma máxima de cotización, la Institución devolverá las diferencias resultantes, previa solicitud debidamente fundada.
-
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 19.
 
 Los trabajadores cubrirán a la Institución, una cuota obligatoria quincenal del 6% sobre el sueldo básico que perciban y prima de antigüedad, misma que se aplicará para solventar las prestaciones establecidas por las fracciones II a la XII del artículo 1°. de este Ordenamiento.
 
+Cuando el trabajador o empleado hubiere pagado más de la suma máxima de cotización, la Institución devolverá las diferencias resultantes, previa solicitud debidamente fundada.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 20.
 
-La suma máxima cotizable de sueldo básico no excederá 10 veces el salario mínimo general vigente para el Distrito Federal, que establezca la Comisión Nacional de los Salarios Mínimos y esa cantidad será la cuota máxima que se podrá asignar a las pensiones.
+La suma máxima cotizable de sueldo básico no excederá 10 veces el salario mínimo general vigente para la Ciudad de México, que establezca la Comisión Nacional de los Salarios Mínimos y esa cantidad será la cuota máxima que se podrá asignar a las pensiones.
 
-> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 21.
 
 Cuando, por omisión, el Gobierno no efectúe los descuentos correspondientes al trabajador, se encuentra obligado a cubrir a la Institución, las cantidades que adeude.
 
-Tratándose de suspensión de la relación laboral, licencia sin goce de sueldo y otras separaciones temporales, que no le hagan perder su calidad de trabajador, se encuentra obligado a cubrir a la Institución, las cantidades que adeude y, de igual manera, las que le hubieren correspondido al Gobierno.
+Tratándose de suspensión de la relación laboral, licencia sin goce de sueldo y otras separaciones temporales, que no le hagan perder su calidad de trabajador, éste se encuentra obligado a cubrir a la Institución, las cantidades que adeude y, de igual manera, las que le hubieren correspondido al Gobierno
 
 ###### ARTICULO 22.
 
 Los trabajadores que por cualquier causa no perciban íntegramente su sueldo, sólo podrán continuar disfrutando de los beneficios que este Reglamento les otorga, si pagan la totalidad de las cuotas que les corresponden.
 
-> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 23.
 
-En los casos de separación injustificada, si en cumplimiento de una resolución judicial o administrativa, el trabajador regresa a ocupar su puesto o empleo, las cuotas y las aportaciones correspondientes al tiempo de la separación, serán cubiertas íntegramente a la Institución por el Gobierno del Distrito Federal.
+En los casos de separación injustificada, si en cumplimiento de una resolución judicial o administrativa, el trabajador regresa a ocupar su puesto o empleo, las cuotas y las aportaciones correspondientes al tiempo de la separación, serán cubiertas íntegramente a la Institución por el Gobierno de la Ciudad de México
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE MAYO DE 2012)</small>
 
@@ -272,11 +258,13 @@ El Gobierno hará entregas quincenales a la Institución del monto de las cantid
 
 GENERALIDADES
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 26.
 
 La Institución impartirá las siguientes prestaciones económicas:
 
-I. Pensión por riesgos del trabajo;
+I. Pensión por riesgos de trabajo;
 
 II. Pensión por jubilación;
 
@@ -290,47 +278,67 @@ VI. Pensión por muerte;
 
 VII. Indemnización global.
 
-> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 27.
 
-Tienen derecho a percibir las pensiones que la Institución otorga, quienes hayan prestado sus servicios como trabajadores a lista de raya del Gobierno del Distrito Federal, y quienes hayan laborado como empleados al servicio directo de la Institución, siempre y cuando satisfagan los requisitos que establece este Reglamento.
+Tienen derecho a percibir las pensiones que la Institución otorga, quienes hayan prestado sus servicios como trabajadores a lista de raya del Gobierno de la Ciudad de México, y quienes hayan laborado como empleados al servicio directo de la Institución, siempre y cuando satisfagan los requisitos que establece este Reglamento.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 28.
 
 Se consideran familiares derechohabientes de los trabajadores y de los pensionados, con derecho a disfrutar en el orden prelatorio las pensiones que otorga la Institución los siguientes:
 
-I. La esposa supérstite sola o con hijos del trabajador o pensionado fallecido, siempre y cuando éstos sean menores de 18 años, o mayores de esa edad, si se hallan incapacitados física o psicológicamente para desempeñar alguna labor remunerada, o cuando se trate de aquellos hijos del fallecido habidos fuera del matrimonio, que se encuentren en las condiciones de los anteriores.
+I. La esposa supérstite sin hijos del trabajador o pensionado que sea mayor de 50 años;
 
-> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+II. La esposa supérstite menor de 50 años siempre que tenga hijos del trabajador o pensionado que sean menores de 18 años o mayores de esa edad sí están incapacitados física o mentalmente para laborar.
 
-II. Los hijos solteros del trabajador o pensionado, mayores de 18 años y hasta 25, que comprueben estar realizando estudios medios o superiores en planteles oficiales y reconocidos y que no desempeñen trabajos remunerados.
+III. Los hijos solteros del trabajador o pensionado que sean mayores de 18 y hasta 25 años, que comprueben estar realizando estudios medios o superiores en escuelas oficiales y reconocidas, siempre que no desempeñen algún trabajo remunerado o estén casados o en concubinato.
 
-III. La mujer, por sí misma que, a falta de cónyuge, haya vivido cinco años anteriores al deceso de éste y siempre que ambos hubieran permanecido libres de matrimonio, o la mujer en concurrencia con los hijos procreados con aquél, cuando se cumplan las condiciones señaladas en la fracción precedente. Si el trabajador o pensionado, a su muerte, hubiera tenido más de una concubina, ninguna tendrá derecho a las prestaciones que otorga la Institución.
+IV. La mujer que haya vivido en unión legitima con el trabajador o pensionado, más de dos años anteriores al deceso de éste y que tenga más de cincuenta años de edad, siempre que hayan pertenecido libres de matrimonio.
 
-IV. El esposo supérstite, mayor de 55 años de edad, que se encuentre incapacitado para laborar y que, además, hubiere dependido económicamente de la trabajadora o pensionada, pudiendo hacerlo por sí solo o en concurrencia con los hijos, o éstos por sí mismos acreditando lo previsto por la fracción I de este artículo.
+V. La mujer menor de cincuenta años que haya procreado hijos con el trabajador o pensionado fallecido, siempre que cumpla las condiciones señaladas en la fracción II de este artículo.
 
-V. El concubinario solo o concurriendo con los hijos, o éstos solos, cuando reúnan los requisitos a que alude la fracción I, siempre que aquél satisfaga lo dispuesto por las fracciones I, II y III de este artículo.
+VI. Si el trabajador o pensionado, al momento de su fallecimiento hubiera tenido más de una concubina o esposa, ninguna tendrá derecho a recibir las prestaciones que otorga la institución.
 
-VI. La madre y el padre, conjunta o separadamente y, a falta de éstos, los demás ascendientes si dependieron económicamente del trabajador o pensionado durante los cinco años anteriores a la muerte de éste.
+VII. El esposo supérstite, mayor de 50 años de edad, que se encuentre incapacitado físicamente o mentalmente para laborar y que, además hubiere dependido económicamente de la trabajadora o pensionada para (sic) pudiendo hacerlo por sí solo o en concurrencia con los hijos menores de 18 años o mayores de esta edad que sean discapacitados físicamente o mentalmente para laborar; o los hijos de la trabajadora o pensionada, por si mismos, acreditando lo establecido en la fracción III de este artículo.
 
-VII. Los hijos adoptivos, menores de 18 años o mayores de esa edad hasta los 25, si estudian, o que estén incapacitados, tendrán derecho a disfrutar de la pensión por orfandad, cuando la adopción se haya llevado a cabo por el trabajador o pensionado antes de que hubiese cumplido 55 años de edad.
+VIII. El concubinario mayor de 50 años, que haya vivido en unión legitima con la trabajadora o pensionada, más de dos años anteriores al deceso de ésta, y que tenga más de cincuenta años de edad, siempre que ambos hayan permanecido libres de matrimonio.
+
+IX. El concubinario menor de 50 años, que haya procreado hijos con la trabajadora o pensionada fallecida, siempre que cumpla las condiciones señaladas a la fracción II de este artículo.
+
+X. La madre y padre que comparezcan conjunta o separadamente.
+
+XI. Los hijos adoptivos mayores de 18 años o mayores de esa edad y hasta los 25, si estudian un grado acorde a su edad, educación media o superior que no desempeñe algún trabajo remunerado o estén casados o en concubinato o que estén incapacitados físicamente o mentalmente, tendrán derecho a disfrutar de la pensión por orfandad, cuando la adopción se haya llevado a cabo por el trabajador o pensionado antes de que hubiese cumplido 55 años de edad.
+
+XII. Cuando se trate de discapacidad física o mental para laborar, en las condiciones referidas en esté artículo, deberá exhibir certificado médico expedido por el Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado que acrediten dicha discapacidad.
+
+XIII. Las parejas del mismo sexo que se encuentren en estas circunstancias deberán cumplir con todas las condiciones en este artículo para salvaguardar sus derechos como familiares derechohabientes.
 
 ###### ARTICULO 29.
 
 Percibirán por partes iguales el monto total de la pensión que les corresponda, los familiares derechohabientes, de conformidad con lo dispuesto por el artículo anterior. Para el caso de que alguno de los beneficiados perdiese el derecho a disfrutar de la pensión otorgada, su parte incrementará proporcionalmente la de los demás.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 30.
 
-Los trabajadores quedan obligados a proporcionar a la Institución por escrito, los nombres de sus familiares derechohabientes, adicionados con informes y documentos probatorios que les sean solicitados, relacionados con la aplicación del presente Reglamento.
+Los trabajadores quedan obligados a proporcionar a la Institución, por escrito, los nombres de sus familiares derechohabientes, adicionados con los informes y documentos probatorios que les sean solicitados, relacionados con la aplicación del presente Reglamento.
+
+En el entendido de que los familiares derechohabientes del pensionado o jubilado fallecido que tendrán derecho a la pensión serán únicamente los que haya inscrito el propio trabajador siempre que cumplan con los requisitos establecidos en el artículo 28 del presente ordenamiento.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 31.
 
-La edad y el parentesco de los trabajadores y sus familiares derechohabientes y la dependencia económica, se acreditarán en los términos de la legislación civil o mediante información testimonial administrativas promovidas ante la Institución.
+La edad y el parentesco de los trabajadores y sus familiares derechohabientes y la dependencia económica, se acreditarán en los términos de la legislación civil o ante la autoridad correspondiente.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 32.
 
-Cuando la Institución lo estime conveniente, podrá ordenar la verificación y autenticidad de la documentación y la justificación de los hechos que hayan servido de base para conceder cualesquiera de las prestaciones señaladas. Si se descubriere que existe alguna falsedad, con audiencia del interesado, procederá a la respectiva revisión, suspendiéndose inmediata y temporalmente, el pago de las prestaciones otorgadas.
+Cuando la Institución lo estime conveniente, desde que se haya presentado la solicitud y hasta en el momento que se realice el pago de primera vez y aun en cualquier momento posterior la institución podrá ordenar la verificación y autenticidad de la documentación y la justificación de los hechos que hayan servido de base para conceder cualesquiera de las prestaciones señaladas. Si se descubriere que existe alguna falsedad, durante el trámite o posterior al mismo, con o sin audiencia del interesado se procederá a la respectiva revisión suspendiéndose inmediatamente el pago de las prestaciones otorgadas, hasta el momento en que tal situación sea aclarada.
 
 ###### ARTICULO 33.
 
@@ -364,11 +372,17 @@ I. A los familiares derechohabientes de les concederá pensión en los términos
 
 II. Cuando aparecieren los trabajadores, podrán elegir entre dos opciones: la primera, recibir su pensión equivalente, y cobrar, si las hubiere, las diferencias entre el importe de la misma y lo que se hay entregado a sus familiares y, la segunda, regresar al servicio, en cuyo caso deberá reintegrar a la Institución el monto total de las prestaciones entregadas a sus beneficiarios durante el lapso de su ausencia, con un interés igual al que devengue un préstamo a corto plazo por una cantidad similar, en el término prudente que se le fije.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 37.
 
-Cuando fallezca un pensionado, la Institución entregará a sus familiares derechohabientes que se hubieren hecho cargo de la inhumación, el importe de 120 días de pensión por concepto de ayuda para cubrir los gastos del sepelio, mediante la presentación del acta de defunción y su correspondiente identificación.
+Cuando fallezca un pensionado, la Institución otorgará una ayuda para gastos funerarios a los familiares derechohabientes del fallecido conforme lo dispuesto en el artículo 30 de este reglamento por la cantidad de hasta 120 días de salario mínimo general vigente en la Ciudad de México para cubrir los gastos del sepelio, mediante la presentación de la siguiente documentación:
 
-Si el que promueve el cobro no fuera familiar derechohabiente del finado, estará obligado a presentar, además la factura de los gastos funerarios.
+I. acta de defunción
+
+II. identificación oficial vigente
+
+III. documento que acredite el entronque familiar con el difunto.
 
 ###### ARTICULO 38.
 
@@ -430,11 +444,11 @@ El Gobierno deberá notificar a la Institución el accidente de trabajo, dentro 
 
 El trabajador que sufra un riesgo de trabajo, tendrá derecho a las prestaciones en especie que le otorgará el Gobierno o la Institución a la cual éste haya subrogado aquéllas y que consistirán en diagnóstico, asistencia médica, quirúrgica y farmacéutica, servicio de hospitalización, aparatos de prótesis y ortopedia, y rehabilitación.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 50.
 
 Tratándose de riesgos de trabajo, el trabajador tendrá derecho a percibir las siguientes prestaciones en numerario:
-
-> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
 
 I. Licencia con goce de sueldo íntegro, si el riesgo lo incapacita para el desempeño de sus labores, y el pago será por cuenta del Gobierno desde el día del inicio de la incapacidad hasta que éste concluya o sea declarada la incapacidad permanente del trabajador.
 
@@ -444,7 +458,7 @@ II. Al ser declarada una incapacidad permanente parcial, se concederá al incapa
 
 El tanto por ciento de la incapacidad, se fijará entre el máximo y el mínimo establecido por la tabla de valuación mencionada, teniendo en cuenta la edad del trabajador y la importancia de la incapacidad, según que sea absoluto para el ejercicio de su profesión u oficio, aun cuando quede habilitado para dedicarse a otros, o si solamente hubiere disminuido la aptitud para el desempeño de aquélla.
 
-Si el monto de la pensión anual resulta inferior al 5% del salario mínimo del Distrito Federal, elevado al año, se pagará al trabajador, en substitución o compensación de la misma, una indemnización equivalente a cinco anualidades de la pensión que le hubiere correspondido.
+Si el monto de la pensión anual resulta inferior al 5% del salario mínimo del (sic) Ciudad de México, elevado al año, se pagará al trabajador, en substitución o compensación de la misma, una indemnización equivalente a cinco anualidades de la pensión que le hubiere correspondido.
 
 III. Al ser declarada una incapacidad permanente total, se concederá al incapacitado una pensión igual al sueldo básico que venía disfrutando el trabajador al ocurrir el riesgo, cualquiera que sea su antigüedad en el servicio.
 
@@ -538,7 +552,7 @@ El sueldo regulador estará constituido por el promedio del sueldo devengado por
 
 ###### ARTICULO 59.
 
-El trabajador que se separa del servicio y haya cotizando a la Institución cuando menos durante 15 años, sin tener la edad y tiempo de servicios, tendrá derecho a ésta al cumplir los 55 años. Por consecuencia, no procederá la indemnización global.
+El trabajador que se separa del servicio y haya cotizado a la Institución cuando menos durante 15 años, sin tener la edad y tiempo de servicios, tendrá derecho a ésta al cumplir los 55 años. Por consecuencia, no procederá la indemnización global.
 
 Si falleciere el trabajador antes de alcanzar la edad aludida, se concederá de inmediato la pensión respectiva a sus familiares derechohabientes.
 
@@ -1064,15 +1078,19 @@ La muerte del acreditado se comprobará mediante copia certificada del acta de s
 
 La incapacidad permanente total sobrevenida, se acreditará mediante la declaración expedida por la autoridad competente.
 
-### CAPITULO XIX. Del Fondo de la Vivienda
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE JUNIO DE 2020)</small>
+
+### CAPITULO XIX. Del Fondo de la Vivienda y el Otorgamiento de créditos a la vivienda con garantía hipotecaria
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 141.
 
-Para cumplir con lo preceptuado con las fracciones XI, inciso f) del apartado B del artículo 123 Constitucional, VI inciso h) del artículo 43 de la Ley Federal de los Trabajadores al Servicio del Estado y X del artículo I de este Reglamento, se constituye el fondo de la vivienda con las siguientes finalidades:
+Para cumplir con lo preceptuado con las fracciones XI, inciso f) del apartado B del artículo 123 Constitucional, VI inciso h) del artículo 43 de la Ley Federal de los Trabajadores al Servicio del Estado y X del artículo I (sic) de este Reglamento, se constituye el fondo de la vivienda con las siguientes finalidades:
 
 I. Planear, organizar y administrar un sistema de financiamiento destinado a los trabajadores que les dé acceso a créditos con garantía hipotecaria.
 
-II. Elaborar y financiar programas para la construcción de unidades habitacionales para trabajadores, otorgándoles vivienda en propiedad a aquellos que carezcan de ella.
+II. Elaborar y financiar programas para el otorgamiento de vivienda en unidades habitacionales para trabajadores, o poder adquirir un bien inmueble a terceros que les permita obtener una vivienda en propiedad a aquellos que carezcan de ella.
 
 III. Y las otras que este Reglamento señalen.
 
@@ -1088,13 +1106,15 @@ II. Los rendimientos provenientes de las inversiones que se hagan de los recurso
 
 III. Los bienes y derechos que la Institución adquiera por cualquier título y se le destinen específicamente al fondo.
 
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 143.
 
 Los recursos financieros del fondo, se aplicarán:
 
-I. A conceder créditos con garantía hipotecaria en primer lugar, por una sola vez, a los trabajadores que tengan depósitos constituidos por más de 18 meses en la Institución, que deberán aplicarse exclusivamente para lo siguiente:
+I. A conceder créditos con garantía hipotecaria en primer lugar, y por una sola vez, a los trabajadores que tengan depósitos constituidos por más de 18 meses en la Institución, que deberán aplicarse exclusivamente para lo siguiente:
 
-a) Adquisición de terrenos destinados a la construcción de viviendas o unidades habitaciones para los trabajadores.
+a) (DEROGADO, G.O. 17 DE JUNIO DE 2020)
 
 b) Adquisición de casas o departamentos comprendiendo las sujetas al régimen de condominio, siempre que el trabajador no tenga propiedades inmobiliarias.
 
@@ -1102,29 +1122,17 @@ c) Construcción, reparación, ampliación o mejoramiento de sus habitaciones.
 
 d) Pagar los pasivos contraídos por los trabajadores respecto de los conceptos antes enumerados.
 
-II. Para el financiamiento de la construcción de unidades habitacionales para los trabajadores, que adquirirán mediante créditos que otorgue la Institución.
+II. (DEROGADA, G.O. 17 DE JUNIO DE 2020)
 
-> <small>(REFORMADA, G.O. 15 DE JULIO DE 2008)</small>
-
-III. Para el cofinanciamiento de créditos hipotecarios celebrados conjuntamente con otras instituciones de crédito para la adquisición de vivienda de interés social.
-
-> <small>(REFORMADA, G.O. 15 DE JULIO DE 2008)</small>
+III. (DEROGADA, G.O. 17 DE JUNIO DE 2020)
 
 IV. A pagar a los trabajadores los depósitos constituidos que de acuerdo con las disposiciones del presente le correspondan.
 
-> <small>(REFORMADA, G.O. 15 DE JULIO DE 2008)</small>
-
 V. Al pago de los gastos que origine la administración, operación y vigilancia del fondo.
-
-> <small>(REFORMADA, G.O. 15 DE JULIO DE 2008)</small>
 
 VI. A la adquisición de los inmuebles necesarios para la consecución de los fines del fondo.
 
-> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2008)</small>
-
 VII. A cubrir las contingencias financieras derivadas de las actividades institucionales o de operatividad del Organismo, previa autorización del Consejo Directivo.
-
-> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2008)</small>
 
 VIII. A cubrir todos los demás gastos inherentes a su finalidad.
 
@@ -1132,45 +1140,43 @@ VIII. A cubrir todos los demás gastos inherentes a su finalidad.
 
 La asignación de créditos y el financiamiento con cargo al fondo que prevé el artículo 142, se hará de acuerdo a lo que disponga el Consejo Directivo de la Institución, los créditos serán hasta por el 100% del monto del avalúo del inmueble que se practique, siempre que no rebase la cantidad máxima fijada.
 
-> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 145.
 
-Los trabajadores a lista de raya que estén al servicio del Gobierno del Distrito Federal, y los empleados de la Institución, tendrán derecho a las prestaciones que establece el artículo anterior, los pensionados también lo tendrán, pero de conformidad a los acuerdos generales que al respecto emita el Consejo Directivo con apoyo en las disposiciones del presente.
+Los trabajadores a lista de raya que estén al servicio del Gobierno de la Ciudad de México, y los empleados de la Institución, tendrán derecho a las prestaciones que establece el artículo anterior; siempre y cuando cuenten con capacidad de pago.
 
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 146.
 
 Las aportaciones al fondo de la vivienda se aplicarán totalmente para constituir en favor de los trabajadores depósitos que no devengarán intereses y que se sujetarán a lo siguiente:
 
-> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+I. En los casos de pensión o jubilación, incapacidad permanente total o de muerte, el trabajador o sus beneficiarios tendrán derecho a la entrega de un tanto más equivalente a un monto igual al aportado por el saldo de los depósitos que se hubieran constituido a su favor, de conformidad con lo dispuesto por este Ordenamiento.
 
-I. En los casos de pensión o jubilación, incapacidad permanente total o de muerte, el trabajador o sus beneficiarios tendrán derecho a la entrega de un tanto más del saldo de los depósitos que se hubieran constituido a su favor, de conformidad con lo dispuesto por este Ordenamiento.
+II. Cuando el trabajador tenga 50 o más años de edad y deje de prestar sus servicios al Gobierno de la Ciudad de México, o a la Institución, sólo se le entregarán los depósitos constituidos a su favor en los términos establecidos por este Reglamento
 
-> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
-
-II. Cuando el trabajador tenga 50 o más años de edad y deje de prestar sus servicios al Gobierno del Distrito Federal, o a la Institución, sólo se le entregarán los depósitos constituidos a su favor en los términos establecidos por este Reglamento.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 147.
 
-Los créditos concedidos con cargo al fondo, se darán por vencidos anticipadamente, cuando el trabajador deudor sin consentimiento de la Institución venda la vivienda, grave el inmueble que garantiza su pago o incurra en alguna de las causas señaladas por los contratos correspondientes.
+Los créditos con garantía hipotecaria concedidos con cargo al fondo, se darán por vencidos anticipadamente, cuando el trabajador deudor sin consentimiento de la Institución venda la vivienda, grave el inmueble que garantiza su pago o incurra en alguna de las causas señaladas por los contratos correspondientes.
 
-> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 148.
 
-Los créditos que se concedan estarán amparados por un seguro que operará en los casos de incapacidad permanente total o de muerte, el cual liberará al trabajador, jubilado o pensionado o a sus respectivos beneficiarios de las obligaciones que se deriven de aquéllos.
+Los créditos que se concedan estarán amparados por un seguro que operará en los casos de incapacidad permanente o de fallecimiento, el cual liberará al trabajador, jubilado o pensionado o a sus respectivos beneficiarios de las obligaciones que se deriven de aquéllos de conformidad con lo establecido en el artículo 28 de este ordenamiento, o por instrucción de juez competente.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 149.
 
-Los trabajadores, jubilados o pensionados podrán, cuando así lo soliciten, manifestar expresamente y por escrito ante la Institución, en el acto del otorgamiento del crédito o después, su voluntad para que, en caso de muerte, la adjudicación del inmueble se haga a quien haya designado como beneficiario. Para efectos de cambio de beneficiario, el trabajador, jubilado o pensionado deberá requerirlo por escrito, efectuándose el registro del o de los nuevos beneficiarios en un plazo no mayor de 45 días. Para el caso de controversia, la Institución procederá exclusivamente a la liberación que otorga el seguro absteniéndose de adjudicar el inmueble.
+Los trabajadores, jubilados o pensionados podrán, cuando así lo soliciten, manifestar expresamente y por escrito ante la Institución, en el acto del otorgamiento del crédito o después, su voluntad para que, en caso de muerte, la adjudicación del inmueble se haga a quien haya designado como beneficiario o de conformidad a la sentencia dictada por juez competente. Para efectos de cambio de beneficiario, el trabajador, jubilado o pensionado deberá requerirlo por escrito, efectuándose el registro del o de los nuevos beneficiarios en un plazo no mayor de 45 días. Para el caso de controversia, la Institución procederá exclusivamente a la liberación que otorga el seguro absteniéndose de adjudicar el inmueble.
 
-A falta de beneficiarios, la adjudicación del inmueble deberá hacerse conforme al orden de prelación que establece el siguiente artículo.
+A falta de beneficiarios, la adjudicación del inmueble deberá hacerse conforme al orden de prelación que establece el artículo 28 de este Ordenamiento o de conformidad a instrucción de juez competente a través de sentencia.
 
 La Institución solicitará al Registro Público de la Propiedad correspondiente, efectuar la inscripción de los inmuebles a favor de los beneficiarios, cancelando, en consecuencia, la que existiere a nombre del trabajador, jubilado o pensionado con los gravámenes o limitaciones de dominio que hubieren.
-
-> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
 
 La designación de beneficiario no surtirá ningún efecto cuando la vivienda financiada o el crédito hipotecario esté ya escriturado, debiendo éste o los herederos sujetarse al procedimiento sucesorio respectivo.
 
@@ -1194,29 +1200,29 @@ VI. Los ascendientes que tampoco hayan dependido económicamente de éste.
 
 La Institución para garantizar el pago de los depósitos a que hace referencia este artículo, está obligada a constituir una reserva actuarial.
 
-> <small>(REFORMADO, G.O. 22 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 151.
 
-Para el caso a que alude la fracción II del artículo 146 de este Reglamento se entenderá que un trabajador ha dejado de prestar servicios cuando transcurra un período mínimo de doce meses sin laborar en el Gobierno del Distrito Federal o en la Institución por suspensión temporal de los efectos de su nombramiento o cese, a menos que exista juicio pendiente sobre la subsistencia de su designación o nombramiento.
+Para el caso a que alude la fracción II del artículo 146 de este Reglamento se entenderá que un trabajador ha dejado de prestar servicios cuando transcurra un período mínimo de doce meses sin laborar en el Gobierno de la Ciudad de México o en la Institución por suspensión temporal de los efectos de su nombramiento o cese, a menos que exista juicio pendiente sobre la subsistencia de su designación o nombramiento.
 
-Cuando un trabajador se halle en el caso que prevé el párrafo anterior y hubiere recibido un préstamo a cargo del fondo, se le otorgará una prórroga sin causa de intereses en los pagos de amortización que tenga que hacer por concepto de capital e intereses, esta prórroga tendrá un plazo máximo de doce meses y terminará anticipadamente cuando el trabajador regrese a prestar servicios en el Gobierno del Distrito Federal o en la Institución; en la inteligencia de que estas Dependencias seguirán haciendo los depósitos del 5% que este Ordenamiento establece destinados al fondo de la vivienda sobre los sueldos o salarios de los trabajadores que disfruten de licencia por enfermedad y de aquellos que tengan suspensión temporal de los efectos de su nombramiento. La existencia de los supuestos a los que alude este artículo y el anterior, deberán comprobarse ante la Institución.
+Cuando un trabajador se halle en el caso que prevé el párrafo anterior y hubiere recibido un préstamo con garantía hipotecaria a cargo del fondo, se le otorgará una prórroga sin causa de intereses en los pagos de amortización que tenga que hacer por concepto de capital e intereses, esta prórroga tendrá un plazo máximo de doce meses y terminará anticipadamente cuando el trabajador regrese a prestar servicios en el Gobierno de la Ciudad de México o en la Institución; en la inteligencia de que estas Dependencias seguirán haciendo los depósitos del 5% que este Ordenamiento establece destinados al fondo de la vivienda sobre los sueldos o salarios de los trabajadores que disfruten de licencia por enfermedad y de aquellos que tengan suspensión temporal de los efectos de su nombramiento. La existencia de los supuestos a los que alude este artículo y el anterior, deberán comprobarse ante la Institución mediante dictámenes por profesional competente y/o por instrucción de autoridad judicial correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 152.
 
-El trabajador que deje de laborar en el Gobierno del Distrito Federal o en la Institución conforme a lo previsto en el artículo precedente y por quien dichas dependencias hayan hecho aportaciones, tiene derecho a optar por la devolución de sus depósitos o por la continuación de sus derechos y obligaciones con el fondo. En este último caso la base para las aportaciones a su cargo, será el sueldo o salario promedio que hubiere percibido en los últimos seis meses.
+El trabajador que deje de laborar en el Gobierno de la Ciudad de México o en la Institución conforme a lo previsto en el artículo precedente y por quien dichas dependencias hayan hecho aportaciones, tiene derecho a optar por la devolución de sus depósitos o por la continuación de sus derechos y obligaciones con el fondo. En este último caso la base para las aportaciones a su cargo, será el sueldo o salario promedio que hubiere percibido en los últimos seis meses.
 
 El derecho a continuar dentro del régimen del fondo, se pierde si no se ejercita mediante solicitud escrita presentada de acuerdo con lo que estipula el presente Reglamento, dentro de un plazo de seis meses contados a partir de la fecha en que, conforme a lo establecido por el artículo anterior, se considera que ha dejado de existir la prestación del servicio respectivo.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 153.
 
 La continuación voluntaria de los trabajadores dentro del régimen del fondo al que se refiere el artículo anterior, concluye:
 
-> <small>(REFORMADA, G.O. 22 DE MAYO DE 2012)</small>
-
-I. Por la reanudación de servicios en el Gobierno del Distrito Federal o en la Institución.
+I. Por la reanudación de servicios en el Gobierno de la Ciudad de México o en la Institución.
 
 II. Por declaración de la Institución, aceptada por el trabajador, y
 
@@ -1443,3 +1449,11 @@ G.O. 18 DE MAYO DE 2018.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para todos los efectos a que haya lugar.
 
 SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación.
+
+G.O. 17 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO, AUTORIZA LA REFORMA AL CAPÍTULO I "DISPOSICIONES GENERALES" Y CAPÍTULO XIX "DEL FONDO DE VIVIENDA", ARTÍCULOS 2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 26, 27, 28, 30, 31, 32, 37, 50, 141, 143, 145, 146, 147, 148, 149, 151, 152 Y 153 DE SU REGLAMENTO DE PRESTACIONES".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
