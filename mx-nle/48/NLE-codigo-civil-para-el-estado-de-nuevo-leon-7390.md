@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2019-10-18"
+last_updated: "2020-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2477,11 +2477,15 @@ Los hermanos y demás parientes colaterales a que se refiere el artículo anteri
 
 Tratándose de alimentos en la adopción, se aplicará lo dispuesto por los Artículos 303, 304, 305, 306.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2020)</small>
 
 ###### Art. 308.
 
-Los alimentos comprenden la manutención en general que incluye entre otros, la comida, el vestido, la habitación, la salud, así como la higiene personal y del hogar. Respecto de los menores de edad, los alimentos comprenderán además, los gastos necesarios para la educación preescolar, primaria y secundaria del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su edad y circunstancias personales, así como para su sano esparcimiento para su desarrollo integral, lo cual también deberá considerarse respecto a los mayores de edad cuando el caso así lo amerite. Respecto a las personas con algún tipo de discapacidad o declarados en estado de interdicción, los alimentos comprenderán todo aquello que sea necesario para lograr su habilitación o rehabilitación y su completo desarrollo e integración.
+Los alimentos comprenden la manutención en general que incluye entre otros, la comida, el vestido, la habitación y la salud. Respecto de los menores de edad, los alimentos comprenderán además, los gastos necesarios para la educación preescolar, primaria, secundaria y media superior del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su edad y circunstancias personales, lo cual también deberá considerarse respecto de los mayores de edad, cuando el caso así lo amerite.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2020)</small>
+
+Cuando el acreedor alimentista tenga alguna discapacidad temporal o permanente, los alimentos incluirán también, los gastos en higiene, asistencia personal, rehabilitación y los de traslado cuando la persona requiera acudir a recibir atención derivada de la misma; y en general, todo aquél gasto originado con motivo de la discapacidad.
 
 ###### Art. 309.
 
@@ -17702,5 +17706,11 @@ P.O. 31 DE DICIEMBRE DE 2018.
 P.O. 18 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 170. SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 315 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN XXXIII, Y SE ADICIONA LA FRACCIÓN XXXV RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 145 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 294. SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 308 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 308 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
