@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2020-03-31"
+last_updated: "2020-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 31 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 17 DE JUNIO DE 2020.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -1775,9 +1775,11 @@ De las publicaciones realizadas en la Gaceta Municipal y en sus suplementos, deb
 
 ### Capítulo I. Disposiciones Comunes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 17 DE JUNIO DE 2020)</small>
+
 ###### Artículo 129.
 
-Tanto Presidencia Municipal, como Sindicatura, Secretaría General, Contraloría Ciudadana, Comisaría y cada Coordinación General, cuentan con una Dirección de Evaluación y Seguimiento, así como con una de Enlace Administrativo, con las atribuciones siguientes:
+Tanto Presidencia Municipal, como Sindicatura, Secretaría General, Contraloría Ciudadana y cada Coordinación General, cuentan con una Dirección de Evaluación y Seguimiento, una Dirección de Enlace Administrativo y con el área de notificadores, con las atribuciones siguientes:
 
 I. Dirección de Evaluación y Seguimiento:
 
@@ -1817,6 +1819,10 @@ e) Enviar a la Sindicatura las notificaciones que le sean realizadas por las aut
 
 f) Coadyuvar en la implementación y operación del Presupuesto basado en Resultados, de conformidad con lo dispuesto en la normatividad aplicable.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 17 DE JUNIO DE 2020)</small>
+
+Presidencia Municipal, Coordinación General de Servicios Públicos Municipales y la Coordinación General de Gestión Integral de la Ciudad cuentan con el área de inspectores.
+
 ###### Artículo 130.
 
 Las y los titulares de la administración pública, respecto de la dependencia a su cargo cuentan con las atribuciones comunes siguientes:
@@ -1839,9 +1845,17 @@ VIII. Coordinar y supervisar las actividades de las áreas a su cargo;
 
 IX. Organizar, conservar, custodiar, depurar y remitir al Archivo Municipal la documentación oficial bajo su resguardo, en los términos previstos en la normatividad aplicable;
 
-X. Solicitar informes a la administración pública para la atención de los asuntos de su competencia; y
+> <small>(REFORMADA, G.M. 17 DE JUNIO DE 2020)</small>
 
-XI. Las demás previstas en la normatividad aplicable.
+X. Solicitar informes a la administración pública para la atención de los asuntos de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 17 DE JUNIO DE 2020)</small>
+
+XI. Delegar sus atribuciones en las y los servidores públicos de las dependencias y áreas a su cargo; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 17 DE JUNIO DE 2020)</small>
+
+XII. Las demás previstas en la normatividad aplicable.
 
 ### Capítulo II. Órganos que Integran la Presidencia Municipal
 
@@ -2371,9 +2385,13 @@ XIII. Presentar denuncias y querellas ante el Ministerio Público en representac
 
 XIV. Analizar los formatos administrativos empleados por las dependencias municipales para la ejecución de las actividades que tiene encomendadas y, en su caso, proponer las enmiendas que considere necesarias;
 
-XV. Instruir a la Dirección de lo Jurídico de Derechos Humanos a su cargo, para que elabore y rinda los informes solicitados por las Comisiones Nacional y Estatal de los Derechos Humanos;
+> <small>(REFORMADA, G.M. 17 DE JUNIO DE 2020)</small>
 
-XVI. Verificar con la Dirección de lo Jurídico de Derechos Humanos a su cargo los términos de los informes que con motivo de quejas o requerimientos en materia de derechos humanos sean solicitados a las dependencias y a los servidores públicos municipales y en su caso, rendirlos en coordinación con esta;
+XV. Instruir a la Dirección de Derechos Humanos a su cargo, para que elabore y rinda los informes solicitados por las Comisiones Nacional y Estatal de los Derechos Humanos;
+
+> <small>(REFORMADA, G.M. 17 DE JUNIO DE 2020)</small>
+
+XVI. Verificar con la Dirección de Derechos Humanos a su cargo los términos de los informes que con motivo de quejas o requerimientos en materia de derechos humanos sean solicitados a las dependencias y a los servidores públicos municipales y en su caso, rendirlos en coordinación con esta;
 
 XVII. Verificar que las dependencias municipales den cumplimiento a las conciliaciones y recomendaciones formuladas por las Comisiones Estatal y Nacional de Derechos Humanos previamente aceptadas por el Ayuntamiento;
 
@@ -3464,6 +3482,10 @@ XLVIII. Realizar las aclaraciones pertinentes en caso de que se haya asentado al
 Para la atención de los asuntos de su competencia, cuenta con las áreas de Administración, Evaluación y Seguimiento; Catastro, Contabilidad, Egresos, Finanzas, Ingresos, Nómina, y Política Fiscal y Mejora Hacendaria.
 
 El área de Administración, Evaluación y Seguimiento cuenta con las atribuciones contenidas en el artículo 129.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 17 DE JUNIO DE 2020)</small>
+
+Para el desarrollo de sus funciones la Dirección de Administración, Evaluación y Seguimiento contará con las áreas de Transparencia, Evaluación y Organización y Métodos y Seguimiento.
 
 #### Sección Séptima. Dirección de Política Fiscal y Mejora Hacendaria
 
@@ -6214,3 +6236,13 @@ Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
 Segundo. La presente reforma entrará en vigor el día de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicada la presente reforma, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 17 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquese las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
