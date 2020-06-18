@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2020-03-10"
+last_updated: "2020-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -457,7 +457,7 @@ I. Ser mexicano y preferentemente ciudadano potosino en los términos de la Cons
 
 II. No haber sido condenado por la comisión de algún delito doloso;
 
-III. Tener al menos treinta años cumplidos al día de su elección;
+III. (DEROGADA, P.O. 18 DE JUNIO DE 2020)
 
 IV. Ser profesionista con título legalmente expedido, con al menos tres años de experiencia y conocimiento en materia de acceso a la información, protección de datos, transparencia, rendición de cuentas y/o protección a los derechos humanos;
 
@@ -539,7 +539,9 @@ XXI. Imponer, en los casos que proceda, a los servidores públicos responsables 
 
 XXII. Solicitar al Consejo Estatal Electoral y de Participación Ciudadana se descuenten de las prerrogativas de los partidos políticos, así como de candidatas y candidatos independientes, las multas a que se hayan hecho acreedores;
 
-XXIII. Requerir a la Auditoría Superior del Estado haga efectivas las multas a que se hayan hecho acreedores los servidores públicos responsables;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2020)</small>
+
+XXIII. Requerir, a la Auditoría Superior del Estado haga efectivas las multas a que se hayan hecho acreedores los servidores públicos responsables; y al Procurador Fiscal del Estado en los términos de los artículos 205 y 211 de esta Ley;
 
 XXIV. Realizar reuniones o foros anuales, de carácter público, para discutir y analizar la aplicación y alcances de la presente Ley;
 
@@ -693,7 +695,7 @@ Para ser titular del órgano interno de control se deberán cubrir los siguiente
 
 I. Ser ciudadano mexicano y preferentemente potosino en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener por lo menos treinta años cumplidos el día de la designación;
+II. (DEROGADA, P.O. 18 DE JUNIO DE 2020)
 
 III. Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
@@ -785,7 +787,7 @@ Para integrar el consejo se requiere:
 
 I. Ser ciudadano mexicano y preferentemente ciudadano potosino, en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener cuando menos treinta años cumplidos el día de la designación;
+II. (DEROGADA, P.O. 18 DE JUNIO DE 2020)
 
 III. Contar con al menos dos años de experiencia y reconocido prestigio en materia de acceso a la información, protección de datos, transparencia, rendición de cuentas y/o protección a los derechos humanos;
 
@@ -1683,7 +1685,9 @@ l) El seguimiento, evaluación y monitoreo, en materia de igualdad entre mujeres
 
 m) Los programas y las acciones de coordinación con las dependencias competentes para impulsar el cumplimiento de tratados de los que el Estado mexicano sea parte, en materia de Derechos Humanos.
 
-n) Los lineamientos generales de la actuación de la Comisión Estatal de Derechos Humanos y recomendaciones emitidas por el Consejo Consultivo, y
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2020)</small>
+
+n) Los lineamientos generales de la actuación de la Comisión Estatal de Derechos Humanos y recomendaciones emitidas por el Consejo Consultivo;
 
 III. La CEGAIP:
 
@@ -1699,7 +1703,27 @@ e) Los estudios que apoyan la resolución de los recursos de revisión.
 
 f) En su caso, las sentencias, ejecutorias o suspensiones judiciales que existan en contra de sus resoluciones.
 
-g) El número de, denuncias por incumplimiento, recursos de revisión dirigidos a cada uno de los sujetos obligados.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2020)</small>
+
+g) El número de, denuncias por incumplimiento, recursos de revisión dirigidos a cada uno de los sujetos obligados, y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 18 DE JUNIO DE 2020)</small>
+
+IV. La Fiscalía General del Estado:
+
+a) Las estadísticas e indicadores generales de procuración de justicia en el Estado.
+
+b) Las estadísticas e indicadores generales de las fiscalías especializadas.
+
+c) Las estadísticas sobre denuncias y/o querellas presentadas y averiguaciones previas consignadas y desestimadas, así como sobre carpetas de investigación abiertas y judicializadas.
+
+d) Las estadísticas sobre personas desaparecidas.
+
+e) Las estadísticas de delitos de lesiones contra mujeres y feminicidios.
+
+f) Las estadísticas de las carpetas de investigación o averiguaciones previas en las que se ejerció acción penal, así como el resultado de los juicios.
+
+g) Estadísticas sobre delitos denunciados por región y municipio.
 
 ###### ARTÍCULO 89.
 
@@ -2741,9 +2765,11 @@ Las medidas de apremio deberán aplicarse e implementarse en un plazo máximo de
 
 La CEGAIP podrá requerir al infractor la información necesaria para determinar su condición económica, apercibido de que en caso de no proporcionar la misma, las multas se cuantificarán con base a los elementos que se tengan a disposición, entendidos como los que se encuentren en los registros públicos, los que contengan medios de información o sus propias páginas de internet y, en general, cualquiera que evidencie su condición, quedando facultada la CEGAIP para requerir aquella documentación que se considere indispensable para tal efecto a las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 193.
 
-Será supletorio a los mecanismos de notificación y ejecución de medidas de apremio, lo dispuesto en la Ley De Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+Será supletorio a los mecanismos de notificación y ejecución de medidas de apremio, lo dispuesto en el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTÍCULO 194.
 
@@ -2800,6 +2826,10 @@ XV. No acatar las resoluciones emitidas por los Organismos garantes, en ejercici
 Las sanciones de carácter económico no podrán ser cubiertas con recursos públicos.
 
 Las multas que fije la CEGAIP tendrán el carácter de créditos fiscales, y las remitirá a la Auditoría Superior del Estado, para que las haga efectivas conforme a las disposiciones legales aplicables; debiendo publicar mensualmente las sanciones impuestas a los servidores públicos responsables.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2020)</small>
+
+Tratándose de servidores públicos, la CEGAIP impondrá las multas en los términos del artículo 212 de esta Ley.
 
 ###### ARTÍCULO 198.
 
@@ -2889,9 +2919,11 @@ III. La determinación sobre la existencia o no de elementos constitutivos de re
 
 IV. En su caso, la sanción impuesta y el mecanismo para su ejecución.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 210.
 
-Será supletorio a este procedimiento sancionador lo dispuesto en la Ley De Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+Será supletorio a este procedimiento sancionador lo dispuesto en el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTÍCULO 211.
 
@@ -3092,5 +3124,29 @@ P.O. 10 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0620.- SE REFORMA EL ARTÍCULO 85 EN SU FRACCIÓN I EN EL INCISO K EL NUMERAL 3, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0683.- SE DEROGA DEL ARTÍCULO 20 LA FRACCIÓN III, DE LA LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ; Y SE DEROGA DE LOS ARTÍCULOS 30 LA FRACCIÓN III, 39 LA FRACCIÓN II Y 44 LA FRACCIÓN II, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0689.- SE REFORMA EL ARTÍCULO 88 EN SUS FRACCIONES II EL INCISO N) Y III EL INCISO G); Y ADICIONA AL MISMO ARTÍCULO 88 LA FRACCIÓN IV, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0690.- SE REFORMA LOS ARTÍCULOS 34 EN SU FRACCIÓN XXIII, 193 Y 210; Y ADICIONA AL ARTÍCULO 197 EL PÁRRAFO DÉCIMO NOVENO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
