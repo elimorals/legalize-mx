@@ -4,7 +4,7 @@ identifier: "VER-estatuto-organico-de-la-universidad-popular-autonoma-de-115369"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-06-02"
-last_updated: "2016-06-02"
+last_updated: "2020-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD POPULAR AUTÓNOMA DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JUNIO DE 2020.
 
 Estatuto publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 2 de junio de 2016.
 
@@ -81,9 +81,43 @@ La Universidad Popular Autónoma de Veracruz es un Organismo Público Descentral
 
 La Universidad tiene por objeto la impartición de servicios educativos de nivel medio superior y superior, así como actividades de capacitación que complementen y apoyen los programas académicos para formar bachilleres, técnicos, profesionales e investigadores capaces de solucionar problemas, atender necesidades y extender los beneficios de las ciencias, las artes y la cultura, bajo los principios de libertad de cátedra e investigación, de libre examen y discusión de las ideas, apoyada en la labor social y voluntaria que realice su personal administrativo y académico, el de carácter solidario u honorífico y sus egresados, teniendo como base el autodidactismo y el autofinanciamiento.
 
-### CAPÍTULO IV. De las Atribuciones
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE JUNIO DE 2020)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III-BIS. Del Patrimonio de la Universidad
+
+> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2020)</small>
+
+###### Artículo 4
+
+Bis. El patrimonio de la Universidad se constituye por:
+
+I. Los bienes muebles e inmuebles y demás recursos que le transfieran los gobiernos federal, estatal y municipal;
+
+II. Las aportaciones de los gobiernos federal, estatal o municipal;
+
+III. Las aportaciones, donaciones, herencias, legados y demás derechos o bienes que reciba de personas físicas o morales, públicas o privadas, nacionales o extranjeras;
+
+IV. Los derechos que perciba por la prestación de servicios, por la renta de sus bienes, las concesiones, permisos, licencias y autorizaciones que otorgue conforme a las disposiciones aplicables;
+
+V. Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores; y
+
+VI. Los demás bienes o derechos que reciba por cualquier título legal.
+
+> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2020)</small>
+
+###### Artículo 4
+
+Bis 1. La Universidad administrará su patrimonio con sujeción a las disposiciones jurídicas y demás instrumentos legales aplicables, para destinarlo al cumplimiento de sus fines.
+
+Todo convenio que la Universidad celebre con cualquier persona física o moral y que en el cumplimiento de su objeto se modifique el patrimonio de la Institución, deberá ser enterado por el Rector dentro de los informes trimestrales que formulará y someterá a la aprobación de la Junta de Gobierno.
+
+> <small>(ADICIONADO, G.O. 18 DE JUNIO DE 2020)</small>
+
+###### Artículo 4
+
+Bis 2. Los bienes inmuebles de la Universidad destinados a la prestación del servicio público educativo estarán exentos del pago de contribuciones locales y municipales.
+
+### CAPÍTULO IV. De las Atribuciones
 
 ###### Artículo 5.
 
@@ -145,7 +179,7 @@ XXVII. Las demás que le otorgue la Ley de Creación, las que expresamente le at
 
 ## TÍTULO SEGUNDO. De las Autoridades de la Universidad
 
-### CAPÍTULO II. De la Junta de Gobierno
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 6.
 
@@ -167,7 +201,7 @@ Las Direcciones de Área, Subdirecciones, Jefaturas de Departamento, Jefaturas d
 
 Las Direcciones de Área, Subdirecciones, Jefaturas de Departamento, Jefaturas de Oficina y/o equivalentes, así como las autoridades que sean creadas para el cumplimiento del objeto y fines de la Universidad, tendrán las atribuciones y responsabilidades que expresamente les confiera el presente Estatuto, la normatividad universitaria y demás disposiciones aplicables.
 
-### CAPÍTULO III. Del Rector
+### CAPÍTULO II. De la Junta de Gobierno
 
 ###### Artículo 9.
 
@@ -217,13 +251,15 @@ VIII. Aprobar el informe anual del Rector de la Universidad;
 
 IX. Autorizar el proyecto de Presupuesto de Egresos de la Universidad, para su inclusión en el Presupuesto de Egresos del Estado;
 
-X. Aprobar el programa operativo anual que someta a su consideración el Rector de la Universidad, así como el programa de adquisiciones, arrendamientos y servicios, conforme a las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2020)</small>
+
+X. Aprobar el programa operativo anual que someta a su consideración el Rector de la Universidad, el programa de adquisiciones, arrendamientos y servicios, conforme a las disposiciones aplicables, así como los informes trimestrales de gestión financiera que se presenten al Congreso del Estado, los cuales deberán precisar el estado actual del patrimonio de la Universidad, así como las modificaciones que éste haya sufrido derivado de la celebración de convenios con personas físicas o morales;
 
 XI. Reglamentar el funcionamiento y desarrollo del Consejo Técnico Académico; y
 
 XII. Las demás que le otorgue la Ley de Creación, las que expresamente le atribuyan las leyes del Estado, la normatividad universitaria y demás disposiciones aplicables.
 
-### CAPÍTULO IV. Del Consejo Técnico Académico
+### CAPÍTULO III. Del Rector
 
 ###### Artículo 11.
 
@@ -247,7 +283,9 @@ VIII. Coordinar la evaluación institucional de los planes y programas de educac
 
 IX. Planear, administrar y evaluar la prestación de los servicios que brinde la Universidad;
 
-X. Formular y someter a la aprobación de la Junta de Gobierno, los proyectos anuales de presupuesto de ingresos y de egresos, el programa operativo anual de adquisiciones, arrendamientos y servicios, y los informes trimestrales de gestión financiera que se presenten al Congreso del Estado;
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2020)</small>
+
+X. Formular y someter a la aprobación de la Junta de Gobierno los proyectos anuales de presupuesto de ingresos y de egresos, el programa operativo anual de adquisiciones, arrendamientos y servicios, y los informes trimestrales de gestión financiera que se presenten al Congreso del Estado, los cuales deberán precisar el estado actual del patrimonio de la Universidad, así como las modificaciones que éste haya sufrido derivado de la celebración de convenios con personas físicas o morales;
 
 XI. Ejercer el presupuesto anual de egresos de la Universidad, de conformidad con los ordenamientos y disposiciones aplicables;
 
@@ -275,7 +313,7 @@ XXII. Designar al Secretario Técnico del Consejo Técnico; y
 
 XXIII. Las demás que le otorgue la Ley de Creación, las que expresamente le atribuyan las leyes del Estado, la normatividad universitaria y demás disposiciones aplicables.
 
-### CAPÍTULO I. De la Dirección de Educación Media Superior
+### CAPÍTULO IV. Del Consejo Técnico Académico
 
 ###### Artículo 12.
 
@@ -327,7 +365,7 @@ IX. Las que le otorgue el presente Estatuto, la normatividad universitaria y dem
 
 ## TÍTULO TERCERO. De las Direcciones de Área de la Universidad
 
-### CAPÍTULO II. De la Dirección de Educación Superior
+### CAPÍTULO I. De la Dirección de Educación Media Superior
 
 ###### Artículo 15.
 
@@ -379,7 +417,7 @@ XXII. Fortalecer las modalidades educativas, mixta y no escolarizada, así como 
 
 XXIII. Las que le otorgue el presente Estatuto, la normatividad universitaria y demás disposiciones aplicables.
 
-### CAPÍTULO III. De la Dirección de Carreras Técnicas y Capacitación para el Trabajo
+### CAPÍTULO II. De la Dirección de Educación Superior
 
 ###### Artículo 16.
 
@@ -465,7 +503,7 @@ XXXIX. Supervisar y verificar la correcta aplicación de la normatividad institu
 
 XL. Las que le otorgue el presente Estatuto, la normatividad universitaria y demás disposiciones aplicables.
 
-### CAPÍTULO IV. De la Dirección de Administración y Finanzas
+### CAPÍTULO III. De la Dirección de Carreras Técnicas y Capacitación para el Trabajo
 
 ###### Artículo 17.
 
@@ -507,7 +545,7 @@ XVII. Realizar los estudios entre los sectores sociales y económicos para estab
 
 XVIII. Las que le otorgue el presente Estatuto, la normatividad universitaria y demás disposiciones aplicables.
 
-### CAPÍTULO V. De la Dirección de Planeación y Programación
+### CAPÍTULO IV. De la Dirección de Administración y Finanzas
 
 ###### Artículo 18.
 
@@ -635,9 +673,13 @@ LX. Proponer al Rector, la suscripción de convenios de coordinación en materia
 
 LXI. Coordinar el registro de las aplicaciones desarrolladas en la Universidad y promover su trámite de autoría y registro de propiedad intelectual;
 
+> <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2020)</small>
+
+LXI-BIS. Informar trimestralmente al Rector sobre la gestión financiera de la Universidad, el cual deberá precisar el estado actual de su patrimonio y las modificaciones que haya sufrido derivado de la celebración de convenios con personas físicas o morales;
+
 LXII. Las que le otorgue el presente Estatuto, la normatividad universitaria y demás disposiciones aplicables.
 
-### CAPÍTULO VI. De la Dirección de Difusión
+### CAPÍTULO V. De la Dirección de Planeación y Programación
 
 ###### Artículo 19.
 
@@ -691,7 +733,7 @@ XXIII. Fungir como representante de la Universidad en los ámbitos estatal, naci
 
 XXIV. Las que le otorgue el presente Estatuto, la normatividad universitaria y demás disposiciones aplicables.
 
-### CAPÍTULO VII. De la Dirección de Asuntos Jurídicos
+### CAPÍTULO VI. De la Dirección de Difusión
 
 ###### Artículo 20.
 
@@ -722,6 +764,8 @@ XI. Atender los requerimientos que en materia de difusión le soliciten las Dire
 XII. Desarrollar y difundir, de manera permanente, los servicios educativos de la Universidad, y
 
 XIII. Las que le otorgue el presente Estatuto, la normatividad universitaria y demás disposiciones aplicables.
+
+### CAPÍTULO VII. De la Dirección de Asuntos Jurídicos
 
 ###### Artículo 21.
 
@@ -767,7 +811,9 @@ XIX. Dar fe y certificar, previa confrontación o cotejo con su original o matri
 
 XX. Intervenir en la realización de los actos jurídicos necesarios para enajenar, usar, disfrutar, reivindicar y en general todo aquello relacionado con los bienes propiedad de la Universidad;
 
-XXI. Registrar el patrimonio Universitario en materia de propiedad intelectual, industrial, marcas, patentes, invenciones y derechos de autor, con el propósito de preservarlo y defenderlo de actos que atenten en su contra;
+> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2020)</small>
+
+XXI. Registrar el patrimonio Universitario en materia de propiedad intelectual, industrial, marcas, patentes, invenciones y derechos de autor, con el propósito de preservarlo y defenderlo de actos que atenten en su contra, debiendo informar el resultado del registro a la Dirección de Administración y Finanzas;
 
 XXII. Llevar a cabo las acciones que correspondan para dar cumplimiento a sentencias ejecutoriadas o resoluciones firmes dictadas por autoridades judiciales o administrativas que deban ser acatadas por la Universidad; y
 
@@ -814,3 +860,11 @@ C.P. Andrés Blancas Portilla
 Rector de la Universidad Popular Autónoma de Veracruz y Secretario Técnico de la H. Junta de Gobierno
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA "APROBACIÓN DE LA MODIFICACIÓN DE NORMATIVIDAD INTERNA DE LA UNIVERSIDAD POPULAR AUTÓNOMA DE VERACRUZ".]
+
+Primero. La presente modificación entrará en vigor al día siguiente de su aprobación por la H. Junta de Gobierno de la Universidad Popular Autónoma de Veracruz y deberá ser publicado en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave.
