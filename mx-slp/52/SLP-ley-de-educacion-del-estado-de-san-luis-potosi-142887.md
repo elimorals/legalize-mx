@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2020-05-14"
+last_updated: "2020-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -1039,9 +1039,11 @@ Corresponde a las autoridades educativas estatal y municipales, en el ámbito de
 
 Asimismo, corresponde a las autoridades educativas estatal y municipales, conforme a los lineamientos de operación que emita la autoridad educativa federal, participar en el Consejo de Infraestructura Educativa, el cual será un espacio de consulta, deliberación y de análisis de las mejores prácticas de los asuntos sobre lo relativo a los muebles e inmuebles destinados a la educación, considerando equipamiento tecnológico como la infraestructura física; para su accesibilidad por parte de las personas con discapacidad, asi como lámparas y barandales entre otros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 94.
 
-Los muebles e inmuebles destinados a la educación impartida por el Gobierno del Estado y los municipios, así como por los particulares con autorización o con reconocimiento de validez oficial de estudios en el Estado, así como los servicios e instalaciones necesarios para proporcionar educación, forman parte del Sistema Educativo Estatal.
+Los muebles e inmuebles destinados a la educación impartida por el Gobierno del Estado y los municipios, así como por los particulares con autorización o con reconocimiento de validez oficial de estudios en el Estado, así como los servicios e instalaciones necesarias para proporcionar educación, mientras estén destinados a estas actividades, y para el solo efecto de la docencia, forman parte del Sistema Educativo Estatal, sin que ello implique la transmisión de dominio o posesión de los mismos en forma alguna, a favor del Estado.
 
 Dichos muebles e inmuebles deberán cumplir con los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, resiliencia, pertinencia, integralidad, accesibilidad, inclusividad e higiene, incorporando los beneficios del desarrollo de la ciencia y la innovación tecnológica, para proporcionar educación de excelencia, con equidad e inclusión, conforme a los lineamientos que para tal efecto emita la autoridad educativa federal.
 
@@ -2022,3 +2024,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0691.- SE REFORMA EL ARTÍCULO 94 EN SU PÁRRAFO PRIMERO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
