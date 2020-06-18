@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-archivos-del-estado-de-san-luis-potosi-89930"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2018-10-01"
+last_updated: "2020-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -339,7 +339,7 @@ I. Ser ciudadano potosino en los términos de la Constitución Política del Est
 
 II. No haber sido condenado por la comisión de algún delito doloso;
 
-III. Tener al menos treinta años cumplidos al día de su elección;
+III. (DEROGADA, P.O. 18 DE JUNIO DE 2020)
 
 IV. Ser profesionista con título legalmente expedido, con experiencia mínima de tres años en el ejercicio profesional;
 
@@ -866,3 +866,11 @@ P.O. 1 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0683.- SE DEROGA DEL ARTÍCULO 20 LA FRACCIÓN III, DE LA LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ; Y SE DEROGA DE LOS ARTÍCULOS 30 LA FRACCIÓN III, 39 LA FRACCIÓN II Y 44 LA FRACCIÓN II, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
