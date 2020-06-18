@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2020-03-26"
+last_updated: "2020-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -175,11 +175,11 @@ Toda persona que transite con su mascota por la vía pública, está obligada a 
 
 Las autoridades competentes, en el ámbito de sus atribuciones, emitirán los reglamentos necesarios para la aplicación de esta Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2020)</small>
 
-## Título Segundo.
+## Título Segundo
 
-De los Animales Domésticos, Silvestres en Cautiverio, de Trabajo, y de Espectáculo.
+De los Animales Domésticos, Silvestres en Cautiverio, de Trabajo, de Espectáculo, y Comunitarios.
 
 > <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
@@ -379,17 +379,27 @@ Todos los zoológicos, deberán contar con la asesoría de un profesional debida
 
 Deberá informarse al público que asiste a los zoológicos, que no está permitido dar alimento a los animales, salvo los autorizados por los propios zoológicos.
 
-### Capítulo I.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2020)</small>
 
-Animales Domésticos para Consumo.
+### Capítulo V.
+
+Animales Comunitarios.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2020)</small>
+
+ARTÍCULO 29 BIS.- Se entiende por animal comunitario todo aquél que se encuentra libre en áreas públicas, pero que es protegido por alguna persona o grupo de personas que por lo general habitan en el área donde se encuentra. La persona o grupo de personas encargadas de su protección, se aseguran que cuente con vacuna antirrábica, esterilización, desparasitación y actualización de cartilla de vacunación, así como de proveerle agua, alimento, y estar al tanto de su buen estado de salud.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2020)</small>
+
+ARTÍCULO 29 TER.- Se entiende por protector comunitario a la persona que busca dar una vida digna y recursos que proporcionen bienestar animal, a uno o varios animales, comprometiéndose a dar seguimiento a su salud, y bienestar.
 
 ## Título Tercero.
 
 Animales Domésticos y Silvestres para Consumo y Comercialización.
 
-### Capítulo II.
+### Capítulo I.
 
-Comercialización de Animales Silvestres.
+Animales Domésticos para Consumo.
 
 ###### ARTICULO 30.
 
@@ -419,9 +429,9 @@ La introducción o reintroducción de especies con fines de consumo humano, debe
 
 A los animales estabulados o semiestabulados, deberá alimentárseles con forrajes que no estén contaminados ni cultivados con aguas negras.
 
-### Capítulo I.
+### Capítulo II.
 
-Del Transporte de Animales.
+Comercialización de Animales Silvestres.
 
 ###### ARTICULO 37.
 
@@ -439,9 +449,9 @@ Al comercializarse se evitará que los animales queden expuestos a la luz solar 
 
 Del Transporte y Sacrificio de Animales.
 
-### Capítulo II.
+### Capítulo I.
 
-Del Sacrificio.
+Del Transporte de Animales.
 
 ###### ARTICULO 39.
 
@@ -501,9 +511,9 @@ I. Emplear en todo trayecto los procedimientos que impliquen proveer de alimento
 
 II. Procurar la comodidad y seguridad del animal durante el traslado, y evitar durante todo el procedimiento la crueldad, maltrato, fatiga extrema, condiciones no higiénicas, carencia de espacio suficiente y descanso.
 
-### Capítulo Unico.
+### Capítulo II.
 
-Investigación Científica con Animales.
+Del Sacrificio.
 
 ###### ARTICULO 45.
 
@@ -587,7 +597,7 @@ Las represas, los estanques y jagüeyes, en los cuales se pretenda llevar a cabo
 
 ### Capítulo Unico.
 
-Inventario de Especies Silvestres.
+Investigación Científica con Animales.
 
 ###### ARTICULO 58.
 
@@ -621,7 +631,7 @@ Asimismo, las investigaciones científicas que se realicen con animales, deben e
 
 ### Capítulo Unico.
 
-De las Autoridades Competentes y sus Atribuciones.
+Inventario de Especies Silvestres.
 
 ###### ARTICULO 63.
 
@@ -651,9 +661,9 @@ Los parques naturales o santuarios de determinadas especies de animales silvestr
 
 ## Título Séptimo.
 
-### Capítulo Primero.
+### Capítulo Unico.
 
-De las Prohibiciones.
+De las Autoridades Competentes y sus Atribuciones.
 
 ###### ARTICULO 67.
 
@@ -721,7 +731,9 @@ VI.- Hacer efectivas las multas por conducto de la tesorería de los Ayuntamient
 
 VII.- Coadyuvar con las autoridades estatal y federal en materia de sanidad animal, en sus respectivas demarcaciones;
 
-VIII.- Tomar las medidas necesarias para evitar la proliferación de los animales callejeros;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2020)</small>
+
+VIII.- Realizar de manera permanente y gratuita la campaña de esterilización de perros y gatos, para controlar la reproducción de su especie;
 
 IX.- Difundir los acuerdos que tome el Cabildo respecto a las medidas que se adopten para la correcta aplicación de esta Ley;
 
@@ -769,9 +781,9 @@ V.- Rescatar con el apoyo de las autoridades competentes, a los animales que est
 
 De las Prohibiciones, Sanciones y Procedimiento.
 
-### Capítulo Segundo.
+### Capítulo Primero.
 
-De las Sanciones.
+De las Prohibiciones.
 
 ###### ARTICULO 72.
 
@@ -835,11 +847,9 @@ Se prohíbe la venta de animales en la vía pública.
 
 ARTICULO 79 BIS.- Se prohíbe el establecimiento y operación de espectáculos circenses en los que se utilicen animales vivos.
 
-### Capítulo Tercero.
+### Capítulo Segundo.
 
-Del Procedimiento Administrativo.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+De las Sanciones.
 
 ###### ARTICULO 80.
 
@@ -899,9 +909,11 @@ Se sancionará con el equivalente de tres mil a seis mil días de la Unidad de M
 
 Las sanciones que se lleguen a aplicar con motivo de esta Ley, serán exclusivamente pecuniarias e independientes de las sanciones penales a que haya lugar.
 
-### Capítulo Cuarto.
+### Capítulo Tercero.
 
-Del Recurso de Reconsideración.
+Del Procedimiento Administrativo.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 86.
 
@@ -930,6 +942,10 @@ Para el caso de que el Síndico Municipal determine que existe evidencia suficie
 ###### ARTICULO 88.
 
 Para todo lo no previsto en este procedimiento, se aplicarán en forma supletoria las disposiciones contenidas en el Código Procesal Administrativo para el Estado de San Luis Potosí.
+
+### Capítulo Cuarto.
+
+Del Recurso de Reconsideración.
 
 ###### ARTICULO 89.
 
@@ -1116,6 +1132,22 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 26 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0650.- SE REFORMA EL ARTÍCULO 83 EN SUS FRACCIONES III Y IV; Y ADICIONA AL MISMO ARTÍCULO 83 LA FRACCIÓN V, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0684.- SE REFORMA EL ARTÍCULO 70 EN SU FRACCIÓN VIII, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0685.- SE REFORMA LA DENOMINACIÓN DEL TÍTULO SEGUNDO; Y ADICIONA EL CAPÍTULO V Y LOS ARTÍCULOS 29 BIS Y 29 TER, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
