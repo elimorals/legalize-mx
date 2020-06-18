@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cambio-climatico-para-el-estado-de-san-luis-potosi-10973
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2020-03-24"
+last_updated: "2020-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2015.
 
@@ -33,7 +33,9 @@ DECRETO 1181
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 ÚNICO. Se EXPIDE La Ley de Cambio Climático para el Estado de San Luis Potosí, para quedar como sigue:
 
@@ -62,6 +64,10 @@ I. Adaptación: medida encaminada a reducir la vulnerabilidad de los sistemas na
 II. Antropógenas: efectos, procesos o materiales que son resultado de actividades humanas, como la gran producción de gases de efecto invernadero provenientes de la gran cantidad de fábricas, autos, entre otras análogas; a diferencia de los que tienen causas naturales sin influencia humana;
 
 III. Atlas de Riesgo: colección de mapas a escala con características topográficas de uso del suelo, hidrología, vías de comunicación, equipamiento e información adicional del Estado y de sus municipios, en que se encuentren sobrepuestas zonas, áreas y regiones que indiquen el riesgo potencial que pudiera amenazar a la población ante los efectos del cambio climático, así como sus bienes, servicios y entorno;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2020)</small>
+
+III Bis. Azotea verde naturada: manta de vegetación que se instala de manera total o parcial, sobre los techos de edificaciones nuevas o existentes, para impermeabilizar, aislar térmicamente, manejar las aguas de lluvias, y aumentar las áreas verdes;
 
 IV. Biomasa: materia viva que se puede transformar en un importante recurso energético no contaminante, y mucho menos nocivo para el planeta que otras energías tales como el petróleo;
 
@@ -155,9 +161,17 @@ ARTÍCULO 7° BIS. El Programa de Ciencia, Tecnología e Innovación del Estado 
 
 Los objetivos de las políticas públicas para la mitigación son:
 
-I. Promover la protección del medio ambiente, el desarrollo sustentable, y el derecho a un medio ambiente sano, a través de la mitigación de emisiones, y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2020)</small>
 
-II. Reducir las emisiones a través de políticas y programas, que fomenten la transición a una economía sustentable, competitiva y de bajas emisiones en carbono, incluyendo instrumentos de mercado, incentivos y otras alternativas que mejoren la relación costo-eficiencia de las medidas específicas de mitigación, disminuyendo sus costos económicos y promoviendo la competitividad, la transferencia de tecnología y el fomento del desarrollo tecnológico.
+I. Promover la protección del medio ambiente, el desarrollo sustentable, y el derecho a un medio ambiente sano, a través de la mitigación de emisiones;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2020)</small>
+
+II. Reducir las emisiones a través de políticas y programas, que fomenten la transición a una economía sustentable, competitiva y de bajas emisiones en carbono, incluyendo instrumentos de mercado, incentivos y otras alternativas que mejoren la relación costo-eficiencia de las medidas específicas de mitigación, disminuyendo sus costos económicos y promoviendo la competitividad, la transferencia de tecnología y el fomento del desarrollo tecnológico, y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2020)</small>
+
+III. Promover prácticas de eficiencia energética, construcción sustentable, el desarrollo y uso de fuentes renovables de energía, así como la transferencia y desarrollo de tecnologías bajas en carbono, particularmente en bienes muebles e inmuebles de dependencias y entidades de la administración pública estatal.
 
 ###### ARTÍCULO 9°.
 
@@ -175,13 +189,17 @@ c) Desarrollar incentivos económicos y fiscales para impulsar el desarrollo y c
 
 d) Fortalecer el combate de incendios forestales; promover e incentivar la reducción gradual de la quema de caña de azúcar, y de prácticas de roza, tumba y quema.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE JUNIO DE 2020)</small>
 
 e) Reconvertir las tierras agropecuarias degradadas a productivas mediante prácticas de agricultura sustentable, o bien destinarlas para zonas de conservación ecológica y recarga de acuíferos.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2020)</small>
 
-f). Establecer en cada uno de los municipios del Estado, zonas de plantación, cuidado y conservación de árboles, atendiendo a la flora y zona climatológica que corresponda;
+f). Establecer en cada uno de los municipios del Estado, zonas de plantación, cuidado y conservación de árboles, atendiendo a la flora y zona climatológica que corresponda.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2020)</small>
+
+g) Fomentar la implementación de azoteas verdes naturadas;
 
 II. La sistematización del manejo de residuos sólidos que no generen emisiones de metano, en centros urbanos de más de cien mil habitantes, en no más de cinco años:
 
@@ -314,6 +332,10 @@ Para el cumplimiento de su objeto, la Comisión tendrá las siguientes funciones
 I. Integrar un diagnóstico sobre la problemática del cambio climático y su impacto en el Estado;
 
 II. Formular y proponer políticas públicas estatales al Gobernador del Estado, así como las adecuaciones legales necesarias en la materia;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2020)</small>
+
+II Bis. Formular de manera coordinada con la Secretaría de Finanzas y proponer al Gobernador, los instrumentos fiscales que permitan fomentar las azoteas verdes naturadas;
 
 III. Desarrollar un programa especial sobre la materia de cambio climático;
 
@@ -647,9 +669,17 @@ Para dar cumplimiento al artículo anterior la Comisión deberá:
 
 I. Convocar a las organizaciones de los sectores, social, y privado, a que manifiesten sus opiniones y propuestas en materia de adaptación y mitigación al cambio climático;
 
-II. Celebrar convenios de concertación con organizaciones sociales y privadas relacionadas con el medio ambiente, para fomentar acciones de adaptación y mitigación del cambio climático; para el establecimiento, administración y manejo de áreas naturales protegidas; para brindar asesoría en actividades de aprovechamiento sustentable de los recursos naturales; y para la realización de estudios e investigaciones en la materia y emprender acciones conjuntas, y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2020)</small>
 
-III. Promover el otorgamiento de reconocimientos a los esfuerzos más destacados de la sociedad, para erradicar los efectos adversos del cambio climático.
+II. Celebrar convenios de concertación con organizaciones sociales y privadas relacionadas con el medio ambiente, para fomentar acciones de adaptación y mitigación del cambio climático; para el establecimiento, administración y manejo de áreas naturales protegidas; para brindar asesoría en actividades de aprovechamiento sustentable de los recursos naturales; y para la realización de estudios e investigaciones en la materia y emprender acciones conjuntas;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2020)</small>
+
+III. Promover el otorgamiento de reconocimientos a los esfuerzos más destacados de la sociedad, para erradicar los efectos adversos del cambio climático, y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2020)</small>
+
+IV. Realizar acciones y convenios con instituciones académicas y científicas; además, procurar la participación de éstas en la elaboración de lineamientos que promuevan acciones para la mitigación y adaptación a los efectos del cambio climático.
 
 ## TÍTULO SEXTO. DE LA INSPECCIÓN Y VIGILANCIA, MEDIDAS DE SEGURIDAD, SANCIONES Y RECURSO ADMINISTRATIVO
 
@@ -800,3 +830,27 @@ P.O. 24 DE MARZO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0686.- SE REFORMA EL ARTÍCULO 59 EN SUS FRACCIONES II Y III; Y ADICIONA AL MISMO ARTÍCULO 59 LA FRACCIÓN IV, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0687.- SE REFORMA EL ARTÍCULO 8°, EN SUS FRACCIONES I Y II; Y ADICIONA AL MISMO ARTÍCULO 8°, LA FRACCIÓN III, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0688.- SE REFORMA EL ARTÍCULO 9° EN SU FRACCIÓN I LOS INCISOS E) Y F); Y ADICIONA A LOS ARTÍCULOS 3° LA FRACCIÓN III BIS, 9° EN SU FRACCIÓN I EL INCISO G) Y 24 LA FRACCIÓN II BIS, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
