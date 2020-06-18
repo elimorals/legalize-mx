@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-artesanal-del-estado-de-san-luis-potosi-31394"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-24"
-last_updated: "2019-10-23"
+last_updated: "2020-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de mayo de 2003.
 
@@ -509,13 +509,17 @@ IX. Fomentar la creación de nuevos centros de acopio y distribución en los ám
 
 X. Realizar anualmente estudios de mercado local, nacional e internacional, a fin de diseñar las estrategias de promoción artesanal necesarias;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2020)</small>
 
-XI. Promover y brindar asesoría para el registro de marcas colectivas de productos artesanales en el Estado, e incluirlas en las acciones y programas de apoyo, comercialización y promoción, y
+XI. Promover y brindar asesoría para el registro de marcas colectivas de productos artesanales en el Estado, e incluirlas en las acciones y programas de apoyo, comercialización y promoción;
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2020)</small>
 
-XII. Difundir los productos artesanales que ofrece, a través de los medios de comunicación de Gobierno del Estado de San Luis Potosí y los municipios, según sea el caso, con la finalidad de ampliar su posición en los mercados.
+XII. Difundir los productos artesanales que ofrece, a través de los medios de comunicación de Gobierno del Estado de San Luis Potosí y los municipios, según sea el caso, con la finalidad de ampliar su posición en los mercados, y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2020)</small>
+
+XIII. Brindar asesoría a los artesanos del Estado en materia de derechos de autor y de propiedad, de los procesos, productos y diseños artesanales de acuerdo a la legislación aplicable, con el fin de proteger la autoría y los derechos de comercialización de sus manifestaciones artísticas.
 
 ###### ARTICULO 34.
 
@@ -676,3 +680,11 @@ P.O. 23 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0681.- SE REFORMA EL ARTÍCULO 33 EN SUS FRACCIONES XI Y XII; Y ADICIONA AL MISMO ARTÍCULO 33 LA FRACCIÓN XIII, DE LA LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
