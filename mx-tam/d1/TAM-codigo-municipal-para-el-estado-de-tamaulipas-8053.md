@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2019-10-16"
+last_updated: "2020-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -677,7 +677,11 @@ LIV.- Fomentar la solidaridad familiar, los valores, el respeto, la convivencia 
 
 LV.- Fomentar y promover, la integración y la participación ciudadana a través de las organizaciones de la sociedad civil.
 
-LVI.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2020)</small>
+
+LVI.- Implementar acciones para la transversalidad en la prevención, atención, sanción y erradicación de la violencia contra las mujeres, con base en el programa que para tal efecto se establezca en el Plan Municipal de Desarrollo, apoyándose para el cumplimiento de esta atribución con el cabildo y la administración pública municipal.
+
+LVII.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
 
 ###### ARTICULO 50.
 
@@ -1945,11 +1949,13 @@ El contribuyente podrá pagar el impuesto por anticipado.
 
 Las deducciones a que se refiere el Artículo 124, serán las siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 19 DE JUNIO DE 2020)</small>
 
-I.- La deducción consistirá en quince veces el valor diario de la Unidad de Medida y Actualización, en la fecha que deba efectuarse el pago; en las adquisiciones de terrenos que no excedan de 250 M2., y cuando incluyan casa o departamento habitacional; éstos no excedan de 100 M2. y se adquieran a través de:
+I.- La deducción consistirá en quince veces el valor diario de la Unidad de Medida y Actualización, elevado al año, en la fecha que deba efectuarse el pago; en las adquisiciones de terrenos que no excedan de 250 M2., y cuando incluyan casa o departamento habitacional; éstos no excedan de 100 M2. y se adquieran a través de:
 
-a).- El Instituto Tamaulipeco de la Vivienda y Urbanización.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2020)</small>
+
+a).- El Instituto Tamaulipeco de la Vivienda y Urbanismo.
 
 b).- El Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas.
 
@@ -1967,11 +1973,13 @@ g).- Comisión para la Regularización de la Tenencia de la Tierra.
 
 h).- Créditos otorgados por Instituciones de Crédito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JUNIO DE 2020)</small>
 
-II.- La deducción será de trescientas veces el valor diario de la Unidad de Medida y Actualización, en la fecha que deba efectuarse el pago, en las adquisiciones de terrenos que efectúan los Organismos que se mencionan a continuación:
+II.- La deducción será de trescientas veces el valor diario de la Unidad de Medida y Actualización, elevado al año, en la fecha que deba efectuarse el pago, en las adquisiciones de terrenos que efectúan los Organismos que se mencionan a continuación:
 
-a).- El Instituto Tamaulipeco de la Vivienda y Urbanización.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2020)</small>
+
+a).- El Instituto Tamaulipeco de la Vivienda y Urbanismo.
 
 b).- El Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas.
 
@@ -2651,9 +2659,9 @@ Los Ayuntamientos deberán formular y aprobar los respectivos planes municipales
 
 Los planes municipales de desarrollo precisarán los objetivos generales, estrategias y prioridades para el desarrollo integral del Municipio; sus planteamientos se referirán al conjunto de la actividad económica y social, y contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, y establecerán los lineamientos de política de carácter municipal, sectorial y de servicios municipales, e indicarán los programas sectoriales institucionales, regionales y especiales. Las dependencias encargadas de su ejecución elaborarán programas operativos anuales, en concordancia con los planes Nacional y Estatal de Desarrollo.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2020)</small>
 
-Los programas contemplados en el plan municipal de desarrollo en todos los casos incorporarán la perspectiva de género desde el diseño y ejecución hasta la evaluación del desempeño institucional.
+Los programas contemplados en el Plan Municipal de Desarrollo en todos los casos incorporarán la perspectiva de género desde el diseño y ejecución hasta la evaluación del desempeño institucional. También, deberá contener un programa que establezca estrategias para contribuir con la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -6276,3 +6284,37 @@ P.O. 16 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. LXIV-97 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 184, PÁRRAFO SEGUNDO, Y SE ADICIONA LA FRACCIÓN LVI, RECORRIÉNDOSE LA ACTUAL PARA SER LVII, DEL ARTÍCULO 49, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos contarán con noventa días hábiles para darle cumplimiento a éste, para lo cual, con base en lo establecido en el párrafo cuarto del artículo 187 del Código Municipal para el Estado de Tamaulipas, deberán modificar su Plan Municipal de Desarrollo, a fin de incluir el programa correspondiente, debiéndolo informar inmediatamente a este Congreso del Estado, además de mandarlo publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a las Comisiones de Igualdad de Género y de Asuntos Municipales de esta Legislatura, para que le den seguimiento al cumplimiento del presente Decreto por parte de los Ayuntamientos del Estado.
+
+###### ARTÍCULO CUARTO.
+
+De acuerdo a lo establecido en el párrafo tercero del artículo 187 del Código Municipal para el Estado de Tamaulipas, se sirvan acompañar junto al informe anual de ejecución del Plan Municipal de Desarrollo, el documento anexo que contenga las acciones y programas en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+
+P.O. 19 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-103 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 129, FRACCIONES I INCISO A) Y II INCISO A) DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+No obstante, el presente Decreto será aplicable a las situaciones jurídicas a las que se refiere el artículo objeto de la reforma, que hayan sido celebradas a partir de la entrada en vigor del Decreto LXIII-103, de fecha 14 de diciembre del año 2016 a la fecha de expedición del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efectos todas aquellas disposiciones normativas que contravengan o se opongan al presente Decreto.
