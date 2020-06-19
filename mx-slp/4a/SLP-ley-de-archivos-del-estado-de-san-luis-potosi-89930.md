@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-archivos-del-estado-de-san-luis-potosi-89930"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2020-06-18"
+last_updated: "2020-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ARCHIVOS PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 19 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2020 (ABROGADO).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -874,3 +876,17 @@ P.O. 18 DE JUNIO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0692.- SE EXPIDE LA LEY DE ARCHIVOS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto se abroga la Ley de Archivos del Estado de San Luis Potosí, publicada como Decreto Legislativo No. 1157 en el Periódico Oficial del Estado el 20 de octubre del 2012.
+
+TERCERO. Se derogan las disposiciones que contravengan lo dispuesto en este Decreto.
+
+CUARTO. Los poderes: Ejecutivo; y Legislativo, proveerán de las partidas presupuestarias en suficiencia para el cumplimiento de lo dispuesto en la Ley que se expide mediante el presente Decreto.
+
+QUINTO. La CEGAIP dentro de un término de ciento ochenta días contados a partir de la vigencia de este Decreto, deberá expedir el reglamento y lineamientos de esta Ley.
