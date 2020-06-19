@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2020-02-06"
+last_updated: "2020-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -603,6 +603,10 @@ VII.- Para el supuesto de que el vehículo o el poseedor del vehículo no exhiba
 
 Dichas multas no podrán ser condonadas ni reducidas.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2020)</small>
+
+ARTICULO 49 TER.- Las sanciones a que hace referencia el artículo inmediato anterior, podrán ser conmutadas por trabajo a favor de la comunidad de manera proporcional a la falta cometida, siempre que la multa correspondiente no exceda hasta nueve veces el valor diario de la Unidad de Medida y Actualización, en los términos del artículo 49 Bis, fracción V de la presente Ley.
+
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 50.
@@ -884,3 +888,11 @@ P.O. 6 DE FEBRERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-101 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 49 TER A LA LEY DE TRÁNSITO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación.
