@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-imagen-urbana-para-el-municipio-de-170623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-31"
-last_updated: "2017-11-28"
+last_updated: "2020-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 28 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 19 DE JUNIO DE 2020.
 
 Reglamento publicado en el Suplemento del Ejemplar 15 de la Gaceta Municipal del Ayuntamiento de Guadalajara, el jueves 31 de diciembre de 2009.
 
@@ -151,11 +151,9 @@ Para la conservación y mejoramiento de la imagen urbana en el Municipio de Guad
 
 Todos los edificios significativos o de valor patrimonial comprendidos en el Municipio, contenidos dentro del catálogo de los Planes de Desarrollo Urbano, así como del catálogo de monumentos y zonas arqueológicas, artísticas e históricas del Instituto Nacional de Antropología e Historia (INAH), y por el Instituto Nacional de Bellas Artes (INBA), deberán conservar su aspecto formal actual y no se autorizará ningún cambio o adición de elementos en sus fachadas sin la autorización expresa de las autoridades competentes.
 
-> <small>(ADICIONADO, G.M. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.M. 19 DE JUNIO DE 2020)</small>
 
-Artículo 9 bis. Se establece la Zona de Intervención Especial Centro Histórico, la cual se encuentra delimitada por las propiedades que tienen frente a las siguientes vialidades: inicia en su extremo norte, en el Vértice 1, siguiendo por la calle Hospital, hasta el Vértice 2, continuando por la calle Liceo, hasta el Vértice 3, para continuar por la calle San Felipe, hasta el Vértice 4, donde continúa por la calle Venustiano Carranza, hasta el Vértice 5, donde continúa por la calle Independencia-Industria, hasta llegar al Vértice 6, continuando por la calle General Salazar, hasta llegar al Vértice 7, donde continúa por la calle Ignacio Allende, hasta llegar al Vértice 8, continuando por la calle Dionisio Rodríguez y la calle Cabañas, hasta llegar al Vértice 9, donde continúa por la calle Álvaro Obregón y la calle López Cotilla, hasta llegar al Vértice 10, continuando por la calle Maestranza, hasta el Vértice 11, donde continúa por la calle Madero, hasta el Vértice 12, continuando por la calle Ramón Corona, hasta llegar al Vértice 13, donde continúa por la Avenida de la Paz, hasta llegar al Vértice 14, continuando por la calle Colón, hasta el Vértice 15, donde continúa por la calle Prisciliano Sánchez, hasta el Vértice 16, continuando por la Avenida 16 de Septiembre, hasta el Vértice 17, continuando por la Avenida Juárez, hasta el Vértice 18, donde continúa por la calle Donato Guerra, hasta el Vértice 19, continuando por la calle Madero, hasta el Vértice 20, continuando por la calle 8 de Julio, hasta el Vértice 21, donde continúa por la calle López Cotilla, hasta el Vértice 22, continuando por la calle Pavo, hasta el Vértice 23, continuando por la calle Pedro Moreno, hasta el Vértice 24, donde continúa por la calle Mariano Bárcena, hasta el Vértice 25, donde continúa por la calle San Felipe, hasta el Vértice 26, continuando por la calle Contreras Medellín, hasta el Vértice 27, continuando por la calle Reforma, hasta el Vértice 28, continuando por la calle Pedro Loza, hasta cerrar la zona en el Vértice 1.
-
-Dicha zona solo servirá para establecer el marco de competencia para el ejercicio de las atribuciones a cargo de cada una de las coordinaciones generales, dependencias y entidades de la administración pública municipal, sin menoscabo en forma alguna de la delimitación de los perímetros "A" y "B" de protección del patrimonio histórico del municipio, establecidos en el Reglamento de Conservación del Patrimonio Cultural Urbano en el Municipio de Guadalajara.
+Artículo 9 bis. Se establece la Zona de Intervención Especial Centro Histórico, la cual se encuentra delimitada por las propiedades que tienen frente a las siguientes vialidades: inicia en su extremo norte, en el Vértice 1, siguiendo por la calle Juan Álvarez, hasta el Vértice 2, continuando por la calle Liceo, hasta el Vértice 3, para continuar por la calle San Felipe, hasta el Vértice 4, donde continúa por la calle Venustiano Carranza, hasta el Vértice 5, donde continúa por la calle Independencia Industria, hasta llegar al Vértice 6, continuando por la calle General Salazar, hasta llegar al Vértice 7, donde continúa por la calle Ignacio Allende, hasta llegar al Vértice 8, continuando por la calle Dionisio Rodríguez y la calle Cabañas, hasta llegar al Vértice 9, donde continúa por la calle Álvaro Obregón y la calle López Cotilla, hasta llegar al Vértice 10, continuando por la calle Maestranza, hasta el Vértice 11, donde continúa por la calle Madero, hasta el Vértice 12, continuando por la calle Ramón Corona, hasta llegar al Vértice 13, donde continúa por la Avenida de la Paz, hasta llegar al Vértice 14, continuando por la calle Colón, hasta el Vértice 15, continuando por la Avenida Juárez, hasta el Vértice 16, donde continúa por la calle Donato Guerra, hasta el Vértice 17, continuando por la calle Madero, hasta el Vértice 18, continuando por la calle 8 de Julio, hasta el Vértice 19, donde continúa por la calle López Cotilla, hasta el Vértice 20, continuando por la calle Pavo, hasta el Vértice 21, continuando por la calle Pedro Moreno, hasta el Vértice 22, donde continúa por la calle Mariano Bárcena, hasta el Vértice 23, donde continúa por la calle San Felipe, hasta el Vértice 24, continuando por la calle Contreras Medellín, hasta el Vértice 25, continuando por la calle Reforma, hasta el Vértice 26, continuando por la calle Pedro Loza, hasta cerrar la zona en el Vértice 1.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.M. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -566,3 +564,13 @@ Primero. Las presentes reformas entrarán en vigor al día siguiente de su publi
 Segundo. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 19 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO PARA EL FUNCIONAMIENTO DE GIROS COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS EN EL MUNICIPIO DE GUADALAJARA Y AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Publíquese las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
