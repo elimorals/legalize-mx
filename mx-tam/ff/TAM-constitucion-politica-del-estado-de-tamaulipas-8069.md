@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2019-10-22"
+last_updated: "2020-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -177,9 +177,9 @@ I. Votar en las elecciones y en las consultas populares, en los términos que se
 
 II. Desempeñar los cargos de elección popular y los concejiles para que fuere nombrado conforme a la ley, salvo excusa legítima.
 
-III. Alistarse en la Guardia Nacional.
+III. (DEROGADA, P.O. 19 DE JUNIO DE 2020)
 
-IV. Alistarse en los Cuerpos de Policía Rural del Estado para defender su territorio y su soberanía, y para sostener su Constitución, sus leyes y autoridad.
+IV. (DEROGADA, P.O. 19 DE JUNIO DE 2020)
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1169,9 +1169,7 @@ Su Titular será nombrado por el término de ocho años, mediante convocatoria p
 
 Establecer el Consejo Estatal de Política Criminal, como instancia de coordinación del Estado encargada del diseño e implementación, en el ámbito de las respectivas competencias, de la política y prioridades de persecución penal. Se integrará por el Ejecutivo del Estado, el Fiscal General de Justicia, el Secretario General de Gobierno, el Secretario de Seguridad Pública y los Fiscales Especializados en Combate a la Corrupción, Delitos Electorales y Asuntos Internos. La ley determinará la organización y funcionamiento del Consejo Estatal de Política Criminal.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
-
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+XXII. (DEROGADA, P.O. 19 DE JUNIO DE 2020)
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -5114,6 +5112,14 @@ Por única ocasión el informe que rinda el Gobernador del Estado en el año 202
 P.O. 22 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-1029 MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN VII, DEL ARTÍCULO 18, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-104 MEDIANTE EL CUAL SE DEROGAN LAS FRACCIONES III Y IV, DEL ARTÍCULO 8o., Y XXII, DEL ARTÍCULO 58, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
