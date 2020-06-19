@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-organismo-publico-descentralizado-denominado-114420"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-18"
-last_updated: "2016-10-03"
+last_updated: "2020-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO DEL DECRETO N° LXVI/ABLEY/0721/2020 VI P.E. Y SEXTO TRANSITORIO DEL CITADO DECRETO, PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 19 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2020 (ABROGADA).
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 18 de noviembre de 2015.
 
@@ -506,3 +508,41 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 19 DE JUNIO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO PRIMERO DEL DECRETO N° LXVI/ABLEY/0721/2020 VI P.E.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Decreto No. 1036/2015 I P.O., publicado en el Periódico Oficial del Estado, el día 18 de noviembre del año 2015, mediante el cual se crea la Ley del Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud; en consecuencia, el Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud se extingue e inicia su proceso de liquidación, conservando su personalidad jurídica únicamente para efectos del proceso de extinción.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/ABLEY/0721/2020 VI P.E., POR EL QUE SE ABROGA EL DECRETO N° 1036/2015 I P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO, EL DÍA 18 DE NOVIEMBRE DEL AÑO 2015, MEDIANTE EL CUAL SE CREA LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD; EN CONSECUENCIA, EL ORGANISMO SE EXTINGUE E INICIA SU PROCESO DE LIQUIDACIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua. Se ordena su inscripción en el Registro Público de Organismos Descentralizados a cargo de la Secretaría de Hacienda.
+
+###### ARTÍCULO SEGUNDO.
+
+El liquidador de la entidad, deberá cerrar los estados financieros del Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud, hasta la total conclusión de los mismos.
+
+###### ARTÍCULO TERCERO.
+
+El proceso de extinción del Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud, deberá sujetarse a los términos establecidos en los artículos transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud y de la Ley de los Institutos de Salud, última reforma publicada en el Diario Oficial de la Federación el veintinueve de noviembre del año dos mil diecinueve, así como a las bases que emita la Secretaría de Salud, para dar cumplimiento al presente Decreto y demás disposiciones reglamentarias que al efecto se emitan.
+
+###### ARTÍCULO CUARTO.
+
+Para solventar los asuntos que se deriven del proceso de extinción del Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud, y con sujeción a la disponibilidad presupuestal, el liquidador podrá auxiliarse del personal única y exclusivamente necesario, previa autorización de la Secretaría de Salud, para llevar a cabo tal proceso. Así mismo, dicho personal será el encargado de atender y dar continuidad a las auditorías que en su caso realicen las Entidades Fiscalizadoras correspondientes a los recursos ejercidos por el Régimen Estatal de Protección Social en Salud.
+
+###### ARTÍCULO QUINTO.
+
+El liquidador deberá dar seguimiento y concluir los procedimientos y recursos que en materia de derecho de acceso a la información y protección de datos personales se encuentren en trámite.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga el Decreto No. 1036/2015 I. P.O., publicado en el Periódico Oficial del Estado de Chihuahua, de fecha dieciocho de noviembre de dos mil quince, por el que se creó el Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Salud deberá publicar en el Periódico Oficial del Estado de Chihuahua, el Acuerdo que señale las bases para llevar a cabo la extinción del Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud, dentro del plazo de diez días hábiles siguientes a la entrada en vigor del presente Decreto, el cual deberá inscribir en el Registro Público de Organismos Descentralizados a cargo de la Secretaría de Hacienda.
