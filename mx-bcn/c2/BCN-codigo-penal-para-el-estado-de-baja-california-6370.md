@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2020-03-06"
+last_updated: "2020-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3103,13 +3103,9 @@ Artículo 237 QUATER.- Persecución oficiosa.- El delito de sustracción de meno
 
 ### CAPITULO VII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2020)</small>
 
-###### Artículo 242 Bis.
-
-Tipo y punibilidad.- Al que dolosamente ejerza actos de violencia física o psicológica, o incurra en la omisión grave de cumplir con un deber, en contra de su cónyuge, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, adoptante o adoptado, se le impondrá de seis meses a cuatro años de prisión y multa de veinticuatro a trescientos días, además se sujetará al agresor a tratamiento integral psicológico o psiquiátrico especializado dirigido a su rehabilitación, así también deberá de pagar este tipo de tratamiento hasta la recuperación total de la víctima, sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este Código aplicándose para ello las reglas de concurso de delitos.
-
-Las mismas penas se aplicarán al que realice cualquiera de las conductas a que se refiere este precepto, en contra de su concubina o concubino, pariente colateral o afín hasta el cuarto grado.
+ARTÍCULO 242 BIS.- Tipo y punibilidad.- Comete el delito de violencia familiar quien lleve a cabo actos o conductas de dominio, control o agresión física, psicológica, patrimonial, o económica, a alguna persona con la que se encuentre o haya estado unida por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o una relación de pareja dentro o fuera del domicilio familiar. A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia, además se sujetará al agresor a tratamiento integral psicológico o psiquiátrico especializado dirigido a su rehabilitación, así también deberá de pagar este tipo de tratamiento hasta la recuperación total de la víctima.
 
 Así mismo se le podrá imponer las siguientes medidas de seguridad:
 
@@ -3125,15 +3121,19 @@ Para los efectos del presente artículo se entiende por:
 
 I.- Violencia física: A todo acto intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro;
 
-II.- Violencia psicológica: toda acción u omisión reiterada, ejecutada por cualquier medio distinto al contacto físico, que con el propósito de perturbar, degradar o controlar la conducta de una persona le afecte psíquica o emocionalmente;
+II.- Violencia psicológica: toda acción u omisión reiterada, ejecutada por cualquier medio distinto al contacto físico, que, con el propósito de perturbar, degradar o controlar la conducta de una persona le afecte psíquica o emocionalmente;
+
+III.- Violencia patrimonial: Toda acción u omisión que, de manera directa o indirecta, se dirija a ocasionar un menoscabo al patrimonio de la víctima, a través de:
+
+a) La perturbación de la posesión, tenencia o propiedad de sus bienes.
+
+b) La pérdida, sustracción, destrucción o retención indebido (sic) de objetos, instrumentos de trabajo, documentos personales, bienes, valores y derechos patrimoniales.
+
+IV.- Violencia económica: Toda acción u omisión orientada al abuso económico que, de manera directa o indirecta, cause una limitación o afectación de los recursos económicos destinados a la satisfacción de las necesidades básicas o medios indispensables para una vida digna de la víctima.
 
 La comisión de este delito se perseguirá de oficio por la Representación Social.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
-
-Cuando exista reincidencia por parte del activo, o cuando la acción se realice en contra de persona con discapacidad o adulto mayor, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio del juzgador se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado del menor de dieciocho años de edad, adulto mayor o persona con discapacidad, a quien tenga el ejercicio de ésta, por resolución judicial. En ningún caso el Ministerio Público remitirá para mediación, o proceso alternativo de solución a las Víctimas de Violencia familiar.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
+Cuando exista reincidencia por parte del activo, o cuando la acción se realice en contra de persona con discapacidad o adulto mayor, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio del juzgador se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado del menor de dieciocho años de edad, adulto mayor o persona con discapacidad, a quien tenga el ejercicio de ésta, por resolución judicial. En ningún caso el Ministerio Público remitirá para mediación o proceso alternativo de solución a las Víctimas de Violencia familiar.
 
 En los casos previstos en este Capítulo, la víctima, bajo protesta de decir verdad, acudirá ante el Ministerio Público o el Juez para solicitar que se decrete alguna de las órdenes de protección señaladas en el Código Nacional de Procedimientos Penales.
 
@@ -3261,7 +3261,9 @@ En vista de las circunstancias, el Juez de Control o Tribunal de Enjuiciamiento 
 
 ### CAPÍTULO V. PRESTACIÓN ILÍCITA DEL SERVICIO PÚBLICO DE TRANSPORTE DE PASAJEROS
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2019)</small>
+(NOTA: EL 9 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 3/2024, DECLARÓ LA INCONSTITUCIONALIDAD DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE JUNIO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 77, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2020)</small>
 
 ###### Artículo 243.
 
@@ -3385,13 +3387,21 @@ La misma pena se impondrá a quien venda bebidas alcohólicas a menores de dieci
 
 ###### Artículo 250 Ter.
 
-A quien preste el servicio público de transporte de pasajeros sin concesión, permiso o autorización correspondiente se le impondrá de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, y suspensión por un año del derecho de manejar.
+Comete el delito de transportación ilegal de pasajeros o de carga, el que, sin contar con la concesión, permiso o autorización expedidos por el Instituto para tales efectos, preste el servicio público o privado de transporte de pasajeros o de carga en el Estado de Baja California.
 
-Se exceptúa de la comisión de este delito, a quienes presten el servicio de transporte vía plataformas tecnológicas.
+A quien cometa el delito de transporte ilegal de pasajeros a (sic) de carga, se impondrá de seis meses a dos años de pena privativa de libertad, incautación de los vehículos en cuestión y una multa de trescientas a ochocientas veces la Unidad de Medida y Actualización (UMA) vigente, por lo que las autoridades competentes perseguirán de oficio el delito mencionado.
 
-Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la legislación administrativa y las sanciones que correspondan, en su caso.
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2020)</small>
 
-Este delito se perseguirá por querella de la dependencia u Órgano Estatal o Municipal del ramo.
+###### Artículo 250 Ter 1.
+
+Se sancionará con pena privativa de libertad de tres a seis años y multa de setecientos (sic) a mil veces la Unidad de Medida y Actualización (UMA) vigente, a quien dirija, organice, incite, induzca, compela o patrocine a otro u otros, a prestar el servicio público de transporte de pasajeros o de carga, sin contar con la concesión, permiso o autorización correspondiente, dicho delito se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2020)</small>
+
+###### Artículo 250 Ter 2.
+
+Aquella persona que haya sido declarada por sentencia firme responsable de la comisión de algún delito establecido en este Capítulo, no podrá ser titular de concesión, permiso o autorización para la prestación del servicio de transporte público de pasajeros o de carga.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MARZO DE 2020)</small>
 
@@ -4412,6 +4422,14 @@ Esta disposición no surtirá efectos en los casos de delitos no graves por culp
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
 En el caso de Homicidio y lesiones calificadas contra algún miembro activo de las instituciones policiales del Estado, se atenderá a los (sic) dispuesto en el artículo 147 del presente Código.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2020)</small>
+
+###### Artículo 317 Ter.
+
+Tipo y punibilidad.- Al que, con el propósito de obstruir el desempeño de las instituciones de seguridad pública o procuración de justicia, aceche, vigile u obtenga información y comunique a otro por cualquier medio con la intención de eludir, facilitar o encubrir un delito, se le impondrá una pena de uno a cinco años de prisión y multa de cien hasta cuatrocientas veces la Unidad de Medida y Actualización (UMA) vigente.
+
+La pena señalada en el párrafo anterior se aumentará hasta en una mitad cuando se utilicen niñas, niños, adolescentes o personas que no tienen la capacidad para comprender el significado del hecho o se utilice algún vehículo de servicio público de transporte u otro que, por sus características exteriores, haga parecer que se trata de vehículos destinados al servicio de transporte público, o de alguna institución de seguridad pública.
 
 ### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
@@ -6014,3 +6032,15 @@ P.O. 6 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 47 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL ARTÍCULO 250 QUATER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 77 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 250 TER; LA ADICIÓN DE LOS ARTÍCULOS 250 TER 1, 250 TER 2 Y 317 TER, AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 78 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 242 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
