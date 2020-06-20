@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-139717"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-27"
-last_updated: "2020-05-23"
+last_updated: "2020-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2020.
 
 Ley publicada en el Número 40 Ter de la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 27 de diciembre de 2019.
 
@@ -531,9 +531,9 @@ El refrendo anual para motocicletas sólo incluye la expedición de tarjeta de c
 
 Tratándose de vehículos fabricados con sistema de propulsión híbrido sin considerar los modificados o hechizos, pagarán el 50%, por derecho de refrendo anual y calcomanía de identificación vehicular previsto en la fracción III de este artículo, en el caso de vehículos eléctricos, estarán exentos del pago de los derechos referidos.
 
-> <small>(REFORMADO, P.0. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2020)</small>
 
-Los pagos previstos en las fracciones III y III Bis de este artículo deberán efectuarse en el periodo comprendido del 2 de enero al último día hábil del mes de mayo de 2020 dos mil veinte.
+Los pagos previstos en las fracciones III y III Bis de este artículo deberán efectuarse en el periodo comprendido del 2 de enero al último día hábil del mes de julio de 2020 dos mil veinte.
 
 Los propietarios de automóviles, camiones, camionetas, tractores automotores, remolques y motocicletas, que hubieren sido objeto de robo, estarán exentos del pago de derechos previstos en la fracción III y III Bis de este artículo, por el ejercicio fiscal en que ocurrió el delito, siempre que el robo hubiere acontecido dentro del periodo de pago a que se refiere el párrafo anterior.
 
@@ -541,9 +541,9 @@ A los pagos efectuados del 1° primero de enero y hasta el 31 treinta y uno de e
 
 A los pagos efectuados a partir del 1° primero de febrero y hasta el último día hábil del mes de marzo de 2020 dos mil veinte, por los derechos previstos en la fracción III inciso a) de este artículo, se concederá un descuento de 5%.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.0. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2020)</small>
 
-A los pagos efectuados vía Internet a partir del 1° primero de abril y hasta el último día hábil del mes de mayo de 2020 dos mil veinte, por los derechos previstos en la fracción III inciso a) y fracción III Bis de este artículo, se concederá un descuento de 5%.
+A los pagos efectuados vía Internet a partir del 1° primero de abril y hasta el último día hábil del mes de julio de 2020 dos mil veinte, por los derechos previstos en la fracción III inciso a) fracción III Bis de este artículo, se concederá un descuento de 5%.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.0. 20 DE MARZO DE 2020)</small>
 
@@ -1926,3 +1926,11 @@ P.O. 23 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27912/LXII/20 QUE REFORMA EL ARTÍCULO 1° DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO Y SUS ANEXOS, PARA EL EJERCICIO FISCAL 2020 Y MODIFICA EL DIVERSO 27785/LXII/19, MEDIANTE EL CUAL SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL COMPRENDIDO DEL 1° DE ENERO AL 31 DE DICIEMBRE DE 2020, SUS ANEXOS Y SU PLANTILLA DE PERSONAL”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 20 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27918/LXII/20 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 23 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2020, EL CUAL TIENE POR OBJETIVO AMPLIAR EL PLAZO DE PAGO DEL REFRENDO VEHICULAR HASTA EL ÚLTIMO DÍA HÁBIL DEL MES DE JULIO DE 2020, ASÍ COMO INCENTIVAR EL TRÁMITE A TRAVÉS DE MEDIOS ELECTRÓNICOS DE INTERNET, OTORGANDO UN DESCUENTO DEL 5% A LOS PAGOS EN LÍNEA QUE SE REALICEN DURANTE LOS MESES DE JUNIO Y JULIO 2020”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los plazos previstos en los párrafos cuarto y octavo de la fracción III Bis del artículo 23, surten efectos a partir del día 1° de junio de 2020.
