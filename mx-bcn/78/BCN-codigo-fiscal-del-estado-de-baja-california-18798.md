@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2020-03-20"
+last_updated: "2020-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -1095,31 +1095,27 @@ ARTICULO 51 BIS.- De los incentivos económicos que perciba el Estado con motivo
 
 ### CAPITULO IV. DE LOS DELITOS FISCALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 52.
 
-Para proceder penalmente por los delitos previstos en los Artículos 59, 61, 62 y 67 de este Código, será necesario que la Secretaría de Planeación y Finanzas del Estado, declare previamente que el Fisco ha sufrido o pudo sufrir perjuicio.
+Para proceder penalmente por los delitos previstos en los artículos 59, 61, 62 y 67 de este Código, será necesario que la Secretaría de Hacienda, declare previamente que el Fisco ha sufrido y pudo sufrir perjuicio.
 
-En cuanto a los delitos tipificados en los Artículos 59, 61, 62, 63, 65 y 67 de este Código, se requerirá querella de la propia Secretaría.
+En cuanto a los delitos tipificados en los artículos 59, 61, 61 BIS, 62, 63, 65 y 67 de este Código, se requerirá querella o requisito equivalente por parte de la autoridad competente del Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+Los procesos por delitos fiscales a que se refiere el párrafo anterior, podrán sobreseerse en el supuesto de que la autoridad competente del Gobierno del Estado lo solicite a la autoridad jurisdiccional, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien, estos créditos fiscales queden garantizados a satisfacción de la referida autoridad.
 
-Los procesos por delitos fiscales a que se refiere el Párrafo anterior, se sobreseerán a petición de la Secretaría de Planeación y Finanzas del Estado, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien, estos créditos fiscales queden garantizados a satisfacción de la Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
-
-En los delitos fiscales en que el daño o perjuicio sea cuantificable, la Secretaría de Planeación y Finanzas hará la liquidación correspondiente en la propia querella o declaratoria, o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público formule conclusiones. La citada liquidación sólo surtirá efectos en el procedimiento penal.
+En los delitos fiscales en que el daño o perjuicio sea cuantificable, se hará la liquidación correspondiente en la propia querella, o denuncia, pudiendo presentarse en los términos y formas que dicte la ley de la materia. La citada liquidación sólo surtirá efectos en el procedimiento penal.
 
 ###### ARTICULO 53.
 
 En los delitos fiscales la Autoridad Judicial no impondrá sanción pecuniaria; las Autoridades administrativas con arreglo a las Leyes Fiscales, harán efectivas las contribuciones omitidas, los recargos y las sanciones administrativas correspondientes, sin que ello afecte al procedimiento penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 54.
 
-La acción penal en los delitos fiscales perseguibles por querella de la Secretaría de Planeación y Finanzas, se extinguen en tres años contados a partir del día en que dicha Secretaría tenga conocimiento de los hechos delictuosos.
+La acción penal en los delitos fiscales perseguibles por querella, se extinguen en cinco años contados a partir del día en que dicha Secretaría tenga conocimiento de los hechos delictuosos.
 
 A falta de dicho conocimiento, en cinco años contados a partir de la fecha de la comisión del delito.
 
@@ -1198,6 +1194,18 @@ V.- Como fabricante, porteador, comerciante o expendedor haga circular productos
 VI.- No entere a las Autoridades Fiscales dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido o recaudado de los causantes, por concepto de contribuciones fiscales.
 
 VII.- Se beneficie, sin derecho, de un subsidio o estímulo fiscal.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+ARTICULO 61 BIS.- Se equipará al delito de defraudación fiscal las siguientes conductas que, en materia de agua, realicen personas físicas o morales:
+
+I. Declare dolosamente, haga uso de engaños o manifieste datos falsos a fin de modificar la clasificación de uso de agua, para obtener un beneficio por uso o aprovechamiento de agua indebido bajo un régimen distinto al que corresponda en los términos de la ley.
+
+II. Altere o dañe los aparatos medidores con el propósito de registrar un volumen de agua inferior al realmente consumido.
+
+III. Se reconecte al servicio de agua potable encontrándose suspendido o restringido éste, o comercie sin contar con la autorización respectiva por la autoridad competente.
+
+Las conductas previstas en este artículo se sancionarán en los términos previstos en el presente Código para la defraudación fiscal.
 
 ###### ARTICULO 62.
 
@@ -2840,3 +2848,9 @@ P.O. 20 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 51 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 FRACCIÓN V Y 21 DE LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE REFORMAN LOS ARTÍCULOS 2 Y 17, Y ADICIÓN (SIC) DE UNA FRACCIÓN IV AL ARTÍCULO 96 DE LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 76 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; CÓDIGO FISCAL PARA EL ESTADO DE BAJA CALIFORNIA; CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO 2020”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
