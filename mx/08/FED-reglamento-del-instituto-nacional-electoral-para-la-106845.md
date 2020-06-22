@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-nacional-electoral-para-la-106845"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-03-26"
-last_updated: "2019-01-16"
+last_updated: "2020-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106845&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-03-11"
 
 REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2020.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 26 de marzo de 2015.
 
@@ -151,6 +151,8 @@ h) Organismos Públicos: Los Organismos Públicos Locales Electorales de las ent
 
 i) Juntas: Las Juntas Ejecutivas del Instituto, Locales y Distritales.
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2020)</small>
+
 III. Por lo que hace a la terminología:
 
 a) Aspirante: La o el ciudadano mexicano que, una vez publicada la Convocatoria para el proceso de selección y designación para la integración de los órganos superiores de dirección de los Organismos Públicos, requisite el formato de solicitud de registro proporcionado por el Instituto;
@@ -171,13 +173,15 @@ h) Portal: La página de Internet del Instituto;
 
 i) Remoción: Es la atribución del Consejo General para que, conforme al procedimiento establecido en la Ley General y en el presente ordenamiento, determine la separación del cargo de Consejera o Consejero Presidente, y Consejeras o Consejeros Electorales de los Organismos Públicos Locales por infracciones al artículo 102 numeral 2 de la Ley General;
 
-j) Sistema de Registro: Herramienta informática para el registro de aspirantes a Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público; y
+j) Sistema de Registro: Herramienta informática para la captura de información en los formatos para el registro de aspirantes a Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público; y
 
-k) Instructivo: Documento para la recepción de la documentación que presenten las y los aspirantes a los cargos de Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de los Organismos Públicos.
+k) Registro en línea: Modalidad de registro en la que cada aspirante digitaliza su documentación y la envía a la Unidad de Vinculación, a través del procedimiento establecido en la Convocatoria.
 
-l) Vacante: Separación generada por cualquier causa, que implique la imposibilidad de reincorporarse al cargo para concluir el periodo del nombramiento.
+l) Instructivo: Documento para la recepción de la documentación que presenten las y los aspirantes a los cargos de Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de los Organismos Públicos.
 
-m) Ausencia temporal: Separación del cargo, generada por cualquier causa justificada en el ejercicio de algún derecho, que impide atender el cargo sólo de manera provisional, para luego reincorporarse a las funciones.
+m) Vacante: Separación generada por cualquier causa, que implique la imposibilidad de reincorporarse al cargo para concluir el periodo del nombramiento.
+
+n) Ausencia temporal: Separación del cargo, generada por cualquier causa justificada en el ejercicio de algún derecho, que impide atender el cargo sólo de manera provisional, para luego reincorporarse a las funciones.
 
 > <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EN EL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2017, EL PRESENTE ARTÍCULO EN SU FRACCIÓN I CONTENÍA HASTA EL INCISO F) Y CON LA PRESENTE MODIFICACIÓN SE PRECISA ÚNICAMENTE HASTA EL INCISO E), LA FRACCIÓN II, PUNTO 2 CONTENÍA HASTA EL INCISO S), AHORA SE MENCIONA HASTA EL INCISO Q).]</small>
 
@@ -271,9 +275,13 @@ a) Apoyar a la Comisión de Vinculación con los trabajos que ésta requiera par
 
 b) En auxilio de la Comisión de Vinculación, coordinar la oportuna comunicación y trabajos con las áreas ejecutivas y las Juntas Locales y Distritales Ejecutivas;
 
-c) Operar el Sistema para recibir las solicitudes de registro de las y los aspirantes, en los formatos previstos en la Convocatoria;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
 
-d) Recibir los expedientes que remitan las Juntas Locales Ejecutivas;
+c) Operar el Sistema para recibir las solicitudes de registro de las y los aspirantes, a través de la Unidad de Vinculación en los formatos previstos en la Convocatoria;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+
+d) Recibir los expedientes, a través de la Unidad de Vinculación;
 
 e) Las demás que le confiera la Ley General, el presente Reglamento y las disposiciones aplicables en la materia.
 
@@ -305,7 +313,9 @@ d) Poner a disposición de la Comisión de Vinculación la información que le s
 
 e) Realizar los informes y estudios que le solicite la Comisión de Vinculación;
 
-f) Revisar las solicitudes recibidas y auxiliar a la Comisión de Vinculación en la verificación del cumplimiento de los requisitos legales de las y los aspirantes, y resguardar sus expedientes;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+
+f) Revisar y dar trámite a las solicitudes recibidas por correo electrónico con motivo del registro en línea, de conformidad con la Convocatoria y auxiliar a la Comisión de Vinculación en la verificación del cumplimiento de los requisitos legales de las y los aspirantes, y resguardar sus expedientes.
 
 g) Auxiliar al Consejo General, a la Secretaría Ejecutiva y a la Comisión de Vinculación en la notificación de acuerdos de designación, y
 
@@ -355,19 +365,17 @@ b) Realizar las diligencias que sean necesarias para dar fe pública acerca de a
 
 7. Corresponde a las Juntas Locales:
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2020)</small>
+
 I. Dentro del procedimiento de designación de las y los Consejeros Presidentes, Consejeras y Consejeros Electorales, las siguientes:
 
-a) Atender las instrucciones de la Comisión (sic) Vinculación, y por conducto de la Secretaría Ejecutiva, remitir información a la misma;
+a) Atender las instrucciones de la Comisión Vinculación, y por conducto de la Secretaría Ejecutiva, remitir información a la misma;
 
 b) Difundir ampliamente el contenido de las Convocatorias en su entidad federativa conforme a lo que establezca el Consejo General y el presente Reglamento;
 
-c) Operar el Sistema para recibir las solicitudes de registro de las y los aspirantes, en los formatos previstos en la Convocatoria, y proporcionarles un comprobante de recepción de la documentación que presenten, de conformidad con el instructivo que elabore la Unidad de Vinculación;
+c) Realizar el cotejo documental de las y los aspirantes, conforme a lo establecido en la Convocatoria, señalando las inconsistencias en los documentos presentados, las cuales serán puestas a consideración de la Comisión de Vinculación; y
 
-d) Registrar y concentrar las solicitudes correspondientes a su entidad federativa;
-
-e) Llevar a cabo el registro y cotejo documental de los aspirantes, elaborando una lista de aquéllos que presentaron su solicitud, señalando las inconsistencias en los documentos presentados, las cuales serán puestas a consideración de la Comisión de Vinculación; y
-
-f) Remitir a la Secretaría Ejecutiva los expedientes de las y los ciudadanos que se registraron.
+d) Remitir a la Secretaría Ejecutiva a través de la Unidad de Vinculación, los expedientes físicos y digitalizados de las y los ciudadanos que realizaron el cotejo documental.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
@@ -379,13 +387,13 @@ a) Coadyuvar en la realización de las diligencias de investigación que ordene 
 
 b) Las demás que le confiera la Ley General, el presente Reglamento y las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+
 8. Son atribuciones de las Juntas Distritales:
 
-a) Recibir las solicitudes de registro de las y los aspirantes, en los formatos previstos en la Convocatoria, y proporcionarles un comprobante de recepción de la documentación que presenten, de conformidad con el instructivo que elabore la Unidad de Vinculación;
+a) Coadyuvar con la Junta Local de su entidad en los actos y diligencias que le sean instruidos; y
 
-b) Coadyuvar con la Junta Local de su entidad en los actos y diligencias que le sean instruidos; y
-
-c) Las demás que le confiera la Ley General, el presente Reglamento y la Convocatoria respectiva.
+b) Las demás que le confiera la Ley General, el presente Reglamento y la Convocatoria respectiva.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
@@ -413,7 +421,9 @@ b) Registro de aspirantes y cotejo documental;
 
 c) Verificación de los requisitos legales;
 
-d) Examen de conocimientos;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+
+d) Examen de conocimientos y cotejo documental;
 
 e) Ensayo presencial; y
 
@@ -447,6 +457,8 @@ Artículo 8
 
 2. Las Convocatorias para la selección y designación de Consejera o Consejero Presidente y/o Consejeras y Consejeros Electorales de los Organismos Públicos, serán propuestas al Consejo General para su aprobación por la Comisión de Vinculación.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+
 3. La Convocatoria será pública para cada entidad federativa y contendrá como mínimo lo siguiente:
 
 a) Bases;
@@ -459,17 +471,19 @@ d) Órganos del Instituto ante quienes se deberán registrar las y los interesad
 
 e) Documentación necesaria para acreditar el cumplimiento de los requisitos legales;
 
-f) Etapas y plazos del proceso de selección y designación;
+f) Procedimiento para la modalidad de registro en línea en la que cada aspirante digitalizará su documentación y la enviará a la Unidad de Vinculación.
 
-g) Mecanismos de selección para cada etapa que permita evaluar los conocimientos, habilidades y competencias de los aspirantes;
+g) Etapas y plazos del proceso de selección y designación;
 
-h) Formalidades para la difusión del proceso de selección, así como para la notificación a las y los aspirantes;
+h) Mecanismos de selección para cada etapa que permita evaluar los conocimientos, habilidades y competencias de los aspirantes;
 
-i) Forma en que se realizará la notificación de la designación;
+i) Formalidades para la difusión del proceso de selección, así como para la notificación a las y los aspirantes;
 
-j) Los términos en que rendirán protesta las y los candidatos que resulten designados; y
+j) Forma en que se realizará la notificación de la designación;
 
-k) La atención de los asuntos no previstos.
+k) Los términos en que rendirán protesta las y los candidatos que resulten designados; y
+
+l) La atención de los asuntos no previstos.
 
 > <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EN EL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2017, EL PRESENTE ARTÍCULO EN SU NUMERAL 1 CONTENÍA HASTA EL INCISO K) Y CON LA PRESENTE REFORMA SE PRECISA ÚNICAMENTE HASTA EL INCISO J).]</small>
 
@@ -527,15 +541,13 @@ Artículo 10
 
 ### Capítulo III. Del registro de aspirantes
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
-
 Artículo 11
 
-1. Las y los ciudadanos interesados en participar en el procedimiento de selección y designación deberán registrarse en el sistema habilitado por el Instituto que para cada caso determine el Consejo General, conforme a lo siguiente:
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
 
-El registro se llevará a cabo a través de un formato de solicitud que deberá requisitar y firmar la o el aspirante.
+1. Las y los ciudadanos interesados en participar en el procedimiento de selección y designación, realizarán el registro en línea, conforme a lo siguiente:
 
-A la solicitud de registro se adjuntará, cuando menos, la documentación siguiente:
+Deberán capturar la información solicitada a través de los formatos habilitados en el Sistema de Registro. Una vez completados, deberán imprimirlos, firmarlos, escanearlos y remitirlos a la dirección electrónica establecida en la Convocatoria, adjuntando, cuando menos, la documentación siguiente:
 
 a) Copia certificada del acta de nacimiento;
 
@@ -551,11 +563,7 @@ d) Curriculum vitae firmado por la o el aspirante, el cual deberá contener, ent
 
 e) Carta con firma autógrafa en la que la o el aspirante manifieste bajo protesta de decir verdad:
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
-
 i. Tener ciudadanía mexicana por nacimiento y estar en pleno goce de sus derechos civiles y políticos;
-
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
 
 ii. No haber sido condenada o condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
 
@@ -569,11 +577,7 @@ vi. No haberse desempeñado durante los cuatro años previos a la designación c
 
 vii. No ser Jefa o Jefe de Gobierno de la Ciudad de México, ni Gobernadora o Gobernador, ni Secretaria o Secretario de Gobierno o su equivalente a nivel local;
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
-
 viii. No ser jefe o jefa delegacional, presidenta o presidente municipal, síndica o síndico o regidora o regidor o titular de dependencia de los ayuntamientos; y
-
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2019)</small>
 
 ix. La aceptación de concluir todo empleo, cargo o comisión en caso de ser designado como Consejero Presidente o Consejero Electoral.
 
@@ -585,17 +589,23 @@ ix. La aceptación de concluir todo empleo, cargo o comisión en caso de ser des
 
 3. La información y documentación que con motivo del procedimiento de selección se proporcione al Instituto, deberá ser veraz y auténtica. De no ser así, el aspirante no podrá continuar en el procedimiento de selección.
 
-> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
 
-4. Al momento de presentar la solicitud de registro, las y los aspirantes recibirán un acuse con la descripción de la información y documentación entregada al Instituto, el cual deberán firmar de conformidad. El mencionado comprobante tendrá como único propósito acusar de recibo la documentación ahí referida, sin que ello implique que se tenga por acreditado el cumplimiento de requisitos; lo anterior deberá asentarse en cada uno de los comprobantes de recepción que se emitan.
+4. Una vez recibida la documentación proporcionada por las y los aspirantes a través del Registro en línea, la Unidad de Vinculación la revisará y la cargará en el Sistema de Registro para generar el acuse de recepción con la descripción de la información y documentación enviada al Instituto, así como el folio de cada aspirante.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+En caso de que durante la revisión y carga de la documentación enviada se detectaran inconsistencias o información faltante, la Unidad Técnica realizará el requerimiento correspondiente.
+
+El acuse será remitido al correo electrónico proporcionado por cada aspirante, mismo que deberá ser firmado de conformidad y devuelto a la Unidad de Vinculación por la vía establecida en la Convocatoria.
+
+El mencionado comprobante tendrá como único propósito acusar de recibo la documentación ahí referida, sin que ello implique que se tenga por acreditado el cumplimiento de requisitos; lo anterior deberá asentarse en cada uno de los comprobantes de recepción que se emitan.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
 
 Artículo 12
 
-1. Las Juntas Locales serán responsables de integrar las solicitudes, documentos y expedientes de cada ciudadana o ciudadano que se registre ante dicho órgano y ante las Juntas Distritales, debiendo reportar su contenido a la Unidad de Vinculación, considerando los puntos siguientes:
+1. La Unidad de Vinculación será responsable de integrar los expedientes digitales de cada ciudadana o ciudadano que solicite su registro, considerando los puntos siguientes:
 
-a) Durante el periodo de recepción de solicitudes y hasta el día que señale la Convocatoria, integrarán los expedientes correspondientes.
+a) Durante el periodo de recepción de solicitudes y hasta el día que señale la Convocatoria, integrarán los expedientes digitales correspondientes.
 
 b) Capturarán el contenido de cada uno de los expedientes en el formato electrónico que se diseñe para tal efecto.
 
@@ -603,19 +613,17 @@ c) El registro de las y los aspirantes podrá ser consultado en todo momento por
 
 d) Revisar que los aspirantes exhiban la totalidad de los documentos exigidos por la convocatoria, de conformidad con el artículo 11 numeral 1 del presente Reglamento y llevar a cabo el cotejo documental o compulsa a que se refiere el artículo 5, párrafo 1, fracción III, inciso d) del presente Reglamento.
 
-e) Listar a las y los aspirantes que presentaron su solicitud, señalando las inconsistencias u omisiones en los documentos que acrediten el cumplimiento de los requisitos legales, las cuales serán puestas a consideración de la Comisión de Vinculación.
+e) Los expedientes digitales, les serán entregados en medio magnético a las y los Consejeros Electorales integrantes del Consejo General.
 
-f) Los expedientes formados por los órganos desconcentrados del Instituto serán remitidos a la Secretaría Ejecutiva, para que, junto con los que integre esta instancia, sean entregados a la o el Presidente de la Comisión de Vinculación. Al resto de las y los Consejeros del Consejo General se les entregará una copia en medio electrónico.
+f) La o el Secretario Técnico de la Comisión de Vinculación resguardará los expedientes digitales, los cuales podrán ser consultados por las y los integrantes del Consejo General.
 
-g) La o el Secretario Técnico de la Comisión de Vinculación resguardará los expedientes, los cuales podrán ser consultados por los integrantes del Consejo General.
+g) La información y documentación que integre los expedientes individuales de las y los aspirantes que por su naturaleza sea confidencial, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y el Reglamento del Instituto en materia de Transparencia y Acceso a la Información Pública, no podrá tener otro fin que el previsto en el procedimiento objeto del presente capítulo, ni ser utilizada o difundida salvo que medie el consentimiento expreso del titular. El Instituto deberá crear una versión pública de cada expediente en cumplimiento al principio de máxima publicidad.
 
-h) La información y documentación que integre los expedientes individuales de las y los aspirantes que por su naturaleza sea confidencial, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y el Reglamento del Instituto en materia de Transparencia y Acceso a la Información Pública, no podrá tener otro fin que el previsto en el procedimiento objeto del presente capítulo, ni ser utilizada o difundida salvo que medie el consentimiento expreso del titular. El Instituto deberá crear una versión pública de cada expediente en cumplimiento al principio de máxima publicidad.
-
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
 
 Artículo 13
 
-1. La Secretaría Ejecutiva y las Juntas Locales y Distritales no podrán descartar o rechazar solicitud alguna que se les presente.
+1. La Unidad de Vinculación no podrán descartar o rechazar solicitud alguna que se les presente.
 
 2. En caso de que algún aspirante no presente la totalidad de la documentación, podrá subsanar la omisión siempre y cuando se encuentre dentro del plazo de registro que establezca la Convocatoria.
 
@@ -627,11 +635,11 @@ Artículo 13
 
 ### Capítulo IV. De la verificación de los requisitos legales
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
 
 Artículo 14
 
-1. El día que señale la Convocatoria, la Secretaría Ejecutiva remitirá a la Comisión de Vinculación los expedientes originales de las y los ciudadanos inscritos, tanto en formato físico como electrónico, a través del mecanismo dispuesto para ello.
+1. La Unidad de Vinculación remitirá a las y los Consejeros Electorales integrantes de la Comisión de Vinculación, los expedientes en formato electrónico, a través del mecanismo dispuesto para ello.
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -639,11 +647,11 @@ Artículo 15
 
 1. La Unidad de Vinculación pondrá a disposición de las y los Consejeros Electorales integrantes de la Comisión de Vinculación, de los representantes de los partidos políticos y del poder legislativo acreditados ante la misma y del Consejo General, para su consulta, los expedientes a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
 
 Artículo 16
 
-1. La Comisión de Vinculación revisará la documentación presentada por las y los aspirantes para determinar si se acredita el cumplimiento de los requisitos establecidos en la Ley General, el presente Reglamento y en la Convocatoria.
+1. La Comisión de Vinculación revisará la documentación presentada en formato digital por las y los aspirantes para determinar si se acredita el cumplimiento de los requisitos establecidos en la Ley General, el presente Reglamento y en la Convocatoria.
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -659,7 +667,7 @@ Artículo 17
 
 ### Capítulo V. Del examen de conocimientos
 
-> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
 
 Artículo 18
 
@@ -675,7 +683,25 @@ Artículo 18
 
 6. Las solicitudes de revisión de los resultados de los exámenes serán atendidas en los términos que se señalen en la Convocatoria.
 
-7. La Comisión de Vinculación ordenará la publicación de los nombres y calificaciones de las y los aspirantes que acceden a la siguiente etapa, así como los folios y calificaciones de las y los que no pasen, procurando la paridad de género en la conformación de las listas de las y los aspirantes que accedan a dicha etapa, para lo que elaborará listas diferenciadas de hombres y mujeres que hayan aprobado el examen de conocimientos, procurando el mismo número de aspirantes por cada género. Las calificaciones aprobatorias serán públicas.
+7. La Comisión de Vinculación ordenará la publicación de los nombres y calificaciones de las y los aspirantes que acceden a la siguiente etapa, así como los folios y calificaciones de las y los que no pasen, garantizando la paridad de género en la conformación de las listas de las y los aspirantes que accedan a dicha etapa, para lo que elaborará listas diferenciadas de hombres y mujeres que hayan aprobado el examen de conocimientos, procurando el mismo número de aspirantes por cada género. Las calificaciones aprobatorias serán públicas.
+
+8. Las y los aspirantes que acrediten el examen y accedan a la etapa de ensayo, deberán acudir a la Junta Local Ejecutiva que corresponda, conforme al procedimiento establecido en la Convocatoria, para realizar, en su caso, el Cotejo documental, exhibiendo la documentación original que enviaron con su solicitud. De no ser así, la o el aspirante, no podrá continuar en el procedimiento de selección.
+
+9. Las Juntas Locales serán responsables de integrar los documentos y expedientes de cada aspirante que acredite el examen de conocimientos y que deberá presentarse a realizar el cotejo documental, debiendo reportar su contenido a la Unidad de Vinculación, considerando los puntos siguientes:
+
+a) Durante el cotejo documental, integrarán los expedientes correspondientes.
+
+b) Capturarán el contenido de la documentación recibida, en el formato que se diseñe para tal efecto.
+
+c) Revisarán que cada aspirante exhiba la totalidad de los documentos exigidos por la convocatoria, de conformidad con el artículo 11 numeral 1 del presente Reglamento y llevarán a cabo el cotejo documental o compulsa a que se refiere el artículo 5, párrafo 1, fracción III, inciso d) del presente Reglamento.
+
+d) Listarán a las y los aspirantes que realizaron el cotejo documental, señalando las inconsistencias u omisiones en los documentos presentados, las cuales serán puestas a consideración de la Comisión de Vinculación. La Unidad Técnica realizará los requerimientos correspondientes para la debida integración del expediente físico.
+
+e) Los expedientes formados por los órganos desconcentrados del Instituto serán remitidos a la Secretaría Ejecutiva para que sean entregados a la o el Presidente de la Comisión de Vinculación.
+
+f) La o el Secretario Técnico de la Comisión de Vinculación resguardará los expedientes, los cuales podrán ser consultados por las y los integrantes del Consejo General.
+
+g) La información y documentación que integre los expedientes individuales de las y los aspirantes que por su naturaleza sea confidencial, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y el Reglamento del Instituto en materia de Transparencia y Acceso a la Información Pública, no podrá tener otro fin que el previsto en el procedimiento objeto del presente capítulo, ni ser utilizada o difundida salvo que medie el consentimiento expreso de la o el titular.
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -735,7 +761,9 @@ Artículo 22
 
 4. El Consejo General, a propuesta de la Comisión de Vinculación, aprobará los criterios a evaluar en esta etapa y la ponderación que corresponda a cada uno de ellos, así como la cédula que se empleará para este propósito.
 
-5. La Comisión de Vinculación procurará la paridad de género en la conformación de las listas de las y los aspirantes que accedan a dicha etapa, para lo que elaborará listas diferenciadas de hombres y mujeres cuyo ensayo presencial haya sido dictaminado como idóneo, procurando el mismo número de aspirantes por cada género.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+
+5. La Comisión de Vinculación garantizará la paridad de género en la conformación de las listas de las y los aspirantes que accedan a dicha etapa, para lo que elaborará listas diferenciadas de hombres y mujeres cuyo ensayo presencial haya sido dictaminado como idóneo, procurando el mismo número de aspirantes por cada género.
 
 6. Las entrevistas se realizarán conforme al calendario que previamente apruebe la Comisión de Vinculación.
 
@@ -769,9 +797,13 @@ Artículo 23
 
 Artículo 24
 
-1. Cuando se trate de la designación de un cargo, la Comisión de Vinculación presentará al Consejo General una lista de hasta cinco ciudadanas y ciudadanos, en la que se procurará la paridad de género para que de ésta se designe a quien ocupará el cargo.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
 
-2. Cuando se trate de la designación de más de un cargo, la Comisión de Vinculación pondrá a consideración del Consejo General una sola lista con los nombres de la totalidad de los candidatos para ocupar todas las vacantes, en la que se procurará la paridad de género para que de ésta se designe a quienes ocuparán los cargos.
+1. Cuando se trate de la designación de un cargo, la Comisión de Vinculación presentará al Consejo General una lista de hasta cinco ciudadanas y ciudadanos, en la que se garantizará la paridad de género para que de ésta se designe a quien ocupará el cargo.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+
+2. Cuando se trate de la designación de más de un cargo, la Comisión de Vinculación pondrá a consideración del Consejo General una sola lista con los nombres de la totalidad de las y los candidatos para ocupar todas las vacantes, en la que se garantizará la paridad de género para que de ésta se designe a quienes ocuparán los cargos.
 
 3. Las propuestas de las y los candidatos deberán contener un Dictamen debidamente fundado y motivado, que incluya todas las etapas del proceso de selección y las calificaciones obtenidas por los candidatos en cada una de ellas, además de los elementos a partir de los cuales se determinó la idoneidad y capacidad para el cargo de las y los aspirantes.
 
@@ -787,7 +819,9 @@ Artículo 24
 
 8. Las Consejeras y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos designados, deberán rendir la protesta de ley en la sede del Consejo General del Organismo Público. En dicha protesta deberá incluirse el respeto a la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, así como el apego a los principios rectores de la función electoral.
 
-9. En todos los casos, se procurará la paridad de género en la integración del órgano máximo de dirección de los Organismos Públicos.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+
+9. En todos los casos, se garantizará la paridad de género en la integración del órgano máximo de dirección de los Organismos Públicos.
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
@@ -811,7 +845,9 @@ Artículo 26
 
 Artículo 27
 
-1. En cada una de las etapas se procurará atender la igualdad de género.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+
+1. En cada una de las etapas se garantizará atender la igualdad de género.
 
 2. Las y los aspirantes serán evaluados en atención a los principios de objetividad e imparcialidad y sin discriminación motivada por origen étnico, género, condición social, orientación religiosa, preferencias sexuales, estado civil o cualesquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
@@ -1258,3 +1294,15 @@ SEGUNDO. Se instruye a la Secretaría Ejecutiva para que a través de la Unidad 
 TERCERO. Publíquese el presente Acuerdo y el Reglamento, en el Diario Oficial de la Federación.
 
 CUARTO. El presente Acuerdo entrará en vigor al momento de su aprobación, modificándose el Reglamento.
+
+D.O.F. 22 DE JUNIO DE 2020.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES”.]</small>
+
+PRIMERO. Se aprueba la modificación del Reglamento conforme al cuadro del considerando 29 del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Secretaría Ejecutiva para que a través de la Unidad Técnica haga del conocimiento de los órganos máximos de dirección de los OPL el contenido del presente Acuerdo.
+
+TERCERO. Publíquese el presente Acuerdo y el Reglamento, en el Diario Oficial de la Federación.
+
+CUARTO. La presente modificación al Reglamento entrará en vigor el día de su aprobación.
