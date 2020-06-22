@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-reconstruccion-integral-de-la-ciudad-de-mexico-1319
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-07"
-last_updated: "2019-05-29"
+last_updated: "2020-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131975&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-07"
 
 LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 7 de diciembre de 2018.
 
@@ -182,9 +182,11 @@ Es facultad de la Comisión solicitar informes en cualquier momento y es obligac
 
 El equipo de trabajo conformado por los enlaces de las dependencias, se reunirán todos los días con la finalidad de dar seguimiento puntual a las acciones, avances y temas relacionados; y de manera mensual, en su calidad de Consejo Consultivo con la representación de Personas Damnificadas de las colonias de mayor afectación y contará con la participación del Congreso. Además, se podrá convocar a cualquier otra reunión, con la finalidad de atender temas extraordinarios, urgentes o de cualquier otra índole que se considere relevante atender.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2020)</small>
+
 ###### Artículo 16.
 
-Las secretarías y organismos del Gobierno de la Ciudad que participan en el proceso de Reconstrucción, de manera enunciativa más no limitativa, son las siguientes:
+Las Secretarías y Organismos del Gobierno de la Ciudad que participan en el proceso de Reconstrucción, de manera enunciativa mas no limitativa, son las siguientes:
 
 A. Las Alcaldías;
 
@@ -206,13 +208,19 @@ I. Secretaría de Cultura;
 
 J. Secretaría de Desarrollo Económico;
 
-K. Secretaría de Desarrollo Social;
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+K. Secretaría de Inclusión y Bienestar Social;
 
 L. Secretaría de Desarrollo Urbano y Vivienda;
 
-M. Secretaría de Educación;
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
 
-N. Secretaría de Finanzas;
+M. Secretaría de Educación, Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+N. Secretaría de Administración y Finanzas;
 
 O. Secretaría de Gobierno;
 
@@ -222,15 +230,25 @@ Q. Secretaría de Movilidad;
 
 R. Secretaría de Obras y Servicios;
 
-S. Secretaría de Protección Civil y de la Gestión Integral de Riesgos;
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+S. Secretaría de Gestión Integral de Riesgos y Protección Civil;
 
 T. Secretaría de Salud;
 
-U. Secretaría de Seguridad Pública,
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+U. Secretaría de Seguridad Ciudadana;
 
 V. Sistema de Aguas de la Ciudad de México y
 
-W. El Tribunal Superior de Justicia de la Ciudad de México.
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+W. Tribunal Superior de Justicia de la Ciudad de México; y
+
+> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+X. Las demás entidades que determine el Plan Integral para la Reconstrucción.
 
 Su intervención se detallará en el Plan Integral para la Reconstrucción.
 
@@ -296,21 +314,39 @@ e) Optar por algunas de las formas de organización, ya sea en sociedad en condo
 
 En el caso en que no sea posible acreditar la propiedad, legítima posesión o causahabiencia, el Gobierno de la Ciudad de México, podrá intervenir por causa de utilidad pública para realizar una adquisición por vía de derecho público, ya sea de manera total o parcial, para su regularización y consecuente restitución. Previo análisis, valoración, y en su caso aprobación de la Comisión, para cada caso en particular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2020)</small>
 
 ###### Artículo 26.
 
-Cuando la Reconstrucción del Inmueble Afectado multifamiliar requiera de un mecanismo o esquema de financiamiento adicional, previa solicitud a la Comisión, las Personas Damnificadas podrán optar por alguna de las siguientes opciones:
+Cuando la reconstrucción del inmueble afectado multifamiliar requiera de un mecanismo o esquema de financiamiento adicional, previa solicitud a la Comisión, las Personas Damnificadas podrán optar por alguna de las siguientes opciones:
 
 > <small>(REFORMADO, G.O. 29 DE MAYO DE 2019)</small>
 
 a) Un incremento de hasta 35% del total construido con anterioridad al sismo, de la densidad respecto de la Zonificación, asignada en el Programa de Desarrollo Urbano que corresponda, con el propósito de que las Personas Damnificadas cuenten con una alternativa económica para la reconstrucción del inmueble afectado pudiendo incluir inversión pública o privada.
 
-b) La redensificación necesaria para redistribuir la misma superficie de edificación preexistente. En este caso las Personas Damnificadas cederán un porcentaje de la superficie edificable que les corresponde, con el fin de construir viviendas adicionales con inversión privada.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 22 DE JUNIO DE 2020)</small>
 
-En ambas opciones, las Personas Damnificadas deberán determinar de manera conjunta los mecanismos para la venta de las viviendas adicionales y así garantizar la recuperación de la inversión a quien se las otorgó.
+b) La redensificación necesaria para distribuir la misma superficie de edificación preexistente. En este caso las Personas Damnificadas cederán un porcentaje igual de la superficie edificable que les corresponde con el fin de construir viviendas adicionales con inversión pública o privada.
 
-Ambos mecanismos se detallarán en el Plan Integral de Reconstrucción y se garantizará la opción más adecuada en cada caso para que las Personas Damnificadas no se endeuden.
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], G.O. 22 DE JUNIO DE 2020)</small>
+
+Ambos mecanismos se detallarán en el Plan Integral para la Reconstrucción y se garantizará en conjunto con las Personas Damnificadas la opción más adecuada.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], G.O. 22 DE JUNIO DE 2020)</small>
+
+Las Personas Damnificadas que elijan la opción a que se refiere el inciso a), deberán hacer la donación de dicho porcentaje a la Ciudad de México, cuando se trate de inversión pública, para su posterior comercialización y venta por parte de esta. Los recursos que por tal concepto se obtengan, deberán aportarse finalmente al Fideicomiso.
+
+> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+La donación a que se refiere el párrafo anterior, la administración, la comercialización y la venta, entre otros relacionados con los inmuebles resultantes del incremento hasta del 35% reconstruidos con inversión pública, se realizarán sin que sean aplicables las disposiciones de la Ley (sic) Régimen Patrimonial y del Servicio Público y de la normatividad que derive de dicho ordenamiento legal.
+
+> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+Los actos y actividades mencionados en el párrafo que antecede serán realizados por la Ciudad de México, a través de la Comisión, el Fideicomiso, la Secretaría de Administración y Finanzas, o el ente público que se designe para tal efecto, en los términos establecidos en el Plan Integral para la Reconstrucción.
+
+> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+Las Personas Damnificadas propietarias en coordinación con la Comisión podrán destinar los inmuebles multifamiliares en proceso de obra como espacios publicitarios, de conformidad con la ley de la materia, con el objetivo de obtener recursos complementarios. Este mecanismo de coordinación se detallará en el Plan Integral para la Reconstrucción.
 
 ###### Artículo 27.
 
@@ -420,13 +456,15 @@ XIV. Reglamento de Obras del Distrito Federal;
 
 Así como demás ordenamientos legales relacionados con la materia de Reconstrucción de la Ciudad.
 
-> <small>(REFORMADO, G.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2020)</small>
 
 ###### Artículo 41.
 
-La Comisión contará con las facultades más amplias para agilizar la regularización de la situación legal de los títulos de las personas damnificadas ante las instancias competentes y realizar cualquier acto no previsto en la presente Ley, con la finalidad de no retrasar la Reconstrucción.
+La Comisión contará con las facultades más amplias para agilizar la regularización de la situación legal de los títulos de las Personas Damnificadas ante las instancias competentes y realizar cualquier acto no previsto en la presente Ley, con la finalidad de no retrasar la Reconstrucción.
 
-El Gobierno de la Ciudad de México a través de la Comisión podrá transmitir a las personas damnificadas a título gratuito u oneroso, los inmuebles resultantes de los procesos de Reconstrucción, incluyendo aquellos que se adquieran por vías de derecho público y en su caso privado, sin que sean aplicables en dichas adquisiciones y transmisiones lo dispuesto en la Ley del Régimen Patrimonial y del Servicio Público del Distrito Federal y la normatividad que se derive de dicho ordenamiento legal.
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+La Ciudad de México, a través de la Comisión, el Fideicomiso, la Secretaría de Administración y Finanzas, o el ente público que se designe en el Plan Integral para la Reconstrucción, podrá transmitir a las Personas Damnificadas a título gratuito u oneroso, los inmuebles resultantes de los procesos de Reconstrucción, incluyendo aquellas que se adquieran, por vías de derecho público y, en su caso privado, sin que sean aplicables en dichas adquisiciones y transmisiones lo dispuesto en la Ley del Régimen Patrimonial y de Servicio Público y la normatividad que se derive de dicho ordenamiento legal.
 
 ###### Artículo 42.
 
@@ -471,3 +509,15 @@ PRIMERO: El presente Decreto entra en vigor al siguiente día después de su pub
 SEGUNDO: Remítase a la Jefa de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO: Para efectos de lo dispuesto en este Decreto, las disminuciones o condonaciones en materia de contribuciones dispuestas en el Código Fiscal de la Ciudad de México, deberán ajustarse en lo dispuesto en los artículos 44 del Código Fiscal de la Ciudad de México y 123 y 125 de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México y lo dispuesto en la Resolución de carácter general mediante la cual se otorgan facilidades administrativas y se condona totalmente y exime el pago de diversas contribuciones y aprovechamientos publicada en el (sic) Gaceta Oficial de la Ciudad de México el 24 de enero de 2019.
+
+G.O. 22 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LOS INCISOS K., M., N., S., U. Y W. DEL ARTÍCULO 16; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 41; Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 16; EL INCISO B) Y CINCO PÁRRAFOS AL ARTÍCULO 26; DE LA LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- La persona Titular de la Jefatura de Gobierno, emitirá las disposiciones jurídicas necesarias para proveer en la esfera administrativa la aplicación de este Decreto.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
