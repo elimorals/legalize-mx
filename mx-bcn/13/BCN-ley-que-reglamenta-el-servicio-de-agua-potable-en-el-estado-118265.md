@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-19"
-last_updated: "2020-05-12"
+last_updated: "2020-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 19 de enero de 2017.
 
@@ -493,6 +493,10 @@ Para los efectos de la estimación presuntiva a que se refiere el artículo ante
 
 I.- Calcular la cantidad de agua que el usuario pudo obtener o aprovechar en forma permanente durante el periodo por el cual se efectúe la estimación de conformidad con el diametro de tubería utilizada para conectarse a la red de distribución;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2020)</small>
+
+En el supuesto de que el usuario no sea doméstico, el periodo por el cual se efectúe la estimación deberá contabilizase desde la fecha en que el organismo operador mediante dictamen identifique que el usuario tuvo acceso al servicio, y en caso de que no fuere posible determinar fecha cierta, la estimación se realizará hasta por un máximo de 10 años o bien a partir de la fecha en que el usuario compruebe el inicio de operaciones.
+
 II.- Calcular la cantidad de agua residual que el usuario pudo descargar o desalojar en forma permanente durante el periodo por el cual se efectúe la estimación de conformidad con el diámetro de tubería utilizada para conectarse a la red de drenaje y alcantarillado sanitario; y en el caso de las aguas residuales provenientes de las actividades productivas, también se tomara en cuenta el tipo de contaminación de las mismas;
 
 III.- Calcular la cantidad de agua que el usuario pudo obtener, aprovechar o descargar, con la información obtenida mediante métodos y medidas técnicas establecidas por el Organismo encargado del servicio;
@@ -631,9 +635,11 @@ La resolución que en su caso se emita deberá notificarse al usuario, así como
 
 DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 92.
 
-A los que debiendo contar con los servicios de agua potable y alcantarillado sanitario, no los soliciten dentro del plazo que fija el artículo 5, fracciones II y III de esta Ley, o impidan su instalación, se les impondrá una multa de 10 a 20 salarios mínimos.
+A los que debiendo contar con los servicios de agua potable y alcantarillado sanitario, no los soliciten dentro del plazo que fija el artículo 5, fracciones II y III de esta Ley, o impidan su instalación, se les impondrá una multa de 20 a 40 UMA diarias vigentes.
 
 ###### ARTICULO 93.
 
@@ -645,67 +651,117 @@ Se impondrán las siguientes multas:
 
 I.- A los que practiquen o manden practicar derivaciones de las tuberías generales de distribución, de los ramales de éstas o de las cajas de válvulas, para surtir de agua a un predio o establecimiento, sin apegarse a lo dispuesto en esta Ley:
 
-a).- Si la derivación se utiliza para una toma de uso doméstico, multa de 1 a 10 salarios mínimos; y
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-b).- Si la derivación se destina a una toma de uso comercial, industrial u otro que implique lucro, multa de 50 a 100 salarios mínimos.
+a).- Si la derivación se utiliza para una toma de uso doméstico, multa de 10 a 100 UMA diarias vigentes;
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+b).- Si la derivación se destina a una toma de uso comercial, industrial u otro que implique lucro, multa de 100 a 500 UMA diarias vigentes.
 
 II.- A los que, contraviniendo lo dispuesto en el Artículo 6°, practiquen, manden practicar o consientan que se lleven a cabo en forma provisional o permanente, sin la autorización del Organismo encargado del servicio derivaciones de agua:
 
-a).- De un predio con toma doméstica a otro u otros con tomas semejantes, multa de 1 a 2 salarios mínimos;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-b).- De un predio con toma doméstica a otro u otros, con tomas de uso comercial o industrial, si los establecimientos están obligados a tener un sistema especial, conforme a lo dispuesto en la fracción II del artículo 3, multa de 20 a 60 salarios mínimos;
+a).- De un predio con toma doméstica a otro u otros con tomas semejantes, multa de 10 a 20 UMA diarias vigentes;
 
-c).- De una toma comercial o industrial a otro u otros establecimientos con tomas de la misma índole, ya sea que estén en el mismo predio u otros predios, multa de 25 a 50 salarios mínimos; y
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-d).- De una toma comercial o industrial a un predio al que corresponde una toma doméstica, multa de 5 a 10 salarios mínimos. Cuando la derivación de agua a otros predios se haga a título oneroso, la multa podrá duplicarse.
+b).- De un predio con toma doméstica a otro u otros, con tomas de uso comercial o industrial, si los establecimientos están obligados a tener un sistema especial, conforme a lo dispuesto en la fracción II del artículo 3, multa de 100 a 500 UMA diarias vigentes;
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+c).- De una toma comercial o industrial a otro u otros establecimientos con tomas de la misma índole, ya sea que estén en el mismo predio u otros predios, multa de 50 a 200 UMA diarias vigentes, y
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+d).- De una toma comercial o industrial a un predio al que corresponde una toma doméstica, multa de 20 a 100 UMA diarias vigentes. Cuando la derivación de agua a otros predios se haga a título oneroso, la multa podrá duplicarse.
 
 Existirá infracción al Artículo 6° en los casos a que se refieren los incisos a), b), c), y d) de esta Fracción, aún cuando los predios, giros o establecimientos que reciban el servicio de agua como consecuencia de las derivaciones, sean del mismo propietario que aquellos de donde parten dichas derivaciones, y no obstante que el consumo se registre por el aparato medidor.
 
 III.- A los que, en cualquiera forma distinta de las señaladas en las dos fracciones anteriores, proporcionen servicio de agua permanente, ya sea a título gratuito u oneroso, a los propietarios, poseedores u ocupantes por cualquier concepto, de predios, giros y establecimientos que conforme a las disposiciones de esta Ley, están obligados a surtirse de agua del servicio público:
 
-a).- Si se hace a título gratuito, multa de 1 a 2 salarios mínimos; y,
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-b).- Si se hace a título oneroso, multa de 10 a 50 salarios mínimos.
+a).- Si se hace a título gratuito, multa de 5 a 10 UMA diarias vigentes, y
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+b).- Si se hace a título oneroso, multa de 20 a 100 UMA diarias vigentes.
 
 IV.- Asimismo en los siguientes casos:
 
-a).- A quienes impidan que los empleados del Organismo encargado del servicio, autorizados y debidamente identificados, el examen de los aparatos medidores para la toma de lectura del consumo de agua, multa de 10 a 20 salarios mínimos. En caso de reincidencia, la multa podrá duplicarse;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-b).- A quien cause daño intencional a un aparato medidor multa de 10 a 20 salarios mínimos. En caso de reincidencia, la multa podrá duplicarse;
+a).- A quienes impidan que los empleados del Organismo encargado del servicio, autorizados y debidamente identificados, (sic) el examen de los aparatos medidores para la toma de lectura del consumo de agua, multa de 40 a 200 UMA diarias vigentes. En caso de reincidencia, la multa podrá duplicarse;
 
-c).- A quien viole los sellos de un aparato medidor, multa de 10 a 30 salarios mínimos. En caso de reincidencia, la multa podrá duplicarse;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-d).- Al que, por cualquier medio, altere el consumo marcado en los medidores, multa de 10 a 30 salarios mínimos. En caso de reincidencia, la multa podrá duplicarse;
+b).- A quien cause daño intencional a un aparato medidor multa de 40 a 200 UMA diarias vigentes. En caso de reincidencia, la multa podrá duplicarse;
 
-e).- Al que, por cualquier medio, haga que el aparato medidor no registre el consumo; multa de 10 a 30 salarios mínimos. En caso de reincidencia, la multa podrá duplicarse;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-f).- Al que por sí o por medio de otro sin estar legalmente autorizado para hacerlo, retire transitoria o definitivamente un medidor, por cualquier causa, varíe su colocación o lo cambie de lugar, multa de 5 a 10 salarios mínimos. Si retira el medidor de manera definitiva o por más de 15 días, la multa podrá duplicarse;
+c).- A quien viole los sellos de un aparato medidor, multa de 40 a 200 UMA diarias vigentes. En caso de reincidencia, la multa podrá duplicarse;
 
-g).- Al que, personalmente o valiéndose de otro, cambie de lugar o haga modificaciones o manipulaciones en cualquier forma a los ramales de las tuberías de distribución comprendidos entre la llave de inserción y la llave de retención interior del predio o establecimiento, colocada después del aparato medidor, multa de 5 a 20 salarios mínimos;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-h).- A los propietarios, encargados o arrendatarios de predios, giros o establecimientos, o sus familiares, allegados o dependientes o cualquier otra persona que se encuentre en ellos, por no permitir la inspección de instalaciones interiores, a los empleados autorizados y debidamente identificados del Organismo encargado del servicio, multa de 5 a 10 salarios mínimos;
+d).- Al que, por cualquier medio, altere el consumo marcado en los medidores, multa de 40 a 200 UMA diarias vigentes. En caso de reincidencia, la multa podrá duplicarse;
 
-i).- A los que se nieguen a proporcionar, sin causa justificada, los informes que el Organismo encargado del servicio les pida en relación con el servicio de agua potable, multa de 1 a 5 salarios mínimos;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-j).- A los funcionarios o empleados que concedan licencia para construcciones, sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio en que vaya a construirse, multa de 5 a 10 salarios mínimos;
+e).- Al que, por cualquier medio, haga que el aparato medidor no registre el consumo; multa de 40 a 200 UMA diarias vigentes. En caso de reincidencia, la multa podrá duplicarse;
 
-k).- Al que, por emplear mecanismos para succionar agua de las tuberías de distribución, ocasione o no deficiencias en el servicio o daños en las instalaciones, multa de 10 a 20 salarios mínimos;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-l).- A los notarios que autoricen contratos relativos a bienes inmuebles, contraviniendo lo que dispone el artículo 104, multa de 10 a 20 salarios mínimos;
+f).- Al que por sí o por medio de otro sin estar legalmente autorizado para hacerlo, retire transitoria o definitivamente un medidor, por cualquier causa, varíe su colocación o lo cambie de lugar, multa de 20 a 100 UMA diarias vigentes. Si retira el medidor de manera definitiva o por más de 15 días, la multa podrá duplicarse;
 
-m).- A los funcionarios o empleados que inscriban en el Registro Público de la Propiedad y de Comercio, algún contrato de los mencionados en el artículo 105 sin que se cumpla la condición que el mismo establece, multa de 5 a 10 salarios mínimos;
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-n).- A los funcionarios o empleados que autoricen el traspaso o traslado de giros mercantiles o industriales, sin que cumplan con lo que preceptúa el artículo 106, multa de 10 a 20 salarios mínimos; y
+g).- Al que, personalmente o valiéndose de otro, cambie de lugar o haga modificaciones o manipulaciones en cualquier forma a los ramales de las tuberías de distribución comprendidos entre la llave de inserción y la llave de retención interior del predio o establecimiento, colocada después del aparato medidor, 20 a 100 UMA diarias vigentes;
 
-o).- A los que cometan cualquier otra infracción a las disposiciones de esta Ley, no especificada en las fracciones que anteceden, multa de 5 a 25 salarios mínimos.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
 
-V. A quienes teniendo servicio de agua de uso doméstico lo destinen para uso comercial, industrial o cualquier otro no doméstico, multa de 20 a 100 salarios mínimos, sin perjuicio de que el Organismo encargado del servicio efectúe el registro del uso que corresponda. Para los efectos de esta Ley, cuando se haga referencia a la palabra salario mínimo, se entenderá que se trata del salario mínimo general vigente en el Estado de Baja California.
+h).- A los propietarios, encargados o arrendatarios de predios, giros o establecimientos, o sus familiares, allegados o dependientes o cualquier otra persona que se encuentre en ellos, por no permitir la inspección de instalaciones interiores, a los empleados autorizados y debidamente identificados del Organismo encargado del servicio, multa de 20 a 100 UMA diarias vigentes;
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+i).- A los que se nieguen a proporcionar, sin causa justificada, los informes que el Organismo encargado del servicio les pida en relación con el servicio de agua potable, multa de 10 a 20 UMA diarias vigentes;
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+j).- A los funcionarios o empleados que concedan licencia para construcciones, sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio en que vaya a construirse, multa de 20 a 50 UMA diarias vigentes;
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+k).- Al que, por emplear mecanismos para succionar agua de las tuberías de distribución, ocasione o no deficiencias en el servicio o daños en las instalaciones, multa de 20 a 100 UMA diarias vigentes;
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+l).- A los notarios que autoricen contratos relativos a bienes inmuebles, contraviniendo lo que dispone el artículo 104, multa de 50 a 100 UMA diarias vigentes;
+
+REFORMADO, P.O. 22 DE JUNIO DE 2020)
+
+m).- A los funcionarios o empleados que inscriban en el Registro Público de la Propiedad y de Comercio, algún contrato de los mencionados en el artículo 105 sin que se cumpla la condición que el mismo establece, multa de 20 a 50 UMA diarias vigentes;
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+n).- A los funcionarios o empleados que autoricen el traspaso o traslado de giros mercantiles o industriales, sin que cumplan con lo que preceptúa el artículo 106, multa de 20 a 50 UMA diarias vigentes;
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+o).- A los que cometan cualquier otra infracción a las disposiciones de esta Ley, no especificada en las fracciones que anteceden, multa de 20 a 100 UMA diarias vigentes.
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
+
+V.- A quienes teniendo servicio de agua de uso doméstico lo destinen para uso comercial, industrial o cualquier otro no doméstico, multa de 50 a 200 UMA diarias vigentes, sin perjuicio de que el Organismo encargado del servicio efectúe el registro del uso que corresponda.
 
 ###### ARTICULO 95.
 
 En los casos de las fracciones I y II del artículo 94 además de las sanciones que en dicho artículo se establecen, los propietarios o poseedores de los predios que hayan recibido el servicio de agua potable como consecuencia de esas infracciones, están obligados:
 
-I.- A cubrir el importe de los derechos causados por el servicio de agua potable conforme a las tarifas aplicables, a partir de la fecha en que hubieren practicado la derivación. Si no es posible precisar esa fecha, se cobrarán los derechos correspondientes a cinco años anteriores al descubrimiento de la infracción, y si ésta data de menos de cinco años, será a partir de la fecha de su apertura;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
+
+I.- A cubrir el importe de los derechos causados por el servicio de agua potable conforme a las tarifas aplicables, a partir de la fecha en que hubieren practicado la derivación. Si no es posible precisar esa fecha, se cobrarán los derechos correspondientes a partir de la fecha de su apertura, o bien, a cinco años anteriores al descubrimiento de la infracción tratándose de usuarios de uso doméstico y a diez años en el caso de usuarios no domésticos;
 
 II.- A solicitar la instalación de la toma correspondiente de acuerdo con las prevenciones de esta Ley, si existe el servicio, dentro de los diez días siguientes al descubrimiento de la infracción.
 
@@ -717,19 +773,25 @@ I.- Por falta de cumplimiento a lo que dispone el artículo 49.
 
 II.- Por no cubrir o garantizar, por medio de depósito o fianza, dentro del término de treinta días contados a partir de la fecha de la notificación respectiva, el importe de las sanciones pecuniarias que establece esta Ley;
 
-III.- Por falta de pago de las cuotas por servicio de agua por tres meses o más.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2020)</small>
+III.- Por falta de pago de las cuotas por servicio de agua por un mes o más.
 
-IV.- De manera inmediata, cuando intencionalmente el propietario del giro, se suministre el servicio de agua potable sin autorización del Organismo, mediante toma directa o derivación, o cuando dolosamente retire, manipule, destruya o altere el medidor que determina la facturación del consumo de agua o retire cualquier aditamento instalado para el control del suministro del agua potable.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 20 DE MARZO DE 2020]</small>
+IV.- De manera inmediata, cuando intencionalmente el propietario del giro, se suministre el servicio de agua potable sin autorización del Organismo, mediante toma directa o derivación o cuando dolosamente retire, manipule, destruya o altere el medidor que determina la facturación del consumo de agua o retire cualquier aditamento instalado para el control del suministro del agua potable.
 
-Cuando el usuario impida por cualquier medio la toma de la lectura, las comisiones podrán solicitar y hacerse acompañar de la fuerza pública.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2020)</small>
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 20 DE MARZO DE 2020]</small>
+V.- Por falta de pago de derechos de conexión al sistema de agua potable y alcantarillado sanitario en los términos de la legislación fiscal aplicable.
 
-En el caso de que para la toma de lectura sea necesario que las Comisiones realicen acciones o trabajos de afectación en la vía pública para llegar a la toma, éstas podrán realizarlas sin la autorización previa de los municipios, debiendo de informar al municipio al término de éstas, mediante escrito debidamente fundado y motivado sobre las acciones realizadas en la vía pública. En estos casos el usuario será responsable de los costos de reparación de infraestructura de vía pública afectada.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2020)</small>
+
+VI.- Por falta de pago por las obras de introducción de las redes de agua potable y alcantarillado sanitario en los términos de las disposiciones fiscales y hacendarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2020)</small>
+
+Cuando el usuario impida por cualquier medio la toma de la lectura, las comisiones podrán solicitar y hacerse acompañar de la fuerza pública. En el caso de que para la toma de lectura sea necesario que las Comisiones realicen acciones o trabajos de afectación en la vía pública para llegar a la toma, éstas podrán realizarlas sin la autorización previa de los municipios, debiendo de informar al municipio al término de éstas, mediante escrito debidamente fundado y motivado sobre las acciones realizadas en la vía pública. En estos casos el usuario será responsable de los costos de reparación de infraestructura de (sic) vía pública afectada.
 
 ###### ARTICULO 97.
 
@@ -938,3 +1000,11 @@ P.O. 12 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO CUARTO DEL "DECRETO No. 67 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 21 Y SE ADICIONA EL CAPÍTULO XIV DENOMINADO "DE LA SECRETARÍA PARA EL MANEJO, SANEAMIENTO Y PROTECCIÓN DEL AGUA" AL TÍTULO SEGUNDO, ASÍ COMO EL ARTÍCULO 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 76 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; CÓDIGO FISCAL PARA EL ESTADO DE BAJA CALIFORNIA; CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO 2020”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los Organismos Operadores del Agua dentro de un plazo que no excederá de noventa días naturales contados a partir de la entrada en vigor de la presente reforma, realizarán las adecuaciones administrativas y reglamentarias necesarias para la implementación de la presente reforma.
