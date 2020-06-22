@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-03-04"
+last_updated: "2020-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2020.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -461,6 +461,20 @@ El Congreso, en un plazo de 10 días hábiles a partir de la recepción de la pr
 En caso de que el Congreso no emita opinión dentro de dicho plazo, será procedente la propuesta enviada por la o el Jefe de Gobierno. Los Órganos Autónomos y de Gobierno, de conformidad con las disposiciones de esta Ley deberán coadyuvar al cumplimiento de las normas de disciplina y de equilibro presupuestarios a que se refiere el presente artículo y esta Ley, a través de ajustes en sus respectivos presupuestos. Asimismo, deberán reportar los ajustes realizados en el informe trimestral y en la Cuenta Pública.
 
 Para el caso de las Alcaldías, la Secretaría se coordinará con éstas, para que en el ámbito de sus respectivas competencias, analicen, autoricen y apliquen las medidas de disciplina y equilibrio presupuestal que plantee la o el Jefe de Gobierno.
+
+> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+###### Artículo 23 Bis.
+
+Cuando la disminución en los ingresos previstos en el calendario mensual de recaudación se presente de manera concurrente con una emergencia sanitaria o desastre natural, la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, únicamente durante el ejercicio fiscal en el que duren estos supuestos, aplicará las medidas de disciplina y equilibrio presupuestario, ordenando a las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades llevar a cabo las reducciones a su presupuesto de egresos en los rubros de gasto que no constituyan un subsidio entregado directamente a la población, a efecto de salvaguardar el interés social y público de la Ciudad, debiendo observar en todo momento la ética, la austeridad republicana, la transparencia, la responsabilidad y la rendición de cuentas. En caso de no hacerlo, la Secretaría estará facultada para realizar las adecuaciones necesarias.
+
+Para el caso de los Poderes Legislativo, Judicial y los Órganos Autónomos, éstos se deberán coordinar con la Secretaría para que aprueben, en un plazo máximo de 10 días naturales las adecuaciones a su presupuesto.
+
+En caso de que los Poderes Legislativo, Judicial y los Órganos Autónomos no realicen las adecuaciones a sus presupuestos o no resulten suficientes, la persona titular de la Jefatura de Gobierno enviará al Congreso Local la iniciativa con el monto a reducir en el Decreto de Presupuesto de Egresos, para que por conducto de la Comisión de Presupuesto y Cuenta Pública se examine, discuta y, en su caso, apruebe o modifique en un plazo de 15 días hábiles a partir del día siguiente al de su recepción.
+
+Si la Comisión respectiva no emitiera el dictamen, la iniciativa deberá presentarse en el pleno para su discusión y análisis en los términos como fue presentada.
+
+Las modificaciones realizadas deberán reportarse en un apartado específico del Informe Trimestral y de la Cuenta Pública, que contenga el monto de gasto reducido, su composición, desagregado por Unidades Responsables del Gasto, así como la explicación a detalle de los fundamentos, motivos y razonamientos de tales ajustes.
 
 ###### Artículo 24.
 
@@ -1111,6 +1125,10 @@ En el caso de las Alcaldías, tendrán 3 días para hacerlo o manifestar lo que 
 De igual forma actuará la Secretaría para el caso que por disposición legal se encuentren obligadas a presentar adecuaciones y no las efectúen dentro de los plazos legales establecidos.
 
 Cuando el ajuste alcance o rebase en forma acumulada el 10% del presupuesto anual asignado a cada Dependencia, Órgano Desconcentrado, Alcaldías y Entidad, la o el Jefe de Gobierno, por conducto de la Secretaría, deberá solicitar la opinión al Congreso para que ésta manifieste lo conducente, informando en un capítulo especial del Informe de Avance Trimestral, la conciliación de las modificaciones realizadas, explicando a detalle los fundamentos, motivos y razonamientos de tales ajuste (sic).
+
+> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
+
+Lo dispuesto en el párrafo anterior no será aplicable tratándose de emergencia sanitaria o desastre natural, en cuyo supuesto la persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, aplicará únicamente durante el ejercicio fiscal en el que duren estos supuestos, las modificaciones al contenido orgánico y financiero de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, informando al Congreso conforme lo señalado en el último párrafo del artículo 23 Bis de la presente Ley.
 
 ###### Artículo 89.
 
@@ -2103,3 +2121,13 @@ G.O. 4 DE MARZO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 22 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL SE ADICIONA EL ARTÍCULO 23 BIS Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 88 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación.
+
+TERCERO.- Las referencias hechas en el presente Decreto a los Órganos Autónomos se entenderán realizadas a los Organismos Autónomos.
