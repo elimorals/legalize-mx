@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2020-06-20"
+last_updated: "2020-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -4361,9 +4361,9 @@ Cohecho cometido por particulares.- El que dé, prometa o entregue cualquier ben
 
 Peculado impropio.- Cualquier persona que sin tener el carácter de servidor público estatal y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos estatales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó, se le aplicará de seis meses a tres años de prisión y de cincuenta a cien días multa.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPÍTULO IX. DELITOS CONTRA LA PRESTACIÓN DE SERVICIOS PÚBLICO (SIC) DE AGUA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2020)</small>
 
 ###### Artículo 311.
 
@@ -4391,9 +4391,9 @@ Coacción a la autoridad.- Al que por medio de la violencia física o moral exij
 
 Consumación de medios de apremio.- Cuando la Ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiesen agotado tales medios.
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO I. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 316.
 
@@ -4401,9 +4401,9 @@ Tipo y punibilidad.- Al que indebidamente destruya, retire, o de cualquier otro 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ENERO DE 1997)</small>
 
-### CAPITULO III. EVASION DE PRESOS
+### CAPITULO II. FRAUDE PROCESAL
 
-> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 317.
 
@@ -4431,23 +4431,25 @@ Tipo y punibilidad.- Al que, con el propósito de obstruir el desempeño de las 
 
 La pena señalada en el párrafo anterior se aumentará hasta en una mitad cuando se utilicen niñas, niños, adolescentes o personas que no tienen la capacidad para comprender el significado del hecho o se utilice algún vehículo de servicio público de transporte u otro que, por sus características exteriores, haga parecer que se trata de vehículos destinados al servicio de transporte público, o de alguna institución de seguridad pública.
 
-### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO III. EVASION DE PRESOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 318.
 
 Tipo y punibilidad.- Se impondrá prisión de uno a seis años y de cien a trescientos días multa, al que sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal.
 
-### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 319.
 
 Tipo y punibilidad.- Se impondrá prisión de uno a seis años y cien a trescientos días multa, al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura que correspondan aquellos.
 
-### CAPITULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 320.
 
@@ -4467,7 +4469,7 @@ Presentación de testigos falsos y otros.- Al que presente testigos falsos conoc
 
 Además de las penas a que se refiere el párrafo anterior, el perito, intérprete o traductor sufrirá inhabilitación para desempeñar sus funciones hasta por dos años.
 
-### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPITULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### Artículo 322.
 
@@ -4477,15 +4479,45 @@ I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra perso
 
 II.- Al que, para eludir la práctica de una diligencia judicial o una notificación de cualquier clase o citación de una autoridad, oculte su domicilio o designe otro distinto o niegue de cualquier modo el verdadero.
 
-### CAPITULO I. DELITOS CONTRA EL MEDIO AMBIENTE
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
+### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+
+###### Artículo 322 Bis.
+
+Se castigará con pena de tres meses a tres años de prisión y multa de 100 a 500 veces el valor de la Unidad de Medida y Actualización vigente además de la reparación del daño en los términos de ley proceda quién (sic):
+
+I. Sin autorización de la autoridad competente, use, aproveche o beneficie de los servicios públicos de agua potable, drenaje y alcantarillado prestados por los organismos operadores;
+
+II. Instale tomas de agua o derivaciones de estas en inmueble, sin tener derecho o la autorización de la autoridad competente en los términos de ley;
+
+III. Rompa sellos o altere aditamentos, instalados por los organismos operadores para el control y consumo del suministro de agua potable;
+
+IV. Distribuya agua potable a través de pipas utilizando una fuente de abastecimiento diversa a la autorizada en los términos de la ley, sin contar con el permiso correspondiente, y
+
+V. Sin causa justificada impida o restrinja de cualquier forma el flujo del agua destinado al suministro de los usuarios de servicio, o la medición del consumo del mismo.
+
+Se aumentará hasta en una mitad de la sanción cuando las conductas las cometan personas morales o dueños de establecimientos comerciales o industriales.
+
+El presente delito se perseguirá de oficio, en los términos y condiciones que establece el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+###### Artículo 322 Ter.
+
+Se sancionará de tres a cinco años de prisión y multa de 100 a 700 veces el valor de la Unidad de Medida y Actualización vigente al servidor público, que por sí o por conducto de tercero, facilite, permita, partícipe o autorice, cualquiera de las conductas previas (sic) en él presente Capitulo por persona física o moral.
+
+Se aumentará hasta en una mitad la sanción cuando el servidor público en el ejercicio de sus funciones o con motivo de ellas tenga conocimiento de la probable comisión de algún delito previsto en el presente capitulo y no lo denuncie ante la autoridad competente.
+
+Lo anterior, independientemente de las sanciones aplicables conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+El presente delito se perseguirá de oficio, en los términos y condiciones que establece el Código Nacional de Procedimientos Penales.
 
 ## TITULO CUARTO. DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. MALTRATO O CRUELDAD ANIMAL
+### CAPITULO I. DELITOS CONTRA EL MEDIO AMBIENTE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
 
 ###### Artículo 323.
 
@@ -4545,7 +4577,9 @@ XV.- Obtener cualquier cantidad o beneficio económico de los internos o sus fam
 
 Suspensión y privación de funciones públicas.- Los servidores públicos que incurran en cualquiera de los delitos previstos en el artículo anterior, serán suspendidos en sus funciones por el término de uno a tres años. En caso de reincidencia, serán privados definitivamente del derecho a ejercer cualquier función pública.
 
-### CAPITULO UNICO
+### CAPITULO II. MALTRATO O CRUELDAD ANIMAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 325.
 
@@ -4554,8 +4588,6 @@ Tipo y punibilidad.- Al que simule un acto jurídico, o un acto o escritos judic
 Si del juicio que se sigue en contra de un depositario judicial, resultare como consecuencia el secuestro de una cosa embargada o depositada con anterioridad, cualquiera que sea la persona contra la cual se sigue el juicio, se presumirá que éste fue simulado.
 
 ### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### Artículo 326.
 
@@ -4586,6 +4618,10 @@ Evasión del preso o detenido y excención (sic) de pena por arrepentimiento pos
 ###### Artículo 331.
 
 Evasión culposa.- También es punible la comisión culposa de la evasión de presos.
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
 
 ###### Artículo 332.
 
@@ -6044,3 +6080,9 @@ P.O. 20 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 78 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 242 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 76 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; CÓDIGO FISCAL PARA EL ESTADO DE BAJA CALIFORNIA; CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO 2020”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
