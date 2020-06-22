@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2020-05-29"
+last_updated: "2020-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -451,9 +451,9 @@ X.- Secretaría del Trabajo;
 
 XI.- Secretaría de Seguridad Pública;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, B.O. 22 DE JUNIO DE 2020)</small>
 
-XII.- Secretaría Técnica y de Atención Ciudadana; y
+XII.- Secretaría Técnica; y
 
 > <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -625,63 +625,89 @@ Las atribuciones y funciones Subsecretarías y demás áreas que integren la Con
 
 La Secretaría de la Consejería Jurídica, para el debido cumplimiento de sus funciones, podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
 
-> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE JUNIO DE 2020)</small>
 
-ARTICULO 23 BIS 2.- La Secretaría Técnica y de Atención Ciudadana será la responsable de desarrollar los estudios y proyectos estratégicos, de la atención ciudadana y de la comunicación gubernamental, para lo anterior tendrá las facultades siguientes:
+ARTICULO 23 BIS 2.- La Secretaría Técnica será la responsable de desarrollar los estudios y proyectos estratégicos del Gobierno del Estado, además de dirigir y coordinar la comunicación gubernamental, para lo anterior tendrá las facultades siguientes:
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
 
 I. Dar seguimiento a indicadores relevantes de temas de carácter económico, social y político que se le encomienden y formular los estudios y análisis correspondientes;
 
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
 II. Realizar los análisis, estudios e investigación que le permitan diseñar proyectos estratégicos sobre creación o mejoras de planes y programas de políticas públicas a implementar por el Titular del Ejecutivo del Estado;
-
-III. Efectuar los estudios y análisis sobre situaciones de orden económico, social y político en la entidad;
-
-IV. Atender de manera personalizada a la ciudadanía que acude a las oficinas del Titular del Ejecutivo del Estado para solicitar algún apoyo, atención o manifestar alguna queja o sugerencia;
-
-V. Atender y dar seguimiento hasta su conclusión a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa al Titular del Ejecutivo del Estado en las diferentes ramas de la administración pública, que le sean turnados para su atención;
-
-VI. Coordinar el registro, análisis, clasificación y gestión de la documentación recibida en giras de trabajo, oficialía de partes, medios de comunicación, redes sociales, correo electrónico, vía telefónica, programas radiofónicos y televisivos y Presidencia de la República, entre otros, para su canalización a las instancias correspondientes;
-
-VII. Establecer los procedimientos de atención a las demandas ciudadanas;
-
-VIII. Registrar y controlar la documentación soporte mediante un sistema automatizado de Control de Gestión, así como elaborar reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención;
-
-IX. Programar y coordinar la audiencia pública que atenderá el Titular del Ejecutivo, conjuntamente con los titulares de las dependencias y entidades paraestatales del Estado;
-
-X. Elaborar con base a los registros de peticiones que reciba, reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención;
-
-XI. Presentar al Titular del Ejecutivo del Estado proyectos de planes y programas que deban desarrollar las dependencias de la administración pública estatal que le permitan atender las peticiones ciudadanas;
-
-XII. Establecer las políticas y estrategias de comunicación gubernamental que permitan captar las demandas y necesidades de la sociedad;
-
-XIII. Autorizar las normas y políticas sobre la imagen institucional del Gobierno del Estado;
-
-XIV. Autorizar las publicaciones y materiales promocionales para la difusión de las acciones gubernamentales;
-
-XV. Establecer normas, lineamientos y programas para promover la realización de campañas de comunicación gubernamental;
-
-XVI. Promover la coordinación y colaboración del Poder Ejecutivo Estatal con los medios de comunicación;
-
-XVII. Coordinar con el apoyo de las dependencias y entidades paraestatales de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación gubernamental;
-
-XVIII. Coordinar y dirigir el sistema de medios de comunicación propiedad del Gobierno del Estado, en específico Televisora de Hermosillo, S.A. de C.V. (Telemax) y Radio Sonora;
-
-XIX. Realizar las tareas inherentes al monitoreo a medios de comunicación en general;
-
-XX. Programar la contratación de los medios de comunicación para el desarrollo de campañas de difusión del Titular del Ejecutivo del Estado, así como de las dependencias, entidades paraestatales y fideicomisos de la administración pública del Estado;
-
-XXI. Preparar el diseño gráfico de la imagen institucional, de las publicaciones y materiales promocionales de las actividades de la administración pública del Estado; y
-
-XXII. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular del Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
 
 > <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
 
-ARTICULO 23 BIS 3.- La Secretaría Técnica y de Atención Ciudadana, para el cumplimiento de sus facultades, estará integrada por las Unidades Administrativas siguientes:
+III. Efectuar los estudios y análisis sobre situaciones de orden económico, social y político en la entidad;
 
-l. Coordinación General de Comunicación Social;
+IV. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
 
-II. Dirección General de Atención Ciudadana; y
+V. (DEROGADA, B.O. 22 DE JUNIO DE 2020).
 
-III. Dirección General de Estudios y Proyectos Estratégicos.
+VI. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+
+VII. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+
+VIII. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+
+IX. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+
+X. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+
+XI. (DEROGADA, B.O. 22 DE JUNIO DE 2020)
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XII. Establecer las políticas y estrategias de comunicación gubernamental que permitan captar las demandas y necesidades de la sociedad;
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XIII. Autorizar las normas y políticas sobre la imagen institucional del Gobierno del Estado;
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XIV. Autorizar las publicaciones y materiales promocionales para la difusión de las acciones gubernamentales;
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XV. Establecer normas, lineamientos y programas para promover la realización de campañas de comunicación gubernamental;
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XVI. Promover la coordinación y colaboración del Poder Ejecutivo Estatal con los medios de comunicación;
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XVII. Coordinar con el apoyo de las dependencias y entidades paraestatales de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación gubernamental;
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XVIII. Coordinar y dirigir el sistema de medios de comunicación propiedad del Gobierno del Estado, en específico Televisora de Hermosillo, S.A. de C.V. (Telemax) y Radio Sonora;
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XIX. Realizar las tareas inherentes al monitoreo a medios de comunicación en general;
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XX. Programar la contratación de los medios de comunicación para el desarrollo de campañas de difusión del Titular del Ejecutivo del Estado, así como de las dependencias, entidades paraestatales y fideicomisos de la administración pública del Estado;
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XXI. Preparar el diseño gráfico de la imagen institucional, de las publicaciones y materiales promocionales de las actividades de la administración pública del Estado; y
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XXII. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular del Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO, B.O. 22 DE JUNIO DE 2020)</small>
+
+ARTICULO 23 BIS 3.- La Secretaría Técnica, para el cumplimiento de sus facultades, estará integrada por las Unidades Administrativas siguientes:
+
+I. Coordinación General de Comunicación Social; y
+
+II. Dirección General de Estudios y Proyectos Estratégicos.
 
 Además de las Unidades Administrativas descritas anteriormente, contará con las direcciones y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
@@ -1370,6 +1396,26 @@ VI.- Vigilar la correcta aplicación de los recursos financieros destinados a lo
 VII.- Asesorar y prestar asistencia técnica a los municipios que así lo soliciten, en materia de desarrollo social; y
 
 VIII.- Diseñar e instrumentar políticas y programas para la atención de las micro regiones de más alta marginación en el Estado.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 22 DE JUNIO DE 2020)</small>
+
+C.·En materia de atención ciudadana:
+
+I. Atender de manera personalizada a la ciudadanía que acude a las oficinas del Titular del Ejecutivo del Estado para solicitar algún apoyo, atención o manifestar alguna queja o sugerencia;
+
+II. Atender y dar seguimiento hasta su conclusión a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa al Titular del Ejecutivo del Estado en las diferentes ramas de la administración pública, que le sean turnados para su atención;
+
+III. Coordinar el registro, análisis, clasificación y gestión de la documentación recibida en giras de trabajo, oficialía de partes, medios de comunicación, redes sociales, correo electrónico, vía telefónica, programas radiofónicos y televisivos y Presidencia de la República, entre otros, para su canalización a las instancias correspondientes;
+
+IV. Establecer los procedimientos de atención a las demandas ciudadanas;
+
+V. Registrar y controlar la documentación soporte mediante un sistema automatizado de Control de Gestión, así como elaborar reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención;
+
+VI. Programar y coordinar la audiencia pública que atenderá el Titular del Ejecutivo, conjuntamente con los titulares de las dependencias y entidades paraestatales del Estado;
+
+VII. Elaborar con base a los registros de peticiones que reciba, reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención; y
+
+VIII. Presentar al Titular del Ejecutivo del Estado proyectos de planes y programas que deban desarrollar las dependencias de la administración pública estatal que le permitan atender las peticiones ciudadanas.
 
 > <small>(REFORMADO [ADICIONADO], B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -2558,3 +2604,11 @@ Por lo que hace a las autoridades que no se renuevan mediante procesos electoral
 ###### ARTÍCULO TERCERO.
 
 La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
+
+B.O. 22 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 119, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
