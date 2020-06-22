@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2019-02-22"
+last_updated: "2020-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -165,7 +165,9 @@ XIII. Tener acceso a los satisfactores necesarios, considerando alimentos, biene
 
 XIV. Tener acceso preferente a los servicios de salud, en los términos del párrafo cuarto del artículo 4 de la Constitución Política de los Estados Unidos Mexicanos, con el objeto de que gocen cabalmente de bienestar físico, mental, psicoemocional y sexual;
 
-XV. Recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
+
+XV. Recibir por parte de especialistas médicos Valoración Geriátrica Integral, además de orientación y capacitación en materia de salud, nutrición e higiene, así como todo aquello que favorezca su capacidad personal;
 
 XVI. Conformar organizaciones para promover su desarrollo e incidir en las acciones dirigidas a este sector;
 
@@ -529,7 +531,9 @@ I. Garantizar el acceso a la atención médica en las clínicas y hospitales pú
 
 II. Promover la atención especial, que deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre las personas adultas mayores, así como de atención y asistencia a quienes sufran de discapacidades funcionales. Asimismo, los programas de salud incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento saludable;
 
-III. Proveer a las personas adultas mayores de una cartilla médica de salud y autocuidado, misma que será utilizada indistintamente en las instituciones públicas y privadas; en la cual se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos y dosis administradas, reacciones e implementos para ingerirlos, alimentación o tipo de dieta suministrada, consultas médicas y asistencias a grupos de autocuidado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
+
+III. Realizar Valoración Geriátrica Integral, además, proveer a las personas adultas mayores de una cartilla médica de salud y autocuidado, misma que será utilizada indistintamente en las instituciones públicas y privadas; en la cual se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos y dosis administradas, reacciones e implementos para ingerirlos, alimentación o tipo de dieta suministrada, consultas médicas y asistencias a grupos de autocuidado;
 
 IV. Diseñar y ejecutar programas de asesoría en materia de alimentación y nutrición adecuados para las personas adultas mayores;
 
@@ -966,3 +970,11 @@ P.O. 22 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 317 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 27 Y 35 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 73 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8 Y 39 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las presentes reformas serán aplicadas acorde a los convenios federales de la materia y la disponibilidad presupuestaria del sector salud.
