@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-las-comisiones-estatales-de-servicios-publicos-del-11826
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-19"
-last_updated: "2020-05-12"
+last_updated: "2020-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
 
 Ley publicada en el Número Especial al 4 del Periódico Oficial del Estado de Baja California, el jueves 19 de enero de 2017.
 
@@ -119,7 +119,7 @@ El Gobernador del Estado será el Presidente del Consejo y en sus ausencias temp
 
 ###### ARTÍCULO 8.
 
-Los Consejeros a que se refieren las facciones I, II, III y IV del artículo 5 de esta Ley, durarán en su cargo mientras sean titulares de la Dependencia, y serán sustituidos automáticamente por el nuevo titular. Los consejeros representantes de la Iniciativa Privada, durarán en su cargo dos años, debiendo ser nuevamente propuestos y designados.
+Los Consejeros a que se refieren las facciones (sic) I, II, III y IV del artículo 5 de esta Ley, durarán en su cargo mientras sean titulares de la Dependencia, y serán sustituidos automáticamente por el nuevo titular. Los consejeros representantes de la Iniciativa Privada, durarán en su cargo dos años, debiendo ser nuevamente propuestos y designados.
 
 ###### ARTÍCULO 9.
 
@@ -231,6 +231,22 @@ La obligación de pago de las cuotas por consumo de agua y por realización de l
 
 Respecto de las cantidades que no hubieren sido cubiertas directamente a la Comisión, el cobro se realizará por conducto de las Oficinas Subrecaudadoras de Rentas adscritas a la Comisión, conforme al Código Fiscal del Estado, las que podrán hacer uso del procedimiento económico-coactivo, el importe del cobro que se recupere del procedimiento, deberá ingresarse a la Comisión que lo generó.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+###### ARTÍCULO 22.
+
+Las Comisiones Estatales de Servicios Públicos contarán con la siguiente estructura interna:
+
+I.- Dirección General;
+
+II.- Subdirección de Administración y Finanzas;
+
+III.- Subdirección Comercial, y
+
+IV.- Subdirección Técnica.
+
+Las atribuciones e integración de las unidades administrativas señaladas en las fracciones anteriores se regularán conforme a los Reglamentos Internos de cada una las Comisiones.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Decreto mediante el que se expide la Ley de las Comisiones Estatales de Servicios Públicos del Estado de Baja California, entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
@@ -298,3 +314,11 @@ P.O. 12 DE MAYO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Cada Comisión Estatal de Servicios Públicos deberá presentar al Ejecutivo Estatal las reformas a sus Reglamento Internos en apego a la presente reforma, para su aprobación y publicación.
+
+P.O. 22 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 76 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; CÓDIGO FISCAL PARA EL ESTADO DE BAJA CALIFORNIA; CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO (SIC) LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO 2020”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A más tardar dentro de los sesenta días naturales contados a partir de la entrada en vigor de la presente reforma, las Comisiones Estatales de Servicios Públicos realizarán una revisión a sus respectivas estructuras administrativas, con el objetivo de analizar y eficientar su forma de organización, que les permita cumplir de la mejor manera con el objeto social para lo que fueron creadas, sometiendo a consideración de sus respectivos órganos de gobierno las mejoras detectadas.
