@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-140204"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2020-05-15"
+last_updated: "2020-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
 
 Ley publicada en la Sección I del Número Especial del Periódico Oficial del Estado de Baja California, el martes 31 de diciembre de 2019.
 
@@ -349,9 +349,9 @@ Los derechos por consumo de agua que a continuación se expresan para cada uno d
 
 Se derogan las disposiciones que se establezcan en otras Leyes, reglamentos, acuerdos, circulares o disposiciones administrativas en la parte que contengan exenciones, totales o parciales, beneficios o estímulos fiscales, o consideren a personas como no sujetos (sic) de estos derechos, distintas a las comprendidas en las Leyes que establezcan contribuciones locales y al Código Fiscal del Estado.
 
-#### SECCIÓN I
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
 
-MUNICIPIO DE MEXICALI.
+#### SECCIÓN I. MUNICIPO DE MEXICALI
 
 A).- SERVICIO MEDIDO.
 
@@ -493,7 +493,9 @@ En los casos en que el usuario cambie el uso de suelo de doméstico a no domést
 
 Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
 
-E).- TOMAS Y DESCARGAS NO REGISTRADAS.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2020)</small>
+
+E).- TOMAS Y DESCARGAS NO REGISTADAS (SIC)
 
 l.- En caso de que sea detectada una toma no registrada instalada en este Municipio, el cobro será de la siguiente manera:
 
@@ -501,7 +503,9 @@ a).- En la detección de tomas no registradas domésticas, se tomará como base 
 
 En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 10, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un periodo máximo de 6 meses.
 
-b).- En la detección de tomas no registradas en locales, establecimientos y desarrollos comerciales, turísticos, industriales y gubernamentales, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+b).- En la detección de tomas no registradas en locales, establecimientos y desarrollos comerciales, turísticos, industriales y gubernamentales, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma, y si no fuere posible determinar fecha cierta hasta por un máximo de 10 años, a la tarifa vigente de la Ley de Ingreso del Estado en la fecha en que sea detectada dicha toma.
 
 La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
 
@@ -559,9 +563,9 @@ B).- De 10.1 a 30 lps $27,009.17
 
 C).- Más de 30.1 lps $35,331.01
 
-#### SECCIÓN II
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
 
-MUNICIPIO DE ENSENADA.
+#### SECCIÓN II. MUNICIPIO DE ENSENADA
 
 A).- SERVICIO MEDIDO.
 
@@ -693,6 +697,8 @@ En los casos en que el usuario cambie el uso de suelo de doméstico a no domést
 
 Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2020)</small>
+
 E).- TOMAS Y DESCARGAS NO REGISTRADAS.
 
 1.- En caso de que sea detectada una toma no registrada instalada en este Municipio, el cobro será de acuerdo a la siguiente manera:
@@ -701,7 +707,9 @@ a).- En la detección de tomas domésticas no registradas, se tomará como base 
 
 En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 10, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período mínimo de 6 meses.
 
-b).- En la detección de tomas no registradas comerciales, industriales, de desarrollos turísticos, gubernamentales, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha toma.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+b).- En la detección de tomas no registradas comerciales, industriales, de desarrollo turísticos, gubernamentales, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma, y si no fuere posible determinar fecha cierta hasta por un máximo de 10 años, a la tarifa vigente de la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha toma.
 
 La determinación del período para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
 
@@ -755,9 +763,9 @@ Costo unitario por visita $566.87
 
 Por hora adicional $188.97
 
-#### SECCIÓN III
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
 
-MUNICIPIO DE TIJUANA.
+#### SECCIÓN III. MUNICIPIO DE TIJUANA
 
 A).- SERVICIO MEDIDO.
 
@@ -889,6 +897,8 @@ En los casos en que el usuario cambie el uso de suelo de doméstico a no domést
 
 Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2020)</small>
+
 E).- TOMAS Y DESCARGAS NO REGISTRADAS.
 
 1.- En caso de que sea detectada una toma no registrada instalada en el Municipio de Tijuana, el cobro será de acuerdo a la siguiente manera:
@@ -897,7 +907,9 @@ a).- En la detección de tomas no registradas domésticas, se tomará como base 
 
 En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 10, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
 
-b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma, y si no fuere posible determinar fecha cierta hasta por un máximo de 10 años, a la tarifa vigente de la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha toma.
 
 La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
 
@@ -963,9 +975,9 @@ c) Hoteles, solicitadas por los usuarios de dicho servicio $3,371.88
 
 13.- Por localización de descarga $361.05
 
-#### SECCIÓN IV
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
 
-MUNICIPIO DE PLAYAS DE ROSARITO.
+#### SECCIÓN IV. MUNICIPIO DE PLAYAS DE ROSARITO
 
 A).- SERVICIO MEDIDO.
 
@@ -1095,6 +1107,8 @@ En los casos en que el usuario cambie el uso de suelo de doméstico a no domést
 
 Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la ley de ingresos vigente en la fecha que se determine la diferencia.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2020)</small>
+
 E).- TOMAS Y DESCARGAS NO REGISTRADAS.
 
 1.- En caso de que sea detectada una toma no registrada instalada en el Municipio de Playas de Rosarito, el cobro será de acuerdo a la siguiente manera:
@@ -1103,7 +1117,9 @@ a).- En la detección de tomas no registradas domésticas, se tomará como base 
 
 En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 10, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
 
-b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma, y si no fuere posible determinar fecha cierta hasta por un máximo de 10 años, a la tarifa vigente de la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha toma.
 
 La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
 
@@ -1169,9 +1185,9 @@ c) Hoteles, solicitadas por los usuarios de dicho servicio $3,371.88
 
 13.- Por localización de descarga $361.05
 
-#### SECCIÓN V
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
 
-MUNICIPIO DE TECATE.
+#### SECCIÓN V. MUNICIPIO DE TECATE
 
 A).- SERVICIO MEDIDO.
 
@@ -1313,6 +1329,8 @@ En los casos en que el usuario cambie el uso de suelo de doméstico a no domést
 
 Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2020)</small>
+
 E).- TOMAS Y DESCARGAS NO REGISTRADAS.
 
 l.- En caso de que sea detectada una toma no registrada instalada en este Municipio, el cobro será de acuerdo a la siguiente manera:
@@ -1321,7 +1339,9 @@ a).- En la detección de tomas domésticas no registradas, se tomará como base 
 
 En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 10, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
 
-b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma, y si no fuere posible determinar fecha cierta hasta por un máximo de 10 años, a la tarifa vigente de la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha toma.
 
 La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
 
@@ -3156,3 +3176,7 @@ P.O. 15 DE MAYO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Las contribuciones señaladas en la presente reforma a la Ley de Ingresos del Estado de Baja California para el Ejercicio Fiscal del año 2020, serán los vigentes y por ende aplicables en todo el Estado en materia del servicio público de transporte, por lo tanto los Municipios de la entidad, contarán con un plazo no mayor a 60 días a partir de la publicación del presente Decreto, para dejar de cobrarlos.
+
+P.O. 22 DE JUNIO DE 2020.
+
+> <small>[N. DE E. EL "DECRETO No. 76 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; CÓDIGO FISCAL PARA EL ESTADO DE BAJA CALIFORNIA; CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO 2020", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
