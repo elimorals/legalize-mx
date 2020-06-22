@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-administracion-publica-municipal-9639
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-21"
-last_updated: "2020-05-05"
+last_updated: "2020-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
 
 Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
@@ -231,7 +231,9 @@ X. Coadyuvar en materia electoral, según le señalen las leyes o los convenios 
 
 XI. Representar jurídicamente al Municipio en todos aquellos actos administrativos cuando esté legalmente facultado para ello;
 
-XII. Nombrar y remover libremente a los servidores de la Administración Pública Municipal;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
+
+XII. Nombrar y remover libremente a los servidores de la Administración Pública Municipal, observando el principio de paridad de género.
 
 XIII. Crear e implementar las comisiones administrativas que permitan el mejor desempeño y atención de los asuntos de la Administración Pública Municipal; y
 
@@ -337,9 +339,13 @@ XIX. Las demás que les señalen la o el Presidente Municipal y la normatividad 
 
 Con el propósito de procurar mayor eficiencia en el despacho de los asuntos de la Administración Pública Municipal, las secretarías quedan obligadas a coordinarse entre sí cuando la naturaleza de sus funciones así lo requiera, así también, proporcionar la información que entre ellas se soliciten.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 20.
 
 Para la organización y administración de los servicios públicos en el Municipio, se habrán de nombrar, de acuerdo a sus propias atribuciones legales, por la o el Presidente Municipal, los funcionarios y empleados necesarios para el cumplimiento de los planes, programas y proyectos, en concordancia a lo establecido por el presupuesto de egresos que se formule anualmente para el Municipio.
+
+La o el Presidente Municipal deberá observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de la administración municipal.
 
 ###### ARTÍCULO 21.
 
@@ -3367,11 +3373,19 @@ A la o el Titular de la Dirección General Jurídica corresponde formular los pr
 
 ### CAPÍTULO I. DE LAS ENTIDADES PARAMUNICIPALES
 
-###### ARTÍCULO 115.
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE JUNIO DE 2020)</small>
+
+###### ARTICULO 115.
 
 Para el despacho de los asuntos del orden administrativo estratégicos, prioritarios o sustantivos la o el Presidente Municipal se auxiliará de los organismos descentralizados, empresas de participación municipal y los fideicomisos públicos, que serán considerados como entidades paramunicipales, con los objetivos que expresamente señalen las disposiciones legales establecidas en sus decretos de creación correspondientes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE JUNIO DE 2020)</small>
+
 La o el Presidente Municipal podrá solicitar a los miembros del Ayuntamiento la creación, fusión o liquidación de organismos descentralizados, empresas de participación municipal o disponer la constitución y liquidación de fideicomisos públicos, para la atención del objeto que expresamente le encomienda la ley.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2020)</small>
+
+La o el Presidente Municipal deberá observar el Principio de Paridad de Género en los nombramientos de las personas titulares de los organismos señalados en el primer párrafo de este artículo.
 
 Estos organismos pueden ser los siguientes:
 
@@ -3660,3 +3674,13 @@ PRIMERO: Las Comisiones Permanentes de Gobernación, Bandos, Reglamentos y Circu
 SEGUNDO.- Derivado de lo anterior, se somete a la consideración de este Honorable Ayuntamiento el presente dictamen para su aprobación correspondiente, por lo que en caso de ser aprobado, remítase a la Secretaria de Contraloría Municipal para su publicación en la Página de Internet Oficial del Municipio de Pachuca de Soto y al Periódico Oficial del Estado de Hidalgo para su publicación.
 
 TERCERO: El Presente decreto entrara en vigor al día siguiente de las publicaciones antes referidas.
+
+P.O. 22 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA Y NUEVE QUE REFORMA LOS ARTÍCULOS 15 FRACCIÓN XII, 20 Y 115 DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La observancia del principio de paridad de género a que se refieren los artículos 20 y 115 del presente Reglamento, será aplicable a quiénes tomen posesión de su encargo, a partir del cambio de gobierno siguiente a la entrada en vigor del presente Decreto.
+
+TERCERO.- Por lo que hace a la administración actual, la observancia al principio de paridad señalado en los artículos 20 y 115 habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan.
