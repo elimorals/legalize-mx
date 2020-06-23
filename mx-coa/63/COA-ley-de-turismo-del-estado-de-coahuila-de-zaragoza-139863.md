@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-del-estado-de-coahuila-de-zaragoza-139863"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-27"
-last_updated: "2019-12-27"
+last_updated: "2020-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Coahuila, el día viernes 27 de diciembre de 2019.
 
@@ -613,13 +613,33 @@ m. Una persona representante de la Asociación Mexicana de Agencias de Viajes de
 
 n. Una persona representante de la Asociación de Tour operadores de Coahuila;
 
-o. Dos personas representantes de la Asociación Mexicana de Hoteles y Moteles de Coahuila;
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2020)</small>
 
-p. Una persona representante de la Cámara Nacional de la Industria de Transformación del estado; y
+o. Un representante de la Asociación Mexicana de Hoteles y Moteles de Coahuila;
 
-q. La persona titular de la Presidencia del Comité Vitivinícola de Coahuila A.C.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2020)</small>
 
-Por invitación de quien presida este Consejo, se invitará, con voz pero sin voto, a un integrante del Poder Legislativo, quien será algún miembro de la Comisión de Desarrollo Económico, Competitividad y Turismo.
+p. Un representante de la Cámara Nacional de la Industria de Transformación del Estado;
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2020)</small>
+
+q. La persona titular de la Presidencia del Comité Vitivinícola de Coahuila A.C.;
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2020)</small>
+
+r. Un representante de la Asociación Mexicana de Hoteles y Hospedaje en Coahuila;
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2020)</small>
+
+s. Un representante de la Asociación Femenil de Ejecutivas de Empresas Turísticas filial Coahuila; y
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2020)</small>
+
+t. Un representante de la Federación de Cámaras de Comercio de Coahuila
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2020)</small>
+
+También formará parte de este Consejo, con voz pero sin voto, un integrante del Poder Legislativo, quien será el Coordinador de la Comisión de Desarrollo Económico, Competitividad y Turismo.
 
 Cada integrante del Consejo podrá designar un suplente mediante el nombramiento correspondiente dirigido al titular de la Secretaría Técnica, el cual lo sustituirá en sus faltas temporales. El suplente que se designe no podrá nombrar a su vez otra persona que lo supla en el Consejo.
 
@@ -802,3 +822,13 @@ EL SECRETARIO DE GOBIERNO
 ING. JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 634.- SE REFORMAN EL INCISO O, P Y Q DE LA FRACCIÓN III Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 46; SE ADICIONAN LOS INCISOS R, S Y T A LA FRACCIÓN III, DEL ARTÍCULO 46, DE LA LEY DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
