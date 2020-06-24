@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-municipal-del-estado-de-yucatan-110806"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-18"
-last_updated: "2015-12-18"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2016, PREVIA PUBLICACIÓN EN EL DIARIO OFICIAL DEL ESTADO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JUNIO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Yucatán, el viernes 18 de diciembre de 2015.
 
@@ -613,13 +611,23 @@ Objeto
 
 El objeto de los derechos a que se refiere este capítulo lo constituyen las licencias y permisos que los municipios otorguen por los siguientes supuestos:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 24 DE JUNIO DE 2020)</small>
+
 I. Las licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 24 DE JUNIO DE 2020)</small>
 
 II. Las licencias para instalación de anuncios de toda índole, conforme a la reglamentación municipal correspondiente.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 24 DE JUNIO DE 2020)</small>
+
 III. Los permisos de construcción, reconstrucción, ampliación o demolición de inmuebles; de fraccionamientos; de construcción de pozos o albercas; de ruptura de banquetas, empedrados o pavimento.
 
-IV. Cualquier otro tipo de permisos y autorizaciones de tipo eventual que se señalen en las leyes de ingresos de los municipios.
+> <small>(ADICIONADA, D.O. 24 DE JUNIO DE 2020)</small>
+
+IV. Las licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales comerciales o de servicios.
+
+V. Cualquier otro tipo de permisos y autorizaciones de tipo eventual que se señalen en las leyes de ingresos de los municipios.
 
 ###### Artículo 54.
 
@@ -633,17 +641,33 @@ Base
 
 La base para el pago de estos derechos será:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 24 DE JUNIO DE 2020)</small>
+
 I. En relación con el funcionamiento de giros relacionados con la venta de bebidas alcohólicas, la base del gravamen será el tipo de autorización, licencia, permiso o revalidación de estos, así como el número de días y horas, tratándose de permisos eventuales o de funcionamiento en horarios extraordinarios. No podrán establecerse tarifas diferenciadas para el cobro de los derechos a los que se refiere esta fracción, salvo que la autoridad municipal así lo justifique y lo haga constar en la ley de ingresos respectiva.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 24 DE JUNIO DE 2020)</small>
 
 II. Tratándose de licencias para anuncios, el metro cuadrado de superficie del anuncio.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 24 DE JUNIO DE 2020)</small>
+
 III. En permisos de construcción, reconstrucción, ampliación y demolición de inmuebles, la base se determinará en función del metro cuadrado de superficie construida o demolida.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 24 DE JUNIO DE 2020)</small>
 
 IV. Para la construcción de pozos y albercas, será base el metro cúbico de capacidad.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 24 DE JUNIO DE 2020)</small>
+
 V. Por la construcción y demolición de bardas y obras lineales, será base el metro lineal de construcción.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 24 DE JUNIO DE 2020)</small>
+
 VI. Los permisos para fraccionamientos serán en función de los metros cuadrados de superficie vendible.
+
+> <small>(ADICIONADA, D.O. 24 DE JUNIO DE 2020)</small>
+
+VII. En relación con el funcionamiento de establecimientos o locales comerciales o de servicios, el tipo de autorización, licencia, permiso o revalidación de estos, así como el número de días y horas, tratándose de permisos eventuales o de funcionamiento en horarios extraordinarios.
 
 ###### Artículo 56.
 
@@ -989,13 +1013,17 @@ Tarifa
 
 La tarifa aplicable a cada uno de los servicios de cementerios, será la que se establezca en la ley de ingresos municipal respectiva.
 
-### Capítulo XII. Derechos por servicios de la unidad de acceso a la información pública
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 24 DE JUNIO DE 2020)</small>
+
+### Capítulo XII. Derechos por servicios de la Unidad de Transparencia
+
+> <small>(REFORMADO, D.O. 24 DE JUNIO DE 2020)</small>
 
 ###### Artículo 104.
 
 Objeto
 
-Es objeto del derecho por los servicios que presta la unidad de acceso a la información pública, la entrega de información a través de copias simples, copias certificadas, discos magnéticos, disco compactos y discos en formato DVD.
+Es objeto del derecho por los servicios que presta la Unidad de Transparencia: la entrega de información a través de copias simples, copias certificadas, discos magnéticos, discos compactos y discos en formato DVD.
 
 ###### Artículo 105.
 
@@ -1003,11 +1031,13 @@ Sujetos obligados al pago
 
 Son sujetos del derecho a que se refiere este capítulo, las personas que soliciten los servicios señalados en el artículo anterior.
 
+> <small>(REFORMADO, D.O. 24 DE JUNIO DE 2020)</small>
+
 ###### Artículo 106.
 
 Base
 
-La base para el cálculo del derecho a que se refiere este capítulo, lo constituye la cantidad total del costo que la unidad de acceso a la información pública erogó para cumplir con la solicitud de información realizada por las personas físicas o morales.
+La base para el cálculo del derecho a que se refiere este capítulo, lo constituye la cantidad total del costo que la Unidad de Transparencia erogó para cumplir con la solicitud de información realizada por las personas físicas o morales.
 
 ###### Artículo 107.
 
@@ -1015,11 +1045,13 @@ Cuota
 
 La cuota a pagar por los derechos a que se refiere este capítulo, será determinada en la ley de ingresos municipal correspondiente.
 
+> <small>(REFORMADO, D.O. 24 DE JUNIO DE 2020)</small>
+
 ###### Artículo 108.
 
 Época de pago
 
-El pago de los derechos causados por el acceso a la información pública se realizará al momento de solicitar el servicio.
+El pago de los derechos causados por el costo de cada uno de los insumos usados para la entrega de la información, se realizará de acuerdo a las leyes correspondientes de la materia.
 
 ### Capítulo XIII. Derechos por servicio de alumbrado público
 
@@ -1097,11 +1129,53 @@ Cuota
 
 Las cuotas para el pago de estos derechos serán fijadas en la ley de ingresos municipal correspondiente.
 
-### Capítulo único
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 24 DE JUNIO DE 2020)</small>
+
+### Capítulo XV. Derechos por Servicios de Protección Civil Municipal
+
+> <small>(ADICIONADO, D.O. 24 DE JUNIO DE 2020)</small>
+
+###### Artículo 119 Bis.
+
+Objeto
+
+El objeto de los derechos establecidos en este capítulo son los servicios prestados por el municipio en materia de Protección Civil.
+
+> <small>(ADICIONADO, D.O. 24 DE JUNIO DE 2020)</small>
+
+###### Artículo 119 Ter.
+
+Sujetos obligados al pago
+
+Son sujetos de los derechos establecidos en este capítulo las personas físicas o morales, instituciones públicas o privadas, que soliciten servicios en materia de protección civil.
+
+> <small>(ADICIONADO, D.O. 24 DE JUNIO DE 2020)</small>
+
+###### Artículo 119 Quater.
+
+Base
+
+Servirá de base para el cobro de este derecho el tipo de servicio en materia de protección civil, el número de personal que conlleve realizar el servicio, así como el número de horas que se destinen a la prestación del servicio y que al efecto establezca la ley de ingresos del municipio correspondiente.
+
+> <small>(ADICIONADO, D.O. 24 DE JUNIO DE 2020)</small>
+
+###### Artículo 119 Quinquies.
+
+Tarifa
+
+Los derechos por los servicios en materia de protección civil se causarán conforme a la tarifa que al efecto establezca la ley de ingresos del municipio correspondiente.
+
+> <small>(ADICIONADO, D.O. 24 DE JUNIO DE 2020)</small>
+
+###### Artículo 119 Sexies.
+
+Época y lugar de pago
+
+El pago de los derechos se hará al momento de solicitar el servicio en las oficinas de la tesorería municipal.
 
 ## Título cuarto. Contribuciones de mejoras
 
-### Capítulo I. Productos derivados de bienes inmuebles
+### Capítulo único
 
 ###### Artículo 120.
 
@@ -1151,7 +1225,7 @@ Los sujetos pasivos de las contribuciones de mejoras, están obligados a proporc
 
 ## Título quinto. Productos
 
-### Capítulo II. Productos derivados de bienes muebles
+### Capítulo I. Productos derivados de bienes inmuebles
 
 ###### Artículo 127.
 
@@ -1215,7 +1289,7 @@ Recibos y boletos para el control y cobro de productos por uso de piso
 
 Los recibos que deba expedir la tesorería municipal y los boletos para el control y cobro de productos por uso de piso, deberán ser enviados al órgano revisor del Congreso del estado para su registro y control.
 
-### Capítulo III. Productos financieros
+### Capítulo II. Productos derivados de bienes muebles
 
 ###### Artículo 136.
 
@@ -1253,7 +1327,7 @@ Destino de los ingresos derivados de la enajenación de bienes muebles
 
 Los ingresos que se perciban por la enajenación de bienes muebles, invariablemente deberán ingresar a la tesorería municipal.
 
-### Capítulo IV. Otros productos
+### Capítulo III. Productos financieros
 
 ###### Artículo 141.
 
@@ -1287,7 +1361,7 @@ Destino de los rendimientos generados por las inversiones financieras
 
 Los recursos que se obtengan por rendimientos de inversiones financieras en instituciones de crédito por compra de acciones o títulos de empresas, invariablemente se ingresarán al erario municipal, clasificándolos como productos financieros.
 
-### Capítulo I. Aprovechamientos derivados por sanciones municipales
+### Capítulo IV. Otros productos
 
 ###### Artículo 146.
 
@@ -1315,7 +1389,7 @@ Las autoridades municipales serán responsables solidarios en el pago de estos p
 
 ## Título sexto. Aprovechamientos
 
-### Capítulo II. Aprovechamientos derivados de recursos transferidos al municipio
+### Capítulo I. Aprovechamientos derivados por sanciones municipales
 
 ###### Artículo 150.
 
@@ -1365,7 +1439,7 @@ Inamovilidad de las infracciones
 
 Una vez turnadas las infracciones a la tesorería municipal, estas no podrán ser modificadas, salvo que el interesado compruebe su improcedencia a satisfacción, tanto del área que maneja la materia objeto de esta, como de la tesorería municipal.
 
-### Capítulo III. Aprovechamientos diversos
+### Capítulo II. Aprovechamientos derivados de recursos transferidos al municipio
 
 ###### Artículo 157.
 
@@ -1413,7 +1487,7 @@ Destino de los aprovechamientos
 
 Los aprovechamientos a que se refiere este capítulo deberán ingresar al erario municipal tratándose de numerario o al inventario de bienes patrimoniales tratándose de bienes muebles o inmuebles, en un plazo no mayor de setenta y dos horas contados a partir del momento en que tales bienes o recursos sean del conocimiento de la autoridad municipal.
 
-### Capítulo I. Participaciones federales
+### Capítulo III. Aprovechamientos diversos
 
 ###### Artículo 160.
 
@@ -1423,7 +1497,7 @@ Los municipios percibirán aprovechamientos derivados de otros conceptos no prev
 
 ## Título séptimo. Participaciones
 
-### Capítulo II. Participaciones estatales
+### Capítulo I. Participaciones federales
 
 ###### Artículo 161.
 
@@ -1449,7 +1523,7 @@ Responsabilidades por la recepción de participaciones y aportaciones
 
 Incurre en responsabilidad cualquier servidor público municipal que reciba o pretenda recibir las participaciones y aportaciones federales, hecha excepción del tesorero municipal. Este último incurre en responsabilidad cuando no ingrese de inmediato dichas participaciones al erario del municipio.
 
-### Capítulo I. Empréstitos o financiamientos
+### Capítulo II. Participaciones estatales
 
 ###### Artículo 165.
 
@@ -1459,7 +1533,7 @@ Los municipios percibirán recursos en concepto de participaciones estatales, de
 
 ## Título Octavo. Ingresos extraordinarios
 
-### Capítulo II. Otros ingresos extraordinarios
+### Capítulo I. Empréstitos o financiamientos
 
 ###### Artículo 166.
 
@@ -1484,6 +1558,8 @@ Todo recurso que obtenga el municipio por concepto de deuda pública, deberá in
 Responsabilidad de servidores públicos municipales
 
 Adquiere responsabilidad cualquier servidor público que contravenga las disposiciones contenidas en este capítulo.
+
+### Capítulo II. Otros ingresos extraordinarios
 
 ###### Artículo 170.
 
@@ -1526,3 +1602,13 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 246/2020 POR EL QUE SE MODIFICA LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE YUCATÁN, EN MATERIA DE PROTECCIÓN CIVIL".]
+
+Artículo único. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
