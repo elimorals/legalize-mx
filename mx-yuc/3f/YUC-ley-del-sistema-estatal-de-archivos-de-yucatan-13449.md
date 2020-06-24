@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-de-archivos-de-yucatan-13449"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-22"
-last_updated: "1986-08-22"
+last_updated: "2020-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DEL SISTEMA ESTATAL DE ARCHIVOS DE YUCATAN
 
-LEY DEL SISTEMA ESTATAL DE ARCHIVOS DE YUCATAN
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ARCHIVOS PARA EL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 24 DE JUNIO DE 2020; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS CIENTO OCHENTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN.]</small>
 
-TEXTO ORIGINAL.
+LEY DEL SISTEMA ESTATAL DE ARCHIVOS DE YUCATÁN
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JUNIO DE 2020 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 22 de agosto de 1986.
 
@@ -108,3 +110,39 @@ VÍCTOR M. CERVERA PACHECO
 El Secretario
 
 ABOG. ORLANDO A. PAREDES LARA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 248/2020 POR EL QUE SE EMITE LA LEY DE ARCHIVOS DEL ESTADO DE YUCATÁN”.]
+
+Primero.- Vigencia
+
+La presente Ley entrará en vigor a los 180 días naturales siguientes a su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo.- Abrogación
+
+A partir de la entrada en vigor de la Ley se abroga la Ley del Sistema Estatal de Archivos de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 22 de agosto de 1986.
+
+Tercero.- Sujetos Obligados
+
+Los sujetos obligados a los que hace referencia la presente ley, en la medida de su capacidad presupuestal, deberán realizar las modificaciones administrativas y presupuestales a fin de contar con los requerimientos mínimos de infraestructura, organización y funcionamiento de lo ordenado en el presente decreto.
+
+Cuarto.- Disposiciones Reglamentarias
+
+Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Ejecutivo estatal en un lapso no mayor a 180 días naturales contados a partir de su entrada en vigor.
+
+Quinto.- Consejo Estatal
+
+El Consejo Estatal comenzará a sesionar dentro de los seis meses posteriores a la entrada en vigor de esta Ley.
+
+Las autoridades nombradas como representantes de los poderes públicos como parte del Sistema Estatal de Archivos de Yucatán continuarán en su encargo hasta en tanto se realicen nuevos nombramientos en términos de la presente ley.
+
+Sexto.- Convenios
+
+Los convenios celebrados en términos de la Ley del Sistema Estatal de Archivos de Yucatán seguirán vigentes hasta su finalización.
+
+Séptimo.- Documentos
+
+Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
