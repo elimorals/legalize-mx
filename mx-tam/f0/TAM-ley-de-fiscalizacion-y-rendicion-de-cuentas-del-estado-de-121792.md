@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12179
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2017-06-02"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
 
 Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -189,9 +189,11 @@ De no proporcionar la información, los responsables serán sancionados en los t
 
 Las personas a que se refiere este artículo deberán acompañar a la información solicitada, los anexos, estudios soporte, memorias de cálculo y demás documentación soporte relacionada con la solicitud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2020)</small>
+
 ###### Artículo 9.
 
-Las entidades sujetas de fiscalización a través de los responsables del ejercicio presupuestal, suscribirán y presentarán directamente a la Auditoría dentro de los primeros quince días naturales al mes siguiente que corresponda, los informes mensuales o trimestrales sobre su gestión financiera, que servirán para la planeación de la revisión a la Cuenta Pública.
+Las entidades sujetas de fiscalización a través de los responsables del ejercicio presupuestal, suscribirán y presentarán directamente a la Auditoría a más tardar 30 días naturales al mes siguiente que corresponda, los informes mensuales o trimestrales sobre su gestión financiera, que servirán para la planeación de la revisión a la Cuenta Pública.
 
 Dichos informes serán presentados en forma impresa y en archivo electrónico de datos que permita su uso informático y facilite su procesamiento, independientemente de los demás requisitos que se deban cumplir para su presentación, debiendo sujetarse a la periodicidad y contenido de formatos, instructivos y documentación que determine la Auditoría, y contener la información señalada en la Ley General, además de la normatividad emitida por el Consejo Nacional de Armonización Contable.
 
@@ -224,6 +226,12 @@ El Congreso deberá concluir la revisión de las Cuentas Públicas a más tardar
 Cuando la gestión administrativa del titular de la entidad sujeta de fiscalización concluya antes de que termine el ejercicio fiscal, dicho titular deberá dar cumplimiento a lo establecido en la Ley para la Entrega-Recepción de los Recursos Asignados a los Poderes, Órganos y Ayuntamientos del Estado de Tamaulipas.
 
 Los servidores públicos en funciones al momento de elaborar y rendir la Cuenta Pública y sus anexos, serán los responsables de signarla y presentarla en los términos de esta ley.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+###### Artículo 11 Bis.
+
+En el caso de los poderes Legislativo y Judicial, los órganos autónomos de los poderes del Estado y los entes públicos estatales, llevarán la contabilidad y elaborarán sus informes conforme a lo previsto en la Ley General, y enviarán dicha información a la Secretaría para su integración a la Cuenta Pública del Gobierno del Estado de Tamaulipas, a más tardar el último día hábil del mes de febrero del año siguiente al ejercicio fiscal de que se trate.
 
 ###### Artículo 12.
 
@@ -1192,3 +1200,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, al primer día del mes de junio del año dos mil diecisiete.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-111 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 9 Y ADICIONA EL ARTÍCULO 11 BIS, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
