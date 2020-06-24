@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2020-01-20"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -63,21 +63,29 @@ Todas las autoridades, en el ámbito de sus competencias, tienen la obligación 
 
 La mujer y el hombre son iguales ante la ley. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
 
 ###### Artículo 2º.
+
+Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
 
 La familia tendrá la protección del Estado. El matrimonio se funda en la igualdad de derechos para ambos cónyuges, y podrá disolverse por mutuo acuerdo o a petición de cualquiera de los consortes en los términos que establezcan las leyes.
 
 Los padres están obligados a alimentar, educar e instruir a sus hijos, fomentando su desarrollo cultural. El Estado velará por el cumplimiento de estos deberes, y dictará normas para el logro de la suficiencia económica de la familia; para evitar el abandono de los acreedores alimentarios, por sus deudores; y, para instituir proteger el patrimonio de familia.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
+En todas las decisiones y actuaciones del Estado, en el ámbito de su competencia, se velará y cumplirá con el principio del interés superior de la niñez, reconociendo y garantizando de manera plena sus derechos. Además de los que se establezcan en la ley de la materia, los niños y las niñas, tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación, inclusión, a la identidad, a la familia, a recibir los servicios para la atención, cuidado y desarrollo integral infantil en condiciones de calidad, calidez, seguridad, sano esparcimiento para su desarrollo integral. Este principio, deberá guiar todas las acciones afirmativas, la protección integral, el diseño, presupuesto, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez, las cuales deberán contribuir a su formación física, psicológica, económica, social, cultural, ambiental, ética, cívica, además de evitar y sancionar el maltrato y abusos que afecten su desarrollo.
 
 Toda persona tiene derecho a una existencia digna, a la educación, a la cultura, al trabajo y a la protección de la salud. El Estado promoverá el desarrollo físico, moral, intelectual, social y económico del pueblo.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2018)</small>
-
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
+
+Toda persona podrá ejercer el derecho de petición ante las autoridades del Estado y sus municipios, siempre que está se formule por escrito de manera pacífica y respetuosa; a toda petición deberá recaer un acuerdo por escrito de la autoridad a quien se haya dirigido, la cual tiene la obligación de hacerlo conocer en breve término al peticionario.
+
+Este derecho podrá ser ejercido por vía electrónica, correo postal, mensajería o telégrafo o en los medios y casos en que las autoridades así lo determinen.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+Artículo 2° bis.- En el Estado de Michoacán de Ocampo, las personas tienen derecho al disfrute pleno de la ciudad, de sus espacios públicos, bajo los principios de sustentabilidad, justicia social, respeto a la diversidad cultural y equilibrio entre lo urbano y lo rural. El ejercicio del derecho a la ciudad se basa en la gestión democrática de ésta, en la función social, ambiental de la propiedad y de la distribución equitativa de bienes públicos de la ciudad.
 
 (NOTA: EL 29 DE MAYO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2012, DECLARÓ LA INVALIDEZ, CON EFECTOS ÚNICAMENTE ENTRE LAS PARTES, DE LA REFORMA HECHA A LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO EN FECHA 16 DE MARZO DE 2012, EXCEPTUANDO LOS PÁRRAFOS SEGUNDO Y TERCERO, REFORMADOS EL 25 DE JUNIO DE 2014. DICHA INVALIDEZ SURTIÓ EFECTOS EL 17 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2569,11 +2577,11 @@ Los empleados que manejen fondos públicos otorgarán fianza en la forma que la 
 
 La educación pública dependerá directamente del Gobernador del Estado, quien cuidará de fomentarla por todos los medios posibles.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
 
 ###### Artículo 138.
 
-Todo individuo tiene derecho a recibir educación. El Estado y sus Municipios están obligados a impartir educación preescolar, primaria, secundaria, media superior y superior. Toda educación que el Estado imparta será gratuita.
+Todo individuo tiene derecho a recibir educación. El Estado y sus Municipios están obligados a impartir educación inicial, educación preescolar, primaria, secundaria, media superior y superior, así como la educación inclusiva y la educación especial que sea requerida. Toda educación que el Estado imparta será gratuita.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
 
@@ -3962,3 +3970,21 @@ TERCERO. El Congreso del Estado deberá, en un plazo improrrogable de un año a 
 CUARTO. La observancia del principio de paridad de género a que se refiere el presente Decreto, será aplicable a quienes tomen posesión de su cargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
 
 Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva y escalonada a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+P.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 296.- ÚNICO.- SE REFORMA EL ARTÍCULO 138 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El Congreso del Estado deberá, en un plazo de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes en materia de educación inicial de acuerdo con el Transitorio Décimo Segundo de la reforma constitucional a nivel federal publicada en el Diario Oficial de la Federación el 15 de mayo de 2019.
+
+P.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 311.- ÚNICO.- SE REFORMA EL ARTÍCULO 2° Y SE ADICIONA EL ARTÍCULO 2° BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
