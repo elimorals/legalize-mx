@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-centro-morelense-de-las-artes-del-74941"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-05-19"
-last_updated: "2010-05-19"
+last_updated: "2020-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE ESTATUTO ORGÁNICO DEL CENTRO MORELENSE DE LAS ARTES, PUBLICADO EN EL P.O. DE 24 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGANICO DEL CENTRO MORELENSE DE LAS ARTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 19 de mayo de 2010.
 
@@ -630,3 +632,23 @@ LA RECTORA DEL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 MTRA. LEONOR ORDUÑA CANO RÚBRICAS.
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL CENTRO MORELENSE DE LAS ARTES”.]
+
+PRIMERA. El presente Estatuto Orgánico entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Estatuto Orgánico del Centro Morelense de las Artes, publicado en el Periódico Oficial “Tierra y Libertad”, número 4805, de 19, de mayo de 2010, y se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan a lo dispuesto en el presente Estatuto Orgánico.
+
+TERCERA. Dentro del plazo de 120 días hábiles posteriores a la entrada en vigor del presente Estatuto Orgánico, 'el Centro deberá emitir los Manuales Administrativos, así como los descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto esto sucede, se mantendrán vigentes los actuales, en lo que no se opongan al presente Estatuto Orgánico.
+
+Dentro de un plazo de 15 días hábiles posteriores a la emisión de los Manuales Administrativos, el Centro deberá gestionar su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 22, fracción XXI, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, 11, fracción XXXV, y 9, fracción XXI, del Reglamento Interior de la Secretaría de Gobierno, el Centro Morelense de las Artes, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos Titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos, a que haya lugar
+
+QUINTA. El Rector deberá inscribir el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por los artículos 74, penúltimo párrafo, y 84, fracción II, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+SEXTA. Los casos no previstos en el presente Estatuto se resolverán por la Junta de Gobierno, de conformidad con lo dispuesto' en la Ley y demás normativa.
