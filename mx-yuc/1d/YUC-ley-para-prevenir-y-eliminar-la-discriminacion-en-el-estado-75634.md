@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-756
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-06"
-last_updated: "2020-06-09"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JUNIO DE 2020.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2010.
 
@@ -117,7 +117,9 @@ I.- Impedir o condicionar el acceso a la educación pública o privada;
 
 II.- Establecer métodos o instrumentos pedagógicos, que sean contrarios al derecho de igualdad o que difundan una condición de subordinación;
 
-III.- Prohibir o negar el libre acceso, permanencia o ascenso al empleo, por razones de preferencia religiosa, sexual, filiación política, género o embarazo;
+> <small>(REFORMADA, D.O. 24 DE JUNIO DE 2020)</small>
+
+III.- Prohibir o negar el libre acceso, permanencia o ascenso al empleo, por razones de preferencia religiosa, sexual, filiación política, estado de salud, género o embarazo;
 
 IV.- Establecer diferencia en la remuneración, prestaciones y condiciones laborales, cuando se traten de trabajos iguales;
 
@@ -177,11 +179,15 @@ XXIX.- Realizar o promover el maltrato físico o psicológico por la apariencia 
 
 XXX.- Excluir a las personas internas en centros de readaptación social de los programas generales de salud;
 
-> <small>(ADICIONADA, D.O. 22 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, D.O. 24 DE JUNIO DE 2020)</small>
 
-XXXI.- Realizar cualquier tipo de acoso hacia las personas contempladas por su condición en el artículo 4 de esta ley, y
+XXXI.- Realizar cualquier tipo de acoso hacia las personas contempladas por su condición en el artículo 4 de esta ley;
 
-XXXII.- En general cualquier otra conducta que pretenda menoscabar el goce de los derechos fundamentales.
+> <small>(ADICIONADA, D.O. 24 DE JUNIO DE 2020)</small>
+
+XXXII.- Difundir sin consentimiento de la persona, información sobre su condición de salud, así como su historial médico, y
+
+XXXIII.- En general cualquier otra conducta que pretenda menoscabar el goce de los derechos fundamentales.
 
 ### CAPÍTULO III. De las Medidas para Prevenir la Discriminación
 
@@ -767,11 +773,13 @@ El Organismo impondrá a los particulares las sanciones que correspondan conform
 
 Las sanciones que correspondan a las personas responsables de una conducta discriminatoria consistirán en:
 
-I.- La realización de las conductas señaladas en las fracciones II, V, VI, VIII, XVI, XVII, XX, XXV, XXVI, XXX y XXXI del artículo 9 de esta ley, se sancionará con amonestación pública.
+> <small>(REFORMADA, D.O. 24 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+I.- La realización de las conductas señaladas en las fracciones II, V, VI, VIII, XVI, XVII, XX, XXV, XXVI, XXX, XXXI y XXXIII del artículo 9 de esta ley, se sancionará con amonestación pública.
 
-II.- La infracción a las conductas señaladas en las fracciones I, III, IV, IX, XI, XIII, XIV, XVIII, XIX, XXI, XXII, XXIII, XXIV y XXVII del artículo 9 de esta ley se sancionarán con multa de cien a quinientas unidades de medida y actualización.
+> <small>(REFORMADA, D.O. 24 DE JUNIO DE 2020)</small>
+
+II.- La infracción a las conductas señaladas en las fracciones I, III, IV, IX, XI, XIII, XIV, XVIII, XIX, XXI, XXII, XXIII, XXIV, XXVII y XXXII del artículo 9 de esta ley se sancionarán con multa de cien a quinientas unidades de medida y actualización.
 
 > <small>(REFORMADA, D.O. 22 DE MAYO DE 2020)</small>
 
@@ -788,6 +796,12 @@ En caso de reincidencia, tratándose de las conductas señaladas en la fracción
 En caso de reincidencia, tratándose de las conductas señaladas en la fracción II del artículo anterior, la sanción consistirá en multa de doscientas y setecientas unidades de medida y actualización vigentes.
 
 En caso de reincidencia, tratándose de servidores públicos, la sanción consistirá en la remoción e inhabilitación del cargo hasta por cinco años. Cuando se trate de servidores públicos de elección popular, el Organismo estará facultado para promover lo que en derecho corresponda ante las instancias competentes.
+
+> <small>(ADICIONADO, D.O. 24 DE JUNIO DE 2020)</small>
+
+###### Artículo 67 Bis.
+
+Tratándose de las conductas señaladas en las fracciones III, XVIII, XXII, XXIII, XXVIII y XXXII del artículo 9; y que sean motivadas por las condiciones de salud de cualquier persona durante el periodo que comprende la declaración de contingencia sanitaria o de emergencia sanitaria, se duplicarán las multas señaladas en el presente capítulo.
 
 ### CAPÍTULO IX. Del Recurso
 
@@ -896,3 +910,11 @@ D.O. 9 DE JUNIO DE 2020.
 Artículo Único. Entrada en vigor
 
 El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 245/2020 POR EL QUE SE MODIFICA LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN, EN MATERIA DE SANCIONES A CONDUCTAS DISCRIMINATORIAS MOTIVADAS POR CONDICIONES DE SALUD”.]
+
+Artículo único. Entrada en vigor
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
