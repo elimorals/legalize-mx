@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-cultura-para-el-estado-de-tamaulipas-82805"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2014-04-03"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
 
 Ley publicada el Periódico Oficial, el jueves 1 de septiembre de 2011.
 
@@ -141,9 +141,17 @@ VI. Otorgar reconocimientos y estímulos a las personas físicas o morales que s
 
 VII. Fomentar, conforme a las disposiciones legales aplicables, las relaciones de orden cultural y artístico con instituciones del ramo de la Federación, los Estados, y los municipios, e incluso de otros países;
 
-VIII. Organizar el Sistema, así como todo tipo de actividades culturales y artísticas del sector público, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno del Estado; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
 
-IX. Otorgar el Premio Estatal de Cultura, conforme lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado.
+VIII. Organizar el Sistema, así como todo tipo de actividades culturales y artísticas del sector público, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+IX. Otorgar el Premio Estatal de Cultura, conforme lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado; y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+X. Diseñar, desarrollar y mantener actualizado el Padrón Estatal de Artistas.
 
 ###### ARTÍCULO 8.
 
@@ -203,9 +211,15 @@ XI. Otorgar reconocimientos, estímulos y premios a personas físicas o morales 
 
 XII. Contribuir a la integración, desarrollo y actualización permanente de los sistemas de información, evaluación e indicadores de la actividad cultural;
 
-XIII. Promover la participación de la sociedad y de los creadores locales en la formulación, ejecución y evaluación de la política cultural municipal; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
 
-XIV. Las demás que le confiera la presente ley y demás disposiciones aplicables en la materia.
+XIII. Promover la participación de la sociedad y de los creadores locales en la formulación, ejecución y evaluación de la política cultural municipal;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+XIV. Coadyuvar con el Instituto para la integración y actualización del Padrón del (sic) Estatal de Artistas; y
+
+XV. Las demás que le confiera la presente ley y demás disposiciones aplicables en la materia.
 
 ### CAPÍTULO III. DEL SISTEMA ESTATAL DE CULTURA Y LAS ARTES PARA EL ESTADO DE TAMAULIPAS
 
@@ -590,3 +604,11 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-109 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7, FRACCIONES VIII Y IX, Y 10, PÁRRAFO 2, FRACCIÓN XIII; Y SE ADICIONAN LAS FRACCIONES X AL ARTÍCULO 7, Y XIV DEL PÁRRAFO 2 AL ARTÍCULO 10, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XIV PARA SER XV, DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
