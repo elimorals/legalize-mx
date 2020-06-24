@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2020-03-03"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE JUNIO DE 2020.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1793,9 +1793,9 @@ Para el despacho de los asuntos que la presente Constitución le encomienda, el 
 
 Para ser Secretario General de Gobierno se requiere cumplir los mismos requisitos que para ser Gobernador del Estado.
 
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2020)</small>
 
-Para ser secretario del despacho del Ejecutivo, se requiere ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos, y tener como mínimo 30 años cumplidos.
+Para ser secretario del despacho del Ejecutivo, se requiere ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos, y tener como mínimo 25 años cumplidos al día de la designación.
 
 > <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2017)</small>
 
@@ -4716,3 +4716,11 @@ G.G. 3 DE MARZO DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 153.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
