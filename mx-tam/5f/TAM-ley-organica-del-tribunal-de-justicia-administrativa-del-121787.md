@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-tribunal-de-justicia-administrativa-del-121787
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-02"
-last_updated: "2018-10-30"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
 
 Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -127,7 +127,9 @@ X. Las que nieguen la indemnización por responsabilidad patrimonial del Estado,
 
 XI. Las que requieran el pago de garantías a favor del Estado, los municipios, así como de sus entidades paraestatales;
 
-XII. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, en los términos de la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+XII. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, en los términos de la Ley de Procedimiento Administrativo para el Estado de Tamaulipas;
 
 XIII. Las que impongan multas por infracción a las normas administrativas del Estado;
 
@@ -936,3 +938,11 @@ En relación a lo señalado en el último párrafo del artículo 22 de la Ley de
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-110 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4, FRACCIÓN XII, DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
