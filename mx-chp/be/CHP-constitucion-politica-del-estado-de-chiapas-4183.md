@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2020-05-04"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -427,9 +427,17 @@ También protege los derechos de los indígenas que por cualquier circunstancia 
 
 En el marco de las garantías individuales y los derechos humanos, el Estado protegerá y promoverá el desarrollo de la cultura, lenguas, usos, costumbres, tradiciones, sistemas normativos y formas de organización social, política y económica de las comunidades indígenas. También garantizará a sus integrantes el acceso pleno a la justicia, una vida libre de violencia, los servicios de salud y a una educación bilingüe que preserve y enriquezca su cultura, con perspectiva de género, equidad y no discriminación. Fomentará, asimismo, la plena vigencia de los derechos de los indígenas a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, a una vivienda digna y decorosa, así como los derechos de las mujeres, niñas y niños.
 
-Se reconoce y protege el derecho de las comunidades indígenas para elegir a sus autoridades tradicionales de acuerdo a sus usos, costumbres y tradiciones, fomentando la participación y empoderamiento de las mujeres.
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2020)</small>
 
-El Estado fomentará el eficaz ejercicio de los derechos de uso, disfrute y aprovechamiento sustentable de los recursos naturales, flora y fauna silvestres de las comunidades indígenas, en los términos y con las modalidades que establece la Constitución General de la República y las leyes reglamentarias respectivas.
+El derecho a la libre determinación de los pueblos y comunidades indígenas, se expresa como autonomía, en tanto partes integrantes del Estado de Chiapas, en el marco del orden jurídico vigente; por tanto, dichos pueblos y comunidades tienen personalidad jurídica de derecho público y gozan de derechos sociales.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+También se reconoce y protege el derecho de las comunidades indígenas para elegir a sus autoridades tradicionales de acuerdo a sus usos, costumbres y tradiciones, fomentando la participación y empoderamiento de las mujeres.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+El Estado promoverá el eficaz ejercicio de los derechos de uso, disfrute y aprovechamiento sustentable de los recursos naturales, flora y fauna silvestres de las comunidades indígenas, en los términos y con las modalidades que establece la Constitución General de la República y las leyes reglamentarias respectivas.
 
 El Estado, con la participación de las comunidades indígenas, instrumentará los planes y programas necesarios para impulsar su desarrollo socioeconómico con perspectiva de género.
 
@@ -442,6 +450,10 @@ Los indígenas deberán compurgar sus penas, preferentemente en los establecimie
 Se prohíbe toda forma de discriminación de origen étnico o por razón de lengua, sexo, religión, costumbre, o condición social. La contravención a esta disposición será sancionada en los términos de la legislación penal vigente.
 
 El Estado promoverá y protegerá la organización y el desarrollo de la familia indígena, incorporando y reconociendo sus formas tradicionales de constituirla, siempre con respeto a los derechos humanos y a la protección de la dignidad de las mujeres y los menores de edad.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+El Estado reconoce y garantiza el derecho de los municipios indígenas a la libre determinación expresada en la autonomía para decidir sobre sus formas de organización política, así como para elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes, garantizando la participación de las mujeres en condiciones de igualdad frente a los hombres.
 
 Los derechos de los indígenas que esta Constitución consagra deberán ser protegidos y regulados por la ley reglamentaria respectiva y por las demás leyes, en sus correspondientes ámbitos de competencia, y serán, además, garantizados por las autoridades estatales y municipales, así como por las autoridades tradicionales de las comunidades indígenas.
 
@@ -643,6 +655,10 @@ V. No cometer actos que atenten contra el medio ambiente y participar en las act
 
 VI. Hacer que sus hijas, hijos o pupilos, concurran a las escuelas a recibir educación preescolar, primaria, secundaria y media superior.
 
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+VII. Tratándose de los pueblos y comunidades indígenas, cumplir con las obligaciones, contribuciones y los cargos que la comunidad les señale conforme a los sistemas normativos internos, en estricto respeto a las garantías que establecen las constituciones federal y local.
+
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 19.
@@ -685,7 +701,9 @@ V. Colaborar con las autoridades en materia de protección civil cuando existan 
 
 Toda persona que sea ciudadana en el Estado tienen derecho a:
 
-I. Ser votadas para cualquier cargo de elección popular, en los términos que determinen la legislación en la materia.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+I. Poder ser votada en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y a las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación.
 
 II. Votar en las elecciones correspondientes e intervenir en todos los procesos de participación ciudadana, de acuerdo a la legislación de la materia. Quienes residan en el extranjero podrán votar de acuerdo a lo que especifique la ley.
 
@@ -781,21 +799,23 @@ Los requisitos que deberán cumplirse para el registro de un partido local, así
 
 La intervención en la vida interna de los partidos por parte de las autoridades electorales locales, sólo podrá ser conforme a las disposiciones que establezcan esta Constitución y las leyes generales respectivas.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2020)</small>
 
 ###### Artículo 30.
 
-La ley garantizará que la postulación y registro de candidaturas a las diputaciones del Congreso del Estado, y que las planillas para integrar a los ayuntamientos, cumplan a cabalidad con el principio de paridad de género, en sus dimensiones horizontal, vertical y transversal; así como la participación, por lo menos en la quinta parte de sus integrantes, de jóvenes menores a veinticinco años.
-
-La vida sin violencia política es paritaria para hombres y mujeres en Chiapas, independientemente de prácticas comunitarias o usos y costumbres. El incumplimiento de este derecho será sancionado por las leyes apropiadas.
+La ley garantizará que la postulación y registro de candidaturas a las Diputaciones del Congreso del Estado, y que las planillas para integrar a los Ayuntamientos cumplan a cabalidad con el principio de paridad de género, en sus dimensiones horizontal, vertical y transversal; así como la participación, por lo menos en el diez por ciento de sus integrantes, de jóvenes menores de treinta años como propietarios.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
+La vida sin violencia política es paritaria para hombres y mujeres en Chiapas, independientemente de prácticas comunitarias o usos y costumbres. El incumplimiento de este derecho será sancionado por las leyes apropiadas.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
 ###### Artículo 31.
 
-Los partidos políticos nacionales y estatales, con acreditación ante el Instituto de Elecciones y Participación Ciudadana, tendrán el derecho de solicitar el registro de candidaturas a cargos de elección popular.
+Los partidos políticos nacionales o locales, con acreditación o registro ante el Instituto de Elecciones y Participación Ciudadana, tendrán el derecho a solicitar el registro de candidatos a cargos de elección popular, debiendo respetar en todos los casos los principios de paridad de género, representación indígena, acceso a los jóvenes y participación política de las mujeres, como lo establecen la Constitución federal, esta constitución, las leyes generales y demás normativa aplicable.
 
-Asimismo, en las zonas con predominancia de población indígena, los partidos políticos registrarán preferentemente candidatos de origen indígena y deberán cumplir con la obligación de incorporar la participación política de las mujeres.
+En los Distritos Uninominales con mayor presencia indígena de acuerdo al Instituto Nacional Electoral y en los Municipios con población de mayoría indígena, los Partidos Políticos postularán al menos al cincuenta por ciento de sus Candidatos a Diputados y a Presidentes Municipales, y deberán cumplir con la paridad entre los géneros establecidos en la Constitución; asimismo, deberán cumplir con la obligación de fortalecer y hacer efectiva la capacitación y participación política de las mujeres.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -807,7 +827,9 @@ La ley fijará las reglas y criterios a que se sujetará la asignación y distri
 
 Dicho financiamiento público formara parte del presupuesto del Instituto de Elecciones y Participación Ciudadana, más no de su patrimonio, por lo que éste no podrá alterar el cálculo para su determinación ni los montos que del mismo resulten.
 
-Los partidos políticos deberán destinar por lo menos el seis por ciento de su financiamiento público ordinario anual a actividades de formación y capacitación para desarrollar el liderazgo político de las mujeres
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+Los partidos políticos deberán destinar por lo menos el seis por ciento de su financiamiento público ordinario anual a actividades de formación y capacitación para desarrollar el liderazgo político de las mujeres, y por lo menos el dos por ciento para desarrollar la participación política de los ciudadanos de los pueblos originarios.
 
 La fiscalización de las finanzas de los partidos políticos se realizará conforme a los principios de la Constitución Política de los Estados Unidos Mexicanos y a lo que determine la ley.
 
@@ -827,7 +849,9 @@ Los partidos políticos y coaliciones, podrán celebrar procesos de selección i
 
 Las campañas políticas tendrán como finalidad la obtención del voto a favor de los candidatos que representan a los partidos políticos o coaliciones que los postulan, a través de la difusión de su plataforma electoral y el debate ideológico; deberán abstenerse de expresiones que calumnien a las personas.
 
-La duración de las campañas a Gobernador, a Diputados al Congreso del Estado y a miembros de Ayuntamientos no podrá exceder de sesenta días; y estarán sujetos a los términos establecidos en el Código de la materia.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+La duración de las campañas a Gobernador, a Diputados al Congreso del Estado y a miembros de Ayuntamientos no podrá exceder de sesenta días; y estarán sujetos a los términos establecidos en la ley de la materia.
 
 La ley dispondrá que el Consejo General del Instituto de Elecciones y Participación Ciudadana organice debates entre todos los candidatos a Gobernador y promueva la celebración de debates entre candidatos a diputados locales y a presidentes municipales, debiendo ser difundidos en los términos que la ley general establezca.
 
@@ -877,7 +901,9 @@ El Congreso del Estado, se integrará con veinticuatro diputados electos según 
 
 Tendrá derecho a la asignación de Diputados de representación proporcional el partido político:
 
-Que haya registrado candidatos a diputados de mayoría relativa en cuando menos la mitad de los distritos uninominales.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+Que haya registrado candidatos a diputados de mayoría relativa en cuando menos las dos terceras partes de los distritos uninominales.
 
 Que haya obtenido por lo menos el tres por ciento de la votación total válida para las diputaciones en el Estado.
 
@@ -1237,7 +1263,9 @@ El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecu
 
 Se deposita la titularidad del Poder Ejecutivo en la persona electa para tal cargo, a la que se le llamará “Gobernador o Gobernadora del Estado de Chiapas”
 
-Su elección será directa y en los términos que disponga el Código de Elecciones y Participación Ciudadana.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+Su elección será directa y en los términos que disponga la ley de la materia.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1643,11 +1671,15 @@ IX.- El Centro Estatal de Justicia Alternativa.
 
 X.- El Instituto de la Defensoría Pública.
 
-El Presidente del Tribunal Superior de Justicia será el Titular del Poder Judicial del Estado, durará en su encargo tres años y será designado por el Pleno de Distrito de entre los Magistrados Regionales, pudiendo ser reelecto por un periodo más.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+La Presidenta o el Presidente del Tribunal Superior de Justicia será el Titular del Poder Judicial del Estado, durará en su encargo tres años y será designado por el Pleno de Distrito de entre los Magistrados Regionales, pudiendo ser reelecto por un periodo más.
 
 De manera anual enviará al Congreso del Estado un informe escrito sobre el estado que guarda la impartición y administración de justicia en la Entidad.
 
-El Presidente del Tribunal Superior de Justicia, lo será también del Consejo de la Judicatura; no integrará Sala ni realizará funciones jurisdiccionales, y una vez concluido su encargo como Presidente podrá reincorporarse a sus funciones jurisdiccionales por el tiempo que le falte para concluir su mandato constitucional.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+La Presidenta o el Presidente del Tribunal Superior de Justicia, será también del Consejo de la Judicatura; no integrará Sala ni realizará funciones jurisdiccionales, y una vez concluido su encargo como Presidente o presidenta podrá reincorporarse a sus funciones jurisdiccionales por el tiempo que le falte para concluir su mandato constitucional.
 
 Los Magistrados Regionales del Tribunal Superior de Justicia durarán en sus funciones seis años, con posibilidad de ser reelectos por un periodo más en términos del Código de Organización del Poder Judicial del Estado. Su adscripción será acordada por el Consejo de la Judicatura; todos tendrán la misma categoría y percepciones, y gozarán de los mismos emolumentos, los cuales no podrán ser disminuidos durante el periodo de su encargo.
 
@@ -1889,9 +1921,15 @@ La administración, vigilancia y disciplina de los recursos presupuestales del T
 
 La base de la división territorial y de la organización política y administrativa del Estado de Chiapas es el Municipio Libre.
 
-Cada municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal, y el número de Síndicos y regidores que la ley determine; La ley determinará los requisitos de elegibilidad para la conformación de los Ayuntamientos los cuales, además, contarán con integrantes de representación proporcional.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+Cada municipio será gobernado por un ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad de género; la ley determinará los requisitos de elegibilidad para la conformación de los Ayuntamientos los cuales, además, contarán con integrantes de representación proporcional.
 
 La competencia que esta Constitución otorga al Gobierno Municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+En los municipios indígenas regidos por sistemas normativos internos, elegirán a sus integrantes conforme a sus normas, tradiciones y prácticas democráticas, por ciudadanos pertenecientes a éstos.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2061,7 +2099,9 @@ El nombramiento y remoción de los Fiscales de Delitos Electorales, y de Combate
 
 Para ser nombrado Fiscal General del Estado, se deberá cumplir con los requisitos siguientes:
 
-I. Ser ciudadano chiapaneco por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+I. Ser Ciudadana o Ciudadano chiapaneco por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
 II. Tener cuando menos treinta y cinco años cumplidos el día de su designación.
 
@@ -2143,9 +2183,13 @@ La Comisión no tendrá competencia en asuntos electorales y jurisdiccionales.
 
 Asimismo, contará con las áreas especializadas necesarias para el cumplimiento de sus objetivos. Los órganos de la Comisión se integrarán y funcionarán de acuerdo a la ley de la materia y su normatividad interna.
 
-La Comisión Estatal de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez consejeros que serán elegidos por el voto de las dos terceras partes de los miembros del Congreso del Estado o, en sus recesos, por la mayoría de la Comisión Permanente. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
 
-El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior y la ley de la materia. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Noveno de esta Constitución.
+La Comisión Estatal de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez Consejeras o Consejeros que serán elegidos por el voto de las dos terceras partes de los miembros del Congreso del Estado o, en sus recesos, por la mayoría de la Comisión Permanente. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente serán sustituidos los dos consejeros o consejeras de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+La Presidenta o el Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior y la ley de la materia. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Noveno de esta Constitución.
 
 El Presidente de la Comisión Estatal de los Derechos Humanos presentará anualmente a los Poderes del Estado un informe de actividades. Al efecto comparecerá ante el Congreso en los términos que disponga la ley.
 
@@ -2199,61 +2243,113 @@ Para garantizar que los referidos organismos electorales gocen de autonomía fin
 
 Dichos organismos electorales están obligados a cumplir con todas las disposiciones que se establezcan para la administración de recursos públicos, y deberán ejercer sus presupuestos bajo los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2020)</small>
 
 ###### Artículo 100.
 
-El Instituto de Elecciones y Participación Ciudadana es un organismo público local electoral dotado de personalidad jurídica y patrimonio propio, gozará de autonomía en su funcionamiento e independencia en sus decisiones mismo que tendrá a su cargo la organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Gobernador, Diputados locales y miembros de Ayuntamientos, en función concurrente con el Instituto Nacional Electoral.
+El Instituto de Elecciones y Participación Ciudadana es un organismo público local electoral dotado de personalidad jurídica y patrimonio propio, gozará de autonomía en su funcionamiento e independencia en sus decisiones mismo que tendrá a su cargo la organización, desarrollo y vigilancia de los procesos electorales para las elecciones a la Gubernatura, Diputaciones locales y miembros de Ayuntamientos, en función concurrente con el Instituto Nacional Electoral.
 
-Contará con un órgano de dirección superior, integrado por un Consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto, designados por el Consejo General del Instituto Nacional Electoral. Asimismo, se integrará con un representante de cada partido político y un Secretario Ejecutivo quienes asistirán con voz, pero sin voto.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
 
-El Secretario Ejecutivo será nombrado por el Consejo General del Organismo Público Local Electoral en la forma y términos que señala la ley, durarán en su cargo seis años y fungirá como Secretario del Consejo General. La Secretaría Ejecutiva contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
+Contará con un órgano de dirección superior, integrado por una Consejera o Consejero Presidente y seis Consejeras o Consejeros Electorales, con derecho a voz y voto, designados por el Consejo General del Instituto Nacional Electoral. Asimismo, se integrará con las personas representantes de cada partido político y una Secretaria o Secretario Ejecutivo, quienes asistirán con voz, pero sin voto.
 
-El Instituto de Elecciones y Participación Ciudadana contará con una Contraloría General, que tendrá a su cargo la fiscalización de las finanzas y recursos del Organismo Público Local Electoral. El Titular de la Contraloría General del Instituto de Elecciones y Participación Ciudadana será designado por la Legislatura del Estado en la forma y términos que señale la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la Presidencia del Consejo General y mantendrá la coordinación técnica necesaria con el Órgano Superior de Fiscalización del Estado de Chiapas.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
 
-El Consejero Presidente y los Consejeros Electorales durarán en su cargo siete años y no podrán ser reelectos. Durante su ejercicio no podrán tener ningún otro empleo, cargo o comisión con excepción de aquellos en que actúen en representación del Consejo General y de los cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
-
-Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
-
-La ley establecerá los requisitos que deberán reunirse para ocupar los cargos de Secretario Ejecutivo y el titular de la Contraloría General.
-
-La remuneración que perciban el Consejero Presidente y los Consejeros Electorales será determinada por la Junta General Ejecutiva del propio Instituto, con base en su autonomía y bajo los principios de austeridad, racionalidad y disciplina del gasto público. Dicha remuneración no podrá disminuirse durante el tiempo que dure su encargo.
-
-Las leyes y el estatuto correspondiente determinarán los regímenes laborales y de responsabilidades de los servidores públicos del organismo público local electoral.
-
-Asimismo, se faculta al Instituto de Elecciones y Participación Ciudadana para organizar, desarrollar y vigilar las elecciones de autoridades auxiliares municipales.
-
-La ley determinará las facultades y atribuciones que en materia de candidaturas independientes y de consulta popular tendrá el Instituto de Elecciones y Participación Ciudadana.
-
-Conforme a lo que establece la Constitución Política de los Estados Unidos Mexicanos en su artículo 122 Apartado C Base Primera fracción V inciso f), en relación al artículo 116 fracción IV inciso d), el Instituto de Elecciones y Participación Ciudadana podrá convenir con el Instituto Nacional Electoral que este último se haga cargo de la organización de los procesos electorales locales en el Estado de Chiapas en los términos que establezca la Ley.
-
-El Instituto de Elecciones y Participación Ciudadana y el Tribunal Electoral del Estado de Chiapas, podrán ordenar la realización de recuentos de alguna o algunas casillas, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la ley, la que determinará los casos en que podrán realizarse recuentos totales o parciales en los ámbitos administrativo y jurisdiccional.
+La Secretaria o Secretario Ejecutivo será nombrado por el Consejo General del Organismo Público Local Electoral en la forma y términos que señala la ley, durará en su cargo seis años y fungirá como Secretario del Consejo General. La Secretaría Ejecutiva contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán regulados por la ley.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
+El Instituto de Elecciones y Participación Ciudadana contará con una Contraloría General, que tendrá a su cargo la fiscalización de las finanzas y recursos del Organismo Público Local Electoral. El Titular de la Contraloría General del Instituto de Elecciones y Participación Ciudadana será designado por la Legislatura del Estado en la forma y términos que señale la ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la Presidencia del Consejo General y mantendrá la coordinación técnica necesaria con el Órgano Superior de Fiscalización del Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+El Consejero Presidente y los Consejeros Electorales durarán en su cargo siete años y no podrán ser reelectos. Durante su ejercicio no podrán tener ningún otro empleo, cargo o comisión con excepción de aquellos en que actúen en representación del Consejo General y de los cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La ley establecerá los requisitos que deberán reunirse para ocupar los cargos de Secretario Ejecutivo y el titular de la Contraloría General.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La remuneración que perciban el Consejero Presidente y los Consejeros Electorales será determinada por la Junta General Ejecutiva del propio Instituto, con base en su autonomía y bajo los principios de austeridad, racionalidad y disciplina del gasto público. Dicha remuneración no podrá disminuirse durante el tiempo que dure su encargo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Las leyes y el estatuto correspondiente determinarán los regímenes laborales y de responsabilidades de los servidores públicos del organismo público local electoral.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+En los municipios regidos electoralmente por sistemas normativos internos indígenas, el Instituto de Elecciones y Participación Ciudadana tendrá la obligación de reconocer, respetar, coadyuvar, salvaguardar y garantizar el funcionamiento de dichos sistemas, vigilando que se respeten en todo momento los derechos individuales de las y los miembros de la comunidad.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Asimismo, se faculta al Instituto de Elecciones y Participación Ciudadana para organizar, desarrollar y vigilar las elecciones de autoridades auxiliares municipales.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La ley determinará las facultades y atribuciones que en materia de candidaturas independientes y de consulta popular tendrá el Instituto de Elecciones y Participación Ciudadana.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+Conforme a lo que establece la Constitución Política de los Estados Unidos Mexicanos en su artículo 116, fracción IV, inciso d), el Instituto de Elecciones y Participación Ciudadana, podrá convenir con el Instituto Nacional Electoral que este último se haga cargo de la organización de los procesos electorales locales en el Estado de Chiapas en los términos que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+El Instituto de Elecciones y Participación Ciudadana y el Tribunal Electoral del Estado de Chiapas, podrán ordenar la realización de recuentos de alguna o algunas casillas, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la ley, la que determinará los casos en que podrán realizarse recuentos totales o parciales en los ámbitos administrativo y jurisdiccional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2020)</small>
+
 ###### Artículo 101.
 
-Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales y garantizará la protección de los derechos político- electorales de los ciudadanos.
+Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales, así como de los procesos de elección de autoridades bajo el procedimiento de sistemas normativos internos de los municipios indígenas y garantizará la protección de los derechos político - electorales de los ciudadanos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 El Tribunal Electoral del Estado de Chiapas es un organismo constitucional autónomo, de carácter permanente con personalidad jurídica y patrimonio propios, independiente en sus decisiones que será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determinen la Constitución Política de los Estados Unidos Mexicanos, las Leyes Generales, esta Constitución y la ley local de la materia. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
 
-El Tribunal Electoral del Estado de Chiapas funcionará en Pleno, se integrará por tres Magistrados designados por el Senado de la República y sus emolumentos serán los previstos en el presupuesto de egresos del Estado del ejercicio fiscal del año correspondiente.
+El Tribunal Electoral del Estado de Chiapas funcionará en Pleno, se integrará por tres Magistradas o Magistrados designados por el Senado de la República y sus emolumentos serán los previstos en el presupuesto de egresos del Estado, del ejercicio fiscal del año correspondiente.
 
-Los Magistrados del Tribunal Electoral del Estado (sic) Chiapas designarán de entre ellos, por mayoría de votos, a su Presidente. La Presidencia deberá ser rotatoria por un periodo de dos años conforme al procedimiento y requisitos establecidos en la ley.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+Las y los Magistrados del Tribunal Electoral del Estado de Chiapas designarán de entre ellos, por mayoría de votos, a su Presidente. La Presidencia deberá ser rotatoria por un periodo de dos años conforme al procedimiento y requisitos establecidos en la ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 En caso de falta absoluta de alguno de los Magistrados, el Magistrado Presidente del Tribunal lo hará del conocimiento al Senado. Si ocurriera una vacante temporal, la ley respectiva establecerá el procedimiento atinente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 Al Tribunal Electoral del Estado de Chiapas le corresponderá resolver de forma definitiva e inatacable las impugnaciones en contra de los actos y resoluciones del Instituto de Elecciones y Participación Ciudadana a través de los medios establecidos en la ley de la materia; los conflictos o diferencias laborales entre el Tribunal y sus servidores y entre el Instituto de Elecciones y Participación Ciudadana y sus servidores públicos electorales, así como las determinaciones sobre imposición de sanciones por parte del Instituto de Elecciones y Participación Ciudadana.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 El Tribunal Electoral del Estado de Chiapas expedirá su reglamento interno y los acuerdos generales para su adecuado funcionamiento, en los términos que señale la ley.
 
-El Tribunal Electoral del Estado de Chiapas contará con una Contraloría General adscrita al Pleno, que tendrá a su cargo la fiscalización de las finanzas y recursos del Tribunal Electoral; su titular será nombrado por el Congreso del Estado en la forma y términos que señale la ley.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+El Tribunal Electoral del Estado de Chiapas contará con una Contraloría General que tendrá a su cargo la fiscalización de las finanzas y recursos del Tribunal Electoral; su Titular será nombrado por el Pleno del propio Tribunal Electoral en la forma y términos que señale la ley, y mantendrá coordinación técnica con el Órgano de Fiscalización Superior del Congreso del Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 El Magistrado Presidente y los Magistrados Electorales, durante el tiempo que transcurra entre dos procesos electorales, estarán obligados a realizar tareas de investigación, docencia y difusión de la materia electoral y de participación ciudadana.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 La ley fijará las causales de nulidad de las elecciones de Gobernador, Diputados locales y Ayuntamientos. El Tribunal Electoral del Estado de Chiapas sólo podrá declarar la nulidad de una elección por la actualización de alguna de las causales expresamente establecidas en la ley. La ley establecerá los supuestos y las reglas para el ejercicio de los medios de apremio para hacer cumplir de manera expedita sus resoluciones.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+En la substanciación y resolución de los medios de impugnación el Tribunal Electoral respetará los sistemas normativos internos de los municipios indígenas, conforme a sus instituciones y prácticas democráticas, así como la interpretación progresiva en el marco del pluralismo jurídico.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+Derivado de las controversias que se susciten en los procedimientos de los sistemas normativos internos de los municipios indígenas, durante esos procesos electivos, el Tribunal Electoral contará con un área especializada para la mediación y solución de éstos a través de medios alternos de justicia.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4678,3 +4774,15 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispu
 Artículo Tercero.- Dentro del plazo de 30 días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá realizar las adecuaciones normativas correspondientes a la Legislación Electoral, de conformidad con lo previsto en el presente Decreto.
 
 Artículo Cuarto.- Una vez aprobado el presente Decreto, notifíquese a la Suprema Corte de Justicia de la Nación, que este Honorable Congreso del Estado se encuentra en vía de cumplimiento a la resolución de la Acción de Inconstitucionalidad 78/2017 y su acumulada 79/2017.
+
+P.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 234 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Dentro del plazo de 30 días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá realizar las adecuaciones normativas correspondientes a la Legislación Electoral, de conformidad con lo previsto en el presente Decreto.
+
+Artículo Cuarto.- En Consejo General del Instituto de Elecciones y Participación Ciudadana y el Pleno del Tribunal Electoral del Estado, dictarán los acuerdos necesarios para hacer efectivas las disposiciones previstas en el presente Decreto, y deberán realizar las acciones necesarias para ajustar el mismo a cada una de sus normativas.
