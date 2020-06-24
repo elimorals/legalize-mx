@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2020-01-29"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -1943,7 +1943,9 @@ Cuarto.- En un plazo no mayor a 90-noventa días hábiles, contados a partir de 
 
 Quinto.- En un plazo no mayor de 90-noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, los Gobiernos Municipales y el Gobierno del Estado, a través de la Secretaría, deberán celebrar un convenio de coordinación y colaboración en materia de protección y bienestar animal.
 
-Sexto.- El Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León, deberá de estar instalado a los 90 días naturales de la entrada en vigor del presente Decreto.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+Sexto.- El Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León, deberá integrarse e instalarse dentro de los 60 días hábiles siguientes a que se declare oficialmente la apertura de las oficinas Estatales y Municipales.
 
 Séptimo.- En un plazo no mayor a 30-treinta días hábiles posteriores a la instalación del Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León, la Secretaría deberá poner a consideración del Consejo el manual para captura y atención de animales en la vía pública, mismo que deberá ajustarse a los principios de protección y bienestar animal integral y sostenible que dicta la presente Ley.
 
@@ -1956,3 +1958,9 @@ Décimo.- La Secretaría tendrá un plazo no mayor de 90-noventa días hábiles,
 Décimo Primero.- Los propietarios, poseedores o encargados de animales contarán con un plazo de 180-ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para inscribirlos en el Registro de Animales, conforme al artículo 15 de esta Ley.
 
 Décimo Segundo.- La Secretaría y los Municipios tendrán un plazo no mayor de 2- dos años, contados a partir de la entrada en vigor del presente Decreto, para llevar a cabo la sustitución o reemplazo progresivo de animales de carga y tiro por vehículos automotores, con la aplicación de recursos del Fideicomiso Mixto.
+
+P.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 315. SE REFORMA EL QUINTO TRANSITORIO DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN Y SE REFORMA EL SEXTO TRANSITORIO DEL DECRETO 176 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE FECHA 29 DE ENERO DE 2020, QUE REFORMA LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
