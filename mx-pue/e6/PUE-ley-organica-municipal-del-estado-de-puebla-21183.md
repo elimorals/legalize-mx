@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2019-11-28"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1189,7 +1189,9 @@ El Concejo Municipal tendrá las mismas facultades que el Ayuntamiento. Los miem
 
 El Ayuntamiento saliente hará entrega al Ayuntamiento electo, de la documentación que contenga la situación que guarda la Administración Pública Municipal dentro de un plazo de cinco días contados a partir de la fecha de toma de posesión del Ayuntamiento electo.
 
-En el acto de entrega-recepción, deberá estar presente un representante del Órgano de Fiscalización Superior del Congreso del Estado.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+En el acto de entrega-recepción, deberá estar presente un representante de la Auditoría Superior del Estado
 
 La entrega-recepción no podrá dejar de realizarse por ningún motivo y bajo ninguna circunstancia.
 
@@ -1201,7 +1203,9 @@ I.- Los libros de las sesiones de Cabildo del Ayuntamiento saliente y la informa
 
 II.- La documentación justificativa y comprobatoria relativa a la situación financiera y estados contables, así como los informes de avance de gestión financiera, que deberán contener los libros de contabilidad y registros auxiliares, correspondientes al Ayuntamiento saliente;
 
-III.- La documentación acerca del estado que guarda la cuenta de la Hacienda Pública Municipal, la que deberá incluir la información relativa a los estados de origen y aplicación de recursos, los ingresos y egresos del Municipio, las observaciones, recomendaciones, requerimientos o apercibimientos emitidos por el Órgano de Fiscalización Superior del Estado o por el Congreso del Estado, por sí o a través de la Comisión correspondiente;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+III.- La documentación acerca del estado que guarda la cuenta de la Hacienda Pública Municipal, la que deberá incluir la información relativa a los estados de origen y aplicación de recursos, los ingresos y egresos del Municipio, las observaciones, recomendaciones, requerimientos o apercibimientos emitidos por la Auditoría Superior del Estado o por el Congreso del Estado, por sí o a través de la Comisión correspondiente;
 
 IV.- La situación que guarda la deuda pública municipal, la documentación relativa y su registro;
 
@@ -1227,9 +1231,11 @@ XII.- Entregar la documentación en la que consten los Registros Fiscales del Mu
 
 XIII.- La demás información relevante, para garantizar la continuidad de la Administración Pública Municipal.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 67.
 
-El Síndico del Ayuntamiento electo levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia a los integrantes del Ayuntamiento saliente que participaron y al representante del Órgano de Fiscalización Superior del Estado, quedando un ejemplar en la Secretaría General del Ayuntamiento a disposición del público para su consulta.
+El Síndico del Ayuntamiento electo levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia a los integrantes del Ayuntamiento saliente que participaron y al representante de la Auditoría Superior del Estado, quedando un ejemplar en la Secretaría General del Ayuntamiento a disposición del público para su consulta.
 
 ###### ARTÍCULO 68.
 
@@ -1241,7 +1247,9 @@ El dictamen se someterá, dentro de los quince días siguientes, al conocimiento
 
 Una vez que haya sido sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
 
-El Ayuntamiento electo, dentro de los quince días hábiles siguientes, deberá remitir copia del expediente de entrega-recepción, al Órgano de Fiscalización Superior del Estado, para efecto de la revisión de las cuentas públicas municipales.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+El Ayuntamiento electo, dentro de los quince días hábiles siguientes, deberá remitir copia del expediente de entrega-recepción, a la Auditoría Superior del Estado, para efecto de la revisión de las cuentas públicas municipales.
 
 #### SECCIÓN I. DE LOS PRINCIPIOS Y OBJETIVOS DE LA PLANEACIÓN
 
@@ -1313,19 +1321,25 @@ VIII.- Presentar al Congreso del Estado, a través del Ejecutivo del Estado, pre
 
 Asimismo, presentarán las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de los impuestos sobre la propiedad inmobiliaria.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
 
-IX.- Aprobar el Presupuesto de Egresos del año siguiente, a más tardar dentro de los cinco días siguientes a aquél en el que se haya aprobado la Ley de Ingresos del Municipio de que se trate, que deberá enviar al Ejecutivo del Estado, para que ordene su publicación en el Periódico Oficial del Estado, remitiendo copia del mismo al Órgano de Fiscalización Superior del Estado;
+IX.- Aprobar el Presupuesto de Egresos del año siguiente, a más tardar dentro de los cinco días siguientes a aquél en el que se haya aprobado la Ley de Ingresos del Municipio de que se trate, que deberá enviar al Ejecutivo del Estado, para que ordene su publicación en el Periódico Oficial del Estado, remitiendo copia del mismo a la Auditoría Superior del Estado;
 
 X.- Celebrar convenios con los Ayuntamientos integrantes de una misma región económica del Estado, para estudiar la congruencia entre los egresos y los ingresos de cada uno, que les sean comunes;
 
 XI.- Acordar reglas para la conservación y administración de las cárceles municipales, así como para la alimentación de los detenidos por las autoridades del Municipio;
 
-XII.- Revisar y aprobar la cuenta pública correspondiente al ejercicio del Presupuesto de Egresos inmediato anterior, que presente el Presidente Municipal, para su remisión al Órgano de Fiscalización Superior del Estado, en los plazos que señale la legislación aplicable; así como revisar y aprobar el Acta Circunstanciada del estado que guarda la Hacienda Pública y los bienes del Municipio al término de su gestión Constitucional, en términos de la presente Ley;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
 
-XIII.- Revisar y aprobar, mediante Acta Circunstanciada, los estados de origen y aplicación de recursos y el informe de avance de gestión financiera, para su remisión, en los términos que señale la ley aplicable, al Órgano de Fiscalización Superior del Estado;
+XII.- Revisar y aprobar la cuenta pública correspondiente al ejercicio del Presupuesto de Egresos inmediato anterior, que presente el Presidente Municipal, para su remisión a la Auditoría Superior del Estado, en los plazos que señale la legislación aplicable; así como revisar y aprobar el Acta Circunstanciada del estado que guarda la Hacienda Pública y los bienes del Municipio al término de su gestión Constitucional, en términos de la presente Ley;
 
-XIV.- Permitir al personal debidamente comisionado por el Órgano de Fiscalización Superior del Estado la realización de todas aquellas funciones que la ley otorga a dicho órgano para la revisión y fiscalización de las cuentas públicas;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+XIII.- Revisar y aprobar, mediante Acta Circunstanciada, los estados de origen y aplicación de recursos y el informe de avance de gestión financiera, para su remisión, en los términos que señale la ley aplicable, a la Auditoría Superior del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+XIV.- Permitir al personal debidamente comisionado por la Auditoría Superior del Estado la realización de todas aquellas funciones que la ley otorga a dicho órgano para la revisión y fiscalización de las cuentas públicas;
 
 XV.- Designar de entre los Regidores a quienes deban integrar las comisiones que se determinan en la presente Ley;
 
@@ -1733,7 +1747,9 @@ XXXI.- Hacer que la Tesorería Municipal forme los cortes de caja ordinarios en 
 
 XXXII.- Presenciar el corte de caja mensual en la Tesorería Municipal, dándole su visto bueno después de examinar los libros y documentos y de comprobar los valores existentes en caja;
 
-XXXIII.- Levantar y presentar acta circunstanciada del estado que guarda la Hacienda Pública y de los bienes del Municipio al término de su gestión constitucional, o en los casos a que se refiere la presente Ley, ante la presencia de los miembros del Ayuntamiento, del funcionario que habrá de relevarlo y de los representantes del Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+XXXIII.- Levantar y presentar acta circunstanciada del estado que guarda la Hacienda Pública y de los bienes del Municipio al término de su gestión constitucional, o en los casos a que se refiere la presente Ley, ante la presencia de los miembros del Ayuntamiento, del funcionario que habrá de relevarlo y de los representantes de la Auditoría Superior del Estado;
 
 XXXIV.- Autorizar los libros de contabilidad de la Tesorería del Municipio, firmando y sellando la primera y última fojas y sellando únicamente las intermedias;
 
@@ -1775,11 +1791,15 @@ LI.- Dar lectura, en sesión pública y solemne, dentro de los primeros quince d
 
 LII.- Promover y vigilar la formulación del proyecto de Presupuesto de Ingresos del Municipio para el ejercicio inmediato, su estudio por el Ayuntamiento, y su envío oportuno al Congreso del Estado, a través del Ejecutivo del Estado, para su aprobación;
 
-LIII.- Promover y vigilar la formulación del proyecto de Presupuesto de Egresos para el ejercicio inmediato y someterlo al Ayuntamiento para su aprobación y publicación en el Periódico Oficial del Estado, remitiendo copia del mismo al Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+LIII.- Promover y vigilar la formulación del proyecto de Presupuesto de Egresos para el ejercicio inmediato y someterlo al Ayuntamiento para su aprobación y publicación en el Periódico Oficial del Estado, remitiendo copia del mismo a la Auditoría Superior del Estado;
 
 LIV.- Remitir al Congreso del Estado la cuenta pública, los estados de origen y aplicación de recursos, los informes de avance de gestión financiera, y demás información relativa al control legislativo del gasto, en los plazos que señale la legislación aplicable;
 
-LV.- Permitir al personal debidamente comisionado por el Órgano de Fiscalización Superior del Estado la realización de todas aquellas funciones que la ley otorga a dicho órgano para la revisión y fiscalización de las cuentas públicas, disponiendo el otorgamiento de las facilidades que sean necesarias para su correcto desempeño;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+LV.- Permitir al personal debidamente comisionado por la Auditoría Superior del Estado la realización de todas aquellas funciones que la ley otorga a dicho órgano para la revisión y fiscalización de las cuentas públicas, disponiendo el otorgamiento de las facilidades que sean necesarias para su correcto desempeño;
 
 LVI.- Nombrar y remover libremente a los directores, jefes de departamento y servidores públicos del Ayuntamiento que no tengan la calidad de empleados de base;
 
@@ -2377,7 +2397,9 @@ V.- Las remuneraciones y sus tabuladores serán públicos, y deberán especifica
 
 Tratándose del ejercicio que corresponda al inicio de la Administración Municipal, el Ayuntamiento electo deberá ratificar o, en su caso, proponer modificaciones al presupuesto de egresos vigente a más tardar el primero de junio del año correspondiente. Después de esta fecha no se podrá proponer modificación alguna.
 
-En caso de que se propongan modificaciones, las mismas deberán ser aprobadas por la mayoría del Cabildo, haciéndolo del conocimiento del Órgano de Fiscalización Superior del Estado.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+En caso de que se propongan modificaciones, las mismas deberán ser aprobadas por la mayoría del Cabildo, haciéndolo del conocimiento de la Auditoría Superior del Estado.
 
 ###### ARTÍCULO 148.
 
@@ -2385,9 +2407,11 @@ El presupuesto de egresos deberá contener las previsiones de gasto público que
 
 El gasto público comprende las erogaciones que por concepto de gasto corriente, inversión física, inversión financiera, o cualquier otra erogación, así como la cancelación de pasivo que realicen los Ayuntamientos en el ejercicio de sus facultades.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 149.
 
-La formulación de estados financieros o presupuestales se realizará con base en los principios, sistemas, procedimientos y métodos de contabilidad generalmente aceptados y conforme a las normas previstas en otros ordenamientos aplicables y a los lineamientos que al efecto establezca el Órgano de Fiscalización Superior del Estado.
+La formulación de estados financieros o presupuestales se realizará con base en los principios, sistemas, procedimientos y métodos de contabilidad generalmente aceptados y conforme a las normas previstas en otros ordenamientos aplicables y a los lineamientos que al efecto establezca la Auditoría Superior del Estado.
 
 ###### ARTÍCULO 150.
 
@@ -2555,9 +2579,11 @@ Cada Municipio contará con una Tesorería Municipal, que será la dependencia e
 
 El Tesorero se auxiliará, para el despacho de los asuntos de su competencia, de los servidores públicos que autorice el Ayuntamiento, de acuerdo con las necesidades del Municipio y presupuesto autorizado.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 165.
 
-El Tesorero, al tomar posesión de su cargo, recibirá copia del inventario municipal y levantará un acta circunstanciada de la situación financiera del Municipio, remitiendo un ejemplar de dicha documentación al Presidente Municipal, al Órgano de Fiscalización Superior del Estado y al Secretario del Ayuntamiento.
+El Tesorero, al tomar posesión de su cargo, recibirá copia del inventario municipal y levantará un acta circunstanciada de la situación financiera del Municipio, remitiendo un ejemplar de dicha documentación al Presidente Municipal, a la Auditoría Superior del Estado y al Secretario del Ayuntamiento.
 
 ###### ARTÍCULO 166.
 
@@ -2593,7 +2619,9 @@ XII.- Custodiar y ejercer las garantías que se otorguen a favor del patrimonio 
 
 XIII.- Proponer al Ayuntamiento la cancelación de cuentas incobrables;
 
-XIV.- Permitir a los integrantes del Ayuntamiento la consulta de la información que legalmente le corresponda, dentro del ámbito de su competencia, así como proporcionarla al Órgano de Fiscalización Superior del Estado, a requerimiento de este último, en términos de esta Ley y demás aplicables;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+XIV.- Permitir a los integrantes del Ayuntamiento la consulta de la información que legalmente le corresponda, dentro del ámbito de su competencia, así como proporcionarla a la Auditoría Superior del Estado, a requerimiento de este último, en términos de esta Ley y demás aplicables;
 
 XV.- Proporcionar la información que le soliciten los visitadores nombrados por el Ejecutivo, que sea procedente legalmente;
 
@@ -2607,9 +2635,13 @@ XIX.- Formular, bajo la vigilancia del Presidente Municipal, dentro del plazo qu
 
 XX.- Elaborar el informe y demás documentos fiscales que deberá remitir el Ayuntamiento a las autoridades del Estado, de conformidad con la ley de la materia;
 
-XXI.- Elaborar y someter a la aprobación del Ayuntamiento en forma oportuna, el informe de la cuenta pública municipal, así como los estados de origen y aplicación de recursos y los informes de avance de gestión financiera, para su remisión al Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
 
-XXII.- Solventar oportunamente los pliegos que formule el Órgano de Fiscalización Superior del Estado, informando de lo anterior al Ayuntamiento;
+XXI.- Elaborar y someter a la aprobación del Ayuntamiento en forma oportuna, el informe de la cuenta pública municipal, así como los estados de origen y aplicación de recursos y los informes de avance de gestión financiera, para su remisión a la Auditoría Superior del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+XXII.- Solventar oportunamente los pliegos que formule la Auditoría Superior del Estado, informando de lo anterior al Ayuntamiento;
 
 XXIII.- Participar en la elaboración de los proyectos de leyes, reglamentos y demás disposiciones relacionadas con el patrimonio municipal;
 
@@ -2621,7 +2653,9 @@ XXV.- Auxiliar y representar, en su caso, al Presidente Municipal ante las insta
 
 XXVI.- Proporcionar al auditor externo que designe el Ayuntamiento la información que requiera;
 
-XXVII.- Cumplir, en el control interno de los recursos públicos que ejerzan las Juntas Auxiliares, con las normas, procedimientos, métodos y sistemas contables y de auditoría que al efecto establezca el Órgano de Fiscalización Superior del Estado; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2020)</small>
+
+XXVII.- Cumplir, en el control interno de los recursos públicos que ejerzan las Juntas Auxiliares, con las normas, procedimientos, métodos y sistemas contables y de auditoria que al efecto establezca la Auditoría Superior del Estado;
 
 XXVIII.- Las demás que le confieran esta Ley y disposiciones aplicables.
 
@@ -4218,6 +4252,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 44, LAS FRACCIONES LXII Y LXIII DEL ARTÍCULO 91; Y ADICIONA LA FRACCIÓN LXIV AL ARTÍCULO 91, TODOS DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 65, LA FRACCIÓN III DEL 66, EL 67, EL 69, LAS FRACCIONES IX, XII, XIII Y XIV DEL 78, LAS FRACCIONES XXXIII, LIII Y LV DEL 91, EL SEGUNDO PÁRRAFO DEL 147, EL 149, EL 165, LAS FRACCIONES XIV, XXI, XXII Y XXVII DEL 166, TODOS DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
