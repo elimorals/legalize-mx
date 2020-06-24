@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2020-06-15"
+last_updated: "2020-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -2351,6 +2351,10 @@ El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y esparcimiento de sus hijos.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2020)</small>
+
+El Estado garantizará el derecho de todas las mujeres a la protección contra todo tipo de violencia motivada por su género, incluyendo la violencia política.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Art. 2o.
@@ -4194,3 +4198,9 @@ P.O. 15 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 310, SE REFORMA EL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 298. SE ADICIONA DE UN NOVENO PÁRRAFO AL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
