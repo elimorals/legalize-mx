@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2020-03-17"
+last_updated: "2020-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1837,13 +1837,21 @@ VI. El vertido directo de lodos provenientes de procesos industriales y de las p
 
 VII. La circulación de vehículos en áreas urbanas o consideradas como tales, según los respectivos planes o programas de desarrollo urbano y ordenamiento ecológico, y conforme al respectivo reglamento, cuando su carga contenga sustancias peligrosas, ya fueren materias primas, productos, subproductos, desechos o residuos;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
-VIII. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado, y el arrojo o depósito de residuos en la vía pública, en terrenos baldíos y áreas verdes o de equipamiento urbano, y
+VIII. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado, y el arrojo o depósito de residuos en la vía pública, en terrenos baldíos y áreas verdes o de equipamiento urbano;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
-IX. El uso de popotes plásticos para el consumo de bebidas en establecimientos comerciales y mercantiles.
+IX. El uso de popotes plásticos para el consumo de bebidas en establecimientos comerciales y mercantiles, y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2020)</small>
+
+X. El uso de utensilios de plásticos, polietileno o productos homólogos en las oficinas oficiales del Estado y municipios que se utilicen en los servicios de cafetería; salvo aquellos que sean biodegradables.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN X, P.O. 25 DE JUNIO DE 2020]</small>
+
+Quienes incurran en desacato a lo establecido en la fracción anterior, serán acreedores a lo establecido en los artículos, 159 fracción I, y 160, de la Ley Ambiental del Estado de San Luis Potosí.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2020)</small>
 
@@ -3584,3 +3592,15 @@ P.O. 17 DE MARZO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0695.- SE REFORMA EL ARTÍCULO 107 EN SUS FRACCIONES VIII Y IX; Y ADICIONA AL MISMO ARTÍCULO 107 LA FRACCIÓN X, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Ecología y Gestión Ambiental dispondrá de un lapso de trescientos sesenta días y cinco días a partir de la vigencia de este Decreto, para promover mediante campañas de difusión, la eliminación del uso de utensilios de plásticos, polietileno o productos homólogos en las oficinas oficiales del Estado y municipios que se utilicen en los servicios de cafetería, y sugerir el uso de biodegradables.
+
+CUARTO. Las oficinas oficiales del Estado y municipios dispondrán de un lapso de trescientos sesenta y cinco días posteriores a la vigencia del presente Decreto, para adecuarse a estas disposiciones.
