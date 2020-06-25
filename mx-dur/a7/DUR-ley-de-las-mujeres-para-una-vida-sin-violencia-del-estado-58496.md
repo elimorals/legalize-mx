@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2020-03-08"
+last_updated: "2020-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -205,9 +205,11 @@ VIII. Hostigamiento: Ejercicio del poder en una relación de subordinación real
 
 IX. Acoso Sexual: Forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en espacios públicos o privados, en uno o varios eventos;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
-X. Violencia Política: Es el acto u omisión que constituye violencia física, psicológica o sexual cometida por los sujetos a que hace mención el artículo 442 de la Ley General de Instituciones y Procedimientos Electorales, en forma individual o colectivamente, por si o a través de terceros, en contra de una o varias mujeres o de sus familias, antes, durante o después de las precampañas y campañas políticas; al momento de ser electas; en ejercicio de la función o representación pública; que tenga por objeto o resultado restringir, anular o menoscabar el ejercicio efectivo de los derechos político-electorales, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones y la libertad de organización, con la finalidad de limitar, suspender, impedir o restringir el ejercicio de su labor o para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones o en el ejercicio de sus derechos;
+X. Violencia Política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2019)</small>
 
@@ -239,11 +241,17 @@ III. Laboral;
 
 IV. Escolar;
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2020)</small>
 
-V. Público, e
+V. Político;
 
-VI. Institucional
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2020)</small>
+
+VI. Público, e
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+
+VII. Institucional.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -271,115 +279,55 @@ La Violencia contra las mujeres en el ámbito laboral se considera: la negativa 
 
 Constituye violencia en contra de las mujeres en el ámbito escolar todas aquellas acciones u omisiones que dañen la autoestima de las alumnas con actos de discriminación por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, su situación académica, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos, realizada por alumnos, docentes, personal directivo o administrativo, los prefectos, los intendentes, entre otros integrantes de la institución académica.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
 
 ###### Artículo 11 Bis.
 
-Constituye violencia política contra las mujeres, cualquier acto u omisión que cause daño de cualquier índole, o que, en virtud de la fortaleza de las mujeres, no causándolo, tenga el objetivo de impedir, limitar, amedrentar, desprestigiar, ridiculizar o excluir a una o varias mujeres del ejercicio de sus derechos políticos electorales, como pueden ser: su acceso a los espacios de poder público y al debate de la toma de decisiones, o marginarla de la conformación de órganos de representación popular, o que desista o abandone su actividad política o afectarla en el ejercicio de su encargo público.
+Constituye violencia política contra las mujeres en razón de género, cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
 
 ###### Artículo 11 Ter.
 
-Se consideran actos de violencia política hacia las mujeres entre otros:
+La violencia política contra las mujeres en razón de género puede expresarse, entre otras, a través de las siguientes conductas:
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+I. Incumplir las disposiciones jurídicas internacionales, nacionales y estatales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-a) Limitar sin justificación el ejercicio de sus derechos para contender en los procesos internos de sus institutos políticos, con la finalidad de que no logren acceder a una candidatura, o en los procesos interpartidarios para ocupar un cargo o cartera dentro de su instituto político;
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+III. Proporcionar, ocultar, falsear u omitir información, a quien aspira u ocupa, registro de candidatura o cualquier otro tipo de actividad político-electoral o administrativa o induzca al incorrecto ejercicio de sus funciones;
 
-b) Proporcionar información incompleta, falsa o errónea de datos personales de las mujeres candidatas a cargo de elección popular, al Instituto Electoral y de Participación Ciudadana del Estado de Durango o de los Consejos Municipales del propio Instituto, con la finalidad de impedir el registro, anular sus candidaturas, de menoscabar los derechos político-electorales de las mujeres y la garantía del debido proceso electoral;
+IV. Proporcionar información incompleta, falsa o errónea a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+V. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
 
-c) Limitar, retener o retrasar, sin justificación, la entrega de recursos para el financiamiento de las campañas electorales;
+VI. Realizar, distribuir, publicar, revelar propaganda política-electoral, información personal, o realizar cualquier expresión, imagen, mensaje en cualquier modo físico o virtual, de candidatas electas o designadas, o en el ejercicio de sus funciones públicas o políticas, con el objetivo o fin de calumniar, degradar, descalificar, difamar, injuriar, menoscabar su dignidad humana, su imagen, limitar sus derechos político-electorales o reproduzcan relaciones de dominación, desigualdad o discriminación por estereotipos de género;
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+VII. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
-d) Coartar o impedir las facultades inherentes en la Constitución y los ordenamientos jurídicos, para proteger sus derechos frente a los actos que violenten o eviten el ejercicio de su representación política;
+VIII. Impedir, por cualquier medio, tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+IX. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
 
-e) Impedir o restringir el ejercicio de sus derechos político-electorales, mediante la aplicación de sanciones sin motivación o fundamentación, contraviniendo las formalidades esenciales del procedimiento, sin respetar la presunción de inocencia ni el derecho humano al debido proceso legal;
+X. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial en ejercicio de sus derechos políticos;
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+XI. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
 
-f) Publicar o revelar información personal, privada o falsa, con el objetivo de difamar o menoscabar su dignidad humana, con la finalidad de obtener con o sin su consentimiento, la remoción, renuncia o licencia al cargo electo o en ejercicio;
+XII. Obligar, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+XIII. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
 
-g) Proporcionar u ocultar, mediante el engaño, información que induzca al ejercicio ilícito de sus funciones de representación política;
+XIV. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+XV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
 
-h) Obligar, intimidar o amenazar a suscribir documentos, a colaborar en proyectos o adoptar decisiones en contra de su voluntad o del interés público, en función de su representación política;
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
-
-i) Asignar responsabilidades de género que tengan como resultado la limitación del ejercicio de la función político publica;
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2019)</small>
-
-j) Divulgar o revelar información personal y privada de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político-publicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan;
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2019)</small>
-
-k) Restringir el uso de la palabra, en las sesiones u otras reuniones y su participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación establecida.
-
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
-
-l) Impedir, por cualquier medio, asistir a la toma de protesta de su encargo, así como a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
-
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
-
-m) Dañar, en cualquier forma, elementos de la precampaña o de la campaña electoral de la mujer, impidiendo que la competencia electoral se desarrolle en condiciones de Igualdad.
-
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
-
-n) Imponer, por estereotipos de género, la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
-
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
-
-ñ) Impedir o restringir la reincorporación de la mujer a su cargo, cuando hagan uso de una licencia justificada, incluyendo la licencia de maternidad.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
-
-o) Restringir o impedir el uso de las acciones constitucionales y legales para proteger sus derechos, y/o evitar el cumplimiento de las resoluciones correspondientes;
-
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2019)</small>
-
-p) Aplicar sanciones pecuniarias, descuentos arbitrarios e Ilegales (sic) y/o retención de salarios.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
-
-q) Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
-
-r) Suministrar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa, errada o imprecisa que induzca al incorrecto ejercicio de sus atribuciones;
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
-
-s) Ocultar información u omitir la convocatoria de cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y/o actividades;
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
-
-t) Establecer conductas que impliquen amenazas verbales, difamación, desprestigio, burlas, descalificación, acecho, hostigamiento, acoso sexual y/o calumnias en público o privado, por cualquier medio convencional y/o digital;
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
-
-u) Presionar, intimidar y/u obligar de manera directa o indirecta a la renuncia o a la solicitud de licencia de los cargos de elección popular o de la función pública según sea el caso, y
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
-
-v) Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un espacio público, de poder o de decisión.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 12.
 
-La violencia contra las mujeres en el ámbito institucional, es el abuso de poder llevado a cabo por los servidores públicos de los tres órdenes de gobierno, que se manifiesta en minimización, anulación, presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad, que se traducen en actos u omisiones que perjudican, menoscaban, dilatan, obstaculizan o impiden el goce y disfrute de los derechos y libertades de la víctima; así como el acceso a políticas destinadas a prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+La violencia contra las mujeres en el ámbito institucional, son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -390,6 +338,10 @@ La violencia contra las mujeres en el ámbito institucional, es el abuso de pode
 ###### Artículo 13.
 
 Las órdenes de protección son personalísimas e intransferibles, de naturaleza administrativa y jurisdiccional, en función del interés superior de la víctima para proteger a las mujeres de la violencia, siendo fundamentalmente precautorias y cautelares. Deberán otorgarse por la Autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2020)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Instituto Electoral y de Participación Ciudadana y el Tribunal Electoral del Estado de Durango, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -511,15 +463,15 @@ IV. De posesión exclusiva de la víctima sobre el inmueble que sirvió de domic
 
 V. De cumplimiento de la obligación alimentaria provisional e inmediata, que serán tramitadas ante los juzgados de lo familiar o mixtos del Estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE JUNIO DE 2020)</small>
 
 ###### Artículo 18 Bis.
 
 Son órdenes de protección de naturaleza político-electoral, las siguientes:
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
-I. Que obliguen al agresor a la entrega inmediata de documentos de identidad o que acrediten su estatus de aspirante, precandidata y candidata a un cargo de elección popular; así como de electa o designada para un cargo de elección popular; así como de electa o designada para un cargo público;
+I. Que obliguen al agresor a la entrega inmediata de documentos de identidad o que acrediten su estatus de aspirante, precandidata y candidata a un cargo de elección popular; así como de electa o designada para un cargo de elección popular o para un cargo público;
 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -713,6 +665,8 @@ El Estado y los municipios, se coordinarán para la integración del Sistema Est
 
 El Sistema Estatal, parte integrante del Sistema Nacional, tiene por objeto coordinar los esfuerzos, políticas públicas y acciones interinstitucionales que lleven a cabo las dependencias y entidades del sector público estatal y/o municipal, con el apoyo también de las organizaciones de la sociedad civil, para la determinación e implementación de acciones, métodos y procedimientos, destinados a la protección de los derechos de las mujeres y a la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 337 PUBLICADO EN EL P.O. 25 DE JUNIO DE 2020, PÁGINA 120.]</small>
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 30.
@@ -757,7 +711,11 @@ f. La Procuraduría de Protección de Niñas, Niños y Adolescentes;
 
 g. El Presidente de la Comisión Legislativa de Equidad y Género del Congreso del Estado; y
 
-h. Los Presidentes de los Consejos Municipales.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE JUNIO DE 2020)</small>
+
+h. El Instituto Electoral y de Participación Ciudadana del Estado de Durango; y
+
+IV ... (sic)
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1295,9 +1253,17 @@ XII. Coadyuvar con las dependencias y entidades de la Administración Pública E
 
 XIII. Aplicar, en el ámbito de su competencia, el Programa Estatal a que se refiere esta Ley;
 
-XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
-XV. Las demás previstas para el cumplimiento de la presente Ley.
+XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2020)</small>
+
+XV. Integrar grupos policiales especializados a través de programas y capacitación permanente en materia de derechos humanos y perspectiva de género, para la adecuada y oportuna identificación y atención de faltas administrativas y delitos por razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2020)</small>
+
+XVI. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1469,15 +1435,17 @@ IX. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
-#### Sección Novena. De la Comisión Estatal de Derechos Humanos
+#### Sección Octava Bis. Del Instituto Estatal y De Participación Ciudadana
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2020)</small>
 
 ###### Artículo 46.
 
 Corresponde a la Fiscalía General del Estado:
 
-I. Promover la formación y especialización de los Agentes Estatales de Investigación, Agentes del Ministerio Público, peritos y de todo el personal que realice atención a víctimas, en materia de derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+
+I. Promover la formación y especialización de los elementos de la Policía Investigadora de Delitos, Agentes del Ministerio Público, peritos y de todo el personal que realice atención a víctimas, en materia de derechos humanos de las mujeres;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -1525,15 +1493,33 @@ XV. Colaborar con el Instituto, para la creación de los refugios que brinden at
 
 XVI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
-XVII. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2020)</small>
+
+XVII. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2020)</small>
+
+XVIII. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE JUNIO DE 2020)</small>
+
+#### Sección Novena. De la Comisión Estatal de Derechos Humanos
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+
+###### Artículo 46 Bis.
+
+Corresponde al Instituto Estatal y de Participación Ciudadana:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 #### Sección Décima. Del Instituto Estatal de la Mujer
-
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
-
-#### Sección Décima Primera. De los Sistemas DIF Estatal y Municipales
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1561,7 +1547,7 @@ IX. Las demás atribuciones o funciones que le encomiende el presente ordenamien
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-#### Sección Décima Segunda. De los Municipios
+#### Sección Décima Primera. De los Sistemas DIF Estatal y Municipales
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1612,6 +1598,10 @@ XVII. Colaborar con la Secretaría del Trabajo y Previsión Social para la elabo
 XVIII. Las demás previstas para el cumplimiento de la Ley.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+#### Sección Décima Segunda. De los Municipios
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### Artículo 49.
 
@@ -1914,6 +1904,18 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 264.- POR EL QUE SE ADICIONA LA FRACCIÓN XVII, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 48 DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 337.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA".]
 
 ###### ARTICULO PRIMERO.
 
