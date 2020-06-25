@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2020-03-05"
+last_updated: "2020-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -255,7 +255,7 @@ El Secretario de Seguridad Pública será designado por el Gobernador del Estado
 
 I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener cuando menos treinta y cinco años de edad al día de su nombramiento;
+II. (DEROGADA, P.O. 25 DE JUNIO DE 2020)
 
 III. Contar con título profesional de nivel licenciatura debidamente registrado, o formación equivalente acorde a la función;
 
@@ -693,7 +693,7 @@ El Secretario Ejecutivo será nombrado y removido libremente por el Gobernador d
 
 I. Ser ciudadano potosino y estar en pleno goce de sus derechos civiles y políticos;
 
-II. Tener más de treinta años de edad;
+II. (DEROGADA, P.O. 25 DE JUNIO DE 2020)
 
 III. Contar por lo menos con título y cédula profesional de nivel Licenciatura debidamente registrados;
 
@@ -1219,7 +1219,9 @@ Para ingresar a alguno de los cuerpos de seguridad pública estatal o municipale
 
 I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Contar con los requisitos de edad, perfiles físicos, médicos y de personalidad que establezca el reglamento de cada corporación;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+
+II. Contar con mayoría de edad, perfiles físicos, médicos y de personalidad que establezca el reglamento de cada corporación, considerando que para efectos de la estatura mínima tanto en hombres como mujeres, se tomará como base el promedio nacional;
 
 III. Tener escolaridad mínima acorde al nivel solicitado, señalado en su reglamento o convocatoria;
 
@@ -2852,6 +2854,14 @@ SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
 P.O. 5 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0605.- SE REFORMA EL ARTÍCULO 49 EN SUS FRACCIONES XXII Y XXIII; Y ADICIONA AL MISMO ARTÍCULO 49 LA FRACCIÓN XXIV, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0698.- SE REFORMA EL ARTÍCULO 62 EN SU FRACCIÓN II; Y DEROGA DE LOS ARTÍCULOS 13 LA FRACCIÓN II Y 45 LA FRACCIÓN II, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
