@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2019-06-20"
+last_updated: "2020-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -169,9 +169,9 @@ IX.- Fomentar la educación en materia de nutrición, estimulando hábitos alime
 
 X.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural del País y de la Entidad en particular;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
-XI.- Fomentar y estimular la educación física y la práctica del deporte, como parte fundamental de la formación integral de las personas;
+XI.- Fomentar y estimular la educación física de calidad y la práctica del deporte para promover la salud física y mental de las personas, como parte fundamental de su formación integral.
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -2312,3 +2312,11 @@ P.O. 20 DE JUNIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-113 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 8°, FRACCIÓN XI DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
