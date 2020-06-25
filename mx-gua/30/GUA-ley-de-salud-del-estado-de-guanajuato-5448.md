@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2019-11-25"
+last_updated: "2020-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -688,6 +688,10 @@ Para los efectos de esta ley, se considera usuario de servicios de salud a toda 
 ###### ARTICULO 50.
 
 Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2020)</small>
+
+ARTICULO 50 BIS.- El paciente y, en su caso, el familiar más cercano en vínculos, tutor, o quien ejerza la patria potestad, representante legal, o bien, persona de su confianza mayor de edad, tiene el derecho a solicitar y recibir información sobre su condición médica y opciones de tratamiento. Los profesionales de la salud deberán proporcionar dicha información, la que deberá permitirle el decidir de manera libro (sic) e informada el consentir o no tratamientos o procedimientos médicos.
 
 ###### ARTICULO 51.
 
@@ -3604,3 +3608,9 @@ P.O. 25 DE NOVIEMBRE DE 2019.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo segundo. El Poder Ejecutivo del Estado deberá emitir los lineamientos a efecto de dar cumplimiento al presente Decreto en un término de 90 días contados a partir de su vigencia.
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 190 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 50 BIS A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
