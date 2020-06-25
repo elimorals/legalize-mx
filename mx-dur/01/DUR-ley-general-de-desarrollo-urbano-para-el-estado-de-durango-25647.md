@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2020-03-08"
+last_updated: "2020-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -455,9 +455,13 @@ XII.- Proponer al Titular del Poder Ejecutivo, la fundación de nuevos centros d
 
 XIII.- Promover la participación de los sectores social y privado en la formulación, ejecución, modificación, actualización y evaluación de los programas municipales de desarrollo urbano, de centros de población, y los que de estos se deriven.
 
-XIV.- Municipalizar los fraccionamientos cuando se hayan cubierto los requisitos legales y reglamentarios; y
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2020)</small>
 
-XV.- Vigilar los fraccionamientos que no hayan sido municipalizados, para que los fraccionadores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a esta Ley.
+XIV.- Establecer la obligatoriedad del fraccionador o constructor de establecimientos de carácter comercial de donar al Ayuntamiento respectivo, un árbol nativo de la Entidad por cada cinco cajones de estacionamiento con que cuente el centro comercial.
+
+XV.- Municipalizar los fraccionamientos cuando se hayan cubierto los requisitos legales y reglamentarios; y
+
+XVI.- Vigilar los fraccionamientos que no hayan sido municipalizados, para que los fraccionadores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a esta Ley.
 
 ###### ARTÍCULO 12.
 
@@ -4116,3 +4120,15 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los ayuntamientos de los municipios del Estado, deberán elaborar las reformas a sus respectivos reglamentos de construcción que deriven del presente Decreto, en un plazo que no excederá de tres meses contados a partir del inicio de su vigencia.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 333.- POR EL QUE SE ADICIONA LA FRACCIÓN XIV RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 11 DE LA LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Los ayuntamientos respectivos del Estado, establecerán en su Reglamento de Construcción las especificaciones y características de los árboles que los fraccionadores deben donar, así como el momento en que deban entregarse y el lugar en donde se deban plantaran (sic).
+
+TERCERO.- Los ayuntamientos de los municipios del Estado, deberán elaborar las reformas a sus respectivos Reglamentos de Construcciones que deriven del presente Decreto, en un plazo que no excederá de tres meses contados a partir del inicio de su vigencia.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
