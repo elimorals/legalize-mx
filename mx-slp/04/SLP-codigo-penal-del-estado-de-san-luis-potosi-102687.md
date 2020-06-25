@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2020-04-14"
+last_updated: "2020-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1647,11 +1647,9 @@ Si el ofendido es ascendiente, descendiente, cónyuge, concubina, concubinario, 
 
 Cuando el homicidio o las lesiones se cometan culposamente con motivo del tránsito de vehículos, se impondrá (sic) mitad de las penas previstas en los artículos 131 y 136 respectivamente en los siguientes casos:
 
-(NOTA: EL 22 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 51/2018, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE MAYO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2018)</small>
-
-I. Cuando el agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos, u otras substancias que produzcan efectos similares; O, QUE AL CONDUCIR DESVÍE SU ATENCIÓN POR UN DISTRACTOR, EN LOS TÉRMINOS DEL ARTÍCULO 357 DE ESTE CÓDIGO, y
+I. Cuando el agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos, u otras substancias que produzcan efectos similares, o
 
 II. No auxilie a la víctima del delito o se dé a la fuga
 
@@ -4351,7 +4349,7 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 
 ### CAPÍTULO II. Delitos Contra la Seguridad del Tránsito de Vehículos
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 337.
 
@@ -4683,25 +4681,13 @@ A quien entorpezca, paralice o deje de prestar un servicio público de transport
 
 ###### ARTÍCULO 357.
 
-Comete el delito contra la seguridad del tránsito de vehículos, quien:
+Comete el delito contra la seguridad del tránsito de vehículos, la persona que:
 
-I. Conduce un vehículo con temeridad y pone en peligro la vida, la salud o los bienes de alguien;
+I. Conduce un vehículo con temeridad y pone en peligro la vida, la salud o los bienes de alguien, o
 
-(NOTA: EL 22 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 51/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE MAYO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II. Maneja vehículos de motor en estado de ebriedad, o bajo el influjo de medicamentos, estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares.
 
-II. CONDUCE UN VEHÍCULO Y DESVÍA SU ATENCIÓN A CAUSA DE UN DISTRACTOR, PONIENDO EN PELIGRO LA VIDA, LA SALUD O LOS BIENES DE ALGUIEN, Y
-
-III. Maneja vehículos de motor en estado de ebriedad o bajo el influjo de medicamentos, estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares.
-
-En los casos a los que se refieren las fracciones, I, y III, este delito se sancionará con una pena de seis meses a dos años de prisión, sanción pecuniaria de sesenta a doscientos días valor de la unidad de medida y actualización, y suspensión de derechos para conducir vehículos por el doble del tiempo de la pena de prisión impuesta, sin perjuicio de las penas que correspondan si comete otro delito.
-
-(NOTA: EL 22 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 51/2018, DECLARÓ LA INVALIDEZ DEL PENÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE MAYO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-EN EL CASO A QUE SE REFIERE LA FRACCIÓN II SE SANCIONARÁ CON PENA DE SESENTA A CIENTO VEINTE JORNADAS DE TRABAJO EN FAVOR DE LA COMUNIDAD, SANCIÓN PECUNIARIA DE SESENTA A CIENTO VEINTE DÍAS DEL VALOR DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, Y SUSPENSIÓN DE LOS DERECHOS POR EL DOBLE DEL TIEMPO DE LAS JORNADAS DE TRABAJO EN FAVOR DE LA COMUNIDAD IMPUESTA.
-
-(NOTA: EL 22 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 51/2018, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE MAYO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-PARA LOS EFECTOS DE LA FRACCIÓN II DE ESTE ARTÍCULO SE ENTIENDE COMO DISTRACTOR, AL FACTOR QUE DESVÍA LA ATENCIÓN DE LA PERSONA QUE VA CONDUCIENDO UN VEHÍCULO, ES DECIR, EL USO DE TELÉFONOS MÓVILES.
+Este delito se sancionará con una pena de seis meses a dos años de prisión, sanción pecuniaria de sesenta a doscientos días valor de la unidad de medida y actualización, y suspensión de derechos para conducir vehículos por el doble del tiempo de la pena de prisión impuesta, sin perjuicio de las penas que correspondan si comete otro delito.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -5312,5 +5298,13 @@ P.O. 14 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0659.- SE REFORMA EL ARTÍCULO 187, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ Y SE ADICIONA AL ARTÍCULO 4° UNA FRACCIÓN, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0697.- SE REFORMA (SIC) LOS ARTÍCULOS 143 EN SU FRACCIÓN I Y 357, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 72 EN SU FRACCIÓN X, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
