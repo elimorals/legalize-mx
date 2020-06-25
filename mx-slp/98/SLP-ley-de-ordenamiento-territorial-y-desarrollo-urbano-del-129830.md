@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2020-04-14"
+last_updated: "2020-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -1129,7 +1129,9 @@ a. Los colegios y asociaciones de profesionistas legalmente constituidos y regis
 
 b. Las cámaras de la construcción, vivienda y servicios con representación en el municipio.
 
-c. Los organismos no gubernamentales, asociaciones y organizaciones populares que tengan presencia en el municipio y sus actividades se relacionen con el desarrollo urbano y la vivienda.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
+
+c. Los organismos no gubernamentales, asociaciones y organizaciones populares, así como las instituciones educativas y de investigación que tengan presencia en el municipio y sus actividades se relacionen con el desarrollo urbano y la vivienda; en su ausencia, se podrán incorporar representantes de éstas instituciones que tengan presencia en la región del estado a la que pertenezca el municipio.
 
 Cada uno de los miembros del Consejo contará con un suplente que será designado por la dependencia, entidad o agrupación respectiva. Las ausencias del Presidente del Consejo serán suplidas por el Secretario Técnico del mismo.
 
@@ -6838,5 +6840,13 @@ P.O. 14 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0658.- SE REFORMA EL ARTÍCULO 5º EN SU FRACCIÓN IV, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este presente Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0693.- SE REFORMA EL ARTÍCULO 32 EN SU FRACCIÓN V EL INCISO C), DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
