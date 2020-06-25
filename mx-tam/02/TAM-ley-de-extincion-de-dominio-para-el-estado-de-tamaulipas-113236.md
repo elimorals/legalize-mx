@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-extincion-de-dominio-para-el-estado-de-tamaulipas-113236
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-01"
-last_updated: "2017-12-01"
+last_updated: "2020-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. LXIV-112, PUBLICADO EN EL P.O. DE 25 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 1 de marzo de 2016.
 
@@ -648,3 +650,21 @@ P.O. 1 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO No. LXIV-112]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley de Extinción de Dominio para el Estado de Tamaulipas, expedida mediante Decreto Número 923 del 5 de febrero de 2016 y publicada en el Periódico Oficial del Estado Número 25 del 01 de marzo de 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIV-112 MEDIANTE EL CUAL SE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procesos en materia de extinción de dominio iniciados con la Ley de Extinción de Dominio para el Estado de Tamaulipas, las sentencias dictadas con base a los ordenamientos que dejarán de tener vigencia a la entrada en vigor del presente decreto surtirán todos sus efectos jurídicos y las investigaciones en preparación de la acción de extinción de dominio, por lo que deberán continuarse de conformidad con lo dispuesto en el artículo cuarto transitorio de la Ley Nacional de Extinción de Dominio.
