@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fiscalizacion-superior-del-estado-de-durango-22984"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-30"
-last_updated: "2019-12-12"
+last_updated: "2020-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 30 de diciembre de 2001.
 
@@ -140,6 +140,10 @@ XIV. Informe de resultados: El Informe de resultados de la revisión de las Cuen
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 La Entidad deberá guardar reserva de sus actuaciones y observaciones hasta que rinda el informe de resultados correspondiente, en términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2020)</small>
+
+XV. Unidad Técnica de Apoyo: La Unidad Técnica de Apoyo de la Comisión de Vigilancia de la Entidad de Auditoría Superior.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
@@ -331,13 +335,45 @@ XX. Las demás que señalen esta ley y demás disposiciones legales aplicables.
 
 Corresponde originalmente al Auditor Superior, el trámite y resolución de los asuntos de su competencia; pero para la mejor organización del trabajo, podrá delegar en servidores públicos subalternos cualquiera de sus atribuciones, excepto aquellas que por disposición de ley o del reglamento interior de la Entidad deban ser ejercidas exclusivamente por él mismo. Para su validez, los actos de delegación de facultades, deberán constar por escrito y publicarse en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2020)</small>
+
 ###### Artículo 12.
 
-Para el mejor desempeño de sus funciones, la Entidad contará con las Auditorías Generales y dependencias necesarias para el desarrollo de la fiscalización superior, como dependencias subalternas, las que, a su vez, contarán con los servidores públicos estrictamente necesarios para el cumplimiento de sus funciones, debiendo precisarse su estructura en el reglamento Interior de conformidad con el presupuesto autorizado; el personal adscrito a la entidad deberá en todo caso cumplir los principios de imparcialidad, profesionalismo y objetividad, por tanto deberán incorporarse al servicio civil de carrera.
+Para el mejor desempeño de sus funciones, la Entidad contará con las Auditorías Generales A y B, y con las dependencias necesarias para el desarrollo de la fiscalización superior, como dependencias subalternas, las que, a su vez, contarán con los servidores públicos estrictamente necesarios para el cumplimiento de sus funciones, debiendo precisarse su estructura en el Reglamento Interior de conformidad con el presupuesto autorizado; el personal adscrito a la entidad deberá en todo caso cumplir los principios de imparcialidad, profesionalismo y objetividad, por tanto deberán incorporarse al servicio civil de carrera.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
 
-Los titulares de las Auditorías Generales, deberán cumplir los mismos requisitos exigidos para ser Auditor Superior y serán designados por la Junta de Gobierno y Coordinación Política, con el voto de la mayoría de sus integrantes, a propuesta del Auditor Superior.
+Los titulares de las Auditorías Generales A y B, deberán cumplir los mismos requisitos exigidos para ser Auditor Superior y serán designados por la Junta de Gobierno y Coordinación Política, con el voto de la mayoría de sus integrantes, a propuesta del Auditor Superior.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 25 DE JUNIO DE 2020)</small>
+
+Corresponde a los titulares de las Auditorías Generales A y B, además de las facultades conferidas en el Reglamento Interior, las siguientes atribuciones:
+
+I. Acordar con el Auditor Superior el despacho de los asuntos de su competencia y las demás actividades que le sean asignadas en términos de las disposiciones aplicables;
+
+II. Elaborar en forma coordinada y proponer al Auditor Superior para su autorización, el proyecto del Programa Operativo Anual de actividades que deberá desarrollar la Entidad, con base en la información que les deberán presentar los titulares de las Direcciones y áreas que conforman la Entidad y que estén bajo su coordinación;
+
+III. Planear, programar, supervisar, controlar y evaluar las actividades que determine el Auditor Superior, de conformidad con el Programa Operativo Anual y demás lineamientos y criterios aplicables, en el marco de la legislación vigente;
+
+IV. Desarrollar y cumplir los planes y programas autorizados por el Auditor Superior, instrumentando los métodos, sistemas y procedimientos que se consideren necesarios para obtener las metas y objetivos en materia de fiscalización;
+
+V. Establecer previo acuerdo del Auditor Superior, las bases para la coordinación entre las diferentes Direcciones y áreas integrantes de la Entidad, a fin de que el personal lleve a cabo acciones conjuntas en los trabajos de revisión a los entes fiscalizables;
+
+VI. Determinar previo acuerdo del Auditor Superior, la documentación, informes y demás elementos que deban requerirse a los entes fiscalizables y/o terceros involucrados, para efectuar las revisiones a cargo de la Entidad;
+
+VII. Proponer al Auditor Superior para su autorización, las normas, políticas, criterios, sistemas y procedimientos que deban observar las Direcciones y demás áreas que conforman la Entidad, que estén a su cargo;
+
+VIII. Coordinar las acciones, normas, políticas internas, criterios, sistemas y procedimientos que deban observar las Direcciones y demás áreas que conforman la Entidad, que estén a su cargo y ser el enlace entre éstas y el Auditor Superior;
+
+IX. Participar en la elaboración de los proyectos de Manuales de Organización y Procedimiento de las Direcciones y áreas integrantes de la Entidad.
+
+X. Participar en coordinación con las Direcciones y demás áreas de la Entidad, en la elaboración de los Informes de Resultados de la revisión a las Cuentas Públicas;
+
+XI. Participar con las Direcciones y demás áreas de la Entidad, en la integración de informes especiales que solicite el Auditor Superior;
+
+XII. Suplir en sus ausencias, al Auditor Superior de conformidad con las disposiciones del Reglamento Interior; y
+
+XIII. Las demás que les señale el Reglamento Interior y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2019)</small>
 
@@ -375,13 +411,19 @@ V. Conducirse con parcialidad en el proceso de revisión de las Cuentas Pública
 
 Los Auditores Generales, podrán ser removidos también por las causas graves a que se refiere este artículo, por la Junta de Gobierno y Coordinación Política.
 
-### CAPÍTULO III. DE LA COMISIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO III. DE LA COMISIÓN Y LA UNIDAD TÉCNICA DE APOYO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2020)</small>
 
 ###### Artículo 16.
 
-La Comisión coordinará y evaluará el funcionamiento de la Entidad y tendrá competencia para:
+La Comisión, a través de la Unidad Técnica de Apoyo, coordinará y evaluará el funcionamiento de la Entidad y tendrá competencia para:
 
-I. Vigilar la recepción en el Congreso de las Cuentas Públicas y turnarlas por conducto de Oficialía Mayor a la Entidad;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+
+I. Vigilar la recepción en el Congreso de las Cuentas Públicas y turnarlas por su conducto a la Entidad;
 
 II. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Entidad, así como fiscalizar, por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de éste;
 
@@ -401,9 +443,39 @@ IX. Planear, programar, ordenar y efectuar auditorías, inspecciones o visitas a
 
 X. Expedir certificaciones de los documentos que obren en sus archivos en los casos que proceda conforme a la ley;
 
-XI. Contar con los servicios de apoyo técnico o asesoría que apruebe el Congreso; y,
+XI. (DEROGADA, P.O. 25 DE JUNIO DE 2020)
 
 XII. Las demás que le atribuyan expresamente las disposiciones legales y la normatividad interior del Congreso.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2020)</small>
+
+Artículo 16 BIS. La Unidad Técnica de Apoyo será la encargada de apoyar las tareas de la Comisión respecto a las competencias establecidas en esta Ley, así como en la Ley Orgánica del Congreso.
+
+Su titular será designado por la Comisión, por un periodo de 7 años y contará con las siguientes atribuciones:
+
+I. Vigilar que los servidores públicos de mando superior de la Entidad se conduzcan en términos de esta ley y demás disposiciones aplicables;
+
+II. Planear y programar auditorías a las diversas dependencias y las Auditorías Generales que integran la Entidad;
+
+III. Requerir a las dependencias de la Entidad la información necesaria para cumplir con sus atribuciones;
+
+IV. Expedir certificaciones de los documentos que obren en los archivos de la Unidad Técnica de Apoyo, así como representar a la misma;
+
+V. Apoyar a la comisión en el desahogo de los procedimientos a que se refiere el artículo 17 de esta Ley;
+
+VI. Presentar ante la Comisión, para su aprobación, el programa anual de trabajo de la Unidad Técnica de Apoyo;
+
+VII. Presentar un informe de (sic) anual de labores ante la Comisión;
+
+VIII. Participar como testigo en los actos de entrega recepción de los servidores públicos de mando superior de la Entidad;
+
+IX. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones, mediando siempre a solicitud expresa de la misma Comisión; y
+
+X. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
+El Titular de la Unidad Técnica de Apoyo deberá contar con conocimientos en materia de fiscalización y responsabilidades.
+
+La Unidad Técnica de Apoyo, de conformidad con la disponibilidad presupuestal, contará con los recursos humanos y financieros que le permitan ejercer debidamente sus atribuciones.
 
 ###### Artículo 17.
 
@@ -922,3 +994,15 @@ P.O. 12 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor el día 14 de diciembre de 2019, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 335.- POR EL QUE SE ADICIONA UNA FRACCIÓN XV AL ARTÍCULO 3; SE REFORMA EL ARTÍCULO 12, ADICIONÁNDOSELE XIII FRACCIONES; SE MODIFICA EL NOMBRE DEL CAPÍTULO III DE TÍTULO SEGUNDO; SE MODIFICA LA FRACCIÓN I Y SE DEROGA LA FRACCIÓN XI DEL ARTICULO 16, Y SE ADICIONA UN ARTÍCULO 16 BIS, TODOS DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La Comisión de Vigilancia de la Entidad de Auditoría Superior del Congreso del Estado, designará al Titular de la Unidad Técnica de Apoyo en un plazo que no exceda de 30 (treinta) días a partir de la entrada en vigor del presente decreto.
+
+TERCERO. El Titular de la Unidad Técnica de apoyo, deberá presentar ante la Comisión el programa anual de trabajo, en un plazo que no exceda de 45 (cuarenta y cinco) días a partir de su designación.
+
+CUARTO. En un plazo que no exceda de 60 (sesenta) días posteriores a la entrada en vigor del presente decreto, se deberán expedir las adecuaciones reglamentarias para dar cumplimiento al presente decreto.
