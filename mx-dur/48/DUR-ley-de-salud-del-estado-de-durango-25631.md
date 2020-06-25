@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2020-05-03"
+last_updated: "2020-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -337,9 +337,9 @@ VII. Establecer, promover y coordinar el Registro Estatal de Cáncer;
 
 VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres, actitudes y adicciones, relacionadas con la salud, y con el uso de los servicios que presten para su protección. Asimismo, coadyuvar a la modificación de costumbres, patrones culturales y actitudes que menoscaben o demeriten la cultura de la donación de sangre y donación de órganos.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
-IX. Proporcionar orientación a la población respecto de la importancia de la alimentación correcta, y de cómo llevar una dieta equilibrada y, la adecuada combinación de alimentos y su relación con la salud;
+IX. Proporcionar orientación a la población respecto de la importancia de la alimentación correcta, y de cómo llevar una dieta equilibrada y la adecuada combinación de alimentos y su relación con la salud; asimismo coadyuvar con la Secretaría de Educación para realizar y fomentar programas de educación sobre salud bucodental, así como la práctica de hábitos de higiene dental en los diferentes niveles educativos;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
@@ -685,9 +685,15 @@ III. Coordinar el Sistema Estatal de Salud y coadyuvar a la consolidación y fun
 
 IV. Formular y desarrollar programas locales de salud, en el marco de los sistemas Nacional y Estatal de Salud y de acuerdo con los principios y objetivos de la planeación nacional;
 
-V. Celebrar con la Federación los acuerdos de coordinación en materia de salubridad general, en los términos de la Ley General de Salud y demás disposiciones legales aplicables, y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
-VI. Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley General de Salud, de está Ley así como de otras disposiciones legales aplicables.
+V. Celebrar con la Federación los acuerdos de coordinación en materia de salubridad general, en los términos de la Ley General de Salud y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2020)</small>
+
+VI. La orientación, prevención, detección temprana, atención especializada, tratamiento y control del cáncer en niñas, niños y adolescentes; y
+
+VII. Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley General de Salud, de esta Ley así como de otras disposiciones legales aplicables.
 
 B.- En materia de salubridad local:
 
@@ -1181,11 +1187,11 @@ IV. De rehabilitación, que incluyen acciones tendientes a corregir la invalidez
 
 ### CAPÍTULO III. SALUD PÚBLICA
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 47.
 
-Las acciones de Salud Pública comprenden, entre otras, la prevención y control de enfermedades, principalmente las crónico degenerativas, la depresión, la ideación suicida, la diabetes y las causadas por los malos hábitos en la alimentación de los duranguenses, como la obesidad y el sobrepeso, además de atender los accidentes, la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la información relativa a las condiciones, recursos y servicios de salud de la entidad.
+Las acciones de Salud Pública comprenden, entre otras, la prevención y control de enfermedades, principalmente las crónico degenerativas, la depresión, la ideación suicida, la diabetes y las causadas por los malos hábitos en la alimentación de los duranguenses, como la obesidad y el sobrepeso; la prevención, diagnóstico y atención integral del cáncer en niñas, niños, adolescentes y adultos, además de atender los accidentes, la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la información relativa a las condiciones, recursos y servicios de salud de la entidad.
 
 ### CAPÍTULO IV
 
@@ -4050,6 +4056,30 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE MAYO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 297.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 328.- POR EL CUAL SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 9 DE LA LEY DE SALUD DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 329.- POR EL QUE SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 18, RECORRIÉNDOSE DE MANERA SUBSECUENTE LA ANTERIOR, PARA PASAR A SER LA FRACCIÓN VII DE DICHO ARTÍCULO, Y SE REFORMA EL ARTÍCULO 47 DE LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
