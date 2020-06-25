@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-mental-del-estado-y-municipios-de-san-luis-130400"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-30"
-last_updated: "2018-08-30"
+last_updated: "2020-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de agosto de 2018.
 
@@ -137,9 +137,17 @@ X. Aceptar o negarse a participar como sujeto de investigación científica, sin
 
 XI. Recibir atención médica oportuna en caso de sufrir una enfermedad no psiquiátrica y, de así requerirlo, tratamiento adecuado en una institución que cuente con los recursos técnicos para su atención;
 
-XII. Recibir tratamiento orientado a mejorar la calidad de vida familiar, laboral y social, por medio de programas de terapia ocupacional, educativa y de rehabilitación psicosocial, y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
 
-XIII. No ser sometido a restricciones físicas, o de reclusión involuntaria salvo con arreglo a procedimientos legalmente establecidos y sólo cuando sea el único medio disponible para impedir un daño inmediato o inminente para el usuario o para un tercero; o se trate, de una situación grave y el usuario esté afectado en su capacidad de juicio.
+XII. Recibir tratamiento orientado a mejorar la calidad de vida familiar, laboral y social, por medio de programas de terapia ocupacional, educativa y de rehabilitación psicosocial;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+
+XIII. No ser sometido a restricciones físicas, o de reclusión involuntaria salvo con arreglo a procedimientos legalmente establecidos y sólo cuando sea el único medio disponible para impedir un daño inmediato o inminente para el usuario o para un tercero; o se trate, de una situación grave y el usuario esté afectado en su capacidad de juicio; y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2020)</small>
+
+XIV. Recibir el suministro adecuado y completo de los medicamentos básicos para su tratamiento.
 
 Las medidas de restricción, serán las mínimas posibles de acuerdo con el padecimiento y su evolución, en relación con el cuidado de su seguridad y de la de terceros.
 
@@ -380,3 +388,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0696.- SE REFORMA EL ARTÍCULO 4° EN SUS FRACCIONES XII Y XIII; Y ADICIONA AL MISMO ARTÍCULO 4° LA FRACCIÓN XIV, DE LA LEY DE SALUD MENTAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
