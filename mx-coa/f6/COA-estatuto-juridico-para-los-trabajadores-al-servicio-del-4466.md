@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2019-12-13"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -191,11 +191,11 @@ DE LOS TRABAJADORES.
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 10.
 
-Trabajador es toda persona física mayor de 14 años de edad que presta un servicio físico, intelectual o de ambos géneros a los Poderes del Estado, en virtud de nombramiento expedido legalmente o por figurar en las nóminas de trabajadores temporales.
+Trabajador es toda persona física mayor de 15 años de edad que presta un servicio físico, intelectual o de ambos géneros a los Poderes del Estado, en virtud de nombramiento expedido legalmente o por figurar en las nóminas de trabajadores temporales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
@@ -431,9 +431,11 @@ Las madres trabajadoras que tengan hijos menores de 14 años, por ningún motivo
 
 TRABAJO DE LOS MENORES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 34.
 
-Queda prohibido el empleo de menores de 14 años en el Gobierno del Estado.
+Queda prohibido el empleo de personas menores de 15 años en el Gobierno del Estado.
 
 Los trabajadores menores de edad disfrutan de los mismos derechos y tienen las mismas obligaciones que los demás, salvo las modalidades consignadas en este Capítulo.
 
@@ -449,15 +451,19 @@ Los trabajadores menores de edad, sean hombres o mujeres, pueden ser de base o d
 
 Los menores de 16 años sólo podrán prestar sus servicios en la jornada diurna, que no podrá exceder de 6 horas diarias.
 
-Queda prohibido emplear sus servicios en labores peligrosas o insalubres. Tampoco trabajarán en la jornada nocturna, salvo el caso de que se trate de labores especializadas que deban realizarse durante esa jornada y que se hayan tomado las medidas para cumplir con los propósitos del artículo 35. No podrán, por ningún motivo trabajar tiempo extraordinario ni en los días de descanso señalados por la Ley.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+Queda prohibido emplear a personas menores de dieciocho años en labores peligrosas o insalubres. Tampoco trabajarán en la jornada nocturna, salvo el caso de que se trate de labores especializadas que deban realizarse durante esa jornada y que se hayan tomado las medidas para cumplir con los propósitos del artículo 35. No podrán, por ningún motivo trabajar tiempo extraordinario ni en los días de descanso señalados por la ley.
 
 ###### ARTICULO 38.
 
 Las labores peligrosas o insalubres a que se refiere el Artículo 35, son aquéllas que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se prestan, o por la composición de la materia prima que se utiliza, son capaces de actuar sobre la vida, el desarrollo y la salud física y mental de los menores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 39.
 
-Los mayores de 14 años y menores de 16 para trabajar requieren:
+Las personas mayores de 15 años y menores de 16 para trabajar requieren:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
@@ -671,7 +677,9 @@ I.- Una jornada mayor de la permitida por esta Ley;
 
 II.- Las labores peligrosas o insalubres para mujeres;
 
-III.- Las labores peligrosas insalubres para menores de dieciocho años;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+III.- Las labores peligrosas o insalubres para personas menores de dieciocho años;
 
 IV.- Una jornada inhumana por lo notoriamente excesivo o peligrosa para la vida del trabajador;
 
@@ -679,7 +687,9 @@ V.- Un plazo mayor de quince días para el pago de sus sueldos y demás prestaci
 
 VI.- Renuncia por parte del trabajador de cualesquiera de los derechos o prerrogativas, que esta ley les otorga; y
 
-VII.- Las que estipulen trabajo para menores de catorce años.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VII.- Las que estipulen trabajo para personas menores de quince años.
 
 ### CAPITULO II.
 
@@ -1619,7 +1629,9 @@ La prescripción no puede comenzar ni correr:
 
 I.- Contra los incapacitados mentales, sino cuando se haya discernido su tutela conforme a la Ley, a menos que la prescripción hubiere comenzado contra sus causantes;
 
-II.- Contra los menores de 18 y mayores de 14 años que no teniendo quien ejerza la patria potestad, no se les haya discernido la tutela;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+II.- Contra las personas menores de 18 y mayores de 15 años que no teniendo quien ejerza la patria potestad, no se les haya discernido la tutela;
 
 III.- Contra los trabajadores incorporados al servicio militar en tiempo de guerra, y que por alguno de los conceptos contenidos en esta Ley se hayan hecho acreedores a indemnización;
 
@@ -2320,3 +2332,9 @@ P.O. 13 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 626.- SE REFORMA EL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 34, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 37, EL PRIMER PÁRRAFO DEL ARTÍCULO 39, LAS FRACCIONES III Y VII DEL ARTÍCULO 56, Y LA FRACCIÓN II DEL ARTÍCULO 164 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
