@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2020-03-27"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -247,7 +247,9 @@ XV. A reunirse de manera pública o privada con fines lícitos y pacíficamente 
 
 XVI. A la protección de sus datos personales;
 
-XVII. A la no utilización de trabajo de personas menores de catorce años de edad;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XVII. A la no utilización de trabajo de personas menores de quince años de edad;
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
 
@@ -293,7 +295,9 @@ III. El derecho a recibir atención médica integral y sanitaria, para el tratam
 
 IV. El derecho de adolescentes privados de libertad a ser tratados con la humanidad y el respeto que merece la dignidad inherente a la persona humana, de manera que se tengan en cuenta las necesidades de las personas de su edad. En particular, estarán separados de los adultos, a menos que ello se considere contrario a su interés superior, y tendrá derecho a mantener contacto con su familia por medio de correspondencia y de visitas, salvo en circunstancias excepcionales;
 
-V. Protección para que el trabajo de adolescentes mayores de catorce años y menores de dieciséis se realice bajo el principio de respeto a sus derechos humanos y de acuerdo a la Ley Federal del Trabajo;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+V. Protección para que el trabajo de adolescentes mayores de quince años y menores de dieciséis se realice bajo el principio de respeto a sus derechos humanos y de acuerdo a la Ley Federal del Trabajo;
 
 VI. Protección integral y prevención ante traslados o retenciones ilícitas;
 
@@ -2020,3 +2024,9 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 626.- SE REFORMA EL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 34, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 37, EL PRIMER PÁRRAFO DEL ARTÍCULO 39, LAS FRACCIONES III Y VII DEL ARTÍCULO 56, Y LA FRACCIÓN II DEL ARTÍCULO 164 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
