@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-03-29"
-last_updated: "2019-10-16"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -391,13 +391,17 @@ V. Datos de identificación general y de notificación en casos de urgencia o ac
 
 En ningún caso podrá la autoridad expedir permiso a persona menor de edad para efectos de conducir vehículos del servicio público, aún cuando sea a solicitud del padre o tutor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 27.
 
-La autoridad competente podrá expedir permisos para conducir a extranjeros que acrediten su legal estancia en el país, con una vigencia por seis meses o un año, previo el pago de los derechos. Para tal efecto deberán cumplir con los requisitos administrativos previstos en la normatividad aplicable y realizar los cursos especiales que para tal efecto determine la propia autoridad. Las licencias que se expidan en otras entidades federativas o el extranjero, tendrán plena validez, en nuestra entidad.
+La autoridad competente, previo el pago de los derechos correspondientes, podrá expedir permisos para conducir con una vigencia de seis o doce meses, a personas extranjeras que acrediten su regular estancia en el país y permanencia en el estado de Tabasco de por lo menos seis meses.
+
+Para tal efecto, las personas extranjeras deberán cumplir con los requisitos previstos en la normatividad aplicable y realizar los cursos especiales que determine la misma autoridad.
+
+Las licencias expedidas en otras entidades federativas o en el extranjero, que se encuentren vigentes, serán válidas para conducir en el territorio del estado de Tabasco.
+
+En el caso de las licencias expedidas en el extranjero, su validez será de seis meses contados a partir de la fecha de entrada al país, una vez cumplido este término las personas extranjeras deberán solicitar el permiso para conducir a que se refiere este artículo.
 
 ### Capítulo IV
 
@@ -1224,3 +1228,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO. El titular del Poder Ejecutivo deberá emitir dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, las adecuaciones conducentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 200 POR EL QUE “SE REFORMA EL ARTÍCULO 27 DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo, deberá emitir las adecuaciones conducentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
