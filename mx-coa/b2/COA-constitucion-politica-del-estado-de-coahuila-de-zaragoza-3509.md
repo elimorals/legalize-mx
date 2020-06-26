@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2020-04-24"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1202,7 +1202,9 @@ El Congreso deberá aprobar en el Presupuesto de Egresos del Estado, las partida
 
 a) Que constituyan deuda pública del Estado o de las entidades paraestatales que cuenta con la garantía del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y:
 
-b) Que se deriven de contratos para proyectos para prestación de servicios aprobados por el Congreso conforme a las leyes aplicables.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+b) Que se deriven de contratos para asociaciones público privadas aprobados por el Congreso conforme a las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
 
@@ -3264,9 +3266,9 @@ El Ayuntamiento deberá aprobar en el presupuesto de egresos del ejercicio las p
 
 a) Que constituyan deuda pública del Ayuntamiento o de las entidades paramunicipales que cuenta con la garantía del Ayuntamiento o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y
 
-> <small>(F. DE E., P.O. 10 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
-b) Que se deriven de contratos para proyectos para prestación de servicios aprobados por el Ayuntamiento conforme a las leyes aplicables.
+b) Que se deriven de contratos para asociaciones público privadas aprobados por el Ayuntamiento conforme a las leyes aplicables.
 
 > <small>(F. DE E., P.O. 10 DE ABRIL DE 2009)</small>
 
@@ -5395,3 +5397,23 @@ P.O. 24 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 603.- SE MODIFICA EL INCISO B) DE LA FRACCIÓN XXXIII DEL ARTÍCULO 67 Y EL INCISO B) DE LA FRACCIÓN IV DEL ARTÍCULO 158-P, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones legales, reglamentarias y administrativas necesarias, deberán adecuarse dentro de los 180 días iniciada la vigencia del presente decreto para su apropiado cumplimiento.
+
+###### ARTÍCULO TERCERO.
+
+En tanto subsistan los contratos aprobados por el Congreso durante la vigencia de la Ley de Proyectos para Prestación de Servicios para el Estado Libre y Soberano de Coahuila de Zaragoza, se deberá aprobar en los Presupuestos de Egresos del Estado y de los municipios las partidas necesarias para solventar las obligaciones que deriven de los mismos, hasta su conclusión.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan a lo previsto en el presente decreto.
