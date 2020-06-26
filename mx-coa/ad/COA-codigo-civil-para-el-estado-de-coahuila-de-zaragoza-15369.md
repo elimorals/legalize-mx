@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2019-11-22"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -5121,13 +5121,17 @@ Por razón de delito son incapaces de adquirir por testamento o por intestado:
 
 I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o al cónyuge o persona con quien el testador hubiere vivido maritalmente, compañero civil, o a los padres, hijos o hermanos de éstos.
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-II. El que haya hecho contra el autor de la sucesión, o contra alguna de las otras personas mencionadas en la fracción anterior, denuncia o acusación por delito que merezca pena de prisión, aún cuando aquélla sea fundada, si el acusador o denunciante fuere descendiente, ascendiente, cónyuge, compañero civil o hermano del testador, a no ser que ese acto haya sido preciso para que el acusador salvara su vida o su honra, o la de sus descendientes, ascendientes, hermanos, medios hermanos, o cónyuge, persona con quien haga vida marital o compañero civil. Se aplicará también lo dispuesto en esta fracción, aunque el acusador o denunciante no fuere descendiente, ascendiente, cónyuge, compañero civil o hermano del autor de la herencia, si la acusación es declarada calumniosa.
+II. El que haya hecho contra el autor de la sucesión, o contra alguna de las otras personas mencionadas en la fracción anterior, denuncia o acusación por delito que merezca pena de prisión, aun cuando aquélla sea fundada, si el acusador o denunciante fuere descendiente, ascendiente, cónyuge, compañero civil o hermano del testador, a no ser que ese acto haya sido preciso para que el acusador salvara su vida o su honra, o la de sus descendientes, ascendientes, hermanos, medios hermanos, o cónyuge, persona con quien haga vida marital o compañero civil.
 
-III. El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente.
+Tampoco se considerarán incapaces de adquirir por testamento o por intestado aquellas personas que hayan hecho contra el autor de la sucesión, o contra alguna de las otras personas mencionadas en la fracción anterior, denuncia por los delitos de violencia familiar, trata de personas, algún delito de índole sexual o feminicidio.
 
-IV. El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente.
+Se aplicará también lo dispuesto en esta fracción, aunque el acusador o denunciante no fuere descendiente, ascendiente, cónyuge, compañero civil o hermano del autor de la herencia, si la acusación es declarada calumniosa.
+
+III. (DEROGADA, P.O. 26 DE JUNIO DE 2020)
+
+IV. (DEROGADA, P.O. 26 DE JUNIO DE 2020)
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
 
@@ -21246,3 +21250,15 @@ P.O. 22 DE NOVIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 608.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 791 Y SE DEROGAN LAS FRACCIONES III Y IV DEL ARTÍCULO 791 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
