@@ -4,7 +4,7 @@ identifier: "COA-ley-de-participacion-ciudadana-para-el-estado-de-coahuila-23169
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2019-04-12"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 16 de noviembre de 2001.
 
@@ -531,9 +531,11 @@ El funcionamiento de la comisión se regirá por la Ley Orgánica del Congreso d
 
 II. La comisión resolverá sobre la procedencia de la iniciativa, bajo las reglas siguientes:
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
-1. Verificará que la iniciativa cumpla con los requisitos previstos en el artículo anterior.
+1. Verificará que la iniciativa cumpla con los requisitos previstos en el artículo anterior, en un plazo que no excederá de sesenta días naturales, contados a partir de la fecha en que le fuere remitida.
+
+Cuando la comisión juzgase necesario disponer de mayor tiempo, deberá solicitar la amplicación del plazo establecido en el párrafo anterior hasta por 60 días naturales más, a fin de dictaminar, acordar informar sobre el asunto. Transcurrido este plazo no se concederá ninguna otra prorroga por lo que la comisión respectiva tendrá que resolver en definitiva la suerte del asunto.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
@@ -1734,3 +1736,9 @@ P.O. 12 DE ABRIL DE 2019.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Las solicitudes de plebiscito o referendo que se hayan iniciado previo a la vigencia de este decreto, se resolverán conforme a los porcentajes de la lista nominal de electores aplicables a cada caso establecidos en esta ley antes de la entrada en vigor de estas reformas.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 632.- SE REFORMA EL NUMERAL 1. DE LA FRACCIÓN II DEL ARTÍCULO 43 DE LA LEY DE PARTICIPACIÓN CIUDADANA DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
