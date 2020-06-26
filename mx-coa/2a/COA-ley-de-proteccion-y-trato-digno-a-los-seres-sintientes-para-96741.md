@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-y-trato-digno-a-los-seres-sintientes-para-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2020-01-21"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -55,7 +55,9 @@ En lo no previsto en la presente ley, se aplicará de manera supletoria y en lo 
 
 Las disposiciones de esta Ley tendrán los siguientes objetivos:
 
-I.- Proteger a la fauna en general erradicando los actos de crueldad, abandono o maltrato provocados por el hombre y sancionar dichas acciones;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+I.- Proteger a la fauna en general erradicando y sancionando los actos de crueldad, mutilación estética, modificación corporal, abandono explotación o maltrato provocados por seres humanos.
 
 II.- Fomentar las condiciones para el trato digno de todas las especies de animales;
 
@@ -67,7 +69,9 @@ V.- Impulsar el desarrollo urbano, previniendo los brotes de zoonosis y preserva
 
 VI.- Fomentar y promover por todos los medios posibles la participación de los sectores público, privado y social para la observancia de la presente Ley; y
 
-VII.- Apoyar la creación y funcionamiento de sociedades protectoras de animales.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VII. Apoyar la creación y regular el funcionamiento de asociaciones protectoras de animales.
 
 ###### Artículo 3.
 
@@ -111,7 +115,7 @@ XI.- Animales silvestres: Según la Ley General de Vida Silvestre, las especies 
 
 XII.- Animales de exhibición: Todos aquellos, que se encuentran en cautiverio en zoológicos, aviarios, herpetarios, acuarios, ferias, granjas didácticas o cualquier otro tipo de colección de animales o especies similares ya sean de propiedad pública o privada;
 
-XIII.- Animal utilizado en espectáculos: Animales de cualquier especie empleados en espectáculos públicos o privados, ya sea realizando actividades para las cuales se adiestraron previamente o sólo usados como cabalgata, espectáculos taurinos, peleas de gallos, charreadas y eventos religiosos;
+XIII.- (DEROGADA, P.O. 26 DE JUNIO DE 2020)
 
 XIV.- Animales de guardia y protección: Los animales que son entrenados por personas debidamente autorizadas para realizar funciones de vigilancia, protección o guardia en establecimientos comerciales, casas-habitación o instituciones públicas y privadas, así como para ayudar a la detección de estupefacientes, armas, explosivos y demás acciones análogas;
 
@@ -127,7 +131,9 @@ XIX.- Asociaciones protectoras de animales: Las instituciones, organizaciones y 
 
 XX.- Bienestar animal: Estado en el que el animal tiene satisfechas sus necesidades bilógicas, de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
 
-XXI.- Campañas: Acciones públicas realizadas de manera periódica y sistemática por la Autoridad o por quien la misma asigne, para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar la población de animales o para difundir el trato digno y respetuoso a los animales;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XXI.- Campañas: Acciones públicas y privadas realizadas de manera periódica y sistemática por asociaciones protectoras de animales, la Autoridad o por quien la misma asigne, para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar la población y reproducción de animales o para promocionar y difundir el trato digno y respetuoso a los animales;
 
 XXII.- Campañas Fitosanitarias: Es un conjunto de medidas fitosanitarias para la Prevención, combate y erradicación de plagas que afecten a los vegetales en un área geográfica determinada;
 
@@ -145,7 +151,7 @@ XXVII.- Enriquecimiento ambiental: es la adecuación del ambiente físico y soci
 
 XXVIII.- Epizootia: Enfermedad contagiosa que ataca a un número inusual de animales al mismo tiempo y lugar que se propaga con rapidez. Término equivalente en medicina a epidemia;
 
-XXIX.- Espectáculo circense: aquel realizado de manera fija o itinerante dentro de una carpa movible, ya sea público o privado;
+XXIX.- (DEROGADA, P.O. 26 DE JUNIO DE 2020)
 
 XXX.- Esterilización: Proceso quirúrgico o químico, que se practica en los animales, para evitar su reproducción;
 
@@ -317,9 +323,9 @@ II.- Los centros de control animal y zoonosis;
 
 III.- Los rastros;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-IV.- Las asociaciones protectoras de animales, los rescatistas independientes de animales, miembros y clubes de perros de raza, y entrenadores y adiestradores caninos para guardia y protección;
+IV.- Las asociaciones protectoras de animales, veterinarias y clínicas de atención animal, los rescatistas independientes de animales, miembros y clubes de perros de raza, y entrenadores y adiestradores caninos para guardia y protección;
 
 V.- Los establecimientos para la venta de animales;
 
@@ -357,9 +363,11 @@ Las actividades de sanidad animal tienen por objeto preservar la salud, así com
 
 La inspección, verificación y supervisión del debido cumplimiento de las disposiciones aplicables en establecimientos dedicados al sacrificio de animales y procesamiento de bienes de origen animal de competencia estatal o municipal, se realizará a través de la Secretaría de Salud, de acuerdo a su ámbito de competencia.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### Artículo 17.
 
-Con el objeto de prevenir, controlar o erradicar la presencia de enfermedades y plagas; y a efecto de mejorar y mantener las condiciones de salud en el estado, se establecerán campañas zoosanitarias.
+Con el objeto de prevenir, diagnosticar, controlar o erradicar la presencia de enfermedades y plagas de origen animal, y a efecto de mejorar y mantener las condiciones de salud para la fauna en el estado, se establecerán campañas zoosanitarias permanentes por parte de la Autoridad, en coordinación con asociaciones protectoras de animales y clínicas o centros veterinarios.
 
 ###### Artículo 18.
 
@@ -379,7 +387,9 @@ II.- Promover en el entorno familiar la cultura de la protección, atención, tr
 
 III.- Promover la cultura, protección, atención y trato digno a los animales a través de los comités ciudadanos y de los consejos del pueblo electos;
 
-IV.- Participar en las instancias de carácter social y vecinal, que cuiden, asistan y protejan a los animales; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+IV.- Contribuir voluntaria y directamente con el cuidado de los animales mediante acciones individuales que promuevan un ejemplo social de cuidado y trato digno hacia los animales, así mismo, participar en las instancias de carácter social y vecinal, que cuiden, asistan y protejan a los animales y;
 
 V.- Cuidar y velar por la observancia y aplicación de la presente Ley.
 
@@ -395,7 +405,9 @@ II.- Las peleas de perros, o cualesquiera otros animales entre sí o con ejempla
 
 III.- La venta ambulante, reiterada, de animales en general, fuera de los establecimientos, ferias y mercados legalmente autorizados;
 
-IV.- Abandonar a los animales en la vía pública;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+IV.- Abandonar a los animales en la vía pública o en lugar lejano de su hábitat natural, cuando no exista justificación alguna;
 
 V.- El obsequio, distribución o venta de animales con fines de propaganda política, promoción comercial, obras benéficas o eventos escolares; y como premios en sorteos, juegos, concursos, rifas y loterías; salvo los permitidos en el reglamento de la presente Ley;
 
@@ -440,6 +452,10 @@ XVII.- Las demás que establezca la presente ley y los ordenamientos jurídicos 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 Se excepcionan de las prohibiciones en el presente Artículo, los rodeos, carreras de caballos, charrería y las peleas y casteo de gallos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+Toda persona que se encuentre en alguno de los supuestos antes mencionados o que de manera dolosa violente alguna de las prohibiciones demarcadas por el presente artículo, será acreedora de las sanciones económicas y/o penales marcadas por esta ley y demás leyes en la materia, según lo que la autoridad competente determine con base en lo dispuesto por el artículo 90 de la presente ley.
 
 ###### Artículo 21.
 
@@ -709,6 +725,10 @@ Queda estrictamente prohibido depositar animales muertos o moribundos en la vía
 
 Los cadáveres de animales deberán tener una disposición final adecuada o ser incinerados o inhumados.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+Para cumplir con el principio de trato digno, se tendrá que realizar de manera profesional por quien tenga los conocimientos técnicos para la realización de cualquiera de dichas actividades y, por ningún motivo, será el tutor o poseedor del animal quien realice la disposición final del cadáver.
+
 ###### Artículo 56.
 
 Los animales que perezcan atropellados en la vía pública deberán ser retirados de inmediato por la autoridad municipal; en caso de que el animal tenga lesiones visiblemente mortales, deberá ser sacrificado de forma humanitaria inmediatamente.
@@ -951,7 +971,9 @@ VI.- Escuelas de entrenamiento;
 
 VII.- Domicilios particulares, con la autorización de los tutores o poseedores;
 
-VIII.- Establecimientos para la venta de animales; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VIII.- Establecimientos para la venta de animales y veterinarias o clínicas de atención animal; y
 
 IX.- Criaderos.
 
@@ -1326,3 +1348,11 @@ P.O. 21 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 625.- SE REFORMAN LAS FRACCIONES I Y VII DEL ARTÍCULO 2, LA FRACCIÓN XXI DEL ARTÍCULO 4, LA FRACCIÓN IV DEL ARTÍCULO 15, EL ARTÍCULO 17, LA FRACCIÓN IV DEL ARTÍCULO 19, LA FRACCIÓN IV DEL ARTÍCULO 20 Y LA FRACCIÓN VIII DEL ARTÍCULO 78; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 20 Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 55, Y SE DEROGAN LAS FRACCIONES XIII Y XXIX DEL ARTÍCULO 4, TODAS ESTAS DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
