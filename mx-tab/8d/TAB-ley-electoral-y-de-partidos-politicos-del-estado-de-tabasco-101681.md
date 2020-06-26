@@ -4,7 +4,7 @@ identifier: "TAB-ley-electoral-y-de-partidos-politicos-del-estado-de-tabasco-101
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2019-06-15"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 2 de julio de 2014.
 
@@ -83,7 +83,7 @@ V. Consejo Estatal: El Consejo Estatal del Instituto Electoral y de Participaci�
 
 VI. Consejo Distrital: El Consejo Electoral Distrital;
 
-VII. Consejo Municipal: El Consejo Electoral Municipal;
+VII. (DEROGADA, P.O. 26 DE JUNIO DE 2020)
 
 VIII. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1397,11 +1397,15 @@ III. Solicitar la colaboración de los notarios públicos para el auxilio de la 
 
 1. El Instituto Estatal tiene su domicilio en la ciudad de Villahermosa y ejercerá sus funciones en todo el territorio de la entidad, conforme a la siguiente estructura:
 
-I. Órganos Centrales, con residencia en la capital del Estado;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-II. Órganos Distritales, en cada Distrito Electoral Uninominal, y
+I. Órganos Centrales, con residencia en la capital del Estado; y
 
-III. Órganos Municipales, en cada Municipio del Estado.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+II. Órganos Distritales, en cada Distrito Electoral Uninominal.
+
+III. (DEROGADA, P.O. 26 DE JUNIO DE 2020)
 
 ## TÍTULO SEGUNDO. DE LOS ÓRGANOS CENTRALES
 
@@ -1487,9 +1491,11 @@ V. Órgano Técnico de Fiscalización.
 
 5. El Secretario Ejecutivo del Consejo Estatal apoyará las Comisiones para el cumplimiento de las actividades que le hayan asignado.
 
-###### ARTÍCULO 114.
+###### ARTICULO 114.
 
-1. El Consejo Estatal girará instrucciones para que sean publicadas en el Periódico Oficial del Estado y en la página de Internet del Instituto Estatal, las resoluciones y acuerdos de carácter general que determine, así como los nombres de los integrantes de los Consejos Electorales Estatal, Distritales y Municipales.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. El Consejo Estatal girará instrucciones para que sean publicadas en el Periódico Oficial del Estado y en la página de Internet del Instituto Estatal, las resoluciones y acuerdos de carácter general que determine, así como los nombres de los integrantes de los Consejos Electorales Estatal y Distritales.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL CONSEJO ESTATAL
 
@@ -1499,7 +1505,9 @@ V. Órgano Técnico de Fiscalización.
 
 I. Aplicar las disposiciones generales, reglas, lineamientos, criterios y formatos que, en ejercicio de las facultades que le confieren la Constitución Federal y la Ley General, establezca el Instituto Nacional Electoral;
 
-II. Vigilar y supervisar la oportuna integración, instalación y adecuado funcionamiento de los órganos centrales, distritales y municipales del Instituto Estatal y conocer de los informes específicos que el Consejo Estatal estime necesario solicitarles;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+II. Vigilar y supervisar la oportuna integración, instalación y adecuado funcionamiento de los órganos centrales y distritales del Instituto Estatal, y conocer de los informes específicos que se estime necesario solicitarles;
 
 III. Designar al Secretario Ejecutivo y al titular del Órgano Técnico de Fiscalización, conforme a lo previsto en esta Ley y a las propuestas que presente el Consejero Presidente;
 
@@ -1507,7 +1515,9 @@ IV. Designar, en caso de ausencia del Secretario Ejecutivo, de entre los integra
 
 V. Designar a los Directores de Organización y Educación Cívica y de Administración del Instituto Estatal conforme a las propuestas que al efecto presente el Presidente;
 
-VI. Designar en la primera semana del mes de diciembre del año previo al de la elección a los Consejeros Electorales Distritales; y en la segunda semana de febrero del año de la elección a los Consejeros Electorales Municipales, con base en las propuestas que al efecto haga el Consejero Presidente y publicar la integración de los mismos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VI. Designar en la primera semana del mes de diciembre del año previo al de la elección a los Consejeros Electorales Distritales, con base en las propuestas que al efecto haga el Consejero Presidente y publicar su integración;
 
 VII. Resolver, en los términos de esta Ley, el otorgamiento de los registros a los Partidos Políticos Locales y a las agrupaciones políticas, así como lo relativo sobre la pérdida del mismo en los casos previstos en el Título Sexto del Libro Tercero de esta Ley, emitir la declaración correspondiente y ordenar su publicación en el Periódico Oficial del Estado;
 
@@ -1579,7 +1589,9 @@ XXXIX. Las demás que determine la Ley General; y aquellas no reservadas al Inst
 
 3. Cuando por disposición legal o Acuerdo del Consejo General del Instituto Nacional Electoral sean delegadas al Instituto Estatal atribuciones relativas a la capacitación electoral, ubicación de casillas e integración de mesas directivas de casillas, para los procesos locales, el Consejo Estatal dictará los acuerdos necesarios para asignar a los órganos que corresponda, las tareas que les toque cumplir y tomará las previsiones de orden administrativo correspondientes para el adecuado ejercicio de las atribuciones delegadas, de conformidad con los criterios, lineamientos y reglas que al efecto emita el Instituto Nacional Electoral.
 
-4. En todo caso, los órganos centrales, distritales y municipales, directivos y técnicos, que deban intervenir en el ejercicio de las facultades delegadas, deberán ajustarse invariablemente a dichos acuerdos.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+4. En todo caso, los órganos centrales, distritales, directivos y técnicos, que deban intervenir en el ejercicio de las facultades delegadas, deberán ajustarse invariablemente a dichos acuerdos.
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DEL PRESIDENTE DEL CONSEJO ESTATAL ELECTORAL
 
@@ -1641,7 +1653,9 @@ VI. Dar cuenta de los proyectos de dictamen de las Comisiones;
 
 VII. Dar toda la información sobre el cumplimiento de los acuerdos y resolución del Consejo Estatal y proveer lo necesario para su publicación;
 
-VIII. Recibir y substanciar los recursos de revisión que se interpongan en contra de los actos o resoluciones de los órganos distritales y municipales del Instituto Estatal y preparar el proyecto correspondiente;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VIII. Recibir y substanciar los recursos de revisión que se interpongan en contra de los actos o resoluciones de los órganos distritales del Instituto Estatal y preparar el proyecto correspondiente;
 
 IX. Recibir y dar trámite correspondiente a los recursos que se interpongan en contra de los actos o resoluciones de los órganos centrales del Instituto Estatal, informando al Consejo Estatal sobre los mismos en la sesión inmediata;
 
@@ -1649,7 +1663,9 @@ X. Informar al Consejo Estatal de las resoluciones que le competan, dictadas por
 
 XI. Apoyar la realización de los estudios o procedimientos pertinentes, a fin de conocer las tendencias electorales el día de la jornada electoral cuando así lo ordene el Consejero Presidente. Los resultados de dichos estudios sólo podrán ser difundidos previo acuerdo del Consejo Estatal;
 
-XII. Dar cuenta al Consejo Estatal de los informes que sobre las elecciones reciba de los Consejos Electorales Distritales y Municipales;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XII. Dar cuenta al Consejo Estatal de los informes que sobre las elecciones reciba de los Consejos Electorales Distritales;
 
 XIII. Establecer un mecanismo para la difusión inmediata en el Consejo Estatal, de los resultados preliminares de la elección local, de acuerdo a los lineamientos señalados por el Instituto Nacional Electoral, al cual tendrán acceso en forma permanente los miembros del Consejo Estatal;
 
@@ -1665,13 +1681,19 @@ XVIII. Proveer a los órganos del Instituto Estatal de elementos primordiales pa
 
 XIX. Participar en los convenios que se celebren con las autoridades competentes respecto a la información y documentos que habrá de aportar la Dirección Ejecutiva del Registro Federal de Electores para los procesos electorales locales;
 
-XX. Ejercer y atender oportunamente la función de oficialía electoral por sí, o por conducto de los vocales secretarios de las juntas ejecutivas distritales o municipales, u otros servidores públicos del Instituto Estatal en los que delegue dicha función respecto de actos o hechos exclusivamente de naturaleza electoral. El Secretario Ejecutivo podrá delegar la atribución en servidores públicos a su cargo;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XX. Ejercer y atender oportunamente la función de oficialía electoral por sí, o por conducto de los vocales secretarios de las juntas ejecutivas distritales, u otros servidores públicos del Instituto Estatal en los que delegue dicha función respecto de actos o hechos exclusivamente de naturaleza electoral. El Secretario Ejecutivo podrá delegar la atribución en servidores públicos a su cargo;
 
 XXI. Coordinarse con las autoridades del Instituto Nacional Electoral, respecto de las asignaciones en materia de radio y televisión que correspondan a las autoridades electorales locales y a los Partidos Políticos y candidatos, de conformidad con las leyes generales en la materia;
 
-XXII. Coordinar las actividades de las Direcciones de la Junta Estatal; y las Juntas Electorales Distritales y Municipales del Instituto Estatal y supervisar el desarrollo adecuado de los mismos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-XXIII. Recibir y revisar los informes de los Vocales Ejecutivos de las Juntas Electorales Distritales y Municipales;
+XXII. Coordinar las actividades de las Direcciones de la Junta Estatal; y las Juntas Electorales Distritales del Instituto Estatal y supervisar el desarrollo adecuado de las mismas;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XXIII. Recibir y revisar los informes de los Vocales Ejecutivos de las Juntas Electorales Distritales;
 
 XXIV. Expedir las certificaciones que le sean solicitadas conforme a derecho;
 
@@ -1709,7 +1731,9 @@ IV. Vigilar el cumplimiento de las normas aplicables a los Partidos Políticos, 
 
 V. Supervisar el cumplimiento de los programas y actividades de las Direcciones del Instituto Estatal;
 
-VI. Nombrar a los miembros de las Juntas Electorales Distritales y Municipales, a propuesta de su Presidente, y supervisar el cumplimiento de sus actividades; aprobar, conforme al presupuesto autorizado, la estructura de las vocalías de acuerdo con las necesidades del proceso electoral;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VI. Nombrar a los miembros de las Juntas Electorales Distritales, a propuesta de su Presidente, y supervisar el cumplimiento de sus actividades; así como aprobar, conforme al presupuesto autorizado, la estructura de las vocalías de acuerdo con las necesidades del proceso electoral;
 
 VII. Nombrar, en su caso, al funcionario que acudirá a las sesiones de la Comisión Local de Vigilancia del Registro Federal de Electores, con facultades de enlace con el Instituto Nacional Electoral, de conformidad con el convenio respectivo que se suscriba;
 
@@ -1719,7 +1743,9 @@ IX. Formular los estudios y, en su caso, los proyectos de convenio que deban sus
 
 X. Presentar a consideración del Consejo Estatal el proyecto de dictamen de pérdida de registro de algún Partido Político Local o agrupación política local, que se encuentren en cualquiera de los supuestos establecidos en esta Ley;
 
-XI. Resolver los medios de impugnación que le competan, en contra de los actos o resoluciones del Secretario Ejecutivo y de las Juntas Distritales y Municipales del Instituto Estatal, en los términos establecidos en la ley de la materia;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XI. Resolver, en el ámbito de su competencia, los medios de impugnación en contra de los actos o resoluciones del Secretario Ejecutivo y de las Juntas Distritales del Instituto Estatal, en los términos establecidos en la ley de la materia;
 
 XII. Integrar los expedientes relativos a las faltas administrativas en materia electoral y, en su caso, proponer las sanciones, en los términos que establece esta Ley, y
 
@@ -1755,13 +1781,17 @@ VIII. Llevar el registro de los candidatos a cargos de elección popular;
 
 IX. Actuar como Secretario Técnico de las Comisiones que el Consejo Estatal constituya;
 
-X. Apoyar la integración, instalación y desempeño de las Juntas Electorales Distritales y Municipales, así como de sus Consejos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+X. Apoyar la integración, instalación y desempeño de las Juntas Electorales Distritales, así como de sus Consejos;
 
 XI. Elaborar los formatos de toda la documentación electoral, para proponerlos por conducto del Secretario Ejecutivo, a la aprobación del Consejo Estatal;
 
 XII. Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada;
 
-XIII. Recabar de los Consejeros Electorales Distritales y Municipales, copia de las actas de las sesiones y demás documentación relacionada con el proceso electoral;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XIII. Recabar de los Consejeros Electorales Distritales copia de las actas de las sesiones y demás documentación relacionada con el proceso electoral;
 
 XIV. Recabar los documentos necesarios e integrar expedientes, a fin de que el Consejo Estatal efectúe los cómputos que conforme a esta Ley debe realizar;
 
@@ -1855,7 +1885,9 @@ IV. Ordenar al vocal Secretario que expida las certificaciones que soliciten los
 
 V. Proveer a las Vocalías de los elementos necesarios para el cumplimiento de sus tareas;
 
-VI. Llevar la estadística de las Elecciones Distritales;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VI. Llevar la estadística de las Elecciones Distritales y Municipales;
 
 VII. Ejecutar los Programas de Organización y Educación Cívica;
 
@@ -1867,13 +1899,17 @@ IX. Las demás que le señale esta Ley.
 
 ###### ARTÍCULO 127.
 
-1. Los Consejos Electorales Distritales funcionarán durante el proceso electoral y se integrarán con un Consejero Presidente, que fungirá a la vez como Vocal Ejecutivo, cuatro Consejeros Electorales y Consejeros Representantes de los Partidos Políticos. Los Vocales Secretario, y de Organización Electoral y Educación Cívica concurrirán a sus sesiones con voz pero sin voto.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Los Consejos Electorales Distritales funcionarán durante el proceso electoral y se integrarán con un Consejero Presidente, que fungirá a la vez como Vocal Ejecutivo, seis Consejeros Electorales y Consejeros Representantes de los Partidos Políticos. Los Vocales Secretario, y de Organización Electoral y Educación Cívica concurrirán a sus sesiones con voz pero sin voto.
 
 2. El Vocal Secretario de la Junta Distrital será Secretario del Consejo Electoral Distrital.
 
 3. Los Consejeros Representantes de los Partidos Políticos tendrán voz pero no voto.
 
-4. Los Consejeros Electorales Distritales, serán designados por el Consejo Estatal. Serán designados cuatro Consejeros Suplentes Generales. De producirse una ausencia definitiva o en caso de incurrir un Consejero propietario en dos inasistencias de manera consecutiva sin causa justificada, el suplente será llamado para que concurra a la siguiente sesión a rendir la protesta de Ley.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+4. Los Consejeros Electorales Distritales, serán designados por el Consejo Estatal. Serán designados seis Consejeros Suplentes Generales. De producirse una ausencia definitiva o en caso de incurrir un Consejero propietario en dos inasistencias de manera consecutiva sin causa justificada, el suplente será llamado para que concurra a la siguiente sesión a rendir la protesta de Ley.
 
 5. Las designaciones podrán ser impugnadas en los términos de la ley, cuando no se reúnan algunos de los requisitos señalados en el artículo siguiente.
 
@@ -1891,13 +1927,17 @@ IX. Las demás que le señale esta Ley.
 
 1. Los Consejos Electorales Distritales iniciarán sus sesiones durante la segunda semana del mes de diciembre del año previo al de la elección ordinaria.
 
-2. Desde el momento de su instalación y hasta la conclusión del proceso los Consejos Electorales Distritales sesionarán de manera ordinaria por lo menos una vez al mes, su presidente pondrá (sic) convocar a sesiones extraordinarias cuando lo estime necesario. Las convocatorias deberán hacerse por escrito.
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
 
-3. Para que los Consejeros Electorales Distritales sesionen válidamente es necesaria la presencia de la mayoría de sus integrantes entre los que deberá estar el Presidente. El Vocal Secretario podrá suplir al Presidente en aquellos casos de ausencia temporal o de fuerza mayor; en este supuesto su función será realizada por el Vocal de Organización Electoral y Educación Cívica.
+2. En la sesión de instalación de los Consejos Distritales podrán participar los representantes de los Partidos Políticos que previamente, para tal efecto, hayan sido acreditados ante el Consejo Estatal.
 
-4. En caso que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los Consejeros Electorales y los Consejeros Representantes que asistan entre los que deberá estar el Presidente o el Secretario del mismo.
+3. Desde el momento de su instalación y hasta la conclusión del proceso los Consejos Electorales Distritales sesionarán de manera ordinaria por lo menos una vez al mes, su presidente pondrá (sic) convocar a sesiones extraordinarias cuando lo estime necesario. Las convocatorias deberán hacerse por escrito.
 
-5. Las resoluciones de los Consejos Electorales Distritales se tomarán por mayoría de votos y, en caso de empate, será de calidad el del Presidente.
+4. Para que los Consejeros Electorales Distritales sesionen válidamente es necesaria la presencia de la mayoría de sus integrantes entre los que deberá estar el Presidente. El Vocal Secretario podrá suplir al Presidente en aquellos casos de ausencia temporal o de fuerza mayor; en este supuesto su función será realizada por el Vocal de Organización Electoral y Educación Cívica.
+
+5. En caso que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los Consejeros Electorales y los Consejeros Representantes que asistan entre los que deberá estar el Presidente o el Secretario del mismo.
+
+6. Las resoluciones de los Consejos Electorales Distritales se tomarán por mayoría de votos y, en caso de empate, será de calidad el del Presidente.
 
 ###### ARTÍCULO 130.
 
@@ -1907,21 +1947,31 @@ I. Vigilar la observancia de esta Ley, de los acuerdos y resoluciones de las aut
 
 II. Vigilar que las mesas directivas de casilla se instalen en el día de la jornada, en los términos del mismo;
 
-III. Registrar las fórmulas de candidatos a Diputados de Mayoría Relativa;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+III. Registrar las fórmulas de candidatos a Presidentes Municipales, Diputados y Regidores de Mayoría Relativa;
 
 IV. Realizar los cómputos distritales, así como emitir la declaración de la validez y expedir la constancia de la elección de Diputados de mayoría;
 
 V. Efectuar los cómputos distritales de la elección de Diputados de Representación Proporcional;
 
-VI. Realizar el cómputo de la elección de Gobernador del Estado en el Distrito;
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-VII. Tramitar y sustanciar los recursos de su competencia que prevenga esta Ley y la ley de la materia;
+VI. Realizar los cómputos municipales y la declaración de validez de la elección de Presidentes Municipales y Regidores de mayoría;
 
-VIII. Revisar y dar cumplimiento a los trabajos relativos a los productos electorales que habrá de aportar el Registro Federal de Electores, en el ámbito del Distrito que le corresponda, de conformidad al convenio y los documentos técnicos celebrados con el Instituto Nacional Electoral;
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-IX. Nombrar las Comisiones que sean necesarias para vigilar y organizar el adecuado ejercicio de sus atribuciones, con el número de miembros que para cada caso se acuerde, y
+VII. Realizar los cómputos municipales de la elección de Regidores por el Principio de Representación Proporcional;
 
-X. Las demás que le confiera esta Ley.
+VIII. Realizar el cómputo de la elección de Gobernador del Estado en el Distrito;
+
+IX. Tramitar y sustanciar los recursos de su competencia que prevenga esta Ley y la ley de la materia;
+
+X. Revisar y dar cumplimiento a los trabajos relativos a los productos electorales que habrá de aportar el Registro Federal de Electores, en el ámbito del Distrito que le corresponda, de conformidad al convenio y los documentos técnicos celebrados con el Instituto Nacional Electoral;
+
+XI. Nombrar las Comisiones que sean necesarias para vigilar y organizar el adecuado ejercicio de sus atribuciones, con el número de miembros que para cada caso se acuerde, y
+
+XII. Las demás que le confiera esta Ley.
 
 ### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LOS PRESIDENTES DE LOS CONSEJOS ELECTORALES DISTRITALES
 
@@ -1931,7 +1981,9 @@ X. Las demás que le confiera esta Ley.
 
 I. Convocar y conducir las sesiones del Consejo Distrital;
 
-II. Recibir las solicitudes de registro de candidaturas de Diputados de Mayoría Relativa;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+II. Recibir las solicitudes de registro de candidaturas de Presidentes Municipales, Regidores y Diputados de Mayoría Relativa;
 
 III. Dar cuenta al Secretario Ejecutivo del Instituto Estatal de los cómputos correspondientes, del desarrollo de las elecciones y de los recursos interpuestos;
 
@@ -1939,19 +1991,41 @@ IV. Entregar a los Presidentes de las mesas directivas de casilla la documentaci
 
 V. Expedir la constancia de mayoría y validez de la elección a las fórmulas de candidatos a Diputados de Mayoría Relativa conforme al cómputo y declaración de validez del Consejo Electoral Distrital;
 
-VI. Dar a conocer mediante avisos colocados en el exterior de sus oficinas, los resultados de los cómputos distritales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2020)</small>
 
-VII. Turnar el original y las copias certificadas del expediente de los cómputos distritales relativos a la elección de Diputados y Gobernador del Estado, en los términos previstos en esta Ley;
+VI. Expedir la constancia de mayoría y validez de la elección a los candidatos a Presidentes Municipales y Regidores conforme al cómputo y declaración de validez del Consejo Electoral Distrital;
 
-VIII. Turnar en forma inmediata el original del acta y el informe del cómputo correspondiente a la elección de Diputados de Representación Proporcional, al Presidente de la cabecera de Circunscripción Plurinominal respectivo;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-IX. Custodiar la documentación de las elecciones de Diputados y Gobernador del Estado, hasta que concluya el proceso electoral correspondiente;
+VII. Dar a conocer mediante avisos colocados en el exterior de sus oficinas, los resultados de los cómputos distritales y municipales;
 
-X. Recibir y turnar, en su caso, los recursos que se interpongan en contra de los actos y resoluciones del propio Consejo;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-XI. Vigilar el cumplimiento de las resoluciones dictadas por el propio Consejo Electoral Distrital y demás autoridades electorales competentes, y
+VIII. Turnar el original y las copias certificadas del expediente de los cómputos distritales y municipales relativos a las elecciones de Diputados, Presidentes Municipales, Regidores y Gobernador del Estado, en los términos previstos en esta Ley;
 
-XII. Las demás que les confiera la Ley.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2020)</small>
+
+IX. Turnar en forma inmediata el original del acta y el informe del cómputo correspondiente a la elección de Diputados de Representación Proporcional, al Presidente de la cabecera de Circunscripción Plurinominal respectivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2020)</small>
+
+X. Turnar en forma inmediata el original del acta y los informes de los cómputos correspondientes a la elección de Presidentes Municipales y Regidores por Mayoría Relativa, al Presidente de la cabecera de municipio respectivo;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XI. Custodiar la documentación de las elecciones de Presidentes Municipales, Regidores, Diputados y Gobernador del Estado, hasta que concluya el proceso electoral correspondiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2020)</small>
+
+XII. Recibir y turnar, en su caso, los recursos que se interpongan en contra de los actos y resoluciones del propio Consejo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2020)</small>
+
+XIII. Vigilar el cumplimiento de las resoluciones dictadas por el propio Consejo Electoral Distrital y demás autoridades electorales competentes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2020)</small>
+
+XIV. Las demás que les confiera la Ley.
 
 2. Los Presidentes serán auxiliados en sus funciones por los Secretarios de los Consejos Electorales Distritales, los que tendrán a su cargo la substanciación de los recursos de la competencia del propio Consejo Estatal.
 
@@ -1965,135 +2039,65 @@ I. Recibir los originales de las actas e informes de los cómputos distritales c
 
 II. Estar presente en el cómputo de la elección de Diputados de Representación Proporcional en el Consejo Estatal.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2020)</small>
+
 ## TÍTULO CUARTO. DE LOS ÓRGANOS MUNICIPALES DEL INSTITUTO ESTATAL
 
 ###### ARTÍCULO 133.
 
-1. En cada uno de los Municipios del Estado, el Instituto Estatal deberá establecer los órganos municipales siguientes:
+(DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
-I. La Junta Electoral Municipal;
-
-II. La Vocalía Ejecutiva Municipal, y
-
-III. El Consejo Electoral Municipal.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO PRIMERO. DE LAS JUNTAS ELECTORALES MUNICIPALES
 
 ###### ARTÍCULO 134.
 
-1. Las Juntas Electorales Municipales son órganos operativos temporales que se integran para las elecciones de Presidentes Municipales y Regidores, con un Vocal Ejecutivo, un Vocal Secretario y un Vocal de Organización Electoral y Educación Cívica. El Vocal Ejecutivo presidirá la Junta.
-
-2. El Vocal Secretario auxiliará al Vocal Ejecutivo en las tareas administrativas de la Junta.
-
-3. Las Juntas Electorales Municipales estarán integradas por profesionistas titulados, con conocimientos para el desempeño de sus funciones.
+(DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 135.
 
-1. Las Juntas Electorales Municipales sesionarán por lo menos una vez al mes, y tendrán en su ámbito territorial las facultades siguientes:
+(DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
-I. Cumplir con los programas que determine la Junta Estatal Ejecutiva;
-
-II. Designar al personal necesario para el desarrollo y funcionamiento de los órganos electorales, y
-
-III. Las demás que le confiera esta Ley.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO SEGUNDO. DE LAS VOCALÍAS EJECUTIVAS DE LAS JUNTAS ELECTORALES MUNICIPALES
 
 ###### ARTÍCULO 136.
 
-1. Los Vocales Ejecutivos Municipales tendrán las siguientes atribuciones:
+(DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
-I. Presidir la Junta Electoral y el Consejo Electoral Municipal;
-
-II. Coordinar las Vocalías a su cargo y distribuir entre ellas los asuntos de su competencia;
-
-III. Proponer a la aprobación del Consejo Electoral Municipal los asuntos que le competan;
-
-IV. Expedir las certificaciones que soliciten los Partidos Políticos o candidatos;
-
-V. Llevar la estadística de las elecciones municipales, y
-
-VI. Las demás que le señale esta Ley y las disposiciones legales aplicables.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO TERCERO. DE LOS CONSEJOS ELECTORALES MUNICIPALES
 
 ###### ARTÍCULO 137.
 
-1. Los Consejos Electorales Municipales funcionarán durante el proceso electoral para las elecciones de Presidentes Municipales y Regidores. Se integrarán con un Consejero Presidente, quien en todo tiempo fungirá a la vez como Vocal Ejecutivo Municipal, cuatro Consejeros Electorales y los Consejeros Representantes de los Partidos Políticos. Los Vocales Secretario, y de Organización Electoral y Educación Cívica, concurrirán a sus sesiones con voz pero sin voto.
-
-2. El Vocal Secretario será el Secretario del Consejo Electoral Municipal.
-
-3. Los Consejeros Representantes de los Partidos Políticos tendrán voz pero no voto.
-
-4. Los Consejeros Electorales Municipales propietarios serán designados por el Consejo Estatal. Serán designados además, cuatro Consejeros Suplentes Generales. En caso de dos inasistencias de manera consecutiva sin causa justificada, el suplente será llamado para que concurra a la siguiente sesión a rendir la protesta de Ley.
-
-5. Las designaciones podrán ser impugnadas en los términos de la Ley, cuando no se reúna alguno de los requisitos señalados en el artículo siguiente.
+(DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 138.
 
-1. Los Consejeros Electorales Municipales deberán satisfacer los mismos requisitos que los establecidos en el artículo 100 de la Ley General, para los Consejeros Electorales del Consejo Estatal.
-
-2. Los Consejeros Electorales Municipales, propietarios y suplentes serán designados para un proceso electoral ordinario, pudiendo ser reelectos para uno más.
+(DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 139.
 
-1. Los Consejos Electorales Municipales iniciarán sesiones dentro de la tercera semana del mes de febrero del año de la elección ordinaria.
-
-2. Desde el momento de su instalación y hasta la conclusión del proceso, los Consejos Electorales Municipales sesionarán de forma ordinaria por lo menos una vez al mes. Su Presidente podrá convocar a sesiones extraordinarias cuando lo estime necesario. Las convocatorias deberán hacerse por escrito.
-
-3. Para que los Consejos Electorales Municipales sesionen válidamente es necesaria la presencia de la mayoría de sus integrantes, entre los que deberá estar el Presidente. El Vocal Secretario podrá suplir al Presidente en aquellos casos de ausencia temporal o de fuerza mayor. En este supuesto su función será realizada por el Vocal de Organización Electoral y Educación Cívica.
-
-4. En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los Consejeros Electorales y representantes que asistan, entre los que deberá estar el Presidente o el Secretario del mismo.
-
-5. Las resoluciones de los Consejos Electorales Municipales se tomarán por mayoría de votos y en caso de empate, será de calidad el del Presidente.
+(DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 140.
 
-1. Los Consejos Electorales Municipales, en el ámbito de su competencia tienen las siguientes atribuciones:
+(DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
-I. Vigilar la observancia de esta Ley, acuerdos y resoluciones de las autoridades Electorales;
-
-II. Registrar las fórmulas de candidatos a Presidentes Municipales y Regidores de Mayoría Relativa;
-
-III. Realizar los cómputos municipales y la declaración de validez de la elección de Presidentes Municipales y Regidores de mayoría;
-
-IV. Realizar los cómputos municipales de la elección de Regidores por el Principio de Representación Proporcional;
-
-V. Coadyuvar en el cumplimiento de los trabajos relativos a los productos electorales que habrá de aportar el Registro Federal de Electores para el proceso local, conforme al convenio y los documentos técnicos que celebre el Instituto Estatal con el Instituto Nacional Electoral, y
-
-VI. Las demás que les confiera esta Ley y demás disposiciones legales aplicables.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LOS PRESIDENTES DE LOS CONSEJOS ELECTORALES MUNICIPALES
 
 ###### ARTÍCULO 141.
 
-1. Corresponde a los Presidentes de los Consejos Electorales Municipales ejercer las siguientes atribuciones:
-
-I. Convocar y conducir las sesiones del Consejo;
-
-II. Recibir las solicitudes de registro de candidaturas para Presidentes Municipales y Regidores de Mayoría Relativa;
-
-III. Dar a cuenta al Secretario Ejecutivo del Instituto Estatal, de los cómputos correspondientes, del desarrollo de las elecciones y de los recursos interpuestos;
-
-IV. Expedir la constancia de mayoría y validez de la elección a los candidatos a Presidentes Municipales y Regidores conforme al cómputo y declaración de validez del Consejo Electoral Municipal;
-
-V. Dar a conocer mediante avisos colocados en el exterior de sus oficinas, los resultados de los cómputos municipales;
-
-VI. Turnar el original de las copias certificadas del expediente de los cómputos municipales relativos a la elección de Presidentes Municipales y Regidores al Consejo Estatal Electoral;
-
-VII. Custodiar la documentación de las elecciones de Presidentes Municipales y Regidores, hasta que concluya el proceso electoral correspondiente;
-
-VIII. Recibir y turnar, en su caso, los recursos que se interpongan en contra de los actos y resoluciones del propio Consejo Electoral Municipal;
-
-IX. Vigilar el cumplimiento de las resoluciones dictadas por el propio Consejo Electoral Municipal y demás autoridades electorales competentes, y
-
-X. Las que le señale esta Ley y demás disposiciones legales aplicables.
-
-2. Los Presidentes serán auxiliados en sus funciones por los Secretarios de los Consejos Electorales Municipales.
+(DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
 ###### ARTÍCULO 142.
 
-1. En la sesión de instalación de los Consejos Distritales y Municipales podrán participar los representantes de los Partidos Políticos que previamente, para tal efecto, hayan sido acreditados ante el Consejo Estatal.
+(DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
 ## TÍTULO QUINTO. DE LAS MESAS DIRECTIVAS DE CASILLA
 
@@ -2121,11 +2125,15 @@ X. Las que le señale esta Ley y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 145.
 
-1. Los integrantes de los Consejos Estatal, Distritales, Municipales y, en su caso, los funcionarios de mesas directivas de casilla, deberán rendir protesta de guardar y hacer guardar las Constituciones Federal y Local, así como las leyes que de ellas emanen y cumplir con las normas contenidas en la Ley General y esta Ley; así como desempeñar leal y patrióticamente las actividades que tienen encomendadas.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Los integrantes de los Consejos Estatal, Distritales y, en su caso, los funcionarios de mesas directivas de casilla, deberán rendir protesta de guardar y hacer guardar las Constituciones Federal y Local, así como las leyes que de ellas emanen y cumplir con las normas contenidas en la Ley General y esta Ley; así como desempeñar leal y patrióticamente las actividades que tienen encomendadas.
 
 ###### ARTÍCULO 146.
 
-1. Los Partidos Políticos deberán acreditar a sus Consejeros Representantes ante los Consejos Electorales Distritales y Electorales Municipales, a más tardar dentro de los treinta días siguientes a la fecha de la sesión de instalación del Consejo de que se trate.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Los Partidos Políticos deberán acreditar a sus Consejeros Representantes ante los Consejos Electorales Distritales, a más tardar dentro de los treinta días siguientes a la fecha de la sesión de instalación del Consejo.
 
 2. Vencido este plazo, los Partidos Políticos que no hayan acreditado a sus Representantes, no formarán parte del Consejo respectivo durante el proceso electoral.
 
@@ -2135,7 +2143,9 @@ X. Las que le señale esta Ley y demás disposiciones legales aplicables.
 
 1. Cuando el Consejero Representante propietario de un Partido Político o candidato independiente o, en su caso, el suplente, falten injustificadamente por tres veces consecutivas a las sesiones de los Consejos del Instituto Estatal, el Partido Político o candidato independiente dejará de formar parte del mismo en ese proceso electoral. En la primera falta se requerirá al representante para que asista a la sesión y se dará aviso al Partido Político o candidato a fin de que conmine a sus representantes a concurrir.
 
-2. Los Consejos Electorales Distritales y Municipales informarán por escrito al Consejo Estatal de cada ausencia, para que se enteren de estas faltas, e informen a los representantes respectivos acreditados ante dicho órgano, según corresponda.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+2. Los Consejos Electorales Distritales informarán por escrito al Consejo Estatal de cada ausencia, para que se enteren de estas faltas e informen a los representantes respectivos acreditados ante dicho órgano.
 
 3. La resolución del Consejo correspondiente se notificará al Partido Político o candidato respectivo.
 
@@ -2167,23 +2177,31 @@ III. Solicitar el auxilio de la fuerza pública para restablecer el orden y expu
 
 ###### ARTÍCULO 152.
 
-1. Los Consejos Electorales Distritales y Municipales, dentro de las veinticuatro horas siguientes a su instalación, enviarán copia certificada del acta respectiva al Secretario Ejecutivo del Instituto Estatal para que éste a su vez lo informe al Consejo Estatal.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Los Consejos Electorales Distritales dentro de las veinticuatro horas siguientes a su instalación, enviarán copia certificada del acta respectiva al Secretario Ejecutivo del Instituto Estatal para que este a su vez lo informe al Consejo Estatal.
 
 2. De la misma manera que se indica en el párrafo anterior se procederá respecto de las subsecuentes sesiones.
 
 ###### ARTÍCULO 153.
 
-1. A solicitud de los representantes de Partidos Políticos o candidatos independientes acreditados ante los Consejos Estatal, Distritales y Municipales, se expedirán copias certificadas de las actas de sus respectivas sesiones dentro de los tres días de haberse aprobado aquellas. Los Secretarios de los Consejos serán los responsables en caso de inobservancia.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. A solicitud de los representantes de Partidos Políticos o candidatos independientes acreditados ante los Consejos Estatal y Distritales, se expedirán copias certificadas de las actas de sus respectivas sesiones dentro de los tres días posteriores a la aprobación de aquellas. Los Secretarios de los Consejos serán los responsables en caso de inobservancia.
 
 ###### ARTÍCULO 154.
 
 1. El Consejo Estatal determinará los horarios de labores de los órganos del Instituto Estatal teniendo presente que en materia electoral todos los días y horas son hábiles.
 
-2. Los horarios que apruebe deberán ser comunicados por medio del Secretario Ejecutivo del Instituto Estatal a los Consejos Distritales y Municipales del Instituto para que éstos a su vez notifiquen a los Partidos Políticos y a los candidatos independientes, por conducto de sus representantes acreditados.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+2. Los horarios que apruebe deberán ser comunicados por medio del Secretario Ejecutivo del Instituto Estatal a los Consejos Distritales del Instituto para que estos a su vez notifiquen a los Partidos Políticos y a los candidatos independientes, por conducto de sus representantes acreditados.
 
 ###### ARTÍCULO 155.
 
-1. Los Consejeros Electorales Distritales y Municipales percibirán la dieta de asistencia que apruebe el Consejo Estatal del Instituto Estatal, la que en ningún caso estará sujeta a modificación alguna; el incumplimiento que se dé por este motivo será sancionado conforme a la Ley de Responsabilidades de los Servidores Públicos y las de orden administrativo internas, sin menoscabo de la responsabilidad civil o penal en que se pudiere incurrir.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Los Consejeros Electorales Distritales percibirán la dieta de asistencia que apruebe el Consejo Estatal del Instituto Estatal, la que en ningún caso estará sujeta a modificación alguna; el incumplimiento que se dé por este motivo será sancionado conforme a la Ley General de Responsabilidades Administrativas y las de orden administrativo internas, sin menoscabo de la responsabilidad civil o penal en que se pudiere incurrir.
 
 # LIBRO QUINTO. DE LOS PROCEDIMIENTOS ESPECIALES
 
@@ -2279,9 +2297,13 @@ III. Resultados y declaración de validez de las elecciones.
 
 4. La etapa de la jornada electoral de las elecciones, se inicia a las 8:00 horas del primer domingo del mes de junio y concluye con la clausura de casillas.
 
-5. La etapa de resultados y declaración de validez de las elecciones se inicia con la remisión de la documentación y expedientes electorales a los Consejos Electorales Distritales y Municipales, concluyendo con los cómputos y las declaraciones que realicen los mismos o las resoluciones que, en su caso, pronuncien en última instancia los órganos jurisdiccionales correspondientes.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
-6. Atendiendo al principio de definitividad que rige los procesos electorales, al concluir cualquiera de sus etapas o de alguno de los actos o actividades de los órganos electorales, el Secretario Ejecutivo del Instituto Estatal o los Vocales Ejecutivos de las Juntas Electorales Distritales y Municipales, según corresponda, podrán difundir su realización y conclusión en los medios que estimen pertinentes.
+5. La etapa de resultados y declaración de validez de las elecciones se inicia con la remisión de la documentación y expedientes electorales a los Consejos Electorales Distritales, concluyendo con los cómputos y las declaraciones que realicen los mismos o las resoluciones que, en su caso, pronuncien en última instancia los órganos jurisdiccionales correspondientes.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+6. Atendiendo al principio de definitividad que rige los procesos electorales, al concluir cualquiera de sus etapas o de alguno de los actos o actividades de los órganos electorales, el Secretario Ejecutivo del Instituto Estatal o los Vocales Ejecutivos de las Juntas Electorales Distritales, podrán difundir su realización y conclusión en los medios que estimen pertinentes.
 
 ### CAPÍTULO SEGUNDO. DE LA PROPAGANDA ELECTORAL
 
@@ -2517,19 +2539,27 @@ ARTÍCULO 179
 
 I. En el año en que se renueven el titular del Poder Ejecutivo Estatal, el Congreso del Estado y los ayuntamientos, el período de registro para todos los cargos comenzará noventa y un días antes de la jornada electoral y durará diez días. Los registros se harán ante los siguientes órganos:
 
-a) A Gobernador, Diputados y Regidores por el principio de representación proporcional, ante el Consejo Estatal;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
-b) A Diputados por el principio de Mayoría Relativa ante los Consejos Electorales Distritales respectivos, y
+a) A Gobernador, Diputados y Regidores por el principio de representación proporcional, ante el Consejo Estatal; y
 
-c) A Presidentes Municipales y Regidores por el Principio de Mayoría Relativa, ante los Consejos Electorales Municipales respectivos.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+b) A Diputados y Regidores por el Principio de Mayoría Relativa, y Presidentes Municipales ante los Consejos Electorales Distritales respectivos.
+
+c) (DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
 II. En el año en que sólo se elijan diputados y regidores, el periodo de registro comenzará sesenta y un días antes de la jornada electoral y durará diez días Los registros se harán ante los siguientes órganos:
 
-a) A Diputados y Regidores por el principio de representación proporcional, ante el Consejo Estatal;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
-b) A Diputados por el principio de Mayoría Relativa, ante los Consejos Electorales Distritales respectivos, y
+a) A Diputados y Regidores por el principio de representación proporcional, ante el Consejo Estatal; y
 
-c) A Presidentes Municipales y Regidores por el Principio de Mayoría Relativa, ante los Consejos Electorales Municipales respectivos.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+b) A Diputados y Regidores por el principio de Mayoría Relativa, y Presidentes Municipales ante los Consejos Electorales Distritales respectivos.
+
+c) (DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
 2. El Consejo Estatal podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los plazos de registro y que la duración de las campañas electorales se ciña a lo establecido en esta Ley.
 
@@ -2575,13 +2605,21 @@ VI. Cargo para el que se les postule.
 
 4. Cualquier solicitud o documentación presentada fuera de los plazos respectivos será desechada de plano y, en su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos.
 
-5. Dentro de los tres días siguientes en que venzan los plazos establecidos en el artículo 188 de esta Ley, los Consejos Estatal, Distritales y Municipales, celebrarán una sesión cuyo único propósito será registrar las candidaturas que procedan.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
-6. Los Consejos Electorales Distritales y Municipales comunicarán de inmediato al Consejo Estatal el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión que se refiere el párrafo anterior.
+5. Dentro de los tres días siguientes en que venzan los plazos establecidos en el artículo 188 de esta Ley, los Consejos Estatal y Distritales, celebrarán una sesión cuyo único propósito será registrar las candidaturas que procedan.
 
-7. El Consejo Estatal comunicará de inmediato a los Consejos Electorales Distritales y Municipales, las determinaciones que haya tomado sobre el registro de candidatos por el Principio de Representación Proporcional y de Mayoría Relativa.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
-8. Al concluir la sesión de registro, el Secretario Ejecutivo del Instituto o los Vocales Ejecutivos Distritales y Municipales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas, dando a conocer los nombres del candidato o fórmulas registradas y de aquellos que no cumplieron con los requisitos.
+6. Los Consejos Electorales Distritales comunicarán de inmediato al Consejo Estatal el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+7. El Consejo Estatal comunicará de inmediato a los Consejos Electorales Distritales, las determinaciones que haya tomado sobre el registro de candidatos por el Principio de Representación Proporcional y de Mayoría Relativa.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+8. Al concluir la sesión de registro, el Secretario Ejecutivo del Instituto o los Vocales Ejecutivos Distritales tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas, dando a conocer los nombres del candidato o fórmulas registradas y de aquellos que no cumplieron con los requisitos.
 
 ###### ARTÍCULO 191.
 
@@ -2707,7 +2745,9 @@ V. No podrá colgarse, fijarse o pintarse en los monumentos públicos, ni en el 
 
 2. Los lugares de uso común propiedad de los Ayuntamientos y del Gobierno Estatal, susceptibles de ser utilizados para la colocación y fijación de la propaganda electoral, serán repartidos por sorteo entre los Partidos Políticos y los Candidatos Independientes registrados, conforme al procedimiento acordado en la sesión del Consejo Estatal y Distritales respectivos, que celebren en el mes de enero del año de la elección.
 
-3. Los Consejos Estatal, Distritales y Municipales, dentro de su jurisdicción, harán cumplir la observancia de estas disposiciones y adoptarán las medidas necesarias con el propósito de asegurar a Partidos Políticos, coaliciones, precandidatos y candidatos el pleno ejercicio de sus derechos y garantizar el cumplimiento de sus obligaciones en la materia.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+3. Los Consejos Estatal y Distritales, dentro de su jurisdicción, harán cumplir la observancia de estas disposiciones y adoptarán las medidas necesarias con el propósito de asegurar a Partidos Políticos, coaliciones, precandidatos y candidatos el pleno ejercicio de sus derechos y garantizar el cumplimiento de sus obligaciones en la materia.
 
 4. Las quejas motivadas por la propaganda impresa de los Partidos Políticos y candidatos serán presentadas al Vocal Secretario de la Junta Distrital que corresponda al ámbito territorial en que se presente el hecho que motiva la queja. El mencionado vocal ordenará la verificación de los hechos, integrará el expediente y lo turnará al Secretario del Consejo Estatal para su trámite correspondiente.
 
@@ -2903,7 +2943,9 @@ X. Espacio para candidatos o fórmulas no registradas.
 
 ###### ARTÍCULO 217.
 
-1. No habrá modificación a las boletas en caso de cancelación del registro, o sustitución de uno o más candidato (sic), si éstas ya estuviera (sic) impresas, en todo caso, los votos contarán para los Partidos Políticos, las coaliciones y los candidatos que tuviesen legalmente registrados ante los Consejos Estatal, Distrital o Municipal correspondientes.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. No habrá modificación a las boletas en caso de cancelación del registro, o sustitución de uno o más candidatos, si estas estuvieran impresas, en todo caso, los votos contarán para los Partidos Políticos, las coaliciones y los candidatos legalmente registrados ante los Consejos Estatal o Distrital correspondientes.
 
 ###### ARTÍCULO 218.
 
@@ -2953,7 +2995,9 @@ IX. Los canceles que garanticen que el elector pueda emitir su voto secretamente
 
 3. El líquido indeleble seleccionado deberá garantizar plenamente su eficacia. Los envases que lo contengan deberán contar con elementos que identifiquen el producto.
 
-4. La entrega y recepción del material a que se refieren los párrafos anteriores se hará con la participación de los integrantes de los Consejos Electorales Distritales y Municipales que decidan asistir.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+4. La entrega y recepción del material a que se refieren los párrafos anteriores se hará con la participación de los integrantes de los Consejos Electorales Distritales que decidan asistir.
 
 5. Las actividades a que se refiere este artículo podrán realizarse en forma coordinada, previo acuerdo, con las autoridades distritales correspondientes del Instituto Nacional Electoral, a efecto de optimizar los recursos y agilizar los tiempos de entrega.
 
@@ -3305,7 +3349,9 @@ III. Los escritos de protesta que se hubieren recibido.
 
 1. De las actas de las casillas asentadas en la forma o formas que para tal efecto apruebe el Consejo Estatal, se entregará una copia legible a los representantes de los Partidos Políticos y de Candidatos Independientes, recabándose el acuse de recibo correspondiente. La primera copia de cada acta de escrutinio y cómputo será destinada al programa de resultados preliminares.
 
-2. Por fuera del paquete a que se refiere el párrafo 4 del artículo anterior, se adherirá un sobre que contenga un ejemplar del acta en que se contengan los resultados del escrutinio y cómputo de cada una de las elecciones, para su entrega al Presidente del Consejo Distrital y Municipal en su caso.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+2. Por fuera del paquete a que se refiere el párrafo 4 del artículo anterior, se adherirá un sobre que contenga un ejemplar del acta en que se contengan los resultados del escrutinio y cómputo de cada una de las elecciones, para su entrega al Presidente del Consejo Distrital.
 
 ###### ARTÍCULO 247.
 
@@ -3319,7 +3365,9 @@ III. Los escritos de protesta que se hubieren recibido.
 
 ###### ARTÍCULO 249.
 
-1. Una vez clausuradas las casillas, los Presidentes de las mismas, bajo su responsabilidad, harán llegar al Consejo Electoral Distrital, y en su caso, también al Municipal que corresponda, los paquetes y los expedientes de casilla dentro de los plazos siguientes, contados a partir de la hora de clausura:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Una vez clausuradas las casillas, los Presidentes de las mismas, bajo su responsabilidad, harán llegar al Consejo Electoral Distrital que corresponda, los paquetes y los expedientes de casilla dentro de los plazos siguientes, contados a partir de la hora de clausura:
 
 I. Inmediatamente después de la clausura, cuando se trate de casillas ubicadas en cabecera municipal, y
 
@@ -3331,9 +3379,13 @@ II. Hasta 12 horas cuando se trate de casillas ubicadas fuera de la cabecera mun
 
 4. Los Consejos acordarán que se establezca un mecanismo para la recolección de la documentación de las casillas cuando fuere necesaria en los términos de esta Ley, incluyendo el establecimiento de centros de acopio, siempre y cuando se garantice la seguridad de la documentación electoral y del personal auxiliar y los funcionarios de casilla. Lo anterior se realizará bajo la vigilancia de los Partidos Políticos y Candidatos Independientes que así desearen hacerlo.
 
-5. Se considerará causa justificada, para que los paquetes con los expedientes de casilla sean entregados al Consejo Electoral Distrital o Municipal, fuera de los plazos establecidos, cuando medie caso fortuito o fuerza mayor.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
-6. El Consejo Electoral Distrital o Municipal hará constar en el acta circunstanciada de recepción de los paquetes a que se refiere el artículo 254 de esta Ley, las causas que se indiquen para el retraso en la entrega de los paquetes.
+5. Se considerará causa justificada, para que los paquetes con los expedientes de casilla sean entregados al Consejo Electoral Distrital fuera de los plazos establecidos, cuando medie caso fortuito o fuerza mayor.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+6. El Consejo Electoral Distrital hará constar en el acta circunstanciada de recepción de los paquetes a que se refiere el artículo 254 de esta Ley, las causas que se indiquen para el retraso en la entrega de los paquetes.
 
 ###### ARTÍCULO 250.
 
@@ -3407,9 +3459,13 @@ VIII. Presentar solicitud conforme a la convocatoria que se expida, acompañando
 
 I. Se recibirán en el orden en que sean entregados por las personas facultadas para ello;
 
-II. El Presidente o el funcionario autorizado por el Consejo Electoral Distrital o Municipal extenderá el recibo señalando la hora en que fueron entregados;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-III. El Presidente del Consejo Electoral Distrital o Municipal ordenará su depósito en orden numérico de casillas, colocando por separado los de las especiales, en un lugar dentro del local que reúna las condiciones de seguridad, desde el momento de su recepción hasta el día en que se practique al cómputo Distrital o municipal, según el caso de que se trate, y
+II. El Presidente o el funcionario autorizado por el Consejo Electoral Distrital extenderá el recibo señalando la hora en que fueron entregados;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+III. El Presidente del Consejo Electoral Distrital ordenará su depósito en orden numérico de casillas, colocando por separado los de las especiales, en un lugar dentro del local que reúna las condiciones de seguridad, desde el momento de su recepción hasta el día en que se practique el cómputo Distrital y municipal, y
 
 IV. El propio Presidente del Consejo bajo su responsabilidad, los salvaguardará y al efecto dispondrá que se sellen las puertas de acceso al lugar en que fueran depositados, en presencia de los representantes de los Partidos Políticos.
 
@@ -3419,7 +3475,9 @@ IV. El propio Presidente del Consejo bajo su responsabilidad, los salvaguardará
 
 ###### ARTÍCULO 255.
 
-1. Los Consejos Electorales Distritales o Municipales, en su caso, harán las sumas de las actas de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo, misma que deberá encontrarse de manera visible en el exterior de la caja del paquete electoral, hasta el vencimiento del plazo legal para la entrega de los paquetes de los expedientes electorales conforme a las siguientes reglas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Los Consejos Electorales Distritales harán las sumas de las actas de escrutinio y cómputo de las casillas conforme estas se vayan recibiendo, misma que deberá encontrarse de manera visible en el exterior de la caja del paquete electoral, hasta el vencimiento del plazo legal para la entrega de los paquetes de los expedientes electorales conforme a las siguientes reglas:
 
 I. El Consejo respectivo autorizará al personal necesario para la recepción continua y simultánea de los paquetes electorales. Los Partidos Políticos y Candidatos Independientes podrán acreditar a sus representantes para que estén presentes durante dicha recepción;
 
@@ -3431,7 +3489,9 @@ IV. Los representantes de los Partidos Políticos y Candidatos Independientes, a
 
 ###### ARTÍCULO 256.
 
-1. Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refiere el artículo 249, el Presidente deberá fijar en el exterior del local donde esté instalado el Consejo Electoral Distrital o Municipal, los resultados preliminares de las elecciones.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refiere el artículo 249, el Presidente deberá fijar en el exterior del local donde esté instalado el Consejo Electoral Distrital, los resultados preliminares de las elecciones.
 
 ### CAPÍTULO TERCERO. DE LOS CÓMPUTOS DISTRITALES Y MUNICIPALES
 
@@ -3443,9 +3503,17 @@ IV. Los representantes de los Partidos Políticos y Candidatos Independientes, a
 
 1. Los Consejos Electorales Distritales celebrarán sesión a partir de las 8:00 horas del miércoles siguiente al día de la jornada electoral para hacer el cómputo de cada una de las elecciones, en el orden siguiente:
 
-I. El de la votación de Gobernador del Estado en su caso; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-II. El de la votación de Diputados.
+I. El de la votación de Gobernador del Estado en su caso;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+II. El de la votación de Diputados; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+III. El de la votación de Presidentes Municipales y Regidores.
 
 2. Cada uno de los cómputos a que se refiere el presente artículo se realizará sucesiva e ininterrumpidamente hasta su conclusión.
 
@@ -3453,19 +3521,31 @@ II. El de la votación de Diputados.
 
 4. Los Consejos Electorales Distritales deberán contar con los recursos humanos, materiales, técnicos y financieros necesarios para la realización de los cómputos en forma permanente.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+5. Los Consejos Electorales Distritales podrán instalar mesas auxiliares para los cómputos de las elecciones de Diputados y Regidores.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+6. Las mesas auxiliares son órganos temporales para el desarrollo de los cómputos de las elecciones de Gobernador del Estado, Diputados y Regidores.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+7. El procedimiento de conformación de las mesas auxiliares será determinado conforme a los lineamientos que para tal efecto emita el Consejo Estatal.
+
 ###### ARTÍCULO 259.
 
-1. El cómputo municipal de una elección es la suma que realiza el Consejo Electoral Municipal, de los resultados anotados en las actas de escrutinio y cómputo del total de las casillas en un Municipio.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. El cómputo municipal de una elección es la suma que realiza el Consejo Electoral Distrital, de los resultados anotados en las actas de escrutinio y cómputo del total de las casillas en un Municipio.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+2. En aquellos municipios que se integren por dos o más distritos, el Consejo Estatal podrá designar de entre estos, al Consejo Electoral Distrital que fungirá como cabecera de municipio, el cual será el responsable del cómputo final que corresponda a la demarcación territorial del municipio.
 
 ###### ARTÍCULO 260.
 
-1. Los Consejos Electorales Municipales celebrarán sesión a partir de las 8:00 horas del miércoles siguiente al día de la jornada electoral para hacer el cómputo de la elección para Regidores de Mayoría Relativa y de Representación Proporcional.
-
-2. El cómputo se realizará sucesiva e ininterrumpidamente hasta su conclusión.
-
-3. Los Consejos Electorales Municipales, en sesión previa a la jornada electoral, podrán acordar que el Presidente y el Secretario del mismo puedan ser sustituidos por el Vocal de Organización Electoral y Educación Cívica y que los Consejeros Electorales y representantes de los Partidos Políticos y Candidatos Independientes acrediten en sus ausencias a sus suplentes para que participen, de manera que se pueda sesionar permanentemente.
-
-4. Los Consejos Electorales deberán contar con los recursos humanos, materiales, técnicos y financieros necesarios para la realización de los cómputos permanentes.
+(DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
 ### CAPÍTULO CUARTO. DEL PROCEDIMIENTO PARA EL CÓMPUTO DE LA ELECCIÓN DE GOBERNADOR
 
@@ -3515,7 +3595,9 @@ IX. Se harán constar en un acta circunstanciada de la sesión los resultados de
 
 7. Los errores contenidos en las actas originales de escrutinio y cómputo de casilla que sean corregidos por los Consejos Distritales siguiendo el procedimiento establecido en este artículo, no podrán invocarse como causa de nulidad ante el Tribunal Electoral.
 
-8. En ningún caso podrá solicitarse al Tribunal Electoral que realice recuento de votos respecto de las casillas que hayan sido objeto de dicho procedimiento en los Consejos Distritales y Municipales en su caso.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+8. En ningún caso podrá solicitarse al Tribunal Electoral que realice recuento de votos respecto de las casillas que hayan sido objeto de dicho procedimiento en los Consejos Distritales.
 
 ### CAPÍTULO QUINTO. DEL PROCEDIMIENTO PARA EL CÓMPUTO DE LA ELECCIÓN DE DIPUTADOS
 
@@ -3547,7 +3629,9 @@ VIII. Los Presidentes de los Consejos Electorales Distritales fijarán en el ext
 
 ###### ARTÍCULO 265.
 
-1. El Consejo Electoral Municipal, realizará el cómputo de la votación de Presidentes Municipales y Regidores, el cual estará sujeto al procedimiento siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2020)</small>
+
+1. El Consejo Electoral Distrital, realizará el cómputo de la votación de Presidentes Municipales y Regidores, el cual estará sujeto al procedimiento siguiente:
 
 I. Se harán las operaciones señaladas en las fracciones I, II, III, IV, V y VII del artículo 261; en lo procedente, es aplicable el artículo 262;
 
@@ -3559,11 +3643,15 @@ IV. Se harán constar en el acta circunstanciada de la sesión los resultados de
 
 V. Se remitirá al Secretario Ejecutivo para que informe al Consejo Estatal, el expediente del cómputo que contiene las actas originales y copias certificadas y demás documentos de la elección de Regidores por el Principio de Representación Proporcional, y
 
-VI. Los Presidentes de los Consejos Electorales Municipales fijarán en el exterior de sus locales, al término de la sesión de cómputo los resultados de cada una de las elecciones.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VI. Los Presidentes de los Consejos Electorales Distritales fijarán en el exterior de sus locales, al término de la sesión de cómputo los resultados de cada una de las elecciones.
 
 ###### ARTÍCULO 266.
 
-1. Concluido el cómputo y emitida la declaración de validez para la elección de Presidentes Municipales y Regidores, el Presidente del Consejo Electoral Municipal expedirá la constancia de mayoría y validez a quienes hubiesen obtenido el triunfo, salvo el caso en que los integrantes fueren inelegibles.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Concluido el cómputo y emitida la declaración de validez para la elección de Presidentes Municipales y Regidores, el Presidente del Consejo Electoral Distrital expedirá la constancia de mayoría y validez a quienes hubiesen obtenido el triunfo, salvo el caso en que los integrantes fueren inelegibles.
 
 ### CAPÍTULO SÉPTIMO. DE LOS PROCEDIMIENTOS PARA EL COMPUTO ESTATAL DE LAS ELECCIONES DE GOBERNADOR Y DE DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL
 
@@ -3663,7 +3751,9 @@ II. Resguardar en el Consejo Estatal las actas originales y copias certificadas,
 
 ###### ARTÍCULO 279.
 
-1. Los Presidentes de los Consejos Electorales Distritales y Municipales conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos distritales y municipales. Concluido el proceso electoral, remitirán al Secretario Ejecutivo del Instituto Estatal la totalidad de la documentación y material electoral utilizado y sobrantes, para ser depositados en lugar seguro. El Consejo Estatal determinará el procedimiento para su destrucción.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Los Presidentes de los Consejos Electorales Distritales conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos distritales y municipales. Concluido el proceso electoral, remitirán al Secretario Ejecutivo del Instituto Estatal la totalidad de la documentación y material electoral utilizado y sobrantes, para ser depositados en lugar seguro. El Consejo Estatal determinará el procedimiento para su destrucción.
 
 # LIBRO SÉPTIMO. DE LAS CANDIDATURAS INDEPENDIENTES
 
@@ -3967,11 +4057,17 @@ VIII. En el caso que una misma persona haya presentado manifestación en favor d
 
 ###### ARTÍCULO 304.
 
-1. Dentro de los tres días siguientes al en que venzan los plazos establecidos, los Consejos estatal, distritales y municipales, deberán celebrar la sesión de registro de candidaturas, en los términos de la presente Ley.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Dentro de los tres días siguientes al que venzan los plazos establecidos, los Consejos estatal y distritales, deberán celebrar la sesión de registro de candidaturas, en los términos de la presente Ley.
 
 ###### ARTÍCULO 305.
 
-1. El Secretario del Consejo Estatal y los presidentes de los consejos distritales y municipales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas independientes, dando a conocer los nombres de los candidatos o fórmulas registradas y de aquellos que no cumplieron con los requisitos.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+1. El Secretario del Consejo Estatal y los presidentes de los consejos distritales tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas independientes, dando a conocer los nombres de los candidatos o fórmulas registradas y de aq (sic)
+
+uellos que no cumplieron con los requisitos.
 
 ###### ARTÍCULO 306.
 
@@ -4047,15 +4143,21 @@ XVI. Las demás que establezcan esta Ley y los demás ordenamientos.
 
 ###### ARTÍCULO 310.
 
-1. Los Candidatos Independientes, de conformidad con lo previsto por los reglamentos de sesiones de los Consejos estatal, distritales y municipales, aprobados por el Consejo Estatal, podrán designar representantes ante los órganos del Instituto, en los términos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2020)</small>
+
+1. Los Candidatos Independientes, de conformidad con lo previsto por los reglamentos de sesiones de los Consejos estatal y distritales, aprobados por el Consejo Estatal, podrán designar representantes ante los órganos del Instituto, en los términos siguientes:
 
 I. Los Candidatos Independientes a Gobernador, ante el Consejo Estatal y la totalidad de los consejos distritales;
 
 II. Los Candidatos Independientes a diputados, ante el Consejo del distrito por el cual se postulen, y
 
-III. Las planillas de Candidatos Independientes a regidores, ante el Consejo Municipal que les corresponda.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-2. La acreditación de representantes ante los órganos central, distritales y municipales se realizará dentro de los treinta días posteriores al de la aprobación de su registro como Candidato Independiente.
+III. Las planillas de Candidatos Independientes a regidores, ante el Consejo Distrital que les corresponda.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+2. La acreditación de representantes ante los órganos central y distritales se realizará dentro de los treinta días posteriores al de la aprobación de su registro como Candidato Independiente.
 
 3. Si la designación no se realiza en el plazo previsto en el párrafo anterior perderá este derecho.
 
@@ -4477,7 +4579,9 @@ II. Comisión de Denuncias y Quejas, y
 
 III. La Secretaría Ejecutiva.
 
-2. Los Consejos y las Juntas Ejecutivas, Municipales y Distritales, en sus respectivos ámbitos de competencia, fungirán como órganos auxiliares, para la tramitación y sustanciación de los procedimientos sancionadores, salvo lo establecido en el artículo 365 de esta Ley.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+2. Los Consejos y las Juntas Ejecutivas Distritales, en sus respectivos ámbitos de competencia, fungirán como órganos auxiliares, para la tramitación y sustanciación de los procedimientos sancionadores, salvo lo establecido en el artículo 365 de esta Ley.
 
 3. La Comisión mencionada en la fracción II del párrafo primero se integrará por tres Consejeros Electorales, quienes serán designados para un periodo de tres años, por el Consejo Estatal; y los Representantes de los Partidos Políticos que lo soliciten. Sus sesiones y procedimientos serán determinados en el reglamento que al efecto apruebe el propio Consejo Estatal.
 
@@ -5128,3 +5232,11 @@ SEGUNDO.- Los síndicos de hacienda y demás regidores electos por los principio
 TERCERO.- Para los efectos del proceso electoral 2021-2024, las planillas de regidores se ajustarán a lo establecido en el presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 202 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 104 NUMERAL 1 FRACCIONES I Y II; 114 NUMERAL 1; 115 NUMERAL 1 FRACCIONES II Y VI, Y NUMERAL 4; 117 NUMERAL 2 FRACCIONES VIII, XII, XX, XXII Y XXIII; 119 NUMERAL 1 FRACCIONES VI Y XI; 121 NUMERAL 1 FRACCIONES X Y XIII; 126 NUMERAL 1 FRACCIÓN VI; 127 NUMERALES 1 Y 4; 130 NUMERAL 1 FRACCIÓN III; 131 NUMERAL 1 FRACCIONES II, VI, VII, VIII, IX, X, XI Y XII; 145 NUMERAL 1; 146 NUMERAL 1; 147 NUMERAL 2; 152 NUMERAL 1; 153 NUMERAL 1; 154 NUMERAL 2; 155 NUMERAL 1; 165 NUMERALES 5 Y 6; 188 NUMERAL 1 FRACCIÓN I INCISOS A) Y B), Y FRACCIÓN II INCISOS A) Y B); 190 NUMERALES 5, 6, 7 Y 8; 201 NUMERAL 3; 217 NUMERAL 1; 219 NUMERAL 4; 246 NUMERAL 2; 249 NUMERALES 1, 5 Y 6; 254 NUMERAL 1 FRACCIONES II Y III; 255 NUMERAL 1; 256 NUMERAL 1; 258 NUMERAL 1 FRACCIÓN I Y II; 259 NUMERAL 1; 262 NUMERAL 8; 265 NUMERAL 1 Y SU FRACCIÓN VI; 266 NUMERAL 1; 279 NUMERAL 1; 304 NUMERAL 1; 305 NUMERAL 1; 310 NUMERAL 1 Y SU FRACCIÓN III Y NUMERAL 2; 350 NUMERAL 2; SE ADICIONAN LOS ARTÍCULOS 129 NUMERAL 2 RECORRIÉNDOSE LOS NUMERALES SUBSECUENTES; 130 NUMERAL 1 FRACCIONES VI Y VII RECORRIÉNDOSE LAS FRACCIONES SUBSECUENTES; 131 NUMERAL 1 FRACCIONES XIII Y XIV; 258 NUMERAL 1 FRACCIÓN III, Y LOS NUMERALES 5, 6 Y 7; 259 NUMERAL 2; SE DEROGAN LOS ARTÍCULOS 2 NUMERAL 1 FRACCIÓN VII; 104 NUMERAL 1 FRACCIÓN III; EL TITULO CUARTO DENOMINADO DE LOS ÓRGANOS MUNICIPALES DEL INSTITUTO ESTATAL INTEGRADO POR LOS ARTÍCULOS 133, 134, 135, 136, 137, 138, 139, 140, 141 Y 142; 188 NUMERAL 1 FRACCIÓN I INCISO C) Y FRACCIÓN II INCISO C); Y 260; TODOS DE LA LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
