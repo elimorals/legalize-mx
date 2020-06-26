@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-impulso-emprendedor-del-estado-de-coahuila-de-10481
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2020-01-31"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, al martes 30 de diciembre de 2014.
 
@@ -191,7 +191,9 @@ II. Un Vicepresidente, que será designado por el propio Consejo General Ciudada
 
 III. El o la titular de la Dirección General para la Micro, Pequeña y Mediana Empresa de la Secretaría de Economía y Turismo, quien fungirá como Secretario Ejecutivo del Consejo;
 
-IV. Por la Administración Pública Estatal, los titulares de las siguientes Secretarías y directores generales o equivalentes de organismos públicos descentralizados de participación ciudadana:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2020)</small>
+
+IV. Por la Administración Pública Estatal, los titulares de las siguientes Secretarías y directores generales o equivalentes de organismos públicos:
 
 a) Secretaría de Finanzas;
 
@@ -204,6 +206,10 @@ c) Secretaría del Trabajo;
 d) Secretaría de Educación; y
 
 e) Consejo Estatal de Ciencia y Tecnología.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+f) Instituto Coahuilense de las Mujeres
 
 V. Por el sector no gubernamental, 5 representantes de organizaciones empresariales, académicas y/o sociales, invitados por el Titular del Ejecutivo del Estado, buscando mantener representatividad de las diferentes regiones del Estado.
 
@@ -251,11 +257,15 @@ Las atribuciones del Consejo General Ciudadano son las siguientes:
 
 I. Diseñar, aprobar y actualizar cada tres años el Programa Estratégico;
 
-II. Definir y establecer en el Programa Estratégico las áreas prioritarias y los proyectos estratégicos para el desarrollo económico y social del Estado;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+II. Definir y establecer en el Programa Estratégico las áreas prioritarias y los proyectos estratégicos para el desarrollo económico y social del Estado, que en todo momento estarán diseñados y proyectados con enfoque de género, garantizando así que los términos del documento favorezcan la cultura de igualdad;
 
 III. Proponer al Congreso del Estado o al titular del Ejecutivo Estatal, según corresponda, las reformas legales o administrativas necesarias para reducir o eliminar las barreras regulatorias, presupuestales, administrativas y financieras que obstaculicen el desarrollo económico y social de la entidad, la cultura emprendedora y el desarrollo de emprendedores innovadores;
 
-IV. Proponer, evaluar y sancionar la eficacia de los apoyos, incentivos y facilidades administrativas que se otorguen las diversas entidades de apoyo para realizar las actividades y proyectos previstos en esta Ley y en el Programa Estratégico, así como los impactos de éstas en la productividad, la competitividad y el desarrollo económico y social del Estado;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+IV. Proponer, evaluar y sancionar la eficacia de los apoyos, incentivos y facilidades administrativas que se otorguen las diversas entidades de apoyo para realizar las actividades y proyectos previstos en esta Ley y en el Programa Estratégico, así como los impactos de éstas en la productividad, la competitividad, la igualdad sustantiva y el desarrollo económico y social del Estado;
 
 V. Proponer al Congreso del Estado y al Titular del Ejecutivo Estatal el establecimiento de estímulos fiscales para incentivar actividades y acciones relacionadas con la generación y utilización productiva de conocimiento e innovaciones tecnológicas, en el marco del Programa Estratégico;
 
@@ -269,9 +279,13 @@ IX. Proponer al Secretario Ejecutivo la invitación de personas que puedan aport
 
 X. Designar al Vicepresidente del Consejo General Ciudadano de entre los integrantes de los sectores no gubernamentales;
 
-XI. Expedir sus reglas de organización y funcionamiento, cuyo proyecto formulará y presentará el Secretario Ejecutivo, en las que se establecerá entre otros aspectos, su organización interior, formas de representatividad por sectores y las disposiciones necesarias para su óptima operación y funcionamiento, mismas que serán publicadas en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-XII. Aprobar las reglas de organización y funcionamiento del comité financiero, que formulen sus integrantes, mismas que serán publicadas en el Periódico Oficial del Estado;
+XI. Expedir sus reglas de organización y funcionamiento, cuyo proyecto formulará y presentará el Secretario Ejecutivo, en las que se establecerá entre otros aspectos, su organización interior, formas de representatividad por sectores y género y las disposiciones necesarias para su óptima operación y funcionamiento, mismas que serán publicadas en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XII. Aprobar las reglas de organización y funcionamiento del comité financiero, que formulen sus integrantes, mismas que serán publicadas en el Periódico Oficial del Estado, respetando siempre criterios de género para lograr que el Programa correspondiente garantice un impacto favorable en materia de igualdad sustantiva;
 
 XIII. Proponer acciones para impulsar la adecuada protección y explotación de la propiedad intelectual y estimular la transferencia de tecnologías por centros de innovación, centros de investigación, universidades, instituciones de educación superior, empresas del conocimiento, empresas en general y demás personas que produzcan investigaciones, desarrollos e innovaciones tecnológicas; : (sic) y
 
@@ -289,9 +303,11 @@ Las resoluciones del Consejo General Ciudadano se tomarán por mayoría de los m
 
 El Consejo General Ciudadano podrá crear comités especiales que considere necesarios para atender los asuntos que el mismo Consejo determine relacionados con el ejercicio de sus atribuciones. Estos comités serán coordinados por el Secretario Ejecutivo y en ellos podrán participar miembros de la comunidad científica, tecnológica y de los sectores social y privado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### Artículo 13.
 
-Se crea un Comité Financiero integrado por los representantes de la Secretaría de Finanzas, quien fungirá como coordinador, de Desarrollo Económico y Competitividad y de la Secretaría de Educación, con la finalidad de:
+Se crea un Comité Financiero integrado por los representantes de la Secretaría de Finanzas, quien fungirá como coordinador, de Desarrollo Económico y Competitividad, del Instituto Coahuilense de las Mujeres y de la Secretaría de Educación, con la finalidad de:
 
 I. Analizar el gasto público para la realización del Programa Estratégico;
 
@@ -335,9 +351,11 @@ VII. Realizar las demás actividades que le encomiende el Consejo General Ciudad
 
 ### CAPÍTULO III. DEL PROGRAMA ESTRATÉGICO PARA EL FOMENTO DE LA CULTURA EMPRENDEDORA Y EL IMPULSO A EMPRENDEDORES
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### Artículo 16.
 
-El Programa Estratégico será formulado, aprobado, revisado, actualizado y evaluado por el Consejo General Ciudadano, en los términos de esta Ley y deberá considerar dentro de su alcance aspectos académicos, tecnológicos, de financiamiento, entidades de apoyo a emprendedores y a empresas de reciente creación.
+El Programa Estratégico será formulado, aprobado, revisado, actualizado y evaluado por el Consejo General Ciudadano, en los términos de esta Ley y deberá considerar dentro de su alcance aspectos académicos, tecnológicos, de financiamiento, bajo un enfoque de género que garantice la igualdad sustantiva en el acceso a éste, para entidades de apoyo a emprendedores y a empresas de reciente creación.
 
 ###### Artículo 17.
 
@@ -351,7 +369,9 @@ Así mismo, las dependencias y entidades de la Administración Pública Estatal 
 
 El Programa Estratégico contendrá, entre otros, los siguientes aspectos:
 
-I. Los lineamientos que orienten la política estatal del desarrollo del Estado con base en la innovación, el aprovechamiento del conocimiento y la tecnología a través del fomento a la cultura emprendedora, impulso integral a los emprendedores y desarrollo de empresas de reciente creación;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+I. Los lineamientos que orienten la política estatal del desarrollo del Estado con base en la innovación, el aprovechamiento del conocimiento y la tecnología a través del fomento a la cultura emprendedora, impulso integral a los emprendedores y desarrollo de empresas de reciente creación, diseñados y proyectados con enfoque de género, garantizando un resultado favorecedor de la igualdad sustantiva;
 
 II. Los sectores productivos prioritarios para el desarrollo de nuevas empresas, que serán de manera enunciativa y no limitativa, los siguientes:
 
@@ -531,9 +551,11 @@ II. Otros fondos que constituyan el Gobierno del Estado con dependencias y entid
 
 Los fondos de participación extranjera a que se refiere la última fracción de este artículo serán constituidos en términos la Ley de Inversión Extranjera.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### Artículo 24.
 
-Para lograr los objetivos y fines de esta Ley, se contara con la partida que sea designada para tal fin dentro del presupuesto asignado por el Estado. Estos recursos se aplicarán a la realización de los proyectos contenidos en el Programa Estratégico y a través de los fondos a que se refiere el artículo anterior.
+Para lograr los objetivos y fines de esta Ley, se contará con la partida que sea designada para tal fin dentro del presupuesto asignado por el Estado. Estos recursos se aplicarán a la realización de los proyectos contenidos en el Programa Estratégico, asignándose en proporción igualitaria a proyectos presentados por mujeres que, por hombres, y a través de los fondos a que se refiere el artículo anterior.
 
 #### SECCIÓN SEGUNDA. DEL FONDO ESTATAL PARA FOMENTAR LA CULTURA EMPRENDEDORA E IMPULSAR A LOS EMPRENDEDORES
 
@@ -726,3 +748,9 @@ P.O. 31 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 489.- SE AGREGA LA FRACCIÓN XIV AL ARTÍCULO 2, SE AGREGA LA FRACCIÓN VI AL ARTÍCULO 8 Y SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 11 DE LA LEY PARA EL IMPULSO EMPRENDEDOR DE (SIC) ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 611.- SE ADICIONA EL INCISO F) A LA FRACCIÓN IV DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 8, ASÍ COMO UNA REFORMA A LAS FRACCIONES II, IV, XI Y XII DEL ARTÍCULO 10, AL PRIMER PÁRRAFO DEL ARTÍCULO 13, AL 16, A LA FRACCIÓN I DEL ARTÍCULO 18, Y AL ARTÍCULO 24, TODOS DE LA LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
