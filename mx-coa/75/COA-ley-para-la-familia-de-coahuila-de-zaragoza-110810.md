@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2020-01-31"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -49,9 +49,11 @@ LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
 Disposiciones Generales.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público e interés social, tiene por objeto proteger la organización y el desarrollo de la familia, así como establecer los mecanismos a través de los cuales se garantizan los derechos de las personas que la integren, para hacerlos efectivos y reales.
+La presente ley es de orden público e interés social, tiene por objeto proteger las diversas formas de organización familiar existentes en la sociedad, así como establecer los mecanismos a través de los cuales se garantizan los derechos de las personas que la integren, para hacerlos efectivos y reales.
 
 ###### Artículo 2.
 
@@ -959,15 +961,21 @@ Cualquier persona que tenga interés legítimo o, en su caso, el Ministerio Púb
 
 Del matrimonio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### Artículo 139.
 
-El matrimonio es la unión de dos personas que consienten en realizar una comunidad de vida basada en el afecto, respeto, igualdad de trato y ayuda mutua, y toman de manera libre, responsable, voluntaria e informada, las decisiones reproductivas que se ajustan a su proyecto de vida, incluida la posibilidad de procrear o adoptar.
+El matrimonio es la unión de dos personas que consienten en realizar una comunidad de vida basada en el afecto, respeto, igualdad de trato y ayuda mutua, y toman de manera libre, responsable, voluntaria e informada, las decisiones reproductivas que se ajustan a su proyecto de vida, incluida la posibilidad de procrear o adoptar; los cónyuges deberán gozar de la protección debida para garantizar el libre desarrollo de la personalidad.
 
 El matrimonio debe celebrarse ante el o la oficial del Registro Civil y con las formalidades que la ley exige.
 
 Todo acuerdo de esponsales, cualquiera que sea el nombre que se le dé, no producirá efecto legal alguno.
 
 Para disolver el matrimonio, será suficiente la voluntad de uno de los cónyuges, sometiéndose al procedimiento judicial establecido para ello.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+El Estado protegerá la institución del matrimonio sin demérito del reconocimiento de otras formas de familias, y proveerá lo necesario para el desarrollo integral de sus componentes.
 
 ###### Artículo 140.
 
@@ -1032,6 +1040,10 @@ VIII. La impotencia incurable para la cópula, o cualquiera otra enfermedad o co
 IX. Padecer alguna deficiencia en las funciones o estructuras corporales de tal grado que impida que el supuesto contrayente pueda tomar decisiones por sí mismo.
 
 X. El matrimonio o pacto civil de solidaridad subsistente con persona distinta de aquélla con quien se pretende contraer.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XI. Cuando se compruebe que se le ha obligado a uno o ambos contrayentes a contraer matrimonio mediante un intercambio de tipo material o económico.
 
 De estos impedimentos sólo es dispensable el parentesco por consanguinidad en línea colateral desigual. La dispensa será otorgada por la autoridad judicial competente. Para las excepciones establecidas en las fracciones VI, VII y VIII no será necesaria la dispensa pero el o la oficial del Registro Civil, deberá dejar constancia de que los contrayentes conocían tales impedimentos.
 
@@ -2203,7 +2215,9 @@ IV. Órgano jurisdiccional o administrativo que ordenó el registro.
 
 V. Datos del expediente, causa jurisdiccional o convenio de mediación o conciliación del que deriva su inscripción.
 
-La constancia a que hace referencia este artículo, deberá ser expedida en un plazo máximo de tres días hábiles contados a partir de la fecha de solicitud respectiva.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+Las constancias a que hace referencia este artículo no podrán ser denegadas y deberán expedirse en un plazo máximo de tres días hábiles contados a partir de la fecha de solicitud respectiva y deberán entregarse a cualquier persona que las solicite, acredite o no interés.
 
 ###### Artículo 312.
 
@@ -3981,15 +3995,35 @@ Todas las acciones por hechos relativos a la administración de la tutela que el
 
 Si la tutela hubiere fenecido durante la menor edad del tutelado, podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad; y tratándose de la tutela de mayores de edad, los términos se computarán desde que cese la causa que dio origen a la tutela.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE JUNIO DE 2020)</small>
 
-Constitución y efectos jurídicos del Patrimonio de Familia.
+### CAPÍTULO DÉCIMO TERCERO
+
+De las Obligaciones de Crianza.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+###### Artículo 598 Bis.
+
+Quienes desempeñan la patria potestad, tutela o la guarda y custodia de una niña o niño, independientemente de que habiten o no en el mismo domicilio, deben dar cumplimiento a las siguientes obligaciones de crianza:
+
+I. Asegurar la integridad física, psicológica y sexual de la niña o niño.
+
+II. Formar hábitos adecuados de alimentación, de higiene personal y de desarrollo físico.
+
+III. Impulsar habilidades de desarrollo intelectual y escolar.
+
+IV. Desarrollar vínculos afectivos con la niña o niño.
+
+V. Establecer límites y normas de conducta atendiendo al interés superior de la niña o niño.
+
+Se considerará incumplimiento de las obligaciones de crianza, el que sin justificación y de manera permanente y sistemática, no realicen las actividades señaladas, lo que el juez valorará en los casos de suspensión de la patria potestad, de la determinación de la tutela, guarda y custodia provisional y definitiva, así como del régimen de convivencia.
 
 ## TÍTULO DÉCIMO. DEL PATRIMONIO DE LA FAMILIA
 
 ### CAPÍTULO ÚNICO
 
-Integración y obligaciones de los Consejos de Familia.
+Constitución y efectos jurídicos del Patrimonio de Familia.
 
 ###### Artículo 599.
 
@@ -4249,9 +4283,9 @@ Cuando exista oposición del Ministerio Público o de la Procuraduría para Niñ
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS CONSEJOS DE FAMILIA
 
-### CAPÍTULO PRIMERO. Disposiciones Generales
+### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+Integración y obligaciones de los Consejos de Familia.
 
 ###### Artículo 641.
 
@@ -4305,7 +4339,7 @@ Cuando un cónyuge abandone a otro y a sus hijas o hijos sin recursos económico
 
 > <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MAYO DE 2016)</small>
 
-### CAPÍTULO SEGUNDO. De Las Ordenes De Protección En Caso De Violencia Familiar
+### CAPÍTULO PRIMERO. Disposiciones Generales
 
 > <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
 
@@ -4362,6 +4396,10 @@ Los integrantes de la familia que incurran en violencia familiar, deberán repar
 En todas las controversias derivadas de violencia familiar, el Juez dictará órdenes de protección que sean necesarias para salvaguardar la integridad de las personas afectadas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MAYO DE 2016)</small>
+
+### CAPÍTULO SEGUNDO. De Las Ordenes De Protección En Caso De Violencia Familiar
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### Artículo 651.
 
@@ -4588,3 +4626,9 @@ P.O. 31 DE ENERO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 609.- SE REFORMA EL ARTÍCULO 1, EL PÁRRAFO PRIMERO DEL ARTÍCULO 139, EL PÁRRAFO TERCERO DEL ARTÍCULO 311; Y SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 139, LA FRACCIÓN XI AL PÁRRAFO PRIMERO DEL ARTÍCULO 143, Y UN CAPÍTULO DÉCIMO TERCERO, DENOMINADO "DE LAS OBLIGACIONES DE CRIANZA", AL TÍTULO NOVENO, CON EL ARTÍCULO 598 BIS, DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
