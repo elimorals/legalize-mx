@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prevencion-asistencia-y-atencion-de-la-violencia-26721"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2020-01-31"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de octubre de 2002.
 
@@ -75,13 +75,15 @@ La participación jurídica del Estado en la familia tendrá por propósito gara
 
 La atención especializada que se proporcione en materia de violencia familiar por cualquier institución, ya sea pública o privada, no contará entre sus criterios con patrones estereotipados de comportamiento, ni prácticas sociales y culturales basadas en conceptos discriminatorios o de subordinación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### Artículo 6.
 
-La aplicación de esta Ley en el ámbito de sus respectivas competencias:
+Las funciones de atención, prevención, erradicación y sanción, se realizarán en los ámbitos de su competencia, por las instituciones siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2020)</small>
 
-I. Al Poder Ejecutivo a través de:
+I. El Poder Ejecutivo a través de:
 
 a) La Secretaría de Gobierno.
 
@@ -93,21 +95,25 @@ c) La Secretaría de Salud.
 
 d) La Secretaría de Inclusión y Desarrollo Social.
 
-e) (DEROGADO, P.O. 12 DE MAYO DE 2009)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+e) La Secretaría de Seguridad Pública.
 
-f) La Fiscalía General del Estado.
+f) (DEROGADO, P.O. 26 DE JUNIO DE 2020)
 
 g) El Sistema para el Desarrollo Integral de la Familia.
 
-h) La Procuraduría de la Familia.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+h) La Procuraduría para Niños, Niñas y la Familia.
 
 i) El Instituto Coahuilense de las Mujeres.
 
 II. Al Congreso del Estado a través de la Comisión de Equidad y Género.
 
-III. Al Poder Judicial a través de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2020)</small>
+
+III. El Poder Judicial a través de:
 
 a) El Pleno.
 
@@ -117,7 +123,21 @@ c) Los Tribunales Unitarios.
 
 d) Los Jueces de Primera Instancia en Materia Familiar.
 
-IV. A los Ayuntamientos.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+IV. Los Ayuntamientos del Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+V. La Fiscalía General del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+Para el cabal cumplimiento de los objetivos de esta Ley, las instituciones señaladas en este artículo dispondrán y programarán las acciones necesarias, con sus propias estructuras administrativas, humanas, presupuestales y operativas.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+Igualmente, dichas instituciones, remitirán mensualmente los informes que, en términos de esta Ley, recaben sobre los probables casos de violencia familiar que sean de su conocimiento, a la Secretaría Ejecutiva de la Junta Directiva para la Prevención, Asistencia y Atención de la Violencia Familiar en el Estado, para los efectos de recopilación, diagnóstico, programación y seguimiento de acciones.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
@@ -163,9 +183,9 @@ I. "Persona Receptora de la violencia familiar": La persona o grupo de personas 
 
 II. "Persona Generadora de la violencia familiar": Quienes realizan actos de maltrato físico, verbal, psicoemocional, sexual, por negligencia o económico, hacia las personas con las que tengan o hayan tenido algún vínculo familiar; se hallen bajo su guarda o custodia o mantengan relaciones de hecho similares a las que se originan con motivo del matrimonio o en el seno familiar.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2020)</small>
 
-III. "Violencia familiar": Aquel acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, por negligencia, económica ó sexualmente a cualquier miembro de la familia, que tenga relación de parentesco por consanguinidad, tenga o lo haya tenido por afinidad o civil, o se halle en unión libre, de hecho o concubinato o en una relación de noviazgo; realizado dentro o fuera del domicilio familiar, y que tenga por efecto causar daño, en cualquiera de las siguientes modalidades:
+III. “Violencia familiar”: Aquel acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, por negligencia, económica o sexualmente a cualquier miembro de la familia, que tenga relación de parentesco por consanguinidad, tenga o lo haya tenido por afinidad o civil, o se halle en unión libre, de hecho o concubinato o en una relación de noviazgo; realizado dentro o fuera del domicilio familiar, habitando o no el autor del delito, ó en el lugar que se encontrare la parte ofendida, ya sea en el ámbito público como en el privado y que tenga por efecto causar daño, en cualquiera de las siguientes modalidades:
 
 a) "Maltrato físico": Todo acto de agresión intencional, en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad de la otra persona, encaminado hacia su sometimiento y control, provocándole cualquier alteración en su salud física o mental.
 
@@ -179,7 +199,17 @@ d) "Maltrato verbal": Toda expresión, concreta, intencional y reiterada, que in
 
 e) "Maltrato por negligencia": Toda conducta omisiva consistente en faltar gravemente a los deberes de proveer adecuadamente al sustento, al vestido, a la vivienda, a la educación o a la atención de la salud a los que tienen derecho quienes integran una familia, que por su edad, capacidad o particular condición, se encuentren en situación de dependencia.
 
-f) "Afectación económica o patrimonial": Todo acto u omisión que genere daño, destrucción, deterioro, sustracción o retención de bienes muebles o inmuebles, propiedad de la víctima o destinados a la satisfacción de necesidades familiares.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+f) “Afectación patrimonial”: Todo acto u omisión que ocasiona daño, ya sea de manera directa o indirecta, a los bienes muebles o inmuebles, en menoscabo de su patrimonio de la víctima; también puede consistir en la perturbación, posesión, propiedad, la sustracción, destrucción, menoscabo, desaparición, ocultamiento o retención de objetos, documentos personales, bienes o valores, derechos patrimoniales o recursos económicos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+g) “Afectación económica”: Toda acción u omisión que afecta la economía de la víctima, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas y puede consistir en la restricción o limitación de los recursos económicos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+h) “Afectación contra los derechos reproductivos”: Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, a una maternidad elegida y segura, a servicios de atención prenatal, así como a servicios obstétricos de emergencia.
 
 ###### Artículo 11.
 
@@ -187,9 +217,13 @@ Para los efectos de esta ley, respecto a las medidas, instancias y procedimiento
 
 I. "Prevención": Las medidas tendientes a evitar que se produzca la violencia en cualquiera de sus modalidades, entre las personas que tengan algún vínculo o parentesco familiar.
 
-II. "Asistencia": Los servicios de apoyo y protección adecuados, proporcionados a quienes son sujetos de violencia familiar.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-III. "Atención": Los servicios médicos, pedagógicos, psicológicos y jurídicos que se brindan con el fin de promover, proteger y restaurar la salud física y mental de las y los receptores de la violencia familiar, así como de quienes la generan.
+II. “Asistencia”: Los servicios de atención y protección adecuados, proporcionados a quienes son receptores de la violencia familiar.
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+III. “Atención”: Los servicios médicos, pedagógicos, psicológicos, jurídicos y de otra naturaleza que se brindan con el fin de promover, proteger y restaurar la salud física y mental de las y los receptores de la violencia familiar, así como de quienes la generan.
 
 IV. "Promoción de la equidad y la igualdad entre los géneros": Todas aquellas acciones encaminadas a eliminar cualquier forma de discriminación contra las mujeres, así como a fortalecer relaciones equitativas entre los hombres y las mujeres.
 
@@ -253,15 +287,19 @@ c) Secretaría de Salud.
 
 d) Secretaría de Inclusión y Desarrollo Social.
 
-e) (DEROGADO, P.O. 12 DE MAYO DE 2009)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+e) Secretaria de Seguridad Pública.
 
-f) Fiscalía General del Estado.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+f) Instituto Coahuilense de las Mujeres.
 
 IV. Dos vocalías del Poder Legislativo cubiertas por integrantes de la Comisión de Equidad y Género.
 
-V. Un vocalía a cargo de la Directora del Instituto Coahuilense de las Mujeres.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+V. Una vocalía a cargo del titular de la Fiscalía General del Estado.
 
 VI. Un vocalía, a cargo de quien presida la Comisión de Derechos Humanos en el Estado.
 
@@ -270,6 +308,10 @@ VII. Cuatro vocalías que serán cubiertas por Presidentes Municipales, represen
 VIII. Tres vocalías, a cargo de representantes de los organismos sociales que se hayan destacado por su trabajo y estudio en la materia de violencia familiar, invitados anualmente mediante convocatoria del Ejecutivo del Estado.
 
 El Consejo deberá celebrar por lo menos dos sesiones semestrales en el año, de preferencia, en las fechas más próximas a su inicio y conclusión, y será convocado por el Titular del Poder Ejecutivo, por conducto de la Secretaría de Gobierno.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+Los titulares de los organismos y las dependencias antes señaladas podrán nombrar un representante, para que lo supla en las reuniones del Consejo.
 
 ###### Artículo 13.
 
@@ -331,11 +373,27 @@ V. Solicitar, por conducto del Presidente del Tribunal Superior de Justicia, que
 
 VI. Contar con sistemas de información estadística completos sobre la violencia familiar que incluyan causas, consecuencias, incidencias, etc., que permitan evaluar la eficacia de las medidas y reorientarlas en caso de que fuera necesario.
 
-VII. Aprobar modelos de comunicación social masivos o por medios electrónicos, que lleven a la exclusión de la violencia como forma de resolver los conflictos familiares.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VII. Fomentar la realización de campañas encaminadas a sensibilizar y concientizar a la población en general, sobre las formas de expresión de violencia familiar, sus efectos en la víctima receptora de la violencia familiar y demás integrantes del núcleo de convivencia; así como las formas de prevenirla, combatirla, erradicarla y fomentar la cultura de la denuncia.
 
 VIII. Contribuir a la difusión de la legislación en la que se establecen medidas para evitar la violencia familiar.
 
-IX. Aprobar indicadores elaborados por las Unidades de Atención que permitan evaluar semestralmente los logros y avances del Programa General.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+IX. Incentivar los estudios e investigaciones sobre violencia familiar y difundir sus resultados.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+X. Impulsar seminarios, cursos y talleres de capacitación para los servidores públicos, a quienes corresponda la atención y prevención de la violencia familiar.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XI. Establecer y mantener actualizado, un banco de datos sobre estadísticas de casos de violencia familiar en el Estado y difundir esta información para efectos preventivos.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XII. Promover la incorporación de los Municipios a las políticas estatales en materia de prevención, atención y sanción contra la violencia familiar, a fin de que incorporen en sus reglamentos, los lineamientos específicos para atender y efectuar los procedimientos que la Ley señala.
 
 ###### Artículo 17.
 
@@ -410,6 +468,10 @@ II. Tomarán en cuenta el interés superior de las personas receptoras de violen
 ###### Artículo 20.
 
 Es deber del Estado y sus autoridades resguardar a la familia como un espacio de afecto, seguridad y desarrollo, a cuyo efecto deberá implementar todas las medidas indispensables para impedir que en su seno se produzca cualquier forma de maltrato que afecte a sus miembros, así mismo brindará particular atención a las niñas, niños y adolescentes, a las mujeres, a las personas con discapacidad o de las personas adultas mayores, evitando que sean víctimas de la violencia familiar.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+Las autoridades responsables de la aplicación de esta Ley, independientemente de las sanciones civiles, penales o administrativas impuestas por la autoridad competente, promoverán y vigilarán la observancia de los derechos de los receptores de violencia familiar, procurando una correcta aplicación de los medios legales y materiales para prevenir cualquier violación a los mismos y, en su caso, restituirlos en el goce y ejercicio de sus derechos individuales o comunes.
 
 ###### Artículo 21.
 
@@ -515,11 +577,43 @@ VI. Y las demás que les confieran las leyes.
 
 #### SECCION TERCERA. DE LA ASISTENCIA Y ATENCION
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### Artículo 26.
 
-La atención especializada que se proporcione en materia de violencia familiar, por las Unidades de Atención o por cualquier institución de la administración pública o del sector privado, tendrá por objeto la protección de la integridad física y mental y de las personas receptoras de la violencia, así como la reeducación, respecto a quien la provoca en la familia.
+La atención especializada que se proporcione en materia de violencia familiar, por las Unidades de Atención o por cualquier institución de la administración pública o del sector privado, tendrá por objeto la protección de la integridad física y mental de la víctima receptora de la violencia familiar, así como la reeducación, respecto a quien la provoca en la familia, respetando la dignidad y las diferentes opiniones de las partes involucradas, a través de acciones de tipo:
 
-Del mismo modo, estará libre de prejuicios de género, raza, condición socioeconómica, religión o credo, nacionalidad o de cualquier otro tipo, y no contará entre sus criterios con patrones estereotipados de comportamiento o prácticas sociales y culturales basadas en conceptos de inferioridad o de subordinación.
+I. Terapéutico: Para brindar acompañamiento psicológico y servicios de atención en crisis y contención emocional a las víctimas receptoras de la violencia familiar, con el objetivo de lograr el restablecimiento psíquico y emocional de la víctima y su reincorporación a la vida laboral, social y familiar.
+
+II. Educativo: Para influir en la flexibilización de las identidades, modelos y roles de género, asumiendo derechos y obligaciones en la familia.
+
+III. Protector: Para garantizar la integridad, seguridad física y jurídica de la víctima receptora de la violencia familiar, mediante la aplicación irrestricta de la Ley, la suplencia de la queja y el otorgamiento de las órdenes o medidas de protección, que le permita la reorganización de su vida.
+
+Del mismo modo, la intervención integral estará libre de prejuicios de género, raza, condición socioeconómica, religión o credo, nacionalidad o de cualquier otro tipo, y no contará entre sus criterios con patrones estereotipados de comportamiento o prácticas sociales y culturales basadas en conceptos de inferioridad o de subordinación entre las personas; y se basará en modelos psicoterapéuticos adecuados y específicos para personas con perfiles definidos, así como en programas susceptibles de evaluación.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+###### Artículo 26 Bis.
+
+Los servidores públicos del ámbito estatal o municipal, que por razón del puesto que desempeñan, de manera directa o indirecta, intervenga con una persona que manifieste ser víctima receptora de la violencia familiar, deberán:
+
+I. Informarla de manera clara, sencilla y concreta sobre sus derechos y los servicios públicos o privados disponibles para su caso en particular.
+
+II. Brindar un trato digno, privacidad y respeto durante cualquier entrevista o actuación como víctima receptora de la violencia familiar.
+
+III. Otorgar asesoría jurídica gratuita, en los asuntos relacionados con la violencia de la cual sea víctima, para conocer sobre los recursos y procedimientos judiciales, administrativos o de otro tipo, a los cuales tienen derecho para la mejor defensa de sus intereses y satisfacción de sus necesidades, así como sobre el conjunto de derechos de los que son titulares en su condición de víctima.
+
+IV. La Fiscalía General y el Asesor Jurídico, en su caso, garantizarán el derecho constitucional a la asesoría jurídica, respetando la voluntad de la víctima en cuanto al procedimiento que decida, siempre que se trate de delitos que admitan el perdón del ofendido.
+
+V. Asesorarla en lo relativo a la importancia de preservar las pruebas que se tengan al respecto de la conducta de su agresor.
+
+VI. Canalizarla de inmediato, dependiendo de su propia competencia, a alguna institución de salud, a la Fiscalía General del Estado o al Centro de Justicia y Empoderamiento para las Mujeres, cuando la persona indique que ha sufrido golpes, heridas o cualquier daño físico, aunque éste no sea visible, o de tipo emocional, que requiera intervención integral sin perjuicio de que se le sea proporcionada la ayuda urgente necesaria.
+
+VII. Cuando la persona esté en condiciones de proporcionar información, el servidor público recabará los datos iniciales dejando constancia de las gestiones y canalizaciones realizadas, con la firma de la víctima receptora de la violencia familiar, para el seguimiento del caso y demás efectos señalados en el último párrafo del artículo 6 de la presente ley.
+
+VIII. Las demás que establezca esta Ley y demás disposiciones aplicables.
+
+La asistencia de los receptores de la violencia familiar implica la suplencia de la queja en todos los procedimientos donde se ventilen asuntos relacionados con la materia de la presente Ley, con la asesoría jurídica que se requiera.
 
 ###### Artículo 27.
 
@@ -589,7 +683,9 @@ VI. Hacer llegar por los conductos que estime necesarios, los diversos citatorio
 
 VII. A través de sus elementos, llevar a cabo las presentaciones para hacer efectivos los arrestos administrativos que se impongan con motivo de la ley.
 
-VIII. Incluir en sus programas de formación policíaca, cursos sobre violencia familiar.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VIII. Incluir en sus programas de formación policial y ministerial, cursos sobre violencia familiar.
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
@@ -627,9 +723,45 @@ XVI. Llevar una información estadística por separado sobre los casos de violen
 
 XVII. Las demás que le confieran las leyes.
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XVIII. Investigar las denuncias de violencia familiar con la debida diligencia y de forma oportuna, oficiosa, competente, exhaustiva, con enfoque de derechos humanos y bajo una perspectiva de género.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XIX. Otorgar asesoría y orientación jurídica a las personas que resulten víctimas de violencia familiar, sin agravar el sufrimiento de la víctima ni tratarla en ningún caso como sospechosa o responsable de la comisión de los hechos que denuncie.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XX. Otorgar e instrumentar de oficio o a petición de parte, las órdenes o medidas de protección necesarias para prevenir, interrumpir o impedir la comisión o continuidad de la violencia familiar.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XXI. Solicitar al órgano jurisdiccional competente, las medidas preparatorias, cautelares y provisionales, previstas en el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza, el Código Procesal Civil para el Estado de Coahuila de Zaragoza y otros ordenamientos jurídicos, para resguardar el patrimonio o alimentos de las víctimas.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XXII. Canalizar a las víctimas de delitos resultantes de violencia familiar a los hospitales de la Secretaría de Salud, cuando se requiera.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### Artículo 33.
 
-(DEROGADO, P.O. 12 DE MAYO DE 2009)
+Corresponde a la Secretaría de Seguridad Pública:
+
+I. Promover en coordinación con el Consejo Estatal, programas participativos y de seguimiento en comunidades, colonias y barrios, especialmente en los identificados de alto índice de violencia, para prevenir, desde donde se genera, la violencia familiar.
+
+II. Intervenir en la atención y prevención de la violencia familiar, debiendo atender los llamados de auxilio del receptor de violencia familiar o del familiar o vecino de éste que tenga conocimiento de los actos de violencia.
+
+III. Coordinarse con la Fiscalía General del Estado y el Centro de Justicia y Empoderamiento para las Mujeres para la atención de los casos de violencia familiar que sean reportados.
+
+IV. Dar seguimiento a las medidas de protección que se han dictado por la autoridad competente para garantizar a la víctima y sus familiares la más completa protección a su integridad y seguridad personal.
+
+V. Proporcionar, en sus cursos de formación policial capacitación sobre la dinámica y efectos de la violencia familiar, su prevención y atención, privilegiando la protección a las personas agredidas y actuando con la discreción necesaria, para respetar su dignidad, intimidad y privacidad.
+
+VI. Integrar comités de participación ciudadana y seguridad vecinal en colaboración con las autoridades responsables, con fines preventivos de la violencia familiar.
+
+VII. Auxiliar a las autoridades competentes, en la ejecución de las órdenes o medidas de protección, conforme a la Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Coahuila de Zaragoza y otra normatividad aplicable.
 
 ###### Artículo 34.
 
@@ -658,6 +790,22 @@ IX. Difundir y promover la aplicación de las normas de la Secretaría de Salud 
 X. Llevar un registro puntual de los casos de violencia familiar que se atienden en las diversas instituciones hospitalarias públicas y privadas, que permita conocer si la víctima ha sido objeto de agresiones anteriores, los organismos que han intervenido y el resultado de las acciones llevadas a cabo.
 
 XI. Las demás que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+###### Artículo 34 Bis.
+
+Corresponde a los Ayuntamientos del Estado:
+
+I. Coordinar sus actividades con el Consejo Estatal, con el fin de promover e impulsar programas y acciones en la materia en sus respectivos ámbitos.
+
+II. Fomentar la impartición de cursos y talleres de prevención y atención de la violencia familiar.
+
+III. Impulsar, en el ámbito de sus competencias, reformas y adiciones a las reglamentaciones municipales que coadyuven en la prevención, atención y sanción de la violencia familiar.
+
+IV. Brindar la asistencia necesaria a las víctimas de este tipo de violencia y dictar en caso de urgencia las medidas inmediatas de protección para salvaguardar su integridad, canalizándolas a las instancias competentes para su atención.
+
+V. Difundir, en el ámbito de su competencia, el contenido y alcance de la presente Ley, así como informar al Consejo Estatal sobre los casos de violencia familiar que conozca.
 
 ### CAPITULO III. DE LAS ACCIONES PRIVADAS
 
@@ -717,6 +865,14 @@ El impulso y dirección de los procesos o procedimientos corresponde a quienes d
 
 Los órganos del Poder Judicial, del Ministerio Público, Registros y demás autoridades y funcionarios del Estado, prestarán gratuitamente los oficios legales de su cargo a los instructores de los procesos o procedimientos, en cualquier acto o diligencia en que sea necesario contar con constancias o copias certificadas.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+###### Artículo 44 Bis.
+
+A fin de buscar mecanismos eficaces que permitan atender a las personas víctimas de violencia familiar y apoyar especialmente a aquellas en mayor condición de vulnerabilidad, y ante la necesidad de adoptar estrategias integrales para prevenir, atender, sancionar y erradicar la violencia familiar, en la esfera de la procuración y administración de justicia, se proporcionará la asesoría y acompañamiento jurídico, por parte de la abogada victimal adscrita al Centro de Justicia y Empoderamiento de las Mujeres, quien podrá tener la representación legal de las víctimas cuando no cuenten con los medios económicos suficientes para contratar una o un defensor particular.
+
+La representación legal que se proporcione a las víctimas, consistirá en el patrocinio y asesoría legal especializada, en asuntos del fuero común, en materia penal, civil, familiar y laboral.
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2020)</small>
 
 ###### Artículo 45.
@@ -758,6 +914,10 @@ En la tramitación y resolución de los procesos y procedimientos de violencia f
 ###### Artículo 50.
 
 Los órganos encargados del conocimiento de los asuntos de violencia familiar, dictarán las medidas que estimen convenientes con prevalencia del interés superior de la víctima. Así mismo, están obligados a investigar la verdad de los conflictos que se les plantean, mediante la práctica de las diligencias probatorias que consideren necesarias. Además de los medios de prueba establecidos por el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza vigente, podrán utilizarse cualquiera otro medio probatorio no prohibido por la ley. Las pruebas serán apreciadas conforme a las reglas de la sana crítica.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+En los casos de violencia familiar en los cuales se encuentren involucrados niños, niñas o adolescentes, estos deberán ser escuchados atendiendo a su edad y condición, a fin de que su opinión sea tomada en cuenta en todos los asuntos que les afecten.
 
 ###### Artículo 51.
 
@@ -815,7 +975,9 @@ Las informaciones falsas proporcionadas por particulares, darán lugar a la impo
 
 Las dependencias de la Fiscalía General del Estado y de la Procuraduría de la Familia, particularmente encargadas de los asuntos de violencia familiar, contarán con un sistema especial de comunicación telefónica denominado "Línea Directa para Situaciones de Violencia Familiar", a través del cual todas las personas e instituciones podrán informar sobre los casos de que tengan conocimiento, a cualquier hora del día o de la noche y cualquier día de la semana.
 
-### CAPITULO V. MEDIDAS DE EMERGENCIA Y PROVIDENCIAS CAUTELARES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2020)</small>
+
+### CAPITULO V. ORDENES Y MEDIDAS DE PROTECCION
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
 
@@ -848,6 +1010,18 @@ La entrevista podrá practicarse en la escuela, pública o privada, en los hospi
 ###### Artículo 64.
 
 Quien tiene a su cargo la sustanciación de un proceso o procedimiento de violencia familiar, cuando considere necesaria la protección de los derechos de la persona receptora de la violencia, antes o durante la tramitación de aquellos, podrá decretar de oficio o a petición de parte, las medidas cautelares o tutelares que estime convenientes, las cuales se ordenarán sin más trámite y sin necesidad de prestar caución, cuando tenga justo motivo.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+###### Artículo 64 Bis.
+
+Las órdenes o medidas de protección vinculadas a casos de violencia familiar se aplicarán en los términos y condiciones que se establecen en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza y las demás disposiciones aplicables.
+
+Las órdenes o medidas de protección tienen como propósito prevenir, interrumpir o impedir la comisión de la violencia familiar a través de la emisión de una medida, las cuales podrán otorgarse e instrumentarse de oficio o a petición de parte, por el Ministerio Público o por los órganos jurisdiccionales competentes, con el auxilio de la policía preventiva estatal o municipal, independientemente de que exista o no una carpeta de investigación por los hechos de violencia familiar.
+
+El derecho a solicitar la orden o medida de protección no se afectará porque la víctima de la violencia familiar haya abandonado la casa habitación compartida con la parte agresora, para evitar la consecución de la violencia.
+
+La autoridad competente de solicitar y emitir una orden o medida de protección deberá actuar con celeridad en su trámite. El servidor público que incurra en demora será sancionado en los términos legales que procedan.
 
 ###### Artículo 65.
 
@@ -1210,6 +1384,14 @@ Segundo.- En un plazo no mayor a cuarenta días, contados a partir de la entrada
 P.O. 31 DE ENERO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 491.- SE REFORMAN LOS ARTÍCULOS 45, 48, 50, 54, 78 Y 84 DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 602.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR”.]
 
 ###### ARTÍCULO ÚNICO.
 
