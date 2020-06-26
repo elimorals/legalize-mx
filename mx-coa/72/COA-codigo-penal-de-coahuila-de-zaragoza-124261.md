@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-03-27"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -2995,7 +2995,9 @@ Por retribución: existe retribución, cuando el agente comete el homicidio por 
 
 XIII. (Por calidad de la víctima)
 
-Cuando el agente cometa el homicidio por la condición social o económica de la víctima, o por su vinculación, pertenencia o relación con un grupo social definido; o por su origen étnico, su nacionalidad o lugar de origen, o por su color o cualquier otra característica genética; o por su religión, edad, opiniones, discapacidad, condiciones de salud, apariencia física, preferencias sexuales, estado civil u ocupación, o en función de la clase de actividad profesional de la víctima, en especial dentro del periodismo, o porque aquélla auxilie o colabore con alguna institución de seguridad pública, o en razón de que la víctima labore en alguna institución de seguridad pública estatal o municipal, o en otra institución o dependencia oficial que actúe en auxilio de las mismas, o en contra de testigos en razón del testimonio que vayan a rendir o hayan rendido en procedimiento o juicio, o bien, en razón de las funciones de la víctima como juez, magistrado o magistrada, o servidor público del poder judicial.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2020)</small>
+
+Cuando el agente cometa el homicidio por la condición social o económica de la víctima, o por su vinculación, pertenencia o relación con un grupo social definido; o por su origen étnico, su nacionalidad o lugar de origen, o por su color o cualquier otra característica genética; o por su religión, edad, opiniones, discapacidad, condiciones de salud, apariencia física, preferencias sexuales, estado civil u ocupación, o en función de la clase de actividad profesional de la víctima, en especial dentro del periodismo o en la prestación de los servicios de salud, o porque aquélla auxilie o colabore con alguna institución de seguridad pública, o en razón de que la víctima labore en alguna institución de seguridad pública estatal o municipal, o en otra institución o dependencia oficial que actúe en auxilio de las mismas, o en contra de testigos en razón del testimonio que vayan a rendir o hayan rendido en procedimiento o juicio, o bien, en razón de las funciones de la víctima como juez, magistrado o magistrada, o servidor público del poder judicial.
 
 Por instituciones de seguridad pública se entenderá a las señaladas en el artículo 341 de este código.
 
@@ -3563,11 +3565,9 @@ Artículo 225 (Violación impropia por instrumento o elemento distinto al natura
 
 Se considera violación impropia y se impondrá prisión de cinco a diez años y multa, a quien ilícitamente introduzca en forma total o parcial por la vía anal o vaginal cualquier elemento o instrumento distinto al pene, sin el consentimiento de la persona.
 
-(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
-
-SE APLICARÁ DE SIETE A DOCE AÑOS Y MULTA, A QUIEN ILÍCITAMENTE INTRODUZCA EN FORMA TOTAL O PARCIAL CUALQUIER ELEMENTO O INSTRUMENTO DISTINTO AL PENE, POR LA VÍA ANAL O VAGINAL A PERSONA QUE POR CUALQUIER CAUSA NO TENGA LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O POSIBILIDAD DE RESISTIR LA CONDUCTA DELICTUOSA.
+Se aplicará de siete a doce años de prisión y multa, a quien ilícitamente introduzca en forma total o parcial cualquier elemento o instrumento distinto al pene, por la vía anal o vaginal a persona que por cualquier causa no tenga la capacidad para comprender el significado del hecho o posibilidad de resistir la conducta delictuosa.
 
 Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan.
 
@@ -3886,6 +3886,10 @@ Niegue o restrinja los derechos educativos de una persona debido a que tenga una
 VI. (Discriminación por servidor público)
 
 Se impondrá de seis meses a un año de prisión y de cien a quinientos días multa, destitución e inhabilitación de dos a cuatro años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, al servidor público que niegue o retarde a una persona un trámite, servicio o prestación a los que tenga derecho, debido a que aquélla tenga una o más de las condiciones señaladas en el párrafo primero de este artículo.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+Se aumentará en un tanto el mínimo y el máximo de las penas previstas en el primer párrafo, cuando cualquiera de las conductas descritas en las fracciones anteriores, se realicen en contra de médicos, personal de enfermería, auxiliares de estos, o personas que laboren en instituciones de salud pública o privada, durante una emergencia sanitaria declarada por autoridad competente.
 
 La autoridad judicial competente estará obligada en su resolución a señalar a favor de la víctima lo relativo a la reparación del daño y las medidas afirmativas correspondientes que garanticen que los actos, omisiones o prácticas sociales discriminatorias no se repitan en su perjuicio.
 
@@ -4513,6 +4517,14 @@ IX. (Vivienda o cuarto destinados a habitación)
 
 En vivienda o cuarto destinados a habitación, si al momento del robo no se encuentra la o las personas que ahí residan, comprendiéndose por aquéllos no sólo los que están fijos en la tierra, sino también los móviles, sea cual fuese la materia de que estén construidos.
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XII (SIC). (Robo de insumos médicos, medicamentos y equipo de protección personal de las instituciones de salud pública o privada).
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XII, P.O. 26 DE JUNIO DE 2020.]</small>
+
+Cuando el robo recaiga sobre insumos médicos, medicamentos y equipo de protección personal destinados a las instituciones de salud pública o privada, con independencia de la cuantía de la misma.
+
 Artículo 285 (Calificativas especiales del robo)
 
 Se aumentará en un tanto el mínimo y el máximo de las penas previstas en el artículo 279 de este código, según la cuantía del robo de que se trate, cuando aquél se cometa:
@@ -4915,6 +4927,18 @@ VII. (Cultivos)
 
 Sembrados o cultivos de cualquier género en áreas rurales.
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VIII. (Edificios destinados a la prestación de servicios de salud)
+
+Hospitales, clínicas, consultorios médicos, laboratorios y edificios destinados a la prestación de servicios de salud.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+IX. (Vehículos destinados al traslado de enfermos)
+
+Ambulancias y vehículos automotores que estén destinados al traslado de enfermos.
+
 Artículo 304 (Afectación a medios de seguridad)
 
 Se impondrá de dos a cuatro años de prisión y de doscientos a cuatrocientos días multa, a quien a propósito dañe o inutilice medios técnicos instalados para la seguridad de bienes o personas contra posibles hechos delictuosos, o para registrar infracciones.
@@ -5037,11 +5061,19 @@ Se impondrán las mismas penas previstas en este artículo, al director, encarga
 
 Los delitos previstos en este artículo se perseguirán por querella.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ### Capítulo Tercero. Delitos de peligro para la vida o salud de trabajadores, cometidos por responsables o corresponsables de obra
 
 Artículo 315 (Desarrollo inseguro de obra)
 
 Se impondrá de tres a seis meses de libertad supervisada y de quinientos a dos mil días multa, y suspensión de tres meses a un año para desempeñar la clase de actividad profesional en virtud de la cual se comete el delito, al arquitecto, ingeniero, contratista o maestro albañil responsables o corresponsables de una obra, que permitan el desarrollo de la misma sin proveer medidas que protejan la vida o la salud de quienes trabajen en aquélla.
+
+###### Artículo 314 Bis.
+
+(Delitos contra personal de salud cometidos durante una emergencia sanitaria)
+
+Se impondrá de seis meses a tres años de prisión, con independencia de la pena que le corresponda por la comisión de otros tipos penales, a quien corneta un delito en contra de médicos, personal de enfermería, auxiliares de estos o de personas que laboren en una institución de salud pública o privada, en el acto del ejercicio de sus funciones o con motivo de ellas, durante una emergencia sanitaria declarada por autoridad competente.
 
 ### Capítulo Primero. Afectaciones a vías o transportes públicos o a la seguridad en su disfrute sin sufrir afectaciones
 
@@ -7890,3 +7922,21 @@ P.O. 27 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 606.- SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 284 DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 607.- SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 184 Y SE ADICIONAN: UN ANTEPENÚLTIMO PÁRRAFO RECORRIÉNDOSE LOS SIGUIENTES PÁRRAFOS DEL ARTÍCULO 239, LAS FRACCIONES VIII Y IX AL ARTÍCULO 303 Y EL ARTÍCULO 314 BIS DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 650.- SE REFORMA EL ARTÍCULO 225, SEGUNDO PÁRRAFO Y EL ARTÍCULO 229, FRACCIÓN II DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
