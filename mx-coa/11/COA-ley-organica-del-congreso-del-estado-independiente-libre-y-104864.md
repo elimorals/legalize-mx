@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2020-05-01"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -255,13 +255,17 @@ IX. Orientar a las y los ciudadanos del Estado acerca de los medios jurídicos y
 
 X. Contar con los apoyos administrativos y de asesoría, dietas, asignaciones, prestaciones, franquicias y viáticos que les permitan desempeñar con eficacia y dignidad su encargo, los cuales se fijarán en el presupuesto de egresos del Congreso del Estado y conforme a la posibilidad financiera del mismo;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-XI. Solicitar al Pleno Legislativo licencia para separarse temporalmente del cargo; y
+XI. Solicitar al Pleno Legislativo licencia para separarse temporalmente del cargo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-XII. Acceder a todos los documentos del Congreso del Estado, a las cuentas públicas de los sujetos obligados y a toda la información financiera que se presente ante la legislatura, sus comisiones y comités, sin restricción alguna, con excepción de aquella información en la que se deba guardar la debida reserva de acuerdo a los casos en que así lo disponga la Ley de Acceso a la Información pública y Protección de datos Personales o así lo haya determinado mediante el acuerdo de reserva correspondiente la autoridad competente y en su caso por así determinarlo la mesa directiva del congreso.
+XII. Acceder a todos los documentos del Congreso del Estado, a las cuentas públicas de los sujetos obligados y a toda la información financiera que se presente ante la Legislatura, sus comisiones y comités, sin restricción alguna, con excepción de aquella información en la que se deba guardar la debida reserva de acuerdo a los casos en que así lo disponga la Ley de Acceso a la Información Pública y Protección de Datos Personales o así lo haya determinado mediante el acuerdo de reserva correspondiente la autoridad competente y en su caso por así determinarlo la mesa directiva del Congreso, y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+XIII. Hacer uso de la palabra ante el Pleno o la Diputación Permanente, hasta por cinco minutos, para rectificar hechos o responder alusiones personales, cuando así lo soliciten al presidente de la mesa directiva, cualquiera que sea el punto del orden del día que se desahogue.
 
 ###### ARTÍCULO 22.
 
@@ -983,11 +987,15 @@ Todos aquellos asuntos que sean turnados a las comisiones, serán analizados, es
 
 Las comisiones serán permanentes y especiales. Se denominarán comisiones permanentes, las que se constituyan con carácter definitivo y funcionarán durante todo el ejercicio de la legislatura, debiendo sesionar al menos una vez al mes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 84.
 
-Las comisiones especiales serán aquellas que se establezcan de manera transitoria, funcionarán en términos de las facultades que el Congreso les otorgue y conocerán específicamente de los asuntos que hayan motivado su conformación. El acuerdo que las establezca señalará su objeto, el número de los integrantes que las conformarán y el plazo para efectuar las tareas que se les hayan encomendado. Cumplido su objeto se extinguirán. Deberán establecerse con las dos terceras partes de los votos de las y los diputados presentes.
+Las comisiones especiales serán aquellas que se establezcan de manera transitoria, funcionarán en términos de las facultades que el Congreso les otorgue y conocerán específicamente de los asuntos que hayan motivado su conformación. Estas, podrán tener el carácter de interestatales, con el fin de fortalecer la cooperación entre el Poder Legislativo y las legislaturas de otras entidades. El acuerdo que las establezca señalará su objeto, el número de los integrantes que las conformarán y el plazo para efectuar las tareas que se les hayan encomendado. Cumplido su objeto se extinguirán. Deberán establecerse con las dos terceras partes de los votos de las y los diputados presentes.
 
-A diferencia de las permanentes, las comisiones especiales podrán establecerse por la Diputación Permanente, siguiendo los trámites establecidos en la ley.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+A diferencia de las permanentes, las comisiones especiales podrán establecerse por la Diputación Permanente, siguiendo los trámites establecidos en la ley. Los acuerdos suscritos por las comisiones especiales de carácter interestatal deberán ser aprobados por el Pleno del Congreso o, en su caso, por la Diputación Permanente, por mayoría de votos de las y los diputados presentes.
 
 Cuando el Congreso no esté en período de sesiones, las comisiones permanentes y especiales continuarán sesionando, para atender y resolver los asuntos que les fueren encomendados.
 
@@ -1543,6 +1551,10 @@ V. Legislación para mejorar la calidad de vida (sic) las personas con discapaci
 
 VI. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2020)</small>
+
+VII. Cuando la Comisión de Atención a Grupos en Situación de Vulnerabilidad, dictamine alguna norma relacionada con las personas con discapacidad, deberá realizar consultas estrechas y colaborar activamente con las personas con discapacidad, incluidos los niños y las niñas a través de las organizaciones que las representen, mediante los mecanismos y modalidades que la propia comisión estime pertinentes.
+
 ###### ARTÍCULO 110.
 
 La Comisión de Energía, Minería e Hidrocarburos conocerá de los asuntos relacionados con:
@@ -2064,6 +2076,10 @@ Asimismo, deberán contener una exposición de motivos en la que se exprese el o
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 Además de los requisitos antes señalados, toda iniciativa de ley podrá contemplar en la exposición de motivos un apartado con un análisis del impacto jurídico, administrativo, presupuestario y social que se generaría con su eventual aprobación; así como las fuentes o partidas presupuestales de donde se obtendrían los recursos para financiar los gastos relacionados con su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+La exposición de motivos a que hace referencia el párrafo anterior deberá ser redactada en términos objetivos, evitando cualquier consideración personal que pudiese resultar violenta, discriminatoria o que atente en contra de los derechos humanos de alguna persona o grupo de personas.
 
 ###### ARTÍCULO 157.
 
@@ -3436,3 +3452,41 @@ PRIMERO.- Las presentes reformas entrarán en vigor a partir de la expedición d
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El Presidente del Congreso ordenará la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 614.- SE REFORMA EL ARTÍCULO 109, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir de la expedición del presente Decreto.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 615.- SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 156 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir de la expedición del presente Decreto.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 616.- SE REFORMAN EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 84 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir de la expedición del presente Decreto.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 617.- SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 21, SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 21, TODOS DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir de la expedición del presente Decreto.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
