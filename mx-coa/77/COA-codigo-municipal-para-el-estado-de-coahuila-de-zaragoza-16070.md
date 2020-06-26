@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-05-12"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -3017,9 +3017,19 @@ En todo lo no previsto por este título o disposiciones especiales se aplicará 
 
 Los trabajadores, prestarán sus servicios en virtud de nombramiento expedido por el funcionario facultado para extenderlo, o por estar sus sueldos incluidos en las nóminas de pago.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 264.
 
-Los menores que tengan más de dieciséis años, tendrán capacidad legal para prestar servicios, percibir el sueldo correspondiente y ejercitar las acciones derivadas de este título.
+Las personas menores que tengan más de quince años, tendrán capacidad legal para prestar servicios, percibir el sueldo correspondiente y ejercitar las acciones derivadas de este título.
+
+Las personas mayores de quince años y menores de dieciséis para trabajar requieren:
+
+I. Que hayan cumplido con la educación obligatoria a que se refiere el Artículo 118 de la Constitución Política del Estado;
+
+II. Certificado médico que acredite su aptitud para el trabajo; y
+
+III. La autorización de los padres o del tutor en su caso.
 
 ###### ARTÍCULO 265.
 
@@ -3027,11 +3037,15 @@ Serán condiciones nulas y no obligarán a los trabajadores, aún cuando las adm
 
 I. Una jornada mayor de la permitida por este título.
 
-II. Las labores peligrosas o insalubres para las mujeres y para los menores de dieciséis años.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+II. Las labores peligrosas o insalubres para las mujeres y para las personas menores de dieciocho años.
 
 III. Una jornada inhumana por lo notoriamente excesiva o peligrosa para el trabajador, o para la salud de la trabajadora embarazada o el producto de la concepción.
 
-IV. Trabajo para los menores de catorce años.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+IV. Trabajo para las personas menores de quince años.
 
 V. Un salario inferior al mínimo establecido para los trabajadores en general, en el lugar donde se presten los servicios.
 
@@ -3519,11 +3533,15 @@ Cuando las condiciones generales de trabajo contengan prestaciones económicas c
 
 Serán condiciones nulas y no obligarán a los trabajadores, aun cuando las admitieren expresamente las que estipulen:
 
-I. Una jornada mayor de la permitida por este código, excepto cuando ocurrieren situaciones de emergencia o desastre que pusieren en riesgo a la población en cuyo caso se deberán prestar los servicios necesarios determinados por la entidad pública municipal.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+I. Una jornada mayor de la permitida por este código, excepto cuando ocurrieren situaciones de emergencia o desastre que pusieren en riesgo a la población en cuyo caso se deberán prestar los servicios necesarios determinados por la entidad pública municipal. Las personas mayores de quince y menores de dieciocho años no podrán utilizarse para dichos trabajos, y no sufrirán por ello perjuicio en su salario, prestaciones y derechos.
 
 II. Las labores peligrosas o insalubres para mujeres.
 
-III. Las labores peligrosas e insalubres para menores de dieciséis años.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+III. Las labores peligrosas e insalubres para personas menores de dieciocho años.
 
 IV. Una jornada inhumana por lo notoriamente excesiva o peligrosa para la vida del trabajador o para la salud de la trabajadora embarazada o el producto de la concepción.
 
@@ -3531,7 +3549,9 @@ V. Un plazo mayor de quince días para el pago de sus sueldos y demás prestacio
 
 VI. Renuncia por parte del trabajador de cualesquiera de los derechos o prerrogativas que este código les otorga.
 
-VII. Las que estipulen trabajo para menores de catorce años.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
+
+VII. Las que estipulen trabajo para personas menores de quince años.
 
 VIII. Un sueldo inferior al salario mínimo general establecido para el área geográfica de que se trate.
 
@@ -4988,3 +5008,9 @@ P.O. 12 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 590.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 90 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 626.- SE REFORMA EL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 34, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 37, EL PRIMER PÁRRAFO DEL ARTÍCULO 39, LAS FRACCIONES III Y VII DEL ARTÍCULO 56, Y LA FRACCIÓN II DEL ARTÍCULO 164 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
