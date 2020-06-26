@@ -4,7 +4,7 @@ identifier: "TAB-ley-sobre-los-derechos-de-las-personas-con-discapacidad-81674"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-01"
-last_updated: "2019-08-07"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 1 de junio de 2001.
 
@@ -1233,9 +1233,13 @@ Las instituciones públicas de vivienda del Estado, otorgarán facilidades a las
 
 Las instituciones públicas de vivienda del Estado, procurarán otorgar a las personas con discapacidad, que así lo requieran, las viviendas ubicadas en planta baja, cuando se trate de condominios de una o más plantas, como una acción positiva.
 
-## TÍTULO XIII. DEL ACCESO A LA SEGURIDAD JURÍDICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2020)</small>
 
-### CAPÍTULO ÚNICO
+## TÍTULO XIII. DEL ACCESO A LA SEGURIDAD JURÍDICA Y A LA VIDA DEMOCRÁTICA
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO I. DEL ACCESO A LA SEGURIDAD JURÍDICA
 
 ###### ARTÍCULO 125.
 
@@ -1249,11 +1253,25 @@ Será responsabilidad de las autoridades competentes en materia de procuración 
 
 De igual manera, establecerán políticas públicas a efecto de informar, prevenir y denunciar los casos de explotación, trata, violencia o abuso de personas con discapacidad.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO II. DEL ACCESO A LA VIDA DEMOCRÁTICA
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+ARTÍCULO 126 BIS. Las personas con discapacidad tienen derecho a la participación en la vida pública y política del Estado, sin discriminación y en igualdad de condiciones.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+ARTÍCULO 126 TER. Las personas con discapacidad podrán participar libremente en la vida pública y política del Estado, de forma independiente o a través de los partidos o agrupaciones políticas a que se refiere la Ley Electoral y de Partidos Políticos del Estado de Tabasco, así como de las agrupaciones y asociaciones no gubernamentales relacionadas con la vida pública del Estado, o bien, mediante la incorporación o constitución de organizaciones de personas con discapacidad que las representen a nivel local o regional.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2020)</small>
+
+ARTÍCULO 126 QUÁTER. El Instituto Electoral y de Participación Ciudadana de Tabasco, procurará que las personas con discapacidad puedan ejercer sus derechos políticos sin discriminación.
 
 ## TÍTULO XIV. DE LOS PADRES Y TUTORES DE LAS PERSONAS CON DISCAPACIDAD
 
-### CAPÍTULO I
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 127.
 
@@ -1269,7 +1287,7 @@ Los padres o tutores de personas con discapacidad, podrán agruparse en sociedad
 
 ## TÍTULO XV. DEL PERRO DE ASISTENCIA
 
-### CAPÍTULO II. DE LAS RESPONSABILIDADES DE LAS PERSONAS CON DISCAPACIDAD ACOMPAÑADAS POR PERROS DE ASISTENCIA
+### CAPÍTULO I
 
 ###### ARTÍCULO 129.
 
@@ -1319,7 +1337,7 @@ III. Autobuses; y
 
 IV. Botes, barcos, lanchas o cualquier medio de transporte marítimo.
 
-### CAPÍTULO ÚNICO. DE LOS ESTÍMULOS
+### CAPÍTULO II. DE LAS RESPONSABILIDADES DE LAS PERSONAS CON DISCAPACIDAD ACOMPAÑADAS POR PERROS DE ASISTENCIA
 
 ###### ARTÍCULO 133.
 
@@ -1337,7 +1355,7 @@ El dueño de un perro de asistencia será civilmente responsable por los daños 
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO II.
+### CAPÍTULO ÚNICO. DE LOS ESTÍMULOS
 
 ###### ARTÍCULO 135.
 
@@ -1353,7 +1371,7 @@ El Ejecutivo del Estado y los ayuntamientos en el ámbito de su competencia, oto
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO II.
 
 ###### ARTÍCULO 137-A.
 
@@ -1373,7 +1391,7 @@ El Ejecutivo del Estado y los ayuntamientos en el ámbito de su competencia, oto
 
 ## TÍTULO XVII. DE LA VIGILANCIA
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 138.
 
@@ -1457,7 +1475,7 @@ Cuando la denuncia sea presentada ante una autoridad incompetente, ésta la remi
 
 En contra de las sanciones impuestas en términos de esta Ley, el particular afectado podrá optar por promover el recurso administrativo ante la autoridad competente.
 
-### CAPÍTULO III. DEL RECURSO DE RECONSIDERACIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTÍCULO 149.
 
@@ -1477,7 +1495,7 @@ IV. Concluido el período probatorio o vencido el término de la fracción I de 
 
 El cobro de las multas que imponga la Dirección de Obras y Servicios Municipales, corresponderá a la Dirección de Finanzas del respectivo ayuntamiento, y las que impongan las autoridades dependientes del Ejecutivo del Estado corresponderá a la Secretaría de Finanzas, quienes para ello harán uso del procedimiento económico coactivo, previsto en la legislación fiscal que resulte aplicable.
 
-### CAPÍTULO IV. DEL PROCEDIMIENTO
+### CAPÍTULO III. DEL RECURSO DE RECONSIDERACIÓN
 
 ###### ARTÍCULO 151.
 
@@ -1502,6 +1520,8 @@ La interposición del recurso, salvo en el caso de que trata el artículo anteri
 ###### ARTÍCULO 156.
 
 La resolución que se dicte en reconsideración no admitirá recurso alguno.
+
+### CAPÍTULO IV. DEL PROCEDIMIENTO
 
 ###### ARTÍCULO 157.
 
@@ -1658,3 +1678,15 @@ P.O. 7 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 201 POR EL QUE "SE REFORMAN LA DENOMINACIÓN DEL TÍTULO XIII, PARA QUEDAR COMO "DEL ACCESO A LA SEGURIDAD JURÍDICA Y A LA VIDA DEMOCRÁTICA", ASÍ COMO SU CAPÍTULO ÚNICO, PARA QUEDAR COMO CAPÍTULO I DENOMINADO "DEL ACCESO A LA SEGURIDAD JURÍDICA"; Y SE ADICIONA UN CAPÍTULO II DENOMINADO "DEL ACCESO A LA VIDA DEMOCRÁTICA", AL TÍTULO XIII, INTEGRADO POR LOS ARTÍCULOS 126 BIS, 126 TER Y 126 QUÁTER; TODOS DE LA LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
