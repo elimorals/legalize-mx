@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2019-01-15"
+last_updated: "2020-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -405,9 +405,9 @@ IV. Fomentar la participación y representación políticas de manera equilibrad
 
 V. Establecer medidas para erradicar la violencia de género y la violencia familiar; así como, la protección de los derechos sexuales y reproductivos y sus efectos en los ámbitos público y privado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
-VI. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico.
+VI. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico, por medio del impulso de políticas y prácticas equitativas de salarios entre ambos sexos a trabajo de igual valor, de acuerdo con lo establecido en el artículo 41 fracción XIV de la presente Ley referente a incentivar a las empresas a que apliquen políticas en la materia;
 
 VII. Implementar acciones para garantizar la igualdad de acceso y disfrute de los derechos sociales para las mujeres y los hombres promoviendo la eliminación de estereotipos en función del sexo;
 
@@ -725,11 +725,11 @@ III. Impulsar liderazgos igualitarios; y
 
 IV. Instituir medidas que fortalezcan el acceso de las mujeres al empleo y a la aplicación efectiva del principio de igualdad de trato y de no discriminación respecto de las condiciones de trabajo entre mujeres y hombres.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2020)</small>
 
 ###### Artículo 41.
 
-Acciones para la igualdad en la vida económica.
+Para los efectos de lo previsto en el artículo anterior, las entidades públicas, el sector privado y social en sus diversos ámbitos de competencia desarrollarán las siguientes acciones para la igualdad en la vida económica:
 
 Para los efectos de lo previsto en el artículo anterior, las entidades públicas desarrollarán las siguientes acciones para la igualdad en la vida económica:
 
@@ -1340,3 +1340,9 @@ P.O. 15 DE ENERO DE 2019.
 El presente Decreto entrará en vigor al día siguiente de su publicac (sic)
 
 (sic) ión en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 610.- SE REFORMA EL CONTENIDO DE LA FRACCIÓN VI, DEL ARTÍCULO 20; Y SE MODIFICA TAMBIÉN EL CONTENIDO DEL PRIMER PÁRRAFO DEL ARTÍCULO 41 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
