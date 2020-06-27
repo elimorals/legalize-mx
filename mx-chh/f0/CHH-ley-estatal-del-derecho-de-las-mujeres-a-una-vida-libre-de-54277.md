@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2020-02-05"
+last_updated: "2020-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2020.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -189,9 +189,17 @@ IV. Violencia en la comunidad: Son los actos individuales o colectivos que trans
 
 V. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
 
-VI. Violencia Política: Las acciones y/u omisiones cometidas por una persona o grupo de personas, directamente o a través de terceros, en contra de la mujer o de su familia y realizadas por razones de género, que cause daño físico, psicológico, sexual o económico y tengan por objeto o resultado impedir, anular o menoscabar el ejercicio de sus derechos políticos, incluyendo el ejercicio del cargo, o la induzca u obligue a tomar decisiones en contra de su voluntad acerca de esos derechos.
+VI. Violencia política contra las mujeres en razón de género: Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer, le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2010)</small>
 
@@ -247,37 +255,107 @@ c) El diseño e instrumentación de políticas públicas que eviten la comisión
 
 d) La verificación de los hechos y la publicidad de la verdad.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2020)</small>
 
 ###### Artículo 6
 
-e.- Para efectos de la violencia política en contra de la mujer, a que se refiere la fracción VI del artículo 6 de esta Ley, se considerará que existen razones de género, en los actos que a continuación se enlistan de manera enunciativa, mas no limitativa:
+e.- Para efectos de la violencia política contra las mujeres en razón de género, a que se refiere la fracción VI del artículo 6 de esta Ley, esta puede expresarse, entre otras, a través de las siguientes conductas:
 
-I. Proporcionar a la autoridad electoral, datos falsos o información incompleta de la identidad o sexo de la persona candidata.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
 
-II. Impedir, por cualquier medio, asistir a la toma de protesta de su encargo, así como a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
+I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres.
 
-III. Dañar, en cualquier forma, elementos de la campaña electoral de la mujer, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
 
-IV. Imponer, por estereotipos de género, la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género.
 
-V. Asignar responsabilidades que tengan como resultado la limitación del ejercicio de la función político-pública.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
 
-VI. Proporcionar información falsa, errada o imprecisa que induzca al inadecuado ejercicio de sus funciones político-pública.
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades.
 
-VII. Impedir o restringir la reincorporación de la mujer a su cargo, cuando hagan uso de una licencia justificada, incluyendo la licencia de maternidad.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
 
-VIII. Restringir el uso de la palabra, en las asambleas, sesiones u otras reuniones, así como su participación en comisiones, comités y otras instancias inherentes a su cargo, a que tenga derecho conforme a la reglamentación establecida.
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones.
 
-IX. Restringir o impedir el uso de las acciones constitucionales y legales para proteger sus derechos y/o evitar el cumplimiento de las resoluciones correspondientes. Imponer sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
 
-X. Aplicar sanciones pecuniarias, descuentos arbitrarios e ilegales y/o retención de salarios.
+V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso.
 
-XI. Divulgar o revelar información personal y privada con el objetivo de menoscabar la dignidad de la mujer como ser humano, o información falsa relativa a sus funciones con el objetivo de desprestigiar su gestión, ambos como medios de presión para obtener contra su voluntad la renuncia y/o licencia al cargo que ejerce o postula.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
 
-XII. Divulgar información falsa con el objetivo de desprestigiar su gestión y obtener contra su voluntad la renuncia y/o licencia al cargo que ejerce o postula.
+VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, que induzca al incorrecto ejercicio de sus atribuciones.
 
-XIII. Obligar a la mujer, mediante la fuerza o intimidación, a suscribir todo tipo de documentos y/o avalar decisiones contrarias a su voluntad, al interés público o general.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+VIII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XI. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XII. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XIII. Restringir los derechos políticos de las mujeres con base en la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XIV. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XV. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XVI. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XVIII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XIX. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XXII. Asignar responsabilidades que tengan como resultado la limitación del ejercicio de la función político-pública.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+XXIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 ###### Artículo 7.
 
@@ -339,9 +417,111 @@ El Estado y los municipios, impulsarán la cultura de protección a los derechos
 
 Los municipios expedirán los reglamentos y adecuarán los vigentes en las disposiciones vinculadas a la materia de la presente Ley y adoptarán las medidas administrativas necesarias para dar cumplimiento a la misma.
 
-### CAPÍTULO SEGUNDO. DEL SISTEMA ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2020)</small>
 
-### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+### CAPÍTULO PRIMERO BIS. DE LAS ÓRDENES DE PROTECCIÓN
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
+
+###### Artículo 12
+
+a.- Las órdenes de protección, son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Estatal Electoral y el Instituto Estatal Electoral podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
+
+###### Artículo 12
+
+b.- Las órdenes de protección que consagra la presente Ley son personalísimas e intransferibles y podrán ser:
+
+I. De emergencia.
+
+II. Preventivas.
+
+III. De naturaleza civil.
+
+Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 72 horas y deberán expedirse dentro de las 8 horas siguientes al conocimiento de los hechos que las generan.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
+
+###### Artículo 12
+
+c.- Son órdenes de protección de emergencia, las siguientes:
+
+I. Desocupación inmediata del agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo.
+
+II. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima.
+
+III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad.
+
+IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
+
+###### Artículo 12
+
+d.- Son órdenes de protección preventivas, las siguientes:
+
+I. Retención y guarda de armas de fuego propiedad del agresor o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia.
+
+Es aplicable lo anterior a las armas punzocortantes y punzocontundentes que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima.
+
+II. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima.
+
+III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima.
+
+IV. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos.
+
+V. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos.
+
+VI. Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio.
+
+VII. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género, al agresor, en instituciones públicas debidamente acreditadas.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
+
+###### Artículo 12
+
+e.- Corresponderá a las autoridades estatales, en el ámbito de sus competencias, otorgar las órdenes de emergencia y preventivas de la presente Ley, y deberán tomar en consideración:
+
+I. El riesgo o peligro existente.
+
+II. La seguridad de la víctima.
+
+III. Los elementos con que se cuente.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
+
+###### Artículo 12
+
+f.- Son órdenes de protección de naturaleza civil, las siguientes:
+
+I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes.
+
+II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal.
+
+III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio.
+
+IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias.
+
+V. Obligación alimentaria provisional e inmediata.
+
+Serán tramitadas ante los tribunales de primera instancia en materia familiar o, a falta de estos, en los de materia civil que corresponda.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
+
+###### Artículo 12
+
+g.- Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes y la determinación de medidas similares en sus resoluciones o sentencias. Lo anterior con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2020)</small>
+
+###### Artículo 12
+
+h.- Las personas mayores de 12 años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de 12 años, solo podrán solicitar las órdenes a través de sus representantes legales.
+
+### CAPÍTULO SEGUNDO. DEL SISTEMA ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
 ###### Artículo 13.
 
@@ -357,17 +537,17 @@ Los recursos humanos, financieros y materiales que conformen el Sistema serán r
 
 La aportación voluntaria de recursos a cargo de particulares no implica la transferencia de los mismos.
 
-### CAPÍTULO CUARTO. DEL PROGRAMA INTEGRAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
 ###### Artículo 16.
 
 El Consejo es el órgano del Sistema, con funciones de coordinación de acciones y de participación social, para la planeación de la prevención, atención y erradicación de la violencia contra las mujeres, así como la protección y asistencia de las víctimas en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2020)</small>
 
 ###### Artículo 17.
 
-El Consejo estará integrado por las personas que ocupen la titularidad de:
+El Consejo estará integrado por las personas titulares o representantes legales de:
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -398,6 +578,10 @@ VII. Quien presida la Comisión de Igualdad del Poder Legislativo del Estado.
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
 
 VIII. El Instituto Estatal Electoral.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+IX. Comisión Estatal para los Pueblos Indígenas.
 
 Podrán ser invitados a las sesiones del Consejo las y los Secretarios, Directores, Directoras, Coordinadores y Coordinadoras Generales o cualquier funcionario o funcionaria de la administración pública estatal, así como asesores externos, cuando por la naturaleza de algún asunto a tratar, y a consideración de la Presidencia del Consejo, sea necesario su punto de vista para la toma de decisiones, mismos que participarán dentro de él, con voz, pero sin voto.
 
@@ -459,7 +643,7 @@ El cargo de Consejero o Consejera es de carácter honorario y tratándose de ser
 
 La designación de las y los representantes de las organizaciones de la sociedad civil en el Estado que trabajen con y para mujeres, a que se refiere la fracción VI del artículo 18 de esta Ley, se realizará por el resto de los miembros del propio Consejo y de entre las personas que respondan a la convocatoria emitida para tal efecto.
 
-### CAPÍTULO QUINTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO CUARTO. DEL PROGRAMA INTEGRAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
 ###### Artículo 24.
 
@@ -501,11 +685,11 @@ XI. Sensibilizar y capacitar, con enfoque intercultural de educación democráti
 
 XII. Facilitar el fortalecimiento de los liderazgos de las mujeres y su permanencia en los espacios de toma de decisiones.
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
 
-XIII. Definir recomendaciones específicas mediante las cuales las instituciones públicas, políticas, sociales, privadas, electorales y sindicales creen sus propios instrumentos y mecanismos internos para prevenir y combatir la violencia política contra las mujeres.
+XIII. Definir recomendaciones específicas mediante las cuales las instituciones públicas, políticas, sociales, privadas, electorales y sindicales creen sus propios instrumentos y mecanismos internos para prevenir y combatir la violencia contra las mujeres en razón de género.
 
-### CAPÍTULO SEXTO. DE LA PREVENCIÓN DE LA VIOLENCIA FAMILIAR Y LA ASISTENCIA A SUS VICTIMAS
+### CAPÍTULO QUINTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 ###### Artículo 26.
 
@@ -691,9 +875,9 @@ XVI. Implementar, en coordinación con las autoridades federales, en el ámbito 
 
 XVII. Las demás previstas para el cumplimiento de esta Ley.
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
 
-XVIII. Promover y proteger el ejercicio de los derechos humanos de las personas víctimas y ofendidas en casos de violencia política contra las mujeres.
+XVIII. Promover y proteger el ejercicio de los derechos humanos de las personas víctimas y ofendidas en casos de violencia contra las mujeres en razón de género.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -791,23 +975,47 @@ VII. Promover la participación de organismos públicos, privados y de la socied
 
 VIII. Las demás previstas para el cumplimiento de esta Ley.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2020)</small>
 
-Artículo 35 BIS.- Corresponde a la Unidad de Igualdad de Género del Instituto Estatal Electoral:
+Artículo 35 BIS.- Corresponde al Instituto Estatal Electoral y al Tribunal Estatal Electoral, en el ámbito de sus respectivas competencias:
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 I. Prevenir, atender y erradicar la violencia política en contra de las mujeres.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 II. Recopilar estadísticas sobre la violencia política contra las mujeres, en el ámbito electoral, que permitan diagnosticar el problema y diseñar acciones concretas.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 III. Difundir de manera permanente, en los medios de comunicación, respecto a las conductas, acciones u omisiones que conllevan a la violencia política, así como la prevención, formas de denuncia y conciencia sobre la erradicación de la violencia política en contra de las mujeres.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 IV. Capacitar sobre violencia política contra las mujeres a: simpatizantes, militantes, precandidatas, precandidatos, candidatas, candidatos de los partidos políticos o independientes, a funcionarias y funcionarios de mesas directivas en jornada electoral y al personal que labora en el propio Instituto.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 V. Incluir en sus programas de capacitación y formación sobre medios de impugnación electoral el tema de la violencia política, incentivando el litigio estratégico en estos casos.
 
-VI. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2020)</small>
 
-### CAPÍTULO SÉPTIMO. DE LOS REFUGIOS PARA LA ATENCIÓN A MUJERES VICTIMAS DE VIOLENCIA
+VI. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+VII. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en prensa y medios electrónicos que difundan noticias, durante los procesos electorales.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2020)</small>
+
+VIII. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2020)</small>
+
+IX. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+
+### CAPÍTULO SEXTO. DE LA PREVENCIÓN DE LA VIOLENCIA FAMILIAR Y LA ASISTENCIA A SUS VICTIMAS
 
 ###### Artículo 36.
 
@@ -864,6 +1072,8 @@ IV. Promover servicios de asistencia para la rehabilitación de los agresores;
 V. Evitar que la atención que reciban las víctimas y el agresor sea proporcionada por la misma persona; y
 
 VI. Prohibir los acuerdos reparatorios, por ser inviables en una relación de sometimiento entre la víctima y el agresor.
+
+### CAPÍTULO SÉPTIMO. DE LOS REFUGIOS PARA LA ATENCIÓN A MUJERES VICTIMAS DE VIOLENCIA
 
 ### CAPÍTULO OCTAVO. DE LOS CENTROS DE REHABILITACIÓN PARA AGRESORES
 
@@ -1220,3 +1430,15 @@ P.O. 5 DE FEBRERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0722/2020 VI P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
