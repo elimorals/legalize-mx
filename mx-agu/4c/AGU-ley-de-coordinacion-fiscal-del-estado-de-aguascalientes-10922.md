@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-coordinacion-fiscal-del-estado-de-aguascalientes-10922"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-03"
-last_updated: "2019-12-16"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de noviembre de 1996.
 
@@ -79,7 +79,9 @@ XII.- "Impuesto sobre Tenencia o Uso de Vehículos", el Impuesto sobre Tenencia 
 
 XIII.- "Impuesto a la Gasolina y Diesel" los recursos económicos que otorgue la Federación, de conformidad con lo señalado en el numeral I del Artículo 4°-A de la Ley de Coordinación Fiscal;
 
-XIV.- "Incentivos", los ingresos que reciben los Estados y Municipios por concepto de la recaudación que se obtenga del Impuesto sobre Tenencia o Uso de Vehículos, así como por el Impuesto Especial sobre Producción y Servicios, el Impuesto Sobre Automóviles Nuevos en los porcentajes y forma que se señala en la Ley de Coordinación Fiscal;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+XIV.- "Incentivos", los ingresos que reciben los Estados y Municipios por concepto de la recaudación que se obtenga del Impuesto sobre Tenencia o Uso de Vehículos, así como por el Impuesto Especial sobre Producción y Servicios, el Impuesto Sobre Automóviles Nuevos y el Impuesto Sobre la Renta en los porcentajes y forma que se señala en la Ley de Coordinación Fiscal, así como los establecidos en el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Aguascalientes;
 
 XV.- "Impuesto Sobre la Renta Participable", el establecido en el Artículo 3-B de la Ley de Coordinación Fiscal, para los municipios;
 
@@ -97,19 +99,23 @@ XXI.- "Sistema", el Sistema de Coordinación Fiscal del Estado el cual consiste 
 
 ### CAPITULO II. De las Participaciones e Incentivos a los Municipios en Ingresos Federales
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 3o.
 
-Para efectos de esta Ley, son participaciones e incentivos, las asignaciones que correspondan al Estado y a los Municipios en los ingresos federales del Fondo General de Participaciones, del Fondo de Fomento Municipal, del Fondo de Fiscalización y Recaudación, del Fondo de Compensación del Régimen de Incorporación Fiscal, del Impuesto a la Gasolina y Diesel, del Impuesto Sobre la Renta Participable, del Impuesto Especial sobre Producción y Servicios, del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal, así como del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior.
+Para efectos de esta Ley, son participaciones e incentivos, las asignaciones que correspondan al Estado y a los Municipios en los ingresos federales del Fondo General de Participaciones, del Fondo de Fomento Municipal, del Fondo de Fiscalización y Recaudación, del Fondo de Compensación del Régimen de Incorporación Fiscal, del Impuesto a la Gasolina y Diesel, del Impuesto Sobre la Renta Participable, del Impuesto Especial sobre Producción y Servicios, del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal, del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior, así como del artículo 126, de la Ley del Impuesto Sobre la Renta, en términos de lo dispuesto por el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Aguascalientes.
 
-A los municipios les corresponderá el 23% del Fondo General de Participaciones, el 100% del Fondo de Fomento Municipal, el 23% del Fondo de Fiscalización y Recaudación, hasta el 23% del Fondo de Compensación del Régimen de Incorporación Fiscal, el 23% del Impuesto a la Gasolina y Diesel, el 100% del Impuesto Sobre la Renta Participable, el 23% del Impuesto Especial sobre Producción y Servicios, el 23% del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal, así como el 23% del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+A los municipios les corresponderá el 23% del Fondo General de Participaciones, el 100% del Fondo de Fomento Municipal, el 23% del Fondo de Fiscalización y Recaudación, hasta el 23% del Fondo de Compensación del Régimen de Incorporación Fiscal, el 23% del Impuesto a la Gasolina y Diesel, el 100% del Impuesto Sobre la Renta Participable, el 23% del Impuesto Especial sobre Producción y Servicios, el 23% del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal, el 23% del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior, así como el 23% del Impuesto Sobre la Renta por enajenación de bienes inmuebles en el territorio del Estado, en proporción al porcentaje que éste reciba, de conformidad con el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Aguascalientes.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2018)</small>
 
 Con el 4.3% de la recaudación de las participaciones e incentivos de las Fracciones I, IV, V y VIII del presente Artículo, se constituirá el Fondo Resarcitorio y se distribuirá a los Municipios de acuerdo a la siguiente fórmula:
 
 > <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 64.]</small>
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 El 95.7% restante de las fracciones I, IV, V y VIII, así como con las participaciones a que se refieren las Fracciones II, III, VI, VII, IX y X del presente Artículo, se distribuirán conforme a lo siguiente:
 
@@ -164,6 +170,14 @@ X.- El 100% del Impuesto Sobre la Renta Participable enterado por cada municipio
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2018)</small>
 
 La fórmula de las fracciones I, II, IV, V, VIII y IX no será aplicable en el evento de que en el año que se calcula, el monto de alguno de estos fondos sea inferior al obtenido en 2014. En dicho supuesto la distribución se realizará, en relación con la cantidad efectivamente generada en el año que se calcula y de acuerdo al coeficiente efectivo que cada municipio haya recibido en 2014 en los fondos mencionados donde se verifique el supuesto.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+XI.- Del 23% proporcional del Impuesto Sobre la Renta por enajenaciones de bienes inmuebles dentro del territorio del Estado de Aguascalientes que se prevé en el párrafo segundo del presente artículo y previsto en el artículo 126 de la Ley del Impuesto Sobre la Renta, de conformidad con el apartado A de la fracción VI, de la Cláusula Décima Novena del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Aguascalientes, será distribuido a los municipios de acuerdo a la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. DE 29 DE JUNIO DE 2020, PÁGINAS 12 Y 13.]</small>
+
+Los recursos que se transferirán a cada uno de los Municipios se realizará a razón del 100% de los ingresos recaudados por concepto de Impuesto Sobre la Renta a que hace referencia el artículo 126 de la Ley de la Materia, considerando que se cumplan las condiciones previstas en el apartado A fracción VI de la Cláusula DÉCIMA NOVENA del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Aguascalientes, por lo que, en caso de que se incumpla con las metas establecidas en el programa operativo anual de auditorías pactado entre Estado-Federación, dichos recursos serán objeto de ajustes al término del ejercicio fiscal correspondiente.
 
 ###### ARTICULO 4o.
 
@@ -536,3 +550,19 @@ P.O. 16 DE DICIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 358.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 2°, FRACCIÓN XIV; Y 3°, PÁRRAFOS PRIMERO Y SEGUNDO; Y SE ADICIONA UNA FRACCIÓN XI AL PÁRRAFO CUARTO DEL ARTÍCULO 3° DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta al 23% proporcional del Impuesto Sobre la Renta por enajenaciones de bienes inmuebles dentro del territorio del Estado de Aguascalientes, previsto en el párrafo segundo del Artículo 3° de la presente Ley, recibido desde el mes de enero de 2020, a la fecha de la publicación del presente Decreto, el Titular del Ejecutivo, a través de la Secretaría de Finanzas, procederá (sic) realizar la distribución a los Municipios conforme a lo dispuesto en la fracción XI del citado artículo, en un plazo de 5 días hábiles posteriores a la presente publicación.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
