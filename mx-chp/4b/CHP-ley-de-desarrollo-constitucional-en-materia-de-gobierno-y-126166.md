@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2020-05-04"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -211,13 +211,21 @@ VI.- Desempeñar las funciones electorales y censales que les sean encomendadas;
 
 VII.- Formar parte de los consejos de participación y colaboración vecinal cumpliendo con funciones que se les encomienden;
 
-VIII.- Las demás que determine esta Ley, los bandos y reglamentos municipales, así como en otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2020)</small>
+
+VIII.- Tratándose de los pueblos y comunidades indígenas, cumplir con las obligaciones, contribuciones y los cargos que la comunidad les señale conforme a los sistemas normativos internos, en estricto respeto a las garantías que establecen las constituciones federal y local.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JUNIO DE 2020)</small>
+
+IX.- Las demás que determine esta Ley, los bandos y reglamentos municipales, así como en otras disposiciones legales aplicables.
 
 ## Título Cuarto. Del Gobierno Municipal
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 29.
 
-El Gobierno y la administración de cada uno de los Municipios del Estado de Chiapas, estarán a cargo de los Ayuntamientos respectivos, quienes serán designados por elección popular directa, realizada con apego a las disposiciones legales correspondientes, salvo los casos de excepción contemplados en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Chiapas.
+El Gobierno y la administración de cada uno de los Municipios del Estado de Chiapas, estarán a cargo de los Ayuntamientos respectivos, quienes serán designados por elección popular directa o a través de sus Sistemas Normativos Internos, conforme lo establezcan las disposiciones legales correspondientes, salvo los casos de excepción contemplados en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Chiapas.
 
 ###### Artículo 30.
 
@@ -233,9 +241,11 @@ Las personas en el servicio público que pertenezcan al gobierno municipal, debe
 
 En cada Municipio se establecerá un gobierno a través de un Ayuntamiento, que estará integrado por un Presidente Municipal, el número de Síndicos, Regidores e integrantes de representación proporcional que la ley determine, quienes serán electos democráticamente; la Ley establecerá los requisitos para su conformación.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 33.
 
-Los Ayuntamientos tendrán una duración de tres años y podrán reelegirse en términos del Código de Elecciones y Participación Ciudadana; serán asambleas deliberantes y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de estas corresponderá exclusivamente a los presidentes municipales.
+Los Ayuntamientos tendrán una duración de tres años y podrán reelegirse en términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Chiapas; serán asambleas deliberantes y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de estas corresponderá exclusivamente a los presidentes municipales.
 
 ###### Artículo 34.
 
@@ -261,23 +271,25 @@ En su caso el Congreso del Estado, o la Comisión Permanente, podrá obtener la 
 
 #### Sección Primera. Integración del Ayuntamiento
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 38.
 
 Los Ayuntamientos estarán integrados por:
 
-I. Un Presidente, un Síndico Propietario y su suplente; tres Regidores Propietarios y sus Suplentes de Mayoría Relativa, en aquellos Municipios cuya población no exceda de 15 mil habitantes.
+I. Una Presidenta o Presidente, una Sindica o Síndico Propietario; tres Regidoras o Regidores Propietarios y sus Suplentes generales de Mayoría Relativa, en aquellos Municipios cuya población no exceda de 15 mil habitantes;
 
-II. Un Presidente, un Síndico Propietario y su suplente; cinco Regidores Propietarios y tres Suplentes de Mayoría Relativa en aquellos Municipios cuya población sea de más de 15 mil habitantes y no exceda de 100,000 habitantes.
+II. Una Presidenta o Presidente, una Sindica o Síndico Propietario, cinco Regidoras o Regidores Propietarios y tres Suplentes generales de Mayoría Relativa en aquellos Municipios cuya población sea de más (sic) 15 mil habitantes y no exceda de 100,000 habitantes.
 
-III. Un Presidente, un Síndico Propietario y un Suplente; seis Regidores Propietarios y cuatro Suplentes de Mayoría Relativa en aquellos Municipios cuya población sea de más de 100 mil habitantes.
+III. Una Presidenta o Presidente, una Sindica o Síndico Propietario; seis Regidoras o Regidores Propietarios y cuatro Suplentes generales de Mayoría Relativa en aquellos Municipios cuya población sea de más de 100 mil habitantes.
 
-Además de aquéllos electos por el sistema de mayoría relativa, los Ayuntamientos se integrarán con un número adicional de regidores, electos según el principio de representación proporcional y con base en las fórmulas y procedimientos determinados por el Código de Elecciones y Participación Ciudadana, conforme a lo siguiente:
+Además de aquéllos electos por el sistema de mayoría relativa, los Ayuntamientos se integrarán con un número adicional de regidoras o regidores, electos según el principio de representación proporcional y con base en las fórmulas y procedimientos determinados por la Ley de Instituciones y Procedimientos Electorales del Estado de Chiapas, conforme a lo siguiente:
 
-A. En los Municipios con población hasta de 15 mil quinientos habitantes, se integrarán con dos Regidores más.
+A. En los Municipios con población hasta de 15 mil quinientos habitantes, se integrarán con dos Regidurías más.
 
-B. En los Municipios con población de 15 mil quinientos o mas habitantes, con tres Regidores más.
+B. En los Municipios con población de 15 mil quinientos o más habitantes, con tres Regidurías más.
 
-La Ley reglamentaria determinará las fórmulas y procedimientos para la asignación de estas Regidurías.
+La Ley de la materia, determinará las fórmulas y procedimientos para la asignación de estas Regidurías.
 
 El desempeño de un cargo de los señalados para integrar los Ayuntamientos, es incompatible con cualquier otro de la Federación o del Estado.
 
@@ -287,13 +299,17 @@ El desempeño de un cargo de los señalados para integrar los Ayuntamientos, es 
 
 Para ser miembro de un Ayuntamiento se requiere:
 
-I. Ser ciudadano chiapaneco por nacimiento en pleno goce de sus derechos.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+I. Ser ciudadana o ciudadano chiapaneco por nacimiento en pleno goce de sus derechos.
 
 II. Saber leer y escribir.
 
 III. No pertenecer al Estado eclesiástico ni ser ministro de algún culto religioso.
 
-IV. Ser originario del Municipio, con residencia mínima de un año o ciudadano chiapaneco, con una residencia mínima de cinco años en el Municipio de que se trate.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+IV. Ser originaria u originario del Municipio, con residencia mínima de un año o ciudadana o ciudadano chiapaneco, con una residencia mínima de cinco años en el Municipio de que se trate.
 
 V. No prestar servicios a gobiernos o instituciones extranjeras.
 
@@ -301,23 +317,41 @@ VI. No ser cónyuge, concubino, concubina, hermana o hermano, madre, padre, hija
 
 VII. Tener un modo honesto de vivir.
 
-VIII. No haber sido condenado por delito doloso con cinco años de antelación al día de elección.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-IX. No estar comprendido en alguna de las causas de inelegibilidad que establece el Código de Elecciones y Participación Ciudadana del Estado de Chiapas.
+VIII. No estar sujeto a vinculación a proceso por delitos que la legislación penal tipifique como hechos de corrupción, en términos de lo dispuesto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Chiapas, con un año de antelación al día de la jornada electoral.
 
-Los mismos requisitos serán exigibles al Tesorero Municipal, Secretario del Ayuntamiento y los titulares del ramo de obras públicas o cargos equivalentes con percepciones similares.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2020)</small>
+
+IX. No haber sido sentenciado a pena privativa de libertad por delito doloso o de violencia política y en razón de género, con cinco años de antelación al día de la elección.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JUNIO DE 2020)</small>
+
+X. No estar comprendido en alguna de las causas de inelegibilidad que establece la Ley de Instituciones y Procedimientos Electorales del Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Los mismos requisitos serán exigibles a las personas titulares de la Tesorería Municipal, Secretaría del Ayuntamiento y titulares del ramo de obras públicas o cargos equivalentes con percepciones similares.
 
 Además de los requisitos anteriores, se exigirá según corresponda, los siguientes en específico:
 
-I. Para ser Secretario del Ayuntamiento, contar con Certificación de capacitación y competencia laboral vigente en la materia de acuerdo a las funciones que desempeña en el cargo, expedida por un centro certificado de CONOCER, con especialidad en Administración Pública Municipal residente en el Estado de Chiapas; tener título y cédula profesional de carrera afín orientada a las ciencias sociales o áreas económico-administrativas.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-II. Para ser Tesorero Municipal de un Ayuntamiento se requieren los mismos requisitos para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas económico–administrativos (sic). Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas; así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido (sic) por el Órgano de Fiscalización del Congreso del Estado.
+I. Para ser Secretaria o Secretario del Ayuntamiento, contar con Certificación de capacitación y competencia laboral vigente en la materia de acuerdo a las funciones que desempeña en el cargo, expedida por un centro certificado de CONOCER, con especialidad en Administración Pública Municipal residente en el Estado de Chiapas; tener título y cédula profesional de carrera afín orientada a las ciencias sociales o áreas económico-administrativas.
 
-III. Para ser Director de Obras Públicas Municipales de un Ayuntamiento se requieren los mismos requisitos para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas de la construcción. Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas, así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido por el Órgano de Fiscalización del Congreso del Estado.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-IV. Para ser Secretario de la Juventud, recreación y Deporte dentro del Municipio, se deberá cumplir con los mismos requisitos para ser miembro de ayuntamiento, además de demostrar una conducta pública adecuada y no haber sido condenado por delito intencional en ningún momento, presentar un Plan de trabajo, y tener entre 18 y 29 años de edad, además de acreditar tener título y cédula profesional.
+II. Para ser Tesorera o Tesorero Municipal de un Ayuntamiento se requieren los mismos requisitos para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas económico–administrativos. Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas; así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido por el Órgano de Fiscalización del Congreso del Estado.
 
-Las Constancias de que no mantienen persistentes observaciones o procedimientos instaurados en su contra, con motivo de gestiones emitidas por el Órgano de Fiscalización del Congreso del Estado, serán elaboradas de conformidad con las “Reglas de Operación para la Emisión de Constancias de No Observaciones o Procedimientos de Auditorías Pendientes” que al efecto emita el Órgano de Fiscalización del Congreso del Estado.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+III. Para ser Directora o Director de Obras Públicas Municipales de un Ayuntamiento se requieren los mismos requisitos para ser miembro de un Ayuntamiento; con excepción del requisito de formación profesional que será en alguna de las áreas de la construcción. Además, contar con certificación de capacitación y competencia laboral vigente en la materia de acuerdo a sus funciones que desempeña, expedida por un centro certificador de CONOCER, con especialidad en la Administración Pública Municipal residente en el Estado de Chiapas, así mismo y en su caso en que estos hayan desempeñado funciones en este mismo cargo durante administraciones municipales anteriores, deberán contar con la constancia de que no mantienen persistentes observaciones, o procedimientos instaurados en su contra, con motivo de su gestión, emitido por el Órgano de Fiscalización del Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+IV. Para ser Secretaria o Secretario de la Juventud, recreación y Deporte dentro del Municipio, se deberá cumplir con los mismos requisitos para ser miembro de ayuntamiento, además de demostrar una conducta pública adecuada y no haber sido condenado por delito intencional en ningún momento, presentar un Plan de trabajo, y tener entre 18 y 29 años de edad, además de acreditar tener título y cédula profesional.
+
+Las Constancias de que no mantienen persistentes observaciones o procedimientos instaurados en su contra, con motivo de gestiones emitidas por el Órgano de Fiscalización del Congreso del Estado, serán elaboradas de conformidad con las "Reglas de Operación para la Emisión de Constancias de No Observaciones o Procedimientos de Auditorías Pendientes" que al efecto emita el Órgano de Fiscalización del Congreso del Estado.
 
 #### Sección Segunda. De la Renovación del Ayuntamiento
 
@@ -2562,3 +2596,11 @@ Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al pr
 Artículo Tercero.- Las atribuciones y/o referencias que las disposiciones legales otorgaban a la Contraloría Interna Municipal, serán asumidas inmediatamente y se entenderán conferidas al Órgano Interno de Control.
 
 Artículo Cuarto.- Los compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiere contraído la Contraloría Interna Municipal, seguirán siendo atendidos por el Órgano Interno de Control.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 238 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
