@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2020-01-10"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -297,17 +297,21 @@ El Consejo Consultivo Ciudadano de la Secretaría que se establezca en los térm
 
 Adicionalmente a lo dispuesto por los tratados internacionales, ley de inversión extranjera, leyes fiscales estatales y municipales, así como en el Plan Estatal de Desarrollo, el Consejo en los términos de la presente Ley, podrá aprobar el otorgamiento de incentivos a la inversión nacional y extranjera, para la creación de nuevas empresas y fomentar el empleo para fortalecer e incrementar la capacidad de operación de las empresas ya existentes en el Estado, con el fin de seguir creando nuevas fuentes de empleo.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 ###### Artículo 21 Bis.
 
-Para el otorgamiento de los incentivos contemplados en el Artículo 27, fracción I, inciso a) de la presente Ley, el Consejo deberá dar preferencia a aquellas empresas de nueva creación denominadas "empresa emergente" o "Startups", y aquellas empresas que contraten trabajadores de primer empleo.
+Para el otorgamiento de los incentivos contemplados en el Artículo 27, fracción I, inciso a) de la presente Ley, el Consejo deberá dar preferencia a aquellas empresas de nueva creación denominadas empresa emergente o “Startups”, y a aquellas empresas que contraten trabajadores de primer empleo y a personas adultas mayores.
 
 ###### Artículo 22.
 
 Corresponderá al Consejo resolver sobre el tipo, monto, plazos, términos y condiciones del otorgamiento de incentivos, previo análisis de la Secretaría.
 
 El Consejo podrá crear nuevos incentivos no económicos en favor de la inversión, con la aprobación unánime de los miembros del Consejo.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+El estimulo al primer empleo la Secretaría lo otorgará de forma automática a todas aquellas empresas que cumplan con lo estipulado en los Capítulos Tercero Bis y Tercero Bis I.
 
 ###### Artículo 23.
 
@@ -419,11 +423,123 @@ Para el otorgamiento de incentivos, el Poder Ejecutivo del Estado podrá constit
 
 Este Fideicomiso se podrá complementar con aportaciones adicionales provenientes del gobierno federal, estatal, municipal, organismos descentralizados, de la iniciativa privada y/o cualquier otro recurso que sea lícito.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO TERCERO BIS. “DE LOS INCENTIVOS AL PRIMER EMPLEO DE LOS JOVENES”
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+###### Artículo 33 Bis.
+
+Son beneficiarios de lo establecido en el presente capitulo:
+
+I. Las y los jóvenes egresados de nivel Técnico Superior o de Educación Superior de dieciocho a veintinueve años de edad que no tengan registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social.
+
+II. Los patrones que estén sujetos al apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 33 Bis I. Los patrones que contraten a un Trabajador de Primer Empleo para ocupar puestos de nueva creación y lo inscriban ante el Instituto Mexicano del Seguro Social, y ante el padrón del Instituto Estatal de la Juventud, al que hace referencia el artículo 33 Bis II, gozarán de un estímulo que consiste en una reducción del cien por ciento sobre el pago del Impuesto Sobre Nóminas del Trabajador de Primer Empleo, por un periodo de veinticuatro meses a partir del registro.
+
+Dicha reducción, se aplicará directamente a la tasa del impuesto que se cause únicamente por los Trabajadores de Primer Empleo que ocupen un puesto de nueva creación, en el mismo periodo a declarar.
+
+Transcurrido el plazo señalado, las empresas dejarán de gozar el beneficio fiscal al que hace referencia este artículo, sobre los puestos de nueva creación.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 33 Bis II. El Instituto Estatal de la Juventud es el órgano competente para la creación y administración del Padrón Único de Registro de los beneficiarios de los incentivos del Primer Empleo y la Primera Empresa, así como de la inscripción de los solicitantes al padrón conforme a los procedimientos que para tal efecto disponga.
+
+El Padrón de Beneficiarios de los incentivos del Primer Empleo y a la Primera Empresa es el instrumento público mediante el cual el Estado garantizará el acceso a los estímulos fiscales otorgados por la contratación de Trabajadores de Primer Empleo y por la creación de nuevas entidades económicas bajo las condiciones establecidas en la presente Ley y su Reglamento.
+
+El Instituto Estatal de la Juventud informará mensualmente (sic) la Secretaría de Finanzas y Tesorería General del Estado sobre los registros del Padrón de Beneficiarios a fin de que la Secretaría realice los ajustes correspondientes al estímulo fiscal de los contribuyentes que cumplan con los requisitos para su obtención.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 33 Bis III. Para que la empresa que incorpore jóvenes trabajadores del primer empleo pueda obtener los beneficios establecidos en esta ley deberá cumplir con los siguientes requisitos:
+
+I. Estar legalmente constituida conforme a lo establecido en el artículo 6 de la Ley de Sociedades Mercantiles;
+
+II. Contar con registro patronal ante el Instituto Mexicano del Seguro Social;
+
+III. Estar al corriente en el cumplimiento de sus obligaciones tributarias de conformidad con lo establecido en los ordenamientos jurídicos aplicables;
+
+IV. Inscribir previamente al Trabajador de Primer Empleo ante el Instituto Mexicano del Seguro Social gozando de todos los derechos y beneficios establecidos en las normas laborales vigentes y de todas las prestaciones de Seguridad Social, de conformidad con la Legislación Federal aplicable;
+
+V. Presentar las altas ante el Instituto de la Juventud, a fin de inscribirse en el Padrón de Beneficiarios de los Estímulos del Primer Empleo;
+
+VI. Acreditar que están en situación regular de pagos de todos sus trabajadores con las contribuciones jurídicos (sic) aplicables;
+
+VII. No tener a su cargo créditos fiscales firmes con el Instituto Mexicano del Seguro Social, la Secretaría de Hacienda y Crédito Público y la Secretaría de Finanzas y Tesorería General del Estado;
+
+VIII. No haber efectuado en los sesenta días anteriores a la contratación, ni durante el plazo de la misma, despidos de personal permanente que realice tareas iguales o similares a las que el Joven contratado vaya a realizar en la empresa respectiva;
+
+IX. Entregar la documentación e información que reglamentariamente se determine;
+
+X. Entregar informes, datos y documentación que les sea requerido con relación al puesto de nueva creación o del trabajador del primer empleo; y
+
+XI. Los demás que determine ésta Ley, el reglamento y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 33 Bis IV. Para acceder al estímulo al que hace referencia el artículo 33 Bis II, las empresas deberán garantizar que los aspirantes a un puesto de nueva creación, cumplan con los siguientes requisitos:
+
+I. Ser mayor de 18 años y menor de 29 años de edad;
+
+II. Ser residente del Estado de Nuevo León;
+
+III. Contar con Clave Única de Registro de Población;
+
+IV. Contar con título profesional, carta de culminación de estudios, o certificado que acredite haber terminado sus estudios como Técnico;
+
+V. No contar con registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, derivado de una relación laboral anterior;
+
+VI. No percibir otros ingresos económicos por concepto de subsidio o relación laboral diversa; y
+
+VII. No ser beneficiario de subsidio al desempleo o similar por parte de otra instancia.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 33 Bis V. Las empresas que reciban el estímulo fiscal establecido en el artículo 33 Bis II de la presente Ley promoverán el acceso de las y los jóvenes egresados, tanto del nivel técnico superior como de una educación superior, que acrediten haber concluido su servicio social o prácticas profesionales, a los puestos de nueva creación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO TERCERO BIS I. “DE LA PRIMERA EMPRESA”
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 33 Bis VI. El estímulo de Fomento a la Primera Empresa tiene por objeto propiciar la creación de nuevas entidades económicas empresariales, así como la autogeneración de empleos por jóvenes nuevoleoneses a través de la implementación de incentivos de apoyo.
+
+A las primeras empresas creadas por jóvenes, se les otorgará un estímulo del subsidio del cien por ciento del pago del Impuesto Sobre la Nómina durante 24 meses desde su creación.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 33 Bis VII. Para que los jóvenes que establezcan una Primera Empresa puedan obtener los beneficios establecidos en éste Capítulo, deberán cumplir con los siguientes requisitos:
+
+I. Ser mayor de 18 años y menor de 29 años de edad;
+
+II. Constituirse formalmente como persona física con actividad empresarial o como persona moral, según sea el caso;
+
+III. Ser nuevoleonés por nacimiento o contar con una residencia comprobable de al menos un año en el Estado o municipio donde se instalará la empresa;
+
+IV. No haber estado inscrito previamente como persona moral o física con actividad empresarial; e
+
+V. Inscribirse en el Padrón de la Primera Empresa ante el Instituto Estatal de la Juventud.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 33 Bis VIII. El Instituto Estatal de la Juventud y la Secretaría de Economía y Trabajo, promoverán el emprendimiento entre los Jóvenes del Estado y garantizarán la inversión pública para sus ideas y proyectos innovadores, para lo cual generarán:
+
+I. Mecanismos para promover y financiar empresas sostenibles;
+
+II. La educación en la cultura emprendedora en los jóvenes a través de acciones que impulsen la constitución de nuevas primeras empresas y su consolidación;
+
+III. Políticas de corto, mediano y largo plazo, para elevar la productividad y competitividad de las primeras empresas;
+
+IV. Esquemas que faciliten a las primeras empresas el abastecimiento de bienes y servicios al sector público estatal y municipal, en el marco de la normatividad aplicable; y
+
+V. Apoyos técnicos y económicos con tasa preferencial, para la creación y consolidación de las primeras empresas.
+
 ### CAPÍTULO CUARTO. DE OBLIGACIONES DE LOS INVERSIONISTAS
-
-### CAPÍTULO QUINTO. DE LAS VISITAS DE VERIFICACIÓN Y SANCIONES
-
-### CAPÍTULO SEXTO. DE LOS MEDIOS DE DEFENSA
 
 ###### Artículo 34.
 
@@ -463,7 +579,7 @@ La omisión de los avisos a que se refiere el artículo anterior, podrán traer 
 
 La Secretaría deberá llevar un registro de las empresas beneficiadas con los incentivos, el monto y/o concepto y la descripción de los mismos, dicho registro deberá mantenerse actualizado y estar disponible para consulta en sitio oficial del portal del Poder Ejecutivo del Estado.
 
-### CAPÍTULO SÉPTIMO. DE LOS AGRUPAMIENTOS EMPRESARIALES ESTRATÉGICOS (CLUSTERS)
+### CAPÍTULO QUINTO. DE LAS VISITAS DE VERIFICACIÓN Y SANCIONES
 
 ###### Artículo 37.
 
@@ -529,9 +645,13 @@ Las visitas de verificación deberán llevarse a cabo conforme a lo que establez
 
 En las visitas de verificación la Secretaría podrá solicitar asistencia de terceros para llevar a cabo en conjunto las visitas de verificación.
 
+### CAPÍTULO SEXTO. DE LOS MEDIOS DE DEFENSA
+
 ###### Artículo 44.
 
 Cualesquiera que se considere afectado en su interés jurídico por los actos que emita el Consejo, podrá impugnarlos a través de los medios de defensa que establece el Código Fiscal del Estado y la Ley de Justicia Administrativa del Estado.
+
+### CAPÍTULO SÉPTIMO. DE LOS AGRUPAMIENTOS EMPRESARIALES ESTRATÉGICOS (CLUSTERS)
 
 ###### Artículo 45.
 
@@ -628,3 +748,11 @@ P.O. 10 DE ENERO DE 2020.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- El actual Consejo de Desarrollo Económico deberá establecer los criterios a tomar en cuenta para elegir qué cámaras empresariales y universidades de la entidad podrán participar activa y permanentemente en el Consejo.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 254. SE RECHAZAN LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO AL DECRETO 254 DE FECHA 22 DE ENERO DE 2020. EN RAZÓN DE LO DETERMINADO, SE REFORMA EL ARTÍCULO 21 BIS Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 22, EL CAPÍTULO TERCERO BIS DENOMINADO "DE LOS INCENTIVOS AL PRIMER EMPLEO" QUE CONTIENE LOS ARTÍCULOS 33 BIS AL 33 BIS V Y EL CAPÍTULO TERCERO BIS I DENOMINADO "DE LA PRIMERA EMPRESA" QUE CONTIENE LOS ARTÍCULOS 33 BIS VI AL 33 BIS VIII, DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado deberá adecuar conforme a lo dispuesto en el presente Decreto, los Reglamentos competentes en un plazo de 90 días naturales contados a partir de su publicación en el Periódico Oficial del Estado.
