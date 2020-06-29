@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-13-2020-del-pleno-del-consejo-de-la-143197"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-06-12"
-last_updated: "2020-06-12"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143197&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-06-08"
 
 ACUERDO GENERAL 13/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL ESQUEMA DE TRABAJO Y MEDIDAS DE CONTINGENCIA EN LOS ÓRGANOS JURISDICCIONALES POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2020.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de junio de 2020.
 
@@ -75,25 +75,27 @@ Por lo anterior, con fundamento en los párrafos primero y séptimo del artícul
 
 ACUERDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 1.
 
-Esquema de contingencia. Con el objetivo de dar continuidad a las medidas tendientes a evitar la concentración de personas y la propagación del virus, así como reanudar las actividades jurisdiccionales en mayor escala dentro del Poder Judicial de la Federación, se establece que durante el período del 16 al 30 de junio de 2020, la función jurisdiccional se regirá por los siguientes postulados:
+Esquema de contingencia. Con el objetivo de dar continuidad a las medidas tendientes a evitar la concentración de personas y la propagación del virus, así como reanudar las actividades jurisdiccionales en mayor escala dentro del Poder Judicial de la Federación, se establece que durante el período del 16 de junio al 15 de julio de 2020, la función jurisdiccional se regirá por los siguientes postulados:
 
-I. Trámite y resolución de casos urgentes. Sólo se dará trámite a los escritos iniciales que se presenten físicamente en aquéllos asuntos que se califiquen como “urgentes”, de conformidad con lo dispuesto en Capítulo I del presente Acuerdo.
+I. Trámite y resolución de casos urgentes. Sólo se dará trámite a los escritos iniciales que se presenten físicamente en aquéllos asuntos que se califiquen como "urgentes", de conformidad con lo dispuesto en Capítulo I del presente Acuerdo.
 
-Adicionalmente, cada órgano jurisdiccional dará seguimiento oficioso a los asuntos que haya radicado al calificarlos como “urgentes”, para lo cual se fijarán los avisos respectivos sobre el personal de contacto, en términos de lo dispuesto en el Capítulo Cuarto, Título Segundo del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de la actividad administrativa de los órganos jurisdiccionales.
+Adicionalmente, cada órgano jurisdiccional dará seguimiento oficioso a los asuntos que haya radicado al calificarlos como "urgentes", para lo cual se fijarán los avisos respectivos sobre el personal de contacto, en términos de lo dispuesto en el Capítulo Cuarto, Título Segundo del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de la actividad administrativa de los órganos jurisdiccionales.
 
-En estos casos, en su primera actuación, las y los juzgadores, incluyendo a secretarias y secretarios en funciones o encargados de despacho (en adelante “titulares”), exhortarán a las partes a que, de ser posible y tomando en consideración las potenciales dificultades para acceder a las herramientas tecnológicas necesarias para ello, continúen la tramitación del caso mediante el esquema de “juicio en línea”, es decir, utilizando los medios electrónicos disponibles desde el Portal de Servicios en Línea del Poder Judicial de la Federación.
+En estos casos, en su primera actuación, las y los juzgadores, incluyendo a secretarias y secretarios en funciones o encargados de despacho (en adelante "titulares"), exhortarán a las partes a que, de ser posible y tomando en consideración las potenciales dificultades para acceder a las herramientas tecnológicas necesarias para ello, continúen la tramitación del caso mediante el esquema de "juicio en línea", es decir, utilizando los medios electrónicos disponibles desde el Portal de Servicios en Línea del Poder Judicial de la Federación.
 
 II. Resolución de casos tramitados físicamente. Se habilita la posibilidad de resolver los casos ya radicados y que se hayan tramitado físicamente, en los que únicamente quede pendiente la emisión de sentencia o resolución final, de conformidad con lo previsto en el Capítulo II del presente Acuerdo.
 
-III. Recepción, trámite y resolución de casos tramitados mediante “juicio en línea”. Se habilita la recepción de casos nuevos, la reanudación de los radicados con anterioridad al inicio del período de contingencia y, en ambos casos, su tramitación y eventual resolución, siempre que la totalidad o la mayoría de sus actuaciones se puedan realizar a través de medios electrónicos, mediante el esquema conocido como “juicio en línea”, con excepción de aquéllos en los cuales se requiera la celebración de audiencias o el desahogo de diligencias judiciales en las que sea necesaria la presencia física de las partes y que no puedan desahogarse mediante videoconferencias, o cuando resulte necesaria la práctica de notificaciones personales, de conformidad con lo dispuesto en el Capítulo III del presente Acuerdo.
+III. Recepción, trámite y resolución de casos tramitados mediante "juicio en línea". Se habilita la recepción de casos nuevos, la reanudación de los radicados con anterioridad al inicio del período de contingencia y, en ambos casos, su tramitación y eventual resolución, siempre que la totalidad o la mayoría de sus actuaciones se puedan realizar a través de medios electrónicos, mediante el esquema conocido como "juicio en línea", con excepción de aquéllos en los cuales se requiera la celebración de audiencias o el desahogo de diligencias judiciales en las que sea necesaria la presencia física de las partes y que no puedan desahogarse mediante videoconferencias, o cuando resulte necesaria la práctica de notificaciones personales, de conformidad con lo dispuesto en el Capítulo III del presente Acuerdo.
 
 IV. Suspensión de plazos y términos para casos restantes. Tratándose de solicitudes, demandas, recursos, juicios y procedimientos en general, distintos a los previstos en las fracciones anteriores, así como para la interposición de recursos en contra de las sentencias y resoluciones dictadas conforme a la fracción II, no correrán plazos y términos procesales, no se celebrarán audiencias ni se practicarán diligencias.
 
 Con independencia de lo anterior, en el Capítulo IV se establecen las reglas específicas para la actuación de los órganos jurisdiccionales que conozcan de asuntos de naturaleza penal.
 
-Para efectos del presente acuerdo, la “firma electrónica” comprende a la Firma Electrónica Certificada del Poder Judicial de la Federación, conocida como “FIREL”, y a la firma electrónica o “e.firma” (antes firma electrónica avanzada o “FIEL”).
+Para efectos del presente acuerdo, la "firma electrónica" comprende a la Firma Electrónica Certificada del Poder Judicial de la Federación, conocida como "FIREL", y a la firma electrónica o "e.firma" (antes firma electrónica avanzada o "FIEL").
 
 ###### Artículo 2.
 
@@ -544,3 +546,21 @@ En caso de que no sea posible emplazar a una de las partes o notificar por ofici
 DÉCIMO. Las Direcciones Generales de Gestión Judicial y de Estadística Judicial contarán con hasta cinco días hábiles a partir de la entrada en vigor del presente Acuerdo para emitir los lineamientos pertinentes para su debido cumplimiento.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 13/2020, del Pleno del Consejo de la Judicatura Federal, relativo al esquema de trabajo y medidas de contingencia en los órganos jurisdiccionales por el fenómeno de salud pública derivado del virus COVID-19, fue aprobado por el Pleno del propio Consejo, en sesión extraordinaria de 8 de junio de 2020, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 8 de junio de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 15/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 13/2020 RELATIVO AL ESQUEMA DE TRABAJO Y MEDIDAS DE CONTINGENCIA EN LOS ÓRGANOS JURISDICCIONALES POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19, EN RELACIÓN CON EL PERIODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. La relación de los órganos jurisdiccionales de guardia durante el periodo de contingencia se encuentra en el anexo contenido en la siguiente liga: http://www.cjf.gob.mx/2020/GuardiasJunio3.pdf. Adicionalmente, las ligas con órganos que han estado de guardia durante los períodos contenidos en los Acuerdos Generales 4/2020, 6/2020, 8/2020, 10/2020 y 13/2020 pueden consultarse, respectivamente, en los siguientes enlaces: http://www.cjf.gob.mx/resources/Anexoacdo4_2020.pdf; https://www.cjf.gob.mx/2020/anexocontingencia0420.pdf, https://www.cjf.gob.mx/2020/guardiasmayo.pdf, https://www.cjf.gob.mx/2020/guardiasjunio.pdf y https://www.cjf.gob.mx/2020/GuardiasJunio_a.pdf.
+
+CUARTO. La relación de días en que el personal de cada órgano jurisdiccional puede asistir físicamente a éste, con la limitante establecida en los artículos 11, fracción II, y 16, fracción III, de este Acuerdo, se encuentra en el anexo 2 contemplado en el siguiente enlace: http://www.cjf.gob.mx/2020/PersonalOJJunio3.pdf.
+
+QUINTO. Se faculta a la Comisión Especial para que, considerando la información disponible sobre la evolución de la contingencia sanitaria y atendiendo las mejores prácticas en la materia, modifique o suspenda los esquemas de trabajo o medidas comprendidas en cada uno, según se estime necesario para hacer frente a la pandemia por COVID-19.
+
+SEXTO. El escalonamiento de los órganos jurisdiccionales para el disfrute del período vacacional se regulará por lo dispuesto en el Acuerdo General 16/2020.
