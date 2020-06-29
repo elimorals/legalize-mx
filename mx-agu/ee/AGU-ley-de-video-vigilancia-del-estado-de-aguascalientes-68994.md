@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-video-vigilancia-del-estado-de-aguascalientes-68994"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-22"
-last_updated: "2018-09-03"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2009.
 
@@ -81,11 +81,15 @@ VIII. Fiscal: Fiscal General del Estado;
 
 IX. Reglamento: Reglamento de la Ley de Vídeo Vigilancia del Estado de Aguascalientes;
 
-X. Sistema de Video Vigilancia: Conjunto de acciones, instrumentos, procedimientos, mecanismos, normas e instituciones utilizadas para la Video Vigilancia en el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+X. Sistema de Video Vigilancia: Conjunto de acciones, instrumentos, dispositivos electrónicos, programas de cómputo, procedimientos, mecanismos, normas e instituciones utilizadas para la Video Vigilancia en el Estado de Aguascalientes;
 
 XI. Videocámara: Cámaras fijas o móviles, equipos de grabación, o bien, todo medio técnico análogo, digital, óptico o electrónico y, en general, cualquier sistema que permita captar o grabar imágenes con o sin sonido; y
 
-XII. Video Vigilancia: La captación de imágenes con o sin sonido por los cuerpos de seguridad pública estatal o municipales o de seguridad privada que realicen en términos de la presente Ley.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+XII. Video Vigilancia: La captación de imágenes con o sin sonido en lugares públicos o privados con acceso al público, por los cuerpos de seguridad pública estatal o municipales o de seguridad privada, para la investigación de delitos y la documentación de faltas administrativas relacionadas con la seguridad pública, que realicen en términos de la presente Ley,
 
 ###### ARTÍCULO 4º.
 
@@ -133,15 +137,23 @@ III. Un representante del Fiscal que tendrá derecho a voz y voto;
 
 IV. Un representante de la Comisión Estatal de los Derechos Humanos que tendrá derecho a voz y voto; y
 
-V. Un representante de las Secretarías de Seguridad Pública ó análogos de los Ayuntamientos, que cuenten con un Centro de Telecomunicaciones C-4 y que a través de él, realicen actividades de Video Vigilancia, con derecho a voz y voto.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+V. Un representante de las Secretarias de Seguridad Pública o análogos de los Ayuntamientos, que cuenten con complejo de seguridad y que, a través de él, realicen actividades de Video Vigilancia, con derecho a voz y voto.
 
 El Comité nombrará un Secretario Técnico que se encargará de dar seguimiento a las sesiones, llevar actas y registros, documentar los trabajos y archivos, así como de las demás funciones que señale el Reglamento.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Cada entidad deberá a su vez nombrar un suplente de sus respectivos representantes, que en su caso pueda cubrir las ausencias temporales o definitivas de estos últimos, quien tendrá las mismas facultades contenidas en esta ley.
 
 ###### ARTÍCULO 8°.
 
 Serán facultades del Comité:
 
-I. Llevar el alta y registro de la instalación fija de videocámaras;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+I. Llevar el alta y registro de videocámaras empleadas para video vigilancia;
 
 II. Ordenar el retiro de instalaciones fijas de videocámaras;
 
@@ -151,7 +163,13 @@ IV. Autorizar la conexión de las videocámaras de Prestadores de Servicio de Se
 
 V. Autorizar la conexión al sistema de Video Vigilancia implementado por cualquier cuerpo de Seguridad Pública Estatal o Municipal, de videocámaras que un particular haya colocado en un lugar abierto al público, del cual sea propietaria o poseedora legitima, sólo para que estos cuerpos reciban imágenes o sonido del prestador de servicio.
 
-VI. Resolver sobre las solicitudes de cancelación, oposición o rectificación de datos personales;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JUNIO DE 2020)</small>
+
+VI. Resolver sobre las solicitudes de cancelación, oposición o rectificación de datos personales.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+El Comité podrá establecer un sistema electrónico tanto para la recepción como para la contestación de las solicitudes antes precisadas.
 
 VII. Conocer de las infracciones cometidas a la presente Ley, para su remisión a las autoridades competentes en términos del Artículo 41 de esta Ley;
 
@@ -261,7 +279,9 @@ Asimismo, el Comité deberá tener a su disposición las grabaciones o cualquier
 
 La autoridad o prestador de servicio de seguridad privada, que obtenga grabaciones en términos de la presente Ley, deberá dar a éstas, el siguiente tratamiento:
 
-I. En caso de que se detecte por el sistema de Vídeo Vigilancia, la comisión de un posible hecho punible o falta administrativa relacionada con la seguridad pública, deberá dar parte a las autoridades de forma inmediata, poniendo a su disposición copia de las grabaciones, e informando de ello al final de la jamada al Comité.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+I. En caso de que se detecte por el sistema de Vídeo Vigilancia, la comisión de un posible hecho punible o falta administrativa relacionada con la seguridad pública, deberá dar parte a las autoridades de forma inmediata, poniendo a su disposición copia de las grabaciones, e informando de ello sin demora al Comité.
 
 II. El resto de las grabaciones deberán ser almacenadas en los respaldos a cargo del responsable del sistema y no ser entregadas a persona o autoridad alguna, salvo que así sea ordenado por el Comité, el Ministerio Público o la Autoridad Jurisdiccional respectiva.
 
@@ -303,6 +323,14 @@ En el manejo de toda grabación, invariablemente se observará una secuencia de 
 
 Quien tenga bajo su custodia grabaciones, será responsable de su guarda, inviolabilidad e inalterabilidad, hasta en tanto no haga entrega de la misma a otro y lo asiente en el documento de resguardo en términos de lo establecido en el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+La información obtenida por los sistemas de video vigilancia, conforme a los lineamientos de la presente ley, debe registrarse, clasificarse y tratarse de conformidad con lo establecido en las leyes en materia de transparencia y protección de datos personales del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Cuando de la investigación de un delito, o alguna controversia de orden civil o administrativo, pueda obtenerse información del material recabado en actividades de video vigilancia, la autoridad jurisdiccional competente podrá solicitar el material correspondiente a las instituciones públicas, empresas de seguridad privada y en general a cualquier particular, quienes tendrán la obligación de remitirla dentro del término de 24 horas.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 26.
@@ -328,6 +356,10 @@ Toda grabación será destruida en un plazo máximo de treinta días, contados a
 ###### ARTÍCULO 29.
 
 Cualquier persona que por razón del ejercicio de sus funciones tenga acceso a las grabaciones, deberá observar el debido sigilo en relación con las mismas, siendo de aplicación, en caso contrario, lo dispuesto en la presente Ley en materia de sanciones y otros ordenamientos que infrinja con su conducta.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Los servidores públicos que participen en la obtención, clasificación, análisis y la custodia de la información para la seguridad pública a través de tecnología, deberán abstenerse de obtener, guardar o transferir el original o copia de dicha información. Dichos servidores públicos deberán otorgar por escrito una promesa de confidencialidad que observaran en todo tiempo, aun después de que hayan cesado en el cargo por el cual se les otorgó el acceso.
 
 ###### ARTÍCULO 30.
 
@@ -518,3 +550,11 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 362.- ARTÍCULO ÚNICO.- REFORMAS Y ADICIONES A LA LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
