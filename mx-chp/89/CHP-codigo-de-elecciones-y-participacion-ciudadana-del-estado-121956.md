@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-del-estado-12195
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-14"
-last_updated: "2020-05-04"
+last_updated: "2020-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CHP"
 ---
 # CODIGO DE ELECCIONES Y PARTICIPACION CIUDADANA DEL ESTADO DE CHIAPAS
 
+(NOTA 1: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO. 235, POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTINUEVE DE JUNIO DE DOS MIL VEINTE, DANDO LUGAR A LA REVIVISCENCIA DE LAS NORMAS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS, PREVIAS A LA EXPEDICIÓN DEL REFERIDO DECRETO NO. 235, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+(NOTA 2. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE ORDENAMIENTO, SE SUGIERE CONSULTAR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2020, ASÍ COMO LA NOTA QUE ANTECEDE RESPECTO A LOS RESOLUTIVOS DE LA SENTENCIA DICTADA EN LA ACCIÓN DE INCONSTITUCIONALIDAD 158/2020 Y SUS ACUMULADAS 159/2020, 161/2020, 224/2020 Y 227/2020.)
+
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Código publicado en la Tercera Sección al Número 299 del Periódico Oficial del Estado de Chiapas, el miércoles 14 de junio de 2017.
 
@@ -7954,3 +7958,33 @@ Artículo Cuarto.- El Consejo General del Instituto de Elecciones y Participaci�
 Las disposiciones generales emitidas por el Instituto de Elecciones y Participación Ciudadana, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se oponga a la Constitución Federal, Leyes Generales, Constitución Particular, el Código de Elecciones y Participación Ciudadana y demás disposiciones legales aplicables, hasta que el Consejo General del Instituto de Elecciones y Participación Ciudadana no emita aquellas que deban sustituirlas.
 
 Artículo Quinto.- Se vincula al Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, para que emita los cuerdos así como las modificaciones presupuestales necesarias a efecto de dar el debido cumplimiento al presente decreto, en lo relativo a la modificación de las actividades y procedimientos de la organización del proceso electoral, correspondientes al ejercicio fiscal 2020.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Código de Elecciones y Participación Ciudadana del Estado de Chiapas, aprobado mediante Decreto Número 181, el 18 de mayo de 2017, publicado en el Periódico Oficial del Estado número 299, tercera sección, de fecha 14 de junio de 2017; y se derogan todas las disposiciones legales que contravengan o se opongan al presente Decreto.
+
+Artículo Tercero.- Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior, sin prejuicio de que se apliquen en lo procedente las disposiciones y los plazos previstos en la presente Ley.
+
+Artículo Cuarto.- Dentro de los treinta días a la entrada en vigor del presente decreto el Consejero Presidente del Instituto de Elecciones y Participación Ciudadana del Estado, deberá someter a la aprobación del Consejo General, conforme al procedimiento establecido en el Reglamento de Elecciones del Instituto Nacional Electoral, las propuestas para la designación de los Titulares de la Secretaría Ejecutiva, las Direcciones Ejecutivas, la Dirección Administrativa y la Dirección Jurídica y de lo Contencioso.
+
+Artículo Quinto.- La Junta General Ejecutiva deberá reorganizar los recursos humanos del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, derivado de la nueva estructura organizacional planteada en el presente Decreto, salvaguardando en todo momento los derechos laborales de los trabajadores y con base al Estatuto del Servicio Profesional Electoral Nacional y de la Rama Administrativa.
+
+Artículo Sexto.- Los asuntos en trámite competencia de las entonces Direcciones Ejecutivas de Asociaciones Políticas, Participación Ciudadana, Educación Cívica y Capacitación y de Organización Electoral, serán atendidos y resueltos por la Dirección Ejecutiva de Organización, Capacitación Electoral y Educación Cívica y por la Dirección Ejecutiva de Asociación Políticas y Participación Ciudadana, respectivamente, conforme a las nuevas atribuciones conferidas a las mismas en el presente Decreto.
+
+Los asuntos en trámite competencia de la entonces Secretaría de Administración, serán conferidos a la Dirección Administrativa que serán atendidos y resueltos conforme a las atribuciones conferidas en el presente Decreto.
+
+Los asuntos en trámite competencia de la entonces Dirección Ejecutiva Jurídica y de lo Contencioso, serán conferidos a la nueva Dirección Jurídica y de lo Contencioso que serán atendidos y resueltos conforme a las atribuciones conferidas a la (sic) presente Decreto.
+
+Artículo Séptimo.- El Consejo General del Instituto de Elecciones y Participación Ciudadana, dictará los acuerdos necesarios para hacer efectivas las disposiciones del presente Decreto y deberá expedir los reglamentos y demás normatividad que deriven del mismo, conforme a lo previsto en el presente Decreto en un plazo no mayor a noventa días a partir de la entrada en vigor.
+
+Las disposiciones generales emitidas por el Instituto de Elecciones y Participación Ciudadana, con antelación a la entrada en vigor del presente Decreto, seguirán vigentes en lo que no se opongan a la Constitución Federal, la Constitución Local, Leyes Generales, la presente Ley, hasta que el Consejo General del Instituto de Elecciones no emita aquellas que deban sustituirlas.
+
+Artículo Octavo.- Se vincula al Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, para que emita los acuerdos, así como las modificaciones presupuestales necesarias a efecto de dar el debido cumplimiento al presente Decreto; así como en lo relativo en la modificación de las actividades y procedimientos de la organización del proceso electoral 2021.
+
+Artículo Noveno.- En la elección a Gobernador del Estado, correspondiente al Proceso Electoral Ordinario 2024, el Instituto de Elecciones deberá garantizar el derecho al ejercicio del voto de las personas con prisión preventiva oficiosa o justificada. Para ello, deberá coordinarse con el Instituto Nacional para establecer los lineamientos, reglas y mecanismos necesarios, así como con las autoridades de centros penitenciarios, jurisdiccionales y demás autoridades estatales y federales que se estimen convenientes para garantizar las medidas de seguridad y protección al voto, según lo determine la normatividad aplicable.
+
+Durante el Proceso Electoral Ordinario 2021, el Instituto de Elecciones deberá realizar una prueba piloto, situación que deberá prever en su anteproyecto de Presupuesto de Egresos, a fin de someterlo a consideración y aprobación del Congreso del Estado.
