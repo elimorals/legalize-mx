@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1067
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2018-12-31"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -71,9 +71,9 @@ Los Sujetos de la Ley, se abstendrán de crear fideicomisos, otorgar mandatos o 
 
 Para los efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-I. Autoridades fiscalizadoras: son aquellas facultadas para revisar y evaluar el gasto público y aplicar las sanciones a que se refiere esta Ley; en el ámbito de sus competencias, esto es, respecto del Gobierno del Estado, la Contraloría del Estado; y, en cuanto a los Municipios, las Contralorías Municipales;
+I. Autoridades fiscalizadoras: Son aquellas que en el ámbito de sus competencias se encuentran facultadas para revisar y evaluar el gasto público y aplicar las sanciones a las que se refiere esta Ley, así como la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; a decir, la Contraloría del Estado respecto de la Administración Pública Centralizada, los Órganos Internos de Control respecto de las Entidades del Ejecutivo, y en cuanto a los Municipios los Órganos Internos de Control de los mismos;
 
 II. Comité: el Comité de Adquisiciones, Arrendamientos y Servicios del Gobierno del Estado, o los Comités Municipales o de las Entidades del Ejecutivo o del Municipio, según corresponda.
 
@@ -787,7 +787,9 @@ El acto de presentación y apertura de proposiciones se llevará a cabo en el d�
 
 I. Una vez recibidas las proposiciones en sobre cerrado o archivo electrónico, según sea el caso, se procederá a su apertura, haciéndose constar la documentación presentada, sin que ello implique la evaluación de su contenido;
 
-II. De entre los Licitantes que hayan asistido, éstos elegirán a uno, que en forma conjunta con los servidores públicos que la convocante y la Autoridad fiscalizadora o el órgano de control interno del Municipio o Entidad designen, rubricarán las partes de las proposiciones que previamente haya determinado la convocante en la convocatoria a la licitación, las que para estos efectos constarán documentalmente, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+II. De entre los Licitantes que hayan asistido, éstos elegirán a uno, que en forma conjunta con los servidores públicos que la convocante y la Autoridad fiscalizadora designen, rubricarán las partes de las proposiciones que previamente haya determinado la convocante en la convocatoria a la licitación, las que para estos efectos constarán documentalmente, y
 
 III. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que tratándose de licitaciones en que se utilice el criterio de evaluación binario, se hará constar el importe de cada una de ellas; se señalará lugar, fecha y hora en que se dará a conocer el fallo de la licitación, fecha que deberá quedar comprendida dentro de los veinte días naturales siguientes a la establecida para este acto y podrá diferirse, siempre que el nuevo plazo fijado no exceda de quince días naturales contados a partir del plazo establecido originalmente.
 
@@ -819,7 +821,9 @@ En las adquisiciones y contrataciones que regula esta ley se preferirá como Pro
 
 La convocatoria de la licitación establecerá porcentajes diferenciales de precio hasta de un cinco por ciento en favor de los proveedores a que se refiere el párrafo anterior que hayan obtenido fallo técnico positivo.
 
-De subsistir el empate entre las personas domiciliadas en el Estado de Aguascalientes, la adjudicación se efectuará a favor del Licitante que resulte ganador del sorteo que se realice para el efecto. Será convocado al sorteo un representante de la Autoridad fiscalizadora o del órgano de control interno del Municipio o Entidad, en su caso.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+De subsistir el empate entre las personas domiciliadas en el Estado de Aguascalientes, la adjudicación se efectuará a favor del Licitante que resulte ganador del sorteo que se realice para el efecto. Será convocado al sorteo un representante de la Autoridad fiscalizadora.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
@@ -851,9 +855,13 @@ Con la notificación del fallo por el que se adjudica el contrato, las obligacio
 
 Contra el fallo no procederá recurso alguno; sin embargo procederá la inconformidad en términos del Artículo 93.
 
-Cuando se advierta en el fallo la existencia de un error aritmético, mecanográfico o de cualquier otra naturaleza, que no afecte el resultado de la evaluación realizada por la convocante, dentro de los cinco días hábiles siguientes a su notificación y siempre que no se haya firmado el contrato, el titular del área responsable del procedimiento de contratación procederá a su corrección, con la intervención de su superior jerárquico, aclarando o rectificando el mismo, mediante el acta administrativa correspondiente, en la que se harán constar los motivos que lo originaron y las razones que sustentan su enmienda, hecho que se notificará a los Licitantes que hubieran participado en el procedimiento de contratación, remitiendo copia de la misma la Autoridad fiscalizadora o al órgano interno de control del Municipio o Entidad, en su caso, dentro de los cinco días hábiles posteriores a la fecha de su firma.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
-Si el error cometido en el fallo no fuera susceptible de corrección conforme a lo dispuesto en el párrafo anterior, el servidor público responsable dará vista de inmediato a la Autoridad fiscalizadora o al órgano interno de control del Municipio o Entidad, en su caso, a efecto de que, se emitan las directrices para su reposición.
+Cuando se advierta en el fallo la existencia de un error aritmético, mecanográfico o de cualquier otra naturaleza, que no afecte el resultado de la evaluación realizada por la convocante, dentro de los cinco días hábiles siguientes a su notificación y siempre que no se haya firmado el contrato, el titular del área responsable del procedimiento de contratación procederá a su corrección, con la intervención de su superior jerárquico, aclarando o rectificando el mismo, mediante el acta administrativa correspondiente, en la que se harán constar los motivos que lo originaron y las razones que sustentan su enmienda, hecho que se notificará a los Licitantes que hubieran participado en el procedimiento de contratación, remitiendo copia de la misma la Autoridad fiscalizadora, dentro de los cinco días hábiles posteriores a la fecha de su firma.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Si el error cometido en el fallo no fuera susceptible de corrección conforme a lo dispuesto en el párrafo anterior, el servidor público responsable dará vista de inmediato a la Autoridad fiscalizadora, en su caso, a efecto de que, se emitan las directrices para su reposición.
 
 ###### Artículo 58.
 
@@ -1083,7 +1091,9 @@ Los Sujetos de la Ley Contratantes se abstendrán de recibir propuestas o celebr
 
 I. Aquéllas en que el servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
-II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Autoridad fiscalizadora conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Autoridad fiscalizadora conforme a la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
 III. Aquellos Proveedores que incumplan un contrato de adquisición, arrendamiento o prestación de servicios, o se nieguen a subsanar el incumplimiento en un periodo razonable establecido por los Sujetos de la Ley Contratantes conjuntamente con los Entes requirentes. Asimismo, no recibirán propuestas de aquellos Proveedores que se encuentren en mora de entrega, parcial o total respecto a cualesquiera de las partidas adjudicadas, cualquiera que hubiese sido el procedimiento de adjudicación y la causa que dé origen a la mora;
 
@@ -1271,9 +1281,11 @@ II. Transcurrido el término a que se refiere la fracción anterior, se resolver
 
 III. La resolución será debidamente fundada y motivada debiendo comunicarse por escrito al afectado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 88.
 
-Las Autoridades fiscalizadoras aplicarán las sanciones que procedan a quienes infrinjan las disposiciones de este ordenamiento, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+Las Autoridades fiscalizadoras aplicarán las sanciones que procedan a quienes infrinjan las disposiciones de este ordenamiento, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 Las Autoridades fiscalizadoras en uso de las atribuciones que le confiere la Ley citada en el párrafo anterior, podrá abstenerse de iniciar los procedimientos previstos en ella, cuando de las investigaciones o revisiones practicadas se advierta que el acto u omisión no es grave, o no implica la probable comisión de algún delito o perjuicio patrimonial al Sujeto de la Ley Contratante o al Ente requirente, o que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público o implique error manifiesto y en cualquiera de estos supuestos, los efectos que, en su caso, hubieren producido, desaparecieron o se hayan resarcido.
 
@@ -1497,7 +1509,9 @@ Si se acredita que la resolución no fue cumplimentada según las directrices fi
 
 La resolución que ponga fin al incidente previsto en este artículo podrá impugnarse por el inconforme o tercero interesado mediante el recurso de revisión previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes, o bien, cuando proceda, ante las instancias jurisdiccionales competentes.
 
-El desacato de las convocantes a las resoluciones y acuerdos que emitan la Autoridades fiscalizadoras en los procedimientos de inconformidad será sancionado de acuerdo a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+El desacato de las convocantes a las resoluciones y acuerdos que emitan la (sic) Autoridades fiscalizadoras en los procedimientos de inconformidad será sancionado de acuerdo a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 En los casos en que existan contratos derivados de los actos declarados nulos, dichos acuerdos serán válidos y exigibles hasta en tanto se dé cumplimiento a la resolución, pero será necesario terminarlos anticipadamente cuando la reposición de actos implique que debe adjudicarse a un Licitante diverso, deba declararse desierto el procedimiento o se haya decretado su nulidad total.
 
@@ -1642,3 +1656,11 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 359.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 2° FRACCIÓN I; 54, FRACCIÓN II; 56, PÁRRAFO CUARTO; 57, PÁRRAFOS OCTAVO Y NOVENO; 71, FRACCIÓN II; 88, PRIMER PÁRRAFO; Y 103, PÁRRAFO SEXTO; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
