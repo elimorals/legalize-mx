@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2020-02-12"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -432,6 +432,18 @@ g).- Por no obedecer las órdenes que reciban de sus superiores relativas a su t
 h).- Por concurrir al trabajo en estado de embriaguez o bajo la influencia de algún narcótico o droga enervante.
 
 i).- Por falta comprobada de cumplimiento al contrato de trabajo o por prisión que sea el resultado de una sentencia Ejecutoria. En los casos a que se refiere esta fracción si el trabajador diere motivo para la terminación de los efectos del nombramiento, podrá desde luego ser suspendido en su trabajo; si no fuera así, el jefe superior de la oficina podrá promover su remoción a oficina distinta de aquella en que estuviere prestando sus servicios, siempre que fuere compatible a sus aptitudes, hasta que sea resuelto en definitiva por el Tribunal de Arbitraje.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+###### Artículo 39 Bis.
+
+En el caso de trabajadoras al servicio del Estado o cualquiera de sus municipios, para evitar prácticas discriminatorias por razón de género, se estará a lo siguiente, cuando dichas servidoras públicas se encuentren en estado de embarazo:
+
+I. No podrá darse por terminada su relación laboral, salvo que se compruebe mediante elementos suficientes que su terminación se debió a motivos distintos a su gestación; y
+
+II. Se tendrá por no aceptada su renuncia, a menos que se acredite que la misma fue libre y espontánea y haya elementos de prueba que permitan tener como verosímil que la trabajadora ha optado por prescindir de su empleo, sin afectación de los gastos que implica el alumbramiento y la necesidad de acceder a la atención médica, además de no haberse ejercido en ella actos de coacción con motivo del embarazo.
+
+Se procederá en términos similares en beneficio de la trabajadora o bien, del trabajador por el nacimiento de un hijo, dentro de los 90 días posteriores al nacimiento o adopción del menor.
 
 ## TITULO TERCERO
 
@@ -1082,3 +1094,9 @@ P.O. 12 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 255. SE ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 36 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 317. SE ADICIONA EL ARTÍCULO 39 BIS A LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
