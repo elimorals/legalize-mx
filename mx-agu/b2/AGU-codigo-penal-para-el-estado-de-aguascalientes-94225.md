@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2020-03-30"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -641,9 +641,17 @@ II. Prohibición de ir a una circunscripción territorial determinada o de resid
 
 III. Aseguramiento, destrucción y pérdida de objetos, instrumentos y productos del delito;
 
-IV. Caución; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-V. Vigilancia de Autoridad.
+IV. Caución;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+V. Vigilancia de Autoridad; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+VI. Tratamiento Psicológico.
 
 ### CAPÍTULO IX. Confinamiento y Prohibición de ir a algún lugar o residir en el
 
@@ -694,6 +702,12 @@ Caución para no ofender. La Caución consiste en la garantía sobre la posesió
 Vigilancia de autoridad. Cuando en la sentencia se determine la suspensión condicional de la pena de prisión, la vigilancia de su cumplimiento le corresponderá a la autoridad judicial. Tal vigilancia no podrá exceder a la pena de prisión impuesta.
 
 La vigilancia consistirá en ejercer sobre el sentenciado, observación y orientación de su conducta, por personal especializado auxiliar del Juez de Ejecución, para coadyuvar a la reinserción social del sentenciado y a la protección de la comunidad. El no cumplimiento de las indicaciones de la autoridad judicial a cargo del sentenciado, se considera causa suficiente para revocar el beneficio de la suspensión.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+ARTÍCULO 73 A.- Tratamiento Psicológico.- El tratamiento psicológico consiste en la aplicación de los procedimientos médicos, psicológicos, psiquiátricos o afectivos, en Instituciones Públicas, que buscan atender las causas, patrones de conducta, heridas emocionales o afectaciones que pueda padecer el sentenciado y que imposibiliten su reinserción familiar y social, con la finalidad de lograr su plena readaptación social.
+
+El tratamiento psicológico no deberá exceder de la pena de prisión que hubiere sido impuesta, o de las medidas de Tratamiento en Libertad o Semilibertad precisadas en este Código.
 
 ### CAPÍTULO XIII. Medidas de Seguridad Aplicables a Personas Jurídicas Colectivas
 
@@ -1213,9 +1227,9 @@ III. Cuando la víctima se dedique al ejercicio de las labores periodísticas, y
 
 IV. Cuando el resultado sea asociado a la discriminación de la víctima;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-V. Cuando el responsable tenga o haya tenido relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima;
+V. Cuando el responsable tenga o haya tenido relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima o con el padre o madre de esta última;
 
 VI. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custodia del responsable; o
 
@@ -2865,13 +2879,19 @@ Cuando no se pueda determinar con exactitud la cuantía del crédito fiscal que 
 
 ### CAPÍTULO XVIII. Tipos Penales Protectores del Equilibrio Ecológico
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 191.
 
 Atentados al equilibrio ecológico dolosos. Los Atentados al Equilibrio Ecológico Dolosos consisten en:
 
-I. Fabricar, elaborar, transportar, distribuir, comerciar, almacenar, poseer, usar, reusar, reciclar, recolectar, tratar, desechar, descargar, disponer, comerciar o realizar actos con materiales o residuos que ocasionen o puedan ocasionar daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, sin la autorización de la autoridad estatal competente o contraviniendo los términos en que aquella se haya concedido;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-II. Despedir o descargar en la atmósfera, gases, humos y polvos que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna o los ecosistemas del Estado;
+I. Fabricar, elaborar, transportar, distribuir, comerciar, almacenar, poseer, usar, reusar, reciclar, recolectar, tratar, desechar, descargar, abandonar, disponer o realizar actos con materiales o residuos que ocasionen o puedan ocasionar daños a la salud pública, la flora, la fauna, o los ecosistemas del Estado, sin la autorización de la autoridad estatal competente o contraviniendo los términos en que aquella se haya concedido;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+II. Despedir, emitir o descargar en la atmósfera, gases, humos y polvos que ocasionen o puedan ocasionar daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, siempre que dichas emisiones provengan de fuentes fijas:
 
 III. Descargar, depositar o infiltrar aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, vasos y demás depósitos o corrientes de agua, que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, sin la autorización de la autoridad estatal competente o contraviniendo los términos en que aquella se haya concedido;
 
@@ -3512,3 +3532,35 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la Comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 354.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 107 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la Comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 355.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES IV Y V DEL ARTICULO 67, Y SE ADICIONA UNA FRACCIÓN VI, AL ARTÍCULO 67, Y EL ARTÍCULO 73 A, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la Comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 356".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
