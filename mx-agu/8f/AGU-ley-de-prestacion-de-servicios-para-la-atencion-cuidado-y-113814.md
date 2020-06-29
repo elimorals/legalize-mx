@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-11381
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2016-04-04"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE PRESTACION DE SERVICIOS PARA LA ATENCION, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -51,9 +53,11 @@ La presente Ley es de orden público, interés social y observancia general en e
 
 La aplicación de esta Ley corresponde al Poder Ejecutivo Estatal y a los Municipios por conducto de sus dependencias y entidades, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 3°.
 
-La interpretación administrativa de esta Ley corresponderá a la Secretaria General de Gobierno, al Instituto de Servicios de Salud, al Instituto de Educación, a la Secretaría de Bienestar y Desarrollo Social, así como al Sistema para el Desarrollo Integral de la Familia del Estado, en el ámbito de sus respectivas competencias.
+La interpretación y la aplicación de esta Ley corresponde al Poder Ejecutivo del Estado por conducto de la Secretaria General de Gobierno, al Instituto de Servicios de Salud del Estado, a la Secretaría de Desarrollo Social, al Sistema para el Desarrollo Integral de la Familia del Estado y al Instituto de Educación, así como a los Municipios, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 4°.
 
@@ -75,7 +79,9 @@ I. Centros de Atención: Espacios, cualquiera que sea su denominación de modali
 
 II. Consejo: Consejo Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
-III. Desarrollo Integral Infantil: Es el derecho que tienen niñas y niños a formarse física, mental, emocional y socialmente en condiciones de igualdad;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+III. Desarrollo integral infantil: es el derecho que tienen niñas y niños a formarse de manera física, mental, emocional y socialmente en condiciones de igualdad, eficiencia, calidad, seguridad y protección adecuada;
 
 IV. Ley: Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil para el Estado de Aguascalientes;
 
@@ -97,9 +103,11 @@ XII. Servicios de Atención: Medidas dirigidas a niñas y niños en los Centros 
 
 ### CAPÍTULO II. De los Sujetos de Servicios de Atención
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 8°.
 
-Las niñas y los niños tienen derecho a recibir los Servicios de Atención sin discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos, en condiciones de calidad, calidez, seguridad, protección y respeto a sus derechos, identidad e individualidad con el fin de garantizar el interés superior de la niñez.
+Las niñas y los niños tienen derecho a recibir los Servicios de Atención sin discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos y los instrumentos internacionales en la materia, en condiciones de calidad, calidez, seguridad, protección y respeto a sus derechos, identidad e individualidad con el fin de garantizar el interés superior de la niñez.
 
 ###### Artículo 9°.
 
@@ -115,9 +123,11 @@ Para el ingreso de una niña o niño con alguna discapacidad a un Centro de Aten
 
 En el supuesto de que los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza de la niña o niño con alguna discapacidad, por razones económicas no puedan tramitar la constancia referida en el párrafo anterior, previo estudio socioeconómico, será tramitada por los responsables del Centro de Atención ante instituciones facultadas para ello.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 12.
 
-El ingreso de niñas y niños a los Servicios de Atención, se hará de conformidad con los requisitos previstos en las disposiciones normativas aplicables a cada caso.
+El ingreso de niñas y niños a los Servicios de Atención, se hará de conformidad con los requisitos previstos en el Reglamento de la Ley y en las disposiciones normativas aplicables a cada caso.
 
 ###### Artículo 13.
 
@@ -131,9 +141,11 @@ Cuando el Centro de Atención no tenga personal capacitado para brindar la atenc
 
 ### CAPÍTULO III. De la Política Estatal de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 15.
 
-Para la observancia de los derechos contenidos en esta Ley, el Estado y los Municipios establecerán la Política Estatal, que tiene por objeto la coordinación de instrumentos, políticas y acciones interinstitucionales en la materia.
+Para la observancia de los derechos contenidos en esta Ley, el Estado y los Municipios establecerán la Política Estatal, en materia de prestación de servicios de atención, cuidado y desarrollo integral infantil, que tendrá por objeto la coordinación de instrumentos, políticas, planes, programas y acciones interinstitucionales.
 
 ###### Artículo 16.
 
@@ -157,19 +169,23 @@ VI. Fomentar la equidad y la igualdad de género; y
 
 VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con los objetivos y prioridades que establezca el Consejo y los requerimientos y características de los diferentes modelos de atención.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 18.
 
-Para el diseño, implementación, monitoreo y evaluación de la Política Estatal a que se refiere el presente Capítulo, así como en la aplicación e interpretación de la presente Ley, se deberá observar los siguientes principios:
+Para el diseño, implementación, monitoreo y evaluación de la Política Estatal a que se refiere el presente Capítulo, en la aplicación e interpretación de la presente Ley, así como en la prestación de los Servicios de Atención, según corresponda, se deberán observar los siguientes principios:
 
-I. El interés superior de la niñez;
+I.- El interés superior de la niñez: Las decisiones en torno a los Centros de Atención deben velar en todo momento por el respeto a este principio, por encima de intereses económicos o de cualquier otro tipo.
 
-II. El desarrollo de niñas y niños en todos los aspectos de su vida, ya sean físicos, emocionales, psicosociales, cognitivos, sociales, educativos o culturales;
+II.- Seguridad: Entendida como el derecho de las niñas y los niños a ser reintegrados a su entorno familiar en el goce de su derecho a la vida e integridad física, sin lesiones de ningún tipo;
 
-III. La no discriminación e igualdad de derechos;
+III.- Respeto, Igualdad y No Discriminación: En todo momento se debe respetar la dignidad y derechos de las niñas y niños.
 
-IV. La participación de niñas y niños en todos los asuntos que les atañen; y
+IV.- Participación: El derecho de las madres, padres o tutores para intervenir en la prestación de los Servicios de Atención, de manera de que velen por la debida tutela de los derechos de las niñas y niños, especialmente en materia de seguridad e higiene, así como de niñas en (sic) niños en todos los asuntos que les atañen;
 
-V. La equidad y la igualdad de género.
+V.- Desarrollo Integral: Los Servicios de Atención deben buscar el desarrollo integral de niñas y niños en todos los aspectos de su vida, ya sean físicos, emocionales, psicosociales, cognitivos, sociales, educativos o culturales;
+
+VI.- Calidad: Que los servicios de los Centros de Atención cubran los requerimientos mínimos en materia de instalaciones, alimentación, salud, educación y demás aspectos previstos en esta ley.
 
 ### CAPITULO IV. De la Distribución de Competencias
 
@@ -179,7 +195,9 @@ Corresponde al Ejecutivo del Estado, por conducto y en coordinación con las dep
 
 I. Formular, conducir y evaluar la Política Estatal en materia de prestación de servicios para la atención, cuidado y Desarrollo Integral Infantil, en congruencia con la política nacional en la materia;
 
-II. Elaborar, aprobar, ejecutar y evaluar el programa estatal en materia de prestación de servicios para la atención, cuidado y Desarrollo Integral Infantil, conforme al objeto de la presente Ley, la Ley General y con los fines establecidos por el Consejo; asimismo, con las directrices previstas en el Plan Nacional de Desarrollo y el Plan Sexenal de Gobierno del Estado, así como por lo dispuesto en el Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+II. Elaborar, aprobar, ejecutar y evaluar el programa estatal en materia de prestación de servicios para la atención, cuidado y Desarrollo Integral Infantil, conforme al objeto de la presente Ley, la Ley General y con los fines establecidos por el Consejo Nacional; asimismo, con las directrices previstas en el Plan Nacional de Desarrollo y el Plan Sexenal de Gobierno del Estado, así como por lo dispuesto en el Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
 
 III. Organizar el Sistema Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y coadyuvar con el Consejo;
 
@@ -206,6 +224,76 @@ XIII. Imponer las sanciones que correspondan a su ámbito de competencia, por el
 XIV. Hacer del conocimiento de la autoridad competente, toda aquella información que pueda constituir un hecho ilícito; y
 
 XV. Las demás que les señalen esta Ley y la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 19 A.- El Instituto de Educación del Estado tendrá las siguientes atribuciones:
+
+I.- Verificar que los planes y programas de estudio ofertados en los Centros de Atención cumplan con lo determinado por la autoridad educativa federal;
+
+II.- Implementar acciones que tiendan a garantizar la calidad de la educación que se brinde en los Centros de Atención;
+
+III.- Establecer mecanismos de identificación y seguimiento de alumnos que reciban educación en los Centros de Atención;
+
+IV.- Participar en la capacitación del personal docente de los Centros de Atención; y
+
+V.- Las demás que le otorguen esta ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 19 B.- La Secretaría de Salud tendrá las siguientes atribuciones:
+
+I.- Realizar acciones encaminadas a vigilar la salud integral de niñas y niños dentro de los centros de atención;
+
+II.- Impulsar campañas de difusión para el personal de los centros de atención, encaminadas a la prevención y atención de accidentes, padecimientos y enfermedades entre niñas y niños que atienden;
+
+III.- Supervisar que los centros de atención cumplan con los requerimientos de salubridad y control sanitario;
+
+IV.- Llevar a cabo, en los centros de atención, actividades de educación en materia de nutrición, encaminados a
+
+(sic) promover hábitos alimenticios adecuados; y
+
+V.- Las demás que le otorguen esta ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 19 C.- La Secretaría de Desarrollo social, tendrá las siguientes atribuciones:
+
+I.- Generar acciones tendientes a apoyar los centros de atención, que previa evaluación, lo requieran;
+
+II.- Vincular a los usuarios de los Centros de Atención, que así lo requieran, con sus programas;
+
+III.- Impulsar acciones encaminadas a que los usuarios de los Centros de Atención cuenten con mejores condiciones de desarrollo; y
+
+IV.- Las demás que le otorguen esta Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 19 D. La Unidad Estatal de Protección Civil tendrá las siguientes atribuciones:
+
+I.- Dictar los lineamientos generales que deben observar los Centros de Atención en materia de protección civil y gestión integral de riesgos;
+
+II.- Celebrar convenios con la Federación y las autoridades competentes, a fin de recibir apoyo en la formulación de los lineamientos generales referidos en la fracción anterior;
+
+III.- En colaboración con las unidades municipales de protección civil, llevar a cabo campañas de difusión sobre temas relacionados con la protección civil en los centros de atención;
+
+IV.- Celebrar convenios de concertación con los sectores social y privado que tengan por objeto la protección civil en los centros de atención; y
+
+V.- Las demás que le otorguen esta ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 19 E.- El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, tendrá las siguientes atribuciones:
+
+I.- Instrumentar y articular las políticas públicas en materia de prestación de servicios de atención, cuidado y desarrollo integral infantil en congruencia con las políticas determinadas por el Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes;
+
+II.- Organizar el Registro Estatal de las niñas y niños usuarios de los servicios a que se refiere la presente ley;
+
+III.- En colaboración con los sistemas municipales para el desarrollo integral de la familia promover la difusión y la concientización sobre los derechos de niñas y niños en los centros de atención;
+
+IV.- Celebrar convenios con la Federación, las autoridades competentes, así como con los sectores social y privado, con la finalidad de enriquecer los servicios que se prestan en los centros de atención; y
+
+V.- Las demás que le otorguen esta ley y otros ordenamientos aplicables.
 
 ###### Artículo 20.
 
@@ -309,9 +397,21 @@ IX. Supervisar el Registro Estatal y control general de los Centros de Atención
 
 X. Promover el monitoreo ciudadano y el acceso a la información de los programas de servicios de los Centros de Atención, a fin de garantizar la transparencia y el uso eficiente de los recursos públicos;
 
-XI. Promover la participación de las familias, la sociedad civil, así como de niñas y niños en la observación y acompañamiento de la política nacional y estatal de los Servicios de Atención; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-XII. Las demás que le confiera otras disposiciones legales, reglamentarias o administrativas que resulten aplicables.
+XI. Promover la participación, corresponsabilidad y solidaridad de las familias, la sociedad civil, así como de niñas y niños en la observación y acompañamiento de la política nacional y estatal de los Servicios de Atención;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2020)</small>
+
+XII. Llevar a cabo la inspección y vigilancia de los Centros de Atención, en coordinación con el Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil de conformidad con la Ley General, así como con el Gobierno Estatal y los Ayuntamientos según las disposiciones establecidas en el Capítulo XI de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+XIII. Realizar, de manera continua, campañas de difusión dirigidas a la ciudadanía para coadyuvar con el cumplimiento del objeto de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JUNIO DE 2020)</small>
+
+XIV. Las demás que le confiera otras disposiciones legales, reglamentarias o administrativas que resulten aplicables.
 
 ###### Artículo 28.
 
@@ -409,9 +509,15 @@ Para salvaguardar la integridad física de niñas y niños, empleados y de las p
 
 El programa referido en el párrafo anterior, deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los Prestadores de Servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio. Este programa deberá ser aprobado por las Unidades de Protección Civil Estatal o municipales, según sea el caso, y será sujeto a evaluación de manera periódica, por las instancias correspondientes.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 39.
 
-Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, contra incendios, de gas, intercomunicación y especiales, de acuerdo con los reglamentos establecidos por la Federación y el Estado. Ningún establecimiento que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños, así como de las demás personas que concurran a los Centros de Atención, podrá estar ubicado a una distancia menor a cincuenta metros.
+Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, contra incendios, de gas, intercomunicación y especiales, de acuerdo con los reglamentos establecidos por la Federación y el Estado.
+
+Ningún establecimiento que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños, así como de las demás personas que concurran a los Centros de Atención, podrá estar ubicado a una distancia menor a cincuenta metros.
+
+En ninguna circunstancia los Centros de Atención contarán con instalaciones o equipamiento que utilice o emplee cualquier tipo de hidrocarburo o sustancias inflamables.
 
 ###### Artículo 40.
 
@@ -443,15 +549,23 @@ El inmueble deberá, como mínimo para su funcionamiento, a fin de prevenir y/o 
 
 Las niñas y los niños sólo serán entregados a los padres, tutores y/o a las personas autorizadas para recogerlos, previa exhibición de la credencial expedida por el Centro de Atención o una identificación oficial con fotografía.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Los Centros de Atención podrán hacer uso de equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, salvaguardando la integridad de los infantes en términos de las disposiciones legales aplicables.
+
 ### CAPÍTULO IX. De las Autorizaciones a Centros de Atención
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 ###### Artículo 47.
 
-El Estado y los Municipios, en el ámbito de sus respectivas competencias, otorgarán las autorizaciones respectivas a los Centros de Atención cuando los interesados cumplan las disposiciones de esta Ley, su Reglamento y los requisitos establecidos en el Artículo 50 de la Ley General.
+El Consejo Estatal y los Municipios, en el ámbito de sus respectivas competencias, otorgarán las autorizaciones respectivas a los Centros de Atención cuando los interesados cumplan las disposiciones de esta Ley, su Reglamento y los requisitos establecidos en el Artículo 50 de la Ley General.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 ###### Artículo 48.
 
-Las autorizaciones referidas en el Artículo anterior, tendrán una vigencia de por lo menos un año, sin perjuicio de lo dispuesto en las disposiciones legales y administrativas aplicables. Ningún Centro de Atención podrá prestar servicios sin contar con la autorización que corresponda en materia de protección civil.
+Las autorizaciones referidas en el Artículo anterior, tendrán una vigencia de por lo menos un año, sin perjuicio de lo dispuesto en las disposiciones legales y administrativas aplicables. Ningún Centro de Atención podrá prestar servicios sin contar con la autorización del Consejo Estatal, ni sin las autorizaciones, permisos o licencias en materia de uso de suelo, funcionamiento, ocupación, seguridad, protección civil y operaciones, seguridad estructural del inmueble y aspectos de carácter sanitario que correspondan.
 
 ###### Artículo 49.
 
@@ -463,13 +577,37 @@ II. Por incumplimiento de algún requisito legal; y
 
 III. Por resolución que emane del procedimiento administrativo que esta Ley establece.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 50.
 
-Para la terminación voluntaria de licencia, el responsable del Centro de Atención, deberá avisar con treinta días de anticipación al Consejo y al Ayuntamiento. La falta del aviso dará lugar a las sanciones administrativas señaladas en esta Ley.
+Para la terminación voluntaria de la autorización, el responsable del Centro de Atención, deberá avisar con treinta días de anticipación al Consejo y al Ayuntamiento. La falta del aviso dará lugar a las sanciones administrativas señaladas en esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 ###### Artículo 51.
 
-Los Centros de Atención deberán contar con un Programa de Trabajo, en términos de lo dispuesto por el Artículo 52 de la Ley General, el cual deberá ser proporcionado a las personas que tengan la tutela, custodia o que tengan la responsabilidad del cuidado de las niñas y niños.
+Los Centros de Atención deberán contar con un reglamento interno en el que, por lo menos, se establecerán las disposiciones respecto de las características de los servicios, el uso y mantenimiento de las instalaciones, los aspectos de seguridad, higiene y protección civil, los cuidados de la salud, los horarios de la prestación del servicio, el procedimiento de admisión de niñas y niños y para designar a las personas autorizadas para recogerlos, la tolerancia de entrada y salida, los derechos y obligaciones de los usuarios, y, en su caso, la cuota mensual y las (sic) modalidad de pago de la misma.
+
+Además, deberán contar con Programa de Trabajo, el cual deberá ser proporcionado a las personas que tengan la tutela, custodia o que tengan la responsabilidad del cuidado de las niñas y niños, mismo que en términos del Artículo 52 de la Ley General, deberá contemplar como mínimo lo siguiente:
+
+I.- Los derechos de niñas y niños, previstos en esta Ley y los mecanismos e instrumentos para satisfacerlos;
+
+II.- Las actividades formativas, educativas, culturales y deportivas que se desarrollarán, los obejtivos y resultados esperados;
+
+III.- La forma en que se dará cumplimiento a cada una de las actividades que señala el artículo 12 de la Ley General;
+
+IV.- Los perfiles del personal que laborará en el centro de atención directamente vinculados al trabajo con niñas y niños, así como las actividades que se les encomendarán;
+
+V.- Las formas y actividades de apoyo a los padres, las personas que ejerzan la tutela o custodia o quien sea responsable del cuidado y crianza para fortalecer la comprensión de sus funciones en la atención, cuidado y desarrollo integral de la niña o el niño;
+
+VI.- El mecanismo que garantice la confiabilidad y seguridad para la identificación o reconocimiento de las personas autorizadas para entregar y recibir a niñas y niños;
+
+VII.- Los procedimientos de recepción, procesamiento, resolución y seguimiento de quejas y sugerencias por parte de los usuarios y de niñas y niños beneficiarios del servicio o de cualquier interesado;
+
+VIII.- El procedimiento para la entrega de información a los padres, a las personas que ejerzan la tutela o custodia o quien sea responsable del cuidado y crianza de niñas y niños, sobre su desempeño y desarrollo integral; y
+
+IX.- La (sic) demás que establezca el Reglamento de esta Ley.
 
 ### CAPÍTULO X. De la Capacitación y Certificación
 
@@ -477,7 +615,11 @@ Los Centros de Atención deberán contar con un Programa de Trabajo, en término
 
 Los Centros de Atención a través de las instancias competentes, están obligados a certificar la formación, capacitación y actualización del personal que labora en ellos.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 53.
+
+El Estado y los Municipios, en el ámbito de sus respectivas competencias, implementarán acciones dirigidas a certificar y capacitar permanentemente al personal que labora en los Centros de Atención, cuya certificación deberá ser actualizada, por lo menos, cada dos años.
 
 El personal que preste Servicios de Atención está obligado a participar en los programas de formación, actualización, capacitación y certificación de competencias, así como de protección civil que establezcan las autoridades competentes.
 
@@ -523,9 +665,11 @@ El Instituto de Servicios de Salud del Estado, llevará a cabo la vigilancia san
 
 El Instituto de Educación así como el Sistema para el Desarrollo Integral de la Familia del Estado, podrán realizar visitas de verificación o inspección en relación a los aspectos relacionados con su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 60.
 
-El Consejo, en coordinación con el Gobierno Estatal y los Ayuntamientos, implementará el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento, el cual tendrá los siguientes objetivos:
+El Consejo, en coordinación con la Federación, el Gobierno Estatal y los Ayuntamientos, implementará el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento, el cual tendrá los siguientes objetivos:
 
 I. Garantizar el mejoramiento progresivo y el fortalecimiento de los Servicios de Atención;
 
@@ -543,9 +687,11 @@ Cuando se aplique suspensión o revocación de la autorización y cancelación d
 
 ### CAPÍTULO XII. De la Evaluación de la Política Estatal
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 62.
 
-La evaluación de la Política Estatal estará a cargo del Consejo. La evaluación permitirá conocer el grado de cumplimiento de los principios, objetivos, criterios, lineamientos y directrices a seguir por las dependencias y entidades del Estado y de los Ayuntamientos, competentes en la materia, así como medir el impacto de la prestación de los servicios en niñas y niños.
+La evaluación de la Política Estatal estará a cargo del Consejo. El objetivo de la evaluación será conocer el grado de cumplimiento de los principios, resultados, criterios, lineamientos y directrices a seguir por las dependencias y entidades del Ejecutivo del Estado y de los municipios, competentes en la materia, así como medir el impacto de la prestación de los servicios de atención, cuidado y desarrollo integral infantil.
 
 ###### Artículo 63.
 
@@ -615,11 +761,15 @@ f) Por el descuido por parte del personal del Centro de Atención que ponga en p
 
 g) Por reincidir en alguna de las causas que originen las sanciones contenidas en la Fracción II de este Artículo; o
 
-h) Por la pérdida de la vida o por la existencia de lesiones graves en una niña o niño. En este caso la suspensión prevalecerá en tanto se deslinde la responsabilidad al Centro de Atención o personal relacionado con el mismo.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+h) Por la pérdida de la vida, la existencia de lesiones o afectaciones físicas y/o psicológicas en una niña o niño. En este caso la suspensión prevalecerá en tanto se determine la responsabilidad al Centro de Atención o personal relacionado con el mismo.
 
 IV. Revocación de la autorización y cancelación del registro, cuando concurran las siguientes causas:
 
-a) Pérdida de la vida o la existencia de lesiones graves en una niña o niño, acreditadas mediante sentencia ejecutoria que haya causado estado y que sean atribuibles al incumplimiento de las disposiciones contenidas en la presente Ley;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+a) Pérdida de la vida, la existencia de lesiones o afectaciones físicas y/o psicológicas en una niña o niño, acreditadas mediante sentencia ejecutoria que haya causado estado y que sean atribuibles al incumplimiento de las disposiciones contenidas en la presente Ley;
 
 b) Comisión de cualquier delito sexual acreditado al personal del Centro de Atención mediante resolución judicial;
 
@@ -641,9 +791,13 @@ II. Las condiciones socioeconómicas del infractor; y
 
 III. La calidad de reincidente del infractor, en tal caso.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 68.
 
-Las sanciones administrativas serán independientes de las penales que resulten como consecuencia de la comisión de delitos derivados de las conductas que se acrediten.
+En caso de que las violaciones a los preceptos de esta Ley, o a los reglamentos y disposiciones que de ella emanen, sean cometidas por servidores públicos del Estado o de los Municipios, se sujetarán a los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+Las sanciones administrativas serán independientes de aquellas que correspondan como consecuencia de que dichas violaciones impliquen la comisión de alguna conducta calificable como delito.
 
 T R A N S I T O R I O S
 
@@ -690,3 +844,21 @@ Dip. María de Lourdes Dávila Castañeda,
 SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 31 de marzo de 2016.- Carlos Lozano de la Torre.- Rúbrica.- Lic. Alejandro Bernal Rubalcava, en suplencia del Secretario General de Gobierno por ministerio de Ley. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 353.- ARTÍCULO ÚNICO.- REFORMAS Y ADICIONES A LA LEY DE PRESTACIÓN DE SERVICIOS PARA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo establecido en el Artículo 39, que entrará en vigor el 01 de enero de 2021.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo y los Ayuntamientos del Estado deberán adecuar las normas reglamentarias que hayan sido expedidas en términos del Artículo Segundo Transitorio del Decreto 325 de la LXII Legislatura, publicado en fecha 04 de abril de 2016 en el Periódico Oficial del Estado, al contenido del presente Decreto, en un plazo que no exceda de 180 días naturales.
+
+###### ARTÍCULO TERCERO.
+
+Los Centros de Atención contarán con el plazo de un año contado a partir de la entrada en vigor del Artículo 39, para adecuar sus instalaciones y equipamiento a fin de cumplir con lo prescrito en dicho Artículo.
