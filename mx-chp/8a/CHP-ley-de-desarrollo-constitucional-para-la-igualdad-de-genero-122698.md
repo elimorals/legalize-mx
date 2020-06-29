@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-para-la-igualdad-de-genero-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-02"
-last_updated: "2019-11-27"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en la Segunda Sección al Número 309 del Periódico Oficial del Estado de Chiapas, el miércoles 2 de agosto de 2017.
 
@@ -703,7 +703,9 @@ VII. Violencia Obstétrica.- Apropiación del cuerpo y procesos reproductivos de
 
 VIII. Violencia de los derechos reproductivos.- Es toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como los servicios de atención prenatal y obstétricos de emergencia.
 
-IX. La violencia política en razón de género.- Es toda acción u omisión que, en el ámbito político o público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una persona, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público. Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, destrucción de sus bienes materiales, amenazas o privación de la libertad o de su vida, como para su familia o compañeras o compañeros de trabajo.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+IX. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
 X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
@@ -727,37 +729,79 @@ V. Violencia en la comunidad: Son los actos individuales o colectivos que transg
 
 VI. Violencia en los medios de comunicación: Son los actos de violencia verbal, sonora, impresa, digital, audiovisual, televisiva, radiofónica, cinematográfica, editorial o electrónica que sean dirigidos a una mujer independientemente si se trata de una niña, adolescente, adulta, sea ciudadana o militante de un partido político, sea candidata política o política en funciones.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 51.
-
-Constituyen acciones y omisiones que configuran Violencia Política en razón de género en términos de la fracción IX del artículo 49, las siguientes:
-
-I. Imponer la realización de actividades distintas a las atribuciones inherentes a su cargo o función;
-
-II. Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función,
-
-III. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
-
-IV. Ocultar, información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
-
-V. Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
-
-VI. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida;
-
-VII. Impedir o restringir su reincorporación al cargo o función posterior en los casos de licencia o permiso conforme a las disposiciones aplicables;
-
-VIII. Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género; y,
-
-IX. Impedir u obstaculizar el derecho a participar en los procesos electorales como candidata independiente.
-
-### CAPÍTULO II. DE LOS DERECHOS DE LAS MUJERES
-
-###### Artículo 52.
 
 La protección y asistencia a las mujeres víctimas o en situación de riesgo de violencia, tiene por objeto promover su desarrollo integral, su reinserción a la vida pública, privada, social y su participación en todos los niveles de la vida, económica, política, laboral, profesional, académica, social, privada y cultural.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO I BIS. DE LA VIOLENCIA POLÍTICA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+###### Artículo 52.
+
+Constituyen acciones y omisiones que configuran Violencia Política contra las mujeres en razón de género, en términos de la fracción IX del artículo 49; las que afecten desproporcionadamente o tengan un impacto diferenciado en ellas.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+###### Artículo 52 Bis.
+
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
+
+I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
+
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
+
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
+
+V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
+
+VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
+
+VII. Obstaculizar la campaña política o dañar en cualquier forma elementos de la misma, de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+VIII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+XI. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+XII. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+XIII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+XIV. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+XV. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+XVI. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+XVII. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XVIII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XIX. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+XX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+XXI. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
+
+XXII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
+
 El Estado de Chiapas establecerá un sistema integral para la protección de las víctimas en materia de violencia política de género que deberá incluir un tipo penal específico y un sistema de atención temprana para la protección.
 
-### CAPÍTULO III. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO II. DE LOS DERECHOS DE LAS MUJERES
 
 ###### Artículo 53.
 
@@ -825,11 +869,15 @@ El Estado y los municipios, impulsarán programas para difundir una cultura de p
 
 Los municipios coadyuvaran con la Federación y el Estado, para la aplicación adecuada de la Ley y diversas disposiciones vinculadas a la materia; así como la adopción de las medidas administrativas necesarias para dar cumplimiento a la misma.
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+### CAPÍTULO III. DE LAS ÓRDENES DE PROTECCIÓN
 
 ###### Artículo 58.
 
 Son actos de urgente aplicación, en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente inmediatamente que conozcan los hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres sin ninguna dilación.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Chiapas y el Instituto de Elecciones y Participación Ciudadana, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
 ###### Artículo 59.
 
@@ -911,7 +959,7 @@ Las órdenes de protección, atendiendo a la naturaleza de cada una de ellas, se
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+### CAPÍTULO I. DEL SISTEMA ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
 ###### Artículo 66.
 
@@ -931,7 +979,7 @@ El objeto de éste se cumplirá con estricto apego a las disposiciones constituc
 
 Los recursos humanos, financieros y materiales que conforman al sistema serán responsabilidad jurídica y administrativa del Estado y sus municipios a que correspondan y que integran el sistema.
 
-### CAPÍTULO III. DEL PROGRAMA ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+### CAPÍTULO II. DEL CONSEJO ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
 ###### Artículo 70.
 
@@ -1015,7 +1063,7 @@ El Consejo se reunirá previa convocatoria que para tal efecto emita la Presiden
 
 Las sesiones del Consejo serán encabezadas por la Presidencia y en su ausencia por la Secretaría Ejecutiva y para que tengan validez será necesaria la asistencia de la mitad más uno de quienes integran el Consejo. Asimismo, las resoluciones se tomarán por mayoría de votos de los integrantes presentes, teniendo la Presidencia voto de calidad para el caso de empate.
 
-### CAPÍTULO IV. DE LA DISTRIBUCIÓN DE COMPETENCIAS DEL CONSEJO
+### CAPÍTULO III. DEL PROGRAMA ESTATAL PARA GARANTIZAR EL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
 ###### Artículo 76.
 
@@ -1045,7 +1093,7 @@ IX. Evaluar el cumplimiento de los objetivos propuestos en el propio programa;
 
 X. Promover en la comunidad la cultura de denuncia de la violencia contra las mujeres. De igual forma, difundir el seguimiento del expediente y el resolutivo correspondiente a las denuncias presentadas para así combatir la impunidad.
 
-### CAPÍTULO V. DE LA COMPETENCIA DEL ESTADO, MUNICIPIOS Y DEPENDENCIAS
+### CAPÍTULO IV. DE LA DISTRIBUCIÓN DE COMPETENCIAS DEL CONSEJO
 
 ###### Artículo 78.
 
@@ -1131,7 +1179,7 @@ VII. Informar periódicamente al Secretario Ejecutivo del Consejo, el cumplimien
 
 VIII. Las demás que le confieran el Consejo, su Presidente, el Secretario Ejecutivo y demás ordenamientos jurídicos aplicables.
 
-### CAPÍTULO VI. DE LOS MODELOS
+### CAPÍTULO V. DE LA COMPETENCIA DEL ESTADO, MUNICIPIOS Y DEPENDENCIAS
 
 ###### Artículo 81.
 
@@ -1433,7 +1481,17 @@ III. Atender en forma oportuna y expedita las quejas y recomendaciones relaciona
 
 IV. Las demás previstas para el cumplimiento de la presente Ley.
 
-### CAPÍTULO VII. DE LOS REFUGIOS
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+###### Artículo 94 Bis.
+
+Corresponde al Instituto de Elecciones y Participación Ciudadana, en el ámbito de sus competencias:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres; y
+
+II. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+
+### CAPÍTULO VI. DE LOS MODELOS
 
 ###### Artículo 95.
 
@@ -1451,7 +1509,7 @@ III. Sanción; y,
 
 IV. Erradicación.
 
-### CAPÍTULO VIII. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+### CAPÍTULO VII. DE LOS REFUGIOS
 
 ###### Artículo 97.
 
@@ -1507,7 +1565,7 @@ VII. Bolsa de trabajo, con la finalidad de que puedan acceder a una actividad re
 
 En todo momento las mujeres víctimas de violencia podrán decidir sobre su permanencia en los refugios.
 
-### CAPÍTULO IX. DE LA REPARACIÓN DEL DAÑO A LAS MUJERES VÍCTIMAS DE VIOLENCIA
+### CAPÍTULO VIII. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
 ###### Artículo 103.
 
@@ -1529,7 +1587,7 @@ Corresponderá al Gobierno Federal a través de la Secretaría de Gobernación, 
 
 El Poder Ejecutivo del Estado recibirá, a través de la Secretaría de Gobernación, la notificación de la declaratoria de alerta de violencia de género contra las mujeres que dicte el Gobierno Federal en términos de los artículos 24 y 25 de la citada Ley General.
 
-### CAPÍTULO ÚNICO. GENERALIDADES
+### CAPÍTULO IX. DE LA REPARACIÓN DEL DAÑO A LAS MUJERES VÍCTIMAS DE VIOLENCIA
 
 ###### Artículo 107.
 
@@ -1554,6 +1612,8 @@ III. Informar a la víctima sobre el derecho que tiene de acudir a la Comisión 
 Las medidas de ayuda inmediata, asistencia y atención no sustituyen ni remplazan a las medidas de reparación integral a las que tuvieran derecho las víctimas. Las medidas establecidas por la Ley General de víctimas no limitan la posibilidad de que las autoridades competentes en el marco de sus respectivas competencias, puedan adoptar medidas adicionales de ayuda inmediata, asistencia y atención en beneficio de las víctimas, en tanto se correspondan con lo dispuesto en la Ley General de víctimas, y sean pertinentes, proporcionales y razonables, considerando las necesidades especiales que pudieran desprenderse de las características específicas del caso, del daño causado por el hecho ilícito, o bien, de las condiciones particulares de la víctima.
 
 ## TÍTULO CUARTO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+### CAPÍTULO ÚNICO. GENERALIDADES
 
 ###### Artículo 110.
 
@@ -1590,3 +1650,11 @@ P.O. 27 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 020 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES Y DE LA LEY DE SALUD DEL ESTADO DE CHIAPAS, EN MATERIA DE VIOLENCIA OBSTÉTRICA”.]
 
 Artículo Único. - El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 239 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
