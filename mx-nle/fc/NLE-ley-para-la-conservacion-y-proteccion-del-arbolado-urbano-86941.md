@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-conservacion-y-proteccion-del-arbolado-urbano-86941
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-30"
-last_updated: "2019-03-25"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN: 25 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN: 29 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de marzo de 2012.
 
@@ -559,7 +559,9 @@ Las infracciones de carácter administrativo a los preceptos contenidos en esta 
 
 I. Si se trata de servidor público en extralimitación u omisión de sus atribuciones, le será aplicable la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León; y
 
-II. Si el infractor es un particular le serán aplicables, según las circunstancias, servicio comunitario hasta por 36 horas, imposición de multa o arresto administrativo hasta por 36 horas, para las cuales procederá la conmutación al arbitrio de la Autoridad Municipal, en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+II. Si el infractor es un particular le serán aplicables, según las circunstancias, la obligación de reponer los árboles dañados y plantarlos en el lugar donde cometió la infracción, o en otro a juicio de la autoridad municipal, de conformidad con lo establecido en la presente ley y en los reglamentos municipales en la materia, así como los cuidados necesarios con el fin de garantizar el éxito en la plantación y trabajo comunitario hasta por 36 horas, imposición de multa o arresto administrativo hasta por 36 horas, para las cuales procederá la conmutación al arbitrio de la Autoridad Municipal, en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Las sanciones a que se refiere este Artículo, se aplicarán sin perjuicio de las sanciones penales que procedan.
 
@@ -567,9 +569,13 @@ Las sanciones a que se refiere este Artículo, se aplicarán sin perjuicio de la
 
 La imposición de las multas a las personas físicas o morales a que se refiere la fracción II del Artículo anterior, las determinará la Autoridad Municipal correspondiente dentro del ámbito de su competencia en la forma siguiente:
 
-I. Con un equivalente de 10 a 300 veces de salario mínimo general vigente en el Estado, por cada árbol afectado, por la comisión de las infracciones señaladas en las fracciones I, II ó III del Artículo 61, o a quien incurra en la conducta señalada en el Artículos (sic) 59 de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-II. Con el equivalente de 50 a 2,000 veces de salario mínimo general vigente en el Estado, a quien cometa cualquiera de las infracciones señaladas en las fracciones IV, V, VI, VII y VIII del Artículo 61 o a quien incurra en la conducta prohibida en el Artículo 60 de esta Ley; y
+I. Con un equivalente de 100 a 500 el valor diario de la Unidad de Medida y Actualización, por cada árbol afectado, por la comisión de las infracciones señaladas en las fracciones I, II ó III del Artículo 61, o a quien incurra en la conducta señalada en el Artículo 59 de esta Ley;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+II. Con el equivalente de 200 a 5,000 veces el valor diario de la Unidad de Medida y Actualización, a quien cometa cualquiera de las infracciones señaladas en las fracciones IV, V, VI, VII y VIII del Artículo 61 o a quien incurra en la conducta prohibida en el Artículo 60 de esta Ley; y
 
 III. Asimismo, en los casos en que se amerite, a juicio de la Autoridad Municipal, podrán imponerse como sanción la clausura o suspensión temporal o definitiva, total o parcial, el decomiso de bienes, instrumentos, vehículos o herramientas y la amonestación o apercibimiento, cuando la falta sea menor.
 
@@ -768,3 +774,13 @@ P.O. 25 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 105. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN XIV DEL ARTÍCULO 6 Y POR ADICIÓN EL ARTÍCULO 19 BIS Y LA FRACCIÓN III DEL ARTÍCULO 39, TODOS DE LA LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE NUEVO LEÓN.”]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 314. SE REFORMAN LA FRACCIÓN LL (SIC) DEL PÁRRAFO PRIMERO DEL ARTÍCULO 62 Y LAS FRACCIONES I Y II DEL PÁRRAFO PRIMERO DEL ARTÍCULO 63 DE LA LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los procedimientos que actualmente se encuentran en resolución sobre las infracciones de carácter administrativo en la materia deberán seguir su curso hasta ser resueltos de conformidad con lo establecido en los reglamentos municipales vigentes antes de la entrada en vigor de este Decreto.
+
+TERCERO.- Los municipios del Estado de Nuevo León contarán con un plazo de 60 días hábiles contados a partir de la entrada en vigor del presente decreto para armonizar sus reglamentos en la materia.
