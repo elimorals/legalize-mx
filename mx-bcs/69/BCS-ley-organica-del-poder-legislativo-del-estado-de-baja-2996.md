@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2020-04-21"
+last_updated: "2020-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -529,9 +529,9 @@ II.- Designar delegaciones para atender la celebración de reuniones interparlam
 
 III.- Poner a consideración del pleno a los Diputados que integran las Comisiones Permanentes, Especiales y la Comisión Instructora en caso de juicio político, y expedir los nombramientos correspondientes, una vez que fueren aprobados por la asamblea; así como llevar a cabo la sustitución justificada de los integrantes de las mismas.
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, B.O. 29 DE JUNIO DE 2020)</small>
 
-IV.- Conceder licencias a los Diputados en los casos previstos en el Artículo 27 y demás relativos de esta Ley Reglamentaria.
+IV.- Conceder licencias a los Diputados en los casos previstos en el Artículo 27 y demás relativos de esta Ley Orgánica.
 
 > <small>(REFORMADA, B.O. 20 DE JULIO DE 2017)</small>
 
@@ -565,9 +565,9 @@ XI.- Coadyuvar en la integración del proyecto del presupuesto de egresos del Co
 
 XII.- Administrar con eficiencia y transparencia el presupuesto de egresos del Congreso del Estado para cada año, así como establecer las bases para autorizar adquisiciones mediante licitación pública de bienes y la contratación de prestación de servicios para la función legislativa, informando de manera oficiosa y al término de cada periodo ordinario de sesiones al pleno del Congreso.
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, B.O. 29 DE JUNIO DE 2020)</small>
 
-XIII.- Llevar a cabo corresponsablemente a través de su Presidente el proceso de entrega recepción que establece el Titulo Octavo de la Ley Reglamentaria.
+XIII.- Llevar a cabo corresponsablemente a través de su Presidente el proceso de entrega recepción que establece el Título Octavo de la Ley.
 
 XIV.- (DEROGADA, B.O. 15 DE AGOSTO DE 2018)
 
@@ -2671,9 +2671,9 @@ Las autoridades y funcionarios públicos en el desempeño de sus cargos, podrán
 
 El Congreso no podrá reunirse para tomar acuerdo o determinación oficial alguna, fuera del Recinto que le está destinado al efecto, salvo en caso de que por fuerza mayor o por circunstancias imprevistas no pudiera reunirse en este. En tales casos, el Congreso podrá constituirse en local distinto al oficial; y al efecto investirá de la legalidad necesaria al lugar que ocupe, expedirá el Decreto correspondiente y dará aviso a las Autoridades Estatales y Federales, informando sobre los motivos que le hayan asistido para tomar tal determinación. Una vez desaparecidas las causas que motivaron el cambio de Recinto, volverá el Congreso del Estado a su Recinto Oficial, expidiéndo el Decreto respectivo y dando aviso a los otros Poderes.
 
-> <small>(ADICIONADO, B.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2020)</small>
 
-Si el caso fortuito o la fuerza mayor fueren tales que las y los diputados no pudieren reunirse a sesionar de manera presencial, quien ocupe la presidencia de la mesa directiva dispondrá lo necesario para que mientras exista el impedimento, las sesiones ordinarias o extraordinarias según corresponda, se celebren de manera virtual. Los integrantes de la legislatura deberán ser convocados mediante correo electrónico, con al menos 48 horas de anticipación.
+Si el caso fortuito o la fuerza mayor fueren tales que las y los diputados no pudieren reunirse a sesionar de manera presencial, quien ocupe la presidencia de la mesa directiva dispondrá lo necesario para que mientras exista el impedimento, las sesiones ordinarias, extraordinarias y solemnes según corresponda, se celebren de manera virtual. Los integrantes de la legislatura deberán ser convocados mediante correo electrónico, con al menos 8 horas de anticipación.
 
 > <small>(ADICIONADO, B.O. 21 DE ABRIL DE 2020)</small>
 
@@ -3019,13 +3019,17 @@ Cuando por cualquier motivo la Diputación Permanente no complete quórum para S
 
 Cuando el Congreso sea convocado a Periodo Extraordinario de Sesiones, la Diputación Permanente no suspendera sus trabajos sino que continuará despachando sus asuntos ordinarios, salvo aquellos que se refieran a cuestiones para las cuales se haya convocado a período extraordinario.
 
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 231.
 
-Cuando deba convocarse a períodos extraordinarios, en términos de la Fracción I del Artículo 66 de la Constitución Política del Estado, la Diputación Permanente librará con toda oportunidad oficio a los integrantes del Congreso para ese efecto, pudiéndo emplear los medios de telegrafo y telefono, mandando publicar la convocatoria en el Boletín Oficial del Gobierno del Estado.
+Cuando deba convocarse a períodos extraordinarios, en términos de la Fracción I del Artículo 66 de la Constitución Política del Estado, la Diputación Permanente librará con toda oportunidad oficio a los integrantes del Congreso para ese efecto, pudiendo emplear los medios de telégrafo, teléfono, correo electrónico y los medios electrónicos disponibles del Congreso del Estado.
+
+> <small>(REFORMADO, B.O. 29 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 232.
 
-En la Sesión que celebre el Congreso para inaugurar un Periodo Extraordinario de Sesiones, se leera por el Secretario la convocatoria relativa publicada en el Boletín Oficial, y tanto en la apertura o clausura de dicho periodo, se usarán por la Presidencia las mismas formulas que establece el Artículo respectivo para la apertura y clausura de los Periodos Ordinarios.
+En la Sesión que celebre el Congreso para inaugurar un Periodo Extraordinario de Sesiones, se leerá por el Secretario la convocatoria relativa, y tanto en la apertura o clausura de dicho periodo, se usarán por la Presidencia las mismas fórmulas que establece el Artículo respectivo para la apertura y clausura de los Periodos Ordinarios.
 
 ###### ARTICULO 233.
 
@@ -3774,3 +3778,11 @@ B.O. 21 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL DECRETO 2713 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO AL ARTÍCULO 187, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente decreto entrará en vigor el día de su aprobación, debiendo enviarse para su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2723, MEDIANTE EL CUAL SE REFORMAN A LOS ARTÍCULOS 51, FRACCIONES IV Y XIII, 231 Y 232 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación y se enviará para su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abrogan todas las disposiciones de carácter secundario que se opongan al presente decreto.
