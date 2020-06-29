@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2020-03-16"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -1677,27 +1677,27 @@ Las Sesiones Extraordinarias podrán celebrarse en cualquier día y hora, sin qu
 
 En casos de extrema urgencia, para conocer asuntos del interés fundamental del Municipio, la convocatoria podrá notificarse con un mínimo de tres horas de anticipación a la Sesión, acompañando de ser posible copia de los dictámenes que se someterán a discusión y votación.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 146.
 
-Las Sesiones Ordinarias y Extraordinarias, a su vez podrán tener las siguientes categorías: Públicas, Secretas, Permanentes y Solemnes.
+Las Sesiones Ordinarias y Extraordinarias, a su vez podrán tener las siguientes categorías: Públicas, Permanentes y Solemnes.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 ###### Artículo 147.
 
-Por regla general las Sesiones tendrán el carácter de públicas, excepto las que señale el presente Código como secretas o en los casos en que así lo determine el Ayuntamiento, en virtud de la naturaleza del asunto que se vaya a tratar, en cuyo caso sólo tendrán acceso al recinto los propios Ediles, el Secretario del Ayuntamiento y, por determinación del Ayuntamiento, la persona que en su caso tenga relación con el asunto a tratar.
+Por regla general las Sesiones tendrán el carácter de públicas,
 
 ###### Artículo 148.
 
-Son Sesiones Secretas, aquellas en las que se traten los asuntos siguientes:
+(DEROGADO, P.O. 29 DE JUNIO DE 2020)
 
-I.- De carácter político, económico, que requieran reserva; así como asuntos internos del H. Cabildo;
-
-II.- De carácter secreto dirigidos al Ayuntamiento, por los Poderes Ejecutivo, Legislativo y Judicial, tanto Federal como Estatal, así como por otros Ayuntamientos; y
-
-III.- A solicitud de uno o más Regidores o Síndico, lo acuerde el Ayuntamiento.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 ###### Artículo 149.
 
-A las Sesiones que no tengan carácter de secretas puede asistir cualquier persona, instalándose en el Salón de Sesiones del Ayuntamiento, pero debe prohibirse la entrada a quienes se encuentren armados, en estado de ebriedad o bajo influencia de drogas o psicotrópicos.
+A todas las Sesiones puede asistir cualquier persona, instalándose en el Salón de Sesiones del Ayuntamiento, pero debe prohibirse la entrada a quienes se encuentren armados, en estado de ebriedad o bajo influencia de drogas o psicotrópicos.
 
 ###### Artículo 150.
 
@@ -1717,19 +1717,7 @@ Si las disposiciones ordenadas por el Presidente Municipal no bastan para manten
 
 ###### Artículo 154.
 
-Para las Sesiones Secretas se observarán las reglas siguientes:
-
-I.- La secrecía obliga a los asistentes a guardar sigilo sobre todo lo tratado en la Sesión, por lo que sólo se dará a conocer lo resuelto, en su caso;
-
-II.- En asuntos que afecten al interés jurídico individual, se notificará además a los afectados el acto respectivo;
-
-III.- De las Sesiones Secretas no se hará constar en actas las discusiones o deliberaciones ni el sentido del voto de los Ediles en lo individual;
-
-IV.- Se hará constar la Sesión en acta que se levantará, leerá, aprobará en su caso y se firmará antes de disolverse la reunión;
-
-V.- Durante los debates y discusiones secretos, deberán apagarse y mantenerse sin funcionar cualquier equipo, instrumento o aparato de grabación de audio o de video o de transmisión electrónica; y
-
-VI.- Las Sesiones Secretas comenzarán por deliberar y resolver si el asunto respectivo debe tratarse en secreto.
+(DEROGADO, P.O. 29 DE JUNIO DE 2020)
 
 ###### Artículo 155.
 
@@ -8445,11 +8433,15 @@ VII.- Que las tomas y descargas cumplan con lo dispuesto en este título.
 
 El procedimiento de inspección o verificación se sujetará a las formalidades y procedimientos establecidos en la Ley del Procedimiento Administrativo del Estado y en el presente Código.
 
-### CAPÍTULO III. Del Organismo Operador de los Servicios de Agua Potable de Calvillo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO III. Del Organismo Operador de Servicios de Agua de Calvillo
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 ###### Artículo 869.
 
-La prestación del servicio público de agua potable, alcantarillado saneamiento en el Municipio de Calvillo, Aguascalientes, correrá a cargo de un Organismo Público Descentralizado de la Administración Municipal, con personalidad jurídica y patrimonio propio, denominado Organismo Operador del Servicio de Agua Potable del Municipio de Calvillo, Aguascalientes (OOSAC).
+La prestación del servicio público de agua potable, alcantarillado saneamiento en el Municipio de Calvillo, Aguascalientes, correrá a cargo de un Organismo Público Descentralizado de la Administración Municipal, con personalidad jurídica y patrimonio propio, denominado Organismo Operador de Servicios de Agua de Calvillo, con sede en el municipio de Calvillo, Aguascalientes; para efectos del presente ordenamiento en adelante OOSAC.
 
 ###### Artículo 870.
 
@@ -24796,3 +24788,15 @@ Artículo Tercero.- Cúmplase.
 P.O. 16 DE MARZO DE 2020.
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES VIGENTE.]</small>
+
+P.O. 29 DE JUNIO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE CALVILLO, AGS.”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Segundo.- Todos los artículos del Código Municipal de Calvillo, Ags., y demás reglamentación municipal que mencionan Organismo Operador del Servicio de Agua Potable del Municipio de Calvillo, Aguascalientes se refieren a Organismo Operador de Servicios de Agua de Calvillo, lo anterior para todos los efectos legales a los que haya lugar.
+
+Artículo Tercero.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Cuarto.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Quinto.- Cúmplase.
