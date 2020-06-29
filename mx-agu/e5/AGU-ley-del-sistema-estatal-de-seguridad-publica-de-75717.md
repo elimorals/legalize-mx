@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2019-11-28"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -49,13 +49,45 @@ LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
 ### CAPÍTULO ÚNICO. Del Objeto de la Ley
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+###### Artículo 1°.
+
+La presente Ley es de orden público e interés social, de observancia general en el Estado de Aguascalientes, y tiene por objeto lo siguiente:
+
+I.- Normar la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública;
+
+II.- Regular la vigilancia del tránsito y la seguridad en las carreteras, caminos y vialidades de jurisdicción estatal y municipal;
+
+III.- Establecer las bases generales de coordinación entre el Estado y sus municipios y demás instancias en materia de seguridad pública; y
+
+IV.- Regular la prestación de servicios de seguridad privada dentro del Estado.
+
+Lo anterior de conformidad con lo dispuesto en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y en la Ley General del Sistema Nacional de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 1º.
 
 La presente Ley es de orden público, interés social, de observancia general en el Estado de Aguascalientes. Tiene por objeto normar la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, y las bases para que el Estado lleve a cabo la coordinación con sus Municipios y con la Federación en esta materia, en términos de lo dispuesto por el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-###### Artículo 2º.
+###### Artículo 2°.
 
-La Seguridad Pública es una función a cargo del Estado y los Municipios, que tiene como fines prevenir el delito, salvaguardar la integridad y los derechos de las personas; preservar las libertades, el orden y la paz pública. Comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, así como la investigación y la persecución de los delitos, en términos de esta Ley, en las respectivas competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado.
+La seguridad pública es una función a cargo del Estado y sus municipios, orientada a la consecución de los siguientes fines:
+
+I.- Salvaguardar los derechos humanos y sus garantías, la preservación del orden y la paz pública, teniendo como eje central a la persona.
+
+II.- Disminuir y contener la incidencia delictiva, identificando sus factores criminógenos;
+
+III.- Orientar e informar a las víctimas y ofendidos del delito, buscando además que reciban una atención adecuada y oportuna por parte de las instituciones correspondientes;
+
+IV.- Optimizar la labor de las instituciones policiales en el combate a la delincuencia, las conductas antisociales, la prevención y control del delito y de las infracciones administrativas, de tal forma que haga posible abatir la incidencia delictiva en el Estado;
+
+V.- Colaborar para la plena reinserción social de los sentenciados y la reintegración social de los adolescentes;
+
+VI.- Promover que los ciudadanos y la población en general incrementen su confianza en las instituciones que realizan tareas de seguridad pública; y
+
+VII.- Fomentar la participación social activa en materia de seguridad pública.
 
 El Estado y los municipios en coordinación con la Federación, desarrollarán políticas de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
 
@@ -67,7 +99,13 @@ La función de Seguridad Pública se realizará en los diversos ámbitos de comp
 
 El Sistema contará para su funcionamiento y operación con las instancias, instrumentos, políticas, acciones y servicios previstos en la presente Ley, tendientes a cumplir los fines de la Seguridad Pública.
 
-La coordinación en un marco de respeto a las atribuciones entre las instancias de la Federación, el Estado y los municipios, será el eje del Sistema.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+La coordinación se llevará a cabo en un marco de respeto a las atribuciones entre las instancias de la Federación, el Estado y los municipios, y será el eje del Sistema.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Las políticas y programas se efectuarán con base en las leyes y reglamentos aplicables, los acuerdos y resoluciones del Consejo, así como de los convenios que se celebren con arreglo a la legislación aplicable. Los acuerdos y los convenios que éstas celebren tendrán carácter obligatorio para todas las instancias involucradas.
 
 ###### Artículo 5º.
 
@@ -135,19 +173,29 @@ XIX. Secretariado Ejecutivo: Al Secretariado Ejecutivo del Sistema Estatal de Se
 
 XX. Sistema: Al Sistema Estatal de Seguridad Pública.
 
-###### Artículo 6º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020)</small>
 
-Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional. Su actuación se regirá además, por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos. Deberán fomentar la participación ciudadana y la rendición de cuentas en términos de Ley.
+###### Artículo 6.
+
+Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional. Su actuación se regirá además, por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos previstos en la Constitución Federal y en los instrumentos internacionales aplicables en la materia. Deberán fomentar la participación ciudadana y la rendición de cuentas en términos de Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+La función de seguridad pública se realizará, en los diversos ámbitos de competencia de las autoridades, por conducto de las Instituciones Policiales y de Procuración de Justicia, de los responsables de la prisión preventiva y ejecución de sentencias.
 
 ###### Artículo 7º.
 
 Conforme a las bases que establece el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, las Instituciones de Seguridad Pública Estatales y Municipales, en el ámbito de su competencia, deberán coordinarse para:
 
-I. Integrar el Sistema y cumplir con sus objetivos y fines;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+I. Integrar el Sistema y cumplir con sus objetivos y fines, garantizando el cumplimiento de la presente Ley y demás disposiciones que deriven de ésta;
 
 II. Formular mediante un mecanismo de coordinación, políticas integrales, sistemáticas y evaluables, así como programas y estrategias, en materia de seguridad pública;
 
-III. Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones, a través de las instancias previstas en esta ley;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+III. Proponer, ejecutar y evaluar las políticas, estrategias, acciones y programas en materia de seguridad pública y demás instrumentos programáticos previstos en otros ordenamientos jurídicos;
 
 IV. Distribuir a los integrantes del Sistema, actividades específicas para el cumplimiento de los fines de la Seguridad Pública en términos de ésta Ley;
 
@@ -157,13 +205,17 @@ VI. Regular los sistemas disciplinarios, así como de reconocimientos, estímulo
 
 VII. Determinar criterios uniformes para la organización, operación y modernización tecnológica de las Instituciones de Seguridad Pública;
 
-VIII. Establecer y controlar bases de datos criminalísticos y de personal;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+VIII. Establecer y controlar los registros y bases de datos criminalísticas (sic) y de personal, de los Sistemas Nacional y Estatal, en el ámbito de sus atribuciones, y designar a un responsable del control, suministro y adecuado manejo de la información a que se refiere esta Ley;
 
 IX. Realizar acciones y operativos conjuntos de las Instituciones de Seguridad Pública;
 
 X. Participar en la protección y vigilancia de las Instalaciones Estratégicas del país en los términos de esta ley y demás disposiciones aplicables;
 
-XI. Determinar la participación de la comunidad y de instituciones académicas en coadyuvancia de los procesos de evaluación de las políticas de prevención del delito, así como de las Instituciones de Seguridad Pública, a través de mecanismos eficaces;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+XI. Determinar y coordinar la participación de la ciudadanía, organizaciones de la sociedad civil, Instituciones de Seguridad Pública y de instituciones académicas en la elaboración, monitoreo y modificación de las políticas integrales de prevención social de la violencia y la delincuencia, así como del delito, a través de mecanismos eficaces;
 
 XII. Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
 
@@ -179,13 +231,29 @@ XIV. Realizar las acciones necesarias para incrementar la eficacia en el cumplim
 
 XV. Ejecutar los acuerdos del Consejo de manera inmediata, cuando se trate de implementar la política pública de Mando Único en el ámbito de su competencia territorial;
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-XVI. Reforzar las acciones de prevención y reacción permanentes mediante operativos conjuntos optimizando recursos humanos materiales mediante la coordinación de las fuerzas del orden público del Estado y los municipios; y
+XVI. Reforzar las acciones de prevención y reacción permanente mediante operativos conjuntos optimizando recursos humanos materiales mediante la coordinación de las fuerzas del orden público del Estado y los municipios;
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-XVII. Homologar procesos, procedimientos, protocolos de actuación, vehículos, equipamiento, armamento y calibres, sistemas de comunicación, así como uniformes respecto a los utilizados por la Secretaría.
+XVII. Homologar procesos, procedimientos, protocolos de actuación, vehículos, equipamiento, armamento y calibres, sistemas de comunicación, así como uniformes respecto a los utilizados por la Secretaría;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+XVIII. Integrar y consultar la información relativa a la operación y desarrollo policial para el registro y seguimiento, en las bases de datos criminalísticos y de personal de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+XIX. Proporcionar información a la ciudadanía para enfrentar los problemas derivados de la delincuencia; siempre que no violente los principios de confidencialidad y reserva;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+XX. Apoyar la organización, sistematización y el intercambio de experiencias exitosas, investigación académica y aplicación práctica de conocimientos basados en evidencias en el combate al delito;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+XXI. Las demás atribuciones específicas que se establezcan en esta Ley.
 
 ###### Artículo 8º.
 
@@ -239,9 +307,11 @@ Las Instituciones de Seguridad Pública deberán proporcionar al Secretariado Ej
 
 ### CAPÍTULO II. Consejo Estatal de Seguridad Pública
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 12.
 
-El Consejo será la instancia encargada de la coordinación, planeación y definición de políticas públicas en seguridad pública. Asimismo, será el responsable de dar seguimiento y cumplimiento a los acuerdos, lineamientos y políticas emitidos por el Consejo Nacional de Seguridad Pública y las Conferencias Nacionales del Sistema Nacional de Seguridad Pública en su ámbito de competencia.
+El Consejo Estatal es la instancia superior en el Estado encargada de planear, coordinar, y supervisar el Sistema, así como la coordinación, planeación y definición de políticas públicas en seguridad pública. Asimismo, será el responsable de dar seguimiento y cumplimiento a los acuerdos, lineamientos y políticas emitidos por el Consejo Nacional de Seguridad Pública y las Conferencias Nacionales del Sistema Nacional de Seguridad Pública en su ámbito de competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2016)</small>
 
@@ -281,7 +351,9 @@ El Magistrado Presidente del Supremo Tribunal de Justicia del Estado podrá asis
 
 Podrá invitarse a autoridades, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública.
 
-El Presidente de la Comisión Estatal de Derechos Humanos y el Delegado del Centro de Inteligencia y Seguridad Nacional serán invitados permanentes del Consejo.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+El Presidente de la Comisión Estatal de Derechos Humanos, el Delegado del Centro de Inteligencia y Seguridad Nacional y el Presidente de la Comisión de Seguridad Pública del Congreso del Estado serán invitados permanentes del Consejo, con derecho a voz, pero sin voto.
 
 ### CAPÍTULO III. Atribuciones del Consejo Estatal de Seguridad Pública
 
@@ -363,13 +435,25 @@ La participación en el Sistema y en el Consejo, en ningún caso, implica la tra
 
 ### CAPÍTULO IV. Programa Estatal de Seguridad Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 19.
 
-El Gobernador del Estado propondrá al Consejo, de conformidad con el Plan Estatal de Desarrollo, el Programa Estatal de Seguridad Pública, el cual deberá de vincularse con el Programa Nacional de Seguridad Pública y contener las medidas, objetivos y metas para el mantenimiento del orden, la paz pública y en general, la salvaguarda de la integridad física y de los bienes y derechos de las personas en el Estado y el auxilio a la población en caso de siniestro y desastre en coordinación con las autoridades de protección civil.
+El Gobernador del Estado propondrá al Consejo para su aprobación y expedición, de conformidad con el Plan Estatal de Desarrollo, el Programa Estatal de Seguridad Pública, el cual deberá de vincularse con el Programa Nacional de Seguridad Pública y contener las medidas, objetivos y metas para el mantenimiento del orden, la paz pública, la prevención del delito, y en general, la salvaguarda de la integridad física y de los bienes y derechos de las personas en el Estado y el auxilio a la población en caso de siniestro y desastre en coordinación con las autoridades de protección civil.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+El Programa Estatal deberá revisarse anualmente, conforme a los objetivos y metas programados y alcanzados, las circunstancias presentadas en su realización, así como en las observaciones que se realicen.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+El Gobernador del Estado incluirá en su informe anual al Congreso del Estado, los avances y los resultados de la implementación y ejecución del Programa Estatal, en términos del Artículo 46 fracción IV de la Constitución Política del Estado de Aguascalientes y del Artículo 9° de la Ley de Planeación Estatal y Regional del Estado de Aguascalientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020)</small>
 
 ###### Artículo 20.
 
-Los programas de Seguridad Pública del Estado y de los municipios, deberán contener:
+Los programas de Seguridad Pública del Estado y de los municipios son obligatorios para todos los servidores públicos de la administración pública de la entidad, conforme a sus respectivas competencias, y deberán contener:
 
 I. Un diagnóstico sobre la seguridad pública en el ámbito de su competencia;
 
@@ -377,7 +461,9 @@ II. Los objetivos del programa;
 
 III. Las estrategias para el logro de los objetivos;
 
-IV. Los subprogramas específicos, las acciones y metas operativas, los mecanismos previstos para la coordinación con otras entidades o dependencias federales, estatales y municipales, así como aquellos que requieran concertación con los ciudadanos en los términos previstos en ésta Ley; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+IV. Los subprogramas específicos, las acciones y metas operativas, los protocolos de actuación y mecanismos previstos para la coordinación con otras entidades o dependencias federales, estatales y municipales, así como aquellos que requieran concertación con los ciudadanos en los términos previstos en ésta Ley; y
 
 V. Los responsables administrativos de su ejecución.
 
@@ -464,6 +550,26 @@ III. El personal operativo del área de Seguridad Pública y Vialidad de los Mun
 IV. El personal operativo de los Centros de Reinserción Social en el Estado y del Centro del Desarrollo para el Adolescente; y
 
 V. Las demás que se constituyan con apego a la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Artículo 26 A.- Son atribuciones de los Ayuntamientos:
+
+I.- Garantizar la seguridad en el territorio municipal, de las personas, sus bienes, sus derechos, así como preservar la tranquilidad y guardar el orden público, expidiendo para ese efecto los bandos de policía y gobierno, reglamentos, y demás disposiciones administrativas de observancia general en materia de seguridad pública y vigilancia del tránsito municipal;
+
+II.- Aprobar los programas de seguridad pública y de prevención social de la violencia y la delincuencia de su competencia, y coadyuvar en la elaboración de los programas estatales de seguridad pública y de prevención del delito;
+
+III.- Acordar la celebración de convenios o acuerdos en el ejercicio de sus atribuciones, con el Ejecutivo del Estado, la Federación y otros municipios, relativos a la función de seguridad pública y vigilancia del tránsito y seguridad de vialidades;
+
+IV.- Proporcionar a la Secretaría la información necesaria para darle seguimiento a la ejecución y resultados de las funciones y programas de seguridad;
+
+V.- Impulsar la profesionalización de los integrantes de las instituciones policiales municipales;
+
+VI.- Dictar las disposiciones administrativas de las funciones operativas, para la observancia y cumplimiento de esta Ley;
+
+VII.- Hacer del conocimiento del Gobernador del Estado sobre las alteraciones graves del orden público y la tranquilidad social en sus comunidades; y
+
+VII (SIC).- Las demás que le confiera esta Ley y los ordenamientos jurídicos aplicables.
 
 ###### Artículo 27.
 
@@ -717,13 +823,17 @@ XIII. Recibir el equipo de trabajo sin costo alguno;
 
 XIV. Disfrutar de los beneficios que establezcan las disposiciones aplicables, una vez terminado el servicio de Carrera Policial;
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-XV. Gozar de permisos y licencias en los términos de la normatividad aplicable; y
+XV. Gozar de permisos y licencias en los términos de la normatividad aplicable;
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2020)</small>
 
-XVI. Los demás que establezcan otras disposiciones aplicables.
+XVI. Recibir una constancia de resultados cuando sean sujetos a las evaluaciones de control y confianza; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JUNIO DE 2020)</small>
+
+XVII. Los demás que establezcan otras disposiciones aplicables.
 
 ###### Artículo 41.
 
@@ -1439,6 +1549,18 @@ La selección es el proceso que consiste en elegir, de entre los aspirantes que 
 
 El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo al terminar la etapa de formación inicial o capacitación en el Instituto Estatal de Seguridad Pública, el periodo de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Al concluir la etapa de ingreso y expedido el nombramiento respectivo, se formalizará la relación jurídica administrativa entre el integrante y la corporación de que se trate.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+Posterior al nombramiento se realizará la protesta correspondiente, razón por la cual el integrante deberá firmar carta donde se comprometa a prestar los servicios para los que fue formado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+
+En caso de renuncia al servicio antes del término de un año, el integrante deberá restituir a las arcas de la autoridad competente en el ejercicio de los recursos, el monto económico invertido para la formación inicial, así como el monto de la beca que le hubiera sido otorgado durante el periodo de dicha formación.
+
 ###### Artículo 74.
 
 La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente Ley para continuar en el servicio activo de las Instituciones Policiales. Son requisitos de ingreso y permanencia los siguientes:
@@ -1839,6 +1961,8 @@ El acceso a los registros y a la información generada por el Sistema Estatal de
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ## TÍTULO SEXTO. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
 
 ###### Artículo 111.
@@ -2027,6 +2151,8 @@ El Consejo Estatal de Consulta y Participación Ciudadana difundirá a través d
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 129.
 
 Las medidas disciplinarias son las sanciones a que se hacen acreedores los integrantes de las Instituciones Policiales estatales y municipales, inclusive actuando como policía auxiliar, cuando desacaten los principios de actuación y las obligaciones que esta ley y demás disposiciones jurídicas les asignen. Las sanciones que deban imponerse y los procedimientos para aplicarlas, se especificarán en lo particular para cada institución policial, en sus reglamentos respectivos, atendiendo a lo dispuesto por esta ley. Deberá integrarse al expediente del infractor las resoluciones correspondientes. En la aplicación de las medidas disciplinarias se respetará la garantía de audiencia del infractor.
@@ -2071,7 +2197,7 @@ Contra las resoluciones que emitan los Consejos de Honor y Justicia, procederá 
 
 ###### Artículo 133.
 
-El incumplimiento de lo dispuesto por esta Ley a cargo de los servidores públicos, será sancionado conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y demás disposiciones aplicables en la materia, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir.
+El incumplimiento de lo dispuesto por esta Ley a cargo de los servidores públicos, será sancionado conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y demás disposiciones aplicables en la materia, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
 
@@ -2101,11 +2227,13 @@ El resguardo de las instalaciones estratégicas queda a cargo de la Federación,
 
 ###### Artículo 139.
 
-La supervisión y vigilancia de la prestación de los servicios de seguridad privada corresponderá a la Secretaría.
+Los particulares que busquen prestar servicios de seguridad privada, en términos del Artículo 4° de la Ley de Seguridad Privada del Estado de Aguascalientes, deberán obtener autorización previa de la Secretaría, quien llevará a cabo la supervisión y vigilancia de la prestación de dichos servicios.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 ###### Artículo 140.
 
-Los servicios de seguridad privada son auxiliares a la función de seguridad pública. Sus integrantes coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente del Estado, de acuerdo a los requisitos y condiciones que establezca la autorización respectiva.
+Los servicios de seguridad privada son auxiliares a la función de seguridad pública. Sus integrantes coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente del Estado, o los Municipios, de acuerdo con los requisitos y condiciones que establezca la autorización respectiva.
 
 ###### Artículo 141.
 
@@ -2426,3 +2554,27 @@ El Poder Ejecutivo, deberá emitir las adecuaciones normativas correspondientes,
 ###### ARTÍCULO DÉCIMO OCTAVO.
 
 Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 361.- ARTÍCULO ÚNICO.- REFORMAS Y ADICIONES A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+
+P.O. DE 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 363.- ARTÍCULO ÚNICO.- SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 73 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la (sic) Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
