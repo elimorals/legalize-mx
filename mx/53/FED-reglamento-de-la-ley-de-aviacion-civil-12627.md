@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aviacion-civil-12627"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-07"
-last_updated: "2014-03-14"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-04"
 
 REGLAMENTO DE LA LEY DE AVIACIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2020.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 7 de diciembre de 1998.
 
@@ -37,6 +37,10 @@ REGLAMENTO DE LA LEY DE AVIACIÓN CIVIL
 
 El presente ordenamiento tiene por objeto reglamentar la Ley de Aviación Civil, sin perjuicio de lo dispuesto en los tratados internacionales de los que los Estados Unidos Mexicanos sea parte.
 
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+El Transporte Aéreo Internacional, se sujetará a lo que, en su caso, establezcan los tratados internacionales de los que los Estados Unidos Mexicanos sean parte, y en aquellos casos en que no exista regulación internacional especial, a lo dispuesto en la Ley y el presente Reglamento.
+
 ###### ARTÍCULO 2.
 
 En adición a lo establecido por el artículo 2 de la Ley de Aviación Civil, para los efectos de este Reglamento se entenderá por:
@@ -50,6 +54,16 @@ III. Cabotaje: el transporte aéreo mediante remuneración o cualquier otro tipo
 IV. Ley: la Ley de Aviación Civil;
 
 V. Secretaría: la Secretaría de Comunicaciones y Transportes;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 29 DE JUNIO DE 2020)</small>
+
+V Bis. Animales domésticos: el animal que ha sido reproducido y criado bajo el control del ser humano, que convive con él y requiere de éste para su subsistencia y que no se trate de animales silvestres. Para efectos de este Reglamento, los animales domésticos se clasifican en:
+
+a) Animales de servicio: los que, previo adiestramiento acreditado, pueden llevar a cabo actividades de apoyo a personas con discapacidad, obedecer instrucciones o estar condicionados para lograr fines específicos;
+
+b) Animales de apoyo emocional: aquéllos que, como parte de un plan de tratamiento médico proporcionan compañía, alivian la soledad y a veces ayudan con la depresión, la ansiedad, y ciertas fobias, pero no tienen entrenamiento especial para llevar a cabo tareas que ayudan a personas con discapacidades, y
+
+c) Especies braquicéfalas: aquéllas que poseen un hocico y cráneo muy acortados;
 
 VI. Operador aéreo: el propietario o poseedor de una aeronave de Estado, de las comprendidas en el artículo 5., fracción II, inciso a) de la Ley, así como de transporte aéreo privado no comercial, mexicana o extranjera, y
 
@@ -545,7 +559,9 @@ Todo concesionario o permisionario que preste servicio al público de transporte
 
 I. Para el transporte de pasajeros;
 
-a) Un billete de pasaje, boleto o cupón, en el caso de los servicios regular nacional e internacional, fletamento nacional e internacional, panorámico y nacional no regular que se preste a comunidades o regiones específicas de baja densidad de tráfico de pasajeros, y
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+a) Un boleto o billete de pasaje, el cual podrá ser emitido a través de medios físicos o electrónicos, en el caso de los servicios regular nacional e internacional, fletamento nacional e internacional, panorámico y nacional no regular que se preste a comunidades o regiones específicas de baja densidad de tráfico de pasajeros, y
 
 b) Contrato-factura, para los servicios de taxi aéreo nacional e internacional y ambulancia aérea nacional e internacional;
 
@@ -557,7 +573,13 @@ IV. Para el servicio bajo la modalidad de renta a terceros, un contrato factura 
 
 V. Para los servicios aéreos especializados y de fletamento a que se refiere el artículo 59 de la Ley, un contrato-factura.
 
-El período de validez del billete de pasaje, boleto o cupón, así como del contrato-factura se prorroga automáticamente cuando por causas de fuerza mayor o caso fortuito el vuelo se cancele o no se realice conforme al horario estipulado, por un período igual al que duren los efectos de aquellas causas, sin cargo adicional. En la modalidad de fletamento, el fletador debe informar a los usuarios sobre la nueva fecha y hora de salida o debe reembolsar al pasajero lo que hubiere pagado.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+El período de validez del boleto o billete de pasaje, así como del contrato-factura se prorroga automáticamente cuando por causas de fuerza mayor o caso fortuito el vuelo se cancele o no se realice conforme al horario estipulado, por un período igual al que duren los efectos de aquellas causas, sin cargo adicional. En la modalidad de fletamento, el fletador debe informar a los usuarios sobre la nueva fecha y hora de salida o debe reembolsar al pasajero lo que hubiere pagado.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+El contrato previsto en la fracción I de este artículo y su interpretación, se sujetará a lo previsto en la Ley, a este Reglamento, a la Ley Federal de Protección al Consumidor, a las normas oficiales mexicanas correspondientes y a las circulares obligatorias que para tal efecto emita la Secretaría.
 
 ###### ARTÍCULO 37.
 
@@ -569,29 +591,101 @@ II. Las condiciones del servicio;
 
 III. Las responsabilidades del concesionario o permisionario;
 
-IV. Los derechos del pasajero o usuario del servicio, y
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2020)</small>
 
-V. En el caso de servicios de transporte aéreo bajo la modalidad de fletamento, las condiciones de operación y precio, así como las responsabilidades del fletante y del fletador con respecto al pasajero.
+IV. Los derechos y obligaciones del pasajero o usuario del servicio, así como las políticas de compensación a las que se refieren las fracciones V y X del artículo 47 Bis de la Ley;
+
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+V. Las condiciones de operación y precio, así como las responsabilidades del fletante y del fletador con respecto al pasajero, sólo para los servicios de transporte aéreo bajo la modalidad de fletamento, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+VI. Las medidas de seguridad operacional aplicables para los pasajeros con alguna discapacidad, de acuerdo con lo previsto en los artículos 47 Bis, fracción I y 47 Bis 1 de la Ley.
 
 ###### ARTÍCULO 38.
 
 Todo pasajero de cualquier servicio al público de transporte aéreo tiene los siguientes derechos:
 
-I. A ser transportado en el vuelo consignado en el billete de pasaje, boleto o cupón, conforme a las condiciones de servicio derivadas de la tarifa aplicada;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2020)</small>
 
-II. El pasajero mayor de edad puede, sin pago de ninguna tarifa, llevar a un infante menor de dos años a su cuidado sin derecho a asiento y sin derecho a franquicia de equipaje, por lo que el concesionario o permisionario está obligado a expedir sin costo alguno a favor del infante el boleto y pase de abordar correspondientes;
+I. A ser transportado en el vuelo consignado en el boleto o billete de pasaje, conforme a las condiciones de servicio derivadas de la tarifa aplicada;
 
-III. A llevar en cabina hasta dos piezas de equipaje de mano, siempre que por su naturaleza o dimensiones no disminuyan la seguridad y la comodidad de los pasajeros, de conformidad con lo establecido en las normas oficiales mexicanas correspondientes;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2020)</small>
 
-IV. A que le sea expedido un talón de equipaje por cada pieza, maleta o bulto de equipaje que se entregue para su transporte. El talón debe contener la información indicada en las normas oficiales mexicanas correspondientes y debe constar de dos partes, una para el pasajero y otra que se adhiere al equipaje;
+II. A transportar a un infante menor de dos años, en términos del artículo 47 Bis, fracción II de la Ley. Para tal efecto, el pasajero que ejerza este derecho deberá sujetarse a las medidas de seguridad operacional aplicables, las cuales deberán informársele previamente por el concesionario o permisionario, a través de medios impresos o electrónicos;
+
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+III. A llevar en cabina hasta dos piezas de equipaje de mano, cumpliendo las dimensiones y requisitos previstos en el artículo 47 Bis, fracción IX de la Ley, y siempre que por su naturaleza o dimensiones no disminuyan la seguridad y la comodidad de los pasajeros, de conformidad con lo establecido en el artículo 17 de la Ley y las normas oficiales mexicanas correspondientes;
+
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+IV. A recibir un trato digno y a contar con un alto nivel de información en los términos previstos en el artículo 47 Bis, fracción III de la Ley.
+
+La Secretaría, a través de las comandancias de los aeropuertos, supervisará que los administradores aeroportuarios, concesionarios o permisionarios del servicio público de transporte aéreo de pasajeros, informen de manera oportuna a los pasajeros, a través de llamadas telefónicas, correos electrónicos, mensajes de texto o cualquier otro medio impreso o electrónico, de posibles cambios, retrasos o cancelaciones en su itinerario, incluyendo las opciones de compensaciones e indemnizaciones a las que tengan derecho, conforme a las políticas de compensación registradas, en términos del último párrafo del inciso a) de la fracción V del artículo 47 Bis de la Ley;
 
 V. A transportar como mínimo, sin cargo alguno, veinticinco kilogramos de equipaje cuando los vuelos se realicen en aeronaves con capacidad para veinte pasajeros o más, y quince kilogramos cuando la aeronave sea de menor capacidad, siempre que acate las indicaciones del concesionario o permisionario en cuanto al número de piezas y restricciones de volumen.
 
-El exceso de equipaje debe ser transportado de acuerdo con la capacidad disponible de la aeronave y el concesionario o permisionario, en este caso, tiene derecho a solicitar al usuario un pago adicional;
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2020)</small>
 
-VI. A ser transportado por cuenta del concesionario o permisionario hasta el lugar de destino, por los medios de transporte más rápidos disponibles en el lugar cuando la aeronave, por caso fortuito o fuerza mayor, tenga que aterrizar en un lugar no incluido en el itinerario, sin llegar hasta el lugar de destino. En este caso, el concesionario o permisionario no tiene obligación de hacer el reembolso del precio del boleto, y
+El exceso de equipaje debe ser transportado de acuerdo con la capacidad disponible de la aeronave y el concesionario o permisionario, en este caso, tiene derecho a solicitar al pasajero un pago adicional.
 
-VII. En los casos a que se refiere el artículo 52 de la Ley, el concesionario o permisionario al momento de la denegación del embarque debe hacer del conocimiento del pasajero por conducto de su personal, así como a través de folletos, las opciones con que cuenta y debe inmediatamente proporcionársele la que haya elegido. Tratándose de la indemnización, el pasajero debe manifestar si se realiza en dinero o en especie.
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+En los casos en que al pasajero se le haya otorgado una tarifa preferencial en términos del último párrafo de la fracción X del artículo 47 Bis de la Ley, si posteriormente decide viajar con equipaje, el concesionario o permisionario podrá realizar el cobro correspondiente, conforme a las condiciones y términos del contrato, los cuales no podrán implicar prestaciones desproporcionadas a cargo de los pasajeros, obligaciones inequitativas o abusivas o cualquier otra cláusula o texto que viole las disposiciones de la Ley y la Ley Federal de Protección al Consumidor;
+
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+VI. A ser transportado por cuenta del concesionario o permisionario hasta el lugar de destino, por los medios de transporte más rápidos disponibles en el lugar, cuando la aeronave, por caso fortuito o fuerza mayor, tenga que aterrizar en un lugar no incluido en el itinerario, sin llegar hasta el lugar de destino. En este caso, el concesionario o permisionario no tiene obligación de hacer el reembolso del precio del boleto;
+
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+VII. A recibir, en caso de retrasos o cancelaciones de vuelos, denegación del embarque por expedición de boletos en exceso, destrucción, pérdida o avería del equipaje, las compensaciones o indemnizaciones establecidas en los artículos 47 Bis, fracciones V, VI y X, 52 y 62 de la Ley.
+
+El concesionario o permisionario, al momento en que se actualice cualquiera de los supuestos señalados en el párrafo anterior, debe hacer del conocimiento del pasajero por conducto de su personal, así como a través de medios impresos o electrónicos, las opciones con que cuenta y debe inmediatamente proporcionársele la que haya elegido. Tratándose de la indemnización por denegación del embarque por expedición de boletos en exceso, el pasajero debe manifestar si ésta se realiza en dinero o en especie;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 29 DE JUNIO DE 2020)</small>
+
+VIII. A recibir, al momento de la compra del boleto, la información siguiente:
+
+a) El costo total del boleto incluyendo los impuestos retenidos;
+
+b) Las medidas de seguridad operacional aplicables;
+
+c) Las políticas de compensación aplicables;
+
+d) La ubicación física de los módulos de atención y las páginas de internet en donde se encuentren los procedimientos electrónicos de atención al pasajero, que el concesionario o permisionario establezca para tal fin, y
+
+e) Los servicios adicionales, con costo o sin costo, que ofrezca el concesionario o permisionario del transporte aéreo y, todos los demás derechos adquiridos con la contratación del servicio;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+IX. A disponer del segmento del vuelo en boletos adquiridos de ida y vuelta o con conexión, en términos de la fracción IV del artículo 47 Bis de la Ley, para lo cual el pasajero deberá sujetarse a los términos y condiciones del contrato, los cuales deberán informársele previamente por el concesionario o permisionario;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+X. A solicitar la devolución del importe del boleto en caso de que decida no efectuar el viaje, siempre y cuando lo informe al concesionario o permisionario en el lapso de veinticuatro horas contadas a partir de la hora de la compra del boleto, previsto en el artículo 47 Bis, fracción VIII de la Ley, conforme al procedimiento que señale el contrato para dicha cancelación, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+XI. Los demás señalados en la Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+###### ARTÍCULO 38 Bis.
+
+El pasajero, para efectos de lo establecido en los artículos 47 Bis, fracción III y 47 Bis 4 de la Ley, deberá:
+
+I. Brindar al permisionario o concesionario, al momento de la compra de su boleto, la información siguiente:
+
+a) Nombre y apellidos;
+
+b) El número telefónico de servicio móvil o fijo, que designa como medio de comunicación para recibir la información señalada en la fracción IV del artículo 38 de este Reglamento, y
+
+c) Correo electrónico para recibir la información señalada en el inciso anterior, y
+
+II. Presentar, a solicitud del concesionario, o permisionario, o personal autorizado del aeropuerto, documentos oficiales de identificación, tales como credencial para votar con fotografía expedida por el Instituto Nacional Electoral, pasaporte, cartilla de identidad del servicio militar nacional, cédula profesional, credencial de servicios médicos emitida por una institución pública de salud o seguridad social, credencial para jubilados o pensionados emitida por una institución de seguridad social, credencial nacional para personas con discapacidad emitida por el Sistema Nacional para el Desarrollo Integral de la Familia y otros documentos oficiales, que por sí solos o con documentos complementarios, le permitan generar convicción sobre la identidad del pasajero.
 
 ###### ARTÍCULO 39.
 
@@ -685,9 +779,11 @@ Si la emergencia involucra la comisión de un hecho ilícito, el comandante o pi
 
 Para los efectos del presente Reglamento, se entiende por tarifa la contraprestación que debe pagar el usuario por la prestación del servicio de transporte aéreo de pasajeros o carga, que incluye las reglas de aplicación, o condiciones y restricciones aplicables según las características del servicio que se contrate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 49.
 
-Los concesionarios o permisionarios pueden fijar y modificar libremente las tarifas, sin embargo, deben aplicarlas de manera no discriminatoria, en igualdad de condiciones para todos los usuarios.
+Los concesionarios o permisionarios pueden fijar y modificar libremente las tarifas por los servicios que presten; sin embargo, deben aplicarlas de manera no discriminatoria, en igualdad de condiciones para todos los pasajeros y cumplir con las obligaciones señaladas en los artículos 42 y 42 Bis de la Ley.
 
 Las tarifas entrarán en vigor a partir de la fecha de su registro, excepto en el caso del servicio de transporte aéreo nacional no regular bajo la modalidad de taxi aéreo, en el cual se podrá convenir libremente el precio del servicio.
 
@@ -1383,9 +1479,57 @@ I. La autorización previa de la Secretaría, y
 
 II. Que la cabina cuente con las adaptaciones adecuadas para evitar peligros o molestias de cualquier naturaleza a los pasajeros conforme a las normas oficiales mexicanas correspondientes.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 107.
 
-Todo concesionario o permisionario que realice el transporte de animales en las aeronaves de servicio al público de transporte aéreo de pasajeros, debe hacerlo en jaulas o contenedores adecuados que deben ir en los compartimentos de carga, con excepción de los perros lazarillos que acompañen a una persona discapacitada que podrán ser transportados en la cabina de pasajeros. En caso de que la aeronave no cuente con compartimentos de carga presurizados, se estará a la norma oficial mexicana correspondiente.
+Todo concesionario o permisionario que realice el transporte de animales domésticos en las aeronaves de servicio al público de transporte aéreo de pasajeros, debe cumplir con lo siguiente:
+
+I. Realizar el transporte de los animales domésticos observando en todo momento un trato humanitario;
+
+II. El transporte de animales domésticos deberá ser realizado en jaulas o contenedores, proporcionados por el pasajero, quien debe acondicionarlos con material absorbente, alimento y agua necesarios para el trayecto de que se trate, con las dimensiones y características siguientes:
+
+a) La longitud del contenedor debe ser equivalente a la longitud del animal doméstico de la punta de la nariz a la base de la cola, más una cuarta parte de dicha longitud;
+
+b) El ancho del contenedor debe ser equivalente al doble del ancho del animal doméstico, para lo cual debe tomarse como referencia el punto más ancho del animal, y
+
+c) La altura del contenedor debe ser equivalente a la altura del animal de pie, desde la punta de la cabeza o de las puntas de las orejas hacia el piso.
+
+Las dimensiones del contenedor deben estar relacionadas con el animal doméstico a transportar;
+
+III. El animal doméstico debe tener suficiente espacio para girar alrededor normalmente estando de pie, pararse, sentarse en forma erguida y echarse en una posición natural. Asimismo, no se permitirá la movilización de dos animales domésticos en el mismo contenedor;
+
+IV. Las jaulas o contenedores que transporten a los animales domésticos deberán ubicarse en los compartimentos de carga, sólo cuando éstos estén presurizados y climatizados. El piloto al mando deberá ser informado que se transportan dichos animales vivos y el compartimiento de carga en los que están ubicados;
+
+V. Cuando la aeronave no cuente con compartimentos de carga presurizados y climatizados, el transporte de los animales domésticos podrá hacerse en una cabina adyacente a la de los pasajeros, pero separada de ésta por un mamparo, siempre que se respeten los lineamientos en materia de seguridad para la operación de las aeronaves destinadas al transporte de pasajeros;
+
+VI. Las especies braquicéfalas sólo podrán ser transportadas por vía aérea, cuando el pasajero otorgue carta responsiva por los posibles daños o la muerte del animal, sin responsabilidad para el concesionario o permisionario;
+
+VII. Sólo los animales de servicio, incluyendo perros lazarillos, así como los animales de apoyo emocional podrán viajar en la cabina de pasajeros. Para tal efecto, el pasajero deberá sujetarse a las medidas de seguridad operacional aplicables, las cuales deberán informársele previamente por el concesionario o permisionario;
+
+VIII. No podrán ser transportados a bordo de la cabina de pasajeros, los animales domésticos que por la naturaleza propia de su especie o raza sean potencialmente peligrosos y pudieran representar un riesgo para la tripulación o para los pasajeros.
+
+Para efectos de esta fracción, se entenderá por animales potencialmente peligrosos:
+
+a) La fauna salvaje, y
+
+b) Los animales domésticos que tengan capacidad para causar la muerte o lesiones a las personas o a otros animales y daños a las cosas;
+
+IX. Los animales de servicio, incluyendo perros lazarillos y animales de apoyo emocional serán transportados sin cargo alguno para el pasajero;
+
+X. No podrán ser transportados animales infectados, ya sea vivos o muertos, y
+
+XI. Los animales domésticos no podrán ser sedados por ningún motivo.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+###### ARTÍCULO 107 Bis.
+
+El pasajero que realice el transporte de animales domésticos en las aeronaves de servicio al público de transporte aéreo de pasajeros debe cumplir con lo siguiente:
+
+I. Presentar original y copia del certificado de vacunación, expedido por un médico veterinario en papel membretado y con el número de cédula profesional, el cual deberá considerar la aplicación de la vacuna antirrábica con un año a partir de la fecha de aplicación y al menos 30 días antes de la fecha de vuelo y desparasitación no mayor a 6 meses tomando en cuenta la fecha de regreso del pasajero, y
+
+II. Presentar en original y copia, la carta responsiva por los posibles daños o la muerte del animal doméstico por causas no atribuibles al concesionario o permisionario.
 
 ###### ARTÍCULO 108.
 
@@ -2181,6 +2325,12 @@ El titular de una concesión, permiso o autorización y todo operador aéreo, de
 
 Si de la información presentada y de las verificaciones que, en su caso, se realicen, se resuelve que el concesionario o permisionario no cumple con las disposiciones aplicables, la Secretaría debe proceder a imponer las sanciones y, en su caso, establecer las medidas de seguridad correspondientes.
 
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+###### ARTÍCULO 193 Bis.
+
+La Secretaría, para los efectos del artículo 84, último párrafo de la Ley, emitirá los lineamientos y el formato a través del cual los concesionarios y permisionarios reportarán a la Secretaría la información de reclamaciones que permita transparentar el funcionamiento de aquéllos.
+
 ###### ARTÍCULO 194.
 
 Los trámites que no cuenten con plazo específico para su resolución deben resolverse dentro de los sesenta días naturales siguientes, contados a partir de aquél en que se hubiere presentado la solicitud. Las solicitudes que no se resuelvan dentro del plazo que para cada caso se establece, se entenderán denegadas.
@@ -2220,6 +2370,10 @@ La Secretaría establecerá las medidas que considere convenientes para el resta
 ###### ARTÍCULO 198.
 
 En los casos de denegación del embarque porque se hayan expedido boletos en exceso a la capacidad disponible de la aeronave o se cancele el vuelo por causas imputables al concesionario o permisionario, la Secretaría sancionará en términos de lo dispuesto por el artículo 87, fracción VII, de la Ley por negarse a prestar el servicio, sin perjuicio de que se imponga una sanción en términos de lo dispuesto por el artículo 89 del mismo ordenamiento, cuando el concesionario o permisionario no proporcione al pasajero cualquiera de las opciones o la indemnización que se señalan en el artículo 52 de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2020)</small>
+
+Lo anterior, sin perjuicio de las atribuciones que se le otorgan a la Procuraduría Federal del Consumidor en términos de la Ley Federal de Protección al Consumidor, conforme a lo previsto en los artículos 42 Bis y 47 Bis 3 de la Ley.
 
 ## TRANSITORIOS
 
@@ -2288,3 +2442,9 @@ D.O.F. 14 DE MARZO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con la excepción señalada en el artículo transitorio siguiente.
 
 SEGUNDO. Las reformas señaladas en los artículos 44, 47, párrafo segundo, y 109, en su fracción IX, entrarán en vigor a los veinte días hábiles posteriores a la vigencia de la Norma Oficial Mexicana correspondiente, la cual será expedida por la Secretaría de Comunicaciones y Transportes en un plazo de doscientos sesenta días hábiles, contados a partir del día en que entre en vigor el presente Decreto.
+
+D.O.F. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE AVIACIÓN CIVIL”.]
+
+ÚNICO.- El presente Decreto entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
