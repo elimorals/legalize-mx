@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-responsabilidades-administrativas-para-el-estado-de-1226
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-12"
-last_updated: "2017-07-12"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 12 de julio de 2017.
 
@@ -547,9 +547,11 @@ Para efectos del artículo anterior, se considera información privilegiada la q
 
 La restricción prevista en el artículo anterior será aplicable inclusive cuando el Servidor Público se haya retirado del empleo, cargo o comisión, hasta por un plazo de un año.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 57.
 
-Incurrirá en abuso de funciones el Servidor Público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta Ley o para causar perjuicio a alguna persona o al servicio público.
+Incurrirá en abuso de funciones la persona servidora o servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el artículo 52 de esta ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realice por sí o a través de un tercero, alguna de las conductas descritas en el artículo 52 Bis, de la Ley de Desarrollo Constitucional para la Igualdad de Género y Acceso a una Vida Libre de Violencia para las Mujeres.
 
 ###### Artículo 58.
 
@@ -2082,3 +2084,13 @@ Dado en el Salón de Sesiones Sergio Armando Valls Hernández del Honorable Cong
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 10 días del mes de Julio del año Dos Mil Diecisiete.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 240 POR EL QUE SE REFORMA EL ARTÍCULO 57 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
