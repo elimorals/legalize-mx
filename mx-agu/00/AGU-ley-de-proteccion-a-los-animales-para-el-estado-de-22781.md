@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2019-04-29"
+last_updated: "2020-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -1035,13 +1035,17 @@ VII.- Hacer ingerir bebidas alcohólicas o suministrar drogas sin fines terapéu
 
 VIII.- El uso de animales en la celebración de ritos y usos tradicionales que puedan afectar el bienestar animal;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-IX.- El ofrecimiento de cualquier clase de alimento u objetos a los animales en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarles daño físico, enfermedad o muerte; y
+IX.- El ofrecimiento de cualquier clase de alimento u objetos a los animales en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarles daño físico, enfermedad o muerte;
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
-X.- Realizar mutilaciones con fines estéticos o de practicidad a las que se refiere la Fracción XXXI del Artículo 3° de la presente Ley.
+X.- Realizar mutilaciones con fines estéticos o de practicidad a las que se refiere la Fracción XXXI del Artículo 3° de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+
+XI.- Utilizar de manera intencional pirotecnia con la intención de provocar la muerte, la mutilación o cualquier tipo de daño a un animal.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -1662,3 +1666,11 @@ P.O. 29 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 357.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 44; Y SE ADICIONA LA FRACCIÓN XI AL MISMO ARTÍCULO 44; DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de Estado.
