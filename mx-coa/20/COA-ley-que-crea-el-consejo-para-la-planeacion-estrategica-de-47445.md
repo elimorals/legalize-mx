@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-consejo-para-la-planeacion-estrategica-de-47445
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-25"
-last_updated: "2005-11-25"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY QUE CREA EL CONSEJO PARA LA PLANEACION ESTRATEGICA DE LARGO PLAZO DE LA REGION CENTRO DEL ESTADO DE COAHUILA
 
-LEY QUE CREA EL CONSEJO PARA LA PLANEACION ESTRATEGICA DE LARGO PLAZO DE LA REGION CENTRO DEL ESTADO DE COAHUILA
+LEY QUE CREA EL CONSEJO PARA LA PLANEACIÓN ESTRATÉGICA DE LARGO PLAZO DE LA REGIÓN CENTRO DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de noviembre de 2005.
 
@@ -60,6 +60,10 @@ IV. Impulsar, para el efecto de dar vigencia a la planeación estratégica de la
 V. Dar seguimiento a los planes estratégicos, sectoriales y/o especiales, a fin de promover e incentivar el desarrollo y el crecimiento económico de la Región Centro del Estado de Coahuila de Zaragoza.
 
 VI. Promover ante las instancias gubernamentales, empresariales y/o sociales competentes, recomendaciones sustentadas en diagnósticos, análisis, estudios técnicos y la implementación de acciones que permitan el desarrollo sustentable a largo plazo en la Región Centro del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+VII. Diseñar e impulsar, como parte de la planeación estratégica de largo plazo, la ejecución de proyectos que contribuyan a la diversificación económica de la Región Centro de Coahuila, como estrategia para reducir las desventajas y limitaciones que presupone una economía regional que gira mayormente en torno a un solo ramo industrial.
 
 ###### ARTÍCULO 3º.
 
@@ -276,3 +280,11 @@ EL SECRETARIO DE PLANEACIÓN Y DESARROLLO
 C.P. IGNACIO DIEGO MUÑOZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 635.- SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 2º DE LA LEY QUE CREA EL CONSEJO PARA LA PLANEACIÓN ESTRATÉGICA DE LARGO PLAZO DE LA REGIÓN CENTRO DEL ESTADO DE COAHUILA".]
+
+ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
