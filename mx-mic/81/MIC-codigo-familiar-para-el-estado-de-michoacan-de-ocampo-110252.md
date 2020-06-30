@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2019-08-28"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -175,9 +175,11 @@ El menor de edad no necesita de habilitación para litigar contra quienes ejerza
 
 El Registro Civil es una institución de orden público por medio de la cual el Estado hace constar, en forma auténtica, los actos del estado civil de las personas.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### Artículo 22.
 
-En Michoacán estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, sociedad de convivencia, divorcio administrativo y defunción de los mexicanos y extranjeros residentes o de tránsito en el Estado, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la nulidad de matrimonio, disolución de sociedad de convivencia, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por la reasignación para la concordancia sexo-genérica.
+En Michoacán estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, sociedad de convivencia, divorcio administrativo, divorcio notarial, defunción de los mexicanos y extranjeros residentes o de tránsito en el Estado, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la nulidad de matrimonio, disolución de sociedad de convivencia, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes, y las sentencias que ordenen el levantamiento de una nueva acta por el reconocimiento de cambio de la identidad de género.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 22 DE JUNIO DE 2016, PÁGINA 1.]</small>
 
@@ -197,9 +199,9 @@ III. El tercero, de actas de adopción;
 
 IV. El cuarto, de actas de matrimonio y de sociedad de convivencia;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
-V. El quinto, de actas de divorcio;
+V. El quinto, de actas de divorcio administrativo y divorcio notarial;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2016)</small>
 
@@ -635,21 +637,33 @@ El Oficial del Registro Civil, que sin motivo justificado, retarde la celebraci�
 
 ### CAPÍTULO VII. ACTAS DE DIVORCIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### Artículo 95.
 
-Ejecutoriada la resolución que decrete el divorcio, el juez remitirá copia certificada de ella al Oficial del Registro Civil, para que levante el acta correspondiente.
+Ejecutoriada la resolución que decrete el divorcio voluntario judicial o sin expresión de causa, el Juez remitirá copia certificada de ella por duplicado al Oficial del Registro Civil, para que levante el acta correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Tratándose de divorcio notarial, el notario expedirá el primer testimonio y copia certificada de éste para su inscripción.
 
 ###### Artículo 96.
 
 El acta de divorcio expresará el nombre, apellidos, edad, ocupación, nacionalidad y domicilio de los divorciados, la fecha y lugar en que se celebró el matrimonio, y la parte conducente de la resolución que haya decretado el divorcio y los datos del juicio en que hubiere tenido efecto.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Además de lo anterior, en el caso del divorcio notarial se citará el número de notaría, nombre del titular y el número de la escritura pública.
+
 ###### Artículo 97.
 
 El acta de divorcio administrativo contendrá los mismos datos a que se refiere el artículo anterior, así como la inserción de la declaración que lo decrete.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### Artículo 98.
 
-Extendida el acta de divorcio, el Oficial del Registro Civil mandará hacer la anotación correspondiente en la de matrimonio de los divorciados y la copia de la declaración administrativa de divorcio, se archivará con el mismo número del acta.
+Extendida el acta de divorcio, el Oficial del Registro Civil mandará hacer la anotación correspondiente en la de matrimonio de los divorciados y la copia de la declaración administrativa de divorcio, se archivará con el mismo número del acta, así como el testimonio que le sea notificado al Registro Civil.
 
 Si el acta de matrimonio de los divorciados se hubiere levantado en Oficialía distinta, el Oficial del Registro Civil dará el aviso correspondiente para que se hagan las anotaciones.
 
@@ -735,9 +749,15 @@ En las actas de nacimiento y de matrimonio del difunto se harán las anotaciones
 
 Las autoridades judiciales que resuelvan sobre la declaración de ausencia, la presunción de muerte, la tutela, la nulidad de matrimonio, el divorcio o que se ha perdido o limitado la capacidad para administrar bienes, dentro del término de quince días remitirán al Oficial del Registro Civil correspondiente, copia certificada de la ejecutoria respectiva, exenta del pago de derechos fiscales, para su inscripción.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Cuando se trate de divorcio notarial, el notario deberá dar el aviso al Oficial del Registro Civil del lugar en donde se haya registrado el matrimonio, previo el pago de los honorarios que para tal fin fije éste.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### Artículo 113.
 
-El Oficial del Registro Civil, hará la anotación en los casos que proceda en las actas de nacimiento y de matrimonio, e insertará los datos esenciales de la resolución judicial que se le haya comunicado.
+El Oficial del Registro Civil, hará la anotación en el acta de matrimonio, insertando los datos esenciales de la resolución judicial que se le haya comunicado o los datos que identifiquen el divorcio notarial.
 
 ###### Artículo 114.
 
@@ -847,7 +867,9 @@ III. Cuando exista omisión en los datos de localización del documento;
 
 IV. Cuando se omitan el lugar de nacimiento o la nacionalidad en el acta siempre que se deduzca de los apéndices del libro del Registro Civil;
 
-V. En caso de errores o discordancias en las anotaciones ordenadas por la autoridad judicial; y,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+V. En caso de errores o discordancias en las anotaciones ordenadas por la autoridad judicial, administrativa o notario público; y,
 
 VI. Cuando existan abreviaturas de nombres y apellidos, siempre y cuando del mismo documento se puedan inferir.
 
@@ -1087,6 +1109,10 @@ Las capitulaciones matrimoniales se otorgarán antes de la celebración del matr
 
 Podrán otorgarse o modificarse durante el matrimonio, ante el juez del domicilio conyugal, siguiendo el trámite de la jurisdicción voluntaria.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+También se podrán modificar, liquidar o finiquitar ante notario público, en el caso de divorcio notarial que se tramite ante él.
+
 ###### Artículo 162.
 
 (DEROGADO, P.O. 23 DE JUNIO DE 2016)
@@ -1191,7 +1217,9 @@ No puede renunciarse anticipadamente a las ganancias que resulten de la sociedad
 
 La modificación que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público de la Propiedad.
 
-Sin llenar estos requisitos, las modificaciones no producirán efecto contra tercero.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+Sin llenar estos requisitos, las modificaciones, la liquidación o el finiquito, no producirán efectos contra terceros.
 
 ###### Artículo 178.
 
@@ -1224,6 +1252,10 @@ I. Por la disolución del matrimonio;
 II. Por voluntad de los consortes, resolviendo lo conducente el juez del domicilio conyugal, siguiendo el trámite de la jurisdicción voluntaria; y,
 
 III. Por la sentencia que declare la presunción de muerte del cónyuge ausente.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+IV. Por finiquito o liquidación ante el notario público en el caso del divorcio notarial.
 
 ###### Artículo 183.
 
@@ -1425,7 +1457,9 @@ I. Por muerte de uno de los cónyuges;
 
 II. Por declaratoria de presunción de muerte de uno de los cónyuges;
 
-III. Por divorcio decretado por autoridad administrativa o judicial; y,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+III. Por divorcio decretado por autoridad administrativa o judicial, o celebrado ante notario público; y,
 
 IV. Por nulidad declarada por el juez.
 
@@ -1647,7 +1681,9 @@ El divorcio disuelve el matrimonio y capacita a los que fueron cónyuges para co
 
 El divorcio es voluntario o sin expresión de causa.
 
-Es voluntario cuando se solicita de mutuo consentimiento por los cónyuges y se sustanciará administrativa o judicialmente, según las circunstancias del matrimonio.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Es voluntario cuando se solicita de mutuo consentimiento por los cónyuges y se sustanciará administrativa, judicialmente o ante notario público, según las circunstancias del matrimonio.
 
 Si es judicial se sustanciará en jurisdicción voluntaria.
 
@@ -1801,15 +1837,21 @@ La modificación o extinción de alguna de las prestaciones materia de convenio 
 
 ### CAPÍTULO III. DIVORCIO VOLUNTARIO
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### Artículo 277.
 
-El divorcio por mutuo consentimiento puede ser administrativo o judicial.
+El divorcio voluntario puede ser administrativo, judicial o ante notario público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### Artículo 278.
 
-El divorcio administrativo procede cuando entre los cónyuges concurran las siguientes circunstancias:
+El divorcio administrativo y el celebrado ante notario público, divorcio notarial, proceden cuando entre los cónyuges concurran las siguientes circunstancias:
 
-I. Que se haya liquidado la sociedad conyugal de bienes si contrajeron nupcias bajo ese régimen patrimonial;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+I. Que se haya liquidado la sociedad conyugal de bienes si contrajeron nupcias bajo ese régimen patrimonial, o se haya establecido el finiquito o liquidación ante el notario público que haya conocido del divorcio;
 
 II. Que la mujer no esté embarazada;
 
@@ -1817,11 +1859,19 @@ III. Que no tengan hijos en común, o teniéndolos, sean mayores de edad y no ne
 
 IV. Que ninguno de los cónyuges requiera de alimentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### Artículo 279.
 
-Para tal efecto, los cónyuges ocurrirán ante el Oficial del Registro Civil a presentar por escrito la solicitud de divorcio, en ella, se expresará el nombre, apellidos, edad, nacionalidad, ocupación y domicilio de los comparecientes, la fecha y lugar de la oficialía en que se celebró el matrimonio y el número de la partida en que quedó inscrito.
+Para tal efecto, los cónyuges ocurrirán ante el Oficial del Registro Civil o ante Notario Público a presentar por escrito la solicitud de divorcio, en ella, se expresará el nombre, apellidos, edad, nacionalidad, ocupación y domicilio de los comparecientes, la fecha y lugar de la oficialía en que se celebró el matrimonio y el número de la partida en que quedó inscrito.
 
-Una vez recibida, se señalará fecha y hora, para que dentro de un plazo de quince días siguientes a la recepción, los consortes la ratifiquen, debiendo acudir de manera personal y debidamente identificados. Si lo hacen, los declarará divorciados; levantará el acta de divorcio; y, hará las anotaciones correspondientes en la de matrimonio.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Una vez recibida por la autoridad administrativa, se señalará fecha y hora, para que dentro de un plazo de quince días siguientes a la recepción, los consortes la ratifiquen, debiendo acudir de manera personal y debidamente identificados. Si lo hacen, los declarará divorciados; levantará el acta de divorcio; y, hará las anotaciones correspondientes en la de matrimonio.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+En el caso del divorcio notarial, realizada la comparecencia ante el notario público por los interesados y habiendo cumplido con los requisitos señalados en el párrafo anterior, con excepción del plazo de los quince días, se procederá a levantar la escritura pública en la que se declare la disolución del vínculo matrimonial que deberá de ser firmada por los solicitantes o su mandatario especial y remitida al Oficial del Registro Civil del lugar en el que se haya registrado el matrimonio, para los efectos legales que establece el presente Código.
 
 ###### Artículo 280.
 
@@ -7582,3 +7632,13 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO TRIGÉSIMO SÉPTIMO.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 117 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 342 POR EL QUE “SE REFORMA EL ARTÍCULO 22; LA FRACCIÓN V DEL ARTÍCULO 23; EL ARTÍCULO 95; EL PRIMER PÁRRAFO DEL ARTÍCULO 98; EL ARTÍCULO 113; LA FRACCIÓN V DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 124; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 177; LA FRACCIÓN III DEL ARTÍCULO 217; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 254; EL ARTÍCULO 277; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 278; EL ARTÍCULO 279; Y, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 95; UN SEGUNDO PÁRRAFO AL ARTÍCULO 96; UN SEGUNDO PÁRRAFO AL ARTÍCULO 112; UN PÁRRAFO TERCERO AL ARTÍCULO 161; UNA FRACCIÓN IV AL ARTÍCULO 182 Y UN PÁRRAFO TERCERO AL ARTÍCULO 279, TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Los trámites y actos relativos a divorcios celebrados ante notario público antes de la entrada en vigor del presente Decreto, se ajustarán al mismo para efectos de su registro.
+
+Tercero. El Titular del Poder Ejecutivo emitirá la normatividad reglamentaria que corresponda al presente Decreto en un plazo máximo de sesenta días naturales contados a partir del día de su entrada en vigor.
