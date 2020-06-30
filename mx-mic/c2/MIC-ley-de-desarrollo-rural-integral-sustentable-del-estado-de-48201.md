@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-4820
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-18"
-last_updated: "2019-08-28"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
 
@@ -1419,9 +1419,33 @@ La Secretaría promoverá mecanismos e instrumentos de protección en la segurid
 
 El Desarrollo Rural en su aspecto social, tiene como principio la protección de los trabajadores rurales, en general, y a los jornaleros agrícolas y migratorios, en particular, bajo los principios de salvaguardar su integridad, el combate a la pobreza y el desarrollo de esquemas socioproductivos para la generación del empleo.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### Artículo 132.
 
-El Consejo Estatal preverá lo necesario para que, mediante acuerdos y convenios con dependencias y organismos de los tres órdenes de gobierno y los trabajadores del medio rural, se instrumenten y fortalezcan programas de atención encaminados a la dotación de servicios públicos básicos en las zonas rurales, el acceso a programas de vivienda; el fortalecimiento en el medio rural de las infraestructuras de educación, salud y alimentación; el financiamiento para actividades productivas, sin más garantías que la propia inversión, ente (sic) otros.
+El Consejo Estatal hará lo necesario para que, mediante acuerdos y convenios con dependencias y organismos de los tres órdenes de gobierno y los trabajadores del medio rural, se instrumente el Programa Estatal de Apoyo para los Jornaleros Agrícolas y sus Familias, el cual contendrá un presupuesto anual de manera específica Agrícolas y sus Familias, el cual contendrá un presupuesto anual de manera específica para este fin, con los siguientes objetivos:
+
+I. Generar las políticas públicas que mejoren la calidad de vida de los jornaleros agrícolas y sus familias;
+
+II. Hacer de conocimiento y reconocer sus derechos;
+
+III. Fortalecer programas de atención encaminados a la dotación de servicios públicos básicos en las zonas rurales;
+
+IV. Acceder a programas de vivienda;
+
+V. Fomentar apoyos alimenticios a niñas y niños menores de catorce años;
+
+VI. Estimular la asistencia y permanencia escolar;
+
+VII. Fortalecer en el medio rural la infraestructura de educación, salud y alimentación;
+
+VIII. Financiar actividades productivas, sin más garantías que la propia inversión;
+
+IX. Generar el padrón de jornaleros agrícolas que contenga al menos número de jornaleros agrícolas; lugar de origen; sexo; edad; remuneración; y, condiciones laborales, sociales y económicas;
+
+X. Propiciar la investigación, análisis y estudio sobre las condiciones de los jornaleros agrícolas; y,
+
+XI. Mejorar la coordinación interinstitucional entre las dependencias de la administración centralizada.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -1429,29 +1453,49 @@ El Consejo Estatal preverá lo necesario para que, mediante acuerdos y convenios
 
 Los trabajadores y los jornaleros agrícolas serán considerados grupos sociales vulnerables, por lo que tendrán prioridad en el otorgamiento de apoyos diferenciados por parte del Ejecutivo del Estado y de los gobiernos municipales, para propiciar mejoras de desarrollo.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
 
 Artículo 133 A.- Son derechos de los jornaleros agrícolas los siguientes:
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
 I. No ser discriminados o excluidos por su actividad, así como a no recibir malos tratos por parte de los productores agrícolas;
-
-II. Recibir asesoría jurídica gratuita y en su lengua materna;
-
-III. Tener capacitación sobre la actividad que van a realizar por parte del productor agrícola;
-
-IV. Contar con el equipo adecuado para el desempeño de su actividad y en su caso para el manejo de agroquímicos o sustancias tóxicas;
-
-V. Tener acceso a los servicios de salud y educación gratuita para ellos y sus familias durante su permanencia, incluyendo a los que son jornaleros migrantes;
-
-VI. Recibir el salario estipulado o contratado y que se respete el horario de su jornada laboral; y,
-
-VII. Tener un salario igualitario entre mujeres y hombres dado que realicen la misma actividad.
-
-La mujer que sea jornalera agrícola tendrá derecho a gozar de su incapacidad por maternidad, conservando su salario íntegro, así como su empleo, durante la misma.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-Artículo 133 B.- El Ejecutivo del Estado y los gobiernos municipales, atenderán el acceso a estancias infantiles, espacios educativos, asistencia psicológica y nutricional para los hijos de los trabajadores agrícolas.
+II. Recibir asesoría jurídica gratuita y en su lengua materna;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III. Tener capacitación sobre la actividad que van a realizar por parte del productor agrícola;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IV. Contar con el equipo adecuado para el desempeño de su actividad y en su caso para el manejo de agroquímicos o sustancias tóxicas;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+V. Tener acceso a los servicios de salud y educación gratuita para ellos y sus familias durante su permanencia, incluyendo a los que son jornaleros migrantes;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+VI. Recibir el salario estimulado o contratado y que se respete el horario de su jornada laboral;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+VII. Tener un salario igualitario entre mujeres y hombres dado que realicen la misma actividad; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE JUNIO DE 2020)</small>
+
+VIII. Ser beneficiarios del Programa Estatal de Apoyo para los Jornaleros Agrícolas y sus Familias, cumpliendo con los requisitos y las reglas de operación que éste establezca.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+La mujer que sea jornalera agrícola tendrá derecho a gozar de su incapacidad por maternidad, conservando su salario íntegro, así como su empleo, durante la misma.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Artículo 133 B.- El Ejecutivo del Estado y los gobiernos municipales, atenderán las condiciones necesarias a los centros de desarrollo infantil, que cuenten con asistencia psicológica y nutricional culturalmente adecuada para las niñas y niños hijos de los trabajadores agrícolas; así como apoyos en la misma índole para madres gestantes.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -1460,6 +1504,32 @@ Artículo 133 C.- La Secretaría dará prioridad a los productores agrícolas qu
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 Artículo 133 D.- La Secretaría dará prioridad en el acceso a apoyos productivos y financiamientos para capacitación a los productores agrícolas que incentiven y respeten los derechos de los jornaleros agrícolas.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Artículo 133 E.- El Ejecutivo del Estado a través de la Dirección del Trabajo y Previsión Social realizará de manera permanente supervisiones e inspecciones para que el productor agrícola garantice a los jornaleros agrícolas; condiciones mínimas, como:
+
+a) Instalaciones higiénicas, adecuadas y dignas para que habiten los jornaleros y sus familias;
+
+b) El equipo adecuado y la capacitación necesaria para el desempeño de su labor;
+
+c) No ser explotados laboralmente o con jornadas excesivas;
+
+d) Cuando requieran ser traslados, sea en condiciones seguras y en distancias prolongadas se les proporcione servicios de alimentación y agua; y,
+
+e) La no contratación de niñas o niños, conforme a lo establecido en la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Artículo 133 F.- Se apoyará a los jornaleros agrícolas en la obtención y regularización de documentos de identidad, ante el registro civil y otras instancias que les permita tener identidad y certeza jurídica.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Artículo 133 G.- La Comisión Estatal de los Derechos Humanos a través de sus visitadurías regionales, vigilará permanentemente el respeto de los derechos de los jornaleros agrícolas, brincando asesoría gratuita y atendiendo cualquier queja de violación a los mismos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Artículo 133 H.- El Consejo Estatal será quien evalúe anualmente los alcances y logros del Programa Estatal de Apoyo para los Jornaleros Agrícolas y sus Familias, lo cual también deberá ser informado a la Comisión de Desarrollo Rural y a la Comisión de Migración del Congreso del Estado.
 
 ###### Artículo 134.
 
@@ -1586,3 +1656,13 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO SEXTO. SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 137 DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 332 POR EL QUE SE REFORMAN LOS ARTÍCULO 132, 133 A Y 133 B; ASÍ COMO SE ADICIONAN LOS ARTÍCULOS 133 E, 133 F, 133 G Y 133 H DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Artículo Primero. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
+
+Artículo Segundo. El Programa Estatal de Apoyo para los Jornaleros Agrícolas y sus Familias, ser elaborado por la Secretaría en un plazo de 120 días a partir de la publicación del presente Decreto.
+
+Artículo Tercero. En el Presupuesto Egresos de la Secretaría de Desarrollo Rural y Agroalimentario se deberá destinar una partida especial para la aplicación del Programa Estatal de Apoyo para los Jornaleros Agrícolas y sus Familias.
