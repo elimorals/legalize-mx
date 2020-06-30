@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-alternativa-y-restaurativa-del-estado-de-97989"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-21"
-last_updated: "2019-08-28"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA ALTERNATIVA Y RESTAURATIVA DEL ESTADO DE MICHOACÁN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de enero de 2014.
 
@@ -69,7 +69,9 @@ V. Controversia. Situación que se genera cuando dos o más personas manifiestan
 
 VI. Convenio. Documento escrito celebrado por las partes ante un facilitador que pone fin a una controversia en forma total o parcial y que tiene la misma eficacia y autoridad que la cosa juzgada, previo su trámite respectivo conforme a lo dispuesto por esta Ley y a la normatividad aplicable;
 
-VII. Facilitador. Persona física profesional cuya función es posibilitar la participación de las partes para la aplicación de los mecanismos alternativos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+VII. Facilitador. Notario público o persona fiìsica (sic) profesional cuya función es posibilitar la participación de las partes para la aplicación de los mecanismos alternativos;
 
 VIII. Ley. Ley de Justicia Alternativa y Restaurativa del Estado de Michoacán;
 
@@ -89,9 +91,9 @@ XIV. Fiscalía. Fiscalía General del Estado;
 
 XV. Reglamento. Disposiciones reglamentarias en materia de mecanismos alternativos emitidas por el Poder Ejecutivo, el Poder Judicial y los ayuntamientos, en el ámbito de sus respectivas competencias; y,
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
-XVI. Unidad de atención. Lugares establecidos por el Poder Judicial, la Fiscalía y los ayuntamientos, a donde pueden acudir las partes para resolver controversias mediante el uso de los mecanismos alternativos.
+XVI. Unidad de atención. Lugares establecidos por el Poder Judicial, la Fiscalía y los ayuntamientos, así como notarías públicas, a donde pueden acudir las partes para resolver controversias mediante el uso de los mecanismos alternativos.
 
 ### CAPÍTULO SEGUNDO. MECANISMOS ALTERNATIVOS
 
@@ -125,9 +127,11 @@ VII. Neutralidad. El facilitador debe mantener una postura y mentalidad de no ce
 
 VIII. Voluntariedad. La participación de las partes debe ser estrictamente voluntaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 6.
 
-Los mecanismos alternativos serán proporcionados de manera gratuita por los Centros y por los ayuntamientos, en unidades que dependerán de las sindicaturas.
+Los mecanismos alternativos serán proporcionados de manera gratuita por los Centros y por los ayuntamientos, en unidades que dependerán de las sindicaturas. Los notarios públicos que intervengan como facilitadores podrán cobrar honorarios por la expedición del instrumento notarial que contenga el convenio que concluya el procedimiento de que se trate.
 
 Los Centros tendrán unidades de atención, al menos, en cada región judicial.
 
@@ -135,19 +139,23 @@ Las unidades de atención contarán con los recursos humanos y materiales indisp
 
 Cada unidad contará con el número de facilitadores que permitan las posibilidades presupuestales.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+En materia penal se estará a lo dispuesto en la legislación única nacional y a la legislación nacional en materia de mecanismos alternativos de solución de controversias en materia penal. Los notarios públicos no podrán intervenir como facilitadores en asuntos de naturaleza penal.
+
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 7.
 
 Las unidades de atención del Centro de la Fiscalía proporcionarán exclusivamente los mecanismos alternativos establecidos en el Código, ajustándose en lo conducente a esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 8.
 
-El Poder Judicial y la Fiscalía, a través de sus institutos implementarán las acciones necesarias a fin de que los mecanismos alternativos sean cada vez más eficaces y eficientes, para lo cual impartirán al menos un curso de capacitación y actualización al año a sus facilitadores.
+El Poder Judicial y la Fiscalía, a través de sus institutos, así como el Colegio de Notarios de Michoacán, implementarán las acciones necesarias a fin de que los mecanismos alternativos sean cada vez más eficaces y eficientes, para lo cual impartirán al menos un curso de capacitación y actualización al año a sus facilitadores.
 
-Los cursos que imparta el Poder Judicial se harán extensivos a los facilitadores de los ayuntamientos de manera gratuita.
+Los cursos se harán extensivos a los facilitadores de los ayuntamientos de manera gratuita.
 
 ###### ARTÍCULO 9.
 
@@ -197,11 +205,11 @@ II. Cumplir con las obligaciones de dar, hacer o no hacer establecidas en el con
 
 ### CAPÍTULO CUARTO. FACILITADORES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 15.
 
-Los facilitadores serán nombrados por el Poder Judicial y por la Fiscalía, respectivamente, mediante convocatoria y concurso de oposición públicos. En el concurso de oposición que implemente la Fiscalía, se deberán tomar como referencia los supuestos y procedimientos establecidos en el Código, además de lo dispuesto en esta Ley.
+A excepción de los notarios públicos, los facilitadores serán nombrados por el Poder Judicial y por la Fiscalía, respectivamente, mediante convocatoria y concurso de oposición públicos. En el concurso de oposición que implemente la Fiscalía se deberán tomar como referencia los supuestos y procedimientos establecidos en el Código, además de lo dispuesto en esta Ley.
 
 El proceso de selección será gratuito para los interesados y no estará condicionado a capacitación previa impartida por alguna institución en particular.
 
@@ -222,6 +230,10 @@ IV. Tener residencia mínima de tres años en el Estado;
 V. En el caso de los facilitadores de los Centros, deberán acreditar el concurso de oposición correspondiente; y,
 
 VI. Para el caso de los facilitadores de las unidades de atención de los ayuntamientos, contar con constancia que acredite estudios teóricos y prácticos especializados en la materia reconocidos por las autoridades educativas o con constancia expedida por el Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Para el caso de los notarios públicos, contar con certificación en la materia, expedida por el Consejo del Colegio de Notarios de Michoacán.
 
 ###### ARTÍCULO 17.
 
@@ -473,7 +485,9 @@ El acuerdo reparatorio deberá ser aprobado por el titular del Centro o de la un
 
 El facilitador hará del conocimiento del Ministerio Público o del juez, que hubieran conocido previamente el asunto, el acuerdo reparatorio para los efectos correspondientes.
 
-Si no se cumplen las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de un año contado a partir del día siguiente de la aprobación del acuerdo reparatorio, se podráì (sic) presentar la denuncia o querella o continuar con el procedimiento jurisdiccional.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Si no se cumplen las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de un año contado a partir del día siguiente de la aprobación del acuerdo reparatorio, se podrá presentar la denuncia o querella o continuar con el procedimiento jurisdiccional.
 
 ###### ARTÍCULO 45.
 
@@ -481,9 +495,11 @@ Cuando sea necesario tratar el incumplimiento de un convenio o acuerdo reparator
 
 ### CAPÍTULO SÉPTIMO. FALTAS ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### ARTÍCULO 46.
 
-Los servidores públicos de los Centros y de los ayuntamientos que participen en los mecanismos alternativos estarán sujetos a responsabilidad administrativa en los términos que señale la normatividad aplicable.
+Los servidores públicos de los Centros y de los ayuntamientos, así como los notarios públicos que participen en los mecanismos alternativos estarán sujetos a responsabilidad administrativa en los términos que señale la normatividad aplicable y en la Ley del Notariado, respectivamente.
 
 Para los efectos de esta Ley se consideran faltas administrativas las siguientes:
 
@@ -532,3 +548,13 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO DÉCIMO PRIMERO.- SE REFORMA LAS FRACCIONES I, II, XIV Y XVI DEL ARTÍCULO 2, EL ARTÍCULO 7, EL PRIMER PÁRRAFO DEL ARTÍCULO 8, EL PRIMER PÁRRAFO DEL ARTÍCULO 15, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 30 Y EL ARTÍCULO 41 DE LA LEY DE JUSTICIA ALTERNATIVA Y RESTAURATIVA DEL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 342 POR EL QUE “SE REFORMAN LAS FRACCIONES VII Y XVI DEL ARTÍCULO 2; EL PRIMER PÁRRAFO DEL ARTÍCULO 6; EL ARTÍCULO 8; EL PÁRRAFO PRIMERO DEL ARTÍCULO 15; EL PÁRRAFO TERCERO DEL ARTÍCULO 44; EL PRIMER PÁRRAFO DEL ARTÍCULO 46; Y, SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 6 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 16, TODOS DE LA LEY DE JUSTICIA ALTERNATIVA Y RESTAURATIVA DEL ESTADO DE MICHOACÁN”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Los trámites y actos relativos a divorcios celebrados ante notario público antes de la entrada en vigor del presente Decreto, se ajustarán al mismo para efectos de su registro.
+
+Tercero. El Titular del Poder Ejecutivo emitirá la normatividad reglamentaria que corresponda al presente Decreto en un plazo máximo de sesenta días naturales contados a partir del día de su entrada en vigor.
