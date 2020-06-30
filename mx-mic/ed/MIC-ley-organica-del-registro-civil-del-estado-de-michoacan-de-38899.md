@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-registro-civil-del-estado-de-michoacan-de-3889
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-04-23"
-last_updated: "2014-06-02"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 23 de abril del 2004.
 
@@ -265,15 +265,21 @@ VII. Expedir órdenes de inhumación o cremación en su caso, así como autoriza
 
 VIII. Conceder licencia para el traslado de cadáveres o restos de un lugar a otro, expidiendo para el efecto, el permiso respectivo previo cumplimiento de los requisitos sanitarios;
 
-IX. Instruir a los contrayentes, al celebrar el matrimonio, sobre la naturaleza de este contrato y sus consecuencias legales, ajustándose a lo dispuesto en el Código Civil y al texto que expida el Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
-X. Inscribir las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio, la adopción, la tutela o la interdicción, la anulación de matrimonio y cualesquiera otra resolución que afecte los actos del registro;
+IX. Instruir a los contrayentes, al celebrar el matrimonio, sobre la naturaleza de este contrato y sus consecuencias legales, ajustándose a lo dispuesto en el Código Familiar y al texto que expida el Secretario de Gobierno;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+X. Inscribir las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la nulidad de matrimonio, la disolución de la sociedad de convivencia, la tutela, la pérdida o limitación de la capacidad legal para administrar bienes, la adopción y cualesquiera otra resolución que afecte los actos del registro;
 
 XI. Solicitar y obtener oportunamente las formas para inscribir los actos del estado civil de las personas, para la expedición de las certificaciones y el material necesario para el ejercicio de sus funciones;
 
 XII. Vigilar que las formas en que se hayan asentado los actos del estado civil de las personas, no contengan raspaduras, enmendaduras o tachaduras;
 
-XIII. Efectuar las anotaciones de rectificación, aclaración y sentencias ejecutorias emitidas por autoridad competente, que correspondan a su oficialía, debiendo informar al Archivo del Poder Ejecutivo para que realice la anotación en el libro duplicado;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+XIII. Efectuar las anotaciones de rectificación, aclaración, sentencias ejecutorias emitidas por autoridad competente, aviso del divorcio notarial que correspondan a su oficialía, debiendo informar al Archivo de la Dirección del Registro Civil para que realice la anotación en el libro duplicado;
 
 XIV. Verificar que los extranjeros que sean parte de algún acto registral, comprueben su legal estancia en el país, de conformidad con las disposiciones aplicables. Para los casos de matrimonio de un nacional con extranjero, deberán presentar el permiso otorgado por la Secretaría de Gobernación;
 
@@ -315,7 +321,7 @@ XXXII. Supervisar el trabajo que desempeñe el personal administrativo, así com
 
 XXXIII. Entregar o en su caso recibir la oficialía previo inventario, al que se anexará al acta de entrega-recepción, remitiendo el original al director de la institución;
 
-XXXIV. Con los documentos que fundamenten cada acto del estado civil, formar apéndices, numerados progresivamente por año y archivarlos a manera de legajos, elaborar un índice de éstos y conservarlos; y, (sic)
+XXXIV. Con los documentos que fundamenten cada acto del estado civil, formar apéndices, numerados progresivamente por año y archivarlos a manera de legajos, elaborar un índice de éstos y conservarlos; y,
 
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
@@ -349,9 +355,11 @@ Los oficiales o sus auxiliares autorizados, podrán extraer personalmente de las
 
 ### CAPÍTULO SEXTO. DE LAS ACTAS DEL ESTADO CIVIL DE LAS PERSONAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### Artículo 25.
 
-Estará a cargo de los oficiales, registrar los actos del estado civil de las personas, observando lo dispuesto en el Código Civil y demás disposiciones aplicables; y extender certificados de las actas siguientes:
+Estará a cargo de los oficiales, registrar los actos del estado civil de las personas, observando lo dispuesto en el Código Familiar y demás disposiciones aplicables; y extender certificados de las actas siguientes:
 
 I. Nacimientos;
 
@@ -359,13 +367,19 @@ II. Reconocimiento de hijos;
 
 III. Adopciones;
 
-IV. Matrimonios;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
-V. Divorcios;
+IV. Matrimonios y sociedades de convivencia;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+V. Divorcios administrativos y divorcios notariales;
 
 VI. Defunciones; e,
 
-VII. Inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela, la pérdida o limitación de la capacidad legal para administrar bienes.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+VII. Inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la nulidad de matrimonio, la disolución de la sociedad de convivencia, la tutela, la pérdida o limitación de la capacidad legal para administrar bienes.
 
 ###### Artículo 26.
 
@@ -510,3 +524,13 @@ SEGUNDO. Se derogan todas aquellas disposiciones administrativas que se opongan 
 TERCERO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
 
 CUARTO. Remítase el presente Decreto al Titular de la Dirección del Registro Civil del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 30 DE JUNIO DE 2020.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE SE "REFORMAN LAS FRACCIONES IX, X Y XIII DEL ARTÍCULO 20; EL ARTÍCULO 25 Y SUS FRACCIONES IV, V Y VII, DE LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO".]</small>
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Los trámites y actos relativos a divorcios celebrados ante notario público antes de la entrada en vigor del presente Decreto, se ajustarán al mismo para efectos de su registro.
+
+Tercero. El Titular del Poder Ejecutivo emitirá la normatividad reglamentaria que corresponda al presente Decreto en un plazo máximo de sesenta días naturales contados a partir del día de su entrada en vigor.
