@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2020-06-25"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -305,7 +305,11 @@ XVII. Realizar campañas de información sobre las características propias de l
 
 XVIII. Promover políticas y programas para la protección de la salud integral de las personas con la condición del espectro autista; y
 
-XIX. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+XIX.- Coordinarse con las instituciones federales, estatales y municipales, y con la sociedad civil, para promover y apoyar la investigación de las causas del suicidio y de la conducta suicida, así como diseñar, proponer, desarrollar y aplicar acciones de prevención del suicidio, dirigidas particularmente a niñas, niños y adolescentes, así como a la población en general.
+
+XX. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -797,7 +801,7 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación de la familia en la prevención y atención oportuna de los padecimientos de la comunidad;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 de octubre de 2017)</small>
 
 II.- Acciones de orientación y vigilancia institucional, capacitación, fomento a la lactancia materna y amamantamiento, inculcando que la leche materna sea el alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendente a mejorar el estado nutricional del grupo materno-infantil;
 
@@ -893,7 +897,7 @@ La prevención de las enfermedades mentales tienen carácter prioritario. Se bas
 
 Para la promoción de la salud mental, la Secretaría de Salud del Estado y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
-I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+I.- El desarrollo de actividades educativas, socio culturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
@@ -1403,11 +1407,11 @@ I.- Fomentar en la población el desarrollo de estilo de vida saludables (sic) y
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 de octubre de 2017)</small>
 
 III.- Orientar y capacitar a la población en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, lactancia materna, prevención de accidentes, prevención y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades; y
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 19 de octubre de 2017)</small>
 
 IV.- Capacitar al personal de las dependencias públicas en materia de lactancia materna y salud materno-infantil a fin de fomentar el funcionamiento óptimo de las salas de lactancia implementadas en cada dependencia.
 
@@ -2875,7 +2879,7 @@ Los certificados de defunción y de muerte fetal serán expedidos una vez compro
 
 ###### ARTICULO 269.
 
-Los certificados a que se refiere este capítulo se extenderán en los modelos aprobados por la Secretaría de Salud del Ejecutivo Federal y de conformidad con las normas oficiales mexicanas que la misma emita.
+Los certificados a que se refiere este capítulo se extenderán en los modelos aprobados por la Secretaría de Salud del Ejecutivo Federal y de conformidad con las normas oficiales que la misma emita.
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
@@ -3561,7 +3565,7 @@ El Programa Estatal de Lactancia Materna deberá ser publicado a más tardar den
 
 P.O. 26 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 222, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN AL TÍTULO TERCERO, UN CAPÍTULO IX DENOMINADO “DEL CENTRO ESTATAL DE TRANSPLANTES (SIC) Y DE LA ACTIVIDAD EN MATERIA DE DONACIÓN, EXTRACCIÓN Y TRANSPLANTE (SIC) DE ÓRGANOS Y TEJIDOS”, QUE CONTIENEN LOS ARTÍCULOS 76 SEXIES, 76 SEPTIES, 76 OCTIES, 76 NONIES, 76 DECIES, 76 UNDECIES, 76 DUODECIES, 76 TERDECIES, 76 QUATERDECIES, 76 QUINDECIES Y 76 SEXIESDECIES, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 222, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN AL TÍTULO TERCERO, UN CAPÍTULO IX DENOMINADO “DEL CENTRO ESTATAL DE TRANSPLANTES Y DE LA ACTIVIDAD EN MATERIA DE DONACIÓN, EXTRACCIÓN Y TRANSPLANTE DE ÓRGANOS Y TEJIDOS”, QUE CONTIENEN LOS ARTÍCULOS 76 SEXIES, 76 SEPTIES, 76 OCTIES, 76 NONIES, 76 DECIES, 76 UNDECIES, 76 DUODECIES, 76 TERDECIES, 76 QUATERDECIES, 76 QUINDECIES Y 76 SEXIESDECIES, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3614,3 +3618,9 @@ P.O. 25 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 190 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 50 BIS A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 189 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 7, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XIX, PARA QUEDAR COMO XX, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
