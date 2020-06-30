@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-notariado-del-estado-de-michoacan-de-ocampo-6136"
 country: "mx"
 rank: "ley"
 publication_date: "1980-02-21"
-last_updated: "2019-08-28"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL NOTARIADO DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 21 de febrero de 1980.
 
@@ -55,11 +55,11 @@ El Notariado es una función de orden público. Estará bajo la potestad del Pod
 
 Es facultad del Titular del Poder Ejecutivo del Estado expedir nombramiento de notario público, bajo los criterios y formalidades de selección, designación y permanencia establecidos en la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 3o.
 
-El Notario es el profesional del Derecho investido de fe pública para hacer constar los actos y hechos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes, revistiéndolos de solemnidad y formas legales.
+El Notario es el profesional del Derecho investido de fe pública para hacer constar los actos y hechos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes, revistiéndolos de solemnidad y formas legales. Se le denominará Notario Titular, Notario Adscrito o Notario Sustituto, de conformidad con lo dispuesto en esta Ley.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
@@ -295,7 +295,13 @@ Concluido el plazo de recepción de solicitudes, la Dirección del Notariado y A
 
 La lista de aspirantes podrá ser impugnada por cualquier persona que acredite tener interés jurídico ante la propia Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, dentro del término de cinco días hábiles contados a partir de la fecha de su última publicación, acompañando las pruebas documentales que se estimen pertinentes. La Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno resolverá lo conducente en un plazo de cinco días hábiles, previa audiencia.
 
-Con independencia de lo anterior, para cubrir la vacante de una notaría ya autorizada, el Titular del Ejecutivo del Estado podrá nombrar Notario titular en esa vacante, presentando el aspirante examen en el cual demuestre experiencia, capacidad y eficiencia en el desempeño de la función notarial. La Secretaría de Gobierno, a través de la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, en coordinación con el Consejo del Colegio de Notarios del Estado, aplicarán el examen.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Con independencia de lo anterior, para cubrir la vacante de una notaría ya autorizada, el Titular del Ejecutivo del Estado podrá nombrar Notario Titular en esa vacante, presentando el aspirante examen en el cual demuestre experiencia, capacidad y eficiencia en el desempeño de la función notarial y, si lo hubiere, se nombrará al Notario Adscrito. La Secretaría de Gobierno, a través de la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, en coordinación con el Consejo del Colegio de Notarios del Estado, aplicarán el examen.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+En todo caso, quien asuma la titularidad asumirá también la responsabilidad de los trámites, compromisos y obligaciones, legales y fiscales, a que haya lugar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
 
@@ -339,15 +345,35 @@ El Notario al iniciar el ejercicio de sus funciones dará aviso a la Secretaría
 
 Cumplidos los requisitos que señala esta Ley, se registrará el nombramiento respectivo en la Secretaría de Gobierno, en el Registro Público de la Propiedad y en la Dirección del Notariado y Archivo General de Notarías, haciéndose la publicación del mismo en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 29.
 
-La oficina del notario se denominará NOTARIA PUBLICA NUMERO.....A CARGO DE ............................. Estará abierta cuando menos siete horas al día y en lugar visible habrá un rótulo que contendrá la inscripción indicada.
+La oficina del notario se denominará NOTARÍA PÚBLICA NÚMERO... A CARGO DE .............................y Notario Adscrito ............................, si lo hubiese. Estará abierta cuando menos siete horas al día y en lugar visible habrá un rótulo que contendrá la inscripción indicada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+ARTICULO 29 BIS.- Para ser Notario Adscrito se requiere:
+
+I. La propuesta del Notario Titular;
+
+II. Presentar examen ante la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, en coordinación con el Consejo del Colegio de Notarios del Estado, en el cual se demuestre experiencia, capacidad y eficiencia en el desempeño de la función notarial; y,
+
+III. La autorización del Gobernador del Estado.
+
+El Notario Adscrito tendrá las mismas facultades y obligaciones que el Notario Titular y actuará únicamente en su ausencia. El Notario Adscrito hará constar ese carácter, indicándolo expresamente en todos los instrumentos o actos en que intervenga.
+
+El Notario Adscrito también sustituirá al Notario Titular en ausencias motivadas por licencia, suspensión, cesación o solicitud de licencia.
+
+El Notario Adscrito únicamente podrá obtener la patente de Notario Titular en la Notaría a la que está adscrito cuando ésta quede vacante. Dado el caso, el Ejecutivo procederá a otorgarle el nombramiento correspondiente.
+
+El Notario Titular tendrá, en todo tiempo, el derecho de revocar el nombramiento del Notario Adscrito que él mismo haya propuesto. Al efecto, bastará que el Notario Titular notifique la revocación a la Secretaría de Gobierno del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 30.
 
-El sello de cada Notario deberá ser autorizado por la Dirección del Notariado y Archivo General de Notarías; ostentará el escudo nacional en el centro y tendrá inscritos en derredor el nombre, apellidos, número de la notaría y lugar de residencia.
+El Notario, Titular o Adscrito, deberá tener su propio sello para el ejercicio de su función, el cual deberá ser autorizado por la Dirección del Notariado y Archivo General de Notarías; ostentará el escudo nacional en el centro y tendrá inscritos en derredor el nombre, apellidos, número de la notaría, lugar de residencia y, en su caso, la palabra «Adscrito».
 
 El sello deberá ser de forma circular y con diámetro de cuatro centímetros.
 
@@ -933,19 +959,23 @@ V.- Faltare algún otro requisito que produzca la nulidad por disposición expre
 
 Los notarios podrán separarse del ejercicio de sus funciones o ausentarse del lugar de su residencia en cada semestre, por diez días hábiles consecutivos o alternados, dando aviso a la Secretaría de Gobierno y a la Dirección del Notariado y Archivo General de Notarías.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 111.
 
-La Secretaría de Gobierno podrá conceder licencia al notario que la solicite, para separarse de su cargo, hasta por el término de seis meses, la que podrá ser renunciable.
+La Secretaría de Gobierno podrá conceder licencia al notario que la solicite para separarse de su cargo, misma que podrá ser renunciable.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 112.
 
-Cuando la Secretaría de Gobierno conceda una licencia a un Notario o éste sea suspendido, podrá designar sustituto si lo estima necesario. Ordenará la publicación correspondiente en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, comunicando esa circunstancia al Director del Registro Público de la Propiedad y al Director del Notariado y Archivo General de Notarías.
+Cuando la Secretaría de Gobierno conceda una licencia a un Notario o éste sea suspendido y no cuente con Notario Adscrito que lo sustituya, podrá designar sustituto si lo estima necesario. Ordenará la publicación correspondiente en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, comunicando esa circunstancia al Director del Registro Público de la Propiedad y al Director del Notariado y Archivo General de Notarías.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
 Si el Titular del Poder Ejecutivo designa un sustituto que se encargue del despacho de la Notaría, éste lo hará constar así en cada caso, autorizando los actos con su propio sello.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
 Los notarios sustitutos no podrán convertirse en titulares de la notaría que están sustituyendo, dejarán de actuar como notario en cuanto termine la licencia o suspensión del titular y sólo podrán convertirse en titulares, siempre y cuando participen en el proceso que establece la presente Ley.
 
@@ -1015,15 +1045,17 @@ XI.- No acreditar por segunda ocasión consecutiva su certificación.
 
 El nombramiento expedido en favor del Notario quedará sin efecto si dentro del término de treinta días siguientes al de la protesta que haya rendido ante el Secretario de Gobierno, no procede a iniciar sus funciones y a fijar su residencia en el lugar que conforme a esta Ley, debe desempeñarlas.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### ARTICULO 118.
 
-El notario renunciará:
+El nombramiento expedido en favor del Notario quedará sin efectos sin mayor trámite cuando, sin solicitud de licencia previa:
 
-I.- Cuando sea llamado a desempeñar algún cargo directivo en cualquier partido político; y,
+I. Desempeñe algún cargo directivo en cualquier partido político;
 
-II.- Cuando acepte su candidatura para un cargo de elección popular o desempeñe éste. En este caso, deberá renunciar noventa días antes de la elección.
+II. Sea candidato para un cargo de elección popular; o,
 
-Si el notario no renuncia oportunamente en los casos precisados en las fracciones que anteceden, será cesado y el Gobernador procederá a nombrar el sustituto.
+III. Asuma cualquier empleo, cargo o comisión dependiente de los poderes de la Federación, Estado o Municipio, organismos descentralizados o de participación estatal o empleos particulares.
 
 ###### ARTICULO 119.
 
@@ -1047,11 +1079,11 @@ La autoridad judicial que dicte sentencia en contra de un Notario, remitirá cop
 
 Siempre que se promueva judicialmente la interdicción de un Notario, por no hallarse expedito en el uso de sus facultades mentales, el Juez respectivo enviará copia certificada de la resolución al Secretario de Gobierno.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 123.
 
-Las causales de las fracciones III, IV, y VI del artículo 116 se acreditarán con el resultado de la investigación que ordene el Secretario de Gobierno y que practicará el Director del Notariado y Archivo General de Notarías o el funcionario que se designe.
+Las causales de las fracciones III, IV, y VI del artículo 116, previa denuncia presentada ante el Director del Notariado y Archivo General de Notarías e investigación realizada por él mismo, serán resueltas por el Secretario de Gobierno, quien garantizará el derecho de audiencia al denunciado y escuchará la opinión del Consejo de Notarios.
 
 ###### ARTICULO 124.
 
@@ -1071,11 +1103,11 @@ Al cesar el Notario en sus funciones, se recogerá el sello, protocolo, los foli
 
 La Secretaría de Gobierno designará el funcionario que se encargue de formular el inventario y remitir a la Dirección del Notariado y Archivo General de Notarías los objetos y documentos citados, o en su caso, entregarlos al Notario que se designe, notificando a la Dirección del Registro Público de la Propiedad.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 127.
 
-En el caso de separación o suspensión del Notario por un término mayor de seis meses, el sello de la notaría deberá depositarse en la Dirección del Notariado y Archivo General de Notarías.
+En el caso de separación o suspensión del Notario por un término mayor de seis meses, el sello de la notaría deberá depositarse en la Dirección del Notariado y Archivo General de Notarías, subsistiendo el sello del Notario Adscrito en caso de que lo hubiese.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1109,19 +1141,23 @@ I.- Amonestación por oficio;
 
 II.- Multa equivalente al monto de 300 a 500 veces el valor diario de la Unidad de Medida y Actualización;
 
-III.- Suspensión del cargo hasta por un año; y,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+III.- Suspensión del cargo hasta por tres años; y,
 
 IV.- Cese.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 132.
 
-Para aplicar a los notarios las sanciones administrativas que establecen las fracciones I y II del artículo anterior, la Secretaría de Gobierno ordenará que se practique una investigación con cuyo resultado, tomando en cuenta la gravedad y demás circunstancias que concurran en el caso de que se trate, previa audiencia del interesado, dictará la resolución correspondiente, contra la que no procederá recurso alguno.
+Para aplicar a los notarios las sanciones administrativas que establecen las fracciones I y II del artículo anterior, la Secretaría de Gobierno ordenará que se practique una investigación con cuyo resultado, tomando en cuenta la gravedad y demás circunstancias que concurran en el caso de que se trate, previa audiencia del interesado, dictará la resolución correspondiente, contra la que procederá recurso de revocación, el cual será presentado ante el Ejecutivo Estatal, dentro de los cinco días hábiles siguientes contados a partir de su notificación y será resuelto a más tardar dentro de los noventa días naturales posteriores a su presentación.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 133.
 
-Tratándose de actos u omisiones de los notarios que por su gravedad motiven la suspención (sic) o cesación del cargo que desempeñan, antes de dictarse la resolución sobre el particular, se observará el procedimiento siguiente: se ordenará la investigación respectiva en los términos de esta Ley y emplazará al presunto infractor para que dentro del término de veinte días rinda su informe, aporte las pruebas y formule alegatos que a sus intereses convengan; el Ejecutivo del Estado, de considerarlo conveniente y dando cuenta con el resultado de la investigación, solicitará la opinión del Consejo de Notarios, la que deberá emitirse en el plazo de cinco días; con los elementos referidos y dentro del término de diez días dictará la resolución definitiva, contra la que no existirá ulterior recurso.
+Tratándose de actos u omisiones de los notarios que por su gravedad motiven la suspensión o cesación del cargo que desempeñan, antes de dictarse la resolución sobre el particular, se observará el procedimiento siguiente: se ordenará la investigación respectiva en los términos de esta Ley y emplazará al presunto infractor para que dentro del término de veinte días rinda su informe, aporte las pruebas y formule alegatos que a sus intereses convengan; el Ejecutivo del Estado, de considerarlo conveniente y dando cuenta con el resultado de la investigación, solicitará la opinión del Consejo de Notarios, la que deberá emitirse en el plazo de cinco días; con los elementos referidos y dentro del término de diez días dictará la resolución definitiva, contra la que procederá recurso de revocación, en los términos establecidos en el artículo anterior.
 
 ### CAPITULO II. DE LA CANCELACION DE GARANTIA
 
@@ -1307,17 +1343,35 @@ El acta a que se refiere el artículo anterior, se levantará por quintuplicado,
 
 ### CAPITULO I. DE LOS ACTOS MATERIA DE ESTOS PROCEDIMIENTOS
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 151.
 
-Los notarios en forma concurrente con la autoridad jurisdiccional, podrán autorizar los actos y dar fe de los hechos que a continuación se enumeran, siempre y cuando no se haya promovido o se promueva, durante su trámite, cuestión alguna entre partes determinadas:
+Los notarios, en forma concurrente con la autoridad jurisdiccional y administrativa según corresponda, podrán autorizar los actos y dar fe de los hechos que a continuación se enumeran, siempre y cuando no se haya promovido o se promueva, durante su trámite, cuestión alguna entre partes determinadas:
 
-I. Los procedimientos sucesorios en los términos del Código de Procedimientos Civiles del Estado; y,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
-II. Divorcio Administrativo.
+I. Sucesiones, en los términos del Código de Procedimientos Civiles para el Estado de Michoacán de Ocampo;
 
-En el trámite y substanciación de los procedimientos señalados en las fracciones anteriores, los notarios se sujetarán a la normativa de este título y demás disposiciones aplicables consignadas en esta ley, teniendo aplicación supletoria, en lo que no se contrapongan y sean acordes con su naturaleza, las disposiciones relativas a la jurisdicción voluntaria o vía de autorización señaladas en el Código de Procedimientos Civiles del Estado.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+II. Divorcio notarial, en los términos del Código Familiar para el Estado de Michoacán de Ocampo;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+III. Mecanismos alternativos de solución de controversias, en los términos de la Ley de Justicia Alternativa y Restaurativa del Estado de Michoacán; y,
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+IV. Jurisdicción voluntaria, cuando así lo autorice expresamente el Juez en el asunto de que se trate, a petición de los interesados.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+En el trámite y substanciación de los procedimientos señalados en las fracciones I, II y III, anteriores, los notarios se sujetarán a la normativa de este título y demás disposiciones aplicables consignadas en esta Ley, teniendo aplicación supletoria, en lo que no se contrapongan y sean acordes con su naturaleza, las disposiciones relativas a la jurisdicción voluntaria o vía de autorización señaladas en la normatividad de referencia del párrafo anterior y demás ordenamientos aplicables. Por lo que ve a la fracción IV, se ajustarán a lo que indique el Juez en el asunto de que se trate y, en su caso, a lo señalado para las fracciones I, II y III referidas.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+En caso de suscitarse controversia irreconciliable entre las partes durante la tramitación de los asuntos señalados, de forma inmediata el notario deberá de turnar el asunto al órgano jurisdiccional o autoridad competente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1534,3 +1588,13 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO VIGÉSIMO PRIMERO.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22 Y LOS ARTÍCULOS 27 Y 45 DE LA LEY DEL NOTARIADO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 342 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 3o; EL PÁRRAFO SEXTO DEL ARTÍCULO 23; EL ARTÍCULO 29; EL PÁRRAFO PRIMERO DEL ARTÍCULO 30; EL ARTÍCULO 111; EL PÁRRAFO PRIMERO DEL ARTÍCULO 112; EL ARTÍCULO 118; EL ARTÍCULO 123; EL ARTÍCULO 127; LA FRACCIÓN III DEL ARTÍCULO 131; EL ARTÍCULO 132; EL ARTÍCULO 133; EL ARTÍCULO 151; Y, SE ADICIONA UN PÁRRAFO SÉPTIMO AL ARTÍCULO 23; EL ARTÍCULO 29 BIS; LAS FRACCIONES III Y IV, ASÍ COMO UN PÁRRAFO AL ARTÍCULO 151, TODOS DE LA LEY DEL NOTARIADO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Los trámites y actos relativos a divorcios celebrados ante notario público antes de la entrada en vigor del presente Decreto, se ajustarán al mismo para efectos de su registro.
+
+Tercero. El Titular del Poder Ejecutivo emitirá la normatividad reglamentaria que corresponda al presente Decreto en un plazo máximo de sesenta días naturales contados a partir del día de su entrada en vigor.
