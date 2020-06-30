@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-del-bienestar-sociedad-22507"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-29"
-last_updated: "2016-09-23"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22507&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "2001-11-27"
 ---
 # REGLAMENTO ORGANICO DEL BANCO DEL BIENESTAR, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO -- ANTES REGLAMENTO ORGANICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO --
 
-REGLAMENTO ORGÁNICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
+REGLAMENTO ORGÁNICO DEL BANCO DEL BIENESTAR, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2020.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de noviembre de 2001.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
 
-REGLAMENTO ORGANICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE JUNIO DE 2020)</small>
+
+REGLAMENTO ORGÁNICO DEL BANCO DEL BIENESTAR, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
 CONSIDERANDO
 
@@ -39,63 +41,81 @@ Que corresponde a la Secretaría de Hacienda y Crédito Público expedir con suj
 
 Que en ejercicio de las facultades que me confiere la fracción XXI del artículo 6o. del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, y con fundamento en el artículo 30 de la Ley de Instituciones de Crédito, así como el artículo cuarto transitorio de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, he tenido a bien expedir el siguiente:
 
-> <small>N. DE E. EL ACUERDO 14/2015 PUBLICADO EN EL D.O.F. DE 25 DE AGOSTO DE 2015, MEDIANTE EL CUAL SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE JUNIO DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
-
-REGLAMENTO ORGANICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
+REGLAMENTO ORGÁNICO DEL BANCO DEL BIENESTAR, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
 ### Capítulo I. De la Institución
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2020)</small>
 
 ###### Artículo 1o.
 
-El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, está constituido conforme a la Ley de Instituciones de Crédito y a su propia Ley Orgánica, con personalidad jurídica y patrimonio propios.
+El Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, está constituido conforme a la Ley de Instituciones de Crédito y a su propia Ley Orgánica, con personalidad jurídica y patrimonio propios.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 30 DE JUNIO DE 2020)</small>
 
 ###### Artículo 2o.
 
 El presente Reglamento Orgánico tiene por objeto establecer las bases conforme a las cuales se regirá la organización, funcionamiento y facultades de los órganos de administración, control y vigilancia de la Institución.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 30 DE JUNIO DE 2020)</small>
+
 Para efectos del presente Reglamento se entenderá por:
 
-I. Ley Orgánica: A la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2020)</small>
 
-II. Reglamento Orgánico: Al Reglamento Orgánico del Banco del Ahorro Nacional y Servicios Financieros; Sociedad Nacional de Crédito, Institución de Banca de Desarrollo;
+I. Ley Orgánica: A la Ley Orgánica del Banco del Bienestar;
+
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2020)</small>
+
+II. Reglamento Orgánico: Al Reglamento Orgánico del Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo.
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
 III. Secretaría: A la Secretaría de Hacienda y Crédito Público;
 
-IV. Institución: Al Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo;
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2020)</small>
+
+IV. Institución: Al Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
 V. Sector: Al conformado por las personas físicas y morales que, de acuerdo con los criterios definidos por el Consejo Directivo, tengan acceso limitado a los servicios financieros por su condición socioeconómica o ubicación geográfica, y a las personas morales a que se refieren la Ley de Ahorro y Crédito Popular y la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo;
 
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
 VI. Consejo Directivo: Órgano de Gobierno al cual está encomendada la administración de la Banca de Desarrollo;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
 VII. Consejeros: Miembros integrantes del Consejo Directivo, y
 
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
 VIII. Comisarios: Integrantes del Órgano de Vigilancia.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2020)</small>
 
 ###### Artículo 3o.
 
-La Institución prestará el servicio de banca y crédito con sujeción a los objetivos y prioridades del Plan Nacional de Desarrollo, del Programa Nacional de Financiamiento del Desarrollo, y de los programas relacionados con el sector que el propio Plan establezca para promover y financiar las actividades y el Sector que le es encomendado en su propia Ley Orgánica.
+La Institución, prestará sus servicios con sujeción a los objetivos y prioridades del Plan Nacional de Desarrollo, del Programa Nacional de Financiamiento del Desarrollo, y de los programas relacionados con el sector que el propio Plan establezca para promover y financiar las actividades y el sector que le es encomendado en su propia Ley Orgánica.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2020)</small>
 
 ###### Artículo 4o.
 
-La Institución, deberá realizar funciones de banca social, para lo cual tendrá por objeto promover y facilitar el ahorro, el acceso al financiamiento, la inclusión financiera, el fomento de la innovación, la perspectiva de género y la inversión entre los integrantes del Sector a que se refiere el artículo 2o. fracción IV de su Ley Orgánica, ofrecer instrumentos y servicios financieros de primer y segundo piso entre los mismos, así como canalizar apoyos financieros y técnicos necesarios para fomentar el hábito del ahorro y el sano desarrollo del Sector y en general, al desarrollo económico nacional y regional del país, así como proporcionar asistencia técnica y capacitación a los integrantes del Sector.
+La Institución, deberá realizar funciones de banca social, para lo cual tendrá por objeto promover y facilitar el ahorro, el acceso al financiamiento en condiciones equitativas, la inclusión financiera, el uso y fomento de la innovación tecnológica a fin de procurar mejores condiciones a los integrantes del Sector, la perspectiva de género y la inversión entre los integrantes del Sector a que se refiere el artículo 2o. fracción IV de su Ley Orgánica, ofrecer instrumentos y servicios financieros de primer y segundo piso entre los mismos, canalizar apoyos financieros y técnicos necesarios para fomentar el uso de productos y servicios financieros que atiendan las necesidades del Sector y que promuevan la adopción de modelos de negocio y tecnologías financieras innovadoras que impacten en el sano desarrollo del Sector y, en general, que la actividad de la Institución contribuya al desarrollo económico a nivel nacional y regional, proporcionar asistencia técnica y capacitación a los integrantes del Sector, así como dispersar los recursos destinados a subsidios y programas sujetos a reglas de operación de las dependencias y entidades.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2020)</small>
 
 ###### Artículo 5o.
 
-El domicilio de la Institución será la Ciudad de México, Distrito Federal.
+El domicilio de la Institución será la Ciudad de México.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
 La Institución podrá, previa aprobación de su Consejo Directivo, establecer, reubicar o clausurar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales en el país o en el extranjero, en términos de lo previsto por los artículos 42 y 87 de la Ley de Instituciones de Crédito. Asimismo, podrá designar domicilio convencional para el ejercicio de los derechos y cumplimiento de las obligaciones que deriven de los actos que realice y los contratos que celebre.
 
@@ -109,15 +129,15 @@ La Institución tendrá una duración indefinida.
 
 ### Capítulo II. Del Capital Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2020)</small>
 
 ###### Artículo 7o.
 
-El capital social del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $1,747’025,000.00 (MIL SETECIENTOS CUARENTA Y SIETE MILLONES VEINTICINCO MIL PESOS 00/100 M.N.). El capital social pagado es la cantidad de $1,747’025,000.00 (MIL SETECIENTOS CUARENTA Y SIETE MILLONES VEINTICINCO MIL PESOS 00/100 M.N.).
+El capital social del Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $1,947'025,000.00 (MIL NOVECIENTOS CUARENTA Y SIETE MILLONES VEINTICINCO MIL PESOS 00/100 M.N.). El capital social pagado es la cantidad de $1,947'025,000.00 (MIL NOVECIENTOS CUARENTA Y SIETE MILLONES VEINTICINCO MIL PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2020)</small>
 
-Dicho capital social estará representado por 115’303,650 (CIENTO QUINCE MILLONES TRESCIENTOS TRES MIL SEISCIENTOS CINCUENTA) certificados de aportación patrimonial de la Serie “A”, con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.), cada uno y por 59’398,850 (CINCUENTA Y NUEVE MILLONES TRESCIENTOS NOVENTA Y OCHO MIL OCHOCIENTOS CINCUENTA) certificados de aportación patrimonial de la Serie “B”, con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.) cada uno.
+Dicho capital social estará representado por 128’503,650 (CIENTO VEINTIOCHO MILLONES QUINIENTOS TRES MIL SEISCIENTOS CINCUENTA) certificados de aportación patrimonial de la Serie “A”, con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.), cada uno y por 66,198,850 (SESENTA Y SEIS MILLONES CIENTO NOVENTA Y OCHO MIL OCHOCIENTOS CINCUENTA) certificados de aportación patrimonial de la Serie “B”, con un valor nominal de $10.00 (DIEZ PESOS 00/100 M.N.) cada uno.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
@@ -425,6 +445,12 @@ XXXI. Representar a la Institución ante los integrantes del Sector encomendado 
 
 XXXII. Las demás que le delegue el Consejo Directivo o que sea necesario desarrollar para el cumplimiento de lo dispuesto en las fracciones anteriores; o aquellas que le confieran otras leyes, reglamentos, decretos, acuerdos y disposiciones administrativas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2020)</small>
+
+###### Artículo 23 Bis.
+
+El Director General, así como los funcionarios de los dos niveles jerárquicos inferiores a éste, podrán expedir certificaciones de los documentos existentes en los archivos de las direcciones a su cargo.
+
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 24.
@@ -455,7 +481,9 @@ Los Delegados Fiduciarios ejercerán las facultades y poderes que se mencionan e
 
 La asamblea de tenedores de certificados de aportación patrimonial de la serie "B", no es un órgano de gobierno de la Institución, se reunirá por lo menos una vez al año, debiendo ser convocada mediante aviso que se publicará por una sola vez en uno de los periódicos de mayor circulación en el domicilio de la Institución, con cuando menos diez días hábiles de anticipación a la fecha señalada para la asamblea.
 
-En todo caso, la asamblea podrá ser convocada en cualquier tiempo por los tenedores de certificados e (sic) aportación patrimonial de la serie "B", que representen cuando menos una tercera parte del capital social de dicha serie, por el presidente del Consejo Directivo, por el Director General, por los Consejeros de la serie "B" o por el Comisario de la misma serie.
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2020)</small>
+
+En todo caso, la asamblea podrá ser convocada en cualquier tiempo por los tenedores de certificados de aportación patrimonial de la serie “B”, que representen cuando menos una tercera parte del capital social de dicha serie, por el presidente del Consejo Directivo, por el Director General, por los Consejeros de la serie "B" o por el Comisario de la misma serie.
 
 La asamblea de tenedores de certificados de aportación patrimonial de la serie "B", se ocupará de los siguientes asuntos:
 
@@ -581,7 +609,9 @@ Hasta un 20% de los pasivos a cargo de la Institución en moneda extranjera, y
 
 La cantidad que determine la Secretaría para constituir e incrementar otras reservas.
 
-Fijado el monto del remanente de operación y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Institución, el saldo se aplicará de la siguiente manera:
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2020)</small>
+
+Fijado el monto del remanente de operación y separada la cantidad que corresponda pagar por el impuesto respectivo, el saldo se aplicará de la siguiente manera:
 
 Del remanente se tomará la cantidad que el Consejo Directivo acuerde destinarse a ser distribuida como dividendo entre los tenedores de certificados de aportación patrimonial a prorrata, y el saldo, si lo hubiere, se aplicará en la forma que acuerde el Consejo Directivo.
 
@@ -684,3 +714,15 @@ D.O.F. 23 DE SEPTIEMBRE DE 2016.
 PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio las modificaciones que por virtud del presente acuerdo se realicen a su Reglamento Orgánico.
+
+D.O.F. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio las modificaciones que por virtud del presente acuerdo se realicen a su Reglamento Orgánico.
