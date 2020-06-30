@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-68085"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2019-08-01"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el 27 de marzo de 2009.
 
@@ -145,6 +145,10 @@ III. Educativo; y
 
 IV. Comunitario.
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+V. Digital.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ### Capítulo II. De la Violencia en el ámbito familiar
@@ -183,13 +187,21 @@ Violencia en el ámbito comunitario
 
 Es la violencia ejercida por personas que no tienen relación familiar, laboral o educativa con la persona receptora de violencia y se da en lo social.
 
-### Capítulo VI. De los Modelos de Prevención, Atención y Erradicación de la Violencia
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2020)</small>
+
+### Capítulo VI. De la Violencia en el ámbito digital
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+Violencia en el ámbito digital
+
+###### Artículo 10 Bis.
+
+Es toda violencia que se realiza a través de las tecnologías de la información y comunicación, plataformas de Internet, redes sociales, correo electrónico, aplicaciones, o cualquier otro espacio digital.
+
+### Capítulo VII. De los Modelos de Prevención, Atención y Erradicación de la Violencia
 
 Modelos
-
-### Capítulo Único. De las Órdenes de Protección
-
-Órdenes de Protección
 
 ###### Artículo 11.
 
@@ -205,7 +217,9 @@ Las bases para la elaboración y operación de estos modelos se establecerán en
 
 ## Título Tercero. De las Órdenes de Protección
 
-### Capítulo Único. De la Violencia hacia la mujer
+### Capítulo Único. De las Órdenes de Protección
+
+Órdenes de Protección
 
 ###### Artículo 12.
 
@@ -277,9 +291,7 @@ III. Las demás establecidas en otras disposiciones legales estatales.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-### Capítulo I. De su Objeto y Órgano de Dirección
-
-Sistema Estatal
+### Capítulo Único. De la Violencia hacia la mujer
 
 ###### Artículo 18.
 
@@ -311,9 +323,9 @@ Sistema Estatal
 
 ## Título Quinto. Del Sistema Estatal para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato
 
-### Capítulo II. De las Facultades del Consejo Estatal
+### Capítulo I. De su Objeto y Órgano de Dirección
 
-Facultades del Consejo Estatal
+Sistema Estatal
 
 ###### Artículo 25.
 
@@ -379,7 +391,9 @@ Para efectos de la fracción XIII, el número de representantes, la forma de su 
 
 El Consejo Estatal contará con una Secretaría Técnica, que será establecida en el Reglamento del Sistema Estatal.
 
-### Capítulo III. De las Facultades de los Integrantes del Consejo Estatal
+### Capítulo II. De las Facultades del Consejo Estatal
+
+Facultades del Consejo Estatal
 
 ###### Artículo 27.
 
@@ -421,9 +435,7 @@ XVI. Establecer la Red Estatal de datos e información sobre los casos de violen
 
 XVII. Las demás que establezcan esta Ley y las demás establecidas en otras disposiciones legales estatales.
 
-### Capítulo IV. De los Lineamientos Generales de la Organización del Consejo Estatal
-
-Sesiones del Consejo Estatal
+### Capítulo III. De las Facultades de los Integrantes del Consejo Estatal
 
 #### Sección Primera. De las Facultades Generales
 
@@ -707,9 +719,9 @@ VIII. Difundir los servicios que prestan los refugios; así como impulsar su cre
 
 IX. Involucrar de manera activa y permanente a sus dependencias y entidades en el cumplimiento del Programa Estatal.
 
-### Capítulo Único. Del Programa Estatal
+### Capítulo IV. De los Lineamientos Generales de la Organización del Consejo Estatal
 
-Definición del Programa Estatal
+Sesiones del Consejo Estatal
 
 ###### Artículo 43.
 
@@ -741,9 +753,9 @@ El Sistema Estatal se regirá en lo que hace a su órgano de dirección, organiz
 
 ## Título Sexto. Del Programa Estatal para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato
 
-### Capítulo I. De la Prevención
+### Capítulo Único. Del Programa Estatal
 
-Prevención
+Definición del Programa Estatal
 
 ###### Artículo 47.
 
@@ -773,9 +785,9 @@ VIII. Destinar presupuesto para garantizar el cumplimiento de los objetivos del 
 
 ## Título Séptimo. De la Prevención, la Atención y la Cultura de Paz
 
-### Capítulo II. De la Atención
+### Capítulo I. De la Prevención
 
-Atención
+Prevención
 
 ###### Artículo 49.
 
@@ -795,9 +807,9 @@ III. Realizar programas de protección, educativos y de apoyo social a las perso
 
 IV. Las demás que determine el Consejo Estatal, esta Ley y las demás establecidas en otras disposiciones legales estatales.
 
-### Capítulo III. De la Cultura de Paz
+### Capítulo II. De la Atención
 
-Acciones y campañas para implementar una Cultura de Paz
+Atención
 
 ###### Artículo 51.
 
@@ -815,11 +827,9 @@ II. Cualquier tipo de intervención o atención psicológica, individual o grupa
 
 III. Los servicios reeducativos integrales especializados y gratuitos a las personas generadoras de violencia que tiendan a desestructurar los patrones violentos en las relaciones interpersonales y a reeducar enseñando nuevos patrones tendientes a fomentar una cultura de paz.
 
-### Capítulo I. Autoridades encargadas de la Atención de la Violencia
+### Capítulo III. De la Cultura de Paz
 
-Autoridades para la Atención de la Violencia
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+Acciones y campañas para implementar una Cultura de Paz
 
 ###### Artículo 52.
 
@@ -837,11 +847,9 @@ V. La promoción de la igualdad.
 
 ## Título Octavo. De la Atención de la Violencia
 
-### Capítulo II. De la atención a las personas receptoras y generadoras de violencia
+### Capítulo I. Autoridades encargadas de la Atención de la Violencia
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
-
-Atención a personas receptoras y generadoras de violencia
+Autoridades para la Atención de la Violencia
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -861,13 +869,13 @@ Las autoridades a que se refiere este artículo deberán celebrar convenios y pr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
-### Capítulo III. Atribuciones de las autoridades competentes para la atención de la violencia
+### Capítulo II. De la atención a las personas receptoras y generadoras de violencia
 
 > <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Atribuciones de las autoridades Competentes para la atención de la violencia
+Atención a personas receptoras y generadoras de violencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 54.
 
@@ -953,9 +961,13 @@ Cuando la persona víctima de violencia sea del género femenino, preferentement
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
-### Capítulo IV. De los Servicios para las personas receptoras y generadoras de violencia
+### Capítulo III. Atribuciones de las autoridades competentes para la atención de la violencia
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atribuciones de las autoridades Competentes para la atención de la violencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 59.
 
@@ -1031,9 +1043,9 @@ Estas facultades podrán ser delegadas a excepción de las señaladas en las fra
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
-### Capítulo Único. De los Refugios para la Atención a los Receptores de Violencia
+### Capítulo IV. De los Servicios para las personas receptoras y generadoras de violencia
 
-Creación de los Refugios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
 #### Sección Primera. De la Atención a las Personas Receptoras de Violencia
 
@@ -1105,9 +1117,9 @@ II. Información jurídica sobre las consecuencias legales de sus conductas.
 
 ## Título Noveno. De los Refugios
 
-### Capítulo Único. De la Coordinación
+### Capítulo Único. De los Refugios para la Atención a los Receptores de Violencia
 
-Coordinación
+Creación de los Refugios
 
 ###### Artículo 66.
 
@@ -1187,17 +1199,21 @@ En ningún caso se podrá mantener a las personas receptoras de violencia en los
 
 ## Título Décimo. De la Coordinación
 
-### Capítulo Único. De las Responsabilidades
+### Capítulo Único. De la Coordinación
 
-Responsabilidades
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+Coordinación
 
 ###### Artículo 74.
 
 Las autoridades, dependencias e instituciones señaladas en esta ley deberán coordinarse a través de convenios de colaboración o mediante los mecanismos legales conducentes, a efecto de instrumentar y ejecutar las acciones derivadas del Programa Estatal, así como para la asistencia y atención de receptores y generadores de la misma y en general para el cumplimiento del objeto de esta Ley.
 
 ## Título Undécimo. De las Responsabilidades
+
+### Capítulo Único. De las Responsabilidades
+
+Responsabilidades
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 75.
 
@@ -1442,3 +1458,9 @@ Procesos de entrega recepción
 Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
 
 El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+P.O. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 188 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
