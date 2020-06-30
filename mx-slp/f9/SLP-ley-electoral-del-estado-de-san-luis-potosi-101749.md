@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-101749"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2020-05-29"
+last_updated: "2020-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 30 DE JUNIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE MAYO DE 2020.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 30 de junio de 2014.
 
@@ -6190,3 +6190,23 @@ P.O. 29 DE MAYO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0703.- SE EXPIDE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Con la entrada en vigor del presente Decreto, se abroga la Ley Electoral del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, con el Decreto Legislativo número 613, el treinta de junio de dos mil catorce.
+
+TERCERO. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, deberá realizar las modificaciones en los reglamentos correspondientes, a efecto de cumplir con los términos del artículo 3º fracción II, inciso r), dentro de los sesenta días posteriores al inicio del proceso electoral.
+
+CUARTO. El Consejo Estatal Electoral y de Participación Ciudadana, deberá elaborar lineamientos con acciones afirmativas en favor de los grupos y comunidades indígenas en la Entidad, así como de las personas discapacitadas, ello derivado de la imposibilidad de llevarse a cabo las consultas correspondientes debido a la contingencia sanitaria provocada por la enfermedad denominada COVID-19, por lo que es necesario contar con tales disposiciones en favor de estos grupos.
+
+QUINTO. Para el caso de prevalecer la contingencia sanitaria o eventualidades emergentes en materia de salud pública, deberán tomarse las previsiones y medidas necesarias para salvaguardar la salud de quienes participen en la jornada electoral.
+
+SEXTO. Los procedimientos sancionadores que el Consejo Estatal Electoral y de Participación Ciudadana hubiere iniciado con motivo de denuncias por actos de violencia política en contra de las mujeres en razón de género previo a la entrada en vigor de la presente reforma, y que aún se encuentren en trámite, deberán concluirse con las disposiciones que se hubieren aplicado en su tramitación inicial.
+
+SÉPTIMO. Los procedimientos de elección que los ayuntamientos del Estado de San Luis Potosí, hubieren iniciado para la designación de la o el Jefe del Departamento de Asuntos Indígenas previo a la entrada en vigor de la presente reforma, y que aún se encuentre en trámite, deberán atender a lo establecido en esta reforma, en el entendido de que la elección de la persona que deba ser designada para ocupar la Jefatura de Asuntos Indígenas del ayuntamiento respectivo, deberá realizarse de conformidad con sus sistemas normativos y formas de organización comunitaria de los pueblos y comunidades indígenas integrantes del ayuntamiento respectivo, garantizando en la mayor medida de lo posible, el principio de paridad de género, en cumplimiento de lo establecido en el artículo 2º de la Constitución Política de los Estados Unidos Mexicanos.
+
+OCTAVO. Los procedimientos de investigación por la comisión de delitos electorales que la Fiscalía Especializada en Delitos Electorales del Estado hubiere iniciado previo a la entrada en vigor de la presente reforma, y que aún se encuentre en trámite, deberán continuar su sustanciación en términos de las disposiciones de conformidad con las cuales fueron iniciados.
