@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2018-09-04"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1713,13 +1713,17 @@ XLVI. Las demás que se deriven de la Constitución Política de los Estados Uni
 
 #### SECCIÓN I. FINES Y ORGANIZACIÓN
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 92.
 
-El Poder Judicial del Estado garantizará el derecho a una efectiva impartición de justicia en materia civil, penal, familiar y para adolescentes por medio de Magistrados y Jueces independientes, imparciales, especializados y profesionales, sometidos a lo dispuesto en esta Constitución y en las leyes.
+El Poder Judicial del Estado garantizará el derecho a una efectiva impartición de justicia en materia civil, familiar, laboral, penal y penal para adolescentes por medio de magistrados y jueces independientes, imparciales, especializados y profesionales, sometidos a lo dispuesto en esta Constitución y en las leyes.
 
-1. Para el ejercicio de sus atribuciones, el Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia, en Juzgados de Control, de Juicio Oral, de Ejecución Penal, de Justicia para Adolescentes, de Paz, y en los demás que señale su Ley Orgánica;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+1. Para el ejercicio de sus atribuciones, el Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia y de Paz, así como en los demás que señale su Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 2. El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación; y se atenderá a lo siguiente:
 
@@ -1742,6 +1746,8 @@ VIII. El Juez sólo condenará cuando exista convicción de la culpabilidad del 
 IX. Cualquier prueba obtenida con violación de derechos fundamentales será nula; y,
 
 X. Los principios previstos en este artículo, se observarán también en las audiencias preliminares al juicio.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 3. Toda persona imputada gozará de los siguientes derechos:
 
@@ -1770,6 +1776,8 @@ XI. En ningún caso podrá prolongarse la prisión o detención, por falta de pa
 XII. La prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo que su prolongación se deba al ejercicio del derecho de defensa del imputado. Si cumplido este término no se ha pronunciado sentencia, el imputado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares; y,
 
 XIII. En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 4. La víctima, o en su caso, el ofendido, gozarán de los siguientes derechos:
 
@@ -1829,15 +1837,21 @@ II. Tener cuando menos 35 años cumplidos al día de la designación;
 
 III. Poseer al día de la designación título y cédula profesionales de licenciado en derecho, con antigüedad mínima de diez años, expedidos por autoridad o institución legalmente facultada para ello;
 
-IV. Gozar de buena reputación, no haber sido condenado por delito doloso ni estar inhabilitado para el desempeño de cargos públicos, ni haberse emitido en su contra recomendaciones de los organismos no jurisdiccionales de protección de los derechos humanos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+IV. Gozar de buena reputación, no haber sido condenado por delito doloso ni estar inhabilitado para el desempeño de cargos públicos;
 
 V. Haber residido en el Estado durante los dos años anteriores al día de la designación;
 
 VI. No ser ministro de algún culto religioso; y,
 
-VII. No haber sido Gobernador, secretario de despacho del Ejecutivo, Procurador o Fiscal General, Senador, Diputado federal o local, o Presidente municipal, dos años previo al día de su nombramiento.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
-1. Los Jueces de Primera Instancia, así como los Jueces de Control, de Juicio Oral, de Ejecución Penal y de justicia para Adolescentes, deberán satisfacer los mismos requisitos que se exigen para ser Magistrado, exceptuando el de la edad, que será de veinticinco años, y el de la antigüedad en el título y cédula profesionales, que será de tres años; y,
+VII. No haber sido secretario de despacho del Ejecutivo, Fiscal General o diputado local, un año previo al día de su nombramiento.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+1. Los Jueces de Primera Instancia deberán satisfacer los mismos requisitos que se exigen para ser Magistrado, exceptuando el de la edad, que será de treinta años, y el de la antigüedad en el título y cédula profesionales, que será de, al menos, cinco años; y
 
 2. La Ley Orgánica del Poder Judicial del Estado determinará los requisitos que deban reunir los demás servidores públicos judiciales y la forma de ingreso para el desempeño de sus funciones.
 
@@ -1873,9 +1887,13 @@ Los Magistrados durarán en su encargo 7 años contados a partir de la fecha de 
 
 1. Los Magistrados para ser ratificados deberán ser evaluados conforme a los procedimientos establecidos en la ley orgánica, observando, en todo momento, los principios de legalidad y objetividad.
 
-2. Los Jueces podrán ser ratificados previa evaluación de su desempeño de manera sucesiva por el Consejo de la Judicatura, y sólo serán removidos por causa grave;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
-3. Procederá el retiro forzoso e improrrogable de Magistrados y Jueces al momento de cumplir 70 años, o cuando tengan un padecimiento que los incapacite para el desempeño de su función; y,
+2. Los Jueces serán nombrados por seis años por el Pleno del Tribunal Superior de Justicia y podrán ser ratificados por éste, previa evaluación de su desempeño por el Consejo de la Judicatura; una vez ratificados, sólo serán removidos por las causas establecidas en esta Constitución y en la Ley Orgánica del Poder Judicial del Estado;
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+3. Procederá el retiro forzoso e improrrogable de magistrados y jueces al momento de cumplir setenta años, o cuando tengan un padecimiento que los incapacite para el desempeño de su función. La Ley Orgánica del Poder Judicial del Estado establecerá los supuestos en que procede el retiro voluntario; y
 
 4. En caso de retiro forzoso o voluntario, enfermedad o vejez, los Magistrados y Jueces tendrán derecho a un haber de retiro por los servicios prestados al Estado, en los términos que disponga la ley orgánica.
 
@@ -1915,21 +1933,27 @@ APARTADO I
 
 INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 101.
 
-El Tribunal Superior de Justicia se integrará con el número de Magistrados que establezca su ley orgánica, el cual estará en función de las Salas necesarias para una pronta y efectiva impartición de justicia.
+El Tribunal Superior de Justicia se integrará con el número de magistrados que establezca la Ley Orgánica del Poder Judicial del Estado, el cual estará en función de las Salas necesarias para una pronta y efectiva impartición de justicia.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 102.
 
-El Tribunal Superior de Justicia funcionará en Pleno y en Salas, de conformidad con las atribuciones estipuladas en esta Constitución y en su ley orgánica.
+El Tribunal Superior de Justicia funcionará en Pleno y en Salas, de conformidad con las atribuciones estipuladas en esta Constitución y en la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. El Pleno se integrará con todos los Magistrados del Tribunal Superior de Justicia;
 
-2. La Ley Orgánica del Poder Judicial del Estado determinará el número y la competencia de las salas civiles, penales, familiares y de adolescentes; y,
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+2. El Consejo de la Judicatura determinará el número, división en distritos, competencia territorial y especialización por materias, de Salas y Juzgados; y
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 3. Las salas serán colegiadas y unitarias. Las colegiadas se integrarán con tres Magistrados cada una, uno de los cuales será su Presidente.
 
@@ -1941,9 +1965,13 @@ El Tribunal Superior de Justicia será Presidido por un Magistrado, que no integ
 
 1. El Magistrado Presidente será electo por el Pleno en la primera sesión de noviembre, cada tres años y podrá ser reelecto por una sola ocasión;
 
-2. En sus faltas temporales no mayores a treinta días, el Magistrado Presidente será sustituido por el Magistrado de mayor antigüedad en el Pleno. Si la falta excede ese término, el Pleno designará un Presidente interino; y,
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
-3. En diciembre de cada año el Magistrado Presidente deberá presentar un informe ante el Pleno del Tribunal Superior de Justicia del Estado, ante el Consejo de la Judicatura, remitiendo copia al titular del Poder Ejecutivo y al representante del Poder Legislativo, sobre la situación que guarda la impartición de justicia en la Entidad.
+2. En sus faltas temporales no mayores a sesenta días, el Magistrado Presidente será sustituido por el Magistrado de mayor antigüedad en el Pleno. Si la falta excede ese término, el Pleno designará un Presidente interino; y
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+3. En diciembre de cada año el Magistrado Presidente deberá presentar un informe ante el Pleno del Tribunal Superior de Justicia del Estado y ante el Pleno del Consejo de la Judicatura, remitiendo copia al titular del Poder Ejecutivo y al representante del Poder Legislativo, sobre la situación que guarda la impartición de justicia en la Entidad. En el último año del periodo correspondiente, el informe se presentará en el mes de noviembre.
 
 La ley orgánica regulará los demás aspectos estipulados en el presente artículo.
 
@@ -1953,37 +1981,41 @@ APARTADO II
 
 ATRIBUCIONES
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
 ###### ARTICULO 104.
 
 Son atribuciones del Tribunal Superior de Justicia del Estado:
 
-I. Velar por la observancia de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen, dentro del ámbito de su competencia;
+I. Velar por la observancia de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen, dentro del ámbito de su competencia;
 
 II. Cuidar la independencia y autonomía del Poder Judicial del Estado;
 
 III. Interpretar y aplicar las normas que conforman el ordenamiento jurídico del Estado y aquellas del ordenamiento jurídico mexicano sujetas a jurisdicción concurrente y, en su caso, coincidente, así como los Tratados y Convenios internacionales ratificados por el Senado de la República;
 
-IV. Resolver los conflictos de competencia que surjan entre las Salas del Tribunal, o entre los Juzgados de Primera Instancia y los de Adolescentes;
+IV. Resolver los conflictos de competencia que surjan entre las Salas del Tribunal, o entre los Juzgados de Primera Instancia;
 
-V. Nombrar cada tres años a su Presidente, en los términos establecidos en su ley orgánica;
+V. Nombrar cada tres años a su Presidente, en los términos establecidos en la Ley Orgánica del Poder Judicial del Estado;
 
-VI. Designar al consejero de la Judicatura que corresponda al Poder Judicial, conforme a la facultad reconocida en esta Constitución;
+VI. Designar, a propuesta de su Presidente, un Consejero de la Judicatura de entre los integrantes del Pleno del Tribunal Superior de Justicia, por un periodo de tres años, conforme a la facultad reconocida en esta Constitución, el cual podrá ser ratificado por única ocasión e igual periodo;
 
-VII. Nombrar a los jueces, previa propuesta y dictamen favorable del Consejo de la Judicatura, de conformidad con lo dispuesto en la Ley Orgánica;
+VII. Nombrar a los jueces, previa propuesta y dictamen favorable del Consejo de la Judicatura, de conformidad con lo dispuesto en la Ley Orgánica del Poder Judicial del Estado;
 
-VIII. Publicar las tesis y la jurisprudencia obligatoria para su cumplimiento por los Poderes públicos y habitantes del Estado;
+VIII. Revisar, y en su caso, modificar la competencia de los órganos jurisdiccionales del Poder Judicial del Estado, de acuerdo con las necesidades de la impartición de justicia, y con la votación calificada de por lo menos las dos terceras partes de sus integrantes;
 
-IX. Establecer políticas anuales para que la impartición de justicia se realice de conformidad con los principios de eficiencia, eficacia, prontitud, expedites, completitud, gratuidad y máxima publicidad;
+IX. Nombrar al personal jurisdiccional y administrativo de confianza del Tribunal Superior de Justicia;
 
-X. Formular su proyecto de presupuesto de egresos anual, integrarlo al que le presente el Consejo de la Judicatura para el resto del Poder Judicial y remitirlo al Gobernador para que lo incorpore al presupuesto de egresos correspondiente;
+X. Emitir tesis y establecer jurisprudencia obligatoria para su cumplimiento por los poderes públicos y habitantes del Estado;
 
-XI. Determinar mecanismos para garantizar la transparencia, el acceso a la información y la protección de los datos personales en el ejercicio de la función judicial;
+XI. Establecer políticas anuales para que la impartición de justicia se realice de conformidad con los principios de eficiencia, eficacia, prontitud, expedites, completitud, gratuidad y máxima publicidad;
 
-XII. Solicitar al Consejo de la Judicatura expida los reglamentos y acuerdos generales para la debida regulación de su organización, funcionamiento, administración y competencias; y,
+XII. Formular su proyecto de presupuesto de egresos anual, integrarlo al que le presente el Consejo de la Judicatura para el resto del Poder Judicial y remitirlo al Gobernador para que lo incorpore al presupuesto de egresos correspondiente;
 
-XIII. Las demás que le confieran esta Constitución y las leyes.
+XIII. Determinar mecanismos para garantizar la transparencia, el acceso a la información y la protección de los datos personales en el ejercicio de la función judicial;
+
+XIV. Aprobar o solicitar al Consejo de la Judicatura expida los reglamentos y acuerdos generales para la debida regulación de su organización, funcionamiento, administración y competencias; y
+
+XV. Las demás que le confieran esta Constitución y las leyes.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3105,7 +3137,9 @@ I. La selección, nombramiento, capacitación, promoción, permanencia e imposic
 
 II. La administración y vigilancia de los bienes muebles e inmuebles del Poder Judicial del Estado de Guerrero, procurando su adecuada utilización.
 
-2. Las decisiones del Consejo de la Judicatura deberán ser adoptadas por las dos terceras partes de sus integrantes y podrán ser recurridas de conformidad con los recursos establecidos en su ley orgánica;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+2. Las decisiones del Consejo de la Judicatura deberán ser adoptadas por la mayoría de sus integrantes, teniendo voto de calidad el Presidente en caso de empate, y podrán ser recurridas de conformidad con los recursos establecidos en la Ley Orgánica del Poder Judicial del Estado;
 
 3. Los actos y decisiones del Consejo de la Judicatura respetarán el principio de independencia jurisdiccional de los Jueces; y,
 
@@ -3121,7 +3155,9 @@ I. El presidente del Tribunal Superior de Justicia del Estado de Guerrero, quien
 
 II. Un consejero elegido entre los Jueces de primera instancia por votación libre y directa de todos sus integrantes;
 
-III. Un consejero designado por el Pleno del Tribunal del Estado de Guerrero de entre sus Magistrados;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+III. Un consejero designado por el Pleno del Tribunal Superior de Justicia del Estado de entre sus magistrados, a propuesta de su Presidente;
 
 IV. Un consejero designado por el Gobernador del Estado; y,
 
@@ -3129,11 +3165,17 @@ V. Un consejero designado por las dos terceras partes del total de los miembros 
 
 1. Durante el ejercicio de su encargo, los consejeros provenientes del Poder Judicial del Estado de Guerrero no realizarán funciones jurisdiccionales. Al término del encargo se reincorporarán a sus respectivas adscripciones;
 
-2. El Consejo de la Judicatura contará con los órganos, unidades administrativas y el personal necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en la ley orgánica y en su reglamento interior.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
-3. El Consejo de la Judicatura funcionará en Pleno o en comisiones, en los términos dispuestos en su ley orgánica; y,
+2. El Consejo de la Judicatura contará con los órganos, unidades administrativas y el personal necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en la Ley Orgánica del Poder Judicial del Estado y en su reglamento interior.
 
-4. La ley orgánica y el reglamento interior del Consejo de la Judicatura establecerán disposiciones adicionales con relación a la integración, organización, funcionamiento, procedimientos y de su ámbito competencial.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+3. El Consejo de la Judicatura funcionará en Pleno o en comisiones, en los términos dispuestos en la Ley Orgánica del Poder Judicial del Estado; y
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
+4. La Ley Orgánica del Poder Judicial del Estado y el Reglamento Interior del Consejo de la Judicatura establecerán disposiciones adicionales con relación a la integración, organización, funcionamiento, procedimientos y ámbito competencial del mismo.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3157,13 +3199,19 @@ El Consejo de la Judicatura es competente para:
 
 I. Proponer, previo dictamen, el nombramiento de jueces al Pleno del Tribunal Superior de Justicia;
 
-II. Adscribir, suspender y remover a los Jueces y demás personal jurisdiccional, conforme al procedimiento establecido en su ley orgánica;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+II. Suspender, destituir e inhabilitar a los jueces y demás personal jurisdiccional, conforme al procedimiento establecido en la Ley Orgánica del Poder Judicial del Estado;
 
 III. Los procedimientos de nombramiento de los Jueces deberán considerar preferentemente a los miembros provenientes del servicio judicial de carrera, atendiendo en su sustanciación a los principios de apertura, transparencia, pluralismo, acceso en condiciones de igualdad e idoneidad de los aspirantes;
 
-IV. Nombrar al personal de confianza y administrativo del Consejo, en los términos previstos en la ley orgánica;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
-V. Expedir por sí, o a solicitud del Pleno del Tribunal del Estado de Guerrero, acuerdos generales para el adecuado ejercicio de sus funciones o de la función jurisdiccional;
+IV. Nombrar y adscribir al personal jurisdiccional, administrativo y de confianza del Poder Judicial del Estado, con excepción del personal jurisdiccional y administrativo de confianza del Tribunal Superior de Justicia;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+V. Expedir por sí, o a solicitud del Pleno del Tribunal Superior de Justicia del Estado, acuerdos, reglamentos y demás disposiciones de carácter general para el adecuado ejercicio de sus funciones o de la función jurisdiccional;
 
 VI. Aprobar el Reglamento del Sistema de Carrera Judicial;
 
@@ -3189,7 +3237,9 @@ XV. Implementar políticas, lineamientos, instrucciones y recomendaciones en fav
 
 XVI. Administrar, transparentar e informar lo relativo al Fondo Auxiliar para la Administración de Justicia. La Auditoría Superior del Estado de Guerrero fiscalizará lo conducente; y,
 
-XVII. Las demás que determine la ley de la materia y su reglamento.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
+XVII. Las demás que determine la Ley Orgánica del Poder Judicial del Estado y el Reglamento Interior del Consejo de la Judicatura.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -5246,3 +5296,17 @@ La Fiscalía General del Estado entregará al Consejero Jurídico del Poder Ejec
 De manera conjunta el Consejero Jurídico del Poder Ejecutivo y la Fiscalía General del Estado, darán seguimiento a los procedimientos compartiendo la responsabilidad por un término transitorio no menor a tres meses, a efecto de que no se vean afectados los procedimientos por la transición.
 
 La Fiscalía General del Estado, transferirá los recursos financieros y materiales etiquetados y designados para la representación del Estado de Guerrero a la dependencia que realice las funciones de Consejero Jurídico del Poder Ejecutivo, los titulares de ambas dependencias realizarán las previsiones necesarias para que dichos recursos queden transferidos el mismo día en que entren en vigor las disposiciones señaladas en el presente Decreto.
+
+P.O. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 776 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN EL ÁMBITO DEL PODER JUDICIAL DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, sin perjuicio de lo previsto en los transitorios legales.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO. En tanto el Pleno del Tribunal Superior de Justicia determine el número y competencia de las salas, así como de los juzgados de primera instancia, en los términos de esta Constitución y la Ley Orgánica del Poder Judicial del Estado, seguirán funcionando las salas y juzgados de primera instancia que a la fecha operan, con la jurisdicción, competencia y número de integrantes que actualmente poseen.
+
+CUARTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
