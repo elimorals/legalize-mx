@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-para-el-estado-de-63083"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-06"
-last_updated: "2016-12-29"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
 
 Código publicado en la Sección Extraordinaria del Periódico Oficial del Estado de Michoacán, el sábado 6 de septiembre de 2008.
 
@@ -6601,9 +6601,11 @@ De la jurisdicción voluntaria
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+
 ###### Artículo 1153.
 
-La jurisdicción voluntaria, o vía de autorización, comprende todos los actos en que, por disposición de la ley o por solicitud de los interesados, se requiere la intervención del Juez sin que se haya promovido ni se promueva cuestión alguna entre partes determinadas.
+La jurisdicción voluntaria, o vía de autorización, comprende todos los actos en que, por disposición de la ley o por solicitud de los interesados, se requiere la intervención del Juez sin que se haya promovido ni se promueva cuestión alguna entre partes determinadas. Por tal motivo, a solicitud de los interesados y en auxilio a la administración de justicia, el Juez podrá autorizar al notario público propuesto para que conozca del asunto y resuelva lo conducente, asegurándose de que los actos se realicen conforme a la normatividad que rige la materia de que se trate precisando las acciones a seguir, de manera análoga a la normatividad procesal respectiva, interpretándola de manera sistemática y funcional exclusivamente para la actuación del notario público. El notario público, en caso de que exista o se presente controversia o contradicción entre partes, regresará el asunto al Juez respectivo de inmediato. Las actuaciones notariales en materia de jurisdicción voluntaria serán notificadas al Juez que haya autorizado, para efectos de su registro en el expediente respectivo.
 
 ###### Artículo 1154.
 
@@ -6890,3 +6892,13 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 342 POR EL QUE “SE REFORMA EL ARTÍCULO 1153 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACÁN”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Los trámites y actos relativos a divorcios celebrados ante notario público antes de la entrada en vigor del presente Decreto, se ajustarán al mismo para efectos de su registro.
+
+Tercero. El Titular del Poder Ejecutivo emitirá la normatividad reglamentaria que corresponda al presente Decreto en un plazo máximo de sesenta días naturales contados a partir del día de su entrada en vigor.
