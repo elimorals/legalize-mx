@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-economico-del-estado-de-coahuila-de-104823"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2019-05-10"
+last_updated: "2020-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -65,25 +65,33 @@ IV. Consejo: Consejo de Estado, que es el órgano constituido por el gabinete le
 
 V. Consejos Regionales: Consejos Regionales de Desarrollo Económico;
 
-VI. Estado: Estado Independiente, Libre y Soberano de Coahuila de Zaragoza;
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2020)</small>
 
-VII. Empresas: A las unidades económicas, personas físicas o morales, constituidas legalmente y dedicadas a la producción de bienes o a la prestación de servicios;
+VI. Desastre: Evento extraordinario natural o provocado por el ser humano, que origina destrucción a bienes materiales y que puede ocasionar lesiones físicas, sufrimiento y en algunos casos la muerte;
 
-VIII. Empresa Coahuilense: Las unidades económicas que causen y paguen sus contribuciones en el Estado de Coahuila de Zaragoza, que tengan su domicilio fiscal en el territorio del Estado, que se encuentren generando empleos en el mismo Estado y que acrediten por lo menos 6 (seis) meses operando, mismas que podrán obtener el Certificado, previo cumplimiento de los requisitos exigidos en la presente Ley;
+VII. Estado: Estado Independiente, Libre y Soberano de Coahuila de Zaragoza;
 
-IX. Gobernador: El Gobernador del Estado de Coahuila de Zaragoza;
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2020)</small>
 
-X. Incentivos y estímulos de carácter fiscal: Beneficios de carácter económico concedidos por la ley fiscal al sujeto pasivo de un impuesto con el objeto de obtener de él ciertos fines de carácter parafiscal;
+VIII. Emergencia Sanitaria: Evento extraordinario que constituye un riesgo para la Salud Pública, por medio de la propagación de alguna enfermedad altamente contagiosa;
 
-XI. Instalación productiva: Instalación en el cual se lleva a cabo la transformación, venta suministro de bienes o servicios, tales como plantas, proyectos, centros comerciales, entre otros de carácter industrial y de servicios;
+IX. Empresas: A las unidades económicas, personas físicas o morales, constituidas legalmente y dedicadas a la producción de bienes o a la prestación de servicios;
 
-XII. Instrumentos de Desarrollo Económico: Mecanismos jurídicos que crean, modifican o extinguen derechos y obligaciones, que sirven para dar formalidad y validez jurídica al otorgamiento de estímulos e incentivos al determinar las bases normativas a las que deberán sujetarse las partes, tales como Convenios de Concertación de Objetivos, Convenios de Colaboración, Convenios de Coordinación, Convenios Modificatorios, Acuerdos;
+X. Empresa Coahuilense: Las unidades económicas que causen y paguen sus contribuciones en el Estado de Coahuila de Zaragoza, que tengan su domicilio fiscal en el territorio del Estado, que se encuentren generando empleos en el mismo Estado y que acrediten por lo menos 6 (seis) meses operando, mismas que podrán obtener el Certificado, previo cumplimiento de los requisitos exigidos en la presente Ley;
 
-XIII. Ley: Ley de Desarrollo Económico para el Estado de Coahuila de Zaragoza;
+XI. Gobernador: El Gobernador del Estado de Coahuila de Zaragoza;
+
+XII. Incentivos y estímulos de carácter fiscal: Beneficios de carácter económico concedidos por la ley fiscal al sujeto pasivo de un impuesto con el objeto de obtener de él ciertos fines de carácter parafiscal;
+
+XIII. Instalación productiva: Instalación en el cual se lleva a cabo la transformación, venta suministro de bienes o servicios, tales como plantas, proyectos, centros comerciales, entre otros de carácter industrial y de servicios;
+
+XIV. Instrumentos de Desarrollo Económico: Mecanismos jurídicos que crean, modifican o extinguen derechos y obligaciones, que sirven para dar formalidad y validez jurídica al otorgamiento de estímulos e incentivos al determinar las bases normativas a las que deberán sujetarse las partes, tales como Convenios de Concertación de Objetivos, Convenios de Colaboración, Convenios de Coordinación, Convenios Modificatorios, Acuerdos;
+
+XV. Ley: Ley de Desarrollo Económico para el Estado de Coahuila de Zaragoza;
 
 > <small>(F. DE E., P.O. 24 DE MARZO DE 2015)</small>
 
-XIV. Micro, Pequeña y Mediana Empresa: Empresas legalmente constituidas, con base en la estratificación establecida en la fracción III del Artículo 3 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa y en el Acuerdo por el que se establece las (sic) estratificación de las micro, pequeñas y medianas empresas, publicado en el Diario Oficial de la Federación el 30 de junio de 2009.
+XVI. Micro, Pequeña y Mediana Empresa: Empresas legalmente constituidas, con base en la estratificación establecida en la fracción III del Artículo 3 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa y en el Acuerdo por el que se establece las (sic) estratificación de las micro, pequeñas y medianas empresas, publicado en el Diario Oficial de la Federación el 30 de junio de 2009.
 
 * Tope Máximo Combinado = (Trabajadores) X 10% + (Ventas Anuales) X 90%
 
@@ -91,21 +99,23 @@ XIV. Micro, Pequeña y Mediana Empresa: Empresas legalmente constituidas, con ba
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2019)</small>
 
-XV. Personas con discapacidad: las personas que presentan algún tipo de discapacidad en los términos que define la Ley para el Desarrollo e Inclusión de las Personas con Discapacidad del Estado de Coahuila de Zaragoza.
+XVII. Personas con discapacidad: las personas que presentan algún tipo de discapacidad en los términos que define la Ley para el Desarrollo e Inclusión de las Personas con Discapacidad del Estado de Coahuila de Zaragoza.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XVI. Secretaría: Secretaría de Economía y Turismo del Estado de Coahuila de Zaragoza;
+XVIII. Secretaría: Secretaría de Economía y Turismo del Estado de Coahuila de Zaragoza;
 
-XVII. Región Carbonífera: Aquella que por su territorio comprende los municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas;
+XIX. Región Carbonífera: Aquella que por su territorio comprende los municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas;
 
-XVIII. Región Centro - Desierto: Aquella que por su territorio comprende los municipios de Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada;
+XX. Región Centro - Desierto: Aquella que por su territorio comprende los municipios de Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada;
 
-XIX. Región Laguna: Aquella que por su territorio comprende los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca;
+XXI. Región Laguna: Aquella que por su territorio comprende los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca;
 
-XX. Región Norte: Aquella que por su territorio comprende los municipios de Allende, Acuña, Guerrero, Hidalgo, Jiménez, Morelos, Nava, Piedras Negras, Villa Unión y Zaragoza;
+XXII. Región Norte: Aquella que por su territorio comprende los municipios de Allende, Acuña, Guerrero, Hidalgo, Jiménez, Morelos, Nava, Piedras Negras, Villa Unión y Zaragoza;
 
-XXI. Región Sureste: Aquella que por su territorio comprende los municipios de Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE JUNIO DE 2020)</small>
+
+XXIII. Región Sureste: Aquella que por su territorio comprende los municipios de Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo.
 
 ###### Artículo 4.
 
@@ -191,7 +201,13 @@ V. Apoyar a las micro, pequeñas y medianas empresas con información estadísti
 
 VI. Implementar programas de apoyo para promover la competitividad y modernización de las micro, pequeñas y medianas empresas del Estado;
 
-VII. Las demás acciones que, en los términos de la presente Ley, se consideren necesarias a favor de las micro, pequeñas y medianas empresas del estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE JUNIO DE 2020)</small>
+
+VII. Establecer acciones que apoyen a las micro, pequeñas y medianas empresas ante cualquier emergencia sanitaria o desastre natural o provocado por el ser humano; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE JUNIO DE 2020)</small>
+
+VIII. Las demás acciones que, en los términos de la presente Ley, se consideren necesarias a favor de las micro, pequeñas y medianas empresas del estado.
 
 ### CAPÍTULO IV. LOS ESTÍMULOS E INCENTIVOS
 
@@ -762,3 +778,9 @@ P.O. 10 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 255.- SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN XV, RECORRIENDO EL CONTENIDO ACTUAL A LA XVI, HACIENDO LO MISMO CON EL RESTO DE LAS FRACCIONES DEL ARTÍCULO 3 DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 636.- SE ADICIONAN LAS FRACCIONES VI Y VIII RECORRIÉNDOSE LAS ULTERIORES Y SE REFORMA LA FRACCIÓN XXIII AL ARTÍCULO 3; SE REFORMA LA FRACCIÓN VII, Y SE ADICIONA LA VIII DEL ARTÍCULO 8 DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
