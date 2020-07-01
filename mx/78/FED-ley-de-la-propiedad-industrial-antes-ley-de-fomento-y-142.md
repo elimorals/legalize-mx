@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2018-05-18"
+last_updated: "2020-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1991-06-26"
 ---
 # LEY DE LA PROPIEDAD INDUSTRIAL -ANTES LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL-
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL, PUBLICADA EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 1 DE JULIO DE 2020, NO OBSTANTE, SE SEGUIRÁ APLICANDO EXCLUSIVAMENTE RESPECTO A LOS DELITOS COMETIDOS DURANTE SU VIGENCIA, SIN PERJUICIO DE LO DISPUESTO POR EL CÓDIGO PENAL FEDERAL. LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL ENTRA EN VIGOR A LOS NOVENTA DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.]</small>
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JULIO DE 2020 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -3596,3 +3596,49 @@ D.O.F. 18 DE MAYO DE 2018.
 Primero.- El presente Decreto entrará en vigor a los sesenta días hábiles siguientes a su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las solicitudes de registro de marca o aviso comercial o publicación de nombre comercial, incluyendo las oposiciones que se hayan presentado, que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+D.O.F. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y SE ABROGA LA LEY DE LA PROPIEDAD INDUSTRIAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los noventa días hábiles siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley de la Propiedad Industrial, publicada originalmente como Ley de Fomento y Protección de la Propiedad Industrial en el Diario Oficial de la Federación el 27 de junio de 1991, así como sus posteriores reformas y adiciones. No obstante, ésta se seguirá aplicando exclusivamente respecto a los delitos cometidos durante su vigencia, sin perjuicio de lo dispuesto por el Código Penal Federal.
+
+TERCERO.- Las menciones que en otras disposiciones se hagan a la Ley de la Propiedad Industrial, se entenderán referidas a la Ley Federal de Protección a la Propiedad Industrial.
+
+CUARTO.- En tanto el Ejecutivo Federal expide el Reglamento de la presente Ley, continuará en vigor, en lo que no se oponga a ésta, el Reglamento de la Ley de la Propiedad Industrial, publicado en el Diario Oficial de la Federación el 23 de noviembre de 1994, así como sus posteriores reformas y adiciones.
+
+QUINTO.- El Instituto Mexicano de la Propiedad Industrial participará con la Secretaría de Salud, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios, en el establecimiento del mecanismo de colaboración técnica que corresponda, para las invenciones en materia de medicamentos alopáticos. Dicho mecanismo entrará en vigor a los ciento veinte días hábiles siguientes al de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+SEXTO.- Las patentes y registros de modelos de utilidad, diseños industriales o esquemas de trazado de circuitos integrados otorgados con fundamento en la Ley que se abroga, conservarán su vigencia concedida hasta su vencimiento y quedarán sujetos a las disposiciones del presente Decreto, exceptuando lo dispuesto por el Capítulo III Del Certificado Complementario y el Capítulo X De la Nulidad y Caducidad de Patentes y Registros del Título Segundo.
+
+En caso de solicitarse una declaración administrativa de nulidad o caducidad resultarán aplicables las causales previstas en la Ley de la Propiedad Industrial que se abroga.
+
+SÉPTIMO.- Los registros de modelos de utilidad otorgados con anterioridad a la entrada en vigor de la presente Ley, conservarán la vigencia concedida hasta su vencimiento y continuarán enterando el pago por concepto de quinquenios o anualidades, según corresponda, en los términos que establezca el Acuerdo por el que se da a conocer la Tarifa por los servicios que presta el Instituto Mexicano de la Propiedad Industrial.
+
+OCTAVO.- Los registros de modelos de utilidad vigentes al momento de la entrada en vigor del presente Decreto, podrán mantener su vigencia hasta un máximo de quince años, contados a partir de la fecha de presentación de la solicitud de registro, debiendo presentar dentro de los seis meses previos al término de la vigencia original de diez años, el pago por concepto de quinquenios o anualidades, en los términos que establezca el Acuerdo por el que se da a conocer la Tarifa por los servicios que presta el Instituto Mexicano de la Propiedad Industrial.
+
+NOVENO.- Las solicitudes de patente o de registro de modelos de utilidad, diseños industriales o esquemas de trazado de circuitos integrados, así como las solicitudes de inscripción de transmisiones o licencias que se encuentren en trámite en la fecha en que el presente Decreto entre en vigor, continuarán su tramitación conforme a las disposiciones vigentes al momento de su presentación.
+
+DÉCIMO.- Las solicitudes de registro de marca y aviso comercial, de publicación de un nombre comercial, incluyendo las oposiciones que se hubieren presentado en éstas; las solicitudes de declaración general de protección a una denominación de origen o a una indicación geográfica, así como las solicitudes de inscripción de renovaciones, autorizaciones, transmisiones o licencias, que se encuentre en trámite a la entrada en vigor del presente Decreto, continuarán su tramitación conforme a las disposiciones vigentes al momento de su presentación.
+
+DÉCIMO PRIMERO.- Los registros de marca o de aviso comercial y los efectos de publicación de nombre comercial otorgados conforme al presente Decreto, deberán presentar la declaración de uso real y efectivo en los términos de su artículo 233 y, en su oportunidad, renovar el título conforme a lo dispuesto en su artículo 237.
+
+Los registros de marcas o de avisos comerciales y los efectos de publicación de los nombres comerciales, otorgados a partir del 10 de agosto de 2018, conservarán su vigencia, quedando sujetos en todo lo demás a esta Ley. Dichos registros y publicaciones deberán presentar, en su oportunidad, la declaración de uso real y efectivo y, en su caso, la renovación correspondiente, de conformidad con los artículos 233 y 237 del presente Decreto.
+
+Los registros de marcas o avisos comerciales y los efectos de publicación de los nombres comerciales, otorgados con anterioridad al 10 de agosto de 2018, conservarán su vigencia y, en su oportunidad, deberán renovar el título conforme a lo dispuesto en su artículo 237. Dichos registros y publicaciones quedarán sujetos en todo lo demás al presente Decreto, exceptuando la obligación de presentar la declaración de uso real y efectivo, prevista en su artículo 233.
+
+DÉCIMO SEGUNDO.- Las autorizaciones de uso de una denominación de origen o de una indicación geográfica, otorgados con base en la Ley que se abroga, conservarán su vigencia, en todo lo demás quedarán sujetos al presente Decreto.
+
+DÉCIMO TERCERO.- Las declaraciones administrativas que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán substanciándose y se resolverán conforme a las disposiciones contenidas en la Ley de la Propiedad Industrial que se abroga.
+
+DÉCIMO CUARTO.- Las causales de nulidad y caducidad contenidas en el presente Decreto, no previstas en la Ley que se abroga, solo serán aplicables a las patentes, registros, publicaciones o autorizaciones de uso que hayan sido solicitados y otorgados al amparo del presente Decreto.
+
+DÉCIMO QUINTO.- Las multas impuestas antes de la entrada en vigor del presente Decreto, se regirán por las disposiciones vigentes en el momento de su determinación.
+
+DÉCIMO SEXTO.- La determinación y la cuantificación del monto de la indemnización por daños y perjuicios a la que se refiere la fracción I del artículo 396, se aplicará a las infracciones declaradas en las solicitudes de declaración administrativa de infracción presentadas a partir de la entrada en vigor del presente Decreto, sujeto a lo dispuesto por su artículo Décimo Séptimo Transitorio.
+
+DÉCIMO SÉPTIMO.- Las disposiciones relativas a los artículos 5 fracciones VI, VII, VIII, 393, 394, 396 fracción I, 397, 398 y 400 de esta Ley, entrarán en vigor una vez que se lleven a cabo las modificaciones correspondientes a la estructura orgánica del Instituto Mexicano de la Propiedad Industrial, y éste cuente con los recursos presupuestales, financieros, humanos y materiales necesarios, lo cual deberá realizarse a más tardar dentro de un año contado a partir de la entrada en vigor a la que se refiere el artículo Primero Transitorio del presente Decreto.
+
+DÉCIMO OCTAVO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado al Instituto Mexicano de la Propiedad Industrial y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
