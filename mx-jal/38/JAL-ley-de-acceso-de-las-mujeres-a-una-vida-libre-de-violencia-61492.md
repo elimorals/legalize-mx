@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2020-02-27"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -225,9 +225,65 @@ V. Violencia institucional, se presenta cuando uno o varios servidores públicos
 
 VI. Violencia feminicida, es el fenómeno social que se manifiesta en la forma extrema de violencia de género contra las mujeres, que de manera sistemática lesiona los derechos humanos de éstas en el ámbito público o privado, cuya escala puede llegar al homicidio teniendo como común denominador el género de las víctimas en un ambiente ideológico y social adverso a las mujeres, caracterizado por la ausencia o deficiente implementación de normas jurídicas y políticas públicas de protección que generan consecuentemente condiciones de inseguridad y ponen en riesgo su vida; y
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VII. Violencia Política de Género, las acciones o conductas, que causen un daño físico, psicológico, económico, moral o sexual en contra de una mujer o varias mujeres o de sus familias, que en el ejercicio de sus derechos políticos-electorales ya sea como aspirantes, pre-candidatas, candidatas, funcionarias electas o designadas o en el ejercicio de sus funciones político-públicas tendientes a impedir el acceso a los cargos de elección popular o su debido desempeño, inducir la toma de decisiones en contra de su voluntad o de la ley;
+VII. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella. Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
+
+a) Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+
+b) Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
+
+c) Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
+
+d) Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
+
+e) Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
+
+f) Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, que induzca al incorrecto ejercicio de sus atribuciones;
+
+g) Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+h) Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+i) Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+j) Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+k) Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+l) Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+m) Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+n) Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+ñ) Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+o) Ejercer violencia física, sexual, simbólica, psicológica, institucional, económica o patrimonial, o cualquier otra similar o análoga, en contra de una o varias mujeres en el ejercicio de sus derechos políticos;
+
+p) Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+q) Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+r) Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+s) Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+t) Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad;
+
+u) Usen indebidamente el derecho penal sin fundamento con el objeto de criminalizar la labor de las activistas, periodistas y defensoras de los derechos humanos y/o de paralizar o deslegitimar las causas que persiguen;
+
+v) Causen, o puedan causar, feminicidio o la muerte violenta de mujeres en razón de su participación o actividad política;
+
+w) Amenacen, agredan o inciten a la violencia contra las activistas, periodistas y defensoras de los derechos humanos por razones de género, o contra aquellas defensoras y activistas de los derechos de las mujeres, y
+
+x) Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -341,19 +397,23 @@ XVII. Comisión Estatal Indígena;
 
 XVIII. La Comisión Estatal de Derechos Humanos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
-XIX. La Universidad de Guadalajara y dos especialistas en la materia de instituciones de Educación Superior reconocidas del Estado;
+XIX. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
 
-XX. Al menos siete representantes de organizaciones de la sociedad civil, previamente acreditadas ante la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, cuyo trabajo se enmarque en el principio de progresividad de derechos humanos de las mujeres; y
+XX. La Universidad de Guadalajara y dos especialistas en la materia de instituciones de Educación Superior reconocidas del Estado;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
 
-XXI Un representante de los gobiernos municipales por cada una de las regiones administrativas en que se divide el Estado de Jalisco.
+XXI. Al menos siete representantes de organizaciones de la sociedad civil, previamente acreditadas ante la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, cuyo trabajo se enmarque en el principio de progresividad de derechos humanos de las mujeres; y
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XXII. Un representante de los gobiernos municipales por cada una de las regiones administrativas en que se divide el Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
 
 Los titulares o los representantes que formen parte del Consejo tendrán cargos honoríficos.
 
@@ -751,9 +811,17 @@ IV. Capacitar anualmente al personal docente en materia de derechos humanos y pr
 
 V. Formular y aplicar programas que permitan la prevención, detección, atención y erradicación temprana de los problemas de violencia contra las mujeres en los centros educativos;
 
-VI. Promover la difusión de materiales educativos que promuevan la prevención, atención y erradicación de la violencia contra las mujeres; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VII. Las demás previstas para el cumplimiento de la presente ley.
+VI. Promover la difusión de materiales educativos que promuevan la prevención, atención y erradicación de la violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+VII. Incorporar, progresivamente, los principios de igualdad y paridad de género, y sobre los derechos políticos de las mujeres en los programas de educación básica, media superior y superior, con la finalidad de lograr la modificación de prejuicios y normas sociales que perpetúan la violencia contra las mujeres, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
+
+VIII. Las demás previstas para el cumplimiento de la presente ley.
 
 #### Sección Sexta.
 
@@ -909,13 +977,57 @@ X. Promover la creación de estrategias eficaces de asistencia integral que perm
 
 XI. Promover de conformidad con su disponibilidad presupuestaria, la organización de actividades públicas y sociales que tengan como finalidad visibilizar los tipos y modalidades de violencia contra las mujeres, así como la difusión de acciones encaminadas a la eliminación de la violencia contra la mujer;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-XII. Promover la cultura de denuncia de la violencia contra las mujeres; y
+XII. Promover la cultura de denuncia de la violencia contra las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
-XIII. Las demás previstas para el cumplimiento de la ley.
+XIII. Garantizar que en el Plan Estatal de Desarrollo se incorpore un componente específico que aborde la violencia política contra las mujeres en razón de género bajo enfoques de interseccionalidad, interculturalidad e intesectorialidad (sic); con la dotación presupuestaria correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XIV. Establecer un protocolo que coordine la actuación de los órganos competentes para la prevención, atención y erradicación de la violencia política contra las mujeres en razón de género, así como para la efectiva resolución de los casos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XV. Incorporar la violencia política contra las mujeres en razón de género en los protocolos de atención e investigación de violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XVI. Asegurar el acceso a las mujeres víctimas de violencia política contra las mujeres en razón de género, a los servicios especializados y gratuitos en materia de violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XVII. Garantizar mecanismos de atención urgente para asegurar la protección de los derechos políticos, incluyendo el ejercicio del cargo que ocupa o al que debe acceder legítimamente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XVIII. Desarrollar acciones para la investigación y recopilación de estadísticas sobre las causas, consecuencias y frecuencia de la violencia política contra las mujeres en razón de género, determinando los medios para su divulgación, en coordinación con el organismo de estadística estatal competente; así como coadyuvar con la Fiscalía Estatal en la actualización de la Base Estatal de Casos de Violencia Política contra las Mujeres en Razón de Género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XIX. Adoptar una metodología que permita evaluar el riesgo particular que pueden enfrentar las mujeres de sufrir violencia en la vida política en razón de género con enfoque interseccional e intercultural, entre otros, y diseñar las medidas para prevenirlo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XX. Incorporar la problemática de la violencia política contra las mujeres en razón de género en los planes de formación y educación, especialmente en los dirigidos a autoridades y servidoras y servidores públicos que aplican esta ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XXI. Incluir estrategias de cooperación con los medios de comunicación, agencias de publicidad y redes sociales, para difundir los derechos políticos de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XXII. Promover y proteger en coordinación con la Fiscalía Especializada en Materia de Delitos Electorales, el ejercicio de los derechos humanos, político, y electorales de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XXIII. Promover que las organizaciones sociales, sindicatos, organizaciones estudiantiles, organismos de derechos humanos y otras que se ocupan de la vida pública, incorporaren en sus normas de funcionamiento las obligaciones en materia de prevención, sanción y erradicar la violencia política contra las mujeres en razón de género, y para adoptar todas las medidas a su alcance para lograr la participación política paritaria de mujeres y hombres y en igualdad de condiciones, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XXIV. Las demás previstas para el cumplimiento de la ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -1039,6 +1151,12 @@ IV. Aprobar, observar y aplicar protocolos de actuación especializados para la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2019)</small>
 
+#### Sección Décima Octava.
+
+Del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
 ###### Artículo 41.
 
 Los ayuntamientos podrán, además de lo establecido en otros ordenamientos:
@@ -1067,9 +1185,29 @@ VI. Participar y coadyuvar en la prevención, detección, atención y erradicaci
 
 VII. Llevar a cabo, de acuerdo con el Consejo, programas permanentes de información a la población respecto de la violencia contra las mujeres, sus tipos y modalidades y sobre las atribuciones y responsabilidades de las instituciones que atienden a las víctimas;
 
-VIII. Celebrar, con dependencias públicas y privadas, convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-IX. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+VIII. Celebrar, con dependencias públicas y privadas, convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+IX. Establecer y operar protocolos en materia de prevención, atención, sanción y erradicación de la violencia política contra las mujeres en razón de género, así como para la efectiva resolución de los casos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
+
+X. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE JULIO DE 2020)</small>
+
+###### Artículo 41 Bis.
+
+Corresponde al Instituto Electoral y de Participación Ciudadana, en el ámbito de sus competencias:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
 
 ## TITULO TERCERO. DE LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
@@ -1307,17 +1445,21 @@ Para garantizar la integridad y seguridad de las mujeres víctimas de violencia,
 
 Las policías preventivas municipales y estatal deberán solicitar de inmediato la expedición de órdenes de protección de emergencia y preventivas cuando a su juicio se requiera, en interés a la protección de la mujer víctima de violencia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MARZO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Tratándose de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Jalisco, el Instituto Electoral y de Participación Ciudadana y la Fiscalía Especializada en Delitos Electorales del estado, podrán solicitar a las autoridades competentes el otorgamiento de las ordenes de protección a que se refiere el presente Capítulo.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
 
 Las autoridades competentes garantizaran un puntual seguimiento sobre el cumplimiento de las órdenes de protección a fin de preservar la vida, integridad y seguridad de la mujer víctima de violencia.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO CON SUS FRACCIONES], P.O. 21 DE MARZO DE 2019)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO CON SUS FRACCIONES], P.O. 1 DE JULIO DE 2020)</small>
 
 Las órdenes de protección serán:
 
 I. De emergencia;
 
-II. Preventivas; y
+II. Preventivas, y
 
 III. De naturaleza civil.
 
@@ -1650,3 +1792,17 @@ P.O. 27 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27811/LXII/20 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17 FRACCIÓN IV Y SE MODIFICA LA DENOMINACIÓN DE LAS SECCIONES CUARTA Y OCTAVA DEL CAPÍTULO CUARTO DEL TÍTULO SEGUNDO DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27922/LXII/20 QUE REFORMA Y ADICIONA LOS ARTÍCULOS 11, 17, 29, 34, 41, ADICIONANDO LA SECCIÓN DÉCIMA OCTAVA, DEL CAPÍTULO IV, DEL TÍTULO PRIMERO (SIC), Y LOS ARTÍCULOS 41 BIS Y 57 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; 46 Y SE ADICIONA EL ARTÍCULO 52 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS; LOS ARTÍCULOS 22, 55, 56 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS; EL ARTÍCULO 8º, FRACCIÓN XVIII, ADICIONANDO LAS FRACCIONES XXXIII Y XXXIV, RECORRIENDO LA SUBSECUENTE; Y SE ADICIONAN EL CAPÍTULO IV BIS Y LOS ARTÍCULOS 12 BIS, 12 TER, 12 QUÁTER, 12 QUINQUIES, 12 SEXIES, 12 SEPTIES Y UN ARTÍCULO 61, DE LA LEY ORGÁNICA DE LA FISCALÍA, TODAS LAS LEYES DEL ESTADO DE JALISCO, CON EL OBJETO DE PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO. Se instruye al Consejo General del Instituto Electoral y de Participación Ciudadana del Estado, para que el termino de 60 días hábiles posteriores a la entrada en vigor de este decreto, dicte los acuerdos necesarios para hacer efectivas las disposiciones, así como expedir o en su caso adecuar los reglamentos internos con el objeto de prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
+
+CUARTO. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres del Gobierno del Estado de Jalisco, procurará dar cumplimiento a las disposiciones del presente decreto para traducir, publicar y difundir la reforma en lenguas de comunidades y pueblos originarios asentados en territorio estatal, y en escritura braille.
+
+QUINTO. El Congreso del Estado deberá realizar, en un término de 60 días naturales, las adecuaciones suficientes para garantizar la creación y operación de la Base Estadística Estatal de Violencia Política prevista por la fracción XXXV del artículo 8 de la presente Ley.
