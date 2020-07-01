@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-politicas-y-administrativas-del-123515
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2019-05-11"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Ley publicada en la Sección VI del No. 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -487,7 +487,9 @@ VIII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, 
 
 2. Los servidores públicos y los particulares quedarán sujetos a lo dispuesto por la Ley General de Responsabilidades Administrativas en todas las materias que regula y que corresponden a las siguientes:
 
-I. La definición jurídica y en general, para todo lo relacionado con los sujetos obligados, los entes públicos, los principios y directrices que rigen la actuación de los servidores públicos, la integridad de las personas jurídicas, las autoridades competentes, la clasificación y determinación de las faltas administrativas graves o no graves, los casos sancionables de los particulares vinculados con las faltas administrativas, las prescripciones, las sanciones y las denuncias;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+I. La definición jurídica y en general, para todo lo relacionado con los sujetos obligados, los entes públicos, los principios y directrices que rigen la actuación de los servidores públicos, la integridad de las personas jurídicas, las autoridades competentes, la clasificación y determinación de las faltas administrativas graves o no graves, los casos sancionables de los particulares vinculados con las faltas administrativas, las prescripciones, las sanciones y las denuncias, así como las disposiciones en materia de violencia política contra las mujeres en razón de género;
 
 II. Los mecanismos de prevención y rendición de cuentas, las declaraciones de situación patrimonial y su evolución, las declaraciones de intereses y manifestación de los posibles conflictos de interés, la obligación de presentar la constancia de presentación de declaración fiscal y todas sus disposiciones afines y complementarias;
 
@@ -599,9 +601,17 @@ X. Emitir, observar y vigilar el cumplimiento del Código de Ética, al que debe
 
 XI. Implementar el protocolo de actuación en contrataciones públicas expedido por el Comité Coordinador del Sistema Nacional Anticorrupción;
 
-XII. Tramitar y en su caso resolver, los recursos derivados de los procedimientos de responsabilidad administrativa, según corresponda; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-XIII. Las demás que le otorguen la legislación general y estatal aplicable.
+XII. Tramitar y en su caso resolver, los recursos derivados de los procedimientos de responsabilidad administrativa, según corresponda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XIII. Resolver las faltas administrativas, e imponer y ejecutar las sanciones correspondientes a las conductas que acrediten violencia política contra las mujeres en razón de género de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XIV. Las demás que le otorguen la legislación general y estatal aplicable.
 
 ###### Artículo 53.
 
@@ -774,3 +784,17 @@ P.O. 11 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27265/LXII/19, QUE ADICIONA AL ARTÍCULO 21 LA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, ADICIONA LA FRACCIÓN VI AL ARTÍCULO 54 Y REFORMA EL ARTÍCULO 144, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 52 Y EL ARTÍCULO 117 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ASÍMISMO SE ADICIONAN LAS FRACCIONES XXVIII Y XXIX DEL NUMERAL 4, DEL ARTÍCULO 11 DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 56 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO".]
 
 Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27922/LXII/20 QUE REFORMA Y ADICIONA LOS ARTÍCULOS 11, 17, 29, 34, 41, ADICIONANDO LA SECCIÓN DÉCIMA OCTAVA, DEL CAPÍTULO IV, DEL TÍTULO PRIMERO, Y LOS ARTÍCULOS 41 BIS Y 57 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; 46 Y SE ADICIONA EL ARTÍCULO 52 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS; LOS ARTÍCULOS 22, 55, 56 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS; EL ARTÍCULO 8º, FRACCIÓN XVIII, ADICIONANDO LAS FRACCIONES XXXIII Y XXXIV, RECORRIENDO LA SUBSECUENTE; Y SE ADICIONAN EL CAPÍTULO IV BIS Y LOS ARTÍCULOS 12 BIS, 12 TER, 12 QUÁTER, 12 QUINQUIES, 12 SEXIES, 12 SEPTIES Y UN ARTÍCULO 61, DE LA LEY ORGÁNICA DE LA FISCALÍA, TODAS LAS LEYES DEL ESTADO DE JALISCO, CON EL OBJETO DE PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO. Se instruye al Consejo General del Instituto Electoral y de Participación Ciudadana del Estado, para que el termino de 60 días hábiles posteriores a la entrada en vigor de este decreto, dicte los acuerdos necesarios para hacer efectivas las disposiciones, así como expedir o en su caso adecuar los reglamentos internos con el objeto de prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
+
+CUARTO. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres del Gobierno del Estado de Jalisco, procurará dar cumplimiento a las disposiciones del presente decreto para traducir, publicar y difundir la reforma en lenguas de comunidades y pueblos originarios asentados en territorio estatal, y en escritura braille.
+
+QUINTO. El Congreso del Estado deberá realizar, en un término de 60 días naturales, las adecuaciones suficientes para garantizar la creación y operación de la Base Estadística Estatal de Violencia Política prevista por la fracción XXXV del artículo 8 de la presente Ley.
