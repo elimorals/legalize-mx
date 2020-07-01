@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-114839"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2020-02-19"
+last_updated: "2020-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114839&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LIGIE_2022"
 ---
 # LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-> <small>[N. DE E. PARA CONSULTAR LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y EXPORTACIÓN, SE SUGIERE DESPLEGAR LOS ARCHIVOS ANEXOS (ACROBAT READER) UBICADOS EN LA CRONOLOGÍA DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, PUBLICADA EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 1 DE JULIO DE 2020, A PARTIR DE LA ENTRADA EN VIGOR DE LOS ARTÍCULOS 1o. Y 2o., FRACCIONES I Y II, REGLAS 1ª, 2ª Y 4ª A 9ª DE DICHA LEY, SE ABROGA EL PRESENTE ORDENAMIENTO.]</small>
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JULIO DE 2020 (ABROGADA).
 
 Ley publicada en la Segunda, Tercera, Cuarta, Quinta, Sexta y Séptima Sección del Diario Oficial de la Federación, el lunes 18 de junio de 2007.
 
@@ -81439,3 +81439,23 @@ DECRETO DE ACTUALIZACIÓN DEL D.O.F. 20 DE DICIEMBRE DE 2019.
 DECRETO DE ACTUALIZACIÓN DEL D.O.F. 19 DE FEBRERO DE 2020.
 
 > <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN”.]</small>
+
+D.O.F. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ADUANERA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos 1o. y 2o., fracciones I y II, reglas 1ª, 2ª y 4ª a 9ª de la Ley de los Impuestos Generales de Importación y de Exportación a que se refiere el Artículo Primero de este Decreto, así como el Artículo Segundo del presente Decreto que entrarán en vigor a los 180 días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Se derogan aquellas disposiciones de la Ley de Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de junio de 2007, que contravengan a las que entren en vigor al día siguiente de la publicación de este Decreto.
+
+SEGUNDO. A partir de la entrada en vigor de los artículos 1o. y 2o., fracciones I y II, reglas 1ª, 2ª y 4ª a 9ª de la Ley de los Impuestos Generales de Importación y de Exportación a que se refiere el Artículo Primero de este Decreto, se abroga la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de junio de 2007.
+
+TERCERO. La metodología a la que hace referencia el artículo 2, fracción II, regla 10 ª del Artículo Primero del presente ordenamiento se publicará en el Diario Oficial de la Federación a los 45 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Los números de identificación comercial a que hace referencia el artículo 2, fracción II, regla 10 ª del Artículo Primero del presente ordenamiento se determinarán a los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. La Secretaría de Economía dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto deberá publicar los números de identificación comercial, así como las tablas de correlación de las fracciones arancelarias de la Tarifa y de los números de identificación comercial, a los que se refiere el artículo 2, fracción II, regla 10ª, párrafo cuarto, incisos a) y b) de la Ley de los Impuestos Generales de Importación y de Exportación.
+
+SEXTO. La Secretaría de Economía, en conjunto con la Secretaría de Hacienda y Crédito Público, dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto deberá publicar en el Diario Oficial de la Federación, las Notas Nacionales contempladas en el artículo 2, fracción II, Regla 3ª de la Ley de los Impuestos Generales de Importación y de Exportación.
+
+SÉPTIMO. Las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, respecto a la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de junio de 2007, se entenderán referidas a la Ley que se expide conforme al presente Decreto.
