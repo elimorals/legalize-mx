@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2020-05-16"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -557,11 +557,11 @@ Por cada persona titular de la Presidencia Municipal, Sindicatura, Regiduría o 
 
 En aquellos municipios con población indígena, las autoridades de sus pueblos y comunidades elegirán un representante ante el ayuntamiento respectivo, con derecho a voz, lo que harán de conformidad con sus tradiciones y normas internas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### ARTICULO 18.
 
-Cada Ayuntamiento se instalará el día 10 de septiembre de los años correspondientes a su renovación. Las Juntas Municipales y Comisarías de Policía, al respecto, se regirán por el procedimiento establecido en el artículo 44 de este Código y tomarán posesión en la fecha que señale el Ayuntamiento una vez calificada la elección. La persona titular de la Presidencia Municipal, otorgará protesta en los siguientes términos:
+Cada Ayuntamiento se instalará el día 10 de septiembre de los años correspondientes a su renovación. Las Juntas Municipales y Comisarías de Policía, se elegirán de acuerdo al procedimiento establecido en la Ley Electoral del Estado de Chihuahua. La persona titular de la Presidencia Municipal, otorgará protesta en los siguientes términos:
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
@@ -1331,9 +1331,7 @@ En las secciones municipales con más de cuatro mil habitantes existirá un regi
 
 II.- Las Comisarías de Policía.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
-
-La elección se realizará de acuerdo con lo establecido en el artículo 44 de este Código, por planillas en que se mencionen los nombres y apellidos de propietarios y suplentes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -1483,23 +1481,33 @@ Las personas titulares de las Regidurías Seccionales, se dividirán con la pers
 
 La Comisaría de Policía, es la encargada del orden y la vigilancia en sus respectivas comisarías. Desempeñarán en su jurisdicción las atribuciones conferidas a las demás autoridades municipales, quedando a ellas plenamente subordinados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### ARTICULO 44.
 
-Las y los integrantes de las juntas municipales serán electos en escrutinio secreto por mayoría de votos, fijándose las bases para su celebración en la convocatoria que para tal efecto expida el Ayuntamiento cuando menos con quince días de anticipación al de la elección. La Comisaría de Policía será electa en plebiscitos por mayoría de votos. Las y los integrantes de las juntas municipales y la Comisaría de Policía podrán ser removidos cuando así lo soliciten más de la mitad de las y los ciudadanos de la correspondiente sección municipal o comisaría. Las elecciones se verificarán bajo las siguientes bases:
+Las y los integrantes de las juntas municipales serán electos de acuerdo a las bases establecidas en la Ley Electoral del Estado de Chihuahua y los acuerdos aprobados por el Consejo Estatal del Instituto Estatal Electoral. La Comisaría de Policía será electa de conformidad con los lineamientos que emita el Instituto Estatal Electoral y el convenio de coordinación que se celebre con los respectivos ayuntamientos. Las y los integrantes de las juntas municipales y la Comisaría de Policía podrán ser removidos cuando así lo soliciten más de la mitad de las y los ciudadanos de la correspondiente sección municipal o comisaría. Las elecciones se verificarán bajo las siguientes bases:
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-I.- Las ordinarias, dentro de los primeros noventa días de gobierno de una nueva administración municipal y las extraordinarias cuando haya solicitado la remoción de la (sic) autoridades por más de la mitad de los ciudadanos y así lo haya acordado el Ayuntamiento;
+I. Las ordinarias, dentro de los primeros sesenta días de gobierno de una nueva administración municipal; y las extraordinarias, cuando haya solicitado la remoción de las autoridades por más de la mitad de las y los ciudadanos y así lo haya acordado el Ayuntamiento;
 
-II.- Serán convocadas por el Ayuntamiento mediante circulares fijadas en los lugares públicos;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+II. Serán convocadas por el Instituto Estatal Electoral;
 
 III.- Los ciudadanos deberán reunir los requisitos que exige la Constitución Política del Estado; y
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-IV.- Serán presididas por las personas representantes del Ayuntamiento que sean comisionados al efecto, los cuales verificarán la elección, levantarán el acta correspondiente, firmándola con los testigos del acto que quisieran hacerlo; rendirán al Ayuntamiento el informe respectivo quien en sesión calificará la elección antes de quince días, haciendo la declaración de los triunfadores. La persona titular de la Presidencia Municipal o su representante tomará la protesta de ley a las y los ciudadanos electos y les dará posesión de sus cargos. En los casos de la Comisaría de Policía, cuando no asista la mayoría de vecinas o vecinos, el Ayuntamiento los designará libremente.
+IV. El Instituto Estatal Electoral, será el encargado de la organización, preparación, desarrollo y calificación de la elección.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+El Tribunal Estatal Electoral, será el encargado de sustanciar y resolver en forma definitiva e inatacable los medios de impugnación que deriven de la elección.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+La persona titular de la Presidencia Municipal o su representante tomarán la protesta de ley a las y los ciudadanos electos y les dará posesión de sus cargos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -5462,3 +5470,23 @@ P.O. 16 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/0704/2020 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0732/2020 VIII P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto Estatal Electoral, realizará las adecuaciones necesarias a su estructura interna, previo al inicio del próximo proceso electoral, así como las adecuaciones a su presupuesto.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal Estatal Electoral preverá lo necesario en el presupuesto correspondiente al año 2021, a efecto de dar cumplimiento en el mes de enero de ese año, lo dispuesto por el artículo 298, segundo párrafo, respecto de los Magistrados que terminen su encargo en el mes de diciembre del año 2020.
+
+###### ARTÍCULO CUARTO.
+
+En cuanto a las elecciones directas de regidores por demarcación territorial, entrará en vigor para el proceso electoral 2023 - 2024, en los términos que establezca la Ley Electoral del Estado de Chihuahua.
