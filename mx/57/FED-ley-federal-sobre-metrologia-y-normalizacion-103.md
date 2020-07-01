@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-metrologia-y-normalizacion-103"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-07-01"
-last_updated: "2018-06-15"
+last_updated: "2020-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1992-06-30"
 ---
 # LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE INFRAESTRUCTURA DE LA CALIDAD; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS 60 DÍAS SIGUIENTES DE SU PUBLICACIÓN.]</small>
+
 LEY FEDERAL SOBRE METROLOGÍA Y NORMALIZACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JULIO DE 2020 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 1 de julio de 1992.
 
@@ -1992,3 +1994,39 @@ D.O.F. 15 DE JUNIO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
+
+D.O.F. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE INFRAESTRUCTURA DE LA CALIDAD Y SE ABROGA LA LEY FEDERAL SOBRE METROLOGÍA Y NORMALIZACIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los 60 días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Con la entrada en vigor de este Decreto se abroga la Ley Federal sobre Metrología y Normalización publicada en el Diario Oficial de la Federación el 1 de julio de 1992 y sus reformas, asimismo se abrogan o derogan todas las disposiciones que se opongan a lo dispuesto en esta Ley.
+
+TERCERO. Dentro del término de doce meses contados a partir de la entrada en vigor de la presente Ley, el Ejecutivo Federal deberá expedir su Reglamento, en tanto, continuará aplicándose en lo que no se oponga, el Reglamento de la Ley Federal sobre Metrología y Normalización.
+
+CUARTO. Las Propuestas, Anteproyectos y Proyectos de Normas Oficiales Mexicanas y Estándares que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite y que no hayan sido publicados, deberán ajustarse a lo dispuesto por las (sic) Ley Federal sobre Metrología y Normalización, su Reglamento y demás disposiciones secundarias vigentes al momento de su elaboración y hasta su conclusión.
+
+QUINTO. Todos los trámites y solicitudes que hayan sido presentados por escrito a las Autoridades Normalizadoras con anterioridad a la entrada en vigor del presente Decreto, se resolverán conforme a lo dispuesto en la Ley Federal sobre Metrología y Normalización, su Reglamento y demás disposiciones secundarias vigentes al momento de su presentación y hasta su conclusión.
+
+SEXTO. Las autorizaciones, acreditaciones, registros y aprobaciones que hayan sido otorgadas en fecha anterior a la entrada en vigor del presente Decreto, estarán vigentes hasta en tanto cumplan el término de su vigencia. Para la renovación de éstas se aplicarán las disposiciones contenidas en el presente Decreto.
+
+SÉPTIMO. La Secretaría de Economía deberá realizar los ajustes pertinentes en materia de normalización, estandarización, evaluación de la conformidad y metrología, así como emitir los lineamientos que regularán el acceso a la Plataforma Tecnológica Integral de Infraestructura de la Calidad por parte de los interesados, y los formatos electrónicos que deberán utilizarse para esos efectos, dentro de los 180 días naturales siguientes a partir de la entrada en vigor del Reglamento de la presente Ley.
+
+OCTAVO. Las disposiciones administrativas en materia de normalización, estandarización, evaluación de la conformidad y metrología, en particular las relativas a la elaboración de normas oficiales mexicanas y a la aprobación de los organismos nacionales de normalización, organismos de certificación, laboratorios de prueba y de calibración y unidades de verificación, contenidas en otros ordenamientos; emitidas con anterioridad a la entrada en vigor de la presente Ley, continuarán vigentes en todo lo que no se le oponga, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo a la misma.
+
+NOVENO. Las referencias que, en otras leyes y demás disposiciones jurídicas, así como la denominación de los Organismos de Evaluación de la Conformidad se realicen a la Ley Federal sobre Metrología y Normalización por lo que hace a cuestiones sobre normalización, evaluación de la conformidad y metrología, se entenderán a los referidos en la Ley de Infraestructura de la Calidad.
+
+DÉCIMO. La Secretaría de Economía y las Autoridades Normalizadoras realizarán las acciones necesarias para que la implementación de las disposiciones previstas en la presente Ley se lleve a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
+
+DÉCIMO PRIMERO. La Secretaría de Economía asumirá la Presidencia Permanente de la Comisión Nacional de Infraestructura de la Calidad, a partir del 1° de enero del año próximo siguiente al de la publicación en el Diario Oficial de la Federación del presente Decreto.
+
+Asimismo, lo previsto en el artículo 16 de esta Ley relativo a la conformación de la Comisión Nacional de Infraestructura de la Calidad deberá formalizarse en los términos establecidos en el párrafo anterior.
+
+DÉCIMO SEGUNDO. Lo previsto en el artículo 45 de esta Ley relativo a las tarifas y precios aplicables, así como la metodología utilizada para su determinación, surtirá efectos a los 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO TERCERO. La Comisión Nacional de Infraestructura de la Calidad deberá emitir los lineamientos y medidas sobre mejora regulatoria previstos en el artículo 36 dentro de los 180 días naturales siguientes a partir de la entrada en vigor del Reglamento de la presente Ley.
+
+DÉCIMO CUARTO. El Centro Nacional de Metrología, expedirá los lineamientos para la designación de un ente público como Instituto Designado de Metrología, dentro de los 180 días naturales siguientes a partir de la entrada en vigor del Reglamento de la presente Ley.
+
+DÉCIMO QUINTO. Las infracciones cometidas con anterioridad a la entrada en vigor del presente Decreto se sancionarán conforme a las disposiciones vigentes al momento de su comisión.
