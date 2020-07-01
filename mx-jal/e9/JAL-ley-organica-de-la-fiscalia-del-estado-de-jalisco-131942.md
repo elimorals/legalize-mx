@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-del-estado-de-jalisco-131942"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2019-07-11"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Ley publicada en la Quinquies Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -147,9 +147,17 @@ XXVIII. Capacitar y especializar a agentes del Ministerio Público, Agentes de I
 
 a) Derechos humanos y perspectiva de género;
 
-b) Sensibilización para la atención de los delitos contra la seguridad, la libertad sexual, el libre desarrollo de la personalidad; y
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-c) Los que se consideren pertinentes para la debida investigación y persecución de los delitos que son cometidos contra niñas, niños, adolescentes y mujeres.
+b) Sensibilización para la atención de los delitos contra la seguridad, la libertad sexual, el libre desarrollo de la personalidad;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+c) Los que se consideren pertinentes para la debida investigación y persecución de los delitos que son cometidos contra niñas, niños, adolescentes y mujeres; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+d) Violencia política contra las mujeres en razón de género.
 
 XXIX. Crear, administrar y actualizar los registros públicos y bases de datos que requiera para el desarrollo de sus funciones ordinarias, así como organizar aquella información exigida por las leyes especiales;
 
@@ -157,9 +165,25 @@ XXX. Elaborar y aplicar protocolos de investigación de delitos con perspectiva 
 
 XXXI. Acceder a la base estatal de información personal y genética para confrontar la información que exista entre cuerpos no identificados y personas desaparecidas;
 
-XXXII. Crear, administrar y actualizar el registro administrativo de detenciones de sujetos en conflicto con la ley; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-XXXIII. Las demás que prevean otras disposiciones legales.
+XXXII. Crear, administrar y actualizar el registro administrativo de detenciones de sujetos en conflicto con la ley;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XXXIII. Evaluar riesgos y proteger a las personas ofendidas, víctimas, testigas o testigos y demás sujetos procesales, en los casos que existan amenazas o riesgos a su integridad o vida;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XXXIV. Coordinar y colaborar con entidades gubernamentales y no gubernamentales, para la implementación de los esquemas de seguridad de víctimas, testigas o testigos y demás sujetos procesales;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XXXV. Crear y operar la Base Estadística Estatal de Violencia Política contra las Mujeres en razón de Género, en los términos que determinen las Leyes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XXXVI. Las demás que prevean otras disposiciones legales.
 
 2. Los titulares de los distintos órganos que integran la Fiscalía, se encuentran obligados a comparecer personalmente ante el Congreso del Estado y al Consejo Estatal de Seguridad Pública para informar sobre su desempeño.
 
@@ -946,3 +970,17 @@ P.O. 11 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27295/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 145, 146, 147, 148, 150, 151, 152, 153 Y 154 DEL TÍTULO SÉPTIMO "DE LOS DELITOS POR HECHOS DE CORRUPCIÓN", SE DEROGA EL ARTÍCULO 149, SE ADICIONAN LAS FRACCIONES VI DEL ARTÍCULO 145, V DEL ARTÍCULO 146; RECORRIÉNDOSE EN AMBOS CASOS LAS FRACCIONES SUBSECUENTES, LA FRACCIÓN II, AL ARTÍCULO 147 Y LA FRACCIÓN II DEL ARTÍCULO 148, LA FRACCIÓN IX DEL NUMERAL 1, ASÍ COMO EL NUMERAL 2 DEL ARTÍCULO 152 Y LA FRACCIÓN VII AL ARTÍCULO 154-I, SE MODIFICA LA DENOMINACIÓN DEL TÍTULO SÉPTIMO BIS DENOMINÁNDOLO "DE LOS DELITOS COMETIDOS POR SERVIDORES PÚBLICOS O PARTICULARES CONTRA LA INTEGRIDAD FÍSICA Y MENTAL DE LAS PERSONAS" DONDE SE INTEGRAN LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, REFORMANDO LOS ARTÍCULOS 154-A, 154-B, 154-C, Y EL DELITO DE TORTURA, ARTÍCULOS 154-H, 154-I, 154-J; SE DEROGAN LOS ARTÍCULOS 154-L Y 154-M DEL CAPÍTULO XII, Y SE MODIFICA EL ACTUAL TÍTULO SÉPTIMO BIS PARA PASAR A SER EL TÍTULO SÉPTIMO TER DENOMINADO "DELITOS COMETIDOS POR PARTICULARES EN CONTRA DE LA ADMINISTRACIÓN DE JUSTICIA Y EN OTROS RAMOS DEL PODER PÚBLICO", TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27922/LXII/20 QUE REFORMA Y ADICIONA LOS ARTÍCULOS 11, 17, 29, 34, 41, ADICIONANDO LA SECCIÓN DÉCIMA OCTAVA, DEL CAPÍTULO IV, DEL TÍTULO PRIMERO, Y LOS ARTÍCULOS 41 BIS Y 57 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; 46 Y SE ADICIONA EL ARTÍCULO 52 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS; LOS ARTÍCULOS 22, 55, 56 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS; EL ARTÍCULO 8, FRACCIÓN XVIII, ADICIONANDO LAS FRACCIONES XXXIII Y XXXIV, RECORRIENDO LA SUBSECUENTE; Y SE ADICIONAN EL CAPÍTULO IV BIS Y LOS ARTÍCULOS 12 BIS, 12 TER, 12 QUATER, 12 QUINQUIES, 12 SEXIES, 12 SEPTIES Y UN ARTÍCULO 61, DE LA LEY ORGÁNICA DE LA FISCALÍA, TODAS LAS LEYES DEL ESTADO DE JALISCO, CON EL OBJETO DE PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO. Se instruye al Consejo General del Instituto Electoral y de Participación Ciudadana del Estado, para que el (sic) termino de 60 días hábiles posteriores a la entrada en vigor de este decreto, dicte los acuerdos necesarios para hacer efectivas las disposiciones, así como expedir o en su caso adecuar los reglamentos internos con el objeto de prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
+
+CUARTO. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres del Gobierno del Estado de Jalisco, procurará dar cumplimiento a las disposiciones del presente decreto para traducir, publicar y difundir la reforma en lenguas de comunidades y pueblos originarios asentados en territorio estatal, y en escritura braille.
+
+QUINTO. El Congreso del Estado deberá realizar, en un término de 60 días naturales, las adecuaciones suficientes para garantizar la creación y operación de la Base Estadística Estatal de Violencia Política prevista por la fracción XXXV del artículo 8 de la presente Ley.
