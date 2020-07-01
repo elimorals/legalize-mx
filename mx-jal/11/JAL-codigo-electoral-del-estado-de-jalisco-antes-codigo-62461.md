@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2019-04-09"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO ELECTORAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -47,7 +47,9 @@ Artículo 1º
 
 1. Este Código es de orden público, de interés general y tiene por objeto reglamentar:
 
-I. Los derechos político-electorales de los ciudadanos jaliscienses;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+I. Los derechos político-electorales de las ciudadanas y los ciudadanos jaliscienses;
 
 II. El ejercicio de la función electoral;
 
@@ -137,15 +139,37 @@ XIV. (DEROGADA, P.O. 9 DE ABRIL DE 2019)
 
 XV. Unidad: el Órgano Técnico de Fiscalización del Instituto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-XVI. Ley General: la Ley General de Instituciones y Procedimientos Electorales; y
+XVI. Ley General: La Ley General de Instituciones y Procedimientos Electorales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2014)</small>
+XVII. Candidata o Candidato Independiente: el ciudadano o ciudadana que, con esa calidad, cuente con registro ante el Instituto Electoral;
 
-XVII. Candidato Independiente: el ciudadano que, con esa calidad, cuente con registro ante el Instituto Electoral.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XVIII. Ciudadanas y Ciudadanos: Las personas que teniendo la calidad de mexicanos reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XIX. Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XX. Ley de Acceso: Ley de Acceso de las Mujeres a una Vida Libre de Violencia del estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XXI. Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del estado de Jalisco y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 Artículo 3º
 
@@ -158,6 +182,10 @@ Artículo 3º
 3. La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde al Instituto Electoral, a los partidos políticos y sus candidatos.
 
 4. El Instituto dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+5. El Instituto, los partidos políticos, las personas precandidatas y candidatas, deberán garantizar y respetar, según sea el caso, el principio de paridad de género en el ejercicio de los derechos políticos y electorales, así como los derechos humanos de las mujeres.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -173,35 +201,39 @@ Artículo 4°
 
 Artículo 5º
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-1. Votar en las elecciones constituye un derecho y una obligación de los ciudadanos que se ejerce para elegir a los integrantes de los órganos del Estado de elección popular. También es derecho de los ciudadanos, y obligación para todos los partidos políticos la igualdad de oportunidades y la paridad vertical y horizontal entre hombres y mujeres, en candidaturas a legisladores locales tanto propietarios como suplentes, en candidaturas a presidencias municipales, así como en la integración de las planillas de candidatos a munícipes, así como para las autoridades electorales en la integración de los consejos distritales y municipales.
+1. Votar en las elecciones constituye un derecho y una obligación de los ciudadanos que se ejerce para elegir a los integrantes de los órganos del Estado de elección popular. También es derecho de la ciudadanía, y obligación para todos los partidos políticos, la igualdad de oportunidades y la paridad vertical y horizontal entre hombres y mujeres, en candidaturas a legisladores locales tanto propietarios como suplentes, en candidaturas a presidencias municipales, así como en la integración de las planillas de candidaturas a munícipes, así como para las autoridades electorales en la integración de los consejos distritales y municipales.
 
 2. El voto es universal, libre, secreto, directo, personal e intransferible.
 
 3. Quedan prohibidos los actos que generen presión o coacción a los electores.
 
-Artículo 6º
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+4. Es derecho de las ciudadanas y los ciudadanos ser votados para todos los puestos de elección popular, teniendo las calidades que establece la ley de la materia y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine esta ley.
 
-1. Es derecho de los ciudadanos jaliscienses constituir partidos políticos estatales y afiliarse a ellos individual y libremente, de conformidad con la Ley General de Partidos Políticos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
 
-2. Ningún ciudadano podrá estar afiliado a más de un partido político.
+5. Los derechos políticos y electorales se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidad, condición social, de salud, religión, opinión, orientación, identidad o preferencia sexual, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto o resultado anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-3. Es obligación de los ciudadanos jaliscienses integrar las mesas directivas de casilla en los términos de la Ley General.
+###### Artículo 6°.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+1. Es derecho de la ciudadanía jalisciense constituir partidos políticos estatales y afiliarse a ellos individual y libremente, de conformidad con la Ley General de Partidos Políticos.
 
-4. Es derecho exclusivo de los ciudadanos mexicanos participar como observadores de los actos de preparación y desarrollo del proceso electoral, así como de los que se lleven a cabo el día de la jornada electoral, en la forma y términos en que determine el Instituto Nacional Electoral para cada proceso electoral, de acuerdo con las bases de la Ley General.
+2. Ningún ciudadano o ciudadana podrá estar afiliado a más de un partido político.
 
-> <small>N. DE E. RESPECTO A LOS NUMERALES 5, 6 Y 7, VÉASE EL P.O. DE 8 DE JULIO DE 2014, SECCIÓN VI, PÁGINA 6.</small>
+3. Es obligación de la ciudadanía jalisciense integrar las mesas directivas de casilla en los términos de la Ley General.
+
+4. Es derecho exclusivo de la ciudadanía mexicana participar como observadora de los actos de preparación y desarrollo del proceso electoral, así como de los que se lleven a cabo el día de la jornada electoral, en la forma y términos en que determine el Instituto Nacional Electoral para cada proceso electoral, de acuerdo con las bases de la Ley General.
 
 Artículo 7º
 
-1. Para el ejercicio del voto los ciudadanos deberán satisfacer, además de los que fija el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos, los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+
+1. Para el ejercicio del voto la ciudadanía deberá satisfacer, además de los que fija el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos, los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -209,19 +241,25 @@ I. Estar inscritos en el Registro Federal de Electores, en los términos de la L
 
 II. Contar con la credencial para votar.
 
-2. En cada distrito electoral el sufragio se emitirá en la sección electoral que comprenda al domicilio del ciudadano, excepto en los casos expresamente señalados por este Código.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+2. En cada distrito electoral el sufragio se emitirá en la sección electoral que comprenda al domicilio del ciudadano o ciudadana, excepto en los casos expresamente señalados por este Código.
 
-3. Deberá garantizarse la representación de los ciudadanos jaliscienses residentes en el extranjero, quienes podrán votar por los candidatos independientes y los que postulen los partidos políticos y coaliciones en las elecciones de Gobernador del Estado; así como por los candidatos que postulen los partidos políticos para Diputados Locales por el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+3. Deberá garantizarse la representación de la ciudadanía jalisciense residente en el extranjero, quienes podrán votar por los candidatos independientes y los que postulen los partidos políticos y coaliciones en las elecciones de Gobernador del Estado; así como por las candidaturas que postulen los partidos políticos para Diputados y Diputadas locales por el principio de representación proporcional.
 
-4. Los ciudadanos Jaliscienses que se encuentren en el extranjero podrán ejercer su derecho al sufragio en las elecciones de Gobernador del Estado y de Diputados Locales por el principio de representación proporcional, de conformidad con lo que dispone el Código y los lineamientos que al efecto emita el propio Instituto, quien tendrá bajo su responsabilidad la organización de esos comicios; para ello podrá emitir acuerdos y suscribir convenios con el Instituto Nacional Electoral, dependencias de competencia federal y estatal, así como con instituciones de carácter social y privado, debiendo el Consejo General determinar las modalidades que se habrán de emplear para la recepción de esos sufragios, debiendo apoyarse para ello en un (sic) Comisión Especial y en un área técnica prevista en el reglamento interno del Instituto, que le auxilien a valorar los diversos mecanismos empleados para ese efecto por otros organismos electorales o proponer elementos innovadores para su instrumentación.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-I. Para ejercer el derecho al voto, los ciudadanos jaliscienses en el extranjero deberán contar con credencial para votar con fotografía expedida por la autoridad electoral nacional cuyo registro corresponda al Estado de Jalisco, lo que permitirá acreditar la residencia en esta entidad federativa, aún sin radicar en ella; y
+4. La ciudadanía jalisciense que se encuentre en el extranjero podrá ejercer su derecho al sufragio en las elecciones de Gobernador del Estado y de Diputados y Diputadas Locales por el principio de representación proporcional, de conformidad con lo que dispone el Código y los lineamientos que al efecto emita el propio Instituto, quien tendrá bajo su responsabilidad la organización de esos comicios; para ello podrá emitir acuerdos y suscribir convenios con el Instituto Nacional Electoral, dependencias de competencia federal y estatal, así como con instituciones de carácter social y privado, debiendo el Consejo General determinar las modalidades que se habrán de emplear para la recepción de esos sufragios, debiendo apoyarse para ello en un Comisión Especial y en un área técnica prevista en el reglamento interno del Instituto, que le auxilien a valorar los diversos mecanismos empleados para ese efecto por otros organismos electorales o proponer elementos innovadores para su instrumentación.
 
-II. Los jaliscienses que cumplan dicho requisito para votar podrán ejercer su derecho de voto de manera libre, secreta y directa en la elección de Gobernador del Estado y de Diputados Locales por el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+I. Para ejercer el derecho al voto, la ciudadanía jalisciense en el extranjero deberá contar con credencial para votar con fotografía expedida por la autoridad electoral nacional cuyo registro corresponda al Estado de Jalisco, lo que permitirá acreditar la residencia en esta entidad federativa, aún sin radicar en ella; y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+II. Las y los jaliscienses que cumplan dicho requisito para votar podrán ejercer su derecho de voto de manera libre, secreta y directa en la elección de Gobernador o Gobernadora del Estado, de Diputados y Diputadas Locales por el principio de representación proporcional.
 
 ### Capítulo Segundo. De los Requisitos de Elegibilidad
 
@@ -229,13 +267,13 @@ II. Los jaliscienses que cumplan dicho requisito para votar podrán ejercer su d
 
 #### Sección Primera. Disposiciones Generales
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Artículo 7° bis
+Artículo 7 bis.
 
-1. A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral; tampoco podrá ser candidato para un cargo estatal de elección popular y simultáneamente para otro de la Federación. En este supuesto, si el registro para el cargo de la elección estatal ya estuviere hecho, se procederá a la cancelación automática del registro respectivo.
+1. A ninguna persona podrá registrársele como candidata a distintos cargos de elección popular en el mismo proceso electoral; tampoco podrá ostentar candidatura para un cargo estatal de elección popular y simultáneamente para otro de la Federación. En este supuesto, si el registro para el cargo de la elección estatal ya estuviere hecho, se procederá a la cancelación automática del registro respectivo.
 
-2. Se exceptúan de esta disposición, las solicitudes de registro de candidatos que en forma simultánea se presenten para los cargos de Diputados por los principios de mayoría relativa y de representación proporcional, en los términos que establece la Constitución Política local.
+2. Se exceptúan de esta disposición, las solicitudes de registro de candidatos que en forma simultánea se presenten para los cargos de diputaciones por los principios de mayoría relativa y de representación proporcional, en los términos que establece la Constitución Política local.
 
 (REUBICADA [N. DE E. ANTES SECCIÓN PRIMERA], P.O. 8 DE JULIO DE 2014)
 
@@ -243,53 +281,69 @@ Artículo 7° bis
 
 Artículo 8º
 
-1. Son requisitos para ser electo diputado:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
-I. Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos; estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
+1. Son requisitos para ser electa diputada o diputado:
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+I. Tener ciudadanía mexicana por nacimiento, en ejercicio de sus derechos; estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
 
 II. Tener cuando menos veintiún años de edad el día de la elección;
 
-III. Ser nativo de Jalisco o avecindado legalmente en él, cuando menos los dos años inmediatos anteriores al día de la elección;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+III. Ser persona nativa de Jalisco o avecindada legalmente en él, cuando menos los dos años inmediatos anteriores al día de la elección;
 
-IV. No ser Consejero Electoral o Secretario Ejecutivo del Consejo General del Instituto Electoral; ni Magistrado del Tribunal Electoral, ni pertenecer al Servicio Profesional Electoral Nacional, a menos que se separe de sus funciones dos años antes del día de la elección;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-V. No ser Director, Presidente, Secretario o Consejero Distrital o Municipal de los Consejos Distritales o Municipales Electorales del Instituto Electoral, a menos que se separe de sus funciones ciento ochenta días antes del día de la elección;
+IV. No ostentar Consejería Electoral o Secretariado Ejecutivo del Consejo General del Instituto Electoral; ni magistratura del Tribunal Electoral, ni pertenecer al Servicio Profesional Electoral Nacional, a menos que se separe de sus funciones dos años antes del día de la elección;
 
-VI. No ser Presidente o Consejero ciudadano de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones noventa días antes del día de la elección;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VII. No ser Presidente o Consejero del Instituto de Transparencia e Información Pública del Estado, a menos que se separe de sus funciones noventa días antes del día de la elección;
+V. No poseer cargo de Dirección, Presidencia, Secretaría o Consejería de los Consejos Distritales o Municipales Electorales del Instituto Electoral, a menos que se separe de sus funciones ciento ochenta días antes del día de la elección;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VI. No poseer cargo de Presidencia o Consejería ciudadana de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones noventa días antes del día de la elección;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VII. No poseer cargo de Presidencia o Consejería del Instituto de Transparencia e Información Pública del Estado, a menos que se separe de sus funciones noventa días antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
 VIII. No estar en servicio activo en el Ejército Nacional, ni tener mando en la policía o en cuerpos de seguridad pública en el distrito en que se pretenda su elección, cuando menos sesenta días antes de ella;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-IX. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Fiscal General del Estado, Fiscal Central, Fiscal Especial en materia de Delitos Electorales, Procurador Social, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo de la Judicatura del Estado o Magistrado del Tribunal de Arbitraje y Escalafón; a no ser que se separe del cargo noventa días antes al de la jornada electoral;
+IX. No ser titular de la Secretaría General de Gobierno, o quien haga sus veces, de Secretaría del Despacho del Poder Ejecutivo, de la Fiscalía General del Estado, de la Fiscalía Central, de la Fiscalía Especial en materia de Delitos Electorales, ni de la Procuraduría Social; ni ostentar Magistratura del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, consejería del Consejo de la Judicatura del Estado ni Magistratura del Tribunal de Arbitraje y Escalafón; a no ser que se separe del cargo noventa días antes al de la jornada electoral;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-X. No ser Juez, Secretario de Juzgado, Secretario del Consejo de la Judicatura del Estado, Presidente Municipal, Regidor, Síndico, Secretario de Ayuntamiento o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el distrito por el cual se postule, a menos que se separe de su cargo noventa días antes del día de la elección; y
+X. No ser Juez o Jueza, Secretario o Secretaría de Juzgado, Secretario o Secretaria del Consejo de la Judicatura del Estado, Presidente o Presidenta Municipal, Regidor o Regidora Síndico o Síndica, Secretario o Secretaría de Ayuntamiento o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el distrito por el cual se postule, a menos que se separe de su cargo noventa días antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-XI. En caso de haberse desempeñado como servidor público, acreditar que cumplió con la obligación de presentar declaración de situación patrimonial siempre y cuando esté obligado, en los términos de ley.
+XI. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios; y
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
-2. Los servidores públicos que hubiesen solicitado licencia para contender por una Diputación, podrán regresar a su cargo un día después de la entrega de constancias de ambos principios.
+XII. En caso de haberse desempeñado como servidora o servidor público, acreditar que cumplió con la obligación de presentar declaración de situación patrimonial siempre y cuando esté obligado, en los términos de ley.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Artículo 9°
+2. Las y los servidores públicos que hubiesen solicitado licencia para contender por una Diputación, podrán regresar a su cargo un día después de la entrega de constancias de ambos principios.
 
-1. Los diputados podrán ser electos hasta por cuatro periodos consecutivos.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+###### Artículo 9°.
+
+1. Las y los diputados podrán ser electos hasta por cuatro periodos consecutivos.
 
 2. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado; salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-3. En el caso de diputados electos como candidatos independientes solo podrán postularse para la reelección con la misma calidad de candidato independiente, salvo que se afilie y demuestre su militancia en un partido político antes de la mitad de su periodo, caso en el que si podrá postularse para reelección por dicho partido.
+3. En el caso de diputaciones electas como candidatos o candidatas independientes solo podrán postularse para la reelección con la misma calidad de candidatura independiente, salvo que se afilie y demuestre su militancia en un partido político antes de la mitad de su periodo, caso en el que si podrá postularse para reelección por dicho partido.
 
 (REUBICADA [N. DE E. ANTES SECCIÓN SEGUNDA], P.O. 8 DE JULIO DE 2014)
 
@@ -297,21 +351,29 @@ Artículo 9°
 
 Artículo 10
 
-1. Para ser Gobernador del Estado se requiere:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+1. Para ser Gobernadora o Gobernador del Estado se requiere:
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+I. Tener ciudadanía mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
 II. Tener cuando menos treinta años de edad el día de la elección;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-III. Ser nativo del Estado o avecindado en él, cuando menos, cinco años inmediatos anteriores al día de la elección;
+III. Ser persona nativa del Estado o avecindada en él, cuando menos, cinco años inmediatos anteriores al día de la elección;
 
 IV. No estar en servicio activo en el Ejército Nacional, ni en las fuerzas de seguridad pública del Estado, cuando menos noventa días anteriores al día de la elección;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-V. No ser Secretario General de Gobierno, Fiscal General, Fiscal Central, Fiscal Especial en materia de Delitos Electorales o Secretario del Despacho del Poder Ejecutivo, a no ser que se separe del cargo, cuando menos noventa días antes de la elección.
+V. No ser titular de la Secretaría General de Gobierno, Fiscalía General, Fiscalía Central, Fiscalía Especial en materia de Delitos Electorales Secretario o Secretaría del Despacho del Poder Ejecutivo, a no ser que se separe del cargo, cuando menos noventa días antes de la elección; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+VI. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 (REUBICADA [N. DE E. ANTES SECCIÓN TERCERA], P.O. 8 DE JULIO DE 2014)
 
@@ -319,51 +381,67 @@ V. No ser Secretario General de Gobierno, Fiscal General, Fiscal Central, Fiscal
 
 Artículo 11
 
-1. Para ser Presidente Municipal, Regidor y Síndico se requiere:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
-I. Ser ciudadano mexicano;
+1. Para ser Presidente o Presidenta Municipal, Regidor o Regidora y Síndica o Síndico se requiere:
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-II. Ser nativo del Municipio o área metropolitana correspondiente, o acreditar ser vecino de aquellos, cuando menos tres años inmediatos anteriores al día de la elección;
+I. Tener la ciudadanía mexicana;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+II. Ser persona nativa del Municipio o área metropolitana correspondiente, o avecindada de aquellos, cuando menos tres años inmediatos anteriores al día de la elección;
 
 III. Estar en pleno ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-IV. No ser Magistrado del Tribunal Electoral, integrante del Instituto Electoral con derecho a voto, Procurador Social o Presidente de la Comisión Estatal de Derechos Humanos, Fiscal General, Fiscal Central, Fiscal Especial de Delitos Electorales en el Estado a menos que se separe de sus funciones ciento ochenta días antes de la elección;
+IV. No tener Magistratura en el Tribunal Electoral, no ser integrante del Instituto Electoral con derecho a voto, Procurador Social o Presidente o Presidenta de la Comisión Estatal de Derechos Humanos, no ser titular de la Fiscalía General, Fiscalía Central, Fiscalía Especial de Delitos Electorales en el Estado a menos que se separe de sus funciones ciento ochenta días antes de la elección;
 
-V. No ser Consejero Ciudadano de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones noventa días antes de la elección;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+V. No tener Consejería Ciudadana de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones noventa días antes de la elección;
 
 VI. No estar en servicio activo en el Ejército Nacional ni tener mando en la policía o en cuerpo de seguridad pública en el municipio en que se pretenda su elección, cuando menos noventa días antes de ella;
 
-VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, del Tribunal de Arbitraje y Escalafón o miembro del Consejo de la Judicatura. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VIII. No ser Juez, Secretario de Juzgado o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el municipio en que pretenda su elección, a menos que se separe de su cargo en los términos que previene la fracción anterior; y
+VII. No ser titular de la Secretaría General de Gobierno o quien haga sus veces, Secretaria del Despacho del Poder Ejecutivo, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, del Tribunal de Arbitraje y Escalafón o miembro del Consejo de la Judicatura. Las y los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
 
-(NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IX DEL NÚMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+VIII. No ser Juez o Jueza, Secretario o Secretaria de Juzgado o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el municipio en que pretenda su elección, a menos que se separe de su cargo en los términos que previene la fracción anterior;
 
-IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección, SALVO QUE SE TRATE DE REGIDORES QUE BUSCAN REELEGIRSE. Si se trata del funcionario encargado de las finanzas municipales, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Auditoría Superior del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+IX. No ser servidor público del municipio de que se trate, a no ser que se separe del cargo noventa días antes de la elección. Si se trata de la funcionaria o funcionario encargado de las finanzas municipales, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Auditoría Superior del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+X. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 Artículo 12
 
-1. Los Presidentes Municipales, regidores y síndicos podrán ser postulados, al mismo cargo, para el periodo inmediato siguiente.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+1. Los Presidentes o Presidentas Municipales, regidores o regidoras y síndicos o síndicas podrán ser postulados, al mismo cargo, para el periodo inmediato siguiente.
 
 2. A los suplentes de los anteriores, que no entren en funciones, no se les computará dicho período para efectos de la reelección inmediata.
 
 3. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado; salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-4. En el caso de munícipes electos como candidatos independientes solo podrán postularse para la reelección con la misma calidad de candidato independiente, salvo que se afilie y demuestre su militancia en un partido político antes de la mitad de su periodo, caso en el que si podrá postularse para reelección por dicho partido.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+4. En el caso de munícipes electos como candidatos o candidatas independientes solo podrán postularse para la reelección con la misma calidad de candidatura independiente, salvo que se afilie y demuestre su militancia en un partido político antes de la mitad de su periodo, caso en el que si podrá postularse para reelección por dicho partido.
 
 5. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas en el período inmediato.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-6. Tratándose del Presidente Municipal y Síndico que pretendan ser postulados para un segundo periodo deberán separarse del cargo al menos con noventa días de anticipación al día de la jornada electoral.
+6. Tratándose de la Presidenta o el Presidente Municipal y la Síndica o el Síndico que pretendan ser postulados para un segundo periodo deberán separarse del cargo al menos con noventa días de anticipación al día de la jornada electoral.
 
 Artículo 13 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
@@ -377,49 +455,65 @@ Artículo 14
 
 I. El cómputo de votos en la elección de Gobernador del Estado;
 
-II. El cómputo de votos en la elección de Diputados electos por el principio de mayoría relativa;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-III. El cómputo de votos y la asignación de Diputados por el principio de representación proporcional;
+II. El cómputo de votos en la elección de diputaciones electas por el principio de mayoría relativa;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+III. El cómputo de votos y la asignación de diputaciones por el principio de representación proporcional;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE JULIO DE 2020)</small>
 
 IV. El cómputo de votos en la elección de Munícipes por el principio de mayoría relativa; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE JULIO DE 2020)</small>
 
 V. La asignación de Munícipes por el principio de representación proporcional.
 
 Artículo 15
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
 
 1. Para efectos de aplicación de la fórmula electoral, es:
 
 I. Votación Total Emitida: La suma de todos los sufragios emitidos en la elección correspondiente;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-II. Votación válida emitida. La que resulte de deducir de la votación total emitida, los votos nulos y los de candidatos no registrados;
+II. Votación válida emitida: La que resulte de deducir de la votación total emitida, los votos nulos y los de candidaturas no registradas;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
 
 III. Votación efectiva, que es:
 
-a) Votación efectiva estatal: la resultante de deducir de la votación válida emitida, los votos de los partidos políticos que no reúnan el porcentaje mínimo de votos establecidos por este Código, para tener derecho a participar en el proceso de asignación de diputados de representación proporcional, así como los votos de los candidatos independientes en la elección correspondiente; y
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-b) Votación efectiva municipal: la resultante de deducir de la votación válida emitida del municipio correspondiente, los votos de los partidos políticos y candidatos independientes que no reúnan el porcentaje mínimo de votos establecidos por la Constitución del Estado, para tener derecho a participar en el proceso de asignación de regidores de representación proporcional;
+a) Votación efectiva estatal: la resultante de deducir de la votación válida emitida, los votos de los partidos políticos que no reúnan el porcentaje mínimo de votos establecidos por este Código, para tener derecho a participar en el proceso de asignación de diputaciones de representación proporcional, así como los votos de las candidaturas independientes en la elección correspondiente; y
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-IV. Votación Válida Distrital: Es aquella que resulte de deducir de la votación emitida en el distrito del que se trate los votos nulos y los candidatos no registrados; y
+b) Votación efectiva municipal: la resultante de deducir de la votación válida emitida del municipio correspondiente, los votos de los partidos políticos y candidatos y candidatas independientes que no reúnan el porcentaje mínimo de votos establecidos por la Constitución del Estado, para tener derecho a participar en el proceso de asignación de regidurías de representación proporcional;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
-V. Votación obtenida: Los votos del partido político o candidato independiente en la elección correspondiente.
+IV. Votación para asignación de representación proporcional: la resultante de deducir de la votación efectiva los votos del partido político que obtuvo la mayoría en la elección correspondiente;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IV], P.O. 1 DE JULIO DE 2020)</small>
+
+V. Votación Válida Distrital: es aquella que resulte de deducir de la votación emitida en el distrito del que se trate los votos nulos y las candidaturas no registradas; y
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN V], P.O. 1 DE JULIO DE 2020)</small>
+
+VI. Votación obtenida: Los votos del partido político o candidatura independiente en la elección correspondiente.
 
 ### Capítulo Segundo. Elección e Integración del Poder Legislativo
 
 Artículo 16
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
-1. El Congreso del Estado se integra por treinta y ocho diputados que se eligen:
+1. El Congreso del Estado se integra por treinta y ocho diputados y diputadas que se eligen:
 
 I. Veinte por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales en que se divide el territorio del Estado; y
 
@@ -427,33 +521,93 @@ I. Veinte por el principio de mayoría relativa, mediante el sistema de distrito
 
 II. Dieciocho por el principio de representación proporcional, mediante el sistema de la circunscripción plurinominal única que es el territorio del Estado, y el sistema de asignación.
 
-Artículo 17
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-1. Los diputados que correspondan a cada partido conforme al principio de representación proporcional, serán asignados alternativamente, dos entre los candidatos registrados en la lista de representación proporcional y uno de los candidatos de cada partido político no electo bajo el principio de mayoría relativa que hayan obtenido los porcentajes mayores de votación válida distrital, iniciando por la más alta.
+### Capítulo Tercero. Asignación de Diputados Electos por el Principio de Representación Proporcional
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+Artículo 19
 
-2. Los partidos políticos deberán presentar una lista de candidatos ordenada en forma progresiva de dieciocho diputados a elegir por la modalidad de lista de representación proporcional. Las solicitudes de registro de representación proporcional que presenten los partidos, ante el Instituto, deben cumplir la paridad de género, garantizando la inclusión alternada entre géneros en el orden de la lista. Los partidos políticos sólo podrán postular simultáneamente candidatos a diputados por ambos principios hasta un veinticinco por ciento en relación al total de diputados de mayoría relativa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+
+1. Los criterios que se observarán para la aplicación de la fórmula electoral, en la asignación de diputaciones por el principio de representación proporcional, son:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE JULIO DE 2020)</small>
+
+I. Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida, se le asignará una curul por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido;
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
+
+II. Una vez realizada la distribución señalada en el párrafo anterior, tendrá derecho a participar en la asignación de diputados electos según el principio de representación proporcional todo aquel partido político que:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
+
+a) Alcance por lo menos el tres punto cinco por ciento de la votación total emitida para esa elección;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+b) Registre fórmulas de candidaturas a diputaciones por el principio de mayoría relativa en cuando menos catorce distritos electorales uninominales;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
+
+c) Conserve, al día de la elección, el registro de al menos catorce fórmulas de mayoría relativa;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+d) Registre la lista de dieciocho candidaturas a diputaciones de representación proporcional;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+e) Conserve al día de la elección, el registro de por lo menos, dos terceras partes de la lista de candidaturas a diputaciones de representación proporcional; y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
+
+f) Los requisitos a que se refieren los incisos b) y c) no aplicarán a los partidos políticos en lo individual, cuando participen en el proceso electoral de manera coaligada.
+
+(NOTA: EL 29 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, TEMA 3.1, DÉCIMO PRIMERO Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2020 Y SUS ACUMULADAS 166/2020 Y 234/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+III. AL PARTIDO POLÍTICO QUE TENGA EL PORCENTAJE MÁS ALTO DE LA VOTACIÓN EFECTIVA, SE LE ASIGNARÁN DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL HASTA ALCANZAR EL NÚMERO TOTAL DE DIPUTACIONES QUE RESULTE EQUIVALENTE AL PORCENTAJE DE SU VOTACIÓN OBTENIDA, ADICIONÁNDOLE CINCO PUNTOS PORCENTUALES; Y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+IV. En el caso de que las candidatas o candidatos postulados por una coalición obtengan triunfos en los distritos uninominales en que compiten, independientemente de lo establecido en el convenio y el origen partidario de las candidaturas, la curul se contabilizará, para efectos de la asignación total de diputaciones por ambos principios que corresponden a cada partido según su votación, al partido político participante en la coalición que más votos aportó para la elección de dicha diputación de mayoría, con el objetivo de no generar efectos de distorsión en la representación proporcional de cada partido.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+2. Ningún partido político o coalición tendrá derecho a que se le reconozcan más de veintitrés diputaciones.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+3. En ningún caso, un partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
-3. El Instituto, al aplicar la fórmula electoral, asignará a los partidos políticos el número de diputados por el principio de representación proporcional que les corresponda de acuerdo con su votación obtenida.
+4. En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-4. La asignación de Diputados por la modalidad de lista de representación proporcional seguirá el orden de prelación establecido por los partidos políticos.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-5. La asignación mediante la modalidad de porcentajes mayores de votación válida distrital se realizará entre los candidatos que no hayan sido electos en la elección de diputados por el principio de mayoría relativa. En este caso, la asignación procederá de acuerdo a la lista que se elabore por el Instituto Electoral, en forma descendente a favor de quienes hayan obtenido el mayor porcentaje de votación válida distrital con relación a los demás candidatos de su propio partido.
+###### Artículo 17.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+1. Las diputaciones que correspondan a cada partido conforme al principio de representación proporcional, serán asignados alternativamente, dos entre las candidaturas registradas en la lista de representación proporcional y uno de los candidatos de cada partido político no electo bajo el principio de mayoría relativa que hayan obtenido los porcentajes mayores de votación válida distrital, iniciando por la más alta.
+
+2. Los partidos políticos deberán presentar una lista de candidaturas ordenada en forma progresiva de dieciocho diputaciones a elegir por la modalidad de lista de representación proporcional. Las solicitudes de registro de representación proporcional que presenten los partidos, ante el Instituto, deben cumplir la paridad de género, garantizando la inclusión alternada entre géneros en el orden de la lista. Los partidos políticos sólo podrán postular simultáneamente candidaturas a diputaciones por ambos principios hasta un veinticinco por ciento en relación al total de candidaturas de mayoría relativa.
+
+3. El Instituto, al aplicar la fórmula electoral, asignará a los partidos políticos el número de diputaciones por el principio de representación proporcional que les corresponda de acuerdo con su votación obtenida.
+
+4. La asignación de diputaciones por la modalidad de lista de representación proporcional seguirá el orden de prelación establecido por los partidos políticos.
+
+5. La asignación mediante la modalidad de porcentajes mayores de votación válida distrital se realizará entre las candidaturas que no hayan sido electas en la elección de diputaciones por el principio de mayoría relativa. En este caso, la asignación procederá de acuerdo a la lista que se elabore por el Instituto Electoral, en forma descendente a favor de quienes hayan obtenido el mayor porcentaje de votación válida distrital con relación a las demás candidaturas de su propio partido.
 
 6. En esta modalidad, no es aplicable la alternancia entre géneros, sino los resultados obtenidos por cada candidato en la circunscripción correspondiente y en comparación con el resto de los candidatos de su propio partido.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
-
-7. Los candidatos independientes no participarán en la asignación de diputados de representación proporcional.
+7. Los candidatos y candidatas independientes no participarán en la asignación de diputados de representación proporcional.
 
 Artículo 18
 
-1. En caso de falta temporal o absoluta de los diputados electos, el Congreso del Estado procederá:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+
+1. En caso de falta temporal o absoluta de los diputados y las diputadas electas, el Congreso del Estado procederá:
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -461,45 +615,25 @@ I. Para cubrir a los electos por el principio de mayoría relativa, llamará al 
 
 II. Para cubrir a los electos por el principio de representación proporcional, llamará al siguiente de la lista que de cada partido, determine el Instituto Electoral, integrada con los de la lista de representación proporcional y la de porcentajes mayores de votación válida distrital.
 
-### Capítulo Tercero. Asignación de Diputados Electos por el Principio de Representación Proporcional
+### Capítulo Cuarto. Elección del Titular del Poder Ejecutivo del Estado
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+Artículo 23
 
-Artículo 19
+1. La elección del Gobernador del Estado será mediante voto directo y por mayoría relativa, en la forma que dispone este Código y su calificación estará a cargo del Instituto Electoral.
 
-1. Los criterios que se observarán para la aplicación de la fórmula electoral, en la asignación de diputados por el principio de representación proporcional, son:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
 
-I. Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida, se le asignará una curul por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido;
+2. Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador, de conformidad con lo previsto en el artículo 6, párrafo segundo, inciso e) de la Constitución y en el Libro Sexto de la Ley General.
 
-II. Una vez realizada la distribución señalada en el párrafo anterior, tendrá derecho a participar en la asignación de diputados electos según el principio de representación proporcional todo aquel partido político que:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
 
-a) Alcance por lo menos el tres punto cinco por ciento de la votación total emitida para esa elección;
+3. El ejercicio del voto podrá realizarse por correo, mediante entrega de la boleta en forma personal en los módulos que se instalen en las embajadas o consulados o, en su caso, por medios electrónicos; este último se utilizará preferentemente.
 
-b) Registre fórmulas de candidatos a diputados por el principio de mayoría relativa en cuando menos catorce distritos electorales uninominales;
+###### Artículo 20.
 
-c) Conserve, al día de la elección, el registro de al menos catorce fórmulas de mayoría relativa;
+(NOTA: EL 29 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, TEMA 3.1, DÉCIMO PRIMERO Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2020 Y SUS ACUMULADAS 166/2020 Y 234/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-d) Registre la lista de diecinueve candidatos a diputados de representación proporcional;
-
-e) Conserve al día de la elección, el registro de por lo menos, dos terceras partes de la lista de candidatos a Diputados de representación proporcional; y
-
-f) Los requisitos a que se refieren los incisos b) y c) no aplicarán a los partidos políticos en lo individual, cuando participen en el proceso electoral de manera coaligada.
-
-III. Al partido político que tenga el porcentaje más alto de la votación efectiva, se le asignarán diputados por el principio de representación proporcional hasta alcanzar el número total de diputados que resulte equivalente al porcentaje de su votación obtenida, adicionándole cinco puntos porcentuales; y
-
-IV. En el caso de que candidatos postulados por una coalición obtengan triunfos en los distritos uninominales en que compiten, independientemente de lo establecido en el convenio y el origen partidario de los candidatos, la curul se contabilizará, para efectos de la asignación total de diputados por ambos principios que corresponden a cada partido según su votación, al partido político participante en la coalición que más votos aportó para la elección de dicho diputado de mayoría, con el objetivo de no generar efectos de distorsión en la representación proporcional de cada partido.
-
-2. Ningún partido político o coalición tendrá derecho a que se le reconozcan más de veintitrés diputados.
-
-3. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
-
-4. En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 20
-
-1. Para la asignación de diputados por el principio de representación proporcional, se aplicará el procedimiento siguiente: del número de diputados asignables a la circunscripción plurinominal, se deducirán el número de diputados por el principio de representación proporcional que ya fueron asignados al partido político que obtuvo el porcentaje más alto de la votación efectiva, así como el número de diputados que ya fueron asignados a los partidos que obtuvieron más del tres por ciento de la votación válida emitida.
+1. Para la asignación de diputados por el principio de representación proporcional, se aplicará el procedimiento siguiente: del número de diputaciones asignables a la circunscripción plurinominal, se deducirán EL NÚMERO DE DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL QUE YA FUERON ASIGNADOS AL PARTIDO POLÍTICO QUE OBTUVO EL PORCENTAJE MÁS ALTO DE LA VOTACIÓN EFECTIVA, ASÍ COMO el número de diputaciones que ya fueron asignados a los partidos que obtuvieron más del tres por ciento de la votación válida emitida.
 
 2. El resto de las diputaciones de representación proporcional, se distribuirán entre los partidos políticos que obtuvieron el tres punto cinco por ciento de la votación total emitida, mediante la fórmula electoral.
 
@@ -525,39 +659,27 @@ I. Obtenido el cociente natural, se asignarán a cada partido político tantas d
 
 II. Si después de aplicarse el cociente natural, quedan diputaciones por asignar, éstas se distribuirán por el método del resto mayor, siguiendo el orden decreciente de los restos de los votos no utilizados por cada uno de los partidos políticos, incluyéndose a aquellos que no alcanzaron participación por el cociente natural.
 
-### Capítulo Cuarto. Elección del Titular del Poder Ejecutivo del Estado
-
-Artículo 23
-
-1. La elección del Gobernador del Estado será mediante voto directo y por mayoría relativa, en la forma que dispone este Código y su calificación estará a cargo del Instituto Electoral.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
-
-2. Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador, de conformidad con lo previsto en el artículo 6, párrafo segundo, inciso e) de la Constitución y en el Libro Sexto de la Ley General.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
-
-3. El ejercicio del voto podrá realizarse por correo, mediante entrega de la boleta en forma personal en los módulos que se instalen en las embajadas o consulados o, en su caso, por medios electrónicos; este último se utilizará preferentemente.
-
 ### Capítulo Quinto. Elección e Integración de los Ayuntamientos
 
 Artículo 24
 
-1. Los ayuntamientos se integran por un Presidente Municipal, el número de regidores de mayoría relativa y de representación proporcional que se señalan en el presente capítulo, y un síndico.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+1. Los ayuntamientos se integran por un Presidente o Presidenta Municipal, el número de regidurías de mayoría relativa y de representación proporcional que se señalan en el presente capítulo, y una sindicatura.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 2. Todos los integrantes del ayuntamiento tienen el carácter de munícipes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-3. Los partidos políticos, coaliciones o candidatos independientes deberán registrar una planilla de candidatos ordenada en forma progresiva, que contenga el número de regidores propietarios a elegir por el principio de mayoría relativa, iniciando con el Presidente Municipal y después los Regidores, con sus respectivos suplentes y el síndico; los partidos políticos elegirán libremente la posición que deberá ocupar el candidato a síndico en la planilla que integren. Los propietarios y suplentes deberán ser del mismo género. La integración de las planillas que presenten será con un cincuenta por ciento de candidatos de cada género, alternándolos en cada lugar de la lista. El suplente del Presidente Municipal se considera como un regidor más, para los efectos de la suplencia que establece esta ley.
+3. Los partidos políticos, coaliciones o candidaturas independientes deberán registrar una planilla de candidaturas ordenada en forma progresiva, que contenga el número de regidurías propietarias a elegir por el principio de mayoría relativa, iniciando con la Presidencia Municipal y después las Regidurías, con sus respectivos suplentes y la Sindicatura; los partidos políticos elegirán libremente la posición que deberá ocupar la candidatura de sindicatura en la planilla que integren. Los propietarios y suplentes deberán ser del mismo género cuando sea mujer, pero si quien encabeza la candidatura propietaria sea de género masculino, su suplente podrá ser de cualquier género. La integración de las planillas que presenten será con un cincuenta por ciento de candidatos de cada género, alternándolos en cada lugar de la lista. El o la suplente de la Presidencia Municipal se considera como un regidor más, para los efectos de la suplencia que establece esta ley. Es obligación que por lo menos una candidata o candidato de los registrados en las planillas para munícipes tenga entre dieciocho y treinta y cinco años de edad.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-En los municipios cuya población sea mayoritariamente indígena de acuerdo al Instituto Nacional de Estadística y Geografía, los partidos políticos, coaliciones y candidatos independientes, deberán integrar a su planilla al menos a un representante que pertenezca a las comunidades indígenas del municipio.
+En los municipios cuya población sea mayoritariamente indígena de acuerdo al Instituto Nacional de Estadística y Geografía, los partidos políticos, coaliciones y candidaturas independientes, deberán integrar a su planilla al menos a un representante que pertenezca a las comunidades indígenas del municipio. Procurando de conformidad a la Ley sobre los Derechos y Desarrollo de los Pueblos y las Comunidades Indígenas del Estado de Jalisco, la participación de hombres y mujeres en condiciones de igualdad y paridad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
 
 Es obligación que el cincuenta por ciento de las candidaturas a presidentes municipales que postulen los partidos políticos y coaliciones en el estado deberá ser de un mismo género.
 
@@ -565,17 +687,19 @@ Es obligación que el cincuenta por ciento de las candidaturas a presidentes mun
 
 4. Los integrantes de los ayuntamientos, con independencia del principio de votación por el que fueron electos, tendrán los mismos derechos y obligaciones, así como las atribuciones específicas que las leyes les establezcan.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-5. El Instituto Electoral al aplicar la fórmula electoral que se define en este ordenamiento, asignará a los partidos políticos, coaliciones o candidatos independientes, el número de regidores por el principio de representación proporcional que les corresponda de acuerdo con la votación obtenida, de la planilla registrada ante el propio Instituto Electoral, en el orden de prelación establecido.
+5. El Instituto Electoral al aplicar la fórmula electoral que se define en este ordenamiento, asignará a los partidos políticos, coaliciones o candidaturas independientes, el número de regidurías por el principio de representación proporcional que les corresponda de acuerdo con la votación obtenida, de la planilla registrada ante el propio Instituto Electoral, en el orden de prelación establecido.
 
-6. Para suplir al Síndico, así como a los Regidores de mayoría relativa se mandará llamar a su respectivo suplente. En el supuesto de que el suplente que sea llamado no comparezca, se llamará al siguiente suplente de la planilla registrada, de conformidad al orden de prelación establecido.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+6. Para suplir las Sindicaturas, así como regidurías de mayoría relativa se mandará llamar a su respectivo suplente. En el supuesto de que el suplente que sea llamado no comparezca, se llamará al siguiente suplente de la planilla registrada, de conformidad al orden de prelación establecido.
 
 7. En caso de ausencia del Presidente Municipal, se estará a lo que disponga la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-8. Para suplir a los regidores de representación proporcional, será llamado el ciudadano que, de acuerdo a la planilla registrada, sea el siguiente en el orden de prelación. Para tal efecto, se considerará en primer lugar la lista de regidores propietarios y en segundo, la lista de regidores suplentes, siempre que reúnan los requisitos que la Constitución Política del Estado de Jalisco y este Código, exigen para el desempeño del cargo.
+8. Para suplir a los regidores de representación proporcional, será llamado el ciudadano o ciudadana que, de acuerdo a la planilla registrada, sea el siguiente en el orden de prelación. Para tal efecto, se considerará en primer lugar la lista de regidurías propietarias y en segundo, la lista de regidurías suplentes, siempre que reúnan los requisitos que la Constitución Política del Estado de Jalisco y este Código, exigen para el desempeño del cargo.
 
 Artículo 25
 
@@ -589,27 +713,27 @@ I. Tener registradas planillas y mantener dichos registros hasta el día de la e
 
 II. Alcanzar cuando menos el porcentaje de votación que establece la Constitución Local en el municipio de que se trate; y
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-III. El partido político, coalición o candidato independiente que obtenga el mayor número de votos de la votación total emitida en el municipio respectivo, tendrá derecho a que se le asignen todos los regidores de mayoría relativa en el Ayuntamiento de que se trate, sin tener derecho a regidores por el principio de representación proporcional.
+III. El partido político, coalición, candidato o candidata independiente que obtenga el mayor número de votos de la votación total emitida en el municipio respectivo, tendrá derecho a que se le asignen todas las regidurías de mayoría relativa en el Ayuntamiento de que se trate, sin tener derecho a regidurías por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Artículo 26
+### Capítulo Sexto. Fechas y Realización de Elecciones Ordinarias y Extraordinarias
 
-1. Para la aplicación de la fórmula electoral en la asignación de regidores por el principio de representación proporcional, se deducirán de la votación efectiva municipal, los votos del partido político, coalición o planilla de candidatos independientes al que ya le fueron asignados los regidores por el principio de mayoría relativa.
+###### Artículo 26.
 
-Artículo 27
+1. Para la aplicación de la fórmula electoral en la asignación de regidurías por el principio de representación proporcional, se deducirán de la votación efectiva municipal, los votos del partido político, coalición o planilla de candidaturas independientes al que ya le fueron asignados las regidurías por el principio de mayoría relativa.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+###### Artículo 27.
 
 1. La fórmula electoral se integra con los elementos siguientes:
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+I. Cociente natural: que es el resultado de dividir la votación para asignación de regidurías de representación proporcional entre el número de regidurías de representación proporcional a repartir; y
 
-I. Cociente natural: que es el resultado de dividir la votación para asignación de regidores de representación proporcional entre el número de regidores de representación proporcional a repartir; y
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
-
-II. Resto Mayor: que es el remanente más alto de votos entre los restos de las votaciones de cada partido político, coalición o planilla de candidatos independientes. El resto mayor podrá utilizarse, si aún hay regidurías sin distribuir, habiéndose aplicado el cociente natural.
+II. Resto Mayor: que es el remanente más alto de votos entre los restos de las votaciones de cada partido político, coalición o planilla de candidaturas independientes. El resto mayor podrá utilizarse, si aún hay regidurías sin distribuir, habiéndose aplicado el cociente natural.
 
 Artículo 28
 
@@ -660,8 +784,6 @@ a) Doce regidores por el principio de mayoría relativa; y
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 b) Hasta siete regidores de representación proporcional.
-
-### Capítulo Sexto. Fechas y Realización de Elecciones Ordinarias y Extraordinarias
 
 ### Capítulo Primero. Partidos Políticos
 
@@ -1143,15 +1265,17 @@ Artículo 78
 
 Artículo 89
 
-1. El financiamiento estatal de los partidos políticos estatales se rige por lo dispuesto en la Ley General de Partidos Políticos.
+> <small>[N. DE E. VÉASE DECRETO 27923/LXII/20, PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2020, PÁGINA 47.]</small>
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+1. (DEROGADO, P.O. 1 DE JULIO DE 2020)
 
-2. Para el financiamiento público estatal de los partidos políticos nacionales con acreditación en el Estado, se aplicará lo dispuesto en la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
+2. Para el financiamiento público estatal de los partidos políticos nacionales con acreditación en el Estado, y locales registrados en el Estado, se aplicará lo dispuesto en la Constitución Política del Estado.
 
-3. Para el financiamiento privado de los partidos políticos nacionales con acreditación en el Estado, se aplicará lo dispuesto en la Ley General de Partidos Políticos.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+3. Para el financiamiento privado de los partidos políticos nacionales con acreditación en el Estado y locales con registro en el Estado, se aplicará lo dispuesto en la Ley General de Partidos Políticos.
 
 Artículo 90 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
@@ -1233,59 +1357,7 @@ Artículo 110 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ### Capítulo Primero. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 120
-
-1. El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar que los principios de certeza, legalidad, independencia, imparcialidad, objetividad y máxima publicidad guíen todas las actividades del Instituto Electoral.
-
-Artículo 121
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-1. El Consejo General se integra por un Consejero Presidente, seis Consejeros Electorales, con derecho a voz y voto; y por Consejeros Representantes de los Partidos Políticos Nacionales acreditados en el Estado y Estatales con registro, y el Secretario Ejecutivo, con derecho a voz.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-2. La duración del cargo, requisitos de elegibilidad, elección, vacantes y remoción del Consejero Presidente y los Consejeros Electorales se rigen por la Constitución Política de los Estados Unidos Mexicanos, la Ley General y demás leyes aplicables.
-
-3. (DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-4. (DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-5. (DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-6. (DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-7. (DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-8. El Secretario Ejecutivo durará en su cargo un periodo (sic) cinco años, a cuyo término podrá ser nuevamente nombrado.
-
-9. El Secretario Ejecutivo será nombrado dentro de los treinta días siguientes a la fecha en que se verifique la vacante. Las ausencias provisionales del Secretario Ejecutivo serán cubiertas de manera provisional por el director jurídico del Instituto.
-
-10. Cada partido político designará a un representante propietario y un suplente con voz, pero sin voto.
-
-11. Los partidos podrán sustituir en todo tiempo a sus representantes, dando con oportunidad el aviso correspondiente al Consejero Presidente.
-
-Artículo 122 (DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-Artículo 123 (DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-Artículo 124 (DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-Artículo 125 (DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-Artículo 126
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-1. El Consejero Presidente y los Consejeros Electorales del Consejo General, durante el periodo de su encargo, no podrán tener ningún otro empleo, cargo o comisión con excepción de aquellos en que actúen en representación del Consejo General y de los no remunerados que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia.
-
-2. El Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo y los demás servidores públicos del Instituto desempeñarán su función con autonomía y probidad. No podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, ni divulgarla por ningún medio, salvo para el estricto ejercicio de sus funciones.
-
-3. El Consejero Presidente, los Consejeros Electorales y el secretario ejecutivo estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Octavo de la Constitución Política del Estado de Jalisco. La Contraloría Interna del Instituto será el órgano facultado para conocer de las infracciones administrativas de aquellos y proponer al Consejo General, las sanciones aplicables conforme a lo dispuesto en el Libro Sexto de este Código.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 ## Título Cuarto. De la Pérdida de Registro o Acreditación
 
@@ -1329,17 +1401,21 @@ III. Recibir y resolver en los términos de este Código los proyectos de inicia
 
 IV. Promover una cultura política sustentada en la tolerancia, la democracia, la identidad nacional y el pluralismo, mediante actividades y programas de educación cívica y electoral;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-V. Vigilar en el ámbito electoral el cumplimiento de la Constitución Política local, este Código y demás ordenamientos que garanticen el derecho de organización y participación política de los ciudadanos; y
+V. Vigilar en el ámbito electoral el cumplimiento de la Constitución Política local, este Código y demás ordenamientos que garanticen el derecho de organización y participación política de los ciudadanos;
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VI. Realizar, en su ámbito de competencia, todas las actividades tendientes a fin de que los jaliscienses residentes en el extranjero puedan ejercer su derecho al voto.
+VI. Realizar, en su ámbito de competencia, todas las actividades tendientes a fin de que los jaliscienses residentes en el extranjero puedan ejercer su derecho al voto, y
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
-2. Todas las actividades del Instituto Electoral se regirán por los principios de certeza, legalidad, independencia, imparcialidad, objetividad y máxima publicidad.
+VII. Garantizar la paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político, electoral y de participación ciudadana en el estado.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+2. Todas las actividades del Instituto Electoral y de Participación Ciudadana se regirán por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, máxima publicidad, y perspectiva de género.
 
 Artículo 116
 
@@ -1351,15 +1427,23 @@ Artículo 116
 
 2. El patrimonio del Instituto Electoral se integra conforme lo señala la Ley General.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPULICADO], P.O. 1 DE JULIO DE 2020)</small>
 
 3. Competen al Instituto Electoral, además de las funciones que le concede la Constitución Política de los Estados Unidos Mexicanos y la Ley General:
 
-I. La fiscalización de los ingresos y egresos de las agrupaciones políticas estatales, de conformidad con el reglamento correspondiente; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-II. Las demás que establezca este Código y otras disposiciones aplicables.
+I. La fiscalización de los ingresos y egresos de las agrupaciones políticas estatales, de conformidad con el reglamento correspondiente;
 
-4. (DEROGADO, P.O. 8 DE JULIO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+II. Garantizar el cumplimiento del principio de paridad de género en la postulación de candidaturas, así como el respeto de los derechos políticos y electorales de las mujeres; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN II], P.O. 1 DE JULIO DE 2020)</small>
+
+III. Las demás que establezca este Código y otras disposiciones aplicables.
+
+4. (DEROGADO, P.O. 8 DE JULIO DE 2014) (REPUBLICADA SU DEROGACIÓN, P.O. 1 DE JULIO DE 2020)
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1380,6 +1464,8 @@ a) La Presidencia;
 b) La secretaría ejecutiva; y
 
 c) Las direcciones que determine el reglamento interior del Instituto Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
 
 III. Órganos técnicos, que son:
 
@@ -1413,13 +1499,17 @@ g) La Comisión de Quejas y Denuncias;
 
 h) La Comisión de Participación Ciudadana;
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-i) La Comisión de Prerrogativas a Partidos Políticos; y
+i) La Comisión de Prerrogativas a Partidos Políticos;
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
 
-j) La Comisión de Seguimiento al Servicio Profesional Electoral;
+j) La Comisión de Igualdad de Género y No Discriminación; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES FRACCIÓN J], P.O. 1 DE JULIO DE 2020)</small>
+
+k) La Comisión de Seguimiento al Servicio Profesional Electoral;
 
 IV. Órganos desconcentrados, que son:
 
@@ -1519,9 +1609,63 @@ Artículo 133
 
 1. Cuando un partido político deje de estar representado en las sesiones del Consejo General del Instituto Electoral por tres ocasiones consecutivas, sin que medie causa justificada, dejará de formar parte del organismo electoral durante el proceso electoral de que se trate. La resolución que en estos casos emita el Presidente del Instituto Electoral se notificará al partido político respectivo.
 
+###### Artículo 120.
+
+1. El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar que los principios de certeza, legalidad, independencia, imparcialidad, objetividad y máxima publicidad guíen todas las actividades del Instituto Electoral. En su desempeño aplicará la perspectiva de género.
+
+Artículo 121
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+1. El Consejo General se integra por una Consejera o Consejero Presidente, seis Consejeras y Consejeros Electorales, con derecho a voz y voto; y por Consejeras y Consejeros Representantes de los Partidos Políticos Nacionales acreditados en el Estado y Estatales con registro, y una Secretaría Ejecutiva, con derecho a voz.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+2. La duración del cargo, requisitos de elegibilidad, elección, vacantes y remoción del Consejero Presidente y los Consejeros Electorales se rigen por la Constitución Política de los Estados Unidos Mexicanos, la Ley General y demás leyes aplicables.
+
+3. (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+4. (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+5. (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+6. (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+7. (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+8. El Secretario Ejecutivo durará en su cargo un periodo (sic) cinco años, a cuyo término podrá ser nuevamente nombrado.
+
+9. El Secretario Ejecutivo será nombrado dentro de los treinta días siguientes a la fecha en que se verifique la vacante. Las ausencias provisionales del Secretario Ejecutivo serán cubiertas de manera provisional por el director jurídico del Instituto.
+
+10. Cada partido político designará a un representante propietario y un suplente con voz, pero sin voto.
+
+11. Los partidos podrán sustituir en todo tiempo a sus representantes, dando con oportunidad el aviso correspondiente al Consejero Presidente.
+
+Artículo 122 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+Artículo 123 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+Artículo 124 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+Artículo 125 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+Artículo 126
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+1. El Consejero Presidente y los Consejeros Electorales del Consejo General, durante el periodo de su encargo, no podrán tener ningún otro empleo, cargo o comisión con excepción de aquellos en que actúen en representación del Consejo General y de los no remunerados que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia.
+
+2. El Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo y los demás servidores públicos del Instituto desempeñarán su función con autonomía y probidad. No podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, ni divulgarla por ningún medio, salvo para el estricto ejercicio de sus funciones.
+
+3. El Consejero Presidente, los Consejeros Electorales y el secretario ejecutivo estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Octavo de la Constitución Política del Estado de Jalisco. La Contraloría Interna del Instituto será el órgano facultado para conocer de las infracciones administrativas de aquellos y proponer al Consejo General, las sanciones aplicables conforme a lo dispuesto en el Libro Sexto de este Código.
+
 ### Capítulo Tercero. De las Atribuciones del Consejo General
 
 Artículo 134
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
 
 1. El Consejo General tiene las siguientes atribuciones:
 
@@ -1731,9 +1875,13 @@ LIV. Aprobar las modalidades en que los ciudadanos jaliscienses residentes en el
 
 LV. Asumir la competencia de los Consejos Distritales y Municipales una vez que se ha declarado su desinstalación o desintegración; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
-LVI. Las demás que le sean conferidas por este ordenamiento legal y demás leyes aplicables.
+LVI. Vigilar que las actividades de los partidos políticos y las agrupaciones políticas se desarrollen con apego a esta Ley, la Ley General de Partidos Políticos, así como los lineamientos que emita el Consejo General para que los partidos políticos prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género, y vigilar que cumplan con las obligaciones a que están sujetos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN LVI], P.O. 1 DE JULIO DE 2020)</small>
+
+LVII. Las demás que le sean conferidas por este ordenamiento legal y demás leyes aplicables.
 
 Artículo 135
 
@@ -1745,23 +1893,29 @@ Artículo 135
 
 Artículo 136
 
-1. El Consejo General integrará las comisiones temporales que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por un Consejero Electoral.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+1. El Consejo General integrará las comisiones temporales que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por una Consejera o Consejero Electoral.
 
-2. Independientemente de lo señalado en el párrafo anterior, las comisiones de: Educación Cívica; Participación Ciudadana; Organización Electoral; Prerrogativas a Partidos Políticos; de Investigación y Estudios Electorales, de Adquisiciones y Enajenaciones, y de Quejas y Denuncias funcionarán permanentemente y se integrarán exclusivamente por Consejeros Electorales designados por el Consejo General. Los Consejeros Electorales podrán participar hasta en tres de las comisiones antes mencionadas; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+2. Independientemente de lo señalado en el párrafo anterior, las comisiones de: Educación Cívica; Participación Ciudadana; Organización Electoral; Prerrogativas a Partidos Políticos; de Investigación y Estudios Electorales, de Adquisiciones y Enajenaciones, de Igualdad de Género y No Discriminación y de Quejas y Denuncias funcionarán permanentemente y se integrarán exclusivamente por Consejeros Electorales designados por el Consejo General. Las Consejeras y Consejeros Electorales podrán participar hasta en tres de las comisiones antes mencionadas; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
 
 3. (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-4. Todas las comisiones se integrarán con un máximo de tres Consejeros Electorales; podrán participar en ellas, con voz pero sin voto, los Consejeros representantes de los partidos políticos.
+4. Todas las comisiones se integrarán con un máximo de tres Consejeros Electorales; podrán participar en ellas, con voz pero sin voto, las y los Consejeros representantes de los partidos políticos.
 
-5. Las comisiones permanentes contarán con un secretario técnico que será designado por el Consejo General. El titular de la Dirección correspondiente asistirá a las sesiones de la comisión sólo con derecho a voz.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+5. Las comisiones permanentes contarán con una secretaria o secretario técnico que será una persona designada por el Consejo General. La persona titular de la Dirección correspondiente asistirá a las sesiones de la comisión sólo con derecho a voz.
 
 6. En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución, según el caso, dentro del plazo que determine este Código o haya sido fijado por el Consejo General.
 
-7. El secretario ejecutivo del Consejo General colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+7. La secretaría ejecutiva del Consejo General colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado.
 
 8. El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto, podrá crear comités técnicos especiales para actividades o programas específicos, en que requiera del auxilio o asesoría técnico-científica de especialistas en las materias en que así lo estime conveniente.
 
@@ -2757,11 +2911,11 @@ VI. Cualquier otro que de manera justificada determine el Consejo General del In
 
 ## Título Primero. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Artículo 211
+###### Artículo 211.
 
-1. El proceso electoral es el conjunto de actos ordenados por la Constitución Política de los Estados Unidos Mexicanos, la del Estado, la Ley General y este Código, realizados por las autoridades electorales, los partidos políticos y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Legislativo, Ejecutivo y Ayuntamientos en el Estado de Jalisco.
+1. El proceso electoral es el conjunto de actos ordenados por la Constitución Política de los Estados Unidos Mexicanos, la del Estado, la Ley General y este Código, realizados por las autoridades electorales, los partidos políticos y los ciudadanos, que tiene por objeto la renovación periódica de las y los integrantes de los Poderes Legislativo, Ejecutivo y Ayuntamientos en el Estado de Jalisco. En la postulación para la elección de los Ayuntamientos se garantizará la paridad de género tanto vertical como horizontal.
 
 Artículo 212
 
@@ -3007,6 +3161,10 @@ IV. Munícipes.
 
 2. Los ciudadanos que se registren de forma independiente, no podrán registrarse como candidatos independientes para diputados por el principio de representación proporcional.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+3. Los partidos políticos promoverán y garantizarán la paridad entre los géneros en la postulación de candidaturas a los cargos de elección popular para el Congreso del Estado, las planillas de Ayuntamientos y de las Presidencias Municipales.
+
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 Artículo 237
@@ -3039,9 +3197,9 @@ Artículo 238
 
 Artículo 239
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
-1. Las solicitudes de registro de candidatos sólo podrán presentarse en el formato aprobado por el Consejo General debidamente requisitados, tal y como lo establece el artículo 241, ante el Secretario Ejecutivo del Instituto Electoral, y son:
+1. Las solicitudes de registro de candidatos sólo podrán presentarse en el formato aprobado por el Consejo General junto con los documentos señalados en el artículo 241, ante el Secretario Ejecutivo del Instituto Electoral, y son:
 
 I. Fórmulas de candidatos a Diputados por el principio de mayoría relativa;
 
@@ -3331,9 +3489,13 @@ Artículo 260
 
 1. La propaganda y mensajes que en el curso de las precampañas y campañas Electorales difundan los partidos políticos se ajustarán a lo dispuesto por el párrafo 1del (sic) artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+(NOTA: EL 29 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, TEMA 3.1, DÉCIMO PRIMERO Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2020 Y SUS ACUMULADAS 166/2020 Y 234/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-2. En la propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos, deberán abstenerse de expresiones que calumnien a las instituciones, a los propios partidos, o a las personas. El Consejo General del Instituto Electoral está facultado para solicitar al Instituto Nacional Electoral, ordene la suspensión inmediata de los mensajes en radio o televisión contrarios a esta norma. En el caso de propaganda que se difunda en medios distintos a radio y televisión, ordenará el retiro de cualquier otra propaganda.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+2. En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, los candidatos y los precandidatos deberán abstenerse de expresiones que calumnien A LAS INSTITUCIONES, A LOS PROPIOS PARTIDOS, O a las personas que discriminen o que constituyan actos de violencia política contra las mujeres en razón de género en términos de la ley general, este código y las leyes en la materia. El Consejo General del Instituto Electoral y la comisión de quejas y denuncias estarán facultadas para solicitar al Instituto Nacional Electoral, ordene la suspensión inmediata de los mensajes en radio o televisión contrarios a esta norma.
+
+En el caso de propaganda que se difunda en medios distintos a radio y televisión, ordenará el retiro de cualquier otra propaganda.
 
 3. Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el párrafo 1 del artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
 
@@ -3403,13 +3565,17 @@ VI. Los aspirantes, precandidatos y candidatos deberán retirar y borrar totalme
 
 Artículo 264
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
 
 1. Las campañas electorales para Gobernador tendrán una duración de noventa días.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
 
 2. Las campañas electorales para Diputados y Munícipes tendrán una duración de sesenta días.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+Los plazos señalados en los párrafos anteriores podrán reducirse hasta 30 días, conforme a los términos que establece el artículo 13 fracción VIII de la Constitución Política del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -4557,7 +4723,9 @@ VII. Expedirá las constancias de mayoría a las planillas de Munícipes que obt
 
 Artículo 446
 
-1. Son sujetos de responsabilidad por infracciones cometidas a las disposiciones Electorales contenidas en este Código:
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
+
+1. Son sujetos de responsabilidad por infracciones cometidas a las disposiciones electorales contenidas en este Código:
 
 I. Los partidos políticos;
 
@@ -4582,6 +4750,16 @@ X. Las organizaciones sindicales, laborales o patronales, o de cualquier otra ag
 XI. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión; y
 
 XII. Los demás sujetos obligados en los términos del presente Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+2. Cuando alguno de los sujetos señalados en este artículo sea responsable de las conductas relacionadas por violencia política contra las mujeres en razón de género, contenidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia, será sancionado en términos de lo dispuesto en este capítulo según corresponda de acuerdo con lo dispuesto en el presente código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+3. Las quejas o denuncias por violencia política contra las mujeres en razón de género, se sustanciarán a través del Procedimiento Especial Sancionador.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Artículo 445
 
@@ -4671,6 +4849,22 @@ ADICIONADA, P.O. 19 DE JULIO DE 2011)
 
 XVI. La comisión de cualquiera otra falta de las previstas en este Código.
 
+###### Artículo 446 Bis.
+
+La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción al presente Código por parte de los sujetos de responsabilidad señalados en el artículo 446 de este Código, y se manifiesta, entre otras, a través de las siguientes conductas:
+
+I. Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+II. Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+III. Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+IV. Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+V. Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad, y
+
+VI. Cualquiera otra acción que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
+
 ### Capítulo Tercero. Infracciones de Agrupaciones Políticas
 
 Artículo 448
@@ -4717,11 +4911,11 @@ V. Exceder el tope de gastos de precampaña o campaña establecidos.
 
 VI. El incumplimiento de las obligaciones establecidas por el presente Código en el artículo 263 la fracción VI del párrafo 1 en materia de retiro y borrado de propaganda electoral;
 
-ADICIONADA, P.O. 19 DE JULIO DE 2011)
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VII. Realizar propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, ya sea que por su naturaleza sean inviables, dolosas, incurran en falsedad o sean contrarias al régimen jurídico; y
+VII. Realizar propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, ya sea que por su naturaleza sean inviables, dolosas, incurran en falsedad, sean contrarias al régimen jurídico o constituyan violencia política contra las mujeres en razón de género; y
 
-ADICIONADA, P.O. 19 DE JULIO DE 2011)
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE JULIO DE 2020)</small>
 
 VIII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
@@ -4755,7 +4949,11 @@ XI. La contratación, en forma directa o por terceras personas, de tiempo en cua
 
 XII. La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
 
-XIII. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas, instituciones o los partidos políticos;
+(NOTA: EL 29 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, TEMA 3.1, DÉCIMO PRIMERO Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2020 Y SUS ACUMULADAS 166/2020 Y 234/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XIII. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas, INSTITUCIONES O LOS PARTIDOS POLÍTICOS o constituya violencia política contra las mujeres en razón de género;
 
 XIV. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Nacional Electoral o del Instituto Electoral, y
 
@@ -4807,6 +5005,8 @@ II. El incumplimiento de cualquiera de las disposiciones contenidas en la Ley Ge
 
 Artículo 452
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
+
 1. Constituyen infracciones al presente Código de las autoridades o los servidores públicos, de cualquiera de los Poderes de la Unión; de los poderes locales; órganos de gobierno municipales; órganos autónomos, y cualquier otro ente público:
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
@@ -4815,15 +5015,19 @@ I. La omisión o el incumplimiento de la obligación de prestar colaboración y 
 
 II. La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, excepto la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
 
-III. El incumplimiento del principio de imparcialidad establecido por el artículo 116 Bis de la Constitución local, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+III. El incumplimiento del principio de imparcialidad establecido por el artículo 116 Bis de la Constitución local, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre las personas aspirantes, precandidatas y precandidatos, candidatas y candidatos durante los procesos electorales;
 
 IV. Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el segundo párrafo del artículo 116 Bis de la Constitución local;
 
-V. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal, o del Distrito Federal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+VI. Menoscabar, limitar o impedir el ejercicio de derechos políticos y electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de este Código y de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del estado; y
 
-VI. El incumplimiento de cualquiera de las disposiciones contenidas en la Ley General y este Código.
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN VI], P.O. 1 DE JULIO DE 2020)</small>
+
+VIII (SIC). El incumplimiento de cualquiera de las disposiciones contenidas en la Ley General y este Código.
 
 ### Capítulo Octavo. Infracciones de los Notarios Públicos
 
@@ -4889,7 +5093,11 @@ III. Incurrir en cualquier conducta que les sea prohibida por este Código.
 
 Artículo 458
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
+
 1. Las infracciones señaladas en los artículos anteriores serán sancionadas conforme a lo siguiente:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
 
 I. Respecto de los partidos políticos:
 
@@ -4901,17 +5109,19 @@ b) Con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Ac
 
 c) Con hasta un tanto del monto ejercido en exceso, en los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas. En caso de reincidencia, la sanción será de hasta dos tantos;
 
-d) Con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público para actividades ordinarias que les corresponda, por el periodo que señale la resolución, dependiendo de la gravedad de la falta;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+d) Con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público para actividades ordinarias que les corresponda, por el periodo que señale la resolución, dependiendo de la gravedad de la falta. Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución.
 
 e) Con la interrupción de la transmisión de la propaganda política o electoral que se transmita, dentro del tiempo que le sea asignado por el Instituto, en violación de las disposiciones de este Código;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-f) Con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, la violación a lo dispuesto en la fracción XVI del párrafo 1 del artículo 68 de este Código. La reincidencia durante las precampañas y campañas electorales, se podrá sancionar hasta con la supresión total de las prerrogativas de acceso a radio y televisión por un mes; y
+f) Con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, la violación a lo dispuesto en la fracción XVI del párrafo 1 del artículo 68 de este Código, así como tratándose de incumplimiento a las obligaciones para prevenir, atender, sancionar y erradicar la violencia política contra las mujeres en razón de género. La reincidencia durante las precampañas y campañas electorales, se podrá sancionar hasta con la supresión total de las prerrogativas de acceso a radio y televisión, hasta por un mes o por el periodo que señale la resolución;
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-g) Cancelación del registro si se trata de partidos políticos locales, o la supresión total hasta por tres años del financiamiento público para actividades ordinarias si se trata de partidos políticos nacionales acreditados, en los casos de graves y reiteradas conductas violatorias de la Constitución Política de los Estados Unidos Mexicanos, de las leyes aplicables y de este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos.
+g) Cancelación del registro si se trata de partidos políticos locales, o la supresión total hasta por tres años del financiamiento público para actividades ordinarias si se trata de partidos políticos nacionales acreditados, en los casos de graves y reiteradas conductas violatorias de la Constitución Política de los Estados Unidos Mexicanos, de las leyes aplicables y de este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, así como por el incumplimiento de sus obligaciones para prevenir, atender, sancionar y erradicar la violencia política contra las mujeres en razón de género.
 
 II. Respecto de las agrupaciones políticas:
 
@@ -4927,11 +5137,13 @@ III. Respecto de los aspirantes, precandidatos o candidatos a cargos de elecció
 
 a) Con amonestación pública;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización; y
+b) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización. Si la infracción es cometida por violencia política contra las mujeres en razón de género y ésta fuese contra mujeres indígenas, con discapacidad, afrodescendientes o por su preferencia, identidad u orientación sexual, además la multa se incrementará en una mitad;
 
 c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o con la cancelación si ya estuviere registrado. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
 
 IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o de cualquiera persona física o moral:
 
@@ -4941,13 +5153,13 @@ a) Con amonestación pública; a los dirigentes y afiliados a partidos político
 
 b) Con multa de hasta quinientos veces el valor diario de la Unidad de Medida y Actualización; a los dirigentes y afiliados a los partidos políticos o cualquiera persona física en el caso de aportaciones que violen lo dispuesto en la Ley General y este Código; o tratándose de la compra o adquisición de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-c) Con multa de hasta cien mil veces el valor diario de la Unidad de Medida y Actualización, a las personas jurídicas por las conductas señaladas en la fracción anterior; o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo;
+c) Con multa de hasta cien mil veces el valor diario de la Unidad de Medida y Actualización, a las personas jurídicas por las conductas señaladas en la fracción anterior, así como por la comisión de actos de violencia política contra las mujeres en razón de género. Tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-d) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil veces el valor diario de la Unidad de Medida y Actualización, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones; y
+d) Respecto de las y los ciudadanos, de las y los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil veces el valor diario de la Unidad de Medida y Actualización, en el caso de que promuevan una denuncia frívola, así como en los casos en que este tipo de denuncia constituya un acto de violencia política contra las mujeres en razón de género de conformidad con lo establecido en este Código y en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del estado de Jalisco. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones; y
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -4999,7 +5211,7 @@ e) En caso de que el Candidato Independiente omita informar y comprobar a la uni
 
 Artículo 459
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
 
 1. Cuando las autoridades federales, estatales o municipales incumplan la presente legislación o incurran en alguna de las infracciones contempladas por el artículo 452, se estará a lo siguiente:
 
@@ -5041,13 +5253,23 @@ VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del in
 
 6. Se considerará reincidente al infractor que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones a que se refiere a la Ley General y el presente Código incurra nuevamente en la misma conducta infractora.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-7. Las multas deberán ser pagadas en la Dirección de Administración y Finanzas del Instituto Electoral; si el infractor no cumple voluntariamente con el pago, el Instituto Electoral dará vista a la Secretaria de Planeación, Administración y Finanzas del Estado a efecto de que proceda a su cobro conforme al procedimiento económico coactivo previsto en la legislación fiscal local. En el caso de los partidos políticos, el monto de las sanciones pecuniarias se les restará de sus ministraciones del financiamiento público ordinario conforme a lo que se determine en la resolución.
+7. Las multas deberán ser pagadas en la Dirección de Administración y Finanzas del Instituto Electoral; si el infractor no cumple voluntariamente con el pago, el Instituto Electoral dará vista a la Secretaría de la Hacienda Pública del Estado a efecto de que proceda a su cobro conforme al procedimiento económico coactivo previsto en la legislación fiscal local. En el caso de los partidos políticos, el monto de las sanciones pecuniarias se les restará de sus ministraciones del financiamiento público ordinario conforme a lo que se determine en la resolución.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
 
 8. Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en éste Código serán destinados al organismo estatal encargado de la promoción, fomento y desarrollo de la ciencia, tecnología e innovación, una vez quede firme la resolución correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+9. En la resolución de los procedimientos sancionadores, por violencia política en contra de las mujeres por razón de género se aplicará lo dispuesto en la ley general.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JULIO DE 2020)</small>
+
+### Capítulo Décimo Tercero BIS. De las Medidas cautelares y de Reparación
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
 ### Capítulo Primero. Disposiciones Generales
 
@@ -5186,6 +5408,36 @@ Artículo 463 Bis
 Artículo 464
 
 1. Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos porque existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
+
+###### Artículo 459 Bis.
+
+1. En los procedimientos relacionados con violencia política contra las mujeres en razón de género, cuando se presenten denuncias, o de oficio, atendiendo su competencia se podrá ordenar o solicitar a la autoridad competente, las siguientes medidas cautelares y órdenes de protección:
+
+I. Realizar análisis de riesgos y un plan de seguridad, con la colaboración de instituciones especializadas;
+
+II. Ordenar el retiro de la campaña violenta contra la víctima, haciendo públicas las razones;
+
+III. Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+IV. Ordenar la suspensión del cargo partidista, de la persona agresora; y
+
+V. Cualquier otra requerida para la protección de la mujer víctima, o quien ella solicite.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+###### Artículo 459 Ter.
+
+1. En la resolución de los procedimientos sancionadores por violencia política en contra de las mujeres por razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral que correspondan, considerando al menos las siguientes:
+
+I. Indemnización de la víctima;
+
+II. Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia, salvo que represente un riesgo para su integridad física;
+
+III. Disculpa pública y que se utilice el tiempo correspondiente con cargo a las prerrogativas de radio y televisión del partido político de la persona infractora, y
+
+IV. Medidas de no repetición.
+
+## Título Segundo. De los Procedimientos Sancionadores
 
 ### Capítulo Segundo. Del Procedimiento Sancionador Ordinario
 
@@ -5339,8 +5591,6 @@ V. Rechazado un proyecto de resolución se entiende que se aprueba un acuerdo de
 
 8. En el desahogo de los puntos del orden del día en el que el Consejo deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
 
-## Título Segundo. De los Procedimientos Sancionadores
-
 ### Capítulo Tercero. Del Procedimiento Sancionador Especial
 
 Artículo 471
@@ -5351,9 +5601,17 @@ Artículo 471
 
 I. Constituya propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales los poderes públicos, los órganos autónomos, dependencia y entidades de la administración púbica, los municipios, organismos públicos descentralizados y cualquier otro ente público, que no tenga carácter institucional y fines informativos, educativos o de orientación social. Que la propaganda incluya nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público;
 
-II. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en este Código; o
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-III. Constituyan actos anticipados de precampaña o campaña.
+II. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en este Código;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+III. Constituyan actos anticipados de precampaña o campaña, o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+IV. Constituyan Actos de Violencia Política contra las Mujeres en razón de género.
 
 Artículo 472
 
@@ -5361,9 +5619,9 @@ Artículo 472
 
 1. Cuando una conducta infractora esté relacionada con propaganda política o electoral en radio y televisión durante la etapa de los procesos electorales en el Estado, el Instituto Electoral presentará la denuncia ante el Instituto Nacional Electoral, dentro de las veinticuatro horas siguientes al momento en que tuvo conocimiento del hecho.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-2. Los procedimientos sancionadores relacionados con la difusión de propaganda que calumnie en medios distintos a radio y televisión, sólo podrán iniciar a instancia de parte afectada. Se entenderá por calumnia la imputación de hechos o delitos falsos con impacto en un proceso electoral.
+2. Los procedimientos sancionadores relacionados con la difusión de propaganda que calumnie o ejerza violencia política contra las mujeres en razón de género en medios distintos a radio y televisión, sólo podrán iniciar a instancia de parte afectada. Se entenderá por calumnia la imputación de hechos o delitos falsos con impacto en un proceso electoral. Por violencia política contra las mujeres en razón de género se entenderá lo dispuesto en la fracción VII del artículo 11 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco.
 
 3. La denuncia deberá reunir los siguientes requisitos:
 
@@ -5567,6 +5825,8 @@ X. Las previstas, por la Ley de Responsabilidades de los Servidores Públicos de
 
 XI. Las demás que determine este Código o las leyes que resulten aplicables.
 
+## Título Tercero. De las Responsabilidades de los Servidores Públicos del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco
+
 ### Capítulo Segundo. Del Procedimiento para la Determinación de Responsabilidades Administrativas
 
 Artículo 485
@@ -5656,8 +5916,6 @@ Artículo 490
 Artículo 491
 
 1. Las resoluciones que impongan sanciones administrativas podrán ser impugnadas través (sic) de los medios de defensa que establezcan el Estatuto y los demás ordenamientos de carácter reglamentario; los interesados podrán optar por la impugnación directa de aquéllas ante el Tribunal Electoral en los términos del Libro Séptimo de este Código.
-
-## Título Tercero. De las Responsabilidades de los Servidores Públicos del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco
 
 ### Capítulo Tercero. De la Contraloría General
 
@@ -5785,6 +6043,30 @@ Artículo 499
 
 4. En ningún caso los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
 
+###### Artículo 496.
+
+1. Los servidores públicos adscritos a la Contraloría General y los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de desempeño de sus funciones así como de sus actuaciones y observaciones.
+
+Artículo 497
+
+1. Los órganos, áreas ejecutivas y servidores públicos del Instituto están obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les formule la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que este Código o las leyes aplicables les confieren.
+
+Artículo 498
+
+1. Si transcurrido el plazo establecido por la Contraloría General, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, la Contraloría procederá a fincar las responsabilidades que correspondan conforme a derecho.
+
+2. El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que las motivaron.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+3. La Contraloría, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción, el incumplimiento será motivo de nueva responsabilidad. Si la infracción fuera cometida por algún consejero electoral, deberá realizar un informe circunstanciado y deberá remitirlo al Consejo General del Instituto Nacional Electoral o la autoridad correspondiente para que se imponga la sanción respectiva.
+
+4. Durante el desahogo de los procedimientos administrativos tendientes, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
+
+# Libro Séptimo. Sistema de Medios de Impugnación
+
+## Título Primero. Sistema de Medios de Impugnación
+
 ### Capítulo Segundo. Disposiciones Generales
 
 Artículo 500
@@ -5831,30 +6113,6 @@ Artículo 503
 
 1. Las autoridades estatales, municipales, así como los ciudadanos, partidos políticos, candidatos, organizaciones y agrupaciones políticas o de ciudadanos, y todas aquellas personas físicas o morales, que con motivo del trámite, sustanciación y resolución de los medios de impugnación previstos en este Libro, no cumplan las disposiciones de este Código o desacaten las resoluciones que dicten el Tribunal Electoral o, en su caso, los órganos del Instituto Electoral, serán sancionados en los términos del presente ordenamiento.
 
-###### Artículo 496.
-
-1. Los servidores públicos adscritos a la Contraloría General y los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de desempeño de sus funciones así como de sus actuaciones y observaciones.
-
-Artículo 497
-
-1. Los órganos, áreas ejecutivas y servidores públicos del Instituto están obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les formule la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que este Código o las leyes aplicables les confieren.
-
-Artículo 498
-
-1. Si transcurrido el plazo establecido por la Contraloría General, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, la Contraloría procederá a fincar las responsabilidades que correspondan conforme a derecho.
-
-2. El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que las motivaron.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-3. La Contraloría, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción, el incumplimiento será motivo de nueva responsabilidad. Si la infracción fuera cometida por algún consejero electoral, deberá realizar un informe circunstanciado y deberá remitirlo al Consejo General del Instituto Nacional Electoral o la autoridad correspondiente para que se imponga la sanción respectiva.
-
-4. Durante el desahogo de los procedimientos administrativos tendientes, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
-
-# Libro Séptimo. Sistema de Medios de Impugnación
-
-## Título Primero. Sistema de Medios de Impugnación
-
 ### Capítulo Primero. Prevenciones Generales
 
 Artículo 504
@@ -5866,6 +6124,8 @@ Artículo 504
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 3. El Tribunal Electoral, resolverá los asuntos de su competencia con las facultades de autonomía técnica y de gestión e (sic) su funcionamiento e independencia en sus decisiones que le otorga la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Jalisco, la Ley General y las disposiciones del presente ordenamiento.
+
+## Título Segundo. Reglas Comunes Aplicables a los Medios de Impugnación
 
 ### Capítulo Segundo. Plazos y Términos
 
@@ -5882,8 +6142,6 @@ Artículo 505
 5. (DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
-
-## Título Segundo. Reglas Comunes Aplicables a los Medios de Impugnación
 
 ### Capítulo Tercero. Requisitos de los Medios de Impugnación
 
@@ -5914,6 +6172,10 @@ X. Firma autógrafa del promovente o huella digital.
 2. Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en la fracción VI.
 
 3. Las partes podrán solicitar copias simples o certificadas de los documentos que obren en los expedientes de los medios de impugnación, las que serán expedidas a costa del solicitante. La certificación no causará impuesto o derecho alguno.
+
+###### Artículo 506.
+
+1. Los medios de impugnación previstos en este Código deberán presentarse dentro de los seis días contados a partir del siguiente al en que surta efectos la notificación del acto o resolución impugnado, salvo las excepciones previstas expresamente en el presente ordenamiento.
 
 ### Capítulo Cuarto. Desechamiento, Improcedencia y Sobreseimiento
 
@@ -5970,10 +6232,6 @@ Artículo 511
 I. En los asuntos de la competencia del Tribunal, el Magistrado Electoral propondrá el sobreseimiento al Pleno del Tribunal; y
 
 II. En los asuntos de la competencia del Consejo General del Instituto Electoral y de sus órganos desconcentrados, el Secretario respectivo, propondrá el dictamen del sobreseimiento al órgano competente quien resolverá lo conducente.
-
-###### Artículo 506.
-
-1. Los medios de impugnación previstos en este Código deberán presentarse dentro de los seis días contados a partir del siguiente al en que surta efectos la notificación del acto o resolución impugnado, salvo las excepciones previstas expresamente en el presente ordenamiento.
 
 ### Capítulo Quinto. Partes
 
@@ -6171,7 +6429,9 @@ Artículo 533
 
 Artículo 534
 
-1. Dentro de las veinticuatro horas siguientes al vencimiento del plazo a que se refiere el artículo 506, la autoridad responsable del acto o resolución impugnado deberá remitir al órgano del Instituto Electoral o al Tribunal Electoral lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+
+1. Dentro de las veinticuatro horas siguientes al vencimiento del plazo a que se refiere el artículo 530, la autoridad responsable del acto o resolución impugnado deberá remitir al órgano del Instituto Electoral o al Tribunal Electoral lo siguiente:
 
 I. El escrito original mediante el cual se presenta el medio de impugnación, las pruebas y demás documentos que a el se hayan acompañado;
 
@@ -6387,6 +6647,24 @@ Artículo 560
 
 2. Dictado el acuerdo de separación, el Magistrado Instructor concluirá la sustanciación por separado de los expedientes que hubiesen resultado, formulando los diversos proyectos de sentencia.
 
+###### Artículo 557.
+
+(DEROGADO, P.O. 19 DE JULIO DE 2011)
+
+Artículo 558
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación en estrados, los actos o resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través de:
+
+I. El periódico oficial de la entidad;
+
+II. Los diarios o periódicos de circulación local;
+
+III. Lugares públicos; o
+
+IV. La fijación de cédulas en los estrados de los órganos del Instituto Electoral y del Tribunal Electoral.
+
 ### Capítulo Décimo Tercero. Medios de Apremio y Correcciones Disciplinarias
 
 Artículo 561
@@ -6439,35 +6717,7 @@ Artículo 569
 
 1. El responsable podrá solicitar, dentro de las veinticuatro horas siguientes, audiencia ante el órgano jurisdiccional que determinó el medio de apremio o corrección disciplinaria, para solicitar sea reconsiderada la determinación.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 570
-
-1. Las multas que fije el Tribunal Electoral se harán efectivas ante la Secretaría de Planeación, Administración y Finanzas de la Entidad, en un plazo improrrogable de quince días contados a partir de la notificación a la persona sancionada, aquella deberá informar del debido cumplimiento, para efectos de ordenar el archivo del asunto.
-
-Artículo 571
-
-1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo 561, serán aplicados de conformidad con las reglas previstas en este capítulo.
-
-2. Para hacer cumplir las disposiciones del presente ordenamiento y las resoluciones que dicten los órganos del Instituto Electoral, el Consejo General podrá aplicar discrecionalmente las sanciones a que le faculta este Código.
-
-###### Artículo 557.
-
-(DEROGADO, P.O. 19 DE JULIO DE 2011)
-
-Artículo 558
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
-
-1. No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación en estrados, los actos o resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través de:
-
-I. El periódico oficial de la entidad;
-
-II. Los diarios o periódicos de circulación local;
-
-III. Lugares públicos; o
-
-IV. La fijación de cédulas en los estrados de los órganos del Instituto Electoral y del Tribunal Electoral.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 ### Capítulo Único. Disposiciones Generales
 
@@ -6491,6 +6741,18 @@ IV. El Juicio para la Protección de los Derechos Políticos Electorales del Ciu
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
+###### Artículo 570.
+
+1. Las multas que fije el Tribunal Electoral se harán efectivas ante la Secretaría de la Hacienda Pública, en un plazo improrrogable de quince días contados a partir de la notificación a la persona sancionada, aquella deberá informar del debido cumplimiento, para efectos de ordenar el archivo del asunto.
+
+Artículo 571
+
+1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo 561, serán aplicados de conformidad con las reglas previstas en este capítulo.
+
+2. Para hacer cumplir las disposiciones del presente ordenamiento y las resoluciones que dicten los órganos del Instituto Electoral, el Consejo General podrá aplicar discrecionalmente las sanciones a que le faculta este Código.
+
+## Título Tercero. Medios de Impugnación en Materia Electoral
+
 ### Capítulo Único. Procedencia y Competencia
 
 Artículo 577
@@ -6504,32 +6766,6 @@ Artículo 578
 Artículo 579
 
 1. Los recursos de revisión que se interpongan en contra de actos o resoluciones del Secretario Ejecutivo, actuando como encargado del despacho de la Presidencia del Instituto Electoral, serán resueltos por el Consejo General del propio Instituto Electoral. En estos casos, se designará al funcionario que deba suplir al Secretario Ejecutivo para sustanciar el expediente y presentar el proyecto de resolución al órgano colegiado.
-
-###### Artículo 570.
-
-I. Las multas que fije el Tribunal Electoral se harán efectivas ante la Secretaría de Finanzas de la Entidad, en un plazo improrrogable de quince días contados a partir de la notificación a la persona sancionada, aquella deberá informar del debido cumplimiento, para efectos de ordenar el archivo del asunto.
-
-Artículo 571
-
-1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo 561, serán aplicados de conformidad con las reglas previstas en este capítulo.
-
-2. Para hacer cumplir las disposiciones del presente ordenamiento y las resoluciones que dicten los órganos del Instituto Electoral, el Consejo General podrá aplicar discrecionalmente las sanciones a que le faculta este Código.
-
-## Título Tercero. Medios de Impugnación en Materia Electoral
-
-### Capítulo Primero. Procedencia del Recurso de Revisión
-
-Artículo 580
-
-1. El recurso de revisión procede en contra de los actos o resoluciones pronunciadas por:
-
-I. El Instituto Electoral;
-
-II. Los Consejos Distritales y Municipales Electorales; y
-
-III. (DEROGADA, P.O. 16 DE JUNIO DE 2016)
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ###### Artículo 573.
 
@@ -6548,6 +6784,22 @@ Artículo 575
 (DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ## Título Cuarto. Recursos Administrativos
+
+### Capítulo Primero. Procedencia del Recurso de Revisión
+
+Artículo 580
+
+1. El recurso de revisión procede en contra de los actos o resoluciones pronunciadas por:
+
+I. El Instituto Electoral;
+
+II. Los Consejos Distritales y Municipales Electorales; y
+
+III. (DEROGADA, P.O. 16 DE JUNIO DE 2016)
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+## Título Quinto. Recurso de Revisión
 
 ### Capítulo Segundo. Sustanciación y Resolución
 
@@ -6597,20 +6849,6 @@ Artículo 590
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-## Título Quinto. Recurso de Revisión
-
-### Capítulo Tercero. Notificaciones
-
-Artículo 594
-
-1. Las resoluciones que recaigan a los recursos de revisión serán notificadas dentro de las cuarenta y ocho horas siguientes:
-
-I. A los promoventes, partidos políticos que no tengan representantes acreditados, o en caso de inasistencia de éstos a la sesión en que se dictó la resolución, se les hará personalmente en el domicilio que hubieren señalado o por estrados;
-
-II. Al órgano del Instituto Electoral cuyo acto o resolución fue impugnado, se le hará por correo certificado o por oficio al cual se le anexará copia de la resolución; y
-
-III. A los terceros interesados, por correo certificado.
-
 ###### Artículo 581.
 
 1. En contra de la resolución que dicte el Consejo General al resolver un recurso de revisión, procede el recurso de apelación.
@@ -6642,6 +6880,30 @@ IV. Los representantes de los candidatos independientes acreditados ante el Inst
 ###### Artículo 584.
 
 1. Los órganos electorales ante quienes se presente el recurso de revisión, lo deberán remitir al Consejo General dentro de las veinticuatro horas siguientes a su recepción, adjuntando el informe respectivo. No será aplicable esta disposición a los casos en que el recurso se hubiese interpuesto directamente ante el Instituto Electoral.
+
+### Capítulo Tercero. Notificaciones
+
+Artículo 594
+
+1. Las resoluciones que recaigan a los recursos de revisión serán notificadas dentro de las cuarenta y ocho horas siguientes:
+
+I. A los promoventes, partidos políticos que no tengan representantes acreditados, o en caso de inasistencia de éstos a la sesión en que se dictó la resolución, se les hará personalmente en el domicilio que hubieren señalado o por estrados;
+
+II. Al órgano del Instituto Electoral cuyo acto o resolución fue impugnado, se le hará por correo certificado o por oficio al cual se le anexará copia de la resolución; y
+
+III. A los terceros interesados, por correo certificado.
+
+###### Artículo 591.
+
+1. Cuando a juicio del Tribunal Electoral los recursos de revisión que le hubieran sido remitidos, no guarden relación con algún juicio de inconformidad, procederá a reenviarlos al Consejo General a efecto de que los tramite y resuelva.
+
+Artículo 592
+
+1. La no aportación de las pruebas ofrecidas no será causa de desechamiento del recurso de revisión o del escrito del tercero interesado. En este caso, se resolverá con los elementos que obren en autos.
+
+Artículo 593
+
+1. Las resoluciones que recaigan a los recursos de revisión tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
 
 ### Capítulo Único. Competencia
 
@@ -6675,17 +6937,7 @@ Artículo 598
 
 1. Interpuesta la demanda de juicio de inconformidad, de juicio para la protección de los derechos político-electorales del ciudadano o del recurso de apelación, el Pleno del Tribunal Electoral, dictará las resoluciones que procedan.
 
-###### Artículo 591.
-
-1. Cuando a juicio del Tribunal Electoral los recursos de revisión que le hubieran sido remitidos, no guarden relación con algún juicio de inconformidad, procederá a reenviarlos al Consejo General a efecto de que los tramite y resuelva.
-
-Artículo 592
-
-1. La no aportación de las pruebas ofrecidas no será causa de desechamiento del recurso de revisión o del escrito del tercero interesado. En este caso, se resolverá con los elementos que obren en autos.
-
-Artículo 593
-
-1. Las resoluciones que recaigan a los recursos de revisión tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
+## Título Sexto. Medios Judiciales de Impugnación
 
 ### Capítulo Primero. Procedencia
 
@@ -6745,7 +6997,7 @@ Artículo 603
 
 1. Será requisito de procedencia para la apelación, el que se hubiesen agotado los recursos administrativos que señala este Código para cada caso concreto; de lo contrario se desechará de plano.
 
-## Título Sexto. Medios Judiciales de Impugnación
+## Título Séptimo. Recurso de Apelación
 
 ### Capítulo Segundo. Competencia y Sustanciación
 
@@ -6772,8 +7024,6 @@ Artículo 606
 Artículo 607
 
 1. Al recurso de apelación que se haga valer en contra de un acto o resolución cuyos efectos no tengan relación con el proceso electoral, se le dará el trámite y resolución que en derecho corresponda.
-
-## Título Séptimo. Recurso de Apelación
 
 ### Capítulo Tercero. Sentencias y Notificaciones
 
@@ -6805,11 +7055,9 @@ Artículo 611
 
 Artículo 612
 
-(NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL NÚMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
-
-1. El juicio de inconformidad se podrá promover por los partidos políticos o coaliciones, por conducto de sus dirigentes o representantes legales acreditados ante el órgano electoral responsable, así como por el representante partidista acreditado ante el Consejo General del Instituto Electoral, y por los candidatos por su propio derecho SIN QUE SEA VÁLIDA REPRESENTACIÓN ALGUNA, en contra de:
+1. El juicio de inconformidad se podrá promover por los partidos políticos, coaliciones o candidatos independientes, por conducto de sus dirigentes o representantes legales acreditados ante el órgano electoral responsable, así como por el representante partidista acreditado ante el Consejo General del Instituto Electoral, y por los candidatos por su propio derecho, en contra de:
 
 I. Los resultados consignados en las actas de cómputo:
 
@@ -6832,6 +7080,8 @@ V. La asignación que realice el Instituto Electoral respecto de la elección:
 a) De Diputados de representación proporcional; y
 
 b) De Munícipes por el principio de representación proporcional.
+
+## Título Octavo. Juicio de Inconformidad
 
 ### Capítulo Segundo. Requisitos Especiales del Escrito de Demanda
 
@@ -6874,8 +7124,6 @@ Artículo 618
 Artículo 619
 
 1. Cuando se pretenda impugnar las elecciones de Diputados por ambos principios, el promovente deberá presentar dos escritos, los cuales deberán reunir los requisitos de forma dispuestos en el artículo 507, de los que se incoaran expedientes por cuerda separada y dentro de los plazos previstos en el presente Código.
-
-## Título Octavo. Juicio de Inconformidad
 
 ### Capítulo Tercero. Legitimación y Personería
 
@@ -6935,6 +7183,8 @@ Artículo 627
 
 1. En el caso de que al escrito de demanda no se haya acompañado el documento que acredite la personería del promovente, no se requerirá por su exhibición, cuando aparezca legalmente acreditada la personería en las constancias o informes que obren en la documentación anexa al medio de impugnación que remita la autoridad responsable.
 
+## Título Noveno. Nulidades y sus Declaratorias
+
 ### Capítulo Quinto. Sentencias y sus Efectos
 
 Artículo 628
@@ -6985,18 +7235,6 @@ b) Munícipes por el principio de representación proporcional, que realice el C
 
 X. Confirmar, modificar o revocar la Constancia de Mayoría de votos de la elección de Gobernador.
 
-## Título Noveno. Nulidades y sus Declaratorias
-
-### Capítulo Sexto. Sección de Ejecución
-
-Artículo 631
-
-1. El Tribunal Electoral podrá modificar el acta o las actas de cómputo respectivas en la sección de ejecución que para tal efecto abran al resolver el último de los juicios que se hubiere promovido en contra de la misma elección.
-
-Artículo 632
-
-1. Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección previstos en este Código, el Tribunal Electoral decretará lo conducente, aun cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
-
 ###### Artículo 613.
 
 (DEROGADO, P.O. 16 DE JUNIO DE 2016)
@@ -7020,6 +7258,16 @@ II. En los supuestos de procedencia previstos en las fracciones I, II, III y V d
 Artículo 616
 
 1. En el supuesto de procedencia previsto en el inciso c) de la fracción X del artículo 617, cualquiera de los candidatos que integren la planilla de Munícipes, estará facultado para promover la inconformidad en su carácter de actor siempre y cuando se demuestre la afectación a su interés jurídico, y el partido político o coalición que los postuló no haga valer la inconformidad.
+
+### Capítulo Sexto. Sección de Ejecución
+
+Artículo 631
+
+1. El Tribunal Electoral podrá modificar el acta o las actas de cómputo respectivas en la sección de ejecución que para tal efecto abran al resolver el último de los juicios que se hubiere promovido en contra de la misma elección.
+
+Artículo 632
+
+1. Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección previstos en este Código, el Tribunal Electoral decretará lo conducente, aun cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
 
 ### Capítulo Séptimo. Términos para Resolver el Juicio de Inconformidad
 
@@ -7259,8 +7507,6 @@ III. Cuando se presente alguna de las causas señaladas en la Constitución Pol�
 
 2. Las elecciones cuyos cómputos, constancias de mayoría y validez o de asignación no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
 
-### Capítulo Primero. Disposición General
-
 ###### Artículo 629.
 
 (DEROGADO, P.O. 16 DE JUNIO DE 2016)
@@ -7269,13 +7515,17 @@ Artículo 630
 
 1. Las sentencias que recaigan a los juicios de inconformidad, serán definitivas e inatacables.
 
+### Capítulo Primero. Disposición General
+
 ### Capítulo Segundo. Personería y Legitimación
 
 ### Capítulo Tercero. Actos y Resoluciones Impugnables
 
+## Título Décimo. Medios de Impugnación para Dirimir Controversias Respecto de los Procesos de Participación Ciudadana
+
 ### Capítulo Cuarto. Trámite, Sustanciación y Resolución
 
-## Título Décimo. Medios de Impugnación para Dirimir Controversias Respecto de los Procesos de Participación Ciudadana
+## Título Décimo Primero. Procedimientos Especiales para Dirimir los Conflictos o Diferencias Laborales entre el Instituto Electoral y sus Servidores
 
 ### Capítulo Primero. Reglas Especiales
 
@@ -7287,11 +7537,17 @@ Artículo 654
 
 Artículo 655
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
+
 1. Para lo no previsto en el presente ordenamiento, se aplicará supletoriamente y en forma jerárquica:
+
+> <small>(REFORMADO N. DE. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
 
 a) Los principios generales de justicia social que derivan del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
-b) La Ley de Servidores Públicos para el Estado de Jalisco y sus Municipios;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+b) La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
 
 c) La Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional;
 
@@ -7303,7 +7559,9 @@ f) La costumbre; y
 
 g) La equidad.
 
-## Título Décimo Primero. Procedimientos Especiales para Dirimir los Conflictos o Diferencias Laborales entre el Instituto Electoral y sus Servidores
+###### Artículo 645.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ### Capítulo Segundo. Trámite, Sustanciación y Resolución
 
@@ -7483,7 +7741,11 @@ Artículo 681
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
-###### Artículo 645.
+###### Artículo 646.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 647.
 
 (DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
@@ -7555,11 +7817,23 @@ Artículo 690
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
-###### Artículo 646.
+###### Artículo 648.
 
 (DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
-###### Artículo 647.
+###### Artículo 649.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 650.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 651.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 652.
 
 (DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
@@ -7581,25 +7855,13 @@ IV. Del registro de Candidatos Independientes.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
 
-###### Artículo 648.
+###### Artículo 653.
 
 (DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
-###### Artículo 649.
+## Título Primero
 
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
-
-###### Artículo 650.
-
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
-
-###### Artículo 651.
-
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
-
-###### Artículo 652.
-
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 ### Capítulo Segundo. De la Convocatoria
 
@@ -7612,14 +7874,6 @@ Artículo 692
 2. El Instituto Electoral dará amplia difusión a la Convocatoria.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
-
-###### Artículo 653.
-
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
-
-## Título Primero
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 ### Capítulo Tercero. De los Actos Previos al Registro de Candidatos Independientes
 
@@ -7642,6 +7896,14 @@ Artículo 693
 7. No podrá registrarse como candidato independiente a ningún cargo de elección popular, quien no tenga reconocido el carácter de aspirante en la fecha señalada en el párrafo anterior.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
+# LIBRO OCTAVO. De las Candidaturas Independientes
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
+## Título Segundo. Del Proceso de Selección de Candidatos Independientes
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
 
 ### Capítulo Cuarto. De la Obtención del Apoyo Ciudadano
 
@@ -7745,13 +8007,9 @@ Artículo 703
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
-# LIBRO OCTAVO. De las Candidaturas Independientes
+## Título Tercero. De las Prerrogativas, Derechos y Obligaciones
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
-
-## Título Segundo. Del Proceso de Selección de Candidatos Independientes
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 ### Capítulo Quinto. De los Derechos y Obligaciones de los Aspirantes
 
@@ -7776,6 +8034,8 @@ VI. Los demás establecidos por este Código.
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
 
 Artículo 705
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADA], P.O. 1 DE JULIO DE 2020)</small>
 
 1. Son obligaciones de los aspirantes:
 
@@ -7807,13 +8067,17 @@ VI. Abstenerse de proferir ofensas, difamación o calumnia a otros aspirantes o 
 
 VII. Rendir el informe de ingresos y egresos;
 
-VIII. Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en los términos que establece el presente Código, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-IX. Las demás establecidas por este Código.
+VIII. Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en los términos que establece el presente Código;
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
-## Título Tercero. De las Prerrogativas, Derechos y Obligaciones
+IX. Abstenerse de realizar conductas que constituyan violencia política contra las mujeres en razón de género o de recurrir a expresiones que degraden, denigren o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN IX], P.O. 1 DE JULIO DE 2020)</small>
+
+X . Las demás establecidas por este código.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -7856,36 +8120,6 @@ Artículo 739
 2. De conformidad con el artículo 41 fracción V, apartado B, inciso a) numeral 6 de la Constitución Política de los Estados Unidos Mexicanos, corresponde al Instituto Nacional Electoral, a través de los órganos que establece la Ley General la fiscalización de los ingresos y egresos de los candidatos Independientes y los aspirantes a candidatos Independientes.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
-
-### Capítulo Primero. De la Documentación y el Material Electoral
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 740
-
-1. Los Candidatos Independientes figurarán en la misma boleta que el Instituto Nacional Electoral apruebe para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen, de conformidad con (sic) Ley General.
-
-2. Se utilizará un recuadro para cada Candidato Independiente o fórmula de Candidatos Independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 741
-
-1. En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del Candidato Independiente o de los integrantes de la fórmula de Candidatos Independientes.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 742
-
-1. En la boleta no se incluirá, ni la fotografía, ni la silueta del candidato.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 743
-
-1. Los documentos electorales serán elaborados por el Instituto Electoral, aplicando en lo conducente lo dispuesto en (sic) Ley General y este Código para la elaboración de la documentación y el material electoral.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 #### Sección Primera. De los Requisitos de Elegibilidad
 
@@ -8047,19 +8281,35 @@ Artículo 717
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
-### Capítulo Segundo. Del Cómputo de los Votos
+### Capítulo Primero. De la Documentación y el Material Electoral
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
 
-Artículo 744
+Artículo 740
 
-1. Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un Candidato Independiente, en términos de lo dispuesto por este Código.
+1. Los Candidatos Independientes figurarán en la misma boleta que el Instituto Nacional Electoral apruebe para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen, de conformidad con (sic) Ley General.
+
+2. Se utilizará un recuadro para cada Candidato Independiente o fórmula de Candidatos Independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
 
-Artículo 745
+Artículo 741
 
-1. Los votos recibidos a favor de Candidatos Independientes, no serán contabilizados para la asignación de diputados por el principio de representación proporcional, en los términos de la Constitución Política de los Estados Unidos Mexicanos, Constitución Local, Ley General y este Código.
+1. En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del Candidato Independiente o de los integrantes de la fórmula de Candidatos Independientes.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 742
+
+1. En la boleta no se incluirá, ni la fotografía, ni la silueta del candidato.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 743
+
+1. Los documentos electorales serán elaborados por el Instituto Electoral, aplicando en lo conducente lo dispuesto en (sic) Ley General y este Código para la elaboración de la documentación y el material electoral.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 #### Sección Primera. Disposiciones Generales
 
@@ -8133,9 +8383,17 @@ XIII. Abstenerse de recibir aportaciones y donaciones en efectivo, así como met
 
 XIV. Presentar, en los mismos términos en que lo hagan los partidos políticos, los informes de campaña sobre el origen y monto de todos sus ingresos, así como su aplicación y empleo;
 
-XV. Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-XVI. Las demás que establezcan este Código y los demás ordenamientos.
+XV. Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+XVI. Abstenerse de ejercer violencia política contra las mujeres en razón de género o de recurrir a expresiones que degraden, denigren o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVI], P.O. 1 DE JULIO DE 2020)</small>
+
+XVII. Las demás que establezcan este código y los demás ordenamientos.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -8178,6 +8436,20 @@ Artículo 722
 2. Las disposiciones aplicables a los representantes de los partidos políticos, establecidas en este Código, serán aplicables a los representantes de los candidatos independientes, salvo disposición en contrario.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
+### Capítulo Segundo. Del Cómputo de los Votos
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 744
+
+1. Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un Candidato Independiente, en términos de lo dispuesto por este Código.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 745
+
+1. Los votos recibidos a favor de Candidatos Independientes, no serán contabilizados para la asignación de diputados por el principio de representación proporcional, en los términos de la Constitución Política de los Estados Unidos Mexicanos, Constitución Local, Ley General y este Código.
 
 #### Sección Primera. Del Financiamiento
 
@@ -8506,3 +8778,15 @@ SEXTO. Las reformas en materia de revocación de mandato entrarán en vigor una 
 Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
 
 SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27923/LXII/20 QUE REFORMA LOS ARTÍCULOS 1°, 2°, 3°, 5°, 6°, 7°, 7° BIS, 8°, 9°, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 24, 25, 26, 27, 89, 115, 116, 118, 120, 121, 134, 136, 211, 236, 239, 260, 264, 446, 449, 449 BIS, 452, 458, 459, 471, 472, 534, 570, 612, 655, 705, 719 ADICIONANDO EL ARTÍCULO 446 BIS; ASÍ COMO UN CAPÍTULO DÉCIMO TERCERO BIS AL TÍTULO PRIMERO DENOMINADO DE LAS MEDIDAS CAUTELARES Y DE REPARACIÓN CON LOS ARTÍCULOS 459 BIS Y 459 TER; TODOS DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Poder Ejecutivo del Estado de Jalisco dentro del ámbito de sus facultades deberá reformar el Reglamento de la Ley del Registro Civil del Estado para implementar la operación del Registro de Deudores Alimentarios Morosos en los términos del Decreto 27332/LXI 1/20, en un plazo de 45 días hábiles para dar cumplimiento a las disposiciones del presente decreto.
+
+TERCERO. El Poder Judicial dentro del ámbito de sus facultades y en los términos del Decreto 27332/LXII/20 deberá implementar la inscripción y actualización permanente en el Registro de Deudores Alimentarios Morosos a los ciudadanos o ciudadanas que sean declarados judicialmente morosos, en un plazo de 60 días hábiles para dar cumplimiento a las disposiciones del presente decreto.
+
+CUARTO. Para la obligatoriedad de los dispuesto en el artículo 24 del Código Electoral del Estado de Jalisco numeral 3, se seguirá los procedimientos establecidos en el artículo 10 de la Ley sobre los Derechos y el Desarrollo de los Pueblos y las Comunidades Indígenas del Estado de Jalisco.
