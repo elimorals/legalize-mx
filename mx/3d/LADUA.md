@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2018-12-24"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LADUA"
 
 LEY ADUANERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JULIO DE 2020.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 24 DE DICIEMBRE DE 2018.
 
@@ -662,9 +662,9 @@ Para los efectos de lo dispuesto en el párrafo anterior, el Servicio Postal Mex
 
 I. Abrir los bultos postales procedentes del extranjero o nacionales para su exportación, en las oficinas postales de cambio en presencia de las autoridades aduaneras, conforme al procedimiento que establezca la Secretaría mediante reglas.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2020)</small>
 
-II. Presentar las mercancías y declaraciones correspondientes a las autoridades aduaneras para su despacho y, en su caso, clasificación arancelaria, valoración y determinación de créditos fiscales.
+II. Presentar las mercancías y declaraciones correspondientes a las autoridades aduaneras para su despacho y, en su caso, clasificación arancelaria, número de identificación comercial, valoración y determinación de créditos fiscales.
 
 III. Entregar las mercancías una vez que se hayan cumplido las obligaciones en materia de regulaciones y restricciones no arancelarias y pagado los créditos fiscales, independientemente del tipo de envío postal.
 
@@ -1126,43 +1126,45 @@ Cuando se realice la toma de muestras, se procederá a levantar el acta de muest
 
 Cuando las autoridades aduaneras con motivo de la revisión de las declaraciones electrónicas efectuadas y de los documentos electrónicos o digitales transmitidos, y presentados ante las mismas; del reconocimiento aduanero; de la inspección o de la verificación de mercancías en transporte, tengan conocimiento de cualquier irregularidad, la misma se hará constar en documento que para el efecto se levante, de conformidad con el procedimiento que corresponda, en los términos de los artículos 150 a 153 de esta Ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2020)</small>
 
 ###### Artículo 47.
 
-Los importadores, exportadores, agentes aduanales, agencias aduanales, confederaciones, cámaras o asociaciones, previa a la operación de comercio exterior que pretendan realizar, podrán formular consulta ante las autoridades aduaneras, sobre la clasificación arancelaria de las mercancías objeto de la operación de comercio exterior, cuando consideren que se pueden clasificar en más de una fracción arancelaria.
+Los importadores, exportadores, agentes aduanales, agencias aduanales, confederaciones, cámaras o asociaciones, previo a la operación de comercio exterior que pretendan realizar, podrán formular consulta ante las autoridades aduaneras, sobre la clasificación arancelaria y el número de identificación comercial, de las mercancías objeto de la operación de comercio exterior, cuando consideren que se pueden clasificar en más de una fracción arancelaria o en número de identificación comercial distintos.
 
-Dicha consulta podrá presentarse directamente por el interesado ante las autoridades aduaneras o por las confederaciones, cámaras o asociaciones, siempre que cumplan los requisitos establecidos en el artículo 18 del Código Fiscal de la Federación, señalen la fracción arancelaria que consideren aplicable, las razones que sustenten su apreciación y la fracción o fracciones con las que exista duda y anexen, en su caso, las muestras, catálogos y demás elementos que permitan identificar la mercancía para su correcta clasificación arancelaria.
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2020)</small>
+
+Dicha consulta podrá presentarse directamente por el interesado ante las autoridades aduaneras o por las confederaciones, cámaras o asociaciones, siempre que cumplan los requisitos establecidos en el artículo 18 del Código Fiscal de la Federación, señalen la fracción arancelaria y el número de identificación comercial que consideren aplicable, las razones que sustenten su apreciación y la fracción o fracciones arancelarias, o el o los números de identificación comercial con los que exista duda y anexen, en su caso, las muestras, catálogos y demás elementos que permitan identificar la mercancía para su correcta clasificación arancelaria y determinación del número de identificación comercial.
 
 > <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 Quienes hubieran formulado consulta en los términos del párrafo anterior, podrán realizar el despacho de las mercancías materia de la consulta, anexando al pedimento copia de la consulta en la que conste su recepción por parte de las autoridades aduaneras. Para ejercer esta opción se efectuará el pago de las contribuciones de conformidad con la fracción arancelaria cuya tasa sea la más alta de entre las que considere que se pueden clasificar, así como, en su caso, pagar las cuotas compensatorias y cumplir con las demás regulaciones y restricciones no arancelarias aplicables a las distintas fracciones arancelarias motivo de la consulta.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2020)</small>
 
-Si con motivo del reconocimiento aduanero, se detectan irregularidades en la clasificación arancelaria de la mercancía declarada en el pedimento, los funcionarios adscritos a la aduana no emitirán las resoluciones a que se refieren los artículos 152 y 153 de esta Ley, hasta en tanto no se resuelva la consulta por las autoridades aduaneras.
+Si con motivo del reconocimiento aduanero, se detectan irregularidades en la clasificación arancelaria o en el número de identificación comercial, de la mercancía declarada en el pedimento, los funcionarios adscritos a la aduana no emitirán las resoluciones a que se refieren los artículos 152 y 153 de esta Ley, hasta en tanto no se resuelva la consulta por las autoridades aduaneras.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 Cuando de la resolución que emitan las autoridades aduaneras resulten diferencias de contribuciones y cuotas compensatorias a cargo del contribuyente, éste deberá pagarlas, actualizando las contribuciones y con recargos desde la fecha en que se realizó el pago y hasta aquella en que se cubran las diferencias omitidas sin que proceda la aplicación de sanción alguna derivada por dicha omisión. Si resultan diferencias en favor del contribuyente, éste podrá rectificar el pedimento para compensarlas o solicitar su devolución.
 
-> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2020)</small>
 
-En cualquier momento se podrá presentar consulta a las autoridades aduaneras para conocer la clasificación arancelaria de las mercancías, en los términos del artículo 34 del Código Fiscal de la Federación, incluso cuando consideren que se pueden clasificar en más de una fracción arancelaria, anexando, en su caso, las muestras, catálogos y demás elementos que permitan identificar la mercancía para su correcta clasificación arancelaria.
+En cualquier momento se podrá presentar consulta a las autoridades aduaneras para conocer la clasificación arancelaria y el número de identificación comercial, de las mercancías, que pretendan importar o exportar, en los términos del artículo 34 del Código Fiscal de la Federación, incluso cuando consideren que se pueden clasificar en más de una fracción arancelaria, anexando, en su caso, las muestras, catálogos y demás elementos que permitan identificar la mercancía para su correcta clasificación arancelaria y determinación del número de identificación comercial.
 
-> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2020)</small>
 
 ###### Artículo 48.
 
-Para resolver las consultas que presenten los importadores, exportadores, agentes aduanales, agencias aduanales, confederaciones, cámaras o asociaciones industriales, sobre la correcta clasificación arancelaria a que se refiere el artículo 47 de esta Ley, las autoridades aduaneras podrán solicitar, cuando así lo requieran, la opinión del Consejo de Clasificación Arancelaria, el cual estará integrado por la autoridad aduanera y los peritos que propongan las confederaciones, cámaras y asociaciones industriales e instituciones académicas. El Servicio de Administración Tributaria establecerá mediante reglas la conformación y las normas de operación de dicho Consejo. Los dictámenes técnicos emitidos por el Consejo y respecto de los cuales el Servicio de Administración Tributaria se apoye para emitir sus resoluciones, deberán publicarse como criterios de clasificación arancelaria dentro de los 30 días siguientes a aquél en que la autoridad hubiere emitido la resolución.
+Para resolver las consultas que presenten los importadores, exportadores , agentes aduanales, agencias aduanales, confederaciones, cámaras o asociaciones industriales, sobre la correcta clasificación arancelaria o el número de identificación comercial a que se refiere el artículo 47 de esta Ley, las autoridades aduaneras podrán solicitar, cuando así lo requieran, la opinión del Consejo de Clasificación Arancelaria, el cual estará integrado por la autoridad aduanera y los peritos que propongan las confederaciones, cámaras y asociaciones industriales e instituciones académicas. El Servicio de Administración Tributaria establecerá mediante reglas la conformación y las normas de operación de dicho Consejo. Los dictámenes técnicos emitidos por el Consejo y respecto de los cuales el Servicio de Administración Tributaria se apoye para emitir sus resoluciones, deberán publicarse como criterios de clasificación arancelaria y, en su caso, del número de identificación comercial dentro de los 30 días siguientes a aquél en que la autoridad hubiere emitido la resolución.
 
-Las autoridades aduaneras podrán resolver conjuntamente las consultas formuladas cuando la descripción arancelaria de las mercancías sea la misma. En estos casos se dictará una sola resolución, la que se notificará a los interesados. Las resoluciones sobre clasificación arancelaria que emitan las autoridades aduaneras, de carácter individual o dirigida a agrupaciones, surtirán efectos con relación a las operaciones de comercio exterior que se efectúen a partir del día siguiente a aquel en que se notifique la resolución de que se trate, salvo lo dispuesto en el tercer párrafo del artículo 47 de esta Ley.
+Las autoridades aduaneras podrán resolver conjuntamente las consultas formuladas cuando la descripción arancelaria y, en su caso, el número de identificación comercial, de las mercancías sean las mismas. En estos casos se dictará una sola resolución, la que se notificará a los interesados. Las resoluciones sobre clasificación arancelaria y determinación del número de identificación comercial que emitan las autoridades aduaneras, de carácter individual o dirigida a agrupaciones, surtirán efectos con relación a las operaciones de comercio exterior que se efectúen a partir del día siguiente a aquel en que se notifique la resolución de que se trate, salvo lo dispuesto en el tercer párrafo del artículo 47 de esta Ley.
 
 Las resoluciones deberán dictarse en un plazo que no excederá de tres meses, contados a partir del día siguiente a aquél en que se encuentre debidamente integrado el expediente. Se entiende que el expediente se encuentra debidamente integrado cuando la autoridad cuente con la información y documentación que permita la plena identificación de la mercancía, y se hayan llevado a cabo todas las diligencias, tales como la emisión de los dictámenes correspondientes de la autoridad competente, para la emisión de la resolución.
 
-El Servicio de Administración Tributaria dará a conocer los criterios de clasificación arancelaria y serán publicados en el Diario Oficial de la Federación.
+El Servicio de Administración Tributaria dará a conocer los criterios de clasificación arancelaria y del número de identificación comercial y serán publicados en el Diario Oficial de la Federación.
 
-Cuando las autoridades aduaneras modifiquen los criterios de clasificación arancelaria, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
+Cuando las autoridades aduaneras modifiquen los criterios de clasificación arancelaria y del número de identificación comercial, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
 
 ###### Artículo 49.
 
@@ -1254,11 +1256,11 @@ X. Los que transfieran mercancías de conformidad con lo previsto en esta Ley y 
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2020)</small>
 
 ###### Artículo 54.
 
-El agente aduanal y la agencia aduanal serán responsables de la veracidad y exactitud de los datos e información suministrados, de la determinación del régimen aduanero de las mercancías y de su correcta clasificación arancelaria, así como de asegurarse que el importador o exportador cuenta con los documentos que acrediten el cumplimiento de las demás obligaciones que en materia de regulaciones y restricciones no arancelarias rijan para dichas mercancías, de conformidad con lo previsto en esta Ley y demás disposiciones jurídicas aplicables.
+El agente aduanal y la agencia aduanal serán responsables de la veracidad y exactitud de los datos e información suministrados, de la determinación del régimen aduanero de las mercancías, de su correcta clasificación arancelaria y de la exacta determinación del número de identificación comercial, así como de asegurarse que el importador o exportador cuenta con los documentos que acrediten el cumplimiento de las demás obligaciones que en materia de regulaciones y restricciones no arancelarias rijan para dichas mercancías, de conformidad con lo previsto por esta Ley y por las demás leyes y disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
@@ -1336,7 +1338,9 @@ Para la reexpedición de mercancías de procedencia extranjera de la franja o re
 
 Tratándose de mercancías que hayan sido objeto de procesos de elaboración o transformación en dicha franja o región, se estará a lo siguiente:
 
-I. Cuando al producto terminado le corresponda una fracción arancelaria diferente a las mercancías de procedencia extranjera empleadas o incorporadas en los procesos de elaboración o transformación, no le será aplicable el primer párrafo de este artículo. En este caso, las contribuciones se determinarán al momento de la reexpedición, considerando únicamente el valor en aduana de las mercancías extranjeras empleadas e incorporadas, así como la clasificación arancelaria del producto terminado.
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2020)</small>
+
+l. Cuando al producto terminado le corresponda una fracción arancelaria y un número de identificación comercial diferente a las mercancías de procedencia extranjera empleadas o incorporadas en los procesos de elaboración o transformación, no le será aplicable el primer párrafo de este artículo. En este caso, las contribuciones se determinarán al momento de la reexpedición, considerando únicamente el valor en aduana de las mercancías extranjeras empleadas e incorporadas, así como la clasificación arancelaria y el número de identificación comercial del producto terminado.
 
 II. Cuando las mercancías incorporadas al producto terminado puedan ser identificadas, el importador podrá optar por pagar los impuestos conforme a lo dispuesto en el primer párrafo o a lo señalado por la fracción l de este artículo.
 
@@ -1904,9 +1908,9 @@ I. Su descripción, estado y origen.
 
 II. Su valor en aduana, así como el método de valoración utilizado y, en su caso, la existencia de vinculaciones a que se refiere el artículo 68 de esta Ley en el caso de importación, o el valor comercial tratándose de exportación.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2020)</small>
 
-III. Su clasificación arancelaria.
+III. Su clasificación arancelaria y el número de identificación comercial.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -2846,7 +2850,9 @@ c) Llevar un registro diario de las operaciones realizadas, mediante un sistema 
 
 d) Instalar y mantener en funcionamiento permanente un sistema de circuito cerrado a través del cual la autoridad aduanera tenga acceso a los puntos de venta y entrega de la mercancía, así como de los puntos de salida del territorio nacional poniendo a disposición del SAT terminales de monitoreo.
 
-e) Transmitir al sistema electrónico a cargo de la autoridad aduanera, dentro de los diez días naturales al mes siguiente, la información relativa a la venta de las mercancías realizadas en el mes inmediato anterior, en los términos que se establezcan mediante reglas, especificando cantidades, descripción y código del producto, fracción arancelaria y valor de la venta de la mercancía.
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2020)</small>
+
+e) Transmitir al sistema electrónico a cargo de la autoridad aduanera, dentro de los diez días naturales al mes siguiente, la información relativa a la venta de las mercancías realizadas en el mes inmediato anterior, en los términos que se establezcan mediante reglas, especificando cantidades, descripción y código del producto, fracción arancelaria, número de identificación comercial y valor de la venta de la mercancía.
 
 f) Presentar ante la Administración General de Aduanas la documentación comprobatoria que acredite el pago del aprovechamiento del 5% de sus ingresos brutos obtenido por la venta de mercancías efectuadas mensualmente y la que acredite que se ha efectuado el pago del derecho por el otorgamiento de la autorización del establecimiento respectivo, conforme al Artículo 40, inciso k) de la Ley Federal de Derechos.
 
@@ -3358,11 +3364,9 @@ XII. Corregir y determinar el valor en aduana de las mercancías declarado en el
 
 XIII. Establecer precios estimados para mercancías que se importen y retenerlas hasta que se presente la garantía a que se refiere el artículo 36-A, fracción I, inciso e) de esta Ley.
 
-XIV. Establecer la naturaleza, características, clasificación arancelaria, origen y valor de las mercancías de importación y exportación.
+> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
-
-Para ejercer las facultades a que se refiere el párrafo anterior, el Servicio de Administración Tributaria podrá solicitar el dictamen que requiera, al agente aduanal, a la agencia aduanal, a la autoridad especializada en la materia según la mercancía de que se trate o a cualquier otro perito.
+XIV. Establecer la naturaleza, características, clasificación arancelaria y clasificación de número de identificación comercial, origen y valor de las mercancías de importación y exportación.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4956,6 +4960,16 @@ I. Multa de $22,900.00 a $38,180.00 a la señalada en las fracciones I y II.
 
 II. Multa de $1,810.00 a $2,580.00 a la señalada en la fracción III.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2020)</small>
+
+###### Artículo 184-C.
+
+El agente aduanal e importador serán suspendidos para operar en el sistema electrónico aduanero para el despacho de mercancías, hasta por un mes calendario, cuando las autoridades aduaneras, en ejercicio de sus facultades, detecten que en el pedimento se declaró con inexactitud el número de identificación comercial que corresponda a las mercancías, siempre que dicha omisión implique la falta de presentación del documento en el que conste el depósito efectuado mediante cuenta aduanera de garantía, tratándose de la importación definitiva de mercancía sujeta a precios estimados, o bien, que el documento anexo al pedimento en el que conste el depósito efectuado mediante cuenta aduanera de garantía resulte insuficiente.
+
+Una vez conocidos por las autoridades aduaneras los hechos u omisiones que configuren la suspensión, éstas los darán a conocer en forma circunstanciada al agente aduanal o importador, y le concederán un plazo de veinte días, contados a partir del día siguiente en que surta efectos la notificación, para que desvirtúen la causal, o bien, presenten el documento en el que conste el depósito efectuado mediante cuenta aduanera de garantía, a través de la rectificación al pedimento, en caso contrario, se suspenderá la patente o autorización de que se trate, hasta en tanto se presente la documentación respectiva, sin que la suspensión pueda ser superior a un mes de calendario.
+
+Dicha suspensión quedará sin efectos, una vez que el interesado desvirtúe la causal o presente la garantía a que se refieren los artículos 36-A, fracción I, inciso e), 84-A y 86-A, fracción I de esta Ley, conforme al procedimiento que establezca el Servicio de Administración Tributaria mediante reglas.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 185.
@@ -4994,21 +5008,21 @@ VII. Multa equivalente de 20% al 40% de la cantidad que exceda al equivalente en
 
 VIII. Multa de $74,100.00 a $111,200.00, en el caso de la transmisión electrónica señalada en la fracción IX, por la omisión de cada pasajero, tripulante o medio de transporte que arribe a territorio nacional, a que se refiere el inciso a) y por la omisión relativa a la mercancía por cada medio de transporte a que se refiere el inciso b). La multa se reducirá en un 50%, en el caso de que la transmisión electrónica sea extemporánea, incompleta o contenga información incorrecta. En los casos en que se incurra en más de una infracción asociada al arribo de un mismo medio de transporte, la autoridad establecerá hasta un máximo de seis multas por evento.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
 
-IX. Multa de $184,180.00 a $276,270.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional.
+IX. Multa de $207,370.00 a $311,050.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
 
-X. Multa de $2,280.00 a $3,430.00, en el caso señalado en la fracción XI, por cada pedimento.
+X. Multa de $2,570.00 a $3,860.00, en el caso señalado en la fracción XI, por cada pedimento.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
 
-XI. Multa de $6,850.00 a $9,130.00 en caso de omisión y de $3,430.00 a $5,710.00 por la presentación extemporánea, en el caso señalado en la fracción XII.
+XI. Multa de $7,710.00 a $10,280.00 en caso de omisión y de $3,860.00 a $6,430.00 por la presentación extemporánea, en el caso señalado en la fracción XII.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
 
-XII. Multa de $1,150.00 a $2,280.00, en el caso señalado en la fracción XIII, por cada documento.
+XII. Multa de $1,290.00 a $2,570.00, en el caso señalado en la fracción XIII, por cada documento.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -5683,3 +5697,23 @@ D.O.F. 24 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DE LA "CUARTA RESOLUCIÓN DE MODIFICACIONES A LAS REGLAS GENERALES DE COMERCIO EXTERIOR PARA 2018, Y SU ANEXO 2".]
 
 Único. La presente resolución entrará en vigor a partir del 1º de enero de 2019.
+
+D.O.F. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ADUANERA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos 1o. y 2o., fracciones I y II, reglas 1ª, 2ª y 4ª a 9ª de la Ley de los Impuestos Generales de Importación y de Exportación a que se refiere el Artículo Primero de este Decreto, así como el Artículo Segundo del presente Decreto que entrarán en vigor a los 180 días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Se derogan aquellas disposiciones de la Ley de Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de junio de 2007, que contravengan a las que entren en vigor al día siguiente de la publicación de este Decreto.
+
+SEGUNDO. A partir de la entrada en vigor de los artículos 1o. y 2o., fracciones I y II, reglas 1ª, 2ª y 4ª a 9ª de la Ley de los Impuestos Generales de Importación y de Exportación a que se refiere el Artículo Primero de este Decreto, se abroga la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de junio de 2007.
+
+TERCERO. La metodología a la que hace referencia el artículo 2, fracción II, regla 10 ª del Artículo Primero del presente ordenamiento se publicará en el Diario Oficial de la Federación a los 45 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Los números de identificación comercial a que hace referencia el artículo 2, fracción II, regla 10 ª del Artículo Primero del presente ordenamiento se determinarán a los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. La Secretaría de Economía dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto deberá publicar los números de identificación comercial, así como las tablas de correlación de las fracciones arancelarias de la Tarifa y de los números de identificación comercial, a los que se refiere el artículo 2, fracción II, regla 10ª, párrafo cuarto, incisos a) y b) de la Ley de los Impuestos Generales de Importación y de Exportación.
+
+SEXTO. La Secretaría de Economía, en conjunto con la Secretaría de Hacienda y Crédito Público, dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto deberá publicar en el Diario Oficial de la Federación, las Notas Nacionales contempladas en el artículo 2, fracción II, Regla 3ª de la Ley de los Impuestos Generales de Importación y de Exportación.
+
+SÉPTIMO. Las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, respecto a la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de junio de 2007, se entenderán referidas a la Ley que se expide conforme al presente Decreto.
