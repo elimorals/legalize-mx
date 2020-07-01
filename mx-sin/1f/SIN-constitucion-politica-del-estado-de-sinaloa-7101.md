@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2019-11-18"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -97,7 +97,9 @@ VII. Cuando se trate de datos personales en información creada, administrada o 
 
 VIII. Toda persona afectada por informaciones emitidas en su perjuicio a través de medios de difusión y que se dirijan al público en general, tiene derecho a efectuar por el mismo órgano de difusión y en condiciones similares a la difusión efectuada, su rectificación o respuesta en los términos que establezca la ley.
 
-IX. Los ciudadanos tienen derecho a acceder, en condiciones de igualdad, a las funciones y cargos públicos, con excepción de los sujetos a elección popular que se regirán por su propia normativa, en los términos que establezca la ley del servicio civil de carrera.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+IX. Los ciudadanos y ciudadanas tienen derecho a acceder, en condiciones de igualdad y de paridad de género en el Estado y los Municipios, a las funciones y cargos públicos de conformidad con la Ley del Servicio Civil de Carrera. De igual manera tienen derecho a postularse y a ser designados, en su caso, para alguna de las candidaturas de elección popular, en concordancia con los principios de igualdad y de paridad de género, y en los términos que la ley determine.
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2014)</small>
 
@@ -147,11 +149,9 @@ VI. Todo individuo tiene libertad de investigación científica y de creación, 
 
 VII. El Estado adoptará las medidas necesarias con el fin de que toda persona practique deporte y goce de la recreación, para lo cual promoverá la cultura física y creará oportunidades que permitan presenciar, organizar y participar en dichas actividades. Asimismo, habilitará y conservará espacios e instalaciones adecuados para tal efecto.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VIII. El Estado adoptará las medidas especiales de carácter temporal encaminadas a acelerar la igualdad entre mujeres y hombres, siempre y cuando no entrañen el mantenimiento indefinido de normas desiguales o separadas. Entre otras, aplicará la perspectiva de género en el diseño, ejecución, seguimiento y evaluación de las políticas públicas que se implementen.
-
-Dichas medidas cesarán cuando se hayan alcanzado los objetivos de igualdad en la oportunidad y en el trato entre mujeres y hombres.
+VIII. Las autoridades en el Estado adoptarán, permanentemente, las medidas especiales y de cualquier otra índole legal, con el objeto de lograr entre mujeres y hombres la igualdad, perspectiva y paridad de género en las políticas públicas institucionales que les competan.
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
@@ -241,9 +241,9 @@ Son derechos del ciudadano sinaloense:
 
 I. Votar en las elecciones populares, siempre que estén en pleno ejercicio de sus derechos.
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-II. Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley de la materia.
+II. Poder ser votado en condiciones de paridad de género para todos los cargos de elección popular, teniendo las calidades que establezca la Ley. El derecho de solicitar el registro de candidaturas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley de la materia.
 
 III. Ser preferido en igualdad de circunstancias, a los que no sean ciudadanos sinaloenses en toda clase de empleos, cargos, comisiones y concesiones del Gobierno del Estado y Municipios.
 
@@ -289,13 +289,17 @@ VI. En los demás casos que las leyes determinen.
 
 Una vez suspendida o perdida la calidad de ciudadano sinaloense, sólo se recobrará en la forma y términos que previene esta Constitución o la Ley respectiva.
 
-> <small>(REFORMADO, P.O. 09 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 13.
 
-El varón y la mujer son iguales ante la ley. La familia constituye la base fundamental de la sociedad. Los niños y las niñas deberán ser objeto de especial protección. Las personas de la tercera edad y los discapacitados deben recibir apoyo permanente. Toda medida o disposición en favor de la familia y de la niñez, se considerará de orden público.
+La mujer y el hombre son iguales ante la ley. La familia constituye la base fundamental de la sociedad. Los niños y las niñas deberán ser objeto de especial protección. Las personas de la tercera edad y los discapacitados deben recibir apoyo permanente. Toda medida o disposición en favor de la familia y de la niñez, se considerará de orden público.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2001)</small>
 
 La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el varón, en la vida política, social, económica y cultural del Estado, con el fin de que desarrolle sus potencialidades.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2001)</small>
 
 Todos los niños y las niñas, nacidos de matrimonio o fuera de él, tienen derecho a igual protección, a la satisfacción de sus necesidades y a la salud física y mental. Las autoridades deberán dictar las disposiciones que se requieran para el cumplimiento de esos propósitos.
 
@@ -303,9 +307,9 @@ Todos los niños y las niñas, nacidos de matrimonio o fuera de él, tienen dere
 
 Los ascendientes, tutores y custodios tienen el deber de garantizar los derechos señalados en el párrafo anterior a fin de que lleven una vida digna en el seno de la familia. El Estado les otorgará facilidades a aquellos para que cumplan con lo señalado en este párrafo.
 
-Los gobiernos estatal y municipales establecerán un sistema permanente de apoyo a las personas de la tercera edad para permitirles una vida digna y decorosa; y, promoverán la habilitación, rehabilitación e integración de los discapacitados con el objeto de facilitar su pleno desarrollo.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2001)</small>
 
-> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+Los gobiernos estatal y municipales establecerán un sistema permanente de apoyo a las personas de la tercera edad para permitirles una vida digna y decorosa; y, promoverán la habilitación, rehabilitación e integración de los discapacitados con el objeto de facilitar su pleno desarrollo.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
@@ -367,49 +371,81 @@ Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus 
 
 ### CAPITULO III. DE LAS ELECCIONES
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 14.
 
-Las elecciones de Gobernador, Diputados al Congreso del Estado, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
+Las elecciones a la Gubernatura del Estado, a las Diputaciones del Congreso del Estado, Presidencias Municipales, Sindicaturas de Procuración y Regidurías de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 Las elecciones ordinarias locales se verificarán el primer domingo de junio del año que corresponda. La fecha en que éstas se celebren será concurrente con la que la Constitución Política de los Estados Unidos Mexicanos señale para las elecciones ordinarias federales.
 
-Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, que tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Sólo los ciudadanos sinaloenses podrán formar partidos políticos estatales y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos, así como cualquier forma de afiliación corporativa. La ley fijará los requisitos que deban satisfacerse para la obtención del registro como partido político estatal.
+Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, que tienen como fin promover la participación de la ciudadanía en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones ciudadanas, hacer posible el acceso de las ciudadanas y ciudadanos al ejercicio del poder público, observando siempre la paridad de género, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
 
-La selección de dirigentes y candidatos de los partidos políticos estatales se realizará conforme a los principios que rigen el estado democrático de derecho. Los estatutos y reglamentos internos de los partidos políticos estatales y nacionales que participen en los procesos electorales locales garantizarán la paridad entre los géneros en las candidaturas a Diputados al Congreso del Estado, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos por ambos principios. La ley establecerá los términos y requisitos para el cumplimiento de esta disposición.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Solo las ciudadanas y ciudadanos Sinaloenses, podrán formar partidos políticos estatales y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos, así como cualquier forma de afiliación corporativa. La ley fijará los requisitos que deban satisfacerse para la obtención del registro como partido político estatal.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+La selección de los titulares de las dirigencias y candidaturas de los partidos políticos estatales, se realizará conforme a los principios que rigen el estado democrático de derecho. Los estatutos y reglamentos internos de los partidos políticos estatales y nacionales que participen en los procesos electorales locales garantizarán la paridad de género en las candidaturas de fórmulas de mayoría relativa, así como en la composición de las listas de representación proporcional para las Diputaciones del Congreso del Estado, a la titularidad de las Presidencias Municipales, Sindicaturas en Procuración y Regidurías de los Ayuntamientos por ambos principios. La ley establecerá los términos y requisitos para el cumplimiento de esta disposición.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, las leyes generales, la presente Constitución y la legislación local.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Los partidos políticos nacionales que hayan obtenido su registro definitivo ante el Instituto Nacional Electoral, podrán participar en las elecciones estatales y municipales. La ley determinará los requisitos y formalidades que deberán satisfacer los partidos políticos nacionales y estatales para intervenir en dichos procesos electorales. Los partidos políticos podrán asociarse para participar en las elecciones mediante la postulación de candidatos comunes, de conformidad con los requisitos que las leyes establezcan para esta forma de participación.
+Los partidos políticos nacionales que hayan obtenido su registro definitivo ante el Instituto Nacional Electoral, podrán participar en las elecciones estatales y municipales. La ley determinará los requisitos y formalidades que deberán satisfacer los partidos políticos nacionales y estatales para intervenir en dichos procesos electorales. Los partidos políticos podrán asociarse para participar en las elecciones mediante la postulación de candidaturas comunes, de conformidad con los requisitos que las leyes establezcan para esta forma de participación.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 Además de las causales que establezca la ley, se cancelará el registro de aquél partido político estatal que no obtenga al menos el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo local, y sólo podrán solicitar un nuevo registro cuando haya concluido el proceso electoral posterior a la cancelación. La ley establecerá el procedimiento para la liquidación de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Hacienda Pública Estatal.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+
 La ley garantizará que los partidos políticos estatales y nacionales cuenten de manera equitativa con recursos económicos suficientes para llevar a cabo sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico; establecerá las reglas a que se sujetará dicho financiamiento y garantizará que los recursos públicos prevalezcan sobre los de origen privado. El financiamiento privado tendrá las restricciones y modalidades que establezca la ley, las cuales no podrán ser menores que las fijadas por la legislación federal para los partidos políticos nacionales. También serán regulados en la ley los montos máximos que tendrán las aportaciones pecuniarias de sus militantes y simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten, las sanciones que deban imponerse por el incumplimiento de estas disposiciones, y los criterios para determinar para cada elección los límites máximos a las erogaciones que los partidos políticos puedan realizar para cada una de las precampañas y campañas electorales.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 Para que un partido político nacional tenga derecho a recibir financiamiento público ordinario proveniente de recursos estatales, se requiere que haya participado en el proceso electoral local inmediato anterior, y que haya obtenido al menos el tres por ciento de los votos válidos en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales en dicho proceso. De no obtener dicho porcentaje mínimo de votación, perderá el derecho a recibir financiamiento público ordinario estatal hasta la fecha en que satisfaga los requisitos y formalidades necesarias para su participación en un nuevo proceso electoral local. Esta disposición no será aplicable a aquellos partidos que participen por primera vez en un proceso local.
 
-Los ciudadanos sinaloenses que participen como candidatos sin la intermediación de un partido político, tendrán derecho a recibir financiamiento público para el desarrollo de sus campañas políticas, en los términos y condiciones que establezca la ley. Asimismo tendrán derecho a ser representados ante los órganos correspondientes del Instituto Electoral del Estado de Sinaloa.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Los ciudadanos y ciudadanas sinaloenses que participen en candidaturas sin la intermediación de un partido político, tendrán derecho a recibir financiamiento público para el desarrollo de sus campañas políticas, en los términos y condiciones que establezca la ley. Asimismo tendrán derecho a ser representados ante los órganos correspondientes del Instituto Electoral del Estado de Sinaloa.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 Los partidos políticos deberán presentar al Instituto Nacional Electoral, en los tiempos y bajo las modalidades que disponga la legislación aplicable, informes anuales en los que se reflejarán el total de ingresos recabados por cualquier modalidad de financiamiento, así como la totalidad de los gastos realizados a lo largo del año que corresponda, con motivo de la realización de sus actividades ordinarias permanentes, las de precampaña y las de campaña, así como los informes especiales y detallados que les sean solicitados por dicho Instituto.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+
 Los ciudadanos que participen como candidatos independientes quedarán obligados a presentar los informes sobre ingresos y aplicación de recursos a sus campañas políticas, en los mismos plazos, términos y condiciones que los partidos políticos, en todo aquello que resulten aplicables.
 
-El Instituto Nacional Electoral ejercerá en la forma que disponga la ley, las funciones fiscalizadoras suficientes para tener el conocimiento pleno y cierto del origen y destino de la totalidad de los recursos de los partidos políticos y de los candidatos independientes, tanto de aquellos que provengan del financiamiento público como de los que se alleguen mediante financiamiento privado, y procederá de conformidad con lo que establezca la legislación aplicable. En el cumplimiento de sus atribuciones de fiscalización, el Instituto Nacional Electoral podrá requerir a las autoridades federales, estatales y municipales, así como a las personas físicas y morales que hayan tenido algún vínculo financiero o comercial con los partidos políticos y candidatos independientes, la información y documentación que sea necesaria para la adecuada revisión de los informes. Las autoridades estatales y municipales están obligadas a proporcionar los informes y documentos que les sean requeridos en términos del presente artículo.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-La ley fijará los topes, montos, tiempos y las modalidades que tendrán las precampañas y las campañas electorales, las cuales deberán ser respetuosas y propositivas; de igual manera determinará las reglas que deberán observar los partidos, sus militantes y simpatizantes, así como los candidatos independientes durante las mismas, y las sanciones a las que se harán acreedores en caso de su inobservancia.
+El Instituto Nacional Electoral ejercerá en la forma que disponga la ley, las funciones fiscalizadoras suficientes para tener el conocimiento pleno y cierto del origen y destino de la totalidad de los recursos de los partidos políticos y de las candidaturas independientes, tanto de aquellos que provengan del financiamiento público como de los que se alleguen mediante financiamiento privado, y procederá de conformidad con lo que establezca la legislación aplicable. En el cumplimiento de sus atribuciones de fiscalización, el Instituto Nacional Electoral podrá requerir a las autoridades federales, estatales y municipales, así como a las personas físicas y morales que hayan tenido algún vínculo financiero o comercial con los partidos políticos y las candidaturas independientes, la información y documentación que sea necesaria para la adecuada revisión de los informes. Las autoridades estatales y municipales están obligadas a proporcionar los informes y documentos que les sean requeridos en términos del presente artículo.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-En los procesos electorales en que se verifique la elección de Gobernador del Estado, la duración de las campañas será de sesenta días. En aquellos procesos en que únicamente se elijan Diputados al Congreso del Estado y Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, las campañas durarán treinta y cinco días. En cualquier caso, las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+La ley fijará los topes, montos, tiempos y las modalidades que tendrán las precampañas y las campañas electorales, las cuales deberán ser respetuosas y propositivas; de igual manera determinará las reglas que deberán observar los partidos, sus militantes y simpatizantes, así como quienes tengan una candidatura independiente durante las mismas, y las sanciones a las que se harán acreedores en caso de su inobservancia.
 
-Los partidos políticos y candidatos tendrán acceso equitativo a los medios masivos de comunicación social, conforme a las normas establecidas en el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las que fije la ley. En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas. Los partidos políticos y los candidatos no podrán contratar o adquirir en ningún momento, por sí o mediante terceras personas, tiempos en cualquier modalidad de radio y televisión.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, a favor ni en contra de partidos políticos o de candidatos a cargos de elección popular.
+En los procesos electorales en que se verifique la elección para la Gubernatura del Estado, la duración de las campañas será de sesenta días. En aquellos procesos en que únicamente se elijan las Diputaciones al Congreso del Estado y Presidencias Municipales, Sindicaturas de Procuración y Regidurías de los Ayuntamientos, las campañas durarán treinta y cinco días. En cualquier caso, las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Los partidos políticos y quienes ostenten una candidatura tendrán acceso equitativo a los medios masivos de comunicación social, conforme a las normas establecidas en el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las que fije la ley. En la propaganda política o electoral que difundan los partidos y las personas a quienes se les haya asignado una candidatura, deberán abstenerse de usar expresiones que se traten de calumnias; asimismo, no podrán contratar o adquirir en ningún momento, por sí o mediante terceras personas, tiempos en cualquier modalidad de radio y televisión.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de la ciudadanía, a favor ni en contra de partidos políticos o quienes hayan sido designados en las candidaturas para los cargos de elección popular.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 La ley establecerá el sistema de nulidades de las elecciones locales por violaciones graves, dolosas y determinantes en los casos siguientes:
 
@@ -419,7 +455,11 @@ b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, 
 
 c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+
 Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
@@ -429,9 +469,9 @@ En caso de nulidad de la elección, se convocará a una elección extraordinaria
 
 La organización de las elecciones locales es una función estatal que se realiza a través del Instituto Electoral del Estado de Sinaloa, en coordinación con el Instituto Nacional Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
 
-El Instituto Electoral del Estado de Sinaloa es un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, en cuya integración concurren los partidos políticos y los ciudadanos. En el ejercicio de sus funciones serán principios rectores los de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género. Será autoridad en la materia, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. Tendrá a su cargo la preparación, desarrollo, vigilancia de los procesos electorales y, en su caso, la calificación de los mismos, así como la información de los resultados, ejerciendo funciones en las materias siguientes:
+El Instituto Electoral del Estado de Sinaloa es un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, en cuya integración concurren los partidos políticos y las ciudadanas y los ciudadanos observando el principio de paridad de género. En el ejercicio de sus funciones serán principios rectores los de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género. Será autoridad en la materia, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia, también observando la paridad de género. Tendrá a su cargo la preparación, desarrollo, vigilancia de los procesos electorales y, en su caso, la calificación de los mismos, así como la información de los resultados, ejerciendo funciones en las materias siguientes:
 
 I. Derechos y acceso a las prerrogativas de los candidatos y partidos políticos;
 
@@ -461,7 +501,9 @@ El Instituto Electoral del Estado de Sinaloa podrá convenir con el Instituto Na
 
 El Instituto Electoral del Estado de Sinaloa ejercerá sus funciones en todo el territorio del Estado y estará conformado por un Consejo General, por los Consejos Distritales y Municipales que determine la ley, y por las Mesas Directivas de Casilla.
 
-El Consejo General será el órgano de dirección superior del Instituto y estará integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; así como por un Secretario Ejecutivo y un representante por cada uno de los partidos políticos o coaliciones, quienes solo tendrán derecho a voz.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+El Consejo General será el órgano de dirección superior del Instituto y estará integrado por una Consejera Presidenta o un Consejero Presidente, y seis consejeras y consejeros electorales, considerando la paridad de género en su composición, con derecho a voz y voto; así como por un Titular de la Secretaria Ejecutiva y un representante por cada uno de los partidos políticos o coaliciones, quienes solo tendrán derecho a voz.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -483,11 +525,17 @@ Los consejeros electorales durarán en sus cargos siete años y no podrán ser r
 
 La ley establecerá un sistema de medios de impugnación con los plazos convenientes para el desahogo de todas las instancias impugnativas, de los que conocerán el Instituto Electoral del Estado de Sinaloa y el Tribunal Electoral del Estado de Sinaloa. Dicho sistema dará definitividad a las distintas etapas del proceso electoral y garantizará que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnados.
 
-El Tribunal Electoral del Estado de Sinaloa se integrará por cinco magistrados, y su Presidente será designado por el Pleno de entre sus miembros.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Los Magistrados serán electos por la Cámara de Senadores, en los términos que determinen la Constitución Política de los Estados Unidos Mexicanos y la legislación en la materia.
+El Tribunal Electoral del Estado de Sinaloa estará compuesto por cinco integrantes Magistradas y Magistrados. El Titular de la Presidencia será designado por el Pleno de entre sus miembros.
 
-El Tribunal Electoral del Estado de Sinaloa funcionará en pleno y sus sesiones de resolución serán públicas; será autónomo, independiente en sus decisiones, máxima autoridad jurisdiccional en su materia y tendrá competencia para resolver en forma definitiva y firme las impugnaciones que se interpongan; realizará el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiese obtenido el mayor número de votos, a quien expedirá la constancia correspondiente.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Las designaciones de las y los titulares de las magistraturas electorales, serán realizadas por la Cámara de Senadores del Congreso de la Unión en los términos que determinen la Constitución Política de los Estados Unidos Mexicanos y la legislación en la materia.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+El Tribunal Electoral del Estado de Sinaloa, funcionará en Pleno y sus sesiones de resolución serán públicas; será autónomo, independiente en sus decisiones, máxima autoridad jurisdiccional en su materia y tendrá competencia para resolver en forma definitiva y firme las impugnaciones que se interpongan; realizará el cómputo final de la elección a la gubernatura del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de dicha elección y asimismo la de Gobernadora o Gobernador Electo, según corresponda, respecto de la candidatura que hubiese obtenido el mayor número de votos a quien expedirá la constancia correspondiente.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1989)</small>
 
@@ -557,11 +605,11 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 #### SECCION I. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 23.
 
-El Congreso del Estado se compondrá de representantes electos popularmente cada tres años. Por cada Diputado Propietario se elegirá un Suplente del mismo género.
+El Congreso del Estado se compondrá de representantes electos popularmente cada tres años, denominados Diputadas y Diputados, y para su elección se observará el principio de paridad de género. Por cada Diputada y Diputado se elegirán suplentes del mismo género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2017)</small>
 
@@ -649,6 +697,10 @@ I. Si los presentes están en mayoría, se conminará a los propietarios faltant
 
 II. Si los Diputados presentes están en minoría, exhortarán simultáneamente y por separado a los propietarios que falten, y a sus respectivos Suplentes, para que de acuerdo entre ambos, se presente cualquiera de ellos dentro de los diez días que siguen, y si no lo hicieren por cualquier motivo, se procederá como lo determina el art. 30, a reserva de declarar la vacante del puesto, por la Cámara, cuando las faltas sean injustificadas.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+En los casos de emergencia previstos en la Ley que impidan la presencia física de las Diputadas y los Diputados, el Congreso, sus comisiones y órganos de gobierno podrán realizar sesiones y reuniones a distancia mediante el uso de herramientas y tecnologías de la información y las comunicaciones, previo acuerdo de sus órganos de gobierno.
+
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
 
 ###### Art. 29.
@@ -681,7 +733,9 @@ Los Diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 El Presidente del Congreso velará por el respeto al fuero constitucional de los miembros del mismo y por la inviolabilidad del recinto donde se reúnan a sesionar.
 
-El Congreso expedirá la Ley que regulará su estructura y funcionamiento.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+El Congreso expedirá la Ley que regulará su estructura y funcionamiento. En la integración de su estructura orgánica administrativa y sus comisiones se observará el principio de paridad de género.
 
 La Ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el propio Congreso.
 
@@ -1411,6 +1465,10 @@ La Estatal conforme a la Ley Orgánica que expida el Congreso del Estado, su Reg
 
 La Paraestatal conforme a la Ley Orgánica que expida el Congreso que establecerá las bases generales de creación de las entidades que la integren, la intervención del Gobernador del Estado en su operación y las relaciones entre el Ejecutivo y las entidades paraestatales y conforme a las disposiciones reglamentarias generales y a las especiales para cada entidad que en su ejecución expida el Gobernador Constitucional del Estado.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Las personas titulares de las Secretarías de la Administración Pública Estatal serán designadas observando el principio de paridad de género.
+
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 67.
@@ -1519,7 +1577,9 @@ a) Cumplir en el ámbito de su competencia, con las disposiciones que la Constit
 
 b) La investigación como la persecución ante los tribunales locales de los delitos del orden común cometidos en el territorio del Estado, corresponden al Ministerio Público y a los elementos policiacos del sistema de seguridad pública, los cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
 
-c) La Fiscalía General del Estado para el ejercicio de sus funciones contará con los vicefiscales general, especializados y/o regionales, policías de investigación y demás personal que estará bajo su autoridad en los términos que establezca la ley.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+c) La Fiscalía General del Estado para el ejercicio de sus funciones contará con los vicefiscales general, especializados y regionales, policías de investigación y demás personal que estará bajo su autoridad en los términos que establezca la ley. En la designación del titular del órgano, así como de los demás titulares dentro de su estructura se observará el principio de la paridad de género.
 
 d) El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público.
 
@@ -1529,7 +1589,9 @@ e) El Ministerio Público procurará que los juicios se sigan con toda regularid
 
 f) La ley establecerá los medios de impugnación a través de los cuales las víctimas u ofendidos del delito podrán recurrir, por la vía jurisdiccional, las omisiones de la Fiscalía General en la investigación de los delitos, así como las resoluciones sobre la reserva de las investigaciones preliminares, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
 
-g) Contará con un Consejo Consultivo el cual será presidido por el Fiscal General quien será el único consejero que sea servidor público.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
+
+g) Contará con un Consejo Consultivo integrado bajo el principio de paridad de género.
 
 El Consejo Consultivo estará integrado además por personas ciudadanas de la sociedad sinaloense de reconocido prestigio y cuya función la desempeñarán de forma honorífica.
 
@@ -1541,7 +1603,9 @@ La Ley fijará las características y funciones del Consejo Consultivo, así com
 
 Al mando de la Fiscalía General del Estado estará un Fiscal General que durará en su encargo siete años y no podrá ser reelecto, el cual será designado y, en su caso, removido conforme a lo siguiente:
 
-I. La Coordinación General del Consejo Estatal de Seguridad Pública, previa Convocatoria Pública seleccionará cinco personas para ser propuestas al Gobernador del Estado a fin de que proponga al Congreso del Estado a tres personas que considere idóneas para ocupar el cargo de Fiscal General, quienes deberán cumplir con los requisitos de elegibilidad previstos en esta Constitución.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+I. La Coordinación General del Consejo Estatal de Seguridad Pública, previa Convocatoria Pública seleccionará cinco personas para ser propuestas al Titular del Ejecutivo Estatal, a fin de que por su conducto se proponga al Congreso del Estado a tres personas que considere idóneas para ocupar el cargo de Fiscal General, quienes deberán cumplir con los requisitos previstos en esta Constitución. En lo correspondiente a este proceso, se deberá observar el principio de paridad de género.
 
 II. El Congreso del Estado, previa comparecencia de aspirantes, designará al Fiscal General con el voto de las dos terceras partes de sus miembros presentes dentro del plazo de diez días hábiles. Si el Congreso del Estado no hace la designación en el plazo establecido, el Poder Ejecutivo en un término no mayor a cinco días naturales, designará al Fiscal General del Estado de entre la propuesta referida en la fracción I.
 
@@ -1587,21 +1651,29 @@ De igual forma percibirá las mismas prestaciones y emolumentos legales o normat
 
 #### SECCION II BIS. DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-(NOTA: EL 29 DE JUNIO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 30/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE JUNIO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 77 Bis.
 
-Para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa violatorias de los derechos humanos, provenientes de cualquier autoridad o servidor público del estado o los municipios, CON EXCEPCIÓN DE LOS DEL PODER JUDICIAL DEL ESTADO, se establece un organismo denominado Comisión Estatal de los Derechos Humanos, con carácter autónomo, personalidad jurídica y patrimonio propio, que tendrá por objeto la defensa, protección, observación, promoción, estudio y divulgación de los derechos humanos previstos en nuestro orden jurídico vigente.
+Para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa violatorias de los derechos humanos, provenientes de cualquier autoridad o servidor público del Estado o los Municipios, se establece un organismo denominado Comisión Estatal de los Derechos Humanos, con carácter autónomo, personalidad jurídica y patrimonio propio, que tendrá por objeto la defensa, protección, observación, promoción, estudio y divulgación de los derechos humanos previstos en nuestro orden jurídico vigente. En la integración de su estructura orgánica se observará el principio de paridad de género.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 Este organismo formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas y no será competente tratándose de asuntos electorales y jurisdiccionales.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+
 Todo servidor público está obligado a responder las recomendaciones que emita la Comisión Estatal de los Derechos Humanos. Cuando las recomendaciones no sean aceptadas o cumplidas por las autoridades o servidores públicos, estos deberán fundar, motivar, y hacer pública su negativa; además, el Congreso del Estado, a solicitud del Presidente de ese organismo y previo Dictamen de procedencia emitido por las Comisiones Permanentes de Derechos Humanos y la relativa al cargo que desempeñen dichos servidores, aprobado por el Pleno, podrá llamar, a las autoridades o servidores públicos responsables para que comparezcan ante dichas Comisiones Permanentes a efecto de que expliquen el motivo de su negativa.
 
-La Comisión Estatal de los Derechos Humanos, tendrá un Consejo Consultivo integrado por diez Consejeros, que serán elegidos por el voto de las dos terceras partes de los integrantes del Congreso del Estado, mediante un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley. Cada dos años serán sustituidos los dos consejeros con mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cuatro años, podrá ser reelecto por una sola vez y solo podrá ser removido de sus funciones, en los términos del Título Sexto de la Constitución Política del Estado de Sinaloa.
+La Comisión Estatal de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez Consejeras y Consejeros. En su designación se observará el principio de paridad de género, los cuales serán electos por el voto de las dos terceras partes de los integrantes del Congreso del Estado mediante un procedimiento de consulta pública que deberá ser transparente, en los términos y condiciones que determine la Ley. Cada dos años serán sustituidos las o los dos consejeros con mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+El Titular de la Presidencia de la Comisión Estatal de Derechos Humanos, quien también presidirá el Consejo Consultivo, será electo en los mismos términos del párrafo anterior. Durará en su encargo cuatro años, podrá ser reelecto por una sola vez cumpliendo con las mismas formalidades del procedimiento en el que fue designado, y solo podrá ser removido de sus funciones en los términos del Título Sexto de la Constitución Política del Estado de Sinaloa.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los poderes Ejecutivo y Legislativo Estatal, un informe de actividades, en los términos que la ley disponga.
 
@@ -1751,7 +1823,9 @@ El Estado y los particulares podrán impartir la educación en todos sus tipos y
 
 El Poder Judicial se ejercerá en el Estado por el Supremo Tribunal de Justicia, las Salas de Circuito, los Juzgados de Primera Instancia y los Juzgados Menores.
 
-Esta Constitución garantiza la independencia e inamovilidad de los Magistrados del Supremo Tribunal de Justicia, Magistrados de Circuito y Jueces en el ejercicio de sus funciones. La Ley, conforme a las bases de esta Constitución, establecerá las condiciones para el ingreso, formación, capacitación, actualización y permanencia de quienes sirvan al Poder Judicial del Estado, su capacitación será permanente y se desarrollará a través de un organismo encargado para ello.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Esta Constitución garantiza la independencia e inamovilidad de las Magistradas y Magistrados tanto del Supremo Tribunal de Justicia del Estado, como de Circuito y de los Titulares de Juzgados en el ejercicio de sus funciones. La Ley, conforme a las bases de esta Constitución, establecerá las condiciones para el ingreso, formación, capacitación, actualización y permanencia de quienes presten sus servicios al Poder Judicial del Estado, su capacitación será permanente y se desarrollará a través de un organismo encargado para ello; además, establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
 
 Los Magistrados del Supremo Tribunal de Justicia, los Magistrados de Circuito y los Jueces percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante sus encargos.
 
@@ -1767,19 +1841,17 @@ Toda persona Imputada y la víctima u ofendido tendrán los derechos que consagr
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 94.
 
-El Supremo Tribunal de Justicia se integrará de once Magistrados Propietarios y funcionará en Pleno o en Salas. Las Salas serán competentes para conocer de los recursos que procedan en contra de sentencias definitivas y de los demás asuntos que establezca la ley.
+El Supremo Tribunal de Justicia se integrará por once miembros que serán tanto Magistradas como Magistrados Propietarios. Para su conformación se observará el principio de paridad de género, y funcionará en Pleno o en Salas. Las Salas también deberán ser integradas bajo ese mismo principio y serán competentes para conocer de los recursos que procedan en contra de sentencias definitivas, así como de los demás asuntos que establezca la ley.
 
-Uno de los Magistrados será el Presidente del Supremo Tribunal de Justicia, quien será nombrado en los términos que establezca la ley para el efecto, no integrando Sala durante su encargo.
+La Titularidad de la Presidencia del Supremo Tribunal de Justicia recaerá en una Magistrada o en un Magistrado Propietario. El Pleno hará la designación en los términos que establezca la ley para el efecto y quien sea nombrado no integrará Sala durante su encargo.
 
-Habrá además cinco Magistrados Suplentes quienes sólo integrarán el Pleno o las Salas cuando sustituyan a un Magistrado Propietario.
+Habrá además cinco Titulares de Magistraturas Suplentes quienes sólo integrarán el Pleno o las Salas cuando sustituyan a una Magistrada o a un Magistrado Propietario. En estos casos también se observará el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
-
-Los Magistrados del Supremo Tribunal de Justicia serán electos por el Congreso del Estado, de una terna que le presente el Consejo de la Judicatura. La elección se hará en escrutinio secreto.
+Las o los Titulares de las Magistraturas Propietarias del Supremo Tribunal de Justicia serán electos por el Congreso del Estado, de una terna que le presente el Consejo de la Judicatura, observando siempre el principio de paridad de género. La elección se hará en escrutinio secreto.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2001)</small>
 
@@ -2015,7 +2087,9 @@ Para ser Juez Menor se requiere: Ser ciudadano mexicano por nacimiento y sinaloe
 
 Se instituye el Tribunal de Justicia Administrativa del Estado, como órgano constitucional autónomo encargado de dirimir las controversias que se susciten entre la administración pública Estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
 
-El Tribunal de Justicia Administrativa se integrará por una Sala Superior conformada por tres Magistraturas y por las Salas Regionales Unitarias que determine la ley.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+El Tribunal de Justicia Administrativa se integrará por una Sala Superior conformada por tres Magistraturas, que no podrán ser del mismo género; asimismo por las Salas Regionales Unitarias que determine la Ley. Para la integración de las Salas Superior y Regionales Unitarias se deberá observar el principio de paridad de género, así como en la estructura orgánica interna del Órgano Autónomo.
 
 Para ser titular de una Magistratura se requiere:
 
@@ -2031,7 +2105,9 @@ V. Haber residido efectivamente en el Estado durante los últimos dos años.
 
 VI. No haber sido condenado por la comisión de un delito intencional que hubiere merecido pena corporal.
 
-Las personas titulares de las Magistraturas de la Sala Superior y de las Salas Regionales Unitarias del Tribunal de Justica (sic) Administrativa serán electas, de entre una terna propuesta por el Ejecutivo del Estado, con el voto de las dos terceras partes de los miembros presentes del Congreso.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Las personas Titulares de las Magistraturas de la Sala Superior y de las Salas Regionales Unitarias del Tribunal de Justicia Administrativa, serán electas de entre una terna propuesta por el o la Titular del Poder Ejecutivo del Estado, con el voto de las dos terceras partes de los miembros presentes del Congreso. En la conformación de las ternas se observará la paridad de género.
 
 Su nombramiento será por siete años, prorrogables por otro periodo igual y durante su encargo, sólo podrán ser removidas por causas graves que señale la ley.
 
@@ -2101,9 +2177,9 @@ La Comisión Estatal para el Acceso a la Información Pública se integrará por
 
 En caso de que el Gobernador del Estado objetara el nombramiento, el Congreso del Estado nombrará una nueva propuesta, en los términos del párrafo inmediato anterior. Si este segundo nombramiento fuera objetado, el Congreso del Estado, en los términos del párrafo anterior, designará al comisionado que ocupará la vacante, sin posibilidad que este último nombramiento pueda ser objetado, en la inteligencia que dicha elección no podrá recaer en las designaciones previamente objetadas por el titular del Poder Ejecutivo.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-En la conformación del organismo garante se procurará la equidad de género.
+En la designación de comisionadas y comisionados, y de los titulares de la estructura interna del organismo garante, se observará la paridad de género.
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2191,11 +2267,15 @@ VII. Los integrantes del Consejo de Participación Ciudadana deberán reunir com
 
 ## TITULO V. DEL MUNICIPIO LIBRE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 110.
 
-Los Municipios tendrán personalidad jurídica y patrimonio propios y serán gobernados por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Síndicos Procuradores y Regidores que la ley determine, que residirá en la cabecera municipal. No habrá ninguna autoridad intermedia entre el Ayuntamiento y los poderes del Estado.
+Los Municipios tendrán personalidad jurídica y patrimonio propios y serán gobernados por un Ayuntamiento de elección popular directa, integrado por una Presidencia Municipal, una Sindicatura de Procuración y Regidurías que la ley determine. En su integración se observará el principio de paridad de género. Su residencia deberá estar en donde se ubique la cabecera municipal.
+
+> <small>(ADICIONADO [N. DE E. ANTES DE PARTE DEL PRIMER PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
+
+No habrá ninguna autoridad intermedia entre el Ayuntamiento y los poderes del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -4318,3 +4398,27 @@ P.O. 18 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 295 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 105, QUE REFORMÓ LOS ARTÍCULOS 24, PÁRRAFOS PRIMERO, TERCERO, CUARTO Y SÉPTIMO; Y 112, FRACCIONES I, II Y III DEL PÁRRAFO TERCERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE JULIO DE 2020.
+
+## N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 452 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA, EN MATERIA DE PARIDAD DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Congreso del Estado, deberá armonizar y adecuar las leyes secundarias a lo dispuesto por este Decreto, dentro del plazo de 180 días naturales, contado a partir de la entrada en vigor del presente Decreto, procurando observar el principio de paridad de género en los términos del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+TERCERO. La observancia del principio de paridad de género para los cargos de elección popular, después de la entrada en vigor del presente Decreto, será aplicable a quienes tomen posesión de su encargo a partir del proceso electoral 2020-2021.
+
+Con relación a los organismos de la Administración Pública Estatal, Organismos Autónomos, Poder Judicial, así como a la Administración Pública en los Municipios, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la Ley.
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 453 QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado contará con un plazo de 120 días hábiles siguientes a la entrada en vigor del presente Decreto para emitir las modificaciones correspondientes a su Ley Orgánica y a los reglamentos internos o en su caso emitir la reglamentación que corresponda.
