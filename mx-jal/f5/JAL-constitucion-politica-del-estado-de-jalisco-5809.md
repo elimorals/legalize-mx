@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2019-10-02"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -215,29 +215,39 @@ III. Sujetarse a los fallos y sentencias de los tribunales; y
 
 IV. Respetar y preservar el patrimonio cultural y natural del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
-###### Art. 6º.
+###### Art. 6°.
 
-Corresponde exclusivamente a los ciudadanos mexicanos, participar en la vida política del Estado, en la forma y términos que señalen las leyes.
+Corresponde exclusivamente a la ciudadanía mexicana, participar en la vida política del Estado, en la forma y términos que señalen las leyes.
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2014)</small>
 
 I. Son jaliscienses:
 
-a) Los nacidos en el territorio del Estado; y
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-b) Los mexicanos por nacimiento o naturalización avecindados en el Estado y que no manifiesten su deseo de conservar su residencia anterior, en la forma que establezca la ley.
+a) Los hombres y mujeres nacidos en el territorio del Estado; y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
+
+b) Las personas mexicanas por nacimiento o naturalización avecindados en el Estado y que no manifiesten su deseo de conservar su residencia anterior, en la forma que establezca la ley.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2014)</small>
 
 La vecindad no se pierde por ausencia debida al desempeño de cargos públicos, de elección popular, o en defensa de la patria y de sus instituciones.
 
-II. Son prerrogativas de los ciudadanos jaliscienses:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
+
+II. Son prerrogativas de la ciudadanía jalisciense:
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 a) Votar en las elecciones populares;
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-b) Ser votado en las elecciones populares, siempre que reúna los requisitos que determinen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus respectivas leyes reglamentarias y no estar comprendido en alguna de las causas de inelegibilidad establecidas por las mismas, así como solicitar su registro como candidato independiente para lo cual se requiere el apoyo de cuando menos el 1 por ciento de los ciudadanos inscritos en la lista nominal de electores de la demarcación territorial correspondiente, en las condiciones y términos que determine la ley;
+b) Poder ser votada en condiciones de paridad de género para todos los cargos de elección popular, siempre que reúna los requisitos que determinen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus respectivas leyes reglamentarias y no estar comprendido en alguna de las causas de inelegibilidad establecidas por las mismas, así como solicitar su registro como candidata o candidato independiente para lo cual se requiere el apoyo de cuando menos el 1 por ciento de las y los ciudadanos inscritos en la lista nominal de electores de la demarcación territorial correspondiente, en las condiciones y términos que determine la ley;
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -255,7 +265,9 @@ e) Cuando residan en el extranjero, votar para elegir Gobernador del Estado y Di
 
 f) Hacer uso de los instrumentos de participación ciudadana que establece esta Constitución y la ley de la materia;
 
-III. Son obligaciones de los ciudadanos jaliscienses, las contenidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+III. Son obligaciones de la ciudadanía jalisciense, las contenidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2014)</small>
 
@@ -561,6 +573,10 @@ Toda autoridad estatal o municipal que, en el ámbito de su competencia, tenga c
 
 El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los poderes Legislativo y Ejecutivo, de los gobiernos municipales y para los procesos relativos a los mecanismos de participación ciudadana y popular. La renovación de los poderes Legislativo y Ejecutivo y de los ayuntamientos del Estado, se realizará en elecciones, mediante la emisión del sufragio universal, libre, secreto, directo e intransferible.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+Votar en las elecciones constituye un derecho y una obligación de la ciudadanía que se ejerce para elegir cargos de elección popular. También es derecho de la ciudadanía, y obligación para todos los partidos políticos, la igualdad de oportunidades y la paridad vertical y horizontal entre hombres y mujeres, en candidaturas a diputaciones locales tanto propietarios como suplentes, en candidaturas a presidencias municipales, integración de planillas a munícipes, así como para las autoridades electorales en la integración de los consejos distritales y municipales.
+
 La organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana estará a cargo del Instituto Electoral y de Participación Ciudadana.
 
 Los Ayuntamientos emitirán los reglamentos y disposiciones administrativas que les permitan asegurar la participación ciudadana y popular, teniendo como bases mínimas, las establecidas en la ley estatal relativa a la materia.
@@ -715,29 +731,25 @@ IV. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco s
 
 La ley determinará las reglas para la organización, funcionamiento y jerarquía de los órganos de dicho Instituto. Las instancias ejecutivas y técnicas dispondrán del personal calificado necesario para prestar el servicio profesional electoral, que se regirá por las disposiciones que al efecto expida la autoridad competente, conforme a lo dispuesto en el apartado D del artículo 41 de la Constitución federal y la ley general en la materia.
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-V. El Consejero Presidente y los consejeros electorales durarán en su cargo siete años y no podrán ser reelectos; se renovarán de manera escalonada. Uno y otros serán designados por el Instituto Nacional Electoral conforme a lo dispuesto en la fracción IV, inciso c), ordinal 2°, del artículo 116 de la Constitución federal, cumpliendo los requisitos establecidos en el citado precepto y en la ley general en la materia.
+V. La Consejera o el Consejero Presidente y los consejeros electorales durarán en su cargo siete años y no podrán ser reelectos; se renovarán de manera escalonada. Uno y otros serán designados por el Instituto Nacional Electoral conforme a lo dispuesto en la fracción IV, inciso c), ordinal 2°, del artículo 116 de la Constitución federal, cumpliendo los requisitos establecidos en el citado precepto y en la ley general en la materia.
 
-De darse la falta absoluta del Consejero Presidente o de cualquiera de los consejeros electorales, se estará a lo dispuesto en la norma citada en el primer párrafo de esta fracción y la ley general en la materia.
+De darse la falta absoluta de la Consejera o el Consejero Presidente o de cualquiera de los consejeros electorales, se estará a lo dispuesto en la norma citada en el primer párrafo de esta fracción y la ley general en la materia.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+La Consejera o el Consejero Presidente y los consejeros electorales percibirán una remuneración acorde con sus funciones que será establecida previamente en el Presupuesto de Egresos del Estado, conforme a los principios, bases y lineamientos que prevén la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes y demás disposiciones reglamentarias que de ellas emanen; la cual en ningún supuesto podrá ser igual ni superior a la de los magistrados del Poder Judicial del Estado. No podrán tener otro empleo, cargo o comisión, con excepción de aquellos no remunerados en que actúen en representación del Instituto o que desempeñen en actividades docentes, científicas, culturales, de investigación o beneficencia.
 
-El Consejero Presidente y los consejeros electorales percibirán una remuneración acorde con sus funciones que será establecida previamente en el Presupuesto de Egresos del Estado, conforme a los principios, bases y lineamientos que prevén la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes y demás disposiciones reglamentarias que de ellas emanen; la cual en ningún supuesto podrá ser igual ni superior a la de los magistrados del Poder Judicial del Estado. No podrán tener otro empleo, cargo o comisión, con excepción de aquellos no remunerados en que actúen en representación del Instituto o que desempeñen en actividades docentes, científicas, culturales, de investigación o beneficencia.
+No podrán ser designados como Consejera o Consejero Presidente ni como consejera o consejero electorales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, quienes hayan ocupado cargos públicos de elección popular o dirigencia de algún partido político, de conformidad a lo establecido en la Ley General.
 
-No podrán ser designados como Consejero Presidente ni como consejeros electorales del Instituto Electoral, quienes hayan ocupado cargos públicos de elección popular o dirigencia de algún partido político, de conformidad a lo establecido en la Ley General.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
-
-El Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo del Consejo General, no podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años siguientes a la fecha de conclusión de su encargo.
+La Consejera o el Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo del Consejo General, no podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años siguientes a la fecha de conclusión de su encargo.
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
 VI. La remoción del Consejero Presidente y de los consejeros electorales, será facultad del Instituto Nacional Electoral, en los términos y bajo las condiciones que establece la Constitución Federal y la Ley General de Instituciones y Procedimientos Electorales;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VII. El Secretario Ejecutivo será nombrado por mayoría de votos de los consejeros electorales del Instituto Electoral, a propuesta de su Presidente; deberá reunir los requisitos que señale la ley;
+VII. El (sic) Secretaria Ejecutivo o Secretario Ejecutivo, será nombrado por mayoría de votos de las consejeras y los consejeros electorales del instituto Electoral y de Participación Ciudadana del Estado de Jalisco, a propuesta de su Presidenta o Presidente; deberá reunir los requisitos que señale la ley;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2016)</small>
 
@@ -763,9 +775,21 @@ i) Organización, desarrollo, cómputo y declaración de resultados en los mecan
 
 j) Las delegadas por el Consejo General del Instituto Nacional Electoral;
 
-k) Las demás que determinen las leyes aplicables; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
 
-l) Todas las no reservadas al Instituto Nacional Electoral por la Constitución Federal.
+k) Coadyuvará en la generación de información y estadística para prevenir, atender, sancionar y erradicar la violencia política contra las mujeres en razón de género;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+l) Capacitación al personal del instituto, organismos públicos locales para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, así como en igualdad sustantiva;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 1 DE JULIO DE 2020)</small>
+
+m) Las demás que determinen las leyes aplicables; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 1 DE JULIO DE 2020)</small>
+
+n) Todas las no reservadas al Instituto Nacional Electoral por la Constitución Federal.
 
 > <small>[N. DE E. EN RELACIÓN CON EL ANTERIOR PÁRRAFO SEGUNDO DE LA FRACCIÓN VIII, VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE JUNIO DE 2016, PÁGINA 10.]</small>
 
@@ -787,15 +811,13 @@ XI. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco p
 
 La solicitud a que se refiere el párrafo anterior podrá presentarse en cualquier momento del proceso electoral de que se trate y, en su caso, sólo tendrá efectos durante el mismo;
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 26 DE NOVIEMBRE DE 2016, PÁGINA 4.]</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 25 DE MARZO DE 2017)
+XII. El instituto Electoral y de Participación Ciudadana del Estado de Jalisco deberá, en su caso, solicitar la colaboración del instituto Nacional Electoral a fin de superar el secreto bancario, fiduciario y fiscal en los actos de fiscalización que realice a las finanzas de los partidos políticos, agrupaciones políticas locales, aspirantes, precandidatos y candidatos, en términos de lo dispuesto en el artículo 41 de la Constitución federal y lo que determinen las leyes;
 
-XII. El Instituto Electoral y de Participación Social del Estado de Jalisco deberá, en su caso, solicitar la colaboración del Instituto Nacional Electoral a fin de superar el secreto bancario, fiduciario y fiscal en los actos de fiscalización que realice a las finanzas de los partidos políticos, agrupaciones políticas locales, aspirantes, precandidatos y candidatos, en términos de lo dispuesto en el artículo 41 de la Constitución federal y lo que determinen las leyes;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
-
-XIII. El Instituto Electoral accederá, para sus propios fines, a los tiempos en radio y televisión en términos de lo dispuesto por la Constitución federal y la ley general en la materia;
+XIII. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco accederá, para sus propios fines, a los tiempos en radio y televisión en términos de lo dispuesto por la Constitución federal y la ley general en la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
 
@@ -829,11 +851,11 @@ XVI. La jornada electoral ordinaria deberá realizarse el primer domingo de juni
 
 ### CAPITULO III. De los partidos y agrupaciones políticas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 13.
 
-Los partidos políticos son entidades de interés público, con personalidad jurídica y patrimonio propios. Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público. Buscarán la participación efectiva de ambos géneros en la integración de sus órganos, de acuerdo con los programas, principios e ideas que postulan y determinarán y harán públicos los criterios para garantizar la paridad entre los géneros, en candidaturas a legisladores y munícipes.
+Los partidos políticos son entidades de interés público, con personalidad jurídica y patrimonio propios. Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público. Buscarán la participación efectiva de ambos géneros en la integración de sus órganos, de acuerdo con los programas, principios e ideas que postulan, garantizarán a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, determinarán, y harán públicos los criterios para garantizar la paridad entre los géneros, en candidaturas a legisladores y munícipes.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -863,9 +885,11 @@ III. (DEROGADA, P.O. 5 DE JULIO DE 2008)
 
 IV. La ley establecerá las condiciones y mecanismos para que los partidos políticos estatales y nacionales tengan acceso al financiamiento público local destinado al cumplimiento de sus fines. El financiamiento público estatal para los partidos políticos nacionales o estatales que mantengan su registro después de cada elección, se compondrán de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto en año de elecciones, así como para actividades específicas de conformidad a las siguientes bases:
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+(NOTA: EL 29 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, TEMA 3.1, DÉCIMO PRIMERO, DÉCIMO CUARTO Y DÉCIMO QUINTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2020 Y SUS ACUMULADAS 166/2020 Y 234/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO a) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) El financiamiento público para partidos políticos locales que mantengan su registro después de cada elección, se otorgará conforme a lo establecido en el artículo 51 de la Ley General de Partidos Políticos. Los partidos políticos nacionales que mantengan su acreditación en el estado después de cada elección, tendrán derecho a recibir financiamiento público estatal para financiar los gastos de las actividades ordinarias por lo que en los años que no se celebren elecciones en el estado, se fijará anualmente multiplicando el padrón electoral local, por el veinte por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. En años electorales el financiamiento para actividades ordinarias se fijará anualmente, multiplicando el número total de los votos válidos obtenidos en la elección a diputados, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-a) El financiamiento público para partidos políticos locales que mantengan su registro después de cada elección, se otorgará conforme a lo establecido en el artículo 51 de la Ley General de Partidos Políticos. Los partidos políticos nacionales que mantengan su acreditación en el estado después de cada elección, tendrán derecho a recibir financiamiento público estatal para financiar los gastos de las actividades ordinarias por lo que en los años que no se celebren elecciones en el estado, se fijará anualmente multiplicando el padrón electoral local, por el veinte por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. En años electorales el financiamiento para actividades ordinarias se fijará anualmente, multiplicando el número total de los votos válidos obtenidos en la elección a diputados, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+a) Los partidos políticos ESTATALES QUE MANTENGAN SU REGISTRO, ASÍ COMO LOS nacionales que mantengan su acreditación en el estado, después de cada elección, tendrán derecho a recibir financiamiento público estatal para financiar los gastos de las actividades ordinarias por lo que en los años que no se celebren elecciones en el estado, se fijara anualmente multiplicando el padrón electoral local, por el veinte por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. En años electorales el financiamiento para actividades ordinarias se fijará anualmente, multiplicando el número total de los votos válidos obtenidos en la elección a diputados, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -874,6 +898,10 @@ b) El financiamiento público para las actividades tendientes a la obtención de
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 c) El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior. Este financiamiento se otorgará independientemente del que corresponda conforme a los dos incisos anteriores;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+d) Los partidos políticos que hubieren obtenido su registro o acreditación con fecha posterior a la última elección, o aquellos que habiendo conservado su registro o acreditación legal no cuenten con representación en el Congreso del Estado, tendrán derecho a financiamiento otorgándole a cada partido político el 2% del monto, que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como, en el año de la elección de que se trate, el financiamiento para el gasto de campaña un monto equivalente al 50% del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le hayan correspondido; dichas cantidades, serán entregadas en la parte proporcional que corresponda a la anualidad a partir de la fecha en que surte efectos el registro o acreditación y tomando en cuenta el calendario presupuestal aprobado para el año. Así mismo participaran del financiamiento público para actividades específicas como entidades de interés público, solo en la parte que se distribuya en forma igualitaria.
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -915,9 +943,9 @@ Durante el tiempo que comprendan las campañas electorales locales y hasta la co
 
 La infracción a lo dispuesto en este artículo, cuando corresponda, será comunicada al Instituto Nacional Electoral para los efectos de las sanciones que procedan.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Tratándose de propaganda política o electoral que difundan los partidos políticos o candidatos independientes en medios distintos a radio y televisión, que calumnie a las personas, partidos e instituciones, será sancionada por el Instituto Electoral en los términos que establezca la ley;
+Tratándose de propaganda política o electoral que difundan los partidos políticos o candidatos independientes en medios distintos a radio y televisión, que calumnie a las personas, partidos e instituciones, será sancionada por el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco en los términos que establezca la ley;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
 
@@ -926,6 +954,12 @@ VIII. La ley fijará las reglas para las precampañas y campañas electorales de
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 La duración de las campañas electorales cuando se elija gobernador será de noventa días, y cuando sólo se elijan diputados locales y ayuntamientos será de sesenta días.
+
+(NOTA: EL 29 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, TEMA 3.1, DÉCIMO PRIMERO Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2020 Y SUS ACUMULADAS 166/2020 Y 234/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+
+LOS PLAZOS SEÑALADOS EN EL PÁRRAFO ANTERIOR PODRÁN REDUCIRSE HASTA EN 30 DÍAS, EN LOS CASOS DE RIESGO A LA SALUD PÚBLICA O LA SEGURIDAD DE LA POBLACIÓN CON MOTIVO DE DESASTRES NATURALES, MEDIANTE LA APROBACIÓN DE LAS DOS TERCERAS PARTES DE LOS DIPUTADOS INTEGRANTES DEL CONGRESO DEL ESTADO, EN TÉRMINOS DE LO ESTABLECIDO EN EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 105 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1045,33 +1079,15 @@ El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Es
 
 El Congreso del Estado se integrará con representantes populares electos y se renovará cada tres años, conforme al procedimiento que establezca la Ley Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
-
-###### Artículo 18.
-
-El Congreso se compondrá de veinte diputados electos por el principio de mayoría relativa y dieciocho electos según el principio de representación proporcional.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
-
-Todos los diputados tendrán los mismos derechos y obligaciones y podrán organizarse en grupos parlamentarios.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
-
-La ley establecerá los procedimientos para la conformación de grupos parlamentarios y promoverá la coordinación de las actividades parlamentarias.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Cada fórmula de candidatos a diputados de mayoría relativa se integrará por un propietario y un suplente del mismo género. Los partidos políticos deberán respetar la paridad de género en el registro de candidatos a diputados al Congreso del Estado, por ambos principios, conforme determine la ley.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 18.
 
-El Congreso se compondrá de veinte diputados electos por el principio de mayoría relativa y diecinueve electos según el principio de representación proporcional.
+El Congreso se compondrá de veinte diputadas y diputados electos por el principio de mayoría relativa y dieciocho electos según el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Todos los diputados tendrán los mismos derechos y obligaciones y podrán organizarse en grupos parlamentarios.
+Todas las diputadas y diputados tendrán los mismos derechos y obligaciones y podrán organizarse en grupos parlamentarios.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1081,23 +1097,29 @@ La ley establecerá los procedimientos para la conformación de grupos parlament
 
 Cada fórmula de candidatos a diputados de mayoría relativa se integrará por un propietario y un suplente del mismo género. Los partidos políticos deberán respetar la paridad de género en el registro de candidatos a diputados al Congreso del Estado, por ambos principios, conforme determine la ley.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 19.
 
-La demarcación territorial de los veinte distritos electorales uninominales, para elegir a diputados por el principio de votación mayoritaria relativa, será la que resulte de dividir la población total del Estado entre el número de los distritos mencionados y para su distribución se tomará en cuenta el último censo general de población.
+La demarcación territorial de los veinte distritos electorales uninominales, para elegir a diputadas y diputados por el principio de votación mayoritaria relativa, será la que resulte de dividir la población total del Estado entre el número de los distritos mencionados y para su distribución se tomará en cuenta el último censo general de población.
 
-Para la elección de los diputados por el principio de representación proporcional, se constituirá el territorio del Estado en una sola circunscripción o en varias circunscripciones plurinominales.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-La ley establecerá la fórmula electoral, las bases y el procedimiento que se aplicará en la asignación de diputaciones por este principio.
+Para la elección de las diputadas y diputados por el principio de representación proporcional, se constituirá el territorio del Estado en una sola circunscripción o en varias circunscripciones plurinominales.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
+La ley establecerá la fórmula electoral, las bases y el procedimiento que se aplicará en la asignación de diputaciones por este principio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+
 ###### Art. 20.
 
-La ley que establezca el procedimiento aplicable para la elección de los diputados según el principio de representación proporcional y el sistema de asignación, deberá contener por lo menos las siguientes bases:
+La ley que establezca el procedimiento aplicable para la elección de las diputadas y diputados según el principio de representación proporcional y el sistema de asignación, deberá contener por lo menos las siguientes bases:
 
-I. Un partido político, para obtener el registro de sus listas de candidatos a diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados por mayoría relativa, por lo menos en dos terceras partes del total de distritos estatales uninominales;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+I. Un partido político, para obtener el registro de sus listas de candidatos a diputaciones de representación proporcional, deberá acreditar que participa con candidaturas a diputaciones por mayoría relativa, por lo menos en dos terceras partes del total de distritos estatales uninominales;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1105,65 +1127,69 @@ II. Al partido político que obtenga en las respectivas elecciones el tres por c
 
 Adicionalmente, todo partido político que alcance cuando menos el tres punto cinco por ciento de la votación total emitida, tendrá derecho a participar en el procedimiento de asignación de diputados según el principio de representación proporcional;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-III. A los partidos políticos que cumplan con lo señalado en la fracción I y el segundo párrafo de la fracción II anteriores, independiente y adicionalmente a las constancias de mayoría que hubieren obtenido sus candidatos, les podrán ser asignados diputados por el principio de representación proporcional, de acuerdo con su votación obtenida. Para tal efecto, de la votación válida emitida se restarán los votos de candidatos independientes y los de aquellos partidos que no hubieren alcanzado el tres punto cinco por ciento de la votación total emitida; en la asignación se seguirá el orden que tuviesen los candidatos en la lista correspondiente. La ley desarrollará los procedimientos y fórmulas para estos efectos;
+III. A los partidos políticos que cumplan con lo señalado en la fracción I y el segundo párrafo de la fracción II anteriores, independiente y adicionalmente a las constancias de mayoría que hubieren obtenido sus candidatas y candidatos, les podrán ser asignados (sic) diputaciones por el principio de representación proporcional, de acuerdo con su votación obtenida. Para tal efecto, de la votación válida emitida se restarán los votos de candidatas y candidatos independientes y los de aquellos partidos que no hubieren alcanzado el tres punto cinco por ciento de la votación total emitida; en la asignación se seguirá el orden que tuviesen las candidaturas en la lista correspondiente. Siempre respetando el principio de paridad. La ley desarrollará los procedimientos y fórmulas para estos efectos;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-IV. En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. De igual forma, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales;
+IV. En ningún caso un partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. De igual forma, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-V. Ningún partido político podrá acceder a más de veintitrés diputados por ambos principios;
+V. Ningún partido político podrá acceder a más de veintitrés diputaciones por ambos principios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VI. Los partidos políticos podrán postular simultáneamente a candidatos a diputados por ambos principios, siempre y cuando el partido político que los postule no exceda el límite de veinticinco por ciento de candidaturas simultáneas, con relación al total de diputados de mayoría que deban integrar el Congreso del Estado; y
+VI. Los partidos políticos podrán postular simultáneamente a candidaturas a diputaciones por ambos principios, siempre y cuando el partido político que los postule no exceda el límite de veinticinco por ciento de candidaturas simultáneas, con relación al total de diputaciones de mayoría que deben integrar el Congreso del Estado, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VII. Los candidatos independientes no tendrán derecho a participar en la asignación de Diputados por el principio de representación proporcional.
+VII. Las candidatas y candidatos independientes no tendrán derecho a participar en la asignación de diputaciones por el principio de representación proporcional.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 26940/LXI/18 PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2019, PÁGINA 3.]</small>
-
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 21.
 
-Para ser diputado se requiere:
+Para ser diputada o diputado se requiere:
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
-
-II. Tener cuando menos veintiún años de edad el día de la elección;
-
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
-
-III. Ser nativo del Estado o avecindado en él cuando menos los dos años anteriores al día de la elección;
-
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
-
-IV. No ser Magistrado del Tribunal Electoral del Estado, ni consejero electoral del Instituto Electoral y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y
-
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
-
-V. No ser servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
-
-###### Art. 22.
-
-Los diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación para ser reelecto solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado originariamente, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-En el caso de un diputado que sea electo como independiente podrá postularse para la reelección solamente con su misma calidad y no podrá ser postulado por un partido político, a menos que demuestre su militancia a ese partido político antes de la mitad de su mandato; la ley establecerá las normas aplicables.
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos;
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
+II. Tener cuando menos veintiún años de edad el día de la elección;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+III. Ser persona nacida en el Estado o avecindada cuando menos los dos años anteriores al día de la elección;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+IV. No ser Magistrada o Magistrado del Tribunal Electoral del Estado, ni consejera o consejero electoral del Instituto Electoral y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+V. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios; y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VI. No ser servidora o servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+###### Art. 22.
+
+Las diputadas y diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación para ser reelecto solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado originariamente, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+En el caso de una diputada o diputado que sea electo como independiente podrá postularse para la reelección solamente con su misma calidad y no podrá ser postulado por un partido político, a menos que demuestre su militancia a ese partido político antes de la mitad de su mandato; la ley establecerá las normas aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
 ###### Art. 23.
 
-Los diputados son inviolables por la manifestación de sus ideas en el ejercicio de sus funciones y nunca podrán ser reconvenidos por ellas.
+Las diputadas y diputados son inviolables por la manifestación de sus ideas en el ejercicio de sus funciones y nunca podrán ser reconvenidos por ellas.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -1595,13 +1621,17 @@ A la iniciativa de Presupuesto de Egresos del Estado de Jalisco se deberá adjun
 
 El ejercicio del Poder Ejecutivo se deposita en un ciudadano que se denomina Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 37.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernadora o Gobernador del Estado se requiere:
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 II. Tener cuando menos treinta años de edad el día de la elección;
 
@@ -1609,13 +1639,17 @@ II. Tener cuando menos treinta años de edad el día de la elección;
 
 III. Ser nativo del Estado o avecindado en él cuando menos los dos años anteriores al día de la elección;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
-IV. No ser Magistrado del Tribunal Electoral del Estado, ni consejero electoral del Instituto Electoral y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y
+IV. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-V. No ser servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección.
+V. No ser Magistrada o Magistrado del Tribunal Electoral del Estado, ni consejera o consejero y (sic) de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VI. No ser servidora o servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2365,73 +2399,59 @@ El municipio libre es base de la división territorial y de la organización pol
 
 I. Cada municipio será gobernado por un Ayuntamiento de elección popular directa, que residirá en la cabecera municipal. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia entre éste y el gobierno del Estado.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
 
-II. Los ayuntamientos se integrarán por un Presidente Municipal, regidores y síndicos electos popularmente, según los principios de mayoría relativa y representación proporcional, en el número, las bases y los términos que señale la ley de la materia. Los regidores electos por cualquiera de dichos principios, tendrán los mismos derechos y obligaciones;
+II. Los ayuntamientos se integrarán por una Presidencia Municipal, regidurías y sindicatura electos popularmente, según los principios de mayoría relativa y representación proporcional, en el número, las bases y los términos que señale la ley de la materia. Las regidurías electas por cualquiera de dichos principios, tendrán los mismos derechos y obligaciones;
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Es obligación de los partidos políticos y candidatos independientes, que en las listas de candidatos a presidente, regidores y síndico municipales sea respetado el principio de paridad de género, en el que las fórmulas de candidatos se alternarán por género y cada candidato propietario a presidente, regidor o síndico tenga un suplente del mismo género.
+Es obligación de los partidos políticos candidatas y candidatos independientes, que en las listas de candidaturas a la presidencia, regidurías y sindicatura municipales sea respetado el principio de paridad de género, en el que las fórmulas de candidatos se alternarán por género y cada candidato propietario a presidenta o presidente, regidora o regidor, o síndica o sindico. tenga un suplente del mismo género. Es obligación que por lo menos una candidata o candidato de los registrados en las planillas para munícipes tenga entre dieciocho y treinta y cinco años de edad
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
 
 Es obligación que el cincuenta por ciento de las candidaturas a presidentes municipales que postulen los partidos políticos y coaliciones en el estado deberá ser de un mismo género.
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014) (REPUBLICADO, P.O. 2 DE JUNIO DE 2017)
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Para garantizar el derecho de los pueblos y comunidades indígenas, la ley determinará lo conducente a efecto de que en las planillas de candidatos a munícipes participen ciudadanos integrantes de esas poblaciones;
+Para garantizar el derecho de los pueblos y comunidades indígenas, la ley determinará lo conducente a efecto de que en las planillas de candidaturas a munícipes participe la ciudadanía integrante de esas poblaciones;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-III. Los presidentes, regidores y síndicos durarán en su encargo tres años. Iniciarán el ejercicio de sus funciones a partir del 1.° de octubre del año de la elección y se renovarán en su totalidad al final de cada periodo. Los ayuntamientos conocerán de las solicitudes de licencias que soliciten sus integrantes y decidirán lo procedente;
+III. Las personas electas para ocupar presidencia, regidurías y sindicatura durarán en su encargo tres años. Iniciarán el ejercicio de sus funciones a partir del 1o de octubre del año de la elección y se renovarán en su totalidad al final de cada periodo. Los ayuntamientos conocerán de las solicitudes de licencias que soliciten sus integrantes y decidirán lo procedente;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
 
-IV. Los presidentes, regidores y el síndico de los ayuntamientos, electos popularmente por elección directa en los términos de las leyes respectivas, podrán ser postulados, por única vez, al mismo cargo para el período inmediato siguiente. La postulación para ser reelecto solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado originariamente, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato; la ley electoral establecerá las normas aplicables. En el caso de los munícipes que sean electos como independientes, podrán postularse para la reelección solamente con su misma calidad y no podrán ser postulados por un partido político, a menos que demuestren su militancia a ese partido político antes de la mitad de su mandato.
+IV. Las personas electas para ocupar la presidencia, regidurías y sindicatura de los ayuntamientos, electos popularmente por elección directa en los términos de las leyes respectivas, podrán ser postulados, por única vez, al mismo cargo para el período Inmediato siguiente. La postulación para ser reelecto solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado originariamente, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato; la ley electoral establecerá las normas aplicables. En el caso de los munícipes que sean electos como independientes, podrán postularse para la reelección solamente con su misma calidad y no podrán ser postulados por un partido político, a menos que demuestren su militancia a ese partido político antes de la mitad de su mandato.
 
 Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la designación que se les dé, podrán ser electos para el período inmediato.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Tratándose del Presidente Municipal y Síndico que pretendan ser postulados para un segundo periodo deberán separarse del cargo al menos con noventa días de anticipación al día de la jornada electoral.
+Tratándose de la Presidenta o del Presidente Municipal, Síndica o Sindico que pretendan ser postulados para un segundo periodo deberán separarse del cargo al menos con noventa días de anticipación al día de la jornada electoral.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 26940/LXI/18 PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2019, PÁGINA 4.]</small>
+V. (DEROGADA, P.O. 8 DE JULIO DE 2014)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 74.
 
-Para ser Presidente Municipal, regidor y síndico se requiere:
+Para ser Presidenta o Presidente Municipal, regidora o regidor, sindica o síndico se requiere:
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
+I. Tener ciudadanía mexicana, en pleno ejercicio de sus derechos;
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+II. Ser persona nacida en el municipio o área metropolitana correspondiente o avecindada de los mismos cuando menos los dos años anteriores al día de la elección;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
+III. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios;
 
-II. Ser nativo del municipio o área metropolitana correspondiente o avecindado de los mismos cuando menos los dos años anteriores al día de la elección;
+IV. No ser Magistrada o Magistrado del Tribunal Electoral del Estado, ni consejera o consejero electoral del instituto Electoral y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elcción; (sic) y
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
+V. No ser servidora o servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección. Si se trata de funcionaria o funcionario encargado de la Hacienda Municipal, es necesario que haya presentado sus cuentas públicas.
 
-III. No ser Magistrado del Tribunal Electoral del Estado, ni consejero electoral del Instituto Electoral y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y
-
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2019)</small>
-
-V (SIC). No ser servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección. Si se trata del funcionario encargado de la Hacienda Municipal, es necesario que haya presentado sus cuentas públicas.
-
-(NOTA: EL 28 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 38/2017 Y SUS ACUMULADAS 39/2017 Y 60/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
-
-###### Artículo 75.
-
-Sólo tendrán derecho a participar en el procedimiento de asignación de regidores de representación proporcional los partidos políticos, coaliciones o planillas de candidatos independientes que no hubieren obtenido la mayoría, y obtengan cuando menos el tres punto cinco por ciento de la votación total emitida. EN EL CASO DE LOS PARTIDOS POLÍTICOS SE REQUERIRÁ ADICIONALMENTE QUE HUBIEREN REGISTRADO PLANILLAS EN EL NÚMERO DE AYUNTAMIENTOS QUE DETERMINE LA LEY. La ley establecerá los procedimientos y requisitos para realizar la asignación a que se refiere este artículo.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 ###### Art. 75.
 
-Sólo tendrán derecho a participar en el procedimiento de asignación de regidores de representación proporcional los partidos políticos, coaliciones o planillas de candidatos independientes que no hubieren obtenido la mayoría, siempre que hubieren registrado planillas en el número de ayuntamientos que determine la ley, con excepción de los candidatos independientes, y obtengan cuando menos el tres punto cinco por ciento de la votación total emitida. La ley establecerá los procedimientos y requisitos para realizar la asignación a que se refiere este artículo.
+Sólo tendrán derecho a participar en el procedimiento de asignación de regidoras o regidores de representación proporcional los partidos políticos, coaliciones o planillas de candidatos independientes que no hubieren obtenido la mayoría, y obtengan cuando menos el tres punto cinco por ciento de la votación total emitida. La ley establecerá los procedimientos y requisitos para realizar la asignación a que se refiere este artículo.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2439,9 +2459,9 @@ Sólo tendrán derecho a participar en el procedimiento de asignación de regido
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá declarar que los ayuntamientos se han desintegrado y suspender o revocar el mandato a alguno de sus miembros por cualesquiera de las causas graves que las leyes prevengan, previo el derecho de audiencia y defensa correspondiente.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Cuando la desintegración de un ayuntamiento ocurra durante el primer año de ejercicio, el Instituto Electoral del Estado, en un término que no excederá de dos meses, convocará a elecciones extraordinarias para elegir al presidente, regidores y síndicos que habrán de concluir el período y el Congreso del Estado elegirá un Concejo Municipal que estará en funciones en tanto ocupen el cargo quienes sean electos popularmente. De igual forma se procederá en caso de nulidad de elecciones.
+Cuando la desintegración de un ayuntamiento ocurra durante el primer año de ejercicio, el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, en un término que no excederá de dos meses, convocará a elecciones extraordinarias para elegir presidencia, regidurías y sindicaturas que habrán de concluir el período y el congreso del Estado elegirá un concejo Municipal que estará en funciones en tanto ocupen el cargo quienes sean electos popularmente. De igual forma se procederá en caso de nulidad de elecciones.
 
 Si no procediere que se celebren nuevas elecciones, el Congreso designará entre los vecinos del municipio a los integrantes de los concejos municipales que concluirán los períodos respectivos, quienes deberán reunir los mismos requisitos que se establecen para la elección de presidentes municipales.
 
@@ -4152,3 +4172,45 @@ P.O. 2 DE OCTUBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El Congreso del Estado, deberá en un plazo de noventa días, a partir de la entrada en vigor del presente decreto, expedir la normatividad reglamentaria del artículo 117 Bis.
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27917/LXII/20 QUE REFORMA LOS ARTÍCULOS 6°, 11, 12, 13, 18, 19, 20, 21, 22, 23, 37, 73, 74, 75, Y 76 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DEL ESTADO (SIC) DE JALISCO EN MATERIA ELECTORAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Congreso del Estado deberá armonizar a más tardar el día 30 de junio de 2020 las disposiciones del Código Electoral del Estado de Jalisco aplicables a la presente reforma constitucional.
+
+(NOTA: EL 29 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, TEMA 3.1, DÉCIMO PRIMERO Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2020 Y SUS ACUMULADAS 166/2020 Y 234/2020, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+TERCERO. POR ÚNICA OCASIÓN Y POR UNA CUESTIÓN EXTRAORDINARIA, CON MOTIVO DE LA CONTINGENCIA SANITARIA OCASIONADA POR LA ENFERMEDAD COVID-19, EL SIGUIENTE PROCESO ELECTORAL EN EL QUE SE ELEGIRÁN DIPUTADOS LOCALES Y MUNÍCIPES, CUYA JORNADA ELECTORAL SERÁ EL PRIMER DOMINGO DE JUNIO DE 2021, INICIARÁ EN LA PRIMERA SEMANA DEL MES DE ENERO DE ESE AÑO. ASIMISMO, LAS CAMPAÑAS ELECTORALES PARA DIPUTADOS LOCALES Y MUNÍCIPES TENDRÁN UNA DURACIÓN MÁXIMA DE 30 DÍAS. EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO DEBERÁ APROBAR EL CALENDARIO INTEGRAL DEL PROCESO ELECTORAL, CUANDO MENOS 30 DÍAS ANTES DEL INICIO DEL PROCESO ELECTORAL, EN LO RELATIVO A LAS FECHAS PARA EL PROCESO PREVISTAS POR LOS ARTÍCULOS 156, 157, 183, 184 213, 214, 229, 232, Y 240, Y DEMÁS APLICABLES DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO EN CUANTO A LO SIGUIENTE:
+
+1. FECHA DE EXPEDICIÓN DE LA CONVOCATORIA PARA CONSEJEROS DISTRITALES Y MUNICIPALES ELECTORALES.
+
+2. FECHA DE INSTALACIÓN E INICIO DE FUNCIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES.
+
+3. FECHA PARA EL REGISTRO DE MÉTODOS DE SELECCIÓN DE CANDIDATOS DE LOS PARTIDOS POLÍTICOS.
+
+4. FECHA PARA EL REGISTRO DE CONVENIOS DE COALICIÓN DE LOS PARTIDOS POLÍTICOS.
+
+5. FECHA PARA REGISTRO DE PLATAFORMA DE LOS PARTIDOS POLÍTICOS.
+
+6. FECHA DE INICIO DE LOS PROCESOS INTERNOS PARA SELECCIÓN DE CANDIDATOS DE LOS PARTIDOS POLÍTICOS.
+
+7. PLAZOS PARA EL REGISTRO INTERNO DE PRECANDIDATOS EN LOS PARTIDOS POLÍTICOS.
+
+8. FECHA DE INICIO DE LAS PRECAMPAÑAS.
+
+9. PLAZOS PARA LA PRESENTACIÓN DE LAS SOLICITUDES DE REGISTRO DE CANDIDATOS.
+
+10. FECHA DE INICIO DE LAS CAMPAÑAS.
+
+11. FECHA DE EMISIÓN DE LA CONVOCATORIA DIRIGIDA A LOS CIUDADANOS INTERESADOS EN POSTULARSE COMO CANDIDATOS INDEPENDIENTES.
+
+12. FECHA DE PRESENTACIÓN DE LA MANIFESTACIÓN DE LA INTENCIÓN DE LOS CIUDADANOS QUE PRETENDAN POSTULARSE COMO CANDIDATOS INDEPENDIENTES.
+
+13. FECHA PARA EL INICIO DEL ACOPIO DE FIRMAS DE APOYO CIUDADANO DE CANDIDATOS INDEPENDIENTES.
+
+ASÍ MISMO DEBERÁ EMITIR LA CONVOCATORIA RESPECTIVA DEL PROCESO ELECTORAL LOCAL ORDINARIO 2021.
+
+PARA TALES EFECTOS, SE FACULTA AL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO PARA AJUSTAR LOS PLAZOS Y TÉRMINOS DEL PROCESO ELECTORAL LOCAL ORDINARIO 2021, EN RELACIÓN CON LOS PREVISTOS EN EL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO.
