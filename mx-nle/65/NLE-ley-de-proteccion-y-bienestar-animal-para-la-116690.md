@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2020-06-24"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -1123,9 +1123,17 @@ III. Si el animal fue motivado por el agredido a través de sustos, golpes o mal
 
 Ningún animal podrá ser sacrificado considerando únicamente su raza, sino que el Médico Veterinario Zootecnista responsable del Centro deberá tomar en cuenta todos los elementos relacionados con el ataque, para determinar el destino del animal.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
 ###### Artículo 76.
 
-El personal del Centro de Control Canino y Felino deberá regresar los animales a sus propietarios después del período de observación que determine el médico veterinario responsable del Centro, previa firma de responsiva y prueba de comportamiento para validar su socialización en caso de que se requiera, o proceder al sacrificio en los casos que lo ameriten.
+A excepción de los plazos establecidos en los artículos 6 y 74 de la presente Ley, y con el objetivo de identificar enfermedades o comportamientos que pongan en peligro a los propietarios o a la comunidad, los animales ingresados en el Centro de Control Canino y Felino, deberán de cumplir con un periodo de estadía para observación clínica que determine el médico veterinario responsable del Centro, que tendrá como mínimo 72 horas y máximo de 10 días naturales. Periodo necesario para determinar previa firma responsiva, si se regresa a sus propietarios cuando los hubiera, o se procede al Sacrificio Humanitario en los casos que ameriten.
+
+En el caso de que se trate de un animal agresor, el plazo forzoso de observación descrito en el párrafo anterior será de 10 días, durante el cual teniendo en cuenta el artículo 75 de la presente Ley, se determinará si el animal representa un peligro para el dueño o para la sociedad, y si es posible su devolución a sus propietarios.
+
+Cuando el Centro determine el sacrificio humanitario del animal agresor, los propietarios podrán inconformarse y recurrir a un proceso de valoración externo, realizado por el organismo que previamente haya sido autorizado por el Consejo Ciudadano. Para dicha valoración, el Organismo podrá solicitar la custodia del animal hasta por 10 días naturales, periodo durante el cual se analizará el comportamiento y deberá de emitir una opinión técnica.
+
+En el caso de que la opinión técnica emitida por el Organismo descrito en el párrafo anterior sea contraria a la anteriormente emitida por el Centro de Control Canino y Felino, será atribución de la Secretaría de Salud del Estado determinar en un plazo de hasta 5 días hábiles posteriores, de manera fundada y motivada, si procede la liberación a sus dueños o el procedimiento de Sacrificio Humanitario.
 
 ###### Artículo 77.
 
@@ -1133,7 +1141,9 @@ El procedimiento de eutanasia se realizará en animales que hayan ingresado al C
 
 I. Cuando sean asegurados y no reclamados en un plazo de tres hasta 15 días naturales contados a partir de su ingreso al Centro por deambular en la vía pública y se encuentren sin asistencia y cuidado humano, salvo aquellos que hayan sido seleccionados para adopción;
 
-II. Cuando los animales tengan algún tipo de identificación o sean reportados como extraviados y sus propietarios, poseedores o encargados no los recojan en un plazo de cinco hasta 15 días naturales contados a partir de su ingreso al Centro;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+II. Cuando los animales tengan algún tipo de identificación o sean reportados como extraviados y sus propietarios, poseedores o encargados no los recojan en un plazo de cinco hasta veinte días naturales contados a partir de su ingreso al Centro;
 
 III. Por el sufrimiento que le cause una enfermedad o accidente y sean desahuciados clínicamente para su recuperación y exista un dictamen emitido y firmado por el médico veterinario responsable del centro;
 
@@ -1141,15 +1151,23 @@ IV. Cuando a juicio de la autoridad competente por el exceso en el número de lo
 
 V. Cuando los animales agresores, en un período de observación de 10 días naturales, no sean reclamados por sus propietarios, poseedores o encargados aunque hayan sido debidamente notificados del término del periodo; y
 
-VI. Cuando una autoridad judicial o de salud así lo ordene por medio de una resolución.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VI. Cuando una autoridad de salud así lo ordene por medio de una resolución, conforme al cuarto párrafo del artículo 76 de la presente Ley.
 
 ###### Artículo 78.
 
 El procedimiento de sacrificio de emergencia de animales en los Centros de Control Canino y Felino se realizará después de que el animal haya sido valorado por un Médico Veterinario Zootecnista, considerando que cuente con lesiones que no sean compatibles con la vida, o enfermedades terminales o condición que le produzcan un sufrimiento excesivo y siguiendo los procedimientos establecidos en la norma oficial aplicable.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
 ###### Artículo 79.
 
-Salvo la eutanasia de emergencia, está prohibido realizar este procedimiento en la vía pública, permitir el acceso a personal no autorizado, realizarlo sin asegurarse que el mismo se efectúe fuera de la vista del público en general o utilizar cualquier método que cause al animal convulsiones, sufrimiento y que no garantice una muerte rápida y sin dolor.
+Salvo la eutanasia de emergencia, está prohibido proceder al sacrificio en la vía pública, o en contravención del Sacrificio Humanitario.
+
+A los procesos de aplicación del Sacrificio Humanitario, podrán asistir como observadores, guardando el decoro y siguiendo las instrucciones y normas del Centro, los propietarios de los animales agresores, los integrantes del Consejo Ciudadano, las Organizaciones de la Sociedad Civil legalmente constituidas dedicadas a la protección, defensa y bienestar de los animales y los médicos veterinarios zootecnistas debidamente acreditados y certificados por la Secretaria de Salud. No se permitirá la entrada como observadores a menores de edad.
+
+Para cumplir con lo anterior, el personal del Centro de Control Canino y Felino deberá de comunicar al Consejo Ciudadano y publicar en estrados con al menos un día de anticipación, la calendarización que se tenga de procedimientos de Sacrificio Humanitario, con excepción de los que establece el artículo 77 fracciones III y IV y el artículo 78 de la presente Ley.
 
 ###### Artículo 80.
 
@@ -1184,6 +1202,14 @@ El personal encargado de llevar a cabo los diversos procedimientos y actividades
 ###### Artículo 85.
 
 El Centro de Control Canino y Felino deberá contar con los expedientes actualizados de todo su personal, los cuales deberán contar con al menos copias simples de su título y cédula profesional, diplomados, especialidades u otros que lo avalen. Dichos expedientes contendrán los resultados de las evaluaciones psicológicas periódicas practicadas a su personal.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+###### Artículo 85 Bis.
+
+El Centro de Control Canino y Felino deberá de contar con los expedientes actualizados de todos los animales que ingresen al Centro, el cual deberá de incluir todos los procedimientos que tuvieron los dichos animales durante su custodia. Dichos expedientes deberán de ser compartidos de forma expedita, previo oficio de solicitud, a la persona que demuestre un interés legítimo, así como al Consejo Ciudadano.
+
+Además, el Centro publicará en estrados para consulta de las personas interesadas, la relación de animales ingresados, egresados y de aquellos sometidos al sacrificio humanitario, teniendo dicha información actualizada de forma diaria. Para realizar lo anterior podrá auxiliarse de cualquier medio visual que permita una identificación de los animales enlistados.
 
 ###### Artículo 86.
 
@@ -1964,3 +1990,15 @@ P.O. 24 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 315. SE REFORMA EL QUINTO TRANSITORIO DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN Y SE REFORMA EL SEXTO TRANSITORIO DEL DECRETO 176 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE FECHA 29 DE ENERO DE 2020, QUE REFORMA LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 316. SE REFORMA EL ARTÍCULO 76, LAS FRACCIONES II Y VI DEL ARTÍCULO 77 Y EL ARTÍCULO 79; Y SE ADICIONA UN ARTÍCULO 85 BIS, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- El Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León tendrá un plazo de treinta días naturales, contados a partir de su instalación, para designar a las Organizaciones autorizadas para cumplir con lo establecido en el párrafo tercero del artículo 76.
+
+TERCERO.- Los Municipios y la autoridad de salud correspondiente tendrán un plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto para actualizar sus reglamentos de acuerdo al mismo.
+
+CUARTO.- Se derogan todas las disposiciones normativas que contravengan al presente Decreto.
