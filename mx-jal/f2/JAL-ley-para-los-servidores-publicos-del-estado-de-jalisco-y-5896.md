@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2020-04-24"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -430,6 +430,14 @@ II) Las análogas a las establecidas en los incisos anteriores.
 m) Por el incumplimiento de las obligaciones establecidas en los artículos 55 y 56, o por la violación de las prohibiciones del artículo 56-Bis de esta ley, de acuerdo con la valoración de la gravedad de la falta;
 
 n) (DEROGADO, P.O. 16 DE MARZO DE 2017)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+ñ) Cuando realiza por sí o a través de terceros, alguna conducta que acredite violencia política contra las mujeres en razón de género de conformidad con lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco y demás leyes aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+
+o) Las análogas a las establecidas en los incisos anteriores.
 
 VI. (DEROGADA, P.O. 16 DE MARZO DE 2017)
 
@@ -1153,9 +1161,9 @@ A petición de la Comisión Estatal de Derechos Humanos, el Congreso del Estado 
 
 XXIX. Actuar en el ejercicio de sus funciones con respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales de los que el Estado mexicano sea parte; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-XXX. Abstenerse de ejecutar en contra de sus compañeras o compañeros de trabajo o usuarias y usuarios de los servicios públicos, actos u omisiones que materialicen cualquier tipo o modalidad de violencia de género previstas por las leyes aplicables.
+XXX. Abstenerse de ejecutar en contra de sus compañeras o compañeros de trabajo o usuarias y usuarios de los servicios públicos, por sí o por interpósita persona, actos u omisiones que materialicen cualquier tipo o modalidad de violencia contra las mujeres en razón de género previstas por las leyes aplicables.
 
 ## TITULO TERCERO
 
@@ -1167,9 +1175,9 @@ XXX. Abstenerse de ejecutar en contra de sus compañeras o compañeros de trabaj
 
 Son obligaciones de las Entidades Públicas, en las relaciones laborales con sus servidores:
 
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-I. Respetar y tratar dignamente a los servidores públicos;
+I. Respetar y tratar dignamente a las y los servidores públicos, garantizando la igualdad de trato y oportunidades entre mujeres y hombres, así como el derecho de las mujeres a una vida libre de violencia en el ejercicio de sus funciones;
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1241,17 +1249,23 @@ XVII. Realizar los movimientos, trámites o procesos administrativos para el cum
 
 XVIII. Implementar registros de asistencia que den certeza al trabajador día a día, de donde el trabajador obtenga una constancia expresa de lo asentado;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-XIX. Permitir la consulta y entregar al servidor público copia del expediente laboral, a su costa; y
+XIX. Permitir la consulta y entregar al servidor público copia del expediente laboral, a su costa;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-XX. Otorgar a los servidores públicos capacitación o actualización complementarias, que tengan por objeto la formación de conformidad con las normas que rijan la buena gestión y la excelencia en el servicio público.
+XX. Otorgar a los servidores públicos capacitación o actualización complementarias, que tengan por objeto la formación de conformidad con las normas que rijan la buena gestión y la excelencia en el servicio público, e
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-Art. 56 bis. Ninguna entidad pública podrá:
+XXI. Implementar medidas para prevenir, atender, sancionar y erradicar las conductas de violencia política contra las mujeres en razón de género, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco y el artículo 22 del presente ordenamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+
+Art. 56 bis. Ninguna Entidad Pública podrá:
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
 I. Exigir la presentación de certificados médicos de ingravidez a las mujeres que aspiren a un empleo en el servicio público.
 
@@ -1263,9 +1277,9 @@ II. Negar la admisión a un empleo sólo por el hecho de ser mujer, estar embara
 
 III. Provocar el despido o la renuncia del trabajador por cualquier causa distinta a las mencionadas en el artículo 22 de este ordenamiento y las demás leyes aplicables; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-IV. Omitir las investigaciones de las denuncias de actos considerados como tipos o modalidades de violencia de género previstas por las leyes aplicables.
+IV. Omitir las investigaciones de las denuncias o abstenerse de sancionar los actos considerados como tipos o modalidades de violencia contra las mujeres en razón de género previstas por las leyes aplicables.
 
 ### CAPITULO II. Del escalafón
 
@@ -3016,3 +3030,17 @@ P.O. 24 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27902/LXII/20 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 47, CREA EL CAPÍTULO VII DENOMINADO DE LAS SESIONES A DISTANCIA Y ADICIONA LOS ARTÍCULOS 33 BIS, 33 TER, 33 QUÁTER, 33 QUINQUIES Y 33 SEXTIES, TODOS DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO, EL ARTÍCULO 75 Y ADICIONA EL ARTÍCULO 6 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 115 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ADICIONA LOS ARTÍCULOS 22 BIS, 39 BIS, 143 BIS Y 153 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 27 Y ADICIONA LOS ARTÍCULOS 27 BIS Y 29 BIS, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 7 Y 12 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO; ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 40 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27922/LXII/20 QUE REFORMA Y ADICIONA LOS ARTÍCULOS 11, 17, 29, 34, 41, ADICIONANDO LA SECCIÓN DÉCIMA OCTAVA, DEL CAPÍTULO IV, DEL TÍTULO PRIMERO, Y LOS ARTÍCULOS 41 BIS Y 57 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; 46 Y SE ADICIONA EL ARTICULO 52 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS; LOS ARTICULOS 22, 55, 56 Y 56 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS; EL ARTÍCULO 8°, FRACCIÓN XVIII, ADICIONANDO LAS FRACCIONES XXXIII Y XXXIV, RECORRIENDO LA SUBSECUENTE; Y SE ADICIONAN EL CAPÍTULO IV BIS Y LOS ARTÍCULOS 12 BIS, 12 TER, 12 QUÁTER, 12 QUINQUIES, 12 SEXIES, 12 SEPTIES Y UN ARTÍCULO 61, DE LA LEY ORGÁNICA DE LA FISCALÍA, TODAS LAS LEYES DEL ESTADO DE JALISCO, CON EL OBJETO DE PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO. Se instruye al Consejo General del Instituto Electoral y de Participación Ciudadana del Estado, para que (sic) el termino de 60 días hábiles posteriores a la entrada en vigor de este decreto, dicte los acuerdos necesarios para hacer efectivas las disposiciones, así como expedir o en su caso adecuar los reglamentos internos con el objeto de prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
+
+CUARTO. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres del Gobierno del Estado de Jalisco, procurará dar cumplimiento a las disposiciones del presente decreto para traducir, publicar y difundir la reforma en lenguas de comunidades y pueblos originarios asentados en territorio estatal, y en escritura braille.
+
+QUINTO. El Congreso del Estado deberá realizar, en un término de 60 días naturales, las adecuaciones suficientes para garantizar la creación y operación de la Base Estadística Estatal de Violencia Política prevista por la fracción XXXV del artículo 8 de la presente Ley.
