@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-sistema-de-medios-de-impugnacion-en-materia-109154"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-17"
-last_updated: "2017-06-26"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "SIN"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el viernes 17 de julio de 2015.
 
@@ -1289,9 +1289,11 @@ El Juicio para la protección de los derechos políticos, procederá cuando el c
 
 Asimismo, procederá en contra de actos y resoluciones por quien teniendo interés jurídico considere que indebidamente se afecto su derecho para integrar las autoridades electorales del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+
 ###### Artículo 128.
 
-El Juicio podrá ser promovido por el ciudadano cuando:
+El Juicio podrá ser promovido por la ciudadana o el ciudadano cuando:
 
 I. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a algún cargo de elección popular;
 
@@ -1315,7 +1317,13 @@ X. Teniendo interés jurídico, se viole su derecho de acceso a la información 
 
 XI. Considere que se violó su derecho de participación ciudadana por actos u omisiones derivadas de la tramitación de iniciativas ciudadanas;
 
-XII. Habiendo transcurrido el plazo señalado en la Ley Orgánica del Congreso del Estado de Sinaloa, no se hubiere emitido el dictamen que corresponda a iniciativa de ley o decreto, presentada por el ciudadano, de conformidad con las disposiciones de la Ley de Participación Ciudadana para el Estado de Sinaloa y en ejercicio del derecho previsto en la fracción V del artículo 45 de la Constitución; y,
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XII. Habiendo transcurrido el plazo señalado en la Ley Orgánica del Congreso del Estado de Sinaloa, no se hubiere emitido el dictamen que corresponda a iniciativa de ley o decreto, presentada por el ciudadano, de conformidad con las disposiciones de la Ley de Participación Ciudadana para el Estado de Sinaloa y en ejercicio del derecho previsto en la fracción V del artículo 45 de la Constitución;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XII Bis. Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa y en la Ley de Instituciones y Procedimientos Electorales; y,
 
 XIII. Cualquier otro acto u omisión, emanado de autoridad electoral u órgano partidario de carácter local, que afecte los derechos fundamentales de carácter político-electoral del ciudadano.
 
@@ -1786,3 +1794,11 @@ Quinto. Las referencias relativas a la Ley General de Responsabilidades Administ
 Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
 
 Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 455 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, Y LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
