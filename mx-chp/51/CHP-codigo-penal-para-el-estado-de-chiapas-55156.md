@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2020-05-04"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -1789,35 +1789,65 @@ Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea 
 
 El juzgador tomará en cuenta para los efectos de la sanción las modalidades calificativas y atenuantes en que el homicidio se hubiere perpetrado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 ### Capítulo II. Lesiones
 
 ###### Artículo 164 Bis.
 
-Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género, y se sancionará con prisión de cuarenta a sesenta años y de quinientos a mil días multa.
+Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género, se le impondrán de cuarenta y cinco a sesenta y cinco años de prisión y de quinientos a mil días de multa.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRAFO], P.O. 1 DE JULIO DE 2020)</small>
+
+Se considera que existen razones de género cuando ocurra alguna de las siguientes circunstancias:
 
 > <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
-Serán consideradas razones de género las siguientes:
-
 I. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, conyugal, concubinato, noviazgo o cualquier otra relación de hecho.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
 II. Exista o haya existido entre el activo y la víctima una relación laboral, docente o cualquiera que implique subordinación o superioridad.
 
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
+
 III. La víctima presente signos de violencia sexual de cualquier tipo.
 
-IV. A la víctima se le hayan infligido lesiones o mutilaciones, previas o posteriores a la privación de la vida.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-V. Existan datos o antecedentes que establezcan que se han cometido amenazas, acoso, violencia o lesiones de cualquier tipo del sujeto activo en contra de la víctima.
+IV. A la víctima se le haya infligido lesiones o mutilaciones, previas o posteriores a la privación de la vida o actos de necrofilia.
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+V. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
 VI. El cuerpo de la víctima sea expuesto, depositado o arrojado en lugar público.
 
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
+
 VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de su vida.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VIII.- Existan antecedentes o datos de cualquier tipo de violencia, del sujeto activo en contra de la víctima.
 
 > <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
 En el caso de la fracción I se impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Cuando el feminicidio sea cometido en contra de una niña, adolescentes, adulta mayor, o bien la víctima cuente con algún tipo de discapacidad, la pena prevista se aumentará de una mitad de su mínimo hasta una mitad de su máximo, lo mismo ocurrirá en aquellos casos de que la víctima sea privada de la vida al encontrarse a bordo de un vehículo de servicio público o privado, o bien sea utilizado dicho medio previo o posterior a su ejecución.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Al servidor público que retarde o entorpezca o por negligencia la procuración o administración de justicia en el delito de feminicidio, se sujetara a lo dispuesto en el artículo 424 fracción XX y demás relativos del presente código.
 
 ### Capítulo III. Calificativas y Atenuantes Comunes Para los Delitos de Homicidio, Muerte Cerebral y Lesiones
 
@@ -4457,6 +4487,8 @@ Cuando los delitos a que se refieren los artículos 420, 423 y 426 del presente 
 
 Delitos Comunes que Pueden ser Cometidos por Servidores Públicos tanto en Contra de la Procuración o Administración de Justicia como Durante la Ejecución de la Pena
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)
+
 ###### Artículo 416.
 
 (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
@@ -4687,13 +4719,17 @@ XIX.- Desviar u obstaculizar la investigación del hecho delictuoso de que se tr
 
 XX. Niegue, obstaculice o retarde dolosamente la procuración y administración de justicia en el delito de Feminicidio.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-A quién cometa el delito previsto en la fracción I, II, III, IV, V, VI, X, XIII, XVIII, XIX y XX, se le impondrá la pena de tres a ocho años de prisión y de quinientos a mil quinientos días multa.
+A quien cometa el delito previsto en la fracción I, II, III, IV, V, VI, X, XIII, XVIII y XIX se le impondrá la pena de tres a ocho años de prisión y de quinientos a mil quinientos días multa.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 A quién cometa los delitos previstos en las fracciones VII, VIII, IX, XI, XII, XIV, XV, XVI y XVII, se le impondrá la pena de cuatro a diez años de prisión y de mil a dos mil días multa.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+A quien cometa el delito previsto en la fracción XX, se le impondrá la pena de seis a diez años de prisión y de quinientos a mil quinientos días multa.
 
 ### Capítulo XVII. Tráfico de Influencia
 
@@ -6050,3 +6086,11 @@ P.O. 4 DE MAYO DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 244 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
