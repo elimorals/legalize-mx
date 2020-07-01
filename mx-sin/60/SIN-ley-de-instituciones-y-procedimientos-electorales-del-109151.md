@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2020-06-05"
+last_updated: "2020-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -61,7 +61,13 @@ II. Actos Anticipados de Precampaña: Son acciones y expresiones realizadas bajo
 
 III. Candidata o Candidato Independiente: La o el ciudadano que obtenga por parte de la autoridad electoral el acuerdo de registro para contender en una elección popular en el Estado, habiendo cumplido los requisitos que para tal efecto establece la presente ley;
 
-IV. Ciudadanos: Las personas que teniendo la calidad de mexicanos reúnan los requisitos determinados en el artículo 8 de la Constitución Estatal;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+IV. Ciudadanas o Ciudadanos: Las personas que teniendo la calidad de mexicanos reúnan los requisitos determinados en el artículo 8 de la Constitución Estatal;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+IV Bis. Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos públicos;
 
 V. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
@@ -69,9 +75,15 @@ VI. Constitución Estatal: La Constitución Política del Estado de Sinaloa;
 
 VII. Consejo General: El Consejo General del Instituto Electoral del Estado de Sinaloa;
 
-VIII. Gobernador: El Gobernador Constitucional del Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VIII. Gobernadora o Gobernador: La persona titular del Poder Ejecutivo del Estado de Sinaloa;
 
 IX. Instituto: El Instituto Electoral del Estado de Sinaloa;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+IX Bis. Ley de Acceso: Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
@@ -81,9 +93,13 @@ X. Periódico Oficial: El Periódico Oficial "El Estado de Sinaloa";
 
 XI. Tribunal Electoral: El Tribunal Electoral del Estado de Sinaloa; y,
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-XII. Violencia política en razón de género: Es la acción u omisión que, en el ámbito político o público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer o el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o función del poder público.
+XII. Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas tratándose de precandidaturas, candidaturas o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 ###### Artículo 3.
 
@@ -95,7 +111,13 @@ I. La interpretación de esta ley se hará conforme a los criterios gramatical, 
 
 II. Las disposiciones de la presente ley se fundan en la Constitución Estatal y las leyes aplicables, conforme a lo previsto en la Constitución y las Leyes Generales vigentes en materia electoral;
 
-III. La promoción de la participación para el ejercicio del derecho al sufragio, corresponde al Instituto, a los partidos políticos y sus candidatos, a las candidaturas independientes y a las y los ciudadanos del Estado. El Consejo General emitirá las reglas a las que se sujetarán las campañas institucionales de promoción del voto en las elecciones populares; y,
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+III. La promoción de la participación para el ejercicio del derecho al sufragio, corresponde al Instituto, partidos políticos y sus candidaturas, a las candidaturas independientes y a la ciudadanía del Estado.
+
+El Instituto, los partidos políticos, los y las personas precandidatas y candidatas, deberán garantizar el principio de paridad de género en el ejercicio de los derechos políticos y electorales, así como el respeto a los derechos humanos de las mujeres.
+
+El Consejo General emitirá las reglas a las que se sujetarán las campañas institucionales de promoción del voto en los procesos electorales; y,
 
 IV. El Instituto en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de esta ley y demás disposiciones jurídicas aplicables.
 
@@ -110,6 +132,10 @@ Votar en las elecciones constituye un derecho y una obligación que se ejerce pa
 El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
 
 Es derecho de las y los ciudadanos ser votado para todos los cargos de elección popular, teniendo las calidades que establece la Legislación de la materia y en su caso, solicitar su registro de manera independiente, cuando cumplan los requisitos y condiciones previstos en esta ley.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Los derechos político-electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 5.
 
@@ -173,17 +199,33 @@ Para poder figurar como candidatos en la lista de circunscripción electoral plu
 
 III. Ser mayor de 21 años en la fecha de la elección.
 
-IV. Haberse separado cuando menos noventa días antes de la elección de los cargos de Gobernador, Secretarios, Subsecretarios y Titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal, Magistrados del Supremo Tribunal de Justicia, Procurador General de Justicia, Jueces de Primera Instancia, Recaudadores de Rentas y Presidentes Municipales en los Distritos Electorales en donde ejerzan sus funciones, Diputados o Senadores del Congreso de la Unión, las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o Municipios;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-V. No ser ministro de culto;
+IV. Haberse separado cuando menos noventa días antes de la elección de los cargos de Gubernatura, Secretarías, Subsecretarías y Titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal, Magistratura del Supremo Tribunal de Justicia, Fiscal General del Estado, Juezas o Jueces de Primera Instancia, Recaudadores de Rentas y Presidencias Municipales en los Distritos Electorales en donde ejerzan sus funciones, Diputaciones o Senadurías del Congreso de la Unión, las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o Municipios;
 
-VI. No ser Magistrado o Secretario del Tribunal Electoral, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VII. No ser Secretario Ejecutivo del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+V. No ser ministra o ministro de culto;
 
-VIII. No ser Consejero Presidente o Consejero Electoral en el Consejo General del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y,
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate.
+VI. No ser Magistrada o Magistrado, Secretaria o Secretario General del Tribunal Electoral del Estado, salvo que la persona se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VII. No ser Secretario o Secretaria Ejecutiva del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VIII. No ser Consejera o Consejero Presidente o Consejera o Consejero Electoral en el Consejo General del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+X. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
@@ -375,15 +417,19 @@ Los partidos políticos podrán registrar simultáneamente, hasta cuatro fórmul
 
 ### Capítulo IV. De la Representación Proporcional en la Integración del Poder Legislativo y los Ayuntamientos del Estado
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
 ###### Artículo 24.
 
-Para la elección de las Diputaciones por el principio de representación proporcional, la circunscripción plurinominal corresponde al total del territorio del Estado.
+Para la elección de candidaturas a Diputaciones por el principio de representación proporcional, la circunscripción plurinominal corresponde al total del territorio del Estado.
 
-Para que un partido político obtenga el registro de su lista estatal para la elección de Diputaciones de representación proporcional deberá acreditar que participa con candidatos a Diputados por el sistema de mayoría relativa en por lo menos diez distritos uninominales.
+Para que un partido político obtenga el registro de su lista estatal para la elección de candidaturas a Diputaciones de representación proporcional deberá acreditar que también participa con candidaturas a Diputaciones por el sistema de mayoría relativa en por lo menos diez distritos uninominales.
 
-Las listas estatales se integrarán con dieciséis fórmulas de candidatos propietarios y suplentes, cada formula deberá ser del mismo género.
+Las listas estatales se integrarán con dieciséis fórmulas de candidaturas propietarias y suplentes, cada formula deberá ser del mismo género.
 
-En ningún caso se deberá registrar una lista en la que más del cincuenta por ciento de las fórmulas de candidatos sean de un solo género. Dichas listas deberán estar integradas alternadamente, de tal manera que a una fórmula de un género siga siempre una fórmula de género distinto.
+Cuando en una fórmula la candidatura propietaria se asigne a un candidato de género masculino podrá ser registradas (sic) como suplente a una persona del género femenino.
+
+En ningún caso se deberá registrar una lista en la que más del cincuenta por ciento de las fórmulas de candidaturas sean de un solo género. Dichas listas deberán estar integradas alternadamente, de tal manera que a una fórmula de un género le siga siempre una fórmula de género distinto.
 
 Sólo tendrán derecho que se les asignen Diputaciones de representación proporcional, los partidos políticos que como mínimo alcancen el tres por ciento de la votación estatal emitida para la elección de Diputaciones por dicho principio.
 
@@ -517,9 +563,23 @@ IV. Fomentar discusiones sobre cuestiones de interés común y deliberaciones so
 
 V. Fomentar los principios democráticos en el desarrollo de sus actividades, incluidos en aquellas relativas a los procesos de precampaña electoral;
 
-VI. Garantizar la participación de sus miembros bajo el principio de igualdad para lograr la equidad de género en los cargos directivos partidarios y en los cargos de elección popular;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VII. Aplicar en términos de ley, los principios y ejes rectores relativos a los porcentajes de género que en todo momento deberán ser paritarios en la postulación de candidatas y candidatos propietarios y suplentes a Diputados al Congreso del Estado, Presidentes Municipales, Síndicos Procuradores y Regidores por el sistema de mayoría relativa y por el principio de representación proporcional; y,
+VI. Garantizar la participación de sus miembros bajo el principio de igualdad y paridad de género en los cargos directivos partidarios y en los cargos de elección popular;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VI Bis. Garantizar a las mujeres el ejercicio de sus derechos políticos y electorales libre de violencia política, en los términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VI Bis A. Sancionar por medio de los mecanismos y procedimientos internos con los que se cuente, todo acto relacionado con la violencia política contra las mujeres en razón de género;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+VII. Aplicar en términos de ley, los principios y ejes rectores de paridad de género en la postulación de candidatas y candidatos propietarios y suplentes a Diputaciones al Congreso del Estado, Presidencias Municipales, Sindicaturas de Procuraduría y Regidurías por el sistema de mayoría relativa y por el principio de representación proporcional; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE JULIO DE 2020)</small>
 
 VIII. Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos, en los términos que expresamente se señala en esta ley.
 
@@ -687,7 +747,15 @@ c) La obligación de no aceptar o convenir ningún pacto o acuerdo que los sujet
 
 d) La obligación de no solicitar o recibir ningún tipo de apoyo económico, político o propagandístico, proveniente de entidades, partidos políticos u organizaciones nacionales o extranjeras o de ministros de cultos de cualquier religión o secta y de cualquier persona física o moral a la que esta ley prohíba financiar a los partidos políticos; y,
 
-e) Conducir sus actividades por medios pacíficos y por la vía democrática;
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+e) La obligación de promover, proteger y respetar los derechos políticos y electorales de las mujeres, establecidos en la Constitución Federal y en los tratados internacionales firmados y ratificados por México;
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+f) Establecer mecanismos de sanción aplicables a quien ejerza violencia política contra las mujeres en razón de género, acorde lo estipulado en la Ley de Acceso; y
+
+g) Conducir sus actividades por medios pacíficos y por la vía democrática;
 
 II. Programa de acción que determinará:
 
@@ -1295,9 +1363,9 @@ g) Las personas que vivan o trabajen en el extranjero;
 
 V. Abstenerse de realizar por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VI. Abstenerse de proferir calumnias a otros aspirantes o precandidatos, personas e instituciones privadas, así como de expresiones que constituyan violencia política en razón de género;
+VI. Abstenerse de ejercer violencia política contra las mujeres en razón de género o de recurrir a expresiones que discriminen ofendan, difamen calumnien o denigren a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas;
 
 VII. Rendir el informe de ingresos y egresos;
 
@@ -1465,9 +1533,9 @@ VI. Depositar únicamente en la cuenta bancaria registrada sus aportaciones y re
 
 VII. Abstenerse de utilizar símbolos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-VIII. Abstenerse de proferir calumnia a otros candidatos, personas o instituciones privadas, así como realizar expresiones que constituyan violencia política en razón de género;
+VIII. Abstenerse de ejercer violencia política contra las mujeres en razón de género y recurrir a expresiones que discriminen ofendan, difamen calumnien o denigren a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas;
 
 IX. Insertar en su propaganda de manera visible la leyenda: "Candidata Independiente", o "Candidato Independiente" en su caso;
 
@@ -1723,7 +1791,9 @@ Dichos servidores públicos deberán ser Licenciados en Derecho.
 
 El Instituto es el órgano dotado de autonomía, personalidad jurídica y patrimonio propio, encargado de la preparación, desarrollo, vigilancia y calificación de los procesos electorales, así como la información de los resultados. En su ejercicio se regirá por los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género. Goza de autonomía en su funcionamiento e independencia en sus decisiones.
 
-El Instituto contará con un órgano de dirección superior, que lo es el Consejo General y se integra por un consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto; el Secretario Ejecutivo y un representante de cada partido político con registro nacional o estatal y representantes de candidatos independientes para el cargo de Gobernador, en su caso, quienes concurrirán a las sesiones sólo con derecho a voz.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+El Instituto contará con un órgano de dirección superior, que lo es el Consejo General y se integra garantizando el principio de paridad de género, por una Consejera o un Consejero Presidente y seis Consejeras y Consejeros Electorales, con derecho a voz y voto; la Secretaria o el Secretario Ejecutivo y un o una representante de cada partido político con registro nacional o estatal y representantes de candidatas y candidatos independientes para el cargo de Gubernatura en su caso, quienes concurrirán a las sesiones sólo con derecho a voz.
 
 El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se les señalen en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para la organización del proceso electoral local y para el financiamiento de los partidos políticos.
 
@@ -1773,13 +1843,19 @@ Corresponde al Instituto ejercer las atribuciones en las siguientes materias:
 
 I. Aplicar las disposiciones generales que establezca el Instituto Nacional Electoral, sobre reglas, lineamientos, criterios y formatos que, en ejercicio de las facultades le confiere la Constitución, la Ley General de Instituciones y Procedimientos Electorales, la Constitución Estatal y esta ley;
 
-II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidatos registrados para los procesos electorales en el Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+II. Garantizar los derechos y el acceso de las prerrogativas de los partidos políticos y candidaturas registradas para los procesos electorales en el Estado;
 
 III. Garantizar la ministración oportuna del financiamiento público a que tienen derecho los partidos políticos nacionales y locales y, en su caso, a las candidaturas independientes, en la entidad;
 
-IV. Desarrollar y ejecutar los programas de educación cívica en la entidad;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-V. Orientar a los ciudadanos en la entidad para el ejercicio y protección de sus derechos y el cumplimiento de sus obligaciones político-electorales;
+IV. Desarrollar y ejecutar los programas de educación cívica en la entidad que incluyan la paridad de género y el respeto a los derechos humanos de las mujeres en el ámbito político electoral;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+V. Orientar a la ciudadanía en la entidad para el ejercicio y protección de sus derechos y el cumplimiento de sus obligaciones político-electorales;
 
 VI. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral;
 
@@ -1787,7 +1863,9 @@ VII. Imprimir los documentos y producir los materiales electorales, en términos
 
 VIII. Efectuar a través de sus organismos facultados, el escrutinio y cómputo total de las elecciones que se lleven a cabo en la entidad, con base en los resultados consignados en las actas de cómputos estatal, distritales y municipales;
 
-IX. Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de Diputaciones por el principio de representación proporcional de la legislatura local, conforme al cómputo y declaración de validez que efectúe el propio organismo;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+IX. Expedir las constancias de mayoría y declarar la validez de la elección a las y los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de Diputaciones por el principio de representación proporcional de la legislatura local, conforme al cómputo y declaración de validez que efectúe el propio organismo;
 
 X. Efectuar el cómputo de la elección del titular del Poder Ejecutivo en la entidad;
 
@@ -1795,7 +1873,9 @@ XI. Implementar y operar el Programa de Resultados Electorales Preliminares de l
 
 XII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional Electoral en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en la entidad;
 
-XIII. Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en la entidad, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional Electoral;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XIII. Desarrollar las actividades que se requieran para garantizar el derecho de la ciudadanía a realizar labores de observación electoral en la entidad, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional Electoral;
 
 XIV. Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional Electoral;
 
@@ -1805,7 +1885,13 @@ XVI. Supervisar las actividades que realicen los Consejos distritales y municipa
 
 XVII. Ejercer la función de oficialía electoral respecto de actos o hechos exclusivamente de naturaleza electoral;
 
-XVIII. Informar a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, sobre el ejercicio de las funciones que le hubiera delegado el Instituto Nacional Electoral, conforme a lo previsto por la Ley General de Instituciones y Procedimientos Electorales y demás disposiciones que emita el Consejo General del Instituto Nacional Electoral; y,
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XVIII. Informar a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, sobre el ejercicio de las funciones que le hubiera delegado el Instituto Nacional Electoral, conforme a lo previsto por la Ley General de Instituciones y Procedimientos Electorales y demás disposiciones que emita el Consejo General del Instituto Nacional Electoral;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XVIII Bis. Garantizar la paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral; y,
 
 XIX. Las demás que determine el artículo 41 de la Constitución, la Constitución Estatal, la Ley General de Instituciones y Procedimientos Electorales, aquéllas no reservadas al Instituto Nacional Electoral, las que le sean delegadas por éste, y las que se establezcan en esta ley.
 
@@ -1896,6 +1982,14 @@ XXXVI. Implementar y operar el Programa de Resultados Electorales Preliminares d
 XXXVII. Desarrollar y ejecutar programas de educación cívica; así como orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
 
 XXXVIII. Acordar con la aprobación de las dos terceras partes de sus integrantes, la celebración de convenios con el Instituto Nacional Electoral a fin de que se haga cargo de la organización integral de procesos electorales locales o del desarrollo de alguna de sus etapas, en los casos y conforme al procedimiento previstos en el artículo 121 de la Ley General de Instituciones y Procedimientos Electorales;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XXXVIII Bis. Velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género guíen todas las actividades del Instituto, con apego a la perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XXXVIII Bis A. Vigilar se prevenga, atienda y erradique la violencia política contra las mujeres en razón de género;
 
 XXXIX. Formular solicitud expresa al Instituto Nacional Electoral para que asuma la organización integral del proceso electoral correspondiente, con base en los convenios a que refiere la fracción anterior; y
 
@@ -3653,7 +3747,15 @@ XIV. El incumplimiento a su responsabilidad solidaria, de las obligaciones estab
 
 XV. El incumplimiento de sus obligaciones en materia de prevención y atención de violencia política en razón de género;
 
-XVI. Realizar dolosamente propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, incurran en falsedad o sean contrarias al régimen jurídico; y,
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XVI. Realizar dolosamente propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, incurran en falsedad o sean contrarias al régimen jurídico;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+
+XVI Bis. El incumplimiento a las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE JULIO DE 2020)</small>
 
 XVII. La comisión de cualquier conducta que contravenga las disposiciones de esta ley.
 
@@ -3795,9 +3897,9 @@ II. La difusión por cualquier medio, de propaganda gubernamental dentro del per
 
 III. El incumplimiento del principio de imparcialidad en la aplicación de los recursos públicos, cuando tal conducta pudiere afectar la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
-IV. La acción u omisión que constituyan violencia política en razón de género;
+IV. Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
@@ -3851,9 +3953,29 @@ II. Realizar o promover aportaciones económicas a un partido político, aspiran
 
 III. Incurrir en cualquier conducta que les sea prohibida por esta ley.
 
-### Capítulo XII. De las Sanciones
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JULIO DE 2020)</small>
 
-### Capítulo I. Disposiciones Generales
+### Capítulo XI Bis. De las Infracciones por violencia política contra las mujeres en razón de género
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+###### Artículo 280 Bis.
+
+La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la presente Ley por parte de los sujetos de responsabilidad señalados en el artículo 269 de esta Ley, y se manifiesta, entre otras, a través de las siguientes conductas:
+
+I. Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+II. Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+III. Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+IV. Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+V. Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad; y,
+
+VI. Cualesquiera otra acción que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
+
+### Capítulo XII. De las Sanciones
 
 ###### Artículo 281.
 
@@ -3871,9 +3993,17 @@ c) Con hasta un tanto del monto ejercido en exceso, en los casos de infracción 
 
 En caso de reincidencia, la sanción será de hasta dos tantos;
 
-d) Con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público para actividades ordinarias que les corresponda, por el periodo que señale la resolución, dependiendo de la gravedad de la falta; y,
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-e) Cancelación del registro si se trata de partidos políticos locales, o la supresión total hasta por tres años del financiamiento público para actividades ordinarias si se trata de partidos políticos nacionales acreditados, en los casos de graves y reiteradas conductas violatorias de la Constitución Política de los Estados Unidos Mexicanos, de las leyes aplicables y de esta ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos;
+d) Con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público para actividades ordinarias que les corresponda, por el periodo que señale la resolución, dependiendo de la gravedad de la falta;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
+e) Cancelación del registro si se trata de partidos políticos locales, o la supresión total hasta por tres años del financiamiento público para actividades ordinarias si se trata de partidos políticos nacionales acreditados, en los casos de graves y reiteradas conductas violatorias de la Constitución Política de los Estados Unidos Mexicanos, de las leyes aplicables y de esta ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos; y,
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+f) Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución.
 
 II. Respecto de las y los aspirantes, precandidatos o candidatos a cargos de elección popular:
 
@@ -3995,7 +4125,7 @@ Las multas que se impongan a los sujetos del régimen sancionador electoral, que
 
 ## TÍTULO OCTAVO. Del Procedimiento Sancionador
 
-### Capítulo II. Del Procedimiento Sancionador Ordinario
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 289.
 
@@ -4097,7 +4227,39 @@ En el caso de existir imposibilidad material para compulsar las copias simples q
 
 Para la resolución expedita de las quejas con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos porque existan varias quejas contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
 
-### Capítulo III. Del Procedimiento Sancionador Especial
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JULIO DE 2020)</small>
+
+### Capítulo I Bis. De las Medidas Cautelares y de Reparación
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+###### Artículo 293 Bis.
+
+Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+I. Realizar análisis de riesgos y un plan de seguridad;
+
+II. Retirar la campaña violenta contra la víctima, haciendo públicas las razones;
+
+III. Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+IV. Ordenar la suspensión del cargo partidista, de la persona agresora, y
+
+V. Cualquier otra requerida para la protección de la mujer víctima, o quien ella solicite.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+Artículo 293 Bis A. En la resolución de los procedimientos sancionadores por violencia política en contra de las mujeres por razón de género, la autoridad resolutora deberá considerar ordenar las medidas de reparación integral que correspondan considerando al menos las siguientes:
+
+I. Indemnización de la víctima;
+
+II. Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia;
+
+III. Disculpa pública; y,
+
+IV. Medidas de no repetición.
+
+### Capítulo II. Del Procedimiento Sancionador Ordinario
 
 ###### Artículo 294.
 
@@ -4243,6 +4405,8 @@ El Consejero Electoral que disienta de la mayoría podrá formular voto particul
 
 En el desahogo de los puntos del orden del día en el que el Consejo deba resolver sobre los proyectos de resolución relativos a quejas, se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
 
+### Capítulo III. Del Procedimiento Sancionador Especial
+
 ###### Artículo 303.
 
 Dentro de los procesos electorales, la Secretaría Ejecutiva del Consejo General instruirá el procedimiento especial establecido por el presente capítulo, cuando se denuncie la comisión de conductas que:
@@ -4253,15 +4417,21 @@ II. Contravengan las normas sobre propaganda política o electoral establecidas 
 
 III. Constituyan actos anticipados de precampaña o campaña.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+###### Artículo 303 Bis.
+
+En cualquier tiempo, dentro y fuera de los procesos electorales, la Secretaría Ejecutiva del Instituto instruirá el procedimiento especial establecido en este capítulo, de oficio cuando se tenga conocimiento por cualquier medio o cuando se denuncie la comisión de conductas que constituyan casos de violencia política contra las mujeres en razón de género en los términos previstos en esta Ley o en los establecidos en la Ley de Acceso.
+
 ###### Artículo 304.
 
 Cuando una conducta infractora esté relacionada con propaganda política o electoral en radio y televisión durante la etapa de los procesos electorales en el Estado, el Instituto dará vista al Instituto Nacional Electoral, dentro de las veinticuatro horas siguientes al momento en que tuvo conocimiento del hecho.
 
 Los procedimientos sancionadores relacionados con la difusión de propaganda que calumnie en medios distintos a radio y televisión, sólo podrán iniciar a instancia de parte afectada. Se entenderá por calumnia la imputación de hechos falsos que pudieren constituir delito y que tengan impacto en un proceso electoral.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-Los procedimientos relacionados con infracciones por violencia política en razón de género solo podrán iniciarse a instancia de parte afectada.
+Los procedimientos relacionados con infracciones por violencia política en razón de género podrán iniciarse a instancia de parte afectada o de oficio.
 
 ###### Artículo 305.
 
@@ -4348,6 +4518,40 @@ II. El Consejero Presidente ejercerá, en lo conducente, las facultades señalad
 III. Celebrada la audiencia, el Consejero Presidente deberá turnar al Tribunal Electoral de forma inmediata el expediente completo, exponiendo las diligencias que se hayan llevado a cabo así como un informe circunstanciado en términos de lo dispuesto en esta Ley.
 
 En los supuestos establecidos en el primer párrafo del presente artículo, si la conducta denunciada constituye una infracción generalizada o reviste gravedad, la Secretaría Ejecutiva podrá atraer el asunto.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+###### Artículo 310.
+
+En los procedimientos relacionadas con violencia política contra las mujeres en razón de género, la Secretaría Ejecutiva del Instituto ordenará en forma sucesiva iniciar el procedimiento, así como resolver sobre las medidas cautelares y de protección que fueren necesarias. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva del Instituto dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+Cuando la conducta infractora sea del conocimiento de las autoridades electorales administrativas distritales o locales, de inmediato la remitirán, a la Secretaría Ejecutiva del Instituto para que ordene iniciar el procedimiento correspondiente.
+
+Cuando las denuncias presentadas sean en contra de algún servidor o servidora pública, la Secretaría Ejecutiva del Instituto dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
+
+La denuncia deberá contener lo siguiente:
+
+I. Nombre de la persona denunciante, con firma autógrafa o huella digital;
+
+II. Domicilio para oír y recibir notificaciones;
+
+III. Narración expresa de los hechos en que se basa la denuncia;
+
+IV. Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas, y
+
+V. En su caso, las medidas cautelares y de protección que se soliciten.
+
+La Secretaría Ejecutivo (sic) del Instituto, deberá admitir o desechar la denuncia en un plazo no mayor a veinticuatro horas posteriores a su recepción; tal resolución deberá ser confirmada por escrito y se informará al Tribunal Electoral, para su conocimiento.
+
+La Secretaría Ejecutivo del Instituto desechará la denuncia cuando:
+
+I. No se aporten u ofrezcan pruebas.
+
+II. Sea notoriamente frívola o improcedente.
+
+Cuando la Secretaría Ejecutiva admita la denuncia, emplazará a las partes, para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+En lo procedente, el desarrollo de la audiencia de pruebas y alegatos y su traslado al Tribunal Electoral, se desarrollarán conforme lo dispuesto en los artículos 307 y 308 de esta Ley.
 
 T R A N S I T O R I O S
 
@@ -4490,3 +4694,11 @@ P.O. 5 DE JUNIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 455 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, Y LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
