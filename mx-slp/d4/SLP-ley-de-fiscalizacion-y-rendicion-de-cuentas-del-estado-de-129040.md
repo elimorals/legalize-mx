@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2020-05-07"
+last_updated: "2020-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,91 +21,33 @@ state: "SLP"
 ---
 # LEY DE FISCALIZACION Y RENDICION DE CUENTAS DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACÁN
+LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2020.
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 8 de mayo de 1980.
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
-CARLOS TORRES MANZO, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+Poder Legislativo del Estado
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente DECRETO:
+Juan Manuel Carreras López, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
-EL CONGRESO DE MICHOACAN DE OCAMPO
+DECRETO 0976
 
-DECRETA:
+La Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí
 
-NUMERO 177
+Decreta
 
-LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACAN
+E X P O S I C I Ó N D E M O T I V O S
+
+[…]
+
+ÚNICO. Se EXPIDE la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, para quedar como sigue
+
+LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
-
-###### ARTICULO 1º.
-
-Esta Ley tiene aplicación para los funcionarios, empleados, trabajadores y maestros al servicio del Estado, cuya relación jurídica está regida a virtud de nombramiento legalmente expedido por aquél.
-
-Será igualmente aplicable a los funcionarios y empleados de la Dirección de Pensiones.
-
-###### ARTICULO 2º.
-
-Cuando los funcionarios y empleados de organismos descentralizados estatales y de los municipios de la Entidad y las respectivas instituciones manifiesten expresamente su voluntad de acogerse a los beneficios de esta Ley y se obliguen a cumplir con los requisitos que la misma establece, se considerarán dentro del régimen de dicho Ordenamiento legal.
-
-###### ARTICULO 3º.
-
-Para los efectos de esta Ley se entiende:
-
-I.- Por servidor público, a toda persona que preste sus servicios al Gobierno del Estado, organismo público descentralizado estatal y municipios de la Entidad mediante designación legal, en virtud de nombramiento, siempre que su cargo, sueldo o salarios estén consignados en el presupuesto respectivo;
-
-II.- Por pensionista o jubilado, a toda persona que la Dirección de Pensiones le hubiere reconocido tal carácter con anterioridad a la vigencia de esta Ley; así como a las que se les otorgue esta categoría con apoyo en la misma;
-
-III.- Por familiar derecho-habiente, aquél a quienes esta Ley le conceda tal carácter.
-
-Quedan excluidos de este Ordenamiento, las personas que presten sus servicios al Gobierno de la Entidad, organismos descentralizados y municipios, mediante contrato sujeto a obra o a plazo fijo, a lista de raya, los que desempeñen actividades eventuales o emergentes, y los que perciben sus emolumentos exclusivamente con cargo a la partida de honorarios.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 4º.
-
-Los servidores públicos a que se refiere esta ley y sus familiares tendrán derecho en los casos y con los requisitos que establece ésta, a los siguientes beneficios y prestaciones:
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
-
-a) préstamos a corto plazo en las modalidades que autorice la junta directiva; misma que se sujetará a la presente ley;
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
-
-b) préstamos con garantía hipotecaria en las modalidades que autorice la junta directiva; misma que se sujetará a la presente ley;
-
-c) Aplicación del fondo especial para cubrir créditos hipotecarios insolutos por muerte del servidor público;
-
-d) Arrendamientos o compra de casas o terrenos propiedad de la Dirección de Pensiones;
-
-e) Jubilación;
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
-
-f) Pensión por vejez, inhabilitación física o mental; y muerte, en sus modalidades de viudez, concubinato, orfandad y ascendencia;
-
-g) Servicio de protección médica y social a través del Seguro Social, I.S.S.S.T.E. e instituciones similares;
-
-h) Seguro de vida para el servidor público;
-
-i) Gastos de funeral a los familiares del servidor público, pensionado o jubilado;
-
-j) Cuota de ayuda a los familiares del servidor público, jubilado o pensionado, por muerte de éstos;
-
-k) Devolución de los descuentos hechos para integrar el fondo económico de la Dirección de Pensiones, cuando los servidores públicos se separen del servicio y renuncien a los beneficios del sistema;
-
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
-
-l) Entrega del fondo de pensiones, a la muerte del servidor público activo, a sus beneficiarios; en caso de que éstos no tengan derecho a pensión por causa de muerte, de acuerdo con esta Ley y al Reglamento que para el efecto elabore la Junta Directiva;
-
-m) Descuentos especiales en los establecimientos comerciales de la Dirección de Pensiones; y,
-
-n) Cualquier otra prestación que conceda esta Ley.
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 1°.
 
@@ -237,837 +179,705 @@ Cuando derivado de la complejidad de los requerimientos de información formulad
 
 Las personas a que se refiere este artículo deberán acompañar a la información solicitada, los anexos, estudios soporte, memorias de cálculo y demás documentación soporte relacionada con la solicitud.
 
-###### ARTICULO 10.
+###### ARTÍCULO 10.
 
-La Junta Directiva deberá sesionar cuando menos una vez al mes, así como en todas aquellas ocasiones en que sea convocada por el Presidente o el Director, los que estarán obligados a hacerlo a petición de tres miembros propietarios.
+La Auditoría Superior del Estado podrá imponer multas, conforme a lo siguiente:
 
-###### ARTICULO 11.
+I. Cuando los servidores públicos y las personas físicas no atiendan los requerimientos a que refiere el artículo precedente, salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad, la Auditoría Superior del Estado podrá imponerles una multa mínima de ciento cincuenta a una máxima de dos mil veces el valor diario de la Unidad de Medida y Actualización;
 
-Ningún miembro de la Junta Directiva podrá ser al mismo tiempo empleado o funcionario de la Dirección de Pensiones.
+II. En el caso de personas morales, públicas o privadas, la multa consistirá en un mínimo de seiscientas cincuenta a diez mil veces el valor diario de la Unidad de Medida y Actualización;
+
+III. Se aplicarán las multas previstas en este artículo a los terceros que hubieran firmado contratos para explotación de bienes públicos o recibidos en concesión o subcontratado obra pública, administración de bienes o prestación de servicios mediante cualquier título legal con6 (sic) las entidades fiscalizadas, cuando no entreguen la documentación e información que les requiera la Auditoría Superior del Estado;
+
+IV. La reincidencia se sancionará con una multa hasta del doble de la impuesta anteriormente, sin perjuicio de que persista la obligación de atender el requerimiento respectivo;
+
+V. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida. La Auditoría Superior del Estado se encargará de hacer efectivo su cobro en términos del Código Fiscal del Estado y de las demás disposiciones aplicables;
+
+VI. Para imponer la multa que corresponda, la Auditoría Superior del Estado debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley, y
+
+VII. Las multas que se impongan en términos de este artículo son independientes de las sanciones administrativas y penales que, en términos de las leyes en dichas materias, resulten aplicables por la negativa a entregar información a la Auditoría Superior del Estado, así como por los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora o la entrega de información falsa.
+
+###### ARTÍCULO 11.
+
+La negativa a entregar información a la Auditoría Superior del Estado, así como los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora será sancionada conforme a la Ley de Responsabilidades y las leyes penales aplicables.
+
+Cuando los servidores públicos y las personas físicas y morales, públicas o privadas aporten información falsa, serán sancionados penalmente conforme a lo previsto por el Código Penal del Estado.
 
 ## TÍTULO SEGUNDO. DE LA FISCALIZACIÓN DE LAS CUENTAS PÚBLICAS
 
-### CAPITULO SEGUNDO. ADMINISTRACION Y CONTROL
+### CAPÍTULO I. DE LA FISCALIZACIÓN DE LAS CUENTAS PÚBLICAS
 
-###### ARTICULO 5º.
+###### ARTÍCULO 12.
 
-La Dirección de Pensiones Civiles del Estado es un organismo público descentralizado estatal, con personalidad jurídica Y patrimonio propios, con domicilio en la ciudad de Morelia.
+Las Cuentas Públicas serán presentadas en el plazo previsto en el artículo 53 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, y, conforme a lo que establece el artículo 53 de la Ley General de Contabilidad Gubernamental.
 
-###### ARTICULO 6º.
+Deberán presentarse en original y copia certificada, así como en correspondiente respaldo digital. El respaldo digital deberá presentarse en formato legible y deberá contener las firmas de validación de las autoridades encargadas de presentar la cuenta pública. El documento original deberá ser remitido a la Auditoría Superior del Estado, así como el respaldo digital, en tanto que la copia certificada quedará en posesión del Congreso del Estado.
 
-La administración de la Dirección de Pensiones estará a cargo de una Junta Directiva integrada por siete miembros, los que serán designados de la siguiente manera:
+En caso de que algún ente auditable no presentara su cuenta pública en los plazos establecidos, se hará acreedor a lo establecido en el artículo 323 fracción VIII del Código Penal del Estado de San Luis Potosí.
 
-a) Un representante del Sindicato de Trabajadores del Poder Ejecutivo, un representante del Sindicato del Poder Legislativo, un representante del Sindicato del Poder Judicial y un representante del Sindicato de la Sección de Maestros; y,
+###### ARTÍCULO 13.
 
-b) Tres representantes del Gobierno del Estado.
+La fiscalización de las Cuentas Públicas tiene por objeto:
 
-###### ARTICULO 7º.
+I. Evaluar los resultados de la gestión financiera:
 
-Para ser miembro de la Junta Directiva, designado por los sindicatos, se requiere:
+a) La ejecución de la Ley de Ingresos y el ejercicio del Presupuesto de Egresos para verificar la forma y términos en que los ingresos fueron recaudados, obtenidos, captados y administrados; constatar que los recursos provenientes de financiamientos y otras obligaciones y empréstitos se contrataron, recibieron y aplicaron de conformidad con lo aprobado; y revisar que los egresos se ejercieron en los conceptos y partidas autorizados, incluidos, entre otros aspectos, la contratación de servicios y obra pública, las adquisiciones, arrendamientos, subsidios, aportaciones, donativos, transferencias, aportaciones a fondos, fideicomisos y demás instrumentos financieros, así como cualquier esquema o instrumento de pago a largo plazo.
 
-1) Ser mexicano por nacimiento, en ejercicio de sus plenos derechos;
+b) Si se cumplió con las disposiciones jurídicas aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos; recursos materiales, y demás normatividad aplicable al ejercicio del gasto público.
 
-2) Mayor de edad;
+c) Si la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de recursos, incluyendo subsidios, transferencias y donativos, y si los actos, contratos, convenios, mandatos, fondos, fideicomisos, prestación de servicios públicos, operaciones o cualquier acto que las entidades fiscalizadas, celebren o realicen, relacionados con el ejercicio del gasto público, se ajustaron a la legalidad, y si no han causado daños o perjuicios, o ambos, en contra de la Hacienda Pública Estatal o, en su caso, del patrimonio de los entes públicos.
 
-3) No estar desempeñando cargo alguno de elección popular, aún en casos de no estar en funciones;
+d) Comprobar si el ejercicio de la Ley de Ingresos y el Presupuesto de Egresos se ha ajustado a los criterios señalados en los mismos:
 
-4) Gozar de buena opinión y fama y no haber sido condenado en sentencia ejecutoriada por delito doloso o preterintencional.
+1. Si las cantidades correspondientes a los ingresos y a los egresos, se ajustaron o corresponden a los conceptos y a las partidas respectivas.
 
-###### ARTICULO 8º.
+2. Si los programas y su ejecución se ajustaron a los términos y montos aprobados en el Presupuesto de Egresos.
 
-Los miembros de la Junta Directiva serán nombrados para un período de tres años, podrán ser reelectos, así como removidos libremente por la institución que representen y tendrán el carácter de honoríficos.
+3. Si los recursos provenientes de financiamientos y otras obligaciones se obtuvieron en los términos autorizados y se aplicaron con la periodicidad y forma establecidas por las leyes y demás disposiciones aplicables, y si se cumplieron los compromisos adquiridos en los actos respectivos;
 
-Por cada miembro propietario se designará un suplente.
+II. Verificar el cumplimiento de los objetivos contenidos en los programas:
 
-Los acuerdos de la Junta se tomarán por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad. Para sesionar la Junta requiere la asistencia por lo menos de cinco de sus miembros.
+a) Realizar auditorías del desempeño de los programas, verificando la eficiencia, la eficacia y la economía en el cumplimiento de los objetivos de los mismos.
 
-###### ARTICULO 9º.
+b) Si se cumplieron las metas de los indicadores aprobados en el Presupuesto de Egresos y si dicho cumplimiento tiene relación con el Plan Estatal de Desarrollo o Plan Municipal de Desarrollo según corresponda, y los programas sectoriales.
 
-El cargo de Presidente de la Junta deberá recaer en uno de los representantes del Gobierno del Estado y será nombrado por mayoría de votos.
+c) Si se cumplieron los objetivos de los programas y las metas de gasto que promuevan la igualdad entre mujeres y hombres;
 
-###### ARTICULO 12.
+III. Promover las acciones o denuncias correspondientes para la imposición de las sanciones administrativas y penales por las faltas graves que se adviertan derivado de sus auditorías e investigaciones, así como dar vista a las autoridades competentes cuando detecte la comisión de faltas administrativas no graves para que continúen la investigación respectiva y promuevan la imposición de las sanciones que procedan, y
 
-La Junta Directiva tendrá las siguientes atribuciones:
+IV. Las demás que formen parte de la fiscalización de las Cuentas Públicas o de la revisión del cumplimiento de los objetivos de los programas.
 
-a) Cumplir y hacer cumplir las disposiciones contenidas en este Ordenamiento;
+###### ARTÍCULO 14.
 
-b) Administrar el patrimonio de la Dirección de Pensiones y autorizar las operaciones consignadas en esta ley;
+Las observaciones que, en su caso, emita la Auditoría Superior del Estado derivado de la fiscalización superior, podrán derivar en:
 
-c) Aprobar los planes de inversión del fondo de la Dirección de Pensiones;
+I. Acciones y previsiones, los que podrán incluir solicitudes de aclaración, pliegos de observaciones, informes de presunta responsabilidad administrativa, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, denuncias de hechos ante la Fiscalía Especializada y denuncias de juicio político, y
 
-d) Otorgar las jubilaciones y pensiones en los términos de esta Ley, o revocarlas, en su caso;
+II. Recomendaciones.
 
-e) Nombrar el personal a propuesta del Director;
+###### ARTÍCULO 15.
 
-f) Formular y aprobar sus diversas operaciones y los reglamentos de la institución;
+El Congreso del Estado turnará, a más tardar en tres días hábiles, contados a partir de su recepción, las Cuentas Públicas del ejercicio que corresponda, a la Comisión. La Comisión tendrá el mismo plazo para turnarlas a la Auditoría Superior del Estado.
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+###### ARTÍCULO 16.
 
-f) bis. Definir a propuesta del Director, con base en las políticas y lineamientos establecidos por el Congreso del Estado, la política salarial para regular el sistema de remuneraciones y prestaciones de la Dirección, misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad;
+Para la fiscalización de las Cuentas Públicas, la Auditoría Superior del Estado tendrá las atribuciones siguientes:
 
-g) Aprobar los estados financieros;
+I. Realizar, conforme al programa anual de auditorías aprobado, las auditorías e investigaciones. Para la práctica de Auditorías, la Auditoría Superior del Estado podrá solicitar mediante escrito, información y documentación durante el desarrollo de las mismas.
 
-h) Conferir poderes;
+La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en las Cuentas Públicas. Una vez que le sean entregadas las Cuentas Públicas, podrá realizar las modificaciones al programa anual de las auditorías que se requieran, lo hará del conocimiento de la Comisión;
 
-i) Discutir y aprobar el presupuesto de egresos de la Dirección de Pensiones;
+II. Establecer los lineamientos técnicos y criterios para las auditorías y su seguimiento, procedimientos, investigaciones, métodos y sistemas necesarios para la fiscalización superior;
 
-j) Realizar toda clase de actos u operaciones autorizados legalmente, que para la mejor administración fueren necesarios.
+III. Proponer, en los términos de la Ley General de Contabilidad Gubernamental y la Ley de Archivos del Estado de San Luis Potosí, las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías;
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+IV. Proponer al Consejo Estatal de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental, modificaciones a la forma y contenido de la información de la Cuenta Pública y a los formatos de integración correspondientes;
 
-k) Promover las acciones legales que sean necesarias para conservar su patrimonio y obtener los recursos por los que se conforma el fondo de pensiones, ya sean de naturaleza civil, administrativa o penal; y,
+V. Practicar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas a cargo de los entes públicos, conforme a los indicadores establecidos en el Presupuesto de Egresos y tomando en cuenta el Plan Estatal de Desarrollo, el Plan Municipal de Desarrollo según corresponda, los programas sectoriales, regionales, operativos anuales, y demás programas, entre otros, a efecto de verificar el desempeño de los mismos y, en su caso, el uso de recursos públicos;
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+VI. Verificar que las entidades fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; además, con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-l) La dirección de Pensiones Civiles deberá entregar un informe anual al Congreso del Estado sobre el estado que guarda (sic) los recursos humanos, financieros y materiales con los que se cuenta.
+VII. Verificar que las operaciones que realicen las entidades fiscalizadas sean acordes con la Ley de Ingresos y el Presupuesto de Egresos y se efectúen con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-###### ARTICULO 13.
+VIII. Verificar obras, bienes adquiridos y servicios contratados por las entidades fiscalizadas para comprobar si los recursos de las inversiones y los gastos autorizados a las entidades fiscalizadas se ejercieron en los términos de las disposiciones aplicables;
 
-Los acuerdos que dicte la Junta Directiva serán cumplimentados por un Director, designado y removido libremente por el Gobernador del Estado, durará en su encargo tres años, pudiendo ser reelecto o revocado su nombramiento por causa justificada.
+IX. Requerir a los auditores externos copia de todos los informes y dictámenes de las auditorías y revisiones por ellos practicadas a las entidades fiscalizadas y de ser requerido, el soporte documental;
 
-El Director deberá asistir a las sesiones de la Junta y tendrá en ellas voz informativa, más no voto.
+X. Requerir a terceros que hubieran contratado con las entidades fiscalizadas obra pública, bienes o servicios mediante cualquier título legal y a cualquier entidad o persona física o moral, pública o privada, o aquellas que hayan sido subcontratados por terceros, la información relacionada con la documentación justificativa y comprobatoria del ejercicio de recursos públicos a efecto de realizar las compulsas correspondientes;
 
-###### ARTICULO 14.
+XI. Solicitar, obtener y tener acceso a toda la información y documentación, que a juicio de la Auditoría Superior del Estado sea necesaria para llevar a cabo la auditoría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
 
-El Director de Pensiones tendrá las siguientes obligaciones:
+a) Las entidades fiscalizadas.
 
-a) Ejecutar los acuerdos de la Junta Directiva;
+b) Instituciones de crédito, fideicomisos u otras figuras del sector financiero.
 
-b) Informar semestralmente a la Junta de las actividades de la institución;
+c) Autoridades hacendarias federales, estatales y municipales.
 
-c) Formular proyectos de planes de inversión para su aprobación por la Junta;
+d) Los órganos internos de control.
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+La Auditoría Superior del Estado tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos de recursos públicos y la deuda pública, estando obligada a mantener la misma reserva, en términos de las disposiciones aplicables.
 
-c) bis. Proponer a la Junta Directiva la política salarial de la Dirección.
+Dicha información solamente podrá ser solicitada en los términos de las disposiciones aplicables, de manera indelegable por el Titular de la Auditoría.
 
-Los miembros de la junta directiva, así como los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de sexenio, de cualquier periodo de trabajo o por separación del cargo, sea cual fuere el mecanismo o forma de pago, lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas;
+Cuando derivado de la práctica de auditorías se entregue a la Auditoría Superior del Estado información de carácter reservado o confidencial, ésta deberá garantizar que no se incorpore en los resultados, observaciones, recomendaciones y acciones de los informes de auditoría respectivos, información o datos que tengan esta característica en términos de la legislación aplicable. Dicha información será conservada por la Auditoría Superior del Estado en sus documentos de trabajo y sólo podrá ser revelada a la autoridad competente, en términos de las disposiciones aplicables.
 
-d) Proyectar el presupuesto anual de egresos;
+El incumplimiento a lo dispuesto en esta fracción será motivo del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes;
 
-e) Proponer al personal y señalar sus funciones;
+XII. Fiscalizar los recursos públicos que la Secretaría haya transferido a los municipios, fideicomisos, fondos, mandatos o, cualquier otra figura análoga, personas físicas o morales, públicas o privadas, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado; así como fiscalizar los recursos públicos que la Federación haya transferido a las entidades fiscalizadas, en los términos que señale el Convenio de Coordinación que celebre con la Auditoría Superior del Estado con la Auditoria Superior de la Federación en los términos de las normas aplicables;
 
-f) Informar semestralmente a la Junta Directiva del estado de la contabilidad y movimiento financiero;
+XIII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o presunta conducta ilícita, o comisión de faltas administrativas, en los términos establecidos en esta Ley y en la Ley de Responsabilidades;
 
-g) Estudiar y proponer el otorgamiento de jubilaciones y pensiones;
+XIV. Efectuar visitas domiciliarias, únicamente para exigir la exhibición de los libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas, así como realizar entrevistas y reuniones con particulares o con los servidores públicos de las entidades fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones;
 
-h) Representar a la Dirección de Pensiones en asuntos de índole judicial o administrativa;
+XV. Formular recomendaciones y pliegos de observaciones; solicitudes de aclaración; promociones del ejercicio de la facultad de comprobación fiscal; promociones de responsabilidad administrativa sancionatoria, informes de presunta responsabilidad administrativa, denuncias de hechos y denuncias de juicio político;
 
-i) Despachar y autorizar los acuerdos y la correspondencia de la Junta Directiva y de la Dirección;
+XVI. Promover las responsabilidades administrativas, para lo cual la Unidad Administrativa a cargo de las investigaciones de la Auditoría Superior del Estado presentará el informe de presunta responsabilidad administrativa correspondiente, ante la autoridad substanciadora de la misma Auditoría Superior del Estado, para que ésta, de considerarlo procedente, turne y presente el expediente, ante el Tribunal o, en el caso de las no graves, ante el órgano interno de control.
 
-j) Conceder licencias y permisos al personal en los términos que señale el Reglamento Interior de la institución;
+Cuando detecte posibles faltas administrativas no graves dará vista a los órganos internos de control competentes, para que continúen la investigación respectiva y, en su caso, promuevan la imposición de las sanciones que procedan;
 
-k) Someter a la consideración de la Junta las reformas o adiciones a los reglamentos o disposiciones administrativas dictadas por aquélla;
+XVII. Promover y dar seguimiento ante las autoridades competentes para la imposición que las sanciones que correspondan a los servidores públicos; y los particulares, a las que se refiere el Título Décimo Segundo de la Constitución Política del Estado Libre y Soberano de San Luis Potosí y presentará denuncias y querellas penales;
 
-l) Concurrir con el Presidente de la Junta o con la persona que ésta autorice, mediante el poder respectivo, a la firma de escrituras en que la Dirección de Pensiones intervenga;
+XVIII. Recurrir, a través de la unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado, las determinaciones del Tribunal y de la Fiscalía Especializada, en términos de las disposiciones legales aplicables;
 
-m) Vigilar la actuación del personal administrativo, como jefe inmediato de él;
+XIX. Conocer y resolver sobre el recurso de revocación que se interponga en contra de las sanciones, multas o determinaciones que imponga;
 
-n) Convocar a sesión ordinaria de la Junta y extraordinaria, cuando a su juicio sea necesaria; y,
+XX. Participar en el Sistema Anticorrupción del Estado, así como en su Comité Coordinador, en los términos de lo dispuesto por el Artículo 124 BIS, fracción I, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí y de la ley en la materia, así como celebrar convenios con organismos cuyas funciones sean acordes o guarden relación con sus atribuciones y participar en foros nacionales e internacionales;
 
-o) Realizar todos aquellos actos que fueren convenientes para el debido funcionamiento de la Dirección de Pensiones.
+XXI. Podrá solicitar a las entidades fiscalizadas información del ejercicio en curso, respecto de procesos concluidos, para la planeación de la fiscalización de las Cuentas Públicas; Lo anterior sin perjuicio de la revisión y fiscalización que la Auditoría Superior del Estado lleve a cabo conforme a lo contenido en la fracción II del artículo 1 de esta Ley;
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+XXII. Obtener durante el desarrollo de las auditorías e investigaciones copia de los documentos originales que se tengan a la vista, y certificarlas mediante cotejo con sus originales así como también poder solicitar la documentación en copias certificadas;
 
-###### ARTICULO 15.
+XXIII. Expedir certificaciones de los documentos que obren en los archivos de la Auditoría Superior del Estado;
 
-Las dependencias de cada uno de los poderes en que se divide el ejercicio del gobierno del estado, encargadas de los funcionarios, empleados, trabajadores y maestros a su servicio, así como de los organismos descentralizados y municipios sujetos a esta ley, comunicarán a la dirección de pensiones los movimientos de altas y bajas de su personal, en el término de quince días naturales.
+XXIV. Solicitar la comparecencia de las personas que se considere, en los casos concretos que así se determine en esta Ley;
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+XXV. Comprobar la existencia, procedencia y registro de los activos y pasivos de las entidades fiscalizadas, de los fideicomisos, fondos y mandatos o cualquier otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de las Cuentas Públicas;
 
-###### ARTICULO 16.
+XXVI. Fiscalizar el financiamiento público en los términos establecidos en esta Ley así como en las demás disposiciones aplicables;
 
-Los encargados de cubrir sueldos a los servidores públicos comprendidos en este ordenamiento, están obligados a realizar los descuentos que la dirección de pensiones ordene, siendo civil, administrativa y penalmente responsables en caso de no hacerlo.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2020)</small>
 
-De igual manera están obligados a enviar a la dirección de pensiones, las nóminas o recibos en que consten los descuentos, dentro de los quince días naturales siguientes a la fecha en que se hayan efectuado y a ministrar los informes que les sean solicitados.
+XXVII. Solicitar la información financiera, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que los entes públicos están obligados a operar con el propósito de consultar la información contenida en los mismos;
 
-###### ARTICULO 17.
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2020)</small>
 
-Los servidores públicos deberán proporcionar a la Dirección y a la dependencia en que presten sus servicios en los términos de esta ley:
+XXVIII. En caso de epidemia o peligro de invasión en el país o en el Estado, así como por caso fortuito o fuerza mayor que impida o limite el cumplimiento de su función fiscalizadora, llevar a cabo sus actuaciones mediante el uso de herramientas tecnológicas bajo la modalidad no presencial, esto es, a distancia, a través de medios virtuales que permitan la comunicación simultánea con transmisión en tiempo real entre la Auditoría Superior del Estado y los entes auditables, y
 
-I.- Los nombres de los familiares que designen como beneficiarios; y,
+XXIX. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento para la fiscalización de las Cuentas Públicas.
 
-II.- Los informes y documentos que se les soliciten.
+###### ARTÍCULO 17.
 
-Las designaciones a que se refiere este artículo podrán en todo tiempo ser sustituidas por otras, a voluntad del servidor público, dentro de las limitaciones establecidas por este Cuerpo de Leyes; de no hacerlo se sujetará a las reglas de la sucesión que establece la Ley Civil vigente.
+Durante la práctica de auditorías, la Auditoría Superior del Estado podrá convocar a las entidades fiscalizadas a las reuniones de trabajo, para la revisión de los resultados preliminares.
 
-###### ARTICULO 18.
+###### ARTÍCULO 18.
 
-La Dirección de Pensiones expedirá a todos los beneficiarios de esta Ley una cédula de identificación, a fin de que puedan ejercitar los derechos que la misma les confiere, según el caso.
+La Auditoría Superior del Estado deberá realizar sus procedimientos de auditoría conforme a las normas profesionales del sistema nacional de fiscalización, así como la realización y presentación de informes.
 
-En dicha cédula se anotarán los nombres y datos que establezca el Reglamento.
+###### ARTÍCULO 19.
 
-###### ARTICULO 19.
+La Auditoría Superior del Estado, de manera previa a la fecha de presentación de los Informes individuales, dará a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados finales de las auditorías y las observaciones preliminares que se deriven de la revisión de la Cuenta Pública, a efecto de que dichas entidades presenten las justificaciones y aclaraciones que correspondan.
 
-Para que los beneficiarios puedan percibir las prestaciones que les correspondan, deberán cumplir los requisitos que esta Ley establece y los del o los reglamentos que se expidan con apoyo en la misma.
+A las reuniones en las que se dé a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados y observaciones preliminares que se deriven de la revisión de la Cuenta Pública, se les citará por lo menos con 10 días hábiles de anticipación remitiendo con la misma anticipación a las entidades fiscalizadas los resultados y las observaciones preliminares de las auditorías practicadas, en las reuniones si la entidad fiscalizada estima necesario presentar información adicional, podrá solicitar a la Auditoría Superior del Estado un plazo de hasta 5 días hábiles más para su exhibición. En dichas reuniones las entidades fiscalizadas podrán presentar las justificaciones y aclaraciones que estimen pertinentes. Adicionalmente, la Auditoría Superior del Estado les concederá un plazo de 3 días hábiles para que presenten argumentaciones adicionales y documentación soporte, misma que deberán ser valoradas por esta última para la elaboración de los Informes individuales.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+Una vez que la Auditoría Superior del Estado valore las justificaciones, aclaraciones y demás información a que hacen referencia los párrafos anteriores, podrá determinar la procedencia de eliminar, rectificar o ratificar los resultados y las observaciones preliminares que les dio a conocer a las entidades fiscalizadas, para efectos de la elaboración definitiva de los Informes individuales.
 
-###### ARTICULO 20.
+En caso de que la Auditoría Superior del Estado considere que las entidades fiscalizadas no aportaron elementos suficientes para atender las observaciones preliminares correspondientes, deberá incluir en el apartado específico de los informes individuales, una síntesis de las justificaciones, aclaraciones y demás información presentada por dichas entidades.
 
-Las controversias que surjan sobre la aplicación de esta ley, entre la Dirección de Pensiones, las entidades públicas y sus servidores, serán resueltas en primer término por la Junta Directiva, oyendo a las partes, quienes dispondrán de los medios de impugnación que la citada ley y otros ordenamientos expresamente señalen.
+###### ARTÍCULO 20.
 
-###### ARTICULO 21.
+Lo previsto en los artículos anteriores, se realizará sin perjuicio de que la Auditoría Superior del Estado convoque a las reuniones de trabajo que estime necesarias durante las auditorías correspondientes, para la revisión de los resultados preliminares.
 
-El patrimonio de la Dirección de Pensiones Civiles lo constituirán:
+###### ARTÍCULO 21.
 
-I.- Sus propiedades, posesiones, derechos y obligaciones;
+La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de las cuentas públicas en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el Presupuesto de Egresos en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de auditorías sobre el desempeño. Las observaciones, incluyendo las acciones y recomendaciones que la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión. Lo anterior, sin perjuicio de que, de encontrar en la revisión que se practique presuntas responsabilidades a cargo de servidores públicos o particulares, correspondientes a otros ejercicios fiscales, se dará vista a la unidad administrativa a cargo de las investigaciones de la Auditoría Superior de la (sic) Estado para que proceda a formular las promociones de responsabilidades administrativas o las denuncias correspondientes en términos del Título Quinto de la presente Ley.
 
-II.- Las aportaciones de los servidores públicos;
+###### ARTÍCULO 22.
 
-III.- Las aportaciones del Gobierno Estatal, organismos públicos descentralizados y municipios;
+La Auditoría Superior del Estado tendrá acceso a contratos, convenios, documentos, datos, libros, archivos y documentación justificativa y comprobatoria relativa al ingreso, gasto público y cumplimiento de los objetivos de los programas de los entes públicos, así como a la demás información que resulte necesaria para la revisión y fiscalización de las Cuentas Públicas siempre que al solicitarla se expresen los fines a que se destine dicha información.
 
-IV.- Los intereses, rentas, plusvalías y demás utilidades que se obtengan de las operaciones e inversiones que realice la Dirección de Pensiones;
+###### ARTÍCULO 23.
 
-V.- El importe de las jubilaciones y pensiones, descuentos e intereses que prescriban en los términos de las disposiciones legales respectivas;
+Cuando conforme a esta Ley, los órganos internos de control deban colaborar con la Auditoría Superior del Estado en lo que concierne a la revisión de la Cuenta Pública, deberá establecerse una coordinación entre ambos a fin de garantizar el debido intercambio de información que al efecto se requiera, y otorgar las facilidades que permitan a los auditores llevar a cabo el ejercicio de sus funciones. Asimismo, deberán proporcionar la documentación que les solicite la Auditoría Superior del Estado sobre los resultados de la fiscalización que realicen o cualquier otra que se les requiera, para realizar la auditoría correspondiente.
 
-VI.- Las donaciones, herencias, legados y fideicomisos que se hicieren o constituyeren en favor de la Dirección de Pensiones;
+###### ARTÍCULO 24.
 
-VII.- Los muebles, inmuebles y aportaciones extraordinarias que el Gobierno de la Entidad, organismos públicos descentralizados y municipios destinen y entreguen para las funciones que establece este Ordenamiento; y,
+La información y datos que para el cumplimiento de lo previsto en los dos artículos anteriores se proporcionen, estarán afectos exclusivamente al objeto de esta Ley.
 
-VIII.- Cualquier otra percepción o ingreso que se obtenga a título legal con lo que resulte beneficiado el fondo de la Dirección.
+###### ARTÍCULO 25.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+Las auditorías que se efectúen en los términos de esta Ley, se practicarán por el personal expresamente comisionado para el efecto por la Auditoría Superior del Estado o mediante la contratación de despachos o profesionales independientes, habilitados por la misma. Lo anterior, con excepción de aquellas auditorías en las que se maneje información en materia de seguridad pública, así como tratándose de investigaciones relacionadas con responsabilidades administrativas, las cuales serán realizadas directamente por la Auditoría Superior del Estado.
 
-###### ARTICULO 22.
+En el caso de despachos o profesionales independientes, previamente a su contratación, la Auditoría Superior del Estado deberá cerciorarse y recabar la manifestación por escrito de éstos de no encontrarse en conflicto de intereses con las entidades fiscalizadas ni con la propia Auditoría Superior del Estado.
 
-Las aportaciones obligatorias que deberán cubrir los servidores públicos a la dirección de pensiones civiles del estado, serán del once por ciento del sueldo base de cotización.
+Asimismo, los servidores públicos de la Auditoría Superior del Estado y los despachos o profesionales independientes tendrán la obligación de abstenerse de conocer asuntos referidos a las entidades fiscalizadas en las que hubiesen prestado servicios, de cualquier índole o naturaleza, o con los que hubieran mantenido cualquier clase de relación contractual durante el periodo que abarque la revisión de que se trate, o en los casos en que tengan conflicto de interés en los términos previstos en la Ley de Responsabilidades.
 
-Las aportaciones de las entidades públicas serán del trece por ciento del sueldo base de cotización que les correspondan a los servidores públicos.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+No se podrán contratar trabajos de auditoría externos o cualquier otro servicio relacionado con actividades de fiscalización de manera externa, cuando exista parentesco por consanguinidad o afinidad hasta el cuarto grado, entre los prestadores de servicios externos y, el titular de la Auditoría Superior del Estado, cualquier mando superior de la Auditoría Superior del Estado, o las diputadas y los diputados integrantes de la Comisión.
 
-Se establece como descuento mínimo obligatorio para los servidores públicos acogidos a los beneficios de la presente ley, el once por ciento de su sueldo base de cotización sin tomar en consideración la edad del obligado; estableciéndose como límite inferior una vez el valor diario de la Unidad de Medida y Actualización.
+###### ARTÍCULO 26.
 
-Cuando se requiera, con base en estudios técnicos, el incremento, se hará también en forma proporcional.
+Las personas a que se refiere el artículo anterior tendrán el carácter de representantes de la Auditoría Superior del Estado en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente el oficio de comisión respectivo e identificarse plenamente como personal actuante de dicha Auditoría.
 
-Las cantidades a que se refiere este artículo, deberán entregarse a la dirección de pensiones en un plazo no mayor de diez días naturales, a partir de la fecha en que se haya efectuado el descuento. En caso de que no se enteren a la dirección de pensiones dichas aportaciones por el órgano encargado de hacer las retenciones en el plazo y términos establecidos, estarán obligados a cubrir los intereses que se hayan generado, así como será responsable civil y penalmente conforme a las leyes estatales y federales.
+###### ARTÍCULO 27.
 
-No se podrán desviar dichas retenciones para otros fines, más los que señale el presente ordenamiento.
+Las entidades fiscalizadas deberán proporcionar a la Auditoría Superior del Estado los medios y facilidades necesarios para el cumplimiento de sus atribuciones, tales como espacios físicos adecuados de trabajo y en general cualquier otro apoyo que posibilite la realización de sus actividades.
 
-El fondo constituido es inembargable.
+###### ARTÍCULO 28.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+Durante sus actuaciones los comisionados o habilitados que hubieren intervenido en las revisiones, deberán levantar actas circunstanciadas en presencia de dos testigos, en las que harán constar hechos y omisiones que hubieren encontrado. Las actas, declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba en términos de ley.
 
-###### ARTICULO 23.
+###### ARTÍCULO 29.
 
-Aquellos servidores públicos que desempeñen dos o más empleos, cubrirán el descuento establecido en el artículo anterior por cada uno de sus sueldos.
+Los servidores públicos de la Auditoría Superior del Estado y, en su caso, los despachos o profesionales independientes contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan, así como de sus actuaciones y observaciones.
 
-###### ARTICULO 24.
+###### ARTÍCULO 30.
 
-La separación por licencia sin goce de sueldo sólo se computará como tiempo de servicio en los siguientes casos:
+Los prestadores de servicios profesionales externos que contrate, cualquiera que sea su categoría, serán responsables en los términos de las leyes aplicables por violación a la reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan.
 
-a) Cuando sea concedida para desempeño de comisiones sindicales o el ejercicio de cargos públicos de elección popular; y,
+###### ARTÍCULO 31.
 
-b) Si la licencia se concede por período menor de seis meses.
+La Auditoría Superior del Estado será responsable subsidiaria de los daños y perjuicios que en términos de este capítulo, causen los servidores públicos de la misma y los despachos o profesionales independientes, contratados para la práctica de auditorías, sin perjuicio de que la Auditoría Superior del Estado promueva las acciones legales que correspondan en contra de los responsables.
 
-En todo caso, para que se computen tales licencias se requerirá que se sigan cubriendo al fondo las aportaciones a que se refiere el artículo 22 de esta Ley, durante todo el tiempo que comprenda la licencia, aportaciones que deberá hacer el interesado exclusivamente por su cuenta.
+### CAPÍTULO II. DEL CONTENIDO DEL INFORME GENERAL Y SU ANÁLISIS
 
-###### ARTICULO 25.
+###### ARTÍCULO 32.
 
-Cuando por cualquier razón no se hicieren los descuentos a los servidores públicos, la Dirección de Pensiones podrá mandar deducirlos hasta por un veinticinco por ciento de los sueldos, a menos que el servidor público obtenga facilidades para que el pago sea hecho a plazos.
+La Auditoría Superior del Estado tendrá un plazo que vence el 31 de octubre del año en que se presente la Cuenta Pública, para rendir el Informe General correspondiente al Congreso del Estado, por conducto de la Comisión, mismo que tendrá carácter público.
 
-###### ARTICULO 26.
+El Congreso remitirá copia del Informe General al Comité Coordinador del Sistema Estatal Anticorrupción y al Comité de Participación Ciudadana.
 
-Los bienes, derechos y fondos que constituyen el patrimonio de la Dirección de Pensiones, gozarán de las franquicias y privilegios concedidos a los bienes del Estado, exentándolos de toda clase de impuestos estatales y municipales.
+A solicitud de la Comisión, el Auditor Superior del Estado y los funcionarios que éste designe presentarán, ampliarán o aclararán el contenido del Informe General, en sesiones de la Comisión cuantas veces sea necesario a fin de tener un mejor entendimiento del mismo, siempre y cuando no se revele información reservada o que forme parte de un proceso de investigación. Lo anterior, sin que se entienda para todos los efectos legales como una modificación al Informe General.
 
-La Dirección de Pensiones se considerará de acreditada solvencia y no estará obligada a constituir depósito ni fianzas legales.
+###### ARTÍCULO 33.
 
-###### ARTICULO 27.
+El Informe General contendrá como mínimo:
 
-La caja y control de los bienes y derechos del fondo se llevarán por la Dirección de Pensiones, independientemente de la contabilidad del Estado, quedando sujeta a la auditoría de la Tesorería General, la que podrá decretar revisión en cualquier momento y se obligará a auditar el balance anual.
+I. Un resumen de las auditorías realizadas y las observaciones realizadas;
 
-Las entidades públicas podrán solicitar a la Junta Directiva, la práctica de auditorías por medio de contador público titulado; tendrán facultad para auditar las operaciones administrativas, contables y financieras de la institución en los puntos que sean parte interesada. De igual derecho gozarán los organismos sindicales a que se refiere está Ley.
+II. Las áreas claves con riesgo identificadas en la fiscalización;
 
-###### ARTICULO 28.
+III. Un resumen de los resultados de la fiscalización del gasto, de las participaciones federales, de los recursos transferidos y la evaluación de la deuda fiscalizable;
 
-Los servidores públicos que contribuyen a la constitución del fondo de la Dirección de Pensiones no adquieren derecho alguno, ni individual ni colectivo sobre él, sino tan sólo el de gozar de los beneficios que esta Ley les conceda.
+IV. La descripción de la muestra del gasto público auditado, señalando la proporción respecto del ejercicio de los poderes del Estado, la Administración Pública Estatal, los municipios y el ejercido por los órganos constitucionales autónomos;
 
-###### ARTICULO 29.
+V. Derivado de las Auditorías, en su caso y dependiendo de la relevancia de las observaciones, un apartado donde se incluyan sugerencias al Congreso del Estado para modificar disposiciones legales a fin de mejorar la gestión financiera y el desempeño de las entidades fiscalizadas, y;
 
-El fondo de la Dirección de Pensiones podrá invertirse en los términos de esta Ley, exceptuadas aquéllas cantidades que se destine al sostenimiento administrativo de la institución, calculado en tres meses.
+VI. La demás información que se considere necesaria.
 
-###### ARTICULO 30.
+### CAPÍTULO III. DE LOS INFORMES INDIVIDUALES
 
-Cuando las aportaciones ordinarias que establece esta Ley en favor de la Dirección de Pensiones, así como los productos propios de que disponga, no sean suficientes para cubrir los servicios y demás obligaciones a su cargo, el déficit que se presente se cubrirá en la forma establecida por el artículo 22, incrementándose proporcionalmente el importe de las aportaciones necesarias.
+###### ARTÍCULO 34.
 
-Las entidades públicas podrán hacer aportaciones extraordinarias en situaciones especiales, de acuerdo con sus posibilidades presupuestarias.
+Los informes individuales de auditoría deberán ser entregados a la Comisión, conforme se hayan concluido por parte de la Auditoría Superior, debiendo ser entregados en su totalidad a la Comisión a más tardar el 31 de octubre del año en que se presentó la Cuenta Pública.
 
-La Junta Directiva de la institución dictará los acuerdos que procedan, a fin de que la prestación de los servicios y obligaciones se atiendan y cumplan a la brevedad posible.
+A su vez, la Comisión deberá remitir los informes individuales que haya concluido en su revisión y análisis al Pleno del Congreso para los efector (sic) procedentes.
 
-###### ARTICULO 31.
+###### ARTÍCULO 35.
 
-Los préstamos a corto plazo se harán a los contribuyentes del fondo, conforme a las siguientes reglas:
+Los Informes Individuales de auditoría contendrán como mínimo lo siguiente:
 
-I.- A quienes hayan cubierto a la Dirección las aportaciones a que se refiere el artículo 22, cuando menos por seis meses;
+I. Los criterios de selección, el objetivo, el alcance, los procedimientos de auditoría aplicados y el dictamen de la revisión;
 
-II.- Mediante garantía del total de dichas aportaciones;
+II. Los nombres de los servidores públicos de la Auditoría Superior del Estado a cargo de realizar la auditoría o, en su caso, de los despachos o profesionales independientes contratados para llevarla a cabo;
 
-III.- Hasta el importe de seis meses del sueldo básico del solicitante, si sus aportaciones son iguales o mayores al monto del préstamo;
+III. El cumplimiento, en su caso, de la Ley de Ingresos, el Presupuesto de Egresos, de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis potosí, de la Ley de Disciplina Financiera de la Entidades Federativas y los Municipios, de la Ley General de Contabilidad Gubernamental, y demás disposiciones jurídicas;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+IV. Los resultados de la fiscalización efectuada;
 
-IV. Cuando el préstamo sobrepase al monto de las aportaciones, el excedente será garantizado con el importe que, a la fecha de solicitud del préstamo, alcance la indemnización global del servidor público activo que sin tener derecho a jubilación o pensión, se separe definitivamente del servicio en los términos del artículo 70 de esta Ley. En caso de ser insuficiente, la diferencia se garantizará en forma solidaria, con el aval de uno o dos servidores públicos contribuyentes al fondo;
+V. Las observaciones, recomendaciones, acciones, con excepción de los informes de presunta responsabilidad administrativa, y en su caso denuncias de hechos, y
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+VI. Un apartado específico en cada una de las auditorías realizadas donde se incluyan una síntesis de las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado en relación con los resultados y las observaciones que se les hayan hecho durante las revisiones.
 
-V. Los jubilados o pensionados tendrán derecho a préstamos personales a corto plazo, hasta por el importe de cuatro meses de la jubilación o pensión que les corresponda; y
+Asimismo, considerará, en su caso, el cumplimiento de los objetivos de aquellos programas que promuevan la igualdad entre mujeres y hombres, así como la erradicación de la violencia y cualquier forma de discriminación de género.
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+Los informes individuales a que hace referencia el presente capítulo tendrán el carácter de públicos, y se mantendrán en la página de Internet de la Auditoría Superior del Estado, en Formatos Abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
 
-VI. El monto del préstamo lo constituirá el capital y los intereses correspondientes al plazo señalado para el pago del mismo.
+###### ARTÍCULO 36.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+La Auditoría Superior del Estado dará cuenta al Congreso en los informes individuales de las observaciones, recomendaciones y acciones y, en su caso, de la imposición de las multas respectivas, y demás acciones que deriven de los resultados de las auditorías practicadas.
 
-### CAPITULO TERCERO. DEL PATRIMONIO
+### CAPÍTULO IV. DEL SEGUIMIENTO A LAS OBSERVACIONES
 
-###### ARTICULO 32.
+###### ARTÍCULO 37.
 
-Los préstamos serán de tal manera que los abonos para reintegrar la cantidad prestada y sus intereses, sumados a los descuentos por préstamos hipotecarios y a los que deban hacerse por cualquier otro adeudo a favor de la Dirección de Pensiones, no excedan del cincuenta por ciento del sueldo del interesado, salvo autorización expresa de su parte, comprobando además que cuenta con ingresos adicionales fijos.
+La Auditoría Superior del Estado informará al Congreso, por conducto de la Comisión, del estado que guarda la solventación de observaciones a las entidades fiscalizadas, respecto a cada uno de los Informes Individuales que se deriven de las funciones de fiscalización.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+Para tal efecto, el reporte a que se refiere este artículo será semestral y deberá ser presentado a más tardar el primer día hábil de los meses de mayo y noviembre de cada año, con los datos disponibles al cierre del primer y tercer trimestres del año, respectivamente.
 
-###### ARTICULO 33.
+El informe semestral se elaborará con base en los formatos que al efecto establezca la Auditoria, los cuales serán aprobados por la Comisión; e incluirá invariablemente los montos efectivamente resarcidos al patrimonio de los entes públicos, derivados de la fiscalización de la Cuenta Pública y en un apartado especial, la atención a las recomendaciones, así como el estado que guarden las denuncias penales presentadas y los procedimientos de responsabilidad administrativa promovidos en términos de la Ley de Responsabilidades y esta Ley. Asimismo deberá publicarse en la página de Internet de la Auditoría Superior del Estado en la misma fecha en que sea presentado en formato de datos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí y se mantendrá de manera permanente en la página en Internet.
 
-El plazo para la devolución o el pago de los préstamos otorgados al trabajador será de un plazo de hasta veinticuatro meses a elección del interesado.
+En dicho informe, la Auditoría Superior del Estado dará a conocer el seguimiento específico de las promociones de los informes de presunta responsabilidad administrativa, a fin de identificar a la fecha del informe las estadísticas sobre dichas promociones identificando también las sanciones que al efecto hayan procedido.
 
-### CAPITULO CUARTO. PRESTAMOS A CORTO PLAZO
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2020)</small>
 
-###### ARTICULO 34.
+Respecto de los pliegos de observaciones, en dicho informe se dará a conocer el número de pliegos emitidos, cada una de las observaciones realizadas a los entes auditados, su estatus procesal y las causas que los motivaron. La Auditoría Superior del Estado habilitará un mecanismo de comunicación institucional para que la ciudadanía que posea información adicional de las observaciones, pueda hacerla llegar.
 
-Los préstamos a corto plazo causarán un interés mínimo del doce por ciento anual, sobre saldos insolutos, el que podrá ser revisado anualmente y modificado por acuerdo de la Junta, cuando las condiciones económicas así lo requieran, pero no rebasará el tipo de interés que cobren las instituciones bancarias en préstamos similares.
+En cuanto a las denuncias penales formuladas ante la Fiscalía Especializada o las autoridades competentes, en dicho informe la Auditoría Superior del Estado dará a conocer la información actualizada sobre la situación que guardan las denuncias penales, el número de denuncias presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia así como, en su caso, la pena impuesta.
 
-###### ARTICULO 35.
+### CAPÍTULO V. DE LAS ACCIONES Y RECOMENDACIONES DERIVADAS DE LA FISCALIZACIÓN
 
-El pago del préstamo se hará quincenalmente en abonos iguales.
+###### ARTÍCULO 38.
 
-###### ARTICULO 36.
+El Titular de la Auditoría Superior del Estado enviará a las entidades fiscalizadas, dentro de un plazo de diez días hábiles siguientes a que haya sido entregado al Congreso, el informe que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de 30 días hábiles, presenten la información y realicen las consideraciones pertinentes.
 
-No se concederá nuevo préstamo mientras permanezca insoluto el anterior. Solamente podrá renovarse cuando haya transcurrido la cuarta parte del plazo por el que fue concedido, y se encuentren cubiertos los abonos correspondientes a dicho período.
+Con la notificación del informe a las entidades fiscalizadas quedarán formalmente promovidas y notificadas las acciones y recomendaciones contenidas en dicho informe, salvo en los casos del informe de presunta responsabilidad administrativa y de las denuncias penales y de juicio político, los cuales se notificarán a los presuntos responsables en los términos de las leyes que rigen los procedimientos respectivos.
 
-### CAPITULO QUINTO. PRESTAMOS HIPOTECARIOS
+###### ARTÍCULO 39.
 
-###### ARTICULO 37.
+La Auditoría Superior del Estado al promover o emitir las acciones a que se refiere esta Ley, observará lo siguiente:
 
-Los servidores públicos contribuyentes al fondo que tengan más de un año continuo de servicio, tendrán derecho a obtener préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos.
+I. A través de las solicitudes de aclaración, requerirá a las entidades fiscalizadas que presenten información adicional para atender las observaciones que se hayan realizado;
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+II. Tratándose de los pliegos de observaciones, determinará en cantidad líquida los daños o perjuicios al patrimonio o ambos a la Hacienda Pública o en su caso de los entes públicos;
 
-### CAPITULO SEXTO. CASA HABITACION PARA SERVIDORES PUBLICOS
+III. Mediante las promociones del ejercicio de la facultad de comprobación fiscal, informará a la autoridad competente sobre un posible incumplimiento de carácter fiscal detectado en el ejercicio de sus facultades de fiscalización;
 
-###### ARTICULO 38.
+IV. A través del informe de presunta responsabilidad administrativa, la Auditoría Superior del Estado promoverá ante el Tribunal, en los términos de la Ley de Responsabilidades, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, así como sanciones a los particulares vinculados con dichas faltas.
 
-Los préstamos hipotecarios se destinarán, en orden de prioridad, a los siguientes fines:
+En caso de que la Auditoría Superior del Estado determine la existencia de daños o perjuicios, o ambos al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos de la Ley de Responsabilidades;
 
-I.- Adquisición o construcción de casas habitación para el servidor público, cuando no tenga alguna otra en propiedad;
+V. Por medio de las promociones de responsabilidad administrativa, dará vista a los órganos internos de control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la Ley de Responsabilidades;
 
-II.- Mejoras, reparación o ampliación de la casa habitación del servidor público. La Junta determinará, mediante acuerdo general, los criterios a utilizar para establecer el límite máximo del monto de los créditos que se otorguen para ese efecto;
+VI. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía Especializada, la posible comisión de hechos delictivos, y
 
-III.- Redención de gravámenes que soporten los inmuebles a que se refiere este artículo; y
+VII. Por medio de la denuncia de juicio político, hará del conocimiento al Congreso del Estado la presunción de actos u omisiones de los servidores públicos a que se refiere el Artículo 124 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.
 
-IV.- Adquisición de terreno en el que deberá construirse la habitación del servidor público, cuando carezca de ésta en propiedad.
+###### ARTÍCULO 40.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+La Auditoría Superior del Estado deberá pronunciarse en un plazo de 60 días hábiles, contados a partir de su recepción, sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las acciones y recomendaciones.
 
-###### ARTICULO 39.
+###### ARTÍCULO 41.
 
-El otorgamiento de préstamos hipotecarios en los términos de esta ley, lo autorizará la Junta Directiva previo análisis y se efectuará de conformidad con el programa (sic) presupuesto anual de la Dirección, atendiendo a su disponibilidad de recursos.
+Antes de emitir sus recomendaciones, la Auditoría Superior del Estado analizará con las entidades fiscalizadas las observaciones que dan motivo a las mismas. En las reuniones de resultados preliminares y finales las entidades fiscalizadas a través de sus representantes o enlaces suscribirán conjuntamente con el personal de las áreas auditoras correspondientes de la Auditoría Superior del Estado, las Actas en las que consten los términos de las recomendaciones que, en su caso, sean acordadas y los mecanismos para su atención. Lo anterior, sin perjuicio de que la Auditoría Superior del Estado podrá emitir recomendaciones en los casos en que no logre acuerdos con las entidades fiscalizadas.
 
-El monto de los préstamos hipotecarios no podrá exceder del importe que fije la Junta Directiva y será revisado cuando así lo considere necesario.
+La información, documentación o consideraciones aportadas por las entidades fiscalizadas para atender las recomendaciones en los plazos convenidos, deberán precisar las mejoras realizadas y las acciones emprendidas. En caso contrario, deberán justificar la improcedencia de lo recomendado o las razones por los (sic) cuales no resulta factible su implementación.
 
-###### ARTICULO 40.
+Dentro de los 30 días posteriores a la conclusión del plazo a que se refiere el artículo que antecede, la Auditoría Superior del Estado enviará al Congreso un reporte final sobre las recomendaciones correspondientes a la Cuenta Pública en revisión, detallando la información a que se refiere el párrafo anterior.
 
-La Dirección formulará tablas para determinar las cantidades máximas que puedan ser prestadas a cada servidor público, según su sueldo y años de servicio, tomando como base que las amortizaciones quincenales no deben sobrepasar del cincuenta por ciento del sueldo o sueldos que el servidor público disfrute y por los cuales se le practiquen descuentos para la Dirección.
+###### ARTÍCULO 42.
 
-En los casos en que el servidor público justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional, pero en ningún caso rebasará el importe de aquél.
+La Auditoría Superior del Estado, podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el Tribunal; así como la denuncia de hechos ante la Fiscalía Especializada, la denuncia de juicio político ante el Congreso, o los informes de presunta responsabilidad administrativa ante el órgano interno de control competente, en los términos de esta Ley.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+### CAPÍTULO VI. CONCLUSIÓN DE LA REVISIÓN DE LA CUENTA PÚBLICA
 
-###### ARTICULO 41.
+###### ARTÍCULO 43.
 
-Los préstamos hipotecarios se cubrirán mediante amortizaciones quincenales que incluirán capital, intereses, seguro hipotecario y el plazo, para la redención total del crédito podrá ser hasta por quince años a elección del trabajador.
+La Comisión con el apoyo de la Unidad de Evaluación y Control, realizará un análisis de los informes individuales, en su caso, de los informes específicos, y del Informe General y lo enviará al Pleno del H. Congreso del Estado. El análisis de la Comisión podrá incorporar aquellas sugerencias que juzgue conveniente y que haya hecho la Auditoría Superior del Estado, para modificar disposiciones legales que pretendan mejorar la gestión financiera y el desempeño de las entidades fiscalizadas.
 
-###### ARTICULO 42.
+###### ARTÍCULO 44.
 
-El préstamo no excederá del noventa por ciento del valor comercial fijado por la Dirección al inmueble, a menos que el interesado proporcione otras garantías adicionales suficientes para garantizar el excedente.
+En aquellos casos en que la Comisión detecte errores en el Informe General, o bien, considere necesario aclarar o profundizar el contenido del mismo, podrá solicitar a la Auditoría Superior del Estado la entrega por escrito de las explicaciones pertinentes, así como la comparecencia del Titular de la Auditoría Superior del Estado, o de otros servidores públicos de la misma, las ocasiones que considere necesarias a fin de realizar las aclaraciones correspondientes, sin que ello implique la reapertura del Informe General.
 
-Cuando el servidor público no estuviere de acuerdo con el avaluó practicado por la Dirección, podrá designar un perito que practique uno nuevo; y en caso de discrepar los peritajes se podrá nombrar un tercero por ambas partes. La Junta Directiva resolverá en definitiva.
+La Comisión podrá formular recomendaciones a la Auditoría Superior del Estado, las cuales serán incluidas en las conclusiones que al efecto emita sobre el Informe General.
 
-### CAPITULO SEPTIMO. JUBILACIONES Y PENSIONES
+###### ARTÍCULO 45.
 
-###### ARTICULO 43.
+El Congreso del Estado estudiará el Informe General, el análisis de la Comisión a que se refiere esta Ley y el contenido de la Cuenta Pública. Asimismo, la Comisión someterá a votación del Pleno el dictamen correspondiente a más tardar el 15 de noviembre del año de presentación de la Cuenta Pública.
 
-Los préstamos hipotecarios que se hagan a servidores públicos causarán un interés mínimo del nueve por ciento anual, sobre saldos insolutos, el que podrá ser revisado anualmente y modificado por acuerdo de la Junta, cuando las condiciones económicas así lo requieran, pero no rebasará el tipo de interés que cobren las instituciones bancarias en préstamos similares.
+El dictamen deberá contar con el análisis pormenorizado de su contenido y estar sustentado en conclusiones técnicas del Informe General y recuperando las discusiones técnicas realizadas en la Comisión, para ello acompañará a su Dictamen, en un apartado de antecedentes, el análisis realizado por la Comisión.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1983)</small>
+La aprobación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría Superior del Estado, mismas que seguirán el procedimiento previsto en esta Ley.
 
-Este tipo de interés se incrementará automáticamente en un cincuenta por ciento, cuando el servidor público se separe voluntariamente de su empleo, si esto ocurre en la primera mitad del plazo al que haya sido pactado el crédito.
+### CAPÍTULO VII. FISCALIZACIÓN DEL CUMPLIMIENTO DE LA LEY DE DISCIPLINA FINANCIERA DEL ESTADO Y LOS MUNICIPIOS
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+###### ARTÍCULO 46.
 
-###### ARTICULO 44.
+La Auditoría Superior del Estado, respecto de las reglas presupuestarias y de ejercicio, y de la contratación de deuda pública y obligaciones previstas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, deberá fiscalizar:
 
-La Dirección constituirá un fondo especial con el seguro hipotecario, que tendrá por objeto liquidar los créditos por préstamo (sic) hipotecarios o derivados de los contratos a que se refieren los artículos 31 y 37 de esta ley, que quedaren insolutos al fallecer el servidor público a quien se hubiere otorgado.
+I. La observancia de las reglas de disciplina financiera, de acuerdo a los términos establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los municipios;
 
-A la muerte del deudor, la Dirección cancelará a favor de los beneficiarios de aquél y con cargo a dicho fondo, el saldo insoluto.
+II. La contratación de los financiamientos y otras obligaciones de acuerdo a las disposiciones previstas en la Ley de Disciplina Financiera de las Entidades Federativas y los municipios y dentro de los límites establecidos por el sistema de alertas de dicha Ley, y
 
-La Junta Directiva reglamentará la forma de constituir el fondo y los términos en que los interesados deberán contribuir al mismo.
+III. El cumplimiento de inscribir y publicar la totalidad de sus financiamientos y otras obligaciones en el registro público único establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los municipios.
 
-En ningún caso habrá lugar a la devolución de las aportaciones que los acreditados hagan para constituir el fondo a que se refiere este precepto. Se informará de manera anual el destino de este fondo en los informes financieros contables.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 44 Bis.
-
-La Dirección constituirá un fondo especial que tendrá por objeto liquidar los créditos por préstamo (sic) hipotecarios otorgados a jubilados y pensionados, derivados de los contratos a que se refieren los artículos 31 y 37 de esta ley, que quedaren insolutos al fallecer el jubilado o pensionado a quien se hubiere otorgado.
-
-A la muerte del deudor, la dirección cancelará a favor de los beneficiarios de aquél y con cargo a dicho fondo, el saldo insoluto.
-
-La Junta Directiva reglamentará la forma de constituir el fondo y los términos en que los interesados deberán contribuir al mismo.
-
-En ningún caso habrá lugar a la devolución de las aportaciones que los acreditados hagan para constituir el fondo a que se refiere este precepto.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 45.
-
-Si por baja u otras causas graves a juicio de la Dirección el servidor público no pudiere cubrir los abonos provenientes del préstamo hipotecario, de corto plazo o del contrato de venta con garantía hipotecaria, o con reserva de dominio o de promesa de venta, podrá concedérsele, previa solicitud por escrito a la Dirección de Pensiones, un plazo de espera de seis meses, al término del cual deberá reanudar sus pagos; el adeudo del lapso de espera lo pagará en el plazo y condiciones que señale la Junta Directiva.
-
-### CAPITULO OCTAVO. SERVICIO MEDICO, SEGURO DE VIDA Y OTRAS PRESTACIONES
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
-
-###### ARTICULO 46.
-
-La Dirección adquirirá o construirá habitaciones para ser vendidas con sentido social a los beneficiarios de esta Ley.
-
-También estará facultada para adquirir y fraccionar inmuebles destinados a formar unidades habitacionales, comerciales y de beneficio social en favor de los servidores públicos. La enajenación de las unidades habitacionales podrá hacerse por medio de venta a plazos, con garantía hipotecaria y con reserva de dominio, o por medio de contratos de promesa de venta con las facilidades siguientes:
-
-I.- El servidor público entrará en posesión de la habitación sin más formalidades que la firma del contrato respectivo;
-
-II.- Pagados el capital e intereses se otorgará la escritura que proceda;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1983)</small>
-
-III.- El plazo para cubrir el precio del inmueble no excederá de diez años. A solicitud del interesado la Junta podrá conceder prórroga del plazo hasta quince años.
-
-IV.- Si el servidor público hubiere pagado sus abonos con regularidad durante cinco años o más y se viere imposibilitado de continuar cubriéndolos, tendrá derecho a que la Dirección remate en pública subasta el inmueble entre los servidores públicos, y que del producto, una vez pagado el crédito insoluto, se le entregue el remanente;
-
-V.- Si la imposibilidad del pago ocurre dentro de los cinco primeros años, el inmueble será devuelto a la Dirección rescindiendo el contrato de venta con garantía hipotecaria o de promesa de venta y sólo se cobrará al servidor público el importe de las rentas causadas durante el período de ocupación de la finca, devolviéndosele la diferencia entre éstas y lo que hubiere abonado a cuenta del precio. Para los efectos de esta fracción se fijará desde el otorgamiento del contrato la renta mensual que se le asigne al inmueble;
-
-VI.- Los honorarios notariales para el otorgamiento de las escrituras, serán cubiertos por mitad entre la Dirección y los servidores públicos; el pago de los impuestos y gastos adicionales serán por cuenta exclusiva de éstos.
-
-Los notarios sólo tendrán derecho a cobrar el cincuenta por ciento de los honorarios fijados en su Arancel.
-
-Los pensionistas gozarán de los beneficios de este artículo en los términos que dentro de los lineamientos de esta Ley fije la Junta Directiva por medio de acuerdos generales.
+Para efecto de lo dispuesto en este Capítulo, son financiamientos o empréstitos contratados por las entidades federativas y municipios que cuentan con garantía de la Federación, los que, conforme a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, tengan ese carácter.
 
 ## TÍTULO TERCERO. FISCALIZACIÓN DURANTE EL EJERCICIO FISCAL EN CURSO O DE EJERCICIOS ANTERIORES
 
 ### CAPÍTULO ÚNICO
 
-###### ARTICULO 47.
+###### ARTÍCULO 47.
 
-Los bienes adquiridos por los beneficiarios deberán ser destinados precisamente a habitación de éstos, siendo causa bastante para dar por vencida la totalidad del adeudo la violación de esta disposición, con todas las consecuencias legales, salvo autorización expresa de la Dirección, por causa justificada.
+Cualquier persona podrá presentar denuncias fundadas cuando se presuma el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, en los supuestos previstos en esta Ley, la Auditoría Superior del Estado, previa autorización de su Titular, podrá revisar la gestión financiera de las entidades fiscalizadas, durante el ejercicio fiscal en curso, así como respecto a ejercicios fiscales distintos al de la Cuenta Pública en revisión.
 
-Las casas serán inembargables en tanto se conserven dentro del patrimonio del beneficiario y quede un saldo insoluto en favor de la Dirección, excepto en el caso de que el crédito provenga de alimentos.
+Las denuncias podrán presentarse al Congreso del Estado, a la Comisión o directamente a la Auditoría Superior del Estado.
 
-###### ARTICULO 48.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2019)</small>
 
-El arrendamiento de casas de la Dirección de servidores públicos se regirá por el Código Civil y las normas generales que sobre esta materia dicte la Junta Directiva.
+###### ARTÍCULO 48.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+Las denuncias que se presenten deberán estar fundadas con evidencias, mediante las cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, en los supuestos establecidos en esta Ley.
 
-###### ARTICULO 49.
+El escrito de denuncia deberá contar, como mínimo, con los siguientes elementos:
 
-Tienen preferencia las operaciones a que refieren los artículos 31 y 37. La Junta Directiva podrá autorizar la inversión de los fondos excedentes en la construcción de inmuebles, adquisición de casas, terrenos, portafolios de inversión o bonos financieros para incrementar su patrimonio siempre y cuando no ponga en riesgo el capital de inversión, y sólo a petición de manera unánime de la Junta Directiva, el H. Congreso del Estado mediante Decreto podrá autorizar cualquier otro tipo de inversión que esté debidamente garantizada.
+I. El ejercicio en que se presentan los presuntos hechos irregulares, y
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
+II. Descripción de los presuntos hechos irregulares.
 
-###### ARTICULO 50.
+Al escrito de denuncia deberán acompañarse los elementos de prueba, cuando sea posible, que se relacionen directamente con los hechos denunciados. La Auditoría Superior del Estado deberá proteger en todo momento la identidad del denunciante.
 
-Cuando no sea posible atender todas las solicitudes, que presenten los servidores públicos para las operaciones comprendidas en los artículos 31 y 37, se considerará como preferente en igualdad de las demás condiciones, al que tenga mayor tiempo de contribuir al fondo.
+###### ARTÍCULO 49.
 
-###### ARTICULO 51.
+Las denuncias deberán referirse a presuntos daños o perjuicios a la Hacienda Pública Estatal o al patrimonio de los entes públicos, en algunos de los siguientes supuestos para su procedencia:
 
-(DEROGADO, P.O. 31 DE ENERO DE 1983)
+I. Desvío de recursos hacia fines distintos a los autorizados;
 
-###### ARTICULO 52.
+II. Irregularidades en la captación o en el manejo y utilización de los recursos públicos;
 
-Las casas adquiridas o construidas por los servidores públicos para su propia habitación con fondos suministrados por la Dirección de Pensiones, quedarán exentas por quince años, a partir de la fecha de su adquisición o construcción, de todos los impuestos y derechos estatales y municipales.
+III. Actos presuntamente irregulares en la contratación y ejecución de obras, contratación y prestación de servicios públicos, adquisición de bienes, y otorgamiento de permisos, licencias y concesiones entre otros;
 
-También gozarán de exención los contratos en que se hagan constar tales adquisiciones.
+IV. La comisión recurrente de irregularidades en el ejercicio de los recursos públicos, y;
 
-Esta franquicia quedará insubsistente si los inmuebles fueren enajenados por los adquirentes o destinados a otros fines.
+V. Inconsistencia en la información financiera o programática de cualquier entidad fiscalizada que oculte o pueda originar daños o perjuicios a su patrimonio.
 
-###### ARTICULO 53.
+La Auditoría Superior del Estado informará al denunciante la resolución que tome sobre la procedencia de iniciar la revisión correspondiente.
 
-El derecho a jubilación se adquiere cuando el servidor público se encuentra dentro de los supuestos consignados en esta Ley y satisfaga los requisitos que la misma establece.
+###### ARTÍCULO 50.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+El Titular de la Auditoría Superior del Estado, con base en el dictamen técnico jurídico que al efecto emitan las áreas competentes de la Auditoría Superior del Estado, autorizará, en su caso, la revisión de la gestión financiera correspondiente, ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta Pública en revisión.
 
-###### ARTICULO 54.
+###### ARTÍCULO 51.
 
-Tienen derecho a la jubilación los servidores públicos que tengan treinta años o más de servicio e igual tiempo de contribuir al fondo en los términos de esta ley, cualquiera que sea su edad y dejen de laborar.
+Las entidades fiscalizadas estarán obligadas a proporcionar la información que les solicite la Auditoría Superior del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+###### ARTÍCULO 52.
 
-La jubilación dará derecho al pago de una cantidad equivalente al salario regulador del servidor público por promedio del salario base de cotización de los últimos tres años, con un máximo de hasta veinte veces el valor diario de la Unidad de Medida y Actualización y su percepción comenzará a partir del día siguiente a aquél en que el servidor público hubiese disfrutado del mismo, por haber causado baja.
+La Auditoría Superior del Estado tendrá las atribuciones señaladas en esta Ley para la realización de las auditorías a que se refiere este Capítulo.
 
-En el otorgamiento de jubilaciones y pensiones, se atenderá lo dispuesto en el reglamento que para tal efecto expida la Junta Directiva de la Dirección de Pensiones, para calcular el monto de las jubilaciones y pensiones se considerará el salario con el cual se cotiza a la Dirección de Pensiones.
+La Auditoría Superior del Estado, deberá reportar en los informes correspondientes en los términos del Artículo 37 de esta Ley, el estado que guarden las observaciones, detallando las acciones relativas a dichas auditorías, así como la relación que contenga la totalidad de denuncias recibidas.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+###### ARTÍCULO 53.
 
-###### ARTICULO 54 Bis.
+De la revisión efectuada al ejercicio fiscal en curso o a los ejercicios anteriores, la Auditoria Superior del Estado, rendirá un informe al Congreso, a más tardar a los 10 días hábiles posteriores a la conclusión de la auditoría. Asimismo, promoverá las acciones que, en su caso, correspondan para el fincamiento de las responsabilidades administrativas, penales y políticas a que haya lugar, conforme lo establecido en esta Ley y demás legislación aplicable.
 
-La jubilación será forzosa cuando los servidores públicos tengan treinta años o más de contribuir al fondo de pensiones y sesenta años o más de edad, pudiendo continuar en el trabajo cuando así convenga al servicio público, previo acuerdo de las entidades públicas, organismos descentralizados y municipios de la entidad que se acojan a los beneficios de esta ley.
+###### ARTÍCULO 54.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a la Ley Responsabilidades procedan ni de otras que se deriven de la revisión de la Cuenta Pública.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2020)</small>
+
+ARTÍCULO 54 BIS. El Congreso del Estado podrá solicitar a la Auditoría Superior del Estado, mediante la práctica de una auditoría especial, la revisión inmediata de la gestión financiera de cualquiera de las entidades fiscalizadas, sea del ejercicio fiscal en curso o de ejercicios anteriores. La auditoría especial será solicitada mediante iniciativa de Acuerdo Económico, y siempre que existan elementos de prueba suficientes que hagan presumir el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, correspondiendo a la Comisión de Vigilancia la dictaminación de la solicitud planteada.
+
+Aprobada la solicitud de la auditoría especial, la Auditoría Superior del Estado procederá a su realización en forma inmediata, debiendo estar a lo dispuesto en los artículos, 52 y 53 de esta Ley.
 
 ## TÍTULO CUARTO. DETERMINACIÓN DE DAÑOS Y PERJUICIOS Y DEL FINCAMIENTO DE RESPONSABILIDADES
 
 ### CAPÍTULO I. DETERMINACIÓN DE DAÑOS Y PERJUICIOS CONTRA LA HACIENDA PÚBLICA ESTATAL O AL PATRIMONIO DE LOS ENTES PÚBLICOS
 
-###### ARTICULO 55.
+###### ARTÍCULO 55.
 
-Tienen derecho a pensión por vejez los servidores públicos que habiendo cumplido sesenta y cinco años de edad, tuviesen quince años de servicio como mínimo e igual tiempo de contribución al fondo.
+Si de la fiscalización que realice la Auditoría Superior del Estado se detectaran irregularidades que permitan presumir la existencia de responsabilidades administrativas a cargo de servidores públicos o particulares, la Auditoría Superior del Estado procederá a:
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+I. Promover ante el Tribunal, en los términos de la Ley Responsabilidades, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que detecte durante sus auditorías e investigaciones, en que incurran los servidores públicos, así como sanciones a los particulares vinculados con dichas faltas;
 
-###### ARTICULO 56.
+II. Dar vista a los órganos internos de control competentes de conformidad con la Ley Responsabilidades, cuando detecte posibles faltas administrativas distintas a las mencionadas en la fracción anterior;
 
-Para calcular el monto de las cantidades que correspondan por jubilación o pensión, se tomará en cuenta el salario con el cual se cotiza a la Dirección de Pensiones.
+En caso de que la Auditoría Superior del Estado determine la existencia de daños o perjuicios, o ambos a la Hacienda Pública Estatal o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos del Artículo 49 de la Ley Responsabilidades;
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+III. Presentar las denuncias y querellas penales, que correspondan ante la Fiscalía Especializada, por los probables delitos que se detecten derivado de sus auditorías;
 
-###### ARTICULO 57.
+IV. Coadyuvar con la Fiscalía Especializada en los procesos penales correspondientes, tanto en la etapa de investigación, como en la judicial. En estos casos, la Fiscalía Especializada recabará previamente la opinión de la Auditoría Superior del Estado, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal.
 
-La pensión a que se refiere el artículo 55, será hasta por los porcentajes del sueldo base de cotización que se especifican a continuación:
+Previamente a que la Fiscalía Especializada determine declinar su competencia, abstenerse de investigar los hechos denunciados, archivar temporalmente las investigaciones o decretar el no ejercicio de la acción penal, deberá hacerlo del conocimiento de la Auditoría Superior del Estado para que exponga las consideraciones que estime convenientes.
 
-15 años de servicio 50%
+La Auditoría Superior del Estado podrá impugnar ante la autoridad competente las omisiones de la Fiscalía Especializada en la investigación de los delitos, así como las resoluciones que emita en materia de declinación de competencia, reserva, no ejercicio o desistimiento de la acción penal, o suspensión del procedimiento, y
 
-16 años de servicio 53%
+V. Presentar las denuncias de juicio político ante el Congreso del Estado, en términos de las disposiciones aplicables.
 
-17 años de servicio 55%
+Las denuncias penales de hechos presuntamente ilícitos y las denuncias de juicio político, deberán presentarse por parte de la Auditoría Superior del Estado cuando se cuente con los elementos que establezcan las leyes en dichas materias.
 
-18 años de servicio 58%
+Las resoluciones del Tribunal podrán ser recurridas por la Auditoría Superior del Estado, cuando lo considere pertinente, en términos de legislación aplicable.
 
-19 años de servicio 60%
+###### ARTÍCULO 56.
 
-20 años de servicio 63%
+La promoción del procedimiento a que se refiere la fracción I del artículo anterior, tienen por objeto resarcir el monto de los daños y perjuicios estimables en dinero que se hayan causado al patrimonio de los entes públicos.
 
-21 años de servicio 65%
+Lo anterior, sin perjuicio de las demás sanciones administrativas que, en su caso, el Tribunal imponga a los responsables.
 
-22 años de servicio 68%
+Las sanciones que imponga el Tribunal se fincarán independientemente de las demás sanciones a que se refiere el artículo anterior que, en su caso, impongan las autoridades competentes.
 
-23 años de servicio 70%
+###### ARTÍCULO 57.
 
-24 años de servicio 73%
+La unidad administrativa de la Auditoría Superior del Estado a cargo de las investigaciones promoverá el informe de presunta responsabilidad administrativa y, en su caso, penales a los servidores públicos de la Auditoría Superior del Estado, cuando derivado de las auditorías a cargo de ésta, no formulen las observaciones o reduzcan su gravedad sobre las situaciones irregulares que detecten o violen la reserva de información en los casos previstos en esta Ley.
 
-25 años de servicio 75%
+###### ARTÍCULO 58.
 
-26 años de servicio 80%
+Las responsabilidades que se finquen a los servidores públicos de los entes públicos y de la Auditoría Superior del Estado, no eximen a éstos ni a los particulares, personas físicas o morales, de sus obligaciones, cuyo cumplimiento se les exigirá aun cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
 
-27 años de servicio 85%
+###### ARTÍCULO 59.
 
-28 años de servicio 90%
+La unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado promoverá el informe de presunta responsabilidad administrativa ante la unidad de la propia Auditoría encargada de fungir como autoridad substanciadora, cuando los pliegos de observaciones no sean solventados por las entidades fiscalizadas.
 
-29 años de servicio 95%
+Lo anterior, sin perjuicio de que la unidad administrativa a cargo de las investigaciones podrá promover el informe de presunta responsabilidad administrativa, en cualquier momento en que cuente con los elementos necesarios.
 
-###### ARTICULO 58.
+El procedimiento para promover el informe de presunta responsabilidad administrativa y la imposición de sanciones por parte del Tribunal, se regirá por lo dispuesto en la Ley Responsabilidades.
 
-Toda fracción de más de seis meses de servicio se considerara como año completo, para los efectos del otorgamiento de la pensión.
+###### ARTÍCULO 60.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+De conformidad con lo dispuesto en la Ley Responsabilidades, la unidad administrativa de la Auditoría Superior del Estado a la que se le encomiende la substanciación ante el Tribunal, deberá ser distinta de la que se encargue de las labores de investigación.
 
-###### ARTICULO 59.
+Para efectos de lo previsto en el párrafo anterior, el Reglamento Interior de la Auditoría Superior del Estado, deberá contener una unidad administrativa a cargo de las investigaciones que será la encargada de ejercer las facultades que la Ley Responsabilidades le confiere a las autoridades investigadoras; así como una unidad que ejercerá las atribuciones que la citada Ley otorga a las autoridades substanciadoras. Los titulares de las unidades referidas deberán cumplir para su designación con los requisitos que se prevén en esta Ley, correspondientes a los Auditores Especiales.
 
-Cuando el servidor público sufra una incapacidad física o mental, temporal o permanente que le impida desempeñar su trabajo, generada por causas del servicio o a consecuencia de él, será acreedor a una pensión del setenta y cinco por ciento del sueldo base de cotización.
+###### ARTÍCULO 61.
 
-Al servidor público que se inhabilite física o mental, temporal o permanente que le impida desempeñar su trabajo por causas ajenas al desempeño de su cargo o empleo, si tiene por lo menos siete años de servicio e igual tiempo de contribuir al fondo, se calculará aplicando la tabla porcentual señalada en el artículo 57 para determinar el pago de la pensión por invalidez, considerando el sueldo base de cotización, en el caso de los trabajadores que al momento de la inhabilitación tengan de siete años a quince años de servicio e igual tiempo de contribuir al fondo, el monto del pago será del cincuenta por ciento del sueldo base de cotización.
+Los órganos internos de control deberán informar a la Auditoría Superior del Estado, dentro de los treinta días hábiles siguientes de recibido el informe de presunta responsabilidad administrativa, el número de expediente con el que se inició la investigación o procedimiento respectivo.
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+Asimismo, los órganos internos de control deberán informar a la Auditoría Superior del Estado de la resolución definitiva que se determine o recaiga a sus promociones, dentro de los diez días hábiles posteriores a que se emita dicha resolución.
 
-###### ARTICULO 59 Bis.
+###### ARTÍCULO 62.
 
-Ningún pago mensual por jubilación será inferior al salario mínimo general vigente en la capital del Estado. Tanto las jubilaciones como las pensiones se verán incrementadas en la fecha y proporción en que aumente el salario mínimo general vigente en la misma plaza.
-
-###### ARTICULO 60.
-
-No se concederá la pensión por invalidez:
-
-I.- Cuando el estado de inhabilitación sea consecuencia de un acto intencional del servidor público u originado por su participación en la comisión de un delito;
-
-II.- Cuando el estado de invalidez sea anterior al nombramiento del servidor público; y,
-
-III.- Cuando el estado de invalidez se produzca a consecuencia del abuso de bebidas alcohólicas, barbitúricos, estupefacientes o productos que causen efectos similares.
-
-###### ARTICULO 61.
-
-Los servidores públicos que soliciten pensión por invalidez, y los pensionados por la misma causa, están obligados a someterse a los reconocimientos y tratamientos médicos que la Dirección les prescriba y proporcione; caso de no hacerlo, no se les tramitará su solicitud o se les suspenderá el goce de la pensión.
-
-###### ARTICULO 62.
-
-La pensión por invalidez será revocada cuando el servidor público recupere su capacidad para el trabajo; en tal caso el Gobierno del Estado, organismo público descentralizado o municipio al que hubiere prestado sus servicios, tendrá la obligación de restituirlo en su empleo si de nuevo es apto para el mismo o, en caso contrario, asignarle un trabajo que pueda desempeñar, debiendo ser cuando menos de un sueldo y categoría equivalente a los que disfrutaba al acontecer la invalidez. Si el servidor público no aceptare reingresar al servicio en tales condiciones o bien estuviera desempeñando cualquier trabajo remunerado, le será revocada la pensión.
-
-Si el servidor público no fuere restituido a su empleo o no se le asignare otro en los términos del párrafo anterior por causa imputable al Gobierno del Estado, organismo público descentralizado o municipio al que hubiera prestado sus servicios, seguirá percibiendo la pensión, pero ésta será a cargo de la institución correspondiente.
-
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
-
-###### ARTICULO 62 Bis.
-
-Cuando el servidor público, jubilado o pensionado falleciere, los familiares derechohabientes gozarán de una pensión en los términos del Reglamento que para el efecto expida la Junta Directiva. Lo anterior será procedente sólo en los casos en que tal prestación no esté incluida en la seguridad social que se otorga a través de la institución respectiva con que hubieren convenido las entidades públicas o la Dirección.
+La Auditoría Superior del Estado, en los términos de la Ley del Sistema Anticorrupción del Estado, incluirá en la plataforma digital establecida en dicha ley, la información relativa a los servidores públicos y particulares sancionados por resolución definitiva firme, por la comisión de faltas administrativas graves o actos vinculados a éstas a que hace referencia el presente Capítulo.
 
 ### CAPÍTULO II. RECURSO DE RECONSIDERACIÓN
 
 #### SECCIÓN PRIMERA
 
-###### ARTICULO 63.
+###### ARTÍCULO 63.
 
-Los servidores públicos contribuyentes al fondo, en el caso de que sean jubilados o pensionados, no tendrán derecho a la devolución de los descuentos con que hayan contribuido al mismo.
+La tramitación del recurso de reconsideración, en contra de las sanciones impuestas por la Auditoría Superior del Estado, se sujetará a las disposiciones siguientes:
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1983)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-La misma norma será aplicada en los casos de servidores públicos jubilados o pensionados por el H. Congreso del Estado.
+I. Se interpondrá mediante escrito ante la Auditoría Superior del Estado, dentro de los quince días hábiles siguientes contados a partir de aquél en que surta efectos la notificación de la sanción, el cual deberá contener:
 
-###### ARTICULO 64.
+a) La mención de la autoridad Administrativa que impuso la o las sanciones.
 
-El derecho a jubilación y a pensión es imprescriptible, siempre que se, cumpla con lo dispuesto por esta Ley. Las prestaciones económicas a favor o en contra de la Dirección prescribirán los términos y formas establecidas en la Ley Civil vigente en el Estado.
+b) El nombre y firma autógrafa del recurrente.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+c) El domicilio que señala para oír y recibir notificaciones dentro de la circunscripción territorial del municipio de San Luis Potosí. En caso de no señalar domicilio en los términos prescritos, todas las notificaciones, aún las de carácter personal, se realizarán por estrados.
 
-###### ARTICULO 65.
+d) La sanción que se recurre y la fecha en que se le notificó ésta o, en su defecto, la fecha en que haya tenido conocimiento de la misma.
 
-Es procedente la obtención de una jubilación o pensión otorgada por la Dirección de Pensiones Civiles del Estado, con la percepción de cualquiera otra concedida en su beneficio por un régimen distinto de seguridad social. Es improcedente la percepción de una pensión otorgada por la Dirección de Pensiones Civiles del Estado, con el desempeño de cualquier cargo, empleo o comisión remunerado por las entidades sujetas al régimen de esta ley.
+e) Los agravios que a juicio de la entidad fiscalizada y, en su caso, del servidor público, o del particular, persona física o moral, le cause la sanción impuesta.
 
-En caso de contravención quedará suspendida la jubilación o pensión mientras el servidor público se encuentre percibiendo alguna otra, o desempeñando cualquier empleo, cargo o comisión del carácter antes expresado, a reservar (sic) de gozar nuevamente de dicha prestación al desaparecer la incompatibilidad.
+f) Copias del documento que contenga la sanción impuesta, así como de la constancia de notificación.
 
-El infractor estará obligado a reintegrar las cantidades percibidas indebidamente en el plazo que le será fijado por la Junta Directiva, pero nunca será menor al tiempo en que las hubiere recibido. Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el interesado podrá volver a disfrutar de la pensión otorgada. Si no hiciere el reintegro en los términos de este artículo perderá todo el derecho sobre la pensión.
+g) Las pruebas que se estimen pertinentes; debiendo señalar aquellas que la autoridad deba requerir a un tercero, cuando el recurrente acredite que habiéndolas solicitado en tiempo y forma, no se le hayan expedido sin causa justificada. Las pruebas ofrecidas deberán guardar relación directa con los hechos que se controvierten. Las pruebas supervenientes podrán presentarse siempre que no se haya emitido la resolución del recurso;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+II. Cuando no se cumpla con alguno de los requisitos establecidos en la fracción anterior de este artículo, la Auditoría Superior del Estado prevendrá por una sola vez al inconforme para que, en un plazo de cinco días hábiles, subsane la irregularidad en que hubiere incurrido en su presentación.
+
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO, P.O. 12 DE NOVIEMBRE DE 2019, VÉASE LA LITERALIDAD DE LA PUBLICACIÓN OFICIAL]</small>
+
+Una vez desahogada la prevención, la Auditoría Superior del Estado, en un plazo que no excederá de quince días hábiles, acordará sobre la admisión o el desechamiento del recurso. Será procedente el desechamiento cuando: se presente fuera del plazo señalado; el escrito de impugnación no se encuentre firmado por el recurrente; no acompañe cualquiera de los documentos a que se refiere la fracción I de este artículo; los actos impugnados no afecten los intereses jurídicos del promovente; no se exprese agravio alguno; o si se encuentra en trámite ante el Tribunal algún recurso o defensa legal o cualquier otro medio de defensa interpuesto por el promovente, en contra de la sanción recurrida;
+
+III. La Auditoría Superior del Estado al acordar sobre la admisión de las pruebas documentales y supervenientes ofrecidas, desechará de plano las que no fueren ofrecidas conforme a derecho y las que sean contrarias a la moral o al derecho, y
+
+IV. Desahogadas las pruebas, si las hubiere, la Auditoría Superior del Estado examinará todos y cada uno de los agravios hechos valer por el recurrente y emitirá resolución dentro de los sesenta días hábiles siguientes, a partir de que declare cerrada la instrucción, notificando dicha resolución al recurrente dentro de los veinte días hábiles siguientes a su emisión.
+
+El recurrente podrá desistirse expresamente del recurso antes de que se emita la resolución respectiva, en este caso, la Auditoría Superior del Estado lo sobreseerá sin mayor trámite.
+
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL SEGUNDO PÁRRAFO DE LA FRACCIÓN DE ESTE ARTÍCULO, P.O. 12 DE NOVIEMBRE DE 2019, VÉASE LA LITERALIDAD DE LA PUBLICACIÓN OFICIAL]</small>
+
+Una vez desahogada la prevención, la Auditoría Superior del Estado, en un plazo que no excederá de quince días hábiles, acordará sobre la admisión o el desechamiento del recurso. En este último caso, cuando se ubique en los siguientes supuestos: se presente fuera del plazo señalado; el escrito de impugnación no se encuentre firmado por el recurrente; no acompañe cualquiera de los documentos a que se refiere la fracción anterior; los actos impugnados no afecten los intereses jurídicos del promovente; no se exprese agravio alguno; o si se encuentra en trámite ante el Tribunal algún recurso o defensa legal o cualquier otro medio de defensa interpuesto por el promovente, en contra de la sanción recurrida.
+
+###### ARTÍCULO 64.
+
+La resolución que ponga fin al recurso tendrá por efecto confirmar, modificar o revocar la sanción impugnada.
+
+###### ARTÍCULO 65.
+
+La interposición del recurso suspenderá la ejecución de la multa recurrida, siempre y cuando el recurrente garantice en cualesquiera de las formas establecidas por el Código Fiscal del Estado el pago de la multa.
 
 ### CAPÍTULO III. PRESCRIPCIÓN DE RESPONSABILIDADES
 
-###### ARTICULO 66.
+###### ARTÍCULO 66.
 
-El servicio de protección médica y social se prestará en los términos de los convenios celebrados y que suscriban las entidades públicas o la Dirección de Pensiones con el Instituto Mexicano del Seguro Social o Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, estableciendo la obligatoriedad de la Dirección de Pensiones para proporcionar este servicio.
+La acción para fincar responsabilidades e imponer las sanciones por faltas administrativas graves prescribirá en siete años.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
 
-###### ARTICULO 67.
+En todos los casos, la prescripción a que alude este precepto se interrumpirá en los términos establecidos en la Ley Responsabilidades.
 
-Los servidores públicos gozarán de un seguro de vida, cuyo fondo se integrará con las aportaciones de éstos y de las entidades públicas, el que se regirá conforme al reglamento que apruebe la Junta Directiva.
+###### ARTÍCULO 67.
 
-Para los jubilados y pensionados se constituirá un fondo el cual se integrará con las aportaciones voluntarias de éstos y de la Dirección de Pensiones Civiles del Estado, para gozar de un seguro de vida, el que se regirá conforme al reglamento que apruebe la Junta Directiva.
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+Las responsabilidades distintas a las mencionadas en el artículo anterior, que resulten por actos u omisiones, prescribirán en la forma y tiempo que fijen las leyes aplicables.
 
 ## TÍTULO QUINTO. DE LAS FUNCIONES DEL CONGRESO DEL ESTADO EN LA FISCALIZACIÓN DE LA CUENTA PÚBLICA
 
 ### CAPÍTULO ÚNICO. COMISIÓN DE VIGILANCIA DEL CONGRESO DEL ESTADO
 
-###### ARTICULO 68.
+###### ARTÍCULO 68.
 
-Cuando fallezca un servidor público, pensionista o jubilado, la Dirección de Pensiones entregará a sus deudos o a quien se hubiere hecho cargo de la inhumación el importe de cuatro meses de sueldo o pensión que venía devengando, por concepto de ayuda para gastos de funeral, sin más trámites que la presentación del certificado de defunción. Si no tuviere parientes o quien se encarguen de la inhumación, lo hará el Sindicato respectivo o la Dirección, en su caso.
+Para los efectos de lo dispuesto en el Artículo 57 fracción XII de la Constitución Política del Estado, y la Ley Orgánica del Congreso del Estado, éste contará con una Comisión de Vigilancia que tendrá por objeto coordinar las relaciones entre éste y la Auditoría Superior del Estado, evaluar el desempeño de ésta última, constituir el enlace que permita garantizar la debida coordinación entre ambos órganos y solicitarle que le informe sobre la evolución de sus trabajos de fiscalización.
 
-Esta prestación será cubierta íntegra y oportunamente a la Dirección por las entidades públicas correspondientes.
+###### ARTÍCULO 69.
 
-###### ARTICULO 69.
+Son atribuciones de la Comisión:
 
-Cuando fallezca un servidor público en servicio sus beneficiarios tendrán derecho, por una sola vez, a una cuota de ayuda que fijará la Junta Directiva de acuerdo a las posibilidades económicas de la Dirección de Pensiones, tomando en consideración el tiempo que el contribuyente aportó al fondo.
+I. Recibir del Congreso o, en su caso, de la Diputación Permanente, las cuentas públicas y los informes trimestrales, y turnarlas a la Auditoría Superior del Estado;
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+II. Ser el conducto de comunicación entre el Congreso del Estado y la Auditoría Superior del Estado;
 
-###### ARTICULO 70.
+III. Recibir los informes que le presente la Auditoría Superior del Estado, y remitirlos junto con sus respectivos dictámenes a la Directiva, exclusivamente para los efectos que previenen los artículos 43,44 y 45 de esta Ley;
 
-Al servidor público que sin tener derecho a jubilación o pensión se separe definitivamente del servicio se le entregará una indemnización equivalente al monto total de las aportaciones personales con que hubiere contribuido al fondo.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2020)</small>
 
-A la muerte del servidor público, sus beneficiarios o a quien éste designe tendrán derecho a la entrega de las cantidades mencionadas, en los términos de este precepto o conforme al reglamento que apruebe la junta directiva.
+IV. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Auditoría, así como auditar por sí, con el auxilio de la Unidad, o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
+
+V. Citar al Titular de la Auditoría Superior del Estado para conocer en lo específico de los informes presentados;
+
+VI. Vigilar que el funcionamiento de la Auditoría Superior del Estado y la conducta de sus servidores públicos se apeguen a lo dispuesto por esta Ley y demás disposiciones aplicables;
+
+VII. Conocer y opinar el proyecto de presupuesto anual que presente el Auditor Superior del Estado, y remitirlo a la Directiva del Congreso del Estado para su inclusión en el Presupuesto de Egresos del Estado; y vigilar su correcto ejercicio;
+
+VIII. Recibir, dictaminar y someter a consideración del Congreso, los informes del ejercicio presupuestal y administrativo de la Auditoría Superior del Estado, para que sean aprobados en su caso;
+
+IX. Vigilar el cumplimiento del programa anual de actividades que para el debido cumplimiento de sus funciones, elabore la Auditoría Superior del Estado, así como sus modificaciones, y evaluar su cumplimiento;
+
+X. Evaluar si la Auditoría Superior del Estado cumple con las funciones que conforme a la Constitución Política del Estado y esta Ley le corresponden; y proveer lo necesario para garantizar su autonomía administrativa, técnica y de gestión. La evaluación del desempeño tendrá por objeto conocer si la Auditoría Superior del Estado cumple con las atribuciones que conforme a la Constitución Política del Estado Libre y Soberano de San Luis Potosí y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los entes públicos, en los resultados de los programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos que ejerzan. De dicha evaluación podrá hacer recomendaciones para la modificación de los lineamientos a que se refiere el artículo 8º de esta Ley;
+
+XI. Informar al Congreso en forma trimestral, y en sus recesos a la Diputación Permanente, sobre el avance de las actividades de vigilancia que le competen;
+
+XII. Contar con los servicios de apoyo técnico o asesoría que apruebe la Junta de Coordinación Política;
+
+XIII. Presentar al Congreso del Estado la propuesta de los candidatos a ocupar el cargo de Titular de la Auditoría Superior del Estado, así como la solicitud de su remoción para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
+
+XIV. Conocer y aplicar en lo conducente el Reglamento Interior de la Auditoría Superior del Estado;
+
+XV. Analizar la información, en materia de fiscalización superior del estado, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos de la Auditoría Superior del Estado vinculados con los resultados de la fiscalización;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE MARZO DE 2020)</small>
+
+XVI. Invitar a la sociedad civil organizada, así como a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, a que participen como observadores o testigos sociales en las sesiones ordinarias de la Comisión, y en la realización de ejercicios de contraloría social en los que se articule a la población con las entidades fiscalizadas;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2020)</small>
+
+XVII. Realizar las acciones conducentes para la publicación de las observaciones realizadas por la Auditoría Superior del Estado a los entes auditables a que se refiere el artículo 37 de esta Ley, en la página institucional de internet del Congreso del Estado, y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2020)</small>
+
+XVIII. Solicitar a la Auditoría Superior del Estado, la práctica de auditorías e investigaciones de obras, programas y acciones de los entes auditables, en virtud de la existencia de denuncias ciudadanas, para los efectos a que se refiere el artículo 97 de esta Ley, y
+
+XIX. Las demás que establezca esta Ley y demás disposiciones legales aplicables, así como la normatividad interior del Congreso.
+
+###### ARTÍCULO 70.
+
+La Comisión presentará directamente a la Auditoría Superior del Estado un informe que contenga las observaciones y las recomendaciones que se deriven del ejercicio de las atribuciones que esta Ley le confiere en materia de evaluación de su desempeño a más tardar el último día hábil del mes de enero del año siguiente en que presente el informe general. La Auditoría Superior del Estado dará cuenta de su atención al presentar el informe General del ejercicio siguiente.
 
 ## TÍTULO SEXTO. ORGANIZACIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO
 
 ### CAPÍTULO ÚNICO. INTEGRACIÓN Y ORGANIZACIÓN
 
-###### ARTICULO 71.
+###### ARTÍCULO 71.
 
-Sólo podrán afectarse las percepciones a que se refiere el artículo anterior, en los siguientes casos:
+Al frente de la Auditoría Superior del Estado estará el Auditor Superior del Estado, designado conforme a lo previsto por el inciso III párrafo segundo del artículo 54 de la Constitución Política del Estado De San Luis Potosí, por el voto de las dos terceras partes de los miembros presentes del Congreso. Para ser nombrado como tal se requiere cumplir con los requisitos que establece la Constitución Política del Estado y además:
 
-I.- Si el servidor público tuviere algún adeudo con la Dirección o responsabilidades con el Gobierno del Estado, organismos públicos descentralizados o municipios; y,
+I. Ser de nacionalidad mexicana y en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Cuando el servidor público se le impute la comisión de algún delito con motivo del desempeño de su cargo que entrañe responsabilidad económica con el Gobierno del Estado, organismos públicos descentralizados o municipios. En este caso se retendrá el total de la suma que corresponda, hasta que los tribunales dicten el fallo respectivo.
+II. Tener cuando menos treinta y cinco años el día de su nombramiento, y no más de setenta y tres años de edad;
 
-###### ARTICULO 72.
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión. Sin perjuicio de lo anterior, si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama, inhabilitará para el cargo cualquiera que haya sido la pena;
 
-En los establecimientos comerciales de la Dirección de Pensiones se otorgarán descuentos especiales a los servidores públicos, los cuales no serán menores al quince por ciento de los precios de venta ordinaria.
+IV. Haber residido en el Estado durante los dos años anteriores al día de la designación;
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+V. No haber ocupado un cargo de elección popular, no haber sido titular de dependencias o entidades de la administración pública federal o estatal ni de sus organismos descentralizados, tesorero del Estado o su equivalente, tesorero municipal, delegado municipal, consejero de la judicatura o magistrado, titular o en su caso comisionado de algún órgano constitucionalmente autónomo, ni dirigente de un partido político, y en general no haber dispuesto de recursos públicos, en el año inmediato anterior a la propia designación;
 
-###### ARTICULO 73.
+VI. Contar al momento de su designación, con experiencia plenamente comprobada de al menos cinco años en actividades o funciones relacionadas con el control y fiscalización; política presupuestaria; evaluación del gasto público, del desempeño y de políticas públicas; administración financiera, o manejo de recursos y de responsabilidades;
 
-Los servidores públicos que dejen de cumplir con las obligaciones que les impone esta ley, se harán acreedores a las sanciones establecidas en la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios.
+VII. Poseer al día del nombramiento, título de antigüedad mínima de diez años y cédula profesional de licenciado en contaduría pública, en derecho o abogado, en administración, administración pública o en economía, o cualquiera otra profesión relacionada con las actividades de fiscalización expedidos por autoridad o institución legalmente facultada para ello, y
 
-T R A N S I T O R I O S :
+VIII. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado.
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO 72.
 
-Esta ley entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
+El Auditor Superior del Estado será designado por el voto de cuando menos las dos terceras partes de los miembros presentes en la sesión correspondiente del Congreso del Estado.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO 73.
 
-Se abroga la Ley de Pensiones Civiles para el Estado de Michoacán, aprobada en Decreto número 58 del 30 de diciembre de 1969, promulgada el día 7 de enero de 1970, publicada en el Periódico Oficial número 22 Segunda Sección, del día 15 del mismo mes y año.
+La designación del Titular de la Auditoría Superior del Estado se sujetará al procedimiento siguiente:
 
-###### ARTICULO TERCERO.
+I. La comisión formulará la convocatoria de selección y nombramiento del Auditor Superior del Estado, la cual deberá ser publicada en el Periódico Oficial del Estado, en uno de los diarios de mayor circulación en la Entidad, y en la página electrónica del Congreso del Estado, a efecto de recibir, durante un periodo de quince días naturales contados a partir de la fecha de publicación de la convocatoria, las propuestas o solicitudes para ocupar el puesto de Titular de la Auditoría Superior del Estado;
 
-Dentro de un plazo de quince días, contados a partir de la fecha de vigencia de esta Ley, se integrará la Junta Directiva de Pensiones, en la forma y con los miembros a que se refieren los artículos 6° y 8° de este Ordenamiento; entretanto, continuará en ejercicio la Junta Directiva establecida por la Ley que se abroga, la que hará entrega del patrimonio, previa auditoría, a la Dirección de Pensiones y mediante informe pormenorizado, en el plazo que al principio se indica.
+II. Concluido el plazo anterior, dentro de los cinco días naturales siguientes, la comisión procederá a la revisión y análisis de las propuestas y solicitudes, para determinar cuáles de éstas cumplen con los requisitos que señale la convocatoria;
 
-###### ARTICULO CUARTO.
+III. Agotado el plazo señalado en la fracción anterior, dentro de los diez días naturales siguientes, la Comisión entrevistará por separado a los aspirantes que cumplan con los requisitos y dentro de los cinco días naturales siguientes, a los candidatos que, a su juicio, considere idóneos para la conformación de una terna;
 
-Las aportaciones del Estado y de los trabajadores a su servicio, destinadas a incrementar el patrimonio de la Dirección de Pensiones a que se refiere el artículo 22 de la presente Ley, se continuarán cubriendo en la forma ordinaria, y la de los municipios y organismos descentralizados, así como las de sus trabajadores, desde la fecha en que éstos sean incorporados al sistema, a excepción de los empleados de la Dirección de Pensiones que se consideran trabajadores al servicio del Estado para los efectos de este Ordenamiento.
+IV. Conformada la terna, en un plazo que no deberá exceder de tres días naturales, la Comisión formulará su dictamen, a fin de proponer al Pleno los tres candidatos, para que éste proceda, en los términos del artículo anterior, a la designación del Titular de la Auditoría Superior del Estado, y
 
-###### ARTICULO QUINTO.
-
-Todos los derechos y obligaciones de los trabajadores al servicio del Estado, incluyendo a los de la Dirección de Pensiones, derivados de la aplicación de la ley que se abroga, se reconocen y quedarán a favor y a cargo de la nueva Dirección de Pensiones.
-
-###### ARTICULO SEXTO.
-
-Los deudores de la Dirección de Pensiones por operaciones de venta de casas, préstamos hipotecarios o por otros conceptos, deberán sujetarse a las disposiciones de esta Ley, con los beneficios y obligaciones que en la misma se establecen.
-
-###### ARTICULO SEPTIMO.
-
-Las jubilaciones y pensiones concedidas con anterioridad, con cargo a la Dirección de Pensiones, seguirán cubriéndose por ésta en la forma en que fueron otorgadas.
-
-###### ARTICULO OCTAVO.
-
-Las jubilaciones y pensiones que se encuentren en trámite al tiempo en que entre en vigor el presente Ordenamiento se resolverán de conformidad con el mismo.
-
-###### ARTICULO NOVENO.
-
-El gobierno del Estado deberá remitir a la Dirección de Pensiones el Fondo que se encuentra constituido para el pago del seguro de vida para los servidores públicos, y éstos y las entidades públicas respectivas deberán seguir contribuyendo para ese efecto en la misma forma en que lo vienen realizando, en tanto se aprueba el reglamento requerido; asimismo, enviará las sumas necesarias para el pago de los gastos de funerales de los servidores públicos.
-
-El Ejecutivo del Estado dispondrá se publique y observe.
-
-PALACIO DEL PODER LEGISLATIVO.- Morelia, Michoacán de Ocampo, a 6 de mayo de 1980.
-
-DIPUTADO PRESIDENTE
-
-ING. CUAUHTEMOC PEDRAZA RENDON.
-
-Firmado.
-
-DIPUTADO SECRETARIO
-
-JOSE TARIACURI CANO SORIA.
-
-Firmado.
-
-DIPUTADO SECRETARIO
-
-TOMAS PEREZ LUNA.
-
-Firmado.
-
-Por tanto, mando se publique y observe.
-
-PALACIO DEL PODER EJECUTIVO.- Morelia, Michoacán, 7 de mayo de 1980
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-Lic. Carlos Torres Manzo.
-
-Firmado.
-
-EL SECRETARIO GENERAL DE GOBIERNO.
-
-Lic. Ausencio Chávez Hernández.
-
-Firmado.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 31 DE ENERO DE 1983.
-
-UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 15 DE SEPTIEMBRE DE 1986.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 21 DE NOVIEMBRE DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
-
-###### ARTÍCULO SEGUNDO.
-
-En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
-
-> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 25 DE AGOSTO DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. Las pensiones otorgadas con anterioridad a las presentes reformas y adiciones, seguirán en las condiciones y circunstancias en que fueran aprobadas salvo el caso previsto en el artículo 56 de esta Ley.
-
-TERCERO. Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente decreto, cotizan a la Dirección de Pensiones Civiles del Estado, se establece como el descuento mínimo obligatorio que señala el artículo 22 de la ley de Pensiones Civiles para el Estado, los siguientes:
-
-TRABAJADOR PATRÓN TOTAL
-
-Durante el año 2016
-
-el descuento será de: 6.50% 6.50% 13.00%
-
-Durante el año 2017
-
-el descuento será de: 7.50% 7.50% 15.00%
-
-Durante el año 2018
-
-el descuento será de: 8.50% 8.50% 17.00%
-
-Durante el año 2019
-
-el descuento será de: 9.50% 9.50% 19.00%
-
-Durante el año 2020
-
-el descuento será de: 11.00% 11.00% 22.00%
-
-Durante el año 2021
-
-el descuento será de: 11.00% 13.00% 24.00%
-
-CUARTO. Los servidores públicos que desde antes de la entrada en vigor del presente decreto hubieran cumplido en términos de ley los supuestos para el disfrute de cualquiera de las pensiones bajo el amparo de las anteriores condiciones, es decir que tienen derechos adquiridos, recibirán la jubilación o pensión correspondiente bajo tales condiciones.
-
-Para los nuevos trabajadores que se incorporen al régimen de pensiones, el requisito para jubilarse, será de treinta años de servicio y sesenta años de edad.
-
-QUINTO. Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente decreto cotizan a la Dirección de Pensiones Civiles del Estado, el derecho a la jubilación se dará bajo el amparo de las anteriores condiciones, entendiéndose que tienen un derecho adquirido, salvo lo dispuesto en el segundo párrafo del artículo 54 de la presente Ley, y el Reglamento Interior de la Dirección de Pensiones Civiles del Estado.
-
-Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente decreto cotizan a la Dirección de Pensiones Civiles del Estado pero les faltan algunos años de servicio para alcanzar la jubilación, el pago de la misma se dará bajo el amparo de las anteriores condiciones, entendiéndose que tienen un derecho adquirido, salvo lo dispuesto en el segundo párrafo del artículo 54 de la presente Ley, y el Reglamento Interior de la Dirección de Pensiones Civiles del Estado.
-
-SEXTO. Para el caso de los servidores públicos que actualmente cotizan a la Dirección de Pensiones Civiles del Estado antes de la entrada en vigor de las presentes modificaciones de Ley, el derecho a la pensión por vejez será acorde a lo establecido y al amparo de las anteriores condiciones, es decir contar con un mínimo de sesenta años de edad, en términos del artículo 57 de esta ley.
-
-SÉPTIMO. Las entidades están obligadas a incorporar a todos sus servidores públicos a la Dirección de Pensiones Civiles, en los términos de esta Ley desde el primer día de que empiecen a prestarles sus servicios. Las entidades que a partir de la vigencia de estas modificaciones no incorporen a todos sus servidores públicos serán responsables del pago de las prestaciones a que pudieran tener derecho conforme a esta Ley y que la Dirección de Pensiones Civiles no les pueda proporcionar por no cumplir con los periodos de cotización respectivos.
-
-OCTAVO. Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente decreto se encuentren cotizando a la Dirección de Pensiones Civiles del Estado, conservarán los derechos y prestaciones adquiridos en términos del artículo 55 de la presente ley.
-
-Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente Decreto, tengan tiempo trabajado no cotizado, este no causará obligación alguna a la Dirección de Pensiones Civiles del Estado.
-
-NOVENO. Para los trabajadores pensionados y jubilados de la Secretaría de Educación en el Estado, el servicio de protección médica y social integral, deberá quedar debidamente garantizada en el Convenio que celebre el Gobierno del Estado con el Instituto del Seguro Social o Instituto de Seguridad Social al Servicio de los Trabajadores del Estado.
-
-DÉCIMO. La Junta Directiva de Pensiones tendrá un plazo de 45 días hábiles a la entrada en vigor de las presentes reformas, para homologarlas con su Reglamento.
-
-P.O. 29 DE DICIEMBRE DE 2016.
+V. La persona designada para ocupar el cargo, protestará ante el Pleno del Congreso del Estado.
 
 ###### ARTÍCULO 74.
 
@@ -1167,7 +977,7 @@ Para ejercer los cargos de, Coordinador de Auditorías Especiales; y de Auditor 
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. (DEROGADA, P.O. 10 DE MARZO DE 2020)
+II. (DEROGADA, P.O. 10 DE MARZO DE 2020) (REPUBLICADA, P.O. 7 DE MAYO DE 2020)
 
 III. Cumplir los requisitos señalados en las fracciones III a V y VIII para el Titular de la Auditoría Superior del Estado;
 
@@ -1415,9 +1225,9 @@ Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electr�
 
 T R A N S I T O R I O S
 
-PRIMERO. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+PRIMERO. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
-SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí publicada como Decreto Legislativo No. 602 en el Periódico Oficial del Gobierno del Estado “Plan de San Luis” el 1 de abril de 2017.
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí publicada como Decreto Legislativo No. 602 en el Periódico Oficial del Gobierno del Estado "Plan de San Luis" el 1 de abril de 2017.
 
 TERCERO. Se abroga el Decreto Legislativo No. 639 de fecha 23 de mayo de 2017. En consecuencia, la persona electa mediante dicho Decreto Legislativo, pasa a formar parte de la estructura de la Unidad de Evaluación y Control. Los procedimientos administrativos, así como los asuntos en trámite iniciados por la contraloría interna, con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución final, conforme a las disposiciones aplicables vigentes a su inicio. En un plazo no mayor de treinta días hábiles aquellos que no lo fueren así, la Unidad de Evaluación y Control de la Comisión de Vigilancia, continuará con el trámite de los mismos de conformidad con lo establecido en esta Ley y su reglamento.
 
@@ -1435,7 +1245,7 @@ En lo relativo a la presentación de los informes generales e individuales prese
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
-D A D O en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el siete de junio de dos mil dieciocho.
+D A D O en el salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el siete de junio de dos mil dieciocho.
 
 Por la Directiva. Presidente, Legislador Fernando Chávez Méndez; Segunda Prosecretaria, Legisladora Martha Orta Rodríguez; Segundo Secretario, Legislador Jorge Luis Miranda Torres (rúbricas).
 
@@ -1459,23 +1269,13 @@ Alejandro Leal Tovías
 
 P.O. 22 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 22 PÁRRAFO TERCERO Y 54 PÁRRAFO SEGUNDO DE LA LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACÁN.”]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 978.- SE ADICIONA EL ARTÍCULO SEXTO TRANSITORIO A LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-###### ARTÍCULO PRIMERO.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-###### ARTÍCULO SEGUNDO.
-
-Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
-
-###### ARTÍCULO TERCERO.
-
-Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
-
-###### ARTÍCULO CUARTO.
-
-Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+P.O. 2 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0156.- SE REFORMA EL ARTÍCULO 48 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
@@ -1539,9 +1339,9 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 10 DE MARZO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0616.- SE REFORMA LOS ARTÍCULOS, 37 EN SU PÁRRAFO QUINTO, Y 69 EN SU FRACCIÓN XVI; Y ADICIONA AL ARTÍCULO 69 UNA FRACCIÓN, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0616.- SE REFORMA LOS ARTÍCULOS, 37 EN SU PÁRRAFO QUINTO, Y 69 EN SU FRACCIÓN XVI; Y ADICIONA AL ARTÍCULO 69 UNA FRACCIÓN, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
@@ -1552,3 +1352,19 @@ P.O. 16 DE ABRIL DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0668.- SE DEROGA DEL ARTÍCULO 79 LA FRACCIÓN II, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0704.- SE REFORMA EL ARTÍCULO 16 EN SU FRACCIÓN XXVII Y ADICIONA AL MISMO ARTÍCULO 16 UNA FRACCIÓN, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
