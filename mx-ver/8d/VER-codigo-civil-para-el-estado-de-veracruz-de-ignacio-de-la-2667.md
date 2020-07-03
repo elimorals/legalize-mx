@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2020-06-10"
+last_updated: "2020-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JULIO DE 2020.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -2161,9 +2161,11 @@ ARTICULO 330
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2020)</small>
+
 ARTICULO 331
 
-El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente, y lo hará del conocimiento del Consejo Técnico de Adopciones.
 
 ARTICULO 332 (DEROGADO, G.O. 28 DE JUNIO DE 2012)
 
@@ -2473,9 +2475,9 @@ III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o a
 
 Asimismo, cuando tolere que otras personas atenten o pongan en riesgo la integridad física o moral de los menores;
 
-> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2020)</small>
 
-IV.- Por la exposición que el padre, la madre o ambos hicieren de sus hijos, o porque los dejen abandonados por más de dos meses. En los casos de adopción, tomando en cuenta el interés superior del menor, acreditada su situación de abandonado, el juez resolverá previamente la pérdida de la patria potestad;
+IV.- Por la exposición que el padre, la madre o ambos hicieren de sus hijos, o porque los dejen abandonados por más de dos meses. Dentro del procedimiento judicial de adopción, para el caso de niñas, niños o adolescentes abandonados, el Juez competente resolverá lo relativo a la pérdida de la patria potestad, privilegiando el interés superior de la niñez.
 
 > <small>(ADICIONADA, G.O. 12 DE JUNIO DE 1997)</small>
 
@@ -16730,3 +16732,19 @@ Artículo Segundo. - Se derogan todas las disposiciones que se opongan al presen
 Artículo Tercero. - El Congreso del Estado, dentro de los tres meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 Artículo Cuarto. - Los procesos jurisdiccionales que se hubieren iniciado con motivo de hechos sucedidos con anterioridad a la entrada en vigor del presente Decreto, deberán seguir su trámite con apego a las disposiciones aplicables con antelación.
+
+G.O. 3 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 574 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL, CÓDIGO DE PROCEDIMIENTOS CIVILES, ASÍ COMO DE LA LEY DE ADOPCIONES, TODOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Ejecutivo Estatal, dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto, deberá actualizar el Reglamento de la Ley de Adopciones para el Estado de Veracruz de Ignacio de la Llave considerando en todo momento el interés superior de la niñez.
+
+TERCERO. Los Poderes Legislativo y Judicial, la Comisión Estatal de Derechos Humanos y la Fiscalía General del Estado, conforme a su normatividad interna dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto, designarán a sus representantes titular y suplente ante el Consejo Técnico de Adopciones, en los términos de los artículos 15 y 16 de la Ley de Adopciones del Estado.
+
+CUARTO. Dentro de los noventa días posteriores a la entrada en vigencia del presente Decreto, el Poder Judicial del Estado de Veracruz de Ignacio de la Llave deberá elaborar e implementar los protocolos de actuación para los procedimientos de adopción en el Estado de Veracruz.
+
+QUINTO. El Registro Estatal de Niñas, Niños y Adolescentes Expósitos y Abandonados a que hace alusión el artículo 27 Bis de la Ley de Adopciones del Estado comenzará a funcionar el 1 de enero de 2021, por lo que las autoridades competentes deberán tomar las prevenciones materiales, humanas, financieras, administrativas, logísticas e informáticas necesarias para ello.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
