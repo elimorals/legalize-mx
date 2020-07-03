@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2018-12-14"
+last_updated: "2020-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE DICIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -81,9 +79,11 @@ El período es la serie continuada de sesiones.
 
 El Congreso se erigirá en gran jurado, en caso de juicio político y declaración de procedencia; además, en Colegio Electoral, de conformidad con lo previsto por la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2020)</small>
+
 ###### ARTICULO 7.
 
-El Congreso del Estado tendrá su residencia en la Capital del Estado y sesionará en el recinto oficial o en el que para el efecto habilite provisionalmente.
+El Congreso del Estado tendrá su residencia en la Capital del Estado y sesionará en el recinto oficial o en el que para el efecto habilite provisionalmente, conforme a los casos previstos en esta Ley. De manera excepcional y siempre que las herramientas y tecnologías de la información y las comunicaciones lo permitan podrán celebrarse sesiones virtuales o a distancia.
 
 ###### ARTICULO 8.
 
@@ -205,6 +205,12 @@ I.- Iniciar Leyes y Decretos, proponer reformas y adiciones a la normatividad ju
 
 II.- Asistir con voz y voto a las sesiones del Pleno del Congreso, así como a las de las Comisiones de que forme parte. Podrán asistir con voz, pero sin voto, a las sesiones de las Comisiones de que no formen parte;
 
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2020)</small>
+
+II BIS.- Participar con voz y voto en las sesiones virtuales del Pleno, así como en las reuniones de las Comisiones de que forme parte que se celebren de manera virtual.
+
+Podrán participar con voz, pero sin voto, a las reuniones virtuales de las Comisiones de que no formen parte;
+
 III.- Formar parte de las Comisiones Permanentes y Especiales en los términos de la presente Ley;
 
 IV.- Percibir las dietas, asignaciones y prestaciones conforme al presupuesto de egresos del Congreso del Estado;
@@ -238,6 +244,10 @@ III.- Responder por sus actos y omisiones en los términos de la Ley de Responsa
 IV.- Cumplir con las disposiciones que le señalen el Pleno y la Presidencia del Congreso, de conformidad con la presente Ley;
 
 V.- Asistir puntualmente a las sesiones tanto del Pleno como de las Comisiones que formare parte y permanecer en ellas hasta su conclusión;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2020)</small>
+
+V BIS.- Participar en las sesiones virtuales del Pleno y en las reuniones que bajo esa misma modalidad celebren las Comisiones de que formaren parte;
 
 VI.- Formar parte de las Comisiones Permanentes o Especiales y ocupar los cargos del Congreso para los que fuere designado;
 
@@ -1091,9 +1101,11 @@ XV.- Las demás que se deriven de la Ley y de las disposiciones o Acuerdos que e
 
 Las faltas del Presidente se cubrirán por el Secretario; en su defecto por los miembros restantes y por los suplentes, en el orden de su nombramiento. Las faltas del Secretario se cubrirán por los Vocales de la Diputación Permanente, o sus suplentes, en el orden de su nombramiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2020)</small>
+
 ###### ARTICULO 86.
 
-Las sesiones de la Diputación Permanente podrán ser: públicas, secretas, ordinarias, extraordinarias y solemnes.
+Las sesiones de la Diputación Permanente podrán ser: publicas, secretas, ordinarias, extraordinarias y solemnes. Podrán celebrarse en modalidad virtual o a distancia únicamente en los casos de fuerza mayor, siempre que para ello se empleen herramientas y tecnologías de la información y las comunicaciones en los términos de la presente Ley.
 
 Habrá sesión pública el día martes de cada semana, con excepción de días inhábiles. Las sesiones secretas se realizarán cuando existan asuntos que así lo ameriten a juicio de su Presidente.
 
@@ -1455,6 +1467,8 @@ Al frente del Instituto habrá un Director y contará con las unidades y Departa
 
 #### SECCION PRIMERA. DE LAS SESIONES
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2020)</small>
+
 ### CAPITULO IX. DE LA AUDITORIA SUPERIOR DEL ESTADO
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
@@ -1519,7 +1533,7 @@ Para el caso de la apertura y clausura de sus períodos extraordinarios de sesio
 
 ###### ARTICULO 111.
 
-Las sesiones del Congreso podrán ser: públicas, secretas, ordinarias, extraordinarias y solemnes.
+Las sesiones del Congreso podrán ser: publicas, secretas, ordinarias, extraordinarias y solemnes. Podrán celebrarse en modalidad virtual o a distancia únicamente en los casos de fuerza mayor, siempre que para ello se empleen herramientas y tecnologías de la información y las comunicaciones en los términos de la presente Ley.
 
 ###### ARTICULO 112.
 
@@ -1585,7 +1599,41 @@ Concluido el período de sesiones, los Diputados, con excepción de los que form
 
 Los titulares de las dependencias administrativas del Ejecutivo, asistirán a las sesiones de acuerdo a lo preceptuado por la Constitución, siempre que fueren enviados por el Gobernador o llamados por acuerdo de la Cámara para asistir a alguna discusión para que informen, cuando se discuta una Ley o Decreto o se estudie un negocio concerniente a sus respectivos ramos o actividades. Esta disposición se aplicará asimismo a los representantes del Supremo Tribunal de Justicia del Estado y de los Ayuntamientos.
 
-#### SECCION TERCERA. DE LAS INICIATIVAS
+#### SECCION SEGUNDA BIS. DE LAS SESIONES Y REUNIONES VIRTUALES
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS.- De manera excepcional, podrán celebrarse sesiones públicas del Pleno y de la Diputación Permanente, así como reuniones de las Comisiones Permanentes en una modalidad virtual, empleándose el uso de herramientas y tecnologías de la información y las comunicaciones que posibiliten el desarrollo de las funciones parlamentarias de manera no presencial o a distancia. Procederá la celebración de sesiones y reuniones públicas de manera virtual únicamente en los casos de fuerza mayor.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS A.- Se considerarán causas de fuerza mayor las siguientes:
+
+I. Las contingencias y emergencias sanitarias declaradas por las autoridades competentes;
+
+II. Las contingencias y emergencias que deriven de fenómenos climatológicos, meteorológicos o ambientales que impidan la celebración de sesiones y reuniones al interior del recinto parlamentario; y
+
+III. Las derivadas del acatamiento a medidas y recomendaciones de las autoridades de protección civil.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS B.- La Junta de Coordinación Política de manera conjunta con la Presidencia de la Mesa Directiva podrá acordar la celebración de sesiones públicas virtuales, debiéndose acreditar cualquiera de los supuestos establecidos en el artículo 133 BIS A de esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS C.- Las Presidencias de las Comisiones Permanentes podrán convocar a reuniones públicas virtuales cuando se acredite la actualización de cualquiera de los supuestos a que hace referencia el artículo 133 BIS A, previo acuerdo de la Junta de Coordinación Política y la Mesa Directiva. Sobreviniendo causa de fuerza mayor durante los recesos del Congreso, el acuerdo correspondiente se emitirá por la Diputación Permanente.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS D.- Para la celebración de sesiones y reuniones públicas virtuales serán aplicables las mismas reglas que la presente Ley prevé para aquellas que se realizan con carácter presencial, salvo aquellas que por su naturaleza ameriten una realización física al interior del recinto parlamentario.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS E.- Durante las sesiones y reuniones públicas virtuales únicamente podrán efectuarse votaciones nominales, debiéndose asentar en las actas correspondientes el sentido de los votos emitidos por las diputadas y los diputados. En las sesiones públicas virtuales no podrán agendarse para su votación mediante cedula procedimientos en los que se ejerzan facultades de nombramiento a cargo del Congreso.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2020)</small>
+
+ARTICULO 133 BIS F.- No podrán emplearse tecnologías de la información y las comunicaciones para sustituir mediante participaciones virtuales las asistencias de una parcialidad de Diputadas o Diputados a sesiones y reuniones que deban ser celebradas de manera presencial.
 
 ###### ARTICULO 124.
 
@@ -1629,9 +1677,11 @@ Es facultad del Congreso celebrar dentro o fuera del recinto oficial reuniones d
 
 Al término de la sesión de clausura del período ordinario de sesiones, el Presidente del Congreso nombrará una Comisión de Diputados para que participen al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia la clausura.
 
-#### SECCION CUARTA. DE LOS DICTAMENES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JULIO DE 2020)</small>
 
-#### SECCION QUINTA. DE LAS DISCUSIONES
+#### SECCION TERCERA. DE LAS INICIATIVAS
+
+#### SECCION CUARTA. DE LOS DICTAMENES
 
 ###### ARTICULO 134.
 
@@ -1727,7 +1777,7 @@ Para el caso de las iniciativas que quedaren pendientes de resolución de una Le
 
 Toda iniciativa deberá ser dictaminada por la Comisión o las Comisiones respectivas, dentro de un plazo máximo de seis meses, contados a partir del día siguiente en que fueren turnadas a la Comisión o Comisiones correspondientes, con excepción del caso de iniciativas de Ley que propongan nuevos cuerpos normativos.
 
-#### SECCION SEXTA. DE LAS VOTACIONES
+#### SECCION QUINTA. DE LAS DISCUSIONES
 
 ###### ARTICULO 148.
 
@@ -1807,7 +1857,7 @@ Si debe ser reformado un dictamen, la Comisión encargada de hacerlo, lo present
 
 Las iniciativas dictaminadas y no aprobadas no podrán volver a presentarse en el mismo período ordinario de sesiones.
 
-#### SECCION SEPTIMA. DE LAS OBSERVACIONES DEL EJECUTIVO
+#### SECCION SEXTA. DE LAS VOTACIONES
 
 ###### ARTICULO 163.
 
@@ -1893,9 +1943,11 @@ Escuchada y valorada la moción el Presidente resolverá lo conducente.
 
 Ningún Diputado, cuando se encuentre en tribuna en el uso de la palabra podrá ser interrumpido, salvo por el Presidente para pedir la lectura de un documento que ilustre la discusión, advertirle que se le ha agotado el tiempo, exhortarlo a que se atenga al tema de discusión; llamarlo al orden cuando ofenda al Congreso, a alguno de los Diputados o al público, o para preguntarle si acepta contestar alguna interpelación que le formulare otro Diputado.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2020)</small>
+
 ###### ARTICULO 177.
 
-Los Diputados harán uso de la palabra en el orden que se les conceda, y los que no se encuentren presentes en el salón de sesiones cuando les toque el turno, se entenderá que la renuncian.
+Los Diputados harán uso de la palabra en el orden que se les conceda, y los que no se encuentren presentes en el salón de sesiones (sic) el caso de sesiones presenciales o no se encuentren activos en la herramienta a distancia para el caso de sesiones virtuales, cuando les toque el turno, se entenderá que la renuncian.
 
 ###### ARTICULO 178.
 
@@ -1959,7 +2011,7 @@ Al empezar la discusión, podrán los Representantes del Ejecutivo informar a la
 
 Los Diputados, cuando aporten algún escrito como anexo a su intervención, pueden solicitar que se transcriba en el acta, siempre que entreguen dicho escrito a la Secretaría.
 
-#### SECCION OCTAVA. DE LAS DISPENSAS DE TRÁMITE
+#### SECCION SEPTIMA. DE LAS OBSERVACIONES DEL EJECUTIVO
 
 ###### ARTICULO 192.
 
@@ -1975,9 +2027,17 @@ Las votaciones nominales, serán en los casos siguientes:
 
 I.- Cuando se vote un proyecto de Ley, en lo general o en lo particular;
 
-II.- Cuando se voten iniciativas que el Congreso del Estado dirija al de la Unión; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2020)</small>
 
-III.- Cuando así lo determine el Presidente de la Mesa Directiva o la Asamblea.
+II.- Cuando se voten iniciativas que el Congreso del Estado dirija al de la Unión;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2020)</small>
+
+II BIS.- Cuando se vote en sesiones virtuales; y
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2020)</small>
+
+III.- Cuando así lo determine la Presidencia de la Mesa Directiva o la Asamblea.
 
 ###### ARTICULO 194.
 
@@ -2063,7 +2123,7 @@ Mientras se efectúa la votación, ningún Diputado podrá salir del salón ni e
 
 Todas las votaciones de cualquier clase, se verificarán a mayoría absoluta de votos con los Diputados que se encuentren presentes en el momento de la votación, si forman quórum, a no ser en aquellos casos en que la Constitución o esta Ley señalen otra forma.
 
-#### SECCION NOVENA. DE LA EXPEDICIÓN DE LAS LEYES
+#### SECCION OCTAVA. DE LAS DISPENSAS DE TRÁMITE
 
 ###### ARTICULO 209.
 
@@ -2084,6 +2144,8 @@ Para ratificar un Proyecto de Ley o de Decreto devuelto por el Ejecutivo con obs
 ###### ARTICULO 213.
 
 Se reputará aprobado por el Ejecutivo, todo proyecto de Ley o Decreto que no sea devuelto con observaciones al Congreso dentro de los primeros ocho días útiles contados desde la fecha en que lo reciba, a no ser que corriendo ese término hubiere el Congreso cerrado sus sesiones; en ese caso, la devolución deberá hacerse el primer día útil del nuevo período ordinario de sesiones.
+
+#### SECCION NOVENA. DE LA EXPEDICIÓN DE LAS LEYES
 
 ###### ARTICULO 214.
 
@@ -2514,3 +2576,11 @@ P.O. 7 DE DICIEMBRE DE 2018.
 > <small>(F. DE E., P.O. 14 DE DICIEMBRE DE 2018)</small>
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+P.O. 3 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 469 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
