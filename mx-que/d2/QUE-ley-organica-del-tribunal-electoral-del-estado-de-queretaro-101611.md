@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-tribunal-electoral-del-estado-de-queretaro-101
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-06-29"
-last_updated: "2020-06-01"
+last_updated: "2020-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JULIO DE 2020 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE JULIO DE 2020.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el domingo 29 de junio de 2014.
 
@@ -231,17 +231,17 @@ III. Formular requerimientos para la integración de los medios de impugnación 
 
 IV. Girar exhortos a los juzgados federales o estatales encomendándoles la realización de alguna diligencia en el ámbito de su competencia o efectuar por sí mismos las que deban practicarse fuera de las oficinas del Tribunal;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+(REFORMADA, P.O. 1 DE JUNIO DE 2020) (F. DE E., P.O. 3 DE JULIO DE 2020)
 
-V. Prevenir, remediar y sancionar, en su caso, los actos contrarios a la impartición de justicia, así como la buena fe que debe presidir el desarrollo del proceso, denunciando al Ministerio Público todo hecho que pueda constituir un delito;
+V. Prevenir, remediar y sancionar, en su caso, los actos contrarios a la impartición de justicia, así como la buena fe que debe presidir el desarrollo del proceso, denunciando a la Fiscalía todo hecho que pueda constituir un delito;
 
 VI. Preservar la igualdad de las partes en el proceso;
 
 VII. Guardar reserva sobre las decisiones que se proponga dictar en el proceso;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+(REFORMADA, P.O. 1 DE JUNIO DE 2020) (F. DE E., P.O. 3 DE JULIO DE 2020)
 
-VIII. Ejercer la supervisión y control sobre todos (sic) el personal de su adscripción e instruir, en su caso, los procedimientos de responsabilidad administrativa, imponiendo las sanciones disciplinarias conducentes;
+VIII. Ejercer la supervisión y control sobre todo el personal de su adscripción e instruir, en su caso, los procedimientos de responsabilidad administrativa, imponiendo las sanciones disciplinarias conducentes;
 
 IX. Participar en los programas de capacitación institucionales;
 
@@ -253,29 +253,33 @@ XII. Elaborar los engroses que determine el Pleno, en coordinación con la Secre
 
 XIII. Participar conjuntamente con la Secretaría General, cuando así se requiera, en la elaboración de informes circunstanciados;
 
-> <small>(REFORMADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN XV DE ESTE ARTÍCULO], P.O. 1 DE JUNIO DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE JULIO DE 2020)</small>
 
-XIV. Tramitar los incidentes de recuento de votos, someter el proyecto de resolución a consideración del Pleno y, en su caso, dirigir las diligencias de recuentos de votos ordenados, con el apoyo del personal designado para tal efecto;
+XIV. Proponer al Pleno la denuncia de contradicción de criterios;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+(REFORMADA, P.O. 1 DE JUNIO DE 2020) (F. DE E., P.O. 3 DE JULIO DE 2020)
 
-XV. Tramitar los incidentes de recuento, someter el proyecto de resolución a consideración del Pleno y, en su caso, dirigir las diligencias de recuentos de votos ordenados por éste, con el apoyo del personal designado para tal efecto;
+XV. Tramitar los incidentes de recuento de votos, someter el proyecto de resolución a consideración del Pleno y, en su caso, dirigir las diligencias de recuentos de votos ordenados, con el apoyo del personal designado para tal efecto;
 
 XVI. Firmar, conjuntamente con la Secretaría General, las actas circunstanciadas de las diligencias de recuento de votos;
 
-> <small>(REFORMADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO], P.O. 1 DE JUNIO DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE JULIO DE 2020)</small>
 
-XVII. Decidir sobre la remoción de la persona titular de la Secretaría General de Acuerdos;
+XVII. Proponer al Pleno, por conducto de la Presidencia, los nombramientos o promociones del personal jurídico a su cargo;
 
-XVIII. Decidir sobre la remoción del Secretario General de Acuerdos;
+(REFORMADA, P.O. 1 DE JUNIO DE 2020) (F. DE E., P.O. 3 DE JULIO DE 2020)
+
+XVIII. Decidir sobre la remoción de la persona titular de la Secretaría General de Acuerdos;
 
 XIX. Solicitar la incorporación de asuntos en el Orden del Día de las sesiones del Pleno;
 
-> <small>(REFORMADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN XXI DE ESTE ARTÍCULO], P.O. 1 DE JUNIO DE 2020)</small>
+> <small>(F. DE E., P.O. 3 DE JULIO DE 2020)</small>
 
-XX. Informar sobre las responsabilidades administrativas de las y los servidores públicos del Tribunal de que tengan conocimiento; y
+XX. Solicitar a la Presidencia se emita convocatoria para la celebración de sesiones del Pleno;
 
-XXI. Informar sobre las responsabilidades administrativas de servidores públicos del Tribunal de que tengan conocimiento; y
+(REFORMADA, P.O. 1 DE JUNIO DE 2020) (F. DE E., P.O. 3 DE JULIO DE 2020)
+
+XXI. Informar sobre las responsabilidades administrativas de las y los servidores públicos del Tribunal de que tengan conocimiento; y
 
 XXII. Las demás que las disposiciones constitucionales, legales y reglamentarias en la materia o las que sean necesarias para el correcto funcionamiento del Tribunal.
 
@@ -725,11 +729,13 @@ Las sentencias que emita el Tribunal con motivo de los medios de impugnación in
 
 I. Confirmar la validez del resultado de las actas de cómputo distrital, estatal o municipal;
 
+> <small>(F. DE E., P.O. 3 DE JULIO DE 2020)</small>
+
 II. Declarar la nulidad de la votación emitida en una o varias casillas, cuando se demuestre alguna de las causales aplicables y, en consecuencia, modificar el acta de cómputo distrital, estatal o municipal;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2020)</small>
+(REFORMADA, P.O. 1 DE JUNIO DE 2020) (F. DE E., P.O. 3 DE JULIO DE 2020)
 
-II (SIC). Revocar la constancia de mayoría expedida por los órganos electorales competentes en favor de una fórmula, de una candidatura a la gubernatura, y se ordene se otorgue a las candidaturas o las fórmulas que obtengan el triunfo como resultado de la anulación de la votación emitida en una o varias casillas y, en consecuencia, se modifiquen las actas de cómputo distrital, estatal o municipal respectivas; y
+III. Revocar la constancia de mayoría expedida por los órganos electorales competentes en favor de una fórmula o de candidato a gobernador y ordenar se otorgue a los candidatos o fórmulas que obtengan el triunfo como resultado de la anulación de la votación emitida en una o varias casillas y, en consecuencia, se modifiquen las actas de cómputo distrital, estatal o municipal respectivas; y
 
 IV. Corregir el resultado de los cómputos de que se trate, cuando sean impugnados por error aritmético.
 
