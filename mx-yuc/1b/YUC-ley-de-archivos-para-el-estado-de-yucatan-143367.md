@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-archivos-para-el-estado-de-yucatan-143367"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-24"
-last_updated: "2020-06-24"
+last_updated: "2020-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 180 DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JULIO DE 2020 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ARCHIVOS PARA EL ESTADO DE YUCATÁN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 3 DE JULIO DE 2020.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Yucatán, el miércoles 24 de junio de 2020.
 
@@ -147,9 +147,11 @@ LEY DE ARCHIVOS PARA EL ESTADO DE YUCATÁN.
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(F. DE E., D.O. 3 DE JULIO DE 2020)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia general en todo el Estado de Yucatán, y tiene por objeto establecer los principios y bases generales para la organización y conservación, administración y preservación homogénea de los archivos en posesión de cualquier autoridad, Ayuntamiento, dependencias de la administración pública centralizada y descentralizada estatales y municipales, partidos políticos, fideicomisos, fondos públicos, organismos auto sindicatos, así como de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el Estado y los municipios.
+La presente Ley es de orden público y de observancia general en todo el Estado de Yucatán, y tiene por objeto establecer los principios y bases generales para la organización y conservación, administración y preservación homogénea de los archivos en posesión de cualquier autoridad, Ayuntamiento, dependencias de la administración pública centralizada y descentralizada estatales y municipales, partidos políticos, fideicomisos, fondos públicos, organismos autónomos, sindicatos, así como de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el Estado y los municipios.
 
 Así como determinar las bases para la organización y funcionamiento del Sistema Estatal de Archivos, y fomentar el resguardo, difusión y acceso público de archivos privados de relevancia histórica, social, cultural, científica y técnica del Estado.
 
