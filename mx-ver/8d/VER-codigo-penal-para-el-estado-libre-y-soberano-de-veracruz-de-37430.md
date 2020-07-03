@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2020-06-03"
+last_updated: "2020-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JULIO DE 2020.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1191,6 +1191,10 @@ a) Cuando las lesiones se cometan por un hombre en agravio de una mujer con quie
 
 b) Cuando la víctima presente signos de violencia sexual de cualquier tipo, independientemente de que se cometa o no un delito contra la libertad o seguridad sexuales.
 
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+c) Cuando este delito se cometa en contra de personal de instituciones públicas o de establecimientos particulares de salud; personal de atención de emergencias; personal de seguridad pública; o personal de protección civil y bomberos, con motivo del cumplimiento de sus funciones o por consecuencia del encargo durante una emergencia sanitaria declarada.
+
 ###### Artículo 138.
 
 A quien infiera lesiones que pongan en peligro la vida se le impondrán de tres a diez años de prisión y multa hasta de cien días de salario, sin perjuicio de las sanciones que les correspondan conforme al artículo anterior, con excepción de lo dispuesto en sus fracciones I y II.
@@ -1835,7 +1839,7 @@ En el caso previsto en la fracción IV, además de las sanciones arriba indicada
 
 ### CAPÍTULO V. ACOSO Y HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2020)</small>
 
 ###### Artículo 185 Bis.
 
@@ -1903,27 +1907,25 @@ Este delito se perseguirá por querella.
 
 ###### Artículo 190.
 
-Comete el delito de acoso sexual, quien, con fines lascivos, acose reiteradamente a una persona de cualquier sexo, se le impondrán de seis meses a tres años de prisión y multa de hasta trescientos días de salario.
+Comete el delito de acoso sexual quien, con fines lascivos, acose reiteradamente a una persona de cualquier sexo, y se le impondrán de uno a cuatro años de prisión y multa por el valor diario de hasta trescientas unidades de medida y actualización vigente.
 
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+Cuando la víctima sea menor de dieciocho años de edad o no tenga capacidad para comprender el significado del hecho, se impondrá una pena de dos a ocho años de prisión y multa por el valor diario de hasta quinientas unidades de medida y actualización vigente.
 
-Cuando la víctima sea menor de dieciocho años, se impondrá una pena de uno a siete años de prisión y multa de hasta quinientos días de salario.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2020)</small>
 
 ###### Artículo 190 Bis.
 
-Comete el delito de hostigamiento sexual, quien, con fines lascivos, asedie, a una persona de cualquier sexo, valiéndose de su posición jerárquica o de poder, derivada de sus relaciones laborales, docentes, domésticas, religiosas, o cualquier otra condición que implique subordinación a la víctima, se le impondrán de uno a cinco años de prisión y multa de hasta trescientos días de salario.
+Comete el delito de hostigamiento sexual quien, con fines lascivos, asedie a una persona de cualquier sexo, valiéndose de su posición jerárquica o de poder, derivada de sus relaciones laborales, docentes, domésticas, religiosas, o cualquier otra condición que implique subordinación de la víctima. Al sujeto activo se le impondrán de dos a cinco años de prisión y multa por el valor diario de hasta trescientas unidades de medida y actualización vigente.
 
-Si el acosador fuere servidor público y utilizare los medios y las circunstancias que su encargo le proporcione, será destituido y se le inhabilitará para ocupar otro empleo o comisión públicos, hasta por cinco años.
+Cuando la víctima sea menor de dieciocho años de edad o no tenga capacidad para comprender el significado del hecho, se impondrá una pena de dos a ocho años de prisión y multa por el valor diario de hasta mil unidades de medida y actualización.
 
-Cuando la víctima sea menor de dieciocho años, se impondrá una pena de dos a ocho años de prisión y multa de hasta mil días de salario.
+Si el sujeto activo fuere servidor público y utilizare los medios y las circunstancias que su encargo le proporcione, será destituido y se le inhabilitará para ocupar otro empleo o comisión públicos, hasta por cinco años.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2020)</small>
 
 ###### Artículo 190 Ter.
 
-Los delitos de acoso y hostigamiento sexual se perseguirán por querella.
+Los delitos de acoso sexual y hostigamiento sexual se perseguirán por querella, salvo que la víctima sea menor de dieciocho años de edad o no tenga capacidad para comprender el significado del hecho, en cuyo caso serán perseguibles de oficio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
@@ -2150,6 +2152,10 @@ IV. Niegue o restrinja derechos laborales.
 > <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 V. Niegue, retrase, restrinja o abandone un servicio de salud, sin causa justificada y poniendo en riesgo la vida.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+Cuando las conductas a las que se refiere este artículo sean cometidas en contra de personal médico, de enfermería, traslado de enfermos o cadáveres, intendencia, laboratorio o de cualquier otra índole que labore o preste servicios dentro de instituciones públicas o establecimientos privados de salud; bomberos o en contra de personal de instituciones públicas o privadas de atención de emergencias, con motivo de las actividades que éstos realicen durante una emergencia sanitaria o catástrofe, dentro o fuera de su jornada laboral, se le impondrán de dos a cinco años de prisión, de 50 a 200 días de trabajo a favor de la comunidad y multa de 50 a 500 veces el valor de la Unidad de Medida y Actualización.
 
 Al servidor público que en ejercicio de su función, incurra en alguna de las conductas previstas en este artículo o niegue o retrase a una persona un trámite o servicio al que tenga derecho, además de las sanciones previstas, se le impondrán destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, hasta por el mismo lapso de la prisión impuesta.
 
@@ -2604,6 +2610,10 @@ Si la invasión y ocupación consecuente no se ejecutan con violencia y el o los
 ###### Artículo 226.
 
 A quien, en perjuicio de tercero, por cualquier medio destruya o deteriore una cosa, total o parcialmente ajena o propia, se le impondrán de seis meses a ocho años de prisión y multa hasta de ciento cincuenta días de salario.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+Si el daño cometido en los términos del párrafo anterior se ocasiona, durante emergencias sanitarias o catástrofes, sobre bienes de instituciones públicas o establecimientos privados de salud, laboratorios, consultorios médicos o inmuebles habilitados para operar como hospitales, se impondrán de uno a nueve años de prisión y multa de treinta a doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 Este delito se perseguirá por querella.
 
@@ -3918,6 +3928,12 @@ Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta d�
 ###### Artículo 331.
 
 Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien amenace o agreda a un servidor público en el momento de ejercer sus funciones o con motivo de ellas.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+###### Artículo 331 Bis.
+
+A quien amenace o agreda a personal de las instituciones de seguridad pública, de las fuerzas armadas, de tránsito y vialidad o de protección civil, que se encuentren en el ejercicio de sus funciones durante emergencias sanitarias o catástrofes o con motivo de éstas, se le impondrá pena de uno a cuatro años de prisión y multa de treinta a doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
 
@@ -5247,23 +5263,21 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 107, Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 105, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE INIMPUGNABILIDAD DE LAS ADICIONES O REFORMAS A LA CONSTITUCIÓN FEDERAL”.]
+G.O. 3 DE JULIO DE 2020.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 572 QUE REFORMA LOS ARTÍCULOS 190, 190 BIS Y 190 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ”.]
 
-Segundo.- Los asuntos que se encuentren en trámite deberán resolverse conforme a las disposiciones contenidas en el presente Decreto.
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-D.O.F. 15 DE NOVIEMBRE DE 2024.
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 4o., 21, 41, 73, 116, 122 Y 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE IGUALDAD SUSTANTIVA, PERSPECTIVA DE GÉNERO, DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y ERRADICACIÓN DE LA BRECHA SALARIAL POR RAZONES DE GÉNERO".]
+G.O. 3 DE JULIO DE 2020.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 571 QUE ADICIONA UN INCISO C) AL PÁRRAFO CUARTO DEL ARTÍCULO 137, UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 196, UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 226 Y EL ARTÍCULO 331 BIS AL CÓDIGO PENAL PARA EL ESTADO DE VERACRUZ”.]
 
-Segundo.- El Congreso de la Unión deberá armonizar el marco jurídico correspondiente a la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 90 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-Tercero.- Las entidades federativas deberán armonizar el marco jurídico correspondiente a la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 180 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
-
-D.O.F. 2 DE DICIEMBRE DE 2024.
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 4o. Y 27 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE BIENESTAR".]
 
