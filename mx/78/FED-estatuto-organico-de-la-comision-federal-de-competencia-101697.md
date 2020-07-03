@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-competencia-101697"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-08"
-last_updated: "2019-07-11"
+last_updated: "2020-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-07-07"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JULIO DE 2020.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de julio de 2014.
 
@@ -69,7 +69,9 @@ El presente Estatuto tiene por objeto establecer la estructura orgánica y las b
 
 Además de las definiciones contenidas en la Ley Federal de Competencia Económica, para efectos del presente Estatuto, se entenderá por:
 
-I. Direcciones Generales: Direcciones Generales Operativas, de Coordinación, de Administración y de Asuntos Contenciosos;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+I. Direcciones Generales: Direcciones Generales Operativas, de Coordinación, de Administración, de Asuntos Contenciosos y de Mercados Digitales;
 
 II. Direcciones Generales Operativas: las Direcciones Generales de Investigación, la Oficina de Coordinación y las Direcciones Generales Técnicas;
 
@@ -101,9 +103,29 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 I. Pleno;
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+A. Directores Ejecutivos adscritos a los Comisionados;
+
 II. Presidente;
 
 A. Dirección General de Administración;
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+a. Director Ejecutivo de Recursos Humanos y Gestión de Talento;
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+b. Director Ejecutivo de Presupuesto y Finanzas;
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+c. Director Ejecutivo de Recursos Materiales, Adquisiciones y Servicios, y
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+d. Director Ejecutivo de Tecnologías de la Información y Comunicaciones.
 
 B. Unidad de Planeación, Vinculación y Asuntos Internacionales;
 
@@ -113,13 +135,37 @@ a. Direcciones Generales de Coordinación:
 
 1. De Promoción a la Competencia;
 
-> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
 
-2. De Planeación y Evaluación; y
+1.1 Director Ejecutivo de Análisis Regulatorio y Colaboración con el Sector Público.
+
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+2. De Planeación y Evaluación;
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+2.1 Director Ejecutivo de Planeación y Evaluación.
 
 > <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 3. De Comunicación Social.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+3.1 Director Ejecutivo de Comunicación Social.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+b. Director Ejecutivo de Coordinación; y
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+c. Director Ejecutivo de Asuntos Internacionales.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+C. Director Ejecutivo de Presidencia.
 
 III. Autoridad Investigadora;
 
@@ -127,13 +173,41 @@ A. Direcciones Generales de Investigación:
 
 a. De Inteligencia de Mercados;
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+1. Directores Ejecutivos adscritos a la Dirección General de Inteligencia de Mercados.
+
 b. De Investigaciones de Mercado;
 
-c. De Investigaciones de Prácticas Monopólicas Absolutas; y
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+1. Directores Ejecutivos adscritos a la Dirección General de Investigaciones de Mercado.
+
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+c. De Investigaciones de Prácticas Monopólicas Absolutas;
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+1. Directores Ejecutivos adscritos a la Dirección General de Investigaciones de Prácticas Monopólicas Absolutas.
 
 d. De Mercados Regulados.
 
-B. Oficina de Coordinación.
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+1. Directores Ejecutivos adscritos a la Dirección General de Mercados Regulados.
+
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+B. Oficina de Coordinación;
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+a. Directores Ejecutivos de la Oficina de Coordinación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+C. Directores Ejecutivos adscritos al Titular de la Autoridad Investigadora.
 
 IV. Secretaría Técnica;
 
@@ -141,35 +215,69 @@ A. Direcciones Generales Técnicas:
 
 a. De Asuntos Jurídicos;
 
-b. De Concentraciones; y
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+1. Directores Ejecutivos adscritos a la Dirección General de Asuntos Jurídicos.
+
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+b. De Concentraciones;
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+1. Directores Ejecutivos adscritos a la Dirección General de Concentraciones.
 
 c. De Estudios Económicos.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+1. Directores Ejecutivos adscritos a la Dirección General de Estudios Económicos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+B. Directores Ejecutivos adscritos a la Secretaría Técnica.
+
 V. Dirección General de Asuntos Contenciosos;
 
-> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
 
-VI. Órgano Interno de Control;
+A. Directores Ejecutivos adscritos a la Dirección General de Asuntos Contenciosos.
 
-> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-VII. Unidad de Transparencia;
+VI. Dirección General de Mercados Digitales;
 
-> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+ADICIONADO, D.O.F. 3 DE JULIO DE 2020)
 
-VIII. Comité de Transparencia;
+A. Director Ejecutivo de Mercados Digitales.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-IX. Los Comités Calificadores a que se refiere el artículo 48 BIS de este Estatuto.
+VII. Órgano Interno de Control;
 
-> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-X. Delegaciones en el interior de la República Mexicana, y
+VIII. Unidad de Transparencia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-XI. Los demás órganos y unidades administrativas que determine el Pleno de la Comisión, de acuerdo con el presupuesto autorizado y según la estructura orgánica que para tales efectos sea aprobada.
+IX. Comité de Transparencia;
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+X. Los Comités Calificadores a que se refiere el artículo 48 BIS de este Estatuto.
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XI. Delegaciones en el interior de la República Mexicana, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XII. Los demás órganos y unidades administrativas que determine el Pleno de la Comisión, de acuerdo con el presupuesto autorizado y según la estructura orgánica que para tales efectos sea aprobada.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+El Presidente, los Comisionados, los titulares de la Secretaría Técnica, de la Autoridad Investigadora y de la Unidad de Planeación, Vinculación y Asuntos Internacionales y los Directores Generales serán auxiliados por los Directores Ejecutivos que correspondan en términos de este Estatuto y conforme al Presupuesto asignado para el eficaz desarrollo de sus atribuciones, evitando la duplicidad de funciones.
 
 ### Capítulo I. De la integración y de las atribuciones del Pleno
 
@@ -245,7 +353,9 @@ XXIX. Aprobar la promoción de controversias constitucionales, en términos de l
 
 XXX. Ordenar que se haga del conocimiento del Consejero Jurídico del Ejecutivo Federal, a través de la Dirección General de Asuntos Contenciosos, de actos o normas generales emitidas por un Estado, la Ciudad de México o un Municipio o demarcaciones territoriales que puedan resultar contrarias a lo dispuesto, entre otros, por los artículos 28 y 117, fracciones IV, V, VI y VII de la Constitución Política de los Estados Unidos Mexicanos o que invadan facultades de la Federación;
 
-XXXI. Nombrar y remover de su cargo a los titulares de la Secretaría Técnica, de la Autoridad Investigadora y de la Dirección General de Asuntos Contenciosos;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XXXI. Nombrar y remover de su cargo a los titulares de la Secretaría Técnica, de la Autoridad Investigadora, de la Dirección General de Asuntos Contenciosos y de la Dirección General de Mercados Digitales;
 
 XXXII. Aprobar, a propuesta del Presidente, el proyecto de presupuesto anual y sus modificaciones;
 
@@ -261,7 +371,9 @@ XXXV. Emitir lineamientos en materia de organización de archivos, así como de 
 
 XXXVI. Conocer los informes de las revisiones y auditorías que realice el Titular del Órgano Interno de Control;
 
-XXXVII. Aprobar comités con carácter consultivo o resolutivo, en los que determinará su integración, así como sus reglas de operación y funcionamiento;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XXXVII. Aprobar comités o grupos de trabajo con carácter consultivo o resolutivo, en los que determinará su integración, así como, en su caso, sus reglas de operación y funcionamiento;
 
 > <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
@@ -277,7 +389,9 @@ El Pleno no puede requerir información específica o intervenir respecto de las
 
 Las sesiones del Pleno se realizarán de conformidad con el artículo 18 de la Ley; éstas serán válidas con la asistencia de cuando menos cuatro Comisionados, incluyendo al Presidente. El Secretario Técnico dará fe de las sesiones del Pleno.
 
-Las sesiones del Pleno se celebrarán en el recinto oficial de la Comisión, salvo que exista imposibilidad para ello, en cuyo caso se determinará una sede alterna. El Pleno determinará mediante lineamientos la forma en la que los Comisionados presencien la sesión a través de medios electrónicos, cuando exista imposibilidad para que se encuentren físicamente en la misma.
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+Las sesiones del Pleno se celebrarán en el recinto oficial de la Comisión o a través de medios electrónicos. El Pleno determinará mediante lineamientos la forma en la que los Comisionados presencien la sesión a través de medios electrónicos.
 
 ###### ARTÍCULO 7.
 
@@ -413,6 +527,26 @@ XXXIV. Solicitar a los funcionarios públicos de la Comisión la información y 
 
 XXXV. Las demás atribuciones de las unidades administrativas a él adscritas, así como las que le confieran la Ley, las Disposiciones Regulatorias, este Estatuto y demás disposiciones normativas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 12 BIS.- Corresponde al Director Ejecutivo de Presidencia:
+
+I. Coordinar la agenda del Presidente, programar sus reuniones, comisiones, participaciones, cursos, conferencias, entre otros, así como preparar o revisar los materiales correspondientes para llevar a cabo la promoción y difusión de los beneficios de la competencia y libre concurrencia y de los trabajos de la Comisión;
+
+II. Planear, programar, coordinar y dar seguimiento a las reuniones de trabajo, tanto internas como externas, con los órganos y unidades administrativas de la Comisión u organismos públicos o privados;
+
+III. Auxiliar al Presidente en las actividades administrativas y de logística entre las diferentes áreas de la Comisión a efecto de cumplir con las metas establecidas en el Plan Estratégico, Plan Anual de Trabajo y los Informes Trimestrales de la Comisión;
+
+IV. Representar al Presidente en reuniones, comités y grupos de trabajo;
+
+V. Coordinar las reuniones solicitadas por los agentes económicos con los Comisionados;
+
+VI. Apoyar y coordinar, en auxilio de la Dirección General de Administración, capacitaciones, seminarios y eventos con personal de la Comisión;
+
+VII. Solicitar informes a los organismos y unidades administrativas de la Comisión sobre proyectos o asuntos específicos encomendados por el Presidente, y
+
+VIII. Las demás funciones que le sean encomendadas o delegadas por el Presidente.
+
 ###### ARTÍCULO 13.
 
 El Presidente podrá delegar, mediante acuerdo, sus facultades en los servidores públicos de la Comisión a él adscritos de conformidad con el acuerdo de delegación respectivo.
@@ -439,7 +573,9 @@ V. Proponer al Pleno, cuando así se considere necesario, la emisión de opinion
 
 VI. Solicitar, para el adecuado desempeño de su encargo, la colaboración e información de las unidades administrativas de la Comisión, en los términos de la normativa aplicable;
 
-VII. Nombrar al personal adscrito a su oficina, de acuerdo con la disponibilidad presupuestal y las normas administrativas correspondientes;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+VII. Nombrar y remover al personal adscrito a su oficina y determinar libremente su estructura orgánica, de acuerdo con la disponibilidad presupuestal y las normas administrativas correspondientes;
 
 VIII. Participar en los eventos de difusión, convenciones y congresos en materia de competencia y libre concurrencia cuando sea encomendado para tales efectos por el Presidente, o cuando sea invitado por organizaciones académicas, institucionales y sociales, nacionales o extranjeras;
 
@@ -455,13 +591,37 @@ XIII. Las demás que les confiera la Ley, el presente Estatuto, las Disposicione
 
 Los Comisionados no podrán intervenir en las investigaciones que se encuentren en curso.
 
+ADICIONADO, D.O.F. 3 DE JULIO DE 2020)
+
+ARTÍCULO 14 BIS.- Corresponde a los Directores Ejecutivos adscritos a los Comisionados:
+
+I. Proponer al Comisionado soluciones o estrategias para abordar los temas en los que deba emitir su voto;
+
+II. Analizar las propuestas de creación o modificación de normativa, directrices, guías, lineamientos y criterios técnicos en materia de competencia económica, y presentar al Comisionado la conclusión de dicho análisis;
+
+III. Apoyar al Comisionado en la revisión de las resoluciones o acuerdos de los asuntos de Pleno y donde el Comisionado sea Ponente;
+
+IV. Colaborar en el análisis sobre estudios, trabajos de investigación, opiniones, reportes e informes en materia de libre concurrencia y competencia económica, entre otros y, en su caso, integrar la postura del Comisionado;
+
+V. Solicitar, a petición del Comisionado, la colaboración e información de las unidades administrativas de la Comisión y, en su caso, coadyuvar con dichas unidades en los análisis de los asuntos, así como en propuestas de resolución, con excepción de las investigaciones que se encuentren en curso;
+
+VI. Apoyar al Comisionado en la revisión de los informes, lineamientos y demás documentos en materia de recursos humanos, programas trimestrales y anuales para la aprobación del Pleno;
+
+VII. Organizar el personal técnico a cargo del Comisionado y planificar la distribución de tareas según lo disponga el Comisionado;
+
+VIII. Elaborar los documentos que se requieran para la deliberación del Comisionado;
+
+IX. Supervisar e integrar las respuestas que deban darse en materia de transparencia de la información a cargo del Comisionado, y
+
+X. Las demás que les sean encomendadas por el Comisionado al cual se encuentren adscritos.
+
 ### Capítulo V. De la Autoridad Investigadora y la Secretaría Técnica
 
-> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 15.
 
-La Autoridad Investigadora y la Secretaría Técnica, de acuerdo con lo establecido en el presente Estatuto, serán apoyadas para el ejercicio de sus funciones por las Direcciones Generales Operativas que les correspondan, las cuales se auxiliarán del personal técnico y operativo necesario, de acuerdo con la disponibilidad presupuestal y las normas administrativas correspondientes, para el eficaz desarrollo de sus atribuciones.
+La Autoridad Investigadora y la Secretaría Técnica, de acuerdo con lo establecido en el presente Estatuto, serán apoyadas para el ejercicio de sus funciones por las Direcciones Generales Operativas que les correspondan y se auxiliarán del personal técnico y operativo necesario, de acuerdo con la disponibilidad presupuestal y las normas administrativas correspondientes, para el eficaz desarrollo de sus atribuciones.
 
 #### Sección Primera. De la Autoridad Investigadora
 
@@ -559,9 +719,9 @@ XXXV. Proponer al Pleno proyectos de normas generales, tales como Disposiciones 
 
 XXXVI. Colaborar con la Unidad de Planeación, Vinculación y Asuntos Internacionales en la elaboración de los proyectos de informes trimestrales de actividades de la Comisión, así como en el programa anual de trabajo y los informes especiales que se requieran;
 
-> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-XXXVII. Ejecutar las actividades que establezca el Pleno en materia de comités de seguimiento y proyectos institucionales y cumplir con las metas que se establezcan;
+XXXVII. Dar cumplimiento, en el ámbito de sus atribuciones, a los acuerdos tomados por los comités y grupos de trabajo de seguimiento de proyectos institucionales;
 
 XXXVIII. Contribuir en las evaluaciones y estudios que realice la Comisión;
 
@@ -595,9 +755,49 @@ L. Aplicar y cumplir con la Ley, sus Disposiciones Regulatorias y este Estatuto;
 
 LI. Las demás atribuciones de las unidades administrativas a él adscritas, así como las que señalen la Constitución Política de los Estados Unidos Mexicanos, la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos.
 
-> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
 
-Son indelegables las facultades señaladas en las fracciones I a V, VIII, X, XIV a XVIII, XX, XXII, XXIII, XXVIII, XXIX, XXXI, XXXV, XXXVI y XXXIX a XLVII de este artículo.
+Son indelegables las facultades señaladas en las fracciones I a V, VIII, X, XVI a XVIII, XX, XXII, XXIII, XXVIII, XXIX, XXXI, XXXV, XXXVI y XXXIX a XLVII de este artículo.
+
+ADICIONADO, D.O.F. 3 DE JULIO DE 2020)
+
+ARTÍCULO 17 BIS.- Corresponde a los Directores Ejecutivos adscritos al Titular de la Autoridad Investigadora:
+
+I. Auxiliar en el trámite y sustanciación de los procedimientos a cargo de la Autoridad Investigadora;
+
+II. Proponer la estructura y contenido de los acuerdos, oficios, dictámenes, opiniones, consultas, anteproyectos y cualquier actuación pertinente para el trámite y resolución de los asuntos a cargo de la Autoridad Investigadora;
+
+III. Emitir acuerdos, otorgar prórrogas y formular prevenciones relacionados con la designación o revocación de autorizados y domicilios para oír y recibir notificaciones, con la expedición de copias certificadas, así como para la devolución de documentos, de los asuntos que tramite el titular de la Autoridad Investigadora, para lo cual podrán hacer uso de las medidas de apremio pertinentes;
+
+IV. Determinar la estructura y contenido de los extractos de los acuerdos y resoluciones que vayan a publicarse en listas de la Comisión en los asuntos tramitados por la Autoridad Investigadora;
+
+V. Expedir copias certificadas o realizar cotejos de documentos o información para integrarlos a los expedientes, así como de las constancias que obren en el archivo de la Comisión;
+
+VI. Expedir las copias certificadas respecto de los expedientes correspondientes a los procedimientos o investigaciones que tramite o hubiere tramitado el titular de la Autoridad Investigadora cuando sean requeridas por el Poder Judicial de la Federación;
+
+VII. Colaborar con la Dirección General de Asuntos Contenciosos en la defensa jurídica de los asuntos que les hayan sido asignados, así como de aquellos de los que hubiera conocido;
+
+VIII. Colaborar en el seguimiento, ante las autoridades correspondientes, de la ejecución y cobro de las multas impuestas como medida de apremio por el titular de la Autoridad Investigadora o las Direcciones General de Investigación;
+
+IX. Auxiliar al titular de la Autoridad Investigadora en sus funciones de Comité de Transparencia y supervisar, en términos de las disposiciones aplicables, la correcta gestión en la identificación y clasificación de información en los procedimientos y expedientes a su cargo;
+
+X. Supervisar y coordinar las necesidades financieras, materiales, de recursos humanos e infraestructura y soluciones tecnológicas de la Autoridad Investigadora y las áreas adscritas a esta Unidad;
+
+XI. Supervisar e instruir la preparación e implementación del Plan Anual de Trabajo de la Autoridad Investigadora;
+
+XII. Auxiliar al Titular de la Autoridad Investigadora en el turno, coordinación y seguimiento de los asuntos turnados a Direcciones Generales de Investigación;
+
+XIII. Planear y diseñar periódicamente estudios y análisis que aporten herramientas para la mejora continua de las actuaciones de la Autoridad Investigadora;
+
+XIV. Solicitar al Diario Oficial de la Federación la publicación de extractos o acuerdos, cuando así lo establezca la normativa aplicable;
+
+XV. Fungir como enlace de la Autoridad Investigadora frente a las demás Unidades y áreas de la Comisión;
+
+XVI. Firmar las actuaciones que sean de su competencia en los asuntos que les hayan sido asignados, procurando en todo momento la uniformidad de criterios y la aplicación de la normatividad aplicable;
+
+XVII. Fungir como enlace de la Autoridad Investigadora frente a las autoridades en materia de competencia en otras jurisdicciones en asuntos relacionados con investigaciones, y
+
+XVIII. Las demás atribuciones que le sean encomendadas o delegadas por el titular de la Autoridad Investigadora.
 
 #### Sección Segunda. De la Secretaría Técnica
 
@@ -713,6 +913,10 @@ XXXI. Proponer al Pleno los proyectos de opinión a las que se refiere el artíc
 
 XXXII. Proponer al Pleno proyectos de normas generales, tales como Disposiciones Regulatorias, directrices, guías, lineamientos y criterios técnicos, en las materias que señala la Ley; así como los manuales de organización, de procedimientos y las normas en materia de organización de archivos, de transparencia y acceso a la información pública; así como coordinar y tramitar su consulta pública;
 
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XXXII BIS. Ser la instancia encargada de aplicar lo establecido en el Capítulo I del Título Tercero de la Ley General de Mejora Regulatoria en relación con el Catálogo Nacional de Regulaciones, Trámites y Servicios;
+
 > <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 XXXIII. Identificar, conforme a lo previsto en la Ley, así como clasificar, de conformidad con la normativa aplicable en materia de transparencia y acceso a la información pública, la información y documentos que haya recibido u obtenido en el ejercicio de sus atribuciones;
@@ -739,9 +943,9 @@ XLI. Custodiar el archivo de los expedientes físicos y electrónicos de los doc
 
 XLII. Tener a su cargo un registro de poderes de representantes legales y personas autorizadas en términos de las disposiciones aplicables;
 
-> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-XLIII. Ejecutar las actividades que establezca el Pleno en materia de comités de seguimiento y proyectos institucionales, y cumplir con las metas que se establezcan;
+XLIII. Dar cumplimiento, en el ámbito de sus atribuciones, a los acuerdos tomados por los comités y grupos de trabajo de seguimiento de proyectos institucionales;
 
 XLIV. Nombrar o aprobar el nombramiento, y en su caso determinar la remoción, de quienes se desempeñarán como servidores públicos a su cargo, de conformidad con la normativa aplicable;
 
@@ -769,7 +973,47 @@ LV. Coordinar y supervisar la sistematización de resoluciones de la Comisión; 
 
 LVI. Las demás atribuciones de las unidades administrativas a él adscritas, así como las que señalen la Constitución Política de los Estados Unidos Mexicanos, la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
 
-Son indelegables las facultades señaladas en las fracciones I, II, XI a XIV, XVIII, XIX, XXI a XXVII, XXX a XXXII, XXXVI a XL y XLIV a LIII de este artículo.
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+Son indelegables las facultades señaladas en las fracciones I, II, XI a XIV, XVIII, XIX, XXI, XXIII a XXVII, XXXI a XXXII BIS, XXXVI a XL y XLIV a LIII de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 20 BIS.- Corresponde a los Directores Ejecutivos adscritos a la Secretaría Técnica:
+
+I. Auxiliar en el trámite y sustanciación de los procedimientos a cargo del Secretario Técnico;
+
+II. Proponer la estructura y contenido de los acuerdos, oficios, dictámenes, opiniones, consultas, anteproyectos de resolución y cualquier actuación pertinente para el trámite y resolución de los asuntos a cargo del Secretario Técnico;
+
+III. Emitir acuerdos, otorgar prórrogas y formular prevenciones relacionados con la designación o revocación de autorizados y domicilios para oír y recibir notificaciones, con la expedición de copias certificadas, así como para la devolución de documentos, de los asuntos que tramite el Secretario Técnico, para lo cual podrán hacer uso de las medidas de apremio pertinentes;
+
+IV. Determinar la estructura y contenido de los extractos de los acuerdos y resoluciones que vayan a publicarse en listas de la Comisión en los asuntos tramitados por el Secretario Técnico;
+
+V. Supervisar, en su caso, la elaboración de las versiones públicas, reservadas y confidenciales de las actuaciones y promociones que forman parte de cada uno de los procedimientos tramitados por el Secretario Técnico;
+
+VI. Expedir copias certificadas o realizar cotejos de documentos o información para integrarlos a los expedientes, así como de las constancias que obren en el archivo de la Comisión;
+
+VII. Expedir copias certificadas de las resoluciones y acuerdos de Pleno;
+
+VIII. Expedir las copias certificadas respecto de los expedientes correspondientes a los procedimientos que trámite o hubiere tramitado el Secretario Técnico cuando sean requeridas por el Poder Judicial de la Federación;
+
+IX. Auxiliar al Secretario Técnico para la formulación de las propuestas al Pleno de proyectos de opinión a las que se refiere el artículo 12, fracciones XII, XIII, XIV, XV, XVI, XVIII y XIX de la Ley;
+
+X. Suplir al Secretario Técnico en el Comité de Transparencia de la Comisión y en los Comités o Grupos de Trabajo de la Comisión;
+
+XI. Fungir como enlace de la Secretaría Técnica frente a las demás Unidades y áreas de la Comisión;
+
+XII. Solicitar al Diario Oficial de la Federación la publicación de extractos, acuerdos o resoluciones de la Comisión cuando hayan sido ordenados por el Pleno o el Secretario Técnico, o cuando así lo establezca la normativa aplicable;
+
+XIII. Supervisar y coordinar las necesidades financieras, materiales, de recursos humanos e infraestructura y soluciones tecnológicas de la Secretaría Técnica y las áreas adscritas a esta Unidad;
+
+XIV. Supervisar e instruir la preparación e implementación del Plan Anual de Trabajo de la Secretaría Técnica;
+
+XV. Firmar las actuaciones que sean de su competencia en los asuntos que les hayan sido asignados, procurando en todo momento la uniformidad de criterios y la aplicación de la normatividad aplicable;
+
+XVI. Colaborar con la Dirección General de Asuntos Contenciosos en la defensa jurídica de los asuntos que les hayan sido asignados, así como de aquellos de los que hubiera conocido, y
+
+XVII. Las demás atribuciones que le sean encomendadas o delegadas por el Secretario Técnico.
 
 ### Capítulo VI. De la Unidad de Planeación, Vinculación y Asuntos Internacionales
 
@@ -793,7 +1037,9 @@ II. Dirigir y coordinar a las Direcciones Generales de Coordinación dentro del 
 
 III. Supervisar el debido trámite de los asuntos de su responsabilidad, cuidando la uniformidad de criterios;
 
-IV. Coordinar los programas y preparar los materiales de información, difusión, apoyo y comunicación interna y externa de la Comisión;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+IV. Coordinar los programas y preparar los materiales de información, difusión, apoyo y comunicación interna y externa de la Comisión, así como traducir al español los materiales elaborados por agencias o agentes, con fines informativos y de difusión;
 
 > <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
@@ -823,9 +1069,9 @@ XII. Diseñar la estrategia y coordinar la participación de la Comisión en los
 
 XIII. Coordinar y apoyar la celebración o participación de la Comisión en conferencias, congresos y seminarios relacionados con la competencia y libre concurrencia, nacionales o internacionales, así como la participación de servidores públicos de la Comisión en estos eventos;
 
-> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-XIV. Ejecutar las actividades que establezca el Pleno en materia de comités de seguimiento y proyectos institucionales, y cumplir con las metas que se establezcan;
+XIV. Dar cumplimiento, en el ámbito de sus atribuciones, a los acuerdos tomados por los comités y grupos de trabajo de seguimiento de proyectos institucionales;
 
 XV. Realizar estudios sobre las políticas y legislaciones de otros países en materia de competencia y libre concurrencia, así como asesorar sobre estas materias a los órganos y unidades administrativas de la Comisión que lo requieran;
 
@@ -877,15 +1123,59 @@ XXVI. Nombrar o aprobar el nombramiento y, en su caso, determinar la remoción, 
 
 XXVII. Las demás que le delegue o encomiende el Presidente, y las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 22 BIS.- Corresponde al Director Ejecutivo de Coordinación:
+
+I. Conducir la ejecución de proyectos especiales que requieran la contribución del personal adscrito a la Unidad de Planeación, Vinculación y Asuntos Internacionales, así como de otras áreas o unidades administrativas de la Comisión;
+
+II. Representar y en su caso suplir al Titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales ante el Comité de Trasparencia de la Comisión;
+
+III. Proponer al titular de la Unidad, materiales de trabajo, notas y presentaciones, que sirvan de apoyo para llevar a cabo el desarrollo de sus facultades;
+
+IV. Fungir como enlace de la Unidad con otros órganos o unidades administrativas de la Comisión para coordinar y atender requerimientos administrativos que correspondan a la Unidad de Planeación, Vinculación y Asuntos Internacionales, así como proponer la implementación de programas de mejora para la integración adecuada el (sic) personal adscrito a dicha Unidad;
+
+V. Revisar los documentos que sean sujetos a firma del Titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales;
+
+VI. Colaborar con el Titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales, en la revisión de las disposiciones regulatorias, guías y lineamientos, entre otros instrumentos jurídicos que deba emitir el Pleno de la Comisión, y
+
+VII. Las demás que le sean encomendadas por el Presidente o por el Titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 22 TER. Corresponde al Director Ejecutivo de Asuntos Internacionales:
+
+I. Conducir los mecanismos de cooperación con instituciones públicas y privadas en el ámbito internacional en materia de competencia económica y libre concurrencia, estableciendo los enlaces necesarios para coordinar la participación de la Comisión en los asuntos de negociación y cooperación internacional;
+
+II. Supervisar y asegurar la elaboración y traducción de materiales, informes y reportes requeridos para fortalecer la difusión de la política de competencia, así como las actividades de la Comisión en el ámbito internacional;
+
+III. Supervisar y asegurar la cooperación internacional de la Comisión con instituciones públicas o privadas extranjeras;
+
+IV. Apoyar y coordinar la participación de los servidores públicos de Comisión en conferencias, participaciones, intercambios, congresos y seminarios de carácter internacional;
+
+V. Organizar foros, congresos, eventos y reuniones con contrapartes internacionales sobre competencia económica;
+
+VI. Participar con autoridades de competencia y expertos internacionales en grupos de trabajo sobre temas que sean competencia de la Comisión;
+
+VII. Supervisar y asegurar la atención de consultas internacionales presentadas por personas o instituciones públicas o privadas extranjeras;
+
+VIII. Supervisar y asegurar la atención de consultas internacionales presentadas por funcionarios de la Comisión;
+
+IX. Programar y coordinar los mecanismos de divulgación y difusión de información internacional;
+
+X. Definir y coordinar la estrategia y las actividades para preparar y difundir los materiales de información, apoyo, comunicación y difusión a nivel internacional, y
+
+XI. Las demás que le sean encomendadas por el Presidente o por el Titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales.
+
 ### Capítulo VII. Disposiciones Generales
 
 De las Direcciones Generales
 
-> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 23.
 
-Cada Dirección General estará a cargo de un Director General, quien será apoyado para el eficaz y eficiente ejercicio de sus facultades del personal técnico y administrativo que le sea autorizado.
+Cada Dirección General estará a cargo de un Director General, quien será auxiliado para el eficaz y eficiente ejercicio de sus facultades de Directores Ejecutivos y del demás personal que le sea autorizado.
 
 ###### ARTÍCULO 24.
 
@@ -979,6 +1269,34 @@ X. Dictar las medidas necesarias para encauzar legalmente el procedimiento; y
 
 XI. Las demás que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 25 BIS.- Corresponde a los Directores Ejecutivos adscritos a las Direcciones Generales Operativas:
+
+I. Auxiliar en el trámite y sustanciación de los procedimientos que les hayan sido asignados;
+
+II. Proponer la estructura y contenido de los acuerdos, oficios, dictámenes, opiniones, consultas, resoluciones y cualquier otra actuación pertinente para el trámite de los asuntos a cargo del Director General, la Secretaría Técnica o la Autoridad Investigadora, según su adscripción;
+
+III. Emitir acuerdos, otorgar prórrogas y formular prevenciones relacionados con la designación o revocación de autorizados y domicilios para oír y recibir notificaciones, con la expedición de copias certificadas, así como para la devolución de documentos, de los asuntos que les hayan sido asignados, para lo cual podrán hacer uso de las medidas de apremio pertinentes;
+
+IV. Expedir las copias certificadas de las constancias que integren los expedientes a cargo de la Dirección General, la Secretaría Técnica o la Autoridad Investigadora que les hayan sido asignados, y realizar cotejos de documentos o información cuando se haya ordenado la devolución de documentos en los asuntos que les hayan sido asignados;
+
+V. Firmar las actuaciones que sean de su competencia en los asuntos que les hayan sido asignados, procurando en todo momento la uniformidad de criterios y la aplicación de la normatividad aplicable;
+
+VI. Determinar la estructura y contenido de los extractos de los acuerdos y resoluciones que vayan a publicarse en listas de la Comisión en los asuntos que les hayan sido asignados;
+
+VII. Supervisar la elaboración de las versiones públicas, reservadas y confidenciales de las actuaciones y promociones que forman parte de cada uno de los procedimientos que les hayan sido asignados y que corresponda a la etapa que hayan tramitado;
+
+VIII. Auxiliar al Director General en la coordinación y desarrollo de reuniones con otras autoridades y con los representantes de los agentes económicos, respecto de los procedimientos que les hayan sido asignados;
+
+IX. Planear y proponer la elaboración o modificación de guías, lineamientos, manuales y criterios que contribuyan al análisis y entendimiento público de los procedimientos a cargo de la Dirección General de su adscripción, previa solicitud de su titular, el Secretario Técnico o la Autoridad Investigadora, según corresponda;
+
+X. Colaborar con la Unidad de Planeación, Vinculación y Asuntos Internacionales, previa solicitud, para la elaboración de materiales que permitan la participación de la Comisión en foros internacionales sobre temas de competencia económica respecto de los asuntos a cargo de la Dirección General de su adscripción;
+
+XI. Colaborar con los demás órganos y unidades administrativos de la Comisión en la elaboración de reportes y en la defensa jurídica de los asuntos que les hayan sido asignados, así como de aquellos de los que hubiera conocido, cuando se le haya solicitado, y
+
+XII. Las demás que le sean encomendadas por el Director General, el Secretario Técnico o la Autoridad Investigadora, según su adscripción.
+
 De las Direcciones Generales de Investigación
 
 ###### ARTÍCULO 26.
@@ -997,11 +1315,35 @@ IV. Asistir a las audiencias orales y presentar alegatos, así como desahogar la
 
 V. Proponer a la Autoridad Investigadora las medidas cautelares que resulten necesarias en los términos de la Ley y las Disposiciones Regulatorias;
 
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+V BIS. Con el auxilio de la Dirección General de Inteligencia de Mercados, buscar y obtener elementos de convicción mediante el análisis forense de información obtenida en el trámite de las investigaciones, para lo cual podrán comisionar a los servidores públicos a su cargo;
+
 > <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 VI. Procurar y propiciar la coadyuvancia del denunciante en el procedimiento seguido en forma de juicio, en los casos en que resulte aplicable; y
 
 VII. Las demás que le delegue o encomiende el titular de la Autoridad Investigadora y las que se señalen en la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 26 BIS.- Corresponde a los Directores Ejecutivos adscritos a las Direcciones Generales de Investigación, excepción hecha de la Dirección General de Inteligencia de Mercados:
+
+I. Proponer al Director General de su adscripción las estrategias a seguir en los procedimientos a su cargo;
+
+II. Colaborar en el análisis de la información necesaria para que la Autoridad Investigadora cuente con los elementos suficientes para iniciar las investigaciones correspondientes a la Dirección General de su adscripción;
+
+III. Coordinar y supervisar la obtención y análisis de los elementos de convicción en los procedimientos de investigación a cargo de la Dirección General de su adscripción;
+
+IV. Auxiliar en la elaboración de las órdenes de visita de verificación que se emitan en los procedimientos de investigación a cargo de la Dirección General de su adscripción;
+
+V. Coordinar y supervisar la elaboración y emisión de los proyectos de propuestas de cierre, dictámenes de probable responsabilidad, dictámenes preliminares o dictámenes de opinión, según corresponda, en los procedimientos de investigación a cargo de la Dirección General de su adscripción;
+
+VI. Coordinar la homogenización y estandarización de criterios de la Dirección General a la cual se encuentren adscritos;
+
+VII. Coordinar la implementación de proyectos para mejorar la gestión de la Dirección General a la cual se encuentren adscritos, y
+
+VIII. Las demás atribuciones que le sean encomendadas o delegadas por el Director General de su adscripción o por el titular de la Autoridad Investigadora.
 
 ###### ARTÍCULO 27.
 
@@ -1015,23 +1357,63 @@ III. Apoyar a la Autoridad Investigadora a supervisar la aplicación de la Ley, 
 
 IV. Las demás que le delegue o encomiende la Autoridad Investigadora, así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 27 BIS.- Corresponde a los Directores Ejecutivos de la Oficina de Coordinación:
+
+I. Proponer las estrategias, así como los criterios jurídicos y económicos para el desahogo de las funciones encomendadas al titular de la Oficina de Coordinación;
+
+II. Auxiliar en la revisión de la fundamentación y motivación de las actuaciones del titular de la Autoridad Investigadora, las Direcciones Generales de Investigación y del titular de la Oficina de Coordinación;
+
+III. Proponer al titular de la Oficina de Coordinación la estrategia a seguir durante la intervención de la Autoridad Investigadora o las Direcciones Generales de Investigación en el procedimiento previsto en el artículo 83 de la Ley y en los distintos juicios de amparo en los que sean parte;
+
+IV. Proponer al titular de la Oficina de Coordinación los mecanismos y políticas de aplicación e interpretación de las normas en materia de competencia económica y libre concurrencia, así como lo relacionado con manuales de organización, procedimientos y normas en materia de archivo, identificación y clasificación de información, transparencia y acceso a la información pública gubernamental, entre otras;
+
+V. Auxiliar en la determinación y elaboración de criterios en aspectos jurídicos y económicos relevantes que surjan con motivo de la actuación del titular de la Autoridad Investigadora y las Direcciones Generales de Investigación;
+
+VI. Coordinar el apoyo que se brinda al titular de la Autoridad Investigadora y las Direcciones Generales de Investigación en la aplicación del marco normativo en materia de transparencia y acceso a la información pública e identificación y clasificación de información, así como coordinar y supervisar la correcta aplicación de las normas y principios en materia de transparencia, identificación y clasificación de información en los procedimientos y expedientes a cargo de la Autoridad Investigadora;
+
+VII. Dar seguimiento a la ejecución y cobro de las multas impuestas como medida de apremio por el titular de la Autoridad Investigadora o las Direcciones General de Investigación, y
+
+VIII. Las demás atribuciones que le sean encomendadas o delegadas por el titular de la Oficina de Coordinación o por la Autoridad Investigadora.
+
 ###### ARTÍCULO 28.
 
 Corresponde al Titular de la Dirección General de Investigaciones de Prácticas Monopólicas Absolutas, además de las señaladas en el artículo 26 anterior:
 
 I. Tramitar las investigaciones por prácticas monopólicas absolutas; y
 
-> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-II. Tramitar el procedimiento correspondiente al beneficio de reducción del importe de multas a que se refiere el artículo 103 de la Ley, incluyendo ampliar el plazo al que hace referencia el artículo 114 de las Disposiciones Regulatorias.
+II. Tramitar el procedimiento correspondiente al beneficio de reducción del importe de multas a que se refiere el artículo 103 de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 28 BIS.- Además de lo establecido en el artículo 26 BIS anterior, corresponde a los Directores Ejecutivos adscritos a la Dirección General de Investigaciones de Prácticas Monopólicas Absolutas:
+
+I. Colaborar en el diseño e implementación de las políticas para el funcionamiento eficiente del procedimiento correspondiente al programa de inmunidad y reducción de sanciones previsto en el artículo 103 de la Ley, y
+
+II. Auxiliar en la evaluación de la información proporcionada a través del programa de inmunidad y reducción de sanciones.
 
 ###### ARTÍCULO 29.
 
 Corresponde a la Dirección General de Investigaciones de Mercado, además de las facultades señaladas en el artículo 26 anterior, realizar y tramitar las investigaciones por prácticas monopólicas relativas o concentraciones ilícitas.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 29 BIS.- Además de lo establecido en el artículo 26 BIS anterior, corresponde a los Directores Ejecutivos adscritos a la Dirección General de Investigaciones de Mercado:
+
+I. Colaborar en el diseño e implementación de las políticas para el funcionamiento eficiente del procedimiento de dispensa y reducción de sanciones establecido en los artículos 100 a 102 de la Ley, y
+
+II. Auxiliar en la evaluación de la información proporcionada dentro del procedimiento referido en la fracción anterior.
+
 ###### ARTÍCULO 30.
 
 Corresponde a la Dirección General de Mercados Regulados, además de las facultades señaladas en el artículo 26 anterior, realizar y tramitar las investigaciones a que se refieren los artículos 94, 96 y 97 de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 30 BIS.- Además de lo establecido en el artículo 26 BIS anterior, corresponde a los Directores Ejecutivos adscritos a la Dirección General de Mercados Regulados, colaborar en la propuesta de medidas correctivas que se consideren necesarias para eliminar las restricciones al funcionamiento eficiente del mercado, así como con la elaboración de opiniones técnicas no vinculatorias a que se refiere el artículo 94 de la Ley.
 
 ###### ARTÍCULO 31.
 
@@ -1067,6 +1449,26 @@ X. Evaluar y resolver cualquier aspecto técnico que pueda presentarse durante e
 
 XI. Las demás que le delegue o encomiende la Autoridad Investigadora, así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 31 BIS.- Corresponde a los Directores Ejecutivos adscritos a la Dirección General de Inteligencia de Mercados:
+
+I. Auxiliar al Director General de Inteligencia de Mercados en la obtención de información de carácter estratégico para el desarrollo de líneas de indagación de probables conductas anticompetitivas;
+
+II. Coordinar, dar seguimiento y tramitar la documentación correspondiente a las actividades forenses de información digital;
+
+III. Auxiliar al Director General de Inteligencia de Mercados en la implementación de procedimientos, protocolos, políticas y directrices para la adecuada preservación y resguardo de los indicios, elementos de convicción o pruebas almacenadas en medios digitales obtenidas durante la tramitación de los distintos procedimientos de la Comisión;
+
+IV. Elaborar propuestas y recomendaciones de políticas, ordenamientos y lineamientos referentes a la seguridad de la información institucional y el acceso y resguardo de las instalaciones de la Comisión;
+
+V. Supervisar las actividades de recopilación y análisis de información estratégica de los mercados y actos específicos de los agentes económicos;
+
+VI. Proponer al Director General de Inteligencia de Mercados recomendaciones para establecer acciones y medidas que contribuyan a la previsión de amenazas y mitigación de riesgos en los procedimientos de investigación;
+
+VII. Auxiliar en la resolución de aspectos técnicos que puedan presentarse durante el desarrollo de las actividades del titular de la Autoridad Investigadora o de las Direcciones Generales de Investigación, y
+
+VIII. Las demás atribuciones que le sean encomendadas o delegadas por el Director General de Inteligencia de Mercados o por el titular de la Autoridad Investigadora.
+
 De las Direcciones Generales Técnicas
 
 ###### ARTÍCULO 32.
@@ -1095,6 +1497,40 @@ IX. Coordinar y dirigir las audiencias orales; y
 
 X. Las demás que le delegue o encomiende el Secretario Técnico, así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 32 BIS.- Corresponde a los Directores Ejecutivos adscritos a la Dirección General de Asuntos Jurídicos:
+
+I. Proponer al Director General las estrategias que deban implementarse en la tramitación de los procedimientos a cargo de la Dirección General de Asuntos Jurídicos;
+
+II. Proponer al Director General los mecanismos para hacer más eficiente el trámite de los asuntos a cargo de la Dirección General de Asuntos Jurídicos;
+
+III. Auxiliar en la determinación de criterios en aspectos jurídicos que surjan con motivo de la tramitación de los procedimientos a cargo del Director General de Asuntos Jurídicos y de los actos que éste deba emitir;
+
+IV. Asistir en representación del Director General de Asuntos Jurídicos a los Comités o Grupos de Trabajo de la Comisión en los que participe;
+
+V. Colaborar con el Pleno en la elaboración del engrose de las resoluciones correspondientes a los asuntos que le sean asignados;
+
+VI. Analizar la información que se presente en cumplimiento a las condiciones impuestas o compromisos propuestos en los procedimientos a cargo de la Dirección General que les hayan sido asignados;
+
+VII. Proponer mecanismos y políticas de aplicación e interpretación de las normas en materia de competencia y libre concurrencia;
+
+VIII. Proponer en coordinación con las áreas de la Comisión Federal de Competencia Económica los proyectos de lineamientos de operación interna y criterios técnicos, cuando le hayan sido asignados;
+
+IX. Colaborar con la Unidad de Planeación, Vinculación y Asuntos Internacionales en la elaboración y revisión de los convenios que celebre la Comisión Federal de Competencia Económica y tratados en materia de regulación y política de competencia, cuando se haya solicitado;
+
+X. Estudiar los escritos de propuesta de medidas que sean presentados por los agentes económicos y autoridades en términos de la fracción VII del artículo 94 de la Ley, que le hayan sido asignados, así como presentar al Director General de Asuntos Jurídicos el análisis que corresponda;
+
+XI. Proponer al Director General y al Secretario Técnico, criterios en materia de regulación sectorial; regulación asimétrica; eliminación de barreras a la competencia y la libre concurrencia; acceso a insumos esenciales, y desincorporación de activos, derechos, partes sociales o acciones, cuando corresponda.
+
+XII. Coordinar y revisar los oficios relacionados con la ejecución y cobro de multas, así como atender los requerimientos de información realizadas (sic) por las autoridades fiscales correspondientes;
+
+XIII. Coordinar y supervisar la elaboración de memorándums, oficios y demás documentos necesarios para ser enviados a las autoridades fiscales respectivas, a fin de cumplimentar los requerimientos de dichas autoridades, conforme al convenio de colaboración administrativa en cobro de multas;
+
+XIV. Revisar los informes enviados por el Servicio de Administración Tributaria en relación con el estado de cobro de las multas impuestas por la Secretaría Técnica, las Direcciones Generales Técnicas o el Pleno, e informar a sus homólogos la información que corresponda a fin de llevar un control de la ejecución de las multas impuestas por la Comisión, y
+
+XV. Las demás que le encomiende el Director General o las que se señalen (sic) la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
+
 ###### ARTÍCULO 33.
 
 Corresponde a la Dirección General de Estudios Económicos:
@@ -1121,6 +1557,32 @@ IX. Elaborar propuestas y opiniones sobre mercados regulados y someterlos a la S
 
 X. Las demás que le delegue o encomiende el Secretario Técnico, así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 33 BIS.- Corresponde a los Directores Ejecutivos adscritos a la Dirección General de Estudios Económicos:
+
+I. Conducir y supervisar el análisis de las manifestaciones sobre aspectos económicos que se realicen por agentes económicos a dictámenes de probable responsabilidad y dictámenes preliminares, de conformidad con las instrucciones del Secretario Técnico o el Director General de Estudios Económicos;
+
+II. Proporcionar elementos de análisis económico para la toma de decisiones de los Comisionados, de conformidad con las instrucciones del Secretario Técnico o el Director General de Estudios Económicos;
+
+III. Proponer al Director General de Estudios Económicos argumentos basados en el análisis económico, la revisión de la literatura y de casos internacionales en materia de competencia económica para el cumplimiento de sus funciones;
+
+IV. Planear y conducir el análisis económico y de información cuantitativa y cualitativa de las opiniones, los estudios sectoriales y de mercado que realice la Dirección General de Estudios Económicos, así como de los demás asuntos asignados por el Secretario Técnico o el Director General de Estudios Económicos;
+
+V. Fungir como perito, en los temas que solicite la Dirección General de Asuntos Contenciosos y que se encuentre dentro de su área de especialización;
+
+VI. Representar al Secretario Técnico o al Director General de Estudios Económicos en talleres, seminarios, reuniones, foros y convenciones en materia de competencia económica y regulación sectorial;
+
+VII. Elaborar lineamientos, enfoques, modelos técnicos y criterios metodológicos para la Dirección General de Estudios Económicos o para otras áreas de la Comisión;
+
+VIII. Proponer al Director General de Estudios Económicos mejoras a sus procedimientos internos;
+
+IX. Proponer la realización de análisis, estudios económicos o de mercado, trabajos de investigación e informes generales a la Dirección General de Estudios Económicos;
+
+X. Generar propuestas de coordinación entre las Direcciones Generales Técnicas para mejorar la atención de procedimientos seguidos en forma de juicio y análisis de concentraciones, y
+
+XI. Las demás que le delegue o encomiende el Secretario Técnico o el Director General de Estudios Económicos.
+
 ###### ARTÍCULO 34.
 
 Corresponde a la Dirección General de Concentraciones:
@@ -1144,6 +1606,24 @@ VIII. Coadyuvar con las demás Direcciones Generales Técnicas en la elaboració
 IX. Llevar el registro de las autorizaciones u observaciones que formule la Comisión en materia de concentraciones, conforme a las normas aplicables, y
 
 X. Las demás que le delegue o encomiende el Secretario Técnico, así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 34 BIS.- Corresponde a los Directores Ejecutivos adscritos a la Dirección General de Concentraciones:
+
+I. Verificar que la información presentada por los agentes económicos se apegue a lo requerido por la Ley y sus Disposiciones Regulatorias, en los procedimientos de concentraciones, opiniones sobre documentación de los procesos de licitación pública, de evaluación de participantes en estos procedimientos y de la cesión de concesiones, permisos, contratos y cuestiones análogas o venta de acciones de las empresas que detentan estos títulos;
+
+II. Proponer, para aprobación del Director General, la teoría del caso de los asuntos que les sean asignados;
+
+III. Acordar con las convocantes de las licitaciones, las actividades, fechas y plazos de los cronogramas de estos procesos, a fin de que los interesados en participar soliciten y obtengan oportunamente la opinión, autorización o resolución de la Comisión respecto de la adjudicación del objeto de la licitación;
+
+IV. Atender y orientar a los agentes económicos y a entidades reguladoras sobre los procedimientos de la Dirección General de Concentraciones, así como sobre la relación entre la competencia económica y la regulación sectorial;
+
+V. Colaborar con el Comisionado Ponente en la elaboración de los proyectos de resolución;
+
+VI. Fungir como perito, previa designación del Secretario Técnico o del Director General de Concentraciones, en los temas que solicite la Dirección General de Asuntos Contenciosos relacionados con concentraciones y licitaciones y que se encuentre dentro de su área de especialización, y
+
+VII. Las demás que le encomiende o delegue el Secretario Técnico o el Director General de Concentraciones.
 
 #### Sección Segunda. De la Dirección General de Asuntos Contenciosos
 
@@ -1193,15 +1673,103 @@ X. Emitir opinión en los asuntos laborales relativos al personal, incluyendo la
 
 XI. Apoyar a la Dirección General de Administración en los aspectos legales que le sean solicitados;
 
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XI bis 1. Delegar, mediante acuerdo, sus facultades en los servidores públicos de su adscripción;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XI bis 2. Dar cumplimiento, en el ámbito de sus atribuciones, a los acuerdos tomados por los comités y grupos de trabajo de seguimiento de proyectos institucionales;
+
 XII. Señalar las bases y requisitos legales a que deban sujetarse los convenios y contratos que suscriba la Comisión, dictaminarlos y llevar registro de los mismos; y,
 
 XIII. Las demás que le deleguen o encomienden el Pleno o el Presidente, así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 36 BIS.- Corresponde a los Directores Ejecutivos adscritos a la Dirección General de Asuntos Contenciosos:
+
+I. Auxiliar al Director General de Asuntos Contenciosos en la debida atención, trámite, sustanciación, seguimiento, estrategia de defensa e impulso procesal oportuno y eficiente de litigio que se requiera para proteger los intereses y bienes de la Comisión, en las controversias constitucionales, juicios de amparo, procedimientos administrativos, contenciosos administrativos, civiles, mercantiles, de arrendamiento, penales, laborales, o cualquier otro asunto en que tenga interés la Comisión y que le sea asignado, con independencia de la materia, instancia, sede u órgano administrativo, jurisdiccional o no jurisdiccional, contencioso o no contencioso;
+
+II. Proponer la estructura y contenido de cualquier escrito de demanda, contestación, denuncia, querella, informe, opinión, desahogo, ofrecimiento de pruebas, formulación de alegatos, medios de impugnación, recursos, incidentes, o cualquier otra actuación pertinente para la correcta atención del trámite y debida defensa de los asuntos que le hayan sido asignados para proteger los intereses y bienes de la Comisión ante cualquier tipo de autoridad administrativa o jurisdiccional, contenciosa o no contenciosa;
+
+III. Asistir, desahogar y en su caso hacer valer manifestaciones, recursos o acciones en defensa de la Comisión, las unidades administrativas o de los servidores públicos que las integran, en cualquier tipo de diligencia o audiencia que derive de un procedimiento administrativo o jurisdiccional, contencioso o no contencioso;
+
+IV. Acompañar a los servidores públicos que integran las distintas unidades administrativas de la Comisión ante cualquier autoridad o particular, cuando les corresponda atender o desahogar actos jurídicos sustantivos, procesales o de alguna otra naturaleza relacionada con sus funciones y que corresponda al área contenciosa;
+
+V. Informar oportuna, eficiente y exhaustivamente al Director General de Asuntos Contenciosos del estado que guardan los asuntos a su cargo;
+
+VI. Fungir como enlaces ante las unidades administrativas de la Comisión, o ante cualquier otra autoridad, en los asuntos que tienen a su cargo o para los trámites que le sean encomendados;
+
+VII. Ejercer los poderes de representación jurídica que en materia laboral o cualquier otra le otorgue el Comisionado Presidente o el Pleno de la Comisión, y rendir cuenta de ello de forma oportuna;
+
+VIII. Colaborar en la asesoría que la Dirección General de Asuntos Contenciosos brinde a las unidades administrativas de la Comisión, en los distintos aspectos legales que le requieran, en el ámbito de sus atribuciones;
+
+IX. Fungir, cuando sea designado para ello, como asesor jurídico dentro de los procedimientos penales en los que la Comisión, sus órganos, unidades administrativas o cualquiera de sus servidores públicos sea parte con motivo de sus funciones;
+
+X. Manifestar periódicamente al Director General de Asuntos Contenciosos sobre la efectividad de los procedimientos internos que se tienen para atender los asuntos que tiene a cargo, y en su caso, coordinar la implementación de las propuestas de mejoras aprobadas por el Director General de Asuntos Contenciosos para incrementar la productividad, eficiencia, eficacia, y calidad del trabajo realizado, así como del correcto ejercicio de las atribuciones del personal adscrito a la Dirección General de Asuntos Contenciosos;
+
+XI. Auxiliar en el trámite y sustanciación de los procedimientos administrativos a cargo de la (sic) Director General de Asuntos Contenciosos, y firmar las actuaciones que se requieran para cumplir en tiempo y forma los requisitos para éstos y para la contratación y operatividad que corresponda a la Dirección General de Asuntos Contenciosos en sus interacciones internas y externas, incluyendo la de representar a la Dirección General en los grupos de trabajo, comités o fideicomisos de la Comisión, en calidad de suplente;
+
+XII. Efectuar las comisiones o representatividad que corresponda en el ámbito judicial, de cooperación y académicas en los eventos en que sea invitada la Dirección General de Asuntos Contenciosos;
+
+XIII. Coordinar la homogenización y estandarización de criterios de la Dirección General de Asuntos Contenciosos, ya sea impulsando la generación de criterios internos o la implementación de los criterios fijados por el Director General de Asuntos Contenciosos o los que deriven de las resoluciones del Poder Judicial de la Federación;
+
+XIV. Supervisar e instruir la preparación e implementación del Plan Anual de Trabajo de la Dirección General de Asuntos Contenciosos, y
+
+XV. Las demás que le sean encomendadas o delegadas por el Director General de Asuntos Contenciosos y las demás que determinen las normas aplicables a los asuntos que tengan a su cargo, y aquellas que emita la Comisión.
+
+Los Directores Ejecutivos adscritos a la Dirección General de Asuntos Contenciosos podrán suplir al Director General de Asuntos Contenciosos sin necesidad de acuerdo de designación, de forma indistinta y sin orden de prelación específico para la oportuna y eficiente atención de los asuntos a su cargo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 3 DE JULIO DE 2020)</small>
+
+#### Sección Segunda BIS. De la Dirección General de Mercados Digitales
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 36 TER.- La Dirección General de Mercados Digitales será responsable de analizar el desarrollo de los mercados digitales y sus implicaciones en materia de competencia económica y libre concurrencia. Dependerá directamente del Pleno, al que responderá de los procedimientos a su cargo.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 36 TER 1.- Corresponde a la Dirección General de Mercados Digitales:
+
+I. Estudiar y dar seguimiento al funcionamiento, desarrollo, dinámicas competitivas y demás aspectos relevantes sobre libre concurrencia y competencia en los mercados digitales;
+
+II. Generar y estandarizar el conocimiento sobre los mercados digitales y las mejores prácticas internacionales al interior de la Comisión;
+
+III. Brindar apoyo técnico a la Dirección General de Concentraciones en el análisis de concentraciones que involucran mercados digitales o Agentes Económicos que se desenvuelven en los mismos;
+
+IV. Brindar apoyo técnico a la Autoridad Investigadora con los análisis e insumos técnicos que ésta solicite;
+
+V. Colaborar con la Unidad de Planeación, Vinculación y Asuntos Internacionales en la elaboración de documentos de análisis, divulgación y promoción de la competencia relacionados con los mercados digitales, así como en la organización de seminarios, congresos, talleres y conferencias nacionales e internacionales en materia de competencia económica y libre concurrencia relacionada con los mercados digitales;
+
+VI. Analizar y desarrollar propuestas de regulación para mercados digitales que tengan como propósito promover y proteger la competencia y libre concurrencia;
+
+VII. Brindar apoyo técnico a las áreas competentes de la Comisión en la elaboración de opiniones sobre anteproyectos y proyectos normativos, iniciativas de ley, actos de autoridad, leyes, reglamentos, acuerdos, decretos, normas oficiales mexicanas y demás disposiciones de observancia general que tenga por objeto proteger o promover la competencia económica y libre concurrencia en los mercados digitales, y
+
+VIII. Las demás que le encomiende el Pleno.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 36 TER 2.- Corresponde al Director Ejecutivo de Mercados Digitales:
+
+I. Coordinar la elaboración de documentos de análisis sobre el funcionamiento y desarrollo de los mercados digitales en México;
+
+II. Supervisar la elaboración de materiales, informes y reportes, así como la realización de talleres, conferencias u otras actividades, que tengan por finalidad diseminar y estandarizar el conocimiento sobre el funcionamiento y desarrollo de los mercados digitales al interior de la Comisión;
+
+III. Coordinar la colaboración entre la Dirección General de Mercados Digitales y la Dirección General de Concentraciones en el análisis de concentraciones que involucran a empresas que operan en los mercados digitales;
+
+IV. Coordinar la colaboración entre la Dirección General de Mercados Digitales y la Autoridad Investigadora para la elaboración de análisis y estudios que apoyen las actuaciones de dicha Autoridad cuando ésta lo solicite;
+
+V. Coordinar la colaboración entre la Dirección General de Mercados Digitales y la Unidad de Planeación, Vinculación y Asuntos Internacionales en la elaboración de documentos de análisis, divulgación y promoción de la competencia relacionados con los mercados digitales;
+
+VI. Coordinar el apoyo técnico a las áreas competentes de la Comisión en la elaboración de opiniones sobre anteproyectos y proyectos normativos, iniciativas de ley, actos de autoridad, leyes, reglamentos, acuerdos, decretos, normas oficiales mexicanas y demás disposiciones de observancia general en materia de competencia económica y libre concurrencia que guarden relación con los mercados digitales, y
+
+VII. Las demás que le encomiende el Pleno o el Director General de Mercados Digitales.
+
 #### Sección Tercera. De la Dirección General de Administración
 
 > <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
-
-#### Sección Cuarta. De las Direcciones Generales de Coordinación
 
 ###### ARTÍCULO 37.
 
@@ -1253,9 +1821,13 @@ XVI. Mantener actualizados los sistemas de tecnologías de la información, comu
 
 XVII. Custodiar la documentación original derivada de las operaciones administrativas y de los contratos y convenios que realicen en cumplimiento de sus funciones;
 
-> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-XVIII. Ejecutar las actividades que establezca el Pleno en materia de comités de seguimiento y proyectos institucionales y cumplir con las metas que se establezcan;
+XVIII. Dar cumplimiento, en el ámbito de sus atribuciones, a los acuerdos tomados por los comités y grupos de trabajo de seguimiento de proyectos institucionales;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XVIII BIS. Emitir disposiciones, políticas, bases, y lineamientos internos, en calidad de representante legal en materia administrativa, para garantizar la observancia de las Normas Oficiales Mexicanas aplicables a la Comisión;
 
 XIX. Atender, difundir y operar los asuntos relacionados con los programas de capacitación de los servidores públicos de la Comisión, así como fomentar su participación en actividades culturales, deportivas y recreativas e implementar el sistema de comunicación interna;
 
@@ -1301,6 +1873,176 @@ XXXIV. Emitir disposiciones operativas internas, así como el manual de organiza
 
 XXXV. Las demás que le delegue o encomiende el Presidente, que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 38 BIS.- Corresponde al Director Ejecutivo de Recursos Humanos y Gestión de Talento:
+
+I. Autorizar por medio de su firma las actuaciones que sean de su competencia;
+
+II. Coordinar la elaboración y actualización de políticas, normas, sistemas y procedimientos para la administración de los recursos humanos de la Comisión;
+
+III. Dirigir al personal bajo su cargo, sobre el seguimiento de las actividades a ejecutar, con el propósito de contar con información veraz y oportuna en cada proceso de recursos humanos;
+
+IV. Coordinar la participación de sus áreas en los procesos de adquisición de bienes, productos o servicios en materia de recursos humanos;
+
+V. Participar y contribuir con la información necesaria en los diversos comités o grupos de trabajo, donde presenta injerencia en materia de recursos humanos;
+
+VI. Orientar, en coordinación con la Dirección General de Asuntos Contenciosos, a las unidades administrativas de la Comisión, en los asuntos laborales y participar en el levantamiento de actas por incumplimiento de obligaciones laborales en el que incurra el personal, constancias de hechos, actas por accidente de trabajo y actas administrativas;
+
+VII. Coordinar y autorizar las respuestas a solicitudes de información de trasparencia y de auditoria a cargo de la Dirección General de Administración;
+
+VIII. Administrar la gestión de los recursos humanos de la Comisión, proponer las políticas, lineamientos y estrategias en esta materia, de forma integral y con base en las mejores prácticas y alineadas a la normatividad aplicable vigente;
+
+IX. Coordinar la integración, validación y actualización de la estructura orgánica y ocupacional, así como el catálogo de perfiles de puestos, en concordancia con los acuerdos que emanen del Pleno de la Comisión;
+
+X. Autorizar la gestión y uso de recursos en materia de presupuesto de servicios personales, así como administrar las plazas de las diversas unidades administrativas que componen la Comisión, a fin de proveer el personal suficiente para la operación de sus procesos;
+
+XI. Supervisar el ejercicio del gasto en materia de servicios personales a efecto de generar el uso racional de los recursos en materia de recursos humanos y los servicios prestados, de acuerdo con la programación del capítulo;
+
+XII. Validar, para autorización del Director General de Administración, los oficios y constancias de nombramientos del personal de la Comisión, los movimientos de personal y los asuntos relacionados con la terminación del nombramiento;
+
+XIII. Validar, para autorización o certificación de la Dirección General de Administración, las constancias relativas al puesto o cargo que ocupen o hayan ocupado, sueldos y demás actividades inherentes;
+
+XIV. Gestionar la autorización y ocupación de prestadores de servicios profesionales por honorarios asimilados a salarios, becarios, prestadores de servicio social y prácticas profesionales;
+
+XV. Coadyuvar con la Dirección General de Promoción a la Competencia en los proyectos de promoción a la competencia que lo requieran;
+
+XVI. Elaborar y controlar los gafetes de identificación de los empleados de la Comisión;
+
+XVII. Asegurar la actualización, resguardo y correcta integración del archivo de personal;
+
+XVIII. Autorizar la emisión de la nómina del personal en sus diversos tipos de contratación, validar su correcto cálculo y garantizar el cumplimiento de las compromisos fiscales, plazos legales y operativos para su ejecución en tiempo y forma;
+
+XIX. Autorizar la emisión o suspensión de pago, la aplicación de descuentos y retenciones legales, así como los autorizados u ordenados por mandamiento judicial o de autoridad administrativa competente y, en su caso, la recuperación de las cantidades correspondientes a salarios no devengados;
+
+XX. Coordinar las acciones necesarias para el otorgamiento de prestaciones a los servidores públicos de la Comisión;
+
+XXI. Gestionar los procesos relacionados con promociones, becas nacionales o internacionales, licencias en sus diversas modalidades, permisos e incapacidad de los servidores públicos de la Comisión;
+
+XXII. Proponer y supervisar los procesos de reclutamiento y selección para ocupar los puestos de la estructura orgánica autorizada a la Comisión;
+
+XXIII. Proponer y supervisar la aplicación de programas de evaluación del desempeño y reconocimiento laboral a través de la gestión de premios, estímulos, bonos y recompensas al personal de la Comisión;
+
+XXIV. Validar el programa anual de capacitación, supervisar su contratación y operación, seguir la cobertura de cursos y asegurar el máximo aprovechamiento del presupuesto asignado;
+
+XXV. Definir y reportar, en sus distintos niveles de aplicación, las métricas de aprovechamiento del Programa Anual de Capacitación;
+
+XXVI. Supervisar y administrar el desarrollo e implementación de sistemas de profesionalización a fin de promover el desarrollo de los servidores públicos;
+
+XXVII. Coordinar las acciones en materia de igualdad de género en la estructura, procesos y valores que sustenten la cultura organizacional de la Comisión;
+
+XXVIII. Implementar las estrategias y acciones necesarias para fortalecer el clima y cultura laboral de la Comisión, con el objeto de mantener espacios de productividad, desarrollo humano e igualdad para las servidoras y los servidores públicos, y
+
+XXIX. Las demás que le delegue o encomiende el Presidente o el Director General de Administración.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 38 BIS 1.- Corresponde al Director Ejecutivo de Presupuesto y Finanzas:
+
+I. Elaborar y actualizar las propuestas de las políticas, normas y demás disposiciones en materia financiera y presupuestaria procurando la eficiencia del gasto en apego a los criterios de racionalidad, honestidad y transparencia;
+
+II. Autorizar, por medio de su firma, las actuaciones que sean de su competencia;
+
+III. Auxiliar en la provisión de los pagos y prestaciones a los servidores públicos de la Comisión, así como el cumplimiento de los compromisos a terceros derivados de la estructura ocupacional registrada;
+
+IV. Emitir y autorizar las solicitudes por concepto de suficiencia presupuestaria requeridas por las Unidades Administrativas a través del personal autorizado, con el propósito de que éstas cuenten con los elementos necesarios para llevar a cabo los procesos de contratación y adquisición de bienes o servicios solicitados;
+
+V. Definir, evaluar y presentar las propuestas de planeación presupuestaria para cada ejercicio fiscal mediante la detección de necesidades de las Unidades Administrativas responsables, a fin de integrar el Anteproyecto de Presupuesto de la Comisión;
+
+VI. Evaluar y en su caso aprobar las adecuaciones presupuestarias internas de conformidad con las Políticas Generales en Materia de Programación, Presupuestación, Aprobación, Ejercicio, Control y Evaluación del Gasto Público de la Comisión;
+
+VII. Validar el registro contable de las operaciones financieras y presupuestarias en el sistema integral implementado para ello;
+
+VIII. Autorizar los informes periódicos necesarios respecto al estado que guarda la Comisión en su ejercicio del gasto en materia presupuestaria y financiera, a fin de atender los requerimientos internos y externos ante las instancias fiscalizadoras correspondientes;
+
+IX. Proponer al Director General de Administración la autorización presupuestaria de los contratos plurianuales que acrediten las mejores condiciones a la Comisión;
+
+X. Apoyar la aprobación periódica de las solicitudes de recursos registradas en el Sistema Integral de Administración Financiera para la ministración oportuna de los recursos autorizados a la Comisión;
+
+XI. Vigilar la recuperación, aplicación oportuna y correcta de los recursos por concepto de ingresos excedentes;
+
+XII. Autorizar el registro de la cartera de inversión programada para cada ejercicio fiscal;
+
+XIII. Autorizar los dictámenes presupuestarios correspondientes, de acuerdo con las modificaciones a la estructura orgánica de la Comisión;
+
+XIV. Atender los requerimientos de las instancias fiscalizadoras en materia presupuestaria y contable vigente, así como autorizar las solicitudes de información, de auditorías y aquellas que le instruya la Dirección General de Administración, y
+
+XV. Las demás que les sean delegadas o encomendadas por el Presidente o por el Director General de Administración.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 38 BIS 2.- Corresponde al Director Ejecutivo de Recursos Materiales, Adquisiciones y Servicios:
+
+I. Autorizar por medio de su firma, las actuaciones que sean de su competencia;
+
+II. Elaborar y actualizar las políticas, lineamientos de carácter técnico y administrativo, los sistemas y procedimientos para la administración de los recursos, adquisiciones, contratos, seguridad y protección civil, y dar seguimiento a las directrices emitidas por la Dirección General de Administración y los Comités de Adquisiciones, Arrendamientos y Servicios y de Bienes Muebles, así como a las emitidas por el Grupo de Trabajo de Seguridad;
+
+III. Coordinar la elaboración y actualización de las políticas, bases, lineamientos, manuales, guías y todos aquellos instrumentos normativos que sean necesarios para cumplir su objeto;
+
+IV. Coordinar la elaboración y actualización de las políticas institucionales de seguridad que permitan establecer lineamientos y directrices generales a fin de salvaguardar la integridad del personal, así como de las instalaciones de la Comisión;
+
+V. Coordinar la elaboración y actualización del Programa de Protección Civil Institucional de la Comisión, así como el programa de capacitación para el personal que integra la Unidad Interna de Protección Civil;
+
+VI. Coordinar su Programa Anual de Trabajo para someterlos a autorización de la Dirección General de Administración;
+
+VII. Diseñar y establecer el procedimiento de contratación del Programa Anual de Seguros para los Bienes e Instalaciones de la Comisión;
+
+VIII. Coordinar en conjunto con el Director Ejecutivo de Tecnologías de la Información y Comunicaciones, la elaboración y actualización de las medidas de prevención y sistemas de protección a la información y tecnologías de seguridad institucional;
+
+IX. Validar el Programa de Protección Civil del inmueble que albergue las oficinas de la Comisión, así como la participación de la Comisión en el Sistema Nacional de Protección Civil;
+
+X. Presentar a la Dirección General de Administración documentos para su certificación, cuando así sean solicitados, de las constancias que integren los expedientes a su cargo y realizar cotejos documentales;
+
+XI. Aprobar la ejecución de los estudios de riesgo en materia de seguridad física institucional que permitan identificar amenazas y vulnerabilidades que pongan en riesgo la integridad de la infraestructura física y del personal de la Comisión;
+
+XII. Supervisar la provisión de los servicios generales y recursos materiales que requieran las unidades administrativas de la Comisión;
+
+XIII. Supervisar el inventario y el almacén de la Comisión;
+
+XIV. Supervisar los procedimientos de contratación de la Comisión;
+
+XV. Atender las auditorías practicadas a la Dirección General de Administración en materia de recursos materiales, adquisiciones y servicios generales, seguridad y protección civil;
+
+XVI. Coordinar y autorizar la respuesta a las solicitudes de información que realicen los peticionarios y que se refieran a su competencia, en cumplimiento en la normativa de transparencia y acceso a la información pública gubernamental;
+
+XVII. Fomentar y vigilar la clasificación y custodia de los expedientes de las contrataciones realizadas, contratos y convenios que se celebren a fin de contar con el respaldo documental de las adquisiciones y servicios contratados por la Comisión;
+
+XVIII. Autorizar las notificaciones que corresponden a adjudicaciones, solicitudes de información, penas convencionales e inicio de rescisión de contratos a los proveedores o contratistas;
+
+XIX. Coordinar en conjunto con la Dirección General de Asuntos Contenciosos y las instancias legales pertinentes, los actos y asuntos del ámbito legal relacionados con la operación de los recursos materiales, adquisiciones, servicios generales, seguridad institucional y protección civil;
+
+XX. Fungir como vocal en los comités de adquisiciones, arrendamientos y servicios y de bienes muebles;
+
+XXI. Presentar a consideración de los comités de adquisiciones, arrendamientos y servicios, y de bienes muebles, las solicitudes que presenten las unidades administrativas en el ámbito de su competencia, y
+
+XXII. Las demás que les sean delegadas o encomendadas por el Presidente o por el Director General de Administración.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 38 BIS 3.- Corresponde al Director Ejecutivo de Tecnologías de la Información y Comunicaciones:
+
+I. Autorizar por medio de su firma, las actuaciones que sean de su competencia;
+
+II. Autorizar los modelos de planeación y control de las tecnologías de información y comunicaciones: plan estratégico, programa de adquisiciones, anteproyecto del presupuesto, programas de mantenimiento;
+
+III. Proponer los objetivos estratégicos en materia de tecnologías de la información y comunicaciones de la Comisión;
+
+IV. Coordinar la selección, el desarrollo, la aplicación y el uso de las tecnologías de la información y comunicaciones y dar seguimiento a las tendencias e innovación en el uso de dichas tecnologías;
+
+V. Determinar y administrar la arquitectura tecnológica de la Comisión;
+
+VI. Determinar y aprobar los planes de protección y resguardo a la información, así como de continuidad en las operaciones y recuperación ante desastres en los equipos de cómputo de la Comisión;
+
+VII. Administrar los recursos en materia de tecnologías de información y comunicaciones;
+
+VIII. Autorizar los dictámenes técnicos para la contratación de infraestructura, equipos y servicios externos, en materia de tecnologías de la información, así como supervisar el cumplimiento de los contratos y los resultados de la implantación de soluciones;
+
+IX. Asegurar la continuidad los servicios en materia de tecnologías de información y comunicaciones para la Comisión, y
+
+X. Las demás que les sean delegadas o encomendadas por el Presidente o por el Director General de Administración.
+
+#### Sección Cuarta. De las Direcciones Generales de Coordinación
+
 ###### ARTÍCULO 39.
 
 Corresponde a las Direcciones Generales de Coordinación:
@@ -1337,9 +2079,15 @@ V. Promover y coordinar con los diferentes organismos reguladores, dependencias 
 
 VI. Coadyuvar con la Unidad de Planeación, Vinculación y Asuntos Internacionales en la organización de seminarios, congresos, talleres y conferencias nacionales e internacionales, en materia de competencia y libre concurrencia;
 
-VII. Elaborar, coordinar y ejecutar campañas de publicidad a favor de la cultura de la competencia;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+VII. Elaborar, coordinar y ejecutar proyectos y documentos de promoción a la competencia y campañas de publicidad a favor de la cultura de la competencia;
 
 VIII. Coadyuvar con la Unidad de Planeación, Vinculación y Asuntos Internacionales en la implementación de los mecanismos de información, divulgación y promoción de la competencia y libre concurrencia en el ámbito nacional e internacional;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+VIII BIS. Auxiliar a la Unidad de Planeación, Vinculación y Asuntos Internacionales en la realización de análisis regulatorios y documentos de promoción de la competencia;
 
 > <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
@@ -1356,6 +2104,26 @@ IX BIS 1. Apoyar en la preparación de la participación del Titular de la Unida
 IX BIS 2. (DEROGADA, D.O.F. 11 DE JULIO DE 2019)
 
 X. Las demás que le deleguen o encomienden el Presidente o el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales; así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+Artículo 40 BIS.- Corresponde al Director Ejecutivo de Análisis Regulatorio y Colaboración con el Sector Público:
+
+I. Colaborar en la elaboración y seguimiento de un inventario de regulaciones que la Comisión ha identificado como potencialmente contrarias a los preceptos de competencia y libre concurrencia;
+
+II. Sugerir modificaciones a las regulaciones con el fin de que incorporen y promuevan los principios de competencia y libre concurrencia en los mercados del país;
+
+III. Proponer la intervención de la Comisión conforme a sus facultades cuando se identifique alguna regulación que potencialmente limite la competencia y la libre concurrencia; coordinar la ejecución de dichas intervenciones cuando éstas recaigan en las facultades de la Unidad de Planeación, Vinculación y Asuntos Internacionales, y contribuir a la elaboración de opiniones que someta el Presidente ante el Pleno;
+
+IV. Determinar oportunidades temáticas y coordinar la elaboración de cuadernos de promoción de la cultura de la competencia relacionados con el análisis regulatorio, otras políticas y contratación pública;
+
+V. Proponer criterios para la elaboración de notas, presentaciones, y materiales de trabajo para sus superiores jerárquicos sobre temas regulatorios, políticas públicas y procedimientos de contratación pública y su relación o impacto en materia de competencia y libre concurrencia en los mercados nacionales;
+
+VI. Determinar y ejecutar proyectos, capacitaciones y otras acciones de colaboración con distintos actores del sector público y capacitación a funcionarios públicos que fomenten la competencia y la libre concurrencia;
+
+VII. Colaborar con el Titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales o con el Director General de Promoción a la Competencia en la preparación de materiales de apoyo relacionados con su participación en reuniones y eventos con actores del sector público nacional, y
+
+VIII. Las demás que le delegue o encomienda el Presidente, el titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales o Director General de Promoción a la Competencia.
 
 ###### ARTÍCULO 41.
 
@@ -1401,103 +2169,229 @@ X. Realizar estudios cualitativos y cuantitativos de la política de competencia
 
 XI. Las demás que le delegue o encomienden el Presidente o el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos.
 
-> <small>(ADICIONADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
 
-Artículo 41 BIS. Corresponde a la Dirección General de Comunicación Social:
+ARTÍCULO 41 BIS.- Corresponde al Director Ejecutivo de Planeación y Evaluación:
+
+I. Dar seguimiento a la aplicación de las acciones estratégicas para el cumplimiento de las metas y objetivos institucionales;
+
+II. Dirigir las labores necesarias para el desarrollo de la planeación estratégica institucional que permitirán definir, o en su caso, revisar y actualizar los objetivos, metas, líneas de acción e indicadores institucionales;
+
+III. Planear la elaboración del Programa Anual de Trabajo de la Comisión, en consideración de las labores sustantivas y adjetivas relevantes para el año de que se trate;
+
+IV. Planear la elaboración de los Informes Trimestrales de Actividades en consideración de las acciones y resultados alcanzados durante el periodo a informar;
+
+V. Planear la elaboración de los informes sobre el desempeño y gestión de la Comisión;
+
+VI. Elaborar y proponer al Director General de Planeación y Evaluación la agenda de la Comisión en materia de rendición de cuentas y asegurar su cumplimiento;
+
+VII. Elaborar el proyecto de mapa de riesgos de la Comisión, la estrategia para su seguimiento y control, así como apoyar al Director General de Planeación y Evaluación en los asuntos relacionados con revisiones y auditorías llevadas a cabo a la Comisión;
+
+VIII. Coordinar la estrategia de trabajo para la generación de datos estadísticos e indicadores, así como la obtención de información relevante para el desarrollo de evaluaciones externas sobre las actividades y resultados de la Comisión;
+
+IX. Supervisar que las evaluaciones sobre las actividades de la Comisión realizadas por instituciones públicas o privadas nacionales o extranjeras cumplen con el rigor metodológico necesario;
+
+X. Apoyar en la realización de estudios cualitativos y cuantitativos sobre la política de competencia, y
+
+XI. Las demás que le delegue o encomiende el Presidente, el titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales o Director General de Planeación y Evaluación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 41 TER.- Corresponde a la Dirección General de Comunicación Social:
 
 I. Ejecutar la política de comunicación social y de relaciones públicas que determine el Presidente, de conformidad con las disposiciones jurídicas en la materia;
 
-II. Informar a la opinión pública sobre los asuntos de la competencia de la Comisión en los términos de las disposiciones aplicables;
+II. Impulsar la Estrategia y Programa anual de Comunicación Social de la Comisión;
 
-III. Diseñar las publicaciones que determine el Presidente;
+III. Instruir y someter a aprobación del Presidente las acciones de comunicación social en los medios de difusión operados por la Comisión;
 
-IV. Captar, analizar y procesar la información de los medios de comunicación, referente a los acontecimientos de interés de la Comisión; y
+IV. Instruir y someter a aprobación del Presidente las acciones de comunicación interna de la Comisión;
 
-V. Las demás que le delegue o encomiende el Presidente.
+V. Informar a la opinión pública sobre los asuntos de la competencia de la Comisión en los términos de las disposiciones aplicables;
+
+VI. Instruir y someter a aprobación del Presidente la generación, edición, diseño y publicación de los materiales que determine el Presidente;
+
+VII. Coordinar y vigilar el monitoreo diario de la información que se publique en los medios de comunicación sobre la Comisión y temas relacionados con la competencia económica y la libre concurrencia, y
+
+VIII. Las demás que le delegue o encomiende el Presidente.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 41 TER 1.- Corresponde al Director Ejecutivo de Comunicación Social:
+
+I. Identificar y proponer las oportunidades de comunicación y las acciones de difusión de la Estrategia y Programa Anual de Comunicación Social de la Comisión, así como la ejecución de la misma;
+
+II. Emitir y coordinar el desarrollo de los mensajes, argumentos, líneas discursivas, comunicados de prensa, artículos, historias, diseño gráfico, audio, video y otros materiales de comunicación;
+
+III. Dirigir y ejecutar las acciones de comunicación en los medios de difusión operados por la Comisión;
+
+IV. Atender las solicitudes de información que hagan los periodistas y reporteros y promover la presencia de la Comisión en los medios de comunicación;
+
+V. Dirigir y ejecutar el monitoreo diario de la información que se publique en los medios de comunicación, incluidas las redes sociales y otros medios digitales, sobre la Comisión y otros temas relacionados, de interés y de utilidad para la Comisión;
+
+VI. Coordinar y ejecutar las acciones de comunicación interna de la Comisión;
+
+VII. Desarrollar y proponer la redacción y diseño gráfico de los materiales que serán utilizados en las acciones planteadas en la Estrategia y Programa de Comunicación Social anual, y
+
+VIII. Las demás que le delegue o encomiende el Presidente, el titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales o el Director General de Comunicación Social.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 ### Capítulo VIII. Del Órgano Interno de Control
 
-> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 42.
 
-Para el despacho de los asuntos de su competencia, el Órgano Interno de Control tendrá adscritas a su cargo el Área de Responsabilidades, el Área de Auditoría Interna, el Área de Control Interno y el Área de Quejas, quienes a su vez se auxiliarán de los servidores públicos a su cargo y de los recursos necesarios para el cumplimiento de su objeto, lo que estará sujeto a la disponibilidad presupuestaria de la Comisión.
-
-Para efectos de las atribuciones que la Ley y la Ley General de Responsabilidades Administrativas le confieren al Órgano Interno de Control de la Comisión, serán consideradas como Autoridades Investigadoras, Substanciadoras y Resolutoras, las siguientes:
-
-I. Autoridades Investigadoras:
-
-a) Titular del Órgano Interno de Control; y
-
-b) el Titular del Área de Quejas.
-
-II. Autoridades Substanciadoras:
-
-a) Titular del Órgano Interno de Control; y
-
-b) el Titular del Área de Responsabilidades.
-
-III. Autoridades Resolutoras en materia de faltas administrativas no graves:
-
-a) Titular del Órgano Interno de Control; y
-
-b) el Titular del Área de Responsabilidades.
-
-El Titular del Órgano Interno de Control en ningún caso podrá ejercer las funciones de Autoridad Investigadora y Autoridad Substanciadora o Resolutora en un mismo asunto, y garantizará la independencia entre quienes ejerzan dichas funciones.
+El Órgano Interno de Control de la Comisión está dotado de autonomía técnica y de gestión para decidir sobre su organización y funcionamiento. Para el despacho de los asuntos de su competencia, el Órgano Interno de Control tendrá adscritas a su cargo, el Área de Substanciación y Resolución de Responsabilidades, el Área de Investigación de Denuncias, el Área de Auditoría Interna, y el Área de Control Interno y Mejora de la Gestión, quienes contarán con los servidores públicos a su cargo y de los recursos necesarios para el cumplimiento de su objeto, lo que estará sujeto a la disponibilidad presupuestaria de la Comisión.
 
 > <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
-###### ARTÍCULO 43.
+Para efectos de las atribuciones que la Ley y la Ley General de Responsabilidades Administrativas le confieren al Órgano Interno de Control de la Comisión, serán consideradas como Autoridades Investigadoras, Substanciadoras y Resolutoras, las siguientes:
 
-Corresponde al Titular del Órgano Interno de Control, además de las atribuciones de las unidades administrativas que le están adscritas:
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+I. Autoridades Investigadoras:
+
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+a) Titular del Órgano Interno de Control; y
+
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+b) Titular del Área de Investigación de Denuncias.
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+II. Autoridades Substanciadoras:
+
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+a) Titular del Órgano Interno de Control; y
+
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+b) Titular del Área de Substanciación y Resolución de Responsabilidades.
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+III. Autoridades Resolutoras en materia de faltas administrativas no graves:
+
+> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+a) Titular del Órgano Interno de Control; y
+
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+b) Titular del Área de Substanciación y Resolución de Responsabilidades.
+
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+La función de la Autoridad Substanciadora en ningún caso podrá ser ejercida por una Autoridad investigadora en un mismo asunto. El Titular del Órgano Interno de Control garantizará la independencia entre quienes ejerzan dichas funciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+###### Artículo 43.
+
+Corresponde al Titular del Órgano Interno de Control, además de las atribuciones de las áreas que le están adscritas:
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 I. Las establecidas en la Ley a cargo del Órgano Interno de Control;
 
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 II. Nombrar y remover a los servidores públicos a su cargo;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 III. Planear, programar, organizar, dirigir y evaluar el desempeño de las funciones encomendadas a las áreas a su cargo;
 
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 IV. Declarar sin efectos nombramientos o contratos en casos de omisión en la declaración correspondiente en términos de la normativa aplicable en materia de responsabilidades administrativas de servidores públicos;
 
-V. Resolver los recursos de revisión que se interpongan en contra de las resoluciones emitidas por el Titular del Área de Responsabilidades en las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas de la Comisión, en los términos previstos en las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+V. Resolver los recursos de revisión que se interpongan en contra de las resoluciones emitidas por el Titular del Área de Substanciación y Resolución de Responsabilidades en las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas de la Comisión, en los términos previstos en las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 VI. Tramitar los procedimientos de conciliación previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, Ley de Obras Públicas y Servicios Relacionados con las Mismas y en toda otra disposición normativa aplicable a la Comisión en materia de Contrataciones Públicas;
 
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 VII. Conocer e investigar los procedimientos de sanción a proveedores, licitantes o contratistas;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 VIII. Recibir denuncias por hechos probablemente constitutivos de faltas administrativas a cargo de los servidores públicos o de los particulares por conductas sancionables en términos de la Ley General de Responsabilidades Administrativas; investigar y calificar las faltas administrativas que detecte, así como llevar a cabo las acciones que procedan conforme a dicho ordenamiento;
 
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 IX. Sustanciar, en su caso y en términos de Ley General de Responsabilidades Administrativas, el procedimiento de responsabilidad administrativa e imponer las sanciones respectivas, cuando se trate de faltas Administrativas no graves, así como remitir al Tribunal Federal de Justicia Administrativa los procedimientos de responsabilidad administrativa cuando se refieran a faltas administrativas graves y por conductas de particulares sancionables conforme a la Ley General de Responsabilidades Administrativas, para su resolución en términos de dicho ordenamiento;
 
-X. Ordenar y realizar, por sí o por conducto de las áreas a su cargo, inspecciones, auditorías y visitas de verificación e informar de su resultado a los titulares de las unidades administrativas auditadas y al Presidente;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+X. Ordenar y realizar, por sí o por conducto de las áreas a su cargo, inspecciones, auditorías, revisiones, intervenciones, verificaciones y visitas de verificación e informar de su resultado a los titulares de las unidades administrativas auditadas y al Presidente;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 XI. Requerir información, datos, documentos y demás elementos necesarios a las áreas de la Comisión e incluso a diversos organismos gubernamentales o personas jurídicas para el cumplimiento de sus funciones;
 
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 XII. Emitir las resoluciones que procedan respecto de los recursos de revocación que se interpongan en contra de las resoluciones por la comisión de faltas administrativas no graves emitidas en los procedimientos de responsabilidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 XIII. Atender y, en su caso, proporcionar la información y documentación que soliciten las (sic) órganos e instancias que integran el Sistema Nacional Anticorrupción;
 
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 XIV. Cumplir con las normas jurídicas en materia de transparencia y acceso a la información pública que le sean aplicables en el ejercicio de sus atribuciones, guardando estricta reserva sobre la información y documentos que conozcan, así como de sus actuaciones y observaciones derivadas del ejercicio de sus funciones;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 XV. Emitir cuando así proceda constancia de no inhabilitación, previa consulta al Registro de Servidores Públicos Sancionados;
 
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 XVI. Expedir las copias certificadas o realizar cotejos de documentos para el cumplimiento de sus funciones;
 
-XVII. Llevar a cabo la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales; y
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-XVIII. Las demás que se señalen en otras disposiciones jurídicas aplicables en materia de responsabilidad administrativa de los servidores públicos, en lo que no contravengan lo dispuesto en la Ley.
+XVII. Emitir conforme a los lineamientos que expida el Sistema Nacional Anticorrupción, el Código de Ética que deberán observar los servidores públicos de la Comisión, así como darle la máxima publicidad;
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XVIII. Iniciar el proceso para sancionar a los responsables y recuperar el daño causado, cuando los contratos de la Comisión hayan sido suscritos y otorgados mediante tráfico de influencias y corrupción, causando afectación a los intereses institucionales;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XIX. Informar a la Cámara de Senadores del Congreso de la Unión, cuando tenga conocimiento de hechos que se (sic) actualicen alguna de las causales de remoción de algún comisionado, previstas en la Ley;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XX. Llevar a cabo la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XXI. Las demás que se señalen en otras disposiciones jurídicas aplicables en materia de responsabilidad administrativa de los servidores públicos, en lo que no contravengan lo dispuesto en la Ley.
 
 > <small>(ADICIONADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 ARTÍCULO 43 BIS. Corresponde a las Áreas adscritas al Órgano Interno de Control:
 
-I. Elaborar e integrar, en el ámbito de sus atribuciones, los informes que deba presentar el Titular del Órgano Interno de Control;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+I. Elaborar e integrar, en el ámbito de sus atribuciones, el plan anual de trabajo y evaluación de su competencia y someterlo a la aprobación del Titular del Órgano Interno de Control, así como los informes que deba presentar;
 
 II. Recibir y dar respuesta puntual a las consultas y solicitudes de opinión que le formulen las diferentes unidades administrativas de la Comisión, en el ámbito de sus atribuciones;
 
-III. Solicitar la información y efectuar visitas a las áreas y órganos de la Comisión, así como solicitar la colaboración y apoyo de otras autoridades o instituciones, públicas o privadas, para el cumplimento de sus funciones;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+III. Solicitar la información y efectuar las auditorías, inspecciones, visitas, revisiones o intervenciones, según corresponda, a las áreas y órganos de la Comisión, así como solicitar la colaboración y apoyo de otras autoridades o instituciones, públicas o privadas, para el cumplimento de sus funciones;
 
 IV. Expedir copias certificadas, certificaciones, cotejar o compulsar los documentos existentes en los archivos de las áreas a su cargo, observando lo dispuesto por la normativa de transparencia y acceso a la información pública tratándose de información reservada o confidencial; llevar los registros de los asuntos de su competencia, así como administrar los sistemas informáticos que requiera para realizar sus funciones;
 
@@ -1505,35 +2399,83 @@ V. Las establecidas en la Ley General de Responsabilidades Administrativas y dem
 
 VI. Coordinar y supervisar los actos de su competencia, y mantener informado al Titular del Órgano Interno de Control sobre el desarrollo de sus actividades;
 
-VII. Cumplir con las normas jurídicas en materia de transparencia y acceso a la información pública que le sean aplicables en el ejercicio de sus atribuciones, guardando estricta reserva sobre la información y documentos que conozcan, así como de sus actuaciones y observaciones derivadas del ejercicio de sus funciones; y
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-VIII. Las demás que le confiera el Titular del Órgano Interno de Control, este Estatuto y otras disposiciones jurídicas aplicables, en el ámbito de sus respectivas atribuciones.
+VII. Cumplir con las normas jurídicas en materia de transparencia y acceso a la información pública que le sean aplicables en el ejercicio de sus atribuciones, guardando estricta reserva sobre la información y documentos que conozcan, así como de sus actuaciones y observaciones derivadas del ejercicio de sus funciones;
 
-> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+VIII. Coordinar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de faltas administrativas y hechos de corrupción, así como de proponer el informe al Comité Coordinador del Sistema Nacional Anticorrupción respecto a las recomendaciones de la atención que se dé a éstas y, en su caso, sus avances y resultados;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+IX. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos de acuerdo a la designación que al efecto emita el Titular del Órgano Interno de Control;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+X. Llevar a cabo la defensa jurídica, de conformidad con las leyes aplicables, en los juicios que se promuevan en contra de las resoluciones o actos que emita el Titular o cada una de las Áreas del Órgano Interno de Control, según corresponda, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XI. Las demás que le confiera el Titular del Órgano Interno de Control, este Estatuto y otras disposiciones jurídicas aplicables, en el ámbito de sus respectivas atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 44.
 
-Corresponde al Titular del Área de Responsabilidades:
+Corresponde al Área de Substanciación y Resolución de Responsabilidades:
 
-I. Las establecidas en la Ley General de Responsabilidades Administrativas para las Autoridades Substanciadoras o Resolutoras;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+I. Ejercer las atribuciones establecidas en la Ley General de Responsabilidades Administrativas en su calidad de Autoridad Substanciadora y/o Resolutora, según corresponda;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 II. Dictar las resoluciones en los recursos de revocación interpuestos en contra de las resoluciones emitidas en los procedimientos de responsabilidad administrativa por la comisión de faltas administrativas no graves;
 
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 III. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 IV. Iniciar, instruir y resolver el procedimiento de intervención de oficio, si así lo considera conveniente por presumir la inobservancia de las disposiciones en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
 
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 V. Tramitar, instruir y resolver los procedimientos administrativos de sanción a personas físicas o morales por infracciones a las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas y demás disposiciones en materia de Contrataciones Públicas, e imponer las sanciones correspondientes;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 VI. Tramitar los procedimientos de conciliación en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con los mismos derivados de las solicitudes de conciliación que presenten los proveedores o contratistas por incumplimiento a los contratos o pedidos celebrados con la Comisión;
 
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 VII. Instruir los recursos de revisión que se hagan valer en contra de las resoluciones de inconformidades e intervenciones de oficio, así como en contra de las resoluciones por las que se impongan sanciones a los licitantes, proveedores y contratistas en los términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas y la normatividad aplicable a la Comisión en materia de Contrataciones Públicas y someterlos a la resolución del Titular del Órgano Interno de Control;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 VIII. Declarar sin efectos nombramientos o contratos en casos de omisión en la declaración correspondiente en términos de la normativa aplicable en materia de responsabilidades administrativas de servidores públicos;
 
-IX. Llevar a cabo la defensa jurídica, de conformidad con las leyes aplicables, en los juicios que se promuevan en contra de las resoluciones o actos que emita el Titular y/o las Áreas del Órgano Interno de Control, con excepción de aquella que le corresponda al Área de Quejas en materia de responsabilidades administrativas; y
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-X. Interponer el recurso de revisión de conformidad con lo dispuesto en la Ley General de Responsabilidades Administrativas.
+IX. Admitir, desechar o tener por no presentado el Informe de Presunta Responsabilidad Administrativa, que le haga llegar el Área de Investigación de Denuncias. y en su caso, iniciar la substanciación del procedimiento de responsabilidad administrativa que corresponda;
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+X. Substanciar el procedimiento de responsabilidades administrativas hasta el cierre de instrucción, cuando se trate de faltas administrativas no graves;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XI. Substanciar el procedimiento de responsabilidades administrativas hasta el cierre de la audiencia inicial, cuando se trate de faltas administrativas graves y de faltas de particulares, así como remitir al Tribunal Federal de Justicia Administrativa, los autos originales del expediente para la continuación del procedimiento y su resolución;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XII. Llevar el control y procurar la inscripción de las sanciones y abstenciones pronunciadas en relación con los servidores públicos y las sanciones a los particulares, licitantes, proveedores o contratistas, en los registros instituidos al efecto en la normatividad, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XIII. Interponer el recurso de revisión de conformidad con lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
 > <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
@@ -1547,67 +2489,183 @@ II. Revisar que las operaciones presupuestales que realice la Comisión, se haga
 
 III. Verificar, conforme a los criterios y disposiciones aplicables en materia de auditoría y fiscalización, la correcta y legal aplicación de los bienes de la Comisión;
 
-IV. Promover, ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-V. Comunicar al Área de Quejas, para los efectos de sus respectivas atribuciones, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión, que en el ejercicio de sus funciones llegase a conocer;
+IV. Promover, ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías, revisiones, intervenciones, verificaciones o visitas de inspección dictadas;
 
-VI. Ordenar y realizar las auditorías en cumplimiento de sus atribuciones;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+V. Hacer del conocimiento del Titular del Área de Investigación de Denuncias, por medio de informe, los hallazgos derivados de auditorías, revisiones, intervenciones, verificaciones al cumplimiento de la normatividad, visitas de inspección o verificación, que pudieran configurar responsabilidad administrativa a cargo de los servidores públicos adscritos a la Comisión, así como de situaciones derivadas de dichos hallazgos que pudieran constituir responsabilidad penal, para que se proceda conforme a lo correspondiente;
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+VI. Ordenar y realizar las auditorías, revisiones, intervenciones, verificaciones al cumplimiento de la normatividad y visitas de inspección o verificación, para revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales, así como en ejercicio de las facultades dispuestas en las fracciones II, V, VIII y IX del artículo 39 de la Ley;
 
 VII. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión de mandos medios y superiores, en los términos de la normativa aplicable;
 
-VIII. Ordenar y realizar la verificación en materia de adquisiciones, arrendamientos, servicios y obras públicas, conforme a lo establecido en las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-IX. Supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleva a cabo en los términos de las disposiciones en la materia, así como llevar a cabo las verificaciones procedentes en caso de detectar anomalías;
+VIII. Supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleva a cabo en los términos de las disposiciones en la materia;
 
-X. Proponer al Titular del Órgano Interno de Control incorporaciones al Plan Anual de Trabajo y de evaluación de dicho Órgano; y
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-XI. Llevar a cabo la defensa jurídica de los actos que realice en el ejercicio de sus funciones.
+IX. Requerir a licitantes, invitados a contrataciones, terceros, personas físicas, morales, instituciones, organizaciones, entidades públicas, gubernamentales o privadas, contratistas, proveedores, prestadores de servicios, análogos, y similares, respecto de los contratos y operaciones presupuestales de la Comisión, la documentación e información que resulte necesaria, para la realización de auditorías, revisiones, intervenciones, verificaciones al cumplimiento de la normatividad y visitas de inspección o verificación, inherentes a sus funciones;
 
-> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+X. Comunicar al Titular del Órgano Interno de Control, situaciones de incumplimientos de plazos de entrega de documentación o información requerida en ejercicio de sus funciones, situaciones de oposición, obstrucción o resistencia al ejercicio de sus facultades, desacatos y similares en ejercicio de sus funciones, para que se dispongan las medidas que correspondan;
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XI. Implementar acciones de fiscalización, vigilancia y seguimiento encaminadas a comprobar el apego y cumplimiento a las disposiciones en materia de adquisiciones, arrendamientos, servicios y obras públicas en todas las áreas de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XII. Revisar que el ejercicio del gasto de la Comisión se haya realizado conforme a la normativa aplicable, los programas aprobados y montos autorizados;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XIII. Verificar en cualquier momento por sí mismo o a través de los servidores públicos adscritos al área de Auditoría Interna, el desarrollo de los actos sobre concursos o tendientes al otorgamiento de cualquier contrato o pedido, así como el cumplimiento de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XIV. Ejecutar las acciones de coordinación que requiera la Auditoría Superior de la Federación, previa instrucción del Titular del Órgano Interno de Control de la Comisión, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XV. Realizar el seguimiento a las recomendaciones y acciones de mejora derivadas de las auditorías y revisiones practicadas a las Áreas de la Comisión y, en su caso, a las determinadas por otras instancias de fiscalización y comunicar el resultado al Titular del Órgano Interno de Control y a los responsables de las áreas auditadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 46.
 
-Corresponde al Titular del Área de Control Interno:
+Corresponde al Titular del Área de Control Interno y Mejora de la Gestión:
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 I. Evaluar los mecanismos establecidos por la Comisión, con el objeto de adoptar las medidas necesarias para el fortalecimiento del control interno, y con ello la prevención de faltas administrativas y hechos de corrupción de los servidores públicos de la Comisión, en términos de lo establecido en el Sistema Nacional Anticorrupción;
 
-II. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+II. Proponer a las Unidades Administrativas de la Comisión, previo acuerdo con el Titular del Órgano Interno de Control, el establecimiento de controles específicos, mecanismos de vigilancia, que coadyuven a mejorar la gestión de las áreas;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
 
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
 IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión, empleando la metodología que determine;
 
-V. Asesorar a la Comisión en los procesos que involucren el ejercicio de recursos presupuestales;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+V. Ordenar y realizar las visitas, revisiones o intervenciones de control interno, para efectos de verificar que el estado del control interno institucional opere de manera razonable, determinando, en su caso, las acciones de mejora y recomendaciones que resulten procedentes;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 VI. Asesorar a la Comisión en materia de control interno, administración de riesgos, integridad, prevención, disuasión y detección de actos de corrupción, para sugerir acciones que tiendan a su fortalecimiento institucional y control interno y con ello la prevención de faltas administrativas y hechos de corrupción e incorporar las mejores prácticas para fomentar la transparencia y rendición de cuentas en la gestión institucional;
 
-VII. Valorar las recomendaciones que realice el Comité Coordinador del Sistema Nacional Anticorrupción a las autoridades, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional y control interno y con ello la prevención de faltas administrativas y hechos de corrupción; y
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-VIII. Llevar a cabo la defensa jurídica de los actos que realice en el ejercicio de sus funciones.
+VII. Valorar las recomendaciones que realice el Comité Coordinador del Sistema Nacional Anticorrupción a las autoridades, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional y control interno y con ello la prevención de faltas administrativas y hechos de corrupción;
 
-> <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+VIII. Dar cumplimiento con los lineamientos de la Plataforma Digital Nacional relativa a los nombres y adscripción de los servidores públicos que intervengan en procedimientos de contrataciones públicas en cumplimiento con los protocolos de Comité Coordinador del Sistema Nacional Anticorrupción;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+IX. Fungir como enlace de transparencia y acceso a la información pública del Órgano Interno de Control para atender las solicitudes de acceso a la información, en términos de las disposiciones de la materia;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+X. Evaluar tanto el Informe Anual del estado que guarda Sistema de Control Interno de la Comisión, como el Informe Anual de Administración de Riesgos de la Comisión y presentar por escrito de manera oportuna al Titular del Órgano Interno de Control, su opinión y comentarios relevantes sobre dichos informes, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XI. Proponer y opinar sobre las acciones institucionales referentes a ética y valores institucionales, así como a la observación de los Códigos de Ética y conducta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 47.
 
-Corresponde al Titular del Área de Quejas:
+Corresponde al Titular de Investigación de Denuncias:
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 I. Las establecidas en la Ley General de Responsabilidades Administrativas para las autoridades investigadoras;
 
-II. Investigar, de conformidad con las disposiciones jurídicas aplicables, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-III. Recibir denuncias e investigar las infracciones a las disposiciones que regulan las contrataciones públicas de la Comisión por parte de los licitantes, proveedores o contratistas y resolver lo que en derecho proceda respecto de la existencia o no de presuntas infracciones a la normatividad y, en su caso, promover ante la autoridad competente el inicio del procedimiento respectivo;
+II. Recibir las denuncias que se presenten y formulen por la probable comisión de faltas administrativas derivadas de actos u omisiones de los servidores públicos de la Comisión o de particulares por conductas sancionables en términos de la Ley General de Responsabilidades Administrativas, o cualquier otra disposición jurídica aplicable, y ordenar la práctica de las investigaciones, actuaciones y demás diligencias que se requieran para determinar la presunta responsabilidad;
 
-IV. Conocer previamente a la presentación de una inconformidad, las irregularidades que a juicio de los interesados se hayan cometido en los procedimientos de adjudicación de adquisiciones, arrendamientos y servicios, así como respecto de obras públicas y servicios relacionados con las mismas que lleve a cabo la Comisión a efecto de que dichas irregularidades se corrijan cuando así proceda;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-V. Recibir las declaraciones de situación patrimonial y de intereses de los servidores públicos de la Comisión e inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal de todos los servidores públicos de la Comisión, en los términos que al efecto fije la Secretaría Ejecutiva del Sistema Nacional Anticorrupción;
+III. Iniciar las investigaciones de oficio, por denuncia o derivadas de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos, por la presunta responsabilidad por faltas administrativas de los servidores públicos de la Comisión o de particulares por conductas sancionables en términos de las disposiciones jurídicas aplicables;
 
-VI. Realizar una verificación aleatoria de las declaraciones de situación patrimonial, de intereses y la constancia de presentación de declaración fiscal de los servidores públicos, así como de su evolución patrimonial, emitiendo en su caso la certificación correspondiente por no detectarse anomalía o iniciar la investigación respectiva, en caso de detectarlas;
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-VII. Solicitar información o documentación a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas, así como la relativa a la declaración patrimonial y de intereses, incluyendo la de los cónyuges, concubinas o concubinarios y dependientes económicos directos del declarante;
+IV. Llevar a cabo de oficio las revisiones, intervenciones, verificaciones, investigaciones y visitas de necesarias para la investigación de probables faltas administrativas;
 
-VIII. Ordenar la práctica de visitas de verificación, las cuales se sujetarán a lo previsto en la Ley Federal de Procedimiento Administrativo; y
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-IX. Llevar a cabo la defensa jurídica de los acuerdos o resoluciones que emita ante las diversas instancias jurisdiccionales, así como presentar denuncias ante el Ministerio Público, actuando como coadyuvante del mismo en el procedimiento penal respectivo.
+V. Hacer los requerimientos a las personas físicas o morales, públicas o privadas que sean sujetos de investigación por presuntas irregularidades cometidas en el ejercicio de sus funciones, o para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos.
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+VI. Solicitar información o documentación a cualquier persona física o moral y a autoridades competentes, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas, incluyendo aquella que las disposiciones legales en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de infracciones.
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+VII. Determinar la existencia o inexistencia de actos u omisiones que las disposiciones jurídicas señalen como falta administrativa y, en su caso, calificarla como grave o no grave;
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+VIII. Emitir el Informe de Presunta Responsabilidad Administrativa y presentarlo ante la autoridad substanciadora a efecto de que, en su caso, inicie el procedimiento de responsabilidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+IX. Emitir el acuerdo de conclusión y archivo del expediente y notificarlo a los servidores públicos y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+X. Llevar a cabo investigaciones, revisiones, verificaciones, intervenciones o auditorias para verificar la evolución del patrimonio de los declarantes;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XI. Hacer uso de las medidas de apremio que establece el artículo 97 de la Ley General de Responsabilidades Administrativas;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XII. Solicitar las medidas cautelares a las autoridades substanciadoras o resolutoras, según corresponda;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XIII. Impugnar la abstención de las autoridades substanciadoras o resolutoras de iniciar el procedimiento de responsabilidad administrativa de conformidad con lo establecido en el artículo 101 de la Ley General de Responsabilidades Administrativas;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XIV. Realizar aleatoriamente la verificación de las declaraciones patrimoniales que obren en el Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como llevar a cabo investigaciones para verificarla evolución del patrimonio de los servidores públicos y en su caso determinar los efectos correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XV. Revisar y analizar el proyecto de acuerdo de conclusión y archivo del expediente de investigación cuando así proceda y el oficio notificando tal sentido al denunciante; así como supervisar la notificación del mismo;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XVI. Llevar los registros y libros de gobierno de los asuntos de su competencia, así como expedir las copias certificadas de los documentos que se encuentren en sus archivos y de aquellos que tenga a la vista para su cotejo y certificación con motivo de las investigaciones a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XVII. Llevar a cabo la defensa jurídica de los acuerdos o resoluciones que emita ante las diversas instancias jurisdiccionales, así como presentar denuncias ante el Ministerio Público, actuando como coadyuvante del mismo en el procedimiento penal respectivo.
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XVIII. Cooperar con las autoridades nacionales e internacionales a fin de fortalecer los procedimientos de investigación, compartir las mejores prácticas internacionales, y combatir de manera efectiva la corrupción, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+XIX. Las demás que le confieran la Ley General de Responsabilidades Administrativas, otros ordenamientos jurídicos aplicables, así como aquellas funciones que le encomiende el Titular del Órgano Interno de Control de la Comisión.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
@@ -1629,6 +2687,10 @@ Los demás órganos de transparencia de la Comisión se regirán conforme al Reg
 
 ARTÍCULO 48 BIS.- La Comisión contará con Comités Calificadores cuya función será determinar en qué casos cierta información será susceptible de protección por contener comunicaciones que tengan como finalidad la obtención de asesoría legal. La integración y forma de operación de dichos Comités serán los establecidos en las Disposiciones Regulatorias.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+Los Comités Calificadores podrán expedir copias certificadas o realizar cotejos de documentos o información que obren en sus archivos, relacionados con los procedimientos a su cargo.
+
 ### Capítulo X. De las Suplencias y los cargos provisionales
 
 ###### ARTÍCULO 49.
@@ -1645,11 +2707,13 @@ I. El Secretario Técnico será suplido por el Director General de Asuntos Jurí
 
 II. El titular de la Autoridad Investigadora será suplido por el titular de la Oficina de Coordinación. En ausencia de este último, por el Director General de Investigaciones de Prácticas Monopólicas Absolutas.
 
-III. El titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales será suplido por el Director General de Planeación y Evaluación. En ausencia de éste, por el Director General de Promoción de la Competencia; y
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE JULIO DE 2019)</small>
+III. El titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales será suplido por el Director General de Planeación y Evaluación. En ausencia de éste, por el Director General de Promoción de la Competencia, salvo disposición en contrario, y
 
-IV. Los Directores Generales serán suplidos por los servidores públicos que ellos designen o que sean designados por el Secretario Técnico o los titulares de la Autoridad Investigadora y de la Unidad de Planeación, Vinculación y Asuntos Internacionales, según corresponda, mediante acuerdo de suplencia.
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+IV. Los Directores Generales serán suplidos por los servidores públicos que ellos designen o que sean designados por el Pleno, el Secretario Técnico o los titulares de la Autoridad Investigadora y de la Unidad de Planeación, Vinculación y Asuntos Internacionales, según corresponda, mediante acuerdo de suplencia, salvo disposición en contrario.
 
 > <small>(ADICIONADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
@@ -1717,13 +2781,19 @@ II. Las solicitudes de reunión se realizarán vía correo electrónico instituc
 
 III. El servidor público guardará constancia de la entrevista, a fin de integrarla al registro de la Comisión, y deberá señalar fecha y hora de la reunión y comunicarlo al solicitante vía correo electrónico institucional.
 
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2020)</small>
+
+Las entrevistas señaladas podrán hacerse en las oficinas de la Comisión o a través de medios electrónicos.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 57.
 
 La Autoridad Investigadora no estará sujeta a las reglas de contacto sobre entrevistas señaladas en el artículo 56 del presente Estatuto, cuando se trate de reuniones de las que puedan derivar elementos de identificación de fuentes que provengan del beneficio de reducción de sanciones, tratándose de prácticas monopólicas absolutas.
 
-Las entrevistas de la Autoridad Investigadora que se realicen respecto de los supuestos señalados anteriormente, podrán llevarse a cabo en lugares distintos a las oficinas de la Comisión, siempre y cuando estén presentes al menos dos servidores públicos.
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2020)</small>
+
+Las entrevistas de la Autoridad Investigadora que se realicen respecto de los supuestos señalados anteriormente podrán llevarse a cabo en lugares distintos a las oficinas de la Comisión o por medios electrónicos, siempre y cuando estén presentes al menos dos servidores públicos.
 
 La Autoridad Investigadora deberá llevar a cabo un estricto control interno de las convocatorias y desarrollo de las reuniones a que se refiere este precepto, información que será clasificada como confidencial.
 
@@ -1800,3 +2870,9 @@ D.O.F. 11 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA".]
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA”.]
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
