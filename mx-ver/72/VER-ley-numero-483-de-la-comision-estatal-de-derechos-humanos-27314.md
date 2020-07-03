@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-483-de-la-comision-estatal-de-derechos-humanos-27314
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-27"
-last_updated: "2018-11-16"
+last_updated: "2020-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 483 DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JULIO DE 2020.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 27 de diciembre de 2002.
 
@@ -113,11 +113,11 @@ XIV. Expedir su Reglamento Interno; y
 
 XV. Las demás que otorguen la Constitución Política Local, esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 5.
 
-La Comisión no es competente para conocer de asuntos electorales, laborales, agrarios y jurisdiccionales en cuanto al fondo; el conocimiento de quejas relacionadas con estas materias sólo se admitirá y conocerá por parte de la Comisión, cuando se trate de actos u omisiones administrativas de carácter procesal. Tampoco será competente respecto a consultas que formulen las autoridades, los particulares u otras entidades sobre interpretación de disposiciones constitucionales y legales, ni en aquellos casos en que se pueda comprometer o vulnerar su autonomía o su autoridad moral.
+La Comisión no es competente para conocer de asuntos electorales, agrarios y jurisdiccionales en cuanto al fondo. Tampoco lo será respecto de consultas que formulen las autoridades, los particulares u otras entidades sobre interpretación de disposiciones constitucionales y legales, ni en aquellos casos en que se pueda comprometer o vulnerar su autonomía moral.
 
 Para los efectos de esta Ley y de su Reglamento son asuntos jurisdiccionales en cuanto al fondo, todas las resoluciones que se regulan en las normas procesales de los ordenamientos jurídicos de las diferentes materias del derecho.
 
@@ -670,3 +670,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 3 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 573 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 5 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS PARA EL ESTADO DE VERACRUZ”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
