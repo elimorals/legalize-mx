@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-259-de-adopciones-para-el-estado-de-veracruz-de-8175
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-20"
-last_updated: "2011-06-20"
+last_updated: "2020-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 LEY DE ADOPCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JULIO DE 2020.
 
-Ley publicada en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 20 de junio de 2011.
+Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 20 de junio de 2011.
 
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
@@ -57,9 +57,11 @@ La presente Ley es de orden público, interés social y de observancia general e
 
 Mediante esta Ley se establecen los principios y las funciones de las instituciones, lineamientos y procedimientos necesarios para que las adopciones se realicen bajo el interés superior del niño, niña o adolescente, y su aplicación corresponde a los órganos que integran la Administración Pública del Estado.
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 2.
 
-En lo no previsto por esta Ley, se aplicarán las disposiciones de los Códigos Civil y de Procedimientos Civiles para el Estado de Veracruz de Ignacio de la Llave.
+En lo no previsto por esta Ley, se aplicarán las disposiciones de los Códigos Civil y de Procedimientos Civiles para el Estado de Veracruz de Ignacio de la Llave, así como las disposiciones contenidas en las Leyes General y Estatal de los Derechos de Niñas, Niños y Adolescentes.
 
 ###### ARTÍCULO 3.
 
@@ -95,9 +97,17 @@ XIV. Niño o niña: Persona de hasta doce años de edad incumplidos;
 
 XV. Principio de subsidiariedad: Prioridad de colocar en su propio país a los niños, niñas y adolescentes sujetos a adopción, o bien en un entorno cultural y lingüístico próximo al de su procedencia;
 
-XVI. Procuraduría: El Titular de la Procuraduría de la Defensa del Menor, la Familia y el Indígena; y
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2020)</small>
 
-XVII. Reglamento: El Reglamento de la Ley de Adopciones para el Estado de Veracruz de Ignacio de la Llave.
+XVI. Procuraduría: La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE JULIO DE 2020)</small>
+
+XVII. Registro Estatal: El Registro Estatal de Niñas, Niños, Adolescentes expósito o abandonados; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE JULIO DE 2020)</small>
+
+XVIII. Reglamento: El Reglamento de la Ley de Adopciones para el Estado de Veracruz de Ignacio de la Llave.
 
 ## TÍTULO SEGUNDO
 
@@ -119,15 +129,25 @@ V. La búsqueda de una opción familiar externa a la familia de origen, cuando �
 
 VI. La prevalencia del principio de subsidiariedad, para que los niños, niñas y adolescentes sean otorgados en adopción preferentemente dentro de su lugar de origen y del territorio nacional;
 
-VII. El de corresponsabilidad o concurrencia de las autoridades competentes, familia y sociedad en general, en la garantía de respeto a los derechos de niñas, niños y adolescentes y en la atención de los mismos; y
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2020)</small>
 
-VIII. El de la tutela plena e igualitaria de los derechos humanos de niñas, niños y adolescentes.
+VII. El de corresponsabilidad o concurrencia de las autoridades competentes, familia y sociedad en general, en la garantía de respeto a los derechos de niñas, niños y adolescentes y en la atención de los mismos;
+
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2020)</small>
+
+VIII. El de la tutela plena e igualitaria de los derechos humanos de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, G.O. 3 DE JULIO DE 2020)</small>
+
+IX. El de prontitud, por el que las autoridades deberán resolver la situación jurídica de niñas, niños y adolescentes, y con ello accedan a un proceso de adopción expedito, ágil, simple y guiado siempre por el interés superior de la niñez.
 
 ###### ARTÍCULO 5.
 
 Para los fines de esta Ley, se prohíbe:
 
-I. La adopción del niño o niña aún no nacido;
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2020)</small>
+
+I. La adopción de niña o niño aún no nacido y la promesa de adopción durante el proceso de gestación;
 
 II. La adopción privada, entendida como la acción en la cual la madre o el padre biológicos, o representantes legales, pactan dar en adopción de manera directa y voluntaria al niño, niña o adolescente a los supuestos padre o madre adoptivos;
 
@@ -137,9 +157,25 @@ IV. Toda adopción contraria a las disposiciones establecidas en leyes federales
 
 V. A las personas que solicitan la adopción, cualquier relación con entidades públicas o privadas, nacionales o extranjeras, dedicadas al acogimiento temporal y al cuidado de niños, niñas y adolescentes susceptibles de adopción;
 
-VI. Toda relación entre madre o padre adoptivos con la madre o padre biológicos del niño, niña o adolescente sujeto a adopción, o con cualquier persona involucrada en este proceso, con excepción de los casos en que los adoptantes sean familiares biológicos o de la familia extensa; y
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2020)</small>
 
-VII. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia biológica o extensa del adoptado, o por cualquier persona, así como por entidades públicas o privadas y autoridades involucradas en el proceso de adopción.
+VI. Toda relación entre madre o padre adoptivos con la madre o padre biológicos del niño, niña o adolescente sujeto a adopción, o con cualquier persona involucrada en este proceso, con excepción de los casos en que los adoptantes sean familiares biológicos o de la familia extensa;
+
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2020)</small>
+
+VII. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia biológica o extensa del adoptado, o por cualquier persona, así como por entidades públicas o privadas y autoridades involucradas en el proceso de adopción;
+
+> <small>(ADICIONADA, G.O. 3 DE JULIO DE 2020)</small>
+
+VIII. La adopción por discriminación, entendida como aquella donde se considera al niño, niña o adolescente como valor supletorio o reivindicatorio; y
+
+> <small>(ADICIONADA, G.O. 3 DE JULIO DE 2020)</small>
+
+IX. Estigmatizar o discriminar a las mujeres por su toma de decisiones.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 5 BIS. En todas las adopciones se garantizará el derecho de secrecía, salvo mandato judicial.
 
 ### CAPÍTULO SEGUNDO. DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES ADOPTADOS
 
@@ -169,7 +205,9 @@ II. Que la adopción es benéfica para la persona que se trata de adoptar;
 
 III. Ser apto y adecuado para adoptar, de conformidad con el certificado de idoneidad que emita el DIF Estatal, por conducto del Consejo;
 
-IV. Tener buena salud física y mental, lo cual se acreditará mediante certificado médico y psicológico reciente, emitido por institución pública competente;
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2020)</small>
+
+IV. Tener buena salud física y mental, lo cual se acreditará mediante certificado médico y psicológico; dichos documentos deberán tener una antigüedad no mayor a 90 días al día de su presentación, y deberán ser emitidos por institución pública competente;
 
 V. No tener antecedentes penales; y
 
@@ -219,7 +257,9 @@ I. El Director General, quien lo presidirá;
 
 II. La Procuraduría, quien fungirá como Secretario Técnico;
 
-III. El Secretario Ejecutivo del Consejo Estatal de Asistencia para la Niñez y la Adolescencia, quien fungirá como Consejero Vocal;
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2020)</small>
+
+III. El Secretario Ejecutivo del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Veracruz, quien fungirá como Consejero Vocal;
 
 IV. El Titular de la Dirección de Asistencia e Integración Social, como Consejero Vocal;
 
@@ -228,6 +268,14 @@ V. El Titular de la Dirección de Asuntos Jurídicos, quien fungirá como Consej
 VI. El Titular de la Contraloría Interna, quien fungirá como órgano fiscalizador.
 
 Los integrantes del Consejo tendrán voz y voto en las sesiones, con excepción del Titular de la Contraloría Interna, quien no podrá votar. En caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+El Consejo contará con la participación permanente de representantes del Poder Legislativo, del Poder Judicial, Fiscalía General del Estado y de la Comisión Estatal de Derechos Humanos, respectivamente, quienes desempeñarán las funciones establecidas en el artículo 21 de esta Ley y tendrán derecho a voz, pero sin derecho a voto.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+La designación de estas representaciones, titular y suplente, deberá recaer en servidores públicos que desempeñen funciones en áreas relacionadas a la aplicación de la presente Ley, en las materias de derechos de familia o derechos de niñas, niños y adolescentes, respectivamente, y cuyo cargo no sea inferior al de Titular de Dirección de área u homólogo.
 
 ###### ARTÍCULO 16.
 
@@ -323,9 +371,17 @@ b) Los archivos de los expedientes de adopción;
 
 c) Los archivos de los expedientes que integran la lista de espera;
 
-d) El Libro de Gobierno donde se asienta el nombre de los solicitantes que ingresan a la lista de espera; y
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2020)</small>
 
-e) Los documentos relativos a los juicios de adopción.
+d) El Libro de Gobierno donde se asienta el nombre de los solicitantes que ingresan a la lista de espera;
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2020)</small>
+
+e) Los documentos relativos a los juicios de adopción; y
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+f) El Registro Estatal de Niñas, Niños y Adolescentes, Expósitos y Abandonados.
 
 XII. Proporcionar a los miembros del Consejo la información que requieran;
 
@@ -359,9 +415,11 @@ Contra las resoluciones del Consejo podrán interponerse los recursos que corres
 
 ### CAPÍTULO PRIMERO. DE LAS ADOPCIONES
 
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 24.
 
-El proceso de adopción se iniciará en vía de jurisdicción voluntaria ante el Juez de Primera Instancia o notario público que corresponda por el domicilio del niño, niña o adolescente.
+El procedimiento administrativo de adopción será iniciado y tendrá su seguimiento ante la Procuraduría de conformidad con esta Ley y su Reglamento. El procedimiento judicial de adopción comenzará una vez que se haya obtenido por parte de los solicitantes el correspondiente Certificado de idoneidad, y deberá tramitarse ante el Juzgado en materia familiar competente en el Distrito Judicial de la Procuraduría, de conformidad con esta Ley y los Códigos Civil y de Procedimientos Civiles para el Estado de Veracruz de Ignacio de la Llave.
 
 ###### ARTÍCULO 25.
 
@@ -374,6 +432,38 @@ El término para oponerse a lo dispuesto por el artículo anterior no podrá ser
 ###### ARTÍCULO 27.
 
 Al declararse a un niño, niña o adolescente como expósito o en estado de abandono, la Procuraduría promoverá el juicio de pérdida de patria potestad, y solicitará además la custodia provisional del menor, hasta en tanto se resuelva su situación jurídica de manera definitiva.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+El juzgado de lo familiar dispondrá de noventa días hábiles improrrogables para emitir la sentencia interlocutoria que resuelva sobre la patria potestad de niñas, niños o adolescentes abandonados o expósitos. Dicho término será contado a partir del día siguiente al de la presentación de la demanda, de acuerdo a lo previsto por el artículo 720 del Código de Procedimientos Civiles para el Estado de Veracruz.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 27 BIS. Se contará con un Registro Estatal de Niñas, Niños y Adolescentes Expósitos y Abandonados, mismo que será de carácter permanente y de interés público. Se regirá bajo los siguientes parámetros:
+
+I. Los datos que integran el Registro Estatal, serán estrictamente confidenciales no podrán ser comunicados o darse a conocer, salvo que se trate de la petición de una autoridad dentro de un procedimiento en donde se encuentre en riesgo la integridad de niñas, niños y adolescentes y sea rigurosamente necesaria para la prosecución del mismo;
+
+II. Tendrá acceso exclusivo al Registro Estatal la Procuraduría para el cumplimiento de las funciones señaladas en la fracción anterior, y no podrá dársele o destinarse a otra finalidad u objetivo distinto al de esta Ley;
+
+III. El Registro contendrá como mínimo, la siguiente información identificativa:
+
+a) Nombre de la niña, niño o adolescente;
+
+b) Nombre, en caso de ser conocidos, de la madre, padre o tutores de la niña, niño, adolescente;
+
+c) Placa de cada dactilar de la niña, niño o adolescente; y
+
+d) Razón del ingreso al albergue, casa hogar o centro de asistencia;
+
+IV. La Procuraduría estatal y las municipales, los albergues acreditados en la Ley para el Funcionamiento y Operación de Albergues, Centros Asistenciales y Similares del Estado de Veracruz de Ignacio de la Llave, serán los encargados de proporcionar la información necesaria al mismo, el cual será actualizado al momento en que se tenga como recibido a una niña, un niño o adolescente expósito o abandonado;
+
+V. El encargado de recabar la información a que hace referencia el inciso c) fracción III de este artículo, deberá solicitar el auxilio y orientación de servicios periciales, adscritos a la Fiscalía General del Estado, para generar información útil;
+
+VI. El Registro Estatal estará integrado en una plataforma virtual, en donde será asignado un folio único a cada niña, niño o adolescente, para dar seguimiento a su registro individual; y
+
+VII. Para la generación e integración del registro individual deberá cumplir con los parámetros señalados por la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Veracruz de Ignacio de la Llave.
+
+Para el caso de niñas, niños y adolescentes expósitos o abandonados, podrá otorgar el consentimiento para que se haga el registro en la plataforma el Ministerio Público que conozca del abandono.
 
 ###### ARTÍCULO 28.
 
@@ -394,6 +484,12 @@ Concluido el periodo de adaptabilidad y en caso de ser favorable el dictamen emi
 ###### ARTÍCULO 32.
 
 El Consejo, una vez autorizada la adopción por parte del Juez, en caso de encontrar alguna irregularidad o violación a los derechos del adoptado, hará del conocimiento tal situación a la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 32 BIS. Cuando por cualquier causa y antes de concretar la adopción, mediante la expedición del acta de nacimiento correspondiente, el adoptante se niegue a recibir al adoptado como hija o hijo, perderá todo derecho para continuar con el trámite de adopción, asentándose tal circunstancia en la base de datos a que hace referencia esta ley.
+
+En estos casos, el Consejo de Adopciones tomará las medidas pertinentes para garantizar los derechos de las niñas, niños y adolescentes, en términos de lo dispuesto en esta Ley.
 
 ###### ARTÍCULO 33.
 
@@ -418,6 +514,10 @@ Las niñas, niños y adolescentes que, en términos de los artículos 34 y 35 de
 ###### ARTÍCULO 37.
 
 Transcurrido el término señalado en el artículo anterior sin que se revoque la entrega voluntaria, se asignará al niño o niña a una familia sustituta y se dará inicio al proceso de adopción.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2020)</small>
+
+ARTÍCULO 37 BIS. Una vez que cause ejecutoria la resolución judicial autorizando la adopción, quedará consumada en términos de lo establecido en el Código Civil para el Estado, que en todo caso será plena e irrevocable.
 
 ### CAPÍTULO SEGUNDO. DE LAS ADOPCIONES INTERNACIONALES
 
@@ -474,3 +574,21 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 3 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 574 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL, CÓDIGO DE PROCEDIMIENTOS CIVILES, ASÍ COMO DE LA LEY DE ADOPCIONES, TODOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Ejecutivo Estatal, dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto, deberá actualizar el Reglamento de la Ley de Adopciones para el Estado de Veracruz de Ignacio de la Llave considerando en todo momento el interés superior de la niñez.
+
+TERCERO. Los Poderes Legislativo y Judicial, la Comisión Estatal de Derechos Humanos y la Fiscalía General del Estado, conforme a su normatividad interna dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto, designarán a sus representantes titular y suplente ante el Consejo Técnico de Adopciones, en los términos de los artículos 15 y 16 de la Ley de Adopciones del Estado.
+
+CUARTO. Dentro de los noventa días posteriores a la entrada en vigencia del presente Decreto, el Poder Judicial del Estado de Veracruz de Ignacio de la Llave deberá elaborar e implementar los protocolos de actuación para los procedimientos de adopción en el Estado de Veracruz.
+
+QUINTO. El Registro Estatal de Niñas, Niños y Adolescentes Expósitos y Abandonados a que hace alusión el artículo 27 Bis de la Ley de Adopciones del Estado comenzará a funcionar el 1 de enero de 2021, por lo que las autoridades competentes deberán tomar las prevenciones materiales, humanas, financieras, administrativas, logísticas e informáticas necesarias para ello.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
