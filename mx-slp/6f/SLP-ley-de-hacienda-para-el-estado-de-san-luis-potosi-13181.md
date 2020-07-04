@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2019-07-16"
+last_updated: "2020-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -577,17 +577,35 @@ La transmisión de la propiedad que corresponda al pago en especie al fisco, deb
 
 Es objeto de este impuesto el pago por el servicio de hospedaje que se reciba en hoteles, moteles, suites posadas, campamentos, paraderos de casas rodantes y de tiempo compartido, así como en toda clase de establecimientos que presten servicios de esta naturaleza.
 
-No se consideran servicios de hospedaje, el albergue o alojamientos prestados por hospitales, clínicas, asilos, conventos, seminarios, internados y aquellos prestados por establecimientos con fines no lucrativos.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2020)</small>
+
+Para efectos de este impuesto, se consideran servicios de hospedaje la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación. No se consideran servicios de hospedaje, el albergue o alojamientos prestados por hospitales, clínicas, asilos, conventos, seminarios, internados y aquellos prestados por establecimientos con fines no lucrativos.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2020)</small>
+
+Cuando el servicio de hospedaje se preste a través o con intención de una persona física o moral con carácter de intermediario, promotor o facilitador en el cobro de contraprestaciones por el servicio de hospedaje por medio de aplicaciones, plataformas digitales y similares, éste deberá retener y enterar el impuesto.
 
 ###### ARTICULO 30.
 
 Son sujetos al pago del impuesto que establece este capítulo todas las personas físicas o morales que dentro del Estado de San Luis Potosí reciban los servicios mencionados en el artículo anterior.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2020)</small>
+
+El contribuyente trasladará el impuesto en forma expresa y por separado a las personas que reciban los servicios de hospedaje, entendiéndose por traslado del impuesto, el cobro o cargo que el contribuyente debe de hacer a las personas que reciben los servicios de hospedaje, por el monto equivalente al impuesto establecido en el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2020)</small>
+
+ARTICULO 30 BIS. Las personas físicas o morales que en su carácter de intermediaros, promotoras o facilitadoras que intervengan a través de aplicaciones, plataformas digitales y similares en el cobro de las contraprestaciones por servicios de hospedaje, deberán inscribirse en el padrón de contribuyentes como retenedores de impuesto.
+
+Los sujetos de este impuesto que obtengan el ingreso por los servicios de hospedaje mediante los cobros que realicen los intermediarios, promotoras o facilitadoras a través de las aplicaciones, plataformas tecnológicas y similares, podrán acreditar el impuesto retenido contra el impuesto que hubieran causado.
+
 ###### ARTICULO 31.
 
 La base para el cálculo y determinación del impuesto será el importe pagado en efectivo, bienes o servicios, considerando solo el albergue sin incluir alimentos, demás servicios relacionados y el impuesto al valor agregado.
 
-Para estos efectos, el prestador del servicio de hospedaje, deberá realizar el desglose correspondiente en el comprobante fiscal que expida.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2020)</small>
+
+Para estos efectos, el prestador del servicio de hospedaje deberá realizar el desglose correspondiente en el comprobante fiscal que expida. De no identificar, desglosar o comprobar los demás servicios distintos al de hospedaje, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
 Tratándose de servicios de hospedaje bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
 
@@ -597,9 +615,21 @@ Tratándose de servicios de hospedaje bajo el sistema o modalidad de uso en tiem
 
 El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, una tasa del tres por ciento.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2020)</small>
+
+En el caso de los prestadores de servicio de hospedaje ofertados a través de plataformas digitales contemplados por esta Ley, la tasa será del 1.5%.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2020)</small>
+
+La retención a la que se refiere el párrafo último del artículo 29 de este capítulo, se deberá efectuar hasta por el monto total del impuesto causado.
+
 ###### ARTICULO 33.
 
 Este impuesto se causará en el momento de pago por la prestación del servicio de hospedaje recibido.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2020)</small>
+
+La retención a la que se refiere el párrafo último del artículo 29 de este capítulo, se realizará en el momento del pago por la prestación del servicio de hospedaje recibido, a través de las aplicaciones, plataformas tecnológicas y similares.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -607,9 +637,17 @@ Este impuesto se causará en el momento de pago por la prestación del servicio 
 
 Los prestadores de servicios de hospedaje, deberán calcular el impuesto y trasladarlo al momento del cobro; mensualmente enterarán el monto recaudado mediante declaración provisional, a cuenta del impuesto anual, utilizando los formatos aprobados por la Secretaría de Finanzas. Las declaraciones se presentarán en las oficinas recaudadoras o establecimientos autorizados, correspondientes al domicilio del prestador de los servicios de hospedaje en los plazos siguientes:
 
-I. Tratándose de personas físicas, a más tardar el día 19 siguiente al mes en que se retuvo el impuesto; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2020)</small>
 
-II. Tratándose de personas morales a más tardar el día 17 siguiente al mes en que se retuvo el impuesto.
+I. Tratándose de personas físicas, a más tardar el día 19 siguiente al mes en que se retuvo el impuesto;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2020)</small>
+
+II. Tratándose de personas morales a más tardar el día 17 siguiente al mes en que se retuvo el impuesto, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2020)</small>
+
+III. Tratándose de personas físicas o morales obligadas a retener y enterar el impuesto en términos del párrafo último del artículo 29 de este capítulo, a más tardar el día 17 siguiente al mes en que se cause y retenga el impuesto.
 
 El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración ante la Oficina Recaudadora correspondiente al domicilio fiscal del contribuyente dentro de los tres meses siguientes al cierre del ejercicio.
 
@@ -3354,5 +3392,13 @@ P.O. 16 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0200.- SE ADICIONA AL ARTÍCULO 38, PÁRRAFO ÚLTIMO, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0706.- SE REFORMA LOS ARTÍCULOS 29 EN SU PÁRRAFO SEGUNDO, 31 EN SU PÁRRAFO SEGUNDO Y 34 EN SUS FRACCIONES I Y II; Y ADICIONA A LOS ARTÍCULOS 29 EL PÁRRAFO TERCERO, 30 EL PÁRRAFO SEGUNDO, EL ARTÍCULO 30 BIS, 32 LOS PÁRRAFOS SEGUNDO Y TERCERO, 33 EL PÁRRAFO SEGUNDO Y 34 LA FRACCIÓN III, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente a partir del uno de enero de 2021, previa su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
