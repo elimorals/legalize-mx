@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2020-06-25"
+last_updated: "2020-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2020.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -141,13 +141,17 @@ XXII. Hecho de tránsito: choque de un vehículo en movimiento contra otro vehí
 
 XXIII. Hidrante: boca de riego o tubo de descarga de líquidos con válvula;
 
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2020)</small>
+
+XXIII Bis. Informe policial homologado: documento elaborado por un Perito de Hechos de Tránsito, a través del cual se realiza el levantamiento, captura, revisión y envío de la información, oportuna, confiable y veráz respecto de hechos presumiblemente constitutivos de delito y/o de una falta administrativa;
+
 XXIV. Infracción: conducta que lleva a cabo un conductor, peatón o pasajero, que transgrede algunas disposiciones de esta Ley, o los reglamentos, y que tiene como consecuencia una sanción;
 
 XXV. Licencia de conducir: documento que la autoridad estatal competente otorga a una persona para conducir un vehículo;
 
 XXVI. Número de identificación vehicular NIV: combinación de diecisiete caracteres asignados al vehículo al momento de su fabricación, o su registro en el padrón nacional;
 
-XXVII. Parte: acta y croquis que debe elaborar un perito en hechos de tránsito;
+XXVII. (DEROGADA, P.O. 4 DE JULIO DE 2020)
 
 XXVIII. Pasajero: la persona que se encuentra a bordo de un vehículo y no tiene carácter de conductor;
 
@@ -277,7 +281,9 @@ VII. Auxiliar dentro del marco legal al Ministerio Público, así como a las aut
 
 VIII. Elaborar y mantener permanentemente actualizadas las estadísticas que resulten necesarias para la eficaz prestación del servicio de tránsito;
 
-IX. Elaborar los reportes de accidente y partes informativas de los hechos de tránsito ocurridos en carreteras o áreas estatales de que tome conocimiento, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2020)</small>
+
+IX. Elaborar e integrar el informe policial homologado respecto de los hechos de tránsito ocurridos en carreteras o áreas estatales de que tome conocimiento, y
 
 X. Las que esta Ley y las demás disposiciones legales señalen.
 
@@ -1760,3 +1766,13 @@ P.O. 25 DE JUNIO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0705.- SE REFORMA EL ARTÍCULO 12 EN SU FRACCIÓN IX; ADICIONA AL ARTÍCULO 6º LA FRACCIÓN XXIII BIS Y DEROGA DEL ARTÍCULO 6º LA FRACCIÓN XXVII, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Una vez vigente el presente Decreto, se otorga el plazo de ciento veinte días naturales a efecto de que los 58 municipios del Estado de San Luis Potosí, realicen las modificaciones a sus reglamentos correspondientes.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
