@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-notariado-para-el-estado-de-san-luis-potosi-16520"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-27"
-last_updated: "2009-07-30"
+last_updated: "2020-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSI
+LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de abril de 2000.
 
@@ -1173,7 +1173,9 @@ c) Por cualquier otra violación menor, tal como no llevar índices, y no empast
 
 d) Por incumplimiento de las obligaciones estipuladas en el artículo 6º de esta Ley;
 
-II. Multa de cien a cuatrocientas veces el salario mínimo general de la región:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE JULIO DE 2020)</small>
+
+II. Multa de cien a cuatrocientas veces el valor de la unidad de medida y actualización vigente:
 
 a) Por reincidir en alguna de las infracciones antes señaladas;
 
@@ -1663,11 +1665,11 @@ Una vez que obren todas las pruebas dentro del expediente que se formará con mo
 
 Si estima que el notario público en contra de quien se interpuso la queja incurrió en alguna responsabilidad administrativa, lo comunicará al titular del Poder Ejecutivo en los términos del artículo 137 de esta Ley, notificándole a los interesados su resolución dentro de los tres días hábiles siguientes.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2020)</small>
 
 ###### ARTICULO 191.
 
-Si resulta que los hechos contenidos en la queja no son ciertos, se impondrá al quejoso una sanción de veinticinco veces el salario mínimo diario vigente en el Estado.
+Si resulta que los hechos contenidos en la queja no son ciertos, se impondrá al quejoso una sanción de veinticinco veces la unidad de medida y actualización vigente.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
 
@@ -1726,3 +1728,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. En tanto no cuenten con los equipos informáticos necesarios, las notarías públicas y las autoridades competentes a que se refiere el presente Decreto, se podrá presentar el informe de aviso de testamento impreso en papel, hasta por un periodo de seis meses contados a partir de la entrada en vigor del mismo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 4 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0708.- SE REFORMA (SIC) LOS ARTÍCULOS 138 EN SU FRACCIÓN II EL PÁRRAFO PRIMERO Y 191, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
