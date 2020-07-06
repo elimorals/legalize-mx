@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-11814
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2017-01-25"
+last_updated: "2020-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2020.
 
 Ley publicada en la Sección Quinta al Número 126 del Periódico Oficial del Estado de Nayarit, el martes 27 de diciembre de 2016.
 
@@ -363,7 +361,11 @@ IX. Expedir reglas técnicas, procedimientos, métodos y sistemas de archivo de 
 
 X. Expedir oficios de comisión, credenciales y demás documentos necesarios para el desempeño de las funciones que les sean conferidas;
 
-XI. Expedir nombramientos del personal de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
+
+XI. Designar a los titulares de la Secretaría Ejecutiva, del Órgano Interno de Control, de la Dirección General de Administración, titulares de unidades, directores de área, coordinadores, jefaturas, auditores, y demás servidores públicos, así como expedir nombramientos del personal de la Auditoría Superior del Estado;
+
+Los titulares de la Secretaría Ejecutiva, del Órgano Interno de Control y de la Dirección General de Administración durarán un periodo de 4 años en el cargo y podrán ser ratificados hasta por un periodo adicional.
 
 XII. Requerir a los titulares de los sujetos fiscalizables, la remisión de información y documentación específica para el cumplimiento de la función de Fiscalización Superior;
 
@@ -387,9 +389,23 @@ XXI. Presidir de forma conjunta con el titular de la Secretaría de la Contralor
 
 XXII. Formar parte del Comité Coordinador del Sistema Nacional Anticorrupción en los términos del artículo 127 fracción I, de la Constitución Política del Estado Libre y Soberano de Nayarit y la Ley Local de la materia;
 
-XXIII. Establecer los mecanismos necesarios para fortalecer la participación ciudadana en la rendición de cuentas, y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
 
-XXIV. Las demás que señalen esta ley y las disposiciones legales aplicables.
+XXIII. Establecer los mecanismos necesarios para fortalecer la participación ciudadana en la rendición de cuentas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2020)</small>
+
+XXIV. Remitir propuesta de los titulares de los auditores especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y de la Dirección General de Asuntos Jurídicos al Congreso del Estado para su designación o ratificación, previa entrevista.
+
+Esta atribución no la podrán ejercer los Auditores Especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y la Dirección General de Asuntos Jurídicos cuando hagan las veces de encargado de despacho de la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
+
+XXV. Solicitar información y documentación complementaria de los avances de Gestión Financiera para efectos de planeación de la fiscalización de la cuenta pública, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 6 DE JULIO DE 2020)</small>
+
+XXVI. Las demás que señalen esta ley y las disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -405,29 +421,49 @@ Las ausencias temporales mayores a quince días naturales deberán ser autorizad
 
 No requerirán autorización las ausencias temporales que se motiven por la comisión de actividades oficiales propias del encargo dentro o fuera del Estado o aquellas que deriven del goce de los periodos vacacionales a los cuales tenga derecho. De éstas sólo deberá dar aviso a la Comisión.
 
-En cualquier caso, las ausencias temporales del Auditor Superior serán suplidas por el subalterno que señale el Reglamento Interior de la Auditoría Superior del Estado.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
+
+En cualquier caso, las ausencias temporales del Auditor Superior serán suplidas por los auditores especiales designados por el Congreso del Estado de Auditoría Financiera, de Obra Pública o del Desempeño o por el titular de la Dirección General de Asuntos Jurídicos, en el respectivo orden de prelación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
 
 ###### Artículo 17.
 
-Para el mejor desempeño de sus funciones, la Auditoría Superior del Estado en su estructura administrativa contará con auditores especiales, titulares de unidades, directores generales, directores de área, coordinadores, jefaturas, auditores, y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior del Estado, de conformidad con el presupuesto autorizado.
+Para el mejor desempeño de sus funciones, la Auditoría Superior del Estado en su estructura administrativa contará con auditores especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño, la Secretaría Ejecutiva, la Dirección General de Asuntos Jurídicos, el Órgano Interno de Control y la Dirección General de Administración, así como titulares de unidades, directores de área, coordinadores, jefaturas, auditores, y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior del Estado, de conformidad con el presupuesto autorizado.
 
 La Auditoría Superior del Estado, en los términos de su reglamento interior, contará además con un órgano interno de control, con las facultades para prevenir, corregir e investigar actos u omisiones que, en el ámbito de su competencia pudieran constituir responsabilidades administrativas para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-###### Artículo 18.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
 
-Para ejercer el cargo de Auditor Especial se deberán cumplir además de lo previsto por las fracciones I, II, V, VI, y VII del artículo 13 de esta ley, con los siguientes requisitos:
+###### Articulo 18.
 
-I. Tener cuando menos, treinta años cumplidos al día de la designación;
+Para ejercer el cargo de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y la Dirección General de Asuntos Jurídicos se deberán cumplir los siguientes requisitos:
 
-II. Poseer, al día del nombramiento, título y cédula profesional de licenciatura, expedidos por autoridad o institución legalmente facultada para ello, y
+I. Ser mexicano, en pleno ejercicio de sus derechos, sin tener antes o durante el encargo la doble nacionalidad;
 
-III. Contar al momento de su designación con una experiencia de al menos tres años en la Administración Pública, preferentemente en el control, manejo o fiscalización de recursos públicos.
+II. Haber residido en el Estado durante los últimos tres años, salvo el caso de ausencia en servicio de la República o del Estado;
 
-Los Auditores Especiales durarán en su encargo cuatro años, los cuales podrán ser ratificados por el Auditor Superior, por una sola vez, y para su remoción deberá considerarse el contenido del artículo 20 de esta Ley.
+III. Tener cuando menos, treinta años cumplidos al día de la designación;
+
+IV. Poseer al día del nombramiento, título y cédula profesional en las áreas contables, económico-administrativas, jurídicas, financieras, de obra pública o infraestructura para los perfiles afines, expedido por autoridad o institución facultada para ello, y con una antigüedad mínima de cinco años;
+
+V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+VI. No haber sido Gobernador, Magistrado, Fiscal General, miembro del Consejo de la Judicatura, Senador, Diputado Federal o local, Presidente, Regidor, Sindico o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación;
+
+VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución General y la ley de la materia, y
+
+VIII. Contar al momento de su designación con una experiencia de al menos tres años en la Administración Pública, preferentemente en el control, manejo o fiscalización de recursos públicos.
+
+Los Auditores Especiales y el titular de la Dirección General de Asuntos Jurídicos durarán en su encargo cuatro años, los cuales serán designados por el Congreso del Estado con el voto de la mayoría de los Diputados presentes de entre las propuestas que remita para tal efecto el Auditor Superior, previa entrevista de la Comisión y podrán ser nombrados nuevamente por un periodo adicional a propuesta del Auditor Superior por el Congreso del Estado.
+
+Podrán ser removidos por el Congreso por las faltas graves a las que se refiere esta ley, con la misma votación requerida para su nombramiento o por las causas y conforme a los procedimientos previstos en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Nayarit y las normas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
 
 ###### Artículo 19.
 
-El Auditor Superior y los Auditores Especiales durante el ejercicio de su cargo, tendrán prohibido:
+El Auditor Superior, los auditores especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y el titular de la Dirección General de Asuntos Jurídicos durante el ejercicio de su cargo, tendrán prohibido:
 
 I. Formar parte de partido político alguno, participar en actos políticos partidistas y hacer cualquier tipo de propaganda o promoción partidista;
 
@@ -461,9 +497,11 @@ VIII. Incurrir en cualquiera de las conductas consideradas faltas administrativa
 
 La Comisión dictaminará sobre la existencia de los motivos de la remoción del Auditor Superior por causas graves de responsabilidad administrativa, y deberá dar derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes del Congreso.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
+
 ###### Artículo 22.
 
-El Auditor Superior y los Auditores Especiales sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación de la Auditoría Superior del Estado o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
+El Auditor Superior, los auditores de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y el titular de la Dirección General de Asuntos Jurídicos sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación de la Auditoría Superior del Estado o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
 
 ###### Artículo 23.
 
@@ -479,13 +517,17 @@ La Auditoría Superior del Estado elaborará su proyecto de presupuesto anual qu
 
 Los servidores públicos de la Auditoría Superior del Estado se clasifican como trabajadores de confianza y trabajadores de base, y se regirán por el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y el Estatuto Jurídico de los Trabajadores al Servicio del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
+
 ###### Artículo 26.
 
-Son trabajadores de confianza: El Auditor Superior, los Auditores Especiales, titulares de unidades, directores generales, directores de área, coordinadores, jefaturas de departamento, auditores y los demás trabajadores que tengan tal carácter conforme a lo previsto en el Estatuto Jurídico de los Trabajadores al Servicio del Estado y el Reglamento Interior de la Auditoría Superior del Estado.
+Son trabajadores de confianza: El Auditor Superior, los Auditores Especiales de Auditoría Financiera, Auditoría de Obra Pública y la Auditoría al Desempeño, la Secretaría Ejecutiva, el Titular del Órgano Interno de Control, la Dirección General de Asuntos Jurídicos y la Dirección General de Administración, así como titulares de unidades, directores de área, coordinadores, jefaturas, auditores, y demás servidores públicos que tengan tal carácter conforme a lo previsto en la Ley Laboral Burocrática del Estado de Nayarit y el Reglamento Interior de la Auditoría Superior del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
 
 ###### Artículo 27.
 
-Son trabajadores de base los que desempeñen labores en puestos no incluidos en el párrafo anterior y que estén previstos con tal carácter en el Estatuto Jurídico para los Trabajadores al Servicio del Estado, Municipios, e Instituciones Descentralizadas de Carácter Estatal.
+Son trabajadores de base los que desempeñen labores en puestos no incluidos en el párrafo anterior y que estén previstos con tal carácter en la Ley Laboral Burocrática del Estado de Nayarit.
 
 La relación jurídica de trabajo se entiende establecida entre el Congreso, a través del Auditor Superior y los trabajadores a su servicio para todos los efectos.
 
@@ -505,7 +547,9 @@ III. Recibir el Informe General e Informes Individuales que presente la Auditor�
 
 IV. Citar y, en su caso, requerir documentación o información específica al Auditor Superior para conocer y profundizar en el estudio y análisis del Informe General e Informes Individuales de la fiscalización de las cuentas públicas;
 
-V. Presentar al Pleno del Congreso la terna propuesta de los candidatos a ocupar el cargo de Auditor Superior, así como la solicitud de su remoción de conformidad a lo dispuesto por la ley;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
+
+V. Presentar al Pleno del Congreso, la terna propuesta de los candidatos a ocupar los cargos de Auditor Superior, así como la solicitud de su remoción respectiva de conformidad a lo dispuesto por la ley;
 
 VI. Conocer y realizar las investigaciones sobre las quejas, denuncias o inconformidades en contra de los servidores públicos de la Auditoría Superior del Estado que presenten los sujetos de fiscalización, los particulares y cualquier persona física o moral, pública o privada, siempre y cuando aporten pruebas idóneas por el incumplimiento de las disposiciones legales;
 
@@ -523,9 +567,11 @@ XII. Las demás que le atribuyan expresamente las disposiciones legales y la nor
 
 Para el cumplimiento de las atribuciones que esta ley le otorga a la Comisión, ésta contará con los servicios de apoyo técnico de la Contraloría Interna del Congreso y de la asesoría que éste apruebe de conformidad a las posibilidades presupuestales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
+
 ###### Artículo 29.
 
-Cualquier ciudadano en pleno ejercicio de sus derechos y bajo su más estricta responsabilidad, podrá presentar ante la Comisión, denuncia escrita por la que se solicite la remoción del Auditor Superior o de alguno de los Auditores Especiales de la Auditoría Superior del Estado, sujetándose a las siguientes formalidades:
+Cualquier ciudadano en pleno ejercicio de sus derechos y bajo su más estricta responsabilidad, podrá presentar ante la Comisión, denuncia escrita por la que se solicite la remoción del Auditor Superior o de alguno de los Auditores Especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y el titular de la Dirección General de Asuntos Jurídicos de la Auditoría Superior del Estado, sujetándose a las siguientes formalidades:
 
 I. Presentar ante la Comisión, el escrito de denuncia señalando nombre y domicilio para recibir notificaciones, y la causa grave de las previstas en el artículo 20 de esta ley, por la que solicita la remoción;
 
@@ -1147,13 +1193,17 @@ Dip. Jorge Humberto Segura López, Presidente.- Rúbrica.- Dip. José Ángel Mar
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintiséis días del mes de Diciembre del año dos mil dieciséis.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. Jorge Armando Gómez Arias.- Rúbrica.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1386.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Órgano de difusión oficial del Estado.
+P.O. 6 DE JULIO DE 2020.
 
-SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT, EN MATERIA DE PROCEDIMIENTO DE DESIGNACIÓN DE SERVIDORES PÚBLICOS DE LA AUDITORÍA SUPERIOR DEL ESTADO”.]
 
-P.O. 11 DE ABRIL DE 2016.
+Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. La Auditoría Superior del Estado realizará las adecuaciones conducentes a su reglamento dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto.
+
+Tercero. A más tardar dentro del plazo de 30 días naturales siguientes a la entrada en vigor del presente Decreto, se iniciará el procedimiento para nombrar a los Auditores Especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y de la titularidad de la Dirección General de Asuntos Jurídicos.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1801.- MEDIANTE EL CUAL APRUEBA LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
 
