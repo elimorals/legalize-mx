@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fiscalizacion-superior-del-estado-de-aguascalientes-8388
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2017-07-03"
+last_updated: "2020-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE JULIO DE 2020 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de noviembre de 2011.
 
@@ -311,11 +313,15 @@ V. La información a que se refieren las Fracciones I a III de este Artículo, o
 
 Las Entidades Fiscalizadas deberán remitir al Órgano Superior de Fiscalización, toda la documentación comprobatoria y justificativa de las Cuentas Públicas. El Órgano Superior de Fiscalización podrá emitir criterios para que, mediante sistemas electrónicos, se simplifique dicha entrega.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 15.
 
-Las Cuentas Públicas del año anterior deberán ser presentadas al Congreso por los titulares de los Poderes del Estado, Órganos Autónomos y los Ayuntamientos, y en sus recesos, si es el caso, a la Diputación Permanente del Congreso, a más tardar el veintiocho de febrero de cada año. Sólo se podrá ampliar el plazo de presentación de las Cuentas Públicas, cuando medie solicitud de la Entidad Fiscalizada, suficientemente justificada a juicio del Congreso o de la Diputación Permanente; presentada por lo menos con diez días naturales de anticipación a la conclusión del plazo, debiendo comparecer en todo caso el Secretario de Finanzas, el titular del Órgano Autónomo o el Presidente Municipal, según sea el caso, a informar de las razones que lo motiven. En ningún caso la prórroga excederá de quince días naturales. En dicho supuesto, el Órgano Superior de Fiscalización contará, consecuentemente, con el mismo tiempo adicional para presentar el Informe del Resultado.
+Las Cuentas Públicas del año anterior deberán ser presentadas en físico o digital al Congreso por los titulares de los Poderes del Estado, Órganos Autónomos y los Ayuntamientos, y en sus recesos, si es el caso, a la Diputación Permanente del Congreso, a más tardar el veintiocho de febrero de cada año. Sólo se podrá ampliar el plazo de presentación de las Cuentas Públicas, cuando medie solicitud de la Entidad Fiscalizada, suficientemente justificada a juicio del Congreso o de la Diputación Permanente; presentada por lo menos con diez días naturales de anticipación a la conclusión del plazo, debiendo comparecer en todo caso el Secretario de Finanzas, el titular del Órgano Autónomo o el Presidente Municipal, según sea el caso, a informar de las razones que lo motiven. En ningún caso la prórroga excederá de quince días naturales. En dicho supuesto, el Órgano Superior de Fiscalización contará, consecuentemente, con el mismo tiempo adicional para presentar el Informe del Resultado.
 
-Asimismo, los Poderes del Estado, los Municipios y los Organismos Autónomos rendirán al Congreso, a más tardar el día veinte de los meses de abril, julio y octubre del año en que se ejerza el presupuesto respectivo, el Informe de Avance de Gestión Financiera sobre los resultados físicos y financieros de los programas a su cargo, por los periodos correspondientes al primer, segundo y tercer trimestres respectivamente, del ejercicio fiscal en curso. Dicho informe será consolidado y remitido por cada uno de los titulares de los Poderes del Estado o por el Organismo Autónomo correspondiente. El titular del Poder Ejecutivo del Estado, podrá hacerlo a través de la Secretaría de Finanzas, y los Municipios por conducto de su Presidente Municipal.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
+
+Asimismo, los Poderes del Estado, los Municipios y los Organismos Autónomos rendirán al Congreso, a más tardar el día veinte de los meses de abril, julio y octubre del año en que se ejerza el presupuesto respectivo, el Informe de Avance de Gestión Financiera sobre los resultados físicos y financieros de los programas a su cargo en físico o digital, por los periodos correspondientes al primer, segundo y tercer trimestres respectivamente, del ejercicio fiscal en curso. Dicho informe será consolidado y remitido por cada uno de los titulares de los Poderes del Estado o por el Organismo Autónomo correspondiente. El titular del Poder Ejecutivo del Estado, podrá hacerlo a través de la Secretaría de Finanzas, y los Municipios por conducto de su Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -341,9 +347,9 @@ III. Los procesos concluidos; y
 
 IV. La evaluación y, en su caso, reformulación de los programas.
 
-El Órgano Superior de Fiscalización realizará un análisis del informe del Avance de Gestión Financiera dentro de los treinta días hábiles siguientes a la fecha de su presentación y lo entregará a la Comisión para los efectos que considere pertinentes.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
+El Órgano Superior de Fiscalización realizará un análisis del informe del Avance de Gestión Financiera dentro de los treinta días hábiles siguientes a la fecha de su presentación y lo entregará en físico o en digital a la Comisión para los efectos que considere pertinentes.
 
 ###### ARTÍCULO 19.
 
@@ -689,21 +695,29 @@ El incumplimiento a las obligaciones previstas en esta disposición se sancionar
 
 ### CAPÍTULO IV. Del Contenido del Informe de Observaciones Preliminares, del Informe del Resultado, su Análisis y Etapa de Aclaración
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 41.
 
-El Órgano Superior de Fiscalización enviará a las Entidades Fiscalizadas y a sus ex funcionarios cuando el proceso de fiscalización corresponda al período de su gestión, y de ser procedente a otras autoridades competentes, a más tardar el treinta y uno de julio el Informe de Observaciones Preliminares, las recomendaciones y acciones promovidas que correspondan en términos del Artículo 22 de esta Ley.
+El Órgano Superior de Fiscalización enviará en físico o digital a las Entidades Fiscalizadas y a sus ex funcionarios cuando el proceso de fiscalización corresponda al período de su gestión, y de ser procedente a otras autoridades competentes, a más tardar el treinta y uno de julio el Informe de Observaciones Preliminares, las recomendaciones y acciones promovidas que correspondan en términos del Artículo 22 de esta Ley.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
 
-Las Entidades Fiscalizadas deberán presentar la información y las consideraciones que estimen pertinentes al Órgano Superior de Fiscalización para su solventación o atención dentro de un plazo de veinte días hábiles, contados a partir de la fecha en que reciban las observaciones, recomendaciones y acciones promovidas. En caso de no hacerlo, el Órgano Superior de Fiscalización podrá aplicar a los titulares de las áreas administrativas auditadas una multa de cien a seiscientas veces el valor diario de la unidad de medida y actualización, además de promover las acciones legales que correspondan. Lo anterior, no aplicará a los pliegos de observaciones y a las promociones de responsabilidad administrativa sancionatoria, las cuales se sujetarán a los procedimientos y términos que establezca la presente Ley.
+Las Entidades Fiscalizadas deberán presentar en físico o digital la información y las consideraciones que estimen pertinentes al Órgano Superior de Fiscalización para su solventación o atención dentro de un plazo de veinte días hábiles, contados a partir de la fecha en que reciban las observaciones, recomendaciones y acciones promovidas. En caso de no hacerlo, el Órgano Superior de Fiscalización podrá aplicar a los titulares de las áreas administrativas auditadas una multa de cien a seiscientas veces el valor diario de la unidad de medida y actualización, además de promover las acciones legales que correspondan. Lo anterior, no aplicará a los pliegos de observaciones y a las promociones de responsabilidad administrativa sancionatoria, las cuales se sujetarán a los procedimientos y términos que establezca la presente Ley.
 
-Los ex funcionarios de las Entidades Fiscalizadas, tendrán el derecho de contestar las observaciones que formule el Órgano Superior de Fiscalización con motivo de los procesos de fiscalización que correspondan al periodo de su gestión, dentro del plazo señalado en el párrafo inmediato anterior. Para el efecto de contestar las observaciones tendrán derecho a solicitar por escrito la información que consideren pertinente a las Entidades Fiscalizadas, quienes estarán obligadas a entregar al órgano de Fiscalización Superior la información con que se cuente en sus archivos, dentro de un plazo improrrogable de diez días hábiles contados a partir del día siguiente al de la fecha de la presentación de la solicitud correspondiente. También tendrán derecho a solicitar las copias certificadas que requieran.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
+
+Los ex funcionarios de las Entidades Fiscalizadas, tendrán el derecho de contestar en físico o digital las observaciones que formule el Órgano Superior de Fiscalización con motivo de los procesos de fiscalización que correspondan al periodo de su gestión, dentro del plazo señalado en el párrafo inmediato anterior. Para el efecto de contestar las observaciones tendrán derecho a solicitar por escrito la información que consideren pertinente a las Entidades Fiscalizadas, quienes estarán obligadas a entregar al Órgano de Fiscalización Superior la información en físico o digital con que se cuente en sus archivos, dentro de un plazo improrrogable de diez días hábiles contados a partir del día siguiente al de la fecha de la presentación de la solicitud correspondiente. También tendrán derecho a solicitar las copias certificadas que requieran.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 Las acciones promovidas a que se refiere el segundo párrafo de este Artículo, no serán formuladas o emitidas, cuando las Entidades Fiscalizadas o sus ex funcionarios, aporten elementos que solventen las observaciones respectivas, situación que se hará del conocimiento de las mismas y del Congreso por escrito.
 
-El órgano Superior de Fiscalización tendrá un plazo que vence el treinta de septiembre del año en que se entreguen las cuentas públicas, para realizar su examen y rendir a la Legislatura, por conducto de la Comisión, el correspondiente informe del resultado, mismo que tendrá carácter público o una vez que sea sometido al Pleno el dictamen respectivo; mientras ello no suceda, el Órgano Superior de Fiscalización deberá guardar reserva de sus actuaciones e informaciones.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
+
+El Órgano Superior de Fiscalización tendrá un plazo que vence el treinta de septiembre del año en que se entreguen las cuentas públicas, para realizar su examen y rendir a la Legislatura en físico o digital, por conducto de la Comisión, el correspondiente informe del resultado, mismo que tendrá carácter público una vez que sea sometido y aprobado por el Pleno el dictamen respectivo; mientras ello no suceda, el Órgano Superior de Fiscalización deberá guardar reserva de sus actuaciones e informaciones.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 Sólo en el caso de que haya sido autorizada la prórroga prevista en el Artículo 15 de la presente Ley, el Órgano Superior de Fiscalización, contará con el mismo tiempo adicional para la presentación del Informe del Resultado.
 
@@ -2026,3 +2040,7 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE JULIO DE 2020.
+
+> <small>[N. DE E. EL “DECRETO NÚMERO 368.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 15 PÁRRAFOS PRIMERO Y SEGUNDO, 18 ÚLTIMO PÁRRAFO Y 41 PÁRRAFOS PRIMERO, SEGUNDO, TERCERO Y QUINTO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
