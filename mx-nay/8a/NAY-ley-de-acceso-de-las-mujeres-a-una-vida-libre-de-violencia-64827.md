@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2018-12-21"
+last_updated: "2020-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -331,43 +331,69 @@ IV. Los programas de capacitación para el personal adscrito a las dependencias 
 
 V. La celebración de convenios o acuerdos de coordinación entre los Poderes del Estado y de los Municipios para los cambios conductuales y de percepción e interpretación de la ley de quienes laboran para dichos Poderes.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
 
 ###### Artículo 19 Bis.
 
-La violencia política de género es toda acción u omisión, cometida por una o varias personas, que cause daño físico, psicológico, económico, moral o sexual en contra de las mujeres, precandidatas, candidatas, electas o en ejercicio de cualquier cargo público, o en contra de su familia, con el fin de obstaculizar, limitar, impedir o suspender el goce de sus derechos políticos-electorales, o cumplimiento de sus funciones en el ejercicio de su cargo, tomando como base su condición de mujer.
+La violencia política contra las mujeres en razón de género: Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anual o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organizacion, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2020)</small>
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2020)</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
 
 ###### Artículo 19 Ter.
 
-Se consideran actos de violencia política contra las mujeres los siguientes:
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
 
-I. Limitar o condicionar, por razones de género el ejercicio de los derechos políticos de las mujeres;
+I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-II. Limitar, condicionar u obstaculizar el acceso y efectivo ejercicio de sus derechos a las mujeres que sean precandidatas, candidatas, ejerzan un cargo de elección popular o público;
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-III. Proporcionar información incompleta o datos falsos a la autoridad electoral, administrativa o jurisdiccional, con la finalidad de anular las candidaturas de mujeres;
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-IV. Impedir por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a cualquier puesto o encargo público, asistan a la toma de protesta de su encargo, así como a las sesiones o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de género;
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
 
-V. Imponer por estereotipos de género la ejecución de actividades distintas a las atribuciones de su cargo;
+V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
 
-VI. Obligar a las mujeres que se encuentren en el ejercicio de sus encomiendas mediante la fuerza o intimidación a suscribir documentos y/o avalar decisiones contrarias a su voluntad, al interés público o general;
+VI. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
 
-VII. Impedir el ejercicio de sus atribuciones por encontrarse en estado de gravidez o negarles el goce de sus derechos laborales por ese motivo;
+VII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
 
-VIII. Impedir o restringir su reincorporación al cargo cuando hagan uso de una licencia, permisos o derechos conforme a la legislación aplicable;
+VIII. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
 
-IX. Impedir o restringir el ejercicio de sus derechos políticos mediante la imposición de sanciones partidistas o administrativas injustificadas;
+IX. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
 
-X. Los que tengan por objeto obtener, contra su voluntad, la renuncia a la candidatura o cargo;
+X. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
-XI. Impedir o excluir por razones de género el ejercicio de funciones o el cumplimiento de obligaciones en las que deban de intervenir en el ejercicio de su cargo;
+XI. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
 
-XII. Divulgar información en medios masivos de comunicación, que por su contenido pretenda denostar a las mujeres o situarlas en posiciones de vulnerabilidad por su género, con la intención de afectarlas en su desempeño profesional en el ejercicio de cualquier cargo público, y
+XII. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
 
-XIII. Efectuar en contra de las mujeres, cualquier acto de discriminación previsto en la Carta Magna del Estado Mexicano, los instrumentos internacionales firmados y ratificados por México, la Constitución Política local, así como en la Ley para Prevenir y Erradicar la Discriminación en el Estado de Nayarit, que tenga por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público.
+XIII. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+XIV. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+XV. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+XVI. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XVII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XVIII. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+XIX. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+XX. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
+
+XXI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 ### CAPÍTULO IV. DE LA VIOLENCIA EN EL ÁMBITO DE LA COMUNIDAD
 
@@ -711,6 +737,10 @@ La Mesa de Armonización Legislativa y Judicial a que hace alusión el artículo
 
 Las órdenes de protección son personalísimas e intransferibles, de urgente aplicación para proteger a las mujeres de la violencia familiar o sexual, consecuentemente no dictan ni causan estado sobre los bienes o derechos de los probables responsables o infractores, y durarán por el tiempo que determine la legislación aplicable.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2020)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Estatal Electoral de Nayarit y el Instituto Estatal Electoral de Nayarit, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
+
 ###### Artículo 44.
 
 Las órdenes de protección, emergentes y preventivas que consagra la Ley General, serán otorgadas, aplicadas e instrumentadas por los Municipios a través de la Procuraduría de la Defensa del Menor y la Familia, en tanto que las penales o familiares, por el Juez de la materia.
@@ -761,9 +791,11 @@ II. Subsistema Municipal.- Conformado por un representante de cada Municipio, qu
 
 III. Subsistema de Armonización.- Conformado por la Mesa de Armonización Legislativa y Judicial de Discriminación y Violencia de Género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
+
 ###### Artículo 50.
 
-El Sistema Estatal estará integrado por los titulares de las siguientes instituciones:
+El Sistema Estatal se conformará por las personas titulares o representantes legales de:
 
 I.- La Secretaría General de Gobierno;
 
@@ -779,9 +811,25 @@ V.- El Instituto para la Mujer Nayarita;
 
 VI.- El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-VII.- La Dirección General de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
 
-VIII.- Los Ayuntamientos.
+VII.- La Dirección General de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
+
+VIII.- Los Ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
+
+IX.- La Delegación del estado de Nayarit de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
+
+X.- Los mecanismos para el adelanto de las mujeres en el estado de Nayarit, y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
+
+XI.- El Instituto Estatal Electoral de Nayarit.
 
 ###### Artículo 51.
 
@@ -1147,6 +1195,22 @@ XI.- Impulsar la creación de unidades especializadas en la atención y protecci
 
 XII.- Las demás que se señalen en la normatividad aplicable.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 6 DE JULIO DE 2020)</small>
+
+#### SECCIÓN SÉPTIMA BIS. DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2020)</small>
+
+###### Artículo 60 Bis.
+
+Corresponde al Instituto Estatal Electoral de Nayarit en el ámbito de su competencia:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+
 #### SECCIÓN OCTAVA. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ###### Artículo 61.
@@ -1244,3 +1308,9 @@ P.O. 21 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 6 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA POLÍTICA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
