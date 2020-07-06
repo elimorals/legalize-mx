@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2019-06-28"
+last_updated: "2020-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE JUNIO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2020.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -89,13 +87,21 @@ IX. Fiscal Electoral: El titular de la Fiscalía en Materia de Delitos Electoral
 
 X. Instituto: El Instituto de Capacitación Especializada en Procuración de Justicia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
 
-XI. Servicio de carrera: Al Servicio de Carrera de Procuración de Justicia, y
+XI. Servicio de carrera: Al Servicio de Carrera de Procuración de Justicia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
 
-XII. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+XII. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado 8, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
+
+XIII. Sub Fiscalía General: La Sub Fiscalía General del Estado de Nayarit, y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
+
+XIV. Sub Fiscal General: El titular de la Sub Fiscalía General del Estado de Nayarit.
 
 ## Título Segundo. De la Fiscalía General
 
@@ -113,21 +119,37 @@ La Fiscalía General es un órgano público con autonomía técnica y de gestió
 
 Para el despacho de los asuntos que competen a la Fiscalía General, ésta contará de manera enunciativa con los órganos siguientes:
 
-I. Fiscal en Materia de Combate a la Corrupción;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2020)</small>
 
-II. Fiscal en Materia de Delitos Electorales;
+I. Sub Fiscal General;
 
-III. Dirección General de Investigación Ministerial y Procesos Judiciales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE JULIO DE 2020)</small>
 
-> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+II. Fiscal en Materia de Combate a la Corrupción;
 
-IV. Dirección General de la Agencia de Investigación Criminal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE JULIO DE 2020)</small>
 
-V. Dirección General de Servicios Periciales;
+III. Fiscal en Materia de Delitos Electorales;
 
-VI. Titular del Órgano Interno de Control, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE JULIO DE 2020)</small>
 
-VII. Los demás que se establezcan en el Reglamento Interior o acto administrativo respectivo.
+IV. Dirección General de Investigación Ministerial y Procesos Judiciales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE JULIO DE 2020)</small>
+
+V. Dirección General de la Agencia de Investigación Criminal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE JULIO DE 2020)</small>
+
+VI. Dirección General de Servicios Periciales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE JULIO DE 2020)</small>
+
+VII. Titular del Órgano Interno de Control, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE JULIO DE 2020)</small>
+
+VIII. Los demás que se establezcan en el Reglamento Interior o acto administrativo respectivo.
 
 La estructura, organización interna y desarrollo de las atribuciones de los órganos enunciados y los que se establezcan, se determinarán en las disposiciones reglamentarias que al efecto se emitan, dichos órganos, unidades y demás áreas administrativas dentro de la Fiscalía General del Estado deberán respetar la naturaleza, las bases y principios del artículo 21 y demás porciones normativas establecidas en la Constitución General de la República y la particular del Estado para el Ministerio Público.
 
@@ -143,13 +165,23 @@ El Fiscal General, con base en las disposiciones presupuestales, y las necesidad
 
 Para la mejor organización y funcionamiento de la Fiscalía General, el Fiscal General podrá delegar facultades en el servidor o servidores públicos, excepto aquellas que por disposición de la Constitución Local, la presente ley y demás ordenamientos aplicables, sean indelegables.
 
-### Capítulo II. Del Fiscal General y sus Atribuciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2020)</small>
+
+### Capítulo II. Del Fiscal General y el Sub Fiscal General y sus Atribuciones
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 8°.
 
 El Fiscal General ejercerá las atribuciones y funciones que para la institución del Ministerio Público se consagran en la Constitución Federal y la Constitución Local, así como las relacionadas con la organización y funcionamiento de la Fiscalía General previstas en la presente ley, su reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2020)</small>
+
+La persona titular de la Fiscalía General del Estado podrá crear comisiones especiales, de carácter temporal, que gozarán de autonomía técnica y de gestión, para colaborar en las investigaciones de fenómenos y delitos que debido a su contexto, a petición de la sociedad y a juicio del fiscal, amerite su creación, incluyendo aquellos sobre feminicidios, violencia sexual, violencia política contra las mujeres en razón de género, trata de personas, o que impliquen violaciones a derechos humanos, en especial de los pueblos y las comunidades indígenas, de las niñas, niños, adolescentes y personas migrantes. Los trabajos, recomendaciones y conclusiones de las comisiones podrán ser tomados en consideración por los órganos de la función fiscal, para la investigación y el ejercicio de la acción penal de los asuntos correspondientes.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2020)</small>
+
+Las Comisiones Especiales tendrán como enfoque el acceso a la verdad, la justicia, la reparación integral y la garantía de no repetición. Serán integradas, de manera multidisciplinaria, por personas expertas de reconocida experiencia, tanto nacionales o internacionales en derechos humanos, o las materias que se requieran, organismos internacionales, organismos de la sociedad civil, universidades públicas y privadas y colectivos de víctimas.
 
 ###### Artículo 9°.
 
@@ -163,9 +195,9 @@ II. Dirigir, administrar, controlar y supervisar el funcionamiento de la institu
 
 III. Emitir acuerdos, circulares, instructivos, manuales de organización y de procedimientos, bases generales y demás normas administrativas necesarias que rijan la actuación de los órganos y unidades que conformen la estructura de la institución;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
 
-IV. Designar y remover libremente a los titulares de los órganos o unidades enunciados en esta ley así como los que se crearen conforme al reglamento interior o acuerdo de creación y, en general, los demás servidores públicos de la institución que no formen parte del servicio de carrera;
+IV. Designar y remover libremente al Sub Fiscal General y a los titulares de los órganos o unidades enunciados en esta ley así como los que se crearen conforme al reglamento interior o acuerdo de creación y, en general, los demás servidores públicos de la institución que no formen parte del servicio de carrera;
 
 V. Emitir instrucciones generales o particulares al personal de la institución sobre el ejercicio de sus funciones y la prestación del servicio encomendado;
 
@@ -337,6 +369,32 @@ XX. Determinar el auxilio del personal de la Fiscalía General a otras autoridad
 
 XXI. Las que prevea como tales esta ley, su reglamento interior y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2020)</small>
+
+###### Artículo 11 Bis.
+
+Para el ejercicio de sus funciones el Sub Fiscal General, tendrá jurisdicción en todo el Estado de Nayarit y tendrá las siguientes atribuciones:
+
+I. Suplir en ausencias temporales al Fiscal General en las atribuciones de este y en materia de amparo;
+
+II. Acordar con el Fiscal General el despacho de los asuntos de su competencia y de las áreas operativas a su cargo y responsabilidad;
+
+III. Desempeñar las funciones y comisiones que el Fiscal General le encomiende e informarle sobre el desarrollo de las mismas;
+
+IV. Someter a la aprobación del Fiscal General los estudios y proyectos que se elaboren en las áreas a su cargo;
+
+V. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+
+VI. Fungir de enlace con las diversas Fiscalías Generales del país y el extranjero para la tramitación derivadas de las requisitorias, exhortos, oficios de colaboración y de comisión;
+
+VII. Organizar, dirigir, controlar y evaluar los Programas de la Procuración de Justicia;
+
+VIII. Previo acuerdo con el Fiscal General, asesorar y apoyar técnicamente, en el ámbito de su competencia a las unidades operativas de la Fiscalía General;
+
+IX. Supervisar a los coordinadores de zona y demás órganos regionales de la Fiscalía General del Estado, para verificar su correcto funcionamiento y rendir los informes correspondientes al Fiscal General, y
+
+X. Las demás que conforme a esta ley, el Reglamento Interior, los Manuales de Operación, Criterios y Lineamientos emitidos por el Fiscal General, así como otros ordenamientos aplicables le correspondan.
+
 ### Capítulo III. De la Suplencia y Representación del Fiscal General
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
@@ -347,7 +405,9 @@ En ausencia definitiva del Fiscal General y en tanto se designa a quien deba suc
 
 Una vez que por cualquier medio se tenga conocimiento cierto de la ausencia definitiva del Fiscal, la designación del encargado del despacho deberá realizarse a más tardar dentro de los cinco días naturales siguientes.
 
-En las ausencias temporales se estará a lo dispuesto en el Reglamento Interior y en las definitivas del Fiscal General, asumirá las funciones del cargo el Director General de Investigación Ministerial hasta la designación del encargado del despacho o hasta la reincorporación del titular, quien ejercerá las atribuciones inherentes al cargo, con excepción de las indelegables. En las ausencias definitivas el Congreso podrá autorizar el ejercicio temporal o indefinido de las facultades indelegables.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
+
+En las ausencias temporales se estará a lo dispuesto en el Reglamento Interior y en las definitivas del Fiscal General, asumirá las funciones del cargo el Sub Fiscal General hasta la designación del Encargado del Despacho o hasta la reincorporación del titular, quien ejercerá las atribuciones inherentes al cargo, con excepción de las indelegables. En ausencias definitivas, el congreso podrá autorizar el ejercicio temporal o indefinido de las facultades indelegables.
 
 En los casos en que el Fiscal General deba excusarse o bien sea recusado, se estará a lo dispuesto en el párrafo anterior con relación a las ausencias temporales.
 
@@ -413,9 +473,25 @@ III. Estudiar y analizar las medidas de política criminal adoptadas en otras en
 
 IV. Participar en los proyectos del Plan Estatal de Desarrollo y de los programas correspondientes, en los términos de las normas aplicables;
 
-V. Intervenir en la evaluación de los programas de procuración de justicia en el Estado, y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
 
-VI. Las demás que sean necesarias para el cumplimiento del objeto.
+V. Intervenir en la evaluación de los programas de procuración de justicia en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2020)</small>
+
+VI. Evaluar riesgos y proteger a las personas ofendidas, víctimas, testigos y demás sujetos procesales, en los casos que existan amenazas o riesgos a su integridad o vida;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
+
+VII. Coordinar y colaborar con entidades gubernamentales y no gubernamentales, nacionales e internacionales, para la implementación de los esquemas de seguridad de víctimas, testigos y demás sujetos procesales;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2020)</small>
+
+VIII. Crear la Base Estadística Estatal de Violencia Política contra las Mujeres en razón de Género, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE JULIO DE 2020)</small>
+
+IX. Las demás que sean necesarias para el cumplimiento del objeto.
 
 ## Título Tercero. De la Institución del Ministerio Público
 
@@ -1962,3 +2038,17 @@ CUARTO. A partir de la entrada en vigor del presente decreto, el Fiscal General 
 QUINTO. El personal de base y de confianza que actualmente se encuentra adscrito a la Fiscalía General del Estado, así como los de nuevo ingreso seguirán aportando al Fondo de Pensiones de Gobierno del Estado, por lo que los titulares de la Fiscalía General del Estado y del Poder Ejecutivo, suscribirán los convenios correspondientes mediante los cuales se determine el personal que será transferido a la Fiscalía General del Estado, así como los términos y condiciones para realizar sus aportaciones, así mismo garantizar su seguridad social.
 
 SEXTO. El Congreso del Estado contara con 180 días para hacer las modificaciones a la Ley de Tránsito y Transporte del Estado de Nayarit, al tema de circulación de vehículos oficiales con polarizado, durante el desempeño de sus funciones.
+
+P.O. 6 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Las erogaciones que se generen con la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado para el ejercicio fiscal 2020 y sus subsecuentes, de la Fiscalía General del Estado de Nayarit, por lo que no requerirán de recursos adicionales para su cumplimiento.
+
+P.O. 6 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA POLÍTICA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
