@@ -4,7 +4,7 @@ identifier: "COA-ley-de-mejora-regulatoria-del-estado-de-coahuila-de-zaragoza-94
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-10"
-last_updated: "2017-12-26"
+last_updated: "2020-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,812 +21,520 @@ state: "COA"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE MEJORA REGULATORIA DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
 
-Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de mayo de 2013.
+Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 24 de enero de 2011.
 
-EL C. RUBÉN IGNACIO MOREIRA VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+DECRETO del Honorable Congreso del Estado, que expide la LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA.
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
 
-DECRETA:
+LICENCIADO MARIO P. MARÍN TORRES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
 
-NÚMERO 204.-
+Que por la Secretaria del H. Congreso, se me ha remitido el siguiente:
 
-LEY DE MEJORA REGULATORIA DEL ESTADO DE COAHUILA DE ZARAGOZA
+EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-## Título primero. Generalidades
+CONSIDERANDO.
 
-### Capítulo I. Disposiciones generales
+Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y XI, 69 fracción II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22 y 24 fracciones I y XI del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
-###### Artículo 1.
+LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA
 
-Naturaleza y objeto de la ley.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-Las disposiciones de esta ley son de orden público, de interés social y de observancia general en el territorio del estado y tiene (sic) por objeto impulsar la mejora regulatoria, a través de la coordinación de acciones entre las autoridades y los sectores social y privado, así como procurar el uso de los medios electrónicos, magnéticos o de cualquier tecnología y el uso de la firma electrónica, archivos electrónicos y base de datos, a fin de hacer más eficientes los servicios, trámites y actos administrativos.
+###### ARTÍCULO 1.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+La presente Ley es reglamentaria del artículo 13 de la Constitución Política del Estado Libre y Soberano de Puebla, en lo relativo a los derechos y cultura indígena. Sus disposiciones son de orden público, de interés social y de observancia general en todo el Estado de Puebla.
 
-Los municipios del estado, los organismos públicos autónomos de carácter constitucional, así como las dependencias y entidades tanto de la administración pública estatal como municipal, comprendiendo en este rubro a las entidades paraestatales, paramunicipales y desconcentrados, podrán suscribir convenios con el Poder Ejecutivo del Estado, a través de la Secretaría de Economía y Turismo, para facilitar la implementación del objeto señalado en el párrafo anterior.
+Tiene por objeto reconocer, regular y garantizar a las Comunidades integrantes de los Pueblos Indígenas y a sus habitantes, el ejercicio de sus formas de organización comunitaria y de gobierno propio; el respeto y desarrollo de sus culturas, creencias, conocimientos, lenguas, usos, costumbres, medicina tradicional y recursos.
 
-###### Artículo 2.
+Los Poderes del Estado y los Ayuntamientos deberán elevar el bienestar social de los Pueblos y Comunidades Indígenas, su incorporación con justicia y dignidad a los beneficios del desarrollo estatal.
 
-Glosario.
+###### ARTÍCULO 2.
 
-Para efectos de la presente ley, se entiende por:
+El Estado de Puebla tiene una composición pluricultural y multilingüística, sustentada originalmente en sus Pueblos y Comunidades Indígenas Náhuas, Totonacas o Tutunakuj, Mixtecas o Ñuu Savi, Tepehuas o Hamaispini, Otomíes o Hñähñü, Popolocas o N'guiva y Mazatecas o Ha shuta enima, que se asentaron en el territorio del Estado de Puebla desde la época precolombina y conservan instituciones sociales, económicas, culturales y políticas, que les son propias.
 
-I. Acto administrativo: declaración unilateral de voluntad dictada por las autoridades administrativas, en ejercicio de la potestad pública, que crea, declara, reconoce, modifica, transmite o extingue derechos y obligaciones.
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas, mismas que establecerán las medidas y procedimientos que permitan hacer valer y respetar los derechos sociales de los Pueblos y Comunidades Indígenas.
 
-II. Centro municipal de negocios: áreas físicas, que cuenten con los recursos humanos, materiales y tecnológicos que los municipios podrán destinar para la prestación de los servicios, trámites o actos administrativos relacionados con el desarrollo económico del municipio.
+Los indígenas nacidos en otras Entidades Federativas que residan temporal o permanentemente en el territorio del Estado, tendrán en todo tiempo el derecho de hacer valer frente a cualquier autoridad, las prerrogativas que otorgan a los integrantes de los Pueblos y Comunidades Indígenas la Constitución Política del Estado y este ordenamiento legal.
 
-III. Comisión: Comisión Estatal para la Mejora Regulatoria.
+###### ARTÍCULO 3.
 
-IV. Comité: Comité de Calidad de la Mejora Regulatoria del Gobierno del Estado de Coahuila de Zaragoza.
+Los derechos que esta Ley reconoce a los Pueblos y Comunidades Indígenas, serán ejercidos individual o colectivamente; en este último caso, se ejercerán directamente por sus autoridades o por quienes los representen.
 
-V. Dependencias: unidades administrativas encargadas del estudio, planeación, evaluación, despacho, ejecución, supervisión y control de los asuntos de la administración pública estatal y municipal.
+###### ARTÍCULO 4.
 
-VI. Dictamen regulatorio: documento que emite la Comisión respecto de una manifestación de impacto regulatorio con carácter vinculante.
+Para los efectos de esta Ley se entenderá por:
 
-VII. Firma electrónica certificada: conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos, que permite asegurar la integridad y autenticidad de la firma y la identidad del firmante y que ha sido debidamente certificada por la autoridad certificadora.
+I.- Autonomía.- La expresión de la libre determinación de los Pueblos y Comunidades Indígenas como partes integrantes del Estado de Puebla, en términos de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado de Puebla, de esta Ley y demás disposiciones aplicables, para adoptar por sí mismo decisiones e instruir prácticas propias de su cosmovisión, territorio indígena, tierra, recursos naturales, organización socio-política, administración de justicia, educación, lenguaje, salud y cultura;
 
-VIII. Guía: guía Estatal de Trámites Empresariales.
+II.- Autoridades Comunitarias.- Aquéllas que los Pueblos y Comunidades Indígenas reconocen como tales, en base a sus sistemas normativos internos, derivados de sus usos y costumbres;
 
-X (SIC). Ley: Ley de Mejora Regulatoria del Estado de Coahuila de Zaragoza.
+III.- Autoridades Municipales.- Aquéllas que están expresamente reconocidas en la Constitución Política del Estado Libre y Soberano de Puebla y en la Ley Orgánica Municipal del Estado;
 
-XI. Manifestación de impacto regulatorio: documento justificatorio que contiene el análisis y evaluación del costo-beneficio de propuestas regulatorias elaborado por las dependencias.
+IV.- Autoridades Tradicionales.- Aquéllas que los Pueblos y Comunidades Indígenas reconocen de conformidad con sus sistemas normativos internos, derivados de sus usos y costumbres y que no contravengan la Constitución del Estado Libre y Soberano de Puebla;
 
-XII. Medios de comunicación electrónicos: dispositivos tecnológicos para efectuar transmisión de datos e información a través de computadoras, líneas telefónicas o de cualquier otra tecnología que las dependencias pongan a disposición para fines específicos.
+V.- Comunidad Indígena.- Unidad social, económica y cultural, asentada en un territorio determinado, con formas de organización social y política, así como autoridades tradicionales, valores, culturas, usos, costumbres y tradiciones propias;
 
-XIII. Mejora regulatoria: proceso continuo que evalúa las ventajas y desventajas del marco normativo, para su correcta aplicación, para así llevar a cabo la simplificación de requisitos, plazos y trámites, con la finalidad de reducir o eliminar tiempos y costos económicos, la discrecionalidad, la duplicidad de requerimientos y trámites, y la opacidad administrativa a interesados.
+VI.- Derechos sociales.- Las facultades y prerrogativas de naturaleza colectiva que el orden jurídico poblano reconoce a los Pueblos y Comunidades Indígenas, en los ámbitos político, económico, social, cultural y jurisdiccional, para garantizar su existencia, pervivencia, dignidad, bienestar y no discriminación basada en la pertenencia a los Pueblos Indígenas;
 
-XIV. Programa estatal de mejora regulatoria: programa de Mejora Regulatoria para el Estado de Coahuila de Zaragoza, que tiene por objeto promover el crecimiento económico en el estado; la competitividad empresarial; el bienestar de los usuarios de los servicios públicos y mejorar la eficacia del Gobierno del Estado y de los gobiernos municipales.
+VII.- Derechos individuales.- Las facultades y las prerrogativas que el orden jurídico poblano otorga a todo hombre o mujer, independientemente de que sea o no integrante de un Pueblo o Comunidad Indígena, por el solo hecho de ser personas;
 
-XV. Programas operativos municipales de mejora regulatoria: conjunto de acciones, indicadores y metas que tendrán la finalidad de dar seguimiento y evaluar las acciones de mejora regulatoria de las dependencias de la administración pública municipal.
+VIII.- Estado.- El Estado Libre y Soberano de Puebla;
 
-XVI. Propuesta de mejora regulatoria: Manifestación de un ciudadano o persona moral, sobre la mejora de un trámite, servicio, sistemas, bases de datos, documentos u acto en general o específico, que involucra la prestación de un servicio público o trámite relacionado con los mismos; y los proyectos de mejora regulatoria, que se generen al interior de la administración pública, presentadas en forma física o por medios electrónicos a cualquier autoridad o las unidades de mejora regulatoria.
+IX.- Principio de Subsidiaridad y Complementariedad.- Tiene por objeto garantizar que en las decisiones de los asuntos públicos, los niveles de Gobierno del Estado tomen en consideración a los Pueblos y Comunidades Indígenas, para que las acciones que vayan a emprenderse a escala comunitaria se justifiquen en relación con las posibilidades que ofrecen. Complementando entre sí las acciones de los diferentes órdenes de gobierno;
 
-XVII. Queja regulatoria: manifestación formal de insatisfacción del ciudadano u persona moral, ante un posible cumplimiento parcial o negativa injustificada del servicio o trámite prestado por las autoridades, ante la deficiencia de oportunidad, accesibilidad, transparencia, calidad, economía administrativa del mismo u otro.
+X.- Pueblos Indígenas.- Colectividades humanas, descendientes de poblaciones que al inicio de la colonización, habitaban en el territorio de la Entidad, las que han dado continuidad histórica a las instituciones políticas, económicas, sociales y culturales que poseían sus ancestros antes de la conformación del Estado de Puebla, que afirman libre y voluntariamente su pertenencia a cualquiera de los Pueblos señalados en el artículo 2 de esta Ley;
 
-XVIII. Registro: registro Único de Trámites Administrativos.
+XI.- Sistemas Normativos Internos.- Es el conjunto de usos y costumbres que los Pueblos y Comunidades Indígenas reconocen como válidos para regular sus actos públicos y privados; los que sus autoridades comunitarias aplican para la resolución de sus conflictos y para la regulación de su convivencia;
 
-XIX. Requisito: toda formalidad, condición, término, carga administrativa o restricción que deban cumplir las empresas o ciudadanos para su establecimiento, operación y ampliación en el estado o, en su caso, en los municipios de la entidad, siempre que sea exigible por las dependencias y entidades de la administración pública estatal o municipal, en el ámbito de sus respectivas competencias y de acuerdo con las disposiciones aplicables.
+XII.- Territorio Indígena.- Es la porción del territorio estatal que define el ámbito espacial natural, social y cultural en donde se asientan y desenvuelven los Pueblos y Comunidades Indígenas; en ella, expresan su forma específica de relación con el mundo sin detrimento alguno de la Soberanía del Estado de Puebla, ni de la autonomía de sus municipios; y
 
-XX. RUPAC: registro Único de Personas Acreditadas del Estado de Coahuila de Zaragoza.
+XIII.- Usos y Costumbres.- Base fundamental de los sistemas normativos internos y que constituye el rasgo característico que los individualiza.
 
-XXI. SARE: sistema de Apertura Rápida de Empresas.
+###### ARTÍCULO 5.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+Para la plena identificación de los integrantes de los Pueblos y Comunidades Indígenas y a efecto de garantizar su atención, los Gobiernos Estatal y Municipales establecerán desde sus respectivos ámbitos de competencia, el registro del padrón de las Comunidades Indígenas del Estado.
 
-XXII. Secretaría: Secretaría de Desarrollo Económico y Competitividad.
+###### ARTÍCULO 6.
 
-XXIII. Secretaría de Fiscalización: Secretaría de Fiscalización y Rendición de Cuentas.
+La aplicación de la presente Ley corresponde a los Poderes Ejecutivo y Judicial, a los Gobiernos Municipales, en el ámbito de sus respectivas competencias.
 
-XXIV. Trámite: cualquier procedimiento, gestión, diligencia o formalidad que implique la presentación o conservación de algún documento o información por parte de las empresas, incluidos los formatos cuyo llenado exigen las dependencias y entidades correspondientes.
+###### ARTÍCULO 7.
 
-XXV. Unidades de mejora regulatoria: áreas de cada dependencia responsables de planear, organizar, dirigir, controlar y evaluar los procesos de mejora regulatoria al interior de cada una de ellas.
+Corresponde al Poder Ejecutivo del Estado:
 
-###### Artículo 3.
+I.- Garantizar el pleno ejercicio de los derechos que esta Ley reconoce en favor de los Pueblos y Comunidades Indígenas;
 
-Objetivos específicos.
+II.- Asegurar que los integrantes de las Comunidades Indígenas gocen de todos los derechos y oportunidades que la legislación vigente otorga al resto de la población de la Entidad;
 
-La presente ley tendrá los siguientes objetivos específicos:
+III.- Garantizar que las políticas públicas y programas indigenistas y de desarrollo social, operen de manera concertada con las Comunidades Indígenas;
 
-I. Simplificar el marco regulatorio a través de la eliminación parcial o total de los actos administrativos, requerimientos y trámites.
+IV.- Garantizar el desarrollo equitativo y sustentable de las Comunidades Indígenas, impulsando el respeto a su cultura, usos, costumbres, tradiciones y autoridades tradicionales;
 
-II. Impulsar la homologación de trámites, formatos, requerimientos, padrones y reglamentos, así como cualquier acto administrativo de las dependencias.
+V.- Promover estudios socio-demográficos para la plena identificación de los integrantes de los Pueblos y Comunidades Indígenas y la solución de sus demandas sociales; y
 
-III. Incidir en la regulación con principios de calidad, transparencia, eficiencia, accesibilidad virtual, certeza jurídica y oportunidad.
+VI.- Las demás que señale la presente Ley y otros ordenamientos aplicables.
 
-IV. Contribuir a la reducción y eliminación de tiempos, costos económicos, discrecionalidad, duplicidad de requerimientos, trámites y opacidad administrativa.
+###### ARTÍCULO 8.
 
-V. Promover mecanismos y reformas al marco regulatorio, que permitan fortalecer al mercado, a las empresas y las actividades comerciales, para así incrementar la productividad.
+Al aplicar las disposiciones del presente ordenamiento y especialmente las relativas al ejercicio de la autonomía de los Pueblos y las Comunidades Indígenas:
 
-VI. Diseñar e instrumentar herramientas jurídico-administrativas, que nutran el proceso de mejora regulatoria, tales como la manifestación de impacto regulatorio y dictamen regulatorio.
+I.- Los Poderes Ejecutivo y Judicial, así como los Ayuntamientos deberán:
 
-VII. Propiciar mecanismos que permitan la presentación formal de quejas y propuestas de mejora regulatoria y garantizar su atención.
+a) Reconocer, proteger y respetar los sistemas normativos internos, los valores culturales, religiosos y espirituales propios de dichos Pueblos y deberá considerarse la índole de los problemas que se les plantean tanto colectiva como individualmente;
 
-VIII. Incidir en el diseño de los planes o programas de desarrollo de los gobiernos estatal y municipales, relativos a la mejora regulatoria y la simplificación administrativa.
+b) Adoptar, con la participación y cooperación de los Pueblos interesados, medidas encaminadas a allanar las dificultades que experimenten dichos Pueblos al afrontar nuevas condiciones de vida y trabajo; y
 
-IX. Impulsar programas de capacitación en materia de mejora regulatoria entre los servidores públicos involucrados de las dependencias. Con especial referencia a los municipios donde son muy reducidos los tramites de operación estatal.
+c) Reconocer los sistemas normativos internos en el marco jurídico general en correspondencia con los principios generales del derecho, el respeto a las garantías individuales y a los derechos sociales,
 
-X. Promover la aplicación de los medios electrónicos y el uso de la firma electrónica certificada o cualquier otro mecanismo electrónico en la realización de trámites y servicios.
+II.- Los Poderes Ejecutivo y Legislativo del Estado de Puebla y los Ayuntamientos deberán:
 
-XI. Los demás objetivos que se establecen en ésta y otras disposiciones legales aplicables.
+a) Mediante procedimientos apropiados y a través de sus autoridades o representantes tradicionales, promover su participación cada vez que se prevean medidas legislativas o administrativas específicas que puedan afectarles directamente; y
 
-###### Artículo 4.
+b) Promover que los Pueblos interesados, mediante procedimientos apropiados y en particular a través de sus autoridades o representantes tradicionales, participen libremente, en la definición y ejecución de políticas y programas públicos que les conciernan.
 
-Aplicación de la ley.
+### CAPÍTULO II. DE LOS DERECHOS DE LOS PUEBLOS INDÍGENAS Y SUS COMUNIDADES
 
-La aplicación de esta ley corresponde al titular del Ejecutivo Estatal por conducto de la Secretaría, así como a las demás autoridades estatales y municipales, de conformidad con sus atribuciones y dentro del ámbito de sus respectivas competencias.
+###### ARTÍCULO 9.
 
-###### Artículo 5.
+Esta Ley reconoce y protege a las autoridades tradicionales de las Comunidades Indígenas, nombradas por sus integrantes de acuerdo a sus propios usos y costumbres, garantizando la participación efectiva y equitativa de las mujeres y de los jóvenes mayores de dieciocho años en la vida política, económica, social y cultural de los Pueblos y Comunidades Indígenas, en un marco que respete la Soberanía del Estado y la autonomía de sus Municipios.
 
-Coordinación de acciones.
+La representación de los Pueblos y Comunidades Indígenas, corresponderá a quienes conforme a sus sistemas normativos internos sean declarados autoridades o representantes.
 
-Para el cumplimiento y aplicación de esta ley, el Ejecutivo Estatal promoverá la coordinación de acciones con el Gobierno Federal, el de otros estados y de los municipios, en el ámbito de sus atribuciones, y fomentará la participación, de las organizaciones productivas de los sectores social y privado.
+###### ARTÍCULO 10.
 
-###### Artículo 6.
+Los Pueblos y Comunidades Indígenas y sus integrantes, tienen el derecho de promover por sí mismos o a través de sus autoridades tradicionales de manera directa y sin intermediarios cualquier gestión ante las autoridades.
 
-Convenios.
+Para garantizar el acceso de los Pueblos y Comunidades Indígenas al ejercicio del derecho de petición, toda promoción que se presente ante las autoridades estatales o municipales en lo particular o por la autoridad tradicional, podrá ser redactada en su propia lengua o en español.
 
-Las dependencias podrán celebrar convenios con autoridades federales y con los sectores privado y académicos (sic), y no deberán versar en las materias: laboral, electoral, procuración de justicia, agraria, responsabilidad administrativa y fiscal. Los actos señalados deberán, además, sujetarse a lo establecido en la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza.
+Las autoridades estatales o municipales tendrán el deber de recibirla, previniendo en términos de Ley la intervención de un intérprete para darle respuesta escrita en el idioma o lengua que se haya presentado.
 
-###### Artículo 7.
+###### ARTÍCULO 11.
 
-Gastos.
+Los Pueblos y Comunidades Indígenas tienen derecho social a vivir en libertad, paz y seguridad como Pueblos diferenciados y a gozar de plenas garantías contra cualquier acto de discriminación, violencia, reacomodos o desplazamientos ilegales, separación de niñas y niños indígenas de sus familias y Comunidades.
 
-Los gastos que las dependencias requieran para implementar acciones en materia de mejora regulatoria, deberán considerarlos e incluirlos en los Presupuestos de Egresos del Estado y los municipios.
+###### ARTÍCULO 12.
 
-###### Artículo 8.
+Los Pueblos y Comunidades Indígenas tienen derecho a que sus lenguas originarias sean preservadas, por lo que las autoridades públicas correspondientes respetarán y promoverán sus usos.
 
-Solución de controversias.
+###### ARTÍCULO 13.
 
-En caso de controversia entre las distintas dependencias de la administración pública, con respecto a la aplicación de la presente ley, será la Secretaría la encargada de emitir opinión en forma definitiva.
+Es derecho de los Pueblos y Comunidades Indígenas, asociarse libremente como personas jurídicas colectivas para el rescate de sus lenguas, tradiciones, usos, costumbres, vestimenta, música, danzas, ritos, fiestas tradicionales y todo aquéllo que constituya su cultura e identidad, formas propias de elección de sus autoridades y representantes; así como todo lo concerniente con su organización social, a fin de coordinar sus acciones para su desarrollo.
 
-### Capítulo II. De la Comisión Estatal para la Mejora Regulatoria
+###### ARTÍCULO 14.
 
-###### Artículo 9.
+Se reconocen las formas de organización internas de los Pueblos y Comunidades Indígenas, por cuanto hace a sus relaciones familiares, civiles y sociales y, en general, a las que se encuentren orientados para la prevención, progreso y solución de conflictos comunitarios; siempre que dichas normas no vulneren los derechos humanos o contravengan las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado, de esta Ley y demás disposiciones legales aplicables.
 
-Medios electrónicos.
+###### ARTÍCULO 15.
 
-Las dependencias podrán recibir, a través de medios de comunicación electrónicos, las promociones o solicitudes que en términos de esta ley los interesados deban presentar por escrito.
+Queda prohibida cualquier expulsión de indígenas de sus Comunidades, sea cual fuere la causa con que pretenda justificarse, especialmente por motivos religiosos, políticos o ideológicos.
 
-En este caso se podrá emplear, en sustitución de la firma autógrafa, medios de identificación electrónica que previamente se deberán haber registrado ante la dependencia correspondiente. El uso del medio de comunicación electrónica será optativo para el interesado.
+El Poder Ejecutivo del Estado, encauzará y fomentará el diálogo en las Comunidades donde se presenten este tipo de conflictos y promoverá la celebración de convenios que aseguren la conciliación y el retorno pacífico, así como la integración comunitaria de quienes hayan sufrido las expulsiones.
 
-Los documentos presentados por medios de comunicación electrónica, producirán los mismos efectos que las normas jurídicas otorgan a los documentos autógrafos y, en consecuencia, tendrán el mismo valor probatorio que aquéllas les confieren a éstos. Igualmente lo tendrán los archivos digitalizados que se materialicen en papel, firmados en forma autógrafa o con la firma electrónica certificada de las autoridades correspondientes.
+###### ARTÍCULO 16.
 
-La certificación de los medios de identificación electrónica del interesado, así como la verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por la dependencia o autoridad administrativa bajo su responsabilidad.
+La familia indígena es la base de sustentación y organización de los Pueblos y Comunidades Indígenas.
 
-###### Artículo 10.
+###### ARTÍCULO 17.
 
-Notificaciones por medios de comunicación.
+El Estado promoverá, en el marco de las prácticas tradicionales y costumbres de los Pueblos y Comunidades Indígenas, la participación plena de las mujeres en tareas y actividades de los Pueblos y Comunidades en equidad de circunstancias y condiciones con los hombres, de tal forma que contribuyan a lograr su realización y superación, así como el reconocimiento y el respeto a su dignidad.
 
-La dependencia o autoridad administrativa podrá hacer uso de los medios de comunicación electrónicos para realizar notificaciones, citatorios o requerimientos de documentación e información a los particulares.
+### CAPÍTULO III. DE LAS MUJERES, JÓVENES Y NIÑOS INDÍGENAS
 
-###### Artículo 11.
+###### ARTÍCULO 18.
 
-Atribuciones de la Comisión Estatal para la Mejora Regulatoria.
+El Estado proporcionará la información, la capacitación, la difusión y el diálogo, para que los Pueblos y Comunidades Indígenas tomen medidas tendientes a lograr la incorporación plena de las mujeres en la vida política, económica, social y cultural de los mismos.
 
-La Comisión Estatal para la Mejora Regulatoria, como órgano colegiado de análisis, apoyo y consulta del Ejecutivo del Estado, con autonomía técnica y operativa, tendrá además de las establecidas en el decreto de su creación, las atribuciones siguientes:
+###### ARTÍCULO 19.
 
-I. Estudiar, analizar y revisar los ordenamientos legales vigentes en el estado, con el propósito de proponer las medidas de mejora regulatoria necesarias para cumplir con los objetivos de esta ley.
+Las mujeres deberán contar con las mismas oportunidades que los hombres para el desempeño de las funciones de representación comunitaria. El Estado y los Ayuntamientos, en sus respectivos ámbitos de competencia y a través de las dependencias que correspondan, establecerán programas de capacitación y acciones de política pública para las mujeres indígenas, a fin de que estén en condiciones de ejercer sus derechos.
 
-II. Coadyuvar en la elaboración y actualización del registro.
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
 
-III. Participar coordinadamente con los sectores productivo y social en el consenso y propuesta de elaboración de proyectos de iniciativas de ley, decretos, acuerdos, circulares y resoluciones que establezcan trámites y servicios que representen cargas o impactos a la actividad de los particulares.
+De igual forma se establecerán las condiciones necesarias para que las mujeres indígenas accedan a las políticas públicas de prevención del delito por razones de género, a efecto de que ejerciten sus derechos ante el sistema de justicia estatal, sin discriminación alguna por su origen étnico.
 
-IV. Gestionar y proponer procesos de mejora regulatoria en los municipios del estado que permitan la apertura rápida de empresas.
+###### ARTÍCULO 20.
 
-V. Emitir los dictámenes regulatorios respecto de las manifestaciones de impacto regulatorio.
+Las mujeres indígenas tienen derecho a elegir libre y voluntariamente a su pareja.
 
-VI. Aprobar, revisar y actualizar el programa estatal de mejora regulatoria.
+###### ARTÍCULO 21.
 
-VII. Asesorar a los municipios en la estructuración e implementación de programas operativos municipales de mejora regulatoria.
+A las mujeres y a los hombres indígenas les corresponde el derecho fundamental a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
 
-VIII. Promover el uso de los medios de comunicación electrónicos así como el uso de la firma electrónica certificada, a fin de hacer más eficientes los servicios, trámites y actos administrativos.
+El Poder Ejecutivo del Estado y los Ayuntamientos deberán difundir información y orientación sobre salud reproductiva, control de la natalidad, infecciones de transmisión sexual y otras patologías, de manera que los indígenas puedan decidir informada y responsablemente, respetando en todo momento su cultura y tradiciones.
 
-IX. Promover e impulsar la realización de trámites a través de medios electrónicos, en coordinación con la Secretaría de Fiscalización, buscando en todo momento la interoperabilidad de los sistemas y bases de datos de los gobiernos federal, estatal, municipales, los organismos autónomos y los sectores público y privado.
+###### ARTÍCULO 22.
 
-X. Las demás que establezca esta ley, su reglamento y otras disposiciones jurídicas aplicables.
+El Poder Ejecutivo del Estado y los Ayuntamientos fomentarán el ejercicio del derecho de las mujeres indígenas a los servicios de salud, educación bilingüe e intercultural, cultura, vivienda digna y decorosa, a la capacitación para realizar actividades que estimulen su desarrollo integral, a adquirir bienes por transmisión hereditaria o por cualquier otro medio legal, así como a desempeñar cualquier cargo o responsabilidad al interior de la comunidad y participar en proyectos productivos para el desarrollo comunitario, en igualdad de condiciones que el resto de los integrantes de las Comunidades.
 
-###### Artículo 12.
+###### ARTÍCULO 23.
 
-Organización, integración y operación de la Comisión.
+El Poder Ejecutivo y los Ayuntamientos, con la participación de las Comunidades, impulsarán programas para que la población infantil de los Pueblos Indígenas mejore sus niveles de salud, alimentación y educación, así como para instrumentar campañas de información sobre los efectos nocivos del consumo de bebidas y sustancias que afectan a la salud humana y se garantice el respeto pleno a sus derechos, se promueva el desarrollo y práctica del deporte entre la niñez y la juventud, así como la preservación de los deportes tradicionales de los Pueblos y Comunidades Indígenas.
 
-La Comisión tendrá la organización, integración y operación de la forma establecida en el decreto de creación de la misma.
+Se garantizará que las niñas y niños de los Pueblos Indígenas no sean objeto de actos de trata de personas, discriminación o corrupción de menores.
 
-###### Artículo 13.
+### CAPÍTULO IV. DE LA LIBRE DETERMINACIÓN
 
-Objeto del Comité.
+###### ARTÍCULO 24.
 
-El Comité es el instrumento de coordinación interinstitucional de las dependencias de la administración pública estatal, cuya finalidad es la de diseñar, implementar y evaluar el proceso de calidad regulatoria de toda aquella normatividad interna de actuación de dichas dependencias. El Comité no tiene facultades para atender la mejora regulatoria con respecto a los trámites que van dirigidos a los ciudadanos o empresas, pues esta función corresponde a la Comisión.
+Los Pueblos y Comunidades Indígenas tienen derecho social a determinar libremente su existencia como tales, sus formas de organización y objetivos de desarrollo, y a que en la Ley y en la práctica se les reconozca esa forma de identidad social y cultural.
 
-###### Artículo 14.
+Asimismo, tienen derecho social a determinar, conforme a la tradición de cada uno, su propia composición, y a ejercer con autonomía todos los derechos que esta Ley reconoce a dichos Pueblos y Comunidades.
 
-Atribuciones del Comité.
+###### ARTÍCULO 25.
 
-Son atribuciones del Comité, las siguientes:
+En ejercicio del derecho a la autodeterminación, los Pueblos y Comunidades Indígenas tienen la facultad de elegir a quien las represente ante el Ayuntamiento respectivo.
 
-I. Realizar estudios, investigaciones y diagnósticos para determinar la efectividad de las disposiciones legales internas existentes con el fin de mejorarlas, regularlas, y garantizar su calidad.
+###### ARTÍCULO 26.
 
-II. Revisar y, en su caso, autorizar el envío a la Consejería Jurídica de proyectos de adición o derogación de ordenamientos jurídicos con aplicación interna, para las formalidades de ley.
+Los Pueblos y Comunidades Indígenas podrán formar asociaciones para los fines que consideren convenientes, en el marco de la Constitución Política de los Estados Unidos Mexicanos y la del Estado, y el presente ordenamiento. Así mismo, tendrán el derecho de adoptar libremente su toponimia, cultura, lengua y formas de organización.
 
-III. Acordar y coordinar acciones de mejora a las disposiciones internas, a efecto de contribuir a su calidad regulatoria, la reducción de cargas administrativas y el logro de los objetivos institucionales.
+###### ARTÍCULO 27.
 
-IV. Revisar de forma continua y programada, el marco normativo interno vigente, para asegurar su calidad regulatoria y la disminución efectiva de cargas administrativas innecesarias, buscando su estandarización y congruencia con los objetivos institucionales y las facultades y atribuciones conferidas a la institución.
+El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, respetarán la autonomía de las Comunidades Indígenas y reconocerán a sus representantes y/o autoridades tradicionales, electas de acuerdo a sus usos y costumbres, como los interlocutores legítimos para el desarrollo de la función gubernamental.
 
-V. Revisar y proponer las actualizaciones, en su caso, a los reglamentos interiores de las dependencias del Gobierno del Estado
+###### ARTÍCULO 28.
 
-VI. Dictaminar y analizar, con base en la justificación regulatoria y las manifestaciones de impacto regulatorio internas, todos los proyectos normativos a fin de asegurar que sean eficaces, eficientes, consistentes y claros.
+En el Estado de Puebla se reconoce el derecho a la libre determinación y a la autonomía de los Pueblos y Comunidades Indígenas en toda su amplitud política, económica, social y cultural, fortaleciendo la Soberanía Nacional, el régimen político democrático, la división de poderes, los tres órdenes de gobierno, las garantías individuales y sociales, en el marco de la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
-VII. Las demás que establezca esta ley, su reglamento y otras disposiciones jurídicas aplicables.
+El Estado reconoce a las Comunidades Indígenas como sujetos de derecho público, el cual deberán ejercer sin contravenir los principios previstos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y demás leyes aplicables.
 
-###### Artículo 15.
+### CAPÍTULO V. DE LA CULTURA Y EDUCACIÓN INDÍGENA
 
-Integración del Comité.
+###### ARTÍCULO 29.
 
-El Comité se integrará por las coordinaciones jurídicas de todas las Secretarias, y será presidido por quien sea titular de la Secretaría en calidad de presidente y quien ocupe la titularidad de la Dirección General de Vinculación y Competitividad de la Secretaría como vicepresidente, quien suplirá al Presidente en sus ausencias.
+Los Pueblos y Comunidades Indígenas tienen derecho social a practicar y revitalizar sus tradiciones y costumbres. El Gobierno del Estado y los Ayuntamientos, a través de sus instituciones competentes y sus programas culturales, en el ámbito de sus atribuciones y presupuestos, apoyará a los Pueblos y Comunidades Indígenas en el mantenimiento, protección y desarrollo de sus manifestaciones culturales actuales y en el cuidado de las manifestaciones de sus ancestros que aún se conservan.
 
-El Comité llevará a cabo reuniones ordinarias mensuales y de manera extraordinaria cuando así lo estime conveniente el o la Presidente o Vicepresidente. Corresponde al o la Vicepresidente convocar a las sesiones ordinarias y extraordinarias.
+###### ARTÍCULO 30.
 
-En las sesiones del Comité, en las que se encuentre presente el o la Presidente, le corresponderá a (sic) presidir la sesión.
+Los Pueblos y Comunidades Indígenas asentados en el Estado de Puebla, gozan del derecho social a vivir dentro de sus tradiciones culturales en libertad, paz y seguridad como culturas distintas y se garantiza su propio desarrollo contra toda forma de discriminación.
 
-El quórum legal para la celebración de las sesiones del Comité será del cincuenta por ciento más uno de sus integrantes.
+###### ARTÍCULO 31.
 
-Los acuerdos serán tomados por la mayoría simple de votos de los integrantes del Comité que se encuentren presentes en la sesión.
+Los Pueblos y Comunidades Indígenas tienen derecho social a conservar, proteger, mantener y desarrollar sus propias identidades; así como todas sus manifestaciones culturales; por tanto las autoridades deberán proteger y conservar sus artesanías, vestimenta tradicional y expresiones musicales, con arreglo a las leyes de la materia.
 
-El o la Vicepresidente será responsable de llevar a cabo el registro y seguimiento de los acuerdos asumidos en las sesiones del Comité, de conservar la información, los documentos que de las mismas se deriven, la organización y apoyo documental de las reuniones, elaborar las minutas correspondientes y las demás acciones que sean necesarias para la organización y funcionamiento del Comité.
+###### ARTÍCULO 32.
 
-Los cargos a los que se refiere el presente capítulo, serán honoríficos, por lo que sus titulares no recibirán emolumento alguno por su desempeño.
+Los Pueblos y Comunidades Indígenas, en el marco del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y la Ley de Educación del Estado de Puebla, tienen el derecho a fortalecer, utilizar, desarrollar y transmitir a las generaciones futuras, por medio de la educación formal e informal, sus historias, lenguas, tecnologías, tradiciones orales, filosofías, sistemas de escritura y literatura, así como a utilizar su toponimia propia en la designación de los nombres de sus Comunidades, lugares y personas en sus propias lenguas y todo aquéllo que forme parte de su cultura. El Estado y los Municipios protegerán y fomentarán su preservación y práctica.
 
-###### Artículo 16.
+###### ARTÍCULO 33.
 
-Atribuciones de la Secretaría.
+El Estado y los Municipios deberán, en el ámbito de sus respectivas competencias, y/o en forma subsidiaria y complementaria:
 
-Corresponderá a la Secretaría la coordinación, administración y vigilancia del programa estatal de mejora regulatoria. Para tal efecto, tendrá las atribuciones siguientes:
+I.- Garantizar la educación integral para todos los habitantes del Estado, proponiendo y en su caso, determinando y formulando, en los planes y programas de estudios, contenidos con enfoque intercultural que permitan generar un conocimiento de los diversos grupos sociales incluidas las culturas indígenas autóctonas que habitan en la Entidad, que describan y expliquen la diversidad cultural y la cosmovisión indígena, su historia, sus formas de organización, sus conocimientos y prácticas culturales;
 
-I. Elaborar el programa estatal de mejora regulatoria en congruencia con los objetivos, políticas, estrategias, lineamientos y metas previstos en el Plan Nacional de Desarrollo y Plan Estatal de Desarrollo y con los programas federales sobre la materia.
+II.- Garantizar que los docentes de educación básica que son asignados a Comunidades Indígenas, dominen la lengua de la comunidad respectiva, que conozcan y respeten las prácticas, usos y costumbres indígenas;
 
-II. Diseñar, administrar y actualizar la guía.
+III.- Hacer efectivo a los Pueblos y Comunidades Indígenas su derecho a una educación bilingüe, gratuita y de calidad; tomando en cuenta criterios académicos y de desempeño profesional del personal docente asignado a las Comunidades;
 
-III. Para el ejercicio de esta atribución, la Secretaría deberá mantener estrecha vinculación con las dependencias, entidades estatales ó municipales que correspondan.
+IV.- Establecer mecanismos de coordinación para que conjuntamente con los Pueblos y Comunidades Indígenas, se promueva el desarrollo de las actividades e instituciones de cultura, recreación y deporte indígena, respetando sus características específicas;
 
-IV. Promover la celebración de acuerdos de coordinación para la mejora regulatoria entre el Gobierno del Estado y los municipios de la entidad para simplificar la actividad económica en sus respectivos ámbitos de competencia.
+V.- Impulsar acciones para que la educación básica, media-superior y superior, incluya contenidos sobre las culturas indígenas, promoviendo la interculturalidad; y
 
-V. Promover la concertación de acciones con los sectores social y privado, con el objeto de identificar aquellas medidas que permitan mejorar el marco regulatorio de la actividad económica estatal y que tiendan a la consecución de los fines de la presente ley.
+VI.- Proporcionar la infraestructura educativa y tecnológica en condiciones de equidad, actualizando los servicios educativos orientados a incrementar las capacidades laborales y profesionales en personal comunitario en situación de trabajo, ligándolo con el financiamiento para el establecimiento y desarrollo de la pequeña empresa y la cooperativización de las necesidades y el autoempleo.
 
-VI. Difundir el programa estatal de mejora regulatoria, a través de los medios que para tal efecto se estimen convenientes.
+###### ARTÍCULO 34.
 
-VII. Las demás que le otorguen esta ley así como otras disposiciones aplicables para el cumplimiento del objeto de la misma.
+La educación básica que se imparta en las Comunidades Indígenas del Estado de Puebla será bilingüe e intercultural, por lo que se deberá fomentar la enseñanza-aprendizaje en la lengua de la comunidad y en español, respetando la dignidad e identidad de las personas, independientemente de su lengua.
 
-###### Artículo 17.
+Para tal efecto, se elaborarán programas de investigación y fortalecimiento de las lenguas indígenas, en su forma oral y escrita, fomentando la publicación de literatura en esas lenguas.
 
-Atribuciones de la Secretaría de Fiscalización.
+###### ARTÍCULO 35.
 
-La Secretaría de Fiscalización, en coordinación con la Secretaría, tendrá las siguientes atribuciones:
+Las autoridades estatales y municipales deberán garantizar que en las Instituciones Educativas de la Entidad, se respete y fomente al uso de la vestimenta tradicional.
 
-I. Diseñar, administrar y actualizar el RUPAC, en coordinación con las dependencias correspondientes.
+###### ARTÍCULO 36.
 
-II. Diseñar, administrar y actualizar el registro, en coordinación con las dependencias correspondientes.
+Las autoridades competentes deberán promover que en los libros de texto gratuitos se incluyan las lenguas originarias para los alumnos de preescolar, primaria y secundaria, que serán utilizados en las escuelas de educación bilingüe habilitadas para tal efecto de acuerdo con los planes y programas respectivos. Además, promoverán la construcción de la infraestructura necesaria que le garantice a los Pueblos y Comunidades Indígenas el acceso pleno a la educación, en todos los niveles y modalidades, incluyendo los niveles medio superior y superior.
 
-III. Llevar el registro que contendrá una relación de todos los trámites que los ciudadanos deben realizar, de conformidad con las disposiciones legales aplicables, así como mantenerlo actualizado y, expedir los lineamientos, acuerdos y demás normatividad conforme a los cuales operará el mismo.
+###### ARTÍCULO 37.
 
-IV. Diseñar e instrumentar mecanismos físicos y electrónicos de difusión de la información del marco regulatorio hacia el ciudadano y las empresas, así como la captación por las mismas vías de las quejas y propuestas regulatorias.
+La educación bilingüe e intercultural deberá fomentar la enseñanza-aprendizaje, tanto en la lengua de la Comunidad Indígena en que se imparta, como en español, para que al término del proceso egresen alumnos que hablen con fluidez las dos lenguas.
 
-V. Brindar la asesoría, capacitación y apoyo técnico a las dependencias, para el desarrollo e implementación de medios de comunicación electrónicos que contribuyan a la mejora regulatoria.
+Las ceremonias cívicas, también deberán llevarse a cabo en la lengua de la comunidad.
 
-VI. Proponer y promover la realización de procesos de reingeniería de trámites en las dependencias, así como la adopción de sistemas de certificación de calidad.
+###### ARTÍCULO 38.
 
-VII. Las demás que le otorguen esta ley así como otras disposiciones aplicables para el cumplimiento del objeto de la misma.
+El Poder Ejecutivo del Estado, impulsará entre las Universidades, Institutos Tecnológicos y demás instituciones educativas públicas de nivel superior nacional y estatales, la prestación del servicio social en las Comunidades Indígenas.
 
-### Capítulo III. Del Comité de Calidad de la Mejora Regulatoria del Gobierno del Estado de Coahuila de Zaragoza
+###### ARTÍCULO 39.
 
-###### Artículo 18.
+Los Pueblos y Comunidades Indígenas tienen derecho a establecer sus propios medios de comunicación en sus propias lenguas, el Gobierno Estatal podrá otorgar el apoyo necesario para hacer efectivo este derecho, de acuerdo a la normatividad vigente.
 
-Objeto de las unidades de mejora regulatoria.
+###### ARTÍCULO 40.
 
-Los titulares de las dependencias en el ámbito estatal, integrarán y designarán a un responsable de una unidad de mejora regulatoria que será el encargado de la mejora regulatoria al interior de cada una de ellas.
+El Poder Ejecutivo del Estado y los Ayuntamientos a través de sus áreas de comunicación pública, promoverán permanentemente contenidos en su programación sobre usos, costumbres y riquezas artísticas de los Pueblos y Comunidades Indígenas, considerando los siguientes aspectos:
 
-En los municipios y los organismos autónomos que hayan suscrito convenio con el propósito de poder cumplir con los objetivos de la presente ley, se conformará la unidad de mejora regulatoria integrada por todas sus oficinas o áreas de trabajo.
+I.- La pluriculturalidad del Estado;
 
-Los organismos descentralizados conformarán su propia unidad.
+II.- El uso de las lenguas indígenas en los medios de comunicación;
 
-###### Artículo 19.
+III.- El derecho de réplica;
 
-Atribuciones de las unidades de mejora regulatoria.
+IV.- Garantías a los derechos de expresión, información y comunicación; y
 
-Son atribuciones de las unidades de mejora regulatoria las siguientes:
+V.- El respeto a los derechos de los Integrantes de los Pueblos y Comunidades Indígenas.
 
-I. Coordinar el proceso de mejora regulatoria en la dependencia y supervisar su cumplimiento, de conformidad con la presente ley, su reglamento y los lineamientos que apruebe la Comisión.
+### CAPÍTULO VI. DE LA PARTICIPACIÓN INDÍGENA EN LA PLANEACIÓN DEL DESARROLLO ESTATAL Y MUNICIPAL
 
-II. Captar las quejas y propuestas regulatorias de las empresas y los ciudadanos.
+###### ARTÍCULO 41.
 
-III. Solicitar a cada una de las áreas que integran la unidad los planes de trabajo en materia de mejora regulatoria.
+El Poder Ejecutivo del Estado y los Ayuntamientos, establecerán los mecanismos a fin de garantizar la participación de los Pueblos y Comunidades Indígenas en la planeación del desarrollo estatal y municipal, de tal forma que ésta incluya sus aspiraciones y prioridades para garantizar la satisfacción de sus necesidades básicas, de alimentación, salud, recreación, convivencia y vivienda, entre otras.
 
-IV. Elaborar, ejecutar y dar seguimiento a los planes de trabajo de mejora regulatoria que integrarán el programa estatal de mejora regulatoria, en lo que respecta a las dependencias del ámbito estatal y remitirlos a la Secretaría, observando los lineamientos que emita la misma.
+###### ARTÍCULO 42.
 
-V. Presentar trimestralmente a la Secretaría un informe de la aplicación del programa estatal de mejora regulatoria.
+El Poder Ejecutivo del Estado podrá convenir con las Comunidades Indígenas la operación de programas y proyectos productivos conjuntos, tendientes a promover su propio desarrollo.
 
-VI. Elaborar las manifestaciones de impacto regulatorio.
+A través de los programas y proyectos productivos encaminados a la comercialización de los productos de las Comunidades Indígenas, se fomentará el aprovechamiento directo y se evitará el intermediarismo y el acaparamiento, fortaleciendo el intercambio entre sus Comunidades.
 
-VII. Recibir, analizar, orientar y dar respuesta positiva o negativa según sea el caso, de la queja ó propuesta regulatoria. Así mismo, deberá dar a conocer a la Comisión dichas manifestaciones ciudadanas y su análisis de mejora.
+###### ARTÍCULO 43.
 
-VIII. Registrar en la página de Internet que defina la Secretaría, los reportes y los dictámenes de las manifestaciones de impacto regulatorio que se emita.
+El Poder Ejecutivo del Estado en el diseño de sus políticas de descentralización, considerará a las Comunidades Indígenas, para facilitarles el acceso a los servicios públicos y que puedan prestarse éstos con mayor eficiencia, considerando en todo momento el respeto a su entorno.
 
-IX. Revisar periódicamente los trámites que se realicen en las dependencias.
+###### ARTÍCULO 44.
 
-X. Las demás que le señalen esta ley, su reglamento y otras disposiciones legales, así como las que le designe la Comisión.
+Se prohíbe cualquier tipo de reacomodo o desplazamiento de los Pueblos y Comunidades Indígenas, excepto en los casos que provengan de las propias necesidades y de la voluntad de dichos Pueblos y Comunidades o se motiven por causa de utilidad pública legalmente acreditada y justificada o por la conservación del orden público, especialmente en lo que se refiere a casos de riesgos, desastres, seguridad o sanidad.
 
-###### Artículo 20.
+### CAPÍTULO VII. DE LOS RECURSOS NATURALES
 
-Los municipios y la mejora regulatoria.
+###### ARTÍCULO 45.
 
-Los municipios del estado, por conducto de sus ayuntamientos, promoverán la incorporación de la mejora regulatoria en su marco jurídico, su consecuente ejecución, así como el desarrollo de sus respectivas unidades de mejora regulatoria.
+Las Comunidades Indígenas en colaboración con los distintos órdenes de gobierno, en el marco de la legislación federal y estatal de la materia, implementarán las acciones necesarias para la vigilancia, conservación, protección, restauración, aprovechamiento sustentable de su medio ambiente; gozarán del derecho preferente al uso y disfrute de los recursos naturales y turísticos disponibles en sus tierras.
 
-###### Artículo 21.
+###### ARTÍCULO 46.
 
-Atribuciones de los municipios.
+Los Pueblos y Comunidades Indígenas y el Poder Ejecutivo del Estado, a través de la Secretaría del Medio Ambiente y Recursos Naturales, conforme a la normatividad aplicable, convendrán las acciones y medidas necesarias para conservar el medio ambiente y proteger los recursos naturales comprendidos en sus territorios, de tal modo que éstas sean ecológicamente sustentables, técnicamente apropiadas y adecuadas para mantener el equilibrio ecológico, así como compatibles con la libre determinación de los Pueblos y Comunidades para la preservación y usufructo de los recursos naturales.
 
-Los municipios a través de sus dependencias, en los términos de esta ley, tendrán las siguientes atribuciones:
+###### ARTÍCULO 47.
 
-I. Elaborar y ejecutar el Programa Operativo Municipal de Mejora Regulatoria.
+El Gobierno del Estado en colaboración con los Pueblos y Comunidades Indígenas desarrollará programas encaminados a la recopilación, investigación y desarrollo de las prácticas tradicionales indígenas de conservación y explotación de los recursos naturales.
 
-II. Promover la transparencia en la elaboración y aplicación de las regulaciones, procurando que éstas generen beneficios superiores a sus costos para la sociedad.
+###### ARTÍCULO 48.
 
-III. Apoyar y fomentar el desarrollo de las actividades económicas, mediante la atención y asesoría al sector empresarial y a los particulares.
+Cuando se suscite una controversia entre dos o más Comunidades Indígenas o entre los integrantes de éstas, por la explotación de recursos naturales, el Estado procurará y promoverá, a través del diálogo y la concertación, que dichos conflictos se resuelvan por la vía de la conciliación, con la participación de las autoridades competentes.
 
-IV. Implementar procesos para detectar necesidades en materia de mejora regulatoria y para analizar propuestas ciudadanas enfocadas a impulsar la competitividad del municipio.
+### CAPÍTULO VIII. DE LA DEFENSA Y PROTECCIÓN DE LOS DERECHOS LABORALES DE LOS INDÍGENAS
 
-V. Diseñar y operar mecanismos de simplificación y agilización en los trámites y servicios.
+###### ARTÍCULO 49.
 
-VI. Desarrollar acciones de capacitación para los servidores públicos involucrados en el área de mejora regulatoria.
+En el Estado de Puebla, las entidades públicas y los particulares deben respetar el derecho de los indígenas de igualdad de acceso al empleo, incluidos los empleos calificados y las medidas de promoción y de ascenso, así como la remuneración igual por trabajo de igual valor.
 
-VII. Aprobar las acciones necesarias para mejorar la regulación en su ámbito competencial.
+###### ARTÍCULO 50.
 
-VIII. Operar las actividades y funcionamiento de los SARE y ventanillas únicas de gestión empresarial que se encuentren bajo su competencia.
+El Poder Ejecutivo del Estado, a través de la Secretaría del Trabajo y Previsión Social, promoverá la integración de programas de capacitación laboral y empleo en las Comunidades Indígenas.
 
-IX. Las demás que prevea esta ley, el reglamento y otras disposiciones jurídicas aplicables y las que con base en ellas acuerde con la Comisión.
+Estos programas deberán basarse en el entorno económico, las condiciones sociales y culturales y las necesidades concretas de los pueblos interesados.
 
-## Título segundo. De los instrumentos de mejora regulatoria
+###### ARTÍCULO 51.
 
-###### Artículo 22.
+Las autoridades competentes estatales y municipales a fin de proteger el sano desarrollo de los menores de edad, procurarán que el trabajo que desempeñen los menores en el seno familiar no sea excesivo, inhumano ni perjudique su salud o les impida continuar con su educación. Para ello, entre otras acciones, instrumentarán servicios de orientación social encaminados a crear conciencia a los integrantes de las Comunidades Indígenas, observando los tratados internacionales en la materia.
 
-El programa estatal de mejora regulatoria.
+###### ARTÍCULO 52.
 
-El programa estatal de mejora regulatoria contendrá acciones en la materia, será elaborado por la Secretaría y aprobado por la Comisión y tendrá una vigencia de tres años.
+Cualquier persona podrá denunciar, ante las autoridades competentes, los casos que lleguen a su conocimiento en que los trabajadores indígenas laboren en condiciones discriminatorias, desiguales o peligrosas para su salud e integridad física o que sean sometidos a jornadas laborales excesivas, además de los casos en que exista coacción en su contratación laboral, encasillamiento, pago en especie o, en general, violación a sus derechos laborales y humanos, observando los tratados internacionales en la materia.
 
-###### Artículo 23.
+Las autoridades estatales y municipales tendrán la obligación de formular las denuncias a que se refiere el presente artículo.
 
-Objeto del programa estatal de mejora regulatoria.
+### CAPÍTULO IX. DE LA JUSTICIA INDÍGENA
 
-El programa estatal de mejora regulatoria tendrá por objeto promover el crecimiento económico en la entidad; la competitividad empresarial; el bienestar de los usuarios de los servicios públicos y mejorar la eficacia de los gobiernos estatal y municipales, a través de las siguientes acciones:
+###### ARTÍCULO 53.
 
-I. Establecer el proceso de la mejora regulatoria como directriz fundamental para diseñar un marco jurídico funcional, eficaz y legítimo para la actividad económica en el estado y en los municipios.
+Los Pueblos y Comunidades Indígenas del Estado de Puebla, cuentan con sistemas normativos internos que han ejercido de acuerdo a sus propias cualidades y condiciones específicas para resolver distintos asuntos intracomunitarios y que se consideran como usos y costumbres.
 
-II. Establecer las bases para la simplificación de trámites, requisitos, plazos de respuesta, así como para la homologación de los mismos relacionados con el establecimiento, ampliación y operación de industrias, comercios y empresas de servicios.
+###### ARTÍCULO 54.
 
-### Capítulo IV. De la Secretaría
+Las autoridades estatales y municipales, reconocerán las normas y procedimientos de solución de conflictos, que adopten para su convivencia interna los Pueblos y Comunidades Indígenas; sus sistemas normativos internos, juicios, procesos y decisiones serán convalidados por las autoridades jurisdiccionales del Estado, siempre que no se contrapongan a los derechos fundamentales que imponen las disposiciones constitucionales federal y estatal, así como las leyes aplicables y reglamentos o bandos municipales.
 
-###### Artículo 24.
+###### ARTÍCULO 55.
 
-Información mínima del programa estatal de mejora regulatoria.
+Las autoridades estatales y municipales, ponderarán los sistemas normativos internos de los Pueblos y Comunidades Indígenas, debiendo determinarse que cuando se impongan sanciones penales a miembros de los Pueblos Indígenas, se deberán tomar en cuenta las características económicas, sociales y culturales de los sancionados, y que preferentemente podrán compurgar sus penas en los centros de reinserción social más cercanos a su lugar de origen, y en su caso, se propiciará su reinserción a la comunidad como mecanismo esencial de reinserción social.
 
-El programa estatal de mejora regulatoria deberá contemplar, por lo menos, la siguiente información:
+###### ARTÍCULO 56.
 
-I. Trámites y servicios existentes, por modificar o eliminar en el registro, así como los períodos en que esto ocurrirá.
+A fin de garantizar el efectivo acceso de los Pueblos y Comunidades Indígenas a la jurisdicción del Estado, en los procesos penales, civiles, administrativos o de cualquier índole que se desarrolle en forma de juicio, que sea competencia de las autoridades del Estado y en el que intervenga un miembro de algún Pueblo Indígena que no hable el español, en todo tiempo tienen el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura, los jueces, procuradores y demás autoridades administrativas que conozcan del asunto, bajo su responsabilidad se asegurarán del cumplimiento de esta disposición.
 
-II. Períodos de realización de las revisiones de trámites y servicios.
+En todas las etapas procesales y al dictar resolución, los jueces y tribunales que conozcan del asunto, deberán tomar en consideración la condición, prácticas, tradiciones y costumbres del o de los miembros de los Pueblos y Comunidades Indígenas.
 
-III. Diagnóstico del marco regulatorio vigente.
+###### ARTÍCULO 57.
 
-IV. Programas de capacitación a los funcionarios públicos involucrados en materia de mejora regulatoria.
+En todos los juicios y procedimientos en que sean parte los Pueblos y Comunidades Indígenas, individual o colectivamente, los jueces y tribunales deberán tomar en cuenta sus costumbres y especificidades culturales, respetando lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos; en su caso, suplirán la deficiencia de la queja y verificarán que sus derechos efectivamente hayan sido reconocidos y respetados.
 
-V. Las demás que determine la Comisión.
+###### ARTÍCULO 58.
 
-###### Artículo 25.
+Para los miembros del Poder Judicial del Estado, se establecerán programas de actualización y sensibilización sobre derechos indígenas.
 
-Obligación de los responsables de las unidades de mejora regulatoria.
+###### ARTÍCULO 59.
 
-Los responsables de las unidades de mejora regulatoria recopilarán los planes de trabajo de las dependencias estatales a las que pertenezcan, con la finalidad de integrarlos al programa estatal de mejora regulatoria.
+Cuando exista duda de la pertenencia o no de una persona a algún Pueblo o Comunidad Indígena, serán las autoridades tradicionales de aquéllos, quienes expedirán la constancia respectiva.
 
-###### Artículo 26.
+###### ARTÍCULO 60.
 
-Objeto de los programas operativos municipales de mejora regulatoria.
+Cuando se requiera el conocimiento de los usos, costumbres y tradiciones de dicha Comunidad, las autoridades tradicionales estarán facultadas para proporcionar los informes correspondientes, los que tendrán el valor que la autoridad les otorgue.
 
-Los programas operativos municipales de mejora regulatoria contendrán todas las acciones en materia de mejora regulatoria de las dependencias, a fin de cumplir con los objetivos establecidos en la presente ley; será elaborado y ejecutado por las unidades de mejora regulatoria de cada municipio, mismo que tendrá una vigencia no mayor a tres años.
+###### ARTÍCULO 61.
 
-###### Artículo 27.
+El Poder Judicial del Estado, dentro de la partida presupuestal que tienen asignada, formará una plantilla de intérpretes y peritos indígenas, quienes deberán acreditar el dominio de la lengua indígena respectiva, nivel profesional de educación superior, de preferencia licenciados en derecho con título registrado y cédula profesional, para que intervengan en los juicios y procesos en donde sean parte uno o más indígenas.
 
-Información mínima de los programas operativos municipales de mejora regulatoria.
+###### ARTÍCULO 62.
 
-Los programas operativos municipales de mejora regulatoria deberán contemplar, por lo menos, la siguiente información:
+El Poder Ejecutivo del Estado, deberá considerar las condiciones económicas, sociales y culturales de los indígenas sentenciados, para hacer accesible la aplicación de los beneficios preliberatorios a que tengan derecho.
 
-I. Identificar los trámites y servicios que se pretenden crear, modificar ó eliminar.
+###### ARTÍCULO 63.
 
-II. Períodos de realización de las revisiones de trámites y servicios.
+Los establecimientos en donde los indígenas compurguen sus penas, deberán preferentemente contar con programas especiales en atención a su condición indígena, que ayuden a su reinserción. Dichos programas respetarán sus lenguas y sus costumbres.
 
-III. Trámites y servicios que serán mejorados en períodos específicos.
+###### ARTÍCULO 64.
 
-IV. Diagnóstico del marco regulatorio vigente.
+En materia de procuración de justicia y específicamente tratándose de Agentes del Ministerio Público y de la Policía Ministerial, que ejerzan autoridad en las Comunidades Indígenas, serán preferentemente designadas para el desempeño de esos cargos quienes acrediten el dominio de la lengua indígena del territorio de que se trate y conozcan sus usos y costumbres; asimismo se les deberá impartir programas de actualización y sensibilización sobre derechos indígenas.
 
-V. Programas de capacitación a los funcionarios públicos involucrados en materia de mejora regulatoria.
+###### ARTÍCULO 65.
 
-###### Artículo 28.
+El Poder Ejecutivo del Estado, en coordinación con las autoridades municipales efectuarán cuando menos dos veces al año, campañas de Registro en todas las Comunidades Indígenas del Estado.
 
-Obligación de los responsables de las unidades de mejora regulatoria.
+Las oficialías del Registro Civil que estén ubicadas en Comunidades Indígenas o donde éstas acudan a realizar los registros, deberán auxiliarse para efectuar los registros con un intérprete que hable y escriba el español y la lengua indígena de la Comunidad.
 
-Los responsables de las unidades de mejora regulatoria de los municipios recopilarán los planes de trabajo de las dependencias a las que pertenezcan con la finalidad de integrarlos a los programas operativos municipales de mejora regulatoria.
+###### ARTÍCULO 66.
 
-### Capítulo V. De la Secretaría de Fiscalización
+El Poder Judicial del Estado, a solicitud del probable responsable, previo el procedimiento previsto para las competencias, y tomando en consideración la importancia y trascendencia del asunto, podrá determinar que el órgano jurisdiccional que conozca de un asunto donde se encuentre involucrado un indígena decline su competencia al tribunal más cercano al lugar de origen donde habita dicha persona, siempre que se garantice el normal desarrollo del proceso.
 
-###### Artículo 29.
+###### ARTÍCULO 67.
 
-Objeto de la manifestación de impacto regulatorio.
+En regiones con mayor población indígena, se podrá determinar la creación de Juzgados y Agencias del Ministerio Público para la eficiente Procuración y Administración de Justicia, en términos de lo establecido en la legislación aplicable.
 
-La manifestación de impacto regulatorio tiene por objeto garantizar que los beneficios de las regulaciones sean superiores a sus costos y que fomenten la transparencia y la racionalidad.
+### CAPÍTULO X. DE LA SALUD Y ASISTENCIA
 
-###### Artículo 30.
+###### ARTÍCULO 68.
 
-Presentación de una manifestación de impacto regulatorio.
+Los miembros de los Pueblos y Comunidades Indígenas en el Estado de Puebla tienen derecho a la salud, el Estado garantizará el acceso efectivo a los servicios de salud y asistencia social sin discriminación alguna.
 
-Las dependencias presentarán a la Secretaría, en forma impresa y magnética, las manifestaciones de impacto regulatorio respecto de regulaciones y trámites por emitirse o modificarse.
+###### ARTÍCULO 69.
 
-La Secretaría presentará en las sesiones correspondientes de la Comisión las manifestaciones de impacto regulatorio presentadas por las dependencias.
+El Estado y los Ayuntamientos que cuenten con población indígena, promoverán programas para el desarrollo y conservación de la medicina tradicional indígena, y en su caso, podrán habilitar en coordinación con las Comunidades espacios para el desempeño de estas actividades, así como podrán prestar apoyos institucionales para la debida asesoría, recolección y clasificación de plantas y productos medicinales; implementando sistemas de investigación y capacitación para quienes practican la medicina tradicional, aprovechando debidamente ésta.
 
-No se requiere una manifestación de impacto regulatorio para toda acción de simplificación o agilización de trámites que realicen las dependencias internamente o entre sí, siempre y cuando no exista relación directa a la solicitud del ciudadano a un servicio o trámite.
+###### ARTÍCULO 70.
 
-###### Artículo 31.
+Se podrá practicar los conocimientos sobre medicina tradicional como un Sistema Alternativo y Complementario para fines curativos, sin menoscabo de lo establecido en la Ley de Salud del Estado de Puebla; sin que ellos suplan la obligación del Estado de brindar los servicios de salud a los Pueblos y Comunidades Indígenas.
 
-El dictamen regulatorio.
+###### ARTÍCULO 71.
 
-La Comisión elaborará y, en su caso, aprobará el dictamen regulatorio de la manifestación de impacto regulatorio, que deberá estructurarse de conformidad con los principios de sencillez, transparencia y economía en los servicios, trámites y actos administrativos, a efecto de que permita conocer si los proyectos de regulaciones inciden en los siguientes lineamientos:
+El Estado apoyará la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
 
-I. Los motivos de la regulación correspondiente.
+###### ARTÍCULO 72.
 
-II. El fundamento jurídico del proyecto propuesto y los antecedentes regulatorios existentes.
+El Estado y los Ayuntamientos instrumentarán de manera coordinada con las propias Comunidades Indígenas, programas prioritarios encaminados al fortalecimiento e incremento de la cobertura de los servicios sociales básicos de agua potable, drenaje, electrificación, vivienda y demás servicios que vigoricen el desarrollo integral de las Comunidades y personas indígenas.
 
-III. Los riesgos de no emitir la regulación.
+###### ARTÍCULO 73.
 
-IV. Las alternativas consideradas y la solución propuesta.
+Los servicios de salud deberán planearse en cooperación con los Pueblos y Comunidades Indígenas interesados y tomando en cuenta sus condiciones económicas, geográficas, sociales y culturales, así como su medicina tradicional, procurando en todo momento la protección y conservación del medio ambiente.
 
-V. Los costos y beneficios de la regulación.
+### CAPÍTULO XI. DE LA ORGANIZACIÓN INSTITUCIONAL EN MATERIA INDÍGENA
 
-VI. La identificación y descripción de los trámites.
+###### ARTÍCULO 74.
 
-VII. El método para asegurar el cumplimiento de la regulación.
+El Gobierno del Estado garantizará la equidad e igualdad, y eliminará toda forma de discriminación hacia las personas indígenas, impulsando relaciones entre los Pueblos y Comunidades Indígenas y el resto de la sociedad, que descarten toda asimetría y supuesto de superioridad de un grupo sobre los demás, procurando la construcción de una sociedad basada en el respeto a la vestimenta tradicional, diversidad política, cultural y lingüística.
 
-###### Artículo 32.
+###### ARTÍCULO 75.
 
-Lineamientos para la elaboración del dictamen regulatorio.
+Los Ayuntamientos con población indígena deberá contar con una Comisión de Asuntos Indígenas, y podrán, de acuerdo a sus condiciones presupuestales y administrativas, crear unidades, órganos, comisiones o instancias de otra naturaleza encargados de atender sus asuntos. Sus titulares respetarán en su actuación las tradiciones de las Comunidades.
 
-Los lineamientos para la elaboración del dictamen regulatorio serán establecidos en el reglamento de la presente ley.
+###### ARTÍCULO 76.
 
-###### Artículo 33.
+Los Ayuntamientos de los Municipios del Estado, observarán lo previsto en la Ley de la materia, respecto de las denominaciones de sus centros de población.
 
-Objeto del Registro Único de Trámites Administrativos.
+###### ARTÍCULO 77.
 
-El Registro Único de Trámites Administrativos, es el expediente electrónico diseñado y administrado por la Secretaría de Fiscalización, que contiene los trámites y requisitos de las dependencias de la administración pública estatal y las municipales, que permitirá su conocimiento público y que permite su aplicación a los ciudadanos.
+El Poder Ejecutivo del Estado, a través de las dependencias y entidades competentes, implementará y aplicará las acciones de políticas públicas necesarias que garanticen la vigencia de los derechos indígenas y el desarrollo integral de sus Pueblos y Comunidades, las cuales serán diseñadas y operadas conjuntamente con ellos.
 
-###### Artículo 34.
+###### ARTÍCULO 78.
 
-Dependencia encargada del registro.
+Las autoridades de los Municipios y Comunidades preservarán las faenas, los trabajos comunitarios y el tequio como expresión de solidaridad según los usos de cada Pueblo y Comunidad Indígena.
 
-La Secretaría de Fiscalización llevará el registro que será público y estará a disposición de los ciudadanos. En todo caso, la Secretaría de Fiscalización inscribirá trámites, plazos y requisitos de que se trate una vez que se cumpla con lo previsto en la presente ley.
+###### ARTÍCULO 79.
 
-Las dependencias y entidades estatales y municipales serán responsables de la no inscripción de los trámites, requisitos y plazos que no se notifiquen en tiempo a la Secretaría de Fiscalización.
+Las faenas, los trabajos comunitarios y el tequio encaminados a la realización de obras de beneficio común, derivados de los acuerdos de las asambleas, de las autoridades municipales y de las comunitarias de cada Pueblo y Comunidad Indígena, podrán ser considerados como pago de aportación en beneficio de la comunidad.
 
-###### Artículo 35.
+###### ARTÍCULO 80.
 
-Integración del registro.
+El Gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, para cumplir con las disposiciones señaladas en esta Ley, establecerán las partidas específicas en su Ley y Presupuestos de Egresos para los Ejercicios Fiscales correspondientes, respectivamente; así como las formas y procedimientos para que los Pueblos y Comunidades Indígenas participen en el ejercicio y vigilancia.
 
-La Secretaría de Fiscalización remitirá a la Secretaría de Gobierno los trámites, plazos y requisitos que respecto a cada trámite le corresponda aplicar a una dependencia o entidad determinada, para su revisión y aprobación final por parte del Ejecutivo del Estado, a efecto de que una vez aprobados sean publicados en el Periódico Oficial del Gobierno del Estado. De igual forma, los remitirá tratándose del ámbito municipal, a los ayuntamientos respectivos para que, los aprueben y, en su caso, los publiquen en el mismo Periódico Oficial del Gobierno del Estado.
+## TRANSITORIOS
 
-La legalidad y el contenido de la información inscrita en el registro, será de la estricta responsabilidad de las dependencias que proporcionen dicha información.
+###### ARTÍCULO PRIMERO.
 
-Una vez realizada dicha publicación, se procederá a la inscripción de los trámites en el registro. Las dependencias ó entidades correspondientes no podrán exigir trámites distintos a los inscritos, salvo los previstos en disposiciones expedidas con posterioridad.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### Artículo 36.
+###### ARTÍCULO SEGUNDO.
 
-Información mínima de los trámites.
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente Ley.
 
-Las dependencias deberán inscribir sus trámites o actos administrativos con la siguiente información, como mínimo:
+###### ARTÍCULO TERCERO.
 
-I. Nombre del servicio, trámite o acto administrativo.
+El Titular del Poder Ejecutivo del Estado, distribuirá suficientes ejemplares de la presente Ley, traducida a las diversas lenguas de los Pueblos y Comunidades Indígenas asentados en el Estado, con su versión en español. Los Gobiernos del Estado y los Municipios con población indígena dispondrán lo necesario para su divulgación permanente.
 
-II. Nombre de la dependencia ante la cual se realiza el servicio, trámite o acto administrativo.
+###### ARTÍCULO CUARTO.
 
-III. Cargo del servidor público responsable de atenderlo y resolverlo.
+El Ejecutivo del Estado elaborará en un plazo no mayor a ciento ochenta días a partir de la entrada en vigor de la presente Ley, el Reglamento respectivo.
 
-IV. Fundamento jurídico que da origen al servicio, trámite o acto administrativo.
+###### ARTÍCULO QUINTO.
 
-V. Casos o supuestos en los que debe de presentarse el servicio, trámite o acto administrativo.
+Dentro del plazo de un año, a partir de que entre en vigor esta Ley, las Comunidades Indígenas de la Entidad deberán inscribirse en el Padrón a que se refiere el artículo 5 del presente Ordenamiento.
 
-VI. Formatos.
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de enero de dos mil once.- Diputado Presidente.- JUAN ANTONIO GONZÁLEZ HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- GABRIEL GUSTAVO ESPINOSA VÁZQUEZ.- Rúbrica.- Diputada Secretaria.- GUDELIA TAPIA VARGAS.- Rúbrica.- Diputada Secretaria.- MARÍA SOLEDAD DOMÍNGUEZ RÍOS.- Rúbrica.
 
-VII. Horarios de atención, números de teléfono, fax, correo electrónico, domicilio y cualquier otro dato que facilite la localización de la dependencia.
-
-VIII. Listado de los requisitos que se deben de cumplir al gestionar el servicio, trámite o acto administrativo.
-
-IX. Datos de los anexos que se deben incluir al realizar el servicio, trámite o acto administrativo.
-
-X. Monto de los derechos.
-
-XI. Plazo máximo de respuesta y si conforme a las disposiciones jurídicas aplicables opera la afirmativa o la negativa ficta.
-
-XII. Recursos o medios de impugnación que puede hacer valer en caso de no ser satisfactoria la respuesta o no darse ésta en el plazo establecido.
-
-XIII. Vigencia del trámite.
-
-XIV. Información adicional que se estime necesaria para facilitar el servicio, trámite o acto administrativo.
-
-###### Artículo 37.
-
-Actualización del registro.
-
-Las unidades de mejora regulatoria deberán revisar y actualizar periódicamente los trámites inscritos en el registro.
-
-### Capítulo V. Del Registro Único de Personas Acreditadas del Estado de Coahuila de Zaragoza
-
-###### Artículo 38.
-
-Objeto del RUPAC.
-
-El RUPAC es la base de datos diseñada y administrada por la Secretaría de Fiscalización, que contiene los documentos electrónicos probatorios de identidad, domicilio, estado civil u otro, que han sido presentados por el ciudadano ante cualquier dependencia, así como el historial de movimientos realizados, evitando la duplicidad de documentos.
-
-El RUPAC obliga a las dependencias a estar interconectadas y a operar informáticamente, utilizando una clave de acceso otorgada por la Secretaría de Fiscalización.
-
-###### Artículo 39.
-
-Asignación de claves.
-
-Las dependencias deberán asignar a los interesados una clave RUPAC de identificación conformada con base en el Registro Federal de Contribuyentes o en la Clave Única de Registro de Población, en su caso, así como los datos que la Secretaría de Fiscalización y Rendición de Cuentas decida.
-
-El ciudadano o las personas morales para hacer uso de la RUPAC deberán tramitar su firma electrónica certificada, para así poder accesar y realizar promociones electrónicas.
-
-Los titulares de la clave RUPAC serán responsables del uso, contenido y actualización de la documentación e información que conforme su expediente.
-
-###### Artículo 40.
-
-Requisitos.
-
-El RUPAC será de uso gratuito. Los interesados deberán presentar, sin perjuicio de lo que señale el reglamento, copia y original de los siguientes documentos, para su debido cotejo:
-
-I. En el caso de personas morales, testimonio del acta constitutiva y estatutos vigentes inscritos en el Registro Público de la oficina que corresponda en el estado y la Cédula de Identificación Fiscal, así como los poderes de los representantes y su identificación oficial.
-
-II. En el caso de personas físicas, identificación oficial con fotografía y la clave única del registro de población.
-
-III. Cualquier otro organismo o asociación civil, la documentación necesaria que acredite su estatus legal e identifique a su representante autorizado.
-
-Para el cumplimiento de este artículo, las dependencias deberán observar lo dispuesto en la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila.
-
-### Capítulo VI. De las unidades de mejora regulatoria en las dependencias
-
-###### Artículo 41.
-
-Lineamientos para la creación, operación e interconexión del RUPAC.
-
-La Secretaría de Fiscalización, con la autorización de la Comisión, emitirá los lineamientos para la creación, operación e interconexión informática del RUPAC, los cuales contendrán los mecanismos y procedimientos para establecer los formatos de inscripción y claves de identificación, en los términos de la presente ley y su reglamento.
-
-### Capítulo VI. De La Guía Estatal de Trámites Empresariales
-
-###### Artículo 42.
-
-Objeto de la guía.
-
-La Guía Estatal de Trámites Empresariales, es la compilación, diseñada y administrada por la Secretaría, de los trámites inscritos en el registro y demás información, que son necesarios para definir de manera específica los trámites, plazos, requisitos y procedimientos necesarios para la construcción, instalación y operación de instalaciones productivas en el estado.
-
-La Secretaría llevará la guía, que contendrá a detalle la información específica por actividad económica, la cual será pública y estará a disposición de los ciudadanos interesados en llevar a cabo una instalación productiva en el estado y que lo soliciten por escrito a la Secretaría.
-
-###### Artículo 43.
-
-Revisión y actualización de la guía.
-
-La unidad de mejora regulatoria de la Secretaría deberá revisar y actualizar periódicamente los trámites que integran la guía.
-
-### Capítulo VII. Del Sistema de Apertura Rápida de Empresas
-
-###### Artículo 44.
-
-Objeto del SARE.
-
-El SARE es el proceso, transparente y competitivo, que ofrece la administración pública municipal a las empresas para obtener licencias municipales de funcionamiento.
-
-Preferentemente el SARE deberá estar instalado dentro del Centro Municipal de Negocios.
-
-### Capítulo VII. De los municipios
-
-###### Artículo 45.
-
-Lineamientos del SARE.
-
-El SARE será implementado por los municipios en coordinación con la Secretaría, la Comisión y la Comisión Federal de Mejora Regulatoria, con base en los acuerdos o convenios signados al respecto, conforme a los siguientes lineamientos:
-
-I. Se determinará un formato único de apertura para la solicitud del trámite, impreso o en forma electrónica.
-
-II. El formato único de apertura se publicará en las páginas de internet y en los portales de transparencia de los municipios y de la Secretaría.
-
-III. Se publicará en la página de internet y en los portales de transparencia de los municipios el catálogo de giros comerciales SARE, previa autorización del cabildo correspondiente.
-
-IV. Emitirá respuesta a las solicitudes de licencias municipales en un tiempo máximo de 72 horas.
-
-V. Enlazará, en su caso, los trámites federales ó estatales de apertura, de conformidad con la legislación aplicable, fomentando el uso de las tecnologías de información.
-
-VI. Las demás que determine esta ley y su reglamento.
-
-### Capítulo VIII. De los centros municipales de negocios
-
-###### Artículo 46.
-
-Objeto de los centros municipales de negocios.
-
-Los centros municipales de negocios o su equivalente, serán las áreas físicas, integradas con los recursos humanos, materiales y tecnológicos que los municipios podrán destinar para la prestación de los servicios, trámites o actos administrativos relacionados con el desarrollo económico del municipio, con la finalidad de brindar una atención integral a los emprendedores, micro, pequeñas y medianas empresas.
-
-Los municipios, previo convenio, podrán ofrecer en los centros municipales de negocios, los servicios y trámites en materia de mejora regulatoria que brindan las autoridades federales y estatales.
-
-###### Artículo 47.
-
-Servicios que ofrecen los centros municipales de negocios.
-
-De manera enunciativa, más no limitativa, los servicios, trámites, actos administrativos y servicios que se ofrecen en los centros municipales de negocios, serán los siguientes:
-
-I. Orientar a los interesados para iniciar operaciones o para realizar una actividad económica.
-
-II. Informar a los interesados sobre los planes y programas de capacitación, asesoría, financiamiento, bolsa de trabajo, entre otros, enfocados a promover el desarrollo económico.
-
-III. Las demás que establezca esta ley, su reglamento y otras disposiciones jurídicas aplicables.
-
-### Capítulo IX. De la queja y propuesta regulatoria
-
-###### Artículo 48.
-
-Objeto de la queja y propuesta regulatoria.
-
-El interesado que gestione un trámite o servicio, podrá manifestar su inconformidad por la deficiencia en el proceso con respecto a su oportunidad, accesibilidad, transparencia, calidad y economía administrativa.
-
-Para la presentación de la queja deberá observarse lo siguiente:
-
-I. Puede presentarse de manera física o electrónica.
-
-II. Señalar la identidad del interesado.
-
-III. Presentarse ante la unidad de mejora regulatoria de la dependencia competente del trámite.
-
-### Capítulo I. Del programa estatal de mejora regulatoria
-
-###### Artículo 49.
-
-Manifestación de ideas o sugerencias.
-
-El ciudadano podrá en cualquier momento del proceso regulatorio o incluso sin darse este supuesto, manifestar recomendaciones, sugerencias, ideas y proyectos de mejora del marco regulatorio en cualquiera de sus elementos ante la unidad de mejora regulatoria de la dependencia competente del trámite.
-
-### Capítulo X. De las infracciones y sanciones
-
-###### Artículo 50.
-
-Infracciones.
-
-Se consideran infracciones, cualquiera de las conductas siguientes:
-
-I. Incumplimiento de plazos y términos de respuesta establecidos en los servicios, trámites y actos administrativos ante dependencias y entidades tanto estatales como municipales.
-
-II. Solicitar información y documentos adicionales a los establecidos en las leyes aplicables.
-
-III. Uso indebido de la información, registros, documentos, bases de datos u otro similar.
-
-IV. Extravío de documentos.
-
-V. Solicitud de gratificaciones o apoyos para beneficio particular.
-
-VI. Alteración de reglas y procedimientos.
-
-VII. Negligencia o negativa en la recepción de documentos.
-
-VIII. Negligencia para dar seguimiento al trámite.
-
-IX. Manejo indebido de la firma electrónica.
-
-X. Negligencia o negativa en la aplicación de un trámite por desconocimiento de la normatividad aplicable.
-
-XI. Aquellas que incidan en perjuicio del establecimiento y operación de empresas o la satisfacción de una necesidad ciudadana.
-
-Para la aplicación de las sanciones que correspondan con motivo de las mencionadas infracciones, se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los servidores públicos.
-
-T R A N S I T O R I O S
-
-PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se derogan las disposiciones legales, reglamentos, decretos y acuerdos que se opongan a la presente ley.
-
-TERCERO.- El reglamento de la ley, se expedirá en un término no mayor al de 90 días hábiles, contados a partir de la entrada en vigor de la presente ley.
-
-CUARTO.- El programa estatal de mejora regulatoria para la actual administración pública estatal, deberá elaborarse y publicarse en el Periódico Oficial del Gobierno del Estado, en un lapso máximo de seis meses, contados a partir de la entrada en vigor de la presente ley.
-
-QUINTO.- Los programas operativos municipales de mejora regulatoria para cada una de las actuales administraciones públicas municipales deberán elaborarse y publicarse en el Periódico Oficial del Gobierno del Estado, en un lapso máximo de seis meses, contados a partir de la entrada en vigor de la presente ley.
-
-SEXTO.- El Registro Único de Trámites Administrativos, y el Registro Único Personas Acreditadas del Estado de Coahuila de Zaragoza, deberán entrar en operación en un plazo máximo de seis meses, contados a partir de la entrada en vigor de la presente ley.
-
-DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila de Zaragoza, a los doce días del mes de febrero del año dos mil trece.
-
-DIPUTADO PRESIDENTE
-
-SAMUEL ACEVEDO FLORES
-
-(RÚBRICA)
-
-DIPUTADA SECRETARIA
-
-ANA MARÍA BOONE GODOY
-
-(RÚBRICA)
-
-DIPUTADO SECRETARIO
-
-MANOLO JIMÉNEZ SALINAS
-
-(RÚBRICA)
-
-IMPRÍMASE, COMUNÍQUESE Y OBSÉRVESE
-
-Saltillo, Coahuila de Zaragoza, a 18 de febrero de 2013
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-RUBÉN IGNACIO MOREIRA VALDEZ
-
-(RÚBRICA)
-
-EL SECRETARIO DE GOBIERNO
-
-ARMANDO LUNA CANALES
-
-(RÚBRICA)
-
-EL SECRETARIO DE DESARROLLO ECONÓMICO
-
-JOSÉ ANTONIO GUTIÉRREZ JARDÓN
-
-(RÚBRICA)
-
-EL SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
-
-JORGE EDUARDO VERÁSTEGUI SAUCEDO
-
-(RÚBRICA)
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de enero de dos mil once.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 26 DE DICIEMBRE DE 2017.
+P.O. 13 DE ABRIL DE 2018.
 
-### Capítulo II. Programas operativos municipales de mejora regulatoria
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 135 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA".]
 
-### Capítulo III. De la manifestación de impacto regulatorio
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
-### Capítulo IV. Del Registro Único de Trámites Administrativos
+SEGUNDO. Dentro del año siguiente a la entrada en vigor del presente Decreto, todos los órganos del Poder Legislativo, Judicial y Ejecutivo del Estado de Puebla, así como los órganos constitucionalmente autónomos, de acuerdo a su disponibilidad presupuestal, deberán contar con la certificación de la norma mexicana vigente en igualdad laboral y no discriminación.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 1177 POR EL QUE "SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 1 Y LA FRACCIÓN XXII DEL ARTÍCULO 2, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
-
-SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
-
-TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
-
-CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
-
-Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
-
-QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
-
-SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
-
-Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
-
-SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
-
-OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
-
-Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
-
-NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
-
-DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
-
-Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
-
-Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
-
-Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
-
-Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
-
-Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
-
-Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
-
-DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
-
-DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
-
-DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
