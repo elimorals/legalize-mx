@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-movilidad-y-desarrollo-13584
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-04-25"
-last_updated: "2019-05-06"
+last_updated: "2020-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL ESTADO DE YUCATÁN EL 6 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JULIO DE 2020.
 
 Estatuto publicado en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el jueves 25 de abril de 2019.
 
@@ -35,7 +33,7 @@ La Junta de Gobierno del Instituto de Movilidad y Desarrollo Urbano Territorial,
 
 Considerando:
 
-[...]
+[…]
 
 Que para dar cumplimiento a las disposiciones normativas mencionadas, se requiere expedir el instrumento que regule las bases de organización, así como el funcionamiento de las distintas áreas que integran el Instituto de Movilidad y Desarrollo Urbano Territorial, por lo que esta junta de gobierno ha tenido a bien expedir el presente:
 
@@ -92,6 +90,18 @@ c) Dirección de Movilidad, Desarrollo Urbano Sustentable y Territorial.
 d) Dirección de Planeación y Evaluación.
 
 e) Dirección de Transporte.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2020)</small>
+
+f) Secretaría Técnica.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2020)</small>
+
+g) Dirección de Desarrollo Urbano y Territorial.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2020)</small>
+
+h) Dirección de Procesos de Transporte.
 
 ### Capítulo III. Funcionamiento del instituto
 
@@ -541,6 +551,94 @@ XX. Dar seguimiento a los proyectos y acciones en materia de transporte y vigila
 
 XXI. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2020)</small>
+
+###### Artículo 31 Bis.
+
+Facultades y obligaciones del secretario técnico
+
+El Secretario Técnico tendrá las siguientes facultades y obligaciones:
+
+I. Representar al Director general, cuando así se lo indique, ante autoridades federales, estatales o municipales, o consejos, comisiones, comités u órganos colegiados, independientemente de su denominación.
+
+II. Atender, en coordinación con las demás unidades administrativas del Instituto, los proyectos especiales que le asigne el Director General.
+
+III. Coordinar, previa indicación del Director General, el desempeño de las unidades administrativas del Instituto.
+
+IV. Dar seguimiento a los asuntos relevantes del Instituto que le indique el Director General y mantenerlo informado sobre sus avances.
+
+V. Proponer mecanismos para una eficiente comunicación entre las unidades administrativas del Instituto.
+
+VI. Supervisar el cumplimiento de las disposiciones en materia de control interno por parte del Instituto.
+
+VII. Atender los asuntos que requiera el Director General en relación con los consejos, comisiones, comités y demás órganos colegiados en los que participe.
+
+VIII. Las demás que le confiera el Director General o establezcan este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2020)</small>
+
+###### Artículo 31 Ter.
+
+Facultades y obligaciones del Director de Desarrollo Urbano y Territorial
+
+El Director de Desarrollo Urbano y Territorial tendrá las siguientes facultades y obligaciones:
+
+I. Promover, en coordinación con las autoridades competentes, que el desarrollo urbano se oriente hacia el diseño de ciudades y asentamientos humanos que cumplan con las condiciones previstas por las disposiciones jurídicas aplicables
+
+II. Coordinar la elaboración y actualización de los proyectos de programa estatal de ordenamiento territorial y desarrollo urbano, y de los otros instrumentos de planeación relacionados con las materias de su competencia.
+
+III. Coordinar la elaboración y actualización de los proyectos de programas metropolitanos o de zonas conurbadas del Estado.
+
+IV. Participar en la planeación y regulación de las zonas metropolitanas y conurbaciones del Estado.
+
+V. Proporcionar a las autoridades competentes que lo soliciten la información de su competencia y que permita el desarrollo de proyectos en beneficio de las zonas metropolitanas y conurbaciones del Estado.
+
+VI. Diseñar e implementar políticas y acciones en materia de estructuración urbana y gestión de suelo, y de conservación del patrimonio cultural.
+
+VII. Promover y coordinar la creación de observatorios urbanos y apoyar su funcionamiento.
+
+VIII. Dar visto bueno a los oficios, los dictámenes, las resoluciones y demás documentos que deba firmar el Director de Movilidad, Desarrollo Urbano Sustentable y Territorial.
+
+IX. Las demás que le confiera el Director General o establezcan este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+En el ejercicio de sus facultades y obligaciones, el Director de Desarrollo Urbano y Territorial deberá sujetarse a las instrucciones e indicaciones que emita el Director de Movilidad, Desarrollo Urbano Sustentable y Territorial.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2020)</small>
+
+###### Artículo 31 Quater.
+
+Facultades y obligaciones del Director de Procesos de Transporte
+
+El Director de Procesos de Transporte tendrá las siguientes facultades y obligaciones:
+
+I. Coordinar y vigilar el adecuado desarrollo del procedimiento de quejas presentadas por cualquier irregularidad en la prestación del servicio de transporte.
+
+II. Coordinar y supervisar el desarrollo de los operativos de inspección y vigilancia que realicen los inspectores de transporte para verificar el debido cumplimiento de la Ley de Transporte del Estado de Yucatán y su reglamento.
+
+III. Solicitar apoyo a la Secretaría de Seguridad Pública y demás autoridades competentes, y colaborar con ellas en el ejercicio de las atribuciones que permitan verificar el debido cumplimiento de la Ley de Transporte del Estado de Yucatán y su reglamento.
+
+IV. Emitir requerimientos a las personas físicas o morales que cuenten con concesión, permiso, constancia o certificado, para que realicen las medidas correctivas necesarias para garantizar la adecuada prestación del servicio de transporte y para solventar los actos, las conductas y las infracciones emanadas de las quejas presentadas con respecto a este servicio.
+
+V. Verificar la integración de los expedientes que contengan las actas de inspección o boletas de infracción levantadas por los inspectores de transporte, así como la sustanciación de los procedimientos administrativos correspondientes.
+
+VI. Recibir la comparecencia del infractor, ya sea personal o a través de su apoderado legal, respecto de las actas de inspección o boletas de infracción levantadas por los inspectores de transporte, y emitir el acuerdo mediante el cual se tiene al infractor por presentado o no.
+
+VII. Recibir las placas del servicio de transporte consignadas en resguardo por sus titulares ante la Dirección de Transporte, y entregarlas, previa solicitud únicamente de quien acredite ser su legítimo titular, una vez cubiertos los requisitos correspondientes, de conformidad con la Ley de Transporte del Estado de Yucatán y su reglamento.
+
+VIII. Revisar y calificar las infracciones en materia de transporte, de conformidad con la normativa aplicable, proponer al Director de Transporte las sanciones correspondientes y verificar su aplicación.
+
+IX. Emitir el acuerdo de conclusión, en virtud de haberse resulto (sic) el procedimiento administrativo realizado ante la Dirección de Transporte, haber cubierto la sanción pecuniaria a que hubiere lugar y haber cumplido a cabalidad con lo instruido por el Director de Transporte.
+
+X. Vigilar la integración y actualización del padrón de concesiones, permisos, constancias y certificados de transporte.
+
+XI. Vigilar, en el ámbito de su competencia, el adecuado desarrollo de las evaluaciones de calidad en la atención ciudadana que preste el Instituto.
+
+XII. Dar visto bueno a las contestaciones que deba dar el Director de Transporte respecto de los escritos y trámites de su competencia.
+
+XIII. Las demás que le confiera el Director General o establezcan este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+En el ejercicio de sus facultades y obligaciones, el Director de Procesos de Transporte deberá sujetarse a las instrucciones e indicaciones que emita el Director de Transporte.
+
 ###### Artículo 32.
 
 Consejo Consultivo de Movilidad y Desarrollo Urbano Territorial
@@ -604,3 +702,17 @@ Aprobado por la Junta de Gobierno del Instituto de Movilidad y Desarrollo Urbano
 Ing. Aref Miguel Karam Espósitos
 
 Director general del Instituto de Movilidad y Desarrollo Urbano Territorial
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 7 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO IMDUT 03/2020 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El Director General del Instituto de Movilidad y Desarrollo Urbano Territorial, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá inscribir en el Registro de Entidades Paraestatales las modificaciones efectuadas por este acuerdo en el Estatuto orgánico del Instituto de Movilidad y Desarrollo Urbano Territorial.
