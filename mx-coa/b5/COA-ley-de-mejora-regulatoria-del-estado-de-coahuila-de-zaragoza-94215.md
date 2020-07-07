@@ -4,7 +4,7 @@ identifier: "COA-ley-de-mejora-regulatoria-del-estado-de-coahuila-de-zaragoza-94
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-10"
-last_updated: "2017-12-26"
+last_updated: "2020-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTICULO SÉPTIMO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 7 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2020 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de mayo de 2013.
 
@@ -830,3 +832,39 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 7 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 627.- SE EXPIDE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Estatal de Mejora Regulatoria deberá estar instalado en un plazo que no exceda los noventa días naturales a la entrada en vigor de la Ley Estatal de Mejora Regulatoria.
+
+###### ARTÍCULO TERCERO.
+
+Las Autoridades de Mejora Regulatoria y los Sujetos Obligados darán cumplimiento a las obligaciones establecidas en la presente Ley con cargo a sus respectivos presupuestos.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de la (sic) esta Ley, los Municipios contarán con un plazo de un año para adecuar sus Reglamentos al contenido de dicha Ley. Los Consejos Municipales de Mejora Regulatoria deberán instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor de las adecuaciones correspondientes en su legislación local.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos que se encuentren en trámite una vez que entre en vigor la presente Ley, serán concluidos de conformidad con las disposiciones vigentes al momento de su inicio, en términos de las disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría publicará los lineamientos dentro del plazo que no exceda a un año contado, a partir de la entrada en vigor de dicha Ley, de al menos las siguientes herramientas:
+
+I. Análisis de Impacto regulatorio.
+
+II. Programa Estatal de mejora regulatoria
+
+###### ARTÍCULO SÉPTIMO.
+
+Se abroga la Ley de Mejora Regulatoria para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Estado No. 38 de fecha 10 de mayo de 2013.
