@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2020-04-24"
+last_updated: "2020-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JULIO DE 2020.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1437,21 +1437,15 @@ VII. Unidad de Información.
 
 Asimismo, podrá disponer la creación de otras que sean necesarias.
 
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+###### Artículo 94 Bis.
 
-Artículo 94 BIS.- El Poder Legislativo se auxiliará de un órgano de consulta denominado Consejo Consultivo de Valoración Salarial, cuya integración y funciones estarán señaladas por el Reglamento del Poder Legislativo del Estado Libre y Soberano de México.
+(DEROGADO, G.G. 7 DE JULIO DE 2020)
 
 > <small>(ADICIONADO, G.G. 2 DE FEBRERO DE 2010)</small>
 
 Artículo 94 TER.- La Legislatura contará con un Comité de Información, que será presidido por el Presidente de la Junta de Coordinación Política o por quien él designe, y se integrará de acuerdo a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
 > <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
-
-###### Artículo 94 Bis.
-
-El Poder Legislativo se auxiliará de un órgano de consulta denominado Consejo Consultivo de Valoración Salarial, cuya integración y funciones estarán señaladas por el Reglamento del Poder Legislativo del Estado Libre y Soberano de México.
-
-> <small>(ADICIONADO, G.G. 2 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 95.
 
@@ -2284,3 +2278,17 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. La Legislatura, la Diputación Permanente y las comisiones y comités garantizarán que las sesiones y las reuniones desarrolladas a distancia, mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, cumplan con la legalidad de los procedimientos y de las votaciones emitidas, de conformidad con la normatividad vigente aplicable.
+
+G.G. 7 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 156.- POR EL QUE SE DEROGA EL ARTÍCULO 94 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMAN LOS INCISOS F) Y G) Y SE ADICIONA EL INCISO H) A LA FRACCIÓN IV DEL ARTÍCULO 13 A, Y SE DEROGAN LOS ARTÍCULOS 179; 180; 181; 182; 183; 184; 185; 186 Y 187, TODOS DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Todos los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo el resguardo del Consejo Consultivo de Valoración Salarial, se transferirán a la Comisión de Planeación y Gasto Público de la Legislatura, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Se abroga el Decreto número 8, por el que se integra el Consejo Consultivo de Valoración Salarial publicado en el Periódico Oficial “Gaceta del Gobierno”, el 14 de noviembre de 2018.
+
+QUINTO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
