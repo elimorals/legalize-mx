@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2020-05-29"
+last_updated: "2020-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -97,6 +97,10 @@ X. Ley de Partidos: Ley General de Partidos Políticos;
 
 XI. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2020)</small>
+
+XI Bis. Paridad de género: Igualdad política entre hombres y mujeres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
+
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
 XII. Tribunal: Tribunal Electoral del Estado de Michoacán;
@@ -109,7 +113,17 @@ XIII. UMA: Unidad de Medida y Actualización;
 
 XIV. Urna electrónica: medio electrónico o cualquier otra tecnología de recepción del sufragio, en el cual el emitente del voto deposita o expresa su voluntad; y,
 
-XV. Violencia Política Por Razones de Género: todo acto u omisión en contra de las mujeres por medio del cual se cause daño moral, físico o psicológico a través de la presión, persecución, hostigamiento, acoso, coacción, amenaza y/ o privación de la vida por cuestión de género, cometidos por una persona o grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirla u obligarla a tomar decisiones de tipo político-electoral en contra de su voluntad.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2020)</small>
+
+XV. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XV, P.O. 7 DE JULIO DE 2020]</small>
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XV, P.O. 7 DE JULIO DE 2020]</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -6356,3 +6370,15 @@ P.O. 29 DE MAYO DE 2020.
 PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 7 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 335.- PRIMERO.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 9; ARTÍCULO 15; FRACCIÓN XII DEL ARTÍCULO 20; SE ADICIONA EL ARTÍCULO 9 BIS; LA FRACCIÓN XIII DEL ARTÍCULO 20 RECORRIÉNDOSE EN SU ORDEN SUBSECUENTE LAS SIGUIENTES; Y, EL ARTÍCULO 39 BIS, TODOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO.- SE REFORMA EL ARTÍCULO 57 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- TERCERO.- SE REFORMA LA FRACCIÓN XV Y SE ADICIONA LA FRACCIÓN XI BIS, AL ARTÍCULO 3 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez publicado el presente Decreto y por única ocasión, la Fiscalía General del Estado de Michoacán, contará con treinta días naturales para presentar ante el Congreso del Estado, la adecuación a su Plan de Persecución de Delitos 2019-2028, en la que se incorpore la creación de la Base Estadística Estatal de Violencia Política contra las Mujeres en Razón de Género.
