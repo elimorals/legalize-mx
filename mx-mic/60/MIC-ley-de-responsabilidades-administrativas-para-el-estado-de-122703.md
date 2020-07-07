@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-administrativas-para-el-estado-de-1227
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2020-05-27"
+last_updated: "2020-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2020.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 18 de julio de 2017.
 
@@ -555,9 +555,11 @@ Para efectos del artículo anterior, se considera información privilegiada la q
 
 La restricción prevista en el artículo anterior será aplicable inclusive cuando el Servidor Público se haya retirado del empleo, cargo o comisión, hasta por un plazo de un año.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2020)</small>
+
 ###### Artículo 57.
 
-Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere la presente Ley o para causar perjuicio a alguna persona o al servicio público.
+Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere la presente Ley o para causar perjuicio a alguna persona o al servicio público; así como cuando realiza por sí o a través de un tercero, alguna de las conductas descritas en el artículo 9 Bis de la Ley por una Vida Libre de Violencia para las Mujeres en el Estado de Michoacán de Ocampo.
 
 ###### Artículo 58.
 
@@ -1794,3 +1796,15 @@ P.O. 27 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 334 POR EL QUE “SE ADICIONA UN ARTÍCULO QUINTO TRANSITORIO A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 7 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 335 POR EL QUE "PRIMERO.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 9; ARTÍCULO 15; FRACCIÓN XII DEL ARTÍCULO 20; SE ADICIONA EL ARTÍCULO 9 BIS; LA FRACCIÓN XIII DEL ARTÍCULO 20 RECORRIÉNDOSE EN SU ORDEN SUBSECUENTE LAS SIGUIENTES; Y, EL ARTÍCULO 39 BIS, TODOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO.- SE REFORMA EL ARTÍCULO 57 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- TERCERO.- SE REFORMA LA FRACCIÓN XV Y SE ADICIONA LA FRACCIÓN XI BIS, AL ARTÍCULO 3 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez publicado el presente Decreto y por única ocasión, la Fiscalía General del Estado de Michoacán, contará con treinta días naturales para presentar ante el Congreso del Estado, la adecuación a su Plan de Persecución de Delitos 2019-2028, en la que se incorpore la creación de la Base Estadística Estatal de Violencia Política contra las Mujeres en Razón de Género.
