@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2020-01-13"
+last_updated: "2020-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2020.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -189,9 +189,13 @@ IV. Violencia patrimonial: Cualquier acción u omisión encaminada a la sustracc
 
 V. Violencia económica: Cualquier acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, para lesionar su independencia y supervivencia económica;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2020)</small>
 
-VI. Violencia política: Todo acto u omisión en contra de las mujeres por medio del cual se cause un daño moral, físico o psicológico a través de la presión, persecución, hostigamiento, acoso, coacción, amenaza y/o privación de la vida por cuestión de género, cometidos por una persona o un grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirla u obligarla a tomar decisiones de tipo político-electoral en contra de su voluntad;
+VI. Violencia política: La violencia política contra las mujeres en razón de género, es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2020)</small>
 
@@ -204,6 +208,24 @@ VIII. Violencia Digital. Es cualquier acto que se presenta a través de las tecn
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE ENERO DE 2020)</small>
 
 IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2020)</small>
+
+ARTÍCULO 9 BIS. La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
+
+I. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+
+II. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
+
+III. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
+
+IV. Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
+
+V. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
+
+VI. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones; u,
+
+VII. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad.
 
 ###### ARTÍCULO 10.
 
@@ -267,13 +289,17 @@ IV. Prohibir procedimientos de mediación o conciliación, por ser inviables en 
 
 V. Garantizar la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos menores de edad o incapaces; la información sobre su ubicación será reservada y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional expedida por la autoridad competente, correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 15.
 
 Las autoridades responsables de la aplicación de esta Ley, estarán obligadas a elaborar acciones y políticas públicas que integren:
 
-I. La capacitación y especialización de las y los servidores públicos que permita garantizar los derechos humanos de las mujeres, el respeto a su dignidad, libertad y autonomía y que combatan la discriminación contra mujeres; y,
+I. La capacitación y especialización de las y los servidores públicos que permita garantizar los derechos humanos de las mujeres, el respeto a su dignidad, libertad y autonomía y que combatan la discriminación contra mujeres;
 
-II. Implementar sanciones administrativas que incluyan la reeducación libre de estereotipos de las y los servidores públicos que sean responsables de casos de violencia institucional.
+II. Implementar sanciones administrativas que incluyan la reeducación libre de estereotipos de las y los servidores públicos que sean responsables de casos de violencia institucional; y,
+
+III. En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Michoacán y el Instituto Electoral de Michoacán, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere la presente Ley.
 
 ###### ARTÍCULO 16.
 
@@ -351,17 +377,21 @@ X. Un Ayuntamiento por cada una de las diez regiones socioeconómicas del Estado
 
 XI. La Comisión Estatal de los Derechos Humanos;
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2020)</small>
 
-XII. La Comisión de Igualdad de Género del Congreso del Estado;
+XII. La Comisión de Igualdad Sustantiva y de Género del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2020)</small>
+
+XIII. Instituto Electoral de Michoacán;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
-XIII. Representantes de instituciones académicas o de investigación con conocimiento y trabajo relevante sobre el tema de la violencia contra la mujer; y,
+XIV. Representantes de instituciones académicas o de investigación con conocimiento y trabajo relevante sobre el tema de la violencia contra la mujer; y,
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2017)</small>
 
-XIV. Organizaciones de la sociedad civil con conocimiento y trabajo relevante sobre el tema de la violencia contra la mujer en el Estado.
+XV. Organizaciones de la sociedad civil con conocimiento y trabajo relevante sobre el tema de la violencia contra la mujer en el Estado.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
 
@@ -638,6 +668,16 @@ El Síndico Municipal, previa denuncia, reporte o noticia de violencia en contra
 Esta denuncia, reporte o noticia no obedecerá a formalidades especiales pudiendo ser notificada por cualquier medio. No requerirá ratificación por parte de la mujer violentada y se tramitará de oficio.
 
 La orden de protección deberá estar debidamente fundada y motivada y ser ejecutada inmediatamente por la fuerza pública municipal, pudiendo solicitar el auxilio de otras autoridades.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2020)</small>
+
+ARTÍCULO 39 BIS. Corresponde al Instituto Electoral de Michoacán en el ámbito de su competencia:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales; y,
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
 
 ### CAPÍTULO VI. PROGRAMA ESTATAL
 
@@ -1090,3 +1130,15 @@ P.O. 13 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 7 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 335 POR EL QUE "SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 9; ARTÍCULO 15; FRACCIÓN XII DEL ARTÍCULO 20; SE ADICIONA EL ARTÍCULO 9 BIS; LA FRACCIÓN XIII DEL ARTÍCULO 20 RECORRIÉNDOSE EN SU ORDEN SUBSECUENTE LAS SIGUIENTES; Y, EL ARTÍCULO 39 BIS, TODOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez publicado el presente Decreto y por única ocasión, la Fiscalía General del Estado de Michoacán, contará con treinta días naturales para presentar ante el Congreso del Estado, la adecuación a su Plan de Persecución de Delitos 2019-2028, en la que se incorpore la creación de la Base Estadística Estatal de Violencia Política contra las Mujeres en Razón de Género.
