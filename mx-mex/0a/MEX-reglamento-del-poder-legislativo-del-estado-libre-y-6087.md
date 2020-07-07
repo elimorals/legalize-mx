@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2019-12-23"
+last_updated: "2020-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JULIO DE 2020.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -195,9 +195,35 @@ d) Los impuestos extraordinarios o especiales, estatales o municipales;
 
 e) La contratación de empréstitos del Estado y de los municipios en términos de la Constitución;
 
-f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política; y
+> <small>(REFORMADO [N. DE E. REUBICADO], G.G. 7 DE JULIO DE 2020)</small>
 
-g) Las demás relativas y aplicables a la materia.
+f) Las demás relativas y aplicables a la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 7 DE JULIO DE 2020)</small>
+
+g) La formulación de opiniones y/o recomendaciones en materia de remuneraciones de los servidores públicos del Estado de México, las cuales observarán los principios de racionalidad, austeridad, disciplina financiera, equidad, legalidad, eficacia, eficiencia, congruencia, igualdad, y transparencia y verificarán que:
+
+1. Los niveles mínimos y máximos de las remuneraciones estén apegados a los lineamientos establecidos por las disposiciones legales aplicables;
+
+2. Los niveles mínimos y máximos de las remuneraciones para los empleos, cargos o comisiones públicas sean conforme a la actividad y responsabilidad que desempeñen;
+
+3. Se privilegie el cumplimiento de las atribuciones de los Poderes Públicos, Organismos Auxiliares, Organismos Autónomos y Municipios;
+
+4. Se respeten las medidas de protección al salario previstas por la Ley;
+
+5. Se determinen los niveles mínimos y máximos de las remuneraciones concordantes con el catálogo general de puestos y el tabulador anual, identificando, en su caso, aquellas que no lo sean o que resulten descomunales o desproporcionadas;
+
+6. El catálogo general y el tabulador anual contengan todos los conceptos de remuneraciones por cargo, empleo o comisión públicas, sin omisión alguna, y
+
+7. La estructura de las remuneraciones promueva y estimule el mejor desempeño y el desarrollo profesional de los servidores públicos.
+
+La Comisión de Planeación y Gasto Público revisará las remuneraciones mínimas y máximas propuestas en el proyecto de Presupuesto de Egresos del Gobierno del Estado, emitiendo en su caso observaciones, a más tardar el cinco de diciembre. Tratándose de los Municipios, las remuneraciones serán revisadas antes del veinticinco de febrero de cada año.
+
+Las opiniones y/o recomendaciones serán comunicadas al Pleno de la Legislatura para su conocimiento y publicación en el Periódico Oficial “Gaceta del Gobierno” y deberán ser consideradas en el marco de la discusión del Presupuesto correspondiente y, en su caso, para la formulación de recomendaciones a los municipios.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 7 DE JULIO DE 2020)</small>
+
+h) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 V. La Comisión de Trabajo, Previsión y Seguridad Social, conocerá de los temas siguientes:
 
@@ -2171,103 +2197,41 @@ IV. Ser mexiquense, en los términos de lo establecido por el artículo 23 de la
 
 El Instituto de Estudios Legislativos tendrá las atribuciones que le señale su reglamento.
 
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
-
 ###### Artículo 179.
 
-El Consejo Consultivo de Valoración Salarial es un órgano auxiliar del Poder Legislativo del Estado de México, ciudadano y multidisciplinario, encargado de realizar estudios y emitir opiniones, en materia de remuneraciones de los servidores públicos.
-
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+(DEROGADO, G.G. 7 DE JULIO DE 2020)
 
 ###### Artículo 180.
 
-El Consejo Consultivo de Valoración Salarial se integrará por siete consejeros propietarios y tres suplentes, que serán designados por la Legislatura, por mayoría calificada de los diputados presentes, a propuesta de la Junta de Coordinación Política, de entre representantes de los sectores académico, empresarial y social del Estado de México; mismos que no podrán ser ni haber sido dirigentes de sindicatos o de partidos políticos, o candidatos de partido político alguno.
-
-Los consejeros durarán en su desempeño tres años y su cargo será honorífico.
-
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+(DEROGADO, G.G. 7 DE JULIO DE 2020)
 
 ###### Artículo 181.
 
-Los integrantes del Consejo Consultivo de Valoración Salarial serán elegidos mediante el proceso de selección siguiente:
-
-I. La Junta de Coordinación Política expedirá la convocatoria correspondiente;
-
-II. Durante los diez días hábiles siguientes a la fecha de expedición de la convocatoria, la Secretaría Técnica de la Junta de Coordinación Política recibirá la documentación de los aspirantes;
-
-III. La Junta de Coordinación Política analizará los perfiles de cada aspirante y propondrá a la Asamblea la integración del Consejo Consultivo de Valoración Salarial, una vez electos, se procederá a tomarles protesta; y
-
-IV. La designación realizada por la Legislatura, será publicada en la Gaceta del Gobierno.
-
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+(DEROGADO, G.G. 7 DE JULIO DE 2020)
 
 ###### Artículo 182.
 
-Para la integración de Consejo Consultivo de Valoración Salarial, la Legislatura expedirá la convocatoria respectiva, a más tardar el 15 de septiembre del año de su renovación.
-
-El Consejo Consultivo de Valoración Salarial deberá quedar instalado y entrar en funciones, a partir de la segunda quincena del mes de octubre del año que corresponda.
-
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+(DEROGADO, G.G. 7 DE JULIO DE 2020)
 
 ###### Artículo 183.
 
-Los integrantes del Consejo Consultivo de Valoración Salarial podrán ser removidos por la Junta de Coordinación Política, en los siguientes casos:
-
-I. Incumplir con las atribuciones propias de su cargo;
-
-II. Sustraer, destruir, ocultar o utilizar indebidamente la documentación o información que por razón de su cargo, tenga a su cuidado o custodia o que exista en el Consejo, con motivo del ejercicio de sus atribuciones; y
-
-III. Por incapacidad física o mental definitiva que impida el cabal cumplimiento de sus atribuciones.
-
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+(DEROGADO, G.G. 7 DE JULIO DE 2020)
 
 ###### Artículo 184.
 
-El Consejo Consultivo contará con un consejero presidente electo por sus integrantes, durará en su cargo un año y podrá ser reelecto por un periodo igual.
-
-Los consejeros deberán conducirse con la mayor probidad, honradez y profesionalismo.
-
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+(DEROGADO, G.G. 7 DE JULIO DE 2020)
 
 ###### Artículo 185.
 
-El Consejo Consultivo de Valoración Salarial sesionará de manera ordinaria, previa convocatoria por parte de su Presidente, en caso de que éste no convoque o se encuentre imposibilitado para hacerlo, por mayoría simple de sus integrantes.
-
-Se integrará quórum con la mitad más uno de sus integrantes, incluido su presidente. Los consejeros tendrán voz y voto y sus determinaciones se tomarán por mayoría simple de votos; en caso de empate, el presidente tendrá voto de calidad.
-
-La Junta de Coordinación Política proveerá lo necesario para que el Consejo Consultivo de Valoración Salarial cumpla con sus obligaciones.
-
-El Consejo Consultivo de Valoración Salarial designará de entre sus miembros a un Secretario Técnico, que integrará el orden del día, elaborará las minutas de las reuniones y hará el seguimiento de los acuerdos emitidos por el Consejo.
-
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+(DEROGADO, G.G. 7 DE JULIO DE 2020)
 
 ###### Artículo 186.
 
-El Consejo Consultivo de Valoración Salarial emitirá sus recomendaciones verificando que:
-
-I. Los niveles mínimos y máximos de las remuneraciones estén apegados a los lineamientos establecidos por la Ley;
-
-II. Los niveles mínimos y máximos de las remuneraciones para los empleos, cargos o comisiones públicas sean conforme a la actividad y responsabilidad que desempeñen;
-
-III. Se privilegie el cumplimiento de las atribuciones de los Poderes Públicos, Organismos Auxiliares, Organismos Autónomos y Municipios;
-
-IV. Se respeten las medidas de protección al salario estipuladas por la Ley;
-
-V. Se determinen los niveles mínimos y máximos de las remuneraciones concordantes con el catálogo general de puestos y el tabulador anual, identificando en su caso, aquellas que no lo sean o que resulten descomunales o desproporcionadas;
-
-VI. El catálogo general y el tabulador anual, contengan todos los conceptos de remuneraciones por cargo, empleo o comisión públicas, sin omisión alguna; y
-
-VII. La estructura de las remuneraciones promueva y estimule el mejor desempeño y el desarrollo profesional de los servidores públicos.
-
-Para el cumplimiento de sus atribuciones, podrá solicitar información sobre remuneraciones a los Poderes Públicos, Organismos Auxiliares, Organismos Autónomos y Municipios, a través del Organo Superior de Fiscalización.
-
-> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
+(DEROGADO, G.G. 7 DE JULIO DE 2020)
 
 ###### Artículo 187.
 
-El Consejo Consultivo de Valoración Salarial revisará las remuneraciones mínimas y máximas propuestas en el proyecto de Presupuesto de Egresos del Estado, emitiendo en su caso observaciones, a más tardar el cinco de diciembre. Tratándose de los municipios, las remuneraciones serán revisadas antes del 25 de febrero de cada año.
-
-El Consejo Consultivo de Valoración Salarial turnará sus recomendaciones a la Legislatura, para su publicación inmediata en la Gaceta del Gobierno, para que determine lo conducente al dictaminar el Presupuesto de Egresos y en su caso, formule las recomendaciones correspondientes a los municipios.
+(DEROGADO, G.G. 7 DE JULIO DE 2020)
 
 ## TRANSITORIOS
 
@@ -2718,3 +2682,17 @@ CUARTO.- La Dirección General de Comunicación Social, deberá actualizar las d
 QUINTO.- La Junta de Coordinación Política proveerá lo necesario para el cumplimiento del presente Decreto.
 
 SEXTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 7 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 156.- POR EL QUE SE DEROGA EL ARTÍCULO 94 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMAN LOS INCISOS F) Y G) Y SE ADICIONA EL INCISO H) A LA FRACCIÓN IV DEL ARTÍCULO 13 A, Y SE DEROGAN LOS ARTÍCULOS 179; 180; 181; 182; 183; 184; 185; 186 Y 187, TODOS DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Todos los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo el resguardo del Consejo Consultivo de Valoración Salarial, se transferirán a la Comisión de Planeación y Gasto Público de la Legislatura, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Se abroga el Decreto número 8, por el que se integra el Consejo Consultivo de Valoración Salarial publicado en el Periódico Oficial “Gaceta del Gobierno”, el 14 de noviembre de 2018.
+
+QUINTO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
