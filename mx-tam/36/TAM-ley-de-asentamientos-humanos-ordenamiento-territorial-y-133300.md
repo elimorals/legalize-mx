@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asentamientos-humanos-ordenamiento-territorial-y-133300"
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-05"
-last_updated: "2019-10-16"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 5 de febrero de 2019.
 
@@ -2099,7 +2101,9 @@ b) Iluminación con tecnología sustentable, que permitan el ahorro de energía;
 
 c) Instalación de juegos infantiles;
 
-d) Un árbol por cada sesenta metros cuadrados de superficie. Los árboles deberán tener una altura mínima de un metro con cincuenta centímetros, utilizando para ello especies nativas; y
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+
+d) Un árbol por cada quince metros cuadrados de superficie. Los árboles deberán tener una altura mínima de un metro con cincuenta centímetros, utilizando para ello especies nativas; y
 
 e) Servicios y mobiliario urbano complementarios que el ayuntamiento determine necesarios como tomas de agua, bebederos, estacionamientos para bicicletas, bancas, entre otros.
 
@@ -2154,6 +2158,10 @@ III. Sistemas para la captación y aprovechamiento de aguas pluviales para el ri
 IV. Calentamiento de agua a través de calentadores solares.
 
 Las viviendas que se construyan como parte de los desarrollos en condominio sustentables o, fraccionamientos sustentables se sujetarán a los lineamientos, criterios y parámetros de sustentabilidad que establezca la Comisión Nacional de Vivienda, y en los en los términos de lo dispuesto en la Ley de Vivienda para el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
+
+Artículo 158 BIS. Con la finalidad de reducir el impacto al medio ambiente en la construcción de viviendas y la urbanización de suelo, los fraccionadores deberán plantar por lo menos un árbol nativo de la región en cada lote destinado a la habitación, preferentemente en los espacios destinados para las banquetas, con independencia de las áreas verdes existentes en el asentamiento humano. Lo anterior en términos de lo dispuesto por la normatividad estatal y municipal de la materia, con el fin de determinar las reglas específicas para su ubicación, altura, características del tipo de suelo y costos.
 
 ###### Artículo 159.
 
@@ -2559,9 +2567,15 @@ II. Presentar los proyectos arquitectónicos, estructurales y de instalaciones, 
 
 III. Acompañar la autorización de uso de suelo;
 
-IV. Así como acreditar el pago correspondiente del impuesto predial al corriente; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-V. Realizar el pago de los derechos correspondientes.
+IV. Así como acreditar el pago correspondiente del impuesto predial al corriente;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+V. Autorización de planos por parte de la autoridad sanitaria en el Estado de Tamaulipas; y
+
+VI. Realizar el pago de los derechos correspondientes.
 
 Para aquellas obras de impacto detonante económico y de servicios previo a la expedición de la licencia de construcción que emita el ayuntamiento, el promovente de la obra deberá de presentar para su expedición el dictamen de impacto urbano que trate emitido por la Secretaría.
 
@@ -3602,3 +3616,23 @@ P.O. 16 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-115 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA PRESTACIÓN DEL SERVICIO DE PANTEONES EN EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, Y LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-125 MEDIANTE EL CUAL SE REFORMA EL INCISO D), DE LA FRACCIÓN VI DEL ARTÍCULO 156 Y SE ADICIONA EL ARTÍCULO 158 BIS A LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las adiciones y reformas materia de este.
