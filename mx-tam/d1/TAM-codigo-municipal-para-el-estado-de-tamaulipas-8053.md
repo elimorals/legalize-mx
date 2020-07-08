@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2020-06-19"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -681,7 +683,11 @@ LV.- Fomentar y promover, la integración y la participación ciudadana a travé
 
 LVI.- Implementar acciones para la transversalidad en la prevención, atención, sanción y erradicación de la violencia contra las mujeres, con base en el programa que para tal efecto se establezca en el Plan Municipal de Desarrollo, apoyándose para el cumplimiento de esta atribución con el cabildo y la administración pública municipal.
 
-LVII.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+LVII.- Solicitar las autorizaciones y certificados sanitarios como requisito para el otorgamiento de licencias a establecimientos que vendan alimentos y bebidas ambulantes, semifijo y fijas.
+
+LVIII.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
 
 ###### ARTICULO 50.
 
@@ -785,7 +791,9 @@ I.- Armonizar el funcionamiento de los distintos órganos del gobierno municipal
 
 II.- Presidir las sesiones del Ayuntamiento con voz y voto en las deliberaciones, y voto de calidad en caso de empate.
 
-III.- Citar a sesiones extraordinarias cuando lo estime conveniente o lo solicite la tercera parte de los miembros del Ayuntamiento.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+III.- Citar a sesiones ordinarias, en los términos del presente Código; y extraordinarias cuando lo estime conveniente o lo solicite la tercera parte de los miembros del Ayuntamiento.
 
 IV.- Ejecutar los acuerdos del Ayuntamiento, aplicando, si fuere necesario, las sanciones que establece el presente Código, e informándolo oportunamente.
 
@@ -3971,7 +3979,9 @@ III.- En sesión pública, el Ayuntamiento determinará por, al menos, las dos t
 
 Para ser Juez del Tribunal se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia en el mismo por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+I.- Ser ciudadano mexicano con residencia en el Estado por más de cinco años ininterrumpidos anteriores a la fecha de la designación, en pleno ejercicio de sus derechos políticos y civiles;
 
 II.- Poseer al día de la designación título profesional de Licenciado en Derecho, y que hayan transcurrido cuando menos cinco años de su expedición por autoridad o institución legalmente facultada para ello;
 
@@ -4041,7 +4051,9 @@ VIII.- Las demás que señale este Código u otras disposiciones legales aplicab
 
 Para ser Secretario de Acuerdos se requiere cumplir con los siguientes requisitos:
 
-I.- Ser ciudadano mexicano por nacimiento, nativo del estado o con residencia en el mismo por más de tres años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+I.- Ser ciudadano mexicano con residencia en el Estado por más de tres años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, en pleno ejercicio de sus derechos políticos y civiles;
 
 II.- Poseer al día de la designación título profesional de Licenciado en Derecho, y que hayan transcurrido cuando menos tres años de su expedición por autoridad o institución legalmente facultada para ello;
 
@@ -6318,3 +6330,27 @@ No obstante, el presente Decreto será aplicable a las situaciones jurídicas a 
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efectos todas aquellas disposiciones normativas que contravengan o se opongan al presente Decreto.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-115 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA PRESTACIÓN DEL SERVICIO DE PANTEONES EN EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, Y LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-116 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL Y LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA AMBOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-124 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III, DEL ARTÍCULO 55, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
