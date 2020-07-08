@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2020-04-14"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -455,11 +455,15 @@ XXIII.- Supervisar a las instituciones y organismos públicos y privados que rea
 
 XXIV.- Promover la inversión en sistemas, tecnologías de información y comunicación que mejoren los servicios del sector salud;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-XXV.- Promover el establecimiento del Expediente Clínico Electrónico en las dependencias del sector salud conforme a los criterios, modelos, catálogos, principios y lineamientos de las normas oficiales mexicanas en la materia; y
+XXV.- Promover el establecimiento del Expediente Clínico Electrónico en las dependencias del sector salud conforme a los criterios, modelos, catálogos, principios y lineamientos de las normas oficiales mexicanas en la materia;
 
-XXVI.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud.
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XXVI.- Proponer, diseñar, desarrollar y aplicar, en coordinación con las autoridades educativas, programas de prevención del suicidio en niñas, niños, adolescentes y jóvenes; y
+
+XXVII.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -509,9 +513,17 @@ C).- Vigilar, en la esfera de su competencia, el cumplimiento de esta ley y las 
 
 ARTICULO 10 BIS.- La Secretaría de Salud, a través de un Órgano Desconcentrado que se denominará Comisión Estatal para la Protección contra Riesgos Sanitarios; ejercerá las atribuciones de regulación, control y fomento sanitarios que conforme a la presente Ley, a la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, y los demás ordenamientos aplicables le corresponden a dicha Dependencia en las materias a que se refiere el artículo 3° de esta Ley, conforme a lo siguiente:
 
-I.- De las enunciadas en la fracción I, las relativas a la organización, control y vigilancia de la prestación de servicios y de los establecimientos de salud, destinados a la población en general a los que se refiere el artículo 20 de esta Ley; y sus incisos F), H), L), M), R) y S), así como Sanidad Internacional, esta última salvo por lo que se refiere a personas; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-II.- Referente a su fracción II, en cuanto al control sanitario de establecimientos y servicios, a excepción de la competencia de los Ayuntamientos, a menos que éstos incumplan o esté en riesgo la salud de la población.
+I.- De las enunciadas en la fracción I, las relativas a la organización, control y vigilancia de la prestación de servicios y de los establecimientos de salud, destinados a la población en general a los que se refiere el artículo 20 de esta Ley; y sus incisos F), H), L), M), R) y S), así como Sanidad Internacional, esta última salvo por lo que se refiere a personas;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+II.- Referente a su fracción II, en cuanto al control sanitario de establecimientos y servicios, a excepción de la competencia de los Ayuntamientos, a menos que éstos incumplan o esté en riesgo la salud de la población; y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+III.- Los ayuntamientos tendrán la obligación de cooperar con la Autoridad Sanitaria Estatal en asuntos de salubridad pública, solicitando que se cumplan, en primera instancia, con los requisitos sanitarios para expedir las licencias, permisos, autorizaciones, u otro acto similar, dentro del ámbito de su competencia.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
 
@@ -1935,9 +1947,9 @@ I.- Los responsables de los establecimientos;
 
 II.- La construcción, reconstrucción, modificación o acondicionamiento de todo tipo de edificación;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-III.- La inhumación, exhumación, cremación y traslado de restos áridos
+III.- La inhumación, reacomodo, exhumación y traslado de restos áridos, restos humanos y cadáveres; y la cremación y traslado de cenizas;
 
 IV.- La publicidad relativa a las actividades, productos y servicios a que se refiere esta ley;
 
@@ -3694,3 +3706,19 @@ P.O. 14 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente a la publicación del mismo en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-115 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA PRESTACIÓN DEL SERVICIO DE PANTEONES EN EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, Y LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-127 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXV Y SE ADICIONA LA FRACCIÓN XXVI, RECORRIÉNDOSE LA ACTUAL XXVI PARA SER XXVII DEL ARTÍCULO 8 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
