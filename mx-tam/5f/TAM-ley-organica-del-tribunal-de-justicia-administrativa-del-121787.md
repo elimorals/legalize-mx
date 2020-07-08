@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-tribunal-de-justicia-administrativa-del-121787
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-02"
-last_updated: "2020-06-24"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -215,7 +215,9 @@ Para la atención de los asuntos de su competencia, el Tribunal de Justicia Admi
 
 Para ser Magistrado del Tribunal, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento en pleno goce y ejercicio de sus derechos civiles y políticos y haber residido en el país durante los dos años anteriores al día de la designación, si es nativo del Estado; o haber residido en el Estado por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación en caso de no ser nativo, salvo que en esas hipótesis la ausencia obedezca al cumplimiento de un servicio público;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos y haber residido en el país durante los dos años anteriores al día de la designación, si es nativo del Estado; o haber residido en el Estado por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación en caso de no ser nativo, salvo que en esas hipótesis la ausencia obedezca al cumplimiento de un servicio público;
 
 II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
@@ -749,7 +751,9 @@ V. Las demás que le indique el Pleno, el Presidente del Tribunal, esta Ley, el 
 
 Para ser Secretario General de Acuerdos, Secretario de Acuerdos de Sala, Secretario de Estudio y Cuenta o Actuario, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Ser mayor de veintisiete años y menor de setenta años;
 
@@ -942,6 +946,14 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 24 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-110 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4, FRACCIÓN XII, DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIV-116 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL Y LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA AMBOS DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
