@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2019-08-20"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -79,7 +79,9 @@ X. Ley: Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulip
 
 XI. Ministerio Público: La institución encargada de la prevención, investigación y persecución de los delitos, en términos de las disposiciones constitucionales aplicables;
 
-XII. Peritos: Los cuerpos de investigación científica o técnica de los delitos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XII. Peritos: Las personas con conocimientos especiales de la ciencia, arte, técnica, oficio o industria de que se trate;
 
 XIII. Policía: La Policía Ministerial, así como la de Investigación de la Fiscalía General y los agentes que formen parte de ella, así como todos los policías que pertenecen a las Instituciones de Seguridad Pública del Estado y sus municipios, que en el ámbito de sus respectivas competencias actúan bajo el mando y conducción del Ministerio Público, en la investigación de los delitos competencia de éste;
 
@@ -131,9 +133,15 @@ III. Fiscales Especializados;
 
 IV. Fiscales de Distrito;
 
-V. Fiscales Especiales; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-VI. Los demás que establezca esta Ley y las disposiciones que de ella deriven.
+V. Fiscales Especiales;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+VI. Las y los servidores públicos que tengan bajo su mando agentes del Ministerio Público que ejerzan atribuciones previstas en el artículo 37 de esta Ley, siempre que cumplan con los requisitos que para ser Agente del Ministerio Público prevén las disposiciones aplicables y se sujeten al cumplimiento de las obligaciones para dicho cargo; y
+
+VII. Los demás que establezca esta Ley y las disposiciones que de ella deriven.
 
 ###### Artículo 7.
 
@@ -209,7 +217,9 @@ II. Vicefiscalía Ministerial;
 
 III. Vicefiscalía de Litigación, Control de Procesos y Constitucionalidad;
 
-IV. Vicefiscalía de Delitos Complejos y de Violaciones a Derechos Humanos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+IV. Vicefiscalía de Delitos de Alto Impacto y de Violaciones a Derechos Humanos;
 
 V. Fiscalía Especializada en Delitos Electorales;
 
@@ -219,7 +229,11 @@ VII. Fiscalía Especializada en Combate a la Corrupción;
 
 VIII. Fiscalía Especializada en la Investigación de los Delitos de Desaparición Forzada de Personas;
 
-IX. Direcciones Generales:
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+IX. Fiscalía Especializada en la Investigación de los Delitos contra Niñas, Niños y Adolescentes y de Delitos contra las Mujeres por Razones de Género;
+
+X. Direcciones Generales:
 
 a) Dirección General de Asuntos Jurídicos y de Derechos Humanos;
 
@@ -229,9 +243,9 @@ c) Dirección General de Formación y Servicio Profesional de Carrera; y
 
 d) Dirección General de Tecnología, Información y Telecomunicaciones.
 
-X. Órgano Interno de Control; y
+XI. Órgano Interno de Control; y
 
-XI. Las Fiscalías, Direcciones Generales, Órganos y Unidades que determine la persona titular de la Fiscalía General, a través de acuerdos generales, de conformidad con la presente Ley y su Reglamento, y acorde con el Plan de Persecución Penal.
+XII. Las Fiscalías, Direcciones Generales, Órganos y Unidades que determine la persona titular de la Fiscalía General, a través de acuerdos generales, de conformidad con la presente Ley y su Reglamento, y acorde con el Plan de Persecución Penal.
 
 Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, la Fiscalía General contará con órganos desconcentrados, que tendrán las atribuciones específicas para resolver sobre las materias de su competencia o dentro del ámbito territorial que se determine en cada caso, de conformidad con las normas que para ello establezcan la presente Ley, los instrumentos jurídicos de creación de dichos órganos y demás disposiciones aplicables.
 
@@ -239,7 +253,9 @@ La Fiscalía General contará para el desempeño de sus funciones cuando menos c
 
 a) Comisión Estatal de Búsqueda de Personas; y
 
-b) Unidad Especializada en Combate al Secuestro y la Extorsión.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+
+b) Unidad Especializada en Combate al Secuestro.
 
 ### CAPÍTULO II. DEL FISCAL GENERAL
 
@@ -333,19 +349,21 @@ XXXII. Emitir los lineamientos para el otorgamiento de estímulos, reconocimient
 
 XXXIII. Ofrecer y entregar recompensas, en los casos, términos y condiciones que determine la normatividad aplicable;
 
-XXXIV. Autorizar la aplicación de la técnica de entrega o compra vigilada;
+XXXIV. (DEROGADA, P.O. 8 DE JULIO DE 2020)
 
 XXXV. Autorizar la infiltración de agentes para investigaciones, de conformidad con el acuerdo que al efecto emita;
 
-XXXVI. Ejercer la acción de extinción de dominio.
+XXXVI. (DEROGADA, P.O. 8 DE JULIO DE 2020)
 
 XXXVII. Resolver las cuestiones de competencia que surjan entre el Ministerio Público del Estado y de la Federación; y
 
 XXXVIII. Ejercer las demás facultades que le confiera la Constitución General, la Constitución del Estado, esta Ley, el Reglamento y otros ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+
 ###### Artículo 16.
 
-Corresponde a la persona titular de la Fiscalía General ejercer en forma personal y directa las atribuciones indelegables señaladas en las fracciones I, IV, V, VI, VIII, X, XI, XII, XIII, XIX, XXII, XXV, XXVII, XXVIII, XXXI, XXXIV y XXXV del artículo 15 de esta Ley y las demás que prevean otras disposiciones legales aplicables.
+Corresponde a la persona titular de la Fiscalía General ejercer en forma personal y directa las atribuciones indelegables señaladas en las fracciones I, IV, V, VI, VII, VIII, X, XI, XII, XIII, XIX, XXII, XXV, XXVII, XXVIII, XXXI y XXXV del artículo 15 de esta Ley y las demás que prevean otras disposiciones legales aplicables.
 
 ### CAPÍTULO III. DE LAS VICEFISCALÍAS
 
@@ -359,7 +377,9 @@ I. Vicefiscalía Ministerial;
 
 II. Vicefiscalía de Litigación, Control de Procesos y Constitucionalidad; y
 
-III. Vicefiscalía de Delitos Complejos y de Violaciones a Derechos Humanos.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+III. Vicefiscalía de Delitos de Alto Impacto y de Violaciones a Derechos Humanos.
 
 ###### Artículo 18.
 
@@ -385,7 +405,9 @@ VIII. Distribuir y dar trámite a la correspondencia oficial;
 
 IX. Resolver los conflictos de competencia que se presenten entre los Agentes del Ministerio Público de distintas unidades administrativas a su cargo;
 
-X. Supervisar que las acciones de las Unidades de atención temprana y tramitación masiva de casos, y de Investigación en la integración de las carpetas de investigación, el ejercicio de la acción penal o su determinación final, estén alineados al Plan de Persecución Penal. De igual forma verificará por conducto de sus titulares que los Agentes del Ministerio Público Especializado en Justicia Penal para Adolescentes cumplan los mismos criterios;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+X. Supervisar que las acciones de las unidades administrativas de Atención y Decisión Temprana, Imputado Desconocido y Tramitación Masiva de Casos, y Medios Alternativos de Solución de Controversias, en la integración de las carpetas de investigación, el ejercicio de la acción penal o su determinación final, estén alineados al Plan de Persecución Penal, así como el debido funcionamiento de la unidad administrativa a cargo de la atención y servicios a la comunidad. De igual forma, verificará por conducto de sus titulares que los Agentes del Ministerio Público Especializado en Justicia Penal para Adolescentes cumplan los mismos criterios;
 
 XI. Supervisar, promover y verificar la correcta aplicación y sustanciación de los mecanismos alternativos de solución de controversias, por parte del órgano especializado en la materia;
 
@@ -395,9 +417,15 @@ XIII. Coordinar las operaciones estratégicas para la investigación del delito;
 
 XIV. Supervisar que los Fiscales de Distrito en la investigación de los delitos la realicen conforme a los ordenamientos jurídicos y el Plan de Persecución Penal;
 
-XV. Someter a la consideración del Fiscal General, el proyecto de rotación y sustitución de los Agentes del Ministerio Público adscritos a su Vicefiscalía; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-XVI. Las demás que establezca el reglamento, otras disposiciones normativas o le encomiende la persona titular de la Fiscalía General.
+XV. Someter a la consideración del Fiscal General, el proyecto de rotación y sustitución de los Agentes del Ministerio Público adscritos a su Vicefiscalía;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XVI. Supervisar el funcionamiento de los Servicios Periciales y de Ciencias Forenses, como el área responsable de auxiliar al Ministerio Público en la investigación y persecución de los delitos, mediante la búsqueda, obtención, preservación y análisis de indicios y pruebas para el esclarecimiento de los hechos, con base en los principios técnico-científicos, así como la emisión de dictámenes de la especialidad correspondiente; y
+
+XVII. Las demás que establezca el reglamento, otras disposiciones normativas o le encomiende la persona titular de la Fiscalía General.
 
 ###### Artículo 19.
 
@@ -427,7 +455,9 @@ X. Solicitar la designación del Agente del Ministerio Público más apto para l
 
 XI. Informar al Fiscal General en forma inmediata sobre el desarrollo y el resultado de los asuntos que sean de carácter relevante en sede judicial;
 
-XII. Ordenar la coordinación necesaria con el Comisario General de la Policía Investigadora, para impulsar los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XII. Ordenar la coordinación necesaria con la Comisaría General de Investigación, para impulsar los asuntos de su competencia;
 
 XIII. Supervisar que las investigaciones complementarias, acusaciones y juicios orales derivados del ejercicio de la acción penal, se rijan bajos los criterios del Plan de Persecución Penal;
 
@@ -443,15 +473,33 @@ XVIII. Coordinar, dirigir y supervisar que los Agentes del Ministerio Público t
 
 XIX. Realizar los proyectos de acciones de inconstitucionalidad en materia penal, de interés de la Fiscalía General;
 
-XX. Someter a la consideración del Fiscal General, el proyecto de rotación y sustitución de los Agentes del Ministerio Público adscritos a su Vicefiscalía; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-XXI. Las demás que establezca el Reglamento, otras disposiciones normativas o le encomiende la persona titular de la Fiscalía General.
+XX. Someter a la consideración del Fiscal General, el proyecto de rotación y sustitución de los Agentes del Ministerio Público adscritos a su Vicefiscalía;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XXI. Verificar el adecuado control y registro de los bienes asegurados;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XXII. Supervisar la atención y protección de las víctimas, ofendidos, testigos y demás terceros involucrados en el proceso penal;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XXIII. Vigilar la organización y coordinación del Programa de Protección a Personas previsto en la Ley para la Protección de Personas que Intervienen en el Procedimiento Penal del Estado de Tamaulipas, así como participar en las instancias de coordinación en materia de protección de personas defensoras de derechos humanos, periodistas, servidoras y servidores públicos de la Fiscalía General y otros que le instruya la persona titular de la Fiscalía General; y
+
+XXIV. Las demás que establezca el Reglamento, otras disposiciones normativas o le encomiende la persona titular de la Fiscalía General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2020)</small>
 
 ###### Artículo 20.
 
-La persona titular de la Vicefiscalía de Delitos Complejos y de Violaciones a Derechos Humanos, será la responsable de investigar los delitos relacionados con hechos que vulneren gravemente el interés social, delitos complejos en los que se comprometa la vida, libertad, patrimonio, seguridad pública y orden social, que el reglamento, el Plan de Persecución Penal y los acuerdos que la persona titular de la Fiscalía General especifiquen.
+La persona titular de la Vicefiscalía de Delitos de Alto Impacto y de Violaciones a Derechos Humanos, será la responsable de investigar los delitos relacionados con hechos que vulneren gravemente el interés social, delitos de alto impacto en los que se comprometa la vida, libertad, patrimonio, seguridad pública y orden social, que el reglamento, el Plan de Persecución Penal y los acuerdos que la persona titular de la Fiscalía General especifiquen.
 
-Para el cumplimiento de sus funciones la Vicefiscalía de Delitos Complejos y de Violaciones a Derechos Humanos, contará con Agentes del Ministerio Público Especializados en la materia y con personal directivo, policial, administrativo y auxiliar, para tal efecto, tendrá las siguientes facultades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JULIO DE 2020)</small>
+
+Para el cumplimiento de sus funciones la Vicefiscalía de Delitos de Alto Impacto y de Violaciones a Derechos Humanos, contará con Agentes del Ministerio Público Especializados en la materia y con personal directivo, policial, administrativo y auxiliar, para tal efecto, tendrá las siguientes facultades:
 
 I. Auxiliar al Fiscal General en las funciones que la Ley le confiere;
 
@@ -473,17 +521,23 @@ IX. Resolver los conflictos de competencia que se presenten entre los Agentes de
 
 X. Planear, programar, organizar y dirigir el funcionamiento de la Vicefiscalía;
 
-XI. Investigar los delitos cometidos en agravio de mujeres por razón de género; de la libertad de expresión de personas físicas y jurídicas que ejerzan la actividad periodística y de defensores de derechos humanos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-XII. Investigar y perseguir los casos en que debido a la naturaleza, gravedad y complejidad de los hechos constitutivos de delito o de las personas o derechos tutelados vulnerados, se requiera de un tratamiento especializado;
+XI. Investigar los delitos cometidos en agravio de la libertad de expresión de personas físicas y jurídicas que ejerzan la actividad periodística y de defensores de derechos humanos;
 
-XIII. Investigar y perseguir los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, homicidio; los cometidos en agravio de migrantes y los relacionados con el delito de trata de personas;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XII. Investigar y perseguir los casos en que debido a la naturaleza, gravedad, impacto social y complejidad de los hechos constitutivos de delito o de las personas o derechos tutelados vulnerados, se requiera de un tratamiento especializado;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XIII. Investigar y perseguir los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, homicidio, extorsión, operaciones con recursos de procedencia ilícita y los relacionados con el delito de trata de personas;
 
 XIV. Implementar acciones para prevenir y combatir los delitos, de su competencia;
 
-XV. Atender y proteger a las víctimas, ofendidos, testigos y demás terceros involucrados en el proceso penal;
+XV. (DEROGADA, P.O. 8 DE JULIO DE 2020)
 
-XVI. Organizar y coordinar el Servicio de Protección de Intervinientes en el proceso penal, así como participar en las instancias de coordinación en materia de protección de personas defensoras de derechos humanos, periodistas, servidores públicos de la Fiscalía General y otros que le instruya la persona titular de la Fiscalía General;
+XVI. (DEROGADA, P.O. 8 DE JULIO DE 2020)
 
 XVII. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, los instrumentos internacionales en la materia, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público;
 
@@ -492,6 +546,10 @@ XVIII. Elaborar el análisis de incidencia delictiva de los delitos de su compet
 XIX. Someter a la consideración del Fiscal General, el proyecto de rotación y sustitución de los Agentes del Ministerio Público adscritos a su Vicefiscalía; y
 
 XX. Las demás que le otorguen la persona titular de la Fiscalía General, esta Ley, su Reglamento y diversas disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
+
+La persona titular de la Vicefiscalía de Delitos de Alto Impacto y de Violaciones a Derechos Humanos, tendrá a su cargo la Fiscalía Especializada en la Investigación de Alto Impacto, la Fiscalía Especializada en la Investigación a Violaciones de Derechos Humanos y las Unidades Especializadas necesarias para el desarrollo de sus funciones, de conformidad con la disponibilidad presupuestaria y atendiendo a lo previsto en el Reglamento de esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 21.
 
@@ -601,9 +659,13 @@ I. Ejercer las atribuciones que la Constitución General, la Constitución del E
 
 II. Contar con el personal sustantivo, administrativo y auxiliar que resulte necesario para el cumplimiento de sus funciones;
 
-III. Investigar los hechos señalados por la Ley como delitos, cometidos por el personal sustantivo, con excepción de aquellos delitos en que por su especialidad exista Fiscalía o Unidad para su investigación y persecución;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-IV. Conocer de las faltas administrativas cometidas por el personal sustantivo de la Fiscalía General; así como de la sustanciación de los procedimientos administrativos que se inicien con tal motivo;
+III. Investigar los hechos señalados por la ley como delitos, cometidos por el personal de la institución en el ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+IV. Conocer de los procedimientos iniciados con motivo de la falta de requisitos de permanencia, así como de los derivados de las faltas administrativas cometidas por el personal sustantivo de la Fiscalía General; con excepción de las faltas administrativas contempladas en los artículos 49, fracción IV y 50 de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
 
 V. Disponer de los elementos de Policía de Investigación necesarios para efectos de sus facultades;
 
@@ -625,7 +687,9 @@ I. Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Esp
 
 II. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, los instrumentos internacionales en la materia, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público;
 
-III. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los hechos que la Ley considera como delitos en materia de corrupción, con excepción de aquéllos cometidos por servidores públicos de la Fiscalía General, en cuyo caso conocerá el Fiscal Especializado en Asuntos Internos, en los términos del artículo 24 de ésta Ley;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+III. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los hechos que la ley considera como delitos en materia de corrupción, con excepción de aquéllos cometidos por servidoras y servidores públicos de la Fiscalía General;
 
 IV. Solicitar a las instancias de gobierno federal, estatal o municipal la información que resulte útil o necesaria para sus investigaciones;
 
@@ -675,7 +739,9 @@ XXVI. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aq
 
 XXVII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la Ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
 
-XXVIII. Dar intervención a la unidad administrativa en materia de servicios periciales, para dar trámite y desahogo a los peritajes solicitados en el término que al efecto establezca el Ministerio Público y que resulten acordes con la complejidad del peritaje a realizar;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XXVIII. Dar intervención a la unidad administrativa en materia de servicios periciales y ciencias forenses, para dar trámite y desahogo a los peritajes solicitados en el término que al efecto establezca el Ministerio Público y que resulten acordes con la complejidad del peritaje a realizar;
 
 XXIX. Presentar anualmente al Fiscal General un informe sobre actividades sustantivas y de resultados, el cual será público en términos de lo previsto en la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas y demás disposiciones aplicables. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal Anticorrupción y al Congreso;
 
@@ -703,17 +769,47 @@ V. Someter a la consideración del Fiscal General, el proyecto de rotación y su
 
 VI. Ejercer las atribuciones que al efecto le confiere el artículo 70 de la Ley General en materia de Desaparición Forzada, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
+
+###### Artículo 28 Bis.
+
+La persona titular de la Fiscalía Especializada en la Investigación de los Delitos contra Niñas, Niños y Adolescentes y de Delitos contra las Mujeres por Razones de Género, tendrá las siguientes facultades:
+
+I. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, las leyes, reglamentos y demás disposiciones jurídicas confieren al Ministerio Público en lo relativo a los hechos que las leyes consideran como delitos de su competencia;
+
+II. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los delitos contenidos en las disposiciones legales en materia de niñas, niños y adolescentes;
+
+III. Conocer de las denuncias y/o querellas que se presenten por hechos que pudieran ser constitutivos de delitos en agravio de mujeres por razones de género, en estricto apego al respeto de los derechos humanos;
+
+IV. Recibir y dar trámite a las denuncias y/o querellas iniciadas con motivo de la presunta comisión del delito de feminicidio, de acuerdo a lo establecido en el marco jurídico aplicable;
+
+V. Conocer y decidir sobre la autorización del no ejercicio de la acción penal y las incompetencias propuestas por los Agentes del Ministerio Público correspondientes;
+
+VI. Implementar acciones para prevenir y combatir los delitos de su competencia;
+
+VII. Dictar las medidas de protección y providencias precautorias, tendentes a proteger a la víctima u ofendido de un riesgo inminente;
+
+VIII. Coordinar a través de los Centros de Justicia para las Mujeres, estrategias y acciones en materia de prevención, atención y erradicación de la violencia; y
+
+IX. Las demás que le confiera el Reglamento, otras disposiciones o le encomiende la persona titular de la Fiscalía General.
+
 ### CAPÍTULO V. DE LAS FISCALÍAS DE DISTRITO Y ESPECIALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2020)</small>
 
 ###### Artículo 29.
 
-Corresponderá a las Fiscalías de Distrito supervisar la investigación y persecución de delitos que no son facultad de las Fiscalías o Unidades Especializadas, así como el uso de los Mecanismos Alternativos para la Solución de Controversias, para ello contarán con Agentes del Ministerio Público, Policía de Investigación, Facilitadores, Peritos, personal de atención a víctimas y demás personal administrativo que determine la persona titular de la Fiscalía General mediante acuerdo, y de conformidad con la disponibilidad presupuestaria.
+Corresponderá a las Fiscalías de Distrito, supervisar la investigación y persecución de delitos que no son facultad de las Fiscalías o Unidades Especializadas, sin perjuicio de los que por instrucciones de la superioridad deban conocer; así como el uso de los Mecanismos Alternativos para la Solución de Controversias, para ello contarán con Agentes del Ministerio Público, Policías de Investigación, Facilitadores, Peritos, personal de atención a víctimas y demás personal administrativo, de conformidad con la disponibilidad presupuestaria.
 
-Las circunscripciones o sedes de las Fiscalías de Distrito serán delimitadas atendiendo los distritos judiciales o en el lugar que determine la persona titular de la Fiscalía General, la incidencia delictiva, las circunstancias geográficas, las características de los asentamientos humanos, la situación demográfica, los fenómenos criminógenos y demás criterios que establezca el Reglamento.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+
+Las circunscripciones de las Fiscalías de Distrito, serán delimitadas geográficamente atendiendo a los distritos judiciales, independientemente de que se puedan ubicar tomando en cuenta la incidencia delictiva, las circunstancias geográficas, las características de los asentamientos humanos, la situación demográfica y los fenómenos criminógenos.
 
 Los requisitos para ser nombrado Fiscal de Distrito, serán los establecidos en el artículo 24 de la presente Ley.
 
-Las Fiscalías de Distrito, se regirán por su acuerdo de creación y sus titulares serán nombrados y removidos libremente por la persona titular de la Fiscalía General, atendiendo a lo previsto en el Reglamento de esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+
+Las Fiscalías de Distrito se regirán por el Reglamento y sus titulares serán nombrados y removidos libremente por la persona titular de la Fiscalía General.
 
 ###### Artículo 30.
 
@@ -773,7 +869,9 @@ I. Por el Vicefiscal Ministerial;
 
 II. Por el Vicefiscal de Litigación, Control de Procesos y Constitucionalidad; y
 
-III. Por el Vicefiscal de Delitos Complejos y de Violaciones a Derechos Humanos.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+III. Por el Vicefiscal de Delitos de Alto Impacto y de Violaciones a Derechos Humanos.
 
 B. En caso de ausencia definitiva del Fiscal General, será suplido temporalmente por los Vicefiscales según el orden antes previsto, hasta en tanto se designe al titular, debiendo para tal efecto notificar al Congreso del Estado, para que inicie el procedimiento de designación previsto en el artículo 125 de la Constitución del Estado.
 
@@ -991,7 +1089,9 @@ Las y los Agentes del Ministerio Público y titulares de las Unidades Administra
 
 La Fiscalía General, además de ejercer la conducción y mando de las policías adscritas a las Instituciones de Seguridad Pública para efectos de la investigación de los delitos, tendrá un cuerpo de Policía de Investigación que auxiliará al Ministerio Público, denominado Comisaría General de Investigación de la Fiscalía General de Justicia del Estado de Tamaulipas.
 
-Su estructura orgánica y la forma en la que intervendrá se determinarán en esta Ley y su Reglamento, así como en los manuales, protocolos, lineamientos, acuerdos y circulares expedidos por la persona titular de la Fiscalía General.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+
+Su estructura orgánica y la forma en la que intervendrá se determinarán en esta Ley, su Reglamento y el Reglamento de la Policía de Investigación, así como en los manuales, protocolos, lineamientos, acuerdos y circulares expedidos por la persona titular de la Fiscalía General.
 
 ###### Artículo 42.
 
@@ -1113,7 +1213,9 @@ XXII. Requerir a las autoridades competentes y a las personas físicas o jurídi
 
 XXIII. Brindar la custodia y protección a las personas y bienes que le sea indicado (sic) por la persona titular de la Fiscalía General y el Ministerio Público;
 
-XXIV. Llevar a cabo operaciones encubiertas y la entrega vigilada, en el marco de una investigación, previa autorización del Fiscal General, bajo los lineamientos precisos que se les instruyan, para la investigación y persecución de hechos delictuosos, así como la captura de sus responsables;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XXIV. Llevar a cabo operaciones encubiertas y la entrega vigilada, en el marco de una investigación, debiendo informar de manera inmediata al superior jerárquico, bajo los lineamientos precisos que se les instruyan, para la investigación y persecución de hechos delictuosos, así como la captura de sus responsables;
 
 XXV. Realizar el análisis técnico táctico o estratégico de la información obtenida para generar inteligencia para la investigación;
 
@@ -1261,9 +1363,11 @@ Las y los Peritos serán los responsables de recolectar los indicios o elementos
 
 ### CAPÍTULO VII. DE LOS MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+
 ###### Artículo 53.
 
-La Fiscalía General contará con un órgano especializado en Mecanismos Alternativos de Solución de Controversias, que deberá fomentar la gestión de los procedimientos alternativos y justicia restaurativa previstos en el Código Nacional y en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y ejercer sus facultades con independencia técnica y de gestión, así como proponer el procedimiento alternativo que resulte más adecuado para cada caso concreto. Su estructura, procedimientos y gestión estarán regulados en el Reglamento de la presente Ley y demás disposiciones aplicables.
+La Fiscalía General contará con un órgano especializado en Mecanismos Alternativos de Solución de Controversias, que deberá fomentar la gestión de los procedimientos alternativos y justicia restaurativa previstos en el Código Nacional y en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y ejercer sus facultades con independencia técnica y de gestión, así como proponer el procedimiento alternativo que resulte más adecuado para cada caso concreto. Su estructura, procedimientos y gestión estarán regulados en el Reglamento de la presente Ley, el Reglamento en Materia de Mecanismos Alternativos de Solución de Controversias y demás disposiciones aplicables.
 
 ###### Artículo 54.
 
@@ -1387,15 +1491,19 @@ I. Personal Sustantivo, el que comprende a las y los servidores públicos con fu
 
 II. Personal Administrativo, el que corresponde a todo el demás personal distinto al ministerial, policial, pericial y justicia alternativa penal.
 
-El Consejo de Fiscales aprobará el Programa Rector de Profesionalización para su personal sujeto al Servicio de Carrera de conformidad con las modalidades y características que establezca el Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+
+El Consejo de Fiscales aprobará el Programa Rector de Profesionalización para su personal sujeto al Servicio de Carrera, de conformidad con las modalidades y características que establezca el Reglamento del Servicio Profesional de Carrera y otras disposiciones aplicables.
 
 ###### Artículo 65.
 
 La relación laboral entre la Fiscalía General con su personal se regirá por lo previsto en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas en vigor; sin embargo, las relaciones establecidas con las y los servidores públicos con funciones ministerial, policial, pericial y justicia alternativa penal, se regularán por lo dispuesto en el artículo 123, apartado B, fracción XIII de la Constitución General, la presente Ley y demás disposiciones legales aplicables. Las y los servidores públicos que no cumplan con los requisitos que el presente ordenamiento señala para permanecer en la institución, serán separados de su cargo, o removidos al incurrir en responsabilidad en el desempeño de sus funciones, por el incumplimiento de sus facultades, obligaciones y requisitos, mediante los procedimientos establecidos en esta Ley, la Ley General del Sistema Nacional de Seguridad Pública y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+
 ###### Artículo 66.
 
-Las y los servidores públicos citados formalmente a la aplicación de las evaluaciones de control de confianza que no concurran sin causa justificada, se les tendrá por no aprobados, de conformidad con lo previsto en esta Ley y su Reglamento.
+Las y los servidores públicos citados formalmente a la aplicación de las evaluaciones de control de confianza que no concurran sin causa justificada, se les tendrá por no aprobados, de conformidad con lo previsto en esta Ley y el Reglamento del Servicio Profesional de Carrera.
 
 ###### Artículo 67.
 
@@ -1437,11 +1545,15 @@ I. Con motivo de sus funciones así lo requieran;
 
 II. Al momento de concluir el cargo, subsista el riesgo que les dio origen; y
 
-III. En razón de las funciones realizadas en la Fiscalía General, al momento de concluir el cargo, lo requieran.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+III. En razón de las funciones realizadas en la Fiscalía General, que al momento de causar baja, las requieran.
 
 En los supuestos establecidos en las fracciones II y III las medidas de seguridad tendrán una duración igual a la mitad del tiempo que ocupó el cargo que lo puso en riesgo y podrá ser prorrogable, en tanto las condiciones de riesgo lo ameriten.
 
-Las medidas de seguridad y protección referidas en el presente artículo, serán aprobadas por el Consejo de Fiscales y de aplicación en el territorio estatal, previo dictamen de riesgo, que para tal efecto emita la unidad administrativa correspondiente, de conformidad con el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+
+Las medidas de seguridad y protección referidas en el presente artículo, serán aprobadas por el Consejo de Fiscales, previo dictamen de riesgo que para tal efecto emita la unidad administrativa correspondiente, dentro de las cuales se podrá incluir la portación de arma de fuego, así como las que de conformidad con el dictamen y el Reglamento, resulten suficientes para brindar la protección a la servidora y servidor público; dichas medidas podrán extenderse al cónyuge, concubina o concubinario, descendientes y ascendientes en primer grado.
 
 ### CAPÍTULO II. DE LAS DIRECCIONES GENERALES
 
@@ -1499,7 +1611,11 @@ X. Recibir y verificar la documentación comprobatoria de las erogaciones realiz
 
 XI. Llevar el control de los bienes muebles e inmuebles, vehículos oficiales, armamento y el manejo de la licencia oficial colectiva;
 
-XII. Realizar los trámites correspondientes a altas, bajas, control de personal, nóminas y pagos, actualización de plantilla de las y los servidores públicos de la institución;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+XII. Autorizar los trámites correspondientes a altas, bajas, cambios de adscripción, comisiones, control de personal, nóminas, actualización de plantilla
+
+(sic), vacaciones y jubilaciones de las y los servidores públicos de la institución, expidiendo las credenciales o constancias correspondientes, de acuerdo a lo dispuesto por la normatividad aplicable;
 
 XIII. Implementar los programas para el mantenimiento de los inmuebles, del parque vehicular, así como de los servicios generales de los edificios que albergan las unidades administrativas;
 
@@ -1794,3 +1910,21 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, al primer día del mes de julio del año dos mil diecinueve.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIV-120 MEDIANTE EL CUAL EL CUAL (SIC) SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales aplicables que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Fiscalía General de Justicia del Estado de Tamaulipas, a efecto de que realice las acciones correspondientes con motivo de la entrada en vigor del presente Decreto.
