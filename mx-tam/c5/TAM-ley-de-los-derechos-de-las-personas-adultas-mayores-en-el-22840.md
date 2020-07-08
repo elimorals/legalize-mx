@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2017-12-01"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -99,6 +99,34 @@ c).- Dependiente absoluto: A aquella con una enfermedad crónica o degenerativa 
 
 d).- En situación de riesgo o desamparo.- A aquellas que por problemas de salud, abandono, carencia de apoyos económicos y familiares, contingencias ambientales o desastres naturales, requieren de asistencia y protección del Estado y de la sociedad organizada.
 
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
+
+ARTICULO 3° BIS.- Los tipos de violencia contra las Personas Adultas Mayores son:
+
+I.- La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, destitución familiar, desarraigo familiar, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II.- La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III.- La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado. Incluye también la manipulación o abuso de su condición física o necesidades afectivas para apropiarse de sus bienes;
+
+IV.- La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V.-La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder; y
+
+VI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
+
+ARTICULO 3° TER.- Las modalidades de la violencia contra las personas adultas mayores son:
+
+I.- Violencia en el ámbito familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a la persona adulta mayor, mediante la realización de uno o varios tipos de violencia, dentro o fuera del domicilio familiar, cuando la persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación afectiva o de hecho;
+
+II.- Violencia en el ámbito institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno, que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las personas adultas mayores, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. Incluye la negación a recibir tratamientos médicos, créditos, trabajo o educación por razones de edad;
+
+III.- Violencia en la comunidad: Son los actos individuales o colectivos que transgreden o menoscaban los derechos fundamentales de las personas adultas mayores, propiciando su denigración, discriminación, marginación o exclusión en cualquier ámbito; y
+
+IV.- Violencia en instituciones de cuidado prolongado o larga estadía: Son los actos u omisiones de las personas que laboran en centros o establecimientos, públicos o privados, que brindan atención y cuidado prolongado a las personas adultas mayores que residen en ellos, que impliquen cualquier clase de violencia, abuso, negligencia o discriminación dirigida hacia las personas adultas mayores, así como el empleo de métodos de coerción o restricción que atenten contra su intimidad, dignidad y autonomía en la toma de decisiones.
+
 ## TITULO SEGUNDO. PRINCIPIOS Y DERECHOS
 
 ### CAPITULO I. DE LOS PRINCIPIOS
@@ -113,13 +141,29 @@ II.- Participación: La intervención de las personas adultas mayores en la vida
 
 III.- Equidad: El trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, raza, credo, religión o cualquier otra circunstancia;
 
-IV.- Corresponsabilidad: La concurrencia de los sectores público y social, y en especial, de las familias con una actitud de responsabilidad compartida, para la consecución del objeto de esta ley; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
+
+IV.- Corresponsabilidad: La concurrencia de los sectores público y social, y en especial, de las familias con una actitud de responsabilidad compartida, para la consecución del objeto de esta ley;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE JULIO DE 2020)</small>
 
 V.- Atención diferenciada: Aquella que obliga a las autoridades del Gobierno del Estado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores;
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-VI.- Atención preferencial: Aquélla que obliga a directivos, personal de salud y administrativos de las instituciones que prestan servicios de salud; así como al resto de las dependencias y entidades de la Administración Pública estatal, a dar a la persona adulta mayor la preferencia en el turno y la atención por sobre los demás grupos de edad a manera de que las personas adultas mayores accedan a estos servicios de calidad cómodamente y perciban un trato amable y de amplia calidez.
+VI.- Atención preferencial: Aquella que obliga a directivos, personal de salud y administrativos de las instituciones que prestan servicios de salud, así como al resto de las dependencias y entidades de la Administración Pública estatal, a dar a la persona adulta mayor la preferencia en el turno y la atención por sobre los demás grupos de edad a manera de que las personas adultas mayores accedan a estos servicios de calidad cómodamente y perciban un trato amable y de amplia calidez;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+VII.- La dignificación y el respeto. Que habrán de orientar y dirigir los planes y programas gubernamentales, así como las acciones que emprendan a favor de las personas adultas mayores las organizaciones sociales y privadas;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+VIII.- Dignidad Humana. Es un valor supremo que reconoce la calidad única y excepcional a todo ser humano por el simple hecho de serlo, del cual se desprenden todos los derechos necesarios para que las personas adultas mayores desarrollen integralmente su personalidad; y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2020)</small>
+
+IX.- La progresividad. Es la obligación positiva del Estado de promover los derechos de las personas de la tercera edad de manera progresiva y gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de los derechos.
 
 ### CAPITULO II. DE LOS DERECHOS
 
@@ -736,3 +780,11 @@ P.O. 1 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-108 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4°, FRACCIONES IV, V Y VI; Y SE ADICIONAN LOS ARTÍCULOS 3° BIS Y 3° TER, Y LAS FRACCIONES VII, VIII Y IX AL ARTÍCULO 4° DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
