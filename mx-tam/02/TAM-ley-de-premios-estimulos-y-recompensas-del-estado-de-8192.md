@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-premios-estimulos-y-recompensas-del-estado-de-8192"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-26"
-last_updated: "2020-04-14"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
 
@@ -411,11 +411,11 @@ El premio se otorgará a personas físicas, individualmente o en grupo, pero tra
 
 La tramitación de este premio se hará ante el Consejo Estatal del Deporte de Tamaulipas, que integrará el Consejo de Premiación el cual será presidido por el titular del Instituto del Deporte de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
 
 ###### ARTICULO 51.
 
-El premio consistirá en una medalla. Si el premio se otorga a un grupo de deportistas, cada uno de sus integrantes recibirá una presea. La fecha para la entrega del premio será el veinte de noviembre.
+El premio consistirá en una medalla. Si el premio se otorga a un grupo de deportistas, cada uno de sus integrantes recibirá una presea. La fecha para la entrega del premio será el diecinueve de noviembre.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -882,3 +882,11 @@ P.O. 14 DE ABRIL DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-122 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 81 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMA EL ARTÍCULO 51 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
