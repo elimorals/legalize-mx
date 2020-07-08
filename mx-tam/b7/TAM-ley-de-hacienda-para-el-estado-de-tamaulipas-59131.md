@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2019-12-18"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -3241,9 +3241,9 @@ X.- Por visita de verificación sanitaria a petición de parte a establecimiento
 
 XI.- Por solicitud de muestreo a petición del prestador de servicios y/o el representante legal del establecimiento, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-XII.- Por permiso sanitario para inhumación, exhumación, reacomodo, traslado y cremación funeraria, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
+XII.- Por permiso sanitario para la inhumación, reacomodo, exhumación y traslado de restos áridos, restos humanos y cadáveres; y la cremación y traslado de cenizas, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3738,3 +3738,11 @@ P.O. 18 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-115 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA PRESTACIÓN DEL SERVICIO DE PANTEONES EN EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, Y LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Estado.
