@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2019-08-20"
+last_updated: "2020-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -3633,35 +3633,25 @@ ARTICULO 210 BIS.- En cada región judicial, el Consejo de la Judicatura del Est
 
 ### CAPITULO II. DE LOS TRIBUNALES DE ENJUICIAMIENTO
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
 
 ###### ARTICULO 211.
 
-Los Tribunales de Enjuiciamiento actuarán de forma unitaria o de forma colegiada por tres jueces, ejerciendo funciones bajo los lineamientos contenidos en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la presente Ley y el Consejo de la Judicatura del Estado.
+Los Tribunales de Enjuiciamiento actuarán de forma unitaria, ejerciendo funciones bajo los lineamientos contenidos en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la presente Ley y los establecidos por el Consejo de la Judicatura del Estado.
 
-Las resoluciones de los Tribunales de Enjuiciamiento, actuando de forma colegiada, se tomarán por unanimidad o por mayoría de votos.
+Los Jueces de (sic) Tribunal de Enjuiciamiento podrán actuar como Jueces de Control, cuando así se requiera por las necesidades del servicio y conforme al sistema de asignación que al efecto se implemente, atendiendo la previsión contenida en el artículo 20, apartado A, fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
 
-Los Jueces de Tribunal de Enjuiciamiento podrán actuar como Jueces de Control, cuando así se requiera por las necesidades del servicio y conforme al sistema de asignación que al efecto se implemente, atendiendo la previsión contenida en el artículo 20, apartado A, fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
-
-Los Tribunales de Enjuiciamiento actuando en forma colegiada, conocerán de lo siguiente:
-
-I.- Los casos señalados por el Código Nacional de Procedimientos Penales como de prisión preventiva oficiosa; y,
-
-II.- Los casos que, no estando incluidos en la fracción inmediata anterior, se sigan por delitos que tengan señalada una pena cuya media aritmética sea superior a diez años de prisión.
-
-Los asuntos que no están comprendidos en las previsiones que anteceden, serán del conocimiento de los Tribunales de Enjuiciamiento actuando en forma unitaria.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
 
 ###### ARTICULO 212.
 
-Los Tribunales de Enjuiciamiento, actuando en forma colegiada, tendrán un Juez Presidente, quien dirigirá las audiencias y mantendrá el orden de las mismas, conforme a lo previsto en el Código Nacional de Procedimientos Penales. Las sentencias constarán por escrito, señalarán el nombre del Juez redactor y, en su caso el del disidente.
+Los Tribunales de Enjuiciamiento, tendrán un Juez, quien dirigirá las audiencias y mantendrá el orden de las mismas, conforme a lo previsto en el Código Nacional de Procedimientos Penales. Las sentencias constarán por escrito.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
 
 ###### ARTICULO 213.
 
-El Juez Presidente del Tribunal de enjuiciamiento será asignado, en cada asunto, mediante el sistema administrativo que al efecto se implemente.
+El Juez del Tribunal de enjuiciamiento será asignado, en cada asunto, mediante el sistema administrativo que al efecto se implemente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -4250,3 +4240,19 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIV-126 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 211; 212; Y 213, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todos los procesos en trámite, en los cuales se ha emitido el auto de apertura de juicio por delito que deba atenderse por tribunal de enjuiciamiento colegiado, conforme a las reglas procesales que mediante el presente Decreto se reforman o adicionan, deberán continuarse con tales reglas hasta su conclusión.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
