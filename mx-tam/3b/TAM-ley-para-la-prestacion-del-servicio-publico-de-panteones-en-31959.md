@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prestacion-del-servicio-publico-de-panteones-en-319
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-20"
-last_updated: "2016-12-21"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY PARA LA PRESTACION DEL SERVICIO PUBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA PRESTACION DEL SERVICIO PUBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 20 de mayo de 2003.
 
@@ -377,6 +379,10 @@ DE LAS INHUMACIONES, EXHUMACIONES, REINHUMACIONES Y CREMACIONES.
 
 La inhumación o la cremación de cadáveres sólo podrá realizarse en los panteones o establecimientos legalmente autorizados para ello, con la autorización del Oficial del Registro Civil que corresponda, quien se asegurará del fallecimiento y sus causas, y exigirá la presentación del certificado de defunción respectivo.
 
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
+
+ARTÍCULO 40 BIS.- Los establecimientos que oferten servicios de inhumación, exhumación, reacomodo, traslado, cremación, sepultura, sepultura vertical o depósito de cenizas, tendrán prohibido la prestación de dichos servicios sin la autorización sanitaria correspondiente.
+
 ###### ARTÍCULO 41.
 
 Los Ayuntamientos llevarán dos libros especiales de cada panteón, debidamente autorizados por el Presidente Municipal en la primera y última hoja; en ellos se asentarán, en riguroso orden cronológico y pormenorizada y respectivamente, las inhumaciones y exhumaciones que se hagan en sus instalaciones.
@@ -704,3 +710,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-115 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA PRESTACIÓN DEL SERVICIO DE PANTEONES EN EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, Y LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Estado.
