@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2019-12-18"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -2271,6 +2271,10 @@ III.- Modificar o alterar los concesionarios o permisionarios los itinerarios o 
 
 IV.- El negarse a prestar el servicio al usuario sin causa justificada, así como los actos de maltrato para con el público se sancionará, con multa de sesenta a ochenta veces el valor diario de la Unidad de Medida y Actualización tratándose de servicio de pasajeros y de sesenta a ochenta veces el valor diario de la Unidad de Medida y Actualización tratándose de servicio de carga y de servicios auxiliares;
 
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
+
+Se aumentará hasta una mitad más de la multa, cuando las infracciones antes descritas se cometan en perjuicio de persona o personas que presten un servicio de salud, a partir de la emisión de medidas de seguridad por parte de la autoridad sanitaria ante casos de pandemia, epidemia o de cualquier otra situación, contingencia o riesgo grave de carácter sanitario que afecten la salud y la vida de las personas y hasta que se declare formalmente que han concluido sus efectos. No se aplicará esta sanción en el supuesto de que las medidas de seguridad de la autoridad sanitaria antes señaladas, establezcan la suspensión o restricción del servicio de transporte público.
+
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 V.- Se sancionará con multa equivalente de sesenta a ochenta veces el valor diario de la Unidad de Medida y Actualización, a los responsables, conductores, concesionarios o permisionarios y prestadores del servicio público de transporte y de los servicios auxiliares, respectivamente, en cualquier modalidad, que nieguen, impidan u obstaculicen el uso del servicio a las personas con discapacidad;
@@ -2742,3 +2746,11 @@ P.O. 18 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-117 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 119 DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
