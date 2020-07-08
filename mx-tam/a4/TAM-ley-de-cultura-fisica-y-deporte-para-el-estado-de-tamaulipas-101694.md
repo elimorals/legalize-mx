@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2019-08-20"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -973,6 +973,16 @@ V. Las demás que le confiera el Director General y otras disposiciones legales.
 
 2. El Instituto gestionará y establecerá los mecanismos necesarios para que los deportistas con discapacidad, sin discriminación alguna, gocen de los mismos reconocimientos y estímulos que otorgue el gobierno estatal a los deportistas convencionales.
 
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
+
+ARTÍCULO 81 BIS.
+
+Se instituye el diecinueve de noviembre de cada año como "Día de las y los Deportistas en Tamaulipas", a fin de promover la actividad física como un hábito saludable que mejora la calidad de vida de la población.
+
+En el marco de la celebración del Día de las y los Deportistas en Tamaulipas, se realizarán, con base en la disponibilidad presupuestal, actividades deportivas y académicas con la finalidad de informar, fomentar y difundir el derecho de acceso al deporte y la cultura física.
+
+En la fecha referida en el párrafo primero de este artículo, se entregarán los reconocimientos y/o estímulos previstos en la legislación local para las y los deportistas y promotores del deporte en nuestro Estado.
+
 ###### ARTÍCULO 82.
 
 Los estímulos a que se refiere el presente Capítulo, que se otorguen con cargo al presupuesto del Instituto, tendrán por finalidad el cumplimiento de alguno de los siguientes objetivos:
@@ -1464,3 +1474,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-122 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 81 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMA EL ARTÍCULO 51 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
