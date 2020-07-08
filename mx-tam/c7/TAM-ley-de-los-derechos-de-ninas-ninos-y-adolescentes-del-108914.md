@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2020-02-06"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -325,7 +325,11 @@ IV.- Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenenc
 
 2. Las autoridades estatales y municipales, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
 
-3. La Procuraduría de Protección, en el ámbito de su respectiva competencia, orientará a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+
+3. Cuando en el ejercicio de sus atribuciones la Procuraduría de Protección, detecte la falta de registro del nacimiento de una niña, niño o adolescente, deberá realizar las acciones necesarias ante las Oficinas del Registro Civil en el Estado, a efecto de que ésta emita el acta nacimiento respectiva.
+
+Así mismo, orientará a las autoridades estatales y municipales para que den debido cumplimiento al presente artículo, con el fin de contribuir a garantizar el derecho a la identidad de niñas, niños y adolescentes.
 
 4. Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
@@ -1528,3 +1532,11 @@ P.O. 6 DE FEBRERO DE 2020.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-123 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO 3, DEL ARTÍCULO 18, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
