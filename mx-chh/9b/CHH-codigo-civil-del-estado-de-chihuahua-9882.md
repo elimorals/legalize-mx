@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2020-02-05"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/EXLEY/0589/2019 I P.O., ÚNICAMENTE EN CUANTO A LA REFORMA DEL ARTÍCULO 367, PÁRRAFO PRIMERO, DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL CINCO DE FEBRERO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2020
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2020.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -7721,6 +7719,12 @@ FORMAS
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
+
+1728 BIS.- Los supuestos previstos en el artículo anterior se tendrán por cumplidos mediante la utilización de medios electrónicos, ópticos o cualquier otra tecnología, siempre que la información generada o comunicada en forma íntegra a través de dichos medios, sea atribuible a la persona obligada y que esta sea accesible para su ulterior consulta.
+
+En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, este y las partes obligadas podrán generar, enviar, recibir, archivar o comunicar la información que contenga los términos exactos en que las partes se han obligado, mediante la utilización de medios electrónicos, ópticos o cualquier otra tecnología. En este caso, el fedatario público deberá hacer constar en el propio instrumento los elementos a través de los cuales se verifica que dicha información es atribuible a las partes, y conservar bajo su resguardo una versión íntegra para su ulterior consulta, otorgando dicho instrumento de conformidad con las disposiciones legales aplicables.
+
 DIVISION DE CONTRATOS
 
 1729.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
@@ -13218,3 +13222,39 @@ Los procedimientos de adopción en trámite deberán regularizarse para continua
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVI/EXLEY/0715/2020 II P.O. LEY DE FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado expedirá el Reglamento de la Ley, dentro de los ciento ochenta días hábiles posteriores a la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de la Función Pública y demás autoridades obligadas deberán emitir los lineamientos aplicables, dentro de los cuarenta y cinco días hábiles siguientes a la expedición del Reglamento referido en el artículo anterior.
+
+###### ARTÍCULO CUARTO.
+
+Se faculta a la Secretaría de Hacienda, para que lleve a cabo las adecuaciones administrativas y presupuestales para el adecuado cumplimiento de este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Se faculta a la Secretaría de la Función Pública, para que se lleven a cabo los procesos de mejora regulatoria necesarios para la implementación de la firma electrónica avanzada en los trámites y procedimientos que se consideren oportunos.
+
+###### ARTÍCULO SEXTO.
+
+Los sujetos obligados podrán celebrar con el Ejecutivo Federal, los convenios que resulten necesarios para el cumplimiento de los fines de este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando otros ordenamientos legales del Estado se refieran a la firma electrónica certificada, se entenderá que alude a la firma electrónica avanzada materia de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto no se expida la Ley de Procedimiento Administrativo del Estado, se aplicarán en lo conducente el Código Administrativo y el Código de Procedimientos Civiles, ambos ordenamientos del Estado de Chihuahua.
