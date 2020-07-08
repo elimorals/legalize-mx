@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-federal-de-102250"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-04"
-last_updated: "2019-12-26"
+last_updated: "2020-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102250&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-08-27"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JULIO DE 2020.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de septiembre de 2014.
 
@@ -354,6 +354,10 @@ XXXVI. Reglamentar la integración y el funcionamiento del Comité conformado po
 > <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
 XXXVII. En materia de Gobierno Abierto, establecer políticas internas para conducirse de forma transparente, generar condiciones que permitan que permee la participación de ciudadanos y grupos de interés, crear mecanismos para rendir cuentas de las acciones del Instituto y promover la eficacia tanto en la organización de su trabajo como en su desempeño, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE JULIO DE 2020)</small>
+
+XXXVII BIS. En el supuesto de la ausencia en términos del artículo 19 de la Ley de Telecomunicaciones y 19 de la Ley de Competencia, designar a los titulares de unidad, coordinadores generales y directores generales del Instituto, así como resolver sobre su remoción. Lo anterior, sin perjuicio de lo establecido en el artículo 20, fracción VIII, de la Ley de Telecomunicaciones y de las propuestas de designación a que se refieren los artículos 6, fracción V, y 14, fracciones VI y VII del Estatuto Orgánico.
 
 XXXVIII. Las demás que la Ley de Telecomunicaciones y otros ordenamientos le confieran.
 
@@ -3834,3 +3838,9 @@ SEGUNDO.- Los Titulares de las Áreas de Substanciación y Resolución, de Denun
 TERCERO.- Los asuntos y procedimientos que a la entrada en vigor del presente acuerdo se estén sustanciando ante las Direcciones Generales Adjuntas del órgano interno de control, continuarán su trámite ante las Titularidades de Área competentes, de conformidad con lo dispuesto en el presente acuerdo.
 
 CUARTO.- Las referencias hechas en otros ordenamientos, lineamientos o resoluciones a la Dirección General Adjunta de Substanciación y Resolución, la Dirección General Adjunta de Denuncias e Investigaciones, la Dirección General Adjunta de Auditoría y la Dirección General Adjunta de Control, Evaluación y Desarrollo Administrativo, se entenderán hechas a la Titularidad del Área de Substanciación y Resolución, la Titularidad del Área de Denuncias e Investigaciones, la Titularidad del Área de Auditoría y la Titularidad del Área de Mejora de la Gestión Pública, según corresponda.
+
+D.O.F. 8 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES MODIFICA SU ESTATUTO ORGÁNICO”.]
+
+Único. El presente acuerdo entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
