@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-persona-joven-para-el-estado-y-municipios-de-san-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2020-03-03"
+last_updated: "2020-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -629,9 +629,27 @@ VI. Celebrar acuerdos o convenios de coordinación con la Federación, el Estado
 
 VII. Generar las políticas públicas para la atención de la juventud y la prevención de factores de riesgos psicosociales y alteraciones del desarrollo;
 
-VIII. Establecer una Instancia municipal de Juventud, misma que, desde la perspectiva municipal será el área especializada en atender a dicho sector, a la par de trabajar en coordinación con el Instituto para establecer programas y acciones que permitan un desarrollo integral de la juventud, y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2020)</small>
 
-IX. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
+VIII. Establecer una Instancia municipal de Juventud, misma que, desde la perspectiva municipal será el área especializada en atender a dicho sector, a la par de trabajar en coordinación con el Instituto para establecer programas y acciones que permitan un desarrollo integral de la juventud;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS Y PÁRRAFOS], P.O. 9 DE JULIO DE 2020)</small>
+
+IX. Constituir un consejo ciudadano de seguimiento de políticas públicas en materia de juventud, que tendrá por objeto:
+
+a) Participar con la instancia municipal de la juventud, mediante la presentación de propuestas y opiniones, en el diseño e implementación de las políticas públicas dirigidas a las personas jóvenes, así como en su seguimiento y evaluación.
+
+b) Formular observaciones, opiniones, recomendaciones y propuestas para la adecuación o modificación de los planes y programas implementados en materia de juventud.
+
+c) Recabar la opinión de las personas jóvenes de la municipalidad, respecto de las políticas públicas implementadas en materia de juventud, y presentarlas para su conocimiento al titular de la instancia municipal de la juventud, generando, en su caso, las propuestas correspondientes.
+
+El consejo ciudadano se integrará con veinte personas jóvenes mayores de edad, de las cuales atendiendo al principio de paridad de género diez serán mujeres y diez serán hombres, seleccionadas por el Cabildo de conformidad con la convocatoria pública que al efecto emita, misma que deberá ser difundida ampliamente entre la población del Municipio, con especial atención de los pueblos y las comunidades indígenas.
+
+El consejo ciudadano será honorífico por lo cual sus integrantes no percibirán retribución, emolumento o compensación alguna; y se desempeñarán por un período improrrogable de dos años.
+
+El consejo ciudadano actuará de forma colegiada bajo la dirección de un presidente que será electo por sus integrantes. Para el desarrollo de sus actividades se requerirá la presencia de la mitad más uno de sus integrantes, y para la validez de sus acuerdos se requerirá el voto de la mayoría de sus integrantes presentes, en caso de empate el presidente tendrá voto de calidad, y
+
+X. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
 
 ###### ARTICULO 50.
 
@@ -1280,3 +1298,13 @@ P.O. 3 DE MARZO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0709.- SE REFORMA EL ARTÍCULO 49 EN SU FRACCIÓN VIII; Y ADICIONA AL MISMO ARTÍCULO 49 UNA FRACCIÓN, DE LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Los ayuntamientos del Estado deberán constituir el consejo ciudadano de seguimiento de políticas públicas en materia de juventud, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Los ayuntamientos del Estado deberán realizar las modificaciones reglamentarias que estimen necesarias para la exacta observancia de este Decreto, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto.
