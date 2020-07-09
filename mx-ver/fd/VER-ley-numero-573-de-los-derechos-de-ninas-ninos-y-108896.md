@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-573-de-los-derechos-de-ninas-ninos-y-108896"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-03"
-last_updated: "2020-02-04"
+last_updated: "2020-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 573 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JULIO DE 2020.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 3 de julio de 2015.
 
@@ -65,7 +65,9 @@ V. Establecer las bases generales para la participación de los sectores privado
 
 Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades estatales y municipales, así como los organismos autónomos del Estado, de conformidad con los principios señalados en la presente Ley, deberán:
 
-I. Establecer un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas, así como en los códigos de ética de los poderes Ejecutivo, Legislativo, Judicial, organismos autónomos del Estado y municipios para su aplicación por parte de los servidores públicos;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2020)</small>
+
+I. Establecer un enfoque integral, transversal y con las perspectivas de derechos humanos y de la infancia y adolescencia, en el diseño y la instrumentación de políticas y programas, así como en los códigos de ética de los poderes Ejecutivo, Legislativo, Judicial, organismos autónomos del Estado y municipios para su aplicación por parte de los servidores públicos;
 
 II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
@@ -113,57 +115,81 @@ X. Discriminación Múltiple. La situación de vulnerabilidad específica en la 
 
 XI. Estado. El Estado de Veracruz de Ignacio de la Llave;
 
-XII. Familia de Origen. Aquella compuesta por titulares de la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes con parentesco hasta segundo grado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE JULIO DE 2020)</small>
 
-XIII. Familia Extensa o Ampliada. Aquella compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+XII. Explotación infantil. También llamado comercio o tráfico de personas. Es el comercio ilegal de seres humanos con propósitos de esclavitud reproductiva, explotación sexual, trabajos forzados, extracción de órganos, o cualquier forma de esclavitud moderna;
 
-XIV. Familia de Acogida. Aquella que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+XIII. Familia de Origen. Aquella compuesta por titulares de la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes con parentesco hasta segundo grado;
 
-XV. Familia de Acogimiento pre-adoptivo. Aquella distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+XIV. Familia Extensa o Ampliada. Aquella compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-XVI. Igualdad Sustantiva. El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+XV. Familia de Acogida. Aquella que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XVII. Informe de Adoptabilidad. El documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+XVI. Familia de Acogimiento pre-adoptivo. Aquella distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XVIII. Ley. Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2020)</small>
 
-XIX. Ley General. Ley General de los Derechos de Niñas, Niños y Adolescentes;
+XVII. Igualdad sustantiva. Es la que se expresa en el goce y ejercicio pleno, irrestricto, integral, cotidiano y en todos los ámbitos de la vida, de los derechos humanos fundamentales universalmente reconocidos a la persona, sin distinción alguna, recibiendo en todo momento un trato incluyente, y libre de cualquier forma de discriminación;
 
-XX. Órgano Jurisdiccional. Los juzgados y tribunales del Poder Judicial del Estado;
+XVIII. Informe de Adoptabilidad. El documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XXI. Procuraduría Estatal de Protección. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado;
+XIX. Ley. Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Veracruz de Ignacio de la Llave;
 
-XXII. Procuraduría Municipal de Protección. Las Procuradurías de Protección de Niñas, Niños y Adolescentes de los municipios del Estado;
+XX. Ley General. Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-XXIII. Programa Estatal. El Programa de Protección de Niñas, Niños y Adolescentes del Estado;
+XXI. Órgano Jurisdiccional. Los juzgados y tribunales del Poder Judicial del Estado;
 
-XXIV. Programa Nacional. El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE JULIO DE 2020)</small>
 
-XXV. Protección Integral. Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada, en cada una de las materias relacionadas, los derechos humanos de niñas, niños y adolescentes, de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano forma parte;
+XXII. Perspectiva de la Infancia y Adolescencia. Visión científica, analítica y política que comprende a las niñas, niños y adolescentes desde su particular contexto de vida y características de desarrollo, para visibilizar y eliminar las causas de la opresión, violencia, discriminación, utilización en cualquier clase de conflictos, por razón de su edad y desarrollo progresivo; generadas por estructuras culturales que reproducen conductas, costumbres, prejuicios, lenguaje, estereotipos o roles que limitan, obstaculizan, menosprecian o alteran sus capacidades para disfrutar y ejercer plenamente sus derechos. Promueve la igualdad, el sano desarrollo y el bienestar de la niñez y la adolescencia, y contribuye a construir una sociedad en donde las niñas, niños y adolescentes, tengan el mismo valor, equidad de derechos y oportunidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE JULIO DE 2020)</small>
+
+XXIII. Principio de Igualdad y no discriminación. La posibilidad y capacidad de ser titulares cualitativamente y cuantitativamente de los mismos derechos, sin distinción alguna por motivo de edad, origen étnico o nacional, sexo, diferencias biológicas, idioma, creencias, religión, situación migratoria, opinión política o condición social;
+
+XXIV. Procuraduría Estatal de Protección. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado;
+
+XXV. Procuraduría Municipal de Protección. Las Procuradurías de Protección de Niñas, Niños y Adolescentes de los municipios del Estado;
+
+XXVI. Programa Estatal. El Programa de Protección de Niñas, Niños y Adolescentes del Estado;
+
+XXVII. Programa Nacional. El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
+
+XXVIII. Protección Integral. Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada, en cada una de las materias relacionadas, los derechos humanos de niñas, niños y adolescentes, de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano forma parte;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-XXVI. Registro Estatal de Menores. Lo integrará una base de datos con las muestras biométricas de los menores de edad, que resguardará la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes; perteneciente al Sistema Estatal para el Desarrollo Integral de la Familia del Estado.
+XXIX. Registro Estatal de Menores. Lo integrará una base de datos con las muestras biométricas de los menores de edad, que resguardará la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes; perteneciente al Sistema Estatal para el Desarrollo Integral de la Familia del Estado.
 
-XXVII. Reglamento. El Reglamento de la presente Ley;
+XXX. Reglamento. El Reglamento de la presente Ley;
 
-XXVIII. Representación Coadyuvante. El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría Estatal de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXXI. Representación Coadyuvante. El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría Estatal de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXIX. Representación Originaria. La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+XXXII. Representación Originaria. La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
-XXX. Representación en Suplencia. La representación de niñas, niños y adolescentes a cargo de la Procuraduría Estatal de Protección, conforme a su ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXXIII. Representación en Suplencia. La representación de niñas, niños y adolescentes a cargo de la Procuraduría Estatal de Protección, conforme a su ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXXI. Sistema DIF Estatal. Sistema para el Desarrollo Integral de la Familia del Estado;
+XXXIV. Sistema DIF Estatal. Sistema para el Desarrollo Integral de la Familia del Estado;
 
-XXXII. Sistema Estatal de Protección Integral. El Sistema de Protección de Niñas, Niños y Adolescentes del Estado;
+XXXV. Sistema Estatal de Protección Integral. El Sistema de Protección de Niñas, Niños y Adolescentes del Estado;
 
-XXXIII. Sistemas DIF Municipales. Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado;
+XXXVI. Sistemas DIF Municipales. Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado;
 
-XXXIV. Sistema Nacional DIF. El Sistema Nacional para el Desarrollo Integral de la Familia;
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 9 DE JULIO DE 2020)</small>
 
-XXXV. Sistema Nacional de Protección Integral. El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes; y
+XXXVII. Sistema Nacional DIF. El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-XXXVI. Tratados Internacionales. Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE JULIO DE 2020)</small>
+
+XXXVIII. Sistema Nacional de Protección Integral. El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2020)</small>
+
+XXXIX. Trabajo Infantil. Se alude a la actividad que es peligrosa y perjudicial para el bienestar físico, mental o emocional de niñas, niños y adolescentes; interfiere con su escolarización puesto que les priva de la posibilidad de asistir a clases; les obliga a abandonar la escuela de forma prematura, o les exige combinar el estudio con un trabajo pesado y que consume mucho tiempo, privándoles de aprovechar su potencial, disfrutar su niñez y sano desarrollo, afectando su dignidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 9 DE JULIO DE 2020)</small>
+
+XL. Tratados Internacionales. Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 ###### Artículo 5.
 
@@ -193,7 +219,9 @@ VIII. La interculturalidad;
 
 IX. La corresponsabilidad de los miembros de la familia, la sociedad y las autoridades;
 
-X. La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2020)</small>
+
+X. La transversalidad, con perspectiva de la infancia y adolescencia, en la legislación, políticas públicas, actividades administrativas, económicas y culturales;
 
 XI. La autonomía progresiva;
 
@@ -203,27 +231,35 @@ XIII. El acceso a una vida libre de violencia; y
 
 XIV. La accesibilidad.
 
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2020)</small>
+
 ###### Artículo 7.
 
-Las autoridades estatales y municipales, así como los organismos autónomos del Estado, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley.
+Las autoridades estatales y municipales, así como los organismos autónomos del Estado, en el ámbito de sus respectivas competencias, impulsarán con perspectiva de la infancia y adolescencia, la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley.
 
 ###### Artículo 8.
 
 A falta de disposición expresa en la Constitución Federal, la Constitución Local, los tratados internacionales, la Ley General, esta Ley o en las demás disposiciones aplicables, se estará a los principios generales que deriven de dichos ordenamientos y a falta de éstos, a los principios generales del derecho, privilegiando en todo momento los principios rectores de esta Ley.
 
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2020)</small>
+
 ###### Artículo 9.
 
-En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
+En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares, los contextos de vida y las características de desarrollo de niñas, niños y adolescentes en los diferentes grupos de población, así como de las comunidades indígenas, a fin de proteger el ejercicio igualitario de todos sus derechos.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2020)</small>
 
 ###### Artículo 10.
 
-Es deber de la familia, de la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes y garantizarles un nivel adecuado de vida, así como exigir el cumplimiento de los principios y derechos reconocidos en la presente Ley a niñas, niños y adolescentes. Al efecto, la familia recibirá asistencia, capacitación, educación, asesoría y acompañamiento en la tarea de procurar el desarrollo integral de la niñez, mediante acciones institucionales por parte de las autoridades estatales, municipales y organismos autónomos.
+Es deber de la familia, de la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes y garantizarles un nivel adecuado de vida, así como exigir el cumplimiento de los principios y derechos reconocidos en la presente Ley a niñas, niños y adolescentes. Al efecto, la familia recibirá asistencia, capacitación, educación, asesoría y acompañamiento con perspectiva de la infancia y adolescencia en la tarea de procurar el desarrollo integral de la niñez, mediante acciones institucionales por parte de las autoridades estatales, municipales y organismos autónomos.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2020)</small>
 
 ###### Artículo 11.
 
-Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en términos de las disposiciones aplicables.
+Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, a efecto de que se lleve a cabo la investigación correspondiente con perspectiva de la infancia y adolescencia, bajo el principio de debida diligencia y con el uso de servicios especializados y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en términos de las disposiciones aplicables.
+
+Asimismo, todo órgano jurisdiccional que conozca de la violación a los derechos de niñas, niños y adolescentes deberá impartir justicia con atención a la perspectiva de la infancia y adolescencia y proveer siempre por el Interés Superior de la Niñez.
 
 ## TÍTULO SEGUNDO. De los derechos de Niñas, Niños y Adolescentes
 
@@ -271,7 +307,9 @@ XIX. De niñas, niños y adolescentes migrantes; y
 
 XX. De acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación o condición de ningún tipo.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2020)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán con perspectiva de la infancia y adolescencia las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación o condición de ningún tipo.
 
 ### CAPÍTULO I. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
 
@@ -473,17 +511,25 @@ Las autoridades competentes en materia de desarrollo integral de la familia e in
 
 ### CAPÍTULO V. Del Derecho a la Igualdad Sustantiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2020)</small>
+
 ###### Artículo 33.
 
-Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+Niñas, niños y adolescentes tienen derecho a que el Estado adopte las medidas necesarias para el goce y ejercicio pleno, irrestricto, integral, cotidiano y en todos los ámbitos de la vida, de los derechos humanos y libertades fundamentales universalmente reconocidos a la persona, sin distinción alguna, recibiendo en todo momento, bajo el principio de igualdad, un trato incluyente, y libre de toda forma de discriminación.
 
-Para garantizar la igualdad sustantiva, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán:
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2020)</small>
 
-I. Transversalizar la perspectiva de género en todas sus actuaciones y procurar la utilización de un lenguaje incluyente en sus documentos oficiales;
+Para garantizar la igualdad sustantiva, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y con base en la perspectiva de la infancia y adolescencia, deberán:
+
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2020)</small>
+
+I. Transversalizar las perspectivas de género y de la infancia y adolescencia en todas sus actuaciones y procurar la utilización de un lenguaje incluyente en sus documentos oficiales;
 
 II. Diseñar, implementar y evaluar programas, políticas públicas a través de acciones afirmativas tendientes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, a la educación y a la atención médica entre niñas, niños y adolescentes;
 
-III. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas o de cualquier otra índole contraria al principio de igualdad;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2020)</small>
+
+III. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas, por razón de edad, desarrollo progresivo o de cualquier otra índole, contrarias al principio de igualdad;
 
 IV. Establecer medidas dirigidas de manera preferente a las niñas y las adolescentes que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el ejercicio de los derechos contenidos en esta Ley;
 
@@ -493,9 +539,11 @@ VI. Establecer mecanismos institucionales orientados hacia el cumplimiento de la
 
 VII. Desarrollar campañas permanentes de sensibilización de los derechos de las niñas y las adolescentes.
 
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2020)</small>
+
 ###### Artículo 34.
 
-Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar, en todo momento, sus derechos en aras de alcanzar la igualdad sustantiva con respecto a los niños y a los adolescentes; y, en general, con toda la sociedad.
+Las normas aplicables a niñas, niños y adolescentes deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar, en todo momento, sus derechos en aras de alcanzar la igualdad sustantiva entre ellos; y, en general de niñas, niños y adolescentes con toda la sociedad.
 
 ### CAPÍTULO VI. Del Derecho a la No Discriminación
 
@@ -509,7 +557,9 @@ Las autoridades estatales y municipales, así como los organismos autónomos del
 
 I. Llevar a cabo medidas especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, de calle, de trabajo infantil o cualquiera otra condición de marginalidad; y
 
-II. Adoptar medidas y realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes el derecho a la no discriminación. La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2020)</small>
+
+II. Adoptar medidas y realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes el derecho a la no discriminación. La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva de la infancia y adolescencia, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
 
 ###### Artículo 37.
 
@@ -527,7 +577,17 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo integral. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2020)</small>
+
+Corresponde a quienes ejerzan la patria potestad, tutela, guarda y custodia, así como aquellas personas que por razón de sus funciones o actividades tengan bajo su cuidado a niñas, niños o adolescentes, la obligación primordial de proporcionarles un ambiente de desarrollo y crecimiento en armonía y bienestar, tanto en su integridad física como mental, espiritual, cultural y ética, y evitar incitarlos o coaccionarlos a participar en cualquier clase de conflictos.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2020)</small>
+
+Quienes ejerzan la patria potestad, tutela o guarda y custodia deberán, dentro de sus posibilidades y medios económicos, proporcionarles las condiciones de vida materiales suficientes para su sano desarrollo integral.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2020)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dichos fines, mediante la adopción de las medidas apropiadas
 
 ### CAPÍTULO VIII. Del Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
@@ -853,7 +913,9 @@ Asimismo, la Procuraduría Estatal de Protección estará facultada para promove
 
 Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se tomen en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2020)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a disponer e implementar con perspectiva de la infancia y adolescencia, los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se tomen en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
 
 ###### Artículo 61.
 
@@ -1101,7 +1163,9 @@ V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armo
 
 VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
-VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, trata de personas y explotación;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2020)</small>
+
+VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, trata de personas y toda forma de explotación, incluido el trabajo infantil;
 
 VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
 
@@ -1123,7 +1187,9 @@ Las autorizaciones a que se refiere esta Ley deberán ser otorgadas por quienes 
 
 Las autoridades estatales y municipales, en términos de lo dispuesto en la presente Ley y en el ámbito de sus respectivas competencias, vigilarán y proveerán lo conducente para:
 
-I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, los cuiden y atiendan; protejan contra toda forma de abuso; los traten con respeto a su dignidad y orienten, a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2020)</small>
+
+I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, los cuiden y atiendan; protejan contra toda forma de abuso y explotación, incluido el trabajo infantil; los traten con respeto a su dignidad y orienten, a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas;
 
 II. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenir y erradicar esas conductas; y
 
@@ -1529,7 +1595,9 @@ I. Instrumentar y articular sus políticas públicas en concordancia con la pol�
 
 II. Coadyuvar en la adopción y consolidación del Sistema Nacional de Protección Integral;
 
-III. Garantizar la transversalidad de la perspectiva de derechos de niñas, niños y adolescentes en la elaboración de programas sectoriales o, en su caso, institucionales específicos, así como en las políticas y acciones de las dependencias y entidades de la administración pública estatal, para la protección integral de los derechos de aquéllos;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2020)</small>
+
+III. Garantizar la transversalidad de los derechos de niñas, niños y adolescentes en la elaboración de programas sectoriales o, en su caso, institucionales específicos, así como en las políticas y acciones de las dependencias y entidades de la administración pública estatal, con perspectiva de la infancia y adolescencia, para la protección integral de los derechos de aquellos;
 
 IV. Difundir el marco jurídico local, nacional e internacional de protección a los derechos de niñas, niños y adolescentes;
 
@@ -1697,7 +1765,9 @@ Los Sistemas Municipales de Protección Integral serán presididos por los Presi
 
 Los Sistemas Municipales de Protección Integral tendrán cuando menos las siguientes atribuciones:
 
-I. Garantizar la transversalidad de la perspectiva de derechos de niñas, niños y adolescentes en la elaboración de programas sectoriales o, en su caso, institucionales específicos, así como en las políticas y acciones de la administración pública municipal;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2020)</small>
+
+I. Garantizar la transversalidad de los derechos de niñas, niños y adolescentes en la elaboración con perspectiva de la infancia y adolescencia, de programas sectoriales o, en su caso, institucionales específicos, así como en las políticas y acciones de la administración pública municipal;
 
 II. Difundir el marco jurídico estatal, nacional e internacional de protección a los derechos de niñas, niños y adolescentes;
 
@@ -2030,3 +2100,19 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 9 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 575 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ, EN MATERIA DE IGUALDAD SUSTANTIVA, TRABAJO Y EXPLOTACIÓN INFANTIL Y PERSPECTIVA DE LA INFANCIA Y LA ADOLESCENCIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se concede un plazo de noventa días hábiles, contado a partir del día siguiente al del inicio de la vigencia del presente Decreto, para que el Ejecutivo del Estado realice las adecuaciones reglamentarias necesarias para dar efectivo cumplimiento a este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
