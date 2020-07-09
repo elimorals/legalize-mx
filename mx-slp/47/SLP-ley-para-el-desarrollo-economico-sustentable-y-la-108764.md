@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2019-10-28"
+last_updated: "2020-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -513,6 +513,12 @@ XVII. Realicen nuevas inversiones, o amplíen sus instalaciones, generando con s
 
 XVIII. Generen nuevas fuentes de empleos bien remunerados para connacionales repatriados.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2020)</small>
+
+ARTÍCULO 33 BIS. Cuando los sujetos de esta Ley tengan excedentes consistentes en alimentos con motivo de sus actividades, podrán donarlos a las instituciones autorizadas para recibir donativos deducibles conforme a la ley garantizando su calidad, higiene y previo a su fecha de caducidad, a fin de ser aptos para el consumo, cumpliendo con la normatividad aplicable; además de informar a éstos las condiciones y mecanismos para su recolecta y posterior entrega.
+
+El donante puede suprimir la marca de los productos que done cuando así lo estime conveniente, conservando los datos que identifiquen la caducidad de los mismos, su descripción y valor nutricional.
+
 ### CAPÍTULO IX. Del Procedimiento para Otorgar Incentivos
 
 ###### ARTÍCULO 34.
@@ -972,3 +978,11 @@ P.O. 28 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 9 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0711.- SE ADICIONA EL ARTÍCULO 33 BIS, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
