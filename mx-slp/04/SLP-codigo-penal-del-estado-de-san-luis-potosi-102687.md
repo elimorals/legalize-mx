@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2020-06-25"
+last_updated: "2020-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2020.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2319,6 +2319,8 @@ Este delito se sancionará con una pena de seis meses a dos años de prisión y 
 
 ### CAPÍTULO VI (SIC). Violencia Familiar
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 191.
 
 A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes o depositarios, siempre y cuando no atenten contra la dignidad humana, se le impondrán de tres a seis años de prisión y sanción de trescientos a seiscientos días del valor de la unidad de medida y actualización.
@@ -2485,17 +2487,25 @@ Para el caso de que el abandono traiga como consecuencia la muerte de la persona
 
 ###### ARTÍCULO 205.
 
-Comete el delito de violencia familiar quien en contra de su cónyuge, concubina o concubinario, o persona que mantenga o haya mantenido una relación de hecho, pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado o adoptante, cometa actos abusivos de poder u omisión intencionales, dirigidos a dominar, someter, controlar o maltratar de manera física, verbal, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones, y de otros delitos que resulten.
+Comete el delito de violencia familiar quien en contra de su cónyuge, concubina o concubinario, o persona que mantenga o haya mantenido una relación de hecho, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, o adoptante, cometa actos abusivos de poder u omisión intencionales, dirigidos a dominar, someter, controlar o maltratar de manera física, verbal, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones, y de otros delitos que resulten.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+Se entenderá por relación de hecho, la que exista entre quienes:
 
-Este delito se sancionará con pena de uno a seis años de prisión y sanción pecuniaria de cien a seiscientos días de la unidad de medida y actualización; asimismo, el culpable perderá el derecho de pensión alimenticia y se le condenará a participar en servicios reeducativos integrales, especializados y gratuitos.
+I. Hagan la vida en común, en forma constante y permanente, por un período mínimo de seis meses;
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2018)</small>
+II. Mantengan una relación de pareja, aunque no vivan en el mismo domicilio;
+
+III. Tengan relación con los hijos o hijas de su pareja, siempre que no los hayan procreado en común, y
+
+IV. Tengan relación con la pareja de alguno de sus progenitores.
+
+Este delito se sancionará con pena de uno a seis años de prisión, y sanción pecuniaria de cien a seiscientos días de la unidad de medida y actualización; asimismo, el culpable perderá el derecho de pensión alimenticia y se le condenará a participar en servicios reeducativos integrales, especializados, y gratuitos.
 
 Cuando el delito se cometa en contra de una persona menor de edad, incapaz, con discapacidad, o mayor de sesenta años de edad, las penas previstas en este artículo se incrementarán hasta en una mitad más de las ya establecidas.
 
-Este delito se perseguirá por querella necesaria, excepto cuando:
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2020)</small>
+
+ARTÍCULO 205 BIS. El delito de violencia familiar se perseguirá por querella necesaria, excepto cuando:
 
 I. La víctima u ofendido sea menor de edad; incapaz, o no tenga la capacidad para comprender el significado del hecho;
 
@@ -2509,9 +2519,7 @@ V. Cuando se cometa con la participación de dos o más personas.
 
 La autoridad competente deberá de canalizar a la víctima u ofendido del delito de violencia familiar, para que reciba la atención médica y psicológica de urgencia.
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
-
-En el supuesto descrito en la fracción I, cuando la violencia sea ejercida por ambos progenitores hacia el hijo o la hija menor de edad, la autoridad competente procederá en los términos del artículo 43 fracción II inciso f) de la Ley de Prevención y Atención de la Violencia Familiar del Estado de San Luis Potosí.
+En el supuesto descrito en la fracción I, cuando la violencia sea ejercida por ambos progenitores hacia el hijo o la hija menor de edad, la autoridad competente procederá en los términos del artículo 43 fracción II inciso f), de la Ley de Prevención y Atención de la Violencia Familiar del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 206.
 
@@ -5304,6 +5312,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0697.- SE REFORMA (SIC) LOS ARTÍCULOS 143 EN SU FRACCIÓN I Y 357, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 72 EN SU FRACCIÓN X, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0710.- SE REFORMA EL ARTÍCULO 205; Y ADICIONA EL ARTÍCULO 205 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
