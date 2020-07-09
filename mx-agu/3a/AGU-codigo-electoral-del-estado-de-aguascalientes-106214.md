@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-106214"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-02"
-last_updated: "2020-06-29"
+last_updated: "2020-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE JULIO DE 2020 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE JULIO DE 2020.]</small>
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 
@@ -2725,7 +2725,7 @@ El Consejero Presidente podrá solicitar a las autoridades competentes los medio
 
 Los partidos políticos, coaliciones, candidaturas comunes o candidatos que decidan dentro de la campaña electoral realizar marchas o reuniones que impliquen una interrupción temporal de la vialidad, deberán hacer del conocimiento de la autoridad competente su itinerario a fin de que ésta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020) (F. DE E., P.O. 9 DE JULIO DE 2020)
 
 ###### ARTÍCULO 162.
 
@@ -2737,7 +2737,7 @@ La propaganda que durante una campaña difundan por medios gráficos los partido
 
 La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos se ajustarán a lo dispuesto por el artículo 6º de la CPEUM.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+(REFORMADO, P.O. 29 DE JUNIO DE 2020) (F. DE E., P.O. 9 DE JULIO DE 2020)
 
 En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, las candidaturas comunes y los candidatos, deberán abstenerse de expresiones que calumnien, discriminen, denigren a las personas o constituyan violencia política contra las mujeres en razón de género. En el caso de los mensajes en radio o televisión contrarios a esta norma, el Consejo realizará la denuncia respectiva ante el INE en términos de lo dispuesto por el artículo 471, párrafo 1 de la LGIPE y del apartado D de la base III del artículo 41 de la CPEUM.
 
@@ -2747,7 +2747,7 @@ La propaganda que los partidos políticos, coaliciones, candidaturas comunes y c
 
 Al interior y al exterior de las oficinas, edificios y locales ocupados por la administración y los poderes públicos no podrá fijarse ni distribuirse propaganda electoral de ningún tipo.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+(REFORMADO, P.O. 29 DE JUNIO DE 2020) (F. DE E., P.O. 9 DE JULIO DE 2020)
 
 No podrá colocarse propaganda en el primer cuadro de las cabeceras municipales, circunscripción que determinarán los ayuntamientos a más tardar el veinte de enero del año de la elección, acuerdo que deberán comunicar de inmediato al Consejo. El Consejero Presidente a más tardar la última semana de enero del año de la elección, comunicará a los ayuntamientos los términos de esta disposición para los efectos conducentes. En caso de que los Ayuntamientos sean omisos en el cumplimiento de la obligación anterior serán sujetos de sanción de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y deberá de considerarse la circunscripción que se haya determinado para el proceso electoral local anterior inmediato.
 
