@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2020-06-18"
+last_updated: "2020-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2020.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -97,43 +97,47 @@ VI. Adoptar las medidas necesarias para garantizar el trato digno y con respeto,
 
 Para efectos de la presente Ley se entenderá por:
 
-I. Animal: todas aquellas especies y subespecies clasificadas dentro de este reino, destinadas para cualquier uso y aprovechamiento por el hombre;
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2020)</small>
+
+I. Acoger: acto mediante el cual una institución pública o privada legalmente establecida, transfiere la propiedad o posesión, así como la responsabilidad de cuidado y protección de un animal de compañía, a las asociaciones protectoras de animales;
+
+II. Animal: todas aquellas especies y subespecies clasificadas dentro de este reino, destinadas para cualquier uso y aprovechamiento por el hombre;
 
 (ADICIONADA, P.O. 7 DE OCTUBRE DE 2017) (REPUBLICADA, P.O. 10 DE OCTUBRE DE 2017)
 
-II. Bienestar animal: estado en el que la mascota tiene satisfechas sus necesidades bilógicas (sic), de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
+III. Bienestar animal: estado en el que la mascota tiene satisfechas sus necesidades bilógicas (sic), de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
 
 (ADICIONADA, P.O. 7 DE OCTUBRE DE 2017) (REPUBLICADA, P.O. 10 DE OCTUBRE DE 2017)
 
-III. Campañas: acciones públicas realizadas de manera periódica y sistemática por la autoridad en el ámbito de sus respectivas competencias, o por quien ella designe, para el control, prevención o erradicación de enfermedades en las mascotas transmisibles al ser humano; para controlar la población de mascotas, o para difundir el trato digno y respetuoso a las mascotas;
+IV. Campañas: acciones públicas realizadas de manera periódica y sistemática por la autoridad en el ámbito de sus respectivas competencias, o por quien ella designe, para el control, prevención o erradicación de enfermedades en las mascotas transmisibles al ser humano; para controlar la población de mascotas, o para difundir el trato digno y respetuoso a las mascotas;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
 
-IV. Hostigar: dar golpes o causar molestias a los animales por cualquier medio o instrumento; o realizar acciones que cambien la conducta normal de los animales;
+V. Hostigar: dar golpes o causar molestias a los animales por cualquier medio o instrumento; o realizar acciones que cambien la conducta normal de los animales;
 
 (ADICIONADA, P.O. 7 DE OCTUBRE DE 2017) (REPUBLICADA, P.O. 10 DE OCTUBRE DE 2017)
 
-V. Mascota: animales domésticos o silvestres destinados a la compañía del ser humano, mantenidos por el hombre para su disfrute o recreación y que vive por sus cuidados;
+VI. Mascota: animales domésticos o silvestres destinados a la compañía del ser humano, mantenidos por el hombre para su disfrute o recreación y que vive por sus cuidados;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
 
-VI. Maltrato: todo acto u omisión que ocasione dolor o sufrimiento innecesario, que afecte el bienestar animal, ponga en peligro la vida o afecte gravemente la salud, así como la sobreexplotación de su trabajo;
+VII. Maltrato: todo acto u omisión que ocasione dolor o sufrimiento innecesario, que afecte el bienestar animal, ponga en peligro la vida o afecte gravemente la salud, así como la sobreexplotación de su trabajo;
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
 
-VII. Protección a los animales: todas aquellas acciones encaminadas a brindarles un aceptable estado de salud física y psicológica
+VIII. Protección a los animales: todas aquellas acciones encaminadas a brindarles un aceptable estado de salud física y psicológica
 
 (REFORMADA, P.O. 7 DE OCTUBRE DE 2017) (REPUBLICADA, P.O. 10 DE OCTUBRE DE 2017)
 
-VIII. Sacrificio humanitario: matanza de animales, especialmente para el consumo humano, o que se requiera para evitar sufrimiento innecesario al mismo; utilizando métodos físicos o químicos que produzcan mínimo dolor, efectuado por personal capacitado y atendiendo a la normatividad aplicable para tal efecto;
+IX. Sacrificio humanitario: matanza de animales, especialmente para el consumo humano, o que se requiera para evitar sufrimiento innecesario al mismo; utilizando métodos físicos o químicos que produzcan mínimo dolor, efectuado por personal capacitado y atendiendo a la normatividad aplicable para tal efecto;
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
 
-IX. Tortura a los animales: ocasionar grave dolor físico infligido con métodos o utensilios diversos, con el fin de obtener de éste una acción, o como medio de castigo, y
+X. Tortura a los animales: ocasionar grave dolor físico infligido con métodos o utensilios diversos, con el fin de obtener de éste una acción, o como medio de castigo, y
 
 (REFORMADA, P.O. 7 DE OCTUBRE DE 2017) (REPUBLICADA, P.O. 10 DE OCTUBRE DE 2017)
 
-X. Trato digno y respetuoso: toda medida para evitar dolor innecesario a las mascotas desde su gestación, nacimiento, captura, cautiverio, traslado, exhibición, cuarentena, entrenamiento, explotación, manutención, transporte y sacrificio.
+XI. Trato digno y respetuoso: toda medida para evitar dolor innecesario a las mascotas desde su gestación, nacimiento, captura, cautiverio, traslado, exhibición, cuarentena, entrenamiento, explotación, manutención, transporte y sacrificio.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
 
@@ -829,11 +833,21 @@ Queda prohibido organizar, inducir o provocar peleas de perros.
 
 Los propietarios y responsables de establecimientos autorizados para la venta de animales, no deberán:
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2020)</small>
 
-I.- Tener a la venta animales lesionados o enfermos, ni menores de ocho semanas de edad, y
+I.- Tener a la venta animales lesionados o enfermos, ni menores de ocho semanas de edad;
 
-II.- Mutilar, desollar o descuartizar a los animales estando vivos.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2020)</small>
+
+II.- Mutilar, desollar o descuartizar a los animales estando vivos;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2020)</small>
+
+III.- Mantener a los animales en condiciones de higiene que propicien la proliferación de zoonosis y enfermedades en los mismos, así como mantenerlos en condiciones de hacinamiento, y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2020)</small>
+
+IV.- Comercializar animales que no estén desparasitados y vacunados.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -1148,6 +1162,22 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 18 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0685.- SE REFORMA LA DENOMINACIÓN DEL TÍTULO SEGUNDO; Y ADICIONA EL CAPÍTULO V Y LOS ARTÍCULOS 29 BIS Y 29 TER, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0712.- SE REFORMA EL ARTÍCULO 78 EN SUS FRACCIONES I Y II; Y ADICIONA AL MISMO ARTÍCULO 78 LAS FRACCIONES III Y IV, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0713.- SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 3°, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
