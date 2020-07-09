@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fiscalizacion-superior-del-estado-de-aguascalientes-8388
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2020-07-06"
+last_updated: "2020-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE JULIO DE 2020 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2020.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE JULIO DE 2020.]</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de noviembre de 2011.
 
@@ -2043,4 +2043,34 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 6 DE JULIO DE 2020.
 
-> <small>[N. DE E. EL “DECRETO NÚMERO 368.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 15 PÁRRAFOS PRIMERO Y SEGUNDO, 18 ÚLTIMO PÁRRAFO Y 41 PÁRRAFOS PRIMERO, SEGUNDO, TERCERO Y QUINTO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
+> <small>(F. DE E., P.O. 9 DE JULIO DE 2020)</small>
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 368.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 15 PÁRRAFOS PRIMERO Y SEGUNDO, 18 ÚLTIMO PÁRRAFO Y 41 PÁRRAFOS PRIMERO, SEGUNDO, TERCERO Y QUINTO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Derivado de la pandemia COVID-19, el Informe del Estado que Guardan las Observaciones del año 2018 y anteriores que aún no estén concluidas por los Órganos Internos de Control de los entes fiscalizados correspondientes al primero y segundo trimestre se entregrarán a la Comisión el 15 de julio de 2020.
+
+###### ARTÍCULO TERCERO.
+
+Derivado de la pandemia COVID-19, el Informe de Observaciones Preliminares correspondientes a la Revisión de las Cuentas Públicas de 2019 se enviará a las entidades fiscalizadas y a sus exfuncionarios cuando el proceso de fiscalización corresponda al periodo de su gestión, y de ser procedente a otras autoridades a más tardar el 15 de octubre del 2020.
+
+###### ARTÍCULO CUARTO.
+
+Derivado de la pandemia COVID-19, el Informe de Resultado correspondiente a la revisión de las Cuentas Públicas 2019 se rendirá a la LXIV Legislatura por conducto de la Comisión de Vigilancia el 15 de diciembre de 2020.
+
+###### ARTÍCULO QUINTO.
+
+Derivado de la pandemia COVID-19, la Comisión de Vigilancia de la LXIV Legislatura del H. Congreso del Estado de Aguascalientes someterá a votación del Pleno el Dictamen a más tardar el 15 de febrero de 2021 para su aprobación.
+
+###### ARTÍCULO SEXTO.
+
+Derivado de la pandemia COVID-19, los Informes del Avance de la Gestión financiera del primero y segundo trimestre se entregarán juntos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los artículos transitorios del presente Decreto tendrán efecto sólo para los Informes de Avance, Informes de Resultados, Informes de Observaciones Preliminares y Revisión de las Cuentas Públicas a las que se hace mención.
