@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2020-06-26"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -49,7 +49,9 @@ La presente ley es de orden público e interés social y de observancia general 
 
 Es reglamentaria del párrafo sexto del artículo 173, de la Constitución Política del Estado de Coahuila de Zaragoza, en el que se reconoce la igualdad de derechos del hombre y de la mujer en todos los ámbitos de la vida cultural, social, jurídica, política y económica.
 
-Tiene como eje principal, que las mujeres y los hombres son iguales en dignidad humana y homogéneos en derechos y deberes.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+
+Tiene como eje principal, que las mujeres y los hombres son iguales en dignidad humana y homogéneos en derechos y deberes, así como proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo, con respeto entre las personas y sus culturas.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
 
@@ -77,13 +79,21 @@ A estos efectos, la ley establece principios de actuación de los poderes públi
 
 Todas las personas gozarán de los derechos derivados del principio de igualdad de trato y de la prohibición de discriminación por razón de sexo.
 
-Las obligaciones establecidas en esta ley serán de aplicación a toda persona, física o jurídica, que se encuentre o actúe en territorio coahuilense, cualquiera que fuese su nacionalidad, domicilio o residencia.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+
+Las obligaciones establecidas en esta ley serán de aplicación a toda persona, física o jurídica, que se encuentren en territorio del Estado de Coahuila, cualquiera que fuese su nacionalidad, domicilio o residencia y que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, creencia religiosa, opinión, preferencias sexuales o discapacidad, se encuentren con algún tipo de desventaja.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+La aplicación y debida observancia de esta ley será en los ámbitos público y privado y corresponde a la Administración Pública Estatal y Municipal, de conformidad con sus respectivas competencias, debiendo tomar las medidas presupuestales y administrativas que permitan garantizar la igualdad entre mujeres y hombres sin discriminación de cualquier tipo.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
 
 ###### Artículo 4.
 
 Principios rectores.
 
-Son principios rectores de la presente ley, la igualdad de oportunidades, la no discriminación, la equidad de género, la perspectiva de género y todos aquellos contenidos en los instrumentos internacionales aplicables en la materia, en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Coahuila de Zaragoza.
+Son principios rectores de la presente ley, la igualdad de trato y oportunidades, la no discriminación, la igualdad de género, la perspectiva de género, la paridad de género, contenidos en los tratados internacionales, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y demás disposiciones aplicables en la materia.
 
 ###### Artículo 5.
 
@@ -150,6 +160,10 @@ XVI. Sistema estatal. Sistema Estatal para la Igualdad entre Mujeres y Hombres.
 XVII. Sistema nacional. Sistema Nacional para la Igualdad entre Mujeres y Hombres.
 
 XVIII. Transversalidad. El proceso que permite garantizar la incorporación de la perspectiva de género para valorar las implicaciones que tiene en las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XIX. Paridad de género. Principio que garantiza la igualdad entre hombres y mujeres en el acceso a puestos de representación política, asegurando la participación igualitaria en la definición de candidaturas.
 
 ## Título II. De las autoridades e instituciones competentes en materia de igualdad entre mujeres y hombres
 
@@ -363,9 +377,29 @@ I. Implementar la política municipal en materia de igualdad entre mujeres y hom
 
 II. Coadyuvar con el Gobierno Federal y con el Gobierno Estatal, en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
 
-III. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo que promuevan los contenidos de la presente ley; y,
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
 
-IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales.
+III. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo que promuevan los contenidos de la presente ley;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+
+IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+V. Fortalecer la prestación de los servicios públicos de la administración municipal, a través de la formación, capacitación y certificación de las y los servidores públicos en materia de igualdad de género;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+VI. Fomentar actividades reglamentarias con perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+VII. Fomentar la participación equitativa de mujeres y hombres en cargos públicos; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+VIII. Diseñar, formular y aplicar campañas permanentes de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta ley le confiere.
 
 ### Capítulo sexto. De la Comisión de Derechos Humanos del Estado de Coahuila
 
@@ -419,9 +453,25 @@ X. Promover la eliminación de estereotipos establecidos en función del sexo;
 
 XI. Establecer la utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
 
-XII. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre hombres y mujeres; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
 
-XIII. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud.
+XII. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre hombres y mujeres;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XIII. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XIV. La transversalización de las políticas públicas;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XV. Propiciar la igualdad de oportunidades para las mujeres en el uso y aprovechamiento de sus propiedades para su beneficio; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XVI. Alcanzar la paridad de mujeres y hombres en el liderazgo y toma de decisiones.
 
 ### Capítulo segundo. De los instrumentos de la política en materia de igualdad entre mujeres y hombres
 
@@ -541,9 +591,33 @@ b) El Instituto Coahuilense de las Mujeres será el encargado de llevar a cabo l
 
 XI. Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar y establecer los medios y mecanismos tendientes a la convivencia sin menoscabo del pleno desarrollo humano;
 
-XII. Establecer medidas para la erradicación del acoso sexual; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
 
-XIII. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal y las que determinen las disposiciones aplicables.
+XII. Establecer medidas para la erradicación del acoso sexual;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2020)</small>
+
+XIII. Favorecer la institucionalización de las buenas prácticas de igualdad en la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XIV. Contribuir al adelanto y empoderamiento económico y social de las mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XV. Contar con un sistema de información para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia en el Estado para lo que podrá:
+
+a) Solicitar y recibir información sobre medidas y actividades que pongan en marcha los sectores público y privado en materia de igualdad entre mujeres y hombres;
+
+b) Evaluar el impacto en la sociedad de las políticas y medidas que afecten a los hombres y a las mujeres en materia de igualdad;
+
+c) Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
+
+d) Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XIII], P.O. 10 DE JULIO DE 2020)</small>
+
+XVI. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal y las que determinen las disposiciones aplicables.
 
 ###### Artículo 30.
 
@@ -573,9 +647,53 @@ VII. Presidente de la Comisión de Derechos Humanos del Estado de Coahuila;
 
 VIII. Dos representantes de la sociedad civil;
 
-IX. Dos representantes del sector empresarial; y,
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
 
-X. Dos representantes de los medios de comunicación.
+IX. Dos representantes del sector empresarial;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+
+X. Dos representantes de los medios de comunicación;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XI. Titular de la Secretaría de Finanzas;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XII. Titular de la Secretaría de Economía;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XIII. Titular de la Secretaría de Desarrollo Rural;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XIV. Titular de la Secretaría de Medio Ambiente;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XV. Titular de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XVI. Titular de la Secretaría de Fiscalización y Rendición de Cuentas;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XVII. Titular de la Secretaría de Cultura;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XVIII. Titular de la Secretaría del Trabajo;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XIX. Titular de la Secretaría de Vivienda y Ordenamiento Territorial; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XX. Titular de la Secretaría de Turismo y Desarrollo de Pueblos Mágicos.
 
 ###### Artículo 31.
 
@@ -721,15 +839,15 @@ II. Desarrollo de acciones para fomentar la integración de políticas públicas
 
 III. Impulsar liderazgos igualitarios; y
 
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
 
-IV. Instituir medidas que fortalezcan el acceso de las mujeres al empleo y a la aplicación efectiva del principio de igualdad de trato y de no discriminación respecto de las condiciones de trabajo entre mujeres y hombres.
+IV. Instituir medidas que fortalezcan el acceso de las mujeres al empleo y a la aplicación efectiva del principio de igualdad de trato y de no discriminación respecto de las condiciones de trabajo entre mujeres y hombres, así como el derecho fundamental a la conciliación de la vida laboral, familiar y personal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2020)</small>
 
 ###### Artículo 41.
 
-Para los efectos de lo previsto en el artículo anterior, las entidades públicas, el sector privado y social en sus diversos ámbitos de competencia desarrollarán las siguientes acciones para la igualdad en la vida económica:
+Acciones para la igualdad en la vida económica.
 
 Para los efectos de lo previsto en el artículo anterior, las entidades públicas desarrollarán las siguientes acciones para la igualdad en la vida económica:
 
@@ -767,21 +885,37 @@ XI. Diseñar, en el ámbito de su competencia, políticas y programas de desarro
 
 XII. Garantizar el derecho a la denuncia por violación a la presente ley en el ámbito laboral y económico;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
 
-XIII. Difundir, previo consentimiento de las personas físicas o morales, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres; y
+XIII. Difundir, previo consentimiento de las personas físicas o morales, los planes que apliquen estas en materia de igualdad entre mujeres y hombres;
 
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 10 DE JULIO DE 2020)</small>
 
 XIV. Establecer estímulos y certificados de igualdad, los cuales se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2020)</small>
+
 a) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2020)</small>
 
 b) Que en la integración de la plantilla laboral, que ésta se componga de al menos el cuarenta por ciento de personas de un mismo sexo, y que el diez por ciento del total de la plantilla corresponda a mujeres que ocupen puestos directivos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JULIO DE 2020)</small>
+
 c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
 
-d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+
+d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XV. Establecer medidas para asegurar la corresponsabilidad en el trabajo y en la vida familiar y personal de las mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XVI. Fomentar el acceso al trabajo de las madres jefas de familia.
 
 ### Capítulo cuarto. De la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres
 
@@ -935,7 +1069,33 @@ IV. Promover la utilización de un lenguaje con perspectiva de género en la tot
 
 V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
 
-### Capítulo único. Autoridad competente y acciones en materia de observancia
+### Capítulo sexto bis. De la igualdad en el acceso a la justicia y a la seguridad pública
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+Artículo 50 bis. Igualdad en el Acceso a la Justicia.
+
+Serán objetivos de la política estatal de Igualdad en materia de acceso a la justicia y seguridad pública:
+
+I. Diseñar los lineamientos que garanticen desde un enfoque diferencial, especializado, transformador, de igualdad y no discriminación el acceso a la justicia;
+
+II. Promover el conocimiento y aplicación de la legislación en materia de igualdad y violencia de género; e
+
+III. Impulsar las reformas legislativas y el diseño de políticas públicas que favorezcan la igualdad; (sic)
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+Artículo 50 ter. Igualdad en las Instituciones de Justicia.
+
+Para los efectos del artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Asegurar que los operadores del sistema de procuración y administración de justicia en el Estado, cuenten con formación, capacitación y sensibilización en perspectiva de género y enfoque de derechos humanos;
+
+II. Garantizar el respeto de los derechos humanos de las partes; y
+
+III. Favorecer la instalación de sistemas de información con indicadores desagregados por sexo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2020)</small>
 
 ###### Artículo 48.
 
@@ -957,13 +1117,53 @@ Alcance de los acuerdos en materia de igualdad.
 
 Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo y sus dependencias con el sector público o privado, podrán versar sobre todos los aspectos considerados en los instrumentos de política sobre igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta ley.
 
-### Capítulo primero. Procedimiento para la igualdad
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2020)</small>
 
-### Capítulo segundo. Trámite del procedimiento
+### Capítulo sexto ter. Igualdad entre mujeres y hombres en los pueblos y comunidades indígenas y rurales
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+Artículo 50 quáter. Política de Igualdad de Pueblos y Comunidades Indígenas.
+
+Serán objetivos de la Política de Igualdad en materia de Pueblos y Comunidades Indígenas:
+
+I. Garantizar los derechos de las mujeres indígenas para garantizar su participación activa y directa en la toma de decisiones relacionadas con la vida comunitaria;
+
+II. Proteger a las mujeres titulares de los derechos sobre tenencia de la tierra que sean mayores de 60 años, se encuentren en situación de embarazo o lactantes, tengan alguna discapacidad o incapacidad médica, para que no sean obligadas a realizar faenas en el campo, ni trabajos que excedan su capacidad física o pongan en riesgo su salud e integridad;
+
+III. Eliminar cualquier práctica discriminatoria en contra de las mujeres en los pueblos y comunidades indígenas que obstaculice la igualdad en el ejercicio de sus derechos y obligaciones para elegir o ser elegida como autoridad o representante, de acuerdo a sus propias formas de gobierno; y
+
+IV. Garantizar el acceso a bienes y servicios en igualdad de oportunidades.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+Artículo 50 quintus. Acciones para promover la igualdad en los pueblos y comunidades indígenas.
+
+Para los efectos de lo previsto en el artículo anterior, se promoverán las siguientes acciones:
+
+I. Asegurar que las personas que integran los pueblos y comunidades indígenas gocen en igualdad, los derechos y oportunidades que la legislación les otorga;
+
+II. Establecer acciones para transversalizar la perspectiva de género en los pueblos y comunidades indígenas, con acciones específicas que sean medibles y evaluables;
+
+III. Vigilar que se garantice la participación e integración de mujeres y hombres en condiciones de igualdad en la toma de decisiones en el ámbito comunitario, de tal forma que contribuyan a lograr su realización y superación, así como el reconocimiento y respeto a su dignidad humana;
+
+IV. Establecer sinergias y estrategias de sororidad entre los grupos feministas y de mujeres organizadas;
+
+V. Establecer metodologías y formas de trabajo participativas que promuevan la igualdad entre mujeres y hombres;
+
+VI. Promover políticas dirigidas a eliminar todas las formas de discriminación contra las mujeres para acceso, tenencia y herencia de la tierra;
+
+VII. Difundir información en medios de comunicación escritos, electrónicos, radio y televisión sobre igualdad de género en los pueblos y comunidades indígenas;
+
+VIII. Desarrollar políticas, planes y programas para la prevención, atención y eliminación de la violencia en todas sus formas y en todos sus espacios, ejercida contra las mujeres indígenas; y
+
+IX. Garantizar el principio de igualdad sustantiva entre mujeres y hombres con relación a los derechos reales de propiedad, así como de uso y disfrute de tierras y del derecho fundamental a la no discriminación en materia agraria.
+
+### Capítulo único. Autoridad competente y acciones en materia de observancia
 
 ## Título V. De la observancia en materia de igualdad entre mujeres y hombres
 
-### Capítulo tercero. De las infracciones y sanciones
+### Capítulo primero. Procedimiento para la igualdad
 
 ###### Artículo 51.
 
@@ -997,7 +1197,7 @@ V. Las demás que sean necesarias para cumplir los objetivos de esta ley.
 
 ## Título VI. Del procedimiento para la igualdad por violaciones a la ley
 
-### Capítulo cuarto. Recurso de inconformidad
+### Capítulo segundo. Trámite del procedimiento
 
 ###### Artículo 54.
 
@@ -1008,6 +1208,8 @@ El procedimiento para la igualdad. cuyo fin será establecer prácticas de igual
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 Conocerá y resolverá del procedimiento para la igualdad, el Instituto Coahuilense de las Mujeres o la persona en quien ella delegue dicha atribución.
+
+### Capítulo tercero. De las infracciones y sanciones
 
 ###### Artículo 55.
 
@@ -1056,6 +1258,8 @@ VI. El monto de la multa que en su caso corresponda;
 VII. La obligación de correr traslado de copia autorizada del expediente a la Secretaría de Fiscalización y Rendición de Cuentas, para la sustanciación, en caso de resultar procedente, del procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza; y,
 
 VIII. El nombre y cargo del servidor público que emita la resolución.
+
+### Capítulo cuarto. Recurso de inconformidad
 
 ###### Artículo 58.
 
@@ -1346,3 +1550,11 @@ P.O. 26 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 610.- SE REFORMA EL CONTENIDO DE LA FRACCIÓN VI, DEL ARTÍCULO 20; Y SE MODIFICA TAMBIÉN EL CONTENIDO DEL PRIMER PÁRRAFO DEL ARTÍCULO 41 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 647.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
