@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-presupuesto-de-egresos-del-estado-de-4699
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-02"
-last_updated: "2020-03-27"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 2 de julio de 1975.
 
@@ -345,9 +345,9 @@ La persona Titular del Poder Ejecutivo deberá presentar a la consideración de 
 
 Una vez que la Legislatura del Estado haya aprobado la Ley de Ingresos, previa la discusión de la iniciativa correspondiente, presentada por el Poder Ejecutivo de conformidad con la Constitución Política Local, se procederá al examen y estudio del proyecto de Presupuesto de Egresos, por conducto de la Comisión respectiva.
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
 
-En el caso de no aprobarse alguna de las leyes de ingresos, continuarán en vigor las del año inmediato anterior del municipio o municipios de que se trate, con las actualizaciones que sean pertinentes de acuerdo al índice nacional de precios al consumidor.
+En el caso de no aprobación de la Ley de Ingresos o el Presupuesto de Egresos del Estado, continuarán en vigor las del año anterior con los ajustes que se deriven de las modificaciones porcentuales que en los últimos doce meses registre el índice nacional de precios al consumidor.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -832,6 +832,14 @@ SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 P.O. 27 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 582.- SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 1°; SE MODIFICA EL CONTENIDO DE LOS DOS PÁRRAFOS DE LA FRACCIÓN III DE LA PRIMERA PARTE DEL ARTÍCULO 14 DE LA LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ COMO EL CONTENIDO DE LAS FRACCIONES III Y VII Y SE AGREGA LA FRACCIÓN VIII, POSTERIORES A LA PORCIÓN NORMATIVA QUE REZA "PARA TAL EFECTO, DEBERÁN CONSIDERAR LO SIGUIENTE:" DEL MENCIONADO ARTÍCULO 14 DE LA LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 671.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 18 DE LA LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
