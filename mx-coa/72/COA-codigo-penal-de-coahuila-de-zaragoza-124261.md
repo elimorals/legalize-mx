@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2020-06-26"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -7489,6 +7489,10 @@ De cuatro a ocho años de prisión y de mil a dos mil días multa, cuando el mon
 
 De cinco a doce años de prisión y de dos mil a cuatro mil días multa, cuando el monto del peculado exceda de diez mil veces el importe del valor diario de la unidad de medida y actualización, al momento en que se cometió el delito.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+Cuando los recursos materia del peculado estuvieran destinados a fines de salud pública, programas de apoyo o inclusión social, se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
+
 ### Capítulo Noveno. Concusión
 
 Artículo 454 (Concusión)
@@ -7940,3 +7944,11 @@ P.O. 26 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 650.- SE REFORMA EL ARTÍCULO 225, SEGUNDO PÁRRAFO Y EL ARTÍCULO 229, FRACCIÓN II DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 638.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 453 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
