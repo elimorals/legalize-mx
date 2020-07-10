@@ -4,7 +4,7 @@ identifier: "COA-ley-de-rendicion-de-cuentas-y-fiscalizacion-superior-del-123469
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-22"
-last_updated: "2019-06-25"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 22 de septiembre de 2017.
 
@@ -435,7 +435,9 @@ XI. La visita domiciliaria concluirá con el levantamiento del acta final ante l
 
 XII. En el levantamiento del acta final, cualquiera de los visitadores que hayan intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma;
 
-XIII. Con posterioridad a la conclusión de la visita domiciliaria, la Auditoría Superior emitirá, en su caso, el pliego de observaciones, así como el pliego de recomendaciones correspondientes, los cuales se notificarán a la entidad visitada quien contará con el plazo señalado en esta ley para presentar los documentos, libros, registros o demás evidencia que solventen las observaciones y atiendan las recomendaciones contenidas en dichos pliegos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XIII. Con posterioridad a la conclusión de la visita domiciliaria, la Auditoría Superior emitirá, en su caso, el pliego de observaciones, así como el pliego de recomendaciones correspondientes, los cuales se notificarán a la entidad visitada, la que contará con un plazo de 40 días hábiles improrrogables para presentar los documentos, libros, registros o demás evidencia que solventen las observaciones y atiendan las recomendaciones contenidas en dichos pliegos;
 
 XIV. Si de la visita domiciliaria no se desprendieran hechos u omisiones que entrañen el incumplimiento de las disposiciones legales y administrativas aplicables, se hará constar así por los visitadores en el acta final.
 
@@ -459,7 +461,9 @@ II. En la solicitud se indicará el lugar y el plazo en el cual se deban proporc
 
 III. La documentación deberá ser proporcionada en la forma y términos en que hubiera sido requerida por la persona a la que se dirigió la solicitud o por su representante legal;
 
-IV. Una vez agotada la revisión de los documentos, datos, sistemas, libros, registros e informes requeridos, la Auditoría Superior dará por concluida la revisión de gabinete. Posteriormente, en su caso, emitirá los pliegos de observaciones y/o recomendaciones correspondientes, los cuales se notificarán al titular o representante legal de la entidad quien contará con el plazo señalado en esta ley para presentar los documentos, libros o registros que solventen las observaciones y/o atiendan las recomendaciones contenidas en dichos pliegos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+
+IV. Una vez agotada la revisión de los documentos, datos, sistemas, libros, registros e informes requeridos, la Auditoría Superior dará por concluida la revisión de gabinete. Posteriormente, en su caso, emitirá los pliegos de observaciones y/o recomendaciones correspondientes, los cuales se notificarán al titular o representante legal de la entidad, quien contará con un plazo de 40 días hábiles improrrogables, para presentar los documentos, libros o registros que solventen las observaciones y/o recomendaciones contenidas en dichos pliegos;
 
 V. Cuando no se hubieran advertido hechos u omisiones, la Auditoría Superior comunicará al titular o representante de la entidad, mediante oficio, esta circunstancia, dentro de los sesenta días hábiles siguientes a la conclusión de la revisión.
 
@@ -479,9 +483,11 @@ II. Pliegos de recomendaciones.
 
 La Auditoría Superior, con base en las disposiciones de esta ley, formulará y notificará a las entidades, dentro de los treinta días hábiles siguientes a la conclusión de la visita domiciliaria o la revisión de gabinete, en su caso, los pliegos de observaciones y los pliegos de recomendaciones derivados de las auditorías practicadas. En los pliegos de observaciones se cuantificará el importe de las observaciones detectadas que sean causa de presunta responsabilidad.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+
 ###### Artículo 40.
 
-Las entidades, dentro de un plazo improrrogable de 15 días hábiles deberán solventar los pliegos de observaciones ante la Auditoría Superior. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado o la documentación, argumentos o demás evidencia presentados no sean suficientes para solventar las observaciones, la Auditoría Superior procederá en los términos de lo dispuesto por el artículo 69 de esta ley.
+Las entidades, dentro de un plazo improrrogable de 40 días hábiles deberán solventar los pliegos de observaciones ante la Auditoría Superior. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado o la documentación, argumentos o demás evidencias presentadas no sean suficientes para solventar las observaciones, la Auditoría Superior procederá en los términos de lo dispuesto por el artículo 69 de esta ley.
 
 ###### Artículo 41.
 
@@ -489,7 +495,9 @@ Con base en la revisión a la información y/o documentación proporcionada por 
 
 ###### Artículo 42.
 
-Las entidades, dentro de un plazo improrrogable de 15 días hábiles deberán atender los pliegos de recomendaciones ante la Auditoría Superior.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2020)</small>
+
+Las entidades, dentro de un plazo improrrogable de 40 días hábiles deberán atender los pliegos de recomendaciones ante la Auditoría Superior.
 
 La Auditoría Superior deberá pronunciarse en un plazo no mayor de 60 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas; en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
 
@@ -1430,3 +1438,15 @@ P.O. 25 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 675.- SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 35, LA FRACCIÓN IV DEL ARTÍCULO 37, EL PRIMER PÁRRAFO DEL ARTÍCULO 40 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 42, DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- A partir del tercer día posterior al de la entrada en vigor del presente decreto, las entidades auditadas dispondrán de veinte días hábiles para solventar las observaciones y atender las recomendaciones que tengan pendientes ante la Auditoría Superior del Estado, correspondientes a la cuenta pública de 2017.
+
+CUARTO.- A partir del día siguiente en que concluyan los veinte días hábiles a que hace referencia el Transitorio anterior, las entidades auditadas dispondrán de veinte días hábiles para solventar las observaciones y atender las recomendaciones que tengan pendientes ante la Auditoría Superior del Estado, correspondientes a la cuenta pública de 2018.
