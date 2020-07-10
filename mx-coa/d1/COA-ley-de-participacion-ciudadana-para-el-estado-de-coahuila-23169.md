@@ -4,7 +4,7 @@ identifier: "COA-ley-de-participacion-ciudadana-para-el-estado-de-coahuila-23169
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2020-06-26"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 16 de noviembre de 2001.
 
@@ -505,17 +505,21 @@ LOS REQUISITOS DE LA INICIATIVA POPULAR. Toda iniciativa popular que se tramite 
 
 I. Presentarse por escrito.
 
-II. Dirigirse a la autoridad competente para conocer de la iniciativa.
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
 
-III. Presentarse con exposición de motivos y con proyecto de articulado.
+II. Procurar acompañar a su escrito la iniciativa en versión electrónica, en un procesador de texto, en memoria USB o CD.
+
+III. Dirigirse a la autoridad competente para conocer de la iniciativa.
+
+IV. Presentarse con exposición de motivos y con proyecto de articulado.
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-IV. Señalar un domicilio para oír y recibir toda clase de documentos y/o notificaciones, en el lugar donde resida la autoridad competente para conocer de la iniciativa.
+V. Señalar un domicilio para oír y recibir toda clase de documentos y/o notificaciones, en el lugar donde resida la autoridad competente para conocer de la iniciativa.
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-V. Nombre y firma de quien la presenta.
+VI. Nombre y firma de quien la presenta.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2008)</small>
 
@@ -525,7 +529,9 @@ El solicitante podrá designar un representante para oír y recibir notificacion
 
 EL TRÁMITE PARA DECIDIR LA PROCEDENCIA DE LA INICIATIVA POPULAR EN MATERIA LEGISLATIVA. Toda iniciativa popular en materia legislativa que se presente ante el Poder Legislativo del Estado, se sujetará al trámite legislativo siguiente:
 
-I. El Congreso del Estado o, en su caso, la Diputación Permanente turnará la iniciativa a una comisión que se integrará con siete diputados.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+
+I. El Congreso del Estado o, en su caso, la Diputación Permanente turnará la iniciativa a la Comisión de Gobernación, Puntos Constitucionales y Justicia.
 
 El funcionamiento de la comisión se regirá por la Ley Orgánica del Congreso del Estado.
 
@@ -1742,3 +1748,9 @@ P.O. 26 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 632.- SE REFORMA EL NUMERAL 1. DE LA FRACCIÓN II DEL ARTÍCULO 43 DE LA LEY DE PARTICIPACIÓN CIUDADANA DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 637.- QUE ADICIONA LA FRACCIÓN II, RECORRIÉNDOSE LAS ULTERIORES AL ARTÍCULO 42, Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 43, DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE ADICIONA UNA NUEVA FRACCIÓN II AL ARTÍCULO 90 DE LA LEY ORGÁNICA DEL CONGRESO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, RECORRIÉNDOSE LAS FRACCIONES SUBSECUENTES DE DICHO ARTÍCULO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
