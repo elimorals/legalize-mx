@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2020-06-22"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1507,9 +1507,9 @@ VI. El cuerpo de la víctima sea expuesto o arrojado en un lugar público;
 
 VII. La víctima haya sido incomunicada.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
 
-A quien cometa el delito de feminicidio se le impondrá una sanción de veinte a cincuenta años de prisión, además de una multa de 200 a 500 el valor diario de la Unidad de Medida y Actualización vigente.
+A quien cometa el delito de feminicidio se le impondrá una pena de prisión de treinta y cinco a sesenta años de prisión, y una multa de doscientos a dos mil veces el valor diario de la Unidad de Medida y Actualización Vigente.
 
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
@@ -2043,11 +2043,25 @@ III.- Al que asuma, suplante o se apropie o utilice a través del internet, cual
 
 ### CAPÍTULO TERCERO. DELITOS CONTRA LA INTIMIDAD Y LA IMAGEN
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
 
-Artículo 175 SEXTIES.- A quien teniendo relación de parentesco por consanguinidad, afinidad o civil, con la víctima u ofendido, o bien que se encuentra bajo la guarda o custodia, se aproveche de la confianza en el depositada, difunda, revele, transmita, reproduzca imágenes o audiovisuales, con contenido pornográfico sin su consentimiento, se le impondrá pena de prisión de seis meses a tres años y de doscientos a quinientos días de multa.
+Artículo 175 SEXTIES.- A quién por cualquier medio, divulgue, comparta, distribuya, compile, comercialice, publique imágenes, audios o videos de una persona desnuda, parcial o totalmente, de contenido íntimo, erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima, se le impondrá pena de prisión de uno a seis años y multa de quinientos a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-Cuando exista animo lucrativo en la revelación del contenido a que se refiere este artículo, la pena de prisión se aumentará hasta en una mitad adicional. El presente delito es de querella.
+La misma pena se aplicará a quien amenace con la publicación o se condicione el bloqueo de la difusión del contenido o pretenda obtener un beneficio económico con la publicación o difusión del material.
+
+Las mismas penas se aumentarán hasta en una mitad, cuando concurran alguna de las siguientes circunstancias:
+
+I. El delito sea cometido por el cónyuge o por persona que esté o haya estado unida a la víctima por alguna relación de afectividad, aún sin convivencia.
+
+II. El sujeto activo mantenga una relación laboral, social o política con la víctima.
+
+III. El contenido íntimo, sexual o erótico publicado se haya obtenido ejerciendo violencia contra la víctima.
+
+IV. El contenido íntimo, sexual o erótico se haya obtenido, aprovechándose de la situación de vulnerabilidad económica, psicológica o social de una persona.
+
+Los delitos señalados en el presente artículo se perseguirán por querella.
+
+Para los efectos de las disposiciones anteriores, el Juez ordenará el retiro inmediato de la publicación a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado o compilado el contenido íntimo no autorizado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -6087,11 +6101,11 @@ P.O. 22 DE JUNIO DE 2020.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 529 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 10 DE JULIO DE 2020.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 84 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 129 Y 175 SEXTIES DEL CÓDIGO PENAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
-P.O. 22 DE AGOSTO DE 2023.
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 574 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO Y DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
 
