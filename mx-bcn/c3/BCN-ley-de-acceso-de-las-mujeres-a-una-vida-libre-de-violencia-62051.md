@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2019-06-14"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -151,13 +151,21 @@ IV. Violencia Económica.- Es toda acción u omisión del Agresor que afecta la 
 
 V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física, incluyéndose la exhibición del cuerpo de la mujer en imágenes privadas o comerciales que inciten a realizar actividades de índole sexual. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
 
-VI. Violencia Obstétrica.- Toda conducta, acción u omisión que ejerza el personal de salud, de manera directa o indirecta, y que afecte a las mujeres durante los procesos de embarazo, parto o puerperio, mediante un trato deshumanizado, omisión de atención oportuna y eficaz, prácticas sin consentimiento como esterilización o realizar cesárea sin motivo, y
+VI. Violencia Obstétrica.- Toda conducta, acción u omisión que ejerza el personal de salud, de manera directa o indirecta, y que afecte a las mujeres durante los procesos de embarazo, parto o puerperio, mediante un trato deshumanizado, omisión de atención oportuna y eficaz, prácticas sin consentimiento como esterilización o realizar cesárea sin motivo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2020)</small>
 
-VII. Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+VII. Violencia Digital.- Es cualquier acto de acoso, hostigamiento, amenazas, vulneración de datos e información privada, divulgación de información, mensaje de odio, difusión de contenido sexual sin consentimiento expreso de la afectada, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida (sic) través de las tecnologías de información y comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, o cualquier otro espacio digital, que atente, dañe o afecte la integridad, intimidad, libertad, vida privada, o los derechos humanos de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2020)</small>
+
+VIII. Violencia Mediática.- Es toda acción tendiente a publicar o difundir cualquier tipo de mensaje o imagen a través de cualquier medio masivo de Telecomunicación, que estereotipe, insulte, denigre, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, y
+
+> <small>(REFORMADA Y REUBICADA [ANTES FRACCIÓN VII], P.O. 10 DE JULIO DE 2020)</small>
+
+IX. Cualquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -1042,3 +1050,9 @@ P.O. 14 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 340 MEDIANTE EL CUAL SE APRUEBA (SIC) DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES EN (SIC) UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 84 MEDIANTE EL CUAL "SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
