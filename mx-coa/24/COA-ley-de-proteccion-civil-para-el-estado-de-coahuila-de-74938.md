@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2020-05-12"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -274,6 +274,10 @@ XXXVI. Identificación de riesgos. Reconocer y valorar las pérdidas o daños pr
 > <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 XXXVII. Instrumentos de administración y transferencia de riesgos. Son aquellos programas o mecanismos financieros que permiten a las entidades públicas de los diversos órdenes de gobierno, compartir o cubrir sus riesgos catastróficos, transfiriendo el costo total o parcial a instituciones financieras nacionales o internacionales;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XXXVII BIS. Kermés. Es una fiesta popular que habitualmente se desarrolla en escuelas y templos o edificios destinados al culto, en el que incluyen puestos de comida y bebida, sorteos o rifas, presentaciones artísticas, juegos de destreza y juegos mecánicos, cuyo objetivo es la recaudación de fondos a favor de distintas causas benéficas.
 
 > <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -645,9 +649,13 @@ XXXV. Autorizar el inicio y/o reinicio de operaciones de establecimientos, ya se
 
 XXXVI. Verificar que las personas físicas o morales, cuya actividad sea la fabricación y/o comercio y/o transportación y/o almacenamiento de artilugios de pirotecnia cuenten con los permisos y autorizaciones establecidos en las leyes y reglamentos, así como con las medidas de seguridad y de protección civil necesarias para la realización de dichas actividades; y en su caso, aplicar las medidas preventivas y/o sanciones, que se consideren adecuadas; y
 
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XXXVII. Emitir protocolos especiales de actuación en materia de prevención y atención de siniestros, ocasionados por la instalación y/o funcionamiento de juegos mecánicos dentro de una kermés, independientemente que dichas instalaciones cuenten con el dictamen de seguridad y operación de otro giro, y en su caso, aplicar las medidas y/o sanciones, que considere adecuadas; y
+
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2017)</small>
 
-XXXVII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
+XXXVIII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 13.
 
@@ -903,7 +911,13 @@ XIV. Dar aviso a la autoridad en caso de realizar un cambio de actividad o giro,
 
 XV. Dar aviso a la autoridad en caso de realizar un cambio de domicilio, nombre o razón social, y presentar el programa de protección civil correspondiente al nuevo domicilio, nombre o razón social; y
 
-XVI. Las demás que determinen la presente ley, las autoridades competentes y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XVI. Cuando se trate de una kermés, deberán presentar previo a su realización, el protocolo especial de actuación en materia de prevención y atención de siniestros, ocasionados por la instalación y/o funcionamiento de juegos mecánicos, ante las autoridades de protección civil que corresponda, para su revisión y en su caso aprobación, conforme a las atribuciones contempladas en los artículos 12 y 13 de esta Ley. El contenido del protocolo estará previsto en las disposiciones reglamentarias que para tal efecto se emitan.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XVII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2017)</small>
 
@@ -1928,3 +1942,11 @@ P.O. 12 DE MAYO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado; y
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 640.- SE ADICIONA LA FRACCIÓN XXXVII BIS AL ARTÍCULO 5; SE ADICIONA LA FRACCIÓN XXXVII RECORRIÉNDOSE LA ULTERIOR DEL ARTÍCULO 12 Y SE ADICIONA LA FRACCIÓN XVI RECORRIÉNDOSE LA ULTERIOR DEL ARTÍCULO 26 DE LA LEY DE PROTECCIÓN CIVIL DE ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría de Gobierno a través de la Subsecretaría de Protección Civil en el Estado deberá emitir dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto, el protocolo especial de actuación en materia de prevención y atención de siniestros, ocasionados por la instalación y/o funcionamiento de juegos mecánicos.
