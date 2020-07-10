@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2020-02-19"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2135,6 +2135,10 @@ Si estas conductas son cometidas por un servidor público en ejercicio de su fun
 
 Igual pena se impondrá al servidor público que incurra en estas conductas negando o retrasando a una persona un trámite o servicio al que tenga derecho.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+Las penas se aumentarán al doble de las previstas cuando las conductas a que se refiere este artículo sean cometidas en contra de médicos, cirujanos, personal de enfermería o cualquier persona que realice actividades de atención médica, en ejercicio de sus funciones o con motivo de ellas, durante el período que comprenda una emergencia sanitaria. Para efectos de lo previsto en éste párrafo, el periodo que comprenda una emergencia sanitaria será la que se establezca en el acuerdo que emitan las autoridades sanitarias correspondientes en que dicha circunstancia así se declare, y de no precisarse plazo o fecha, lo será a partir de aquella en que el acuerdo de declaración se emita y hasta la fecha en que se declare su conclusión.
+
 ### CAPITULO V. DELITO INFORMATICO
 
 ###### ARTICULO 190.
@@ -3709,6 +3713,10 @@ Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante
 
 Al que cometa un delito en contra de un servidor público o agente de la autoridad en el acto de ejercer sus funciones o con motivo de ellas, se le aplicará prisión de tres meses a tres años, además de la que le corresponda por el delito cometido.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+Se aplicará el doble de la pena prevista en el párrafo anterior, cuando el delito se cometa en contra de médicos, cirujanos, personal de enfermería o cualquier persona que realice actividades de atención médica perteneciente al Sistema Estatal de Salud, durante el período que comprenda una emergencia sanitaria. Para efectos de lo previsto en éste párrafo, el periodo que comprenda una emergencia sanitaria será la que se establezca en el acuerdo que emitan las autoridades sanitarias correspondientes en que dicha circunstancia así se declare, y de no precisarse plazo o fecha, lo será a partir de aquella en que el acuerdo de declaración se emita y hasta la fecha en que se declare su conclusión.
+
 ### CAPITULO VIII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### ARTICULO 324.
@@ -4706,3 +4714,11 @@ P.O. 19 DE FEBRERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 438 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 471 QUE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 189 Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 323, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
