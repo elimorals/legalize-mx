@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2020-06-26"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -727,7 +727,9 @@ El Grupo Parlamentario se integrará con un mínimo de dos Diputados o Diputadas
 
 El partido político que cuente con tan solo una o un Diputado y los Diputados o Diputadas independientes, podrán optar por formar una Fracción Parlamentaria, la que tendrá los derechos y prerrogativas de Grupo Parlamentario. La Fracción Parlamentaria se conformará solo con un Diputado o Diputada.
 
-Para los efectos de esta ley, se consideran Diputados o Diputadas independientes aquellos que participaron en el proceso electoral como candidatos independientes o aquellos que dejen de pertenecer al partido político que los postuló y se declaren independientes, debiendo presentarse en este segundo caso la aceptación de su renuncia por el partido político que los postuló.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+
+Para los efectos de esta ley, se consideran Diputados o Diputadas independientes aquellos que participaron en el proceso electoral como candidatos independientes o que, por su decisión personal, libre, unilateral y manifiesta, dejen de pertenecer al partido político que los postuló y se declaren independientes, sin que tengan que presentar, en este segundo caso, documento alguno en donde se asiente la aceptación de su renuncia por parte del partido político donde militaron.
 
 Las Diputadas o Diputados que dejen de pertenecer al partido político por el cual fueron postulados, no podrán adscribirse a un Grupo Parlamentario ya existente y serán considerados como Diputados sin partido, teniendo la posibilidad de declararse independientes conforme a lo dispuesto en el párrafo anterior.
 
@@ -1107,51 +1109,59 @@ La Comisión de Gobernación, Puntos Constitucionales y Justicia conocerá de lo
 
 I. Reformas a la Constitución Política de los Estados Unidos Mexicanos, iniciativas de reforma a la Constitución Política del Estado, iniciativas para la expedición o reforma de códigos en materia municipal y de leyes, iniciativas en materia de acceso a la información pública, e iniciativas de decretos relacionados con las materias y aspectos que sean o se consideren de su competencia; así como de las omisiones legislativas y errores plasmados en los ordenamientos que ya han sido promulgados;
 
-II. División territorial y organización política y administrativa del Estado y de los Municipios, y la modificación de límites intermunicipales;
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2020)</small>
 
-III. Creación, fusión, supresión y cambio de denominación de Municipios;
+II. Iniciativas populares, a fin de dictaminar en torno a la procedencia de estas, en (sic) conformidad con lo dispuesto en el artículo 43 de la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza, y turnarlas, en su caso, a las comisiones competentes;
 
-IV. Suspensión y desaparición de Ayuntamientos o Concejos Municipales y suspensión o revocación del mandato de alguno o algunos de sus integrantes, así como la designación de quienes deban desempeñar los cargos vacantes;
+III. División territorial y organización política y administrativa del Estado y de los Municipios, y la modificación de límites intermunicipales;
 
-V. Designación de Concejos Municipales y de quienes deban suplir las faltas temporales o absolutas de los miembros de los Ayuntamientos o Concejos Municipales;
+IV. Creación, fusión, supresión y cambio de denominación de Municipios;
 
-VI. Licencias o renuncias del gobernador y de los integrantes de los Ayuntamientos y demás servidores públicos que señalen la Constitución Política del Estado y otros ordenamientos, cuando esto no sea competencia de otra Comisión;
+V. Suspensión y desaparición de Ayuntamientos o Concejos Municipales y suspensión o revocación del mandato de alguno o algunos de sus integrantes, así como la designación de quienes deban desempeñar los cargos vacantes;
 
-VII. Nombramiento de gobernador interino o provisional, así como nombramiento o elección de quienes deban sustituir a servidores públicos que renuncien o soliciten licencia para separarse de su cargo, en los casos que sea procedente;
+VI. Designación de Concejos Municipales y de quienes deban suplir las faltas temporales o absolutas de los miembros de los Ayuntamientos o Concejos Municipales;
 
-VIII. Nombramiento de los servidores públicos que señalen la Constitución Política del Estado y otros ordenamientos, cuando esto no sea competencia de otra Comisión;
+VII. Licencias o renuncias del gobernador y de los integrantes de los Ayuntamientos y demás servidores públicos que señalen la Constitución Política del Estado y otros ordenamientos, cuando esto no sea competencia de otra Comisión;
 
-IX. Cambio de residencia de los Poderes del Estado o del Recinto Oficial del Congreso;
+VIII. Nombramiento de gobernador interino o provisional, así como nombramiento o elección de quienes deban sustituir a servidores públicos que renuncien o soliciten licencia para separarse de su cargo, en los casos que sea procedente;
 
-X. Otorgamiento de facultades extraordinarias al Ejecutivo;
+IX. Nombramiento de los servidores públicos que señalen la Constitución Política del Estado y otros ordenamientos, cuando esto no sea competencia de otra Comisión;
 
-XI. Otorgamiento de facultades al Ejecutivo, para celebrar convenios sobre límites territoriales con las Entidades Federativas vecinas y para la ratificación de estos convenios.
+X. Cambio de residencia de los Poderes del Estado o del Recinto Oficial del Congreso;
 
-XII. Ratificación o negación para que se erijan nuevos estados, dentro de los límites de los existentes;
+XI. Otorgamiento de facultades extraordinarias al Ejecutivo;
 
-XIII. Adaptación y readaptación social
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
 
-XIV. Protección civil;
+XII. Otorgamiento de facultades al Ejecutivo, para celebrar convenios sobre límites territoriales con las Entidades Federativas vecinas y para la ratificación de estos convenios;
 
-XV. Legislación civil y penal;
+XIII. Ratificación o negación para que se erijan nuevos estados, dentro de los límites de los existentes;
 
-XVI. Leyes orgánicas del Poder Judicial y del Ministerio Público;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
 
-XVII. Nombramiento de Magistrados del Tribunal Superior de Justicia, del Tribunal Administrativo, del Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del Estado y los Municipios así como del Presidente y Consejeros de la Comisión de los Derechos Humanos;
+XIV. Adaptación y readaptación social;
 
-XVIII. Renuncias y licencias de Magistrados del Tribunal Superior de Justicia, del Tribunal Administrativo, del Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del Estado y los Municipios así como del Presidente y Consejeros de la Comisión de los Derechos Humanos;
+XV. Protección civil;
 
-XIX. Nombramiento o elección de quienes deban sustituir a los servidores públicos mencionados en la fracción anterior;
+XVI. Legislación civil y penal;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+XVII. Leyes orgánicas del Poder Judicial y del Ministerio Público;
 
-XX. Nombramiento del Fiscal General del Estado,
+XVIII. Nombramiento de Magistrados del Tribunal Superior de Justicia, del Tribunal Administrativo, del Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del Estado y los Municipios así como del Presidente y Consejeros de la Comisión de los Derechos Humanos;
 
-XXI. El otorgamiento de amnistías;
+XIX. Renuncias y licencias de Magistrados del Tribunal Superior de Justicia, del Tribunal Administrativo, del Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del Estado y los Municipios así como del Presidente y Consejeros de la Comisión de los Derechos Humanos;
 
-XXII. Convenios de asociación entre Municipios del Estado y de otras Entidades Federativas; y
+XX. Nombramiento o elección de quienes deban sustituir a los servidores públicos mencionados en la fracción anterior;
 
-XXIII. Otros asuntos que sean o se consideren de la competencia de esta comisión.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+
+XXI. Nombramiento del Fiscal General del Estado;
+
+XXII. El otorgamiento de amnistías;
+
+XXIII. Convenios de asociación entre Municipios del Estado y de otras Entidades Federativas; y
+
+XXIV. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
 ###### ARTÍCULO 91.
 
@@ -1654,6 +1664,10 @@ Las reuniones de las comisiones serán públicas. Podrán sesionar de manera pri
 Cuando la materia de un asunto así lo requiera, éste podrá turnarse hasta a dos comisiones, para que unidas lo estudien y resuelvan, salvo que, por excepción, el Pleno del Congreso o la Diputación Permanente, en su caso, acuerde que se turne a más de dos comisiones.
 
 En estos casos, la comisión que se mencione en primer término será la encargada de convocar y coordinar los trabajos correspondientes; y para el estudio, discusión y formulación del dictamen, se seguirá el procedimiento establecido en esta ley para el trabajo en comisiones. Para la aprobación del dictamen correspondiente, se hará una votación general, siguiendo los mismos lineamientos que se dan en esta ley, para las votaciones en las comisiones.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+ARTÍCULO 120 BIS. En la medida de las posibilidades, y cuando así lo apruebe la mayoría de sus integrantes, las reuniones de las comisiones que no tengan el carácter de privadas en los términos de la presente Ley, se transmitirán en vivo a través del uso de la tecnología informática, en el portal de internet y/o plataformas oficiales, mismas que deberán ser videograbadas para que estén disponibles de forma pública.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2020)</small>
 
@@ -2199,9 +2213,11 @@ Las iniciativas de las y los diputados se publicarán en la Gaceta Parlamentaria
 
 Sólo a petición de la o el promovente y si la mayoría de las y los diputados presentes en la sesión lo aprueban, se dará lectura íntegra a la iniciativa, disponiendo entonces el tiempo que sea necesario.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 169.
 
-En caso de que se de lectura a una Iniciativa conforme al artículo anterior, podrán hablar hasta tres oradores en pro y otros tres en contra, para hacer comentarios, prefiriéndose al autor o autores del proyecto, exceptuándose de lo anterior, las iniciativas relativas a reformas constitucionales. Enseguida se turnará la iniciativa a la comisión que corresponda.
+En caso de que se dé lectura a una Iniciativa conforme al artículo anterior, enseguida se turnara la iniciativa a la comisión que corresponda.
 
 ###### ARTÍCULO 170.
 
@@ -3490,3 +3506,47 @@ PRIMERO.- Las presentes reformas entrarán en vigor a partir de la expedición d
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 637.- QUE ADICIONA LA FRACCIÓN II, RECORRIÉNDOSE LAS ULTERIORES AL ARTÍCULO 42, Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 43, DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE ADICIONA UNA NUEVA FRACCIÓN II AL ARTÍCULO 90 DE LA LEY ORGÁNICA DEL CONGRESO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, RECORRIÉNDOSE LAS FRACCIONES SUBSECUENTES DE DICHO ARTÍCULO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 672.- SE REFORMA EL ARTÍCULO 169, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor a partir de la expedición del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 673.- SE ADICIONA EL ARTÍCULO 120 BIS, A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir de la expedición del presente Decreto.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 674.- SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 55, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor a partir de la expedición del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
