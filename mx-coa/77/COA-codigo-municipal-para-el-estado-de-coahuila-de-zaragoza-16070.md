@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2020-06-26"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1311,9 +1311,9 @@ VII. Las demás que determinen las leyes y reglamentos aplicables en materia de 
 
 El Ayuntamiento, a propuesta del presidente municipal o de sus regidores, aprobará la integración de las comisiones que estime necesarias para su eficaz organización administrativa interna y para el mejor desempeño de las facultades y competencias que tiene atribuidas. Las comisiones deberán estudiar los asuntos del ramo administrativo correspondiente, o los asuntos que se les encomiende y, para tal efecto, los analizarán y emitirán un dictamen que someterán a la consideración y aprobación, en su caso, del Ayuntamiento. A cada comisión se le asignará en el presupuesto de egresos una cantidad mensual por concepto de gastos, cuyo monto autorizará el propio Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
 
-Las comisiones a las que refieren los artículos 112, 113, 113 BIS, 113 BIS-1 y 113 BIS-2, serán de forzosa conformación por los ayuntamientos, justificándose mediante la importancia que dichas ramas requieren. De igual manera, será libertad de cada ayuntamiento la integración de comisiones bajo libre criterio.
+Las comisiones a las que refieren los artículos 112, 113, 113 BIS, 113 BIS-1, 113 BIS-2, 113 BIS-4 y 113 BIS-5 serán de forzosa conformación por los ayuntamientos, justificándose mediante la importancia que dichas ramas requieren. De igual manera, será libertad de cada ayuntamiento la integración de comisiones bajo libre criterio.
 
 ###### ARTÍCULO 108.
 
@@ -1329,11 +1329,11 @@ Las sesiones de las comisiones podrán ser públicas, cuando la divulgación de 
 
 Sólo por causas graves calificadas por las dos terceras partes de los miembros del Ayuntamiento, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 111.
 
-Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; la de transparencia y acceso a la información, la de reglamentación, la de Igualdad de Género y la de Ciencia, Tecnología e Innovación.
+Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; la de transparencia y acceso a la información, la de reglamentación, la de Igualdad de Género; la de Ciencia, Tecnología e Innovación; la de Salud Pública y la de Seguridad Pública y Tránsito.
 
 Cada una de estas comisiones, estarán integradas cuando menos por un regidor de la primera minoría.
 
@@ -1437,6 +1437,38 @@ V. Proponer áreas de investigación tecnológica e innovación a fin de que las
 
 VI. Auxiliarse en la Ley de Ciencia, Desarrollo Tecnológico e Innovación para el Estado de Coahuila de Zaragoza en lo relacionado al ámbito municipal.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+ARTÍCULO 113 BIS-4. La Comisión de Salud Pública tendrá las siguientes facultades y atribuciones:
+
+I. Colaborar con las autoridades del sector salud a nivel federal y estatal, de manera conjunta con la unidad administrativa municipal de salud, con el objetivo de desarrollar las políticas públicas en materia de salud;
+
+II. Contribuir al mejor desempeño de las funciones de la unidad administrativa municipal del sector salud, proponiendo, analizando y dictaminando el plan de acción propuesto para mejorar la salud pública en el municipio;
+
+III. Plantear estrategias para impulsar las campañas para la prevención y tratamiento de las adicciones;
+
+IV. Supervisión de la prestación de los servicios médicos para los trabajadores del ayuntamiento;
+
+V. Vigilar la protección y el trato digno que deben tener en los centros antirrábicos hacía los animales, y coadyuvar en la promoción y difusión de la cultura cívica de protección, responsabilidad y trato digno a los animales, y
+
+VI. Las demás que le señale el Ayuntamiento, este código u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+ARTÍCULO 113 BIS-5. La Comisión de Seguridad Pública y Tránsito tendrá las siguientes facultades y atribuciones:
+
+I. Contribuir al mejor desempeño de las acciones que llevan a cabo las dependencias municipales con funciones de seguridad pública y tránsito;
+
+II. Elaborar propuestas de programas o planes que generen y preserven el orden público y la paz social, tomando en cuenta la opinión de la ciudadanía;
+
+III. Proponer estrategias para la máxima difusión de las campañas de prevención de delitos, así como la difusión de los operativos de tránsito y prevención de accidentes viales;
+
+IV. Emitir opinión en relación con los programas de seguridad pública y tránsito;
+
+V. Proponer acciones de prevención de la violencia con perspectiva de género para la elaboración de políticas públicas municipales,
+
+VI. Las demás que le señale el Ayuntamiento, este código u otras disposiciones aplicables.
+
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
@@ -1487,7 +1519,9 @@ I. Secretaría del Ayuntamiento.
 
 II. Tesorería Municipal.
 
-III. Dirección de Policía Preventiva Municipal.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2020)</small>
+
+III. Dirección de Policía Preventiva Municipal. Cuando así lo determine el Ayuntamiento, la función de seguridad pública podrá proveerse a través de órganos de naturaleza jurídica distinta a la de dependencia centralizada; en aquellos municipios cuya capacidad presupuestaria y operativa lo permita conforme a lo previsto en este Código y en las demás disposiciones aplicables.
 
 IV. Órgano de Control Interno Municipal.
 
@@ -1601,13 +1635,17 @@ XV. Dar pronto y exacto cumplimiento a los acuerdos, órdenes y disposiciones de
 
 XVI. Las demás que le señalen las leyes y reglamentos aplicables en el Municipio.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 130.
 
-El titular de la Dirección de Policía Preventiva Municipal, deberá ser persona de reconocida honorabilidad, no haber sido condenado por delito doloso o cuya sanción hubiere sido pena privativa de la libertad, además de las señaladas en este y otros ordenamientos legales aplicables.
+El titular de la Dirección de Policía Preventiva Municipal u órgano equivalente, deberá ser persona de reconocida honorabilidad, no haber sido condenado por delito doloso o cuya sanción hubiere sido pena privativa de la libertad, además de las señaladas en este y otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 131.
 
-El Director de la Policía Preventiva Municipal, tendrá las siguientes facultades y obligaciones:
+El Director de la Policía Preventiva Municipal u órgano equivalente, tendrá las siguientes facultades y obligaciones:
 
 I. Administrar y supervisar el estado y funcionamiento de la cárcel municipal para asuntos de competencia exclusiva del Municipio.
 
@@ -2559,13 +2597,17 @@ V. Por la existencia del estado de concurso, quiebra o suspensión de pagos del 
 
 VI. El contratista no otorgue las garantías en la forma y plazos a que esté obligado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 208.
 
-En forma similar a las obras públicas el municipio administrará sus adquisiciones públicas. Por adquisiciones públicas se entenderán, toda clase de convenios o contratos, cualquiera que sea su denominación legal, que el municipio, sus dependencias o entidades celebren para la compra de insumos, materiales, mercancías, materias primas y bienes muebles que tengan por objeto cubrir las necesidades comunes de las dependencias de la Administración Pública Municipal, así como aquellos bienes necesarios para la realización de funciones específicas.
+En forma similar a las obras públicas el municipio administrará sus adquisiciones públicas. Por adquisiciones públicas se entenderán todas las señaladas en el artículo 4 de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza, que el municipio, sus dependencias o entidades celebren para la compra de insumos, materiales, mercancías, materias primas y bienes muebles que tengan por objeto cubrir las necesidades comunes de las dependencias de la Administración Pública Municipal, así como aquellos bienes necesarios para la realización de funciones específicas.
 
 Las adquisiciones que realice el municipio o sus dependencias, deberán de sujetarse a las disposiciones legales que regulan la materia en el Estado.
 
-La Contraloría Interna Municipal, verificará que las adquisiciones públicas se realicen conforme a los ordenamientos legales estatales y municipales.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2020)</small>
+
+La Contraloría Interna Municipal, verificará que las adquisiciones públicas se realicen conforme a los ordenamientos legales estatales y municipales, dando cuenta de forma detallada al cabildo sobre estas operaciones, dentro del informe previsto en el segundo párrafo del artículo 132 de este Código.
 
 ### CAPÍTULO IV. DE LA SEGURIDAD PÚBLICA MUNICIPAL
 
@@ -2576,6 +2618,10 @@ La seguridad pública municipal consiste en las acciones para prevenir delitos y
 ###### ARTÍCULO 210.
 
 Para cumplir la función de seguridad pública municipal, en cada municipio se integrará un cuerpo denominado Policía Preventiva Municipal, que estará a cargo de un Director, designado por el Ayuntamiento, a propuesta del presidente municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+Cuando así lo determine el Ayuntamiento, la función de seguridad pública podrá proveerse a través de órganos de naturaleza jurídica distinta a la de dependencia centralizada; en aquellos municipios cuya capacidad presupuestaria y operativa lo permita conforme a lo previsto en este Código y en las demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -5014,3 +5060,21 @@ P.O. 26 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 626.- SE REFORMA EL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 34, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 37, EL PRIMER PÁRRAFO DEL ARTÍCULO 39, LAS FRACCIONES III Y VII DEL ARTÍCULO 56, Y LA FRACCIÓN II DEL ARTÍCULO 164 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 648.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 107, PRIMER PÁRRAFO DEL ARTÍCULO 111 Y SE ADICIONA LOS ARTÍCULOS 113 BIS 4 Y 113 BIS 5, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 649.- SE REFORMA EL CONTENIDO DE LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 208 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado; y
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 667.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 123, EL ARTÍCULO 130, EL PRIMERO PÁRRAFO DEL ARTÍCULO 131 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 210 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
