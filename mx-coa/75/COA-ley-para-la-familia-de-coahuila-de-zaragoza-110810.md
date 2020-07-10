@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2020-06-26"
+last_updated: "2020-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2020.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -1978,6 +1978,10 @@ El derecho de recibir alimentos no es renunciable ni puede ser objeto de transac
 ###### Artículo 279.
 
 La obligación de dar alimentos es imprescriptible. En los juicios de paternidad, la pensión alimenticia debe retrotraerse a la fecha de nacimiento de la niña o niño, si se acredita que el padre tuvo conocimiento del embarazo de la madre y se negó a reconocer a su hijo o hija. Si la madre actuó de mala fe o impidió que el padre reconociera a su hijo o hija, la pensión alimenticia de meses vencidos se pagará a partir de la presentación de la demanda correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2020)</small>
+
+En cualquiera de los casos señalados en el párrafo anterior, la pensión alimenticia que se aplique de manera retroactiva deberá fijarse en una cantidad líquida.
 
 ###### Artículo 280.
 
@@ -4632,3 +4636,9 @@ P.O. 26 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 609.- SE REFORMA EL ARTÍCULO 1, EL PÁRRAFO PRIMERO DEL ARTÍCULO 139, EL PÁRRAFO TERCERO DEL ARTÍCULO 311; Y SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 139, LA FRACCIÓN XI AL PÁRRAFO PRIMERO DEL ARTÍCULO 143, Y UN CAPÍTULO DÉCIMO TERCERO, DENOMINADO "DE LAS OBLIGACIONES DE CRIANZA", AL TÍTULO NOVENO, CON EL ARTÍCULO 598 BIS, DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 639.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 279 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
