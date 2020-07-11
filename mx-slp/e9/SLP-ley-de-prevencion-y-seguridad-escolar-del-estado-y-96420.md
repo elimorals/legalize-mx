@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-seguridad-escolar-del-estado-y-96420"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2020-04-16"
+last_updated: "2020-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 12 de octubre de 2013.
 
@@ -403,7 +403,7 @@ V. Procurar, en materia de prevención de la farmacodependencia, la coordinació
 
 VI. Ejercer las demás atribuciones que esta Ley y demás disposiciones legales aplicables le competan, de manera coordinada con las dependencias idóneas de los órdenes de gobierno estatal y municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE JULIO DE 2020)</small>
 
 ###### Artículo 16.
 
@@ -411,7 +411,9 @@ Corresponde al Director General de la Coordinación Estatal de Protección Civil
 
 I. Promover la cultura de protección civil, organizar y desarrollar acciones, observando los aspectos normativos de operación, coordinación y participación con las autoridades señaladas en esta Ley, y procurando la extensión de la educación y capacitación entre las comunidades escolares;
 
-II. Promover la inserción de los temas de la protección civil en las plantillas curriculares de educación básica, media, técnica, y superior de las instituciones educativas del Estado;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2020)</small>
+
+II. Promover la inserción de los temas de la protección civil en las plantillas curriculares de educación básica, media superior, técnica, y superior de las instituciones educativas del Estado;
 
 III. Fomentar la participación de las autoridades enunciadas en esta Ley, en acciones encaminadas a incrementar la cultura, educación y capacitación de las comunidades educativas en materia de protección civil;
 
@@ -934,5 +936,13 @@ P.O. 16 DE ABRIL DE 2020.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0662.- SE REFORMA EL ARTÍCULO 6° EN SUS FRACCIONES VIII Y XIV, DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0714.- SE REFORMA EL ARTÍCULO 16 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN II, DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
