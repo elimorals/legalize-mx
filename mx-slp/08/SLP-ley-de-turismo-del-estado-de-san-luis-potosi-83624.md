@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2019-04-15"
+last_updated: "2020-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -689,11 +689,17 @@ Los prestadores de servicios turísticos tendrán los siguientes derechos:
 
 I. Conocer los planes y programas elaborados por la Secretaría, con el propósito de incrementar y fomentar el turismo;
 
-II. Ser incluidos en los programas y acciones de promoción y difusión turística que realice la Secretaría, siempre y cuando cumplan con la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2020)</small>
 
-III. Solicitar y recibir de la Secretaría, capacitación y asesoramiento técnico destinado al mejoramiento de los servicios turísticos, de acuerdo con los planes y programas elaborados por está, y
+II. Ser incluidos en la elaboración de los programas y acciones de promoción y difusión turística que realice la Secretaría, siempre y cuando cumplan con la presente Ley y su Reglamento;
 
-IV. Los demás que se señalen por esta Ley y su reglamento.
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2020)</small>
+
+III. Ser incluidos en el diseño y ejecución de los programas y acciones de promoción y difusión turística que realicen los Ayuntamientos siempre y cuando cumplan con la presente Ley y su Reglamento;
+
+IV. Solicitar y recibir de la Secretaría, capacitación y asesoramiento técnico destinado al mejoramiento de los servicios turísticos, de acuerdo con los planes y programas elaborados por está, y
+
+V. Los demás que se señalen por esta Ley y su reglamento.
 
 ###### ARTICULO 67.
 
@@ -1196,3 +1202,11 @@ P.O. 15 DE ABRIL DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0715.- SE REFORMA EL ARTÍCULO 66 EN SU FRACCIÓN II; Y ADICIONA AL MISMO ARTÍCULO 66 UNA FRACCIÓN, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
