@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2019-09-11"
+last_updated: "2020-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -87,6 +87,10 @@ Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunida
 
 La ley protegerá la organización y desarrollo de la familia, dentro de la cual tendrá preferencia la atención del menor y del anciano.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
+
+Las niñas, los niños y adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. En todas las decisiones y actuaciones el Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los poderes del Estado y organismos autónomos generarán espacios para consultar las ideas y opiniones de niñas, niños y adolescentes cuando emprendan acciones que les involucren.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
@@ -145,31 +149,31 @@ Las sentencias y resoluciones pronunciadas por los tribunales del Estado, solame
 
 Las sentencias que pongan fin a los procedimientos orales, deberán ser explicadas en audiencia pública, previa citación a las partes.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### ARTICULO 3.
 
-Todo individuo tiene derecho a recibir educación. El Estado y los municipios impartirán educación de conformidad con los planes y programas que al efecto determine el Ejecutivo Federal en los términos de la fracción III del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
+Toda persona tiene derecho a la educación, el Estado y los municipios impartirán y garantizarán la educación básica, media superior y superior, dicha educación será obligatoria, universal, inclusiva, pública, gratuita y laica, en términos del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+La educación inicial, preescolar, primaria y secundaria, conforman la educación básica. La educación inicial es un derecho de la niñez y será responsabilidad del Estado y los municipios concientizar sobre su importancia. La educación superior será obligatoria en términos de la fracción X del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
-La educación preescolar, primaria, secundaria y media superior, conforman la educación obligatoria.
+La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los Valores y la mejora continua del proceso de enseñanza aprendizaje.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+El Estado y los municipios priorizarán el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos. En los pueblos y comunidades indígenas se impartirá educación plurilingüe e intercultural basada en el respeto, promoción y preservación del patrimonio histórico y cultural.
 
-La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos, su formación cívica y ética, y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado garantizará el acceso abierto a la información que derive de ella.
 
-Ninguna persona requerirá de título para la enseñanza en cualquier rama del saber, pero para prestar instrucción como servicio al público, deberá cumplir los requisitos que establezcan las leyes.
+Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares.
+
+La Universidad o demás instituciones de educación superior a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas, así como de realizar sus fines, determinar sus planes y programas, y administrar su patrimonio en los términos de la fracción VII del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos.
 
 Las leyes respectivas, determinarán las profesiones que requerirán de título para su ejercicio, las condiciones para obtenerlo, las instituciones que han de expedirlo y registrarlo, así como las sanciones que deban imponerse a quienes ejerzan una profesión sin cumplir los requisitos legales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE FEBRERO DE 2014)</small>
-
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La Ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE FEBRERO DE 2014)</small>
-
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
+
+Ninguna persona requerirá de título para la enseñanza en cualquier rama del saber, pero para prestar instrucción como servicio al público, deberá cumplir los requisitos que establezcan las leyes.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -1307,9 +1311,13 @@ Sin perjuicio de lo anterior el Estado y los municipios podrán contraer obligac
 
 XV.- Expedir anualmente las Leyes de Ingresos para los Municipios del Estado. Si al iniciarse el año fiscal correspondiente, el Congreso no hubiese aprobado dichas leyes, no podrá ocuparse de ninguna otra Ley, excepto en el caso en el que el Ayuntamiento respectivo no hubiere presentado su iniciativa. En tanto dichas leyes de ingresos sean expedidas, continuarán aplicándose las correspondientes al año inmediato anterior, en tal caso se estará a lo establecido por la Ley Reglamentaria;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
 
-XVI.- Autorizar al Ejecutivo del Estado para que ejerza cualquier acto de dominio sobre los bienes inmuebles de dominio privado del Estado, fijando en cada caso las condiciones a que deben sujetarse. Esta facultad la tendrá, en su caso, la Diputación Permanente;
+XVI.- Autorizar al Ejecutivo para que ejerza cualquier acto de dominio sobre los bienes inmuebles de dominio privado del Estado, fijando en cada caso las condiciones a que se deben sujetarse.
+
+Autorizar al Ejecutivo del Estado previo al procedimiento dispuesto en la ley de la materia, el otorgamiento de concesiones de inversión mixta para el diseño, construcción, conservación, operación, uso, explotación, mantenimiento o aprovechamiento de infraestructura pública.
+
+Estas facultades las tendrá en su caso, la Diputación Permanente.
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
@@ -4102,5 +4110,23 @@ Artículo segundo. El Congreso del Estado deberá realizar los ajustes normativo
 P.O. 11 DE SEPTIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 95, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 194 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 63, FRACCIÓN XVI DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 195 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO DÉCIMO PRIMERO Y SE RECORREN EN SU ORDEN LOS PÁRRAFOS SUBSECUENTES DEL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 196 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
