@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-13"
-last_updated: "2018-07-20"
+last_updated: "2020-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de mayo de 2016.
 
@@ -101,7 +101,9 @@ Políticas Públicas
 
 Los sujetos obligados deberán establecer políticas públicas que permitan a la persona conocer la información pública que generen o posean los sujetos obligados de esta Ley.
 
-Los sujetos obligados deberán salvaguardar la información pública de conformidad con lo que señale la Ley General de Transparencia y Acceso a la Información Pública, esta Ley, la Ley de Archivos Generales para el Estado y los Municipios de Guanajuato, la normatividad estatal y federal en materia de datos personales.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
+
+Los sujetos obligados deberán salvaguardar la información pública de conformidad con lo que señale la Ley General de Transparencia y Acceso a la Información Pública, esta Ley, la Ley de Archivos del Estado de Guanajuato, la normatividad estatal y federal en materia de datos personales.
 
 Los sujetos obligados fomentarán en el ámbito de sus respectivas competencias una cultura de transparencia y acceso a la información, particularmente, para que, las niñas, niños, adolescentes, adultos mayores, y en general todas (sic) personas o grupos en situación de vulnerabilidad conozcan y ejerzan su derecho al acceso a la información pública, facilitándoles en todo momento la búsqueda y acceso a la misma.
 
@@ -599,7 +601,9 @@ II. Favorecer la rendición de cuentas a la población, a fin de que pueda ser e
 
 III. Proteger los datos personales que posean;
 
-IV. Organizar, clasificar, actualizar y manejar con eficiencia los archivos y documentos, de conformidad con lo que esta Ley señale, y la Ley de Archivos Generales para del Estado y los Municipios de Guanajuato;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+
+IV. Organizar, clasificar, actualizar y manejar con eficiencia los archivos y documentos, de conformidad con lo que esta Ley señale, y la Ley de Archivos del Estado de Guanajuato;
 
 V. Publicar los acuerdos o reglamentos en materia de transparencia y acceso a la información pública, que faciliten el cumplimiento de esta Ley;
 
@@ -1097,9 +1101,11 @@ Cuando persista la negativa de colaboración, la Unidad de Transparencia lo har�
 
 Criterios de organización
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
+
 ###### Artículo 50.
 
-En materia de organización de archivos administrativos, se atenderá a los criterios de organización previstos por la Ley de Archivos Generales del Estado y los Municipios de Guanajuato, en lo que no contravenga las disposiciones de clasificación de información.
+En materia de organización de archivos administrativos, se atenderá a los criterios de organización previstos por la Ley de Archivos del Estado de Guanajuato, en lo que no contravenga las disposiciones de clasificación de información.
 
 #### Sección Sexta. Comité de Transparencia
 
@@ -2159,7 +2165,9 @@ Naturaleza del Instituto
 
 El Instituto es un organismo autónomo, especializado, independiente, imparcial y colegiado en el que prevalecerá en su conformación la equidad de género, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, en los términos de la Constitución Política para el Estado de Guanajuato.
 
-Responsable de garantizar, en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información y protección de datos personales, conforme a lo dispuesto por el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos; por el artículo 14 apartado B de la Constitución Política para el Estado de Guanajuato, la presente Ley, la Ley de Archivos Generales para el Estado y los Municipios de Guanajuato, la Ley General, la normatividad en materia de datos personales y las disposiciones legales que de ellas deriven.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
+
+Responsable de garantizar, en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información y protección de datos personales, conforme a lo dispuesto por el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos; por el artículo 14 apartado B de la Constitución Política para el Estado de Guanajuato, la presente Ley, la Ley de Archivos del Estado de Guanajuato, la Ley General, la normatividad en materia de datos personales y las disposiciones legales que de ellas deriven.
 
 El Pleno del Instituto es su órgano superior de dirección.
 
@@ -2549,7 +2557,11 @@ XIII. Representar al Instituto ante el Sistema Nacional;
 
 XIV. Recibir fondos de organismos nacionales e internacionales para el mejor cumplimiento de sus atribuciones; y
 
-XV. Las demás que le señale esta Ley, el Reglamento Interior del Instituto y otras disposiciones legales que resulten aplicables.
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2020)</small>
+
+XV. Participar y apoyar al Consejo del Estado de Guanajuato en materia de Archivos; y
+
+XVI. Las demás que le señale esta Ley, el Reglamento Interior del Instituto y otras disposiciones legales que resulten aplicables.
 
 Informe de actividades
 
@@ -3084,3 +3096,35 @@ P.O. 20 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 86 DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO Y DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 192 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE ARCHIVOS DEL ESTADO DE GUANAJUATO Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. A partir de la entrada en vigor de la presente Ley, se abroga la Ley de Archivos Generales del Estado y los Municipios de Guanajuato, publicada en el Periódico Oficial número 96, Tercera Parte, de fecha 15 de junio de 2007.
+
+Artículo Tercero. En tanto se expidan las normas archivísticas correspondientes, se continuará aplicando lo dispuesto en las disposiciones reglamentarias vigentes en la materia, en lo que no se oponga a la presente Ley.
+
+Artículo Cuarto. Los sujetos obligados deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.
+
+Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración, en el ámbito de sus atribuciones deberá realizar las previsiones y adecuaciones presupuestarias para que el Archivo General del Estado, como ente rector estatal, cuente con los recursos humanos, materiales, financieros y tecnológicos para el cumplimiento de la presente Ley.
+
+Artículo Sexto. El Consejo Estatal deberá integrarse dentro de tres meses a partir de la entrada en vigor de la presente Ley y elaborar su reglamento en los tres meses subsecuentes.
+
+Artículo Séptimo. Los sujetos obligados deberán implementar su sistema institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+Artículo Octavo. Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+Artículo Noveno. Los documentos transferidos a un archivo histórico o a los archivos generales, antes de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados, ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
+
+Aquellos sujetos obligados que cuenten con archivos históricos deberán prever en el programa anual el establecimiento de acciones tendientes a identificar, ordenar, describir y clasificar archivísticamente, los documentos que les hayan sido transferidos antes de la entrada en vigor de la Ley.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+Artículo Décimo. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Poder Ejecutivo en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Undécimo. En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
