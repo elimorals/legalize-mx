@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia-461
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-31"
-last_updated: "2017-06-29"
+last_updated: "2020-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el miércoles 31 de agosto de 2005.
 
@@ -969,17 +969,31 @@ II.- Al CONSEJO GENERAL y a los CONSEJOS MUNICIPALES, la notificación se les ha
 
 ### CAPÍTULO I. De la procedencia
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Artículo 62.
 
-El juicio para la defensa ciudadana electoral tiene por objeto la protección de los derechos políticos-electorales del ciudadano en el ESTADO, pudiendo por sí mismo y en forma individual, hacer valer presuntas violaciones a sus derechos:
+El juicio para la defensa ciudadana electoral tiene por objeto la protección de los derechos políticos-electorales de la ciudadanía en el ESTADO, pudiendo la persona por sí misma y en forma individual, hacer valer presuntas violaciones a sus derechos:
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
 
 I.- De votar y ser votado;
 
-II.- De asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
 
-III.- De afiliarse libre e individualmente a los PARTIDOS POLÍTICOS.
+II.- De asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+
+III.- De afiliarse libre e individualmente a los PARTIDOS POLÍTICOS;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2020)</small>
+
+IV.- De paridad de género; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2020)</small>
+
+V.- Cuando se considere que se actualiza algún supuesto de violencia política contra las mujeres por razón de género, en los términos establecidos en la CONSTITUCIÓN FEDERAL, LA CONSTITUCIÓN, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, el CÓDIGO, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Colima y esta Ley.
 
 ### CAPÍTULO II. De la competencia
 
@@ -1258,3 +1272,15 @@ P.O. 29 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 320 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA; A LA LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL; Y A LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 283.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA; SE REFORMA Y ADICIONA LA LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL; Y SE REFORMA Y ADICIONA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. La Fiscalía General del Estado de Colima deberá crear la base estadística local de violencia política contra las mujeres por razón de género, dentro de los 30 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO. El Consejo General del Instituto Electoral del Estado, deberá emitir los lineamientos para prevenir, atender y erradicar la violencia política contra las mujeres por razón de género, antes del inicio del periodo de precampañas del Proceso Electoral Local 2020-2021, de conformidad con la reforma aprobada al artículo 114, fracción VIII, del Código Electoral del Estado de Colima, en términos del presente Decreto.
+
+CUARTO. Los Partidos Políticos deberán crear los mecanismos internos para prevenir, sancionar y erradicar la violencia política contra las mujeres por razón de género, antes del inicio del periodo de precampañas del Proceso Electoral Local 2020-2021, de conformidad con la reforma aprobada al artículo 51, fracción I, del Código Electoral del Estado de Colima, en términos del presente Decreto.
