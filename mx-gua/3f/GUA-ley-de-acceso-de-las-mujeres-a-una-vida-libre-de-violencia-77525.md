@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2019-11-25"
+last_updated: "2020-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -127,7 +127,9 @@ VI. Violencia laboral: la negativa ilegal a contratar a la víctima o a respetar
 
 VII. Violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que les infligen maestras o maestros;
 
-VIII. Violencia obstétrica: es todo acto u omisión intencional, por parte del personal de salud, que dañe, lastime o denigre a la mujer durante el embarazo y parto, así como la negligencia en su atención médica;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+
+VIII. Violencia obstétrica: Es toda acción u omisión por parte del personal médico o administrativo perteneciente a los servicios de salud públicos y privados del Sistema Estatal de Salud, que violente los principios rectores que señala el artículo 3 de la presente ley, o bien, que dañe física o psicológicamente, lastime, discrimine o denigre a la mujer durante el embarazo, parto o puerperio; así como la negligencia médica, negación del servicio y la vulneración o limitación de los derechos humanos sexuales y reproductivos de las mujeres;
 
 IX. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres; y
 
@@ -143,7 +145,11 @@ XI. Violencia por acoso: Es la agresión reflejada en cualquier acto expresivo, 
 
 XII. Violencia Digital: acción u omisión que se produce cuando una persona provoca o realiza daños físicos o psicológicos a una mujer, utilizando las tecnologías de la información y comunicación, vulnerando principalmente su dignidad, intimidad, libertad y vida privada; y
 
-XIII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2020)</small>
+
+XIII. Violencia institucional: Son los actos u omisiones de las personas que tengan el carácter de servidores públicos que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+
+XIV. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2018)</small>
 
@@ -1260,3 +1266,9 @@ P.O. 25 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 106, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 197 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII Y SE ADICIONA LA FRACCIÓN XIII, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
