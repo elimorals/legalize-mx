@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2020-07-01"
+last_updated: "2020-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -145,7 +145,13 @@ Las personas de la tercera edad y las que tengan capacidades diferentes deben re
 
 Toda persona que habite o transite en el territorio del Estado, sin importar su procedencia o condición migratoria, será tratado (sic) humanamente y con el respeto debido a la dignidad inherente al ser humano y a su identidad cultural.
 
-VI. Todo individuo tiene libertad de investigación científica y de creación, interpretación y difusión cultural, así como derecho a obtener los beneficios que le corresponda por razón de las producciones científicas, literarias o artísticas de que sea autor. El Estado conservará el patrimonio cultural y apoyará las iniciativas individuales y colectivas que contribuyan al desarrollo de la cultura, especialmente la práctica y expresiones artísticas que arraiguen valores nacionales y locales.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+
+VI. Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia, la innovación tecnológica y la creación cultural.
+
+Toda persona tiene libertad de investigación científica y de creación tecnológica y cultural, así como a su difusión, a la par del derecho a obtener los beneficios que le corresponda por razón de su producción científica, tecnológica, literaria o artística de que sea autor.
+
+El Estado apoyará la investigación e innovación científica, humanística y tecnológica, además garantizará el acceso abierto a la información que derive de ella, para lo cual deberá proveer recursos y estímulos suficientes. Asimismo, conservará el patrimonio cultural y apoyará las iniciativas individuales y colectivas que contribuyan al desarrollo de la cultura, especialmente la práctica y expresiones artísticas que arraiguen valores nacionales y locales.
 
 VII. El Estado adoptará las medidas necesarias con el fin de que toda persona practique deporte y goce de la recreación, para lo cual promoverá la cultura física y creará oportunidades que permitan presenciar, organizar y participar en dichas actividades. Asimismo, habilitará y conservará espacios e instalaciones adecuados para tal efecto.
 
@@ -153,9 +159,13 @@ VII. El Estado adoptará las medidas necesarias con el fin de que toda persona p
 
 VIII. Las autoridades en el Estado adoptarán, permanentemente, las medidas especiales y de cualquier otra índole legal, con el objeto de lograr entre mujeres y hombres la igualdad, perspectiva y paridad de género en las políticas públicas institucionales que les competan.
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
 
-IX. Todo individuo tiene derecho a recibir educación. El Estado y los Municipios garantizarán que la educación preescolar, primaria, secundaria y media superior que impartan sea obligatoria y gratuita.
+IX. Toda persona tiene derecho a recibir educación. El Estado y los Municipios impartirán y garantizarán la educación inicial, preescolar, primaria, secundaria, media superior y superior. Dicha educación será obligatoria, universal, inclusiva, pública, gratuita y laica. Es responsabilidad del Estado concientizar sobre la incorporación de la niñez a la educación inicial, como un derecho inalienable de ésta.
+
+El Sistema Educativo Estatal priorizará el interés superior de las niñas, niños, adolescentes y jóvenes, en el acceso, permanencia y participación en los servicios educativos.
+
+La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Propiciará el desarrollo armónico de las cualidades y capacidades del ser humano, fomentando en los educandos el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad nacional e internacional, en la independencia y en la justicia; además, promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2017)</small>
 
@@ -317,7 +327,9 @@ Los gobiernos estatal y municipales establecerán un sistema permanente de apoyo
 
 El Estado de Sinaloa tiene una composición pluricultural sustentada originalmente en sus pueblos y comunidades indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del Estado al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-Esta Constitución reconoce y garantiza el derecho a preservar la forma de vida de los pueblos y comunidades indígenas en el Estado, y elevar el bienestar social de sus integrantes. La ley protegerá y promoverá el desarrollo de sus lenguas, culturas, religión, la educación bilingüe, usos, costumbres, tradiciones, prácticas democráticas, patrimonio étnico y artesanal, medio ambiente, recursos, medicina tradicional y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
+
+Esta Constitución reconoce y garantiza el respeto y el derecho a preservar la forma de vida de los pueblos y comunidades indígenas en el Estado, y elevar el bienestar social de sus integrantes. La ley protegerá y promoverá el desarrollo de sus lenguas, culturas, religión, la educación plurilingüe e intercultural, usos, costumbres, tradiciones, prácticas democráticas, patrimonio histórico, cultural, étnico y artesanal, medio ambiente, recursos, medicina tradicional y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
 
 La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
 
@@ -349,7 +361,9 @@ Para abatir las carencias y rezagos que afectan a los pueblos y comunidades ind�
 
 I. Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer la economía del Estado y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los tres órdenes de gobierno, con la participación de las comunidades. Las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos;
 
-II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en el Estado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+
+II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación plurilingüe e intercultural, la alfabetización, la conclusión de la educación básica y media superior, la capacitación productiva y la educación superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en el Estado;
 
 III. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema nacional, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil;
 
@@ -1775,31 +1789,35 @@ Art. 89 C. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
 #### SECCION V. DE LA ENSEÑANZA PUBLICA
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADO P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Art. 90.
 
-La educación que se imparta en el Estado será de calidad y se regirá por la filosofía, directrices, principios y términos que consagra el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, y se encauzará tendiendo a alcanzar el desarrollo integral de la personalidad humana, sustentada en valores éticos universales. Reforzando esto último con la promoción y difusión de la cultura en sus más diversas expresiones, alentando en esta tarea la mayor participación social y de las familias.
+La educación que se imparta en el Estado propiciará la excelencia y se regirá por la filosofía, directrices, principios y términos que consagra el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, y se encauzará tendiendo a alcanzar el desarrollo integral de la persona, sustentada en valores éticos universales. Esto último se reforzará con la promoción y difusión de la cultura en sus más diversas expresiones, alentando en esta tarea la participación social y de las familias.
 
-El Estado garantizará la calidad en la educación obligatoria de manera que los materiales y métodos educativos, la organización escolar, la infraestructura educativa y la idoneidad de docentes y directivos, garanticen el máximo logro de aprendizaje de los educandos. El Ejecutivo del Estado, por conducto de la dependencia competente, tendrá la responsabilidad de la evaluación de la educación estatal y de la emisión de normas para mejorar su calidad, cobertura y equidad, sujetándose a los lineamientos que establezca el Instituto Nacional para la Evaluación de la Educación, de conformidad con los convenios que al efecto se celebren, y con base en las disposiciones jurídicas aplicables.
+El Estado garantizará que los materiales didácticos, la infraestructura educativa y su mantenimiento, así como las condiciones del entorno, sean idóneos y contribuyan a la excelencia educativa.
 
-El servicio profesional docente en la entidad, se sujetará a lo establecido en la ley correspondiente. Los ingresos y promociones que no se otorguen conforme a las disposiciones de dicha ley, serán nulos.
+El Ejecutivo del Estado, por conducto de la dependencia competente, tendrá la responsabilidad de la evaluación de la educación estatal y de la emisión de normas para mejorar su calidad, cobertura y equidad, sujetándose a los lineamientos que establezca la Comisión Nacional para la Mejora Continua de la Educación, de conformidad con los convenios que al efecto se celebren, y con base en las disposiciones jurídicas aplicables.
 
-Las autoridades competentes procurarán fortalecer conforme a lo dispuesto en el artículo 3° constitucional, la autonomía de gestión de los centros escolares con el propósito de mejorar sus instalaciones, adquirir materiales educativos, atender su operación básica y favorecer la participación de los padres de familia, alumnos y maestros, mediante el liderazgo del director, se involucren en la solución de los desafíos que enfrenta cada escuela.
+La carrera magisterial en la entidad, se sujetará a lo establecido en la Ley General del Sistema para la Carrera de las Maestras y los Maestros y en la legislación estatal correspondiente. Los ingresos y promociones que no se otorguen conforme a las disposiciones de las mismas, serán nulos.
 
-En las escuelas que lo requieran, se definirán e impulsarán políticas públicas para el suministro de alimentos nutritivos, a través de microempresas locales. Se prohíbe introducir alimentos nocivos para la salud de los alumnos, en las escuelas del sistema educativo estatal.
+Las autoridades competentes procurarán fortalecer conforme a lo dispuesto en el artículo 3° constitucional, la autonomía de gestión de los centros escolares con el propósito de mejorar sus instalaciones, adquirir materiales educativos, atender su operación básica y promover la participación de los padres de familia, alumnos y maestros, mediante el liderazgo del director, se involucren en la solución de los desafíos que enfrenta cada escuela.
 
-Para la regulación de la educación dentro de la esfera de competencia del Estado, se expedirá la Ley correspondiente, cuya ejecución y vigilancia de su cumplimiento estará a cargo del Gobierno del Estado a través de la dependencia competente y de los Municipios.
+En las escuelas de educación básica de alta marginación, se impulsarán políticas públicas y acciones que mejoren las condiciones de vida de los educandos, con énfasis en el suministro de alimentos nutritivos, a través de microempresas locales. Asimismo, en las escuelas del sistema educativo estatal se prohíbe introducir alimentos nocivos para la salud de los alumnos. Además, se establecerán políticas incluyentes y transversales que respalden a estudiantes en condiciones de vulnerabilidad social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2016)</small>
+El Estado establecerá un sistema de becas para las y los estudiantes de todos los niveles escolares del sistema de educación pública, con prioridad a las y los pertenecientes a las familias que se encuentren en condición de pobreza, para garantizar con equidad el derecho a la educación.
+
+Para la regulación de la educación dentro de la esfera de competencia del Estado, se expedirá la Ley correspondiente, cuya ejecución y vigilancia de su cumplimiento estará a cargo del Poder Ejecutivo del Estado a través de la dependencia competente y de los órganos correspondientes de los Municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Art. 91.
 
-Toda la educación que imparta el Estado será gratuita, a fin de que todos los individuos tengan acceso a ella, incluyendo la educación preescolar, primaria, secundaria, media superior o bachillerato, normal, especial, la destinada a obreros o campesinos o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población del Estado y las características particulares de los grupos que la integran. La educación preescolar, primaria, secundaria y media superior serán además obligatorias.
+Toda la educación que imparta el Estado será gratuita, a fin de que todos (sic) las personas tengan acceso a ella, incluyendo la educación inicial, preescolar, primaria, secundaria, media superior y superior o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población del Estado y las características particulares de los grupos que la integran. La educación inicial, preescolar, primaria, secundaria, media superior y superior serán además obligatorias.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
-En los contenidos de los planes y programas de estudio de los niveles de educación a que se refiere este artículo, se incluirán temas regionales relacionados con los derechos humanos, seguridad pública y la preservación del medio ambiente.
+Los contenidos de los planes y programas de estudio de los niveles de educación a que se refiere este artículo, tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias, las humanidades y las artes; asimismo, se incluirán temas regionales relacionados con los derechos humanos, seguridad pública y la preservación del medio ambiente.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DEL 2000)</small>
 
@@ -1809,11 +1827,11 @@ Para apoyar la disciplina del estudio y los hábitos de lectura en los educandos
 
 En los mismos términos, el Estado garantizará que las escuelas públicas a su cargo cuenten con instalaciones y equipos para el acceso de los educandos a internet y a las tecnologías de la información y de la comunicación.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Art. 92.
 
-El Estado y los particulares podrán impartir la educación en todos sus tipos y grados, en concordancia con el Artículo 3o. de la Constitución Política de la República y sus Leyes Reglamentarias y con sujeción a las disposiciones de la Ley correspondiente del Estado.
+Los particulares podrán impartir la educación en todos sus tipos, niveles y modalidades, en concordancia con el Artículo 3o. de la Constitución Política de la República y sus Leyes Reglamentarias y con sujeción a las disposiciones de la Ley correspondiente del Estado.
 
 ### CAPITULO IV. PODER JUDICIAL
 
@@ -3161,9 +3179,9 @@ Son obligaciones del Sinaloense:
 
 I. Inscribirse en el catastro de la Municipalidad, manifestando la propiedad que tenga y la industria, profesión o trabajo de que subsista.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
 
-II. Instruirse y cuidar de que sus hijos y pupilos menores de edad, concurran a las escuelas oficiales o particulares para recibir la enseñanza preescolar, primaria, secundaria y media superior, de conformidad con las leyes respectivas.
+II. Instruirse y ser responsable de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir educación preescolar, primaria, secundaria, media superior y, (sic) su caso la inicial, de conformidad con las leyes respectivas. Asimismo, los padres, madres o tutores deberán dar seguimiento al proceso educativo, revisando su progreso y desempeño, velando por el bienestar y desarrollo de sus hijos o tutorados.
 
 III. Contribuir a los gastos públicos en la forma que las leyes lo dispongan.
 
@@ -4422,3 +4440,11 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Congreso del Estado contará con un plazo de 120 días hábiles siguientes a la entrada en vigor del presente Decreto para emitir las modificaciones correspondientes a su Ley Orgánica y a los reglamentos internos o en su caso emitir la reglamentación que corresponda.
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 467 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LOS ARTÍCULOS 4°BIS B, FRACCIONES VI Y IX; 6, FRACCIÓN II; 13 BIS, PÁRRAFO SEGUNDO Y APARTADO B, FRACCIÓN II; 90; 91, PÁRRAFOS PRIMERO Y SEGUNDO; Y 92 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
