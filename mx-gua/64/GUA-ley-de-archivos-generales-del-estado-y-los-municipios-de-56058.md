@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-archivos-generales-del-estado-y-los-municipios-de-56058"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-15"
-last_updated: "2016-07-01"
+last_updated: "2020-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE ARCHIVOS GENERALES DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE ARCHIVOS DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 13 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ARCHIVOS GENERALES DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020 (ABROGADO).
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de junio de 2007.
 
@@ -412,3 +414,35 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 192 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE ARCHIVOS DEL ESTADO DE GUANAJUATO Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. A partir de la entrada en vigor de la presente Ley, se abroga la Ley de Archivos Generales del Estado y los Municipios de Guanajuato, publicada en el Periódico Oficial número 96, Tercera Parte, de fecha 15 de junio de 2007.
+
+Artículo Tercero. En tanto se expidan las normas archivísticas correspondientes, se continuará aplicando lo dispuesto en las disposiciones reglamentarias vigentes en la materia, en lo que no se oponga a la presente Ley.
+
+Artículo Cuarto. Los sujetos obligados deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.
+
+Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración, en el ámbito de sus atribuciones deberá realizar las previsiones y adecuaciones presupuestarias para que el Archivo General del Estado, como ente rector estatal, cuente con los recursos humanos, materiales, financieros y tecnológicos para el cumplimiento de la presente Ley.
+
+Artículo Sexto. El Consejo Estatal deberá integrarse dentro de tres meses a partir de la entrada en vigor de la presente Ley y elaborar su reglamento en los tres meses subsecuentes.
+
+Artículo Séptimo. Los sujetos obligados deberán implementar su sistema institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+Artículo Octavo. Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+Artículo Noveno. Los documentos transferidos a un archivo histórico o a los archivos generales, antes de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados, ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
+
+Aquellos sujetos obligados que cuenten con archivos históricos deberán prever en el programa anual el establecimiento de acciones tendientes a identificar, ordenar, describir y clasificar archivísticamente, los documentos que les hayan sido transferidos antes de la entrada en vigor de la Ley.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+Artículo Décimo. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Poder Ejecutivo en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Undécimo. En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
