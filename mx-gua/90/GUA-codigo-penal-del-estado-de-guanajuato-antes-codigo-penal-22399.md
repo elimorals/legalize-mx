@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2019-12-30"
+last_updated: "2020-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1543,7 +1543,9 @@ a.- Habrá feminicidio cuando la víctima del homicidio sea mujer y la privació
 
 I.- Que haya sido incomunicada;
 
-II.- Que haya sido violentada sexualmente;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+
+II.- Que presente signos de violencia sexual;
 
 III.- Que haya sido vejada;
 
@@ -1551,9 +1553,13 @@ IV.- Que se le hayan infligido lesiones o mutilaciones, infamantes o degradantes
 
 V.- Que haya existido amenazas, acoso, lesiones o violencia en el ámbito familiar, laboral o escolar o cualquier otro que implique supra o subordinación del sujeto activo en contra de ella;
 
-VI.- Que exista o haya existido con el activo relación íntima, de convivencia, de confianza, noviazgo, parentesco, matrimonio o concubinato; o
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
 
-VII.- Que su cuerpo sea expuesto o arrojado en un lugar público.
+VI.- Que exista o haya existido con el activo relación íntima, de convivencia, de confianza, noviazgo, parentesco, matrimonio o concubinato o relación análoga; o
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+
+VII.- Que su cuerpo sea expuesto o exhibido.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
 
@@ -1937,7 +1943,7 @@ Cuando el sujeto pasivo sea menor de catorce años o una persona que por cualqui
 
 ###### Artículo 183.
 
-La violación entre cónyuges o concubinos se perseguirá por querella.
+(DEROGADO, P.O. 13 DE JULIO DE 2020)
 
 ###### Artículo 184.
 
@@ -4208,3 +4214,15 @@ P.O. 30 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 144, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 176 Y SE RECORRE EL ACTUAL PÁRRAFO SEGUNDO COMO PÁRRAFO TERCERO, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 199 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II, VI Y VII DEL ARTÍCULO 153-A DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 200, MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 183 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
