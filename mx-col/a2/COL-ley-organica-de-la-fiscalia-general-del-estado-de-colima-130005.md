@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-fiscalia-general-del-estado-de-colima-130005
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-21"
-last_updated: "2018-08-21"
+last_updated: "2020-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 56 del Periódico Oficial del Estado de Colima, el martes 21 de agosto de 2018.
 
@@ -739,9 +739,15 @@ IX. Diseñar e implementar proyectos, estudios y programas permanentes de inform
 
 X. Coadyuvar con otras áreas competentes de la Fiscalía General, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales y socioeconómicas, para conocer la evolución de las actividades relacionadas con los hechos que la ley considera como delitos por razones de Género y Trata de Personas;
 
-XI. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos por razones de Género y Trata de Personas; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
 
-XII. Las demás que en su caso le confieran las leyes, reglamentos y demás disposiciones jurídicas aplicables.
+XI. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos por razones de Género y Trata de Personas;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2020)</small>
+
+XII. Crear la base estadística local de violencia política contra las mujeres por razón de Género; y
+
+XIII. Las demás que en su caso le confieran las leyes, reglamentos y demás disposiciones jurídicas aplicables.
 
 #### SECCIÓN PRIMERA. DEL NOMBRAMIENTO
 
@@ -1808,3 +1814,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ARNOLDO OCHOA GONZÁLEZ
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 283.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA; SE REFORMA Y ADICIONA LA LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL; Y SE REFORMA Y ADICIONA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. La Fiscalía General del Estado de Colima deberá crear la base estadística local de violencia política contra las mujeres por razón de género, dentro de los 30 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO. El Consejo General del Instituto Electoral del Estado, deberá emitir los lineamientos para prevenir, atender y erradicar la violencia política contra las mujeres por razón de género, antes del inicio del periodo de precampañas del Proceso Electoral Local 2020-2021, de conformidad con la reforma aprobada al artículo 114, fracción VIII, del Código Electoral del Estado de Colima, en términos del presente Decreto.
+
+CUARTO. Los Partidos Políticos deberán crear los mecanismos internos para prevenir, sancionar y erradicar la violencia política contra las mujeres por razón de género, antes del inicio del periodo de precampañas del Proceso Electoral Local 2020-2021, de conformidad con la reforma aprobada al artículo 51, fracción I, del Código Electoral del Estado de Colima, en términos del presente Decreto.
