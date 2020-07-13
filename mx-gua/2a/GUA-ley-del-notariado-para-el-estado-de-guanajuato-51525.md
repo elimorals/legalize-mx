@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-notariado-para-el-estado-de-guanajuato-51525"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-22"
-last_updated: "2016-07-01"
+last_updated: "2020-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de agosto de 2006.
 
@@ -425,9 +425,21 @@ IV. La fotografía del notario, así como su filiación y firma. La fotografía 
 
 El Titular del Poder Ejecutivo al otorgar el fíat al notario, le expedirá la cédula de identidad correspondiente, previo pago de los derechos que señale la Ley de ingresos respectiva.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
+
+###### Artículo 22-A.
+
+Al notario auxiliar, en su caso, se le otorgará una licencia, con la razón "Notario Auxiliar", la cual tendrá los mismos datos que para el fíat establece el artículo anterior.
+
+El Titular del Poder Ejecutivo al otorgar la licencia de notario auxiliar, expedirá la cédula de identidad correspondiente, previo pago de los derechos que señale la Ley de Ingresos del Estado.
+
 ###### Artículo 23.
 
 La Secretaría de Gobierno, a través de la unidad administrativa que corresponda de ésta, llevará un Registro de Notarios, en el cual se tomará razón de los fíats expedidos por el Titular del Poder Ejecutivo, los cambios de adscripción, las licencias concedidas a cada notario, las revocaciones y las suplencias que se realicen.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
+
+Lo establecido en el párrafo anterior, le será aplicable a los notarios auxiliares.
 
 ### CAPÍTULO IV. Del ejercicio del notariado y de la prestación del servicio
 
@@ -637,7 +649,7 @@ El titular de la unidad administrativa que corresponda de la Secretaría de Gobi
 
 ### Capítulo VII. Del notario auxiliar
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Artículo 42.
 
@@ -683,45 +695,83 @@ En caso de fallecimiento de uno de los notarios asociados durante la vigencia de
 
 ###### Artículo 48-B.
 
-El notario con certificación notarial vigente, que hubiere cumplido quince años en el ejercicio ininterrumpido de la función podrá proponer a un notario auxiliar, siempre y cuando cumpla con los siguientes requisitos:
+El notario con certificación notarial vigente, que hubiere cumplido quince años en el ejercicio de la función podrá solicitar y proponer un notario auxiliar, siempre que cumpla con los siguientes requisitos:
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 I. No haber sido sancionado en los términos de lo dispuesto por el artículo 105 de esta Ley;
 
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 II. No estar sujeto a un proceso en virtud del cual se le pudiera suspender en el ejercicio de la función o de revocación del fíat; y
 
-III. Acreditar la necesidad del notario auxiliar. Se entenderá acreditada la necesidad al haber autorizado en el año inmediato anterior un mínimo de quinientos actos notariales, de los cuales doscientos como máximo podrán ser ratificaciones o cotejos.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+III. Acreditar la necesidad del notario auxiliar, atendiendo a las cargas de trabajo o a la demanda de la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
+
+La licencia otorgada a un notario para separarse de la función notarial hasta por tres meses por año y los que soliciten licencia para fines académicos de preparación notarial no se considerará ejercicio interrumpido conforme a este artículo.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
+
+No podrá solicitar notario auxiliar, el notario que se encuentre suspendido en el ejercicio de la función notarial, que se encuentre con licencia, o le hubiere sido revocado el fíat, o bien, se encuentre sujeto a procedimiento administrativo sancionador por alguna de las hipótesis establecidas en el artículo 124 de esta Ley.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Artículo 48-C.
 
-Para ser notario auxiliar se requiere, además de los requisitos señalados en el artículo anterior, lo siguiente:
+Para ser notario auxiliar se requiere lo siguiente:
 
-I. Ser aspirante a notario en los términos de esta Ley y acreditar que mantiene vigentes los requisitos de las fracciones IV, V y X del artículo 11-A;
+I. Acreditar de manera fehaciente tres años de prácticas notariales en la notaría que pretende quedar adscrito, los cuales deben de ser posteriores a la obtención del título de Notario Público y anteriores a la solicitud;
 
-II. Aprobar el examen teórico práctico en términos de esta Ley; y
+II. Aprobar el examen de conocimientos regulado en este capítulo;
 
-III. Acreditar de manera fehaciente tres años ininterrumpidos de prácticas notariales en la notaría cuya adscripción se pretende, posteriores a la obtención del título de Notario Público y anteriores a la propuesta.
+III. Gozar de capacidad física y mental que le permita el ejercicio de la función notarial;
 
-No podrá proponer notario auxiliar, el notario que se encuentre suspendido en el ejercicio de la función notarial, que se encuentre con licencia, o le hubiere sido revocado el fíat.
+IV. Acreditar haber tenido y contar con buena conducta y honorabilidad profesional;
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+V. No haber sido condenado en sentencia ejecutoria por delito doloso que amerite pena privativa de libertad; y
+
+VI. Haber mostrado una íntegra ética profesional y poseer una capacidad jurídica y profesional suficiente para que el notario titular pueda auxiliarse de sus servicios.
+
+Los requisitos contenidos en las fracciones III, IV y V, deberán estar actualizados y vigentes. Para efecto de su acreditación, se estará a lo dispuesto en las fracciones IV, V y VIII del artículo 13 de esta Ley.
+
+La constancia de buena conducta a que se refiere la fracción IV del artículo 13 de esta Ley, para tener por acreditado el requisito señalado en la fracción IV de este artículo, deberá contener la mención de que se expide al interesado, para la solicitud del examen para notario auxiliar.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Artículo 48-D.
 
-El examen teórico práctico para obtener la licencia de notario auxiliar se llevará a cabo bajo las siguientes reglas:
+El examen de conocimientos para obtener la licencia de notario auxiliar se llevará a cabo bajo las siguientes reglas:
 
-I. El jurado deberá estar integrado de conformidad con el artículo 15 de esta Ley;
+I. El jurado deberá estar integrado por:
 
-II. Debe celebrarse dentro de los treinta días naturales siguientes a la solicitud del examen en el lugar que el propio jurado designe;
+a) El Secretario de Gobierno o el servidor público que designe;
 
-III. Los integrantes del jurado nombrarán entre ellos presidente y secretario de jurado para el examen correspondiente;
+b) Un notario en ejercicio de reconocido prestigio y con certificación actualizada, designado por el Colegio Estatal de Notarios; y
 
-IV. No podrá ser miembro del jurado el notario que proponga la designación del notario auxiliar; y
+c) Un profesor de la División de Derecho, Política y Gobierno de la Universidad de Guanajuato, quien deberá ser notario en ejercicio certificado y preferentemente profesor de la especialidad de Notaría Pública. Esta designación estará a cargo del Secretario de Gobierno.
 
-V. El examen se llevará a efecto conforme al procedimiento previsto en el artículo 18 de esta Ley.
+Por cada integrante del jurado habrá un suplente. En el caso de la Presidencia del jurado, la suplencia podrá recaer en el titular de la Subsecretaría de Servicios a la Comunidad o en el de la Dirección General de Registros Públicos de la Propiedad y Notarías. Los demás integrantes suplentes deberán reunir las mismas características y cualidades previstas en este artículo;
 
-Los artículos 15 y 16 serán aplicables, en lo que no se oponga a las disposiciones anteriores, para el funcionamiento del jurado.
+II. No podrá ser integrante del jurado el notario que solicite la designación de notario auxiliar;
+
+III. Los integrantes del jurado nombrarán entre ellos al secretario del jurado para el examen correspondiente;
+
+IV. El examen deberá celebrarse dentro de los treinta días hábiles siguientes a la fecha del cierre del plazo fijado por el Titular del Poder Ejecutivo para la recepción de las solicitudes que formulen los notarios para designación de notarios auxiliares.
+
+El examen se efectuará en el lugar que el propio jurado designe; y
+
+V. El examen de conocimientos para obtener la licencia de notario auxiliar se sujetará a lo previsto en el artículo 17-A fracción I de esta Ley, con las siguientes salvedades:
+
+a) Consistirá en un cuestionario integrado por sesenta preguntas, de las cuales, veinte serán a propuesta de cada uno de los integrantes del jurado;
+
+b) El cuestionario versará sobre aspectos teóricos y prácticos de relevancia y actualidad en la materia notarial; y
+
+c) El día del examen, en sesión previa, el jurado elaborará de entre las propuestas que formule cada uno de sus integrantes, el cuestionario por escrito al que deberá dar respuesta el sustentante.
+
+A los integrantes del jurado les será aplicable el deber de excusarse en los términos del artículo 16 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -729,19 +779,35 @@ Los artículos 15 y 16 serán aplicables, en lo que no se oponga a las disposici
 
 El jurado calificará la prueba en una escala de cero a cien puntos.
 
-La calificación mínima aprobatoria será de ochenta y cinco puntos considerando las pruebas teórica y practica. Si el sustentante no alcanza el mínimo aprobatorio, el notario que solicite un notario auxiliar podrá solicitar fecha para otro examen hasta transcurridos seis meses del anterior.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+La calificación mínima aprobatoria será de ochenta puntos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2020)</small>
+
+Lo calificación del examen se hará al finalizar este en presencia del jurado y de los sustentantes a través de medios ópticos o electrónicos. De todos los actos que integren el proceso del examen se levantará acta circunstanciada, firmada debidamente por todos los integrantes del jurado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2020)</small>
+
+El presidente del jurado informará a los sustentantes el resultado de su calificación y comunicará al Titular del Poder Ejecutivo los nombres y calificaciones de los sustentantes que hayan obtenido calificación aprobatoria, remitiendo el acta del examen para efectos del otorgamiento de la licencia de notario auxiliar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2020)</small>
+
+La salvaguarda e inviolabilidad de los exámenes será responsabilidad de los integrantes del jurado.
 
 ###### Artículo 48-F.
 
-En el procedimiento para el examen para la obtención de licencia de notario auxiliar y la expedición de la licencia se estará a lo previsto en el reglamento de esta Ley en lo que resulte aplicable.
+(DEROGADO, P.O. 13 DE JULIO DE 2020)
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Artículo 48-G.
 
-Una vez recibida por el Ejecutivo del Estado la propuesta para designar notario auxiliar y satisfechos los requisitos señalados en este capítulo, dentro de los treinta días hábiles siguientes, el Titular del Poder Ejecutivo expedirá la licencia de notario auxiliar y la mandará publicar en el Periódico Oficial del Gobierno del Estado y a partir de esta publicación entrará en funciones el notario auxiliar, quien deberá comunicar a las autoridades a que se refiere la fracción IV del artículo 25 de esta Ley, el inicio de sus funciones.
+Una vez recibido por el Ejecutivo del Estado la solicitud para designar notario auxiliar y satisfechos los requisitos señalados en este capítulo, dentro de los treinta días hábiles siguientes a la recepción del acta a que se refiere el artículo 48-E, el Titular del Poder Ejecutivo expedirá la licencia de notario auxiliar y la mandará publicar en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
+
+A partir del día hábil siguiente al de la publicación referida en el párrafo anterior, entrará en funciones el notario auxiliar, quien deberá comunicar a las autoridades a que se refiere la fracción IV del artículo 25 de esta Ley, el inicio de sus funciones.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -755,17 +821,29 @@ El notario auxiliar colaborará en el ejercicio de la función del notario, actu
 
 El notario y el notario auxiliar tendrán las mismas atribuciones, impedimentos y sanciones en términos de esta Ley y serán responsables de manera solidaria de su ejercicio notarial.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
+
+Entre el notario titular y el notario auxiliar no existirá una relación laboral de subordinación.
+
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 48-J.
 
 El notario podrá solicitar al Titular del Poder Ejecutivo la revocación de la licencia del notario auxiliar, quien procederá a formalizarla, cuyo acuerdo será publicado en el Periódico Oficial del Gobierno del Estado. Asimismo, el notario notificará al notario auxiliar la revocación.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
+
+La revocación de la licencia del notario auxiliar se comunicará por la Secretaría de Gobierno a las autoridades a que se refiere la fracción IV del artículo 25 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Artículo 48-K.
 
-El notario auxiliar tendrá derecho a separarse libremente comunicándole al notario y a la Secretaría de Gobierno con cinco días naturales de anticipación. A pesar de la separación no cesará la responsabilidad del notario auxiliar en todos los actos en que haya intervenido.
+El notario auxiliar tendrá derecho a separarse libremente comunicándole al notario y a la Secretaría de Gobierno con quince días naturales de anticipación. A pesar de la separación no cesará la responsabilidad del notario auxiliar en todos los actos en que haya intervenido.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
+
+El notario auxiliar tendrá derecho a participar en los procedimientos a que se refiere el artículo 11-A de esta Ley para acreditar su calidad de aspirante y, en su caso, a ser investido con la calidad de notario público, previa la acreditación de los requisitos a que se refiere el artículo 12.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -773,11 +851,11 @@ El notario auxiliar tendrá derecho a separarse libremente comunicándole al not
 
 El notario auxiliar terminará los actos que hubieren quedado pendientes por la muerte del titular, dentro de los seis meses posteriores al fallecimiento, transcurrido este plazo entregará a la unidad administrativa que corresponda de la Secretaría de Gobierno el protocolo, su apéndice e índice, el libro de ratificaciones, su apéndice e índice, el sello, hojas testimonio, hologramas y folios no utilizados.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Artículo 48-M.
 
-En caso de separación, suspensión o terminación de la función notarial del notario, cesarán de inmediato las funciones del notario auxiliar, quedará sin efectos su licencia y la unidad administrativa que corresponda de la Secretaría de Gobierno procederá en los términos de lo dispuesto por el artículo 125.
+En caso de separación, suspensión o terminación de la función notarial del notario titular, cesarán de inmediato las funciones del notario auxiliar, quedará sin efectos su licencia y la unidad administrativa que corresponda de la Secretaría de Gobierno procederá en los términos de lo dispuesto por el artículo 125 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -785,11 +863,11 @@ En caso de separación, suspensión o terminación de la función notarial del n
 
 La designación del notario auxiliar dejará de surtir efectos si tanto él como el notario dejan de mantener vigente la certificación notarial en los términos de esta Ley.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
 ###### Artículo 48-O.
 
-El notario auxiliar no podrá actuar como tal, a pesar de haber sido designado previamente, si se llegare a conceder al titular cualquier licencia para separarse de sus funciones en los términos de esta Ley. Tampoco podrá actuar cuando al notario le hubiere sido concedida licencia para desempeñar un cargo público o de elección popular, sea federal, estatal o municipal, o del Distrito Federal, siempre que no se trate del Gobernador del Estado y de los presidentes municipales.
+El notario auxiliar no podrá actuar como tal, a pesar de haber sido designado previamente, si se llegare a conceder al titular cualquier licencia para separarse de sus funciones en los términos de esta Ley. Tampoco podrá actuar cuando al notario le hubiere sido concedida licencia para desempeñar un cargo público o de elección popular, sea federal, estatal o municipal, o de la Ciudad de México.
 
 ### CAPÍTULO IX. Del protocolo y del libro de ratificaciones
 
@@ -2004,3 +2082,41 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 198 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 48-B, PÁRRAFO PRIMERO Y FRACCIÓN III; 48-C; 48-D; 48-E; 48-G, PÁRRAFO PRIMER (SIC); 48-K, PÁRRAFO PRIMERO; 48-M; Y 48-O. SE ADICIONAN LOS ARTÍCULOS 22-A; 23, CON UN PÁRRAFO SEGUNDO; 48-B, CON LOS PÁRRAFOS SEGUNDO Y TERCERO; 48-G CON UN PÁRRAFO SEGUNDO; 48-I CON UN PÁRRAFO SEGUNDO; 48-J CON UN PÁRRAFO SEGUNDO; Y 48-K CON UN PÁRRAFO SEGUNDO. SE DEROGA EL ARTÍCULO 48-F, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO".]
+
+Vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Plazo para adecuar el Reglamento de la Ley
+
+Artículo Segundo. El Ejecutivo del Estadodeberá (sic) adecuar el Reglamento de la Ley del Notariado para el Estado de Guanajuato, acorde a lo dispuesto en el presente Decreto, en un plazo de treinta días contados a partir de su inicio de vigencia.
+
+Publicación de la convocatoria para recepción de solicitudes de designación de notarios auxiliares
+
+Artículo Tercero. Para la aplicación por primera ocasión del presente Decreto, dentro de los sesenta días posteriores al inicio de su vigencia, el Titular del Poder Ejecutivo publicará en el Periódico Oficial del Gobierno del Estado la convocatoria en la que se señalará la fecha a partir de la cual, los notarios que cumplan con lo dispuesto en el artículo 48-B del presente Decreto y que además tengan su certificación notarial vigente, podrán solicitar la designación de notarios auxiliares.
+
+La convocatoria contendrá, al menos, lo siguiente:
+
+I. Fecha de inicio y cierre para la recepción de las solicitudes;
+
+II. Lugar y horario para la recepción de las solicitudes;
+
+III. Los requisitos y documentos que deberán acompañar a las solicitudes, en términos del presente Decreto y demás normatividad aplicable:
+
+IV. El señalamiento de que los notarios titulares deberán proporcionar la dirección y la cuenta de correo electrónico en la que se practicarán las notificaciones que se deriven del trámite a las solicitudes formuladas por los notarios titulares. A falta de indicación, se efectuarán en el domicilio de las respectivas notarías;
+
+V. El señalamiento de que la falta de cualquiera de los requisitos descritos en la convocatoria, motivará la no aceptación de las solicitudes; y
+
+VI. Los demás elementos que determine el Titular del Poder Ejecutivo.
+
+Integración del Jurado y verificación del examen
+
+Artículo Cuarto. Dentro de los diez días hábiles siguientes a la fecha del cierre del plazo de recepción de las solicitudes para la designación de notarios auxiliares, el Titular del Poder Ejecutivo integrará el jurado para la práctica del examen y este último se efectuará dentro de los diez días hábiles posteriores al de la conformación del jurado, en el lugar y horario que este último determine.
+
+Disposiciones aplicables a las solicitudes que se presenten en lo subsecuente
+
+Artículo Quinto. Una vez emitida la convocatoria referida en el Artículo Tercero Transitorio y desahogado el proceso correspondiente hasta su conclusión, en lo subsecuente, los notarios interesados en solicitar la designación de notarios auxiliares deberán observar lo establecido en el artículo 48-B de esta Ley.
