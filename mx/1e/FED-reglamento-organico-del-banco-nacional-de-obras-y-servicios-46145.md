@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-nacional-de-obras-y-servicios-461
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "2016-05-31"
+last_updated: "2020-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46145&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,11 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGÁNICO DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2020.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
-
-> <small>[N. DE E. EL ACUERDO 38/2016 EXPEDIDO POR LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO, PUBLICADO EN EL D.O.F. DE 31 DE MAYO DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
 
 REGLAMENTO ORGANICO DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO.
 
@@ -59,17 +57,21 @@ El Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito,
 
 El presente Reglamento Orgánico tiene por objeto establecer las bases conforme a las cuales se regirá la organización y funcionamiento de la Sociedad.
 
-> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 3o.
 
-El Banco Nacional de Obras y Servicios Públicos, en su carácter de Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, prestará el servicio de banca y crédito con sujeción a los objetivos y prioridades del Plan Nacional de Desarrollo y en especial del Programa Nacional de Financiamiento del Desarrollo, de acuerdo a los programas sectoriales, regionales e institucional y a los planes estatales y municipales, para promover y financiar las actividades y sectores que le son encomendados en su propia Ley Orgánica, con el propósito de contribuir al desarrollo sustentable del país.
+El Banco Nacional de Obras y Servicios Públicos, en su carácter de Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, prestará el servicio de banca y crédito con sujeción a los objetivos y prioridades del Plan Nacional de Desarrollo y en especial del Programa Nacional de Financiamiento del Desarrollo, de acuerdo con los programas sectoriales, regionales e institucional, y los planes estatales y municipales, para promover, financiar y refinanciar las actividades y sectores que le son encomendados en su propia Ley Orgánica, con el propósito de contribuir al desarrollo sustentable del país
 
-> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 4o.
 
-El Banco Nacional de Obras y Servicios Públicos, como Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, tendrá por objeto: promover y financiar las actividades prioritarias que realicen los Gobiernos Federal, de la Ciudad de México, estatales y municipales y sus respectivas entidades públicas paraestatales y paramunicipales en el ámbito de los sectores de desarrollo urbano, infraestructura y servicios públicos, vivienda, comunicaciones y transportes y de las actividades del ramo de la construcción.
+El Banco Nacional de Obras y Servicios Públicos, como Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, tendrá por objeto: financiar o refinanciar proyectos relacionados directa o indirectamente con inversión pública o privada en infraestructura y servicios públicos, así como coadyuvar al fortalecimiento institucional de los gobiernos Federal, estatales y municipales, con el propósito de contribuir al desarrollo sustentable del país.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2020)</small>
+
+En este sentido, podrá promover y financiar las actividades prioritarias que realicen los Gobiernos Federal, de la Ciudad de México, estatales y municipales y sus respectivas entidades públicas paraestatales y paramunicipales en el ámbito de los sectores de desarrollo urbano, infraestructura y servicios públicos, vivienda, comunicaciones y transportes y de las actividades del ramo de la construcción. Asimismo, podrá otorgar financiamientos de corto plazo, largo plazo y financiar erogaciones sin contrapartida en la creación de un activo, a mecanismos de contratación, entidades federativas, municipios y sus organismos públicos, en apego a la legislación aplicable.
 
 > <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2016)</small>
 
@@ -231,9 +233,13 @@ El cargo de consejero es personal y no podrá desempeñarse por medio de represe
 
 Las sesiones del Consejo Directivo deberán celebrarse, por lo menos trimestralmente en los días y horas que previamente acuerde el propio Consejo, excepto tratándose de sesiones extraordinarias que el Presidente convoque cuando lo estime necesario o a petición de, cuando menos, dos consejeros de la Serie "A" de certificados de aportación patrimonial o del Director General, a través del Secretario del Consejo.
 
-Invariablemente, las convocatorias a las sesiones del Consejo Directivo se harán mediante escrito previo a su celebración, dirigido a los consejeros.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2020)</small>
 
-El Consejo Directivo sesionará válidamente con la asistencia de, por lo menos, seis de sus miembros, siempre y cuando, entre ellos se encuentren por lo menos cuatro de los nombrados por la Serie "A" de certificados de aportación patrimonial.
+Invariablemente, las convocatorias a las sesiones del Consejo Directivo se harán por el Secretario o Prosecretario del Consejo Directivo mediante escrito dirigido a los consejeros, el cual podrá hacerse llegar por medios electrónicos, con una anticipación de por lo menos cinco días hábiles en el caso de las sesiones ordinarias, y de por lo menos tres días hábiles tratándose de las sesiones extraordinarias; en ambos casos, la documentación e información relacionada con los temas a tratar durante la sesión será entregada con la misma antelación en que se convoca a ésta.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2020)</small>
+
+El Consejo Directivo sesionará válidamente con la asistencia de, por lo menos, seis de sus miembros, siempre y cuando, entre ellos se encuentren por lo menos cuatro de los nombrados por la Serie "A" de certificados de aportación patrimonial. La asistencia de los miembros podrá acreditarse con su presencia a través de conferencia telefónica o videoconferencia, siempre y cuando sea realizada en tiempo real.
 
 Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad para el caso de empate.
 
@@ -508,3 +514,15 @@ El presente Acuerdo, entrará en vigor el día siguiente al de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 El Banco Nacional de Obras y Servicios Públicos Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
+
+D.O.F. 14 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
