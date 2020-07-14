@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2020-03-06"
+last_updated: "2020-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -153,9 +153,9 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 
 El Estado garantiza la igualdad jurídica respecto de sus habitantes sin distinción de origen, sexo, condición o actividad social.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
 
-Todo varón y mujer serán sujetos de iguales derechos y obligaciones ante la Ley. Toda referencia de esta Constitución y de las leyes del Estado al género masculino, lo es también para el género femenino, cuando de su texto y contexto no se establezca que es expresamente para uno u otro género.
+La mujer y el hombre serán sujetos de iguales derechos y obligaciones ante la Ley. Toda referencia de esta Constitución y de las leyes del Estado al género masculino, lo es también para el género femenino, cuando de su texto y contexto no se establezca que es expresamente para uno u otro género.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -189,7 +189,9 @@ I. Decidir sus formas internas de convivencia y organización social, económica
 
 II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, respetando sus derechos fundamentales, los derechos humanos y la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los Jueces o Tribunales correspondientes;
 
-III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones, en un marco que respete el pacto federal y la soberanía del Estado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2020)</small>
+
+III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los hombres, en un marco que respete el pacto federal y la soberanía del Estado;
 
 IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad;
 
@@ -479,7 +481,9 @@ VI.- Solicitar las medidas cautelares y providencias necesarias para la protecci
 
 VII.- Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
 
-El Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los varones para tal efecto.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
+
+El Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
 El Estado establecerá un Sistema Integral de Justicia para Adolescentes que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
 
@@ -1015,6 +1019,10 @@ En los demás casos, el Estado estará representado en la forma que prevea la le
 
 ARTICULO 51 BIS.- Esta constitución reconoce que los órganos públicos autónomos, tendrán personalidad jurídica y patrimonio propios, plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna. Los titulares de los órganos públicos autónomos, así como los servidores públicos que en ellos presten sus servicios, se sujetarán a las disposiciones contenidas en esta Constitución y demás leyes que de ella emanen.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2020)</small>
+
+Cada uno de los nombramientos de las personas titulares o de los integrantes de los órganos colegiados de los órganos públicos autónomos se realizarán en apego al principio de paridad de género. En la estructura orgánica de estos órganos se promoverá este principio.
+
 ### CAPITULO II. Del Poder Legislativo
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
@@ -1197,6 +1205,10 @@ La Junta de Gobierno y Coordinación Política será el órgano colegiado encarg
 
 La ley determinará la integración, organización y atribuciones de cada uno de los citados órganos de gobierno.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2020)</small>
+
+ARTICULO 63 BIS.- La Legislatura contará con las dependencias que requiera para el cumplimiento de sus funciones y determine su Ley Orgánica. Los nombramientos de las personas titulares de dichas dependencias se realizarán en apego al principio de paridad de género. En la estructura orgánica del Poder Legislativo se promoverá este principio.
+
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 64.
@@ -1255,15 +1267,21 @@ I.- Al Gobernador del Estado.
 
 II.- A los Diputados a la Legislatura.
 
-III.- A los ayuntamientos, y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2020)</small>
+
+III.- A los Ayuntamientos;
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
 IV.- A los ciudadanos quintanarroenses, mediante escrito firmado por uno o más ciudadanos, en los términos que señale la Ley respectiva.
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 1996)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2020)</small>
 
-V.- Al Tribunal Superior de Justicia del Estado, en materia de legislación civil, penal, familiar, procesal de estas materias y en la legislación relativa a la organización y administración de justicia.
+V.- Al Tribunal Superior de Justicia del Estado, en la materia de su competencia, y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2020)</small>
+
+VI.- A los órganos públicos autónomos, en la materia de su competencia. La iniciativa se presentará por conducto de su presidente o titular, previo acuerdo de sus integrantes cuando se trate de un órgano colegiado.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1575,9 +1593,9 @@ La función de fiscalización será ejercida conforme a los principios de legali
 
 El Titular de la Auditoría Superior del Estado será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado. Los auditores especiales serán nombrados por el Titular de la Auditoría Superior del Estado, y ratificados por la Legislatura. Los auditores especiales auxiliarán al titular en sus funciones. El Titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Los auditores especiales, durarán en su encargo siete años, con la posibilidad de ser nombrados por un periodo adicional de tres años. El Titular de la Auditoría Superior del Estado podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por causas y conforme a los procedimientos previstos en el título octavo de esta Constitución. El Titular y los auditores especiales no podrán, durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
 
-Para ser Titular de la Auditoría Superior del Estado, se requiere cumplir los requisitos establecidos en las fracciones I, II, IV y V del artículo 101 de esta Constitución y los que señale la Ley de la materia. En todo caso, deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades. Para ser auditor especial, se deberán cubrir los mismos requisitos que para ser titular. La ley determinará el procedimiento para la designación y remoción del titular y los auditores especiales.
+Para ser Titular de la Auditoría Superior del Estado, se requiere cumplir los requisitos establecidos en las fracciones I, II, IV y V del artículo 101 de esta Constitución y los que señale la Ley de la materia. En todo caso, deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades. Para ser auditor especial, se deberán cubrir los mismos requisitos que para ser titular. La ley determinará el procedimiento para la designación y remoción del titular y los auditores especiales. La designación de la persona titular de la Auditoría Superior del Estado y los auditores especiales se realizarán en apego al principio de paridad de género. En la estructura orgánica de (sic) Auditoría Superior del Estado se promoverá este principio.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1790,6 +1808,10 @@ Son facultades del Gobernador:
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 1995)</small>
 
 I.- Nombrar y remover libremente a los Secretarios de Despacho de la Administración Pública Estatal y a los demás empleados y servidores públicos del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución o en las leyes del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2020)</small>
+
+Los nombramientos de las personas titulares de la Administración Pública centralizada y paraestatal se realizarán en apego al principio de paridad de género. En la estructura orgánica de la Administración Pública Estatal se promoverá este principio.
 
 II.- (DEROGADA, P.O. 9 DE JULIO DE 1998)
 
@@ -2055,6 +2077,10 @@ D.- La Fiscalía General contará, al menos, con una Fiscalía Especializada en 
 
 El nombramiento del fiscal se sujetará a la remisión de una terna por parte del Fiscal General del Estado a la Legislatura, quien deberá designar de entre los candidatos al Titular de la Fiscalía Especializada de Combate a la Corrupción, sujetándose al procedimiento que se establezca en la ley.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2020)</small>
+
+Asimismo, en el procedimiento de designación se observará el principio de paridad de género. En la estructura orgánica de esta Fiscalía especializada se promoverá este principio.
+
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
 El Fiscal Especializado en Combate a la Corrupción deberá cubrir los mismos requisitos para ser Fiscal General, así como haber nacido en el Estado o tener una residencia efectiva en él no menor de 5 años anteriores a la designación, y durará en su encargo siete años sin posibilidad de ser reelecto, teniendo también la obligación de presentar anualmente a la Legislatura en funciones, un informe de actividades. Al efecto comparecerá ante la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos en los términos que disponga la ley de la materia. Igualmente, el Fiscal Anticorrupción comparecerá ante el Poder Legislativo cuando se le cite a rendir cuentas o a informar sobre algún asunto en particular referente a su gestión, haciéndose esto de manera que no cause perjuicio a las investigaciones o a las funciones de Ministerio Público.
@@ -2189,15 +2215,15 @@ IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite
 
 V. Haber residido en el Estado durante los diez años anteriores al día de la designación.
 
-VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación, y
+VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación. y
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
 
 VII. No haber sido Gobernador, Secretario de Despacho o su equivalente, Fiscal General del Estado, Senador, Diputado Federal o Local, ni Presidente Municipal, durante el año previo al día de su designación.
 
-Los nombramientos de los Magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
+Los nombramientos de los Magistrados se realizarán en apego al principio de paridad de género, y deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -2341,7 +2367,9 @@ En los demás casos, las determinaciones del Consejo de la Judicatura serán def
 
 El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones, en los términos que señalen la Ley y el Reglamento que expida el propio Consejo.
 
-Invariablemente en Pleno, conocerá sobre la designación, adscripción, ratificación, licencias, renuncias y remoción de jueces de primera instancia y de paz.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
+
+Invariablemente en Pleno, conocerá sobre la designación, adscripción, ratificación, licencias, renuncias y remoción de jueces de primera instancia y de paz. Dicha designación se realizará en apego al principio de paridad de género. En la estructura orgánica del Poder Judicial se promoverá este principio.
 
 En comisiones ejercerá las funciones de administración, carrera judicial, disciplina y la de adscripción.
 
@@ -3427,9 +3455,13 @@ La extensión y límites de las cabeceras, alcaldías, delegaciones y subdelegac
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que se renovara cada tres años y residirá en la Cabecera Municipal. La competencia que esta Constitución otorga al Gobierno Municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
 
-Los Ayuntamientos deberán tomar posesión el día 30 de septiembre del año que corresponda, mediante ceremonia pública y solemne.
+Los Ayuntamientos se instalarán el día 30 de septiembre del año que corresponda, mediante ceremonia pública y solemne.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2020)</small>
+
+Al término de la sesión de instalación, el Ayuntamiento procederá en sesión ordinaria a nombrar por mayoría de votos de sus integrantes a quienes ejerzan la titularidad de la Secretaría General, de la Tesorería, del Órgano Interno de Control, de la Dirección de Seguridad Pública Municipal y de las Direcciones de Ingresos y Egresos de la Tesorería Municipal. Dichos nombramientos, se realizará (sic) en apego al principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -5446,3 +5478,17 @@ P.O. 6 DE MARZO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, sin perjuicio de lo establecido en el artículo transitorio siguiente.
 
 SEGUNDO. La Legislatura del Estado, deberá llevar a cabo las modificaciones necesarias en la legislación local, con el objeto de que una vez que éstas entren en vigor, las autoridades competentes asuman las facultades para el debido cumplimiento de lo previsto en el presente decreto y en las leyes que derivan del mismo en los términos que en ellas se establezcan.
+
+P.O. 14 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA NÚMERO: 001 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. Las reformas relativas a las fracciones III y V del artículo 68; y la adición de la fracción VI al artículo 68 entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Las demás reformas y adiciones objeto del presente decreto entrarán en vigor el día primero de enero de 2020 previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La observancia del principio de paridad será progresiva y aplicable a los nombramientos que se realicen a partir de la entrada en vigor del presente decreto.
+
+TERCERO. En un plazo no mayor a noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Poderes, los Ayuntamientos, los Órganos Públicos Autónomos, y demás entes públicos deberán realizar las adecuaciones que correspondan a sus reglamentos o normatividad interna.
+
+CUARTO. Se derogan aquellas disposiciones que contravengan el presente decreto.
