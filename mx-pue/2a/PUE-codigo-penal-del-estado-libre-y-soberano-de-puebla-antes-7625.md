@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2020-03-12"
+last_updated: "2020-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -4443,7 +4443,15 @@ IV.- Niegue o restrinja derechos laborales de cualquier tipo.
 
 Al servidor público que por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en este numeral, además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JULIO DE 2020)</small>
+
+Cuando la conducta sea cometida en contra de médicos, cirujanos, personal de enfermería y demás profesionales similares y auxiliares, del sector privado o público del área de la salud, durante el periodo que comprenda la declaración de una emergencia sanitaria, la pena de prisión incrementará de tres a seis años.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO Y REUBICADO], P.O. 14 DE JULIO DE 2020)</small>
+
 No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO Y REUBICADO], P.O. 14 DE JULIO DE 2020)</small>
 
 Este delito se perseguirá por querella de la parte ofendida.
 
@@ -5777,6 +5785,12 @@ Para efectos de lo anterior, el juez deberá considerar, en caso de que el respo
 
 Tratándose de delitos cometidos contra servidores públicos en el ejercicio de sus funciones de seguridad pública, las sanciones se aumentarán hasta en un tercio.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2020)</small>
+
+###### Artículo 438 Bis.
+
+Tratándose de delitos cometidos en contra de médicos, cirujanos, personal de enfermería y demás profesionales similares y auxiliares del sector privado o público que presten servicios de salud en términos de la ley de la materia, que en ejercicio de sus funciones o derivado de las mismas, durante el periodo que comprenda la declaración de una emergencia sanitaria, la pena aumentará en un tanto, además de la que corresponda por el o los delitos cometidos.
+
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 439.
@@ -6868,6 +6882,14 @@ TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones
 P.O. 12 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 190 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER Y CUARTO PÁRRAFOS DEL ARTÍCULO 357, ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 357, Y EL 438 BIS, AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
