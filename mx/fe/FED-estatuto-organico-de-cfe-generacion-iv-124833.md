@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-iv-124833"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-15"
-last_updated: "2018-05-18"
+last_updated: "2020-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124833&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-03-29"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN IV
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2020.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 2017.
 
@@ -83,9 +83,13 @@ II. Dirección General.
 
 2. Subgerencia de Producción Hidroeléctrica.
 
-3. Subgerencia de Producción Termoeléctrica.
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2020)</small>
 
-4. Subgerencia de Administración y Recursos Humanos.
+2. Subgerencia de Producción Termoeléctrica Noreste.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2020)</small>
+
+3. Subgerencia de Producción Termoeléctrica Centro Norte.
 
 5. Unidad de Control de Gestión y Desempeño.
 
@@ -131,9 +135,11 @@ Los consejeros podrán designar a sus respectivos suplentes, salvo por el consej
 
 Los consejeros del Gobierno Federal podrán ser o no servidores públicos al momento de su designación. Cuando el Director General de la Comisión designe a otra persona en la Presidencia del Consejo, este consejero no podrá participar en otros consejos de Empresas Productivas Subsidiarias o Empresas Filiales de Generación o Suministro Básico.
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 7.
 
-Que dicho Consejo cuenta con las funciones que se establecen en el artículo 14 de su acuerdo de creación, las demás previstas en los ordenamientos normativos aplicables y con la función de designar a propuesta del Director General, al Coordinador de Producción, al Subgerente de Generación Termoeléctrica, al Subgerente de Generación Hidroeléctrica, al Subgerente de Administración y Recursos Humanos, al Jefe de Departamento de Planeación y Finanzas y al Jefe de Departamento Jurídico.
+Que dicho Consejo cuenta con las funciones que se establecen en el artículo 14 de su acuerdo de creación, las demás previstas en los ordenamientos normativos aplicables y con la función de designar a propuesta del Director General, al Coordinador de Producción, a los Subgerentes de Producción Termoeléctrica, al Subgerente de Administración y Recursos Humanos, al Jefe de Departamento de Planeación y Finanzas y al Jefe de Departamento Jurídico.
 
 ###### ARTÍCULO 8.
 
@@ -187,7 +193,9 @@ XII. Dirigir la planeación estratégica de asociaciones, alianzas y nuevos nego
 
 XIII. Nombrar al Encargado del Enlace de Control Interno; a los Jefes de Departamento de Ingeniería Especializada; Optimización y Gestión de Energía; Calidad, Seguridad y Ambiental; Tecnologías de la Información; al Jefe de Unidad de Control de Gestión y Desempeño; al Titular de la Unidad de Transparencia y a los Superintendentes de Central;
 
-XIV. Proponer al Consejo, la designación del Coordinador de Producción, del Subgerente de Producción Hidroeléctrica, del Subgerente de Producción Termoeléctrica, del Subgerente de Administración y Recursos Humanos, del Jefe de Departamento de Planeación y Finanzas y del Jefe de Departamento Jurídico;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XIV. Proponer al Consejo, la designación del Coordinador de Producción, de los Subgerentes de Producción Termoeléctrica, del Subgerente de Administración y Recursos Humanos, del Jefe de Departamento de Planeación y Finanzas y del Jefe de Departamento Jurídico;
 
 XV. Autorizar la estructura y plantilla de personal para la operación de CFE Generación IV, que no corresponda a la estructura orgánica básica prevista en este Estatuto;
 
@@ -377,49 +385,95 @@ XXXI. Supervisar y coadyuvar al cumplimiento de las políticas establecidas por 
 
 XXXII. Las demás que le resulten necesarias para el cumplimiento de las facultades conferidas y la resolución de los asuntos que son de su competencia, así como las que le otorgue el Consejo, el Director General, los manuales o normatividad interna y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 15.
 
-A la Subgerencia de Producción Hidroeléctrica, le corresponde, además de las funciones genéricas señaladas en el artículo 14 de este Estatuto, las siguientes:
+A la Subgerencia de Producción Termoeléctrica Noreste, le corresponde, además de las funciones genéricas señaladas en el artículo 14 de este Estatuto, las siguientes:
 
 I. Normar y unificar criterios a utilizar en los diversos aspectos técnicos - administrativos que surjan en el ámbito de las Centrales a su cargo;
 
-II. Supervisar el cumplimiento de los indicadores financieros y de rentabilidad, garantizar el cumplimiento de confiabilidad técnica y asegurar el óptimo manejo de la información;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
 
-III. Supervisar el cumplimiento de las políticas establecidas por el Consejo de Administración, Dirección General en el ámbito de las Centrales a su cargo;
+II. Supervisar el cumplimiento de los indicadores financieros y de rentabilidad de las Centrales a su cargo;
 
-IV. Verificar el desarrollo y cumplimiento de los programas de mantenimiento, modernización, mejoras y construcción, así como el desarrollo de proyectos de ingeniería y cumplir en tiempo y forma en el ámbito de las Centrales a su cargo;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
 
-V. Colaborar en la formulación de la planeación operativa, para diseñar los objetivos, planes operativos y financieros, ejecutándolos a través de las Superintendencias Generales de las Centrales a su cargo;
+III. Garantizar que los aspectos de confiabilidad técnica se cumplan;
 
-VI. Coordinar la aplicación de las políticas para la operación de Centrales Hidroeléctricas de CFE Generación IV;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
 
-VII. Establecer la normatividad para la operación, conservación y mantenimiento de las instalaciones de la Generación Hidroeléctrica;
+IV. Asegurar el óptimo manejo de la información atendiendo las políticas establecidas por el Consejo de Administración y la Dirección General en el ámbito de las Centrales a su cargo;
 
-VIII. Coordinar la realización de estudios de comportamiento de Centrales Hidroeléctricas y proponer al Director General las acciones tendientes a optimizar su funcionamiento;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
 
-IX. Coordinar los estudios para mejorar los sistemas de procesos de Generación Hidroeléctrica;
+V. Verificar el desarrollo y cumplimiento de los programas de mantenimiento, modernización, mejoras y construcción de las Centrales a su cargo;
 
-X. Verificar el comportamiento de las Unidades Generadoras en las pruebas que se realizan periódicamente para determinar su eficiencia;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
 
-XI. Integrar los informes de comportamiento de las Unidades Generadoras para la supervisión y control del desempeño de las mismas;
+VI. Seguimiento y supervisión al desarrollo de proyectos de ingeniería en el ámbito de las Centrales a su cargo;
 
-XII. Participar con el Director General en el diseño de metas y objetivos de las Centrales Hidroeléctricas de su adscripción;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
 
-XIII. Garantizar que los aspectos de confiabilidad técnica de las Unidades Generadoras de energía eléctrica que estén bajo su control se cumplan;
+VII. Diseñar objetivos, planes operativos y concretar su ejecución a través de las Superintendencias Generales de las Centrales a su cargo;
 
-XIV. Coordinar las actividades relacionadas con los diagnósticos de fallas de las Unidades Generadoras de energía eléctrica que estén bajo su control, participando activamente como experto técnico en la identificación de la causa raíz, así como su posterior reparación;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
+VIII. Coordinar la realización de estudios de comportamiento de las Centrales a su cargo y proponer las acciones tendientes a optimizar su funcionamiento;
 
-XV. Coadyuvar como experto técnico en los procesos de elaboración de requisiciones de bienes, servicios y obras con destino a las Centrales Hidroeléctricas de su adscripción, con el objeto de garantizar el cumplimiento de las especificaciones técnicas requeridas;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
 
-XVI. Coordinar las visitas de supervisión técnica a las Centrales Hidroeléctricas que estén bajo su control, así como dar seguimiento a los hallazgos técnicos que en su caso se detecten; y
+IX. Coordinar los estudios para mejorar los sistemas de procesos de Generación Termoeléctrica y de Generación Hidroeléctrica;
 
-XVII. Asegurar el cumplimiento a las pruebas periódicas de comportamiento de las Unidades Generadoras para determinar su eficiencia.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+X. Participar en la elaboración de proyectos de mejora de las Centrales a su cargo, así como coordinar, vigilar y supervisar los programas de desarrollo y modernización de sistemas inherentes a los procesos de generación y garantizar la calidad de las operaciones;
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XI. Verificar el comportamiento de las Unidades Generadoras en las pruebas que se realizan periódicamente para así determinar su eficiencia;
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XII. Integrar los informes de comportamiento de las Unidades Generadoras para la supervisión y control del desempeño de las mismas;
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XIII. Participar con el Director General en el diseño de metas y objetivos de las Centrales de su adscripción;
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XIV. Coadyuvar en la elaboración e implementación de las políticas de operación de las Centrales de su adscripción;
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XV. Coordinar las actividades relacionadas con los diagnósticos de fallas de las Unidades Generadoras de energía eléctrica que estén bajo su control, participando activamente como experto técnico en la identificación de la causa raíz, así como su posterior reparación;
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XVI. Coadyuvar como experto técnico en los procesos de elaboración de requisiciones de bienes, servicios y obras con destino a las Centrales de su adscripción, con el objeto de garantizar el cumplimiento de las especificaciones técnicas requeridas;
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XVII. Coordinar las visitas de supervisión técnica a las Centrales que estén bajo su control, así como dar seguimiento a los hallazgos técnicos que en su caso se detecten;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XVIII. Asegurar el cumplimiento a las pruebas periódicas de comportamiento de las Unidades Generadoras para determinar su eficiencia;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XIX. Coordinar la aplicación de las políticas para la operación de las Centrales a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XX. Establecer la normatividad para la operación, conservación y mantenimiento de las instalaciones de la Generación Hidroeléctrica y de Generación Termoeléctrica;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 16.
 
-A la Subgerencia de Producción Termoeléctrica, le corresponde, además de las funciones genéricas señaladas en el artículo 14 de este Estatuto, las siguientes:
+A la Subgerencia de Producción Termoeléctrica Centro Norte, le corresponde, además de las funciones genéricas señaladas en el artículo 14 de este Estatuto, las siguientes:
 
 I. Normar y unificar criterios a utilizar en los diversos aspectos técnicos - administrativos que surjan en el ámbito de las Centrales a su cargo;
 
@@ -489,6 +543,10 @@ XIII. Supervisar con apoyo del Departamento Jurídico, en la elaboración de los
 
 XIV. Supervisar con apoyo del Departamento Jurídico, el dictamen de las actas administrativas que en ámbito de competencia de CFE Generación IV tengan lugar.
 
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XV. Coordinar las funciones del Departamento de Planeación y Finanzas.
+
 ### CAPÍTULO III. De la Unidad
 
 ###### ARTÍCULO 18.
@@ -513,7 +571,7 @@ VIII. Asegurar el cumplimiento de las políticas del sistema de control interno;
 
 IX. Establecer los mecanismos que puedan derivarse del desarrollo de las actividades de su área;
 
-X. Dirigir el plan de comunicación interna que asegure la difusión de los sistemas de control interno que permita: prever, identificar, administrar, dar seguimiento y evaluar los riesgos en todos los niveles de CFE Generación IV;
+X. (DEROGADA, D.O.F. 15 DE JULIO DE 2020)
 
 XI. Prevenir, detectar y canalizar con las instancias y autoridades competentes, los actos y omisiones que puedan constituir prácticas de corrupción en el ámbito de CFE Generación IV;
 
@@ -653,6 +711,14 @@ XIII. Analizar la información que se envía al MEM y participar junto con las �
 
 XIV. Gestionar riesgos de cara al mercado y proponer instrumentos de cobertura para reducir o eliminar el riesgo de fluctuaciones adversas en los precios de mercado;
 
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XV. Gestionar el suministro de energéticos mediante la administración de contratos maestros para la operación de las Centrales Eléctricas;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+XVI. Gestionar la resolución de controversias originadas por la participación en el Mercado Eléctrico Mayorista y suministro de combustibles.
+
 ###### ARTÍCULO 22.
 
 Al Departamento de Planeación y Finanzas, le corresponde las siguientes funciones:
@@ -667,7 +733,9 @@ IV. Normar la aplicación de la legislación en materia fiscal en el ámbito de 
 
 V. Elaborar y presentar los estudios de análisis y evaluación financiera de CFE Generación IV;
 
-VI. Coordinar la atención, por parte de las áreas que competan, de los asuntos que se deriven de las observaciones hechas por los órganos fiscalizadores de CFE Generación IV;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+VI. Coadyuvar en la atención de los asuntos que se deriven de las observaciones hechas por los órganos fiscalizadores de CFE Generación IV;
 
 VII. Asegurar el cumplimiento de metas financieras con base en objetivos estratégicos definidos, dotando de la información financiera a las áreas que lo requieran; dando seguimiento a métricas financieras;
 
@@ -675,7 +743,9 @@ VIII. Identificar y analizar programas y proyectos de inversión, identificando 
 
 IX. Supervisar la correcta aplicación del presupuesto de ingresos y egresos, sin perjuicio de lo que determine el Consejo;
 
-X. Elaborar y someter a la consideración del Director General el Plan de Negocios anual de CFE Generación IV;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2020)</small>
+
+X. Colaborar en la elaboración y someter a la consideración de la Subgerencia de Administración y Recursos Humanos y el Director General, el Plan de Negocios Anual de CFE Generación IV;
 
 XI. Analizar el entorno y la perspectiva de los mercados financieros en el ámbito de CFE Generación IV;
 
@@ -873,59 +943,67 @@ XXVI. Supervisar, coadyuvar e Informar al Subgerente sobre el cumplimiento de la
 
 XXVII. Las demás que le resulten necesarias para el cumplimiento de las funciones conferidas y la resolución de los asuntos que son de su competencia, así como las que le otorgue el Director General, Coordinador de Producción y el Subgerente.
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2020)</small>
 
 ###### ARTÍCULO 27.
 
-Las Centrales estarán jerárquicamente subordinadas a las Subgerencias Producción a las cuales se encuentren adscritas, y con las funciones genéricas y especificas previstas en este Estatuto, los manuales o normatividad interna y demás ordenamientos legales aplicables. CFE Generación IV cuenta con las siguientes Centrales:
+CFE Generación IV cuenta con las siguientes Centrales, las cuales se encuentran adscritas a las Subgerencias de Producción Termoeléctrica en los términos que se indican:
 
-I. Central Ciclo Combinado Samalayuca II, en Cd. Juárez, Chihuahua.
+Subgerencia de Producción Termoeléctrica Noreste:
 
-II. Central Termoeléctrica Benito Juárez (Samalayuca), en Cd. Juárez, Chihuahua.
+I. Central Termoeléctrica Carbón II
 
-III. Central Termoeléctrica Pdte. Plutarco Elías Calles (Petacalco), en La Unión de Isidoro de Montes de Oca, Guerrero.
+II. C.C.C. Pdte. Emilio Portes Gil (Río Bravo).
 
-IV. Central Termoeléctrica Manzanillo II, en Manzanillo, Colima.
+III. C.T. José López Portillo (Río Escondido)
 
-V. Central Termoeléctrica Punta Prieta, en La Paz, Baja California Sur.
+IV. C.TG. Huinalá
 
-VI. Central Turbo Gas Laguna, en Gómez Palacio, Durango.
+V. C.H. La Amistad
 
-VII. Central Turbo Gas Chávez, en Francisco I. Madero, Coahuila.
+VI. C.H. Falcón
 
-VIII. Central Turbo Gas Juárez, en Cd. Juárez, Chihuahua.
+VII. C.T. Villa de Reyes
 
-IX. Central Turbo Gas Monclova, en Monclova, Coahuila.
+VIII. C.TG. Universidad (TG. Monterrey)
 
-X. Central Turbo Gas Tecnológico, en Monterrey, Nuevo León.
+IX. C.TG. Leona (TG. Monterrey)
 
-XI. Central Turbo Gas Universidad, en Monterrey, Nuevo León.
+X. C.TG. Fundidora (TG. Monterrey)
 
-XII. Central Turbo Gas Fundidora, en Monterrey, Nuevo León.
+XI. C.TG. Tecnológico (TG. Monterrey)
 
-XIII. Central Turbo Gas Leona, en San Pedro Garza García, Nuevo León.
+XII. C.TG. Monclova
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
+XIII. C.T. Altamira
 
-XIV. Central Turbo Gas 229 TG Baja California II Fase I, en Playas de Rosarito, Baja California Norte.
+XIV. C.T. Pdte. Emilio Portes Gil (Río Bravo)
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
+XV. C.C.C. Huinalá
 
-XV. Central Turbo Gas Tijuana, en Playas de Rosarito, Baja California Norte.
+XVI. C.C.C. Huinalá II (Monterrey II)
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
+Subgerencia de Producción Termoeléctrica Centro Norte
 
-XVI. Central Turbo Gas La Paz, en la Paz, Baja California Sur.
+I. C.T. Benito Juárez (Samalayuca)
 
-XVII. Central Hidroeléctrica Belisario Domínguez (Angostura), en Venustiano Carranza, Chiapas.
+II. C C.C. Gómez Palacio
 
-XVIII. Central Hidroeléctrica Manuel Moreno Torres (Chicoasén), en Chicoasén, Chiapas.
+III. C.C.C. Samalayuca II
 
-XIX. Proyecto Central Hidroeléctrica Angostura II, en Acala-Chilapan, Chiapas. [para 2021].
+IV. C TG. Parque (TG. Juárez)
 
-XX. Proyecto Central Hidroeléctrica Chicoasén II, en Chicoasén, Chiapas. [para 2018].
+V. C TG. Industrial (TG. Juárez)
 
-XXI. Proyecto Central Ciclo Combinado Empalme II, en Guaymas, Sonora. [para 2018].
+VI. C.TG. Chávez (TG. Laguna-Chávez)
+
+VII. C.TG. La Laguna (TG. Laguna-Chávez)
+
+VIII. C.T. Francisco Villa
+
+IX. C.T. Guadalupe Victoria (Lerdo)
+
+X. C.C.C. Chihuahua II (El Encino)
 
 ### CAPÍTULO VI. Del Personal de CFE Generación IV
 
@@ -941,9 +1019,11 @@ El Director General, nombrará a un Titular de la Unidad de Transparencia de CFE
 
 ## TÍTULO VII. De la Representación y Suplencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 30.
 
-Durante las ausencias del Director General, será suplido por el Coordinador de Producción, el Subgerente de Producción Termoeléctrica, El Subgerente de Producción Hidroeléctrica ó el Subgerente de Administración y Recursos Humanos, en ese orden.
+Durante las ausencias del Director General, será suplido por el Coordinador de Producción, los Subgerentes de Producción Termoeléctrica o el Subgerente de Administración y Recursos Humanos que designe.
 
 En toda clase de juicios, especialmente, en los de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, contestación de demandas e interposición del recurso de revisión al que se refiere la Ley Federal de Procedimiento Contencioso Administrativo será representado por el Jefe del Departamento Jurídico, el Coordinador de Producción ó el Subgerente de Administración y Recursos Humanos, en ese orden.
 
@@ -988,3 +1068,9 @@ D.O.F. 18 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DE LAS "ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN IV, PUBLICADO EL 15 DE DICIEMBRE DE 2017".]
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN IV, PUBLICADO EL 15 DE DICIEMBRE DE 2017”.]
+
+UNICO: El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
