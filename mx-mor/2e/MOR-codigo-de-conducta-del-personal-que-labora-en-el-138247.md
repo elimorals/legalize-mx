@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-personal-que-labora-en-el-138247"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-18"
-last_updated: "2019-09-18"
+last_updated: "2020-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL PERSONAL QUE LABORA EN EL FIDEICOMISO "CASA DE CULTURA JUAN SORIANO" O "MUSEO MORELENSE DE ARTE CONTEMPORANEO" O "MUSEO MORELENSE DE ARTE CONTEMPORANEO JUAN SORIANO" O "MMAC" DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2020 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DEL PERSONAL QUE LABORA EN EL FIDEICOMISO “CASA DE CULTURA JUAN SORIANO” O “MUSEO MORELENSE DE ARTE CONTEMPORÁNEO” O “MUSEO MORELENSE DE ARTE CONTEMPORÁNEO JUAN SORIANO” O “MMAC”
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE JULIO DE 2020.]</small>
 
 Código publicado en el Número 5745 del Periódico Oficial del Estado de Morelos, el miércoles 18 de septiembre de 2019.
 
@@ -147,7 +147,11 @@ h) Respeto a los Derechos Humanos.
 
 ### CAPÍTULO IV. SENTIDO Y ALCANCE DE LOS PRINCIPIOS RECTORES
 
-ARTÍCULO 4 (SIC). Todo el personal del MMAC, de acuerdo a la función organizacional y en el ámbito de su competencia, deberán observar y sujetar su actuación de acuerdo a lo siguiente:
+> <small>(F. DE E., P.O. 15 DE JULIO DE 2020)</small>
+
+###### ARTÍCULO 5.
+
+Todo el personal del MMAC, de acuerdo a la función organizacional y en el ámbito de su competencia, deberán observar y sujetar su actuación de acuerdo a lo siguiente:
 
 a) Realizar sus actividades y labores cotidianas con dedicación y esmero;
 
@@ -171,7 +175,13 @@ j) Evitar los comentarios, rumores, aseveraciones y críticas sin fundamento, o 
 
 k) Garantizar que la correspondencia, documentación y comunicación de carácter oficial, escrita o electrónica que elabore y genere conforme al cargo público desempeñado, sea con estricto apego a la legalidad, formalidad, confiabilidad y objetividad para la buena marcha del servicio público.
 
-###### ARTÍCULO 5.
+> <small>(F. DE E., P.O. 15 DE JULIO DE 2020)</small>
+
+### CAPÍTULO V. SENTIDO Y ALCANCE DE LOS VALORES
+
+> <small>(F. DE E., P.O. 15 DE JULIO DE 2020)</small>
+
+###### ARTÍCULO 6.
 
 El personal del MMAC atenderá y respetará los valores durante su actuación, debiendo observar lo siguiente:
 
@@ -192,8 +202,6 @@ g) Guardar probidad, moralidad y respeto en las relaciones interpersonales en el
 h) Hacer que la experiencia, preparación, especialización en su ámbito laboral y/o profesional, con conocimientos actualizados le permitan desarrollar su cargo, empleo o comisión de forma eficiente en sus labores diarias; y,
 
 i) Abstenerse o excusarse de intervenir en la atención, trámite, resolución de asuntos, así como, en la celebración o autorización de pedidos o contratos en materia de adquisiciones, obra pública y bienes cuando pueda tener conflicto de intereses o un interés particular que genere beneficios propios o para las personas con las que tenga o ha tenido parentesco familiar, o por afinidad, o profesionales, laborales o de negocios.
-
-### CAPÍTULO IV (SIC). SENTIDO Y ALCANCE DE LOS VALORES
 
 ## TRANSITORIOS
 
