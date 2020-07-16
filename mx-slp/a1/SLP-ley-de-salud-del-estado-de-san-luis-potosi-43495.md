@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2020-04-30"
+last_updated: "2020-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1063,17 +1063,25 @@ I. La atención médica ginecológica de la madre durante el embarazo, el parto 
 
 II. La atención de la niña o niño al nacer, la vigilancia de su crecimiento y desarrollo, incluyendo para ello el tamiz oftalmológico, la estimulación temprana, y la promoción de la vacunación oportuna;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2020)</small>
 
-III. La promoción e información sobre: 7 (sic) derechos sexuales y reproductivos, métodos anticonceptivos, planificación familiar, integración y el bienestar familiar, fomentando la responsabilidad de la madre y el padre en el crecimiento y desarrollo de sus hijas e hijos, y
+III. La promoción e información sobre: 7 (sic) derechos sexuales y reproductivos, métodos anticonceptivos, planificación familiar, integración y el bienestar familiar, fomentando la responsabilidad de la madre y el padre en el crecimiento y desarrollo de sus hijas e hijos;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2020)</small>
 
-IV. La promoción de la integración y el bienestar familiar, fomentando la responsabilidad de madres y padres en el crecimiento y desarrollo de sus hijas e hijos.
+IV. La promoción de la integración y el bienestar familiar, fomentando la responsabilidad de madres y padres en el crecimiento y desarrollo de sus hijas e hijos, y
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2020)</small>
+
+V. Establecer, garantizar y divulgar del derecho de todas las mujeres a estar acompañadas por una persona de su confianza, durante el trabajo de parto y el postparto, con fines de apoyo psicológico.
 
 > <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2016)</small>
 
 ARTICULO 51 BIS. Los servicios de salud a que hace referencia el artículo 29 de la presente Ley, prestarán atención expedita a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2020)</small>
+
+Los servicios públicos de salud deben otorgar al menos cinco consultas prenatales para las mujeres embarazadas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento, o ausencia de éste.
 
 ###### ARTICULO 52.
 
@@ -1141,11 +1149,15 @@ III. La vigilancia de actividades ocupacionales que puedan poner en peligro la s
 
 IV. Acciones relacionadas con educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta;
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2020)</small>
 
-V. Programas y acciones tendientes a incorporar la perspectiva de género dentro de la sociedad, así como a combatir la violencia en contra de las personas, y
+V. Programas y acciones tendientes a incorporar la perspectiva de género dentro de la sociedad, así como a combatir la violencia en contra de las personas;
 
-VI. Las demás que coadyuven a la salud materno-infantil.
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2020)</small>
+
+VI. Acciones relacionadas con la estimulación temprana en los menores de cinco años, a fin de potenciar sus capacidades de cognición, motriz, lenguaje y socio-emocional, y
+
+VII. Las demás que coadyuven a la salud materno-infantil.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -4558,3 +4570,19 @@ PRIMERO. La presente sustituye la Minuta de Decreto aprobada en sesión ordinari
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0717.- SE REFORMA EL ARTÍCULO 55 EN SU FRACCIÓN V; Y ADICIONA AL MISMO ARTÍCULO 55 UNA FRACCIÓN, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0718.- SE REFORMA EL ARTÍCULO 51 EN SUS FRACCIONES III Y IV; Y ADICIONA A LOS ARTÍCULOS 51 LA FRACCIÓN V Y 51 BIS EL PÁRRAFO SEGUNDO, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
