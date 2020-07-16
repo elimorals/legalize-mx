@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2020-06-25"
+last_updated: "2020-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -147,9 +147,17 @@ XXXIII. La conservación, rehabilitación, protección, preservación y mejorami
 
 XXXIV. La introducción de vivienda que promueva el re densificación (sic) de zonas con valores históricos y culturales, centros históricos y pueblos mágicos;
 
-XXXV. La concertación de la inversión pública y privada e incentivos para la vivienda de zonas con valores históricos y culturales, centros históricos y pueblos mágicos, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2020)</small>
 
-XXXVI. El fomento, coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano.
+XXXV. La concertación de la inversión pública y privada e incentivos para la vivienda de zonas con valores históricos y culturales, centros históricos y pueblos mágicos;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2020)</small>
+
+XXXVI. El fomento, coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano, y
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2020)</small>
+
+XXXVII. La homologación de la información que deben contener las placas de la nomenclatura de las vialidades.
 
 ### Capítulo II. Definiciones
 
@@ -272,6 +280,10 @@ LVI. Mobiliario Urbano: conjunto de instalaciones en la vía pública que comple
 LVII. Movilidad: capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
 
 LVIII. Municipalización: acto mediante el cual se realiza la entrega recepción por parte del fraccionador al Ayuntamiento, de los bienes inmuebles, equipo, mobiliario e instalaciones de un fraccionamiento destinados a los servicios públicos y de las obras de urbanización del mismo, habiendo cumplido con lo dispuesto en esta Ley y demás disposiciones aplicables (sic) se encuentran en posibilidad de operar, permitiendo al Municipio, en la esfera de su competencia, prestar los servicios públicos necesarios;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2020)</small>
+
+LVIII BIS. Nomenclatura de las calles y vialidades urbanas: es la información urbanística que deben contener las placas que identifican a las calles y vialidades del perímetro urbano;
 
 LIX. Obras de edificación: construcciones e instalaciones de adecuación espacial necesarias, para permitir su uso o destino;
 
@@ -447,9 +459,17 @@ I. Realizar acciones, inversiones, obras o servicios en materia de desarrollo ur
 
 II. Fraccionar, relotificar, modificar la intensidad de uso habitacional, fusionar o subdividir áreas y predios, así como realizar modificaciones, para los fines que señala este ordenamiento, independientemente del régimen de propiedad a que estén sujetos;
 
-III. Promover y operar desarrollos inmobiliarios especiales, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2020)</small>
 
-IV. Construir, reconstruir, ampliar, reparar, modificar o demoler inmuebles, así como instalar o retirar anuncios.
+III. Promover y operar desarrollos inmobiliarios especiales;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2020)</small>
+
+IV. Construir, reconstruir, ampliar, reparar, modificar o demoler inmuebles, así como instalar o retirar anuncios, y
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2020)</small>
+
+V. Instalar, modificar o retirar las placas oficiales que contienen la nomenclatura de las calles y vialidades de la ciudad.
 
 ### Capítulo VI. Reglamentación, Aplicabilidad y Supletoriedad
 
@@ -5067,7 +5087,9 @@ VIII. Pavimento de calles con los materiales autorizados conforme al Reglamento 
 
 IX. Arbolado y jardinería en las áreas destinadas a ese fin. El tipo de árboles y las características de la jardinería atenderán al tipo de vegetación de la región, evitando la siembra de árboles que dañen la infraestructura, o en su caso a las disposiciones de la Dirección o área de Ecología del Municipio;
 
-X. Placas de nomenclatura y señalamientos viales en los cruces de las calles, conforme lo determine la normatividad aplicable, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2020)</small>
+
+X. Placas de nomenclatura, señalamientos viales en los cruces de las calles, y numeración oficial, conforme lo determine la autoridad municipal y la normatividad aplicable, y
 
 XI. Hidrantes contra incendios, cuando la red hidráulica así lo permita.
 
@@ -6846,6 +6868,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE JUNIO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0693.- SE REFORMA EL ARTÍCULO 32 EN SU FRACCIÓN V EL INCISO C), DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0719.- SE REFORMA LOS ARTÍCULOS 3° EN SUS FRACCIONES XXXV Y XXXVI, 8º EN SUS FRACCIONES III Y IV Y 330 EN SU FRACCIÓN X; Y ADICIONA A LOS ARTÍCULOS 3º LA FRACCIÓN XXXVII, 4º LA FRACCIÓN LVIII BIS Y 8º LA FRACCIÓN V, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
