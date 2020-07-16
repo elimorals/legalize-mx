@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-funcion-publica-1425
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-04-16"
-last_updated: "2020-04-16"
+last_updated: "2020-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142552&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-04-07"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2020.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 16 de abril de 2020.
 
@@ -153,7 +153,9 @@ C. Unidades de Responsabilidades en las Empresas Productivas del Estado:
 
 2. Titularidad del Área de Responsabilidades;
 
-IV. Subsecretaría de Combate a la Corrupción:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2020)</small>
+
+IV. Subsecretaría de Fiscalización y Combate a la Corrupción:
 
 A. Unidad de Control, Evaluación y Mejora de la Gestión Pública:
 
@@ -175,7 +177,9 @@ C. Unidad de Auditoría a Contrataciones Públicas:
 
 D. Dirección General de Fiscalización del Patrimonio Público Federal;
 
-V. Subsecretaría de Combate a la Impunidad:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2020)</small>
+
+V. Subsecretaría de Responsabilidades y Combate a la Impunidad:
 
 A. Unidad de Política de Recursos Humanos de la Administración Pública Federal:
 
@@ -1201,7 +1205,9 @@ XX. Coordinar la elaboración de las propuestas de sistemas, mecanismos o accion
 
 XXI. Establecer los sistemas, mecanismos y procedimientos para captar y dar trámite a las alertas y denuncias que se presenten a esta Coordinación y verificar el seguimiento de las mismas por parte de las Unidades Administrativas competentes de la Secretaría, cuyos resultados deberán ser reportados a esta Coordinación;
 
-XXII. Coordinar con la Subsecretaría de Combate a la Corrupción la realización de auditorías, visitas, supervisiones, inspecciones e informes de resultados, derivados de la instauración de los mecanismos de vigilancia ciudadana, de los mecanismos y sistemas de Ciudadanos Alertadores Internos y Externos de la Corrupción, de las estrategias de Ciudadanización y esquemas de Contraloría Social en la Administración Pública Federal, así como en las entidades federativas, municipios, y alcaldías de la Ciudad de México respecto de los recursos públicos federales que se les hayan transferido;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XXII. Coordinar con la Subsecretaría de Fiscalización y Combate a la Corrupción la realización de auditorías, visitas, supervisiones, inspecciones e informes de resultados, derivados de la instauración de los mecanismos de vigilancia ciudadana, de los mecanismos y sistemas de Ciudadanos Alertadores Internos y Externos de la Corrupción, de las estrategias de Ciudadanización y esquemas de Contraloría Social en la Administración Pública Federal, así como en las entidades federativas, municipios, y alcaldías de la Ciudad de México respecto de los recursos públicos federales que se les hayan transferido;
 
 XXIII. Solicitar a los órganos de control estatales, a través de los acuerdos de coordinación respectivos, la realización de auditorías, visitas de inspección y la emisión de informes de resultados, derivados de la instauración de los mecanismos de vigilancia ciudadana, estrategias de Ciudadanización y esquemas de Contraloría Social, así como promover la integridad empresarial respecto del ejercicio de recursos públicos federales de los fondos y programas transferidos a las entidades federativas, municipios, y alcaldías de la Ciudad de México;
 
@@ -1607,7 +1613,9 @@ VII. Emitir las resoluciones que procedan respecto de los recursos de revocació
 
 VIII. Emitir las resoluciones que correspondan respecto de los recursos de revisión que se interpongan en contra de las resoluciones emitidas por los titulares de las áreas de responsabilidades en los procedimientos de inconformidad, intervenciones de oficio y sanciones a personas físicas o morales, previstos en las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
 
-IX. Llevar los procedimientos de conciliación previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, en los casos en que la persona titular de la Secretaría así lo determine, sin perjuicio de que los mismos podrán ser atraídos mediante acuerdo de la persona titular de la Subsecretaría de Combate a la Corrupción;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+IX. Llevar los procedimientos de conciliación previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, en los casos en que la persona titular de la Secretaría así lo determine, sin perjuicio de que los mismos podrán ser atraídos mediante acuerdo de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción;
 
 X. Realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando a la persona titular de la Secretaría, así como expedir las copias certificadas de los documentos que se encuentren en los archivos del Órgano Interno de Control;
 
@@ -1841,9 +1849,11 @@ Para efectos de la Ley de Responsabilidades, en ningún caso la función de auto
 
 La persona titular de la Secretaría podrá encargar el despacho de los asuntos de un Órgano Interno de Control en una Entidad, a la persona titular del Órgano Interno de Control en la Dependencia coordinadora de sector o a la persona titular del Órgano Interno de Control en otra Entidad del mismo sector. En su caso, las personas titulares de las áreas de responsabilidades, quejas, denuncias e investigaciones y auditoría interna, de desarrollo y mejora de la gestión pública del Órgano Interno de Control en la Entidad correspondiente, reportarán directamente al respectivo encargado del despacho.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2020)</small>
+
 ###### Artículo 41.
 
-La Subsecretaría de Combate a la Corrupción tiene las atribuciones siguientes:
+La Subsecretaría de Fiscalización y Combate a la Corrupción tiene las atribuciones siguientes:
 
 I. Acordar con la persona titular de la Secretaría los asuntos de las Unidades Administrativas que tenga adscritas;
 
@@ -1929,13 +1939,21 @@ La Unidad de Control, Evaluación y Mejora de la Gestión Pública tiene las atr
 
 I. Supervisar el sistema de control interno a fin de prevenir riesgos de operación en el cumplimiento de objetivos y metas; evitar dispendios por parte de las Dependencias y Entidades; vigilar la realización de la Evaluación de la Gestión Gubernamental, respecto del cumplimiento de su mandato legal, y de las disposiciones contenidas en la planeación nacional, así como verificar que estas implementen estrategias y acciones de mejora de la gestión para incrementar la eficacia y eficiencia;
 
-II. Proponer a la persona titular de la Subsecretaría de Combate a la Corrupción el plan anual de trabajo y de evaluación respecto del control interno, evaluación y mejora de la gestión gubernamental y el seguimiento a las acciones generadas del proceso de revisión, así como la metodología de la fiscalización, considerando las bases del Sistema Nacional de Fiscalización;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-III. Revisar y someter a consideración de la persona titular de la Subsecretaría de Combate a la Corrupción, las políticas, normas, criterios, lineamientos y demás disposiciones de carácter general, que regulen a las Dependencias y Entidades en materia de control interno y Evaluación de la Gestión Gubernamental, considerando, en su caso, las bases y principios de coordinación y recomendaciones generales que para tal efecto emita el Comité Coordinador del Sistema Nacional Anticorrupción;
+II. Proponer a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción el plan anual de trabajo y de evaluación respecto del control interno, evaluación y mejora de la gestión gubernamental y el seguimiento a las acciones generadas del proceso de revisión, así como la metodología de la fiscalización, considerando las bases del Sistema Nacional de Fiscalización;
 
-IV. Revisar y someter a consideración de la persona titular de la Subsecretaría de Combate a la Corrupción, en coordinación con las Unidades Administrativas competentes de la Secretaría, la metodología para la fiscalización, y los lineamientos generales para la elaboración y presentación de los informes y reportes en materia de control interno, evaluación y fiscalización que deban registrarse en los sistemas de información que al efecto se establezcan;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-V. Revisar y proponer a la persona titular de la Subsecretaría de Combate a la Corrupción, previa concertación con las Dependencias y Entidades, los indicadores para la Evaluación de la Gestión Gubernamental;
+III. Revisar y someter a consideración de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, las políticas, normas, criterios, lineamientos y demás disposiciones de carácter general, que regulen a las Dependencias y Entidades en materia de control interno y Evaluación de la Gestión Gubernamental, considerando, en su caso, las bases y principios de coordinación y recomendaciones generales que para tal efecto emita el Comité Coordinador del Sistema Nacional Anticorrupción;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+IV. Revisar y someter a consideración de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, en coordinación con las Unidades Administrativas competentes de la Secretaría, la metodología para la fiscalización, y los lineamientos generales para la elaboración y presentación de los informes y reportes en materia de control interno, evaluación y fiscalización que deban registrarse en los sistemas de información que al efecto se establezcan;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+V. Revisar y proponer a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, previa concertación con las Dependencias y Entidades, los indicadores para la Evaluación de la Gestión Gubernamental;
 
 VI. Emitir los oficios que designan al personal comisionado, que incluya a los prestadores de servicios profesionales para la práctica de visitas de control interno;
 
@@ -1951,13 +1969,17 @@ XI. Supervisar las actividades relacionadas con investigaciones, estudios y aná
 
 XII. Supervisar la adopción de políticas en materia de control interno y la Evaluación de la Gestión Gubernamental en las Dependencias y Entidades;
 
-XIII. Someter a consideración de la persona titular de la Subsecretaría de Combate a la Corrupción, los informes de resultados de la evaluación del sistema de control interno implementado por las Dependencias y Entidades, y de la Evaluación de la Gestión Gubernamental;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XIII. Someter a consideración de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, los informes de resultados de la evaluación del sistema de control interno implementado por las Dependencias y Entidades, y de la Evaluación de la Gestión Gubernamental;
 
 XIV. Supervisar los requerimientos de información y documentación que resulten necesarios para el ejercicio de sus atribuciones, efectuados a las Dependencias y Entidades, los Órganos Internos de Control, la Auditoría Superior de la Federación y los fideicomisos públicos no paraestatales, mandatos y contratos análogos;
 
 XV. Verificar la administración de la información que se genere en las materias de control interno, evaluación y mejora de la gestión gubernamental, y emitir las recomendaciones respectivas a las Dependencias y Entidades;
 
-XVI. Supervisar las actividades relacionadas con la integración y actualización del registro único de beneficiarios de donativos en dinero otorgados por la Federación, así como proponer a la persona titular de la Subsecretaría de Combate a la Corrupción la emisión de las disposiciones generales, conforme a las cuales las Dependencias y Entidades deberán proporcionar información relacionada con las instituciones beneficiarias y el cumplimiento de las obligaciones establecidas en los contratos correspondientes, con objeto de realizar su control, seguimiento y evaluación;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XVI. Supervisar las actividades relacionadas con la integración y actualización del registro único de beneficiarios de donativos en dinero otorgados por la Federación, así como proponer a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción la emisión de las disposiciones generales, conforme a las cuales las Dependencias y Entidades deberán proporcionar información relacionada con las instituciones beneficiarias y el cumplimiento de las obligaciones establecidas en los contratos correspondientes, con objeto de realizar su control, seguimiento y evaluación;
 
 XVII. Coordinar el seguimiento de la atención de las recomendaciones preventivas, las acciones correctivas y las oportunidades de mejora que se hubiesen determinado con motivo de las visitas, inspecciones, auditorías y revisiones para valorar la pertinencia y efectividad de la actuación gubernamental, que realicen las diversas instancias fiscalizadoras a las Dependencias y Entidades, así como el registro de las recuperaciones y ahorros derivados de la intervención de los Órganos Internos de Control, elaborando los reportes de resultados en el ámbito de su competencia;
 
@@ -1973,7 +1995,9 @@ XXII. Proponer el diseño de los mecanismos de control y seguimiento a proyectos
 
 XXIII. Supervisar que la información generada por esta Unidad se incorpore al sistema de información y comunicación del Sistema Nacional de Fiscalización, en términos de la Ley General del Sistema Nacional Anticorrupción;
 
-XXIV. Revisar y someter a consideración de la persona titular de la Subsecretaría de Combate a la Corrupción, los lineamientos que deban observarse con motivo del proceso de entrega-recepción en las Dependencias y Entidades, así como coordinar la verificación de su cumplimiento;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XXIV. Revisar y someter a consideración de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, los lineamientos que deban observarse con motivo del proceso de entrega-recepción en las Dependencias y Entidades, así como coordinar la verificación de su cumplimiento;
 
 XXV. Supervisar las herramientas informáticas que auxilien en la homologación de los datos e información de los beneficiarios de programas a cargo del Gobierno Federal, para el eficiente ejercicio de los recursos públicos federales, con el objetivo de contribuir a vigilar y transparentar la entrega, manejo, operación, control de servicios, subsidios y transferencias otorgados con recursos públicos federales;
 
@@ -1983,7 +2007,9 @@ XXVII. Revisar la administración del sistema público de información de las er
 
 XXVIII. Promover y dar seguimiento, por sí o a través de los Órganos Internos de Control, a la Ciudadanización del combate a la corrupción, el fomento de los Ciudadanos Alertadores Internos y Externos de la Corrupción, la modernización y mejora de la gestión en las Dependencias y Entidades, considerando en lo conducente, los informes que emitan dichos Órganos en términos del artículo 44 de la Ley Orgánica, así como las bases y principios de coordinación y recomendaciones generales que en la materia emita el Comité Coordinador del Sistema Nacional Anticorrupción;
 
-XXIX. Proponer para aprobación de la persona titular de la Subsecretaría de Combate a la Corrupción, las políticas, normas, criterios, lineamientos y demás disposiciones generales, en materia de mejora de la gestión que contribuyan a la simplificación administrativa de las Dependencias y Entidades, considerando en lo conducente, las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XXIX. Proponer para aprobación de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, las políticas, normas, criterios, lineamientos y demás disposiciones generales, en materia de mejora de la gestión que contribuyan a la simplificación administrativa de las Dependencias y Entidades, considerando en lo conducente, las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
 
 XXX. Establecer mecanismos de coordinación con las Dependencias, Entidades y las Unidades Administrativas de la Secretaría, para fomentar la Ciudadanización del combate a la corrupción y a la impunidad, desarrollo, modernización y acciones en materia de mejora de la gestión pública;
 
@@ -1993,7 +2019,9 @@ XXXII. Vigilar la implementación de políticas y estrategias de mejora de la ge
 
 XXXIII. Supervisar las acciones de capacitación de control interno y mejora de la gestión pública que se prevean en el programa anual de capacitación de la Secretaría, incluyendo a los Órganos Internos de Control, así como los que requieran las Dependencias y Entidades, con una visión enfocada a fortalecer el servicio profesional de carrera, y
 
-XXXIV. Las demás que le confieran otras disposiciones jurídicas y aquellas funciones que le encomiende la persona titular de la Subsecretaría de Combate a la Corrupción.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XXXIV. Las demás que le confieran otras disposiciones jurídicas y aquellas funciones que le encomiende la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción.
 
 ###### Artículo 43.
 
@@ -2029,7 +2057,9 @@ XIV. Apoyar a la persona titular de la Unidad de Control, Evaluación y Mejora d
 
 XV. Auxiliar a la persona titular de la Unidad de Control, Evaluación y Mejora de la Gestión Pública, con la participación de las Unidades Administrativas competentes de la Secretaría, en la integración de las opiniones sobre los asuntos a tratar en la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación;
 
-XVI. Elaborar y someter a consideración de la persona titular de la Unidad de Control, Evaluación y Mejora de la Gestión Pública el diseño de los mecanismos de control y seguimiento a proyectos y programas específicos que le sean encomendados por la persona titular de la Subsecretaría de Combate a la Corrupción, así como su operación;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XVI. Elaborar y someter a consideración de la persona titular de la Unidad de Control, Evaluación y Mejora de la Gestión Pública el diseño de los mecanismos de control y seguimiento a proyectos y programas específicos que le sean encomendados por la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, así como su operación;
 
 XVII. Incorporar la información que se genere, en el ámbito de su competencia, al sistema de información y comunicación del Sistema Nacional de Fiscalización, en términos de la Ley General del Sistema Nacional Anticorrupción;
 
@@ -2039,39 +2069,65 @@ XIX. Coordinar la aplicación de las herramientas informáticas que auxilien en 
 
 XX. Realizar la operación de la plataforma del Sistema Integral de Información de Padrones de Programas Gubernamentales, a fin de establecer una adecuada coordinación con las Dependencias y Entidades que tienen a su cargo programas con padrones de beneficiarios y realizar su seguimiento, por sí o a través de los Órganos Internos de Control, así como realizar las confrontas entre padrones, análisis de coberturas, de elegibilidad e informes de evaluación que permitan identificar el correcto ejercicio de los recursos federales y su fiscalización, y
 
-XXI. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomienden la persona titular de la Subsecretaría de Combate a la Corrupción o la persona titular de la Unidad de Control, Evaluación y Mejora de la Gestión Pública.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XXI. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomienden la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción o la persona titular de la Unidad de Control, Evaluación y Mejora de la Gestión Pública.
 
 ###### Artículo 44.
 
 La Unidad de Auditoría Gubernamental tiene las atribuciones siguientes:
 
-I. Enviar a la persona titular de la Subsecretaría de Combate a la Corrupción, en los meses de mayo y noviembre, los informes del avance del plan anual de trabajo y de evaluación y de las revisiones para valorar la pertinencia y efectividad de la actuación gubernamental, así como de las observaciones y recomendaciones que estuvieren en trámite;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-II. Someter a consideración de la persona titular de la Subsecretaría de Combate a la Corrupción, en el mes de noviembre, el plan anual de trabajo y de evaluación respecto de las visitas, inspecciones, auditorías y revisiones para valorar la pertinencia y efectividad de la actuación gubernamental que serán practicadas a las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos, considerando las directrices de coordinación en el marco del Sistema Nacional de Fiscalización, con base en los proyectos que le entreguen las direcciones generales y la coordinación que tenga adscritas;
+I. Enviar a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, en los meses de mayo y noviembre, los informes del avance del plan anual de trabajo y de evaluación y de las revisiones para valorar la pertinencia y efectividad de la actuación gubernamental, así como de las observaciones y recomendaciones que estuvieren en trámite;
 
-III. Revisar las bases generales para la planeación y ejecución de las visitas, inspecciones, auditorías y revisiones para valorar la pertinencia y efectividad de la actuación gubernamental, así como para el seguimiento de las observaciones derivadas de dichos actos de fiscalización, y someterlas a consideración de la persona titular de la Subsecretaría de Combate a la Corrupción, las cuales incorporarán las normas técnicas del Sistema Nacional de Fiscalización y los principios del Código de Ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+II. Someter a consideración de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, en el mes de noviembre, el plan anual de trabajo y de evaluación respecto de las visitas, inspecciones, auditorías y revisiones para valorar la pertinencia y efectividad de la actuación gubernamental que serán practicadas a las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos, considerando las directrices de coordinación en el marco del Sistema Nacional de Fiscalización, con base en los proyectos que le entreguen las direcciones generales y la coordinación que tenga adscritas;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+III. Revisar las bases generales para la planeación y ejecución de las visitas, inspecciones, auditorías y revisiones para valorar la pertinencia y efectividad de la actuación gubernamental, así como para el seguimiento de las observaciones derivadas de dichos actos de fiscalización, y someterlas a consideración de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, las cuales incorporarán las normas técnicas del Sistema Nacional de Fiscalización y los principios del Código de Ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción;
 
 IV. Supervisar la práctica de visitas, inspecciones y auditorías, así como de revisiones para valorar la pertinencia y efectividad de la actuación gubernamental, que se encuentran en proceso de ejecución por parte de las direcciones generales y la coordinación que tenga adscritas, con la finalidad de responder a las exigencias de la ciudadanía mediante la prevención, detección e inhibición de prácticas de corrupción;
 
-V. Ordenar, previa autorización de la persona titular de la Subsecretaría de Combate a la Corrupción, las visitas, inspecciones y auditorías a las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos, así como las revisiones para valorar la pertinencia y efectividad de la actuación gubernamental, enfatizando el rol preventivo que permita detectar e inhibir actos de corrupción;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+V. Ordenar, previa autorización de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, las visitas, inspecciones y auditorías a las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos, así como las revisiones para valorar la pertinencia y efectividad de la actuación gubernamental, enfatizando el rol preventivo que permita detectar e inhibir actos de corrupción;
 
 VI. Suscribir los oficios que designan al personal comisionado, que incluya a los prestadores de servicios profesionales, para la práctica de visitas, inspecciones y auditorías, así como de revisiones para valorar la pertinencia y efectividad de la actuación gubernamental. Lo anterior, con base en las propuestas de las direcciones generales y la coordinación que tenga adscritas;
 
-VII. Autorizar, previo acuerdo con la persona titular de la Subsecretaría de Combate a la Corrupción, la adición, cancelación o reprogramación de las visitas, inspecciones, auditorías y evaluaciones, con base en las necesidades de fiscalización y la denuncia ciudadana y Ciudadanos Alertadores Internos y Externos de la Corrupción;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-VIII. Someter a consideración de la persona titular de la Subsecretaría de Combate a la Corrupción, los informes de resultados de las visitas, inspecciones y auditorías, que incluyan las oportunidades de mejora, las recomendaciones preventivas y las observaciones correctivas que se hubiesen determinado, así como los asuntos relativos a faltas administrativas que hayan sido turnados a las autoridades investigadoras, y los resultados de las revisiones para valorar la pertinencia y efectividad de la actuación gubernamental señalando las conclusiones, sugerencias y la prospectiva correspondiente;
+VII. Autorizar, previo acuerdo con la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, la adición, cancelación o reprogramación de las visitas, inspecciones, auditorías y evaluaciones, con base en las necesidades de fiscalización y la denuncia ciudadana y Ciudadanos Alertadores Internos y Externos de la Corrupción;
 
-IX. Proponer a la persona titular de la Subsecretaría de Combate a la Corrupción, la atracción de auditorías que practiquen los Órganos Internos de Control en las Dependencias y Entidades;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-X. Someter a la persona titular de la Subsecretaría de Combate a la Corrupción, con base en las propuestas de las direcciones generales y la coordinación que tenga adscritas y de conformidad con los criterios técnicos, jurídicos y administrativos establecidos para tales efectos, el resultado del seguimiento a las recomendaciones preventivas, las observaciones correctivas y las oportunidades de mejora que se hubiesen determinado en las visitas, inspecciones y auditorías practicadas a las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos;
+VIII. Someter a consideración de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, los informes de resultados de las visitas, inspecciones y auditorías, que incluyan las oportunidades de mejora, las recomendaciones preventivas y las observaciones correctivas que se hubiesen determinado, así como los asuntos relativos a faltas administrativas que hayan sido turnados a las autoridades investigadoras, y los resultados de las revisiones para valorar la pertinencia y efectividad de la actuación gubernamental señalando las conclusiones, sugerencias y la prospectiva correspondiente;
 
-XI. Dar vista a las autoridades investigadoras competentes, los resultados de las visitas, inspecciones y auditorías, cuando de los mismos se adviertan probables faltas administrativas de servidores públicos y de particulares por conductas sancionables, en términos de la Ley de Responsabilidades, previo acuerdo con la persona titular de la Subsecretaría de Combate a la Corrupción;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-XII. Hacer del conocimiento del Órgano Interno de Control de la Secretaría y de la Unidad de Asuntos Jurídicos, previo acuerdo con la persona titular de la Subsecretaría de Combate a la Corrupción, los hechos de los cuales tenga conocimiento y que puedan ser constitutivos de delitos imputables a servidores públicos de la Secretaría;
+IX. Proponer a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, la atracción de auditorías que practiquen los Órganos Internos de Control en las Dependencias y Entidades;
 
-XIII. Aprobar los cursos de capacitación del personal de las direcciones generales y la coordinación que tenga adscritas y remitir dicha información a la Unidad de Administración y Finanzas, a efecto de integrarlos al programa anual de capacitación de la Secretaría, que contribuya en el desarrollo de competencias para otorgar un servicio público de calidad que atienda las exigencias de la ciudadanía, así como impartir dichos cursos de conformidad con las solicitudes de los Órganos Internos de Control y los órganos estatales de control, previa autorización de la persona titular de la Subsecretaría de Combate a la Corrupción;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-XIV. Establecer, en el ámbito de sus atribuciones, criterios de interpretación de la metodología que emita la persona titular de la Subsecretaría de Combate a la Corrupción en materia de visitas, inspecciones, auditorías y revisiones para valorar la pertinencia y efectividad de la actuación gubernamental;
+X. Someter a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, con base en las propuestas de las direcciones generales y la coordinación que tenga adscritas y de conformidad con los criterios técnicos, jurídicos y administrativos establecidos para tales efectos, el resultado del seguimiento a las recomendaciones preventivas, las observaciones correctivas y las oportunidades de mejora que se hubiesen determinado en las visitas, inspecciones y auditorías practicadas a las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XI. Dar vista a las autoridades investigadoras competentes, los resultados de las visitas, inspecciones y auditorías, cuando de los mismos se adviertan probables faltas administrativas de servidores públicos y de particulares por conductas sancionables, en términos de la Ley de Responsabilidades, previo acuerdo con la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XII. Hacer del conocimiento del Órgano Interno de Control de la Secretaría y de la Unidad de Asuntos Jurídicos, previo acuerdo con la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, los hechos de los cuales tenga conocimiento y que puedan ser constitutivos de delitos imputables a servidores públicos de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XIII. Aprobar los cursos de capacitación del personal de las direcciones generales y la coordinación que tenga adscritas y remitir dicha información a la Unidad de Administración y Finanzas, a efecto de integrarlos al programa anual de capacitación de la Secretaría, que contribuya en el desarrollo de competencias para otorgar un servicio público de calidad que atienda las exigencias de la ciudadanía, así como impartir dichos cursos de conformidad con las solicitudes de los Órganos Internos de Control y los órganos estatales de control, previa autorización de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XIV. Establecer, en el ámbito de sus atribuciones, criterios de interpretación de la metodología que emita la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción en materia de visitas, inspecciones, auditorías y revisiones para valorar la pertinencia y efectividad de la actuación gubernamental;
 
 XV. Participar, en coordinación con las Unidades Administrativas competentes de la Secretaría, en la orientación e integración del plan anual de trabajo y de evaluación que permita verificar y evaluar la gestión pública;
 
@@ -2241,9 +2297,13 @@ XXI. Las demás que le confieran otras disposiciones jurídicas, así como aquel
 
 La Unidad de Auditoría a Contrataciones Públicas tiene las atribuciones siguientes:
 
-I. Proponer a la persona titular de la Subsecretaría de Combate a la Corrupción, en el mes de noviembre, la conformación del plan anual de trabajo y de evaluación, respecto de las auditorías, visitas de supervisión, verificaciones de calidad y seguimiento de observaciones y recomendaciones en materia de adquisiciones y obras públicas a las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos, considerando las directrices de coordinación en el marco del Sistema Nacional de Fiscalización, con base en los proyectos que le entreguen las direcciones generales que tenga adscritas;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-II. Someter a consideración de la persona titular de la Subsecretaría de Combate a la Corrupción, las bases generales de operación, los manuales de procedimientos y las guías específicas de auditoría, para la planeación y ejecución de las auditorías, visitas de supervisión, verificaciones de calidad y seguimiento de observaciones y recomendaciones, desagregadas por cada uno de los conceptos, en materia de adquisiciones y obras públicas, y someter a consideración de la persona titular de la Subsecretaría de Combate a la Corrupción, la metodología que deban observar las Unidades Administrativas que tenga adscritas esta Unidad, incorporando las normas técnicas del Sistema Nacional de Fiscalización y los principios del Código de Ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción;
+I. Proponer a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, en el mes de noviembre, la conformación del plan anual de trabajo y de evaluación, respecto de las auditorías, visitas de supervisión, verificaciones de calidad y seguimiento de observaciones y recomendaciones en materia de adquisiciones y obras públicas a las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos, considerando las directrices de coordinación en el marco del Sistema Nacional de Fiscalización, con base en los proyectos que le entreguen las direcciones generales que tenga adscritas;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+II. Someter a consideración de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, las bases generales de operación, los manuales de procedimientos y las guías específicas de auditoría, para la planeación y ejecución de las auditorías, visitas de supervisión, verificaciones de calidad y seguimiento de observaciones y recomendaciones, desagregadas por cada uno de los conceptos, en materia de adquisiciones y obras públicas, y someter a consideración de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, la metodología que deban observar las Unidades Administrativas que tenga adscritas esta Unidad, incorporando las normas técnicas del Sistema Nacional de Fiscalización y los principios del Código de Ética, de conformidad con la Ley General del Sistema Nacional Anticorrupción;
 
 III. Supervisar la práctica de auditorías, visitas de supervisión, verificaciones de calidad y seguimiento de observaciones y recomendaciones en materia de adquisiciones y obras públicas que realicen las Unidades Administrativas que tenga adscritas esta Unidad, a fin de detectar e inhibir prácticas de corrupción;
 
@@ -2273,15 +2333,21 @@ VII. Suscribir los oficios para la designación del personal comisionado para la
 
 VIII. Designar a prestadores de servicios profesionales para realizar, en las Dependencias, Entidades y fideicomisos públicos no paraestatales, auditorías, visitas de supervisión, verificaciones de calidad y seguimiento de observaciones y recomendaciones a las contrataciones públicas, a efecto de coadyuvar en el desarrollo de las atribuciones de esta Unidad;
 
-IX. Autorizar, previo acuerdo con la persona titular de la Subsecretaría de Combate a la Corrupción, la adición, cancelación o reprogramación de las auditorías, visitas de supervisión y verificaciones de calidad en materia de contrataciones públicas, solicitadas por los Órganos Internos de Control o por las Unidades Administrativas que tenga adscritas esta Unidad, con base en las necesidades de fiscalización y la denuncia por parte de los Ciudadanos Alertadores Internos y Externos de la Corrupción;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+IX. Autorizar, previo acuerdo con la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, la adición, cancelación o reprogramación de las auditorías, visitas de supervisión y verificaciones de calidad en materia de contrataciones públicas, solicitadas por los Órganos Internos de Control o por las Unidades Administrativas que tenga adscritas esta Unidad, con base en las necesidades de fiscalización y la denuncia por parte de los Ciudadanos Alertadores Internos y Externos de la Corrupción;
 
 X. Solicitar a las personas físicas o morales, en términos de las disposiciones jurídicas aplicables, informes, documentos, opiniones, datos y demás elementos que se requieran para cumplir con sus facultades de fiscalización en la práctica de auditorías, visitas de supervisión, verificaciones de calidad y seguimiento de observaciones y recomendaciones en materia de contrataciones públicas, relacionadas con el manejo, ejercicio y comprobación de los recursos públicos federales;
 
 XI. Aprobar los informes de resultados de las auditorías, visitas de supervisión, verificaciones de calidad, y seguimiento de observaciones y recomendaciones en materia de contrataciones públicas, que incluyan las recomendaciones preventivas y las correctivas de las observaciones determinadas, así como los asuntos relativos a faltas administrativas turnadas a las autoridades investigadoras;
 
-XII. Someter a consideración de la persona titular de la Subsecretaría de Combate a la Corrupción, en los meses de mayo y noviembre, los informes del avance del plan anual de trabajo y de evaluación en materia de contrataciones públicas, que incluya las observaciones y recomendaciones que se hubiesen determinado, así como los asuntos relativos a las faltas administrativas turnadas a las autoridades investigadoras;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-XIII. Proponer a la persona titular de la Subsecretaría de Combate a la Corrupción, la atracción de auditorías que estén practicando los Órganos Internos de Control en las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos, en materia de contrataciones públicas;
+XII. Someter a consideración de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, en los meses de mayo y noviembre, los informes del avance del plan anual de trabajo y de evaluación en materia de contrataciones públicas, que incluya las observaciones y recomendaciones que se hubiesen determinado, así como los asuntos relativos a las faltas administrativas turnadas a las autoridades investigadoras;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XIII. Proponer a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, la atracción de auditorías que estén practicando los Órganos Internos de Control en las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos, en materia de contrataciones públicas;
 
 XIV. Aprobar el seguimiento a las recomendaciones preventivas y correctivas de las observaciones que se hubiesen determinado en las auditorías, visitas de supervisión, verificaciones de calidad en materia de contrataciones públicas practicadas a las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos;
 
@@ -2299,13 +2365,17 @@ XX. Promover la política integral de profesionalización de la Secretaría en m
 
 XXI. Aprobar los contenidos de los cursos, foros o conferencias que, en materia de auditorías a contrataciones públicas, resulten necesarios para actualizar o fortalecer los conocimientos del personal auditor de la Secretaría, incluyendo a los Órganos Internos de Control en las Dependencias y Entidades, así como de los prestadores de servicios profesionales;
 
-XXII. Establecer, en el ámbito de sus atribuciones, los criterios de interpretación de las bases generales de operación, los manuales de procedimientos y las guías específicas relacionadas con las contrataciones públicas, en materia de auditorías, visitas de supervisión, verificaciones de calidad y seguimiento de observaciones y recomendaciones que emita la persona titular de la Subsecretaría de Combate a la Corrupción;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XXII. Establecer, en el ámbito de sus atribuciones, los criterios de interpretación de las bases generales de operación, los manuales de procedimientos y las guías específicas relacionadas con las contrataciones públicas, en materia de auditorías, visitas de supervisión, verificaciones de calidad y seguimiento de observaciones y recomendaciones que emita la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción;
 
 XXIII. Participar, en coordinación con las Unidades Administrativas competentes de la Secretaría, en la orientación e integración del plan anual de trabajo y de evaluación;
 
 XXIV. Supervisar que las Unidades Administrativas que tenga adscritas, contribuyan al funcionamiento del sistema de información y comunicación del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización, de conformidad con la Ley General del Sistema Nacional Anticorrupción;
 
-XXV. Proponer a la persona titular de la Subsecretaría de Combate a la Corrupción los convenios de colaboración con instituciones públicas de educación superior, así como con colegios e institutos de profesionistas, en materia de fiscalización a contrataciones públicas;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XXV. Proponer a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción los convenios de colaboración con instituciones públicas de educación superior, así como con colegios e institutos de profesionistas, en materia de fiscalización a contrataciones públicas;
 
 XXVI. Supervisar la administración del sistema para la elaboración, control y seguimiento de la bitácora de obra pública de acuerdo con la normativa aplicable, así como presentar los reportes ejecutivos del estado de la obra pública;
 
@@ -2445,39 +2515,59 @@ La Dirección General de Fiscalización del Patrimonio Público Federal tiene la
 
 I. Designar y remover a los auditores externos de las Dependencias y Entidades, así como de los fideicomisos públicos no paraestatales, mandatos y contratos análogos. Para el caso de auditorías externas a proyectos financiados por organismos financieros internacionales, la designación se realizará considerando lo establecido en los acuerdos técnicos suscritos por la Secretaría con dichos organismos;
 
-II. Someter a consideración de la persona titular de la Subsecretaría de Combate a la Corrupción, en el mes de noviembre, el plan anual de trabajo y de evaluación en materia de auditorías externas que permitan fiscalizar y evaluar la gestión pública. Dichas auditorías tienen por objeto:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2020)</small>
+
+II. Someter a consideración de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, en el mes de noviembre, el plan anual de trabajo y de evaluación en materia de auditorías externas que permitan fiscalizar y evaluar la gestión pública. Dichas auditorías tienen por objeto:
 
 a) Dictaminar la información contable y presupuestaria de las Dependencias, Entidades y fideicomisos públicos no paraestatales, mandatos y contratos análogos, a efecto de garantizar que las cifras contenidas en sus estados financieros sean veraces y confiables, que los registros de las operaciones y transacciones se sujetaron a las disposiciones jurídicas aplicables, y que el ejercicio de los recursos públicos federales se realizó conforme a lo aprobado en el presupuesto, y
 
 b) Dictaminar la información financiera de los programas y proyectos financiados, total o parcialmente, por organismos financieros internacionales, para opinar sobre la fiabilidad y razonabilidad de las cifras registradas y el cumplimiento de los requisitos establecidos por dichos organismos y la Secretaría;
 
-III. Someter a la aprobación de la persona titular de la Subsecretaría de Combate a la Corrupción, los criterios de elegibilidad, designación y remoción de los auditores externos, conforme a las mejores condiciones con relación a precio, calidad y oportunidad en concordancia con la austeridad republicana;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-IV. Presentar para aprobación de la persona titular de la Subsecretaría de Combate a la Corrupción, las bases, criterios, lineamientos y demás instrumentos normativos para la planeación, ejecución, control y evaluación de las auditorías externas, así como para el seguimiento de los hallazgos derivados de dichas auditorías, que se realizarán con apoyo de los Órganos Internos de Control en las Dependencias y Entidades;
+III. Someter a la aprobación de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, los criterios de elegibilidad, designación y remoción de los auditores externos, conforme a las mejores condiciones con relación a precio, calidad y oportunidad en concordancia con la austeridad republicana;
 
-V. Acordar con los organismos financieros internacionales, memorandos de entendimiento o acuerdos técnicos para la ejecución de las auditorías externas que se practicarán a los proyectos financiados por dichas instituciones, los cuales serán sometidos a la aprobación de la persona titular de la Subsecretaría de Combate a la Corrupción;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+IV. Presentar para aprobación de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, las bases, criterios, lineamientos y demás instrumentos normativos para la planeación, ejecución, control y evaluación de las auditorías externas, así como para el seguimiento de los hallazgos derivados de dichas auditorías, que se realizarán con apoyo de los Órganos Internos de Control en las Dependencias y Entidades;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+V. Acordar con los organismos financieros internacionales, memorandos de entendimiento o acuerdos técnicos para la ejecución de las auditorías externas que se practicarán a los proyectos financiados por dichas instituciones, los cuales serán sometidos a la aprobación de la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción;
 
 VI. Requerir, directamente o por medio de las Unidades Administrativas que tenga adscritas, la información y documentación necesaria para el ejercicio de sus atribuciones, a las Dependencias, Entidades, Órganos Internos de Control y fideicomitentes, administradores o coordinadores de los fideicomisos públicos no paraestatales, mandatos y contratos análogos;
 
 VII. Requerir, directamente o por medio de las Unidades Administrativas que tenga adscritas y en términos de las disposiciones jurídicas aplicables, informes, datos, documentos, opiniones y demás elementos necesarios para el ejercicio de sus atribuciones, a los auditores externos, licitantes, proveedores, contratistas, donatarios o aquellas personas que hayan sido subcontratadas por los anteriores y, en general, a las personas físicas o morales relacionadas con el manejo, ejercicio y comprobación de recursos públicos a que se refiere este artículo;
 
-VIII. Comunicar a la persona titular de la Subsecretaría de Combate a la Corrupción, los resultados de los procesos para la elegibilidad de las firmas de auditores externos; de las designaciones para la práctica de auditorías; de las evaluaciones del desempeño de dichas firmas y, en su caso, de la remoción de los socios y de las firmas de auditores externos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-IX. Presentar los resultados de las auditorías externas a la persona titular de la Subsecretaría de Combate a la Corrupción, y hacer del conocimiento de las instancias competentes los hallazgos vinculados con presuntos daños o perjuicios a la Hacienda Pública Federal o al patrimonio de los entes públicos, así como de la probable comisión de actos de corrupción o el incumplimiento de atribuciones por parte de servidores públicos;
+VIII. Comunicar a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, los resultados de los procesos para la elegibilidad de las firmas de auditores externos; de las designaciones para la práctica de auditorías; de las evaluaciones del desempeño de dichas firmas y, en su caso, de la remoción de los socios y de las firmas de auditores externos;
 
-X. Informar a la persona titular de la Subsecretaría de Combate a la Corrupción, sobre las denuncias que se reciban en relación con presuntos actos de corrupción y conductas sancionables, y dar vista a las autoridades investigadoras competentes, para los efectos legales procedentes;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-XI. Realizar las auditorías y actos de fiscalización que le instruya la persona titular de la Subsecretaría de Combate a la Corrupción;
+IX. Presentar los resultados de las auditorías externas a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, y hacer del conocimiento de las instancias competentes los hallazgos vinculados con presuntos daños o perjuicios a la Hacienda Pública Federal o al patrimonio de los entes públicos, así como de la probable comisión de actos de corrupción o el incumplimiento de atribuciones por parte de servidores públicos;
 
-XII. Proponer a la persona titular de la Subsecretaría de Combate a la Corrupción, los cursos de capacitación de su personal para integrarlos al programa anual de capacitación de la Secretaría, que contribuya en el desarrollo de competencias para brindar un servicio público de calidad que atienda las exigencias de la ciudadanía;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+X. Informar a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, sobre las denuncias que se reciban en relación con presuntos actos de corrupción y conductas sancionables, y dar vista a las autoridades investigadoras competentes, para los efectos legales procedentes;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XI. Realizar las auditorías y actos de fiscalización que le instruya la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XII. Proponer a la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, los cursos de capacitación de su personal para integrarlos al programa anual de capacitación de la Secretaría, que contribuya en el desarrollo de competencias para brindar un servicio público de calidad que atienda las exigencias de la ciudadanía;
 
 XIII. Contribuir al adecuado funcionamiento de los componentes tecnológicos del sistema de información y comunicación del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización, en términos de Ley General del Sistema Nacional Anticorrupción, y
 
 XIV. Las demás que le confieran otras disposiciones jurídicas y aquellas funciones que le encomienden sus superiores jerárquicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2020)</small>
+
 ###### Artículo 52.
 
-La Subsecretaría de Combate a la Impunidad tiene las atribuciones siguientes:
+La Subsecretaría de Responsabilidades y Combate a la Impunidad tiene las atribuciones siguientes:
 
 I. Acordar con la persona titular de la Secretaría los asuntos de las Unidades Administrativas que tenga adscritas;
 
@@ -2543,11 +2633,15 @@ La Unidad de Política de Recursos Humanos de la Administración Pública Federa
 
 I. Coordinar la implementación de las políticas, estrategias y procedimientos en materia de planeación, prospectiva, administración, organización y profesionalización del servicio público, así como del servicio profesional de carrera en las Dependencias, registro de servidores públicos de la Administración Pública Federal, estructuras orgánicas y ocupacionales, incluidas las plazas del personal de carácter eventual, remuneraciones y tabuladores y contratos de servicios profesionales por honorarios de las Dependencias y Entidades. Dichas políticas, estrategias y procedimientos deberán estar alineados a los principios de racionalidad y austeridad republicana;
 
-II. Someter a consideración de la persona titular de la Secretaría, a través de la persona titular de la Subsecretaría de Combate a la Impunidad, las políticas, normas, lineamientos, criterios de carácter general y demás disposiciones jurídicas análogas en materia de planeación, prospectiva, administración, organización y profesionalización del servicio público con perspectiva de justicia y equidad de género, así como de estructuras orgánicas y ocupacionales austeras, incluidas las plazas del personal de carácter eventual, remuneraciones y tabuladores, contratos de servicios profesionales por honorarios de las Dependencias y Entidades, y en materia de servicio profesional de carrera y el registro de servidores públicos de la Administración Pública Federal, vigilando que dichas disposiciones estén disponibles para consulta de la ciudadanía;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+II. Someter a consideración de la persona titular de la Secretaría, a través de la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad, las políticas, normas, lineamientos, criterios de carácter general y demás disposiciones jurídicas análogas en materia de planeación, prospectiva, administración, organización y profesionalización del servicio público con perspectiva de justicia y equidad de género, así como de estructuras orgánicas y ocupacionales austeras, incluidas las plazas del personal de carácter eventual, remuneraciones y tabuladores, contratos de servicios profesionales por honorarios de las Dependencias y Entidades, y en materia de servicio profesional de carrera y el registro de servidores públicos de la Administración Pública Federal, vigilando que dichas disposiciones estén disponibles para consulta de la ciudadanía;
 
 III. Interpretar, para efectos administrativos y previa opinión o a propuesta de las Unidades Administrativas competentes de la Secretaría, las leyes, reglamentos y demás disposiciones jurídicas en las materias a que se refiere la fracción I de este artículo;
 
-IV. Programar, dirigir, coordinar, evaluar y dar seguimiento a la operación y funcionamiento del servicio profesional de carrera en las Dependencias, desde una perspectiva de justicia y equidad de género, así como proponer a la persona titular de la Secretaría, a través de la persona titular de la Subsecretaría de Combate a la Impunidad, propuestas de modificaciones a la operación de dicho servicio;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+IV. Programar, dirigir, coordinar, evaluar y dar seguimiento a la operación y funcionamiento del servicio profesional de carrera en las Dependencias, desde una perspectiva de justicia y equidad de género, así como proponer a la persona titular de la Secretaría, a través de la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad, propuestas de modificaciones a la operación de dicho servicio;
 
 V. Fungir como persona titular de la Secretaría Técnica del Consejo Consultivo del Sistema de Servicio Profesional de Carrera de la Administración Pública Federal Centralizada;
 
@@ -2557,7 +2651,9 @@ VII. Emitir criterios técnicos, protocolos, metodologías, guías, instructivos
 
 VIII. Coordinar con las unidades administrativas competentes de la Secretaría, las acciones que correspondan para que los Órganos Internos de Control en las Dependencias y Entidades verifiquen el cumplimiento de las disposiciones en las materias a que se refiere la fracción I de este artículo;
 
-IX. Someter a consideración de la persona titular de la Secretaría, a través de la persona titular de la Subsecretaría de Combate a la Impunidad, el proyecto de Programa para el Servicio Profesional de Carrera en la Administración Pública Federal, el cual deberá ser elaborado con una visión de justicia y equidad de género, transparentando los mecanismos de ingreso y ascenso, así como dar seguimiento a los programas operativos anuales que deriven del mismo, en términos del Reglamento de la Ley de la materia;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+IX. Someter a consideración de la persona titular de la Secretaría, a través de la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad, el proyecto de Programa para el Servicio Profesional de Carrera en la Administración Pública Federal, el cual deberá ser elaborado con una visión de justicia y equidad de género, transparentando los mecanismos de ingreso y ascenso, así como dar seguimiento a los programas operativos anuales que deriven del mismo, en términos del Reglamento de la Ley de la materia;
 
 X. Establecer el modelo de planeación y medición de la administración, organización y profesionalización del recurso humano de las Dependencias y Entidades que permita el desarrollo de capacidades institucionales y competencias personales al servicio de la ciudadanía, así como administrar el registro de servidores públicos de la Administración Pública Federal;
 
@@ -2571,7 +2667,9 @@ XIV. Someter a consideración de la persona titular de la Secretaría, los crite
 
 XV. Aprobar, previa opinión de la Dirección General de Desarrollo Humano y Servicio Profesional de Carrera de la Administración Pública Federal, las propuestas de puestos de libre designación que formulen los Comités Técnicos de Profesionalización de las Dependencias;
 
-XVI. Someter a consideración de la persona titular de la Subsecretaría de Combate a la Impunidad las políticas públicas que consoliden el proceso de institucionalización de la no discriminación, la inclusión y la igualdad sustantiva, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XVI. Someter a consideración de la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad las políticas públicas que consoliden el proceso de institucionalización de la no discriminación, la inclusión y la igualdad sustantiva, y
 
 XVII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomienden sus superiores jerárquicos.
 
@@ -2649,9 +2747,13 @@ XVIII. Las demás que le confieran otras disposiciones jurídicas, así como aqu
 
 La Unidad de Ética Pública y Prevención de Conflictos de Intereses tiene las atribuciones siguientes:
 
-I. Proponer y someter a consideración de la persona titular de la Subsecretaría de Combate a la Impunidad, los proyectos de políticas, normas, lineamientos, disposiciones de carácter general, criterios técnicos, protocolos, metodologías, guías, instructivos y demás instrumentos análogos, para establecer y difundir acciones en materia de ética, integridad pública y prevención de conflicto de intereses en las Dependencias y Entidades, a fin de prevenir conductas contrarias a las disposiciones que rigen el ejercicio de una función pública honesta que trabaja en beneficio de la sociedad, considerando, en su caso, las políticas que en la materia emita el Comité Coordinador del Sistema Nacional Anticorrupción;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-II. Proponer a la persona titular de la Subsecretaría de Combate a la Impunidad, el Código de Ética de las personas servidoras públicas del Gobierno Federal, así como las modificaciones al mismo, de acuerdo con los lineamientos que para tal efecto se emitan;
+I. Proponer y someter a consideración de la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad, los proyectos de políticas, normas, lineamientos, disposiciones de carácter general, criterios técnicos, protocolos, metodologías, guías, instructivos y demás instrumentos análogos, para establecer y difundir acciones en materia de ética, integridad pública y prevención de conflicto de intereses en las Dependencias y Entidades, a fin de prevenir conductas contrarias a las disposiciones que rigen el ejercicio de una función pública honesta que trabaja en beneficio de la sociedad, considerando, en su caso, las políticas que en la materia emita el Comité Coordinador del Sistema Nacional Anticorrupción;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+II. Proponer a la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad, el Código de Ética de las personas servidoras públicas del Gobierno Federal, así como las modificaciones al mismo, de acuerdo con los lineamientos que para tal efecto se emitan;
 
 III. Coordinar las observaciones y recomendaciones emitidas por los Comités de Ética y de Prevención de Conflicto de Intereses u homólogos y crear, con base en las mismas, un sistema de criterios, transparente y de fácil consulta para la ciudadanía, que sirvan como precedentes aplicables y de evaluación en las materias de ética, integridad pública y prevención de conflictos de intereses;
 
@@ -2679,7 +2781,9 @@ XIV. Promover y coadyuvar con los diversos entes públicos, así como con los se
 
 XV. Autorizar estudios y análisis que sean necesarios en materia de ética, integridad pública, prevención de conflictos de intereses, y registro patrimonial y de intereses;
 
-XVI. Proponer a la persona titular de la Subsecretaría de Combate a la Impunidad los instrumentos normativos y mecanismos para el reconocimiento de acciones o conductas de los servidores públicos, en materia de ética e integridad pública, de conformidad con el Código de Ética de las personas servidoras públicas del Gobierno Federal y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XVI. Proponer a la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad los instrumentos normativos y mecanismos para el reconocimiento de acciones o conductas de los servidores públicos, en materia de ética e integridad pública, de conformidad con el Código de Ética de las personas servidoras públicas del Gobierno Federal y demás disposiciones jurídicas aplicables;
 
 XVII. Emitir propuestas para el fortalecimiento de la gestión pública y cultura organizacional, a partir de las evaluaciones que realice en materia de ética, integridad pública y prevención de conflictos de intereses, así como de la operación y funcionamiento de los Comités de Ética y de Prevención de Conflictos de Intereses u homólogos;
 
@@ -2695,11 +2799,15 @@ XXII. Dar vista a las autoridades competentes cuando los servidores públicos de
 
 XXIII. Coordinar las acciones para la detección de los servidores públicos que omitieron presentar o presentaron extemporáneamente su declaración de situación patrimonial y de intereses, así como de quienes, estando inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, se encuentren en activo en las Dependencias, Entidades y empresas productivas del Estado, para dar vista a las autoridades competentes conforme a las disposiciones jurídicas aplicables;
 
-XXIV. Proponer a la persona titular de la Subsecretaría de Combate a la Impunidad las medidas y acciones específicas que aseguren el adecuado tratamiento y resguardo de los datos personales de los servidores públicos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XXIV. Proponer a la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad las medidas y acciones específicas que aseguren el adecuado tratamiento y resguardo de los datos personales de los servidores públicos;
 
 XXV. Interpretar para efectos administrativos, las disposiciones que, en materia de ética, integridad pública, prevención de conflictos de intereses, registro patrimonial y de intereses, y servidores públicos sancionados, corresponde emitir a la Secretaría en términos de los ordenamientos aplicables, considerando, en su caso, la opinión de otras Unidades Administrativas competentes de la Secretaría, y
 
-XXVI. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomienden la persona titular de la Secretaría y la persona titular de la Subsecretaría de Combate a la Impunidad.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XXVI. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomienden la persona titular de la Secretaría y la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad.
 
 ###### Artículo 57.
 
@@ -2777,7 +2885,9 @@ XIV. Coordinar las acciones para la custodia y el resguardo de la documentación
 
 XV. Proponer estudios, investigaciones y análisis que sean necesarios en materia de registro patrimonial y de intereses, y
 
-XVI. Las demás que le confieran otras disposiciones jurídicas y las que competen a las Unidades Administrativas que tiene adscritas, así como aquellas funciones que le encomiende la persona titular de la Secretaría, la persona titular de la Subsecretaría de Combate a la Impunidad, o la persona titular de la Unidad de Ética Pública y Prevención de Conflictos de Intereses.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XVI. Las demás que le confieran otras disposiciones jurídicas y las que competen a las Unidades Administrativas que tiene adscritas, así como aquellas funciones que le encomiende la persona titular de la Secretaría, la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad, o la persona titular de la Unidad de Ética Pública y Prevención de Conflictos de Intereses.
 
 ###### Artículo 59.
 
@@ -2825,7 +2935,9 @@ I. Supervisar la admisión de los informes de presunta responsabilidad administr
 
 II. Supervisar los procedimientos de responsabilidad administrativa que se instauren contra servidores públicos de la Administración Pública Federal y de las empresas productivas del Estado por faltas administrativas, e imponer las sanciones que correspondan;
 
-III. Coordinar los procedimientos de responsabilidad administrativa que substancien los Órganos Internos de Control y las Unidades de Responsabilidades, en los casos en que así lo determine la persona titular de la Subsecretaría de Combate a la Impunidad;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+III. Coordinar los procedimientos de responsabilidad administrativa que substancien los Órganos Internos de Control y las Unidades de Responsabilidades, en los casos en que así lo determine la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad;
 
 IV. Acordar con la persona titular de la Dirección General de Responsabilidades y Verificación Patrimonial el turno a los Órganos Internos de Control en las Dependencias y Entidades o a las Unidades de Responsabilidades, de los procedimientos administrativos que puedan resolver en términos de la Ley de Responsabilidades;
 
@@ -2853,9 +2965,13 @@ XV. Verificar la asesoría a los Órganos Internos de Control respecto de la cal
 
 XVI. Supervisar que las Unidades Administrativas que tenga adscritas administren la información contenida en los sistemas electrónicos que, en términos de tecnologías de información aplicada al combate a la corrupción e impunidad, se requieran para el control y seguimiento de los asuntos de su competencia, intercambio, suministro y disponibilidad de la misma, conforme a las disposiciones jurídicas aplicables;
 
-XVII. Proponer a la persona titular de la Subsecretaría de Combate a la Impunidad, los criterios y estándares de actuación en la aplicación y ejecución de sanciones a los servidores públicos por incurrir en responsabilidades administrativas, considerando las políticas que emita el Comité Coordinador del Sistema Nacional Anticorrupción en esta materia, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
 
-XVIII. Las demás que le confieran otras disposiciones jurídicas y las que les competan a las Unidades Administrativas que tenga adscritas, así como aquellas funciones que le encomienden la persona titular de la Secretaría y la persona titular de la Subsecretaría de Combate a la Impunidad.
+XVII. Proponer a la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad, los criterios y estándares de actuación en la aplicación y ejecución de sanciones a los servidores públicos por incurrir en responsabilidades administrativas, considerando las políticas que emita el Comité Coordinador del Sistema Nacional Anticorrupción en esta materia, y
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XVIII. Las demás que le confieran otras disposiciones jurídicas y las que les competan a las Unidades Administrativas que tenga adscritas, así como aquellas funciones que le encomienden la persona titular de la Secretaría y la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad.
 
 ###### Artículo 62.
 
@@ -3007,7 +3123,9 @@ XI. Solicitar a la Unidad de Asuntos Jurídicos la presentación de la denuncia 
 
 XII. Supervisar la resolución de los procedimientos de responsabilidad administrativa relacionados con expedientes electrónicos integrados con motivo de las vistas que se generen respecto a la extemporaneidad en la presentación de la declaración patrimonial y de intereses, efectuadas por servidores públicos de las Dependencias, Entidades y empresas productivas del Estado, y
 
-XIII. Las demás que le confieran otras disposiciones jurídicas y las que les competan a las Unidades Administrativas que tenga adscritas, así como aquellas funciones que le encomienden la persona titular de la Secretaría, la persona titular de la Subsecretaría de Combate a la Impunidad o la persona titular de la Unidad de Responsabilidades Administrativas, Controversias y Sanciones.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XIII. Las demás que le confieran otras disposiciones jurídicas y las que les competan a las Unidades Administrativas que tenga adscritas, así como aquellas funciones que le encomienden la persona titular de la Secretaría, la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad o la persona titular de la Unidad de Responsabilidades Administrativas, Controversias y Sanciones.
 
 Para el cumplimiento de las atribuciones a que se refiere este artículo, el titular de la Dirección General de Responsabilidades y Verificación Patrimonial se auxiliará de las direcciones de Responsabilidades A, B, C, D y E, de las direcciones de Verificación Patrimonial A, B, C y D y de las direcciones Contables de Verificación Patrimonial A y B. Dichas direcciones tendrán las atribuciones siguientes:
 
@@ -3127,7 +3245,9 @@ V. Coordinar las acciones y operativos específicos tendentes a prevenir, detect
 
 VI. Presentar, en coordinación con la Unidad de Asuntos Jurídicos, las denuncias o querellas ante el Ministerio Público, el Congreso de la Unión o las instancias respectivas, sobre hechos probablemente constitutivos de delito de los que tenga conocimiento en virtud de las investigaciones que lleve a cabo, y
 
-VII. Las demás que le confieran otras disposiciones jurídicas y las que le competen a las Unidades Administrativas que tenga adscritas, así como aquellas funciones que le encomiende la persona titular de la Secretaría y la persona titular de la Subsecretaría de Combate a la Impunidad.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+VII. Las demás que le confieran otras disposiciones jurídicas y las que le competen a las Unidades Administrativas que tenga adscritas, así como aquellas funciones que le encomiende la persona titular de la Secretaría y la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad.
 
 ###### Artículo 70.
 
@@ -3165,7 +3285,9 @@ XV. Elaborar guías no vinculatorias en materia de denuncias e investigaciones, 
 
 XVI. Promover, bajo un enfoque ciudadano, de defensa a las víctimas de la corrupción e impunidad y auspicio de derechos, la capacitación en las materias a que se refiere este artículo, del personal de las áreas de quejas, denuncias e investigaciones de los Órganos Internos de Control y de las Unidades de Responsabilidades, y
 
-XVII. Las demás que le confieran otras disposiciones jurídicas y las que les competen a las Unidades Administrativas que tenga adscritas, así como aquellas funciones que le encomiende la persona titular de la Secretaría, la persona titular de la Subsecretaría de Combate a la Impunidad y la persona titular de la Unidad de Denuncias e Investigaciones.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XVII. Las demás que le confieran otras disposiciones jurídicas y las que les competen a las Unidades Administrativas que tenga adscritas, así como aquellas funciones que le encomiende la persona titular de la Secretaría, la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad y la persona titular de la Unidad de Denuncias e Investigaciones.
 
 ###### Artículo 71.
 
@@ -3261,7 +3383,9 @@ XIV. Incorporar a las investigaciones que realice en términos del presente art�
 
 XV. Administrar el Sistema Integral de Evolución Patrimonial, y
 
-XVI. Las demás que le confieran otras disposiciones jurídicas y las que competen a las Unidades Administrativas que tenga adscritas, así como aquellas funciones que le encomienden la persona titular de la Secretaría, la persona titular de la Subsecretaría de Combate a la Impunidad, y la persona titular de la Unidad de Denuncias e Investigaciones.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
+XVI. Las demás que le confieran otras disposiciones jurídicas y las que competen a las Unidades Administrativas que tenga adscritas, así como aquellas funciones que le encomienden la persona titular de la Secretaría, la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad, y la persona titular de la Unidad de Denuncias e Investigaciones.
 
 La persona titular de la Dirección General de Investigación Forense para el ejercicio de las facultades que le corresponden, se auxiliará de la Dirección de Control y Seguimiento, de la Dirección de Estrategia, de las Direcciones de Evolución Patrimonial A y B, de la Dirección de Informática Forense, así como de las Direcciones de Investigación y Análisis A y B.
 
@@ -3761,9 +3885,11 @@ De conformidad con lo previsto en la fracción XII del artículo 37 de la Ley Or
 
 ### CAPÍTULO VII. DISPOSICIONES SUPLETORIAS
 
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2020)</small>
+
 ###### Artículo 93.
 
-La falta o ausencia de la persona titular de la Secretaría será suplida por la persona titular de la Subsecretaría de Combate a la Corrupción, la persona titular de la Subsecretaría de Combate a la Impunidad o la persona titular de la Unidad de Asuntos Jurídicos en el orden mencionado.
+La falta o ausencia de la persona titular de la Secretaría será suplida por la persona titular de la Subsecretaría de Fiscalización y Combate a la Corrupción, la persona titular de la Subsecretaría de Responsabilidades y Combate a la Impunidad o la persona titular de la Unidad de Asuntos Jurídicos en el orden mencionado.
 
 ###### Artículo 94.
 
@@ -3830,3 +3956,13 @@ DÉCIMO.- Para efectos de lo dispuesto en el Transitorio Octavo del Decreto por 
 Lo anterior, sin perjuicio de que dichas unidades administrativas se encuentren adscritas a la Oficialía Mayor de la Secretaría de Hacienda y Crédito Público.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de abril de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de la Función Pública, Irma Eréndira Sandoval Ballesteros.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hagan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a la Subsecretaría de Combate a la Corrupción o a la Subsecretaría de Combate a la Impunidad, se entenderán hechas a la Subsecretaría de Fiscalización y Combate a la Corrupción o a la Subsecretaría de Responsabilidades y Combate a la Impunidad, respectivamente.
