@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-13-2020-del-pleno-del-consejo-de-la-143197"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-06-12"
-last_updated: "2020-06-29"
+last_updated: "2020-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143197&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-06-08"
 
 ACUERDO GENERAL 13/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL ESQUEMA DE TRABAJO Y MEDIDAS DE CONTINGENCIA EN LOS ÓRGANOS JURISDICCIONALES POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2020.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de junio de 2020.
 
@@ -75,11 +75,11 @@ Por lo anterior, con fundamento en los párrafos primero y séptimo del artícul
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 18/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JULIO DE 2020)</small>
 
 ###### Artículo 1.
 
-Esquema de contingencia. Con el objetivo de dar continuidad a las medidas tendientes a evitar la concentración de personas y la propagación del virus, así como reanudar las actividades jurisdiccionales en mayor escala dentro del Poder Judicial de la Federación, se establece que durante el período del 16 de junio al 15 de julio de 2020, la función jurisdiccional se regirá por los siguientes postulados:
+Esquema de contingencia. Con el objetivo de dar continuidad a las medidas tendientes a evitar la concentración de personas y la propagación del virus, así como reanudar las actividades jurisdiccionales en mayor escala dentro del Poder Judicial de la Federación, se establece que durante el período del 16 de junio al 31 de julio de 2020, la función jurisdiccional se regirá por los siguientes postulados:
 
 I. Trámite y resolución de casos urgentes. Sólo se dará trámite a los escritos iniciales que se presenten físicamente en aquéllos asuntos que se califiquen como "urgentes", de conformidad con lo dispuesto en Capítulo I del presente Acuerdo.
 
@@ -564,3 +564,27 @@ CUARTO. La relación de días en que el personal de cada órgano jurisdiccional 
 QUINTO. Se faculta a la Comisión Especial para que, considerando la información disponible sobre la evolución de la contingencia sanitaria y atendiendo las mejores prácticas en la materia, modifique o suspenda los esquemas de trabajo o medidas comprendidas en cada uno, según se estime necesario para hacer frente a la pandemia por COVID-19.
 
 SEXTO. El escalonamiento de los órganos jurisdiccionales para el disfrute del período vacacional se regulará por lo dispuesto en el Acuerdo General 16/2020.
+
+D.O.F. 16 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 18/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 13/2020 RELATIVO AL ESQUEMA DE TRABAJO Y MEDIDAS DE CONTINGENCIA EN LOS ÓRGANOS JURISDICCIONALES POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19, EN RELACIÓN CON EL PERIODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. La relación de los órganos jurisdiccionales de guardia durante el periodo de contingencia se encuentra en el anexo contenido en la siguiente liga: http://www.cjf.gob.mx/2020/GuardiasJulio2.pdf. Adicionalmente, las ligas con órganos que han estado de guardia durante los períodos contenidos en los Acuerdos Generales 4/2020, 6/2020, 8/2020, 10/2020, 13/2020 y 15/2020 pueden consultarse, respectivamente, en los siguientes enlaces: http://www.cjf.gob.mx/resources/Anexoacdo4_2020.pdf;
+
+https://www.cjf.gob.mx/2020/anexocontingencia0420.pdf;
+
+https://www.cjf.gob.mx/2020/guardiasmayo.pdf;
+
+https://www.cjf.gob.mx/2020/guardiasjunio.pdf;
+
+https://www.cjf.gob.mx/2020/GuardiasJunio_a.pdf; y
+
+http://www.cjf.gob.mx/2020/GuardiasJunio3.pdf.
+
+CUARTO. La relación de días en que el personal de cada órgano jurisdiccional puede asistir físicamente a éste, con la limitante establecida en los artículos 11, fracción II, y 16, fracción III, de este Acuerdo, se encuentra en el anexo 2 contemplado en el siguiente enlace: http://www.cjf.gob.mx/2020/PersonalOJJulio2.pdf
+
+QUINTO. Se faculta a la Comisión Especial para que, considerando la información disponible sobre la evolución de la contingencia sanitaria y atendiendo las mejores prácticas en la materia, modifique o suspenda los esquemas de trabajo o medidas comprendidas en cada uno, según se estime necesario para hacer frente a la pandemia por COVID-19.
