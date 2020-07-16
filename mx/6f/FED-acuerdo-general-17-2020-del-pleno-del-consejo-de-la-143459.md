@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2020-del-pleno-del-consejo-de-la-143459"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-06-30"
-last_updated: "2020-06-30"
+last_updated: "2020-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143459&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-06-29"
 
 ACUERDO GENERAL 17/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS MEDIDAS DE CONTINGENCIA EN LAS ÁREAS ADMINISTRATIVAS DEL PROPIO CONSEJO POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2020.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 30 de junio de 2020.
 
@@ -63,9 +63,11 @@ ACUERDO
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 19/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JULIO DE 2020)</small>
+
 ###### Artículo 1.
 
-Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 al 15 de julio de 2020.
+Vigencia. Con la finalidad de evitar la concentración de personas y, con ello, la propagación del virus que ocasiona la enfermedad Covid-19, las labores de las áreas administrativas del Consejo de la Judicatura Federal se sujetarán a las siguientes modalidades durante el período comprendido del 1 al 31 de julio de 2020.
 
 ###### Artículo 2.
 
@@ -342,3 +344,13 @@ NOVENO. La Dirección General de Estadística Judicial tendrá un plazo de 5 dí
 DÉCIMO. La Dirección General de Tecnologías de la Información verificará la capacidad de almacenamiento de los correos electrónicos institucionales y atenderá las consultas en torno a la optimización de dicha herramienta.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 17/2020, del Pleno del Consejo de la Judicatura Federal, relativo a las medidas de contingencia en las áreas administrativas del propio Consejo por el fenómeno de salud pública derivado del virus COVID-19, fue aprobado por el Pleno del Consejo, en sesión extraordinaria de 29 de junio de 2020, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Jorge Antonio Cruz Ramos, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 29 de junio de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 19/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 17/2020 RELATIVO A LAS MEDIDAS DE CONTINGENCIA EN LAS ÁREAS ADMINISTRATIVAS DEL PROPIO CONSEJO POR EL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19, EN RELACIÓN CON EL PERÍODO DE VIGENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
