@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-141
 country: "mx"
 rank: "codigo"
 publication_date: "2020-02-05"
-last_updated: "2020-02-05"
+last_updated: "2020-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE JULIO DE 2020 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE JULIO DE 2020.]</small>
 
 Código publicado en el Número 16 del Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de febrero de 2020.
 
@@ -683,9 +683,15 @@ En el desarrollo de sus funciones y en el conocimiento de los asuntos que impliq
 
 ### CAPÍTULO III. SANCIONES
 
-Artículo 15 (sic). Sin perjuicio de la responsabilidad civil o penal prevista en la Constitución Política del Estado de Tamaulipas, Código Penal para el Estado de Tamaulipas, y demás leyes aplicables según sea el caso, el incumplimiento de este Código y la violación en las normas contenidas constituyen faltas disciplinarias, las cuales serán sancionadas de conformidad con la normatividad aplicable.
+> <small>(F. DE E., P.O. 16 DE JULIO DE 2020)</small>
 
-###### Artículo 16.
+###### Artículo 6.
+
+Sin perjuicio de la responsabilidad civil o penal prevista en la Constitución Política del Estado de Tamaulipas, Código Penal para el Estado de Tamaulipas, y demás leyes aplicables según sea el caso, el incumplimiento de este Código y la violación en las normas contenidas constituyen faltas disciplinarias, las cuales serán sancionadas de conformidad con la normatividad aplicable.
+
+> <small>(F. DE E., P.O. 16 DE JULIO DE 2020)</small>
+
+###### Artículo 7.
 
 La inobservancia a lo previsto en el presente Código y a una recomendación del Comité, será sancionado conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
