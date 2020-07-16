@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2020-05-14"
+last_updated: "2020-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2020.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -245,7 +245,9 @@ n) El Instituto Potosino de la Juventud.
 
 ñ) La Junta Estatal de Caminos.
 
-o) Quien presida la Comisión de Desarrollo Económico y Social del Congreso del Estado.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2020)</small>
+
+o) Quienes presidan, la Comisión de Desarrollo Económico y Social; y el Comité de Reforma para la Competitividad y Desarrollo Sustentable, entes pertenecientes al Congreso del Estado.
 
 p) Los secretarios del Ramo y titulares de las entidades de la administración pública del Estado, que acuerde el Presidente del Sistema.
 
@@ -363,7 +365,9 @@ I. Un presidente que será el titular de la Secretaría Ejecutiva, quien podrá 
 
 II. Un presidente municipal por cada una de las microregiones del Estado, elegido por insaculación;
 
-III. Un representante del Poder Legislativo del Estado, que será un integrante de la comisión legislativa competente en materia de desarrollo social;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2020)</small>
+
+III. Dos representantes del Poder Legislativo del Estado, que serán quienes presidan, la Comisión de Desarrollo Económico y Social; y el Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado;
 
 IV. Dos representantes de instituciones académicas o de investigación, relacionadas con el desarrollo social;
 
@@ -929,8 +933,16 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 14 DE MAYO DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0677.- SE REFORMA EL ARTÍCULO 12 EN SU FRACCIÓN V, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0677.- SE REFORMA EL ARTÍCULO 12 EN SU FRACCIÓN V, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 16 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0720.- SE REFORMA (SIC) LOS ARTÍCULOS 8 EN SU FRACCIÓN III EL INCISO O) Y 15 EN SU FRACCIÓN III, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ."]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
-SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
