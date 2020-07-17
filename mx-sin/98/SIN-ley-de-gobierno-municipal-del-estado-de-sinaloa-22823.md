@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2018-09-17"
+last_updated: "2020-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -201,17 +201,39 @@ Los ayuntamientos deberán resolver colectivamente todos los asuntos de su compe
 
 En casos especiales a juicio del Ayuntamiento, podrá sesionarse en lugar diferente al señalado en el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2020)</small>
 
-Asimismo, el Ayuntamiento sesionará en cabildo abierto cuando menos una vez cada dos meses para recibir directamente de las personas, propuestas, opiniones o proyectos relacionados con temas de interés general, buscando fomentar la participación de los habitantes de los municipios.
+En los casos de fuerza mayor que impidan la presencia física en las sedes oficiales de quienes integren los Ayuntamientos, sus Comisiones y órganos técnicos, podrán realizar sesiones virtuales o a distancia con el uso de las tecnologías de la información y comunicación.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 17 DE JULIO DE 2020)</small>
 
-De cada sesión se levantará un acta donde se asentarán los acuerdos que se tomen, registrándose éstas en un libro que para tal efecto llevará el Secretario del Ayuntamiento, firmándola en unión del Presidente Municipal, Síndico Procurador y Regidores presentes.
+Se considerarán de fuerza mayor, los supuestos siguientes:
 
-(REPUBLICADO, P.O. 30 DE NOVIEMBRE DE 2016)
+I. Contingencias y emergencias sanitarias declaradas por las autoridades competentes;
 
-El Reglamento Interior del Ayuntamiento normará pormenorizadamente lo relativo a las sesiones.
+II. Contingencias y emergencias que deriven de fenómenos climatológicos, meteorológicos o ambientales; y
+
+III. Las derivadas del acatamiento a medidas y recomendaciones de las autoridades de protección civil.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2020)</small>
+
+Se garantizará el derecho de participación y voto en las sesiones de los miembros de los Cabildos.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2020)</small>
+
+Para poder sesionar virtualmente, previamente los miembros del Ayuntamiento deberán dejar asentado en actas la acreditación de alguno de los supuestos anteriores.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2020)</small>
+
+Asimismo, el Ayuntamiento sesionará en Cabildo abierto cuando menos una vez cada dos meses para recibir directamente de las personas, propuestas, opiniones o proyectos relacionados con temas de interés general, buscando fomentar la participación de los habitantes del municipio.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2020)</small>
+
+De cada sesión se levantará un acta donde se asentarán los acuerdos que se tomen, registrándose en un libro que para tal efecto llevará el Secretario del Ayuntamiento y firmándola en unión de las personas titulares de la Presidencia Municipal, de la Sindicatura de Procuración y de las Regidurías presentes.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2020)</small>
+
+El Reglamento Interior del Ayuntamiento normará pormenorizadamente lo relativo a las sesiones tanto presenciales como virtuales.
 
 ###### Artículo 26.
 
@@ -972,6 +994,10 @@ Las Comisiones Permanentes tendrán la competencia que se derive de su denominac
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
 
 Para el ejercicio de sus funciones, las comisiones permanentes deberán trabajar de manera colegiada al menos una vez al mes, debiendo entregar en la primera sesión mensual de cabildo el informe de las actividades, las resoluciones y observaciones derivadas de los trabajos asignados en el mes inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2020)</small>
+
+Las Comisiones podrán realizar reuniones virtuales o a distancia en los términos establecidos en el artículo 25 de esta Ley.
 
 ###### Artículo 45.
 
@@ -1950,3 +1976,9 @@ P.O. 17 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 830 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 38, DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 17 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 482 QUE ADICIONA DIVERSAS DISPOSICIONES A LOS ARTÍCULOS 25 Y 44 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
