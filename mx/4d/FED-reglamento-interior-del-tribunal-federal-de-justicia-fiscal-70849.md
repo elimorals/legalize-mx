@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2017-12-19"
+last_updated: "2020-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, PUBLICADO EN EL D.O.F. DE 17 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JULIO DE 2020 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -3358,3 +3360,47 @@ Cuarto.- La Junta de Gobierno y Administración emitirá los acuerdos y reglas n
 Quinto.- Se abroga el Acuerdo G/45/2015, aprobado por el Pleno Jurisdiccional de la Sala Superior, en la sesión del 27 de mayo de 2015, publicado en el Diario Oficial de la Federación el 9 de junio de 2015.
 
 Sexto. Publíquese este Acuerdo en el Diario Oficial de la Federación y en la página web del Tribunal.
+
+D.O.F. 17 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SS/16/2020 POR EL QUE SE DA A CONOCER EL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”.]
+
+PRIMERO. El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior del Tribunal Federal de Justicia Fiscal y Administrativa, expedido mediante el ACUERDO G/SS/1/2009 de la Sala Superior del entonces Tribunal Federal de Justicia Fiscal y Administrativa, aprobado en sesión del once de noviembre de dos mil nueve, así como sus reformas, y se derogan todas las disposiciones que se opongan al presente ordenamiento
+
+TERCERO. El Pleno General deberá emitir los lineamientos para la integración del Plan Estratégico institucional, dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente ordenamiento.
+
+CUARTO. El Pleno General expedirá los acuerdos relativos a la creación o reconfiguración de las Comisiones consultivas, dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente ordenamiento.
+
+QUINTO. El Pleno General y la Junta, según corresponda, emitirán en breve plazo los acuerdos necesarios para la adecuación de otros reglamentos, acuerdos, instructivos, lineamientos o reglas de operación, que deban modificarse con motivo de la entrada en vigor de este Reglamento.
+
+SEXTO. La Junta elaborará el proyecto de Estatuto del Sistema Profesional de Carrera Jurisdiccional en breve plazo.
+
+SÉPTIMO. El Servicio de Transmisión Electrónica de Contenidos, a que se refieren los artículos 9 de la Ley y 93 del Reglamento, se pondrá en operación condicionado a la disponibilidad presupuestaria con que cuente el Tribunal, y al plazo que se requiera para su instrumentación tecnológica.
+
+OCTAVO. Las Unidades Administrativas, Direcciones Generales y Coordinaciones de reciente creación, que no se encontraban contempladas en el Reglamento Interior del Tribunal Federal de Justicia Fiscal y Administrativa, entrarán en funciones una vez que la Junta emita los lineamientos y disposiciones de carácter general correspondientes.
+
+NOVENO. La Comisión para la Igualdad de Género continuará en funciones hasta en tanto el Pleno General de la Sala Superior establezca la reconfiguración de las Comisiones consultivas, conforme al Artículo Transitorio TERCERO.
+
+DÉCIMO. La Tercera Sección de la Sala Superior iniciará sus actividades al día siguiente que la Junta de Gobierno y Administración adscriba a los Magistrados designados por el Presidente de la República y aprobados por el Senado de la República.
+
+DÉCIMO PRIMERO. Si llegare el caso de que se presenten asuntos cuyo trámite corresponda a la Tercera Sección, sin que los Magistrados correspondientes hayan sido aprobados por el Senado de la República, la Tercera Sección se integrará en los términos previstos en la Ley Orgánica de este Tribunal ante la ausencia de los titulares.
+
+DÉCIMO SEGUNDO. Las Salas Especializadas en materia de Responsabilidades Administrativas iniciarán sus actividades al día siguiente a aquel en que la Junta de Gobierno y Administración adscriba a los Magistrados designados por el Presidente de la República y aprobados por el Senado de la República.
+
+DÉCIMO TERCERO. Las disposiciones referidas en el Reglamento a la Tercera Sección de la Sala Superior y a las Salas Especializadas en Materia de Responsabilidades Administrativas, entrarán en vigor hasta que el Presidente de la República expida los nombramientos de los Magistrados que ocuparán esos cargos y estos se aprueben por el Senado de la República.
+
+DÉCIMO CUARTO. En tanto se aprueban y adscriben los nombramientos de los Magistrados que integrarán las Salas Especializadas en Materia de Responsabilidades Administrativas, la Décimo Tercera Sala Regional Metropolitana continuará en sus funciones de Sala Ordinaria y, temporalmente, como Sala Auxiliar Metropolitana en Materia de Responsabilidades Administrativas Graves.
+
+La competencia especializada de la Sala Auxiliar en Materia de Responsabilidades Administrativas se circunscribe a los juicios de responsabilidades administrativas graves, que se han presentado a partir del inicio de sus actividades y concluirá un día antes de que la Junta de Gobierno y Administración adscriba a los magistrados aprobados por el Senado de la República y adscritos a las Salas Especializadas en la materia.
+
+La Sala Auxiliar Metropolitana en Materia de Responsabilidades Administrativas Graves a que se refiere este artículo entregará a los magistrados aprobados y adscritos a las Salas Especializadas, los expedientes que se hayan instruido durante su ejercicio y que correspondan a su respectiva jurisdicción.
+
+DÉCIMO QUINTO. Al concluir las funciones de la Sala Auxiliar Metropolitana en Materia de Responsabilidades Administrativas Graves, continuará con su competencia como Décimo Tercera Sala Regional Metropolitana.
+
+DÉCIMO SEXTO. La Junta determinará el inicio de actividades de la Sala Regional del Centro IV y la redistribución de los expedientes que integrarán su inventario inicial, señalando en el Acuerdo respectivo las medidas necesarias para ese objeto.
+
+DÉCIMO SÉPTIMO. El Pleno Jurisdiccional de la Sala Superior emitirá en breve plazo el catálogo de claves de identificación de las tesis emitidas por las Salas Regionales Ordinarias, Especializadas, Auxiliares o Mixtas, para su publicación en la Revista del Tribunal.
+
+DÉCIMO OCTAVO. Publíquese en el Diario Oficial de la Federación.
