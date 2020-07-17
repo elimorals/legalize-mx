@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2020-06-24"
+last_updated: "2020-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2020.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -498,6 +498,22 @@ Cuando estén despachados todos los negocios del Congreso, éste podrá dispensa
 ###### Art. 59.
 
 El Congreso se reunirá en la Capital del Estado o donde el Ejecutivo se encuentre; pero podrá cambiar de residencia provisionalmente, si así lo acuerdan las dos terceras partes de los Diputados presentes.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 17 DE JULIO DE 2020)</small>
+
+Las sesiones del Congreso serán presenciales, salvo que, por algún evento extraordinario decretado por autoridad competente, fuere imposible o resultare un riesgo que los Diputados concurrieran a las instalaciones del recinto oficial, estas se llevarán a cabo de manera no presencial a través de medios electrónicos, en cuyo caso, temporalmente y hasta en tanto se supere la eventualidad se procederá en los términos siguientes
+
+I.- Deberá emitirse una declaratoria para sesionar de manera no presencial a través de medios electrónicos y que esta sea aprobada por el voto presencial de las dos terceras partes de la legislatura;
+
+II.- Está establecerá el procedimiento mediante el cual se permita la continuidad de los trabajos legislativos, garantizando la libertad absoluta para hablar de los diputados, la veracidad y el libre ejercicio del voto legislativo;
+
+III.- Lo anterior deberá ser publicado en el Periódico Oficial del Estado para que surta sus efectos y durará hasta que termine la causa que le dio origen;
+
+IV.- Todas las sesiones que se celebren como consecuencia de la declaratoria emitida deberán ser transmitidas en vivo al público en general por medios electrónicos, y deberá garantizarse la máxima publicidad de las mismas.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2020)</small>
+
+Cualquier intento de simulación de un evento extraordinario deberá ser sancionado por las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -4204,3 +4220,9 @@ P.O. 24 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 298. SE ADICIONA DE UN NOVENO PÁRRAFO AL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 332. SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
