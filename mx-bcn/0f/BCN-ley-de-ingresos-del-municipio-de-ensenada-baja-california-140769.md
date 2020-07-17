@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-municipio-de-ensenada-baja-california-14076
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-12-31"
-last_updated: "2019-12-31"
+last_updated: "2020-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PARA EL EJERCICIO FISCAL DE 2020
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2020.
 
 Ley publicada en el Número Especial 67, Sección V del Periódico Oficial del Estado de Baja California, el martes 31 de diciembre de 2019.
 
