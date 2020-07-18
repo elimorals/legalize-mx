@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-acuicultura-y-pesca-del-estado-de-tabasco-85949"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-28"
-last_updated: "2017-07-05"
+last_updated: "2020-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ACUICULTURA Y PESCA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2020.
 
 Ley publicada en el Suplemento Q del Periódico Oficial del Estado de Tabasco, el miércoles 28 de diciembre de 2011.
 
@@ -1209,13 +1209,17 @@ No se tomarán en cuenta en la resolución del recurso, hechos, documentos o ale
 
 La Secretaría, resolverá en definitiva lo conducente en un término no mayor de 10 días hábiles contados a partir de la fecha que el expediente quede integrado, la resolución del recurso se notificará al interesado de acuerdo a lo establecido en esta Ley.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2020)</small>
+
 ## TÍTULO X. DEL ROBO A UNIDADES DE PRODUCCIÓN ACUÍCOLA
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2020)</small>
 
 ### CAPÍTULO ÚNICO. DEL ROBO DE ESPECIES ACUÍCOLAS
 
-###### ARTÍCULO 105.
+###### Artículo 105.
 
-El robo de especies cultivadas en unidades de producción acuícola, se sancionará con prisión de seis a doce años. Si se realiza con violencia la sanción se agravará en una cuarta parte más.
+(DEROGADO, P.O. 18 DE JULIO DE 2020)
 
 ## TRANSITORIOS
 
@@ -1270,3 +1274,11 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 18 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 209 POR EL QUE “SE DEROGA EL TITULO X, CON SU CAPÍTULO ÚNICO Y SU ARTÍCULO 105 DE LA LEY DE ACUICULTURA Y PESCA DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las demás disposiciones que se opongan al contenido del presente Decreto.
