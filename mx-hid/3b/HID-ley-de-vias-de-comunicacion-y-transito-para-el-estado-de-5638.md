@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vias-de-comunicacion-y-transito-para-el-estado-de-5638"
 country: "mx"
 rank: "ley"
 publication_date: "1970-01-08"
-last_updated: "2017-10-02"
+last_updated: "2020-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE VIAS DE COMUNICACION Y TRANSITO PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 20 DE JULIO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE VÍAS DE COMUNICACIÓN Y TRÁNSITO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2020 (ABROGADO).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Hidalgo, el 8 de enero de 1970.
 
@@ -1350,3 +1352,15 @@ P.O. 2 DE OCTUBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. En un término de 90 días los ayuntamientos adecuarán y/o expedirán la reglamentación correspondiente.
+
+P.O. 20 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 410 QUE CONTIENE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga la Ley de Vías de Comunicación y Tránsito del Estado de Hidalgo.
+
+TERCERO.- El Poder Ejecutivo contará con ciento ochenta días hábiles posteriores a la publicación de la presente, para expedir su Reglamento.
+
+CUARTO.- Los municipios del estado contaran con un plazo de ciento ochenta días a partir de la entrada en vigor del Reglamento de esta Ley para armonizar su marco jurídico en materia de tránsito y vialidad a lo dispuesto en la presente Ley.
