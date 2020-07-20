@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2020-03-16"
+last_updated: "2020-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2020.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2617,6 +2617,8 @@ APARTADO DÉCIMO
 
 De la Secretaría de Obras Públicas
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2020)</small>
+
 ###### ARTÍCULO 109.
 
 Corresponde a la Secretaría de Obras Públicas:
@@ -2629,11 +2631,9 @@ III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de la
 
 IV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
-
 V. Asesorar técnicamente a los Comités de Concertación y Participación Social que lo requieran, en lo concerniente a la realización de obras públicas municipales.
 
-VI. Asesorar técnicamente a las instancias municipales que así lo requieran a través de la Dirección de Calidad y Fallas Geológicas o el Departamento correspondiente, en materia de discontinuidades en el subsuelo así como recabar la información necesaria para la expedición de la cartografía, planos o sistemas electrónicos que contengan la información disponible a la fecha de emisión por parte de la Secretaría de Desarrollo Urbano.
+VI. Asesorar técnicamente a las instancias municipales que así lo requieran a través de la Dirección de Calidad y Fallas Geológicas o el Departamento correspondiente, en materia de discontinuidades en el subsuelo, así como recabar la información necesaria para la expedición de la cartografía, planos o sistemas electrónicos que contengan la información disponible a la fecha de emisión por parte de la Secretaría de Desarrollo Urbano.
 
 VII. Supervisar y controlar las actividades de las diferentes áreas que integran esta Secretaría.
 
@@ -2641,27 +2641,21 @@ VIII. Previo acuerdo con el Instituto Municipal de Planeación, expedir las conv
 
 IX. Coordinarse, en el ámbito de sus facultades de acuerdo a su capacidad operativa, con las demás instancias municipales.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
 X. Cumplir con lo establecido en la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes.
-
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
 XI. Contratar los servicios y adquirir los materiales y suministros requeridos para la ejecución de la obra pública que sea realizada directamente por esta Secretaría.
 
 Para el caso del supuesto establecido en el párrafo anterior, dicha facultad se encuentra limitada exclusivamente para el procedimiento de compra directa establecido en el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
-
 XII. Registrar en el Sistema de Contabilidad Gubernamental todos los expedientes de Obra Pública.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+XIII. Realizar directamente o a través de terceros las obras o acciones destinadas a viviendas unifamiliares de hogares ubicados en las zonas identificadas como de atención prioritaria, de pobreza extrema, de alto y muy alto rezago social así como otras zonas del municipio que presenten carencias sociales contenidas en los indicadores del informe anual emitido por el CONEVAL, previo estudio socioeconómico o su equivalente, que incluyan construcción nueva, ampliación, remodelación, mantenimiento o reparación integral de las construcciones; otorgándolas al propietario del inmueble en la calidad de título gratuito todo ello apegado al marco de los programas y sus reglas de operación, ya sean federales, estatales y/o municipales. Por cada intervención que la Secretaría realice, deberá signarse una concertación por cada beneficiario especificando la autorización manifiesta para que la acción corresponda, así como los alcances y metas de la acción programada, su costo y supervisión correspondiente.
 
-XIII. Realizar directamente o a través de terceros las obras o acciones destinadas a viviendas unifamiliares de hogares ubicados en las zonas identificadas como de atención prioritaria, de pobreza extrema, de alto y muy alto rezago social así como otras zonas del municipio que presenten carencias sociales contenidas en los indicadores del informe anual emitido por el CONEVAL, previo estudio socioeconómico o su equivalente, que incluyan construcción nueva, ampliación, remodelación, mantenimiento o reparación integral de las construcciones; otorgándolas al propietario del inmueble en la calidad de título gratuito todo ello apegado al marco de los programas y sus reglas de operación, ya sean federales, estatales y/o municipales. Por cada intervención que la Secretaría realice, deberá signarse una concertación por cada beneficiario especificando la autorización manifiesta para que la acción corresponda así como los alcances y metas de la acción programada, su costo y supervisión correspondiente.
+XIV. Ejecutar las acciones necesarias para realizar programas y proyectos para, el manejo, operación, administración, disposición y destino final de materiales residuales "escombro" derivados de la construcción de obra pública y/o privada, depositados en los tiraderos municipales, a cargo de la Unidad denominada "Centro de Transferencia", observando en todo momento las normas ambientales, así como las disposiciones que en materia de planeación, medio ambiente, desarrollo urbano y finanzas correspondan.
 
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2016)</small>
+XIV bis. Coordinarse con las distintas autoridades de los ámbitos municipales y estatales, a efecto de sugerir al Honorable Cabildo la firma de instrumentos jurídicos que permitan el buen uso y funcionamiento de los Tiraderos de escombro, pudiéndose optar por el esquema de tiraderos de escombros de zona metropolitana; sugerir o hacer planteamientos y propuestas, que tengan por objeto la consolidación de alianzas estratégicas con los sectores público, gobiernos del estado y municipales, así como con el sector el (sic) privado, cámaras empresariales, organismos o asociaciones de la industria de la construcción, interesadas en el uso, operación y administración de tiraderos de residuos derivados de la construcción de obra, siempre y cuando exista viabilidad de los proyectos.
 
-XIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal
+XIV (SIC). Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO DÉCIMO PRIMERO
 
@@ -24788,3 +24782,9 @@ P.O. 16 DE MARZO DE 2020.
 PRIMERO: Las presentes reformas iniciarán su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO: Se instruye a la Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración realicen los trámites legales y administrativos conducentes.
+
+P.O. 20 DE JULIO DE 2020.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE SE “REFORMA AL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
+
+UNICO: La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
