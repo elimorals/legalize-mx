@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2020-06-15"
+last_updated: "2020-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -432,6 +432,10 @@ I Bis 1. Un representante del Tribunal Superior de Justicia;
 II. Instituto Estatal de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
 
 III. Comisión Estatal de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2020)</small>
+
+III Bis.- Comisión Estatal Electoral
 
 IV. Secretaría de Seguridad Pública;
 
@@ -995,6 +999,18 @@ XII. Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 XIII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos jurídicos.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2020)</small>
+
+###### Artículo 43 Bis.
+
+Corresponde a la Comisión Estatal Electoral, de conformidad con esta Ley y acorde con la perspectiva de género, lo siguiente:
+
+I. Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
+
+III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+
 ###### Artículo 44.
 
 Las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias, deberán prestar servicios de atención a las víctimas, consistentes en:
@@ -1322,3 +1338,9 @@ P.O. 15 JUNIO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Dentro de los 60 días naturales posteriores a la entrada en vigor del presente Decreto, el Instituto Estatal de las Mujeres deberá crear el modelo de seguimiento a las víctimas ingresadas a los refugios, que hayan cumplido su periodo máximo de estancia dentro de los mismos.
+
+P.O. 20 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 333. SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 26, Y EL ARTÍCULO 43 BIS, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
