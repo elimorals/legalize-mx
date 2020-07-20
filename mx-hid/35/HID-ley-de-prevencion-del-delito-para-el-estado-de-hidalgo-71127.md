@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-del-delito-para-el-estado-de-hidalgo-71127"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-07"
-last_updated: "2013-03-25"
+last_updated: "2020-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE PREVENCION DEL DELITO PARA EL ESTADO DE HIDALGO
 
-LEY DE PREVENCION DEL DELITO PARA EL ESTADO DE HIDALGO
+LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de diciembre de 2009.
 
@@ -227,6 +227,14 @@ Los programas de las instituciones que conforman el Consejo Estatal que incidan 
 
 Los programas institucionales tenderán a lograr un efecto multiplicador, fomentando la participación de las autoridades de los tres niveles de Gobierno y de las organizaciones civiles, académicas y comunitarias.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2020)</small>
+
+###### Art. 13 Bis.
+
+Los programas, fondos y recursos destinados a la prevención del delito son prioritarios y de interés público, por lo cual no podrán sufrir disminuciones en sus montos presupuestales, excepto en los casos y términos que establezca el Congreso del Estado al aprobar el Presupuesto de Egresos.
+
+El presupuesto estatal destinado a la prevención del delito no podrá ser inferior, en términos reales, al del año fiscal anterior.
+
 ###### Art. 14.
 
 A fin de articular al conjunto de políticas sociales en una política de prevención del delito, que cuente con un mecanismo de actualización permanente para su evaluación y control, los programas que desarrollen las instituciones que conforman el Consejo Estatal en materia de seguridad pública, educación, salud, desarrollo social, desarrollo integral de la familia, procuración e impartición de justicia y cultura de la legalidad, serán evaluados conjuntamente con periodicidad semestral, con la asesoría de profesionales y académicos especialistas en la materia.
@@ -336,3 +344,9 @@ LIC. MIGUEL ÁNGEL OSORIO CHONG.
 P.O. 25 DE MARZO DE 2013
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 411 QUE ADICIONA EL ARTÍCULO 13 BIS DE LA LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
