@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2019-10-07"
+last_updated: "2020-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2020.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -409,31 +409,63 @@ Los modelos de atención, prevención y sanción que establezcan el Estado y los
 
 ### CAPÍTULO IV BIS. DE LA VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2020)</small>
 
-ARTÍCULO 23 BIS.- La violencia política en razón de género es toda acción u omisión que, en el marco del ejercicio de los derechos político electorales o bien en el ejercicio de un cargo público, tenga por objeto o resultado limitar o anular el ejercicio efectivo de los derechos político electorales de una mujer o mujeres, o el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público.
+ARTÍCULO 23 BIS.- La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
-Se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón del género.
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-ARTÍCULO 23 TER.- Se consideran como conductas constitutivas de violencia política en razón de género, las siguientes:
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2020)</small>
 
-l. Imponer la realización de actividades distintas a las atribuciones inherentes a su cargo o función;
+ARTÍCULO 23 TER.- La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
 
-II. Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función;
+I.- Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
 
-III. Proporcionar información o documentación incompleta o errónea con objeto de impedir el ejercicio pleno de los derechos político electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+II.- Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
 
-IV. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político electorales o inducir al ejercicio indebido de sus atribuciones;
+III.- Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-V. Difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político electorales o impedir el ejercicio de sus atribuciones o facultades;
+IV.- Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
 
-VI. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida;
+V.- Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
 
-VII. Impedir o restringir su reincorporación al cargo o función en los casos de licencia o permiso conforme a las disposiciones aplicables; y
+VI.- Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
 
-VIII. Impedir u obstaculizar los derechos de asociación y afiliación a un partido político.
+VII.- Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+VIII.- Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+IX.- Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+X.- Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+XI.- Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+XII.- Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+XIII.- Restringir los derechos políticos de las mujeres con base en la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+XIV.- Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+XV.- Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+XVI.- Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+XVII.- Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XVIII.- Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XIX.- Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+XX.- Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+XXI.- Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad; y
+
+XXII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
 ### CAPÍTULO V. DE LAS ÓRDENES DE PROTECCIÓN
 
@@ -541,6 +573,10 @@ Los menores de edad podrán solicitar a través de su representante legal las ó
 
 Para los efectos previstos en este capítulo los cuerpos de seguridad pública estatal y municipal así como sus auxiliares cumplirán y vigilaran la ejecución de las órdenes de protección previstas en esta Ley.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2020)</small>
+
+ARTÍCULO 32 BIS.- En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Hidalgo, y el Instituto Estatal Electoral podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
+
 ## TÍTULO TERCERO
 
 ### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
@@ -591,13 +627,17 @@ XI.- El Poder Judicial a través del o la Presidente del Tribunal Superior de Ju
 
 XII.- El Congreso del Estado, a través del Presidente de la Junta de Gobierno;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2020)</small>
 
-XIII.- La Comisión de Derechos Humanos del Estado de Hidalgo; y
+XIII.- La Comisión de Derechos Humanos del Estado de Hidalgo;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2020)</small>
 
-XIV.- Los organismos y Dependencias instituidos para la protección de los derechos de las mujeres en el ámbito Municipal.
+XIV.- la Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE JULIO DE 2020)</small>
+
+XV.- Los organismos y Dependencias instituidos para la protección de los derechos de las mujeres en el ámbito Municipal.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
@@ -1013,13 +1053,23 @@ XVIII.- Las demás previstas para el cumplimiento de la Ley.
 
 ARTÍCULO 47 BIS.- Corresponde al Instituto Estatal Electoral, en el ámbito de sus atribuciones:
 
-l. Prevenir, atender, sancionar y en su caso erradicar la violencia política en razón de género;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2020)</small>
+
+I. Prevenir, atender y en su caso erradicar la violencia política contra las mujeres en razón de género;
 
 II. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos políticos-electorales de las mujeres;
 
-III. Realizar la difusión de campañas para la prevención y erradicación de la violencia política en razón de género;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2020)</small>
 
-IV. Capacitar al personal que labora en el Instituto Estatal Electoral y personas integrantes de mesas directivas de casilla para prevenir y en su caso erradicar la violencia política en razón de género; y
+III.- Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2020)</small>
+
+III Bis. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2020)</small>
+
+IV.- Capacitar al personal que labora en el Instituto Estatal Electoral y personas integrantes de mesas directivas de casilla para prevenir y en su caso erradicar la violencia política contra las mujeres en razón de género; y
 
 V. Las demás que establezcan la legislación en materia electoral.
 
@@ -1332,3 +1382,11 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 20 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 412 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Lo dispuesto en el ARTÍCULO SEGUNDO del presente Decreto, aplicará a partir del siguiente proceso electoral local.
