@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-electoral-109465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-19"
-last_updated: "2019-02-08"
+last_updated: "2020-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109465&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-19"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2020.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el miércoles 19 de agosto de 2015.
 
@@ -105,7 +105,9 @@ REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL
 
 1. El presente Reglamento es de observancia general para el personal y las diversas instancias del Instituto. El Consejo General vigilará el cumplimiento irrestricto de las disposiciones contenidas en el mismo.
 
-2. Los funcionarios, las Comisiones, así como las áreas del Instituto, que proporcionen información en el ejercicio de sus atribuciones, deberán atender al principio de máxima publicidad; en caso de contar con información confidencial y/o reservada deberán protegerla de acuerdo con lo indicado en la Ley Federal de Transparencia y Acceso a la Información Pública y el Reglamento del Instituto Nacional Electoral en materia de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Las y los funcionarios, las Comisiones, así como las áreas del Instituto, que proporcionen información en el ejercicio de sus atribuciones, deberán atender al principio de máxima publicidad; en caso de contar con información confidencial y/o reservada deberán protegerla de acuerdo con lo indicado en la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y el Reglamento del Instituto Nacional Electoral en materia de Transparencia y Acceso a la Información Pública.
 
 ###### ARTÍCULO 3.
 
@@ -168,6 +170,18 @@ z) Medio digital: Dispositivos externos en donde se puede almacenar o distribuir
 aa) Medio Electrónico: Servicios y/o Sistemas disponibles a través de la Red Nacional de Informática del Instituto (RedINE) y/o internet, por medio de los cuales se puede distribuir, almacenar o compartir información, y
 
 bb) INETEL: El Centro Metropolitano INETEL es servicio telefónico de consultas institucional, que realiza tareas de orientación a la ciudadanía y de apoyo a los órganos del Instituto, en materia política electoral y de acceso a la información.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+cc) Paridad de género: Igualdad política entre mujeres y hombres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+dd) Violencia política contra las mujeres en razón de género: toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo. Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella. Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+ee) Perspectiva de género: herramienta que permite visibilizar la asignación social diferenciada de roles y tareas en virtud del sexo; revela las diferencias en oportunidades y derechos que siguen a esta asignación; evidencia las relaciones de poder originadas en estas diferencias; y pregunta por los impactos diferenciados de las leyes y políticas públicas e institucionales basadas en estas asignaciones, diferencias y relaciones de poder.
 
 ### CAPÍTULO SEGUNDO. De su Estructura
 
@@ -283,7 +297,7 @@ VI. De Control
 
 A. El Órgano Interno de Control.
 
-VII. Otros órganos colegiados
+VII. Otros órganos colegiados:
 
 A. Comisión de Capacitación Electoral y Educación Cívica;
 
@@ -299,11 +313,23 @@ F. Comisión de Quejas y Denuncias;
 
 G. Comisión de Fiscalización;
 
-H. Comisión de Vinculación con los Organismos Públicos Locales, y
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-I. Comité de Radio y Televisión.
+H. Comisión de Vinculación con los Organismos Públicos Locales;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+I. Comisión de Igualdad de Género y No Discriminación, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+J. Comité de Radio y Televisión.
 
 2. La creación de Unidades Técnicas distintas a las previstas en la Ley Electoral y en el presente Reglamento, deberá ser aprobada por la mayoría calificada del Consejo General. En el acuerdo de creación correspondiente se determinará la adscripción de las Unidades Técnicas, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. Los órganos de dirección, ejecutivos, técnicos, de vigilancia; en materia de transparencia, de control y cualquier otro órgano colegiado; así como sus integrantes de forma individual, desempeñarán sus funciones en estricto apego a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad, paridad, y realizarán sus actividades con perspectiva de género.
 
 ## TÍTULO SEGUNDO. DE LOS ÓRGANOS DE DIRECCIÓN CENTRALES
 
@@ -315,7 +341,9 @@ I. Comité de Radio y Televisión.
 
 a) Aprobar las Políticas y Programas Generales del Instituto, en el marco del Modelo Integral de Planeación Institucional, a propuesta de la Junta General Ejecutiva;
 
-b) Dirigir las actividades, vigilar la oportuna integración y el adecuado funcionamiento de los demás órganos del Instituto en función de las políticas y programas aprobados;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+b) Dirigir las actividades, vigilar la oportuna integración y el adecuado funcionamiento de los demás órganos del Instituto, con perspectiva de género, en función de las políticas y programas aprobados y de conformidad con el principio de paridad de género;
 
 c) Dictar las modalidades pertinentes para el óptimo aprovechamiento de los recursos del Instituto;
 
@@ -335,11 +363,17 @@ h) Conocer y aprobar los informes que rinda la Comisión de Fiscalización; así
 
 i) Conocer los avances y resultados alcanzados por los órganos del Instituto en el marco de su planeación, a través de los informes trimestrales y anuales que rinda la Junta por conducto del Secretario Ejecutivo, los informes específicos que estime necesario solicitarles, los que en su caso, deba rendir el OIC; así como el Informe Anual en materia de Transparencia que debe rendir el Instituto al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-j) Integrar las Comisiones Permanentes y Temporales;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-k) Designar a los Consejeros Electorales de los Consejos Locales, en los términos de la Ley Electoral;
+j) Integrar las Comisiones Permanentes y Temporales garantizando el principio de paridad de género;
 
-l) Designar a los Directores Ejecutivos y a los Titulares de Unidad, en términos de la Ley Electoral;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+k) Designar a las Consejeras y Consejeros Electorales de los Consejos Locales garantizando el principio de paridad de género, en los términos de la Ley Electoral;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+l) Designar a las y los Directores Ejecutivos y a las y los Titulares de Unidad garantizando el principio de paridad de género, en términos de la Ley Electoral;
 
 m) Aprobar los ajustes al proyecto de presupuesto del Instituto Nacional Electoral, de conformidad con las determinaciones que, en su caso, establezca la Cámara de Diputados y conforme a los requerimientos institucionales;
 
@@ -347,7 +381,9 @@ n) Emitir los lineamientos específicos en materia de Fiscalización, contabilid
 
 o) Dictar los acuerdos necesarios para que en función de la capacidad técnica y financiera del Instituto, se desarrolle, implemente, administre y en su caso se actualice, un sistema en línea de contabilidad de los Partidos Políticos;
 
-p) Designar y remover, en su caso, a los presidentes y Consejeros Electorales de los Organismos Públicos Locales, conforme al procedimiento establecido en la Ley Electoral;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+p) Designar a las y los presidentes y a las y los Consejeras o Consejeros Electorales de los Organismos Públicos Locales garantizando el principio de paridad de género y, en su caso, removerlos conforme al procedimiento establecido en la Ley Electoral;
 
 q) Dictar los acuerdos necesarios para organizar las elecciones de los dirigentes o dirigencias de los Partidos Políticos Nacionales que así lo soliciten, con cargo a sus prerrogativas, en los términos que establece la Ley Electoral;
 
@@ -361,11 +397,25 @@ u) Aprobar los lineamientos de cómputo distrital para cada proceso electoral y 
 
 v) Aprobar el Estatuto del Servicio Profesional Electoral Nacional, a propuesta de la Junta General Ejecutiva, y
 
-w) Las demás que le confieran la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+w) Emitir los Lineamientos específicos en materia de prevención, atención y erradicación de la violencia política contra las mujeres en razón de género que deberán cumplir los partidos políticos.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+x) Las demás que le confieran la Ley Electoral y otras disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2019)</small>
 
 2. El Consejo aprobará el anteproyecto de presupuesto del Instituto de conformidad con las disposiciones constitucionales, legales, así como las emitidas por el propio Consejo, aplicando criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas e igualdad de género, y en concordancia con el modelo de planeación y visión estratégica institucional.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. Cuando por causas extraordinarias se ponga en riesgo la salud, seguridad o cualquier derecho humano del personal del Instituto, el Consejo podrá aprobar la celebración de sesiones de manera virtual o a distancia con el uso de herramientas tecnológicas; lo cual podrá hacer extensivo a las sesiones de la Junta General Ejecutiva, de Comisiones, de reuniones de trabajo y demás que considere necesarias. Cuando una persona convocada a una sesión presencial no pudiera asistir por causas extraordinarias, podrá de forma previa solicitar a la presidencia que corresponda, la participación virtual. La Secretaría Ejecutiva implementará las medidas necesarias para el desarrollo de sesiones y participaciones en modalidad virtual o a distancia.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. En todos los procedimientos, cuando se practique el emplazamiento o cualquier requerimiento deberá solicitarse a la persona que al contestar el emplazamiento o requerimiento señale una cuenta de correo electrónico para recibir vía electrónica notificaciones o comunicaciones de cualquier índole. Las diligencias que deban practicarse podrán desarrollarse por videoconferencia, las cuales se deberán grabar y agregar al procedimiento respectivo. Para el correcto desarrollo de las videoconferencias se tomarán las medidas necesarias para contar con los elementos necesarios.
 
 #### SECCIÓN PRIMERA. De las Comisiones del Consejo General
 
@@ -389,7 +439,13 @@ f) Quejas y Denuncias.
 
 g) Fiscalización, y
 
-h) Vinculación con los Organismos Públicos Locales.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+h) Vinculación con los Organismos Públicos Locales, e
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+i) Igualdad de Género y No Discriminación.
 
 II. Temporales: Aquellas creadas por el Consejo cuando las considere necesarias para el desempeño de sus atribuciones.
 
@@ -413,13 +469,17 @@ b) El informe de actividades en el que se precisen las tareas desarrolladas, su 
 
 ###### ARTÍCULO 9.
 
-1. Las Comisiones de Prerrogativas y Partidos Políticos; Organización Electoral; Servicio Profesional Electoral Nacional; Capacitación Electoral y Educación Cívica; Registro Federal de Electores; Quejas y Denuncias; Fiscalización, y Vinculación con los Organismos Públicos Locales se integrarán exclusivamente por Consejeros Electorales, designados por el Consejo, con el número de Consejeros que en cada caso establece la Ley Electoral, quienes podrán participar hasta en cuatro de ellas por un periodo de tres años, uno de los cuales será su Presidente y funcionarán de manera permanente. La Presidencia será rotativa en forma anual entre sus integrantes. El procedimiento de rotación se determinará en el Reglamento de Comisiones del Consejo.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Las Comisiones de Prerrogativas y Partidos Políticos; Organización Electoral; Servicio Profesional Electoral Nacional; Capacitación Electoral y Educación Cívica; Registro Federal de Electores; Quejas y Denuncias; Fiscalización; Vinculación con los Organismos Públicos Locales; e Igualdad de Género y No Discriminación se integrarán exclusivamente por Consejeras y Consejeros Electorales, que en atención al principio de paridad de género designe el Consejo, con el número de consejeros y Consejeras que en cada caso establece la Ley Electoral, quienes podrán participar hasta en cuatro de ellas por un periodo de tres años, uno de los cuales fungirá como Presidente o Presidenta y funcionarán de manera permanente. La Presidencia será rotativa en forma anual entre sus integrantes. El procedimiento de rotación se determinará en el Reglamento de Comisiones del Consejo.
 
 2. En la Comisión del Servicio Profesional Electoral Nacional, de Quejas y Denuncias, y de Fiscalización exclusivamente participarán Consejeros; en las demás, podrán participar con voz pero sin voto los Consejeros del Poder Legislativo y los Representantes de los Partidos Políticos.
 
 ###### ARTÍCULO 10.
 
-1. El Consejo integrará las Comisiones Temporales que considere necesarias para el desempeño de sus atribuciones, con tres o cinco Consejeros, y siempre serán presididas por uno de ellos.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. El Consejo integrará las Comisiones Temporales que considere necesarias para el desempeño de sus atribuciones, con tres o cinco Consejeras o consejeros, atendiendo el principio de paridad de género, y siempre serán presididas por una de ellas o ellos.
 
 2. En los acuerdos de integración o creación de las Comisiones Temporales, el Consejo deberá precisar el objeto específico de la misma, sus atribuciones, así como los plazos y/o condiciones a los que esté sujeta su existencia.
 
@@ -573,9 +633,13 @@ f) Los demás que les confiera la Ley Electoral y otras disposiciones aplicables
 
 1. La Presidencia del Consejo es un órgano central de dirección del Instituto de carácter unipersonal.
 
-2. Para el ejercicio de las atribuciones que la Ley Electoral confiere al Presidente del Consejo, corresponde a éste:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
 
-a) Proponer al Consejo el nombramiento de los Titulares de Unidad, de conformidad con lo previsto en el artículo 62 del presente Reglamento;
+2. Para el ejercicio de las atribuciones que la Ley Electoral confiere a quien Presida el Consejo, le corresponde:
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Proponer al Consejo el nombramiento de las y los Titulares de Unidad, de conformidad con lo previsto en el artículo 62 del presente Reglamento y garantizando el cumplimiento del principio de paridad de género;
 
 b) Proponer al Consejo el Anteproyecto de Presupuesto del año siguiente para su aprobación y, posteriormente, remitirlo al titular del Poder Ejecutivo en los plazos que para tal efecto determinen las disposiciones constitucionales y legales correspondientes;
 
@@ -611,7 +675,9 @@ p) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables;
 
 ###### ARTÍCULO 17.
 
-1. Los Consejos Locales son los órganos delegacionales de dirección constituidos en cada una de las Entidades Federativas y el Distrito Federal, que se instalan y sesionan durante los procesos electorales federales.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Los Consejos Locales son los órganos delegacionales de dirección constituidos en cada una de las Entidades Federativas y en la Ciudad de México, que se instalan y sesionan durante los Procesos Electorales Federales.
 
 ###### ARTÍCULO 18.
 
@@ -645,7 +711,9 @@ m) Conocer el presupuesto con que cuenta el Consejo Local;
 
 n) Vigilar que los Consejos Distritales se instalen en la Entidad en los términos establecidos en la Ley Electoral;
 
-o) Designar en noviembre del año anterior al de la elección, por mayoría absoluta, a los consejeros electorales que integren los Consejos Distritales a que se refiere el artículo 68, numeral 1, inciso c) de la Ley Electoral, con base en las propuestas que al efecto hagan el Consejero Presidente y los propios consejeros electorales locales;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+o) Designar en noviembre del año anterior al de la elección, por mayoría absoluta, a las Consejeras y Consejeros Electorales que integren los Consejos Distritales a que se refiere el artículo 68, numeral 1, inciso c) de la Ley Electoral, con base en las propuestas que al efecto hagan la Presidencia del Consejo, así como las Consejeras y Consejeros Electorales locales, garantizando el principio de paridad de género;
 
 p) Acreditar a los ciudadanos mexicanos que hayan presentado su solicitud de registro, de manera personal o a través de la organización a la que pertenezcan, ante el presidente del Consejo Local para participar como observadores durante el Proceso Electoral, conforme al inciso c) del numeral 1 del artículo 217 de la Ley Electoral y los lineamientos correspondientes;
 
@@ -1193,7 +1261,9 @@ o) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 1. La Secretaría Ejecutiva es el órgano central de carácter unipersonal; encargado de coordinar a la Junta, de conducir la administración y supervisar el desarrollo adecuado de las actividades de los órganos ejecutivos y técnicos del Instituto, de conformidad con las disposiciones aplicables, cuyo titular será el Secretario Ejecutivo.
 
-2. Para el cumplimiento de las atribuciones que la Ley Electoral le confiere, corresponde al Secretario Ejecutivo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Para el cumplimiento de las atribuciones que la Ley Electoral le confiere, corresponde a la o el Secretario Ejecutivo:
 
 a) Actuar como Secretario del Consejo y de la Junta, respectivamente, así como remitir a los integrantes de dichos órganos colegiados los documentos y anexos necesarios, a través de medios digitales o electrónicos del Instituto;
 
@@ -1223,7 +1293,9 @@ k) Organizar reuniones nacionales o regionales con los Vocales Ejecutivos de las
 
 l) En su caso, coordinar y supervisar la integración de los archivos de las sesiones y acuerdos de las Comisiones Temporales;
 
-m) Actuar a nombre y representación del Consejo y de la Junta en los procedimientos administrativos y judiciales en los cuales sean parte;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+m) Actuar a nombre y representación del Instituto en todo tipo de procedimientos administrativos y jurisdiccionales del orden federal y local en que sea parte o tenga interés e injerencia en el ejercicio de sus funciones, por sí o a través de la Dirección Jurídica y de las o los Vocales Ejecutivos y de las o los secretarios en las Juntas Locales y Distritales;
 
 > <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1439,7 +1511,9 @@ v) Emitir los procedimientos para la atención ciudadana que se brinda a través
 
 w) Coordinar las actividades del INETEL y presentar los informes correspondientes;
 
-x) Proporcionar a través del INETEL la información relativa a la ubicación de las oficinas del Instituto, los módulos de atención ciudadana y las casillas para votar; los requisitos para tramitar o actualizar la Credencial para Votar; la asistencia a los ciudadanos en el ejercicio de sus derechos político-electorales y la protección de sus datos personales en poder del Registro Federal de Electores, entre otros servicios de consulta telefónica, en términos de lo previsto en la Ley Electoral, el presente Reglamento y el Manual que al efecto emita la Unidad Técnica de Transparencia y Protección de Datos Personales, y
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+x) Proporcionar a través del INETEL la información relativa a la ubicación de las oficinas del Instituto, los módulos de atención ciudadana y las casillas para votar; los requisitos para tramitar o actualizar la Credencial para Votar; la asistencia a los ciudadanos en el ejercicio de sus derechos político-electorales y la protección de sus datos personales en poder del Registro Federal de Electores, entre otros servicios de consulta telefónica, en términos de lo previsto en la Ley Electoral, el presente Reglamento y las normas en materia de transparencia y protección de datos personales;
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1469,15 +1543,21 @@ c) Establecer las políticas generales, criterios técnicos y lineamientos a que
 
 d) Ejecutar las funciones que, en materia de radio y televisión, le ordene la Ley electoral y el Reglamento específico;
 
-e) Coadyuvar con la Comisión de Prerrogativas y Partidos Políticos en el conocimiento de las modificaciones de los documentos básicos de los partidos políticos y agrupaciones políticas nacionales, elaborando el proyecto de resolución que se someterá al Consejo;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-f) Llevar a cabo las acciones conducentes para la sustanciación de las impugnaciones a las modificaciones a los Estatutos de los Partidos Políticos Nacionales, establecidas en la Constitución y demás disposiciones aplicables;
+e) Coadyuvar con la Comisión de Prerrogativas y Partidos Políticos en el conocimiento de las modificaciones de los documentos básicos de los partidos políticos y agrupaciones políticas nacionales, elaborando el Proyecto de Resolución que se someterá al Consejo, mismo que deberá realizarse con perspectiva de género;
+
+f) (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
 g) Realizar los trámites necesarios para que el Instituto, los partidos políticos, los candidatos independientes, sus representantes ante los órganos del Instituto puedan disponer de las franquicias postales, y en su caso, telegráficas que les correspondan; así como resolver cualquier controversia que surja entre los usuarios de dichas franquicias y las autoridades responsables de otorgarlas;
 
-h) Elaborar y presentar al Comité las pautas para la asignación del tiempo que corresponde a los partidos políticos y candidatos independientes en radio y televisión, así como elaborar y presentar a la Junta las pautas para la asignación del tiempo en radio y televisión que corresponde al Instituto y a otras autoridades electorales;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-i) Por su conducto o con el auxilio de los Vocales Ejecutivos, según corresponda, remitir a los concesionarios de radio y televisión, las pautas de transmisión que hayan sido aprobadas, así como los materiales y las órdenes de transmisión correspondientes a los mensajes de los partidos políticos y candidatos independientes, al propio Instituto y de las autoridades electorales, a través del sistema que se determine en la normatividad aplicable, a efecto de que inicien su transmisión según los calendarios previamente establecidos;
+h) Elaborar y presentar al Comité las pautas para la asignación del tiempo que corresponde a los partidos políticos y candidaturas independientes en radio y televisión, así como elaborar y presentar a la Junta las pautas para la asignación del tiempo en radio y televisión que corresponde al Instituto y a otras autoridades electorales;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+i) Por su conducto o con el auxilio de los Vocales Ejecutivos, según corresponda, remitir a los concesionarios de radio y televisión, las pautas de transmisión que hayan sido aprobadas, así como los materiales y las órdenes de transmisión correspondientes a los mensajes de los partidos políticos y candidaturas independientes, al propio Instituto y de las autoridades electorales, a través del sistema que se determine en la normatividad aplicable, a efecto de que inicien su transmisión según los calendarios previamente establecidos;
 
 j) Auxiliar a los Vocales Ejecutivos en la verificación del cumplimiento de las pautas de transmisión correspondientes, así como de las normas aplicables respecto de la propaganda electoral que se difunda por radio y televisión;
 
@@ -1489,9 +1569,13 @@ m) Colaborar con el Comité en la actualización de los mapas de coberturas de t
 
 n) Coadyuvar con el Consejo en la revisión de los convenios de fusión, frentes, coaliciones y Acuerdos de participación que se presenten ante el Instituto, así como elaborar el Proyecto de Resolución respectivo;
 
-o) Revisar la documentación que presenten los partidos y agrupaciones políticas nacionales respecto a la integración de sus órganos directivos a nivel nacional y estatal, a fin de determinar la observancia a su normativa interna;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-p) Coadyuvar con el Consejo en la revisión de las solicitudes que presenten los partidos y coaliciones respecto al registro y sustitución de candidatos a diversos puestos de elección popular, así como elaborar los Proyectos de Acuerdo correspondientes, de conformidad con las disposiciones legales y normatividad aplicable;
+o) Revisar, con perspectiva de género, la documentación que presenten los partidos y agrupaciones políticas nacionales respecto de la integración de sus órganos directivos a nivel nacional y estatal, a fin de determinar la observancia a su normativa interna, así como el cumplimiento del principio de paridad;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+p) Coadyuvar con el Consejo en la revisión de las solicitudes que presenten los partidos y coaliciones respecto al registro y sustitución de candidaturas a diversos puestos de elección popular, así como elaborar los Proyectos de Acuerdo correspondientes, de conformidad con las disposiciones legales y normatividad aplicable, considerando además que se garantice el principio de paridad de género;
 
 q) Verificar el apego de los Reglamentos que emitan los partidos políticos nacionales, a sus normas internas y estatutarias, y en su caso, proceder a la inscripción en el libro de registro correspondiente;
 
@@ -1499,13 +1583,21 @@ r) Coadyuvar con el Consejo en la revisión de la documentación presentada por 
 
 s) Organizar la elección de los dirigentes o dirigencias de los partidos políticos, cuando así lo soliciten al Instituto, en términos de lo establecido en la Ley Electoral y en los Lineamientos emitidos por el Consejo General;
 
-t) Llevar los libros correspondientes para el registro de partidos y agrupaciones políticas, de los convenios de fusión, frentes, coaliciones y acuerdos de participación; de los integrantes de los órganos directivos de los partidos políticos y de sus representantes acreditados ante los órganos del Instituto a nivel nacional, local y distrital, así como el de los dirigentes de las agrupaciones políticas; de los candidatos a los puestos de elección popular; así como de partidos políticos locales a que se refiere la Ley General de Partidos Políticos;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+t) Llevar los libros correspondientes para el registro de partidos y agrupaciones políticas, de los convenios de fusión, frentes, coaliciones y acuerdos de participación; de la integración de los órganos de dirección de los partidos políticos y de sus representantes acreditados ante los órganos del Instituto a nivel nacional, local y distrital, así como de las dirigencias de las agrupaciones políticas; de las candidaturas a los puestos de elección popular; así como de partidos políticos locales a que se refiere la Ley General de Partidos Políticos. El formato de los libros será preferentemente digital;
 
 u) Coadyuvar con la Dirección Ejecutiva del Registro Federal de Electores en la elaboración de los Lineamientos que regulen las condiciones para la verificación del cumplimiento del porcentaje del apoyo ciudadano requerido para solicitar el registro como candidato independiente;
 
 v) Verificar el número de afiliados y la autenticidad de las afiliaciones en el proceso de registro de Partidos Políticos Locales, y
 
-w) Las demás que le confiera la Ley Electoral, el Reglamento de Radio y Televisión y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+w) Proponer al Consejo General los Lineamientos para que los partidos políticos prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+x) Las demás que le confiera la Ley Electoral, el Reglamento de Radio y Televisión y otras disposiciones aplicables.
 
 ###### ARTÍCULO 47.
 
@@ -1577,7 +1669,13 @@ i) Formular el anteproyecto de Estatuto y las normas que regirán a los integran
 
 j) Elaborar los dictámenes de cumplimiento de requisitos por parte de los Vocales Ejecutivos del Instituto, para ser designados Presidentes de Consejo durante proceso electoral, conforme lo establece la Ley Electoral, el Estatuto y demás disposiciones que para el efecto se emitan, y
 
-k) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+k) Capacitar, con el apoyo de la DECEYEC a las personas que integran el Servicio Profesional Electoral Nacional, en materia de prevención, atención y erradicación de la violencia política contra las mujeres en razón de género e igualdad sustantiva, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+l) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 ###### ARTÍCULO 49.
 
@@ -1621,13 +1719,33 @@ r) Participar en el Comité de Gestión y Publicación Electrónica, o a través
 
 s) Acordar con el Secretario Ejecutivo del Instituto los asuntos de su competencia;
 
-t) Promover la suscripción de convenios en materia de educación cívica con los Organismos Públicos Locales sugiriendo la articulación de políticas nacionales orientadas a la promoción de la cultura político-democrática y la construcción de ciudadanía;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+t) Promover la suscripción de convenios en materia de educación cívica, paridad de género y respeto a los derechos humanos de las mujeres en el ámbito político, con los Organismos Públicos Locales sugiriendo la articulación de políticas nacionales orientadas a la promoción de la cultura político-democrática, la igualdad política entre mujeres y hombres y la construcción de ciudadanía;
 
 u) Diseñar y proponer estrategias para promover el voto entre la ciudadanía;
 
 v) Diseñar y proponer las estrategias de capacitación electoral y educación cívica a nivel nacional, y
 
-w) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+w) Elaborar, proponer y coordinar los programas de paridad de género y respeto a los derechos humanos de las mujeres en el ámbito político que desarrollen las Juntas Locales y Distritales ejecutivas;
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+x) Diseñar y proponer campañas en materia de paridad de género y cultura de respeto de los derechos humanos de las mujeres en el ámbito político y electoral en coordinación con la Fiscalía Especializada de Delitos Electorales;
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+y) Realizar campañas de educación cívica e información para la prevención, atención y erradicación de la violencia política contra las mujeres en razón de género, contando con la asesoría especializada de la Unidad Técnica de Igualdad de Género y No Discriminación;
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+z) Capacitar al personal del Instituto, de los Organismos Públicos Locales y a las personas integrantes de las mesas directivas de casilla en las materias de igualdad sustantiva, prevención, y erradicación de la violencia política contra las mujeres en razón de género, y coadyuvar con la Dirección Ejecutiva de Administración y la Dirección Ejecutiva del Servicio Profesional Electoral Nacional en los programas que implementen en esa materia, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+aa) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 2. La Dirección Ejecutiva de Capacitación Electoral y Educación Cívica diseñará e instrumentará las campañas de difusión relacionadas con el Registro Federal de Electores en estrecha coordinación con la dirección del ramo.
 
@@ -1655,7 +1773,9 @@ g) Dirigir y coordinar la elaboración del anteproyecto de Presupuesto del Insti
 
 h) Aplicar las políticas y Lineamientos definidos por la Secretaria Ejecutiva para la evaluación de resultados en los programas de administración de los recursos materiales y financieros, de organización y administración del personal;
 
-i) Establecer los programas de capacitación permanente y especial y procedimientos para la promoción y estímulo del personal administrativo sometiéndolos a la consideración de la Junta;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+i) Establecer los programas de capacitación permanente y especial y procedimientos para la promoción y estímulo del personal administrativo sometiéndolos a la consideración de la Junta. Entre las temáticas de los programas de capacitación se deberán incluir aquellas relacionadas con la prevención, atención y erradicación de la violencia política contra las mujeres en razón de género, e igualdad sustantiva, con el apoyo de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica y con la opinión especializada de la Unidad Técnica de Igualdad de Género y No Discriminación;
 
 j) Coadyuvar con la Unidad Técnica de Género y No Discriminación en la implementación del Protocolo para la prevención, atención y sanción del hostigamiento y acoso sexual o laboral;
 
@@ -1795,9 +1915,13 @@ l) Llevar a cabo las funciones electorales que les correspondan en los procesos 
 
 m) Colaborar en la elaboración y mapeo de los procesos de la Junta Local y dirigir las actividades de elaboración y mapeo de los procesos de las Juntas Distritales bajo su coordinación y
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
 
-n) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
+n) Ejecutar los programas de capacitación electoral y educación cívica, paridad de género y respeto de los derechos humanos de las mujeres en el ámbito político y electoral, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+o) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
 
 ### CAPÍTULO QUINTO. De los Vocales Ejecutivos Locales
 
@@ -1809,7 +1933,9 @@ n) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables
 
 ###### ARTÍCULO 57.
 
-1. Para el cumplimiento de las atribuciones que la Ley Electoral les confiere, corresponde a los Vocales Ejecutivos Locales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Para el cumplimiento de las atribuciones que la Ley Electoral les confiere, corresponde a las y los Vocales Ejecutivos Locales:
 
 a) Cumplir con los acuerdos del Consejo;
 
@@ -1845,9 +1971,17 @@ p) Coadyuvar con la Dirección Ejecutiva de Prerrogativas y Partidos Políticos 
 
 q) Fungir como autoridades auxiliares, tanto del Comité como de la Junta y demás órganos competentes del Instituto, para los actos y diligencias que se les instruya, y
 
-r) Las demás que les confiera la Ley Electoral, el Reglamento de Radio y Televisión y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Los Vocales Secretarios Locales tendrán las facultades que señalan los Reglamentos en materia de Quejas y Denuncias y el de la Oficialía Electoral, así como aquellas que se determinen en su calidad de Secretario de los Consejos Locales.
+r) Representar legalmente al Instituto en todo tipo de procedimientos administrativos y jurisdiccionales del orden federal y local, en que el Instituto sea parte o tenga interés e injerencia, en el ejercicio de sus funciones, por sí o a través de las y los Vocales Secretarios, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+s) Las demás que les confiera la Ley Electoral, el Reglamento de Radio y Televisión y otras disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Las y los Vocales Secretarios Locales tendrán la facultad de representar legalmente al Instituto en todo tipo de procedimientos administrativos y jurisdiccionales, del orden federal y local en que el Instituto sea parte o tenga interés e injerencia, en el ejercicio de sus funciones; las facultades que señalan los Reglamentos en materia de Quejas y Denuncias y el de la Oficialía Electoral, así como aquellas que se determinen en su calidad de Secretaria o Secretario de los Consejos Locales.
 
 3. Los Vocales Ejecutivos Locales supervisarán la atención de las necesidades administrativas y de servicio de la propia Junta Local, con el auxilio del Vocal Secretario. Las Juntas Locales contarán con un Coordinador Administrativo que será el responsable de atender los requerimientos de personal, recursos financieros, materiales y de servicios generales, gestionar los apoyos correspondientes y controlar los recursos asignados, a efecto de proporcionarlos en forma oportuna para el cumplimiento de metas de los programas de trabajo en el ámbito de su competencia.
 
@@ -1887,7 +2021,13 @@ g) Proponer al Consejo Distrital correspondiente el número y ubicación de las 
 
 h) Presentar al Consejo Distrital para su aprobación, las propuestas de quienes fungirán como asistentes electorales el día de la jornada electoral, e
 
-i) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+i) Ejecutar los programas de capacitación electoral y educación cívica, paridad de género y respeto de los derechos humanos de las mujeres en el ámbito político y electoral, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+j) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
 
 ### CAPÍTULO SÉPTIMO. De los Vocales Ejecutivos Distritales
 
@@ -1897,11 +2037,15 @@ i) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables
 
 2. Las Vocalías Ejecutivas Distritales deberán apegarse a los lineamientos, programas y acciones internas que aprueben las Direcciones Ejecutivas e instrumenten a través de las Vocalías Locales, en el ámbito de su competencia, sin menoscabo de mantener su coordinación en el ámbito distrital.
 
-3. El Vocal Secretario ejercerá además las funciones de Oficialía Electoral, en los términos previstos por el Reglamento respectivo.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. La o el Vocal Secretario ejercerá la facultad de representar legalmente al Instituto en todo tipo de procedimientos administrativos y jurisdiccionales del orden federal y local, en que el Instituto sea parte o tenga interés e injerencia, en el desempeño de sus funciones; además las funciones de Oficialía Electoral, en los términos previstos por el Reglamento respectivo.
 
 ###### ARTÍCULO 60.
 
-1. Para el cumplimiento de las atribuciones que la Ley Electoral les confiere, corresponde a los Vocales Ejecutivos de las Juntas Distritales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Para el cumplimiento de las atribuciones que la Ley Electoral les confiere, corresponde a las y los Vocales Ejecutivos de las Juntas Distritales:
 
 a) Coordinar los trabajos de los vocales de la Junta Distrital y distribuir entre ellos los asuntos de su competencia;
 
@@ -1941,9 +2085,13 @@ o) Coordinarse con los Consejeros Presidentes Distritales y/o Municipales de los
 
 p) Colaborar en la elaboración y mapeo de los procesos de la Junta Distrital a su cargo, bajo la coordinación de la Junta Local, y
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
 
-q) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
+q) Representar legalmente al Instituto en todo tipo de procedimientos administrativos y jurisdiccionales, del orden federal y local, en que el Instituto sea parte o tenga interés e injerencia, en el ejercicio de sus funciones, por sí o a través de las y los Vocales Secretarios, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+r) Las demás que les confiera la Ley Electoral y otras disposiciones aplicables.
 
 2. A efecto de formalizar lo señalado en el inciso l) del numeral precedente, el Vocal Ejecutivo que corresponda deberá instruir mediante oficio al Vocal Secretario, y éste tendrá que asentar en el acta correspondiente tanto la instrucción como la clave que identifique la comunicación por la cual se le ordena conducir la audiencia de pruebas y alegatos.
 
@@ -2237,7 +2385,9 @@ y) Las demás que le confiera este Reglamento y otras disposiciones aplicables.
 
 1. La Dirección Jurídica estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
 
-a) Coadyuvar con el Secretario Ejecutivo en el ejercicio de la representación legal del Instituto;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Auxiliar a la Secretaría Ejecutiva en la sustanciación de los procedimientos para el ejercicio de las atribuciones especiales que ésta deberá instaurar en los casos que establece el Título Quinto, Libro Tercero de la Ley Electoral y el Reglamento de Elecciones;
 
 > <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2251,9 +2401,13 @@ d) Atender las consultas sobre la aplicación de la Ley Electoral, del Estatuto 
 
 La respuesta que se otorgue, de la cual se enviará copia a los integrantes del Consejo General, no comprometerá en modo alguno la postura institucional, ni tendrá carácter vinculante;
 
-e) Preparar y/o revisar proyectos de reglamentos interiores y demás dispositivos jurídicos necesarios para el buen funcionamiento del Instituto;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-f) Preparar o, en su caso, revisar los proyectos de los diversos acuerdos y lineamientos que deban ser expedidos por los órganos del Instituto;
+e) Elaborar y/o revisar, en el ámbito de su competencia, y conforme a los Lineamientos de mejora regulatoria, los proyectos de acuerdos, instrumentos normativos y demás dispositivos que les sean requeridos por los órganos del Instituto para el funcionamiento y cumplimiento de las atribuciones que tiene conferidas;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+f) Fungir como responsable de la implementación de la mejora normativa en el Instituto, así como enlace para la atención de los temas que resulten aplicables respecto de la Ley General de Mejora Regulatoria;
 
 > <small>(REFORMADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2275,7 +2429,9 @@ k) Coadyuvar con el Secretario Ejecutivo en el trámite y sustanciación de los 
 
 l) Coadyuvar con el Secretario Ejecutivo en la formulación de los proyectos de Resolución de los Recursos de Revisión que se presenten en Proceso el (sic) Electoral en contra de las Resoluciones que emitan los Consejos Locales, para su presentación ante el Consejo;
 
-m) En caso de ausencia temporal del Secretario Ejecutivo, su Titular, podrá ejercer el poder otorgado de conformidad con lo previsto en el artículo 51, numeral 1, inciso s) de la Ley Electoral; y suscribir los informes, recursos y cualquier otro escrito dirigido a las autoridades judiciales y administrativas con la finalidad de salvaguardar las acciones y derechos que correspondan al Instituto, dentro de los procedimientos que se tramiten ante tales instancias; así como desahogar los requerimientos formulados por las mismas; en ausencia de ambos funcionarios, de manera excepcional, los Directores de Área de la Unidad Técnica ejercerán dicho poder, en asuntos que requieran urgente atención o desahogo;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+m) Ejercer la figura de representante legal para la defensa de los intereses del Instituto, en todo tipo de procedimientos administrativos y jurisdiccionales del orden federal y local, en que el Instituto sea parte o tenga injerencia, así como para el desempeño de sus funciones; de manera excepcional por ausencia, los respectivos titulares de las Direcciones de Área de la Unidad Técnica ejercerán dicha facultad, en asuntos que requieran urgente atención o desahogo;
 
 n) Brindar servicios de asistencia y orientación en materia jurídico-laboral a los órganos centrales, locales y distritales del Instituto, y de ser necesario, a los organismos públicos locales electorales, en asuntos en los que pueda comprometerse el interés institucional;
 
@@ -2321,9 +2477,13 @@ z) Desarrollar todas las funciones implícitas en el puesto;
 
 aa) Acordar con el Secretario Ejecutivo del Instituto los asuntos de su competencia y,
 
-> <small>(ADICIONADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
 
-bb) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
+bb) Sustanciar y resolver los procedimientos de responsabilidad patrimonial del Estado, que se promuevan contra el Instituto, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+cc) Las demás que le confiera el presente Reglamento y otras disposiciones aplicables.
 
 2. (DEROGADO, D.O.F. 12 DE SEPTIEMBRE DE 2017)
 
@@ -2443,7 +2603,7 @@ e) Remitir para su resolución los expedientes de los procedimientos especiales 
 
 f) Remitir a la Comisión de Quejas y Denuncias los proyectos de resolución de los procedimientos ordinarios y así como los relacionados con la adopción de medidas cautelares;
 
-g) Auxiliar al Secretario Ejecutivo en los procedimientos para ejercer las facultades de asunción, que deberá instaurar éste en los casos que establece el Título Quinto, Libro Tercero de la Ley Electoral;
+g) (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
 h) Emitir los Acuerdos y oficios necesarios para dar trámite a las diligencias relativas a los procedimientos sancionadores que establece la Ley Electoral;
 
@@ -2515,7 +2675,13 @@ q) Proponer a la Comisión de Fiscalización las sanciones a imponer de acuerdo 
 
 r) Desarrollar los mecanismos aprobados por el Consejo para el funcionamiento del Sistema en Línea de Contabilidad, y
 
-s) Las demás que le confiera la Ley Electoral, el presente Reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+s) Recibir y revisar los informes trimestrales, sobre la aplicación de los recursos destinados para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, de los Partidos Políticos;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+t) Las demás que le confiera la Ley Electoral, el presente Reglamento y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 73.
 
@@ -2549,13 +2715,21 @@ l) Elaborar los proyectos de acuerdos y disposiciones necesarios para coordinar 
 
 m) Facilitar la coordinación entre las distintas áreas del Instituto y los Organismos Públicos Locales, y
 
-n) Las demás que le confiera este Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+n) Coordinar, con los Organismos Públicos Locales las actividades de capacitación de su personal en materia de prevención, atención y erradicación de la violencia política contra las mujeres en razón de género, e igualdad sustantiva, y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+o) Las demás que le confiera este Reglamento y otras disposiciones aplicables
 
 ### CAPÍTULO TERCERO. Del Comité de Radio y Televisión
 
 ###### ARTÍCULO 74.
 
-1. El Comité de Radio y Televisión del Instituto es el órgano técnico colegiado que tiene como objetivo asegurar a los partidos políticos y candidatos independientes las prerrogativas que consagra el artículo 41, Base III de la Constitución.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. El Comité de Radio y Televisión del Instituto es el órgano técnico colegiado que tiene como objetivo asegurar a los partidos políticos y candidaturas independientes las prerrogativas que consagra el artículo 41, Base III de la Constitución.
 
 2. El Comité se conforma con los Consejeros Electorales que integren la Comisión de Prerrogativas y Partidos Políticos del Instituto, el Director Ejecutivo de Prerrogativas y Partidos Políticos, quien actuará como su Secretario Técnico, y por un representante propietario y un suplente, designados por cada Partido Político Nacional. Serán convocados y podrán acudir, únicamente con voz, los representantes del Poder Legislativo ante el Consejo General, o quienes estos designen.
 
@@ -2567,7 +2741,9 @@ n) Las demás que le confiera este Reglamento y otras disposiciones aplicables.
 
 a) Conocer y aprobar las pautas de transmisión correspondientes a los promocionales de los partidos políticos tanto para periodos ordinarios como para procesos electorales, formuladas por la Dirección Ejecutiva;
 
-b) Conocer y en su caso, modificar los modelos de distribución que presenten los Organismos Públicos Locales, para la transmisión de los promocionales de los partidos políticos y candidatos independientes con motivo de los procesos electorales locales;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+b) Conocer y en su caso, modificar los modelos de distribución que presenten los Organismos Públicos Locales, para la transmisión de los promocionales de los partidos políticos y candidaturas independientes con motivo de los Procesos Electorales Locales.
 
 c) Conocer y aprobar los demás asuntos que en la materia de acceso a radio y televisión conciernan en forma directa a los partidos políticos;
 
@@ -2577,23 +2753,35 @@ e) Ordenar al titular de la Dirección Ejecutiva y/o a los Vocales Ejecutivos la
 
 f) Acordar que los mensajes que en un mes correspondan a un mismo partido, se transmitan en forma anticipada a la prevista en la pauta original, de conformidad con lo previsto en el artículo 181, numeral 4 de la Ley Electoral;
 
-g) Resolver las consultas que le sean formuladas sobre la aplicación de las disposiciones de la Ley Electoral y el Reglamento de Radio y Televisión en Materia Electoral, respecto de asuntos que en la materia conciernan en forma directa a los partidos políticos y candidatos independientes;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-h) Interpretar, en el ejercicio de sus atribuciones, las disposiciones contenidas en la Ley Electoral y el Reglamento de Radio y Televisión en Materia Electoral, respecto de asuntos que en la materia conciernan en forma directa a los partidos políticos y candidatos independientes;
+g) Resolver las consultas que le sean formuladas sobre la aplicación de las disposiciones de la Ley Electoral y el Reglamento de Radio y Televisión en Materia Electoral, respecto de asuntos que en la materia conciernan en forma directa a los partidos políticos y candidaturas independientes;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+h) Interpretar, en el ejercicio de sus atribuciones, las disposiciones contenidas en la Ley Electoral y el Reglamento de Radio y Televisión en Materia Electoral, respecto de asuntos que en la materia conciernan en forma directa a los partidos políticos y candidaturas independientes;
 
 i) Proponer a la Junta reformas al Reglamento de Radio y Televisión en Materia Electoral;
 
-j) Definir los mecanismos y unidades de medida para la distribución de tiempos que, por disposición de la Ley Electoral o del Reglamento de Radio y Televisión en Materia Electoral, correspondan a los partidos políticos, tanto en periodos electorales como fuera de ellos, así como de los candidatos independientes en periodos de campaña;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-k) Solicitar al Secretario Ejecutivo del Instituto rinda informes respecto de asuntos que en la materia de acceso a la radio y la televisión conciernan en forma directa a los partidos políticos y candidatos independientes;
+j) Definir los mecanismos y unidades de medida para la distribución de tiempos que, por disposición de la Ley Electoral o del Reglamento de Radio y Televisión en Materia Electoral, correspondan a los partidos políticos, tanto en periodos electorales como fuera de ellos, así como de las candidaturas independientes en periodos de campaña;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+k) Solicitar al Secretario Ejecutivo del Instituto rinda informes respecto de asuntos que en la materia de acceso a la radio y la televisión conciernan en forma directa a los partidos políticos y candidaturas independientes;
 
 l) Elaborar, aprobar y presentar ante el Consejo los catálogos de las estaciones de radio y televisión que participarán en la cobertura de cada una de las elecciones federales y locales;
 
-m) Emitir acuerdos y criterios en materia de acceso a la radio y la televisión que conciernan en forma directa a los partidos políticos y candidatos independientes, y que resultarán vinculantes al ser difundidos a los integrantes del Comité y publicados en la página electrónica correspondiente;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+m) Emitir acuerdos y criterios en materia de acceso a la radio y la televisión que conciernan en forma directa a los partidos políticos y candidaturas independientes, y que resultarán vinculantes al ser difundidos a los integrantes del Comité y publicados en la página electrónica correspondiente;
 
 n) Proponer al Consejo la metodología y el catálogo de programas en radio y televisión que difundan noticias, para el monitoreo de las transmisiones sobre las precampañas y campañas electorales federales;
 
-o) Proponer al Consejo, con la coadyuvancia de la Secretaría Ejecutiva, previa consulta a las organizaciones de concesionarios de radio y televisión y a los profesionales de la comunicación, la propuesta de sugerencia de Lineamientos generales aplicables a los noticiarios respecto de la información o difusión de las actividades de precampaña y campaña federales de los partidos políticos, y de los candidatos independientes, y
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+o) Proponer al Consejo, con la coadyuvancia de la Secretaría Ejecutiva, previa consulta a las organizaciones de concesionarios de radio y televisión y a los profesionales de la comunicación, la propuesta de sugerencia de Lineamientos generales aplicables a los noticiarios respecto de la información o difusión de las actividades de precampaña y campaña federales de los partidos políticos, y de las candidaturas independientes, y
 
 p) Las demás que le confiera la Ley Electoral, el presente Reglamento, el Reglamento de Radio y Televisión en Materia Electoral, el Consejo General y demás disposiciones aplicables.
 
@@ -2773,35 +2961,49 @@ q) Las demás que le confiera la Ley Electoral y otras disposiciones aplicables.
 
 1. Son órganos en materia de Transparencia:
 
-A. El Órgano Garante de la Transparencia y el Acceso a la Información;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-B. El Comité de Información;
+A. El Grupo de Trabajo en Materia de Transparencia;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+B. El Comité de Transparencia;
 
 C. El Comité de Gestión y Publicación Electrónica;
 
 D. La Unidad Técnica de Transparencia y Protección de Datos Personales, y
 
-E. La Unidad de Enlace.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. La organización y el funcionamiento el Órgano Garante de la Transparencia y el Acceso a la Información; el Comité de Información; el Comité de Gestión y Publicación Electrónica y la Unidad de Enlace se determinarán en el Reglamento del Instituto Nacional Electoral en materia de Transparencia y Acceso a la Información Pública, además de las señaladas por el presente Reglamento.
+E. El Grupo Interdisciplinario en materia de Archivos.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. La organización y el funcionamiento del Grupo de Trabajo en Materia de Transparencia; del Comité de Transparencia; del Comité de Gestión y Publicación Electrónica y del Grupo Interdisciplinario en materia de Archivos se determinarán en el Reglamento del Instituto Nacional Electoral en materia de Transparencia y Acceso a la Información Pública, además de las señaladas por el presente Reglamento.
 
 ###### ARTÍCULO 80.
 
 1. La Unidad Técnica de Transparencia y Protección de Datos Personales estará adscrita a la Secretaria Ejecutiva y tendrá, las siguientes atribuciones:
 
-a) Establecer los mecanismos y buenas prácticas para fortalecer la cultura institucional de transparencia, rendición de cuentas y protección de datos personales, así como para potenciar el derecho a la información;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-b) Diseñar y proponer al Secretario Ejecutivo políticas dirigidas a promover en el Instituto la transparencia proactiva;
+a) Establecer los mecanismos y buenas prácticas para fortalecer la cultura institucional de transparencia, rendición de cuentas, protección de datos personales y gestión documental, así como para potenciar el derecho a la información;
 
-c) Establecer vínculos con actores sociales en relación con la definición de información socialmente útil;
+b) (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
+
+c) (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
 d) Emitir opiniones y elaborar dictámenes y análisis de transparencia, acceso a la información, protección de datos personales y gestión documental, que propicien la correcta aplicación de la normatividad en esas materias;
 
-e) Participar en el Comité de Información conforme lo establece el Reglamento del Instituto Nacional Electoral en materia de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+e) Participar en el Comité de Transparencia conforme lo establece el Reglamento del Instituto Nacional Electoral en materia de Transparencia y Acceso a la Información Pública;
 
 f) Proporcionar a los órganos del Instituto el apoyo técnico necesario en materia de transparencia, acceso a la información, protección de datos personales y gestión documental;
 
-g) Elaborar y ejecutar los planes y programas de capacitación para los órganos del Instituto y los partidos políticos, en materia de transparencia, acceso a la información, protección de datos personales y gestión documental;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+g) Elaborar y ejecutar los planes y programas de capacitación para los órganos del Instituto, en materia de transparencia, acceso a la información, protección de datos personales y gestión documental;
 
 h) Establecer los procedimientos y mecanismos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información y de protección de datos personales;
 
@@ -2811,19 +3013,33 @@ j) Recomendar, en coordinación con la Unidad Técnica de Servicios de Informát
 
 k) Coadyuvar con el Secretario Ejecutivo en la supervisión del trabajo del Gestor de Contenidos;
 
-l) Apoyar al Órgano Garante de la Transparencia y el Acceso a la Información en el desempeño de sus funciones;
+l) (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
 m) Supervisar el registro y actualización de las solicitudes de acceso a la información y datos personales;
 
 n) Formar parte de las Comisiones o Comités, que el Consejo o la normatividad del Instituto le encomienden;
 
-o) Presentar un Informe Trimestral de Desempeño al Comité de Información y al Órgano Garante de la Transparencia y el Acceso a la Información;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-p) Elaborar el Informe Anual de actividades, mismo que el Comité de Información presentará ante el Consejo General, previo conocimiento del Órgano Garante de la Transparencia y el Acceso a la Información;
+o) Presentar un Informe Trimestral de Desempeño al Comité de Transparencia y al Grupo Interdisciplinario en materia de Archivos;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+p) Elaborar el Informe Anual de actividades, mismo que el Comité de Transparencia presentará ante el Consejo General;
 
 q) Mantener un registro sistematizado, público y actualizado de los estudios e investigaciones que realice o comisione el Instituto, y
 
-r) Las demás que le confiera la Ley Electoral, el Reglamento del Instituto Nacional Electoral en materia de Transparencia y Acceso a la Información Pública, y otras disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+r) Fungir como Secretaría Técnica del Grupo de Trabajo en Materia de Transparencia;
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+s) Participar en el Grupo Interdisciplinario en Materia de Archivos y;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+t) Las demás que le confiera la Ley Electoral, el Reglamento del Instituto Nacional Electoral en materia de Transparencia y Acceso a la Información Pública, y otras disposiciones aplicables.
 
 ## TÍTULO SÉPTIMO. DEL ÓRGANO DE CONTROL
 
@@ -3109,9 +3325,13 @@ g) Los órganos técnicos podrán solicitar, en el ámbito de sus respectivas co
 
 h) Los órganos de vigilancia podrán solicitar, en el ámbito de sus competencias, información a los órganos ejecutivos y técnicos así como a los de vigilancia de rango inferior.
 
-2. Se deberá asegurar en todo momento la protección de la información reservada o confidencial. No se podrán compartir los datos personales, salvo cuando resulte indispensable para el cumplimiento de las funciones del órgano o área de que se trate, previa motivación y fundamentación que conste tanto en el requerimiento de información, como en la atención correspondiente. En todo momento, el servidor público encargado del tratamiento de datos personales deberá observar las medidas de seguridad correspondientes.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-3. No se aplicará lo dispuesto en el numeral 1 del presente artículo, a la Unidad de Enlace ni al Comité de Información, quienes podrán solicitar directamente al titular o cargo jerárquico inmediato inferior del órgano o área correspondiente, los datos que requieran para el cumplimiento de sus funciones. Estos últimos darán celeridad a su respuesta, con independencia de su rango, en los plazos y términos establecidos por la normatividad aplicable.
+2. Se deberá asegurar en todo momento la protección de la información reservada o confidencial. No se podrán compartir los datos personales, salvo cuando resulte indispensable para el cumplimiento de las funciones del órgano o área de que se trate, previa motivación y fundamentación que conste tanto en el requerimiento de información, como en la atención correspondiente. En todo momento, el servidor público encargado del tratamiento de datos personales deberá observar los principios y medidas de seguridad señaladas en el Reglamento del Instituto Nacional Electoral en Materia de Protección de Datos Personales.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. No se aplicará lo dispuesto en el numeral 1 del presente artículo, a la Unidad Técnica de Transparencia y Protección de Datos Personales, y a los órganos en materia de transparencia, quienes podrán solicitar directamente al titular o cargo jerárquico inmediato inferior del órgano o área correspondiente, los datos que requieran para el cumplimiento de sus funciones. Estos últimos darán celeridad a su respuesta, con independencia de su rango, en los plazos y términos establecidos por la normatividad aplicable.
 
 ###### ARTÍCULO 84.
 
@@ -3141,7 +3361,9 @@ f) Los órganos de vigilancia, delegacionales y subdelegacionales, que requieran
 
 2. Cuando la información que requieran sea de órganos de dirección, ejecutivos o técnicos de nivel superior, deberán solicitarla al Secretario Ejecutivo por conducto del Vocal Ejecutivo correspondiente.
 
-3. No resultará aplicable lo dispuesto en el párrafo anterior a la Unidad de Enlace ni al Comité de Información, de conformidad con lo establecido en el numeral 3 del artículo 83 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. No resultará aplicable lo dispuesto en el párrafo anterior a la Unidad Técnica de Transparencia y Protección de Datos Personales, y a los órganos en materia de transparencia, de conformidad con lo establecido en el numeral 3 del artículo 83 del presente Reglamento.
 
 4. Cuando los órganos centrales o delegaciones requieran información del Comité, deberán solicitarla a través de su Secretario Técnico, salvo que la misma sea requerida por el Consejo o la Junta en cuyo caso, la petición será atendida por su Presidente.
 
@@ -3296,3 +3518,15 @@ Tercero: El modelo de planeación y visión estratégica institucional se propon
 Cuarto: Respecto del Comité de Planeación Institucional, hasta en tanto se realicen los ajustes a las normas que rigen su integración y funcionamiento, el Secretario Ejecutivo designará de entre el personal a su cargo a quien ocupará la Secretaría Técnica de dicho Comité, a fin (sic) posibilitar la continuidad en las funciones de ese órgano.
 
 Quinto: La DEA dará seguimiento a los procedimientos para la creación, gestión, control y cierre de los proyectos específicos incorporados en la Cartera Institucional de Proyectos, así como los ajustes que se requieran a los mismos, de conformidad con los Lineamientos para la Administración de la Cartera Institucional de Proyectos.
+
+D.O.F. 21 DE JULIO DE 2020.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL CUAL SE REFORMA EL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Segundo. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Tercero. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta Electoral y en el portal de internet del Instituto Nacional Electoral.
+
+## Artículo Transitorio
+
+Para efectos de lo establecido en el artículo 46, párrafo 1, inciso t), la digitalización de los libros se implementará a partir del 2021 y estará sujeto (sic) a la disponibilidad presupuestal.
