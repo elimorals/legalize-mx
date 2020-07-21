@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2019-12-20"
+last_updated: "2020-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2020.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -2813,31 +2813,15 @@ II. En caso de parto múltiple, la licencia de paternidad podrá extenderse por 
 
 III. En caso de que durante los primeros quince días posteriores al parto, la madre fallezca, el servidor público podrá solicitar una licencia con goce de sueldo, por diez días hábiles adicionales al período correspondiente a su licencia de paternidad, dicha solicitud deberá realizarse por escrito ante el titular de su adscripción, a la cual adjuntará el acta de defunción correspondiente.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LAS LICENCIAS POR MATERNIDAD, D.O.F. 21 DE JULIO DE 2020)</small>
+
 ###### Artículo 233.
 
-El servidor público, mujer u hombre, a quien se le conceda la adopción de un infante disfrutará de una licencia con goce de sueldo, en los siguientes términos:
-
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
-
-I. En caso de que el infante adoptado tenga hasta seis meses de edad, la licencia que se otorgue a la madre será de cuarenta días naturales;
-
-II. Cuando el infante adoptado tenga entre seis y doce meses de edad, se otorgará a la madre una licencia de veinte días naturales;
-
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
-
-III. En caso de que el infante tenga más de doce meses de edad, se otorgará una licencia de diez días hábiles a la madre;
-
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
-
-IV. En todos los casos de adopción, se otorgará una licencia de diez (sic) naturales al padre; y
-
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
-
-V. Si la vida del infante adoptado está en peligro se extenderá la licencia tanto para la madre como para el padre, por diez días naturales adicionales al periodo correspondiente conforme a las fracciones anteriores.
-
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA TEMPORALIDAD DE LA LICENCIA DE PATERNIDAD, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+Las servidoras públicas a quienes se conceda la adopción de un infante disfrutarán de una licencia con goce de sueldo por tres meses. En el caso de los servidores públicos que estén en este supuesto, la licencia será de diez días naturales.
 
 Los periodos de las licencias se computarán a partir de la fecha en que se materialice la decisión en la que se hubiere aprobado o determinado la adopción.
+
+Idénticas licencias y por los mismos plazos se otorgarán a las madres y padres por gestación subrogada. En este supuesto, los periodos de las licencias se computarán a partir de la fecha de nacimiento, la cual se documentará con los medios idóneos para acreditarlo.
 
 ###### Artículo 234.
 
@@ -2849,13 +2833,19 @@ II. En caso de que al nacer, el infante presente problemas de salud que pongan e
 
 III. Cuando se trate de parto múltiple, la licencia se otorgará por diez días naturales más.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LAS LICENCIAS POR MATERNIDAD, D.O.F. 21 DE JULIO DE 2020)</small>
+
 ###### Artículo 235.
 
-Una vez que la madre haya tramitado su licencia de maternidad ante el ISSSTE, deberá informar este hecho por escrito al área de su adscripción, a la Dirección General de Recursos Humanos o a las Administraciones Regionales y Delegaciones Administrativas, según corresponda, con el fin de que queden registradas las fechas de dicha licencia.
+Las licencias que otorgue el Consejo por maternidad, con independencia de su origen, serán de tres meses y deberán informarse al área de su adscripción, a la Dirección General de Recursos Humanos o a las Administraciones Regionales y Delegaciones Administrativas, según corresponda, para su registro.
+
+Cuando resulte aplicable, el aviso antes descrito deberá incluir el trámite de licencia de maternidad ante el ISSSTE, con el fin de que se tomen en consideración las fechas que ese instituto determine para la licencia.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LAS LICENCIAS POR MATERNIDAD, D.O.F. 21 DE JULIO DE 2020)</small>
 
 ###### Artículo 236.
 
-Todas las madres, biológicas y adoptivas, tendrán derecho al período de lactancia, hasta que el recién nacido cumpla los seis meses de edad, en los términos de lo señalado por la Ley Federal de los Trabajadores al Servicio del Estado; es decir, dos períodos durante el día, de media hora cada uno. Las madres podrán decidir cómo aplicar su derecho de una hora de lactancia diaria, pudiendo optar por entrar una hora más tarde, salir una hora más temprano o ampliar su horario de comida. Esta decisión deberá ser informada por escrito, tanto a su superior jerárquico como al área administrativa que corresponda.
+Todas las madres biológicas, adoptivas, o por gestación subrogada, tendrán derecho al período de lactancia, hasta que la o el recién nacido cumpla los seis meses de edad, en los términos de lo señalado por la Ley Federal de los Trabajadores al Servicio del Estado; es decir, dos períodos durante el día, de media hora cada uno. Las madres podrán decidir cómo aplicar su derecho de una hora de lactancia diaria, pudiendo optar por entrar una hora más tarde, salir una hora más temprano o ampliar su horario de comida. Esta decisión deberá ser informada por escrito, tanto a su superior jerárquico como al área administrativa que corresponda.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
 
@@ -13358,3 +13348,11 @@ PRIMERO. El presente Acuerdo entrará en vigor el dos de enero de dos mil veinte
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
 
 TERCERO. Se deja sin efectos la Circular 10/2011 del Pleno del Consejo de la Judicatura Federal que establece los lineamientos para otorgar el día de asueto que con motivo de la celebración del día de las madres a las juzgadoras federales del Consejo de la Judicatura Federal, así como las circulares 11/2019 y 12/2019 emitidas por la Dirección General de Recursos Humanos.
+
+D.O.F. 21 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LAS LICENCIAS POR MATERNIDAD”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
