@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2019-07-26"
+last_updated: "2020-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2020.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -70,6 +70,18 @@ REGLAMENTO DE ELECCIONES
 1. La interpretación de las disposiciones de este Reglamento se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal.
 
 2. Las consultas que se formulen respecto a la interpretación de las disposiciones de este Reglamento, serán desahogadas por la instancia encargada en términos de lo previsto en el Reglamento Interior del Instituto. Si la consulta implica la emisión de un criterio general o de una norma, será remitida a la instancia que determine el Secretario Ejecutivo en términos de lo referido en el citado Reglamento, la que deberá someter el proyecto de respuesta a la Comisión que corresponda para su análisis y, en su caso, aprobación. La Comisión respectiva deberá someter el proyecto aprobado a la consideración del Consejo General.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. Los procesos regulados en el presente reglamento, se realizarán con perspectiva de género.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. Las autoridades del INE y de los OPL, garantizarán el cumplimiento del principio de paridad de género, así como el respeto a los derechos políticos y electorales de las mujeres.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. En caso de que alguna de las autoridades mencionadas se percatara de conductas que pudieran actualizar infracciones en materia de violencia política en contra de las mujeres en razón de género, pondrán los hechos en conocimiento de la autoridad competente.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -945,6 +957,14 @@ d) Delegación. Facultad del Instituto de conferirle al OPL, la realización de 
 
 4. La solicitud deberá presentarse ante la Secretaría Ejecutiva del Instituto, o bien, ante la junta local ejecutiva que corresponda. En su caso, la junta local ejecutiva deberá remitir de inmediato el escrito de solicitud a la Secretaría Ejecutiva.
 
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. Las notificaciones podrán llevarse a cabo de manera electrónica cuando las partes así lo soliciten de manera expresa. Para tal efecto podrán hacer uso de la firma electrónica avanzada, misma que podrá ser tramitada ante el Instituto o bien, proporcionar dirección de correo electrónico que cuente con mecanismos de confirmación de los envíos de las notificaciones.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+6. Cuando por la urgencia del asunto, se requiera sustanciar un procedimiento en forma más expedita, el Consejo General podrá resolver sobre la solicitud respectiva sin agotar los plazos y las etapas previstas para el procedimiento ordinario establecido.
+
 ###### Artículo 41.
 
 (DEROGADO, D.O.F. 12 DE MARZO DE 2018)
@@ -1139,11 +1159,9 @@ e) Concluido el desahogo de pruebas, se dará uso de la voz al compareciente par
 
 2. El Consejo General determinará la comisión o comisiones responsables de dar seguimiento a las actividades objeto del ejercicio de la función electoral asumida.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 59.
 
-1. Cuando por la urgencia del asunto, se requiera sustanciar un procedimiento en forma más expedita, el Consejo General podrá resolver sobre la solicitud respectiva sin agotar los plazos y las etapas previstas para el procedimiento ordinario establecido.
+(DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -1451,11 +1469,15 @@ e) Proporcionar los elementos para conocer la opinión de los ciudadanos sobre l
 
 ###### Artículo 84.
 
-1. A más tardar el treinta de septiembre del año previo al de la jornada electoral federal ordinaria, el Consejo General aprobará la conformación del Comité Técnico de Evaluación del Padrón Electoral, como su instancia de asesoría técnico-científica, a través de la corfe, para el estudio del padrón electoral y las listas nominales de electores que se utilizarán en la jornada electoral respectiva.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. El Consejo General aprobará al menos cinco meses antes de la fecha en que deberá celebrarse la respectiva Jornada Electoral, la conformación del Comité Técnico de Evaluación del Padrón Electoral, como su instancia de asesoría técnico-científica, a través de la CORFE, para el estudio del padrón electoral y las listas nominales de electores que se utilizarán en la Jornada Electoral respectiva. El número de integrantes del Comité quedará definido en dicha aprobación y dependerá del alcance de las funciones que allí se establezcan.
 
 2. Los integrantes del comité deberán ser especialistas altamente calificados y de reconocido prestigio en al menos una de las siguientes áreas: matemáticas, estadística, demografía, geografía o informática, a efecto de cumplir con el objetivo de asesorar al Consejo General en la realización de diversos estudios relativos al padrón electoral y las listas nominales de electores.
 
-3. El Comité Técnico de Evaluación del Padrón Electoral se integrará por cinco miembros, los cuales serán denominados Asesores Técnicos, y deberá procurarse que el grupo sea multidisciplinario. Cada asesor técnico podrá disponer del apoyo de una persona que colabore con éste para cumplir con sus funciones.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. Cada asesor técnico podrá disponer del apoyo de una persona que colabore con éste para cumplir con sus funciones.
 
 4. Para ser designado como asesor técnico del comité, los candidatos deben cumplir los siguientes requisitos:
 
@@ -1491,7 +1513,9 @@ c) Mantener reuniones y comunicación con la Corfe y la Cnv, con el objeto de da
 
 d) Adoptar por consenso las conclusiones de los resultados de sus estudios;
 
-e) Rendir un informe ejecutivo al Consejo General, por conducto de la Corfe, sobre la calidad del padrón electoral y los listados nominales de electores, así como de la actualización de la credencial para votar, el cual se hará del conocimiento de la Cnv, y
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+e) Rendir un informe ejecutivo al Consejo General, por conducto de la CORFE, sobre la calidad y consistencia del padrón electoral y la lista nominal de electores, el cual, además, se hará del conocimiento de la CNV, y
 
 f) Las demás que le confiera el Consejo General, por conducto de la Corfe.
 
@@ -1605,7 +1629,9 @@ f) Informar de los mecanismos de seguridad y control que se aplicarán en cada u
 
 1. Los formatos de credencial para votar que se hayan generado y no hayan sido recogidos por sus titulares en los plazos determinados para tal efecto, serán resguardados.
 
-2. El procedimiento para el resguardo de los formatos de credencial por proceso electoral se describe en el Anexo 2 de este Reglamento y comprende, por lo menos, las actividades siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. El procedimiento para el resguardo de los formatos de credencial por Proceso Electoral se describe en el Anexo 2 de este Reglamento y comprende, por lo menos, las actividades siguientes:
 
 a) Conteo físico de formatos de credenciales para votar;
 
@@ -1615,9 +1641,13 @@ c) Recepción y validación de la documentación recibida en los módulos;
 
 d) Lectura de los formatos de credencial para votar;
 
-e) Organización de los formatos de credencial para votar en la junta distrital;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-f) Recepción de la documentación en la vocalía del registro federal de electores de la junta local;
+e) Organización de los formatos de credencial para votar para su posterior resguardo en la junta distrital ejecutiva;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+f) Recepción del informe en la vocalía del registro federal de electores de la junta local;
 
 g) Instalación del sistema de resguardo y destrucción de credenciales y carga de archivos en medio digital provenientes de los módulos;
 
@@ -1643,11 +1673,9 @@ j) Informe de resguardo de los formatos de credencial para votar.
 
 ### CAPÍTULO III.. MARCO GEOGRÁFICO ELECTORAL
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 98.
 
-1. Una vez que se entreguen al Instituto los resultados oficiales del Censo General de Población y Vivienda por parte del Instituto Nacional de Estadística y Geografía, a nivel entidad federativa, municipio, localidad y manzana, la Derfe los hará del conocimiento de la cnv y presentará un informe a la Corfe, quien a su vez, hará del conocimiento del Consejo General la información, como insumo base para que, en su caso, determine la conformación de un nuevo marco geográfico de los distritos electorales.
+(DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -1908,6 +1936,10 @@ a) Actividades de apoyo de los SE y CAE, y en su caso los SE locales y CAE local
 b) Niveles de responsabilidad y mecanismos de coordinación institucional, y
 
 c) Supervisión y seguimiento de actividades.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. Adicionalmente, en el programa, deberá definirse la participación de los CAE en los ejercicios, pruebas y simulacros de los diferentes proyectos, líneas de acción y actividades específicas en las que colaboran, entre otros, los establecidos en los artículos 319, 324, 349, 378 de este Reglamento. Dicha participación será definida en coordinación por las áreas del Instituto que tengan injerencia en cada proyecto, línea de acción y actividad específica.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -2739,41 +2771,71 @@ Artículo 160
 
 1. Además de las reglas establecidas en la Sección Cuarta del presente Capítulo, los OPL deberán observar lo siguiente:
 
-a) Con base en el modelo de formatos únicos y colores unificados para las elecciones locales que se integra al Anexo 4.1 de este Reglamento, los OPL deberán entregar a la DEOE los diseños y especificaciones técnicas de la documentación y materiales electorales, tanto para el voto de los mexicanos residentes en el extranjero como para la votación en territorio nacional, a más tardar en el mes de noviembre del año anterior al de la elección, en medios impresos y electrónicos.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Los formatos únicos nuevos con respecto a los ya aprobados consistentes en los diseños y especificaciones técnicas de la documentación y materiales electorales - así como las modificaciones resultados de su mejora, tanto para la votación en territorio nacional como para el voto de los mexicanos residentes en el extranjero, deberán ser aprobados por la Comisión correspondiente. Con base en los formatos únicos ya aprobados los OPL deberán generar sus respectivos diseños y especificaciones, mismos que serán entregados a las JLE, de manera impresa y a través de la herramienta informática dispuesta para tal fin, con conocimiento de la UTVOPL y la DEOE, a más tardar en septiembre el año previo de la elección y conforme al plazo previsto en el Plan y Calendario Integral de Coordinación de los Procesos Electorales Locales que se apruebe para tal efecto y los Lineamientos expedidos por la DEOE.
 
 b) La documentación y materiales electorales correspondientes a las elecciones locales, podrán contener aquellos elementos adicionales que mandaten las legislaciones estatales, siempre y cuando no se contrapongan a lo previsto en el presente Capítulo.
 
 c) En caso de que algún OPL de forma excepcional presente otro material con las mismas o mejores características de funcionalidad, resistencia, uso y costos de producción, la DEOE en el ámbito de sus facultades, analizará la viabilidad de la propuesta y presentará a la CCOE su valoración para que ésta dictamine su procedencia.
 
-d) La DEOE revisará y validará los diseños de los documentos y materiales electorales y especificaciones técnicas, presentados por el OPL, y emitirá sus observaciones en un plazo no mayor a diez días hábiles a partir de su fecha de recepción.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-e) Si la DEOE realiza observaciones a la documentación y material electoral del OPL, éste tendrá un plazo no mayor a diez días hábiles contados a partir de la fecha en que le sean notificadas las mismas, para atenderlas y presentar los cambios pertinentes.
+d) Las JLE revisarán, con base en los Lineamientos, capacitación y asesorías proporcionados por la DEOE, los diseños de los documentos y materiales electorales, así como las especificaciones técnicas presentadas por el OPL y, en su caso, emitirán sus observaciones en un plazo no mayor a diez días hábiles a partir de la fecha de la recepción de los mismos.
 
-f) Una vez validados por la DEOE los documentos y materiales electorales, y de acuerdo al calendario para el proceso electoral local correspondiente, el Órgano Superior de Dirección del OPL, deberá aprobar los documentos y materiales electorales, para después proceder con su impresión y producción.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-g) Los OPL deberán hacer llegar a la DEOE, a más tardar 15 días después de la aprobación a que se refiere el inciso anterior, los archivos con los diseños a color y especificaciones técnicas de la documentación y materiales electorales aprobados.
+e) Las observaciones a los diseños y especificaciones técnicas de los documentos y materiales electorales que emitan las JLE a los OPL deberán ser atendidas por este último en un plazo no mayor a diez días hábiles contados a partir de la fecha en que le sean notificadas. Dentro de dicho plazo, se podrán celebrar las reuniones de trabajo que se consideren necesarias entre la JLE y el OPL para aclarar las observaciones y asegurar su debida atención. De no haber observaciones por parte de la JLE o, habiéndolas, hayan sido atendidas en su totalidad, la JLE remitirá con conocimiento de la UTVOPL -a través de la herramienta informática dispuesta para tal efecto- los diseños y especificaciones a la DEOE para su validación, en la que se deberá precisar a los OPL que se trata de modelos genéricos que deberán adecuarse bajo su responsabilidad según los escenarios particulares que se presenten con los partidos políticos y las candidaturas a nivel local.
 
-h) La DEOE, integrará un repositorio con los diseños y especificaciones técnicas mencionados en el inciso anterior, que pondrá a disposición de los integrantes de la Comisión de Capacitación y Organización Electoral para las consultas que consideren pertinentes, a más tardar 15 días después de concluido el plazo de recepción establecido.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+f) Una vez validados por la DEOE los documentos y materiales electorales conforme al Plan y Calendario Integral de Coordinación de los Procesos Electorales Locales, el Órgano Superior de Dirección del OPL deberá aprobar los documentos y materiales electorales, para después proceder con su impresión y producción.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+g) Los OPL deberán entregar a la DEOE -a través de la herramienta informática dispuesta para tal efecto- con conocimiento de la UTVOPL, los archivos con los diseños a color y especificaciones técnicas de la documentación y materiales electorales aprobados por sus respectivos consejos generales, a más tardar 15 días después de la aprobación a que se refiere el inciso anterior. En caso de que por alguna razón extraordinaria sea necesario modificar algún diseño y/o especificación técnica de documentos y materiales electorales ya validados, los OPL deberán presentar los diseños actualizados a las JLE, en medios impresos y a través de la herramienta informática dispuesta para tal efecto, con conocimiento de la UTVOPL y la DEOE, para su posterior validación.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+h) Los OPL deberán integrar los archivos electrónicos con los diseños de la documentación y materiales electorales aprobados, en un repositorio diseñado y administrado por el propio OPL dentro de los 15 días posteriores a su aprobación. Asimismo, los OPL deberán integrar en otro repositorio los diseños de la documentación producida, a más tardar dentro de los 30 días posteriores a la Jornada Electoral. Si hubiera algún cambio o modificación aprobada al diseño y/o producción de la documentación y material electoral, éste deberá verse reflejado en el mismo repositorio. Dichos repositorios estarán disponibles para consulta por parte de autoridades federales y locales.
 
 i) La DEOE presentará a la Comisión correspondiente, un informe relativo a la validación de los diseños de documentos y modelos de materiales electorales de los OPL.
 
-j) Los OPL deberán entregar a la DEOE, a través de la UTVOPL, un primer informe detallado, en el mes de diciembre del año anterior al de la elección, que dé cuenta de las acciones realizadas para el diseño de la documentación y materiales electorales y la elaboración de las especificaciones técnicas. El informe deberá presentarse en medios impresos y electrónicos.
+j) (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
-k) Los OPL deberán entregar a la DEOE, a través de la UTVOPL y de acuerdo al Calendario y Plan Integral de Coordinación de los Procesos Electorales Locales correspondiente, un reporte único sobre la aprobación y avances en la adjudicación de los documentos y materiales electorales. El reporte deberá presentarse en medios impresos y electrónicos.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-l) Los OPL deberán entregar a la DEOE, a través de la UTVOPL y de acuerdo al Calendario y Plan Integral de Coordinación de los Procesos Electorales Locales correspondiente, un reporte semanal del avance de la producción de los documentos y materiales electorales. El reporte deberá presentarse en medios electrónicos de acuerdo al formato proporcionado por la DEOE.
+k) Los OPL deberán entregar a la DEOE un reporte único sobre la aprobación y adjudicación de los documentos y materiales electorales, con conocimiento de la UTVOPL, dentro de los plazos previstos en el Plan y Calendario Integral de Coordinación de los Procesos Electorales Locales correspondiente, y a través de la herramienta informática dispuesta para tal efecto.
 
-m) La DEOE revisará los informes y reportes para emitir, en su caso, las observaciones correspondientes y, una vez subsanadas por los OPL, validarlos.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-n) La DEOE revisará cada uno de los informes y emitirá, en su caso, las observaciones correspondientes y, una vez subsanadas por los OPL, los validará.
+l) Los OPL deberán entregar a la DEOE reportes semanales de avance de la producción de los documentos y materiales electorales, con conocimiento de la UTVOPL, dentro de los plazos previstos en el Plan y Calendario Integral de Coordinación de los Procesos Electorales Locales correspondiente, y a través de la herramienta informática dispuesta para tal efecto.
 
-ñ) La DEOE presentará a la Comisión correspondiente, un informe relativo a la validación de los dos informes de los OPL.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-o) Los OPL deberán entregar a la DEOE, a través de la UTVOPL, un reporte con los resultados de las verificaciones de las medidas de seguridad en las boletas y actas de casilla, un día después de cada fecha de verificación. El reporte deberá presentarse en medios electrónicos, de acuerdo al formato proporcionado por la DEOE.
+m) En su caso, la DEOE emitirá observaciones a los reportes presentados por los OPL, mismas que deberán ser atendidas por estos últimos.
 
-p) En todo momento, la DEOE, en coordinación con la UTVOPL, deberá atender las asesorías referentes al diseño, impresión y producción de la documentación y materiales electorales que les formulen los OPL.
+n) (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
-q) En los procesos electorales locales extraordinarios, los OPL deberán entregar a la DEOE para su validación, a través de la UTVOPL, los diseños de sus documentos y materiales electorales, previo a la aprobación por el Órgano Superior de Dirección del OPL, de conformidad con el plan y calendario de la elección, para después proceder con su impresión y producción.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+ñ) La DEOE presentará a la Comisión correspondiente reportes parciales de avances de la producción de los documentos y materiales de los OPL y un informe final.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+o) Los OPL deberán llevar a cabo las verificaciones de las medidas de seguridad en las boletas y actas de casilla, y de las características y calidad del líquido indeleble (para este último cuando no haya elección concurrente), conforme a lo establecido en el anexo 4.2 de este Reglamento, y capturarán los resultados correspondientes en los medios informáticos disponibles dentro de los 5 días naturales posteriores a cada verificación. La información obtenida les servirá para ofrecer mayor certeza en sus elecciones, evaluar su funcionamiento y realizar mejoras para subsecuentes procesos electorales. Los resultados de las verificaciones se harán del conocimiento de la DEOE.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+p) En todo momento la DEOE, en coordinación con la UTVOPL, atenderá las asesorías referentes al diseño, impresión y producción de la documentación y materiales electorales que le formulen los OPL.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+q) En los Procesos Electorales Locales extraordinarios, los OPL deberán presentar, con conocimiento de la UTVOPL, los diseños y especificaciones de los documentos y materiales electorales a la JLE de su entidad federativa para su revisión y posterior validación por la DEOE, conforme al Plan y Calendario Integral de Coordinación de los Procesos Electorales Locales vigente, para después proceder con su aprobación por parte del órgano superior de dirección del OPL.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+r) Los OPL deberán prever con anticipación el procedimiento administrativo para adjudicar su producción.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -2951,7 +3013,9 @@ Artículo 177
 
 a) Total de electores de cada casilla inscritos en el listado nominal.
 
-b) Para el caso de casillas especiales en elecciones concurrentes o no concurrentes, se asignarán 750 boletas por casilla para cada una de las elecciones federales, y otro tanto igual por cada tipo de elecciones locales.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+b) Para el caso de casillas especiales en elecciones concurrentes o no concurrentes, se asignarán hasta 1,500 boletas por casilla para cada una de las elecciones federales, y otro tanto igual por cada tipo de elecciones locales. El número exacto de boletas deberá ser definido por el Consejo General a más tardar en el mes de febrero del año de la Jornada Electoral.
 
 c) Las boletas adicionales por cada partido político y, en su caso, candidaturas independientes, para que sus representantes acreditados ante la mesa directiva de casilla puedan ejercer su derecho de voto.
 
@@ -3039,19 +3103,31 @@ Artículo 182
 
 #### SECCIÓN PRIMERA. Presentación y trámite de la solicitud de acreditación
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 186.
 
-1. El Instituto y los OPL emitirán en la sesión inicial del proceso electoral, una convocatoria en la que se difundirán los requisitos para obtener la acreditación como observador electoral, tomando en consideración los modelos que forman parte de este Reglamento (Anexo 6.6).
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Quienes se encuentren acreditados como observadores electorales tendrán derecho a realizar las actividades de observación de los actos de carácter público de preparación y desarrollo de los procesos electorales federales y locales, tanto ordinarios como extraordinarios, así como de las consultas populares, incluyendo los que se lleven a cabo durante la jornada electoral y sesiones de los órganos electorales del Instituto y de los OPL, en términos de lo establecido en la LGIPE y este Reglamento.
+1. El Instituto y los OPL emitirán en la sesión inicial del Proceso Electoral, una convocatoria en la que se difundirán los requisitos para obtener la acreditación para la observación electoral, tomando en consideración los modelos que forman parte de este Reglamento (Anexo 6.6).
 
-3. La observación electoral podrá realizarse en cualquier ámbito territorial de la República Mexicana para el caso de las elecciones federales.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-4. Los ciudadanos mexicanos podrán participar como observadores electorales en términos de lo previsto en la LGIPE y este Reglamento, solo cuando hayan obtenido oportunamente su acreditación ante el Instituto; la cual surtirá efectos para el proceso federal y los concurrentes.
+2. El Instituto y el OPL proporcionarán los mecanismos necesarios para que la ciudadanía, con independencia de su lugar de residencia, obtenga la acreditación para la observación electoral, a través de las modalidades que el Instituto determine, el cual podrá incluir el uso de herramientas informáticas y tecnológicas.
 
-5. En las elecciones locales, el ciudadano deberá tomar el curso referente a dicha entidad a fin de conocer las modificaciones sustantivas de la elección local que pretenda observar.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. Quienes se encuentren acreditados como observadores electorales tendrán derecho a realizar las actividades de observación de los actos de carácter público de preparación y desarrollo de los Procesos Electorales Federales y locales, tanto ordinarios como extraordinarios, así como de las consultas populares, incluyendo los que se lleven a cabo durante la Jornada Electoral y sesiones de los órganos electorales del Instituto y de los OPL, en términos de lo establecido en la LGIPE y este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. La observación electoral podrá realizarse en cualquier ámbito territorial de la República Mexicana para el caso de las elecciones federales.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. La ciudadanía mexicana podrá participar en la observación electoral en términos de lo previsto en la LGIPE y este Reglamento, solo cuando hayan obtenido oportunamente su acreditación ante el Instituto; la cual surtirá efectos para el proceso federal y los concurrentes.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+6. En las elecciones locales, la ciudadana o el ciudadano deberá tomar el curso referente a esa entidad a fin de conocer las modificaciones sustantivas de la elección local que pretenda observar.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -3083,17 +3159,35 @@ e) Copia de la credencial para votar vigente.
 
 3. En caso que la solicitud sea presentada por una organización de observadores electorales, la dirigencia o representantes de la organización, incluirán una relación de la ciudadanía interesada pertenecientes a ella, así como las solicitudes individuales debidamente requisitadas.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 189.
 
-1. La solicitud para obtener la acreditación como observador del desarrollo de las actividades de los procesos electorales federales y locales, ordinarios y extraordinarios, se presentará ante la presidencia del consejo local o distrital del Instituto o ante el órgano correspondiente del OPL, donde se ubique el domicilio de la credencial de quien solicita o de la organización a la que pertenezca.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Tratándose de elecciones locales, la solicitud se podrá presentar, igualmente, ante las juntas o consejos del Instituto que correspondan al ámbito territorial donde se lleve a cabo la elección.
+1. La solicitud para obtener la acreditación para la observación del desarrollo de las actividades de los Procesos Electorales Federales y locales, ordinarios y extraordinarios, se presentará preferentemente a través de las herramientas informáticas y tecnológicas que el Instituto implemente o, en su defecto, ante la presidencia del Consejo Local o distrital del Instituto o ante el órgano correspondiente del OPL.
 
-3. Las solicitudes presentadas ante los órganos competentes de los OPL, deberán ser remitidas por el Órgano Superior de Dirección a las juntas locales ejecutivas del Instituto, dentro de las cuarenta y ocho horas siguientes a la recepción. Lo anterior no deberá interpretarse en el sentido que se presentó fuera del plazo legal ante la autoridad federal, en todo caso, surtirá efectos de oportunidad dentro del plazo legal la fecha y hora contenida en el matasellos o acuse de recibo que para el efecto se expida.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-4. El OPL deberá garantizar el debido resguardo de la información confidencial que reciba para el trámite de las solicitudes de acreditación.
+2. En elección federal o concurrente, los Consejos Locales y distritales deberán recibir las solicitudes de acreditación de la ciudadanía interesada en actuar como observadora electoral, sin menoscabo de donde se ubique el domicilio del solicitante o el de la organización a la que pertenezca; y deberán darle cauce, en términos de lo dispuesto por el artículo 217, numeral 1, incisos a), b), c) y d) de la LGIPE.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. En elecciones locales, las Juntas Locales y Distritales ejecutivas sin Proceso Electoral deberán recibir solicitudes de acreditación de la ciudadanía que desee participar en la observación electoral en entidades con Proceso Electoral, y deberán darle cauce, en términos de lo dispuesto por el artículo 217, numeral 1, incisos a), b), c), y d) de la LGIPE; a fin de que el Consejo Local o Distrital correspondiente someta a consideración la aprobación de las solicitudes.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. Para el caso de las elecciones extraordinarias, la participación de las juntas ejecutivas o consejos, se llevará a cabo de conformidad con los párrafos 2 y 3 del presente artículo, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. El Instituto, podrá recibir solicitudes de registro de la ciudadanía mexicana residente en el extranjero, interesada en participar en la observación electoral, y darles cauce en los términos dispuestos por el artículo 217, numeral 1, incisos a), b), c) y d) de la LGIPE.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+6. En elecciones concurrentes y locales, los OPL, podrán recibir solicitudes de registro de la ciudadanía mexicana residente en el extranjero, interesada en participar en la observación electoral, y darles cauce en los términos dispuestos por el artículo 217, numeral 1, incisos a), b), c) y d) de la LGIPE.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+7. Las juntas ejecutivas y consejos del Instituto, así como los OPL deberán garantizar el debido resguardo de la información confidencial que reciban para el trámite de las solicitudes de acreditación, conforme a la normativa de la materia que se encuentre vigente.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -3109,7 +3203,7 @@ e) Copia de la credencial para votar vigente.
 
 2. Para el caso de los OPL, los órganos directivos designarán a los funcionarios encargados de procesar las solicitudes que le entregue la ciudadanía y las organizaciones, con el objeto de verificar el cumplimiento de los requisitos necesarios para su acreditación.
 
-3. En caso de recibirse solicitudes que correspondan a otra entidad federativa, las mismas deberán remitirse, sin realizar diligencia alguna, al consejo local respectivo para su tramitación.
+3. (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -3131,7 +3225,9 @@ e) Copia de la credencial para votar vigente.
 
 ###### Artículo 193.
 
-1. Una vez concluida la revisión de las solicitudes, se notificará a la persona solicitante la obligación de asistir al curso de capacitación, preparación o información a que se refiere el artículo 217, numeral 1, inciso d), fracción IV de la LGIPE, apercibida que de no acudir, la acreditación será improcedente.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Una vez concluida la revisión de las solicitudes, se notificará dentro de los siguientes 3 días a la persona solicitante la obligación de tomar, en alguna de las modalidades aprobadas, el curso de capacitación, preparación o información a que se refiere el artículo 217, numeral 1, inciso d), fracción IV de la LGIPE apercibida que, de no tomar el curso de capacitación, la solicitud será improcedente.
 
 2. En elecciones locales, los OPL deberán elaborar y proporcionar a los vocales ejecutivos locales del Instituto, el material para la capacitación de los observadores electorales, a fin que éstos los remitan para su revisión, corrección y validación, a la Deceyec.
 
@@ -3157,7 +3253,9 @@ e) Copia de la credencial para votar vigente.
 
 1. La capacitación que se imparta para elecciones concurrentes, acreditará al observador electoral para realizar dicha función respecto de la elección federal en todo el territorio nacional y la local de la entidad federativa en la que se haya tomado dicha capacitación.
 
-2. En caso que la persona acreditada quisiera observar elecciones locales de otra entidad federativa, distinta a aquella donde se capacitó, deberá tomar el curso impartido por el OPL correspondiente o por las organizaciones respectivas, a fin de conocer las modificaciones sustantivas de la elección local que pretende observar.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. En elecciones concurrentes, en caso que la persona acreditada quisiera observar elecciones locales de otra Entidad federativa, deberá tomar el curso impartido por el INE, el OPL correspondiente o por las organizaciones respectivas, en cualquiera de sus modalidades aprobadas a fin de conocer las modificaciones sustantivas de la elección local que pretende observar.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -3193,11 +3291,15 @@ e) Copia de la credencial para votar vigente.
 
 2. En caso de procesos locales, el material didáctico y de apoyo deberá ser elaborado por los OPL y validado por la Deceyec.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 200.
 
-1. En el supuesto que algún solicitante no compruebe su asistencia a los cursos de capacitación, preparación o información, el consejo local o distrital que corresponda, no le extenderá la acreditación de observador electoral.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. En el supuesto que algún solicitante no compruebe su participación a los cursos de capacitación, preparación o información, su solicitud no se pondrá a consideración del Consejo Local o distrital que corresponda, para su aprobación como observadora/or electoral.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. La o el Vocal de Capacitación Electoral y Educación Cívica de la Junta Local o Distrital Ejecutiva, dará seguimiento a los cursos de capacitación, preparación o información, que se impartan en cualquiera de sus modalidades y será responsable de entregar, en un plazo no mayor a 5 días, a la persona que ocupe la Vocalía de Organización Electoral de la Junta Local o Distrital Ejecutiva, los comprobantes que acrediten la participación de la ciudadanía.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -3215,9 +3317,13 @@ e) Copia de la credencial para votar vigente.
 
 4. Conforme a lo anterior, una vez acreditados los requisitos establecidos en la LGIPE y en el presente Reglamento para obtener la acreditación de observador electoral, la presidencia del consejo local o distrital del Instituto, presentará las solicitudes al consejo respectivo para su aprobación, misma que deberá resolverse a más tardar en la siguiente sesión que celebren dichos consejos, observándose en todos los casos, los plazos establecidos en el presente Capítulo.
 
-5. El consejo local o distrital aprobará la ratificación y expedirá la acreditación respectiva, así como el gafete de observador electoral, sin que sea necesaria la asistencia a un nuevo curso de capacitación, salvo en aquellos casos en que se presenten modificaciones sustantivas respecto a la elección ordinaria. En este último supuesto, el consejo local podrá auxiliarse de la junta distrital ejecutiva en la que se presentó la solicitud, proporcionando los materiales didácticos necesarios para el nuevo curso de capacitación que deba impartirse.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-6. En caso que un ciudadano pretenda observar la elección local de otra entidad federativa distinta a donde fue aprobada su solicitud por el órgano competente del Instituto y después de haber tomado el curso impartido por las instancias señaladas en el presente Capítulo, el órgano competente del Instituto aprobará las solicitudes correspondientes.
+5. En el caso de elecciones extraordinarias, el Consejo Local o distrital aprobará la ratificación y expedirá la acreditación respectiva, así como el gafete de observador electoral, sin que sea necesaria la asistencia a un nuevo curso de capacitación, salvo en aquellos casos en que se presenten modificaciones sustantivas respecto a la elección ordinaria. En este último supuesto, el Consejo Local podrá auxiliarse de la junta distrital ejecutiva en la que se presentó la solicitud, proporcionando los materiales didácticos necesarios para el nuevo curso de capacitación que deba impartirse.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+6. En elecciones locales no concurrentes que se presenten en el mismo periodo de Proceso Electoral, en caso de que un ciudadano desee observar la elección local de distintas entidades federativas, el órgano competente del Instituto de cada entidad que se pretende observar, someterá al Consejo respectivo para su aprobación, la solicitud que corresponda. En este supuesto, será necesario tomar el curso de capacitación, preparación o información, diseñado para cada elección Local a observar.
 
 7. Los consejos locales o distritales podrán aprobar acreditaciones como observadores electorales hasta en la última sesión previa a que se celebre la jornada electoral respectiva.
 
@@ -3225,9 +3331,13 @@ e) Copia de la credencial para votar vigente.
 
 ###### Artículo 202.
 
-1. Las acreditaciones que hayan sido aprobadas por los consejos locales y distritales del Instituto, serán entregadas a los observadores dentro de los tres días siguientes a la sesión respectiva del consejo que corresponda, con el gafete correspondiente. Para el caso de procesos electorales extraordinarios, las acreditaciones aprobadas se entregarán dentro de las veinticuatro horas siguientes a su aprobación. Dichas acreditaciones y gafetes se expedirán conforme a los formatos que se contienen en los Anexos 6.3, 6.4 y 6.5 de este Reglamento, y serán registradas y entregadas a los interesados por la presidencia del respectivo consejo local o distrital, o por el funcionario que se designe.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. De las acreditaciones expedidas por los consejos distritales, se dará cuenta a los consejos locales correspondientes en un plazo de cuarenta y ocho horas siguientes a su aprobación, a fin que, si fuere el caso de elecciones locales, el propio consejo local notifique de inmediato a la presidencia de los OPL.
+1. Las acreditaciones que hayan sido aprobadas por los Consejos Locales y distritales del Instituto, serán entregadas a las observadoras y observadores dentro de los tres días siguientes a la sesión respectiva del consejo que corresponda, con el gafete correspondiente. Para el caso de procesos electorales extraordinarios, las acreditaciones aprobadas se entregarán dentro de las veinticuatro horas siguientes a su aprobación. Esas acreditaciones y gafetes se expedirán conforme a los formatos que se contienen en los Anexos 6.3, 6.4 y 6.5 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Los encargados de entregar las acreditaciones y gafetes serán las presidencias de los Consejos Locales y Distritales, las personas funcionarias que se designen para tal fin o por los medios que determine el Instituto.
 
 3. Las resoluciones que determinen la improcedencia de las solicitudes de acreditación como observadores electorales, por el incumplimiento de los requisitos establecidos en la LGIPE y en este Reglamento, serán notificadas inmediatamente a las personas u organizaciones solicitantes, de manera personal o correo electrónico para los efectos legales conducentes. Dichas resoluciones podrán ser objeto de impugnación ante las salas competentes del Tribunal Electoral.
 
@@ -3283,7 +3393,13 @@ b) Portar o utilizar emblemas, distintivos, escudos o cualquier otra imagen rela
 
 2. El Instituto dará acceso a los OPL para consultar los reportes del sistema de observadores electorales, cuya información podrá ser utilizada dentro del ámbito de sus facultades. Se exceptúa de lo anterior, la información confidencial que se contenga en el sistema.
 
-3. En el caso de elecciones locales, el Instituto incorporará una cláusula específica en los convenios generales de colaboración y coordinación que se suscriban con los OPL, en la cual se defina el nivel de acceso y consulta del sistema de la RedINE.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. En elecciones concurrentes y locales, el Instituto dará acceso al sistema de observadores electorales a los OPL, para que capturen, semanalmente, las acciones de difusión que realicen en los medios de comunicación que estén a su alcance, con la finalidad de invitar a la ciudadanía a que participe en la observación electoral de los procesos electorales.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. En el caso de elecciones locales, el Instituto incorporará una cláusula específica en los convenios generales de colaboración y coordinación que se suscriban con los OPL, en la cual se defina el nivel de acceso del sistema de la RedINE.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -3366,6 +3482,14 @@ g) Descripción de las actividades realizadas.
 2. El Instituto dará difusión sobre la observación electoral a través de los tiempos de radio y televisión que le corresponden por disposición legal.
 
 3. En los procesos electorales locales no concurrentes, los OPL serán los encargados de promover y difundir entre sus programas, la participación ciudadana en la observación electoral.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. Las juntas ejecutivas locales y distritales, deberán de realizar la difusión de la convocatoria y materiales promocionales para invitar a la ciudadanía a participar en la Observación Electoral de los Procesos Electorales, a través de los medios que estén a su alcance.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. Las juntas ejecutivas locales y distritales, deberán de hacer la más amplia promoción con el fin de que las organizaciones que atienden a grupos de personas en situación de vulnerabilidad participen_en (sic) la observación electoral de los procesos electorales.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -3805,7 +3929,9 @@ f) El OPL deberá entregar la documentación y material electoral correspondient
 
 ###### Artículo 248.
 
-1. Los presidentes de mesas directivas de casillas especiales recibirán 750 boletas para cada una de las elecciones federales, y otro tanto igual para cada una de las elecciones locales que se celebren en la entidad federativa, a fin de garantizar el derecho al sufragio de los electores en tránsito.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Los presidentes de mesas directivas de casillas especiales recibirán hasta 1,500 boletas para cada una de las elecciones federales, y otro tanto igual para cada una de las elecciones locales que se celebren en la entidad federativa, a fin de garantizar el derecho al sufragio de los electores en tránsito.
 
 2. Asimismo, recibirán las boletas necesarias para que los representantes de los partidos políticos con registro nacional y estatal, así como de los candidatos independientes registrados en el ámbito federal y local, puedan ejercer su voto en este tipo de casillas.
 
@@ -4043,25 +4169,33 @@ e. En caso que la acreditación haya sido expedida por un consejo del Instituto 
 
 ### CAPÍTULO XIV.. VERIFICACIÓN PARA EL REGISTRO DE CANDIDATURAS
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 267.
 
-1. Las disposiciones contenidas en el presente Capítulo son aplicables para las autoridades competentes del Instituto y de los OPL, los partidos políticos nacionales y locales, aspirantes y candidatos independientes a cargos de elección federal y local.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Los sujetos obligados deberán realizar el registro de precandidaturas y candidaturas en el Sistema Nacional de Registro de Precandidatos y Candidatos, así como de los Aspirantes y Candidatos Independientes (snr) implementado por el propio Instituto.
+1. Las disposiciones contenidas en el presente Capítulo son aplicables para las autoridades competentes del Instituto y de los OPL, los Partidos Políticos Nacionales y locales, aspirantes y candidaturas independientes a cargos de elección federal y local.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Los sujetos obligados deberán realizar el registro de precandidaturas y candidaturas en el Sistema Nacional de Registro de Precandidatos y Candidatos, así como de los Aspirantes y Candidaturas Independientes (SNR) implementado por el propio Instituto.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 268.
 
-1. En caso de elecciones federales, los partidos políticos nacionales deberán definir el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, al menos treinta días antes de la fecha de publicación de la convocatoria al procedimiento de selección de candidatos, el cual debe aprobarse por el órgano estatutariamente facultado para ello, de acuerdo a la elección que se trate.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Además de los requisitos establecidos en el artículo 226, numeral 2 de la lgipe, en el escrito por el cual los partidos políticos nacionales comuniquen al Consejo General el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, deberá precisarse la fecha de la aprobación del procedimiento, los plazos que comprenderá cada fase del proceso interno, así como el órgano partidista responsable de ello.
+1. En caso de elecciones federales, los Partidos Políticos Nacionales deberán definir el procedimiento aplicable para la selección de sus candidaturas a cargos de elección popular, al menos treinta días antes de la fecha de publicación de la convocatoria al procedimiento de selección de candidaturas, el cual debe aprobarse por el órgano estatutariamente facultado para ello, de acuerdo a la elección que se trate.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Además de los requisitos establecidos en el artículo 226, numeral 2 de la LGIPE, en el escrito por el cual los Partidos Políticos Nacionales comuniquen al Consejo General el procedimiento aplicable para la selección de sus candidaturas a cargos de elección popular, deberá precisarse la fecha de la aprobación del procedimiento, los plazos que comprenderá cada fase del proceso interno, así como el órgano partidista responsable de ello.
 
 3. El escrito deberá firmarse por el presidente del comité ejecutivo nacional u órgano equivalente o estatutariamente facultado del partido político con registro ante la autoridad electoral, o por el representante del mismo ante el Consejo General, y acompañarse, al menos, de la siguiente documentación a efecto de acreditar el cumplimiento al procedimiento estatutario respectivo:
 
-a) Convocatoria, acta y lista de asistencia de la sesión del órgano partidista responsable de la aprobación del procedimiento aplicable para la selección de candidatos, y
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Convocatoria, acta y lista de asistencia de la sesión del órgano partidista responsable de la aprobación del procedimiento aplicable para la selección de candidaturas, y
 
 b) En su caso, convocatoria, acta y lista de asistencia de la sesión del órgano partidista que autorizó convocar a la instancia facultada para aprobar dicho procedimiento.
 
@@ -4069,7 +4203,9 @@ b) En su caso, convocatoria, acta y lista de asistencia de la sesión del órgan
 
 ###### Artículo 269.
 
-1. Una vez recibida la documentación señalada en el artículo anterior, la Deppp, en apoyo al Consejo General, verificará dentro de los diez días siguientes a la recepción, que la aprobación del procedimiento aplicable para la selección de candidatos se ajuste a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Una vez recibida la documentación señalada en el artículo anterior, la DEPPP, en apoyo al Consejo General, verificará dentro de los diez días siguientes a la recepción, que la aprobación del procedimiento aplicable para la selección de candidaturas se ajuste a lo siguiente:
 
 a) Se hayan cumplido las disposiciones legales en la materia, en particular, con lo dispuesto por los artículos 226, numeral 2, y 232, numeral 3 de la LGIPE, en relación con lo establecido por el artículo 3, numerales 4 y 5 de la Lgpp, y
 
@@ -4093,9 +4229,13 @@ iii. Los plazos para dicha reposición, en el entendido que el Instituto verific
 
 ###### Artículo 270.
 
-1. Los datos relativos a precandidatos, candidatos, aspirantes a candidatos independientes y candidatos independientes, tanto en elecciones federales como locales deberán capturarse en el snr implementado por el Instituto, el cual constituye un medio que permite unificar los procedimientos de captura de datos.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. El snr es una herramienta de apoyo que permitirá detectar registros simultáneos; generar reportes de paridad de género; registrar las sustituciones y cancelaciones de candidatos, así como conocer la información de los aspirantes. El sistema sirve a los partidos políticos para registrar, concentrar y consultar en todo momento los datos de sus precandidatos y capturar la información de sus candidatos; de igual forma, cuenta con un formato único de solicitud de registro de candidatos que se llenará en línea para presentarlo ante el Instituto o el OPL correspondiente.
+1. Los datos relativos a precandidaturas, candidaturas, aspirantes a candidaturas independientes y candidaturas independientes, tanto en elecciones federales como locales deberán capturarse en el SNR implementado por el Instituto, el cual constituye un medio que permite unificar los procedimientos de captura de datos.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. El SNR es una herramienta de apoyo que permitirá detectar registros simultáneos; generar reportes de paridad de género; registrar las sustituciones y cancelaciones de candidaturas, así como conocer la información de los aspirantes. El sistema sirve a los partidos políticos para registrar, concentrar y consultar en todo momento los datos de sus precandidatos y capturar la información de sus precandidaturas y capturar la información de sus candidaturas; de igual forma, cuenta con un formato único de solicitud de registro de candidaturas que se llenará en línea.
 
 3. Las especificidades del sistema, detalladas en el Anexo 10.1 del presente Reglamento, deben consistir, por lo menos, en lo siguiente:
 
@@ -4121,7 +4261,9 @@ j) Uso del sistema, y
 
 k) Plazos para capturar, modificar y validar la información en el Snr; lo anterior, conforme al plan y calendario integral aprobado para la elección.
 
-4. Los partidos políticos tendrán acceso al Snr para la captura de la información de sus candidatos, con la cuenta de usuario y la contraseña proporcionada previamente por el Instituto o el OPL correspondiente, y serán responsables del uso correcto de las mismas.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. Los partidos políticos tendrán acceso al SNR para la captura de la información de sus candidaturas, con la cuenta de usuario y la contraseña proporcionada previamente por el Instituto o el OPL correspondiente, y serán responsables del uso correcto de las mismas.
 
 5. La Utf, en coordinación con la Unicom y la Deppp, brindarán la capacitación a los partidos políticos nacionales respecto al uso del Snr.
 
@@ -4131,39 +4273,53 @@ k) Plazos para capturar, modificar y validar la información en el Snr; lo anter
 
 8. El Opl deberá notificar a la Utvopl el catálogo de cargos del proceso electoral local respectivo, a más tardar, dentro de los treinta días posteriores al inicio del proceso electoral correspondiente. Lo anterior, a efecto de que la Utvopl actualice y valide el catálogo de cargos dentro de los quince días siguientes a su notificación.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
 ###### Artículo 271.
 
-1. El órgano partidista estatutariamente facultado, deberá determinar la procedencia del registro de todos sus precandidatos, conforme a sus normas estatutarias, y de acuerdo con los plazos establecidos en la convocatoria que al efecto haya emitido el partido, misma que deberá ajustarse a los plazos de precampaña y a lo señalado en el artículo 168, numeral 2 de la LGIPE.
+1. El órgano partidista estatutariamente facultado, deberá determinar la procedencia del registro de todas sus precandidaturas, conforme a sus normas estatutarias, y de acuerdo con los plazos establecidos en la convocatoria que al efecto haya emitido el partido, misma que deberá ajustarse a los plazos de precampaña y a lo señalado en el artículo 168, numeral 2 de la LGIPE.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 272.
 
-1. Concluido el plazo de registro respectivo, el Instituto, a través de la Deppp, o bien, el área equivalente del OPL, deberá generar en el Snr, las listas de precandidatos, candidatos, aspirantes a candidaturas independientes y candidaturas independientes registrados (sic) y sus actualizaciones, a efecto de poner a disposición de la ciudadanía la información en su página electrónica en un plazo que no exceda de cinco días.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Concluido el plazo de registro respectivo, el Instituto, a través de la DEPPP, o bien, el área equivalente del OPL, deberá generar en el SNR, las listas de precandidaturas, candidaturas, aspirantes a candidaturas independientes y candidaturas independientes registrados y sus actualizaciones, a efecto de poner a disposición de la ciudadanía la información en su página electrónica en un plazo que no exceda de cinco días.
 
 2. Las listas únicamente podrán contener la información siguiente:
 
-a) Partido político, coalición, alianza, candidatura común, aspirante a candidatura independiente o candidato independiente, según corresponda;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Partido político, coalición, alianza, candidatura común, aspirante a candidatura independiente o candidatura independiente, según corresponda;
 
 b) Entidad, distrito, municipio, localidad, delegación o demarcación, circunscripción o número de lista por el que contiende;
 
-c) Apellido paterno, apellido materno, nombre completo y, en su caso, sobrenombre autorizado del precandidato o candidato, según el caso, y
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+c) Apellido paterno, apellido materno, nombre completo y, en su caso, sobrenombre autorizado de la precandidatura o candidatura, según el caso, y
 
 d) Cargo y tipo de candidatura: propietario o suplente, mayoría relativa o representación proporcional, según corresponda.
 
-3. El Instituto o el OPL, según corresponda, deberán mantener permanentemente actualizadas las listas de precandidatos, candidatos, aspirantes y candidatos independientes, de acuerdo a las sustituciones, cancelaciones y modificaciones que se registren.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-4. Para efectos de lo dispuesto en el párrafo anterior, los sujetos obligados, en caso de sustitución o renuncia de candidatos, deberán proporcionar por escrito al Presidente del Consejo General o del Órgano Superior de Dirección del OPL correspondiente, a través de su representante ante dichos órganos máximo (sic) de dirección, la información respectiva conforme a lo solicitado en el Snr, dentro de las veinticuatro horas siguientes a la aprobación por el órgano estatutario correspondiente o presentación de la renuncia, en su caso.
+3. El Instituto o el OPL, según corresponda, deberán mantener permanentemente actualizadas las listas de precandidaturas, candidaturas, aspirantes y candidaturas independientes, de acuerdo a las sustituciones, cancelaciones y modificaciones que se registren.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. Para efectos de lo dispuesto en el párrafo anterior, los sujetos obligados, en caso de sustitución o renuncia de candidaturas, deberán proporcionar por escrito al Presidente del Consejo General o del Órgano Superior de Dirección del OPL correspondiente, a través de su representante ante dichos órganos máximo de dirección, la información respectiva conforme a lo solicitado en el SNR, dentro de las veinticuatro horas siguientes a la aprobación por el órgano estatutario correspondiente o presentación de la renuncia, en su caso.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 273.
 
-1. Los partidos políticos, serán los únicos responsables del otorgamiento y negativa de registro de sus precandidatos, por ende, cualquier medio de impugnación que se interponga en contra de dichas determinaciones, deberá presentarse ante el órgano interno competente.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. El Instituto o el OPL correspondiente, serán los únicos responsables del otorgamiento y negativa de registro de los candidatos, aspirantes a candidaturas independientes y candidatos independientes, por ende, cualquier medio de impugnación que interponga en contra de dichas determinaciones, deberá presentarse ante la jurisdicción electoral federal o estatal, dependiendo el proceso electoral a que se refiere.
+1. Los partidos políticos, serán los únicos responsables del otorgamiento y negativa de registro de sus precandidaturas, por ende, cualquier medio de impugnación que se interponga en contra de dichas determinaciones, deberá presentarse ante el órgano interno competente.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. El Instituto o el OPL correspondiente, serán los únicos responsables del otorgamiento y negativa de registro de las candidaturas, aspirantes a candidaturas independientes y candidaturas independientes, por ende, cualquier medio de impugnación que interponga en contra de dichas determinaciones, deberá presentarse ante la jurisdicción electoral federal o estatal, dependiendo el Proceso Electoral a que se refiere.
 
 3. En caso que algún registro se modifique o revoque por mandato de la autoridad jurisdiccional electoral, el Instituto o el OPL, según corresponda, deberán realizar las modificaciones necesarias en el sistema, en un plazo que no exceda las veinticuatro horas posteriores a que el Consejo General u Órgano Superior de Dirección respectivo, resuelva lo conducente.
 
@@ -4179,7 +4335,9 @@ d) Cargo y tipo de candidatura: propietario o suplente, mayoría relativa o repr
 
 ###### Artículo 274.
 
-1. La presentación de la plataforma electoral que los candidatos postulados por partidos políticos o coaliciones sostendrán a lo largo de las campañas políticas, en una elección federal, se deberá ajustar a lo previsto en el artículo 236 de la LGIPE; en su caso, a lo previsto en el convenio de coalición respectivo, así como a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. La presentación de la Plataforma Electoral que las candidaturas postuladas por partidos políticos o coaliciones sostendrán a lo largo de las campañas políticas, en una elección federal, se deberá ajustar a lo previsto en el artículo 236 de la LGIPE; en su caso, a lo previsto en el convenio de coalición respectivo, así como a lo siguiente:
 
 a) Presentarse ante el Presidente del Consejo General, o en su ausencia, ante el Secretario Ejecutivo;
 
@@ -4217,21 +4375,31 @@ II. En su caso, convocatoria, acta y lista de asistencia de la sesión del órga
 
 2. Las posibles modalidades de coalición son:
 
-a) Total, para postular a la totalidad de los candidatos en un mismo proceso electoral federal o local, bajo una misma plataforma electoral;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Total, para postular a la totalidad de las candidaturas en un mismo Proceso Electoral Federal o local, bajo una misma Plataforma Electoral;
 
 b) Parcial, para postular al menos el cincuenta por ciento de las candidaturas en un mismo proceso electoral federal o local, bajo una misma plataforma electoral; y
 
 c) Flexible, para postular al menos el veinticinco por ciento de las candidaturas en un mismo proceso electoral federal o loca (sic), bajo una misma plataforma electoral;
 
-3. La calificación de coaliciones en totales, parciales y flexibles, sólo aplica tratándose de cuerpos colegiados electos por el principio de mayoría relativa, como son los integrantes del órgano legislativo y de los ayuntamientos o alcaldías de la Ciudad de México. La coalición de Presidente de la República, Gobernador o Jefe de Gobierno no puede ubicarse dentro de alguno de los supuestos de coalición mencionados, en razón de la unicidad del candidato y la entidad federativa para la que se postula y vota.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-4. Cuando dos o más partidos se coaligan en forma total para las elecciones de senadores o diputados federales o locales, deberán coaligarse para la elección de Presidente de la República, Gobernador o Jefe de Gobierno. Esta regla no operará de manera inversa ni en el caso de postular a la totalidad de candidatos para las elecciones de ayuntamientos o alcaldías de la Ciudad de México.
+3. La calificación de coaliciones en totales, parciales y flexibles, sólo aplica tratándose de cuerpos colegiados electos por el principio de mayoría relativa, como son los integrantes del órgano legislativo y de los ayuntamientos o alcaldías de la Ciudad de México. La coalición de Presidencia de los Estados Unidos Mexicanos, Gubernatura, Jefatura de Gobierno no puede ubicarse dentro de alguno de los supuestos de coalición mencionados, en razón de la unicidad del candidato y la entidad federativa para la que se postula y vota.
 
-5. Dos o más partidos políticos se pueden coaligar para postular candidato a la elección de Presidente de la República, Gobernador o Jefe de Gobierno de la Ciudad de México, sin que ello conlleve como requisito que participen coaligados para otras elecciones en el mismo proceso electoral federal o local.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. Cuando dos o más partidos se coaligan en forma total para las elecciones de senadurías o diputaciones federales o locales, deberán coaligarse para la elección de Presidencia de los Estados Unidos Mexicanos, Gubernatura, o Jefatura de Gobierno. Esta regla no operará de manera inversa ni en el caso de postular a la totalidad de candidatos para las elecciones de ayuntamientos o alcaldías de la Ciudad de México.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. Dos o más partidos políticos se pueden coaligar para postular candidatura a la elección de Presidencia de los Estados Unidos Mexicanos, Gubernatura, o Jefatura de Gobierno de la Ciudad de México, sin que ello conlleve como requisito que participen coaligados para otras elecciones en el mismo Proceso Electoral Federal o local.
 
 6. El principio de uniformidad que aplica a las coaliciones implica la coincidencia de integrantes y una actuación conjunta en el registro de las candidaturas para las elecciones en las que participen de este modo.
 
-7. El porcentaje mínimo que se establece para las coaliciones parciales o flexibles, se relaciona con candidaturas de un mismo cargo de elección popular, sea de senadores, diputados federales o locales, o bien, de ayuntamientos o alcaldías de la Ciudad de México. Para efectos de cumplir con el porcentaje mínimo establecido para las coaliciones parciales o flexibles, en ningún caso, se podrán sumar candidaturas para distintos cargos de elección popular.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+7. El porcentaje mínimo que se establece para las coaliciones parciales o flexibles, se relaciona con candidaturas de un mismo cargo de elección popular, sea de senadurías, diputaciones federales o locales, o bien, de ayuntamientos o alcaldías de la Ciudad de México. Para efectos de cumplir con el porcentaje mínimo establecido para las coaliciones parciales o flexibles, en ningún caso, se podrán sumar candidaturas para distintos cargos de elección popular.
 
 8. Para efectos de cumplir el porcentaje mínimo que se establece respecto de las coaliciones parciales o flexibles, en caso de que el resultado del cálculo de este porcentaje respecto del número de cargos en cuestión, resulte un número fraccionado, siempre se tomará como cifra válida el número entero siguiente.
 
@@ -4239,11 +4407,17 @@ c) Flexible, para postular al menos el veinticinco por ciento de las candidatura
 
 ###### Artículo 276.
 
-1. La solicitud de registro del convenio deberá presentarse ante el Presidente del Consejo General o del Órgano Superior de Dirección del OPL y, en su ausencia, ante el respectivo Secretario Ejecutivo, hasta la fecha en que inicie la etapa de precampañas, acompañada de lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-a) Original del convenio de coalición en el cual conste la firma autógrafa de los presidentes de los partidos políticos integrantes o de sus órganos de dirección facultados para ello. En todo caso, se podrá presentar copia certificada por Notario Público;
+1. La solicitud de registro del convenio deberá presentarse ante la Presidencia del Consejo General o del Órgano Superior de Dirección del OPL y, en su ausencia, ante la respectiva Secretaria o Secretario Ejecutivo, hasta la fecha en que inicie la etapa de precampañas, acompañada de lo siguiente:
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Original del convenio de coalición en el cual conste la firma autógrafa de quienes presiden los partidos políticos integrantes o de sus órganos de dirección facultados para ello. En todo caso, se podrá presentar copia certificada por Notario Público;
 
 b) Convenio de coalición en formato digital con extensión .doc;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
 c) Documentación que acredite que el órgano competente de cada partido político integrante de la coalición, sesionó válidamente y aprobó:
 
@@ -4251,9 +4425,13 @@ I. Participar en la coalición respectiva;
 
 II. La plataforma electoral, y
 
-III. Postular y registrar, como coalición, a los candidatos a los puestos de elección popular.
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
 
-d) Plataforma electoral de la coalición y, en su caso, el programa de gobierno que sostendrá el candidato a Presidente de la República, Gobernador o Presidente Municipal, en medio impreso y en formato digital con extensión .doc.
+III. Postular y registrar, como coalición, a las candidaturas a los puestos de elección popular.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+d) Plataforma Electoral de la coalición y, en su caso, el programa de gobierno que sostendrá la candidatura a la Presidencia de los Estados Unidos Mexicanos, Gubernatura o Presidencia Municipal, en medio impreso y en formato digital con extensión .doc.
 
 2. A fin de acreditar la documentación precisada en el inciso c) del párrafo anterior, los partidos políticos integrantes de la coalición, deberán proporcionar original o copia certificada de lo siguiente:
 
@@ -4267,17 +4445,27 @@ c) Toda la información y elementos de convicción adicionales que permitan al I
 
 a) La denominación de los partidos políticos que integran la coalición, así como el nombre de sus representantes legales para los efectos a que haya lugar;
 
-b) La elección que motiva la coalición, especificando su modalidad. En caso de coalición parcial o flexible se precisará el número total de fórmulas de candidatos a postular, así como la relación de los distritos electorales uninominales y, en su caso, municipios, alcaldías y cualquier otro cargo de elección popular en disputa, en los cuales contenderán dichos candidatos;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-c) El procedimiento que seguirá cada partido político para la selección de los candidatos que serán postulados por la coalición, en su caso, por tipo de elección;
+b) La elección que motiva la coalición, especificando su modalidad. En caso de coalición parcial o flexible se precisará el número total de fórmulas de candidaturas a postular, así como la relación de los Distritos Electorales uninominales y, en su caso, municipios, alcaldías y cualquier otro cargo de elección popular en disputa, en los cuales contenderán dichas candidaturas;
 
-d) El compromiso de los candidatos a sostener la plataforma electoral aprobada por los órganos partidarios competentes;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-e) En el caso de elección de legisladores, el origen partidario de los candidatos que serán postulados por la coalición, así como el grupo parlamentario o partido político en el que quedarían comprendidos en caso de resultar electos;
+c) El procedimiento que seguirá cada partido político para la selección de las candidaturas que serán postulados por la coalición, en su caso, por tipo de elección;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+d) El compromiso de las candidaturas a sostener la Plataforma Electoral aprobada por los órganos partidarios competentes;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+e) En el caso de elección de legisladores, el origen partidario de las candidaturas que serán postuladas por la coalición, así como el grupo parlamentario o partido político en el que quedarían comprendidos en caso de resultar electos;
 
 f) La persona que ostenta la representación legal de la coalición, a efecto de interponer los medios de impugnación que resulten procedentes;
 
-g) La obligación relativa a que los partidos políticos integrantes de la coalición y sus candidatos, se sujetarán a los topes de gastos de campaña que se fijen para la elección como si se tratara de un solo partido político;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+g) La obligación relativa a que los partidos políticos integrantes de la coalición y sus candidaturas, se sujetarán a los topes de gastos de campaña que se fijen para la elección como si se tratara de un solo partido político;
 
 h) La expresión, en cantidades líquidas o porcentajes, del monto de financiamiento que aportará cada partido político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes; lo anterior, con apego irrestricto a las disposiciones legales y reglamentarias, y demás normativa aplicable;
 
@@ -4287,13 +4475,17 @@ j) Tratándose de coalición total, el compromiso de nombrar un representante co
 
 k) Tratándose de coalición parcial o flexible, el compromiso de cada partido político de acceder a su respectiva prerrogativa en radio y televisión, ejerciendo sus derechos por separado, acorde a lo previsto en el artículo 167, numeral 2, inciso b) de la LGIPE;
 
-l) La forma en que será distribuida la prerrogativa de acceso a tiempo en radio y televisión que corresponda ejercer a la coalición, entre sus candidatos y, en su caso, entre los de cada partido, por cada uno de esos medios de comunicación;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+l) La forma en que será distribuida la prerrogativa de acceso a tiempo en radio y televisión que corresponda ejercer a la coalición, entre sus candidaturas y, en su caso, entre los de cada partido, por cada uno de esos medios de comunicación;
 
 m) Los integrantes del partido u órgano de la coalición encargado de la administración de los recursos de campaña y de la presentación de los informes respectivos, y
 
 n) El compromiso de que cada partido político asumirá las responsabilidades que, en su caso, se deriven por la expresión, en cantidades líquidas o porcentajes, del monto del financiamiento que aportará cada partido político coaligado para el desarrollo de las campañas respectivas.
 
-4. En todo caso, cada partido integrante de la coalición deberá registrar listas propias de candidatos a diputados locales o a la Asamblea Legislativa por el principio de representación proporcional.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. En todo caso, cada partido integrante de la coalición deberá registrar listas propias de candidaturas a diputaciones locales por el principio de representación proporcional.
 
 5. Cada partido político coaligado conservará su propia representación ante los consejos del Instituto, de los OPL y ante las mesas directivas de casilla.
 
@@ -4321,11 +4513,15 @@ b) En caso de que los partidos políticos que participen en forma individual, lo
 
 ###### Artículo 279.
 
-1. El convenio de coalición podrá ser modificado a partir de su aprobación por el Consejo General o por el Órgano Superior de Dirección del OPL, y hasta un día antes del inicio del periodo de registro de candidatos.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. El convenio de coalición podrá ser modificado a partir de su aprobación por el Consejo General o por el Órgano Superior de Dirección del OPL, y hasta un día antes del inicio del periodo de registro de candidaturas.
 
 2. La solicitud de registro de la modificación, deberá acompañarse de la documentación precisada en el artículo 276, numerales 1 y 2 de este Reglamento.
 
-3. En dicha documentación deberá constar la aprobación de la modificación cuyo registro se solicita. Se deberá anexar en medio impreso, el convenio modificado con firmas autógrafas, así como en formato digital con extensión .doc.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. En dicha documentación deberá constar la aprobación de la modificación cuyo registro se solicita. Se deberá anexar en medio impreso, el texto íntegro del convenio (incluidas las modificaciones) con firmas autógrafas, así como en formato digital con extensión .doc.
 
 4. La modificación del convenio de coalición, en ningún caso podrá implicar el cambio de la modalidad que fue registrada por el Consejo General o el Órgano Superior de Dirección del OPL.
 
@@ -4337,21 +4533,31 @@ b) En caso de que los partidos políticos que participen en forma individual, lo
 
 ###### Artículo 280.
 
-1. Cuando dos o más partidos se coaligan en forma total para las elecciones de diputados, deberán coaligarse para la elección de gobernador o jefe de gobierno. Esta regla no operará de manera inversa, ni en el caso de postular a la totalidad de candidatos para las elecciones de ayuntamientos o alcaldías.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Dos o más partidos políticos se pueden coaligar para postular candidato a la elección de gobernador o jefe de gobierno, sin que ello conlleve como requisito que participen coaligados para otras elecciones en el mismo proceso electoral local.
+1. Cuando dos o más partidos se coaligan en forma total para las elecciones de diputaciones, deberán coaligarse para la elección de Gubernatura o Jefatura. Esta regla no operará de manera inversa, ni en el caso de postular a la totalidad de candidaturas para las elecciones de ayuntamientos o alcaldías.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Dos o más partidos políticos se pueden coaligar para postular candidaturas a la elección de Gubernatura o Jefatura de Gobierno, sin que ello conlleve como requisito que participen coaligados para otras elecciones en el mismo Proceso Electoral Local.
 
 3. El principio de uniformidad que aplica a las coaliciones implica la coincidencia de integrantes y una actuación conjunta en el registro de las candidaturas para las elecciones en las que participen de este modo.
 
-4. El porcentaje mínimo que se establece para las coaliciones parciales o flexibles, se relaciona con candidaturas de un mismo cargo de elección popular, sea de diputados o bien, de ayuntamientos o alcaldías. Para efectos de cumplir con el porcentaje mínimo establecido para las coaliciones parciales o flexibles, en ningún caso, se podrán sumar candidaturas para distintos cargos de elección popular.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. El porcentaje mínimo que se establece para las coaliciones parciales o flexibles, se relaciona con candidaturas de un mismo cargo de elección popular, sea de diputaciones o bien, de ayuntamientos o alcaldías. Para efectos de cumplir con el porcentaje mínimo establecido para las coaliciones parciales o flexibles, en ningún caso, se podrán sumar candidaturas para distintos cargos de elección popular.
 
 5. A fin de cumplir el porcentaje mínimo establecido respecto de las coaliciones parciales o flexibles, en caso que el resultado del cálculo de este porcentaje respecto del número de cargos en cuestión resulte un número fraccionado, siempre se tomará como cifra válida el número entero siguiente.
 
 6. Para efectos de la prerrogativa de acceso a radio y televisión, se entenderá como coalición total exclusivamente aquella que postule a la totalidad de las candidaturas de todos los cargos que se disputan en un proceso electoral local. Esta coalición conlleva la conjunción de las coaliciones totales de los distintos cargos de elección en disputa y, en su caso, de gobernador o jefe de gobierno.
 
-7. Para obtener el número de candidatos a diputados locales, ayuntamientos o alcaldías en cada una de las modalidades de coalición, es necesario considerar el número de cargos a elegir en cada entidad federativa conforme a lo previsto en sus normas aplicables.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-8. Debe considerarse en las coaliciones el cumplimiento al principio de paridad en las candidaturas, por lo que los OPL deberán vigilar que la coalición observe lo establecido en el artículo 233 de la LGIPE, en relación con lo dispuesto por el artículo 3, numerales 4 y 5 de la LGPP.
+7. Para obtener el número de candidaturas a diputaciones locales, ayuntamientos o alcaldías en cada una de las modalidades de coalición, es necesario considerar el número de cargos a elegir en cada entidad federativa conforme a lo previsto en sus normas aplicables.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+8. Debe considerarse en las coaliciones el cumplimiento al principio de paridad en las candidaturas, por lo que los OPL deberán vigilar que la coalición observe lo establecido en los artículos 232 y 233 de la LGIPE, en relación con lo dispuesto por el artículo 3, numerales 4 y 5 de la LGPP.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -4365,87 +4571,177 @@ b) En caso de que los partidos políticos que participen en forma individual, lo
 
 2. En elecciones federales, en caso que un partido político o coalición pretenda el registro de una candidatura derivada de un acuerdo de participación con una agrupación política nacional o de la propia coalición, el requisito relativo a acreditar que se cumplió con lo dispuesto en los artículos 21, numeral 2, y 92, numeral 1 de la Lgpp, se tendrá por cumplido si el acuerdo de participación o convenio de coalición correspondiente fue registrado por el Consejo General, quedando las solicitudes de registro respectivas, sujetas a la verificación de la documentación que se anexe y que deberá presentarse durante el plazo establecido en la ley aplicable.
 
-3. El Instituto o, en su caso, el OPL, deberán validar en el sistema, la información de los candidatos que haya sido capturada por los sujetos postulantes, dentro de las cuarenta y ocho horas posteriores al vencimiento del plazo para el registro de las candidaturas respectivas.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-4. Las sustituciones o cancelaciones de candidatos que fueran presentadas, deberán validarse en el Snr en un plazo no mayor a cuarenta y ocho horas posteriores a la sesión en que hayan sido aprobadas por el Consejo General u Órgano Superior de Dirección, según corresponda.
+3. El Instituto o, en su caso, el OPL, deberán validar en el sistema, la información de las candidaturas que haya sido capturada por los sujetos postulantes, dentro de las cuarenta y ocho horas posteriores al vencimiento del plazo para el registro de las candidaturas respectivas.
 
-5. En caso que los datos de un candidato hayan sido capturados previamente como precandidato, sólo será necesario que los partidos políticos, coaliciones, alianzas, según corresponda, indiquen que el mismo será registrado como candidato, e imprimir el formato de solicitud de registro.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. Las sustituciones o cancelaciones de candidaturas que fueran presentadas, deberán validarse en el SNR en un plazo no mayor a cuarenta y ocho horas posteriores a la sesión en que hayan sido aprobadas por el Consejo General u Órgano Superior de Dirección, según corresponda.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. En caso que los datos de una candidatura hayan sido capturados previamente como precandidatura, sólo será necesario que los partidos políticos, coaliciones, alianzas, según corresponda, indiquen que la misma será registrada como candidatura, e imprimir el formato de solicitud de registro.
 
 6. El formato de registro deberá presentarse físicamente ante el Instituto o el OPL, según corresponda, con firma autógrafa del representante del partido político ante la autoridad administrativa electoral responsable del registro, anexando la documentación que establezca la normatividad aplicable y dentro de los plazos establecidos por la misma. De no hacerlo así, o bien, cuando no se subsanen en tiempo y forma las omisiones señaladas en el oficio de requerimiento formulado por la autoridad administrativa electoral competente, se tendrá por no presentada la solicitud respectiva, sin responsabilidad para la autoridad electoral.
 
-7. Los documentos que deban acompañarse a la solicitud de registro de candidaturas previstos en la LGIPE o en la ley electoral local respectiva, que por su naturaleza deban ser presentados en original, es decir, la solicitud de registro, la aceptación de la candidatura y la manifestación por escrito que los candidatos fueron seleccionados de conformidad con las normas estatutarias del partido político postulante, deberán contener, invariablemente, la firma autógrafa del candidato, y del dirigente o representante del partido político o coalición acreditado ante el Instituto o el OPL para el caso del escrito de manifestación; lo anterior, salvo que se presentaran copias certificadas por Notario Público, en las que se indique que aquellas son reflejo fiel de los originales que tuvo a la vista. De igual forma, tales documentos no deberán contener ninguna tachadura o enmendadura.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-8. La credencial para votar con fotografía hará las veces de constancia de residencia, salvo cuando el domicilio de candidato asentado en la solicitud de registro no corresponda con el asentado en la propia credencial, en cuyo caso se deberá presentar la correspondiente constancia de residencia expedida por la autoridad competente.
+7. Los documentos que deban acompañarse a la solicitud de registro de candidaturas previstos en la LGIPE o en la ley electoral local respectiva, que por su naturaleza deban ser presentados en original, es decir, la solicitud de registro, la aceptación de la candidatura y la manifestación por escrito que las candidaturas fueron seleccionadas de conformidad con las normas estatutarias del partido político postulante, deberán contener, invariablemente, la firma autógrafa de la candidatura, y del dirigente o representante del partido político o coalición acreditado ante el Instituto o el OPL para el caso del escrito de manifestación; lo anterior, salvo que se presentaran copias certificadas por Notario Público, en las que se indique que aquellas son reflejo fiel de los originales que tuvo a la vista. De igual forma, tales documentos no deberán contener ninguna tachadura o enmendadura.
 
-9. Los candidatos que soliciten se incluya su sobrenombre, deberán hacerlo del conocimiento al Instituto u OPL mediante escrito privado.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-10. Tratándose de una coalición o cualquier otra forma de alianza, el partido político al que pertenezca el candidato postulado, deberá llenar la solicitud de registro correspondiente, la cual deberá ser firmada por las personas autorizadas en el convenio respectivo.
+8. La credencial para votar hará las veces de constancia de residencia, salvo cuando el domicilio de la candidatura asentado en la solicitud de registro no corresponda con el asentado en la propia credencial, en cuyo caso se deberá presentar la correspondiente constancia de residencia expedida por la autoridad competente.
 
-11. Una vez impresas las boletas electorales, no habrá modificación alguna a las mismas, aun cuando se presenten cancelaciones y sustituciones de candidatos, o correcciones de datos de éstos, salvo mandato de los órganos jurisdiccionales electorales, cuando se ordene realizar nuevas impresiones de boletas.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-12. Para el caso de candidaturas comunes en elecciones locales, cuya legislación de la entidad federativa que corresponda contemple dicha figura jurídica, cada partido integrante deberá realizar de forma independiente y obligatoria el registro en el sistema del candidato que postulen.
+9. Las candidaturas propietarias que soliciten se incluya su sobrenombre en la boleta electoral, deberán hacerlo del conocimiento al Instituto u OPL mediante escrito privado anexo a la solicitud de registro o de sustitución de candidatura.
+
+El sobrenombre se incluirá en la boleta electoral, invariablemente después del nombre completo de la persona.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+10. Tratándose de una coalición o cualquier otra forma de alianza, el partido político al que pertenezca la candidatura postulada, deberá llenar la solicitud de registro correspondiente, la cual deberá ser firmada por las personas autorizadas en el convenio respectivo.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+11. Una vez impresas las boletas electorales, no habrá modificación alguna a las mismas, aun cuando se presenten cancelaciones y sustituciones de candidaturas, o correcciones de datos de éstas, salvo mandato de los órganos jurisdiccionales electorales, cuando se ordene realizar nuevas impresiones de boletas.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+12. Para el caso de candidaturas comunes en elecciones locales, cuya legislación de la entidad federativa que corresponda contemple dicha figura jurídica, cada partido integrante deberá realizar de forma independiente y obligatoria el registro en el sistema de la candidatura que postulen.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+13. En el caso de las personas mexicanas por nacimiento a las que otro Estado considere como sus nacionales, y que aspiren a un cargo para el que se requiera ser mexicana o mexicano por nacimiento y que no adquieran otra nacionalidad, deberán presentar junto con su solicitud de registro o sustitución de candidatura, copia certificada u original para cotejo, del certificado de nacionalidad mexicana expedido por la Secretaría de Relaciones Exteriores.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 282.
 
-1. En el caso de elecciones federales ordinarias, la totalidad de solicitudes de registro de candidaturas a senadores y diputados federales, tanto de mayoría relativa como de representación proporcional, que presenten ante el Instituto los partidos políticos o, en su caso, las coaliciones, deberán integrarse salvaguardando la paridad entre los géneros, en términos de lo dispuesto en los artículos 232, 233 y 234 de la LGIPE.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Asimismo, los partidos políticos y coaliciones deberán observar lo dispuesto en el artículo 3, numeral 5 de la Lgpp, esto es, garantizar el criterio respecto a las posibilidades reales de participación, evitando que en cada distrito exista un sesgo evidente en contra de un género.
+1. En el caso de elecciones federales ordinarias, la totalidad de solicitudes de registro de candidaturas a senadurías y diputaciones federales, tanto de mayoría relativa como de representación proporcional, que presenten ante el Instituto los partidos políticos o, en su caso, las coaliciones, deberán integrarse salvaguardando la paridad entre los géneros, en términos de lo dispuesto en los artículos 232, 233 y 234 de la LGIPE.
 
-3. De acuerdo a lo establecido en el numeral anterior, para determinar las entidades o distritos con porcentaje de votación más bajo, se estará a lo siguiente:
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
 
-Para la elección de senadores:
+2. Para el caso de senadurías por el principio de mayoría relativa, deberá observarse el principio de paridad vertical y horizontal, esto es:
 
-a) Respecto de cada partido, se enlistarán todas las entidades federativas en los que se presentó una candidatura, ordenados de menor a mayor conforme al porcentaje de votación válida que en cada uno de ellos hubiere recibido en el proceso electoral anterior.
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-b) Se dividirá la lista en tres bloques, correspondiente cada uno a un tercio de las entidades enlistadas: el primer bloque, con las entidades en las que el partido obtuvo la votación más baja; el segundo, donde obtuvo una votación media; y el tercero, en las que obtuvo la votación más alta.
+a) La primera fórmula que integra la lista de candidatas y candidatos que se presenten para cada entidad federativa, deberá ser de género distinto a la segunda.
 
-c) El primer bloque de entidades con votación más baja, se analizará de la manera siguiente:
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-I. Se revisará la totalidad de las entidades de este bloque, para identificar, en su caso, si fuera apreciable un sesgo que favoreciera o perjudicara a un género en particular; es decir, si se encuentra una notoria disparidad en el número de personas de un género comparado con el de otro;
+b) De la totalidad de las listas de candidaturas por entidad federativa, el 50% deberá estar encabezada por hombres y el 50% por mujeres.
 
-II. Se revisarán únicamente las seis entidades de este bloque, en las que el partido obtuvo la votación más baja en la elección anterior. Ello, para identificar si en este grupo más pequeño es o no apreciable un sesgo que favoreciera o perjudicara significativamente a un género en particular; es decir, si se encuentra una notoria disparidad en el número de personas de un género comparado con el de otro;
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES PÁRRAFO 2], D.O.F. 21 DE JULIO DE 2020)</small>
 
-III. Para efectos de la división en bloques, si se trata de un número no divisible entre tres, el remanente se considerará en el bloque de entidades de menor votación.
+3. Asimismo, los partidos políticos y coaliciones deberán observar lo dispuesto en el artículo 3, numeral 5 de la LGPP, esto es, garantizar las posibilidades reales de participación, evitando que en las entidades o Distritos, según la elección de que se trate, en que hayan obtenido la votación más baja exista un sesgo evidente en contra de un género.
 
-Para la elección de diputados federales:
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES PÁRRAFO 3], D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. De acuerdo a lo establecido en el numeral anterior, para determinar las entidades o Distritos con porcentaje de votación más bajo, se estará a lo siguiente:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+I. Para la elección de senadurías:
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Respecto de cada partido, se enlistarán todas las entidades federativas en las que se presentó una candidatura, ordenadas de menor a mayor conforme al porcentaje de votación válida que en cada una de ellas hubiere recibido en el Proceso Electoral anterior.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+b) Se dividirá la lista en tres bloques, correspondiente cada uno a un tercio de las entidades enlistadas: el primer bloque, con las entidades en las que el partido obtuvo la votación más baja; el segundo, donde obtuvo una votación media; y el tercero, en las que obtuvo la votación más alta. Para tales efectos, si se trata de un número no divisible entre tres, el remanente se considerará en el bloque de entidades de menor votación.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+c) Se revisará la totalidad de las entidades de cada bloque, para identificar, en su caso, si fuera apreciable un sesgo que favorezca o perjudique a un género en particular; es decir, si se encuentra una notoria disparidad en el número de personas de un género comparado con el de otro;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+d) El primer bloque de entidades con votación más baja, se analizará de la manera siguiente:
+
+> <small>(REFORMADO [N. DE E. ANTES FRACCIÓN II DEL PÁRRAFO 3], D.O.F. 21 DE JULIO DE 2020)</small>
+
+Se revisarán únicamente las seis entidades de este bloque, o la parte proporcional que corresponda, en las que el partido obtuvo la votación más baja en la elección anterior. Ello, para identificar si en este grupo más pequeño es o no apreciable un sesgo que favorezca o perjudique significativamente a un género en particular; es decir, si se encuentra una notoria disparidad en el número de personas de un género comparado con el de otro;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+II. Para la elección de diputaciones federales:
 
 a) Respecto de cada partido, se enlistarán todos los distritos en los que se presentó una candidatura, ordenados de menor a mayor conforme al porcentaje de votación válida emitida que en cada uno de ellos hubiere recibido en el proceso electoral anterior.
 
-b) Se dividirá la lista en tres bloques, correspondiente cada uno a un tercio de los distritos enlistados: el primer bloque, con los distritos en los que el partido obtuvo la votación más baja; el segundo, con los distritos en los que obtuvo una votación media; y el tercero, con los distritos en los que obtuvo la votación más alta.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-c) El primer bloque de distritos con votación más baja se analizará de la manera siguiente:
+b) Se dividirá la lista en tres bloques, correspondiente cada uno a un tercio de los Distritos enlistados: el primer bloque, con los Distritos en los que el partido obtuvo la votación más baja; el segundo, con los Distritos en los que obtuvo una votación media; y el tercero, con los Distritos en los que obtuvo la votación más alta. Para tales efectos, si se trata de un número no divisible entre tres, el remanente se considerará en el bloque de Distritos de menor votación.
 
-I. Se revisará la totalidad de los distritos de este bloque, para identificar, en su caso, si fuera apreciable un sesgo que favoreciera o perjudicara a un género en particular; es decir, si se encuentra una notoria disparidad en el número de personas de un género comparado con el de otro;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-II. Se revisarán únicamente los últimos veinte distritos de este bloque, es decir, los veinte distritos en los que el partido obtuvo la votación más baja en la elección anterior. Ello, para identificar si en este grupo más pequeño es o no apreciable un sesgo que favoreciera o perjudicara significativamente a un género en particular; es decir, si se encuentra una notoria disparidad en el número de personas de un género comparado con el de otro;
+c) Se revisará la totalidad de los Distritos de cada bloque, para identificar, en su caso, si fuera apreciable un sesgo que favorezca o perjudique a un género en particular; es decir, si se encuentra una notoria disparidad en el número de personas de un género comparado con el de otro;
 
-III. Para efectos de la división en bloques, si se trata de un número no divisible entre tres, el remanente se considerará en el bloque de distritos de menor votación.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
 
-4. Lo anterior no será aplicable para los partidos políticos que recientemente hayan obtenido su registro, únicamente respecto del primer proceso electoral tanto federal como local en el que participen. Sin embargo, deberán postular candidaturas en condiciones de igualdad de oportunidades para ambos géneros.
+d) El primer bloque de Distritos con votación más baja se analizará de la manera siguiente:
+
+> <small>(REFORMADO [N. DE E ANTES FRACCIÓN II DEL INCISO C], D.O.F. 21 DE JULIO DE 2020)</small>
+
+Se revisarán únicamente los últimos veinte Distritos de este bloque, o la parte proporcional que corresponda, es decir, los veinte Distritos en los que el partido obtuvo la votación más baja en la elección anterior. Ello, para identificar si en este grupo más pequeño es o no apreciable un sesgo que favorezca o perjudique significativamente a un género en particular; es decir, si se encuentra una notoria disparidad en el número de personas de un género comparado con el de otro;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+III. En el supuesto de coaliciones, para determinar las entidades o Distritos de menor a mayor votación, se estará a lo siguiente:
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) En caso de que los partidos políticos que integran la coalición hubieran participado en forma individual en el Proceso Electoral anterior, se considerará la suma de la votación obtenida por cada partido político que integre la coalición correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+b) En caso de que los partidos políticos que participen en forma individual, lo hayan hecho en coalición en el Proceso Electoral anterior, se considerará la votación obtenida por el partido en lo individual.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+c) De igual manera, en caso de que alguno de los partidos políticos que integran la coalición hubiera participado en forma individual en el Proceso Electoral Federal anterior, o que la coalición se integrara por partidos distintos o que se conformara en entidades o Distritos diferentes a la coalición actual, se considerará la suma de la votación obtenida por cada partido político en lo individual.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. Lo establecido en el numeral anterior no será aplicable para los partidos políticos que recientemente hayan obtenido su registro, únicamente respecto del primer Proceso Electoral tanto federal como local en el que participen. Sin embargo, deberán postular candidaturas en condiciones de igualdad de oportunidades para ambos géneros.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 283.
 
-1. En el caso de elecciones federales y locales extraordinarias, los partidos políticos postularán candidatos de conformidad con los criterios siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-a) En caso que los partidos políticos postulen candidatos de manera individual, éstos deberán ser del mismo género que el de los candidatos que contendieron en el proceso electoral ordinario.
+1. En el caso de elecciones federales y locales extraordinarias, los partidos políticos postularán candidaturas de conformidad con los criterios siguientes:
 
-b) En caso que se hubiera registrado coalición en el proceso electoral ordinario y la misma se registre en el proceso electoral extraordinario, los partidos políticos integrantes de la coalición deberán postular candidatos del mismo género al de los candidatos con que contendieron en el proceso electoral ordinario.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) En caso de que los partidos políticos postulen candidaturas de manera individual, éstas deberán ser del mismo género que el de las candidaturas que contendieron en el Proceso Electoral Ordinario.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+b) En caso que se hubiera registrado coalición en el Proceso Electoral Ordinario y la misma se registre en el Proceso Electoral extraordinario, los partidos políticos integrantes de la coalición deberán postular candidaturas del mismo género al de las candidaturas con que contendieron en el Proceso Electoral Ordinario.
 
 c) En caso que los partidos políticos hubieran participado de manera individual en el proceso electoral ordinario y pretendan coaligarse en el proceso electoral extraordinario deberán atenerse a lo siguiente:
 
-I. Si los partidos políticos coaligados participaron con fórmulas de candidatos del mismo género en el proceso electoral ordinario, deberán registrar una fórmula de candidatos del mismo género para la coalición que se registre en el proceso electoral extraordinario.
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
 
-II. Si los partidos participaron con candidatos de género distinto en el proceso electoral ordinario, deberán registrar una fórmula con género femenino para la coalición que se registre en el proceso electoral extraordinario.
+I. Si los partidos políticos coaligados participaron con fórmulas de candidaturas del mismo género en el Proceso Electoral Ordinario, deberán registrar una fórmula de candidaturas del mismo género para la coalición que se registre en el Proceso Electoral extraordinario.
+
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+II. Si los partidos participaron con candidaturas de género distinto en el Proceso Electoral Ordinario, deberán registrar una fórmula con género femenino para la coalición que se registre en el Proceso Electoral extraordinario.
 
 d) En caso que los partidos políticos que hubieran registrado coalición en el proceso electoral ordinario decidan participar de manera individual en el proceso electoral extraordinario, deberán conducirse conforme a lo siguiente:
 
 I. En caso que la fórmula postulada por la coalición haya sido integrada por personas del género femenino, los partidos repetirán el mismo género;
 
-II. En caso que la fórmula postulada por la coalición haya sido integrada por personas del género masculino, los partidos podrán optar por un género distinto para la postulación de sus candidatos.
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+II. En caso que la fórmula postulada por la coalición haya sido integrada por personas del género masculino, los partidos podrán optar por un género distinto para la postulación de sus candidaturas.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -4463,19 +4759,21 @@ II. En caso que la fórmula postulada por la coalición haya sido integrada por 
 
 1. Las disposiciones contenidas en el presente Capítulo son de observancia obligatoria tratándose únicamente de elecciones federales, y son complementarias de lo establecido en el Libro Séptimo de la LGIPE.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 286.
 
-1. Las fórmulas de candidaturas independientes podrán ser integradas por personas del mismo género, o bien, de diverso género, siempre y cuando el candidato propietario sea hombre y la suplente mujer.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+1. Las fórmulas de candidaturas independientes podrán ser integradas por personas del mismo género, o bien, de diverso género, siempre y cuando la persona propietaria sea hombre y la suplente mujer.
 
 ###### Artículo 287.
 
-1. El Consejo General emitirá la convocatoria dirigida a los ciudadanos interesados en postularse como candidatos independientes, misma que deberá ser publicada en la página electrónica del Instituto, en el Diario Oficial de la Federación, en dos periódicos de circulación nacional y en los estrados de las oficinas centrales y desconcentradas del Instituto.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. El Secretario Ejecutivo, los vocales ejecutivos de las juntas locales y distritales ejecutivas del Instituto, por los medios que tengan a su alcance, deberán adoptar las medidas necesarias para la difusión de la convocatoria dirigida a los ciudadanos interesados en postularse como candidatos independientes a los diversos cargos de elección popular federal por el principio de mayoría relativa.
+1. El Consejo General emitirá la convocatoria dirigida a la ciudadanía interesada en postularse para alguna candidatura independiente, misma que deberá ser publicada en la página electrónica del Instituto, en el Diario Oficial de la Federación, en dos periódicos de circulación nacional y en los estrados de las oficinas centrales y desconcentradas del Instituto.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. La Secretaría Ejecutiva, las vocalías ejecutivas de las Juntas Locales y Distritales ejecutivas del Instituto, por los medios que tengan a su alcance, deberán adoptar las medidas necesarias para la difusión de la convocatoria dirigida a la ciudadanía interesada en postularse para alguna de las candidaturas independientes a los diversos cargos de elección popular federal por el principio de mayoría relativa.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -4489,7 +4787,9 @@ b) Los requisitos que se deben cumplir;
 
 c) La documentación que se debe acompañar;
 
-d) Los plazos para recabar el apoyo ciudadano correspondiente, atendiendo a lo establecido en el artículo 369, numeral 2 de la LGIPE;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+d) Los plazos para recabar el apoyo de la ciudadanía, atendiendo a lo establecido en el artículo 369, numeral 2 de la LGIPE;
 
 e) Los topes de gastos que pueden erogar en los actos tendientes a recabar el apoyo ciudadano;
 
@@ -4497,7 +4797,9 @@ f) Fechas de sesiones para acordar lo conducente respecto de las solicitudes de 
 
 g) Causas de cancelación de las candidaturas;
 
-h) Prerrogativas de los candidatos independientes, e
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+h) Prerrogativas de las candidaturas independientes, e
 
 i) Los formatos que serán utilizados, a saber:
 
@@ -4507,95 +4809,153 @@ II. Manifestación de intención (Anexo 11.2);
 
 III. Manifestación de voluntad de ser registrado (a) como candidata o candidato independiente (Anexo 11.3);
 
-IV. Escrito bajo protesta de decir verdad (Anexo 11.4) de: no aceptar recursos de procedencia ilícita para campañas y actos para obtener el apoyo ciudadano; no ser presidente del comité ejecutivo nacional, estatal o municipal; dirigente, militante, afiliado o su equivalente, de un partido político, conforme a lo establecido en la LGIPE, y no tener ningún otro impedimento de tipo legal para contender como Candidato Independiente;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
 
-V. Cédula de respaldo de apoyo ciudadano, y
+IV. Escrito bajo protesta de decir verdad (Anexo 11.4) de: no aceptar recursos de procedencia ilícita para campañas y actos para obtener el apoyo de la ciudadanía, no ostentar el cargo de la presidencia del comité ejecutivo nacional, estatal o municipal; así como de dirigencias, o pertenecer a la militancia, afiliación o su equivalente, de un partido político, conforme a lo establecido en la LGIPE, y no tener ningún otro impedimento de tipo legal para contender a una candidatura independiente;
+
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+V. Cédula de respaldo de apoyo de la ciudadanía, y
 
 VI. Escrito en el que manifieste su conformidad para que todos los ingresos y egresos de la cuenta bancaria aperturada sean fiscalizados, en cualquier momento, por el Instituto (Anexo 11.5).
 
-2. Los ciudadanos deberán hacer del conocimiento del Instituto, a partir del día siguiente a aquel en que se publique la convocatoria y hasta un día antes del inicio del periodo para recabar el apoyo ciudadano, lo siguiente:
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-a) La manifestación de intención que deberá dirigirse al Secretario Ejecutivo, vocal ejecutivo local o distrital, según corresponda, y presentarse por escrito, en original, con firma autógrafa del ciudadano interesado, en las oficinas correspondientes, en el formato respectivo;
+j) La obligación de las personas aspirantes y candidaturas independientes de abstenerse de ejercer violencia política contra las mujeres en razón de género o de recurrir a expresiones que degraden, denigren o discriminen a otras personas aspirantes, precandidatas, candidatas, partidos políticos, personas, instituciones públicas o privadas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Las y los ciudadanos deberán hacer del conocimiento del Instituto, a partir del día siguiente a aquel en que se publique la convocatoria y hasta un día antes del inicio del periodo para recabar el apoyo de la ciudadanía, lo siguiente:
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) La manifestación de intención que deberá dirigirse a la Secretaria o Secretario Ejecutivo, vocalía ejecutiva local o distrital, según corresponda, y presentarse por escrito, en original, con firma autógrafa del ciudadano interesado, en las oficinas correspondientes, en el formato respectivo;
 
 b) La manifestación de intención deberá acompañarse de la documentación siguiente:
 
-I. Copia certificada del acta constitutiva de la asociación civil integrada, al menos, por el aspirante, su representante legal y el encargado de la administración de los recursos de la candidatura independiente;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+I. Copia certificada del acta constitutiva de la asociación civil integrada, al menos, por la o el aspirante, su representante legal y la o el encargado de la administración de los recursos de la candidatura independiente;
 
 II. El acta deberá contener los estatutos, los cuales deberán apegarse al modelo único que forma parte del presente Reglamento;
 
 III. Copia simple de cualquier documento emitido por el Servicio de Administración Tributaria, en el que conste el Registro Federal de Contribuyentes de la asociación civil;
 
-IV. Copia simple del contrato de la cuenta bancaria aperturada a nombre de la asociación civil, en la que se recibirá el financiamiento privado y, en su caso, público, y
+[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. DE 21 DE JULIO DE 2020, PÁGINA 108].
 
-V. Copia simple legible del anverso y reverso de la credencial para votar con fotografía del ciudadano interesado, del representante legal y del encargado de la administración de los recursos.
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+IV. Copia simple del contrato de la cuenta bancaria aperturada a nombre de la asociación civil, en la que se recibirá el financiamiento privado y, en su caso, público; V. (SIC) Copia simple legible del anverso y reverso de la credencial para votar con fotografía del ciudadano o la ciudadana interesada, del representante legal y de la persona encargada de la administración de los recursos, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+VI. Escrito bajo protesta de decir verdad de no haber sido condenado o condenada por delito de violencia política contra las mujeres en razón de género.
 
 ###### Artículo 289.
 
-1. Una vez recibida la documentación mencionada, el Secretario Ejecutivo, el vocal ejecutivo local o distrital, según corresponda, verificarán dentro de los tres días siguientes que la manifestación de intención se encuentre integrada conforme a lo señalado en el inciso b) del numeral 2 del artículo anterior, excepto cuando la manifestación se presente en el último día del plazo, en cuyo caso dicha verificación deberá realizarse dentro de las veinticuatro horas siguientes a la recepción de la misma.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. En caso que de la revisión resulte que el ciudadano interesado no acompañó la documentación e información completa, el Secretario Ejecutivo, el vocal ejecutivo local o distrital, según el caso, realizará un requerimiento al ciudadano interesado, para que en un término de cuarenta y ocho horas remita la documentación o información omitida.
+1. Una vez recibida la documentación mencionada, la Secretaria o el Secretario Ejecutivo, la o el vocal ejecutivo local o distrital, según corresponda, verificarán dentro de los tres días siguientes que la manifestación de intención se encuentre integrada conforme a lo señalado en el inciso b) del numeral 2 del artículo anterior, excepto cuando la manifestación se presente en el último día del plazo, en cuyo caso dicha verificación deberá realizarse dentro de las veinticuatro horas siguientes a la recepción de la misma.
 
-3. De no recibirse respuesta al requerimiento dentro del plazo señalado, o que con ésta no se remita la documentación e información solicitada, la manifestación de intención se tendrá por no presentada. El ciudadano interesado podrá presentar una nueva manifestación de intención, siempre y cuando se exhiba dentro del plazo señalado para ese efecto.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-4. De resultar procedente la manifestación de intención, se expedirá constancia de aspirante al ciudadano interesado. En caso contrario, la autoridad electoral lo notificará al interesado mediante oficio debidamente fundado y motivado.
+2. En caso que de la revisión resulte que la o el ciudadano interesado no acompañó la documentación e información completa, la o el Secretario Ejecutivo, la o el vocal ejecutivo local o distrital, según el caso, realizará un requerimiento a la ciudadana o ciudadano interesado, para que en un término de cuarenta y ocho horas remita la documentación o información omitida.
 
-5. Las constancias de aspirante deberán emitirse el mismo día para todos y cada uno de los ciudadanos interesados que hayan cumplido con los requisitos y entregarse en el domicilio señalado por éstos para oír y recibir notificaciones. La lista de los ciudadanos a quienes se les otorgó constancia de aspirante, se publicará el mismo día en la página electrónica del Instituto.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-6. Los vocales ejecutivos locales o distritales deberán remitir a la Deppp vía correo electrónico, las constancias mencionadas en el numeral anterior, así como la manifestación de intención del ciudadano, a más tardar al día siguiente de su emisión, a fin que la Deppp proceda a capturar los datos del aspirante en el Snr. Asimismo, deberán remitir, vía correo electrónico a la Utf, los documentos referidos en los subincisos I, II y III del inciso b) del artículo anterior.
+3. De no recibirse respuesta al requerimiento dentro del plazo señalado, o que con ésta no se remita la documentación e información solicitada, la manifestación de intención se tendrá por no presentada. La o el ciudadano interesado podrá presentar una nueva manifestación de intención, siempre y cuando se exhiba dentro del plazo señalado para ese efecto.
 
-7. La utf verificará que el Registro Federal de Contribuyentes de la asociación civil, proporcionado por el ciudadano interesado, se encuentre dado de alta en el Servicio de Administración Tributaria. De no ser así, la utf requerirá personalmente al aspirante en el domicilio proporcionado, para que manifieste lo que a su derecho convenga, otorgándole un plazo de cuarenta y ocho horas. Si vencido el plazo no se recibe respuesta o la misma no es suficiente para tener por válido el Registro Federal de Contribuyentes, la utf lo hará del conocimiento de la deppp mediante oficio, dentro de las veinticuatro horas siguientes al vencimiento del plazo referido, a efecto que revoque la constancia de aspirante.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-8. La revocación de la constancia le será notificada al ciudadano interesado, mediante escrito signado por el Secretario Ejecutivo, o el titular de la junta local o distrital respectiva, dentro de las cuarenta y ocho horas siguientes a que la Deppp reciba el oficio de la Utf.
+4. De resultar procedente la manifestación de intención, se expedirá constancia de aspirante a la ciudadana o el ciudadano interesado. En caso contrario, la autoridad electoral lo notificará a la o el interesado mediante oficio debidamente fundado y motivado.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. Las constancias de aspirante deberán emitirse el mismo día para todas y todos los ciudadanos interesados que hayan cumplido con los requisitos y entregarse en el domicilio señalado por éstos para oír y recibir notificaciones. La lista de las personas a quienes se les otorgó constancia de aspirante, se publicará el mismo día en la página electrónica del Instituto.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+6. Las y los Vocales Ejecutivos locales o distritales deberán remitir a la DEPPP vía correo electrónico, las constancias mencionadas en el numeral anterior, así como la manifestación de intención (sic) la o el ciudadano, con sus respectivos anexos, a más tardar al día siguiente de su emisión, a fin que la DEPPP proceda a capturar los datos de la persona aspirante en el Sistema de captación de datos para procesos de participación ciudadana y actores políticos. Asimismo, deberán remitir, vía correo electrónico a la UTF, los documentos referidos en los subincisos I, II y III del inciso b) del artículo anterior.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+7. La UTF verificará que el Registro Federal de Contribuyentes de la asociación civil, proporcionado por la o el ciudadano interesado, se encuentre dado de alta en el Servicio de Administración Tributaria. De no ser así, la UTF requerirá personalmente a la persona aspirante en el domicilio proporcionado, para que manifieste lo que a su derecho convenga, otorgándole un plazo de cuarenta y ocho horas. Si vencido el plazo no se recibe respuesta o la misma no es suficiente para tener por válido el Registro Federal de Contribuyentes, la UTF lo hará del conocimiento de la DEPPP mediante oficio, dentro de las veinticuatro horas siguientes al vencimiento del plazo referido, a efecto que revoque la constancia de aspirante.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+8. La revocación de la constancia le será notificada a la o el ciudadano interesado, mediante escrito signado por el Secretario Ejecutivo, o el titular de la junta local o distrital respectiva, dentro de las cuarenta y ocho horas siguientes a que la DEPPP reciba el oficio de la UTF.
 
 ###### Artículo 290.
 
-1. El procedimiento técnico-jurídico para verificar que se haya reunido el porcentaje de apoyo ciudadano requerido, según el tipo de elección, será el que se establezca en los lineamientos aprobados para tal efecto, en el que se priorizará la utilización de medidas tecnológicas avanzadas al alcance del Instituto; lo anterior, a efecto de dotar de certeza el proceso de verificación.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. En los lineamientos correspondientes se señalarán las instancias, los plazos, el procedimiento para recabar el apoyo ciudadano, la presentación ante la autoridad electoral, el procedimiento que se seguirá para verificar el porcentaje de apoyo presentado, el derecho de audiencia a los aspirantes, así como los criterios para no computar dicho apoyo.
+1. El procedimiento técnico-jurídico para verificar que se haya reunido el porcentaje de apoyo de la ciudadanía requerido, según el tipo de elección, será el que se establezca en los Lineamientos aprobados para tal efecto, en el que se priorizará la utilización de medidas tecnológicas avanzadas al alcance del Instituto; lo anterior, a efecto de dotar de certeza el proceso de verificación.
 
-3. El Secretario Ejecutivo difundirá en la página electrónica del Instituto, a partir del día siguiente al de la publicación de la convocatoria respectiva, la cantidad equivalente a los porcentajes de apoyo ciudadano requeridos legalmente para el tipo de elección que se celebre, por entidad y distrito, así como el número de secciones que comprende cada distrito.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. En los Lineamientos correspondientes se señalarán las instancias, los plazos, el procedimiento para recabar el apoyo de la ciudadanía, la presentación ante la autoridad electoral, el procedimiento que se seguirá para verificar el porcentaje de apoyo presentado, el derecho de audiencia a los aspirantes, así como los criterios para no computar dicho apoyo.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. El Secretario Ejecutivo difundirá en la página electrónica del Instituto, a partir del día siguiente al de la publicación de la convocatoria respectiva, la cantidad equivalente a los porcentajes de apoyo de la ciudadanía requeridos legalmente para el tipo de elección que se celebre, por entidad y Distrito, así como el número de secciones que comprende cada Distrito.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 291.
 
-1. El Secretario Ejecutivo del Instituto difundirá los plazos en que se llevará a cabo el registro de candidaturas independientes, mediante publicación en el Diario Oficial de la Federación, en la página de Internet del Instituto, así como en los estrados de los órganos centrales y desconcentradas (sic) del Instituto.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Los aspirantes deberán solicitar el registro de la fórmula correspondiente, esto es, propietario y suplente.
+1. La o el Secretario Ejecutivo del Instituto difundirá los plazos en que se llevará a cabo el registro de candidaturas independientes, mediante publicación en el Diario Oficial de la Federación, en la página de Internet del Instituto, así como en los estrados de los órganos centrales y desconcentrados del Instituto.
 
-3. El ciudadano que presentó la manifestación de intención, deberá solicitar el registro como candidato propietario.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-4. Las solicitudes de registro que presenten los aspirantes a candidatos independientes, deberán exhibirse por escrito ante el consejo general, locales o distritales correspondientes en los términos y dentro de los plazos previstos en la LGIPE, para lo cual se utilizará el formato contenido en el Anexo 11.6.
+2. Las y los aspirantes deberán solicitar el registro de la fórmula correspondiente, esto es, propietario y suplente.
 
-5. La solicitud, además de precisar los datos y acompañarse de la documentación señalados (sic) en el artículo 383 de la LGIPE, deberá anexar lo siguiente:
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-a) Emblema impreso y en medio digital así como color o colores que distinguen al candidato independiente, con las especificaciones técnicas que se precisen en la convocatoria;
+3. La o el ciudadano que presentó la manifestación de intención, deberá solicitar el registro como candidatura propietaria.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. Las solicitudes de registro que presenten los aspirantes a candidaturas independientes, deberán exhibirse por escrito ante el Consejo General, locales o distritales correspondientes en los términos y dentro de los plazos previstos en la LGIPE, para lo cual se utilizará el formato contenido en el Anexo 11.6.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. La solicitud, además de precisar los datos y acompañarse de la documentación señalados en el artículo 383 de la LGIPE, deberá anexar lo siguiente:
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Emblema impreso y en medio digital así como color o colores que distinguen la candidatura independiente, con las especificaciones técnicas que se precisen en la convocatoria;
 
 b) Constancia de residencia, en su caso, y
 
-c) Copia simple legible del anverso y reverso de la credencial para votar del representante legal y de la persona designada para el manejo de los recursos financieros y la rendición de los informes correspondientes.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+c) Copia simple legible del anverso y reverso de la credencial para votar del o la representante legal y de la persona designada para el manejo de los recursos financieros y la rendición de los informes correspondientes.
 
 ###### Artículo 292.
 
-1. Los aspirantes, al solicitar el registro de su fórmula de candidatos independientes, podrán presentar copia simple legible o certificada, del acta de nacimiento y de la credencial para votar vigente. La credencial para votar hará las veces de constancia de residencia, salvo cuando el domicilio del aspirante, asentado en la solicitud, no corresponda con el asentado en la propia credencial, en cuyo caso se deberá presentar la constancia de residencia expedida por la autoridad competente, misma que deberá precisar el nombre completo del aspirante, el domicilio completo, el tiempo de residencia en el mismo, lugar y fecha de expedición, nombre y cargo de quien la expide.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Los documentos que por su naturaleza deban ser presentados en original, es decir, la solicitud de registro y los señalados en el artículo 383, inciso c), fracciones I, VII y VIII de la LGIPE, deberán contener invariablemente la firma autógrafa del aspirante, salvo en el caso de copias certificadas por Notario o Corredor Público, en las que se indique que aquéllas son reflejo fiel de los originales que tuvo a la vista. De igual forma, los citados documentos no deberán contener ninguna tachadura o enmendadura.
+1. Las y los aspirantes, al solicitar el registro de su fórmula de candidaturas independientes, podrán presentar copia simple legible o certificada, del acta de nacimiento y de la credencial para votar vigente. La credencial para votar hará las veces de constancia de residencia, salvo cuando el domicilio de la o el aspirante, asentado en la solicitud, no corresponda con el asentado en la propia credencial, en cuyo caso se deberá presentar la constancia de residencia expedida por la autoridad competente, misma que deberá precisar el nombre completo de la o el aspirante, el domicilio completo, el tiempo de residencia en el mismo, lugar y fecha de expedición, nombre y cargo de quien la expide.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Los documentos que por su naturaleza deban ser presentados en original, es decir, la solicitud de registro y los señalados en el artículo 383, inciso c), fracciones I, VII y VIII de la LGIPE, deberán contener invariablemente la firma autógrafa de la o el aspirante, salvo en el caso de copias certificadas por Notaría o Correduría Pública, en las que se indique que aquéllas son reflejo fiel de los originales que tuvo a la vista. De igual forma, los citados documentos no deberán contener ninguna tachadura o enmendadura.
 
 ###### Artículo 293.
 
-1. En caso que se identifique que un aspirante a candidato independiente ha sido postulado, a su vez, por un partido político o coalición en el mismo proceso electoral federal, el Secretario Ejecutivo requerirá al aspirante para que informe en un término de veinticuatro horas, la candidatura por la que opta; en caso que el aspirante opte por la candidatura independiente, el Secretario Ejecutivo lo comunicará de inmediato al partido político o coalición que lo había postulado, a fin que se encuentre en oportunidad de sustituir al candidato en cuestión.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Si el aspirante opta por la candidatura de partido político o coalición y se trata del propietario, la solicitud de registro se tendrá por no presentada. Si se tratare del suplente, el Secretario Ejecutivo lo comunicará de inmediato al propietario para que proceda a solicitar el registro de otro suplente, siempre y cuando ello pueda realizarse dentro del plazo de registro establecido en la LGIPE.
+1. En caso que se identifique que una persona aspirante a candidatura independiente ha sido postulada, a su vez, por un partido político o coalición en el mismo Proceso Electoral Federal, la o el Secretario Ejecutivo requerirá a la persona aspirante para que informe en un término de veinticuatro horas, la candidatura por la que opta; en caso que la persona aspirante opte por la candidatura independiente, la o el Secretario Ejecutivo lo comunicará de inmediato al partido político o coalición que la haya postulado, a fin que se encuentre en oportunidad de sustituir a la persona en cuestión.
 
-3. En caso que dentro de las veinticuatro horas otorgadas, el aspirante propietario no presenta una respuesta, se entenderá que opta por la candidatura independiente.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Si la persona aspirante opta por la candidatura de partido político o coalición y se trata de la o el propietario, la solicitud de registro se tendrá por no presentada. Si se tratare de la o el suplente, la o el Secretario Ejecutivo lo comunicará de inmediato a la o el propietario para que proceda a solicitar el registro de otra u otro suplente, siempre y cuando ello pueda realizarse dentro del plazo de registro establecido en la LGIPE.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. En caso que dentro de las veinticuatro horas otorgadas, la persona aspirante propietaria no presente una respuesta, se entenderá que opta por la candidatura independiente.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -4643,7 +5003,9 @@ c) Los certificados de calidad de la resina utilizada en la producción de su pr
 
 ###### Artículo 296.
 
-1. Con el objetivo de dotar a la sociedad mexicana de información cierta, oportuna, completa, plural e imparcial, que permita conocer el tratamiento que se dará a las precampañas y campañas electorales de los precandidatos y candidatos a un cargo de elección popular, y con la finalidad de contribuir al fortalecimiento de un voto informado y razonado, durante las precampañas y campañas de los procesos electorales federales, y, en su caso, de los procesos electorales locales, se realizarán monitoreos de programas de radio y televisión que difundan noticias.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Con el objetivo de dotar a la sociedad mexicana de información cierta, oportuna, completa, plural e imparcial, que permita conocer el tratamiento que se dará a las precampañas y campañas electorales de las precandidaturas y candidaturas a un cargo de elección popular, y con la finalidad de contribuir al fortalecimiento de un voto informado y razonado, durante las precampañas y campañas de los Procesos Electorales Federales, y, en su caso, de los Procesos Electorales Locales, se realizarán monitoreos de programas de radio y televisión que difundan noticias.
 
 2. Es responsabilidad del Instituto, tratándose de procesos electorales federales o de aquellos locales cuya organización le corresponda realizar, y en su caso, de los OPL, cuyas legislaciones electorales así lo dispongan, llevar a cabo el monitoreo de los programas de radio y televisión que difunden noticias en un proceso electoral, acorde a las respectivas atribuciones previstas para cada autoridad en la legislación.
 
@@ -4677,13 +5039,21 @@ e) Para cada una de las actividades citadas en el presente artículo, se podrá 
 
 a) Monitorear los programas de radio y televisión que difundan noticias, de conformidad con el catálogo de programas que difundan noticias aprobado por el Consejo General, o en su caso, el OPL que corresponda.
 
-b) Elaborar reportes semanales respecto de los programas de radio y televisión incluidos en el catálogo de programas que difundan noticias, en cuyo contenido se enuncie a las precampañas y campañas que deban realizarse durante el proceso electoral, especificando en dicho reporte el tiempo destinado y la orientación positiva, negativa o neutra de la mención a cada partido político, así como en su momento a los candidatos independientes. Dicho reporte deberá realizar un análisis cuantitativo y cualitativo.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-c) Incluir en los reportes información desagregada por género, que derive de los indicadores, con la finalidad de contribuir a la identificación de las posibles diferencias que existan sobre el tratamiento otorgado a los candidatos de partido e independientes en los espacios de radio y televisión. El monitoreo y sus respectivos reportes, deberán incluir los programas de espectáculos o revista que difunden noticias, se podrá incluir en los reportes, información sobre el monitoreo de programas de espectáculos o revista, de radio y de televisión con mayor nivel de audiencia en el ámbito territorial respectivo, con la finalidad de conocer el espacio otorgado a los candidatos de partido e independientes de la o las elecciones que se celebren.
+b) Elaborar reportes semanales respecto de los programas de radio y televisión incluidos en el catálogo de programas que difundan noticias, en cuyo contenido se enuncie a las precampañas y campañas que deban realizarse durante el Proceso Electoral, especificando en dicho reporte el tiempo destinado y la orientación positiva, negativa o neutra de la mención a cada partido político, así como en su momento a las candidaturas independientes. Dicho reporte deberá realizar un análisis cuantitativo y cualitativo.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+c) Incluir en los reportes información desagregada por género, que derive de los indicadores, con la finalidad de contribuir a la identificación de las posibles diferencias que existan sobre el tratamiento otorgado a los candidatos de partido e independientes en los espacios de radio y televisión. El monitoreo y sus respectivos reportes, deberán incluir los programas de espectáculos o revista que difunden noticias, se podrá incluir en los reportes, información sobre el monitoreo de programas de espectáculos o revista, de radio y de televisión con mayor nivel de audiencia en el ámbito territorial respectivo, con la finalidad de conocer el espacio otorgado a las candidaturas de partido e independientes de la o las elecciones que se celebren
 
 d) Difundir los resultados del monitoreo de forma oportuna, por lo menos cada quince días, a través de los tiempos destinados a la comunicación social del Instituto, o en su caso, del OPL correspondiente, en la página electrónica de dichas autoridades, así como en los demás medios de difusión que determine el Consejo General.
 
 e) Presentar al menos un informe mensual al Consejo General u Órgano Superior de Dirección del OPL, con los resultados del monitoreo.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+f) Analizar con perspectiva de género las variables a medir en los programas de radio y televisión que difunden noticias.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -4693,7 +5063,9 @@ e) Presentar al menos un informe mensual al Consejo General u Órgano Superior d
 
 ###### Artículo 300.
 
-1. El catálogo de programas de radio y televisión, respecto de los cuales se realizará el monitoreo, deberá conformarse por los programas que difundan noticias con mayor impacto a nivel federal y local, en su caso, en la demarcación territorial donde se celebre el proceso electoral respectivo, pues ello dotará al monitoreo de la efectividad que refleje los principios de equidad y certeza que rigen el actuar de las autoridades electorales.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. El catálogo de programas de radio y televisión, respecto de los cuales se realizará el monitoreo, deberá conformarse por los programas que difundan noticias con mayor impacto a nivel federal y local, en su caso, en la demarcación territorial donde se celebre el Proceso Electoral respectivo, pues ello dotará al monitoreo de la efectividad que refleje los principios de equidad y certeza.
 
 2. Para la conformación del catálogo de programas, en el acuerdo que apruebe el Consejo General y, en su caso, el Órgano Superior de Dirección del OPL que corresponda, acorde a las atribuciones previstas para cada autoridad en las legislaciones respectivas, se podrán considerar las bases siguientes:
 
@@ -4745,7 +5117,9 @@ g) Para seleccionar los noticiarios que cuenten con la misma relevancia polític
 
 ###### Artículo 303.
 
-1. Las disposiciones contenidas en el presente Capítulo, son aplicables para el Instituto, en la organización de debates entre los candidatos a cargos de elección popular.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Las disposiciones contenidas en el presente Capítulo, son aplicables para el Instituto, en la organización de debates entre las candidaturas a cargos de elección popular.
 
 2. Dichas disposiciones podrán servir de base o criterios orientadores para los OPL en la organización de debates que realicen entre candidatos que participen en elecciones locales, siempre y cuando no contravengan lo que, en su caso, se establezca en sus legislaciones estatales.
 
@@ -4753,15 +5127,23 @@ g) Para seleccionar los noticiarios que cuenten con la misma relevancia polític
 
 ###### Artículo 304.
 
-1. Para los efectos del presente Reglamento, por debate se entiende aquellos actos públicos que únicamente se pueden realizar en el período de campaña, en los que participan candidatos a un mismo cargo de elección popular con el objeto de exponer y confrontar entre sí sus propuestas, planteamientos y plataformas electorales, a fin de difundirlos como parte de un ejercicio democrático, bajo un formato previamente establecido y con observancia de los principios de equidad y trato igualitario, sin que afecte la flexibilidad de los formatos.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Los debates tienen por objeto proporcionar a la sociedad la difusión y confrontación de las ideas, programas y plataformas electorales de los candidatos, por lo que, en su celebración, se asegurará el más amplio ejercicio de la libertad de expresión, garantizando condiciones de equidad en el formato, trato igualitario y el concurso de quienes participan en ésta.
+1. Para los efectos del presente Reglamento, por debate se entiende aquellos actos públicos que únicamente se pueden realizar en el período de campaña, en los que participan las candidaturas a un mismo cargo de elección popular con el objeto de exponer y confrontar entre sí sus propuestas, planteamientos y plataformas electorales, a fin de difundirlos como parte de un ejercicio democrático, bajo un formato previamente establecido y con observancia de los principios de equidad y trato igualitario, sin que afecte la flexibilidad de los formatos.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Los debates tienen por objeto proporcionar a la sociedad la difusión y confrontación de las ideas, programas y plataformas electorales de las candidaturas, por lo que, en su celebración, se asegurará el más amplio ejercicio de la libertad de expresión, garantizando condiciones de equidad en el formato, trato igualitario y el concurso de quienes participan en ésta.
 
 3. El Instituto promoverá ante los medios de comunicación, instituciones académicas, sociedad civil, así como ante personas físicas y morales, la organización y celebración de estos ejercicios de información, análisis y contraste de ideas, propuestas y plataformas electorales.
 
-4. El Instituto, y en su caso, el sujeto que organice algún debate, convocará a todos los candidatos que cuentan con registro para contender por el cargo de elección en cuestión.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-5. Los debates deberán contar con la participación de por lo menos dos de los candidatos que cuenten con registro para contender por el cargo de elección en cuestión, garantizando condiciones de equidad en el formato y trato igualitario. La inasistencia de uno o más de los candidatos invitados, no será causa para la no realización de los mismos.
+4. El Instituto, y en su caso, el sujeto que organice algún debate, convocará a todas las candidaturas que cuentan con registro para contender por el cargo de elección en cuestión.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. Los debates deberán contar con la participación de por lo menos dos de las personas candidatas que cuenten con registro para contender por el cargo de elección en cuestión, garantizando condiciones de equidad en el formato y trato igualitario. La inasistencia de una o más de las personas candidatas invitadas, no será causa para la no realización de los mismos.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -4769,15 +5151,21 @@ g) Para seleccionar los noticiarios que cuenten con la misma relevancia polític
 
 1. Las modalidades de los debates son:
 
-a) Debates obligatorios entre los candidatos a la Presidencia de la República;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Debates obligatorios entre candidaturas a la Presidencia de la República;
 
 b) Debates organizados por el Instituto;
 
-c) Debates entre los candidatos a diputados federales y senadores, en los que coadyuve el Instituto;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+c) Debates entre candidaturas a diputaciones federales y senadurías, en los que coadyuve el Instituto;
 
 d) Debates organizados por el OPL en el ámbito de su competencia, y
 
-e) Debates entre los candidatos, no organizados por autoridades administrativas electorales.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+e) Debates entre las candidaturas, no organizados por autoridades administrativas electorales.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -4863,15 +5251,23 @@ b) Sugerir a la Comisión las condiciones materiales para la realización del de
 
 ###### Artículo 310.
 
-1. Según lo convengan los partidos políticos, coaliciones y los candidatos independientes registrados, únicamente en la etapa de campaña de la elección que corresponda, se podrán organizar debates para cualquier cargo de elección popular.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. El Instituto coadyuvará, a través de sus órganos desconcentrados, a la organización de los debates relativos a las contiendas para la elección de senadores y diputados federales, que acuerden los candidatos, partidos o coaliciones, directamente o por conducto de sus representantes.
+1. Según lo convengan los partidos políticos, coaliciones y las candidaturas independientes registrados, únicamente en la etapa de campaña de la elección que corresponda, se podrán organizar debates para cualquier cargo de elección popular.
 
-3. El Instituto coadyuvará a la realización de dichos debates, previa solicitud que por escrito formulen los partidos políticos, las coaliciones, los candidatos independientes registrados a un mismo cargo de elección popular o de sus representantes.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. El Instituto coadyuvará, a través de sus órganos desconcentrados, a la organización de los debates relativos a las contiendas para la elección de senadurías y diputaciones federales, que acuerden las candidaturas, partidos o coaliciones, directamente o por conducto de sus representantes.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. El Instituto coadyuvará a la realización de dichos debates, previa solicitud que por escrito formulen los partidos políticos, las coaliciones, las candidaturas independientes registrados a un mismo cargo de elección popular o de sus representantes.
 
 4. La solicitud deberá presentarse por escrito ante el presidente del consejo local o distrital que corresponda, hasta quince días antes de la fecha propuesta para la celebración del debate, y deberá contener, por lo menos, los elementos siguientes:
 
-a) Nombre de los candidatos y sus representantes;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Nombre de las candidaturas y sus representantes;
 
 b) Formato y tiempos acordados;
 
@@ -4899,19 +5295,23 @@ f) Tipo de intervención que se requiere al Instituto.
 
 #### SECCIÓN QUINTA. Debates en el ámbito local
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 311.
 
-1. En términos de la legislación electoral local respectiva, los OPL organizarán debates entre todos los candidatos a gobernador o jefe de gobierno en el caso de la Ciudad de México, y deberán promover la celebración de debates entre los demás cargos de elección popular a nivel local, para lo cual, las señales radiodifundidas que los OPL generen para este fin, podrán ser utilizadas, en vivo y en forma gratuita, por los demás concesionarios de radio y televisión, así como por otros concesionarios de telecomunicaciones.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Los debates de candidatos a gobernador o jefe de gobierno de la Ciudad de México, deberán ser transmitidos por las estaciones de radio y canales de televisión de las concesionarias locales de uso público, en la entidad federativa correspondiente, pudiendo ser retransmitidos por otros concesionarios de telecomunicaciones y radiodifusión con cobertura en la entidad. El Instituto y los OPL promoverán la transmisión de estos debates por parte de otros concesionarios.
+1. En términos de la Legislación Electoral local respectiva, los OPL organizarán debates entre todas las candidaturas a la Gubernatura o la Jefatura de Gobierno en el caso de la Ciudad de México, y deberán promover la celebración de debates entre los demás cargos de elección popular a nivel local, para lo cual, las señales radiodifundidas que los OPL generen para este fin, podrán ser utilizadas, en vivo y en forma gratuita, por los demás concesionarios de radio y televisión, así como por otros concesionarios de telecomunicaciones.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Los debates de candidaturas a alguna Gubernatura o a la Jefatura de Gobierno de la Ciudad de México, deberán ser transmitidos por las estaciones de radio y canales de televisión de las concesionarias locales de uso público, en la entidad federativa correspondiente, pudiendo ser retransmitidos por otros concesionarios de telecomunicaciones y radiodifusión con cobertura en la entidad. El Instituto y los OPL promoverán la transmisión de estos debates por parte de otros concesionarios.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 312.
 
-1. La celebración de los debates de los candidatos a diputaciones locales, así como a las presidencias municipales o alcaldías de la Ciudad de México, en caso que los OPL obtengan la colaboración de alguna emisora en la entidad para la transmisión de los mismos, deberán ajustarse a las reglas de reprogramación y difusión previstas en el artículo 56, numeral 3 del Reglamento de Radio y Televisión en Materia Electoral.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. La celebración de los debates de las candidaturas a diputaciones locales, así como a las presidencias municipales o alcaldías de la Ciudad de México, en caso que los OPL obtengan la colaboración de alguna emisora en la entidad para la transmisión de los mismos, deberán ajustarse a las reglas de reprogramación y difusión previstas en el artículo 56, numeral 3 del Reglamento de Radio y Televisión en Materia Electoral.
 
 2. El OPL que corresponda, deberá informar a la Deppp, al menos tres días previos a la celebración del debate, la fecha, hora y duración del mismo, así como las emisoras que harán la transmisión correspondiente.
 
@@ -4979,7 +5379,9 @@ f) Tipo de intervención que se requiere al Instituto.
 
 1. El Instituto diseñará, instalará y operará el Sije con el objetivo de informar de manera permanente y oportuna al Consejo General, a los consejos locales y distritales del Instituto y, en caso de elecciones concurrentes, a los OPL que correspondan, sobre el desarrollo de la jornada electoral.
 
-2. Se establecerá una meta en términos porcentuales, del número de casillas con reporte sobre su instalación al SIJE, según corte de información en horario del centro, misma que deberá aprobarse por la Comisión de Organización Electoral, así como el Consejo General, a propuesta de la DEOE, antes del inicio del proceso electoral. En elecciones extraordinarias se podrán realizar ajustes, por parte de la Comisión de Capacitación y Organización Electoral o, en su caso, la Comisión de Organización Electoral, en la meta establecida para la elección ordinaria de la cual derive.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Se establecerá una meta en términos porcentuales, del número de casillas con reporte sobre su instalación al SIJE, según corte de información en horario del centro, misma que deberá aprobarse por la Comisión correspondiente, así como el Consejo General, a propuesta de la DEOE, a más tardar en el mes de marzo del año de la Jornada Electoral. En elecciones extraordinarias se podrán realizar ajustes, por parte de la Comisión de Capacitación y Organización Electoral o, en su caso, la Comisión de Organización Electoral, en la meta establecida para la elección ordinaria de la cual derive.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5011,7 +5413,9 @@ I. Responsable de la implementación del sistema de seguimiento;
 
 II. Información que se recopilará, transmitirá y capturará;
 
-III. Meta;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+III. Participación, en su caso, del personal del OPL;
 
 IV. Catálogo de incidentes;
 
@@ -5033,7 +5437,7 @@ IX. Definición y funcionamiento de la herramienta informática.
 
 1. La Deoe será el área responsable de coordinar, planear y ejecutar el Sije conforme al programa de operación que se elabore. La Unicom brindará apoyo a la Deoe para el oportuno desarrollo técnico, implementación, capacitación, pruebas y funcionamiento de la herramienta informática que se implemente, así como de los simulacros que se determinen.
 
-2. El día de la jornada electoral, la Deoe, en coordinación con la Unicom y la Coordinación Nacional de Comunicación Social del Instituto, difundirán la información contenida en el Sije.
+2. (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
 3. Las vocalías ejecutivas y de organización electoral de las juntas locales y distritales ejecutivas del Instituto, serán responsables de la implementación del Sije en sus respectivos ámbitos de competencia.
 
@@ -5267,7 +5671,9 @@ e) Podrán acompañar y vigilar, por sus propios medios, el recorrido del mecani
 
 2. Tratándose de elecciones extraordinarias, el Consejo General o el Órgano Superior de Dirección del OPL que corresponda, podrán realizar ajustes en procedimientos y plazos para, en su caso, llevar a cabo el PREP. El OPL deberá informar cualquier determinación al Instituto.
 
-3. El Consejo General o el Órgano Superior de Dirección del OPL según corresponda, en el caso de elecciones extraordinarias, determinará la creación o no del COTAPREP y, la realización o no de auditorías, para lo cual se deberán tomar en consideración el número de actas a procesar, la complejidad de las condiciones en las que se desarrollará la elección, la suficiencia presupuestaria, entre otras. Cualquier determinación al respecto, deberá estar debidamente justificada y, tratándose de elecciones locales, deberá someterse a consideración de la Comisión competente del Instituto para que determine la procedencia de la decisión. Esta disposición no será aplicable en las elecciones de Presidente de la República, gobernadores de los estados y Jefe de Gobierno de la Ciudad de México.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. El Consejo General o el Órgano Superior de Dirección del OPL según corresponda, en el caso de elecciones extraordinarias, determinará la integración o no del COTAPREP y, la realización o no de auditorías, para lo cual se deberán tomar en consideración el número de actas a procesar, la complejidad de las condiciones en las que se desarrollará la elección, la suficiencia presupuestaria, entre otras. Cualquier determinación al respecto, deberá estar debidamente justificada y, tratándose de elecciones locales, deberá someterse a consideración de la Comisión competente del Instituto para que determine la procedencia de la decisión. Esta disposición no será aplicable en las elecciones de Presidencia de la República, Gubernaturas de los estados y Jefatura de Gobierno de la Ciudad de México.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5275,33 +5681,53 @@ e) Podrán acompañar y vigilar, por sus propios medios, el recorrido del mecani
 
 1. El resultado de la votación emitida en el extranjero será incluido en el Prep conforme a la normativa aplicable en el ámbito federal, y en el ámbito local, en aquellos casos en que la Constitución de la entidad federativa lo contemple.
 
-2. Para la inclusión de los resultados de la votación emitida por los mexicanos residentes en el extranjero en el Programa de Resultados Electorales Preliminares, se estará al procedimiento determinado por el Consejo General, con base en la modalidad de voto que se trate.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Para la inclusión de los resultados de la votación emitida por los mexicanos residentes en el extranjero en el Programa de Resultados Electorales Preliminares, se estará al procedimiento determinado por el Consejo General, con base en la modalidad de emisión del voto de que se trate.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 338.
 
-1. El Instituto y los OPL, en el ámbito de sus atribuciones legales, son responsables directos de coordinar la implementación y operación del Prep.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Con base en sus atribuciones legales y en función al tipo de elección que se trate, la implementación y operación del PREP será responsabilidad:
+1. El Consejo General y los Órganos Superiores de Dirección de los OPL, en el ámbito de sus respectivas competencias, serán responsables directos de la supervisión a la implementación y operación del PREP.
+
+2.Con base en sus atribuciones legales y en función al tipo de elección que se trate, la implementación y operación del PREP será responsabilidad:
 
 a) Del Instituto, cuando se trate de:
 
-I. Elección de Presidente de la República;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
 
-II. Elección de senadores;
+I. Elección de Presidencia de la República;
 
-III. Elección de diputados federales;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+II. Elección de senadurías;
+
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+III. Elección de diputaciones federales;
 
 IV. Consulta popular, y
 
-V. Otras elecciones que por mandato de autoridad o por asunción, corresponda al Instituto llevar a cabo.
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+V. Otras elecciones que por mandato de autoridad corresponda al Instituto llevar a cabo, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+VI. Asunción de un Proceso Electoral Local o asunción del PREP.
 
 b) De los OPL, cuando se trate de:
 
-I. Elección de Gobernador o Jefe de Gobierno de la Ciudad de México;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-II. Elección de diputados de los congresos locales o de la Legislatura de la Ciudad de México;
+I. Elección de Gubernatura o Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+II. Elección de diputaciones de los congresos locales o de la Legislatura de la Ciudad de México;
 
 III. Elección de integrantes de los ayuntamientos o alcaldías de la Ciudad de México; y
 
@@ -5309,11 +5735,21 @@ IV. Otras elecciones que por disposición legal o por mandato de autoridad, corr
 
 3. El Instituto y los OPL, en el ámbito de sus competencias, deberán acordar la designación o ratificación de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP, por lo menos nueve meses antes al día de la jornada electoral.
 
-4. Para la implementación y operación del PREP, el Instituto y los OPL, según corresponda, podrán auxiliarse de terceros conforme a su capacidad técnica y financiera, y siempre que los terceros se ajusten a la normatividad aplicable y cumplan con los objetivos del PREP. La vigilancia del cumplimiento de lo anterior estará a cargo del Instituto o los OPL; el Instituto será el encargado de vigilar el cumplimiento de las disposiciones que rigen al PREP, por parte del tercero, tratándose de elecciones federales, consultas populares federales y aquellas elecciones que corresponda al Instituto llevar a cabo. Lo mismo corresponderá a los OPL tratándose de elecciones locales y ejercicios de participación ciudadana locales.
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
 
-5. En los contratos celebrados con terceros para la implementación y operación del PREP, no podrán establecerse condiciones en las que éstos, de manera directa o indirecta, contravengan lo dispuesto en el presente Reglamento, obstaculicen la supervisión del Instituto o de los OPL, o impidan la debida instrumentación del programa; adicionalmente, deben incluirse, en el alcance de la contratación, todos los requisitos técnicos y condiciones que se establecen en el presente Reglamento, siempre que guarden relación con los servicios contratados. El OPL deberá informar al Instituto sobre el cumplimiento de estas disposiciones.
+4. La instancia interna deberá elaborar un plan de trabajo para la implementación del PREP, que contemple los requisitos mínimos establecidos por el Instituto, el cual deberá, preferentemente, ser revisado previamente por el COTAPREP.
 
-6. Para lo anterior, el Instituto o el OPL, en el ámbito de su competencia, deberá elaborar el anexo técnico que forme parte del convenio, contrato o instrumento jurídico. En él se establecerá el alcance de la participación del tercero que deberá incluir como mínimo los requisitos establecidos por el Instituto.
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. Para la implementación y operación del PREP, el Instituto y los OPL, según corresponda, podrán auxiliarse de terceros conforme a su capacidad técnica y financiera, siempre que los terceros se ajusten a la normatividad aplicable y cumplan con los objetivos del PREP. La vigilancia del cumplimiento de lo anterior estará a cargo del Instituto o los OPL, a través de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP; el Instituto será el encargado de vigilar el cumplimiento de las disposiciones que rigen al PREP, por parte del tercero, tratándose de elecciones federales, consultas populares federales y aquellas elecciones que corresponda al Instituto llevar a cabo. Lo mismo corresponderá a los OPL tratándose de elecciones locales y ejercicios de participación ciudadana locales.
+
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+6. En los instrumentos jurídicos celebrados con terceros para la implementación y operación del PREP, no podrán establecerse condiciones en las que éstos, de manera directa o indirecta, contravengan lo dispuesto en el presente Reglamento y demás disposiciones establecidas por el Instituto, obstaculicen la supervisión del Instituto o de los OPL, interfieran en la realización de la auditoría, o impidan la debida instrumentación del programa; adicionalmente, deben incluirse, en el alcance de la contratación, todos los requisitos técnicos y condiciones que se establecen en el presente Reglamento, siempre que guarden relación con los servicios contratados y los requisitos establecidos por el Instituto. El OPL deberá informar al Instituto sobre el cumplimiento de estas disposiciones.
+
+> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+7. Para lo anterior, el Instituto o el OPL, en el ámbito de su competencia, deberá elaborar el anexo técnico que forme parte del instrumento jurídico. En dicho anexo técnico se establecerá el alcance de la participación del tercero que deberá incluir como mínimo los requisitos establecidos por el Instituto.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5327,21 +5763,31 @@ IV. Otras elecciones que por disposición legal o por mandato de autoridad, corr
 
 a) Designación o ratificación de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP, cuando menos nueve meses antes del día de la jornada electoral.
 
-b) La integración del COTAPREP al menos siete meses antes del día de la jornada electoral, en el que se determinen, por lo menos, los siguientes aspectos: la vigencia del Comité, los miembros que lo integran y su Secretario Técnico, una síntesis curricular que demuestre su experiencia, las funciones, atribuciones y cualquier otro supuesto que el presente Reglamento norme al respecto.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-c) El proceso técnico operativo que deberá contemplar, el rango mínimo y máximo de CATD y, en su caso de CCV, que podrán instalarse y, al menos, las fases de acopio y digitalización de las actas de escrutinio y cómputo destinadas para el PREP; la captura y verificación de datos; la publicación de datos e imágenes y el empaquetado de las actas destinadas para el PREP, así como, la operación del mecanismo para digitalizar actas desde las casillas.
+b) La integración del COTAPREP, al menos siete meses antes del día de la Jornada Electoral, en el que se determinen, por lo menos, los siguientes aspectos: la vigencia del Comité, las personas que lo integran y su Secretario Técnico, una síntesis curricular que demuestre su experiencia, las funciones, atribuciones y cualquier otro supuesto que el presente Reglamento norme al respecto.
 
-d) Las sedes en donde se instalarán los CATD, y en su caso los CCV, así como la instrucción para la instalación y habilitación de los mismos, previendo mecanismos de contingencia para su ubicación, instalación, habilitación y operación en los supuestos de caso fortuito o fuerza mayor.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+c) El proceso técnico operativo, al menos cinco meses antes del día de la Jornada Electoral, que deberá contemplar, el rango mínimo y máximo de CATD y, en su caso de CCV, que podrán instalarse y, al menos, las fases de acopio y digitalización de las actas de escrutinio y cómputo destinadas para el PREP; la captura y verificación de datos; la publicación de datos e imágenes y el empaquetado de las actas destinadas para el PREP, la operación del mecanismo para digitalizar actas desde las casillas, así como determinar las instancias responsables de la toma de decisiones en los casos no previstos.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+d) Las sedes en donde se instalarán los CATD, y en su caso los CCV, así como la instrucción para la instalación y habilitación de los mismos, al menos cuatro meses antes del día de la Jornada Electoral, previendo mecanismos de contingencia para su ubicación, instalación, habilitación y operación, en los supuestos de caso fortuito o fuerza mayor.
 
 e) Instruir a los consejos locales, distritales o municipales, según corresponda, para que supervisen las actividades relacionadas con la implementación y operación del PREP en los CATD y, en su caso, en los CCV.
 
-f) La fecha en que se ejecutarán, al menos, tres simulacros del Prep.
+f) (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
 g) Fecha y hora de inicio de la publicación de los datos, imágenes y bases de datos de los resultados electorales preliminares.
 
-h) El número de actualizaciones por hora de los datos; el número mínimo deberá ser de tres por hora.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-i) El número de actualizaciones por hora de las bases de datos que contengan los resultados electorales preliminares; el número mínimo deberá ser de tres por hora.
+h) El número de actualizaciones por hora de las bases de datos que contengan los resultados electorales preliminares; el número mínimo deberá ser de tres por hora, incluso cuando la publicación de datos se realice en tiempo real.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+i) El número de actualizaciones por hora de los datos; el número mínimo deberá ser de tres por hora.
 
 j) Fecha y hora de publicación de la última actualización de datos, imágenes y bases de datos de los resultados electorales preliminares.
 
@@ -5353,45 +5799,75 @@ j) Fecha y hora de publicación de la última actualización de datos, imágenes
 
 #### SECCIÓN TERCERA. Comité Técnico Asesor del REP (OTAprep)
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 340.
 
-1. El Instituto y cada OPL deberán integrar, en el ámbito de su competencia, a más tardar siete meses antes de la fecha de la jornada electoral respectiva, un Comité Técnico Asesor que brinde asesoría técnica en materia del PREP, cuyos miembros serán designados por el Consejo General o el Órgano Superior de Dirección, según corresponda. En aquellos casos en los que el Instituto sea el responsable de implementar dos o más PREP, podrá integrar un solo COTAPREP.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. El COTAPREP que sea integrado por el OPL se conformará por un mínimo de tres y un máximo de cinco miembros; el que integre el Instituto estará conformado con un mínimo de tres y un máximo de siete miembros, y en ambos casos, serán auxiliados por el titular de la instancia interna responsable de coordinar la implementación y operación del PREP, quien fungirá como su secretario técnico.
+1. El Instituto y cada OPL deberán integrar, en el ámbito de su competencia, a más tardar siete meses antes de la fecha de la Jornada Electoral respectiva, un Comité Técnico Asesor que brinde asesoría técnica en materia del PREP, cuyos integrantes serán designados por el Consejo General o el Órgano Superior de Dirección, según corresponda. En aquellos casos en los que el Instituto sea el responsable de implementar dos o más PREP, podrá integrar un solo COTAPREP.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. El COTAPREP que sea integrado por el OPL se conformará por un mínimo de tres y un máximo de cinco integrantes; el que integre el Instituto estará conformado con un mínimo de tres y un máximo de siete personas, y en ambos casos, serán auxiliados por el titular de la instancia interna responsable de coordinar la implementación y operación del PREP, quien fungirá como Secretaría Técnica.
 
 ###### Artículo 341.
 
-1. Para ser integrante del COTAPREP, los aspirantes deberán cumplir, como mínimo, los requisitos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-a) Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+1. Para ser integrante del COTAPREP, las personas aspirantes deberán cumplir, como mínimo, los requisitos siguientes:
 
-b) Contar con título y/o cédula profesional, y con al menos cinco años de experiencia en materias como estadística, tecnologías de la información y comunicaciones, investigación de operaciones o ciencia política, preferentemente con conocimientos en materia electoral;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Tener la ciudadanía mexicana y tener el pleno ejercicio de sus derechos civiles y políticos;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+b) Contar con título y/o cédula profesional, y con al menos cinco años de experiencia en materias como: estadística y/o ciencia de datos; tecnologías de la información y comunicaciones; investigación de operaciones o ciencia política, preferentemente con conocimientos en materia electoral;
+
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 c) No haber sido candidato a cargo de elección popular en los últimos tres años;
 
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+
 d) No desempeñar o haber desempeñado cargo de elección popular durante los tres años anteriores a su designación;
 
-e) No haber sido designado consejero electoral del Consejo General o de Órgano Superior de Dirección, según corresponda, durante el proceso electoral en el que pretenda actuar;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+e) No haber sido designada consejera o consejero electoral del Consejo General o del Órgano Superior de Dirección del OPL, según corresponda, durante el Proceso Electoral en el que pretenda actuar;
+
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 f) No haberse desempeñado como miembro de dirigencias nacionales, estatales o municipales de partido político alguno en los últimos tres años;
 
-g) Su participación no debe implicar un conflicto de interés con los involucrados en la implementación y operación del PREP o cualquier actividad relacionada; en caso de presentarse, debe hacerlo de conocimiento del Instituto u OPL, según corresponda. En esta situación, el Consejo General del Instituto o el Órgano de Dirección Superior del OPL, según corresponda, será el órgano competente para determinar si existe un conflicto de interés que constituya es (sic) un impedimento para que ser (sic) miembro del COTAPREP.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+g) Su participación no debe implicar un conflicto de interés con los involucrados en la implementación y operación del PREP; en caso de presentarse, debe hacerlo del conocimiento del Instituto u OPL según corresponda. En esta situación, el Consejo General del Instituto o el Órgano de Dirección Superior del OPL, según corresponda, será el órgano competente para determinar si existe un conflicto de interés que constituya un impedimento para ser integrante del COTAPREP;
+
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 h) No prestar sus servicios profesionales o formar parte del ente designado como auditor.
 
-i) No prestar sus servicios profesionales o formar parte del tercero encargado de la implementación del PREP, en aquellos casos en los que el Instituto o los OPL, determinen auxiliarse de un tercero para la implementación y operación del PREP.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+i) No prestar sus servicios profesionales o formar parte del tercero encargado de la implementación del PREP, en aquellos casos en los que el Instituto o los OPL, determinen auxiliarse de un tercero para la implementación y operación del PREP y;
+
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 j) No formar parte de algún otro comité o comisión creados por el Instituto o el OPL, según corresponda.
 
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+
 2. La instancia interna responsable de coordinar el desarrollo de las actividades del PREP será la encargada de validar el cumplimiento de los requisitos de los integrantes del COTAPREP.
+
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 3. En la integración del COTAPREP se procurará la renovación parcial del mismo.
 
-4. Cada COTAPREP deberá contar con integrantes que, en conjunto, cuenten con experiencia en estadística, tecnologías de la información y comunicaciones, investigación de operaciones y ciencia política.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+4. Cada COTAPREP deberá contar con integrantes que, en conjunto, cuenten con experiencia en estadística y/o ciencia de datos, tecnologías de la información y comunicaciones, investigación de operaciones y ciencia política.
+
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 5. En la integración de los COTAPREP se deberá considerar pluralidad, eficacia y profesionalismo, así como garantizar el cumplimiento de las funciones y atribuciones que se establecen en el presente Reglamento.
 
@@ -5403,7 +5879,9 @@ j) No formar parte de algún otro comité o comisión creados por el Instituto o
 
 a) Realizar análisis, estudios y propuestas, en el desarrollo y optimización del Prep, con la finalidad que éste cumpla con los objetivos y metas planteadas;
 
-b) Asesorar los trabajos propios del Prep en materia de tecnologías de la información y comunicaciones, investigación de operaciones, análisis estadístico y ciencia política, así como en aspectos logístico operativos;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+b) Asesorar los trabajos propios del PREP en materia de tecnologías de la información y comunicaciones, investigación de operaciones, ciencia política, análisis estadístico y/o ciencia de datos, así como en aspectos logísticos y operativos;
 
 c) Asesorar y dar seguimiento a la implementación y operación de los mecanismos para llevar a cabo el Prep;
 
@@ -5411,11 +5889,15 @@ d) Dar seguimiento a la coordinación y supervisión de la instalación y operac
 
 e) Asesorar y dar seguimiento en el diseño y aplicación del sistema de digitalización, captura y verificación, del procedimiento de transmisión y recepción, así como de las medidas de seguridad y protección, consolidación, procesamiento y publicación de la información;
 
-f) Revisar y emitir recomendaciones sobre la forma en que será presentada la información del Prep en las diferentes pantallas de publicación;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+f) Revisar y emitir recomendaciones sobre la forma en que será presentada la información del PREP en las diferentes pantallas de publicación, verificando el apego a las plantillas base de la interfaz establecidas por el Instituto;
 
 g) Realizar al menos una sesión ordinaria mensual;
 
-h) Realizar reuniones de trabajo con representantes de los partidos políticos y, en su caso, de los candidatos independientes ante el Consejo General o el Órgano Superior de Dirección del OPL que corresponda, para dar a conocer el plan de trabajo, avances y seguimiento de la implementación y operación del Prep;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+h) Realizar reuniones de trabajo con representantes de los partidos políticos y, en su caso, de las candidaturas independientes ante el Consejo General o el Órgano Superior de Dirección del OPL que corresponda, para dar a conocer el plan de trabajo, avances y seguimiento de la implementación y operación del PREP;
 
 i) Elaborar un informe de actividades, al menos cada dos meses, que deberá ser entregado al Consejo General o al Órgano Superior de Dirección que corresponda;
 
@@ -5423,51 +5905,77 @@ j) Presenciar la ejecución de todos los simulacros del PREP, debiendo asistir a
 
 k) Elaborar un informe final de las actividades desempeñadas durante la vigencia del COTAPREP, que deberá ser entregado al Consejo General o al Órgano Superior de Dirección que corresponda, dentro del mes del día de la jornada electoral, y
 
-l) Las demás que sean necesarias para el cumplimiento de sus atribuciones, siempre y cuando se encuentren apegadas a lo que dispone la LGIPE, este Reglamento y su Anexo 13, y demás normatividad aplicable.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Adicionalmente, el COTAPREP que sea integrado por el Instituto tendrá la función de brindar asesoría y apoyar a éste en sus funciones de seguimiento y asesoría en materia de implementación y operación del PREP en elecciones locales, para lo cual podrán contar con personal de apoyo y, en su caso, el Instituto deberá prever los recursos necesarios.
+l) Las demás que sean necesarias para el cumplimiento de sus atribuciones, siempre y cuando se encuentren apegadas a lo que dispone la LGIPE, este Reglamento, sus Anexos 13 y 18.5 y demás normatividad aplicable.
 
-3. En las reuniones que lleve a cabo el comité, los representantes de los partidos políticos y, en su caso, de los candidatos independientes ante el Consejo General o el Órgano Superior de Dirección del OPL, según el caso, podrán dar a conocer sus observaciones, comentarios y sugerencias respecto a los temas que se aborden en cada reunión. El comité deberá analizar lo hecho valer por los representantes para que, en las reuniones subsecuentes, se presente el seguimiento que se hubiere dado.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. Adicionalmente, el COTAPREP que, en su caso sea integrado por el Instituto, tendrá la función de brindar asesoría y apoyar a éste en sus funciones de seguimiento y asesoría en materia de implementación y operación del PREP en elecciones locales, para lo cual podrán contar con personal de apoyo y, en su caso, el Instituto deberá prever los recursos necesarios.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. En las reuniones que lleve a cabo el comité, las representaciones de los partidos políticos y, en su caso, de las candidaturas independientes ante el Consejo General o el Órgano Superior de Dirección del OPL, según el caso, podrán dar a conocer sus observaciones, comentarios y sugerencias respecto a los temas que se aborden en cada reunión. El comité deberá analizar lo hecho valer por las representaciones para que, en las reuniones subsecuentes, se presente el seguimiento que se hubiere dado.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 343.
 
-1. En las sesiones de los Cotaprep, serán atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-a) De los miembros:
+1. En las sesiones y reuniones de trabajo de los COTAPREP, serán atribuciones:
 
-I. Asistir y participar con su opinión en las sesiones;
+> <small>(REFORMADO N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
 
-II. Solicitar al Secretario Técnico la inclusión de asuntos en el orden del día;
+a) De los integrantes:
 
-III. Apoyar al Secretario Técnico en el desarrollo y desahogo de los asuntos del orden del día;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+I. Asistir y participar con su opinión;
+
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+II. Solicitar a la Secretaría Técnica la inclusión de asuntos en el orden del día;
+
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+III. Apoyar a la Secretaría Técnica en el desarrollo y desahogo de los asuntos del orden del día;
 
 IV. Emitir observaciones y propuestas inherentes a la discusión y desahogo de los asuntos del orden del día;
 
 V. Emitir su voto, y
 
-VI. Solicitar al Secretario Técnico someter a consideración una sesión extraordinaria.
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
 
-b) Del Secretario Técnico:
+VI. Solicitar a la Secretaría Técnica someter a consideración la realización de alguna sesión extraordinaria.
+
+> <small>(REFORMADO [ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+b) De la Secretaría Técnica:
 
 I. Moderar el desarrollo de las sesiones;
 
 II. Asistir con derecho a voz a las sesiones;
 
-III. Preparar el orden del día y la documentación de las sesiones y someterlo a consideración de los miembros del Comité;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+
+III. Preparar el orden del día y la documentación de las sesiones y someterlo a consideración de los integrantes del Comité;
 
 IV. Convocar a las sesiones; y
 
-V. Fungir como enlace del Comité ante el Secretario Ejecutivo o su homólogo en los OPL.
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+V. Fungir como enlace del Comité ante la Secretaría Ejecutiva o su homólogo en los OPL.
 
 ###### Artículo 344.
 
-1. Los COTAPREP deberán realizar una sesión de instalación, la cual se llevará a cabo dentro de los primeros cinco días siguientes a su entrada en funciones o aprobación del acuerdo por el que se determina su integración. En dicha sesión se aprobará el plan de trabajo y el calendario para las sesiones ordinarias.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. A las sesiones del Cotaprep podrán acudir, en calidad de invitados con derecho a voz, los miembros del Consejo General o del Órgano Superior de Dirección que corresponda, o quien los represente; los funcionarios de la autoridad administrativa electoral correspondiente y, en su caso, especialistas cuyos conocimientos y experiencia aporten elementos relevantes a los trabajos propios de los comités.
+1. Los COTAPREP deberán realizar una sesión de instalación, la cual se llevará a cabo dentro de los primeros cinco días siguientes a su entrada en funciones o aprobación del acuerdo por el que se determina su integración. En la primera reunión formal de trabajo del COTAPREP se deberá de aprobar el plan de trabajo y el calendario para las sesiones ordinarias y reuniones de trabajo con las representaciones de los partidos políticos y, en su caso, de las candidaturas independientes ante el Consejo General o el Órgano Superior de Dirección del OPL, según el caso.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. A las sesiones del COTAPREP podrán acudir, en calidad de invitados con derecho a voz, las y los Consejeros Electorales, o quien los represente; así como los funcionarios de la autoridad administrativa electoral correspondiente y, en su caso, especialistas cuyos conocimientos y experiencia aporten elementos relevantes a los trabajos propios de los comités.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5481,7 +5989,9 @@ a) Presentar un informe de los avances del Prep, y
 
 b) Dar a conocer los avances y seguimiento de los simulacros y la operación del Prep, cuando correspondan.
 
-3. Las sesiones extraordinarias serán aquellas convocadas por los Cotaprep, cuando lo estimen necesario sus integrantes o a petición del Secretario Técnico, sin estar previamente calendarizadas.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. Las sesiones extraordinarias serán aquellas convocadas por los COTAPREP, cuando lo estimen necesario sus integrantes o a petición de la Secretaría Técnica, sin estar previamente calendarizadas.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5491,7 +6001,9 @@ b) Dar a conocer los avances y seguimiento de los simulacros y la operación del
 
 ###### Artículo 346.
 
-1. El Instituto y los OPL, en el ámbito de su competencia, deberán implementar un sistema informático para la operación del Prep. El sistema, ya sea propio o desarrollado por terceros, será independiente y responsabilidad de cada una de dichas autoridades; además, deberá cumplir las etapas mínimas señaladas en el Anexo 13 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. El Instituto y los OPL, en el ámbito de su competencia, deberán implementar un sistema informático para la operación del PREP. El sistema, ya sea propio o desarrollado por terceros, será independiente y responsabilidad de cada una de dichas autoridades; además, deberá contemplar las etapas mínimas del proceso técnico operativo, señaladas en el Anexo 13 de este Reglamento.
 
 2. El Instituto y los OPL deberán establecer un procedimiento de control de cambios del código fuente y de las configuraciones del sistema informático con objeto de llevar un registro de las modificaciones al sistema y de sus correspondientes versiones.
 
@@ -5499,7 +6011,9 @@ b) Dar a conocer los avances y seguimiento de los simulacros y la operación del
 
 ###### Artículo 347.
 
-1. El Instituto y los OPL deberán someter su sistema informático a una auditoría de verificación y análisis, para lo cual se deberá designar un ente auditor. El alcance de la auditoría deberá cubrir, como mínimo, los puntos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. El Instituto y los OPL deberán someter su sistema informático a una auditoría técnica para lo cual se deberá designar un ente auditor. El alcance de la auditoría deberá cubrir, como mínimo, los puntos siguientes:
 
 a) Pruebas funcionales de caja negra al sistema informático para evaluar la integridad en el procesamiento de la información y la generación de resultados preliminares.
 
@@ -5509,9 +6023,17 @@ b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración 
 
 3. La instancia interna responsable de coordinar el desarrollo de las actividades del PREP será la encargada de validar el cumplimiento de la experiencia del ente auditor.
 
-4. El ente auditor deberá presentar, previo a su designación, una propuesta técnico económica que incluya el cronograma de las actividades a realizar y que cumpla con el anexo técnico que para tal efecto se establezca, el cual a su vez deberá considerar los requisitos mínimos establecidos por el Instituto.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-5. El Instituto será el encargado de vigilar el cumplimiento por parte del ente auditor, de las disposiciones que rigen al PREP, tratándose de elecciones federales, consultas populares federales y aquellas elecciones que corresponda al Instituto llevar a cabo. Lo mismo corresponderá a los OPL tratándose de elecciones locales y ejercicios de participación ciudadana locales.
+4. El ente auditor deberá presentar, previo a su designación, una propuesta técnico-económica que incluya el cronograma de las actividades a realizar y que cumpla con el anexo técnico que para tal efecto se establezca, el cual a su vez deberá considerar los requisitos mínimos establecidos por el Instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. Posterior a su designación, el ente auditor deberá entregar al Instituto o al OPL, según corresponda, la aceptación formal de su designación.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+6. El Instituto, a través de la instancia interna, será el encargado de vigilar el cumplimiento por parte del ente auditor, de las disposiciones que rigen al PREP, tratándose de elecciones federales, consultas populares federales y aquellas elecciones o PREP que corresponda al Instituto llevar a cabo. Lo mismo corresponderá a los OPL, a través de la instancia interna, tratándose de elecciones locales y ejercicios de participación ciudadana locales.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5533,9 +6055,13 @@ b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración 
 
 1. El Instituto y los OPL, conforme a sus respectivas competencias, deberán realizar ejercicios y simulacros obligatorios para verificar que cada una de las fases de la operación del Prep funcione adecuadamente, y prever riesgos o contingencias posibles durante el desarrollo de las mismas.
 
-2. Los ejercicios tendrán como objetivo que el personal o los prestadores de servicios del Prep lleve a cabo la repetición de las actividades necesarias para la operación del programa, a fin de adiestrarse en su ejecución.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-3. El objeto de los simulacros es replicar, en su totalidad, la operación del PREP, desarrollando cada una de las fases del proceso técnico operativo en el orden establecido. Se deberán realizar como mínimo, tres simulacros durante los tres domingos previos al de la jornada electoral.
+2. Los ejercicios tendrán como objetivo que el personal o los prestadores de servicios del PREP lleven a cabo la repetición de las actividades necesarias para la operación del programa, a fin de adiestrarse en su ejecución.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. El objeto de los simulacros es replicar la operación del PREP, desarrollando cada una de las fases del proceso técnico operativo en el orden establecido. Se deberán realizar como mínimo, tres simulacros durante los tres domingos previos al de la Jornada Electoral.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5547,9 +6073,13 @@ b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración 
 
 1. Los CATD son los centros oficiales en los cuales se lleva a cabo el acopio de las actas de escrutinio y cómputo destinadas para el PREP. Constituyen las unidades básicas de la operación del PREP, en las cuales, además se pueden realizar actividades de digitalización, captura, verificación y transmisión de datos e imágenes, conforme se establezca en el proceso técnico operativo.
 
-2. Los CCV son los centros en los que se realizan actividades de captura y verificación de datos, los cuales se podrán ubicar preferentemente, en alguna sede del Instituto o de los OPL, según corresponda, o bien en cualquier otra sede. Los CCV se pueden instalar adicionalmente a los CATD pues, en su caso, fungen como apoyo en las labores de captura y verificación de datos. Para determinar su instalación se deberán tomar en consideración a las capacidades técnicas, materiales y humanas con que cuente el Instituto o los OPL, según corresponda.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-3. El Instituto y los OPL, en el ámbito de su competencia, deberán determinar la ubicación de los CATD y, en su caso de los CCV, así como adoptar las medidas correspondientes para adecuar los espacios físicos de las instalaciones. Los criterios para su ubicación se encuentran previstos en el Anexo 13 de este Reglamento.
+2. Los CCV son los centros en los que se realizan actividades de captura y verificación de datos, los cuales se podrán ubicar preferentemente, en alguna sede del Instituto o de los OPL, según corresponda, o bien en cualquier otra sede dentro del territorio de la demarcación correspondiente. Los CCV se pueden instalar adicionalmente a los CATD pues, en su caso, fungen como apoyo en las labores de captura y verificación de datos. Para determinar su instalación se deberán tomar en consideración las capacidades técnicas, materiales y humanas con que cuente el Instituto o los OPL, según corresponda.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. El Instituto y los OPL, en el ámbito de su competencia, deberán acordar la ubicación de los CATD y, en su caso de los CCV, así como adoptar las medidas correspondientes para adecuar los espacios físicos de las instalaciones. Los criterios para su ubicación se encuentran previstos en el Anexo 13 de este Reglamento.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5561,9 +6091,13 @@ b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración 
 
 1. El Instituto y los OPL, en el ámbito de sus competencias, deberán establecer procesos de reclutamiento y selección de los recursos humanos necesarios para implementar y operar el Prep, y proporcionarán capacitación a todo el personal o prestadores de servicios involucrados en el proceso técnico operativo.
 
-2. Las personas interesadas en desempeñar las actividades establecidas en el proceso técnico operativo para la implementación y operación del Prep, deberán cumplir al menos, los requisitos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
 
-a) Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+2. Las personas interesadas en desempeñar las actividades establecidas en el proceso técnico operativo para la implementación y operación del PREP, deberán cumplir al menos, los requisitos siguientes:
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Tener la ciudadanía mexicana y tener el pleno ejercicio de sus derechos civiles y políticos;
 
 b) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar vigente;
 
@@ -5573,7 +6107,9 @@ d) No ser ni haber sido miembro de dirigencias nacionales, estatales o municipal
 
 e) No ser consejero propietario o suplente, de algún consejo electoral local, distrital, estatal o municipal.
 
-3. Los roles que deben considerarse estarán determinados en función del proceso técnico operativo, con el objeto que se ejecute de forma ágil y constante, garantizando la publicación de resultados preliminares a la brevedad. Los roles para la ejecución del proceso técnico operativo se precisan en el Anexo 13 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. Los roles que deben considerarse estarán determinados en función del proceso técnico operativo, con el objeto de que se ejecute de forma ágil y constante, garantizando la publicación de resultados preliminares a la brevedad. Los roles para la ejecución del proceso técnico operativo se precisan en el Anexo 13 de este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5589,9 +6125,17 @@ c) prep;
 
 d) CATD, en su caso CCV, y proceso técnico operativo;
 
-e) Seguridad de la información, en el ámbito de competencia que corresponda, y
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
 
-f) Manejo del sistema informático, en el ámbito de competencia que corresponda.
+e) Operación del mecanismo, procedimiento y uso de herramientas tecnológicas para digitalizar actas desde las casillas, en el ámbito de competencia del Instituto o de los OPL;
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+f) Seguridad de la información, en el ámbito de competencia que corresponda, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+g) Manejo del sistema informático, en el ámbito de competencia que corresponda.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5603,25 +6147,47 @@ f) Manejo del sistema informático, en el ámbito de competencia que corresponda
 
 1. La publicación de los resultados electorales preliminares deberá realizarse a través del Instituto y los OPL, en el ámbito de sus competencias, o bien, a través de difusores oficiales, que podrán ser las instituciones académicas, públicas o privadas, y medios de comunicación en general.
 
-2. Los difusores oficiales serán invitados a participar mediante convocatoria o invitación directa, según lo determine el Instituto o los OPL. En los instrumentos jurídicos que, en su caso, sean suscritos para tales efectos, se determinarán y detallarán los mecanismos de intercambio de información entre ambas partes. Asimismo, el Instituto y los OPL, según corresponda, deberán publicar en su portal de internet, la lista de difusores oficiales.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-3. El Instituto y los OPL, en el ámbito de sus competencias, deberán construir respectivamente, un prototipo navegable de su sitio de publicación que se deberá revisar en el marco de las sesiones del COTAPREP, a más tardar cuatro meses antes del día de la Jornada Electoral. Dicho prototipo deberá considerar la plantilla base de la interfaz proporcionada por el Instituto, observando lo establecido en los Lineamientos del PREP, en lo que refiere a los datos mínimos a publicar.
+2. Los difusores oficiales serán invitados a participar mediante convocatoria o invitación directa, según lo determine el Instituto o los OPL. En los instrumentos jurídicos que, en su caso, sean formalizados para la participación de los difusores oficiales del PREP, se determinarán y detallarán los mecanismos de intercambio de información entre ambas partes. Asimismo, el Instituto y los OPL, según corresponda, deberán publicar en su portal de internet, la lista de difusores oficiales.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. El Instituto y los OPL, en el ámbito de sus competencias, deberán construir respectivamente, un prototipo navegable de su sitio de publicación que se deberá revisar en el marco de las sesiones del COTAPREP, a más tardar cuatro meses antes del día de la Jornada electoral. Dicho prototipo deberá apegarse a las plantillas base de la interfaz establecidas por el Instituto, observando lo establecido en los Lineamientos del PREP, en lo que refiere a los datos mínimos a publicar.
 
 4. El inicio y cierre de la publicación de los resultados electorales preliminares dependerá de la elección de que se trate con base en lo siguiente:
 
-a) Elecciones federales: la publicación podrá iniciar a partir de las 20:00 horas, tiempo del centro, considerando las zonas de husos horarios más occidentales del territorio nacional, quedando prohibido publicar por cualquier medio, los resultados electorales preliminares antes de la hora señalada. El cierre de publicación será en un plazo máximo de veinticuatro horas contadas a partir de la hora de inicio de la publicación;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-b) Elecciones locales: los OPL deberán determinar la hora de inicio de su publicación entre las 18:00 y las 20:00 horas del horario local de la entidad federativa que corresponda, quedando prohibido publicar por cualquier medio los resultados electorales preliminares antes de la hora señalada. El cierre de publicación será en un plazo máximo de veinticuatro horas contadas a partir de la hora de inicio de la publicación.
+a) Elecciones federales: la publicación podrá iniciar a partir de las 20:00 horas, tiempo del centro, considerando las zonas de husos horarios más occidentales del territorio nacional, quedando prohibido publicar por cualquier medio, los resultados electorales preliminares antes de la hora señalada. El cierre de publicación será en un plazo de veinticuatro horas contadas a partir de la hora de inicio de la publicación;
 
-5. El Instituto y los OPL cerrarán la publicación antes del plazo señalado en las fracciones anteriores, siempre y cuando se logre el 100% del registro de las actas PREP esperadas y se hayan agotado los recursos de recuperación de las mismas.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-6. Al cierre de la publicación del PREP, el Instituto y los OPL deberán levantar un acta circunstanciada en la que se haga constar la información relevante al cierre.
+b) Elecciones locales: los OPL deberán determinar la hora de inicio de su publicación entre las 18:00 y las 20:00 horas del horario local de la entidad federativa que corresponda, quedando prohibido publicar por cualquier medio los resultados electorales preliminares antes de la hora señalada. El cierre de publicación será en un plazo de veinticuatro horas contadas a partir de la hora de inicio de la publicación.
 
-7. La publicación de los resultados electorales preliminares se realizará con base en los datos a capturar, calcular y publicar establecidos en el Anexo 13. El tratamiento de inconsistencias de los datos contenidos en las actas de escrutinio y cómputo destinadas para el PREP, se hará de conformidad con lo dispuesto en el anexo mencionado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
 
-8. Una vez concluida la operación del PREP, el Instituto y los OPL deberán mantener a disposición del público en general, a través de Internet y de forma permanente, el portal de los resultados electorales preliminares y las bases de datos finales, conservando el formato y contenido intactos. En caso de que la dirección electrónica utilizada para la publicación del PREP el día de la jornada electoral sea modificada, el OPL deberá informarlo al Instituto en un plazo máximo de 3 días contados a partir de que esto ocurra, y hacerlo de conocimiento público.
+5. Previo al inicio de la publicación del PREP se podrán procesar Actas PREP que hayan sido digitalizadas a través del mecanismo, procedimiento y uso de herramientas tecnológicas para digitalizar actas desde las casillas, o acopiadas previamente en los CATD.
 
-9. Los difusores oficiales deberán garantizar que el acceso a la información sea público y gratuito.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+6. El Instituto y los OPL podrán cerrar la publicación antes del plazo señalado en las fracciones anteriores, siempre y cuando se logre el 100% del registro de las actas PREP esperadas y se hayan agotado los recursos de recuperación de las mismas. Para efectos de lo anterior, se entenderá que las Actas PREP son registradas cuando su estatus ha sido asentado en el sistema informático, sean contabilizadas o no, incluyendo las actas fuera de catálogo y las catalogadas como “Sin Acta”.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+7. Al cierre de la publicación del PREP, el Instituto y los OPL deberán levantar un acta circunstanciada en la que se haga constar la información relevante al cierre.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+8. La publicación de los resultados electorales preliminares se realizará con base en los datos a capturar, calcular y publicar establecidos en el Anexo 13. El tratamiento de inconsistencias de los datos contenidos en las actas de escrutinio y cómputo destinadas para el PREP se hará de conformidad con lo dispuesto en el Anexo mencionado y en el Anexo 18.5 del presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+9. Una vez concluida la operación del PREP, el Instituto y los OPL deberán mantener a disposición del público en general, a través de Internet y de forma permanente, el portal de los resultados electorales preliminares y las bases de datos finales, conservando el formato y contenido intactos. En caso de que la dirección electrónica utilizada para la publicación del PREP el día de la Jornada Electoral sea modificada, el OPL deberá informarlo al Instituto en un plazo máximo de 3 días contados a partir de que esto ocurra, y hacerlo de conocimiento público.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 21 DE JULIO DE 2020)</small>
+
+10. Los difusores oficiales deberán garantizar que el acceso a la información sea seguro, público y gratuito, y que cuentan con los mecanismos que permitan preservar la confiabilidad, integridad y disponibilidad de la información publicada, debiendo manifestarlo por escrito.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5631,7 +6197,9 @@ b) Elecciones locales: los OPL deberán determinar la hora de inicio de su publi
 
 ###### Artículo 354.
 
-1. El Instituto dará seguimiento puntual y sistemático a los trabajos de implementación y operación del Prep que lleven a cabo los OPL. Asimismo, podrá asistir y acompañar el desarrollo de los simulacros y de la jornada electoral, tanto de manera presencial como remota. Para garantizar lo anterior, los OPL deberán brindar las facilidades necesarias y atender los requerimientos de información que, en su caso, formule el Instituto.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. El Instituto dará seguimiento puntual y sistemático a los trabajos de implementación y operación del PREP que lleven a cabo los OPL. Asimismo, podrá asistir a las sesiones y reuniones de trabajo con derecho a voz de los COTAPREP, acompañar durante la ejecución de los simulacros y la operación del PREP, tanto de manera presencial como remota. Para garantizar lo anterior, los OPL deberán brindar las facilidades necesarias y atender los requerimientos de información que, en su caso, formule el Instituto.
 
 2. Los OPL deberán informar al Instituto, a través de la Utvopl, sobre el avance en la implementación y operación del Prep.
 
@@ -5669,7 +6237,9 @@ f) Publicación.
 
 ###### Artículo 356.
 
-1. Los conteos rápidos son el procedimiento estadístico diseñado con la finalidad de estimar con oportunidad las tendencias de los resultados finales de una elección, a partir de una muestra probabilística de resultados de actas de escrutinio y cómputo de las casillas electorales, cuyo tamaño y composición se establecen previamente, de acuerdo a un esquema de selección específico de una elección determinada, y cuyas conclusiones se presentan la noche de la jornada electoral.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Los conteos rápidos son el procedimiento estadístico diseñado con la finalidad de estimar con oportunidad las tendencias de los resultados finales de una elección, a partir de una muestra probabilística de resultados de actas de escrutinio y cómputo de las casillas electorales, o en su caso de los Cuadernillos para hacer las operaciones de escrutinio y cómputo de casilla, cuyo tamaño y composición se establecen previamente, de acuerdo a un esquema de selección específico de una elección determinada, y cuyas conclusiones se presentan la noche de la Jornada Electoral.
 
 2. En el diseño, implementación y operación de los conteos rápidos, las autoridades electorales y el comité técnico de la materia, deberán garantizar la seguridad, transparencia, confiabilidad, certeza, calidad e integridad del procedimiento estadístico, así como el profesionalismo y la máxima publicidad en la ejecución de sus trabajos.
 
@@ -5683,7 +6253,13 @@ f) Publicación.
 
 1. El Consejo General y los Órganos Superior de Dirección de los OPL, tendrán la facultad de determinar la realización de los conteos rápidos en sus respectivos ámbitos de competencia. Cada OPL, en su caso, informará al Consejo General sobre su determinación dentro de los tres días posteriores a que ello ocurra, por conducto de la Utvopl.
 
-2. No obstante, los OPL deberán realizar conteos rápidos en el caso de elecciones de gobernador o de jefe de gobierno en el caso de la Ciudad de México.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. No obstante, los OPL deberán realizar conteos rápidos en el caso de elecciones de gobernador o de jefe de gobierno en el caso de la Ciudad de México. El INE podrá realizar el conteo rápido en elecciones locales, mediante solicitud del OPL o por el procedimiento de atracción/asunción.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+3. Con la finalidad de optimizar recursos en las elecciones concurrentes, el Instituto realizará preferentemente los conteos rápidos, previo ejercicio de la facultad de atracción o asunción correspondiente.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5727,11 +6303,17 @@ f) Publicación.
 
 ###### Artículo 362.
 
-1. El Consejo General del Instituto y su homólogo en los OPL, dentro de su ámbito de competencia, deberán aprobar, al menos cuatro meses antes de la fecha en que deba celebrarse la respectiva jornada electoral, la integración de un Comité Técnico Asesor que les brindará asesoría para el diseño, implementación y operación de los conteos rápidos, cuyos integrantes deberán iniciar sus funciones al día siguiente de su designación.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-2. Los Cotecora se integrarán por las figuras siguientes:
+1. El Consejo General del Instituto y su homólogo en los OPL, dentro de su ámbito de competencia, deberán aprobar, al menos cuatro meses antes de la fecha en que deba celebrarse la respectiva Jornada Electoral, la integración de un Comité Técnico Asesor que les brindará asesoría para el diseño, implementación y operación de los conteos rápidos, cuyos integrantes deberán iniciar sus funciones al día siguiente de su designación. En los casos en que un comité deba realizar el conteo rápido federal y, a su vez, los conteos rápidos locales, el Consejo General podrá aprobar la integración del Comité Técnico Asesor cuando menos seis meses antes de la fecha de la Jornada Electoral.
 
-a) Asesores Técnicos: Cuando menos tres expertos en métodos estadísticos y diseño muestral, con derecho a voz y voto, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. El COTECORA se integrará por las figuras siguientes:
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Asesores Técnicos: Se integrará un Comité de expertos en métodos estadísticos y diseño muestral, con derecho a voz y voto. El número de sus integrantes dependerá del alcance y los trabajos a realizar en cada Proceso Electoral, y
 
 b) Secretario Técnico: Funcionario del Instituto o del OPL, según corresponda, con derecho a voz, quien será el enlace entre el comité y el Consejo General respectivo, y auxiliará en todo momento a los asesores técnicos.
 
@@ -5821,7 +6403,9 @@ g) Presentar los informes señalados en el artículo siguiente.
 
 1. El Instituto, a través de las áreas operativas, brindará la asesoría que sea solicitada por los OPL en la realización de los conteos rápidos, entre otros, en los temas siguientes:
 
-a) Trabajo operativo para la recolección de los datos de las actas de escrutinio y cómputo;
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+a) Trabajo operativo para la recolección de los datos que servirán como insumo para el conteo rápido.
 
 b) Acopio y transmisión de la información, y
 
@@ -5895,7 +6479,9 @@ c) Los periodos que amparan la custodia de la muestra.
 
 1. La selección de la muestra definitiva a través de la cual se realizará la inferencia estadística de los resultados de la elección que se trate, se llevará a cabo en un acto público, a través de un protocolo que definirá el Instituto y el OPL, en su respectivo ámbito de competencia.
 
-2. La selección referida se llevará a cabo entre el miércoles y viernes previos al día de la jornada electoral en el caso de elecciones locales, y entre el miércoles y sábado previos a la jornada electoral en el caso de las elecciones federales.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. La selección referida se llevará a cabo entre miércoles y sábado previos a la Jornada Electoral.
 
 3. El Instituto deberá recibir y conservar la información con las medidas de seguridad necesarias que garanticen su manejo confidencial.
 
@@ -5907,11 +6493,11 @@ c) Los periodos que amparan la custodia de la muestra.
 
 2. El Secretario Técnico invitará a este acto a los integrantes del Consejo General o del Órgano Superior de Dirección del OPL, según el caso, así como a los representantes de los partidos políticos y, en su caso, de las candidaturas independientes.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 377.
 
-1. La muestra será compartida exclusivamente con el Cotecora y el Instituto o el OPL que corresponda, y no podrá hacerse pública en tanto no se entreguen los resultados del conteo rápido al Consejo General u Órgano Superior de Dirección respectivo.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. Antes del inicio de la Jornada Electoral la muestra sólo podrá ser usada para fines de planeación operativa, y no podrá hacerse pública en tanto no se entreguen los resultados del conteo rápido al Consejo General u Órgano Superior de Dirección respectivo.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5939,15 +6525,21 @@ f) La generación y envío del reporte con la simulación de las estimaciones, a
 
 ###### Artículo 379.
 
-1. El Instituto y el OPL, en sus respectivos ámbitos de competencia, deberán garantizar que se cuente con los recursos humanos, materiales, financieros y tecnológicos necesarios para llevar a cabo el operativo en campo, a fin de recabar y transmitir los datos de las actas de escrutinio y cómputo de las casillas seleccionadas en la muestra.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+1. El Instituto y el OPL, en sus respectivos ámbitos de competencia, deberán garantizar que se cuente con los recursos humanos, materiales, financieros y tecnológicos necesarios para llevar a cabo el operativo en campo, a fin de recabar y transmitir los datos de las actas de escrutinio y cómputo, o bien, de los cuadernillos de operaciones de las casillas seleccionadas en la muestra.
 
 2. El Instituto establecerá los mecanismos de coordinación mediante convenios específicos con los OPL que deberán celebrarse al menos tres meses antes de la jornada electoral, para la participación del personal que recabará y transmitirá los datos obtenidos de las actas de escrutinio y cómputo respectivas.
 
 3. El Instituto y el OPL, en sus respectivos ámbitos de competencia, deberán diseñar el Programa de Operación Logística que asegure la recolección y transmisión de los datos de una manera segura y oportuna. El OPL deberá informar al Instituto sobre sus previsiones al respecto, a efecto de que, en su caso, pueda recibir las recomendaciones pertinentes, y deberá hacerlo de su conocimiento una vez que sea aprobado por su Órgano Superior de Dirección, dentro de los tres días posteriores a que ello ocurra, por conducto de la UTVOPL.
 
-4. El personal en campo autorizado para tener acceso a los resultados de la votación anotados en las actas de escrutinio y cómputo de casilla, serán los supervisores electorales y CAE. Solamente en casos de necesidad evidente, ante la asignación de diversas casillas a un solo CAE, el Consejo Distrital podrá aprobar que el CAE local lo auxilie enviándole una fotografía del acta correspondiente, en cuyo caso el CAE será el responsable de transmitirla conforme al procedimiento previamente establecido. Asimismo, para el caso de que sea necesario, el Consejo Distrital aprobará en la sesión ordinaria del mes previo al de la jornada electoral, un orden de prelación de técnicos electorales que podrán auxiliar enviando al CAE la fotografía del acta correspondiente.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-5. Para asegurar la oportunidad en el reporte de los datos desde las casillas, el personal en campo deberá comunicar los resultados de manera inmediata, una vez que se haya llenado el acta de escrutinio y cómputo de casilla de la elección correspondiente.
+4. El personal en campo autorizado para tener acceso a los resultados de la votación serán los supervisores electorales y CAE. Solamente en casos de necesidad evidente, ante la asignación de diversas casillas a un solo cae (sic), el Consejo Distrital podrá aprobar que el CAE local lo auxilie enviándole una fotografía del acta correspondiente, en cuyo caso el CAE será el responsable de transmitirla conforme al procedimiento previamente establecido. Asimismo, para el caso de que sea necesario, el Consejo Distrital aprobará en la sesión ordinaria del mes previo al de la Jornada Electoral, un orden de prelación de técnicos electorales que podrán auxiliar enviando al CAE la fotografía del acta correspondiente.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. Para asegurar la oportunidad en el reporte de los datos desde las casillas, el personal en campo deberá comunicar los resultados de manera inmediata, una vez que se haya llenado el acta de escrutinio y cómputo de casilla de la elección, o bien, el cuadernillo de operaciones, correspondiente.
 
 6. En elecciones concurrentes, la recopilación de los resultados registrados en las actas de casilla será auxiliada por los CAE locales en los términos que se establezca en el Programa de Operación de los Conteos Rápidos aprobado para el proceso electoral que corresponda, así como en lo señalado en los convenios de colaboración que se suscriban entre el Instituto y cada OPL.
 
@@ -5965,11 +6557,9 @@ f) La generación y envío del reporte con la simulación de las estimaciones, a
 
 4. Una vez que el Cotecora haga la entrega del reporte referido, el Instituto o el OPL procederán de inmediato a su difusión.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 381.
 
-1. En el caso que se presenten candidaturas comunes y coaliciones, el Consejo General o el Órgano Superior de Dirección del OPL, según el caso, deberá difundir de forma clara y expresa el método específico utilizado para obtener los resultados numéricos del ejercicio de Conteo Rápido.
+(DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -6017,11 +6607,17 @@ II. Casillas que se integraron al cálculo final, cada una con el resultado de l
 
 1. Los cómputos distritales de las elecciones federales se desarrollarán conforme a las reglas previstas en la LGIPE, el presente Reglamento, así como a lo dispuesto en las bases generales y lineamientos que para tal efecto sean aprobados por el Consejo General.
 
-2. La Deceyec, la deoe y la Dirección del Servicio Profesional Electoral Nacional diseñarán y elaborarán el programa y los materiales de capacitación de los cómputos distritales.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+2. La DECEYEC, DEOE y la Dirección Ejecutiva del Servicio Profesional Electoral Nacional diseñarán y elaborarán el programa y los materiales de capacitación de los cómputos distritales. La capacitación deberá iniciar por lo menos un mes antes de la Jornada Electoral y deberá considerar a personal de los Consejos Locales y Distritales, de las juntas ejecutivas locales y distritales, de representaciones de partidos políticos y candidaturas independientes, y de SE y CAE.
 
 3. Los consejos distritales, previa autorización de la Deoe, podrán acordar que se habilite un espacio alterno, dentro o anexo de las mismas instalaciones del consejo distrital, siempre que no sea posible realizar el recuento parcial o total dentro de la sede del órgano distrital por falta de espacio.
 
 4. En la apertura y cierre de bodegas, se atenderán las mismas reglas que para el resguardo de la documentación y material electoral se contemplan en el Capítulo IX del Título I del Libro Tercero de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 2020)</small>
+
+5. A más tardar siete meses antes de la Jornada Electoral, la Comisión de capacitación y organización electoral deberá autorizar la información que arrojará el sistema de cómputos, así como las pantallas que se proyectarán al público en general.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -6877,33 +7473,13 @@ u) El secretario llena el Recibo de copia legible de las actas de casilla y del 
 
 ### CAPÍTULO X.. ESTUDIOS SOBRE LA DOCUMENTACIÓN ELECTORAL
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 433.
 
-1. El Instituto, a propuesta de la comisión correspondiente o del Consejo General, realizará estudios sobre las boletas electorales y demás documentación electoral utilizada durante el proceso electoral federal que corresponda, al menos, respecto de los aspectos siguientes:
+[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. DE 21 DE JULIO DE 2020, PÁGINAS 94 Y 120].
 
-I. Coordinado por la Deoe:
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
-a) Estudio muestral de las boletas electorales utilizadas en la o las elecciones: características de los votos anulados;
-
-b) Análisis del llenado de las actas de escrutinio y cómputo de casilla de la o las elecciones;
-
-c) Estudio muestral sobre la participación ciudadana en la o las elecciones, y
-
-d) Estudio sobre las características geoelectorales de votación de los representantes de partidos políticos, así como de las y los candidatos independientes durante la jornada electoral y su impacto sobre los resultados en la o las elecciones.
-
-II. Coordinado por la Deceyec:
-
-a) Estudio censal sobre la participación ciudadana en la o las elecciones, y
-
-b) Estudio sobre la calidad de la capacitación electoral del proceso electoral correspondiente.
-
-2. Los estudios se realizarán conforme al plan de trabajo que definan las áreas responsables de su realización y con la participación del personal de los órganos desconcentrados del Instituto.
-
-3. A la conclusión de los cómputos distritales, la Deoe será responsable de contar con un inventario sobre la disponibilidad y condiciones de la siguiente documentación utilizada durante la jornada electoral: actas de escrutinio y cómputo de casilla, listas nominales de electores, listas adicionales, cuadernillos para realizar operaciones de cómputo, relación de representantes de partidos políticos y, en su caso, candidatos independientes.
-
-4. En caso que alguna de las áreas considere necesario incorporar algún estudio adicional sobre la documentación electoral, deberá presentar los objetivos y el plan de trabajo, así como los recursos que sean requeridos, a consideración de la Comisión correspondiente para su aprobación.
+1. En caso de que alguna de las áreas considere necesario desarrollar algún estudio sobre el Proceso Electoral, deberá presentar su propuesta a la comisión correspondiente a más tardar en el mes de julio del año de la elección. Dicha propuesta deberá contener los objetivos y el plan de trabajo, así como los recursos que sean requeridos.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -8096,5 +8672,51 @@ Página INE:
 https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/106769/CGex201903-21-ap-15.pdf
 
 Página DOF: www.dof.gob.mx/2019/INE/CGex201903_21_ap_15.pdf
+
+D.O.F. 21 DE JULIO DE 2020.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Primero […]
+
+Segundo. Se aprueba la adición, sustitución y modificación de los siguientes Anexos mismos que son parte integral del RE, que corresponden y complementan directamente algunas de las reformas referidas en el punto anterior:
+
+No. Anexo Denominación
+
+2 Procedimiento para el resguardo de formatos de credencial
+
+para votar por Proceso Electoral Federal
+
+4.1 Documentos y materiales electorales
+
+5 Bodegas electorales y procedimiento para el
+
+conteo, sellado y agrupamiento de boletas electorales.
+
+8.1 Manual de ubicación, integración y funcionamiento
+
+de casillas electorales.
+
+13 Lineamientos del Programa de Resultados
+
+Electorales Preliminares (PREP)
+
+Tercero. Se instruye a la Dirección Ejecutiva de Organización Electoral para que presente a la comisión correspondiente, a más tardar en el mes de agosto, los Lineamientos que deberán seguir las juntas locales para la revisión de los formatos únicos de los Organismos Públicos Locales, en términos del artículo 160, numeral 1, inciso a), del Reglamento de Elecciones.
+
+Cuarto. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Electorales dar a conocer el contenido del presente Acuerdo a las presidencias de los Consejos Generales de los OPL, a fin de que realicen las previsiones correspondientes.
+
+Quinto. El presente Acuerdo, las modificaciones al Reglamento de Elecciones, así como a sus Anexos entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Sexto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta Electoral y en Norma INE.
+
+Las reformas al Acuerdo y el anexo pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-ordinaria-del-consejo-general-08-de-julio-de-2020/
+
+Página DOF
+
+www.dof.gob.mx/2020/INE/CGord202007_08_ap_12.pdf
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
