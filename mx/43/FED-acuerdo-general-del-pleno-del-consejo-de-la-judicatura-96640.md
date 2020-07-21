@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2019-10-10"
+last_updated: "2020-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2020.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -115,9 +115,9 @@ XIII. Presidente: Consejero Presidente del Consejo;
 
 XIV. Secretaría General: Secretaría General de la Presidencia del Consejo de la Judicatura Federal; y
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
-XV. Unidades administrativas: Las ponencias de los Consejeros, Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia; secretarías técnicas de Comisiones, direcciones generales, las Administraciones de los Centros de Justicia Penal, y demás que sean autorizadas por el Pleno.
+XV. Unidades administrativas: Las ponencias de las y los Consejeros, Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual; secretarías técnicas de Comisiones, direcciones generales, las Administraciones de los Centros de Justicia Penal, y demás que sean autorizadas por el Pleno.
 
 ###### Artículo 3.
 
@@ -285,9 +285,9 @@ VI. Vigilar el funcionamiento de los órganos auxiliares;
 
 VII. Informar al Pleno de la Suprema Corte de Justicia de la Nación, al Senado de la República o al Presidente de la República, según corresponda, la designación, la terminación del encargo de los Consejeros respectivos, con dos meses de antelación o la falta definitiva del Consejero que hubiesen designado, a efecto de que con toda oportunidad puedan hacerse los nombramientos concernientes;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
-VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, al Secretario General de la Presidencia, secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral, y de Transparencia, de directores generales, y personal subalterno del Pleno.
+VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a las y los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso a quienes ocupen la titularidad de la Secretaría General de la Presidencia, secretarías ejecutivas, de órganos auxiliares, coordinaciones, de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; la de Implementación de la Reforma en materia de Justicia Laboral; la de Transparencia; y la de Prevención y Combate al Acoso Sexual; la titularidad de direcciones generales, y del personal subalterno del Pleno.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 2015)</small>
 
@@ -355,9 +355,17 @@ d) (DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA
 
 e) Unidad de Implementación de la Reforma en materia de Justicia Laboral;
 
-f) Unidad de Transparencia; y
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
-g) Las demás que determine el Pleno.
+f) Unidad de Transparencia;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+
+g) Unidad de Prevención y Combate al Acoso Sexual; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+
+h) Las demás que determine el Pleno.
 
 II. Dirección General de Comunicación Social y Vocería.
 
@@ -1039,7 +1047,7 @@ II. Los demás que determine el Pleno.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
 ###### Artículo 60.
 
@@ -1151,11 +1159,11 @@ La Unidad de Enlace Legislativo representará al Consejo ante el Congreso de la 
 
 La operación y funcionamiento de la Unidad de Enlace Legislativo se llevará a cabo de conformidad con los lineamientos que se emitan.
 
-> <small>(REFORMADA SU DENOMINACIÓN, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
 ### CAPÍTULO SÉPTIMO
 
-DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; Y DE TRANSPARENCIA
+DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; DE TRANSPARENCIA; Y DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA
 
@@ -1163,17 +1171,17 @@ DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDADES PARA LA CONSOLIDACIÓN
 
 ###### Artículo 67.
 
-Al frente de la Secretaría General, de las secretarías ejecutivas; de las coordinaciones y de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, estará un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, relacionado con las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
+Al frente de la Secretaría General, de las secretarías ejecutivas; de las coordinaciones y de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, estará una o un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, relacionado con las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA, D.O.F. 29 DE MARZO DE 2019)</small>
 
 En el caso del Secretario General de la Presidencia, del Coordinador de Asesores, los Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial; de Creación de Nuevos Órganos; y de Disciplina; y de los titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral, el título profesional deberá ser de Licenciado en Derecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
 ###### Artículo 68.
 
-El Secretario General de la Presidencia, los secretarios ejecutivos, los coordinadores, y los Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia tendrán las siguientes atribuciones:
+Quien ocupe la titularidad de la Secretaría General de la Presidencia, las secretarías ejecutivas, las coordinaciones, y de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, tendrán las siguientes atribuciones:
 
 I. Representar a la unidad administrativa que corresponda;
 
@@ -1229,11 +1237,11 @@ XVII. Definir, revisar y ser responsables de los contenidos e información, que 
 
 XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
 ###### Artículo 69.
 
-La Secretaría General, las secretarías ejecutivas, las coordinaciones y las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
+La Secretaría General, las secretarías ejecutivas, las coordinaciones y las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -1343,7 +1351,9 @@ XIII. Las demás que establezcan el Pleno y las Comisiones.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
 
-#### SECCIÓN SEXTA. DE LAS UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; Y DE TRANSPARENCIA
+#### SECCIÓN SEXTA
+
+DE LAS UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL; DE TRANSPARENCIA; Y DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -2141,7 +2151,7 @@ XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS ÓRGANOS AUXILIARES EN LO PARTICULAR
 
@@ -2260,6 +2270,48 @@ X. Las demás que le confiera el Presidente, el Comité de Transparencia y las d
 ###### Artículo 98 Sexies.
 
 La Unidad de Transparencia contará con las secretarías que determinen los acuerdos y manuales de organización respectivos.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+
+###### Artículo 98 Septies.
+
+La Unidad de Prevención y Combate al Acoso Sexual es el área administrativa dependiente de la Secretaría General encargada de proporcionar atención en los casos de acoso sexual y cualquier otra forma de violencia sexual y de género a los y las trabajadoras en el Consejo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+
+###### Artículo 98 Octies.
+
+La persona Titular de la Unidad de Prevención y Combate al Acoso Sexual, tendrá las siguientes atribuciones, referidas a víctimas que laboren o hayan laborado en el Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral:
+
+I. Proporcionar atención jurídica, médica y psicológica de primer contacto, para las víctimas en casos de acoso sexual y cualquier otra forma de violencia sexual y de género;
+
+II. Asesorar a los y las trabajadoras en casos de acoso sexual y cualquier otra forma de violencia sexual y de género, así como dar el seguimiento correspondiente a los mismos;
+
+III. Atender los casos de acoso laboral únicamente cuando se vinculen con otros de acoso sexual y cualquier otra forma de violencia sexual y de género;
+
+IV. Coadyuvar con las víctimas de acoso sexual y cualquier otra forma de violencia sexual y de género en la presentación de denuncias y en la solicitud de medidas cautelares, así como brindarles acompañamiento ante las instancias de investigación y substanciación en materia disciplinaria y, si fuese el caso, en procedimientos de naturaleza laboral;
+
+V. Generar acciones con perspectiva de género que garanticen el acceso a los y las trabajadoras a una vida libre de violencia;
+
+VI. Elaborar programas que permitan erradicar la violencia sexual y de género contra los y las trabajadoras del Poder Judicial de la Federación;
+
+VII. Rendir los informes que le sean requeridos por los órganos competentes del Consejo e igualmente solicitar información a las áreas vinculadas con los casos atendidos;
+
+VIII. Crear un sistema de control y estadística de los asuntos atendidos;
+
+IX. Coadyuvar en la elaboración del presupuesto con perspectiva de género, a efecto de incorporar acciones con ese enfoque;
+
+X. Realizar investigaciones y emitir protocolos de actuación que incluyan acciones preventivas para la adecuada prevención, detección y atención en casos de acoso sexual y cualquier otra forma de violencia sexual y de género, incluyendo, enunciativamente, la capacitación y sensibilización del personal adscrito a las distintas áreas administrativas del Consejo, particularmente las encargadas de la investigación y sustanciación de asuntos de índole laboral y disciplinaria;
+
+XI. Crear e implementar mecanismos relacionados con la presentación de denuncias ante las instancias correspondientes;
+
+XII. Implementar medidas que incentiven a los y las víctimas de acoso sexual y cualquier otra forma de violencia sexual y de género, a formular las denuncias respectivas;
+
+XIII. Desarrollar mecanismos, lineamientos o protocolos para detectar ambientes de acoso en los órganos jurisdiccionales y áreas administrativas en el Poder Judicial de la Federación;
+
+XIV. Establecer mecanismos de interacción con las personas involucradas para solicitar información y allegarse de los elementos necesarios, para brindar la atención en términos de las fracciones anteriores; y
+
+XV. Las demás que establezcan el Pleno y las Comisiones.
 
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS AUXILIARES DEL CONSEJO
 
@@ -3391,7 +3443,9 @@ VII. Representar al Consejo en los asuntos jurídicos que le encomiende el Pleno
 
 VIII. Formular denuncias o querellas y presentarlas ante la autoridad competente, en los casos en que, en términos de la fracción XI del artículo 81 de la Ley, se deba suspender en sus cargos a magistrados de Circuito y jueces de Distrito que aparecieren involucrados en la comisión de un delito, cuando así lo determine el Pleno;
 
-IX. Intervenir, en representación del Consejo, Consejeros, así como de sus órganos auxiliares y unidades administrativas, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercer acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos y otorgar el perdón si procediere, previa autorización del Pleno; transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, promover juicio de amparo e interponer los recursos previstos por la ley de la materia; otorgar poderes para comparecer en controversias laborales; otorgar y revocar poderes generales y especiales, incluyendo los que requieran de cláusula o autorización especial y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+
+IX. Intervenir, en representación del Consejo, las y los Consejeros, así como de sus órganos auxiliares y unidades administrativas, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercer acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos y otorgar el perdón si procediere, previa autorización del Pleno; transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, promover juicio de amparo e interponer los recursos previstos por la ley de la materia; otorgar poderes para comparecer en controversias laborales; otorgar y revocar poderes generales y especiales, incluyendo los que requieran de cláusula o autorización especial y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
 
 La representación que se establece en esta fracción también se confiere a los secretarios técnicos adscritos a la Dirección General de Asuntos Jurídicos, en el ámbito de sus respectivas competencias, sin perjuicio de los mandatarios judiciales, delegados y autorizados, que para el efecto se designe conforme a la ley procesal de la materia;
 
@@ -3811,13 +3865,13 @@ XVIII. Elaborar las propuestas de prórroga de las plazas de adscripción tempor
 
 XIX. Autorizar en el ámbito de su competencia las sustituciones por maternidad y enfermedad, previa solicitud del titular del área administrativa u órgano jurisdiccional, o implementar el trámite correspondiente, verificando la existencia de recursos presupuestales disponibles y observando los criterios que emita la Comisión de Administración;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
-XX. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, órganos auxiliares, y direcciones generales, respecto del personal a su cargo;
+XX. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, órganos auxiliares, y direcciones generales, respecto del personal a su cargo;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
-XXI. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, órganos auxiliares, y direcciones generales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
+XXI. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a la Secretaría General, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, órganos auxiliares, y direcciones generales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
 
 XXII. Operar los cambios de rango salarial de las plazas de mandos medios; y homólogos que en su caso corresponde, a solicitud de los titulares de las áreas administrativas respectivas, previo cumplimiento de las disposiciones establecidas;
 
@@ -4343,9 +4397,9 @@ III. Entregar los asuntos que ingresen por su conducto a las diferentes áreas a
 
 IV. Enviar la documentación oficial dirigida al interior de la República al Servicio Postal Mexicano, o entregarla al Servicio de Mensajería que remitan las áreas del Edificio Sede;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
-V. Entregar documentación oficial en domicilios particulares y oficiales cuando así lo solicite el Pleno, las Comisiones, los Consejeros, la Secretaría General, las secretarías ejecutivas, la Coordinación de Seguridad del Poder Judicial de la Federación o las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia;
+V. Entregar documentación oficial en domicilios particulares y oficiales cuando así lo solicite el Pleno, las Comisiones, los Consejeros, la Secretaría General, las secretarías ejecutivas, la Coordinación de Seguridad del Poder Judicial de la Federación o las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -4833,11 +4887,11 @@ Toda licencia deberá solicitarse por escrito ante el área administrativa corre
 
 La autorización de la licencia será por escrito, con copia dirigida a la Secretaría Ejecutiva de Administración.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
 
 ###### Artículo 231.
 
-Las licencias con o sin goce de sueldo, hasta por treinta días del Secretario General de la Presidencia, de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Transparencia, directores generales, y personal subalterno del Pleno, serán resueltas por el Presidente; en las que excedan de este término será el Pleno quien resuelva.
+Las licencias con o sin goce de sueldo, hasta por treinta días del Secretario General de la Presidencia, de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; y de Prevención y Combate al Acoso Sexual, directores generales, y personal subalterno del Pleno, serán resueltas por el Presidente; en las que excedan de este término será el Pleno quien resuelva.
 
 ###### Artículo 232.
 
@@ -6056,3 +6110,17 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para
 TERCERO. Los procedimientos que se encuentren en trámite el día de la aprobación, y por tanto de la entrada en vigor del presente Acuerdo, se resolverán conforme a las disposiciones contenidas en el mismo.
 
 CUARTO. Tratándose de las aclaraciones presentadas en el sistema de recepción de declaraciones, a que se refiere el artículo 46 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, la Dirección General de Tecnologías de la Información, contará con un plazo de tres meses para su implementación.
+
+D.O.F. 21 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
+
+TERCERO. La Unidad de Prevención y Combate al Acoso Sexual, iniciará funciones el 1 de marzo de 2020.
+
+CUARTO. La Unidad de Prevención y Combate al Acoso Sexual, tendrá competencia para dar atención a los casos de acoso sexual y de cualquier otra forma de violencia sexual y de género, incluso cuando hayan ocurrido antes de su creación.
+
+QUINTO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
