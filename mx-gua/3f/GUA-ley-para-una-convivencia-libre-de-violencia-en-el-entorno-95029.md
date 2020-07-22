@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-una-convivencia-libre-de-violencia-en-el-entorno-95029
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-02"
-last_updated: "2019-08-01"
+last_updated: "2020-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA UNA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 2 de julio de 2013.
 
@@ -191,6 +191,12 @@ Deber de protección de las autoridades
 
 Las autoridades, en el ámbito de su competencia, deberán adoptar las medidas que garanticen a las personas integrantes de la Comunidad Educativa la protección y el cuidado necesarios para preservar su integridad física, psicológica y social, sobre la base del respeto a su dignidad.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2020)</small>
+
+Medidas de protección reforzada
+
+Artículo 9 bis. Las autoridades educativas establecerán medidas de protección reforzada para evitar, tratar y remediar cualquier situación de violencia escolar que sufran los alumnos asociados con restricciones en su capacidad de aprender, desórdenes de adaptación, emocionales y conductuales, lo anterior con la finalidad de desarrollar plenamente sus capacidades, y evitar a los alumnos una situación de riesgo.
+
 Deber de difusión
 
 ###### Artículo 10.
@@ -309,7 +315,11 @@ IV. En coordinación con las autoridades correspondientes, incorporar a la Agend
 
 V. Realizar acciones de capacitación y sensibilización a su personal en el tema de violencia escolar; y
 
-VI. Las demás que le señalen las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2020)</small>
+
+VI. Generar Diagnósticos y recomendaciones necesarios ante la existencia de algún trastorno o discapacidad que tenga como consecuencia problemas de adaptación para los alumnos, solicitados por la autoridad educativa de conformidad con los protocolos respectivos; y
+
+VII. Las demás que le señalen las disposiciones legales aplicables.
 
 Atribuciones de la Secretaría de Seguridad Pública
 
@@ -850,3 +860,35 @@ Procesos de entrega recepción
 Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
 
 El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+P.O. 22 DE JULIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 203 QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL CUAL SE EXPIDE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO, SE ABROGAN DIVERSOS ORDENAMIENTOS; ASÍ COMO SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE VARIAS LEYES”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta ciento ochenta días contados a partir de la entrada en vigencia del presente decreto, para crear el instituto responsable de la innovación en el estado de Guanajuato. La Secretaría de Innovación, Ciencia y Educación Superior, continuará ejerciendo las atribuciones en materia de innovación, ciencia y tecnología, hasta el acto formal de entrega recepción.
+
+Artículo Tercero. La Secretaría de Innovación, Ciencia y Educación Superior transferirá a la Secretaría de Educación, los programas, proyectos y procesos, asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, a través de la entrega-recepción respectiva.
+
+El personal de la Secretaría de Innovación, Ciencia y Educación Superior, conforme a su situación laboral pasará a integrarse a la Secretaría de Educación o el Instituto responsable de la innovación en el estado de Guanajuato, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Artículo Cuarto. La Secretaría de Innovación, Ciencia y Educación Superior continuará ejerciendo sus labores de obtención de financiamiento y atracción de recursos hasta en tanto el instituto responsable de la innovación en el estado de Guanajuato inicie formalmente sus actividades de colaboración con instituciones de financiamiento y obtención de recursos.
+
+Artículo Quinto. La Secretaría de Educación sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Innovación, Ciencia y Educación Superior en materia de educación superior, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Igualmente, el instituto responsable de la innovación en el estado de Guanajuato sustituye en todas sus obligaciones, así como los compromisos adquiridos por la Secretaría de Innovación, Ciencia y Educación Superior, en materia de innovación, ciencia y tecnología, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Para todos los efectos legales correspondientes, el instituto responsable de la innovación en el estado de Guanajuato a que alude el presente Decreto, y la Secretaría de Educación, en lo correspondiente a educación superior, se entenderá referido a la Secretaría de Innovación, Ciencia y Educación Superior, en cuanto a la competencia en materia de ciencia e innovación y educación superior, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Artículo Sexto. Los asuntos que en materia de educación superior actualmente estén pendientes de resolver por parte de la Secretaría de Innovación, Ciencia y Educación Superior y cuyo trámite haya iniciado bajo la vigencia de las disposiciones de la Ley de Educación para el Estado de Guanajuato, que se abroga mediante el presente Decreto, se seguirán tramitando con base en esas disposiciones, hasta su debida conclusión.
+
+Artículo Séptimo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Educación y el Instituto responsable de la innovación en el estado de Guanajuato, para la correcta operación de las atribuciones conferidas.
+
+El personal de la Secretaría de Innovación, Ciencia y Educación Superior que a la fecha ha operado y participado en el procesamiento, cálculo y pago de la nómina, durante el plazo de hasta 4 meses, contados a partir del acto general de entrega recepción, se instalará de manera permanente en las oficinas de la Secretaría de Educación de Guanajuato y se coordinará con el personal que esta dependencia designe para dar continuidad a dichos procesos y acordar la conciliación y entrega de la nómina, con el fin de asegurar la remuneración oportuna del salario y prestaciones del personal transferido. En este proceso de coordinación y de instrumentación de la ruta crítica a seguir y en el establecimiento de los acuerdos respectivos participará la Secretaría de Finanzas Inversión y Administración, debiendo ministrar oportunamente los recursos correspondientes para que la Secretaría de Educación de Guanajuato continúe con dicho pago de nómina.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
+
+Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
